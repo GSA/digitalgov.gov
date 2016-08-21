@@ -1,20 +1,10 @@
-Now more than ever, decision makers in the federal government and
-private industry need easy-to-find, locally relevant climate-change
-data. Our research revealed that, while credible data are available,
-they can be hard to find, and they may not be tailorable to specific
-locations.
+Federalist is an [open source] web publishing platform for the United States federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting.
 
-In partnership with [NOAA], [NASA], and the [White House’s
-OSTP][OSTP], we explored what people are looking for in
-climate-change data and how they set about finding it. We
-interviewed folks across the country to get a comprehensive view of
-how they approach the decision-making and data-gathering processes,
-and we hope that our research inspires continued study.
+The team at [18F] builds and maintains it as a hosted service available to federal government agencies.
 
-Here, you’ll find a [report](#report) summarizing our findings,
-detailed descriptions of our research methodologies, and ways you
+Using a site like this, you can host a landing page for a [report](#report),
+information about a new program, or ways the public
 can [get in touch](#contact).
 
-[NOAA]: https://noaa.gov
-[NASA]: https://nasa.gov
-[OSTP]: https://www.whitehouse.gov/administration/eop/ostp
+[open source]: https://github.com/18F/federalist
+[18F]: https://18f.gsa.gov/
