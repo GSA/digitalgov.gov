@@ -1,0 +1,16 @@
+<ul class="downloads">
+  {% for download in page.downloads %}
+    {% if download.image %}
+    <li>
+      <a class="cover" href="{{ download.href | prepend: site.baseurl }}">
+        <img src="{{ download.image.href | prepend: site.baseurl }}" alt="{{ download.image.alt }}">
+      </a>
+
+      <a class="button" href="{{ download.href | prepend: site.baseurl }}">
+        <strong>{{ download.text.primary }}</strong>
+        {{ download.text.secondary }}
+      </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

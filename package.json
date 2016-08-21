@@ -1,0 +1,28 @@
+{
+  "name": "climate-labs",
+  "version": "1.0.0",
+  "description": "A climate information user study and report",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm run uswds",
+    "uswds": "npm run uswds:prep && npm run uswds:css && npm run uswds:fonts && npm run uswds:img",
+    "uswds:prep": "mkdir -p css && mkdir -p fonts && mkdir -p img",
+    "uswds:css": "cp -R ./node_modules/uswds/dist/css/* ./css",
+    "uswds:fonts": "cp -R ./node_modules/uswds/dist/fonts/* ./fonts",
+    "uswds:img": "cp -R ./node_modules/uswds/dist/img/* ./img",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18F/climate-labs.git"
+  },
+  "author": "Jeremia Kimelman <jeremia.kimelman@gsa.gov>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/18F/climate-labs/issues"
+  },
+  "homepage": "https://github.com/18F/climate-labs#readme",
+  "dependencies": {
+    "uswds": "^0.9.0"
+  }
+}
