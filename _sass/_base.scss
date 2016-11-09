@@ -376,7 +376,7 @@ section .container {
 }
 
 // "What we found" grid
-#what-we-found + ul {
+.grid-list + ul {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
@@ -415,19 +415,19 @@ section .container {
         left: 0;
       }
 
-      &#planning-for-climate-change::before {
+      &.clipboard-icon::before {
         background-image: url($clipboard-icon);
       }
 
-      &#reliance-on-federal-resources::before {
+      &.federal-icon::before {
         background-image: url($federal-icon);
       }
 
-      &#tailorability-and-findability::before {
+      &.search-icon::before {
         background-image: url($search-icon);
       }
 
-      &#curation-and-production-tools::before {
+      &.serve-icon::before {
         background-image: url($serve-icon);
       }
     }
