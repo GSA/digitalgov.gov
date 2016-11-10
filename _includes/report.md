@@ -1,7 +1,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales libero sit amet sapien accumsan bibendum. Quisque vestibulum ultricies sapien sed porta. Proin ipsum tellus, facilisis eget luctus sed, sollicitudin in massa. Mauris eu semper neque. Cras tempor suscipit odio sit amet maximus. Nunc ante lectus, dictum non fringilla sed, aliquet at odio. Etiam ut lorem eu est mollis semper. Vivamus porttitor luctus lacinia.
 
 ## Sections of information
-{: .block-list}
+{: .grid-list}
 
 
 * ### Planning
