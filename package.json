@@ -1,7 +1,7 @@
 {
-  "name": "climate-labs",
+  "name": "federalist-landing-page-template",
   "version": "1.0.0",
-  "description": "A climate information user study and report",
+  "description": "Federalist landing page template",
   "main": "index.js",
   "scripts": {
     "install": "npm run uswds",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/18F/climate-labs.git"
+    "url": "git+https://github.com/18F/federalist-landing-page-template"
   },
   "author": "Jeremia Kimelman <jeremia.kimelman@gsa.gov>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/18F/climate-labs/issues"
+    "url": "https://github.com/18F/federalist-landing-page-template/issues"
   },
-  "homepage": "https://github.com/18F/climate-labs#readme",
+  "homepage": "https://github.com/18F/federalist-landing-page-template#readme",
   "dependencies": {
-    "uswds": "^0.9.0"
+    "uswds": "^0.13.1"
   }
 }
