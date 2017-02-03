@@ -13,6 +13,16 @@ permalink: /keyboard-access/
 - No content gets focused offscreen and hidden
 - A skip navigation link is provided if navigation is present before the main content, allowing you to skip past navigation to reach the page’s main content.
 
-<button>Yes</button>
-<button class="usa-button-secondary">No</button>
-<button class="usa-button-outline" type="button">Skip >></button>
+<a href="https://youtu.be/cOmehxAU_4s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial
+</a>
+
+<button>
+  <i class="fa fa-check" aria-hidden="true"></i>
+  Yes
+</button>
+<button class="usa-button-secondary">
+  <i class="fa fa-times" aria-hidden="true"></i>
+  No
+</button>
