@@ -13,4 +13,4 @@ Accessibility Playbook asks testers to answer seven yes-or-no questions regardin
 
 Select your discipline (currently only front end available):
 
-<a class="usa-button" href="/keyboard-access/">Get started</a>
+<a class="usa-button" href="{{ site.baseurl }}/keyboard-access/">Get started</a>
