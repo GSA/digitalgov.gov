@@ -16,4 +16,4 @@ permalink: /headings/
 
 <button>Yes</button>
 <button class="usa-button-secondary">No</button>
-<button class="usa-button-outline" type="button">Skip >></button>
+<a>Skip >></a>
