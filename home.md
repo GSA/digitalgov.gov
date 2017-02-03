@@ -3,10 +3,9 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Home
 permalink: /
 ---
-
-## Guidelines to help teams create accessible and inclusive projects
 
 Accessibility Playbook is a testing tool designed to help teams ensure their web-based content and services are inclusive and comply with [Section 508](https://www.section508.gov/) of the Rehabilitation Act.
 
