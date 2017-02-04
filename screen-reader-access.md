@@ -8,7 +8,7 @@ permalink: /screen-reader-access/
 ### Why it’s important
 Jerry is blind and uses a screenreader to navigate the web.
 
-### How
+### Steps to take
 - Use a screen reader to make sure you can land on controls and they’re announcing things as they should.
 - If forms are present, labels and instructions are read.
 

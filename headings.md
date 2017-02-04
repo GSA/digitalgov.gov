@@ -8,7 +8,7 @@ permalink: /headings/
 
 **Why it’s important**: Abby is blind and navigates pages by jumping to the heading of the section of content she’s interested in reading.
 
-### How
+### Steps to take
 - There’s only one `h1` per page and it’s reserved for the page title
 - Headings `h2`-`h6` are used in descending order and do not skip heading levels
 - Headings restart to `h2` in new sections
