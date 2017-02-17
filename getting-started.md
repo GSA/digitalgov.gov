@@ -1,0 +1,11 @@
+---
+layout: page
+title: Getting started
+permalink: /getting-started/
+---
+
+## How to use this guide
+
+We recommend regularly conducting accessibility testing throughout the design and development processes. A good place to start testing is on high-touch pages, critical user paths, and site-wide templates. If you have project-specific questions, ask the Accessibility Guild in [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/).
+
+<a class="usa-button" href="{{ site.baseurl }}/keyboard-access/">Continue ></a>
