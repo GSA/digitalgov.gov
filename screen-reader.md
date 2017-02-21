@@ -35,6 +35,16 @@ Jerry is blind and uses a screen reader to navigate the web.
   </li>
 </ul>
 
+<a href="https://youtu.be/5R-6WvAihms">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 1
+</a>
+<br>
+<a href="https://youtu.be/cOmehxAU_4s?t=3m25s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 2
+</a>
+
 <button>
   <i class="fa fa-check" aria-hidden="true"></i>
   Yes

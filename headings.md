@@ -14,6 +14,16 @@ permalink: /headings/
 - Use only one `h1` per page for the page title.
 <p class="usa-text-small">*While HTML5 allows you to reset headings to h1 on new section elements, some screen reader users will have difficulty discerning the structure of pages with multiple h1s. For this reason, it’s best to include only one h1 per page.</p>
 
+<a href="https://www.youtube.com/watch?v=ZHWcs5d9IqA">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 1
+</a>
+<br>
+<a href="https://youtu.be/cOmehxAU_4s?t=6m21s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 2
+</a>
+
 <button>Yes</button>
 <button class="usa-button-secondary">No</button>
 <a>Skip >></a>

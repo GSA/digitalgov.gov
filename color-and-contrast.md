@@ -13,6 +13,16 @@ permalink: /color-and-contrast/
 - Use an [automated tool]({{ site.baseurl }}/automated-testing/) to quickly scan for color contrast problems.
 - Don’t use color alone to convey meaning. Use icons, text, and other visual elements to reinforce the meaning of the content.
 
+<a href="https://www.youtube.com/watch?v=gH1JieTZQ1k">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 1
+</a>
+<br>
+<a href="https://youtu.be/cOmehxAU_4s?t=8m30s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial 2
+</a>
+
 <button>Yes</button>
 <button class="usa-button-secondary">No</button>
 <button class="usa-button-outline" type="button">Skip >></button>

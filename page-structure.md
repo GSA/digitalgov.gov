@@ -12,6 +12,11 @@ permalink: /page-structure/
 - Use sectioning elements to create a broad outline of your page content; examples of these elements include `header`, `nav`, `main`, and `footer`. Use content sectioning elements like `section`, `article`, and `aside` to organize the document content into logical pieces.
 - Add `role="banner"` to your masthead and `role="contentinfo"` to your page footer once per page to define landmark elements.
 
+<a href="https://www.youtube.com/watch?time_continue=12&v=bww3IaktlRY">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial
+</a>
+
 <button>Yes</button>
 <button class="usa-button-secondary">No</button>
 <button class="usa-button-outline" type="button">Skip >></button>

@@ -14,6 +14,11 @@ permalink: /automated-testing/
 - **Continuous integration**: Integrate a tool like [AccessLintCI](https://github.com/accesslint/accesslint-ci) to run accessibility tests in CircleCI builds and see errors posted as comments in GitHub PRs.
 - **Simulate impairments**: Use these tools to simulate color blindness, low vision, zoom, low contrast, high contrast, and more.
 
+<a href="https://youtu.be/cOmehxAU_4s?t=8m57s">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+  Video tutorial
+</a>
+
 <button>Yes</button>
 <button class="usa-button-secondary">No</button>
 <button class="usa-button-outline" type="button">Skip >></button>
