@@ -10,4 +10,4 @@ permalink: /getting-started/
 - A good place to start testing is on high-touch pages, critical user paths, and site-wide templates.
 - If you have project-specific questions, ask the Accessibility Guild in [#g-accessibility](https://gsa-tts.slack.com/messages/g-accessibility/).
 
-<a class="usa-button" href="{{ site.baseurl }}/keyboard-access/">Continue <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+<a class="usa-button" href="{{ site.baseurl }}/keyboard-access/">Continue <i class="fa fa-arrow-right" aria-hidden="true"></i></a>

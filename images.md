@@ -19,6 +19,16 @@ permalink: /images/
   Video tutorial
 </a>
 
-<button>Yes</button>
-<button class="usa-button-secondary">No</button>
-<button class="usa-button-outline" type="button">Skip >></button>
+<button>
+  <i class="fa fa-check" aria-hidden="true"></i>
+  Yes
+</button>
+<button class="usa-button-secondary">
+  <i class="fa fa-times" aria-hidden="true"></i>
+  No
+</button>
+<button class="usa-button button-question">
+  <i class="fa fa-question" aria-hidden="true"></i>
+  I'm not sure
+</button>
+<button class="usa-button-outline button-skip" type="button">Skip >></button>
