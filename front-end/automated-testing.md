@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-front-end
 title: Automated testing
 permalink: /front-end/automated-testing/
 ---

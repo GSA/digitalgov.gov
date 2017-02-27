@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-front-end
 title: Page structure
 permalink: /front-end/page-structure/
 ---

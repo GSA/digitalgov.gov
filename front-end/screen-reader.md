@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-front-end
 title: Screen reader access
 permalink: /front-end/screen-reader/
 ---
@@ -27,10 +27,12 @@ Jerry is blind and uses a screen reader to navigate the web.
         <li><b>Navigate right</b>: control + alt + right arrow (➡️️)</li>
         <li><b>Navigate by headings</b>: control + alt + command (⌘) + H</li>
         <li><b>Click</b>: control + alt + spacebar</li>
+      </ul>
+      <p class="usa-text-small">Use rotor to browse pages. The rotor lists common elements like <i>headings</i>, <i>links</i>, and <i>images</i>, and lets you navigate directly to the element of your choosing.</p>
+      <ul>
         <li><b>Turn on rotor</b>: control + alt + U</li>
         <li><b>Navigate rotor</b>: left and right, up and down arrows</li>
       </ul>
-      <p class="usa-text-small">*Use rotor to browse web pages more efficiently. The rotor lists common elements like “headings,” “links,” and “images,” and lets you navigate directly to the element of your choosing.</p>
     </div>
   </li>
 </ul>

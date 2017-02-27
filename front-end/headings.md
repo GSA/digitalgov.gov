@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-front-end
 title: Headings
 permalink: /front-end/headings/
 ---
