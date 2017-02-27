@@ -11,6 +11,8 @@ Accessibility Playbook is a testing tool designed to help teams ensure their web
 
 The Playbook asks testers to answer seven yes-or-no questions regarding the accessibility of content or a service. All questions include step-by-step instructions on how to check that the content is accessible. These questions are drawn from user research, internal data, and [WCAG 2.0](https://www.w3.org/TR/WCAG20/) and provide a baseline assessment of web accessibility.
 
-Select your discipline (currently only front end available):
+**Select your discipline**:
 
-<a class="usa-button" href="{{ site.baseurl }}/getting-started/">Get started <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+<a href="{{ site.baseurl }}/front-end/getting-started/">Front end <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+<br>
+<a href="{{ site.baseurl }}/content-design/getting-started/">Content design <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
