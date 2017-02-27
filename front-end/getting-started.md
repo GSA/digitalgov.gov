@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting started
-permalink: /getting-started/
+permalink: /front-end/getting-started/
 ---
 
 ## How to use this guide

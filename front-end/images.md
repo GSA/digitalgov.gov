@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Images
-permalink: /images/
+permalink: /front-end/images/
 ---
 
 ## Do images have good alt text?

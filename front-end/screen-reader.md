@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Screen reader access
-permalink: /screen-reader/
+permalink: /front-end/screen-reader/
 ---
 ## Can you use a screen reader to access the page content?
 

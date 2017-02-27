@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Headings
-permalink: /headings/
+permalink: /front-end/headings/
 ---
 
 ## Are you using accurate headings on your page?

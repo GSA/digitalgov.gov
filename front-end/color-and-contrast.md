@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Color and contrast
-permalink: /color-and-contrast/
+permalink: /front-end/color-and-contrast/
 ---
 
 ## Is there enough contrast between text and its background color?

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automated testing
-permalink: /automated-testing/
+permalink: /front-end/automated-testing/
 ---
 
 ## Did your accessibility testing tools provide accurate results?

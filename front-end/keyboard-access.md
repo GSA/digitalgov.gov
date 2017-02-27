@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keyboard access
-permalink: /keyboard-access/
+permalink: /front-end/keyboard-access/
 ---
 ## Can you reach anything that’s interactive using the tab key?
 

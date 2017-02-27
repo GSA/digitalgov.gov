@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Page structure
-permalink: /page-structure/
+permalink: /front-end/page-structure/
 ---
 
 ## Are you using semantic elements and roles?
