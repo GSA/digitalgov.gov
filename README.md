@@ -1,4 +1,4 @@
-# jekyll-uswds
+# DigitalGov Resources
 
 This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for the
 [U.S. Web Design Standards](https://standards.usa.gov).
