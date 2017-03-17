@@ -1,28 +1,13 @@
 {
-  "name": "federalist-landing-page-template",
-  "version": "1.0.0",
-  "description": "Federalist landing page template",
-  "main": "index.js",
+  "private": true,
+  "author": "18F",
+  "license": "CC0-1.0",
   "scripts": {
-    "install": "npm run uswds",
-    "uswds": "npm run uswds:prep && npm run uswds:css && npm run uswds:fonts && npm run uswds:img",
-    "uswds:prep": "mkdir -p css && mkdir -p fonts && mkdir -p img",
-    "uswds:css": "cp -R ./node_modules/uswds/dist/css/* ./css",
-    "uswds:fonts": "cp -R ./node_modules/uswds/dist/fonts/* ./fonts",
-    "uswds:img": "cp -R ./node_modules/uswds/dist/img/* ./img",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-uswds": "npm run update-assets && npm run update-sass",
+    "update-assets": "rsync -avr --delete node_modules/uswds/dist/ assets/uswds/",
+    "update-sass": "rsync -avr --delete node_modules/uswds/src/stylesheets/ _sass/uswds/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/18F/federalist-landing-page-template"
-  },
-  "author": "Jeremia Kimelman <jeremia.kimelman@gsa.gov>",
-  "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/18F/federalist-landing-page-template/issues"
-  },
-  "homepage": "https://github.com/18F/federalist-landing-page-template#readme",
   "dependencies": {
-    "uswds": "^0.13.1"
+    "uswds": "^1.0.0"
   }
 }

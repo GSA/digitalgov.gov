@@ -1,0 +1,17 @@
+{% assign _styles = '' | split: '' %}
+{% assign _site_styles = site.styles %}
+{% unless _site_styles -%}
+  {% assign _uswds_css = '/assets/uswds/css/uswds.min.css' %}
+  {% assign _site_styles = '' | split: ''
+    | push: _uswds_css %}
+{% endunless %}
+{% assign _styles = _styles
+  | push: _site_styles
+  | push: layout.styles
+  | push: page.styles
+  | uniq %}
+{% for _list in _styles %}{% for _style in _list %}
+<link rel="stylesheet"
+  href="{{ _style.href | default: _style | relative_url }}"
+  media="{{ _style.media | default: 'screen' }}">
+{% endfor %}{% endfor %}

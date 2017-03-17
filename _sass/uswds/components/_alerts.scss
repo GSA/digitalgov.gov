@@ -1,0 +1,75 @@
+// Alert variables ---------- //
+$usa-custom-alerts: () !default;
+
+$usa-alerts: (
+  success: $color-green-lightest,
+  warning: $color-gold-lightest,
+  error: $color-secondary-lightest,
+  info: $color-primary-alt-lightest
+);
+
+$alerts: map-merge($usa-alerts, $usa-custom-alerts);
+
+.usa-alert {
+  background-color: $color-gray-lightest;
+  background-position: 1rem 2rem;
+  background-repeat: no-repeat;
+  background-size: 4rem;
+  margin-top: 1.5em;
+  padding: 1em;
+
+  @include media($medium-screen) {
+    background-size: 5.2rem;
+  }
+
+  ul {
+    margin-bottom: 0;
+    margin-top: 1em;
+  }
+}
+
+.usa-alert-icon {
+  display: table-cell;
+  padding-right: 1rem;
+}
+
+.usa-alert-body {
+  display: table-cell;
+  padding-left: 3.5rem;
+  vertical-align: top;
+
+  @include media($medium-screen) {
+    padding-left: 5rem;
+  }
+
+  p:first-child {
+    margin-top: 0.8rem;
+  }
+}
+
+.usa-alert-heading {
+  margin-bottom: .3rem;
+  margin-top: 0;
+
+  @include media($medium-screen) {
+    margin-top: .3rem;
+  }
+}
+
+.usa-alert-text {
+  font-family: $font-sans;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+@each $name, $bgcolor in $alerts {
+  .usa-alert-#{$name} {
+    background-color: $bgcolor;
+    background-image: url('#{$image-path}/alerts/#{$name}.png');
+    background-image: url('#{$image-path}/alerts/#{$name}.svg');
+  }
+}
+
+.usa-alert-no_icon {
+  background-image: none;
+}

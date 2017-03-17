@@ -1,0 +1,32 @@
+---
+layout: base
+---
+
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-third">
+    <h2>{{ page.tagline }}</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    {{ page.intro | markdownify }}
+  </div>
+</section>
+{% endif %}
+
+{% capture _graphics %}
+  {% include graphic-list.html graphics=page.graphics %}
+{% endcapture %}
+{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
+
+<section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+    {{ content }}
+    </div>
+  </div>
+</section>
+
+{% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}

@@ -1,0 +1,5 @@
+{% for link in include.links %}
+  <li>
+    <a href="{{ link.href }}">{{ link.text }}</a>
+  </li>
+{% endfor %}
