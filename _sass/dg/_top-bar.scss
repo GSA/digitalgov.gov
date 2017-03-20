@@ -1,0 +1,32 @@
+#top-bar{
+  padding:10px 0;
+  font-size: 21px;
+  background:$color-secondary;
+  color: white;
+  // position:fixed;
+  // top:0;
+  // left:0;
+  width:100%;
+  z-index: 999;
+  .container{
+    @media #{$break-xs} {
+      margin-right: inherit;
+    }
+  }
+  .box{
+    text-align: right;
+    a{
+      padding-right: 12px;
+      color:white;
+    }
+  }
+  .box a:last-child{
+    padding-right: 0;
+  }
+  span{
+    margin-left: 5px;
+    padding:0 9px;
+    width:3px;
+    border-left: 1px #fff solid;
+  }
+}

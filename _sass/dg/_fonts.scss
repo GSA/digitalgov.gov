@@ -1,0 +1,181 @@
+$static-font-path: 'https://pages.18f.gov/18franklin/fonts/webfonts';
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 100;
+  src:
+    url('#{$static-font-path}/18Franklin-Thin.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Thin.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 100;
+  src:
+    url('#{$static-font-path}/18Franklin-ThinItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-ThinItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 200;
+  src:
+    url('#{$static-font-path}/18Franklin-ExtraLight.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-ExtraLight.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 200;
+  src:
+    url('#{$static-font-path}/18Franklin-ExtraLightItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-ExtraLightItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    url('#{$static-font-path}/18Franklin-Light.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Light.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 300;
+  src:
+    url('#{$static-font-path}/18Franklin-LightItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-LightItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url('#{$static-font-path}/18Franklin-Regular.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Regular.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 400;
+  src:
+    url('#{$static-font-path}/18Franklin-Italic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Italic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url('#{$static-font-path}/18Franklin-Medium.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Medium.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 500;
+  src:
+    url('#{$static-font-path}/18Franklin-MediumItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-MediumItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 600;
+  src:
+    url('#{$static-font-path}/18Franklin-SemiBold.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-SemiBold.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 600;
+  src:
+    url('#{$static-font-path}/18Franklin-SemiBoldItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-SemiBoldItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    url('#{$static-font-path}/18Franklin-Bold.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Bold.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 700;
+  src:
+    url('#{$static-font-path}/18Franklin-BoldItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-BoldItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 800;
+  src:
+    url('#{$static-font-path}/18Franklin-ExtraBold.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-ExtraBold.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 800;
+  src:
+    url('#{$static-font-path}/18Franklin-ExtraBoldItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-ExtraBoldItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: normal;
+  font-weight: 900;
+  src:
+    url('#{$static-font-path}/18Franklin-Black.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-Black.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '18Franklin-webfont';
+  font-style: italic;
+  font-weight: 900;
+  src:
+    url('#{$static-font-path}/18Franklin-BlackItalic.woff2') format('woff2'),
+    url('#{$static-font-path}/18Franklin-BlackItalic.woff') format('woff'),
+    url('#{$static-font-path}/18Franklin-BlackItalic.ttf') format('truetype');
+}

@@ -1,2 +1,20 @@
-{% assign header = site.data.header %}
-{% include components/header.html %}
+{% if header %}
+<header>
+  <div class="row">
+    <div class="col-xs-12 col-sm-9">
+      <div class="box">
+
+        <h1>
+          <a href="http://localhost/wp/" title="DigitalGov" rel="home"><img class="logo" src="http://localhost/wp/wp-content/themes/digitalgov/assets/img/DigitalGov_Horizontal.png" alt="{{ header.title | default: site.title }}"></a>
+          </a>
+        </h1>
+
+        {% include components/site-nav.html %}
+
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="usa-overlay"></div>
+{% endif %}

@@ -2,8 +2,13 @@
 # assets/main.scss
 ---
 
-// $font-path: 'uswds/fonts';
-// $img-path: 'uswds/img';
-
-// @import 'uswds/all';
-@import "common";
+$font-path: 'uswds/fonts';
+$img-path: 'uswds/img';
+@import 'http://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css';
+@import 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css';
+@import 'uswds/all';
+@import "dg/fonts";
+@import "dg/common";
+@import "dg/top-bar";
+@import "dg/header";
+@import "dg/site-nav";

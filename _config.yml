@@ -5,7 +5,7 @@ twitter_username: digitalgov
 # github_username:  18F
 
 styles:
-  - /assets/uswds/css/uswds.min.css
+  # - /assets/uswds/css/uswds.min.css
   - /assets/main.css
 
 # Exlude files from being present in the build site

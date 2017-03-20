@@ -1,19 +1,23 @@
 ---
 layout: base
 main:
-  class: usa-grid usa-section usa-content usa-layout-docs
+  class: usa-grid usa-section usa-content usa-layout-docs foo
 ---
-{% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-{% if sidenav %}
-<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-  {% include sidenav.html links=sidenav %}
-</aside>
 
-<div class="usa-width-three-fourths usa-layout-docs-main_content">
-  {{ content }}
-</div>
-{% else %}
-<div class="usa-layout-docs-main_content">
-  {{ content }}
-</div>
-{% endif %}
+<section id="search-area">
+  <div class="row">
+    <div class="col-xs-9">
+      <div class="box-row">
+        {{ content }}
+      </div>
+    </div>
+    {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+    {% if sidenav %}
+    <div class="col-xs-3">
+      <div class="box-row">
+        {% include components/sidenav.html links=sidenav %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</section>

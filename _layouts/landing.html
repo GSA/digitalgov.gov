@@ -2,9 +2,6 @@
 layout: base
 ---
 
-{% assign hero = page.hero %}
-{% include components/hero.html %}
-
 {% if page.tagline and page.intro %}
 <section class="usa-grid usa-section">
   <div class="usa-width-one-third">
@@ -17,7 +14,7 @@ layout: base
 {% endif %}
 
 {% capture _graphics %}
-  {% include graphic-list.html graphics=page.graphics %}
+  {% include components/graphic-list.html graphics=page.graphics %}
 {% endcapture %}
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 

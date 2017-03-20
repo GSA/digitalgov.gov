@@ -10,9 +10,8 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: Communities
+  - text: Resources
     links:
       - text: Demo link A
         href: /two/a/
@@ -20,8 +19,9 @@ primary:
         href: /two/b/
       - text: Demo link C
         href: /two/c/
-  - text: Referenced section
-    links: footer
+  - text: Training & Events
+  - text: Services
+  - text: About
 
 secondary: []
 
