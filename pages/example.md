@@ -1,6 +1,8 @@
 ---
 layout: docs
-permalink: /example/
+permalink: /communities/
 ---
 
 **yo hi**
+
+Hello Toni!
