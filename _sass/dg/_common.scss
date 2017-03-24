@@ -1,20 +1,12 @@
 
 // Type
-// font-family: 'Lato', sans-serif;
-// font-family: 'Libre Franklin', sans-serif;
-// $font-sans:           'Libre Franklin', 'Lato', Helvetica, Arial, sans-serif;
-// $font-sans:           'Lato', Helvetica, Arial, sans-serif;
-$font-sans:           "18Franklin-webfont",system,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
-$font-serif:          'Georgia', serif;
+$font-sans: '18Franklin-webfont',system,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif !default;
+$font-serif: 'Georgia', serif !default;
 
 // Colors
-// $color-primary: #2c3e50;
-// $color-secondary: #ad2020;
-// $color-secondary-dark: #b0392e;
-
-$color-primary: #003333;
-$color-secondary: #006873;
-$color-secondary-dark: #009999;
+$color-primary: #003333 !default;
+$color-secondary: #006873 !default;
+$color-secondary-dark: #009999 !default;
 
 // left teal 'D' swoop
 // medium #006873
@@ -45,7 +37,8 @@ $break-lg: "screen and (min-width: 1200px)";
   display: none;
 }
 
-section {
+
+header, section {
   padding: 30px 0;
 }
 
@@ -66,26 +59,10 @@ section {
   
 }
 
-// @import "dg/top-bar";
-// @import "dg/header";
-// @import "dg/site-nav";
-
-h1{
-  font-family: $font-sans;
-}
-
 #search-area{
   #search_form{
     #search-field-big{
       max-width: none;
     }
-  }
-}
-
-footer{
-  padding: 20px 0;
-  border-top: 2px $color-primary solid;
-  .logo{
-    width:20rem;
   }
 }

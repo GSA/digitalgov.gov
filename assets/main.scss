@@ -4,11 +4,18 @@
 
 $font-path: 'uswds/fonts';
 $img-path: 'uswds/img';
+
+@import "dg/common";
+@import "dg/fonts";
+
+// Externals
 @import 'http://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css';
 @import 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css';
+
+// USWDS
 @import 'uswds/all';
-@import "dg/fonts";
-@import "dg/common";
+
+// Site Styles
 @import "dg/top-bar";
 @import "dg/header";
 @import "dg/site-nav";

@@ -1,0 +1,86 @@
+.card_collection{
+  .row{
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
+.card{
+	padding: 15px;
+  // background: #efefef;
+  .media{
+    // background: #ccc;
+    // display: none;
+  }
+}
+
+.single .entry{
+  margin-bottom: 80px;
+}
+.entry{
+  h1.head{
+    margin: 0 0 15px 0;
+    font-family: $font-sans;
+    font-weight: 800;
+    font-size: 36px;
+    color: $color-primary;
+  }
+  h3.head{
+    margin: 0 0 12px 0;
+    font-family: $font-sans;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: $color-primary;
+    clear:none;
+    a{
+      text-decoration: none;
+      color: $color-primary;
+    }
+  }
+
+  .byline{
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: rgba(0,0,0,.6);
+  }
+
+  .entry-summary{
+    p{
+      font-size: 16px;
+      line-height: 21px;
+    }
+    .more{
+      // text-decoration: none;
+      color: $color-secondary;
+      font-family: $font-sans;
+      font-weight: 600;
+      font-size: 15px;
+    }
+  }
+  .entry-content *{
+    font-family: $font-serif;
+    font-size: 21px;
+    line-height: 1.58;
+    color: rgba(0,0,0,.8);
+
+  }
+  .entry-content p{
+    margin-top: 0;
+    margin-bottom: 29px;
+  }
+
+  .media{
+    margin-left: 12px;
+    float: right;
+  }
+  
+}
+
+
+.dg_sharetools{
+  .btn-share{
+    padding:5px 25px;
+    background: $color-secondary;
+    color: #fff;
+  }
+}
