@@ -1,6 +1,12 @@
-# DigitalGov Resources
+# DigitalGov Resource Pages
 
-This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for the DigitalGov Resources.
+_Made with love, learning and all the hope in the world._
+
+This is a [Jekyll theme](https://jekyllrb.com/docs/themes/) for the DigitalGov Resource Pages.
+
+_The rest of the docs still need to be edited_
+---
+
 
 ## Table of contents
 1. [Installation](#installation)
