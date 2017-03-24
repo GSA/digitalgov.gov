@@ -10,7 +10,7 @@ permalink: /visual-design/color-and-contrast/
 
 ### Steps to take
 - Provide good contrast. Make sure the contrast between the text and background is greater than or equal to 4.5:1 for small text and 3:1 for large text.
-  - Test your color palette for accessible combinations with https://toolness.github.io/accessible-color-matrix/ or http://contrast-grid.eightshapes.com/
+  - Test your color palette for accessible combinations with [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) or [Contrast Grid](http://contrast-grid.eightshapes.com/).
   - Measure the contrast between text and backgound colors with tools like a [manual check](http://webaim.org/resources/contrastchecker/) or [Sketch plugin](https://github.com/getflourish/Sketch-Color-Contrast-Analyser).
 - Slightly temper the contrast between your text and background color. For example: don’t use pure black text on a pure white background. Stark contrast can result in blurred or moving text for people with Irlen syndrome.
 - Exceptions:
