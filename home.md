@@ -16,3 +16,4 @@ The Playbook asks testers to answer seven yes-or-no questions regarding the acce
 <a href="{{ site.baseurl }}/front-end/getting-started/">Front end <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 <br>
 <a href="{{ site.baseurl }}/content-design/getting-started/">Content design <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+<a href="{{ site.baseurl }}/visual-design/getting-started/">Visual design <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
