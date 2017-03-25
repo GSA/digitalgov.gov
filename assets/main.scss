@@ -5,8 +5,8 @@
 $font-path: 'uswds/fonts';
 $img-path: 'uswds/img';
 
-@import "dg/common";
 @import "dg/fonts";
+@import "dg/defaults";
 
 // Externals
 @import 'http://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css';
@@ -16,6 +16,7 @@ $img-path: 'uswds/img';
 @import 'uswds/all';
 
 // Site Styles
+@import "dg/common";
 @import "dg/top-bar";
 @import "dg/header";
 @import "dg/site-nav";

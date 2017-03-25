@@ -1,32 +1,4 @@
 
-// Type
-$font-sans: '18Franklin-webfont',system,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif !default;
-$font-serif: 'Georgia', serif !default;
-
-// Colors
-$color-primary: #003333 !default;
-$color-secondary: #006873 !default;
-$color-secondary-dark: #009999 !default;
-
-// left teal 'D' swoop
-// medium #006873
-// dark #003333
-// light #009999
-
-// right salmon/peach 'G' swoop
-// medium #ff685f
-// dark #ff3333
-// light #ff9999
-
-
-// Digital #0b545d
-// Gov #ff3333
-
-// Grid/breakpoints
-$small-screen:  540px !default;
-$medium-screen: 620px !default;
-$large-screen:  1120px !default;
-
 /*Break Points*/
 $break-xs: "screen and (max-width: 767px)";
 $break-sm: "screen and (min-width: 768px)";
