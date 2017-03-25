@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Layout and hierarchy
 permalink: /visual-design/layout-and-hierarchy/
 ---

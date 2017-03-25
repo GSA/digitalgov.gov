@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Color and contrast
 permalink: /visual-design/color-and-contrast/
 ---
@@ -31,7 +31,7 @@ permalink: /visual-design/color-and-contrast/
 
 ## Can you still understand everything the design is communicating without depending on color?
 
-Why it’s important: Joel is red-green colorblind and can’t reliably make sense of information conveyed with color alone.
+**Why it’s important**: Joel is red-green colorblind and can’t reliably make sense of information conveyed with color alone.
 
 ### Steps to take:
 - Don’t use color alone to convey meaning. Use icons, written content, and other visual elements to reinforce clear communication of the content.

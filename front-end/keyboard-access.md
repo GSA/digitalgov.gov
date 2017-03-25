@@ -1,5 +1,5 @@
 ---
-layout: page-front-end
+layout: primary
 title: Keyboard access
 permalink: /front-end/keyboard-access/
 ---

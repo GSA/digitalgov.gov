@@ -1,5 +1,5 @@
 ---
-layout: page-front-end
+layout: primary
 title: Getting started
 permalink: /front-end/getting-started/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Keyboard access
 permalink: /visual-design/keyboard-access/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Screen reader access
 permalink: /visual-design/screen-reader/
 ---

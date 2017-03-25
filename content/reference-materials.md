@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Reference materials
 permalink: /content-design/reference-materials/
 ---

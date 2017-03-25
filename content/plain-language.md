@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Plain language
 permalink: /content-design/plain-language/
 ---

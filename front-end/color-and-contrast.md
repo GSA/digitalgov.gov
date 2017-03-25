@@ -1,5 +1,5 @@
 ---
-layout: page-front-end
+layout: primary
 title: Color and contrast
 permalink: /front-end/color-and-contrast/
 ---

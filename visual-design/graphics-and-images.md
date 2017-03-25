@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Graphics and images
 permalink: /visual-design/graphics-and-images/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-front-end
+layout: primary
 title: Screen reader access
 permalink: /front-end/screen-reader/
 ---

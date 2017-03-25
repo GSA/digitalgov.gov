@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Scannable content
 permalink: /content-design/scannable-content/
 ---

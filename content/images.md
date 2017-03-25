@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Images
 permalink: /content-design/images/
 ---

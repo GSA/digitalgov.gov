@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Easy-to-parse visualizations
 permalink: /content-design/easy-to-parse-visualizations/
 ---

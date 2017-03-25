@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Mobile
 permalink: /visual-design/mobile/
 ---

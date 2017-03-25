@@ -1,5 +1,5 @@
 ---
-layout: page-front-end
+layout: primary
 title: Images
 permalink: /front-end/images/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Typography
 permalink: /visual-design/typography/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Information architecture
 permalink: /content-design/information-architecture/
 ---

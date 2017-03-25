@@ -1,5 +1,5 @@
 ---
-layout: page-content
+layout: primary
 title: Links
 permalink: /content-design/links/
 ---

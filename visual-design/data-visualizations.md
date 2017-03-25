@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Data visualizations
 permalink: /visual-design/data-visualizations/
 ---

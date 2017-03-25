@@ -1,5 +1,5 @@
 ---
-layout: page-visual-design
+layout: primary
 title: Getting started
 permalink: /visual-design/getting-started/
 ---
