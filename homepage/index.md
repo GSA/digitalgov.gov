@@ -1,6 +1,6 @@
 ---
-title: Documentation
-permalink: /docs/
+title: Homepage
+permalink: /
 
 layout: docs
 sidenav: docs

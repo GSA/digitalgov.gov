@@ -11,16 +11,19 @@
 #
 primary:
   - text: Communities
+    href: /communities/
   - text: Resources
     links:
       - text: Demo link A
-        href: /two/a/
+        href: /resources/
       - text: Demo link B
-        href: /two/b/
+        href: /resources/
       - text: Demo link C
-        href: /two/c/
+        href: /resources/
   - text: Training & Events
   - text: Services
+  - text: Style Guide
+    href: /style-guide/
   - text: About
 
 secondary: []
