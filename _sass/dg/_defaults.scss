@@ -1,3 +1,24 @@
+// Type Sizes
+// $em-base:             10px;
+// $base-font-size:      rem(17px) !default;
+// $small-font-size:     rem(14px) !default;
+// $lead-font-size:      rem(20px) !default;
+// $title-font-size:     rem(52px) !default;
+// $h1-font-size:        rem(40px) !default;
+// $h2-font-size:        rem(30px) !default;
+// $h3-font-size:        rem(20px) !default;
+// $h4-font-size:        rem(17px) !default;
+// $h5-font-size:        rem(15px) !default;
+// $h6-font-size:        rem(13px) !default;
+// $base-line-height:    1.5 !default;
+// $heading-line-height: 1.3 !default;
+// $lead-line-height:    1.7 !default;
+
+$gutter: 1em !default;
+// $visual-grid: true !default;
+.container{
+
+}
 
 // Type
 $font-sans: '18Franklin-webfont',system,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif !default;
@@ -7,6 +28,10 @@ $font-serif: 'Georgia', serif !default;
 $color-primary: #003333 !default;
 $color-secondary: #006873 !default;
 $color-secondary-dark: #009999 !default;
+
+$font-normal:         400 !default;
+$font-bold:           700 !default;
+
 
 // left teal 'D' swoop
 // medium #006873

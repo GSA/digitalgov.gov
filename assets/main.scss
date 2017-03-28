@@ -9,13 +9,14 @@ $img-path: 'uswds/img';
 @import "dg/defaults";
 
 // Externals
-@import 'http://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css';
-@import 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css';
+// @import 'http://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css';
+// @import 'http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css';
 
 // USWDS
 @import 'uswds/all';
 
 // Site Styles
+@import "dg/grid";
 @import "dg/common";
 @import "dg/top-bar";
 @import "dg/header";
