@@ -11,179 +11,6 @@ subnav:
     href: '#section-two'
 ---
 
-
-## Grids & Columns
-<section>
-  <div id="grid-box" class="container">
-    <div class="row">
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-      <div class="col-1">
-         <h3>col-1</h3>
-         <p>Lorem ipsum dolor sit amet.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-2">
-         <h3>col-2</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-2">
-        <h3>col-2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-2">
-        <h3>col-2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-2">
-        <h3>col-2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-2">
-        <h3>col-2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-2">
-        <h3>col-2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-3">
-         <h3>col-3</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-3">
-         <h3>col-3</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-3">
-         <h3>col-3</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-3">
-         <h3>col-3</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-4">
-         <h3>col-4</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-4">
-         <h3>col-4</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-4">
-         <h3>col-4</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-5">
-         <h3>col-5</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-5">
-         <h3>col-5</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-6">
-         <h3>col-6</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="col-6">
-         <h3>col-6</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-7">
-         <h3>col-7</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-8">
-         <h3>col-8</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-9">
-         <h3>col-9</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-10">
-         <h3>col-10</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-11">
-         <h3>col-11</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12">
-         <h3>col-12</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
 # H1 Heading
 ## H2 Heading
 ### H3 Heading
@@ -210,7 +37,9 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-## Lists
+* * *
+
+### Lists
 
 1. First ordered list item
 2. Another item
@@ -223,3 +52,175 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+* * *
+
+### Grids & Columns
+<section>
+  <div id="grid-box" class="container">
+    <div class="row">
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="col-1">
+         <h4>col-1</h4>
+         <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-2">
+         <h4>col-2</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-2">
+        <h4>col-2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-2">
+        <h4>col-2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-2">
+        <h4>col-2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-2">
+        <h4>col-2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-2">
+        <h4>col-2</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-3">
+         <h4>col-3</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-3">
+         <h4>col-3</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-3">
+         <h4>col-3</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-3">
+         <h4>col-3</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-4">
+         <h4>col-4</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-4">
+         <h4>col-4</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-4">
+         <h4>col-4</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-5">
+         <h4>col-5</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-5">
+         <h4>col-5</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-6">
+         <h4>col-6</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="col-6">
+         <h4>col-6</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-7">
+         <h4>col-7</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-8">
+         <h4>col-8</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-9">
+         <h4>col-9</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-10">
+         <h4>col-10</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-11">
+         <h4>col-11</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+         <h4>col-12</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+  </div>
+</section>
