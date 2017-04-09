@@ -17,6 +17,8 @@ $img-path: 'uswds/img';
 
 
 // Site Styles
+@import "dg/mixins/grid";
+@import "dg/mixins/grid-framework";
 @import "dg/grid";
 @import "dg/common";
 @import "dg/top-bar";

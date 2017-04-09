@@ -1,23 +1,23 @@
 ---
 layout: base
 main:
-  class: usa-grid usa-section usa-content usa-layout-docs foo
+  class: docs
 ---
 
-<section id="search-area">
-  <div class="row">
-    <div class="col-xs-9">
-      <div class="box-row">
-        {{ content }}
+<main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-9">
+        {{ site.time | date_to_xmlschema }}
+        {{ site.time | date_to_string }}
+        {{ content | emojify }}
       </div>
-    </div>
-    {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-    {% if sidenav %}
-    <div class="col-xs-3">
-      <div class="box-row">
+      {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+      {% if sidenav %}
+      <div class="col-xs-12 col-sm-3">
         {% include components/sidenav.html links=sidenav %}
       </div>
+      {% endif %}
     </div>
-    {% endif %}
   </div>
-</section>
+</main>

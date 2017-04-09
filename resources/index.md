@@ -3,7 +3,7 @@ layout: docs
 permalink: /resources/
 ---
 
-**Resources**
+# Resources 
 
 We live in a time when [more pre-schoolers can use a smartphone app than can
 tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-
