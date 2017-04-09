@@ -3,37 +3,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
   <head>
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta charset="UTF-8" />
-    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    
-    <link rel="profile" href="http://gmpg.org/xfn/11" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-    {% include components/favicon.html %}
+    {% include meta.html %}
     <!-- Le CSS -->
-    {% assign _styles = '' | split: '' %}
-    {% assign _site_styles = site.styles %}
-    {% unless _site_styles -%}
-      {% assign _uswds_css = '/assets/uswds/css/uswds.min.css' %}
-      {% assign _site_styles = '' | split: ''
-        | push: _uswds_css %}
-    {% endunless %}
-    {% assign _styles = _styles
-      | push: _site_styles
-      | push: layout.styles
-      | push: page.styles
-      | uniq %}
-    {% for _list in _styles %}{% for _style in _list %}
-    <link rel="stylesheet" href="{{ _style.href | default: _style | relative_url }}" media="{{ _style.media | default: 'screen' }}">
-    {% endfor %}{% endfor %}
+    {% include styles.html %}
 
     <!-- Robot Flag -->
     <meta name='robots' content='noindex,follow' />
+
   </head>
 
   <!-- All good things start here -->
