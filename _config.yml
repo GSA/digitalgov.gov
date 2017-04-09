@@ -16,5 +16,6 @@ exclude:
   - README.md
   - LICENSE
   - package.json
+  - gulpfile.js
   - node_modules
   - README.md

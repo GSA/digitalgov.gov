@@ -9,5 +9,27 @@
   },
   "dependencies": {
     "uswds": "^1.0.0"
+  },
+  "name": "digital.gov",
+  "description": "_Made with love, learning and all the hope in the world._",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/digital.gov-resources.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GSA/digital.gov-resources/issues"
+  },
+  "homepage": "https://github.com/GSA/digital.gov-resources#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
   }
 }
