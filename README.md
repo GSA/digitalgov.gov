@@ -25,9 +25,14 @@ Sign-up for a **Github** account https://github.com/ and set up your profile, ph
 
 Next, install the GitHub App for Desktop (https://desktop.github.com/) and sign in to the app with your Github user/pass.
 
+Here is our Github Repo for our project: https://github.com/GSA/digital.gov-resources
+
 #### 3. Next, lets install ATOM.
 **ATOM** (https://atom.io/) is a free and open-source text editor from Github and it is really simple to use and easy to customize. If you are curious, watch this short intro video on ATOM https://www.youtube.com/watch?v=U5POoGSrtGg
 
-
-- Our Repo https://github.com/GSA/digital.gov-resources
--
+Once installed, you will need to install a number of Packages via the Settings.
+- Tool Bar
+- Tool Bar Markdown Writer
+- Markdown Preview Plus
+- Markdown Writer
+- Language Markdown
