@@ -1,8 +1,6 @@
 ---
 title: foo
 permalink: /style-guide/foo-bar
-redirect_from:
-  - /style-guide/foo/
 layout: docs
 ---
 
