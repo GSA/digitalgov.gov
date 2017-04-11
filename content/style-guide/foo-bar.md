@@ -4,12 +4,6 @@ permalink: /style-guide/foo-bar
 redirect_from:
   - /style-guide/foo/
 layout: docs
-sidenav: docs
-subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
 
 ---
 
