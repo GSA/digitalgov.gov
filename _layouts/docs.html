@@ -8,8 +8,6 @@ main:
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-9">
-        {{ site.time | date_to_xmlschema }}
-        {{ site.time | date_to_string }}
         {{ content | emojify }}
       </div>
       {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}

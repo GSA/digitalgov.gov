@@ -1,8 +1,16 @@
-title: DigitalGov Resources
+title: digital.gov
 email: DigitalGov@gsa.gov
 
 twitter_username: digitalgov
 # github_username:  18F
+
+emoji_dir: /assets/emoji
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 styles:
   # - /assets/uswds/css/uswds.min.css

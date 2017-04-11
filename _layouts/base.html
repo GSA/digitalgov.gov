@@ -16,17 +16,18 @@
 
   <body class="{{ layout.class }} {{ page.class }}">
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-    
+
     {% include components/gov-banner.html %}
     {% include components/top-bar.html %}
 
-      
+
     {% assign header = site.data.header %}
     {% include header.html %}
 
     {% include components/search-area.html %}
 
     {{ content }}
+    
     {% assign footer = site.data.footer %}
     {% include footer.html %}
     {% include components/scripts.html %}
