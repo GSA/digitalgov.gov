@@ -12,7 +12,6 @@ GEM
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
-    gemoji (3.0.0)
     jekyll (3.4.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -52,7 +51,6 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
-  gemoji
   jekyll-redirect-from
   jekyll-uswds!
   rake (~> 10.0)
