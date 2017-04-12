@@ -4,8 +4,6 @@ email: DigitalGov@gsa.gov
 twitter_username: digitalgov
 # github_username:  18F
 
-emoji_dir: /assets/emoji
-
 gems:
   - jekyll-redirect-from
 
