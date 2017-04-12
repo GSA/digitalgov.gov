@@ -1,6 +1,6 @@
 ---
 title: foo
-permalink: /style-guide/foo-bar
+permalink: /style-guide/foo-bar/
 layout: docs
 ---
 
