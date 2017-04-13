@@ -3,14 +3,16 @@ title: 10 Tips for Creating the Perfect Open Opportunity Task
 date: 2015-04-24T16:12:26+00:00
 layout: docs
 ---
+# Headline
 
-<li style="margin-bottom: 15px">
-  <b>Divide and conquer: </b>Keep projects simple: if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially). <ul>
+
+Divide and conquer: Keep projects simple: if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially).
+<ul>
     <li>
       In order to create the Federal Crowdsource Mobile Testing Program, the Mobile team posted a 20 percent task to help plan and create the program. Once the program was up and running, the team created two additional opportunities: one to manage the program and a second to run individual test cycles. Multiple test cycles can be advertised on Open Opps at the same time.
     </li>
-  </ul>
-</li>
+</ul>
+
 
 <li style="margin-bottom: 15px">
   <b>Be specific: </b>Define exactly what needs to be done and what deliverables you expect. Include links or documents that the participant will need. <ul>
@@ -23,7 +25,7 @@ layout: docs
 <li style="margin-bottom: 15px">
   <b>Give the big picture: </b>Include information on how participants’ work will/may be used. This helps participants understand their work is part of a greater effort. <ul>
     <li>
-      The National Institute of Standards and Technology (NIST) <a href="https://openopps.digitalgov.gov/tasks/24">needed facts sheets updated</a>. For their task, they explained that the fact sheets would be posted on their website and would � “help the world understand the importance of the National Network for Manufacturing Innovation at NIST.”
+      The National Institute of Standards and Technology (NIST) <a href="https://openopps.digitalgov.gov/tasks/24">needed facts sheets updated</a>. For their task, they explained that the fact sheets would be posted on their website and would � “help the world understand the importance of the National Network for Manufacturing Innovation at NIST.”
     </li>
   </ul>
 </li>
