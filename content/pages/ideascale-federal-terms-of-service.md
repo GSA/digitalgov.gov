@@ -1,0 +1,23 @@
+---
+title: Ideascale Federal Terms of Service
+date: 2015-09-17T10:25:41+00:00
+layout: docs
+---
+
+[Ideascale](http://ideascale.com/)Â allows organizations to collect the ideas of public and private communities and gives users a platform to vote. The ideas are then evaluated, routed, and implemented, making Ideascale the engine of crowd-powered innovation.
+
+<a class="button" style="color: #000000" href="http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members">View Ideascale Federal Terms of Service</a>
+
+## Related Links
+
+  * [What is a Terms of Service Agreement?](https://www.digitalgov.gov/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/)
+  * [Information on Federal Compatible Terms of Service](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/)
+  * [List of Federal Terms of Service Agreements](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/)
+
+&nbsp;
+
+* * *
+
+&nbsp;
+
+See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)

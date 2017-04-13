@@ -1,0 +1,19 @@
+---
+title: Policies for Federal Agency Public Websites (M-05-04 )
+date: 2015-11-05T14:20:12+00:00
+layout: docs
+---
+
+[Policies for Federal Agency Public Websites (M-05-04)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf)Â (PDF, 48 KB, 5 pages, December 2004) states thatÂ the management of agencies&#8217; public websites should be in compliance with Federal information resource management law and policy. This memoÂ fulfills the requirements of section 207(f) of the E-Government Act of 2002 (Pub. L. No. 107- 347).
+
+&nbsp;
+
+## Related Resources
+
+  * [E-Government Act of 2002](http://www.gpo.gov/fdsys/pkg/BILLS-107hr2458enr/pdf/BILLS-107hr2458enr.pdf)Â (PDF, 209 KB, 72 pages, December 2002)
+
+* * *
+
+&nbsp;
+
+See all [DigitalGov Resources](https://www.digitalgov.gov/resources/)

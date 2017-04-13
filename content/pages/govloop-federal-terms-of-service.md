@@ -1,0 +1,23 @@
+---
+title: Govloop Federal Terms of Service
+date: 2015-09-17T11:13:48+00:00
+layout: docs
+---
+
+[GovLoop](https://www.govloop.com/) is an online social network for people in and around government. The community includesÂ federal, state and local government employees in the United States, government contractors, employees of governments outside the United States and individuals interested in government service. GovLoop hosts personal profile pages, discussion groups and forums, blogs, photographs, videos, slide presentations, a wiki and two weekly podcasts.
+
+<a class="button" style="color: #000000" href="https://www.govloop.com/terms-of-service/">Govloop Federal Terms of Service</a>
+
+## Related Links
+
+  * [What is a Terms of Service Agreement?](https://www.digitalgov.gov/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/)
+  * [Information on Federal Compatible Terms of Service](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/)
+  * [List of Federal Terms of Service Agreements](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/)
+
+&nbsp;
+
+* * *
+
+&nbsp;
+
+See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
