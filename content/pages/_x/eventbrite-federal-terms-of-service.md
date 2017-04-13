@@ -1,6 +1,6 @@
 ---
+permalink: /resources/eventbrite-federal-terms-of-service/
 title: Eventbrite Federal Terms of Service
-date: 2015-09-17T09:31:30+00:00
 layout: docs
 ---
 

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
 title: Spanish Health Care Terms in the United States
-date: 2014-06-11T12:40:27+00:00
 layout: docs
 ---
 
@@ -30,7 +30,7 @@ layout: docs
   
   <div class="one-half">
     <p lang="es" xml:lang="es">
-      atención hospitalaria para casos agudos
+      hospitalización, ingreso hospitalario, admisión hospitalaria
     </p>
   </div>
 </blockquote>

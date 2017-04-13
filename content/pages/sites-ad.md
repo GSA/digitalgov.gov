@@ -1,10 +1,10 @@
 ---
+permalink: /sites-ad/
 title: Sites Ad
-date: 2015-06-08T01:35:29+00:00
 layout: docs
 ---
 
-[<img class="aligncenter wp-image-107152" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" width="678" height="107" srcset="http://localhost/wp/wp-content/uploads/2014/01/logo.png 792w, http://localhost/wp/wp-content/uploads/2014/01/logo-250x39.png 250w" sizes="(max-width: 678px) 100vw, 678px" />](http://www.DigitalGov.gov)
+[<img class="aligncenter wp-image-107152" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" width="678" height="107" />](http://www.DigitalGov.gov)
 
 <h1 style="text-align: center">
   Want to learn more about Sites.USA.gov?
@@ -12,7 +12,7 @@ layout: docs
 
 [**Sites**](https://sites.usa.gov/)Â is designed to enable the rapid deployment of public facing federal government websites* for the purpose of providing public information in a secure and readily accessible environment.
 
-<img class="  aligncenter wp-image-271052" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/678-x-385-SITES-presentation3.jpg" alt="Sites Get Started" width="522" height="296" srcset="http://localhost/wp/wp-content/uploads/2015/05/678-x-385-SITES-presentation3.jpg 678w, http://localhost/wp/wp-content/uploads/2015/05/678-x-385-SITES-presentation3-250x141.jpg 250w" sizes="(max-width: 522px) 100vw, 522px" />
+<img class="  aligncenter wp-image-271052" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/678-x-385-SITES-presentation3.jpg" alt="Sites Get Started" width="522" height="296" />
 
 ## **Provide the information below:**
 

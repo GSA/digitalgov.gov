@@ -1,6 +1,6 @@
 ---
+permalink: /resources/socialoomph-federal-terms-of-service/
 title: SocialOomph Federal Terms of Service
-date: 2015-09-29T09:13:03+00:00
 layout: docs
 ---
 

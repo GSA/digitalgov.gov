@@ -1,15 +1,14 @@
 ---
+permalink: /services/the-federal-mobile-apps-registry/
 title: The Federal Mobile Products Registry
-date: 2014-01-07T17:06:58+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg
 ---
 
 <p style="text-align: center">
   <a class="button" title="Register your mobile product here!" href="https://socialmobileregistry.digitalgov.gov/">Register your mobile product here!</a>
 </p>
 
-<img class="alignright size-full wp-image-253052" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="screen shot of iPhone screen featuring government apps from USPS, TSA, FCC, Smithsonian and more." width="250" height="375" srcset="http://localhost/wp/wp-content/uploads/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg 250w, http://localhost/wp/wp-content/uploads/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry-166x250.jpg 166w" sizes="(max-width: 250px) 100vw, 250px" />Promote your public facing mobile websites and apps by registering them in the Mobile Products Registry. Registration gets your app listed on USAgov’s Federal Mobile Apps Directory and included in a government mobile products API.
+<img class="alignright size-full wp-image-253052" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="screen shot of iPhone screen featuring government apps from USPS, TSA, FCC, Smithsonian and more." width="250" height="375" />Promote your public facing mobile websites and apps by registering them in the Mobile Products Registry. Registration gets your app listed on USAgov’s Federal Mobile Apps Directory and included in a government mobile products API.
 
 **How It Works**
 

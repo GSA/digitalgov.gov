@@ -1,6 +1,6 @@
 ---
+permalink: /resources/gov-domain-registration-process-final-rule/
 title: GOV Domain Registration Process Final Rule
-date: 2015-12-01T09:17:58+00:00
 layout: docs
 ---
 
@@ -14,9 +14,9 @@ This final rule establishes FMR part 102-173, Internet GOV Domain, and provides 
 
 ## Related Resources
 
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+  * [OMB M-05-04, Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
   * [GOV Domain Name Registration Service](https://www.dotgov.gov/)
-  * [OMB M-11-24, Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-24.pdf) (PDF, 2 MB, 6 pages, June 2011)
+  * [OMB M-11-24, Implementing Executive Order 13571 on Streamlining Service Delivery and Improving Customer Service](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-24.pdf) (PDF, 2 MB, 6 pages, June 2011)
 
 * * *
 

@@ -1,6 +1,6 @@
 ---
+permalink: /open-government-directive/
 title: Open Government Directive
-date: 2015-11-23T14:47:48+00:00
 layout: docs
 ---
 

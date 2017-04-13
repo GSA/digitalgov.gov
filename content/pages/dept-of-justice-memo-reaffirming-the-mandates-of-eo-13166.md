@@ -1,6 +1,6 @@
 ---
+permalink: /resources/dept-of-justice-memo-reaffirming-the-mandates-of-eo-13166/
 title: Dept. of Justice Memo Reaffirming the Mandates of EO 13166
-date: 2015-12-01T11:30:45+00:00
 layout: docs
 ---
 

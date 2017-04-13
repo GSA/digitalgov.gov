@@ -1,6 +1,6 @@
 ---
+permalink: /resources/guidance-on-the-use-of-challenges-and-prizes-to-promote-open-government/
 title: Guidance on the Use of Challenges and Prizes to Promote Open Government
-date: 2015-12-01T13:21:33+00:00
 layout: docs
 ---
 
@@ -25,7 +25,7 @@ In September 2009, the President released his Strategy for American Innovation, 
 >       <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">Digital Government Strategy</a> (May 2012)
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/open/documents/open-government-directive">OMB M-10-06, Open Government Directive</a> (December 2009)
+>       <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf">OMB M-10-06, Open Government Directive</a> (December 2009)
 >     </li>
 >     <li>
 >       <a href="https://obamawhitehouse.archives.gov/open">View all Open Government policies on whitehouse.gov</a>

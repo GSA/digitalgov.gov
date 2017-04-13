@@ -1,11 +1,10 @@
 ---
+permalink: /services/u-s-digital-registry/
 title: U.S. Digital Registry
-date: 2016-01-08T11:06:56+00:00
 layout: docs
-image: hp-featured-348-x-226-US-Digitial-registry-top_banner_public.jpg
 ---
 
-<img class="aligncenter size-full wp-image-380251" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-US-Digitial-registry-top_banner_public.jpg" alt="Image of hand holding a mobile phone displaying a social media check mark for verification." width="600" height="350" srcset="http://localhost/wp/wp-content/uploads/2016/01/600-x-350-US-Digitial-registry-top_banner_public.jpg 600w, http://localhost/wp/wp-content/uploads/2016/01/600-x-350-US-Digitial-registry-top_banner_public-250x146.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-380251" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-US-Digitial-registry-top_banner_public.jpg" alt="Image of hand holding a mobile phone displaying a social media check mark for verification." width="600" height="350" />
 
 Whether for access to emergency, financial or education public services, users need to trust they are engaging with official U.S. government digital accounts.
 

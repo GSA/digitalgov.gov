@@ -1,9 +1,8 @@
 ---
+permalink: /services/mobile-application-testing-program/
 title: Federal CrowdSource Mobile Testing Program
-date: 2013-12-11T16:08:59+00:00
-excerpt: Does your mobile application function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?
+summary: Does your mobile application function properly on all devices your users have? Are you able to test your mobile site on all devices that access it? Do you have the time and money to maintain a mobile test lab?
 layout: docs
-image: hp-featured-348-x-226-mobile-devices-testing-app-tilted.jpg
 ---
 
 <img class="alignright size-full wp-image-253132" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." width="250" height="202" />Does your mobile siteÂ function properly on all devices your users have?

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/classmarker-federal-terms-of-service/
 title: ClassMarker Federal Terms of Service
-date: 2015-11-05T11:44:29+00:00
 layout: docs
 ---
 

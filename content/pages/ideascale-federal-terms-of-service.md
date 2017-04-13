@@ -1,6 +1,6 @@
 ---
+permalink: /resources/ideascale-federal-terms-of-service/
 title: Ideascale Federal Terms of Service
-date: 2015-09-17T10:25:41+00:00
 layout: docs
 ---
 

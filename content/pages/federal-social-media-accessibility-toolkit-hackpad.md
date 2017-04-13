@@ -1,15 +1,14 @@
 ---
+permalink: /resources/federal-social-media-accessibility-toolkit-hackpad/
 title: Federal Social Media Accessibility Toolkit Hackpad
-date: 2014-06-30T09:18:30+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Accessibility-road-highway-sign-on-tablet.jpg
 ---
 
 ## Improving the Accessibility of Social Media for Public Service
 
 The following contains the shared document for the development of the Social Media Policy Toolkit,Â [a shared service of the Federal Social Media Community of Practice](http://www.digitalgov.gov/communities/social-media/)Â lead by teams including The Department of Laborâ€™s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
 
-<img class="aligncenter size-full wp-image-176861" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." width="600" height="455" srcset="http://localhost/wp/wp-content/uploads/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg 600w, http://localhost/wp/wp-content/uploads/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet-250x189.jpg 250w, http://localhost/wp/wp-content/uploads/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet-527x400.jpg 527w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-176861" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." width="600" height="455" />
 
 In this shared document, collaborators are encouraged to identify best practices in improving the accessibility of social media for public services, or create a new and better way (though copy and pasting the content in, or linking directly to pre-existing content).
 

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/surveymonkey-federal-terms-of-service/
 title: SurveyMonkey Federal Terms of Service
-date: 2015-09-25T13:50:39+00:00
 layout: docs
 ---
 

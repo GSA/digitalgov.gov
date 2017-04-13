@@ -1,6 +1,6 @@
 ---
+permalink: /resources/stack-exchange-federal-terms-of-service/
 title: Stack Exchange Federal Terms of Service
-date: 2015-09-25T13:47:37+00:00
 layout: docs
 ---
 

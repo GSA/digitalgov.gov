@@ -1,8 +1,7 @@
 ---
+permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
-date: 2014-02-07T17:16:19+00:00
 layout: docs
-image: featured-301-x-212-multilingual-translate-Welcome-phrase-words-cloud-concept-PaulPaladin-iStock-Thinkstock-481560677.jpg
 ---
 
   * [Abbreviations, Acronyms and Em Dash](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#abbreviations)

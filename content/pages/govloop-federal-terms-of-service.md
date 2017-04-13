@@ -1,6 +1,6 @@
 ---
+permalink: /resources/govloop-federal-terms-of-service/
 title: Govloop Federal Terms of Service
-date: 2015-09-17T11:13:48+00:00
 layout: docs
 ---
 

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/federal-plain-language-guidelines/
 title: Federal Plain Language Guidelines
-date: 2015-11-05T14:06:53+00:00
 layout: docs
 ---
 

@@ -1,11 +1,10 @@
 ---
+permalink: /services/social-media-registry/
 title: Social Media Registry
-date: 2013-11-30T16:31:19+00:00
 layout: docs
-image: Featured-301-x-212-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg
 ---
 
-<img class="aligncenter size-full wp-image-168841" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for &quot;Central Intelligence Agency&quot; on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." width="600" height="280" srcset="http://localhost/wp/wp-content/uploads/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg 600w, http://localhost/wp/wp-content/uploads/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry-250x116.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-168841" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for &quot;Central Intelligence Agency&quot; on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." width="600" height="280" />
 
 ## For U.S. Government
 

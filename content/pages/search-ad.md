@@ -1,10 +1,10 @@
 ---
+permalink: /search-ad/
 title: Search Ad
-date: 2015-06-15T16:01:02+00:00
 layout: docs
 ---
 
-# <img class=" wp-image-280002 alignnone" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/678-x-80-digitalgov_search_logo.jpg" alt="DigitalGov Search" width="441" height="52" srcset="http://localhost/wp/wp-content/uploads/2015/06/678-x-80-digitalgov_search_logo.jpg 678w, http://localhost/wp/wp-content/uploads/2015/06/678-x-80-digitalgov_search_logo-250x29.jpg 250w" sizes="(max-width: 441px) 100vw, 441px" />
+# <img class=" wp-image-280002 alignnone" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/678-x-80-digitalgov_search_logo.jpg" alt="DigitalGov Search" width="441" height="52" />
 
 <h1 style="text-align: center">
   Say hello to a better search.

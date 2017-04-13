@@ -1,8 +1,7 @@
 ---
+permalink: /services/dap/digital-analytics-program-universal-analytics-migration/
 title: 'Digital Analytics Program: Universal Analytics Migration'
-date: 2014-10-14T15:00:34+00:00
 layout: docs
-image: featured-301-x-212-UA-upgrade.jpg
 ---
 
 The DAP Universal Analytics (UA) code is scheduled to be released in February 2015. All agencies are required to have completed the migration to DAP UA by May 31, 2015.
@@ -27,7 +26,7 @@ To ensure uniformity and consistency in reporting across agencies and government
 
 This transfer will NOT affect your local GA data as it’s just transferring everything behind the scenes at Google to the new “processing technology” to prepare your local GA account for migrating to DAP UA. The transfer only takes a few clicks from your Admin console in your local GA account (see the image below), and takes 24-48 hours to complete.
 
-<img class="aligncenter size-full wp-image-212472" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/290-x-122-UA-upgrade.jpg" alt="Universal Analytics upgrade" width="290" height="122" srcset="http://localhost/wp/wp-content/uploads/2014/10/290-x-122-UA-upgrade.jpg 290w, http://localhost/wp/wp-content/uploads/2014/10/290-x-122-UA-upgrade-250x105.jpg 250w" sizes="(max-width: 290px) 100vw, 290px" />
+<img class="aligncenter size-full wp-image-212472" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/290-x-122-UA-upgrade.jpg" alt="Universal Analytics upgrade" width="290" height="122" />
 
 You can view more information about [transferring your local GA account/property to UA](https://developers.google.com/analytics/devguides/collection/upgrade/guide#overview).
 

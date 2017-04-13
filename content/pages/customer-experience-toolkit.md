@@ -1,6 +1,6 @@
 ---
+permalink: /resources/customer-experience-toolkit/
 title: Customer Experience Toolkit
-date: 2016-01-07T17:52:31+00:00
 layout: docs
 ---
 

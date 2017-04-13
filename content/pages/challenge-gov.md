@@ -1,8 +1,7 @@
 ---
+permalink: /services/challenge-gov/
 title: Crowdsourcing with Challenge.gov
-date: 2012-07-09T15:46:23+00:00
 layout: docs
-image: hp-Programs-Services-384-x-226-ChallengeGov-logo.jpg
 ---
 
 [Post a challenge on Challenge.gov](https://www.challenge.gov/post-challenges/){.button}

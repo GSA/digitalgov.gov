@@ -1,6 +1,6 @@
 ---
+permalink: /join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
 title: Open Opportunities Terms of Use
-date: 2015-03-03T14:56:03+00:00
 layout: docs
 ---
 

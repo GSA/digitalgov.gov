@@ -1,6 +1,6 @@
 ---
+permalink: /resources/vine-federal-terms-of-service/
 title: Vine Federal Terms of Service
-date: 2015-09-29T09:50:52+00:00
 layout: docs
 ---
 

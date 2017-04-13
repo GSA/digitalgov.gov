@@ -1,11 +1,10 @@
 ---
+permalink: /resources/open-opportunities-task-creator-toolkit/
 title: Open Opportunities Task Creator Toolkit
-date: 2015-04-24T16:12:33+00:00
 layout: docs
-image: 986-x-1273-Open-Opps-Task-Creation-Process.jpg
 ---
 
-[<img class="alignright wp-image-266912 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" width="250" height="323" srcset="http://localhost/wp/wp-content/uploads/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg 250w, http://localhost/wp/wp-content/uploads/2015/04/250-x-323-Open-Opps-Task-Creation-Process-193x250.jpg 193w" sizes="(max-width: 250px) 100vw, 250px" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to the right to download your own copy of this chart for reference.
+[<img class="alignright wp-image-266912 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" width="250" height="323" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to the right to download your own copy of this chart for reference.
 
   1. ## Preparation
     
@@ -27,7 +26,7 @@ image: 986-x-1273-Open-Opps-Task-Creation-Process.jpg
   2. ## Accepting Participants
     
     <li style="margin-bottom: 15px">
-      <img class="alignright size-full wp-image-267001" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" width="215" height="215" srcset="http://localhost/wp/wp-content/uploads/2015/04/215-x-215-open-opps-email-share-button.jpg 215w, http://localhost/wp/wp-content/uploads/2015/04/215-x-215-open-opps-email-share-button-32x32.jpg 32w, http://localhost/wp/wp-content/uploads/2015/04/215-x-215-open-opps-email-share-button-64x64.jpg 64w, http://localhost/wp/wp-content/uploads/2015/04/215-x-215-open-opps-email-share-button-96x96.jpg 96w, http://localhost/wp/wp-content/uploads/2015/04/215-x-215-open-opps-email-share-button-128x128.jpg 128w" sizes="(max-width: 215px) 100vw, 215px" /><strong>Market Your TaskÂ </strong> <ul>
+      <img class="alignright size-full wp-image-267001" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" width="215" height="215" /><strong>Market Your TaskÂ </strong> <ul>
         <li>
           Advertise to relevant communities of practice using our <a title="Marketing Email Template for Communities of Practice" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx" target="_blank">marketing template</a>Â (14 kb MS Word .docx).
         </li>

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/github-federal-terms-of-service/
 title: Github Federal Terms of Service
-date: 2015-09-18T09:29:51+00:00
 layout: docs
 ---
 

@@ -1,6 +1,6 @@
 ---
+permalink: /open-data-policy-m-13-13/
 title: Open Data Policy (M 13-13)
-date: 2015-12-01T12:50:58+00:00
 layout: docs
 ---
 

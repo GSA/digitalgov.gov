@@ -1,6 +1,6 @@
 ---
+permalink: /resources/uservoice-federal-terms-of-service/
 title: UserVoice Federal Terms of Service
-date: 2015-09-29T09:48:20+00:00
 layout: docs
 ---
 

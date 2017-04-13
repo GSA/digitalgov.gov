@@ -1,8 +1,7 @@
 ---
+permalink: /resources/crowdsourcing-toolkit-for-federal-agencies/
 title: Crowdsourcing Toolkit for Federal Agencies
-date: 2014-03-05T12:01:06+00:00
 layout: docs
-image: hp-featured-pg-384-x-226-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg
 ---
 
 ## What is a Challenge?

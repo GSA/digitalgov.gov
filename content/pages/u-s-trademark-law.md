@@ -1,6 +1,6 @@
 ---
+permalink: /resources/u-s-trademark-law/
 title: U.S. Trademark Law
-date: 2015-12-01T08:42:48+00:00
 layout: docs
 ---
 

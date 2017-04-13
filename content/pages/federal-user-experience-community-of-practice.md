@@ -1,8 +1,7 @@
 ---
+permalink: /communities/federal-user-experience-community-of-practice/
 title: Federal User Experience Community
-date: 2014-01-13T14:35:36+00:00
 layout: docs
-image: 348-x-226-NLM-twitter-chat-711x400.jpg
 ---
 
 Join our community of more than 1,000 federal User Experience practitioners, and learn how to make better, User-Centered products.

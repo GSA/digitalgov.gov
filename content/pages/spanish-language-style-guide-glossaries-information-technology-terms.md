@@ -1,8 +1,7 @@
 ---
-title: 'Spanish Language Style Guide &amp; Glossaries: Information Technology Terms'
-date: 2014-06-11T09:58:19+00:00
+permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/
+title: 'Spanish Language Style Guide &#038; Glossaries: Information Technology Terms'
 layout: docs
-image: featured-301-x-212-multilingual-translate-Welcome-phrase-words-cloud-concept-PaulPaladin-iStock-Thinkstock-481560677.jpg
 ---
 
 ## 

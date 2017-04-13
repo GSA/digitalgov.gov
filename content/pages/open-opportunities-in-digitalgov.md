@@ -1,6 +1,6 @@
 ---
+permalink: /join-digitalgov/open-opportunities-in-digitalgov/
 title: Open Opportunities in DigitalGov
-date: 2014-05-12T13:41:02+00:00
 layout: docs
 ---
 

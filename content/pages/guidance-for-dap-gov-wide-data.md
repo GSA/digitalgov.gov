@@ -1,6 +1,6 @@
 ---
+permalink: /services/dap/guidance-for-dap-gov-wide-data/
 title: Guidance for DAP Gov-Wide Data
-date: 2014-08-28T11:11:14+00:00
 layout: docs
 ---
 

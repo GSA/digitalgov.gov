@@ -1,8 +1,7 @@
 ---
+permalink: /resources/dot-gov-domain-freeze-and-waivers/
 title: 'ARCHIVED &#8211; Dot Gov Domain Freeze and Waivers'
-date: 2012-03-29T11:15:10+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Dot-gov-Internet-Kheng-guan-Toh-Hemera-Thinkstock-95557739.jpg
 ---
 
 Note that, as of June 2011, a freeze is in effect on issuing new .gov domains for Federal Executive Branch agencies. See [OMB Guidance on Streamlining Service Delivery and Improving Customer Service](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-24.pdf) (PDF, 2.3 MB, 6 pages, June 2011) for background. The freeze was extended indefinitely by the Federal CIO on January 1, 2012, and is still in effect while OMB reviews new guidance to formalize the “no new .gov domains” policy.

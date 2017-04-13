@@ -1,8 +1,7 @@
 ---
+permalink: /contact-us/
 title: Contact Us
-date: 2014-01-28T14:56:59+00:00
 layout: docs
-image: contactus.jpg
 ---
 
 While we migrate DigitalGov.gov to a new host, the website will remain up and you can still [email us](mailto:digitalgov@gsa.gov) about:

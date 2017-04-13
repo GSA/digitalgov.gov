@@ -1,6 +1,6 @@
 ---
+permalink: /resources/measured-voice-federal-terms-of-service/
 title: Measured Voice Federal Terms of Service
-date: 2015-09-17T09:52:50+00:00
 layout: docs
 ---
 

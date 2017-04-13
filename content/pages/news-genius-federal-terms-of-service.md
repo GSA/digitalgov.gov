@@ -1,6 +1,6 @@
 ---
+permalink: /resources/news-genius-federal-terms-of-service/
 title: News Genius Federal Terms of Service
-date: 2015-09-18T09:35:46+00:00
 layout: docs
 ---
 

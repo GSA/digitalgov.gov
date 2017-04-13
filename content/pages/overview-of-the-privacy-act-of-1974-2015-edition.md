@@ -1,6 +1,6 @@
 ---
+permalink: /overview-of-the-privacy-act-of-1974-2015-edition/
 title: Overview of the Privacy Act of 1974 (2015 Edition)
-date: 2015-12-03T14:46:53+00:00
 layout: docs
 ---
 

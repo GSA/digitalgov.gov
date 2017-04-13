@@ -1,8 +1,7 @@
 ---
+permalink: /resources/contact-center-guidelines/getting-started-with-your-contact-center/
 title: Getting Started with your Contact Center
-date: 2014-02-05T10:25:54+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-last-one-changed-to-chat-icon-from-NiroDesign-175617593.jpg
 ---
 
 Planning and creating a successful government contact center is a complex endeavor. This section provides insight on the various aspects to help you get started:

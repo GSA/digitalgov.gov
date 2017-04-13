@@ -1,6 +1,6 @@
 ---
+permalink: /resources/contact-center-guidelines/contact-center-technologies/
 title: Contact Center Technologies
-date: 2014-02-05T10:27:01+00:00
 layout: docs
 ---
 

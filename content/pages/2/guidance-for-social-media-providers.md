@@ -1,11 +1,10 @@
 ---
+permalink: /resources/guidance-for-social-media-providers/
 title: Guidance for Social Media Providers
-date: 2014-02-14T12:30:27+00:00
 layout: docs
-image: hp-Programs-Services-384-x-226-Agreement-Terms-of-Service-TOS.jpg
 ---
 
-[<img class="alignright size-full wp-image-122532" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/termsofService.jpg" alt="Typed sheet of paper with &quot;Agreement&quot; and the top and a pen laying on it." width="400" height="300" srcset="http://localhost/wp/wp-content/uploads/2014/01/termsofService.jpg 400w, http://localhost/wp/wp-content/uploads/2014/01/termsofService-250x187.jpg 250w" sizes="(max-width: 400px) 100vw, 400px" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/termsofService.jpg)GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please emailÂ [GSA](mailto:socialmediaapps@gsa.gov)Â and include the following information:
+[<img class="alignright size-full wp-image-122532" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/termsofService.jpg" alt="Typed sheet of paper with &quot;Agreement&quot; and the top and a pen laying on it." width="400" height="300" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/termsofService.jpg)GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please emailÂ [GSA](mailto:socialmediaapps@gsa.gov)Â and include the following information:
 
   1. Explanation of the free, social media product you are offering for the federal government&#8217;s consideration. Include:
 

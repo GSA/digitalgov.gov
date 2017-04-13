@@ -1,10 +1,10 @@
 ---
-title: 'Government Customer Service Policies &amp; Requirements: 1993 to Present'
-date: 2016-01-07T17:41:53+00:00
+permalink: /resources/government-customer-service-policies-requirements-1993-to-present/
+title: 'Government Customer Service Policies &#038; Requirements: 1993 to Present'
 layout: docs
 ---
 
-May 2016—<a href="http://gao-16-509/" target="_blank">GAO Report GAO-16-509</a>
+May 2016—<a href="https://www.gao.gov/products/GAO-16-509" target="_blank">GAO Report GAO-16-509</a>
 
 March 2016—<a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m-16-08.pdf" target="_blank">OMB Memo M-16-08 Establishment of the Core Federal Services Council</a>
 
@@ -28,7 +28,7 @@ April 2010—[Social Media, Web-Based Interactive Technologies, and the Paperwor
 
 December 2009—[Open Government Directive](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf)
 
-December 2002—[E-Government Act of 2002](http://thomas.gov.gov/cgi-bin/bdquery/z?d107:HR02458:%7CTOM:/bss/d107query.html%7C)
+December 2002—[E-Government Act of 2002](https://www.archives.gov/about/laws/egov-act-section-207.html)
 
 March 1998—[Memorandum on Conducting ‘‘Conversations With America’’ To Further Improve Customer Service](http://www.gpo.gov/fdsys/pkg/WCPD-1998-03-09/pdf/WCPD-1998-03-09-Pg368.pdf)
 
@@ -40,7 +40,7 @@ January 1993—[Government Performance and Results Act (GPRA)](https://obamawhit
 
 ## Detailed List
 
-**May 20, 2016**—**<a href="http://gao-16-509/" target="_blank">GAO-16-509</a>**
+**May 20, 2016**—**<a href="https://www.gao.gov/products/GAO-16-509" target="_blank">GAO-16-509</a>**
 
 Managing for Results: OMB Improved Implementation of Cross-Agency Priority Goals, But Could Be More Transparent About Measuring Progress. See &#8220;Full Report&#8221; PDF to read the findings.
 
@@ -187,7 +187,7 @@ Agencies shall take the following actions:
   * make information, services, and complaint systems easily accessible; and
   * provide means to address customer complaints.
 
-**January 5, 1993—**[**Government Performance and Results Act (GPRA)**](http://www.whitehouse.gov/omb/mgmt-gpra/gplaw2m#h1)
+**January 5, 1993—**[**Government Performance and Results Act (GPRA)**](https://obamawhitehouse.archives.gov/omb/mgmt-gpra/gplaw2m)
 
 Set performance goals, measure results, publicly report progress. New focus on results, service quality and customer satisfaction. The purposes of this Act are to:
 

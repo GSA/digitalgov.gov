@@ -1,6 +1,6 @@
 ---
+permalink: /resources/twitter-federal-terms-of-service/
 title: Twitter Federal Terms of Service
-date: 2015-09-29T09:41:47+00:00
 layout: docs
 ---
 

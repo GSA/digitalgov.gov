@@ -1,15 +1,14 @@
 ---
+permalink: /services/dap/
 title: 'DAP: Digital Analytics Program'
-date: 2012-10-30T15:41:20+00:00
 layout: docs
-image: hp-featured-pg-384-x-210-new-DAP-image-No-URL-for-DG-homepage.jpg
 ---
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-263792" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." width="600" height="350" srcset="http://localhost/wp/wp-content/uploads/2015/04/600-dap-one-no-URL.jpg 600w, http://localhost/wp/wp-content/uploads/2015/04/600-dap-one-no-URL-250x145.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-263792" src="https://www.digitalgov.gov/files/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." width="600" height="350" />
 
-The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>.Â On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.
+The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>.Â On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.
 
 The program consists of:
 
@@ -34,7 +33,7 @@ The program consists of:
   * Delivers broad overviews and in-depth insights that apply to programs across your agency.
   * Scalable to handle a broad range of .gov sites (large and small).
   * Allows instantaneous access to a targeted set of critical performance data.
-  * Meets agency compliance with OMB reporting on theÂ 10 Minimum Common Baseline Performance Metrics for [Milestone 8.2](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/8_2_DGS_Implementation_Instructions_v_final.docx).
+  * Meets agency compliance with OMB reporting on theÂ 10 Minimum Common Baseline Performance Metrics for [Milestone 8.2](https://www.digitalgov.gov/files/2012/10/8_2_DGS_Implementation_Instructions_v_final.docx).
   * Hosted service by GSA avoids duplication of agencies purchasing the same tool and going through separate procurements.
 
 ### Quick, reliable, and secure infrastructure

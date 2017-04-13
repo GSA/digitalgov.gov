@@ -1,6 +1,6 @@
 ---
+permalink: /resources/quora-federal-terms-of-service/
 title: Quora Federal Terms of Service
-date: 2015-09-29T09:10:42+00:00
 layout: docs
 ---
 

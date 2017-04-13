@@ -1,6 +1,6 @@
 ---
+permalink: /resources/hackpad-federal-terms-of-service/
 title: Hackpad Federal Terms of Service
-date: 2015-09-17T10:40:33+00:00
 layout: docs
 ---
 

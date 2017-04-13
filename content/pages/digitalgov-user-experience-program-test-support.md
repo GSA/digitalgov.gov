@@ -1,13 +1,13 @@
 ---
+permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-test-support/
 title: 'DigitalGov User Experience Program: Test Support'
-date: 2014-01-16T11:25:23+00:00
 layout: docs
 ---
 
 It’s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes.
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg"><img class=" wp-image-109102 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg" alt="Picture of two people talking at a computer" width="600" height="450" srcset="http://localhost/wp/wp-content/uploads/2014/01/usability-test-support.jpg 640w, http://localhost/wp/wp-content/uploads/2014/01/usability-test-support-250x187.jpg 250w, http://localhost/wp/wp-content/uploads/2014/01/usability-test-support-533x400.jpg 533w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg"><img class=" wp-image-109102 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg" alt="Picture of two people talking at a computer" width="600" height="450" /></a>
 </p>
 
 But even if you’ve gone past that point (or even if your site is live) you can still find points of user frustration and fix them through a usability test or evaluation.

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/freedom-of-information-act-memo-2009/
 title: Freedom of Information Act Memo 2009
-date: 2015-09-03T13:10:21+00:00
 layout: docs
 ---
 

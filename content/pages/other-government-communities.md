@@ -1,6 +1,6 @@
 ---
+permalink: /communities/other-government-communities/
 title: Other Government Communities
-date: 2016-02-08T10:40:40+00:00
 layout: docs
 ---
 

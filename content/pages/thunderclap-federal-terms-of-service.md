@@ -1,6 +1,6 @@
 ---
+permalink: /resources/thunderclap-federal-terms-of-service/
 title: Thunderclap Federal Terms of Service
-date: 2015-09-29T09:22:19+00:00
 layout: docs
 ---
 

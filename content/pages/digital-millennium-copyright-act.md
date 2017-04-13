@@ -1,6 +1,6 @@
 ---
+permalink: /resources/digital-millennium-copyright-act/
 title: Digital Millennium Copyright Act
-date: 2015-12-01T09:02:15+00:00
 layout: docs
 ---
 

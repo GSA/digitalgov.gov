@@ -1,6 +1,6 @@
 ---
+permalink: /resources/slideshare-federal-terms-of-service/
 title: Slideshare Federal Terms of Service
-date: 2015-09-17T10:35:11+00:00
 layout: docs
 ---
 

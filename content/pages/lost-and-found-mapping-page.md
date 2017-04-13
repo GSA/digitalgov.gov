@@ -1,8 +1,7 @@
 ---
+permalink: /about/lost-and-found-mapping-page/
 title: 'Lost and Found &#8211; Mapping Page'
-date: 2014-09-16T16:20:55+00:00
 layout: docs
-image: featured-301-x-212-Sherlock-Holmes-Silhouette-OSTILL-iStock-Thinkstock-177345270.jpg
 ---
 
 Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL.

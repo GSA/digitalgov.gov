@@ -1,6 +1,6 @@
 ---
+permalink: /resources/2012-digital-government-strategy/
 title: 2012 Digital Government Strategy
-date: 2015-09-29T10:15:27+00:00
 layout: docs
 ---
 

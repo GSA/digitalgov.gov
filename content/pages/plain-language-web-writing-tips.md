@@ -1,6 +1,6 @@
 ---
+permalink: /resources/plain-language-web-writing-tips/
 title: Plain Language Web Writing Tips
-date: 2015-03-06T14:58:29+00:00
 layout: docs
 ---
 

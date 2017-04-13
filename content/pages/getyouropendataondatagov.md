@@ -1,6 +1,6 @@
 ---
+permalink: /resources/getyouropendataondatagov/
 title: getyouropendataondatagov
-date: 2014-12-10T16:59:54+00:00
 layout: docs
 ---
 

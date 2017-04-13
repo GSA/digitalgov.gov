@@ -1,6 +1,6 @@
 ---
+permalink: /resources/chatwing-federal-terms-of-service/
 title: chatWING Federal Terms of Service
-date: 2015-09-14T09:12:32+00:00
 layout: docs
 ---
 

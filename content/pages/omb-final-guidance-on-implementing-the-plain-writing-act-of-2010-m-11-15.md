@@ -1,6 +1,6 @@
 ---
+permalink: /resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/
 title: OMB Final Guidance on Implementing the Plain Writing Act of 2010 (M 11-15)
-date: 2015-12-03T13:34:16+00:00
 layout: docs
 ---
 
@@ -8,14 +8,14 @@ In the January 2009 MemoÂ on Transparency and Open Government, President Obama e
 
 &nbsp;
 
-<a class="button" style="color: #000000" href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf">View Guidance on Implementing the Plain Writing Act</a>
+<a class="button" style="color: #000000" href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf">View Guidance on Implementing the Plain Writing Act</a>
 
 ## Related Resources
 
-  * [OMB Memo on Testing and Simplifying Federal Forms](http://www.whitehouse.gov/sites/default/files/omb/inforeg/memos/testing-and-simplifying-federal-forms.pdf)Â (PDF, 94 KB, 2 pages, August 2012)
-  * [Plain Writing Act of 2010](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills&docid=f:h946enr.txt.pdf) (PDF, 153 KB, 3 pages, January 2010)
+  * OMB Memo on Testing and Simplifying Federal FormsÂ (PDF, 94 KB, 2 pages, August 2012)
+  * [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 KB, 3 pages, January 2010)
   * [Executive Orders 12866 and 12988](http://www.plainlanguage.gov/plLaw/law/index.cfm)
-  * [OMB Final Guidance on Implementing the Plain Writing Act of 2010](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
+  * [OMB Final Guidance on Implementing the Plain Writing Act of 2010](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-15.pdf) (PDF, 269 KB, 6 pages, April 2011)
 
 * * *
 

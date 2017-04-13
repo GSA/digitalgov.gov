@@ -1,8 +1,7 @@
 ---
+permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-usability-starter-kit/
 title: Usability Starter Kit
-date: 2014-01-16T11:28:18+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Online-support-Toolbox-with-tools-on-laptop-Bet_Noire-iStock-Thinkstock-474465197.jpg
 ---
 
 _Here are some tools and templates to help you create better user experiences. If you have resources to add, please [email us](mailto:govux@gsa.gov)._

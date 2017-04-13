@@ -1,6 +1,6 @@
 ---
+permalink: /resources/mandrill-federal-terms-of-service/
 title: Mandrill Federal Terms of Service
-date: 2015-09-17T10:00:14+00:00
 layout: docs
 ---
 

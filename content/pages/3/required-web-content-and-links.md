@@ -1,11 +1,10 @@
 ---
+permalink: /resources/required-web-content-and-links/
 title: Required Web Content and Links
-date: 2011-12-05T12:37:26+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg
 ---
 
-[<img class="size-medium wp-image-119482 alignright" src="https://www.digitalgov.gov/files/2014/02/checkmark-250x179.jpg" alt="checkmark" width="250" height="179" srcset="http://localhost/wp/wp-content/uploads/2014/02/checkmark-250x179.jpg 250w, http://localhost/wp/wp-content/uploads/2014/02/checkmark.jpg 488w" sizes="(max-width: 250px) 100vw, 250px" />](https://www.digitalgov.gov/files/2014/02/checkmark.jpg)If you manage a public website in the federal executive branch, it&#8217;s a [requirement](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/ "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
+[<img class="size-medium wp-image-119482 alignright" src="https://www.digitalgov.gov/files/2014/02/checkmark-250x179.jpg" alt="checkmark" width="250" height="179" />](https://www.digitalgov.gov/files/2014/02/checkmark.jpg)If you manage a public website in the federal executive branch, it&#8217;s a [requirement](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/ "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
 
 <table border="1" summary="Required Links Matrix" width="100%" cellpadding="5">
   <tr>
@@ -152,7 +151,7 @@ image: hp-featured-pg-348-x-226-Checklist-Robyn-Mackenzie-iStock-Thinkstock-Gett
     </td>
     
     <td valign="top">
-      <a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_house_committee_prints&docid=f:39564d.xxx.wais">Consolidated Appropriations Act for</a>� FY 2008, Division D, Title VI, Section 534
+      <a href="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm">Consolidated Appropriations Act for</a>� FY 2008, Division D, Title VI, Section 534
     </td>
   </tr>
   

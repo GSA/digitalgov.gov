@@ -1,6 +1,6 @@
 ---
+permalink: /resources/storify-federal-terms-of-service/
 title: Storify Federal Terms of Service
-date: 2015-09-29T09:06:26+00:00
 layout: docs
 ---
 

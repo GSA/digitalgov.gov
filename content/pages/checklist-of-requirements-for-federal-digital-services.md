@@ -1,8 +1,7 @@
 ---
+permalink: /resources/checklist-of-requirements-for-federal-digital-services/
 title: Checklist of Requirements for Federal Websites and Digital Services
-date: 2014-01-09T13:20:11+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg
 ---
 
 You should regularly review your agencyâ€™s websites and other digital products and services to ensure they comply with all relevant laws, policies, and regulations.
@@ -13,7 +12,7 @@ These high-level policies cover basic requirements for all digital products and 
 
   * [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012)
   * [OMB M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf) (PDF, 1.2 MB, 18 pages, November 2016)
-  * [OMB Circular A-130, Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/omb/circulars_default)Â (July 28, 2016)
+  * [OMB Circular A-130, Managing Information as a Strategic Resource](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource)Â (July 28, 2016)
   * [E-Government Act of 2002, Section 207](http://www.archives.gov/about/laws/egov-act-section-207.html)
 
 ## Policy Topics

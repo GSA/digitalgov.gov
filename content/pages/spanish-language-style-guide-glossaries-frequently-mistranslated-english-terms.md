@@ -1,6 +1,6 @@
 ---
-title: 'Spanish Language Style Guide &amp; Glossaries: Frequently Mistranslated English Terms'
-date: 2014-06-11T09:57:38+00:00
+permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/
+title: 'Spanish Language Style Guide &#038; Glossaries: Frequently Mistranslated English Terms'
 layout: docs
 ---
 

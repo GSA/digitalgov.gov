@@ -1,6 +1,6 @@
 ---
+permalink: /communities/plain-language-community-of-practice/
 title: Plain Language Community of Practice
-date: 2016-02-03T10:58:53+00:00
 layout: docs
 ---
 

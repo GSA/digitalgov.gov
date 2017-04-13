@@ -1,6 +1,6 @@
 ---
+permalink: /resources/my-commetrics-federal-terms-of-service/
 title: My.ComMetrics Federal Terms of Service
-date: 2015-09-17T09:48:09+00:00
 layout: docs
 ---
 

@@ -1,11 +1,10 @@
 ---
+permalink: /services/sites-usa-gov/
 title: Sites
-date: 2013-11-30T15:44:56+00:00
 layout: docs
-image: 600-x-392-Sites.jpg
 ---
 
-<img class="aligncenter size-full wp-image-271042" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-392-Sites.jpg" alt="Sites dot U-S-A dot gov" width="600" height="392" srcset="http://localhost/wp/wp-content/uploads/2015/05/600-x-392-Sites.jpg 600w, http://localhost/wp/wp-content/uploads/2015/05/600-x-392-Sites-250x163.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-271042" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-392-Sites.jpg" alt="Sites dot U-S-A dot gov" width="600" height="392" />
 
 Sites lets federal agencies build websites using a self-service content management platform.Â Itâ€™s a hosted shared service provided by the Digital Services Innovation Center.
 

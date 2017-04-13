@@ -1,6 +1,6 @@
 ---
+permalink: /resources/improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/
 title: Improving Access to Services for People with Limited English Proficiency (EO 13166)
-date: 2015-12-01T10:46:16+00:00
 layout: docs
 ---
 

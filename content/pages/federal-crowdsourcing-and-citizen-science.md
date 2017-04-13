@@ -1,8 +1,7 @@
 ---
+permalink: /communities/federal-crowdsourcing-and-citizen-science/
 title: Federal Crowdsourcing and Citizen Science
-date: 2015-09-29T14:17:02+00:00
 layout: docs
-image: hp-featured-pg-384-x-226-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg
 ---
 
 If you had 100,000 people to help you with your work, what would you do?
@@ -10,10 +9,9 @@ If you had 100,000 people to help you with your work, what would you do?
 The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
 
 <div class="media w400">
-  <img class="img-responsive size-full wp-image-313462" src="https://www.digitalgov.gov/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." srcset="http://localhost/wp/wp-content/uploads/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg 400w, http://localhost/wp/wp-content/uploads/2015/09/400-x-266-fazd-center-demonstration-dhs-250x166.jpg 250w" sizes="(max-width: 400px) 100vw, 400px" />
+  <img class="img-responsive size-full wp-image-313462" src="https://www.digitalgov.gov/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." />
   
   <p class="caption">
-    Photo credit: U.S. Department of Homeland Security.
   </p>
 </div>
 
@@ -53,7 +51,7 @@ The CCS community is committed to sharing skills, resources, and experience to s
 
   * In collaboration with the White House Office of Science and Technology Policy (OSTP), we launched a new website – the [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The Toolkit will help federal practitioners find resources to pitch, develop, implement, and improve citizen science and crowdsourcing projects.� This [archived webinar](https://www.youtube.com/watch?v=e0CdGMvNqW0 "Watch the C C S Toolkit Public Webinar") provides an overview of the toolkit’s intended audience, purpose, content, and functionalities.
 
-[<img class="aligncenter wp-image-312782 size-full" src="https://www.digitalgov.gov/files/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" width="600" height="147" srcset="http://localhost/wp/wp-content/uploads/2015/09/600-x-147-howto-icons-left-text.jpg 600w, http://localhost/wp/wp-content/uploads/2015/09/600-x-147-howto-icons-left-text-250x61.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />](https://crowdsourcing-toolkit.sites.usa.gov/)
+[<img class="aligncenter wp-image-312782 size-full" src="https://www.digitalgov.gov/files/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" width="600" height="147" />](https://crowdsourcing-toolkit.sites.usa.gov/)
 
 The _Open Government National Action Plan_ committed the Federal government to “develop an _Open Innovation Toolkit_ for Federal agencies that will include best practices, training, policies, and guidance on authorities related to open innovation, including approaches such as incentive prizes, crowdsourcing, and citizen science.” The Crowdsourcing and Citizen Science Toolkit is the first component to be completed. Dozens of federal employees have contributed to the development of this toolkit over the last year and it is finally ready for public launch.
 

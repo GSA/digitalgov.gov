@@ -1,6 +1,6 @@
 ---
+permalink: /services/dap/analytics-tool-instructions/
 title: Government-Wide Analytics Tool for Federal Agencies
-date: 2014-05-13T08:42:03+00:00
 layout: docs
 ---
 

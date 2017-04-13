@@ -1,8 +1,7 @@
 ---
+permalink: /resources/negotiated-terms-of-service-agreements/
 title: Negotiated Terms of Service Agreements
-date: 2014-01-13T10:50:02+00:00
 layout: docs
-image: hp-Programs-Services-384-x-226-Agreement-Terms-of-Service-TOS.jpg
 ---
 
 <img class="size-full wp-image-152762 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" width="250" height="190" />Before you decide to use one of the free digital tools below, seek the advice of yourÂ [agency Terms of Service (TOS) Point of Contact (POC)](https://www.digitalgov.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/ "Agency Points of Contact for Federal Compatible Terms of Service Agreements")Â to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. SeeÂ [complete implementation guidance](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/ "Federal-Compatible Terms of Service Agreements")Â on the main Terms of Service page.

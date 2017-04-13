@@ -1,8 +1,7 @@
 ---
+permalink: /resources/
 title: Resources
-date: 2013-11-17T23:13:13+00:00
 layout: docs
-image: banner_reference.jpg
 ---
 
 <table style="border: 0" align="center">
@@ -18,6 +17,25 @@ image: banner_reference.jpg
         </td></tr> </tbody> </table> 
         
         <hr style="color: white;border-style: none" />
+        
+        <h2>
+          Accessibility
+        </h2>
+        
+        <ul>
+          <li>
+            <a href="https://www.digitalgov.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/">Accessibility Resource List</a>
+          </li>
+          <li>
+            <a href="https://www.digitalgov.gov/2016/08/15/celebrating-the-18th-anniversary-of-section-508-rehabilitation-act/">Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=4XJcswWmmAw">How to Use Assistive Technology to Comply with Section 508</a>
+          </li>
+          <li>
+            <a href="https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff">Mythbuster&#8217;s Guide to Accessibility</a>
+          </li>
+        </ul>
         
         <h2>
           Challenges and Prizes
@@ -268,7 +286,7 @@ image: banner_reference.jpg
           </li>
           
           <li>
-            <a href="http://www.digitalgov.gov/resources/federal-social-media-analytics-toolkit-hackpad/">Federal Social Media Analytics Toolkit</a>
+            <a href="http://www.digitalgov.gov/resources/federal-social-media-analytics-toolkit-hackpad/">Social Media Metrics for Federal Agencies</a>
           </li>
           <li>
             <a href="https://www.digitalgov.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a>

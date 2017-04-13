@@ -1,6 +1,6 @@
 ---
+permalink: /resources/pinterest-federal-terms-of-service/
 title: Pinterest Federal Terms of Service
-date: 2015-09-25T13:42:56+00:00
 layout: docs
 ---
 

@@ -1,6 +1,6 @@
 ---
+permalink: /communities/manage-your-listserv-subscription/
 title: Manage Your Listserv Subscription
-date: 2016-04-22T12:52:52+00:00
 layout: docs
 ---
 
@@ -22,7 +22,7 @@ When sending a message to the entire listserv, consider that your message is goi
 
 Any listserv member can send a message to the group by using this email address:
   
-_TESTLIST_@listserv.gsa.gov
+**_[Name of YOUR listserv]_@listserv.gsa.gov**, (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov).
 
 Some lists distribute your message immediately, while others are configured to ask you to verify your message before it’s distributed to the list. This is to reduce viruses and spam on the listserv.
 

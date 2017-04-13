@@ -1,6 +1,6 @@
 ---
+permalink: /resources/trello-federal-terms-of-service/
 title: Trello Federal Terms of Service
-date: 2015-09-29T09:37:09+00:00
 layout: docs
 ---
 

@@ -1,6 +1,6 @@
 ---
+permalink: /resources/nara-guidance-on-managing-web-records/
 title: NARA guidance on Managing Web Records
-date: 2015-11-23T15:34:32+00:00
 layout: docs
 ---
 

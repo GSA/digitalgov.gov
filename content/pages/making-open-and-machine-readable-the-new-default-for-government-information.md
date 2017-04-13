@@ -1,6 +1,6 @@
 ---
+permalink: /resources/making-open-and-machine-readable-the-new-default-for-government-information/
 title: Making Open and Machine Readable the New Default for Government Information
-date: 2015-12-01T12:12:10+00:00
 layout: docs
 ---
 
@@ -13,22 +13,22 @@ Openness in government strengthens our democracy, promotes the delivery of effic
 > <div class="one-half">
 >   <ul>
 >     <li>
->       <a href="https://www.whitehouse.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for AmericanÂ Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
+>       <a href="https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for AmericanÂ Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf">OMB M-13-13 Open Data Policyâ€”Managing Information as an Asset</a> (PDF, 5.83 MB, 12 pages, May 2013)
+>       <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf">OMB M-13-13 Open Data Policyâ€”Managing Information as an Asset</a> (PDF, 5.83 MB, 12 pages, May 2013)
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html">Digital Government Strategy</a> (May 2012)
+>       <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">Digital Government Strategy</a> (May 2012)
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/open/documents/open-government-directive">OMB M-10-06, Open Government Directive</a> (December 2009)
+>       <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-06.pdf">OMB M-10-06, Open Government Directive</a> (December 2009)
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/omb/assets/memoranda_2010/m10-11.pdf">Guidance on the Use of Challenges and Prizes to Promote Open Government</a>
+>       <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf">Guidance on the Use of Challenges and Prizes to Promote Open Government</a>
 >     </li>
 >     <li>
->       <a href="http://www.whitehouse.gov/open">View all Open Government policies on whitehouse.gov</a>
+>       <a href="https://obamawhitehouse.archives.gov/open">View all Open Government policies on whitehouse.gov</a>
 >     </li>
 >   </ul>
 > </div>

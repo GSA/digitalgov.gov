@@ -1,6 +1,6 @@
 ---
+permalink: /quick-reference-to-web-content-accessibility-guidelines-2-0-requirements/
 title: Quick Reference to Web Content Accessibility Guidelines 2.0 requirements
-date: 2015-11-24T10:23:16+00:00
 layout: docs
 ---
 

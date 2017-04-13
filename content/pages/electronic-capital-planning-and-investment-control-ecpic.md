@@ -1,8 +1,7 @@
 ---
+permalink: /services/electronic-capital-planning-and-investment-control-ecpic/
 title: Electronic Capital Planning and Investment Control eCPIC
-date: 2015-12-04T11:35:10+00:00
 layout: docs
-image: hp-featured-384-x-226-Responsiveness-in-action-on-the-eCPIC-Electronic-Capital-Planning-and-Investment-Control-System.jpg
 ---
 
 [www.eCPIC.gov](http://www.eCPIC.gov){.button}

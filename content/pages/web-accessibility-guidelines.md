@@ -1,6 +1,6 @@
 ---
+permalink: /resources/web-accessibility-guidelines/
 title: Web Accessibility Guidelines
-date: 2015-11-05T14:18:48+00:00
 layout: docs
 ---
 

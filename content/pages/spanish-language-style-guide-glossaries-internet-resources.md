@@ -1,8 +1,7 @@
 ---
-title: 'Spanish Language Style Guide &amp; Glossaries: Internet Resources'
-date: 2014-06-11T09:59:14+00:00
+permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/
+title: 'Spanish Language Style Guide &#038; Glossaries: Internet Resources'
 layout: docs
-image: featured-301-x-212-multilingual-translate-Welcome-phrase-words-cloud-concept-PaulPaladin-iStock-Thinkstock-481560677.jpg
 ---
 
 ## 

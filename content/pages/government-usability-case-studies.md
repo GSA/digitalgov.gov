@@ -1,8 +1,7 @@
 ---
+permalink: /resources/digitalgov-user-experience-resources/government-usability-case-studies/
 title: Government Usability Case Studies
-date: 2014-01-16T10:24:24+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Businessusa-before1.jpg
 ---
 
 This list of government usability case studiesÂ shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers.

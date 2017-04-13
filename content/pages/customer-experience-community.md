@@ -1,6 +1,6 @@
 ---
+permalink: /communities/customer-experience-community/
 title: Customer Experience Community
-date: 2015-07-08T10:30:37+00:00
 layout: docs
 ---
 

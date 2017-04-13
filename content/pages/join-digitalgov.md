@@ -1,8 +1,7 @@
 ---
+permalink: /join-digitalgov/
 title: Join DigitalGov
-date: 2013-11-30T16:14:36+00:00
 layout: docs
-image: Join_us.jpg
 ---
 
 Here, on DigitalGov, you can make government services and information better by sharing your tales, talents, and time. We know there&#8217;s a lot of innovation going on in agencies because we&#8217;ve seen it. We&#8217;ve seen the fruits of your experiments, read your strategies and RFPs, and watched you try new approaches to old problems. These are stepping stones, ladders, and accelerators for other agencies.
@@ -33,9 +32,9 @@ What&#8217;s in it for you?
 
 What types of articles are we looking for? We want posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.Â It&#8217;s important to have a government angle. Your experiencesâ€”successes and less than successesâ€”and your opinions on how to implement DigitalGov are valuable. This can accelerateÂ time to change, leapfrogging experiences and creating efficiencies through sharing.
 
-  * Do you have a story to tell that will Â inform, intrigue, and inspire your colleagues?
+  * Do you have a story to tell that will inform, intrigue, and inspire your colleagues?
   * Are you working on something innovative or interesting at your agency?
   * Found success in an unexpected place?
   * Have a great tip to pass along?
 
-[Send your article ideas to us](mailto:digitalgov@gsa.gov "Contact Us").
+[Send your article ideas to us](mailto:digitalgov@gsa.gov?Subject=Blog article idea "Contact Us").

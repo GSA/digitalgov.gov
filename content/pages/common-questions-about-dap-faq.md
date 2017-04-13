@@ -1,10 +1,10 @@
 ---
+permalink: /services/dap/common-questions-about-dap-faq/
 title: Common Questions about DAP (FAQ)
-date: 2013-12-02T19:37:00+00:00
 layout: docs
 ---
 
-<img class="aligncenter size-full wp-image-1852" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" width="640" height="265" srcset="http://localhost/wp/wp-content/uploads/2013/11/digitaltunnel.jpg 640w, http://localhost/wp/wp-content/uploads/2013/11/digitaltunnel-250x103.jpg 250w" sizes="(max-width: 640px) 100vw, 640px" />
+<img class="aligncenter size-full wp-image-1852" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" width="640" height="265" />
 
 **This guidance is part of theÂ [Digital Analytics Program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program")Â (DAP): Support to Help Agencies Implement the Tool.Â [See more on the DAP](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").**
 

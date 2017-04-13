@@ -1,10 +1,10 @@
 ---
+permalink: /services/mobile-application-testing-program/tester-information-for-the-federal-crowdsource-mobile-testing-program/
 title: Tester Information for the Federal Crowdsource Mobile Testing Program
-date: 2014-06-16T11:20:38+00:00
 layout: docs
 ---
 
-[<img class="alignright size-full wp-image-102342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." width="300" height="210" srcset="http://localhost/wp/wp-content/uploads/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg 300w, http://localhost/wp/wp-content/uploads/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210-250x175.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
+[<img class="alignright size-full wp-image-102342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." width="300" height="210" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
 
 In return, testers
 

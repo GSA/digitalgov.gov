@@ -1,6 +1,6 @@
 ---
+permalink: /resources/section-508-standards-for-electronic-and-information-technology-2/
 title: Section 508 Standards for Electronic and Information Technology
-date: 2015-11-05T14:24:28+00:00
 layout: docs
 ---
 

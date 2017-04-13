@@ -1,6 +1,6 @@
 ---
+permalink: /resources/antideficiency-act-implications-of-rtain-online-terms-of-service-agreements/
 title: Antideficiency Act Implications of Certain Online Terms of Service Agreements
-date: 2015-11-24T09:43:26+00:00
 layout: docs
 ---
 
@@ -12,10 +12,10 @@ This memo contains theÂ opinion by the Office of Legal Counsel (OLC) of the Depa
 
   * [What is a Terms of Service Agreement?](https://www.digitalgov.gov/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/)
   * [Information on Federal Compatible Terms of Service](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/)
-  * [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
-  * [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](http://www.whitehouse.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
+  * [OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.1 MB, 17 pages, April 2013)
+  * [Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo)](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (PDF, 83 KB, 7 pages, April 2010)
   * [Guidelines for Secure Use of Social Media by Federal Departments and Agencies](https://cio.gov/wp-content/uploads/downloads/2012/09/Guidelines_for_Secure_Use_Social_Media_v01-0.pdf) (PDF, 233 KB, 19 pages, September 2009)
-  * [OMB M-05-04, Policies for Federal Agency Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
+  * [OMB M-05-04, Policies for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf) (PDF, 48 KB, 5 pages, December 2004)
 
 * * *
 

@@ -1,6 +1,6 @@
 ---
+permalink: /services/
 title: Services
-date: 2013-11-17T23:12:45+00:00
 layout: docs
 ---
 

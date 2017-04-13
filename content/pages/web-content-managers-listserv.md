@@ -1,6 +1,6 @@
 ---
+permalink: /communities/web-managers-forum/web-content-managers-listserv/
 title: Web Content Managers Listserv
-date: 2014-03-04T10:22:04+00:00
 layout: docs
 ---
 

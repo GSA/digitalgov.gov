@@ -1,6 +1,6 @@
 ---
+permalink: /circular-a-130-revised/
 title: Circular A-130 Revised
-date: 2015-11-24T11:30:32+00:00
 layout: docs
 ---
 

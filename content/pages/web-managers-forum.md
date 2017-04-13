@@ -1,8 +1,7 @@
 ---
+permalink: /communities/web-managers-forum/
 title: Web Content Managers Forum
-date: 2013-11-21T15:31:31+00:00
 layout: docs
-image: web-community.jpg
 ---
 
 ## Who Are We?

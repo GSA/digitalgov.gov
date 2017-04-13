@@ -1,8 +1,7 @@
 ---
+permalink: /resources/contact-center-guidelines/contact-center-operation-and-management/
 title: Contact Center Operation and Management
-date: 2014-02-05T10:36:45+00:00
 layout: docs
-image: hp-featured-ph-348-x-226-Headset-Julien-Tromeur-Hemera-Thinkstock-99061471.jpg
 ---
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.

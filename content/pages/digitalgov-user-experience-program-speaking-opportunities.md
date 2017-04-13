@@ -1,6 +1,6 @@
 ---
+permalink: /resources/digitalgov-user-experience-resources/digitalgov-user-experience-program-speaking-opportunities/
 title: 'DigitalGov User Experience Program: Speaking Opportunities'
-date: 2014-01-16T11:12:13+00:00
 layout: docs
 ---
 
@@ -12,7 +12,7 @@ The DigitalGov User Experience Program presents to federal audiences by phone, w
   * and more
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/speaking-opportunities-2.png"><img class="size-full wp-image-109172 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/speaking-opportunities-2.png" alt="A person presenting before a crowd." width="518" height="299" srcset="http://localhost/wp/wp-content/uploads/2014/01/speaking-opportunities-2.png 518w, http://localhost/wp/wp-content/uploads/2014/01/speaking-opportunities-2-250x144.png 250w" sizes="(max-width: 518px) 100vw, 518px" /></a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/speaking-opportunities-2.png"><img class="size-full wp-image-109172 aligncenter" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/speaking-opportunities-2.png" alt="A person presenting before a crowd." width="518" height="299" /></a>
 </p>
 
 Potential audiences include:

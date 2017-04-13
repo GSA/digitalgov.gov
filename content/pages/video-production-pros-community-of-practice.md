@@ -1,30 +1,25 @@
 ---
-title: Digital Audio/Video Community of Practice
-date: 2016-07-08T13:19:06+00:00
+permalink: /communities/video-production-pros-community-of-practice/
+title: Video Production Pros Community of Practice
 layout: docs
-image: featured-301-x-212-Concert-mobile-bokeh-blue-unrecognizable-Eloi_Omella-iStock-Thinkstock-496448965.jpg
 ---
 
 ## Who Are We?
 
-The Digital Audio/Video Community brings together storytellers, social specialists, video/audio experts, and strategists from across the U.S. government. We will share best practices, techniques, and strategies in order to¬ amplify¬ the¬ messaging of our respective agencies across digital platforms, including Web, mobile, and social media. The community was launched in July 2016 to help share knowledge during the exciting time where we see a monumental shift in the power of broadcast from traditional studios to individuals with mobile devices and consumption has transitioned from the living room to any available screen.
+We launched in 2016 to help people connect and share great ideas. Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We will share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with people through the power of video.
 
 ## What We Do
 
-**Knowledge Sharing**: Our listserv will provide emerging digital audio/video news, including developments on social platforms, analytics, mobile tools, distribution¬ and more. Members will be able to ask questions, network and share best practices.
+**Knowledge Sharing**: Our listserv will provide news about emerging video production gear, software and more. We cover everything from pre-production to post. We strive to make our videos more successful on social platforms, through analytics, using mobile tools, targeted distribution and more. Members will be able to ask questions, network and share their knowledge.
 
-**Training**: Experts from around the government as well as from private industry will share¬ insights about new tools, strategies and more on webinar or in-person training sessions.
-
-**Recognition**: There will be regular highlights of the creative and innovative digital audio/video work happening across the U.S. government.
+**Events**: Our members will share networking events, training sessions, volunteer opportunities and more.
 
 ## Join
 
-Join us if you are a government employee working for a federal, state, or local U.S. government agency, or a contractor with a government email address working on government digital content.
-
-Click the &#8220;Email us to Join&#8221; button below¬ to subscribe to our listserv with your .gov or .mil email address. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Digital AV Community" target="_blank">Bryce Spivey</a>.
+If you are a U.S. government employee with a **.gov** or **.mil** email address, click the ‚ÄúEmail us to Join‚Äù button below¬ to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join GSA Digital Audio/Video Community">Email us to Join</a>¬ or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a>¬ or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />

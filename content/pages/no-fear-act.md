@@ -1,6 +1,6 @@
 ---
+permalink: /resources/no-fear-act/
 title: No FEAR Act
-date: 2015-11-23T13:32:19+00:00
 layout: docs
 ---
 

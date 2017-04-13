@@ -1,8 +1,7 @@
 ---
+permalink: /resources/mobile-user-experience-guidelines-and-recommendations/
 title: Mobile User Experience Guidelines and Recommendations
-date: 2013-12-11T16:13:00+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Best-practice-on-digital-tablet-marekuliasz-iStock-Thinkstock-GettyImages_465902491.jpg
 ---
 
 If your app doesn&#8217;t have a good user experience, it goes to the [app graveyard](https://www.digitalgov.gov/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/).

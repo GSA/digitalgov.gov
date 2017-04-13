@@ -1,6 +1,6 @@
 ---
+permalink: /resources/mobile-sow-and-developer-qualifications/
 title: Mobile SOW and Developer Qualifications
-date: 2013-05-25T16:11:04+00:00
 layout: docs
 ---
 

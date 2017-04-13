@@ -1,8 +1,7 @@
 ---
+permalink: /resources/sample-position-descriptions-for-digital-government-jobs/
 title: Sample Position Descriptions for Digital Government Jobs
-date: 2014-06-24T09:50:15+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-USA-flag-Fingerprint-Zoonar-RF-Zoonar-Thinkstock-127032369.jpg
 ---
 
 Use and customize these sample position descriptions to hire your own digital gov team. Position descriptions, as defined by the [Office of Personnel Management](http://www.opm.gov/html/glossary.asp#P) (OPM), include an official series, title, and grade based on the results of a classification determination.
@@ -40,7 +39,7 @@ Use and customize these sample position descriptions to hire your own digital go
 ## Management
 
   * [Supervisory Web Communications Administrator, GS-15](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/GS-0301-15-Supervisory-Web-Communications-Administrator.pdf) (PDF, 116 KB, 11 pages, July 2014)
-  * [Deputy Director of Web and New Media (SES)](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/deputy-director-of-web-and-new-media-September-2012.doc) (MS Word, 53 KB, 4 pages, Mayï¿½ 2009)
+  * [Deputy Director of Web and New Media (SES)](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/deputy-director-of-web-and-new-media-September-2012.doc) (MS Word, 53 KB, 4 pages, MayÂ 2009)
   * [Director of Digital Strategy, GS-15](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/director-of-digital-strategy-September-2012.doc) (MS Word, 29 KB, 3 pages, September 2012)
 
 ## Multilingual
@@ -56,7 +55,7 @@ Use and customize these sample position descriptions to hire your own digital go
 
 ## Social Media
 
-  * [Public Affairs Specialist (Social Media), GS-11](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Public-Affairs-Specialist-Social-Media-GS-11.docx)ï¿½ ï¿½ (MS Word, 21KB, 5 pages, July 2014)
+  * [Public Affairs Specialist (Social Media), GS-11](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Public-Affairs-Specialist-Social-Media-GS-11.docx)Â Â (MS Word, 21KB, 5 pages, July 2014)
   * [New Media Associate, GS-11/12](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/new-media-associate-GS-11-12-September-2012.doc) (MS Word, 34.5 KB, 1 page, September 2012)
   * [New Media Specialist, GS-11](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/new-media-specialist-GS-11-September-2012.doc) (MS Word, 20 KB, 1 page, September 2012)
   * [New Media Technician, GS-13](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/new-media-technician-GS-13-September-2012.doc) (MS Word, 58.5 KB, 1 page, September 2012)
@@ -69,35 +68,35 @@ Use and customize these sample position descriptions to hire your own digital go
 
 ## Usability / User Experience
 
-Job posting examples ofï¿½ User Centered Design and research.
+Job posting examples ofÂ User Centered Design and research.
 
-  * **Cognitive Research / Psychology**
-      * [Research Psychologist &#8211; Army](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ResearchPsychologist-Army.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ResearchPsychologist-U.S.Census.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
+  * **Cognitive Research / Psychology** 
+      * [Research Psychologist &#8211; Army](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ResearchPsychologist-Army.docx)Â (MS Word, Feb.Â 2015)
+      * [Research Psychologist &#8211; U.S. Census](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ResearchPsychologist-U.S.Census.docx)Â (MS Word, Feb.Â 2015)
+      * [Computer Scientist &#8211; NIST](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ComputerScientist-NationalInstituteofStandardsandTechnology.docx)Â (MS Word, Feb.Â 2015)
 
-  * **Customer Experience**
-      * [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/Customer-Experience-Officer-Dept.-Education.pdf)ï¿½ (PDF, Feb.ï¿½ 2015)
-  * **Information Architecture**
-      * [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, Feb.ï¿½ 2015)
-  * **User Experience Design**
-      * [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-VeteransAffairs2.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UXDesigner-CFPB.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UXDesigner-PatentandTrademarkOffice1.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-  * **User Experience Research**
-      * [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ProgramAnalystUsability-GSA1.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-HHS.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-VeteransAffairs2.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
-      * [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx)ï¿½ (MS Word, Feb.ï¿½ 2015)
+  * **Customer Experience** 
+      * [Customer Experience Officer &#8211; Dept. of Education](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/Customer-Experience-Officer-Dept.-Education.pdf)Â (PDF, Feb.Â 2015)
+  * **Information Architecture** 
+      * [Information Architect &#8211; Library of Congress](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/InformationArchitect-LibraryofCongress.docx) (MS Word, Feb.Â 2015)
+  * **User Experience Design** 
+      * [User Interface Designer &#8211; Veterans Affairs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-VeteransAffairs2.docx)Â (MS Word, Feb.Â 2015)
+      * [User Experience Designer &#8211; CFPB](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UXDesigner-CFPB.docx)Â (MS Word, Feb.Â 2015)
+      * [User Experience Designer &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UXDesigner-PatentandTrademarkOffice1.docx)Â (MS Word, Feb.Â 2015)
+  * **User Experience Research** 
+      * [Senior Usability Specialist &#8211; Federal Aviation Administration](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/SeniorUsabilitySpecialist-FederalAviationAdministration.docx)Â (MS Word, Feb.Â 2015)
+      * [Program Analyst, Usability &#8211; GSA](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/ProgramAnalystUsability-GSA1.docx)Â (MS Word, Feb.Â 2015)
+      * [Usability Specialist &#8211; HHS](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-HHS.docx)Â (MS Word, Feb.Â 2015)
+      * [Usability Specialist &#8211; Veterans Affairs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/UsabilitySpecialist-VeteransAffairs2.docx)Â (MS Word, Feb.Â 2015)
+      * [Engineering Psychologist &#8211; U.S. Trade and Patent Office](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/EngineeringPsychologistUserExperienceUsabilitySr-U.S.PatentTrademarkOffice.docx)Â (MS Word, Feb.Â 2015)
 
-[Find additional position templates onï¿½ Usability.gov](http://www.Usability.gov)
+[Find additional position templates onÂ Usability.gov](http://www.Usability.gov)
 
 ## Additional Resources
 
   * [Introduction to the Position Classification Standards (OPM)](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/resources-opm-position-classification-standards-September-2009.pdf) (PDF, 438.81, 73 pages, September 2009)
   * [OPM Hiring Reform](http://www.opm.gov/policy-data-oversight/human-capital-management/hiring-reform/)
-  * Create a job announcement:
+  * Create a job announcement: 
       * [Position Description](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/resources-position-description-process-improvement-specialist-metrics-September-2011.pdf) (PDF, 555 KB, 8 pages, September 2011)
       * [Job Analysis](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/resources-job-analysis-metrics-officer-September-2011.pdf) (PDF, 88 KB, 2 pages, September 2011)
       * [Factor Questions](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/resources-factor-questions-metrics-officer-September-2011.docx) (MS Word, 15 KB, 3 pages, September 2011)

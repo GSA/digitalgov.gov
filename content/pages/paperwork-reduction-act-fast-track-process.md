@@ -1,8 +1,7 @@
 ---
+permalink: /resources/paperwork-reduction-act-fast-track-process/
 title: Paperwork Reduction Act Fast Track Process
-date: 2014-01-09T15:01:38+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg
 ---
 
 ## Protect Your Customer&#8217;s Privacy

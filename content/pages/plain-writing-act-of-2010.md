@@ -1,6 +1,6 @@
 ---
+permalink: /resources/plain-writing-act-of-2010/
 title: Plain Writing Act of 2010
-date: 2015-11-05T14:13:05+00:00
 layout: docs
 ---
 

@@ -1,15 +1,15 @@
 ---
+permalink: /resources/guidelines-for-improving-digital-services/
 title: Guidelines for Improving Digital Services
-date: 2014-04-04T15:12:19+00:00
 layout: docs
 ---
 
-TheÂ [Digital Services Advisory Group](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#digital-services-center)Â and theÂ Federal Web Managers CouncilÂ have developed the following guidelines to meet the 6.1 milestone of theÂ [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). These recommendations apply to all digital services, including Web, mobile, apps, APIs, and online forms.
+TheÂ [Digital Services Advisory Group](https://obamawhitehouse.archives.gov/digitalgov/advisory-group)Â and theÂ Federal Web Managers CouncilÂ have developed the following guidelines to meet the 6.1 milestone of theÂ [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). These recommendations apply to all digital services, including Web, mobile, apps, APIs, and online forms.
 
 <table>
   <tr>
-    <th style="text-align: left;" colspan="2" scope="col" width="98%">
-      <h2 style="text-align: center;">
+    <th style="text-align: left" colspan="2" scope="col" width="98%">
+      <h2 style="text-align: center">
         Guidelines
       </h2>
     </th>
@@ -25,7 +25,7 @@ TheÂ [Digital Services Advisory Group](http://www.whitehouse.gov/sites/default/f
     </td>
     
     <td>
-      Integrate yourÂ <span style="line-height: 1.5em;">digital presence into yourÂ </span>agencyâ€™sÂ <span style="line-height: 1.5em;">overall business, communications, and customer experience strategy</span>
+      Integrate yourÂ <span style="line-height: 1.5em">digital presence into yourÂ </span>agencyâ€™sÂ <span style="line-height: 1.5em">overall business, communications, and customer experience strategy</span>
     </td>
   </tr>
   

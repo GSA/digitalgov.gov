@@ -1,8 +1,7 @@
 ---
+permalink: /resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/
 title: 'Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit'
-date: 2015-01-27T13:09:20+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg
 ---
 
 Cyber-vandalism presents a serious challenge to online-based communication tools. Users need available resources to counter intrusions of social media accounts. This document provides guidance and security practices to federal, state, and local government employees. Suggestions and resources prepare users to respond to cyber-hijacking. and will empower digital users to make informed choices and enact future policy. This resource is a &#8220;living document&#8221; designed for continued contribution and expansion &#8212; if you have input please email [Justin Herman](mailto:justin.herman@gsa.gov).

@@ -1,11 +1,10 @@
 ---
-title: 'Challenges &amp; Prizes Community'
-date: 2013-12-05T23:46:00+00:00
+permalink: /communities/challenges-prizes-community/
+title: 'Challenges &#038; Prizes Community'
 layout: docs
-image: 600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg
 ---
 
-<img class="aligncenter size-full wp-image-313762" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." width="600" height="175" srcset="http://localhost/wp/wp-content/uploads/2015/09/600-x-175-challenge-gov-5-years.jpg 600w, http://localhost/wp/wp-content/uploads/2015/09/600-x-175-challenge-gov-5-years-250x73.jpg 250w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter size-full wp-image-313762" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." width="600" height="175" />
 
 Thinking about running a challenge and prize competition at your agency, but really want to talk to someone who has done it? Better yet, want to talk to somebody at your own agency, or someone who has run the same type of challenge you want to run?
 

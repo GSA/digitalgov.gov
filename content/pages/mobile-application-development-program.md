@@ -1,8 +1,7 @@
 ---
+permalink: /resources/mobile-application-development-program/
 title: Mobile Application Development Program
-date: 2013-05-23T15:45:28+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-Mobile-app-description1-cropped.jpg
 ---
 
 <blockquote class="guarantee">
@@ -11,7 +10,7 @@ image: hp-featured-pg-348-x-226-Mobile-app-description1-cropped.jpg
   </p>
 </blockquote>
 
-<img class="aligncenter wp-image-250282 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" width="600" height="418" srcset="http://localhost/wp/wp-content/uploads/2015/02/600-x-418-Mobile-app-description1.jpg 600w, http://localhost/wp/wp-content/uploads/2015/02/600-x-418-Mobile-app-description1-250x174.jpg 250w, http://localhost/wp/wp-content/uploads/2015/02/600-x-418-Mobile-app-description1-574x400.jpg 574w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter wp-image-250282 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" width="600" height="418" />
 
   * **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
   * **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.

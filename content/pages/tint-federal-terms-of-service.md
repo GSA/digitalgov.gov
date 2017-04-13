@@ -1,6 +1,6 @@
 ---
+permalink: /resources/tint-federal-terms-of-service/
 title: Tint Federal Terms of Service
-date: 2015-09-29T09:15:30+00:00
 layout: docs
 ---
 

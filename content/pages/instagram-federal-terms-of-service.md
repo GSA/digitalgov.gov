@@ -1,6 +1,6 @@
 ---
+permalink: /resources/instagram-federal-terms-of-service/
 title: Instagram Federal Terms of Service
-date: 2015-09-17T10:15:25+00:00
 layout: docs
 ---
 

@@ -1,13 +1,12 @@
 ---
+permalink: /about/policies/
 title: Policies
-date: 2013-12-19T12:58:33+00:00
 layout: docs
-image: featured-301-x-212-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg
 ---
 
 ## Comment Policy
 
-<img class="alignright size-full wp-image-152562" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg" alt="Screen capture of an internet &quot;Keep Calm&quot; meme that says: &quot;Keep Calm and Follow the Rules&quot;" width="250" height="290" srcset="http://localhost/wp/wp-content/uploads/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg 250w, http://localhost/wp/wp-content/uploads/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm-215x250.jpg 215w" sizes="(max-width: 250px) 100vw, 250px" />Comments are available on many pages and posts on this site.Â We welcome your comments and expect that our conversation will follow the general rules of respectful civil discourse. We will only post comments related to our purpose. We will review comments for posting within one business day. You&#8217;re fully responsible for everything that you submit in your comments, and all posted comments are in the public domain. We don&#8217;t discriminate against any views, but we reserve the right to not post comments. We do not post comments that are off-topic, spam, or overtly self-promoting.
+<img class="alignright size-full wp-image-152562" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-290-Keep-Calm-and-Follow-the-Rules-meme-ScreenShot-December-19th-2013-at-12-55-16pm.jpg" alt="Screen capture of an internet &quot;Keep Calm&quot; meme that says: &quot;Keep Calm and Follow the Rules&quot;" width="250" height="290" />Comments are available on many pages and posts on this site.Â We welcome your comments and expect that our conversation will follow the general rules of respectful civil discourse. We will only post comments related to our purpose. We will review comments for posting within one business day. You&#8217;re fully responsible for everything that you submit in your comments, and all posted comments are in the public domain. We don&#8217;t discriminate against any views, but we reserve the right to not post comments. We do not post comments that are off-topic, spam, or overtly self-promoting.
 
 ## Privacy
 

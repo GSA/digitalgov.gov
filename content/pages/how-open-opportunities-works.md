@@ -1,6 +1,6 @@
 ---
+permalink: /join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/
 title: How Open Opportunities Works
-date: 2015-03-04T10:27:33+00:00
 layout: docs
 ---
 

@@ -1,8 +1,7 @@
 ---
+permalink: /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
 title: Agency Points of Contact for Federal Compatible Terms of Service Agreements
-date: 2014-01-08T10:49:03+00:00
 layout: docs
-image: hp-featured-pg-348-x-226-E-mail-concept-D3Damon-iStock-Thinkstock-GettyImages_509080729.jpg
 ---
 
 Below is the list ofÂ cabinetÂ andÂ non-cabinetÂ agency points of contact for theÂ [federal-compatible Terms of Service agreements](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/). If your agency is part of a larger agency, your contact will be at the larger agency, as these agreements are negotiated and signed for the entire agency.

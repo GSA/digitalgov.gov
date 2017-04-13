@@ -1,8 +1,7 @@
 ---
+permalink: /resources/top-10-best-practices-for-multilingual-websites/
 title: Top 10 Best Practices for Multilingual Websites
-date: 2016-09-07T10:00:45+00:00
 layout: docs
-image: hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg
 ---
 
   1. **Language**

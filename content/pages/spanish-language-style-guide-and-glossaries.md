@@ -1,8 +1,7 @@
 ---
+permalink: /resources/spanish-language-style-guide-and-glossaries/
 title: Spanish Language Style Guide and Glossaries
-date: 2014-06-11T09:55:09+00:00
 layout: docs
-image: featured-301-x-212-multilingual-translate-Welcome-phrase-words-cloud-concept-PaulPaladin-iStock-Thinkstock-481560677.jpg
 ---
 
 The Spanish Language Style Guide is a resource for government employees, translators, and communications professionals who work with the government to improve the way we communicate with the public in Spanish. The guide contains information on grammar and style issues as well as glossaries to standardize the use of Spanish across government.

@@ -1,10 +1,10 @@
 ---
+permalink: /communities/web-managers-forum/member-spotlight-scott-horvath-usgs/
 title: Member Spotlight â€“ Scott Horvath, USGS
-date: 2014-12-15T10:14:14+00:00
 layout: docs
 ---
 
-<img class="alignright size-full wp-image-221382" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead.jpg" alt="Scott Horvath, USGS Public Affairs Specialist Bureau Social Media Lead" width="250" height="250" srcset="http://localhost/wp/wp-content/uploads/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead.jpg 250w, http://localhost/wp/wp-content/uploads/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead-32x32.jpg 32w, http://localhost/wp/wp-content/uploads/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead-64x64.jpg 64w, http://localhost/wp/wp-content/uploads/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead-96x96.jpg 96w, http://localhost/wp/wp-content/uploads/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead-128x128.jpg 128w" sizes="(max-width: 250px) 100vw, 250px" />Scott Horvath of theÂ U.S. Geological Service (USGS) has been an active and respected member of many of our [DigitalGov communities](https://www.digitalgov.gov/communities "DigitalGov Communities") for several years. Here&#8217;s your chance to learn more about Scott, and the work he&#8217;s doing at the USGS.
+<img class="alignright size-full wp-image-221382" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead.jpg" alt="Scott Horvath, USGS Public Affairs Specialist Bureau Social Media Lead" width="250" height="250" />Scott Horvath of theÂ U.S. Geological Service (USGS) has been an active and respected member of many of our [DigitalGov communities](https://www.digitalgov.gov/communities "DigitalGov Communities") for several years. Here&#8217;s your chance to learn more about Scott, and the work he&#8217;s doing at the USGS.
 
 ## What&#8217;s the best job you&#8217;ve ever had (and why)?
 

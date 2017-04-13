@@ -1,8 +1,7 @@
 ---
+permalink: /about/
 title: About
-date: 2013-11-18T03:10:34+00:00
 layout: docs
-image: featured-301-x-212-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg
 ---
 
 We live in aÂ time whenÂ [more pre-schoolers can use a smartphone app than can tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-at-navigating-iphone-than-tying-their-shoes/). How does government prepareÂ to meet the information needs of these budding citizens?Â **DigitalGovÂ** means providing information and services to the public anywhere andÂ anytime.
