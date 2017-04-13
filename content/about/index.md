@@ -3,7 +3,7 @@ layout: docs
 permalink: /about/
 ---
 
-# Hola worlds!
+# Hello worlds!
 
 We all live in a time when [more pre-schoolers can use a smartphone app than can
 tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-
@@ -24,7 +24,7 @@ Administration](http://www.gsa.gov/portal/category/100000). Our job here is to h
   * Promoting agency DigitalGov efforts
   * Building relationships with the private and non-profit sectors as well as state and local government
 
-### Digital Government Division
+### Digital Government Division and Multiplication
 
 The Digital Government Division is a cooperative enterprise that draws on
 resources from across government to leverage the expertise of forward-leaning
