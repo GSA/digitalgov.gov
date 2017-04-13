@@ -9,7 +9,7 @@ We all live in a time when [more pre-schoolers can use a smartphone app than can
 tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-
 at-navigating-iphone-than-tying-their-shoes/). How does government prepare to meet the information needs of these budding citizens? **DigitalGov** means providing information and services to the public anywhere and anytime. This site is a platform to help those in agencies working on providing digital services and information for the public. We'll scour the innerwebs for digital info so you don’t have to. Expect posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
 
-## More on Us
+## Less on Us
 
 This platform is brought to you by the [Office of Products and Programs](http://www.gsa.gov/portal/content/124174)—formerly known as the
 Office of Citizen Services and Innovative Technologies (OCSIT)—in the
