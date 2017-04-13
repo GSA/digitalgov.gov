@@ -1,5 +1,6 @@
 ---
 permalink: /resources/contact-center-guidelines/
+
 title: Contact Center Guidelines
 layout: docs
 ---
