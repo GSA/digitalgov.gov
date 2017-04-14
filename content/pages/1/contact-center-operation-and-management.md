@@ -6,17 +6,17 @@ layout: docs
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.
 
-  * [Control Contact Center Costs](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#control)
-  * [Monitor Quality](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#monitor)
-  * [Avoid Fraudulent Pay Phone Calls](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#avoid)
-  * [Call Calibration](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#call)
-  * [IVR Call Flow Basics](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#IVR)
-  * [Disaster Planning and Recovery](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#disaster)
+  - [Control Contact Center Costs](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#control)
+  - [Monitor Quality](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#monitor)
+  - [Avoid Fraudulent Pay Phone Calls](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#avoid)
+  - [Call Calibration](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#call)
+  - [IVR Call Flow Basics](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#IVR)
+  - [Disaster Planning and Recovery](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#disaster)
 
 
 ## Control Contact Center Costs {#control}
 
-Across the government, contact center budgets are stretched to the limit by increasing demands for more services. One big challenge� is how to do more with less, while at the same time� improving performance and customer satisfaction. To meet this challenge, contact center operators must drive down costs and invest the savings in new technology and services.
+Across the government, contact center budgets are stretched to the limit by increasing demands for more services. One big challenge is how to do more with less, while at the same time improving performance and customer satisfaction. To meet this challenge, contact center operators must drive down costs and invest the savings in new technology and services.
 
 ### What to Consider
 Before making any major changes, it's essential to assess your customer contact strategies in the following areas:
@@ -141,7 +141,7 @@ Establish ground rules and communicate them to all participants in advance, so s
 - Avoid being confrontational and allow everyone's opinion to be heard. Allow people to finish explaining their thoughts.
 - Talk about the facts, not feelings. The performance criteria should be defined by measurable tasks, so keep the discussion focused on what can be taught, not thought.
 - When making decisions, consider what would be best for the overall success of the program. Do not make a decision just because everyone has grown tired of the discussion!
-- Enforce compliance. It&#8217;s critical to identify and warn anyone who uses their own standards while monitoring, rather than the agreed-upon standards.
+- Enforce compliance. It's critical to identify and warn anyone who uses their own standards while monitoring, rather than the agreed-upon standards.
 - Do not give up when the process gets difficult and some people seem ready to quit.
 
 ## IVR Call Flow Basics
@@ -160,7 +160,7 @@ An IVR is an entry point for incoming telephone calls. It directs callers to the
 
 - **Increasing operating efficiency and improving the customer experience — ** An IVR can answer a large volume of calls automatically without delay. When equipped with sufficient number of ports, an IVR can eliminate the frustrating busy signals so often experienced during periods of high call volume. It can enable callers to obtain recorded information and/or to conduct transactions without the assistance of trained specialists. For calls that require live assistance, the IVR can collect caller information and route the calls expeditiously, without multiple hand-offs.
 
-- **Lowering overall operating costs —** An IVR can reduce the staff needed during business hours by providing information to callers� without the help of trained specialists, which in turn lowers the contact center&#8217;s operating costs.
+- **Lowering overall operating costs —** An IVR can reduce the staff needed during business hours by providing information to callers without the help of trained specialists, which in turn lowers the contact center's operating costs.
 
 - **Extending service hours —** An IVR can operate around-the-clock without human intervention, providing a menu of information and services based on times-of-the-day, days-of-the-week, and holiday schedules.
 
@@ -224,7 +224,7 @@ A contact center is the focal point of your customer interactions. Customers exp
 
 - **Critical systems and functions —** Make a list of critical systems and support operations functions, such as: network services, Interactive Voice Response (IVR), Automatic Call Distributor (ACD), email and Web chat systems, Customer Relationship Management (CRM) and other application systems, electrical power systems, Information Technology (IT) and Human Resources (HR) support, and the physical facility.
 - **Back-up and failover arrangements —** Define back-up and failover arrangements for each critical system and support function, and who will be responsible for implementation.
-- **Roles and responsibilities —** Identify the team responsible for executing the plan as well as the teams responsible for back–up and failover procedure implementation, and critical system and support function recovery. Define each team&#8217;s roles and responsibilities.
+- **Roles and responsibilities —** Identify the team responsible for executing the plan as well as the teams responsible for back–up and failover procedure implementation, and critical system and support function recovery. Define each team's roles and responsibilities.
 - **Emergency contacts list including phone numbers and email addresses —** Compile, and update frequently, a list of key personnel responsible for execution of the plan, implementing back-up and failover procedures, and recovery of critical systems and support functions.
 - **Detection, notification and escalation procedures —** Describe how critical systems and support function failures will be detected and analyzed, and which actions will be taken to notify teams to begin the damage assessment process.
 - **Damage assessment procedures —** Define how damage assessment will be conducted immediately after the outage, and for long-term recovery, and the procedures to communicate results to the teams.
