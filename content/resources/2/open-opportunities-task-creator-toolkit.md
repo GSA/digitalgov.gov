@@ -1,5 +1,6 @@
 ---
 permalink: /resources/open-opportunities-task-creator-toolkit/
+
 title: Open Opportunities Task Creator Toolkit
 layout: docs
 ---
@@ -8,7 +9,7 @@ layout: docs
 
   1. ## Preparation
     
-      1. **Brainstorm and Review:Â** 
+      1. **Brainstorm and Review:** 
         <li style="margin-bottom: 15px">
           <a title="Click to read: 10 Tips for Creating the Perfect Open Opportunity Task" href="https://www.digitalgov.gov/resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/">10 Tips for Creating the Perfect Task</a>
         </li>
@@ -26,9 +27,9 @@ layout: docs
   2. ## Accepting Participants
     
     <li style="margin-bottom: 15px">
-      <img class="alignright size-full wp-image-267001" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" width="215" height="215" /><strong>Market Your TaskÂ </strong> <ul>
+      <img class="alignright size-full wp-image-267001" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" width="215" height="215" /><strong>Market Your Task </strong> <ul>
         <li>
-          Advertise to relevant communities of practice using our <a title="Marketing Email Template for Communities of Practice" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx" target="_blank">marketing template</a>Â (14 kb MS Word .docx).
+          Advertise to relevant communities of practice using our <a title="Marketing Email Template for Communities of Practice" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx" target="_blank">marketing template</a> (14 kb MS Word .docx).
         </li>
         <li>
           Use the â€œshareâ€ button on the right of the task page to send a form email.
@@ -43,7 +44,7 @@ layout: docs
       <strong>Review Participants</strong><br /> Task Creators need to respond to interested participants within <strong>24 hours</strong>. (You donâ€™t need to assign the task that quickly, but some acknowledgement should occur within that time frame).
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Remove Extra Participants</strong><br /> Remove any extra participants from the task. <strong>It is your responsibility to email extra participants prior to assigning the task.</strong> Please review our <a title="Click here to read the &quot;Opportunity Assigned to Someone Else&quot; Email Template" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Opportunity-Assigned-to-Someone-Else-Email-Template.docx" target="_blank">template</a> (15 kb Ms Word .docx)Â for a suggested message.
+      <strong>Remove Extra Participants</strong><br /> Remove any extra participants from the task. <strong>It is your responsibility to email extra participants prior to assigning the task.</strong> Please review our <a title="Click here to read the &quot;Opportunity Assigned to Someone Else&quot; Email Template" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Opportunity-Assigned-to-Someone-Else-Email-Template.docx" target="_blank">template</a> (15 kb Ms Word .docx) for a suggested message.
     </li>
   3. ## Wrapping Up
     
@@ -54,7 +55,7 @@ layout: docs
       <strong><em>Note</em></strong>:<br /> Automatic email sent to participants, signifying their selection. You will be CCâ€™d. <strong>Be sure you removed extra participants</strong> or they will also receive the â€œyouâ€™ve been assignedâ€ email!
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Task EditingÂ </strong> <ul>
+      <strong>Task Editing </strong> <ul>
         <li>
           Make edits if the task changes after posting.
         </li>
@@ -79,4 +80,4 @@ layout: docs
       <strong>Closing Tasks</strong><br /> If your task has been completed, change the opportunity state to â€œcompleted.â€
     </li>
 
-[Click here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf "View the Open Opportunities Task Creator Process") to download your copy.Â Thank you for being a task creator!!
+[Click here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf "View the Open Opportunities Task Creator Process") to download your copy. Thank you for being a task creator!!

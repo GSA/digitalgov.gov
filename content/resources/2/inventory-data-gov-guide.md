@@ -1,5 +1,6 @@
 ---
 permalink: /resources/inventory-data-gov-guide/
+
 title: Inventory.data.gov Guide
 layout: docs
 ---
@@ -74,11 +75,11 @@ Once an agency has consulted with the Data.gov PMO and has decided to use invent
 
 <span style="font-weight: 400">Logins to use inventory.data.gov are integrated with </span>[<span style="font-weight: 400">OMB MAX login</span>](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.gov%2Fmaxportal%2Fsa%2Flogin.action%3Bjsessionid%3D994E6FE4CC968B89D599672C9F9DDAAE)<span style="font-weight: 400">. You should log in to OMB MAX using your OMB MAX credentials on your first use of inventory.data.gov.</span>
 
-<span style="font-weight: 400">Two-factor authentication (2FA) is now required, so enable 2FA through the instructions on the </span>[<span style="font-weight: 400">OMB MAX login</span>](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.gov%2Fmaxportal%2Fsa%2Flogin.action%3Bjsessionid%3D994E6FE4CC968B89D599672C9F9DDAAE) <span style="font-weight: 400">page. You can add a device by clicking on â€œManage SMS 2-Factor Devicesâ€ under your profile settings. This is not necessary if you use your PIV/CAC card to log in to MAX; it is already considered 2FA.Â </span>
+<span style="font-weight: 400">Two-factor authentication (2FA) is now required, so enable 2FA through the instructions on the </span>[<span style="font-weight: 400">OMB MAX login</span>](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.gov%2Fmaxportal%2Fsa%2Flogin.action%3Bjsessionid%3D994E6FE4CC968B89D599672C9F9DDAAE) <span style="font-weight: 400">page. You can add a device by clicking on â€œManage SMS 2-Factor Devicesâ€ under your profile settings. This is not necessary if you use your PIV/CAC card to log in to MAX; it is already considered 2FA. </span>
 
 <img class="aligncenter size-full wp-image-386190" src="https://www.digitalgov.gov/files/2015/01/600-Data.gov-page-MAX-Login.png" alt="Screen shot of MAX login page" width="600" height="372" />
 
-<span style="font-weight: 400">After you have logged in to OMB MAX, <a href="mailto:datagov@gsa.gov">email us</a></span><span style="font-weight: 400">Â to let us know you have completed the initial login, in the email provide the organization name and access permission (Admin or Editor) required. We will then associate requested permissions to your account. On subsequent logins to inventory.data.gov (through OMB MAX), you should be able to use inventory.data.gov to manage metadata without further assistance</span>.
+<span style="font-weight: 400">After you have logged in to OMB MAX, <a href="mailto:datagov@gsa.gov">email us</a></span><span style="font-weight: 400"> to let us know you have completed the initial login, in the email provide the organization name and access permission (Admin or Editor) required. We will then associate requested permissions to your account. On subsequent logins to inventory.data.gov (through OMB MAX), you should be able to use inventory.data.gov to manage metadata without further assistance</span>.
 
 <h3 id="manage-datasets" style="padding-top: 50px">
   Using inventory.data.gov to manage datasets
@@ -142,7 +143,7 @@ The Create Dataset page features the metadata following the [Project Open Data](
 
 <span style="font-weight: 400">For </span>**Publisher**<span style="font-weight: 400">, enter the name of your agency. Use the Add sub-agency button to enter a sub-agency to more specifically identify the source of the dataset. These additional sub-agency fields are optional.</span>
 
-**Access Level**<span style="font-weight: 400">: Choose public, restricted public, or non-public. Â All type of â€œAccess Levelâ€ datasets are now included in both Redacted Inventory (PDL) and Unredacted Inventory (EDI), </span><span style="font-weight: 400">The redaction feature is not available for public datasets, but is available for restricted public and non-public datasets.</span> <span style="font-weight: 400">In editing metadata for restricted public and non-public datasets</span><span style="font-weight: 400">, the applicable individual fields can be fully or partially redacted.</span>
+**Access Level**<span style="font-weight: 400">: Choose public, restricted public, or non-public.  All type of â€œAccess Levelâ€ datasets are now included in both Redacted Inventory (PDL) and Unredacted Inventory (EDI), </span><span style="font-weight: 400">The redaction feature is not available for public datasets, but is available for restricted public and non-public datasets.</span> <span style="font-weight: 400">In editing metadata for restricted public and non-public datasets</span><span style="font-weight: 400">, the applicable individual fields can be fully or partially redacted.</span>
 
 <span style="font-weight: 400">See the </span>[<span style="font-weight: 400">Redaction and Partial Redaction feature</span>](https://github.com/GSA/data.gov/wiki/Intentory.data.gov-User-Guide-for-Redaction-and-Partial-Redaction-Feature) <span style="font-weight: 400">for more information.</span>
 
@@ -202,7 +203,7 @@ The Create Dataset page features the metadata following the [Project Open Data](
 
 <span style="font-weight: 400">You are then taken to another screen with more fields about accessing the dataset.</span>
 
-<span style="font-weight: 400">For most inventory.data.gov users, the dataset is actually hosted on the agency.gov site, so you will hit the â€œLink to a fileâ€ radio button and provide the URL. If you would like to provide a link to API, choose the â€œLink to an APIâ€ radio button, provide the URL, and enter the value â€œAPIâ€ in the format field, to provide a web page URL where dataset information is available user the radio button option â€œAccess URL.â€Â </span>
+<span style="font-weight: 400">For most inventory.data.gov users, the dataset is actually hosted on the agency.gov site, so you will hit the â€œLink to a fileâ€ radio button and provide the URL. If you would like to provide a link to API, choose the â€œLink to an APIâ€ radio button, provide the URL, and enter the value â€œAPIâ€ in the format field, to provide a web page URL where dataset information is available user the radio button option â€œAccess URL.â€ </span>
 
 <img class="aligncenter size-full wp-image-320762" src="https://www.digitalgov.gov/files/2015/10/600-x-512-add-a-new-resource-dataset.jpg" alt="Screen cap of Add a New Resource screen." width="600" height="512" />
 
@@ -216,7 +217,7 @@ The Create Dataset page features the metadata following the [Project Open Data](
   Draft Feature
 </h3>
 
-<span style="font-weight: 400">While creating datasets in <a href="http://inventory.data.gov/">inventory.data.gov</a>, users can set the â€œPublishing Statusâ€ value as â€œDraft,â€ which indicates that the dataset is still being worked on or reviewed. Any dataset saved with â€œDraftâ€ status will not be included in the generated Redacted/Unredacted data.json files. The draft feature allows users to enter preliminary data and finalize the dataset at a later point by changing the â€œPublishing Statusâ€ value to â€œPublished.â€Â </span>
+<span style="font-weight: 400">While creating datasets in <a href="http://inventory.data.gov/">inventory.data.gov</a>, users can set the â€œPublishing Statusâ€ value as â€œDraft,â€ which indicates that the dataset is still being worked on or reviewed. Any dataset saved with â€œDraftâ€ status will not be included in the generated Redacted/Unredacted data.json files. The draft feature allows users to enter preliminary data and finalize the dataset at a later point by changing the â€œPublishing Statusâ€ value to â€œPublished.â€ </span>
 
 <img class="aligncenter wp-image-351511 size-full" src="https://www.digitalgov.gov/files/2015/01/unnamed-1.jpg" alt="unnamed-1" width="721" height="238" />
 
@@ -224,7 +225,7 @@ The Create Dataset page features the metadata following the [Project Open Data](
   Clone Feature
 </h3>
 
-<span style="font-weight: 400">Users can create a clone of a particular dataset by clicking on the â€œCloneâ€ button displayed on the top right of the dataset page. The Clone feature is useful if you are entering lots of datasets manually, and most of the metadata Â like Bureau Code, Program Code, Publisher Name, Contact Name etc. is the same Â for all of them.</span>
+<span style="font-weight: 400">Users can create a clone of a particular dataset by clicking on the â€œCloneâ€ button displayed on the top right of the dataset page. The Clone feature is useful if you are entering lots of datasets manually, and most of the metadata  like Bureau Code, Program Code, Publisher Name, Contact Name etc. is the same  for all of them.</span>
 
 <span style="font-weight: 400">After you click on the Clone button, make sure to correct the Dataset title and Unique Identifier at a minimum on the cloned dataset, and review all the other field values to make sure they are correct before updating the dataset.</span>
 
@@ -236,7 +237,7 @@ The Create Dataset page features the metadata following the [Project Open Data](
   Exporting Data.json
 </h3>
 
-<span style="font-weight: 400">Once you have finished entering and editing the metadata for your organization, you are ready to export the datasets to generate the data.json files which comply with Â Project Open Data Schema 1.1 version. This is done from the main Organization page, by clicking on Â your agency Organization icon on the left or by clicking on your agency Organization name on the top of the page.</span>
+<span style="font-weight: 400">Once you have finished entering and editing the metadata for your organization, you are ready to export the datasets to generate the data.json files which comply with  Project Open Data Schema 1.1 version. This is done from the main Organization page, by clicking on  your agency Organization icon on the left or by clicking on your agency Organization name on the top of the page.</span>
 
 <span style="font-weight: 400">There are three choices at the top</span>.
 
@@ -272,7 +273,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <span style="font-weight: 400">Once you fix the errors, go back to the Organization page and re-download the Redacted Inventory (PDL) or Unredacted Inventory (EDI) datasets, and you should get a zip file with just the data.json and no error log.</span>
 
-<span style="font-weight: 400">For the Unredacted Inventory (EDI), the data.json file can be submitted to OMB Max. For the Redacted Inventory (PDL), the data.json will need to be posted on the agencyâ€™s website at agency.gov/data.json in order to be harvested by the Data.gov catalog. Â If the data.json is being posted on the agency.gov website for the first time, please contact the Data.gov team viaÂ <a href="mailto:datagov@gsa.gov">email</a>Â </span><span style="font-weight: 400">to set the harvest source on catalog.data.gov.Â </span>
+<span style="font-weight: 400">For the Unredacted Inventory (EDI), the data.json file can be submitted to OMB Max. For the Redacted Inventory (PDL), the data.json will need to be posted on the agencyâ€™s website at agency.gov/data.json in order to be harvested by the Data.gov catalog.  If the data.json is being posted on the agency.gov website for the first time, please contact the Data.gov team via <a href="mailto:datagov@gsa.gov">email</a> </span><span style="font-weight: 400">to set the harvest source on catalog.data.gov. </span>
 
 <h3 id="automating-data-json-downloads" style="padding-top: 50px">
   Automating data.json downloads by agencies
@@ -314,7 +315,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
   Webinar on inventory.data.gov
 </h2>
 
-<span style="font-weight: 400">Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014. For more information, consult the recording of the </span>[<span style="font-weight: 400">webinar</span>](http://youtu.be/ciLYjDsF4lo)<span style="font-weight: 400">.Â </span>
+<span style="font-weight: 400">Data.gov, working with DigitalGov University, presented a webinar for agencies interested in using inventory on December 16, 2014. For more information, consult the recording of the </span>[<span style="font-weight: 400">webinar</span>](http://youtu.be/ciLYjDsF4lo)<span style="font-weight: 400">. </span>
 
 [youtube=http://www.youtube.com/watch?v=ciLYjDsF4lo&w=600]
 
@@ -328,7 +329,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="2">
   <li>
-    <span style="font-weight: 400"> Â Â Who do we email to request our organization be created?</span>
+    <span style="font-weight: 400">   Who do we email to request our organization be created?</span>
   </li>
 </ol>
 
@@ -336,7 +337,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="3">
   <li>
-    <span style="font-weight: 400"> Â Â Who should I contact to get my organization approved/created?</span>
+    <span style="font-weight: 400">   Who should I contact to get my organization approved/created?</span>
   </li>
 </ol>
 
@@ -344,7 +345,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="4">
   <li>
-    <span style="font-weight: 400"> Â Â For the record to be identified as geospatial, does â€œgeospatialâ€ go in Theme (Category)</span>
+    <span style="font-weight: 400">   For the record to be identified as geospatial, does â€œgeospatialâ€ go in Theme (Category)</span>
   </li>
 </ol>
 
@@ -352,7 +353,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="5">
   <li>
-    <span style="font-weight: 400"> Â Â Is there a way to import an existing data.json into inventory.data.gov?</span>
+    <span style="font-weight: 400">   Is there a way to import an existing data.json into inventory.data.gov?</span>
   </li>
 </ol>
 
@@ -360,7 +361,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="6">
   <li>
-    <span style="font-weight: 400"> Â Â How do we know our agency POC?</span>
+    <span style="font-weight: 400">   How do we know our agency POC?</span>
   </li>
 </ol>
 
@@ -368,7 +369,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="7">
   <li>
-    <span style="font-weight: 400"> Â Â How does this work with Data.gov?</span>
+    <span style="font-weight: 400">   How does this work with Data.gov?</span>
   </li>
 </ol>
 
@@ -376,7 +377,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="8">
   <li>
-    <span style="font-weight: 400"> Â Â Can we add custom core metadata fields?</span>
+    <span style="font-weight: 400">   Can we add custom core metadata fields?</span>
   </li>
 </ol>
 
@@ -384,7 +385,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="9">
   <li>
-    <span style="font-weight: 400"> Â Â Does search works only on dataset name and description or the actual content as well?</span>
+    <span style="font-weight: 400">   Does search works only on dataset name and description or the actual content as well?</span>
   </li>
 </ol>
 
@@ -392,7 +393,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="10">
   <li>
-    <span style="font-weight: 400"> Â Â What is the difference between public and restricted-public?</span>
+    <span style="font-weight: 400">   What is the difference between public and restricted-public?</span>
   </li>
 </ol>
 
@@ -400,7 +401,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="11">
   <li>
-    <span style="font-weight: 400"> Â Â Can you clarify the difference between central and inventory CKAN? It seems like many datasets are using the datastore feature on inventory.data.gov â€“ is this no longer the policy and inventory is mainly for creating data.json files?</span>
+    <span style="font-weight: 400">   Can you clarify the difference between central and inventory CKAN? It seems like many datasets are using the datastore feature on inventory.data.gov â€“ is this no longer the policy and inventory is mainly for creating data.json files?</span>
   </li>
 </ol>
 
@@ -408,7 +409,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="12">
   <li>
-    <span style="font-weight: 400"> Â Â If inventory.data.gov is not intended for geospatial metadata, what system is? Geoplatform.gov? If we have standards-compliant (ISO, FGDC, etc.) metadata already published, can we import these metadata fields? Or must we enter them manually?</span>
+    <span style="font-weight: 400">   If inventory.data.gov is not intended for geospatial metadata, what system is? Geoplatform.gov? If we have standards-compliant (ISO, FGDC, etc.) metadata already published, can we import these metadata fields? Or must we enter them manually?</span>
   </li>
 </ol>
 
@@ -416,7 +417,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
 
 <ol start="13">
   <li>
-    <span style="font-weight: 400"> Â Â So the system does not push errors to you; you have to search for them?</span>
+    <span style="font-weight: 400">   So the system does not push errors to you; you have to search for them?</span>
   </li>
 </ol>
 

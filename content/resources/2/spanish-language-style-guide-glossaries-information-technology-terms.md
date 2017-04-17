@@ -1,5 +1,6 @@
 ---
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/
+
 title: 'Spanish Language Style Guide &#038; Glossaries: Information Technology Terms'
 layout: docs
 ---
@@ -114,7 +115,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        Cifrar, codificarÂ â€“Â <strong>NEVER</strong>Â &#8220;encriptar&#8221;
+        Cifrar, codificar â€“ <strong>NEVER</strong> &#8220;encriptar&#8221;
       </td>
     </tr>
     
@@ -144,7 +145,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        Entrar (al sistema)Â [The Oxford Spanish Dictionary, CD-ROM]; ingresar (a una cuenta o pÃ¡gina de sitio web)
+        Entrar (al sistema) [The Oxford Spanish Dictionary, CD-ROM]; ingresar (a una cuenta o pÃ¡gina de sitio web)
       </td>
     </tr>
     
@@ -154,7 +155,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        Salir (del sistema)Â [The Oxford Spanish Dictionary, CD-ROM]; cerrar sesiÃ³n (en la pÃ¡gina de un sitio web)
+        Salir (del sistema) [The Oxford Spanish Dictionary, CD-ROM]; cerrar sesiÃ³n (en la pÃ¡gina de un sitio web)
       </td>
     </tr>
     
@@ -164,7 +165,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        En lÃ­neaÂ â€“ Translators find that certain segments of U.S. Hispanics do not relate to this expression, which is then replaced withÂ &#8220;por Internet.&#8221;
+        En lÃ­nea â€“ Translators find that certain segments of U.S. Hispanics do not relate to this expression, which is then replaced with &#8220;por Internet.&#8221;
       </td>
     </tr>
     
@@ -204,7 +205,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        RequisitosÂ â€“Â <strong>NEVER</strong>Â &#8220;requerimientos&#8221;
+        Requisitos â€“ <strong>NEVER</strong> &#8220;requerimientos&#8221;
       </td>
     </tr>
     
@@ -214,7 +215,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        Ejecutar (un programa)Â â€“Â <strong>NEVER</strong>Â &#8220;correr&#8221;
+        Ejecutar (un programa) â€“ <strong>NEVER</strong> &#8220;correr&#8221;
       </td>
     </tr>
     
@@ -314,7 +315,7 @@ layout: docs
       </td>
       
       <td valign="top">
-        Utilizabilidad (EspaÃ±a, MÃ©xico, and ChileÂ already use this term for Usability) according toÂ Marta Daza, a professional certified translator, ATA)
+        Utilizabilidad (EspaÃ±a, MÃ©xico, and Chile already use this term for Usability) according to Marta Daza, a professional certified translator, ATA)
       </td>
     </tr>
     
@@ -344,12 +345,12 @@ layout: docs
       </td>
       
       <td valign="top">
-        Portal, sitioÂ Web (sitioÂ is a direct translation from English and used in the U.S. interchangeably whether the site is a Web site or a portal),Â pÃ¡gina Web, cibersitio
+        Portal, sitio Web (sitio is a direct translation from English and used in the U.S. interchangeably whether the site is a Web site or a portal), pÃ¡gina Web, cibersitio
       </td>
     </tr>
   </table>
   
   <p>
-    Source: Compiled using articles fromÂ <a href="http://www.apuntesonline.org/">ApuntesOnline</a>Â and various sources.
+    Source: Compiled using articles from <a href="http://www.apuntesonline.org/">ApuntesOnline</a> and various sources.
   </p>
 </div>

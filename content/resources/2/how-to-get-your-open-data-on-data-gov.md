@@ -1,5 +1,6 @@
 ---
 permalink: /resources/how-to-get-your-open-data-on-data-gov/
+
 title: How to Get Your Open Data on Data.gov
 layout: docs
 ---
@@ -9,7 +10,7 @@ Data.gov is the central clearinghouse for open data from the United States feder
 This guide is primarily for the [Open Data Points of Contact](https://project-open-data.cio.gov/points-of-contact/) (POC) at each agency. If you would like to add data to Data.gov and you are not the POC for your agency, please contact your POC. If your agency has no POC listed, please continue reading and [contact Data.gov](https://www.data.gov/contact) for assistance.
 
   * [**Overview**](#overview "Overview")
-  * [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1 "Step 1: Organize your open data for the Data.gov Pipeline") 
+  * [**Step 1: Organize your open data for the Data.gov Pipeline**](#step-1 "Step 1: Organize your open data for the Data.gov Pipeline")
       * [**Federal Data with Project Open Data**](#federal-data-with-project-open-data "Federal Data with Project Open Data")
       * [**Federal Geospatial Data**](#federal-geospatial-data "Federal Geospatial Data")
       * [**Non-Federal Data**](#non-federal-data "Non-Federal Data")
@@ -17,11 +18,9 @@ This guide is primarily for the [Open Data Points of Contact](https://project-op
   * [**Resources & Tools**](#resources-tools "Resources & Tools")
   * [**Frequently Asked Questions**](#faq "Frequently Asked Questions")
 
-<h2 id="overview" style="padding-top: 50px">
-  Overview
-</h2>
+## Overview
 
-Data.gov is primarily a federal open government data site. However, state, local, and tribal governments can also publish ¬ metadata describing their open data resources on Data.gov for greater discoverability. Data.gov does not host data directly (with a few exceptions), but rather aggregates metadata about open data resources in one centralized location. Once an open data source meets the necessary format and metadata requirements, the Data.gov team can harvest the metadata directly, synchronizing that source‚Äôs metadata on Data.gov as often as every 24 hours.
+Data.gov is primarily a federal open government data site. However, state, local, and tribal governments can also publish  metadata describing their open data resources on Data.gov for greater discoverability. Data.gov does not host data directly (with a few exceptions), but rather aggregates metadata about open data resources in one centralized location. Once an open data source meets the necessary format and metadata requirements, the Data.gov team can harvest the metadata directly, synchronizing that source‚Äôs metadata on Data.gov as often as every 24 hours.
 
 **Background**
 
@@ -57,7 +56,7 @@ Data.gov is primarily a federal open government data site. However, state, local
   Federal Data with Project Open Data
 </h3>
 
-[<span style="font-weight: 400">Project Open Data</span>](https://project-open-data.cio.gov/) <span style="font-weight: 400">is the name of the implementation guidance and associated resources for the </span>[<span style="font-weight: 400">Federal Open Data Policy, OMB M-13-13</span>](https://project-open-data.cio.gov/policy-memo/)<span style="font-weight: 400">. This policy requires all </span>[<span style="font-weight: 400">Federal CFO-Act agencies</span>](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title31/html/USCODE-2011-title31-subtitleI-chap9-sec901.htm) <span style="font-weight: 400">to publish a </span>[<span style="font-weight: 400">Public Data Listing</span>](https://project-open-data.cio.gov/catalog/)<span style="font-weight: 400">, provided as a </span>[<span style="font-weight: 400">data.json file</span>](https://project-open-data.cio.gov/catalog/#machine-readable-format)<span style="font-weight: 400">, using the standard </span>[<span style="font-weight: 400">Project Open Data metadata schema</span>](https://project-open-data.cio.gov/v1.1/schema/)<span style="font-weight: 400">. Non-CFO-Act agencies are not covered by this policy, but the process for including their data on Data.gov is the same.¬ </span>
+[<span style="font-weight: 400">Project Open Data</span>](https://project-open-data.cio.gov/) <span style="font-weight: 400">is the name of the implementation guidance and associated resources for the </span>[<span style="font-weight: 400">Federal Open Data Policy, OMB M-13-13</span>](https://project-open-data.cio.gov/policy-memo/)<span style="font-weight: 400">. This policy requires all </span>[<span style="font-weight: 400">Federal CFO-Act agencies</span>](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title31/html/USCODE-2011-title31-subtitleI-chap9-sec901.htm) <span style="font-weight: 400">to publish a </span>[<span style="font-weight: 400">Public Data Listing</span>](https://project-open-data.cio.gov/catalog/)<span style="font-weight: 400">, provided as a </span>[<span style="font-weight: 400">data.json file</span>](https://project-open-data.cio.gov/catalog/#machine-readable-format)<span style="font-weight: 400">, using the standard </span>[<span style="font-weight: 400">Project Open Data metadata schema</span>](https://project-open-data.cio.gov/v1.1/schema/)<span style="font-weight: 400">. Non-CFO-Act agencies are not covered by this policy, but the process for including their data on Data.gov is the same. </span>
 
 <span style="font-weight: 400">Project Open Data requires agencies to list and describe all agency data in the Public Data Listing. If a dataset is not public or restricted access, the metadata for that dataset is still included in the Public Data Listing, but any portion of the metadata that cannot be made public is redacted. The full, unredacted version of the metadata is provided in the Enterprise Data Inventory which is submitted to OMB and not made public.</span>
 
@@ -76,26 +75,26 @@ Data.gov is primarily a federal open government data site. However, state, local
 
 The Data.gov catalog supports version 1.1 as of December 2, 2014.
 
-<span style="font-weight: 400">When an agency is ready for Data.gov to harvest their data.json for the first time, they should notify Data.gov via <a href="mailto:datagovhelp@gsa.gov">email</a>¬ and</span><span style="font-weight: 400">¬ the Data.gov team will create a new Data.gov harvest source for their data.json. The Data.gov team is available to assist agencies in generating the Public Data Listing data.json file and provide tools that may help agencies prepare their data listings</span>.
+<span style="font-weight: 400">When an agency is ready for Data.gov to harvest their data.json for the first time, they should notify Data.gov via <a href="mailto:datagovhelp@gsa.gov">email</a> and</span><span style="font-weight: 400"> the Data.gov team will create a new Data.gov harvest source for their data.json. The Data.gov team is available to assist agencies in generating the Public Data Listing data.json file and provide tools that may help agencies prepare their data listings</span>.
 
 **Federal data only**
-  
+
 T<span style="font-weight: 400">here should be one single harvest source per agency. If a federal agency aggregates data from non-federal sources, they must ensure the agency‚Äôs data.json includes data produced by the agency only. Data.gov harvests all metadata directly from publishers including many non-federal sources and </span><span style="font-weight: 400">works to</span> <span style="font-weight: 400">prevent dataset duplication through intermediaries. It is also important to remember that OMB assesses an agency‚Äôs data.json file under the assumption it is comprised of data exclusively from that agency</span>.
 
 **Transitioning to data.json**
-  
+
 <span style="font-weight: 400">When an agency transitions to data.json harvesting for the first time, any existing data on the Data.gov catalog is archived. Data.gov will also provide an export of the existing metadata on Data.gov and note whether any of these datasets were associated with a Data.gov Topic</span>.
 
 **Replacing datasets**
-  
+
 <span style="font-weight: 400">When replacing any dataset in your data.json file it is important to maintain same title and identifier associated with the dataset to ensure consistent discoverability of that dataset going forward. When replacing datasets in your data.json harvest source, using the same identifier will ensure that the URL for the dataset on Data.gov stays the same keeping cited links working and reinforcing the open data principle of </span>[<span style="font-weight: 400">permanence</span>](https://opengovdata.io/2014/permanence-trust-provenance/)<span style="font-weight: 400">. It should be noted, however, that when replacing datasets on Data.gov with a brand new harvest source (see </span>_<span style="font-weight: 400">Transitioning to data.json</span>_ <span style="font-weight: 400">above) that using the same identifier or title may not retain the same URL.</span>
 
 **Recovering deleted datasets**
-  
+
 <span style="font-weight: 400">After a dataset has been deleted from Data.gov (i.e., the agency posted an updated data.json file that does not include a particular dataset), there is a grace period of up to 24 hours where it can be easily restored by working with the Data.gov team</span>.
 
 **Error log reports**
-  
+
 <span style="font-weight: 400">Every time the data.json is harvested, an error log is generated that identifies any issues that occurred during the harvest process. If requested, an agency point of contact can receive a daily harvest report with this error log via email</span>.
 
 <h3 id="federal-geospatial-data" style="padding-top: 50px">
@@ -104,34 +103,34 @@ T<span style="font-weight: 400">here should be one single harvest source per age
 
 **Background**
 
-<span style="font-weight: 400">Several federal agencies maintain and manage geospatial data and geographic information systems (GIS). The documentation of ¬ geospatial data is subject to authorities pre-dating the Open Data Policy. are required to develop metadata as outlined in </span>[<span style="font-weight: 400">Executive Order 12906</span>](http://www.archives.gov/federal-register/executive-orders/pdf/12906.pdf) <span style="font-weight: 400">and </span>[<span style="font-weight: 400">OMB Circular A-16, revised (2002)</span>](https://obamawhitehouse.archives.gov/omb/circulars_a016_rev/) <span style="font-weight: 400">to support the National Spatial Data Infrastructure (NSDI). The Federal Geographic Data Committee (FGDC) is the interagency group responsible for facilitating these federal activities and collaboration with non-federal organizations on geospatial data efforts. The FGDC has endorsed several geospatial metadata standards, as directed by </span>[<span style="font-weight: 400">OMB Circular A-119</span>](https://obamawhitehouse.archives.gov/omb/circulars_a119/)<span style="font-weight: 400">,including the Content Standard for Digital Geospatial Metadata (</span>[<span style="font-weight: 400">CSDGM</span>](http://www.fgdc.gov/metadata/csdgm)<span style="font-weight: 400">), </span>[<span style="font-weight: 400">ISO 19115:2003 Geographic Information ‚Äì Metadata</span>](http://www.fgdc.gov/metadata/geospatial-metadata-standards) <span style="font-weight: 400">and several related ISO geospatial standards. Since ISO 19115 and the associated standards are voluntary consensus standards (vs. federally-authored) and endorsed by the FGDC, federal agencies are encouraged to transition to ISO metadata as their agencies are able to do so. While the selection of appropriate standards is dependent on the nature of your metadata collection and publication process, ISO metadata should be considered an option now. For more information, <a href="https://www.fgdc.gov/metadata">see the FGDC website</a>.¬ </span>
+<span style="font-weight: 400">Several federal agencies maintain and manage geospatial data and geographic information systems (GIS). The documentation of  geospatial data is subject to authorities pre-dating the Open Data Policy. are required to develop metadata as outlined in </span>[<span style="font-weight: 400">Executive Order 12906</span>](http://www.archives.gov/federal-register/executive-orders/pdf/12906.pdf) <span style="font-weight: 400">and </span>[<span style="font-weight: 400">OMB Circular A-16, revised (2002)</span>](https://obamawhitehouse.archives.gov/omb/circulars_a016_rev/) <span style="font-weight: 400">to support the National Spatial Data Infrastructure (NSDI). The Federal Geographic Data Committee (FGDC) is the interagency group responsible for facilitating these federal activities and collaboration with non-federal organizations on geospatial data efforts. The FGDC has endorsed several geospatial metadata standards, as directed by </span>[<span style="font-weight: 400">OMB Circular A-119</span>](https://obamawhitehouse.archives.gov/omb/circulars_a119/)<span style="font-weight: 400">,including the Content Standard for Digital Geospatial Metadata (</span>[<span style="font-weight: 400">CSDGM</span>](http://www.fgdc.gov/metadata/csdgm)<span style="font-weight: 400">), </span>[<span style="font-weight: 400">ISO 19115:2003 Geographic Information ‚Äì Metadata</span>](http://www.fgdc.gov/metadata/geospatial-metadata-standards) <span style="font-weight: 400">and several related ISO geospatial standards. Since ISO 19115 and the associated standards are voluntary consensus standards (vs. federally-authored) and endorsed by the FGDC, federal agencies are encouraged to transition to ISO metadata as their agencies are able to do so. While the selection of appropriate standards is dependent on the nature of your metadata collection and publication process, ISO metadata should be considered an option now. For more information, <a href="https://www.fgdc.gov/metadata">see the FGDC website</a>. </span>
 
-<span style="font-weight: 400">In the past, geospatial metadata records were maintained and discoverable via separate catalogs and tools, including Geospatial One Stop. In 2013, these sources were merged so that Data.gov (specifically catalog.data.gov) indexes both geospatial and non-geospatial metadata in one place.¬ </span>
+<span style="font-weight: 400">In the past, geospatial metadata records were maintained and discoverable via separate catalogs and tools, including Geospatial One Stop. In 2013, these sources were merged so that Data.gov (specifically catalog.data.gov) indexes both geospatial and non-geospatial metadata in one place. </span>
 
-<span style="font-weight: 400">Metadata for geospatial datasets in </span>[<span style="font-weight: 400">catalog.data.gov</span>](http://catalog.data.gov/dataset) <span style="font-weight: 400">is also made available in </span>[<span style="font-weight: 400">GeoPlatform.gov</span>](http://www.geoplatform.gov/)<span style="font-weight: 400">. GeoPlatform.gov provides access and management of geospatial resources through common geospatial data, services, and applications contributed and administered by trusted sources and hosted on shared infrastructure for use by federal agencies, agency partners, and the public. Geospatial metadata is made available to GeoPlatform.gov from the metadata harvested by catalog.data.gov and is displayed on GeoPlatform.gov via an application programming interface (API) on catalog.data.gov. In other words, the datasets discoverable on GeoPlatform.gov are from the geospatial metadata collected by the catalog using the following API call:¬ </span>
+<span style="font-weight: 400">Metadata for geospatial datasets in </span>[<span style="font-weight: 400">catalog.data.gov</span>](http://catalog.data.gov/dataset) <span style="font-weight: 400">is also made available in </span>[<span style="font-weight: 400">GeoPlatform.gov</span>](http://www.geoplatform.gov/)<span style="font-weight: 400">. GeoPlatform.gov provides access and management of geospatial resources through common geospatial data, services, and applications contributed and administered by trusted sources and hosted on shared infrastructure for use by federal agencies, agency partners, and the public. Geospatial metadata is made available to GeoPlatform.gov from the metadata harvested by catalog.data.gov and is displayed on GeoPlatform.gov via an application programming interface (API) on catalog.data.gov. In other words, the datasets discoverable on GeoPlatform.gov are from the geospatial metadata collected by the catalog using the following API call: </span>
 
 <span style="font-weight: 400">http://catalog.data.gov/api/3/action/package_search?q=metadata_type:geospatial</span>
 
-<span style="font-weight: 400">The majority of open government datasets have some relationship to spatial data (e.g. jurisdiction, address). For the purposes of this document and learning how data gets published in ¬ Data.gov, ‚Äúgeospatial data‚Äù here specifically refers to spatial data that has historically been included as part of the Federal Geographic Data Committee and GeoPlatform.gov and utilizes robust geospatial metadata standards such as the the suite of ISO standards or the FGDC‚Äôs Content Standard for Digital Geospatial Metadata (</span>[<span style="font-weight: 400">CSDGM</span>](http://www.fgdc.gov/metadata/csdgm)<span style="font-weight: 400">).These geospatial metadata standards are needed to properly display data and utilize the spatial functionality on GeoPlatform.gov</span>.
+<span style="font-weight: 400">The majority of open government datasets have some relationship to spatial data (e.g. jurisdiction, address). For the purposes of this document and learning how data gets published in  Data.gov, ‚Äúgeospatial data‚Äù here specifically refers to spatial data that has historically been included as part of the Federal Geographic Data Committee and GeoPlatform.gov and utilizes robust geospatial metadata standards such as the the suite of ISO standards or the FGDC‚Äôs Content Standard for Digital Geospatial Metadata (</span>[<span style="font-weight: 400">CSDGM</span>](http://www.fgdc.gov/metadata/csdgm)<span style="font-weight: 400">).These geospatial metadata standards are needed to properly display data and utilize the spatial functionality on GeoPlatform.gov</span>.
 
 **Getting geospatial metadata into Data.gov**
 
 Federal agencies that manage geospatial data should make their geospatial metadata holdings available to Data.gov using a consolidated geospatial harvest source, preferably one single CSW endpoint for the entire agency. For example, all offices and bureaus within the Department of Interior would make their metadata available through one consolidated CSW covering all of the Department of the Interior. (Non-geospatial metadata should be provided separately. See section 3 below.)
 
-While a CSW endpoint and traditional geospatial metadata standards are needed for GeoPlatform.gov and Data.gov to consume the data, the Project Open Data (M-13-13) policy still requires ¬ metadata for the agency‚Äôs geospatial datasets to be provided within the Enterprise Data Inventory data.json file submitted to OMB with the Project Open Data metadata.
+While a CSW endpoint and traditional geospatial metadata standards are needed for GeoPlatform.gov and Data.gov to consume the data, the Project Open Data (M-13-13) policy still requires  metadata for the agency‚Äôs geospatial datasets to be provided within the Enterprise Data Inventory data.json file submitted to OMB with the Project Open Data metadata.
 
 In order to facilitate these requirements, the FGDC and Data.gov have developed a [mapping of elements](https://project-open-data.cio.gov/v1.1/metadata-resources/#crosswalks-for-geospatial-metadata) between the Project Open Data metadata schema v1.1 and the geospatial metadata standards including FGDC CSDGM, ISO 19115:2003, and ISO 19115-1:2014. This crosswalk enables federal agencies with geospatial data to more efficiently meet both metadata requirements.
 
 For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the following harvest sources must be provided:
 
   1. ** **Open Data Policy Requirements
-  
-**** 
-  
+
+****
+
     <span style="font-weight: 400">All CFO-Act agencies must provide an Enterprise Data Inventory in accordance with the Project Open Data metadata schema (see </span>_<span style="font-weight: 400">Federal Data with Project Open Data above</span>_<span style="font-weight: 400">). This includes geospatial </span>**_and_** <span style="font-weight: 400">non-spatial data</span>.
-  
+
     **
-  
+
     Required: <span style="font-weight: 400">Enterprise Data Inventory provided to OMB MAX</span>**
 
 <ol start="2">
@@ -159,7 +158,7 @@ For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the f
 <span style="font-weight: 400">Data.gov incorporates data sources from state, local, and tribal governments. Non-federal sources are not covered by the Federal Open Data Policy, but can be included in the Data.gov catalog voluntarily. Depending on your local government open data platform, you may already have a harvest source that is Data.gov-ready, or it could take a little more work. Either way, the Data.gov team is available to answer questions about these requirements. For non-federal data to be connected to Data.gov, the following items are required</span>:
 
   1.  **A Data Harvest Source**
-  
+
     <span style="font-weight: 400">Some open data catalog platforms already have a Data.gov harvest source built in (see these examples from </span>[<span style="font-weight: 400">Socrata</span>](https://nycopendata.socrata.com/data.json) <span style="font-weight: 400">and </span>[<span style="font-weight: 400">ArcGIS Open Data</span>](http://opendata.dc.gov/data.json)<span style="font-weight: 400">), but it is possible to set up a harvest source with any data management system (see </span>[<span style="font-weight: 400">this CKAN example</span>](https://www.opendataphilly.org/data.json)<span style="font-weight: 400">). The metadata required from non-federal sources does not include the </span>[<span style="font-weight: 400">USG noted fields</span>](https://project-open-data.cio.gov/v1.1/schema/#USG-note) <span style="font-weight: 400">and additional fields can be left out on a case-by-case basis. To learn more about metadata best practices and validators, check out the </span>[<span style="font-weight: 400">Resources and Tools</span>](https://www.digitalgov.gov/resources/how-to-get-your-open-data-on-data-gov/#resources-tools) <span style="font-weight: 400">below.<br /> </span>**Required:** <span style="font-weight: 400">A Harvest Source at: </span>_<span style="font-weight: 400">https://________.gov/data.json, e.g. </span>__<span style="font-weight: 400">https://data.brla.gov/data.json</span>_
 
 <ol start="2">
@@ -168,7 +167,7 @@ For agencies that provide geospatial data to GeoPlatform.gov and Data.gov, the f
   </li>
 </ol>
 
-<span style="font-weight: 400">Once you have coordinated with Data.gov on these two items, automated nightly updates to Data.gov can be set up very quickly. Non-federal organizations can provide the necessary information through¬ </span>[the form](http://www.data.gov/local/add).
+<span style="font-weight: 400">Once you have coordinated with Data.gov on these two items, automated nightly updates to Data.gov can be set up very quickly. Non-federal organizations can provide the necessary information through </span>[the form](http://www.data.gov/local/add).
 
 <h2 id="step-2" style="padding-top: 50px">
   Step 2. Coordinate with Data.gov
@@ -186,7 +185,7 @@ T<span style="font-weight: 400">he Data.gov team will create a new </span>[<span
 
 <span style="font-weight: 400">For federal agencies with only a data.json and for non-federal entities without geospatial harvest sources, contacting the Data.gov team to create the new harvest source is recommended.</span>
 
-<span style="font-weight: 400">If you are geospatial data publisher and there is a need for you to directly create a harvest source instead of a consolidated CSW endpoint ¬ as indicated above, please follow the steps outlined in the section below</span>:
+<span style="font-weight: 400">If you are geospatial data publisher and there is a need for you to directly create a harvest source instead of a consolidated CSW endpoint  as indicated above, please follow the steps outlined in the section below</span>:
 
 **Creating a Metadata Publishing Account and Harvesting your Metadata to catalog.data.gov**
 
@@ -194,11 +193,11 @@ T<span style="font-weight: 400">he Data.gov team will create a new </span>[<span
 
 <span style="font-weight: 400">Go to catalog.data.gov and click on ‚ÄúLogin‚Äù at the bottom of the page. You will be sent to OMB MAX. </span>[<span style="font-weight: 400">Log in to OMB MAX</span>](https://catalog.data.gov/user/login) <span style="font-weight: 400">using your OMB MAX credentials. Two-factor authentication (2FA) is now required for Data.gov access, so enable 2FA through the instructions on the OMB MAX log in page. You can add a device by clicking on ‚ÄúManage SMS 2-Factor Devices‚Äù under your profile settings. This is not necessary if you use your PIV/CAC card to log in to MAX; it is already considered 2FA. </span>
 
-<span style="font-weight: 400">After you have logged in to OMB MAX, <a href="mailto:datagov@gsa.gov">email us</a></span><span style="font-weight: 400">¬ to let us know that you have completed the initial login. In the email provide the organization name and access permission (Admin or Editor) that is required. We will then associate requested permissions to your account. </span>
+<span style="font-weight: 400">After you have logged in to OMB MAX, <a href="mailto:datagov@gsa.gov">email us</a></span><span style="font-weight: 400"> to let us know that you have completed the initial login. In the email provide the organization name and access permission (Admin or Editor) that is required. We will then associate requested permissions to your account. </span>
 
-_**(If you manage a non-federal geospatial harvest source, follow the [instructions](https://cms.geoplatform.gov/sites/default/files/document_library/Non-Federal_Geospatial_OMB_MAX_Registration_and_Catalog_Data_gov_Account.pdf)¬ (2.5 MB PDF) from GeoPlatform.gov to obtain access to OMB MAX.)**_
+_**(If you manage a non-federal geospatial harvest source, follow the [instructions](https://cms.geoplatform.gov/sites/default/files/document_library/Non-Federal_Geospatial_OMB_MAX_Registration_and_Catalog_Data_gov_Account.pdf) (2.5 MB PDF) from GeoPlatform.gov to obtain access to OMB MAX.)**_
 
-<span style="font-weight: 400">Once your Data.gov account is created, and your permissions are in place, you can log in and follow the steps below to create your harvest source:¬ </span>
+<span style="font-weight: 400">Once your Data.gov account is created, and your permissions are in place, you can log in and follow the steps below to create your harvest source: </span>
 
 <li style="font-weight: 400">
   <span style="font-weight: 400">Navigate to </span><a href="http://catalog.data.gov/"><span style="font-weight: 400">http://catalog.data.gov</span></a>
@@ -245,7 +244,7 @@ _**(If you manage a non-federal geospatial harvest source, follow the [instructi
       <span style="font-weight: 400">ArcGIS Rest API</span>
     </li>
   </ul>
-  
+
   <ul>
     <li style="font-weight: 400">
       <span style="font-weight: 400">Autodetect</span>
@@ -269,7 +268,7 @@ _**(If you manage a non-federal geospatial harvest source, follow the [instructi
       <span style="font-weight: 400">FGDC Extensions for Remote Sensing (FGDC-STD-012-2002)</span>
     </li>
   </ul>
-  
+
   <ol>
     <li style="font-weight: 400">
       <span style="font-weight: 400">URL ‚Äì The harvest source URL that contains your data</span>
@@ -336,7 +335,7 @@ For harvest sources that are directly setup by data publishers, the job report w
   <span style="font-weight: 400"><a href="http://www.geoplatform.gov/sites/default/files/document_library/catalog_data_gov_publishing_tutorial.pdf">Catalog.Data.gov CKAN Publisher Tutorial to facilitate GeoPlatform Geospatial Data Discovery</a></span>
 </li>
 <li style="font-weight: 400">
-  Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov ¬ (<i><span style="font-weight: 400">add link when documented is updated at https://cms.geoplatform.gov/sites/default/files/document_library</span></i><span style="font-weight: 400">)</span>
+  Metadata Recommendations Supporting Data Discovery and Use in Data.gov and GeoPlatform.gov  (<i><span style="font-weight: 400">add link when documented is updated at https://cms.geoplatform.gov/sites/default/files/document_library</span></i><span style="font-weight: 400">)</span>
 </li>
 
 ### Testing Tools
@@ -380,7 +379,7 @@ For harvest sources that are directly setup by data publishers, the job report w
 
 **What steps are required to have my government entity federated onto Data.gov?**
 
-<span style="font-weight: 400">To have your government‚Äôs open data federated onto Data.gov, you ¬ must: 1. Organize your open data for the Data.gov Pipeline by complying with format and standardized metadata requirements, and 2. Coordinate with Data.gov to establish a harvest point for automatic daily updates</span>.
+<span style="font-weight: 400">To have your government‚Äôs open data federated onto Data.gov, you  must: 1. Organize your open data for the Data.gov Pipeline by complying with format and standardized metadata requirements, and 2. Coordinate with Data.gov to establish a harvest point for automatic daily updates</span>.
 
 **Does my government entity need to have an existing open data catalog to be added to Data.gov?**
 
@@ -408,7 +407,7 @@ Check out the [Project Open Data Dashboard](http://labs.data.gov/dashboard/offic
 
 **What is Open Data listserv?**
 
-The Open Data listserv is a listserv with over 800 .gov <span style="font-weight: 400">email addresses of people working on open data issues in the federal government. It is a simple way to reach the broad audience of people in federal government working on open data. Anyone with a .gov email can</span> [email the listserv](mailto:listserv@listserv.gsa.gov)¬ with ‚Äúsubscribe open-data‚Äù in the body of the message.
+The Open Data listserv is a listserv with over 800 .gov <span style="font-weight: 400">email addresses of people working on open data issues in the federal government. It is a simple way to reach the broad audience of people in federal government working on open data. Anyone with a .gov email can</span> [email the listserv](mailto:listserv@listserv.gsa.gov) with ‚Äúsubscribe open-data‚Äù in the body of the message.
 
 **How do you find your Data.gov federal agency point of contact?**
 
@@ -456,7 +455,7 @@ Yes, but using the new harvesting model, the preferred harvest source is a conso
 
 **What if I need help getting my geospatial metadata into Data.gov and GeoPlatform.gov?**
 
-The FGDC has assistance available if you¬ [email USGS.gov](mailto:geodata@usgs.gov). They will also coordinate with the Data.gov team to help address your issue if needed. If you have specific metadata questions,¬ [contact FGDC via email](mailto:fgdc@fgdc.gov).
+The FGDC has assistance available if you [email USGS.gov](mailto:geodata@usgs.gov). They will also coordinate with the Data.gov team to help address your issue if needed. If you have specific metadata questions, [contact FGDC via email](mailto:fgdc@fgdc.gov).
 
 <h3 id="faq-non-federal" style="padding-top: 50px">
   Non-federal Data

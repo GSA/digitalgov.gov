@@ -1,5 +1,6 @@
 ---
 permalink: /resources/improving-the-accessibility-of-social-media-in-government/
+
 title: Improving the Accessibility of Social Media in Government
 layout: docs
 ---
@@ -151,7 +152,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
 
   * Depending on your social media strategy, you may want to use other platforms such as [LinkedIn](https://www.linkedin.com/), [Pinterest](http://www.pinterest.com/) or [Instagram](http://instagram.com/) to connect with constituents.
   * LinkedIn focuses on professional contacts and also allows users to collaborate and share articles and ideas through its group message boards. Your LinkedIn profile should have a clear image to accompany your name so users can distinguish you from other potential contacts with a similar name or brand. 
-      * LinkedIn Online Support –� <https://help.linkedin.com/app/home>
+      * LinkedIn Online Support – <https://help.linkedin.com/app/home>
   * Pinterest is a visual discovery tool where users created online “bulletin boards” of images, ideas and videos. All Pinterest content is “pinned” to boards from outside sources. Include a description of the item you are pinning and alert users if it is a picture, video, audio file or GIF (e.g. [PIC], [VIDEO], [AUDIO], [GIF]). If you are pinning content that you did not create or is not accessible, make sure your audience is aware of these limitations by including a brief note in the description of the pin.
   * Instagram is a mobile photo- and video-sharing service where users take images or videos, apply digital filters and have the ability to share them on the application itself and on a wide variety of social networking services. Although Instagram does not allow images and videos to have alternative text, users should provide a detailed caption explaining the image. Use Camel Case for multiple words within a hashtag.
   * As with Vine videos, Instagram videos should have captions and a transcript. For more information on video accessibility, read the Tips for Making YouTube Videos Accessible and Tips for Making Vine Posts Accessible.

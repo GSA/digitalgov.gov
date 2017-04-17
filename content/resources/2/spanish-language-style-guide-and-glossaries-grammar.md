@@ -1,5 +1,6 @@
 ---
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/
+
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
 layout: docs
 ---
@@ -101,7 +102,7 @@ While periods are used in abbreviations of complex names (two or more words) to 
 
 Acronyms don&#8217;t add an &#8220;s&#8221; to denote plural when preceded by articles or words that denote plural, i.e. &#8220;los CD,&#8221; &#8220;muchas ONG.&#8221; However, in cases where there are no modifiers that denote plural, it may be acceptable to pluralize acronyms as in English: CDs, DVDs, PCs, ONGs. For example: &#8220;Reproducir DVDs en el equipo.&#8221;
 
-## Em Dash� � (—)
+## Em Dash  (—)
 
 It is mainly used to indicate incidental sentences and speech openings in dialogues.
 
@@ -133,7 +134,7 @@ Me temo —comentó Juan— que da igual
 
 ## Spanish Language Articles {#articles}
 
-### Definite Articles � (el, la, los, las)
+### Definite Articles  (el, la, los, las)
 
 Exclude articles as first words in certain titles when referring to general items or concepts, as different from individualized ones. The purpose of definite articles is to indicate specifically identifiable things.
 
@@ -143,7 +144,7 @@ Exclude articles as first words in certain titles when referring to general item
   * La enfermedad del General San Martín
   * El descubrimiento del átomo
 
-### Indefinite Articles � (un, una, unos, unas)
+### Indefinite Articles  (un, una, unos, unas)
 
 Avoid unnecessary translations of the indefinite article:
 
@@ -206,7 +207,7 @@ Don&#8217;t capitalize unless the text in parentheses is an acronym. Examples:
   * Impuestos/Tributación>
   * Desvío de las arterias coronarias/Angioplastia
 
-<span style="line-height: 1.5em">� </span>
+<span style="line-height: 1.5em"> </span>
 
 ## Dates & Numbers {#dates}
 
@@ -526,7 +527,7 @@ Each character and its code is listed below:
   
   <tr>
     <td align="center">
-      � ª
+       ª
     </td>
     
     <td>
@@ -540,7 +541,7 @@ Each character and its code is listed below:
   
   <tr>
     <td align="center">
-      � º
+       º
     </td>
     
     <td>
@@ -638,7 +639,7 @@ Each character and its code is listed below:
 
 ### Sources
 
-  * [El Diccionario de la Real Academia Española](http://www.rae.es/).� _National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)_
+  * [El Diccionario de la Real Academia Española](http://www.rae.es/). _National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)_
   * [Apuntes](http://www.apuntesonline.org/archivesmenu.html)
   * [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](http://www.anle.us/)
   * [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999

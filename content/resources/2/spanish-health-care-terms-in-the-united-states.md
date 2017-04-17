@@ -1,5 +1,6 @@
 ---
 permalink: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
+
 title: Spanish Health Care Terms in the United States
 layout: docs
 ---
@@ -1203,7 +1204,7 @@ layout: docs
   
   <div class="one-half">
     <p lang="es" xml:lang="es">
-      &#8220;HMO con Medicare&#8221;o &#8220;HMO con contrato de Medicare.&#8221; Source:Â <a style="color: #800080" href="http://www.medicarehmo.com/">Medicare HMO Website</a>
+      &#8220;HMO con Medicare&#8221;o &#8220;HMO con contrato de Medicare.&#8221; Source: <a style="color: #800080" href="http://www.medicarehmo.com/">Medicare HMO Website</a>
     </p>
   </div>
 </blockquote>
@@ -1985,7 +1986,7 @@ layout: docs
   
   <div class="one-half">
     <p lang="es" xml:lang="es">
-      Director General de Sanidad (<strong>NUNCA</strong>Â â€œCirujano Generalâ€)
+      Director General de Sanidad (<strong>NUNCA</strong> â€œCirujano Generalâ€)
     </p>
   </div>
 </blockquote>
@@ -2092,4 +2093,4 @@ layout: docs
   </div>
 </blockquote>
 
-_Source: Adapted fromÂ [ApuntesOnline](http://www.apuntesonline.org/)_
+_Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_
