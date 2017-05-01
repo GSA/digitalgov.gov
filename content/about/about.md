@@ -1,9 +1,9 @@
 ---
 permalink: /about/
+
 title: About
 layout: docs
 ---
-
 
 Welcome to DigitalGov, let us tell you a little bit about what we're working on...
 

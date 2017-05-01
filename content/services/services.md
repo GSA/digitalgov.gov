@@ -1,5 +1,6 @@
 ---
 permalink: /services/
+
 title: Services
 layout: docs
 ---
@@ -38,7 +39,7 @@ The [Electronic Capital Planning and Investment Control (eCPIC)](https://www.dig
 
 ## Mobile
 
-[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs). **Free!** 
+[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs). **Free!**
 
 [Get Started](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry"){.button}
 

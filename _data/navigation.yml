@@ -13,18 +13,15 @@ primary:
   - text: Communities
     href: /communities/
   - text: Resources
-    links:
-      - text: Demo link A
-        href: /resources/
-      - text: Demo link B
-        href: /resources/
-      - text: Demo link C
-        href: /resources/
-  - text: Training & Events
+    href: /resources/
+  - text: Events
+    href: /resources/
   - text: Services
+    href: /services/
   - text: Style Guide
     href: /style-guide/
   - text: About
+    href: /about/
 
 secondary: []
 
