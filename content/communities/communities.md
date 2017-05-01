@@ -112,4 +112,4 @@ In order to maintain an official Community, facilitators must provide the follow
 
 Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies, and subject to the Freedom of Information Act and other related laws and standards.
 
-For more information on Communities, or to propose a new inter-agency network, please [email Justin Herman](mailto:justin.herman@gsa.gov).
+For more information on Communities, or to propose a new inter-agency network, please email [Jacqueline Snee](mailto:jacqueline.snee@gsa.gov).
