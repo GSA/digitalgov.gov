@@ -1,6 +1,6 @@
 # Whether to show the "Return to top" link; can also be
 # configured as an object with 'text' and 'href' properties.
-top: true
+top: false
 
 # Which links to show at the top of the footer.
 # This can key into _data/navigation.yml or a list of link objects

@@ -26,13 +26,18 @@ primary:
 secondary: []
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link one
-    href: /one/
-  - text: Demo link two
-    href: /two/
-
+  - text: Communities
+    href: /communities/
+  - text: Resources
+    href: /resources/
+  - text: Events
+    href: /resources/
+  - text: Services
+    href: /services/
+  - text: Style Guide
+    href: /style-guide/
+  - text: About
+    href: /about/
 docs:
   - text: Documentation
     href: /docs/
