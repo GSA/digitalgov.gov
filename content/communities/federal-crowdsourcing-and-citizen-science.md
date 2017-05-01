@@ -17,7 +17,7 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) wor
 
 ## Learn More
 
-The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say ‚Äú**subscribe FCPCCS**.‚Äù¬ Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
+The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say ‚Äú**subscribe FCPCCS**.‚Äù Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
 <div style="text-align: center">
   <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
@@ -30,7 +30,7 @@ For more information or for meeting location and call-in details, please contact
 </p>
 
 <p style="padding-left: 30px">
-  <a href="mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey ¬ (USGS)
+  <a href="mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 </p>
 
 Our community meets on the last Thursday of every month from 2:30 &#8211; 4:30 pm, hosted by member agencies.
@@ -49,7 +49,7 @@ We focus on crowdsourcing and citizen science, and their synergies with other pa
 
 The CCS community is committed to sharing skills, resources, and experience to support the expansion and improvement of public participation projects across the federal government. Our accomplishments and past events include:
 
-  * In collaboration with the White House Office of Science and Technology Policy (OSTP), we launched a new website ‚Äì the [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The Toolkit will help federal practitioners find resources to pitch, develop, implement, and improve citizen science and crowdsourcing projects.¬ This [archived webinar](https://www.youtube.com/watch?v=e0CdGMvNqW0 "Watch the C C S Toolkit Public Webinar") provides an overview of the toolkit‚Äôs intended audience, purpose, content, and functionalities.
+  * In collaboration with the White House Office of Science and Technology Policy (OSTP), we launched a new website ‚Äì the [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The Toolkit will help federal practitioners find resources to pitch, develop, implement, and improve citizen science and crowdsourcing projects. This [archived webinar](https://www.youtube.com/watch?v=e0CdGMvNqW0 "Watch the C C S Toolkit Public Webinar") provides an overview of the toolkit‚Äôs intended audience, purpose, content, and functionalities.
 
 [<img class="aligncenter wp-image-312782 size-full" src="https://www.digitalgov.gov/files/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" width="600" height="147" />](https://crowdsourcing-toolkit.sites.usa.gov/)
 
@@ -59,9 +59,9 @@ The _Open Government National Action Plan_ committed the Federal government to ‚
   * On July 10 2015, in collaboration with the US Group on Earth Observations, the CCS held a Forum on Citizen Science and Earth Observations. Citizen science and crowdsourcing approaches were included in the first _National Plan for Civil Earth Observations_ and Earth Observations Assessment, but have yet to realize their full potential as Earth observations assets of the Federal government. This forum explored the Federal government‚Äôs activities in relevant citizen science, and ways to augment and enhance the larger Federal Earth Observation portfolio.
   * On July 9-10 2015, CCS in coordination with the Woodrow Wilson International Center for Scholars (The Wilson Center) and the U.S. Environmental Protection Agency (EPA) held a workshop to standardize metadata tagging systems for citizen science and crowdsourcing inventories used by organizations including the White House office of Science and Technology Policy (OSTP), The Wilson Center, Scistarter, Citsci.org, and Citizen Science Central. Shared standards will support data sharing and collaboration between these organizations.
   * In collaboration with the CCS, the Commons Lab of the Wilson Center is conducting an inventory of federally funded citizen science and crowdsourcing projects. Inventory data will be displayed to the public on a searchable map.
-  * Accelerators and Barriers to Federal Crowdsourcing and Citizen Science:¬ Through a literature review and interviews across four agencies, this study seeks to understand the accelerators and internal and external roadblocks to federal use of crowdsourcing and citizen science. [Read the preliminary summary](http://wilsoncommonslab.org/2014/09/07/an-exploratory-study-on-barriers).
+  * Accelerators and Barriers to Federal Crowdsourcing and Citizen Science: Through a literature review and interviews across four agencies, this study seeks to understand the accelerators and internal and external roadblocks to federal use of crowdsourcing and citizen science. [Read the preliminary summary](http://wilsoncommonslab.org/2014/09/07/an-exploratory-study-on-barriers).
   * New Visions in Citizen Science report, November 2013: This Commons Lab report showcases seventeen case studies that offer a mosaic view of federally-sponsored citizen science and open innovation projects, from in-the-field data collection to online games for collective problem-solving. It offers a sampling of different models that support public contribution, potential challenges, and positive impacts that projects can have on scientific literacy, research, management, and public policy. [Read the PDF report](http://www.wilsoncenter.org/sites/default/files/NewVisionsInCitizenScience.pdf).
-  * New Visions for Citizen Science workshop, November 2013:¬ Co-hosted by the Commons Lab and the FCPCCS, this workshop showcased federally-sponsored citizen science and open innovation projects, from in-the-field data collection to online crowdsourcing communities. [View the video and materials](http://www.wilsoncenter.org/event/new-visions-for-citizen-science).
+  * New Visions for Citizen Science workshop, November 2013: Co-hosted by the Commons Lab and the FCPCCS, this workshop showcased federally-sponsored citizen science and open innovation projects, from in-the-field data collection to online crowdsourcing communities. [View the video and materials](http://www.wilsoncenter.org/event/new-visions-for-citizen-science).
 
 The General Services Administration (GSA) partnered with the Wilson Center to launch [citizenscience.gov](https://www.citizenscience.gov/), a new central hub for citizen science and crowdsourcing initiatives in the public sector. The new site provides information, resources, and tools for government personnel and others actively engaged in or looking to participate in citizen science and crowdsourcing projects. In addition to information about CCS community activities, citizenscience.gov features a searchable catalog of federally supported citizen science projects and access to the toolkit to assist with designing and maintaining projects.The catalog was developed in response to a September 2015 [memorandum](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from OSTP.
 
@@ -72,7 +72,7 @@ The CCS community was founded in 2012 by Lea Shanley (co-chair Emeritus). Five p
 **CCS Co-Chairs (as of 4/13/2016):**
 
 <p style="padding-left: 30px">
-  <a href="mailto:Benforado.Jay@epa.gov">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)<br /> <a href="mailto:sophialiu@usgs.gov">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey ¬ (USGS)
+  <a href="mailto:Benforado.Jay@epa.gov">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)<br /> <a href="mailto:sophialiu@usgs.gov">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 </p>
 
 **CCS Steering Committee (as of 4/13/2016):**

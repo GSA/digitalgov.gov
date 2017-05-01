@@ -4,7 +4,7 @@ title: Eventbrite Federal Terms of Service
 layout: docs
 ---
 
-[Eventbrite](http://www.eventbrite.com)� is a self-service event tool to help you organize better events and reach more people online.
+[Eventbrite](http://www.eventbrite.com) is a self-service event tool to help you organize better events and reach more people online.
 
 <a class="button" style="color: #000000" href="https://www.eventbrite.com/l/federal-government/">Eventbrite Federal Terms of Service</a>
 

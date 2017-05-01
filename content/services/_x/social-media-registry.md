@@ -66,4 +66,4 @@ More than 80 apps currently have amended Terms of Service for official governmen
 
 ## Feedback
 
-If you have questions, comments or ideas on how to use or improve the U.S. DigitalÂ Registry, please contact us [via email](mailto:socialmediaregistry@gsa.gov).
+If you have questions, comments or ideas on how to use or improve the U.S. Digital Registry, please contact us [via email](mailto:socialmediaregistry@gsa.gov).

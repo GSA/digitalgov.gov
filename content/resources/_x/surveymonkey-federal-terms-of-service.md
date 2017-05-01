@@ -4,7 +4,7 @@ title: SurveyMonkey Federal Terms of Service
 layout: docs
 ---
 
-[SurveyMonkey](http://www.surveymonkey.com) is a online survey development cloud-based toolÂ that provides free, customizable surveys as well as Â data analysis.<sup id="cite_ref-7" class="reference"></sup>
+[SurveyMonkey](http://www.surveymonkey.com) is a online survey development cloud-based tool that provides free, customizable surveys as well as  data analysis.<sup id="cite_ref-7" class="reference"></sup>
 
 <a class="button" style="color: #000000" href="http://www.surveymonkey.com/mp/policy/terms-of-use-government/">View SurveyMonkey Federal Terms of Service</a>
 

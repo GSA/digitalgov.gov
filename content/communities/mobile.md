@@ -214,7 +214,7 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
 
 ## **Upcoming Events**
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;Â thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;mobile-events&#8217; message=&#8217;There are no upcoming MobileGov events at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;mobile-events&#8217; message=&#8217;There are no upcoming MobileGov events at this time.&#8217;]
 
 &nbsp;
 

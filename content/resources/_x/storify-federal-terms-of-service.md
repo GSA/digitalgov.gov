@@ -4,7 +4,7 @@ title: Storify Federal Terms of Service
 layout: docs
 ---
 
-[Storify](https://storify.com/) helps make sense of what people post on social media. Storify is a socialÂ network service that lets the user create stories or timelines using social media such as Twitter, Facebook and Instagram. UsersÂ curate the most important voices and turn them into stories.
+[Storify](https://storify.com/) helps make sense of what people post on social media. Storify is a social network service that lets the user create stories or timelines using social media such as Twitter, Facebook and Instagram. Users curate the most important voices and turn them into stories.
 
 <a class="button" style="color: #000000" href="https://storify.com/tos/amendment">View Stoirfy Federal Terms of Service</a>
 

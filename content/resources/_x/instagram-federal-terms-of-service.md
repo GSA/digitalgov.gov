@@ -4,7 +4,7 @@ title: Instagram Federal Terms of Service
 layout: docs
 ---
 
-[Instagram](https://instagram.com)Â is an online mobile photo-sharing, video-sharing and social networking service that enables its users to take pictures and videos, and share them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr and Flickr.
+[Instagram](https://instagram.com) is an online mobile photo-sharing, video-sharing and social networking service that enables its users to take pictures and videos, and share them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr and Flickr.
 
 <a class="button" style="color: #000000" href="https://help.instagram.com/478745558852511">View Instagram Federal Terms of Service</a>
 

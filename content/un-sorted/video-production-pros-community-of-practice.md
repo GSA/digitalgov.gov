@@ -16,10 +16,10 @@ We launched in 2016 to help people connect and share great ideas. Video Producti
 
 ## Join
 
-If you are a U.S. government employee with a **.gov** or **.mil** email address, click the â€œEmail us to Joinâ€ button belowÂ to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
+If you are a U.S. government employee with a **.gov** or **.mil** email address, click the â€œEmail us to Joinâ€ button below to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a>Â or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -144,7 +144,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 
 ## **Upcoming Events**
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;Â thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;audio-video&#8217; message=&#8217;There are no upcoming Audio/Video events at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;audio-video&#8217; message=&#8217;There are no upcoming Audio/Video events at this time.&#8217;]
 
 &nbsp;
 

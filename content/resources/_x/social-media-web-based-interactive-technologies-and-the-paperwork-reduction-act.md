@@ -4,9 +4,9 @@ title: Social Media, Web-Based Interactive Technologies, and the Paperwork Reduc
 layout: docs
 ---
 
-InspiredÂ by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA)Â applies to Federal agency use of social media and web-based interactive technologies.
+Inspired by the goal of promoting flexible and open interactions between federal agencies and the public this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to Federal agency use of social media and web-based interactive technologies.
 
-Under established principles, the PRA does not apply to many uses of such media and technologies.Â To engage the public, Federal agencies are expanding their use of social media and webbased interactive technologies. For example, agencies are increasingly using web-based technologies, such as blogs, wikis, and social networks, as a means of â€œpublishingâ€ solicitations for public comment and for conducting virtual public meetings. Â This memo explains thatÂ certain uses of social media and web-based interactive technologies will be **treated as equivalent** to activities that are currently excluded from the PRA.
+Under established principles, the PRA does not apply to many uses of such media and technologies. To engage the public, Federal agencies are expanding their use of social media and webbased interactive technologies. For example, agencies are increasingly using web-based technologies, such as blogs, wikis, and social networks, as a means of â€œpublishingâ€ solicitations for public comment and for conducting virtual public meetings.  This memo explains that certain uses of social media and web-based interactive technologies will be **treated as equivalent** to activities that are currently excluded from the PRA.
 
 <a class="button" style="color: #000000" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf">View Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act</a>
 

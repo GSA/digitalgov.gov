@@ -8,7 +8,7 @@ Short URLs have become an essential part of social media communications. They ma
 
 ## Go.USA.gov
 
-[Go.USA.gov](http://go.usa.gov/)Â is a URL shortener that lets anyone with a government e-mail address create short, trustworthy .gov URLs. Go.USA.gov only shortens government URLsâ€”that is: .mil, .gov, .fed.us, .si.edu, and .state.xx.us URLs. You must have a verifiable U.S. federal, state, or local government e-mail address to register for a Go.USA.gov account. VisitÂ [Go.USA.gov](http://go.usa.gov/)Â to sign up now. Using Go.USA.gov is easy: Just sign in, copy and paste the government URL and click shorten. Over 12,000 government employees already useÂ <a href="http://go.usa.gov/" target="_blank">Go.USA.gov</a>Â and have shortened more than 340,000 URLs.
+[Go.USA.gov](http://go.usa.gov/) is a URL shortener that lets anyone with a government e-mail address create short, trustworthy .gov URLs. Go.USA.gov only shortens government URLsâ€”that is: .mil, .gov, .fed.us, .si.edu, and .state.xx.us URLs. You must have a verifiable U.S. federal, state, or local government e-mail address to register for a Go.USA.gov account. Visit [Go.USA.gov](http://go.usa.gov/) to sign up now. Using Go.USA.gov is easy: Just sign in, copy and paste the government URL and click shorten. Over 12,000 government employees already use <a href="http://go.usa.gov/" target="_blank">Go.USA.gov</a> and have shortened more than 340,000 URLs.
 
 ## 
 
@@ -16,6 +16,6 @@ Short URLs have become an essential part of social media communications. They ma
 
   * The public can click on Go.USA.gov URLs knowing they will lead to official U.S. government information.
   * Go.USA.gov tracks the number of clicks each shortened URL receives, allowing users to measure the impact of their outreach.
-  * Go.USA.gov is open source and was developed in Drupal.Â If you would like to contribute to future enhancements, pleaseÂ [contact us](mailto:go.usa.gov@gsa.gov).
+  * Go.USA.gov is open source and was developed in Drupal. If you would like to contribute to future enhancements, please [contact us](mailto:go.usa.gov@gsa.gov).
 
-If you have questions about USA.gov short URLs, pleaseÂ [send us an eâ€“mail](mailto:go.usa.gov@gsa.gov).
+If you have questions about USA.gov short URLs, please [send us an eâ€“mail](mailto:go.usa.gov@gsa.gov).

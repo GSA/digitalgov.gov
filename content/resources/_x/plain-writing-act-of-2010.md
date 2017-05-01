@@ -4,7 +4,7 @@ title: Plain Writing Act of 2010
 layout: docs
 ---
 
-[The Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)Â (PDF, 153 kb, 3 pages, September 2010) was enacted to enhance citizen access to Government information and services by establishingÂ that Government documents issued to the public must be written clearly.
+[The Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 kb, 3 pages, September 2010) was enacted to enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly.
 
 <a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf">View Plain Writing Act of 2010</a>
 

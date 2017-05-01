@@ -36,7 +36,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
 
 <hr style="color: white;border-style: none" />
 
-## **Tools &� Resources**
+## **Tools & Resources**
 
 <div class="one-third first">
   <div id="featured-page-20" class="widget widget-2 featuredpage">
@@ -266,7 +266,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
 
 ## **Upcoming Events**
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;� thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;web-content-managers&#8217; message=&#8217;There are no upcoming Web Content events at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;web-content-managers&#8217; message=&#8217;There are no upcoming Web Content events at this time.&#8217;]
 
 <hr style="border: none;height: 2em" />
 

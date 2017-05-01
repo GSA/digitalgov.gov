@@ -6,12 +6,12 @@ layout: docs
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.
 
-And itâ€™s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)Â (PDF, 125 KB) mandates plain language for certain audiences and tasks.
+And itâ€™s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
 
 ## **Join**
 
 <div style="text-align: center">
-  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a>Â orÂ <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
 ## Getting Started
@@ -120,7 +120,7 @@ And itâ€™s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
 
 Meetings are held the second Wednesday of the month (except for August), from 2-3 in the afternoon. Meetings are held at government agencies and are open to all federal employees. Call-in information is available to those who [register](http://www.plainlanguage.gov/news/currentEvents.cfm?topic=current).
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;Â thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;plain-language&#8217; message=&#8217;There are no upcoming Plain Language events on DigitalGov University at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;plain-language&#8217; message=&#8217;There are no upcoming Plain Language events on DigitalGov University at this time.&#8217;]
 
 <hr style="border: none;height: 2em" />
 
@@ -132,4 +132,4 @@ Meetings are held the second Wednesday of the month (except for August), from 2-
 
 The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
 
-PL-COP is administered by theÂ [Plain Language Action and Information Network (PLAIN)](http://www.plainlanguage.gov/).
+PL-COP is administered by the [Plain Language Action and Information Network (PLAIN)](http://www.plainlanguage.gov/).

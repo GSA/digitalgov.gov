@@ -4,7 +4,7 @@ title: Implications of Recent Web Technologies for NARA Web Guidance
 layout: docs
 ---
 
-This document explores some of Â the [emerging web applications and their impact on records management](http://www.archives.gov/records-mgmt/initiatives/web-tech.html).
+This document explores some of  the [emerging web applications and their impact on records management](http://www.archives.gov/records-mgmt/initiatives/web-tech.html).
 
 In its early days, the web was seen largely as a place to post static documents that were Internet-accessible. More recently, it is seen as a tool for facilitating collaboration across geographic and institutional boundaries. This document examines four applications that create content likely to exist only on the web.
 

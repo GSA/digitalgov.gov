@@ -11,14 +11,14 @@ layout: docs
 </h1>
 
 <p style="text-align: center">
-  Thousands of government websites are improving their visitors&#8217; experience with <strong>DigitalGov Search</strong>. Are yourÂ visitorsÂ happy with your results?
+  Thousands of government websites are improving their visitors&#8217; experience with <strong>DigitalGov Search</strong>. Are your visitors happy with your results?
 </p>
 
 [two_third]
 
 <blockquote style="border: 1px solid #eee;background: white">
   <p style="color: #006873;text-align: left">
-    <span style="color: #ff6600"><strong>Sign up now for moreÂ information</strong></span>
+    <span style="color: #ff6600"><strong>Sign up now for more information</strong></span>
   </p>
   
   <p>

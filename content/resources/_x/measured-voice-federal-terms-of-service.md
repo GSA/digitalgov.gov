@@ -4,7 +4,7 @@ title: Measured Voice Federal Terms of Service
 layout: docs
 ---
 
-[Measured Voice](http://measuredvoice.com/)Â helps teams measure and manage social media outreach on Facebook, Twitter, Google+, LinkedIn, Flickr and Tumblr.
+[Measured Voice](http://measuredvoice.com/) helps teams measure and manage social media outreach on Facebook, Twitter, Google+, LinkedIn, Flickr and Tumblr.
 
 <a class="button" style="color: #000000" href="http://measuredvoice.com/terms/">View Measured Voice Federal Terms of Service</a><a><br /> </a>
 

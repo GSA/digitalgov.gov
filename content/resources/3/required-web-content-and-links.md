@@ -64,17 +64,17 @@ layout: docs
     </td>
     
     <td valign="top" width="129">
-      <a href="https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/">OMB Guidance for Implementing the Privacy Provisions of the</a>Â E-Government Act of 2002 (See Attachment A, Section III)
+      <a href="https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/">OMB Guidance for Implementing the Privacy Provisions of the</a> E-Government Act of 2002 (See Attachment A, Section III)
     </td>
   </tr>
   
   <tr>
     <td valign="top" width="141">
-      <strong>FOIAâ€”</strong>AllÂ federal public websites* must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
+      <strong>FOIAâ€”</strong>All federal public websites* must comply with existing laws and directives that relate to the Freedom of Information Act (FOIA). The principal requirement is that websites must have a page that includes certain content as required by the FOIA. This page should include information about how the public can request information under the Act. Organizations should review the FOIA and implementation guidance to ensure that their public websites meet the full range of requirements.
     </td>
     
     <td valign="top" width="95">
-      &#8220;FOIA&#8221;Â orÂ &#8220;Freedom of Information Act&#8221;
+      &#8220;FOIA&#8221; or &#8220;Freedom of Information Act&#8221;
     </td>
     
     <td valign="top" width="97">
@@ -133,13 +133,13 @@ layout: docs
     </td>
     
     <td valign="top" width="129">
-      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a>Â (PDF, 48 KB, 5 pages, December 2004)
+      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a> (PDF, 48 KB, 5 pages, December 2004)
     </td>
   </tr>
   
   <tr>
     <td valign="top">
-      <strong>Inspector General audits and investigative reports</strong> and a method for reporting evidence of waste, fraud, or abuse to theÂ Inspector General
+      <strong>Inspector General audits and investigative reports</strong> and a method for reporting evidence of waste, fraud, or abuse to the Inspector General
     </td>
     
     <td valign="top">
@@ -151,7 +151,7 @@ layout: docs
     </td>
     
     <td valign="top">
-      <a href="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm">Consolidated Appropriations Act for</a>Â FY 2008, Division D, Title VI, Section 534
+      <a href="https://www.gpo.gov/fdsys/pkg/PLAW-110publ161/html/PLAW-110publ161.htm">Consolidated Appropriations Act for</a> FY 2008, Division D, Title VI, Section 534
     </td>
   </tr>
   
@@ -229,7 +229,7 @@ layout: docs
     </td>
     
     <td valign="top" width="129">
-      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a>Â (PDF, 48 KB, 5 pages, December 2004)Also see the <a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf">E-Gov Act of 2002</a> (PDF, 209 KB, 72 pages, December 2002), which mandates a &#8220;Federal Internet Portal&#8221;
+      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a> (PDF, 48 KB, 5 pages, December 2004)Also see the <a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_bills&docid=f:h2458enr.txt.pdf">E-Gov Act of 2002</a> (PDF, 209 KB, 72 pages, December 2002), which mandates a &#8220;Federal Internet Portal&#8221;
     </td>
   </tr>
   
@@ -247,11 +247,11 @@ layout: docs
     </td>
     
     <td valign="top" width="129">
-      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a>Â (PDF, 48 KB, 5 pages, December 2004)
+      <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf">OMB M-05-04, Policies for Federal Agency Public Websites</a> (PDF, 48 KB, 5 pages, December 2004)
     </td>
   </tr>
 </table>
 
 *These requirements apply to executive departments and agencies and their public websites. Check the specific law to see if it also applies to the judicial or legislative agencies or to intranets.
 
-**The Federal Web Managers Council recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government termsÂ [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managersâ€™ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004).
+**The Federal Web Managers Council recommends that government agencies use consistent link labels for common content found on government websites. These recommendations are based on industry standard link labels and a usability study of common government terms [usability study of common government terms](http://www.slideshare.net/DigitalGov/icgi-content-standards-usability-test-results "ICGI Content Standards: Usability Test Results, Content Managersâ€™ Forum, July 15, 2004") (MS PowerPoint, 144 KB, 49 slides, July 2004).

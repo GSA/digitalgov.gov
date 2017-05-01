@@ -28,13 +28,13 @@ layout: docs
       
       <ul>
         <li>
-          See what other agencies are doing in the mobile space on theÂ <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          See what other agencies are doing in the mobile space on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
         </li>
         <li>
-          Learn how agencies created these mobile products with our more thanÂ <a href="https://www.digitalgov.gov/tag/mobile-gov-experience/">25 Mobile Gov Case Studies</a>.
+          Learn how agencies created these mobile products with our more than <a href="https://www.digitalgov.gov/tag/mobile-gov-experience/">25 Mobile Gov Case Studies</a>.
         </li>
         <li>
-          Create your Statement of Work onÂ <a title="Cracking the Mobile Contracting Nut" href="https://www.digitalgov.gov/2013/05/06/cracking-the-mobile-contracting-nut/">RFP-EZÂ </a>by leveraging ourÂ <a title="Mobile SOW and Developer Qualifications" href="https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/">Sample Contracting Language for Mobile SOW&#8217;s</a>Â for product development (apps, mobile web), testing and code-sharing.
+          Create your Statement of Work on <a title="Cracking the Mobile Contracting Nut" href="https://www.digitalgov.gov/2013/05/06/cracking-the-mobile-contracting-nut/">RFP-EZ </a>by leveraging our <a title="Mobile SOW and Developer Qualifications" href="https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/">Sample Contracting Language for Mobile SOW&#8217;s</a> for product development (apps, mobile web), testing and code-sharing.
         </li>
       </ul>
       
@@ -44,13 +44,13 @@ layout: docs
       
       <ul>
         <li>
-          Use theÂ <a title="Mobile Product Testing Guidelines and Resources" href="https://www.digitalgov.gov/2013/08/22/mobile-product-testing-guidelines/">Mobile Product Testing Guidelines and Resources</a>Â pulled from government and the private sector available in four areas: security/privacy, accessibility, functionality/UX and app performance.
+          Use the <a title="Mobile Product Testing Guidelines and Resources" href="https://www.digitalgov.gov/2013/08/22/mobile-product-testing-guidelines/">Mobile Product Testing Guidelines and Resources</a> pulled from government and the private sector available in four areas: security/privacy, accessibility, functionality/UX and app performance.
         </li>
         <li>
-          Speed up your acquisition of testing services with ready-made sampleÂ <a title="Mobile SOW and Developer Qualifications" href="https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/">SOW language</a>Â with mobile developer qualifications.
+          Speed up your acquisition of testing services with ready-made sample <a title="Mobile SOW and Developer Qualifications" href="https://www.digitalgov.gov/resources/mobile-sow-and-developer-qualifications/">SOW language</a> with mobile developer qualifications.
         </li>
         <li>
-          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with theÂ <a title="Federal CrowdSource Mobile Testing Program" href="https://www.digitalgov.gov/services/mobile-application-testing-program/">Federal Crowdsource Mobile Testing Program</a>.
+          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with the <a title="Federal CrowdSource Mobile Testing Program" href="https://www.digitalgov.gov/services/mobile-application-testing-program/">Federal Crowdsource Mobile Testing Program</a>.
         </li>
       </ul>
     </td>
@@ -62,13 +62,13 @@ layout: docs
       
       <ul>
         <li>
-          Create mobile-enabled websites with responsive design and full multimedia capabilities withÂ <a title="Sites.USA.gov" href="https://www.digitalgov.gov/services/sites-usa-gov/">Sites.USA.gov</a>.
+          Create mobile-enabled websites with responsive design and full multimedia capabilities with <a title="Sites.USA.gov" href="https://www.digitalgov.gov/services/sites-usa-gov/">Sites.USA.gov</a>.
         </li>
         <li>
-          Reuse mobile code (frameworks, modular code and whole apps) and leverage testing scripts collected from multiple private and public sector sources on ourÂ <a href="http://gsa.github.io/Mobile-Code-Catalog/">Mobile Code Sharing Catalog</a>.
+          Reuse mobile code (frameworks, modular code and whole apps) and leverage testing scripts collected from multiple private and public sector sources on our <a href="http://gsa.github.io/Mobile-Code-Catalog/">Mobile Code Sharing Catalog</a>.
         </li>
         <li>
-          Get your mobile products designed right, from the beginning, using the Â <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.digitalgov.gov/services/mobile-application-development-program/mobile-user-experience-guidelines-and-recommendations/">Mobile Gov User ExperienceÂ Guidelines and Recommendations</a>.
+          Get your mobile products designed right, from the beginning, using the  <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.digitalgov.gov/services/mobile-application-development-program/mobile-user-experience-guidelines-and-recommendations/">Mobile Gov User Experience Guidelines and Recommendations</a>.
         </li>
       </ul>
       
@@ -78,13 +78,13 @@ layout: docs
       
       <ul>
         <li>
-          Use the federal friendlyÂ <a title="Federal-Compatible Terms of Service Agreements" href="https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/">Terms of Service agreements</a>Â and get your app in the app stores.
+          Use the federal friendly <a title="Federal-Compatible Terms of Service Agreements" href="https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/">Terms of Service agreements</a> and get your app in the app stores.
         </li>
         <li>
-          Register your mobile product (app or mobile web site) with theÂ <a title="The Federal Mobile Products Registry" href="https://www.digitalgov.gov/services/the-federal-mobile-apps-registry/">Federal Mobile ProductsÂ Registry</a>Â for placement on theÂ <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="https://www.digitalgov.gov/services/the-federal-mobile-apps-registry/">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
         </li>
         <li>
-          PROMOTE! Use theÂ <a href="http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml">Federal Mobile Product API</a>Â and create widgets to highlight yours and other agenciesâ€™ mobile products.
+          PROMOTE! Use the <a href="http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml">Federal Mobile Product API</a> and create widgets to highlight yours and other agenciesâ€™ mobile products.
         </li>
         <li>
           Let us know when your product launches and we will help get the word out using DigitalGov.gov!

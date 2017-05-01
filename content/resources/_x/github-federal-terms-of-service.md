@@ -4,7 +4,7 @@ title: Github Federal Terms of Service
 layout: docs
 ---
 
-[Github](https://github.com/)Â is a Web-based Git repository (open sourced version control system) hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
+[Github](https://github.com/) is a Web-based Git repository (open sourced version control system) hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 
 <a class="button" style="color: #000000" href="https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/">Github Federal Terms of Service</a>
 

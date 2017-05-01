@@ -4,7 +4,7 @@ title: Ideascale Federal Terms of Service
 layout: docs
 ---
 
-[Ideascale](http://ideascale.com/)Â allows organizations to collect the ideas of public and private communities and gives users a platform to vote. The ideas are then evaluated, routed, and implemented, making Ideascale the engine of crowd-powered innovation.
+[Ideascale](http://ideascale.com/) allows organizations to collect the ideas of public and private communities and gives users a platform to vote. The ideas are then evaluated, routed, and implemented, making Ideascale the engine of crowd-powered innovation.
 
 <a class="button" style="color: #000000" href="http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members">View Ideascale Federal Terms of Service</a>
 

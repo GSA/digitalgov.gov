@@ -6,9 +6,9 @@ layout: docs
 
 <img class="aligncenter size-full wp-image-1852" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" width="640" height="265" />
 
-**This guidance is part of the¬ [Digital Analytics Program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program")¬ (DAP): Support to Help Agencies Implement the Tool.¬ [See more on the DAP](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").**
+**This guidance is part of the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program") (DAP): Support to Help Agencies Implement the Tool. [See more on the DAP](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").**
 
-Below are the¬ questions we hear most often about the¬ [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
+Below are the questions we hear most often about the [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
 
   * [User Agreement](#part-7 "Common Questions about DAP (FAQ): Implementation")
   * [Implementation](#part-1 "Common Questions about DAP (FAQ): Implementation")
@@ -39,13 +39,13 @@ By logging in and accessing data within the tools of the Digital Analytics Progr
 
 ### What tool is being used to collect the data?
 
-Currently, we‚Äôre using Google Analytics 360¬ to collect and analyze the Web traffic data.
+Currently, we‚Äôre using Google Analytics 360 to collect and analyze the Web traffic data.
 
 ### Does this tool have to go on all websites? Or just top-level domains?
 
-In the¬ [Digital Strategy, OMB calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance). The government-wide code snippet is available to agencies to help them meet this requirement.
+In the [Digital Strategy, OMB calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance). The government-wide code snippet is available to agencies to help them meet this requirement.
 
-### We don‚Äôt¬ currently use Google Analytics on our site. What should we do?
+### We don‚Äôt currently use Google Analytics on our site. What should we do?
 
 You don‚Äôt need your own Google Analytics code on your site for the government-wide analytics to work.
 
@@ -55,7 +55,7 @@ Yes. The government-wide analytics code is sensitive to the Google Analytics cod
 
 ### Will the code affect other analytics code running on my site, such as WebTrends, WebTrends Live, SiteCatalyst or Urchin?
 
-The code will not interfere at all with WebTrends, WebTrends Live, SiteCatalyst, and it synchronizes itself with Urchin. Learn more about¬ [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
+The code will not interfere at all with WebTrends, WebTrends Live, SiteCatalyst, and it synchronizes itself with Urchin. Learn more about [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
 
 ### If the government-wide tracking code suffers an error, will the code stop other code from running?
 
@@ -70,7 +70,7 @@ The only issue is customizations that affect:
   * Use _setDomain with a leading period
   * Use the old Urchin tracking code
 
-The current deployment is designed to insulate itself from and be unobtrusive to existing implementations. The government-wide tool looks at the existing cookies and adjusts its own configuration to match the existing GA code configuration. The only caveat is if your existing customizations changed cookie timeout periods. In these unusual cases, this code will write to the same cookies with the standard timeout periods.¬ Learn more about¬ [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
+The current deployment is designed to insulate itself from and be unobtrusive to existing implementations. The government-wide tool looks at the existing cookies and adjusts its own configuration to match the existing GA code configuration. The only caveat is if your existing customizations changed cookie timeout periods. In these unusual cases, this code will write to the same cookies with the standard timeout periods. Learn more about [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
 
 ### What kind of testing was done to ensure that the code doesn‚Äôt cause conflicts with other script-based code already in use?
 
@@ -78,11 +78,11 @@ Testing has been conducted to ensure that the government-wide code script does n
 
 ### Can the Digital Analytics Code track restricted, public facing websites and webpages (i.e. webpages that require a login)?
 
-Yes, DAP code can track restricted/https websites and webpages as long as the website can send out the .gif request to GA. The current DAP GA code¬ serves the script and accepts the .gif request under https by default.
+Yes, DAP code can track restricted/https websites and webpages as long as the website can send out the .gif request to GA. The current DAP GA code serves the script and accepts the .gif request under https by default.
 
 ### For agencies who have a ‚Äúlegacy‚Äù metrics program (e.g. Urchin), is there a way to pull in some of that historical data (log files) into our new profile so that we can continue to compare current performance with historical data? Or do we need to just save that data somewhere else?
 
-No, there is no way to import legacy/historical data or log files into the Government-wide, agency-specific profile. The goal of the Gov-wide, GA collection is to provide consistent tracking methodology for Web traffic data, using the same Web analytics tool. Mixing new GA data with historical data from other Web analytics tools will create inaccurate and misleading trends.¬ Learn more about¬ [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
+No, there is no way to import legacy/historical data or log files into the Government-wide, agency-specific profile. The goal of the Gov-wide, GA collection is to provide consistent tracking methodology for Web traffic data, using the same Web analytics tool. Mixing new GA data with historical data from other Web analytics tools will create inaccurate and misleading trends. Learn more about [incorporating the DAP tool into your current metrics program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").
 
 ### Can the DAP GA code be deployed on internal agency websites (available only for internal employees)?
 
@@ -90,7 +90,7 @@ No. At this time, the DAP GA code can be deployed only on public-facing agency w
 
 ### How is the DAP Google Analytics account architected?
 
-DAP GA Gov-wide account uses_¬ Views (formerly called &#8216;Profiles&#8217;)_¬ to categorize and report on federal government agencies‚Äô website traffic. Views are assigned at the main federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agencies/bureaus websites is reported under their main agency profile. There‚Äôs also an overarching, government-wide reporting profile, which combines all of the federal websites‚Äô traffic into a single profile.
+DAP GA Gov-wide account uses_ Views (formerly called &#8216;Profiles&#8217;)_ to categorize and report on federal government agencies‚Äô website traffic. Views are assigned at the main federal agency level (e.g. DOD, DOC, Department of Education etc.), and the traffic for sub-agencies/bureaus websites is reported under their main agency profile. There‚Äôs also an overarching, government-wide reporting profile, which combines all of the federal websites‚Äô traffic into a single profile.
 
 DAP staff is responsible for creating all agency profiles, as well as maintaining each of the profiles‚Äô filters used to distribute incoming traffic data. For security purposes, all DAP GA user access requests must be first approved by the respective agency‚Äôs DAP POC. Once approved, all DAP users are granted view-only rights to access the GA viewss. After user access is granted, users can view website traffic within the DAP profiles. At this time, all of the user management and other admin functions are handled by the DAP staff only.
 
@@ -100,7 +100,7 @@ To zoom into the specific website‚Äôs traffic, each DAP user can create up to 10
   <a name="customization-access"></a>Customization and Access
 </h2>
 
-### ¬ Who can use the tool?
+###  Who can use the tool?
 
 DAP implementation and usage is limited to agencies of the U.S. federal government.
 
@@ -132,11 +132,11 @@ Compared to the classic GA (ga.js), UA gives GA users more control over tracking
 
 If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions](https://www.digitalgov.gov/services/dap/analytics-tool-instructions/) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
-### 
+###
 
-### 
+###
 
-### 
+###
 
 <h2 id="part-4" style="padding-top: 50px">
   <a name="data-access-retention-privacy"></a>Data Access, Retention and Privacy
@@ -160,7 +160,7 @@ Every computer and device connected to the Internet is assigned a unique number 
 
 The Digital Analytics Program at GSA administers the government wide analytics account to help agencies meet metrics reporting requirements from OMB e-gov office.
 
-In¬ August, 2014, the U.S. Chief Information Officer notified agencies that access to DAP government-wide data would become available to DAP users. This action was completed in September, 2014. In a memo to the CIO Council, he said:
+In August, 2014, the U.S. Chief Information Officer notified agencies that access to DAP government-wide data would become available to DAP users. This action was completed in September, 2014. In a memo to the CIO Council, he said:
 
 &#8220;opening the DAP government-wide data will let participating agencies see other agency‚Äôs public-facing website analytics, gain valuable knowledge about shared customers, benchmark against similar agencies, and, most importantly, engage in collaboration and exchange lessons learned.&#8221;
 
@@ -170,15 +170,15 @@ No. None of the federal government data tracked as part of the Digital Analytics
 
 ### Does Google or GSA ever store IP addresses?
 
-IP anonymization/masking takes place as soon as data is received by Google Analytics and before any storage or takes place. At no time is the full IP address written to disk as all anonymization happens in memory nearly instantaneously after the request has been received. The full IP address is never written to disk when the anonymization flag is turned on as it is with GSA‚Äôs account. This process was created to meet strict EU privacy requirements.¬ [Read more about IP Anonymization in Google Analytics](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2763052).
+IP anonymization/masking takes place as soon as data is received by Google Analytics and before any storage or takes place. At no time is the full IP address written to disk as all anonymization happens in memory nearly instantaneously after the request has been received. The full IP address is never written to disk when the anonymization flag is turned on as it is with GSA‚Äôs account. This process was created to meet strict EU privacy requirements. [Read more about IP Anonymization in Google Analytics](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2763052).
 
 ### What type of security measures/testing was done on the code that GSA is asking us to install?
 
-GSA has done an IT security review of the DAP custom GA code. No significant issues were found. Agencies can review our analysis and, in the context of their own infrastructure, follow their processes for securing applications in their infrastructure, adding applications to their Certification and Accreditation analysis, etc. Please contact <a href="mailto:dap@support.digitalgov.gov" target="_blank">dap@support.digitalgov.gov</a>¬ to request a copy of our security report.
+GSA has done an IT security review of the DAP custom GA code. No significant issues were found. Agencies can review our analysis and, in the context of their own infrastructure, follow their processes for securing applications in their infrastructure, adding applications to their Certification and Accreditation analysis, etc. Please contact <a href="mailto:dap@support.digitalgov.gov" target="_blank">dap@support.digitalgov.gov</a> to request a copy of our security report.
 
 ### Does my agency need a TOS with Google to use the services provided under GSA‚Äôs Digital Analytics Program?
 
-GSA has negotiated a federal terms of service for Google Analytics Premium. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics Premium, it can use the DAP TOS as a starting point, but will need to sign a separate agreement. ¬ Please contact <dap@support.digitalgov.gov> to request a copy of the terms.
+GSA has negotiated a federal terms of service for Google Analytics Premium. Therefore, agencies do not need to sign a new TOS to use DAP. If an agency would like its own separate (not DAP) implementation of Google Analytics Premium, it can use the DAP TOS as a starting point, but will need to sign a separate agreement.  Please contact <dap@support.digitalgov.gov> to request a copy of the terms.
 
 For agencies to view the Google Analytics Dashboard, you will need a Google account. Agencies that have YouTube, Google+, or are using Google Analytics already have a Google account. You can check with your Office of General Counsel or your TOS lead for further guidance.
 
@@ -187,12 +187,12 @@ For agencies to view the Google Analytics Dashboard, you will need a Google acco
 We recommend adding the following language:
 
 > This website uses Google Analytics Premium. Please refer to the following policies on Google‚Äôs website for more information:
-> 
+>
 >   * [Google‚Äôs main privacy policy](http://www.google.com/intl/en/policies/privacy)
 >   * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
 >   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
 
-See¬ [this notice](https://www.digitalgov.gov/about/policies/)¬ on our Site Policies page.
+See [this notice](https://www.digitalgov.gov/about/policies/) on our Site Policies page.
 
 <h2 id="part-5" style="padding-top: 50px">
   <a name="reporting"></a>Reporting
@@ -200,20 +200,20 @@ See¬ [this notice](https://www.digitalgov.gov/about/policies/)¬ on our Site Poli
 
 ### With many people coming in via dynamic IP services, how can you tell the difference between new and returned visitors?
 
-Because of ¬ cookie deletion, unique, and new vs. returning visitors metrics can never be 100% accurate, regardless of whether Google Analytics or any other cookie-based Web analytics tool is used. If ¬ a visitor deletes their browser cookies, he or she will be counted as a new visitor.
+Because of  cookie deletion, unique, and new vs. returning visitors metrics can never be 100% accurate, regardless of whether Google Analytics or any other cookie-based Web analytics tool is used. If  a visitor deletes their browser cookies, he or she will be counted as a new visitor.
 
 ### Where can I find benchmarks for things like bounce rate, returning users, unique visitors, etc.?
 
 There are several reliable sources of competitive/benchmark data, including commercial providers like Compete, Hitwise, ComScore, and Nielsen, as well as free tools like Google Trends. Each source/solution has a specific methodology to measure Internet traffic, so their findings may not always be consistent.
 
-There are also a variety of Web analytics blogs that publish the¬ _Google Analytics Monthly Benchmark Report_, a report that Google Analytics users receive by email on a monthly basis if they opt-in to share data anonymously with Google. For example, Google Analytics Benchmark Averages for Bounce Rate are as follows:
+There are also a variety of Web analytics blogs that publish the _Google Analytics Monthly Benchmark Report_, a report that Google Analytics users receive by email on a monthly basis if they opt-in to share data anonymously with Google. For example, Google Analytics Benchmark Averages for Bounce Rate are as follows:
 
-  * **40-60%**¬ Content websites
-  * **30-50%**¬ Lead generation sites
-  * **70-98%**¬ Blogs
-  * **20-40%**¬ Retail sites
-  * **10-30%**¬ Service sites
-  * **70-90%**¬ Landing pages
+  * **40-60%** Content websites
+  * **30-50%** Lead generation sites
+  * **70-98%** Blogs
+  * **20-40%** Retail sites
+  * **10-30%** Service sites
+  * **70-90%** Landing pages
 
 Ultimately, while there are many sources for benchmarking information, your Web data interpretation and analysis should be based on the website/department/agency goals that make sense within your organization. Industry-based benchmark percentages only make sense to measure against when they are in the proper context, and align to your specific website, the mission of your site, and other factors specific to YOUR needs and goals.
 
@@ -247,17 +247,17 @@ GSA has negotiated federal friendly Terms of Service with the following tools th
   * [SurveyMonkey](http://www.surveymonkey.com/)
   * [UserVoice](http://www.uservoice.com/)
 
-Take a look at the process for¬ [signing the terms and using the tool](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/ "Federal-Compatible Terms of Service Agreements")¬ and talk to¬ [your agency POC](https://www.digitalgov.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/ "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
+Take a look at the process for [signing the terms and using the tool](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/ "Federal-Compatible Terms of Service Agreements") and talk to [your agency POC](https://www.digitalgov.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/ "Agency Points of Contact for Federal Compatible Terms of Service Agreements").
 
 ### Is there exact wording for the Customer Satisfaction questions? Should it be exactly what‚Äôs outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
-The¬ [Digital Metrics guidance](https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices/ "DAP: Digital Metrics Guidance and Best Practices")¬ provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they‚Äôre collected in a structured, machine processable way.¬ [
-  
-](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics) 
+The [Digital Metrics guidance](https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices/ "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they‚Äôre collected in a structured, machine processable way. [
+
+](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics)
 
 ### How should we report the Customer Satisfaction Metrics?
 
-Plan to report the data on your /digitalstrategy pages. The¬ [OMB guidance](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.omb.gov%2Fcommunity%2Flogin.action%3Fos_destination%3D%252Fdownload%252Fattachments%252F636161243%252F8_2_DGS_Implementation_Instructions_v_final.docx%253Fversion%253D1%2526modificationDate%253D1350935840136)¬ identifies these reporting requirements: Agencies should report progress publicly via their /digitalstrategy pages. According to Digital Government Strategy¬ Milestone #8.2:
+Plan to report the data on your /digitalstrategy pages. The [OMB guidance](https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.omb.gov%2Fcommunity%2Flogin.action%3Fos_destination%3D%252Fdownload%252Fattachments%252F636161243%252F8_2_DGS_Implementation_Instructions_v_final.docx%253Fversion%253D1%2526modificationDate%253D1350935840136) identifies these reporting requirements: Agencies should report progress publicly via their /digitalstrategy pages. According to Digital Government Strategy Milestone #8.2:
 
 For Customer Satisfaction:
 
@@ -266,7 +266,7 @@ For Customer Satisfaction:
 
 ### How should we structure the data? Open ended? Numeric scale?
 
-The data you report should be structured and quantitative. Don‚Äôt report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they‚Äôre collected in a structured, machine processable way.¬ [See the guidance on customer satisfaction metrics.](https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices "Digital Metrics for Federal Agencies")
+The data you report should be structured and quantitative. Don‚Äôt report the open ended answers to questions. The requirement is to collect and report on four measures and to ensure they‚Äôre collected in a structured, machine processable way. [See the guidance on customer satisfaction metrics.](https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices "Digital Metrics for Federal Agencies")
 
 ### How frequently should we be prompting for a survey?
 

@@ -8,10 +8,10 @@ layout: docs
 
 &nbsp;
 
-**Oops &#8211; The page you&#8217;re looking for cannot be found.Â What you can do:**
+**Oops &#8211; The page you&#8217;re looking for cannot be found. What you can do:**
 
   * **Go back to the [homepage](https://www.digitalgov.gov).**
-  * [Search](http://find.digitalgov.gov/search?affiliate=digitalgov)Â for it.
+  * [Search](http://find.digitalgov.gov/search?affiliate=digitalgov) for it.
   * Look at the [sitemap](https://www.digitalgov.gov/sitemap/)
   * Check out a list of [pages that have been moved](https://www.digitalgov.gov/about/lost-and-found-mapping-page/ "Lost and Found â€“ Mapping Page").
   * [Let us know this page is missing](mailto:digitalgov@gsa.gov) by sending us an email.

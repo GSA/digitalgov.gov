@@ -14,4 +14,4 @@ Joining the eCPIC community is more than just purchasing a tool. It is joining a
 
 ## Contact Us / How to Participate
 
-If you are interested in learning more about the eCPIC Tool or the services offered by the GSA eCPIC PMO please contact us viaÂ [email](mailto:ecpic.pmo@gsa.gov).
+If you are interested in learning more about the eCPIC Tool or the services offered by the GSA eCPIC PMO please contact us via [email](mailto:ecpic.pmo@gsa.gov).

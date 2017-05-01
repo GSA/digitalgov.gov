@@ -14,13 +14,13 @@ Check out the variety of services available for agencies!
 
 ## Content Management
 
-[Sites](https://www.digitalgov.gov/services/sites-usa-gov/ "Sites.USA.gov")¬ lets federal agencies build websites using a self-service content management platform.¬ It‚Äôs a hosted shared service provided by the Digital Services Innovation Center built on open source software. You can customize the look and feel, upload multi-media, manage your own users. And, your content looks good on phones, tablets and desktops.
+[Sites](https://www.digitalgov.gov/services/sites-usa-gov/ "Sites.USA.gov") lets federal agencies build websites using a self-service content management platform. It‚Äôs a hosted shared service provided by the Digital Services Innovation Center built on open source software. You can customize the look and feel, upload multi-media, manage your own users. And, your content looks good on phones, tablets and desktops.
 
 [Get Started](https://www.digitalgov.gov/services/sites-usa-gov/ "Sites.USA.gov"){.button}
 
 ## eCPIC
 
-The¬ [Electronic Capital Planning and Investment Control (eCPIC)](https://www.digitalgov.gov/services/electronic-capital-planning-and-investment-control-ecpic/ "eCPIC") application, developed to address agency needs for a more organized and transparent approach to IT Capital Planning, is a web-based, government-owned technology solution that Federal Agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes, and also to meet their external reporting requirements to the Office of Management and Budget (OMB).
+The [Electronic Capital Planning and Investment Control (eCPIC)](https://www.digitalgov.gov/services/electronic-capital-planning-and-investment-control-ecpic/ "eCPIC") application, developed to address agency needs for a more organized and transparent approach to IT Capital Planning, is a web-based, government-owned technology solution that Federal Agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes, and also to meet their external reporting requirements to the Office of Management and Budget (OMB).
 
 [Get Started](https://www.digitalgov.gov/services/electronic-capital-planning-and-investment-control-ecpic/ "eCPIC.gov"){.button}
 
@@ -32,32 +32,32 @@ The¬ [Electronic Capital Planning and Investment Control (eCPIC)](https://www.di
 
 ## Metrics
 
-[Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program")¬ offers advanced, easy Web analytics to federal agencies. The program includes is a **no-cost**, hosted shared service Web analytics tool, digital metrics guidance and best practices, training and support.
+[Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program") offers advanced, easy Web analytics to federal agencies. The program includes is a **no-cost**, hosted shared service Web analytics tool, digital metrics guidance and best practices, training and support.
 
 [Get Started](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program"){.button}
 
 ## Mobile
 
-[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry").¬ Promote your public facing mobile websites and apps by registering them¬ in the U.S. Digital¬ Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs). **Free!¬** 
+[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs). **Free!** 
 
 [Get Started](https://www.digitalgov.gov/services/u-s-digital-registry/ "The Federal Mobile Apps Registry"){.button}
 
-[Federal CrowdSource Mobile Testing¬ Program](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program").¬ Take advantage of this FREE service provided for federal agencies by federal employees. Leverage an army of Testers (all federal employees) to evaluate your application on a wide variety of mobile devices and provide your agency with a results report you can immediately use to enhance your application.
+[Federal CrowdSource Mobile Testing Program](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"). Take advantage of this FREE service provided for federal agencies by federal employees. Leverage an army of Testers (all federal employees) to evaluate your application on a wide variety of mobile devices and provide your agency with a results report you can immediately use to enhance your application.
 
 [Get Started](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"){.button}
 
 ## Search
 
-[DigitalGov Search](https://www.digitalgov.gov/services/search/ "USASearch")¬ is a hosted site search service provided by the U.S. General Services Administration. You can use DigitalGov Search to power the search box on your federal government website‚Äî**at no cost**.
+[DigitalGov Search](https://www.digitalgov.gov/services/search/ "USASearch") is a hosted site search service provided by the U.S. General Services Administration. You can use DigitalGov Search to power the search box on your federal government website‚Äî**at no cost**.
 
 [Get Started](https://www.digitalgov.gov/services/search/ "USASearch"){.button}
 
 ## Social Media
 
-[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "Social Media Registry")¬ is a tool to keep track of social media accounts managed by federal agencies. It helps the public identify ‚Äúofficial‚Äù federal social media accounts and helps agencies manage their social media efforts. It includes¬ a series of APIs¬ so developers can build applications with the data from the registry.¬ **Free!**
+[U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/ "Social Media Registry") is a tool to keep track of social media accounts managed by federal agencies. It helps the public identify ‚Äúofficial‚Äù federal social media accounts and helps agencies manage their social media efforts. It includes a series of APIs so developers can build applications with the data from the registry. **Free!**
 
 [Get Started](https://www.digitalgov.gov/services/u-s-digital-registry/ "Social Media Registry"){.button}
 
-[USA.gov Short URLs](https://www.digitalgov.gov/services/usa-gov-short-urls/ "USA.gov Short URLs")¬ let anyone with a government e-mail address quickly and easily create short, trustworthy .gov URLs.¬ **Free!**
+[USA.gov Short URLs](https://www.digitalgov.gov/services/usa-gov-short-urls/ "USA.gov Short URLs") let anyone with a government e-mail address quickly and easily create short, trustworthy .gov URLs. **Free!**
 
 [Get Started](https://www.digitalgov.gov/services/usa-gov-short-urls/ "USA.gov Short URLs"){.button}

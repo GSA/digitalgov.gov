@@ -4,7 +4,7 @@ title: Guidance on the Use of Challenges and Prizes to Promote Open Government
 layout: docs
 ---
 
-In September 2009, the President released his Strategy for American Innovation, calling for agencies to increase their ability to promote and harness innovation by using policy tools such as prizes and challenges. This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, andÂ highlights for agencies policy and legal issues related toÂ the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities.
+In September 2009, the President released his Strategy for American Innovation, calling for agencies to increase their ability to promote and harness innovation by using policy tools such as prizes and challenges. This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, and highlights for agencies policy and legal issues related to the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities.
 
 <a class="button" style="color: #000000" href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf">View Guidance on the Use of Challenges and Prizes to Promote Open Gov</a>
 
@@ -13,7 +13,7 @@ In September 2009, the President released his Strategy for American Innovation, 
 > <div class="one-half">
 >   <ul>
 >     <li>
->       <a href="https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for AmericanÂ Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
+>       <a href="https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for American Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
 >     </li>
 >     <li>
 >       <a href="http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-">Executive Orderâ€”Making Open and Machine Readable the New Default for Government Information</a> (May 2013)

@@ -8,7 +8,7 @@ The Section 508 Guidelines include this subpart on Electronic and Information Te
 
 [View the Section 508 Standards for Electronic and IT](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards){.button}
 
-## Â Related Links:
+##  Related Links:
 
   * [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/)
   * [Section 508 Laws â€“ Section508.gov](http://www.section508.gov/)

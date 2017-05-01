@@ -12,8 +12,8 @@ Here, on DigitalGov, you can make government services and information better by 
   * [**Expand your skills** by working on digital gov&#8217;t projects](https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities in DigitalGov")! (For feds with .gov or .mil email accounts only).
   * [**Join** a DigitalGov Community of Practice](https://www.digitalgov.gov/communities/).
   * [**Keep in the loop** by signing up for our Daily or Weekly newsletters](http://connect.digitalgov.gov/subscribe).
-  * [**Subscribe** to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/)Â and catch up on our recent episodes.
-  * **Share! Share! Share**Â Forward the newsletter. Tweet an article. Post on Facebook or LinkedIn. Tell your colleagues and build the DigitalGov network.
+  * [**Subscribe** to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
+  * **Share! Share! Share** Forward the newsletter. Tweet an article. Post on Facebook or LinkedIn. Tell your colleagues and build the DigitalGov network.
 
 ## WIIFM?
 
@@ -30,7 +30,7 @@ What&#8217;s in it for you?
   Article guidelines
 </h2>
 
-What types of articles are we looking for? We want posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.Â It&#8217;s important to have a government angle. Your experiencesâ€”successes and less than successesâ€”and your opinions on how to implement DigitalGov are valuable. This can accelerateÂ time to change, leapfrogging experiences and creating efficiencies through sharing.
+What types of articles are we looking for? We want posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public. It&#8217;s important to have a government angle. Your experiencesâ€”successes and less than successesâ€”and your opinions on how to implement DigitalGov are valuable. This can accelerate time to change, leapfrogging experiences and creating efficiencies through sharing.
 
   * Do you have a story to tell that will inform, intrigue, and inspire your colleagues?
   * Are you working on something innovative or interesting at your agency?

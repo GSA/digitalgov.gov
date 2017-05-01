@@ -13,7 +13,7 @@ Openness in government strengthens our democracy, promotes the delivery of effic
 > <div class="one-half">
 >   <ul>
 >     <li>
->       <a href="https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for AmericanÂ Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
+>       <a href="https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf">A Strategy for American Innovation</a> (PDF, 1.22 MB, 120 pages, October 2015)
 >     </li>
 >     <li>
 >       <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-13.pdf">OMB M-13-13 Open Data Policyâ€”Managing Information as an Asset</a> (PDF, 5.83 MB, 12 pages, May 2013)

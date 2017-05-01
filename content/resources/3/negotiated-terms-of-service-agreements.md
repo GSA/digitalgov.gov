@@ -4,7 +4,7 @@ title: Negotiated Terms of Service Agreements
 layout: docs
 ---
 
-<img class="size-full wp-image-152762 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" width="250" height="190" />Before you decide to use one of the free digital tools below, seek the advice of yourÂ [agency Terms of Service (TOS) Point of Contact (POC)](https://www.digitalgov.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/ "Agency Points of Contact for Federal Compatible Terms of Service Agreements")Â to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. SeeÂ [complete implementation guidance](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/ "Federal-Compatible Terms of Service Agreements")Â on the main Terms of Service page.
+<img class="size-full wp-image-152762 alignright" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-190-Agreement-Terms-of-Service-TOS.jpg" alt="Illustrated stock image of a signed agreement document" width="250" height="190" />Before you decide to use one of the free digital tools below, seek the advice of your [agency Terms of Service (TOS) Point of Contact (POC)](https://www.digitalgov.gov/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/ "Agency Points of Contact for Federal Compatible Terms of Service Agreements") to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and goals, and that the TOS is legally appropriate for use by your agency. See [complete implementation guidance](https://www.digitalgov.gov/resources/federal-compatible-terms-of-service-agreements/ "Federal-Compatible Terms of Service Agreements") on the main Terms of Service page.
 
 <div>
   <p>
@@ -28,7 +28,7 @@ layout: docs
     
     <tr>
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Amazon Appstore" href="https://developer.amazon.com/public/">AmazonÂ Appstore</a>
+        <a title="Amazon Appstore" href="https://developer.amazon.com/public/">Amazon Appstore</a>
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
@@ -92,7 +92,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Blackberry SDK License Agreement" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-sdk-license-agreement.pdf">BlackBerry SDK License Agreement</a>,Â <a title="Blackberry App World Vendor Agreement" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-app-world-vendor-agreement.pdf">BlackBerry App World Vendor Agreement</a>, <a title="Amendment to BlackBerry SDK License Agreement and BlackBerry App World Vendor Agreement for Use by U.S. General Services Administration" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-app-world-tos-agreement.pdf">BlackBerry App World TOS</a>
+        <a title="Blackberry SDK License Agreement" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-sdk-license-agreement.pdf">BlackBerry SDK License Agreement</a>, <a title="Blackberry App World Vendor Agreement" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-app-world-vendor-agreement.pdf">BlackBerry App World Vendor Agreement</a>, <a title="Amendment to BlackBerry SDK License Agreement and BlackBerry App World Vendor Agreement for Use by U.S. General Services Administration" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/blackberry-app-world-tos-agreement.pdf">BlackBerry App World TOS</a>
       </td>
     </tr>
     
@@ -120,7 +120,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="CartoDB Terms of Use" href="https://cartodb.com/terms-gov-users/">CartoDB TOS</a>Â (online)
+        <a title="CartoDB Terms of Use" href="https://cartodb.com/terms-gov-users/">CartoDB TOS</a> (online)
       </td>
     </tr>
     
@@ -148,7 +148,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="ChatWING online amended TOS" href="http://chatwing.com/site/amendment">ChatWING TOS</a>Â (online)
+        <a title="ChatWING online amended TOS" href="http://chatwing.com/site/amendment">ChatWING TOS</a> (online)
       </td>
     </tr>
     
@@ -162,7 +162,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="ClassMarker TOS" href="http://www.classmarker.com/online-testing/terms/usa-federal-agencies/">ClassMarker TOS</a>Â (online)
+        <a title="ClassMarker TOS" href="http://www.classmarker.com/online-testing/terms/usa-federal-agencies/">ClassMarker TOS</a> (online)
       </td>
     </tr>
     
@@ -176,7 +176,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Cyfe All-In-One Dashboard" href="http://www.cyfe.com/terms-government">Cyfe TOSÂ </a>Â (online)
+        <a title="Cyfe All-In-One Dashboard" href="http://www.cyfe.com/terms-government">Cyfe TOS </a> (online)
       </td>
     </tr>
     
@@ -232,7 +232,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Eventbrite TOS" href="http://www.eventbrite.com/l/federal-government">Eventbrite TOS</a>Â (online)
+        <a title="Eventbrite TOS" href="http://www.eventbrite.com/l/federal-government">Eventbrite TOS</a> (online)
       </td>
     </tr>
     
@@ -246,7 +246,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Facebook Terms of Use Amendment" href="https://www.facebook.com/terms_pages_gov.php">Facebook TOS</a>Â (online)
+        <a title="Facebook Terms of Use Amendment" href="https://www.facebook.com/terms_pages_gov.php">Facebook TOS</a> (online)
       </td>
     </tr>
     
@@ -274,7 +274,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Flipboard Terms of Service (TOS) Amendment" href="https://about.flipboard.com/federal-tou/">Flipboard TOS</a>Â (online)
+        <a title="Flipboard Terms of Service (TOS) Amendment" href="https://about.flipboard.com/federal-tou/">Flipboard TOS</a> (online)
       </td>
     </tr>
     
@@ -302,7 +302,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="GitHub TOS" href="https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users">GitHub TOS</a>Â (online)
+        <a title="GitHub TOS" href="https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-government-users">GitHub TOS</a> (online)
       </td>
     </tr>
     
@@ -372,7 +372,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Google Visualization API Terms of Service (TOS)" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/google-visualization-tos-amendment.pdf">Google Visualization TOSÂ </a>
+        <a title="Addendum to Google Visualization API Terms of Service (TOS)" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/google-visualization-tos-amendment.pdf">Google Visualization TOS </a>
       </td>
     </tr>
     
@@ -386,7 +386,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="GovLoop TOS" href="http://www.govloop.com/terms-of-service/">GovLoop TOS</a>Â (online)
+        <a title="GovLoop TOS" href="http://www.govloop.com/terms-of-service/">GovLoop TOS</a> (online)
       </td>
     </tr>
     
@@ -400,13 +400,13 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Hackpad TOS" href="https://hackpad.com/MwTzlQre2hE#AMENDMENT-TO-HACKPAD-TERMS-OF-SERVICE">Hackpad TOS</a>Â (online)
+        <a title="Hackpad TOS" href="https://hackpad.com/MwTzlQre2hE#AMENDMENT-TO-HACKPAD-TERMS-OF-SERVICE">Hackpad TOS</a> (online)
       </td>
     </tr>
     
     <tr>
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="HootSuite" href="http://hootsuite.com/">HootSuite</a>Â â€“ Free and Pro only
+        <a title="HootSuite" href="http://hootsuite.com/">HootSuite</a> â€“ Free and Pro only
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
@@ -456,7 +456,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="IdeaScale TOS" href="http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members">IdeaScale TOS</a>Â (online)
+        <a title="IdeaScale TOS" href="http://support.ideascale.com/customer/portal/articles/1134791-amendment-to-terms-of-service-applicable-to-governmental-users-members">IdeaScale TOS</a> (online)
       </td>
     </tr>
     
@@ -470,7 +470,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="" href="https://ifttt.com/terms_for_government_agencies">IFTTT TOS</a>Â (online)
+        <a title="" href="https://ifttt.com/terms_for_government_agencies">IFTTT TOS</a> (online)
       </td>
     </tr>
     
@@ -484,7 +484,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="" href="https://help.instagram.com/317709155098612">Instagram TOS</a>Â (online)
+        <a title="" href="https://help.instagram.com/317709155098612">Instagram TOS</a> (online)
       </td>
     </tr>
     
@@ -540,7 +540,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MapBox Terms of Service (TOS) Amendment" href="https://www.mapbox.com/usg-tos">MapBox TOS</a>Â (online)
+        <a title="MapBox Terms of Service (TOS) Amendment" href="https://www.mapbox.com/usg-tos">MapBox TOS</a> (online)
       </td>
     </tr>
     
@@ -554,7 +554,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="MeasuredVoice TOS" href="http://www.measuredvoice.com/terms/">Measured Voice TOS</a>Â (online)
+        <a title="MeasuredVoice TOS" href="http://www.measuredvoice.com/terms/">Measured Voice TOS</a> (online)
       </td>
     </tr>
     
@@ -568,7 +568,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Medium" href="https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7">Medium TOS</a>Â (online)
+        <a title="Medium" href="https://medium.com/@Medium/amendment-to-medium-terms-of-service-applicable-to-u-s-government-users-fccb00db67d7">Medium TOS</a> (online)
       </td>
     </tr>
     
@@ -624,7 +624,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="My dot com Metrics TOS" href="http://info.cytrap.eu/terms-privacy/terms-and-conditions">My.ComMetrics TOS</a>Â (online)
+        <a title="My dot com Metrics TOS" href="http://info.cytrap.eu/terms-privacy/terms-and-conditions">My.ComMetrics TOS</a> (online)
       </td>
     </tr>
     
@@ -694,7 +694,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Piktochart TOS" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/Piktochart-Commerce-Amended-TOS-3_15.pdf">Piktochart TOS</a>Â (3/11/2015)
+        <a title="Piktochart TOS" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/Piktochart-Commerce-Amended-TOS-3_15.pdf">Piktochart TOS</a> (3/11/2015)
       </td>
     </tr>
     
@@ -722,7 +722,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Plotly online TOS" href="https://plot.ly/amendment-to-plotly-terms-of-service-applicable-to-government-users/">Plotly TOSÂ </a>(online)
+        <a title="Plotly online TOS" href="https://plot.ly/amendment-to-plotly-terms-of-service-applicable-to-government-users/">Plotly TOS </a>(online)
       </td>
     </tr>
     
@@ -820,7 +820,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Slack Terms of Service" href="https://slack.com/terms-of-service/government">Slack TOS</a>Â (online)
+        <a title="Slack Terms of Service" href="https://slack.com/terms-of-service/government">Slack TOS</a> (online)
       </td>
     </tr>
     
@@ -848,7 +848,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Snapchat Terms of Service" href="https://www.snap.com/en-US/terms/us-amendment/">Snapchat TOS</a>Â (online)
+        <a title="Snapchat Terms of Service" href="https://www.snap.com/en-US/terms/us-amendment/">Snapchat TOS</a> (online)
       </td>
     </tr>
     
@@ -862,7 +862,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Sniply Terms of Service" href="http://snip.ly/terms/">Sniply TOS</a>Â (online)
+        <a title="Sniply Terms of Service" href="http://snip.ly/terms/">Sniply TOS</a> (online)
       </td>
     </tr>
     
@@ -1030,7 +1030,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Tint Terms of Service" href="http://www.tintup.com/termsofservice/amendment">Tint TOS</a>Â (online)
+        <a title="Tint Terms of Service" href="http://www.tintup.com/termsofservice/amendment">Tint TOS</a> (online)
       </td>
     </tr>
     
@@ -1044,7 +1044,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Trello Terms of Service" href="https://trello.com/amendment-to-trello-terms-of-service-applicable-to-government-users">Trello amendedÂ TOS</a>
+        <a title="Trello Terms of Service" href="https://trello.com/amendment-to-trello-terms-of-service-applicable-to-government-users">Trello amended TOS</a>
       </td>
     </tr>
     
@@ -1260,13 +1260,13 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="CrowdHall online amended TOS" href="https://api.crowdhall.com/auth/about/terms_federal">CrowdHall TOS</a>Â (online)
+        <a title="CrowdHall online amended TOS" href="https://api.crowdhall.com/auth/about/terms_federal">CrowdHall TOS</a> (online)
       </td>
     </tr>
     
     <tr>
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Google Moderator" href="http://www.google.com/moderator/#0">Google Moderator</a> has been retired.Â To download your Moderator data, <a href="https://support.google.com/accounts/answer/3024190">follow these instructions</a>. This information will be available until <strong>April 3, 2017</strong>.
+        <a title="Google Moderator" href="http://www.google.com/moderator/#0">Google Moderator</a> has been retired. To download your Moderator data, <a href="https://support.google.com/accounts/answer/3024190">follow these instructions</a>. This information will be available until <strong>April 3, 2017</strong>.
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
@@ -1288,7 +1288,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Addendum to Terms of Service (TOS) for Google Webmaster Tools" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/google-webmaster-tools-tos-amendment.pdf">Google Webmaster Tools TOS</a>Â â€“ Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements. Updated 10/18/13
+        <a title="Addendum to Terms of Service (TOS) for Google Webmaster Tools" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/google-webmaster-tools-tos-amendment.pdf">Google Webmaster Tools TOS</a> â€“ Google Webmaster Tools has decided not to sign up any new agencies but will honor existing agreements. Updated 10/18/13
       </td>
     </tr>
     
@@ -1302,7 +1302,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="Mandrill TOS" href="http://mandrill.com/amended-government-terms/">MandrillÂ TOS</a>Â (online). Mandrill is now an add-on for paid monthly MailChimp accounts. Updated 03/16/16
+        <a title="Mandrill TOS" href="http://mandrill.com/amended-government-terms/">Mandrill TOS</a> (online). Mandrill is now an add-on for paid monthly MailChimp accounts. Updated 03/16/16
       </td>
     </tr>
     
@@ -1316,7 +1316,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        Ustream no longer has a free service.Â Contact Ustream to discuss amendments for their Pro and Enterprise plans
+        Ustream no longer has a free service. Contact Ustream to discuss amendments for their Pro and Enterprise plans
       </td>
     </tr>
     
@@ -1330,7 +1330,7 @@ layout: docs
       </td>
       
       <td style="text-align: left;vertical-align: top;border: none">
-        <a title="User Voice Terms of Service" href="https://www.uservoice.com/tos/federal/">UserVoice TOS</a>Â (online)Â User Voice no longer offers a â€œfreeâ€ civic engagement option
+        <a title="User Voice Terms of Service" href="https://www.uservoice.com/tos/federal/">UserVoice TOS</a> (online) User Voice no longer offers a â€œfreeâ€ civic engagement option
       </td>
     </tr>
   </table>

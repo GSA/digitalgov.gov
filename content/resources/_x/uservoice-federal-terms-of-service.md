@@ -4,7 +4,7 @@ title: UserVoice Federal Terms of Service
 layout: docs
 ---
 
-[UserVoice](https://www.uservoice.com/) isÂ a feedback forum and in-app widget to capture the ideas your users care about most. Reporting and analytics to aggregate and prioritize ideas for your roadmap.
+[UserVoice](https://www.uservoice.com/) is a feedback forum and in-app widget to capture the ideas your users care about most. Reporting and analytics to aggregate and prioritize ideas for your roadmap.
 
 <a class="button" style="color: #000000" href="https://www.uservoice.com/tos/federal/6">View UserVoice Federal Terms of Service</a>
 

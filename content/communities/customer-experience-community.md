@@ -4,11 +4,11 @@ title: Customer Experience Community
 layout: docs
 ---
 
-The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 700Â members across more than 140Â federal, state and local U.S. government offices and agencies.
+The government Customer Experience Community of Practice (CX-COP) is an interagency group of customer experience practitioners, with over 700 members across more than 140 federal, state and local U.S. government offices and agencies.
 
 ## **Join Us!**
 
-Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology.Â Fill out the sign-up form, or email us with your request (must have a government email address to join).
+Join the CX-COP listserv and community to stay on the cutting edge of government customer experience, including news, training, best practices, and technology. Fill out the sign-up form, or email us with your request (must have a government email address to join).
 
 <div style="text-align: center">
   <a class="button" href="https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform">Sign-Up Form</a> or <a class="button" href="mailto:shentae.hilbert@ssa.gov?subject=Subscribe to CX-COP">Join via Email</a>
@@ -224,7 +224,7 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
 
 ## **Upcoming Events**
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;Â thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;CX-events&#8217; message=&#8217;There are no upcoming CX events at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;CX-events&#8217; message=&#8217;There are no upcoming CX events at this time.&#8217;]
 
 <hr style="border: none;height: 2em" />
 
@@ -234,4 +234,4 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
 
 ## **About the Community**
 
-The CX-COP is a platform for government CXÂ practitioners to ask questions,Â share best practices, and collaborate to improve the government customer experience. The group is sponsored by GSAâ€™s [Office of Citizen Services and Innovative Technologies](https://www.digitalgov.gov/about/).
+The CX-COP is a platform for government CX practitioners to ask questions, share best practices, and collaborate to improve the government customer experience. The group is sponsored by GSAâ€™s [Office of Citizen Services and Innovative Technologies](https://www.digitalgov.gov/about/).

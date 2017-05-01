@@ -4,7 +4,7 @@ title: Open Opportunities in DigitalGov
 layout: docs
 ---
 
-> _Building a 21st century workforce.Â_ _One task at a time._
+> _Building a 21st century workforce._ _One task at a time._
 
 <p style="text-align: center">
   <a class="button" title="OpenOppsinDigitalGov" href="https://openopps.digitalgov.gov/">Get Started</a>
@@ -13,7 +13,7 @@ layout: docs
 <img class="alignright wp-image-125332 size-full" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/image-of-interlocking-hands.jpg" alt="Photo of Interlocking hands" width="243" height="220" />Every agency at every level of government has a role in creating digital government. There are great opportunities to solve the problems in your agencies and to engage your high-performing staff with cutting-edge projects across agency bounds.
 
 <p style="text-align: left">
-  Through our Open Opportunities in DigitalGov network, we&#8217;re building a cooperative enterprise that draws on resources from across government to leverage the expertise of forward-leaning agencies. Weâ€™re looking atÂ innovative staffing arrangements, multi-agency teams, and ways to tap specialized expertise and skills for quick turnaround tasks.
+  Through our Open Opportunities in DigitalGov network, we&#8217;re building a cooperative enterprise that draws on resources from across government to leverage the expertise of forward-leaning agencies. Weâ€™re looking at innovative staffing arrangements, multi-agency teams, and ways to tap specialized expertise and skills for quick turnaround tasks.
 </p>
 
 <h2 style="text-align: left">
@@ -41,7 +41,7 @@ layout: docs
     </td>
     
     <td style="vertical-align: top">
-      Doing â€œmore with lessâ€ is expected. But how do you meet stakeholder expectations, deliver onÂ a 21st century governmentÂ and keep your best and brightest staff engaged? Agencies are coming together to work on different pieces of the digital puzzle. TappingÂ your best and brightest to do interagency work can help you smartly create and adopt new tools and platforms at a lower cost and without reinventing the wheelâ€“gaining more for mission.
+      Doing â€œmore with lessâ€ is expected. But how do you meet stakeholder expectations, deliver on a 21st century government and keep your best and brightest staff engaged? Agencies are coming together to work on different pieces of the digital puzzle. Tapping your best and brightest to do interagency work can help you smartly create and adopt new tools and platforms at a lower cost and without reinventing the wheelâ€“gaining more for mission.
     </td>
   </tr>
 </table>

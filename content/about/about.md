@@ -4,38 +4,33 @@ title: About
 layout: docs
 ---
 
-We live in aÂ time whenÂ [more pre-schoolers can use a smartphone app than can tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-at-navigating-iphone-than-tying-their-shoes/). How does government prepareÂ to meet the information needs of these budding citizens?Â **DigitalGovÂ** means providing information and services to the public anywhere andÂ anytime.
+Welcome to DigitalGov, let us tell you a little bit about what we're working on...
 
-This site is a platform to help those inÂ agencies working onÂ providing digital services and information for the public. We&#8217;ll scourÂ the innerwebs for digital info so you donâ€™t have to. Expect posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public.
+There's an innovation movement in government that sees a need to have centralized resources to help government be more innovative and digitally-focused. Agencies need:
 
-## More on Us
+* Help implementing executive and congressionally mandated digital policies and initiatives.
+* Connection points between government teams, change agents, and idea labs across government to encourage collaborating, sharing and learning.
+* Open access to resources, communities, and training to build a more innovative, digital and efficient government.
 
-This platform is brought to you by theÂ [Office of Products and Programs](http://www.gsa.gov/portal/content/124174)â€”formerly known as the Office of Citizen Services and Innovative Technologies (OCSIT)â€”inÂ the [Technology Transformation Service](http://www.gsa.gov/portal/category/25729)Â (TTS) of the U.S.Â [General Services Administration](http://www.gsa.gov/portal/category/100000). Our job here is to help agencies build a 21st century digital government. We do that by:
+During the past several years (and through its earlier iterations) DigitalGov has become a destination in government to learn about methods, practices, policies and tools needed to create these effective digital services.
 
-  * Finding and sharing resources and capabilities throughout government
-  * Helping agencies understand and resolve policy issues
-  * Offering services and tools to help agencies meet their digital government goals
-  * Championing DigitalGov solutions from loosening data to developing mobile development guidelines to app and website development to best practices and policy
-  * Promoting agency DigitalGov efforts
-  * Building relationships with the private and non-profit sectors as well as state and local government
+And now we are taking DigitalGov even further.
 
-### DigitalÂ Government Division
+We believe DigitalGov should set the example for how government **learns**, **builds**, **delivers** and **measures** digital services in the 21st century. We are going to start by telling the story of how we are rebuilding DigitalGov from the ground up - from the specific challenges we are facing, to the tools we are using to overcome them using the services and tools GSA provides.
 
-The Digital Government DivisionÂ is a cooperative enterprise that draws on resources from across government to leverage the expertise of forward-leaning agencies.Â To that end, weâ€™re gathering a cadre of innovators to help build a digital government that meets the expectations of the public while delivering info and services safely and securely. The Digital Government DivisionÂ is a key component supporting the goals of theÂ [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)Â and is sponsored by GSA.
+Our job is also to know everything about the government teams running digital services in the federal government - their successes and wins, what their challenges are, where they are blocked or need additional support.
 
-## Keep in touch
+We want to amplify those successes and offer guidance to overcome the blockers that prevent effective government digital services.
 
-  * Follow us on [Facebook](https://www.facebook.com/DigitalGov) andÂ [Twitter @Digital_Gov](http://twitter.com/Digital_Gov). We use the hashtags #DigitalGov, #SocialGov, and #MobileGov.
-  * [Sign up for e-mail alerts](http://connect.digitalgov.gov/subscribe).
-  * [Send us an email](https://www.digitalgov.gov/contact-us/ "Contact Us").
-  * [Subscribe to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/)Â and catch up on our recent episodes.
 
-* * *
+## The Team
 
-## Posts About Us
+DigitalGov is a product of the [Technology Transformation Service (TTS)](https://www.gsa.gov/portal/category/25729) within the U.S. General Services Administration (GSA).
 
-[display-posts category=&#8221;our-work&#8221; include\_excerpt=&#8221;true&#8221; image\_size=&#8221;thumbnail&#8221;Â posts\_per\_page=&#8221;5&#8243;Â wrapper=&#8221;ul&#8221;]
+Our mission is to help government teams deliver smart, effective digital services.
 
-&nbsp;
+**Jeremy Zilar** â€”Â _title, background_
 
-[>>Site Policies](https://www.digitalgov.gov/about/policies/ "Policies")
+**Andrea Sigritz** â€”Â _title, background_
+
+**Toni Bonitto** â€”Â _title, background_

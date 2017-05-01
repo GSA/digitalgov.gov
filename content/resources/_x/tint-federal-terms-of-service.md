@@ -4,7 +4,7 @@ title: Tint Federal Terms of Service
 layout: docs
 ---
 
-[Tint](https://www.tintup.com/) helps organization drive deeper relationship with their customers through social media. Use TintÂ to aggregate, curate, and display any social media feeds anywhere.
+[Tint](https://www.tintup.com/) helps organization drive deeper relationship with their customers through social media. Use Tint to aggregate, curate, and display any social media feeds anywhere.
 
 <a class="button" style="color: #000000" href="http://www.tintup.com/termsofservice/amendment">View Tint Federal Terms of Service</a>
 

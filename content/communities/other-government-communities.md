@@ -57,4 +57,4 @@ _<span style="font-weight: 400">Note: This list is provided as a resource and in
   <span style="font-weight: 400">Security Today: This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Email <a href="mailto:listserv@listserv.gsa.gov">listserv@listserv.gsa.gov</a> with no subject and â€œsubscribe Security-Todayâ€ in the body.</span>
 </li>
 
-<span style="font-weight: 400">Do you know of additional communities that are doing excellent work in the federal digital space?Â <a href="mailto:digitalgov@gsa.gov">Email us</a>.Â </span>
+<span style="font-weight: 400">Do you know of additional communities that are doing excellent work in the federal digital space? <a href="mailto:digitalgov@gsa.gov">Email us</a>. </span>

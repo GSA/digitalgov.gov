@@ -8,9 +8,9 @@ We are a group of federal, state and local government content managers, formerly
 
 ## Join
 
-Join us if you are a government employee working Â for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
+Join us if you are a government employee working  for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
 
-Fill out the short Google form below to subscribe to our listserv. If you have any questions, please contact group Chair,Â [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
+Fill out the short Google form below to subscribe to our listserv. If you have any questions, please contact group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
 <div style="text-align: center">
   <a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
@@ -210,7 +210,7 @@ _**The Multilingual Digital Group also maintains the multilingual [resources](ht
 
 ## Upcoming Events
 
-[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242;Â thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;multilingual&#8217; message=&#8217;There are no upcoming MultilingualÂ events at this time.&#8217;]
+[ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;multilingual&#8217; message=&#8217;There are no upcoming Multilingual events at this time.&#8217;]
 
 &nbsp;
 

@@ -375,7 +375,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Tell Your Agency’s Story—Plainly" href="https://www.digitalgov.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a>� – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a>� (doc)
+      <a title="How to Tell Your Agency’s Story—Plainly" href="https://www.digitalgov.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a> – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a> (doc)
     </td>
   </tr>
   

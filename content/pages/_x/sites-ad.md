@@ -10,7 +10,7 @@ layout: docs
   Want to learn more about Sites.USA.gov?
 </h1>
 
-[**Sites**](https://sites.usa.gov/)Â is designed to enable the rapid deployment of public facing federal government websites* for the purpose of providing public information in a secure and readily accessible environment.
+[**Sites**](https://sites.usa.gov/) is designed to enable the rapid deployment of public facing federal government websites* for the purpose of providing public information in a secure and readily accessible environment.
 
 <img class="  aligncenter wp-image-271052" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/678-x-385-SITES-presentation3.jpg" alt="Sites Get Started" width="522" height="296" />
 
@@ -24,4 +24,4 @@ By providing your contact information, <span style="text-decoration: underline">
 
 * This service is only available to federal agencies for use with public websites. Due to Department of Defense security requirements, Sites can not currently host .mil websites. Sites does not offer an intranet platform.
 
-_[**Sites**](https://sites.usa.gov/)Â is a product of the [Digital Government Division](https://www.digitalgov.gov/about/) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._
+_[**Sites**](https://sites.usa.gov/) is a product of the [Digital Government Division](https://www.digitalgov.gov/about/) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._

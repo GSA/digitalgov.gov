@@ -4,11 +4,11 @@ title: Web Content Managers Listserv
 layout: docs
 ---
 
-The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about theÂ [Web Content Managers Forum](https://www.digitalgov.gov/communities/web-managers-forum/ "Web Content Managers Forum").
+The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about the [Web Content Managers Forum](https://www.digitalgov.gov/communities/web-managers-forum/ "Web Content Managers Forum").
 
 ## How to Join the Listserv
 
-The Forum is open to government employeesÂ with a .gov or .mil email address. Â If youâ€™d like to join the Forum email [Alycia Piazza](mailto:alycia.piazza@gsa.gov). If you are a U.S. government employee, we&#8217;ll automatically subscribe you to the Content ManagersÂ listserv within 2-3 business days.
+The Forum is open to government employees with a .gov or .mil email address.  If youâ€™d like to join the Forum email [Alycia Piazza](mailto:alycia.piazza@gsa.gov). If you are a U.S. government employee, we&#8217;ll automatically subscribe you to the Content Managers listserv within 2-3 business days.
 
 ## How to Send a Message
 
@@ -27,7 +27,7 @@ To verify a message for distribution:
 OR
 
   * Click the link provided in the email message.
-  * The link will appear similar to this: Â &#8220;To APPROVE the message:Â <a href="https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A3042E6C&L=CONTENT-MANAGERS-L" target="_blank">https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=CONTENT-MANAGERS-L</a>&#8220;
+  * The link will appear similar to this:  &#8220;To APPROVE the message: <a href="https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A3042E6C&L=CONTENT-MANAGERS-L" target="_blank">https://listserv.gsa.gov/cgi-bin/wa.exe?OK=A307E2C&L=CONTENT-MANAGERS-L</a>&#8220;
 
 ## General Etiquette
 
@@ -45,7 +45,7 @@ Following are some of the common commands you can use as a subscriber of this li
 
 When using these commands, always:
 
-  * Send the command in an email message addressed to: Â [**listserv@listserv.gsa.gov**](mailto:listserv@listserv.gsa.gov)
+  * Send the command in an email message addressed to:  [**listserv@listserv.gsa.gov**](mailto:listserv@listserv.gsa.gov)
   * Type the command in the body of the message, on one line (not in the subject lineâ€”the subject line should be left blank)
   * Remove any other text from the body of your message, including signature blocks
 
@@ -82,7 +82,7 @@ When using these commands, always:
   
   <tr valign="top">
     <td>
-      Receive digest in MIME format; recommended forÂ <strong>Lotus Notes</strong>Â users
+      Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users
     </td>
     
     <td valign="top" width="193">
@@ -92,7 +92,7 @@ When using these commands, always:
   
   <tr valign="top">
     <td>
-      Receive digest in HTML format; recommended forÂ <strong>MS Outlook</strong>Â users
+      Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users
     </td>
     
     <td valign="top" width="193">
@@ -115,10 +115,10 @@ When using these commands, always:
 
 ## How to Access the Listserv Archive
 
-Members of the CONTENT-MANAGERS-L listserv can access a searchable, browseable online archive of previous messages, and also modify their listserv settings. To access the listserv archives, firstÂ [register a password](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1). After you register, you will receive an auto-confirm email. Follow the instructions in that email to complete your registration and receive a password.
+Members of the CONTENT-MANAGERS-L listserv can access a searchable, browseable online archive of previous messages, and also modify their listserv settings. To access the listserv archives, first [register a password](https://listserv.gsa.gov/cgi-bin/wa.exe?GETPW1). After you register, you will receive an auto-confirm email. Follow the instructions in that email to complete your registration and receive a password.
 
-Once you have your password, you canÂ [login to the archive](https://listserv.gsa.gov/cgi-bin/wa.exe?LOGON)Â to search the listserv archives by keyword, browse the listserv archives by month, or modify your listserv subscription settings.
+Once you have your password, you can [login to the archive](https://listserv.gsa.gov/cgi-bin/wa.exe?LOGON) to search the listserv archives by keyword, browse the listserv archives by month, or modify your listserv subscription settings.
 
 ## Listserv Questions?
 
-Please email the listserv managers,Â <a title="Mark Kaprow" href="mailto:Mark.Kaprow@gsa.gov" target="_blank">Mark Kaprow</a>Â orÂ <a title="Rachel Flagg" href="mailto:rachel.flagg@gsa.gov" target="_blank">Rachel Flagg</a>.
+Please email the listserv managers, <a title="Mark Kaprow" href="mailto:Mark.Kaprow@gsa.gov" target="_blank">Mark Kaprow</a> or <a title="Rachel Flagg" href="mailto:rachel.flagg@gsa.gov" target="_blank">Rachel Flagg</a>.

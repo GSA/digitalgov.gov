@@ -4,9 +4,9 @@ title: Government Usability Case Studies
 layout: docs
 ---
 
-This list of government usability case studiesÂ shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers.
+This list of government usability case studies shows how government sites, mobile apps and other products become more effective, more coherent and more usable by focusing on the User Experience of their customers.
 
-Want to be featured here?Â JustÂ [email us](mailto:govux@gsa.gov "Click here to email govux@gsa.gov").
+Want to be featured here? Just [email us](mailto:govux@gsa.gov "Click here to email govux@gsa.gov").
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-half first">
@@ -558,7 +558,7 @@ Want to be featured here?Â JustÂ [email us](mailto:govux@gsa.gov "Click here to 
   </div>
   
   <div class="one-half">
-    <strong>General Services AdministrationÂ </strong><br /> <a title="GSA FedRAMP Test Results" href="https://www.digitalgov.gov/2012/10/15/gsa-fedramp-test-results/">FedRAMP &#8211; Usability Case Study</a></p> 
+    <strong>General Services Administration </strong><br /> <a title="GSA FedRAMP Test Results" href="https://www.digitalgov.gov/2012/10/15/gsa-fedramp-test-results/">FedRAMP &#8211; Usability Case Study</a></p> 
     
     <ul>
       <li>
@@ -677,7 +677,7 @@ Want to be featured here?Â JustÂ [email us](mailto:govux@gsa.gov "Click here to 
   </div>
   
   <div class="one-half">
-    <strong>NationalÂ Oceanic and Atmospheric Administration</strong><br /> <a title="Weather.gov Test Results" href="https://www.digitalgov.gov/2012/12/06/weather-gov-test-results/">Weather.gov &#8211; Usability Case Study</a></p> 
+    <strong>National Oceanic and Atmospheric Administration</strong><br /> <a title="Weather.gov Test Results" href="https://www.digitalgov.gov/2012/12/06/weather-gov-test-results/">Weather.gov &#8211; Usability Case Study</a></p> 
     
     <ul>
       <li>

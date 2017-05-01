@@ -6,7 +6,7 @@ layout: docs
 
 The DigitalGov User Experience Program presents to federal audiences by phone, webinar and in person. We cover a variety of topics, including:
 
-  * UserÂ Centered Design and Usability
+  * User Centered Design and Usability
   * Best (and Worst) Practices on Government Websites
   * How to Improve Federal Digital Services
   * and more
@@ -23,15 +23,15 @@ Potential audiences include:
   * Developers
   * User Experience staff
 
-To invite the DigitalGov User Experience Program team to speak at your agency, please emailÂ <govux@gsa.gov>.
+To invite the DigitalGov User Experience Program team to speak at your agency, please email <govux@gsa.gov>.
 
 ### Our Recorded Webinars
 
-**User Centered DesignÂ** (November 2013)
+**User Centered Design** (November 2013)
 
 [youtube https://www.youtube.com/watch?v=GwBBtTkUAcA?feature=player_embedded]
 
-**Usability Testing and Debriefing Best Practices**Â (March Â 2012)
+**Usability Testing and Debriefing Best Practices** (March  2012)
 
 [youtube https://www.youtube.com/watch?v=n8d8AHQ-lwE?feature=player_embedded]
 
