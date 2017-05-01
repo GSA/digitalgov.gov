@@ -27,6 +27,11 @@ exclude:
   - gulpfile.js
   - node_modules
   - README.md
+  - content/about/
+  - content/services/
+  - content/communities/
+  - content/resources/
+  - content/pages/1/
   - content/pages/2/
   - content/pages/3/
   - content/pages/_x/

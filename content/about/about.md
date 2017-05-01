@@ -4,6 +4,7 @@ title: About
 layout: docs
 ---
 
+
 Welcome to DigitalGov, let us tell you a little bit about what we're working on...
 
 There's an innovation movement in government that sees a need to have centralized resources to help government be more innovative and digitally-focused. Agencies need:
@@ -21,7 +22,6 @@ We believe DigitalGov should set the example for how government **learns**, **bu
 Our job is also to know everything about the government teams running digital services in the federal government - their successes and wins, what their challenges are, where they are blocked or need additional support.
 
 We want to amplify those successes and offer guidance to overcome the blockers that prevent effective government digital services.
-
 
 ## The Team
 
