@@ -1,5 +1,6 @@
 ---
 permalink: /join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/
+
 title: How Open Opportunities Works
 layout: docs
 ---
@@ -38,5 +39,5 @@ Opportunities range from editing a press release or testing a feature on a websi
   * We’ll send you a link to a short survey to find out what went well and how we can improve.
 
 **Questions? Comments?**
-  
+
 If you have any questions or need clarification [send DigitalGov an email](mailto:digitalgov@gsa.gov) with the words Open Opportunities in the subject line.

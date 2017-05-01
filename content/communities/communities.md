@@ -2,6 +2,11 @@
 title: Communities
 permalink: /communities/
 layout: docs
+
+redirect_from:
+  - /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/
+  - /communities/web-managers-forum/member-spotlight-scott-horvath-usgs/
+
 ---
 
 Communities unite federal teams with over 12,000 memberships across 16 active mission areas—the largest and most active inter-agency network of transformative federal government managers—as critical mission hubs that provide a platform for sharing, developing and implementing strategies.

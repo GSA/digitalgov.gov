@@ -1,14 +1,13 @@
 ---
+permalink: /style-guide/child-page/
+
 title: Child Page
-date: 2017-04-09T11:52:11+00:00
-author: admin
 layout: docs
-guid: http://localhost/wp/?page_id=7
-permalink: /sample-page/child-page/
 ---
+
 <div class="media w500">
   <img class="img-responsive size-full wp-image-9" src="http://localhost/wp/wp-content/uploads/2017/04/cat-mica.jpg" alt="Mical alt" srcset="http://localhost/wp/wp-content/uploads/2017/04/cat-mica.jpg 500w, http://localhost/wp/wp-content/uploads/2017/04/cat-mica-300x225.jpg 300w, http://localhost/wp/wp-content/uploads/2017/04/cat-mica-133x100.jpg 133w" sizes="(max-width: 500px) 100vw, 500px" />
-  
+
   <p class="caption">
     Mica
   </p>
