@@ -13,7 +13,7 @@ main:
       {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
       {% if sidenav %}
       <div class="col-xs-12 col-sm-3">
-        {% include site-tree.html context="/" %}
+        <!-- {% include site-tree.html context="/" %} -->
         {% include components/sidenav.html links=sidenav %}
 
       </div>
