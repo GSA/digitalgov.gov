@@ -10,3 +10,4 @@ redirect_from:
 ---
 
 This is the homepage.
+{% include site-tree.html context="/" %}
