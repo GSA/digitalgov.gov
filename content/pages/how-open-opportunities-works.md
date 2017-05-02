@@ -3,6 +3,7 @@ permalink: /join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunit
 
 title: How Open Opportunities Works
 layout: docs
+
 ---
 
 **Help Build a 21st Century Workforce One Task at a Time**
