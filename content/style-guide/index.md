@@ -3,15 +3,17 @@ title: Style Guide
 permalink: /style-guide/
 
 layout: docs
-sidenav: docs
-subnav:
-  - text: Section one
+
+sidenav:
+  - text: Apples
     href: '#section-one'
-  - text: Section two
+  - text: Oranges
     href: '#section-two'
+
 ---
 
-# H1 Heading
+
+# H1 Headings
 ## H2 Heading
 ### H3 Heading
 #### H4 Heading
