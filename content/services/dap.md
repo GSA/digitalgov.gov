@@ -2,10 +2,25 @@
 permalink: /services/dap/
 title: 'DAP: Digital Analytics Program'
 layout: docs
+
+sidenav:
+  - text: Overview
+    href:
+  - text: Benefits and Features
+    href:
+  - text: How to Participate
+    href:
+  - text: Implementation
+    href:
+  - text: Usage Guidance & Templates
+    href:
+  - text: FAQs
+    href:
+  - text: Contact us
+    href:
 ---
 
-&nbsp;
-
+# Digital Analytics Program 
 <img class="aligncenter size-full wp-image-263792" src="https://www.digitalgov.gov/files/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." width="600" height="350" />
 
 The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>. On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.
@@ -13,15 +28,15 @@ The Digital Analytics Program (DAP) offers advanced, easy Web analytics to feder
 The program consists of:
 
   * A no-cost, federal-wide Web analytics tool
-  * Training 
+  * Training
       * Past recorded trainings on our <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P" target="_blank">YouTube channel</a>
       * Future training found on our [events page](https://www.digitalgov.gov/events/)
-  * Implementation support 
+  * Implementation support
       * [DAP FAQs](https://www.digitalgov.gov/services/dap/common-questions-about-dap-faq/)
       * [Implementation instructions](https://www.digitalgov.gov/services/dap/analytics-tool-instructions/)
       * Most recent code available in the <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">DAP Github repo</a>
   * [On-going help-desk](mailto:dap@support.digitalgov.gov) and data reporting support
-  * A public window into some DAP data at [analytics.usa.gov](https://analytics.usa.gov) 
+  * A public window into some DAP data at [analytics.usa.gov](https://analytics.usa.gov)
       * Want to fork our dashboard? See our [Github repo](https://github.com/18F/analytics.usa.gov)
   * [Digital Metrics guidance and best practices](https://www.digitalgov.gov/services/dap/dap-digital-metrics-guidance-and-best-practices/ "DAP: Digital Metrics Guidance and Best Practices")
 
