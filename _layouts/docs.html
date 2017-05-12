@@ -8,16 +8,16 @@ main:
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-9">
+        <h1>{{ page.title }}</h1>
         {{ content | emojify }}
       </div>
-      {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-      {% if sidenav %}
-      <div class="col-xs-12 col-sm-3">
-        <!-- {% include site-tree.html context="/" %} -->
-        {% include components/sidenav.html links=sidenav %}
 
+      <div class="col-xs-12 col-sm-3">
+        {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+        {% if sidenav %}
+        {% include components/sidenav.html links=sidenav %}
+        {% endif %}
       </div>
-      {% endif %}
     </div>
   </div>
 </main>
