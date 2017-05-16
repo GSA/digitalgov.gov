@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/GSA/digital.gov-resources#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.11",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.0.3",
     "gulp-notify": "^3.0.0",
