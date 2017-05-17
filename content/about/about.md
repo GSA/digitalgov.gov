@@ -8,8 +8,6 @@ authors: Jeremy
 tags: red, blue, green
 ---
 
-# About Us
-
 Welcome to DigitalGov, let us tell you a little bit about what we're working on...
 
 There's an innovation movement in government that sees a need to have centralized resources to help government be more innovative and digitally-focused. Agencies need:
