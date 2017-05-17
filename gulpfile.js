@@ -8,37 +8,38 @@ var paths = {
  js: ['assets/js/main.js'],
 };
 
+var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
+var messages = {
+    jekyllBuild: 'Rebuilding incrementally...',
+    jekyllBuildComplete: 'Rebuilding complete site...'
+};
+
 const browserSync = require('browser-sync').create();
 const siteRoot = '_site';
 
 
-// Running Jekyll via Gulp
-// via https://aaronlasseigne.com/2016/02/03/using-gulp-with-jekyll/
-gulp.task('jekyll', () => {
-  const jekyll = child.spawn('jekyll', ['build',
-    '--watch',
-    '--incremental',
-    '--drafts'
-  ]);
-
-  const jekyllLogger = (buffer) => {
-    buffer.toString()
-      .split(/\n/)
-      .forEach((message) => gutil.log('Jekyll: ' + message));
-  };
-  notify({
-    title: 'Done!',
-    message: "<%= file.relative %>",
-    // 'sound': 'Hero' //Look in /System/Library/Sounds for other sounds
-    'sound': 'Pop'
-  });
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
+gulp.task('jekyll-build', function (done) {
+    browserSync.notify(messages.jekyllBuild);
+    return child.spawn( jekyll , ['build', '--incremental', '--drafts'], {stdio: 'inherit'})
+        .on('close', done);
 });
 
-gulp.task('serve', () => {
+gulp.task('jekyll-build-complete', function (done) {
+    browserSync.notify(messages.jekyllBuildComplete);
+    return child.spawn( jekyll , ['build', '--drafts'], {stdio: 'inherit'})
+        .on('close', done);
+});
+
+gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
+    browserSync.reload();
+});
+
+gulp.task('jekyll-rebuild-complete', ['jekyll-build-complete'], function () {
+    browserSync.reload();
+});
+
+gulp.task('serve', ['jekyll-build'], function() {
   browserSync.init({
-    files: [siteRoot + '/**'],
     port: 4000,
     server: {
       baseDir: siteRoot
@@ -46,11 +47,24 @@ gulp.task('serve', () => {
   });
 });
 
+
 // // Gulp watch
 // gulp.task('watch', function(){
-//   gulp.watch('assets/scss/*.scss', ['sass']); 
+//   gulp.watch('assets/scss/*.scss', ['sass']);
 //   gulp.watch('assets/scss/*/*.scss', ['sass']);
 //   gulp.watch('assets/js/*.js', ['jshint']);
 // })
 
-gulp.task('default', ['jekyll', 'serve']);
+gulp.task('watch', function () {
+    gulp.watch([
+      '_includes/**/*',
+      '_layouts/**/*',
+      '_posts/**/*',
+      'content/**/*'
+    ], ['jekyll-rebuild']);
+    gulp.watch([
+      '_data/**/*'
+    ], ['jekyll-rebuild-complete']);
+});
+
+gulp.task('default', ['serve', 'watch']);

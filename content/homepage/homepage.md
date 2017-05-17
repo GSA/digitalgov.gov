@@ -9,5 +9,5 @@ redirect_from:
 
 ---
 
-This is the homepage.
+This is the homepage. Foo! Bar!
 {% include site-tree.html context="/" %}
