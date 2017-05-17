@@ -2,8 +2,13 @@
 permalink: /about/
 layout: docs
 
-title: About
+title: About DigitalGov!
+sub-head: About DigitalGov!
+authors: Jeremy
+tags: red, blue, green
 ---
+
+# About Us
 
 Welcome to DigitalGov, let us tell you a little bit about what we're working on...
 
