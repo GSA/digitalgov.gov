@@ -31,20 +31,45 @@ gulp.task('jekyll-build-complete', function (done) {
 });
 
 gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
-    browserSync.reload();
+  return gulp.src("/")
+    .pipe(notify({
+      "title": "digital.gov",
+      "subtitle": "Incremental build finished.",
+      "message": "Project reloaded.",
+      "sound": "Pop" // case sensitive
+    }))
+    .pipe(browserSync.stream());
 });
 
 gulp.task('jekyll-rebuild-complete', ['jekyll-build-complete'], function () {
-    browserSync.reload();
+  return gulp.src("/")
+    .pipe(notify({
+      "title": "digital.gov",
+      "subtitle": "Complete build finished.",
+      "message": "Project reloaded.",
+      "sound": "Pop" // case sensitive
+    }))
+    .pipe(browserSync.stream());
 });
 
-gulp.task('serve', ['jekyll-build'], function() {
+gulp.task('serve', ['jekyll-build-complete'], function() {
   browserSync.init({
     port: 4000,
     server: {
       baseDir: siteRoot
     }
   });
+});
+
+gulp.task('jekyll-first-build', ['serve'], function () {
+  return gulp.src("/")
+    .pipe(notify({
+      "title": "digital.gov",
+      "subtitle": "Initial build finished.",
+      "message": "Project loaded at localhost:4000.",
+      "sound": "Pop" // case sensitive
+    }))
+    .pipe(browserSync.stream());
 });
 
 
@@ -67,4 +92,4 @@ gulp.task('watch', function () {
     ], ['jekyll-rebuild-complete']);
 });
 
-gulp.task('default', ['serve', 'watch']);
+gulp.task('default', ['jekyll-first-build', 'watch']);
