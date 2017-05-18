@@ -9,7 +9,7 @@ Communities unite federal teams with over 12,000 memberships across 16 active mi
 
 Their contributions are limitless in their impact, including the introduction of citizen voice platforms like [Yelp for public services](https://www.digitalgov.gov/2015/08/07/five-star-customer-experience-in-public-service-with-yelp/) and [Artificial Intelligence for customer service](https://www.digitalgov.gov/event/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government/), the support of more than [700 prizes and competitions](https://www.challenge.gov/list/), inter-Community platforms like [the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.uf6fsnw2g), development of the [U.S. Public Participation Playbook](https://participation.usa.gov/) and other resources for [Cyber-Security](https://www.digitalgov.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/) and [Accessibility for persons with Disabilities](https://www.digitalgov.gov/resources/improving-the-accessibility-of-social-media-in-government/), and [mobile products](https://www.digitalgov.gov/services/mobile-application-testing-program/) that put services in the hands of citizens.
 
-## Communities Objectives
+### Communities Objectives
 
   * Collaborative, user-centered design of inter-agency programs and shared resources
   * Compliance and participatory input in policies and guidance
@@ -18,7 +18,7 @@ Their contributions are limitless in their impact, including the introduction of
   * Sharing of new best practices, with equal access to the best information available
   * Implementation of strategies with the White House DigitalGov University and others
 
-## Communities Roster
+### Communities Roster
 
 **Agile/Lean**: increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team efficiency and customer satisfaction while reducing project risk and cost.
 

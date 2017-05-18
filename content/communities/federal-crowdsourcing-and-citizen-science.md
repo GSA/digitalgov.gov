@@ -10,32 +10,26 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) wor
 
 <div class="media w400">
   <img class="img-responsive size-full wp-image-313462" src="https://www.digitalgov.gov/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." />
-  
+
   <p class="caption">
   </p>
 </div>
 
-## Learn More
+### Learn More
 
 The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
-<div style="text-align: center">
-  <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
-</div>
+<a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
 For more information or for meeting location and call-in details, please contact:
 
-<p style="padding-left: 30px">
-  <a href="mailto:Benforado.Jay@epa.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
-</p>
+<a href="mailto:Benforado.Jay@epa.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
 
-<p style="padding-left: 30px">
-  <a href="mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
-</p>
+<a href="mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 
 Our community meets on the last Thursday of every month from 2:30 &#8211; 4:30 pm, hosted by member agencies.
 
-## What We Do
+### What We Do
 
 As affiliates of federal agencies, we seek to expand and improve the U.S. government’s use of crowdsourcing, citizen science, and similar public participation techniques for the purpose of enhancing agency mission, scientific, and societal outcomes.
 
@@ -65,18 +59,16 @@ The _Open Government National Action Plan_ committed the Federal government to �
 
 The General Services Administration (GSA) partnered with the Wilson Center to launch [citizenscience.gov](https://www.citizenscience.gov/), a new central hub for citizen science and crowdsourcing initiatives in the public sector. The new site provides information, resources, and tools for government personnel and others actively engaged in or looking to participate in citizen science and crowdsourcing projects. In addition to information about CCS community activities, citizenscience.gov features a searchable catalog of federally supported citizen science projects and access to the toolkit to assist with designing and maintaining projects.The catalog was developed in response to a September 2015 [memorandum](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from OSTP.
 
-## Leadership and History
+### Leadership and History
 
 The CCS community was founded in 2012 by Lea Shanley (co-chair Emeritus). Five people came to the first meeting; the group has since expanded to almost 300 members. Current leadership includes
 
 **CCS Co-Chairs (as of 4/13/2016):**
 
-<p style="padding-left: 30px">
-  <a href="mailto:Benforado.Jay@epa.gov">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)<br /> <a href="mailto:sophialiu@usgs.gov">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
-</p>
+
+<a href="mailto:Benforado.Jay@epa.gov">Jay Benforado</a>, Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)<br /> <a href="mailto:sophialiu@usgs.gov">Sophia B. Liu</a>, Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
+
 
 **CCS Steering Committee (as of 4/13/2016):**
 
-<p style="padding-left: 30px">
-  Bill Brantley, U.S. Patent and Trade Office (PTO)<br /> Ben Butler, Forest Service (USFS)<br /> Jennifer Couch, National Institutes of Health (NIH)<br /> Ruthanna Gordon, contractor, Intelligence Advanced Research Projects Agency (IARPA)<br /> Amy Kaminski, NASA<br /> Amanda Kaufman, EPA ORISE fellow<br /> Ellen McCallie, National Science Foundation (NSF)<br /> Alison Parker, EPA ORISE fellow<br /> Holli Riebeek, NASA
-</p>
+Bill Brantley, U.S. Patent and Trade Office (PTO)<br /> Ben Butler, Forest Service (USFS)<br /> Jennifer Couch, National Institutes of Health (NIH)<br /> Ruthanna Gordon, contractor, Intelligence Advanced Research Projects Agency (IARPA)<br /> Amy Kaminski, NASA<br /> Amanda Kaufman, EPA ORISE fellow<br /> Ellen McCallie, National Science Foundation (NSF)<br /> Alison Parker, EPA ORISE fellow<br /> Holli Riebeek, NASA
