@@ -16,6 +16,7 @@
 .single .entry{
   margin-bottom: 80px;
 }
+.guide,
 .entry{
   h1.head{
     margin: 0 0 15px 0;
@@ -36,6 +37,10 @@
       text-decoration: none;
       color: $color-primary;
     }
+  }
+
+  .blurb{
+    font-size: 24px;
   }
 
   .byline{
