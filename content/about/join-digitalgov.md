@@ -1,12 +1,16 @@
 ---
-permalink: /join-digitalgov/
-title: Join DigitalGov
+permalink: /join/
 layout: docs
+
+title: Join Digital.gov
+
+redirect_from:
+  - /join-digitalgov/
 ---
 
 Here, on DigitalGov, you can make government services and information better by sharing your tales, talents, and time. We know there&#8217;s a lot of innovation going on in agencies because we&#8217;ve seen it. We&#8217;ve seen the fruits of your experiments, read your strategies and RFPs, and watched you try new approaches to old problems. These are stepping stones, ladders, and accelerators for other agencies.
 
-## How can I contribute?
+### How can I contribute?
 
   * [**Send us your article ideas, pitch your story, or email your presentation** ideas](#guidelines "To send your article ideas, pitch your story, or email your idea for a presentation contact us").
   * [**Expand your skills** by working on digital gov&#8217;t projects](https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities in DigitalGov")! (For feds with .gov or .mil email accounts only).
@@ -15,7 +19,7 @@ Here, on DigitalGov, you can make government services and information better by 
   * [**Subscribe** to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
   * **Share! Share! Share** Forward the newsletter. Tweet an article. Post on Facebook or LinkedIn. Tell your colleagues and build the DigitalGov network.
 
-## WIIFM?
+### WIIFM?
 
 What&#8217;s in it for you?
 
@@ -26,9 +30,7 @@ What&#8217;s in it for you?
   * Connect with other digital government innovators.
   * Earn badges!
 
-<h2 id="guidelines" style="padding-top: 50px">
-  Article guidelines
-</h2>
+### Article guidelines
 
 What types of articles are we looking for? We want posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public. It&#8217;s important to have a government angle. Your experiences—successes and less than successes—and your opinions on how to implement DigitalGov are valuable. This can accelerate time to change, leapfrogging experiences and creating efficiencies through sharing.
 

@@ -1,5 +1,6 @@
 title: digital.gov
 email: DigitalGov@gsa.gov
+url: /
 
 twitter_username: digitalgov
 # github_username:  18F
@@ -29,7 +30,7 @@ exclude:
   - README.md
   # - content/about/
   # - content/services/
-  # - content/communities/
+  - content/communities/_x/
   # - content/resources/
   - content/resources/1/
   - content/resources/2/
@@ -39,3 +40,4 @@ exclude:
   - content/pages/3/
   - content/pages/_x/
   - content/un-sorted/
+  - content/pages/_x/
