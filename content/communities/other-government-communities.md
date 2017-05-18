@@ -1,7 +1,8 @@
 ---
 permalink: /communities/other-government-communities/
-title: Other Government Communities
 layout: docs
+
+title: Other Government Communities
 ---
 
 _<span style="font-weight: 400">Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA.</span>_

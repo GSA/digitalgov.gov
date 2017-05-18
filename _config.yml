@@ -30,7 +30,7 @@ exclude:
   - README.md
   # - content/about/
   # - content/services/
-  # - content/communities/
+  - content/communities/_x/
   # - content/resources/
   - content/resources/1/
   - content/resources/2/
@@ -40,3 +40,4 @@ exclude:
   - content/pages/3/
   - content/pages/_x/
   - content/un-sorted/
+  - content/pages/_x/
