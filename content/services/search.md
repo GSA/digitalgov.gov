@@ -1,7 +1,8 @@
 ---
 permalink: /services/search/
-title: DigitalGov Search
 layout: docs
+
+title: DigitalGov Search
 ---
 
 Use DigitalGov Search (formerly USASearch) to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.

@@ -1,16 +1,15 @@
 ---
 permalink: /services/u-s-digital-registry/
-title: U.S. Digital Registry
 layout: docs
----
 
-<img class="aligncenter size-full wp-image-380251" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-US-Digitial-registry-top_banner_public.jpg" alt="Image of hand holding a mobile phone displaying a social media check mark for verification." width="600" height="350" />
+title: U.S. Digital Registry
+---
 
 Whether for access to emergency, financial or education public services, users need to trust they are engaging with official U.S. government digital accounts.
 
 The [U.S. Digital Registry](https://usdigitalregistry.digitalgov.gov/) serves as the authoritative resource for agencies, citizens and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites, and help prevent exploitation from unofficial sources, phishing scams or malicious entities.
 
-## How to Access the U.S. Digital Registry
+### How to Access the U.S. Digital Registry
 
 [Register and Manage Accounts](https://usdigitalregistry.digitalgov.gov/admin){.button}
 

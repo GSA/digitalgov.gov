@@ -1,14 +1,13 @@
 ---
 permalink: /services/sites-usa-gov/
-title: Sites
 layout: docs
----
 
-<img class="aligncenter size-full wp-image-271042" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-392-Sites.jpg" alt="Sites dot U-S-A dot gov" width="600" height="392" />
+title: Sites
+---
 
 Sites lets federal agencies build websites using a self-service content management platform. It’s a hosted shared service provided by the Digital Services Innovation Center.
 
-  * ****CMS meets the Digital Strategy**.** Built on an open-source platform that runs millions of sites (WordPress) that meets federal requirements for security and compliance. Includes features to help you tag and structure your content, as well as search and common analytics.
+  * **CMS meets the Digital Strategy**. Built on an open-source platform that runs millions of sites (WordPress) that meets federal requirements for security and compliance. Includes features to help you tag and structure your content, as well as search and common analytics.
   * **Flexible**. Use your own graphics. Upload videos and photos. Manage authors and editors. Choose from different themes and plug-ins. Import your content and export it later. All to meet your agency mission.
   * **Deliver Anytime Anywhere**. Mobile themes mean your users can get your content on phones, tablets and desktops.
 
