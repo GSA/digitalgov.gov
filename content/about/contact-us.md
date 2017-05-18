@@ -1,7 +1,8 @@
 ---
 permalink: /contact-us/
-title: Contact Us
 layout: docs
+
+title: Contact Us
 ---
 
 While we migrate DigitalGov.gov to a new host, the website will remain up and you can still [email us](mailto:digitalgov@gsa.gov) about:
