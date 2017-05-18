@@ -29,7 +29,7 @@ exclude:
   - README.md
   # - content/about/
   # - content/services/
-  - content/communities/_x
+  - content/communities/_x/
   # - content/resources/
   - content/resources/1/
   - content/resources/2/
