@@ -65,8 +65,8 @@ $alerts: map-merge($usa-alerts, $usa-custom-alerts);
 @each $name, $bgcolor in $alerts {
   .usa-alert-#{$name} {
     background-color: $bgcolor;
-    background-image: url('#{$image-path}/alerts/#{$name}.png');
-    background-image: url('#{$image-path}/alerts/#{$name}.svg');
+    background-image: url('#{$uswds-img-path}/alerts/#{$name}.png');
+    background-image: url('#{$uswds-img-path}/alerts/#{$name}.svg');
   }
 }
 

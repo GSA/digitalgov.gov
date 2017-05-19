@@ -112,8 +112,8 @@ select {
   -webkit-appearance: none;
   appearance: none;
   background-color: $color-white;
-  background-image: url('#{$image-path}/arrow-down.png');
-  background-image: url('#{$image-path}/arrow-down.svg');
+  background-image: url('#{$uswds-img-path}/arrow-down.png');
+  background-image: url('#{$uswds-img-path}/arrow-down.svg');
   background-position: right 1.3rem center;
   background-repeat: no-repeat;
   background-size: 1.3rem;
@@ -201,8 +201,8 @@ legend {
 
 [type=checkbox]:checked + label::before,
 [type=checkbox]:checked:disabled + label::before {
-  background-image: url('#{$image-path}/correct8.png');
-  background-image: url('#{$image-path}/correct8.svg');
+  background-image: url('#{$uswds-img-path}/correct8.png');
+  background-image: url('#{$uswds-img-path}/correct8.svg');
   background-position: 50%;
   background-repeat: no-repeat;
 }

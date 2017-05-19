@@ -3,9 +3,28 @@ var gutil = require('gulp-util');
 var gulp = require('gulp');
 var notify = require("gulp-notify");
 
+var sass = require('gulp-sass'),
+    autoprefixer = require('gulp-autoprefixer'),
+		rename = require('gulp-rename'),
+    cleanCSS = require('gulp-clean-css'),
+    combineMq = require('gulp-combine-mq'),
+    strip = require('gulp-strip-css-comments'),
+    size = require('gulp-size'),
+    browserSync = require('browser-sync').create();
+
+var supportedBrowsers = [
+  	'> 1%',
+  	'Last 2 versions',
+  	'IE 11',
+  	'IE 10',
+  	'IE 9',
+];
+
 var paths = {
- scss: ['_sass/dg'],
- js: ['assets/js/main.js'],
+  scss: '_sass/main.scss',
+  scssDestination: 'assets/css',
+  scssSiteDestination: '_site/assets/css',
+  js: 'assets/js/main.js',
 };
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
@@ -14,7 +33,6 @@ var messages = {
     jekyllBuildComplete: 'Rebuilding complete site...'
 };
 
-const browserSync = require('browser-sync').create();
 const siteRoot = '_site';
 
 
@@ -72,6 +90,39 @@ gulp.task('jekyll-first-build', ['serve'], function () {
     .pipe(browserSync.stream());
 });
 
+gulp.task('sass', function(){
+  return gulp.src(paths.scss)
+    .pipe(sass({
+        outputStyle: 'compact',
+        errLogToConsole: true,
+        quiet: true,
+    }).on('error', sass.logError))
+    .pipe(strip())
+    .pipe(
+      autoprefixer({
+        browsers: supportedBrowsers,
+        cascade: false,
+      })
+    )
+    .pipe(combineMq({
+        beautify: true
+    }))
+    .pipe(cleanCSS({
+      compatibility: 'ie8',
+      level: 2,
+    }))
+    .pipe(rename('main.css'))
+    .pipe(gulp.dest(paths.scssDestination))
+    .pipe(gulp.dest(paths.scssSiteDestination))
+    .pipe(size())
+    .pipe(browserSync.stream())
+    .pipe(notify({
+      "title": "digital.gov",
+      "subtitle": "/css/main.css compiled.",
+      "message": "Project loaded at localhost:4000.",
+      "sound": "Pop" // case sensitive
+    }));
+ });
 
 // // Gulp watch
 // gulp.task('watch', function(){
@@ -81,10 +132,12 @@ gulp.task('jekyll-first-build', ['serve'], function () {
 // })
 
 gulp.task('watch', function () {
+    gulp.watch('_sass/**/*', ['sass']);
     gulp.watch([
       '_includes/**/*',
       '_layouts/**/*',
       '_posts/**/*',
+      'assets/img/**/*',
       'content/**/*'
     ], ['jekyll-rebuild']);
     gulp.watch([
@@ -92,4 +145,4 @@ gulp.task('watch', function () {
     ], ['jekyll-rebuild-complete']);
 });
 
-gulp.task('default', ['jekyll-first-build', 'watch']);
+gulp.task('default', ['jekyll-first-build', 'sass', 'watch']);

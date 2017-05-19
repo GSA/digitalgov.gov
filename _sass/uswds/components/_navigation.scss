@@ -166,22 +166,22 @@
     }
 
     &[aria-expanded=false] { /* stylelint-disable-line selector-no-qualifying-type */
-      background-image: url('#{$image-path}/plus-alt.png');
-      background-image: url('#{$image-path}/plus-alt.svg');
+      background-image: url('#{$uswds-img-path}/plus-alt.png');
+      background-image: url('#{$uswds-img-path}/plus-alt.svg');
       background-repeat: no-repeat;
       background-position: right 0 center;
       background-size: 1rem;
 
       @include media($nav-width) {
-        background-image: url('#{$image-path}/angle-arrow-down.png');
-        background-image: url('#{$image-path}/angle-arrow-down.svg');
+        background-image: url('#{$uswds-img-path}/angle-arrow-down.png');
+        background-image: url('#{$uswds-img-path}/angle-arrow-down.svg');
         background-position: right 1.5rem top 44%;
       }
     }
 
     &[aria-expanded=true] { /* stylelint-disable-line selector-no-qualifying-type */
-      background-image: url('#{$image-path}/minus-alt.png');
-      background-image: url('#{$image-path}/minus-alt.svg');
+      background-image: url('#{$uswds-img-path}/minus-alt.png');
+      background-image: url('#{$uswds-img-path}/minus-alt.svg');
       background-repeat: no-repeat;
       background-position: right 0 center;
       background-size: 1rem;
@@ -189,8 +189,8 @@
       @include media($nav-width) {
         background-color: $color-primary-darkest;
         color: $color-white;
-        background-image: url('#{$image-path}/angle-arrow-down-hover.png');
-        background-image: url('#{$image-path}/angle-arrow-down-hover.svg');
+        background-image: url('#{$uswds-img-path}/angle-arrow-down-hover.png');
+        background-image: url('#{$uswds-img-path}/angle-arrow-down-hover.svg');
         background-position: right 1.5rem top 44%;
 
         &:hover {
@@ -260,8 +260,8 @@
     display: none;
 
     @include media($nav-width) {
-      background-image: url('#{$image-path}/search-alt.png');
-      background-image: url('#{$image-path}/search-alt.svg');
+      background-image: url('#{$uswds-img-path}/search-alt.png');
+      background-image: url('#{$uswds-img-path}/search-alt.svg');
       background-repeat: no-repeat;
       background-position: left center;
       background-size: 2.2rem;

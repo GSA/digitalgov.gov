@@ -155,8 +155,8 @@ input {
 
 .usa-checklist-checked {
   &::before {
-    background-image: url('#{$image-path}/correct9.png');
-    background-image: url('#{$image-path}/correct9.svg');
+    background-image: url('#{$uswds-img-path}/correct9.png');
+    background-image: url('#{$uswds-img-path}/correct9.svg');
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100%;

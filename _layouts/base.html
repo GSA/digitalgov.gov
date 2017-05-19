@@ -5,7 +5,8 @@
   <head>
     {% include meta.html %}
     <!-- Le CSS -->
-    {% include styles.html %}
+    <!-- {% include styles.html %} -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" media="screen">
 
     <!-- Robot Flag -->
     <meta name='robots' content='noindex,follow' />
@@ -27,7 +28,7 @@
     {% include components/search-area.html %}
 
     {{ content }}
-    
+
     {% assign footer = site.data.footer %}
     {% include footer.html %}
     {% include components/scripts.html %}
