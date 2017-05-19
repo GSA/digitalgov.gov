@@ -6,7 +6,7 @@ layout: docs
 
 Structuring a Statement of Work (SOW) for the development or modification of mobile products should be similar to any SOW your government organization issues for IT products and services.
 
-We are providing sample SOW language for the procurement of customer/external-facing mobile products, skills, testing and mobile code sharing. This language is also included in the [RFP-EZ contracting tool](https://www.digitalgov.gov/2013/05/06/cracking-the-mobile-contracting-nut/ "Cracking the Mobile Contracting Nut"). Here are some guidelines for its use.
+We are providing sample SOW language for the procurement of customer/external-facing mobile products, skills, testing and mobile code sharing. This language is also included in the [RFP-EZ contracting tool]({{ site.baseurl }}/2013/05/06/cracking-the-mobile-contracting-nut/ "Cracking the Mobile Contracting Nut"). Here are some guidelines for its use.
 
   1. The sample SOW language is offered as a starting point for agency program managers to adapt to fit their mobile procurement needs.
   2. The language was created by leveraging existing mobile procurements developed by members of the Mobile Innovators Network (link) as well as industry practices for mobile development. Not every agency is the same, but agencies generally were looking for these skills.
@@ -321,7 +321,7 @@ _The Contractor shall provide team resources that will be required to demonstrat
 
 # <a name="Mobile Product Testing"></a>Mobile Product Testing<a name="Testing"></a> {#toc20}
 
-Once an agency builds a mobile product, it needs to test it. Please view these [mobile testing guidelines](https://www.digitalgov.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") for more information on mobile product testing. Here is some Sample SOW Language for mobile product testing.
+Once an agency builds a mobile product, it needs to test it. Please view these [mobile testing guidelines]({{ site.baseurl }}/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") for more information on mobile product testing. Here is some Sample SOW Language for mobile product testing.
   
 **Sample #1**
   

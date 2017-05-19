@@ -19,4 +19,4 @@ In the January 2009 Memo on Transparency and Open Government, President Obama em
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

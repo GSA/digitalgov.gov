@@ -30,4 +30,4 @@ The Children&#8217;s Online Privacy Protection Rule,imposes certain requirements
 
 &nbsp;
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

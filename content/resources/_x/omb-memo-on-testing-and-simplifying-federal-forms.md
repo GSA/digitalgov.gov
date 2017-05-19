@@ -16,4 +16,4 @@ This memo set forth that &#8220;To the extent feasible and appropriate, especial
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

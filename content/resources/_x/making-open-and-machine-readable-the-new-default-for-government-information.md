@@ -37,4 +37,4 @@ Openness in government strengthens our democracy, promotes the delivery of effic
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

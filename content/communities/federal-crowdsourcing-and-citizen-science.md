@@ -19,7 +19,7 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) wor
 
 The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
-<a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
 For more information or for meeting location and call-in details, please contact:
 

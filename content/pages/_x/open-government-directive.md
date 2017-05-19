@@ -15,5 +15,5 @@ The four tenets of this memo are:
 
 ## Related Resources
 
-  * [OMB’s Guidance for Online Use of Web Measurement and Customization Technologies](https://www.digitalgov.gov/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/)
-  * [Social Media, Web Based Technologies, and the Paperwork Reduction Act](https://www.digitalgov.gov/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/)
+  * [OMB’s Guidance for Online Use of Web Measurement and Customization Technologies]({{ site.baseurl }}/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/)
+  * [Social Media, Web Based Technologies, and the Paperwork Reduction Act]({{ site.baseurl }}/resources/social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act/)

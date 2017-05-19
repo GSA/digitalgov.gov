@@ -4,7 +4,7 @@ title: Sites Ad
 layout: docs
 ---
 
-[<img class="aligncenter wp-image-107152" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" width="678" height="107" />](http://www.DigitalGov.gov)
+[<img class="aligncenter wp-image-107152" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" width="678" height="107" />]({{ site.baseurl }}/index.html)
 
 <h1 style="text-align: center">
   Want to learn more about Sites.USA.gov?
@@ -24,4 +24,4 @@ By providing your contact information, <span style="text-decoration: underline">
 
 * This service is only available to federal agencies for use with public websites. Due to Department of Defense security requirements, Sites can not currently host .mil websites. Sites does not offer an intranet platform.
 
-_[**Sites**](https://sites.usa.gov/) is a product of the [Digital Government Division](https://www.digitalgov.gov/about/) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._
+_[**Sites**](https://sites.usa.gov/) is a product of the [Digital Government Division]({{ site.baseurl }}/about/) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._

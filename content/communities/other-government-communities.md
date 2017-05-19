@@ -7,7 +7,7 @@ title: Other Government Communities
 
 _<span style="font-weight: 400">Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA.</span>_
 
-<span style="font-weight: 400">Digital communities of practice come in many stripes. </span>[<span style="font-weight: 400">DigitalGov communities span 10 (and counting) focus areas</span>](https://www.digitalgov.gov/communities/) <span style="font-weight: 400">and have thousands of members, but strong collaborations exist in all corners of government.</span>
+<span style="font-weight: 400">Digital communities of practice come in many stripes. </span>[<span style="font-weight: 400">DigitalGov communities span 10 (and counting) focus areas</span>]({{ site.baseurl }}/communities/) <span style="font-weight: 400">and have thousands of members, but strong collaborations exist in all corners of government.</span>
 
 <span style="font-weight: 400">Here is a list of some communities working in the digital arena:</span>
 

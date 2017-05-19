@@ -413,7 +413,7 @@ The error log indicates the type of problem, the dataset ID, and the dataset tit
   </li>
 </ol>
 
-<span style="font-weight: 400">Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting </span>[<span style="font-weight: 400">documentation</span>](https://www.digitalgov.gov/resources/how-to-get-your-open-data-on-data-gov/)<span style="font-weight: 400">, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.</span>
+<span style="font-weight: 400">Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting </span>[<span style="font-weight: 400">documentation</span>]({{ site.baseurl }}/resources/how-to-get-your-open-data-on-data-gov/)<span style="font-weight: 400">, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.</span>
 
 <ol start="13">
   <li>

@@ -14,7 +14,7 @@ Providing open data as a default through Data.gov is a requirement of the federa
 
 ## How to Participate
 
-Federal agencies looking to publish their datasets on Data.gov should read the detailed guide: [How to get your open data on Data.gov](https://www.digitalgov.gov/resources/how-to-get-your-open-data-on-data-gov/). The Data.gov team works with a designated open data liaison for each agency. Data publishers should consult with their agency’s open data liaison or point of contact to publish datasets on Data.gov.
+Federal agencies looking to publish their datasets on Data.gov should read the detailed guide: [How to get your open data on Data.gov]({{ site.baseurl }}/resources/how-to-get-your-open-data-on-data-gov/). The Data.gov team works with a designated open data liaison for each agency. Data publishers should consult with their agency’s open data liaison or point of contact to publish datasets on Data.gov.
 
 ## Contact Us
 

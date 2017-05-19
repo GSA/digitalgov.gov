@@ -4,7 +4,7 @@ title: 'Fueleconomy.gov &#8211; Extended Case Study'
 layout: docs
 ---
 
-Like any valid business decision, [User Experience](http://www.usability.gov/what-and-why/benefits-of-ucd.html) work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our [Usability Case Studies](https://www.digitalgov.gov/resources/user-experience-program/government-usability-case-studies/). Or see a more complete case study below.
+Like any valid business decision, [User Experience](http://www.usability.gov/what-and-why/benefits-of-ucd.html) work should produce results and demonstrable impact. To see a list of screenshots from websites we&#8217;ve improved, visit the rest of our [Usability Case Studies]({{ site.baseurl }}/resources/user-experience-program/government-usability-case-studies/). Or see a more complete case study below.
 
 ## Case Study: Fueleconomy.gov Mobile Site
 
@@ -50,4 +50,4 @@ The fueleconomy.gov team implemented these and other changes based upon user fee
 
 [<img class="alignleft size-full wp-image-109322" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/fueleconomy-user-experience-improvements-results-2.jpg" alt="Picture showing the increased traffic to fueleconomy.gov as a result of their usability test" width="702" height="617" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/fueleconomy-user-experience-improvements-results-2.jpg)
 
-Users were able to find information on the site, and enjoyed it enough to come back again. Their team was happy, and so were we. See our [Before and After Gallery](https://www.digitalgov.gov/resources/user-experience-program/government-usability-case-studies/) for more screenshots of government products improved by User Experience work.
+Users were able to find information on the site, and enjoyed it enough to come back again. Their team was happy, and so were we. See our [Before and After Gallery]({{ site.baseurl }}/resources/user-experience-program/government-usability-case-studies/) for more screenshots of government products improved by User Experience work.

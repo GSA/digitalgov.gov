@@ -11,11 +11,11 @@ layout: docs
 ## Related Resources:
 
   * [PLAIN&#8217;s Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
-  * [Plain Writing Basics](https://www.digitalgov.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/)
-  * [Plain Language Web Writing Tips](https://www.digitalgov.gov/resources/plain-language-web-writing-tips/)
+  * [Plain Writing Basics]({{ site.baseurl }}/2014/04/16/how-to-tell-your-agencys-story-plainly/)
+  * [Plain Language Web Writing Tips]({{ site.baseurl }}/resources/plain-language-web-writing-tips/)
 
 * * *
 
 &nbsp;
 
-See all [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See all [DigitalGov Resources]({{ site.baseurl }}/resources/)

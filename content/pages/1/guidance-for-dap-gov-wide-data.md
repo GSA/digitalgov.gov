@@ -4,16 +4,16 @@ title: Guidance for DAP Gov-Wide Data
 layout: docs
 ---
 
-On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all [Digital Analytics Program (DAP)](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program") data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s profile/view, but all of the participating agencies&#8217; views, as well as the government-wide main roll-up profile.
+On August 17th, Steve VanRoekel, U.S. Chief Information Officer, sent a memo to the CIO Council that stated beginning Aug 29, 2014, access to all [Digital Analytics Program (DAP)]({{ site.baseurl }}/services/dap/ "DAP: Digital Analytics Program") data government-wide will be rolled out to all participating DAP agency users. That means that DAP users will have access not only to their specific agency&#8217;s profile/view, but all of the participating agencies&#8217; views, as well as the government-wide main roll-up profile.
 
 As the memo stated, &#8220;opening the DAP government-wide data will let participating agencies see other agency’s public-facing website analytics, gain valuable knowledge about shared customers, benchmark against similar agencies, and, most importantly, engage in collaboration and exchange lessons learned.&#8221;
 
 ## DAP Gov-Wide Access Usage Information
 
   * Will there be training on how to best leverage the gov-wide data under DAP? 
-      * Yes. We plan on hosting ongoing training for all DAP users to demonstrate how the government-wide reporting templates work, and discuss the authorization of government-wide data in general. Trainings are posted on [DigitalGov.gov](https://www.digitalgov.gov/events/), [DAP User Online Community on Yammer](https://www.yammer.com/dapusergrouponlineforum/), and communicated to DAP users via the DAP listserv.
+      * Yes. We plan on hosting ongoing training for all DAP users to demonstrate how the government-wide reporting templates work, and discuss the authorization of government-wide data in general. Trainings are posted on [DigitalGov.gov]({{ site.baseurl }}/events/), [DAP User Online Community on Yammer](https://www.yammer.com/dapusergrouponlineforum/), and communicated to DAP users via the DAP listserv.
   * Can I talk publicly about other agencies&#8217; data? 
-      * No. Please see the [DAP User Agreement](https://www.digitalgov.gov/services/dap/common-questions-about-dap-faq/#part-7).
+      * No. Please see the [DAP User Agreement]({{ site.baseurl }}/services/dap/common-questions-about-dap-faq/#part-7).
   * Can I use analytics data from other agencies’ websites to inform changes/modifications to my agency’s websites? 
       * Yes. The goal of the DAP user access to the government-wide reporting is to allow everyone to use the data to create better and more engaging digital experiences for the public.
   * Based on data I see in the government-wide reporting, can I contact other agencies to partner or coordinate programs/online content? 

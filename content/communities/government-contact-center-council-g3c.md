@@ -10,7 +10,7 @@ The G3C is an inter-agency group of contact center directors and managers with o
 
 Stay on the cutting edge of  government contact center news, ideas, best practices, and the latest in contact center technology.
 
-<a class="button" href="mailto:tim.cossairt@tsa.dhs.gov">Join the G3C</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="mailto:tim.cossairt@tsa.dhs.gov">Join the G3C</a> or <a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
 ### About the Council
 

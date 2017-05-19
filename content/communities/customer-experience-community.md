@@ -12,4 +12,4 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
 
 <a class="button" href="https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform">Sign-Up Form</a> or <a class="button" href="mailto:shentae.hilbert@ssa.gov?subject=Subscribe to CX-COP">Join via Email</a>
 
-<a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>

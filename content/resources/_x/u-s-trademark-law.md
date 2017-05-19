@@ -18,4 +18,4 @@ United States trademark law is mainly governed by the Lanham Act. &#8220;Common 
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

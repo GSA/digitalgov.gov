@@ -21,6 +21,6 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 * * *
 
-<span style="font-weight: 400">See more </span>[<span style="font-weight: 400">DigitalGov Resources</span>](https://www.digitalgov.gov/resources/)
+<span style="font-weight: 400">See more </span>[<span style="font-weight: 400">DigitalGov Resources</span>]({{ site.baseurl }}/resources/)
 
 &nbsp;

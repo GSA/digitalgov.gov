@@ -5,7 +5,7 @@ layout: docs
 title: Tester Information for the Federal Crowdsource Mobile Testing Program
 ---
 
-[<img class="alignright size-full wp-image-102342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." width="300" height="210" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program](https://www.digitalgov.gov/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
+[<img class="alignright size-full wp-image-102342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." width="300" height="210" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)Armed with only a mobile device, Federal volunteer mobile product testers provide a valuable service to federal agency mobile development efforts through the [Crowdsource Mobile Testing Program]({{ site.baseurl }}/services/mobile-application-testing-program/ "Federal CrowdSource Mobile Testing Program"). Volunteer testers contribute 1-2 hours per test cycle checking out the latest federal mobile sites and logging feedback into GitHub.
 
 In return, testers
 
@@ -20,7 +20,7 @@ You can find information on the current test cycle and previous test cycle docum
 
 Prior to a test cycle, volunteer testers should review the following information:
 
-  * [Mobile Product Compatibility and Functional Testing 101](https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functional-testing-101/ "Mobile Product Compatibility and Functional Testing 101")
+  * [Mobile Product Compatibility and Functional Testing 101]({{ site.baseurl }}/2013/11/21/mobile-product-compatibility-and-functional-testing-101/ "Mobile Product Compatibility and Functional Testing 101")
 
 #### Previous Test Cycle Documentation
 
@@ -29,6 +29,6 @@ Prior to a test cycle, volunteer testers should review the following information
 
 #### Previous Issues of The Mobile Tester
 
-  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes](https://www.digitalgov.gov/2014/02/28/mobile-tester-usability-short-reads-learning-from-others-mistakes/ "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
-  * [Test Cases: Write Them Once, Test Many Times](https://www.digitalgov.gov/2013/12/16/the-test-case-write-it-once-test-many-times/ "The Test Case: Write It Once, Test Many Times"), Dec 2013
-  * [Which Devices Should I Test With](https://www.digitalgov.gov/2013/10/29/which-devices-should-i-test-with/ "Which Devices Should I Test With?")? Oct 2013
+  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes]({{ site.baseurl }}/2014/02/28/mobile-tester-usability-short-reads-learning-from-others-mistakes/ "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
+  * [Test Cases: Write Them Once, Test Many Times]({{ site.baseurl }}/2013/12/16/the-test-case-write-it-once-test-many-times/ "The Test Case: Write It Once, Test Many Times"), Dec 2013
+  * [Which Devices Should I Test With]({{ site.baseurl }}/2013/10/29/which-devices-should-i-test-with/ "Which Devices Should I Test With?")? Oct 2013

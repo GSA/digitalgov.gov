@@ -4,7 +4,7 @@ title: Member Spotlight – Scott Horvath, USGS
 layout: docs
 ---
 
-<img class="alignright size-full wp-image-221382" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead.jpg" alt="Scott Horvath, USGS Public Affairs Specialist Bureau Social Media Lead" width="250" height="250" />Scott Horvath of the U.S. Geological Service (USGS) has been an active and respected member of many of our [DigitalGov communities](https://www.digitalgov.gov/communities "DigitalGov Communities") for several years. Here&#8217;s your chance to learn more about Scott, and the work he&#8217;s doing at the USGS.
+<img class="alignright size-full wp-image-221382" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-Social-Media-Community-Member-Spotlight-Scott-Horvath-USGS-Public-Affairs-Specialist-Bureau-Social-Media-Lead.jpg" alt="Scott Horvath, USGS Public Affairs Specialist Bureau Social Media Lead" width="250" height="250" />Scott Horvath of the U.S. Geological Service (USGS) has been an active and respected member of many of our [DigitalGov communities]({{ site.baseurl }}/communities "DigitalGov Communities") for several years. Here&#8217;s your chance to learn more about Scott, and the work he&#8217;s doing at the USGS.
 
 ## What&#8217;s the best job you&#8217;ve ever had (and why)?
 

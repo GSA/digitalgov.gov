@@ -8,9 +8,9 @@ layout: docs
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://www.youtube.com/c/digitalgov). Trainings are open to anyone working in the government or for a government agency.
 
-[Fill out our form](https://www.digitalgov.gov/digitalgov-university/digitalgov-university-event-and-training-request-form/) to request an online or in-person training or event. If you have any questions, please [send us an email](mailto:DigitalGovU@gsa.gov).
+[Fill out our form]({{ site.baseurl }}/digitalgov-university/digitalgov-university-event-and-training-request-form/) to request an online or in-person training or event. If you have any questions, please [send us an email](mailto:DigitalGovU@gsa.gov).
 
-<a class="button" href="https://www.digitalgov.gov/events/">Upcoming Events</a> <a class="button" href="https://www.digitalgov.gov/tag/recap/">Recap Articles</a> <a class="button" href="https://www.youtube.com/c/digitalgov">Video Archive</a>
+<a class="button" href="{{ site.baseurl }}/events/">Upcoming Events</a> <a class="button" href="{{ site.baseurl }}/tag/recap/">Recap Articles</a> <a class="button" href="https://www.youtube.com/c/digitalgov">Video Archive</a>
 
 ### Use of DigitalGov University Materials
 

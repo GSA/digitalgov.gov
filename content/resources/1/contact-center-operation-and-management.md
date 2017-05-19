@@ -6,12 +6,12 @@ layout: docs
 
 Many things can impact the service quality, economics, and sustainability of your government contact center. This section provides insight on various aspects of operating and managing a contact center to help you improve its performance.
 
-  - [Control Contact Center Costs](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#control)
-  - [Monitor Quality](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#monitor)
-  - [Avoid Fraudulent Pay Phone Calls](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#avoid)
-  - [Call Calibration](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#call)
-  - [IVR Call Flow Basics](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#IVR)
-  - [Disaster Planning and Recovery](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-operation-and-management/#disaster)
+  - [Control Contact Center Costs]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#control)
+  - [Monitor Quality]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#monitor)
+  - [Avoid Fraudulent Pay Phone Calls]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#avoid)
+  - [Call Calibration]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#call)
+  - [IVR Call Flow Basics]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#IVR)
+  - [Disaster Planning and Recovery]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-operation-and-management/#disaster)
 
 
 ## Control Contact Center Costs {#control}

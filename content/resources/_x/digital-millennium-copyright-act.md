@@ -18,4 +18,4 @@ The Digital Millennium Copyright Act (DMCA) is a United States copyright law tha
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

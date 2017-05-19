@@ -16,4 +16,4 @@ layout: docs
 
 &nbsp;
 
-See all [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See all [DigitalGov Resources]({{ site.baseurl }}/resources/)

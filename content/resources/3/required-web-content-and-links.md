@@ -4,7 +4,7 @@ title: Required Web Content and Links
 layout: docs
 ---
 
-[<img class="size-medium wp-image-119482 alignright" src="https://www.digitalgov.gov/files/2014/02/checkmark-250x179.jpg" alt="checkmark" width="250" height="179" />](https://www.digitalgov.gov/files/2014/02/checkmark.jpg)If you manage a public website in the federal executive branch, it&#8217;s a [requirement](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/ "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
+[<img class="size-medium wp-image-119482 alignright" src="https://www.digitalgov.gov/files/2014/02/checkmark-250x179.jpg" alt="checkmark" width="250" height="179" />]({{ site.baseurl }}/files/2014/02/checkmark.jpg)If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{ site.baseurl }}/resources/checklist-of-requirements-for-federal-digital-services/ "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
 
 <table border="1" summary="Required Links Matrix" width="100%" cellpadding="5">
   <tr>

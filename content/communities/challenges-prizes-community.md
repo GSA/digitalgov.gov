@@ -20,7 +20,7 @@ The Challenges and Prizes Community of Practice is an inter-agency group of more
 
 Join the group&#8217;s listserv:
 
-<a class="button" href="mailto:team@challenge.gov">Join via email</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="mailto:team@challenge.gov">Join via email</a> or <a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
   * Visit the [Challenge.gov](http://www.challenge.gov/) website
   * Follow [@ChallengeGov](http://twitter.com/challengegov) on Twitter

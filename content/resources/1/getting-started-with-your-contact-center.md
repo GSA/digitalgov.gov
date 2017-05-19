@@ -6,11 +6,11 @@ layout: docs
 
 Planning and creating a successful government contact center is a complex endeavor. This section provides insight on the various aspects to help you get started:
 
-  - [What is a Contact Center?](https://www.digitalgov.gov/resources/contact-center-guidelines/getting-started-with-your-contact-center/#what)
-  - [Attributes of High-Performing Contact Centers](https://www.digitalgov.gov/resources/contact-center-guidelines/getting-started-with-your-contact-center/#attributes)
-  - [Planning a Government Contact Center](https://www.digitalgov.gov/resources/contact-center-guidelines/getting-started-with-your-contact-center/#planning)
-  - [Customer Contact Channels and Strategies](https://www.digitalgov.gov/resources/contact-center-guidelines/getting-started-with-your-contact-center/#customer)
-  - [Contact Center Site Selection Criteria](https://www.digitalgov.gov/resources/contact-center-guidelines/getting-started-with-your-contact-center/#site)
+  - [What is a Contact Center?]({{ site.baseurl }}/resources/contact-center-guidelines/getting-started-with-your-contact-center/#what)
+  - [Attributes of High-Performing Contact Centers]({{ site.baseurl }}/resources/contact-center-guidelines/getting-started-with-your-contact-center/#attributes)
+  - [Planning a Government Contact Center]({{ site.baseurl }}/resources/contact-center-guidelines/getting-started-with-your-contact-center/#planning)
+  - [Customer Contact Channels and Strategies]({{ site.baseurl }}/resources/contact-center-guidelines/getting-started-with-your-contact-center/#customer)
+  - [Contact Center Site Selection Criteria]({{ site.baseurl }}/resources/contact-center-guidelines/getting-started-with-your-contact-center/#site)
 
 ## What is a Contact Center? {#what}
 

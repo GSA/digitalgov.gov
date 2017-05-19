@@ -14,4 +14,4 @@ The [Executive Order 13571](https://www.whitehouse.gov/the-press-office/2011/04/
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

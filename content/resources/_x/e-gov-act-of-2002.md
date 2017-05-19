@@ -10,7 +10,7 @@ layout: docs
 
 ## Related Links
 
-  * [Checklist of Requirements for Federal Websites and Digital Services](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/)
+  * [Checklist of Requirements for Federal Websites and Digital Services]({{ site.baseurl }}/resources/checklist-of-requirements-for-federal-digital-services/)
 
 * * *
 
@@ -18,4 +18,4 @@ layout: docs
 
 &nbsp;
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

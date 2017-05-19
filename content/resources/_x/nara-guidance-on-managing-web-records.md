@@ -19,4 +19,4 @@ Managing web records properly is essential to effective web site operations, esp
 
 &nbsp;
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

@@ -20,4 +20,4 @@ The use of social media for federal services and interactions is growing tremend
 
 &nbsp;
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

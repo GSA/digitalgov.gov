@@ -43,7 +43,7 @@ Online-based communication tools offer resources, each with unique strengths and
 4. Obtain approval from appropriate agency parties, including IT Security and General Counsel
 5. Train stakeholders and others on the procedures and policies of social media cyber-security. - Require training before use of an account.
 6. Use only authorized URL Shorteners, e.g. [go.USA.gov](https://go.usa.gov/).
-7. Add all official accounts to the [U.S. Digital Registry](https://www.digitalgov.gov/services/u-s-digital-registry/), verifying authenticity of ownership. - This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts. - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx). - Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).
+7. Add all official accounts to the [U.S. Digital Registry]({{ site.baseurl }}/services/u-s-digital-registry/), verifying authenticity of ownership. - This tool, used by both Facebook and Google to verify accounts, tracks official federal social media accounts. - List Department of Defense (DoD) social media accounts in the [DoD Social Media Site Registry](http://www.defense.gov/RegisteredSites/SocialMediaSites.aspx). - Per [DOD Web Policy](http://www.defense.gov/webmasters/) and [DoDI 8550.01](http://www.dtic.mil/whs/directives/corres/pdf/855001p.pdf) , use [DoD Social Media Registry submission form](http://www.defense.gov/RegisteredSites/SubmitLink.aspx).
 8. Follow best practices for secure passwords. - [Guide to Enterprise Password Management (Draft)](http://csrc.nist.gov/publications/drafts/800-118/draft-sp800-118.pdf) by the National Institute of Standards and Technology
 
 ## 6. Evaluate Two-Step Verification
@@ -74,9 +74,9 @@ This type of authentication verifies a user attempting to access a device or sys
 - Webinar: [Operations Security (OPSEC) & Social Media: Balancing Security, Secrecy, & Transparency](https://www.youtube.com/watch?v=aa7BKJ6sk8g)
 - Webinar: [How to Recover from a Social Media Crisis](https://www.youtube.com/watch?v=K0yy3wviTvM)
 - Webinar: [How Government Can Prepare for and Respond to Social Media Hacks](https://www.youtube.com/watch?v=tesgduqeyjI)
-- Post: [Beware the Cyber Security House of Horrors](https://www.digitalgov.gov/2014/10/30/cyber-house-of-horrors/)
-- Post: [Twitter's Two Step Verification Process](https://www.digitalgov.gov/2013/05/31/twitters-two-step-verification-process/)
-- Post: [Government Must Respond Rapidly to Social Media Hacking](https://www.digitalgov.gov/2013/04/25/government-must-respond-rapidly-to-social-media-hacking/)
+- Post: [Beware the Cyber Security House of Horrors]({{ site.baseurl }}/2014/10/30/cyber-house-of-horrors/)
+- Post: [Twitter's Two Step Verification Process]({{ site.baseurl }}/2013/05/31/twitters-two-step-verification-process/)
+- Post: [Government Must Respond Rapidly to Social Media Hacking]({{ site.baseurl }}/2013/04/25/government-must-respond-rapidly-to-social-media-hacking/)
 **Recovery:** Phase 2 Alerts of suspicious activity on social media can come from anywhere, including social media itself. If the social media cyber-security stakeholder team or responsible manager determines an incident is in progress, remember that minutes and even seconds count. Within minutes you'll need to alert internal stakeholders, alert outside stakeholders to help you regain control, and act to isolate the compromise.
 1. Immediately: Alert your social media cyber-security stakeholder team, and CC them on following messages.
 2. Attempt to change passwords to isolate the incident (steps 2 and 3 ideally simultaneously with two employees)

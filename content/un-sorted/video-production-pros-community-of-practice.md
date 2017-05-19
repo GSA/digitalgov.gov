@@ -19,7 +19,7 @@ We launched in 2016 to help people connect and share great ideas. Video Producti
 If you are a U.S. government employee with a **.gov** or **.mil** email address, click the “Email us to Join” button below to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -31,11 +31,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" href="https://www.digitalgov.gov/2016/03/21/the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement/" rel="bookmark"><img class="thumbnail" title="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" width="295" height="174" /></a>
+          <a title="Permanent Link to The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" href="{{ site.baseurl }}/2016/03/21/the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement/" rel="bookmark"><img class="thumbnail" title="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2016/03/21/the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement/">The Content Corner: Social Media Metrics and the Challenge of Effective Measurement</a>
+          <a href="{{ site.baseurl }}/2016/03/21/the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement/">The Content Corner: Social Media Metrics and the Challenge of Effective Measurement</a>
         </h4>
       </div>
     </div>
@@ -47,11 +47,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to What Mobile Devices Do People Use to Access Federal Sites?" href="https://www.digitalgov.gov/2015/11/24/trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites/" rel="bookmark"><img class="thumbnail" title="What Mobile Devices Do People Use to Access Federal Sites?" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-3D-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-453448349.jpg" alt="What Mobile Devices Do People Use to Access Federal Sites?" width="295" height="174" /></a>
+          <a title="Permanent Link to What Mobile Devices Do People Use to Access Federal Sites?" href="{{ site.baseurl }}/2015/11/24/trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites/" rel="bookmark"><img class="thumbnail" title="What Mobile Devices Do People Use to Access Federal Sites?" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-3D-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-453448349.jpg" alt="What Mobile Devices Do People Use to Access Federal Sites?" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2015/11/24/trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites/">What Mobile Devices Do People Use to Access Federal Sites?</a>
+          <a href="{{ site.baseurl }}/2015/11/24/trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites/">What Mobile Devices Do People Use to Access Federal Sites?</a>
         </h4>
       </div>
     </div>
@@ -71,11 +71,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Five Ways That Video Will Continue to Evolve on Facebook" href="https://www.digitalgov.gov/2016/06/08/five-ways-that-video-will-continue-to-evolve-on-facebook/" rel="bookmark"><img class="thumbnail" title="Five Ways That Video Will Continue to Evolve on Facebook" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Media-technology-internet-online-communication-and-telecommunication-network-concept-cybrain-iStock-Thinkstock-524722954.jpg" alt="Five Ways That Video Will Continue to Evolve on Facebook" width="295" height="174" /></a>
+          <a title="Permanent Link to Five Ways That Video Will Continue to Evolve on Facebook" href="{{ site.baseurl }}/2016/06/08/five-ways-that-video-will-continue-to-evolve-on-facebook/" rel="bookmark"><img class="thumbnail" title="Five Ways That Video Will Continue to Evolve on Facebook" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Media-technology-internet-online-communication-and-telecommunication-network-concept-cybrain-iStock-Thinkstock-524722954.jpg" alt="Five Ways That Video Will Continue to Evolve on Facebook" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2016/06/08/five-ways-that-video-will-continue-to-evolve-on-facebook/">Five Ways That Video Will Continue to Evolve on Facebook</a>
+          <a href="{{ site.baseurl }}/2016/06/08/five-ways-that-video-will-continue-to-evolve-on-facebook/">Five Ways That Video Will Continue to Evolve on Facebook</a>
         </h4>
       </div>
     </div>
@@ -87,11 +87,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to 508 Accessible Videos – Use a 508-Compliant Video Player" href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" rel="bookmark"><img class="thumbnail" title="508 Accessible Videos – Use a 508-Compliant Video Player" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-USCIS-The-Citizenship-Interview-and-Test-on-YouTube-player.jpg" alt="508 Accessible Videos – Use a 508-Compliant Video Player" width="295" height="174" /></a>
+          <a title="Permanent Link to 508 Accessible Videos – Use a 508-Compliant Video Player" href="{{ site.baseurl }}/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" rel="bookmark"><img class="thumbnail" title="508 Accessible Videos – Use a 508-Compliant Video Player" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-USCIS-The-Citizenship-Interview-and-Test-on-YouTube-player.jpg" alt="508 Accessible Videos – Use a 508-Compliant Video Player" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">508 Accessible Videos – Use a 508-Compliant Video Player</a>
+          <a href="{{ site.baseurl }}/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">508 Accessible Videos – Use a 508-Compliant Video Player</a>
         </h4>
       </div>
     </div>
@@ -103,11 +103,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Storyboard: A Tool for a Successful Video" href="https://www.digitalgov.gov/2014/04/11/storyboard-a-tool-for-a-successful-video/" rel="bookmark"><img class="thumbnail" title="Storyboard: A Tool for a Successful Video" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Storyboard-template-for-film-story-vectortatu-iStock-Thinkstock-540603270.jpg" alt="Storyboard: A Tool for a Successful Video" width="295" height="174" /></a>
+          <a title="Permanent Link to Storyboard: A Tool for a Successful Video" href="{{ site.baseurl }}/2014/04/11/storyboard-a-tool-for-a-successful-video/" rel="bookmark"><img class="thumbnail" title="Storyboard: A Tool for a Successful Video" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Storyboard-template-for-film-story-vectortatu-iStock-Thinkstock-540603270.jpg" alt="Storyboard: A Tool for a Successful Video" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2014/04/11/storyboard-a-tool-for-a-successful-video/">Storyboard: A Tool for a Successful Video</a>
+          <a href="{{ site.baseurl }}/2014/04/11/storyboard-a-tool-for-a-successful-video/">Storyboard: A Tool for a Successful Video</a>
         </h4>
       </div>
     </div>
@@ -121,11 +121,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Social Video: Making Sense of the Facebook and YouTube Platforms" href="https://www.digitalgov.gov/2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/" rel="bookmark"><img class="thumbnail" title="Social Video: Making Sense of the Facebook and YouTube Platforms" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Social Video: Making Sense of the Facebook and YouTube Platforms" width="295" height="174" /></a>
+          <a title="Permanent Link to Social Video: Making Sense of the Facebook and YouTube Platforms" href="{{ site.baseurl }}/2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/" rel="bookmark"><img class="thumbnail" title="Social Video: Making Sense of the Facebook and YouTube Platforms" src="//www.digitalgov.gov/files/2016/07/featured-hp-348-x-226-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Social Video: Making Sense of the Facebook and YouTube Platforms" width="295" height="174" /></a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.digitalgov.gov/2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/">Social Video: Making Sense of the Facebook and YouTube Platforms</a>
+          <a href="{{ site.baseurl }}/2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/">Social Video: Making Sense of the Facebook and YouTube Platforms</a>
         </h4>
       </div>
     </div>
@@ -151,5 +151,5 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.digitalgov.gov/events/">View all upcoming events</a> <a class="button" href="https://www.digitalgov.gov/video-library/">View past events</a>
+  <a class="button" href="{{ site.baseurl }}/events/">View all upcoming events</a> <a class="button" href="{{ site.baseurl }}/video-library/">View past events</a>
 </p>

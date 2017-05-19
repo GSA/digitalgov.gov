@@ -5,7 +5,7 @@ summary: Agencies should ensure that they collect, analyze, and report on a mini
 layout: docs
 ---
 
-**This guidance is part of the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").**
+**This guidance is part of the [Digital Analytics Program]({{ site.baseurl }}/services/dap/ "DAP: Digital Analytics Program") (DAP): Digital Metrics Guidance and Best Practices. [See more on the DAP]({{ site.baseurl }}/services/dap/ "DAP: Digital Analytics Program").**
 
 Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers.
 
@@ -296,7 +296,7 @@ Use the [Chart Chooser tool](http://www.juiceanalytics.com/writing/introducing-c
 
 Also, stay informed of advances in metrics and measurement by following organizations such as the [Pew Research Center&#8217;s Internet & American Life Project,](http://pewinternet.org/) which researches the evolution of the Internet and its impact on American society; they have lots of great data on how people use the Web, social media, and mobile. Review white papers, online books, and case studies from [IBM Business Analytics for Government](http://www-01.ibm.com/software/analytics/government/), or [Web Analytics Demystified](http://www.webanalyticsdemystified.com/content/index.asp).
 
-[<img class="alignnone size-medium wp-image-117542" src="https://www.digitalgov.gov/files/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." width="250" height="200" />](https://www.digitalgov.gov/files/2014/01/common-web-performance-metrics.png)
+[<img class="alignnone size-medium wp-image-117542" src="https://www.digitalgov.gov/files/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." width="250" height="200" />]({{ site.baseurl }}/files/2014/01/common-web-performance-metrics.png)
 
 ## <a name="customer-satisfaction-metrics"></a>Customer Satisfaction Metrics
 
@@ -439,7 +439,7 @@ To assess the validity of the data and provide context, agencies should also con
 
 ### Strategies for Analyzing Customer Satisfaction Data
 
-The [Customer Experience model](https://www.digitalgov.gov/2013/06/19/5-steps-for-delivering-a-better-customer-experience-2/) recommends three steps for Collecting Customer Feedback:
+The [Customer Experience model]({{ site.baseurl }}/2013/06/19/5-steps-for-delivering-a-better-customer-experience-2/) recommends three steps for Collecting Customer Feedback:
 
   1. **Define your goals.** Establish benchmarks to help your agency set customer performance goals and service standards, typically by either comparison with internal benchmarks, or with other agencies, organizations, or functions.
   2. **Determine how you’ll collect customer feedback.** Although many agencies will use an online survey to collect customer satisfaction metrics, as described above, there are many ways to collect customer satisfaction data.
@@ -642,7 +642,7 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 **4. Register for application monitoring tools (optional).** Many tools are free for limited use. Use to report on site health metrics such as outages, page load times, application responsiveness, etc. (Examples: YSlow, Pingdom, AlertSite)
 
-**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool](https://www.digitalgov.gov/services/search/) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
+**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool]({{ site.baseurl }}/services/search/) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
 
 ## <a name="usability-metrics"></a>Usability (User Experience) Metrics
 
@@ -652,14 +652,14 @@ Website User Experience focuses on how visitors think information should be orga
 
 ### **Usability Testing**
 
-[Usability testing](https://www.digitalgov.gov/resources/digitalgov-user-experience-program) provides an opportunity to watch real people using your product. It can give you important metrics such as how long it takes someone to complete a task, or how many clicks it takes to find something. It also gives you general feedback about design and functionality, offering invaluable insights into what you need to improve. If people can’t use your site, all the work you put into writing, coding and designing your site will be wasted, and you will fail in your mission. Usability testing routinely achieves a [high return on investment](http://www.useit.com/alertbox/government-nonprofit.html) by saving agencies thousands to millions of dollars on development costs.
+[Usability testing]({{ site.baseurl }}/resources/digitalgov-user-experience-program) provides an opportunity to watch real people using your product. It can give you important metrics such as how long it takes someone to complete a task, or how many clicks it takes to find something. It also gives you general feedback about design and functionality, offering invaluable insights into what you need to improve. If people can’t use your site, all the work you put into writing, coding and designing your site will be wasted, and you will fail in your mission. Usability testing routinely achieves a [high return on investment](http://www.useit.com/alertbox/government-nonprofit.html) by saving agencies thousands to millions of dollars on development costs.
 
 Two common approaches to usability testing are:
 
   * Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
   * Small-scale qualitative tests ideally involve [3-5 users](http://www.useit.com/alertbox/20000319.html) in successive rounds of tests to observe user behavior and collect feedback on ease of use, design, etc. Qualitative user experience can also be measured by surveys or post-test evaluations such as the [System Usability Scale](http://www.google.com/url?q=http%3A%2F%2Fwww.usabilitynet.org%2Ftrump%2Fdocuments%2FSuschapt.doc&sa=D&sntz=1&usg=AFQjCNG5W_TzUptFb-JXdfotsec_ERW_mQ) (MS Word, 54 K, 7 pages, August 2012).
 
-Most user experience tests are small-scale qualitative, because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program](https://www.digitalgov.gov/resources/digitalgov-user-experience-program/), that lets agency staff observe and get trained on how to conduct simple usability tests.
+Most user experience tests are small-scale qualitative, because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program]({{ site.baseurl }}/resources/digitalgov-user-experience-program/), that lets agency staff observe and get trained on how to conduct simple usability tests.
 
 In the DigitalGov University training, Usability Testing and Debriefing Best Practices, you’ll learn how to conduct a simple usability test, and conduct a debriefing session to sift through the feedback and identify fixes. Simple tests like this are a quick way to identify major problems, and give you the tools to take immediate action to improve your site.
 
@@ -669,7 +669,7 @@ User Experience metrics are often diagnostic in nature and provide a practical w
 
 There are no pre-defined standard User Experience metrics, because each website has different goals and audiences, and provides different services. Each site should develop its own system for evaluating user experience. What you collect may depend on the resources (staff, time, contractor support) available to you.
 
-  * **If you have limited resources**, you can observe a usability test through [GSA’s DigitalGov User Experience Program](https://www.digitalgov.gov/resources/digitalgov-user-experience-program), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
+  * **If you have limited resources**, you can observe a usability test through [GSA’s DigitalGov User Experience Program]({{ site.baseurl }}/resources/digitalgov-user-experience-program), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
   * **If you have User Experience professionals on staff**, or have the funds to hire contractors on a long-term basis, ask these experts to help you identify the best user experience metrics to collect and follow for YOUR site. You’ll also be able to do repeat, or [iterative Web design and testing](http://www.useit.com/papers/iterative_design/), to evaluate progress over time.
 
 **When to Collect User Experience Metrics**
@@ -692,13 +692,13 @@ Measuring mobile performance, which is a new channel for most agencies, is gener
 
 The Mobile Gov Community of Practice is working to define practices in mobile measurement and they have created some mobile measurement and analytics practices on the Mobile Gov Wiki. Below we have listed some general approaches taken by agencies when measuring mobile product performance.
 
-**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website](https://www.digitalgov.gov/2012/06/20/medlineplus-mobile-evaluation/). They measure their performance by asking three questions:
+**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website]({{ site.baseurl }}/2012/06/20/medlineplus-mobile-evaluation/). They measure their performance by asking three questions:
 
   * Who is using MedlinePlus Mobile?
   * How are they using MedlinePlus Mobile?
   * Are they satisfied with their visit to MedlinePlus Mobile?
 
-**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](https://www.digitalgov.gov/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
+**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program]({{ site.baseurl }}/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
   * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
   * How likely are you to use any of the information in the text  messages to improve your health?
@@ -718,9 +718,9 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
 
 Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as &#8220;social data&#8221;).
 
-Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government](https://www.digitalgov.gov/category/what-we-do/socialmedia/) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
+Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government]({{ site.baseurl }}/category/what-we-do/socialmedia/) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
-Here are a set of [recommended, baseline social media metrics](https://www.digitalgov.gov/2013/04/19/social-media-metrics-for-federal-agencies-2/), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice](https://www.digitalgov.gov/communities/social-media/). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
+Here are a set of [recommended, baseline social media metrics]({{ site.baseurl }}/2013/04/19/social-media-metrics-for-federal-agencies-2/), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{ site.baseurl }}/communities/social-media/). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
 
 <h2 id="part-2" style="padding-top: 50px">
   Part 2: Reporting Requirements and Common Tools
@@ -730,7 +730,7 @@ Here are a set of [recommended, baseline social media metrics](https://www.digit
 
 The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s generally low-cost and relatively easy to implement.
 
-[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/).
+[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program]({{ site.baseurl }}/services/dap/).
   
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 
@@ -757,7 +757,7 @@ Below is background and steps agencies can take now to prepare for this implemen
 
 If not, you’ll need a method for adding the code in the most efficient way. Many non-CMS websites include a server-side include (SSI) to manage common elements across many pages of the domain (for example, to maintain a common header or footer). The code can be integrated into existing common elements such as those that are already in use across the site. Alternatively, you can use bulk edit operations that can be performed across large volumes of html files to insert a common snippet into a consistent location within the source code.
 
-**5. Attend training and hear what other agencies are doing.** GSA will provide training in early September 2012 to help agencies learn about page tagging techniques, preparing for implementation, and how other agencies have implemented similar efforts. Check the [DigitalGov University class schedule and subscribe to email alerts](https://www.digitalgov.gov/digitalgov-university/) to receive notices about the upcoming training.
+**5. Attend training and hear what other agencies are doing.** GSA will provide training in early September 2012 to help agencies learn about page tagging techniques, preparing for implementation, and how other agencies have implemented similar efforts. Check the [DigitalGov University class schedule and subscribe to email alerts]({{ site.baseurl }}/digitalgov-university/) to receive notices about the upcoming training.
 
 **6. Embed the Javascript-based tag.** Embed the tag once the common code is provided by GSA and customize as needed.
 
@@ -773,7 +773,7 @@ Read OMB&#8217;s guidance to agencies [for Implementing Performance and Customer
 
 At this time GSA is not providing a central tool for measuring customer satisfaction. There are a variety of tools available to collect this data. However, any tool you choose should provide a way to report on the four common baseline customer satisfaction measures described above.
 
-You can use one of the free customer satisfaction survey tools that has a [federal-friendly terms of service agreement](https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/) or an existing contract agreement with federal agencies. These tools include:
+You can use one of the free customer satisfaction survey tools that has a [federal-friendly terms of service agreement]({{ site.baseurl }}/resources/negotiated-terms-of-service-agreements/) or an existing contract agreement with federal agencies. These tools include:
 
   * [iPerceptions](http://www.iperceptions.com/)—An online survey tool to measure customer satisfaction and provide Voice of the Customer data to help you improve your agency&#8217;s online customer experience.
   * [WebValidator](http://www.iperceptions.com/solutions/webvalidator/)—A website survey tool that answers critical questions, such as who is visiting and why, so you can measure your customers&#8217; experiences.
@@ -783,7 +783,7 @@ You can use one of the free customer satisfaction survey tools that has a [feder
 
 ### Paperwork Reduction Act Clearance
 
-If you’re collecting feedback from more than nine people (via an online survey, focus group, form, or another method), you must get prior OMB approval, per the [Paperwork Reduction Act](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) (PRA). The [Fast Track PRA](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/) process can significantly speed up the approval process. Some tools, such as ACSI, have current PRA clearance, and your agency may have existing approval for other tools.
+If you’re collecting feedback from more than nine people (via an online survey, focus group, form, or another method), you must get prior OMB approval, per the [Paperwork Reduction Act](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) (PRA). The [Fast Track PRA]({{ site.baseurl }}/resources/paperwork-reduction-act-fast-track-process/) process can significantly speed up the approval process. Some tools, such as ACSI, have current PRA clearance, and your agency may have existing approval for other tools.
 
 <h2 id="part-3" style="padding-top: 50px">
   Part 3: Rationale and Framework for Common Metrics
@@ -823,7 +823,7 @@ Key success elements will include:
   * Collection methodology
   * Web analytics tool
 
-[<img class="alignnone size-medium wp-image-117552" src="https://www.digitalgov.gov/files/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." width="221" height="250" />](https://www.digitalgov.gov/files/2014/01/digital-services-measurement-framework.jpg)
+[<img class="alignnone size-medium wp-image-117552" src="https://www.digitalgov.gov/files/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." width="221" height="250" />]({{ site.baseurl }}/files/2014/01/digital-services-measurement-framework.jpg)
 
 The framework is based on the following types of measures:
 
@@ -851,13 +851,13 @@ To support this common framework, agencies should collect performance and custom
 
 ### **Communities of Practice**
 
-  * [Web and New Media Community](https://www.digitalgov.gov/communities/web-managers-forum/)—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
-  * Metrics Community of Practice—part of the [Federal Web Managers Council](https://www.digitalgov.gov/communities/web-managers-forum/), an inter-agency group working to improve digital metrics.
-  * [Social Media Performance Metrics working group](https://www.digitalgov.gov/communities/social-media/).
+  * [Web and New Media Community]({{ site.baseurl }}/communities/web-managers-forum/)—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
+  * Metrics Community of Practice—part of the [Federal Web Managers Council]({{ site.baseurl }}/communities/web-managers-forum/), an inter-agency group working to improve digital metrics.
+  * [Social Media Performance Metrics working group]({{ site.baseurl }}/communities/social-media/).
 
 ### **Training** 
 
-Get more information about training from [DigitalGov University](https://www.digitalgov.gov/digitalgov-university/), and subscribe to get [email updates on new and upcoming events](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45).
+Get more information about training from [DigitalGov University]({{ site.baseurl }}/digitalgov-university/), and subscribe to get [email updates on new and upcoming events](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45).
 
 ## References
 
@@ -870,7 +870,7 @@ These are federal initiatives and directives related to performance management a
   * [OMB M–05–04 Policies for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-04.pdf) and the related [OMB Circular A–130](https://obamawhitehouse.archives.gov/omb/circulars_a130_a130trans4/) refer to measuring satisfaction and performance
   * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
   * [Paperwork Reduction Act (PRA)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) requires federal agencies to have OMB approval before collecting information from the public, such as from online customer satisfaction surveys.
-  * [Fast Track PRA](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/) process streamlines PRA approval to 5 business days
+  * [Fast Track PRA]({{ site.baseurl }}/resources/paperwork-reduction-act-fast-track-process/) process streamlines PRA approval to 5 business days
   * Government Performance and Results Act (GPRA) requires agencies to establish performance measures to demonstrate mission achievement
 
 ## <a name="research-bibliography"></a>Research Bibliography

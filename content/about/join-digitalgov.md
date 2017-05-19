@@ -13,8 +13,8 @@ Here, on DigitalGov, you can make government services and information better by 
 ### How can I contribute?
 
   * [**Send us your article ideas, pitch your story, or email your presentation** ideas](#guidelines "To send your article ideas, pitch your story, or email your idea for a presentation contact us").
-  * [**Expand your skills** by working on digital gov&#8217;t projects](https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities in DigitalGov")! (For feds with .gov or .mil email accounts only).
-  * [**Join** a DigitalGov Community of Practice](https://www.digitalgov.gov/communities/).
+  * [**Expand your skills** by working on digital gov&#8217;t projects]({{ site.baseurl }}/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities in DigitalGov")! (For feds with .gov or .mil email accounts only).
+  * [**Join** a DigitalGov Community of Practice]({{ site.baseurl }}/communities/).
   * [**Keep in the loop** by signing up for our Daily or Weekly newsletters](http://connect.digitalgov.gov/subscribe).
   * [**Subscribe** to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
   * **Share! Share! Share** Forward the newsletter. Tweet an article. Post on Facebook or LinkedIn. Tell your colleagues and build the DigitalGov network.

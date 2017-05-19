@@ -85,7 +85,7 @@ Inform the public about your policies on digital rights, copyrights, trademarks,
 *   [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 KB, 60 pages, January 1999)
 *   [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
 *   [Copyright.gov](http://www.copyright.gov/)
-*   [United States Government Works and Copyright Act of 1976](https://www.digitalgov.gov/files/2014/01/United-States-government-works-and-copyright.doc) (MS Word, 16 KB, 2 pages, June 2011)
+*   [United States Government Works and Copyright Act of 1976]({{ site.baseurl }}/files/2014/01/United-States-government-works-and-copyright.doc) (MS Word, 16 KB, 2 pages, June 2011)
 
  |
 |
@@ -97,7 +97,7 @@ Understand the needs of your customers, collect and address customer feedback, a
  |
 
 *   [Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service](https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom) (April 2011)
-*   See all [Government Customer Service Policies & Requirements](https://www.digitalgov.gov/resources/government-customer-service-policies-requirements-1993-to-present/)
+*   See all [Government Customer Service Policies & Requirements]({{ site.baseurl }}/resources/government-customer-service-policies-requirements-1993-to-present/)
 *   [New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-26.pdf) (June 15, 2011) (4 pages, 196 kb)
 
  |
@@ -151,7 +151,7 @@ Create content that’s accurate, relevant, easy-to-use, and conveyed in plain l
 
 ### Mandatory Content (incl. FOIA)
 
-Include all [required content and links](https://www.digitalgov.gov/resources/required-web-content-and-links/), including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text).
+Include all [required content and links]({{ site.baseurl }}/resources/required-web-content-and-links/), including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text).
 
  |
 

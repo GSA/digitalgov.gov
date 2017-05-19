@@ -19,4 +19,4 @@ The disclosure obligation under the FOIA is not absolute. The Act provides exemp
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

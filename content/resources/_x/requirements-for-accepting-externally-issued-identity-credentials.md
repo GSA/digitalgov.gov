@@ -22,4 +22,4 @@ This memo dated October 6, 2011, from the Federal CIO to the CIO&#8217;s of Exec
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

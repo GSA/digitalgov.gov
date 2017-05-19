@@ -11,9 +11,9 @@ The Plain Language Action and Information Network (PLAIN) put together these [fe
 ## Related Resources:
 
   * [Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
-  * [Plain Writing Basics](https://www.digitalgov.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/)
-  * [Plain Language Web Writing Tips](https://www.digitalgov.gov/resources/plain-language-web-writing-tips/)
+  * [Plain Writing Basics]({{ site.baseurl }}/2014/04/16/how-to-tell-your-agencys-story-plainly/)
+  * [Plain Language Web Writing Tips]({{ site.baseurl }}/resources/plain-language-web-writing-tips/)
 
 * * *
 
-See all [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See all [DigitalGov Resources]({{ site.baseurl }}/resources/)

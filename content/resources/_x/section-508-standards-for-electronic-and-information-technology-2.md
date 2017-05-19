@@ -10,12 +10,12 @@ layout: docs
 
 ## Related Resources:
 
-  * Read more [Accessibility related articles](https://www.digitalgov.gov/category/ux/accessibility/) on DigitalGov
-  * [Using Section 508 to Improve the Accessibility of Government Services](https://www.digitalgov.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
-  * [Federal Social Media Accessibility Toolkit](https://www.digitalgov.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)
+  * Read more [Accessibility related articles]({{ site.baseurl }}/category/ux/accessibility/) on DigitalGov
+  * [Using Section 508 to Improve the Accessibility of Government Services]({{ site.baseurl }}/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
+  * [Federal Social Media Accessibility Toolkit]({{ site.baseurl }}/resources/federal-social-media-accessibility-toolkit-hackpad/)
 
 * * *
 
 &nbsp;
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

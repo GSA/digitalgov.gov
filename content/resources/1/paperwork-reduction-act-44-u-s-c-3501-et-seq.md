@@ -20,4 +20,4 @@ The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office o
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

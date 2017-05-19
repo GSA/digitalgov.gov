@@ -14,15 +14,15 @@ If you manage a U.S. government website, or write digital content for your agenc
 
 The Forum is open to U.S. government employees and contractors with a government email address. We’ve been working together since late 2000 to improve the content and usability of U.S. government websites. If you’d like to join the Forum, follow the instructions at the bottom of this page.
 
-Forum members regularly collaborate with other specialized [DigitalGov Communities](http://www.digitalgov.gov/communities/)—consider joining if any of these interest you:
+Forum members regularly collaborate with other specialized [DigitalGov Communities]({{ site.baseurl }}/communities/)—consider joining if any of these interest you:
 
-  * [Challenges and Prizes Community](http://www.digitalgov.gov/communities/challenges-prizes-community/)
-  * [Customer Experience Community](https://www.digitalgov.gov/communities/customer-experience-community/)
-  * [Government Contact Center Council](http://www.digitalgov.gov/communities/government-contact-center-council-g3c/)
-  * [MobileGov Community of Practice](http://www.digitalgov.gov/communities/mobile/)
-  * [Multilingual Digital Group](https://www.digitalgov.gov/communities/government-multilingual-websites-community/)
-  * [Social Media Community of Practice](http://www.digitalgov.gov/communities/social-media/)
-  * [User Experience Community](http://www.digitalgov.gov/communities/web-managers-forum/federal-user-experience-community-of-practice/)
+  * [Challenges and Prizes Community]({{ site.baseurl }}/communities/challenges-prizes-community/)
+  * [Customer Experience Community]({{ site.baseurl }}/communities/customer-experience-community/)
+  * [Government Contact Center Council]({{ site.baseurl }}/communities/government-contact-center-council-g3c/)
+  * [MobileGov Community of Practice]({{ site.baseurl }}/communities/mobile/)
+  * [Multilingual Digital Group]({{ site.baseurl }}/communities/government-multilingual-websites-community/)
+  * [Social Media Community of Practice]({{ site.baseurl }}/communities/social-media/)
+  * [User Experience Community]({{ site.baseurl }}/communities/web-managers-forum/federal-user-experience-community-of-practice/)
 
 ### What We Do
 
@@ -34,4 +34,4 @@ Join us if you are an employee of a federal, state, or local U.S. government age
 
 Click the “Join via Email” button below to subscribe to our listserv with your .gov or .mil email address. If you have any questions, please [email Alycia Yozzi](mailto:alycia.piazza@gsa.gov) and **confirm in the email that you are a government employee**.
 
-<a class="button" href="mailto:alycia.piazza@gsa.gov?Subject=Web Content Managers Community question">Join via Email</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="mailto:alycia.piazza@gsa.gov?Subject=Web Content Managers Community question">Join via Email</a> or <a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>

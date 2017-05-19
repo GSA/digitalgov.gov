@@ -12,9 +12,9 @@ Join us if you are a government employee working  for a federal, state or local 
 
 Fill out the short Google form below to subscribe to our listserv. If you have any questions, please contact group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
-<a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
-_**The Multilingual Digital Group also maintains the multilingual [resources](https://www.digitalgov.gov/resources#multilingual) and [articles](https://www.digitalgov.gov/tag/multilingual/) for DigitalGov.**_
+_**The Multilingual Digital Group also maintains the multilingual [resources]({{ site.baseurl }}/resources#multilingual) and [articles]({{ site.baseurl }}/tag/multilingual/) for DigitalGov.**_
 
 &nbsp;
 
@@ -22,7 +22,7 @@ _**The Multilingual Digital Group also maintains the multilingual [resources](ht
 
 We work to support Executive Order 13166, “[Improving Access to Services for People with Limited English Proficiency](http://www.justice.gov/crt/about/cor/Pubs/eolep.pdf)” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
 
-We [collect research](https://www.digitalgov.gov/2014/07/01/multilingual-digital-content/), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
+We [collect research]({{ site.baseurl }}/2014/07/01/multilingual-digital-content/), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
 
 We work on three main areas:
 

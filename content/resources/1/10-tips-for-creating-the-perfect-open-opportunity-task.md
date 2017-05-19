@@ -11,7 +11,7 @@ layout: docs
 
 
 **Be specific:** Define exactly what needs to be done and what deliverables you expect. Include links or documents that the participant will need.
-- The DigitalGov team [needed a writer](https://openopps.digitalgov.gov/tasks/25) who could contribute to a weekly blog series. The task included [a link to the blog series](https://www.digitalgov.gov/tag/trends-on-tuesday/) so that potential participants could get familiar with existing articles.
+- The DigitalGov team [needed a writer](https://openopps.digitalgov.gov/tasks/25) who could contribute to a weekly blog series. The task included [a link to the blog series]({{ site.baseurl }}/tag/trends-on-tuesday/) so that potential participants could get familiar with existing articles.
 
 **Give the big picture:** Include information on how participants’ work will/may be used. This helps participants understand their work is part of a greater effort.
 

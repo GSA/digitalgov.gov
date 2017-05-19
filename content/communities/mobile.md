@@ -10,7 +10,7 @@ MobileGov Community of Practice members, a network of federal employees, work ac
 
 Hear how forward thinking agencies are tackling public facing mobile technologies together and help build government-wide solutions. Only Federal Employees are invited to join the Community of Practice. Email [Jacob Parcell](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line.
 
-<a class="button" href="https://www.digitalgov.gov/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+<a class="button" href="{{ site.baseurl }}/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 
 ### **About the Community**
 

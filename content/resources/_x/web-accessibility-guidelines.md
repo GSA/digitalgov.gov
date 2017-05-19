@@ -21,10 +21,10 @@ layout: docs
 
 ## Related Resources:
 
-  * Read more [Accessibility related articles](https://www.digitalgov.gov/category/ux/accessibility/) on DigitalGov
+  * Read more [Accessibility related articles]({{ site.baseurl }}/category/ux/accessibility/) on DigitalGov
   * [Section 508 Standards for Electronic and Information Technology](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
-  * [Using Section 508 to Improve the Accessibility of Government Services](https://www.digitalgov.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
+  * [Using Section 508 to Improve the Accessibility of Government Services]({{ site.baseurl }}/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
 
 * * *
 
-See more [DigitalGov Resources](https://www.digitalgov.gov/resources/)
+See more [DigitalGov Resources]({{ site.baseurl }}/resources/)

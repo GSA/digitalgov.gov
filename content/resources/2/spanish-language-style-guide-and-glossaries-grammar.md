@@ -5,12 +5,12 @@ title: 'Spanish Language Style Guide and Glossaries: Grammar'
 layout: docs
 ---
 
-  * [Abbreviations, Acronyms and Em Dash](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#abbreviations)
-  * [Spanish Language Articles](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#articles)
-  * [Spanish Language Capitalization](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#capitalization)
-  * [Spanish Language Dates & Numbers](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#dates)
-  * [Spanish Language Punctuation](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#punctuation)
-  * [Spanish Language Diacritics and HTML Code](https://www.digitalgov.gov/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#diacritics)
+  * [Abbreviations, Acronyms and Em Dash]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#abbreviations)
+  * [Spanish Language Articles]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#articles)
+  * [Spanish Language Capitalization]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#capitalization)
+  * [Spanish Language Dates & Numbers]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#dates)
+  * [Spanish Language Punctuation]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#punctuation)
+  * [Spanish Language Diacritics and HTML Code]({{ site.baseurl }}/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#diacritics)
 
 &nbsp;
 

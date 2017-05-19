@@ -6,16 +6,16 @@ layout: docs
 
 A contact center is supported by many technologies designed to enhance the customer experience, improve the operating and management efficiency, or lower the overall costs of running a contact center. These technologies are:
 
-  - [Automatic Call Distributor Systems](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#automatic)
-  - [Email Response Management Systems](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#email)
-  - [Intelligent Call Routing](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#intelligent)
-  - [Interactive Voice Response Systems](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#interactive)
-  - [Knowledge Management Systems](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#knowledge)
-  - [TTY/TDD Communications](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#tty)
-  - [Toll-Free Telephone Services](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#toll)
-  - [Trunk Circuit Networks](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#trunk)
-  - [Web Chat](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#web)
-  - [Workforce Management Systems](https://www.digitalgov.gov/resources/contact-center-guidelines/contact-center-technologies/#workforce)
+  - [Automatic Call Distributor Systems]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#automatic)
+  - [Email Response Management Systems]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#email)
+  - [Intelligent Call Routing]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#intelligent)
+  - [Interactive Voice Response Systems]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#interactive)
+  - [Knowledge Management Systems]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#knowledge)
+  - [TTY/TDD Communications]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#tty)
+  - [Toll-Free Telephone Services]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#toll)
+  - [Trunk Circuit Networks]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#trunk)
+  - [Web Chat]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#web)
+  - [Workforce Management Systems]({{ site.baseurl }}/resources/contact-center-guidelines/contact-center-technologies/#workforce)
 
 ## Automatic Call Distributor System {#automatic}
 

@@ -14,7 +14,7 @@ Through our Open Opportunities in DigitalGov network, we’re building a coopera
 
 ## Resources:
 
-* Find out [how Open Opportunities works](https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/) * Take a look at the [Task Creator Toolkit](https://www.digitalgov.gov/resources/open-opportunities-task-creator-toolkit/ "Open Opportunities Task Creator Toolkit") * Review our [Terms of Use](https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/)
+* Find out [how Open Opportunities works]({{ site.baseurl }}/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/) * Take a look at the [Task Creator Toolkit]({{ site.baseurl }}/resources/open-opportunities-task-creator-toolkit/ "Open Opportunities Task Creator Toolkit") * Review our [Terms of Use]({{ site.baseurl }}/join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/)
 
 <table border="0">
 
