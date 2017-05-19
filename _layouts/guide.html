@@ -1,0 +1,30 @@
+---
+layout: base
+main:
+  class: guide
+---
+
+<main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-10">
+        <h1>{{ page.title }}</h1>
+        <p class="blurb">{{ page.blurb }}</p>
+      </div>
+    </div>
+    <div class="row">
+
+      <div class="col-xs-12 col-sm-3">
+        {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+        {% if sidenav %}
+        {% include components/sidenav.html links=sidenav %}
+        {% endif %}
+      </div>
+
+      <div class="col-xs-12 col-sm-9">
+        {{ content | emojify }}
+      </div>
+
+    </div>
+  </div>
+</main>
