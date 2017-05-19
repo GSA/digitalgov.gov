@@ -1,7 +1,8 @@
 ---
 permalink: /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
-title: 'Incorporating the Digital Analytics Program Tool Into Your Agency&#039;s Metric Program'
 layout: docs
+
+title: 'Incorporating the Digital Analytics Program Tool Into Your Agency&#039;s Metric Program'
 ---
 
 **This guidance is part of the [Digital Analytics Program](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program") (DAP). [See more on the DAP](https://www.digitalgov.gov/services/dap/ "DAP: Digital Analytics Program").**
