@@ -12,8 +12,9 @@ var sass = require('gulp-sass'),
     combineMq = require('gulp-combine-mq'),
     strip = require('gulp-strip-css-comments'),
     size = require('gulp-size'),
-    responsive = require('gulp-responsive'),
+responsive = require('gulp-responsive'),
     vinylPaths = require('vinyl-paths'),
+    sourcemaps = require('gulp-sourcemaps'),
     browserSync = require('browser-sync').create();
 
 var supportedBrowsers = [
@@ -180,6 +181,22 @@ gulp.task('jekyll-build-complete', function (done) {
         .on('close', done);
 });
 
+gulp.task('copy-uswds-img', function () {
+  return gulp.src("./node_modules/uswds/src/img/**/*")
+    .pipe(gulp.dest('./assets/uswds/img'));
+});
+
+gulp.task('copy-uswds-js', function () {
+  return gulp.src("./node_modules/uswds/dist/js/**/*")
+    .pipe(gulp.dest('./assets/uswds/js'));
+});
+
+gulp.task('jekyll-build-startup', ['copy-uswds-img', 'copy-uswds-img'], function (done) {
+    browserSync.notify(messages.jekyllBuildComplete);
+    return child.spawn( jekyll , ['build', '--drafts'], {stdio: 'inherit'})
+        .on('close', done);
+});
+
 gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
   return gulp.src("/")
     .pipe(notify({
@@ -202,7 +219,7 @@ gulp.task('jekyll-rebuild-complete', ['jekyll-build-complete'], function () {
     .pipe(browserSync.stream());
 });
 
-gulp.task('serve', ['jekyll-build-complete'], function() {
+gulp.task('serve', ['jekyll-build-startup'], function() {
   browserSync.init({
     port: 4000,
     server: {
@@ -224,6 +241,7 @@ gulp.task('jekyll-first-build', ['serve'], function () {
 
 gulp.task('sass', function(){
   return gulp.src(paths.scss)
+    .pipe(sourcemaps.init())
     .pipe(sass({
         outputStyle: 'compact',
         errLogToConsole: true,
@@ -244,6 +262,7 @@ gulp.task('sass', function(){
       level: 2,
     }))
     .pipe(rename('main.css'))
+    .pipe(sourcemaps.write())
     .pipe(gulp.dest(paths.scssDestination))
     .pipe(gulp.dest(paths.scssSiteDestination))
     .pipe(size())

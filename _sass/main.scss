@@ -1,12 +1,12 @@
 
 $font-path: '../fonts';
-$uswds-img-path: '../uswds/img';
+$image-path: '../uswds/img';
 
 @import "dg/fonts";
 @import "dg/defaults";
 
 // USWDS
-@import 'uswds/all';
+@import './node_modules/uswds/src/stylesheets/_all.scss';
 
 // Externals
 @import '/assets/font-awesome/css/font-awesome.min.css';
