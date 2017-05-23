@@ -12,7 +12,7 @@ var sass = require('gulp-sass'),
     combineMq = require('gulp-combine-mq'),
     strip = require('gulp-strip-css-comments'),
     size = require('gulp-size'),
-responsive = require('gulp-responsive'),
+    responsive = require('gulp-responsive'),
     vinylPaths = require('vinyl-paths'),
     sourcemaps = require('gulp-sourcemaps'),
     browserSync = require('browser-sync').create();
@@ -241,7 +241,6 @@ gulp.task('jekyll-first-build', ['serve'], function () {
 
 gulp.task('sass', function(){
   return gulp.src(paths.scss)
-    .pipe(sourcemaps.init())
     .pipe(sass({
         outputStyle: 'compact',
         errLogToConsole: true,
@@ -262,7 +261,6 @@ gulp.task('sass', function(){
       level: 2,
     }))
     .pipe(rename('main.css'))
-    .pipe(sourcemaps.write())
     .pipe(gulp.dest(paths.scssDestination))
     .pipe(gulp.dest(paths.scssSiteDestination))
     .pipe(size())

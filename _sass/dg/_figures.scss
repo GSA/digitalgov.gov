@@ -1,0 +1,31 @@
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+.figure-title {
+  text-transform: none;
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 32px;
+}
+
+.figure-credit {
+  text-align: right;
+  font-size: 10px;
+}
+
+figcaption {
+  margin-top: 8px;
+  margin-bottom: 32px;
+  p {
+    margin-top: 0;
+    font-size: 16px;
+    max-width: 40em;
+    line-height: 1.35;
+  }
+  p + p {
+    margin-top: 1em;
+  }
+}

@@ -27,22 +27,22 @@ $color-secondary-dark: #009999 !default;
 // $font-bold:           700 !default;
 
 h1 {
-  font-weight: 900 !important;
+  font-weight: 900;
 }
 h2 {
-  font-weight: 800 !important;
+  font-weight: 800;
 }
 h3 {
-  font-weight: 800 !important;
+  font-weight: 800;
 }
 h4 {
-  font-weight: 800 !important;
+  font-weight: 800;
 }
 h5 {
-  font-weight: 800 !important;
+  font-weight: 800;
 }
 h6 {
-  font-weight: 500 !important;
+  font-weight: 500;
 }
 
 // left teal 'D' swoop
@@ -146,5 +146,3 @@ $container-md:                 $container-desktop !default;
 $container-large-desktop:      (1140px + $grid-gutter-width) !default;
 //** For `$screen-lg-min` and up.
 $container-lg:                 $container-large-desktop !default;
-
-
