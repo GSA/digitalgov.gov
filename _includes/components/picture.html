@@ -1,13 +1,26 @@
 
 {% capture img-base-url %}{{ site.baseurl }}/assets/img/dist/{{ include.img }}{% endcapture %}
 
+{% if include.alt  %}
+  {% assign thisAlt = include.alt %}
+{% else %}
+  {% assign thisAlt = "image" %}
+{% endif %}
+
+{% assign breakpoints = "1200,800,600" | split: ',' %}
+{% assign break = breakpoints | size | minus: 1 %}
+
 <picture>
   <!-- webp images -->
-  <source type="image/webp" srcset="{{ img-base-url }}-1200w.webp, {{ img-base-url }}-2400w.webp 2x" media="(min-width: 1200px)">
-  <source type="image/webp" srcset="{{ img-base-url }}-800w.webp, {{ img-base-url }}-1600w.webp 2x" media="(min-width: 800px)">
-  <source type="image/webp" srcset="{{ img-base-url }}-600w.webp, {{ img-base-url }}-600w.webp 2x">
+  {% for breakpoint in breakpoints %}
+    <source type="image/webp" srcset="{{ img-base-url }}-{{ breakpoint }}w.webp, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.webp 2x"{% if breakpoint != breakpoints[break] %} media="(min-width: {{ breakpoint }}px)"{% endif %}>
+  {% endfor %}
   <!-- jpeg images -->
-  <source srcset="{{ img-base-url }}-1200w.jpg, {{ img-base-url }}-2400w.jpg 2x" media="(min-width: 1200px)">
-  <source srcset="{{ img-base-url }}-800w.jpg, {{ img-base-url }}-1600w.jpg 2x" media="(min-width: 800px)">
-  <img srcset="{{ img-base-url }}-600w.jpg, {{ img-base-url }}-600w.jpg 2x" alt="{{ include.alt }}">
+  {% for breakpoint in breakpoints %}
+    {% if breakpoint != breakpoints[break] %}
+      <source type="image/webp" srcset="{{ img-base-url }}-{{ breakpoint }}w.jpg, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.jpg 2x"{% if breakpoint != breakpoints[break] %} media="(min-width: {{ breakpoint }}px)"{% endif %}>
+    {% else %}
+      <img srcset="{{ img-base-url }}-{{ breakpoint }}w.jpg, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.jpg 2x" alt="{{ thisAlt }}">
+    {% endif %}
+  {% endfor %}
 </picture>
