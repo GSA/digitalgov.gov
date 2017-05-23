@@ -38,7 +38,7 @@ var messages = {
 const siteRoot = '_site';
 
 gulp.task('build-images', function () {
-  return gulp.src('assets/img/_inbox/*.{png,jpg}')
+  return gulp.src('assets/img/_to-process/*.{png,jpg}')
     .pipe(gulp.dest('_site/assets/img/raw'))
     .pipe(gulp.dest('assets/img/raw'))
     .pipe(responsive({
@@ -172,7 +172,7 @@ gulp.task('build-images', function () {
 
 gulp.task('img', ['build-images'], function () {
   return del([
-    'assets/img/_inbox/*'
+    'assets/img/_to-process/*'
   ]);
 });
 
@@ -294,7 +294,7 @@ gulp.task('watch', function () {
       '_data/**/*'
     ], ['jekyll-rebuild-complete']);
     gulp.watch([
-      'assets/img/_inbox/**/*',
+      'assets/img/_to-processx/**/*',
     ], ['img-notify']);
 });
 

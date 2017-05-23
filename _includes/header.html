@@ -6,7 +6,13 @@
         <div class="box">
 
           <h1>
-            <a href="{{ site.url }}{{ site.baseurl }}/index.html" title="DigitalGov" rel="home"><img class="logo" src="{{ site.baseurl }}/assets/img/DigitalGov_Horizontal.png" alt="{{ header.title | default: site.title }}"></a>
+            <a href="{{ site.url }}{{ site.baseurl }}/index.html" title="DigitalGov" rel="home">
+
+              {% include components/picture.html
+                img="DigitalGov_Horizontal"
+                alt="digital.gov"
+                %}
+
             </a>
           </h1>
 

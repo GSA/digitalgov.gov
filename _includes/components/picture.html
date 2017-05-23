@@ -1,0 +1,10 @@
+<picture>
+  <!-- webp images -->
+  <source type="image/webp" srcset="assets/img/dist/{{ include.img }}-1200w.webp, assets/img/dist/{{ include.img }}-2400w.webp 2x" media="(min-width: 1200px)">
+  <source type="image/webp" srcset="assets/img/dist/{{ include.img }}-800w.webp, assets/img/dist/{{ include.img }}-1600w.webp 2x" media="(min-width: 800px)">
+  <source type="image/webp" srcset="assets/img/dist/{{ include.img }}-600w.webp, assets/img/dist/{{ include.img }}-600w.webp 2x">
+  <!-- jpeg images -->
+  <source srcset="assets/img/dist/{{ include.img }}-1200w.jpg, assets/img/dist/{{ include.img }}-2400w.jpg 2x" media="(min-width: 1200px)">
+  <source srcset="assets/img/dist/{{ include.img }}-800w.jpg, assets/img/dist/{{ include.img }}-1600w.jpg 2x" media="(min-width: 800px)">
+  <img srcset="assets/img/dist/{{ include.img }}-600w.jpg, assets/img/dist/{{ include.img }}-600w.jpg 2x" alt="{{ include.alt }}">
+</picture>
