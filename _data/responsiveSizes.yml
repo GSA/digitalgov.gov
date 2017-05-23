@@ -1,0 +1,12 @@
+- size: xs
+  width: 200
+- size: sm
+  width: 400
+- size: md
+  width: 600
+- size: lg
+  width: 800
+- size: xl
+  width: 1200
+- size: xx
+  width: 2400
