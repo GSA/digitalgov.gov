@@ -30,7 +30,7 @@ $break-md: "screen and (min-width: 992px)";
 $break-lg: "screen and (min-width: 1200px)";
 
 .hidden{
-  display: none;
+  display: none !important;
 }
 
 
