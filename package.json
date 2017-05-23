@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "gulp-install": "^1.1.0",
-    "uswds": "^1.0.0"
+    "uswds": "^1.1.0"
   },
   "name": "digital.gov",
   "description": "_Made with love, learning and all the hope in the world._",
@@ -32,6 +32,7 @@
     "gulp-notify": "^3.0.0",
     "gulp-sass": "^3.1.0",
     "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.0",
     "gulp-strip-css-comments": "^1.2.0",
     "gulp-uglify": "^2.1.0",
     "gulp-util": "^3.0.8",
