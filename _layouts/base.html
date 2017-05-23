@@ -8,6 +8,15 @@
     <!-- {% include styles.html %} -->
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" media="screen">
 
+
+    <style media="screen" type="text/css">
+
+      .hidden {
+        display: none !important;
+      }
+
+    </style>
+
     <!-- blocking scripts -->
 
        <!-- script/picturefill -->
@@ -41,6 +50,6 @@
 
     {% assign footer = site.data.footer %}
     {% include footer.html %}
-    <!--{% include components/scripts.html %}-->
+    {% include components/scripts.html %}
   </body>
 </html>
