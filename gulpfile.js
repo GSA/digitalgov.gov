@@ -204,9 +204,6 @@ gulp.task('sass', function(){
         cascade: false,
       })
     )
-    .pipe(combineMq({
-        beautify: true
-    }))
     .pipe(cleanCSS({
       compatibility: 'ie8',
       level: 2,
