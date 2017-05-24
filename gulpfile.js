@@ -96,55 +96,6 @@ gulp.task('img', function () {
             suffix: '-2400w',
             extname: '.jpg',
           },
-        }, {
-          // image-200w.webp is 200 pixels wide
-          width: 200,
-          rename: {
-            suffix: '-200w',
-            extname: '.webp',
-          },
-        }, {
-          // image-400w.webp is 400 pixels wide
-          width: 400,
-          rename: {
-            suffix: '-400w',
-            extname: '.webp',
-          },
-        }, {
-          // image-600w.webp is 400 pixels wide
-          width: 600,
-          rename: {
-            suffix: '-600w',
-            extname: '.webp',
-          },
-        }, {
-          // image-800w.webp is 400 pixels wide
-          width: 800,
-          rename: {
-            suffix: '-800w',
-            extname: '.webp',
-          },
-        }, {
-          // image-1200w.webp is 400 pixels wide
-          width: 1200,
-          rename: {
-            suffix: '-1200w',
-            extname: '.webp',
-          },
-        }, {
-          // image-1600w.webp is 400 pixels wide
-          width: 1600,
-          rename: {
-            suffix: '-1600w',
-            extname: '.webp',
-          },
-        }, {
-          // image-1600w.webp is 400 pixels wide
-          width: 2400,
-          rename: {
-            suffix: '-2400w',
-            extname: '.webp',
-          },
         }],
       }, {
         // Global configuration for all images
