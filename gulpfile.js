@@ -96,6 +96,12 @@ gulp.task('img', function () {
             suffix: '-2400w',
             extname: '.jpg',
           },
+//        }, {
+//          // image-max.jpg is original width
+//          rename: {
+//            suffix: '-max',
+//            extname: '.jpg',
+//          },
         }],
       }, {
         // Global configuration for all images
@@ -106,6 +112,8 @@ gulp.task('img', function () {
         skipOnEnlargement: true,
         errorOnEnlargement: false,
         silent: true,
+//        flatten: true,
+//        background: "#fff",
       }))
       .pipe(gulp.dest('_site/assets/img/dist'))
       .pipe(gulp.dest('assets/img/dist'))
@@ -204,6 +212,9 @@ gulp.task('sass', function(){
         cascade: false,
       })
     )
+    .pipe(combineMq({
+        beautify: true
+    }))
     .pipe(cleanCSS({
       compatibility: 'ie8',
       level: 2,

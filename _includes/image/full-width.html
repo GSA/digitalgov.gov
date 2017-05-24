@@ -1,0 +1,22 @@
+
+{% assign thisStyle = "full-width" %}
+{% assign sizes = "200,400,600,800,1200,2400" | split: ',' %}
+
+{% capture img-base-url %}{{ site.baseurl }}/assets/img/raw/{{ include.img }}{% endcapture %}
+
+{% capture srcset%}{% for size in sizes %}{% assign sizenum = size | plus: 0 %}{% if sizenum <= include.orignalwidth %}{{ img-base-url }}-{{ size }}w.jpg {{ size }}w,{% endif %}{% endfor %}{% endcapture %}
+
+{% assign srcset = srcset | split: ',' | join: ',' %}
+
+<figure class="{{ thisStyle }}">
+  {% if include.title  %}
+    {{ include.title | markdownify | replace: "<p>", "<h6 class='figure-title'>" | replace: "</p>", "</h6>" }}
+  {% endif %}
+  <img  srcset="{{ img-base-url }}" alt="{{ include.alt}}">
+  {% if include.credit  %}
+    <div class="figure-credit">{{ include.credit | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+  {% endif %}
+  {% if include.caption  %}
+    <figcaption>{{ include.caption | markdownify }}</figcaption>
+  {% endif %}
+</figure>

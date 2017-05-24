@@ -41,10 +41,8 @@ What types of articles are we looking for? We want posts on what government is d
 
 [Send your article ideas to us](mailto:digitalgov@gsa.gov?Subject=Blog article idea "Contact Us").
 
-  {% include components/image.html
-    img="lunch-team"
-    style="full-column"
-    orignalwidth=1200
+  {% include image/full-width.html
+    img="lunch-team.png"
     alt="Women workers employed as wipers in the roundhouse having lunch in their rest room"
     caption='Women workers employed as wipers in the roundhouse having lunch in their rest room. April, 1943.'
     credit='Jack Delano, photographer. Courtesy Library of Congress.'
