@@ -41,7 +41,7 @@ What types of articles are we looking for? We want posts on what government is d
 
 [Send your article ideas to us](mailto:digitalgov@gsa.gov?Subject=Blog article idea "Contact Us").
 
-  {% include components/figure.html
+  {% include components/image.html
     img="lunch-team"
     style="full-column"
     orignalwidth=1200
