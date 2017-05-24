@@ -15,11 +15,6 @@
     {{ include.title | markdownify | replace: "<p>", "<h6 class='figure-title'>" | replace: "</p>", "</h6>" }}
   {% endif %}
   <picture class="{{ include.style }}">
-    <!-- webp images -->
-    {% for breakpoint in breakpoints %}
-      <source type="image/webp" srcset="{{ img-base-url }}-{{ breakpoint }}w.webp, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.webp 2x"{% if breakpoint != breakpoints[break] %} media="(min-width: {{ breakpoint }}px)"{% endif %}>
-    {% endfor %}
-    <!-- jpeg images -->
     {% for breakpoint in breakpoints %}
       {% if breakpoint != breakpoints[break] %}
         <source type="image/webp" srcset="{{ img-base-url }}-{{ breakpoint }}w.jpg, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.jpg 2x"{% if breakpoint != breakpoints[break] %} media="(min-width: {{ breakpoint }}px)"{% endif %}>
