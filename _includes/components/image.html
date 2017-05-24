@@ -4,7 +4,7 @@
 
 {% capture img-base-url %}{{ site.baseurl }}/assets/img/dist/{{ include.img }}{% endcapture %}
 
-{% capture srcset%}{% for size in sizes %}{% assign sizenum = size | plus: 0 %}{% if sizenum < include.orignalwidth %}{{ img-base-url }}-{{ size }}w.jpg {{ size }}w,{% endif %}{% endfor %}{% endcapture %}
+{% capture srcset%}{% for size in sizes %}{% assign sizenum = size | plus: 0 %}{% if sizenum <= include.orignalwidth %}{{ img-base-url }}-{{ size }}w.jpg {{ size }}w,{% endif %}{% endfor %}{% endcapture %}
 
 {% assign srcset = srcset | split: ',' | join: ',' %}
 
