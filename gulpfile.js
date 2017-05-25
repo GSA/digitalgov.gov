@@ -4,12 +4,16 @@ var gulp = require('gulp');
 var notify = require("gulp-notify");
 
 var sass = require('gulp-sass'),
+    watch = require('gulp-watch'),
+    del = require('del'),
     autoprefixer = require('gulp-autoprefixer'),
 		rename = require('gulp-rename'),
     cleanCSS = require('gulp-clean-css'),
     combineMq = require('gulp-combine-mq'),
     strip = require('gulp-strip-css-comments'),
     size = require('gulp-size'),
+    responsive = require('gulp-responsive'),
+    vinylPaths = require('vinyl-paths'),
     sourcemaps = require('gulp-sourcemaps'),
     browserSync = require('browser-sync').create();
 
@@ -36,6 +40,93 @@ var messages = {
 
 const siteRoot = '_site';
 
+gulp.task('img', function () {
+  return watch('assets/img/_to-process/*.{png,jpg}', { ignoreInitial: false }, function () {
+    gulp.src('assets/img/_to-process/*.{png,jpg}')
+      .pipe(vinylPaths(del))
+      .pipe(gulp.dest('_site/assets/img/raw'))
+      .pipe(gulp.dest('assets/img/raw'))
+      .pipe(responsive({
+        '*': [{
+          // image-xs.jpg is 200 pixels wide
+          width: 200,
+          rename: {
+            suffix: '-200w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-400w.jpg is 400 pixels wide
+          width: 400,
+          rename: {
+            suffix: '-400w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-600w.jpg is 800 pixels wide
+          width: 600,
+          rename: {
+            suffix: '-600w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-md.jpg is 600 pixels wide
+          width: 800,
+          rename: {
+            suffix: '-800w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-1200w.jpg is 1200 pixels wide
+          width: 1200,
+          rename: {
+            suffix: '-1200w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-1600w.jpg is 600 pixels wide
+          width: 1600,
+          rename: {
+            suffix: '-1600w',
+            extname: '.jpg',
+          },
+        }, {
+          // image-2400w.jpg is 1200 pixels wide
+          width: 2400,
+          rename: {
+            suffix: '-2400w',
+            extname: '.jpg',
+          },
+//        }, {
+//          // image-max.jpg is original width
+//          rename: {
+//            suffix: '-max',
+//            extname: '.jpg',
+//          },
+        }],
+      }, {
+        // Global configuration for all images
+        quality: 80,
+        progressive: true,
+        withMetadata: false,
+        errorOnUnusedConfig: false,
+        skipOnEnlargement: true,
+        errorOnEnlargement: false,
+        silent: true,
+//        flatten: true,
+//        background: "#fff",
+      }))
+      .pipe(gulp.dest('_site/assets/img/dist'))
+      .pipe(gulp.dest('assets/img/dist'))
+      .pipe(browserSync.stream({once: true}))
+      .pipe(notify({
+        "title": "digital.gov",
+        "subtitle": "Responsive images built.",
+        "message": "Project reloaded.",
+        "onLast": true,
+        "sound": "Pop" // case sensitive
+      }));
+    });
+});
 
 gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
@@ -109,7 +200,6 @@ gulp.task('jekyll-first-build', ['serve'], function () {
 
 gulp.task('sass', function(){
   return gulp.src(paths.scss)
-    .pipe(sourcemaps.init())
     .pipe(sass({
         outputStyle: 'compact',
         errLogToConsole: true,
@@ -130,7 +220,6 @@ gulp.task('sass', function(){
       level: 2,
     }))
     .pipe(rename('main.css'))
-    .pipe(sourcemaps.write())
     .pipe(gulp.dest(paths.scssDestination))
     .pipe(gulp.dest(paths.scssSiteDestination))
     .pipe(size())
@@ -156,7 +245,6 @@ gulp.task('watch', function () {
       '_includes/**/*',
       '_layouts/**/*',
       '_posts/**/*',
-      'assets/img/**/*',
       'content/**/*'
     ], ['jekyll-rebuild']);
     gulp.watch([
@@ -164,4 +252,4 @@ gulp.task('watch', function () {
     ], ['jekyll-rebuild-complete']);
 });
 
-gulp.task('default', ['jekyll-first-build', 'sass', 'watch']);
+gulp.task('default', ['jekyll-first-build', 'sass', 'img', 'watch']);

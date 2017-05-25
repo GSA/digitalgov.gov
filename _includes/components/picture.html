@@ -1,0 +1,32 @@
+
+{% capture img-base-url %}{{ site.baseurl }}/assets/img/dist/{{ include.img }}{% endcapture %}
+
+{% if include.alt  %}
+  {% assign thisAlt = include.alt %}
+{% else %}
+  {% assign thisAlt = "image" %}
+{% endif %}
+
+{% assign breakpoints = "1200,800,600" | split: ',' %}
+{% assign break = breakpoints | size | minus: 1 %}
+
+<figure>
+  {% if include.title  %}
+    {{ include.title | markdownify | replace: "<p>", "<h6 class='figure-title'>" | replace: "</p>", "</h6>" }}
+  {% endif %}
+  <picture class="{{ include.style }}">
+    {% for breakpoint in breakpoints %}
+      {% if breakpoint != breakpoints[break] %}
+        <source type="image/webp" srcset="{{ img-base-url }}-{{ breakpoint }}w.jpg, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.jpg 2x"{% if breakpoint != breakpoints[break] %} media="(min-width: {{ breakpoint }}px)"{% endif %}>
+      {% else %}
+        <img srcset="{{ img-base-url }}-{{ breakpoint }}w.jpg, {{ img-base-url }}-{{ breakpoint | times: 2 }}w.jpg 2x" alt="{{ thisAlt }}">
+      {% endif %}
+    {% endfor %}
+  </picture>
+  {% if include.credit  %}
+    <div class="figure-credit">{{ include.credit | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+  {% endif %}
+  {% if include.caption  %}
+    <figcaption>{{ include.caption | markdownify }}</figcaption>
+  {% endif %}
+</figure>

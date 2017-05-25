@@ -30,13 +30,17 @@
     "gulp-clean-css": "^3.3.1",
     "gulp-combine-mq": "^0.4.0",
     "gulp-notify": "^3.0.0",
+    "gulp-responsive": "^2.7.0",
     "gulp-sass": "^3.1.0",
     "gulp-size": "^2.1.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-strip-css-comments": "^1.2.0",
     "gulp-uglify": "^2.1.0",
     "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
     "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
+    "jshint-stylish": "^2.2.1",
+    "sharp": "^0.17.3",
+    "vinyl-paths": "^2.1.0"
   }
 }
