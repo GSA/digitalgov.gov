@@ -1,9 +1,9 @@
 ---
-permalink: /2017/05/16/becoming-an-agile-content-team/
+
 layout: post
 date: 2017-05-16 2:00:16 -0400
 title: Becoming an Agile Content Team
-summary: In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.  We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team\: Being
+summary: 'In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.  We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team\: Being'
 authors: jessica-milcetich
 categories:
   - Managing Digital
@@ -18,7 +18,7 @@ tags:
 
 In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.
 
-{% img="https://www.WHATEVER/files/2017/05/600-x-338-Content-Team-Structure.jpg" alt="Agile Workflow and content structure graphic." %}
+{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-338-Content-Team-Structure.jpg" alt="Agile Workflow and content structure graphic." %}
 
 We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team:
 

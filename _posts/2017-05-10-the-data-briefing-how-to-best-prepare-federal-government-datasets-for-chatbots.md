@@ -1,9 +1,9 @@
 ---
-permalink: /2017/05/10/the-data-briefing-how-to-best-prepare-federal-government-datasets-for-chatbots/
+
 layout: post
 date: 2017-05-10 11:00:46 -0400
-title: The Data Briefing\: How to Best Prepare Federal Government Datasets for Chatbots
-summary: Forbes magazine recently ran an article showcasing six handy mobile apps that were built using federal government open data. The apps range from the Alternative Fueling Station Locator to ZocDoc (a doctor locator). What I especially like about the Forbes article is that the author describes the federal government data sets behind each app. There
+title: 'The Data Briefing: How to Best Prepare Federal Government Datasets for Chatbots'
+summary: 'Forbes magazine recently ran an article showcasing six handy mobile apps that were built using federal government open data. The apps range from the Alternative Fueling Station Locator to ZocDoc (a doctor locator). What I especially like about the Forbes article is that the author describes the federal government data sets behind each app. There'
 authors: bbrantley
 categories:
   - Data
@@ -28,7 +28,9 @@ Forbes magazine recently ran an [article showcasing six handy mobile apps that w
 
 Along with [mobile apps](https://www.WHATEVER/2016/01/27/the-data-briefing-improving-the-federal-government-through-mobile-apps/), there are [responsive websites](https://www.WHATEVER/tag/responsive-web-design/) and [progressive web apps](https://www.WHATEVER/2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/). These information sources are optimized for mobile devices. The apps are responsive and easy-to-use but, they merely deliver information as any website does. What users are now demanding is a more personal experience when interacting with data.
 
-Enter the chatbot. [Chatbots](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/) put a friendly face on the data sets and informational content of a website. The number of chatbots has exploded in recent years as users prefer to interact conversationally rather than using an online search. [Chatbots have personalities](https://chatbotsmagazine.com/how-to-write-for-a-bot-ce8afc25e54b?source=email-92b5c875be4d-1493983821063-digest.reader------0-6&sectionName=top) and can often sound like you are talking to a friend rather than a bunch of “if this, then” algorithms. [The U.S. federal government is in the process of building chatbots](http://www.fedtechmagazine.com/article/2017/02/chatbot-here-help), so expect to see more federal government chatbots being released in 2017 and 2018. {% img="https://www.WHATEVER/files/2017/05/600-x-400-low-res-Chatbot-concept-with-instant-messenger-displayed-on-smart-phone-a-image-iStock-Thinkstock-588366818.jpg" alt="Chatbot concept with instant messenger displayed on smart phone" %} 
+Enter the chatbot. [Chatbots](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/) put a friendly face on the data sets and informational content of a website. The number of chatbots has exploded in recent years as users prefer to interact conversationally rather than using an online search. [Chatbots have personalities](https://chatbotsmagazine.com/how-to-write-for-a-bot-ce8afc25e54b?source=email-92b5c875be4d-1493983821063-digest.reader------0-6&sectionName=top) and can often sound like you are talking to a friend rather than a bunch of “if this, then” algorithms. [The U.S. federal government is in the process of building chatbots](http://www.fedtechmagazine.com/article/2017/02/chatbot-here-help), so expect to see more federal government chatbots being released in 2017 and 2018.
+
+{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-400-low-res-Chatbot-concept-with-instant-messenger-displayed-on-smart-phone-a-image-iStock-Thinkstock-588366818.jpg" alt="Chatbot concept with instant messenger displayed on smart phone" %}
 
 So, how do agencies prepare their government datasets for chatbots? The key is to think conversationally. How will users ask about the data and what should the responses be? Follow the steps below to map how your agency’s datasets will be transformed into a conversation.
 

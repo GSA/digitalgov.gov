@@ -1,9 +1,9 @@
 ---
-permalink: /2017/05/22/how-facebook-live-increased-reach-and-engagement-of-scientific-lectures-at-nih/
+
 layout: post
 date: 2017-05-22 1:00:34 -0400
 title: How Facebook Live Increased Reach and Engagement of Scientific Lectures at NIH
-summary: Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain
+summary: 'Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain'
 authors: yasmine-kloth
 categories:
   - Content
@@ -42,7 +42,7 @@ To increase visibility and engagement of these talks, NCCIH implemented a digita
   3. Rounding out the series with an online-only event—[an additional Facebook Live Q&A](https://www.facebook.com/nih.nccih/videos/1405263649496849/) with high-level retired military personnel, now faculty members at the Uniformed Services University of the Health Sciences, who have extensive pain management experience
   4. Visually branding the series in addition to using [a hashtag](https://twitter.com/search?f=tweets&vertical=default&q=%23NCCIHmilitaryhealth&src=typd) and series title.
 
-{% img="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." %}
+{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." %}
 
 The topics included resilience in military families, pain and opioid management in veterans, and the incorporation of mind and body approaches into military health treatment plans.
 
@@ -95,16 +95,16 @@ Each event, on the heels of the one before it, was an opportunity for promotion�
     <p>
       <a href="https://www.facebook.com/nih.nccih/videos/1405263649496849/">Facebook Live Q&A: Mind and Body Approaches and Military Perso&#8230;</a>
     </p>
-    
+
     <p>
       Tuesday, April 25 at 1 p.m. ET: Facebook Live Q&A on mind and body approaches and military personnel and their families. Dr. Eric Schoomaker and Dr. Trip Buckenmaier, both experts from the Uniformed Services University of the Health Sciences, will take your questions on mind and body approaches (such as meditation, yoga, and relaxation techniques) for pain, post-traumatic stress disorder, anxiety, and insomnia in the military population. Join us! (For more information: https://nccih.nih.gov/MilitaryHealthEvents2017) #NCCIHMilitaryHealth
     </p>
-    
+
     <p>
       Posted by <a href="https://www.facebook.com/nih.nccih/">National Center for Complementary and Integrative Health</a> on Tuesday, April 25, 2017
     </p>
   </blockquote>
-</div><section> 
+</div><section>
 
 <p id="fn1">
   <a href="#r1">[1]</a> It’s unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>

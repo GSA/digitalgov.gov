@@ -1,5 +1,5 @@
 ---
-permalink: /2017/05/29/hello-world/
+
 layout: post
 date: 2017-05-29 1:50:02 -0400
 title: Hello world!
