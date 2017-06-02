@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-01-29 10:00:11 -0400
 title: 'Be a Citizen Scientist with NOAA&amp;#8217;s CrowdMag App'
 summary: ''

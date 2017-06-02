@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-11-12 1:00:44 -0400
 title: 'The API Briefing\: The Fun Finder &ndash; The Recreation Information Database'
 summary: 'Back in 2000, I worked at a dot-com building website applications such as a real-time stock ticker ribbon and a real estate listings search engine. One of my favorite applications was an app for mobile phones. At that time, I used the Wireless Access Protocol (WAP), which displayed information using a special version of XHTML.'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-07-25 3:00:38 -0400
 title: 'The Content Corner\: Quality Over Quantity&mdash;a Case for Long-Form Content'
 summary: 'Content can be categorized in many ways. While breaking down your website analytics, pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries. Let&amp;#8217;s first define the two terms\: Short &ndash; Content that is generally created quickly, and consumed just as fast; e.g., tweets,'

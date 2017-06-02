@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-05-31 12:15:34 -0400
 title: 'Our CX Recipe for Success\: Complete with Ingredient List and Substitutions!'
 summary: 'If you were to spend any time with me in the kitchen, you would often find me searching out substitutions for ingredients that I don&amp;#8217;t have on hand or have to drive 100 miles to find. I don&amp;#8217;t want to abandon the recipe, so I substitute instead. I find that in the world of internal'

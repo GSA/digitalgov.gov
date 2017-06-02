@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-10-15 10:00:49 -0400
 title: 'The API Briefing\: EPA&rsquo;s Water Quality Portal API Merges Three Data Streams'
 summary: ' Access to clean water is fast becoming a vital issue in the 21st century. Changing climate patterns are drying up aquifers and limiting the amount of water runoff from thawing snow packs. Drought conditions in California are effecting hydroelectric production while dry conditions in the West have increased the frequency and'

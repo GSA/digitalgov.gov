@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-11-20 10:00:37 -0400
 title: 'Roadmap for Creating a Writing Style Guide\: One Step at a Time'
 summary: 'So, you&rsquo;re tired of seeing little (or big!) errors on your agency&rsquo;s website, and you flinch at the random writing styles. You feel like your agency&rsquo;s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency&rsquo;s'

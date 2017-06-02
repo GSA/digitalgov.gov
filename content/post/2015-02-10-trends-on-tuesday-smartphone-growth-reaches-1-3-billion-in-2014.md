@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-02-10 9:51:14 -0400
 title: 'Trends on Tuesday\: Smartphone Growth Reaches 1.3 Billion in 2014'
 summary: 'Smartphone adoption rate continues to rise, but the screen sizes users adopt&nbsp;continue to evolve. According to preliminary data from the International Data Corporation (IDC) Worldwide Quarterly Mobile Phone Tracker, smartphone vendors shipped a total of 375.2 million units during the fourth quarter of 2014. IDC states that this was an increase of more than 25%,&nbsp;compared'

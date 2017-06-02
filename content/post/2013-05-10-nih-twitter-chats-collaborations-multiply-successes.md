@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-05-10 9:06:27 -0400
 title: 'NIH Twitter Chats\: Collaborations Multiply Successes'
 summary: 'Twitter Chat discussing anxiety, stress, and complementary health practices December 18, 2012'

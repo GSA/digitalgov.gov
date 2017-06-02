@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-01-06 11:31:50 -0400
 title: 'Trends on Tuesday\: Phablets Top Tablets in Post-Holiday Activations'
 summary: 'Phablets, the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, increased in popularity this holiday season. According to Flurry, 13% of new device activations in December were phablets, jumping from 4% in 2013. Back in October, the International Data Corporation (IDC) predicted that &ldquo;phablets&rdquo; would outship tablets in 2015.'

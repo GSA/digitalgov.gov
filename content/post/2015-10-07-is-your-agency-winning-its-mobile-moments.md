@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-10-07 4:16:43 -0400
 title: 'Is Your Agency Winning Its Mobile Moments?'
 summary: 'Someone has a problem they are trying to solve. They pull out their mobile device and find a solution. They move onto something else. That&amp;#8217;s a mobile moment. Organizations are living and dying by their mobile moments, and a few government agencies are winning theirs. We&amp;#8217;ve written before how the Transportation Security Administration is winning'

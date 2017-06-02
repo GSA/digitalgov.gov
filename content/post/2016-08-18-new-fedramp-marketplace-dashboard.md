@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-08-18 12:00:22 -0400
 title: 'New FedRAMP Marketplace Dashboard'
 summary: 'We&rsquo;re incredibly excited to announce the launch of the new FedRAMP Marketplace dashboard! It&rsquo;s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!  When we launched the FedRAMP Marketplace about 3 years ago, our intent was to create'

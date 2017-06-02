@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-06-29 11:48:52 -0400
 title: 'Mobile Strategy at the Smithsonian'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Smithsonian.&nbsp; The Smithsonian&amp;#8217;s Mobile Strategy is designed to be integral to the overall organizational strategy of the institution. This Mobile Gov Experience is a synopsis of a&nbsp;webinar&nbsp;(PDF, 3.3 MB, 18 pages)&nbsp;by Smithsonian&rsquo;s'

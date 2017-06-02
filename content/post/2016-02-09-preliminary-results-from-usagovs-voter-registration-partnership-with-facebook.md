@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-02-09 10:00:37 -0400
 title: 'Preliminary Results from USAGov&amp;#8217;s Voter Registration Partnership with Facebook'
 summary: 'The first phase of our partnership with Facebook included Facebook &amp;#8220;megaphones&amp;#8221; being rolled out in a handful of states with rapidly approaching voter registration deadlines. Facebook&amp;#8217;s megaphone is a featured box that is displayed at the top of all user&amp;#8217;s News Feeds. (You may recall seeing these after certain disasters giving users the option to'

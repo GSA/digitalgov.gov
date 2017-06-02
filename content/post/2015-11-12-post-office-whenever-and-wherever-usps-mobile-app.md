@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-11-12 11:10:05 -0400
 title: 'Post Office Whenever and Wherever&mdash;USPS Mobile&reg; App'
 summary: 'Gone are the days when you have to drive miles on a hot and humid afternoon or a cold wintry morning to your local post office to mail your letters, get your stamps or determine how much postage you will need for that package. Technology has become integral to our lives, and now many of'

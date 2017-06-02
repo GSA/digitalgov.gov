@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-11-01 10:00:43 -0400
 title: 'Trends on Tuesdays\: Mobile Phone Camera Upgrades Offer Interesting Opportunities for Government Agencies'
 summary: 'Professional photographer and early &ldquo;iPhonography&rdquo; pioneer, Chase Jarvis coined the phrase, &ldquo;The best camera is the one that&amp;#8217;s with you.&rdquo; The recent jumps in mobile phone photo technology presents interesting opportunities for government agencies to consider as mobile phone cameras are starting to rival and surpass professional gear. When Google and Apple both announced their'

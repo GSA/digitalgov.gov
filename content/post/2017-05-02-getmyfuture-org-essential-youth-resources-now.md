@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2017-05-02 2:00:39 -0400
 title: 'GetMyFuture.org\: Essential Youth Resources, Now'
 summary: 'They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It&rsquo;s a logical sentiment, but there&rsquo;s an obverse to it. When you&rsquo;re young, all those doors are open. Doors as far as you can see. It&rsquo;s all about learning how to make informed decisions about what doors to wander through.'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-12-19 12:26:12 -0400
 title: 'Eventbrite Now Available for Federal Use'
 summary: 'Does your agency host events, organize meet-ups, or provide training and professional development? &nbsp;Then&nbsp;Eventbrite&nbsp;can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a&nbsp;federal-compatible Terms of Service. Eventbrite is an online ticketing service that allows event organizers to plan, set up registration or ticket sales and'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-09 2:29:14 -0400
 title: 'Multiple Languages, Single Platforms\: the World Digital Library'
 summary: 'Multilingual does not always mean multiple accounts or websites. Increasingly, multilingual content is delivered in an integrated way, with two (or more!) languages delivered on the same website, app, or social media platform. The World Digital Library (WDL) is one example of how multiple languages can be incorporated on single platforms. The WDL is a'

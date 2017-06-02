@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-12-07 1:29:31 -0400
 title: 'The EPA&amp;#8217;s New Environmental Digital Services Marketplace'
 summary: 'Over the past year, the Environmental Protection Agency (EPA) has undertaken a broad initiative to transform the way it delivers digital services. We&rsquo;ve been working hand-in-hand with the EPA to make this transformation a success by supporting such programs as eManifest. Working with 18F is'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-08-03 9:57:02 -0400
 title: 'Mobile First Webinar Recap'
 summary: 'Federal agency mobile implementation is an important aspect of the&nbsp;Digital Government Strategy,&nbsp;so last week the Mobile Gov team and&nbsp;Digital Gov University&nbsp;partnered for a &amp;#8220;Mobile First&amp;#8221; Webinar.&nbsp;A &amp;#8220;mobile first&amp;#8221; approach is where new websites and applications are designed for mobile devices first, instead of designed for the traditional desktop. &nbsp;Representatives from government and the private sector'

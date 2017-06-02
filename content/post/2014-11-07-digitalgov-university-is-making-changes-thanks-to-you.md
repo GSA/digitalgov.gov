@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-11-07 11:19:17 -0400
 title: 'DigitalGov University is Making Changes Thanks to You'
 summary: 'DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs. DigitalGov University (DGU) is a platform for feds to share ideas, experiences and techniques to meet 21st century public'

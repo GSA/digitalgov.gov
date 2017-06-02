@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-10-21 11:00:10 -0400
 title: 'The Data Briefing\: Highlights from 300 Federal Mobile Moments'
 summary: 'DigitalGov&amp;#8217;s theme this month is mobile moments,&nbsp;which explores the impact of mobile applications in the federal government. For this post, I am examining the more than&nbsp;300 mobile apps created by the federal government. An updated list of federal mobile apps is on USA.gov. According to the list, 73&nbsp;federal organizations have released mobile apps on&nbsp;a wide'

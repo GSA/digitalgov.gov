@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-08-06 11:45:35 -0400
 title: 'Trends on Tuesday\: A Record 230 Million Smartphones Shipped Q2 2013'
 summary: 'According to research done by Strategy Analytics, global smartphone shipments grew 47 percent from 156.5 million units in the second quarter of 2012 to 229.6 million units in the second quarter of 2013.&nbsp; Additionally, the research finds that this growth is being driven by demand for Android phones in'

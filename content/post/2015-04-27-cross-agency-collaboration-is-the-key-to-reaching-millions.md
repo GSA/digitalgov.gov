@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-27 12:02:24 -0400
 title: 'Cross-Agency Collaboration Is the Key to Reaching Millions'
 summary: 'This story begins with a post about reverse mortgages, but don&rsquo;t worry\: we won&rsquo;t go into the world of complex home loans. Rather, this is a story about how one federal agency is partnering with another to amplify its content and reach millions of people online&mdash;and why more agencies should do the same. Many federal'

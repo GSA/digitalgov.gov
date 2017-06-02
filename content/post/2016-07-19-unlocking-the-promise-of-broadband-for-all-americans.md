@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-07-19 2:30:50 -0400
 title: 'Unlocking the Promise of Broadband for All Americans'
 summary: 'Summary\:&nbsp;The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies. Benjamin Franklin. Thomas Edison. George Washington Carver. Samuel Morse. America is a nation of inventors, and invention has spurred American growth since its inception, to the benefit of all Americans. [youtube=http\://www.youtube.com/watch?v=LkEG8KLvaAc&amp;amp;w=600] That same spirit of invention continues today,'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-02-26 1:00:43 -0400
 title: 'Keep a Strong Job Search Game with USA.gov&amp;#8217;s Federal Mobile Apps Directory'
 summary: 'Scoping the fed scene for the best match to apply your very&nbsp;formidable&nbsp;skillset? Use your smartphone to cast a wider net on your job search with help from the USA.gov Federal Mobile Apps Directory. Federal job hunters are no longer confined to desktop websites, so&nbsp;check out'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-06-01 10:00:39 -0400
 title: 'Grow Your Content Base with New Contributions to the HHS Syndication Storefront'
 summary: 'We have written about syndication&nbsp;and its successes&nbsp;before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system.'

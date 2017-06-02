@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-05-07 10:00:35 -0400
 title: 'Because It&amp;#8217;s Hard'
 summary: 'Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets, built'

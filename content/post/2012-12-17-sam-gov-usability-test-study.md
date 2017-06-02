@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-12-17 12:04:42 -0400
 title: 'SAM.gov &amp;#8211; Usability Case Study'
 summary: 'One of the most vital parts of any website is its starting point. When a visitor arrives on the main page of your site, they should be able to quickly tell what the main tasks are and how to perform them. Visual cues and plain language are the best ways to accomplish this. The SAM.gov'

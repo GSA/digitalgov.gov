@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-23 11:30:50 -0400
 title: 'Competitions Launch Start-ups and Engage Entrepreneurs'
 summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy&nbsp;site, which include the &amp;#8220;needle in the haystack&amp;#8221; solvers for a space mass competition and eleven entrepreneurial'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-10-21 10:27:05 -0400
 title: 'Partnerships Can Add Value to Prize Competitions'
 summary: 'The right partner can be the key to a successful challenge competition. If you&amp;#8217;re planning a challenge for your agency, you&amp;#8217;ve probably had to ask\:&nbsp;&amp;#8220;Do we have the tools and capabilities to pull off this challenge on our own?&amp;#8221; Why we form partnerships Often times, the answer is, &amp;#8220;no.&amp;#8221; But that shouldn&amp;#8217;t stop you from'

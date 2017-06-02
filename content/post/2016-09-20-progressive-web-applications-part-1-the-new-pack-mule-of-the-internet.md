@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-09-20 11:00:19 -0400
 title: 'Progressive Web Applications, Part 1\: the New Pack Mule of the Internet'
 summary: 'A&nbsp;mule&nbsp;is the hybrid offspring&nbsp;of a&nbsp;male donkey&nbsp;and a&nbsp;horse.&nbsp;This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound,&nbsp;and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins.'

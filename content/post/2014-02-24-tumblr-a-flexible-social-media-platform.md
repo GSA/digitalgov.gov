@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-02-24 10:12:01 -0400
 title: 'Tumblr\: A Flexible Social Media Platform'
 summary: 'When HHS&rsquo;s Katie Gorscak was looking for a way to share Stopbullying.gov&rsquo;s information with teenagers, she looked at her options on social media. New reports seem to come out regularly talking about how teens are fleeing &ldquo;traditional&rdquo; social media sites, but Gorscak knew her target audience made'

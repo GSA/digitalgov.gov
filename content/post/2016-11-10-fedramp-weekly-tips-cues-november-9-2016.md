@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-11-10 10:00:51 -0400
 title: 'FedRAMP Weekly Tips &amp;#038; Cues &ndash; November 9, 2016'
 summary: 'Many of &nbsp;our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns. Email us&nbsp;potential tips and questions that you would like published'

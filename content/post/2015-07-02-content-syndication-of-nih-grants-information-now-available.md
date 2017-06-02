@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-02 10:47:58 -0400
 title: 'Content Syndication of NIH Grants Information Now Available'
 summary: ''

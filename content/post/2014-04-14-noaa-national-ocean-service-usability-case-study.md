@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-04-14 10:00:04 -0400
 title: 'NOAA National Ocean Service &amp;#8211; Usability Case Study'
 summary: 'For a small shop with a small staff, limited time, and a small budget, redesigning a website (and testing that redesign for usability) can be daunting. At least it seemed so to us when we redesigned the National Oceanic and Atmospheric Administration (NOAA)&amp;#8217;s National Ocean Service website in November of 2013. We met the challenge'

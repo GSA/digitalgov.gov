@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-08-22 1:00:36 -0400
 title: 'Actionable Web Analytics\: A Three-Step Process'
 summary: 'As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more of'

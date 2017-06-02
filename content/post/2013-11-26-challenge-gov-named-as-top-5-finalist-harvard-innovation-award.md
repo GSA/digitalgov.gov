@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-11-26 9:34:23 -0400
 title: 'Challenge.gov Named as Top 5 Finalist Harvard Innovation Award'
 summary: 'Thanks to the tremendous work of challenge managers across federal government and the support of the White House Office of Science &amp;amp; Technology Policy, the Challenge.gov program at GSA has been named one of the top 5 finalists'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-08-06 11:11:43 -0400
 title: 'How Kids Search'
 summary: 'Kids and adults use Web search tools differently. Kids fail more often, because they often don&rsquo;t have enough knowledge or experience to search using the right keywords, or understand search results. If you&rsquo;re designing websites for kids, remember that they use search tools differently than adults. Kids prefer surfing over searching. If kids can&rsquo;t easily'

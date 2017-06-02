@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-11-20 2:22:34 -0400
 title: 'Smart Traveler App'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Department of State. Secretary Clinton often talks about using &amp;#8220;21st Century Statecraft&amp;#8221; at the State Department. For us in the website office, this equates to using new tools to'

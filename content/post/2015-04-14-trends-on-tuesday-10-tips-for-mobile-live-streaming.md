@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-14 11:10:55 -0400
 title: 'Trends on Tuesday\: 10 Tips for Mobile Live Streaming'
 summary: ' Mobile video is starting to hit its second wave for both consumption and creation, and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile bandwidth and cellular stability steadily increasing and consumers&amp;#8217; comfort with'

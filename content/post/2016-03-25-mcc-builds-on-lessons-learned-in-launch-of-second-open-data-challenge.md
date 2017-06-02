@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-03-25 10:00:16 -0400
 title: 'MCC Builds on Lessons Learned in Launch of Second Open Data Challenge'
 summary: 'The Millennium Challenge Corporation (MCC)&rsquo;s first open data challenge taught MCC some very valuable lessons in making its public data truly usable by the public. The challenges ask masters and PhD students to find creative ways to use MCC&rsquo;s publicly-available evaluation data and provide new insights into its evaluation results. As the second challenge launches,'

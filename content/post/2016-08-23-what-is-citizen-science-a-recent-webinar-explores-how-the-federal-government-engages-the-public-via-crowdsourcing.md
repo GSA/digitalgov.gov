@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-08-23 1:00:33 -0400
 title: 'What is Citizen Science?&nbsp;A Recent Webinar Explores How the Federal Government Engages the Public via Crowdsourcing'
 summary: 'From the National Park Service&nbsp;(NPS) to the Centers for Disease Control and Prevention (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.'

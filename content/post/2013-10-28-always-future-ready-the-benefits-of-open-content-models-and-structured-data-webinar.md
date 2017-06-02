@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-10-28 2:07:42 -0400
 title: 'Always Future Ready\: The Benefits of Open Content Models and Structured Data Webinar'
 summary: '&amp;#8220;Future-ready content,&amp;#8221; &amp;#8220;responsive design,&amp;#8221; &amp;#8220;create once, publish everywhere&amp;#8221; are all buzzwords you hear when talking about the present and future of Web publishing. But how do we get there? We all know that technology is only part of the answer. Open content models and structured data are a big part of the'

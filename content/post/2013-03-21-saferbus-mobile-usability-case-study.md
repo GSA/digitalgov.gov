@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-03-21 11:51:29 -0400
 title: 'SaferBus Mobile App &amp;#8211; Usability Case Study'
 summary: 'When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can'

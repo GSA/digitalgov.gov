@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-04-29 4:37:18 -0400
 title: 'Usability Testing + Gov APIs = Best'
 summary: 'Good APIs can transform intimidating data sets into something that people can use. Good government APIs can create a better connection between government and citizens. The Digital Government Strategy has spurred Federal adoption of APIs, and the Digital Services Innovation Center and DATA.GOV teams are supporting these efforts by releasing a swath of guidance and'

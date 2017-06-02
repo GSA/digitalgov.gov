@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-12-08 10:00:43 -0400
 title: 'Trends on Tuesday\: Adobe Moves Beyond Flash'
 summary: 'Half a decade since Steve Jobs declared war on Adobe Flash and refused to support it on Apple&rsquo;s mobile and tablet devices, Flash is finally losing its crown as one of the stand-alone products of Adobe. In the announcement, Adobe said, &ldquo;Flash has played a leading role in bringing new capabilities to the Web. From'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-09-03 10:00:14 -0400
 title: '&amp;#8220;Congress Creates the Bill of Rights&amp;#8221; from National Archives'
 summary: ' Whether it&amp;#8217;s the&nbsp;800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution&nbsp;or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful symbols'

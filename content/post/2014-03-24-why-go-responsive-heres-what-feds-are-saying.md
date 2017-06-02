@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-03-24 2:04:51 -0400
 title: 'Why Go Responsive? Here&rsquo;s What Feds Are Saying'
 summary: ' Responsive Web design implementations in the federal government have members of the Mobile Gov Community of Practice asking what is responsive Web design and how do we do it? In February, the Mobile'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-10 11:10:21 -0400
 title: 'Usability Testing with People Who Have Vision Impairment'
 summary: 'It&rsquo;s a forgone conclusion that usability studies are effective in identifying weak points within a website, but what about testing people who are visually impaired? How hard is it to accommodate them? There are some additional challenges that you may encounter when conducting testing with people with disabilities; however, these challenges should not be considered'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-05-13 3:02:26 -0400
 title: 'The API Briefing\: USDA&rsquo;s Farmers Market Directory API'
 summary: 'Around the D.C. area, one of the first signs of spring are the numerous farmers markets. In my neighborhood alone, I regularly visit four farmers markets that have a wide variety of produce and baked goods. Farmers markets are good for the local economy, and the easy access to fresh fruits and vegetables helps local'

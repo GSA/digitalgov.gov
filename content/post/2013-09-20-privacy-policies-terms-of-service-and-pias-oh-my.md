@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-09-20 11:48:52 -0400
 title: 'Privacy Policies, Terms of Service, and PIAs! Oh My!'
 summary: 'Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission. From my early days of using email, sites like MySpace, and later getting my first smartphone, it was a common practice for me to breeze'

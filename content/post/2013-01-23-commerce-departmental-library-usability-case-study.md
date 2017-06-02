@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-01-23 11:37:08 -0400
 title: 'Commerce Departmental Library &amp;#8211; Usability Case Study'
 summary: 'A website with too much information on the homepage, or any page, will overwhelm users in less than a second. They will be unable to find a starting point to accomplish what they came there to do. If users are not able to locate the information they need and/or are unable to get past the'

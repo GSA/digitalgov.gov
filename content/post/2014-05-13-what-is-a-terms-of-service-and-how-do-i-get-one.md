@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-05-13 10:00:33 -0400
 title: 'What Is a &amp;#8220;Terms of Service&amp;#8221; and How Do I Get One?'
 summary: 'Imagine this\: You just found a great online tool&nbsp;that can help you do your federal job 100% better. You&rsquo;re all ready to download it and&nbsp;start conquering the world when someone asks, &amp;#8220;Have you checked the Terms of Service?&amp;#8221; You&rsquo;re not sure what they&rsquo;re talking'

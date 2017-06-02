@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-12-05 12:00:42 -0400
 title: 'Five Lessons Learned During a Content Audit'
 summary: 'As part of USAGov&rsquo;s efforts to provide our audience with the reliable and quality information that they need, this summer, the Health, Education &amp;amp; Benefits (HE&amp;amp;B) topic desk completed its first content audit. Methodology and Results Data informed every step we took. In order to determine which areas to focus on first, the desk gathered'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-03-13 11:10:14 -0400
 title: 'US, Canada, and Mexico Collaborate to Improve Open Government and Digital Services'
 summary: 'Many forces are converging to strengthen the political, economic and commercial ties that bind the United States, Canada and Mexico. The GSA Office of Citizen Services and Innovative Technologies (OCSIT) has anticipated this drive toward collaboration for decades, building a network of links among the three nations&rsquo; Chief Information Officers and other national technology and'

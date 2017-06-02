@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-04-25 1:25:31 -0400
 title: 'Government Must Respond Rapidly to Social Media Hacking'
 summary: ' [Editor&amp;#8217;s note\: Please watch the&nbsp;Jan. 15 , 2015, webinar on How Government Can Prepare for and Respond to Social Media Hacks.&nbsp;on our Youtube channel] The hacking of an Associated Press news account on Twitter this week,&nbsp;and its fallout, underscored the need for agencies to'

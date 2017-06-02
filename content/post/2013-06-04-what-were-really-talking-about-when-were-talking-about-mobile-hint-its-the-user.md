@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-06-04 11:01:31 -0400
 title: 'What We&amp;#8217;re (Really) Talking About When We&amp;#8217;re Talking About Mobile (Hint\: It&amp;#8217;s the User)'
 summary: 'It used to be when we said mobile we meant activities and devices defined strictly by mobility and the features associated with it, such as GPS, SMS, barcode readers, cell phones, etc. But when I found myself in my easy chair watching a ballgame on my laptop'

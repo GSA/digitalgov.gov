@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-10-28 11:15:34 -0400
 title: 'A Picture Is Worth a Thousand Tokens'
 summary: 'Increasingly, we&amp;#8217;ve noticed that our agency customers are publishing their highest quality images on social media and within database-driven multimedia galleries on their websites. These sources are curated, contain metadata, and have both thumbnails and full-size images. That&amp;#8217;s a big improvement in quality over the images embedded within HTML pages on agencies&amp;#8217; websites. After some'

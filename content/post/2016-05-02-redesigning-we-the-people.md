@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-05-02 11:32:09 -0400
 title: 'Redesigning We the People'
 summary: 'Summary\:&nbsp;Improving the way you engage with the White House through our online petitions platform In July 2015,&nbsp;we announced a big change&nbsp;in the way we would answer petitions on&nbsp;We the People. We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-30 10:00:21 -0400
 title: 'Community Rock Star Round Up'
 summary: 'Around&nbsp;this&nbsp;month&amp;#8217;s Communities Theme, the DigitalGov team thought we&rsquo;d round up your&nbsp;community rock stars. These are people in your communities who&rsquo;ve gone above and beyond, who&rsquo;ve contributed content, organized events, participated in developing toolkits and more.&nbsp;Let&rsquo;s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'

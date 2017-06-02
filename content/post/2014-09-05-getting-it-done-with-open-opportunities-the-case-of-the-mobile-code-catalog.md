@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-09-05 10:30:00 -0400
 title: 'Getting it Done with Open Opportunities\: The Case of the Mobile Code Catalog'
 summary: 'Imagine open source code, publicly available to share, that jump starts your agency&rsquo;s mobile development efforts. Pretty neat idea, huh? Well last year it became a reality with the Mobile Code Catalog. This idea was the brainchild of Mike Pulsifer, who, as the Technical Manager for the Division of Enterprise Communications, Office of Public Affairs,'

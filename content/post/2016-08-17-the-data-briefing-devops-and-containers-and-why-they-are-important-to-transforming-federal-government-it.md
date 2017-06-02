@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-08-17 1:00:11 -0400
 title: 'The Data Briefing\: DevOps and Containers and Why They Are Important to Transforming Federal Government IT'
 summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do &ldquo;containers&rdquo; have to do with all of this? In this week&rsquo;s column, I will introduce DevOps and a related technology\: containers. Some DevOps'

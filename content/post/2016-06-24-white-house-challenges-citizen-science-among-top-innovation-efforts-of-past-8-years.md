@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-06-24 11:30:32 -0400
 title: 'White House\: Challenges, Citizen Science Among Top Innovation Efforts of Past 8 Years'
 summary: 'The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years. Evident throughout the report is the influence of Challenge.gov and CitizenScience.gov, two open innovation programs managed by the U.S. General Services Administration (GSA). In fact, among'

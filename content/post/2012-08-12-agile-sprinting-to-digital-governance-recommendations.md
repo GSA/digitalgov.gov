@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-08-12 3:51:19 -0400
 title: 'Agile &ldquo;Sprinting&rdquo; to Digital Governance Recommendations'
 summary: 'To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the&nbsp;Digital Government Strategy&nbsp;tasked the&nbsp;Digital Services Advisory Group&nbsp;with &ldquo;recommending guidelines on agency-wide governance structure for developing and delivering'

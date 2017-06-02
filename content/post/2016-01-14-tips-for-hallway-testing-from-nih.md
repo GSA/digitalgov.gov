@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-01-14 11:10:14 -0400
 title: 'Tips for Hallway Testing from NIH'
 summary: 'Over the course of the last year, the National Library of Medicine (NLM) has sought to increase its use of usability testing to improve the user experience on our Web resources. To do this, we conducted hallway usability testing at the NIH Clinical Center on NLM&amp;#8217;s site search feature. Our goal is to update the'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-28 10:00:12 -0400
 title: 'Trends on Tuesday\: People Over 55 Soon to Be Mobile-Majority Users'
 summary: 'In July, comScore released a research paper, The Global Mobile Report\: How Multi-Platform Audiences &amp;amp; Engagement Compare in the U.S., Canada, UK and Beyond, covering a lot of areas from smartphone penetration to Android vs. Apple preferences. The most impactful trend for government agencies might be best communicated through this graphic\:'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-10-04 10:00:59 -0400
 title: 'Exploring Data Portability'
 summary: 'Summary\: We&rsquo;d like to hear from you on whether and how to increase your ability to get and use your data. Many of us store our email and photos with cloud services companies or track our finances on bank websites instead of in a checkbook register. Our medical records are stored electronically at hospitals and'

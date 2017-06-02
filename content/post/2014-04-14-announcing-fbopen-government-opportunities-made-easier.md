@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-04-14 1:00:55 -0400
 title: 'Announcing FBOpen\: Government Opportunities Made Easier'
 summary: 'Today we&rsquo;re announcing our first product launch\:&nbsp;FBOpen, a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. On the surface, FBOpen is a website\:&nbsp;fbopen.gsa.gov&nbsp;is a simple, Google-style page where you can search available federal contracts and grants. We&rsquo;ve used the latest in search'

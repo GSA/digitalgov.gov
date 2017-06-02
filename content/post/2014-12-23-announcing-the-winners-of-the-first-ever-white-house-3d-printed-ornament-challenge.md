@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-12-23 11:00:05 -0400
 title: 'Announcing the Winners of the First-Ever White House 3D Printed Ornament Challenge'
 summary: 'This year, innovative technologies like 3D printing are playing a role in creating a unique and interactive holiday experience at the White House. The halls of the White House are decked out with festive holiday d&eacute;cor and the White House Christmas tree stands tall in the Blue Room. In October, the White House announced the'

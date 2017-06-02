@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-09-26 10:10:01 -0400
 title: 'Constitution App from the Library of Congress'
 summary: 'The Library of Congress recently released &nbsp;The U.S. Constitution\: Analysis and Interpretation app, an iOS version of the &amp;#8220;Constitution of the United States of America\: Analysis and Interpretation.&amp;#8221; This is a comprehensive analytical legal treatise prepared by attorneys of'

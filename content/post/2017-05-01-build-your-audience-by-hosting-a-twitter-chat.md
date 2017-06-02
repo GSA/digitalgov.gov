@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2017-05-01 3:00:08 -0400
 title: 'Build Your Audience by Hosting a Twitter Chat'
 summary: 'Twitter is more than just a platform for sharing news and updates\: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics,'

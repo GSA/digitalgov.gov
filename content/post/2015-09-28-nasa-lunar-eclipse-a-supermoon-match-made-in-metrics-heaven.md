@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-09-28 3:20:04 -0400
 title: 'NASA + Lunar Eclipse = A Super(moon) Match Made in Metrics Heaven'
 summary: ' NASA&amp;#8217;s reach&nbsp;over the last 24 hours eclipsed that of the regulars typically seen in government digital metrics. But, all agencies can drive the conversation and'

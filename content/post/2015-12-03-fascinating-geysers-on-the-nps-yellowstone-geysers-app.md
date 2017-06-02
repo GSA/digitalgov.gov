@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-12-03 1:00:56 -0400
 title: 'Fascinating Geysers on the NPS Yellowstone Geysers App'
 summary: 'Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park&nbsp;falls into this&nbsp;category.  If you are planning a visit to Yellowstone,'

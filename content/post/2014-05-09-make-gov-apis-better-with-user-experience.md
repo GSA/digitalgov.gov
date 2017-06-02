@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-05-09 10:00:29 -0400
 title: 'Make Gov APIs Better with User Experience'
 summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It&rsquo;s designed to help someone do something. Products are'

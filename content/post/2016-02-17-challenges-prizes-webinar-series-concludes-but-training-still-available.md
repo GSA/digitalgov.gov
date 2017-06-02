@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-02-17 11:10:20 -0400
 title: 'Challenges &amp;#038; Prizes Webinar Series Concludes, but Training Still Available'
 summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series\: How to Design &amp;amp; Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'

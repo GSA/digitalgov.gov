@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-07-29 10:07:10 -0400
 title: '&amp;#8220;Deconstructing&amp;#8221; Public Prize Competitions Can Result in Better Solutions'
 summary: 'When faced with a big, daunting problem to solve, it&rsquo;s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges&rsquo;) was that the government can often receive better solutions'

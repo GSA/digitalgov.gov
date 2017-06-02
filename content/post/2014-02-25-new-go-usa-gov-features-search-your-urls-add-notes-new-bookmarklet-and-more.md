@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-02-25 10:49:26 -0400
 title: 'New Go.USA.gov Features\: Search Your URLs, Add Notes, New Bookmarklet, and More'
 summary: 'You can now log in to Go.USA.gov with your username or e-mail address, one of the &nbsp;new improvements added to the government URL shortener.&nbsp;Previously you could only log in with your username. You can now\: Log in with your username or e-mail address Search your short URLs'

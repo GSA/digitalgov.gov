@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-10-31 11:00:10 -0400
 title: 'Three Small Steps You Can Take to Reboot Agile in Your Organization'
 summary: 'This past summer, 18F held an agile workshop for the National Technical Information Service (NTIS), part of the U.S. Department of Commerce. An agency with roots going back to World War II, NTIS is facing a future that requires a strategic realignment towards open data and services. This strategic alignment will also require that NTIS'

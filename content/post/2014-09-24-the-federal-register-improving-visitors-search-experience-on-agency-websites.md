@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-09-24 10:00:55 -0400
 title: 'The Federal Register\: Improving Visitors&rsquo; Search Experience on Agency Websites'
 summary: 'The Office of the Federal Register&rsquo;s mission &ldquo;informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.&rdquo; As the winner of the Bright Idea Award, FederalRegister.gov is clear and easy to use, but most citizens rarely frequent it. More frequently they'

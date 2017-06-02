@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-09 10:55:19 -0400
 title: 'DAY 50\: The Great Federal Mobile Product Hunt!'
 summary: ' The Great Federal Mobile Product Hunt is off to the races in both English and Spanish with David Cooper in the lead at 12 #lostapps from the National Center for Telehealth and Technology, Department of Veterans Affairs in a close second with 10, and Elizabeth'

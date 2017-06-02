@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-09-03 11:30:41 -0400
 title: 'To Learn About reddit, Listen First'
 summary: 'Reddit began in 2006 as an online bulletin board. Registered users post links to items on the Internet, start discussions and cast votes that control placement on the site. A simple structure and a live interview forum called AMA, (Ask Me Anything) helped make reddit a social'

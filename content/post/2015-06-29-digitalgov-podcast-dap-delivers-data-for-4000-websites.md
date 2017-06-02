@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-06-29 11:10:56 -0400
 title: 'DigitalGov Podcast\: DAP Delivers Data for 4,000 Websites'
 summary: 'You cannot improve your digital outreach without data. Since 2012, the Digital Analytics Program (DAP) has provided agencies the critical information and metrics that they need to make their public-facing websites better. The buzz around DAP has grown with the release of the'

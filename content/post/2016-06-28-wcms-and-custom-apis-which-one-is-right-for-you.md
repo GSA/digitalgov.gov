@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-06-28 11:00:33 -0400
 title: 'WCMS and Custom APIs&mdash;Which One Is Right for You?'
 summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGov University (DGU) presentation,&nbsp;Introduction to APIs. He described APIs as &amp;#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&mdash;via mobile devices, mobile apps, innovative mash-ups, and much more.&amp;#8221; Simply put,'

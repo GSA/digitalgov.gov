@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-11-16 11:10:58 -0400
 title: 'Interested in Using the New Poll Feature on Twitter? Here&rsquo;s What You Need to Know!'
 summary: ' Twitter polls allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you&rsquo;ll want to keep a few things in mind before getting started\: To stay within the social media general'

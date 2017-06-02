@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-04-18 10:00:29 -0400
 title: 'Defining Ideation in Challenge Competitions'
 summary: 'There is some confusion about how &amp;#8220;ideation&amp;#8221; fits into challenge and prize competitions. Often, we hear from agencies that they would like to ask the public for ideas, to survey them on a specific question, or to request proposals in response to a problem.'

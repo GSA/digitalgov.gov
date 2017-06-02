@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-02-06 9:00:32 -0400
 title: 'Getting to Yes\: Working with Vendors to Secure Terms of Service and Federal Friendly Pricing'
 summary: 'The federal government is one of the largest consumers of products and services in the United States. Yet, many agencies face tight budgets and firm guidelines that restrict the parameters under which agencies can use a product or service to complete projects. This presents an interesting opportunity and dilemma for agencies who want to procure'

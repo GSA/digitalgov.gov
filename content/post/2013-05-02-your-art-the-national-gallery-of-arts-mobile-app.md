@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-05-02 3:22:17 -0400
 title: 'Your Art, the National Gallery of Art&amp;#8217;s Mobile App'
 summary: 'The National Gallery of Art has released a free mobile application about the treasures in the permanent collection. Your Art app, available for iOS, enriches the experience of on-site visitors and expands the Gallery&rsquo;s reach by bringing its masterpieces to art lovers across the globe. Some of this app&amp;#8217;s features'

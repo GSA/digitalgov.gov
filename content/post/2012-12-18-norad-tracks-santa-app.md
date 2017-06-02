@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2012-12-18 2:31:58 -0400
 title: 'NORAD Tracks Santa App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by&nbsp;NORAD. The&nbsp;NORAD Tracks Santa apps&nbsp;provide a countdown to Santa&amp;#8217;s Christmas Eve flight, interactive games and live tracking of Santa&amp;#8217;s progress on December 24th. Why We'

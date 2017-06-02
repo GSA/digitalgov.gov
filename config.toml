@@ -1,5 +1,5 @@
 title = "My cool hugo site"
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-theme-bleak"
 themesDir = "./themes"
@@ -7,9 +7,9 @@ themesDir = "./themes"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 100 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
   changefreq = "monthly"

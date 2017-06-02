@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-01-04 11:00:56 -0400
 title: 'How Agile Development Can Benefit Federal Projects'
 summary: 'Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren&rsquo;t limited to deliverables\: Going agile can break down the silos that exist between and within agencies. And collaboration doesn&rsquo;t need to end at the federal level&mdash;agile projects done in the open provide a way for the public to contribute to'

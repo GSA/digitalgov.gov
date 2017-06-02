@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-02 1:00:51 -0400
 title: 'Celebrating American History with Federal Apps'
 summary: 'Summer is here, which means it is time for the biggest holiday of the summer&mdash;Fourth of July! Independence Day is a happy time of year\: BBQs, picnics, pools, sunshine and fireworks. Of course, the foundation of our celebration is American history, and there are plenty of excellent federal apps focused on this area. The American'

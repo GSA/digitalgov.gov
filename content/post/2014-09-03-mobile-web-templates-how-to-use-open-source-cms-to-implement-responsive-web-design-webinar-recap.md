@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-09-03 10:00:46 -0400
 title: 'Open Source Content Management Systems and Responsive Web Design Webinar Recap'
 summary: 'Most of us in the DigitalGov community recognize that responsive Web design is one approach to mobile first and most of us have a pretty clear picture of what it means&mdash;a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another. But do you'

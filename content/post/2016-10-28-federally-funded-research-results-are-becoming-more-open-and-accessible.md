@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-10-28 1:00:53 -0400
 title: 'Federally Funded Research Results Are Becoming More Open and Accessible'
 summary: 'Summary\: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science. This week marks the 8th annual Open Access Week, when individuals and organizations around the world celebrate the value of opening up online access to the results of scholarly research. It is an opportune'

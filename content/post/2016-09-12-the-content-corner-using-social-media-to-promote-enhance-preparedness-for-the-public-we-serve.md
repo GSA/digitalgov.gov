@@ -1,5 +1,5 @@
 ---
-layout: post
+
 date: 2016-09-12 10:00:18 -0400
 title: 'The Content Corner: Using Social Media to Promote, Enhance Preparedness for the Public We Serve'
 summary: "September is National Preparedness Month. FEMA&amp;#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America&rsquo;s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30."

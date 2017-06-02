@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-07-02 11:14:32 -0400
 title: 'Business.USA.gov &amp;#8211; Usability Case Study'
 summary: 'When redesigning a site, it&amp;#8217;s easy to place menu items, text and other content wherever you can make them fit. It&amp;#8217;s harder to take a step back and ask the strategic question\: Is this the best place for this? A good rule of thumb is to never make any changes randomly&mdash;base your decisions on user'

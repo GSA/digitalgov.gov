@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2017-05-23 11:00:44 -0400
 title: 'CSP and 3PAO Roles and Responsibilities'
 summary: 'We wanted to share some high-level guidance for CSPs and 3PAOs we created with the JAB teams to provide insight into the different roles and responsibilities for 3PAOs and CSPs in our authorization process. These roles and responsibilities were created and refined over the last year as we refined the JAB&rsquo;s authorization process through FedRAMP'

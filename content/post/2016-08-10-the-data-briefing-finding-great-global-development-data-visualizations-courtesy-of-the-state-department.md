@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-08-10 1:30:22 -0400
 title: 'The Data Briefing\: FINDing Great Global Development Data Visualizations Courtesy of the State Department'
 summary: 'Federal agencies have been releasing some fascinating data visualization tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the &ldquo;F Interagency Network Databank.&rdquo; From the description in the FAQ\: &ldquo;The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level'

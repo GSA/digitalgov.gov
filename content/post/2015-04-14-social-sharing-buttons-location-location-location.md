@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-14 10:00:19 -0400
 title: 'Social Sharing Buttons\: Location, Location, Location'
 summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons Work)'

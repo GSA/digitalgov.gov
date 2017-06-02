@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-09-14 11:00:37 -0400
 title: 'The Data Briefing\: Harnessing the Internet of Things and Synthetic Data to Provide Better Flood Warnings and Prevent Veterans Suicides'
 summary: 'Two significant items in federal government data in the last few weeks\: The Department of Commerce releases the National Water Model. The National Water Model provides a comprehensive model of river flows so local communities can better prepare for possible flooding events. What is especially amazing about the National Water Model is that it pulls'

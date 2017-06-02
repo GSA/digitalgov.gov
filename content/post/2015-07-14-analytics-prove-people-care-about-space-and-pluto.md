@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-07-14 11:48:43 -0400
 title: 'Analytics Prove People Care About Space (and Pluto!)'
 summary: 'Despite the fact that Pluto has been downgraded to a &amp;#8220;dwarf planet&amp;#8221;, &nbsp;the analytics of federal government websites prove there are still a lot of people who want to get an up-close look. NASA&rsquo;s New Horizons spacecraft, a project over nine years in the making, flew by Pluto this morning at approximately 7\:49 a.m. The'

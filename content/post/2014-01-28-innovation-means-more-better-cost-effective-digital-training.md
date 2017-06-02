@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-01-28 3:02:41 -0400
 title: 'Innovation Means More, Better, Cost Effective Digital Training'
 summary: 'A recent FedTech Magazine article asked, &amp;#8220;When'

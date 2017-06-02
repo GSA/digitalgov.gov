@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-12-01 11:00:55 -0400
 title: 'Trends on Tuesday\: Facebook, TV and How to Reach Millennials and Hispanics'
 summary: 'How do you capture millennial and Hispanic eyes? Through their hands. (More specifically\: their mobile devices, and the social apps within!). AdAge recently analyzed a study from Nielsen&rsquo;s Homescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2%'

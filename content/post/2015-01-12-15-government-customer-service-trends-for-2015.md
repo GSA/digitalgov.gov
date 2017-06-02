@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-01-12 10:00:52 -0400
 title: '15 Government Customer Service Trends for 2015'
 summary: 'With public expectations at an all-time high, and trust in government nearing all-time lows, agencies need to step up their game. Veterans, seniors, students, taxpayers&mdash;all Americans&mdash;deserve the best service from their government. Here are our predictions for how the federal government will improve customer service in the coming year\: 1. Many agencies will create a'

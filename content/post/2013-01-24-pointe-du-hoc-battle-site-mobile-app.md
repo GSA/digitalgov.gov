@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-01-24 1:59:38 -0400
 title: 'Pointe du Hoc Battle Site Mobile App'
 summary: 'The Pointe du Hoc mobile app serves as a tour guide and learning tool for this World War II D-Day landing site in France. The American Battle Monuments Commission&nbsp;(ABMC) developed both Android and'

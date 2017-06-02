@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-09-24 9:23:14 -0400
 title: 'Trends on Tuesday\: Pew Cell Phone Activities Report'
 summary: 'Pew Research Center&rsquo;s Internet &amp;amp; American Life Project recently released their report on Cell Phone Activities for 2013. The report stated that'

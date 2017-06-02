@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-06-05 12:13:55 -0400
 title: 'The Importance of Cross-Channel Customer Service&mdash;DigitalGov Summit Recap'
 summary: 'During the DigitalGov Citizen Services Summit last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on performance analysis, public private partnerships, and inter-agency work. The panelists spoke about the strategies'

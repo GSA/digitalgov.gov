@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-09-23 11:00:21 -0400
 title: 'USA.Gov Launches vote.USA.gov to Help Citizens Register and Connect with States'
 summary: ' One of the most important rights of American citizens is the right to vote. It is the foundation of our democracy, and in many ways, the basis of our government. This is why the team at USA.gov is excited to announce the launch of'

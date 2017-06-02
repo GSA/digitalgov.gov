@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-06-03 11:55:34 -0400
 title: 'The API Briefing\: Make It an API &ndash; the Census Bureau&rsquo;s Census of Governments'
 summary: 'Serendipity can be a wonderful tool for discovery. I was looking through the Census Bureau site for some business census data when I came upon the 2012 Census of Governments. According to the official description\: &ldquo;[t]he Census of Governments identifies the scope and nature of the nation&amp;#8217;s state and local government sector; provides authoritative benchmark'

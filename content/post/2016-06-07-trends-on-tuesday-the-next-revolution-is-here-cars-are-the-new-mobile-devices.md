@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-06-07 10:00:46 -0400
 title: 'Trends on Tuesday\: The Next Revolution Is Here&mdash;Cars Are the New Mobile Devices'
 summary: 'Last week, Recode published an article&nbsp;focused on&nbsp;a recent report from industry consultant Chetan Sharma that found the largest number of new mobile activations in the first quarter of 2016 came from a &lsquo;different&rsquo; kind of mobile tool&mdash;cars. There are still a lot of phone and tablet mobile activations happening&mdash;31% and 23% of all activations, respectively&mdash;but'

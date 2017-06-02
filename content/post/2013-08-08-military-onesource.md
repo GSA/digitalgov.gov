@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-08-08 9:29:04 -0400
 title: 'Military OneSource'
 summary: 'Members of the military and their families now have access to&nbsp;Military OneSource on the go with the new Department of Defense&nbsp; mobile website Military OneSource. This app'

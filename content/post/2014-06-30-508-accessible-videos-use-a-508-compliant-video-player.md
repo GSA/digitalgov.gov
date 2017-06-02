@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-06-30 10:00:37 -0400
 title: '508 Accessible Videos &amp;#8211; Use a 508-Compliant Video Player'
 summary: ' When you watch a video on your computer, the window that displays your video is called a &amp;#8220;video player.&amp;#8221; It usually has start, pause, and other buttons. You might not be aware that you&amp;#8217;re using a player at all&mdash;you just watch your video. A fully-accessible video player (e.g. Section 508-compliant) can'

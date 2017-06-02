@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-03-19 1:02:11 -0400
 title: 'Nine Tips to Leverage your Facebook Page'
 summary: 'Due to recent news feed changes,&nbsp;Facebook engagement is down nearly 50% since October for brand pages&nbsp;and is predicted to go lower,&nbsp;according to Social@Ogilvy. As a result federal&nbsp;agencies are continually monitoring the performance of their pages and diversifying their strategies. We talked to members of the Social Media Community of'

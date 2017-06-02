@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-10-24 9:05:12 -0400
 title: 'Dolphin and Whale Apps from NOAA Fisheries'
 summary: 'NOAA Fisheries to help you identify and aid stranded or injured'

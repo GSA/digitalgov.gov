@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-06-30 1:23:02 -0400
 title: 'Develop with Web Standards'
 summary: 'What It Is Do you remember the days when web pages had banners announcing that they were &amp;#8220;best viewed with browser X&amp;#8221;? Veteran web developers and designers certainly do, because they had to consider numerous exceptions for certain browsers and their versions. Today, building websites isn&amp;#8217;t as challenging and that&amp;#8217;s because developers are moving toward'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2017-03-08 1:19:51 -0400
 title: 'DigitalGov Readers and Subscribers\: We Want to Talk to You (Again)'
 summary: ' We at DigitalGov want to hear more about you &amp;#8211; your job, your role, the challenges you face &mdash; all of it &mdash;&nbsp;as you work to deliver more secure, effective, and reliable digital'

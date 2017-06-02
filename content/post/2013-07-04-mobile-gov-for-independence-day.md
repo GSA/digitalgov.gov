@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-07-04 9:28:26 -0400
 title: 'Mobile Gov for Independence Day!'
 summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun. If you&amp;#8217;re worried about the weather you can check out the&nbsp;National Weather Service&nbsp;mobile website. If the heat is'

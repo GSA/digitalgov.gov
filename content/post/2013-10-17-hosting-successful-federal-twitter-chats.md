@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-10-17 2:11:31 -0400
 title: 'Hosting Successful Federal Twitter Chats'
 summary: 'One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat. New guidance on preparing a live chat is&nbsp;now available, and we need your agencies to contribute your own policies and'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-02-02 10:00:00 -0400
 title: 'Agency Perspectives on Personas (Use, Development and Challenges)'
 summary: 'Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs. Let&amp;#8217;s delve a bit deeper into personas and review two'

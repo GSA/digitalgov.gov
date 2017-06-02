@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-09-19 10:41:41 -0400
 title: 'National Science Foundation&amp;#8217;s Science and Engineering Indicators App'
 summary: 'The National Science Foundation&amp;#8217;s National Science Board has developed&nbsp;Science and Engineering Indicators for iPad. The application provides full content of the&nbsp;Science and Engineering Indicators&nbsp;(SEI)&nbsp;2012 report &amp;#8211;the latest edition available. From NSF, The biennial SEI report is a comprehensive source of high-quality, quantitative data'

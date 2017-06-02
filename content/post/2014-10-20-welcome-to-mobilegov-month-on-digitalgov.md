@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-10-20 12:26:16 -0400
 title: 'Welcome to Mobile Gov Month on DigitalGov'
 summary: ' What&rsquo;s your mobile itch? A long time ago at a workshop not so far away&amp;#8230;we asked the 40 federal government innovators who had released native apps this question. We wanted to know their biggest barriers, challenges, frustrations to building anytime, anywhere government. Their generosity in telling us'

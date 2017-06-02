@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-11-18 3:00:31 -0400
 title: 'New Trademark App Open Source Code on GitHub'
 summary: 'Improving the way the government delivers information technology (IT) solutions to its customers isn&rsquo;t just a goal, it&rsquo;s our mission. We at the U.S. Patent and Trademark Office know that by publishing our open source code, the public can help us come up with new and better IT solutions. In advance of the new Federal'

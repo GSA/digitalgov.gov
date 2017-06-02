@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-06-24 3:28:59 -0400
 title: 'Trends on Tuesday\: Are Mobile Devices The &amp;#8220;Center&amp;#8221; of Social Universe?'
 summary: 'Mobile devices are moving closer to the center of the social universe, according to this Sproutsocial article. Platforms like Instagram, Pinterest and Twitter are overwhelmingly used on the go. Comscore predicts that there will be increasing monetization via social in the coming years.&nbsp;In the banking industry, where data shows many people have stopped going to'

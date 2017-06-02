@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-08-15 11:00:49 -0400
 title: 'The Contributor&rsquo;s Guide to 18F\: Code for the Common Good'
 summary: 'Introduction Transparency in coding makes code more secure. Open-source development is development in the light, sometimes a harsh light, that shows every blemish. At 18F we strongly believe this improves the rapidity of our coding and the quality and security of the code. We keep the code open to each other, which allows us to'

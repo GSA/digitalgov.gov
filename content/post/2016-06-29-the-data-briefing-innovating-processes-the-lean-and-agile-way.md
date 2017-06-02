@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-06-29 11:00:41 -0400
 title: 'The Data Briefing\: Innovating Processes the Lean and Agile Way'
 summary: 'Business processes have fascinated me since I took an undergraduate philosophy course in modern business management. A part-time professor who was a management consultant by day taught this unusual class. Perhaps business management thinking was first experimenting with ideas that would later lead to the agile and lean movement today. From this class I learned'

@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-09-13 6:39:05 -0400
 title: 'StudentAid.gov&amp;#8217;s 1st Year\: What We&amp;#8217;ve Learned and Where We&amp;#8217;re Going'
 summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid.&nbsp; Established in late 2010, FSA&rsquo;s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid. In my last post, I'

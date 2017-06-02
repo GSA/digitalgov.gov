@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-06-10 2:35:50 -0400
 title: 'How Agencies &ldquo;Pin&rdquo; Down Their Audiences'
 summary: 'While Facebook and Twitter are the most popular social media platforms (according to some rankings), your agency can and should evaluate the benefits of platforms like Pinterest, which have seen major growth in users and activity. In the last six months of 2014,&nbsp;Pinterest increased its membership by 57%, while Facebook and Twitter only grew by'

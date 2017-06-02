@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2017-03-15 11:02:43 -0400
 title: 'The Data Briefing\: Understand Serverless Architecture in Three Minutes'
 summary: 'You may have heard of &ldquo;serverless architecture&rdquo; or Amazon Web Services (AWS) Lambda product and wondered what is unique about this new buzzword. As with many new digital cloud technologies, serverless architecture could mean two things. It may be applications that are built using third-party cloud applications. Or serverless architectures could be pieces of code'

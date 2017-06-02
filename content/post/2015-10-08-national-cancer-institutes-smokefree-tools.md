@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-10-08 2:03:57 -0400
 title: 'National Cancer Institute&amp;#8217;s Smokefree Tools'
 summary: ' Went a little too far with a bad habit? Do you or someone you love have difficulty putting down the cancer sticks? The National Cancer Institute has developed a triple threat to help kick this issue for good'

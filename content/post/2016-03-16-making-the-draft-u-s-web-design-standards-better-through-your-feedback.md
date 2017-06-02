@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-03-16 1:02:08 -0400
 title: 'Making the Draft U.S. Web Design Standards Better Through Your Feedback'
 summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We&rsquo;ve received dozens of feature requests as well as over 400 contributions from the open source community.'

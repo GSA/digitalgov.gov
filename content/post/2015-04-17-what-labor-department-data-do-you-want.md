@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-04-17 10:00:12 -0400
 title: 'What Labor Department Data Do You Want?'
 summary: ' Four years ago, we released our Labor Department-wide API&mdash;that is, an Application Programming Interface&mdash;with the hope that anyone who wants to build an app'

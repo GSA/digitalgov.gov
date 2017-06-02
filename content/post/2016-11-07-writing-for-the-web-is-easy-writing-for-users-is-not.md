@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2016-11-07 11:00:25 -0400
 title: 'Writing for the Web Is Easy. Writing for Users Is Not.'
 summary: 'We all do it. Whether on Twitter, Facebook, or the comment section on a news article, it&rsquo;s easy to get our writing on the internet. Many of us have personal websites or contribute to blogs. We work at organizations with content management systems that allow us to publish pages with a single button click. The'

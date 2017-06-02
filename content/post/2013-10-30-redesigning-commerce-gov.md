@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2013-10-30 12:45:16 -0400
 title: 'Redesigning Commerce.gov'
 summary: 'After having the same look and feel on our website since 2010, Commerce.gov is embarking on a&nbsp;fresh redesign&nbsp;to put the user in the driver seat. Drawing on anonymized user input, we have made some significant changes and are excited to announce the launch of our new site &amp;#8211;&nbsp;Beta.Commerce.gov. First, you&rsquo;ll notice that'

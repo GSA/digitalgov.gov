@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-10-10 10:00:48 -0400
 title: 'What Do Dear Abby and the Federal Government Have in Common?'
 summary: 'Lots of people ask us questions. So it only makes sense for us to partner up to answer some of those questions. Since the 1970&rsquo;s, USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.)'

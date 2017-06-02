@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2014-06-30 1:00:27 -0400
 title: 'Is It Tweet-Worthy?'
 summary: 'The Web now contains over 1.51 billion pages of content, according to WorldWideWebSize.com. That&rsquo;s a lot of reading material, and a lot of content competing with yours for attention. People won&rsquo;t waste time (even a few seconds) on an article that doesn&rsquo;t matter to them in some way&mdash;not when there are so many other interesting'

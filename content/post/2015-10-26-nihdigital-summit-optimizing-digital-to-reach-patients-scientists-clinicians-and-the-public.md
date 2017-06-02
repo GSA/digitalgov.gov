@@ -1,6 +1,6 @@
 ---
 
-layout: post
+
 date: 2015-10-26 1:00:14 -0400
 title: '#NIHDigital Summit\: Optimizing Digital to Reach Patients, Scientists, Clinicians and the Public'
 summary: ' On October 19th, NIH brought together nearly 1,500&nbsp;digital and health experts in person and via webcast. The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators,'
