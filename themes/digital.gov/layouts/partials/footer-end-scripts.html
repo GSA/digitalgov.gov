@@ -1,0 +1,264 @@
+<script>
+  function expand(e) {
+    e.style.display = "none" == e.style.display ? "block" : "none"
+  }
+
+  function wpex_toggle(e, n, l) {
+    el = document.getElementById("wpexlink" + e), el.innerHTML = el.innerHTML == n ? l : n, expand(document.getElementById("wpex" + e))
+  }
+</script>
+<script>
+  (function(body) {
+    'use strict';
+    body.className = body.className.replace(/\btribe-no-js\b/, 'tribe-js');
+  })(document.body);
+</script>
+
+<!-- DO NOT COPY THIS SNIPPET! &mdash; HubSpot User Identification Code -->
+<script type="text/javascript">
+  (function(d, w) {
+    var match = d.cookie.match('(^|;) ?hubspotutk=([^;]*)(;|$)');
+    if (match && match[2] == "a8bab035f45fe1813bd10d90f80bf711") {
+      w._hsq = w._hsq || [];
+      w._hsq.push(["identify", {
+        "email": "jeremy.zilar@gsa.gov",
+        "name": "jzilar",
+        "id": "a0f1b6dbf080e381d9b9e567527fdb82"
+      }]);
+    }
+  })(document, window);
+</script>
+<!-- End of HubSpot User Identification Code &mdash; DO NOT COPY THIS SNIPPET! -->
+
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.1.0 -->
+<script type="text/javascript">
+  var _hsq = _hsq || [];
+  _hsq.push(["setContentType", "standard-page"]);
+  (function(d, s, i, r) {
+    if (d.getElementById(i)) {
+      return;
+    }
+    var n = d.createElement(s),
+      e = document.getElementsByTagName(s)[0];
+    n.id = i;
+    n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/1962994.js';
+    e.parentNode.insertBefore(n, e);
+  })(document, "script", "hs-analytics", 300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- jQuery for User-Controlled Layout Switch -->
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery("#onecol").click(function() {
+      jQuery("#post-grid").removeClass("twocol");
+      jQuery("#post-grid").removeClass("threecol");
+      jQuery("#onecol").addClass("active");
+      jQuery("#threecol").removeClass("active");
+      jQuery("#twocol").removeClass("active");
+      return false;
+    });
+    jQuery("#twocol").click(function() {
+      jQuery("#post-grid").addClass("twocol");
+      jQuery("#post-grid").removeClass("threecol");
+      jQuery("#twocol").addClass("active");
+      jQuery("#onecol").removeClass("active");
+      jQuery("#threecol").removeClass("active");
+      return false;
+    });
+    jQuery("#threecol").click(function() {
+      jQuery("#post-grid").addClass("threecol");
+      jQuery("#post-grid").removeClass("twocol");
+      jQuery("#threecol").addClass("active");
+      jQuery("#onecol").removeClass("active");
+      jQuery("#twocol").removeClass("active");
+      return false;
+    });
+
+  });
+</script>
+
+
+<!-- MobileMenu JS -->
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery('.nav').mobileMenu({
+      defaultText: 'Navigate to ...'
+    });
+    jQuery('.catnav').mobileMenu({
+      defaultText: 'Navigate to ...',
+      className: 'select-menu-catnav'
+    });
+    jQuery('.fixednav').mobileMenu({
+      defaultText: 'Navigate to ...',
+      className: 'select-menu-fixednav'
+    });
+  });
+</script>
+
+<!-- Media Queries Script for IE8 and Older -->
+<!--[if lt IE 9]>
+  <script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+
+<!-- TopNav Superfsh JS -->
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('#topnav ul.nav').superfish({
+      delay: 300, // delay on mouseout
+      animation: {
+        opacity: 'show',
+        height: 'show'
+      }, // fade-in and slide-down animation
+      speed: 'fast', // faster animation speed
+      cssArrows: false // disable generation of arrow mark-up
+    });
+  });
+</script>
+
+
+<!-- CatNav Superfsh JS -->
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('#catnav ul.catnav').superfish({
+      delay: 300, // delay on mouseout
+      animation: {
+        opacity: 'show',
+        height: 'show'
+      }, // fade-in and slide-down animation
+      speed: 'fast', // faster animation speed
+      cssArrows: false // disable generation of arrow mark-up
+    });
+  });
+</script>
+
+<script type='text/javascript'>
+  /* <![CDATA[ */
+  var tribe_l10n_datatables = {
+    "aria": {
+      "sort_ascending": ": activate to sort column ascending",
+      "sort_descending": ": activate to sort column descending"
+    },
+    "length_menu": "Show _MENU_ entries",
+    "empty_table": "No data available in table",
+    "info": "Showing _START_ to _END_ of _TOTAL_ entries",
+    "info_empty": "Showing 0 to 0 of 0 entries",
+    "info_filtered": "(filtered from _MAX_ total entries)",
+    "zero_records": "No matching records found",
+    "search": "Search:",
+    "pagination": {
+      "all": "All",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "select": {
+      "rows": {
+        "0": "",
+        "_": ": Selected %d rows",
+        "1": ": Selected 1 row"
+      }
+    },
+    "datepicker": {
+      "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"],
+      "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "monthNamesShort": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "nextText": "Next",
+      "prevText": "Prev",
+      "currentText": "Today",
+      "closeText": "Done"
+    }
+  }; /* ]]> */
+</script>
+<link rel='stylesheet' id='yarppRelatedCss-css' href='https://www.digitalgov.gov/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=8f845b6f58a219f5caf1a94d79eb15a6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/admin-bar.min.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+  /* <![CDATA[ */
+  var _wpcf7 = {
+    "recaptcha": {
+      "messages": {
+        "empty": "Please verify that you are not a robot."
+      }
+    }
+  };
+  /* ]]> */
+</script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/plugins/mtphr-shortcodes/assets/js/respond.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/plugins/mtphr-shortcodes/assets/js/jquery.touchSwipe.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/framework.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/external.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/hoverIntent.js?ver=r7'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/superfish.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/suckerfish.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/suckerfish-cat.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-content/themes/wp-enlightened/js/jquery.mobilemenu.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/wp-embed.min.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/comment-reply.min.js?ver=8f845b6f58a219f5caf1a94d79eb15a6'></script>
+<script type="text/css" id="tmpl-tribe_customizer_css">.tribe-events-list .tribe-events-loop .tribe-event-featured, .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured, .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap, .type-tribe_events.tribe-events-photo-event.tribe-event-featured
+  .tribe-events-photo-event-wrap:hover { background-color: #0ea0d7; } #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured { background-color: #0ea0d7; } .tribe-events-list-widget .tribe-event-featured, .tribe-events-venue-widget
+  .tribe-event-featured, .tribe-mini-calendar-list-wrapper .tribe-event-featured, .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event { background-color: #0ea0d7; } .tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single
+  { background-color: rgba(14,160,215, .7 ); border-color: #0ea0d7; } .tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover { background-color: #0ea0d7; }
+</script>
+<style type="text/css" id="tribe_customizer_css">
+  .tribe-events-list .tribe-events-loop .tribe-event-featured,
+  .tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+  .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+  .type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+    background-color: #0ea0d7;
+  }
+
+  #tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+    background-color: #0ea0d7;
+  }
+
+  .tribe-events-list-widget .tribe-event-featured,
+  .tribe-events-venue-widget .tribe-event-featured,
+  .tribe-mini-calendar-list-wrapper .tribe-event-featured,
+  .tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+    background-color: #0ea0d7;
+  }
+
+  .tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+    background-color: rgba(14, 160, 215, .7);
+    border-color: #0ea0d7;
+  }
+
+  .tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+    background-color: #0ea0d7;
+  }
+</style>
+<!--[if lte IE 8]>
+  <script type="text/javascript">
+    document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+  </script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">
+  (function() {
+    var request, b = document.body,
+      c = 'className',
+      cs = 'customize-support',
+      rcs = new RegExp('(^|\\s+)(no-)?' + cs + '(\\s+|$)');
+
+    request = true;
+
+    b[c] = b[c].replace(rcs, ' ');
+    // The customizer requires postMessage and CORS (if the site is cross domain)
+    b[c] += (window.postMessage && request ? ' ' : ' no-') + cs;
+  }());
+</script>
+<!--<![endif]-->
+
+<script type="text/javascript">
+  var bwpRecaptchaCallback = function() {
+    // render all collected recaptcha instances
+  };
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
