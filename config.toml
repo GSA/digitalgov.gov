@@ -1,7 +1,7 @@
 title = "My cool hugo site"
 baseURL = "/"
 languageCode = "en-us"
-theme = "hugo-theme-bleak"
+theme = "digital.gov"
 themesDir = "./themes"
 
 MetaDataFormat = "yaml"
