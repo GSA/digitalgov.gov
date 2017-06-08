@@ -1,4 +1,4 @@
-title = "My cool hugo site"
+title = "digital.gov"
 baseURL = "/"
 languageCode = "en-us"
 theme = "digital.gov"
