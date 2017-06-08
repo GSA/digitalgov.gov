@@ -48,8 +48,7 @@
         <ul class="slides clearfix">
 
           {{/* for item.sort(date,desc).limit(6) in recentNews */}}
-
-          {{ range first 6 .Data.Pages }}
+          {{ range first 6 (where .Site.Pages "Section" "post") }}
             {{ partial "news--item.html" . }}
           {{ end }}
 
