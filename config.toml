@@ -27,4 +27,4 @@ enableRobotsTXT = false
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 
 [permalinks]
-  post = "news/:year/:month/:title/"
+  post = ":year/:month/:day/:title/"
