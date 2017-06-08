@@ -47,12 +47,11 @@
       <div id="featured-cat-thumbnav-8c61" class="myflexslider thumbnav 0 clearfix">
         <ul class="slides clearfix">
 
-          {{ partial "news--item.html" . }}
-          {{ partial "news--item.html" . }}
-          {{ partial "news--item.html" . }}
-          {{ partial "news--item.html" . }}
-          {{ partial "news--item.html" . }}
-          {{ partial "news--item.html" . }}
+          {{/* for item.sort(date,desc).limit(6) in recentNews */}}
+
+          {{ range first 6 .Data.Pages }}
+            {{ partial "news--item.html" . }}
+          {{ end }}
 
         </ul><!-- .slides -->
       </div><!-- .myflexslider -->
