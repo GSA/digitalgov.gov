@@ -1,0 +1,775 @@
+/* Register & Edit Profile Forms*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - Reset
+2.0 - Forms
+3.0 - Alignments
+4.0 - Errors & Notices
+5.0 - User Listing 
+6.0 - Media Queries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 Reset
+--------------------------------------------------------------*/
+.wppb-user-forms,
+.wppb-user-forms *{
+	-webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+	box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+/*--------------------------------------------------------------
+2.0 Forms
+--------------------------------------------------------------*/
+.wppb-user-forms input:not([type="button"]):not([type="reset"]):not([type="submit"]),
+.wppb-user-forms select,
+.wppb-user-forms textarea{
+	font-size: 100%; /* Corrects font size not being inherited in all browsers */
+	margin: 0; /* Addresses margins set differently in IE6/7, F3/4, S5, Chrome */
+	vertical-align: baseline; /* Improves appearance and consistency in all browsers */
+}
+.wppb-user-forms input[type="checkbox"],
+.wppb-user-forms input[type="radio"] {
+	padding: 0; /* Addresses excess padding in IE8/9 */
+}
+.wppb-user-forms input[type="search"] {
+	-webkit-appearance: textfield; /* Addresses appearance set to searchfield in S5, Chrome */
+	-webkit-box-sizing: content-box; /* Addresses box sizing set to border-box in S5, Chrome (include -moz to future-proof) */
+	-moz-box-sizing:    content-box;
+	box-sizing:         content-box;
+}
+.wppb-user-forms input[type="search"]::-webkit-search-decoration { /* Corrects inner padding displayed oddly in S5, Chrome on OSX */
+	-webkit-appearance: none;
+}
+.wppb-user-forms button::-moz-focus-inner,
+.wppb-user-forms input::-moz-focus-inner { /* Corrects inner padding and border displayed oddly in FF3/4 www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/ */
+	border: 0;
+	padding: 0;
+}
+.wppb-user-forms input[type="text"],
+.wppb-user-forms input[type="number"],
+.wppb-user-forms input[type="email"],
+.wppb-user-forms input[type="url"],
+.wppb-user-forms input[type="password"],
+.wppb-user-forms input[type="search"],
+.wppb-user-forms textarea{
+	color: #666;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+.wppb-user-forms input[type="text"]:focus,
+.wppb-user-forms input[type="number"]:focus,
+.wppb-user-forms input[type="email"]:focus,
+.wppb-user-forms input[type="url"]:focus,
+.wppb-user-forms input[type="password"]:focus,
+.wppb-user-forms input[type="search"]:focus,
+.wppb-user-forms textarea:focus {
+	color: #111;
+}
+.wppb-user-forms input[type="text"],
+.wppb-user-forms input[type="number"],
+.wppb-user-forms input[type="email"],
+.wppb-user-forms input[type="url"],
+.wppb-user-forms input[type="password"],
+.wppb-user-forms input[type="search"] {
+	padding: 3px;
+}
+.wppb-user-forms textarea {
+	overflow: auto; /* Removes default vertical scrollbar in IE6/7/8/9 */
+	padding-left: 3px;
+	vertical-align: top; /* Improves readability and alignment in all browsers */
+	width: 100%;
+}
+.wppb-user-forms .wppb-wysiwyg .wp-editor-wrap { /* properly align wysiwyg editor among form fields */
+    float:left;
+    width:69.9%;
+}
+.wppb-user-forms .wppb-wysiwyg button:hover{ /* wysiwyg - overwrite the theme inherited background color on hover*/
+    background: none;
+}
+.wppb-user-forms .wppb-wysiwyg div.mce-tinymce.mce-panel{   /*Display the borders for the TinyMCE editor - Visual tab*/
+    border: 1px solid #ccc !important;
+    color: #666 !important;
+}
+.wppb-user-forms .wppb-wysiwyg div.mce-panel.mce-first{
+    border-width: 0 0 1px 0 !important;
+}
+.wppb-user-forms .wppb-wysiwyg div.mce-panel.mce-last{
+    border-width: 1px 0 !important;
+}
+.wppb-user-forms .wppb-wysiwyg .quicktags-toolbar {      /*Display the borders for the TinyMCE editor - Text tab*/
+    border: 1px solid #dedede;
+    border-bottom: 0;
+}
+#wp-link label input[type="text"] {    /*Fix the looks of the Add Link window for TinyMCE editor*/
+    padding: 0px;
+}
+
+#wppb-search-fields{
+    min-width: 250px;
+    float:left;
+    margin-right:20px;
+}
+
+.wppb-user-forms .wppb-search-button{
+    margin-right:10px;
+    padding:7px 20px;
+    line-height: 24px;
+}
+
+.wppb-search-users-wrap{
+    margin-bottom: 20px;
+}
+
+.wppb-user-forms .extra_field_heading {
+    margin-bottom: 0;
+}
+
+/*--------------------------------------------------------------
+3.0 Alignments
+--------------------------------------------------------------*/
+.wppb-user-forms ul{
+	max-width:900px;
+	list-style:none;
+	margin-left:0;
+	margin-right:0;
+    padding-left:0;
+    padding-right:0;
+}
+
+.wppb-user-forms ul li{
+    list-style:none;
+}
+
+#wppb-login-wrap p,
+#select_user_to_edit_form p{
+	overflow:hidden;
+	margin:0;
+	padding-bottom:14px;
+}
+
+.wppb-user-forms ul li{
+    margin:0;
+    padding-bottom:14px;
+}
+
+.wppb-user-forms ul li:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.wppb-user-forms .wppb-input-hidden {
+    padding-bottom: 0;
+}
+
+.wppb-user-forms.wppb-user-role-administrator .wppb-input-hidden {
+    padding-bottom: 14px;
+}
+
+.wppb-user-forms .wppb-form-field > ul {
+    margin-left: 0;
+}
+
+.wppb-form-field label,
+#wppb-login-wrap .login-username label,
+#wppb-login-wrap .login-password label{
+	width:30%;
+	float:left;
+	min-height:1px;
+}
+.wppb-form-field input,
+.wppb-form-field input[type="text"], .wppb-form-field input[type="number"], .wppb-form-field input[type="email"], .wppb-form-field input[type="url"], .wppb-form-field input[type="password"], .wppb-form-field input[type="search"],
+.wppb-form-field select,
+.wppb-form-field textarea,
+.wppb-checkboxes,
+.wppb-radios,
+#wppb-login-wrap .login-username input,
+#wppb-login-wrap .login-password input{
+	width:69.9%;
+	float:left;
+}
+
+.wppb-form-field.wppb-timepicker select {
+    width: auto;
+    margin-right: 5px;
+}
+
+.wppb-user-forms .wppb-wysiwyg .wp-editor-wrap .wp-editor-tabs *{
+    box-sizing: content-box !important;
+}
+
+.wppb-user-forms .wp-editor-wrap input {
+    float: none;
+    width: auto;
+}
+
+input#send_credentials_via_email{
+	float:none;
+	width:auto;
+	margin-right:10px
+}
+
+.wppb-send-credentials-checkbox label{
+	width:auto;
+}
+
+.wppb-form-field > span{
+	display:block;
+	clear:both;
+	margin-left:30%;
+	font-size:80%;
+	font-style:italic;
+}
+
+.wppb-form-field > span.custom_field_html {
+	font-style: normal;
+    font-size: 100%;
+}
+
+.wppb-form-field.wppb-timepicker > span.wppb-timepicker-separator {
+    display: inline-block;
+    float: left;
+    clear: none;
+    margin-left: 0;
+    margin-right: 5px;
+    font-size: 100%;
+    font-style: normal;
+}
+
+.wppb_upload_button{
+    display:inline-block;
+}
+
+.wppb-user-forms .wppb-checkboxes li,
+.wppb-user-forms .wppb-radios li{
+	display:inline-block;
+	padding:0 20px 0 0;
+}
+
+.wppb-form-field .wppb-checkboxes label,
+.wppb-form-field .wppb-radios label{
+	float:none;
+	min-width:0;
+	padding-left:5px;
+    width:auto;
+    display:inline-block;
+}
+
+.wppb-checkbox-terms-and-conditions input,
+.wppb-checkboxes li input,
+.wppb-radios li input{
+	min-width:0;
+	float:none;
+	width:auto;
+}
+
+.wppb-edit-user .wppb-checkbox-terms-and-conditions {
+	display:none;
+}
+
+.wppb-form-field.wppb-heading span,
+.wppb-default-about-yourself-heading span,
+.wppb-default-contact-info-heading span,
+.wppb-default-name-heading span,
+.wppb-checkbox-terms-and-conditions span{
+	margin-left:0;
+}
+
+.wppb-checkbox-terms-and-conditions label {
+    width: 100%;
+}
+
+.wppb-form-field.wppb-checkbox-terms-and-conditions input[type="checkbox"].custom_field_toa {
+    float:none;
+    width:auto;
+    margin-right:10px
+}
+
+
+.g-recaptcha{
+	display: inline-block;
+}
+.g-recaptcha iframe{
+    margin-bottom: 0;
+}
+
+.wppb-form-field input.wppb-map-search-box {
+    position: absolute;
+    top: 10px !important;
+    height: 34px;
+    width: 50%;
+    min-width: 250px;
+    background: #fff;
+    border: 0;
+    border-radius: 1px;
+    padding: 0 10px;
+    box-shadow: 0 1px 1px 0 #c1c1c1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wppb-create-new-site{
+    width: 100%;
+}
+input#wppb_create_new_site_checkbox{
+    width: auto;
+    margin-right: 10px;
+    float: none;
+}
+label[for=wppb_create_new_site_checkbox]{
+    width:100%;
+}
+label[for=blog-privacy]{
+    width:100%;
+}
+
+
+/*--------------------------------------------------------------
+4.0 Errors & Notices
+--------------------------------------------------------------*/
+
+#wppb_general_top_error_message,
+.wppb-error,
+.wppb-warning {
+    padding: 6px 9px;
+    margin: 0 auto 25px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #ffebe8;
+    border: 1px solid #C00;
+}
+
+#wppb_general_top_error_message,
+.wppb-error,
+.wppb-warning{
+    color:#222222;
+}
+
+#wppb_general_top_error_message a,
+.wppb-error a,
+.wppb-warning a{
+    color:#007acc;
+}
+
+.wppb-required{
+	color: red;
+}
+
+.wppb-required,
+.wppb-checkbox-terms-and-conditions span.wppb-required{
+    margin-left:5px;
+}
+
+#wppb_form_success_message,
+.wppb-success {
+    padding: 6px 9px;
+    margin: 0 auto 25px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #e7f7d3;
+    border: 1px solid #6c3;
+}
+
+.wppb-register-user .wppb-field-error,
+.wppb-edit-user .wppb-field-error,
+#wppb-recover-password .wppb-field-error{
+	background-color: #FFDFDF;
+    border: 1px dotted #C89797;
+    margin-bottom: 6px !important;
+    padding: 6px !important;
+}
+
+.wppb-field-error > input,
+.wppb-field-error > select,
+.wppb-field-error > textarea,
+.wppb-field-error > label{
+    margin-bottom: 10px;
+}
+
+.wppb-field-error img{
+    box-shadow: none;
+    -webkit-box-shadow:none;
+    border:none;
+    border-radius:0px;
+    vertical-align: middle;
+    margin-top: -3px;
+    padding-left:5px;
+    width: auto;
+    height: auto;
+}
+
+.wppb-form-field > span.wppb-form-error{
+    margin-top:10px;
+    padding-top: 5px;
+    border-top:1px dotted #c89797;
+    font-size:100%;
+    margin-left: 0;
+}
+
+/* Remove global Blog Details Field error */
+#wppb-register-user .wppb-default-blog-details.wppb-field-error{
+    background-color: transparent !important;
+    border: 0px !important;
+}
+.wppb-default-blog-details > span.wppb-form-error{
+    display:none;
+}
+.wppb-blog-details-heading span {
+    margin-left: 0;
+}
+
+
+
+
+/*--------------------------------------------------------------
+5.0 User Listing
+--------------------------------------------------------------*/
+.wppb-table *{
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+.wppb-table{
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    border-spacing: 0.5rem;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.wppb-table th{
+    background: #f4f4f4;
+    padding: 7px;
+    border:1px solid #e1e1e1;
+    text-align: left;
+}
+
+.wppb-table thead tr:hover{
+    background: none;
+}
+
+.wppb-table .wppb-sorting .wppb-sorting-default {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url('../images/sorting-default.png') no-repeat center center;
+    vertical-align: middle;
+}
+
+.wppb-table .wppb-sorting .wppb-sorting-ascending {
+    background-image: url('../images/sorting-ascending.png');
+}
+
+.wppb-table .wppb-sorting .wppb-sorting-descending {
+    background-image: url('../images/sorting-descending.png');
+}
+
+.wppb-table tr:hover{
+    background: #f1fcff;
+}
+.wppb-table td{
+    padding: 7px;
+    border:1px solid #e1e1e1;
+}
+
+.wppb-table .wppb-posts,
+.wppb-table .wppb-moreinfo{
+    text-align: center;
+}
+
+.wppb-avatar img {
+    max-width: none;
+}
+
+ul.wppb-profile{
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left:0;
+    padding-right: 0;
+}
+
+ul.wppb-profile li{
+    margin-left: 0;
+    margin-right: 0;
+    overflow: hidden;
+}
+
+ul.wppb-profile li label{
+    display: block;
+    width:30%;
+    float:left;
+    min-height:1px;
+    font-weight: bold;
+}
+
+ul.wppb-profile li span{
+    display: block;
+    width:69.9%;
+    float:left;
+}
+
+ul.wppb-profile li h3,
+ul.wppb-profile li h3:first-child{
+    margin:20px 0;
+    padding-top:20px;
+    border-top:1px solid #d2d2d2;
+}
+
+ul.wppb-faceted-list{
+    list-style: none;
+    margin:0 0 20px;
+}
+
+ul.wppb-faceted-list:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+ul.wppb-faceted-list > li{
+    float:left;
+    margin-right: 15px;
+    max-width: 300px;
+}
+
+ul.wppb-faceted-list > li:first-child{
+    float:none;
+    clear:both;
+}
+
+.wppb-userlisting-container .wppb-faceted-list li h5{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+ul.wppb-faceted-list label > *{
+    vertical-align: middle;
+}
+
+ul.wppb-faceted-list input[type="checkbox"]{
+    margin-right: 5px;
+}
+
+.wppb-userlisting-container.spinner{
+    position:relative;
+    opacity: 0.5
+}
+
+.wppb-userlisting-container.spinner:after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -16px;
+    margin-left: -16px;
+    display: block;
+    width: 32px;
+    height: 32px;
+    /*background: url('../images/ajax-loader.gif') no-repeat center;*/
+    z-index: 1000;
+}
+
+ul.wppb-faceted-list .hide-this{
+    display:none;
+}
+
+#wppb-remove-facets-container{
+    list-style: none;
+    margin: 0;
+}
+
+.wppb-remove-facet:before, .wppb-remove-all-facets:before {
+    content: "x";
+    display: inline-block;
+    border-right: 1px dotted #D3CCC9;
+    border-right: 1px dotted #6F6F6F;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+.wppb-userlisting-container .wppb-ul-range-values{
+    padding: 5px 0;
+}
+
+.wppb-userlisting-container:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.wppb-float-left{
+    float:left;
+}
+
+.wppb-float-right{
+    float:right;
+}
+
+.wppb-facet-float-left{
+    float:left;
+    max-width:300px;
+}
+
+.wppb-facet-float-right{
+    float:right;
+    max-width:300px;
+}
+
+
+@media screen and ( max-width: 720px ) {
+
+    .wppb-table {
+        border: 0;
+    }
+
+    .wppb-table thead {
+        display: none
+    }
+
+    .wppb-table tr {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    .wppb-table td {
+        display: block;
+        text-align: right;
+        border-bottom: 0;
+    }
+
+    .wppb-table td:last-of-type {
+        border-bottom: 1px solid #e1e1e1;
+    }
+
+    .wppb-table .wppb-posts,
+    .wppb-table .wppb-moreinfo{
+        text-align: right;
+    }
+
+    .wppb-table td:before {
+        content: attr(data-label);
+        float: left;
+    }
+
+    .wppb-table td:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+}
+
+/*--------------------------------------------------------------
+6.0 Media Queries
+--------------------------------------------------------------*/
+
+@media screen and (max-width: 400px) {
+
+	.wppb-form-field label,
+	#wppb-login-wrap .login-username label,
+	#wppb-login-wrap .login-password label,
+    ul.wppb-profile li label{
+		width:100%;
+		display:block;
+		float:none;
+	}
+
+	.wppb-form-field input,
+	.wppb-form-field select,
+	.wppb-form-field textarea,
+	.wppb-checkboxes,
+	.wppb-radios,
+	#wppb-login-wrap .login-username input,
+	#wppb-login-wrap .login-password input,
+    ul.wppb-profile li span{
+		width:100%;
+		float:left;
+	}
+
+	.wppb-form-field > span{
+		margin-left:0;
+	}
+
+	.wppb-checkboxes li label, 
+	.wppb-radios li label{
+		display:inline;
+	}
+	
+	.wppb-form-field .wppb-avatar-nofile,
+	.wppb-form-field .wppb-avatar-file,
+	.wppb-form-field .wppb-upload-nofile,
+	.wppb-form-field .wppb-upload-file{
+		margin-left:0;
+	}
+	
+}
+
+/*--------------------------------------------------------------
+7.0 Password Strength
+--------------------------------------------------------------*/
+#pass-strength-result {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    display: none;
+    float: left;
+    margin: 13px 5px 5px 30%;
+    padding: 3px 5px;
+    text-align: center;
+    width: 200px;
+    height:28px;
+}
+#pass-strength-result.short {
+    background-color: #ffa0a0;
+    border-color: #f04040;
+}
+#pass-strength-result.bad {
+    background-color: #ffb78c;
+    border-color: #ff853c;
+}
+#pass-strength-result.good {
+    background-color: #ffec8b;
+    border-color: #fc0;
+}
+#pass-strength-result.strong {
+    background-color: #c3ff88;
+    border-color: #8dff1c;
+}
+
+/**************************************************/
+/* Profile Builder Subscription Plans Field
+/**************************************************/
+.wppb-form-field.wppb-subscription-plans label {
+    width: 100%;
+    float: none;
+}
+
+.wppb-form-field.wppb-subscription-plans input {
+    display: inline-block;
+    width: auto;
+    float: none;
+    margin-right: 10px !important;
+}
+
+.wppb-form-field.wppb-subscription-plans span.description {
+    display: block;
+    font-size: 100%;
+    font-style: italic;
+    margin-left: 0;
+    margin-bottom: 1.5em;
+}
+
+/**************************************************/
+/* This is very weird: if in  the css there is a rule on table of border-collapse:collapse; then on FFox and Edge the Media upload won't open
+/**************************************************/
+table{
+    border-collapse:separate;
+}

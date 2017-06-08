@@ -1,0 +1,56 @@
+.offscreen {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    overflow:hidden;
+    height:auto;
+    width:auto;
+}
+
+    .offscreen:focus {
+        position:static;
+        width:auto;
+        height:auto;
+    }
+
+.context-screenreader {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding:0 !important;
+    border:0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+.screen-reader-popup {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    overflow: hidden;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.screen-reader-popup:focus {
+    left: auto;
+}
+/*
+    All links need to have that outline
+ */
+a:hover,
+a:focus,
+a:active {
+    outline: 1px dashed #3568A9 !important;
+}
+
+
+.ab-icon--report::before {
+    content: "\f481";
+    top: 2px;
+}

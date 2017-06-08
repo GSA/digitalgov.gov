@@ -1,0 +1,27 @@
+/* CUSTOM STYLESHEET
+---------------------------------------------------------------------------------
+Instructions: Add your custom styles in this file instead of style.css,
+so it's easier to update the theme. Simply copy an existing style from 
+style.css to this file, and modify it as you like.
+--------------------------------------------------------------------------------- */
+
+
+
+/* GLOBAL STYLES
+---------------------------------------------------------------------------------
+Add styles beneath this line that you want to be applied across your entire site */
+
+
+
+
+/* DESKTOP ONLY STYLES
+---------------------------------------------------------------------------------
+Add styles inside the media query below that you only want to be applied to the desktop layout of your site */
+
+@media only screen and (min-width: 801px) {
+
+
+	/* Desktop styles go here */
+
+
+}
