@@ -12,7 +12,18 @@
 
       <ul>
         <li class="meta-author">
-          <span class="meta-author">By <a href="https://www.digitalgov.gov/author/mary-davie/" title="Posts by Mary Davie" class="author url fn" rel="author">Mary Davie</a></span>
+
+
+          <span class="meta-author">By <a href="https://www.digitalgov.gov/author/mary-davie/" title="Posts by Mary Davie" class="author url fn" rel="author">
+            {{ if isset .Params "post_authors" }}
+              {{ range $index, $_id := .Params.post_authors }}
+                {{ $_author := index $.Site.Data.people $_id }}
+                {{ $_author.name }}
+              {{ end }}
+            {{ else }}
+              Author
+            {{ end }}
+          </a></span>
         </li>
 
         <li class="meta-date">
