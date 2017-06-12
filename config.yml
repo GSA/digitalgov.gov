@@ -1,0 +1,34 @@
+title                   : "digital.gov"
+baseURL                 : "/"
+languageCode            : "en-us"
+theme                   : "digital.gov"
+themesDir               : "./themes"
+
+MetaDataFormat          : "yaml"
+DefaultContentLanguage  : "en"
+SectionPagesMenu        : "main"
+Paginate                : 100
+googleAnalytics         : ""
+enableRobotsTXT         : false
+
+sitemap:
+  changefreq            : "monthly"
+  priority              : 0.5
+  filename              : "sitemap.xml"
+
+params:
+  description           : "digital.gov"
+  faceboook             : ""
+  twitter               : ""
+  instagram             : ""
+  youtube               : ""
+  background_color_class: "bg-black"
+  featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
+
+permalinks:
+  post                  : ":year/:month/:day/:title/"
+
+taxonomies:
+  tag                   : "tags"
+  category              : "categories"
+  author                : "authors"

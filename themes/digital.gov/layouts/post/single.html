@@ -15,14 +15,34 @@
 
 
           <span class="meta-author">By <a href="https://www.digitalgov.gov/author/mary-davie/" title="Posts by Mary Davie" class="author url fn" rel="author">
+
+            {{/* ugly, but works */}}
+            {{/* this uses data, but trying with taxonomies, too */}}
+            {{/*
             {{ if isset .Params "post_authors" }}
               {{ range $index, $_id := .Params.post_authors }}
-                {{ $_author := index $.Site.Data.people $_id }}
-                {{ $_author.name }}
+                {{ range $key, $value := $.Site.Data.people }}
+                  {{ if eq $value.test "friend" }}
+                    {{ $value._name }}
+                  {{ end }}
+                {{ end }}
               {{ end }}
             {{ else }}
               Author
             {{ end }}
+            */}}
+
+            {{/* trying a similar thing with taxonomies
+
+            {{ if eq .Params.test true }}
+              {{ range $i, $_id := .Params.authors }}
+                {{ range index $.Site.Taxonomies.authors $_id }}
+                  {{ .name }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            */}}
+
           </a></span>
         </li>
 
