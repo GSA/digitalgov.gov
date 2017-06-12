@@ -32,3 +32,196 @@ taxonomies:
   tag                   : "tags"
   category              : "categories"
   author                : "authors"
+
+menu:
+  primary:
+    - Name            : "home"
+      Identifier      : "home"
+      URL             : "/*/"
+      Weight          : 1
+
+    - Name            : "events"
+      Identifier      : "events"
+      URL             : "/events/"
+      Weight          : 2
+    - Name            : "Digitalgov University"
+      Parent          : "events"
+      Identifier      : "dg-university"
+      URL             : "/events/dg-university/"
+      Weight          : 20
+    - Name            : "Video Library"
+      Parent          : "events"
+      Identifier      : "video-library"
+      URL             : "/events/video-library/"
+      Weight          : 21
+
+    - Name            : "communities"
+      Identifier      : "communities"
+      URL             : "/communities/"
+      Weight          : 3
+
+    - Name            : "services"
+      Identifier      : "services"
+      URL             : "/services/"
+      Weight          : 4
+    - Name            : "Challenges & Prizes"
+      Parent          : "services"
+      Identifier      : "challenges-and-prizes"
+      URL             : "/services/challenges-and-prizes/"
+      Weight          : 41
+    - Name            : "Content Management Systems"
+      Parent          : "services"
+      Identifier      : "cms"
+      URL             : "/services/cms/"
+      Weight          : 42
+    - Name            : "Crowdsource Mobile Testing"
+      Parent          : "services"
+      Identifier      : "crowdsource-mobile-testing"
+      URL             : "/services/crowdsource-mobile-testing/"
+      Weight          : 43
+    - Name            : "data.gov"
+      Parent          : "services"
+      Identifier      : "data-dot-gov"
+      URL             : "/services/data-dot-gov/"
+      Weight          : 44
+    - Name            : "Digital Analytics Program (Metrics)"
+      Parent          : "services"
+      Identifier      : "dap"
+      URL             : "/services/dap/"
+      Weight          : 45
+    - Name            : "Electronic Capital Planning and Investment Control"
+      Parent          : "services"
+      Identifier      : "ecpic"
+      URL             : "/services/ecpic/"
+      Weight          : 46
+    - Name            : "Search"
+      Parent          : "services"
+      Identifier      : "search"
+      URL             : "/services/search/"
+      Weight          : 47
+    - Name            : "U.S. Digital Registry"
+      Parent          : "services"
+      Identifier      : "digital-registry"
+      URL             : "/services/digital-registry/"
+      Weight          : 48
+    - Name            : "URL Shortener"
+      Parent          : "services"
+      Identifier      : "url-shortener"
+      URL             : "/services/url-shortener/"
+      Weight          : 49
+
+    - Name            : "resources"
+      Identifier      : "resources"
+      URL             : "/resources/"
+      Weight          : 5
+
+    - Name            : "About"
+      Identifier      : "about"
+      URL             : "/about/"
+      Weight          : 6
+    - Name            : "Contact Us"
+      Parent          : "about"
+      Identifier      : "contact"
+      URL             : "/contact/"
+      Weight          : 61
+
+    - Name            : "Join Digitalgov"
+      Identifier      : "join"
+      URL             : "/join/"
+      Weight          : 7
+    - Name            : "Open Opportunites"
+      Parent          : "join"
+      Identifier      : "open-opportunities"
+      URL             : "/open-opportunities/"
+      Weight          : 71
+
+  secondary:
+    - Name            : "Challenges"
+      Identifier      : "challenges"
+      URL             : "/category/challenges/"
+      Weight          : 1
+    - Name            : "Crowdsourcing & Citizen Science"
+      Parent          : "challenges"
+      Identifier      : "crowdsourcing-and-citizen-science"
+      URL             : "/category/crowdsourcing-and-citizen-science/"
+      Weight          : 11
+
+    - Name            : "code"
+      Identifier      : "code"
+      URL             : "/category/code/"
+      Weight          : 2
+    - Name            : "API"
+      Parent          : "code"
+      Identifier      : "api"
+      URL             : "/category/api/"
+      Weight          : 20
+    - Name            : "Data"
+      Parent          : "code"
+      Identifier      : "data"
+      URL             : "/category/data/"
+      Weight          : 21
+
+    - Name            : "content"
+      Identifier      : "content"
+      URL             : "/category/content/"
+      Weight          : 3
+    - Name            : "Video"
+      Parent          : "content"
+      Identifier      : "video"
+      URL             : "/category/content/video/"
+      Weight          : 20
+    - Name            : "Writing"
+      Parent          : "content"
+      Identifier      : "writing"
+      URL             : "/category/content/writing/"
+      Weight          : 21
+
+    - Name            : "managing digital"
+      Identifier      : "managing-digital"
+      URL             : "/category/managing-digital/"
+      Weight          : 4
+    - Name            : "Governance"
+      Parent          : "managing-digital"
+      Identifier      : "governance"
+      URL             : "/category/managing-digital/governance/"
+      Weight          : 41
+    - Name            : "Strategy & Policy"
+      Parent          : "managing-digital"
+      Identifier      : "governance"
+      URL             : "/category/managing-digital/governance/"
+      Weight          : 42
+
+    - Name            : "metrics"
+      Identifier      : "resources"
+      URL             : "/category/metrics/"
+      Weight          : 5
+
+    - Name            : "mobile"
+      Identifier      : "mobile"
+      URL             : "/category/mobile/"
+      Weight          : 6
+
+    - Name            : "social media"
+      Identifier      : "social-media"
+      URL             : "/category/social-media/"
+      Weight          : 7
+
+    - Name            : "ux"
+      Identifier      : "ux"
+      URL             : "/category/ux/"
+      Weight          : 7
+    - Name            : "Accessibility"
+      Parent          : "ux"
+      Identifier      : "accesibility"
+      URL             : "/category/ux/accesibility/"
+      Weight          : 71
+    - Name            : "Design"
+      Parent          : "ux"
+      Identifier      : "design"
+      URL             : "/category/ux/design/"
+      Weight          : 71
+    - Name            : "User Testing & Research"
+      Parent          : "ux"
+      Identifier      : "user-testing-and-research"
+      URL             : "/category/ux/user-testing-and-research/"
+      Weight          : 71
