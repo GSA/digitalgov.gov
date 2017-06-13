@@ -1,6 +1,8 @@
 <div id="topnav">
   <div class="limit clearfix">
     <!-- SEARCH FORM -->
+
+    {{/* TODO: Determine how to connect search to our Federalist branch */}}
     <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get">
       <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
 
@@ -67,28 +69,11 @@
 
     <!-- SOCIAL MEDIA ICONS -->
     <div class="sub-icons">
-
       <ul class="clearfix">
-
-        <li><a class="subicon rss" title="Subscribe via RSS Feed" href="https://www.digitalgov.gov/feed/">RSS Feed</a></li>
-
-        <li><a class="subicon facebook" title="Connect on Facebook" rel="external" href="http://www.facebook.com/digitalgov">Facebook</a></li>
-
-        <li><a class="subicon twitter" rel="external" title="Follow Us on Twitter" href="http://www.twitter.com/digital_gov">Twitter</a></li>
-
-
-
-        <li><a class="subicon gplus" title="Connect on Google Plus" rel="external" href="https://plus.google.com/109077476228639396954?rel=author">Google</a></li>
-
-
-
-
-
-
-        <li><a class="subicon youtube" title="Connect on YouTube" rel="external" href="http://www.youtube.com/user/howtogov">Youtube</a></li>
-
+        {{ range .Site.Data.social.sources }}
+          <li><a class="subicon {{ .shortcode }}" title="{{ .action }}" href="{{ .link }}">{{ .name }}</a></li>
+        {{ end }}
       </ul>
-
     </div>
   </div>
 </div>
