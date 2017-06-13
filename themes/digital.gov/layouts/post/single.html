@@ -1,4 +1,4 @@
-{{ define "bodyclasses" }}c-sw{{ end }}
+{{ define "bodyclasses" }}c-sw single single-post single-format-standard post-template-default{{ end }}
 
 {{ define "content" }}
 <div class="singlepost post-387041 post type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
@@ -118,11 +118,22 @@
 
 {{/* Comments section removed */}}
 
+{{/*
+  ======================================
+  PREVIOUS / NEXT POST
+  ======================================
+*/}}
+
 <div class="navigation clearfix">
   <div class="alignleft single">
-    « <a href="https://www.digitalgov.gov/2017/06/07/the-data-briefing-design-driven-enterprise-architecture-creating-the-new-federal-government-agency/" rel="prev">The Data Briefing: Design-Driven Enterprise Architecture Creating the New Federal Government Agency</a>
+    {{ if .Prev }}
+      « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title }}</a>
+    {{ end }}
   </div>
   <div class="alignright single">
+    {{ if .Next }}
+      <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title }}</a> »
+    {{ end }}
   </div>
 </div>
 {{ end }} {{/* end 'content' block */}}
