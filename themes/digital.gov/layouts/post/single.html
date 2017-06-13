@@ -65,7 +65,11 @@
 
     {{ .Content }}
 
-    {{/* RELATED POSTS */}}
+    {{/*
+      ======================================
+      RELATED POSTS
+      ======================================
+    */}}
 
     {{ $currentPageUrl := .URL }}
     {{ if .Params.tags }}
@@ -87,17 +91,12 @@
       {{ end }}
     {{ end }}
 
-    <div class="yarpp-related">
-      <h3>Related posts:</h3>
-      <ol>
-        <li><a href="https://www.digitalgov.gov/2016/09/30/vendors-and-government-strengthen-partnership-at-technology-industry-day/" rel="bookmark" title="Vendors and Government Strengthen Partnership at Technology Industry Day">Vendors and Government Strengthen Partnership at Technology Industry Day </a></li>
-        <li><a href="https://www.digitalgov.gov/2016/10/28/laying-the-foundation-for-a-more-secure-modern-government/" rel="bookmark" title="Laying the Foundation for a More Secure, Modern Government">Laying the Foundation for a More Secure, Modern Government </a></li>
-        <li><a href="https://www.digitalgov.gov/2016/08/31/sign-up-for-the-technology-industry-day/" rel="bookmark" title="Sign up for the Technology Industry Day">Sign up for the Technology Industry Day </a></li>
-        <li><a href="https://www.digitalgov.gov/2017/01/11/digitalgov-university-in-review-2016-training-trends/" rel="bookmark" title="DigitalGov University in Review: 2016 Training Trends">DigitalGov University in Review: 2016 Training Trends </a></li>
-      </ol>
-    </div>
 
-    {{/* TAGS */}}
+    {{/*
+      ======================================
+      TAGS
+      ======================================
+    */}}
 
     {{ $baseurl := .Site.BaseURL }}
     {{ if .Params.Tags }}
@@ -126,7 +125,7 @@
   <div class="alignright single">
   </div>
 </div>
-{{ end }}
+{{ end }} {{/* end 'content' block */}}
 
 {{ define "sidebar" }}
 <div id="contentright">
@@ -137,4 +136,4 @@
 
   </div><!-- #sidebar -->
 </div><!-- #contentright -->
-{{ end }}
+{{ end }} {{/* end 'sidebar' block */}}
