@@ -1,4 +1,4 @@
-_name       : Foo B. Qaz
-_id         : foo_qaz
-_quote      : I regret that I have but one life to give for my country.
-test: friend
+full_name   : Foo B. Qaz
+uid         : foo_qaz
+quote       : I regret that I have but one life to give for my country.
+test        : friend

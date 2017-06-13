@@ -28,6 +28,11 @@
               {{ $_authors := .Params.authors }}
               {{ $length := $_authors | len }}
               {{ range $i, $e := $_authors }}
+                {{/* TODO: Fetch author metadata
+                {{ range $_author := where $.Site.Data.people "Params.uid" $e }}
+                 foooo
+                {{ end }}
+                */}}
                 {{ if lt (add $i 1) $length }}
                   <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
                 {{ else }}
