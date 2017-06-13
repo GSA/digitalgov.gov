@@ -1,0 +1,14 @@
+{{ define "bodyclasses" }}archive post-type-archive post-type-archive-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-list events-archive tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive{{ end }}
+
+{{ define "content" }}
+{{ $section := .Data.Pages }}
+
+  <h1>Events</h1>
+  <section class="flex-ns flex-wrap justify-around mt5">
+    {{ range $section }}
+      <h3>{{ .Params.title }}</h3>
+      <p>{{ .Params.summary }}</p>
+    {{ end }}
+  </section>
+
+{{ end }}
