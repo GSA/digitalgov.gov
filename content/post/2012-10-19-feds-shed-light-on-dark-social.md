@@ -4,7 +4,7 @@
 date: 2012-10-19 2:05:46 -0400
 title: 'Feds Shed Light on Dark Social'
 summary: '&amp;#8220;Dark Social&amp;#8221;&nbsp;media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard &nbsp;metrics fear to tread (or simply cannot) &amp;#8212; places like email and instant messaging.'
-authors: jherman
+authors: [jherman]
 categories:
   - Communities
   - Metrics

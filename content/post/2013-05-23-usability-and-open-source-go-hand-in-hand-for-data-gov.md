@@ -4,7 +4,7 @@
 date: 2013-05-23 7:49:12 -0400
 title: 'Usability and Open Source Go Hand-in-Hand for Data.gov'
 summary: 'Data.gov launched a major upgrade today, moving to a new catalog based on an open source data management system called CKAN. In the process of migrating to a new data catalog, Data.gov had the opportunity to do another round of'
-authors: sally-bourrie
+authors: [sally-bourrie]
 categories:
   - Code
 tags:

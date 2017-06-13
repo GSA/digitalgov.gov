@@ -4,7 +4,7 @@
 date: 2015-11-02 1:00:34 -0400
 title: 'Modernizing Federal Cybersecurity'
 summary: 'Summary\: Today, the Administration directed a series of actions to continue strengthening Federal cybersecurity &amp;amp; modernizing the government&rsquo;s technology infrastructure. Strengthening the cybersecurity of Federal networks, systems, and data is one of the most important challenges we face as a Nation. Every day, public and private sector leaders&mdash;my team included&mdash;are directing significant resources to address'
-authors: tony-scott
+authors: [tony-scott]
 categories:
   - Managing Digital
 tags:

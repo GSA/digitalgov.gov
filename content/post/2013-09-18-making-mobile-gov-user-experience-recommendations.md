@@ -4,7 +4,7 @@
 date: 2013-09-18 2:49:35 -0400
 title: 'Making Mobile Gov\: User Experience Recommendations'
 summary: 'How We Did It Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need&nbsp;for guidelines to help create amazing and engaging mobile user experiences.&nbsp;We convened a group to&nbsp;workshop around elements of mobile user experience&nbsp;with the goal'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Mobile
   - UX

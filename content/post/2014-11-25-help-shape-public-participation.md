@@ -4,7 +4,7 @@
 date: 2014-11-25 2:29:05 -0400
 title: 'Help Shape Public Participation'
 summary: ' Public participation&mdash;where citizens help shape and implement government programs&mdash;is a foundation of open, transparent, and engaging government services. From emergency management and regulatory development to science and education, better and more meaningful engagement with those who'
-authors: jherman, corinna-zarek
+authors: [jherman, corinna-zarek]
 categories:
   - Social Media
 tags:

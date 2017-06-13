@@ -4,7 +4,7 @@
 date: 2016-11-15 11:00:48 -0400
 title: 'Trends on Tuesday\: Americans&amp;#8217; &amp;#8216;Digital Divide&amp;#8217; on Tech Savviness and Digital Learning'
 summary: 'The Pew Internet and the American Life Project released a report recently that analyzed the use of digital tools for different groups of tech literacies and found some interesting &lsquo;digital divides&rsquo; and levels of trust, usage, and skill. The report broke out 5 personas of the American people\: Digitally Ready (17 percent of U.S. Adults)'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Mobile
 tags:

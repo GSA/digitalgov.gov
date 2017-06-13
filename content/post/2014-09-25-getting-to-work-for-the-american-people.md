@@ -4,7 +4,7 @@
 date: 2014-09-25 1:40:39 -0400
 title: 'Getting to Work for the American People'
 summary: 'Over the last 6 months, 18F has embarked on a mission to transform the way the U.S. Government builds and buys digital services. We&rsquo;re currently working with more than half a dozen agencies to help them deliver on their missions in a design-centric, agile, open, and data-driven way. How do we say yes to a'
-authors: 18f-team
+authors: [18f-team]
 categories:
   - Code
 tags:

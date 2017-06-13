@@ -4,7 +4,7 @@
 date: 2015-07-31 11:10:49 -0400
 title: 'An Overview of Digital Communities'
 summary: 'Digital communities of practice come in many stripes. DigitalGov communities span eight (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. In honor of this month&rsquo;s communities theme, we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.'
-authors: awichman
+authors: [awichman]
 categories:
   - Communities
   - Monthly Theme

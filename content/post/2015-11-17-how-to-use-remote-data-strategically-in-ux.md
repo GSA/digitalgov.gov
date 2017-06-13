@@ -4,7 +4,7 @@
 date: 2015-11-17 1:00:55 -0400
 title: 'How to Use Remote Data Strategically in UX'
 summary: 'One of the challenges UX practitioners can face is how to communicate much of the data that&rsquo;s out there. The key word is &ldquo;communicate.&rdquo; Since many of us are used to qualitative findings, making the jump to &ldquo;hard data&rdquo; can be a challenge. There are tools out there that make this easier, but we still'
-authors: justin-dopke
+authors: [justin-dopke]
 categories:
   - Monthly Theme
   - UX

@@ -4,7 +4,7 @@
 date: 2015-03-13 10:00:27 -0400
 title: 'GoodGovUX Addresses UX of IT Contracts'
 summary: 'How do you define user experience (UX)? That was the question posed to more than 100 people at the GoodGovUX event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from intranets'
-authors: jordan-higgins
+authors: [jordan-higgins]
 categories:
   - Accessibility
   - Design

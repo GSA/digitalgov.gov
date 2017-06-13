@@ -4,7 +4,7 @@
 date: 2016-01-14 11:10:14 -0400
 title: 'Tips for Hallway Testing from NIH'
 summary: 'Over the course of the last year, the National Library of Medicine (NLM) has sought to increase its use of usability testing to improve the user experience on our Web resources. To do this, we conducted hallway usability testing at the NIH Clinical Center on NLM&amp;#8217;s site search feature. Our goal is to update the'
-authors: katie-chan, joanna-karpinski-widzer
+authors: [katie-chan, joanna-karpinski-widzer]
 categories:
   - UX
 tags:
@@ -26,8 +26,8 @@ To conduct the hallway testing, two staff from NLM&#8217;s Web team set up in th
   * Create enticing posters and advertise across a large physical area. Posters can be less intimidating than approaching people when they are trying to get back to work or catch a bus.
   * Smile and look friendly, even if you are nervous. Participants will feel more comfortable approaching you.
   * Be patient. You may be sitting there for a while before participants come to you.
-  * Be prepared to deal with more than one participant at a time. Consider having a sign-up sheet with times or multiple testing stations. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Laptops on a table" %} 
+  * Be prepared to deal with more than one participant at a time. Consider having a sign-up sheet with times or multiple testing stations.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Laptops on a table" %}
 
   * Let participants lead the way, but be prepared with canned prompts. Sometimes open-ended questions can yield the most meaningful data but you want to have support for a stumped participant.
   * Respect your participant&#8217;s time. They&#8217;re doing you a favor.

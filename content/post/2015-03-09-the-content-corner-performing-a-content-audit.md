@@ -4,7 +4,7 @@
 date: 2015-03-09 10:00:21 -0400
 title: 'The Content Corner\: Performing a Content Audit'
 summary: 'Audit. It&amp;#8217;s a word that generally has no positive connotations whatsoever. We hear the word audit and we think of tax audits or timesheet audits, etc. The word normally strikes fear or dread in the hearts of most mortals. But it is also a task that all websites will need to perform from time to'
-authors: tyrus-manuel
+authors: [tyrus-manuel]
 categories:
   - Content
 tags:

@@ -4,7 +4,7 @@
 date: 2015-10-27 10:00:58 -0400
 title: 'Trends on Tuesday\: Users Spend Most of Their Time in Social Apps'
 summary: 'ComScore released a&nbsp;new 2015 U.S. Mobile App report tracking native mobile app usage among adults over 18 years old, and it reinforced a lot of the&nbsp;trends we&rsquo;ve been reporting on DigitalGov. Quartz succinctly summarized the report with the headline\: &ldquo;You really only use three apps on your phone.&rdquo; The&nbsp;report clearly pointed out that Americans spend'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Mobile
 tags:

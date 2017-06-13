@@ -4,7 +4,7 @@
 date: 2016-03-16 11:10:02 -0400
 title: 'My Data\: Empowering All Americans with Personal Data Access'
 summary: 'Summary\:&nbsp;Consumers empowered with their own data are in the driver&rsquo;s seat to make informed choices. In the 21st century economy, Americans rely on online services to access personal bank accounts, pay bills, and shop online, so why don&rsquo;t we have similar interactions with Federal government through easy-to-use, online tools? The answer is we can&mdash;and increasingly'
-authors: phaedra-chrousos, kristen-honey, tom-black
+authors: [phaedra-chrousos, kristen-honey, tom-black]
 categories:
   - Data
   - Monthly Theme

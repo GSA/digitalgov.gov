@@ -4,7 +4,7 @@
 date: 2016-07-22 10:00:29 -0400
 title: 'The FirstNet Network\: Smart Response for Smart Cities'
 summary: '&amp;#8220;Smart City&amp;#8221; is an emerging term to describe how a community &ndash; large or small &ndash; uses connected technology and/or other data sets to influence and improve the delivery of services to the private and public sectors. By integrating data and connectivity into their daily operations, communities can automate many functions to create efficiencies and'
-authors: jeanette-kennedy
+authors: [jeanette-kennedy]
 categories:
   - Data
   - Managing Digital

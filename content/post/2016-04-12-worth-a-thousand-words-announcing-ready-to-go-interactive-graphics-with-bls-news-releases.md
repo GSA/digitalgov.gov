@@ -4,7 +4,7 @@
 date: 2016-04-12 10:00:16 -0400
 title: 'Worth a Thousand Words? Announcing Ready-to-Go Interactive Graphics with BLS News Releases'
 summary: 'Last spring I wrote about how we&rsquo;ve been using more and better charts and maps to help you understand our statistics. Today I&rsquo;m excited to tell you about a new set of graphical tools to make our news releases more illuminating at the moment of their posting.'
-authors: erica-groshen
+authors: [erica-groshen]
 categories:
   - Content
   - Data

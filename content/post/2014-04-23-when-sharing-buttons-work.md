@@ -4,7 +4,7 @@
 date: 2014-04-23 10:00:41 -0400
 title: 'When Sharing Buttons Work'
 summary: 'At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page&rsquo;s link to popular social networking sites or send it via e-mail. The article To Use Social'
-authors: sarah-kaczmarek
+authors: [sarah-kaczmarek]
 categories:
   - Metrics
   - Social Media

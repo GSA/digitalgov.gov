@@ -4,7 +4,7 @@
 date: 2014-11-26 10:00:07 -0400
 title: 'Usability Events Round-Up\: 2014'
 summary: 'This past year DigitalGov University has hosted at least one Usability event per month and we thought we&amp;#8217;d give you a round-up of those events. After all, November 13th was World Usability Day. Since this year&amp;#8217;s theme of World Usability Day is Engagement it would be great to take a look at the event recap'
-authors: apiazza
+authors: [apiazza]
 categories:
   - Monthly Theme
   - UX

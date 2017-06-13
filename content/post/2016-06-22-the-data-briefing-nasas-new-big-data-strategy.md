@@ -4,7 +4,7 @@
 date: 2016-06-22 11:00:33 -0400
 title: 'The Data Briefing\: NASA&rsquo;s New Big Data Strategy'
 summary: 'Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA&rsquo;s history, NASA pioneered new ways to create and store data. So, in the world'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Data
   - Managing Digital

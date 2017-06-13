@@ -4,7 +4,7 @@
 date: 2013-11-14 1:13:08 -0400
 title: 'Ideation Challenges'
 summary: 'Tips for Conducting an Ideation Challenge Examples of Ideation Challenges Criteria for Choosing an Ideation Platform Online Platforms and Tools Challenge and prize competitions are one tool that federal agencies use to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is ideation, which allows you to collect ideas from'
-authors: ktrebon
+authors: [ktrebon]
 categories:
   - Challenges
 tags:

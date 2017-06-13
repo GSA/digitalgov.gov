@@ -4,7 +4,7 @@
 date: 2015-01-21 8:00:03 -0400
 title: 'Last Chance\: Submit Your Summit Idea'
 summary: ' You might remember in the post Crowdsourced Digital Citizen Services Summit we said &amp;#8220;Go to Citizen Services Summit 2015. Go there now!&amp;#8221; Well if you haven&amp;#8217;t yet, there is still time to go there and propose a session, idea, or speaker. Anyone can'
-authors: apiazza
+authors: [apiazza]
 categories:
   - Our Work
 tags:

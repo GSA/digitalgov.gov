@@ -4,7 +4,7 @@
 date: 2015-10-05 11:24:31 -0400
 title: 'The Content Corner\: Content Management System Considerations'
 summary: 'These days you couldn&rsquo;t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&amp;#8217;s true that for the public sector the popular open source options are extremely attractive from a cost standpoint, if nothing else,'
-authors: tymanuel
+authors: [tymanuel]
 categories:
   - Content
 tags:

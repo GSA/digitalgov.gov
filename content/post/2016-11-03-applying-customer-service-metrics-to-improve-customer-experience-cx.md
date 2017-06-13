@@ -4,7 +4,7 @@
 date: 2016-11-03 10:00:10 -0400
 title: 'Applying Customer Service Metrics to Improve Customer Experience (CX)'
 summary: 'Lately, I&rsquo;ve looked at how a government agency measures a customer&rsquo;s experience. It&rsquo;s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of customer service metrics\: customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort'
-authors: craig-chavez
+authors: [craig-chavez]
 categories:
   - Data
   - 'Strategy &amp; Policy'

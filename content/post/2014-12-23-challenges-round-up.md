@@ -4,7 +4,7 @@
 date: 2014-12-23 10:00:54 -0400
 title: 'Challenge &amp;#038; Prize Competition Round-Up'
 summary: 'Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov'
-authors: apiazza
+authors: [apiazza]
 categories:
   - Challenges
   - Monthly Theme

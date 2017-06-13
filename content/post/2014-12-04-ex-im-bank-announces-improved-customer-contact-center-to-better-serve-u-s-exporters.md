@@ -4,7 +4,7 @@
 date: 2014-12-04 11:05:11 -0400
 title: 'Ex-Im Bank Announces Improved Customer Contact Center to Better Serve U.S. Exporters'
 summary: ' As part of its ongoing effort to enhance customer experience for current and prospective exporters, the Export-Import Bank of the U.S. (Ex-Im Bank) is unveiling a new and improved customer contact center that includes an improved 1-800 number experience, along with a new email response system. The'
-authors: lawton-king
+authors: [lawton-king]
 categories:
   - Managing Digital
 tags:

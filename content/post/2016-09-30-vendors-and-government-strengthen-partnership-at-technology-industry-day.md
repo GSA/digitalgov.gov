@@ -4,7 +4,7 @@
 date: 2016-09-30 10:00:02 -0400
 title: 'Vendors and Government Strengthen Partnership at Technology Industry Day'
 summary: 'On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We&rsquo;re thrilled that more than 300 members of the technology industry in person and via the live'
-authors: andre-francisco
+authors: [andre-francisco]
 categories:
   - Code
   - Data

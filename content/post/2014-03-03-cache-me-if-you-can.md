@@ -4,7 +4,7 @@
 date: 2014-03-03 8:47:36 -0400
 title: 'DigitalGov Search\: Cache Me If You Can'
 summary: 'Slowness Hurts Web Pages Have you ever been frustrated when visiting a Web page that doesn&amp;#8217;t load quickly? Have you ever left a slow Web page before it finished loading? You&amp;#8217;re not alone. Several recent studies have quantified customers&amp;#8217; frustration with slow Web pages. Customers now expect results in the blink'
-authors: ammie-farraj-feijoo
+authors: [ammie-farraj-feijoo]
 categories:
   - Content
   - Data

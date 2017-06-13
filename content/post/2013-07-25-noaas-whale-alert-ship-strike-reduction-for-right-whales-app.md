@@ -4,7 +4,7 @@
 date: 2013-07-25 9:32:26 -0400
 title: 'NOAA&amp;#8217;s Whale Alert &ndash; Ship Strike Reduction for Right Whales App'
 summary: 'Mariners now have an anytime, anywhere resource to aid in the reduction'
-authors: brandon-barr
+authors: [brandon-barr]
 categories:
   - Mobile
 tags:

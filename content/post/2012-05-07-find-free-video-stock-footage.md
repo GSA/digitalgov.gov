@@ -4,7 +4,7 @@
 date: 2012-05-07 10:50:12 -0400
 title: 'Find Free Video Stock Footage'
 summary: 'If you&amp;#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free! &nbsp;Also known as&nbsp;B&ndash;roll, stock footage is extra material that may'
-authors: jonathan-rubin
+authors: [jonathan-rubin]
 categories:
   - Content
   - UX

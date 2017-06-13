@@ -4,7 +4,7 @@
 date: 2014-08-20 10:00:19 -0400
 title: 'The API Briefing\: Back to School &ndash; U.S. Department of Education APIs'
 summary: 'As the new school season approaches, it is a good time to see what federal datasets are available for educational app developers. Visit the developers&rsquo; page at ED.gov to find 36 educational datasets for educational levels. The datasets can be accessed in CSV, JSON, XML,'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - API
 tags:

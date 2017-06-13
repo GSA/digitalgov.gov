@@ -4,7 +4,7 @@
 date: 2014-04-16 10:00:23 -0400
 title: 'How to Tell Your Agency&rsquo;s Story&mdash;Plainly'
 summary: 'You&rsquo;ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You&rsquo;ve got the facts. You&rsquo;ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it&rsquo;s hard to organize material'
-authors: katherine-spivey
+authors: [katherine-spivey]
 categories:
   - Content
   - Writing

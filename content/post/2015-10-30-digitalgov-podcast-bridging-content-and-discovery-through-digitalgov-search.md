@@ -4,7 +4,7 @@
 date: 2015-10-30 1:12:28 -0400
 title: 'DigitalGov Podcast\: Bridging Content and Discovery Through DigitalGov Search'
 summary: ' You can find cute kitten photos online,&nbsp;but you can&amp;#8217;t&nbsp;find&nbsp;Ben Franklin&amp;#8217;s jetpack (well, you can search for it, but you won&amp;#8217;t find it!). For government agencies, connecting users to information is a critical part of meeting the public&amp;#8217;s needs and&nbsp;delivering excellent&nbsp;customer service.&nbsp;DigitalGov Search&nbsp;helps agencies deliver information to government searchers'
-authors: awichman
+authors: [awichman]
 categories:
   - Our Work
 tags:

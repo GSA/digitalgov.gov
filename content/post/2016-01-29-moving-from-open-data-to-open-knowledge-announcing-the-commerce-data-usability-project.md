@@ -4,7 +4,7 @@
 date: 2016-01-29 11:32:00 -0400
 title: 'Moving from Open Data to Open Knowledge\: Announcing the Commerce Data Usability Project'
 summary: 'Opening up government to better serve the American people has been a key priority of this Administration from day one. On his first full day in office, President Obama signed the Memorandum on Transparency and Open Government, ushering in a new era of open and accountable government. Since then, the Administration has continued to take'
-authors: tyrone-grandison, jeffrey-chen, kristen-honey
+authors: [tyrone-grandison, jeffrey-chen, kristen-honey]
 categories:
   - Data
 tags:

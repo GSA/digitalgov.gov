@@ -4,7 +4,7 @@
 date: 2015-06-16 10:00:55 -0400
 title: 'Trends on Tuesday\: Native App Lessons from the CrowdSource Mobile Testing Program'
 summary: 'The more you test, the more you know. We recently highlighted lessons learned from the CrowdSource Mobile Testing Program, discussed the mobile emulator dilemma that many agencies face, and today we&rsquo;re back with a&nbsp;few&nbsp;insights on native app testing. The Federal CrowdSource Mobile Testing Program yields a rich set of participant feedback that helps individual app'
-authors: david-fern, awichman
+authors: [david-fern, awichman]
 categories:
   - Mobile
 tags:

@@ -4,7 +4,7 @@
 date: 2014-03-27 8:00:20 -0400
 title: 'GSA Introduces News Genius to Decode Government Web'
 summary: ' The federal government can now unlock the collaborative &ldquo;genius&rdquo; of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and Small'
-authors: jherman
+authors: [jherman]
 categories:
   - Social Media
 tags:

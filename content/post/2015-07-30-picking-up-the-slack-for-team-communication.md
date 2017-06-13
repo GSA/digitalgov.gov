@@ -4,7 +4,7 @@
 date: 2015-07-30 1:01:50 -0400
 title: 'Picking Up the &ldquo;Slack&rdquo; for Team Communication'
 summary: ' You have a question about a project. You ping a coworker, who texts another colleague, who emails a listserv and receives 3 responses. And the problem is\: where will your supervisor find the answer next month, when someone else asks the same question? Corralling the'
-authors: awichman
+authors: [awichman]
 categories:
   - Social Media
 tags:

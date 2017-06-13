@@ -4,7 +4,7 @@
 date: 2013-09-27 9:21:40 -0400
 title: 'What Is a &amp;#8220;Customer Centric&amp;#8221; Culture?'
 summary: 'In our very first customer experience (CX) blog post about GSA&rsquo;s Office of Citizen Services and Innovative Technologies&rsquo; (OCSIT) Customer Experience Program, we published our principles and values. Our core principles say that all staff will\: Take responsibility for providing an experience greater than customer expectations. Engage, listen and resolve. Design business from the outside'
-authors: martha-dorris
+authors: [martha-dorris]
 categories:
   - Managing Digital
 tags:

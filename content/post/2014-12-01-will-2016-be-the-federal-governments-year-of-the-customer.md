@@ -4,7 +4,7 @@
 date: 2014-12-01 10:00:05 -0400
 title: 'Will 2016 Be the Federal Government&rsquo;s &lsquo;Year of the Customer?&rsquo;'
 summary: 'As 2014 draws to a close, agencies across the federal government are beginning to think about what the customer experience (CX) landscape will look like in the years ahead. There is little doubt that 2014 saw the government make great strides on this front, setting in motion a number of initiatives that will help ensure'
-authors: stephanie-thum
+authors: [stephanie-thum]
 categories:
   - Managing Digital
 tags:

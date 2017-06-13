@@ -4,7 +4,7 @@
 date: 2016-03-01 11:10:06 -0400
 title: 'Informing the Future of the Federal Front Door'
 summary: 'In our last post, we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people&rsquo;s experience across government agencies. We think'
-authors: michelle-chronister, carolyn-dew, colin-macarthur, john-yuda
+authors: [michelle-chronister, carolyn-dew, colin-macarthur, john-yuda]
 categories:
   - Managing Digital
   - UX

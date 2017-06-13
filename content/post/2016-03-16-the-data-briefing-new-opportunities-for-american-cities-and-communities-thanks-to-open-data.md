@@ -4,7 +4,7 @@
 date: 2016-03-16 10:00:18 -0400
 title: 'The Data Briefing\: New Opportunities for American Cities and Communities Thanks to Open Data'
 summary: 'Open data and APIs* have not only transformed the federal government; open data and APIs are also transforming tribal, state and local governments. Like federal agencies, some tribal, state and local governments are ahead of other governments in open data innovations. This situation reminds me of my earlier work with the Office of Intergovernmental Affairs'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - API
   - Data

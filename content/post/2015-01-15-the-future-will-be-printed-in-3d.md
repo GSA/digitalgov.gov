@@ -4,7 +4,7 @@
 date: 2015-01-15 10:00:42 -0400
 title: 'The Future Will Be Printed &ndash; in 3D'
 summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology trends'
-authors: awichman
+authors: [awichman]
 categories:
   - Code
   - Monthly Theme

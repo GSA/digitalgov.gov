@@ -4,7 +4,7 @@
 date: 2014-05-20 1:00:12 -0400
 title: 'Packaging Up API Usability Testing for Agency Reuse'
 summary: 'Over the past year, a GSA collaboration has seen a project that offers API Usability Testing to federal agencies go from the pilot stage to a regular, robust series. Already, 13 agencies and programs have participated, and several more participate with every monthly session that'
-authors: gray-brooks
+authors: [gray-brooks]
 categories:
   - API
   - 'User Testing &amp; Research'

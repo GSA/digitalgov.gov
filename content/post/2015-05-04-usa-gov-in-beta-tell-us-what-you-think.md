@@ -4,7 +4,7 @@
 date: 2015-05-04 2:30:34 -0400
 title: 'USA.gov in Beta\: Tell Us What You Think'
 summary: ' Thirteen years in digital is an eon, and on the eve of its 13th birthday, we at USA.gov found ourselves reckoning with a mid-life crisis. In the thirteen years since Firstgov.gov was launched (and ten years for FirstGov en Espa&ntilde;ol), the sheer volume and sophistication of'
-authors: sarah-crane
+authors: [sarah-crane]
 categories:
   - Content
   - Managing Digital

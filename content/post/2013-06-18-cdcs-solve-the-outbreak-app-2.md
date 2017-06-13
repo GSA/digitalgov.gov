@@ -4,7 +4,7 @@
 date: 2013-06-18 1:33:34 -0400
 title: 'CDC&amp;#8217;s Solve the Outbreak App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by&nbsp;Centers for Disease Control and Prevention. Centers for Disease Control (CDC)&nbsp;launched a free, educational iPad app called &ldquo;Solve the Outbreak,&rdquo; which lets users play the'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Content
   - Design

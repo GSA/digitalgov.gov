@@ -4,7 +4,7 @@
 date: 2014-12-12 11:35:14 -0400
 title: 'Going &amp;#8220;Behind the Blog&amp;#8221; with the Law Library of Congress'
 summary: 'Creative content can be found in all corners of the federal space. Recently, the Law Library of Congress blog, In&nbsp;Custodia Legis, and the United States Courts blog, The Third Branch News, were named to the&nbsp;ABA Journal&nbsp;&ldquo;Blawg 100&rdquo; out of 4,000 legal blogs eligible for selection. We wanted insight on their blogging success, so we spoke'
-authors: awichman
+authors: [awichman]
 categories:
   - Content
   - Social Media

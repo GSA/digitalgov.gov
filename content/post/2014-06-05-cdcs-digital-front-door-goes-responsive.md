@@ -4,7 +4,7 @@
 date: 2014-06-05 10:32:57 -0400
 title: 'CDC&amp;#8217;s Digital Front Door Goes Responsive'
 summary: 'Ask, and you shall receive. That was the strategy behind the new homepage from The Centers for Disease Control and Prevention. The new CDC.gov homepage debuted last month with a responsive design that offers a &amp;#8220;one-site-fits-all&amp;#8221; experience based on feedback from you, the public.'
-authors: admin
+authors: [admin]
 categories:
   - Design
   - Mobile

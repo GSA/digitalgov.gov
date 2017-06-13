@@ -4,7 +4,7 @@
 date: 2015-05-11 2:01:57 -0400
 title: 'Customer Experience Roundup 2015'
 summary: 'This month, our round up focuses on customer experience (CX). As I was rounding up the CX events and articles we&rsquo;ve shared on DigitalGov over the past year, I realized that CX touches all of the work we do. From Web to mobile to contact centers and social media, we need to not only be'
-authors: apiazza
+authors: [apiazza]
 categories:
   - Managing Digital
   - Monthly Theme

@@ -4,7 +4,7 @@
 date: 2016-03-24 10:00:31 -0400
 title: 'Buying Power\: New Labs Will Foster Innovation in Government Acquisition'
 summary: 'The slow, tedious federal acquisition process has long been the butt of jokes in the private sector. If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. But that culture'
-authors: kelly-olson
+authors: [kelly-olson]
 categories:
   - Challenges
 tags:

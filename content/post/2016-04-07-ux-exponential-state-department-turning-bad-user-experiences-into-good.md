@@ -4,7 +4,7 @@
 date: 2016-04-07 11:10:12 -0400
 title: 'UX Exponential\: State Department Turning Bad User Experiences into Good'
 summary: 'How many times a day do you have a bad user experience? Did you have one\: Riding the metro to work this morning this morning? Waiting for your email to open? Watching a way-too-long training video? Trying to find your way around a new-to-you building? How many times have you thought, &ldquo;there has to be'
-authors: bridget-roddy
+authors: [bridget-roddy]
 categories:
   - UX
 tags:

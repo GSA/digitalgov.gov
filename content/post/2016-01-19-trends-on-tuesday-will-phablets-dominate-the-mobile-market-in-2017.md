@@ -4,7 +4,7 @@
 date: 2016-01-19 10:17:15 -0400
 title: 'Trends on Tuesday\: Will Phablets Dominate the Mobile Market in 2017?'
 summary: 'Phablets, once mocked for their large size, may&nbsp;be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. Flurry Mobile, part of Yahoo&amp;#8217;s mobile analytics division, published two reports about phablet devices at the beginning of the new year, showing their continued growth and that people use'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Mobile
 tags:

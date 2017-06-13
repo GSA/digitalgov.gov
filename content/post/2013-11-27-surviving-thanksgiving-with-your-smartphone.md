@@ -4,7 +4,7 @@
 date: 2013-11-27 11:25:30 -0400
 title: 'Surviving Thanksgiving With Your Smartphone'
 summary: 'Oh, Thanksgiving! If you need to take a time-out from the dinner table for a little of your own (cyber)space, give these apps a try\: Does a holiday with your extended family put your nerves on edge? The Breathe2Relax and TacticalBreather&nbsp;mobile apps&nbsp;are specially designed to help you control physiological'
-authors: genevieve-contey
+authors: [genevieve-contey]
 categories:
   - Mobile
 tags:

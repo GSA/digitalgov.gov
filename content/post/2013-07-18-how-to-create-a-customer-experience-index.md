@@ -4,7 +4,7 @@
 date: 2013-07-18 7:53:02 -0400
 title: 'How to Create a Customer Experience Index'
 summary: 'In my last post I talked about how we&rsquo;re kicking off our Customer Experience program in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. &nbsp;There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement'
-authors: martha-dorris
+authors: [martha-dorris]
 categories:
   - Managing Digital
 tags:

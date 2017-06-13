@@ -4,7 +4,7 @@
 date: 2014-01-30 10:28:29 -0400
 title: 'Responsive Web Design Workshop\: Why, How and What&rsquo;s Next?'
 summary: 'Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many&nbsp;agencies have implemented it&nbsp;and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web design'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Design
   - Mobile

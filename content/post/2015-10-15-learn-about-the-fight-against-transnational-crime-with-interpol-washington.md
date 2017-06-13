@@ -4,7 +4,7 @@
 date: 2015-10-15 10:00:13 -0400
 title: 'Learn about the Fight Against Transnational Crime with INTERPOL Washington'
 summary: 'INTERPOL Washington&mdash;What is it? It&rsquo;s a movie. It&rsquo;s the latest spy novel&amp;#8230;No, it&rsquo;s a mobile app from INTERPOL Washington, a component of the U.S. Department of Justice. INTERPOL Washington, the United States National Central Bureau, serves as the designated representative to the International Criminal Police Organization (INTERPOL)&nbsp;on'
-authors: nramprasad
+authors: [nramprasad]
 categories:
   - Mobile
 tags:

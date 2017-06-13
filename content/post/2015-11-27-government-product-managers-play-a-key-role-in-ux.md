@@ -4,7 +4,7 @@
 date: 2015-11-27 11:00:19 -0400
 title: 'Government Product Managers Play a Key Role in UX'
 summary: 'Government product managers sit at the intersection of three circles&mdash;business, design and technology. We play a key role in user experience (UX), because we are tasked with understanding users to build a product that is desirable and viable. This product could be a paper or online form, a website or a mobile app. Product management'
-authors: ktrebon
+authors: [ktrebon]
 categories:
   - Design
   - Managing Digital

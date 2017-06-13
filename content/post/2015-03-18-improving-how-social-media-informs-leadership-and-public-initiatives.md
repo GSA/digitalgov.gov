@@ -4,7 +4,7 @@
 date: 2015-03-18 11:10:01 -0400
 title: 'Improving How Social Media Informs Leadership and Public Initiatives'
 summary: '&amp;nbsp; Like private sector organizations, U.S. public sector organizations have experienced shifts in how they use both the Internet and social media to interact with the public. The mid-1990s onwards saw an increase in the number of websites helping individual members of the public learn more about various public sector organizations and initiatives directly from'
-authors: david-a-bray, corina-dubois
+authors: [david-a-bray, corina-dubois]
 categories:
   - Managing Digital
   - Social Media

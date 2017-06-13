@@ -4,7 +4,7 @@
 date: 2013-08-29 10:22:07 -0400
 title: 'GSA&amp;#8217;s eBuy Mobile'
 summary: 'The General Services Administration has made a mobile version of its&nbsp;eBuy website. The mobile site provides ease of access to small businesses'
-authors: michael-niedzwiecki
+authors: [michael-niedzwiecki]
 categories:
   - Mobile
 tags:

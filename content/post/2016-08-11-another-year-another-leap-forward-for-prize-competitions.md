@@ -4,7 +4,7 @@
 date: 2016-08-11 2:00:12 -0400
 title: 'Another Year, Another Leap Forward for Prize Competitions'
 summary: 'If federal agencies need an incentive to be more open and innovative in addressing critical issues, they need look no further than news this week from the White House. On August 10, the White House Office of Science and Technology Policy&nbsp; issued its Implementation of Federal Prize Authority Progress Report for fiscal year 2015, and'
-authors: eric-beidel
+authors: [eric-beidel]
 categories:
   - Challenges
   - 'Crowdsourcing &amp; Citizen Science'

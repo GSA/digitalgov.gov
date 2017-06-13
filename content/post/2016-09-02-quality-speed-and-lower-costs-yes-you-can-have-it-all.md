@@ -4,7 +4,7 @@
 date: 2016-09-02 10:00:42 -0400
 title: 'Quality, Speed, and Lower Costs\: Yes, You Can Have It All'
 summary: 'This is post 2 in the 5-part series The Right Tools for the Job\: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that&nbsp;DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)'
-authors: dmccleskey, nick-marden
+authors: [dmccleskey, nick-marden]
 categories:
   - Code
   - Data

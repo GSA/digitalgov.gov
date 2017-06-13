@@ -4,7 +4,7 @@
 date: 2015-05-07 2:42:42 -0400
 title: 'Monthly Theme\: Customer Service in the Federal Digital Space'
 summary: '&ldquo;The customer is king.&rdquo; &ldquo;The customer is always right.&rdquo; Regardless of your feelings on these age-old customer service adages, the fact remains\: we&rsquo;re all serving someone. No matter what corner of the federal digital space you occupy, you are connecting with people, and the outcome of those connections matters. To recognize the importance of these'
-authors: jparcell, awichman
+authors: [jparcell, awichman]
 categories:
   - Managing Digital
   - Monthly Theme

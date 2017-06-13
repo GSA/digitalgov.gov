@@ -4,7 +4,7 @@
 date: 2015-10-08 4:14:38 -0400
 title: 'White House Kicks Off Challenge.gov Anniversary with Wealth of New Prize Competitions'
 summary: ' In a call to action&nbsp;issued Oct. 7, the White House announced several new programs challenging citizens to help federal agencies solve problems in areas ranging from space exploration to education. Hosted in conjunction with Georgetown University, the Case Foundation and the Joyce Foundation, the event featured'
-authors: eric-beidel
+authors: [eric-beidel]
 categories:
   - Challenges
 tags:

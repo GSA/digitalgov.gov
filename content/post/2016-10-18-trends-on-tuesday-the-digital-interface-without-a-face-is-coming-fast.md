@@ -4,7 +4,7 @@
 date: 2016-10-18 11:00:14 -0400
 title: 'Trends on Tuesday\: The Digital Interface &mdash; Without a Face &mdash; Is Coming Fast'
 summary: 'The seemingly sci-fi world envisioned in the movie Her is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, chatbots and persistent audio assistants are now available, with software developer kits to expand the platforms. Amazon was first to market with their Echo device, and since have added the Echo'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Managing Digital
   - Mobile

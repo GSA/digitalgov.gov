@@ -4,7 +4,7 @@
 date: 2014-10-28 10:00:27 -0400
 title: 'Trends on Tuesday\: 8 Ways To Format Tables for Responsive Web Design'
 summary: 'Making tables, charts and graphs mobile friendly is like squeezing 10 pounds of sugar into a 5 pound bag. Mobile Gov Community of Practice member Debra Fiorrito from the Defense Accounting and Financing Service recently highlighted this challenge in her responsive Web design implementation. The challenge also came up during a call with the Federal'
-authors: beth-martin, david-fern, clair-koroma
+authors: [beth-martin, david-fern, clair-koroma]
 categories:
   - Design
   - Mobile

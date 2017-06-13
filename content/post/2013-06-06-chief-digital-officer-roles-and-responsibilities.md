@@ -4,7 +4,7 @@
 date: 2013-06-06 11:00:11 -0400
 title: 'Chief Digital Officer\: Roles and Responsibilities'
 summary: 'In my previous blog post, I asked if your agency needs a Chief Digital Officer and before you answer maybe you&rsquo;d want to know what exactly would a Chief Digital Officer (CDO) do at your Agency? According to Tim Bourgeois of ChiefDigitalOfficer.net , the biggest asset a CDO brings &amp;#8220;is'
-authors: mike-kruger
+authors: [mike-kruger]
 categories:
   - Governance
   - Managing Digital

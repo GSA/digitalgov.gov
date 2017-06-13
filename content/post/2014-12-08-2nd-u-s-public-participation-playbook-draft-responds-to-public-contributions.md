@@ -4,7 +4,7 @@
 date: 2014-12-08 6:14:07 -0400
 title: '2nd U.S. Public Participation Playbook Draft Responds to Public Contributions'
 summary: ' The new&nbsp;second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to&nbsp;come. We still need your contributions for'
-authors: jherman
+authors: [jherman]
 categories:
   - Social Media
 tags:

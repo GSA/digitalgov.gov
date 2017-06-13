@@ -4,7 +4,7 @@
 date: 2015-07-15 11:02:14 -0400
 title: 'Safe Travels with TravWell'
 summary: 'Ahhh&hellip; Summer is here at last! It&rsquo;s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app. Gone'
-authors: nirmala-ramprasad
+authors: [nirmala-ramprasad]
 categories:
   - Mobile
 tags:

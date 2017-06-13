@@ -4,7 +4,7 @@
 date: 2017-03-29 1:00:36 -0400
 title: 'A Complete Redesign with You in Mind'
 summary: 'We&amp;#8217;re excited to launch a complete redesign of USDA.gov featuring stronger&nbsp;visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design. Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&amp;#8217;ve taken the best of government and industry'
-authors: peter-rhee
+authors: [peter-rhee]
 categories:
   - Design
   - Managing Digital

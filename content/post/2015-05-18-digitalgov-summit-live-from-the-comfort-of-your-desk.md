@@ -4,7 +4,7 @@
 date: 2015-05-18 2:59:13 -0400
 title: 'DigitalGov Summit\: Live From the Comfort of Your Desk'
 summary: 'The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we&rsquo;ve planned our second DigitalGov Summit with this mission and your needs in mind. The theme is open and the agenda is packed with presentations about how &ldquo;opening&rdquo; data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.'
-authors: apiazza, jparcell
+authors: [apiazza, jparcell]
 categories:
   - Our Work
 tags:

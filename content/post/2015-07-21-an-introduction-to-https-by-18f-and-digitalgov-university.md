@@ -4,7 +4,7 @@
 date: 2015-07-21 11:10:31 -0400
 title: 'An Introduction to HTTPS, by 18F and DigitalGov University'
 summary: '18F uses HTTPS for everything we make, and the U.S. government is in the process of transitioning to HTTPS everywhere. As part of this effort, we&amp;#8217;ve recently partnered with DigitalGov University to produce a two-video series introducing the why&amp;#8217;s and how&amp;#8217;s of HTTPS. In an Introduction to HTTPS for beginners, we cover what happens when'
-authors: gray-brooks, eric-mill
+authors: [gray-brooks, eric-mill]
 categories:
   - Code
   - Content

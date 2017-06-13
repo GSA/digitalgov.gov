@@ -4,7 +4,7 @@
 date: 2014-07-03 1:00:39 -0400
 title: 'Have a H(app)y Fourth of July from MobileGov'
 summary: 'Washington. You can say a lot of things about this town,&nbsp;but one thing is clear\: Fourth of July is our holiday. No one rocks Independence Day&nbsp;quite like we do, thanks to the hardworking people&nbsp;at the National Park Service who manage our National Mall and help stage a blockbuster fireworks celebration&nbsp;there that rivals any around the'
-authors: admin
+authors: [admin]
 categories:
   - Mobile
 tags:

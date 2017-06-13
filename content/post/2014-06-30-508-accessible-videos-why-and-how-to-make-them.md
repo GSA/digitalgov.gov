@@ -4,7 +4,7 @@
 date: 2014-06-30 10:00:51 -0400
 title: '508 Accessible Videos&mdash;Why (and How) to Make Them'
 summary: 'Making Web content and video accessible to people with disabilities&nbsp;is the law. Ensuring a video is accessible requires planning. Taking steps from day one will save you time and money. To verify that a video is accessible you&amp;#8217;d need to incorporate three elements\: Captioning Audio descriptions An Accessible video player Why Accessibility Matters Many government'
-authors: jonathan-rubin, ryan-leisinger, gary-morin
+authors: [jonathan-rubin, ryan-leisinger, gary-morin]
 categories:
   - Accessibility
   - UX

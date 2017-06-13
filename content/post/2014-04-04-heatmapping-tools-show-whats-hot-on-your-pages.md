@@ -4,7 +4,7 @@
 date: 2014-04-04 10:00:37 -0400
 title: 'Heatmapping Tools Show What&amp;#8217;s &amp;#8220;Hot&amp;#8221; on Your Pages'
 summary: 'Most analytics tools can tell you how many times a link on your page is clicked on, but they can&rsquo;t help you draw conclusions about a page with just a mere list of top links. A tool called a heatmap turns data into a data visualization, so you can more easily see how people are'
-authors: tlowden
+authors: [tlowden]
 categories:
   - 'User Testing &amp; Research'
   - UX

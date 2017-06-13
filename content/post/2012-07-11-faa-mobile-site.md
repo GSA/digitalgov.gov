@@ -4,7 +4,7 @@
 date: 2012-07-11 12:36:05 -0400
 title: 'FAA Mobile Site'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Federal Aviation Administration. The FAA launched a mobile site to cater to the needs of its users on the move. Why We Did It Mobile traffic to'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Mobile
 tags:

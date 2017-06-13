@@ -4,7 +4,7 @@
 date: 2014-05-15 1:15:53 -0400
 title: 'Defense Finance and Accounting Service Goes Responsive'
 summary: 'Let&amp;#8217;s face it\: Some of us work to live. Some live to work. And all of us&nbsp;look forward to pay day. If you&nbsp;work for&nbsp;the&nbsp;Department of Defense, the&nbsp;Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health and'
-authors: admin
+authors: [admin]
 categories:
   - Design
   - Mobile

@@ -4,7 +4,7 @@
 date: 2016-06-17 12:30:45 -0400
 title: 'Exciting Additions to Analytics.usa.gov'
 summary: 'We&rsquo;ve expanded analytics.usa.gov to include 15(!) more agency-specific dashboard pages. We now offer agency-specific analytics data pages for a total of 25 major federal agencies, and each one is accessible from the dropdown menu at the top of the site.'
-authors: gray-brooks, tlowden, eric-mill, colin-craig
+authors: [gray-brooks, tlowden, eric-mill, colin-craig]
 categories:
   - Data
   - Managing Digital

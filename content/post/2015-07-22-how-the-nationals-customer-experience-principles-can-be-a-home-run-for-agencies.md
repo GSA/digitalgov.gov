@@ -4,7 +4,7 @@
 date: 2015-07-22 10:00:32 -0400
 title: 'How the Nationals&rsquo; Customer Experience Principles Can Be a Home Run for Agencies'
 summary: ' In June, the new Customer Experience Community of Practice (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared. Develop and Share'
-authors: rflagg, jacqueline-snee
+authors: [rflagg, jacqueline-snee]
 categories:
   - Communities
   - Monthly Theme

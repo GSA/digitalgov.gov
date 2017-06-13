@@ -4,7 +4,7 @@
 date: 2015-08-12 11:10:17 -0400
 title: 'Challenge Module 2\: It&rsquo;s All About the Teams&mdash;The Importance of Operational Incentives in Prizes'
 summary: ' A strong incentive is the lifeblood of solving any challenge. That&rsquo;s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions. Sam Ortega, manager of'
-authors: judy-romano
+authors: [judy-romano]
 categories:
   - Challenges
 tags:

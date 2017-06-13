@@ -4,7 +4,7 @@
 date: 2016-03-04 10:00:09 -0400
 title: 'Picture This\: 3 Ways to Zoom In On Cross-Agency Collaboration'
 summary: 'Cross-agency collaboration in the federal government has become a prevalent topic, more widely spoken and written about in the recent past than ever before, thanks, in part, to a bigger-than-ever focus on customer experience as a way of thinking within government. Rising customer expectations, advances in technology, and recommendations from government oversight organizations continue to'
-authors: stephanie-thum
+authors: [stephanie-thum]
 categories:
   - UX
 tags:

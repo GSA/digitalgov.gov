@@ -4,7 +4,7 @@
 date: 2016-02-11 10:00:55 -0400
 title: 'Microsites Keep Your Audience Updated on Outbreaks'
 summary: 'You can now help your audience stay up-to-date on the Zika virus outbreak&mdash;and others&mdash;through the Centers for Disease Control and Prevention (CDC)&rsquo;s microsite, which is an easily embeddable collection of virus information for your agency&rsquo;s website.'
-authors: andreanocesigritz
+authors: [andreanocesigritz]
 categories:
   - Content
   - Monthly Theme

@@ -4,7 +4,7 @@
 date: 2014-03-28 10:00:20 -0400
 title: 'Challenge and Competition Service Providers'
 summary: 'I&amp;#8217;m sure many of you have heard the expression &amp;#8220;there&amp;#8217;s an app for that.&amp;#8221; Well, now you can say &amp;#8220;there&amp;#8217;s a schedule for that&amp;#8221; as you plan challenge and prize competitions with your colleagues. In 2010, GSA was asked to build Challenge.gov&nbsp;and set up a schedule (a list of'
-authors: ktrebon
+authors: [ktrebon]
 categories:
   - Challenges
 tags:

@@ -4,7 +4,7 @@
 date: 2015-03-30 3:48:29 -0400
 title: 'On the Spot\: Must-Have IFTTT Recipes for Government'
 summary: ' Ever since we announced IFTTT was available for federal use, dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the SocialGov community&nbsp;which of their favorite'
-authors: jherman
+authors: [jherman]
 categories:
   - API
   - Monthly Theme

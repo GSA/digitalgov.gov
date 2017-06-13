@@ -4,7 +4,7 @@
 date: 2014-10-08 11:50:21 -0400
 title: 'The API Briefing\: CDC&amp;#8217;s API Delivers Free Up-To-Date Health Information for Your Blog or Website'
 summary: 'The recent Ebola outbreaks demonstrate the need for current and authoritative health news. The Centers for Disease Control and Prevention (CDC) is the federal information source for Ebola and other infectious diseases, along with other public health data. Data.CDC.gov lists 48 datasets and views containing statistics from smoking to infectious diseases. Developers can use the'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - API
   - Code

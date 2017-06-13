@@ -4,7 +4,7 @@
 date: 2015-08-24 2:07:31 -0400
 title: 'The Content Corner\: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I&rsquo;m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'
-authors: tymanuel
+authors: [tymanuel]
 categories:
   - Content
   - Design

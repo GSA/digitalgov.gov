@@ -4,7 +4,7 @@
 date: 2016-01-05 10:02:30 -0400
 title: 'Trends on Tuesday\: Mobile-Only U.S. Audiences Grow While Broadband Usage Drops'
 summary: 'The Pew Research Center released an interesting report about home Internet usage that revealed broadband usage plateaued in 2013 and, in fact, dropped 3%&nbsp;in 2015. Later in the report, Pew states the growth in mobile-only audiences compensated for the drop in home broadband usage, so the overall number of people with Internet access hasn&rsquo;t changed'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Mobile
 tags:

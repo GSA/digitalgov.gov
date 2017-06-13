@@ -4,7 +4,7 @@
 date: 2016-10-07 10:00:42 -0400
 title: 'Crowdsourcing at the Law Library of Congress'
 summary: 'The Law Library acquired a large collection from William S. Hein &amp;amp; Co., Inc. to make all volumes of several collections (like the Federal Register) available in open access to researchers.&nbsp;Preparing these files by adding metadata for easy searching takes a lot of work, so this summer we asked law students and library students from'
-authors: jennifer-gonzalez
+authors: [jennifer-gonzalez]
 categories:
   - 'Crowdsourcing &amp; Citizen Science'
   - Data

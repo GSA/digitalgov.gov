@@ -4,7 +4,7 @@
 date: 2014-09-05 10:00:36 -0400
 title: 'Sharing is Caring, Adding Social Media Accounts to Search'
 summary: 'Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site&rsquo;s visitors. Keeping that in mind, DigitalGov Search has worked to bring all your content, wherever it is, to your search results. Finding something'
-authors: rachel-mundstock
+authors: [rachel-mundstock]
 categories:
   - Content
   - Social Media

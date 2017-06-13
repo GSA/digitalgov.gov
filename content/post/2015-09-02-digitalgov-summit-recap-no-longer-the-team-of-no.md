@@ -4,7 +4,7 @@
 date: 2015-09-02 10:00:51 -0400
 title: 'DigitalGov Summit Recap\: No Longer the Team of No'
 summary: 'No one likes to be told no. This is especially true at work, when you&rsquo;re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think &ldquo;just don&rsquo;t get it&rdquo;&mdash;namely those in content,'
-authors: andreanocesigritz
+authors: [andreanocesigritz]
 categories:
   - Our Work
 tags:

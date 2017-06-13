@@ -4,7 +4,7 @@
 date: 2013-06-28 8:47:13 -0400
 title: '6 Easy Ways to Improve User Experience on Websites'
 summary: 'If you want a better user experience on your government website, there&rsquo;s a simple secret\: early planning. &nbsp;Good designers know that it&amp;#8217;s much more difficult to make changes to something&nbsp;after&nbsp;it&amp;#8217;s built than before. This is true for designing'
-authors: jonathan-rubin
+authors: [jonathan-rubin]
 categories:
   - Communities
   - UX

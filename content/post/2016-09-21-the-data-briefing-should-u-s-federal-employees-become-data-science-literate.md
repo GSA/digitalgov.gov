@@ -4,7 +4,7 @@
 date: 2016-09-21 11:00:24 -0400
 title: 'The Data Briefing\: Should U.S. Federal Employees Become Data Science Literate?'
 summary: 'The United Kingdom&rsquo;s (UK) Digital Service has researched ways to increase data science literacy among the UK public service. Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Data
   - 'Strategy &amp; Policy'

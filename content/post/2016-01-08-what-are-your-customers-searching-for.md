@@ -4,7 +4,7 @@
 date: 2016-01-08 1:00:28 -0400
 title: 'What Are Your Customers Searching For?'
 summary: 'What are your agency&rsquo;s website visitors looking for? Can they find it easily? How do you know? Search analytics provide valuable data that can positively affect an agency&rsquo;s Web strategy. This topic was the focus of a recent webinar, Show Me the Data\: Leveraging Analytics in DigitalGov Search. Dawn Pointer McCleskey, acting program manager for'
-authors: awichman
+authors: [awichman]
 categories:
   - Our Work
 tags:

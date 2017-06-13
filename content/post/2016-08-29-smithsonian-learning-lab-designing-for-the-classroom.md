@@ -4,7 +4,7 @@
 date: 2016-08-29 10:00:53 -0400
 title: 'Smithsonian Learning Lab\: Designing for the Classroom'
 summary: 'The Smithsonian&rsquo;s mission statement is wonderfully simple\: &amp;#8220;The increase and diffusion of knowledge.&amp;#8221; The &amp;#8220;increasing&amp;#8221; is arguably the straightforward part &ndash; the Smithsonian has amassed a collection of over 138 million objects and specimens, and the Institution&rsquo;s curators and scientists obsessively add to the world&rsquo;s knowledge base, publishing papers, creating exhibitions, and sharing their expertise.'
-authors: ben-bloom
+authors: [ben-bloom]
 categories:
   - Design
   - Managing Digital

@@ -4,7 +4,7 @@
 date: 2014-03-27 1:49:10 -0400
 title: 'U.S. Customs and Border Protection Launches New, Mobile Friendly Website'
 summary: 'There&amp;#8217;s a LOT going on at U.S. Customs and Border Protection (CBP), and you don&amp;#8217;t want to miss it\: Seizures of illegal drug and counterfeit cash. Arrests of human smugglers. Even the interception of imported &amp;#8220;pests&amp;#8221;&nbsp; (most recently, a new slug found in the Washington area that goes by the name of'
-authors: admin
+authors: [admin]
 categories:
   - Mobile
 tags:

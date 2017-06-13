@@ -4,7 +4,7 @@
 date: 2016-06-08 10:00:16 -0400
 title: 'A Problem Without Definition Is a Challenge Without a Solution'
 summary: 'A prize competition often starts with a problem. In order to get help to find a solution, people need to clearly understand your problem. Understanding and effectively communicating your problem isn&rsquo;t easy, but it&rsquo;s necessary. Problems are like spaghetti&mdash;messy and complex, says Denys Resnick, Executive Vice President of Strategic Programs at NineSigma Inc., which provides'
-authors: eric-beidel
+authors: [eric-beidel]
 categories:
   - Challenges
 tags:

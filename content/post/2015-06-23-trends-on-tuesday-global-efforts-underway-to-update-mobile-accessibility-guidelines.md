@@ -4,7 +4,7 @@
 date: 2015-06-23 10:00:29 -0400
 title: 'Trends on Tuesday\: Global Efforts Underway to Update Mobile Accessibility Guidelines'
 summary: 'Federal agencies do not get a free pass on accessibility for mobile&mdash;as we stated earlier this month, Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT). Luckily, there are a number of organizations working on guidelines and practices to help the private and public sectors create accessible mobile websites and'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Accessibility
   - Mobile

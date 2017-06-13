@@ -4,7 +4,7 @@
 date: 2016-09-13 11:00:15 -0400
 title: 'Webinar Recap\: A Look At Google&amp;#8217;s Media Tool and Platform Offerings'
 summary: 'Suddenly,&nbsp;digital video is everywhere&nbsp;on your social timelines. As a government storyteller, you may be overwhelmed about all the tools available and&nbsp;all of the features each&nbsp;publishing platform has to offer. Facebook, Twitter and SnapChat all offer great video platforms that are free and easy to use, plus they make it easy for you to market to'
-authors: randy-abramson
+authors: [randy-abramson]
 categories:
   - Content
   - Managing Digital

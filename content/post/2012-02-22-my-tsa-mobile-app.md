@@ -4,7 +4,7 @@
 date: 2012-02-22 12:28:21 -0400
 title: 'My TSA Mobile App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This&nbsp;entry is a story shared by the Transportation Security Administration. The&nbsp;MY TSA mobile app and website&nbsp;developed by the Transportation Security Administration (TSA) is designed to help passengers better prepare for security so'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Mobile
 tags:

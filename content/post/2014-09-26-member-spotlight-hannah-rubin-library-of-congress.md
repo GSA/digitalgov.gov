@@ -4,7 +4,7 @@
 date: 2014-09-26 10:00:17 -0400
 title: 'Member Spotlight &amp;#8211; Hannah Rubin, Library of Congress'
 summary: 'Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&amp;#8217;s the focus of this month&amp;#8217;s Member Spotlight. In addition to her &amp;#8220;real&amp;#8221; job, she&amp;#8217;s also currently working as a &amp;#8220;20%-er&amp;#8221; with the DigitalGov'
-authors: rflagg
+authors: [rflagg]
 categories:
   - Content
   - Metrics

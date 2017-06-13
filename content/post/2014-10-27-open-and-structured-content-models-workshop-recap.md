@@ -4,7 +4,7 @@
 date: 2014-10-27 2:24:44 -0400
 title: 'Open and Structured Content Models Workshop Recap'
 summary: ' People consume government information in a variety of ways\: through agency websites, of course, but increasingly through social media, search engines, and mobile apps, whether developed by agencies or third parties. To make sure the information is available seamlessly, accurately, and consistently from one setting to another, more'
-authors: jparcell, hannah-gladfelter-rubin
+authors: [jparcell, hannah-gladfelter-rubin]
 categories:
   - Mobile
   - Monthly Theme

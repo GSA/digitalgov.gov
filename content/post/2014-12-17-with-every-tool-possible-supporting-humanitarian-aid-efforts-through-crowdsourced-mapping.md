@@ -4,7 +4,7 @@
 date: 2014-12-17 12:00:15 -0400
 title: 'With Every Tool Possible\: Supporting Humanitarian Aid Efforts Through Crowdsourced Mapping'
 summary: ' Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have become'
-authors: awichman
+authors: [awichman]
 categories:
   - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme

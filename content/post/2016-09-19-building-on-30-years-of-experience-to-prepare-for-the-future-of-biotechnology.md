@@ -4,7 +4,7 @@
 date: 2016-09-19 1:00:45 -0400
 title: 'Building on 30 Years of Experience to Prepare for the Future of Biotechnology'
 summary: 'Summary\:&nbsp;EPA, FDA, and USDA unveil two documents as part of the Administration&rsquo;s continuing effort to modernize the Federal regulatory system for biotechnology products. Today, the Federal government has taken an important step to ensure public confidence in the regulatory system for biotechnology products and to improve the transparency, predictability, coordination, and, ultimately, efficiency of that'
-authors: robbie-barbero, ted-boling, julia-doherty, melissa-goldstein, james-kim
+authors: [robbie-barbero, ted-boling, julia-doherty, melissa-goldstein, james-kim]
 categories:
   - Governance
   - 'Strategy &amp; Policy'

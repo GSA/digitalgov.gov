@@ -4,7 +4,7 @@
 date: 2014-08-04 10:00:38 -0400
 title: 'Working In Public From Day 1'
 summary: 'In the wide world of software, maybe you&rsquo;ve heard someone say this, or maybe you&rsquo;ve said it yourself\: &amp;#8220;I&rsquo;ll open source it after I clean up the code; it&rsquo;s a mess right now.&amp;#8221; Or\: &amp;#8220;I think there are some passwords in there; I&rsquo;ll get around to cleaning it out at some point.&amp;#8221; Or simply\: &amp;#8220;No'
-authors: eric-mill
+authors: [eric-mill]
 categories:
   - Code
 tags:

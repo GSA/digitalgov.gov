@@ -4,7 +4,7 @@
 date: 2015-12-21 11:10:42 -0400
 title: 'With Collaboration Comes Great Things'
 summary: 'We are pleased to announce the beginnings of a new Syndication.Net/Sharepoint module for the Department of Health and Human Services (HHS) Syndication Storefront. The collaborative effort between HHS and National Institutes of Health&amp;#8217;s (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) teams will eventually enable .NET content management system users to publish'
-authors: christen-geiler
+authors: [christen-geiler]
 categories:
   - Code
 tags:

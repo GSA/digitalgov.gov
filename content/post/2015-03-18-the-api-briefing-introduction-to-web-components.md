@@ -4,7 +4,7 @@
 date: 2015-03-18 10:00:17 -0400
 title: 'The API Briefing\: Introduction to Web Components'
 summary: ' Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the HTML5 set of tags. Developers can create a Web Component that'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - API
 tags:

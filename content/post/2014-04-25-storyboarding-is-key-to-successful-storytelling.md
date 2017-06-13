@@ -4,7 +4,7 @@
 date: 2014-04-25 10:00:53 -0400
 title: 'Storyboarding is Key to Successful Storytelling'
 summary: 'Communication professionals pride themselves on coming up with big ideas and big messages. But moving a great idea from conceptualization to execution can be challenging, especially when you want to keep your budget in check. Storyboards can greatly assist in this process, a strategy I found to be critical to the success of a new'
-authors: katie-gorscak
+authors: [katie-gorscak]
 categories:
   - Content
   - Video

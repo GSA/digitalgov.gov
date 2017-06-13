@@ -4,7 +4,7 @@
 date: 2013-09-05 9:24:40 -0400
 title: 'SSI Mobile Wage Reporting'
 summary: 'Following up on their mobile website, the Social Security'
-authors: michael-niedzwiecki
+authors: [michael-niedzwiecki]
 categories:
   - Mobile
 tags:

@@ -4,7 +4,7 @@
 date: 2016-08-09 1:00:47 -0400
 title: 'The People&amp;#8217;s Code'
 summary: 'Summary\:&nbsp;Today, we&rsquo;re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government. &amp;#8220;If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order'
-authors: tony-scott
+authors: [tony-scott]
 categories:
   - Code
   - Data

@@ -4,7 +4,7 @@
 date: 2015-11-18 10:00:07 -0400
 title: 'The Data Briefing\: Innovating Health Data at the HHS Idea Lab'
 summary: 'By the time this is published, the United States, along with 160 other countries, will be celebrating Global Entrepreneurship Week (November 16th through November 22nd). November is also&nbsp;National Entrepreneurship Month&nbsp;with November 17th being National Entrepreneurs&rsquo; Day. As President Obama stated in his proclamation\: &ldquo;In keeping with our goal of fostering economic growth through private-sector collaboration,'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Data
 tags:

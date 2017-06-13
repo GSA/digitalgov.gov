@@ -4,7 +4,7 @@
 date: 2015-01-20 12:10:26 -0400
 title: 'USGS, Where Citizen Science Is for the Birds'
 summary: '&amp;#8220;I tell the interns\: In this lab, we&amp;#8217;re all about failure. If you&amp;#8217;re not failing, you&amp;#8217;re not really doing anything.&amp;#8221; &amp;#8211;Sam Droege, USGS biologist, in Audubon magazine The U.S. Geological Survey (USGS) is actively working with citizen scientists to discover, collect, and organize a variety of scientific data that is critical'
-authors: tmarcoullier
+authors: [tmarcoullier]
 categories:
   - Challenges
   - 'Crowdsourcing &amp; Citizen Science'

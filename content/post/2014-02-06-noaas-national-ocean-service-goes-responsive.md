@@ -4,7 +4,7 @@
 date: 2014-02-06 10:20:36 -0400
 title: 'NOAA&amp;#8217;s National Ocean Service Goes Responsive'
 summary: ' Let&amp;#8217;s ponder this for a moment\: Maybe you live in South Florida.'
-authors: admin
+authors: [admin]
 categories:
   - Mobile
 tags:

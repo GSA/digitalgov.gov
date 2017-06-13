@@ -4,7 +4,7 @@
 date: 2016-07-15 10:00:28 -0400
 title: 'Where Content and Marketing Meet\: An E-mail Case Study'
 summary: 'Content marketing is everywhere and you&amp;#8217;re hearing more about it every day&mdash;but how do you do it well? While content marketing can take many forms (articles, infographics, videos, and more), it shares a common purpose\: providing useful content to attract new customers to your product or service. At USAGov, customized e-mail messages to our subscribers'
-authors: victoria-wales, darren-b-lurie
+authors: [victoria-wales, darren-b-lurie]
 categories:
   - Content
   - Managing Digital

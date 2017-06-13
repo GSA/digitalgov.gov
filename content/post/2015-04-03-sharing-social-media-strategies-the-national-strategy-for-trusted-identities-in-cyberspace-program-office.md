@@ -4,7 +4,7 @@
 date: 2015-04-03 10:00:10 -0400
 title: 'Sharing Social Media Strategies\: The National Strategy for Trusted Identities in Cyberspace Program Office'
 summary: 'Creating a tweet, posting a photo, or updating a status may take mere seconds. However, a well-thought-out social media strategy is needed for long-term success. In fact, the recently released U.S. Public Participation Playbook mentions strategy in its very first play\: clearly define and communicate your objectives. Knowing what you hope to accomplish and how'
-authors: awichman
+authors: [awichman]
 categories:
   - Social Media
 tags:

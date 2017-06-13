@@ -4,7 +4,7 @@
 date: 2016-05-23 10:00:16 -0400
 title: 'Kids.Gov Reenvisioned'
 summary: 'At USAGov, we always put our customers first. In the wake of our rebranding efforts, our desire to create a positive user experience across the organization has pushed us to turn a scrutinous eye toward Kids.gov &amp;#8212; a site focused on providing information and resources to parents, teachers, and kids. In a cross-organizational effort, individuals'
-authors: megan-fella
+authors: [megan-fella]
 categories:
   - Design
   - Managing Digital

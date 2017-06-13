@@ -4,7 +4,7 @@
 date: 2015-01-27 10:00:54 -0400
 title: '7 Ways to Ignite User-Centered Design at Your&nbsp;Agency'
 summary: 'So you&rsquo;ve done a couple of usability studies, and a few people are starting to &ldquo;see the light.&rdquo; Now you&rsquo;d like to take it to the next level and help your organization embrace user-centered design (UCD) as the philosophy that drives all your digital projects. But what is best way to do this? How can'
-authors: wendy-littman
+authors: [wendy-littman]
 categories:
   - Design
   - 'User Testing &amp; Research'

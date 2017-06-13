@@ -4,7 +4,7 @@
 date: 2016-09-30 11:30:06 -0400
 title: 'Further Enhancing the Federal Government&rsquo;s Privacy Practices'
 summary: 'Summary\: The Office of Management and Budget is releasing updated guidance on the role and designation of Senior Agency Officials for Privacy. The digital economy has transformed how citizens interact with their Government. Government services related to immigration, student loans, health insurance, and veterans&rsquo; benefits are just a sample of the services now available online.'
-authors: marc-groman
+authors: [marc-groman]
 categories:
   - Governance
   - 'Strategy &amp; Policy'

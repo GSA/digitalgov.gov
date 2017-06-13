@@ -4,7 +4,7 @@
 date: 2013-05-01 2:22:08 -0400
 title: 'Harvard&amp;#8217;s Top 25 Innovations in Government'
 summary: 'Nine federal programs made the list! Harvard&amp;#8217;s Ash Center for Democratic Governance and Innovation announced the Top 25 Innovations in Government May 1. A winner and four finalists will be revealed this fall. The&nbsp;Washington Post&nbsp;described how Harvard&amp;#8217;s review committee'
-authors: tmarcoullier
+authors: [tmarcoullier]
 categories:
   - Challenges
   - Our Work

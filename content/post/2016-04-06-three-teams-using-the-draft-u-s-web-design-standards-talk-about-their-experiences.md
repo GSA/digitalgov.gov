@@ -4,7 +4,7 @@
 date: 2016-04-06 2:46:02 -0400
 title: 'Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences'
 summary: 'In the five months since we launched the Draft U.S. Web Design Standards &mdash; the U.S. government&rsquo;s very own set of common UI components and visual styles for websites &mdash; over a dozen websites have used components of the Draft Standards on their sites. Recently, we talked to three federal web designers about their experiences'
-authors: melody-kramer
+authors: [melody-kramer]
 categories:
   - Code
   - Design

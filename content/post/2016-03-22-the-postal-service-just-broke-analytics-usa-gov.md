@@ -4,7 +4,7 @@
 date: 2016-03-22 12:52:55 -0400
 title: 'The Postal Service Just Broke Analytics.usa.gov'
 summary: 'Ok, so it didn&rsquo;t *really* break it. But you might notice that the amount of &ldquo;people on government websites now&rdquo; on analytics.usa.gov is a lot higher than it used to be.'
-authors: tlowden
+authors: [tlowden]
 categories:
   - Data
   - Monthly Theme

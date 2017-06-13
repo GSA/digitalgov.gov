@@ -4,7 +4,7 @@
 date: 2016-07-20 10:00:54 -0400
 title: 'The Data Briefing\: &amp;#8220;PreparedGo&amp;#8221; &ndash; The Federal Emergency Management Agency Mobile App'
 summary: 'While you are outside hunting Pokemon or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The Federal Emergency Management Agency (FEMA) mobile app alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Data
   - Mobile

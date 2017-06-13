@@ -4,7 +4,7 @@
 date: 2015-08-07 10:00:00 -0400
 title: 'An Innovation Framework That Delivers\: The SunShot Catalyst Program'
 summary: 'Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people. The Department of Energy&rsquo;s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the SunShot Catalyst open innovation program seeks to rapidly deliver solar solutions'
-authors: awichman
+authors: [awichman]
 categories:
   - Challenges
 tags:

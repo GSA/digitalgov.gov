@@ -4,7 +4,7 @@
 date: 2015-01-28 11:10:07 -0400
 title: 'DigitalGov University 2015 Training Watch'
 summary: 'Performance Analytics for Social Media Decision Making. Creating Adaptive Content. Usability Testing. These are just some of the areas of programming we are putting together. After taking a look at the most widely attended events in 2014, we decided to gather ideas we received from community and program leads for our 2015 events lineup through'
-authors: apiazza
+authors: [apiazza]
 categories:
   - Monthly Theme
   - Our Work

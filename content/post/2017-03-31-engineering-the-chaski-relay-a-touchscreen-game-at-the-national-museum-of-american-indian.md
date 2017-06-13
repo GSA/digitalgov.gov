@@ -4,7 +4,7 @@
 date: 2017-03-31 11:00:22 -0400
 title: 'Engineering the Chaski Relay\: A Touchscreen Game at the National Museum of the American Indian'
 summary: 'On visiting The Great Inka Road\: Engineering an Empire exhibition at the Smithsonian National Museum of the American Indian, it is impossible not be taken by the sheer scale of the Inka Road. Qhapaq &Ntilde;an, or the Road of the Inka, is a 25,000-mile long road system that fed the rapid expansion of the Inka'
-authors: ben-bloom
+authors: [ben-bloom]
 categories:
   - Content
   - Design

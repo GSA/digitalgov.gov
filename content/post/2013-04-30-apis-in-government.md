@@ -4,7 +4,7 @@
 date: 2013-04-30 2:12:53 -0400
 title: 'APIs in Government'
 summary: 'This page is about what an Application Programming Interface or API is and what it does and how government agencies are using them to operate more efficiently.'
-authors: gray-brooks
+authors: [gray-brooks]
 categories:
   - API
   - Code

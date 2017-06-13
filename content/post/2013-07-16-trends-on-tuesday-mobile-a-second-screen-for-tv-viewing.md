@@ -4,7 +4,7 @@
 date: 2013-07-16 9:58:58 -0400
 title: 'Trends on Tuesday\: Mobile a &ldquo;Second Screen&rdquo; for TV Viewing'
 summary: 'A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets). Over two thirds of respondents said they use their devices while watching TV multiple times a week.'
-authors: brandon-barr
+authors: [brandon-barr]
 categories:
   - Mobile
 tags:

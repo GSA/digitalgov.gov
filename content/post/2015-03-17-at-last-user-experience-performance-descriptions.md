@@ -4,7 +4,7 @@
 date: 2015-03-17 11:10:03 -0400
 title: 'At Last\: User Experience Performance Descriptions!'
 summary: ' To improve your digital systems with user experience (UX), you need people. And to get people in government, you need position descriptions. While DigitalGov has collected a wide variety of position descriptions, I'
-authors: jonathan-rubin
+authors: [jonathan-rubin]
 categories:
   - Design
   - 'User Testing &amp; Research'

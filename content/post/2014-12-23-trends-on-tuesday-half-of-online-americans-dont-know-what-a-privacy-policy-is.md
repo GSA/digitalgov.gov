@@ -4,7 +4,7 @@
 date: 2014-12-23 9:00:17 -0400
 title: 'Trends on Tuesday\: Half of Online Americans Don&rsquo;t Know What a Privacy Policy Is'
 summary: 'Federal agencies are required by law (see the list of applicable ones here) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data. The problem, according to Pew'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Managing Digital
   - Mobile

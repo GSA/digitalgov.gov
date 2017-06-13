@@ -4,7 +4,7 @@
 date: 2015-09-30 11:30:04 -0400
 title: 'The Data Briefing\: Connecting the (Data) Dots&mdash;NASA&rsquo;s NYSpaceTag App'
 summary: ' OpenNASA&nbsp;has recently completed another redesign of their site. With over 31,000 data sets, 194 code repositories and 36 APIs, OpenNASA probably has the largest collection of open data of any of the federal agencies. An especially helpful feature is a set of icons devoted to five types of'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Code
 tags:

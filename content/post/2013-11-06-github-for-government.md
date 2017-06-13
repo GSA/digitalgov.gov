@@ -4,7 +4,7 @@
 date: 2013-11-06 7:46:20 -0400
 title: 'Best Practices for Open Source in Government (Using GitHub)'
 summary: 'Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology. You&amp;#8217;re not alone! There&amp;#8217;s a growing community of government'
-authors: nkunin
+authors: [nkunin]
 categories:
   - Code
 tags:

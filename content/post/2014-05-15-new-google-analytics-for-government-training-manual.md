@@ -4,7 +4,7 @@
 date: 2014-05-15 10:00:48 -0400
 title: 'New Google Analytics for Government Training Manual'
 summary: 'Looking for a training manual on how to use Google Analytics for your agency? Here&amp;#8217;s your answer. I&nbsp;released a second edition of my&nbsp;Google Analytics for Government training manual. Download your copy today&nbsp;(PDF, 4.94 MB, 65 pages, May 2014)&nbsp;and be'
-authors: sarah-kaczmarek
+authors: [sarah-kaczmarek]
 categories:
   - Metrics
   - Social Media

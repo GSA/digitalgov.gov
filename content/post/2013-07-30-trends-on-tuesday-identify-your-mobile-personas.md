@@ -4,7 +4,7 @@
 date: 2013-07-30 9:35:38 -0400
 title: 'Trends on Tuesday\: Identify Your Mobile Personas'
 summary: 'Sparksheet&nbsp;recently posted an article by Greg Hickman, where he explains how to create mobile personas for your consumers when developing a mobile strategy. When it comes to mobile marketing'
-authors: rachel-hurley
+authors: [rachel-hurley]
 categories:
   - Mobile
 tags:

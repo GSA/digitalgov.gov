@@ -4,7 +4,7 @@
 date: 2014-08-12 10:00:33 -0400
 title: 'Trends on Tuesday\: The Rise of Mobile App Super Users?'
 summary: 'A recent Trends on Tuesday post cautioned against becoming another statistic in the treacherous, desolate wasteland known as the App Graveyard. Thankfully, there is some research that shows the likelihood of your app being banished to its grave is receding. Trends indicate that not only are app retention rates rising, user engagement is increasing. According'
-authors: zeshan-khan
+authors: [zeshan-khan]
 categories:
   - Mobile
 tags:

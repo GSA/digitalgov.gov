@@ -4,7 +4,7 @@
 date: 2016-08-30 12:00:27 -0400
 title: 'Trends on Tuesday\: Pokemon Go-es Away Slowly'
 summary: 'The wildly popular, augmented reality game we reported on for Trends on Tuesday a few weeks ago and the focus of a piece&nbsp;about government agencies using it to engage citizens&nbsp;appears to have hit a ceiling and is slowly losing active fans in August according to a recent report in Bloomberg. While the mobile game may'
-authors: wsullivan
+authors: [wsullivan]
 categories:
   - Mobile
 tags:

@@ -4,7 +4,7 @@
 date: 2015-10-29 11:12:04 -0400
 title: 'Skin &amp;#038; Bones Come Alive with Smithsonian App'
 summary: ' The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket&mdash;what else do you need to make &amp;#8220;All Hallows&rsquo; Eve trick or treat&amp;#8221; complete?&nbsp;Some eerie music,&nbsp;a spine tingling,'
-authors: nramprasad
+authors: [nramprasad]
 categories:
   - Mobile
   - Monthly Theme

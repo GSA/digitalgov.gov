@@ -4,7 +4,7 @@
 date: 2012-03-05 12:08:16 -0400
 title: 'MyDS Web App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the NIH Office of Dietary Supplements. The&nbsp;Office of Dietary Supplements&nbsp;(ODS) at the&nbsp;National Institute of Health&nbsp;has developed a free mobile app for consumers called&nbsp;My Dietary Supplements (MyDS).MyDS gives the user an'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Mobile
 tags:

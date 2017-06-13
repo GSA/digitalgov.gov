@@ -4,7 +4,7 @@
 date: 2015-02-05 10:00:28 -0400
 title: 'Focus on Nutrition with DRI Calculator for Healthcare Professionals App'
 summary: 'For those of us who&nbsp;need to get our diet under control&mdash;and keep it that way&mdash;we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt&nbsp;we&rsquo;ve all thought about buying one of those at $100 to $150 bucks a pop'
-authors: kdowney
+authors: [kdowney]
 categories:
   - Mobile
 tags:

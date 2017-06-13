@@ -4,7 +4,7 @@
 date: 2016-06-08 2:43:06 -0400
 title: 'Five Ways That Video Will Continue to Evolve on Facebook'
 summary: 'The medium is the message. Marshall McLuhan In a little over a year, Facebook video went from simply being one of the content types that could be shared to the user timeline to a 8B video views per day powerhouse that&rsquo;s also a huge&nbsp;priority for Mark Zuckerberg. We&rsquo;ve heard about the&nbsp;big numbers from digital native'
-authors: randy-abramson
+authors: [randy-abramson]
 categories:
   - Content
   - Monthly Theme

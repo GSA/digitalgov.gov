@@ -4,7 +4,7 @@
 date: 2014-04-01 2:30:56 -0400
 title: 'Digital Analytics Program (DAP)\: Oceans of Data'
 summary: 'In the last 15 months, the federal Digital Analytics Program (DAP) monthly Web traffic has grown to more than 1.1 billion views gov-wide, providing Web analytics to 29 U.S. federal cabinet-level agencies and nearly 3,000 public-facing government Web properties.  The mission'
-authors: marina-fox
+authors: [marina-fox]
 categories:
   - Data
   - Metrics

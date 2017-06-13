@@ -4,7 +4,7 @@
 date: 2015-12-18 3:14:27 -0400
 title: 'Once Upon a FOIA Request\: How You Can Open Public Records'
 summary: 'Like many of you, we&nbsp;watched with great interest this week when a citizen submitted a Freedom of Information Act (FOIA) request to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan&rsquo;s album, Once Upon a Time in Shaolin. While official sources explain that the desired outcome is not possible'
-authors: jherman, meredith-stewart
+authors: [jherman, meredith-stewart]
 categories:
   - Managing Digital
   - Social Media

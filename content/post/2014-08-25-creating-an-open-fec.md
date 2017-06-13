@@ -4,7 +4,7 @@
 date: 2014-08-25 10:04:40 -0400
 title: 'Creating an Open FEC'
 summary: 'Campaign finance information is not very approachable, even when made available as open data. The laws that regulate how money can be spent around elections are important to our democracy, but sometimes it&rsquo;s difficult to understand how these laws apply. Between Senate, House, and Presidential campaigns, thousands of people run for office on a regular'
-authors: sean-herron, raphael-majma, noah-manger, victor-diaz-zapanta, amos-stone
+authors: [sean-herron, raphael-majma, noah-manger, victor-diaz-zapanta, amos-stone]
 categories:
   - Data
 tags:

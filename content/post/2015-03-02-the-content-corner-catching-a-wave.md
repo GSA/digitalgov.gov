@@ -4,7 +4,7 @@
 date: 2015-03-02 2:01:48 -0400
 title: 'The Content Corner\: Catching a Wave'
 summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine&rsquo;s Day and Presidents&rsquo;'
-authors: tyrus-manuel
+authors: [tyrus-manuel]
 categories:
   - Content
 tags:

@@ -4,7 +4,7 @@
 date: 2015-05-01 11:10:51 -0400
 title: 'Progress with Open Opportunities\: Notes from the Field'
 summary: 'As a task creator with an ambitious agenda and limited resources, I&rsquo;ve got a great deal of incentive to make the most use that I can of Open Opportunities. And indeed, Open Opportunities participants have made a concrete and positive difference in the operations of our office, the Advanced Manufacturing National Program Office, part of'
-authors: dannielle-blumenthal
+authors: [dannielle-blumenthal]
 categories:
   - Our Work
 tags:

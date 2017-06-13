@@ -4,7 +4,7 @@
 date: 2014-06-13 10:00:48 -0400
 title: 'Challenge and Prize Practitioners Gather at GSA'
 summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics\: Highlights from challenge competitions run in 2013. Concepts and tips for working with solvers to build teams.'
-authors: ktrebon
+authors: [ktrebon]
 categories:
   - Challenges
   - Code

@@ -4,7 +4,7 @@
 date: 2015-05-21 3:27:26 -0400
 title: 'DigitalGov Citizen Services Summit 2015\: Open Innovation and Collaboration'
 summary: '[metaslider id=274602] Digital innovators from across government were asked to think of technology as digital service for their country at today&amp;#8217;s DigitalGov Citizen Services Summit. The theme of this year&amp;#8217;s Summit was &amp;#8220;open.&amp;#8221; The agenda was packed with presentations about how &ldquo;opening&rdquo; data, content, contracts and talent makes digital citizen services better, more effective or'
-authors: awichman, coqui-aspiazu
+authors: [awichman, coqui-aspiazu]
 categories:
   - Managing Digital
   - Our Work

@@ -4,7 +4,7 @@
 date: 2014-02-04 3:10:17 -0400
 title: 'Software/Apps Challenges\: Getting Results for Your Agency'
 summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But as'
-authors: tlowden
+authors: [tlowden]
 categories:
   - Challenges
 tags:

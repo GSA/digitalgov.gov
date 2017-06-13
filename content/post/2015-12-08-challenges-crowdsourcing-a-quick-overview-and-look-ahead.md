@@ -4,7 +4,7 @@
 date: 2015-12-08 11:43:44 -0400
 title: 'Challenges &amp;#038; Crowdsourcing\: A Quick Overview and Look Ahead'
 summary: 'This month we&rsquo;re highlighting articles about challenge competitions and crowdsourcing across the federal government. Federal agencies can gain a wealth of ideas, services, solutions and products by asking a large, diverse crowd to contribute their talents and skills. Simply put, crowdsourcing means engaging the crowd. Often referred to as a form of open collaboration or'
-authors: eric-beidel
+authors: [eric-beidel]
 categories:
   - Challenges
   - 'Crowdsourcing &amp; Citizen Science'

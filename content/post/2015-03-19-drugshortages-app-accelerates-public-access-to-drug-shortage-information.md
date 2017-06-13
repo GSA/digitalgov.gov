@@ -4,7 +4,7 @@
 date: 2015-03-19 1:00:13 -0400
 title: 'DrugShortages App Accelerates Public Access to Drug Shortage Information'
 summary: 'The U.S. Food and Drug Administration&amp;#8217;s new &amp;#8220;DrugShortages&amp;#8221; app gives the public&nbsp;access to important&mdash;and sometimes critical&mdash;drug shortage information easier and faster than ever before. Drugs in short supply can delay or deny needed care for patients. Shortages may also lead health care professionals to rely on alternative drug products, which'
-authors: kdowney
+authors: [kdowney]
 categories:
   - Mobile
 tags:

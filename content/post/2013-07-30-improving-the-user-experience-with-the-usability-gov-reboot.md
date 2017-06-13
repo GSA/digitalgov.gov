@@ -4,7 +4,7 @@
 date: 2013-07-30 9:03:17 -0400
 title: 'Improving the User Experience with the Usability.gov Reboot'
 summary: 'Plan and analyze. Write and design. &nbsp;Test and refine. &nbsp;As Web Manager for Usability.gov, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.'
-authors: katie-messner
+authors: [katie-messner]
 categories:
   - UX
 tags:

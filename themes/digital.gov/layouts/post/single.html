@@ -1,7 +1,9 @@
+
 {{ define "bodyclasses" }}c-sw single single-post single-format-standard post-template-default{{ end }}
 
 {{ define "content" }}
-<div class="singlepost post-387041 post type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
+{{ $baseurl := .Site.BaseURL }}
+<div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
   id="single-post-387041">
 
   <div class="entry">
@@ -11,49 +13,55 @@
     </h1>
 
     <div class="meta">
-
       <ul>
-        <li class="meta-author">
 
+        {{/*
+          ======================================
+          AUTHORS
+          ======================================
+        */}}
 
-          <span class="meta-author">By <a href="https://www.digitalgov.gov/author/mary-davie/" title="Posts by Mary Davie" class="author url fn" rel="author">
-
-            {{/* ugly, but works */}}
-            {{/* this uses data, but trying with taxonomies, too */}}
-            {{/*
-            {{ if isset .Params "post_authors" }}
-              {{ range $index, $_id := .Params.post_authors }}
-                {{ range $key, $value := $.Site.Data.people }}
-                  {{ if eq $value.test "friend" }}
-                    {{ $value._name }}
-                  {{ end }}
+        {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
+        {{ else }}
+          <li class="meta-author">
+            <span class="meta-author">By
+              {{ $_authors := .Params.authors }}
+              {{ $length := $_authors | len }}
+              {{ range $i, $e := $_authors }}
+                {{ if lt (add $i 1) $length }}
+                  <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                {{ else }}
+                  <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
                 {{ end }}
               {{ end }}
-            {{ else }}
-              Author
-            {{ end }}
-            */}}
-
-            {{/* trying a similar thing with taxonomies
-
-            {{ if eq .Params.test true }}
-              {{ range $i, $_id := .Params.authors }}
-                {{ range index $.Site.Taxonomies.authors $_id }}
-                  {{ .name }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-            */}}
-
-          </a></span>
-        </li>
+            </span>
+          </li>
+        {{ end }}
 
         <li class="meta-date">
-          <a href="https://www.digitalgov.gov/2017/06/08/hybrid-cloud-a-key-to-phasing-in-new-technologies/" rel="nofollow" title="Permanent Link to Hybrid Cloud: A Key to Phasing in New Technologies">June 8, 2017</a>
+          <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
         </li>
 
-        <li class="meta-cats">
-          <a href="https://www.digitalgov.gov/category/managing-digital/" rel="category tag">Managing Digital</a>, <a href="https://www.digitalgov.gov/category/managing-digital/strategy-policy/" rel="category tag">Strategy &amp; Policy</a> </li>
+        {{/*
+          ======================================
+          CATEGORIES
+          ======================================
+        */}}
+
+        {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+        {{ else }}
+          <li class="meta-cats">
+            {{ $_cats := .Params.categories }}
+            {{ $length := $_cats | len }}
+            {{ range $i, $e := $_cats }}
+              {{ if lt (add $i 1) $length }}
+                <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>,
+              {{ else }}
+                <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>
+              {{ end }}
+            {{ end }}
+          </li>
+        {{ end }}
 
         <li class="meta-comments">
           <a href="https://www.digitalgov.gov/2017/06/08/hybrid-cloud-a-key-to-phasing-in-new-technologies/#comments" rel="bookmark" title="Comments for Hybrid Cloud: A Key to Phasing in New Technologies">1 Reply</a>
@@ -61,7 +69,7 @@
 
       </ul>
 
-    </div>
+    </div><!-- .meta -->
 
     {{ .Content }}
 
@@ -98,23 +106,22 @@
       ======================================
     */}}
 
-    {{ $baseurl := .Site.BaseURL }}
-    {{ if .Params.Tags }}
+    {{ if .Params.tags }}
       <p class="tags">Tags:
         {{ $_tags := .Params.tags }}
         {{ $length := $_tags | len }}
         {{ range $i, $e := $_tags }}
           {{ if lt (add $i 1) $length }}
-            <a rel="tag" href="{{ $baseurl }}/tag/{{ $e | urlize }}">{{ $e }}</a>,
+            <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>,
           {{ else }}
-            <a rel="tag" href="{{ $baseurl }}/tag/{{ $e | urlize }}">{{ $e }}</a>
+            <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>
           {{ end }}
         {{ end }}
       </p>
     {{ end }}
-  </div>
+  </div><!-- .entry -->
 
-</div>
+</div><!-- .post -->
 
 {{/* Comments section removed */}}
 
@@ -135,7 +142,7 @@
       <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title }}</a> »
     {{ end }}
   </div>
-</div>
+</div><!-- .navigation -->
 {{ end }} {{/* end 'content' block */}}
 
 {{ define "sidebar" }}

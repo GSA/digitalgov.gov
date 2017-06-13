@@ -4,7 +4,7 @@
 date: 2015-04-09 10:00:25 -0400
 title: 'New USGS App Helps Save the Piping Plovers!'
 summary: 'iPlover is a new app from the U.S. Geological Survey (USGS) for&nbsp;data collection about habitats on coastal beaches and the environment surrounding them. That sounds like a really difficult and&nbsp;important task, but luckily for us, the app is designed for trained and vetted professionals. It is an example of another federal crowdsourcing app,&nbsp;but&nbsp;for experts. The'
-authors: kdowney
+authors: [kdowney]
 categories:
   - 'Crowdsourcing &amp; Citizen Science'
   - Mobile

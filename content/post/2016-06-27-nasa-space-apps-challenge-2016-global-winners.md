@@ -4,7 +4,7 @@
 date: 2016-06-27 2:00:49 -0400
 title: 'NASA Space Apps Challenge\: 2016 Global Winners!'
 summary: 'We&amp;#8217;re thrilled to announce the Space Apps 2016 Global Award Winners!! These projects well represent the best of the best innovative thinking this year. Congratulations to all the teams. We look forward to seeing you at an upcoming NASA launch in Florida.  Best'
-authors: beth-beck
+authors: [beth-beck]
 categories:
   - Challenges
   - Mobile

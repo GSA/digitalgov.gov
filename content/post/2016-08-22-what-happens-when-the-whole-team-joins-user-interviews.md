@@ -4,7 +4,7 @@
 date: 2016-08-22 2:00:00 -0400
 title: 'What Happens When the Whole Team Joins User Interviews'
 summary: 'The CALC team is an agile team of four &amp;#8212; six if you count the Scrummaster and the Product Owner &amp;#8212; building a simple means to load price data into the original CALC tool. They&rsquo;re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is'
-authors: alan-brouilette
+authors: [alan-brouilette]
 categories:
   - Managing Digital
   - 'Strategy &amp; Policy'

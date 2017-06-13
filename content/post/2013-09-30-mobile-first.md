@@ -4,7 +4,7 @@
 date: 2013-09-30 11:44:17 -0400
 title: 'Mobile First'
 summary: 'Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority. This means the site will'
-authors: jparcell
+authors: [jparcell]
 categories:
   - Design
   - Mobile

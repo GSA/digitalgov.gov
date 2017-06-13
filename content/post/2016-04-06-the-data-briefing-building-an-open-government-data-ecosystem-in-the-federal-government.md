@@ -4,7 +4,7 @@
 date: 2016-04-06 1:30:10 -0400
 title: 'The Data Briefing\: Building an Open Government Data Ecosystem in the Federal Government'
 summary: 'It has been over seven years since President Obama signed the executive order that launched the federal open data movement. Much progress has been made, and there is still more to do. Along with the United States, over 100 nations have started programs to provide open access to government data. From large metropolitan governments to'
-authors: bbrantley
+authors: [bbrantley]
 categories:
   - Data
   - Monthly Theme

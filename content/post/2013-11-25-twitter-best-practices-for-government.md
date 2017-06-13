@@ -4,7 +4,7 @@
 date: 2013-11-25 1:01:09 -0400
 title: 'Twitter Best Practices for Government'
 summary: '{% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/media.twitter.jpg&quot; alt=&quot;Twitter.media logo showing collage of photos showing labels overlaying images\: Television over two guys sitting in chairs in the plains, &amp;quot;government&amp;quot; overlaying a &amp;quot;Vote&amp;quot; button, &amp;quot;Sports&amp;quot; overlaying a basketball, &amp;quot;New&amp;quot; overlaying a map of the world, &amp;quot;music&amp;quot; overlaying a band playing at an outdoor concert, &amp;quot;non-profit&amp;quot; overlaying a portion of a sign that'
-authors: lnelson
+authors: [lnelson]
 categories:
   - Social Media
 tags:

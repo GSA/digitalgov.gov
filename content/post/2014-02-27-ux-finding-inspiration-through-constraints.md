@@ -4,7 +4,7 @@
 date: 2014-02-27 10:11:23 -0400
 title: 'Finding Inspiration Through Design Constraints'
 summary: 'If you could only communicate through a business-card sized screen, what would you say and how would you say it? In which ways could people respond to your message? These are some of the questions constraints lead us to ask, and the reason why constraints are so great at'
-authors: david-herring
+authors: [david-herring]
 categories:
   - Design
   - UX
