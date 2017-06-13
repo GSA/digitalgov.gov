@@ -65,6 +65,28 @@
 
     {{ .Content }}
 
+    {{/* RELATED POSTS */}}
+
+    {{ $currentPageUrl := .URL }}
+    {{ if .Params.tags }}
+      {{ $name := index .Params.tags 0 }}
+      {{ $name := $name | urlize }}
+      {{ $tags := index .Site.Taxonomies.tags $name }}
+      {{ $i := $tags | len }}
+      {{ if ge $i 2 }}
+      <div class="yarpp-related">
+        <h3>Related posts:</h3>
+        <ol>
+          {{ range first 5 $tags.Pages | shuffle }}
+            {{ if ne .URL $currentPageUrl }}
+              <li><a href="{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
+            {{ end }}
+          {{end}}
+        </ol>
+      </div>
+      {{ end }}
+    {{ end }}
+
     <div class="yarpp-related">
       <h3>Related posts:</h3>
       <ol>
@@ -74,6 +96,8 @@
         <li><a href="https://www.digitalgov.gov/2017/01/11/digitalgov-university-in-review-2016-training-trends/" rel="bookmark" title="DigitalGov University in Review: 2016 Training Trends">DigitalGov University in Review: 2016 Training Trends </a></li>
       </ol>
     </div>
+
+    {{/* TAGS */}}
 
     {{ $baseurl := .Site.BaseURL }}
     {{ if .Params.Tags }}
