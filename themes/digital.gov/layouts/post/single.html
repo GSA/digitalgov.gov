@@ -151,18 +151,18 @@
         {{ end }}
       </div>
     </div><!-- .navigation -->
-    {{ end }} {{/* end 'content' block */}}
-
-    {{ define "sidebar" }}
-    <div id="contentright">
-      <div id="sidebar" class="clearfix">
-
-        {{ partial "sidebar--popularPosts.html" . }}
-        {{ partial "sidebar--upcomingEvents.html" . }}
-
-      </div><!-- #sidebar -->
-    </div><!-- #contentright -->
+    <div style="clear:both;margin-bottom:20px;"></div>
   </div><!-- #content -->
-  <div style="clear:both;margin-bottom:20px;"></div>
 </div><!-- #contentleft -->
+{{ end }} {{/* end 'content' block */}}
+
+{{ define "sidebar" }}
+<div id="contentright">
+  <div id="sidebar" class="clearfix">
+
+    {{ partial "sidebar--popularPosts.html" . }}
+    {{ partial "sidebar--upcomingEvents.html" . }}
+
+  </div><!-- #sidebar -->
+</div><!-- #contentright -->
 {{ end }} {{/* end 'sidebar' block */}}
