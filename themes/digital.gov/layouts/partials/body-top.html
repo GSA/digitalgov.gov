@@ -1,0 +1,14 @@
+<body class="{{ $.Scratch.Get "bodyclasses" }}">
+
+  {{ partial "nav-fixed-navbar.html" . }}
+
+  <a class="screen-reader-popup" href="#content" title="Skip to page content">Skip to page content</a>
+
+  <div id="outer-wrap">
+
+    {{ partial "nav-top-nav.html" . }}
+    {{ partial "header.html" . }}
+
+    <div id="wrap">
+      <div id="page" class="clearfix">
+        <div class="page-border clearfix">

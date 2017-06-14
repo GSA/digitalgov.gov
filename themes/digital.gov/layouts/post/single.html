@@ -1,162 +1,168 @@
-
-{{ define "bodyclasses" }}c-sw single single-post single-format-standard post-template-default{{ end }}
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
+{{ end }}
 
 {{ define "content" }}
 {{ $baseurl := .Site.BaseURL }}
-<div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
-  id="single-post-387041">
+<div id="contentleft" class="clearfix">
+  <div id="content" class="clearfix">
+    <div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
+      id="single-post-387041">
 
-  <div class="entry">
+      <div class="entry">
 
-    <h1 class="post-title single">
-      <a href="{{ .URL }}" rel="bookmark" title="{{ .Params.Title }}">{{ .Params.Title }}</a>
-    </h1>
+        <h1 class="post-title single">
+          <a href="{{ .URL }}" rel="bookmark" title="{{ .Params.Title }}">{{ .Params.Title }}</a>
+        </h1>
 
-    <div class="meta">
-      <ul>
+        <div class="meta">
+          <ul>
+
+            {{/*
+              ======================================
+              AUTHORS
+              ======================================
+            */}}
+
+            {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
+            {{ else }}
+              <li class="meta-author">
+                <span class="meta-author">By
+                  {{ $_authors := .Params.authors }}
+                  {{ $length := $_authors | len }}
+                  {{ range $i, $e := $_authors }}
+                    {{/* TODO: Fetch author metadata
+                    {{ range $_author := where $.Site.Data.people "Params.uid" $e }}
+                     foooo
+                    {{ end }}
+                    */}}
+                    {{ if lt (add $i 1) $length }}
+                      <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                    {{ else }}
+                      <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                    {{ end }}
+                  {{ end }}
+                </span>
+              </li>
+            {{ end }}
+
+            <li class="meta-date">
+              <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
+            </li>
+
+            {{/*
+              ======================================
+              CATEGORIES
+              ======================================
+            */}}
+
+            {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+            {{ else }}
+              <li class="meta-cats">
+                {{ $_cats := .Params.categories }}
+                {{ $length := $_cats | len }}
+                {{ range $i, $e := $_cats }}
+                  {{ if lt (add $i 1) $length }}
+                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>,
+                  {{ else }}
+                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>
+                  {{ end }}
+                {{ end }}
+              </li>
+            {{ end }}
+
+            <li class="meta-comments">
+              <a href="https://www.digitalgov.gov/2017/06/08/hybrid-cloud-a-key-to-phasing-in-new-technologies/#comments" rel="bookmark" title="Comments for Hybrid Cloud: A Key to Phasing in New Technologies">1 Reply</a>
+            </li>
+
+          </ul>
+
+        </div><!-- .meta -->
+
+        {{ .Content }}
 
         {{/*
           ======================================
-          AUTHORS
+          RELATED POSTS
           ======================================
         */}}
 
-        {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
-        {{ else }}
-          <li class="meta-author">
-            <span class="meta-author">By
-              {{ $_authors := .Params.authors }}
-              {{ $length := $_authors | len }}
-              {{ range $i, $e := $_authors }}
-                {{/* TODO: Fetch author metadata
-                {{ range $_author := where $.Site.Data.people "Params.uid" $e }}
-                 foooo
+        {{ $currentPageUrl := .URL }}
+        {{ if .Params.tags }}
+          {{ $name := index .Params.tags 0 }}
+          {{ $name := $name | urlize }}
+          {{ $tags := index .Site.Taxonomies.tags $name }}
+          {{ $i := $tags | len }}
+          {{ if ge $i 2 }}
+          <div class="yarpp-related">
+            <h3>Related posts:</h3>
+            <ol>
+              {{ range first 5 $tags.Pages | shuffle }}
+                {{ if ne .URL $currentPageUrl }}
+                  <li><a href="{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
                 {{ end }}
-                */}}
-                {{ if lt (add $i 1) $length }}
-                  <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
-                {{ else }}
-                  <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
-                {{ end }}
-              {{ end }}
-            </span>
-          </li>
-        {{ end }}
-
-        <li class="meta-date">
-          <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
-        </li>
-
-        {{/*
-          ======================================
-          CATEGORIES
-          ======================================
-        */}}
-
-        {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
-        {{ else }}
-          <li class="meta-cats">
-            {{ $_cats := .Params.categories }}
-            {{ $length := $_cats | len }}
-            {{ range $i, $e := $_cats }}
-              {{ if lt (add $i 1) $length }}
-                <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>,
-              {{ else }}
-                <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" title="Posts by {{ $e }}" rel="category tag">{{ $e }}</a>
-              {{ end }}
-            {{ end }}
-          </li>
-        {{ end }}
-
-        <li class="meta-comments">
-          <a href="https://www.digitalgov.gov/2017/06/08/hybrid-cloud-a-key-to-phasing-in-new-technologies/#comments" rel="bookmark" title="Comments for Hybrid Cloud: A Key to Phasing in New Technologies">1 Reply</a>
-        </li>
-
-      </ul>
-
-    </div><!-- .meta -->
-
-    {{ .Content }}
-
-    {{/*
-      ======================================
-      RELATED POSTS
-      ======================================
-    */}}
-
-    {{ $currentPageUrl := .URL }}
-    {{ if .Params.tags }}
-      {{ $name := index .Params.tags 0 }}
-      {{ $name := $name | urlize }}
-      {{ $tags := index .Site.Taxonomies.tags $name }}
-      {{ $i := $tags | len }}
-      {{ if ge $i 2 }}
-      <div class="yarpp-related">
-        <h3>Related posts:</h3>
-        <ol>
-          {{ range first 5 $tags.Pages | shuffle }}
-            {{ if ne .URL $currentPageUrl }}
-              <li><a href="{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
-            {{ end }}
-          {{end}}
-        </ol>
-      </div>
-      {{ end }}
-    {{ end }}
-
-
-    {{/*
-      ======================================
-      TAGS
-      ======================================
-    */}}
-
-    {{ if .Params.tags }}
-      <p class="tags">Tags:
-        {{ $_tags := .Params.tags }}
-        {{ $length := $_tags | len }}
-        {{ range $i, $e := $_tags }}
-          {{ if lt (add $i 1) $length }}
-            <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>,
-          {{ else }}
-            <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>
+              {{end}}
+            </ol>
+          </div>
           {{ end }}
         {{ end }}
-      </p>
-    {{ end }}
-  </div><!-- .entry -->
 
-</div><!-- .post -->
 
-{{/* Comments section removed */}}
+        {{/*
+          ======================================
+          TAGS
+          ======================================
+        */}}
 
-{{/*
-  ======================================
-  PREVIOUS / NEXT POST
-  ======================================
-*/}}
+        {{ if .Params.tags }}
+          <p class="tags">Tags:
+            {{ $_tags := .Params.tags }}
+            {{ $length := $_tags | len }}
+            {{ range $i, $e := $_tags }}
+              {{ if lt (add $i 1) $length }}
+                <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>,
+              {{ else }}
+                <a rel="tag" href="{{ $baseurl }}/tags/{{ $e | urlize }}">{{ $e }}</a>
+              {{ end }}
+            {{ end }}
+          </p>
+        {{ end }}
+      </div><!-- .entry -->
 
-<div class="navigation clearfix">
-  <div class="alignleft single">
-    {{ if .Prev }}
-      « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title }}</a>
-    {{ end }}
-  </div>
-  <div class="alignright single">
-    {{ if .Next }}
-      <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title }}</a> »
-    {{ end }}
-  </div>
-</div><!-- .navigation -->
-{{ end }} {{/* end 'content' block */}}
+    </div><!-- .post -->
 
-{{ define "sidebar" }}
-<div id="contentright">
-  <div id="sidebar" class="clearfix">
+    {{/* Comments section removed */}}
 
-    {{ partial "sidebar--popularPosts.html" . }}
-    {{ partial "sidebar--upcomingEvents.html" . }}
+    {{/*
+      ======================================
+      PREVIOUS / NEXT POST
+      ======================================
+    */}}
 
-  </div><!-- #sidebar -->
-</div><!-- #contentright -->
+    <div class="navigation clearfix">
+      <div class="alignleft single">
+        {{ if .Prev }}
+          « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title }}</a>
+        {{ end }}
+      </div>
+      <div class="alignright single">
+        {{ if .Next }}
+          <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title }}</a> »
+        {{ end }}
+      </div>
+    </div><!-- .navigation -->
+    {{ end }} {{/* end 'content' block */}}
+
+    {{ define "sidebar" }}
+    <div id="contentright">
+      <div id="sidebar" class="clearfix">
+
+        {{ partial "sidebar--popularPosts.html" . }}
+        {{ partial "sidebar--upcomingEvents.html" . }}
+
+      </div><!-- #sidebar -->
+    </div><!-- #contentright -->
+  </div><!-- #content -->
+  <div style="clear:both;margin-bottom:20px;"></div>
+</div><!-- #contentleft -->
 {{ end }} {{/* end 'sidebar' block */}}
