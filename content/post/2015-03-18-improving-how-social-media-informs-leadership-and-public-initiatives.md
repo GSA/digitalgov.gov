@@ -8,7 +8,7 @@ authors: [david-a-bray, corina-dubois]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - social media
   - Twitter
 ---

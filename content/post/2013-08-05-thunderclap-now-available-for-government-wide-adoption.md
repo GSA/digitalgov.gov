@@ -7,8 +7,8 @@ summary: 'Thunderclap is the latest social media and crowd-sourcing platform ava
 authors: [bsteele]
 categories:
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - social media
   - Terms of Service
 ---

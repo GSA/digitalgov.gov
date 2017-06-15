@@ -7,7 +7,7 @@ summary: 'In May, NASA released the Space Place Prime app for both iPhone and iP
 authors: [rachel-hurley]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - NASA
   - Thursday Mobile Products

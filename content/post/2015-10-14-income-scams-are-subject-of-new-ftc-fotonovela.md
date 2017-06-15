@@ -8,7 +8,7 @@ authors: [alvaro-puig]
 categories:
   - Content
   - Writing
-tags:
+tag:
   - Federal Trade Commission
   - FTC
   - multilingual

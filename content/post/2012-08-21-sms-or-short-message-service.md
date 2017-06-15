@@ -7,7 +7,7 @@ summary: ' SMS or Short Message Service (Texting) is a&nbsp;mobile device capabi
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
 ---
 

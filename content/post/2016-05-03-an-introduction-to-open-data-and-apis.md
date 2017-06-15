@@ -9,7 +9,7 @@ categories:
   - API
   - Code
   - Data
-tags:
+tag:
   - 18F
   - analytics.usa.gov
   - API

@@ -7,7 +7,7 @@ summary: 'You should be on this list&mdash;the current federal government partic
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - 18F
   - Census
   - CFPB

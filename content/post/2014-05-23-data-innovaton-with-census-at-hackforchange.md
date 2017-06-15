@@ -8,7 +8,7 @@ authors: [logan-powell]
 categories:
   - Challenges
   - Data
-tags:
+tag:
   - API
   - Census
   - CFPB

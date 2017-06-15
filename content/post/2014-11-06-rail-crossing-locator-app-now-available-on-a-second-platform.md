@@ -7,7 +7,7 @@ summary: 'You don&rsquo;t need to be a rail buff to want to download the Federal
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - DOT
   - Federal Railroad Administration
   - ICE

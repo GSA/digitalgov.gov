@@ -7,9 +7,9 @@ summary: 'Trying to measure usability can be a head scratcher. How easy somethin
 authors: [georgia-gallavin]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - OPM
   - United States Office of Personnel Management

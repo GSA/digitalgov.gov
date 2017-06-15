@@ -7,7 +7,7 @@ summary: 'The General Services Administration has made a mobile version of its&n
 authors: [michael-niedzwiecki]
 categories:
   - Mobile
-tags:
+tag:
   - GSA
   - mobile gov
 ---

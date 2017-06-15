@@ -7,7 +7,7 @@ summary: 'The U.S. Department of Transportation&amp;#8217;s National Highway Tra
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - Thursday Mobile Products

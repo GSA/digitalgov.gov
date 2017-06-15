@@ -8,7 +8,7 @@ authors: [jparcell, michael-pulsifer]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - DOL
   - mobile apps
   - Mobile Code Catalog

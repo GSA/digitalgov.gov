@@ -10,7 +10,7 @@ categories:
   - Code
   - Monthly Theme
   - UX
-tags:
+tag:
   - API
   - API keys
   - CFPB

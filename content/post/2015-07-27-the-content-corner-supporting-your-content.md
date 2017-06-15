@@ -7,7 +7,7 @@ summary: 'This column revolves mostly around content creation and strategy, but 
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

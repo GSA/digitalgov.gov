@@ -7,7 +7,7 @@ summary: 'I work for the Department of Veterans Affairs in a national benefits o
 authors: [melodee-mercer]
 categories:
   - Social Media
-tags:
+tag:
   - Twitter
   - U.S. Department of Veterans Affairs
   - VA

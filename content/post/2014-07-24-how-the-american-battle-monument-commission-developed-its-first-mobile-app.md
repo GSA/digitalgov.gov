@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
   - UX
-tags:
+tag:
   - ABMC
   - American Battle Monuments Commission
   - mobile

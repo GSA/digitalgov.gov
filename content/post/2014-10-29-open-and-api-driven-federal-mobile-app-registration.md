@@ -10,7 +10,7 @@ categories:
   - Communities
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - AoI
   - Federal Mobile Products Registry
   - Mobile UX Guideline 4

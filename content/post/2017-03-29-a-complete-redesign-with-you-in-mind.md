@@ -9,8 +9,8 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - CMS
   - Content Management System
   - Draft Web Design Standards

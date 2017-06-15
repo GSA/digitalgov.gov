@@ -7,7 +7,7 @@ summary: 'Cross-agency collaboration in the federal government has become a prev
 authors: [stephanie-thum]
 categories:
   - UX
-tags:
+tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

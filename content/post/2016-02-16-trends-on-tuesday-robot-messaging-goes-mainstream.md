@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - mobile
   - Trends on Tuesday
   - user experience

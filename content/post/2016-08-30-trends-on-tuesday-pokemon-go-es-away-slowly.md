@@ -7,7 +7,7 @@ summary: 'The wildly popular, augmented reality game we reported on for Trends o
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - app
   - Augmented Reality
   - gamification

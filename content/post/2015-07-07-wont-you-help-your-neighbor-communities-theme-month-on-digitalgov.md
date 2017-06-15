@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - communities
   - Customer Experience Community of Practice
   - mobile gov community of practice

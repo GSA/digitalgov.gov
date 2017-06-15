@@ -9,7 +9,7 @@ categories:
   - Content
   - Data
   - UX
-tags:
+tag:
   - BLS
   - content strategy
   - data

@@ -8,7 +8,7 @@ authors: [erik-martin, albert-palacios]
 categories:
   - Challenges
   - Mobile
-tags:
+tag:
   - apps challenges
   - Augmented Reality
   - challenges and prize competitions

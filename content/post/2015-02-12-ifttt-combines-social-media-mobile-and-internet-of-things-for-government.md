@@ -7,7 +7,7 @@ summary: ' The newest addition to the federal government&rsquo;s social media ut
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - API
   - Internet of things
   - social media

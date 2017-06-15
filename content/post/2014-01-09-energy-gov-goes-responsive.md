@@ -7,7 +7,7 @@ summary: ' Did this week&amp;#8217;s polar vortex wreak havoc on your heating an
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - mobile gov
   - mobile-first
   - responsive web design

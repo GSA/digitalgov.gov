@@ -8,8 +8,8 @@ authors: [uscis-staff]
 categories:
   - Content
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - DHS

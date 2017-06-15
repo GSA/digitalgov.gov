@@ -6,9 +6,9 @@ title: 'Persona Development Case Study\: NCI and Spanish Language Outreach'
 summary: ' Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way. The National'
 authors: [awichman]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - BLS
   - multilingual
   - National Cancer Institute

@@ -8,7 +8,7 @@ authors: [leah-stewart, ray-drake]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - social media
   - U.S. Citizenship and Immigration Service
   - U.S. Immigration and Customs Enforcement

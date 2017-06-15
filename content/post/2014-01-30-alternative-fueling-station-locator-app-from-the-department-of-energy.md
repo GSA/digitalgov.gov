@@ -9,7 +9,7 @@ categories:
   - Code
   - Mobile
   - "What's New"
-tags:
+tag:
   - API
   - mobile apps
   - NREL

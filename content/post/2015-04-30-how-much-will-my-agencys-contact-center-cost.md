@@ -8,7 +8,7 @@ authors: [tonya-beres]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - customer service
   - Government Contact Center Council

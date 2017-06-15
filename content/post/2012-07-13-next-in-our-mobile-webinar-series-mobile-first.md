@@ -7,7 +7,7 @@ summary: 'You need resources, and we are here to help with an excellent new webi
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile gov
   - mobile-first
   - MobileGov

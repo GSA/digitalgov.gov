@@ -8,7 +8,7 @@ authors: [hyon-kim]
 categories:
   - API
   - Data
-tags:
+tag:
   - API
   - data.gov
   - metadata

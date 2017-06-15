@@ -7,7 +7,7 @@ summary: 'BusinessUSA is a centralized, one-stop platform to make it easy for bu
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - Department of Commerce
   - mobile apps
   - SBA

@@ -7,7 +7,7 @@ summary: 'Members of the military and their families now have access to&nbsp;Mil
 authors: [michael-niedzwiecki]
 categories:
   - Mobile
-tags:
+tag:
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense

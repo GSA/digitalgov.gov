@@ -8,7 +8,7 @@ authors: [stephanie-stover]
 categories:
   - Managing Digital
   - UX
-tags:
+tag:
   - search engine optimization
 ---
 

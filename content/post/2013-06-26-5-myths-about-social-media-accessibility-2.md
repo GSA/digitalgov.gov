@@ -8,7 +8,7 @@ authors: [mario-damiani]
 categories:
   - Accessibility
   - Social Media
-tags:
+tag:
   - accessibility
   - social media
   - SocialGov

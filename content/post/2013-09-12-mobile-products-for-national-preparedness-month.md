@@ -7,7 +7,7 @@ summary: 'September is National Preparedness Month and there are a number of gov
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - American Red Cross
   - FEMA
   - National Hurricane Center

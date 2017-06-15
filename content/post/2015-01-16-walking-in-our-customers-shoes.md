@@ -8,7 +8,7 @@ authors: [phaedra-chrousos]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - Customer Experience
 ---
 

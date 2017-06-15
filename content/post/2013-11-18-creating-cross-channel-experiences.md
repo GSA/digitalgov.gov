@@ -8,7 +8,7 @@ authors: [katie-messner]
 categories:
   - Content
   - UX
-tags:
+tag:
   - content strategy
   - usability
 ---

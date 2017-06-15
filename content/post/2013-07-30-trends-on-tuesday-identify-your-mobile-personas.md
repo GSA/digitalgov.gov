@@ -7,7 +7,7 @@ summary: 'Sparksheet&nbsp;recently posted an article by Greg Hickman, where he e
 authors: [rachel-hurley]
 categories:
   - Mobile
-tags:
+tag:
   - Making Mobile Gov
   - mobile gov
   - Trends on Tuesday

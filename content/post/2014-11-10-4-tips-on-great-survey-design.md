@@ -7,9 +7,9 @@ summary: ' Whether they pop up while perusing an e-commerce site or land in your
 authors: [georgia-gallavin]
 categories:
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - customer satisfaction
   - DigitalGov User Experience Program
   - usability

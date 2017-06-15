@@ -7,7 +7,7 @@ summary: 'This&nbsp;week over 16,000 business leaders and data visionaries from 
 authors: [lauren-lipovic]
 categories:
   - Data
-tags:
+tag:
   - Census
   - data
   - data visualization

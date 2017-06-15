@@ -10,7 +10,7 @@ categories:
   - Content
   - Managing Digital
   - Mobile
-tags:
+tag:
   - content
   - content strategy
   - content syndication

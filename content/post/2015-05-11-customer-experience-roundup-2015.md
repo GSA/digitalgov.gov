@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Centers for Disease Control and Prevention
   - Customer Experience
   - customer satisfaction

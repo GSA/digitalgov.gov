@@ -8,7 +8,7 @@ authors: [eden-savino]
 categories:
   - Data
   - Social Media
-tags:
+tag:
   - GAO
   - open source
   - U.S. Government Accountability Office

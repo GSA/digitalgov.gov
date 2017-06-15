@@ -7,7 +7,7 @@ summary: 'Last June, President Obama launched a Climate Action Plan to cut carbo
 authors: [curt-tilmes]
 categories:
   - Data
-tags:
+tag:
   - data.gov
   - NASA
   - open data

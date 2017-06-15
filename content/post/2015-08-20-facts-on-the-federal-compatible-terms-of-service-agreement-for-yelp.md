@@ -7,7 +7,7 @@ summary: 'We&rsquo;ve been excited to see the outpouring of interest this week i
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - SocialGov Community
   - Terms of Service
   - TOS

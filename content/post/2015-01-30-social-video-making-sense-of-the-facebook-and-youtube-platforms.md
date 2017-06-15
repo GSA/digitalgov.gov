@@ -8,7 +8,7 @@ authors: [randy-abramson]
 categories:
   - Social Media
   - Video
-tags:
+tag:
   - BBG
   - Broadcasting Board of Governors
   - DOI

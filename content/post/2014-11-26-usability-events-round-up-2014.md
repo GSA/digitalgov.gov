@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - DGU
   - DigitalGov User Experience Program
   - federal user experience community

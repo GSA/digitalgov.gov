@@ -8,8 +8,8 @@ authors: [bbrantley]
 categories:
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - big data
   - data
   - NASA

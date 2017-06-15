@@ -7,7 +7,7 @@ summary: 'Summary\:&nbsp;The Administration announces new wireless research effo
 authors: [r-david-edelman, jason-furman]
 categories:
   - Mobile
-tags:
+tag:
   - 5G
   - broadband
   - innovation

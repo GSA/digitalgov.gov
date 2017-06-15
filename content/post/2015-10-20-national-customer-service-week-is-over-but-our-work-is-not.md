@@ -7,9 +7,9 @@ summary: 'Get&nbsp;your customer personas right, and you will improve the custom
 authors: [ktrebon]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - "508"
   - accessibility
   - Customer Experience

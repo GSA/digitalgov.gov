@@ -9,7 +9,7 @@ categories:
   - Data
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - Content Management System
   - content models
   - data

@@ -7,7 +7,7 @@ summary: ' Hurricane Arthur, the first named storm of the 2014 Atlantic hurrican
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Emergency Management Agency
   - FEMA
   - National Oceanic and Atmospheric Administration

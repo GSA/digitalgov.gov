@@ -7,8 +7,8 @@ summary: 'On September 7th,&nbsp;the Office of Information Policy (OIP) released
 authors: [office-of-information-policy]
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - DOJ
   - FOIA
   - Freedom of Information Act

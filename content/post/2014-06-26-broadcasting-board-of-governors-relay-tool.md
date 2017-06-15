@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - BBG
   - Broadcasting Board of Governors
   - CMS

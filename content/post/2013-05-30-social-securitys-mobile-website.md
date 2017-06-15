@@ -7,7 +7,7 @@ summary: 'The Social Security Administration recently announced their new optimi
 authors: [kanika-tolver]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - multilingual
   - SSA

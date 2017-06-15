@@ -11,7 +11,7 @@ categories:
   - Managing Digital
   - Metrics
   - Social Media
-tags:
+tag:
   - AoI
   - GitHub
   - SocialGov Community

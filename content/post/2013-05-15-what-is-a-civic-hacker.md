@@ -8,7 +8,7 @@ authors: [lnelson]
 categories:
   - Code
   - Managing Digital
-tags:
+tag:
   - National Day of Civic Hacking
 ---
 

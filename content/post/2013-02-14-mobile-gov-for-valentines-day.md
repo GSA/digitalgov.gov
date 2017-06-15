@@ -7,7 +7,7 @@ summary: 'Need a last minute Valentine&amp;#8217;s Day gift idea? We&amp;#8217;v
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - HHS
   - mobile apps

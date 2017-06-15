@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Code
   - Our Work
-tags:
+tag:
   - code
   - Open Opportunities program
   - open source

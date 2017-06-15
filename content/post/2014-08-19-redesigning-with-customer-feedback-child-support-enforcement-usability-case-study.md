@@ -7,9 +7,9 @@ summary: 'The Federal Office of Child Support Enforcement at the Administration 
 authors: [crystal-peeler]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - Customer Experience
   - HHS
   - Office of Child Support Enforcement

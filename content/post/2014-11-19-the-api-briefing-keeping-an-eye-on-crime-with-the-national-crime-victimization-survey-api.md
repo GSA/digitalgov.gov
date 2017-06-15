@@ -7,7 +7,7 @@ summary: 'Every year, the Bureau of Justice Statistics surveys nearly 80,000 hou
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - Bureau of Justice Statistics
   - U.S. Department of Agriculture
   - USDA

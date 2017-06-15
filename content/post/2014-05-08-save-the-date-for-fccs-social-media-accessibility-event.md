@@ -8,7 +8,7 @@ authors: [jamal-mazrui]
 categories:
   - Accessibility
   - Social Media
-tags:
+tag:
   - accessibility
   - FCC
   - Federal Communications Commission

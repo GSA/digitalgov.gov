@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Content
   - Video
-tags:
+tag:
   - accessibility
   - GobiernoUSAgov
   - multilingual

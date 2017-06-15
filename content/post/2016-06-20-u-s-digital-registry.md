@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - NARA
   - National Archives and Records Administration
   - U.S. Digital Registry

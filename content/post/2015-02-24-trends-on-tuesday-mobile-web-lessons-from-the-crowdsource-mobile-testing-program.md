@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Our Work
   - UX
-tags:
+tag:
   - Defense Finance and Accounting Services
   - Federal CrowdSource Mobile Testing Program
   - mobile gov community of practice

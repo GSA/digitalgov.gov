@@ -10,7 +10,7 @@ categories:
   - Code
   - Managing Digital
   - Mobile
-tags:
+tag:
   - API
   - mobile apps
   - native app

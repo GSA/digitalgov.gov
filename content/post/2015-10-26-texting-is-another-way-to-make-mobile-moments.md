@@ -8,7 +8,7 @@ authors: [ktrebon]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - mobile
   - mobile apps
   - mobile gov

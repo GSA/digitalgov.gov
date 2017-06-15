@@ -7,7 +7,7 @@ summary: 'Maps and geospatial analysis have become increasingly important as the
 authors: [richard-mansfield, allison-baker, perryn-ashmore]
 categories:
   - Data
-tags:
+tag:
   - cloud
   - CMS
   - data

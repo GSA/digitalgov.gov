@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - 18F
   - API
   - CFPB

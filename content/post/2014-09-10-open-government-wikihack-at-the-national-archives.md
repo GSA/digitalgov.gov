@@ -9,7 +9,7 @@ categories:
   - API
   - Content
   - Data
-tags:
+tag:
   - NARA
   - National Archives and Records Administration
   - open data

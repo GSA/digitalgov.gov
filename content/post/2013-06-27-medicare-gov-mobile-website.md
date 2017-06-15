@@ -7,7 +7,7 @@ summary: 'The Centers for Medicare and Medicaid Services redesigned Medicare.gov
 authors: [kanika-tolver]
 categories:
   - Mobile
-tags:
+tag:
   - HHS
   - mobile gov
   - responsive web design

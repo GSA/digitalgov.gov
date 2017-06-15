@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - Mobile
-tags:
+tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention

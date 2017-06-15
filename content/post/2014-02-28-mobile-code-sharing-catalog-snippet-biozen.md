@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - DoD
   - United States Department of Defense
 ---

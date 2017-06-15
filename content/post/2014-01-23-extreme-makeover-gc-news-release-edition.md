@@ -7,8 +7,8 @@ summary: ' The Government of Canada (GC) is retiring the traditional news releas
 authors: [communications-community-office-government-of-canada]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - social media
 ---
 

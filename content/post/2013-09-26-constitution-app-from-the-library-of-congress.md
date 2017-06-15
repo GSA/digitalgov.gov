@@ -7,7 +7,7 @@ summary: 'The Library of Congress recently released &nbsp;The U.S. Constitution\
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Library of Congress
   - LOC
   - mobile apps

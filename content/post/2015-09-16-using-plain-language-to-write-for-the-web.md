@@ -7,7 +7,7 @@ summary: 'Plain language will make you a better writer. For federal employees, i
 authors: [awichman]
 categories:
   - Writing
-tags:
+tag:
   - Plain language
   - Plain Writing Act of 2010
   - Recaps

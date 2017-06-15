@@ -7,7 +7,7 @@ summary: 'Providing professional development for over 100,000 employees is no ea
 authors: [awichman]
 categories:
   - Our Work
-tags:
+tag:
   - DOT
   - EPA
   - Open Opportunities program

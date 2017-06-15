@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - UX
-tags:
+tag:
   - API
   - data
   - The Data Briefing

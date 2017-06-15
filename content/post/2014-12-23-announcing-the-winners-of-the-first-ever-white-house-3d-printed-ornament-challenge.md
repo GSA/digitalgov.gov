@@ -8,7 +8,7 @@ authors: [stephanie-santoso, ryan-xue]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - NASA
   - National Institutes of Health
   - NIH

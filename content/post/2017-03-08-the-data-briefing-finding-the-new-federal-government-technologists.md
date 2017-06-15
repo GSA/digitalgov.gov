@@ -7,7 +7,7 @@ summary: 'This week, I want to briefly discuss the human resources challenges in
 authors: [bbrantley]
 categories:
   - Managing Digital
-tags:
+tag:
   - acquisition
   - human resources
   - The Data Briefing

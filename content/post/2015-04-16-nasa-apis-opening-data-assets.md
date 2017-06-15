@@ -7,7 +7,7 @@ summary: 'Data is one of the most important assets at NASA. We have data on come
 authors: [dan-hammer]
 categories:
   - API
-tags:
+tag:
   - API
   - data
   - GitHub

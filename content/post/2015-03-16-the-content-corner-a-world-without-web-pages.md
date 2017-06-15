@@ -7,7 +7,7 @@ summary: 'Imagine a world without Web pages, only intelligent, self-assembling c
 authors: [tyrus-manuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - CMS
   - Content Management System

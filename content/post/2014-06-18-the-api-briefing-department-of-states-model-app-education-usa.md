@@ -10,7 +10,7 @@ categories:
   - Code
   - Mobile
   - UX
-tags:
+tag:
   - mobile apps
   - U.S. Department of State
   - Wednesday API Briefing

@@ -9,7 +9,7 @@ categories:
   - Data
   - Metrics
   - Monthly Theme
-tags:
+tag:
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau

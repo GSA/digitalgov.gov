@@ -9,7 +9,7 @@ categories:
   - API
   - Content
   - Monthly Theme
-tags:
+tag:
   - Administrative Office of the United States Courts
   - API
   - CMS

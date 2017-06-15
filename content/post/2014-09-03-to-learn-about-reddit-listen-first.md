@@ -7,7 +7,7 @@ summary: 'Reddit began in 2006 as an online bulletin board. Registered users pos
 authors: [judith-snyderman]
 categories:
   - Social Media
-tags:
+tag:
   - Recaps
   - social media
 ---

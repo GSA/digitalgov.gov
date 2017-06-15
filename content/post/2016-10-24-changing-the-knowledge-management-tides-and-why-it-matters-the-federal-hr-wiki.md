@@ -8,8 +8,8 @@ authors: [john-grill, matt-gieseke, kelley-smith]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - innovation

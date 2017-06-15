@@ -8,7 +8,7 @@ authors: [clair-koroma, kathryn-hambleton]
 categories:
   - Communities
   - Social Media
-tags:
+tag:
   - AoI
   - HHS
   - Recaps

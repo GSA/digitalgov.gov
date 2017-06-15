@@ -9,7 +9,7 @@ categories:
   - Content
   - Social Media
   - Video
-tags:
+tag:
   - DAP
   - multimedia
   - section 508

@@ -7,7 +7,7 @@ summary: 'Spoiler Alert\:&nbsp;Every year, billions of pounds of good food go to
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - ios
   - mobile apps
   - native app

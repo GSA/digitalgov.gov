@@ -8,8 +8,8 @@ authors: [lnelson]
 categories:
   - Mobile
   - Social Media
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile
   - social media
   - Twitter

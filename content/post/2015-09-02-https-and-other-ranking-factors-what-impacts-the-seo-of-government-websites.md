@@ -8,7 +8,7 @@ authors: [dmccleskey]
 categories:
   - Content
   - Our Work
-tags:
+tag:
   - DigitalGov Search
   - HTTPS
   - Plain language

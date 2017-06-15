@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Monthly Theme
   - UX
-tags:
+tag:
   - accessibility
   - content strategy
   - mobile

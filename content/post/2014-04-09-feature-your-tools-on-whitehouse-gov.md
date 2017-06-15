@@ -8,7 +8,7 @@ authors: [ori-hoffer]
 categories:
   - Content
   - Managing Digital
-tags:
+tag:
   - U.S. Department of Agriculture
   - U.S. Department of Education
   - United States Department of Energy

@@ -7,8 +7,8 @@ summary: 'What if Thomas Edison Didn&rsquo;t Use Test Cases? &ldquo;I have not f
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile testing
 ---

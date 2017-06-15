@@ -7,7 +7,7 @@ summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, t
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Mobile Products Registry
   - ICE
   - Internal Revenue Service

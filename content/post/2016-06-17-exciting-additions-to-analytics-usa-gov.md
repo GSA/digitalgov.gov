@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Metrics
   - Our Work
-tags:
+tag:
   - 18F
   - analytics
   - data

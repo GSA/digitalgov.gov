@@ -8,9 +8,9 @@ authors: [angela-hooker]
 categories:
   - Accessibility
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
-tags:
+tag:
   - accessibility
   - ChallengeGov
   - challenges and prize competitions

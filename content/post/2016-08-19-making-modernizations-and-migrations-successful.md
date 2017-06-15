@@ -7,7 +7,7 @@ summary: 'Summary\:&nbsp;Today, we&rsquo;re launching the M3 Framework to provid
 authors: [denise-turner-roth, david-mader]
 categories:
   - Managing Digital
-tags:
+tag:
   - GSA
   - infrastructure
   - innovation

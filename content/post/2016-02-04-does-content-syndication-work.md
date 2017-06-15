@@ -7,7 +7,7 @@ summary: 'You may have heard some chatter about syndication but thought to yours
 authors: [christen-geiler]
 categories:
   - Content
-tags:
+tag:
   - content syndication
   - mobile
   - National Institutes of Health

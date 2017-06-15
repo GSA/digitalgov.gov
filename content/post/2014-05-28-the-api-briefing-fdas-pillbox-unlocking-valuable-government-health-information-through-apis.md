@@ -9,8 +9,8 @@ categories:
   - API
   - Code
   - Data
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - API
   - GitHub
   - National Institutes of Health

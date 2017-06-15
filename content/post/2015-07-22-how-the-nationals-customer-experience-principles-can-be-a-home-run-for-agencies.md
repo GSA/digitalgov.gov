@@ -8,7 +8,7 @@ authors: [rflagg, jacqueline-snee]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer satisfaction

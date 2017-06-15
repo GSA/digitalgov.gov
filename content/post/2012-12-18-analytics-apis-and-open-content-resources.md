@@ -11,7 +11,7 @@ categories:
   - Content
   - Metrics
   - Our Work
-tags:
+tag:
   - API
   - Census
   - Department of Commerce

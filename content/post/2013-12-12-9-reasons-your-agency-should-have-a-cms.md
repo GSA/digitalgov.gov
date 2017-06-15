@@ -8,8 +8,8 @@ authors: [rflagg]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - CMS
   - Content Management System
 ---

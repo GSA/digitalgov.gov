@@ -8,7 +8,7 @@ authors: [chris-rottler]
 categories:
   - Content
   - Data
-tags:
+tag:
   - data visualization
   - Peace Corps
 ---

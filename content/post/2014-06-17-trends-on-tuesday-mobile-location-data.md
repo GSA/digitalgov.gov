@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - GPS
   - Mobile UX Guideline 5
   - NPS

@@ -7,7 +7,7 @@ summary: 'The Centers for Disease Control has added another tool to its suite of
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - native app

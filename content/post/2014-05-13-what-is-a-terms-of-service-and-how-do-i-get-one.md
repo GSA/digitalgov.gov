@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Social Media
   - UX
-tags:
+tag:
   - DOJ
   - Terms of Service
   - TOS

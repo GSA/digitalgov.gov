@@ -7,7 +7,7 @@ summary: 'The federal government&amp;#8217;s Mobile Code Catalog has company! Th
 authors: [lnelson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Mobile Code Catalog
   - mobile gov

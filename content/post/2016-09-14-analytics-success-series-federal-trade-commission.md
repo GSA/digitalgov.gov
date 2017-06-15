@@ -9,7 +9,7 @@ categories:
   - Data
   - Metrics
   - Our Work
-tags:
+tag:
   - analytics
   - DAP
   - data

@@ -7,7 +7,7 @@ summary: 'Many IT pundits predict 2016 will be a major tipping point in data and
 authors: [bbrantley]
 categories:
   - Monthly Theme
-tags:
+tag:
   - Internet of things
   - The Data Briefing
   - United States Patent and Trademark Office

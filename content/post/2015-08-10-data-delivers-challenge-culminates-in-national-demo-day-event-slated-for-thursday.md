@@ -7,7 +7,7 @@ summary: ' VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will s
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - Census
   - ChallengeGov
   - Commerce

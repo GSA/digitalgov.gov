@@ -7,7 +7,7 @@ summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime,
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - GSA
   - Mobile Gov Experience
   - responsive web design

@@ -8,7 +8,7 @@ authors: [gray-brooks, eric-mill, julia-elman, john-tindel]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - 18F
   - analytics
   - Digital Analytics Program

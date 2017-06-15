@@ -8,7 +8,7 @@ authors: [sean-herron]
 categories:
   - API
   - Content
-tags:
+tag:
   - FDA
   - HHS
   - U.S. Food and Drug Administration

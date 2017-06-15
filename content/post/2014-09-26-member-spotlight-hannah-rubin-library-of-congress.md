@@ -8,8 +8,8 @@ authors: [rflagg]
 categories:
   - Content
   - Metrics
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - DigitalGov User Experience Program
   - Library of Congress
   - LOC

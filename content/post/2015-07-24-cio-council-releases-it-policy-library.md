@@ -7,8 +7,8 @@ summary: 'The CIO Council recently published an IT Policy Library database in or
 authors: [kdaniel]
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - CIO Council
 ---
 

@@ -9,9 +9,9 @@ categories:
   - Code
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - 18F
   - code
   - Draft Web Design Standards

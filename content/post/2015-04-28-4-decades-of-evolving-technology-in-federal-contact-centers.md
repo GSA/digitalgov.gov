@@ -8,7 +8,7 @@ authors: [coqui-aspiazu]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - customer service
   - government contact centers

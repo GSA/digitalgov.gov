@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - CFPB
   - Consumer Financial Protection Bureau
   - customer service

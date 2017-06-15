@@ -8,7 +8,7 @@ authors: [gao-watchblog]
 categories:
   - Data
   - Metrics
-tags:
+tag:
   - analytics
   - big data
   - data

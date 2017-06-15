@@ -9,7 +9,7 @@ categories:
   - Challenges
   - Managing Digital
   - Social Media
-tags:
+tag:
   - crowdfunding
   - U.S. Department of State
 ---

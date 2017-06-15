@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - Managing Digital
-tags:
+tag:
   - architecture
   - cloud
   - data

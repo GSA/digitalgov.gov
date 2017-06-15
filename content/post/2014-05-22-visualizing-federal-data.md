@@ -8,7 +8,7 @@ authors: [sarah-kaczmarek]
 categories:
   - Data
   - Design
-tags:
+tag:
   - data visualization
   - GAO
   - U.S. Government Accountability Office

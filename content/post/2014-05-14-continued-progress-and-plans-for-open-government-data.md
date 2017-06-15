@@ -7,7 +7,7 @@ summary: 'One year ago today, President Obama signed an executive order that mad
 authors: [steven-vanroekel, todd-park]
 categories:
   - Data
-tags:
+tag:
   - data
   - open data
   - White House

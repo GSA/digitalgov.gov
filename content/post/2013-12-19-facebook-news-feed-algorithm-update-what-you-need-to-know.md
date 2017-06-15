@@ -7,7 +7,7 @@ summary: 'Facebook&nbsp;announced they are refining their algorithm this week to
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - Facebook
 ---
 

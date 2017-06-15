@@ -7,7 +7,7 @@ summary: 'Multimedia, Photo, Poster, Design Challenge and prize competitions are
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - social media
 ---
 

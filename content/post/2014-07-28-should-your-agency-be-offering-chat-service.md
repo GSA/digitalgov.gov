@@ -9,7 +9,7 @@ categories:
   - Communities
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - AoI
   - Customer Experience
   - customer satisfaction

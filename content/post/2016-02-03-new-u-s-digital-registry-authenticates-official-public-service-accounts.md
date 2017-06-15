@@ -8,7 +8,7 @@ authors: [jherman]
 categories:
   - Our Work
   - Social Media
-tags:
+tag:
   - analytics.usa.gov
   - API
   - MobileGov

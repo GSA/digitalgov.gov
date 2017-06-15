@@ -8,10 +8,10 @@ authors: [megan-fella]
 categories:
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - analytics
   - Customer Experience
   - CX

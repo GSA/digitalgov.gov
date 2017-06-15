@@ -9,9 +9,9 @@ categories:
   - Accessibility
   - Design
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - accessibility
   - SBA
   - section 508

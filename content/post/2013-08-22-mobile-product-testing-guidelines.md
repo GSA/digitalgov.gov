@@ -7,8 +7,8 @@ summary: 'You have started developing your mobile product, but you may be wonder
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile apps
   - user experience
   - UX

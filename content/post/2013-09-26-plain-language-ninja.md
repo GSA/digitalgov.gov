@@ -9,7 +9,7 @@ categories:
   - Content
   - UX
   - Writing
-tags:
+tag:
   - Plain language
 ---
 

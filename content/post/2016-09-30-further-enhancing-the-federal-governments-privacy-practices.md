@@ -7,8 +7,8 @@ summary: 'Summary\: The Office of Management and Budget is releasing updated gui
 authors: [marc-groman]
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Office of Management and Budget
   - OMB
   - security

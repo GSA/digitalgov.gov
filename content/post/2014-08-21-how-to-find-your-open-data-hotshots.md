@@ -9,7 +9,7 @@ categories:
   - API
   - Data
   - Metrics
-tags:
+tag:
   - API
   - Census
   - data.gov

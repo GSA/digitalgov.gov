@@ -6,9 +6,9 @@ title: 'Talking Usability with Kids over Milk and Cookies'
 summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending &ldquo;Take Your Daughters and Sons to Work Day&rdquo;? We took advantage of this event held on April 24, 2014, at the'
 authors: [jean-fox, robin-l-kaplan]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - BLS
   - U.S. Bureau of Labor Statistics
   - U.S. Department of Labor

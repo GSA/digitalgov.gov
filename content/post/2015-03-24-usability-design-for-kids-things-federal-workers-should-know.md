@@ -8,9 +8,9 @@ authors: [justin-dopke]
 categories:
   - Accessibility
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - accessibility
   - user experience
   - UX

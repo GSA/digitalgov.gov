@@ -8,7 +8,7 @@ authors: [gray-brooks]
 categories:
   - API
   - Content
-tags:
+tag:
   - 18F
 ---
 

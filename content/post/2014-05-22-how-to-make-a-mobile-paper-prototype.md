@@ -8,9 +8,9 @@ authors: [jonathan-rubin]
 categories:
   - Design
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - GSA
   - mobile
   - mobile apps

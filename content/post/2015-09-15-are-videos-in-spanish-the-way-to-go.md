@@ -7,7 +7,7 @@ summary: ' The answer may surprise you. It takes time, resources and actual mone
 authors: [edgardo-morales]
 categories:
   - Video
-tags:
+tag:
   - GobiernoUSAgov
   - multilingual
   - USAgov

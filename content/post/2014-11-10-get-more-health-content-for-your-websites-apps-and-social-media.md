@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Video
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Code
   - Monthly Theme
-tags:
+tag:
   - 18F
   - API
   - National Institute of Allergy and Infectious Diseases

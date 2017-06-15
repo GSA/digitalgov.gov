@@ -9,8 +9,8 @@ categories:
   - Communities
   - Mobile
   - Monthly Theme
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - AoI
   - GPS
   - mobile apps

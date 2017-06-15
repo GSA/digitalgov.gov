@@ -8,7 +8,7 @@ authors: [ammie-farraj-feijoo]
 categories:
   - Content
   - Writing
-tags:
+tag:
   - big data
   - search engine optimization
 ---

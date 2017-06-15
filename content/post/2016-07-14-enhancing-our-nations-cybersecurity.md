@@ -7,8 +7,8 @@ summary: 'The mission of U.S. General Services Administration (GSA)&amp;#8217;s 
 authors: [mary-davie]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - acquisition
   - GSA
   - IT Schedule 70

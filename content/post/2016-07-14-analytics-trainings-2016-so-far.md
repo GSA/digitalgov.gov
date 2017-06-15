@@ -7,7 +7,7 @@ summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our tr
 authors: [ilee]
 categories:
   - Metrics
-tags:
+tag:
   - analytics
   - DAP
   - DGU

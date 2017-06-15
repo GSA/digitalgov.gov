@@ -8,9 +8,9 @@ authors: [julia-elman]
 categories:
   - Accessibility
   - Design
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - 18F
   - accessibility
   - DGU

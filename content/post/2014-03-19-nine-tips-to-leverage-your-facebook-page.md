@@ -7,7 +7,7 @@ summary: 'Due to recent news feed changes,&nbsp;Facebook engagement is down near
 authors: [scott-horvath, jessica-orquina]
 categories:
   - Social Media
-tags:
+tag:
   - EPA
   - Facebook
   - social media

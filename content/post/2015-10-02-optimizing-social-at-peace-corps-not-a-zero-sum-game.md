@@ -8,7 +8,7 @@ authors: [chris-rottler]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - A/B testing
   - Peace Corps
   - social media

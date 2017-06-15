@@ -7,7 +7,7 @@ summary: ' As agencies strive for success in digital government, they often need
 authors: [awichman]
 categories:
   - Social Media
-tags:
+tag:
   - Federal Student Aid
   - FSA
   - Twitter

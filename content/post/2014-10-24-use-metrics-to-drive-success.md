@@ -8,7 +8,7 @@ authors: [lnelson]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - Open Opportunities program
 ---
 

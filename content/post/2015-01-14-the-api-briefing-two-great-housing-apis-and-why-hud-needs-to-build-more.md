@@ -7,7 +7,7 @@ summary: ' Recently, a reader pointed out that some of the APIs I write about ar
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - HUD
   - U.S. Department of Agriculture
   - United States Department of Housing and Urban Development

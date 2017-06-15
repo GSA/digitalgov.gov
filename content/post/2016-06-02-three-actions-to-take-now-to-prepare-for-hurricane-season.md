@@ -7,7 +7,7 @@ summary: 'Summary\:&nbsp;The 2016 National Preparedness Report is an important g
 authors: [craig-fugate]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile apps

@@ -7,7 +7,7 @@ summary: 'Sometimes in crowdsourcing, you want to take your problem straight to 
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

@@ -7,7 +7,7 @@ summary: 'You probably have heard this before, or may even hear it all the time,
 authors: [kyle-s-richardson]
 categories:
   - Content
-tags:
+tag:
   - FirstNet
   - The Content Corner
 ---

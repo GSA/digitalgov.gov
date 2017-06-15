@@ -8,8 +8,8 @@ authors: [wsullivan]
 categories:
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

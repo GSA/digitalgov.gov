@@ -8,7 +8,7 @@ authors: [rflagg]
 categories:
   - API
   - Content
-tags:
+tag:
   - CMS
   - Content Management System
   - content strategy

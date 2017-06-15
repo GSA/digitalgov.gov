@@ -10,7 +10,7 @@ categories:
   - Data
   - Metrics
   - UX
-tags:
+tag:
   - analytics
   - browsers
   - Digital Analytics Program

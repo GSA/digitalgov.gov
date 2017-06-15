@@ -6,9 +6,9 @@ title: 'Build Empathy With Stakeholder Interviews, Part 1\: Preparation'
 summary: 'A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series, I&amp;#8217;d like to summarize (as best as possible) the presentation I gave, &amp;#8220;Foster The People\: Building Empathy with Stakeholder Interviews.&amp;#8221; In this post, I&amp;#8217;ll cover'
 authors: [andrew-maier]
 categories:
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
-tags:
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
+tag:
   - 18F
   - user centered design
   - user research

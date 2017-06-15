@@ -7,7 +7,7 @@ summary: 'The Pew Research Center recently released a report on &amp;#8220;12 Tr
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile gov
   - mobile-first
   - Trends on Tuesday

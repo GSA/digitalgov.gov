@@ -8,7 +8,7 @@ authors: [martha-dorris]
 categories:
   - Managing Digital
   - UX
-tags:
+tag:
   - Customer Experience
 ---
 

@@ -8,7 +8,7 @@ authors: [immanuel-lee]
 categories:
   - Metrics
   - Monthly Theme
-tags:
+tag:
   - analytics
   - big data
   - data

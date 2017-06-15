@@ -7,7 +7,7 @@ summary: ' Let&amp;#8217;s ponder this for a moment\: Maybe you live in South Fl
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - Customer Experience
   - mobile
   - NOAA

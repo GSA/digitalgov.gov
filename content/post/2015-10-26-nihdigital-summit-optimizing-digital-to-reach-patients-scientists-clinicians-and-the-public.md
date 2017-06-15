@@ -8,7 +8,7 @@ authors: [alison-lemon]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - EPA
   - HHS
   - National Cancer Institute

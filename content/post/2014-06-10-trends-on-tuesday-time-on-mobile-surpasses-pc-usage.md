@@ -7,7 +7,7 @@ summary: 'With the recent growth of&nbsp;smartphone and tablet ownership, it&rsq
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile-first
   - Trends on Tuesday
 ---

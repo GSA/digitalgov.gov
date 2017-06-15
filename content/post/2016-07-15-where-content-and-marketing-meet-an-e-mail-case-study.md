@@ -8,8 +8,8 @@ authors: [victoria-wales, darren-b-lurie]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - marketing
 ---

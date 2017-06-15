@@ -7,7 +7,7 @@ summary: 'The Challenge Much like GSA experienced three years ago,&nbsp;the Mana
 authors: [suzi-connor]
 categories:
   - Governance
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
 ---

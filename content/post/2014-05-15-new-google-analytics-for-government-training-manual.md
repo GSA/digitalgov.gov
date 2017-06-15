@@ -8,7 +8,7 @@ authors: [sarah-kaczmarek]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - GAO

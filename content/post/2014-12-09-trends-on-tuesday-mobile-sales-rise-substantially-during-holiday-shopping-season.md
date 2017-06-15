@@ -7,7 +7,7 @@ summary: 'Were you surfing the pre-Black Friday online sales while waiting for t
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday

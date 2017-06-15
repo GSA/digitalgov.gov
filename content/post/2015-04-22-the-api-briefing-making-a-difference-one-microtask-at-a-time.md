@@ -7,9 +7,9 @@ summary: 'I recently found an app that provides a great service through crowdsou
 authors: [bbrantley]
 categories:
   - API
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Mobile
-tags:
+tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

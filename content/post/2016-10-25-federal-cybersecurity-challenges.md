@@ -7,8 +7,8 @@ summary: 'These days, when you turn on the news you almost always see another ha
 authors: [gao-watchblog]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - security
 ---
 

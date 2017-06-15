@@ -7,7 +7,7 @@ summary: 'In our very first customer experience (CX) blog post about GSA&rsquo;s
 authors: [martha-dorris]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
 ---

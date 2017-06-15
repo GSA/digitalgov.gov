@@ -7,7 +7,7 @@ summary: 'Adobe released its&nbsp;quarterly Adobe Digital Index report this mont
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - DigitalGov Search
   - mobile gov community of practice
   - Mobile UX Guideline 1

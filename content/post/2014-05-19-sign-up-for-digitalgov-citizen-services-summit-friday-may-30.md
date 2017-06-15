@@ -15,7 +15,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - DOL
   - EPA
   - FCC

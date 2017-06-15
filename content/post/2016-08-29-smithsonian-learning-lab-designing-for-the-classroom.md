@@ -8,9 +8,9 @@ authors: [ben-bloom]
 categories:
   - Design
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - content
   - prototype
   - SCLDA

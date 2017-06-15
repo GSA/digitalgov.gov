@@ -7,7 +7,7 @@ summary: ' Having experienced everything from little tremors to violent shaking,
 authors: [nirmala-ramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Emergency Management Agency
   - FEMA
   - mobile apps

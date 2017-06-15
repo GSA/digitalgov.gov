@@ -9,8 +9,8 @@ categories:
   - Content
   - Monthly Theme
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - AIDS.gov
   - content
   - content strategy

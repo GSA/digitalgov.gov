@@ -10,7 +10,7 @@ categories:
   - Mobile
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - CNCS
   - Corporation for National and Community Service
   - crowdsourcing

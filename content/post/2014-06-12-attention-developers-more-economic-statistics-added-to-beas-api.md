@@ -8,7 +8,7 @@ authors: [bea-team]
 categories:
   - API
   - Data
-tags:
+tag:
   - BEA
   - U.S. Bureau of Economic Analysis
 ---

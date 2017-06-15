@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Metrics
   - Mobile
-tags:
+tag:
   - analytics
   - DAP
   - Digital Analytics Program

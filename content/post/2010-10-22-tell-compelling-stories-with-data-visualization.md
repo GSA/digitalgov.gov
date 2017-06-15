@@ -7,7 +7,7 @@ authors: [apiazza]
 categories:
   - Data
   - Metrics
-tags:
+tag:
   - analytics
   - data
   - data visualization

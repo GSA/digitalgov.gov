@@ -8,7 +8,7 @@ authors: [jonathan-rubin]
 categories:
   - Content
   - Video
-tags:
+tag:
   - accessibility
   - privacy
 ---

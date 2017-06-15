@@ -7,8 +7,8 @@ summary: 'Roughly 1 in 9 (11%) websites have adopted responsive Web design, acco
 authors: [tjohnson]
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Defense Finance and Accounting Services
   - DFAS
   - DOE

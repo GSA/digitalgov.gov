@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - CMS
   - Mobile UX Guideline 1
   - Mobile UX Guideline 6

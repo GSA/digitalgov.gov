@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Video
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Trends on Tuesday

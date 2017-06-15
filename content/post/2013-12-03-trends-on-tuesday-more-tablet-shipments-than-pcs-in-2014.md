@@ -7,7 +7,7 @@ summary: ' Canalys, an international IT company,&nbsp;predicted last week that t
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile gov
   - Trends on Tuesday
 ---

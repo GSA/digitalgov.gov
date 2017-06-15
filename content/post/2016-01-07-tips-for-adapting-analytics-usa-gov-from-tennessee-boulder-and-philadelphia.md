@@ -8,7 +8,7 @@ authors: [melody-kramer]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - 18F
   - analytics
   - analytics.usa.gov

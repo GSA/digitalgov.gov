@@ -8,7 +8,7 @@ authors: [jherman, meredith-stewart]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - DOJ
   - FBI
   - Federal Bureau of Investigation

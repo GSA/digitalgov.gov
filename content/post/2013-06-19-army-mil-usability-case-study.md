@@ -6,9 +6,9 @@ title: 'Army.mil &amp;#8211; Usability Case Study'
 summary: 'If you want to make a website more efficient and user friendly, then it&rsquo;s not enough just to have your most valuable information on the site. People are busy&mdash;they want to find what they&rsquo;re looking for, and they want it fast. You don&rsquo;t always need to redesign an entire site to make things easier to'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DoD
   - United States Army
   - United States Department of Defense

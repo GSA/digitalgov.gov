@@ -8,7 +8,7 @@ authors: [elizabeth-hochberg]
 categories:
   - Data
   - UX
-tags:
+tag:
   - challenges and prize competitions
   - data.gov
   - FOIA

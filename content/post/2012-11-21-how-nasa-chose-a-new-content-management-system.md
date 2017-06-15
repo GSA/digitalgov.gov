@@ -9,8 +9,8 @@ categories:
   - API
   - Content
   - Governance
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - CMS
   - Content Management System
   - NASA

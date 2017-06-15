@@ -7,7 +7,7 @@ summary: 'Most of us in the DigitalGov community recognize that responsive Web d
 authors: [ellen-arnold-losey]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - CMS
   - Content Management System

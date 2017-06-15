@@ -7,7 +7,7 @@ summary: 'Over the past year, the Environmental Protection Agency (EPA) has unde
 authors: [chris-cairns]
 categories:
   - Managing Digital
-tags:
+tag:
   - 18F
   - EPA
   - U.S. Environmental Protection Agency

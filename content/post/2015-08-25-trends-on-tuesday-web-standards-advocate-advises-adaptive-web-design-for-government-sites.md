@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 1
   - Mobile UX Guideline 2
   - Mobile UX Guideline 5

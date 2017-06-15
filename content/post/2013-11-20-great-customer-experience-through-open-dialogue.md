@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Social Media
   - UX
-tags:
+tag:
   - Customer Experience
   - social media
   - user experience

@@ -7,7 +7,7 @@ summary: 'Here&amp;#8217;s the latest news from the people are &amp;#8220;crazy 
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Trends on Tuesday
 ---

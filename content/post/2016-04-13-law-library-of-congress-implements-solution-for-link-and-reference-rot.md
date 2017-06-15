@@ -7,7 +7,7 @@ summary: 'Last fall, the Law Library of Congress implemented an external archivi
 authors: [charlotte-stichter]
 categories:
   - Content
-tags:
+tag:
   - Law Library of Congress
   - Library of Congress
   - LOC

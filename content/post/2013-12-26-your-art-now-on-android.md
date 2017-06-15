@@ -7,7 +7,7 @@ summary: 'Earlier this year the National Gallery of Art released their &amp;#822
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - multilingual
   - National Gallery of Art

@@ -11,7 +11,7 @@ categories:
   - Design
   - Mobile
   - UX
-tags:
+tag:
   - app
   - code
   - innovation

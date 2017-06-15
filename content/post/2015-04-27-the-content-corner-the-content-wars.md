@@ -8,7 +8,7 @@ authors: [tymanuel]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - Facebook

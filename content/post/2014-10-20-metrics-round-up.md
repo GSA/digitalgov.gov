@@ -7,7 +7,7 @@ summary: 'We are all collecting a lot of performance data across our digital pro
 authors: [apiazza]
 categories:
   - Metrics
-tags:
+tag:
   - analytics
   - DAP
   - data.gov

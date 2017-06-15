@@ -7,7 +7,7 @@ summary: 'Mobile devices are uploading data faster and mobile users are starting
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Trends on Tuesday
   - user experience

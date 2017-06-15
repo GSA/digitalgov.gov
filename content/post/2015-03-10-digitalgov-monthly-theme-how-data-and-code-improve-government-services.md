@@ -8,7 +8,7 @@ authors: [jparcell, awichman]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - API
   - data
   - data.gov

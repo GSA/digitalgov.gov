@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 4

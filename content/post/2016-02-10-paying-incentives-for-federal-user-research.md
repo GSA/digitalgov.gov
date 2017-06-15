@@ -7,7 +7,7 @@ summary: 'Paying incentives to test participants is standard practice in researc
 authors: [andreanocesigritz]
 categories:
   - UX
-tags:
+tag:
   - user experience
   - User Experience Community of Practice
   - UX

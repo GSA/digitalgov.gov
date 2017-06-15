@@ -7,7 +7,7 @@ summary: ' The federal government can now unlock the collaborative &ldquo;genius
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - API
   - Defense Intelligence Agency
   - Internet of things

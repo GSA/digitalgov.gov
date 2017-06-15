@@ -11,7 +11,7 @@ categories:
   - Code
   - Data
   - Monthly Theme
-tags:
+tag:
   - API
   - apps challenges
   - data

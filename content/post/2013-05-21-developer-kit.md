@@ -6,7 +6,7 @@ summary: 'These are the elements that make up a well-rounded developer hub. Home
 authors: [gray-brooks]
 categories:
   - Code
-tags:
+tag:
   - API
   - USA.gov Federal Mobile Apps Directory
 ---

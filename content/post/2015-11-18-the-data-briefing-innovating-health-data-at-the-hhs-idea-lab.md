@@ -7,7 +7,7 @@ summary: 'By the time this is published, the United States, along with 160 other
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - data
   - data.gov
   - HHS

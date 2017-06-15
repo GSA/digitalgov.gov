@@ -7,7 +7,7 @@ summary: 'A recent survey of 100 retailers by EPiServer found that 46 percent of
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile-first
   - native app
   - Trends on Tuesday

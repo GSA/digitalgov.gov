@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Code
   - Data
-tags:
+tag:
   - API
   - data visualization
   - data.gov

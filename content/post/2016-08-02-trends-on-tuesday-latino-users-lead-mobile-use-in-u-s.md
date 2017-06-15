@@ -7,7 +7,7 @@ summary: 'The Pew Research Center released a report in July that shows&nbsp;peop
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile-first
   - mobile-friendly

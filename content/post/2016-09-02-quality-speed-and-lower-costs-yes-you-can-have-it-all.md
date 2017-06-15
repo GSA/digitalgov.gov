@@ -11,8 +11,8 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - DigitalGov Search
   - infrastructure
 ---

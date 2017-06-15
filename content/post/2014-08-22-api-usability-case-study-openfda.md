@@ -8,9 +8,9 @@ authors: [georgia-gallavin]
 categories:
   - API
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - API
   - DigitalGov User Experience Program
   - FDA

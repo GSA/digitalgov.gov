@@ -7,7 +7,7 @@ summary: 'In July, comScore released a research paper, The Global Mobile Report\
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

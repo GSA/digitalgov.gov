@@ -7,7 +7,7 @@ summary: 'Some people think LinkedIn is only for active job seekers. Although ma
 authors: [erika-brown]
 categories:
   - Social Media
-tags:
+tag:
   - LinkedIn
   - Peace Corps
 ---

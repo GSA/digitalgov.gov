@@ -8,7 +8,7 @@ authors: [eric-beidel]
 categories:
   - Challenges
   - Our Work
-tags:
+tag:
   - Recaps
   - U.S. Agency for International Development
   - USAID

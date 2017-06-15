@@ -7,7 +7,7 @@ summary: 'In the span of two days, I received as many emails from respectable co
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - blog
   - natural language generation

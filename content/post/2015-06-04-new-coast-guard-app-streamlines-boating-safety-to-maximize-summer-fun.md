@@ -7,7 +7,7 @@ summary: 'Just in time for the summer season, the U.S. Coast Guard launched a br
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Mobile Products Registry
   - ios
   - mobile apps

@@ -6,9 +6,9 @@ title: 'Weather.gov &amp;#8211; Usability Case Study'
 summary: 'After conducting a usability test and listening to customer feedback, the Weather.gov team and the DigitalGov User Experience Program&nbsp;identified these three issues as both important and quickly solvable. Problem 1\: Terminology and Labels Confusing The terminology and labels used were either too technical or too abstract for users to understand&mdash;a far cry from the plain'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - NOAA
   - usability case study

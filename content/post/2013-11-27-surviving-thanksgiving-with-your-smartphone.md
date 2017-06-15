@@ -7,7 +7,7 @@ summary: 'Oh, Thanksgiving! If you need to take a time-out from the dinner table
 authors: [genevieve-contey]
 categories:
   - Mobile
-tags:
+tag:
   - HHS
   - mobile apps
   - mobile gov

@@ -9,8 +9,8 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - Federal Emergency Management Agency

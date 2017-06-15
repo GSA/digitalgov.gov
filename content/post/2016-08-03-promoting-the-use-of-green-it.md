@@ -7,8 +7,8 @@ summary: 'Summary\:&nbsp;We&amp;#8217;re taking action to accelerate efforts to 
 authors: [tony-scott]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Federal Information Technology Acquisition Reform Act
   - FITARA
   - green IT

@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - HTTPS
   - Internet of things
   - mobile

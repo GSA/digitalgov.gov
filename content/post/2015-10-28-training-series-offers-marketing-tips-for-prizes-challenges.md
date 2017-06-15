@@ -7,7 +7,7 @@ summary: 'Marketing and public education is an essential part of any successful 
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - EPA

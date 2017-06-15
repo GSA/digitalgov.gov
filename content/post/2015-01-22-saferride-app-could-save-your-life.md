@@ -8,7 +8,7 @@ authors: [kdowney]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - DOT
   - National Highway Traffic Safety Administration
   - native app

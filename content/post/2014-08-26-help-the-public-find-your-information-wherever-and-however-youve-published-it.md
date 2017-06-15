@@ -11,7 +11,7 @@ categories:
   - Monthly Theme
   - Our Work
   - Social Media
-tags:
+tag:
   - 18F
   - CMS
   - Content Management System

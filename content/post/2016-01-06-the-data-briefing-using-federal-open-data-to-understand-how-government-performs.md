@@ -7,7 +7,7 @@ summary: 'Some highlights from the recent fall conference of the Association for
 authors: [bbrantley]
 categories:
   - Code
-tags:
+tag:
   - API
   - open data
   - The Data Briefing

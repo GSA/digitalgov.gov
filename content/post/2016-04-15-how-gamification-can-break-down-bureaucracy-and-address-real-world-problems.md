@@ -7,7 +7,7 @@ summary: 'The world&rsquo;s toughest challenges require out-of-the-box thinking.
 authors: [awichman]
 categories:
   - Managing Digital
-tags:
+tag:
   - crowdsourcing
   - gamification
   - Office of Naval Research

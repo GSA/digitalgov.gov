@@ -7,7 +7,7 @@ summary: 'If you&rsquo;re a frequent Trends on Tuesday reader, you may recall ou
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - GobiernoUSAgov
   - Mobile UX Guideline 5
   - mobile-first

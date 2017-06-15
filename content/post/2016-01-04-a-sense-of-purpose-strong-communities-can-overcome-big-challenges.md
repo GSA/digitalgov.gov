@@ -7,9 +7,9 @@ summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not t
 authors: [eric-beidel]
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - crowdsourcing

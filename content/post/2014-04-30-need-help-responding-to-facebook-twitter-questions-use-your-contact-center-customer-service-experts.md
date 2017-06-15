@@ -9,7 +9,7 @@ categories:
   - Communities
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - AoI
   - HHS
   - National Institutes of Health

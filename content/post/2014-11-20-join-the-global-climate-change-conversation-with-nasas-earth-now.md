@@ -7,7 +7,7 @@ summary: ' Wanna join the global climate change conversation? Arm yourself with 
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - NASA
   - Thursday Mobile Products

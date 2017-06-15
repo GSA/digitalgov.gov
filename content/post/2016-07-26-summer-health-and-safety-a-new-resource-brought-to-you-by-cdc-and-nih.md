@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - UX
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content

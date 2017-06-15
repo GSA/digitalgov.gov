@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - GSA
   - mobile
   - NCI

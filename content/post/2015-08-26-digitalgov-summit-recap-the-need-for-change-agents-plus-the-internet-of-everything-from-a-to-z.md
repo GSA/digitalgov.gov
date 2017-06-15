@@ -7,7 +7,7 @@ summary: ' The Internet of Things is already here. How will we prepare for the I
 authors: [awichman]
 categories:
   - Our Work
-tags:
+tag:
   - DigitalGov Summit
   - FCC
   - Federal Communications Commission

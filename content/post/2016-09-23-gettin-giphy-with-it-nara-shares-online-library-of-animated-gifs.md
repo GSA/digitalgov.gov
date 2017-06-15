@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-tags:
+tag:
   - content
   - NARA
   - National Archives and Records Administration

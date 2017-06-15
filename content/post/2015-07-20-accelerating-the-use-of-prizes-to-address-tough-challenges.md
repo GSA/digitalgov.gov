@@ -7,7 +7,7 @@ summary: ' Later this year, the Federal government will celebrate the fifth anni
 authors: [tom-kalil, jenn-gustetic]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
 ---

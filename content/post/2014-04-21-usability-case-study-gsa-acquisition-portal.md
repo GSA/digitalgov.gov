@@ -7,9 +7,9 @@ summary: 'Incorporating usability testing throughout the entire design process, 
 authors: [tlowden]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - GSA
   - usability case study

@@ -7,7 +7,7 @@ summary: ' Customer Experience (CX) deserves a voice at an agency&rsquo;s senior
 authors: [zachary-lerner]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

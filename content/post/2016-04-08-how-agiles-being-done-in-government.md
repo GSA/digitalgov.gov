@@ -8,8 +8,8 @@ authors: [andreanocesigritz]
 categories:
   - Managing Digital
   - Monthly Theme
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - agile
   - Census

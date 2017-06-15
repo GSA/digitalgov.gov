@@ -7,7 +7,7 @@ summary: 'Over the last 6 months, 18F has embarked on a mission to transform the
 authors: [18f-team]
 categories:
   - Code
-tags:
+tag:
   - 18F
   - data.gov
   - DOI

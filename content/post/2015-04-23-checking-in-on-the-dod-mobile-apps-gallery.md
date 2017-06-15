@@ -7,7 +7,7 @@ summary: ' We&rsquo;re switching our style up this week in salute to our militar
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - DoD
   - Thursday Mobile Products
   - United States Department of Defense

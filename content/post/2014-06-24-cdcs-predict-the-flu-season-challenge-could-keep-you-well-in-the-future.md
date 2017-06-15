@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - ChallengeGov

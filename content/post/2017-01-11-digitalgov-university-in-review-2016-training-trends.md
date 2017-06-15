@@ -19,10 +19,10 @@ categories:
   - Mobile
   - Our Work
   - Social Media
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - 18F
   - AI
   - analytics
@@ -50,7 +50,7 @@ tags:
   - National Aeronautics and Space Administration
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - open data
   - Open Opportunities program
   - OPP

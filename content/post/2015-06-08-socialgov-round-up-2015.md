@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - analytics
   - BBG
   - Broadcasting Board of Governors

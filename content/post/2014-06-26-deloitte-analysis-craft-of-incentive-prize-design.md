@@ -7,7 +7,7 @@ summary: 'Federal challenge and prize competitions are in the news again. Our co
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - OSTP
   - White House Office of Science and Technology Policy

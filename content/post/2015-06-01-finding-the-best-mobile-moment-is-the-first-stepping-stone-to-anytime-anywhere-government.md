@@ -8,14 +8,14 @@ authors: [jparcell]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - Internal Revenue Service
   - ios
   - IRS
   - Mobile UX Guideline 5
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - 'Occupational Safety &amp; Health Administration'
+  - 'Occupational Safety and Health Administration'
   - OSHA
   - U.S. Department of Veterans Affairs
   - usa.gov

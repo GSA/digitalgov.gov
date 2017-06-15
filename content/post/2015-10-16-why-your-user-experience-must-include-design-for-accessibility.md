@@ -8,7 +8,7 @@ authors: [justin-dopke]
 categories:
   - Accessibility
   - UX
-tags:
+tag:
   - section 508
   - SSA
   - The United States Social Security Administration

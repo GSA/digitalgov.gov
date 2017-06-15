@@ -7,7 +7,7 @@ summary: 'MobileMarketingWatch recently published an article on how the SMS mark
 authors: [rachel-hurley]
 categories:
   - Mobile
-tags:
+tag:
   - social media
   - Trends on Tuesday
 ---

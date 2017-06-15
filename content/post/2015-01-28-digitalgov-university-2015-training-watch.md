@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - DGU
   - DigitalGov Summit
   - mobile gov community of practice

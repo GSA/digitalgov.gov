@@ -7,7 +7,7 @@ summary: 'Innovators are made, not born. This summer, the Food and Drug Administ
 authors: [awichman]
 categories:
   - Our Work
-tags:
+tag:
   - FDA
   - mobile apps
   - Open Opportunities program

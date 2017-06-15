@@ -8,7 +8,7 @@ authors: [jim-costello]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile App Development Program
   - mobile gov

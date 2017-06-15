@@ -7,7 +7,7 @@ summary: 'Serendipity can be a wonderful tool for discovery. I was looking throu
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - Census
   - United States Census Bureau

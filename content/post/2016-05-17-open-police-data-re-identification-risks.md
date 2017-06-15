@@ -7,11 +7,11 @@ summary: 'Last week I spoke at a White House event, &ldquo;Opportunities &amp;am
 authors: [lorrie-cranor]
 categories:
   - Data
-tags:
+tag:
   - data
   - Federal Trade Commission
   - FTC
-  - 'National Telecommunications &amp; Information Administration'
+  - 'National Telecommunications and Information Administration'
   - open data
   - security
   - White House

@@ -7,8 +7,8 @@ summary: 'Smaller doesn&amp;#8217;t mean more popular when&nbsp;it comes to smar
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - Federal CrowdSource Mobile Testing Program
   - Mobile UX Guideline 1
   - Mobile UX Guideline 4

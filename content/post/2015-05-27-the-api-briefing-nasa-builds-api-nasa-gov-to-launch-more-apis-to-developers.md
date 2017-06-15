@@ -7,7 +7,7 @@ summary: ' NASA has been busy since we last visited their collection of APIs bac
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - NASA
   - Wednesday API Briefing

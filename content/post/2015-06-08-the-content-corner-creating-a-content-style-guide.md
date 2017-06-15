@@ -7,7 +7,7 @@ summary: 'One of the more commonly overlooked pieces of any effective content st
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

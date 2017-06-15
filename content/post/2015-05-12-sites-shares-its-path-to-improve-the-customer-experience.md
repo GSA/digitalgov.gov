@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - CMS
   - Customer Experience
   - customer service

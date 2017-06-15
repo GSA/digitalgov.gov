@@ -7,7 +7,7 @@ summary: ' Mobile searching has become a fact of life. According to a recent stu
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - Trends on Tuesday
 ---

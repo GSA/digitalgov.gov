@@ -8,7 +8,7 @@ authors: [alison-sturgeon]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - communities
   - Customer Experience
   - Customer Experience Community of Practice

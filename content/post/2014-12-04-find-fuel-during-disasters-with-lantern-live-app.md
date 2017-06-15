@@ -7,7 +7,7 @@ summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure 
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - native app
   - Thursday Mobile Products

@@ -9,7 +9,7 @@ categories:
   - Content
   - Our Work
   - Social Media
-tags:
+tag:
   - Instagram
   - open government
   - USAgov

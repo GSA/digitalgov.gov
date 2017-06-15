@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - UX
   - Video
-tags:
+tag:
   - section 508
   - YouTube
 ---

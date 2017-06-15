@@ -8,7 +8,7 @@ authors: [jparcell, hannah-gladfelter-rubin]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - content models
   - COPE
   - HHS

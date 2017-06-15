@@ -7,8 +7,8 @@ summary: 'In March, the team of writers and editors at USAGov adopted some agile
 authors: [jessica-milcetich]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - agile
   - Agile/Lean Community of Practice
   - GSA

@@ -7,7 +7,7 @@ summary: 'I (virtually) attended the Third Annual Safety Datapalooza last Thursd
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - FDA
   - The Data Briefing
   - U.S. Food and Drug Administration

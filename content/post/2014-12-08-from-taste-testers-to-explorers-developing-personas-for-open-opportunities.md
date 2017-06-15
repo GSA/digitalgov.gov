@@ -8,7 +8,7 @@ authors: [lnelson, awichman]
 categories:
   - Content
   - Our Work
-tags:
+tag:
   - Open Opportunities program
   - Personas
 ---

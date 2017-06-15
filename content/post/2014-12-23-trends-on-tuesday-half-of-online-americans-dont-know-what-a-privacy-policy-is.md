@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - Defense Intelligence Agency
   - DIA
   - DigitalGov Summit

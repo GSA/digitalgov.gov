@@ -7,7 +7,7 @@ summary: 'We are pleased to announce the beginnings of a new Syndication.Net/Sha
 authors: [christen-geiler]
 categories:
   - Code
-tags:
+tag:
   - content syndication
   - HHS
   - National Institutes of Health

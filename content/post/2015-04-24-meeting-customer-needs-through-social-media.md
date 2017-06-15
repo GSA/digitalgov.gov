@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - analytics
   - Customer Experience
   - customer service

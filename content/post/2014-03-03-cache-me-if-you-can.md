@@ -9,7 +9,7 @@ categories:
   - Content
   - Data
   - Our Work
-tags:
+tag:
   - Customer Experience
   - DigitalGov Search
   - GitHub

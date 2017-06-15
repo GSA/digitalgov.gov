@@ -12,7 +12,7 @@ categories:
   - Managing Digital
   - Mobile
   - UX
-tags:
+tag:
   - app
   - code
   - innovation

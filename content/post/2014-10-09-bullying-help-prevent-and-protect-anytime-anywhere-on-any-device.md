@@ -7,7 +7,7 @@ summary: 'I don&amp;#8217;t&nbsp;remember being bullied as a kid, but my younger
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - Centers for Disease Control and Prevention
   - mobile apps
   - native app

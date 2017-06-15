@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Writing
-tags:
+tag:
   - content strategy
   - GobiernoUSAgov
   - multilingual

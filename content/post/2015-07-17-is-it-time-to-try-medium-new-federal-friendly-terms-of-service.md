@@ -7,7 +7,7 @@ summary: 'What is Medium? Good question. Is it a publishing platform, a social n
 authors: [dana-allen-greil]
 categories:
   - Social Media
-tags:
+tag:
   - Terms of Service
   - TOS
 ---

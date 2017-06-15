@@ -7,7 +7,7 @@ summary: 'The DigitalGov platform helps federal agencies meet 21st century digit
 authors: [apiazza, jparcell]
 categories:
   - Our Work
-tags:
+tag:
   - DigitalGov Summit
   - Ex-Im Bank
   - Export-Import Bank of the United States

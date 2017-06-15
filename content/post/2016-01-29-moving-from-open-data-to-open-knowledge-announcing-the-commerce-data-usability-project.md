@@ -7,7 +7,7 @@ summary: 'Opening up government to better serve the American people has been a k
 authors: [tyrone-grandison, jeffrey-chen, kristen-honey]
 categories:
   - Data
-tags:
+tag:
   - Census
   - Commerce
   - data.gov

@@ -7,7 +7,7 @@ summary: ' A (possibly infamous) blog post from last Friday and the discussion/d
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - infographic

@@ -7,8 +7,8 @@ summary: 'Functionality testing verifies that the functions of a product or serv
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile
   - UX
 ---

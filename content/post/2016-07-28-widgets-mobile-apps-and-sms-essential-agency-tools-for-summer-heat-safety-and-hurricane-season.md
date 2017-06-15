@@ -10,7 +10,7 @@ categories:
   - Content
   - Mobile
   - Social Media
-tags:
+tag:
   - app
   - content
   - content syndication

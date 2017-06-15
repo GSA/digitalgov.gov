@@ -7,9 +7,9 @@ summary: 'Usability and accessibility are slightly different lenses to assess us
 authors: [katie-messner]
 categories:
   - Accessibility
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - accessibility
   - usability
 ---

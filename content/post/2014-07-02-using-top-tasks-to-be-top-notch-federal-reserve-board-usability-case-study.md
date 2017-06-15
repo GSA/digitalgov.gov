@@ -7,9 +7,9 @@ summary: 'In 2012, the Federal Reserve Board used the Top-task&nbsp;methodology 
 authors: [ben-rosset]
 categories:
   - Communities
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - AoI
   - DigitalGov User Experience Program
   - Federal Reserve Board

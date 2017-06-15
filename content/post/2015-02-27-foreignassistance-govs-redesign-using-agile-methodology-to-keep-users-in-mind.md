@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - agile
   - Office of the U.S. Foreign Assistance Resources
   - Personas

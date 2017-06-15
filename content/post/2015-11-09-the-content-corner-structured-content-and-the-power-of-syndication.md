@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - API
   - CDC
   - Centers for Disease Control and Prevention

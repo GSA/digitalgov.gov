@@ -9,7 +9,7 @@ categories:
   - Content
   - Social Media
   - Video
-tags:
+tag:
   - FDA
   - multilingual
   - multilingual digital group

@@ -6,8 +6,8 @@ title: 'Citizen Science is Sound Science Provided by You'
 summary: 'Have you ever seen a cool bird in your backyard and wondered if there was some way to share what you saw with others? Better yet, have you thought about sharing your observations&nbsp;and&nbsp;having them used to help study and conserve those birds? These thoughts are an indicator that you might have the makings of a'
 authors: [stephanie-dromerick]
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
-tags:
+  - 'Crowdsourcing and Citizen Science'
+tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - FS

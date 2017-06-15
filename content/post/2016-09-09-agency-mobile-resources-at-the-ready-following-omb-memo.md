@@ -9,8 +9,8 @@ categories:
   - Governance
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - FAS
   - Federal Acquisition Service
   - GSA

@@ -7,7 +7,7 @@ summary: 'ComScore reported last week that smartphones now make up a whopping 75
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - Federal CrowdSource Mobile Testing Program

@@ -7,7 +7,7 @@ summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC&rsquo;s 
 authors: [christen-geiler]
 categories:
   - Content
-tags:
+tag:
   - API
   - CDC
   - Centers for Disease Control and Prevention

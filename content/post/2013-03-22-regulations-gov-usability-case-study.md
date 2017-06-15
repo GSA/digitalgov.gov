@@ -6,8 +6,8 @@ title: 'Regulations.gov &amp;#8211; Usability Case Study'
 summary: 'More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can&rsquo;t immediately find what they are looking for, they&rsquo;re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped&nbsp;test&nbsp;Regulations.gov&nbsp;on&nbsp;October 5, 2012,&nbsp;to'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - DigitalGov User Experience Program
   - usability
   - usability case study

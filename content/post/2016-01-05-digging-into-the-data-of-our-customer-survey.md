@@ -7,7 +7,7 @@ summary: 'As a followup to the recent post about our annual customer satisfactio
 authors: [rflagg]
 categories:
   - Our Work
-tags:
+tag:
   - challenges and prize competitions
   - Customer Experience
   - DigitalGov University

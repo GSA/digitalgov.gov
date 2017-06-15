@@ -7,7 +7,7 @@ summary: 'What&amp;#8217;s one of the most important factors in delivering a goo
 authors: [martha-dorris]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
 ---
 

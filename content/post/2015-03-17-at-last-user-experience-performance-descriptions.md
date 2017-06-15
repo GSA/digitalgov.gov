@@ -7,9 +7,9 @@ summary: ' To improve your digital systems with user experience (UX), you need p
 authors: [jonathan-rubin]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - usability
   - user experience
   - UX

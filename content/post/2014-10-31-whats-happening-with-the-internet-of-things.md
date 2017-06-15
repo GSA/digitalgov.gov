@@ -10,7 +10,7 @@ categories:
   - Mobile
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - Defense Intelligence Agency
   - DIA
   - DOT

@@ -7,7 +7,7 @@ summary: 'A recent Trends on Tuesday post cautioned against becoming another sta
 authors: [zeshan-khan]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile App Development Program
   - mobile gov community of practice
   - Mobile UX Guideline 5

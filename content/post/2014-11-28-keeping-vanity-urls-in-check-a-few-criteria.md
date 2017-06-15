@@ -7,7 +7,7 @@ summary: '  Shortcuts, Vanity or Marketing URLs, are all names for the requests 
 authors: [andreanocesigritz]
 categories:
   - Content
-tags:
+tag:
   - GoUSAgov
   - National Institute of Allergy and Infectious Diseases
   - NIAID

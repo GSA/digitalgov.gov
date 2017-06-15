@@ -7,7 +7,7 @@ summary: 'What&rsquo;s the weather like? When does the next movie start? What ti
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - DOI
   - Mobile User Experience Guidelines
   - Mobile UX Guideline 5

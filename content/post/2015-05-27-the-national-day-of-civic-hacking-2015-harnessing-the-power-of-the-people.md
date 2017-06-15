@@ -8,7 +8,7 @@ authors: [ali-llewellyn]
 categories:
   - Challenges
   - Data
-tags:
+tag:
   - data
   - National Day of Civic Hacking
   - open data

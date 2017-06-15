@@ -8,7 +8,7 @@ authors: [awichman, coqui-aspiazu]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - DigitalGov Summit
 ---
 

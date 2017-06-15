@@ -7,7 +7,7 @@ summary: 'Mariners now have an anytime, anywhere resource to aid in the reductio
 authors: [brandon-barr]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - National Oceanic and Atmospheric Administration
   - Thursday Mobile Products

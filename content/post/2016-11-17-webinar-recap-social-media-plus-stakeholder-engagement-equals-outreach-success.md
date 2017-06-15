@@ -8,9 +8,9 @@ authors: [victoria-wales]
 categories:
   - Content
   - Social Media
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - CDC
   - content
   - content strategy

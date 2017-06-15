@@ -8,7 +8,7 @@ authors: [lisa-wilcox]
 categories:
   - Mobile
   - "What's New"
-tags:
+tag:
   - mobile
   - Trends on Tuesday
 ---

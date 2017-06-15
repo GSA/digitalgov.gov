@@ -7,7 +7,7 @@ summary: 'It&rsquo;s time for a mobile pop quiz. How well do you know consumers 
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Census
   - Centers for Disease Control and Prevention

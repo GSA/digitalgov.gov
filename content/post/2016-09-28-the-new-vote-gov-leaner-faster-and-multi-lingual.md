@@ -9,9 +9,9 @@ categories:
   - Code
   - Content
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - 18F
   - analytics
   - cloud

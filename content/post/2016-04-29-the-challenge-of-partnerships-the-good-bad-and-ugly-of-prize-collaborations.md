@@ -7,7 +7,7 @@ summary: 'Well-executed partnerships can create better solutions and place them 
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - HHS

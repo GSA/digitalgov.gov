@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - analytics
   - Digital Analytics Program
 ---

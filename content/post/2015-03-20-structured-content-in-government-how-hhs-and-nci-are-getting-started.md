@@ -10,7 +10,7 @@ categories:
   - Data
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - content models
   - content strategy
   - DGU

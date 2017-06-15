@@ -8,9 +8,9 @@ authors: [jonathan-rubin, pooja-sawant]
 categories:
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - National Cancer Institute
   - NCI

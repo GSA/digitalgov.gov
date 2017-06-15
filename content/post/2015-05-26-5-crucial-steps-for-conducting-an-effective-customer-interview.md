@@ -8,7 +8,7 @@ authors: [victoria-mcfadden, anahita-reilly]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

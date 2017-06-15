@@ -7,7 +7,7 @@ summary: '(This is the second installment of an ongoing series charting the prog
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - accessibility
   - FAFSA
   - NASA

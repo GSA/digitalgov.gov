@@ -7,7 +7,7 @@ summary: 'Author writes\: Additionally, the method utilized a myriad of factors 
 authors: [colleen-blessing]
 categories:
   - Writing
-tags:
+tag:
   - EIA
   - Plain language
   - U.S. Energy Information Administration

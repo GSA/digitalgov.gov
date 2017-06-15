@@ -7,7 +7,7 @@ summary: 'Hello, everyone. My summer sabbatical was short but educational, and I
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - API
   - data
   - data visualization

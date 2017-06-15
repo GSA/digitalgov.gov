@@ -7,7 +7,7 @@ summary: 'Cyber Monday, billed as one of the busiest online-commerce days of the
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

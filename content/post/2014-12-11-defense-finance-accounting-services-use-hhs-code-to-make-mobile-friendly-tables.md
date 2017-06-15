@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - code
   - Defense Finance and Accounting Services
   - DFAS

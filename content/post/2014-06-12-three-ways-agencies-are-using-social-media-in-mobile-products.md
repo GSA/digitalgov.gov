@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - crowdsourcing
   - Federal Mobile Products Registry
   - GPS

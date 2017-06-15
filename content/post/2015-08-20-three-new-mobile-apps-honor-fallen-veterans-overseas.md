@@ -7,7 +7,7 @@ summary: ' The American Battle Monuments Commission (ABMC) released three new mo
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - ABMC
   - American Battle Monuments Commission
   - Federal Mobile Products Registry

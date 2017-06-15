@@ -8,7 +8,7 @@ authors: [jonathan-rubin]
 categories:
   - Communities
   - UX
-tags:
+tag:
   - AoI
   - user experience
 ---

@@ -7,7 +7,7 @@ summary: 'We are in an era of digital transformation across many different indus
 authors: [denise-turner-roth]
 categories:
   - Managing Digital
-tags:
+tag:
   - 18F
 ---
 

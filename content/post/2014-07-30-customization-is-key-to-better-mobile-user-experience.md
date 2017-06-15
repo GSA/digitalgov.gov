@@ -8,7 +8,7 @@ authors: [katie-steffy]
 categories:
   - Mobile
   - UX
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - federal user experience community

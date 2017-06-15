@@ -7,7 +7,7 @@ summary: 'More users are now accessing social media via mobile than on desktops.
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - Facebook
   - mobile
   - mobile-first

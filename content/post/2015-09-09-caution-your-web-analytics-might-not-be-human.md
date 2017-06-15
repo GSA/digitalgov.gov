@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Metrics
   - Monthly Theme
-tags:
+tag:
   - analytics
   - DAP
   - data

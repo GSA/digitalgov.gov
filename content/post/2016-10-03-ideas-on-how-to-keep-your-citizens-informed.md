@@ -8,7 +8,7 @@ authors: [christen-geiler]
 categories:
   - Content
   - Managing Digital
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content

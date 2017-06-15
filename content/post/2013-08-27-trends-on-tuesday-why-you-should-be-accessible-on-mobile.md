@@ -8,7 +8,7 @@ authors: [rachel-hurley]
 categories:
   - Accessibility
   - Mobile
-tags:
+tag:
   - Making Mobile Gov
   - mobile apps
   - mobile gov

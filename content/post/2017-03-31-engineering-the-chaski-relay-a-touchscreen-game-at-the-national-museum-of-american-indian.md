@@ -8,9 +8,9 @@ authors: [ben-bloom]
 categories:
   - Content
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - content
   - gamification
   - NMAI

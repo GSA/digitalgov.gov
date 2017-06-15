@@ -7,7 +7,7 @@ summary: 'As the new school season approaches, it is a good time to see what fed
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - json
   - OPM

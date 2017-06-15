@@ -7,8 +7,8 @@ summary: 'The&nbsp;Digital Government Strategy represents best practices in toda
 authors: [logan-powell]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Census
   - United States Census Bureau
 ---

@@ -8,7 +8,7 @@ authors: [david-kaufmann, michelle-chronister]
 categories:
   - Content
   - UX
-tags:
+tag:
   - social media metrics
   - USAgov
   - UX

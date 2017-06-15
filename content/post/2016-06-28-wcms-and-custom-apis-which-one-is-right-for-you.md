@@ -8,8 +8,8 @@ authors: [christen-geiler]
 categories:
   - API
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - API
   - CMS
   - code

@@ -7,7 +7,7 @@ summary: 'The&nbsp;National Park Service&nbsp;(NPS) developed an app for people 
 authors: [rachel-hurley]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
   - U.S. National Park Service

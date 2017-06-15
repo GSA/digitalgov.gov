@@ -7,7 +7,7 @@ summary: 'Pew Research Center&rsquo;s Internet &amp;amp; American Life Project r
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - Trends on Tuesday
   - user experience
 ---

@@ -7,7 +7,7 @@ summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - data
   - json

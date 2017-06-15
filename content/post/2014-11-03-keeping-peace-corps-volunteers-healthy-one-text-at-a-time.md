@@ -8,7 +8,7 @@ authors: [brian-forde, carrie-hessler-radelet]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - Digital Services Playbook
   - GitHub
   - Mobile UX Guideline 5

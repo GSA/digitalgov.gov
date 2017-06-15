@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - challenges and prize competitions
   - data.gov
   - Mobile UX Guideline 5

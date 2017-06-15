@@ -13,7 +13,7 @@ categories:
   - Social Media
   - UX
   - Video
-tags:
+tag:
   - communities
   - content
   - Digital Audio/Video Community

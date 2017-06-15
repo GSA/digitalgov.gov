@@ -7,8 +7,8 @@ summary: 'At GSA&rsquo;s Office of Citizen Services and Innovative Technologies 
 authors: [rflagg]
 categories:
   - Our Work
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - Customer Experience
   - CX
 ---

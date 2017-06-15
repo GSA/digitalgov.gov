@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Mobile
   - UX
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Mobile UX Guideline 2

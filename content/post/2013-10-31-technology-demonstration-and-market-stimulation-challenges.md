@@ -7,7 +7,7 @@ summary: 'Challenge and prize competitions are one path that federal agencies ta
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - innovation
 ---
 

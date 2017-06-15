@@ -8,7 +8,7 @@ authors: [michael-niedzwiecki]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - drupal
   - HUD
   - mobile gov

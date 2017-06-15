@@ -7,8 +7,8 @@ summary: 'This summer I announced the the release of our new Health IT Services 
 authors: [mary-davie]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Federal Health IT Strategic Plan
   - GSA
   - IT Schedule 70

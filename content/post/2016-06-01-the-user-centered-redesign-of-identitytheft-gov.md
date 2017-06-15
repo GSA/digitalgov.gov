@@ -8,10 +8,10 @@ authors: [melody-kramer]
 categories:
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - 18F
   - Federal Trade Commission
   - FTC

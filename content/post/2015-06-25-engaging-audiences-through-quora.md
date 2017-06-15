@@ -8,7 +8,7 @@ authors: [carolyn-hinkley]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - National Institute of Standards and Technology
   - NIST
   - social media

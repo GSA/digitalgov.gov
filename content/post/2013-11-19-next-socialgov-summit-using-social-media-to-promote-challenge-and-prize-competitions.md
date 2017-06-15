@@ -8,8 +8,8 @@ authors: [jherman]
 categories:
   - Challenges
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - ChallengeGov
   - SocialGov
 ---

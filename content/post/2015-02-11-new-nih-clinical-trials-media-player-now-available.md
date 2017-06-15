@@ -7,7 +7,7 @@ summary: 'Spread the Word about Clinical Trials! As we have recently seen with t
 authors: [christen-geiler]
 categories:
   - Content
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - National Institutes of Health

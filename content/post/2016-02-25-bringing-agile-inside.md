@@ -7,9 +7,9 @@ summary: 'We hear a lot about agile software development being used in work with
 authors: [ktrebon]
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
-tags:
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
+tag:
   - innovation
 ---
 

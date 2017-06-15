@@ -8,7 +8,7 @@ authors: [julia-jackson]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - content
   - content strategy
   - social media

@@ -8,7 +8,7 @@ authors: [cynthia-baur]
 categories:
   - Content
   - Writing
-tags:
+tag:
   - 18F
   - CDC
   - Centers for Disease Control and Prevention

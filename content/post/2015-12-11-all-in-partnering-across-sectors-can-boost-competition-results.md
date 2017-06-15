@@ -8,7 +8,7 @@ authors: [eric-beidel]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - challenges and prize competitions
   - EPA
   - U.S. Agency for International Development

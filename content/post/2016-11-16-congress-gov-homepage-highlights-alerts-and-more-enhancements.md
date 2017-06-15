@@ -9,7 +9,7 @@ categories:
   - Content
   - Design
   - Managing Digital
-tags:
+tag:
   - content
   - Library of Congress
   - user centered design

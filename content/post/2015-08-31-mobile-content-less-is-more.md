@@ -8,8 +8,8 @@ authors: [david-fern]
 categories:
   - Mobile
   - Monthly Theme
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - COPE
   - Federal CrowdSource Mobile Testing Program
   - mobile

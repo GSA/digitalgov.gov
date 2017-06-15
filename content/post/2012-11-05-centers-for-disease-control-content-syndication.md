@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - API
   - CDC
   - Mobile Gov Experience

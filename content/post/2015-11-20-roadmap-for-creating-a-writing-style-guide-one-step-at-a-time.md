@@ -7,7 +7,7 @@ summary: 'So, you&rsquo;re tired of seeing little (or big!) errors on your agenc
 authors: [colleen-blessing]
 categories:
   - Writing
-tags:
+tag:
   - EIA
   - Plain language
   - U.S. Energy Information Administration

@@ -7,7 +7,7 @@ summary: 'National Day of Civic Hacking on June 4th, D.C. Edition The fourth ins
 authors: [jack-bienko]
 categories:
   - Code
-tags:
+tag:
   - Census
   - National Day of Civic Hacking
   - SBA

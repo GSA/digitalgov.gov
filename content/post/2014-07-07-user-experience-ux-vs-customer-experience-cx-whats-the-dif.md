@@ -9,7 +9,7 @@ categories:
   - Communities
   - Monthly Theme
   - UX
-tags:
+tag:
   - AoI
   - Customer Experience
   - DigitalGov User Experience Program

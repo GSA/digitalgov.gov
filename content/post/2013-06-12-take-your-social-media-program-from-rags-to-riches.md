@@ -7,7 +7,7 @@ summary: 'Are you a small or even one-deep government social media team who wond
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - social media
   - SocialGov
   - USTDA

@@ -7,7 +7,7 @@ summary: '(This is the next installment of an&nbsp;ongoing series&nbsp;charting 
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - DoD
   - Facebook
   - United States Department of Defense

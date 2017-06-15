@@ -7,7 +7,7 @@ summary: ' Whether it&amp;#8217;s the&nbsp;800-year-old legacy of the Magna Cart
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - NARA
   - National Archives and Records Administration

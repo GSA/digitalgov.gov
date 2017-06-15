@@ -8,7 +8,7 @@ authors: [courtney-greenley]
 categories:
   - Mobile
   - Our Work
-tags:
+tag:
   - DigitalGov Summit
   - Federal Mobile Products Registry
   - mobile apps

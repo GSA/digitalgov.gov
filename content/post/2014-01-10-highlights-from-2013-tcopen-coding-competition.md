@@ -7,7 +7,7 @@ summary: ' Our team and a few other agencies had the chance to attend the 2013 T
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
 ---
 

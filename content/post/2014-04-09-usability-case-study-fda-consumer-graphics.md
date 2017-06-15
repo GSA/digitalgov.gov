@@ -7,9 +7,9 @@ summary: 'User testing isn&rsquo;t just for websites&mdash;it&rsquo;s for any pr
 authors: [jonathan-rubin]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - FDA
   - infographic
   - U.S. Food and Drug Administration

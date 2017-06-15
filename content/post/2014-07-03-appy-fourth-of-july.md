@@ -7,7 +7,7 @@ summary: 'Washington. You can say a lot of things about this town,&nbsp;but one 
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - Architect of the Capitol
   - mobile apps
   - mobile gov community of practice

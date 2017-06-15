@@ -7,7 +7,7 @@ summary: 'Marketers are increasingly using SMS, push notifications, mobile apps,
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - customer service
   - GPS
   - mobile

@@ -6,9 +6,9 @@ title: 'NSF.gov &amp;#8211; Usability Case Study'
 summary: 'Many government websites are informational in nature &amp;#8211; you don&amp;#8217;t sign up for things or buy anything. Instead, you look for something &amp;#8211; a name, a ruling, some contact information. Informational sites &amp;#8211; and scientific sites in particular &amp;#8211; can be a challenge to design. With so much information, how do you make the important'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - national science foundation
   - NSF

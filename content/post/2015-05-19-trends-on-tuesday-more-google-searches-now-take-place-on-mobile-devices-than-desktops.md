@@ -7,7 +7,7 @@ summary: 'The drum beat of the continuing and quick cultural shift to mobile dev
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

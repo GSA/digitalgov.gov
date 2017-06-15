@@ -8,7 +8,7 @@ authors: [gwynne-kostin]
 categories:
   - Content
   - Our Work
-tags:
+tag:
   - analytics
   - content strategy
   - DigitalGov Search

@@ -7,7 +7,7 @@ summary: 'Security, consolidation, cloud services and enterprise portfolio manag
 authors: [lnelson]
 categories:
   - Managing Digital
-tags:
+tag:
   - security
 ---
 

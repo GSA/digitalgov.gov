@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Content
   - Video
-tags:
+tag:
   - content strategy
   - EPA
   - U.S. Environmental Protection Agency

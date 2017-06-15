@@ -7,7 +7,7 @@ summary: 'ComScore released a&nbsp;new 2015 U.S. Mobile App report tracking nati
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 5

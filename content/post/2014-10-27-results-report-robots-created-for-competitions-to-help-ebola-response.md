@@ -7,7 +7,7 @@ summary: 'Challenge competitions were recently&nbsp;highlighted as two potential
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

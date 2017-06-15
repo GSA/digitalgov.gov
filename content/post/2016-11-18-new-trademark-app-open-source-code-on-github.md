@@ -10,7 +10,7 @@ categories:
   - Data
   - Managing Digital
   - Mobile
-tags:
+tag:
   - API
   - code
   - Commerce

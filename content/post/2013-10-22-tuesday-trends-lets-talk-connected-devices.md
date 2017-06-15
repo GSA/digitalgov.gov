@@ -8,7 +8,7 @@ authors: [lisa-gelobter]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - mobile-first
   - Trends on Tuesday
 ---

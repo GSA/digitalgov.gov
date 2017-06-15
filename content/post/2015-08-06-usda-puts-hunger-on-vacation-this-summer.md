@@ -7,7 +7,7 @@ summary: ' The USDA&amp;#8217;s Food and Nutrition Service is helping to put hun
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - Thursday Mobile Products
   - USA.gov Federal Mobile Apps Directory

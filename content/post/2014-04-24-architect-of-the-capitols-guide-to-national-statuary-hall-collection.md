@@ -7,7 +7,7 @@ summary: 'The Architect of the Capitol&amp;#8217;s new app gives users the abili
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Architect of the Capitol
   - mobile apps
   - Thursday Mobile Products

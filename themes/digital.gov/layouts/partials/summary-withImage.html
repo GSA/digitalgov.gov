@@ -1,0 +1,55 @@
+{{ $baseurl := .Site.BaseURL }}
+<div class="post notthird notsecond post-386618 type-post status-publish format-standard has-post-thumbnail hentry">
+
+  <div class="post-feature-image">
+    <a href="{{ .URL }}" rel="bookmark" title="Permanent link to {{ .Title }}">
+      <img class="thumbnail large" src="{{/* .Params.featured-image.link */}}" alt="{{/* .Params.featured-image.title */}}" title="{{/* .Params.featured-image.title */}}" />
+    </a>
+  </div>
+
+  <div class="entry">
+    <div class="my-excerpt">
+      <h2 class="post-title"><a href="{{ .URL }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a></h2>
+      <div class="meta">
+        <ul>
+          <li class="meta-author">
+            <span class="meta-author">By <a href="{{/* author url */}}" title="Posts by {{/* author name */}}" class="author url fn" rel="author">{{/* author name */}}</a></span>
+          </li>
+          <li class="meta-date">
+            <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January 02, 2006" }}</a>
+          </li>
+
+          <li class="meta-cats">
+
+            {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+            {{ else }}
+              <li class="meta-cats">
+                {{ $_cats := .Params.categories }}
+                {{ $length := $_cats | len }}
+                {{ range $i, $e := $_cats }}
+                  {{ if lt (add $i 1) $length }}
+                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" rel="category tag">{{ $e }}</a>,
+                  {{ else }}
+                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" rel="category tag">{{ $e }}</a>
+                  {{ end }}
+                {{ end }}
+              </li>
+            {{ end }}
+
+          {{/* TODO: Remove reply count */}}
+          {{/*
+          <li class="meta-comments">
+            <a href="https://www.digitalgov.gov/2017/04/20/oip-seeks-your-participation-in-the-development-of-the-national-foia-portal/#comments" rel="bookmark" title="Comments for OIP Seeks Your Participation in the Development of the National FOIA Portal">2 Replies</a>
+          </li>
+          */}}
+        </ul>
+      </div><!-- .meta -->
+      <p>{{ .Summary }}</p>
+      <p class="readmore"><a class="more-link" href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
+    </div>
+
+    <p class="readmore cols"><a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
+
+  </div><!-- .entry -->
+  <div style="clear:both;"></div>
+</div><!-- .post -->

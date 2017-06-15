@@ -7,7 +7,7 @@ summary: 'The Centers for Disease Control has launched a new table app Solve the
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - gamification
   - mobile apps

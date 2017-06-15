@@ -8,7 +8,7 @@ authors: [rflagg]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - responsive web design
   - U.S. Department of Education
   - Web Content Managers Forum

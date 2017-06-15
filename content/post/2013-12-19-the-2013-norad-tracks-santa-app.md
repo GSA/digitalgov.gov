@@ -8,7 +8,7 @@ authors: [admin]
 categories:
   - Mobile
   - "What's New"
-tags:
+tag:
   - mobile apps
   - NORAD
   - Thursday Mobile Products

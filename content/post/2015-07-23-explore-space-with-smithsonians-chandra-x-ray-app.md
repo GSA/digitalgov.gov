@@ -7,7 +7,7 @@ summary: 'We continue our celebration of American history and legacy this July 2
 authors: [nirmala-ramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - ios

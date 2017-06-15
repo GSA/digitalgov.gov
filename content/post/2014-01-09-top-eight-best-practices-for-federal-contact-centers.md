@@ -11,7 +11,7 @@ categories:
   - Data
   - Managing Digital
   - Metrics
-tags:
+tag:
   - AoI
   - content strategy
   - customer satisfaction

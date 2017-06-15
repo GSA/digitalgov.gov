@@ -7,7 +7,7 @@ summary: 'The National Archives Catalog has reached a milestone\: we now have 95
 authors: [david-s-ferriero]
 categories:
   - Managing Digital
-tags:
+tag:
   - data
   - digital records
   - NARA

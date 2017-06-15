@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - CFPB
   - ChallengeGov
   - challenges and prize competitions

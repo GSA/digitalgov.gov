@@ -7,9 +7,9 @@ summary: 'This month we&amp;#8217;ll be highlighting articles about crowdsourcin
 authors: [tmarcoullier]
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
-tags:
+tag:
   - CFPB
   - ChallengeGov
   - challenges and prize competitions

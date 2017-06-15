@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Data
-tags:
+tag:
   - API
   - BLS
   - Census

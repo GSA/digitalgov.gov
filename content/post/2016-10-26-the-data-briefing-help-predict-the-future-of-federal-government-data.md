@@ -13,7 +13,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - 3D printing
   - AI
   - artificial intelligence

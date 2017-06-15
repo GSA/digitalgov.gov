@@ -7,9 +7,9 @@ summary: ' We were hoping for 30, but we got more than 100 user experience profe
 authors: [jonathan-rubin]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - FDA
   - Mobile App Development Program

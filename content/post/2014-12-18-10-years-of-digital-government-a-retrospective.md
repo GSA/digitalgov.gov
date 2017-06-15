@@ -13,7 +13,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - HHS

@@ -7,7 +7,7 @@ summary: 'Pew released a recent report tracking trends in digital device ownersh
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - Trends on Tuesday
 ---
 

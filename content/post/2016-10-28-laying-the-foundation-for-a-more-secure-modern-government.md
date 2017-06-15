@@ -9,8 +9,8 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - best practices
   - cloud
   - Cybersecurity National Action Plan

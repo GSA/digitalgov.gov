@@ -7,7 +7,7 @@ summary: ' The Great Federal Mobile Product Hunt is off to the races in both Eng
 authors: [courtney-greenley]
 categories:
   - Mobile
-tags:
+tag:
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry
   - mobile apps

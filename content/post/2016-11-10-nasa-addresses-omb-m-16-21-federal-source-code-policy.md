@@ -8,8 +8,8 @@ authors: [jason-duley]
 categories:
   - Code
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - code
   - memo
   - NASA

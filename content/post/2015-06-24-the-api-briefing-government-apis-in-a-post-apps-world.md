@@ -7,7 +7,7 @@ summary: 'Take out your smartphone and count the number of apps that you have. H
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - data
   - mobile apps

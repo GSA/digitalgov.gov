@@ -7,7 +7,7 @@ summary: 'At 18F Consulting, we experiment with ways to empower agencies to buil
 authors: [jesse-taggert]
 categories:
   - UX
-tags:
+tag:
   - 18F
   - agile
   - DOL

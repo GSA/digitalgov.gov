@@ -8,7 +8,7 @@ authors: [katie-gresham]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - analytics
   - data
   - data visualization

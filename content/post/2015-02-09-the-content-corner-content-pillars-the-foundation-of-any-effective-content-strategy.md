@@ -8,7 +8,7 @@ authors: [tyrus-manuel]
 categories:
   - Communities
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - AoI
   - content strategy

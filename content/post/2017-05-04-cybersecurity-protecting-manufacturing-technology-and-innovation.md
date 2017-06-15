@@ -7,8 +7,8 @@ summary: 'Recently a segment on my favorite morning news program stopped me in m
 authors: [pat-toth]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - best practices
   - Commerce
   - data

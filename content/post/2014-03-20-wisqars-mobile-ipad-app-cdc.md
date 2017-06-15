@@ -7,7 +7,7 @@ summary: 'Need to make a pitch for injury prevention? About to give an impromptu
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - mobile
   - mobile apps

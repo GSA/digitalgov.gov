@@ -7,7 +7,7 @@ summary: 'The Federal Trade Commission (FTC) had such great success with their f
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - Federal Trade Commission
   - FTC

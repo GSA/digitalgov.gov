@@ -9,8 +9,8 @@ categories:
   - Content
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - app
   - chatbots
   - HHS

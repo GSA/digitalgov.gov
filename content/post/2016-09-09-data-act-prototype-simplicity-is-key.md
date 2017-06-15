@@ -10,8 +10,8 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - best practices
   - data

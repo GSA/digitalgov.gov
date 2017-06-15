@@ -8,8 +8,8 @@ authors: [ryan-sibley]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - agile
   - cloud

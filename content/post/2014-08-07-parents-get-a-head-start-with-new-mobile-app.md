@@ -7,7 +7,7 @@ summary: 'As it&amp;#8217;s time to return to school, the Health and Human Servi
 authors: [katie-steffy]
 categories:
   - Mobile
-tags:
+tag:
   - HHS
   - mobile apps
   - mobile gov

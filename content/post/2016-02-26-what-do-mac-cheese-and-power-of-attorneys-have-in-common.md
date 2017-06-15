@@ -7,7 +7,7 @@ summary: 'They ranked among our top three most popular e-mails in 2015. At USAGo
 authors: [victoria-wales]
 categories:
   - Content
-tags:
+tag:
   - content strategy
   - GobiernoUSAgov
   - usa.gov

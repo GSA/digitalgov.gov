@@ -8,7 +8,7 @@ authors: [lisa-bari]
 categories:
   - Metrics
   - Mobile
-tags:
+tag:
   - analytics
   - best practices
   - DAP

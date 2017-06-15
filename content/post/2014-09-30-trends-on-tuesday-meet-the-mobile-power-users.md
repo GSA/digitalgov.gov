@@ -7,7 +7,7 @@ authors: [tjohnson]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 5
   - mobile-first
   - multilingual

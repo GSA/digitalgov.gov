@@ -10,9 +10,9 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - 18F
   - accessibility
   - Draft Web Design Standards

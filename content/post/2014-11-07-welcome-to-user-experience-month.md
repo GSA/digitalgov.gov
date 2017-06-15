@@ -8,7 +8,7 @@ authors: [jonathan-rubin]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - Customer Experience
   - DigitalGov User Experience Program
   - user experience

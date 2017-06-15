@@ -7,7 +7,7 @@ summary: ' Saving the whales just got easier for West Coasters with the latest v
 authors: [genevieve-contey]
 categories:
   - Mobile
-tags:
+tag:
   - native app
   - NOAA
   - Thursday Mobile Products

@@ -7,7 +7,7 @@ summary: 'Following up on their mobile website, the Social Security'
 authors: [michael-niedzwiecki]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - SSA

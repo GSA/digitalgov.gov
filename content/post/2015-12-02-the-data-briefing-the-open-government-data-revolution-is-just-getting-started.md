@@ -7,7 +7,7 @@ summary: 'Some of you may remember when President Reagan opened America&rsquo;s 
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - data
   - data visualization
   - data.gov

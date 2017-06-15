@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - customer service
   - Internet of things
   - mobile apps

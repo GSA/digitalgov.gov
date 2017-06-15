@@ -8,7 +8,7 @@ authors: [matt-goodrich]
 categories:
   - Data
   - Managing Digital
-tags:
+tag:
   - cloud
   - data
   - FedRAMP

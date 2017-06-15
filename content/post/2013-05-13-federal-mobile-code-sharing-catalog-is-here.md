@@ -8,7 +8,7 @@ authors: [michael-pulsifer]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - GitHub
   - mobile
   - mobile apps

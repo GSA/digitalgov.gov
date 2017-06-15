@@ -7,7 +7,7 @@ summary: 'When HHS&rsquo;s Katie Gorscak was looking for a way to share Stopbull
 authors: [jessica-milcetich]
 categories:
   - Social Media
-tags:
+tag:
   - BLM
   - HHS
   - National Archives and Records Administration

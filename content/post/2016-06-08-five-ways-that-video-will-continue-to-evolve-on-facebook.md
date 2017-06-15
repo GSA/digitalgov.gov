@@ -10,7 +10,7 @@ categories:
   - Monthly Theme
   - Social Media
   - Video
-tags:
+tag:
   - BBG
   - Broadcasting Board of Governors
   - content

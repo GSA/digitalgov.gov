@@ -7,7 +7,7 @@ summary: 'As you&amp;#8217;re planning your challenge, you&amp;#8217;ll want to 
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - innovation
 ---
 

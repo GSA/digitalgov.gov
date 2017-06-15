@@ -7,7 +7,7 @@ summary: 'What It Is Do you remember the days when web pages had banners announc
 authors: [gray-brooks]
 categories:
   - Code
-tags:
+tag:
   - Draft Web Design Standards
 ---
 

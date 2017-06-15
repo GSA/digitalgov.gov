@@ -8,9 +8,9 @@ authors: [kim-vitelli, michael-harding]
 categories:
   - Design
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - Thursday Mobile Products

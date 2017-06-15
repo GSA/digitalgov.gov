@@ -8,7 +8,7 @@ authors: [katie-steffy]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - mobile apps
   - Mobile UX Guideline 4
   - prototype

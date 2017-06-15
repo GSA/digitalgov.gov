@@ -8,7 +8,7 @@ authors: [clair-koroma]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - HHS
   - Mobile UX Guideline 5
   - responsive web design

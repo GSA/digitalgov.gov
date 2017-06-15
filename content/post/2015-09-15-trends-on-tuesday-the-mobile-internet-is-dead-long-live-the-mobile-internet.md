@@ -7,7 +7,7 @@ summary: 'Benedict Evans, a leading mobile analyst with the Silicon Valley ventu
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

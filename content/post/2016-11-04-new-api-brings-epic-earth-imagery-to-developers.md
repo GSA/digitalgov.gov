@@ -10,7 +10,7 @@ categories:
   - Code
   - Content
   - Data
-tags:
+tag:
   - API
   - code
   - content

@@ -7,7 +7,7 @@ summary: 'Sign up now to join fellow MobileGov Community of Practice members for
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Census
   - DoD
   - DOL

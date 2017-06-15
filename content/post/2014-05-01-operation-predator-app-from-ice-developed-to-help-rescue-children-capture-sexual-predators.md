@@ -7,7 +7,7 @@ summary: 'It&amp;#8217;s disturbing to think about, but essential for all of us 
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - DHS
   - ICE
   - Thursday Mobile Products

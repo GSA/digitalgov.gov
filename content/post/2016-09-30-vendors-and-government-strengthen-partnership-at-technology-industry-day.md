@@ -9,8 +9,8 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - agile
   - cloud
@@ -26,7 +26,7 @@ tags:
   - innovation
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - security
   - summit

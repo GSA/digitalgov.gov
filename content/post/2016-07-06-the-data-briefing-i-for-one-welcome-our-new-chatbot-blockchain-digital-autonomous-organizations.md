@@ -10,9 +10,9 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - API
   - blockchain
   - chatbots

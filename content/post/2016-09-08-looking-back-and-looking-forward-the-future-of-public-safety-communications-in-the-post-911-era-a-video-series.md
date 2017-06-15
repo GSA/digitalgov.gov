@@ -7,7 +7,7 @@ summary: 'The week before Patriot Day, our nation&rsquo;s annual remembrance of 
 authors: [firstnet-communications]
 categories:
   - Data
-tags:
+tag:
   - data
   - FirstNet
   - innovation

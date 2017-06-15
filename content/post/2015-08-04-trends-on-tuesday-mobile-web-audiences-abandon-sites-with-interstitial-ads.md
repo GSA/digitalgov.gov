@@ -7,7 +7,7 @@ summary: 'David Morell, a software engineer with Google, posted an interesting c
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - native app

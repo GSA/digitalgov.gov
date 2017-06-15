@@ -7,7 +7,7 @@ summary: 'The 2013&nbsp;JFK Library and Museum&nbsp;exhibit&nbsp;&ldquo;To the B
 authors: [brandon-barr]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Smithsonian Institution
   - Thursday Mobile Products

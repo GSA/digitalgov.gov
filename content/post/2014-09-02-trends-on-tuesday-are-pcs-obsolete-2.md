@@ -7,7 +7,7 @@ summary: 'We&amp;#8217;ve seen (and experienced) a dramatic growth in mobile con
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 5

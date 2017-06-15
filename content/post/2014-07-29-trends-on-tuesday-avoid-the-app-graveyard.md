@@ -8,7 +8,7 @@ authors: [jparcell, katie-steffy]
 categories:
   - Mobile
   - UX
-tags:
+tag:
   - federal user experience community
   - mobile
   - mobile apps

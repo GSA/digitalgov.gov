@@ -9,7 +9,7 @@ categories:
   - Content
   - Metrics
   - Social Media
-tags:
+tag:
   - HHS
   - Recaps
   - United States Department of Health and Human Services

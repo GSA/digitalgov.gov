@@ -9,9 +9,9 @@ categories:
   - Content
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - customer satisfaction
   - GobiernoUSAgov
   - responsive web design

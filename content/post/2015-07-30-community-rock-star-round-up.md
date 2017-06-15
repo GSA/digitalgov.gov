@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - 18F
   - Customer Experience Community of Practice
   - Defense Intelligence Agency

@@ -8,7 +8,7 @@ authors: [bsteele]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - Terms of Service
 ---
 

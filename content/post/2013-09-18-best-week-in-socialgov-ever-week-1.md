@@ -7,7 +7,7 @@ summary: '(This is the first installment of an ongoing series charting the progr
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - SocialGov
 ---
 

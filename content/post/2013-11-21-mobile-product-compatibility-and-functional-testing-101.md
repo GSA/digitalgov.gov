@@ -7,8 +7,8 @@ summary: 'As covered in the Mobile Product Testing Guidelines article, there are
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile
   - mobile apps
   - responsive web design

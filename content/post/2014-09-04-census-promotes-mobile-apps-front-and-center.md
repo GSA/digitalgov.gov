@@ -7,7 +7,7 @@ summary: ' Those cutting edge folks over at Census have raised the bar again! No
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - Census
   - Federal Mobile Products Registry

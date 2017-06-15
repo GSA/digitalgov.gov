@@ -7,7 +7,7 @@ summary: 'Since the United States joined the Open Government Partnership in 2011
 authors: [corinna-zarek]
 categories:
   - Code
-tags:
+tag:
   - National Action Plan on Open Government
   - open government
 ---

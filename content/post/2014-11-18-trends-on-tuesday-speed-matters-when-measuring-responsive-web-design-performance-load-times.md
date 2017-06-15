@@ -9,7 +9,7 @@ categories:
   - Design
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - HHS
   - mobile gov
   - mobile gov community of practice

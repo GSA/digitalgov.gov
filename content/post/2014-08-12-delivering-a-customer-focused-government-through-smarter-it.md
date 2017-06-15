@@ -9,7 +9,7 @@ categories:
   - Content
   - Data
   - Mobile
-tags:
+tag:
   - 18F
   - Customer Experience
   - Digital Services Playbook

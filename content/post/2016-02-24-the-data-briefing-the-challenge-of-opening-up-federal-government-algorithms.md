@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Code
   - Data
-tags:
+tag:
   - data
   - FOIA
   - open data

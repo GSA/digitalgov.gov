@@ -7,7 +7,7 @@ summary: 'Half a decade since Steve Jobs declared war on Adobe Flash and refused
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile-friendly
   - responsive web design
   - Trends on Tuesday

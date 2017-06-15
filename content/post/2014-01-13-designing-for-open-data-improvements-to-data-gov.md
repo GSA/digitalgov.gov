@@ -9,7 +9,7 @@ categories:
   - Code
   - Data
   - "What's New"
-tags:
+tag:
   - data.gov
   - mobile
   - open data

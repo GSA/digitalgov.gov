@@ -8,7 +8,7 @@ authors: [sam-bronson]
 categories:
   - Content
   - Metrics
-tags:
+tag:
   - analytics
   - EPA
   - U.S. Environmental Protection Agency

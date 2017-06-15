@@ -8,7 +8,7 @@ authors: [coqui-aspiazu]
 categories:
   - Content
   - Our Work
-tags:
+tag:
   - Sites
   - sitesusagov
   - State

@@ -7,7 +7,7 @@ summary: 'Structuring your content for portability across media platforms gives 
 authors: [jparcell]
 categories:
   - Content
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

@@ -8,7 +8,7 @@ authors: [gwynne-kostin]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - Customer Experience
   - innovation
 ---

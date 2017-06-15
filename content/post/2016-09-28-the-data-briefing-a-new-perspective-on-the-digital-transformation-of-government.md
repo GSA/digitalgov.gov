@@ -9,8 +9,8 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - agile
   - architecture
   - cloud

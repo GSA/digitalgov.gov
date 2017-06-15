@@ -8,8 +8,8 @@ authors: [department-of-homeland-security]
 categories:
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - DHS
   - mobile
   - National Institute of Standards and Technology

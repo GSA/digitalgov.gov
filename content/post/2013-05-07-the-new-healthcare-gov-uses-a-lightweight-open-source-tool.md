@@ -7,7 +7,7 @@ summary: ' Last week, we told you about the upcoming relaunch of Healthcare.gov 
 authors: [anthony-calabrese]
 categories:
   - Code
-tags:
+tag:
   - content strategy
   - HHS
   - open data

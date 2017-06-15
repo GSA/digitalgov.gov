@@ -7,8 +7,8 @@ summary: 'Late last year, Business.USA.gov (BUSA) began transitioning its web pr
 authors: [victoria-wales]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - email marketing
   - metrics

@@ -8,7 +8,7 @@ authors: [dannielle-blumenthal]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - DoD
   - NARA
   - National Archives and Records Administration

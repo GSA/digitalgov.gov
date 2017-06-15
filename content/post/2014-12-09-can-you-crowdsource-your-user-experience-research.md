@@ -6,12 +6,12 @@ title: 'Can You Crowdsource Your User Experience Research?'
 summary: 'In one sense, almost any type of user research is crowdsourced&mdash;you&rsquo;re talking to people and using that information to improve your system. But in a true sense, crowdsourcing is more than just collecting information, it&rsquo;s collaborating on it. We want to have real conversations, not one-time emailed suggestions without followups. So here&rsquo;s a few tidbits'
 authors: [jonathan-rubin]
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Design
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - API
   - crowdsourcing
   - data.gov

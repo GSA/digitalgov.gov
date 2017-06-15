@@ -8,7 +8,7 @@ authors: [jherman]
 categories:
   - Social Media
   - "What's New"
-tags:
+tag:
   - SocialGov
 ---
 

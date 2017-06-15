@@ -7,8 +7,8 @@ summary: 'For the first time ever, air traffic researchers can view and analyze 
 authors: [sharon-lozano]
 categories:
   - Data
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - data
   - data visualization
   - FAA

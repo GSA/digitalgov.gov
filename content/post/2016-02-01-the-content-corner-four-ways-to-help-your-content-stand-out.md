@@ -9,7 +9,7 @@ categories:
   - Content
   - Video
   - Writing
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content strategy

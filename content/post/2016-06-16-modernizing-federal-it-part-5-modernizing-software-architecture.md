@@ -8,8 +8,8 @@ authors: [rob-klopp]
 categories:
   - Code
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - architecture
   - infrastructure
   - SSA

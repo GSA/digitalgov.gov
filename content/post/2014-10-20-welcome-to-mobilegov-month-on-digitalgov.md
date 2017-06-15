@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - Defense Finance and Accounting Services

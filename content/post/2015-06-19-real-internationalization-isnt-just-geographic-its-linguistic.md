@@ -8,7 +8,7 @@ authors: [lmartinez, jessica-milcetich, victoria-wales, edgardo-morales]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - GobiernoUSAgov
   - HHS
   - multilingual

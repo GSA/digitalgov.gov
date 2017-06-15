@@ -7,7 +7,7 @@ summary: 'Memorial Day is Monday and we wanted to let you know about some mobile
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - American Battle Monuments Commission
   - Arlington National Cemetery
   - mobile apps

@@ -7,8 +7,8 @@ summary: 'Summary\:&nbsp;EPA, FDA, and USDA unveil two documents as part of the 
 authors: [robbie-barbero, ted-boling, julia-doherty, melissa-goldstein, james-kim]
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - EPA
   - FDA
   - Federal Register

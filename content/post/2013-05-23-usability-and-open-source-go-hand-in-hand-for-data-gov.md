@@ -7,7 +7,7 @@ summary: 'Data.gov launched a major upgrade today, moving to a new catalog based
 authors: [sally-bourrie]
 categories:
   - Code
-tags:
+tag:
   - data
   - data.gov
   - open data

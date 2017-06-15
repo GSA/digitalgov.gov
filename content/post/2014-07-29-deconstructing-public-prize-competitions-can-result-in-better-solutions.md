@@ -7,7 +7,7 @@ summary: 'When faced with a big, daunting problem to solve, it&rsquo;s human nat
 authors: [tlowden]
 categories:
   - Challenges
-tags:
+tag:
   - Centers for Medicare and Medicaid Services
   - ChallengeGov
   - Challenges and Prizes Community of Practice

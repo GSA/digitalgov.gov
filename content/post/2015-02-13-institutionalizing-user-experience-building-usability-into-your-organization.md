@@ -8,7 +8,7 @@ authors: [beth-martin]
 categories:
   - Communities
   - UX
-tags:
+tag:
   - analytics
   - AoI
   - DigitalGov User Experience Program

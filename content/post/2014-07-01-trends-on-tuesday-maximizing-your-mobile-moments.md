@@ -7,7 +7,7 @@ summary: 'The rise of mobile device ownership is rapidly changing the way we, an
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile App Development Program
   - mobile apps
   - Mobile UX Guideline 5

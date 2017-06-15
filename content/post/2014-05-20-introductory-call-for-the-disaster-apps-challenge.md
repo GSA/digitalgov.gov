@@ -7,7 +7,7 @@ summary: 'The National Defense University (NDU) is hosting a conference call Fri
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - National Defense University
   - NDU

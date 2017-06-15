@@ -9,7 +9,7 @@ categories:
   - Code
   - Mobile
   - "What's New"
-tags:
+tag:
   - API
   - Census
   - mobile apps

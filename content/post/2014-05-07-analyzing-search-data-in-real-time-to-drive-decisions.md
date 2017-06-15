@@ -10,7 +10,7 @@ categories:
   - Data
   - Metrics
   - Our Work
-tags:
+tag:
   - DigitalGov Search
   - open source
 ---

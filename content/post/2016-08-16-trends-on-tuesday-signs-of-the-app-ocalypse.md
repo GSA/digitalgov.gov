@@ -7,7 +7,7 @@ summary: 'A new report from the Mobile Ecosystem Forum shows that most users del
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - metrics
   - mobile
   - mobile apps

@@ -4,6 +4,12 @@ title: Oh Foo!
 authors:
   - foo-qaz
 test: true
+tag:
+  - foo
+  - bar
+  - bar/qaz
+categories:
+  - bar-and-qaz
 ---
 
 Just some foo. Some bar. Some qaz.

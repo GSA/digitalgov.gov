@@ -7,7 +7,7 @@ summary: ' Disasters can strike at anytime, and responders now have another tool
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - HHS
   - mobile
   - mobile apps

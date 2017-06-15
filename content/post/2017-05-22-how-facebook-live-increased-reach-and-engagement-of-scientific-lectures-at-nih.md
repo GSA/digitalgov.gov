@@ -11,7 +11,7 @@ categories:
   - Mobile
   - Social Media
   - Video
-tags:
+tag:
   - Audio/Video
   - National Center for Complementary and Integrative Health
   - National Institutes of Health

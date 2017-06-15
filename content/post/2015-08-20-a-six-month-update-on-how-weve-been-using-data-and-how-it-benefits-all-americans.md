@@ -7,7 +7,7 @@ summary: 'Memorandum\: A Six Month Update on How We&rsquo;ve Been Using Data, an
 authors: [dr-dj-patil]
 categories:
   - Data
-tags:
+tag:
   - Commerce
   - Department of Commerce
   - National Institutes of Health

@@ -8,8 +8,8 @@ authors: [marina-fox, eric-mill]
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - GSA
   - HTTPS

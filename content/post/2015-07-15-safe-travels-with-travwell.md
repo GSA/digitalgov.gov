@@ -7,7 +7,7 @@ summary: 'Ahhh&hellip; Summer is here at last! It&rsquo;s time for relaxing vaca
 authors: [nirmala-ramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - ios
   - mobile apps

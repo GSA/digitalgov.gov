@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Social Media
   - "What's New"
-tags:
+tag:
   - mobile
   - social media
   - Trends on Tuesday

@@ -8,7 +8,7 @@ authors: [katie-gorscak]
 categories:
   - Content
   - Video
-tags:
+tag:
   - HHS
   - United States Department of Health and Human Services
 ---

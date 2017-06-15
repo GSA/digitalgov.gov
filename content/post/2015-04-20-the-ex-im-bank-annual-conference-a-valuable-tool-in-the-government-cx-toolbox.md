@@ -7,7 +7,7 @@ summary: 'It can be easy to forget that customer experience (CX) improvement eff
 authors: [stephanie-thum]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

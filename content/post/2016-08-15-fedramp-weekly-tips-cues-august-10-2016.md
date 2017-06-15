@@ -7,7 +7,7 @@ summary: 'Many of &nbsp;our cloud service providers (CSPs), federal agencies, an
 authors: [fedramp]
 categories:
   - Managing Digital
-tags:
+tag:
   - cloud
   - data
   - Federal Risk and Authorization Management Program

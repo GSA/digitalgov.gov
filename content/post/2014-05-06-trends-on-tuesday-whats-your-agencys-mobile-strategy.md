@@ -8,7 +8,7 @@ authors: [tjohnson]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - mobile gov community of practice
   - Mobile UX Guideline 2
   - Trends on Tuesday

@@ -9,7 +9,7 @@ categories:
   - Data
   - Managing Digital
   - Mobile
-tags:
+tag:
   - FirstNet
   - Internet of things
   - IoT

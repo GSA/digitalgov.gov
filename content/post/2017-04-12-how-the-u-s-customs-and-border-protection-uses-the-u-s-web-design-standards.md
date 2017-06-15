@@ -8,7 +8,7 @@ authors: [julia-elman]
 categories:
   - Design
   - UX
-tags:
+tag:
   - 18F
   - accessibility
   - CBP

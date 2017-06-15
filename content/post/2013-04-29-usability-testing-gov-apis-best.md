@@ -7,8 +7,8 @@ summary: 'Good APIs can transform intimidating data sets into something that peo
 authors: [gray-brooks]
 categories:
   - API
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - API
 ---
 

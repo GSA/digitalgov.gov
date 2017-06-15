@@ -7,7 +7,7 @@ summary: 'In large agencies, lots of Web teams touch digital analytics in one wa
 authors: [hhs-digital-analytics-team]
 categories:
   - Metrics
-tags:
+tag:
   - analytics
   - data
 ---

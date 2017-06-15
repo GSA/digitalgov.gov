@@ -8,7 +8,7 @@ authors: [tanya-mcilravy]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - "508"
   - accessibility
   - Customer Experience

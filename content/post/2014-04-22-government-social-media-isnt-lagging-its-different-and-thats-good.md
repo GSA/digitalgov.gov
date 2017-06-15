@@ -9,7 +9,7 @@ categories:
   - Communities
   - Managing Digital
   - Social Media
-tags:
+tag:
   - AoI
   - API
   - National Archives and Records Administration

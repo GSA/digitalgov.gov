@@ -10,7 +10,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

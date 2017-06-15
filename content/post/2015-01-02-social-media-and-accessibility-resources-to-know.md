@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Communities
   - Social Media
-tags:
+tag:
   - Americans with Disabilities Act
   - AoI
   - DOL

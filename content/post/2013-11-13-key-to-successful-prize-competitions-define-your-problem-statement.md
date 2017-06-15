@@ -7,8 +7,8 @@ summary: 'In a prize competition, failing to properly define your problem up fro
 authors: [tlowden]
 categories:
   - Challenges
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - ChallengeGov
   - challenges and prize competitions
 ---

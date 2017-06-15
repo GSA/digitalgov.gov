@@ -7,7 +7,7 @@ summary: 'What are your agency&rsquo;s website visitors looking for? Can they fi
 authors: [awichman]
 categories:
   - Our Work
-tags:
+tag:
   - analytics
   - DigitalGov Search
   - USAgov

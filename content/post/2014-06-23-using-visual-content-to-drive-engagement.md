@@ -10,7 +10,7 @@ categories:
   - Social Media
   - Video
   - Writing
-tags:
+tag:
   - Consumer Action Handbook
   - USAgov
 ---

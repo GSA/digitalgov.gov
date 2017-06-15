@@ -8,7 +8,7 @@ categories:
   - Managing Digital
   - Mobile
   - Our Work
-tags:
+tag:
   - GSA
   - mobile
   - U.S. Department of Education

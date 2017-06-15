@@ -7,7 +7,7 @@ summary: ' The Federal Election Commission (FEC) empowers citizens with the info
 authors: [lindsay-young]
 categories:
   - API
-tags:
+tag:
   - 18F
   - API
   - FEC

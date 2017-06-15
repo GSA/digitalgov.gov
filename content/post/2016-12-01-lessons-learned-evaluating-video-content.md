@@ -8,10 +8,10 @@ authors: [tim-jakubowski]
 categories:
   - Content
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
   - Video
-tags:
+tag:
   - Audio/Video
   - CFPB
   - Consumer Financial Protection Bureau

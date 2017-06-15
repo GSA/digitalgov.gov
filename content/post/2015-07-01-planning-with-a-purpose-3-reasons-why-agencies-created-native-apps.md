@@ -7,7 +7,7 @@ summary: 'Mobile. It&rsquo;s here, and it&rsquo;s here to stay! Agencies in all 
 authors: [byrhonda-lyons]
 categories:
   - Mobile
-tags:
+tag:
   - ABMC
   - American Battle Monuments Commission
   - BBG

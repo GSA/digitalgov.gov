@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Metrics
   - Mobile
-tags:
+tag:
   - DoD
   - metrics
   - mobile apps

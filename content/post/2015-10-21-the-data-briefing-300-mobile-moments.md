@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - data
   - DOE
   - DOL

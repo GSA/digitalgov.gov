@@ -7,7 +7,7 @@ summary: ' Consumers are buying less tablets and more phablets, especially in th
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Trends on Tuesday

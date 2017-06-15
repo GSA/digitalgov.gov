@@ -7,7 +7,7 @@ summary: ' The White House released an updated Strategy for American Innovation 
 authors: [kelly-olson]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - citizen science

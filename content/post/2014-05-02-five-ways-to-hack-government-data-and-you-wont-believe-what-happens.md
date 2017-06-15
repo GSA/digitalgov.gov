@@ -10,7 +10,7 @@ categories:
   - Code
   - Data
   - Writing
-tags:
+tag:
   - Census
   - ChallengeGov
   - data.gov

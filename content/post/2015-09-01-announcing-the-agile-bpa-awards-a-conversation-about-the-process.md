@@ -7,7 +7,7 @@ summary: 'In January, 18F Consulting announced a new kind of process for vendors
 authors: [melody-kramer, v-david-zvenyach, kathryn-edelman, chris-cairns]
 categories:
   - Managing Digital
-tags:
+tag:
   - 18F
   - GitHub
 ---

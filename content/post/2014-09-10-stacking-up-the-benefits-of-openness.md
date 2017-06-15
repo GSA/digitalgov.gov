@@ -8,7 +8,7 @@ authors: [jeanne-holm]
 categories:
   - Code
   - Social Media
-tags:
+tag:
   - data.gov
   - open government
   - open source

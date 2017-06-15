@@ -7,7 +7,7 @@ summary: 'The word accessibility breeds misconceptions. Why? Because accessibili
 authors: [david-a-kennedy]
 categories:
   - Accessibility
-tags:
+tag:
   - accessibility
   - usability
 ---

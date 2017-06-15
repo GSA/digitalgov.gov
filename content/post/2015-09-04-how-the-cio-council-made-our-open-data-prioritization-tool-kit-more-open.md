@@ -8,7 +8,7 @@ authors: [cio-council-operations-staff]
 categories:
   - Content
   - Data
-tags:
+tag:
   - open data
 ---
 

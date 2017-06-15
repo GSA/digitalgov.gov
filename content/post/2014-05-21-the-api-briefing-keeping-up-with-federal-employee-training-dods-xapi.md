@@ -7,7 +7,7 @@ summary: 'Federal employee training is about to receive a much-needed boost in t
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - DoD
   - United States Department of Defense

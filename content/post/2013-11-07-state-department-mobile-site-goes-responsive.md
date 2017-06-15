@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - mobile gov
   - responsive web design
   - Thursday Mobile Products

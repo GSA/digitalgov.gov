@@ -9,7 +9,7 @@ categories:
   - Metrics
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - analytics
   - DAP
   - Digital Analytics Program

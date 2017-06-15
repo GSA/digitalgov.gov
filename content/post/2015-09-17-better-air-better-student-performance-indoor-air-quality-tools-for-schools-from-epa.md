@@ -7,7 +7,7 @@ summary: 'Our children spend a lot of time at school. Multiple studies have show
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - EPA
   - mobile
   - mobile apps

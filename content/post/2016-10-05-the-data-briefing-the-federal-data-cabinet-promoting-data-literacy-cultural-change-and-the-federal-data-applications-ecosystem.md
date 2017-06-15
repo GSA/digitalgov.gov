@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - Metrics
-tags:
+tag:
   - data
   - infrastructure
   - metrics

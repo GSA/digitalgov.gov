@@ -7,7 +7,7 @@ summary: 'Today we&rsquo;re announcing our first product launch\:&nbsp;FBOpen, a
 authors: [alison-rowland, aaron-snow]
 categories:
   - Code
-tags:
+tag:
   - 18F
   - GitHub
   - GSA

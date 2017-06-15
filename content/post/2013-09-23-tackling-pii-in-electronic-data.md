@@ -8,8 +8,8 @@ authors: [tlowden]
 categories:
   - Content
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Privacy Impact Assessment
   - social media
 ---

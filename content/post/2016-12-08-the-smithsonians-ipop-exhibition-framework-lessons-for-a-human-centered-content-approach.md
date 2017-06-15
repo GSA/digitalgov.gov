@@ -10,7 +10,7 @@ categories:
   - Design
   - Mobile
   - UX
-tags:
+tag:
   - apps
   - Augmented Reality
   - mobile apps

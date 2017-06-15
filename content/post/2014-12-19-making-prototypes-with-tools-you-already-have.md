@@ -7,8 +7,8 @@ summary: ' They say that necessity is the mother of invention. For me, the neces
 authors: [brandon-kopp]
 categories:
   - Design
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - BLS
   - prototype
   - U.S. Bureau of Labor Statistics

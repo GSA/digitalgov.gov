@@ -9,7 +9,7 @@ categories:
   - Code
   - Mobile
   - Our Work
-tags:
+tag:
   - accessibility
   - API
   - mobile

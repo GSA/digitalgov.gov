@@ -10,7 +10,7 @@ categories:
   - Content
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - API
   - USAgov
 ---

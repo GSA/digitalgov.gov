@@ -8,7 +8,7 @@ authors: [awichman, leo-yang]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - API
   - mobile
   - NPS

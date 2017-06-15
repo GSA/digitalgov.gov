@@ -11,7 +11,7 @@ categories:
   - Monthly Theme
   - Social Media
   - UX
-tags:
+tag:
   - Customer Experience
   - CX
   - FirstNet

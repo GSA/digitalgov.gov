@@ -9,13 +9,13 @@ categories:
   - Content
   - Managing Digital
   - Our Work
-tags:
+tag:
   - API
   - DigitalGov Search
   - Federal Register
   - Instagram
   - NLM
-  - 'Occupational Safety &amp; Health Administration'
+  - 'Occupational Safety and Health Administration'
   - OSHA
   - SEC
   - Twitter

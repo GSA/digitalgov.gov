@@ -7,7 +7,7 @@ summary: 'The second annual DigitalGov Citizen Services Summit&nbsp;was held at 
 authors: [bernetta-reese]
 categories:
   - Our Work
-tags:
+tag:
   - agile
   - analytics
   - Connect.gov

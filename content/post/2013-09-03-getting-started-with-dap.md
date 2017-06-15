@@ -8,7 +8,7 @@ authors: [marina-fox]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - Digital Analytics Program
   - Google Analytics
 ---

@@ -7,9 +7,9 @@ summary: 'With a calculated process, the right tools, and a staff willing to mak
 authors: [tlowden]
 categories:
   - Communities
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - A/B testing
   - AoI
   - Recaps

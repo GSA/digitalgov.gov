@@ -8,7 +8,7 @@ authors: [rflagg]
 categories:
   - Content
   - Managing Digital
-tags:
+tag:
   - content models
   - COPE
   - metadata

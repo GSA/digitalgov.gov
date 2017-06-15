@@ -8,7 +8,7 @@ authors: [angela-hooker]
 categories:
   - Accessibility
   - UX
-tags:
+tag:
   - accessibility
   - Americans with Disabilities Act
   - section 508

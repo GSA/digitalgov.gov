@@ -8,7 +8,7 @@ authors: [marybeth-murphy]
 categories:
   - Metrics
   - Monthly Theme
-tags:
+tag:
   - analytics
 ---
 

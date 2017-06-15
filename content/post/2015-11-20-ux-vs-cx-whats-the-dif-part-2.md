@@ -8,7 +8,7 @@ authors: [rflagg]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - 18F
   - Customer Experience
   - Customer Experience Community of Practice

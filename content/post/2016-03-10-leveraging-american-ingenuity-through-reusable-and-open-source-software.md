@@ -9,7 +9,7 @@ categories:
   - Code
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - 18F
   - analytics.usa.gov
   - CFPB

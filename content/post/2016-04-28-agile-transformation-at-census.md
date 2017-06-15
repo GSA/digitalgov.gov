@@ -8,7 +8,7 @@ authors: [angela-bell]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - agile
   - Agile/Lean Community of Practice
   - Census

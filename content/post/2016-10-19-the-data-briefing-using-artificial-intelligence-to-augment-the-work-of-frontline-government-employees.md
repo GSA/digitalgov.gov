@@ -7,8 +7,8 @@ summary: 'You have probably read about the recent release of the White House&rsq
 authors: [bbrantley]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - AI
   - artificial intelligence
   - chatbots

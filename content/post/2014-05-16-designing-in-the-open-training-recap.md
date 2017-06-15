@@ -10,7 +10,7 @@ categories:
   - Data
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - data.gov
   - GitHub
   - open source

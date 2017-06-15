@@ -7,7 +7,7 @@ summary: 'For the last several years the National Weather Service has been rolli
 authors: [tim-brice]
 categories:
   - Social Media
-tags:
+tag:
   - Facebook
   - National Weather Service
   - Twitter

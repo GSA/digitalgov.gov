@@ -9,7 +9,7 @@ categories:
   - API
   - Data
   - Monthly Theme
-tags:
+tag:
   - API
   - data
   - Internet of things

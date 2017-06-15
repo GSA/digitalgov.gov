@@ -7,7 +7,7 @@ summary: 'Since 2001, Mary Meeker has developed a knack for highlighting what&rs
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Mobile UX Guideline 5
   - mobile-first

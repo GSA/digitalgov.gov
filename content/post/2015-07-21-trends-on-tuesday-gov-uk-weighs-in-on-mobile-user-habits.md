@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - COPE
   - mobile
   - Mobile UX Guideline 1

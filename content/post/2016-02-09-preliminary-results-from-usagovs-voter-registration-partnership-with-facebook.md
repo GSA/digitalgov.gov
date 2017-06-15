@@ -8,7 +8,7 @@ authors: [jessica-milcetich]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - analytics
   - analytics.usa.gov
   - Facebook

@@ -8,9 +8,9 @@ authors: [jparcell]
 categories:
   - Design
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - HHS
   - Mobile Gov Experience
   - Mobile UX Guideline 5

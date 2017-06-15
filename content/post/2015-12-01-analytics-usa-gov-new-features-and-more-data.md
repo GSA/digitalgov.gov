@@ -9,7 +9,7 @@ categories:
   - Data
   - Metrics
   - "What's New"
-tags:
+tag:
   - 18F
   - analytics
   - data

@@ -7,7 +7,7 @@ summary: 'What exactly does being &ldquo;data-driven&rdquo; mean for digital mar
 authors: [chris-rottler]
 categories:
   - Metrics
-tags:
+tag:
   - A/B testing
   - Peace Corps
 ---

@@ -7,7 +7,7 @@ summary: 'We are thrilled to share an update from our competition colleagues at 
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - prizes and competitions

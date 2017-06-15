@@ -7,7 +7,7 @@ summary: 'For many agencies, what data to make open is left up to the agency&rsq
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - data
   - HHS
   - open data

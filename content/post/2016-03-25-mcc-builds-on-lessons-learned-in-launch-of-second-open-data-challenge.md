@@ -8,7 +8,7 @@ authors: [elizabeth-zeitler]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - challenges and prize competitions
   - MCC
   - open data

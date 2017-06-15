@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Governance
   - Managing Digital
-tags:
+tag:
   - analytics
   - National Institute of Standards and Technology
   - NIST

@@ -8,7 +8,7 @@ authors: [tymanuel]
 categories:
   - Content
   - Design
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content models
   - Mobile UX Guideline 1

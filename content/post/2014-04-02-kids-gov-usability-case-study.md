@@ -7,7 +7,7 @@ summary: 'For a children&amp;#8217;s site, Kids.gov is pretty old&mdash;it was l
 authors: [jonathan-rubin]
 categories:
   - UX
-tags:
+tag:
   - first-click testing
   - prototype
   - usability case study

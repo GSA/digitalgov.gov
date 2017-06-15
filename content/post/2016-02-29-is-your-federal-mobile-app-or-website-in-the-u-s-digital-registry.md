@@ -7,7 +7,7 @@ authors: [jparcell]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - API
   - DAP
   - Digital Analytics Program

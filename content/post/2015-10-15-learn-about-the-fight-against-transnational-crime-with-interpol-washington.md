@@ -7,7 +7,7 @@ summary: 'INTERPOL Washington&mdash;What is it? It&rsquo;s a movie. It&rsquo;s t
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - DOJ
   - ICE
   - Thursday Mobile Products

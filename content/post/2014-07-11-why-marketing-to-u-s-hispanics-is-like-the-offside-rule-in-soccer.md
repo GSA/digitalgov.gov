@@ -8,7 +8,7 @@ authors: [alberto-navas]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - GobiernoUSAgov
   - multilingual
   - multilingual digital group

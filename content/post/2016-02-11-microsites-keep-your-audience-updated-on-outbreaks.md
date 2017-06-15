@@ -8,7 +8,7 @@ authors: [andreanocesigritz]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content syndication

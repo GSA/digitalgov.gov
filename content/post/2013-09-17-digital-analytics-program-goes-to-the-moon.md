@@ -8,7 +8,7 @@ authors: [jim-wilson]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - mobile

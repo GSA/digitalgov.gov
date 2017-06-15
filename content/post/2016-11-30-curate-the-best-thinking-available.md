@@ -7,7 +7,7 @@ summary: 'When I joined the code.gov project, I had just over a month to make an
 authors: [theresa-summa]
 categories:
   - Code
-tags:
+tag:
   - 18F
   - code
   - open source

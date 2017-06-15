@@ -7,7 +7,7 @@ summary: 'Federal workers need to know more in social media than just how to sen
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - DGU
   - social media
   - SocialGov

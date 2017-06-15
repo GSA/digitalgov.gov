@@ -8,7 +8,7 @@ authors: [ammie-farraj-feijoo]
 categories:
   - Code
   - Content
-tags:
+tag:
   - DigitalGov Search
   - open source
   - Recaps

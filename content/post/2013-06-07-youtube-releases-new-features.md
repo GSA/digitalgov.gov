@@ -8,7 +8,7 @@ authors: [jason-kelly]
 categories:
   - Social Media
   - Video
-tags:
+tag:
   - mobile
   - YouTube
 ---

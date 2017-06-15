@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - analytics
   - Digital Analytics Program
   - Google Analytics

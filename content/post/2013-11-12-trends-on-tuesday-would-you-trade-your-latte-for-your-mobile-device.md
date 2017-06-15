@@ -7,7 +7,7 @@ summary: ' Recently, Mobile Marketing Watch&nbsp;published&nbsp;Sprint&amp;#8217
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

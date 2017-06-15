@@ -7,7 +7,7 @@ summary: '&amp;nbsp;  FEMA collects data from disasters. We look at various haza
 authors: [craig-fugate]
 categories:
   - Data
-tags:
+tag:
   - American Red Cross
   - data visualization
   - FEMA

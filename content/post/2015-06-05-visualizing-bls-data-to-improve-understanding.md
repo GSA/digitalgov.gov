@@ -8,7 +8,7 @@ authors: [erica-groshen]
 categories:
   - Content
   - Data
-tags:
+tag:
   - BLS
   - data
   - data visualization

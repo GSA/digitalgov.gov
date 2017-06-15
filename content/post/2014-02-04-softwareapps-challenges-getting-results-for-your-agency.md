@@ -7,7 +7,7 @@ summary: ' Federal agencies are rapidly finding that software and/or app prize c
 authors: [tlowden]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - EPA
   - NASA

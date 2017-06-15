@@ -7,8 +7,8 @@ summary: 'Built on the lessons learned during the pilot phase of the Digital Acq
 authors: [duane-rollins]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - acquisition
   - agile

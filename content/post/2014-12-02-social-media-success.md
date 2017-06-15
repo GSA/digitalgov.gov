@@ -8,7 +8,7 @@ authors: [byrhonda-lyons]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - DOI
   - Facebook
   - National Resources Conservation Service

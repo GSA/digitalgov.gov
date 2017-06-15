@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Challenges
   - Mobile
-tags:
+tag:
   - apps challenges
   - Census
   - challenges and prize competitions

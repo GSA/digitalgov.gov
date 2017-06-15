@@ -7,9 +7,9 @@ summary: ' The short answer is\: it depends on your goals. If you Google &ldquo;
 authors: [stacey-sarris]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - user experience
   - UX
 ---

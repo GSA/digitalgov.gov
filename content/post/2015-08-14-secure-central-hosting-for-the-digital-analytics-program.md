@@ -7,7 +7,7 @@ summary: 'The U.S. government&amp;#8217;s Digital Analytics Program (DAP) collec
 authors: [eric-mill]
 categories:
   - Metrics
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - HTTPS

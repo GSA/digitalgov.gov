@@ -8,7 +8,7 @@ authors: [lisa-wilcox]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - mobile
   - mobile apps
   - Trends on Tuesday

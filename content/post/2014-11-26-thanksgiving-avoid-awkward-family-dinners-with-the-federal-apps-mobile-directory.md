@@ -7,7 +7,7 @@ summary: 'Are you like me? Do you consistently eat too much on Thanksgiving to a
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - CDC
   - Census

@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - CMS
   - Content Management System
   - Mobile UX Guideline 1

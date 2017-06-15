@@ -9,7 +9,7 @@ categories:
   - Code
   - Design
   - Mobile
-tags:
+tag:
   - code
   - mobile
   - mobile testing

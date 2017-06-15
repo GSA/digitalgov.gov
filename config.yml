@@ -29,7 +29,7 @@ permalinks:
   post                  : ":year/:month/:day/:title/"
 
 taxonomies:
-  tag                   : "tags"
+  tag                   : "tag"
   category              : "categories"
   author                : "authors"
 
@@ -138,90 +138,90 @@ menu:
   secondary:
     - Name            : "Challenges"
       Identifier      : "challenges"
-      URL             : "/category/challenges/"
+      URL             : "/categories/challenges/"
       Weight          : 1
     - Name            : "Crowdsourcing & Citizen Science"
       Parent          : "challenges"
       Identifier      : "crowdsourcing-and-citizen-science"
-      URL             : "/category/crowdsourcing-and-citizen-science/"
+      URL             : "/categories/crowdsourcing-and-citizen-science/"
       Weight          : 11
 
     - Name            : "code"
       Identifier      : "code"
-      URL             : "/category/code/"
+      URL             : "/categories/code/"
       Weight          : 2
     - Name            : "API"
       Parent          : "code"
       Identifier      : "api"
-      URL             : "/category/api/"
+      URL             : "/categories/api/"
       Weight          : 20
     - Name            : "Data"
       Parent          : "code"
       Identifier      : "data"
-      URL             : "/category/data/"
+      URL             : "/categories/data/"
       Weight          : 21
 
     - Name            : "content"
       Identifier      : "content"
-      URL             : "/category/content/"
+      URL             : "/categories/content/"
       Weight          : 3
     - Name            : "Video"
       Parent          : "content"
       Identifier      : "video"
-      URL             : "/category/content/video/"
+      URL             : "/categories/content/video/"
       Weight          : 20
     - Name            : "Writing"
       Parent          : "content"
       Identifier      : "writing"
-      URL             : "/category/content/writing/"
+      URL             : "/categories/content/writing/"
       Weight          : 21
 
     - Name            : "managing digital"
       Identifier      : "managing-digital"
-      URL             : "/category/managing-digital/"
+      URL             : "/categories/managing-digital/"
       Weight          : 4
     - Name            : "Governance"
       Parent          : "managing-digital"
       Identifier      : "governance"
-      URL             : "/category/managing-digital/governance/"
+      URL             : "/categories/governance/"
       Weight          : 41
     - Name            : "Strategy & Policy"
       Parent          : "managing-digital"
       Identifier      : "governance"
-      URL             : "/category/managing-digital/governance/"
+      URL             : "/categories/strategy-and-policy/"
       Weight          : 42
 
     - Name            : "metrics"
       Identifier      : "resources"
-      URL             : "/category/metrics/"
+      URL             : "/categories/metrics/"
       Weight          : 5
 
     - Name            : "mobile"
       Identifier      : "mobile"
-      URL             : "/category/mobile/"
+      URL             : "/categories/mobile/"
       Weight          : 6
 
     - Name            : "social media"
       Identifier      : "social-media"
-      URL             : "/category/social-media/"
+      URL             : "/categories/social-media/"
       Weight          : 7
 
     - Name            : "ux"
       Identifier      : "ux"
-      URL             : "/category/ux/"
+      URL             : "/categories/ux/"
       Weight          : 7
     - Name            : "Accessibility"
       Parent          : "ux"
       Identifier      : "accesibility"
-      URL             : "/category/ux/accesibility/"
+      URL             : "/categories/accesibility/"
       Weight          : 71
     - Name            : "Design"
       Parent          : "ux"
       Identifier      : "design"
-      URL             : "/category/ux/design/"
+      URL             : "/categories/design/"
       Weight          : 71
     - Name            : "User Testing & Research"
       Parent          : "ux"
       Identifier      : "user-testing-and-research"
-      URL             : "/category/ux/user-testing-and-research/"
+      URL             : "/categories/user-testing-and-research/"
       Weight          : 71

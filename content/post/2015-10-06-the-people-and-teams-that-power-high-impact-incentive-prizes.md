@@ -7,7 +7,7 @@ summary: ' Federal agencies have used prize competitions and challenges to drive
 authors: [jenn-gustetic, kelly-olson]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - FDA

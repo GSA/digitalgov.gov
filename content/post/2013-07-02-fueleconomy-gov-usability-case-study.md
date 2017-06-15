@@ -6,8 +6,8 @@ title: 'Fueleconomy.gov &amp;#8211; Usability Case Study'
 summary: 'Many technical websites have a hard time explaining information to the general public. This happens because users don&rsquo;t understand the industry-specific or scientific terms. Fortunately, solutions to these problems are fairly easy&mdash;changing menu and navigation item text, or adding a line of explanatory text on key pages or complex graphics. The DigitalGov User Experience Program'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - DigitalGov User Experience Program
   - usability case study
   - usability testing

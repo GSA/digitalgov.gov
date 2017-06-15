@@ -8,7 +8,7 @@ authors: [tjohnson]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - mobile apps
   - Mobile UX Guideline 5
   - mobile-first

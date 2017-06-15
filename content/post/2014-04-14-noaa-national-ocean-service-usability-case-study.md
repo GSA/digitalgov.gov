@@ -7,9 +7,9 @@ summary: 'For a small shop with a small staff, limited time, and a small budget,
 authors: [troy-kitch]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov Search
   - National Ocean Service
   - National Oceanic and Atmospheric Administration

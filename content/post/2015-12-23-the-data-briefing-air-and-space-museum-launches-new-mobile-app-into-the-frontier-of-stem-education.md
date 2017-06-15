@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - Education
   - mobile apps
   - NPS

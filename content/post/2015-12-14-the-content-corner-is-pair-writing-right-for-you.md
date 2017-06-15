@@ -7,9 +7,9 @@ summary: 'Fresh from last week&rsquo;s article about workflows and their importa
 authors: [tymanuel]
 categories:
   - Content
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - Writing
-tags:
+tag:
   - Administrative Office of the United States Courts
   - agile
   - The Content Corner

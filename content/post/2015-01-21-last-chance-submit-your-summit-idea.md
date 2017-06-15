@@ -7,7 +7,7 @@ summary: ' You might remember in the post Crowdsourced Digital Citizen Services 
 authors: [apiazza]
 categories:
   - Our Work
-tags:
+tag:
   - DGU
   - DigitalGov Summit
 ---

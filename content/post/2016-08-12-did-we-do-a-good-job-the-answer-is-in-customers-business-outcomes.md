@@ -7,7 +7,7 @@ summary: 'Earlier this week, I shared with my colleagues at EXIM the results of 
 authors: [stephanie-thum]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

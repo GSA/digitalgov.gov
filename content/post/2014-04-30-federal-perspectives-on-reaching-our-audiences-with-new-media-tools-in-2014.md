@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-tags:
+tag:
   - National Institute of Allergy and Infectious Diseases
   - social media
   - White House

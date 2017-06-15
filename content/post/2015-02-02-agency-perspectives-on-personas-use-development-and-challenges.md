@@ -7,7 +7,7 @@ summary: 'Personas are tools your agency can use to learn about your end users a
 authors: [kdaniel]
 categories:
   - UX
-tags:
+tag:
   - HHS
   - Personas
   - U.S. Department of Agriculture

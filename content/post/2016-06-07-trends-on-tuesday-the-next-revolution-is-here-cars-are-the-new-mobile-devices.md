@@ -7,7 +7,7 @@ summary: 'Last week, Recode published an article&nbsp;focused on&nbsp;a recent r
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Trends on Tuesday
 ---

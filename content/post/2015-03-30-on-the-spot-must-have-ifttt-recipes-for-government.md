@@ -9,7 +9,7 @@ categories:
   - API
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - 18F
   - API
   - Digital Analytics Program

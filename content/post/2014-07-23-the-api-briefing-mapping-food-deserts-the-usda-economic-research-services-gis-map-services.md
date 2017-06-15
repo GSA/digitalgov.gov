@@ -9,7 +9,7 @@ categories:
   - API
   - Code
   - Mobile
-tags:
+tag:
   - API
   - U.S. Department of Agriculture
   - USDA

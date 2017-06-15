@@ -9,7 +9,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - Augmented Reality
   - gamification
   - mobile

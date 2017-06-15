@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - DOE
   - U.S. Department of Agriculture
   - United States Department of Energy

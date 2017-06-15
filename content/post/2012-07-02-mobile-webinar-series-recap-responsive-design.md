@@ -9,7 +9,7 @@ categories:
   - Code
   - Design
   - Mobile
-tags:
+tag:
   - mobile-first
   - Recaps
   - responsive web design

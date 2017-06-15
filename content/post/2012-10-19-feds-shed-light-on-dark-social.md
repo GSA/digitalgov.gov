@@ -9,7 +9,7 @@ categories:
   - Communities
   - Metrics
   - Social Media
-tags:
+tag:
   - AoI
   - SocialGov
   - SocialGov Community

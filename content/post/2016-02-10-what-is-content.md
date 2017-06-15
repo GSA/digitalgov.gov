@@ -8,7 +8,7 @@ authors: [andreanocesigritz, tymanuel]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - content strategy
   - content syndication
 ---

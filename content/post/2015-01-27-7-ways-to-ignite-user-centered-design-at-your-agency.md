@@ -7,9 +7,9 @@ summary: 'So you&rsquo;ve done a couple of usability studies, and a few people a
 authors: [wendy-littman]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DOE
   - United States Department of Energy
   - user centered design

@@ -6,7 +6,7 @@ summary: "If there was one thing we learned on September 11, 2001, it's that you
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - American Red Cross
   - Federal Emergency Management Agency
   - FEMA

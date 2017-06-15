@@ -7,7 +7,7 @@ summary: 'A penny saved is a penny earned. But spending your pennies on mobile d
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - ios
   - mobile
   - mobile apps

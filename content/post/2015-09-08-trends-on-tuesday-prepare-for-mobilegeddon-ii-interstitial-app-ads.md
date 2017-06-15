@@ -7,7 +7,7 @@ summary: 'Google has announced a second wave of &lsquo;Mobilegeddon&rsquo; searc
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 2
   - mobile-friendly

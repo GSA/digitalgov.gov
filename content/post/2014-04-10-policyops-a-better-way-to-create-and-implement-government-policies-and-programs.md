@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Governance
   - Managing Digital
-tags:
+tag:
   - analytics
   - data
   - OPM

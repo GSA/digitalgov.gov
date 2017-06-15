@@ -8,7 +8,7 @@ authors: [stacey-sarris]
 categories:
   - Accessibility
   - UX
-tags:
+tag:
   - accessibility
   - usability
   - usability testing

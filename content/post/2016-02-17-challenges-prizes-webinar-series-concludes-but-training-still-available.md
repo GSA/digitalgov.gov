@@ -7,7 +7,7 @@ summary: 'It began with a history lesson and ended with an eye to the future. In
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - DOE
   - HHS

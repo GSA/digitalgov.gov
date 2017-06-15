@@ -8,7 +8,7 @@ authors: [dmccleskey]
 categories:
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - DigitalGov Search
   - GobiernoUSAgov
   - multilingual

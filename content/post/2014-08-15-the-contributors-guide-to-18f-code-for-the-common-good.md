@@ -8,7 +8,7 @@ authors: [dr-robert-read]
 categories:
   - API
   - Code
-tags:
+tag:
   - 18F
   - GitHub
   - open source

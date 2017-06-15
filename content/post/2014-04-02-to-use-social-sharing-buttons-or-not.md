@@ -7,7 +7,7 @@ summary: 'Our digital gov neighbors in the U.K. have been working on their own d
 authors: [andreanocesigritz]
 categories:
   - Content
-tags:
+tag:
   - mobile
   - social media
 ---

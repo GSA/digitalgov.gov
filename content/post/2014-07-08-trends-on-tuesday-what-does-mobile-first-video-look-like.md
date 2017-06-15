@@ -7,7 +7,7 @@ summary: 'Like many Americans during the last month, I developed FIFA fever. Che
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 5
   - mobile-first
   - Trends on Tuesday

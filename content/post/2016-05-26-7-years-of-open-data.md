@@ -7,7 +7,7 @@ summary: 'In its seventh year as home to the U.S. Government&rsquo;s open data, 
 authors: [data-gov-team]
 categories:
   - Data
-tags:
+tag:
   - data.gov
   - DOL
   - open data

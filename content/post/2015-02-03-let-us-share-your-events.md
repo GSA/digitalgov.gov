@@ -7,7 +7,7 @@ summary: 'You may have seen this&nbsp;icon on our calendar recently. This icon i
 authors: [apiazza]
 categories:
   - Our Work
-tags:
+tag:
   - DGU
 ---
 

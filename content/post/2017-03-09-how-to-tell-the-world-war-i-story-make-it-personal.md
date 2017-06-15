@@ -8,7 +8,7 @@ authors: [sarah-herrmann]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - ABMC
   - American Battle Monuments Commission
   - content

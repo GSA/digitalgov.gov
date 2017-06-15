@@ -7,7 +7,7 @@ summary: 'As human beings, we love stories. We like regaling our friends with ta
 authors: [sarah-herrmann]
 categories:
   - Content
-tags:
+tag:
   - American Battle Monuments Commission
 ---
 

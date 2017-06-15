@@ -7,7 +7,7 @@ summary: 'The Center&amp;#8217;s for Disease and Control has developed a&nbsp;mo
 authors: [kanika-tolver]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - mobile apps
   - Thursday Mobile Products

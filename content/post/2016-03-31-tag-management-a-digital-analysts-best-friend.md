@@ -9,7 +9,7 @@ categories:
   - Code
   - Data
   - Monthly Theme
-tags:
+tag:
   - analytics
   - CFPB
   - Consumer Financial Protection Bureau

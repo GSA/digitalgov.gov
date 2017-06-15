@@ -7,7 +7,7 @@ summary: 'There are many scary tales in the world of knowledge management and da
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - data
   - The Data Briefing
   - United States Patent and Trademark Office

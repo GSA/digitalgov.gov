@@ -8,7 +8,7 @@ authors: [david-kaufmann]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - analytics
   - DAP
   - data

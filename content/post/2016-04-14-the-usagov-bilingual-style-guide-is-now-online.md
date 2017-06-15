@@ -10,9 +10,9 @@ categories:
   - Content
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - accessibility
   - multilingual
   - multilingual digital group

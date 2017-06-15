@@ -7,7 +7,7 @@ summary: '2015 was a big year for 18F. We almost doubled in size, worked with 28
 authors: [melody-kramer]
 categories:
   - Our Work
-tags:
+tag:
   - 18F
   - accessibility
   - analytics.usa.gov

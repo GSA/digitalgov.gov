@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Code
-tags:
+tag:
   - API
   - Federal Reserve Board
   - U.S. Department of Agriculture

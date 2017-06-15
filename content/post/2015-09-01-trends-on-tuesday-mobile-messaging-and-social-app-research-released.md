@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - Facebook
   - Instagram
   - LinkedIn

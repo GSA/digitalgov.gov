@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - CIO Council
   - cloud
   - data

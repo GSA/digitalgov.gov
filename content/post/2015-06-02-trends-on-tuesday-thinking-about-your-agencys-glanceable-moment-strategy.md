@@ -7,7 +7,7 @@ summary: 'Mobile device penetration is growing, with larger&nbsp;screens providi
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Mobile UX Guideline 5

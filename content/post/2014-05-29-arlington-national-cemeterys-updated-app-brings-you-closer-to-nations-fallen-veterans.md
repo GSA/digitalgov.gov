@@ -7,7 +7,7 @@ summary: 'While many&nbsp;of us were planning for barbecues or heading to lakes 
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - Arlington National Cemetery
   - mobile apps
   - mobile gov

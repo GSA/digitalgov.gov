@@ -7,7 +7,7 @@ summary: 'Big news in the technology world as Microsoft unveiled HoloLens and Mi
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - Augmented Reality
   - mobile apps
   - NASA

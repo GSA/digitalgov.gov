@@ -9,7 +9,7 @@ categories:
   - Content
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - GAO
   - NASA
   - Peace Corps

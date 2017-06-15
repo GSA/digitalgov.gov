@@ -7,7 +7,7 @@ summary: 'The NOAA Release Mako App was created for fisherman to report their re
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - NOAA
   - Thursday Mobile Products
 ---

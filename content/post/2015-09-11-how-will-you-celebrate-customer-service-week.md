@@ -7,7 +7,7 @@ summary: 'In 1992, Congress passed Public Law No\: 102-481, which proclaimed the
 authors: [rflagg]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer service

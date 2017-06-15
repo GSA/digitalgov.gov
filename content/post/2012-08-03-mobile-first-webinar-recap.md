@@ -7,7 +7,7 @@ summary: 'Federal agency mobile implementation is an important aspect of the&nbs
 authors: [justin-goldberger]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - mobile
   - mobile-first

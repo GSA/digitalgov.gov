@@ -7,7 +7,7 @@ summary: ' In mobile app development, if you aren&amp;#8217;t making it multilin
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - BBG
   - Broadcasting Board of Governors
   - Federal Mobile Products Registry

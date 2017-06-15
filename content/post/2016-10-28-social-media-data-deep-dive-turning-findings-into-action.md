@@ -7,8 +7,8 @@ summary: 'GobiernoUSA, just like USA.gov, is part of a unique effort with a larg
 authors: [victoria-wales]
 categories:
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - content
   - content strategy

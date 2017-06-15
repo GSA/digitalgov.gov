@@ -8,7 +8,7 @@ authors: [rflagg, jsnee]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - CX

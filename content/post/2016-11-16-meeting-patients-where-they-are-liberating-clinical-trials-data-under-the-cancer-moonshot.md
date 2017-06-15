@@ -11,7 +11,7 @@ categories:
   - Content
   - Data
   - UX
-tags:
+tag:
   - API
   - code
   - content

@@ -7,7 +7,7 @@ summary: 'Drivers can&nbsp; find the closest alternative fueling sites anytime, 
 authors: [brandon-barr]
 categories:
   - Mobile
-tags:
+tag:
   - mobile gov
   - Thursday Mobile Products
   - United States Department of Energy

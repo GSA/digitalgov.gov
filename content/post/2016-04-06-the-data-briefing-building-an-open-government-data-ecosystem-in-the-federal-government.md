@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - API
   - data
   - HHS

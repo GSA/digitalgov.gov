@@ -7,9 +7,9 @@ summary: 'Over the past year, a GSA collaboration has seen a project that offers
 authors: [gray-brooks]
 categories:
   - API
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - API
   - open source
   - usability testing

@@ -8,8 +8,8 @@ authors: [darlene-meskell]
 categories:
   - Governance
   - Monthly Theme
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - Connect.gov
   - data.gov

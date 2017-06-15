@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Managing Digital
   - UX
-tags:
+tag:
   - accessibility
   - DHS
   - DOL

@@ -7,7 +7,7 @@ summary: 'Author&amp;#8217;s note\: Anyone can contribute to the development of 
 authors: [awichman]
 categories:
   - Our Work
-tags:
+tag:
   - 18F
   - agile
   - Open Opportunities program

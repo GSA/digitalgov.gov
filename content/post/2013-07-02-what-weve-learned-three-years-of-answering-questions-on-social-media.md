@@ -7,7 +7,7 @@ summary: 'USA.gov and GobiernoUSA.gov have been engaging with the public on soci
 authors: [michelle-chronister]
 categories:
   - Social Media
-tags:
+tag:
   - Facebook
   - GobiernoUSAgov
   - social media

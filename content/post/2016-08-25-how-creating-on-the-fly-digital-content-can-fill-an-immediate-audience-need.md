@@ -8,8 +8,8 @@ authors: [yasmine-kloth]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - National Center for Complementary and Integrative Health

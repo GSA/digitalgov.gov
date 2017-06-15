@@ -7,7 +7,7 @@ summary: 'There are many ways the public can get information from the federal go
 authors: [eric-mill, raphael-majma, victor-diaz-zapanta, jackie-kazil, shashank-khandelwal]
 categories:
   - Code
-tags:
+tag:
   - 18F
   - DOJ
   - EPA

@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - API
   - data
   - data visualization

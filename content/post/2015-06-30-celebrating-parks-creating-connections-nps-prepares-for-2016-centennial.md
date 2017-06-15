@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - Instagram
   - NPS
   - social media

@@ -7,7 +7,7 @@ summary: 'You&amp;#8217;ve run a&nbsp;challenge and prize competition, selected 
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

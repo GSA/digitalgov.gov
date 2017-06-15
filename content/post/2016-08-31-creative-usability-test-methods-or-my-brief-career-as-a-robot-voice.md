@@ -6,9 +6,9 @@ title: 'Creative Usability Test Methods&mdash;or My Brief Career as a Robot Voic
 summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That&rsquo;s just what happened to us. We&rsquo;re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
 authors: [joanne-mcgovern]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - Customer Experience
   - Customer Experience Community of Practice
   - customer service

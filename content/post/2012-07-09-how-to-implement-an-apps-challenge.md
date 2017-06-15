@@ -7,7 +7,7 @@ summary: 'Recruiting the right judges, writing clear rules, and ensuring the pub
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - innovation
   - mobile apps
 ---

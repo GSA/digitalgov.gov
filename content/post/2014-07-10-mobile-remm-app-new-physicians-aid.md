@@ -7,7 +7,7 @@ summary: 'The Department of Health and Human Service&rsquo;s Mobile REMM App pro
 authors: [katie-steffy]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - EPA

@@ -8,7 +8,7 @@ authors: [alice-chen]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - Plain language
   - Plain Language Community of Practice
   - U.S. Citizenship and Immigration Service

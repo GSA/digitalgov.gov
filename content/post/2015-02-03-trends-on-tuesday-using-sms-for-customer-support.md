@@ -7,7 +7,7 @@ summary: 'Don&amp;#8217;t forget, mobile first strategy can include text messagi
 authors: [kdaniel]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - government contact centers

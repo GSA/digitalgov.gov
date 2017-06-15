@@ -7,7 +7,7 @@ summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use
 authors: [jamal-mazrui]
 categories:
   - Accessibility
-tags:
+tag:
   - accessibility
   - CDC
   - Centers for Disease Control and Prevention

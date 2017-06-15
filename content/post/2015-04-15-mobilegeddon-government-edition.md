@@ -7,7 +7,7 @@ summary: 'Much is being said and written about the coming Mobilegeddon/Mopocalyp
 authors: [dmccleskey]
 categories:
   - Mobile
-tags:
+tag:
   - DigitalGov Search
   - mobile
   - Mobile UX Guideline 4

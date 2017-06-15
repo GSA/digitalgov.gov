@@ -6,9 +6,9 @@ title: 'With Measurable Usability Goals &ndash; We All Score'
 summary: 'Setting measurable usability goals will help your team to assess the performance of your site throughout development. Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above, bench'
 authors: [katie-messner]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - HHS
   - top tasks
   - United States Department of Health and Human Services

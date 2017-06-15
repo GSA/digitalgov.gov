@@ -7,7 +7,7 @@ summary: 'What&rsquo;s black and white and read all over? An e-reader. While it 
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 1
   - mobile-first
   - Trends on Tuesday

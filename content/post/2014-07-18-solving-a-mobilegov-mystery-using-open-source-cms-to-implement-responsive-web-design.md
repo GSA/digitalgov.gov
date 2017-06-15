@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - GSA
   - mobile
   - mobile gov

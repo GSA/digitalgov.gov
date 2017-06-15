@@ -7,7 +7,7 @@ summary: 'NORAD&amp;#8217;s Santa Tracker is available for download again! Here 
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - DoD
   - NORAD

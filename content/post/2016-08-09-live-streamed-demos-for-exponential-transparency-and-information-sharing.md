@@ -9,9 +9,9 @@ categories:
   - Code
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - Video
-tags:
+tag:
   - 18F
   - audio
   - Audio/Video

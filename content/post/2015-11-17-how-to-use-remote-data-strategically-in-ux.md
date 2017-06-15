@@ -8,7 +8,7 @@ authors: [justin-dopke]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - analytics
   - UX
 ---

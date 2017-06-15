@@ -7,7 +7,7 @@ summary: 'Summary\: The White House is hosting its first-ever Electric Vehicle D
 authors: [austin-brown, candace-vahlsing]
 categories:
   - Data
-tags:
+tag:
   - data
   - DOE
   - innovation

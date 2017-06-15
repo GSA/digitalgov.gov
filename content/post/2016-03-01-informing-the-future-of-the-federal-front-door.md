@@ -8,7 +8,7 @@ authors: [michelle-chronister, carolyn-dew, colin-macarthur, john-yuda]
 categories:
   - Managing Digital
   - UX
-tags:
+tag:
   - 18F
   - Draft Web Design Standards
 ---

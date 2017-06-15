@@ -8,7 +8,7 @@ authors: [nramprasad]
 categories:
   - Accessibility
   - Mobile
-tags:
+tag:
   - accessibility
   - DoD
   - mobile

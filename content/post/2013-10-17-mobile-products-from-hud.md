@@ -7,7 +7,7 @@ summary: ' The Department of Housing and Urban Development&nbsp;has two apps tha
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - HUD
   - mobile apps
   - mobile gov

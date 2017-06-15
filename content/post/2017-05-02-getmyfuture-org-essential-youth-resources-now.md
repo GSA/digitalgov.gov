@@ -12,7 +12,7 @@ categories:
   - Managing Digital
   - Mobile
   - UX
-tags:
+tag:
   - Audio/Video
   - data
   - Digital Audio/Video Community

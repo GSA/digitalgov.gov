@@ -7,7 +7,7 @@ summary: 'Geological phenomena such as steaming mud craters, bubbling mud pools,
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - NPS

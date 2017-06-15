@@ -7,7 +7,7 @@ summary: 'The U.S. Department of Agriculture&amp;#8217;s (USDA) Economic Researc
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
   - USDA

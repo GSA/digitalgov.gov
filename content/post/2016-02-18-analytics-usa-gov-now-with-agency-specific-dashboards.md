@@ -8,7 +8,7 @@ authors: [gray-brooks, tlowden, eric-mill, julia-winn, gabriel-ramirez, colin-cr
 categories:
   - Data
   - Our Work
-tags:
+tag:
   - 18F
   - analytics
   - analytics.usa.gov

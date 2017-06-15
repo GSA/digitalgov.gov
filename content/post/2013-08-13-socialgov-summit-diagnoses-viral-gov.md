@@ -7,7 +7,7 @@ summary: 'Agencies discuss how to make social media programs more sharable and e
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - GSA
   - HHS
   - mobile gov

@@ -7,7 +7,7 @@ summary: 'Information technology is everywhere. How we communicate, and how we s
 authors: [cynthia-giles]
 categories:
   - Managing Digital
-tags:
+tag:
   - data
   - EPA
   - open data

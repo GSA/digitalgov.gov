@@ -8,7 +8,7 @@ authors: [justin-dopke]
 categories:
   - Design
   - UX
-tags:
+tag:
   - analytics
   - SSA
   - The United States Social Security Administration

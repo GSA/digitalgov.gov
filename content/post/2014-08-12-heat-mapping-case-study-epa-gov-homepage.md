@@ -9,9 +9,9 @@ categories:
   - Data
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - EPA
   - U.S. Environmental Protection Agency

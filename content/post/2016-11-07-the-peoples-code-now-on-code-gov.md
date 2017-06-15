@@ -8,8 +8,8 @@ authors: [tony-scott]
 categories:
   - Code
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - code
   - Office of Management and Budget
   - OMB

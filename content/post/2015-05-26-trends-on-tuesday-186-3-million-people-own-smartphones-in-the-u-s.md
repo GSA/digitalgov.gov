@@ -7,7 +7,7 @@ summary: 'In April,&nbsp;comScore&nbsp;released new mobile data, and it pointed 
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 1

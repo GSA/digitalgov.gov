@@ -8,9 +8,9 @@ authors: [jparcell]
 categories:
   - Design
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
-tags:
+tag:
   - mobile
   - mobile-first
   - Recaps

@@ -7,7 +7,7 @@ summary: 'According to an article from Readwrite, the amount of money going to b
 authors: [kdaniel]
 categories:
   - Data
-tags:
+tag:
   - big data
   - data
   - privacy

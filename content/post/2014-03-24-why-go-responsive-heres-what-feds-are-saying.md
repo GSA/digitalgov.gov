@@ -7,7 +7,7 @@ summary: ' Responsive Web design implementations in the federal government have 
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - FEMA
   - mobile
   - mobile apps

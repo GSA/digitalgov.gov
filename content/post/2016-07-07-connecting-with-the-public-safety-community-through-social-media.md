@@ -8,7 +8,7 @@ authors: [amanda-hilliard]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - First Responder Network Authority
   - FirstNet
   - mobile

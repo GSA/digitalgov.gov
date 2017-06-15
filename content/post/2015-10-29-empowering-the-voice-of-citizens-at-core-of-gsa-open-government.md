@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Our Work
   - Social Media
-tags:
+tag:
   - data.gov
   - National Action Plan on Open Government
   - open government

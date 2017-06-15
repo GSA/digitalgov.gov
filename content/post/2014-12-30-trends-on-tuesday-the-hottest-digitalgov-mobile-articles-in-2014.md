@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - API
   - mobile gov community of practice
   - Trends on Tuesday

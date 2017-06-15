@@ -7,8 +7,8 @@ summary: 'We have not forgotten, we will never forget, the debt of infinite grat
 authors: [kdowney]
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - ABMC
   - American Battle Monuments Commission
   - mobile apps

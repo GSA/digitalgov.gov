@@ -12,9 +12,9 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - Video
-tags:
+tag:
   - Audio/Video
   - code
   - content

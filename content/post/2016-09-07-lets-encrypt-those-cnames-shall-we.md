@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - aws
   - DigitalGov Search
   - infrastructure

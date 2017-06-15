@@ -8,7 +8,7 @@ authors: [admin]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - Broadcasting Board of Governors
   - Defense Finance and Accounting Services
   - DFAS

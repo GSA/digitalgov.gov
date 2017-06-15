@@ -8,7 +8,7 @@ authors: [jessica-milcetich]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - Facebook
   - social media
   - Twitter

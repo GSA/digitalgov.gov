@@ -7,7 +7,7 @@ summary: 'Pop quiz on statistics and data science (answers at the end of the art
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - API
   - data
   - data visualization

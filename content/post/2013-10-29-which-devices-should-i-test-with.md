@@ -7,8 +7,8 @@ summary: 'Like a kid in a candy store&amp;#8230; Every time we go to the mall, t
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile
 ---
 

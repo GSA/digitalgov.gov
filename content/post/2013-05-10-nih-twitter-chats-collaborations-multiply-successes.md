@@ -7,7 +7,7 @@ summary: 'Twitter Chat discussing anxiety, stress, and complementary health prac
 authors: [lnelson]
 categories:
   - Social Media
-tags:
+tag:
   - NIH
   - Twitter
 ---

@@ -7,8 +7,8 @@ summary: 'Effective&nbsp;May 15, 2017, GSA&rsquo;s DotGov Domain Registration Pr
 authors: [marina-fox, eric-mill]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - GSA
   - HTTPS
   - security

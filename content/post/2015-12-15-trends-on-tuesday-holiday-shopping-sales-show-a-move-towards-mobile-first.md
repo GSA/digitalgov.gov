@@ -7,7 +7,7 @@ summary: 'U.S. shoppers are increasingly using their mobile devices to make purc
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile-first
   - Trends on Tuesday

@@ -7,7 +7,7 @@ summary: 'Move over, 60 inch widescreens&mdash;for the first time ever, U.S. con
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - Mobile UX Guideline 1

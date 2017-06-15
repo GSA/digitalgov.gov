@@ -7,7 +7,7 @@ summary: 'Want to know where the food you&rsquo;re eating was produced? Here&rsq
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - ICE
   - mobile apps
   - Thursday Mobile Products

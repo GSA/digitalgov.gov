@@ -7,7 +7,7 @@ summary: 'Back in 2000, I worked at a dot-com building website applications such
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - U.S. Department of Agriculture
   - USDA
   - Wednesday API Briefing

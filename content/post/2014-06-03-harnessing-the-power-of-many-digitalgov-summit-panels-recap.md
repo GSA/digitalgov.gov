@@ -14,7 +14,7 @@ categories:
   - Mobile
   - Social Media
   - UX
-tags:
+tag:
   - Census
   - DOL
   - EPA

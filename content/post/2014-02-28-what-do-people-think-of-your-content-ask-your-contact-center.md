@@ -11,7 +11,7 @@ categories:
   - Managing Digital
   - Social Media
   - UX
-tags:
+tag:
   - AoI
   - Customer Experience
   - government contact centers

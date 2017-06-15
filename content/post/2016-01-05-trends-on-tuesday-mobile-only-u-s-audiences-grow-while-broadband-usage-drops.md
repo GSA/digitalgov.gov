@@ -7,7 +7,7 @@ summary: 'The Pew Research Center released an interesting report about home Inte
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile-first
   - mobile-friendly

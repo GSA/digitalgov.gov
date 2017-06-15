@@ -8,7 +8,7 @@ authors: [dmccleskey]
 categories:
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

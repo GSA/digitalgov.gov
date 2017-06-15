@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - analytics
   - content strategy
   - Library of Congress

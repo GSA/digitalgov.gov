@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Mobile
-tags:
+tag:
   - mobile
   - mobile gov
   - responsive web design

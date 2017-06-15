@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - DoD
   - Federal CrowdSource Mobile Testing Program
   - Internal Revenue Service

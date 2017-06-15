@@ -7,7 +7,7 @@ summary: 'Congress.gov ushered in the new fiscal year by removing the beta label
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Library of Congress
   - LOC
   - mobile

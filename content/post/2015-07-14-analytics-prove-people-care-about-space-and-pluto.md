@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Data
   - Metrics
-tags:
+tag:
   - analytics
   - DAP
   - Digital Analytics Program

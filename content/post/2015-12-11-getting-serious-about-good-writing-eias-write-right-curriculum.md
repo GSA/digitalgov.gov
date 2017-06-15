@@ -7,7 +7,7 @@ summary: 'Let&rsquo;s see&ndash;you want to improve the skills of your agency&rs
 authors: [gina-pearson]
 categories:
   - Writing
-tags:
+tag:
   - EIA
   - Plain language
   - Plain Writing Act of 2010

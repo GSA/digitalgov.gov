@@ -8,8 +8,8 @@ authors: [sarah-kaczmarek]
 categories:
   - Metrics
   - Social Media
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - DAP
   - GAO
 ---

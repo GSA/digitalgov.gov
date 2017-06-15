@@ -8,8 +8,8 @@ authors: [tmarcoullier]
 categories:
   - Challenges
   - Code
-  - 'Crowdsourcing &amp; Citizen Science'
-tags:
+  - 'Crowdsourcing and Citizen Science'
+tag:
   - crowdsourcing
   - Department of Commerce
   - EPA

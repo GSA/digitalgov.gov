@@ -7,7 +7,7 @@ summary: 'Technology has opened new pathways for delivering health care, includi
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - DoD
   - mobile apps
   - Mobile UX Guideline 2

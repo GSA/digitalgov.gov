@@ -8,7 +8,7 @@ authors: [chris-lu]
 categories:
   - Managing Digital
   - UX
-tags:
+tag:
   - accessibility
   - DOL
   - U.S. Department of Labor

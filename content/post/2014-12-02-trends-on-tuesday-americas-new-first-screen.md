@@ -7,7 +7,7 @@ summary: 'It has finally happened\: Mobile has bumped TV as America&amp;#8217;s 
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - BLS
   - mobile
   - Mobile App Development Program

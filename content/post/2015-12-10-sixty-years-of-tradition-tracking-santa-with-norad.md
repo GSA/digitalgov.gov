@@ -7,7 +7,7 @@ summary: '&amp;#8216;Twas the night before Christmas, when all through the house
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - NORAD
   - North American Defense Command

@@ -7,7 +7,7 @@ summary: ' Instead of writing about a specific federal API this week, I want to 
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - Wednesday API Briefing
 ---

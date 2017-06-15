@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - big data
   - HTTPS
   - privacy

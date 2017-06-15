@@ -7,7 +7,7 @@ summary: ' When browsing the various APIs offered by the federal government, you
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - API keys
   - security

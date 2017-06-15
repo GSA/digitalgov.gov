@@ -11,7 +11,7 @@ categories:
   - Mobile
   - Our Work
   - Social Media
-tags:
+tag:
   - AI
   - Artificial Intelligence for Citizen Services Community
   - Augmented Reality

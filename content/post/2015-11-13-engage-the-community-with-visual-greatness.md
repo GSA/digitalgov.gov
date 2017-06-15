@@ -7,7 +7,7 @@ summary: 'The power of using social media to find and create images can be overw
 authors: [danielle-brigida]
 categories:
   - Social Media
-tags:
+tag:
   - FWS
   - US Fish and Wildlife Service
 ---

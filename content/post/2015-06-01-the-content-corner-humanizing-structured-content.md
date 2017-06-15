@@ -7,7 +7,7 @@ summary: 'Over the past several years, DigitalGov has been extremely focused on 
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content models
   - open and structured content models

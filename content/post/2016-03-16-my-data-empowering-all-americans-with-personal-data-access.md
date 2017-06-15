@@ -8,7 +8,7 @@ authors: [phaedra-chrousos, kristen-honey, tom-black]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - 18F
   - data.gov
   - Education

@@ -7,7 +7,7 @@ summary: 'Nearly half of companies recently surveyed said that automating conten
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - structured content
   - The Content Corner

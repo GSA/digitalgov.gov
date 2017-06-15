@@ -7,7 +7,7 @@ summary: 'As the rapper Notorious B.I.G. aptly noted in his hit song, &amp;#8220
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - mobile-first
   - responsive web design
   - Thursday Mobile Products

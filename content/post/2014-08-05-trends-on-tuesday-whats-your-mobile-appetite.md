@@ -8,7 +8,7 @@ authors: [tjohnson]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile App Development Program
   - Mobile UX Guideline 5

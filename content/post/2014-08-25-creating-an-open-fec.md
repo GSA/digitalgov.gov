@@ -7,7 +7,7 @@ summary: 'Campaign finance information is not very approachable, even when made 
 authors: [sean-herron, raphael-majma, noah-manger, victor-diaz-zapanta, amos-stone]
 categories:
   - Data
-tags:
+tag:
   - 18F
   - FEC
   - Federal Election Commission

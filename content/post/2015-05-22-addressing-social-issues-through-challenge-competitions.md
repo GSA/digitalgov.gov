@@ -7,7 +7,7 @@ summary: 'Innovation challenges leverage public creativity to address important 
 authors: [claire-yerke-desjardins]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - HUD
   - United States Department of Housing and Urban Development

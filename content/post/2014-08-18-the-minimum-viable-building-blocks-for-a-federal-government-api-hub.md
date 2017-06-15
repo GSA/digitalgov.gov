@@ -8,7 +8,7 @@ authors: [kin-lane]
 categories:
   - API
   - Code
-tags:
+tag:
   - API
   - developer hub
 ---

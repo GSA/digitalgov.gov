@@ -9,8 +9,8 @@ categories:
   - Managing Digital
   - Our Work
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - content strategy
   - GSA

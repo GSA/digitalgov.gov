@@ -7,7 +7,7 @@ summary: ' In a call to action&nbsp;issued Oct. 7, the White House announced sev
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

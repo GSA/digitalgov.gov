@@ -8,7 +8,7 @@ authors: [ellen-arnold-losey, debra-harris]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - analytics
   - Defense Finance and Accounting Services
   - DFAS

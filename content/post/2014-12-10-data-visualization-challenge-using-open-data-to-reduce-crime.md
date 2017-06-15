@@ -8,7 +8,7 @@ authors: [nancy-merritt, katie-gresham]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - Bureau of Justice Statistics
   - challenges and prize competitions
   - data visualization

@@ -8,7 +8,7 @@ authors: [judy-romano]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - Census
   - ChallengeGov
   - challenges and prize competitions

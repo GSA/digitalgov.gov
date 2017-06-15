@@ -8,7 +8,7 @@ authors: [andreanocesigritz]
 categories:
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - analytics
   - data
 ---

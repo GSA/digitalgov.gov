@@ -7,7 +7,7 @@ summary: 'There&amp;#8217;s a LOT going on at U.S. Customs and Border Protection
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - CBP
   - responsive web design
   - Thursday Mobile Products

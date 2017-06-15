@@ -8,8 +8,8 @@ authors: [lloyd-whitman, lisa-friedersdorf]
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - innovation
   - OSTP
   - White House Office of Science and Technology Policy

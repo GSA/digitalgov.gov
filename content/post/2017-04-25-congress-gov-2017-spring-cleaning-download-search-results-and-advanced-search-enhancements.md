@@ -9,7 +9,7 @@ categories:
   - Content
   - Design
   - Managing Digital
-tags:
+tag:
   - Law Library of Congress
   - Library of Congress
   - LOC

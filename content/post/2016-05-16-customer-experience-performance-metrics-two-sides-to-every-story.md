@@ -8,7 +8,7 @@ authors: [stephanie-thum]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - CX
   - Ex-Im Bank

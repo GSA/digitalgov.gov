@@ -7,7 +7,7 @@ summary: 'Park websites on NPS.gov from A (Acadia) to Z (Zion) are now mobile-fr
 authors: [todd-edgar]
 categories:
   - Mobile
-tags:
+tag:
   - analytics
   - Content Management System
   - Mobile UX Guideline 1

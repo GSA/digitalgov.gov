@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Data
-tags:
+tag:
   - data
   - mobile
   - mobile apps

@@ -7,7 +7,7 @@ summary: 'The&nbsp;U.S. Postal Service Mobile app can help you find a post offic
 authors: [kanika-tolver]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
   - USPS

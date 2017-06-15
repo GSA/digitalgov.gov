@@ -8,7 +8,7 @@ authors: [sally-bourrie]
 categories:
   - Code
   - Data
-tags:
+tag:
   - data.gov
   - open data
   - open government

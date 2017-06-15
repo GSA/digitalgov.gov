@@ -7,7 +7,7 @@ summary: 'Understanding our Veterans and their unique needs and experiences is a
 authors: [va-center-for-innovation]
 categories:
   - UX
-tags:
+tag:
   - Customer Experience
   - customer service
   - CX

@@ -8,7 +8,7 @@ authors: [admin]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - HHS

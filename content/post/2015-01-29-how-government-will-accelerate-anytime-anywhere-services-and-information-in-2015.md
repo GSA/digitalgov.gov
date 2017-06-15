@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - AoI
   - Census
   - COPE

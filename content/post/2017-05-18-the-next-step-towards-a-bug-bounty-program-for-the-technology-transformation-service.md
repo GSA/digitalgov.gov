@@ -7,8 +7,8 @@ summary: 'On May 9, we took a big step toward creating a bug bounty program for 
 authors: [eric-mill, omid-ghaffari-tabrizi, waldo-jaquith]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - DoD
   - security

@@ -7,7 +7,7 @@ summary: 'Today, the White House Office of Management and Budget (OMB) is propos
 authors: [anne-rung, tony-scott, howard-shelanski]
 categories:
   - Managing Digital
-tags:
+tag:
   - Office of Management and Budget
   - OMB
 ---

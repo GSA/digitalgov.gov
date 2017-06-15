@@ -8,8 +8,8 @@ authors: [christen-geiler]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content models
   - content strategy

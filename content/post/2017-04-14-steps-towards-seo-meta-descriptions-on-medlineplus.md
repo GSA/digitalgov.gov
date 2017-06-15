@@ -8,7 +8,7 @@ authors: [katie-chan, kate-masterton]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - code
   - multilingual
   - search engine optimization

@@ -8,7 +8,7 @@ authors: [ktrebon]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - DOE

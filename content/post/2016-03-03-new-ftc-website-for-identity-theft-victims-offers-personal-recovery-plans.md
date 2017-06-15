@@ -7,7 +7,7 @@ summary: 'Identity theft is a big problem and it takes time and effort to deal w
 authors: [rosario-mendez]
 categories:
   - Content
-tags:
+tag:
   - Federal Trade Commission
   - FTC
 ---

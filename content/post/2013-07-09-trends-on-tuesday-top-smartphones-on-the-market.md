@@ -7,7 +7,7 @@ summary: 'ComScore&nbsp;recently&nbsp;released&nbsp;key trends in the United Sta
 authors: [rachel-hurley]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Trends on Tuesday
 ---

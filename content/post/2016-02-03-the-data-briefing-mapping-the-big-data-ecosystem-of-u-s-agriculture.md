@@ -7,7 +7,7 @@ summary: 'The Congressional Research Service recently released a report&nbsp;(PD
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - big data
   - Commerce
   - data

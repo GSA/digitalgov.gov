@@ -7,8 +7,8 @@ summary: 'Enrolling veterans in retirement plans. Helping small farmers access c
 authors: [awichman]
 categories:
   - Managing Digital
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - GSA
   - Social and Behavioral Sciences Team
   - U.S. Department of Agriculture

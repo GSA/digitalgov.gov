@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - mobile
   - Trends on Tuesday
   - user experience

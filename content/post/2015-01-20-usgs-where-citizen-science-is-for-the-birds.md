@@ -7,8 +7,8 @@ summary: '&amp;#8220;I tell the interns\: In this lab, we&amp;#8217;re all about
 authors: [tmarcoullier]
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
-tags:
+  - 'Crowdsourcing and Citizen Science'
+tag:
   - ChallengeGov
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice

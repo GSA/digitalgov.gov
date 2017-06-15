@@ -8,7 +8,7 @@ authors: [mike-kruger]
 categories:
   - Governance
   - Managing Digital
-tags:
+tag:
   - API
   - Department of Commerce
 ---

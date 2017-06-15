@@ -8,10 +8,10 @@ authors: [michael-pulsifer]
 categories:
   - API
   - Data
-tags:
+tag:
   - API
   - data
-  - 'Occupational Safety &amp; Health Administration'
+  - 'Occupational Safety and Health Administration'
   - open data
   - OSHA
   - U.S. Department of Labor

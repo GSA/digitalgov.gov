@@ -7,7 +7,7 @@ summary: 'In September, the General Services Administration (GSA) launched a reg
 authors: [gray-brooks, jed-sundwall]
 categories:
   - Code
-tags:
+tag:
   - API
   - GSA
   - social media

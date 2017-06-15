@@ -7,7 +7,7 @@ summary: 'How government agencies blog has come a long way in the past decade. A
 authors: [danielle-brigida]
 categories:
   - Content
-tags:
+tag:
   - blog
   - FWS
   - NASA

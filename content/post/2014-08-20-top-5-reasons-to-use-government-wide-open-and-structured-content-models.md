@@ -8,7 +8,7 @@ authors: [katie-steffy]
 categories:
   - API
   - Content
-tags:
+tag:
   - API
   - content models
   - metadata

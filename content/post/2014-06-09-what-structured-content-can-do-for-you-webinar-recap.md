@@ -9,7 +9,7 @@ categories:
   - API
   - Communities
   - Content
-tags:
+tag:
   - AoI
   - API
   - Census

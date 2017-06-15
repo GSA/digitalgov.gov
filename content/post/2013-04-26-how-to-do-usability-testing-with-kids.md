@@ -6,9 +6,9 @@ title: 'How to Do Usability Testing with Kids'
 summary: ' What do kids know about Web design? As we found out, quite a lot. Recently our&nbsp;DigitalGov User Experience Program&nbsp;teamed up with the&nbsp;Kids.gov&nbsp;team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - gamification
   - GSA

@@ -7,7 +7,7 @@ summary: 'On this Earth Day, federal social media managers are hard at work, sha
 authors: [jessica-orquina, susan-bell, michael-bloom, jeffrey-levy]
 categories:
   - Social Media
-tags:
+tag:
   - EPA
   - Facebook
   - GSA

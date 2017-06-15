@@ -8,7 +8,7 @@ authors: [tburwell]
 categories:
   - Metrics
   - Monthly Theme
-tags:
+tag:
   - analytics
   - DAP
   - NASA

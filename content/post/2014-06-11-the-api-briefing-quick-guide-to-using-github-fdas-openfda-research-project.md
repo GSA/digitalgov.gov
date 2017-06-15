@@ -9,7 +9,7 @@ categories:
   - API
   - Code
   - Content
-tags:
+tag:
   - FDA
   - GitHub
   - open source

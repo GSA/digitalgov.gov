@@ -7,7 +7,7 @@ summary: 'Approximately 70% of American households have a fixed Internet source 
 authors: [katie-steffy]
 categories:
   - Mobile
-tags:
+tag:
   - FCC
   - Federal Communications Commission
   - mobile apps

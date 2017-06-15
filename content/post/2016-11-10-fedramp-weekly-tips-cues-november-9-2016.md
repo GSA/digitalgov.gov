@@ -8,7 +8,7 @@ authors: [fedramp]
 categories:
   - Code
   - Managing Digital
-tags:
+tag:
   - cloud
   - FedRAMP
 ---

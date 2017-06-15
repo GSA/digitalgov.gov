@@ -8,7 +8,7 @@ authors: [katina-stapleton]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - IES
   - Institute for Education Sciences
   - Plain language

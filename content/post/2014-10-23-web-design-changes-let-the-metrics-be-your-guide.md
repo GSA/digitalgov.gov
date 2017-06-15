@@ -10,7 +10,7 @@ categories:
   - Metrics
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - Defense Finance and Accounting Services
   - DFAS
   - EPA

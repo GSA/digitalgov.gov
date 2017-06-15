@@ -7,7 +7,7 @@ summary: 'In 25 years, imagine a world where anytime, anywhere, any device is ju
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Census
   - content syndication
   - DOL

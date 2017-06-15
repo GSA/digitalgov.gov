@@ -7,7 +7,7 @@ summary: 'I feel as though I have ignored the beast in the room lately, and sinc
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - agile
   - content strategy
   - The Content Corner

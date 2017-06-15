@@ -7,7 +7,7 @@ summary: ' It&rsquo;s one of the most important words to a federal social media 
 authors: [dorothy-amatucci]
 categories:
   - Social Media
-tags:
+tag:
   - DGU
   - Facebook
   - social media

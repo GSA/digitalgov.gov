@@ -8,7 +8,7 @@ authors: [sara-smith, janet-linton]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - National Institutes of Health
   - NIH
 ---

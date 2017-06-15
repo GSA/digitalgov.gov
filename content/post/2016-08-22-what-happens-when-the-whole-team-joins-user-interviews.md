@@ -7,9 +7,9 @@ summary: 'The CALC team is an agile team of four &amp;#8212; six if you count th
 authors: [alan-brouilette]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
-tags:
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
+tag:
   - 18F
   - agile
   - research

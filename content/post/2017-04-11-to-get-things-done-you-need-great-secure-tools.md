@@ -7,8 +7,8 @@ summary: 'To folks new to government, one of the most surprising differences bet
 authors: [v-david-zvenyach]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - FedRAMP
   - GSA

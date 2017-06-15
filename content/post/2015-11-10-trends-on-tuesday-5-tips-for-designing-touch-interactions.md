@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - mobile
   - responsive web design
   - Trends on Tuesday

@@ -8,7 +8,7 @@ authors: [david-hale]
 categories:
   - API
   - Data
-tags:
+tag:
   - FDA
   - HHS
   - National Institutes of Health

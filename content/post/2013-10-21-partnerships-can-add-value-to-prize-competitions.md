@@ -7,7 +7,7 @@ summary: 'The right partner can be the key to a successful challenge competition
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - challenges and prize competitions
   - HUD
   - NASA

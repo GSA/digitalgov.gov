@@ -8,9 +8,9 @@ authors: [awichman]
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
-tags:
+tag:
   - AoI
   - Challenges and Prizes Community of Practice
   - citizen science

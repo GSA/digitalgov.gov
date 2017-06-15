@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - data
   - Internet of things
   - mobile

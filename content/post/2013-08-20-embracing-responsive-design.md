@@ -10,7 +10,7 @@ categories:
   - Content
   - Design
   - Mobile
-tags:
+tag:
   - accessibility
   - GobiernoUSAgov
   - mobile

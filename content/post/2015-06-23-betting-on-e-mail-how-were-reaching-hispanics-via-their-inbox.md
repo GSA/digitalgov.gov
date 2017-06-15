@@ -7,7 +7,7 @@ summary: 'Driving visitors to a destination means reaching your users where they
 authors: [lmartinez, victoria-wales]
 categories:
   - Content
-tags:
+tag:
   - content strategy
   - GobiernoUSAgov
   - multilingual

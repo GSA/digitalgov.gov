@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - 18F
   - API
   - CIO Council

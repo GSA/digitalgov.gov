@@ -7,7 +7,7 @@ summary: ' The new&nbsp;second draft of the U.S. Public Participation Playbook i
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - Census
   - Defense Commissary Agency
   - Defense Logistics Agency

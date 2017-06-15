@@ -8,7 +8,7 @@ authors: [tmarcoullier]
 categories:
   - Challenges
   - Communities
-tags:
+tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - crowdsourcing

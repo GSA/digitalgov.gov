@@ -8,7 +8,7 @@ authors: [tmarcoullier]
 categories:
   - Challenges
   - Data
-tags:
+tag:
   - Census
   - CFPB
   - Consumer Financial Protection Bureau

@@ -8,7 +8,7 @@ authors: [v-david-zvenyach]
 categories:
   - Code
   - Managing Digital
-tags:
+tag:
   - 18F
   - GitHub
   - open source

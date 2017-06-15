@@ -9,7 +9,7 @@ categories:
   - Metrics
   - Our Work
   - UX
-tags:
+tag:
   - analytics
   - DigitalGov Search
   - user experience

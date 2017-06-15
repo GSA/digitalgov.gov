@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Content
   - Video
-tags:
+tag:
   - section 508
 ---
 

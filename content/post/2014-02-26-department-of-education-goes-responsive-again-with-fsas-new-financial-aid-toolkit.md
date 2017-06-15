@@ -7,7 +7,7 @@ summary: 'Money for college?&nbsp; It&amp;#8217;s never too early &amp;#8212; or
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - FAFSA
   - mobile gov
   - responsive web design

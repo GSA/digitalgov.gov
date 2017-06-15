@@ -6,8 +6,8 @@ title: 'A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across G
 summary: 'A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster'
 authors: [eric-beidel]
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
-tags:
+  - 'Crowdsourcing and Citizen Science'
+tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
   - crowdsourcing

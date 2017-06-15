@@ -7,7 +7,7 @@ summary: ' As the 2016 presidential election heats up, here at 18F we&rsquo;ve b
 authors: [emileigh-barnes]
 categories:
   - Content
-tags:
+tag:
   - 18F
   - API
   - FEC

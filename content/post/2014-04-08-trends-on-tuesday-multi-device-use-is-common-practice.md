@@ -7,7 +7,7 @@ summary: 'Have you ever opened an email on your smartphone, and then switched to
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Mobile UX Guideline 5

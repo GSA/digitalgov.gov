@@ -10,7 +10,7 @@ categories:
   - Design
   - Mobile
   - UX
-tags:
+tag:
   - CDC
   - gamification
   - mobile apps

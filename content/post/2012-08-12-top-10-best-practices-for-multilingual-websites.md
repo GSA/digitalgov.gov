@@ -7,7 +7,7 @@ summary: ' Language Online communications must address the language preferences 
 authors: [lgodfrey]
 categories:
   - Content
-tags:
+tag:
   - CDC
   - EPA
   - Federal Trade Commission

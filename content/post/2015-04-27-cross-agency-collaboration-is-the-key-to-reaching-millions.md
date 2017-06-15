@@ -8,7 +8,7 @@ authors: [lgodfrey]
 categories:
   - Content
   - Managing Digital
-tags:
+tag:
   - CFPB
   - Consumer Financial Protection Bureau
   - content strategy

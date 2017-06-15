@@ -7,10 +7,10 @@ summary: 'A few weeks ago, the State Department held its first conference dedica
 authors: [andrew-maier]
 categories:
   - Design
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - State
   - U.S. Department of State
   - user centered design

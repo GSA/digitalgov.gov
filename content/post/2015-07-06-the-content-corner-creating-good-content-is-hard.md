@@ -7,7 +7,7 @@ summary: 'Throughout my five-plus months so far on this blog, I have focused a g
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - The Content Corner
 ---

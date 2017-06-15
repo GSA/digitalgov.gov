@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-tags:
+tag:
   - Federal Trade Commission
   - Internet of things
 ---

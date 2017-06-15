@@ -7,7 +7,7 @@ summary: 'Last week, Gartner reported that global smartphone shipments have achi
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
 ---
 

@@ -10,7 +10,7 @@ categories:
   - Metrics
   - Mobile
   - UX
-tags:
+tag:
   - analytics
   - Customer Experience
   - DAP

@@ -7,7 +7,7 @@ summary: 'In April 2012, the U.S. General Services Administration launched a &am
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - GSA
   - mobile apps
   - Mobile Gov Experience

@@ -7,7 +7,7 @@ summary: 'Back in November 2014, I wrote about the Federal Reserve of St. Louis&
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - data
   - open data

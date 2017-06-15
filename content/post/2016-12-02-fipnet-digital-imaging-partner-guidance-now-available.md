@@ -8,8 +8,8 @@ authors: [federal-depository-library-program]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - Government Publishing Office

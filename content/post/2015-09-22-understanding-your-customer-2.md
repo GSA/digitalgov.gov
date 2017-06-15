@@ -7,7 +7,7 @@ summary: 'How well do you know your customers? There&rsquo;s a new guide out fro
 authors: [andrea-d-williamson]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - CX
   - DHS

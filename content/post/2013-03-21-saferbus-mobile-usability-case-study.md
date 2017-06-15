@@ -7,9 +7,9 @@ summary: 'When designing a site, remember that your terms and icons are like sig
 authors: [jonathan-rubin]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - usability case study
   - usability testing

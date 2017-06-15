@@ -7,7 +7,7 @@ summary: 'The slow, tedious federal acquisition process has long been the butt o
 authors: [kelly-olson]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - DHS

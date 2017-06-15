@@ -10,7 +10,7 @@ categories:
   - Code
   - Data
   - Monthly Theme
-tags:
+tag:
   - API
   - Centers for Medicare and Medicaid Services
   - data

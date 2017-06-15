@@ -7,7 +7,7 @@ summary: 'Approximately&nbsp;18% of websites have implemented Responsive Web Des
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Federal CrowdSource Mobile Testing Program
   - Mobile UX Guideline 1
   - Mobile UX Guideline 3

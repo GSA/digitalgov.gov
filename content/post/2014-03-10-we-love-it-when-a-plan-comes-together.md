@@ -9,7 +9,7 @@ categories:
   - Challenges
   - Data
   - Social Media
-tags:
+tag:
   - CFPB
   - challenges and prize competitions
   - DOT

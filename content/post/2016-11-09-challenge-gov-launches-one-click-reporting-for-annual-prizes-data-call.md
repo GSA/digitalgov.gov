@@ -9,7 +9,7 @@ categories:
   - Challenges
   - Data
   - Managing Digital
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - OSTP

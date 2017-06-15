@@ -10,8 +10,8 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - accessibility
   - architecture
   - content

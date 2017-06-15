@@ -7,7 +7,7 @@ summary: 'America has always been a nation on the move. Whether you are looking 
 authors: [stephen-buckner]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
 ---

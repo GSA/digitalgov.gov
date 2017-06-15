@@ -12,7 +12,7 @@ categories:
   - Managing Digital
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - AoI
   - big data
   - challenges and prize competitions

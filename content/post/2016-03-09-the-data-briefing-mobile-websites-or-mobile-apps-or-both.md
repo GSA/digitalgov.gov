@@ -9,7 +9,7 @@ categories:
   - API
   - Data
   - Mobile
-tags:
+tag:
   - API
   - data
   - mobile

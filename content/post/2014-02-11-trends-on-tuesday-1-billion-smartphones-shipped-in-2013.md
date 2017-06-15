@@ -7,7 +7,7 @@ summary: 'Smartphone adoption continues to grow exponentially. IDC recently repo
 authors: [lisa-wilcox]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Trends on Tuesday
 ---

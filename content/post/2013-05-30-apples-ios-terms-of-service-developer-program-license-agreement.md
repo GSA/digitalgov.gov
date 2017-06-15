@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - ios
   - mobile
   - Terms of Service

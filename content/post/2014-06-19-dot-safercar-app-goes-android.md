@@ -7,7 +7,7 @@ summary: 'With the start of &amp;#8220;astronomical summer&amp;#8221; later this
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - DOT
   - National Highway Traffic Safety Administration
   - USA.gov Federal Mobile Apps Directory

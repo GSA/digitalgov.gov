@@ -7,7 +7,7 @@ summary: 'Not sure how to craft a video challenge that will result in the creati
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - DGU

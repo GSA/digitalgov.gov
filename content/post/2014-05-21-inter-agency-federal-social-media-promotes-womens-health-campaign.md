@@ -7,7 +7,7 @@ summary: 'Last week, we discussed National Women&rsquo;s Health Week (NWHW)&nbsp
 authors: [alison-lemon]
 categories:
   - Social Media
-tags:
+tag:
   - FDA
   - HHS
   - National Institutes of Health

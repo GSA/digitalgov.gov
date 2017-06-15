@@ -8,7 +8,7 @@ authors: [michael-torres]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - 18F
   - agile
 ---

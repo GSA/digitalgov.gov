@@ -8,8 +8,8 @@ authors: [office-of-information-policy-doj]
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - DOJ
   - FOIA
   - Freedom of Information Act

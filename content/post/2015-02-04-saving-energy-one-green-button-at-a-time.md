@@ -7,7 +7,7 @@ summary: 'Conserving energy is not a shot in the dark. Millions of people can no
 authors: [awichman]
 categories:
   - Data
-tags:
+tag:
   - apps challenges
   - data
   - Department of Commerce

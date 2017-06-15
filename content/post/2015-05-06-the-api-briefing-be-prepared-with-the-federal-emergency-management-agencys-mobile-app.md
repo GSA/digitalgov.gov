@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - API
   - data
   - Federal Emergency Management Agency

@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - Data
   - Mobile
-tags:
+tag:
   - Commerce
   - data
   - Department of Commerce

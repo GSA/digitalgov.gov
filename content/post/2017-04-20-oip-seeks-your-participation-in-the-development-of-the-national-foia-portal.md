@@ -7,9 +7,9 @@ summary: 'The Office of Information Policy (OIP) is pleased to announce its coll
 authors: [office-of-information-policy-doj]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
-tags:
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
+tag:
   - 18F
   - FOIA
   - GSA

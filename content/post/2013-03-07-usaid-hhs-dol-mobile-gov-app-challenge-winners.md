@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Challenges
   - Mobile
-tags:
+tag:
   - DOL
   - HHS
   - mobile apps

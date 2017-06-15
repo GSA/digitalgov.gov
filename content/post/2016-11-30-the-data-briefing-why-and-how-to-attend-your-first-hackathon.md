@@ -9,7 +9,7 @@ categories:
   - Code
   - Data
   - Design
-tags:
+tag:
   - code
   - hackathon
 ---

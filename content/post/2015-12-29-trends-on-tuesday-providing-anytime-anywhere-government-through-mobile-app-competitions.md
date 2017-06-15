@@ -9,7 +9,7 @@ categories:
   - Challenges
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - apps challenges
   - challenges and prize competitions
   - data

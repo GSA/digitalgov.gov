@@ -7,7 +7,7 @@ summary: 'Have you ever taken your prescription to the pharmacy, the one that yo
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - FDA
   - ios
   - mobile apps

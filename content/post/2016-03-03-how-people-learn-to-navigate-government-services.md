@@ -7,7 +7,7 @@ summary: 'This is part three of a series detailing the findings of a team of res
 authors: [carolyn-dew, colin-macarthur, john-yuda]
 categories:
   - UX
-tags:
+tag:
   - 18F
 ---
 

@@ -8,7 +8,7 @@ authors: [jherman]
 categories:
   - Communities
   - Social Media
-tags:
+tag:
   - AoI
   - Central Intelligence Agency
   - CIA

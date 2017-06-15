@@ -7,7 +7,7 @@ summary: 'As the use of smartphones continues to grow, it has become even more i
 authors: [kdaniel]
 categories:
   - Mobile
-tags:
+tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
   - Mobile UX Guideline 4

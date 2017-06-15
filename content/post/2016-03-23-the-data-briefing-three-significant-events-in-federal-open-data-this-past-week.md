@@ -9,7 +9,7 @@ categories:
   - API
   - Data
   - Monthly Theme
-tags:
+tag:
   - agile
   - API
   - DHS

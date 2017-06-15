@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Design
   - UX
-tags:
+tag:
   - accessibility
   - GSA
   - section 508

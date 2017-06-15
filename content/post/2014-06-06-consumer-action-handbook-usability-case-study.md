@@ -7,9 +7,9 @@ summary: 'The&nbsp;annual Consumer Action Handbook, from GSA, is a guide to maki
 authors: [tlowden, marietta-jelks]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - usability case study
   - usability testing

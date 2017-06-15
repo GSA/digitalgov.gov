@@ -7,7 +7,7 @@ summary: 'Creating a tweet, posting a photo, or updating a status may take mere 
 authors: [awichman]
 categories:
   - Social Media
-tags:
+tag:
   - Connect.gov
   - National Institute of Standards and Technology
   - NIST

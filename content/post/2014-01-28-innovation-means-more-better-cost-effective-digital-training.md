@@ -8,7 +8,7 @@ authors: [jherman]
 categories:
   - Managing Digital
   - Social Media
-tags:
+tag:
   - CFPB
   - DGU
   - DoD

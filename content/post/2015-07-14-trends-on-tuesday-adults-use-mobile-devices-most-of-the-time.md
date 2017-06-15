@@ -7,7 +7,7 @@ summary: 'Millennial Media released a new research report, Connected Consumers\:
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 1
   - Mobile UX Guideline 5

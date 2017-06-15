@@ -7,7 +7,7 @@ summary: ' Just a week after the &lsquo;Mobilegeddon&rsquo; shift in Google sear
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - Mobile UX Guideline 1
   - mobile-first
   - mobile-friendly

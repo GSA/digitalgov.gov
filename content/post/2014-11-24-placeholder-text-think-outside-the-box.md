@@ -8,7 +8,7 @@ authors: [rachel-mundstock]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - social media metrics
 ---
 

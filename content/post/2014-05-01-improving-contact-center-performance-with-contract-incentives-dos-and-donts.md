@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-tags:
+tag:
   - AoI
   - government contact centers
 ---

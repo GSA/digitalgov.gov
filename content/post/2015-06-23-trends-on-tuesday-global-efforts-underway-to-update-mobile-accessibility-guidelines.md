@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Accessibility
   - Mobile
-tags:
+tag:
   - "508"
   - accessibility
   - Mobile UX Guideline 2

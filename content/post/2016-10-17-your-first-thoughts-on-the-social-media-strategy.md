@@ -8,8 +8,8 @@ authors: [mary-king, jeannie-chen, hilary-parkinson]
 categories:
   - Content
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - NARA

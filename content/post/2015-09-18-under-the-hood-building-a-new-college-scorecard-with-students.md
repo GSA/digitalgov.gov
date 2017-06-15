@@ -8,7 +8,7 @@ authors: [lisa-gelobter]
 categories:
   - Code
   - Data
-tags:
+tag:
   - 18F
   - agile
   - API

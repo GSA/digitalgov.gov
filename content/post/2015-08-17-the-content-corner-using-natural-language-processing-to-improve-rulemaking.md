@@ -7,7 +7,7 @@ summary: 'For the past several weeks, I have been inflicting you with my recent 
 authors: [tymanuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - CFPB
   - Consumer Financial Protection Bureau

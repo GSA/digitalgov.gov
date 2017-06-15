@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Managing Digital
   - Metrics
-tags:
+tag:
   - analytics
   - DAP
   - Digital Analytics Program

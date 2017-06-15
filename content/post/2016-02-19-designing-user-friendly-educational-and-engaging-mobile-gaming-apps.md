@@ -8,7 +8,7 @@ authors: [alex-casanova]
 categories:
   - Design
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - gamification

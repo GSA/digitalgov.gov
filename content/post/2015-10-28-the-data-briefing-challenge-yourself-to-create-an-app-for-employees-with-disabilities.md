@@ -9,7 +9,7 @@ categories:
   - Data
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - "508"
   - API
   - data

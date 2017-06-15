@@ -8,7 +8,7 @@ authors: [stephanie-thum]
 categories:
   - Managing Digital
   - Metrics
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - Export-Import Bank of the United States

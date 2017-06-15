@@ -9,8 +9,8 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - content
   - content strategy
   - kids.gov

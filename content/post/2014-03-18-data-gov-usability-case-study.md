@@ -8,7 +8,7 @@ authors: [jonathan-rubin]
 categories:
   - Design
   - UX
-tags:
+tag:
   - data.gov
   - usability case study
   - user experience

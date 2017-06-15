@@ -7,8 +7,8 @@ summary: 'FederalRegister.gov just released a writable API that allows citizens 
 authors: [bbrantley]
 categories:
   - API
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - API
   - Federal Register
   - OPM

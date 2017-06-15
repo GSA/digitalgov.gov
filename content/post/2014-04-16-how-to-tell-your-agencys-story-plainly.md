@@ -8,7 +8,7 @@ authors: [katherine-spivey]
 categories:
   - Content
   - Writing
-tags:
+tag:
   - DGU
   - Plain language
   - social media

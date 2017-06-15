@@ -8,7 +8,7 @@ authors: [nramprasad]
 categories:
   - Mobile
   - Monthly Theme
-tags:
+tag:
   - mobile apps
   - native app
   - native apps

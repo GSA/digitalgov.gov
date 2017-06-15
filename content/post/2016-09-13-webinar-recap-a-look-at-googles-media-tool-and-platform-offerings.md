@@ -11,7 +11,7 @@ categories:
   - Metrics
   - Mobile
   - Video
-tags:
+tag:
   - analytics
   - Audio/Video
   - content

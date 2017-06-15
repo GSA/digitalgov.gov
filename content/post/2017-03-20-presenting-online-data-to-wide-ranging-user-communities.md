@@ -7,8 +7,8 @@ summary: 'Presenting data online that will serve a wide range of users can be ch
 authors: [rhonda-a-pretlow]
 categories:
   - Data
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - data
   - research
   - user centered design

@@ -8,10 +8,10 @@ authors: [eric-beidel]
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - citizen science

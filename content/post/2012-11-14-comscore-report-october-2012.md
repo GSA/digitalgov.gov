@@ -7,7 +7,7 @@ summary: 'In October 2012, comScore, a Web analytics research company, released&
 authors: [marina-fox]
 categories:
   - Metrics
-tags:
+tag:
   - customer satisfaction
   - Digital Analytics Program
 ---

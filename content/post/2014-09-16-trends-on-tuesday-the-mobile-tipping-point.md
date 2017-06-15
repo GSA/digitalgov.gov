@@ -7,7 +7,7 @@ summary: 'The International Data Corporation (IDC) is forecasting a strong outlo
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - DGU
   - mobile
   - mobile gov community of practice

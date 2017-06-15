@@ -7,7 +7,7 @@ summary: 'I&amp;#8217;m sure many of you have heard the expression &amp;#8220;th
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
 ---
 

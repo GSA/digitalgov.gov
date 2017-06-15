@@ -7,7 +7,7 @@ summary: 'I recently read a disheartening statistic which stated that only 32% o
 authors: [tyrus-manuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

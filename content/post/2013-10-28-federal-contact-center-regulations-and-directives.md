@@ -7,7 +7,7 @@ summary: 'Contact centers operated and managed by federal agencies have to follo
 authors: [tonya-beres]
 categories:
   - Managing Digital
-tags:
+tag:
   - government contact centers
   - privacy
   - section 508

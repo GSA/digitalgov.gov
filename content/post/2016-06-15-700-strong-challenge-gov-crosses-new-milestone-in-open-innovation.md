@@ -7,7 +7,7 @@ summary: 'Challenge.gov, the official website for crowdsourcing and prize compet
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

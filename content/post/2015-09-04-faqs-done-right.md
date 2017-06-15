@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - UX
   - Writing
-tags:
+tag:
   - Plain language
   - Transportation Security Administration
   - TSA

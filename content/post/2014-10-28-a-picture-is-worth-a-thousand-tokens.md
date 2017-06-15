@@ -10,7 +10,7 @@ categories:
   - Our Work
   - Social Media
   - Video
-tags:
+tag:
   - DigitalGov Search
   - Instagram
 ---

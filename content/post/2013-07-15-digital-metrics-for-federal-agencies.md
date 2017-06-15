@@ -8,7 +8,7 @@ authors: [marina-fox]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - customer satisfaction
   - mobile
   - social media

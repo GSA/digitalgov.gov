@@ -7,8 +7,8 @@ summary: 'Lately, I&rsquo;ve looked at how a government agency measures a custom
 authors: [craig-chavez]
 categories:
   - Data
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - Customer Experience
   - CX

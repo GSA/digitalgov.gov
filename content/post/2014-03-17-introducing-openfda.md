@@ -8,7 +8,7 @@ authors: [dr-taha-kass-hout]
 categories:
   - API
   - Data
-tags:
+tag:
   - API
   - cloud
   - FDA

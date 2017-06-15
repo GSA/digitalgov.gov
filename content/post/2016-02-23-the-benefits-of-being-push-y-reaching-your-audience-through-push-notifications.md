@@ -7,7 +7,7 @@ summary: 'Need to get in touch with your audience? Give them a little push. Push
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - OPM

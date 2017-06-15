@@ -8,7 +8,7 @@ authors: [admin]
 categories:
   - API
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
   - United States Navy

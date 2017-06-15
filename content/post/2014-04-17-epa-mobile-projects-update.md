@@ -7,8 +7,8 @@ summary: 'Earth Day is next week, so today instead of featuring one mobile produ
 authors: [jparcell]
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - EPA
   - mobile apps
   - Thursday Mobile Products

@@ -7,7 +7,7 @@ summary: 'The Peace Corps just released a new dataset that lists all of the coun
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - Peace Corps
   - U.S. Department of Agriculture
   - USDA

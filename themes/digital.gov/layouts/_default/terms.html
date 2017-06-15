@@ -1,0 +1,13 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
+{{ end }}
+
+
+{{ define "content" }}
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ range $.Data.Terms.Alphabetical }}
+      <li><a href="#">{{ .Name }}</a> <strong>({{ .Count }})</strong></li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -9,9 +9,9 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - Writing
-tags:
+tag:
   - AIDS.gov
   - content strategy
   - customer service

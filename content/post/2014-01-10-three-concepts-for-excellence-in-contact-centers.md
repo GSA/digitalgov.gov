@@ -9,7 +9,7 @@ categories:
   - Communities
   - Managing Digital
   - "What's New"
-tags:
+tag:
   - AoI
   - Customer Experience
   - customer satisfaction

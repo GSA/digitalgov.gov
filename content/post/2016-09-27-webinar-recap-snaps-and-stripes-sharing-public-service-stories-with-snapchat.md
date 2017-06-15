@@ -10,10 +10,10 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
   - Video
-tags:
+tag:
   - accessibility
   - best practices
   - content

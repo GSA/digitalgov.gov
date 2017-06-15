@@ -9,7 +9,7 @@ categories:
   - Content
   - Social Media
   - Video
-tags:
+tag:
   - YouTube
 ---
 

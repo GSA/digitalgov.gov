@@ -7,7 +7,7 @@ summary: 'As mentioned in previous blog posts, great efforts have been made in c
 authors: [simchah-suveyke-bogin]
 categories:
   - Metrics
-tags:
+tag:
   - Customer Experience
 ---
 

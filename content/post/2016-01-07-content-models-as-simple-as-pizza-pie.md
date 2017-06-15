@@ -7,7 +7,7 @@ summary: 'Open and structured content models assist in the dissemination of info
 authors: [christen-geiler]
 categories:
   - Content
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content models

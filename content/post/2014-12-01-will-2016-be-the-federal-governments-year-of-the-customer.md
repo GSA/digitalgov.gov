@@ -7,7 +7,7 @@ summary: 'As 2014 draws to a close, agencies across the federal government are b
 authors: [stephanie-thum]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - Ex-Im Bank
   - Export-Import Bank of the United States

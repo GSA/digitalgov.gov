@@ -7,7 +7,7 @@ summary: 'When websites were first created back in the 1990s, developers perfect
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - Content Management System
   - DOJ
   - U.S. Department of Justice

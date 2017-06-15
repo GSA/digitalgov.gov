@@ -9,7 +9,7 @@ categories:
   - Content
   - Mobile
   - UX
-tags:
+tag:
   - mobile apps
   - mobile gov
   - user experience

@@ -7,7 +7,7 @@ summary: ' Challenge.gov now hosts the full federal-wide listing of crowdsourcin
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

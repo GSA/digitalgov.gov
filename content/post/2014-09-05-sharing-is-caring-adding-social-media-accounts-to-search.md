@@ -8,7 +8,7 @@ authors: [rachel-mundstock]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - DigitalGov Search
   - Federal Register
   - Instagram

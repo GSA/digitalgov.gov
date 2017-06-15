@@ -8,7 +8,7 @@ authors: [kdaniel]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - Content Management System
   - mobile
   - mobile gov community of practice

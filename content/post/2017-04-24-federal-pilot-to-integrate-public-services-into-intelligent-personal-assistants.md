@@ -9,13 +9,13 @@ categories:
   - Communities
   - Managing Digital
   - Our Work
-tags:
+tag:
   - AI
   - artificial intelligence
   - Artificial Intelligence for Citizen Services Community
   - communities
   - GSA
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - social media
   - SocialGov

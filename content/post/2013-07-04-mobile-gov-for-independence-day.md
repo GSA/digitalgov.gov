@@ -7,7 +7,7 @@ summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government 
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - MobileGov

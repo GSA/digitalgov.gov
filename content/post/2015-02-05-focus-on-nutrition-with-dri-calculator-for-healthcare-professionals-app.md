@@ -7,7 +7,7 @@ summary: 'For those of us who&nbsp;need to get our diet under control&mdash;and 
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Mobile Products Registry
   - ICE
   - native app

@@ -8,7 +8,7 @@ authors: [jenny-johnson]
 categories:
   - Mobile
   - UX
-tags:
+tag:
   - FAFSA
   - Federal Student Aid
   - mobile

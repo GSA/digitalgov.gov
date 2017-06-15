@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - UX
-tags:
+tag:
   - AI
   - artificial intelligence
   - Customer Experience

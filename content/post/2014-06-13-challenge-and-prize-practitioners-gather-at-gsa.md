@@ -8,7 +8,7 @@ authors: [ktrebon]
 categories:
   - Challenges
   - Code
-tags:
+tag:
   - ChallengeGov
   - Challenges and Prizes Community of Practice
   - crowdsourcing

@@ -6,9 +6,9 @@ title: 'Contractor Vehicle Navigator &amp;#8211; Usability Case Study'
 summary: 'When users interact with a website to find information, it is important that we help them find their way by using plain language, clear terminology and visible help text. On December 7, 2012, the DigitalGov User Experience Program&nbsp;helped test the U.S. General Services Administration&amp;#8217;s Contract Vehicle Navigator website. This Navigator site helps contracting officers find'
 authors: [jonathan-rubin]
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - DigitalGov User Experience Program
   - usability
   - usability case study

@@ -8,7 +8,7 @@ authors: [melissa-heintz]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - app
   - mobile
   - mobile apps

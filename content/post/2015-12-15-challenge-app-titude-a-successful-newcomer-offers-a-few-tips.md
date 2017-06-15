@@ -8,7 +8,7 @@ authors: [heather-evans]
 categories:
   - Challenges
   - Monthly Theme
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - data.gov

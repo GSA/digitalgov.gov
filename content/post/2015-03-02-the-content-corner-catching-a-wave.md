@@ -7,7 +7,7 @@ summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, on
 authors: [tyrus-manuel]
 categories:
   - Content
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - NASA

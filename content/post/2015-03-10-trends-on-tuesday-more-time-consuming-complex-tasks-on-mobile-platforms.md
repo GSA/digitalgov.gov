@@ -7,7 +7,7 @@ summary: 'One of the leading mobile app analytics companies, Flurry, released th
 authors: [will-sullivan]
 categories:
   - Mobile
-tags:
+tag:
   - analytics
   - mobile
   - mobile apps

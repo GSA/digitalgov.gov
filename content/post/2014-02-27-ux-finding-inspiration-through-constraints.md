@@ -8,7 +8,7 @@ authors: [david-herring]
 categories:
   - Design
   - UX
-tags:
+tag:
   - user experience
   - USPTO
   - UX

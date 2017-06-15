@@ -7,9 +7,9 @@ summary: ' Uncovering meaningful analytics from months or years of Web metrics i
 authors: [hannah-gladfelter-rubin]
 categories:
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - analytics
   - data
   - EPA

@@ -7,7 +7,7 @@ summary: 'The U.S. Food and Drug Administration&amp;#8217;s new &amp;#8220;DrugS
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - FDA
   - mobile
   - Thursday Mobile Products

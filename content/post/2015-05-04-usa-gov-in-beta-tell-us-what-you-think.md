@@ -8,7 +8,7 @@ authors: [sarah-crane]
 categories:
   - Content
   - Managing Digital
-tags:
+tag:
   - API
   - DAP
   - Digital Analytics Program

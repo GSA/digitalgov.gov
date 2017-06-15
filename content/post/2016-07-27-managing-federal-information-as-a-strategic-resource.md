@@ -7,8 +7,8 @@ summary: 'Summary\: Today, OMB is releasing an update to Circular A-130, the Fed
 authors: [anne-rung, tony-scott, howard-shelanski, marc-groman]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - acquisition
   - Office of Management and Budget
   - OMB

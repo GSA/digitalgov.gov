@@ -7,7 +7,7 @@ summary: 'Gone are the days when you have to drive miles on a hot and humid afte
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - ios
   - mobile apps
   - SSA

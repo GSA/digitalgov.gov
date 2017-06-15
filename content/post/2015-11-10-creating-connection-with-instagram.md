@@ -7,7 +7,7 @@ summary: 'I&rsquo;ve been thinking a lot about Instagram lately. It&rsquo;s pret
 authors: [alyson-olander]
 categories:
   - Social Media
-tags:
+tag:
   - DOI
   - Instagram
   - National Institutes of Health

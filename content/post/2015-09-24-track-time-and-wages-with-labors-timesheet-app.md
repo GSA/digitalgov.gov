@@ -7,7 +7,7 @@ summary: 'Believe it or not, even a couple years ago, I was using pen and paper 
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - native app
   - native apps

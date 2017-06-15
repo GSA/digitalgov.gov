@@ -8,7 +8,7 @@ authors: [lnelson]
 categories:
   - Governance
   - Managing Digital
-tags:
+tag:
   - DOL
   - Mobile Code Catalog
   - open and structured content models

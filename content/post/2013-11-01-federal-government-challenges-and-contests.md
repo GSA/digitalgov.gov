@@ -7,7 +7,7 @@ summary: 'What is a Challenge? In a challenge, a &amp;#8220;seeker&amp;#8221; ch
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - innovation
 ---
 

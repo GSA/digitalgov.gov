@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - Facebook
   - mobile
   - mobile-first

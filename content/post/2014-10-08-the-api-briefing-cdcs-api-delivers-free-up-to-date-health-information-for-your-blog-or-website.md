@@ -8,7 +8,7 @@ authors: [bbrantley]
 categories:
   - API
   - Code
-tags:
+tag:
   - API
   - CDC
   - Centers for Disease Control and Prevention

@@ -7,8 +7,8 @@ summary: 'Have you ever wondered how to measure a customer&rsquo;s experience? I
 authors: [craig-chavez]
 categories:
   - Metrics
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - analytics
   - Customer Experience
   - Customer Experience Community of Practice

@@ -7,7 +7,7 @@ summary: 'Solar System fans, space shuttles are not the only way you can visit a
 authors: [kanika-tolver]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - NASA

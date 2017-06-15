@@ -8,7 +8,7 @@ authors: [tymanuel]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - social media
   - The Content Corner
 ---

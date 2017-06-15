@@ -8,7 +8,7 @@ authors: [jerry-sheehan]
 categories:
   - Data
   - Managing Digital
-tags:
+tag:
   - content
   - data
   - DoD

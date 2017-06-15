@@ -7,7 +7,7 @@ summary: 'As the SEO Specialist for Brighton College, I have come across many fr
 authors: [stephanie-stover]
 categories:
   - Managing Digital
-tags:
+tag:
   - search engine optimization
 ---
 

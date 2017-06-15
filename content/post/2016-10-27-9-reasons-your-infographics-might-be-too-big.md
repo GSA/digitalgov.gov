@@ -10,7 +10,7 @@ categories:
   - Design
   - Managing Digital
   - Social Media
-tags:
+tag:
   - content
   - infographic
   - multimedia

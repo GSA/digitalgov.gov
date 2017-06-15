@@ -7,7 +7,7 @@ summary: 'Employee engagement, evidenced by displays of dedication, persistence,
 authors: [rflagg, john-paul]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - CX
   - DOL

@@ -8,8 +8,8 @@ authors: [beth-martin]
 categories:
   - Mobile
   - Monthly Theme
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - FAA
   - Federal Aviation Administration
   - Federal CrowdSource Mobile Testing Program

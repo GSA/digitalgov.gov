@@ -7,7 +7,7 @@ summary: 'Are you active or retired Coast Guard &mdash; or related to someone wh
 authors: [genevieve-contey]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
 ---

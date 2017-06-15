@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - DOE
   - mobile
   - Mobile UX Guideline 2

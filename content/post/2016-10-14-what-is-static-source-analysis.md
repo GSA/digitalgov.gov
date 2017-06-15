@@ -8,8 +8,8 @@ authors: [greg-walker]
 categories:
   - Code
   - Metrics
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - analytics
   - best practices

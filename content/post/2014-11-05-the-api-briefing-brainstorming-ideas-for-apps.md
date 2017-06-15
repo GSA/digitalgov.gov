@@ -9,7 +9,7 @@ categories:
   - API
   - Data
   - Mobile
-tags:
+tag:
   - data.gov
   - DOT
   - U.S. Department of Agriculture

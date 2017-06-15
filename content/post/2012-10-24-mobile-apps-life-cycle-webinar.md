@@ -7,7 +7,7 @@ summary: 'Are you creating a mobile website or app for your agency? On Tuesday, 
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - webinar

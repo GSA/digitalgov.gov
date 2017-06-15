@@ -7,7 +7,7 @@ summary: 'Does your agency host events, organize meet-ups, or provide training a
 authors: [bsteele]
 categories:
   - Social Media
-tags:
+tag:
   - Terms of Service
 ---
 

@@ -7,7 +7,7 @@ summary: ' You have a question about a project. You ping a coworker, who texts a
 authors: [awichman]
 categories:
   - Social Media
-tags:
+tag:
   - SocialGov Community
   - State
   - TOS

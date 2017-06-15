@@ -8,7 +8,7 @@ authors: [jparcell]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - Customer Experience
   - Government Contact Center Council
   - government contact centers

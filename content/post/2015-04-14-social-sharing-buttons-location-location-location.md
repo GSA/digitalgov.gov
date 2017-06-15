@@ -8,7 +8,7 @@ authors: [sara-smith]
 categories:
   - Metrics
   - Social Media
-tags:
+tag:
   - National Institutes of Health
   - NIH
   - social media

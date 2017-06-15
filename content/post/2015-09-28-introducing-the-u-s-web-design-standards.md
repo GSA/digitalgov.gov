@@ -7,7 +7,7 @@ summary: 'Joanne is a young Army Veteran who is looking to make use of her GI Bi
 authors: [mollie-ruskin, carolyn-dew, maya-benari, colin-macarthur]
 categories:
   - Design
-tags:
+tag:
   - 18F
   - U.S. Digital Service
   - USDS

@@ -7,7 +7,7 @@ summary: ' For months, I&rsquo;ve been trying to figure out how to get leads for
 authors: [myehsha-boone]
 categories:
   - Data
-tags:
+tag:
   - FOIA
   - open data
 ---

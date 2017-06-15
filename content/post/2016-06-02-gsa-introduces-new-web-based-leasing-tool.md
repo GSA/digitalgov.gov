@@ -10,7 +10,7 @@ categories:
   - Design
   - Managing Digital
   - UX
-tags:
+tag:
   - GSA
   - U.S. General Services Administration
   - web-based

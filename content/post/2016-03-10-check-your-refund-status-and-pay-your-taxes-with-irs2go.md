@@ -7,7 +7,7 @@ summary: 'This tax season, it&rsquo;s not just taxpayers expecting a refund who 
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Internal Revenue Service
   - IRS
   - mobile apps

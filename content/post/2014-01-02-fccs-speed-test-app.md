@@ -8,7 +8,7 @@ authors: [admin]
 categories:
   - Code
   - Mobile
-tags:
+tag:
   - FCC
   - mobile
   - mobile apps

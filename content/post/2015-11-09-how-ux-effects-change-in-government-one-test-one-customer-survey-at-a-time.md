@@ -8,7 +8,7 @@ authors: [andreanocesigritz]
 categories:
   - Monthly Theme
   - UX
-tags:
+tag:
   - user experience
   - User Experience Community of Practice
   - UX

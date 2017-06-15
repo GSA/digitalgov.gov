@@ -7,7 +7,7 @@ summary: 'The U.S. Census Bureau today released Census PoP Quiz, a new interacti
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - Census
   - Department of Commerce
   - mobile apps

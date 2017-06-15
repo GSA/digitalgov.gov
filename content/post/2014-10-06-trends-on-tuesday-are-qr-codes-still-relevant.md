@@ -9,8 +9,8 @@ categories:
   - Communities
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - AoI
   - mobile
   - Mobile UX Guideline 5

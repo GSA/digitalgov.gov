@@ -7,8 +7,8 @@ summary: 'Gamification is the practice of using game technology or design princi
 authors: [mike-kruger]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - Department of Commerce
   - gamification
   - mobile

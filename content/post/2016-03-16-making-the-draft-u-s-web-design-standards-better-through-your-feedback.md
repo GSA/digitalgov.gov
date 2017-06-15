@@ -8,7 +8,7 @@ authors: [melody-kramer, carolyn-dew]
 categories:
   - Content
   - UX
-tags:
+tag:
   - 18F
   - Draft Web Design Standards
   - user centered design

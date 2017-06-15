@@ -7,9 +7,9 @@ summary: ' At the U.S. Agency for International Development (USAID),&nbsp;our ne
 authors: [laura-hughes]
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - open data
   - top tasks
   - U.S. Agency for International Development

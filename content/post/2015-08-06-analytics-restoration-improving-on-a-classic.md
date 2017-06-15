@@ -7,7 +7,7 @@ summary: 'Sometimes it is important to take a fresh look at a classic. As we dig
 authors: [hhs-digital-analytics-team]
 categories:
   - Metrics
-tags:
+tag:
   - analytics
   - HHS
   - United States Department of Health and Human Services

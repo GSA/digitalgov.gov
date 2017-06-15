@@ -11,7 +11,7 @@ categories:
   - Content
   - Data
   - Our Work
-tags:
+tag:
   - API
   - Consumer Financial Protection Bureau
   - DigitalGov Search

@@ -7,7 +7,7 @@ summary: '{% img=&quot;https\://s3.amazonaws.com/sitesusa/wp-content/uploads/sit
 authors: [lnelson]
 categories:
   - Social Media
-tags:
+tag:
   - Twitter
 ---
 

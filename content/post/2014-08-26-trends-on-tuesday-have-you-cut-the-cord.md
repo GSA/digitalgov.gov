@@ -7,7 +7,7 @@ summary: 'First, it was party lines. Then, it was the rotary phone. Now, two-in-
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile

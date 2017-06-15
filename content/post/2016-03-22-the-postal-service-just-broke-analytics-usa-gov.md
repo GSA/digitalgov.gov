@@ -8,7 +8,7 @@ authors: [tlowden]
 categories:
   - Data
   - Monthly Theme
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - United States Postal Service

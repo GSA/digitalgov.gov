@@ -7,8 +7,8 @@ summary: 'Performance testing is used to verify that an&nbsp;app&nbsp;or&nbsp;we
 authors: [jparcell]
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - GitHub
   - mobile apps
 ---

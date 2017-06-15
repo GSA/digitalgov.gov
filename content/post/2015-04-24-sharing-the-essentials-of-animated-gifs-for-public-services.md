@@ -8,7 +8,7 @@ authors: [jherman]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - 18F
   - accessibility
   - DGU

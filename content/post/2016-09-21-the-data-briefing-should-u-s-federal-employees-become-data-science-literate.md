@@ -7,8 +7,8 @@ summary: 'The United Kingdom&rsquo;s (UK) Digital Service has researched ways to
 authors: [bbrantley]
 categories:
   - Data
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - data
   - open data
   - The Data Briefing

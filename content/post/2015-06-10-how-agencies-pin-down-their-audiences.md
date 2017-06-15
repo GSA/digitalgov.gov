@@ -8,7 +8,7 @@ authors: [edgardo-morales]
 categories:
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - content strategy

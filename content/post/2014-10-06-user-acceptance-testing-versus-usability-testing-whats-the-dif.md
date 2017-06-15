@@ -8,9 +8,9 @@ authors: [joel-virothaisakun]
 categories:
   - Communities
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - AoI
   - usability
   - user experience

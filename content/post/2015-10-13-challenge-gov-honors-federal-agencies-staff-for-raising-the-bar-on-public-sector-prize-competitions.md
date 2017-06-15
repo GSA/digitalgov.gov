@@ -7,7 +7,7 @@ summary: 'The biggest advocates for the use of challenges in the public sector g
 authors: [eric-beidel]
 categories:
   - Challenges
-tags:
+tag:
   - Bureau of Reclamation
   - ChallengeGov
   - Federal Trade Commission

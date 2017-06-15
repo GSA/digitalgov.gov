@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Social Media
   - Video
-tags:
+tag:
   - app
   - Audio/Video
   - content

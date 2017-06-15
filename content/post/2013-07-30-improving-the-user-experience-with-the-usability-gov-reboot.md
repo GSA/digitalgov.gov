@@ -7,7 +7,7 @@ summary: 'Plan and analyze. Write and design. &nbsp;Test and refine. &nbsp;As We
 authors: [katie-messner]
 categories:
   - UX
-tags:
+tag:
   - content strategy
   - usability
   - user experience

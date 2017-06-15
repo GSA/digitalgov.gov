@@ -7,7 +7,7 @@ summary: 'It&rsquo;s late at night. Your child can&amp;#8217;t sleep\: She has s
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - FDA
   - responsive web design
   - Thursday Mobile Products

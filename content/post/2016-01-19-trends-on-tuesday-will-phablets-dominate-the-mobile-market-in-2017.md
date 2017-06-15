@@ -7,7 +7,7 @@ summary: 'Phablets, once mocked for their large size, may&nbsp;be the next big f
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile gov
   - MobileGov

@@ -7,7 +7,7 @@ summary: 'There is some confusion about how &amp;#8220;ideation&amp;#8221; fits 
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - crowdsourcing
   - Federal Trade Commission
   - FTC

@@ -8,8 +8,8 @@ authors: [kate-garklavs, nicole-fenton]
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - agile
   - content strategy

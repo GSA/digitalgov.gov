@@ -10,7 +10,7 @@ categories:
   - Challenges
   - Code
   - Managing Digital
-tags:
+tag:
   - ChallengeGov
   - mobile apps
   - OPM

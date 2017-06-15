@@ -7,7 +7,7 @@ summary: 'In my last posting, I argued that federal agencies should consider mic
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - Terms of Service
   - U.S. Department of Agriculture

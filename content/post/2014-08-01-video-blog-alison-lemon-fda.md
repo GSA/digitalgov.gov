@@ -7,7 +7,7 @@ summary: 'We wanted to learn a little more about the Office of Women&amp;#8217;s
 authors: [andreanocesigritz]
 categories:
   - Social Media
-tags:
+tag:
   - FDA
   - SocialGov Community
   - U.S. Food and Drug Administration

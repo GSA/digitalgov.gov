@@ -11,7 +11,7 @@ categories:
   - Social Media
   - Video
   - Writing
-tags:
+tag:
   - accessibility
   - crowdsourcing
   - FCC

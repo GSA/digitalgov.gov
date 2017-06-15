@@ -7,7 +7,7 @@ summary: 'In case you missed it\: the Data.gov team recently hosted DigitalGov U
 authors: [rebecca-williams]
 categories:
   - Data
-tags:
+tag:
   - data.gov
   - metadata
   - open data

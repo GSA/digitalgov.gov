@@ -7,7 +7,7 @@ summary: ' I have to admit my knowledge of slugs and snails was limited to the f
 authors: [nramprasad]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - native app
   - SSA

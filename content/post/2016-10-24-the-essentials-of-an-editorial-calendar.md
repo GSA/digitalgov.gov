@@ -7,7 +7,7 @@ summary: 'Anyone engaged in content marketing or content production probably own
 authors: [victoria-wales]
 categories:
   - Content
-tags:
+tag:
   - content
   - content strategy
   - content syndication

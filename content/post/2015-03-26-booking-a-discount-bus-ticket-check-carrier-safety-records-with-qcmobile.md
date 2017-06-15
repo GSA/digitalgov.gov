@@ -7,7 +7,7 @@ summary: 'The new app from the Department of Transportation&rsquo;s Federal Moto
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - DOT
   - mobile
   - mobile apps

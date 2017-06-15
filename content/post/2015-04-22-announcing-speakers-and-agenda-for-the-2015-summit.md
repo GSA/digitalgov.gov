@@ -8,7 +8,7 @@ authors: [apiazza]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - DigitalGov Summit
 ---
 

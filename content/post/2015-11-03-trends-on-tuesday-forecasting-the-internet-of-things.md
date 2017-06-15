@@ -7,7 +7,7 @@ summary: 'An industry group tracking the growth and production of the &ldquo;Int
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - Internet of things
   - mobile
   - mobile apps

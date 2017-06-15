@@ -7,9 +7,9 @@ summary: 'There&rsquo;s more than one way to harness the wisdom of the crowd. In
 authors: [awichman]
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
-tags:
+tag:
   - Bureau of Reclamation
   - CFPB
   - ChallengeGov

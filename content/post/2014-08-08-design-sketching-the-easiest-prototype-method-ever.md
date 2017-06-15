@@ -9,7 +9,7 @@ categories:
   - Design
   - Mobile
   - UX
-tags:
+tag:
   - DOL
   - federal user experience community
   - mobile apps

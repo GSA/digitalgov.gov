@@ -7,7 +7,7 @@ summary: 'What It Is The U.S. Department of Labor sought to go beyond merely mak
 authors: [gray-brooks, michael-pulsifer]
 categories:
   - Code
-tags:
+tag:
   - DOL
   - U.S. Department of Labor
 ---

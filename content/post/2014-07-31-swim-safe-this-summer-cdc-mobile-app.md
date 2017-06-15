@@ -7,7 +7,7 @@ summary: 'You don&amp;#8217;t have to try too hard to get people into the water 
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile apps

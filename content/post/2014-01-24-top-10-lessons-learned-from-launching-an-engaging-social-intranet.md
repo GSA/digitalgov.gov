@@ -7,7 +7,7 @@ summary: 'On January 16th, the Federal Communicators Network gathered at the Nat
 authors: [mary-king]
 categories:
   - Social Media
-tags:
+tag:
   - FCN
   - NARA
 ---

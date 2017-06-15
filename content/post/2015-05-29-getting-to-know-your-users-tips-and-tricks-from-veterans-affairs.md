@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - UX
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

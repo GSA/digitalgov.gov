@@ -8,7 +8,7 @@ authors: [marina-fox]
 categories:
   - Data
   - Metrics
-tags:
+tag:
   - DAP
   - Digital Analytics Program
   - mobile

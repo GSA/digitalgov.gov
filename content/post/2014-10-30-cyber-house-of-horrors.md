@@ -7,7 +7,7 @@ summary: 'Ghosts. Ghouls. Zombies. Multi-stakeholder content audits. This Hallow
 authors: [jordan-higgins]
 categories:
   - Social Media
-tags:
+tag:
   - Defense Intelligence Agency
   - DIA
   - Internet of things

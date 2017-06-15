@@ -7,7 +7,7 @@ summary: 'Latinos appear to be adapting to mobile technology faster than other g
 authors: [michael-niedzwiecki]
 categories:
   - Mobile
-tags:
+tag:
   - GobiernoUSAgov
   - multilingual
   - Trends on Tuesday

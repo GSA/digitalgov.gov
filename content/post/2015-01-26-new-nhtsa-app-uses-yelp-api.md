@@ -9,7 +9,7 @@ categories:
   - Code
   - Mobile
   - Social Media
-tags:
+tag:
   - DOT
   - mobile apps
   - National Highway Traffic Safety Administration

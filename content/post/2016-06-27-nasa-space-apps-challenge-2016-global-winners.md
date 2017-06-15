@@ -8,7 +8,7 @@ authors: [beth-beck]
 categories:
   - Challenges
   - Mobile
-tags:
+tag:
   - apps challenges
   - challenges and prize competitions
   - crowdsourcing

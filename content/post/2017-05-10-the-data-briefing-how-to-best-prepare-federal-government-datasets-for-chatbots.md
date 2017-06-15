@@ -9,7 +9,7 @@ categories:
   - Data
   - Mobile
   - Social Media
-tags:
+tag:
   - AI
   - apps
   - artificial intelligence

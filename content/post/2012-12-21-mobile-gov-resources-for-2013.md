@@ -7,7 +7,7 @@ summary: 'With mobile use growing exponentially and federal agencies implementin
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - API
   - DHS
   - DOL

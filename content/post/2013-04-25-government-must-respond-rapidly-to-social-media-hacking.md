@@ -7,7 +7,7 @@ summary: ' [Editor&amp;#8217;s note\: Please watch the&nbsp;Jan. 15 , 2015, webi
 authors: [jherman]
 categories:
   - Social Media
-tags:
+tag:
   - security
   - social media
   - SocialGov

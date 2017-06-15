@@ -7,7 +7,7 @@ summary: 'The U.S. Department of State has released a mobile app that informs an
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - Thursday Mobile Products
   - U.S. Department of State

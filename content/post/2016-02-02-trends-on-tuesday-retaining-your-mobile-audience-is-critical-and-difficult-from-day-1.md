@@ -7,7 +7,7 @@ summary: 'Google Product Director and author, Luke Wroblewski, wrote a piece abo
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - mobile apps
   - native app

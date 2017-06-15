@@ -8,7 +8,7 @@ authors: [mary-ann-monroe]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

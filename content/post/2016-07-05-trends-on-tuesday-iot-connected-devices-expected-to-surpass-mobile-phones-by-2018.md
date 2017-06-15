@@ -7,7 +7,7 @@ summary: 'International telecommunications network operator, Ericsson, released 
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - Internet of things
   - mobile
   - Trends on Tuesday

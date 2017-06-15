@@ -8,7 +8,7 @@ authors: [tjohnson]
 categories:
   - Mobile
   - Social Media
-tags:
+tag:
   - Facebook
   - Mobile User Experience Guidelines
   - Mobile UX Guideline 1

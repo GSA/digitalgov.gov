@@ -8,7 +8,7 @@ authors: [tymanuel]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - BLM
   - content strategy
   - social media

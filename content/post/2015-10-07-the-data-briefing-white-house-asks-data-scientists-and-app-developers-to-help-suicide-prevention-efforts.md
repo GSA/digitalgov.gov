@@ -7,7 +7,7 @@ summary: 'The White House issued a call on September 30, 2015, for data scientis
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - data

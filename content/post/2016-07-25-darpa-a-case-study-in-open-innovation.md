@@ -7,9 +7,9 @@ summary: 'You may not know it, but the Defense Advanced Research Projects Agency
 authors: [eric-beidel]
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Managing Digital
-tags:
+tag:
   - ChallengeGov
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

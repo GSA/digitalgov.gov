@@ -7,7 +7,7 @@ summary: ' Mobile World Congress, the world&rsquo;s largest mobile infrastructur
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - Internet of things
   - mobile
   - Mobile UX Guideline 1

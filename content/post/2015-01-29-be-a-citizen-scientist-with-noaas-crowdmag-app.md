@@ -7,7 +7,7 @@ summary: ''
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - Federal Mobile Products Registry
   - mobile apps
   - National Oceanic and Atmospheric Administration

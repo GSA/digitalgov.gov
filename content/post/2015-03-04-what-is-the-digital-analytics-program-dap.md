@@ -8,7 +8,7 @@ authors: [marina-fox, tlowden]
 categories:
   - Metrics
   - Our Work
-tags:
+tag:
   - analytics
   - customer satisfaction
   - DAP

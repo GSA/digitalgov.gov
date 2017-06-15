@@ -8,10 +8,10 @@ authors: [robin-thottungal, kris-rowley]
 categories:
   - API
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Data
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - API
   - apps challenges
   - ChallengeGov

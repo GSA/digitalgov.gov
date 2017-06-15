@@ -7,7 +7,7 @@ summary: 'I&amp;#8217;ll be honest\: When I had only heard the name of the new m
 authors: [admin]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - mobile apps

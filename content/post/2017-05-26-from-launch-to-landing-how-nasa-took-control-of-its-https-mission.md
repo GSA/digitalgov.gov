@@ -7,8 +7,8 @@ summary: '18F Editor&rsquo;s note\: This is a guest post by Karim Said of NASA. 
 authors: [karim-said]
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - 18F
   - DHS
   - GSA

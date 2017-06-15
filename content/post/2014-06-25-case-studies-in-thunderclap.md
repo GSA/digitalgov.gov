@@ -7,7 +7,7 @@ summary: 'Now that Thunderclap has been approved for government use for nearly a
 authors: [alison-lemon]
 categories:
   - Social Media
-tags:
+tag:
   - EPA
   - FDA
   - HHS

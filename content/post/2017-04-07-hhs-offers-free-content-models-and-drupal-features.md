@@ -7,7 +7,7 @@ summary: 'Related Event\:&nbsp;Create Once, Publish Everywhere Applied&mdash;HHS
 authors: [christen-geiler]
 categories:
   - Content
-tags:
+tag:
   - CMS
   - content
   - Content Management System

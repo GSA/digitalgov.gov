@@ -7,7 +7,7 @@ summary: 'Guest post by Curtis Robert Burns, better known as Blogger Bob, at the
 authors: [blogger-bob]
 categories:
   - Social Media
-tags:
+tag:
   - social media
 ---
 

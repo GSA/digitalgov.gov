@@ -8,7 +8,7 @@ authors: [ktrebon]
 categories:
   - Communities
   - Monthly Theme
-tags:
+tag:
   - communities
   - DGU
   - Digital Analytics Program

@@ -7,7 +7,7 @@ summary: 'The Plain Language Action and Information Network (PLAIN) is the offic
 authors: [wendy-wagner-smith]
 categories:
   - Writing
-tags:
+tag:
   - Plain language
   - Plain Writing Act of 2010
 ---

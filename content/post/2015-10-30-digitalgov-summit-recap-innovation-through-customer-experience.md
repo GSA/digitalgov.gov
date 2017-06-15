@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Managing Digital
   - Our Work
-tags:
+tag:
   - Customer Experience
   - customer satisfaction
   - customer service

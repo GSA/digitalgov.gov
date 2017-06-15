@@ -7,7 +7,7 @@ summary: 'The contest is over, but your work isn&rsquo;t finished. Maintain a po
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - innovation
   - mobile apps
 ---

@@ -9,7 +9,7 @@ categories:
   - Code
   - Design
   - Monthly Theme
-tags:
+tag:
   - The Data Briefing
   - U.S. Department of Agriculture
   - USDA

@@ -8,7 +8,7 @@ authors: [tyrus-manuel]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - Administrative Office of the United States Courts
   - content strategy
   - The Content Corner

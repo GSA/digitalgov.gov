@@ -8,7 +8,7 @@ authors: [rosetta-carrington-lue]
 categories:
   - Managing Digital
   - Monthly Theme
-tags:
+tag:
   - Customer Experience
   - government contact centers
   - social media

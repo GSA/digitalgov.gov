@@ -9,8 +9,8 @@ categories:
   - Data
   - Metrics
   - Our Work
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - analytics
   - DAP
   - Digital Analytics Program

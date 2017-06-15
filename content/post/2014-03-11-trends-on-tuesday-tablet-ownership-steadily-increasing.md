@@ -7,7 +7,7 @@ summary: 'Tablet ownership continues to rise, 44% of Americans now owning one, a
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - responsive web design
   - Trends on Tuesday
 ---

@@ -8,7 +8,7 @@ authors: [andreanocesigritz]
 categories:
   - Code
   - Monthly Theme
-tags:
+tag:
   - analytics.usa.gov
   - CFPB
   - data

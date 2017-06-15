@@ -7,9 +7,9 @@ summary: 'We all do it. Whether on Twitter, Facebook, or the comment section on 
 authors: [emileigh-barnes, chris-goranson, phoebe-espiritu]
 categories:
   - Content
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - Writing
-tags:
+tag:
   - accessibility
   - content
   - Plain language

@@ -8,7 +8,7 @@ authors: [tymanuel]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - Administrative Office of the United States Courts
   - infographic
   - mobile

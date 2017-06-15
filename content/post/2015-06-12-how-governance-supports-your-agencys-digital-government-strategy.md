@@ -8,8 +8,8 @@ authors: [robert-jacoby]
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - HHS
   - United States Department of Health and Human Services
 ---

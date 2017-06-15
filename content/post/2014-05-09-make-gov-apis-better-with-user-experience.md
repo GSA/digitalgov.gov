@@ -8,9 +8,9 @@ authors: [jonathan-rubin]
 categories:
   - API
   - Code
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - 18F
   - API
   - API keys

@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Content
   - Social Media
-tags:
+tag:
   - blog
   - Law Library of Congress
   - social media

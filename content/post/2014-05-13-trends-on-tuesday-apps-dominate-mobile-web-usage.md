@@ -7,7 +7,7 @@ summary: '&ldquo;There&rsquo;s an app for that.&rdquo; New data from app analyti
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - Facebook
   - mobile apps
   - Mobile UX Guideline 5

@@ -7,7 +7,7 @@ summary: 'When I first started coding using BASIC on the Commodore 64, I rarely 
 authors: [bbrantley]
 categories:
   - API
-tags:
+tag:
   - API
   - U.S. Department of Labor
   - Wednesday API Briefing

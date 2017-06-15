@@ -7,7 +7,7 @@ summary: 'Hispanics are one of fastest growing demographics in the U.S. But like
 authors: [lmartinez, jessica-milcetich, victoria-wales, edgardo-morales]
 categories:
   - Social Media
-tags:
+tag:
   - CDC
   - Centers for Disease Control and Prevention
   - Facebook

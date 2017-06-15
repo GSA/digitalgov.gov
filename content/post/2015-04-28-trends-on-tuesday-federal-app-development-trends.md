@@ -7,7 +7,7 @@ summary: 'Mobile apps meet real world needs. App development is not a homogenous
 authors: [awichman]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile App Development Program
   - mobile apps

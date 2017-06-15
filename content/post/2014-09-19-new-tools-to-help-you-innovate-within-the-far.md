@@ -7,7 +7,7 @@ summary: 'Outdated development practices and narrow interpretations of acquisiti
 authors: [andreanocesigritz]
 categories:
   - Managing Digital
-tags:
+tag:
   - regulation
 ---
 

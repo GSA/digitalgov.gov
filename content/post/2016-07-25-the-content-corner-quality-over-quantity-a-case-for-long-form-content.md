@@ -10,7 +10,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-tags:
+tag:
   - analytics
   - analytics.usa.gov
   - content

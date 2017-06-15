@@ -7,7 +7,7 @@ summary: 'At the Digital Analytics Program (DAP), some of the most frequently as
 authors: [marina-fox]
 categories:
   - Metrics
-tags:
+tag:
   - analytics
   - DAP
   - data

@@ -7,7 +7,7 @@ summary: ' Cloud Computing enables convenient, on-demand access to, and rapid de
 authors: [matt-goodrich]
 categories:
   - Managing Digital
-tags:
+tag:
   - cloud
   - security
 ---

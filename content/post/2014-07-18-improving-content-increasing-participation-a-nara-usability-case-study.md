@@ -8,9 +8,9 @@ authors: [hannah-gladfelter-rubin]
 categories:
   - Content
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
-tags:
+tag:
   - analytics
   - Library of Congress
   - LOC

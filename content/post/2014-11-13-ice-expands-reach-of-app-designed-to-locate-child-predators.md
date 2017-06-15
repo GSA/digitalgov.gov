@@ -7,7 +7,7 @@ summary: 'Catching child predators? There&amp;#8217;s an app for that, and it&am
 authors: [kdowney]
 categories:
   - Mobile
-tags:
+tag:
   - ICE
   - mobile apps
   - multilingual

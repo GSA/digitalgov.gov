@@ -7,7 +7,7 @@ summary: 'Tackling technology tasks just got easier. Recently, federal agencies 
 authors: [awichman, dan-kenny]
 categories:
   - Social Media
-tags:
+tag:
   - Federal Reserve Board
   - FRB
   - GSA

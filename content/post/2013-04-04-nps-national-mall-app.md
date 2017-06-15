@@ -7,7 +7,7 @@ summary: 'The National Park Service offers 3 mobile apps to create mobile experi
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - mobile apps
   - mobile gov
   - NPS

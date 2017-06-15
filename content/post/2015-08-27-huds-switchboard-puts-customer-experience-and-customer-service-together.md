@@ -7,7 +7,7 @@ summary: 'Customer experience is about making sure needs are met. It&rsquo;s cer
 authors: [zachary-lerner]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
   - customer service
   - HUD

@@ -8,7 +8,7 @@ authors: [tmarcoullier]
 categories:
   - Challenges
   - Our Work
-tags:
+tag:
   - innovation
 ---
 

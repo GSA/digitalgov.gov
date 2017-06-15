@@ -7,8 +7,8 @@ summary: 'Have you ever wished you could get inside the mind of Google? To figur
 authors: [cliff-tyllick]
 categories:
   - Content
-  - 'Strategy &amp; Policy'
-tags:
+  - 'Strategy and Policy'
+tag:
   - search engine optimization
 ---
 

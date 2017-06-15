@@ -7,7 +7,7 @@ summary: 'If you are a coastal resident, go to the beach, or are interested in d
 authors: [tmarcoullier]
 categories:
   - Challenges
-tags:
+tag:
   - ChallengeGov
   - FCPCCS
   - GitHub

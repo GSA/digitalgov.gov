@@ -8,7 +8,7 @@ authors: [jessica-milcetich]
 categories:
   - Accessibility
   - Social Media
-tags:
+tag:
   - accessibility
   - USAgov
 ---

@@ -8,7 +8,7 @@ authors: [wsullivan]
 categories:
   - Managing Digital
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 2
   - Mobile UX Guideline 5

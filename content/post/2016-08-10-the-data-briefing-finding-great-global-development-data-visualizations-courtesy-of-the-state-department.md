@@ -7,7 +7,7 @@ summary: 'Federal agencies have been releasing some fascinating data visualizati
 authors: [bbrantley]
 categories:
   - Data
-tags:
+tag:
   - data
   - data visualization
   - open data

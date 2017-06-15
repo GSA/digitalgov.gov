@@ -7,7 +7,7 @@ summary: 'In my last post I talked about how we&rsquo;re kicking off our Custome
 authors: [martha-dorris]
 categories:
   - Managing Digital
-tags:
+tag:
   - Customer Experience
 ---
 

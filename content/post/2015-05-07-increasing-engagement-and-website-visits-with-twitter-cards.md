@@ -7,7 +7,7 @@ summary: 'May is #WorldTradeMonth and each year the U.S. Trade and Development A
 authors: [steve-lewis]
 categories:
   - Social Media
-tags:
+tag:
   - social media
   - Twitter
 ---

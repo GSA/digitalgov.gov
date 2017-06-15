@@ -8,8 +8,8 @@ authors: [jparcell]
 categories:
   - Accessibility
   - Mobile
-  - 'User Testing &amp; Research'
-tags:
+  - 'User Testing and Research'
+tag:
   - mobile apps
   - usability testing
   - UX

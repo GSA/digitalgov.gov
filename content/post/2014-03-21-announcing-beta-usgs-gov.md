@@ -8,7 +8,7 @@ authors: [scott-horvath]
 categories:
   - Content
   - Mobile
-tags:
+tag:
   - United States Geological Survey
   - USGS
 ---

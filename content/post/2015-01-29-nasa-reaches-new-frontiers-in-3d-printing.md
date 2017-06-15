@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Code
   - Monthly Theme
-tags:
+tag:
   - challenges and prize competitions
   - NASA
   - National Institutes of Health

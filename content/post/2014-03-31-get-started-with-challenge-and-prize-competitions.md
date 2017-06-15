@@ -7,7 +7,7 @@ summary: 'Interested in running a challenge and prize competition, but don&amp;#
 authors: [ktrebon]
 categories:
   - Challenges
-tags:
+tag:
   - apps challenges
   - ChallengeGov
   - challenges and prize competitions

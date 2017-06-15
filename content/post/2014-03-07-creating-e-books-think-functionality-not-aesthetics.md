@@ -10,7 +10,7 @@ categories:
   - Design
   - Mobile
   - Writing
-tags:
+tag:
   - Consumer Action Handbook
   - DoD
   - DOL

@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Content
   - Monthly Theme
-tags:
+tag:
   - analytics
   - DigitalGov Search
   - DigitalGov User Experience Program

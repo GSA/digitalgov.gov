@@ -7,7 +7,7 @@ summary: 'On June 1st and 2nd, more than 11,000&nbsp;civic activists, technology
 authors: [lnelson]
 categories:
   - Code
-tags:
+tag:
   - National Day of Civic Hacking
   - open government
   - White House

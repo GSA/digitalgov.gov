@@ -7,7 +7,7 @@ summary: 'Comscore released new data this month about trends in the smartphone s
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - native app
   - native apps

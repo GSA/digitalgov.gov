@@ -7,7 +7,7 @@ summary: ' It&rsquo;s no secret, if you want to reach Millennials, mobile is a g
 authors: [tjohnson]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - mobile-first

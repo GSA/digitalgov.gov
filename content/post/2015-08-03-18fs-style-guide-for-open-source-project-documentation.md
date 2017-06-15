@@ -8,7 +8,7 @@ authors: [melody-kramer]
 categories:
   - Code
   - Writing
-tags:
+tag:
   - 18F
   - GitHub
   - open source

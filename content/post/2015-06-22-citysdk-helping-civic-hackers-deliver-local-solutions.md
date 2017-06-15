@@ -8,7 +8,7 @@ authors: [tyrone-grandison]
 categories:
   - API
   - Data
-tags:
+tag:
   - API
   - Census
   - data

@@ -8,7 +8,7 @@ authors: [will-slack]
 categories:
   - Code
   - Managing Digital
-tags:
+tag:
   - 18F
 ---
 

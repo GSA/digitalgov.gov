@@ -7,7 +7,7 @@ summary: 'This week marks a special anniversary for GSA as we celebrate our Data
 authors: [david-shive]
 categories:
   - Data
-tags:
+tag:
   - cloud
   - data
   - FAS

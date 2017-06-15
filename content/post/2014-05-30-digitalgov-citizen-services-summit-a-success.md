@@ -15,7 +15,7 @@ categories:
   - Our Work
   - Social Media
   - UX
-tags:
+tag:
   - DigitalGov Summit
   - mobile
   - Recaps

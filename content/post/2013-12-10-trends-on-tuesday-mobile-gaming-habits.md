@@ -7,7 +7,7 @@ summary: ' We&amp;#8217;ve reported before that playing games is one of the most
 authors: [jparcell]
 categories:
   - Mobile
-tags:
+tag:
   - CDC
   - gamification
   - mobile

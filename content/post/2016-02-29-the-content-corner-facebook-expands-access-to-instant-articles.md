@@ -9,7 +9,7 @@ categories:
   - Content
   - Monthly Theme
   - Social Media
-tags:
+tag:
   - content models
   - Facebook
   - open and structured content models

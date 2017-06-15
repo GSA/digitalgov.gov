@@ -7,7 +7,7 @@ summary: ' Yahoo&rsquo;s mobile analytics division, Flurry, released an interest
 authors: [wsullivan]
 categories:
   - Mobile
-tags:
+tag:
   - mobile
   - Mobile UX Guideline 5
   - native app

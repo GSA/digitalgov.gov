@@ -7,7 +7,7 @@ summary: 'Summary\: Today, the Administration directed a series of actions to co
 authors: [tony-scott]
 categories:
   - Managing Digital
-tags:
+tag:
   - Office of Management and Budget
   - OMB
 ---
