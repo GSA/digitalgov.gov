@@ -8,7 +8,7 @@ authors: [awichman]
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - AoI
@@ -46,7 +46,7 @@ More agencies are taking concrete steps to institutionalize challenge and prize 
 
 [Citizen science](http://scistarter.com/page/Citizen%20Science.html) and crowdsourcing are in an earlier stage of maturity in government. There are citizen science projects which have existed for many years, such as [Nature’s Notebook](https://www.usanpn.org/natures_notebook) and environmental monitoring, but Gustetic said those projects were largely conducted in silos and contained to specific types of problems.
 
-“In recent years, driven by new Communities of Practice such as the [Federal Community of Practice for Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-and-citizen-science), as well as increased use of citizen science in specific areas like climate, we’ve seen a growth of interest in institutionalizing citizen science,” Gustetic said. “There is less policy than on prizes and challenges, and we’re looking to create additional strategy and support. We’re in an earlier stage of maturity, even though some of these projects have been happening for decades. What’s new is making them a more widespread tool in federal government.”
+“In recent years, driven by new Communities of Practice such as the [Federal Community of Practice for Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-citizen-science), as well as increased use of citizen science in specific areas like climate, we’ve seen a growth of interest in institutionalizing citizen science,” Gustetic said. “There is less policy than on prizes and challenges, and we’re looking to create additional strategy and support. We’re in an earlier stage of maturity, even though some of these projects have been happening for decades. What’s new is making them a more widespread tool in federal government.”
 
 In November, OSTP began developing an [Open Innovation Toolkit](http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government) for citizen science and crowdsourcing, with the goal of empowering more employees to get involved in 2015 and beyond.
 

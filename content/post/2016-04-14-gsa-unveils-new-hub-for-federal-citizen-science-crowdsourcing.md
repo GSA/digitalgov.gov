@@ -6,7 +6,7 @@ title: 'GSA Unveils New Hub for Federal Citizen Science &amp;#038; Crowdsourcing
 summary: 'Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out? There&rsquo;s help out there, and now that help is easier than ever to find.'
 authors: [kelly-olson]
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - ChallengeGov
   - citizen science
@@ -41,7 +41,7 @@ Now, onto the new site, which was developed in partnership with the Woodrow Wils
 CitizenScience.gov makes it easy for agencies to advertise, find and learn how to run citizen science and crowdsourcing projects.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Federal-Crowdsourcing-and-Citizen-Science-Catalog.jpg" alt="Federal Crowdsourcing and Citizen Science Catalog listing page with data visualization map" %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Federal-crowdsourcing-citizen-science-Catalog.jpg" alt="Federal Crowdsourcing and Citizen Science Catalog listing page with data visualization map" %}
 
 The site has three main features:
 

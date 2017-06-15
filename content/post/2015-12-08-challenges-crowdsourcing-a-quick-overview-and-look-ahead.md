@@ -7,7 +7,7 @@ summary: 'This month we&rsquo;re highlighting articles about challenge competiti
 authors: [eric-beidel]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - ChallengeGov
@@ -48,7 +48,7 @@ It’s small wonder, then, that so many agencies are turning to citizen science 
   * [The Environmental Protection Agency’s effort](https://ccsinventory.wilsoncenter.org/#projectId/228) to measure and address the impacts of transit and air pollution on children’s health
   * [The National Park Service’s pilot program](http://www.nps.gov/rlc/continentaldivide/international-partnerships.htm) that allows students to study species present in both the Rocky Mountains and a park in Costa Rica.
 
-The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
+The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-citizen-science/) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
 
 The partnership between GSA and OSTP also will help establish coordinators at each agency who can help manage contributions to this database.
 

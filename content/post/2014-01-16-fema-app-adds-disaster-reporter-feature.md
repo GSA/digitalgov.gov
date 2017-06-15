@@ -6,7 +6,7 @@ title: 'FEMA App adds &amp;#8216;Disaster Reporter&amp;#8217; feature'
 summary: 'The Federal Emergency Management Agency (FEMA) is taking the well-known slogan, &amp;#8220;See something, say something,&amp;#8221;&nbsp;to the crowd. Consider it more &amp;#8220;See something, submit something.&amp;#8221; Harnessing the power of citizen intelligence to understand and respond to disasters, FEMA in late 2013 launched a new feature in its'
 authors: [admin]
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Mobile
   - Social Media
 tag:

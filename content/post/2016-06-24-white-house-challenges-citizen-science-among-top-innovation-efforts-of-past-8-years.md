@@ -7,7 +7,7 @@ summary: 'The White House this week released a report detailing the impact of 10
 authors: [eric-beidel]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - apps challenges
   - ChallengeGov

@@ -1,3 +1,0 @@
----
-title: "crowdsourcing--citizen-science"
----

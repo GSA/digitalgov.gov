@@ -4,10 +4,17 @@
 
 
 {{ define "content" }}
+  {{ $data := .Data }}
   <h1>{{ .Title }}</h1>
+
   <ul>
-    {{ range $.Data.Terms.Alphabetical }}
-      <li><a href="#">{{ .Name }}</a> <strong>({{ .Count }})</strong></li>
+    {{ range $i, $e := $.Data.Terms.Alphabetical }}
+      {{ $thedestination := $e.Name | urlize }}
+      {{ $thepath := printf "/%s/%s/" $.Data.Plural $thedestination }}
+      {{ range $term := first 1 (where $.Site.Pages ".URL" $thepath ) }}
+        <li><a href="{{ $term.URL }}">{{ $term.Title }} <strong>({{ $e.Count }})</strong>
+        </li>
+      {{ end }}
     {{ end }}
   </ul>
 {{ end }}

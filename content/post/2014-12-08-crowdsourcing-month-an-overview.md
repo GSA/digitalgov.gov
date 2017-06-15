@@ -7,7 +7,7 @@ summary: 'This month we&amp;#8217;ll be highlighting articles about crowdsourcin
 authors: [tmarcoullier]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - CFPB
@@ -67,7 +67,7 @@ Citizen science is the hot new topic in open crowdsourcing efforts. These progra
 
 Another success story is from National Archives and Records Administration (NARA), which developed the <a href="http://www.archives.gov/citizen-archivist/" target="_blank">Citizen Archivist Dashboard</a>. Contributors tag and document transcription to archival records. More than 170,000 volunteers indexed 132 million names of the 1940 Census in only five months, which NARA could not have done alone.
 
-The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/) and [Challenges & Prizes](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") Communities of Practice. Some details:
+The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-citizen-science/) and [Challenges & Prizes](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") Communities of Practice. Some details:
 
 > Citizen science and crowdsourcing are powerful tools that can help federal agencies:
 > 

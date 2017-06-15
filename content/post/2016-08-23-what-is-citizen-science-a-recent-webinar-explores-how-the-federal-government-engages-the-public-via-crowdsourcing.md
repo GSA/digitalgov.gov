@@ -6,7 +6,7 @@ title: 'What is Citizen Science?&nbsp;A Recent Webinar Explores How the Federal 
 summary: 'From the National Park Service&nbsp;(NPS) to the Centers for Disease Control and Prevention (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.'
 authors: [zohaa-ahmad]
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - CDC
   - Centers for Disease Control and Prevention

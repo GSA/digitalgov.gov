@@ -8,7 +8,7 @@ authors: [eric-beidel]
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Managing Digital
   - 'Strategy and Policy'
 tag:

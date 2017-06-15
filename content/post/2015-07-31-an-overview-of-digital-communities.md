@@ -33,7 +33,7 @@ Here is a list of some communities working in the digital arena:
   * [18F /Developer Program](http://18f.github.io/API-All-the-X/ "18 F slash Developer Program")
   * CIO Council: [Accessibility Community of Practice](https://cio.gov/about/groups/accessibility-cop/)
   * CIO Council: [Privacy Community of Practice](https://cio.gov/about/groups/privacy-cop/)
-  * [Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-and-citizen-science)
+  * [Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-citizen-science)
   * [Drupal for Government](https://twitter.com/govdrupal)
   * [eCPIC](https://www.ecpic.gov/) Federal Steering Committee (FESCom)
   * [Federal Communicators Network](http://www.fedcommnetwork.blogspot.com/)

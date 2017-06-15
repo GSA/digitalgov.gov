@@ -8,7 +8,7 @@ authors: [tmarcoullier]
 categories:
   - Challenges
   - Code
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - crowdsourcing
   - Department of Commerce

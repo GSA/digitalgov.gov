@@ -7,7 +7,7 @@ summary: 'Crowdsourcing and prize competitions can take many forms, which makes 
 authors: [dustin-renwick]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - challenges and prize competitions

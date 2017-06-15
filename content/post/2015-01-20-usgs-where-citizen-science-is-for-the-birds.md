@@ -7,7 +7,7 @@ summary: '&amp;#8220;I tell the interns\: In this lab, we&amp;#8217;re all about
 authors: [tmarcoullier]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - ChallengeGov
   - citizen science
@@ -46,4 +46,4 @@ Amateur and hobby scientists are becoming more important to niche projects, as e
 
 The full articles and accompanying video and photos are worth the time to get a deep understanding of the impact and reach of crowdsourcing in government programs. And then I recommend you continue on to find an area of interest to join or start your own agency program in a way that engages citizens to partner in your mission.
 
-For more information about federal crowdsourcing programs, go to <a title="about challenge dot gov" href="http://challenge.gov/about" target="_blank">challenge.gov/about</a> and the <a href="http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-and-citizen-science" target="_blank">federal community of practice for citizen science.</a>
+For more information about federal crowdsourcing programs, go to <a title="about challenge dot gov" href="http://challenge.gov/about" target="_blank">challenge.gov/about</a> and the <a href="http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-citizen-science" target="_blank">federal community of practice for citizen science.</a>

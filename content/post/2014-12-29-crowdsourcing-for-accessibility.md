@@ -8,7 +8,7 @@ authors: [angela-hooker]
 categories:
   - Accessibility
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - accessibility

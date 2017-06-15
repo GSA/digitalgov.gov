@@ -7,7 +7,7 @@ summary: 'There&rsquo;s more than one way to harness the wisdom of the crowd. In
 authors: [awichman]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Monthly Theme
 tag:
   - Bureau of Reclamation
@@ -121,4 +121,4 @@ Consider which format would be best for your program; look through the options a
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/) and the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice](https://www.WHATEVER/communities/federal-crowdsourcing-citizen-science/) and the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/).

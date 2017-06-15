@@ -7,7 +7,7 @@ summary: 'Come out and join us on Saturday, October 22, 2016 from 10\:00 am &nda
 authors: [meredith-stewart]
 categories:
   - Content
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Managing Digital
   - Mobile
   - 'User Testing and Research'

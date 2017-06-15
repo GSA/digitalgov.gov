@@ -7,7 +7,7 @@ summary: 'After leading a complex effort to crowdsource ideas to solve a problem
 authors: [tlowden]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - ChallengeGov
   - crowdsourcing

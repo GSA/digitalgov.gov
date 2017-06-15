@@ -10,7 +10,7 @@ categories:
   - Challenges
   - Code
   - Content
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Data
   - Governance
   - Managing Digital

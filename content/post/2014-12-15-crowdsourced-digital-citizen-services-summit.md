@@ -9,7 +9,7 @@ categories:
   - Challenges
   - Code
   - Content
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Managing Digital
   - Metrics
   - Mobile

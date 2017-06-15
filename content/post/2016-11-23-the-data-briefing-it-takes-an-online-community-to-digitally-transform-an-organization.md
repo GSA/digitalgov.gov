@@ -7,7 +7,7 @@ summary: 'The open source movement has changed how we develop software, create c
 authors: [bbrantley]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - challenges and prize competitions
   - crowdsourcing

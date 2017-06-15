@@ -7,7 +7,7 @@ summary: 'If federal agencies need an incentive to be more open and innovative i
 authors: [eric-beidel]
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
 tag:
   - ChallengeGov
   - challenges and prize competitions

@@ -6,7 +6,7 @@ title: 'Trends on Tuesday\: Is Crowdsourcing the Future of Mobile Design and Dev
 summary: 'NASA recently announced the winners of a&nbsp;smartwatch app interface competition. A Canadian duo won the design competition, and NASA&rsquo;s plan is to build the app with 2016 funding to have it available for astronauts to use when they are aboard the International Space Station. This is the first government smartwatch app development we&rsquo;ve talked about'
 authors: [jparcell]
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Mobile
   - Monthly Theme
 tag:

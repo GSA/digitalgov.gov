@@ -8,7 +8,7 @@ authors: [robin-thottungal, kris-rowley]
 categories:
   - API
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'crowdsourcing-citizen-science'
   - Data
   - 'Strategy and Policy'
 tag:
