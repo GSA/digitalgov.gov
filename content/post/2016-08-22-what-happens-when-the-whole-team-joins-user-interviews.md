@@ -26,19 +26,19 @@ _How have you been conducting the Discovery phase?_
 
 _How did scrubbing in on user interviews help you in your core role?_
 
-**James Seppi** (developer): Scrubbing in on this research gave me a lot more empathy for the users. I was already pretty jazzed, but once I saw the terrible workflow our target users have to go through, I was even more excited to improve their work lives. It ended up being very motivating, and really helped me understand our product owner’s enthusiasm for the product. Before, I understood the logical arguments for why the project would be good, but now I have a _real_ understanding.
+**James Seppi** (developer): Scrubbing in on this research gave me a lot more empathy for the users. I was already pretty jazzed, but once I saw the terrible workflow our target users have to go through, I was even more excited to improve their work lives. It ended up being very motivating, and really helped me understand our product owner’s  enthusiasm for the product. Before, I understood the logical arguments for why the project would be good, but now I have a _real_ understanding.
 
 **Heather Billings** (front-end designer/developer): Getting to see what they’re already familiar with is hugely helpful, because it helps me know how to present the information they need in a familiar way when designing the new tool.
 
-**Atul:** This was hugely helpful in getting to an understanding of how to motivate people to take the extra step of using this tool for the benefit of undefined others in the indefinite future. When a person said “It would be really cool if we could just _do_ this without all the complexity” it was just great, because it showed there is already a desire for someone to do this kind of thing. We’re building something people want right now, and we know they want it. That’s very motivating.
+**Atul:** This was hugely helpful in getting to an understanding of how to motivate people to take the extra step of using this tool for the benefit of undefined others in the indefinite future. When a person said “It would be really cool if we could just _do_ this without all the complexity” it was just great, because it showed there is already a desire for someone to do this kind of thing. We’re building something people want right now, and we know they want it. That’s  very motivating.
 
 **Heather:** What I’m hearing from the developers on the team, me included, is that being part of these interviews is giving all of us a lot more confidence that what we are doing is the right thing, which gives us much more confidence that what we are building is really going to be needed.
 
 _Did you get anything out of direct contact with users that you couldn’t have gotten out of a report?_
 
-**Heather:** Doing interviews like this, rather than reading transcripts and reports, I have a LOT fewer questions. When I’m in on the research, I am able to ask the questions relevant to me and my work of the users directly, instead of through an intermediary. It’s a _lot_ faster.
+**Heather:** Doing interviews like this, rather than reading transcripts and reports, I have a LOT fewer questions. When I’m in on the research, I am able to ask the questions relevant to me and my work of the users directly, instead of through an intermediary. It’s  a _lot_ faster.
 
-**Atul:** It’s easy to help a friend or coworker because I know them and I can see their problems directly. Working on bigger projects is harder, because I don’t get to empathize with the user. This gives me an opportunity to do that.
+**Atul:** It’s  easy to help a friend or coworker because I know them and I can see their problems directly. Working on bigger projects is harder, because I don’t get to empathize with the user. This gives me an opportunity to do that.
 
 **Mark:** What generally happens when a researcher is doing all of this alone is that they are trying to both report on what they saw and communicate it to the team in a way that is meaningful to the team. Doing it this way lets the team see what is meaningful to _them_ directly and individually.
 

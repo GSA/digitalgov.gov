@@ -3,7 +3,7 @@
 
 date: 2016-08-24 10:00:00 -0400
 title: 'The Data Briefing\: Microservices and Serverless Apps &mdash; A New Direction for Federal Government Mobile Apps?'
-summary: 'Continuing from last week’scolumn on DevOps and containers, I will explain two other hot trends in IT &mdash; microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines (PDF, 660'
+summary: 'Continuing from last week’s column on DevOps and containers, I will explain two other hot trends in IT &mdash; microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines (PDF, 660'
 authors: [bbrantley]
 categories:
   - API
@@ -18,7 +18,7 @@ tag:
   - The Data Briefing
 ---
 
-Continuing from last week’s column on [DevOps and containers](https://www.WHATEVER/2016/08/17/the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it/), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). 
+Continuing from last week’s  column on [DevOps and containers](https://www.WHATEVER/2016/08/17/the-data-briefing-devops-and-containers-and-why-they-are-important-to-transforming-federal-government-it/), I will explain two other hot trends in IT — microservices and serverless apps. For those who want official federal government guidance, the National Institute of Standards and Technology (NIST) has released a draft special publication on microservices, application containers, and system virtual machines ([PDF](http://csrc.nist.gov/publications/drafts/800-180/sp800-180_draft.pdf), 660 kb, 12 pages, February 2016). 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-324-Differences-between-System-Virtual-Machines-and-Application-Containers.jpg" %} 
 
 I wrote about [microservices and containers](https://www.WHATEVER/2015/02/11/the-api-briefing-two-api-trends-to-watch-in-2015-microservices-and-containers/) in February 2015 as two API* trends to watch. Both containers and microservices have become widely adopted, although there are some who argue that containers will quickly give way to serverless applications. To understand the transition from containers to serverless apps, let me first explain microservices and how they work.
@@ -40,4 +40,4 @@ _*API – Application Programming Interface. How software programs and databases
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

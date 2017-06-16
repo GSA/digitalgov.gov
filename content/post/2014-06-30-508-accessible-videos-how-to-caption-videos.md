@@ -20,7 +20,7 @@ tag:
 
 In a video, captions collect all audio information and describe them using text. They include not only spoken content but also non-speech information such as sound effects, music, laughter, and speaker identification and location (for example, audio spoken off-screen). Captions appear transposed over the visual elements in a video, and are synchronized so they appear at the same time as they are spoken or generated.
 
-Captioning is necessary for people who are unable to hear the audio in a video. It’s also helpful for people with cognitive impairments, as well as for developing literacy, both in children and adults. Captions include speech and sound effects. They also tell if there’s music or laughter, and identify multiple speakers.
+Captioning is necessary for people who are unable to hear the audio in a video. It’s  also helpful for people with cognitive impairments, as well as for developing literacy, both in children and adults. Captions include speech and sound effects. They also tell if there’s  music or laughter, and identify multiple speakers.
 
 There are two types of captioning: open captioning and closed captioning.
 
@@ -36,7 +36,7 @@ Creating captions requires five steps:
 1. Create a text (.txt) file that contains your video&#8217;s words and describes any noises, music, or other sound effects. You can do this in one of three ways:
 
   * Use the video&#8217;s script (if you created one). If you used [CART](http://en.wikipedia.org/wiki/Communication_Access_Real-Time_Translation) (Computer Assisted Real-time Transcription) or [RCC](http://www.fedrcc.us/FedRcc/About.aspx) (Relay Conference Caption) for a live presentation, you already have a rough transcript.
-  * Use [voice-to-speech recognition software](https://www.google.com/search?q=voice-to-speech+recognition+software&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) to get a rough transcript. You can do this with [Dragon NaturallySpeaking](http://www.nuance.com/dragon/index.htm) or [YouTube’s Beta speech recognition (automatic captions) program](https://support.google.com/youtube/answer/3038280?hl=en&ref_topic=3014331).
+  * Use [voice-to-speech recognition software](https://www.google.com/search?q=voice-to-speech+recognition+software&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) to get a rough transcript. You can do this with [Dragon NaturallySpeaking](http://www.nuance.com/dragon/index.htm) or [YouTube’s  Beta speech recognition (automatic captions) program](https://support.google.com/youtube/answer/3038280?hl=en&ref_topic=3014331).
   * Do it manually. Watch your video, and write down everything that is said (effective, but tedious). Or pay a vendor to do it. The [Described and Captioned Media Program](http://www.dcmp.org/) (DCMP) provides a screened listing of captioning vendors as well as [audio-description vendors](http://www.dcmp.org/vendor-info#description-vendors).
 
 2. Open your video in a captioning editing program, such as [MAGpie](http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/magpie), [CaptionKeeper](http://ncam.wgbh.org/webaccess/captionkeeper/), or just search for [video captioning programs](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=video%20captioning%20programs&safe=active)).

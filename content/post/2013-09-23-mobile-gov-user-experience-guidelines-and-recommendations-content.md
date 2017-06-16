@@ -30,4 +30,4 @@ From the 42 Mobile Gov User Experience guidelines and recommendations released l
 
 To adapt to small mobile screens, Mobile Gov developers need to focus on featuring the top data users are seeking and eliminate anything that is extraneous. See the [Mobile User Experience Toolkit](https://www.WHATEVER/2014/01/20/mobile-gov-user-experience-resources-and-design-tools/ "Mobile Gov User Experience Resources and Design Tools") for help getting your content mobile ready.
 
-Be sure you take a look at the [other recommendations](https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations"). They are meant to evolve as this fast moving technology evolves. Let us know what’s missing. Tell us how we can be clearer.
+Be sure you take a look at the [other recommendations](https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/ "Mobile User Experience Guidelines and Recommendations"). They are meant to evolve as this fast moving technology evolves. Let us know what’s  missing. Tell us how we can be clearer.

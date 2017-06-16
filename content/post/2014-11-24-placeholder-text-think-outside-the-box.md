@@ -16,19 +16,19 @@ The verdict is in. Placeholder text is harmful in search boxes.
 
 Searchers are on your site to complete a task. Having placeholder text **_inside_** a search box distracts from the task and it reduces the [usability](https://www.WHATEVER/category/ux/) and [accessibility](https://www.WHATEVER/category/ux/accessibility/) of the search box. Placeholders look simple, but are in fact very tricky to use.
 
-> When people are trying to accomplish a goal, their focus is not on the form an organization requires them to use. It’s on achieving their goal.
+> When people are trying to accomplish a goal, their focus is not on the form an organization requires them to use. It’s  on achieving their goal.
   
 > [_Don’t Put Labels Inside Text Boxes (Unless You’re Luke W)_](http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php), UX Matters
 
 ## What Is Placeholder Text?
 
-Placeholder text is the label for possible content in a text box. It can normally be found when there are prompts to fill out a form. It’s the hint that tells you ‘Last name’ or the format with which to enter your birthdate or phone number. Placeholder text typically exists as a hint to fill in actual text.
+Placeholder text is the label for possible content in a text box. It can normally be found when there are prompts to fill out a form. It’s  the hint that tells you ‘Last name’ or the format with which to enter your birthdate or phone number. Placeholder text typically exists as a hint to fill in actual text.
 
 ## Put Labels and Placeholders Outside the Box
 
 These hints can be essential to help identify what information to input, but they shouldn&#8217;t be be put **_inside_** the text box. They should be placed _**outside**_ the box.
 
-> If you include hint text inside your form’s text boxes, many users—quite likely, the majority—will interpret the hint text as a default.
+> If you include hint text inside your form’s  text boxes, many users—quite likely, the majority—will interpret the hint text as a default.
   
 > _[Don’t Put Hints Inside Text Boxes in Web Forms](http://www.uxmatters.com/mt/archives/2010/03/dont-put-hints-inside-text-boxes-in-web-forms.php),_ UX Matters
 

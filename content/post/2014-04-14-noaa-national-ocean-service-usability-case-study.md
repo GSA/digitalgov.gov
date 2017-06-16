@@ -46,7 +46,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The second tier of our site (the ‘Explore’ section) also presented text that was hard to read. Analytics showed us that this section was not at all popular, either. Our search field at the top of the page was sometimes missed by visitors because it doesn’t say ‘search;’ some visitors missed the word ‘Go’ or didn’t know what it was for. In general, our site’s narrow page width and text density made it very hard to quickly find what you were looking for. The rigidity of the page was a particularly bad experience on a mobile device.
+  The second tier of our site (the ‘Explore’ section) also presented text that was hard to read. Analytics showed us that this section was not at all popular, either. Our search field at the top of the page was sometimes missed by visitors because it doesn’t say ‘search;’ some visitors missed the word ‘Go’ or didn’t know what it was for. In general, our site’s  narrow page width and text density made it very hard to quickly find what you were looking for. The rigidity of the page was a particularly bad experience on a mobile device.
 </p>
 
 ### NOAA Home page &#8211; Before
@@ -79,7 +79,7 @@ tag:
 
 ## 2. NOAA Search page
 
-GSA’s search platform, [DigitalGov Search](https://www.WHATEVER/services/search/), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
+GSA’s  search platform, [DigitalGov Search](https://www.WHATEVER/services/search/), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
 
 &nbsp;
 
@@ -109,7 +109,7 @@ GSA’s search platform, [DigitalGov Search](https://www.WHATEVER/services/searc
 
 #### 
 
-We still have all policy-required links in our footer, but it’s now a more interesting place to visit.
+We still have all policy-required links in our footer, but it’s  now a more interesting place to visit.
 
 #### NOAA Page Footer &#8211; After
 

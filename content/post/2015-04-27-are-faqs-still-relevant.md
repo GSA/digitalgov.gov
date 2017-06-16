@@ -50,9 +50,9 @@ Gordon said her team is also focused on increasing user engagement.
 
 ## FAQs and Contact Centers
 
-Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank](http://www.exim.gov/), said FAQs are a key tool for the Ex-Im Bank’s customer contact center. Agents use the FAQs to respond to routine phone calls, emails, and online chats. However, she acknowledged there can be difficulties.
+Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank](http://www.exim.gov/), said FAQs are a key tool for the Ex-Im Bank’s  customer contact center. Agents use the FAQs to respond to routine phone calls, emails, and online chats. However, she acknowledged there can be difficulties.
 
-“The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
+“The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s  question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
 
 DigitalGov previously covered how [ExIm improved their contact centers](https://www.WHATEVER/2014/12/04/ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters/) to deliver better customer experience.
 

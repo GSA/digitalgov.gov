@@ -32,7 +32,7 @@ Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/1
     Tablet computers have grown to 45% adoption, although in the past year that growth has slowed substantially. Tablet ownership is greater among those who have high incomes (51% of people with an income of $50,000 &#8211; $74,999 own tablets, and that rate is 67% for people who earn $75,000+) as well as those who have completed higher education (62%).
   </li>
   <li style="font-weight: 400">
-    After surging in the 00’s, MP3 player growth has gone flat of the past 6 years.
+    After surging in the 00’s , MP3 player growth has gone flat of the past 6 years.
   </li>
   <li style="font-weight: 400">
     While </span><span style="font-weight: 400"><a href="https://www.WHATEVER/2015/09/01/trends-on-tuesday-mobile-messaging-and-social-app-research-released/">games remain wildly popular</a> on mobile devices like smartphones and tablets</span><span style="font-weight: 400">, the home gaming console market and portable gaming market has remained flat or lost a few percentage points of users. </li> 

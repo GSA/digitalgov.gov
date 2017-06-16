@@ -23,7 +23,7 @@ In July 1776, the estimated number of people living in the newly independent nat
 
 **321.4 Million**
 
-The nation’s estimated population on July 4 last year.
+The nation’s  estimated population on July 4 last year.
 
 **$311.7 million**
 

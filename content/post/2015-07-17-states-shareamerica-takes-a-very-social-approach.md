@@ -2,7 +2,7 @@
 
 
 date: 2015-07-17 10:00:59 -0400
-title: 'State’sShareAmerica Takes a Very Social Approach'
+title: 'State’s ShareAmerica Takes a Very Social Approach'
 summary: 'Social media is front and center at&nbsp;Share.America.gov, a U.S. Department of State site managed by the Bureau of International Information Programs, that describes itself as a &ldquo;platform for sharing compelling stories and images that spark discussion and debate on important topics like democracy, freedom of expression, innovation, entrepreneurship, education, and the role of civil society.&rdquo;'
 authors: [coqui-aspiazu]
 categories:
@@ -31,6 +31,6 @@ In addition to English, this website is available in seven other languages: Span
 
 ****&#8220;The website was built to focus on social distribution as the primary mechanism to deliver content to our foreign audiences. Our goal is to have people land on the page, read content and share it into their networks, which we would otherwise not be able to deliver content into,&#8221; said Cochran.
 
-&#8220;The important thing was to create a product that really focuses on the packaging as much as the content as well as going to where the people are—on social and mobile,” added Cochran. “We are competing in an information landscape that is littered with countless platforms and if we don’t have a product that is equal to or greater than the quality of what’s out there, we will be unable to achieve our foreign policy goals.”
+&#8220;The important thing was to create a product that really focuses on the packaging as much as the content as well as going to where the people are—on social and mobile,” added Cochran. “We are competing in an information landscape that is littered with countless platforms and if we don’t have a product that is equal to or greater than the quality of what’s  out there, we will be unable to achieve our foreign policy goals.”
 
 ShareAmerica was built using WordPress and other open source technologies. You can learn more about the making of ShareAmerica on this [DigitalGov webinar video](https://www.youtube.com/watch?v=_DgXhA6aWjs).

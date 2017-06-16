@@ -24,11 +24,11 @@ Our colleagues across government participated in research that resulted in a new
 
 Cristin Dorgelo, Assistant Director for Grand Challenges at the White House Office of Science & Technology Policy writes:
 
-&#8220;The report covers in depth the lessons learned and best practices identified from over 350 prizes conducted by the Federal government and over 50 prizes conducted by state, local, and philanthropic leaders. The report was produced by Doblin &#8211; Deloitte’s innovation practice, in collaboration with Bloomberg Philanthropies, the Case Foundation, the Joyce Foundation, the Knight Foundation, the Kresge Foundation, and the Rockefeller Foundation.
+&#8220;The report covers in depth the lessons learned and best practices identified from over 350 prizes conducted by the Federal government and over 50 prizes conducted by state, local, and philanthropic leaders. The report was produced by Doblin &#8211; Deloitte’s  innovation practice, in collaboration with Bloomberg Philanthropies, the Case Foundation, the Joyce Foundation, the Knight Foundation, the Kresge Foundation, and the Rockefeller Foundation.
 
 Reflecting all of your hard work and creativity over the last few years, _The Craft of Prize Design_ identifies our Administration as a leader in advancing the craft of designing robust prizes that engage citizen solvers to solve tough problems and spur innovation.
 
-Much as the 2009 McKinsey Report _And the Winner Is…_ served to inspire a growth in the use of prizes by government and philanthropy, I believe this new report will serve both as a useful third-party summary of our Administration’s accomplishments on adopting prizes as a tool for open innovation and, I think, will be a powerful and practical tool for our community of practices to advance our practice of designing and administering high-impact prizes.&#8221;
+Much as the 2009 McKinsey Report _And the Winner Is…_ served to inspire a growth in the use of prizes by government and philanthropy, I believe this new report will serve both as a useful third-party summary of our Administration’s  accomplishments on adopting prizes as a tool for open innovation and, I think, will be a powerful and practical tool for our community of practices to advance our practice of designing and administering high-impact prizes.&#8221;
 
 The study shares practical lessons:
 

@@ -17,7 +17,7 @@ tag:
 
 Next month, [Challenge.gov](https://www.challenge.gov/) turns five. A technical platform, a listing of federal prize competitions, and consultation and support services for running impactful challenges all meld into the program, which brings the best ideas and talent together to solve mission-centric problems.
 
-To mark the milestone, the General Services Administration (GSA) will host a [special event](https://www.WHATEVER/event/five-years-of-excellence-in-federal-challenge-prize-competitions/) on Thursday, October 8th, to celebrate Challenge.gov’s accomplishments and to honor some of the visionary teams and individuals using incentivized competitions to spark significant change.
+To mark the milestone, the General Services Administration (GSA) will host a [special event](https://www.WHATEVER/event/five-years-of-excellence-in-federal-challenge-prize-competitions/) on Thursday, October 8th, to celebrate Challenge.gov’s  accomplishments and to honor some of the visionary teams and individuals using incentivized competitions to spark significant change.
 
 The numbers tell the story.
 
@@ -28,7 +28,7 @@ Upwards of 80 agencies have used this no cost platform since its debut, launchin
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
-Since its launch in 2010, Challenge.gov has accelerated the federal government’s mission to spur innovation, cost-effective solutions, and citizen engagement through competitions and challenges. Along with other White House initiatives, Challenge.gov has made it easier for federal agencies to launch and manage challenges.
+Since its launch in 2010, Challenge.gov has accelerated the federal government’s  mission to spur innovation, cost-effective solutions, and citizen engagement through competitions and challenges. Along with other White House initiatives, Challenge.gov has made it easier for federal agencies to launch and manage challenges.
 
 In 2011, President Obama signed the America COMPETES Reauthorization Act of 2010, giving agencies a clear legal path to running challenges and enabling the pursuit of more ambitious competitions and incentives.
 
@@ -40,7 +40,7 @@ And Challenge.gov has been a strategic federal partner through it all, helping a
 
 More than just a website, the Challenge.gov program helps agencies throughout the process of creating and running a challenge—from the conception of an idea to the awarding of a prize. A mix of training, consultation, and new features to the site make it increasingly easy for federal agencies to launch and run challenges.
 
-Harvard University acknowledged this when it awarded Challenge.gov the [Innovations in American Government Award](http://www.gsa.gov/portal/content/185155), citing the program’s role in enabling agencies to solve public problems in a more effective manner.
+Harvard University acknowledged this when it awarded Challenge.gov the [Innovations in American Government Award](http://www.gsa.gov/portal/content/185155), citing the program’s  role in enabling agencies to solve public problems in a more effective manner.
 
 “Challenge.gov creatively sidesteps many of the roadblocks to public-sector innovation,” Stephen Goldsmith, director of the Innovations in American Government Program at the Harvard Kennedy School of Government, wrote in a [column in Governing Magazine](http://www.governing.com/blogs/bfc/col-challenge-platform-general-services-administration-unleashing-community-innovators.html).
 

@@ -88,4 +88,4 @@ You can find more about these approaches in the resources below.
 
 &nbsp;
 
-_**David Fern** is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation. **Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services. **Beth Martin** is a Usability Specialist at the Federal Aviation Administration._
+_**David Fern** is an IT Specialist and Technical Leader at the Social Security Administration’s  Division of Quality, Testing and Validation. **Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services. **Beth Martin** is a Usability Specialist at the Federal Aviation Administration._

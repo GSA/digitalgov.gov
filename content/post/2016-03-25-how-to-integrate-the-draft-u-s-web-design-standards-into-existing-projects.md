@@ -22,7 +22,7 @@ A lot of design research supports the notion that many people who use government
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-colors.jpg" alt="The Design Standards include an extensive color palette." %}
 
-The Draft Standards offer a single visual style that can be flexibly applied to a broad range of government digital platforms, but is not required. These standards are primarily about creating consistency in interactions, user experience, and behavior; they also provide default color and typography guidance for teams who specifically need visual look and feel direction. The styling of the standards can also be customized to comply with an agency’s existing brand guidelines, so that agencies can retain their own established identities.
+The Draft Standards offer a single visual style that can be flexibly applied to a broad range of government digital platforms, but is not required. These standards are primarily about creating consistency in interactions, user experience, and behavior; they also provide default color and typography guidance for teams who specifically need visual look and feel direction. The styling of the standards can also be customized to comply with an agency’s  existing brand guidelines, so that agencies can retain their own established identities.
 
 But integrating the Draft Standards, which are still being developed, largely depends on how far along you are with a project.
 

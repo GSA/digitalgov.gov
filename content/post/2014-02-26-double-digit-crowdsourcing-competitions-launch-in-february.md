@@ -33,7 +33,7 @@ Proposals may include innovation, enhanced infrastructure, and effective outcome
   
 ** [Data Innovation Challenge](http://www.transportation.gov/datachallenge)
 
-Do you have what it takes to create innovative tools to address our nation’s transportation challenges or revolutionize the way Americans see and understand the transportation system they use every day? Create a tool to address systemic challenges by accessing publicly-available federal and/or local DOT datasets.{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Energy\_Challenge\_Home.png" alt="Energy Challenge Homepage" %}
+Do you have what it takes to create innovative tools to address our nation’s  transportation challenges or revolutionize the way Americans see and understand the transportation system they use every day? Create a tool to address systemic challenges by accessing publicly-available federal and/or local DOT datasets.{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Energy\_Challenge\_Home.png" alt="Energy Challenge Homepage" %}
 
 
 **Department of Energy
@@ -65,7 +65,7 @@ Create an **online model notice of privacy practices** for health care providers
   
 [Travel Data Challenge](http://gsatraveldata.challengepost.com/)
 
-Design and create an online, interactive tool that utilizes federal travel data to increase transparency and accountability. GSA’s Office of Government-wide Policy, sponsor of the Travel Data Challenge, is looking to bring a quantitative approach to the data the federal government collects in order to help agencies make smarter business decisions, and to allow them to drive cost savings.
+Design and create an online, interactive tool that utilizes federal travel data to increase transparency and accountability. GSA’s  Office of Government-wide Policy, sponsor of the Travel Data Challenge, is looking to bring a quantitative approach to the data the federal government collects in order to help agencies make smarter business decisions, and to allow them to drive cost savings.
 
 **U.S. Department of Commerce**
   

@@ -3,7 +3,7 @@
 
 date: 2015-06-12 1:30:22 -0400
 title: 'DigitalGov Citizen Services Summit\: Reflections from Our Livestream Host, and Full Recording Now Available!'
-summary: 'The second annual DigitalGov Citizen Services Summit&nbsp;was held at GSA headquarters in Washington, DC on May 21. This year’sSummit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
+summary: 'The second annual DigitalGov Citizen Services Summit&nbsp;was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
 authors: [bernetta-reese]
 categories:
   - Our Work
@@ -23,7 +23,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-The second annual [DigitalGov Citizen Services Summit](https://summit.WHATEVER/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
+The second annual [DigitalGov Citizen Services Summit](https://summit.WHATEVER/) was held at GSA headquarters in Washington, DC on May 21. This year’s  Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s  virtual livestream host for the Summit.
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>

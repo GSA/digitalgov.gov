@@ -15,17 +15,17 @@ These are the elements that make up a well-rounded developer hub.
 
 ## Homepage
 
-The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources may make sense to be specific to each API whereas others may make sense to be provided more generally for all of the agency’s APIs. The major elements of the overall developer homepage are: a catalog of and links to available APIs, any communal elements that apply to all of the APIs, and links to non-API resources that may also be of use to developers. Agency.gov/developer, agency.gov/developers, and agency.gov/api should either be the direct URL for the page or should redirect to the page.
+The API efforts of any agency should all be accessible via one easy to reach developers hub. This Web page should provide a path to all public APIs and any associated resources. Once an agency has begun to publish multiple APIs, certain resources may make sense to be specific to each API whereas others may make sense to be provided more generally for all of the agency’s  APIs. The major elements of the overall developer homepage are: a catalog of and links to available APIs, any communal elements that apply to all of the APIs, and links to non-API resources that may also be of use to developers. Agency.gov/developer, agency.gov/developers, and agency.gov/api should either be the direct URL for the page or should redirect to the page.
 
 Your team should decide which of the following elements to include in your developer hub, recognizing that ensuring a well-rounded and fully functional developer experience is the best recipe for your APIs’ success. The below list represents elements for you to assemble in order to deliver just such an experience. Examples and suggested tools are included and can be readily copied and improved upon between agencies.
 
 ## Welcome
 
-A brief welcome message can be used to provide context for the agency’s mission and the role of developer outreach within it. Your agency can set an appropriate and respectable standard by using this section to announce that the developer hub is the accumulation of the agency’s current API offerings and that developers can return to find future APIs as they are posted there as well.
+A brief welcome message can be used to provide context for the agency’s  mission and the role of developer outreach within it. Your agency can set an appropriate and respectable standard by using this section to announce that the developer hub is the accumulation of the agency’s  current API offerings and that developers can return to find future APIs as they are posted there as well.
 
 ## Catalog of APIs
 
-The most important element of a developer hub is access to each of the APIs. Usually, this takes the form of links along with a brief description. Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency’s Web presence. Alternatively, several free and open-source options exist that provide additional catalog functionality.
+The most important element of a developer hub is access to each of the APIs. Usually, this takes the form of links along with a brief description. Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency’s  Web presence. Alternatively, several free and open-source options exist that provide additional catalog functionality.
 
 ### Potential Tools
 
@@ -60,7 +60,7 @@ A Terms of Service (ToS) provides the legal framework by which the API provider 
 
 ## Status Dashboard
 
-As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important. The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade). The dashboard can be manually maintained, with upcoming or current system updates written out. A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API’s status on the dashboard. This has the benefit of ensuring quick updates for developers, whose applications may rely on this news. Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.
+As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important. The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade). The dashboard can be manually maintained, with upcoming or current system updates written out. A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API’s  status on the dashboard. This has the benefit of ensuring quick updates for developers, whose applications may rely on this news. Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.
 
 ### Potential Tools
 
@@ -80,7 +80,7 @@ As agency and third-party developers consume the APIs in new projects, there is 
 
 ## Link to Open-Source Projects
 
-An agency’s open-source projects often relate to their API efforts and have similar potential customers. Both SourceForge and GitHub offer [federal-friendly Terms of Service](https://digitalgov.sites.usa.gov/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements"), though GitHub has gained higher adoption due to its feature set, widespread popularity, and ease of use. By offering more components of your agency’s API packages as repositories online, you support faster developer adoption.
+An agency’s  open-source projects often relate to their API efforts and have similar potential customers. Both SourceForge and GitHub offer [federal-friendly Terms of Service](https://digitalgov.sites.usa.gov/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements"), though GitHub has gained higher adoption due to its feature set, widespread popularity, and ease of use. By offering more components of your agency’s  API packages as repositories online, you support faster developer adoption.
 
 ### .Gov Examples
 
@@ -94,7 +94,7 @@ An agency’s open-source projects often relate to their API efforts and have si
 
 ## Link to Agency Data Hub
 
-An agency’s static data is also of interest to developers both for direct use and also to inspire further ideas about what mashups are possible with the agency’s APIs. Including a link to the agency’s public data catalog is a simple but important addition to the developer homepage.
+An agency’s  static data is also of interest to developers both for direct use and also to inspire further ideas about what mashups are possible with the agency’s  APIs. Including a link to the agency’s  public data catalog is a simple but important addition to the developer homepage.
 
 ### .Gov Examples
 
@@ -105,7 +105,7 @@ An agency’s static data is also of interest to developers both for direct use 
 
 ## Links to Other Relevant Sections
 
-Each agency’s Web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page. Including these links on the developer homepage grows the cross-ties between the teams behind each section and helps site visitors to more readily understand the wider context of the agency’s offerings and strategic direction.
+Each agency’s  Web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page. Including these links on the developer homepage grows the cross-ties between the teams behind each section and helps site visitors to more readily understand the wider context of the agency’s  offerings and strategic direction.
 
 ### .Gov Examples
 
@@ -117,7 +117,7 @@ Each agency’s Web presence offers different material that may be of interest t
 
 ## Blog/Microblog
 
-In order to deepen both interest and trust in your agency’s API efforts, your agency’s developer outreach should include program updates such as announcements of new initiatives and program updates such as planned downtime. Depending on how much information the agency is generating, it may be better to create a category on the agency blog that distinguishes these posts or an entire independent agency blog to house the material. Regardless, it is best to link directly to the category or blog from the developer hub. Similarly, your team may prefer to set up a standalone twitter account for the API and developer announcements, either as a complement to a blog (category) or in lieu of it. An important aspect to each of these models, though, is the ability of developers to subscribe or otherwise follow a reliable channel for news that impacts their development efforts.
+In order to deepen both interest and trust in your agency’s  API efforts, your agency’s  developer outreach should include program updates such as announcements of new initiatives and program updates such as planned downtime. Depending on how much information the agency is generating, it may be better to create a category on the agency blog that distinguishes these posts or an entire independent agency blog to house the material. Regardless, it is best to link directly to the category or blog from the developer hub. Similarly, your team may prefer to set up a standalone twitter account for the API and developer announcements, either as a complement to a blog (category) or in lieu of it. An important aspect to each of these models, though, is the ability of developers to subscribe or otherwise follow a reliable channel for news that impacts their development efforts.
 
 ### Potential Tools
 

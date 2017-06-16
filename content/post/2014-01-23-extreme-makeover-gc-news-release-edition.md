@@ -30,7 +30,7 @@ For communicators, the changes mean they can use their creativity to:
 
   * Develop catchy headlines and sub-headlines
   * Write concise and clear opening paragraphs that contain the 5 Ws (who, what, where, when, why)
-  * Select key facts that capture the reader’s attention
+  * Select key facts that capture the reader’s  attention
   * Draft quotes that are meaningful and succinct
   * Repurpose the quick facts and quotes for Facebook and Twitter posts, and
   * Offer associated links that provide additional context to help the reader better understand the issue.

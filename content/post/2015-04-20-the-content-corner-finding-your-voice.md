@@ -22,7 +22,7 @@ No, this is not another post about [podcasting](https://www.WHATEVER/2015/04/06/
 
 # What Does Your Agency Sound Like?
 
-As most of us are aware, online brands both large and small must be authentic to succeed in the modern environment. A great deal of this authenticity comes via your content and how it is written: what is the tone? Do you normally present content in a very dry, matter of fact way? Does your agency have a set style guide where things such as active voice are encouraged? If there is no real guidance (which is more common in my experience), then it might be worthwhile to do a little soul searching and think of how you want to sound or how you should sound. Keep in mind that your agency’s mission and primary audience should influence these decisions. And every government agency should certainly not [sound the same](http://www.inc.com/magazine/20100501/why-is-business-writing-so-awful.html).
+As most of us are aware, online brands both large and small must be authentic to succeed in the modern environment. A great deal of this authenticity comes via your content and how it is written: what is the tone? Do you normally present content in a very dry, matter of fact way? Does your agency have a set style guide where things such as active voice are encouraged? If there is no real guidance (which is more common in my experience), then it might be worthwhile to do a little soul searching and think of how you want to sound or how you should sound. Keep in mind that your agency’s  mission and primary audience should influence these decisions. And every government agency should certainly not [sound the same](http://www.inc.com/magazine/20100501/why-is-business-writing-so-awful.html).
 
 # Listen and Learn
 

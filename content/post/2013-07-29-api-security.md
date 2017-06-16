@@ -3,7 +3,7 @@
 
 date: 2013-07-29 1:12:58 -0400
 title: 'API Security'
-summary: 'Like website development, API security revolves around three stages&mdash;planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’ssecurity program to the API release'
+summary: 'Like website development, API security revolves around three stages&mdash;planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s security program to the API release'
 authors: [gray-brooks]
 categories:
   - API
@@ -16,11 +16,11 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
-Like website development, API security revolves around three stages—planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s security program to the API release candidate. Lastly, the third step integrates your API in your agency’s continuous monitoring frameworks.
+Like website development, API security revolves around three stages—planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s  security program to the API release candidate. Lastly, the third step integrates your API in your agency’s  continuous monitoring frameworks.
 
 ## Planning
 
-As with all Web assets in an environment, the basic issues revolve around access controls to information. When planning an API, the following questions address the API’s framework for functional security.
+As with all Web assets in an environment, the basic issues revolve around access controls to information. When planning an API, the following questions address the API’s  framework for functional security.
 
   1. To what group of people should the API be accessible?
   
@@ -41,7 +41,7 @@ As discussed [elsewhere](https://digitalgov.sites.usa.gov/2013/03/12/api-basics#
 
 APIs often provide access to certain sections of data and with various permissions, depending on the intended use cases. APIs are often built to provide certain data from a system that includes other sensitive data and in these cases, the Network Operations staff can ensure that either only certain information is accessible while the API producers can customize the API design to respect only the intended set of queries.
 
-Similarly, API producers must question what permissions are needed for each developed use case. Oftentimes, read–only access to a dataset is sufficient for the API’s intended use and in those circumstances, the Network Operations staff can ensure the correct permission levels are set and locked. In other scenarios, such as an API that is used to collect submissions, a read–write or write–only permission may be necessary and the API may need to be customized to ensure that users are able to submit and edit their data but not that of others.
+Similarly, API producers must question what permissions are needed for each developed use case. Oftentimes, read–only access to a dataset is sufficient for the API’s  intended use and in those circumstances, the Network Operations staff can ensure the correct permission levels are set and locked. In other scenarios, such as an API that is used to collect submissions, a read–write or write–only permission may be necessary and the API may need to be customized to ensure that users are able to submit and edit their data but not that of others.
 
 ## Testing
 
@@ -52,11 +52,11 @@ Each federal agency has a designated cybersecurity team that maintains a securit
   * Conduct vulnerability scanning, using the regular automated scanning of servers and applications that will often already be in place.
   * Assist in the review of data returns, which can sometimes be sensitive and may need to have access restrictions applied to specific URLs and data.
 
-With the completion of the API review and mitigation of risks, the cybersecurity team can then incorporate the API into their structural map of the agency’s Web presence and include it in their monitoring program going forward.
+With the completion of the API review and mitigation of risks, the cybersecurity team can then incorporate the API into their structural map of the agency’s  Web presence and include it in their monitoring program going forward.
 
 ## Monitoring
 
-As with the initial security review, your agency’s cybersecurity team will often be able to employ their existing resources to include coverage of the API in any regular scans and continuous monitoring that is in place. The same Network Operations staff that monitor server load and uptime of agency websites and systems should be aware of the new presence of the API within the agency’s server presence and coordinate similar monitoring.
+As with the initial security review, your agency’s  cybersecurity team will often be able to employ their existing resources to include coverage of the API in any regular scans and continuous monitoring that is in place. The same Network Operations staff that monitor server load and uptime of agency websites and systems should be aware of the new presence of the API within the agency’s  server presence and coordinate similar monitoring.
 
 More fundamentally, the API producer must also ensure the role of stakeholder as a system owner, collaborating with the appropriate IT, cybersecurity, and New Media teams so that the API maintains an integrated role in the wider agency Web presence. This long-term stakeholdership is an aspect of security that can be overlooked in the hurry to successfully launch an API, though to do so is perilous and should be avoided. Rather, by ensuring stakeholdership, you provide your API with the right level of investment for today as well as going forward.
 

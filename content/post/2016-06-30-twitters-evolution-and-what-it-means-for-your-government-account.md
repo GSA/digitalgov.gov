@@ -2,7 +2,7 @@
 
 
 date: 2016-06-30 11:00:08 -0400
-title: 'Twitter’sEvolution and What It Means for Your Government Account'
+title: 'Twitter’s Evolution and What It Means for Your Government Account'
 summary: 'Twitter has come a long way. &nbsp;In ten years of evolution, we&rsquo;ve seen Twitter go from a simple text messaging service to a versatile platform, which in the words of Twitter, provides a &ldquo;rich canvas for creative expression featuring photos, videos, hashtags, Vines, and more.&rdquo; Now Twitter is offering additional enhancements to their service to'
 authors: [leah-stewart, ray-drake]
 categories:
@@ -57,4 +57,4 @@ Now Twitter is offering additional enhancements to their service to make it easi
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/400-x-688-uscis-tweet-screen-capture-retweet-on-mobile-phone.jpg" alt="A screen capture of a USCIC tweet with the re-tweet icon circled in red" %}
 
-Twitter’s changes are geared toward streamlining their platform and making it more user-friendly. As communicators, these changes will simplify our efforts, save us time, and allow us more space to broadcast our message to the public we serve.
+Twitter’s  changes are geared toward streamlining their platform and making it more user-friendly. As communicators, these changes will simplify our efforts, save us time, and allow us more space to broadcast our message to the public we serve.

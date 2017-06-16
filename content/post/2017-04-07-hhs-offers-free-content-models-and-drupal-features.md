@@ -60,7 +60,7 @@ A [feature](https://www.drupal.org/project/features) is a collection of Drupal c
 
 The content models’ related Drupal features are also being shared, so, if you are running a Drupal site and are looking for a simple way to implement a content model, this is the place for you.
 
-## What’s the catch?
+## What’s  the catch?
 
 Absolutely nothing! HHS is happy to share our efforts in the spirit of collaboration and the hopes that folks will start putting their content in models as well. The future of [portable content](https://www.WHATEVER/2016/05/05/how-to-create-portable-content-with-structured-content-models/) relies heavily on the adoption of structured content types.
 

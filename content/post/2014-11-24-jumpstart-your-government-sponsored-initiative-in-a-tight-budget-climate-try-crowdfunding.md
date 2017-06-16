@@ -3,7 +3,7 @@
 
 date: 2014-11-24 11:05:02 -0400
 title: 'Jumpstart Your Government-Sponsored Initiative in a Tight Budget Climate\: Try Crowdfunding'
-summary: 'There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’sutilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’stoughest'
+summary: 'There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’s toughest'
 authors: [minette-wilson]
 categories:
   - Challenges
@@ -17,7 +17,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" %} 
 
-There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’s toughest challenges. Over 30 projects from around the world, including from the United States, were selected for [_AEIF 2.0: Accelerating Social Impact_](http://www.rockethub.com/projects/partner/socialimpact)_._ By participating in the crowdfunding projects, these alumni found alternative funding and investment options beyond the U.S. government, told their stories, built the capacity of their organizations, engaged local communities, and developed sustainable solutions.
+There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’s  utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’s  toughest challenges. Over 30 projects from around the world, including from the United States, were selected for [_AEIF 2.0: Accelerating Social Impact_](http://www.rockethub.com/projects/partner/socialimpact)_._ By participating in the crowdfunding projects, these alumni found alternative funding and investment options beyond the U.S. government, told their stories, built the capacity of their organizations, engaged local communities, and developed sustainable solutions.
 
 **What is crowdfunding?**
 
@@ -67,7 +67,7 @@ _Phase III (Training)_
 
 _Phase IV (Execute)_
 
-  * Support participants’ efforts by highlighting their work on your organization’s own platforms and newsletters.
+  * Support participants’ efforts by highlighting their work on your organization’s  own platforms and newsletters.
   * Segment your market when reaching out to donors, and identify key stakeholders for each cause or initiative to encourage donations.
   * Stay engaged with participants and keep them abreast of developments in the crowdfunding arena during the campaign.
 

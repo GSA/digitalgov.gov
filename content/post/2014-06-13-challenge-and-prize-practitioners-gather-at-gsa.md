@@ -39,7 +39,7 @@ Trends include:
 
   * Federal agencies are maturing and are no longer using challenges for communications and engagement purposes. They are now using them to get novel solutions from non-standard solvers.
 
-  * Challenge and prize competitions are being used to frame future strategy. [HUD’s Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
+  * Challenge and prize competitions are being used to frame future strategy. [HUD’s  Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s  Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
 
   * Got code? [Challenges are becoming a great source of code, apps, algorithms](https://www.challenge.gov/list/?type=SoftwareApps "Software and apps challenges on Challenge.gov"), and shared service IT solutions, resulting in significant cost savings.
 
@@ -57,7 +57,7 @@ Often, people think that only coders and technical people will be useful in comp
 
 &nbsp;
 
-Charles Liarakos from the [National Science Foundation](https://www.challenge.gov/list/?ag=National%20Science%20Foundation "National Science Foundation Challenge and Prize Competitions on Challenge.gov ") also spoke, and said that it’s important to track whether teams stay together, and how well they continue to work. His organization has tracked the long-term effects of innovation teams and the results compared to a general workforce addressing the same issues. Liarakos told the audience that their multi-day work groups were intense and that the need to follow-up a few weeks and even months later is critical to understanding the impact.
+Charles Liarakos from the [National Science Foundation](https://www.challenge.gov/list/?ag=National%20Science%20Foundation "National Science Foundation Challenge and Prize Competitions on Challenge.gov ") also spoke, and said that it’s  important to track whether teams stay together, and how well they continue to work. His organization has tracked the long-term effects of innovation teams and the results compared to a general workforce addressing the same issues. Liarakos told the audience that their multi-day work groups were intense and that the need to follow-up a few weeks and even months later is critical to understanding the impact.
 
 [slideshare id=35660372&doc=zit1ualor7qgjpggflff-140609123602-phpapp01&w=600]
 

@@ -3,7 +3,7 @@
 
 date: 2014-12-29 11:00:11 -0400
 title: 'Using Focus Groups to Make Better Videos'
-summary: 'There’swhat you expect your audience to think, and then there’swhat your audience is actually thinking. Sometimes, these can be entirely different. But, you won&rsquo;t know unless you test it. For the release of the 2014 Consumer Action Handbook (CAH), the Federal Citizen Information Center’smarketing team piloted a series of videos. The videos'
+summary: 'There’s what you expect your audience to think, and then there’s what your audience is actually thinking. Sometimes, these can be entirely different. But, you won&rsquo;t know unless you test it. For the release of the 2014 Consumer Action Handbook (CAH), the Federal Citizen Information Center’s marketing team piloted a series of videos. The videos'
 authors: [colleen-bayus]
 categories:
   - 'User Testing and Research'
@@ -16,9 +16,9 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-High-angle-view-of-a-group-of-business-executives-in-a-conference-Purestock-Thinkstock-57569113.jpg" alt="High angle view of a group of business executives in a conference" %} 
 
-There’s what you expect your audience to think, and then there’s what your audience is actually thinking. Sometimes, these can be entirely different. But, you won’t know unless you test it.
+There’s  what you expect your audience to think, and then there’s  what your audience is actually thinking. Sometimes, these can be entirely different. But, you won’t know unless you test it.
 
-For the release of the 2014 [Consumer Action Handbook](http://publications.usa.gov/USAPubs.php) (CAH), the Federal Citizen Information Center’s marketing team piloted a series of videos. The videos intended to showcase the expertise of the CAH’s editor-in-chief, Marietta Jelks. Using letters received from the public asking consumer questions, Marietta gave her advice, trying to help not only the writer, but other members of the public who may have similar problems.
+For the release of the 2014 [Consumer Action Handbook](http://publications.usa.gov/USAPubs.php) (CAH), the Federal Citizen Information Center’s  marketing team piloted a series of videos. The videos intended to showcase the expertise of the CAH’s  editor-in-chief, Marietta Jelks. Using letters received from the public asking consumer questions, Marietta gave her advice, trying to help not only the writer, but other members of the public who may have similar problems.
 
 Five different [“Ask Marietta” videos](https://www.youtube.com/results?search_query=Ask+Marietta) were created, using two different formats. They were distributed via [USA.gov](http://www.usa.gov) social media channels, the [USA.gov blog](http://blog.usa.gov/), and through PR Newswire. After their release, the marketing team was bursting with ideas of what could be done better or differently.
 
@@ -26,7 +26,7 @@ But before committing more time and resources to the project, it was necessary t
 
 #### Recruiting
 
-To do this, we recruited participants for two focus groups. One was an in-person session at GSA, and the other was a virtual discussion held using GoToMeeting. Because roughly 70% of communication is non-verbal, the in-person session was vital so we could see people’s body language and their immediate reactions to the materials. However, it also limited us to only people in the local area.
+To do this, we recruited participants for two focus groups. One was an in-person session at GSA, and the other was a virtual discussion held using GoToMeeting. Because roughly 70% of communication is non-verbal, the in-person session was vital so we could see people’s  body language and their immediate reactions to the materials. However, it also limited us to only people in the local area.
 
 To get more of a nationwide spread in participants, we created the virtual session, so even if they weren&#8217;t physically here, we could still get their input and read their body language and inflections in their voice, etc. Adhering to OMB rules, we could only use nine non-federal employees for the focus groups, but were unlimited in how many feds could participate. We created a script to keep us on task—here&#8217;s a [generic version](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/FocusGroupDiscussionGuide-generic.docx) (MS Word, 25K, 11 pages, Nov. 2014) of it.
 

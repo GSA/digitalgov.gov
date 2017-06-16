@@ -29,10 +29,10 @@ But this is not a typical prize competition, where the winners get a check at th
 
 In the Nutrient Sensor Challenge, the top developers will have the best shot at the people who will buy and use those sensors to help track nutrients. Sensor users range from international groups to U.S. federal agencies to local watershed alliances.
 
-The water sensor market is fractured—one of the biggest barriers to innovation identified in a [discussion paper released by the Brookings Institution and Stanford University](https://woods.stanford.edu/sites/default/files/files/path_to_water_innovation_thompson_paper_final.pdf). The Nutrient Sensor Challenge represents one of the best efforts to quantify and understand the market. We’ve done good work so far, but gaps remain. And that’s where targeted crowdsourcing comes into play.
+The water sensor market is fractured—one of the biggest barriers to innovation identified in a [discussion paper released by the Brookings Institution and Stanford University](https://woods.stanford.edu/sites/default/files/files/path_to_water_innovation_thompson_paper_final.pdf). The Nutrient Sensor Challenge represents one of the best efforts to quantify and understand the market. We’ve done good work so far, but gaps remain. And that’s  where targeted crowdsourcing comes into play.
 
 We think the crowd can help this effort. We want input from sensor users—just how big is the sensor market in your state? The United States? The world?
 
 [Stay tuned for more information](http://www.nutrients-challenge.org/) on how you can get involved!
 
-_**Dustin Renwick** works in conjunction with the [Innovation Team](http://www2.epa.gov/innovation) in the U.S. Environmental Protection Agency (EPA)’s Office of Research and Development. The opinions expressed here are the author’s and do not reflect EPA policy, endorsement, or action._
+_**Dustin Renwick** works in conjunction with the [Innovation Team](http://www2.epa.gov/innovation) in the U.S. Environmental Protection Agency (EPA)’s  Office of Research and Development. The opinions expressed here are the author’s  and do not reflect EPA policy, endorsement, or action._

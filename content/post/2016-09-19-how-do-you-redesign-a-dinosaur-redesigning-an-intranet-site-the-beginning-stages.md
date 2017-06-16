@@ -3,7 +3,7 @@
 
 date: 2016-09-19 10:00:56 -0400
 title: 'How Do You Redesign a &lsquo;Dinosaur&rsquo;? Redesigning an Intranet Site\: the Beginning Stages'
-summary: 'Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’sour job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the &lsquo;high-priority&rsquo; list and'
+summary: 'Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the &lsquo;high-priority&rsquo; list and'
 authors: [karla-blaine]
 categories:
   - Accessibility
@@ -31,12 +31,12 @@ tag:
   - UX
 ---
 
-Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the ‘high-priority’ list and have been perhaps a little, ehh… neglected. For our Web team, this was our Center’s staff Intranet site.
+Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s  our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the ‘high-priority’ list and have been perhaps a little, ehh… neglected. For our Web team, this was our Center’s  staff Intranet site.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-477-screenshot-of-NCCIH-Intranet-homepage.jpg" alt="Screen capture of the NCCIH Intranet homepage." %}
 
-Our Web team recognized that the Intranet was in need of attention. It’d been about 10 years since its initial launch and over the years, minimal design or layout changes&#8211;including navigation&#8211;had been made to the site. Of course, we kept the site’s content updated and we’d built out some new forms and apps. But, the ‘bones’ of the site had remained the same. 
+Our Web team recognized that the Intranet was in need of attention. It’d been about 10 years since its initial launch and over the years, minimal design or layout changes&#8211;including navigation&#8211;had been made to the site. Of course, we kept the site’s  content updated and we’d built out some new forms and apps. But, the ‘bones’ of the site had remained the same. 
 
 I’d been an enthusiastic proponent of an Intranet redesign over the years, but when finally receiving the ‘go-ahead’, I suddenly felt a bit terrified. I felt like an archaeologist, looking upon an excavation site, ancient bones either scattered about, or peeking out from deep within the ground. I was excited to finally dig, brush off, clean, and ponder handling such a delicate assembly. Scattered in the Intranet ‘dust’ were dozens and dozens of internal links, external links, Word documents and PDFs, databases, and applications. Where would I even begin?! 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." %} 

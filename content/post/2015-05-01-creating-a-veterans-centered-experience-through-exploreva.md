@@ -22,11 +22,11 @@ Good customer service includes user-centered design. For one digital team at the
 
 The [ExploreVA website](http://explore.va.gov/) provides a single location for veterans and their families to research the benefits that they may be entitled to receive. Benefits include health care, education, employment, and many more services.
 
-VA’s Megan Moloney, Director of Digital Media Engagement, and Josh Tuscher, New Media Technologist, spoke about ExploreVA and the process it took to develop this user-centered, interactive platform.
+VA’s  Megan Moloney, Director of Digital Media Engagement, and Josh Tuscher, New Media Technologist, spoke about ExploreVA and the process it took to develop this user-centered, interactive platform.
 
 ## Getting Started: Providing Information to Veterans
 
-VA’s National Outreach Office was tasked with developing an outreach campaign to educate veterans about their benefits. The digital team’s task was to provide a place to land that campaign. The first iteration was VA.gov/explore, a landing site within the VA.gov structure that launched in September 2013.
+VA’s  National Outreach Office was tasked with developing an outreach campaign to educate veterans about their benefits. The digital team’s  task was to provide a place to land that campaign. The first iteration was VA.gov/explore, a landing site within the VA.gov structure that launched in September 2013.
 
 The initial site explained the 9 primary benefits areas and gave people information they needed to start the application process. Moloney called it “a front door into the world of exploring your benefits.”
 
@@ -79,7 +79,7 @@ After a section was added to the ExploreVA website about filing the claims, “F
 
 Moloney said the email campaign accounted for more than 80% of ExploreVA traffic during that timeframe and reinforced the power of email as an effective, scalable communications tool for VA.
 
-According to VA’s analytics, email visitors converted at a 31% rate on the “File a Claim” pages (which were designed in keeping with the look and feel of the Explore site), slightly higher than the conversions off Explore benefit pages—28% to 30% for email and search traffic and 20% to 25% for general traffic.
+According to VA’s  analytics, email visitors converted at a 31% rate on the “File a Claim” pages (which were designed in keeping with the look and feel of the Explore site), slightly higher than the conversions off Explore benefit pages—28% to 30% for email and search traffic and 20% to 25% for general traffic.
 
 ## Looking Ahead
 

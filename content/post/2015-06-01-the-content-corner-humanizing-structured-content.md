@@ -31,11 +31,11 @@ One of the most important themes of content creation revolves around using [plai
 
 The more involved or invested you are in something, the harder it generally is to maintain perspective. Many of us in the digital media profession and within government are very passionate about structured content and its power, but we get tripped up by that very same passion as we try and share it with others. It&#8217;s a pretty typical “geeking out” scenario that begins with a calm explanation of content models and specific field titles and structure that suddenly becomes a wild-eyed sermon about the power of metadata, XML, COPE, future-ready platform agnostic self-aware content blobs&#8230;and our pitiable victim has either zoned out or is watching out for [Skynet](http://en.wikipedia.org/wiki/Skynet_(Terminator)).
 
-## What’s in It for Me?
+## What’s  in It for Me?
 
 I have conducted more content management system training sessions than I care to admit, but the same tactics that work in that setting work when discussing structured content and all content generation: think of the customer or the user, their needs and objectives, and apply them to the new concept.
 
-By default I approach every content provider or SME as someone who is [terribly overworked](http://www.fastcompany.com/3010400/dialed/doing-more-with-less-4-ways-to-cope-and-even-succeed-in-a-downsized-world), and content creation is just one item on a very long to-do list. In the real world, it is very rare to find someone who gets to spend most of their day completely focused on their content generation and publishing. So I always try and respect the person’s workload and encourage them to look at properly structured content as a way to get the most bang for their buck (this approach also works for management).
+By default I approach every content provider or SME as someone who is [terribly overworked](http://www.fastcompany.com/3010400/dialed/doing-more-with-less-4-ways-to-cope-and-even-succeed-in-a-downsized-world), and content creation is just one item on a very long to-do list. In the real world, it is very rare to find someone who gets to spend most of their day completely focused on their content generation and publishing. So I always try and respect the person’s  workload and encourage them to look at properly structured content as a way to get the most bang for their buck (this approach also works for management).
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" %}
@@ -46,7 +46,7 @@ The [create once, publish anywhere](http://www.programmableweb.com/news/cope-cre
 
 I have also found that a majority of content creators have a deep passion for what they are trying to share with users, especially with SMEs. One of our jobs is to help them share as effectively as possible with their community. Properly structured content is also useful in making sure the maximum number of people are exposed to the content that an SME has taken the time to develop and share.
 
-Everyone can understand concepts like “your content will be more likely to appear in someone’s search results,” but many might not need an explanation of algorithms or metadata standards. And many SMEs don’t actually need to know this stuff: it&#8217;s not their job, it&#8217;s ours. But, a few simple pointers can make a big difference in both their content’s exposure and our own workload.
+Everyone can understand concepts like “your content will be more likely to appear in someone’s  search results,” but many might not need an explanation of algorithms or metadata standards. And many SMEs don’t actually need to know this stuff: it&#8217;s not their job, it&#8217;s ours. But, a few simple pointers can make a big difference in both their content’s  exposure and our own workload.
 
 ## Time to Turn Inward
 

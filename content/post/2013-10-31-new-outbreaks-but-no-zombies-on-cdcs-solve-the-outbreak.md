@@ -3,7 +3,7 @@
 
 date: 2013-10-31 10:01:14 -0400
 title: 'New Outbreaks (but No Zombies) on CDC&amp;#8217;s Solve the Outbreak'
-summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC’sdisease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.'
+summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC’s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.'
 authors: [jparcell]
 categories:
   - Mobile
@@ -13,7 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-The [Centers for Disease Control](http://www.cdc.gov) recently added three new outbreaks to their [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) app. CDC released [the app earlier this year](https://www.WHATEVER/2013/02/21/cdcs-solve-the-outbreak-app/ "CDC’s Solve the Outbreak App") to teach users how CDC’s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.
+The [Centers for Disease Control](http://www.cdc.gov) recently added three new outbreaks to their [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) app. CDC released [the app earlier this year](https://www.WHATEVER/2013/02/21/cdcs-solve-the-outbreak-app/ "CDC’s  Solve the Outbreak App") to teach users how CDC’s  disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for the game Sugar Plantation Blues showing a photo of a swamp." %}

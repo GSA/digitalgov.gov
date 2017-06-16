@@ -30,7 +30,7 @@ Metadata for website content is usually managed as part of the editorial process
 
 There may be another source for this metadata, especially in regulatory agencies: internal databases that reference Web content in support of record keeping processes. These databases may contain public and non-public information that were never meant to be published for public consumption. “Metadata” is not typically how the content is described.
 
-The Securities and Exchange Commission (SEC) has recently developed two online [XML](http://en.wikipedia.org/wiki/XML "XML - Wikipedia, the free encyclopedia") products using a database sourcing approach. The content is published using an older Web technology—[Extensible Stylesheet Language Transformations (XSLT)](http://en.wikipedia.org/wiki/XSLT "XSLT - Wikipedia, the free encyclopedia"), which renders the XML as HTML in the user’s browser.
+The Securities and Exchange Commission (SEC) has recently developed two online [XML](http://en.wikipedia.org/wiki/XML "XML - Wikipedia, the free encyclopedia") products using a database sourcing approach. The content is published using an older Web technology—[Extensible Stylesheet Language Transformations (XSLT)](http://en.wikipedia.org/wiki/XSLT "XSLT - Wikipedia, the free encyclopedia"), which renders the XML as HTML in the user’s  browser.
 
 ## SEC Online Docket
 
@@ -38,7 +38,7 @@ The SEC used data from a database that was used to track official agency release
 
 There was considerable discussion about how much of the information from the database to publish, the quality of the data, and how to remove non-public information. Some staff lobbied for a minimal approach, while others advocated using all the public metadata available from the database. We eventually decided to include all available public data, including links to the versions of the documents published in the Federal Register.
 
-A proof of concept demonstrated that we could create an XML file containing all the metadata we needed from an Excel export of the release log database and that we could use XSLT to render the XML as HTML within a user’s browser using our normal HTML template.
+A proof of concept demonstrated that we could create an XML file containing all the metadata we needed from an Excel export of the release log database and that we could use XSLT to render the XML as HTML within a user’s  browser using our normal HTML template.
 
 The key to making the project sustainable, with weekly updates, was the development by one of our in-house staff programmers of a C# program in Visual Studio to automate the regular creation of XML files from the database.
 

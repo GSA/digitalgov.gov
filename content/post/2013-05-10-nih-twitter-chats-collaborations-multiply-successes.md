@@ -29,7 +29,7 @@ In helping support the social media team at the National Center for Complementar
 > </p>
 
 <p dir="ltr">
-  In December 2012, we co-hosted a chat on  stress and anxiety with  the National Institute of Mental Health. By the numbers, the partnership led to one of our most successful chats to date with 10,626,725 impressions and reaching 1,039,465 people. Its success could also be gauged by the chat’s overall activity, as participants retweeted information, asked questions, and shared resources.
+  In December 2012, we co-hosted a chat on  stress and anxiety with  the National Institute of Mental Health. By the numbers, the partnership led to one of our most successful chats to date with 10,626,725 impressions and reaching 1,039,465 people. Its success could also be gauged by the chat’s  overall activity, as participants retweeted information, asked questions, and shared resources.
 </p>
 
 <p dir="ltr">

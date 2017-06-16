@@ -24,7 +24,7 @@ Choosing between a contract, a grant, or a public prize competition to get solut
 
 Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about the subject recently on a DigitalGov University webinar. Being the head of a large federal public prize program, he had a lot to say about the benefits of crowdsourcing innovation through prizes. But, he noted that challenges aren’t always the best avenue to choose.
 
-> “If challenges are so great, why don’t we use them all the time?” Ortega asked. “For the same reason you don’t use a saw to cut a pizza; sometimes it’s the wrong tool for the job.”
+> “If challenges are so great, why don’t we use them all the time?” Ortega asked. “For the same reason you don’t use a saw to cut a pizza; sometimes it’s  the wrong tool for the job.”
 
 However, Ortega says, some benefits of public prize competitions do give them an edge over contracts and grants in certain situations:
 
@@ -37,7 +37,7 @@ The key for a challenge/public prize competition being a good option, he said, i
 
 “Research and development is better through grants and through contracts,” Ortega said, adding that asking people to create something that is completely unknown is difficult to structure a challenge around.
 
-For more, view Ortega’s slides or the webinar in its entirely below:
+For more, view Ortega’s  slides or the webinar in its entirely below:
 
 [Prizes, Contracts & Grants: What Should I Do?](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/Prizes-Contracts-Grants.pdf "Centennial Challenges Program Space Technology Mission Directorate - Prizes, Contracts & Grants: What Should I Do?") (PDF, 7.02 MB, 12 pages)
 

@@ -26,7 +26,7 @@ No matter the page-tracking solution you are using, you not only have a source f
 
 “OK, how, exactly?” you might be asking.
 
-Here at the Department of Health and Human Services (HHS), we happen to be using Google’s Universal Analytics (UA), which allows us to define certain “Custom” Events, Dimensions, and Metrics, or data points that we send to our UA account based on specific parameters we set. Here are a few examples, along with some use cases.
+Here at the Department of Health and Human Services (HHS), we happen to be using Google’s  Universal Analytics (UA), which allows us to define certain “Custom” Events, Dimensions, and Metrics, or data points that we send to our UA account based on specific parameters we set. Here are a few examples, along with some use cases.
 
 ## Custom Searches
 
@@ -72,4 +72,4 @@ Google Analytics (GA) has offered user-defined data sources ever since the first
 
 While the latest digital showrooms tout new technologies and modern designs, you just might get more bang-for-your-buck with a simple tune-up. What if you could double your value with a few tweaks to your engine?
 
-_The HHS Digital Analytics Team supports the Department of Health and Human Services (HHS) through the collection, analysis, and reporting of analytics in support of the Agency’s mission._
+_The HHS Digital Analytics Team supports the Department of Health and Human Services (HHS) through the collection, analysis, and reporting of analytics in support of the Agency’s  mission._

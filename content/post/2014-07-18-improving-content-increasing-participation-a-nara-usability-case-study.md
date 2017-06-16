@@ -26,7 +26,7 @@ NARA staff agreed that the site was due for an upgrade: fixing NARA@work was vot
 
 More than any specific new feature, the Web team is proudest of cementing user-centered design as a standard practice at NARA.
 
-“An important improvement is that [the site is] much more focused on the user,” said Sarah Araghi, NARA’s Web team lead.
+“An important improvement is that [the site is] much more focused on the user,” said Sarah Araghi, NARA’s  Web team lead.
 
 ## Participatory Design Process
 
@@ -54,14 +54,14 @@ In the coming months, NARA@work will get a faceted search powered by Solr. With 
 
 ## NARA@work After Redesign
 
-The redesigned site was recognized as one of NARA’s <a href="http://www.google.com/url?q=http%3A%2F%2Fblogs.archives.gov%2Finnovation%2F2013%2F12%2F30%2Ftop-10-innovative-moments-of-2013%2F&sa=D&sntz=1&usg=AFQjCNGmVkfJ_8SSVZC7DFP-ARXCOqkM6g" target="_blank">Top 10 Innovative Moments of 2013</a>. Informed by staff input, the new site highlights the employee locator and top tasks, adds customization options, and offers simpler navigation. On the back end, the site is now managed in Drupal, which offers more flexibility for both managing and displaying content. When NARA upgrades to a newer, cloud-based version of Drupal, staff will be able to customize their pages even more.
+The redesigned site was recognized as one of NARA’s  <a href="http://www.google.com/url?q=http%3A%2F%2Fblogs.archives.gov%2Finnovation%2F2013%2F12%2F30%2Ftop-10-innovative-moments-of-2013%2F&sa=D&sntz=1&usg=AFQjCNGmVkfJ_8SSVZC7DFP-ARXCOqkM6g" target="_blank">Top 10 Innovative Moments of 2013</a>. Informed by staff input, the new site highlights the employee locator and top tasks, adds customization options, and offers simpler navigation. On the back end, the site is now managed in Drupal, which offers more flexibility for both managing and displaying content. When NARA upgrades to a newer, cloud-based version of Drupal, staff will be able to customize their pages even more.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-403-Customize-NARA-homepage-NARA3.jpg" alt="600-x-403-Customize-NARA-homepage-NARA3" %}
 
 The heavy focus on customer feedback helped change the way NARA staff view their customers.
 
-“I think everybody’s starting to understand that it’s really about who’s using it and what they’re trying to accomplish,” Araghi said.
+“I think everybody’s  starting to understand that it’s  really about who’s  using it and what they’re trying to accomplish,” Araghi said.
 
 Above all, NARA has embraced a design process that puts the customer first. With a new internal communication system, staff can—and do—provide ongoing, real-time feedback that the Web team uses to identify new requirements and further refine the site. By giving staff a voice in the design process, NARA has created more usable sites with stronger buy-in.
 

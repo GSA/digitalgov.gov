@@ -31,11 +31,11 @@ User acceptance testing dealt with _functionality_ and showed us that there was 
 
 Usability testing dealt with _user behavior_, and showed us what the true error was.
 
-Each are similar but have very different goals. Let’s look closer:
+Each are similar but have very different goals. Let’s  look closer:
 
 **User Acceptance Testing**
 
-  * Also known as “Beta Testing”, is used to find bugs in a website’s design
+  * Also known as “Beta Testing”, is used to find bugs in a website’s  design
   * User acceptance testing is done near the end of the design process. It is generally used for the developers to prove to the client that the project is complete
 
 **Usability Testing**

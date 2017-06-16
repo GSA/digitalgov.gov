@@ -3,7 +3,7 @@
 
 date: 2016-03-17 11:00:33 -0400
 title: 'FirstNet Launches Tumblr, Seeking Stories of Public Safety Broadband Use'
-summary: 'FirstNet is a relatively new &ldquo;startup&rdquo; federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’scourageous law enforcement,'
+summary: 'FirstNet is a relatively new &ldquo;startup&rdquo; federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’s courageous law enforcement,'
 authors: [kyle-s-richardson]
 categories:
   - Social Media
@@ -12,12 +12,12 @@ tag:
   - NTIA
 ---
 
-FirstNet is a relatively new “startup” federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’s courageous law enforcement, fire service and EMS personnel who put their lives on the line everyday to make our communities safer and educate them about the FirstNet network. While we have a content-rich website and social media presence to help “get the word out,” we also see the incredible value in the blogging platform that some call &#8220;[the anti-blog](http://techcrunch.com/2013/02/18/tumblr-is-not-what-you-think/)&#8221; because of it&#8217;s &#8216;against the grain&#8217; approach to building readership.
+FirstNet is a relatively new “startup” federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’s  courageous law enforcement, fire service and EMS personnel who put their lives on the line everyday to make our communities safer and educate them about the FirstNet network. While we have a content-rich website and social media presence to help “get the word out,” we also see the incredible value in the blogging platform that some call &#8220;[the anti-blog](http://techcrunch.com/2013/02/18/tumblr-is-not-what-you-think/)&#8221; because of it&#8217;s &#8216;against the grain&#8217; approach to building readership.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-276-tumblr-day-in-life.jpg" alt="Screen capture of A Day in the Life tumblr" %}
 
-What’s great about Tumblr is its versatility; gone are the days where a blog was just a few paragraphs of text with an image or two. With Tumblr, you have the ability to take your blog to the next level—posting GIFs, audio, embedding an Instagram post, even a simple yet impactful quote that gets the message across. Of course you can do the traditional text post, or link to a video or other site, but you can do that all in a customizable, unique space to call your own. And you can embed the entire platform on your agency or organization&#8217;s website.
+What’s  great about Tumblr is its versatility; gone are the days where a blog was just a few paragraphs of text with an image or two. With Tumblr, you have the ability to take your blog to the next level—posting GIFs, audio, embedding an Instagram post, even a simple yet impactful quote that gets the message across. Of course you can do the traditional text post, or link to a video or other site, but you can do that all in a customizable, unique space to call your own. And you can embed the entire platform on your agency or organization&#8217;s website.
 
 Recently, the communications team here at FirstNet reached out to Tumblr to share with them the idea of a new blog titled, &#8220;[A Day in the Life: Stories of Broadband Saving Lives and Protecting Communities](https://firstnetgov.tumblr.com/)&#8221; and had a nice convo with the NYC-based team at Tumblr, who shared several tips and interesting stats, including three that struck us:
 
@@ -54,7 +54,7 @@ Agencies like the Niagara County Sheriff&#8217;s Office—featured in the [video
 
 [youtube https://www.youtube.com/watch?v=cvYW217B-vA&w=600&h=338]
 
-Or the [Wheaton Volunteer Fire Department](http://www.firstnet.gov/newsroom/blog/equipping-volunteer-responders-broadband-technologies) (Maryland) who use personal devices to map directions to the scene, look up a patient’s medications to get a medical history and check the status of local hospitals.
+Or the [Wheaton Volunteer Fire Department](http://www.firstnet.gov/newsroom/blog/equipping-volunteer-responders-broadband-technologies) (Maryland) who use personal devices to map directions to the scene, look up a patient’s  medications to get a medical history and check the status of local hospitals.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-295-WheatonFirehouse-ArticleMontage-web.jpg" alt="Composite of 6 images of people and equipment from the Wheaton Volunteer Fire Department" %}

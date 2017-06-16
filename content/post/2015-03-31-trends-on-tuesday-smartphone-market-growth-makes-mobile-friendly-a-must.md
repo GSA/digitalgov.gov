@@ -3,7 +3,7 @@
 
 date: 2015-03-31 1:00:43 -0400
 title: 'Trends on Tuesday\: Smartphone Market Growth Makes Mobile-Friendly a Must'
-summary: 'ComScore reported last week that smartphones now make up a whopping 75% of the mobile market. That’sup from 65% just one year ago.&nbsp;This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more. This is an undeniable fact because earlier this'
+summary: 'ComScore reported last week that smartphones now make up a whopping 75% of the mobile market. That’s up from 65% just one year ago.&nbsp;This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more. This is an undeniable fact because earlier this'
 authors: [jparcell]
 categories:
   - Mobile
@@ -25,7 +25,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" %} 
 
-ComScore reported last week that smartphones now make up a [whopping 75% of the mobile market](http://www.mobilemarketingwatch.com/smartphones-now-three-quarters-of-the-mobile-market-49151/). That’s up from 65% just one year ago. This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more.
+ComScore reported last week that smartphones now make up a [whopping 75% of the mobile market](http://www.mobilemarketingwatch.com/smartphones-now-three-quarters-of-the-mobile-market-49151/). That’s  up from 65% just one year ago. This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more.
 
 This is an undeniable fact because earlier this month the White House announced the <a href="https://www.WHATEVER/2015/03/19/turning-government-data-into-better-public-service/" target="_blank">Digital Analytics Dashboard</a>. The announcement noted the importance of mobile-friendliness, stating that the Dashboard showed 33% of all traffic to federal sites over a 90-day period came from people using phones and tablets. Over the same period last year, the number was 24%. This number will grow, and the problem is that many federal digital properties are NOT mobile-friendly. In fact, mobile-unfriendliness was identified on <a href="http://www.nextgov.com/mobile/2015/03/4-most-popular-dot-govs-arent-mobile-friendly/108135/" target="_blank">specific properties listed on the Dashboard</a>.
 

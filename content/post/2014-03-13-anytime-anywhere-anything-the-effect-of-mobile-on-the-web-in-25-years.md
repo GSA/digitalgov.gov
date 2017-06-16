@@ -3,7 +3,7 @@
 
 date: 2014-03-13 2:32:42 -0400
 title: 'Anytime, Anywhere, Anything\: The Effect of Mobile on the Web in 25 Years'
-summary: 'In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted. That’sthe theme from the responses we got from our&nbsp;Mobile Gov Community of Practice members when we asked them to predict the effect mobile would have on the Web over'
+summary: 'In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted. That’s the theme from the responses we got from our&nbsp;Mobile Gov Community of Practice members when we asked them to predict the effect mobile would have on the Web over'
 authors: [jparcell]
 categories:
   - Mobile
@@ -27,7 +27,7 @@ tag:
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-web-future-166678934-301-x-212.jpg" alt="featured web future 166678934 301 x 212" %}</a>In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted.
 </p>
 
-That’s the theme from the responses we got from our [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") members when we asked them to predict the effect mobile would have on the Web over the next 25 years.
+That’s  the theme from the responses we got from our [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") members when we asked them to predict the effect mobile would have on the Web over the next 25 years.
 
 While no one claimed to have the exact answer, most members described a future state where the Web was pervasive, not just tied to your computer or smartphone, but interacting with anything and everything.
 
@@ -49,7 +49,7 @@ So how does government prepare for this future state? To be ready, agencies will
 
 There are already efforts in the federal government to start thinking about content and data separate from the presentation layer. We noted in our <a style="line-height: 1.5em" href="https://www.WHATEVER/2013/12/31/trends-on-tuesday-federal-agency-mobile-gov-trends-in-2013/">Trends on Tuesday: Federal Agency Mobile Gov Trends in 2013</a> that agencies like Census and the Department of Labor are releasing apps, but also engaging developers around their data and APIs as part of their mobile strategy for those apps. Agencies have been sharing data on <a style="line-height: 1.5em" href="http://www.data.gov">Data.gov</a> for years but some agencies are also starting to [share mobile code](https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/ "Federal Mobile Code Sharing Catalog Is Here") for reuse and third-party improvement.
 
-But this is just a start. Government’s thinking needs not only to be mobile first, but also needs to move “up the stack” and consider how content and data can be structured and available for anytime, anywhere, anything interaction. <a style="line-height: 1.5em" href="https://www.WHATEVER/2012/11/05/centers-for-disease-control-content-syndication/">Content syndication</a> efforts and the government-wide <a style="line-height: 1.5em" href="https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/">open content modeling working group</a> are examples of early shifts toward this thinking.
+But this is just a start. Government’s  thinking needs not only to be mobile first, but also needs to move “up the stack” and consider how content and data can be structured and available for anytime, anywhere, anything interaction. <a style="line-height: 1.5em" href="https://www.WHATEVER/2012/11/05/centers-for-disease-control-content-syndication/">Content syndication</a> efforts and the government-wide <a style="line-height: 1.5em" href="https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/">open content modeling working group</a> are examples of early shifts toward this thinking.
 
 There is a LOT more thinking and doing to be done. Help build toward this anytime, anywhere, anything future by getting involved with the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") or one of [our other communities](https://www.WHATEVER/communities/ "Communities").
 

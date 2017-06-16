@@ -3,7 +3,7 @@
 
 date: 2013-07-29 3:09:49 -0400
 title: 'How to Create Open, Structured Content'
-summary: 'Structured content refers to the concept of organizing and treating digital content like data. It’sa way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information. Why Structured Content Matters Most digital content'
+summary: 'Structured content refers to the concept of organizing and treating digital content like data. It’s a way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information. Why Structured Content Matters Most digital content'
 authors: [rflagg]
 categories:
   - Content
@@ -17,11 +17,11 @@ tag:
   - structured content
 ---
 
-Structured content refers to the concept of organizing and treating digital content like data. It’s a way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information.
+Structured content refers to the concept of organizing and treating digital content like data. It’s  a way of publishing content as modular, discrete pieces of information that are tagged with machine-readable descriptions. Structured content has the potential to transform how people find, understand, share, and use government information.
 
 **Why Structured Content Matters**
 
-Most digital content published by the federal government is still found on static HTML Web pages. This unstructured content doesn&#8217;t always adapt well to smaller screens, and it’s harder to discover, share, or reuse the information. Given the rapid pace at which new devices are introduced, you can no longer publish content and trust that your audience will only view it on a PC. The proliferation of tablets, smart phones, and other mobile devices is now driving publication of content that is divorced from presentation, and structured so the content is available and consumable anytime, anywhere, on any device.
+Most digital content published by the federal government is still found on static HTML Web pages. This unstructured content doesn&#8217;t always adapt well to smaller screens, and it’s  harder to discover, share, or reuse the information. Given the rapid pace at which new devices are introduced, you can no longer publish content and trust that your audience will only view it on a PC. The proliferation of tablets, smart phones, and other mobile devices is now driving publication of content that is divorced from presentation, and structured so the content is available and consumable anytime, anywhere, on any device.
 
 Several recent policies support this shift by requiring federal agencies to publish content in open, shareable formats. Refer to the [Open Data Policy—Managing Information as an Asset](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 6 MB, 12 pages, May 2013); the [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013); the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) (May 2012), and [OMB policy M-10-06, Open Government Directive](http://www.whitehouse.gov/open/documents/open-government-directive) (December 2009).
 

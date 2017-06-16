@@ -27,9 +27,9 @@ The rise in mobile device usage has created a rise in expectations: [the public 
 Six agencies have leveraged native app functionality for [crowdsourcing purposes](https://www.WHATEVER/2014/06/12/three-ways-agencies-are-using-social-media-in-mobile-products/). The National Oceanic and Atmospheric Administration (NOAA) leads the way with three public-facing applications that transform ordinary citizens into citizen scientists: [Dolphin and Whale 911](https://www.WHATEVER/2013/10/24/dolphin-and-whale-apps-from-noaa-fisheries/), [Release Mako](https://www.WHATEVER/2012/04/26/noaas-release-mako-app/) and [CrowdMag](https://www.WHATEVER/2015/01/29/be-a-citizen-scientist-with-noaas-crowdmag-app/).
 
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2015/06/250-x-444-NOAA-CrowdMag.jpg" alt="Screenshot of the Crowd Mag app" %}The NOAA CrowdMag App collects and sends magnetometer data to NOAA researchers. The app leverages the magnetometer in mobile devices by automatically taking readings from the user’s device and sending the data to researchers. The app was launched in both [Android](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) and [iOS](https://itunes.apple.com/app/id910578825) in 2014 by [NOAA’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/news/national-centers-environmental-information).
+{% include image/full-width.html img="https://www.WHATEVER/files/2015/06/250-x-444-NOAA-CrowdMag.jpg" alt="Screenshot of the Crowd Mag app" %}The NOAA CrowdMag App collects and sends magnetometer data to NOAA researchers. The app leverages the magnetometer in mobile devices by automatically taking readings from the user’s  device and sending the data to researchers. The app was launched in both [Android](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) and [iOS](https://itunes.apple.com/app/id910578825) in 2014 by [NOAA’s  National Centers for Environmental Information](https://www.ncdc.noaa.gov/news/national-centers-environmental-information).
 
-NOAA scientists combine the app’s crowdsourced magnetic data with real-time solar wind data to create near real-time models of Earth’s time changing magnetic field. The data also helps map local magnetic noise sources (think power transformers and iron pipes) to improve accuracy of magnetic navigation systems.
+NOAA scientists combine the app’s  crowdsourced magnetic data with real-time solar wind data to create near real-time models of Earth’s  time changing magnetic field. The data also helps map local magnetic noise sources (think power transformers and iron pipes) to improve accuracy of magnetic navigation systems.
 
 I have been a citizen scientist since earlier this year when I downloaded the app as part of the [Federal CrowdSource Mobile Testing native app testing pilot](https://www.WHATEVER/2015/06/16/trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program/). I talked to Manoj Nair, an [environmental research scientist](http://cires.colorado.edu/about/noaa/) at NOAA, whose team created the application. Nair told me about user response to the application, implementing gamification based on user feedback and the innovative maps they’ve created based on the crowdsourced data.
 
@@ -37,7 +37,7 @@ I have been a citizen scientist since earlier this year when I downloaded the ap
 
 Yes, for three reasons:
 
-  1. Compass calibration. It is possible to get your phone’s compass out of calibration by placing it near a strong magnetic field. If the compass is out of calibration and the app is in the foreground, the app walks users through a set of steps to re-calibrate.
+  1. Compass calibration. It is possible to get your phone’s  compass out of calibration by placing it near a strong magnetic field. If the compass is out of calibration and the app is in the foreground, the app walks users through a set of steps to re-calibrate.
   2. For iOS, the background reporting is not done at a set time interval, but rather in a random fashion, due to a restriction from Apple. Opening the app regularly helps to collect more data.
   3. Apps that are opened regularly are likely to stay installed for a longer time.
 
@@ -57,4 +57,4 @@ We are still figuring that out. For example, with 4 million data points (all dat
 
 **What are the plans for CrowdMag&#8217;s immediate future? Long term?**
 
-Our immediate plan is to release the world’s first geomagnetic field model developed entirely using crowdsourced data. This is going to be a low resolution picture of the Earth’s magnetic field, showing its main dipole. The long term aim is to map the shorter wavelength features of the magnetic field observed on the Earth’s populated surface.
+Our immediate plan is to release the world’s  first geomagnetic field model developed entirely using crowdsourced data. This is going to be a low resolution picture of the Earth’s  magnetic field, showing its main dipole. The long term aim is to map the shorter wavelength features of the magnetic field observed on the Earth’s  populated surface.

@@ -2,7 +2,7 @@
 
 
 date: 2016-11-17 12:00:39 -0400
-title: 'FEMA’sSyndicated Content\: Digital Assists in Moments of Disaster'
+title: 'FEMA’s Syndicated Content\: Digital Assists in Moments of Disaster'
 summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the site widgets and the FEMA app his organization has been developing. The widgets currently available include\: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor.  The FEMA App offers many'
 authors: [christen-geiler]
 categories:
@@ -29,7 +29,7 @@ The [FEMA App](https://www.fema.gov/mobile-app) offers many features such as wea
 
 The [FEMA widgets](https://www.fema.gov/widgets) are a good example of [syndicated content](https://www.WHATEVER/2015/11/09/the-content-corner-structured-content-and-the-power-of-syndication/). Through digital media [syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/), emergency based resources can be combined with ongoing activities at the state and local levels, and can help coordinate emergency messaging for maximum impact and reach.
 
-Dan stated that the organization’s goal “is to provide the most targeted information possible to survivors before, during, and after a disaster.” He noted that, &#8220;with our ability to constantly and quickly edit widget content, we can put out a focused message to a niche market or cast a wider net if necessary. Being able to quickly and confidently put out targeted, specific messaging, and provide survivors with up-to-the-minute information is paramount to our organization.&#8221;
+Dan stated that the organization’s  goal “is to provide the most targeted information possible to survivors before, during, and after a disaster.” He noted that, &#8220;with our ability to constantly and quickly edit widget content, we can put out a focused message to a niche market or cast a wider net if necessary. Being able to quickly and confidently put out targeted, specific messaging, and provide survivors with up-to-the-minute information is paramount to our organization.&#8221;
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-screen-capture-FEMA-website-widgets-Kids-Fire-Safety-display-and-i-frame-code.jpg" alt="Screen capture of the FEMA website widgets Kids Fire Safety display on the left and the i frame code on the right." %}

@@ -3,7 +3,7 @@
 
 date: 2015-03-26 11:56:54 -0400
 title: 'Booking a Discount Bus Ticket? Check Carrier Safety Records with QCMobile'
-summary: 'The new app from the Department of Transportation’sFederal Motor Carrier Safety Administration called &ldquo;QCMobile&rdquo; empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&amp;#8217;s mobile strategy,&nbsp;as they have also recently released the SaferRide app. QCMobile (QC stands for'
+summary: 'The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called &ldquo;QCMobile&rdquo; empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&amp;#8217;s mobile strategy,&nbsp;as they have also recently released the SaferRide app. QCMobile (QC stands for'
 authors: [kdowney]
 categories:
   - Mobile
@@ -16,7 +16,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-The new app from the Department of Transportation’s Federal Motor Carrier Safety Administration called “QCMobile” empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the [SaferRide app](https://www.WHATEVER/2015/01/22/saferride-app-could-save-your-life/).
+The new app from the Department of Transportation’s  Federal Motor Carrier Safety Administration called “QCMobile” empowers U.S. motorists to make safety their highest priority on the roadways this spring. This is a continued theme in DOT&#8217;s mobile strategy, as they have also recently released the [SaferRide app](https://www.WHATEVER/2015/01/22/saferride-app-could-save-your-life/).
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-445-QCMobile-Android-app.jpg" alt="QCMobile Android app" %}QCMobile (QC stands for “Query Central”) is a free download for anyone interested in reviewing the DOT registration and safety performance information of motor carriers.

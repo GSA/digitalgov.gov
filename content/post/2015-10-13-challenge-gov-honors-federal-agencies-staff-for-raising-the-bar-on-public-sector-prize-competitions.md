@@ -39,18 +39,18 @@ Managed by GSA, Challenge.gov serves both as the official listing of challenges 
 
 Since going online in 2010, more than 80 federal agencies have run nearly 500 challenges with over $150 million in prizes. But the success of the program derives, in large part, from the agencies and personnel who first tested its waters and later advocated for its expanded use.
 
-With the public’s participation, the U.S. government developed strategies to better predict the timing, peak and intensity of flu outbreaks; aid first responders in detecting gunfire and locating active shooters; devise solar-powered technologies to desalinate and disinfect water for use in rural areas and developing countries; assist human trafficking survivors with locating resources and shelters, and much more. (See a sample of prize competition [success stories](https://www.challenge.gov/success-stories/).) 
+With the public’s  participation, the U.S. government developed strategies to better predict the timing, peak and intensity of flu outbreaks; aid first responders in detecting gunfire and locating active shooters; devise solar-powered technologies to desalinate and disinfect water for use in rural areas and developing countries; assist human trafficking survivors with locating resources and shelters, and much more. (See a sample of prize competition [success stories](https://www.challenge.gov/success-stories/).) 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-0525.jpg" alt="Expo" %} 
 
 “These people, these stories and this program have enabled federal agencies to engage civic innovators and entrepreneurs to help carry out agency missions and benefit society,” Olson said.
 
 ## Recognizing the Ambitious Firsts
 
-More than 50 awards in all were given to some of the federal government’s brightest stars in the challenge and prize field. Some were honored for being trailblazers, while others were recognized for being unsung heroes.
+More than 50 awards in all were given to some of the federal government’s  brightest stars in the challenge and prize field. Some were honored for being trailblazers, while others were recognized for being unsung heroes.
 
-Projects were recognized for their impact on both government missions and people’s lives.
+Projects were recognized for their impact on both government missions and people’s  lives.
 
-Here’s a glimpse of some of the winners:
+Here’s  a glimpse of some of the winners:
 
 **Greatest Impact for Citizens** went to the Federal Trade Commission for its series of competitions to gain insight into honeypot information systems to [fight against robocalls](http://www.consumer.ftc.gov/features/feature-0025-robocalls).
 
@@ -63,12 +63,12 @@ Two winners of **Public/Private Partnership Collaboration** awards spotlighted:
   * [Head Health Challenge III](https://www.challenge.gov/challenge/head-health-challenge-iii-advanced-materials-for-impact-mitigation/), which saw the National Institute of Standards and Technology team with the NFL, GE and Under Armour to improve protective equipment for athletes, military personnel and those in dangerous occupations.
   * [Asteroid Data Hunter Challenge](https://www.nasa.gov/content/asteroid-data-hunter-challenge-0), which saw NASA team with partners in industry and academia to seek algorithms that can help identify asteroids in images captured by ground-based telescopes.
 
-The **Edison Innovation Award** saluted to the Energy Department’s [Sunshot Catalyst Challenge](http://catalyst.energy.gov/), which accelerates the development of solutions and startups in the U.S. solar marketplace.
+The **Edison Innovation Award** saluted to the Energy Department’s  [Sunshot Catalyst Challenge](http://catalyst.energy.gov/), which accelerates the development of solutions and startups in the U.S. solar marketplace.
 
 Two of the **Most Groundbreaking** challenges included:
 
-  * NASA’s [Cube Quest Challenge](http://www.nasa.gov/cubequest/details), which offered $5.5 million in prizes in the agency’s first completion actually held in space, with competitors getting the chance to fly their own mini satellite to the moon.
-  * The Department of Housing and Urban Development’s [Rebuild by Design Challenge](http://www.rebuildbydesign.org/), which called on teams of experts to create multi-faceted solutions to increase resiliency in the New York metro region battered by Hurricane Sandy.
+  * NASA’s  [Cube Quest Challenge](http://www.nasa.gov/cubequest/details), which offered $5.5 million in prizes in the agency’s  first completion actually held in space, with competitors getting the chance to fly their own mini satellite to the moon.
+  * The Department of Housing and Urban Development’s  [Rebuild by Design Challenge](http://www.rebuildbydesign.org/), which called on teams of experts to create multi-faceted solutions to increase resiliency in the New York metro region battered by Hurricane Sandy.
 
 In all, Challenge.gov presented nearly 50 awards recognizing individuals, agencies and teams for public-sector prize competions across categories ranging from creative and entrepreneurial to most groundbreaking and trailblazing. See the [complete list of honorees](https://www.challenge.gov/challenge-gov-celebrates-five-years-of-open-innovation/), and our Facebook [photo album](https://www.facebook.com/media/set/?set=a.936915249736288.1073741827.101849703242851) for the event.
 

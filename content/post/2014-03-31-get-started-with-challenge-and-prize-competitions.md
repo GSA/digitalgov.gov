@@ -42,7 +42,7 @@ This includes details on the policies and <a href="http://www.whitehouse.gov/sit
   * [Hack-a-thons from start to finish](http://www.youtube.com/watch?v=Q1NrFuiQWGM)
 
 <p dir="ltr">
-  4) Social Media. Follow <a title="link to Challenge.gov's Twitter account" href="https://twitter.com/ChallengeGov">@ChallengeGov on Twitter</a> and check out our<a title="link to Challenge.gov's Facebook page" href="https://www.facebook.com/ChallengeGov"> Facebook</a> page. You can use these to learn about public prizes and we can help promote your agency’s challenges.
+  4) Social Media. Follow <a title="link to Challenge.gov's Twitter account" href="https://twitter.com/ChallengeGov">@ChallengeGov on Twitter</a> and check out our<a title="link to Challenge.gov's Facebook page" href="https://www.facebook.com/ChallengeGov"> Facebook</a> page. You can use these to learn about public prizes and we can help promote your agency’s  challenges.
 </p>
 
 <p dir="ltr">

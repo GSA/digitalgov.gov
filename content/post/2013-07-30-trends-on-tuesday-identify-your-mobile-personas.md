@@ -38,7 +38,7 @@ When it comes to mobile marketing and strategy, he says it&#8217;s easy to get c
 
 **The Mobile Heat Map**
 
-Bruce Hershey’s mobile tactic heat map takes these mobile personas and examines their mobile usage behaviors by tactic. The darker the cell, the more that mobile persona is engaging in the activity. The check marks indicate the tactics the mobile persona actually uses. Lighter colors with no check marks means very low activity and darker colors with check marks mean there is a high level of activity by its respective mobile persona.
+Bruce Hershey’s  mobile tactic heat map takes these mobile personas and examines their mobile usage behaviors by tactic. The darker the cell, the more that mobile persona is engaging in the activity. The check marks indicate the tactics the mobile persona actually uses. Lighter colors with no check marks means very low activity and darker colors with check marks mean there is a high level of activity by its respective mobile persona.
 
 When your agency is implementing a mobile strategy, it is critical to think about the customer first. Determining your customer&#8217;s personas will help you identify the tools that resonate most with those personas. Remember, the mobile world is constantly changing, so you should be constantly updating your personas and tactics.
 

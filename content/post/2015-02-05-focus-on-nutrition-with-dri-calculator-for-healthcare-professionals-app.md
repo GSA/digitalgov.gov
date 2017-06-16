@@ -23,10 +23,10 @@ tag:
 
 My personal two-week obsession in wristband form came in sporty neon orange and provided me plenty of numbers to keep me busy making sense of it all.
 
-Consider another approach in conjunction with your healthcare professional. The USDA’s “Dietary Reference Intakes Calculator for Healthcare Professionals” app allows users to keep track of nutrient calculations and recommendations that are based on the Dietary Reference Intake (DRI) values. Through the app, healthcare professionals can streamline the nutrition care process for patients and clients with access to credible nutrition information.
+Consider another approach in conjunction with your healthcare professional. The USDA’s  “Dietary Reference Intakes Calculator for Healthcare Professionals” app allows users to keep track of nutrient calculations and recommendations that are based on the Dietary Reference Intake (DRI) values. Through the app, healthcare professionals can streamline the nutrition care process for patients and clients with access to credible nutrition information.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-445-USDA-DRI-Calculator-for-Healthcare-Professionals-Android-app-personal-page.jpg" alt="250-x-445-USDA-DRI-Calculator-for-Healthcare-Professionals-Android-app-personal-page" %}DRIs are recommended amounts of each nutrient a healthy person should consume to prevent deficiency or harmful health effects. The National Academy of Science’s Institute of Medicine developed the DRIs in the mid-1990s for healthcare professionals to assess and plan diets for groups or individuals.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-445-USDA-DRI-Calculator-for-Healthcare-Professionals-Android-app-personal-page.jpg" alt="250-x-445-USDA-DRI-Calculator-for-Healthcare-Professionals-Android-app-personal-page" %}DRIs are recommended amounts of each nutrient a healthy person should consume to prevent deficiency or harmful health effects. The National Academy of Science’s  Institute of Medicine developed the DRIs in the mid-1990s for healthcare professionals to assess and plan diets for groups or individuals.
 
 The DRI app includes user-friendly features such as pregnancy weight gain charts, DRI glossary terms, bookmarking and note saving options. Bookmarking and note saving allow users to personalize the app and organize information for later reference.
 

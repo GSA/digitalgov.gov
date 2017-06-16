@@ -24,9 +24,9 @@ OCSIT and 18F employees serve as the subject matter expert judges. They evaluate
 
 **SCALABILITY**: The potential scalability of the proposed solution across government.
 
-**PROBLEM UNDERSTANDING**: The proposal’s understanding and explanation of the problem that needs to be solved.
+**PROBLEM UNDERSTANDING**: The proposal’s  understanding and explanation of the problem that needs to be solved.
 
-**CUSTOMER NEED**: The proposal’s understanding of the customers that the project serves. Ideas are scored and grouped into 3 categories:
+**CUSTOMER NEED**: The proposal’s  understanding of the customers that the project serves. Ideas are scored and grouped into 3 categories:
 
   1. Moving forward/being funded
   2. More information is needed, or the project needs to be re-scoped, or

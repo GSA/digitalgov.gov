@@ -36,11 +36,11 @@ Early live video streaming pioneers, [Ustream](http://www.ustream.tv/platform/br
     [Still and video photographers and purists will cringe](http://digiday.com/platforms/time-take-vertical-video-seriously/), but Periscope and Meerkat are optimized for vertical or ‘portrait’ video shooting, so plan ahead to frame your shots to take advantage of this tall aspect ratio for visuals.
   4. **Make your broadcast easy to find.**
   
-    Make sure it’s listed as ‘public,’ has the location tagged, and has a good description of what’s going to happen.
+    Make sure it’s  listed as ‘public,’ has the location tagged, and has a good description of what’s  going to happen.
   5. **Publicize the event ahead of time on multiple social media channels.**
   
-    Give your followers a chance to pay attention or tune back in a couple hours and 15 minutes before the event on the social media channels where they follow you (not just Twitter, although it’s probably the most real-time friendly).
-  6. **Find the right time of day to broadcast based on your audience’s regular social media engagement habits.**
+    Give your followers a chance to pay attention or tune back in a couple hours and 15 minutes before the event on the social media channels where they follow you (not just Twitter, although it’s  probably the most real-time friendly).
+  6. **Find the right time of day to broadcast based on your audience’s  regular social media engagement habits.**
   
     This might not always be possible, but if you have control over the broadcast timing, check your current audience/fans&#8217; engagement levels throughout the day and find when they’re most likely to catch you streaming.
   7. **Prepare to respond to comments in real time.**

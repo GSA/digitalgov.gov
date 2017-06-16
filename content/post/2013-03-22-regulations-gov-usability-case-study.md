@@ -98,7 +98,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      Now that these three changes have been made by Regulations.gov, their users are able to more easily search for and locate their desired results. Make sure to follow the usability guidelines outlined at <a href="http://usability.gov/">Usability.gov</a> when designing your site’s search.
+      Now that these three changes have been made by Regulations.gov, their users are able to more easily search for and locate their desired results. Make sure to follow the usability guidelines outlined at <a href="http://usability.gov/">Usability.gov</a> when designing your site’s  search.
     </p>
     
     <p>

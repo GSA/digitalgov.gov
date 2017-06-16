@@ -3,7 +3,7 @@
 
 date: 2014-11-14 10:00:32 -0400
 title: 'Institute of Education Sciences &amp;#8211; Usability Case Study'
-summary: 'After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the Institute&nbsp;of Education Sciences (IES). Their complaints prompted a Plain Language makeover for the Institute’sfunding materials. As the research arm of the U.S. Education Department, IES’smission is to provide rigorous and relevant evidence'
+summary: 'After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the Institute&nbsp;of Education Sciences (IES). Their complaints prompted a Plain Language makeover for the Institute’s funding materials. As the research arm of the U.S. Education Department, IES’s mission is to provide rigorous and relevant evidence'
 authors: [katina-stapleton]
 categories:
   - Monthly Theme
@@ -18,9 +18,9 @@ tag:
   - UX
 ---
 
-After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/) makeover for the Institute’s funding materials.
+After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/) makeover for the Institute’s  funding materials.
 
-As the research arm of the U.S. Education Department, IES’s mission is to provide rigorous and relevant evidence on which to ground education practice and policy. Beginning in 2012, the project applied a Plain Language best practices to both their Funding Opportunities page and the grant solicitations themselves. The goal was make the information more user-friendly, clarify requirements, and make the application process easier.
+As the research arm of the U.S. Education Department, IES’s  mission is to provide rigorous and relevant evidence on which to ground education practice and policy. Beginning in 2012, the project applied a Plain Language best practices to both their Funding Opportunities page and the grant solicitations themselves. The goal was make the information more user-friendly, clarify requirements, and make the application process easier.
 
 ### Stage One: Redesign of the IES.ED.GOV/Funding Portal
 
@@ -38,7 +38,7 @@ Each step included an action and a hyperlink to the materials required to comple
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-320-IES-1.jpg" alt="Revised IES.ED.GOV/Funding" %}
 
-Next up was organizing the long list of funding opportunities. Staff removed all previous years’ opportunities from the page and grouped the current fiscal year’s opportunities first by the type of grant funding (research vs. research training), then by RFA in numerical order.
+Next up was organizing the long list of funding opportunities. Staff removed all previous years’ opportunities from the page and grouped the current fiscal year’s  opportunities first by the type of grant funding (research vs. research training), then by RFA in numerical order.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-387-IES-2.jpg" alt="List of Current FY15 Funding Opportunities on IES.ED.GOV/Funding" %}

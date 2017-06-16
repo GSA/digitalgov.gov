@@ -41,4 +41,4 @@ This is true in both the government and industry.  For example, define how the s
 >   2. Having an open conversation about the relationship will help determine the most efficient way to achieve your common goals.
 >   3. Don’t think that you can improve the overall experience you provide to customers without addressing the performance you get from internal organizations that you depend on.
 
-Tells us what methods you use to understand your customers. What’s worked the best?  What are your biggest challenges?
+Tells us what methods you use to understand your customers. What’s  worked the best?  What are your biggest challenges?

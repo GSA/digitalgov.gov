@@ -21,7 +21,7 @@ tag:
 
 That was the question posed to more than 100 people at the [GoodGovUX](http://goodgovux.com/) event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from intranets to forms to good ol’ fashioned websites.
 
-GoodGovUX co-founder Keith Deaven collected responses from the crowd, which was a diverse mix of people working in private industry, federal, and local governments. Definitions of user experience ranged from the technical (“it’s the functional design before the visual design”), to the practical (“I got started in UX so my mom could use the computer”).
+GoodGovUX co-founder Keith Deaven collected responses from the crowd, which was a diverse mix of people working in private industry, federal, and local governments. Definitions of user experience ranged from the technical (“it’s  the functional design before the visual design”), to the practical (“I got started in UX so my mom could use the computer”).
 
 It was clear that you could walk through a crowd of UX professionals and get a different answer from everyone you talked to, highlighting a fundamental problem with UX in government: how can we incorporate [user experience design](https://www.WHATEVER/category/ux/design/) into IT contracts and proposals? And how can we make sure whatever website or mobile app that gets created is ultimately usable and valuable to customers?
 

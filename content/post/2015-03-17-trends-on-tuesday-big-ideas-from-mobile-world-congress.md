@@ -3,7 +3,7 @@
 
 date: 2015-03-17 10:00:10 -0400
 title: 'Trends on Tuesday\: Big Ideas from Mobile World Congress'
-summary: ' Mobile World Congress, the world’slargest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’sshow shattered previous records with more than 93,000 attendees across all'
+summary: ' Mobile World Congress, the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across all'
 authors: [wsullivan]
 categories:
   - Mobile
@@ -20,7 +20,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" %}
 
-[Mobile World Congress](http://mobileworldcongress.com/), the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across all the areas that mobile touches. Here are a few notable trends and topics that I came away with and what government agencies should learn from them:
+[Mobile World Congress](http://mobileworldcongress.com/), the world’s  largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s  show shattered previous records with more than 93,000 attendees across all the areas that mobile touches. Here are a few notable trends and topics that I came away with and what government agencies should learn from them:
 
 ### Phone Sizes
 
@@ -42,7 +42,7 @@ It is challenging to begin preparing for a 5G world since the final specificatio
 
 For instance, when 5G networks become a reality, streaming video at ultra high definition quality (like the new [4K standard](http://en.wikipedia.org/wiki/4K_resolution)) could become a reality and the infrastructure and technology to manage that would be substantial.
 
-For more about some of the specifications being proposed from industry groups, check out the [Next Generation Mobile Networks alliance 5G Whitepaper](http://ngmn.org/fileadmin/ngmn/content/images/news/ngmn_news/NGMN_5G_White_Paper_V1_0.pdf) or the [European Union’s 5G Public Private Partnership proposal](http://5g-ppp.eu/wp-content/uploads/2015/02/5G-Vision-Brochure-v1.pdf).
+For more about some of the specifications being proposed from industry groups, check out the [Next Generation Mobile Networks alliance 5G Whitepaper](http://ngmn.org/fileadmin/ngmn/content/images/news/ngmn_news/NGMN_5G_White_Paper_V1_0.pdf) or the [European Union’s  5G Public Private Partnership proposal](http://5g-ppp.eu/wp-content/uploads/2015/02/5G-Vision-Brochure-v1.pdf).
 
 ### The Internet of Things
 

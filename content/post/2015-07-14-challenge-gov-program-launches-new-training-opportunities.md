@@ -19,9 +19,9 @@ Seven new training modules aim to help [Federal Challenge and Prize Community](h
 
 The new training modules come in response to an ever-increasing demand across government to use challenge and prize competitions to drive innovation and solve mission-centric problems. We invite members of the vendor and government community with expertise to share successes and lessons learned as panel members on future expert series. [Contact](https://www.challenge.gov/contact/) the Challenge.gov team for more information.
 
-In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. Registration is now open.
+In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s  All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. Registration is now open.
 
-In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.](https://www.WHATEVER/event/module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes/)
+In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s  All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.](https://www.WHATEVER/event/module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes/)
 
 Module 3: Operational Best Practices and Lessons Learned
   

@@ -62,11 +62,11 @@ The [Agile Blanket Purchase Agreement](https://pages.18f.gov/ads-bpa/buyers/) is
 
 ## cloud.gov {#cloud-gov}
 
-[cloud.gov](https://cloud.gov/) is a shared platform built for government that allows agencies to securely deploy systems to the cloud. It takes care of baseline security and scalability concerns and allows federal teams to focus on delivering quality products. We [expect](https://18f.gsa.gov/2016/07/18/cloud-gov-full-steam-ahead-fedramp-assessment-process/) cloud.gov to receive FedRAMP Joint Authorization Board Provisional Authority to Operate in November. We’re also [building a system](https://18f.gsa.gov/2016/04/15/compliance-masonry-buildling-a-risk-management-platform/) to help automate risk management documentation. Read more [blog posts about cloud.gov](https://18f.gsa.gov/tags/cloud-gov/) and [watch Bret Mogilefsky’s lightning talk](https://youtu.be/NRAlPdiWXN8?t=1h14m55s).
+[cloud.gov](https://cloud.gov/) is a shared platform built for government that allows agencies to securely deploy systems to the cloud. It takes care of baseline security and scalability concerns and allows federal teams to focus on delivering quality products. We [expect](https://18f.gsa.gov/2016/07/18/cloud-gov-full-steam-ahead-fedramp-assessment-process/) cloud.gov to receive FedRAMP Joint Authorization Board Provisional Authority to Operate in November. We’re also [building a system](https://18f.gsa.gov/2016/04/15/compliance-masonry-buildling-a-risk-management-platform/) to help automate risk management documentation. Read more [blog posts about cloud.gov](https://18f.gsa.gov/tags/cloud-gov/) and [watch Bret Mogilefsky’s  lightning talk](https://youtu.be/NRAlPdiWXN8?t=1h14m55s).
 
 ## DATA Act {#data-act}
 
-The Digital Accountability and Transparency Act (DATA Act) is a law that, once implemented, will make it easier to understand how the federal government spends money. [18F has been working with the Department of the Treasury](https://18f.gsa.gov/2015/06/09/data-act-data-act-explainer/) to successfully implement the law and help Treasury adopt some modern practices, like working in the open. Renata Maziarz from the Treasury talked about the benefits she’s seen from working in the open.
+The Digital Accountability and Transparency Act (DATA Act) is a law that, once implemented, will make it easier to understand how the federal government spends money. [18F has been working with the Department of the Treasury](https://18f.gsa.gov/2015/06/09/data-act-data-act-explainer/) to successfully implement the law and help Treasury adopt some modern practices, like working in the open. Renata Maziarz from the Treasury talked about the benefits she’s  seen from working in the open.
 
 > We have a lot of auditors. We probably have more auditors than we have staff. Working in the open is the best thing because we can just say “Hey, take a look at our open JIRA board. Hey, go take a look at our GitHub site. Everything is out in the open. You’re welcome to comment or question.” I love open.
 
@@ -74,13 +74,13 @@ The Digital Accountability and Transparency Act (DATA Act) is a law that, once i
 
 ## California Child Welfare System {#california-child-welfare-system}
 
-Last year, California began a process to replace their child welfare services case management system. Through a partnership with the Department of Health and Human Services, 18F was able to work on behalf of HHS with California’s Department of Social Services and Office of Systems Integration and Code for America to [simplify the contracting documents](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and to incorporate modular contracting, agile development, user-centered design, and open source practices into their project. Hear more from Stuart Drown, the California Deputy Secretary for Innovation and Accountability, about the project
+Last year, California began a process to replace their child welfare services case management system. Through a partnership with the Department of Health and Human Services, 18F was able to work on behalf of HHS with California’s  Department of Social Services and Office of Systems Integration and Code for America to [simplify the contracting documents](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and to incorporate modular contracting, agile development, user-centered design, and open source practices into their project. Hear more from Stuart Drown, the California Deputy Secretary for Innovation and Accountability, about the project
 
 [youtube=http://www.youtube.com/watch?v=JM4VLjRgqWo&w=600]
 
 ## login.gov
 
-We’re building an authentication platform to make online interactions with the U.S. government simple, efficient and intuitive. This platform will be a service shared by agencies to streamline logging in and to allow the public to securely access personal information and federal government services. Read the [Identity Playbook](https://pages.18f.gov/identity-playbook/) the team is using to guide their work and watch [Joel Minton’s lightning talk about the project](https://youtu.be/NRAlPdiWXN8).
+We’re building an authentication platform to make online interactions with the U.S. government simple, efficient and intuitive. This platform will be a service shared by agencies to streamline logging in and to allow the public to securely access personal information and federal government services. Read the [Identity Playbook](https://pages.18f.gov/identity-playbook/) the team is using to guide their work and watch [Joel Minton’s  lightning talk about the project](https://youtu.be/NRAlPdiWXN8).
 
 ## What&#8217;s next {#whats-next}
 

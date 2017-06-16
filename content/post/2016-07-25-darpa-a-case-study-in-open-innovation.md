@@ -33,7 +33,7 @@ There&#8217;s the Internet, for starters. And if that isn’t enough, the agency
 And the ideas haven’t dried up. A scan of programs currently in the works reveals DARPA to be as forward-looking and vital as ever. Who doesn’t want a body that can [heal itself](http://www.darpa.mil/news-events/2015-10-05)?
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-306-Concept-diagram-of-ElectRx-technologies-Infographic-December-2014_619x316.jpg" alt="Concept diagram of DARPA’s Electrical Prescriptions (Elect R x) program, precise and intelligent modulation of nerve-organ circuits to provide new treatments for restoring physical and mental health." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-306-Concept-diagram-of-ElectRx-technologies-Infographic-December-2014_619x316.jpg" alt="Concept diagram of DARPA’s  Electrical Prescriptions (Elect R x) program, precise and intelligent modulation of nerve-organ circuits to provide new treatments for restoring physical and mental health." %}
 
 So how does an agency within the massive, red-tape-burdened federal government remain so flexible, open and inventive?
 
@@ -43,8 +43,8 @@ Well, a new [report](http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf)
 
 The agency cites four main factors:
 
-  * Limited tenure and the urgency it promotes: As noted in a recent [CNN story](http://money.cnn.com/2016/07/13/technology/darpa-innovation/index.html), DARPA program managers are brought on board with the understanding their tenures will be short&#8211;typically no more than four years. It&#8217;s an approach that won&#8217;t necessarily be right for every organization or agency, but at DARPA, having “expiration dates” printed on program manager’s ID badges helps fuel the agency&#8217;s signature &#8220;hair on fire&#8221; sense of urgency.
-  * A sense of mission: It’s hard not to feel inspired by a call to serve your country, create technological surprise and change the world.
+  * Limited tenure and the urgency it promotes: As noted in a recent [CNN story](http://money.cnn.com/2016/07/13/technology/darpa-innovation/index.html), DARPA program managers are brought on board with the understanding their tenures will be short&#8211;typically no more than four years. It&#8217;s an approach that won&#8217;t necessarily be right for every organization or agency, but at DARPA, having “expiration dates” printed on program manager’s  ID badges helps fuel the agency&#8217;s signature &#8220;hair on fire&#8221; sense of urgency.
+  * A sense of mission: It’s  hard not to feel inspired by a call to serve your country, create technological surprise and change the world.
   * Trust and autonomy: The freedom to make decisions without obtaining endless approvals is critical to innovation at DARPA.
   * Risk-taking and tolerance of failure: When you’re trying things that have never been done, failure comes with the territory.
 
@@ -58,9 +58,9 @@ DARPA has listed several challenge competitions on Challenge.gov, which invites 
 
 These challenges provide &#8220;a way of seeing what is and isn’t possible in a given field and stimulating further work,&#8221; the report states.
 
-Indeed, DARPA has used challenges to make significant progress in areas such as robotics and responses to disease outbreaks. It’s the perfect approach for an agency that may reject an idea, not because it’s too risky, but because it isn’t ambitious enough.
+Indeed, DARPA has used challenges to make significant progress in areas such as robotics and responses to disease outbreaks. It’s  the perfect approach for an agency that may reject an idea, not because it’s  too risky, but because it isn’t ambitious enough.
 
-As one DARPA Program Manager says, &#8220;If it’s not transformative, change it.&#8221;
+As one DARPA Program Manager says, &#8220;If it’s  not transformative, change it.&#8221;
 
 That quote comes from Col. Matt Hepburn, who also happens to be a [mentor](https://www.challenge.gov/mentors/) for the Challenge.gov program, providing guidance and insight to others throughout the federal government looking to attract new ideas through open competition.
 

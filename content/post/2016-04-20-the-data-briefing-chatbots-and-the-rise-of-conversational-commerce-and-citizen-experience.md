@@ -33,7 +33,7 @@ Facebook has now joined in the <a href="http://venturebeat.com/2016/04/14/facebo
 
 A [recent article from Techcrunch](http://techcrunch.com/2016/02/03/app-fatigue/) stated:
 
-> “Here’s the hard truth: Building apps for the sake of apps has run out of steam. Data really is king. Without it, you’re playing the lottery versus Blackjack. Developers and entrepreneurs are better served thinking about how automation on top of existing data sets can transform new businesses, as opposed to adding a new layer of notifications.”
+> “Here’s  the hard truth: Building apps for the sake of apps has run out of steam. Data really is king. Without it, you’re playing the lottery versus Blackjack. Developers and entrepreneurs are better served thinking about how automation on top of existing data sets can transform new businesses, as opposed to adding a new layer of notifications.”
 
 Here is how chatbots will bring value through conversational user experience. People will interact with the chatbot through Web pages, instant messaging, chat, texting, emails, mobile apps and even virtual reality/augmented reality. The user experience design will be based on text, voice, video or even virtual world interfaces. Behind the user interface is a machine learning engine that draws upon APIs*, databases, apps and the Internet of Things to produce the interactions and services. According to an <a href="https://dionhinchcliffe.com/2016/04/13/how-chatbots-and-artificial-intelligence-are-evolving-the-digitalsocial-experience/" target="_blank">expert in digital technologies</a>, the use cases for chatbots range from information lookup and customer service to automating processes and workflows.
 
@@ -50,4 +50,4 @@ _*API – Application Programming Interface. How software programs and databases
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -32,7 +32,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  In January 2012 Hernandez conducted what’s called “<a href="http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a>”—a way to see where people click first when trying to complete a task. It’s an important thing to know—research has shown that users who get the first click right have an 87% chance to complete the task successfully.
+  In January 2012 Hernandez conducted what’s  called “<a href="http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a>”—a way to see where people click first when trying to complete a task. It’s  an important thing to know—research has shown that users who get the first click right have an 87% chance to complete the task successfully.
 </p>
 
 <p dir="ltr">
@@ -58,7 +58,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Hernandez continues to add more video content and tweak the design based upon user feedback and requests. And that’s good, because video traffic for the top videos has increased more than 190%.
+  Hernandez continues to add more video content and tweak the design based upon user feedback and requests. And that’s  good, because video traffic for the top videos has increased more than 190%.
 </p>
 
 <p dir="ltr">

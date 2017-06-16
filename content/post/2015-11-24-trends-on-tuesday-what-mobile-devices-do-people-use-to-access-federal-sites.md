@@ -3,7 +3,7 @@
 
 date: 2015-11-24 10:00:40 -0400
 title: 'Trends on Tuesday\: What Mobile Devices Do People Use to Access Federal Sites?'
-summary: 'Mobile users of government websites are growing in double digit percentages and will likely soon become the majority. For some recent internal project research, I dove into some of the federal government-wide analytics looking at mobile usage and found a few interesting tidbits to share\: It’san OS battle of the As. Apple devices slightly'
+summary: 'Mobile users of government websites are growing in double digit percentages and will likely soon become the majority. For some recent internal project research, I dove into some of the federal government-wide analytics looking at mobile usage and found a few interesting tidbits to share\: It’s an OS battle of the As. Apple devices slightly'
 authors: [wsullivan]
 categories:
   - Metrics
@@ -21,10 +21,10 @@ Mobile users of government websites are [growing in double digit percentages](ht
 For some recent internal project research, I dove into some of the [federal government-wide analytics](http://analytics.usa.gov) looking at mobile usage and found a few interesting tidbits to share:
 
 <li style="font-weight: 400">
-  <b>It’s an OS battle of the As. </b>Apple devices slightly edge out Android as the most popular with 49.24% to 44.88% of the audience.
+  <b>It’s  an OS battle of the As. </b>Apple devices slightly edge out Android as the most popular with 49.24% to 44.88% of the audience.
 </li>
 <li style="font-weight: 400">
-  <b>There’s no realistic third contender.</b> Windows devices make up less than 4% and Blackberry less than .5% of the audience, then it trails off quickly from there with Nokia, Symbian, and FirefoxOS holding hundredths of a percent.
+  <b>There’s  no realistic third contender.</b> Windows devices make up less than 4% and Blackberry less than .5% of the audience, then it trails off quickly from there with Nokia, Symbian, and FirefoxOS holding hundredths of a percent.
 </li>
 
 
@@ -34,7 +34,7 @@ For some recent internal project research, I dove into some of the [federal gove
   <b>Android devices are slow to get upgrades.</b> The top operating system version is Android 4.4.2, which <a href="https://en.wikipedia.org/wiki/Android_version_history">launched almost two years ago in December of 2013</a> (Android 6.0 launched this October), but many Android users are at the mercy of their carrier, device manufacturer or both, for getting upgrades pushed through.
 </li>
 <li style="font-weight: 400">
-  <b>Screen resolutions are incredibly fragmented.</b> While Apple’s small product offering of one phone per year helps establish standards, after you leave the comfort of the five resolutions from the last five Apple phones, there’s an infinite long tail of device screen sizes.
+  <b>Screen resolutions are incredibly fragmented.</b> While Apple’s  small product offering of one phone per year helps establish standards, after you leave the comfort of the five resolutions from the last five Apple phones, there’s  an infinite long tail of device screen sizes.
 </li>
 
 I should note: This doesn’t include all government websites, just federal ones using the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP). For a sampling of the government agencies included and a high level overview, check out [analytics.usa.gov](https://analytics.usa.gov/).

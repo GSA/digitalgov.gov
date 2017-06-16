@@ -27,6 +27,6 @@ This app serves a wide audience, including those who are looking to join the pro
 
 For current cadets, the app contains an incredible amount of handy reference material, including uniform information, rank and ribbon information, and the army values. The app also features specialized schools available for cadets during the summer or winter, internship information and more.
 
-The app is available for Android devices. It was published in mobile format in partnership with Combined Arms Support Command’s Technology Integration Branch in Ft. Lee, Virginia.
+The app is available for Android devices. It was published in mobile format in partnership with Combined Arms Support Command’s  Technology Integration Branch in Ft. Lee, Virginia.
 
 _You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/)._

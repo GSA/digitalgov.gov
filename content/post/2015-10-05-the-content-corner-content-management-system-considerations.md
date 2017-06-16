@@ -43,7 +43,7 @@ After the extensive content review that you should have completed as preparation
 
 Another area of CMS implementation many struggle with is determining users’ rights and permissions. My personal preference is to start with tight controls and then loosen the reins as the user requests it or as levels of trust and competence are proven. Yes, I know how that makes me sound, but if you’re working on a live, public sector site, you tend to be careful. However, Rory Douglas, <a href="http://alistapart.com/article/managing-your-content-management-system" target="_blank">author of the recent article that inspired this post</a>, recommends you “err on the side of giving them (the user) slightly too much” freedom. Some of this depends on the level of familiarity you as an administrator may have with your contributors and their level of familiarity with your system, [style guide](https://www.WHATEVER/2015/06/08/the-content-corner-creating-a-content-style-guide/), workflow, etc.
 
-Whether it’s a permission or another setting, you will also need to determine certain limits users will have. Many times this is handled via a specific user type such as:
+Whether it’s  a permission or another setting, you will also need to determine certain limits users will have. Many times this is handled via a specific user type such as:
 
   * Author,
   * Editor,

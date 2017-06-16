@@ -32,7 +32,7 @@ DigitalGov has seen posts from members of the community who land on opposite sid
   * **Social clicks**: clicks occurring on the social media shares that come back to the website.
   * **Social referrals**: the number of visits to your site from social media channels.
 
-## NIDA’s Experiment
+## NIDA’s  Experiment
 
 Since 2011, the [National Institute on Drug Abuse](http://www.drugabuse.gov/) (NIDA) has used a small orange box that says “+Share.” In June 2014, we added a scrolling toolbar (on the left, in the desktop view screenshot below) to the site for those viewing on a desktop. Then in October 2014, we enabled a scrolling toolbar for mobile visitors as well (on the bottom, in the mobile view screenshot below).
 
@@ -49,9 +49,9 @@ More importantly, we’ve also experienced a correlational growth in social refe
 
 ## Drawing Conclusions
 
-Given this information, social sharing buttons are effective for NIDA’s purposes. With relatively minor effort, we’ve increased shares, clicks, and referrals.
+Given this information, social sharing buttons are effective for NIDA’s  purposes. With relatively minor effort, we’ve increased shares, clicks, and referrals.
 
-Another lesson learned is that the location of the toolbars played a crucial role in the increase in shares. The toolbars, which scrolled with the visitor, made it obvious and easy to share NIDA’s content. If you feel your social sharing buttons aren’t pulling their weight, consider adjusting their location and design in order to attract visitors to the sharing options on your site.
+Another lesson learned is that the location of the toolbars played a crucial role in the increase in shares. The toolbars, which scrolled with the visitor, made it obvious and easy to share NIDA’s  content. If you feel your social sharing buttons aren’t pulling their weight, consider adjusting their location and design in order to attract visitors to the sharing options on your site.
 
 If even a fraction of your visitors share to their accounts, you should see increased traffic driven back to your site. Once the buttons are up on your site, there is minimal effort required to keep the sharing going. Can you say the same about other social media strategies you employ?
 

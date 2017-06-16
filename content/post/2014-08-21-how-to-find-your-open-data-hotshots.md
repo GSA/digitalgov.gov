@@ -42,7 +42,7 @@ On that note, here&#8217;s a list of tips and tricks from folks routinely involv
 
 The first step in finding and measuring to compare who your ‘top users are’ is to figure out what are you trying to achieve and—thereby—how you will measure and rank that achievement.
 
-Here’s a list of potential objectives and some corresponding key performance indicators (KPIs):
+Here’s  a list of potential objectives and some corresponding key performance indicators (KPIs):
 
 <div style="float: left; width: 49%; height: 50px; background-color: #fff; margin-bottom: 10px;">
   <strong>Data Objective</strong>
@@ -88,7 +88,7 @@ Here’s a list of potential objectives and some corresponding key performance i
 
 ### Online
 
-Going online is the fastest way to find out who’s out there and what they’re doing with your data. Here are some digital channels where you might begin/focus your first searches:
+Going online is the fastest way to find out who’s  out there and what they’re doing with your data. Here are some digital channels where you might begin/focus your first searches:
 
 **Your API Management Software**
 
@@ -122,7 +122,7 @@ Get on your favorite search engine and start surfing…
 
 **Check out the OpenData500**
 
-This [site](http://www.opendata500.com/) is a project of NYU’s [GovLab](http://thegovlab.org/), and lists 500 companies that depend on open data. (To connect with the team, you can email [opendata500@thegovlab.org](mailto:%20opendata500@thegovlab.org).) We talked about OpenData500 in the Open Data Action Plan and WhiteHouse.gov blog posts, and really appreciate seeing the work they’ve done to study the community. This is a great resource.
+This [site](http://www.opendata500.com/) is a project of NYU’s  [GovLab](http://thegovlab.org/), and lists 500 companies that depend on open data. (To connect with the team, you can email [opendata500@thegovlab.org](mailto:%20opendata500@thegovlab.org).) We talked about OpenData500 in the Open Data Action Plan and WhiteHouse.gov blog posts, and really appreciate seeing the work they’ve done to study the community. This is a great resource.
 
 **Apple / Google Play Stores**
 
@@ -156,7 +156,7 @@ Go to local open data/open gov [Meetups](http://www.meetup.com/) and make connec
 
 **Events**
 
-See what’s out there. Do some [searching](http://www.eventbrite.com/directory?q=data&loc=Washington%2C+DC). Press some flesh…
+See what’s  out there. Do some [searching](http://www.eventbrite.com/directory?q=data&loc=Washington%2C+DC). Press some flesh…
 
   * Data Jams
   * Datapaloozas
@@ -176,6 +176,6 @@ Create a showcase for developers to share their apps with the community at large
 
 ## Conclusion
 
-This sort of work is not precision science. It’s a matter of &#8220;showing up&#8221; and &#8220;getting out there&#8221; in one way or another (even better, both). Talk to people, make connections, find out what they know and how you can help. The best way to learn about your data users is to help them. By becoming a helping hand, you become a broker of information. This is the best way to guarantee finding out who’s doing what with your data.
+This sort of work is not precision science. It’s  a matter of &#8220;showing up&#8221; and &#8220;getting out there&#8221; in one way or another (even better, both). Talk to people, make connections, find out what they know and how you can help. The best way to learn about your data users is to help them. By becoming a helping hand, you become a broker of information. This is the best way to guarantee finding out who’s  doing what with your data.
 
 _Editor&#8217;s Note: This post was compiled with input from individuals at Census, EPA, and NOAA._

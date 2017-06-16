@@ -22,7 +22,7 @@ In April, [comScore](http://www.comscore.com/) released new mobile data, and it 
 
 The report said that “186.3 million people in the U.S. owned smartphones (76.6% mobile market penetration) during the three months ending in February, up 5% since November.”
 
-Much of the other data in the report was pretty static—the smartphone OS race seems to be steadily set in its ranking, with all of the top platforms staying within 0.2% of last year’s penetration. Android and Apple continue to completely dominate with more than 94% of the marketshare; the bottom three mobile operating systems—Windows, Blackberry and Symbian—combined making up only 5.4% of the market.
+Much of the other data in the report was pretty static—the smartphone OS race seems to be steadily set in its ranking, with all of the top platforms staying within 0.2% of last year’s  penetration. Android and Apple continue to completely dominate with more than 94% of the marketshare; the bottom three mobile operating systems—Windows, Blackberry and Symbian—combined making up only 5.4% of the market.
 
 The report also included the top 15 smartphone apps by penetration with Facebook (and Facebook Messenger) and Google (YouTube, Gmail, Maps and Search) leading the pack by over 20% as the most popular applications.
 

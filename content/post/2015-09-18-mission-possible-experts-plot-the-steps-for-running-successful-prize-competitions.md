@@ -3,7 +3,7 @@
 
 date: 2015-09-18 1:00:24 -0400
 title: 'Mission Possible\: Experts Plot the Steps for Running Successful Prize Competitions'
-summary: 'Long before the final prize is awarded, a successful challenge starts with a master plan. That’sthe point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in Challenge.gov’songoing series on running successful prize competitions. Sandeep Patel, open innovation manager for the U.S. Department of Health and Human Services&amp;#8217;&nbsp;Idea Lab,'
+summary: 'Long before the final prize is awarded, a successful challenge starts with a master plan. That’s the point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in Challenge.gov’s ongoing series on running successful prize competitions. Sandeep Patel, open innovation manager for the U.S. Department of Health and Human Services&amp;#8217;&nbsp;Idea Lab,'
 authors: [judy-romano]
 categories:
   - Challenges
@@ -20,7 +20,7 @@ tag:
 
 Long before the final prize is awarded, a successful challenge starts with a master plan.
 
-That’s the point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in [Challenge.gov](http://www.challenge.gov)’s ongoing series on running successful prize competitions.
+That’s  the point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in [Challenge.gov](http://www.challenge.gov)’s  ongoing series on running successful prize competitions.
 
 Sandeep Patel, open innovation manager for the U.S. Department of Health and Human Services&#8217; [Idea Lab](http://www.hhs.gov/idealab/), joined forces with Ben Bain and Dr. Jyotika Virmani, of [XPRIZE](http://www.xprize.org), to offer strategies for agencies to plan and execute problem-solving events that deliver on their potential.
 
@@ -35,7 +35,7 @@ Patel added, “You should use all the tools you can to get the word out to recr
 
 Each panelist underscored the significance of making it easy for teams to sign up and compete and stressed the importance of feedback loops for providing help and answers to would-be problem-solvers.
 
-But there’s more to it than that: Agencies also need to define a time frame for their events. Virmani pointed out there are benefits to both short and long time frames.
+But there’s  more to it than that: Agencies also need to define a time frame for their events. Virmani pointed out there are benefits to both short and long time frames.
 
 “A short time frame means you’re likely to get competitors with experience in the field, while a long time frame can lead to more innovative, perhaps even unusual solutions,” she advised.
 

@@ -24,6 +24,6 @@ The [National Science Foundation&#8217;s National Science Board](http://www.nsf.
 > 
 >   * Includes the full Science and Engineering Indicators content
 >   * Includes the digest of key science and engineering indicator
->   * Includes the National Science Board’s policy companions to SEI
+>   * Includes the National Science Board’s  policy companions to SEI
 
 Download this [free mobile app](http://apps.usa.gov/http://apps.usa.gov/science-engineering-indicators.shtml) and others like it in the [USA.gov Apps Gallery](http://apps.usa.gov/).

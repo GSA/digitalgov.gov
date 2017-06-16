@@ -3,7 +3,7 @@
 
 date: 2015-09-18 11:00:10 -0400
 title: 'Under the Hood\: Building a New College Scorecard with Students'
-summary: 'Summary\: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool. My niece is a smart kid. I&rsquo;m biased, but I swear she is. And just as I started working on the College Scorecard project as the U.S. Digital Service’snew'
+summary: 'Summary\: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool. My niece is a smart kid. I&rsquo;m biased, but I swear she is. And just as I started working on the College Scorecard project as the U.S. Digital Service’s new'
 authors: [lisa-gelobter]
 categories:
   - Code
@@ -22,7 +22,7 @@ tag:
 
 > Summary: 'How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool.'
 
-My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service)’s new Chief Digital Service Officer at the Department of Education, I got a call from her—she was trying to decide where to go to school. As we were building this tool, wading through this data, and working with all the top college choice tools already in the market, I was also helping her navigate her college choice process. Where should she go? What was the best value? What is value when it comes to schools? This may be the single most important investment of her life, and even she was struggling to find clear, reliable data on critical questions.
+My niece is a smart kid. I’m biased, but I swear she is. And just as I started working on the College Scorecard project as the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service)’s  new Chief Digital Service Officer at the Department of Education, I got a call from her—she was trying to decide where to go to school. As we were building this tool, wading through this data, and working with all the top college choice tools already in the market, I was also helping her navigate her college choice process. Where should she go? What was the best value? What is value when it comes to schools? This may be the single most important investment of her life, and even she was struggling to find clear, reliable data on critical questions.
 
 **Today, the Department of Education is proud to announce new steps to help students, parents and advisers make better college choices**, including:
 
@@ -30,17 +30,17 @@ My niece is a smart kid. I’m biased, but I swear she is. And just as I started
   2. **New, [comprehensive and updated data](https://collegescorecard.ed.gov/data/) on higher education institutions**. For the first time, the public can access the most reliable and comprehensive data on students’ outcomes at specific colleges, including former students’ earnings, graduates’ student debt, and borrowers’ repayment rates. These data are also available for various sub-groups, like first generation and Pell students. Because these data will be published through an open application programming interface (API), researchers, policymakers, and members of the public can customize their own analysis of college performance more quickly and easily.
   3. **Customized tools for students**, with 11 organizations already using these data to launch new tools. Today, **[ScholarMatch](http://scholarmatcher.scholarmatch.org/)**, **[StartClass](http://www.startclass.com/)** and **[College Abacus](https://collegeabacus.org/)**, three college search resources, are using this new, unique data that help students search for, compare, and develop a list of colleges based on the outcomes data that the Department is making available to the public for the first time. **[PayScale](http://www.payscale.com/college-roi/roi-by-income-level)**, which offers consumers a large salary database, will use the new data to analyze various colleges’ return-on-investment for different student groups while **[InsideTrack](http://www.insidetrack.com/)**, which is a team of coaches and consultants working to improve student outcomes, will use the data to develop and implement effective student-centered initiatives. **[ProPublica](https://www.propublica.org/)**, a non-profit investigative journalism newsroom, has built a tool with the open data to help consumers make more informed decisions.
 
-This work was truly collaborative team effort, with teams from the Departments of Education and of the Treasury, White House Domestic Policy Council, Council of Economic Advisors, and Office of Management and Budget, the [General Services Administration’s 18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service).
+This work was truly collaborative team effort, with teams from the Departments of Education and of the Treasury, White House Domestic Policy Council, Council of Economic Advisors, and Office of Management and Budget, the [General Services Administration’s  18F](https://18f.gsa.gov/) and the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service).
 
-## Here’s how we did it:
+## Here’s  how we did it:
 
 ### _Build with, not for, users._
 
-We knew what we needed to do—make people’s lives better by providing them the tools and information to make more informed choices and get the best bang for buck college choice. And we thought—exactly how do people make choices when deciding on college?
+We knew what we needed to do—make people’s  lives better by providing them the tools and information to make more informed choices and get the best bang for buck college choice. And we thought—exactly how do people make choices when deciding on college?
 
 #### _**So we went out and asked them.**_
 
-Following our practice of [focusing on user needs](https://playbook.cio.gov/#play1), the College Scorecard team first spent time engaging directly with users at every single step in the project. Some of our favorite conversations were when we talked to high school students in Washington, D.C.’s Anacostia neighborhood and their excellent guidance counselor who told us how he “hacks” the process to make sure every one of his students gets an acceptance letter from a college, and feels that rush of possibility.
+Following our practice of [focusing on user needs](https://playbook.cio.gov/#play1), the College Scorecard team first spent time engaging directly with users at every single step in the project. Some of our favorite conversations were when we talked to high school students in Washington, D.C.’s  Anacostia neighborhood and their excellent guidance counselor who told us how he “hacks” the process to make sure every one of his students gets an acceptance letter from a college, and feels that rush of possibility.
 
 We met with 4-H kids from across the country who were frustrated by inaccurate data on the college search tools they use to find the best agricultural programs today. We listened to a mom from Maryland explain that she shopped for schools based on the lowest annual actual cost to become a medical technician—her dream. We even called a young woman who works as a college advisor in the Bronx, who had written a letter to the President with her ideas of how to make higher education data and tools work even better for her students. We also visited the newsrooms of data journalists to understand how they used higher education open data to report on how well schools were serving students.
 
@@ -56,13 +56,13 @@ Based on this research, we made the cheapest, fastest prototype of the College S
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" %}
 
-We also went to work with the federal government’s data from over 7,000 schools, going back 18 years, putting it into an open API (Application Programming Interface) that fuels the College Scorecard website. We wanted to make the data as usable by software developers and data scientists. The API allows anyone to create tools and insights that will help prospective college students make these important decisions.
+We also went to work with the federal government’s  data from over 7,000 schools, going back 18 years, putting it into an open API (Application Programming Interface) that fuels the College Scorecard website. We wanted to make the data as usable by software developers and data scientists. The API allows anyone to create tools and insights that will help prospective college students make these important decisions.
 
-We worked with a group of software developers and data scientists to be beta users of the data—to make sure it worked well and was clear. In addition to the groups I mentioned above, whose work is live today, we’re also excited to see the tools and enhancements that [Niche](https://niche.com/), [College Greenlight](https://www.collegegreenlight.com/), [Noodle](https://www.noodle.com/), [Tractus Insight (HelloCollege)](https://tractusinsight.com/) and [I’m First!](http://www.imfirst.org/) are working on—and are looking forward to what many others will be able to do with the data that’s now open and available.
+We worked with a group of software developers and data scientists to be beta users of the data—to make sure it worked well and was clear. In addition to the groups I mentioned above, whose work is live today, we’re also excited to see the tools and enhancements that [Niche](https://niche.com/), [College Greenlight](https://www.collegegreenlight.com/), [Noodle](https://www.noodle.com/), [Tractus Insight (HelloCollege)](https://tractusinsight.com/) and [I’m First!](http://www.imfirst.org/) are working on—and are looking forward to what many others will be able to do with the data that’s  now open and available.
 
-### _What’s in the data?_
+### _What’s  in the data?_
 
-With nearly 2,000 data points for over 7,000 schools going back 18 years, there’s a lot of information in the College Scorecard dataset. The dataset includes information from the Department of the Treasury on student loan repayment rates, and the IRS on post-college income. When we can combine new data from Departments of Education and of the Treasury with data that colleges already report on graduation rates, cost, and other descriptions about their school, the College Scorecard allows the public to distinguish colleges based on the outcomes of their students.
+With nearly 2,000 data points for over 7,000 schools going back 18 years, there’s  a lot of information in the College Scorecard dataset. The dataset includes information from the Department of the Treasury on student loan repayment rates, and the IRS on post-college income. When we can combine new data from Departments of Education and of the Treasury with data that colleges already report on graduation rates, cost, and other descriptions about their school, the College Scorecard allows the public to distinguish colleges based on the outcomes of their students.
 
 Some of the information students, their parents or guardians, and advisors will be able to see includes:
 

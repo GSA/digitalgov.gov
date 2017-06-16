@@ -23,7 +23,7 @@ A content management system (CMS) can address these issues and significantly imp
 
 **1. Increased Traffic and Customer Satisfaction**
 
-A CMS can help your agency produce more consistent, better content. High-quality content that’s updated frequently can draw more people to your website and increase engagement and customer satisfaction.
+A CMS can help your agency produce more consistent, better content. High-quality content that’s  updated frequently can draw more people to your website and increase engagement and customer satisfaction.
 
 **2. Faster Delivery of Content**
 
@@ -51,7 +51,7 @@ A CMS can automate many content management tasks, such as publishing press relea
 
 **8. Improved Site Integrity and Policy Compliance**
 
-Improve your agency’s compliance with privacy, security, accessibility, and record-keeping laws with CMS features such as centralized content storage, versioning control, and management controls over content publication. With a CMS, all content is stored in a database with date and time stamps of updates and a history of who made changes.
+Improve your agency’s  compliance with privacy, security, accessibility, and record-keeping laws with CMS features such as centralized content storage, versioning control, and management controls over content publication. With a CMS, all content is stored in a database with date and time stamps of updates and a history of who made changes.
 
 **9. Increased Competitive Advantage**
 

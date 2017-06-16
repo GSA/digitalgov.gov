@@ -29,7 +29,7 @@ The Data.gov team at GSA works with agencies to validate their data.json and ide
 
 The Data.gov team sets up the harvest of the agency data.json and sets the frequency (normally on a daily basis). Metadata records (datasets) that are invalid against the Project Open Data [schema](http://project-open-data.github.io/schema/) are rejected, but all valid datasets will be published in the Data.gov [catalog](http://catalog.data.gov/dataset). The valid datasets that are published replace the existing dataset records for that agency. The Data.gov team and the agency continue to collaborate to fix errors.
 
-The harvesting process continues on a daily basis and the agency’s catalog listings on Data.gov are continually updated.
+The harvesting process continues on a daily basis and the agency’s  catalog listings on Data.gov are continually updated.
 
 ## Data.gov Topics
 

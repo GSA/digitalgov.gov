@@ -32,9 +32,9 @@ Just a few of the many examples in government:
 
   * The Federal Aviation Administration provides travel websites and mobile apps with live airport status and delay information through its [Airport Service API](http://services.faa.gov/docs/services/airport/).
   * The [Pillbox API](http://pillbox.nlm.nih.gov/API-documentation.html) from the National Library of Medicine powers third party mashups that serve consumers who need to quickly identify an unknown pill.
-  * The [Sunlight Foundation’s ‘Scout’ project](https://scout.sunlightfoundation.com/) consumes the [Federal Register API](https://www.federalregister.gov/blog/learn/developers) to provide alerts and notifications for formal government action.
+  * The [Sunlight Foundation’s  ‘Scout’ project](https://scout.sunlightfoundation.com/) consumes the [Federal Register API](https://www.federalregister.gov/blog/learn/developers) to provide alerts and notifications for formal government action.
 
-APIs help extend agency information to other users. For example, the National Weather Service [publishes an API](http://graphical.weather.gov/xml/) that makes weather data available to developers within and outside of the organization. The API offers real-time access to data so that an app can automatically access the latest information instead of requiring a developer to return to the agency’s website and manually copy each update. This supports an enormous and innovative range of products that present up-to-date weather information to the public.
+APIs help extend agency information to other users. For example, the National Weather Service [publishes an API](http://graphical.weather.gov/xml/) that makes weather data available to developers within and outside of the organization. The API offers real-time access to data so that an app can automatically access the latest information instead of requiring a developer to return to the agency’s  website and manually copy each update. This supports an enormous and innovative range of products that present up-to-date weather information to the public.
 
 ### APIs and Data
 
@@ -46,7 +46,7 @@ Providing information and services through Web APIs supports interoperability an
 
 APIs:
 
-  * **Increase the reach of your services** by allowing other agencies, partners, and the private sector to integrate—and amplify—your agency’s data and content.
+  * **Increase the reach of your services** by allowing other agencies, partners, and the private sector to integrate—and amplify—your agency’s  data and content.
   * **Save time** through automation. You can update data or content once, and your API can refresh in multiple locations automatically on a website, mobile platforms, and on social media venues.
   * **Save costs** by allowing third-party innovators to use information and services to create new, useful products that are beyond the scope—or budget—of your agency.
   * **Speed product development** through improved prototyping and ease of access for internal teams and sister agencies by allowing granular and open access to content.
@@ -90,7 +90,7 @@ APIs need to provide value to your agency and to developers. The best way to mak
   2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#assemble-components "How to Get Started with APIs").
   3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#implement "How to Get Started with APIs").
   4. **Track Progress**: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more [tracking the progress](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
-  5. **Repeat**: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more about [repeating the process](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
+  5. **Repeat**: Re-evaluate lessons learned with your agency’s  Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more about [repeating the process](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
 
 ## Resources and Tools for Building APIs
 

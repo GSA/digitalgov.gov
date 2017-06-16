@@ -30,7 +30,7 @@ And while the workshop hasn’t happened yet, participants have already contribu
 > 
 > _Enhancing economic development for financial stability, health, education and housing, and designing emergency response exercises and decision support systems_
 > 
-> _There’s some great ideas that involve the Grand Canyon, naturally_
+> _There’s  some great ideas that involve the Grand Canyon, naturally_
 > 
 > _Empowering researchers to interact with records that are too fragile or valuable to handle in person, making large amounts of biomedical data easier to navigate, and as one person puts it simply, “space exploration”_
 > 

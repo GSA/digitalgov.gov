@@ -3,7 +3,7 @@
 
 date: 2015-11-17 1:00:55 -0400
 title: 'How to Use Remote Data Strategically in UX'
-summary: 'One of the challenges UX practitioners can face is how to communicate much of the data that’sout there. The key word is &ldquo;communicate.&rdquo; Since many of us are used to qualitative findings, making the jump to &ldquo;hard data&rdquo; can be a challenge. There are tools out there that make this easier, but we still'
+summary: 'One of the challenges UX practitioners can face is how to communicate much of the data that’s out there. The key word is &ldquo;communicate.&rdquo; Since many of us are used to qualitative findings, making the jump to &ldquo;hard data&rdquo; can be a challenge. There are tools out there that make this easier, but we still'
 authors: [justin-dopke]
 categories:
   - Monthly Theme
@@ -13,7 +13,7 @@ tag:
   - UX
 ---
 
-One of the challenges UX practitioners can face is how to communicate much of the data that’s out there. The key word is “communicate.” Since many of us are used to qualitative findings, making the jump to “hard data” can be a challenge. There are tools out there that make this easier, but we still need some explanations and/or translations. 
+One of the challenges UX practitioners can face is how to communicate much of the data that’s  out there. The key word is “communicate.” Since many of us are used to qualitative findings, making the jump to “hard data” can be a challenge. There are tools out there that make this easier, but we still need some explanations and/or translations. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." %} 
 
 First, let me be clear that I am not endorsing any product or technique. At our agency, we now use [Google Analytics](https://www.WHATEVER/services/dap/). We previously used WebTrends. In the past, this data had to be gathered through server logs, and it was up to the individual to make it understandable.

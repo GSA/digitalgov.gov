@@ -3,7 +3,7 @@
 
 date: 2016-10-25 10:00:09 -0400
 title: 'Federal Cybersecurity Challenges'
-summary: 'These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we&rsquo;ve been focusing on keeping federal agency information systems secure for a long time. For October’sCybersecurity Awareness Month, the WatchBlog takes a look at federal cybersecurity challenges.&nbsp; What is the threat?'
+summary: 'These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we&rsquo;ve been focusing on keeping federal agency information systems secure for a long time. For October’s Cybersecurity Awareness Month, the WatchBlog takes a look at federal cybersecurity challenges.&nbsp; What is the threat?'
 authors: [gao-watchblog]
 categories:
   - Managing Digital
@@ -12,7 +12,7 @@ tag:
   - security
 ---
 
-These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we’ve been focusing on <a href="http://www.gao.gov/highrisk/ensuring_the_security_federal_government_information_systems/why_did_study?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">keeping federal agency information systems secure</a> for a long time. For October’s Cybersecurity Awareness Month, the WatchBlog takes a look at <a href="http://gao.gov/key_issues/cybersecurity/issue_summary?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">federal cybersecurity challenges</a>. <span id="more-4956"></span> 
+These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we’ve been focusing on <a href="http://www.gao.gov/highrisk/ensuring_the_security_federal_government_information_systems/why_did_study?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">keeping federal agency information systems secure</a> for a long time. For October’s  Cybersecurity Awareness Month, the WatchBlog takes a look at <a href="http://gao.gov/key_issues/cybersecurity/issue_summary?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">federal cybersecurity challenges</a>. <span id="more-4956"></span> 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Security-concept-Gold-Closed-Padlock-on-digital-background-Maksim-Kabakou-iStock-Thinkstock-166739999.jpg" alt="Security concept: Gold Closed Padlock on digital background." %} 
 
 ## What is the threat?
@@ -26,7 +26,7 @@ And the number of reported information security incidents at federal agencies is
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-Federal-Cybersecurity-Challenges\_gao-16-885t\_fig11.jpg" alt="Figure 1: Incidents Reported by Federal Agencies, Fiscal Years 2006 through 2015." %}<a href="https://gaotest.files.wordpress.com/2016/10/gao-16-885t_fig11.jpg" target="_blank"><br /> </a>(_Excerpted from <a href="http://gao.gov/products/GAO-16-885T?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">GAO-16-885T</a>_)
 
-## Who’s behind all these incidents?
+## Who’s  behind all these incidents?
 
 The threats to federal IT systems and networks come from a variety of sources and vary in terms of the types and capabilities of the actors, their willingness to act, and their motives. Here are some of the likely perpetrators:
 
@@ -60,10 +60,10 @@ So why isn’t this happening? The 24 agency Chief Information Security Officers
   * competing priorities between agency operations and information security
   * difficulties coordinating with other offices and component organizations
   * lack of security-related information from internal offices and IT contractors
-  * IT contractors and other staff not directly under a chief’s control, and
-  * the position of the CISO in the agency’s hierarchy.
+  * IT contractors and other staff not directly under a chief’s  control, and
+  * the position of the CISO in the agency’s  hierarchy.
 
-Over the past several years, we have made about 2,500 recommendations aimed at strengthening agencies’ information security programs and controls. It will take coordinated effort across the government, with strong strategic direction from the White House and effective oversight, to make sure that federal agencies are taking all the necessary steps to protect our nation’s systems and information.
+Over the past several years, we have made about 2,500 recommendations aimed at strengthening agencies’ information security programs and controls. It will take coordinated effort across the government, with strong strategic direction from the White House and effective oversight, to make sure that federal agencies are taking all the necessary steps to protect our nation’s  systems and information.
 
 _Questions on the content of this post? Contact [Greg Wilshusen](mailto:wilshuseng@gao.gov)._
 

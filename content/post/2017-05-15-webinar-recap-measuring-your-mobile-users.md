@@ -3,7 +3,7 @@
 
 date: 2017-05-15 11:00:23 -0400
 title: 'Webinar Recap\: Measuring Your Mobile Users'
-summary: 'The Digital Analytics Program (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, &ldquo;Policies for Federal Agency Public Websites and Digital Services,&rdquo; which requires federal websites to incorporate the DAP’sJavaScript code for website analytics. The DAP Learning Series\: Measuring Your'
+summary: 'The Digital Analytics Program (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, &ldquo;Policies for Federal Agency Public Websites and Digital Services,&rdquo; which requires federal websites to incorporate the DAP’s JavaScript code for website analytics. The DAP Learning Series\: Measuring Your'
 authors: [lisa-bari]
 categories:
   - Metrics
@@ -17,16 +17,16 @@ tag:
   - mobile
 ---
 
-The [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
+The [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s  JavaScript code for website analytics.
 
-The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. 
+The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), focused on measuring mobile users with DAP’s  analytics tools, which are essentially a pre-configured version of Google Analytics. 
 {% include image/full-width.html img="https://www.WHATEVER/files/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" %} 
 
 ## Why Mobile Analytics?
 
-We reached the mobile tipping point long ago—globally, there are more internet users accessing the internet via smartphone than via desktop. Additionally, mobile traffic is increasing in share against desktop traffic and tablet traffic. Government websites have begun to respond by designing websites to be “[mobile-first](https://www.WHATEVER/tag/mobile-first/),” and in particular, are moving away from stand-alone apps to designing for the [responsive web](https://www.WHATEVER/tag/responsive-web-design/) (websites that adjust automatically based on the user’s device).
+We reached the mobile tipping point long ago—globally, there are more internet users accessing the internet via smartphone than via desktop. Additionally, mobile traffic is increasing in share against desktop traffic and tablet traffic. Government websites have begun to respond by designing websites to be “[mobile-first](https://www.WHATEVER/tag/mobile-first/),” and in particular, are moving away from stand-alone apps to designing for the [responsive web](https://www.WHATEVER/tag/responsive-web-design/) (websites that adjust automatically based on the user’s  device).
 
-But how do you build better websites for mobile users? The first step is to understand your mobile traffic, and that’s where DAP can help.
+But how do you build better websites for mobile users? The first step is to understand your mobile traffic, and that’s  where DAP can help.
 
 ## DAP Mobile Analytics Capabilities
 

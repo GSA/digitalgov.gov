@@ -16,7 +16,7 @@ $.fn.mobileMenu = function(options) {
 			defaultText: '',
 			className: 'select-menu',
 			subMenuClass: 'sub-menu',
-			subMenuDash: '&ndash;&nbsp;'
+			subMenuDash: '—&nbsp;'
 		},
 		settings = $.extend( defaults, options ),
 		el = $(this);

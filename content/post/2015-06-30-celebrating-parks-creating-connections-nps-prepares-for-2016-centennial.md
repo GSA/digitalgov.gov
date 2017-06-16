@@ -21,7 +21,7 @@ tag:
 
 Planning your next national park adventure (from the comfort of your couch) is easier than ever with a new website, [Find Your Park.com](http://findyourpark.com/).
 
-Launched on April 2nd, the mobile-friendly FindYourPark.com was designed and launched by the National Park Foundation (NPF), the non-profit organization affiliated with the National Park Service (NPS). The website is part of the celebration campaign for NPS’s centennial in 2016.
+Launched on April 2nd, the mobile-friendly FindYourPark.com was designed and launched by the National Park Foundation (NPF), the non-profit organization affiliated with the National Park Service (NPS). The website is part of the celebration campaign for NPS’s  centennial in 2016.
 
 Nana Efua Embil, Assistant Centennial Coordinator for NPS, said that the goal of the FYP website aligns with the overall NPS centennial goal: connecting with and creating the next generation of park visitors, supporters, and advocates.
 
@@ -52,6 +52,6 @@ The effectiveness of Find Your Park will ideally extend beyond the centennial ce
 
 “One of the days we are trying to build muscle memory into is our actual birthday, August 25th,” Embil said. “We have some other efforts &#8211; Get Outdoors Month, National Public Lands Day &#8211; but we are trying to build the drumbeat for August 25th, 2016. We will also have events with some of our corporate sponsors, and we are in the process of planning those and reaching out to different audiences, specifically millennial audiences. We want to get them excited, involved, and out into parks.”
 
-NPS is also supporting the White House’s [Every Kid in a Park](https://www.whitehouse.gov/blog/2015/02/19/let-s-get-every-kid-park) initiative, directly targeted to 4th graders and giving them all a pass to federal lands.
+NPS is also supporting the White House’s  [Every Kid in a Park](https://www.whitehouse.gov/blog/2015/02/19/let-s-get-every-kid-park) initiative, directly targeted to 4th graders and giving them all a pass to federal lands.
 
 Embil said that these efforts will help push NPS forward as a 21st century agency. She called the Find Your Park campaign the “icing on the cake” of everything her team is working towards with modernizing NPS efforts.

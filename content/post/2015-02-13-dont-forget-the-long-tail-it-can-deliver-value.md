@@ -40,4 +40,4 @@ Number of searches on terms today that didn&#8217;t get any searches yesterday: 
 
 Number of searches today on all the terms that got searched on yesterday: 31,215.
 
-Do your search analytics tell the same story? Look at them, and use them to deliver value and help your site’s visitors complete their long tail tasks.
+Do your search analytics tell the same story? Look at them, and use them to deliver value and help your site’s  visitors complete their long tail tasks.

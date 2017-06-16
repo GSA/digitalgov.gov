@@ -24,7 +24,7 @@ This app will allow you to
   * Report dead, injured or entangled marine mammals by connecting you to the nearest stranding response hotline, so that trained responders and veterinarians can treat the animal (App only works in Southeastern US- stay tuned for expansion to additional geographic areas).
   * Send a photo of the marine mammal along with GPS coordinates to the marine mammal stranding network
   * Identify the kind of animal by providing an electronic field guide of marine mammals found in the Southeastern U.S.
-  * Help live and dead stranded marine mammals by providing you with a list of “do’s and don’ts” or tips on what to do when you find a live or dead stranded dolphin, whale, seal or manatee.
+  * Help live and dead stranded marine mammals by providing you with a list of “do’s  and don’ts” or tips on what to do when you find a live or dead stranded dolphin, whale, seal or manatee.
 
 The **[See & ID Dolphins & Whales](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/index.html)** app (Android and iOS) provides an extensive electronic species ID guide complete with information on biology, habitat (including maps), conservation, as well as guidelines for viewing marine mammals in the wild.
 

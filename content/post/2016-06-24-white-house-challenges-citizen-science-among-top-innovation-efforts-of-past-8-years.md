@@ -37,11 +37,11 @@ No. 15 is all about citizen science:
 
 &#8220;The Administration has expanded opportunities, including those efforts listed on CitizenScience.gov, for research agencies to work with citizen scientists and use crowdsourcing approaches. For example, federal agencies have used these approaches to improve predictive models for coastal change and vulnerability to extreme storms, and to tag millions of archival records for the National Archives. Researchers have estimated that the in-kind contributions of more than a million citizen-science volunteers to biodiversity research alone have had an economic value of up to $2.5 billion per year.&#8221;
 
-But that’s not all. To list all of the programs touched by open innovation and public engagement would be to duplicate nearly the entire report, which we won’t do. You can read its entirety on the [White House website](https://www.whitehouse.gov/the-press-office/2016/06/21/impact-report-100-examples-president-obamas-leadership-science).
+But that’s  not all. To list all of the programs touched by open innovation and public engagement would be to duplicate nearly the entire report, which we won’t do. You can read its entirety on the [White House website](https://www.whitehouse.gov/the-press-office/2016/06/21/impact-report-100-examples-president-obamas-leadership-science).
 
 Here are just a few more examples of how GSA, Challenge.gov and CitizenScience.gov are making a difference:
 
-**No. 12: Made more than 180,000 Federal datasets and collections available to students, entrepreneurs, and the public.** More than 180,000 federal datasets and collections have been made available on GSA’s [Data.gov](https://www.data.gov/).
+**No. 12: Made more than 180,000 Federal datasets and collections available to students, entrepreneurs, and the public.** More than 180,000 federal datasets and collections have been made available on GSA’s  [Data.gov](https://www.data.gov/).
 
 **No. 27:** **Launched an initiative to bridge the “30 million word gap.”** This effort, which seeks to eliminate literacy gaps between low-income students and their affluent peers, included a prize competition launched on Challenge.gov.
 
@@ -51,9 +51,9 @@ Here are just a few more examples of how GSA, Challenge.gov and CitizenScience.g
 
 **No. 34: Supported next-generation robotics.** Cited in this example is the [DARPA Robotics Challenge](http://www.darpa.mil/program/darpa-robotics-challenge), which saw 25 robotics teams from around the world demonstrate disaster-response operations that pushed the field forward.
 
-**No. 36: Accelerated the transition of research discoveries from lab to market.** The National Institutes of Health’s [Breast Cancer Startup Challenge](http://www.breastcancerstartupchallenge.com/) helped start new companies based on unlicensed but promising interventions.
+**No. 36: Accelerated the transition of research discoveries from lab to market.** The National Institutes of Health’s  [Breast Cancer Startup Challenge](http://www.breastcancerstartupchallenge.com/) helped start new companies based on unlicensed but promising interventions.
 
-**No. 46:** **Improving mental health through data-driven innovation.** At this year’s Health Datapalooza, the Department of Health and Human Services launched two new challenges: [A Bill You Can Understand](http://www.abillyoucanunderstand.com/) and [Move Health Data Forward](https://www.challenge.gov/challenge/move-health-data-forward-challenge/).
+**No. 46:** **Improving mental health through data-driven innovation.** At this year’s  Health Datapalooza, the Department of Health and Human Services launched two new challenges: [A Bill You Can Understand](http://www.abillyoucanunderstand.com/) and [Move Health Data Forward](https://www.challenge.gov/challenge/move-health-data-forward-challenge/).
 
 **No. 47: Began a broad effort to understand and explore the microbiome.** [The National Microbiome Initiative](https://www.whitehouse.gov/blog/2016/05/13/announcing-national-microbiome-initiative) kicked off last month and will include an effort to expand the workforce in this area through citizen science and public engagement.
 
@@ -63,7 +63,7 @@ Here are just a few more examples of how GSA, Challenge.gov and CitizenScience.g
 
 **No. 67: Deployed open innovation approaches to reduce nutrients in waterways**. The Environmental Protection Agency has launched several competitions focused on nutrients, whether [evaluating nutrient pollution](https://www.innocentive.com/ar/challenge/9933113) or looking at innovative ways to [recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
 
-**No. 71: Expanded the use of technology to fight wildlife trafficking.** The U.S. Agency for International Development’s [Wildlife Crime Tech Challenge](https://wildlifecrimetech.org/index) features 16 initial winners now competing for a chance to win $500,000 by scaling their solutions.
+**No. 71: Expanded the use of technology to fight wildlife trafficking.** The U.S. Agency for International Development’s  [Wildlife Crime Tech Challenge](https://wildlifecrimetech.org/index) features 16 initial winners now competing for a chance to win $500,000 by scaling their solutions.
 
 As you can see, this impact report from the White House shows that open innovation is spreading throughout the federal government and is helping agencies address issues of national importance.
 

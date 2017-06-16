@@ -3,7 +3,7 @@
 
 date: 2014-03-18 8:42:54 -0400
 title: 'Data.gov &amp;#8211; Usability Case Study'
-summary: 'We all know listening to your customers is important. Not just reading their comments, but talking to them, actually getting in a room with them, and having them test your product. But if basing a whole-scale redesign around one series of user conversations makes you nervous &amp;#8211; it should. That’sbecause sometimes when we listen,'
+summary: 'We all know listening to your customers is important. Not just reading their comments, but talking to them, actually getting in a room with them, and having them test your product. But if basing a whole-scale redesign around one series of user conversations makes you nervous &amp;#8211; it should. That’s because sometimes when we listen,'
 authors: [jonathan-rubin]
 categories:
   - Design
@@ -19,7 +19,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  That’s because sometimes when we listen, we only see a bit of the bigger picture. It’s only when we get customer feedback, tweak the design, and THEN ask customers a second time that we really validate what customers want. Retesting is called iteration and it’s very powerful.
+  That’s  because sometimes when we listen, we only see a bit of the bigger picture. It’s  only when we get customer feedback, tweak the design, and THEN ask customers a second time that we really validate what customers want. Retesting is called iteration and it’s  very powerful.
 </p>
 
 <p dir="ltr">
@@ -72,7 +72,7 @@ At every stage of their development, they took the new design and opened it up f
 </p>
 
 <p dir="ltr">
-  “On Tumblr, you tumble for 10 minutes,” Holm said. “You look through what’s there, see what’s of interest, but like on Google+ you’ve already self-filtered content by selecting who to follow. But on a site like Data.gov, you don’t want to look for 10 minutes, you want to find information or data immediately. It’s a completely different audience experience.”
+  “On Tumblr, you tumble for 10 minutes,” Holm said. “You look through what’s  there, see what’s  of interest, but like on Google+ you’ve already self-filtered content by selecting who to follow. But on a site like Data.gov, you don’t want to look for 10 minutes, you want to find information or data immediately. It’s  a completely different audience experience.”
 </p>
 
 <p dir="ltr">
@@ -93,7 +93,7 @@ At every stage of their development, they took the new design and opened it up f
 
 
 <p dir="ltr">
-  Now, they made the communities front and center and called them “topics.” The icons draw people’s attention to them as the sole graphics on the page. It gives equal time to both the search-based navigation on top, Google-style, and then the icons below.
+  Now, they made the communities front and center and called them “topics.” The icons draw people’s  attention to them as the sole graphics on the page. It gives equal time to both the search-based navigation on top, Google-style, and then the icons below.
 </p>
 
 <p dir="ltr">

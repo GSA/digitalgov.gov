@@ -33,17 +33,17 @@ tag:
 </p>
 
 <p>
-  <b><i>Real world take away: </i></b><i>Make sure your most valuable (and used) navigation elements are near the bottom of the window within easy reach of thumbs. Think of how Facebook puts all of it’s core navigation at the bottom of the interface.</i>
+  <b><i>Real world take away: </i></b><i>Make sure your most valuable (and used) navigation elements are near the bottom of the window within easy reach of thumbs. Think of how Facebook puts all of it’s  core navigation at the bottom of the interface.</i>
 </p> 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" %} 
 
 <p>
-  <b>3. Mind your meat pointers and safe zones for touch interaction.</b> When designing apps and mobile-optimized websites, it’s crucial to consider the human anatomy for touch interfaces to make navigation and the user experience effortless. Clark deftly points this out with an amazing visualization quote, comparing touch interactions to the simplicity and preciseness of mouse-driven interactions:
+  <b>3. Mind your meat pointers and safe zones for touch interaction.</b> When designing apps and mobile-optimized websites, it’s  crucial to consider the human anatomy for touch interfaces to make navigation and the user experience effortless. Clark deftly points this out with an amazing visualization quote, comparing touch interactions to the simplicity and preciseness of mouse-driven interactions:
 </p>
 
 <blockquote>
   <p>
-    “We also, of course, often reach into the middle of the screen; as screen size grows, our hands field ever more surface. However, unlike a mouse cursor, which sweeps effortlessly across a screen’s sprawl, our fingers are weighed down by this thing called an arm. This meat pointer goes all the way up to the shoulder, and hefting it around the screen demands effort. An interface shouldn’t be a physical workout. Group frequent controls within easy reach of thumbs. Nobody ever broke a sweat twiddling their thumbs.”
+    “We also, of course, often reach into the middle of the screen; as screen size grows, our hands field ever more surface. However, unlike a mouse cursor, which sweeps effortlessly across a screen’s  sprawl, our fingers are weighed down by this thing called an arm. This meat pointer goes all the way up to the shoulder, and hefting it around the screen demands effort. An interface shouldn’t be a physical workout. Group frequent controls within easy reach of thumbs. Nobody ever broke a sweat twiddling their thumbs.”
   </p>
 </blockquote>
 
@@ -64,7 +64,7 @@ tag:
 </p>
 
 <p>
-  <b><i>Real world take away: </i></b><i>There’s no easy solution here. Do user research on how your audience uses your content, look at the analytics on what devices are used and optimize your experience for those users. </i>
+  <b><i>Real world take away: </i></b><i>There’s  no easy solution here. Do user research on how your audience uses your content, look at the analytics on what devices are used and optimize your experience for those users. </i>
 </p>
 
 <p>

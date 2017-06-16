@@ -3,7 +3,7 @@
 
 date: 2015-12-01 11:00:55 -0400
 title: 'Trends on Tuesday\: Facebook, TV and How to Reach Millennials and Hispanics'
-summary: 'How do you capture millennial and Hispanic eyes? Through their hands. (More specifically\: their mobile devices, and the social apps within!). AdAge recently analyzed a study from Nielsen’sHomescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2%'
+summary: 'How do you capture millennial and Hispanic eyes? Through their hands. (More specifically\: their mobile devices, and the social apps within!). AdAge recently analyzed a study from Nielsen’s Homescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2%'
 authors: [awichman]
 categories:
   - Mobile
@@ -20,7 +20,7 @@ tag:
 How do you capture millennial and Hispanic eyes? Through their hands. (More specifically: their mobile devices, and the social apps within!). 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Popular-social-media-icons-on-smartphone-device-screen-scyther5-iStock-Editorial-Thinkstock482565588.jpg" alt="Popular social media icons on smartphone device screen" %} 
 
-[AdAge](http://adage.com/article/ad-age-research/facebook-top-tv-reaching-millennials-hispanics/300811/) recently analyzed a study from Nielsen’s Homescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2% who can only be reached on Facebook.
+[AdAge](http://adage.com/article/ad-age-research/facebook-top-tv-reaching-millennials-hispanics/300811/) recently analyzed a study from Nielsen’s  Homescan panel which found that in a typical month, 12.2% of millennials can only be reached through TV (looking at the top 10 networks only) versus 14.2% who can only be reached on Facebook.
 
 The numbers are similar for U.S. Hispanics: 16.3% can only be reached on TV versus 17.5% who are only on Facebook.
 

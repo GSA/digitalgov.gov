@@ -3,7 +3,7 @@
 
 date: 2017-05-26 12:00:50 -0400
 title: 'From Launch to Landing\: How NASA Took Control of Its HTTPS Mission'
-summary: '18F Editor’snote\: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’ssuccessful HTTPS and HSTS migration, and we&rsquo;re happy to help Karim share the lessons NASA learned from that process. In 2015, the White House Office of Management and Budget released M-15-13, a &ldquo;Policy to Require Secure Connections'
+summary: '18F Editor’s note\: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we&rsquo;re happy to help Karim share the lessons NASA learned from that process. In 2015, the White House Office of Management and Budget released M-15-13, a &ldquo;Policy to Require Secure Connections'
 authors: [karim-said]
 categories:
   - Managing Digital
@@ -22,9 +22,9 @@ tag:
   - United States Department of Homeland Security
 ---
 
-_18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process._
+_18F Editor’s  note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s  successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process._
 
-In 2015, the White House Office of Management and Budget released [M-15-13](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf), a “Policy to Require Secure Connections across Federal Websites and Web Services”. The memorandum emphasizes the importance of protecting the privacy and security of the public’s browsing activities on the web, and sets a goal to bring all federal websites and services to a consistent standard of enforcing HTTPS and HSTS.
+In 2015, the White House Office of Management and Budget released [M-15-13](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf), a “Policy to Require Secure Connections across Federal Websites and Web Services”. The memorandum emphasizes the importance of protecting the privacy and security of the public’s  browsing activities on the web, and sets a goal to bring all federal websites and services to a consistent standard of enforcing HTTPS and HSTS.
 
 HTTPS is important for a federal agency like NASA, whose presence on the web is a critical part of achieving our mission of sharing knowledge and information.
 
@@ -34,21 +34,21 @@ Moving to full HTTPS deployment for NASA represented a significant challenge. We
 
 However, by May 2017, after several months of working through these challenges, NASA was able to reach over a 95 percent compliance rate.
 
-NASA’s success hinged on a few key aspects, all rooted in clear (and frequent) communication and teamwork. What follows are some of our strategies and lessons that we learned.
+NASA’s  success hinged on a few key aspects, all rooted in clear (and frequent) communication and teamwork. What follows are some of our strategies and lessons that we learned.
 
 ## Leadership buy-in {#leadership-buy-in}
 
-At NASA, geographically dispersed centers operate largely independently and with distinct senior leadership teams. These teams are overseen by the NASA OCIO, which, in June 2016, established a core team to oversee HTTPS compliance tracking activities. The OCIO additionally issued guidance on the importance of meeting the HTTPS-Only standard with an action to each center Chief Information Officer to delegate an accountable center representative to oversee further activities. This first tier of delegation was essential to engage the right stakeholders. The center representatives subsequently tasked technical representatives from the various systems in their purview. This multi-stepped delegation of responsibility represented the agency’s commitment to improving HTTPS compliance at the highest levels, and helped establish clear communication channels all the way to the people responsible for actually making the necessary system-level configuration changes.
+At NASA, geographically dispersed centers operate largely independently and with distinct senior leadership teams. These teams are overseen by the NASA OCIO, which, in June 2016, established a core team to oversee HTTPS compliance tracking activities. The OCIO additionally issued guidance on the importance of meeting the HTTPS-Only standard with an action to each center Chief Information Officer to delegate an accountable center representative to oversee further activities. This first tier of delegation was essential to engage the right stakeholders. The center representatives subsequently tasked technical representatives from the various systems in their purview. This multi-stepped delegation of responsibility represented the agency’s  commitment to improving HTTPS compliance at the highest levels, and helped establish clear communication channels all the way to the people responsible for actually making the necessary system-level configuration changes.
 
-Leadership at the agency level further demonstrated support of the HTTPS deployment efforts by issuing progressive guidance on the use of [Let’s Encrypt](https://letsencrypt.org/) and associated Automated Certificate Management Environment (ACME) clients for certificate issuance and management.
+Leadership at the agency level further demonstrated support of the HTTPS deployment efforts by issuing progressive guidance on the use of [Let’s  Encrypt](https://letsencrypt.org/) and associated Automated Certificate Management Environment (ACME) clients for certificate issuance and management.
 
 _This was a big deal!_
 
-Early on, the agency core team decided to publish an agency white paper after realizing that a large number of commercial certificates would need to be provisioned (at great expense) to address various barriers to compliance. To make the imminent onslaught of Let’s Encrypt certificate requests possible, NASA had to negotiate a rate limit increase with Let’s Encrypt for the nasa.gov domain, assess the popular ACME client [Certbot](https://certbot.eff.org/), author and publish the white paper, and establish a platform for sharing recommended best practices and sample configurations with system administrators.
+Early on, the agency core team decided to publish an agency white paper after realizing that a large number of commercial certificates would need to be provisioned (at great expense) to address various barriers to compliance. To make the imminent onslaught of Let’s  Encrypt certificate requests possible, NASA had to negotiate a rate limit increase with Let’s  Encrypt for the nasa.gov domain, assess the popular ACME client [Certbot](https://certbot.eff.org/), author and publish the white paper, and establish a platform for sharing recommended best practices and sample configurations with system administrators.
 
-The benefits were clear, though. Not only was Let’s Encrypt a more cost-effective option, it pushed NASA towards automated management of certificates and demonstrated the agency’s support of modern technologies.
+The benefits were clear, though. Not only was Let’s  Encrypt a more cost-effective option, it pushed NASA towards automated management of certificates and demonstrated the agency’s  support of modern technologies.
 
-As NASA approached full HTTPS deployment, stragglers became evident, primarily with commercial products that could not support certain technical configurations. NASA leadership coordinated conversations with vendors and technical experts from NASA, where the teams could have in-depth conversations about the HTTPS-Only standard. For many vendors, OMB’s HTTPS policy was news to them! Collaborating with industry partners proved to be critical to success and will hopefully generate benefits for other agencies.
+As NASA approached full HTTPS deployment, stragglers became evident, primarily with commercial products that could not support certain technical configurations. NASA leadership coordinated conversations with vendors and technical experts from NASA, where the teams could have in-depth conversations about the HTTPS-Only standard. For many vendors, OMB’s  HTTPS policy was news to them! Collaborating with industry partners proved to be critical to success and will hopefully generate benefits for other agencies.
 
 Finally, for those few remaining unresolved stragglers, NASA developed an internal waiver process. Any submitted waivers had to address technical constraints and detail firm timelines for remediation. Most importantly, responsible stakeholders were required to present their arguments and obtain approval by the agency Chief Information Officer and Chief Information Security Officer in a face-to-face meeting. Involvement of agency leadership at this fine-grained a level was generally unprecedented and really enforced for the community the importance of the overall effort.
 
@@ -72,10 +72,10 @@ One pertinent lesson: The core team underestimated the volume of communication t
 
 Regularity and consistency of communication across the diverse stakeholder community was an important part of NASA getting compliant.
 
-For NASA, tool selection began with delving into use of [pshtt](https://github.com/dhs-ncats/pshtt). The Department of Homeland Security and the General Services Administration both use pshtt to scan agencies, and [collaborated in its development](https://18f.gsa.gov/2017/01/06/open-source-collaboration-across-agencies-to-improve-https-deployment). NASA found a lot of benefit in studying pshtt and came to really value the insight provided through the tool’s open source development. Beyond vanilla pshtt, we augmented the tool’s output to map responsible centers to target websites and services for easier communication to stakeholders, and even [contributed to the tool’s overall development](https://github.com/dhs-ncats/pshtt/pull/65).<figure>
+For NASA, tool selection began with delving into use of [pshtt](https://github.com/dhs-ncats/pshtt). The Department of Homeland Security and the General Services Administration both use pshtt to scan agencies, and [collaborated in its development](https://18f.gsa.gov/2017/01/06/open-source-collaboration-across-agencies-to-improve-https-deployment). NASA found a lot of benefit in studying pshtt and came to really value the insight provided through the tool’s  open source development. Beyond vanilla pshtt, we augmented the tool’s  output to map responsible centers to target websites and services for easier communication to stakeholders, and even [contributed to the tool’s  overall development](https://github.com/dhs-ncats/pshtt/pull/65).<figure>
 {% include image/full-width.html img="https://18f.gsa.gov/assets/blog/nasa-https/pshtt-code.png" alt="The configuration file, in python, for the psst tool." %}<figcaption>Go, pshtt, go! &#8211; NASA made extensive use of DHS&#8217; open source tool for assessing compliant HTTPS implementations, regularly scanning thousands of target websites and services.</figcaption></figure> 
 
-We also augmented reports to track targets longitudinally, monitoring for endpoints that disappeared or changed between scans. This sort of analysis was helpful for one-on-one troubleshooting, which the core team supported by offering spot check scans for system administrators that were unable to run pshtt independently. For these purposes, the agency core team maintained a troubleshooting branch off of the canonical pshttmaster branch to support checks with multiple timeouts to account for many of NASA’s high-latency targets, and to use an augmented trust store that included the Federal Common Policy CA.<figure>
+We also augmented reports to track targets longitudinally, monitoring for endpoints that disappeared or changed between scans. This sort of analysis was helpful for one-on-one troubleshooting, which the core team supported by offering spot check scans for system administrators that were unable to run pshtt independently. For these purposes, the agency core team maintained a troubleshooting branch off of the canonical pshttmaster branch to support checks with multiple timeouts to account for many of NASA’s  high-latency targets, and to use an augmented trust store that included the Federal Common Policy CA.<figure>
 {% include image/full-width.html img="https://18f.gsa.gov/assets/blog/nasa-https/pshtt-report.png" alt="A spreadsheet showing a pshtt report." %}<figcaption>NASA &#8220;prettified&#8221; pshtt reports to better meet the needs of various stakeholder groups, with color-coding and mappings to additional data.</figcaption></figure> 
 
 In addition to pshtt, NASA used other common applications, such as curl, OpenSSL, and Nmap, and included their output alongside results from pshtt.
@@ -84,13 +84,13 @@ Finally, NASA combined HTTPS compliance findings with a TLS cipher usage audit. 
 
 ## Challenges {#challenges}
 
-The core team identified some difficulty among staff in grasping the spirit and the letter of OMB’s HTTPS policy, M-15-13. Specifically:
+The core team identified some difficulty among staff in grasping the spirit and the letter of OMB’s  HTTPS policy, M-15-13. Specifically:
 
-  * There was a lot of resistance to enabling HTTPS for an HTTP service that simply redirected to another site. Over the course of NASA’s history on the web, the agency has created numerous URLs that have subsequently either fallen under other groups or ended up in print.
+  * There was a lot of resistance to enabling HTTPS for an HTTP service that simply redirected to another site. Over the course of NASA’s  history on the web, the agency has created numerous URLs that have subsequently either fallen under other groups or ended up in print.
   * Similarly, enabling HSTS on a service that only redirects to another endpoint was questioned consistently, as was enabling HSTS on a server that never offered plain HTTP.
   * Even the definition of “web server” was sometimes contested, with many stakeholders debating that a listening service which did nothing but (purposefully) respond with an HTTP error code and did not provide traditional web content (for example, HTML, CSS, or JavaScript) did not qualify.
 
-To resolve these cases, we reviewed the spirit and letter of OMB’s HTTPS policy, M-15-13. All of the questioned cases are certainly in scope, and NASA contributed edits to the guidance on OMB’s [HTTPS-Only Standard website](https://https.cio.gov/), to help clarify. This all contributed to our system administrators moving towards compliant implementations.
+To resolve these cases, we reviewed the spirit and letter of OMB’s  HTTPS policy, M-15-13. All of the questioned cases are certainly in scope, and NASA contributed edits to the guidance on OMB’s  [HTTPS-Only Standard website](https://https.cio.gov/), to help clarify. This all contributed to our system administrators moving towards compliant implementations.
 
 ## Ever onward! {#ever-onward}
 

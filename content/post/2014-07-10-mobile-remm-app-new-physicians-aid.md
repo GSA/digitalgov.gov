@@ -3,7 +3,7 @@
 
 date: 2014-07-10 10:00:49 -0400
 title: 'Mobile REMM App\: New Physicians&rsquo; Aid'
-summary: 'The Department of Health and Human Service’sMobile REMM App provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on iOS, Android, and Blackberry platforms, the native application showcases comprehensive information concerning dose estimators'
+summary: 'The Department of Health and Human Service’s Mobile REMM App provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on iOS, Android, and Blackberry platforms, the native application showcases comprehensive information concerning dose estimators'
 authors: [katie-steffy]
 categories:
   - Mobile
@@ -27,7 +27,7 @@ tag:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-333-REMM-HHS-app.jpg" alt="A screenshot of the REMM app on a mobile device" %}The [Department of Health and Human Service’s Mobile REMM App](http://www.remm.nlm.gov/downloadmremm.htm) provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on [iOS](https://itunes.apple.com/us/app/mobile-remm-radiation-emergency/id372600451?mt=8), [Android](https://play.google.com/store/apps/details?id=gov.nih.nlm.sis.remm), and [Blackberry](http://appworld.blackberry.com/webstore/content/45722/?lang=en&countrycode=US) platforms, the native application showcases comprehensive information concerning dose estimators and resources to initiate a variety of triages on site without requiring mobile connectivity.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-333-REMM-HHS-app.jpg" alt="A screenshot of the REMM app on a mobile device" %}The [Department of Health and Human Service’s  Mobile REMM App](http://www.remm.nlm.gov/downloadmremm.htm) provides physicians and emergency medical staff with the latest and greatest information concerning radioactive and nuclear emergencies. Available on [iOS](https://itunes.apple.com/us/app/mobile-remm-radiation-emergency/id372600451?mt=8), [Android](https://play.google.com/store/apps/details?id=gov.nih.nlm.sis.remm), and [Blackberry](http://appworld.blackberry.com/webstore/content/45722/?lang=en&countrycode=US) platforms, the native application showcases comprehensive information concerning dose estimators and resources to initiate a variety of triages on site without requiring mobile connectivity.
 
 After its April update to 2.0.1, users now have access to management algorithms that provide scenario-based flowcharts to help in treatment decision making. These algorithms are successfully structured to provide instantaneous, organized access to a wide realm of protocols and guidance. In addition, the app also provides:
 

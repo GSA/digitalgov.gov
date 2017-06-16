@@ -98,7 +98,7 @@ tag:
 </p>
 
   * <p dir="ltr">
-      The optimal time for an individual hallway test is 10 minutes. A tester’s focus and interest tend to wane if you keep them any longer.
+      The optimal time for an individual hallway test is 10 minutes. A tester’s  focus and interest tend to wane if you keep them any longer.
     </p>
 
   * <p dir="ltr">

@@ -19,7 +19,7 @@ Content marketing is everywhere and you&#8217;re hearing more about it every day
 While content marketing can take many forms (articles, infographics, videos, and more), it shares a common purpose: providing useful content to attract new customers to your product or service. At USAGov, customized e-mail messages to our subscribers represent one of our most powerful content marketing tools. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459067215.jpg" alt="maxkabakov/iStock/Thinkstock" %} 
 
-## What’s the Core Concept?
+## What’s  the Core Concept?
 
 Every USAGov e-mail begins with an idea either from our content or marketing team. In essence, messages we provide highlight timely information on an important topic—money, health, voting, travel, and more.
 

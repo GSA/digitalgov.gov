@@ -21,7 +21,7 @@ tag:
 
 The [United Nations Office for Disaster Risk Reduction (UNISDR) report](http://www.unisdr.org/files/42814_2015no04.pdf), released in March 2015, states that economic losses from disasters are now reaching an average of $250 billion to $300 billion, annually. While the U.N. report is a “wake up” call to strengthen worldwide resilience to disasters, our immediate focus should be on lessening the severity of the impact they have on our homes and everyday life.
 
-When natural disasters destroy the peace, tranquility and harmony of our homes, we need to work quickly to rebuild our lives. The U.S. Department of Housing and Urban Development (HUD)’s Office of Lead Hazard Control and Healthy Homes has released “Rebuild Healthy Homes,” a mobile app that provides valuable information that helps us rebuild a safe haven for our families.
+When natural disasters destroy the peace, tranquility and harmony of our homes, we need to work quickly to rebuild our lives. The U.S. Department of Housing and Urban Development (HUD)’s  Office of Lead Hazard Control and Healthy Homes has released “Rebuild Healthy Homes,” a mobile app that provides valuable information that helps us rebuild a safe haven for our families.
 
 The app is free and available for download at [Google Play](https://play.google.com/store/apps/details?id=gov.hud.healthyhomes) for Android and at [iTunes](https://itunes.apple.com/us/app/rebuild-healthy-homes/id980660616?mt=8) for iPhone and iPad. The app is intuitive and provides information about various disaster types and the damages they may cause along with restoration tips.
 

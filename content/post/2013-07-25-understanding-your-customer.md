@@ -25,7 +25,7 @@ There are numerous ways to determine what your customers expect when interacting
   As I wrote in my <a href="https://www.WHATEVER/2013/07/18/how-to-create-a-customer-experience-index-2/" target="_blank">previous post</a>, my office within GSA is creating a <strong>Customer Experience index</strong> for our agency-facing programs and for our public-facing programs. The index will give us a baseline to determine whether the overall experience is improving or not.  However, to diagnose the issues or the improvements, you will need feedback from other tools such as the surveys or focus groups mentioned above.
 </p>
 
-> Here’s what’s critical: The results need to be from the customer’s perspective, not from the agency’s perspective.
+> Here’s  what’s  critical: The results need to be from the customer’s  perspective, not from the agency’s  perspective.
 
 When measuring customer service you want to collect metrics that tell the story of what you want to know.
 
@@ -38,6 +38,6 @@ How we measure our government programs may evolve over time, depending on the st
 
 Measuring adoption also varies based on the type of program. For websites, it could be the number of visits to your website; for a contact center, it might be the number of calls. Or, it could mean the number of people who have applied for your program.
 
-Another key consideration is: how can you diagnose problems? A simple but effective way to diagnose problems with service levels is to pretend you are the customer and walk through the various steps you would have to take to achieve the task you came there for. This is also known in the customer experience field as **Journey Mapping**. By defining the various scenarios or tasks your customers would come to your office to complete, you can walk through the steps in the journey. Then you document the questions you need to answer, the information you may need, and how long it takes to complete each step of the transaction. This will enable you to identify the pain points or delays in completing the transaction &#8211; that’s where you prioritize your efforts.
+Another key consideration is: how can you diagnose problems? A simple but effective way to diagnose problems with service levels is to pretend you are the customer and walk through the various steps you would have to take to achieve the task you came there for. This is also known in the customer experience field as **Journey Mapping**. By defining the various scenarios or tasks your customers would come to your office to complete, you can walk through the steps in the journey. Then you document the questions you need to answer, the information you may need, and how long it takes to complete each step of the transaction. This will enable you to identify the pain points or delays in completing the transaction &#8211; that’s  where you prioritize your efforts.
 
-Now that I&#8217;ve shared the customer experience processes we&#8217;re trying to implement in my office at GSA, I’d love to hear the methods you use to understand your customers. What’s worked the best? What are your biggest challenges?
+Now that I&#8217;ve shared the customer experience processes we&#8217;re trying to implement in my office at GSA, I’d love to hear the methods you use to understand your customers. What’s  worked the best? What are your biggest challenges?

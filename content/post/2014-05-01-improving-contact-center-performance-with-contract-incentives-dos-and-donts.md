@@ -20,11 +20,11 @@ tag:
 
 As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.
 
-The concept for incentives/disincentives is a simple one—pay more when your contractor over performs; pay less when your contractor under performs. What’s simple in theory, however, is not as simple to plan, implement, and manage.
+The concept for incentives/disincentives is a simple one—pay more when your contractor over performs; pay less when your contractor under performs. What’s  simple in theory, however, is not as simple to plan, implement, and manage.
 
-## What do the experts say? Let’s start with the Office of Management and Budget (OMB)
+## What do the experts say? Let’s  start with the Office of Management and Budget (OMB)
 
-OMB’s A Guide to Best Practices for Performance Based Contracting encourages us to use incentives by incorporating them thoughtfully into our contracts:
+OMB’s  A Guide to Best Practices for Performance Based Contracting encourages us to use incentives by incorporating them thoughtfully into our contracts:
 
   * Incentives should be used **when** they will induce better quality performance and may be either positive, negative, or a combination of both.
   * They should be **applied selectively** to motivate contractor efforts that might not otherwise be emphasized, and to discourage inefficiency.
@@ -45,7 +45,7 @@ I met with several federal contact center managers from the [Government Contact 
 
 ### Don’t
 
-  * **Don’t** place incentives on every Key Performance Indicator (KPI), only those that are most important to your program’s success. This is in line with the OMB guidance and makes good business sense. If you focus on everything, you focus on nothing. Placing incentives on every KPI is like highlighting every line of text in a study guide.
+  * **Don’t** place incentives on every Key Performance Indicator (KPI), only those that are most important to your program’s  success. This is in line with the OMB guidance and makes good business sense. If you focus on everything, you focus on nothing. Placing incentives on every KPI is like highlighting every line of text in a study guide.
   * **Don’t** place incentives/disincentives on subjective measures. If your KPI or measure is subject to a wide variety of interpretations and subtle nuances, it will be difficult to hold a contractor to that measure, and even more difficult for your contractor to attain that measure.
   * **Don’t** launch incentives/disincentives at the beginning of a new contract; instead, take a phased approach. Ease the the new incentives/disincentives into the contract as your become more certain of your standard measures for success.
   * **Don’t** place incentives/disincentives on a Quality Assurance metric until the contractor and the government are nearly 100% calibrated; otherwise, the calibration sessions can become unproductive. If you and your contractor aren’t calibrated, the calibration sessions can become more about meeting the incentivized metric and less about reaching solid agreements on what constitutes a good interaction.

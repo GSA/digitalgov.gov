@@ -3,7 +3,7 @@
 
 date: 2015-12-16 11:10:18 -0400
 title: 'Challenges, Crowdsourcing, Citizen Science\: What&amp;#8217;s the Dif?'
-summary: 'There’smore than one way to harness the wisdom of the crowd. In honor of December’smonthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’scompany, three’sa crowd&mdash;and getting input from many is crowdsourcing. A White House'
+summary: 'There’s more than one way to harness the wisdom of the crowd. In honor of December’s monthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’s company, three’s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors: [awichman]
 categories:
   - Challenges
@@ -38,13 +38,13 @@ tag:
   - USGS
 ---
 
-There’s more than one way to harness the wisdom of the crowd.
+There’s  more than one way to harness the wisdom of the crowd.
 
-In honor of December’s [monthly theme](https://www.WHATEVER/2015/12/08/challenges-crowdsourcing-a-quick-overview-and-look-ahead/), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
+In honor of December’s  [monthly theme](https://www.WHATEVER/2015/12/08/challenges-crowdsourcing-a-quick-overview-and-look-ahead/), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
 
 ## Crowdsourcing
 
-Two’s company, three’s a crowd—and getting input from many is crowdsourcing.
+Two’s  company, three’s  a crowd—and getting input from many is crowdsourcing.
 
 A [White House blog post](https://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government) defined crowdsourcing as “a process in which individuals or organizations submit an open call for voluntary contributions from a large group of unknown individuals (“the crowd”) or, in some cases, a bounded group of trusted individuals or experts.”
 
@@ -53,7 +53,7 @@ Government agencies are engaging a diverse and broad spectrum of people whose sk
 Efforts range from technical skills to scientific data to creative and visionary designs:
 
   * Notice a change in landscape after a disaster? The U.S. Geological Survey (USGS) is collecting data to understand the broader impact of natural disasters, and citizens around the country are sharing what they know online through [iCoast](http://coastal.er.usgs.gov/icoast/).
-  * Can you fix a technical bug with your programming skills? The Department of Health and Human Services’s (HHS) Centers for Medicare and Medicaid Services ran 100 technical challenge competitions to build a large-scale fraud detection platform. People could contribute micro- and macro-level programming skills.
+  * Can you fix a technical bug with your programming skills? The Department of Health and Human Services’s  (HHS) Centers for Medicare and Medicaid Services ran 100 technical challenge competitions to build a large-scale fraud detection platform. People could contribute micro- and macro-level programming skills.
   * Have ideas about solar power? The Department of Energy launched an ideation program, [SunShot Catalyst](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/), to gather ideas from around the world about how to make solar energy cost-competitive.
 
 These are just three examples out of hundreds of crowdsourcing initiatives in government that bridge collaboration and community among the federal government and the public. 
@@ -67,9 +67,9 @@ Within government agencies, there are departments that crowdsource ideas and sol
 
 A few examples:
 
-  * The Consumer Financial Protection Bureau (CFPB) developed an open-source technology platform that is used to manage the agency’s internal crowdsourcing efforts. The code is available on GitHub and an on-demand webinar gives an [overview of CFPB’s program](https://www.youtube.com/watch?v=KRQ24645LOE&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC&index=2).
+  * The Consumer Financial Protection Bureau (CFPB) developed an open-source technology platform that is used to manage the agency’s  internal crowdsourcing efforts. The code is available on GitHub and an on-demand webinar gives an [overview of CFPB’s  program](https://www.youtube.com/watch?v=KRQ24645LOE&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC&index=2).
   * The [NASA@Work](https://www.nasa.gov/coeci/nasa-at-work) platform “seeks to increase innovation by fostering collaboration within [the NASA] community through the contribution of interactive discussions and the submission of solutions to posted challenges.”
-  * Other agencies run occasional crowdsourcing efforts, like the General Services Administration’s [Great Ideas Hunt](http://www.gsa.gov/portal/content/141687), which solicited innovative ideas.
+  * Other agencies run occasional crowdsourcing efforts, like the General Services Administration’s  [Great Ideas Hunt](http://www.gsa.gov/portal/content/141687), which solicited innovative ideas.
 
 The [Ideation Community of Practice](https://community.max.gov/pages/viewpage.action?title=Ideation+Community+of+Practice+%28Idea+Generation+Tools%29&spaceKey=Planning) is open to federal employees (with .gov or .mil email addresses) and provides best practices, resources and tools to help employees navigate the process of asking for ideas, implementing solutions and managing awards and expectations with contributors.
 
@@ -119,6 +119,6 @@ While the programs featured here are big bucket items, throughout government you
 
 Consider which format would be best for your program; look through the options and consider what outcome you want and what group could be the best contributors to the project. Talk with others who have run these programs and learn from their experience.
 
-There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
+There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s  [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
 Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice](https://www.WHATEVER/communities/federal-crowdsourcing-citizen-science/) and the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/).

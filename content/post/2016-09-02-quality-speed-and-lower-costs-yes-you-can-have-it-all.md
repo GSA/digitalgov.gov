@@ -50,7 +50,7 @@ That left just Tematres and Elasticsearch, so we reached into our bag of tricks 
 
 We then enabled [Auto Healing](http://docs.aws.amazon.com/opsworks/latest/userguide/workinginstances-autohealing.html) on our application layers to ensure servers would be replaced automatically if they failed. With robust, well-tested recipes to build servers in place, we knew this replacement would be seamless if it occurred.
 
-To replace our CDN and web application firewall (WAF) provider, we implemented our own Apache proxy server layer using a modified version of the [OWASP](https://www.owasp.org/index.php/Main_Page) WAF rules for the [modsecurity](https://www.modsecurity.org/) Apache module, echoing our previous provider’s approach. This took iterative tuning that we&#8217;ll discuss later.
+To replace our CDN and web application firewall (WAF) provider, we implemented our own Apache proxy server layer using a modified version of the [OWASP](https://www.owasp.org/index.php/Main_Page) WAF rules for the [modsecurity](https://www.modsecurity.org/) Apache module, echoing our previous provider’s  approach. This took iterative tuning that we&#8217;ll discuss later.
 
 We also migrated our database services (MySQL and Redis) to the hosted AWS equivalents (RDS MySQL and Elasticache Redis), in configurations that were designed to automatically withstand loss of a datacenter, or AWS availability zone (AZ). This was an inexpensive way to take the hassle of database availability, backups, and upgrades out of our hands.
 
@@ -109,5 +109,5 @@ By applying some very commonly-understood modern operations practices — role-b
 
   * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)
   * <span style="line-height: 1.5"><a href="https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a> </span>
-  * [Let’s Encrypt Those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
+  * [Let’s  Encrypt Those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
   * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](https://www.WHATEVER/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/)

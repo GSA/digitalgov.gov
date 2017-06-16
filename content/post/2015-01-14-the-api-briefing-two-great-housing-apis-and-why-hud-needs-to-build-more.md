@@ -31,7 +31,7 @@ Both of the HUD APIs have good documentation pages and a good information servic
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how <a title="APIs in Government" href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">government APIs</a> are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:bill.brantley@wdc.usda.gov)._
 
-_Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._
+_Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s  Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._
 
 <div class="copyIcon copy0">
 </div>

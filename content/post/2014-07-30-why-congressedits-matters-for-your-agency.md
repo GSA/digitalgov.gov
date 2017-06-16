@@ -33,14 +33,14 @@ First, agencies can find out for themselves what is coming out of their IP range
 Second, you may want to think about developing best practices around Wikipedia to channel any internal interest in Wikipedia in the right direction. At the National Archives we created staff guidelines about Wikipedia engagement and have [published them](https://en.wikipedia.org/wiki/Wikipedia:GLAM/National_Archives_and_Records_Administration/Guidelines) publicly on Wikipedia; the Department of Health and Human Services [has drafted guidance](http://www.hhs.gov/web/socialmedia/getting_started/wikipedia_guidance.html) as well. Best practices might include principles like:
 
   * Always use an account and identify yourself when editing Wikipedia on behalf of your agency.
-  * Abide by [Wikipedia’s policies](https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies) and practices on neutrality, notability, and verifiability.
+  * Abide by [Wikipedia’s  policies](https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies) and practices on neutrality, notability, and verifiability.
   * If there is a potential conflict of interest (for example, the article about your agency), engage in an open dialogue with the Wikipedia community using talk pages and noticeboards, rather than editing the article directly.
 
 We also have [blogged about our approach](http://blogs.archives.gov/online-public-access/?p=8502) to conflicts of interest, developed [standard disclosure language](https://en.wikipedia.org/wiki/Template:NARA_user_page) for the user profiles of staff Wikipedia accounts, and include Wikipedia engagement in our [open government efforts](http://www.archives.gov/open/open-government-plan-3.0.pdf). These sorts of activities enforce transparency and promote mutual understanding between staff and the public. They would also serve as important evidence of your good faith when dealing with potential issues in the future.
 
 At NARA, we&#8217;re dedicated to engaging with Wikipedia in order to increase public access to government records. Wikipedia is an incredibly popular general information source—and the articles related to NARA holdings see over a billion views per year—which means it helps us reach greater audiences. For those agencies whose missions may align with Wikipedia&#8217;s educational purpose, I encourage you to consider participating thoughtfully and ethically in order to better serve the public.
 
-Want to learn more about NARA’s citizen engagement efforts (including Wikipedia)? Stay tuned to DigitalGov for more posts from NARA’s Office of Innovation!
+Want to learn more about NARA’s  citizen engagement efforts (including Wikipedia)? Stay tuned to DigitalGov for more posts from NARA’s  Office of Innovation!
 
 _**Dominic McDevitt-Parks** is a Digital Content Specialist, Wikipedian in Residence at the National Archives and Records Administration._
 

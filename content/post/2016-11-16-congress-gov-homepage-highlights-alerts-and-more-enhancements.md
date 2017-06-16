@@ -19,7 +19,7 @@ This has been an exciting and successful year for [**Congress.gov**](https://www
 
 In May we launched several [new RSS feeds and email alerts](http://blogs.gov.gov/law/2016/05/new-email-alerts-and-rss-feeds-on-congress-gov/?loclr=bloglaw) and added [saved search email alerts](http://blogs.gov.gov/law/2016/06/new-saved-search-email-alerts-on-congress-gov/?loclr=bloglaw) soon after in June. This is a feature that was never available on THOMAS. Also [added in June](http://blogs.gov.gov/law/2016/06/new-congress-gov-enhancements-including-advanced-search/?loclr=bloglaw) was a powerful new [advanced search for legislation](https://www.congress.gov/advanced-search/legislation?loclr=bloglaw). This search form provides greater access to the underlying data than was available on THOMAS. The September release [added new nomination alerts](http://blogs.gov.gov/law/2016/09/recess-revisions-congress-gov-clean-up-and-enhancements/?loclr=bloglaw) and provided more consistency across the site.
 
-With today’s update we have added additional items that users have requested. We frequently get questions on how to contact your member of Congress. There is now a prominent section for contacting your member. Another addition is the Recent section circled below. The first link for [Yesterday in Congress](https://www.congress.gov/bills-with-chamber-action/browse-by-date?loclr=bloglaw) was a favorite on THOMAS that users missed.
+With today’s  update we have added additional items that users have requested. We frequently get questions on how to contact your member of Congress. There is now a prominent section for contacting your member. Another addition is the Recent section circled below. The first link for [Yesterday in Congress](https://www.congress.gov/bills-with-chamber-action/browse-by-date?loclr=bloglaw) was a favorite on THOMAS that users missed.
 
 Occasionally, we receive requests for a function that is already available on Congress.gov. There is now a featured Search Tip to share and highlight such items. You can also subscribe to search tips from the <a href="https://www.congress.gov/rss?loclr=bloglaw" rel="nofollow">RSS and Email Alerts</a> page.
 
@@ -31,7 +31,7 @@ Also included in this set of enhancements is the ability to subscribe to an [App
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-543-congressdotgov-rss-and-email-alerts-appropriations.jpg" alt="RSS and Email Alerts now with Appropriations Tables Email." %}
 
-See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?loclr=bloglaw) for the complete rundown of this release. The page also provides a nice overview of all the enhancements since the site’s [launch back in September 2012](http://blogs.gov.gov/law/2012/09/introducing-congress-gov/?loclr=bloglaw).
+See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?loclr=bloglaw) for the complete rundown of this release. The page also provides a nice overview of all the enhancements since the site’s  [launch back in September 2012](http://blogs.gov.gov/law/2012/09/introducing-congress-gov/?loclr=bloglaw).
 
 > ### November 2016
 > 

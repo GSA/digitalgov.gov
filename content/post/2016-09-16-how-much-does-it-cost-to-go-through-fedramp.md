@@ -3,7 +3,7 @@
 
 date: 2016-09-16 2:00:24 -0400
 title: 'How Much Does It Cost to Go Through FedRAMP?'
-summary: 'One of the questions we get asked the most at FedRAMP from our vendors is\: &ldquo;How much will it cost me to get through FedRAMP?&rdquo; One of the reasons this is a hard question to answer is that comparing cloud providers to each other isn&rsquo;t even like trying to compare apples to oranges &ndash; those'
+summary: 'One of the questions we get asked the most at FedRAMP from our vendors is\: &ldquo;How much will it cost me to get through FedRAMP?&rdquo; One of the reasons this is a hard question to answer is that comparing cloud providers to each other isn&rsquo;t even like trying to compare apples to oranges — those'
 authors: [matt-goodrich]
 categories:
   - Data
@@ -78,6 +78,6 @@ However, even with vendors with similar scopes and services – the variance bet
 
 One important thing to note, again, is that these baseline costs are associated with the old FedRAMP process and was before we introduced FedRAMP Accelerated. With the redesigned, reimagined process now being tested with three CSPs, we will ensure that Accelerated works for everyone. One way we’re going about this is to to compare and contrast the costs of the old process to Accelerated and to ensure we’re getting a greater ROI for both government and industry.
 
-As we continue to iterate and upgrade FedRAMP Accelerated, we’ll be re-baselining the costs associated with the vendors currently involved to ensure that not only is the process faster and more transparent, but that it’s becoming more cost efficient as well. If you’re a vendor who would like to help us build out our baseline costs to better understand more factors that contribute to cost and nuances to our model, please reach out to us via [email](mailto:info@fedramp.gov)!
+As we continue to iterate and upgrade FedRAMP Accelerated, we’ll be re-baselining the costs associated with the vendors currently involved to ensure that not only is the process faster and more transparent, but that it’s  becoming more cost efficient as well. If you’re a vendor who would like to help us build out our baseline costs to better understand more factors that contribute to cost and nuances to our model, please reach out to us via [email](mailto:info@fedramp.gov)!
 
 _This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/focus-on-fedramp/)._

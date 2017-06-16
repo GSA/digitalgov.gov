@@ -26,12 +26,12 @@ Both leverage different scripted technology but signal that large consumer-facin
 
 &#8220;The Gray Lady&#8217;s&#8221; [Election Slack Bot](http://www.nytimes.com/interactive/2016/us/politics/election-bot.html) acts as an interactive interface to the newsroom and collects and sends questions to the newsroom through [Slack](https://www.WHATEVER/2015/07/30/picking-up-the-slack-for-team-communication/), the chat/communication tool.
 
-[Quartz’s app](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/) is a mobile application in the traditional sense that you [download it from iTunes](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/) and install it, but the content experience is much closer to SMS messaging than a flat news website. There’s a clear a give-and-take of information with the user, providing nuggets and teases of articles—even haikus of the daily stock market action—then the user can ask questions for more information.
+[Quartz’s  app](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/) is a mobile application in the traditional sense that you [download it from iTunes](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/) and install it, but the content experience is much closer to SMS messaging than a flat news website. There’s  a clear a give-and-take of information with the user, providing nuggets and teases of articles—even haikus of the daily stock market action—then the user can ask questions for more information.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-513-Screen-capture-of-2-screens-from-the-Quartz-iPhone-News-App.jpg" alt="Screen capture of 2 screens from the Quartz iPhone News App" %}
 
-Both of these offer very interesting views of the future of digital content and how publishers and audiences will interact with it. It’s a world closer to the movie [Her](http://www.imdb.com/title/tt1798709/), in which an FAQ might respond to your questions personally, rather than just being a flat text document.
+Both of these offer very interesting views of the future of digital content and how publishers and audiences will interact with it. It’s  a world closer to the movie [Her](http://www.imdb.com/title/tt1798709/), in which an FAQ might respond to your questions personally, rather than just being a flat text document.
 
 How can your government agency prepare for more interactive, give-and-take user experiences beyond published Web pages and apps?
 

@@ -22,12 +22,12 @@ Some agencies hire vendors to recruit and pay the participants, while others do 
 
   * You can contact local professional associations to help you find recruiting firms in the locations where you are working.
   * You will have to pay the vendor recruiting fees on top of the incentives, so be sure to include them in your budget.
-  * You will probably need to negotiate terms of the contract with your agency’s General Counsel or Procurement Office before working with a vendor.
+  * You will probably need to negotiate terms of the contract with your agency’s  General Counsel or Procurement Office before working with a vendor.
   * The vendors will issue the payments directly to the participants at the end of each month.
 
 ## Doing it Yourself
 
-  * Payments: Your CFO’s office will be able to tell you if you can pay participants directly and what methods you can use to pay participants (cash, check, physical or electronic gift cards, etc.). 
+  * Payments: Your CFO’s  office will be able to tell you if you can pay participants directly and what methods you can use to pay participants (cash, check, physical or electronic gift cards, etc.). 
       * You will need to develop a payment process (including receipts, if needed).
       * For checks: Figure out who can sign the checks and work with their schedule to be sure you have checks when you need them. Make sure participants know ahead of time that you are paying by check, so they have a way to cash it.
       * If you can’t pay directly, you will either have to use a vendor or find people who will participate for free.

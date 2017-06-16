@@ -29,7 +29,7 @@ tag:
 </p>
 
 <p>
-  How does it work? It’s simple:
+  How does it work? It’s  simple:
 </p>
 
 <ul>

@@ -3,7 +3,7 @@
 
 date: 2014-08-21 1:59:05 -0400
 title: 'Go.USA.gov Creates Short, Trustworthy .gov URLs'
-summary: 'Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can&rsquo;t see the final destination. That’swhy Go.USA.gov was created&mdash;to show users that they would reach official government information. To maintain this trust, Go.USA.gov is only open to government employees and only shortens government'
+summary: 'Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can&rsquo;t see the final destination. That’s why Go.USA.gov was created&mdash;to show users that they would reach official government information. To maintain this trust, Go.USA.gov is only open to government employees and only shortens government'
 authors: [michelle-chronister]
 categories:
   - API
@@ -14,7 +14,7 @@ tag:
   - GoUSAgov
 ---
 
-Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can’t see the final destination. That’s why Go.USA.gov was created—to show users that they would reach official government information.
+Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can’t see the final destination. That’s  why Go.USA.gov was created—to show users that they would reach official government information.
 
 To maintain this trust, Go.USA.gov is only open to government employees and only shortens government URLs—that is: .mil, .gov, .fed.us, .si.edu and .state.xx.us URLs. We are willing to make exceptions for [other government URLs that meet our criteria](http://go.usa.gov/about#exceptions).
 

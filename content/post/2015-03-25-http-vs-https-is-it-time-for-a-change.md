@@ -29,7 +29,7 @@ A few agencies have begun to [use Hyper Text Transfer Protocol Secure (HTTPS)](h
 
 On one side of the argument, protecting all websites with HTTPS is seen as a necessary step because having security is imperative, despite the additional workload. Joseph Wicentowski, Digital History Advisor in the Bureau of Public Affairs at the Department of State, believes that the use of HTTPS is important for all government websites.
 
-&#8220;I would argue that offering HTTPS connections on all pages is particularly important for government sites,” Wicentowski said.  “Some may argue that the SSL encryption is only necessary for password-protected portions of websites. But, SSL [provides an extra level of security] and prevents any 3rd party from seeing, recording, or tampering with the content of the user’s session. By offering HTTPS, we allow our security-cognizant users to be 100% confident that no attacker is monitoring or tampering with the contents of their session.”
+&#8220;I would argue that offering HTTPS connections on all pages is particularly important for government sites,” Wicentowski said.  “Some may argue that the SSL encryption is only necessary for password-protected portions of websites. But, SSL [provides an extra level of security] and prevents any 3rd party from seeing, recording, or tampering with the content of the user’s  session. By offering HTTPS, we allow our security-cognizant users to be 100% confident that no attacker is monitoring or tampering with the contents of their session.”
 
 Another interesting point in the debate is that Google has begun using HTTPS as a [ranking signal](http://googlewebmastercentral.blogspot.com/2014/08/https-as-ranking-signal.html). In other words, websites that are using the HTTPS protocol are appearing higher on the list of search results.
 
@@ -48,7 +48,7 @@ In terms of performance, an additional level of encryption requires more server 
 
 With these extra costs, such as certificate maintenance and a slight decrease in site performance, one must consider if the extra level of encryption is worth implementing.
 
-In this article, we have only began to delve into the debate about the subject of HTTP vs HTTPS. For our next piece on the topic, we will share an agency’s full scale implementation of HTTPS. We will highlight some other issues in this debate, including but not limited to website performance, privacy, security, and hardware.
+In this article, we have only began to delve into the debate about the subject of HTTP vs HTTPS. For our next piece on the topic, we will share an agency’s  full scale implementation of HTTPS. We will highlight some other issues in this debate, including but not limited to website performance, privacy, security, and hardware.
 
 Do you believe that is it time for a full-scale implementation of HTTPS despite the considerations listed above? Are those considerations just a small cost in the bigger picture of ensuring privacy?
 

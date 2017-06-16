@@ -25,7 +25,7 @@ A group of self-proclaimed naysayers came together to dispel myths and share adv
 
 These groups, stereotypically, are often viewed as in conflict with each other, with each feeling as though the others are working against them. “How did we get to (what feels like) opposing teams?” Janet Stevens, Chief Information Officer in the Food Safety and Inspection Service at the U.S. Department of Agriculture, and moderator, asked the panel.
 
-Some technologists think, “procurement’s never going to understand what we’re trying to do, security’s never going to sign off,” so we’re just gonna plow ahead and bring them along when we need to, said Maria Hishikawa, IT Specialist in the Bureau of Alcohol, Tobacco, Firearms and Explosives, at the Department of Justice. The pace of technology has contributed to the attitude of, “they’ll never get it, they’re just going to hold us back,” she added.
+Some technologists think, “procurement’s  never going to understand what we’re trying to do, security’s  never going to sign off,” so we’re just gonna plow ahead and bring them along when we need to, said Maria Hishikawa, IT Specialist in the Bureau of Alcohol, Tobacco, Firearms and Explosives, at the Department of Justice. The pace of technology has contributed to the attitude of, “they’ll never get it, they’re just going to hold us back,” she added.
 
 Understand that other teams aren’t trying to stand in the way, and they too want to make sure you aren’t faced with delays, said Gabe Soll, attorney adviser in the Procurement and Financial Assistance Office of the General Counsel at the Department of Energy. “If you understand we have these timelines that move a little slower than the technology, that will help you budget your time in a more realistic sense,” he explained.
 
@@ -33,7 +33,7 @@ Understand that other teams aren’t trying to stand in the way, and they too wa
 
 The biggest learning opportunities can happen when things go wrong, Hishikawa said. “I think sometimes we forget to learn from our mistakes,” she continued.
 
-“I don’t like to have the helpless feeling where we can’t help the business [office] because they waited til the last minute, said Kimberly Hennings, division director in the office of Oversight and Compliance at the U.S. Department of Agriculture. “We want to help. We just have different perspectives and different avenues we have to protect to make sure we converge into a single solution that’s good for all,” she explained.
+“I don’t like to have the helpless feeling where we can’t help the business [office] because they waited til the last minute, said Kimberly Hennings, division director in the office of Oversight and Compliance at the U.S. Department of Agriculture. “We want to help. We just have different perspectives and different avenues we have to protect to make sure we converge into a single solution that’s  good for all,” she explained.
 
 At the end of the day, it comes down to telling people what your requirements are, asking them for theirs and seeing if they do really conflict,” Dunbar said.
 

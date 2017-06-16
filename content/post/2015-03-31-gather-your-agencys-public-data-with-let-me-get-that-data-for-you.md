@@ -27,9 +27,9 @@ Let Me Get That Data For You searches any website for data in machine-readable f
 >     site:example.gov filetype:csv OR filetype:xls OR filetype:json
 >     
 > 
-> Then they have to read through all of the results, download all of the files, and create a spreadsheet that they can load into their repository. It’s a lot of work, and as a result it too often goes undone, resulting in a data repository that doesn’t actually contain all of that agency&#8217;s data.
+> Then they have to read through all of the results, download all of the files, and create a spreadsheet that they can load into their repository. It’s  a lot of work, and as a result it too often goes undone, resulting in a data repository that doesn’t actually contain all of that agency&#8217;s data.
 > 
-> Realizing that this was a common problem, we hired Silicon Valley Software Group to create a tool to automate the inventorying process. We worked with Dan Schultz and Ted Han, who created a system built on [Django](https://www.djangoproject.com/) and [Celery](http://www.celeryproject.org/), using Microsoft’s great [Bing Search API](https://datamarket.azure.com/dataset/bing/search) as its data source. The result is a free, installable tool, which produces a CSV file that lists all CSV, XML, JSON, XLS, XLSX, XML, and Shapefiles found on a given domain name.
+> Realizing that this was a common problem, we hired Silicon Valley Software Group to create a tool to automate the inventorying process. We worked with Dan Schultz and Ted Han, who created a system built on [Django](https://www.djangoproject.com/) and [Celery](http://www.celeryproject.org/), using Microsoft’s  great [Bing Search API](https://datamarket.azure.com/dataset/bing/search) as its data source. The result is a free, installable tool, which produces a CSV file that lists all CSV, XML, JSON, XLS, XLSX, XML, and Shapefiles found on a given domain name.
 
 <div>
   <p>

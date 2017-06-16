@@ -3,7 +3,7 @@
 
 date: 2015-10-21 2:51:33 -0400
 title: 'Modernizing Federal Information Policy'
-summary: 'Today, the White House Office of Management and Budget (OMB) is proposing for the first time in fifteen years revisions to the Federal Government’sgoverning document establishing policies for the management of Federal information resources\: Circular A-130, Managing Information as a Strategic Resource. More specifically, Circular A-130 provides general policy for the planning, budgeting, governance,'
+summary: 'Today, the White House Office of Management and Budget (OMB) is proposing for the first time in fifteen years revisions to the Federal Government’s governing document establishing policies for the management of Federal information resources\: Circular A-130, Managing Information as a Strategic Resource. More specifically, Circular A-130 provides general policy for the planning, budgeting, governance,'
 authors: [anne-rung, tony-scott, howard-shelanski]
 categories:
   - Managing Digital
@@ -15,7 +15,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" %} 
 
-Today, the White House Office of Management and Budget (OMB) is proposing [for the first time in fifteen years](https://a130.cio.gov/) revisions to the Federal Government’s governing document establishing policies for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource. More specifically, Circular A-130 provides general policy for the planning, budgeting, governance, acquisition, and management of Federal information resources. It also includes appendices outlining agency responsibilities for managing information, supporting use of electronic transactions, and protecting Federal information resources.
+Today, the White House Office of Management and Budget (OMB) is proposing [for the first time in fifteen years](https://a130.cio.gov/) revisions to the Federal Government’s  governing document establishing policies for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource. More specifically, Circular A-130 provides general policy for the planning, budgeting, governance, acquisition, and management of Federal information resources. It also includes appendices outlining agency responsibilities for managing information, supporting use of electronic transactions, and protecting Federal information resources.
 
 The proposed revisions to the Circular are the result of new statutory requirements and enhanced technological capabilities since the last update to the Circular in 2000. Modernizing this policy will enable OMB to provide timely and relevant guidance to agencies and will ensure that the Federal IT ecosystem operates more securely and more efficiently while saving tax dollars and serving the needs of the American people.
 

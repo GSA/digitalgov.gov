@@ -27,9 +27,9 @@ In May 2015, we’re hosting the second [DigitalGov Citizen Services Summit](htt
 ## Step 1: Think Up a Great Idea 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-Light-bulb-with-colorful-Social-Media-icons-VLADGRIN-iStock-Thinkstock-187440476.jpg" alt="Light bulb with colorful Social Media icons" %} 
 
-We’re looking for forward-thinking ideas, and we’re emphasizing creativity and innovation. Got a great program—or part of a program—to share? Did you hear about someone else’s great program that you want to learn more about? Do you wish someone solved a problem you’re facing and want to tap the wisdom of the crowd? Want to tell your story in front of your peers? Now’s the time to crystallize your idea. ​
+We’re looking for forward-thinking ideas, and we’re emphasizing creativity and innovation. Got a great program—or part of a program—to share? Did you hear about someone else’s  great program that you want to learn more about? Do you wish someone solved a problem you’re facing and want to tap the wisdom of the crowd? Want to tell your story in front of your peers? Now’s  the time to crystallize your idea. ​
 
-This year’s theme is **open**. We want sessions and presos to focus on how &#8220;opening&#8221; data, content, code, contracts and talent makes digital citizen services better, more effective or even cheaper.
+This year’s  theme is **open**. We want sessions and presos to focus on how &#8220;opening&#8221; data, content, code, contracts and talent makes digital citizen services better, more effective or even cheaper.
 
 ## Step 2: Propose Your Great Idea
 
@@ -43,11 +43,11 @@ Anyone can propose a session. We’re accepting proposals through the end of Jan
 
 On February 1, 2015, we’ll open up the voting floodgates (and close to new submissions). Everyone can vote for the presentation(s) that they’d like to see at the Summit. You can vote for more than one great idea.
 
-Voting is open until February 28th. But there’s more! You can also add a comment to volunteer to present or suggest a speaker. You could also add information or case studies to support the idea.
+Voting is open until February 28th. But there’s  more! You can also add a comment to volunteer to present or suggest a speaker. You could also add information or case studies to support the idea.
 
 ## And Then What Happens? Selection.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-260-speech-bubbles.jpg" alt="Green, salmon, yellow, and purple speech bubbles in a variety of shapes." %}Presentations will be selected based on a magic combination your votes, recommendations from a sounding board of a bunch of smart digital gov leaders and flavored by our best judgement.
 
-[Register now](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401) to reserve your spot. Last year’s program sold out. We’ll publish the full the program and speakers in March 2015, but you can [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get the latest as we continue the planning.
+[Register now](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401) to reserve your spot. Last year’s  program sold out. We’ll publish the full the program and speakers in March 2015, but you can [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get the latest as we continue the planning.

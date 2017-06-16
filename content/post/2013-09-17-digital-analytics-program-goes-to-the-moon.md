@@ -22,7 +22,7 @@ tag:
 
 Before joining DAP, we used Urchin for nasa.gov analytics. Urchin is great at handling the raw tonnage, and we do miss some of its features, but, we never had the insight into real-time events that we have now. Even data that was always there in Urchin is now much easier to access and cross-reference with other data in the Google Analytics interface.
 
-We always see the expected spikes with mission events like launches or landings, but we now also often see the _unexpected_: for example, a story we’re not even promoting much goes viral on Reddit, or mobile use goes way up because of an Angry Birds update that’s pushing traffic to our website.
+We always see the expected spikes with mission events like launches or landings, but we now also often see the _unexpected_: for example, a story we’re not even promoting much goes viral on Reddit, or mobile use goes way up because of an Angry Birds update that’s  pushing traffic to our website.
 
 **LADEE Launch: A Mobile Event**
 
@@ -33,7 +33,7 @@ At peak, we saw this incredible chart — more than half of our traffic was comi
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/520-x-380-NASA-DAP-Digital-Analytics-Program-1.jpg" alt="Digital Analytics Program DAP real-time stats showing active visitors on the website" %}
 
-The leading locations were in the area where people could watch the launch – Maryland/DC/Virginia, Pennsylvania, New York, New Jersey, and North Carolina, with California also in the mix (the mission is managed by NASA’s Ames Research Center in Silicon Valley).
+The leading locations were in the area where people could watch the launch – Maryland/DC/Virginia, Pennsylvania, New York, New Jersey, and North Carolina, with California also in the mix (the mission is managed by NASA’s  Ames Research Center in Silicon Valley).
 
 Zooming in on one of the top locations – Alexandria, VA — we could see an astonishing 86% were using either an iPhone or Android phone:
 

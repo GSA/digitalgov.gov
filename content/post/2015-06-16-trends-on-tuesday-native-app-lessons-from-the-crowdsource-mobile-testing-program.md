@@ -25,7 +25,7 @@ The more you test, the more you know.
 
 We recently highlighted [lessons learned from the CrowdSource Mobile Testing Program](https://www.WHATEVER/2015/02/24/trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program/), discussed the [mobile emulator dilemma](https://www.WHATEVER/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/) that many agencies face, and today we’re back with a few insights on native app testing.
 
-The [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) yields a rich set of participant feedback that helps individual app creators improve their product. While the program primarily tests mobile websites created by federal agencies, the team tested early prototypes of the American Battle Monuments Commission’s [Normandy App](https://www.WHATEVER/2015/03/05/explore-iconic-overseas-world-war-ii-sites-with-abmc-apps/) and the National Oceanic and Atmospheric Administration’s [CrowdMag app](https://www.WHATEVER/2015/01/29/be-a-citizen-scientist-with-noaas-crowdmag-app/) as a pilot. We offer the following lessons to inform future app developers in any corner of the federal government.
+The [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) yields a rich set of participant feedback that helps individual app creators improve their product. While the program primarily tests mobile websites created by federal agencies, the team tested early prototypes of the American Battle Monuments Commission’s  [Normandy App](https://www.WHATEVER/2015/03/05/explore-iconic-overseas-world-war-ii-sites-with-abmc-apps/) and the National Oceanic and Atmospheric Administration’s  [CrowdMag app](https://www.WHATEVER/2015/01/29/be-a-citizen-scientist-with-noaas-crowdmag-app/) as a pilot. We offer the following lessons to inform future app developers in any corner of the federal government.
 
 ## For Content, Less is More
 
@@ -39,7 +39,7 @@ Great apps generally [do one thing really well](http://it-tna.com/2014/03/04/app
 Users want to quickly access the information they need. We learned from our native apps that navigation should be clear and familiar to users.
 
   * During one test, users did not know they could swipe a menu at the bottom of the app to view more information and options. App developers should use indicators or buttons that are common on app interfaces and will be easily understood by users.
-  * One app’s “back” button led users to the top of the previous page. Users reported that they expected to be taken to the exact place on the page they had left.
+  * One app’s  “back” button led users to the top of the previous page. Users reported that they expected to be taken to the exact place on the page they had left.
 
 ## A Lesson on Testing Native Apps
 

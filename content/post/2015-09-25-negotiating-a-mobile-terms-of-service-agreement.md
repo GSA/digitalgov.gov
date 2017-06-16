@@ -32,7 +32,7 @@ Gabriel Soll, an attorney with DOE, shared tips for negotiating TOS agreements f
 
 Start early. Communicate often.
 
-This is Soll’s first piece of advice.
+This is Soll’s  first piece of advice.
 
 Typically, there are numerous clauses of TOS agreements that need to be edited to fit federal regulations. A [TOS template](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc) (.doc) is available on DigitalGov, but there is usually some back-and-forth discussions between agencies and companies.
 

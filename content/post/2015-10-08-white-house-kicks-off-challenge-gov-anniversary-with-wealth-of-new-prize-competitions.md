@@ -40,7 +40,7 @@ Tom Kalil, deputy director for technology and innovation for White House Office 
 
 The country needs to use science, technology and innovation to tackle more societal issues such as educational challenges for low-income students and stagnant wages for workers with no college degree, Kalil said.
 
-In all, the White House announced nine new federal challenges Oct. 7. Here’s a snapshot:
+In all, the White House announced nine new federal challenges Oct. 7. Here’s  a snapshot:
 
   * The Health Resources and Services Administration is kicking off a [competition to address the “word gap”](http://www.wordgapchallenge.hrsa.gov/) that occurs for low-income children due to limited early exposure to language.
   * The Environmental Protection Agency and U.S. Geological Survey, with the assistance of the Department of Education, have teamed with the private sector to address nutrient pollution, continuing the work of a [coalition of federal agencies and non-governmental organizations](https://www.whitehouse.gov/blog/2014/12/17/innovating-protect-our-waterways).
@@ -62,7 +62,7 @@ From 1 to 5 p.m. today, GSA hosted agency officials and challenge winners to foc
 
 Managed by GSA, Challenge.gov is both an official listing of challenges and competitions across government as well as a one-stop-shop for federal agencies to launch and manage problem-solving events aimed at addressing local, national and global issues.
 
-Launched in 2010, and managed by GSA, Challenge.gov is a key component of the White House’s [Strategy for American Innovation](https://www.whitehouse.gov/innovation/strategy), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
+Launched in 2010, and managed by GSA, Challenge.gov is a key component of the White House’s  [Strategy for American Innovation](https://www.whitehouse.gov/innovation/strategy), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
 
 The event also featured the first-ever awards program to recognize individuals and teams for their work on some of the more audacious and powerful recent challenges issued by federal agencies.
 

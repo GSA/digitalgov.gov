@@ -66,6 +66,6 @@ Another tool we highlighted was Facebook Video. We hosted a webinar featuring th
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="Digital Analytics Program (DAP) screen capture of an analytics dashboard" %}We also hosted events on how to measure social efforts. First, in August, we hosted Sarah Kaczmarek from the Government Accountability Office to show us [how to create social media metrics reports and infographics](https://youtu.be/YqgKTgvARfM). Then Tim Lowden, part of the Digital Analytics Program, wrote [Why Your Social Traffic Looks Low in Analytics Tools](https://www.WHATEVER/2015/04/07/why-your-social-traffic-looks-low-in-analytics-tools/) describing what you can do to get more accurate social analytics within your content analytics tool.
 
-If you use [DigitalGov Search](http://search.WHATEVER) (or are thinking about it) you should read the [recap of the Social Digital Search Webinar](https://www.WHATEVER/2014/10/14/recap-of-social-digital-search-webinar/) where we discuss how DigitalGov Search pulls your agency’s social media accounts into search results.
+If you use [DigitalGov Search](http://search.WHATEVER) (or are thinking about it) you should read the [recap of the Social Digital Search Webinar](https://www.WHATEVER/2014/10/14/recap-of-social-digital-search-webinar/) where we discuss how DigitalGov Search pulls your agency’s  social media accounts into search results.
 
 Stay tuned for more exciting #SocialGov events!

@@ -30,8 +30,8 @@ Most would say no.
 
 ## Why Does It Matter If Your Site Is Mobile-Friendly?
 
-  1. You want your [mobile moments](https://www.WHATEVER/2015/10/07/is-your-agency-winning-its-mobile-moments/) to be happy experiences! You are building software and tools for your customers and they will not be used if they are hard to use, slow or do not work on the user’s small device.
-  2. On April 21, 2015, Google released a new [mobile-friendly ranking algorithm designed to give a boost to mobile-friendly pages](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/) in Google’s mobile search results. If you want to be found in Google, you need a mobile-friendly site.
+  1. You want your [mobile moments](https://www.WHATEVER/2015/10/07/is-your-agency-winning-its-mobile-moments/) to be happy experiences! You are building software and tools for your customers and they will not be used if they are hard to use, slow or do not work on the user’s  small device.
+  2. On April 21, 2015, Google released a new [mobile-friendly ranking algorithm designed to give a boost to mobile-friendly pages](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/) in Google’s  mobile search results. If you want to be found in Google, you need a mobile-friendly site.
 
 ## What Tools Can Help Improve Our Site?
 
@@ -51,7 +51,7 @@ Most of the tools have nice, easy-to-read reports (that in many cases are printa
 
 ## Online Tools That Evaluate Your Website
 
-The following is a list of free, online tools you may want to use to help you evaluate if a site is mobile-friendly. Let’s see what USA.gov looks like in a few of the tools.
+The following is a list of free, online tools you may want to use to help you evaluate if a site is mobile-friendly. Let’s  see what USA.gov looks like in a few of the tools.
 
 ### Google Mobile-Friendly Site
 
@@ -68,7 +68,7 @@ The site appears to be mobile-friendly.
 
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) analyzes the content of a Web page, then generates suggestions to make that page faster
 
-There are some suggestions on how to improve the site’s performance. By clicking on the links, the user is provided with specific suggestions.
+There are some suggestions on how to improve the site’s  performance. By clicking on the links, the user is provided with specific suggestions.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-507-Google-Developers-Page-Speeds-Insights.jpg" alt="Google Developers Page Speeds Insights" %}

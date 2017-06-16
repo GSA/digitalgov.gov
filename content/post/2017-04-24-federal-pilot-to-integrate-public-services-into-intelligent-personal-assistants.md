@@ -3,7 +3,7 @@
 
 date: 2017-04-24 11:00:33 -0400
 title: 'Federal Pilot to Integrate Public Services Into Intelligent Personal Assistants'
-summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.  The U.S. General Services Administration’s(GSA) Emerging'
+summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.  The U.S. General Services Administration’s (GSA) Emerging'
 authors: [jherman]
 categories:
   - Communities
@@ -29,7 +29,7 @@ The demand for more automated, self-service access to United States public servi
 
 {% include image/full-width.html img="https://www.WHATEVER/files/2017/04/600-x-450-A-hand-holding-the-Amazon-Echo-Dot-Alexa.jpg" alt="A hand holding the Amazon Echo Dot (Alexa)." %}
 
-The U.S. General Services Administration’s (GSA) Emerging Citizen Technology program, part of the Technology Transformation Service’s Innovation Portfolio, launched an open-sourced pilot to guide dozens of federal programs to make public service information available to consumer Intelligent Personal Assistants (IPAs) for the home and office, such as Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.
+The U.S. General Services Administration’s  (GSA) Emerging Citizen Technology program, part of the Technology Transformation Service’s  Innovation Portfolio, launched an open-sourced pilot to guide dozens of federal programs to make public service information available to consumer Intelligent Personal Assistants (IPAs) for the home and office, such as Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.
 
 You can now [follow the pilot and contribute from the start on its GitHub Wiki](https://github.com/GSA/AI-Assistant-Pilot/wiki/InterAgency-AI-Personal-Assistant-Rapid-Development-Pilot).
 
@@ -39,6 +39,6 @@ From privacy, security, accessibility, and performance to how citizens can benef
 
 While this first phase of the pilot includes read-only use of public data, agencies and providers are discussing plans to expand it in future phases. Government and the tech industry are collaborating on this pilot to improve its outcomes, however, both have the option to accept or decline the proposed concepts at any point in this pilot.
 
-GSA’s Emerging Citizen Technology program includes the government-wide support of Artificial Intelligence for Citizens, Virtual and Augmented Reality, and SocialGov. Throughout the life of the pilot, findings will be shared, including next steps for the advancement of more automated, self-service access to public service information.
+GSA’s  Emerging Citizen Technology program includes the government-wide support of Artificial Intelligence for Citizens, Virtual and Augmented Reality, and SocialGov. Throughout the life of the pilot, findings will be shared, including next steps for the advancement of more automated, self-service access to public service information.
 
 All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

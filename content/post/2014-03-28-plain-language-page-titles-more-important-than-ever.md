@@ -30,7 +30,7 @@ In addition to the suggestions offered in our [previous article on Achieving Goo
   tag within the 
   
   <head>
-    .<br /> 2. There’s no magic number, but around 55 characters or less is good.<br /> 3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p> 
+    .<br /> 2. There’s  no magic number, but around 55 characters or less is good.<br /> 3. There’s  no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p> 
     
     <p>
       Below are a few articles on optimizing title tags for search engines:

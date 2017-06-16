@@ -2,8 +2,8 @@
 
 
 date: 2014-06-11 10:00:12 -0400
-title: 'The API Briefing\: Quick Guide to Using GitHub &amp;#8211; FDA’sOpenFDA Research Project'
-summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA’sdrug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the FDA&rsquo;s'
+title: 'The API Briefing\: Quick Guide to Using GitHub &amp;#8211; FDA’s OpenFDA Research Project'
+summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the FDA&rsquo;s'
 authors: [bbrantley]
 categories:
   - API
@@ -20,7 +20,7 @@ tag:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" %}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s API documentation is a great example of how to create detailed guidance for developers.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" %}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s  drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s  API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s  API documentation is a great example of how to create detailed guidance for developers.
 
 Like other agencies, the FDA has created a <a href="https://github.com/FDA/openfda" target="_blank">GitHub repository</a> that contains the code and documentation for the API. The advantage of using GitHub for agency APIs, is that it&#8217;s an easy way for developers to copy the code and make improvements that can then be added back to the original code. Being able to use GitHub is essential for developers but it can be intimidating. Here is a two-part tutorial I use in introducing people to GitHub concepts:
 
@@ -38,7 +38,7 @@ You can also check out the community of [government technologists working in Git
 
 <span style="color: #222222">Agency Developers looking to jump-start their efforts can also find source code for native and web projects in the <a title="Federal Mobile Code Sharing Catalog Is Here" href="https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/">Mobile Code Sharing Catalog</a>, which contains code from a variety of sources: federal agencies, other governments, and third-parties in the private sector .</span>
 
-OpenFDA is an exciting project in federal government APIs because of the richness of the data and possibilities it offers for creating amazing applications. The documentation is very well-done both on the OpenFDA website and in GitHub. If you want to develop your skills in using GitHub, OpenFDA’s GitHub repository is an excellent training resource.
+OpenFDA is an exciting project in federal government APIs because of the richness of the data and possibilities it offers for creating amazing applications. The documentation is very well-done both on the OpenFDA website and in GitHub. If you want to develop your skills in using GitHub, OpenFDA’s  GitHub repository is an excellent training resource.
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov)._
 

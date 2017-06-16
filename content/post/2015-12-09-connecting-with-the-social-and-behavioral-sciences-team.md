@@ -38,14 +38,14 @@ Think the SBST team could help you design a better product or program? Any agenc
 
 ## Enhancing the Government Experience
 
-How can CX, UX and social and behavioral sciences collaborate to improve the public’s experience with government? Amira put it like this:
+How can CX, UX and social and behavioral sciences collaborate to improve the public’s  experience with government? Amira put it like this:
 
 **UX** focuses on individuals interacting at a moment with a product or service, such as a person filling out a form. (How easy is it to fill out the form?)
 
-**CX** focuses on the life cycle of a person’s interactions with an organization, and what influences their reactions. (What did people have to go through, start to finish, to fill out the form?)
+**CX** focuses on the life cycle of a person’s  interactions with an organization, and what influences their reactions. (What did people have to go through, start to finish, to fill out the form?)
 
 **Behavioral scientists** focus on how to help people do what needs to be done. (How can we make sure people actually fill out the form?)
 
 Each group asks a different but important question. By combining these disciplines, you can develop a great product.
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government email address [.gov, .mil, etc.] required), [visiting](https://www.WHATEVER/communities/customer-experience-community/) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s  happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) (U.S. government email address [.gov, .mil, etc.] required), [visiting](https://www.WHATEVER/communities/customer-experience-community/) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.

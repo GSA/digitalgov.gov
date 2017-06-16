@@ -41,9 +41,9 @@ The user-initiated messages occur when the user submits a keyword based on a pro
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-535-User-Initiated-1-and-2.jpg" alt="User-initiated messages from SmokeFreeTXT app." %}
 
-**SmokefreeTXT Program’s Success**
+**SmokefreeTXT Program’s  Success**
 
-Currently, more than 100,000 people have signed up and used the program, and the program’s data suggests that it doubles the chance of the user quitting smoking when compared to the user quitting on their own.
+Currently, more than 100,000 people have signed up and used the program, and the program’s  data suggests that it doubles the chance of the user quitting smoking when compared to the user quitting on their own.
 
 When Augustson was asked about what makes the SmokefreeTxt program more successful than a person quitting smoking on their own, he pointed to the fact that the SmokefreeTxt program provides the end user with the behavioral skills and strategies needed to help them through the process of quitting smoking.
 

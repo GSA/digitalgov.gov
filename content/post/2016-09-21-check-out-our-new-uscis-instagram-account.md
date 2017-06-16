@@ -24,7 +24,7 @@ We are fortunate to meet amazing immigrants every day and share in their immigra
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-450-screen-capture-of-USCIS-MeetUS-English-on-Instagram.jpg" alt="Screen capture of USCIS MeetUS English on Instagram." %}
 
-Our  Instagram handle joins our popular Facebook and Twitter accounts. Instagram differs from Facebook and Twitter by being visually focused with photos and minimal captions. Before the launch, our customers had already embraced Instagram, posting more than 10,000 #newUScitizen photos, which have become a major source of photos for our Facebook albums and Twitter collages. These great images capture the emotions of the immigrant experience and add color and warmth to the dialogue about our nation’s immigration system and the important work of our agency.
+Our  Instagram handle joins our popular Facebook and Twitter accounts. Instagram differs from Facebook and Twitter by being visually focused with photos and minimal captions. Before the launch, our customers had already embraced Instagram, posting more than 10,000 #newUScitizen photos, which have become a major source of photos for our Facebook albums and Twitter collages. These great images capture the emotions of the immigrant experience and add color and warmth to the dialogue about our nation’s  immigration system and the important work of our agency.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-USCIS-MeetUS-Instagram.jpg" alt="Six thumbnails of new U.S. citizens from the USCIS Instagram account." %}

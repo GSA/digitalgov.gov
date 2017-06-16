@@ -3,7 +3,7 @@
 
 date: 2015-04-20 1:53:13 -0400
 title: 'The Ex-Im Bank Annual Conference\:  A Valuable Tool in the Government CX Toolbox'
-summary: 'It can be easy to forget that customer experience (CX) improvement efforts within the government sphere aren&rsquo;t limited to surveys, journey maps, analytics, big data, apps, and technology. Watching Export-Import Bank’sAnnual Conference come together, I&rsquo;m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our'
+summary: 'It can be easy to forget that customer experience (CX) improvement efforts within the government sphere aren&rsquo;t limited to surveys, journey maps, analytics, big data, apps, and technology. Watching Export-Import Bank’s Annual Conference come together, I&rsquo;m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our'
 authors: [stephanie-thum]
 categories:
   - Managing Digital
@@ -18,9 +18,9 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-375-Connected-Modern-World-solarseven-iStock-Thinkstock-ThinkstockPhotos-482353395.jpg" alt="Connected Modern World" %} 
 
-It can be easy to forget that [customer experience](https://www.WHATEVER/tag/customer-experience-2/) (CX) improvement efforts within the government sphere aren’t limited to surveys, journey maps, [analytics](https://www.WHATEVER/2014/06/16/government-cx-where-do-you-find-the-right-foundational-metrics/), big data, apps, and technology. Watching Export-Import Bank’s Annual Conference come together, I’m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our unique agency. The [conference](http://www.exim.gov/newsandevents/events/annualconference/2015/) is happening April 23rd-24th at the Omni Shoreham Hotel in Washington, D.C. and will bring together more than 1,200 U.S. exporters, brokers, bankers, buyers from foreign countries, and government officials, including Ex-Im Bank staff, who will work together to discover more ways to expand exports and create American jobs.
+It can be easy to forget that [customer experience](https://www.WHATEVER/tag/customer-experience-2/) (CX) improvement efforts within the government sphere aren’t limited to surveys, journey maps, [analytics](https://www.WHATEVER/2014/06/16/government-cx-where-do-you-find-the-right-foundational-metrics/), big data, apps, and technology. Watching Export-Import Bank’s  Annual Conference come together, I’m reminded of the fundamental role that interpersonal communication plays in improving customer experience, from the front line of our unique agency. The [conference](http://www.exim.gov/newsandevents/events/annualconference/2015/) is happening April 23rd-24th at the Omni Shoreham Hotel in Washington, D.C. and will bring together more than 1,200 U.S. exporters, brokers, bankers, buyers from foreign countries, and government officials, including Ex-Im Bank staff, who will work together to discover more ways to expand exports and create American jobs.
 
-Here’s how the conference shines a light on the fundamental communication aspects of CX.
+Here’s  how the conference shines a light on the fundamental communication aspects of CX.
 
 ## Strengthening Relationships
 

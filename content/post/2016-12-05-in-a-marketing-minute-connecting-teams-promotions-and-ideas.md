@@ -3,7 +3,7 @@
 
 date: 2016-12-05 10:00:57 -0400
 title: 'In a Marketing Minute\: Connecting Teams, Promotions, and Ideas'
-summary: 'Every first week of every month, USAGov’smarketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’show we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act'
+summary: 'Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act'
 authors: [victoria-wales]
 categories:
   - Content
@@ -19,12 +19,12 @@ tag:
   - USAgov
 ---
 
-Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act as a reminder of what’s coming up that month that contributors need to be aware of. It also gives a heads up to our Analytics Team about what promotions could be the causes of increased website visits, email, and social media traffic.
+Every first week of every month, USAGov’s  marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s  how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act as a reminder of what’s  coming up that month that contributors need to be aware of. It also gives a heads up to our Analytics Team about what promotions could be the causes of increased website visits, email, and social media traffic.
 
 
 {% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-210-USAgov-In-a-Marketing-Minute-graphic.jpg" alt="In a Marketing Minute" %}
 
-In addition to sharing upcoming campaigns, we also highlight the top three best performing email and social media messages across our accounts. It’s a great way to showcase the work being done, but also denote what topics and messages are really resonating with our audiences.
+In addition to sharing upcoming campaigns, we also highlight the top three best performing email and social media messages across our accounts. It’s  a great way to showcase the work being done, but also denote what topics and messages are really resonating with our audiences.
 
 Partnerships are at the heart of what we do. Therefore, we also share information about which agencies we’re partnering with and supporting, since much of our mission is centered around supporting other government agencies’ efforts.
 
@@ -37,7 +37,7 @@ Usher in the fall season with a pumpkin spice latte while catching up with us!
 **September promotions and campaigns:**
 
   * Back to school — Weekly newsletters for parents covering topics like health, safety and cyberbullying.
-  * Voting — Though this campaign has been on-going, it’s really heating up in September with the elections drawing near. Be on the lookout for our new bilingual infographic featuring five things you need to know before you go to the polls. We’ll also be sharing user-generated stories on social media answering the question, “[Why do you vote](https://www.facebook.com/USAgov/posts/10154132254533580)?”
+  * Voting — Though this campaign has been on-going, it’s  really heating up in September with the elections drawing near. Be on the lookout for our new bilingual infographic featuring five things you need to know before you go to the polls. We’ll also be sharing user-generated stories on social media answering the question, “[Why do you vote](https://www.facebook.com/USAgov/posts/10154132254533580)?”
   * Hispanic Heritage Month — Will be focused on [voting content](http://gobiernousa.gov/elecciones-electorales?__hstc=11397227.c3d157650b1c720d7bac20289ccaa2b9.1456843024939.1480908970600.1480944946442.74&__hssc=11397227.1.1480944946442&__hsfp=1383855103), and disseminating information on how to register to vote, among other things. We’re working on partnership opportunities with [Voto Latino](http://votolatino.org/)and [NALEO](http://www.naleo.org/). We’re also doing media outreach to promote GobiernoUSA.gov as a resource for the Hispanic community.
   * Dear Abby letter on voting — Thanks to Nancy for writing a beautiful letter to Abby asking her to share resources from our [voting content](http://usa.gov/voting) with her audience. We don’t have a set publication date yet, but we’ll share when we do!
   * Collaboration with DOJ on mail fraud — We’re working with DOJ and many other federal agencies to help educate people on the latest scam happening through the mail. We’ll be sharing messages on email and social media.
@@ -85,7 +85,7 @@ ICYMI — August promotions!
 
   * National Anthem Etiquette quiz taken 8k times in English and 1k in Spanish. Campaign had a total reach of 369k.
   * NPS Centennial. We asked the staff for their favorite parks and published a [feature](http://www.huffingtonpost.com/usagov/usagovs-11-national-parks_b_11664058.html) on the Huffington Post, as well as our site. We also made a [Snapchat story featuring our rubber ducky mascots](https://www.youtube.com/watch?v=RGRANpBiUe8).
-  * We now have more than 1000 followers on [Snapchat](https://www.snapchat.com/add/usagov). It’s one of our most engaged audiences across all social media platforms. In August, USAgov featured Olympics Anthem, NPS’ centennial, USCIS Naturalization Ceremony and a Peace Corps takeover from Nepal.
+  * We now have more than 1000 followers on [Snapchat](https://www.snapchat.com/add/usagov). It’s  one of our most engaged audiences across all social media platforms. In August, USAgov featured Olympics Anthem, NPS’ centennial, USCIS Naturalization Ceremony and a Peace Corps takeover from Nepal.
   * This month, we syndicated features on voting for [college students](https://www.usa.gov/features/usagovs-college-voting-guide)(English only), [back to school](https://www.usa.gov/features/get-ready-for-school-8-tips-for-parents-from-kids-gov), [anthem etiquette](https://www.usa.gov/features/usagovs-tips-for-national-anthem-etiquette) and [Fema App](https://gobierno.usa.gov/novedades/el-app-de-fema-en-espanol-una-respuesta-agil-ante-desastres-naturales) (Spanish only).
 
 To be in the know of what the M team is cranking out in collaboration with many of you, check out the [editorial calendar](https://docs.google.com/spreadsheets/u/1/d/1lSrSUibMhRnMq1d6PonG476DskNzoY7qTMrhK73dWas/edit?usp=drive_web)! Have an idea? Submit it for consideration via [this Google Form](https://docs.google.com/a/gsa.gov/forms/d/1Mmf2fEUDHillNtdDJjwOrniZEm1uyXnX_uLyU7X2zRQ/viewform).

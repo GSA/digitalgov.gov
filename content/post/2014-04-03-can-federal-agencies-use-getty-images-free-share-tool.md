@@ -3,7 +3,7 @@
 
 date: 2014-04-03 10:00:32 -0400
 title: 'Can Federal Agencies Use Getty Images&rsquo; Free Share Tool?'
-summary: 'Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its&rsquo; copyrighted images for free. The news generated headlines and questions about whether it’sokay for government content producers to use the tool. From Getty’sperspective, the answer'
+summary: 'Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its&rsquo; copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool. From Getty’s perspective, the answer'
 authors: [judith-snyderman]
 categories:
   - Social Media
@@ -20,17 +20,17 @@ tag:
 ---
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" %}
-Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
+Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s  okay for government content producers to use the tool.
 
-From Getty’s perspective, the answer is yes. The company’s main restriction is that the images be used for editorial, non-commercial purposes and government content meets this criteria.
+From Getty’s  perspective, the answer is yes. The company’s  main restriction is that the images be used for editorial, non-commercial purposes and government content meets this criteria.
 
 But from our perspective, at the State Department Bureau of International Information Programs, the tool is unsuitable for **official .gov blogs and websites** because Getty reserves the right to include advertising.
 
-Social media managers, on the other hand, may be able to use the free embed tool on **Facebook, Twitter and similar third-party channels**, pending negotiations of a Terms of Service agreement. But even then, they should consider some practical limitations. The low-resolution display is fixed at 594 x 465 pixels and is branded with the photographer credit and Getty Images logo. These cannot be altered. Not all of Getty’s images are available for embedding. A filtered search for [Getty images with the embedded viewer option](http://www.gettyimages.com/Creative/Frontdoor/embed) is available.
+Social media managers, on the other hand, may be able to use the free embed tool on **Facebook, Twitter and similar third-party channels**, pending negotiations of a Terms of Service agreement. But even then, they should consider some practical limitations. The low-resolution display is fixed at 594 x 465 pixels and is branded with the photographer credit and Getty Images logo. These cannot be altered. Not all of Getty’s  images are available for embedding. A filtered search for [Getty images with the embedded viewer option](http://www.gettyimages.com/Creative/Frontdoor/embed) is available.
 
-Considering the large number of image resources with full rights that federal agencies can tap, we recommend our social media managers consider Getty’s embedded viewer as an alternative rather than as a primary image source.
+Considering the large number of image resources with full rights that federal agencies can tap, we recommend our social media managers consider Getty’s  embedded viewer as an alternative rather than as a primary image source.
 
-Getty’s announcement underscores the complex, shifting picture of image acquisitions, rights and usage. The protection of intellectual property rights is a core value that the Department of State stresses in its international engagement.
+Getty’s  announcement underscores the complex, shifting picture of image acquisitions, rights and usage. The protection of intellectual property rights is a core value that the Department of State stresses in its international engagement.
 
 For those new to the discussion, here are some thoughts about image rights to assist the search for dynamic photographs to enhance digital content presented on government digital platforms.
 
@@ -52,7 +52,7 @@ Most images are **copyrighted**, but some are in **public domain**. Generally sp
 One sure way to acquire photos with appropriate rights is to get them from primary, trusted sources.
 
   * Avoid unfiltered Google image searches due to time-consuming research that may be needed to authenticate copyright status and obtain permissions.
-  * Use Google’s image search filter “by usage rights”. If you choose an image “labeled for reuse” still check who did the labeling to confirm the rights status.
+  * Use Google’s  image search filter “by usage rights”. If you choose an image “labeled for reuse” still check who did the labeling to confirm the rights status.
   * Connect to primary image sources through your agency. Federal agencies including the Department of State often maintain license agreements with copyrighted news and stock image libraries. Terms of use vary, but this is a great way to quickly find appropriate images with verified caption/cutline/credit information and usage rules.
   * Tap into online photo collections with public domain photographs such as: 
       * [The National Archives](http://www.archives.gov/research/search/)

@@ -24,7 +24,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  PII is, at times, a clever disguise artist. Although something may not seem like PII on the surface, you need to dig deeper to better understand the nuances.  At GSA’s fourth installment of the “Legal Learning Series,” federal employees learned the different forms that electronic data can take and what their agencies need to do to ensure we can collect important data while still protecting people’s privacy.
+  PII is, at times, a clever disguise artist. Although something may not seem like PII on the surface, you need to dig deeper to better understand the nuances.  At GSA’s  fourth installment of the “Legal Learning Series,” federal employees learned the different forms that electronic data can take and what their agencies need to do to ensure we can collect important data while still protecting people’s  privacy.
 </p>
 
 <p dir="ltr">
@@ -36,7 +36,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The term “PII,” as defined in <a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2007/m07-16.pdf">OMB Memorandum M-07-16</a> refers to information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. Social media and the web happen to be chock full of PII, but it’s not always immediately evident. It’s important to find any PII collected in electronic data, as well as follow the regulations regarding it.
+  The term “PII,” as defined in <a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2007/m07-16.pdf">OMB Memorandum M-07-16</a> refers to information that can be used to distinguish or trace an individual’s  identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual. Social media and the web happen to be chock full of PII, but it’s  not always immediately evident. It’s  important to find any PII collected in electronic data, as well as follow the regulations regarding it.
 </p>
 
 <p dir="ltr">
@@ -55,7 +55,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Good question. <a href="http://www.whitehouse.gov/omb/memoranda_m03-22#b">Section 208 of the E-Government Act</a> requires that a privacy impact assessment (PIA) be conducted when developing or acquiring electronic IT that will “collect, maintain, or disseminate” PII. Of note, OMB requires PIAs <em><strong>before</strong></em> using third-party sites and applications whenever PII will be made available to your agency. A PIA is a documentation of the analysis of privacy risks and steps taken to mitigate them, and must be <a href="http://www.gsa.gov/portal/content/102237">publicly posted</a> after approval by your agency’s CIO or other official designated by the department/agency head.
+  Good question. <a href="http://www.whitehouse.gov/omb/memoranda_m03-22#b">Section 208 of the E-Government Act</a> requires that a privacy impact assessment (PIA) be conducted when developing or acquiring electronic IT that will “collect, maintain, or disseminate” PII. Of note, OMB requires PIAs <em><strong>before</strong></em> using third-party sites and applications whenever PII will be made available to your agency. A PIA is a documentation of the analysis of privacy risks and steps taken to mitigate them, and must be <a href="http://www.gsa.gov/portal/content/102237">publicly posted</a> after approval by your agency’s  CIO or other official designated by the department/agency head.
 </p>
 
 <p dir="ltr">

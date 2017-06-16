@@ -3,7 +3,7 @@
 
 date: 2013-09-06 3:42:06 -0400
 title: 'StudentAid.gov\: Improving the College Financing Experience'
-summary: 'Guest post by&nbsp;Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).&nbsp; Established in late 2010, FSA’sCustomer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.&nbsp; The launch of&nbsp;StudentAid.gov&nbsp;in July 2012, by'
+summary: 'Guest post by&nbsp;Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).&nbsp; Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.&nbsp; The launch of&nbsp;StudentAid.gov&nbsp;in July 2012, by'
 authors: [brenda-wensil]
 categories:
   - Managing Digital
@@ -14,7 +14,7 @@ tag:
 ---
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/student-aid-4-250x166.jpg" alt="student aid 4" %}
-Guest post by_ _Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._ 
+Guest post by_ _Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s  Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._ 
 
 The launch of <a href="http://studentaid.ed.gov/" target="_blank">StudentAid.gov</a> in July 2012, by Federal Student Aid (FSA), part of the U.S. Department of Education, not only consolidated content from 14+ sites into one and retired five Web portals. It also saved taxpayers $1.6 million in the process.
 

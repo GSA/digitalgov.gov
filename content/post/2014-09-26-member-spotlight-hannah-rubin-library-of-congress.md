@@ -21,7 +21,7 @@ tag:
 
 ## What do you love most about your current job/position?
 
-CRS has a unique mission: to provide objective, nonpartisan, confidential, and authoritative research and analysis for Congress throughout the legislative process. As a service unit of the Library of Congress, it’s also part of a world-class institution. Even though I don’t work with Congress directly, I feel privileged to support the CRS mission and come to work at the Library every day. I also love checking out books from the Library—one of my favorite employee benefits!
+CRS has a unique mission: to provide objective, nonpartisan, confidential, and authoritative research and analysis for Congress throughout the legislative process. As a service unit of the Library of Congress, it’s  also part of a world-class institution. Even though I don’t work with Congress directly, I feel privileged to support the CRS mission and come to work at the Library every day. I also love checking out books from the Library—one of my favorite employee benefits!
 
 Regarding the work itself, I love the big-picture perspective that information architecture provides. A lot of my work is very detailed, but those details are part of a coherent whole that improves the user experience. I need to understand the big picture and how the details connect to make it work. My colleagues and I bridge the technical and business sides, and we need to speak both languages and work with people across the organization.
 
@@ -31,11 +31,11 @@ I work on a number of projects related to the CRS website for Congress. Broadly 
 
 ## Please tell us about a recent project that you’re proud of, and why it went so well.
 
-I’m active in [Special Libraries Association (SLA)](http://www.sla.org/ "Special Libraries Association"), an international organization of librarians and information professionals who work in a variety of settings, including government. For the past two years, I’ve been the planning director for the SLA [Government Information Division](http://govinfo.sla.org/ "SLA Government Information Division"). In that role, I help plan our division’s programs for SLA’s annual conference. I previously served as chair of the SLA [Taxonomy Division](http://taxonomy.sla.org/ "SLA Taxonomy Division"), which brings together people with interest and expertise in taxonomies, metadata, and semantic technologies.
+I’m active in [Special Libraries Association (SLA)](http://www.sla.org/ "Special Libraries Association"), an international organization of librarians and information professionals who work in a variety of settings, including government. For the past two years, I’ve been the planning director for the SLA [Government Information Division](http://govinfo.sla.org/ "SLA Government Information Division"). In that role, I help plan our division’s  programs for SLA’s  annual conference. I previously served as chair of the SLA [Taxonomy Division](http://taxonomy.sla.org/ "SLA Taxonomy Division"), which brings together people with interest and expertise in taxonomies, metadata, and semantic technologies.
 
 At the 2014 SLA conference in Vancouver, British Columbia, we offered several programs of interest to the digital government community.
 
-At a session on digital government strategy, panelists discussed the local digital strategy for the City of Vancouver, which was co-chaired by the head of the Vancouver Public Library; the Federal Reserve’s online resources, including the FRED database and FRASER digital library; and eLibraryUSA, a State Department initiative to provide common digital resources for users of embassy information resource centers around the world.
+At a session on digital government strategy, panelists discussed the local digital strategy for the City of Vancouver, which was co-chaired by the head of the Vancouver Public Library; the Federal Reserve’s  online resources, including the FRED database and FRASER digital library; and eLibraryUSA, a State Department initiative to provide common digital resources for users of embassy information resource centers around the world.
 
 A program on “Bringing Parks to the People” introduced social media initiatives at Parks Canada (the Canadian park service), and the Open Parks Network, a project based at Clemson University to digitize materials from U.S. national parks and make them available online.
 
@@ -49,7 +49,7 @@ You can [view the slides from all of these sessions](http://www.slideshare.net/S
 
 For undergrad, I went to Carleton College and majored in comparative religion. It was fascinating to learn about different belief systems and cultures, and the degree involved lots of reading and writing. I also worked as a writing tutor and wrote for the school newspaper, all of which prepared me for editorial jobs after I graduated.
 
-After eight years in journalism and communications, I went back to school for a master’s degree in library science at the University of Maryland, where I focused on knowledge organization. That led me to my current work in information architecture, content management, and analytics.
+After eight years in journalism and communications, I went back to school for a master’s  degree in library science at the University of Maryland, where I focused on knowledge organization. That led me to my current work in information architecture, content management, and analytics.
 
 ## How do you like to spend time away from work?
 

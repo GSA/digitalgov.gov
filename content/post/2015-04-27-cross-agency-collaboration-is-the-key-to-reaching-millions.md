@@ -26,7 +26,7 @@ Many federal agencies create valuable digital content, but distributing that con
 
 For the last two years, the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) (CFPB) has worked with USA.gov and GobiernoUSA.gov to get its content in front of millions of consumers. It has done so by leveraging a well-honed bilingual digital platform that consists of websites, blogs, email lists, social media channels and a content marketing strategy that places content on third-party websites.
 
-The CFPB’s [reverse mortgages post](http://blog.usa.gov/post/105357480782/updated-reverse-mortgage-guide-two-things-you), which was also [published in Spanish](http://blog.gobiernousa.gov/post/105357362384/guia-actualizada-de-hipotecas-inversas-dos-cosas), is an example of that collaboration.
+The CFPB’s  [reverse mortgages post](http://blog.usa.gov/post/105357480782/updated-reverse-mortgage-guide-two-things-you), which was also [published in Spanish](http://blog.gobiernousa.gov/post/105357362384/guia-actualizada-de-hipotecas-inversas-dos-cosas), is an example of that collaboration.
 
 ## Results from a Single Post
 
@@ -34,7 +34,7 @@ CFPB has collaborated with USA.gov/GobiernoUSA.gov to amplify much of its conten
 
   * More than 180 websites republished the article in both languages with a reach of more than 8 million people.
   * It was shared with an audience of close to 200,000 via social media and was widely liked, commented on and re-shared.
-  * More than 20,000 people read the post via the platform’s email distribution lists ([USA.gov](https://public.govdelivery.com/accounts/USAGOV/subscriber/new) and [GobiernoUSA.gov](https://public.govdelivery.com/accounts/GOBIERNOUSA/subscriber/new)).
+  * More than 20,000 people read the post via the platform’s  email distribution lists ([USA.gov](https://public.govdelivery.com/accounts/USAGOV/subscriber/new) and [GobiernoUSA.gov](https://public.govdelivery.com/accounts/GOBIERNOUSA/subscriber/new)).
   * It generated more than 3,000 combined page views on the [USA.gov blog](http://blog.usa.gov/) and [GobiernoUSA.gov blog](http://blog.gobiernousa.gov/).
 
 ## How the Collaboration Works

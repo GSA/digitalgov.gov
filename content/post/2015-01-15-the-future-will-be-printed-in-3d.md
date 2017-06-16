@@ -2,7 +2,7 @@
 
 
 date: 2015-01-15 10:00:42 -0400
-title: 'The Future Will Be Printed &ndash; in 3D'
+title: 'The Future Will Be Printed — in 3D'
 summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology trends'
 authors: [awichman]
 categories:
@@ -48,7 +48,7 @@ The festival will also serve as the official announcement for the 3D Print Excha
 
 There will be a [videocast](http://videocast.nih.gov/) of the festival, and the hashtag for the event is [#ScienceIn3D](https://twitter.com/search?q=%23ScienceIn3D&src=typd).
 
-Later this month, DigitalGov will highlight NASA’s 3D printing program. Be sure to [sign up for the DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) to receive daily or weekly updates.
+Later this month, DigitalGov will highlight NASA’s  3D printing program. Be sure to [sign up for the DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) to receive daily or weekly updates.
 
 _The NIH 3D Print Exchange is led by the [National Institute of Allergy and Infectious Diseases](http://www.niaid.nih.gov/Pages/default.aspx) (NIAID) in collaboration with the [Eunice Kennedy Shriver National Institute for Child Health and Human Development](http://www.nichd.nih.gov/Pages/index.aspx) and the [National Library of Medicine](http://www.nlm.nih.gov/). You can follow the project on Twitter at [@NIH3DPrint](https://twitter.com/NIH3DPrint)._ 
 

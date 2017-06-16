@@ -57,7 +57,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a class="ext extlink" href="https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf">Microsoft-Forrester</a> study stressed, “<strong>Employees are likely to become disabled as they age.</strong> We’ve invested in them; we want to preserve the investment. That’s why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.”
+  <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a class="ext extlink" href="https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf">Microsoft-Forrester</a> study stressed, “<strong>Employees are likely to become disabled as they age.</strong> We’ve invested in them; we want to preserve the investment. That’s  why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.”
 </p>
 
 <p dir="ltr">
@@ -69,7 +69,7 @@ tag:
 </p>
 
 <p class="rtecenter" dir="ltr">
-  <em>“It’s not just doing the right thing, it’s doing the smart thing”</em>
+  <em>“It’s  not just doing the right thing, it’s  doing the smart thing”</em>
 </p>
 
 <p class="rtecenter">
@@ -95,7 +95,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Some organizations mistakenly believe that hiring individuals with disabilities will hinder their company’s workplace environment.
+  Some organizations mistakenly believe that hiring individuals with disabilities will hinder their company’s  workplace environment.
 </p>
 
 <p class="rtecenter" dir="ltr">

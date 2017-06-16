@@ -24,7 +24,7 @@ So you’ve done a couple of usability studies, and a few people are starting to
 
 But what is best way to do this? How can you change your organizational culture so the UCD seed you’re planting will take root and flourish?
 
-That’s the boat we found ourselves in five years ago at the Department of Energy’s (DOE) Office of Energy Efficiency and Renewable Energy. So we embarked on a project to raise awareness of UCD and embed UCD processes into our culture. Of course, as with all experiments, not everything went as planned—but many things did, and we certainly learned a lot in the process. Based on our experience, here are some tips for success when introducing UCD to your organization.
+That’s  the boat we found ourselves in five years ago at the Department of Energy’s  (DOE) Office of Energy Efficiency and Renewable Energy. So we embarked on a project to raise awareness of UCD and embed UCD processes into our culture. Of course, as with all experiments, not everything went as planned—but many things did, and we certainly learned a lot in the process. Based on our experience, here are some tips for success when introducing UCD to your organization.
 
 ## Tip 1: Know your organization
 
@@ -48,7 +48,7 @@ The champion is basically the face of this effort, so look for a champion who:
 
 ## Tip 3: Find the right wake-up call
 
-Once you have a champion on board, it’s time to wake up the rest of the organization to the need for UCD. Wake-up calls can take many forms; the ones you choose will depend on your organization. Effective wake-up calls can include:
+Once you have a champion on board, it’s  time to wake up the rest of the organization to the need for UCD. Wake-up calls can take many forms; the ones you choose will depend on your organization. Effective wake-up calls can include:
 
   * Capitalizing on a new product that launches and bombs.
   * Sharing case studies from other organizations as they go through a UCD process.
@@ -74,7 +74,7 @@ Look for UX consultants who:
 
 If you don’t have the budget to hire a consultant, look for some free resources. For example:
 
-  * Programs like GSA’s [DigitalGov User Experience program](https://www.WHATEVER/resources/digitalgov-user-experience-program/).
+  * Programs like GSA’s  [DigitalGov User Experience program](https://www.WHATEVER/resources/digitalgov-user-experience-program/).
   * Free templates and other resources available on sites like [usability.gov](http://www.usability.gov/).
   * Training and mentoring available through the [User Experience Professionals Association](http://uxpa.org/) (UXPA).
 
@@ -84,7 +84,7 @@ For UCD to really take root and grow, it needs to be embraced by people at all l
 
 ## Tip 6: Raise awareness first—then introduce the rules
 
-Whenever you are introducing a change, some people will resist it—so start by simply raising people’s awareness of the value of UCD. At DOE, we did this by:
+Whenever you are introducing a change, some people will resist it—so start by simply raising people’s  awareness of the value of UCD. At DOE, we did this by:
 
   1. Giving talks on what UCD was and why it was valuable.
   2. Demonstrating UX tools to spark curiosity.
@@ -94,7 +94,7 @@ Once you have some support for UCD, you can introduce governance processes to he
 
 ## Tip 7: Put an infrastructure in place
 
-Once you have people excited about UCD, it’s time to build an infrastructure to ensure lasting success. Some things you’ll want to plan for are:
+Once you have people excited about UCD, it’s  time to build an infrastructure to ensure lasting success. Some things you’ll want to plan for are:
 
   * Ongoing knowledge and skills trainings
   * Rules, standards, and processes
@@ -104,4 +104,4 @@ Once you have people excited about UCD, it’s time to build an infrastructure t
 
 For some additional information on introducing UCD to your organization, here is a presentation I gave at the 2014 DC User Focus conference—[ Igniting User-Centered Design Thinking at the Department of Energy](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/UXPA-DC-2014-Wendy-Littman.pptx).
 
-_**Wendy Littman** is a UX researcher who contracted to DOE’s Office Energy Efficiency and Renewable Energy for 13 years._
+_**Wendy Littman** is a UX researcher who contracted to DOE’s  Office Energy Efficiency and Renewable Energy for 13 years._

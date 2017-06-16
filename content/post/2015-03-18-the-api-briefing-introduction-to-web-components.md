@@ -30,9 +30,9 @@ If you would like to learn more about Web Components, you can start with these r
   * <a href="http://tech.pro/blog/1940/getting-started-with-web-components" target="_blank">A technical introduction to Web Components</a>
   * <a href="https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be" target="_blank">A video presentation of the potential of Web Components (33 minutes)</a>
   * <a href="http://webcomponents.org/" target="_blank">Webcomponents.org</a>
-  * <a href="https://www.polymer-project.org/0.5/" target="_blank">Google’s Polymer</a>
-  * <a href="http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/" target="_blank">How the Angular JavaScript library differs from Google’s Polymer</a>
-  * <a href="http://component.kitchen/tutorial" target="_blank">Component Kitchen’s interactive Web Components tutorial</a>
+  * <a href="https://www.polymer-project.org/0.5/" target="_blank">Google’s  Polymer</a>
+  * <a href="http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/" target="_blank">How the Angular JavaScript library differs from Google’s  Polymer</a>
+  * <a href="http://component.kitchen/tutorial" target="_blank">Component Kitchen’s  interactive Web Components tutorial</a>
   * <a href="http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524" target="_blank">How to create your HTML elements using Web Components</a>
 
 Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?

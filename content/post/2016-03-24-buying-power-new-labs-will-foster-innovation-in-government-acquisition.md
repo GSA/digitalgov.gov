@@ -33,7 +33,7 @@ Agencies should aim to have to their labs (or similar mechanisms) in place by Ma
 
 An Office of Management and Budget (OMB) [memo](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/acquisition-innovation-labs-and-pilot-for-digital-acquisition-innovation-lab-memorandum.pdf) sent to chief acquisition officers, senior procurement executives and chief information officers details the ways these labs can be used to create a more effective government acquisition experience.
 
-Pay close attention to the attachments, which start on Page 7. That’s where you’ll find specific examples of how agencies have applied newfangled techniques in the acquisition process. 
+Pay close attention to the attachments, which start on Page 7. That’s  where you’ll find specific examples of how agencies have applied newfangled techniques in the acquisition process. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Innovation-yuriz-iStock-Thinkstock-477656224.jpg" alt="The word Innovation on a chalkboard, with a stop watch for the letter o." %} 
 
 Some agencies used a method you read a lot about on this blog: They issued a challenge. A prize competition allows agencies to crowdsource solutions to their problems and pay only for results.

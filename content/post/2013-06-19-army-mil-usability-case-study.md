@@ -3,7 +3,7 @@
 
 date: 2013-06-19 12:11:35 -0400
 title: 'Army.mil &amp;#8211; Usability Case Study'
-summary: 'If you want to make a website more efficient and user friendly, then it’snot enough just to have your most valuable information on the site. People are busy&mdash;they want to find what they&rsquo;re looking for, and they want it fast. You don&rsquo;t always need to redesign an entire site to make things easier to'
+summary: 'If you want to make a website more efficient and user friendly, then it’s not enough just to have your most valuable information on the site. People are busy&mdash;they want to find what they&rsquo;re looking for, and they want it fast. You don&rsquo;t always need to redesign an entire site to make things easier to'
 authors: [jonathan-rubin]
 categories:
   - 'User Testing and Research'
@@ -18,12 +18,12 @@ tag:
   - user experience
 ---
 
-If you want to make a website more efficient and user friendly, then it’s not enough just to have your most valuable information on the site. People are busy—they want to find what they’re looking for, and they want it fast. You don’t always need to redesign an entire site to make things easier to find. Sometimes, a few small changes can do the trick.
+If you want to make a website more efficient and user friendly, then it’s  not enough just to have your most valuable information on the site. People are busy—they want to find what they’re looking for, and they want it fast. You don’t always need to redesign an entire site to make things easier to find. Sometimes, a few small changes can do the trick.
 
 <div id="content-area">
   <div id="node-9242">
     <div>
-      The <a title="User Experience Program" href="https://www.WHATEVER/resources/user-experience-program/">DigitalGov User Experience team</a> looked at Army.mil and recommended a few minor changes, which added significantly to the website’s success. After some tests were completed, and data was collected, the First Fridays and Army.mil teams together identified the two most significant usability problems, and some possible solutions to solve them.
+      The <a title="User Experience Program" href="https://www.WHATEVER/resources/user-experience-program/">DigitalGov User Experience team</a> looked at Army.mil and recommended a few minor changes, which added significantly to the website’s  success. After some tests were completed, and data was collected, the First Fridays and Army.mil teams together identified the two most significant usability problems, and some possible solutions to solve them.
     </div>
     
     <h2>

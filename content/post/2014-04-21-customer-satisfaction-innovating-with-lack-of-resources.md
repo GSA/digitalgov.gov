@@ -19,15 +19,15 @@ tag:
 
 As government contact centers, we all face financial and technological constraints in our pursuit to improve the customer experience. One challenge faced by many contact centers is staffing limitations to handle the volume of incoming customer traffic. There are barely enough employees to operate phones, let alone work on meeting or exceeding the organizational customer satisfaction performance goals.
 
-One initiative that was important to the City of Philadelphia’s 311 non-emergency contact center was the successful collection of customer feedback and coaching our employees to improve the customers’ experience with each transaction. The 311 Contact Center serves as the single point of contact for over 1.5 million residents, businesses, and visitors needing City-related non-emergency services and information.
+One initiative that was important to the City of Philadelphia’s  311 non-emergency contact center was the successful collection of customer feedback and coaching our employees to improve the customers’ experience with each transaction. The 311 Contact Center serves as the single point of contact for over 1.5 million residents, businesses, and visitors needing City-related non-emergency services and information.
 
 With so many daily interactions between our customers and agents, how could we improve customer experience if we did not have the means to ask our customers about their experience? With a limited technology and staffing budget, it seemed impossible to implement a customer satisfaction program in our government contact center. We needed to find innovative solutions to effectively collect, and manage, accurate and real-time customer experience responses.
 
 ## A Solution
 
-To create a credible program to measure customer satisfaction, our contact center partnered with a national Fortune 500 company who, pro bono, helped to develop an effective customer satisfaction survey and we partnered with a local non-profit organization for surveying and data entry staffing support. The benefit of these partnerships were two-fold: building a best-in-class program and providing a training environment to enhance clientele’s skills through their experience in a customer contact operations.
+To create a credible program to measure customer satisfaction, our contact center partnered with a national Fortune 500 company who, pro bono, helped to develop an effective customer satisfaction survey and we partnered with a local non-profit organization for surveying and data entry staffing support. The benefit of these partnerships were two-fold: building a best-in-class program and providing a training environment to enhance clientele’s  skills through their experience in a customer contact operations.
 
-For example, in an agreement with the non-profit’s Work Experience programs, we provide opportunities for their clients to gain experience in an office setting. Work Experience employees work in our contact center for up to 20 hours a week for an agreed-upon number of months (based on the program) or until they found employment. Work Experience employees administer customer satisfaction surveys via the telephone.
+For example, in an agreement with the non-profit’s  Work Experience programs, we provide opportunities for their clients to gain experience in an office setting. Work Experience employees work in our contact center for up to 20 hours a week for an agreed-upon number of months (based on the program) or until they found employment. Work Experience employees administer customer satisfaction surveys via the telephone.
 
 ## In Practice
 
@@ -44,9 +44,9 @@ As part of the process, surveyors are able to transfer concerned or dissatisfied
 
 ## Results and Overview
 
-Results of the customer satisfaction surveys are shared with our contact center supervisors for meetings with their teams. The previous day’s average is also displayed on our contact center’s reader boards. Monthly and quarterly customer experience results are shared with Senior Leadership within the organization and posted on the department’s bulletin board.
+Results of the customer satisfaction surveys are shared with our contact center supervisors for meetings with their teams. The previous day’s  average is also displayed on our contact center’s  reader boards. Monthly and quarterly customer experience results are shared with Senior Leadership within the organization and posted on the department’s  bulletin board.
 
-Overall, our ability to gather customer satisfaction data has been instrumental in our growth as our city’s customer service center. The data has improved our technology and business processes, external communication, and service offerings as we continue to strive for customer service excellence. We continue to use Work Experience programs to collect customer satisfaction surveys and we have also expanded our initiative to include social media data mining. Designated agents monitor social media “streams” to see what our customers are saying about us, in addition to their “wants” as they relate to our services.
+Overall, our ability to gather customer satisfaction data has been instrumental in our growth as our city’s  customer service center. The data has improved our technology and business processes, external communication, and service offerings as we continue to strive for customer service excellence. We continue to use Work Experience programs to collect customer satisfaction surveys and we have also expanded our initiative to include social media data mining. Designated agents monitor social media “streams” to see what our customers are saying about us, in addition to their “wants” as they relate to our services.
 
 While we still face budgetary constraints, our contact center continues to innovate and find means to continually improve our customers’ experience.
 

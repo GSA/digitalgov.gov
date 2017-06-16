@@ -44,7 +44,7 @@ Encourage all of your stakeholders—developers, project leaders, members of man
 
 #### 4. Don’t Make It Personal
 
-When presenting results from your testing, avoid giving personal opinions. Always back suggestions for improvement with test data, reference expert publications, and provide examples of how the suggestions you’re making have worked on other sites. Suggest testing prior to development to avoid having developers get too attached to their efforts. Build models and reach a consensus on the project’s end goal first. The use of paper prototyping, card sorting, and informal hallway tests are great ways to obtain useful data before development begins.
+When presenting results from your testing, avoid giving personal opinions. Always back suggestions for improvement with test data, reference expert publications, and provide examples of how the suggestions you’re making have worked on other sites. Suggest testing prior to development to avoid having developers get too attached to their efforts. Build models and reach a consensus on the project’s  end goal first. The use of paper prototyping, card sorting, and informal hallway tests are great ways to obtain useful data before development begins.
 
 #### 5. Spread the Word
 

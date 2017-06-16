@@ -23,7 +23,7 @@ Open and structured content models can help you create content that is platform-
 
 Because, as Ann Mulhay, ex-CEO of Xerox succinctly puts it:
 
-> &#8220;Unstructured content is stupid and old-fashioned. It’s costly, complex and does not generate a competitive advantage.&#8221;
+> &#8220;Unstructured content is stupid and old-fashioned. It’s  costly, complex and does not generate a competitive advantage.&#8221;
 
 ## What is a Content Model?
 
@@ -34,7 +34,7 @@ To better understand content models, think of a pizza as a content model and the
 
 ## What is NOT a content model?
 
-Like a salad is not a pizza, a site map depicting a top-down view of website pages is not a content model. It’s not a navigational scheme for describing how users get from A to B. And it’s not page types outlining how content should be laid out on a page. When working with content models, forget about pages and websites altogether. Model content outside of the confines of its initial context, and set it free for consumption across your tools.
+Like a salad is not a pizza, a site map depicting a top-down view of website pages is not a content model. It’s  not a navigational scheme for describing how users get from A to B. And it’s  not page types outlining how content should be laid out on a page. When working with content models, forget about pages and websites altogether. Model content outside of the confines of its initial context, and set it free for consumption across your tools.
 
 ## The Goal
 
@@ -52,7 +52,7 @@ Content is no longer a single unit written for a single purpose. With content mo
 
 ### **Easy Adoption**
 
-The models are simple, defining a core set of metadata elements; just a few required elements and a few common optional metadata. Many of these elements may already be used by your agency’s CMS. This streamlined approach promotes government-wide adoption and seamless access to a plethora of easily customizable, organized information. A simpler way of sharing what you publish most is at your fingertips—grab it!
+The models are simple, defining a core set of metadata elements; just a few required elements and a few common optional metadata. Many of these elements may already be used by your agency’s  CMS. This streamlined approach promotes government-wide adoption and seamless access to a plethora of easily customizable, organized information. A simpler way of sharing what you publish most is at your fingertips—grab it!
 
 ### **Ready for Syndication** 
 
@@ -76,7 +76,7 @@ seamlessly appears here <http://www.niaid.nih.gov/topics/hookworm/Pages/Default.
 
 ## Seems simple enough—How do I get started?
 
-You have your data and are now ready to start “cooking” with a content model (pizza). The U.S. General Services Administration’s Office of Citizen Services and Innovative Technologies (OCSIT) convened a working group to create [two open and structured content models](https://github.com/GSA/Open-And-Structured-Content-Models/issues) you can use and adapt to make your own. These content models were created to help government agencies easily publish content in multiple forms (slices) and on multiple platforms.
+You have your data and are now ready to start “cooking” with a content model (pizza). The U.S. General Services Administration’s  Office of Citizen Services and Innovative Technologies (OCSIT) convened a working group to create [two open and structured content models](https://github.com/GSA/Open-And-Structured-Content-Models/issues) you can use and adapt to make your own. These content models were created to help government agencies easily publish content in multiple forms (slices) and on multiple platforms.
 
 The [Article](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [Event](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html) models, are geared to provide a template for structuring digital information that makes [Create Once, Publish Everywhere (COPE)](https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/) possible. The Article and Events models are not intended to be exhaustive. They serve as a common starting point. When agencies identify elements not covered by these two content models they can extend them with additional elements.
 

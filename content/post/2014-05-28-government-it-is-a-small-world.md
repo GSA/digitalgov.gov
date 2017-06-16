@@ -3,7 +3,7 @@
 
 date: 2014-05-28 10:20:48 -0400
 title: 'Government IT Is a Small World'
-summary: 'The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA’slong-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT'
+summary: 'The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA’s long-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT'
 authors: [darlene-meskell]
 categories:
   - Governance
@@ -14,7 +14,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-167-Connecting-to-the-World-David-H-Seymour-iStock-Thinkstock-140396287.jpg" alt="A USB cord rests on a clear globe and computer keyboard" %} 
 
-The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA’s long-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT concerns are no longer limited to local systems—they are increasingly international in scope.
+The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA’s  long-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT concerns are no longer limited to local systems—they are increasingly international in scope.
 
 We bring people together to develop solutions to public-sector challenges in informal collaborative networks. The relationships we build are increasingly important to the fast-paced world of electronic government. One of the most important is with Canada and Mexico. Our North American Day meeting of the senior government IT officials of the U.S., Canada and Mexico has led to collaboration on a number of tri-lateral projects. These include:
 

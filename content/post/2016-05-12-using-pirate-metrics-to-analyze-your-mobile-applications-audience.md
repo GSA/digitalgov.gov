@@ -60,7 +60,7 @@ How are people finding your product? Promotions are a good to let people know ab
 
 ## Referral
 
-**Do people tell others about your product?** Does it go viral via word of mouth? You need to find your super users and make it easy for them to tell others about your product. As it turns out some of Cooper’s best promotion efforts aren’t digital—they partnered with frontline health professionals to recommend their apps as part of veterans treatment programs, and so developed a “prescription pad.” The apps were downloaded much more frequently once doctors were able to include a prescription to download a mobile app rather than try to remember and recite the URL to a patient.
+**Do people tell others about your product?** Does it go viral via word of mouth? You need to find your super users and make it easy for them to tell others about your product. As it turns out some of Cooper’s  best promotion efforts aren’t digital—they partnered with frontline health professionals to recommend their apps as part of veterans treatment programs, and so developed a “prescription pad.” The apps were downloaded much more frequently once doctors were able to include a prescription to download a mobile app rather than try to remember and recite the URL to a patient.
 
 So, how do you accomplish all of this on a government budget? Luckily, with many of the analytics tools you can set up dashboards and then forget about it in the sense that they will automatically collect statistics over time. Cooper also mentioned low/no cost usability techniques such as [paper prototyping](https://www.WHATEVER/2014/05/22/how-to-make-a-mobile-paper-prototype/) to gather data.
 

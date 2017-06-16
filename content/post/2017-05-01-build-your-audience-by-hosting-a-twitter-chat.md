@@ -30,7 +30,7 @@ If this is your first Twitter chat, you might want to consider **participating i
 
 ## Lesson #2: Choose a theme.
 
-Next, you’ll want to **determine your chat’s purpose**. It’s important to choose a defined purpose so your participants are all on the same page. In ODPHP’s case, they have hosted a Twitter chat in honor of [Health Literacy Month](http://www.healthliteracymonth.org/) {% include image/full-width.html img="https://blog.aids.gov/wp-content/themes/aidsgov2012/images/external.png" alt="Exit Disclaimer" %}
+Next, you’ll want to **determine your chat’s  purpose**. It’s  important to choose a defined purpose so your participants are all on the same page. In ODPHP’s  case, they have hosted a Twitter chat in honor of [Health Literacy Month](http://www.healthliteracymonth.org/) {% include image/full-width.html img="https://blog.aids.gov/wp-content/themes/aidsgov2012/images/external.png" alt="Exit Disclaimer" %}
 , and the purpose of the chat is to discuss health literacy.
 
 ## Lesson #3: Pick your hashtag.
@@ -48,9 +48,9 @@ Next, you’ll want to make sure you create a hashtag so your audience can follo
 
 You’ll want to choose a hashtag that isn’t currently being used by another organization or individual. This will help ensure that your Twitter chat isn’t lost in another conversation.
 
-## Lesson #4: Keep Twitter’s character limit in mind as you create your hashtag.
+## Lesson #4: Keep Twitter’s  character limit in mind as you create your hashtag.
 
-Remember, everyone has to answer your questions and prompts within 140 characters—that’s tough! You don’t want the hashtag to eat up too many characters. Find a unique hashtag, but try to keep the character count within 10-20 characters.
+Remember, everyone has to answer your questions and prompts within 140 characters—that’s  tough! You don’t want the hashtag to eat up too many characters. Find a unique hashtag, but try to keep the character count within 10-20 characters.
 
 ## Lesson #5. Plan your questions in advance.
 
@@ -62,7 +62,7 @@ If you have the bandwidth, it helps to have a few additional team members to hel
 
 ## Lesson #7: Listen.
 
-During the chat, **remember to listen to your audience** and respond to their answers and comments – it’s a Twitter chat, not a Twitter blast! Follow along with your own hashtag and respond to the tweets that follow.
+During the chat, **remember to listen to your audience** and respond to their answers and comments – it’s  a Twitter chat, not a Twitter blast! Follow along with your own hashtag and respond to the tweets that follow.
 
 On that note, try to **pace your questions and prompts** throughout the chat. Ask questions and give prompts one at a time, and allow your audience to respond before you share the next question. This helps to ensure your chat feels more like a conversation, and less like a one-way lecture.
 

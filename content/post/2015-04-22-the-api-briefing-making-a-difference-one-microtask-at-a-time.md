@@ -3,7 +3,7 @@
 
 date: 2015-04-22 10:00:44 -0400
 title: 'The API Briefing\: Making a Difference One Microtask at a Time'
-summary: 'I recently found an app that provides a great service through crowdsourcing. Be My Eyes connects visually-impaired people with volunteers. Using the smartphone’scamera, the volunteers can perform tasks such as reading an expiration date or helping someone&nbsp;navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how'
+summary: 'I recently found an app that provides a great service through crowdsourcing. Be My Eyes connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone&nbsp;navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how'
 authors: [bbrantley]
 categories:
   - API
@@ -29,7 +29,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.
+I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s  camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.
 
 Crowdsourcing is the use of an online platform to have a large number of people complete small tasks (“microtasks”) to accomplish a larger project. President Obama encouraged the use of crowdsourcing and citizen science in his <a href="https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf" target="_blank">Second Open Government National Action Plan</a> [PDF]. This is to “<a href="https://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">harness the ingenuity of the public by accelerating and scaling the use of open innovation methods . . . [t]o help address a wide range of scientific and societal problems.</a>” The <a href="http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-citizen-science" target="_blank">Federal Community of Practice for Crowdsourcing and Citizen Science </a>is currently developing an Open Innovation Toolkit to support federal crowdsourcing efforts.
 

@@ -33,10 +33,10 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 2. Agencies will focus on digital business strategies to improve the overall customer experience.
 
 <p style="padding-left: 30px;">
-  Digital channels are rapidly gaining ground as the public’s preferred channel for interacting with government. Agencies will adopt the guidance put forth in the <a href="https://playbook.cio.gov/">U.S. Digital Services Playbook</a> to help them build effective digital services.
+  Digital channels are rapidly gaining ground as the public’s  preferred channel for interacting with government. Agencies will adopt the guidance put forth in the <a href="https://playbook.cio.gov/">U.S. Digital Services Playbook</a> to help them build effective digital services.
 </p>
 
-## 3. The Administration’s focus on customer service will drive agencies to launch meaningful customer-focused initiatives.
+## 3. The Administration’s  focus on customer service will drive agencies to launch meaningful customer-focused initiatives.
 
 <p style="padding-left: 30px;">
   The establishment of a Customer Service Cross-Agency Priority (CAP) goal gives agencies additional incentive and support to streamline services, set performance benchmarks, and improve the government customer experience.
@@ -45,7 +45,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 4. Mobile will accelerate as a way to deliver service anytime, anywhere, on any device.
 
 <p style="padding-left: 30px;">
-  People increasingly expect to access government information and services from phones, tablets, or other devices, when and where it’s most convenient for them. Agencies will move to responsively-designed websites, and develop more mobile apps to meet this need.
+  People increasingly expect to access government information and services from phones, tablets, or other devices, when and where it’s  most convenient for them. Agencies will move to responsively-designed websites, and develop more mobile apps to meet this need.
 </p>
 
 
@@ -97,7 +97,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 12. Personas and journey mapping will help agencies identify and address customer trouble spots in their workflows.
 
 <p style="padding-left: 30px;">
-  Personas will help agencies bring their customers to life, and illustrate how government programs and processes impact real people. Journey maps will help agencies walk in their customer’s shoes, to identify where business processes break down, and need to be fixed.
+  Personas will help agencies bring their customers to life, and illustrate how government programs and processes impact real people. Journey maps will help agencies walk in their customer’s  shoes, to identify where business processes break down, and need to be fixed.
 </p>
 
 ## 13. Enterprise solutions will help agencies make better connections with customers.

@@ -3,7 +3,7 @@
 
 date: 2016-12-02 12:00:54 -0400
 title: 'The Future of Technology at GSA'
-summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that.  TECHNOLOGY IS NOT&nbsp;PARTISAN &ldquo;If it’simportant, it’simportant for all administrations,&rdquo; said GSA Technology Transformation Service'
+summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that.  TECHNOLOGY IS NOT&nbsp;PARTISAN &ldquo;If it’s important, it’s important for all administrations,&rdquo; said GSA Technology Transformation Service'
 authors: [gsa-blog-team]
 categories:
   - Managing Digital
@@ -27,7 +27,7 @@ The potential to transform government and impact the lives of Americans is treme
 
 ### TECHNOLOGY IS NOT PARTISAN
 
-> “If it’s important, it’s important for all administrations,” said GSA Technology Transformation Service Commissioner Rob Cook.
+> “If it’s  important, it’s  important for all administrations,” said GSA Technology Transformation Service Commissioner Rob Cook.
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">
@@ -114,11 +114,11 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 >   <div class="s-link s-element-content">
 >     <p>
 >       
-{% include image/full-width.html img="https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s Presidency" %}<a class="s-link-a emojify" href="https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s Presidency</a>
+{% include image/full-width.html img="https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s  Presidency" %}<a class="s-link-a emojify" href="https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s  Presidency</a>
 >     </p>
 >     
 >     <div class="s-link-desc emojify">
->       <font size="-1">Obama’s work to build a talent pipeline from Silicon Valley to Washington will be tested under a new president whose campaign promises contradict many technologists’ values.</font>
+>       <font size="-1">Obama’s  work to build a talent pipeline from Silicon Valley to Washington will be tested under a new president whose campaign promises contradict many technologists’ values.</font>
 >     </div>
 >     
 >     <div class="s-attribution">
@@ -145,7 +145,7 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 
 
 
-> “Our job is making the government serve the American people better quality services and more efficiently. It’s an important job for us to do,” said Cook.
+> “Our job is making the government serve the American people better quality services and more efficiently. It’s  an important job for us to do,” said Cook.
 
 ### PARTNERING WITH INDUSTRY
 
@@ -246,6 +246,6 @@ We are driven by the mission of giving the government the tools to more effectiv
 
 **_The American people aren’t going anywhere and neither is the need for better technology._**
 
-_Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729)._
+_Learn more about GSA’s  Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729)._
 
-_This post was originally published on GSA’s [Storify](https://storify.com/GSA) and [blog](http://www.gsa.gov/blog)._
+_This post was originally published on GSA’s  [Storify](https://storify.com/GSA) and [blog](http://www.gsa.gov/blog)._

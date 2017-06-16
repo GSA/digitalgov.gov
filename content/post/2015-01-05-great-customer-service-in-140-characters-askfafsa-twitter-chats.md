@@ -24,7 +24,7 @@ During the live Twitter chat, students, parents and the general public can submi
 
 The event is organized by the Federal Student Aid Digital Engagement Team, and questions are answered by FAFSA subject-matter experts (SMEs). A transcript of every session is available the following day via the [Storify](https://storify.com/FAFSA) platform, for those who are unable to attend or who don’t use Twitter. #AskFAFSA sessions have been held since January 2012.
 
-Each month’s chat focuses on a specific theme, in order to drum up interest and target specific populations. However, participants are welcome to ask any question about financial aid, regardless of the month’s theme. During [December&#8217;s chat](https://storify.com/FAFSA/december-2014), the team answered 45 unique questions.
+Each month’s  chat focuses on a specific theme, in order to drum up interest and target specific populations. However, participants are welcome to ask any question about financial aid, regardless of the month’s  theme. During [December&#8217;s chat](https://storify.com/FAFSA/december-2014), the team answered 45 unique questions.
 
 In [November](https://storify.com/FAFSA/november-2014), SMEs from the Department of Veteran Affairs Benefits Administration participated in an #AskFAFSA session to respond to the most pressing questions from veterans. In [March 2013](https://storify.com/FAFSA/march-2013-askfafsa-office-hours), a bilingual chat was hosted in Spanish and English with support from New Futuro, an education company that supports Latino students.
 
@@ -45,7 +45,7 @@ The Digital Engagement Team organizes chats by assigning each person a role. The
 
 Vuong said that having two Federal Student Aid SMEs at each event has proven useful for ensuring high-quality chats.
 
-“One of our SMEs is a policy expert and the other is from the communications team. Having someone who is an expert at agency lingo and the personality of your agency is very important,” Vuong said. “You want to represent your agency well. Review your style guide and be consistent in how you answer people with social media. That’s one reason why we have so many people: We want to make sure we answer correctly, consistently, and in a friendly manner.”
+“One of our SMEs is a policy expert and the other is from the communications team. Having someone who is an expert at agency lingo and the personality of your agency is very important,” Vuong said. “You want to represent your agency well. Review your style guide and be consistent in how you answer people with social media. That’s  one reason why we have so many people: We want to make sure we answer correctly, consistently, and in a friendly manner.”
 
 Including outside SME guests also helps to increase the visibility and utility of the sessions. Vuong pointed to a session from [October 2013](https://storify.com/FAFSA/october-2013-askfafsa), which included two loan servicers that manage government student loans. Although the loan companies have their own Twitter handles, Vuong said the Federal Student Aid team wanted the public to know that they can ask questions from the companies and from Federal Student Aid.
 

@@ -3,7 +3,7 @@
 
 date: 2014-04-21 10:00:24 -0400
 title: 'GSA Acquisition Portal &amp;#8211; Usability Case Study'
-summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’smuch better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'
+summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s much better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'
 authors: [tlowden]
 categories:
   - Design
@@ -18,14 +18,14 @@ tag:
 ---
 
 <p dir="ltr">
-  Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s much better to have completed them before the public sees it.
+  Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it’s  much better to have completed them before the public sees it.
 </p>
 
-For Christina Mullins, a Contracting Officer at the Public Building Service in the General Services Administration (GSA)’s Region 3 based in Philadelphia, usability testing was a new frontier, and one that quickly proved valuable.
+For Christina Mullins, a Contracting Officer at the Public Building Service in the General Services Administration (GSA)’s  Region 3 based in Philadelphia, usability testing was a new frontier, and one that quickly proved valuable.
 
 “For me, it revealed a lot of information that I would never have even thought of,” she said. “As a member of the team so involved in the content, we thought ‘of course you would put this here’, but as you talk with people who were independent, you see people think differently.”
 
-Mullins recently led a project to create an internal agency website called the “GSA Acquisition Portal,” designed to be a “one-stop shop” resource site for GSA’s acquisition workforce, and was asked by a colleague to investigate usability testing.
+Mullins recently led a project to create an internal agency website called the “GSA Acquisition Portal,” designed to be a “one-stop shop” resource site for GSA’s  acquisition workforce, and was asked by a colleague to investigate usability testing.
 
 She connected with Jonathan Rubin, Program Manager for the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/), and with a little guidance, was able to design a simple but effective test based on completing 12 tasks the project team felt people would want to accomplish with the site.
 
@@ -65,7 +65,7 @@ Some of the feedback included expanding the Quick Links section to a wider set o
 </p>
 
 <p dir="ltr">
-  For those looking to perform usability testing on their agency projects, Mullins said it’s important to “get buy-in” from others on the team and in management. From there, she offers the following advice:
+  For those looking to perform usability testing on their agency projects, Mullins said it’s  important to “get buy-in” from others on the team and in management. From there, she offers the following advice:
 </p>
 
 <p dir="ltr">

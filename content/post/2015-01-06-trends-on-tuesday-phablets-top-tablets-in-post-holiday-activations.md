@@ -23,6 +23,6 @@ Back in October, the International Data Corporation (IDC) predicted that [“pha
 
 The trend to larger screen sizes should be noted by developers as people are [spending more time watching video on mobile devices](https://www.WHATEVER/2014/12/02/trends-on-tuesday-americas-new-first-screen/).
 
-What’s an agency to do with the influx of screen sizes? A [mobile first strategy](https://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata) will go a long way towards connecting agencies with smartphone and phablet users. Check out our content from [DigitalGov Mobile Gov month](https://www.WHATEVER/2014/10/20/welcome-to-mobilegov-month-on-digitalgov/) and join the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/) so your agency can be on top of all screens sizes—especially phablets!
+What’s  an agency to do with the influx of screen sizes? A [mobile first strategy](https://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata) will go a long way towards connecting agencies with smartphone and phablet users. Check out our content from [DigitalGov Mobile Gov month](https://www.WHATEVER/2014/10/20/welcome-to-mobilegov-month-on-digitalgov/) and join the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/) so your agency can be on top of all screens sizes—especially phablets!
 
 &nbsp;

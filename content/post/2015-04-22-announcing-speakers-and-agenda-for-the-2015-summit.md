@@ -27,7 +27,7 @@ The Summit, which will be taking place on **Thursday, May 21, 2015** from 9 am-1
 
 ## **You Can Still Sign Up for An Expo Table**
 
-There is still time to sign up your program for an [Expo table](https://summit.WHATEVER/exhibitors/). Showcase your digital innovation alongside the **National Archives and Records Administration’s Citizen Archivist Tool**, **Sites.USA.gov**, the **Federal Emergency Management Agency’s Disaster Management Mobile app**, **ePolicy Works** and many others. [Enter your submission to showcase today.](http://www.surveymonkey.com/s/digitalgov-expo)
+There is still time to sign up your program for an [Expo table](https://summit.WHATEVER/exhibitors/). Showcase your digital innovation alongside the **National Archives and Records Administration’s  Citizen Archivist Tool**, **Sites.USA.gov**, the **Federal Emergency Management Agency’s  Disaster Management Mobile app**, **ePolicy Works** and many others. [Enter your submission to showcase today.](http://www.surveymonkey.com/s/digitalgov-expo)
 
 ## **Attend Virtually**
 

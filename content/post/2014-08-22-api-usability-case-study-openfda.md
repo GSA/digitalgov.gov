@@ -24,7 +24,7 @@ The API Usability Program brings together developers from agency APIs and the pr
 
 ### 1. Include Interactive Documentation
 
-While many API documentation pages only include static links or screenshots of sample queries, the openFDA documentation includes an interactive tool, which allows users to search for data and see results in real time. Dubbed the “API Explorer,” it lets users test out the API within a console, and helps to clarify the different components of a query. It’s a safe space for potential users to play with the possibilities of what openFDA data has to offer.
+While many API documentation pages only include static links or screenshots of sample queries, the openFDA documentation includes an interactive tool, which allows users to search for data and see results in real time. Dubbed the “API Explorer,” it lets users test out the API within a console, and helps to clarify the different components of a query. It’s  a safe space for potential users to play with the possibilities of what openFDA data has to offer.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/API-Explorer-with-title.gif" alt="API Explorer with title" %}

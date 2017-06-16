@@ -2,7 +2,7 @@
 
 
 date: 2014-08-13 11:46:28 -0400
-title: 'The API Briefing\: Writable APIs &ndash; The Federal Register.gov Commenting Feature'
+title: 'The API Briefing\: Writable APIs — The Federal Register.gov Commenting Feature'
 summary: 'FederalRegister.gov just released a writable API that allows citizens to comment directly on proposed regulations. When a user is viewing a regulation on FederalRegister.gov, he or she can click on the &ldquo;Submit a Formal Comment&rdquo; button. A textbox appears, and the comment is recorded for that particular regulation.'
 authors: [bbrantley]
 categories:
@@ -21,7 +21,7 @@ tag:
 
 Up till now, all the APIs that have been written about in _The API Briefing_ were read-only APIs. That means that information is only one way: from the API to the user or app. These APIs do allow limited interactivity in that the database behind the API can be searched, but the existing data cannot be edited, or new data added to the database.
 
-There are some federal government APIs that are writable. Users or apps can use writable APIs to add information or edit information in the API’s database. Writable APIs can be very useful in collecting information from citizens and crowdsourcing public projects, such as reporting potholes or aiding in disaster relief efforts.
+There are some federal government APIs that are writable. Users or apps can use writable APIs to add information or edit information in the API’s  database. Writable APIs can be very useful in collecting information from citizens and crowdsourcing public projects, such as reporting potholes or aiding in disaster relief efforts.
 
 The [Environmental Protection Agency&#8217;s eRulemaking Program Management Office](http://www.fdms.gov/fdms-web-agency/component/loginInfo?page=about) created a writable API that allows citizens to <a href="https://www.federalregister.gov/blog/2014/07/new-submit-a-formal-comment-feature" target="_blank">comment directly on proposed regulations</a>. The Office of Federal Register&#8217;s FederalRegister.gov is the first of eRule&#8217;s partners to utilize the API for implementation. When a user is viewing a regulation on <a href="https://www.federalregister.gov" target="_blank">FederalRegister.gov</a>, he or she can click on the “Submit a Formal Comment” button. A textbox appears, and the comment is recorded for that particular regulation.
 

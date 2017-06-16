@@ -62,9 +62,9 @@ If you want to join the fun, take a look at [NARA&#8217;s Terms of Service Agree
 And don’t forget to check us out regularly; there are more GIFs to come! 
 {% include image/full-width.html img="https://media3.giphy.com/media/l3vR2SwA3hfH4NtVC/giphy.gif" %} 
 
-If creating animated GIFs are up your creative alley, check out the <a href="https://dp.la/info/gif-it-up/" target="_blank">Digital Public Library of America’s (DPLA) annual GIF IT UP challenge</a>! Submissions will be accepted starting October 1.
+If creating animated GIFs are up your creative alley, check out the <a href="https://dp.la/info/gif-it-up/" target="_blank">Digital Public Library of America’s  (DPLA) annual GIF IT UP challenge</a>! Submissions will be accepted starting October 1.
 
-Want to learn more about making GIFs? <a href="https://dp.la/info/get-involved/workshops/" target="_blank">Join us for a GIF-making workshop</a>, hosted by Darren Cole of the <a href="http://todaysdocument.tumblr.com/" target="_blank">National Archives’ Today’s Document</a>, and Richard Naples of the <a href="http://smithsonianlibraries.tumblr.com/" target="_blank">Smithsonian Libraries</a>. Sponsored by the Digital Public Library of America, the workshop is Wednesday, September 28 at 3pm.
+Want to learn more about making GIFs? <a href="https://dp.la/info/get-involved/workshops/" target="_blank">Join us for a GIF-making workshop</a>, hosted by Darren Cole of the <a href="http://todaysdocument.tumblr.com/" target="_blank">National Archives’ Today’s  Document</a>, and Richard Naples of the <a href="http://smithsonianlibraries.tumblr.com/" target="_blank">Smithsonian Libraries</a>. Sponsored by the Digital Public Library of America, the workshop is Wednesday, September 28 at 3pm.
 
 Cheers! 
 {% include image/full-width.html img="https://media2.giphy.com/media/3o6ZtfLJXFkJEROJSU/giphy.gif" alt="Animated gif of a man drinking wine." %}

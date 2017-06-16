@@ -2,7 +2,7 @@
 
 date: 2016-09-12 10:00:18 -0400
 title: 'The Content Corner: Using Social Media to Promote, Enhance Preparedness for the Public We Serve'
-summary: "September is National Preparedness Month. FEMA&amp;#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America’sPrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30."
+summary: "September is National Preparedness Month. FEMA&amp;#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America’s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30."
 authors: [kyle-s-richardson]
 categories:
   - Content
@@ -27,7 +27,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-_September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._
+_September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s  PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-340-EQanimation\_8\_Plan\_091114\_medium.jpg" alt="America's PrepareAthon! Plan graphic" %}
@@ -64,7 +64,7 @@ As the #ReyFire wildfires continue to affect parts of Southern California, the C
 
 
 
-Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public.
+Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s  use of live video like Periscope to share exactly what&#8217;s going on with the public.
 
 [youtube=http://www.youtube.com/watch?v=Q1zgLgA6dPI&w=600]
 
@@ -79,7 +79,7 @@ Throughout September, more than 3,000 organizations—national, regional, and lo
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-439-Ten-ways-to-participate-NatlPrep\_22\_medium.jpg" %}
 
-[This week’s theme on Ready.gov is to Honor 9/11](https://www.ready.gov/september) ([Patriot Day](https://en.wikipedia.org/wiki/Patriot_Day)) by getting involved in your community & planning with neighbors. Local agencies such as the City of Miami Government are using [private social networks such as Nextdoor](https://www.facebook.com/CityOfMiamiGov/videos/1050149401720256/), a neighborhood watch platform custom-built for each neighborhood that participates.
+[This week’s  theme on Ready.gov is to Honor 9/11](https://www.ready.gov/september) ([Patriot Day](https://en.wikipedia.org/wiki/Patriot_Day)) by getting involved in your community & planning with neighbors. Local agencies such as the City of Miami Government are using [private social networks such as Nextdoor](https://www.facebook.com/CityOfMiamiGov/videos/1050149401720256/), a neighborhood watch platform custom-built for each neighborhood that participates.
 
 Public safety agencies continue to work to better connect with the public they serve. For example, [check out this viral story](http://abc3340.com/news/local/mississippi-firefighter-plays-happy-feet-song-to-comfort-young-crash-victim) of a Mississippi firefighter who plays the movie “Happy Feet” on his phone to try and calm a terrified child who was in a violent car crash.
 

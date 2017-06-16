@@ -3,7 +3,7 @@
 
 date: 2012-08-01 9:00:44 -0400
 title: 'Accessibility Editorial Guidelines for YouTube'
-summary: ' Introduction USA.gov and GobiernoUSA.gov use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on USA.gov YouTube and GobiernoUSA.gov’sYouTube channels. We are always looking for opportunities to feature and leverage important government'
+summary: ' Introduction USA.gov and GobiernoUSA.gov use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on USA.gov YouTube and GobiernoUSA.gov’s YouTube channels. We are always looking for opportunities to feature and leverage important government'
 authors: [lgodfrey]
 categories:
   - Accessibility
@@ -23,7 +23,7 @@ tag:
 
 ## Introduction
 
-[USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.gobiernousa.gov/) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on [USA.gov YouTube](https://www.youtube.com/user/USGovernment) and [GobiernoUSA.gov’s YouTube](https://www.youtube.com/user/GobiernoUSA) channels.
+[USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.gobiernousa.gov/) use social media to make government information easy for people to find, access, and use. Among the essential tools we use are videos, which we host on [USA.gov YouTube](https://www.youtube.com/user/USGovernment) and [GobiernoUSA.gov’s  YouTube](https://www.youtube.com/user/GobiernoUSA) channels.
 
 We are always looking for opportunities to feature and leverage important government information, by posting videos from various government agencies. We welcome and invite all government agencies to collaborate with us on providing useful and relevant information to the public. We also depend on agencies to help attract a large and diverse audience.
 
@@ -56,7 +56,7 @@ The videos we post:
 
 To provide helpful content with a neutral tone:
 
-  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s needs (see [USA.gov’s channel](https://www.youtube.com/usagov) and [GobiernoUSA.gov’s channel](https://www.youtube.com/user/GobiernoUSA)).
+  * Messaging must contain public service information and should relate to our audience. The categories listed under our YouTube channels’ playlists adhere to our websites taxonomy which is organized according to our audience’s  needs (see [USA.gov’s  channel](https://www.youtube.com/usagov) and [GobiernoUSA.gov’s  channel](https://www.youtube.com/user/GobiernoUSA)).
   * Videos should aim for powerful messages that run no longer than 10 minutes
   * Avoid politically-charged intonations, self-or agency-promoting language (e.g., discussing the agency over delivering a public service message).
 
@@ -83,6 +83,6 @@ Video producers should follow the requirements from the U.S. Access Board (inclu
 
 ## **Other Resources**
 
-  * DigitalGov.gov’s [comprehensive guide on video](https://www.WHATEVER/2013/11/21/create-section-508-compliant-videos-on-your-government-websites/)
+  * DigitalGov.gov’s  [comprehensive guide on video](https://www.WHATEVER/2013/11/21/create-section-508-compliant-videos-on-your-government-websites/)
   * [Guide on Accessible Digital Media](http://ncam.wgbh.org/invent_build/web_multimedia/accessible-digital-media-guide/guideline-h-multimedia) from the National Center for Accessible Media (NCAM)
-  * The U.S. Access Board’s [Guide to the Standards](http://www.access-board.gov/sec508/guide/index.htm) (see Software Applications and Operating Systems, Web-based intranet and Internet Information and Applications, and Video and Multimedia Products) and [Section 508 Functional Performance Criteria](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards#subpart_c).
+  * The U.S. Access Board’s  [Guide to the Standards](http://www.access-board.gov/sec508/guide/index.htm) (see Software Applications and Operating Systems, Web-based intranet and Internet Information and Applications, and Video and Multimedia Products) and [Section 508 Functional Performance Criteria](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards#subpart_c).

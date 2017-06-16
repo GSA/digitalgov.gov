@@ -23,7 +23,7 @@ Part of this effort was to reorganize the information most requested by users to
 
 ## Why We Did It
 
-Our goal for the new responsive Medicare.gov was to take advantage of the planned redesign to incorporate responsive design elements to ensure the site would be device agnostic. The idea was to anticipate the influx of increased mobile traffic based on the growing mobile adoption rates in the country and align to the Obama Administration’s Digital Government Strategy.
+Our goal for the new responsive Medicare.gov was to take advantage of the planned redesign to incorporate responsive design elements to ensure the site would be device agnostic. The idea was to anticipate the influx of increased mobile traffic based on the growing mobile adoption rates in the country and align to the Obama Administration’s  Digital Government Strategy.
 
 Rather than build native apps for specific devices, responsive design was determined to be the optimal solution. It allowed us to build a single HTML5/CSS3 page template framework that would simplify overall maintenance as well as improve the end user experience.
 
@@ -43,11 +43,11 @@ Fluid grids are a big component of responsive design but a number of our existin
 
 ## How It Worked
 
-The redesigned site will improve consumer’s access to the information they want about Medicare. The redesigned site and web content management system allow the content managers to easily add, remove or update content without having to worry about coding or testing.
+The redesigned site will improve consumer’s  access to the information they want about Medicare. The redesigned site and web content management system allow the content managers to easily add, remove or update content without having to worry about coding or testing.
 
 ## What We Learned
 
-Mobile first isn’t the only way to design a site, it’s possible to take the full version and scale down, removing components that may be redundant or cumbersome on smaller displays while maintaining full functionality. While this resulted in more iterations of design mock-ups, it allowed us to take the most common tasks that people wanted on the full homepage and scale them down to be convenient and accessible on all devices.
+Mobile first isn’t the only way to design a site, it’s  possible to take the full version and scale down, removing components that may be redundant or cumbersome on smaller displays while maintaining full functionality. While this resulted in more iterations of design mock-ups, it allowed us to take the most common tasks that people wanted on the full homepage and scale them down to be convenient and accessible on all devices.
 
 Sites can be designed to be responsive while maintaining Section 508 compliance if tested and developed with those factors in mind.
 

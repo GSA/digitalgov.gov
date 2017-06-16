@@ -18,11 +18,11 @@ Craig Jennings, Senior Advisor at the Federal CIO Council, was instrumental in t
 
 The database is dynamic and allows you to search through policies and requirements based on the type of policy document and whether or not the particular policy or requirement would require reporting or any other actions from federal agencies.
 
-The database can be found on the [CIO Council’s resources page](https://www.cio.gov/resources/it-policy-library/).
+The database can be found on the [CIO Council’s  resources page](https://www.cio.gov/resources/it-policy-library/).
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-436-IT-Policy-Library-Screenshot.jpg" alt="A screenshot of C I O dot gov's I T Policy Library." %}
 
-The database also provides a place for you to submit and leave feedback concerning the resource and suggest additions to the library’s content.
+The database also provides a place for you to submit and leave feedback concerning the resource and suggest additions to the library’s  content.
 
 &nbsp;

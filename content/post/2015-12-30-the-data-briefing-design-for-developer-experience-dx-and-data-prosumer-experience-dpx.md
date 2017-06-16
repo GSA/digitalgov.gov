@@ -25,7 +25,7 @@ Along with UX, there are two new types of experiences that organizations are enc
 
 Developer experience (DX) focuses on the developers who use <a href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">APIs (Application Programming Interfaces)</a> to build mobile apps and other online products and services. Like UX, DX is built around the concept of “empathy” or deeply understanding the needs and expectations of the developers. However, developers’ expectations of APIs are different from the average user who may never directly work with an API. To create a good DX, API designers need to do the following:
 
-  * Create [documentation for the API](https://www.WHATEVER/2013/03/12/api-design-and-documentation/), which is thorough and complete. API designers need to approach the task of documenting an API as if they were encountering the API for the first time and without prior knowledge of the API’s architecture, functions, and data.
+  * Create [documentation for the API](https://www.WHATEVER/2013/03/12/api-design-and-documentation/), which is thorough and complete. API designers need to approach the task of documenting an API as if they were encountering the API for the first time and without prior knowledge of the API’s  architecture, functions, and data.
   * Use good programming practices to create robust and understandable endpoints (how to request data from the API).
   * Create understandable and informative status codes, error codes, and data structures.
   * Respect the developers&#8217; time and resources by providing code samples (in as many of the more popular languages as you can), easy-to-use authentication methods, and multiple ways to contact someone for help.
@@ -36,4 +36,4 @@ At the heart of UX, DX, and DPX is the experience that is built on empathy. Fede
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

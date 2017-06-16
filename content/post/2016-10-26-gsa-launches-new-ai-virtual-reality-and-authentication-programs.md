@@ -53,7 +53,7 @@ Federal agencies across government use platforms and mobile apps to manage their
 
 Now, for the first time, anyone can browse and export data by agency, language, platform, or tag on 10,000 (and growing) official U.S. federal government accounts and mobile apps in one dashboard through [the new U.S. Digital Registry portal](https://usdigitalregistry.WHATEVER/).
 
-The successful [creation of the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.49khit1g0) and it’s use by hundreds of individual federal managers for thousands of accounts relied on the collaborative power of our Digital Communities, which allowed for easy access for individual members no matter where they serve.
+The successful [creation of the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.49khit1g0) and it’s  use by hundreds of individual federal managers for thousands of accounts relied on the collaborative power of our Digital Communities, which allowed for easy access for individual members no matter where they serve.
 
 ## So what are Digital Communities?
 
@@ -63,7 +63,7 @@ With nearly 10,000 federal memberships across more than a dozen mission fields a
 
 While designed for U.S. federal managers, we strive to transparently share and collaborate with all who are interested in these services, working together to discover opportunities, identify needs, and develop solutions that elevate programs across public services.
 
-## What’s Next
+## What’s  Next
 
 If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage](https://www.WHATEVER/communities/) and learn more.
 

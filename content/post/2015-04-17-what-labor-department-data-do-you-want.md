@@ -25,9 +25,9 @@ Four years ago, we released our Labor Department-wide [API](https://www.WHATEVER
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-475-DOL-portal.jpg" alt="Department of Labor's Developer Portal website showing some Health and Safety datasets" %}
 
-Data has the power to help American businesses compete, succeed and hire more people. It can even spawn an entire industry. A great example is how the [National Weather Service’s data](http://www.commerce.gov/news/blog/2014/10/deputy-secretary-andrews-emphasizes-how-national-weather-service-employees-work) is used by major retailers and the airline industry, among others, to make critical decisions on a daily basis.
+Data has the power to help American businesses compete, succeed and hire more people. It can even spawn an entire industry. A great example is how the [National Weather Service’s  data](http://www.commerce.gov/news/blog/2014/10/deputy-secretary-andrews-emphasizes-how-national-weather-service-employees-work) is used by major retailers and the airline industry, among others, to make critical decisions on a daily basis.
 
-If you have an idea for an app that would help you and the public access certain types of information, but don’t see a dataset that you’re looking for, let us know. We are currently working on more data to release, and need to know what is important to you. Even if you aren’t a developer, you can help us prioritize what we publish. Comment below, or even better yet, create an “issue” on [our API’s GitHub site](https://github.com/USDepartmentofLabor/DOLAPI/issues) where we will track all of your requests.
+If you have an idea for an app that would help you and the public access certain types of information, but don’t see a dataset that you’re looking for, let us know. We are currently working on more data to release, and need to know what is important to you. Even if you aren’t a developer, you can help us prioritize what we publish. Comment below, or even better yet, create an “issue” on [our API’s  GitHub site](https://github.com/USDepartmentofLabor/DOLAPI/issues) where we will track all of your requests.
 
 Thanks for taking the time to tell us what you think!
 

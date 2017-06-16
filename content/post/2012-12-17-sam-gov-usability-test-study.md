@@ -18,7 +18,7 @@ tag:
 
 One of the most vital parts of any website is its starting point. When a visitor arrives on the main page of your site, they should be able to quickly tell what the main tasks are and how to perform them. Visual cues and plain language are the best ways to accomplish this.
 
-The SAM.gov site was created to consolidate several acquisition and bidding systems in one central location. It&#8217;s a large site, and with so many potential tasks available, it’s important that visitors are able to quickly figure out where they need to go. The DigitalGov User Experience Program  worked with SAM.gov to find ways to make their site more usable for their multiple audiences. After watching several testers use the site, problems were identified and solutions suggested. Several of the problems dealt specifically with the homepage and its various starting points.
+The SAM.gov site was created to consolidate several acquisition and bidding systems in one central location. It&#8217;s a large site, and with so many potential tasks available, it’s  important that visitors are able to quickly figure out where they need to go. The DigitalGov User Experience Program  worked with SAM.gov to find ways to make their site more usable for their multiple audiences. After watching several testers use the site, problems were identified and solutions suggested. Several of the problems dealt specifically with the homepage and its various starting points.
 
 ## Problem 1: Main Navigation Links Too Vague
 

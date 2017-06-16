@@ -19,7 +19,7 @@ tag:
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/social-media-on-mobile-first-infographic.png" alt="Infographic showing how users are accessing social media on mobile. Details are discussed within this post. " %}
 More users are now accessing social media via mobile than on desktops.  People are checking email or using social networks during their commute, in line at the grocery store, or waiting at the doctor&#8217;s office.
 
-[MarketingResearch.org](http://www.marketingresearch.org/alert-magazine-third-quarter-2013-social-media-and-mobile-–-the-elephants-in-market-research’s-room) recently covered the topic and [UnifiedSocial](http://www.unifiedsocial.com/mobile-social-marketing/) created the infographic in the post (click it to get full version) around trends in social and mobile.
+[MarketingResearch.org](http://www.marketingresearch.org/alert-magazine-third-quarter-2013-social-media-and-mobile-–-the-elephants-in-market-research’s -room) recently covered the topic and [UnifiedSocial](http://www.unifiedsocial.com/mobile-social-marketing/) created the infographic in the post (click it to get full version) around trends in social and mobile.
 
 Here are some key stats:
 

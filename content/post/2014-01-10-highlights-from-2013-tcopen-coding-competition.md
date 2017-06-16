@@ -18,7 +18,7 @@ Our team and a few other agencies had the chance to attend the 2013 TopCoder Ope
 
 This is the <a title="topcoder open highlight video" href="https://www.youtube.com/watch?v=Q_YmQGMuovs" target="_blank">#TCO13 highlight video</a>.
 
-Watch a few minutes and you’ll see the excitement of the competitors and why we at challenge.gov do what we do to encourage federal agencies to use competitions to engage the public in solving government’s technical, scientific and operational problems.
+Watch a few minutes and you’ll see the excitement of the competitors and why we at challenge.gov do what we do to encourage federal agencies to use competitions to engage the public in solving government’s  technical, scientific and operational problems.
 
 There is nothing that compares to meeting the real people who do this work. Especially those who have the interest and skills to lend to public service through challenge competitions.
 

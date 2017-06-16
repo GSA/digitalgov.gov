@@ -24,7 +24,7 @@ tag:
 The night air is cool and crisp, the autumn leaves are falling, your costume is ready, jack-o-lanterns carved, lights dimmed, candy in the basket—what else do you need to make &#8220;All Hallows’ Eve trick or treat&#8221; complete? Some eerie music, a spine tingling, blood curdling horror movie? No, no—those are for yesteryears!
 
 <p style="text-align: left">
-  This Halloween, let’s make the skeletons in the Smithsonian National Museum of Natural History come alive. Let’s try and capture that vampire bat skeleton that pulls itself off the mount to run away, or watch the horror of an extinct Steller&#8217;s sea cow materialize in the flesh.
+  This Halloween, let’s  make the skeletons in the Smithsonian National Museum of Natural History come alive. Let’s  try and capture that vampire bat skeleton that pulls itself off the mount to run away, or watch the horror of an extinct Steller&#8217;s sea cow materialize in the flesh.
 </p>
 
 The Skin & Bones mobile app from the Smithsonian Institution allows you to view, in 3D, exhibits from three centuries ago with the latest 21<sup>st</sup> century augmented reality technology.
@@ -44,7 +44,7 @@ The app features:
   * Two games and two interactive activities that offer amusing ways to pick up a few animal skills
   * 32 videos that take you around the world—from the Congo to the Arctic and the Amazon—with scientists and the most interesting animals.
 
-This app is a must-have for anyone visiting the Smithsonian’s National Museum of Natural History.
+This app is a must-have for anyone visiting the Smithsonian’s  National Museum of Natural History.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Smithsonian-Skin-and-Bones-app-Coomon-Vampire-Bat-Skeleton-screen.jpg" %}

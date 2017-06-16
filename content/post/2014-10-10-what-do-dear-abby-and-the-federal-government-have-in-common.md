@@ -17,11 +17,11 @@ tag:
 
 So it only makes sense for us to partner up to answer some of those questions.
 
-Since the 1970’s, USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.) into the hands of the people who need them most.
+Since the 1970’s , USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.) into the hands of the people who need them most.
 
 While much of the work at USA.gov is focused on delivering government information in a digital way, we know some of our audience doesn’t have access to the Internet or just prefers to consume their information in hard copy.
 
-Since it’s our mission to deliver information in the manner and format people prefer, we partner with Dear Abby to reach this important segment of our audience.
+Since it’s  our mission to deliver information in the manner and format people prefer, we partner with Dear Abby to reach this important segment of our audience.
 
 We send Abby a letter asking a question, and she provides an answer directing people to order relevant government information.
 
@@ -29,7 +29,7 @@ So how exactly do we measure our performance with print outreach efforts?
 
 ## The Metrics
 
-As you can imagine there are many metrics to look at. In our promotions, and with Dear Abby especially, there is not just quantitative data (orders, downloads, calls, page views) but qualitative data too (letters from Abby’s readers and feedback received from call center agents from Abby readers).
+As you can imagine there are many metrics to look at. In our promotions, and with Dear Abby especially, there is not just quantitative data (orders, downloads, calls, page views) but qualitative data too (letters from Abby’s  readers and feedback received from call center agents from Abby readers).
 
 So keeping that in mind here are a few examples of the metrics we collected and how we will use them to improve our promotions and outreach efforts in the future and enhance the customer experience:
 

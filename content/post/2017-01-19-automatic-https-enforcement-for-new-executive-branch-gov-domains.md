@@ -22,7 +22,7 @@ tag:
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks. 
 {% include image/full-width.html img="https://www.WHATEVER/files/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" %} 
 
-In June 2015, the White House required all new federal web services to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines), and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS monitoring dashboard](https://pulse.cio.gov/) and [thorough policy guidance and technical assistance](https://https.cio.gov/).
+In June 2015, the White House required all new federal web services to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines), and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s  Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS monitoring dashboard](https://pulse.cio.gov/) and [thorough policy guidance and technical assistance](https://https.cio.gov/).
 
 Federal agencies have made very significant progress towards that goal, to the point that [federal use of HTTPS now outpaces the private sector](https://18f.gsa.gov/2017/01/04/tracking-the-us-governments-progress-on-moving-https/).
 
@@ -41,7 +41,7 @@ GSA plans to introduce this HTTPS preloading change in the spring of 2017. DotGo
 
 For questions about this new GSA policy, agencies can [email the team at CIO.gov](mailto:https@cio.gov).
 
-For more information on preloading, please read [18F’s blog post on the first preloaded .gov domains](https://18f.gsa.gov/2015/02/09/the-first-gov-domains-hardcoded-into-your-browser-as-all-https/), and [GSA’s HTTPS policy support article](https://https.cio.gov/hsts/#hsts-preloading) on the topic.
+For more information on preloading, please read [18F’s  blog post on the first preloaded .gov domains](https://18f.gsa.gov/2015/02/09/the-first-gov-domains-hardcoded-into-your-browser-as-all-https/), and [GSA’s  HTTPS policy support article](https://https.cio.gov/hsts/#hsts-preloading) on the topic.
 
 Some important notes:
 
@@ -55,7 +55,7 @@ For more information and technical guidance on HTTPS and HSTS, GSA has provided 
   * [HTTP Strict Transport Security](https://https.cio.gov/hsts/): What HSTS does, and how to use it.
   * [Certificates](https://https.cio.gov/certificates/): Best practices and recommendations around the use of inexpensive or free certificates.
 
-Additionally, GSA’s DigitalGov University and 18F teams have partnered to produce three detailed video presentations on HTTPS:
+Additionally, GSA’s  DigitalGov University and 18F teams have partnered to produce three detailed video presentations on HTTPS:
 
   * [An Introduction to HTTPS](https://www.youtube.com/watch?v=d2GmcPYWm5k) (basic, a general introduction for anyone)
   * [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M) (advanced, more technical detail)

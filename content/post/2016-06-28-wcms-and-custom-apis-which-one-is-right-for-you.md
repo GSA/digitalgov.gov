@@ -53,8 +53,8 @@ On the other hand, custom APIs are any RESTful APIs that you can bring in and us
 
 There are several schools of thought on the differences between the two options. You and many others in the Federal government may not have resources to hire developers to create a Custom API. In this instance, an out of the box solution (plug-in) might do the trick for what you need. Implementing this approach enables development teams to focus on building the specific products instead of putting the time into setting up servers and services configuration, which is time-consuming, and complex.
 
-Custom APIs allow a bit of flexibility.  Custom API’s look “beyond the page” and present a new paradigm with infinite possibility.  They provide high flexibility at “site” or agency level but can lead to high complexity across agencies.  Finally, they lend themselves to developer communities and education.
+Custom APIs allow a bit of flexibility.  Custom API’s  look “beyond the page” and present a new paradigm with infinite possibility.  They provide high flexibility at “site” or agency level but can lead to high complexity across agencies.  Finally, they lend themselves to developer communities and education.
 
 Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward.
 
-_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles](https://www.WHATEVER/category/code/api/) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._
+_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s  [API articles](https://www.WHATEVER/category/code/api/) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._

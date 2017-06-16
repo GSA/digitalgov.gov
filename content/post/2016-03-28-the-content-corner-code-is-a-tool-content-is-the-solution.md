@@ -20,7 +20,7 @@ tag:
 It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) previously discussed. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." %} 
 
-In instances where the user’s need is primarily a content-based solution (an answer to a question, for example) technology is of minor importance. Plain text could work. And in many instances, design with a focus on how the content is displayed is still more important than the underlying code.
+In instances where the user’s  need is primarily a content-based solution (an answer to a question, for example) technology is of minor importance. Plain text could work. And in many instances, design with a focus on how the content is displayed is still more important than the underlying code.
 
 ## Coding is Still Important
 
@@ -29,13 +29,13 @@ I want to make clear that coding and technology are of course extremely importan
   * The ability to [apply for Social Security online](https://www.ssa.gov/), and
   * The improvements made to the [FAFSA form](https://studentaid.ed.gov/sa/fafsa).
 
-I remember the analog FAFSA process, and the improvements made to that alone deserve a commemorative monument. But aside from the digitized form, a [content strategy](https://www.WHATEVER/2015/03/23/the-content-corner-building-a-content-strategy/) and a focus on the user’s needs also help reduce questions and improve the financial aid process.
+I remember the analog FAFSA process, and the improvements made to that alone deserve a commemorative monument. But aside from the digitized form, a [content strategy](https://www.WHATEVER/2015/03/23/the-content-corner-building-a-content-strategy/) and a focus on the user’s  needs also help reduce questions and improve the financial aid process.
 
-And all the efforts to share code and leverage that efficiency via [Github](https://www.WHATEVER/event/github-for-beginners/), for example, are a great step forward for the federal government, but even a significant focus on content relates to APIs and syndication. Again it’s heavy on code, but without efficient, helpful content, no one is going to want to share or consume it.
+And all the efforts to share code and leverage that efficiency via [Github](https://www.WHATEVER/event/github-for-beginners/), for example, are a great step forward for the federal government, but even a significant focus on content relates to APIs and syndication. Again it’s  heavy on code, but without efficient, helpful content, no one is going to want to share or consume it.
 
 ## Content is More Important
 
-We have to remember that code is a tool that we use to deliver content. It is easy to get caught up in the cool and flashy new languages or platforms, just as it is easy to think an elaborate content management system (CMS) can solve all your problems. But that [CMS is not a content strategy nor is it a guarantee of good content](http://alistapart.com/article/strategic-content-management). It can help you improve your content’s accessibility and shareability, but the content still has to be clearly written, clearly focused, and strategy-driven.
+We have to remember that code is a tool that we use to deliver content. It is easy to get caught up in the cool and flashy new languages or platforms, just as it is easy to think an elaborate content management system (CMS) can solve all your problems. But that [CMS is not a content strategy nor is it a guarantee of good content](http://alistapart.com/article/strategic-content-management). It can help you improve your content’s  accessibility and shareability, but the content still has to be clearly written, clearly focused, and strategy-driven.
 
 I’m very happy that organizations such as [Code for America](http://www.codeforamerica.org/) and our own [18F](https://18f.gsa.gov/) have made great strides towards making coding “cool”. The future of delivering the best services possible to our citizens rests heavily on a tech-savvy government, and code places a huge role in that. But maybe I am feeling left out or I’ve missed the equal focus on making &#8220;creating good content&#8221; just as cool and important. Perhaps we’ve fallen into a common trap and content is taken for granted or we assume it is just writing words and not the [messy, complicated task that it really is](http://alistapart.com/article/thedisciplineofcontentstrategy).
 

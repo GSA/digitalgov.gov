@@ -26,13 +26,13 @@ Many people mistakenly view style guides as a rarely used tome to help settle he
 
 A good style guide can also answer questions about how to present a content type such as a graphic or table before they even can occur. This helps save the content contributor time and also reduces the time needed during the content review process, if one exists. I have always sought out the warm embrace of a content style guide when posting content for a new site or in a new publishing environment. To me, it serves as an insurance policy that the content I&#8217;m creating is as correct as possible the first time.
 
-A style guide is also an important vehicle for establishing the [voice and tone](https://www.WHATEVER/2015/04/20/the-content-corner-finding-your-voice/) of your agency or office. One example from [Gather Content’s blog](https://blog.gathercontent.com/) shows how Apple would define their voice via a style guide:
+A style guide is also an important vehicle for establishing the [voice and tone](https://www.WHATEVER/2015/04/20/the-content-corner-finding-your-voice/) of your agency or office. One example from [Gather Content’s  blog](https://blog.gathercontent.com/) shows how Apple would define their voice via a style guide:
 
   * Calm, but not passive
   * Confident, but not arrogant
   * Innovative, but not flash
 
-If you need a good starting point for getting a better grip on your agency’s personality, take a look at Big Brand System’s 10 minute [personality exercise](http://bbsmedia.s3.amazonaws.com/Brand_Personality.pdf).
+If you need a good starting point for getting a better grip on your agency’s  personality, take a look at Big Brand System’s  10 minute [personality exercise](http://bbsmedia.s3.amazonaws.com/Brand_Personality.pdf).
 
 Most importantly, a content style guide serves as a reference tool for your [content strategy](https://www.WHATEVER/2015/03/23/the-content-corner-building-a-content-strategy/) and helps ensure that your strategy is a part of every piece of content created. This should also serve to help keep your content efficient and user-focused while also asking whether the piece of content needs to be created in the first place.
 
@@ -58,7 +58,7 @@ It is also important to point out that not only should your style guide be allow
 
 ## So Simple a Child Could Use It
 
-Many organizations that have developed style guides still suffer problems of consistency and “rogue” content contributors, and they struggle to get their editors to make use of the guide. One of the main ways to be sure your style guide is used is to **make it usable**. A simple, straightforward guide for creating content will normally be embraced by others the same way I mentioned that I embrace them. It makes a content contributor’s job easier by reducing questions and reducing time needed to revise or correct mistakes once content is reviewed as part of the publishing workflow.
+Many organizations that have developed style guides still suffer problems of consistency and “rogue” content contributors, and they struggle to get their editors to make use of the guide. One of the main ways to be sure your style guide is used is to **make it usable**. A simple, straightforward guide for creating content will normally be embraced by others the same way I mentioned that I embrace them. It makes a content contributor’s  job easier by reducing questions and reducing time needed to revise or correct mistakes once content is reviewed as part of the publishing workflow.
 
 It can also be helpful (and it always makes sense to me) to include a group of content editors or contributors into the style guide creation process. Are there questions that always come up? Do several of your editors have their own “unofficial” style guides that they created for themselves? This also helps create a guide that has a basis in the everyday reality and workflow of the people that you will expect to use it on a regular basis. Style guide by royal edict is normally not a good way to engender broad acceptance or use.
 

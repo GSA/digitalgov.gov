@@ -34,7 +34,7 @@ As highlighted in this [Trends on Tuesday](https://www.WHATEVER/2014/06/10/trend
 We found that agencies are using social media in 3 general ways.
 
   * Uploading and posting directly to a personal social media account, like the ability to upload federal job openings a user finds using [USAJOBS](https://help.usajobs.gov/index.php/Mobile_Apps),
-  * Inviting to “like” or “follow” agencies on their social media pages, like the [U.S. Forest Service’s Smokey Bear app](http://www.smokeybear.com/), and
+  * Inviting to “like” or “follow” agencies on their social media pages, like the [U.S. Forest Service’s  Smokey Bear app](http://www.smokeybear.com/), and
   * Crowdsourcing via social media and interacting with other users with similar interests and concerns. Three particularly unique examples of the crowdsource approach include: [SaferCar](http://www.safercar.gov/), [Save Our Citrus](https://itunes.apple.com/us/app/save-our-citrus/id511305050?mt=8), and [Dolphin and Whale 911](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/).
 
 [SaferCar](http://www.safercar.gov/) is an application by the National Highway Transportation Safety Administration which allows users to upload and share information pertaining to vehicle safety. Users are able to access other reviews and share reviews of their own while the agency has access to copious amounts of user feedback and experiences.
@@ -46,6 +46,6 @@ With [Save Our Citrus](https://itunes.apple.com/us/app/save-our-citrus/id5113050
 
 What does this mean for federal agencies? The time to move forward with mobile strategies that involve users with social media has arrived, and the [Mobile Gov](https://www.WHATEVER/communities/mobile/ "Mobile") and [Social Media](https://www.WHATEVER/communities/social-media/ "Social Media") Communities of Practice are here to help!
 
-_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
+_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s  Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
 
 _This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

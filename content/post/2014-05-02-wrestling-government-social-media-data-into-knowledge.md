@@ -33,7 +33,7 @@ She defines the three terms as follows:
 
 In other words, data and information are useless without context. We&#8217;ve already proven that it&#8217;s possible to take the best data and information from our community and transform it into usable knowledge. The SocialGov Community, for example, is busy perfecting toolkits in priority areas which soon will be released on Github:
 
-  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**](https://www.WHATEVER/resources/federal-social-media-accessibility-toolkit-hackpad/).
+  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s  Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**](https://www.WHATEVER/resources/federal-social-media-accessibility-toolkit-hackpad/).
 
   * According to **Justin Herman of GSA**, “Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.” We developed the first [**Federal Social Media Performance Analysis toolkit**](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/) so we can do just that.
 
@@ -45,6 +45,6 @@ We are over 600 strong with representation from all across government—and grow
 
 Working together, we can pull out the most valuable pieces of data and information and transform it into concrete knowledge that can be shared and used.
 
-Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!
+Let’s  continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!
 
 _Alison Lemon is a Knowledge Manager for the [SocialGov Community](https://www.WHATEVER/communities/social-media/) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

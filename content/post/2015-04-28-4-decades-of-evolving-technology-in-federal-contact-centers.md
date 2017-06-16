@@ -44,7 +44,7 @@ Over the years, Snaider has learned many lessons and offers advice to other peop
 
   * There **can always be another question**, so learn to listen.
   * **Be neutral** in the language that you use. Innocent phrases like “you’re kidding” are going to be misinterpreted.
-  * **Don’t say: “here’s what it is.”** Use instead: “this is what the office I talked to told me.”
+  * **Don’t say: “here’s  what it is.”** Use instead: “this is what the office I talked to told me.”
   * There is **no guidance on the length of a call**. Contact center supervisors don’t care if the length is relatively high because they want the agent to be able to say, “no, I&#8217;ve never heard this before, tell me again what you’re saying.”
   * The more **active listening** you practice, the less likely it is that you’ll make a mistake.
   * Tell the caller that “we are going to **work together**” to find the answer, making it a collaborative, active effort on both sides.

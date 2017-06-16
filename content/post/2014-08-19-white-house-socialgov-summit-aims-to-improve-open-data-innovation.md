@@ -35,7 +35,7 @@ The format of the event shadowed the roles of social media in government itself:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/490-x-530-SocialGov-Open-Data-White-House-EEOB-Summit-Listening-to-Innovative-Communities-panel-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit Listening to Innovative Communities panel, Aug 7th 2014" %}Representatives from The Case Foundation, WeWork, General Assembly, ThinkUp and Fosterly opened the session with a discussion on the unique needs of their communities, and how government managers can listen better to design public/private partnerships that encourage sustainable innovation.
 
-“Shouting into the Internet is not engagement, there’s work you have to do and that begins with listening,” noted keynote speaker Dan Morgan, chief data officer for the Department of Transportation.
+“Shouting into the Internet is not engagement, there’s  work you have to do and that begins with listening,” noted keynote speaker Dan Morgan, chief data officer for the Department of Transportation.
 
 Participants then explored the tools and resources currently available to our communities, with discussions led by representatives from Reddit, Hootsuite, Facebook and <a href="https://18f.gsa.gov/" target="_blank">the new 18F program</a>.
 
@@ -45,4 +45,4 @@ Also, we shared what initiatives have the potential to help shape our programs m
 
 The event concluded with collaborative brainstorming on how to best integrate together the digital engagement and open data communities for improved performance of our programs.
 
-For more information on GSA’s SocialGov program and how you can be part of the effort to improve open data programs with public participation and digital engagement, please contact me via [email](mailto:justin.herman@gsa.gov).
+For more information on GSA’s  SocialGov program and how you can be part of the effort to improve open data programs with public participation and digital engagement, please contact me via [email](mailto:justin.herman@gsa.gov).

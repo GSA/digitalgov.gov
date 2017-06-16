@@ -29,11 +29,11 @@ But the way we consume and interact with content online has drastically changed 
 
 Now if someone has an opinion or a comment about your content, they tweet it or comment on your Facebook page.
 
-Think about it. When was the last time you left a valuable comment on a blog that moved forward a discussion? It’s probably been a while.
+Think about it. When was the last time you left a valuable comment on a blog that moved forward a discussion? It’s  probably been a while.
 
-But let’s assume you posted a comment recently and maybe even a few people reacted and commented back. That’s great, but the discussion is trapped on that one blogger’s platform and limited to a very small audience.
+But let’s  assume you posted a comment recently and maybe even a few people reacted and commented back. That’s  great, but the discussion is trapped on that one blogger’s  platform and limited to a very small audience.
 
-Now think about how you share content on social media and can instantly spur discussion and debate with a much wider and broader audience. That conversation can keep going after you’ve left it. It’s not tied to one specific website that may have a few dedicated readers. It’s open to the world (or at least the social world).
+Now think about how you share content on social media and can instantly spur discussion and debate with a much wider and broader audience. That conversation can keep going after you’ve left it. It’s  not tied to one specific website that may have a few dedicated readers. It’s  open to the world (or at least the social world).
 
 As a result of this major change in how we communicate and interact with content, we noticed a disturbing trend in the USA.gov blog comments over the last year.
 

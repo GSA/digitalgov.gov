@@ -2,7 +2,7 @@
 
 
 date: 2016-07-20 10:00:54 -0400
-title: 'The Data Briefing\: &amp;#8220;PreparedGo&amp;#8221; &ndash; The Federal Emergency Management Agency Mobile App'
+title: 'The Data Briefing\: &amp;#8220;PreparedGo&amp;#8221; — The Federal Emergency Management Agency Mobile App'
 summary: 'While you are outside hunting Pokemon or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The Federal Emergency Management Agency (FEMA) mobile app alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA'
 authors: [bbrantley]
 categories:
@@ -37,4 +37,4 @@ _(The mention of Pokemon, Firechat, Jott, or the Serval Project is only used for
 
 _Each week, [The Data Briefing](http://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

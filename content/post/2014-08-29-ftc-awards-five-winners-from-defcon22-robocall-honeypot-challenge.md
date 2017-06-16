@@ -29,11 +29,11 @@ Five winners earned cash prizes and bragging rights for their creative technical
 </p>
 
 <p style="color: #323232">
-  <strong>The Creator Phase:</strong> <strong>Jon Olawski</strong> will receive $3,133.70 for his winning honeypot. Phase 1 challenged contestants to build a honeypot that identifies inaccurate information in incoming calls, such as spoofed caller IDs, or determines which calls are likely robocalls. Jon’s honeypot uses a combination of an audio captcha filter, call detail analysis, and recording and transcription analysis to determine, on a sliding scale, the likelihood that an incoming call was a robocall.
+  <strong>The Creator Phase:</strong> <strong>Jon Olawski</strong> will receive $3,133.70 for his winning honeypot. Phase 1 challenged contestants to build a honeypot that identifies inaccurate information in incoming calls, such as spoofed caller IDs, or determines which calls are likely robocalls. Jon’s  honeypot uses a combination of an audio captcha filter, call detail analysis, and recording and transcription analysis to determine, on a sliding scale, the likelihood that an incoming call was a robocall.
 </p>
 
 <p style="color: #323232">
-  <strong>The Attacker Phase:</strong> <strong>Jan Volzke</strong> will receive $3,133.70 for his winning solution, Droid Rachel. Phase 2 challenged contestants to circumvent an existing honeypot and prevent it from collecting information on incoming calls. Droid Rachel circumvents the existing honeypot by employing a four-step targeting process that screens out phone numbers potentially connected to a honeypot, and optimizes Droid Rachel’s ability to send robocalls using unsuspecting consumers’ Android phones.
+  <strong>The Attacker Phase:</strong> <strong>Jan Volzke</strong> will receive $3,133.70 for his winning solution, Droid Rachel. Phase 2 challenged contestants to circumvent an existing honeypot and prevent it from collecting information on incoming calls. Droid Rachel circumvents the existing honeypot by employing a four-step targeting process that screens out phone numbers potentially connected to a honeypot, and optimizes Droid Rachel’s  ability to send robocalls using unsuspecting consumers’ Android phones.
 </p>
 
 <p style="color: #323232">
@@ -41,7 +41,7 @@ Five winners earned cash prizes and bragging rights for their creative technical
 </p>
 
 <p style="color: #323232">
-  The judges also selected two honorable mentions—<strong>Sean Beck </strong>and <strong>DarkTyphoon</strong>—and each will receive $1,337. The winning solution focused on metrics such as the number of calls made, whether the number called was a toll-free number, and the time of the call to identify likely robocalls. Sean’s solution focused on time of call and number of calls made, while DarkTyphoon’s solution utilized additional metrics such as the area code and exchange numbers called.
+  The judges also selected two honorable mentions—<strong>Sean Beck </strong>and <strong>DarkTyphoon</strong>—and each will receive $1,337. The winning solution focused on metrics such as the number of calls made, whether the number called was a toll-free number, and the time of the call to identify likely robocalls. Sean’s  solution focused on time of call and number of calls made, while DarkTyphoon’s  solution utilized additional metrics such as the area code and exchange numbers called.
 </p>
 
 <p style="color: #323232">

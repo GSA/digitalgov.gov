@@ -3,7 +3,7 @@
 
 date: 2015-07-30 10:00:21 -0400
 title: 'Community Rock Star Round Up'
-summary: 'Around&nbsp;this&nbsp;month&amp;#8217;s Communities Theme, the DigitalGov team thought we&rsquo;d round up your&nbsp;community rock stars. These are people in your communities who&rsquo;ve gone above and beyond, who&rsquo;ve contributed content, organized events, participated in developing toolkits and more.&nbsp;Let’skick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
+summary: 'Around&nbsp;this&nbsp;month&amp;#8217;s Communities Theme, the DigitalGov team thought we&rsquo;d round up your&nbsp;community rock stars. These are people in your communities who&rsquo;ve gone above and beyond, who&rsquo;ve contributed content, organized events, participated in developing toolkits and more.&nbsp;Let’s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
 authors: [apiazza]
 categories:
   - Communities
@@ -32,7 +32,7 @@ tag:
   - UX
 ---
 
-Around this month&#8217;s [Communities Theme](https://www.WHATEVER/2015/07/07/wont-you-help-your-neighbor-communities-theme-month-on-digitalgov/), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.
+Around this month&#8217;s [Communities Theme](https://www.WHATEVER/2015/07/07/wont-you-help-your-neighbor-communities-theme-month-on-digitalgov/), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s  kick it off with the DigitalGov Summit Sounding Board.
 
 ## DigitalGov Summit Sounding Board
 
@@ -80,4 +80,4 @@ In the [#SocialGov Community](https://www.WHATEVER/communities/social-media/) we
 
 Check out [How Social Media Informs Leadership and Public Initiatives](https://www.WHATEVER/2015/03/18/improving-how-social-media-informs-leadership-and-public-initiatives/) co-written by **Corina Dubois**, of the State Department Bureau of Consular Affairs, or take a peek at the recap of the event [Sharing the Essentials of Animated GIFs for Public Service](https://www.WHATEVER/2015/04/24/sharing-the-essentials-of-animated-gifs-for-public-services/) featuring **Michael Thomas** from the Office of Director of National Intelligence. **Brittany Stevenson** is not only is a #socialgov rock star but she is the [federal Terms of Service Point of Contact](https://www.WHATEVER/resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/) for the FCC. Finally, **Jordan Higgins** from the Defense Intelligence Agency has been our &#8220;go-to&#8221; guy [on cyber-security in social.](https://www.WHATEVER/2014/10/30/cyber-house-of-horrors/)
 
-Of course this just scratches the surface of good work that’s happening in DigitalGov—are you and your team rock stars? [Tell us what you’re up to](https://www.WHATEVER/contact-us/)!
+Of course this just scratches the surface of good work that’s  happening in DigitalGov—are you and your team rock stars? [Tell us what you’re up to](https://www.WHATEVER/contact-us/)!

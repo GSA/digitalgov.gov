@@ -22,18 +22,18 @@ The information included in this article is based on the experiences provided by
 
 Namely, the Agreement contains a section covering “Dispute Resolution; Governing Law” and “Indemnification” such that the Agreement shall be governed in accordance with the laws of the United States of America, and agency indemnification obligations are only applicable to the extent they would not cause an agency to violate any applicable law, such as the Anti-Deficiency Act. U.S. government attorneys have reviewed the Agreement and have determined that it contains sufficient wording to permit federal agencies to agree to the licensing terms.
 
-There is no online link to the agreement as the agreement is presented when an organization is applying for a developer’s license. The language is in clauses 15.10 and 15.11 of the License Agreement. Specifically, section 15.11, second paragraph, has special terms that apply “if you are an agency, instrumentality or department of the federal government of the United States.” Those special terms address the major legal issues of indemnification and law/jurisdiction. While it is the opinion of some agencies’ counsel that this renders the agreement minimally federal-compatible, each interested agency should make its own determination.
+There is no online link to the agreement as the agreement is presented when an organization is applying for a developer’s  license. The language is in clauses 15.10 and 15.11 of the License Agreement. Specifically, section 15.11, second paragraph, has special terms that apply “if you are an agency, instrumentality or department of the federal government of the United States.” Those special terms address the major legal issues of indemnification and law/jurisdiction. While it is the opinion of some agencies’ counsel that this renders the agreement minimally federal-compatible, each interested agency should make its own determination.
 
 Each agency that wishes to publish an iOS app, which displays that agency name as the publisher, must have a separately executed agreement with Apple.
 
 ## iOS License Agreement Process
 
-The process for a federal agency to obtain a developers certificate, which is used to digitally sign the Agency’s iOS app and submit it to the Apple iTunes App Store, is rather convoluted. It can be explained by the following process.
+The process for a federal agency to obtain a developers certificate, which is used to digitally sign the Agency’s  iOS app and submit it to the Apple iTunes App Store, is rather convoluted. It can be explained by the following process.
 
   * Apple requires an Agency Official to send a signed letter to Apple authorizing an Agency Employee the authority to bind said agency to the Apple iOS Developer Program License Agreement.
   * This agency employee is often a Government Purchase Card (P-Card) holder, as P-Card holders have the authority to enter into agreements to purchase services and supplies. This designated agency employee must apply for the iOS Developers account that will be used by the agency. Before the Agency Employee can pay the $99 annual iOS fee, Apple must have on-hand the Agency Official letter.
   * Once Apple receives the Agency Official letter, they will permit the Agency Employee to complete the iOS Agreement process and pay the $99 developer fee.
-  * Once payment is made to Apple, the Agency Employee can create an Agency Technical Representative user account who would then be able to create an Apple Certificate that would be used with Apple Software (X-Code) to digitally sign iOS apps with the Agency’s name.
+  * Once payment is made to Apple, the Agency Employee can create an Agency Technical Representative user account who would then be able to create an Apple Certificate that would be used with Apple Software (X-Code) to digitally sign iOS apps with the Agency’s  name.
 
 One agency representative described the experience this way and shared their draft language:
 

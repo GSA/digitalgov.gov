@@ -44,7 +44,7 @@ Here are some of the ways the Nationals organization manages and acts on custome
 
 ## Empower Employees to Help Customers
 
-The Nationals developed a TEAM Service Playbook which has everything employees need to know about the ballpark in an easy-to-carry booklet. The Playbook contains an A-to-Z list of common questions, a map of the park and emergency information. It also highlights the Club’s mission statement, core values, and employee recognition programs.
+The Nationals developed a TEAM Service Playbook which has everything employees need to know about the ballpark in an easy-to-carry booklet. The Playbook contains an A-to-Z list of common questions, a map of the park and emergency information. It also highlights the Club’s  mission statement, core values, and employee recognition programs.
 
 Stahl said that the rule of thumb is to “do anything that is ethical and legal to take care of guests.” This attitude empowers employees to do any reasonable thing they can to meet and exceed customer expectations.
 
@@ -61,8 +61,8 @@ These best practices enable the Nationals to deliver the best guest experience, 
 
 These gems from the baseball diamond can also work for government:
 
-  * **Hire customer service-minded people.** Highlight your organization’s core values in job announcements, and work with your HR department to add standard customer service language. During interviews, ask key questions to identify customer-focused applicants. Apply these same practices when interviewing potential contractors, and incentivize contractors through customer-centric key performance indicators (KPIs.)
+  * **Hire customer service-minded people.** Highlight your organization’s  core values in job announcements, and work with your HR department to add standard customer service language. During interviews, ask key questions to identify customer-focused applicants. Apply these same practices when interviewing potential contractors, and incentivize contractors through customer-centric key performance indicators (KPIs.)
   * **Empower employees with the right tools.** The Nationals use the TEAM Service Playbook to help employees answer questions and respond to customer needs immediately. What processes or tools would help your employees more easily respond to customer needs?
   * **Be creative with rewards and recognition.** No, we can’t offer lunch with Bryce Harper as a reward, but there are “stars” in each organization who can spend time with “rising stars” and pass along wisdom and core values.
 
-This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event](https://www.WHATEVER/event/federal-student-aid-customer-experience-journey/) with Brenda Wensil from the Department of Education’s Federal Student Aid Office, and join the [CX-COP](https://www.WHATEVER/communities/customer-experience-community/).
+This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event](https://www.WHATEVER/event/federal-student-aid-customer-experience-journey/) with Brenda Wensil from the Department of Education’s  Federal Student Aid Office, and join the [CX-COP](https://www.WHATEVER/communities/customer-experience-community/).

@@ -3,7 +3,7 @@
 
 date: 2016-09-19 1:00:45 -0400
 title: 'Building on 30 Years of Experience to Prepare for the Future of Biotechnology'
-summary: 'Summary\:&nbsp;EPA, FDA, and USDA unveil two documents as part of the Administration’scontinuing effort to modernize the Federal regulatory system for biotechnology products. Today, the Federal government has taken an important step to ensure public confidence in the regulatory system for biotechnology products and to improve the transparency, predictability, coordination, and, ultimately, efficiency of that'
+summary: 'Summary\:&nbsp;EPA, FDA, and USDA unveil two documents as part of the Administration’s continuing effort to modernize the Federal regulatory system for biotechnology products. Today, the Federal government has taken an important step to ensure public confidence in the regulatory system for biotechnology products and to improve the transparency, predictability, coordination, and, ultimately, efficiency of that'
 authors: [robbie-barbero, ted-boling, julia-doherty, melissa-goldstein, james-kim]
 categories:
   - Governance
@@ -21,7 +21,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-> Summary: 'EPA, FDA, and USDA unveil two documents as part of the Administration’s continuing effort to modernize the Federal regulatory system for biotechnology products.'
+> Summary: 'EPA, FDA, and USDA unveil two documents as part of the Administration’s  continuing effort to modernize the Federal regulatory system for biotechnology products.'
 
 Today, the Federal government has taken an important step to ensure public confidence in the regulatory system for biotechnology products and to improve the transparency, predictability, coordination, and, ultimately, efficiency of that system.
 
@@ -42,7 +42,7 @@ To accomplish these tasks, EPA, FDA, and USDA spent the last 14 months performin
 
 **Clarifying current roles and responsibilities**
 
-Today’s proposed <a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/biotech_coordinated_framework.pdf" target="_blank">Update to the Coordinated Framework</a> represents the first time in 30 years that the Federal government has produced a comprehensive summary of the roles and responsibilities of the three principal regulatory agencies with respect to the regulation of biotechnology products. The proposed update offers the public a complete picture of a robust and flexible regulatory structure that provides appropriate oversight for all products of modern biotechnology. Within that regulatory structure the Federal agencies maintain high standards that, based on the best available science, protect health and the environment, while also establishing transparent, coordinated, predictable and efficient regulatory practices.
+Today’s  proposed <a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/biotech_coordinated_framework.pdf" target="_blank">Update to the Coordinated Framework</a> represents the first time in 30 years that the Federal government has produced a comprehensive summary of the roles and responsibilities of the three principal regulatory agencies with respect to the regulation of biotechnology products. The proposed update offers the public a complete picture of a robust and flexible regulatory structure that provides appropriate oversight for all products of modern biotechnology. Within that regulatory structure the Federal agencies maintain high standards that, based on the best available science, protect health and the environment, while also establishing transparent, coordinated, predictable and efficient regulatory practices.
 
 In order to help product developers and the public understand what the regulatory pathway for products might look like, this proposed Update to the Coordinated Framework presents information about agency roles and responsibilities in several forms, including:
 
@@ -76,7 +76,7 @@ The _Strategy_ highlights many existing and new activities at EPA, FDA, and USDA
 
 **We want to hear from you**
 
-The documents released today represent major steps forward for the Federal government’s effort to modernize the regulatory system for biotechnology products.
+The documents released today represent major steps forward for the Federal government’s  effort to modernize the regulatory system for biotechnology products.
 
 But, there is more to be done. In the _Strategy_, the agencies have identified areas where additional work is needed, including the key commitments highlighted above. These ongoing and future activities, along with the commitment from the agencies to report annually on implementation progress, provide direction for the federal regulatory system for biotechnology products to keep pace with advances in science and technology.
 

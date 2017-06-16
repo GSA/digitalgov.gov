@@ -48,7 +48,7 @@ The SocialGov Community of Practice thanks Social Media Club DC for inviting us 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/DoD-IG.jpg" alt="image of Defense Inspector General team." %}
 Congratulations to the the **Department of Defense&#8217;s Inspector General (IG) social media team**, that turns two years-old this month and quickly rose to lead an engaged community.
   
-Their social media efforts have greatly expanded over the past two years since it issued its first tweet on September 16, 2011. To illustrate, on Friday, September 20, the **Tampa Tribune** led its story, “[Centcom asked to revise plan for how U.S., Iraqi military will interact](http://tbo.com/list/military-news/centcom-asked-to-revise-plan-for-how-us-iraqi-military-will-interact-20130920/)” with a reference to a DoD IG tweet on their report of the same topic.  It’s notable that a single, succinct tweet on policy can inspire an entire news story.
+Their social media efforts have greatly expanded over the past two years since it issued its first tweet on September 16, 2011. To illustrate, on Friday, September 20, the **Tampa Tribune** led its story, “[Centcom asked to revise plan for how U.S., Iraqi military will interact](http://tbo.com/list/military-news/centcom-asked-to-revise-plan-for-how-us-iraqi-military-will-interact-20130920/)” with a reference to a DoD IG tweet on their report of the same topic.  It’s  notable that a single, succinct tweet on policy can inspire an entire news story.
   
 This team doesn&#8217;t just create opportunities for their home team though. In May 2012 public affairs reps from **DoD IG** and **HHS OIG** (the two largest OIGs in the 73 member IG community) met for the first time to discuss the unique IG communications arena. They took a look at other communities like our SocialGov one that bring folks together, and welcomed a special collective of more than 30 other OIG communicators to meet.
 
@@ -68,7 +68,7 @@ Rome wasn&#8217;t built in a day, and neither is a great idea. The team at **[It
 
 [ItaliaCamp](http://www.italiacamp.it/) is an unconference that promotes and supports social innovation and the development of new ideas as answers to real needs. Its purpose is to fill the gap between ideas and their implementation.
 
-Karen Trebon of ([the newly re-designed](http://www.challenge.gov/)) **Challenge.gov** joined me in welcoming the team, and discussing how public prizes, competitions and social innovation can help entrepreneurs and all citizens better address the emerging needs of their communities. Like with the **Saudi Arabian delegation** who met us two weeks ago, it’s always intriguing to learn of the unique challenges our colleagues in others countries face, but also to identify where we can share more.
+Karen Trebon of ([the newly re-designed](http://www.challenge.gov/)) **Challenge.gov** joined me in welcoming the team, and discussing how public prizes, competitions and social innovation can help entrepreneurs and all citizens better address the emerging needs of their communities. Like with the **Saudi Arabian delegation** who met us two weeks ago, it’s  always intriguing to learn of the unique challenges our colleagues in others countries face, but also to identify where we can share more.
 
 ### **What&#8217;s next?**
 

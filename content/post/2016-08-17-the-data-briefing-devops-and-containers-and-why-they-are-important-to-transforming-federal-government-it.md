@@ -3,7 +3,7 @@
 
 date: 2016-08-17 1:00:11 -0400
 title: 'The Data Briefing\: DevOps and Containers and Why They Are Important to Transforming Federal Government IT'
-summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do &ldquo;containers&rdquo; have to do with all of this? In this week’scolumn, I will introduce DevOps and a related technology\: containers. Some DevOps'
+summary: 'You may have heard about &ldquo;DevOps&rdquo; in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do &ldquo;containers&rdquo; have to do with all of this? In this week’s column, I will introduce DevOps and a related technology\: containers. Some DevOps'
 authors: [bbrantley]
 categories:
   - Data
@@ -12,7 +12,7 @@ tag:
   - The Data Briefing
 ---
 
-You may have heard about “DevOps” in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do “containers” have to do with all of this? In this week’s column, I will introduce DevOps and a related technology: containers. Some DevOps practitioners will argue with my interpretations, and I invite these practitioners to explain their perspectives in the comments. 
+You may have heard about “DevOps” in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do “containers” have to do with all of this? In this week’s  column, I will introduce DevOps and a related technology: containers. Some DevOps practitioners will argue with my interpretations, and I invite these practitioners to explain their perspectives in the comments. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Word-DevOps-on-wood-planks-TimArbaev-iStock-Thinkstock-531240484.jpg" alt="Word DevOps on wood planks" %} 
 
 When I explain DevOps, I first point out that the term derives from combining “Development” and “Operations.” In IT shops, development refers to the developers who create new applications while operations refers to the IT professionals who keep the network and servers running. Historically, tension existed between development and operations because the developers would create applications that did not fit well with the current operations infrastructure. Operations would often accuse development of “just tossing applications over the wall” with little testing. Developers usually responded by claiming that applications worked on his or her development system.
@@ -31,4 +31,4 @@ _(Google, Google Search, Gmail, and Google Docs are used for illustrative purpos
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

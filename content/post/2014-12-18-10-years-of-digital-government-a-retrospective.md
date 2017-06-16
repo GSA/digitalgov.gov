@@ -36,7 +36,7 @@ tag:
 
 In December of 2004, the Office of Management and Budget (OMB) issued the first [Policies for Federal Public Websites](http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf "Policies for Federal Public Websites"). Over the past decade, we’ve seen technology completely transform how government delivers information and services to the public.
 
-On this 10-year anniversary, we’re taking a walk down memory lane to recap some of the pivotal moments that have shaped today’s digital government landscape.
+On this 10-year anniversary, we’re taking a walk down memory lane to recap some of the pivotal moments that have shaped today’s  digital government landscape.
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-fifth first">

@@ -3,7 +3,7 @@
 
 date: 2015-12-14 1:00:28 -0400
 title: 'Government Customer Service Update&mdash;Webinar Recap'
-summary: 'OMB’sLisa Danzig, who co-leads the Cross Agency Priority (CAP) Customer Service Goal with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they&rsquo;ve done since we last spoke with her, earlier this year. Background When the public comes to the federal government for information and services, they'
+summary: 'OMB’s Lisa Danzig, who co-leads the Cross Agency Priority (CAP) Customer Service Goal with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they&rsquo;ve done since we last spoke with her, earlier this year. Background When the public comes to the federal government for information and services, they'
 authors: [jsnee]
 categories:
   - Managing Digital
@@ -20,7 +20,7 @@ tag:
   - The United States Social Security Administration
 ---
 
-OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year](https://www.WHATEVER/2015/05/29/a-conversation-with-omb-on-customer-service/). 
+OMB’s  Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year](https://www.WHATEVER/2015/05/29/a-conversation-with-omb-on-customer-service/). 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
 
 ## Background
@@ -53,8 +53,8 @@ The next 16 months will focus on the second two strategies.
 
 Lisa says ”There is no greater need now than to develop a more holistic approach across government to support high-volume transactions that have the broadest impact on our citizens. We’ve set a good foundation and have a great plan moving forward.”
 
-[View the webinar to hear Lisa’s full presentation](https://www.youtube.com/watch?v=JZvGF8UsanU&feature=em-subs_digest-g).
+[View the webinar to hear Lisa’s  full presentation](https://www.youtube.com/watch?v=JZvGF8UsanU&feature=em-subs_digest-g).
 
 [youtube=http://www.youtube.com/watch?v=JZvGF8UsanU&w=600&start=0]
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting](https://www.WHATEVER/communities/customer-experience-community/) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.
+Keep up with all that’s  happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting](https://www.WHATEVER/communities/customer-experience-community/) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos.

@@ -45,7 +45,7 @@ Doing agile development in the open expands the possibilities for collaboration:
 
 “I don’t think you can have open source contributions near our velocity without agile development,” said David Cole, a developer for 18F. “It allows people to plug in, contribute and then pull out if they are busy. It also helps us go through the project cycle quicker. We go through it in two to four weeks, rather than months.”
 
-In traditional waterfall methods, it’s hard for [interested contributors](https://github.com/18F/openopps-platform/blob/dev/CONTRIBUTING.md) to figure out how they can work on a project, Cole said. By posting all of the project’s artifacts on Github, including the project road map, contributors can see where the project is going and how their efforts fit into the work stream.
+In traditional waterfall methods, it’s  hard for [interested contributors](https://github.com/18F/openopps-platform/blob/dev/CONTRIBUTING.md) to figure out how they can work on a project, Cole said. By posting all of the project’s  artifacts on Github, including the project road map, contributors can see where the project is going and how their efforts fit into the work stream.
 
 _This article is the first in a two part series of how open, agile development has benefitted the Open Opportunities platform. In the next article, DigitalGov will delve into the view from the outside: how and why people outside of government got involved in contributing to Open Opportunities, and the keys to a good experience for those contributors._
 

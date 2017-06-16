@@ -3,7 +3,7 @@
 
 date: 2016-02-23 1:00:27 -0400
 title: 'The Benefits of Being Push-y\: Reaching Your Audience Through Push Notifications'
-summary: 'Need to get in touch with your audience? Give them a little push. Push notifications allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’sOPM Alert app provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology'
+summary: 'Need to get in touch with your audience? Give them a little push. Push notifications allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s OPM Alert app provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology'
 authors: [awichman]
 categories:
   - Mobile
@@ -16,7 +16,7 @@ tag:
 
 Need to get in touch with your audience? Give them a little push.
 
-[Push notifications](https://www.WHATEVER/2015/06/30/trends-on-tuesday-native-app-push-notifications-drive-repeat-use/) allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s [OPM Alert app](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/mobile-app/) provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology to alert users of status changes. 
+[Push notifications](https://www.WHATEVER/2015/06/30/trends-on-tuesday-native-app-push-notifications-drive-repeat-use/) allow agencies to connect with their audiences for immediate communication. The Office of Personnel Management’s  [OPM Alert app](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/mobile-app/) provides a real time look at the current operating status for federal offices in the Washington, DC, area and uses push technology to alert users of status changes. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Push-notifications-elements-set-dark-Background-Olyzel-iStock-Thinkstock-488569892.jpg" alt="Push notifications elements set" %} 
 
 While the most well-known use of the OPM Alert is for weather closings, the app can be used to alert users of other events: for example, the app was used to announce the lapse in federal appropriations in 2013 and the resulting office closures (and the later re-opening). Users are able to opt-in for the type of alerts they want to receive.
@@ -43,7 +43,7 @@ Ty Hughes, Web Services Manager at OPM, said one of the most important aspects o
 
 “When the notification goes out, and we update the status on the app itself, we have to make sure the recorded message for the OPM phone line is changed in concert with the status as well as the social media feeds,” Hughes said. “Nothing would cause more confusion than conflicting messaging.”
 
-The team conducts readiness exercises to confirm that both the apps and coordination process are running smoothly. Winter is the busiest alert season, and the team recently did a practice run in preparation. The app also sends out a push notification every night when the status updates, which is a good way for the team to test the app, the developer said. The team’s developers have the app installed, and if someone doesn’t get the daily alert, they can explore why. So far, the only time an alert didn’t arrive was due to an expired certificate, and because of the test, the issue was caught and addressed the following day.
+The team conducts readiness exercises to confirm that both the apps and coordination process are running smoothly. Winter is the busiest alert season, and the team recently did a practice run in preparation. The app also sends out a push notification every night when the status updates, which is a good way for the team to test the app, the developer said. The team’s  developers have the app installed, and if someone doesn’t get the daily alert, they can explore why. So far, the only time an alert didn’t arrive was due to an expired certificate, and because of the test, the issue was caught and addressed the following day.
 
 ## The Push Effect
 
@@ -53,7 +53,7 @@ The mobile app also has analytics that allow the team to see real time views.
 
 “Prior to a status update, we might have a couple of hundred people on the mobile app,” the developer said. “As we approach the time when we see updates occurring (the 3 am &#8211; 5 am time frame), we start to see Web statistics that show traffic tick up to 300 to 400 users.  When we make the update, and the notification goes out, there is an 8 minute delay between when we put it out and when the push is received (we have to clear our Akamai cache). When the push goes out, within 2 to 3 minutes, the real time users spike to 5,000 &#8211; 15,000 users. We’ve seen as high as 25,000 users on the mobile app after the alert goes out. Throughout the course of the day, we see 1 million to 2 million unique users between the app and website.”
 
-Traffic between the mobile and desktop versions is split, with 50% typically using each platform. It’s also noteworthy that the app has been adopted outside the DC area: the app has ‘quite a few’ users in Germany that check it to see why they can’t get in touch with people in DC, the developer said.
+Traffic between the mobile and desktop versions is split, with 50% typically using each platform. It’s  also noteworthy that the app has been adopted outside the DC area: the app has ‘quite a few’ users in Germany that check it to see why they can’t get in touch with people in DC, the developer said.
 
 ## Lessons Observed
 
@@ -77,4 +77,4 @@ There are several reasons segmentation would be beneficial, Hughes said. For exa
 
 The developer noted that while push is effective, there are limitations.
 
-“We use a native app, but it requires a smartphone,” the developer said. “What about people who are not in that scenario? We knew our population and what our target was. To expand outside of a native app, for something like SMS, we’d have to use something other than push notifications, and that’s when we get into the charges that come along with messaging rates. It would be interesting how we’d handle that in the future if it becomes a requirement. We use an API that could be expanded, and it could be expanded to include SMS notification.”
+“We use a native app, but it requires a smartphone,” the developer said. “What about people who are not in that scenario? We knew our population and what our target was. To expand outside of a native app, for something like SMS, we’d have to use something other than push notifications, and that’s  when we get into the charges that come along with messaging rates. It would be interesting how we’d handle that in the future if it becomes a requirement. We use an API that could be expanded, and it could be expanded to include SMS notification.”

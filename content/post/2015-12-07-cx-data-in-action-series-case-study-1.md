@@ -3,7 +3,7 @@
 
 date: 2015-12-07 11:10:18 -0400
 title: 'CX Data in Action Series\: Case Study #1'
-summary: 'It’snot new that agencies are inundated with data, but what data should you collect to improve your agency’sprograms and enhance the customer experience? The Department of Labor’sEmployee Benefit Security Administration’s(EBSA) has been perfecting their process to collect actionable data for the past 14 years. EBSA is a regulatory agency that develops'
+summary: 'It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. EBSA is a regulatory agency that develops'
 authors: [rflagg, jacqueline-snee]
 categories:
   - Managing Digital
@@ -17,10 +17,10 @@ tag:
   - U.S. Department of Labor
 ---
 
-It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. 
+It’s  not new that agencies are inundated with data, but what data should you collect to improve your agency’s  programs and enhance the customer experience? The Department of Labor’s  Employee Benefit Security Administration’s  (EBSA) has been perfecting their process to collect actionable data for the past 14 years. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" %} 
 
-EBSA is a regulatory agency that develops and enforces private sector employee benefit plans, such as 401Ks, traditional pensions, and health care benefit plans. We invited Terri Thomas from EBSA’s Outreach, Education and Assistance (OEA) Program to share her strategy for collecting actionable data in a [DigitalGov University webinar](https://www.youtube.com/watch?v=fI6o7hxSJQw&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=3).
+EBSA is a regulatory agency that develops and enforces private sector employee benefit plans, such as 401Ks, traditional pensions, and health care benefit plans. We invited Terri Thomas from EBSA’s  Outreach, Education and Assistance (OEA) Program to share her strategy for collecting actionable data in a [DigitalGov University webinar](https://www.youtube.com/watch?v=fI6o7hxSJQw&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=3).
 
 ## GPRA and Customer Satisfaction
 
@@ -28,7 +28,7 @@ In the past, OEA measured such things as timeliness of responses, or amount of m
 
 To solve this problem, the agency decided to establish their customer service satisfaction score as a primary Government Performance Results Act (GPRA) goal for the agency. The GPRA goal helped EBSA move to more qualitative performance measures, particularly for their Benefits Advisors.
 
-EBSA’s Benefits Advisors:
+EBSA’s  Benefits Advisors:
 
   * Help participants understand their rights and obtain benefits to which they’re entitled
   * Educate employers and plan officials on legal responsibilities
@@ -74,11 +74,11 @@ EBSA runs an ongoing customer satisfaction survey for their Benefits Advisors pr
   * **Accountability**—Have a system (such as the GPRA) that holds people accountable for execution and follow-through
   * **Collaboration—**Be transparent; share best practices and information across the organization. Ask for and be willing to accept feedback to enhance surveys and other data collection efforts.
   * **Training—**Tailor training to meet the needs of individual employees, particularly when addressing survey findings, so you can monitor whether performance on certain activities improves.
-  * **Refine Over Time—**Use results from prior years to improve the next year’s survey.
+  * **Refine Over Time—**Use results from prior years to improve the next year’s  survey.
   * **Be Specific—**Drop all questions that are “nice to have.” Only ask questions that give you actionable data.
 
-Watch the webinar to hear Terri’s full presentation.
+Watch the webinar to hear Terri’s  full presentation.
 
 [youtube=http://www.youtube.com/watch?v=fI6o7hxSJQw&w=600]
 
-Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page](https://www.WHATEVER/communities/customer-experience-community/), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.
+Keep up with all that’s  happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting the Community page](https://www.WHATEVER/communities/customer-experience-community/), and [viewing our playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) of on-demand training videos.

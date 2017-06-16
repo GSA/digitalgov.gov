@@ -70,7 +70,7 @@ tag:
 
 The new <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-2" target="_blank">second draft of the U.S. Public Participation Playbook</a> incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions for this groundbreaking new collaborative resource to measurably improve our participatory public services across government, and would like to take this opportunity to share what we have learned so far.
 
-To start, let’s map out what [the U.S. Public Participation Playbook](http://www.whitehouse.gov/blog/2014/11/25/help-shape-public-participation) is, how we&#8217;re building it to improve public participation with not just its content but the very process behind its design, and answer some common questions we received.
+To start, let’s  map out what [the U.S. Public Participation Playbook](http://www.whitehouse.gov/blog/2014/11/25/help-shape-public-participation) is, how we&#8217;re building it to improve public participation with not just its content but the very process behind its design, and answer some common questions we received.
 
 ## What is the scope of the U.S. Public Participation Playbook?
 
@@ -114,7 +114,7 @@ As comments on Madison point out, before Dec. 17 we&#8217;d like to focus more o
 
 Also, this week we’ve begun developing introductions to plays. Please take a look and help develop them into fuller representations.
 
-## What’s next for the draft playbook development process?
+## What’s  next for the draft playbook development process?
 
 Dozens of federal managers, civil societies and other partners will continue to process suggestions as they are provided, as well as contribute their own insights and expertise. Today we release a new draft, and will release another one the following week that incorporates new feedback: three responsive public drafts before even the initial “formal” release.
 
@@ -122,7 +122,7 @@ After the formal release of the playbook in January, it doesn’t mean the end�
 
 ## Who are the collaborators behind the U.S. Public Participation Playbook?
 
-Part of designing collaboration into the DNA of the playbook is not just creating a resource you can see the value in, it’s creating a resource you can see yourself in. For example, in the federal government we now almost doubled the size of the working group to more than 60 innovators from across diverse mission areas and job fields. This week we’d like to recognize them—and next week with the release of the latest draft, we’d like to recognize the civil society organizations whose contributions and voices have helped make this process so productive.
+Part of designing collaboration into the DNA of the playbook is not just creating a resource you can see the value in, it’s  creating a resource you can see yourself in. For example, in the federal government we now almost doubled the size of the working group to more than 60 innovators from across diverse mission areas and job fields. This week we’d like to recognize them—and next week with the release of the latest draft, we’d like to recognize the civil society organizations whose contributions and voices have helped make this process so productive.
 
 ## U.S. Public Participation Playbook Working Group Members
 

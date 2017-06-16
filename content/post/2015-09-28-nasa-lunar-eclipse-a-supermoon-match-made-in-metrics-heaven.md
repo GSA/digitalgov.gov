@@ -22,7 +22,7 @@ NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typicall
 
 [NASA defines a supermoon](http://nasa.tumblr.com/post/129807068979/what-is-a-supermoon-lunar-eclipse), which appears approximately 14 percent larger in diameter due to its proximity to the Earth, as _a full or new moon that falls closest to the fall equinox, and is at its closest approach to the Earth_.
 
-Sunday’s supermoon eclipse, visible to North and South America, Europe, Africa, and parts of Asia and the eastern Pacific, lasted an hour and 12 minutes. It is the first time since 1982 that both a supermoon and a total lunar eclipse have made an appearance together.
+Sunday’s  supermoon eclipse, visible to North and South America, Europe, Africa, and parts of Asia and the eastern Pacific, lasted an hour and 12 minutes. It is the first time since 1982 that both a supermoon and a total lunar eclipse have made an appearance together.
 
 If you weren&#8217;t able to make one of the eclipse parties happening in many cities, or were experiencing heavy cloud cover, [NASA Television](http://www.nasa.gov/multimedia/nasatv/) live-streamed the event from their [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home) in Huntsville, Alabama. Hosts conducted many live and pre-recorded interviews about last night&#8217;s supermoon, lunar and solar eclipses, and interesting facts about Earth and the moon. They referred to the [#AskNASA](https://twitter.com/search?q=%23AskNASA) hashtag to answer questions from the public across various social media channels, from 8 pm until midnight. ICYMI, [watch the broadcast](http://www.ustream.tv/recorded/74312628) on NASA&#8217;s Ustream channel.
 

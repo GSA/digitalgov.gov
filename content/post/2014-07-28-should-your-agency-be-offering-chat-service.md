@@ -28,7 +28,7 @@ Live Web chat is an important component of good customer service. People like ha
 
 ## Why did you choose to offer Web chat?
 
-Agencies offered Web chat in response to requests from customers who wanted to talk to customer service representatives immediately, while they were browsing an agency’s site. Web chat is especially appealing to younger audiences as well as customers who are trying to complete a task on the site, such as filling out an electronic form.
+Agencies offered Web chat in response to requests from customers who wanted to talk to customer service representatives immediately, while they were browsing an agency’s  site. Web chat is especially appealing to younger audiences as well as customers who are trying to complete a task on the site, such as filling out an electronic form.
 
 ## Are there special requirements for chat agents?
 
@@ -36,7 +36,7 @@ Education and GSA start agents on phones, and when they are more experienced, mo
 
 ## What content do the chat agents use?
 
-The panelists said their agents have a bank of preformatted responses, use their knowledgebases and websites. USA.gov provides a link to the relevant FAQs on the topic, or the URL to an agency’s page, but also provides context and an explanation of why they’re providing the link.
+The panelists said their agents have a bank of preformatted responses, use their knowledgebases and websites. USA.gov provides a link to the relevant FAQs on the topic, or the URL to an agency’s  page, but also provides context and an explanation of why they’re providing the link.
 
 ## How do the customer satisfaction scores for chat inquiries compare to those of email/phone?
 
@@ -69,7 +69,7 @@ At GSA, for USA.gov, the Chat channel consistently receives higher customer sati
     
     Some panelists limited the number of simultaneous chats to two or three per representative. Industry experts recommend that the complexity of the chat drive the allowable number of simultaneous chats.
     
-    ## Are you using proactive chat (where a chat window will pop-up on user’s screen offering chat assistance)?
+    ## Are you using proactive chat (where a chat window will pop-up on user’s  screen offering chat assistance)?
     
     None of the panelists is using proactive chat right now, but several are looking into it as a possibility for the future.
     

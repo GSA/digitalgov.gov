@@ -25,15 +25,15 @@ All of us want to improve the content and information we provide to the public, 
   * What should we tweet about this month?
   * What are customers saying about our information?
 
-The best source of this information is a resource right in your agency–your agency’s Contact Center. Every day, the contact center interacts with the public, and is the human touch point that hears about customers’ experiences &#8211; their needs, their satisfaction or dissatisfaction. You can turn that information into action and improvements in your digital environment.
+The best source of this information is a resource right in your agency–your agency’s  Contact Center. Every day, the contact center interacts with the public, and is the human touch point that hears about customers’ experiences &#8211; their needs, their satisfaction or dissatisfaction. You can turn that information into action and improvements in your digital environment.
 
 At one time, government contact centers were merely “call” centers with simple recorded messages and the option to speak to an agent during limited hours. Times have changed. The contact center is an important link to the public. We can use that pulse of the public to improve customer service, websites, content, and overall service delivery. The contact center still provides valuable service via the telephone, but we’ve used our expertise to expand our reach and meet the public where they are, on their channel of choice.
 
-Now, knowledgeable contact center agents talk to customers via live online chat available an agency’s website, respond to questions via email, and answer questions on social media channels. Some centers even have virtual assistants available on the Web to help navigate the public to information. The contact center is integral in providing sophisticated databases of answers to common questions, used by both the contact center agents, and available on websites.
+Now, knowledgeable contact center agents talk to customers via live online chat available an agency’s  website, respond to questions via email, and answer questions on social media channels. Some centers even have virtual assistants available on the Web to help navigate the public to information. The contact center is integral in providing sophisticated databases of answers to common questions, used by both the contact center agents, and available on websites.
 
 So, with so much information on the Web, why are people still calling? Isn’t everyone online these days? Aren’t we a mobile society? If a citizen is on your website and chooses to chat with an agent, does that indicate a problem? Isn’t it so 1990s to send an email?
 
-Talk to your agency’s contact center manager and agents to learn more!
+Talk to your agency’s  contact center manager and agents to learn more!
 
 ## Questions to Ask and Actions to Take
 
@@ -45,7 +45,7 @@ Talk to your agency’s contact center manager and agents to learn more!
   * Have agents noticed an increase in inquiries after website changes? Are they getting more questions about a certain topic than they did before?
   * Make sure that you’re regularly sharing online content enhancements or changes with your contact center. Contact centers need to know about these changes. Also, the contact center can use your data, such as popular search terms, to improve their resources.
 
-So let’s make sure we’re using all the information from our customers—Web data and contact center data. Talk to your contact center manager to learn how you can ensure you’re delivering an awesome customer experience! Partner with your contact center team—they are an integral channel in your agency’s digital environment.
+So let’s  make sure we’re using all the information from our customers—Web data and contact center data. Talk to your contact center manager to learn how you can ensure you’re delivering an awesome customer experience! Partner with your contact center team—they are an integral channel in your agency’s  digital environment.
 
 Interested in interacting with other contact center managers and directors across government? [Join the Government Contact Center Council](https://www.WHATEVER/communities/government-contact-center-council-g3c/) (G3C).
 

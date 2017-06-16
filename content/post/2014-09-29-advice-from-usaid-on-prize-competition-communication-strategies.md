@@ -3,7 +3,7 @@
 
 date: 2014-09-29 1:57:25 -0400
 title: 'Advice from USAID on Prize Competition Communication Strategies'
-summary: 'A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The United States Agency for International Development (USAID)’sJarah Meador shared the Desal Prize plan and results in the September 16 webinar, &ldquo;Why Your Gov'
+summary: 'A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The United States Agency for International Development (USAID)’s Jarah Meador shared the Desal Prize plan and results in the September 16 webinar, &ldquo;Why Your Gov'
 authors: [ktrebon]
 categories:
   - Challenges
@@ -17,7 +17,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-200-social-media-Business-connection-TCmake_photo-iStock-Thinkstock-184725179.jpg" alt="social media and business connection icons" %} 
 
-A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The [United States Agency for International Development](http://www.usaid.gov/) (USAID)’s Jarah Meador shared the [Desal Prize](http://www.securingwaterforfood.org/the-desal-prize/) plan and results in the September 16 webinar, “Why Your Gov Prize Competition Needs a Communications Strategy.”
+A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The [United States Agency for International Development](http://www.usaid.gov/) (USAID)’s  Jarah Meador shared the [Desal Prize](http://www.securingwaterforfood.org/the-desal-prize/) plan and results in the September 16 webinar, “Why Your Gov Prize Competition Needs a Communications Strategy.”
 
 Consider the following advice and insight for help with planning your own challenge.
 

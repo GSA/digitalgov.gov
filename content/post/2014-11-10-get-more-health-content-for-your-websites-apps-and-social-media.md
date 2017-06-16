@@ -43,7 +43,7 @@ Freely use our:
 
  **In your local websites, apps, and social media profiles:**
 
-  * Syndicated content from federal sources displays unbranded within your site’s structure, maintaining your site’s look-and-feel. Content is automatically updated at the source, leaving you free to focus on other priorities.
+  * Syndicated content from federal sources displays unbranded within your site’s  structure, maintaining your site’s  look-and-feel. Content is automatically updated at the source, leaving you free to focus on other priorities.
   * Images and infographics are science-based and formatted for quick dissemination on your social profiles, like Facebook and Twitter.
   * Videos and podcasts can be easily added to your YouTube, Flickr, and Pinterest profiles.
   * Data visualizations bring timely federal and state data to you, and are also automatically updated.

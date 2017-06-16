@@ -2,7 +2,7 @@
 
 
 date: 2013-10-28 2:07:47 -0400
-title: 'With Measurable Usability Goals &ndash; We All Score'
+title: 'With Measurable Usability Goals — We All Score'
 summary: 'Setting measurable usability goals will help your team to assess the performance of your site throughout development. Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above, bench'
 authors: [katie-messner]
 categories:

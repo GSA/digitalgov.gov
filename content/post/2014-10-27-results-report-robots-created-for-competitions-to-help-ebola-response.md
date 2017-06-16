@@ -43,7 +43,7 @@ An excerpt from the article:
 
 WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with leading the school&#8217;s involvement in the NASA challenge competition. He explains the AERO&#8217;s back story and how the robot could be helpful to the medical community:
 
-> The robot was built for the 2013 NASA Sample Return Robot (SRR) Centennial Challenge. After that, we continued software/algorithm development on it, and competed in next year’s 2014 NASA SRR Centennial Challenge. It was originally designed to autonomously navigate a large, outdoor environment, find and locate various geologic samples, and return them to the starting platform, utilizing only space compatible technologies.
+> The robot was built for the 2013 NASA Sample Return Robot (SRR) Centennial Challenge. After that, we continued software/algorithm development on it, and competed in next year’s  2014 NASA SRR Centennial Challenge. It was originally designed to autonomously navigate a large, outdoor environment, find and locate various geologic samples, and return them to the starting platform, utilizing only space compatible technologies.
 > 
 > The sensors on the platform that allow it to navigate on its own without GPS information, the dexterous 6-DOF manipulator, and robust skid-steer base make it a very capable mobile manipulation platform.This makes it an ideal candidate to be quickly re-purposed with sprayers to enable quick testing and prototyping of teleoperated decontamination activities.
 > 

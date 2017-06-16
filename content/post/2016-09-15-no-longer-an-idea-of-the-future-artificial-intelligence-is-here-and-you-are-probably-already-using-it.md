@@ -3,7 +3,7 @@
 
 date: 2016-09-15 11:00:12 -0400
 title: 'No Longer an Idea of the Future, Artificial Intelligence Is Here and You Are Probably Already Using It'
-summary: 'It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other&nbsp;devices&nbsp;to ask Apple&amp;#8217;s Siri, Microsoft&amp;#8217;s Cortana, Google Now, or Amazon’sAlexa a question to get the facts or data we'
+summary: 'It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other&nbsp;devices&nbsp;to ask Apple&amp;#8217;s Siri, Microsoft&amp;#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we'
 authors: [christen-geiler]
 categories:
   - Code
@@ -34,14 +34,14 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s Alexa a question to get the facts or data we are looking for. Using your voice, you can say, “Where’s the nearest gas station?” or “What’s on my calendar today?”, and the [intelligent personal assistant](https://en.wikipedia.org/wiki/Intelligent_personal_assistant) (IPA) will respond by finding information and relaying it from your phone or sending commands to other apps. 
+It might surprise some of you to know that artificial intelligence (AI) is already in use and a routine part of our daily lives, but we leverage this technology when we use our smartphones or other devices to ask Apple&#8217;s Siri, Microsoft&#8217;s Cortana, Google Now, or Amazon’s  Alexa a question to get the facts or data we are looking for. Using your voice, you can say, “Where’s  the nearest gas station?” or “What’s  on my calendar today?”, and the [intelligent personal assistant](https://en.wikipedia.org/wiki/Intelligent_personal_assistant) (IPA) will respond by finding information and relaying it from your phone or sending commands to other apps. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-425-Artificial-intelligence-making-possible-new-computer-technologies-NicoElNino-iStock-Thinkstock-499152762.jpg" alt="Artificial intelligence (AI) is making possible new computer technologies." %} 
 
 However, AI is not only being used in the context of a personal assistant. Self-driving cars are moving closer to reality, retailers are using anticipatory shipping in the hopes to send you items _before_ you need them, and banks are using AI to detect fraud to monitor accounts and alert the owners when questionable transactions occur.
 
 ## AI Defined
 
-So it is here, but [what is AI](http://dupress.com/articles/what-is-cognitive-technology/)? AI is an intelligent system’s ability to improve predictions, accelerate problem solving, and automate administrative tasks, ushering in an era of automation. A few of the areas of AI are:
+So it is here, but [what is AI](http://dupress.com/articles/what-is-cognitive-technology/)? AI is an intelligent system’s  ability to improve predictions, accelerate problem solving, and automate administrative tasks, ushering in an era of automation. A few of the areas of AI are:
 
   * **_Cognitive analytics_**_, where machines learn from experience and build associations, help develop technology systems that evolve hypothesis, draw conclusions and collect instincts and experience._
 
@@ -61,6 +61,6 @@ FCC Chief Information Officer David Bray&#8217;s recent article, [How Can Artifi
 
 ## AI: Serving Millions Daily
 
-Artificial intelligence is used in smartphones, cars, banks, and houses on a daily basis. The integration of AI into our normal lives will continue to expand as well as becoming [a tool to assist Federal agencies to better serve their audiences](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/). AI is everywhere, and it’s making a huge difference in our lives every day.
+Artificial intelligence is used in smartphones, cars, banks, and houses on a daily basis. The integration of AI into our normal lives will continue to expand as well as becoming [a tool to assist Federal agencies to better serve their audiences](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/). AI is everywhere, and it’s  making a huge difference in our lives every day.
 
 _Note: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

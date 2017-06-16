@@ -29,7 +29,7 @@ While the SMS service is limited to alerts and searches for nearby shelters, the
 Some of the photographs shared through the app are by professionals, but most come from the public and go through a privacy screening process, as recommended by the FEMA privacy office. During screening, photos are eliminated if personally identifying information is shown, such as license plates and street addresses.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-shelters-list-by-state-screen-Android.jpg" alt="250-x-444-FEMA-app-shelters-list-by-state-screen-Android" %}Tina Adinolfi, Chief of the Disaster Management Branch at FEMA, said FEMA noticed several spikes in app downloads and SMS shelter searches during recent severe weather events in the Midwest and Southeast. Additionally, FEMA’s analytics showed many current users were accessing their services more often.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-shelters-list-by-state-screen-Android.jpg" alt="250-x-444-FEMA-app-shelters-list-by-state-screen-Android" %}Tina Adinolfi, Chief of the Disaster Management Branch at FEMA, said FEMA noticed several spikes in app downloads and SMS shelter searches during recent severe weather events in the Midwest and Southeast. Additionally, FEMA’s  analytics showed many current users were accessing their services more often.
 
 FEMA also developed a push notification functionality that allows users to receive weather alerts based on their selected location. FEMA uses an API, which calls weather alerts from the National Weather Service (NWS).
 

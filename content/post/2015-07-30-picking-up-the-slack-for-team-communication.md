@@ -21,7 +21,7 @@ You have a question about a project. You ping a coworker, who texts another coll
 
 Corralling the cacophony of texts, tweets, and emails is a serious undertaking. Some of the free tools designed to manage communication and increase efficiency now have [federal-friendly terms of service (TOS) agreements.](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/)
 
-One of the new federal-friendly tools designed to lighten your communication load is [Slack](https://slack.com/). Instead of locking team conversations in emails or 1-on-1 private messages, Slack offers “channels” where group members can share information, comment on each other’s ideas, and upload documents. Every conversation that is part of the channel is saved and searchable.
+One of the new federal-friendly tools designed to lighten your communication load is [Slack](https://slack.com/). Instead of locking team conversations in emails or 1-on-1 private messages, Slack offers “channels” where group members can share information, comment on each other’s  ideas, and upload documents. Every conversation that is part of the channel is saved and searchable.
 
 Organizations and agencies are using Slack to streamline their efforts and have one centralized, easily accessible place for internal communications.
 
@@ -38,7 +38,7 @@ McDaniel said her nine person team moved to using Slack for internal communicati
 
 Members of the [Social Media Community of Practice](https://www.WHATEVER/communities/social-media/) praised Slack for being easy to learn and easy to manage.
 
-The Bureau of International Information Programs (IIP) at the Department of State has deployed Slack in its bureau, and over half of the bureau’s 350 staff are active, meaning they are logging in and posting, says Hilary Brandt, Director of IIP’s Office of Policy, Outreach and Governance. To encourage adoption in the bureau, they’ve been holding short, internal training sessions on Slack and have even had an “email-free Slack day,” Brandt says.
+The Bureau of International Information Programs (IIP) at the Department of State has deployed Slack in its bureau, and over half of the bureau’s  350 staff are active, meaning they are logging in and posting, says Hilary Brandt, Director of IIP’s  Office of Policy, Outreach and Governance. To encourage adoption in the bureau, they’ve been holding short, internal training sessions on Slack and have even had an “email-free Slack day,” Brandt says.
 
 Slack offers a [suite of integrations](https://slack.com/integrations) as part of the tool, and it can also be used in conjunction with [If This Then That (IFTTT)](https://ifttt.com/), another [federal-friendly service that links different tools and platforms together](https://www.WHATEVER/2015/02/12/ifttt-combines-social-media-mobile-and-internet-of-things-for-government/). For example, you can use IFTTT to integrate all your social media posts into Slack for an at-a-glance view of your activity across channels.
 

@@ -34,7 +34,7 @@ We don&#8217;t have to tell you the hard work of building a digital government d
 
 To get ourselves thinking outside the lines in order to build an awesome 21st century government we’re bringing federal, industry and state and local employees together for the [DigitalGov Citizen Services Summit](https://www.WHATEVER/event/digitalgov-citizen-services-summit/) on Friday, May 30.
 
-In our event’s panels and Expo, we’ll showcase programs that are combining, collaborating and colluding across technology boundaries to improve:
+In our event’s  panels and Expo, we’ll showcase programs that are combining, collaborating and colluding across technology boundaries to improve:
 
   * How agencies operate internally
   * How agencies collaborate together

@@ -3,7 +3,7 @@
 
 date: 2014-04-11 10:00:19 -0400
 title: 'Storyboard\: A Tool for a Successful Video'
-summary: 'The script is king when it comes to creating a video. Once you have the words, it’sthe pictures that will tell the story. Storyboards are a key component in video production. They serve as a guide during the production process, allowing the video producer to determine how the use of footage, sound bites, audio'
+summary: 'The script is king when it comes to creating a video. Once you have the words, it’s the pictures that will tell the story. Storyboards are a key component in video production. They serve as a guide during the production process, allowing the video producer to determine how the use of footage, sound bites, audio'
 authors: [jini-ryan]
 categories:
   - Content
@@ -14,7 +14,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-<span style="line-height: 1.5em;">The script is king when it comes to creating a video. Once you have the words, it’s the pictures that will tell the story.</span>
+<span style="line-height: 1.5em;">The script is king when it comes to creating a video. Once you have the words, it’s  the pictures that will tell the story.</span>
 
 Storyboards are a key component in video production. They serve as a guide during the production process, allowing the video producer to determine how the use of footage, sound bites, audio (music, sound effects, natural sound) and graphics, will effectively communicate the key messages before production begins. Storyboards keep the entire production team on track—videographers and photographers know what footage and photos to capture, production assistants can track down the correct historic images/documents or reach out to local resources to gather canned content, and contractors have a clear direction for their deliverables. This helps reduce overall production costs, cuts down production time and ensures you meet the deadline.
 
@@ -29,7 +29,7 @@ Our &#8220;Apps for the Environment&#8221; script  was unique because, for the f
 
 When we began working on the script and the storyboard, the Web team had already created a mock up for their Web page (image attached to storyboard). As we identified the key communication messages and drafted the script, we worked with the Web designers to include the same language on the Web page to create a link across both platforms. Once the script was locked, we discussed color schemes and icons. In planning out the graphics for the video, we decided to include a numbering system for the four steps to enter the “Apps for the Environment” challenge in the video, and convinced the Web designers to include the same numeric graphics on the page, creating another link between the media.
 
-This video was shot on a green screen, so the storyboard was critical to make sure we captured everything we needed during the few hours we had access to our on-camera talent. “Apps for the Environment” was a video that required kinetic text and animation, techniques we hired a contractor to execute. The details in the storyboard allowed our animation artist to build exactly what we were looking for, without taking away the contractor’s ability to add a little creative flair, like the use of the binary code when transitioning from text to images or the talent to the closing slate.
+This video was shot on a green screen, so the storyboard was critical to make sure we captured everything we needed during the few hours we had access to our on-camera talent. “Apps for the Environment” was a video that required kinetic text and animation, techniques we hired a contractor to execute. The details in the storyboard allowed our animation artist to build exactly what we were looking for, without taking away the contractor’s  ability to add a little creative flair, like the use of the binary code when transitioning from text to images or the talent to the closing slate.
 
 The storyboard allowed us to take the video from script to final product in less than nine days, enabled us to stay within budget by giving clear direction to our contractor, and most importantly, ensured the video turned out exactly the way we planned.
 

@@ -60,7 +60,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}</p> 
   
   <p>
-    <a href="https://digitalmedia.hhs.gov/tobacco" target="_blank">FDA’s Center for Tobacco Products</a> provides a wide array of scientific-backed content related to smoking cessation or prevention, especially targeting youth smoking.
+    <a href="https://digitalmedia.hhs.gov/tobacco" target="_blank">FDA’s  Center for Tobacco Products</a> provides a wide array of scientific-backed content related to smoking cessation or prevention, especially targeting youth smoking.
   </p>
   
   <p>
@@ -76,7 +76,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    The response to the CDC content offerings has been so strong that they now have 2,000 registered syndication partners taking advantage of the content storefront to help share CDC’s information with an even broader audience. The combination of shared audiences for the content and limited resources among other public health organizations is driving additional collaborations with CDC.
+    The response to the CDC content offerings has been so strong that they now have 2,000 registered syndication partners taking advantage of the content storefront to help share CDC’s  information with an even broader audience. The combination of shared audiences for the content and limited resources among other public health organizations is driving additional collaborations with CDC.
   </p>
   
   <h2>
@@ -84,7 +84,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </h2>
   
   <p>
-    One recent partnership where the sharing of content has gone even deeper than the storefront is CDC’s development of curated content sections for a Health and Wellness microsite for the YMCA. The framework of CDC’s structured content and APIs allows the development of a specific content package that can then be easily featured on the YMCA’s own website using only a few lines of code. This small snippet of code then allows the YMCA to share CDC’s content on their own branded site with their 2,700 affiliates and 20 million members.
+    One recent partnership where the sharing of content has gone even deeper than the storefront is CDC’s  development of curated content sections for a Health and Wellness microsite for the YMCA. The framework of CDC’s  structured content and APIs allows the development of a specific content package that can then be easily featured on the YMCA’s  own website using only a few lines of code. This small snippet of code then allows the YMCA to share CDC’s  content on their own branded site with their 2,700 affiliates and 20 million members.
   </p>
   
   <p>
@@ -96,7 +96,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    Stacey Thalken with CDC spotlighted the <a href="https://www.uchd.net/">Union County health professionals</a> (none of them Web or mobile savvy) and their success leveraging CDC’s content in order to provide the best content possible to their users with very few resources or technical expertise. I don’t think the benefits that these CDC and collective HHS content efforts provide local public health departments can be overstated. <strong>This is the power of adopting a structured content framework in a practical and tangible form that could even help save lives.</strong>
+    Stacey Thalken with CDC spotlighted the <a href="https://www.uchd.net/">Union County health professionals</a> (none of them Web or mobile savvy) and their success leveraging CDC’s  content in order to provide the best content possible to their users with very few resources or technical expertise. I don’t think the benefits that these CDC and collective HHS content efforts provide local public health departments can be overstated. <strong>This is the power of adopting a structured content framework in a practical and tangible form that could even help save lives.</strong>
   </p>
   
   <h2>
@@ -105,11 +105,11 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" %} 
   
   <p>
-    Another powerful aspect of the <a href="https://www.WHATEVER/2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="https://www.WHATEVER/2013/06/11/responsive-design/" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
+    Another powerful aspect of the <a href="https://www.WHATEVER/2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="https://www.WHATEVER/2013/06/11/responsive-design/" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s  architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
   </p>
   
   <p>
-    This was critical to the CDC’s development of their own <a href="https://www.WHATEVER/2014/08/20/top-5-reasons-to-use-government-wide-open-and-structured-content-models/" target="_blank">content model</a> based around their most common content type, which was questions and answers. By knowing their audience and their content, they determined that most of their users come to their site with specific health or disease-related questions and are looking for answers. CDC responded to this by developing a question and answer content model that then allowed for this content to be packaged in a variety of ways for various devices and channels.
+    This was critical to the CDC’s  development of their own <a href="https://www.WHATEVER/2014/08/20/top-5-reasons-to-use-government-wide-open-and-structured-content-models/" target="_blank">content model</a> based around their most common content type, which was questions and answers. By knowing their audience and their content, they determined that most of their users come to their site with specific health or disease-related questions and are looking for answers. CDC responded to this by developing a question and answer content model that then allowed for this content to be packaged in a variety of ways for various devices and channels.
   </p>
   
   <p>
@@ -132,7 +132,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </ul>
   
   <p>
-    This content model and the structured and open content that it facilitated allowed CDC to help users find answers to their questions wherever they were and on whatever device they were using. So whether the content is appearing on the CDC site or a local health agency’s site, the structured content allows various chunks of information to be assembled as needed depending on the device and the user’s needs.
+    This content model and the structured and open content that it facilitated allowed CDC to help users find answers to their questions wherever they were and on whatever device they were using. So whether the content is appearing on the CDC site or a local health agency’s  site, the structured content allows various chunks of information to be assembled as needed depending on the device and the user’s  needs.
   </p>
   
   <p>

@@ -54,4 +54,4 @@ A July 2014 [Forbes article](http://www.forbes.com/sites/symantec/2014/07/24/and
 
 ## Federal developer resources
 
-As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice](https://www.WHATEVER/communities/mobile/) is where agencies tackle mobile technology issues together.
+As more native apps are created by federal agencies, developers need to consider how their audience engages in the mobile world. DigitalGov’s  [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/) is full of helpful resources and case studies about mobile apps in the federal space, and the [Mobile Community of Practice](https://www.WHATEVER/communities/mobile/) is where agencies tackle mobile technology issues together.

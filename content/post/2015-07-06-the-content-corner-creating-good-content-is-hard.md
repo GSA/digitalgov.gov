@@ -21,7 +21,7 @@ Throughout my five-plus months so far on this blog, I have focused a great deal 
 
 I guess it was only a matter of time before content became more and more commoditized and monetized (and pick another -tized if you need), but [startup Article Bunny](http://mashable.com/2015/06/21/articlebunny-content-marketing/) is now claiming that it has the potential to be just as disruptive to content creation as Uber was to the taxi/car-for-hire industry.
 
-However, driving a car and even doing voice-over work (the first service launched by Article Bunny’s parent company and the inspiration) is not the same as generating quality content. As mentioned, copywriting and editing is a skillset that has been outsourced for years and years, but writing about a topic and editing are not the same.
+However, driving a car and even doing voice-over work (the first service launched by Article Bunny’s  parent company and the inspiration) is not the same as generating quality content. As mentioned, copywriting and editing is a skillset that has been outsourced for years and years, but writing about a topic and editing are not the same.
 
 The ability of this startup to recruit writers adept in a particular subject will be crucial. Despite all the various marketing concerns regarding SEO, keywords, and various algorithms, it always comes back to the content. Good content gets shared, establishes relationships, and generates trust. And good content comes from a strong knowledge of the subject.
 
@@ -38,7 +38,7 @@ Machines currently can’t provide another value that SMEs do, which is the abil
 
 As I have discussed here before, a machine is unable to express itself with any personality and therefore cannot write with a [unique voice](https://www.WHATEVER/2015/04/20/the-content-corner-finding-your-voice/). With blogging especially, but with all content in general, this personality and voice is what can help your content stand out in a flood of voices. Copyblogger in fact recommends that when all else fails to attract an audience, spice things up by being a [little weird or unique](http://www.copyblogger.com/confident-bloggers/).
 
-My personal computer’s behavior aside, I don’t think real scientists are close to creating a machine intelligence that can act weird or develop personality traits that make connections between the writer and reader of a piece of content.
+My personal computer’s  behavior aside, I don’t think real scientists are close to creating a machine intelligence that can act weird or develop personality traits that make connections between the writer and reader of a piece of content.
 
 One way that technology can be helpful is by providing a variety of online tools or apps (mostly free) to enhance or improve your writing. I’ve started experimenting with several with mixed results:
 
@@ -57,7 +57,7 @@ The well-known animal food company Purina recently launched a [site for new pupp
   * [10 Moments That Melt Your Heart as a Puppy Owner](https://puppyhood.com/articles/1400/10-moments-that-will-melt-your-heart-as-a-puppy-owner/1366)
   * [The Best Puppy Accounts to Follow on Instagram](https://puppyhood.com/articles/1444/how-to-prep-your-pup-when-youre-expecting/1366)
 
-Purina’s Puppyhood site has also been called “heavily branded,” coming off as one big ad instead of a trusted resource that in turn engenders positive audience perceptions of the Purina brand and hopefully leads to sales. In the public sector, we aren’t concerned with sales, but we are deeply concerned with building a relationship with our customers and providing positive interactions. The struggles that a large, 80+ year old company has experienced with this recent product launch shows the difficulty and importance of creating quality content.
+Purina’s  Puppyhood site has also been called “heavily branded,” coming off as one big ad instead of a trusted resource that in turn engenders positive audience perceptions of the Purina brand and hopefully leads to sales. In the public sector, we aren’t concerned with sales, but we are deeply concerned with building a relationship with our customers and providing positive interactions. The struggles that a large, 80+ year old company has experienced with this recent product launch shows the difficulty and importance of creating quality content.
 
 [Natalie Burg of Contently](https://natalieburg.contently.com/) sums it up nicely: “Put simply, helpful content is valuable content.” And the creation of helpful content is not an easy task, but it is a vital one that, in my opinion, can’t be handled lightly and can’t be outsourced to hired guns and certainly not robots. Content creation needs to be handled with expertise and passion and with a voice that resonates with the audience.
 

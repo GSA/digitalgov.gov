@@ -19,7 +19,7 @@ tag:
   - User Experience Community of Practice
 ---
 
-In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s employees.
+In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s  employees.
 
 Below are the before (58% task completion) and the after (90+% task completion) screenshots of _Inside the Board:_
 

@@ -28,7 +28,7 @@ If you’re e-filing, you can check your refund status within about 24 hours aft
 
 But checking the status of your refund isn’t all this app does.
 
-Need free tax preparation assistance? The IRS Volunteer Income Tax Assistance (VITA) and the Tax Counseling for the Elderly (TCE) Programs offer free tax help for taxpayers who qualify. Use the app to help you find a VITA or TCE site right near your home, complete with walking or driving directions using your smartphone’s navigation app.
+Need free tax preparation assistance? The IRS Volunteer Income Tax Assistance (VITA) and the Tax Counseling for the Elderly (TCE) Programs offer free tax help for taxpayers who qualify. Use the app to help you find a VITA or TCE site right near your home, complete with walking or driving directions using your smartphone’s  navigation app.
 
 Want helpful tax tips? Sign up through the app by submitting your email address.
 

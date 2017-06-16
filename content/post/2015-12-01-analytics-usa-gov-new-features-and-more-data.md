@@ -53,7 +53,7 @@ You can click on the page title, “<a href="http://www.uscis.gov/n-400" target=
 ## Expanded Downloadable Files
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/250-x-510-Download-the-Data-Screen-Shot-2015-11-25-at-12.29.jpg" alt="Download the Data provides links to various data files that are updated daily, and every minute." %}There’s a limit to how much data we can display on the page for you, so we have greatly expanded the downloadable data reports. We offer downloads of various types of data (some in CSV format and some in JSON) so that you can work with the data yourself!
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/250-x-510-Download-the-Data-Screen-Shot-2015-11-25-at-12.29.jpg" alt="Download the Data provides links to various data files that are updated daily, and every minute." %}There’s  a limit to how much data we can display on the page for you, so we have greatly expanded the downloadable data reports. We offer downloads of various types of data (some in CSV format and some in JSON) so that you can work with the data yourself!
 
 Previously, the downloadable files generally only contained the same data that was displayed on <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>. Now, some of the files include hundreds or even thousands of rows, where applicable. We have set lower limits on the larger datasets to remove the “long tail” effect. We list pages that have least 10 visitors on the page in real-time, and domains which have received at least 1,000 visits in 30 days.
 

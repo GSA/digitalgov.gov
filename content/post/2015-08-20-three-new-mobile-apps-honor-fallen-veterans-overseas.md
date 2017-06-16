@@ -41,7 +41,7 @@ The </span>[<span style="font-weight: 400">American Battle Monuments Commission<
       Take a cemetery tour in as little as one hour, or spend the entire day exploring the site
     </li>
     <li style="font-weight: 400">
-      Understand the U.S. military’s role in World War I or II
+      Understand the U.S. military’s  role in World War I or II
     </li>
     <li style="font-weight: 400">
       See a map of the cemetery, including key points of interest

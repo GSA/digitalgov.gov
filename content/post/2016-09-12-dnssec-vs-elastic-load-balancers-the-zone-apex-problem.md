@@ -75,13 +75,13 @@ Overall, the process looks like this:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-multi-tier-alias-and-dnssec-architecture.jpg" alt="A multi-tier alias and DNSSEC architecture flowchart." %}
 
-Side note: You can see the script that we wrote to request the AXFR from the master server and compare its contents to the current slave server zone file on [Github](https://gist.github.com/nickmarden/9092c99cf3e201510ca83455fc2d2dab). It’s quite simple, and relies on straightforward zone management features already built into the PowerDNS software. This script is no longer necessary, but was developed as a precaution against the possibility of a failed AXFR “emptying” the zone on the slave server. In the released version of PowerDNS 4.0.0, a standard zone slaving configuration has this protection enabled automatically.
+Side note: You can see the script that we wrote to request the AXFR from the master server and compare its contents to the current slave server zone file on [Github](https://gist.github.com/nickmarden/9092c99cf3e201510ca83455fc2d2dab). It’s  quite simple, and relies on straightforward zone management features already built into the PowerDNS software. This script is no longer necessary, but was developed as a precaution against the possibility of a failed AXFR “emptying” the zone on the slave server. In the released version of PowerDNS 4.0.0, a standard zone slaving configuration has this protection enabled automatically.
 
 ## But What About Wildcards?
 
 Earlier we talked about using wildcard DNS records to simplify the process of creating [customer-specific CNAMEs](https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/). You might have expected that to cause a problem with respect to DNSSEC and dynamic records. However, as it turns out, wildcard records don’t present the same problem to DNSSEC that ALIAS records present.
 
-Let’s take a closer look at what happened in our two-step zone updating process. First, the master server contains a wildcard ALIAS record that points customer sites to an ELB CNAME:
+Let’s  take a closer look at what happened in our two-step zone updating process. First, the master server contains a wildcard ALIAS record that points customer sites to an ELB CNAME:
 
 <tt>$ORIGIN search.usa.gov.<br /> *.sites.infr IN ALIAS usasearch-elb.ec2.aws.com</tt>
 
@@ -111,4 +111,4 @@ For DigitalGov Search agency customers with DNSSEC-signed zones of their own, th
   * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)
   * [Quality, Speed, and Lower Costs: Yes, You Can Have It All](https://www.WHATEVER/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/)
   * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection](https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/)
-  * [Let’s Encrypt those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
+  * [Let’s  Encrypt those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)

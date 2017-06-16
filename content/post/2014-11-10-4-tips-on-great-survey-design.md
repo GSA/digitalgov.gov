@@ -30,7 +30,7 @@ We spoke to Jean Fox, research psychologist at the Bureau of Labor Statistics (B
 
 **1. Beware “Homegrown” Surveys**
   
-Although it may be enticing to believe that you can cook up a simple “yes” or “no” survey in five minutes, it’s best to stick with tried and true formats. Without a survey that has been through rigorous testing to make sure that it’s not biased, you’ll have a hard time trusting your results. Are your results telling you something significant about the topic that you are testing or are they more the result of how you designed the survey? You’ll never know. It’s difficult to ask a good question and even more difficult to predict how a participant will interpret that question (here are some things to know before you design and test a survey).
+Although it may be enticing to believe that you can cook up a simple “yes” or “no” survey in five minutes, it’s  best to stick with tried and true formats. Without a survey that has been through rigorous testing to make sure that it’s  not biased, you’ll have a hard time trusting your results. Are your results telling you something significant about the topic that you are testing or are they more the result of how you designed the survey? You’ll never know. It’s  difficult to ask a good question and even more difficult to predict how a participant will interpret that question (here are some things to know before you design and test a survey).
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/590-x-105-survey-monkey-with-title.jpg" alt="590-x-105-survey-monkey-with-title" %}

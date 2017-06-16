@@ -26,7 +26,7 @@ In the sea of apps, users get choosey with which apps can take up space on their
 
 When ABMC was deciding how to pursue app development, their work consisted of User Experience Guidelines 2 and 4: follow user interface guidelines and government regulations from the beginning of development and test at multiple points in the process.
 
-Sarah Herrmann, Digital Communications Manager at ABMC, said ABMC’s mobile strategy is to provide a wireless tour guide experience for monuments located around the world. After thorough research and requirements writing, ABMC decided to develop mobile apps that would have static and consistently-functional content.
+Sarah Herrmann, Digital Communications Manager at ABMC, said ABMC’s  mobile strategy is to provide a wireless tour guide experience for monuments located around the world. After thorough research and requirements writing, ABMC decided to develop mobile apps that would have static and consistently-functional content.
 
 In the research phase, Herrmann phoned other agencies, read helpful [DigitalGov articles on mobile topics](https://www.WHATEVER/category/mobile/), and took a look at [Apple](https://developer.apple.com/) and [Android](http://developer.android.com/) development pages online for extra tips. Having requirements set up and written down early helped her team focus on the same goal.
 
@@ -34,7 +34,7 @@ Herrmann heavily supports the act of writing everything down. Even at the beginn
 
 Herrmann suggests developing a clear design model before coding starts. ABMC used wireframes before consulting developers. Coming from a small agency, Herrmann knew she would have to get creative with testing and retrieving feedback.
 
-Before the app’s release, ABMC asked the [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
+Before the app’s  release, ABMC asked the [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) to help organize mobile testing because there was a concern over having too much content for a mobile app. They created a small test-case, based around a representation of future users, which had really positive results.
 
 “Please, please, please think about your audience,” Herrmann explained in the webinar. The user&#8217;s end goal should always be in mind, and working with these user experience guidelines will help.
 

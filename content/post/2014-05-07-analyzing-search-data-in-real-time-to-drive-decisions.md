@@ -26,6 +26,6 @@ The dashboard-building capabilities surface trends not seen otherwise when burie
 
 The team is now able to make quick sense of massive amounts of data to make decisions about which features to develop and how they’re developed. They’re also using the dashboards to notify agency customers when a query is trending and, based on that, agencies can promote or create new content to answer searchers’ questions.
 
-What’s next? The team is working on putting these dashboards in the hands of customers so that they, too, can quickly make sense of their agency’s search data and make decisions to improve searchers’ experience on their sites.
+What’s  next? The team is working on putting these dashboards in the hands of customers so that they, too, can quickly make sense of their agency’s  search data and make decisions to improve searchers’ experience on their sites.
 
 Not a DigitalGov Search customer? [Sign up](https://www.WHATEVER/services/search/) and join the 1,500 government websites using the service to power their search box and improve customers’ search experience.

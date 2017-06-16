@@ -28,7 +28,7 @@ Now, not even one year later, the site has reached another milestone.
 
 On Monday, two agencies launched new challenges, bringing the total number of competitions on Challenge.gov across the 700 mark.
 
-The 700th challenge, [Start a SUD Startup](https://www.challenge.gov/challenge/100000-for-start-a-sud-startup/), comes from the National Institutes of Health’s National Institute on Drug Abuse (NIDA). The challenge looks to award biomedical scientists up to $100,000 to help transition their research ideas into viable business opportunities.
+The 700th challenge, [Start a SUD Startup](https://www.challenge.gov/challenge/100000-for-start-a-sud-startup/), comes from the National Institutes of Health’s  National Institute on Drug Abuse (NIDA). The challenge looks to award biomedical scientists up to $100,000 to help transition their research ideas into viable business opportunities.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-417-Screen-Shot-ChallengeGov-NIH-SUD-Startup-page.jpg" alt="Screen cpature of the Challenge.gov page for the NIH SUD Startup" %}

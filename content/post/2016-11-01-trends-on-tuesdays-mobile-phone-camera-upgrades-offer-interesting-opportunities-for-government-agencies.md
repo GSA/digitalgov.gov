@@ -33,7 +33,7 @@ When Google and Apple both announced their annual flagship phone upgrades this p
 </p>
 
 <p>
-  Besides the standard Instagram photos contests and content, government agencies allowing their constituencies to take photos of print documents to scan and digitize them could be one huge step forward, cutting down on paperwork and processing time. Anyone who’s experienced mobile check deposit can attest to how much of a game changer that is.
+  Besides the standard Instagram photos contests and content, government agencies allowing their constituencies to take photos of print documents to scan and digitize them could be one huge step forward, cutting down on paperwork and processing time. Anyone who’s  experienced mobile check deposit can attest to how much of a game changer that is.
 </p>
 
 <p>

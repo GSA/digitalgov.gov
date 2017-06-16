@@ -27,7 +27,7 @@ I spoke recently with the [User Experience Community of Practice](https://www.WH
 
 At BLS, we need different types of participants for different studies. Very often, we are looking for members of the general public. To find these participants, we have placed ads in newspapers and online ad services. Also, people who have enjoyed their experience with BLS studies have referred friends to us. Our list is now large enough that we can usually recruit participants from the list without further advertising.
 
-When we place ads, we find it is helpful to have a separate email account or phone number, so the recruiter’s individual account doesn’t fill up with responses. Also, we screen participants carefully to be sure they meet our testing needs.
+When we place ads, we find it is helpful to have a separate email account or phone number, so the recruiter’s  individual account doesn’t fill up with responses. Also, we screen participants carefully to be sure they meet our testing needs.
 
 Sometimes we are looking for more specific audiences, such as disabled respondents to help us evaluate survey questions on disability, or people switching careers who might use the information we have in our [Occupational Outlook Handbook](http://www.bls.gov/ooh/). In those cases, we might ask organizations that provide services for these groups to help us find participants.
 

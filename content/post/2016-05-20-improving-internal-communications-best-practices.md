@@ -27,7 +27,7 @@ Here are some tips to improve internal communications. Thank you to all the CX-C
 ## Intranet Site
 
   * Build a CX intranet site to give employees access to all the customer data available through your various systems, including: cycle time data, survey scores, communication materials and talking points for front line staff to customers.
-  * Regularly add new content to your CX intranet site. Flag new items for employees by highlighting CX info on your agency’s intranet homepage.
+  * Regularly add new content to your CX intranet site. Flag new items for employees by highlighting CX info on your agency’s  intranet homepage.
 
 ## Information Sharing
 

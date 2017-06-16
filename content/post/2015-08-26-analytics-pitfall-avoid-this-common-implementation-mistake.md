@@ -28,7 +28,7 @@ Take this example: If the subdomain for your search results pages is search.exam
 ## How, Exactly, Are Traffic Metrics Affected? 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Web-analytics-data-on-computer-monitor-Bigandt_Photography-iStock-Thinkstock-473443138.jpg" alt="Web analytics data on computer monitor" %} 
 
-When visits break across subdomains, it affects nearly all of your traffic data. In fact, all visit-level metrics become skewed in one way or another. Here are some examples from Google’s Universal Analytics (UA), which is the latest incarnation of Google Analytics and the software we happen to use at our agency:
+When visits break across subdomains, it affects nearly all of your traffic data. In fact, all visit-level metrics become skewed in one way or another. Here are some examples from Google’s  Universal Analytics (UA), which is the latest incarnation of Google Analytics and the software we happen to use at our agency:
 
   * **Visit (Session) Inflation**: Artificial visit counts are created every time a visitor navigates to a new subdomain or back to the primary domain. The more subdomains you have, the higher the potential inflation.
   * **Skewed Bounce Rate**: If a visit breaks after one pageview, such as when a visitor performs a search from your homepage and lands on search.example.gov, a false [bounce](https://support.google.com/analytics/answer/1009409?hl=en) is created. The more this scenario occurs, the more skewed your bounce rate becomes.

@@ -19,7 +19,7 @@ All of this data can help us make smart decisions that will ultimately provide o
 
 This month on DigitalGov, we’ll be highlighting a few ways we can stay afloat in the sea of data:
 
-  * Understanding how [metrics like “Time to First Byte” are key](https://www.WHATEVER/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/) to a user’s impression of your website
-  * Looking at how a [Performance Management team](https://www.WHATEVER/2015/09/24/setting-up-a-performance-measurement-team/) can help improve your agency’s products and services
+  * Understanding how [metrics like “Time to First Byte” are key](https://www.WHATEVER/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/) to a user’s  impression of your website
+  * Looking at how a [Performance Management team](https://www.WHATEVER/2015/09/24/setting-up-a-performance-measurement-team/) can help improve your agency’s  products and services
   * Paying attention to the [communication methods certain audiences prefer](https://www.WHATEVER/2015/09/15/are-videos-in-spanish-the-way-to-go/) and how it can help you better allocate resources
   * Knowing how [a filter can help you sort out the real](https://www.WHATEVER/2015/09/09/caution-your-web-analytics-might-not-be-human/) from the fake traffic

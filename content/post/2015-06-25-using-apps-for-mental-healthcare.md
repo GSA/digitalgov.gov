@@ -39,12 +39,12 @@ Cooper and his team view mobile as a 21st century way to provide high-quality, r
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-446-T2-National-Center-for-Telehealth-and-Technology-Virtual-Hope-Box.jpg" alt="Virtual Hope Box app menu screen" %}“We find something that is evidence-based, and we believe that there is no reason that it shouldn’t also be available on a mobile platform,” Cooper said. “For [Virtual Hope Box](http://t2health.dcoe.mil/apps/virtual-hope-box) [on [Android](https://play.google.com/store/apps/details?id=com.t2.vhb&hl=en) and [Apple](https://itunes.apple.com/us/app/virtual-hope-box/id825099621?mt=8)], we were inspired by physical hope boxes: boxes people filled with music, photos, etc. that help users cope with symptoms of depression. So we took that hope box idea and put it on a phone.”
 
-Cooper’s team does field testing and conducts patient and provider focus groups. For Virtual Hope Box, they learned that more patients would use the virtual version than a physical version.
+Cooper’s  team does field testing and conducts patient and provider focus groups. For Virtual Hope Box, they learned that more patients would use the virtual version than a physical version.
 
 The preferences and realities of healthcare providers are also considered in the app development process. A “prescription pad” with a list of all T2 mobile apps is one way that they have marketed the apps to providers.
 
-“We have to cater to both patients and providers: if I create something that isn’t going to fit in the provider’s workflow, they aren’t going to use it,” Cooper said.
+“We have to cater to both patients and providers: if I create something that isn’t going to fit in the provider’s  workflow, they aren’t going to use it,” Cooper said.
 
-_T2’s apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/).
+_T2’s  apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/).
   
 _

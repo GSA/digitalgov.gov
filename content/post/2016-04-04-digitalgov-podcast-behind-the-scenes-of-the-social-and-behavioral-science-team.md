@@ -27,7 +27,7 @@ These projects might seem widely different from one another: they span different
 
 The [Social and Behavioral Sciences Team](https://sbst.gov/) (SBST) uses theories, research, and methods from the social and behavioral sciences to address and solve challenges faced by the public. Team members come from a variety of backgrounds, including economics, psychology, and political science.
 
-SBST doesn’t test out random interventions. They use methods that have already been researched, tested and proven. In the case of the small farmers, SBST helped the Department of Agriculture (USDA) develop a new outreach letter that provided information about a microloan program as well as customized contact information for loan officers in the farmers’ area. The letters more than doubled the amount of microloan-related activity in USDA’s Farm Service Agency county offices.
+SBST doesn’t test out random interventions. They use methods that have already been researched, tested and proven. In the case of the small farmers, SBST helped the Department of Agriculture (USDA) develop a new outreach letter that provided information about a microloan program as well as customized contact information for loan officers in the farmers’ area. The letters more than doubled the amount of microloan-related activity in USDA’s  Farm Service Agency county offices.
 
 Members of the SBST team recently sat down with the DigitalGov team to talk more deeply about their work, including:
 

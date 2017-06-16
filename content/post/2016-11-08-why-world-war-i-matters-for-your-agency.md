@@ -3,7 +3,7 @@
 
 date: 2016-11-08 11:00:32 -0400
 title: 'Why World War I Matters for Your Agency'
-summary: 'I recently asked some friends&mdash;a group of intelligent, successful individuals&mdash;what they knew about World War I. The responses I received included, &ldquo;Ummm&hellip;..it was in the 1910s?&rdquo; or &ldquo;Started in Europe when the archduke was killed?&rdquo; Beyond this, it’smostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson&rsquo;s'
+summary: 'I recently asked some friends&mdash;a group of intelligent, successful individuals&mdash;what they knew about World War I. The responses I received included, &ldquo;Ummm&hellip;..it was in the 1910s?&rdquo; or &ldquo;Started in Europe when the archduke was killed?&rdquo; Beyond this, it’s mostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson&rsquo;s'
 authors: [sarah-herrmann]
 categories:
   - Content
@@ -16,12 +16,12 @@ tag:
   - social media
 ---
 
-I recently asked some friends—a group of intelligent, successful individuals—what they knew about World War I. The responses I received included, “Ummm…..it was in the 1910s?” or “Started in Europe when the archduke was killed?” Beyond this, it’s mostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson’s 14 Points, or the creation of the League of Nations, but for many Americans, World War I is a forgotten war. It happened thousands of miles away, unlike the battles of the Civil War, and It was too long ago for most Americans to have known a person that served, unlike veterans of World War II. 
+I recently asked some friends—a group of intelligent, successful individuals—what they knew about World War I. The responses I received included, “Ummm…..it was in the 1910s?” or “Started in Europe when the archduke was killed?” Beyond this, it’s  mostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson’s  14 Points, or the creation of the League of Nations, but for many Americans, World War I is a forgotten war. It happened thousands of miles away, unlike the battles of the Civil War, and It was too long ago for most Americans to have known a person that served, unlike veterans of World War II. 
 {% include image/full-width.html img="https://www.WHATEVER/files/2016/11/600-x-400-20150616\_wp\_meuseargonne\_ABMC\_0047.jpg" alt="Meuse-Argonne American Cemetery is the largest, overseas, American military cemetery from World War I. More than 14,000 Americans rest with these hallowed grounds." %} 
 
-Despite these inherent challenges, the role of World War I as part of our nation’s history needs to be communicated to the public. The decisions and actions carried out nearly a century ago still reverberate today in our country. And April 2017 will mark the 100th anniversary of the United States’ involvement in this global conflict. At the American Battle Monuments Commission (ABMC), where we manage eight overseas American military cemeteries from World War I, we’re preparing our stories now so we’re ready when the centennial begins. And now is the time for you to start thinking about how you can share your agency’s mission through the lens of this war.
+Despite these inherent challenges, the role of World War I as part of our nation’s  history needs to be communicated to the public. The decisions and actions carried out nearly a century ago still reverberate today in our country. And April 2017 will mark the 100th anniversary of the United States’ involvement in this global conflict. At the American Battle Monuments Commission (ABMC), where we manage eight overseas American military cemeteries from World War I, we’re preparing our stories now so we’re ready when the centennial begins. And now is the time for you to start thinking about how you can share your agency’s  mission through the lens of this war.
 
-Here’s a very brief timeline of World War I, or visit the [ABMC website for a more in-depth version](https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW1/index.html).
+Here’s  a very brief timeline of World War I, or visit the [ABMC website for a more in-depth version](https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW1/index.html).
 
 **June 1914:** Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, is assassinated.  Soon after, war breaks out in Europe.
 
@@ -55,7 +55,7 @@ World War I had a profound effect on many aspects of American society, including
 
 [**Commemoration and Memory:**](https://www.abmc.gov/news-events/news/women-and-world-war-i-commemoration-gold-star-mothers-and-widows-pilgrimages-1930#.WBjhv8mKEgU) Female relatives who had lost a son or husband referred to themselves as Gold Star mothers and widows, and created several national organizations for collective mourning and support.
 
-These are just a few examples of how World War I transformed the fabric of our nation. Reach out to your agency’s history office, and see how you can incorporate this war into your communication planning. Consider joining our WWI-focused social media group for resources, suggestions, or support for producing content. [Email me](mailto:herrmanns@abmc.gov?subject=Why World%20War%20I%20Matters%20for%20Your%20Agency) to join.
+These are just a few examples of how World War I transformed the fabric of our nation. Reach out to your agency’s  history office, and see how you can incorporate this war into your communication planning. Consider joining our WWI-focused social media group for resources, suggestions, or support for producing content. [Email me](mailto:herrmanns@abmc.gov?subject=Why World%20War%20I%20Matters%20for%20Your%20Agency) to join.
 
 &nbsp;
 

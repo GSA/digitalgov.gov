@@ -65,7 +65,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     </h2>
     
     <p>
-      You should review the following laws and regulations that protect the public’s privacy when interacting with government to ensure your contact center is compliant:
+      You should review the following laws and regulations that protect the public’s  privacy when interacting with government to ensure your contact center is compliant:
     </p>
     
     <ul>

@@ -27,7 +27,7 @@ We conducted the sessions in a Department of Labor computer lab, so each student
 
 During each session, we started out with a brief demo of the website, and then asked the students to explore the website on their own for 10 to 15 minutes. At the end of the session, we had a 5-minute discussion about their experiences, asking about what they liked and didn’t like, and what they thought we could improve.
 
-This approach combined elements of traditional usability testing and focus groups. The approach worked well, giving us a lot of feedback in a short amount of time. Here’s what we learned about the site from our evaluation:
+This approach combined elements of traditional usability testing and focus groups. The approach worked well, giving us a lot of feedback in a short amount of time. Here’s  what we learned about the site from our evaluation:
 
 ## Findings from the Games and Quizzes section
 

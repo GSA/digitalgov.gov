@@ -20,9 +20,9 @@ tag:
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" %}
 Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
 
-This means the site will work (to some degree) on that shiny new web-enabled gizmo sitting under your neighbor’s Christmas tree 4 years from now.
+This means the site will work (to some degree) on that shiny new web-enabled gizmo sitting under your neighbor’s  Christmas tree 4 years from now.
 
-  * Allows websites to reach more people (77% of the world’s population has a mobile device, 85% of phones sold in 2011 equipped with browser)
+  * Allows websites to reach more people (77% of the world’s  population has a mobile device, 85% of phones sold in 2011 equipped with browser)
   * Forces designers to focus on core content and functionality (What do you do when you lose 80% of your screen real estate?)
   * Lets designers innovate and take advantage of new technologies (geolocation, touch events and more)
 

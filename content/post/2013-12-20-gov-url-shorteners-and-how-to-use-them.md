@@ -3,7 +3,7 @@
 
 date: 2013-12-20 9:55:30 -0400
 title: 'Gov URL Shorteners and How to Use Them'
-summary: 'USA.gov offers two different types of URL shorteners &ndash; 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind. 1.USA.gov 1.USA.gov is powered by&nbsp;bitly.com&nbsp;and open to everyone. If you go to&nbsp;bitly.com&nbsp;and shorten a .gov'
+summary: 'USA.gov offers two different types of URL shorteners — 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind. 1.USA.gov 1.USA.gov is powered by&nbsp;bitly.com&nbsp;and open to everyone. If you go to&nbsp;bitly.com&nbsp;and shorten a .gov'
 authors: [michelle-chronister]
 categories:
   - Code
@@ -28,7 +28,7 @@ USA.gov offers two different types of URL shorteners – 1.USA.gov and Go.USA.go
 ## Go.USA.gov
 
 <p dir="ltr">
-  Go.USA.gov will turn .gov, .mil, .si.edu, .fed.us, .state.xx.us, and a few other government domains into short Go.USA.gov URLs. It’s a free service that’s only open to verifiable federal, state, and local government employees and you must register for an account.
+  Go.USA.gov will turn .gov, .mil, .si.edu, .fed.us, .state.xx.us, and a few other government domains into short Go.USA.gov URLs. It’s  a free service that’s  only open to verifiable federal, state, and local government employees and you must register for an account.
 </p>
 
 <p dir="ltr">
@@ -41,7 +41,7 @@ Go.USA.gov is open source, built using Drupal, and is maintained by GSA.
 
 ## Usability of Short URLs
 
-Most short URLs do not provide clues about their destination. That’s why we created USA.gov short URLs. We wanted users to click with confidence and know they will reach official government information.
+Most short URLs do not provide clues about their destination. That’s  why we created USA.gov short URLs. We wanted users to click with confidence and know they will reach official government information.
 
 <div>
   <p dir="ltr">
@@ -57,7 +57,7 @@ Most short URLs do not provide clues about their destination. That’s why we cr
   </p>
   
   <p dir="ltr">
-     With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="https://www.WHATEVER/services/usa-gov-short-urls/">Click here</a>” (It’s never a good idea to use “click here,” but that’s a story for another day.) It’s ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="https://www.WHATEVER/services/usa-gov-short-urls/">short URLs</a>.”
+     With that in mind, you should avoid using the short URL as the link title, such as “<a title="USA.gov Short URLs" href="https://www.WHATEVER/services/usa-gov-short-urls/">Click here</a>” (It’s  never a good idea to use “click here,” but that’s  a story for another day.) It’s  ok to use a short URL as the link when you use actual words as the link title, such as “Learn more about <a title="USA.gov Short URLs" href="https://www.WHATEVER/services/usa-gov-short-urls/">short URLs</a>.”
   </p>
   
   <p dir="ltr">
@@ -73,7 +73,7 @@ Most short URLs do not provide clues about their destination. That’s why we cr
   </p>
   
   <p dir="ltr">
-    Commercial search engines treat short URLs with 301 redirects just like any other link. The short URL’s destination page will receive the social promotion bump and other SEO data (such as anchor text and position on the page) will be passed on too.
+    Commercial search engines treat short URLs with 301 redirects just like any other link. The short URL’s  destination page will receive the social promotion bump and other SEO data (such as anchor text and position on the page) will be passed on too.
   </p>
   
   <p dir="ltr">

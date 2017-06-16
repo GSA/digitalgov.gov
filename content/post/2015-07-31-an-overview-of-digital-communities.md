@@ -3,7 +3,7 @@
 
 date: 2015-07-31 11:10:49 -0400
 title: 'An Overview of Digital Communities'
-summary: 'Digital communities of practice come in many stripes. DigitalGov communities span eight (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. In honor of this month’scommunities theme, we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.'
+summary: 'Digital communities of practice come in many stripes. DigitalGov communities span eight (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. In honor of this month’s communities theme, we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.'
 authors: [awichman]
 categories:
   - Communities
@@ -26,7 +26,7 @@ tag:
 
 Digital communities of practice come in many stripes. [DigitalGov communities span eight (and counting) focus areas](https://www.WHATEVER/communities/) and have thousands of members, but strong collaborations exist in all corners of government.
 
-In honor of [this month’s communities theme](https://www.WHATEVER/2015/07/07/wont-you-help-your-neighbor-communities-theme-month-on-digitalgov/), we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
+In honor of [this month’s  communities theme](https://www.WHATEVER/2015/07/07/wont-you-help-your-neighbor-communities-theme-month-on-digitalgov/), we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
 
 Here is a list of some communities working in the digital arena:
 

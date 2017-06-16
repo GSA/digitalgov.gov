@@ -21,7 +21,7 @@ That&#8217;s why we continually work to expose more and more query and click dat
 
 We recently upgraded our backend analytics framework to use the [Elasticsearch ELK stack](http://www.elasticsearch.org/overview/), which has allowed us to give our agency customers real-time, unfiltered search and click data. It has also allowed us to analyze and make sense of massive amounts of data in real-time. Using [Kibana dashboards](http://www.elasticsearch.org/overview/kibana/), we analyzed click-through rates (CTR) on search results across the 1,500 government websites that use [DigitalGov Search](http://search.WHATEVER/). We looked at the click data for October 2014.
 
-## Who’s on First?
+## Who’s  on First?
 
 Sixty percent of all searches resulted in a click on a organic Web result. Of these clicks, we found that 92% are on page 1 and 6% are on page 2. Clicks fall off precipitously after that with only 1% of clicks on pages 3 or 4 and 0.5% on page 5 and beyond.
 
@@ -42,7 +42,7 @@ Drilling down into page 1, nearly half of searchers that click on a result click
 
 These rates are in line with [click-through rates for Google organic search results](http://marketingland.com/new-click-rate-study-google-organic-results-102149).
 
-Give it a try. Search for something on your agency’s website. Don’t scroll. Look at the search results. Are the results that you’re seeing above the fold relevant? Try the same search from a mobile phone or tablet. Odds are you’re seeing even fewer results above the fold. Are they relevant?
+Give it a try. Search for something on your agency’s  website. Don’t scroll. Look at the search results. Are the results that you’re seeing above the fold relevant? Try the same search from a mobile phone or tablet. Odds are you’re seeing even fewer results above the fold. Are they relevant?
 
 ## Dig Deeper into the Data
 

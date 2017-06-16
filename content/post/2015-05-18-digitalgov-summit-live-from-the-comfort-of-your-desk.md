@@ -29,7 +29,7 @@ The DigitalGov platform helps federal agencies meet 21st century digital expecta
 ## Attending Virtually
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-167-Woman-with-Headphones-Working-at-Computer-Fuse-Thinkstock-78812233.jpg" alt="Woman with Headphones Working at Computer" %}For our Summit this Thursday, we have an amazing line up of speakers and [YOU can still sign-up to attend](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401). Over the years, we’ve received lots of feedback about hosting more virtual-live events so that we can include those who aren’t in DC. This year’s livestream will allow digital practitioners from around the country to join the Summit.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-167-Woman-with-Headphones-Working-at-Computer-Fuse-Thinkstock-78812233.jpg" alt="Woman with Headphones Working at Computer" %}For our Summit this Thursday, we have an amazing line up of speakers and [YOU can still sign-up to attend](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401). Over the years, we’ve received lots of feedback about hosting more virtual-live events so that we can include those who aren’t in DC. This year’s  livestream will allow digital practitioners from around the country to join the Summit.
 
 Live stream participants will also hear exclusive content:
 

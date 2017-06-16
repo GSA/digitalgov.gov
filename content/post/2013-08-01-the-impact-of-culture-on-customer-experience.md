@@ -3,7 +3,7 @@
 
 date: 2013-08-01 7:24:19 -0400
 title: 'The Impact of Culture on Customer Experience'
-summary: 'What&amp;#8217;s one of the most important factors in delivering a good customer experience? When I first began learning about customer experience, one of the biggest surprises was the importance of culture. Organizational culture can be defined as the values and behavior that contribute to the unique and psychological environment of an organization.It’sbased on shared'
+summary: 'What&amp;#8217;s one of the most important factors in delivering a good customer experience? When I first began learning about customer experience, one of the biggest surprises was the importance of culture. Organizational culture can be defined as the values and behavior that contribute to the unique and psychological environment of an organization.It’s based on shared'
 authors: [martha-dorris]
 categories:
   - Managing Digital
@@ -18,7 +18,7 @@ What&#8217;s one of the most important factors in delivering a good customer exp
 
 When I first began learning about customer experience, one of the biggest surprises was the importance of culture.
 
-> Organizational culture [can be defined](http://www.businessdictionary.com/definition/organizational-culture.html#ixzz2aA1R9Odt) as the values and behavior that contribute to the unique and psychological environment of an organization.It’s based on shared attitudes, beliefs, customs, and written and unwritten rules that have been developed over time and are considered valued.
+> Organizational culture [can be defined](http://www.businessdictionary.com/definition/organizational-culture.html#ixzz2aA1R9Odt) as the values and behavior that contribute to the unique and psychological environment of an organization.It’s  based on shared attitudes, beliefs, customs, and written and unwritten rules that have been developed over time and are considered valued.
 
 Organizational culture is unique to each organization and even unique within smaller groups in an organization.  It is one of the most difficult things to change.
 

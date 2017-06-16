@@ -3,7 +3,7 @@
 
 date: 2015-02-25 11:10:25 -0400
 title: 'Avoid Weak &lsquo;Links&rsquo; in Your Digital Chain'
-summary: 'Users don&rsquo;t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here’sa'
+summary: 'Users don&rsquo;t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here’s a'
 authors: [awichman]
 categories:
   - Content
@@ -34,7 +34,7 @@ Users don’t like surprises.
 
 Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an [article by Kara Pernice](http://www.nngroup.com/articles/link-promise/) of the Nielsen Norman Group.
 
-Here’s a real life example: If the link above led to an article about 3D printing, you’d probably be pretty annoyed right now. Using links properly is an easy step that yields real results.
+Here’s  a real life example: If the link above led to an article about 3D printing, you’d probably be pretty annoyed right now. Using links properly is an easy step that yields real results.
 
 ## Linking For Good SEO
 
@@ -44,7 +44,7 @@ Links affect the search engine optimization (SEO) of your website, and [SEO is i
 
 ## Linking for Good Readability
 
-Links also get attention. Pernice’s eye-tracking research showed that people scan content for elements that will help them achieve their purpose with the smallest amount of reading.
+Links also get attention. Pernice’s  eye-tracking research showed that people scan content for elements that will help them achieve their purpose with the smallest amount of reading.
 
 One element people look for is distinct text: when links are differentiated through bolding, underlining, or unique coloring, they catch users’ attention. In fact, research has found that many people don’t read the content surrounding links: they only look at the link itself.
 
@@ -69,15 +69,15 @@ Rubin emphasized that agencies should conduct [usability testing](https://www.WH
 
 ## Linking Tips
 
-Here is a list of tips your agency can use when adding links to your content. Linking tips were compiled from Pernice’s article as well as another Nielsen Norman Group article, [Writing Hyperlinks: Salient, Descriptive, Start with Keyword](http://www.nngroup.com/articles/writing-links/).
+Here is a list of tips your agency can use when adding links to your content. Linking tips were compiled from Pernice’s  article as well as another Nielsen Norman Group article, [Writing Hyperlinks: Salient, Descriptive, Start with Keyword](http://www.nngroup.com/articles/writing-links/).
 
   * Good links are **descriptive**. If you want to direct users to a page about [mobile trends among Hispanic millennials](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/), a link to the keyword “mobile” is too vague and requires users to read more text to understand the context.
   * Be **concise**. Accurately describe the page you are linking to, but don’t go overboard. (This is also a good [plain language](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/) tactic!)
   * Links should be in **contrast** to the background color and surrounding text. Users are looking for visual cues. The [Department of Labor](http://www.dol.gov/) offsets links in red, and when you hover over a link, the text becomes underlined and turns to blue.
   * **Fix** or remove broken links. Broken links frustrate users, undermine your credibility, and negatively impact your SEO.
   * Link when **necessary**, but don’t spam your readers by linking every word.
-  * Use **media format warnings** to indicate when a link will connect users to files (such as PDFs or Word documents). Media format warnings can be put in parentheses after the link: several of the links on [DigitalGov’s Resources page](https://www.WHATEVER/resources/) lead to documents, and we put the warning after the link and offset it with a different color. The amount of information in the media format warning can vary from website to website—at minimum, indicate the type of file the link leads to.
-  * Link to pages that contain **clear headings**. Users should immediately see that they have arrived at the correct page after clicking your link. Pernice pointed to the [U.S. Food and Drug Administration](http://www.fda.gov/)’s website as a good linking example. The carousel at the top of the homepage displays new articles. Pernice clicked on a carousel story titled [Three Encouraging Steps Toward New Antibiotics](http://blogs.fda.gov/fdavoice/index.php/2014/09/three-encouraging-steps-towards-new-antibiotics/). When that story was clicked, the page loaded with the correct, clearly labeled article about antibiotics.
+  * Use **media format warnings** to indicate when a link will connect users to files (such as PDFs or Word documents). Media format warnings can be put in parentheses after the link: several of the links on [DigitalGov’s  Resources page](https://www.WHATEVER/resources/) lead to documents, and we put the warning after the link and offset it with a different color. The amount of information in the media format warning can vary from website to website—at minimum, indicate the type of file the link leads to.
+  * Link to pages that contain **clear headings**. Users should immediately see that they have arrived at the correct page after clicking your link. Pernice pointed to the [U.S. Food and Drug Administration](http://www.fda.gov/)’s  website as a good linking example. The carousel at the top of the homepage displays new articles. Pernice clicked on a carousel story titled [Three Encouraging Steps Toward New Antibiotics](http://blogs.fda.gov/fdavoice/index.php/2014/09/three-encouraging-steps-towards-new-antibiotics/). When that story was clicked, the page loaded with the correct, clearly labeled article about antibiotics.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-372-FDA-carousel-and-page-side-by-side.jpg" alt="600-x-372-FDA-carousel-and-page-side-by-side" %}

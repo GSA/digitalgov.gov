@@ -28,9 +28,9 @@ The first neuroscience concept is **cognitive barriers**. Cognitive barriers can
 
 ## Cognitive Load
 
-The second neuroscience concept is understanding how the mobile app, website or data visualization affects your user’s cognitive resources. **Cognitive load** describes how much of the user’s working memory is required for a task or decision. You may have heard of the famous “7 plus or minus 2” theory, which explains people can only keep seven concepts at a time in their working memory.
+The second neuroscience concept is understanding how the mobile app, website or data visualization affects your user’s  cognitive resources. **Cognitive load** describes how much of the user’s  working memory is required for a task or decision. You may have heard of the famous “7 plus or minus 2” theory, which explains people can only keep seven concepts at a time in their working memory.
 
-This applies to UX when designing navigation for a website or mobile app. Presenting a long menu list on a mobile app can overtax a user’s cognitive load because the user needs mental resources to parse each menu item and then choose the appropriate item. Some UX designers try to lighten the cognitive load by presenting icons, but these can also be mentally taxing as users try to determine if the icon looks more like a bird or an ice-cream cone. Then, the user is left to wonder what kind of choice the bird icon represents.
+This applies to UX when designing navigation for a website or mobile app. Presenting a long menu list on a mobile app can overtax a user’s  cognitive load because the user needs mental resources to parse each menu item and then choose the appropriate item. Some UX designers try to lighten the cognitive load by presenting icons, but these can also be mentally taxing as users try to determine if the icon looks more like a bird or an ice-cream cone. Then, the user is left to wonder what kind of choice the bird icon represents.
 
 ## Elaboration Likelihood Model
 
@@ -55,4 +55,4 @@ Good UX design is essential to unlocking the value of federal government data. U
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

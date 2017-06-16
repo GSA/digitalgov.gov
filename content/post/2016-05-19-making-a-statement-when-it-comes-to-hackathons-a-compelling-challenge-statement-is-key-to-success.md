@@ -15,7 +15,7 @@ tag:
 As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Composite-image-of-winners-cup-on-enter-key-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497353503.jpg" alt="Composite image of winners cup on enter key" %} 
 
-Whether you are planning your own hackathon, or planning in a multi-government agency &#8220;mass collaboration&#8221; such as the [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-2016), it’s important to design citizen engagement events well.
+Whether you are planning your own hackathon, or planning in a multi-government agency &#8220;mass collaboration&#8221; such as the [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-2016), it’s  important to design citizen engagement events well.
 
 [**Side note:** Join us June 4 in cities around the nation for the National Day of Civic Hacking! Note the [registration form](https://cfa.typeform.com/to/TPDQuo) for those organizing their own event.]
 
@@ -28,8 +28,8 @@ A [problem statement](https://www.WHATEVER/2014/04/28/in-crowdsourcing-competiti
 
   * **Clarity:** The better the challenge statement, the better the product you’ll likely end up with at the hackathon. It should be clear, actionable and linked to impact.
   * **Involve stakeholders:** We often kick off our challenge development by holding a “big-think” meeting with key stakeholders. This isn’t necessarily to develop the challenges themselves, but to identify areas of interest for key topics. (A [recent webinar](https://www.youtube.com/watch?v=aOT9vzNY8sY&feature=youtu.be) covered the topic of problem definition workshops.)
-  * **Make it sticky:** The challenge should have a “sticky” title. I’m personally a fan of Dan and Chip Heath’s book “Made to Stick,” which talks about why some ideas survive and others die.
-  * **Concise communication:** Building on the above, it’s helpful to write a one-sentence tagline (or a short paragraph) for your challenge. Communication is key, and this will help you strike a chord with people who are viewing a lot of different opportunities.
+  * **Make it sticky:** The challenge should have a “sticky” title. I’m personally a fan of Dan and Chip Heath’s  book “Made to Stick,” which talks about why some ideas survive and others die.
+  * **Concise communication:** Building on the above, it’s  helpful to write a one-sentence tagline (or a short paragraph) for your challenge. Communication is key, and this will help you strike a chord with people who are viewing a lot of different opportunities.
   * **Context and background:** Every great challenge provides some context to what it is, why it&#8217;s important and why the solution matters. Is it a real need? Will the solution actually be used? Who is involved? Etc.
   * **Detailed challenge description:** Everything above is just the hook to get potential hackers and solvers to the description. This is where you describe the opportunity in detail.
   * **Vetted resources list (including data sources if applicable):** Developers know that a challenge statement without resources or data is not very compelling. Nobody, especially at a hackathon, wants to start from scratch. This is where you discuss your (well-documented) API or list out the previous projects already started that might help address this.

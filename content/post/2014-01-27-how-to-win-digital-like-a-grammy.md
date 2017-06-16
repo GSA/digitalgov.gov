@@ -22,4 +22,4 @@ Avinash has some other great tips:
   * Focus more resources on your own (vs. 3rd-party) platforms, so you stay in control of your customer interactions and experience.
   * Give to get &#8212; provide something of value to people first, before asking anything of them, so they want to build a positive relationship with you.
 
-If you haven’t read Avinash’s [Occam’s Razor blog](http://www.kaushik.net/avinash/), I highly recommend it.
+If you haven’t read Avinash’s  [Occam’s  Razor blog](http://www.kaushik.net/avinash/), I highly recommend it.

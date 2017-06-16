@@ -35,25 +35,25 @@ The National Institute of Standards and Technology joined forces with the NFL, U
 
 These heavy hitters all brought their own agendas to the [Head Health Challenge III](https://ninesights.ninesigma.com/web/head-health).
 
-That’s not necessarily a bad thing, says Heather Evans, senior program analyst in the National Institute of Standards and Technology (NIST) Program Coordination Office.
+That’s  not necessarily a bad thing, says Heather Evans, senior program analyst in the National Institute of Standards and Technology (NIST) Program Coordination Office.
 
-“Make sure you agree philosophically on what you and your partners are trying to get done,” Evans says. “At the same time, understand that your partners might have different needs. That’s OK.”
+“Make sure you agree philosophically on what you and your partners are trying to get done,” Evans says. “At the same time, understand that your partners might have different needs. That’s  OK.”
 
 You might call the challenge a win-win-win-win situation for the partnering organizations.
 
 NIST saw a need to expand its measurement capabilities in materials science of energy absorption systems. The agency was involved in the testing of participants’ submissions, which included a number of novel materials strategies that divert energy from a collision such as a shock-absorbent honeycomb material. Now, NIST is working with the winning teams to improve the materials they entered into the competition so they can compete for the $500,000 grand prize to be awarded at the end of 2016.
 
-“That’s why we did the partnership and the challenge,” Evans says.
+“That’s  why we did the partnership and the challenge,” Evans says.
 
-The Head Health Challenge represented a new type of partnership for NIST, but wherever possible, agencies should look to existing relationships when looking to form a challenge team, whether it’s with local, state or even foreign governments.
+The Head Health Challenge represented a new type of partnership for NIST, but wherever possible, agencies should look to existing relationships when looking to form a challenge team, whether it’s  with local, state or even foreign governments.
 
-HHS teamed up with the United Kingdom’s National Health Service for the [Obesity Data Challenge](https://ninesights.ninesigma.com/web/head-health). This partnership saw the spread of an idea across the pond as each organization ran separate, concurrent challenges to use open data in the fight against obesity.
+HHS teamed up with the United Kingdom’s  National Health Service for the [Obesity Data Challenge](https://ninesights.ninesigma.com/web/head-health). This partnership saw the spread of an idea across the pond as each organization ran separate, concurrent challenges to use open data in the fight against obesity.
 
-Many U.S. agencies run their challenge competitions under the legal authority of the America COMPETES Act. Partnerships are among the more useful activities under the COMPETES Act prize authority, even allowing pooling of public and private funds for challenges. In addition to international partnerships like the one exemplified by the Obesity Data Challenge, the law allows government to partner with industry (a la NIST’s Head Health Challenge) and charitable foundations.
+Many U.S. agencies run their challenge competitions under the legal authority of the America COMPETES Act. Partnerships are among the more useful activities under the COMPETES Act prize authority, even allowing pooling of public and private funds for challenges. In addition to international partnerships like the one exemplified by the Obesity Data Challenge, the law allows government to partner with industry (a la NIST’s  Head Health Challenge) and charitable foundations.
 
 The law is the law, though, and agencies should be thorough in how they apply it to their partnerships.
 
-“Every Agency attorney is going to interpret the COMPETES Act slightly differently and in the context of the Agency’s mission,” Patel says.
+“Every Agency attorney is going to interpret the COMPETES Act slightly differently and in the context of the Agency’s  mission,” Patel says.
 
 Working closely with your acquisitions and legal teams early—and often—will be essential to the success of any prize competition you design, partnership or not.
 

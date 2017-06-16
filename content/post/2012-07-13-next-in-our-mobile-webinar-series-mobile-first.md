@@ -3,7 +3,7 @@
 
 date: 2012-07-13 11:48:11 -0400
 title: 'Next in our Mobile Webinar Series\: Mobile First!'
-summary: 'You need resources, and we are here to help with an excellent new webinar series to jump start your agency’sdigital gov efforts. Do you think &amp;#8220;mobile first&amp;#8221;? A &amp;#8220;mobile first&amp;#8221; approach is where new websites and applications are designed for mobile devices first, instead of'
+summary: 'You need resources, and we are here to help with an excellent new webinar series to jump start your agency’s digital gov efforts. Do you think &amp;#8220;mobile first&amp;#8221;? A &amp;#8220;mobile first&amp;#8221; approach is where new websites and applications are designed for mobile devices first, instead of'
 authors: [jparcell]
 categories:
   - Mobile
@@ -17,7 +17,7 @@ tag:
 ---
 
 **{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/250-x-142-save-the-date-calendar.jpg" alt="Calendar with a date circled in red" %}
-**You need resources, and we are here to help with an excellent new webinar series to jump start your agency’s [digital gov](http://twitter.com/Digital_Gov) efforts.
+**You need resources, and we are here to help with an excellent new webinar series to jump start your agency’s  [digital gov](http://twitter.com/Digital_Gov) efforts.
 
 Do you think &#8220;mobile first&#8221;? A &#8220;mobile first&#8221; approach is where new websites and applications are designed for mobile devices first, instead of designed for the traditional desktop machines.
 

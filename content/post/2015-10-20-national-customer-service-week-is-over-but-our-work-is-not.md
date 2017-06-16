@@ -28,11 +28,11 @@ Get your customer personas right, and you will improve the customer experience (
 
 That&#8217;s advice [Rick Parrish](https://www.forrester.com/Rick%20Parrish) from [Forrester Research](https://www.forrester.com/home/) gave in response to an audience question during the September 29 [DigitalGov University webinar](https://www.youtube.com/watch?v=JFJg-8KwR9I) on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most difficult to serve, he explained.
 
-When you get into [personas](https://www.WHATEVER/2015/01/09/personas-101/), user stories, [customer journey maps](http://blogs.forrester.com/maxie_schmidt_subramanian/14-12-08-there_is_a_secret_to_better_cx_metrics_journey_mapping) and the like, it’s easy to go down the rabbit hole, Parrish said. Most organizations—even big companies—maintain 3-5 personas for their key customers.
+When you get into [personas](https://www.WHATEVER/2015/01/09/personas-101/), user stories, [customer journey maps](http://blogs.forrester.com/maxie_schmidt_subramanian/14-12-08-there_is_a_secret_to_better_cx_metrics_journey_mapping) and the like, it’s  easy to go down the rabbit hole, Parrish said. Most organizations—even big companies—maintain 3-5 personas for their key customers.
 
-When the United Services Automobile Association (USAA) developed the first mobile check deposit app, they were designing for a particular persona—a recently-commissioned officer going on a foreign deployment—and built the app to serve that persona’s needs. And it ended up working well for the rest of their customers, too.
+When the United Services Automobile Association (USAA) developed the first mobile check deposit app, they were designing for a particular persona—a recently-commissioned officer going on a foreign deployment—and built the app to serve that persona’s  needs. And it ended up working well for the rest of their customers, too.
 
-How detailed should personas be? There’s no one-size-fits-all answer because there’s no one-size-fits-all persona, Parrish said. He shared additional advice on persona development:
+How detailed should personas be? There’s  no one-size-fits-all answer because there’s  no one-size-fits-all persona, Parrish said. He shared additional advice on persona development:
 
   * Think about what kinds of projects you want to use them for, then make them detailed enough to be actionable for that purpose.
   * If you are using agile design methods to build a mobile app, you can get away with relatively lightweight personas and user stories. But if you are re-engineering an entire customer journey, then you’ll need greater scope and detail.
@@ -48,7 +48,7 @@ Given the recent [National Customer Service Week](http://www.csweek.com/customer
 
 **Question**: You mentioned that you have data that shows the importance of the emotional experience. Is that data available for us to share with our stakeholders?
 
-**Answer:** The data I referred to comes from [Forrester’s CX Index™](http://blogs.forrester.com/michael_gazala/15-10-06-forresters_customer_experience_index_q3_2015_its_hard_being_an_optimist)</span><span style="font-weight: 400">. You may have access to it if your agency is a Forrester client. I also blogged on the topic a few months ago </span>[<span style="font-weight: 400">right here</span>](http://blogs.forrester.com/rick_parrish/15-04-30-federal_agencies_must_focus_on_emotion_to_create_great_government_customer_experiences) <span style="font-weight: 400">where anyone can read it. One of the key points I made in the blog post was that </span><span style="font-weight: 400">organizations at the top of the CX Index elicit positive emotions about 20 times as often as orgs. at the bottom of the Index. The trend is similar for federal agencies—those that rank higher on the Index elicit positive emotions many times more often than agencies at the bottom.</p> 
+**Answer:** The data I referred to comes from [Forrester’s  CX Index™](http://blogs.forrester.com/michael_gazala/15-10-06-forresters_customer_experience_index_q3_2015_its_hard_being_an_optimist)</span><span style="font-weight: 400">. You may have access to it if your agency is a Forrester client. I also blogged on the topic a few months ago </span>[<span style="font-weight: 400">right here</span>](http://blogs.forrester.com/rick_parrish/15-04-30-federal_agencies_must_focus_on_emotion_to_create_great_government_customer_experiences) <span style="font-weight: 400">where anyone can read it. One of the key points I made in the blog post was that </span><span style="font-weight: 400">organizations at the top of the CX Index elicit positive emotions about 20 times as often as orgs. at the bottom of the Index. The trend is similar for federal agencies—those that rank higher on the Index elicit positive emotions many times more often than agencies at the bottom.</p> 
 
 <p>
   <strong>Question:</strong> How about Section 508 Coordinators? Is the CIO taking the lead as far as accessibility? Does the person who does 508 work with CX?
@@ -59,7 +59,7 @@ Given the recent [National Customer Service Week](http://www.csweek.com/customer
 </p>
 
 <p>
-  In fact, you may have some excellent ideas on how to improve the experience for all of your agency’s customers. After all, getting CX right for customers with bigger challenges often means better CX for everyone as a result. (That’s why you often design for the most challenging of your key personas. When you nail CX for them, you tend to make it better for everyone else, too.)
+  In fact, you may have some excellent ideas on how to improve the experience for all of your agency’s  customers. After all, getting CX right for customers with bigger challenges often means better CX for everyone as a result. (That’s  why you often design for the most challenging of your key personas. When you nail CX for them, you tend to make it better for everyone else, too.)
 </p>
 
 <p>
@@ -79,10 +79,10 @@ Given the recent [National Customer Service Week](http://www.csweek.com/customer
     <b>All 3 Es (Effectiveness, Ease, and Emotion). </b>This doesn’t need to be complicated when you are just starting out. Simply make sure customers can accomplish what they are trying to do, easily, and that they feel good about it.
   </li>
   <li>
-    <b>The customer’s perspective. </b>It’s so easy to accidentally measure your own internal perspective rather than the customers’. For instance, if your internal IT help desks have very fast trouble ticket closure rates, it’s easy to think that they are solving solving customers’ problems easily. And they may be—but that’s not what you’re measuring. You’re simply measuring how fast help desk employees can close tickets, not whether the customers’ problems were actually solved.
+    <b>The customer’s  perspective. </b>It’s  so easy to accidentally measure your own internal perspective rather than the customers’. For instance, if your internal IT help desks have very fast trouble ticket closure rates, it’s  easy to think that they are solving solving customers’ problems easily. And they may be—but that’s  not what you’re measuring. You’re simply measuring how fast help desk employees can close tickets, not whether the customers’ problems were actually solved.
   </li>
   <li>
-    <b><b>How your CX performance affects your mission success.</b> CX isn’t an end in itself—it has to help you accomplish your agency’s goals. So identify mission performance metrics that you can match up with CX performance measures. Then see how well units that score well on CX perform on mission metrics as compared to units that do not score well on CX. That way you’ll quickly identify which CX changes drive the biggest wins on your mission performance goals, and you’ll build hard data on the <a href="http://blogs.forrester.com/harley_manning/15-07-15-better_customer_experience_correlates_with_higher_revenue_growth_in_most_industries">ROI of CX investments</a>.</b>
+    <b><b>How your CX performance affects your mission success.</b> CX isn’t an end in itself—it has to help you accomplish your agency’s  goals. So identify mission performance metrics that you can match up with CX performance measures. Then see how well units that score well on CX perform on mission metrics as compared to units that do not score well on CX. That way you’ll quickly identify which CX changes drive the biggest wins on your mission performance goals, and you’ll build hard data on the <a href="http://blogs.forrester.com/harley_manning/15-07-15-better_customer_experience_correlates_with_higher_revenue_growth_in_most_industries">ROI of CX investments</a>.</b>
   </li>
 </ul>
 

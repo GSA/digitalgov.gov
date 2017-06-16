@@ -21,7 +21,7 @@ Data is one of the most important assets at NASA. We have data on comets, measur
 
 Consider, for example, our new REST API for the Astronomy Picture of the Day (APOD). The [APOD site](http://apod.nasa.gov/apod/astropix.html) is consistently one of the most popular sites for the entire federal government, with approximately 3.5 million views per month. (You can track federal website statistics at the [Digital Analytics Dashboard](https://analytics.usa.gov/), [built by 18F](https://github.com/GSA/analytics.usa.gov/graphs/contributors).) APOD is as popular as Justin Bieber. There are dozens of applications that could incorporate the APOD images, and we’re making it easier to work with the images. [Try it](https://api.data.gov/nasa/planetary/apod?concept_tags=True&date=2015-03-05&api_key=DEMO_KEY)! Build something! The [documentation is available](https://data.nasa.gov/developer/external/planetary/#apod). If you want to see something different—more features, less noise—submit an issue on [our Github repository](https://github.com/nasa/api-docs).
 
-Our list of API’s (available on [our developer page](https://data.nasa.gov/developer)) is growing everyday. Currently we have structured endpoints for Earth imagery, NASA patents, and gridded Earth temperature anomalies. We will continue to collect and document our APIs—the doorway to our data.
+Our list of API’s  (available on [our developer page](https://data.nasa.gov/developer)) is growing everyday. Currently we have structured endpoints for Earth imagery, NASA patents, and gridded Earth temperature anomalies. We will continue to collect and document our APIs—the doorway to our data.
 
 Stay tuned for api.nasa.gov!
 

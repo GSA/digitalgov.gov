@@ -3,7 +3,7 @@
 
 date: 2016-03-03 2:43:04 -0400
 title: 'How People Learn to Navigate Government Services'
-summary: 'This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’sperceptions of and interactions with the government. You can find the introduction to the series on our website and a complete pdf of the research findings on'
+summary: 'This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’s perceptions of and interactions with the government. You can find the introduction to the series on our website and a complete pdf of the research findings on'
 authors: [carolyn-dew, colin-macarthur, john-yuda]
 categories:
   - UX
@@ -11,14 +11,14 @@ tag:
   - 18F
 ---
 
-_This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’s perceptions of and interactions with the government. You can find the [introduction to the series](https://18f.gsa.gov/2016/03/01/what-we-learned-after-interviewing-people-about-their-interactions-with-the-federal-government/) on our website and a complete pdf of the [research findings](https://labs.usa.gov/#research-report) on a [new microsite](https://labs.usa.gov/) that details the themes the research team is investigating._
+_This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’s  perceptions of and interactions with the government. You can find the [introduction to the series](https://18f.gsa.gov/2016/03/01/what-we-learned-after-interviewing-people-about-their-interactions-with-the-federal-government/) on our website and a complete pdf of the [research findings](https://labs.usa.gov/#research-report) on a [new microsite](https://labs.usa.gov/) that details the themes the research team is investigating._
 
-_In yesterday’s post, we [shared the strategies](https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/) people use when interacting with the government. Today we’ll detail how people learn to navigate government services and what barriers exist to accessing services._
+_In yesterday’s  post, we [shared the strategies](https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/) people use when interacting with the government. Today we’ll detail how people learn to navigate government services and what barriers exist to accessing services._
 
 ## Learning how to navigate government services 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" %} 
 
-Whether they’re passively or actively seeking information, people rely on multiple sources to learn how to navigate government services or acquire benefits. A person’s primary source of information undoubtedly shapes their attitude about those interactions.
+Whether they’re passively or actively seeking information, people rely on multiple sources to learn how to navigate government services or acquire benefits. A person’s  primary source of information undoubtedly shapes their attitude about those interactions.
 
 Among people we interviewed, getting information from a family member or friend was the most common means of learning about government services. We observed that interviewees tended to trust the opinions of people they know who’d had similar experiences. For example, Danica R. in Minneapolis, after being injured in a car accident, learned from her mother and sister that she could apply for Social Security disability benefits. Her mother had previously applied, and her sister was then in the process of applying.
 
@@ -54,7 +54,7 @@ An infographic showing that people with low digital access depend on public reso
 
 A correlation exists between digital literacy and digital access. People who are able to afford good internet access at home and own multiple devices are also more likely to be digitally literate. These people have no technical issues connecting to online resources.
 
-Others may have a smartphone but no internet or computer at home. For these folks, responsive web design and intuitive interaction patterns are crucial; otherwise, they will avail themselves of offline channels, which are often more resource intensive for agencies. Often, people in this group rely on public computers (at libraries or senior centers, for instance) where they often cannot get assistance, so it’s especially important that online services be easy to use.
+Others may have a smartphone but no internet or computer at home. For these folks, responsive web design and intuitive interaction patterns are crucial; otherwise, they will avail themselves of offline channels, which are often more resource intensive for agencies. Often, people in this group rely on public computers (at libraries or senior centers, for instance) where they often cannot get assistance, so it’s  especially important that online services be easy to use.
 
 People without access to any devices or the internet are also the least likely to be digitally literate, and vice versa. They may use public resources to go online, but if they do use the internet, they are more likely to do so recreationally. This group is the most likely to seek government services through offline channels such as call centers, mail, or visits to an agency office.
 

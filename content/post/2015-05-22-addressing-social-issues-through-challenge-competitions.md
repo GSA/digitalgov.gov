@@ -24,20 +24,20 @@ The competition aims to encourage research and innovation in affordable housing,
 
 Through the experience of responding to a real world affordable housing issue, interacting with residents of public housing, and putting together professional proposals that take planning, architecture, and resident needs into account, a new cadre of affordable housing advocates is created.
 
-Katherine O’Regan, Assistant Secretary for Policy Development and Research, touched on the broader goal of the challenge when announcing this year’s winners: “these bright minds represent the next generation of designers and planners who will produce tomorrow’s affordable housing. It’s our hope that this competition will excite new creative thinking about how to look at affordable housing.&#8221;
+Katherine O’Regan, Assistant Secretary for Policy Development and Research, touched on the broader goal of the challenge when announcing this year’s  winners: “these bright minds represent the next generation of designers and planners who will produce tomorrow’s  affordable housing. It’s  our hope that this competition will excite new creative thinking about how to look at affordable housing.&#8221;
 
 ## Many Disciplines, One Goal
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/2015\_IAH\_Logo_Final.jpg" alt="Innovation in Affordable Housing Student Design and Planning Competition logo." %}PD&R first launched the competition in early 2014 and challenged multidisciplinary teams of students to respond to a real world issue involving design, planning, finance, and large community elements. The [2014 competition](http://www.huduser.org/portal/challenge/past_competitions.html) centered on veteran&#8217;s housing and was so successful that PD&R renewed the competition for an additional five years.
 
-This year’s focus on senior housing provided another topic that is extremely relevant in the area of affordable housing and is only growing in importance. The students may not have been exposed to the issue of senior housing without the competition, which provided an opportunity to really examine the issue and the current research around it.
+This year’s  focus on senior housing provided another topic that is extremely relevant in the area of affordable housing and is only growing in importance. The students may not have been exposed to the issue of senior housing without the competition, which provided an opportunity to really examine the issue and the current research around it.
 
 ## The Competition Process
 
 The competition runs in two phases. In the first phase, student teams submit initial proposals which including digital design boards and a brief narrative. A group of five jurors, selected by HUD for their expertise in the areas of architecture, planning, community development and affordable housing, reviews the proposals and chooses four finalist teams. The finalists are then invited to participate in a site visit so they can view the redevelopment site firsthand, walk the grounds, and talk to stakeholders and residents of the community.
 
-This year’s finalist teams represented the University of Kansas, the University of Minnesota, New York University (UCLA), and the University of California at Los Angeles (UCLA). The finalists traveled to Houma, Louisiana, to visit Bayou Towers, an 11 story, 300 unit high-rise for seniors operated by the Houma-Terrebonne Housing Authority. The [site visit](http://www.huduser.org/portal/pdredge/pdr_edge_featd_article_040615.html) provided a wonderful opportunity for the students to see the site, talk to residents of Bayou Towers, and gain an understanding of the larger community of Houma and the goals of the Houma-Terrebonne Housing Authority.
+This year’s  finalist teams represented the University of Kansas, the University of Minnesota, New York University (UCLA), and the University of California at Los Angeles (UCLA). The finalists traveled to Houma, Louisiana, to visit Bayou Towers, an 11 story, 300 unit high-rise for seniors operated by the Houma-Terrebonne Housing Authority. The [site visit](http://www.huduser.org/portal/pdredge/pdr_edge_featd_article_040615.html) provided a wonderful opportunity for the students to see the site, talk to residents of Bayou Towers, and gain an understanding of the larger community of Houma and the goals of the Houma-Terrebonne Housing Authority.
 
 ## The Winners
 

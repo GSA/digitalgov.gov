@@ -2,7 +2,7 @@
 
 
 date: 2015-06-19 11:00:33 -0400
-title: 'Real Internationalization Isn&rsquo;t Just Geographic\: It’sLinguistic'
+title: 'Real Internationalization Isn&rsquo;t Just Geographic\: It’s Linguistic'
 summary: 'Twenty years ago, the chances of watching an NBA game with commentary in a language other than English were small. Today, the NBA transmits games in 47 languages to 215 countries across the world. This is a perfect example of how organizations have evolved over time to meet the demands of their audiences. Evidence like'
 authors: [lmartinez, jessica-milcetich, victoria-wales, edgardo-morales]
 categories:
@@ -47,7 +47,7 @@ From the USA.gov account, most messages will be in English but we will retweet m
 
 ## More than a Translation
 
-Communicating in English through a Spanish channel goes beyond a simple translation. It’s about creating messages for a [specific target audience](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/). Much like you consider audiences made up of mothers under 40 or men over 50 when you are drafting content, you should consider the [Hispanic millennial as a target audience](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/). This audience benefits from English messages through Spanish channels. 
+Communicating in English through a Spanish channel goes beyond a simple translation. It’s  about creating messages for a [specific target audience](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/). Much like you consider audiences made up of mothers under 40 or men over 50 when you are drafting content, you should consider the [Hispanic millennial as a target audience](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/). This audience benefits from English messages through Spanish channels. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" %} 
 
 In the public sector, some Spanish-language accounts, such as [HHS Latino](https://twitter.com/hhslatino) and [La Casa Blanca](https://twitter.com/lacasablanca), occasionally post content in English. This “Spanglish” approach is a powerful way to attract a growing audience that moves in between two languages and cultures. This audience might consume information mostly in English, but often they share information in Spanish with friends and family members.

@@ -19,7 +19,7 @@ tag:
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model image" %}</a>
 </p>
 
-Customer experience&#8211;referred to in the industry as &#8220;CX&#8221;&#8211;is more than just a product.  It’s about the perception your customer has every time they interact with your office, your agency or any product within your organization.  Each time they interact with your website, contact your call center or any other channel, the perception of and trust they have in your organization and agency is impacted.
+Customer experience&#8211;referred to in the industry as &#8220;CX&#8221;&#8211;is more than just a product.  It’s  about the perception your customer has every time they interact with your office, your agency or any product within your organization.  Each time they interact with your website, contact your call center or any other channel, the perception of and trust they have in your organization and agency is impacted.
 
 In my office, the Office of Citizen Services and Innovative Technologies at GSA, we launched an initiative to improve our customers’ experience.  While we&#8217;re in the infancy of our CX program, our hope is to share our journey to help other agencies take the leap.
 

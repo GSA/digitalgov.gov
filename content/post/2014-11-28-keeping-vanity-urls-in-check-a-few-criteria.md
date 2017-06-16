@@ -51,11 +51,11 @@ Changes of URL for sites on Inside NIAID are determined on a case-by-case basis,
   * Affects all of NIAID, regardless of specific job responsibilities
   * Intended for use as a part of a substantial print campaign
 
-Alice Litsinger, Supervisory Digital Information Specialist at NIAID, acknowledges that it’s hard to define good criteria and long-term management around this topic.
+Alice Litsinger, Supervisory Digital Information Specialist at NIAID, acknowledges that it’s  hard to define good criteria and long-term management around this topic.
 
 ## GSA&#8217;s Shortcut Guidance
 
-In GSA’s Enterprise Web Management Office they refer to these requests as shortcuts, as they consider vanity URLs at the “top level” domain, according to Mark Kaprow. Their guidance around shortcut approvals are:
+In GSA’s  Enterprise Web Management Office they refer to these requests as shortcuts, as they consider vanity URLs at the “top level” domain, according to Mark Kaprow. Their guidance around shortcut approvals are:
 
   * Shortcuts should be created in lowercase letters and generally contain less than three continuous words.
   * Shortcuts may not include special characters or underscores, unless those that contain upper letters or special characters are legacy exception shortcuts

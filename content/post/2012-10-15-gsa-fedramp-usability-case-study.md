@@ -37,7 +37,7 @@ The description of the program on the homepage does not explain its activity in 
 
 ## Solution 2: Add Navigation Buttons in Plain Language
 
-The addition of three large buttons below the banner, aimed at particular audiences, makes navigation significantly easier for those groups and further defines FedRAMP’s activities for users.
+The addition of three large buttons below the banner, aimed at particular audiences, makes navigation significantly easier for those groups and further defines FedRAMP’s  activities for users.
 
 ## Problem 3: No Clear Starting Point
 

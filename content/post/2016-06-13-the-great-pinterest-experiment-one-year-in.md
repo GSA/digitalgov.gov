@@ -27,7 +27,7 @@ The Marketing Team set out to learn more about our audiences and the kind of con
 
 ## A year in…
 
-Twelve months later, our metrics are up and we correctly calculated that a shift to educational content would be key. However, Pinterest is still a challenge to predict. Unlike Twitter and Facebook, it’s difficult to identify trends. Despite all that, we have seen substantial growth in followers and content consumption, even taking into account our ambitious goals.
+Twelve months later, our metrics are up and we correctly calculated that a shift to educational content would be key. However, Pinterest is still a challenge to predict. Unlike Twitter and Facebook, it’s  difficult to identify trends. Despite all that, we have seen substantial growth in followers and content consumption, even taking into account our ambitious goals.
 
   * ### Average Daily Impressions on Profile
     
@@ -56,7 +56,7 @@ Twelve months later, our metrics are up and we correctly calculated that a shift
 
 ## Lessons learned
 
-Perhaps the biggest lesson came from one of our early predictions. Like with other Kids.gov social media accounts, summer is the low season. Fewer teachers look for educational resources when there’s no school. By adapting our content by season, we were able to provide timely information to our followers. During summer break when kids were off from school, we focused on parents and caretakers. Once the fall arrived, we switched back to educational content for schools and teachers. This strategy was key to our success. Here are a few other things we picked up along the way:
+Perhaps the biggest lesson came from one of our early predictions. Like with other Kids.gov social media accounts, summer is the low season. Fewer teachers look for educational resources when there’s  no school. By adapting our content by season, we were able to provide timely information to our followers. During summer break when kids were off from school, we focused on parents and caretakers. Once the fall arrived, we switched back to educational content for schools and teachers. This strategy was key to our success. Here are a few other things we picked up along the way:
 
   * Unlike other platforms all the action takes place at night, peaking around 9 PM.
   * Our primary audience (teachers) takes the summer off.

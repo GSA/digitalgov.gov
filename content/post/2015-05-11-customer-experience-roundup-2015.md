@@ -24,9 +24,9 @@ This month, our round up focuses on customer experience (CX). As I was rounding 
 
 ## Predictions and Trends
 
-Martha Dorris, Director of the Office of Strategic Programs in the Information Technology Service (ITS), and former Director of the Office of Innovative Technologies at GSA, wrote [15 Government Customer Services Trends for 2015](https://www.WHATEVER/2015/01/12/15-government-customer-service-trends-for-2015/ "15 Government Customer Service Trends for 2015") with some predictions about what will happen this year in the CX arena. Let’s see if her predictions come true.
+Martha Dorris, Director of the Office of Strategic Programs in the Information Technology Service (ITS), and former Director of the Office of Innovative Technologies at GSA, wrote [15 Government Customer Services Trends for 2015](https://www.WHATEVER/2015/01/12/15-government-customer-service-trends-for-2015/ "15 Government Customer Service Trends for 2015") with some predictions about what will happen this year in the CX arena. Let’s  see if her predictions come true.
 
-We also recently had Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank write [Will 2016 be the Federal Government’s ‘Year of the Customer?’](https://www.WHATEVER/2014/12/01/will-2016-be-the-federal-governments-year-of-the-customer/ "Will 2016 Be the Federal Government’s ‘Year of the Customer?’") Stephanie takes a look at 5 reasons why if 2014 was the year of planting seeds—and if this will be the year of germination and nurturing—then we can look to 2016 as the year in which agencies’ CX efforts may begin to truly bear fruit.
+We also recently had Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank write [Will 2016 be the Federal Government’s  ‘Year of the Customer?’](https://www.WHATEVER/2014/12/01/will-2016-be-the-federal-governments-year-of-the-customer/ "Will 2016 Be the Federal Government’s  ‘Year of the Customer?’") Stephanie takes a look at 5 reasons why if 2014 was the year of planting seeds—and if this will be the year of germination and nurturing—then we can look to 2016 as the year in which agencies’ CX efforts may begin to truly bear fruit.
 
 ## Successful CX Programs
 
@@ -50,6 +50,6 @@ We’ve also had several other articles on personas including:
 
 ## Events
 
-In March, we hosted Dr. Cynthia Baur from the Centers for Disease Control and Prevention to explain the tool she and her colleagues built to bring [science-based clear communication criteria to public communication products](https://www.youtube.com/watch?v=HdHAAaCNirk&feature=youtube_gdata). She showed how they’ve used the criteria to improve audiences’ understanding of the agency’s information and improve their customer&#8217;s experience.
+In March, we hosted Dr. Cynthia Baur from the Centers for Disease Control and Prevention to explain the tool she and her colleagues built to bring [science-based clear communication criteria to public communication products](https://www.youtube.com/watch?v=HdHAAaCNirk&feature=youtube_gdata). She showed how they’ve used the criteria to improve audiences’ understanding of the agency’s  information and improve their customer&#8217;s experience.
 
 GSA is organizing a CX Community of Practice and we are working closely with them to coordinate ongoing training in this topic area and will host a kick-off event in June so stay tuned! [Request to join the CX community](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) or [email Rachel Flagg](mailto:%20Rachel.Flagg@gsa.gov)

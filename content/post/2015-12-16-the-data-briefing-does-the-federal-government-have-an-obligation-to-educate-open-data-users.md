@@ -90,4 +90,4 @@ _Answers to the pop quiz: 1.B; 2. B; 3. D_.
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

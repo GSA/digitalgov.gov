@@ -24,7 +24,7 @@ A few weeks ago, the State Department held its first conference dedicated to use
 
 In the [first post of this series](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), I covered what stakeholder interviews are, why they’re valuable, and how to prepare for them. In this second post, I’ll cover how to actually run the interviews as well as some tips for synthesizing and socializing what you learn.
 
-Cool? Let’s dive right in.
+Cool? Let’s  dive right in.
 
 ## Running the interviews {#running-the-interviews}
 
@@ -35,10 +35,10 @@ On the day before your interviews, double check that you’ve got everything you
   * A print out of your questions (for reference).
   * An informed consent and recording release document that uses [plain language](https://pages.18f.gov/content-guide/plain-language/) to describe how you plan to use the information you’ll collect (and how the agency maintains the information).
   * An audio recording setup like those that come standard on most laptops and phones.
-  * A video camera setup (I use my phone’s camera).
+  * A video camera setup (I use my phone’s  camera).
   * A notepad and a pen.
 
-Note that the list above calls for not only a notepad, but also a voice recorder and a camera. This might sound like wearing both a belt and suspenders, but it’s an intentional choice; stakeholder interviews present the opportunity to capture a bunch of information above and beyond direct responses. Capitalize on this opportunity. Any information you collect provides a more accurate representation of the people behind the interviews. (In the spirit of belts and suspenders, though, do test your recording setup before the interviews take place!)
+Note that the list above calls for not only a notepad, but also a voice recorder and a camera. This might sound like wearing both a belt and suspenders, but it’s  an intentional choice; stakeholder interviews present the opportunity to capture a bunch of information above and beyond direct responses. Capitalize on this opportunity. Any information you collect provides a more accurate representation of the people behind the interviews. (In the spirit of belts and suspenders, though, do test your recording setup before the interviews take place!)
 
 Some researchers also like to share their documents — both their informed consent and their list of questions — with stakeholders a day or two before the interview. I personally don’t share the list of questions first so that I can get more spontaneous responses.
 
@@ -50,7 +50,7 @@ As you travel to your interviews, give yourself time to mentally prepare for the
 
 > In the same way that interviews are not the same as everyday conversations, the time we spend with research participants is separate from the time we spend doing our “regular jobby stuff.” Transition rituals help interviewers switch contexts, providing a more objective interview.
 > 
-> For me, this sometimes means assembling the materials and equipment, checking that I have the documents, etc. That’s sufficient. For someone else, they might want to remind themselves that what they are about to do is focus on the participant. That also has the benefit of reminding them to let go of the stuff-at-the-office: the report they have to give, the meetings they’re missing, etc.
+> For me, this sometimes means assembling the materials and equipment, checking that I have the documents, etc. That’s  sufficient. For someone else, they might want to remind themselves that what they are about to do is focus on the participant. That also has the benefit of reminding them to let go of the stuff-at-the-office: the report they have to give, the meetings they’re missing, etc.
 
 Transition rituals help clear your head and get you in a frame of mind where you can practice humble inquiry and active listening — both are essential skills for a successful interview.
 
@@ -60,7 +60,7 @@ Transition rituals help clear your head and get you in a frame of mind where you
 
   1. Thank people for their time.
   2. Explain the purpose of your research — to better understand the problem(s) you&#8217;re trying to solve — and the scope of your work.
-  3. Obtain the participant’s signature on your informed consent and recording release, then turn on your recording device and ask for permission (on the record) to record.
+  3. Obtain the participant’s  signature on your informed consent and recording release, then turn on your recording device and ask for permission (on the record) to record.
   4. Remind stakeholders that participation in this usability study is voluntary, and that they should feel free to raise any concerns or areas of discomfort during the session. Let them know that you can stop or pause the recording at any time. If you’re going to transcribe the interview — which I try do for every interview I conduct; more on this below — let your interviewee know that they’ll get a chance to review the transcript before you share it with the project team.
   5. Ask stakeholders to talk about themselves. Ask your stakeholder how they got involved in the thing you’re studying.
   6. Look people in the eye and give positive affirmations. Lean forward. Say things like &#8220;Wow,&#8221; or &#8220;Oh, interesting!&#8221; (when those reactions genuinely occur to you, of course).
@@ -72,7 +72,7 @@ Transition rituals help clear your head and get you in a frame of mind where you
 
 ## Synthesize and socialize {#synthesize-and-socialize}
 
-The hard part’s done! Yay! Now what?
+The hard part’s  done! Yay! Now what?
 
 Recall that the goals of this work are to raise important questions, surface constraints, build trust, and drive alignment. While the very act of conducting interviews gets you halfway there, interviews alone are not enough.
 
@@ -80,13 +80,13 @@ In order to really reap the benefits of stakeholder interviews, you’ll need to
 
 In the world of user-centered design, transcribed interviews are one of the closest things you can get to &#8220;primary source&#8221; documents; they’re authentic accounts of the actual experiences you’re working to improve. Transcribed interviews are also really useful for sharing back with stakeholders. Everyone loves to read things that they said — they might regret it, or they might be proud of it, but they definitely want to read it. Further, sharing transcripts back with stakeholders builds trust by showing that you&#8217;ve actually listened to them, that you respect their ability to speak for themselves, and that their feedback will been taken into account and shared more broadly. What&#8217;s more, stakeholders usually add information after the fact!
 
-As each stakeholder edits and amends their respective transcript, share that transcript with your team. I personally prefer to do this in little chunks so as to prompt more focused conversations. After your team has had a chance to emotionally process the interviews, hold a meeting to derive each stakeholder’s goals, behaviors, and pain points (based on what they said and what you’ve observed). Finally, consider holding a team meeting to compare what stakeholders said vs. your original assumptions about them (the “what,” “how,” and “why,” identified in [part 1](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/)).
+As each stakeholder edits and amends their respective transcript, share that transcript with your team. I personally prefer to do this in little chunks so as to prompt more focused conversations. After your team has had a chance to emotionally process the interviews, hold a meeting to derive each stakeholder’s  goals, behaviors, and pain points (based on what they said and what you’ve observed). Finally, consider holding a team meeting to compare what stakeholders said vs. your original assumptions about them (the “what,” “how,” and “why,” identified in [part 1](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/)).
 
 ### Next steps {#next-steps}
 
 Stakeholder interviews, their application as well as their synthesis, can vary wildly depending on the circumstances surrounding the projects to which they’re applied.
 
-I’ve conducted stakeholder interviews on all of my projects over my past year at 18F, and each of them has resulted in a different kind of synthesis. On smaller projects I’ve gone straight to prototyping. On our recent [onboarding sprint](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/), Melody Kramer and I quickly realized that everyone had a slightly different understanding of the problem we were trying to solve — so we facilitated a collaborative [journey mapping](https://methods.18f.gov/decide/journey-mapping/) session. On 18F’s practice team, successive rounds of stakeholder interviews led to further research. After a lively internal debate, our team conducted a [design studio](https://methods.18f.gov/discover/design-studio/).
+I’ve conducted stakeholder interviews on all of my projects over my past year at 18F, and each of them has resulted in a different kind of synthesis. On smaller projects I’ve gone straight to prototyping. On our recent [onboarding sprint](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/), Melody Kramer and I quickly realized that everyone had a slightly different understanding of the problem we were trying to solve — so we facilitated a collaborative [journey mapping](https://methods.18f.gov/decide/journey-mapping/) session. On 18F’s  practice team, successive rounds of stakeholder interviews led to further research. After a lively internal debate, our team conducted a [design studio](https://methods.18f.gov/discover/design-studio/).
 
 Many teams are so anxious to get things started that they blow right past stakeholder interviews and rush to a kickoff meeting where everyone has a different understanding of the problem being solved. Don’t do this. Not only does this risk disenfranchising stakeholders, it also runs the risk of reinscribing the same patterns that led to the need for the project in the first place. Stakeholder interviews provide us with an opportunity to do things differently.
 
@@ -105,6 +105,6 @@ _These resources provided information for this series. This list does not repres
 
 ##### Video {#video}
 
-  * [Anna Sale’s advice to interviewers](https://youtu.be/oi5ufy3RguM?t=45m28s) on YouTube
+  * [Anna Sale’s  advice to interviewers](https://youtu.be/oi5ufy3RguM?t=45m28s) on YouTube
 
 _This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

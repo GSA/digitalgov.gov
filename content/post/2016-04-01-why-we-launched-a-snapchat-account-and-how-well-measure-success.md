@@ -34,7 +34,7 @@ Snapchat provides some very basic information that we’ll be using to track our
   * **Followers:** We’ll measure our audience size after six months and assess growth. Are we seeing new followers being added or are people unfollowing us?
   * **Views/Completion Rate:** Snapchat lets you see how many people are watching your story and where they drop off in the process. We’ll measure those numbers to determine if people are watching the whole story or giving up halfway through. We’ll also analyze what kind of content performs best so that we can deliver more of what our audience wants.
   * **Engagement:** We’ll look at the number of people who send Snaps back to us to help determine how engaging our content is.
-  * **Screenshots:** Snapchat notifies you when someone takes a screenshot of your content. We’ll use screenshots to help us determine if we’re sharing important information that our audience thinks is worth keeping. We’ll look at what kind of content is screenshotted the most to learn what’s important to our followers.
+  * **Screenshots:** Snapchat notifies you when someone takes a screenshot of your content. We’ll use screenshots to help us determine if we’re sharing important information that our audience thinks is worth keeping. We’ll look at what kind of content is screenshotted the most to learn what’s  important to our followers.
 
 To see how we’re using Snapchat make sure to follow us and snap us with your feedback!
 

@@ -428,12 +428,12 @@ The Dept. of Health and Human Services shares their Section 508 plans and milest
   
   <tr>
     <th colspan="7" scope="row" align="left">
-      <em>* This is partial data for the last 6 months; please <a title="View 508 Compliance Leaderboards" href="http://www.hhs.gov/web/section-508/compliance-and-remediation/leaderboards/index.html">visit HHS’s site</a> for the full year, August 2015 to July 2016.</em>
+      <em>* This is partial data for the last 6 months; please <a title="View 508 Compliance Leaderboards" href="http://www.hhs.gov/web/section-508/compliance-and-remediation/leaderboards/index.html">visit HHS’s  site</a> for the full year, August 2015 to July 2016.</em>
     </th>
   </tr>
 </table>
 
-It’s also worth noting that the CIO Council’s active [Accessibility Community of Practice (CIOC ACOP)](https://cio.gov/about/groups/accessibility-cop/ "Accessibility Community of Practice") has developed a [Technology Accessibility Playbook](http://section508.gov/content/it-accessibility-playbook "Technology Accessibility Playbook"). In the words of [Section508.gov](https://www.section508.gov "Section 508 website"):
+It’s  also worth noting that the CIO Council’s  active [Accessibility Community of Practice (CIOC ACOP)](https://cio.gov/about/groups/accessibility-cop/ "Accessibility Community of Practice") has developed a [Technology Accessibility Playbook](http://section508.gov/content/it-accessibility-playbook "Technology Accessibility Playbook"). In the words of [Section508.gov](https://www.section508.gov "Section 508 website"):
 
 > Modeled after the [Digital Services Playbook](https://playbook.cio.gov/ "Digital Services Playbook"), the Technology Accessibility Playbook provides twelve plays that, if followed together, will help the government ensure its information and communications technology is fully accessible to disabled employees and members of the public. The plays outline a sustainable approach to supporting full inclusion through technology, and provide a framework for strategic planning and defining program maturity capabilities needed within each agency.
 
@@ -441,7 +441,7 @@ Another collaborative initiative we want to highlight is the [Improving the Acce
 
 ## Testing
 
-DHS leads the government’s Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/sites/default/files/publications/Trusted_Tester_Fact_Sheet_0.pdf "Trusted Tester Fact Sheet PDF file") (
+DHS leads the government’s  Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/sites/default/files/publications/Trusted_Tester_Fact_Sheet_0.pdf "Trusted Tester Fact Sheet PDF file") (
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/application-pdf.png" alt="PDF icon" %} 160KB PDF). Not only does the federal government then have a reliable set of testers who can address key Section 508 areas, but it also promotes a common understanding of the 508 standards and a common testing process developers can code to.
 
 We are very excited about the strides made to allow all citizens easier access to government information throughout 2016, and we look forward to the new tools, training and innovations in accessibility coming in 2017. What is YOUR agency doing to makes strides with accessibility?

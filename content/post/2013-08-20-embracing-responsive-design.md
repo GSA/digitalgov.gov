@@ -28,7 +28,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Using responsive design is very efficient and cost effective: It allows us to more easily create and maintain content that will display correctly on all devices and across all platforms.  It saves the government money since it’s “future ready,” which means that the sites will work on future mobile devices.
+  Using responsive design is very efficient and cost effective: It allows us to more easily create and maintain content that will display correctly on all devices and across all platforms.  It saves the government money since it’s  “future ready,” which means that the sites will work on future mobile devices.
 </p>
 
 <p dir="ltr">

@@ -3,7 +3,7 @@
 
 date: 2016-11-30 3:00:47 -0400
 title: 'The Data Briefing\: Why and How to Attend Your First Hackathon'
-summary: 'December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’sbirthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms &ldquo;bug&rdquo; and &ldquo;debugging.&rdquo; The GSA’sIT Digital Service Team'
+summary: 'December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms &ldquo;bug&rdquo; and &ldquo;debugging.&rdquo; The GSA’s IT Digital Service Team'
 authors: [bbrantley]
 categories:
   - Code
@@ -14,7 +14,7 @@ tag:
   - hackathon
 ---
 
-December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms “bug” and “debugging.” The GSA’s IT Digital Service Team will celebrate Admiral Hopper’s birthday with a [beginner-friendly hackathon](http://open.gsa.gov/grace-hopper-hackathon/).
+December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s  birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms “bug” and “debugging.” The GSA’s  IT Digital Service Team will celebrate Admiral Hopper’s  birthday with a [beginner-friendly hackathon](http://open.gsa.gov/grace-hopper-hackathon/).
 
 
 {% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-450-Grace-Hopper-teaching-COBOL.jpg" alt="Grace Hopper teaching COBOL." %}
@@ -37,4 +37,4 @@ Then, make sure to arrive at the hackathon early. Take the time to network and r
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
 
-_[Dr. William Brantley](https://www.WHATEVER/author/bbrantley/) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_[Dr. William Brantley](https://www.WHATEVER/author/bbrantley/) is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

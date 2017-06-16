@@ -3,7 +3,7 @@
 
 date: 2016-01-04 1:00:44 -0400
 title: 'A Sense of Purpose\: Strong Communities Can Overcome Big Challenges'
-summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development’s(HUD) Rebuild by Design Challenge&nbsp;(PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
+summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development’s (HUD) Rebuild by Design Challenge&nbsp;(PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
 authors: [eric-beidel]
 categories:
   - Challenges
@@ -20,10 +20,10 @@ tag:
 
 Cook-offs, bike rides, parades and dance parties—these are not the traditional public hearing-style events for which government agencies are known.
 
-But these events helped to fuel the Department of Housing and Urban Development’s (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. 
+But these events helped to fuel the Department of Housing and Urban Development’s  (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" %} 
 
-Because the challenge’s community structure was based on a common goal—to rebuild following Hurricane Sandy—participants left their egos at home, shared information and learned from one another. The desire to serve a cause greater than themselves brought thousands of people and hundreds of organizations together.
+Because the challenge’s  community structure was based on a common goal—to rebuild following Hurricane Sandy—participants left their egos at home, shared information and learned from one another. The desire to serve a cause greater than themselves brought thousands of people and hundreds of organizations together.
 
 “Designers were learning from finance people and finance people were learning from designers and they were all learning from hydrologists,” said Scott Davis, who helped administer the HUD challenge, which included a series of community events in various neighborhoods.
 

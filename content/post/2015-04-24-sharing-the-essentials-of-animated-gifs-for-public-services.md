@@ -3,7 +3,7 @@
 
 date: 2015-04-24 1:33:00 -0400
 title: 'Sharing the Essentials of Animated Gifs for Public Services'
-summary: '[youtube=http\://www.youtube.com/watch?v=ohmyOKPSGPg&amp;amp;w=600] Animated gifs are increasingly found throughout the digital experience of today’susers. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
+summary: '[youtube=http\://www.youtube.com/watch?v=ohmyOKPSGPg&amp;amp;w=600] Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
 authors: [jherman]
 categories:
   - Content
@@ -29,7 +29,7 @@ tag:
 
 [youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600]
 
-Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
+Animated gifs are increasingly found throughout the digital experience of today’s  users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
 
 To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community](https://www.WHATEVER/communities/social-media/) through [DigitalGov University](https://www.WHATEVER/digitalgov-university/). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
@@ -63,7 +63,7 @@ Thomas also said that there are lots of tools available to make gifs, but the re
 
 Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of content to choose from—literally—when generating gifs for her own site or something clever for a third-party. She said:
 
-  * Leverage user generated content to tell your organization’s story, and find opportunities to give quality content a second life.
+  * Leverage user generated content to tell your organization’s  story, and find opportunities to give quality content a second life.
   * Make sure to get approvals from appropriate stakeholders, most importantly, the people who created the content.
 
 [Peace Corps and Animated Gifs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Peace-Corps-and-Animated-Gifs-Erika-Brown.pptx) (.pptx PowerPoint Presentation, 5 MB)
@@ -73,7 +73,7 @@ Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of cont
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/screenshot-18f-code.gif" alt="18f animated code" %}
 
-Melody Kramer of [GSA’s 18F](https://18f.gsa.gov/) has been on the cutting edge of new media, but shares how she uses animated gifs in the most practical way: for tutorials and education. She demonstrated how and why she creates instructional gifs, which any organization can do.
+Melody Kramer of [GSA’s  18F](https://18f.gsa.gov/) has been on the cutting edge of new media, but shares how she uses animated gifs in the most practical way: for tutorials and education. She demonstrated how and why she creates instructional gifs, which any organization can do.
 
 In the webinar, she demonstrated how to:
 

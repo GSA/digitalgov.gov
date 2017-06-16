@@ -20,7 +20,7 @@ tag:
 
 Last week, we told you about the upcoming relaunch of Healthcare.gov and [<span style="text-decoration: underline">its use of the Jekyll website generator</span>](http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html). Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the ‘[<span style="text-decoration: underline">Prose.io</span>](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/)’  editing interface last year. Content editors will use this lightweight editor to create and manage content across the site.
 
-Prose is an open source web application that allows users to manage web content stored on GitHub’s code sharing service. It offers the convenience of a content management system (CMS) for managing the site, without the reduction in speed and response time that results from the web server processing and databases required for typical content management systems.
+Prose is an open source web application that allows users to manage web content stored on GitHub’s  code sharing service. It offers the convenience of a content management system (CMS) for managing the site, without the reduction in speed and response time that results from the web server processing and databases required for typical content management systems.
 
 Prose has over ten thousand users, and is the result of dozens of community contributions from open source developers. As part of the relaunching of Healthcare.gov, we are making additional usability improvements that will benefit all users of this free service.
 

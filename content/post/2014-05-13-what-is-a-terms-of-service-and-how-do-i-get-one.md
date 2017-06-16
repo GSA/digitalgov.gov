@@ -18,7 +18,7 @@ tag:
 ---
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart, February 2, 2015" %}
-Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s answer this and more in our [Terms of Service Flowchart](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg) (click the image to the right to download your own PDF copy of this chart for reference) and our **Terms of Service FAQ**:
+Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s  answer this and more in our [Terms of Service Flowchart](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg) (click the image to the right to download your own PDF copy of this chart for reference) and our **Terms of Service FAQ**:
 
 ### What are Terms of Service (TOS)?
 
@@ -39,7 +39,7 @@ All products—whether free or paid—have terms that you must accept before usi
 
 ### So what do we do about these Terms of Service?
 
-The good news is that many companies are willing to negotiate their Terms of Service with the government to create an Amended Terms of Service for federal users, also known as a federal-compatible Terms of Service agreement. Here’s a link to [a flowchart explaining how to do this](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart"). Take a look.
+The good news is that many companies are willing to negotiate their Terms of Service with the government to create an Amended Terms of Service for federal users, also known as a federal-compatible Terms of Service agreement. Here’s  a link to [a flowchart explaining how to do this](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart"). Take a look.
 
 ### OK. What should I do to get an Amended Terms of Service?
 

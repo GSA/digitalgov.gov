@@ -2,7 +2,7 @@
 
 
 date: 2014-06-04 10:00:47 -0400
-title: 'The API Briefing\: NARA’sFederal Register API &ndash; Learning How APIs Work'
+title: 'The API Briefing\: NARA’s Federal Register API — Learning How APIs Work'
 summary: 'Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple\: APIs are&nbsp;how computer programs share information between themselves. You can experience this for'
 authors: [bbrantley]
 categories:
@@ -21,7 +21,7 @@ tag:
 
 Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple: APIs are how computer programs share information between themselves.
 
-You can experience this for yourself by using the <a href="https://www.federalregister.gov/developers/api/v1" target="_blank">National Archives and Records Administration’s interactive documentation to the Federal Register API</a>. For this exercise, you will pretend to be a software program and you will use RESTful methods through an HTTP (HyperText Transfer Protocol; how computers ask for and receive Web pages) request. That means you will navigate to a URL and ask for Federal Register information by starting the request with GET and then some search terms. Follow these steps to complete the demonstration.
+You can experience this for yourself by using the <a href="https://www.federalregister.gov/developers/api/v1" target="_blank">National Archives and Records Administration’s  interactive documentation to the Federal Register API</a>. For this exercise, you will pretend to be a software program and you will use RESTful methods through an HTTP (HyperText Transfer Protocol; how computers ask for and receive Web pages) request. That means you will navigate to a URL and ask for Federal Register information by starting the request with GET and then some search terms. Follow these steps to complete the demonstration.
 
 1) Go to this URL &#8211; <a href="https://www.federalregister.gov/developers/api/v1" target="_blank">https://www.federalregister.gov/developers/api/v1</a>
   

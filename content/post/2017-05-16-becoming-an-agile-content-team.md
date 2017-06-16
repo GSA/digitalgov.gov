@@ -29,7 +29,7 @@ We hoped operating in a more agile manner would help us address some of the chal
 
 It was a big change in the way we work. Our previous model had been based on a newsroom-style operation where people were clustered together around specific areas of content or “beats” to use the journalism terminology. The newsroom model works really well for media outlets with bigger teams of people, but for a small government content team, it wasn’t the best fit because it didn’t easily allow people to support projects or user needs not on their “beat.”
 
-Operating in a more agile manner lets us shift resources to whatever user need is most pressing at the moment. If it’s tax season and we need to make major updates to our tax content, we can now more easily pull anyone from the team to support that effort. We’re able to balance resources to match priorities and work in a more proactive, rather than reactive, manner.
+Operating in a more agile manner lets us shift resources to whatever user need is most pressing at the moment. If it’s  tax season and we need to make major updates to our tax content, we can now more easily pull anyone from the team to support that effort. We’re able to balance resources to match priorities and work in a more proactive, rather than reactive, manner.
 
 We’re not following any specific agile methodology by the book, but the way we operate now more closely resembles Scrum than Kanban. We spend time grooming our backlog of requests, we hold bi-weekly sprint planning meetings and retrospectives and we use a board to track our work in progress.
 

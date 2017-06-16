@@ -19,7 +19,7 @@ In January, 18F Consulting [announced](https://18f.gsa.gov/2015/01/08/creating-a
 
 A number of decision factors led to the [request for information](https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/) (RFI) and then the [request for quotation](https://18f.gsa.gov/2015/06/15/agile-bpa-is-here/) (RFQ). Over the last few months, the demand for 18F to build products for agencies has been explosive. To meet this demand, we realized that we needed help from outside vendors who work the way we do—using techniques like agile development cycles and user-centered design processes. We’ve also identified the need for a contract vehicle through which agencies can gain access to a pool of vendors that work in this way as well.
 
-Our partner throughout this project has been the Federal Acquisition Service (FAS), and before we talk about the BPA process, we want to acknowledge how much we learned from FAS, and how grateful we are for the time and effort they have put into this award process. Though 18F served as the requirements owner of this effort, the [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) (ITS) office within FAS executed the contracting work through the award phase and the Assisted Acquisition Services (AAS) office will handle post-award task orders and management. Throughout this process, we worked closely with a number of people at GSA’s Southeast Sunbelt Region, including our contracting officer and his team, to help make the Agile BPA happen. Going forward, FAS officers in GSA’s Pacific Rim Region will be issuing the task orders on the BPA. These awards could not have been issued without them. We want to thank them, and are looking forward to working with them again in the future.
+Our partner throughout this project has been the Federal Acquisition Service (FAS), and before we talk about the BPA process, we want to acknowledge how much we learned from FAS, and how grateful we are for the time and effort they have put into this award process. Though 18F served as the requirements owner of this effort, the [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) (ITS) office within FAS executed the contracting work through the award phase and the Assisted Acquisition Services (AAS) office will handle post-award task orders and management. Throughout this process, we worked closely with a number of people at GSA’s  Southeast Sunbelt Region, including our contracting officer and his team, to help make the Agile BPA happen. Going forward, FAS officers in GSA’s  Pacific Rim Region will be issuing the task orders on the BPA. These awards could not have been issued without them. We want to thank them, and are looking forward to working with them again in the future.
 
 The vendors are:
 
@@ -66,11 +66,11 @@ We weren’t totally sure what we’d get. We knew that there was a lot of inter
 
 **I saw many vendors working in public online. Could you point to some examples of what you saw throughout the process?**
 
-We were completely blown away by certain unexpected and awesome things. We saw many independent creations of GitHub repos by vendors—and we even saw someone who was outside the award process, who created [a repo](https://github.com/LinuxBozo/18f-bpa-repos) to track vendor submissions as they came in. We saw tweets, blog posts, and even live video of vendors working together on code. Dave remembers chatting with a colleague about how there was all of this activity going on for a government contract, and that’s when he realized that this was definitely different from other procurements.
+We were completely blown away by certain unexpected and awesome things. We saw many independent creations of GitHub repos by vendors—and we even saw someone who was outside the award process, who created [a repo](https://github.com/LinuxBozo/18f-bpa-repos) to track vendor submissions as they came in. We saw tweets, blog posts, and even live video of vendors working together on code. Dave remembers chatting with a colleague about how there was all of this activity going on for a government contract, and that’s  when he realized that this was definitely different from other procurements.
 
 **The deadline for the Agile BPA was pushed back several times because vendors had questions about the process. What were they asking?**
 
-Before we answer this, it’s important to understand how RFQs generally work. After an RFQ is issued, there’s usually an official question and answer period for vendors to ask questions about the project.
+Before we answer this, it’s  important to understand how RFQs generally work. After an RFQ is issued, there’s  usually an official question and answer period for vendors to ask questions about the project.
 
 Before the RFQ release, we held a pre-solicitation conference so we could preview the RFQ to vendors and answer questions, with the goal of reducing the questions during the official Q&A period. Despite that, after the release, hundreds more questions still poured in—mostly on technical or contracting issues. To respond to this volume, we missed our own answer deadline, and that ended up pushing back the vendors’ deadline to respond.
 
@@ -82,7 +82,7 @@ Based on this experience, we learned ways to be smarter about how we structure t
 
 In some respects, this was our favorite part of the process. Our evaluation team worked through the proposals with the contracting officer and his team.
 
-Because we had some of 18F’s own top technical talent involved, we were able to automate some elements of the technical evaluation that enabled a faster, more efficient, and more accurate review process for everyone involved. We’ve also learned a lot about what contracting officers and other officials—not to mention vendors—experience and hope to continue to build on some of the things we did in the BPA evaluation process to make the process easier for everyone.
+Because we had some of 18F’s  own top technical talent involved, we were able to automate some elements of the technical evaluation that enabled a faster, more efficient, and more accurate review process for everyone involved. We’ve also learned a lot about what contracting officers and other officials—not to mention vendors—experience and hope to continue to build on some of the things we did in the BPA evaluation process to make the process easier for everyone.
 
 **Now that awards have been made, what should those companies expect from 18F?**
 
@@ -102,7 +102,7 @@ Because we still have a lot to learn, we want to start with a few smaller-scale 
 
 **When will the process start?**
 
-It’s already started! As any government contracting officer will tell you, it’s never too early to start good acquisition planning, and we’ve been doing just that: talking to our in-house delivery and consulting teams and our agency partners to identify projects that we think are a good fit.
+It’s  already started! As any government contracting officer will tell you, it’s  never too early to start good acquisition planning, and we’ve been doing just that: talking to our in-house delivery and consulting teams and our agency partners to identify projects that we think are a good fit.
 
 **What are your metrics to measure whether or not the Agile BPA is successful?**
 
@@ -132,7 +132,7 @@ Based on what we’ve seen in the marketplace to date, agencies typically create
 
 Right now, we’re managing this the same as other prospective 18F projects via our intake team. Agencies should email us at <a href="mailto:inquiries18f@gsa.gov">inquiries18f@gsa.gov</a> with information about their problem or project. As we learn more about how to work with other agencies on the BPA, we will refine the process.
 
-**And what’s the process if I’m a vendor and want to get on this Agile BPA? What can I do?**
+**And what’s  the process if I’m a vendor and want to get on this Agile BPA? What can I do?**
 
 Please stay tuned! We know you’re out there, and as we get this thing off the ground, we’ll keep everyone posted on what the on-ramping process will look like once we’re ready for it.
 
@@ -144,11 +144,11 @@ This was aimed at companies that work the way 18F does—in an agile, user-cente
 
 **How did 18F work with its sister offices within the General Services Administration (GSA) on this initiative?**
 
-18F and the Federal Acquisition Service (FAS) are partners in this endeavor, but support for this initiative spans up, down, and across the organization. We worked closely with a number of people at GSA’s Southeast Sunbelt Region, including our contracting officer and his team, to help make the Agile BPA happen. Going forward, FAS contracting officers in GSA’s Pacific Rim Region will be issuing the task orders on the BPA. FAS has been talking about the need for federal IT to transform its approach from waterfall to agile for quite a while.The Agile BPA, combined with other 18F and FAS procurements, is our to bid make this change happen on a large scale.
+18F and the Federal Acquisition Service (FAS) are partners in this endeavor, but support for this initiative spans up, down, and across the organization. We worked closely with a number of people at GSA’s  Southeast Sunbelt Region, including our contracting officer and his team, to help make the Agile BPA happen. Going forward, FAS contracting officers in GSA’s  Pacific Rim Region will be issuing the task orders on the BPA. FAS has been talking about the need for federal IT to transform its approach from waterfall to agile for quite a while.The Agile BPA, combined with other 18F and FAS procurements, is our to bid make this change happen on a large scale.
 
-**What was FAS’s reaction to some of the things you wanted to do in the BPA?**
+**What was FAS’s  reaction to some of the things you wanted to do in the BPA?**
 
-We really think that our contracting officer deserves a great deal of credit for the BPA. He recognized at an early stage that this was going to be unusual in many respects. Rather than shut it down, though, he worked hard to understand our goals and to help us understand the constraints and options. In the end, there were definitely lessons learned on both sides, but it’s safe to say we could not have done this without our contracting officer’s willingness to be open and receptive to our way of doing things.
+We really think that our contracting officer deserves a great deal of credit for the BPA. He recognized at an early stage that this was going to be unusual in many respects. Rather than shut it down, though, he worked hard to understand our goals and to help us understand the constraints and options. In the end, there were definitely lessons learned on both sides, but it’s  safe to say we could not have done this without our contracting officer’s  willingness to be open and receptive to our way of doing things.
 
 **Could you talk a little bit about how you make the [procurements themselves reflect agile development practices](https://pages.18f.gov/ads-bpa/buyers/)?**
 
@@ -160,7 +160,7 @@ A couple of things: that we have a proven track record under the BPA, or other v
 
 **Lastly, why is this important for FAS and 18F?**
 
-It’s important for 18F and FAS because it gives us another way to deliver value for our partner agencies. We recognized at the outset that the demand for transformative digital services would outpace our ability to hire people into 18F, and that we’d want to work with industry, an incredible source of innovation, to help us ship. But, it’s also important because we have a lot empathy for industry, who are trying to ship quality software for agency partners, too. By working together, we can build a contract vehicle that meets our needs, but also aligns with our vendors’ expectations of how to get things done.
+It’s  important for 18F and FAS because it gives us another way to deliver value for our partner agencies. We recognized at the outset that the demand for transformative digital services would outpace our ability to hire people into 18F, and that we’d want to work with industry, an incredible source of innovation, to help us ship. But, it’s  also important because we have a lot empathy for industry, who are trying to ship quality software for agency partners, too. By working together, we can build a contract vehicle that meets our needs, but also aligns with our vendors’ expectations of how to get things done.
 
 __ 
   

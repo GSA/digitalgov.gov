@@ -3,7 +3,7 @@
 
 date: 2016-10-12 11:00:36 -0400
 title: 'Join us for a Gender Equality Edit-a-thon on October 22, 2016'
-summary: 'Come out and join us on Saturday, October 22, 2016 from 10\:00 am &ndash; 5\:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. Register for this event today!  Help'
+summary: 'Come out and join us on Saturday, October 22, 2016 from 10\:00 am — 5\:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. Register for this event today!  Help'
 authors: [meredith-stewart]
 categories:
   - Content
@@ -26,7 +26,7 @@ Come out and join us on Saturday, October 22, 2016 from 10:00 am – 5:00 pm for
 
 Help us improve Wikipedia entries related to gender equality with the National Archives and Records Administration. You do not need to have prior experience editing Wikipedia. During the event we will have an introduction to editing Wikipedia and a discussion of World War I Nurses and Red Cross records in the National Archives. It will be a lively discussion of women in the Historical record.
 
-This event is part of the [Amending America Initiative](https://www.archives.gov/amending-america/) at the National Archives in celebration of the 225th anniversary of the Bill of Rights. This event is also co-sponsored with [Wikimedia DC](https://wikimediadc.org/wiki/Home) and part of DCFemTech’s [Tour De Code 2016](https://dcfemtech.github.io/tourdecode) and in connection with our celebration of [American Archives Month](https://prologue.blogs.archives.gov/2016/10/01/the-national-archives-celebrates-american-archives-month/).
+This event is part of the [Amending America Initiative](https://www.archives.gov/amending-america/) at the National Archives in celebration of the 225th anniversary of the Bill of Rights. This event is also co-sponsored with [Wikimedia DC](https://wikimediadc.org/wiki/Home) and part of DCFemTech’s  [Tour De Code 2016](https://dcfemtech.github.io/tourdecode) and in connection with our celebration of [American Archives Month](https://prologue.blogs.archives.gov/2016/10/01/the-national-archives-celebrates-american-archives-month/).
 
 **Event** 
   
@@ -54,7 +54,7 @@ Lunch will be provided
 
 **Where**
   
-The event will be held in the Innovation Hub at the National Archives in Washington, DC. To access NARA’s Innovation Hub, please use the National Archives Building’s entrance at Pennsylvania Avenue. This is the research/staff entrance, not the main exhibits/events door.
+The event will be held in the Innovation Hub at the National Archives in Washington, DC. To access NARA’s  Innovation Hub, please use the National Archives Building’s  entrance at Pennsylvania Avenue. This is the research/staff entrance, not the main exhibits/events door.
 
 A livestream option will also be available.
 

@@ -3,7 +3,7 @@
 
 date: 2013-04-30 1:07:53 -0400
 title: 'Producing APIs through Data.gov'
-summary: 'One way agencies can offer APIs for their data is to use the built&ndash;in functionality of&nbsp;Data.gov. The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&amp;#8217;s section of the agency&amp;#8217;s website. The guide below will help you do this. Process Upload a dataset'
+summary: 'One way agencies can offer APIs for their data is to use the built—in functionality of&nbsp;Data.gov. The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&amp;#8217;s section of the agency&amp;#8217;s website. The guide below will help you do this. Process Upload a dataset'
 authors: [gray-brooks]
 categories:
   - API
@@ -128,7 +128,7 @@ None required
 
 ### Further Developer Documentation
 
-[Socrata’s SODA Documentation](http://dev.socrata.com/)
+[Socrata’s  SODA Documentation](http://dev.socrata.com/)
 
 ### Related Resources
 
@@ -136,4 +136,4 @@ Include [any additional resources](https://www.WHATEVER/2013/05/16/api-release-k
 
 ## Completed Example
 
-To see this model in action, check out [GSA’s Per Diem API](http://gsa.gov/portal/content/162379).
+To see this model in action, check out [GSA’s  Per Diem API](http://gsa.gov/portal/content/162379).

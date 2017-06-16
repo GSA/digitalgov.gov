@@ -22,7 +22,7 @@ Reddit differs from other social media platforms like Twitter and Facebook becau
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-297-get-to-know-reddit-2.jpg" alt="600 x 297 get to know reddit 2" %}
 
 
-On reddit, the community sets the rules and runs the show. Taylor explained that, “People curate what they want to see and spin off communities.” Anyone can create a subreddit forum on any topic and each subreddit has guidelines. Taylor recommended newcomers study user-created rules, called [reddiquette](http://www.reddit.com/wiki/reddiquette). Here is more of Taylor’s advice:
+On reddit, the community sets the rules and runs the show. Taylor explained that, “People curate what they want to see and spin off communities.” Anyone can create a subreddit forum on any topic and each subreddit has guidelines. Taylor recommended newcomers study user-created rules, called [reddiquette](http://www.reddit.com/wiki/reddiquette). Here is more of Taylor’s  advice:
 
   * Be transparent, candid and authentic. Clearly identify yourself and the group you speak for.
   * Do not push an agenda.
@@ -61,9 +61,9 @@ The U.S. represents the largest group of reddit users, but Canadians spend the m
   * [Reddit core rules](https://www.reddit.com/rules/)
   * [Reddit user agreement](https://www.reddit.com/help/useragreement)
   * [Reddit 101 wiki](http://www.reddit.com/wiki/reddit_101)
-  * [Mashable’s reddit lingo guide](http://mashable.com/2014/03/10/reddit-lingo-guide/)
+  * [Mashable’s  reddit lingo guide](http://mashable.com/2014/03/10/reddit-lingo-guide/)
   * [U.S. Consulate General Toronto AMA](http://www.reddit.com/r/IAmA/comments/28hm2b/we_are_the_us_consulate_general_in_toronto_and_we/), archived thread
-  * [Bill Gates Won the Internet with his reddit AMA, Here’s How](http://www.washingtonpost.com/blogs/the-switch/wp/2014/02/11/bill-gates-won-the-internet-with-his-reddit-ama-heres-how/), Washington Post blog
+  * [Bill Gates Won the Internet with his reddit AMA, Here’s  How](http://www.washingtonpost.com/blogs/the-switch/wp/2014/02/11/bill-gates-won-the-internet-with-his-reddit-ama-heres-how/), Washington Post blog
   * [Reddit Culture video](http://www.youtube.com/watch?v=fXGs_7Yted8&feature=youtu.be), PBS Off Book Web series
   * [Reddit statistics](http://expandedramblings.com/index.php/reddit-stats/#.U-ps9oBdU0A) July 26, 2014, Expandedramblings.com
 

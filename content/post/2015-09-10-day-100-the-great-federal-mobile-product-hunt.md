@@ -45,11 +45,11 @@ A long time ago in a federal agency building far, far away on F Street… the </
     </h2>
     
     <p>
-      We need </span><span style="font-weight: 400">your</span><span style="font-weight: 400"> help to update </span><span style="font-weight: 400">your</span><span style="font-weight: 400"> agency’s mobile web products on the Directory. </p> 
+      We need </span><span style="font-weight: 400">your</span><span style="font-weight: 400"> help to update </span><span style="font-weight: 400">your</span><span style="font-weight: 400"> agency’s  mobile web products on the Directory. </p> 
       
       <ol>
         <li>
-          Start by visiting the</span><a href="http://www.usa.gov/mobileapps.shtml"> <span style="font-weight: 400">Mobile Apps Directory on USA.gov</span></a><span style="font-weight: 400"> AND</span><a href="http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml"> <span style="font-weight: 400">GobiernoUSA.gov</span></a><span style="font-weight: 400"> to see if your agency’s products are listed.</li> </ol> 
+          Start by visiting the</span><a href="http://www.usa.gov/mobileapps.shtml"> <span style="font-weight: 400">Mobile Apps Directory on USA.gov</span></a><span style="font-weight: 400"> AND</span><a href="http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml"> <span style="font-weight: 400">GobiernoUSA.gov</span></a><span style="font-weight: 400"> to see if your agency’s  products are listed.</li> </ol> 
           
           <ol start="2">
             <li>

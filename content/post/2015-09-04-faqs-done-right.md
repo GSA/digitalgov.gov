@@ -49,9 +49,9 @@ If your agency is using FAQs, the order, length, and content is critical in prov
       * Focus on steps in a process. Think about what the reader is trying to accomplish.
       * Eliminate redundancies. This often helps with organization.
 
-For a good agency example, Catania pointed to the Transportation Security Administration’s (TSA) [Frequently Asked Questions about travel](https://www.tsa.gov/travel/frequently-asked-questions).
+For a good agency example, Catania pointed to the Transportation Security Administration’s  (TSA) [Frequently Asked Questions about travel](https://www.tsa.gov/travel/frequently-asked-questions).
 
-“TSA’s Travel FAQ highlights real frequently asked questions from flyers,” Catania said. “It uses clear headings to chunk the FAQ into sections and accordion files to keep the page short. My favorite part is that the questions are very short and written as if person on the street asked them instead of sounding overly bureaucratic or riddled with insider jargon.”
+“TSA’s  Travel FAQ highlights real frequently asked questions from flyers,” Catania said. “It uses clear headings to chunk the FAQ into sections and accordion files to keep the page short. My favorite part is that the questions are very short and written as if person on the street asked them instead of sounding overly bureaucratic or riddled with insider jargon.”
 
 ###### Turning FAQs Into Web Content {.post-title}
 
@@ -63,4 +63,4 @@ Whether you are trying to eliminate your FAQ section or make certain pieces of i
   * Is this information already available on the Web in another format?
   * Is the current format easy for readers to navigate and understand?
 
-At USCIS, the [Form Filing Tips](http://www.uscis.gov/forms-filing-tips) page began as a lengthy FAQ. Catania’s team turned the FAQ into Web content by adding jump links and headings for people to find their answer.
+At USCIS, the [Form Filing Tips](http://www.uscis.gov/forms-filing-tips) page began as a lengthy FAQ. Catania’s  team turned the FAQ into Web content by adding jump links and headings for people to find their answer.

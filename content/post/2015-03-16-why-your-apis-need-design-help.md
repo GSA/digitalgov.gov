@@ -3,7 +3,7 @@
 
 date: 2015-03-16 10:00:28 -0400
 title: 'Why Your APIs Need Design Help'
-summary: ' Anything built should be built right. It doesn&amp;#8217;t matter if it’sbuilt of wood, carbon nanotubes or code. So it’sencouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with APIs'
+summary: ' Anything built should be built right. It doesn&amp;#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with APIs'
 authors: [jonathan-rubin]
 categories:
   - API
@@ -28,11 +28,11 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" %}
 
-Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design—getting customer feedback at every stage of a project—is catching on with APIs as well.
+Anything built should be built right. It doesn&#8217;t matter if it’s  built of wood, carbon nanotubes or code. So it’s  encouraging that the practice of User-Centered Design—getting customer feedback at every stage of a project—is catching on with APIs as well.
 
 When we think APIs, we mostly think of developers and not designers. But the experience of those who want to use your APIs isn’t just dependant of the strength and elegance of your API. The first thing they see, after all, isn’t your magnificent code but your documentation page. If people can’t quickly understand the value of your API, and can’t effortless try it out, they’ll bail. And then all your blood, sweat and tears go down the drain.
 
-For the past two years, our [API Usability Evaluation program](http://18f.github.io/API-Usability-Testing/) has connected federal API teams with unbiased, no-holds barred feedback from expert developers. We&#8217;ve introduced dozens of gov teams to the concept of usability, of designing something that’s intuitive, transparent, credible and, ultimately, useful. Often, the feedback included some of the same design suggestions. We would consistently hear:
+For the past two years, our [API Usability Evaluation program](http://18f.github.io/API-Usability-Testing/) has connected federal API teams with unbiased, no-holds barred feedback from expert developers. We&#8217;ve introduced dozens of gov teams to the concept of usability, of designing something that’s  intuitive, transparent, credible and, ultimately, useful. Often, the feedback included some of the same design suggestions. We would consistently hear:
 
 #### 1. Use JSON
 
@@ -40,7 +40,7 @@ Many government APIs still return API calls in XML. This is usually considered o
 
 #### 2. Communicate value immediately
 
-Since we don’t always know what people are doing with our data, or what their backgrounds are, we need to assume they aren’t familiar with us, our data or our mission. The [Consumer Financial Protection Bureau’s API](http://cfpb.github.io/api/hmda/) puts it up front and center: Here’s who we are and what you can use this for. It’s also good to include success stories or use cases of people using your product. Bonus points: Link to things they’ve created!
+Since we don’t always know what people are doing with our data, or what their backgrounds are, we need to assume they aren’t familiar with us, our data or our mission. The [Consumer Financial Protection Bureau’s  API](http://cfpb.github.io/api/hmda/) puts it up front and center: Here’s  who we are and what you can use this for. It’s  also good to include success stories or use cases of people using your product. Bonus points: Link to things they’ve created!
 
 #### 3. Allow easy access
 
@@ -52,8 +52,8 @@ Once again, use the tools and conventions that people are expecting and familiar
 
 #### 5. Offer sample code
 
-Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s a [usability case study](https://www.WHATEVER/2014/08/22/api-usability-case-study-openfda/) that goes into detail why we like this one so much.
+Let people test drive the car before investing in it. Providing interactive documentation where they can test the code gives them that ability, and shows that you are confident in your API. A nice example of this is the [OpenFDA API](https://open.fda.gov/), and here’s  a [usability case study](https://www.WHATEVER/2014/08/22/api-usability-case-study-openfda/) that goes into detail why we like this one so much.
 
 #### 6. Pay attention to details
 
-Finally, anything that seems off about your API will make people think it’s not reliable, or that it might not work. You want people to have confidence in your API, so they’ll feel it’s worth their time to dive in. So make sure all your links work, that there’s no spelling mistakes or bad paragraph breaks, and that it looks like you know what you’re doing.
+Finally, anything that seems off about your API will make people think it’s  not reliable, or that it might not work. You want people to have confidence in your API, so they’ll feel it’s  worth their time to dive in. So make sure all your links work, that there’s  no spelling mistakes or bad paragraph breaks, and that it looks like you know what you’re doing.

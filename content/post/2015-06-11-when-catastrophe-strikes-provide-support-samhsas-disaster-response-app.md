@@ -2,7 +2,7 @@
 
 
 date: 2015-06-11 10:00:53 -0400
-title: 'When Catastrophe Strikes, Provide Support\: SAMHSA’sDisaster Response App'
+title: 'When Catastrophe Strikes, Provide Support\: SAMHSA’s Disaster Response App'
 summary: ' Disasters can strike at anytime, and responders now have another tool in their repertoire to aid survivors. The Substance Abuse and Mental Health Services Administration (SAMHSA) has developed the Behavioral Health Disaster Response Mobile App to assist mental health responders with pre-deployment and on-the ground information and resources. SAMHSA has placed'
 authors: [jparcell]
 categories:
@@ -32,7 +32,7 @@ SAMHSA has placed their key resource materials in this handy to use app so that 
 
 This app is available for [Android](https://play.google.com/store/apps/details?id=gov.hhs.samhsa.app.disaster&WT.ac=LP_20140206_DISASTERAPP_GOOGLEPLAY), [Blackberry](http://appworld.blackberry.com/webstore/content/47454887/?lang=en&countrycode=US&WT.ac=LP_20140206_DISASTERAPP_BLACKBERRY) and [iOS](https://itunes.apple.com/us/app/samhsa-behavioral-health-disaster/id787518271?mt=8&WT.ac=LP_20140206_DISASTERAPP_ITUNES) devices.
 
-This is not SAMHSA’s first foray into native app development: DigitalGov previously featured the agency’s [KnowBullying](https://www.WHATEVER/2014/10/09/bullying-help-prevent-and-protect-anytime-anywhere-on-any-device/) app which provides strategies and resources to stop bullying.
+This is not SAMHSA’s  first foray into native app development: DigitalGov previously featured the agency’s  [KnowBullying](https://www.WHATEVER/2014/10/09/bullying-help-prevent-and-protect-anytime-anywhere-on-any-device/) app which provides strategies and resources to stop bullying.
 
 _You can download this app and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Director](http://www.usa.gov/mobileapps.shtml)y. Federal agencies can get their apps in the directory by using the [Federal Mobile Products Registry](http://apps.usa.gov/register)._
 

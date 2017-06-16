@@ -3,7 +3,7 @@
 
 date: 2015-09-29 1:00:08 -0400
 title: 'Trends on Tuesday\: How Much Does It Cost to Go Mobile?'
-summary: 'A penny saved is a penny earned. But spending your pennies on mobile development is necessary to meet 21st century needs. Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’sgoing to cost you. While the most obvious parts of the mobile price tag for native app development are initial'
+summary: 'A penny saved is a penny earned. But spending your pennies on mobile development is necessary to meet 21st century needs. Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’s going to cost you. While the most obvious parts of the mobile price tag for native app development are initial'
 authors: [awichman]
 categories:
   - Mobile
@@ -28,7 +28,7 @@ tag:
 
 A penny saved is a penny earned. But spending your pennies on [mobile development is necessary to meet 21st century needs](https://www.WHATEVER/2015/09/15/trends-on-tuesday-the-mobile-internet-is-dead-long-live-the-mobile-internet/).
 
-Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’s going to cost you. While the most obvious parts of the mobile price tag for native app development are initial development and launch, the long term maintenance of the app must also be considered. And you aren’t always penny pinching with [responsive website redesigns](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/)—they can also come with a hefty price tag. We asked some [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/) members to tell us about their experiences.
+Regardless of how you plan to create that awesome anytime, anywhere mobile experience, it’s  going to cost you. While the most obvious parts of the mobile price tag for native app development are initial development and launch, the long term maintenance of the app must also be considered. And you aren’t always penny pinching with [responsive website redesigns](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/)—they can also come with a hefty price tag. We asked some [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/) members to tell us about their experiences.
 
 ## Initial Development 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-225-Mobile-Development-neyro2008-iStock-Thinkstock-504857917.jpg" alt="Mobile Development" %} 

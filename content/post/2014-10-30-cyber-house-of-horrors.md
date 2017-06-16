@@ -23,7 +23,7 @@ October is also [National Cybersecurity Awareness Month](http://www.staysafeonli
 
 ## Not scared? Here are some things to consider
 
-  * It’s estimated that approximately HALF of Americans have been [hacked in the past year](http://money.cnn.com/2014/05/28/technology/security/hack-data-breach/).
+  * It’s  estimated that approximately HALF of Americans have been [hacked in the past year](http://money.cnn.com/2014/05/28/technology/security/hack-data-breach/).
   * These attacks have compromised systems across [government and the private sector](http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
   * The graphic below is visualization from cybersecurity firm Norse that maintains a network of 8 million computers simulating potential attractive targets of information like commerce and corporate databases. These attacks largely come from automated bots.
 
@@ -47,7 +47,7 @@ The “Internet of Things” will continue to change our lives at a rapid pace. 
   * **4.5 billion** users on mobile devices; **1.75 billion** users on smartphones!
   * **750,000 spam emails** sent during a two week period spanning December 2013 and January 2014 by Internet-connected devices (like media players, smart televisions, and even a refrigerator) as part of a network.
 
-How scary is this really? Consider the case of a Forbes journalist who was able to [access a complete stranger’s entire automated home](http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/) after a simple Google search, gaining access to remotely control many devices in the house. Like the malevolent spirits portrayed in movies like Poltergeist, an attacker could turn lights and the television on remotely, or any other device connected to the network. By simply not changing the default passwords on these new types of connected devices, the home was left vulnerable. Potentially even more terrifying is the possibility that a compromised connected home doesn’t have such obvious signs of being compromised, and instead just left silently doing the work of the very real people attacking it rather than the fictional outbursts of unhappy spirits.
+How scary is this really? Consider the case of a Forbes journalist who was able to [access a complete stranger’s  entire automated home](http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/) after a simple Google search, gaining access to remotely control many devices in the house. Like the malevolent spirits portrayed in movies like Poltergeist, an attacker could turn lights and the television on remotely, or any other device connected to the network. By simply not changing the default passwords on these new types of connected devices, the home was left vulnerable. Potentially even more terrifying is the possibility that a compromised connected home doesn’t have such obvious signs of being compromised, and instead just left silently doing the work of the very real people attacking it rather than the fictional outbursts of unhappy spirits.
 
 The reality is that the “Internet of Things” is already here and can easily be compromised and exploited in ways that we may not realize. Here are 3 simple steps from the [National Cyber Security Alliance](http://www.staysafeonline.org/ncsam/landing-page/) about what you can do to stay safe as you connect more devices at home and at work.
 
@@ -56,10 +56,10 @@ The reality is that the “Internet of Things” is already here and can easily 
     Just like your laptop, smartphone, or desktop computer, any device that connects to the Internet has the potential to be compromised by things like viruses and malware. Watch for updates to your devices, and watch out for any unusual change in the way a device functions.
   2. **Think Twice about Your Device**
   
-    Just got a new fitness monitoring or other connected device? Read the details on how it connects to the Internet, and what information it tracks and where it is stored. There will often be a website or other online service where your data may be accessible, and you’ll want to make sure it’s secure.
+    Just got a new fitness monitoring or other connected device? Read the details on how it connects to the Internet, and what information it tracks and where it is stored. There will often be a website or other online service where your data may be accessible, and you’ll want to make sure it’s  secure.
   3. **You are Only as Strong as the Network to Which You Connect**
   
-    All of these devices will generally connect through your networks at home and at work. Follow your provider’s instructions to make sure your networks are properly secured, your passwords are strong, and your software is up to date. If an attacker is able to get in through wireless network, there’s a very good chance they’ll have access to every connected device as well.
+    All of these devices will generally connect through your networks at home and at work. Follow your provider’s  instructions to make sure your networks are properly secured, your passwords are strong, and your software is up to date. If an attacker is able to get in through wireless network, there’s  a very good chance they’ll have access to every connected device as well.
 
 With a little knowledge and some active vigilance, the benefit of the Internet of Things can be enjoyed without compromising our safety online. Knowing, as the old saying goes, is half the battle.
 

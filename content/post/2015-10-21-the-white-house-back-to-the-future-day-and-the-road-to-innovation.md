@@ -55,7 +55,7 @@ Some recent articles about innovation in technology and government that we&#8217
 
 [The People and Teams That Power High-Impact Incentive Prizes](https://www.WHATEVER/2015/10/06/the-people-and-teams-that-power-high-impact-incentive-prizes/)
   
-Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
+Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s  [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
 
 [The Future Will Be Printed – in 3D
   
@@ -67,7 +67,7 @@ Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative,
 
 [An Innovation Framework That Delivers: The SunShot Catalyst Program
   
-](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
+](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/) The Department of Energy’s  SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
 
 [The API Briefing: NASA and USPS Explore the Holographic Computing Frontier
   

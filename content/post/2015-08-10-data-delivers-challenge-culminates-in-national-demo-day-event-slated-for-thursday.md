@@ -28,7 +28,7 @@ On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in a re
 
 Teaming with the White House Innovation Fellows, the U.S. Department of Commerce and several other federal agencies, the Bureau created a new open-source project called the United States [CitySDK](http://uscensusbureau.github.io/citysdk/) (Software Development Kit). The challenge that followed called on citizens to design apps on top of CitySDK to improve economic, educational and other conditions in their cities.
 
-During Thursday’s webinar, the teams will demo their prototypes for special guests Ian Kalin, chief data officer at the Commerce Department, and Avi Bender, chief technology officer of the Census Bureau.
+During Thursday’s  webinar, the teams will demo their prototypes for special guests Ian Kalin, chief data officer at the Commerce Department, and Avi Bender, chief technology officer of the Census Bureau.
 
 Applications to be featured will address solutions ranging from handicap accessibility in Minnesota to the distribution of community parks in Austin.
 

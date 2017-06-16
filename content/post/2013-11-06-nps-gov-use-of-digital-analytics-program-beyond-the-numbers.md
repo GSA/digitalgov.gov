@@ -24,7 +24,7 @@ To further help our DAP users, an analytics team looked at some of the more comm
 
   * Improving content (e.g., park homepage features and links) based on items frequently searched for within a specific site
   * Using a weighted sort on the bounce rate to figure out what content might need improving
-  * Understanding the Navigation Summary reports to see the visitor’s path on a site and adjust content accordingly
+  * Understanding the Navigation Summary reports to see the visitor’s  path on a site and adjust content accordingly
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS1.jpg" alt="web page" %}
 

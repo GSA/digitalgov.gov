@@ -3,7 +3,7 @@
 
 date: 2015-04-06 11:49:07 -0400
 title: 'Using Personas to Better Understand Customers\: USA.gov Case Study'
-summary: 'Personas are fictional characters that describe an organization’scustomer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’sactions meet the needs of the majority of customers, including visitors to your website, contact'
+summary: 'Personas are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact'
 authors: [michelle-chronister]
 categories:
   - 'User Testing and Research'
@@ -20,7 +20,7 @@ tag:
   - UX
 ---
 
-[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
+[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are fictional characters that describe an organization’s  customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s  actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
 
 ## Why We Updated our Personas
 
@@ -77,11 +77,11 @@ More frequently, they may have an idea in mind about what information they want,
 
 ### Find contact information for an agency or elected official
 
-This also falls under finding specific information on a known topic, but the [A-Z directory of federal agencies](http://www.usa.gov/directory/federal/index.shtml) is so popular, it’s worth making a separate category. Customers are looking for **contact information**, especially hard to find information, such as the phone number for the IRS.
+This also falls under finding specific information on a known topic, but the [A-Z directory of federal agencies](http://www.usa.gov/directory/federal/index.shtml) is so popular, it’s  worth making a separate category. Customers are looking for **contact information**, especially hard to find information, such as the phone number for the IRS.
 
 ## Steps in Developing USA.gov Personas
 
-We drafted our personas in about two weeks and kept our process simple. We involved key stakeholders, such as managers, from the beginning. We also used data from multiple sources to inform our personas. To create personas for each type of customer, we picked some of the most common tasks people come to us to accomplish. We even had a little fun with data. After choosing an age in the most popular age range, we used the [Social Security Administration’s baby name data](http://www.ssa.gov/oact/babynames/) to pick the most popular name for that year.
+We drafted our personas in about two weeks and kept our process simple. We involved key stakeholders, such as managers, from the beginning. We also used data from multiple sources to inform our personas. To create personas for each type of customer, we picked some of the most common tasks people come to us to accomplish. We even had a little fun with data. After choosing an age in the most popular age range, we used the [Social Security Administration’s  baby name data](http://www.ssa.gov/oact/babynames/) to pick the most popular name for that year.
 
 While the personas are composite representations, the quotes associated with them are from real customers. Because of time and resource constraints, we used customer satisfaction survey comments as the main source of qualitative data.
 

@@ -22,7 +22,7 @@ You don’t need to be a rail buff to want to download the [Federal Railroad Adm
 
 The Rail Crossing Locator app uses your current location to display nearby points on a map where a railway line crosses a road or path, as opposed to when a railway line crosses over or under a road via a bridge or tunnel.
 
-Download the app, open it up, search for nearby rail crossings, and watch the app’s map populate with rail crossing points around you. You can search for crossings by address, geo-location or DOT Crossing ID. The app even contains a full accident history report at each location.
+Download the app, open it up, search for nearby rail crossings, and watch the app’s  map populate with rail crossing points around you. You can search for crossings by address, geo-location or DOT Crossing ID. The app even contains a full accident history report at each location.
 
 You can also:
 

@@ -30,6 +30,6 @@ The federal government has become much more complex as the challenges it deals w
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

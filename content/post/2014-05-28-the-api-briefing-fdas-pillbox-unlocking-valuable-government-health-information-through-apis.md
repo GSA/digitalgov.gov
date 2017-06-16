@@ -2,7 +2,7 @@
 
 
 date: 2014-05-28 1:35:08 -0400
-title: 'The API Briefing\: NIH&amp;#8217;s Pillbox &ndash; Unlocking Valuable Government Health Information through APIs'
+title: 'The API Briefing\: NIH&amp;#8217;s Pillbox — Unlocking Valuable Government Health Information through APIs'
 summary: 'The Food and Drug Administration collects drug labeling information for human prescription, over-the-counter, homeopathic, and veterinary products through a special markup language called &ldquo;Structured Product Labeling&rdquo; (SPL).&nbsp; The database created from the SPL submissions is a treasure trove of health information that is valuable to'
 authors: [bbrantley]
 categories:
@@ -25,7 +25,7 @@ Available on [Github](https://github.com/HHS/pillbox-data-process), Pillbox is a
 
 Pillbox is a great example of how to use the open source community to help develop government APIs. By releasing Pillbox on Github, the National Library of Medicine invites anyone to copy (“fork” in Github terms) the scripts and make their own improvements which could be incorporated back into the original code (“commit”). The National Library of Medicine also encourages users to find and describe errors in the Pillbox drug information data. The Federal government benefits by having an army of volunteers to improve the pill data and to find new uses for it.
 
-However, the greater benefits are to the American public. The National Library of Medicine’s approach behind Pillbox is smart in that it creates an easier way to access vital government information and encourages developers to find innovative uses for vitally-needed health information. Pillbox&#8217;s open source code was made possible through [Health and Human Services&#8217; Idealab program](http://www.hhs.gov/idealab/innovate/pillbox/ "HHS' Idealab Program") (watch the [Pillbox pitch video](http://www.youtube.com/watch?v=lPCY75t2P4M "Pillbox Video Pitch")). I wonder what other government data sources could benefit from a similar method of development.
+However, the greater benefits are to the American public. The National Library of Medicine’s  approach behind Pillbox is smart in that it creates an easier way to access vital government information and encourages developers to find innovative uses for vitally-needed health information. Pillbox&#8217;s open source code was made possible through [Health and Human Services&#8217; Idealab program](http://www.hhs.gov/idealab/innovate/pillbox/ "HHS' Idealab Program") (watch the [Pillbox pitch video](http://www.youtube.com/watch?v=lPCY75t2P4M "Pillbox Video Pitch")). I wonder what other government data sources could benefit from a similar method of development.
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov)._
 

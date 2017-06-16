@@ -2,7 +2,7 @@
 
 
 date: 2016-09-07 11:00:56 -0400
-title: 'Let’sEncrypt Those CNAMES, Shall We?'
+title: 'Let’s Encrypt Those CNAMES, Shall We?'
 summary: 'This is post 4 in the 5-part series, The Right Tools for the Job\: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&amp;#8217;t done so already. In addition to the DNS challenges created by offering &amp;#8220;masked&amp;#8221; domains such'
 authors: [dmccleskey, nathan-smith]
 categories:
@@ -43,7 +43,7 @@ The process of requesting an SSL certificate from Let&#8217;s Encrypt involves r
   * DNS challenge: the agent creates a DNS record for a particular sub-domain requested by the CA in order to prove that it has control over DNS for that domain
   * HTTP challenge: the agent creates a text file at a particular location with particular content that the CA can then request in order to prove that the agent has control over web page content for that domain
 
-Since we cannot create DNS records for our customers&#8217; &#8220;masked&#8221; domains and it’s not easy even to publish <tt>search.usa.gov</tt> DNS records, that left HTTP as the only Domain Validation option for us. Our goal then was to make sure we could have the Let&#8217;s Encrypt agent create web resources as needed to respond to any HTTP challenge issued by the CA.
+Since we cannot create DNS records for our customers&#8217; &#8220;masked&#8221; domains and it’s  not easy even to publish <tt>search.usa.gov</tt> DNS records, that left HTTP as the only Domain Validation option for us. Our goal then was to make sure we could have the Let&#8217;s Encrypt agent create web resources as needed to respond to any HTTP challenge issued by the CA.
 
 ## Certbot
 

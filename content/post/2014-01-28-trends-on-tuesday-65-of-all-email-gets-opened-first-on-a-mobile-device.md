@@ -19,7 +19,7 @@ While composing email on mobile phones is still a tricky feat, email reading is 
 
 According to data from the [US Consumer Device Preference Report: Q4 2013](https://movableink.com/downloads/us_consumer_device_preference_report_Q42013) from Movable Ink, way more than half of all email — a full 65 percent — is now being accessed via mobile devices in the U.S.
 
-That’s up relatively steeply from just 61 percent for the third quarter of 2013. Of the 65 percent of email that gets opened on mobile gadgets, smartphones take home the majority of messages.
+That’s  up relatively steeply from just 61 percent for the third quarter of 2013. Of the 65 percent of email that gets opened on mobile gadgets, smartphones take home the majority of messages.
 
 These messages don’t get more than a few seconds of readers’ attention, but if your intended recipient is using an iPhone, your chances are a bit better. About 38 percent of iPhone users spent 15 seconds or more viewing each message, with 35 percent of Android smartphone owners reporting spending 15 seconds or longer on each message.
 

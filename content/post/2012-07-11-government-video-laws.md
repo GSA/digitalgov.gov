@@ -34,6 +34,6 @@ Government employees must follow the law in regards to privacy issues. Privacy l
 
   1. Identification—If people can be identified in your video, even if they are in the background, by their face, clothing or distinguishing features (e.g. tattoos), this becomes a privacy issue. Get them to fill out a [video-release-form](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/video-release-form.doc) (MS Word, 24.5 KB, 1 page, April 2012).
   2. Dissemination—You can film nearly anyone you want so long as no one else sees the video. Putting the video on a website, however, makes the video public and raises privacy concerns.
-  3. Minors—Children under 18 cannot appear on a video without their parent’s permission. A parent or guardian can give consent for the minor to be filmed via a [video-release-form](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/video-release-form.doc) (MS Word, 24.5 KB, 1 page, April 2012).
+  3. Minors—Children under 18 cannot appear on a video without their parent’s  permission. A parent or guardian can give consent for the minor to be filmed via a [video-release-form](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/video-release-form.doc) (MS Word, 24.5 KB, 1 page, April 2012).
 
 ##

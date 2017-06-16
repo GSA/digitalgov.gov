@@ -3,7 +3,7 @@
 
 date: 2016-04-06 2:46:02 -0400
 title: 'Three Teams Using the Draft U.S. Web Design Standards Talk about Their Experiences'
-summary: 'In the five months since we launched the Draft U.S. Web Design Standards &mdash; the U.S. government’svery own set of common UI components and visual styles for websites &mdash; over a dozen websites have used components of the Draft Standards on their sites. Recently, we talked to three federal web designers about their experiences'
+summary: 'In the five months since we launched the Draft U.S. Web Design Standards &mdash; the U.S. government’s very own set of common UI components and visual styles for websites &mdash; over a dozen websites have used components of the Draft Standards on their sites. Recently, we talked to three federal web designers about their experiences'
 authors: [melody-kramer]
 categories:
   - Code
@@ -21,13 +21,13 @@ tag:
   - UX
 ---
 
-In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.
+In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s  very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.
 
 Recently, we talked to three federal web designers about their experiences using the Draft Standards, which were designed with accessibility and flexibility in mind:
 
   * Maria Marrero is the User Experience Designer for [USA.gov](https://www.usa.gov/).
   * Luke Keller is a Presidential Innovation Fellow and product designer who worked on [vote.usa.gov](https://vote.usa.gov/).
-  * Eddie Hunter works on the U.S. Geological Survey’s HazDev web team, which is working on a [web application](https://github.com/usgs/earthquake-eventpages) for displaying earthquakes as well as [a website for the Earthquake Hazards program](http://earthquake.usgs.gov/).
+  * Eddie Hunter works on the U.S. Geological Survey’s  HazDev web team, which is working on a [web application](https://github.com/usgs/earthquake-eventpages) for displaying earthquakes as well as [a website for the Earthquake Hazards program](http://earthquake.usgs.gov/).
 
 Each site incorporates parts of the Draft Standards in different ways. We chatted with Maria, Eddie, and Luke about their experiences using the Draft Standards — and how they would improve them.
 
@@ -57,7 +57,7 @@ Each site incorporates parts of the Draft Standards in different ways. We chatte
 
 We were looking to improve readability on some of our documentation pages. We felt that the serifed Merriweather font headers worked nicely to provide a visual break when the body text was styled with Source Sans Pro.
 
-The 18F form controls provide a flatter and easier-to-read alternative to our previous controls. The bold red error reporting styles/text work well for grabbing the user’s attention while validating their inputs. We like the alert styles, however we made small changes by replacing the icons used in the alert boxes with icons from [Google’s Material Icon Font](https://design.google.com/icons/).
+The 18F form controls provide a flatter and easier-to-read alternative to our previous controls. The bold red error reporting styles/text work well for grabbing the user’s  attention while validating their inputs. We like the alert styles, however we made small changes by replacing the icons used in the alert boxes with icons from [Google’s  Material Icon Font](https://design.google.com/icons/).
 
 We theme our different websites in order to inform users about which site they are currently on. We used Sass variables to organize the design elements and style our pages with site specific colors. We adopted the 18F variables that configure primary and secondary colors. This helped us simplify our Sass markup by reducing the number of variables we use.
 
@@ -91,7 +91,7 @@ Finally, it has been very helpful to have direct access to their GitHub reposito
 
 **LK:** PIFs are currently in the process of building four separate prototypes that all utilize the Standards. We look forward to sharing our learnings with 18F and the larger community of developers in government. Thanks for all of your hard work!
 
-**EH:** In an attempt to improve our own visual design we have been reading Google’s visual style guide, [Material Design](https://www.google.com/design/spec/material-design/introduction.html). In this document, the Google design team introduces a concept they have labeled “[Meaningful Transitions](https://www.google.com/design/spec/animation/meaningful-transitions.html).” Meaningful transitions focus on the idea that visual animations are important pieces of feedback that help the user understand the environment or interface that they are working with.
+**EH:** In an attempt to improve our own visual design we have been reading Google’s  visual style guide, [Material Design](https://www.google.com/design/spec/material-design/introduction.html). In this document, the Google design team introduces a concept they have labeled “[Meaningful Transitions](https://www.google.com/design/spec/animation/meaningful-transitions.html).” Meaningful transitions focus on the idea that visual animations are important pieces of feedback that help the user understand the environment or interface that they are working with.
 
 Without the animation, the side navigation would appear instantly and the transition into this new state would not be clear to the user. Without any animation the user might become confused and wonder whether or not they are on the same page. Furthermore, the user might not know how to get back to their previous state (before they clicked the “menu” button).
 
@@ -101,7 +101,7 @@ In an attempt to improve the Design Standards I would suggest a greater attentio
   * Establish a clear way to close the side-navigation. The side navigation slides into place, can you simply swipe it away with your finger?
   * Give visual clues, add a drop-shadow or shadow-mask to emphasize that the menu is actually on top of the content.
 
-Google’s material design also talks about how, “Objects in material design possess similar qualities to objects in the physical world.” Therefore, when the side navigation slides into place, covering the main content of the page, there should be some sort of visual indication that the navigation is positioned above the main content on the page. On our pages, we use a drop shadow to indicate both the visual hierarchy of the top navigation, but also use a mask to cover the previously viewable content and highlight the side navigation that has transitioned into place. That way the new focus clearly becomes the side navigation.
+Google’s  material design also talks about how, “Objects in material design possess similar qualities to objects in the physical world.” Therefore, when the side navigation slides into place, covering the main content of the page, there should be some sort of visual indication that the navigation is positioned above the main content on the page. On our pages, we use a drop shadow to indicate both the visual hierarchy of the top navigation, but also use a mask to cover the previously viewable content and highlight the side navigation that has transitioned into place. That way the new focus clearly becomes the side navigation.
 
 * * *
 

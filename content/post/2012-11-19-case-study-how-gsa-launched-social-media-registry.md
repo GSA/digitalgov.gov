@@ -15,7 +15,7 @@ tag:
 
 In September, the General Services Administration (GSA) launched a registry of all federally-managed social media accounts. We want to explain a little of the history behind the registry and talk about a few things that make it a truly remarkable innovation from GSA.
 
-Before I start, I want to emphasize when I say “we” from here on, I&#8217;m referring to the entire team at GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) that made this happen.
+Before I start, I want to emphasize when I say “we” from here on, I&#8217;m referring to the entire team at GSA’s  Office of Citizen Services and Innovative Technologies (OCSIT) that made this happen.
 
 ## The Challenge
 
@@ -33,12 +33,12 @@ We&#8217;ve had a lot of time to research ideas over the past three years. We kn
 
   1. We wanted a way for as many qualified people as possible to add to the list. In other words, it shouldn’t be the burden of just one person or team.
   2. We wanted to add some structure to the list, but not if it would make it too burdensome for people to add things to it.
-  3. We wanted it to be easy for anyone to verify if an account is valid by seeing if it’s on the list.
+  3. We wanted it to be easy for anyone to verify if an account is valid by seeing if it’s  on the list.
   4. We knew there were a lot of government social media accounts out there, but we didn’t know how to present them in a meaningful way.
 
 The greatest inspiration for points 1 and 2 was Delicious. The core function of this service is to collect and describe a bunch of URLs. Delicious did the same thing and it was great. We liked how Delicious lets you paste in a URL, give it a few tags, and get on with things. Delicious was also smart about looking at the meta title and description of the URLs you add so you wouldn&#8217;t have to.
 
-For point 3, we looked at the w3c’s HTML validator tools. Again, simple: you enter a URL and find out some information about it. We wanted to take the same approach.
+For point 3, we looked at the w3c’s  HTML validator tools. Again, simple: you enter a URL and find out some information about it. We wanted to take the same approach.
 
 For point 4, we were at a loss. [Steve Lunceford](https://twitter.com/dslunceford) had charted this territory really well with GovTwit. Other people at TweetCongress and List.ly were making similar attempts, but it was clear that developing a great user interface for the list wouldn’t be easy.
 
@@ -54,7 +54,7 @@ The social media registry has two separate interfaces.
 
 One is hosted on HowTo.gov for people who work for the federal government to [register their accounts](https://www.WHATEVER/services/social-media-registry/). Anyone with a .gov or .mil email address can fill out a form, and receive an email with a link to another form where they can register their official accounts simply by pasting in the URL of the account. For each account they add, they have to include their agency and the language of the account.
 
-The other interface is hosted on USA.gov for the [public to verify](http://www.usa.gov/Contact/verify-social-media.shtml) if a social media account is official or not. It’s dead simple. You paste in the URL of a social media account and it tells you if it’s managed by the government or not.
+The other interface is hosted on USA.gov for the [public to verify](http://www.usa.gov/Contact/verify-social-media.shtml) if a social media account is official or not. It’s  dead simple. You paste in the URL of a social media account and it tells you if it’s  managed by the government or not.
 
 And, as I explained above, there are APIs for developers to access the entire list if they want. The APIs allow people to filter the list by any combination of social media platform, tag, or agency.
 
@@ -62,7 +62,7 @@ And, as I explained above, there are APIs for developers to access the entire li
 
 Personally, I think the idea to allow anyone with a .mil or .gov email address to verify accounts is one of the most remarkable things about the registry. Dozens of public servants have already registered hundreds of social media accounts that otherwise would have taken many hours to seek out and gather.
 
-While I’m sure the list of accounts in the registry is not perfectly comprehensive, it’s much more comprehensive that any individual or small team of people could make it.
+While I’m sure the list of accounts in the registry is not perfectly comprehensive, it’s  much more comprehensive that any individual or small team of people could make it.
 
 This approach allows us the benefits of crowdsourcing with the added benefit of knowing that every participant has been vetted and trusted with an official government email address. We call it _fedsourcing_, and I hope to see the method used in other inter-agency information gathering applications.
 
@@ -74,7 +74,7 @@ Additionally, there are other use cases where official catalogs could be fedsour
 
 ## Results
 
-We built and shipped the registry very quickly. Yes, we had three years to think about it before we got started, but once we got the green light, we had six months to finalize requirements, write user stories, develop, design, perform user testing, develop and design some more, and deploy to GSA’s servers. All while simultaneously working on other projects.
+We built and shipped the registry very quickly. Yes, we had three years to think about it before we got started, but once we got the green light, we had six months to finalize requirements, write user stories, develop, design, perform user testing, develop and design some more, and deploy to GSA’s  servers. All while simultaneously working on other projects.
 
 We shipped the registry in April, and we&#8217;ve updated it continually ever since, sometimes pushing code changes within minutes of receiving user feedback. Who says government has to be slow?
 

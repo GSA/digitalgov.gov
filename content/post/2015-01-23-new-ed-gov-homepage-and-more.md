@@ -3,7 +3,7 @@
 
 date: 2015-01-23 11:10:51 -0400
 title: 'New Ed.gov Homepage and More'
-summary: 'You may have noticed we launched our new Ed.gov homepage today. This completes the third and final phase of our visual refresh for our main website. We released the second phase of the refresh back in June. So, what’snew? Streamlined Homepage The new homepage takes our efforts to streamline navigation on the website one'
+summary: 'You may have noticed we launched our new Ed.gov homepage today. This completes the third and final phase of our visual refresh for our main website. We released the second phase of the refresh back in June. So, what’s new? Streamlined Homepage The new homepage takes our efforts to streamline navigation on the website one'
 authors: [jill-james]
 categories:
   - Content
@@ -16,7 +16,7 @@ tag:
 
 You may have noticed we launched our [new Ed.gov homepage](http://www.ed.gov/) today. This completes the third and final phase of our visual refresh for our main website. We released the [second phase of the refresh](http://www.ed.gov/blog/2014/06/ed-gov-has-a-new-look/) back in June.
 
-So, what’s new?
+So, what’s  new?
 
 ## Streamlined Homepage
 
@@ -31,7 +31,7 @@ After we rolled out the new top, bottom and side menus back in June, we’ve see
 
 ## More Mobile-Friendly
 
-Now the entire flagship Ed.gov site offers a mobile-friendly Web experience. All of our main website and blog content layouts use [responsive design](http://www2.ed.gov/web-guidance/stats/index.html) and [Bootstrap](http://getbootstrap.com/) styling, which means each webpage automatically adjusts to the size of your smartphone or tablet. There’s no more need to do that reverse pinch gesture to zoom in and so you can read the text on your phone.
+Now the entire flagship Ed.gov site offers a mobile-friendly Web experience. All of our main website and blog content layouts use [responsive design](http://www2.ed.gov/web-guidance/stats/index.html) and [Bootstrap](http://getbootstrap.com/) styling, which means each webpage automatically adjusts to the size of your smartphone or tablet. There’s  no more need to do that reverse pinch gesture to zoom in and so you can read the text on your phone.
 
 ## Online Press Room Updates
 
@@ -47,4 +47,4 @@ We made a number of improvements under the hood. We upgraded our content managem
 
 We hope these updates improve your Ed.gov experience! If you have comments or suggestions, please share them here on the blog.
 
-_This post was originally published on the [Homeroom blog](http://www.ed.gov/blog/) by Jill James, web director at the U.S. Department of Education and co-chair of the Department’s Open Government Working Group._
+_This post was originally published on the [Homeroom blog](http://www.ed.gov/blog/) by Jill James, web director at the U.S. Department of Education and co-chair of the Department’s  Open Government Working Group._

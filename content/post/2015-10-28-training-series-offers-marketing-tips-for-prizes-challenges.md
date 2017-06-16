@@ -27,7 +27,7 @@ The good news for federal agencies working with tight budgets is that both can b
 
 Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar](https://www.WHATEVER/event/module-4-the-importance-of-marketing-and-public-education/) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum](https://www.WHATEVER/event/module-5-legal-considerations-for-prizes/#schedule) on incentivized prize competitions.
 
-Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
+Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s  [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
 
 The marketing of challenges helps recruit and motivate participants, bolsters the brand of partners or sponsors, and excites the public.
 
@@ -61,7 +61,7 @@ This challenge coincides with the 50th anniversary of Star Trek, the television 
 
 The trio of experts offered advice on every aspect of marketing and public outreach. For more details, [watch and listen](https://www.youtube.com/watch?v=yEyFIzj_7RM&feature=youtu.be) to the entire webinar.
 
-For now, here’s a sampling of tips from the panel:
+For now, here’s  a sampling of tips from the panel:
 
   * Know your audience and set targeted objectives for number and type of partners and participating teams.
   * Develop tailored messages based on audiences. Keep it simple, impactful, and memorable.

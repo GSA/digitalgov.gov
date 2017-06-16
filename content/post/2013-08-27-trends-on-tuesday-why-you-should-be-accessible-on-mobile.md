@@ -23,7 +23,7 @@ How customers find what they&#8217;re looking for:
   * **Device searches**: The number of searches done on mobile devices has reached 20% in the last year. If your website isn&#8217;t accessible on mobile, you will be left behind.
   * **Different devices, different purposes**: Tablets and smartphones are becoming more popular for web browsing.
   * **Social media**: Surveys show that almost 40% of those surveyed use social media to interact with businesses.
-  * **Follow-up actions**: According to Nielsen’s findings, people who use their mobile devices to search for your products are statistically more likely to do additional searches.
+  * **Follow-up actions**: According to Nielsen’s  findings, people who use their mobile devices to search for your products are statistically more likely to do additional searches.
   * **Sales**: Searches done on mobile devices are far more likely to come to a sale than searches done on computers.
 
-It is essential, therefore, for your business to be certain that all of your products are available on mobile devices. So, what now?  Fortunately, it’s never been easier or more affordable to create a mobile website or to leverage smartphone apps and software to provide outstanding customer service.
+It is essential, therefore, for your business to be certain that all of your products are available on mobile devices. So, what now?  Fortunately, it’s  never been easier or more affordable to create a mobile website or to leverage smartphone apps and software to provide outstanding customer service.

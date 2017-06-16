@@ -19,7 +19,7 @@ Presenting data online that will serve a wide range of users can be challenging.
 
 {% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-325-Cartoon-Crowd-funnels-into-5-Gates-Viktors-Ignatenko-Hemera-Thinkstock-101889573.jpg" alt="Viktors Ignatenko/Hemera/Thinkstock" %}
 
-When creating data-centric sites, web designers must be able to scale up and scale down the technical sophistication of their data tools to meet the needs of the target users. One excellent illustration of such scaling can be found in the U.S. Census Bureau’s [American Community Survey](https://www.census.gov/programs-surveys/acs/) (ACS).
+When creating data-centric sites, web designers must be able to scale up and scale down the technical sophistication of their data tools to meet the needs of the target users. One excellent illustration of such scaling can be found in the U.S. Census Bureau’s  [American Community Survey](https://www.census.gov/programs-surveys/acs/) (ACS).
 
 **Describing Data Communities**
 

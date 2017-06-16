@@ -3,7 +3,7 @@
 
 date: 2015-07-08 10:00:36 -0400
 title: '2015 Customer Service Trends\: a Mid-Year Update'
-summary: 'Earlier this year, we published 15 Government Customer Service Trends for 2015. We&rsquo;re halfway through the year now&mdash;how are these trends holding up? 1. Centralized Customer Offices A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’soverall satisfaction with'
+summary: 'Earlier this year, we published 15 Government Customer Service Trends for 2015. We&rsquo;re halfway through the year now&mdash;how are these trends holding up? 1. Centralized Customer Offices A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’s overall satisfaction with'
 authors: [martha-dorris]
 categories:
   - Managing Digital
@@ -37,7 +37,7 @@ Earlier this year, we published [15 Government Customer Service Trends for 2015]
 
 ## 1. Centralized Customer Offices
 
-A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’s overall satisfaction with the federal government continues to fall, a single organization can monitor customer feedback from across the enterprise to identify and address problems with the customer experience (CX). Many agencies struggle to quantify the economic impact of improving CX, and justify funding such an organization. One place where we’re seeing success is in consolidating websites and contact centers to provide a single place for the customer to visit or call. Such efforts to streamline operations typically improve the customer experience, and can potentially save millions of dollars.
+A few agencies have created centralized customer offices, while others question the need for a single organization that focuses on the customer. As the public’s  overall satisfaction with the federal government continues to fall, a single organization can monitor customer feedback from across the enterprise to identify and address problems with the customer experience (CX). Many agencies struggle to quantify the economic impact of improving CX, and justify funding such an organization. One place where we’re seeing success is in consolidating websites and contact centers to provide a single place for the customer to visit or call. Such efforts to streamline operations typically improve the customer experience, and can potentially save millions of dollars.
 
 ## 2. Focus on Digital Business Strategies
 
@@ -62,7 +62,7 @@ Contact centers are still an important channel, and the government must “up th
 
 ## 7. Customer Experience Culture
 
-Agencies are paying closer attention to the Employee Viewpoint Survey (EVS) and other feedback from employees. Most agencies now require their executives to set goals to improve employee engagement. At the VA, veteran’s experience (VE) and employee engagement (EE) go hand-in-hand: you can’t have one without the other. Aside from the hiring process, employee engagement is the single biggest cultural issue impacting customer experience. Engaged employees are happier, which translates to better service for customers.
+Agencies are paying closer attention to the Employee Viewpoint Survey (EVS) and other feedback from employees. Most agencies now require their executives to set goals to improve employee engagement. At the VA, veteran’s  experience (VE) and employee engagement (EE) go hand-in-hand: you can’t have one without the other. Aside from the hiring process, employee engagement is the single biggest cultural issue impacting customer experience. Engaged employees are happier, which translates to better service for customers.
 
 ## 8. Federal Feedback Button Pilot
 
@@ -82,7 +82,7 @@ Agencies are starting to use more customer and program data to identify issues a
 
 ## 12. Personas and Journey Mapping
 
-[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
+[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s  actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
 
   * Still Serving
   * Day-by-Day
@@ -92,7 +92,7 @@ Agencies are starting to use more customer and program data to identify issues a
   * Forging Ahead
   * In Transition
 
-[Sarah Brooks recently discussed the VA’s efforts around customer research](https://www.WHATEVER/2015/05/29/getting-to-know-your-users-tips-and-tricks-from-veterans-affairs/). The personas they developed will drive efforts to improve the experience veterans have when they need benefits or medical attention. The [USA.gov team is also using personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) to inform their site redesign.
+[Sarah Brooks recently discussed the VA’s  efforts around customer research](https://www.WHATEVER/2015/05/29/getting-to-know-your-users-tips-and-tricks-from-veterans-affairs/). The personas they developed will drive efforts to improve the experience veterans have when they need benefits or medical attention. The [USA.gov team is also using personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) to inform their site redesign.
 
 ## 13. Enterprise CRM
 

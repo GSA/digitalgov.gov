@@ -22,13 +22,13 @@ A case study on how the Department of Education used the Drupal [content managem
 
 ## The Challenge
 
-The Department of Education was posting press releases using a system that posted them as static HTML files. The site design required press releases to be linked from several different pages, but the system was not designed to create those links automatically. Every time a new press release was posted, content managers had to manually link to multiple locations: the correct monthly archive page, the latest press releases page, the homepage headline area, and the site’s RSS feed.
+The Department of Education was posting press releases using a system that posted them as static HTML files. The site design required press releases to be linked from several different pages, but the system was not designed to create those links automatically. Every time a new press release was posted, content managers had to manually link to multiple locations: the correct monthly archive page, the latest press releases page, the homepage headline area, and the site’s  RSS feed.
 
 ## The Solution
 
 They moved to a CMS (Drupal) that could store the parts of a press release as data and use database queries to generate the listing pages from that data. Other database-driven CMS will allow you to do this, but may require more development work. Blogging software (like WordPress) can provide this basic functionality, too, if you post your news items as blog posts.
 
-With Drupal, they decided which pieces of information would be useful for sorting and listing (for example, title, press release data, excerpt, keywords), and created a form in the system that would collect each piece in a separate field. They then used the system’s tools (Drupal Views) to build very simple database queries that would generate the listing pages and RSS feeds.
+With Drupal, they decided which pieces of information would be useful for sorting and listing (for example, title, press release data, excerpt, keywords), and created a form in the system that would collect each piece in a separate field. They then used the system’s  tools (Drupal Views) to build very simple database queries that would generate the listing pages and RSS feeds.
 
 ## Results 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" %} 

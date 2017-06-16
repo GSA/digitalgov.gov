@@ -50,7 +50,7 @@ Your application should have a mission and stick to it. This may mean that you n
 
 ### Your Customers May Get Lost
 
-The deeper your users dig into a mobile application, the more likely they will become lost or disoriented. Users that become lost will start using the phone’s navigation and soon find themselves completely out of the application, most likely [never to return](https://www.WHATEVER/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/).
+The deeper your users dig into a mobile application, the more likely they will become lost or disoriented. Users that become lost will start using the phone’s  navigation and soon find themselves completely out of the application, most likely [never to return](https://www.WHATEVER/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/).
 
 ### Your Customers May Give Up!
 
@@ -61,7 +61,7 @@ Customers that only want one simple piece of information or to perform a single 
 
 ## How Are Agencies Trying to Pack Extra Information into Mobile Devices?
 
-We have seen some creative ways to try to navigate a site full of information. For example: using “back to the top” links interspersed down the page and “what’s on this page” links to each section on the page.
+We have seen some creative ways to try to navigate a site full of information. For example: using “back to the top” links interspersed down the page and “what’s  on this page” links to each section on the page.
 
 Additionally, in a previous article, [Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design](https://www.WHATEVER/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design/), we provided some thoughts on how to display tables and charts in responsive design applications that are still usable.
 
@@ -69,7 +69,7 @@ But, these are really only band-aids covering a bigger problem.
 
 ## How Can You Solve the Issue of Having Too Much Stuff on Your Site?
 
-As more devices flood the market, it’s going to be harder to keep the message short. Here are two ways agencies are addressing this reality.
+As more devices flood the market, it’s  going to be harder to keep the message short. Here are two ways agencies are addressing this reality.
 
-  * Create mobile experiences that cater to the specific information and tasks your mobile users want. You have to know your customer and [how they are using mobile to interact with your information and services](https://www.WHATEVER/2015/03/10/trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms/). You can look at analytics and survey data to find your users’ mobile moments. You also need a dash of creativity— content and services not popular on the traditional desktop may be immensely popular for mobile audiences, again, see TSA’s What Can I Bring?
+  * Create mobile experiences that cater to the specific information and tasks your mobile users want. You have to know your customer and [how they are using mobile to interact with your information and services](https://www.WHATEVER/2015/03/10/trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms/). You can look at analytics and survey data to find your users’ mobile moments. You also need a dash of creativity— content and services not popular on the traditional desktop may be immensely popular for mobile audiences, again, see TSA’s  What Can I Bring?
   * Create Once, Publish Everywhere. The COPE model, popularized by National Public Radio, has been something [a number of agencies hope to emulate](https://www.WHATEVER/2015/04/13/the-content-corner-structured-content-challenges-and-lessons-learned/). In this approach, you focus on structuring your data so that you can easily use the right amount of information for the right channel (e.g., 140 characters for a tweet). A number of agencies have been looking at how to implement this model and share information across government with the [Open and Structured Content Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/index.html).

@@ -22,7 +22,7 @@ One environmental factor that can affect the performance and health of students 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-387-EPA-School-IAQ-Assessment-Tool-home-and-checklist-screens-iPad.jpg" alt="EPA School IAQ Assessment Tool's home and checklist screens from an iPad" %}
 
-[The School IAQ Assessment](http://www.epa.gov/iaq/schools/iaq_schools_mobile_app/) mobile app is a “one-stop shop” for accessing guidance from EPA’s [Indoor Air Quality Tools for Schools Action Kit](http://www.epa.gov/iaq/schools/actionkit.html). You can download the app for Android devices from [Google Play](https://play.google.com/store/apps/details?id=gov.epa.airplusschools&hl=en) and for Apple devices from [iTunes](https://itunes.apple.com/us/app/epa-indoor-air-quality-tools/id1013018722?mt=8).
+[The School IAQ Assessment](http://www.epa.gov/iaq/schools/iaq_schools_mobile_app/) mobile app is a “one-stop shop” for accessing guidance from EPA’s  [Indoor Air Quality Tools for Schools Action Kit](http://www.epa.gov/iaq/schools/actionkit.html). You can download the app for Android devices from [Google Play](https://play.google.com/store/apps/details?id=gov.epa.airplusschools&hl=en) and for Apple devices from [iTunes](https://itunes.apple.com/us/app/epa-indoor-air-quality-tools/id1013018722?mt=8).
 
 The mobile app offers schools and school districts strategies for addressing critical building-related environmental health issues such as ventilation, cleaning and maintenance, environmental asthma triggers, radon, and integrated pest management. Categorized as a utility, the app downloads in under a minute and is easy to use.
 

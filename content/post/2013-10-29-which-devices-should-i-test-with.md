@@ -21,7 +21,7 @@ As testers, we do the same thing with new technology, gadgets, and new devices a
 
 **Device Differences**
   
-Smart phones have flooded the market; worldwide, Android alone is manufactured by over 23 companies, producing over 250 different device makes and models of phones. The Unites States alone has over 15 manufacturers building over 100 different makes and models. However, that’s not the end; Androids come in over 10 different operating system versions with multiple screen sizes and densities.
+Smart phones have flooded the market; worldwide, Android alone is manufactured by over 23 companies, producing over 250 different device makes and models of phones. The Unites States alone has over 15 manufacturers building over 100 different makes and models. However, that’s  not the end; Androids come in over 10 different operating system versions with multiple screen sizes and densities.
   
 While Android and Apple devices are about 92% of the US market, there are many different makes, models, and operating system versions such as Blackberry, Nokia, Sailfish, Microsoft, and Firefox, just to name a few.
   
@@ -75,7 +75,7 @@ What is your strategy for selecting devices to test? Give us your comments on th
 
 **References**
 
-  * [How to Set the Right Strategy for Selecting Devices for your Enterprise’s mobile testing](http://www.perfectomobile.com/portal/cms/resources/right_devices.pdf) &#8211; Perfecto Mobile _(PDF &#8211; 6 pages, 693 KB)_
+  * [How to Set the Right Strategy for Selecting Devices for your Enterprise’s  mobile testing](http://www.perfectomobile.com/portal/cms/resources/right_devices.pdf) &#8211; Perfecto Mobile _(PDF &#8211; 6 pages, 693 KB)_
   * [8 Tips for Android App testing](http://go.utest.com/rs/utest1/images/uTest_8_Tips_for_Android_App_Success.pdf) &#8211; uTest _(PDF &#8211; 11 pages &#8211; 717 KB)_
   * [Strategies for Choosing Test Devices](http://stephanierieger.com/strategies-for-choosing-test-devices/)
   * [Strategies for selecting mobile devices for testing](http://mobile-application-testing.blogspot.com/2013/06/strategies-for-selecting-mobile-devices.html#%21/2013/06/strategies-for-selecting-mobile-devices.html)

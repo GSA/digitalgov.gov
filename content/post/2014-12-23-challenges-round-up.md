@@ -27,9 +27,9 @@ tag:
 
 We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview").
 
-On Wednesday, December 10, the [Challenge and Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") hosted its quarterly in-person meeting to highlight the roles and responsibilities that [Challenge.gov](https://www.challenge.gov/), the Office of Science and Technology Policy (OSTP) at the White House, NASA’s Center of Excellence for Collaborative Innovation (CoECI) and federal agencies play in hosting and executing challenge and prize competitions. There were two panels of experienced managers that gave attendees insight into the institutionalization of prizes at their agencies and what makes-up a successful challenge. Finally, attendees were also able to garner exactly what they need to provide for the America COMPETES annual Congressional reporting.
+On Wednesday, December 10, the [Challenge and Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") hosted its quarterly in-person meeting to highlight the roles and responsibilities that [Challenge.gov](https://www.challenge.gov/), the Office of Science and Technology Policy (OSTP) at the White House, NASA’s  Center of Excellence for Collaborative Innovation (CoECI) and federal agencies play in hosting and executing challenge and prize competitions. There were two panels of experienced managers that gave attendees insight into the institutionalization of prizes at their agencies and what makes-up a successful challenge. Finally, attendees were also able to garner exactly what they need to provide for the America COMPETES annual Congressional reporting.
 
-This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s a look at our other events.
+This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s  a look at our other events.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
@@ -40,7 +40,7 @@ This event brought together more than 70 practitioners in-person and online, and
 
 ## Open-Sourced Ideation Platform
 
-The Consumer Financial Protection Bureau (CFPB) also presented their [open sourced ideation tool, IdeaBox](http://youtu.be/KRQ24645LOE?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC), to the community in October of this year. This event showcased how you can build an innovation program by leveraging CFPB’s open-source ideation platform, replicating their lightweight staffing model, and using their playbook of resources. They use the platform to crowdsource ideas from employees across the agency. IdeaBox source code is shared openly on Github for anybody to use.
+The Consumer Financial Protection Bureau (CFPB) also presented their [open sourced ideation tool, IdeaBox](http://youtu.be/KRQ24645LOE?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC), to the community in October of this year. This event showcased how you can build an innovation program by leveraging CFPB’s  open-source ideation platform, replicating their lightweight staffing model, and using their playbook of resources. They use the platform to crowdsource ideas from employees across the agency. IdeaBox source code is shared openly on Github for anybody to use.
 
 ## Getting Started
 

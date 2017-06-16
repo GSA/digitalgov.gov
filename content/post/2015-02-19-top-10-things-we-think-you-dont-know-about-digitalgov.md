@@ -3,7 +3,7 @@
 
 date: 2015-02-19 1:17:13 -0400
 title: 'Top 10 Things (We Think) You Don&amp;#8217;t Know about DigitalGov'
-summary: 'Things you don&amp;#8217;t know about this website, DigitalGov.gov, that is. It’sour first birthday, and we&rsquo;re celebrating by sharing some fun facts with you. A more sober look at our strategy can be read on our 6-month post, but this is a party post! w00t! 10. &nbsp;We&rsquo;ve published an impressive 480 articles and counting (this'
+summary: 'Things you don&amp;#8217;t know about this website, DigitalGov.gov, that is. It’s our first birthday, and we&rsquo;re celebrating by sharing some fun facts with you. A more sober look at our strategy can be read on our 6-month post, but this is a party post! w00t! 10. &nbsp;We&rsquo;ve published an impressive 480 articles and counting (this'
 authors: [gwynne-kostin]
 categories:
   - Content
@@ -18,13 +18,13 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" %} 
 
-Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s our first birthday, and we’re celebrating by sharing some fun facts with you. A more sober [look at our strategy can be read on our 6-month post](https://www.WHATEVER/2014/09/12/digitalgov-gov-six-months-later/), but this is a party post! w00t!
+Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s  our first birthday, and we’re celebrating by sharing some fun facts with you. A more sober [look at our strategy can be read on our 6-month post](https://www.WHATEVER/2014/09/12/digitalgov-gov-six-months-later/), but this is a party post! w00t!
 
-10.  We’ve published an impressive 480 articles and counting (this post is like #485), and we are learning more and more about you. You [still](https://www.WHATEVER/2014/09/12/digitalgov-gov-six-months-later/) love posts on [metrics](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/ "Creating Awesome Web Analytics Reports and Presentations") and on [customer service](https://www.WHATEVER/2013/12/02/whats-your-strategy-operational-excellence-product-leadership-or-customer-intimacy/ "What’s Your Strategy? Operational Excellence, Product Leadership or Customer Intimacy?"), but “[Government Open and Structured Content Models are Here](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!")”? We didn’t know you were that deliciously nerdy!
+10.  We’ve published an impressive 480 articles and counting (this post is like #485), and we are learning more and more about you. You [still](https://www.WHATEVER/2014/09/12/digitalgov-gov-six-months-later/) love posts on [metrics](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/ "Creating Awesome Web Analytics Reports and Presentations") and on [customer service](https://www.WHATEVER/2013/12/02/whats-your-strategy-operational-excellence-product-leadership-or-customer-intimacy/ "What’s  Your Strategy? Operational Excellence, Product Leadership or Customer Intimacy?"), but “[Government Open and Structured Content Models are Here](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!")”? We didn’t know you were that deliciously nerdy!
 
 9.  We swapped over to DigitalGov Search from the native WordPress search for better searching of tags and authors, but also because we plan to use feeds from our tags to revamp the [currently messy, non-scalable Resources page](https://www.WHATEVER/resources/ "Resources"). Don’t believe us, just watch!
 
-8.  Articles on DigitalGov.gov have informed the research agenda for Deloitte, Gartner and Forrester. It’s where all the smart people go to learn about trends and practices, don’t you know?
+8.  Articles on DigitalGov.gov have informed the research agenda for Deloitte, Gartner and Forrester. It’s  where all the smart people go to learn about trends and practices, don’t you know?
 
 7.  People love behind the scenes stuff. So, under the hood, DigitalGov.gov uses the WordPress-Enlightened theme with some clever CSS hacks and is hosted on [sites.usa.gov](https://sites.usa.gov). Yes, we are eating our own dogfood—or maybe drinking our own champagne! #betteranalogy
 

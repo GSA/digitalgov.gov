@@ -21,7 +21,7 @@ Who do you need to bring to the table to make a better world?
 
 In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the [2015 DigitalGov Citizen Services Summit](https://summit.WHATEVER/). She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government.
 
-“We have extraordinary teammates across government,” Smith said. “It’s one of the coolest things. I just came here in September from Silicon Valley. It was amazing to see what people have accomplished.”
+“We have extraordinary teammates across government,” Smith said. “It’s  one of the coolest things. I just came here in September from Silicon Valley. It was amazing to see what people have accomplished.”
 
 Smith acknowledged that “We, the Techies,” have not always been included in federal decision-making. The result? A buried tech talent around government, and a culture where technology is done through vendors or services. This separateness is not true of other disciplines; she pointed to law and medicine as areas where the government attracts talent in a way where people flow in and out of government. For example, lawyers may clerk for federal judges early in their careers.
 

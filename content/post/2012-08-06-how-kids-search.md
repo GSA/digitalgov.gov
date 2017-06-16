@@ -46,7 +46,7 @@ To help kids use your search engine, and find the content they need:
   * For children who can’t spell well, auto-complete is a big help
   * If you can, use a brief video on your search page to explain how search works
 
-If your website is organized by topic, younger children (under age seven) will likely have problems understanding the site’s organization (taxonomy), and will have a difficult time finding information.
+If your website is organized by topic, younger children (under age seven) will likely have problems understanding the site’s  organization (taxonomy), and will have a difficult time finding information.
 
 To help kids use your directory:
 
@@ -65,6 +65,6 @@ Young children are literal. They are learning to tell fact from fiction, and are
 
   * Bilal, D., & Wang, P. (2005). [Childrenʼs Conceptual Structures of Science Categories and the Design of Web Directories](http://ithreads.pbworks.com/f/concepts.pdf) (PDF, 111 KB, 11 pages, August 2005). _Journal of the American Society for Information Science and Technology_, 56(12), 1303-1313.
   * Druin, A., Foss, E., Hatley, L., Golub, E., Guha, M. L., Fails, J., & Hutchinson, H. (2009).[How Children Search the Internet with Keyword Interfaces](http://hcil.cs.umd.edu/trs/2009-04/2009-04.pdf) (PDF, 298 KB, 9 pages, February 2009). Proceedings of the 8th International Conference on Interaction Design and Children IDC 09, 89. ACM Press.
-  * Druin, A., Foss, E., Hutchinson, H., Golub, E., & Hatley, L. (2010). [Children’s Roles Using Keyword Search Interfaces at Home](http://dmrussell.net/CHI2010/docs/p413.pdf) (PDF, 1.4 MB, 10 pages, January 2010). _Human Factors_, 413-422.
+  * Druin, A., Foss, E., Hutchinson, H., Golub, E., & Hatley, L. (2010). [Children’s  Roles Using Keyword Search Interfaces at Home](http://dmrussell.net/CHI2010/docs/p413.pdf) (PDF, 1.4 MB, 10 pages, January 2010). _Human Factors_, 413-422.
   * Large, J. A., & Beheshti, J. (2005). [Interface Design, Web Portals, and Children](http://www.ideals.illinois.edu/handle/2142/3478) (PDF, 1.3 MB, 25 pages, December 2007). _Library Trends_, 54(2), 318-342. Citeseer.
   * Large, A., Beheshti, J., & Rahman, T. (2002). [Design Criteria for Childrenʼs Web portals: The Users Speak Out](https://www.ischool.utexas.edu/~i385q/spring2005/readings/Large_Beheshti-2002-Design.pdf) (PDF, 202 KB, 16 pages, January 2002). _Journal of the American Society for Information Science and Technology_, 53(2), 79-94.

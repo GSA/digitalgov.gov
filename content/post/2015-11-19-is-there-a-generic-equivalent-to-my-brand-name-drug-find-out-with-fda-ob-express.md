@@ -45,7 +45,7 @@ The search results are listed in three different tabs:
 
 Each list item links to the patent and exclusivity information.
 
-There are built-in links on the app home page that take you to lists of Newly Added Patents, Patent Delistings and FDA&#8217;s [Orange Book website](http://www.accessdata.fda.gov/scripts/cder/ob/). Whether you are in the newly-added patent listing or delisted patents list, the app gives you contextual information about the list and additional information. For example, if you’re looking at the newly-added patents list, it provides you additional information about the latency, before the information is available in the Orange Book, after it’s registered.
+There are built-in links on the app home page that take you to lists of Newly Added Patents, Patent Delistings and FDA&#8217;s [Orange Book website](http://www.accessdata.fda.gov/scripts/cder/ob/). Whether you are in the newly-added patent listing or delisted patents list, the app gives you contextual information about the list and additional information. For example, if you’re looking at the newly-added patents list, it provides you additional information about the latency, before the information is available in the Orange Book, after it’s  registered.
 
 The help and support links allow you to email questions directly from the app. The contact list stored on your phone is available for your use, if needed. The app also allows you to read FDA privacy and security policies.
 

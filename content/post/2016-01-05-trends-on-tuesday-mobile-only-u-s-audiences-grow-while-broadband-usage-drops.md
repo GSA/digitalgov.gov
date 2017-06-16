@@ -19,7 +19,7 @@ The Pew Research Center released an interesting [report about home Internet usag
 
 Later in the report, Pew states the growth in mobile-only audiences compensated for the drop in home broadband usage, so the overall number of people with Internet access hasn’t changed significantly.
 
-While 100% home broadband penetration may never be attainable for a number of reasons, Pew’s research found cost is the major reason for most people, cited by 43% of non-broadband users. The high monthly subscription cost was cited by 33% of those users. The next most cited reason was a “smartphone does the job,” with 12%.
+While 100% home broadband penetration may never be attainable for a number of reasons, Pew’s  research found cost is the major reason for most people, cited by 43% of non-broadband users. The high monthly subscription cost was cited by 33% of those users. The next most cited reason was a “smartphone does the job,” with 12%.
 
 The report states, “Roughly two-thirds (69%) of Americans indicate that not having a home high-speed Internet connection would be a major disadvantage to finding a job, getting health information or accessing other key information—up from 56% who said this in 2010.”
 

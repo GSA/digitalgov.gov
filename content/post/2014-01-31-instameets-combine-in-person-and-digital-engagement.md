@@ -34,4 +34,4 @@ You can view a recording of the presentation below:
 
 Also, please remember to RSVP and join us for &#8220;Triple Threat: Managing, Measuring and Archiving Government Social Media&#8221; on Wednesday, Feb. 5. During this session Hootsuite will demonstrate to agencies how they can manage multiple accounts, collect and report robust performance analysis and automate archiving for records management &#8212; all in one dashboard.
 
-It’s all part of our ongoing effort to bring you more of the best in social media for government training each week through DigitalGov University. We hope you can join us.
+It’s  all part of our ongoing effort to bring you more of the best in social media for government training each week through DigitalGov University. We hope you can join us.

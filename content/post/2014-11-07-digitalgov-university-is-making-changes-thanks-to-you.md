@@ -24,7 +24,7 @@ In addition to our usual post event surveys where we ask &#8220;how we are doing
 
 ## Finding 1:You want to know the &#8220;level&#8221; of the event
 
-More than a few of you who&#8217;ve attended an event commented that you were surprised to find out that it was basic, informational, or technical when you were expecting something advanced, hands-on, or non-technical. So we are going to work more closely with the program sponsors moving forward to indicate on the event page the type of event we are hosting. Whether it’s hands-on, informational, beginner (no experience needed), or technical (level of experience needed).
+More than a few of you who&#8217;ve attended an event commented that you were surprised to find out that it was basic, informational, or technical when you were expecting something advanced, hands-on, or non-technical. So we are going to work more closely with the program sponsors moving forward to indicate on the event page the type of event we are hosting. Whether it’s  hands-on, informational, beginner (no experience needed), or technical (level of experience needed).
 
 ## Finding 2: Not enough people know about DGU
 

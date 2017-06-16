@@ -3,7 +3,7 @@
 
 date: 2015-10-19 10:04:17 -0400
 title: 'The Content Corner\: Helping Your Content Contributors'
-summary: 'Recently,&nbsp;I shared some suggestions and personal lessons learned for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow. Let’stake things one step further and focus on arguably the most important parts of your CMS\: the content creator or&nbsp;user. Arguments can be made that content is the most'
+summary: 'Recently,&nbsp;I shared some suggestions and personal lessons learned for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow. Let’s take things one step further and focus on arguably the most important parts of your CMS\: the content creator or&nbsp;user. Arguments can be made that content is the most'
 authors: [tymanuel]
 categories:
   - Content
@@ -22,7 +22,7 @@ tag:
 
 Recently, [I shared some suggestions and personal lessons learned](https://www.WHATEVER/2015/10/05/the-content-corner-content-management-system-considerations/) for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow.
 
-Let’s take things one step further and focus on arguably the most important parts of your CMS: the content creator or user. Arguments can be made that content is the most important, but the user creates that content, so either way we have a tight first and second most important ranking.
+Let’s  take things one step further and focus on arguably the most important parts of your CMS: the content creator or user. Arguments can be made that content is the most important, but the user creates that content, so either way we have a tight first and second most important ranking.
 
 By applying some good [user experience](https://www.WHATEVER/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/) practices, you can help make your content creator&#8217;s job as easy as possible and also ensure you get the best content as efficiently as possible.
 
@@ -71,7 +71,7 @@ A final consideration that can get lost in the focus on form functionality and r
 
 Providing structure to the form fields and creating groupings of fields that make sense can provide flow to the form, just as you would with an article or other content.
 
-In our job form, we leveraged Drupal’s field grouping to create clear sections dedicated to the main components of the job posting, such as contact information and court location. We also used a field grouping that would be closed by default, but could be expanded by a user if needed. This helps reduce clutter and confusing additional form fields that many of our users wouldn’t need to even see.
+In our job form, we leveraged Drupal’s  field grouping to create clear sections dedicated to the main components of the job posting, such as contact information and court location. We also used a field grouping that would be closed by default, but could be expanded by a user if needed. This helps reduce clutter and confusing additional form fields that many of our users wouldn’t need to even see.
 
 Similar guides for the user can be created using the standard tools of [good content formatting](https://www.WHATEVER/2015/07/06/the-content-corner-creating-good-content-is-hard/) such as clear headings and breaking up information in a way that improves scanning.
 

@@ -3,7 +3,7 @@
 
 date: 2014-07-29 10:07:10 -0400
 title: '&amp;#8220;Deconstructing&amp;#8221; Public Prize Competitions Can Result in Better Solutions'
-summary: 'When faced with a big, daunting problem to solve, it’shuman nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges&rsquo;) was that the government can often receive better solutions'
+summary: 'When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges&rsquo;) was that the government can often receive better solutions'
 authors: [tlowden]
 categories:
   - Challenges
@@ -21,7 +21,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" %} 
 
-When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it “one step at a time.” The message from a recent DigitalGov University webinar on public prize competitions (AKA ‘challenges’) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step.
+When faced with a big, daunting problem to solve, it’s  human nature to try to tackle it by breaking it down into smaller parts and taking it “one step at a time.” The message from a recent DigitalGov University webinar on public prize competitions (AKA ‘challenges’) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step.
 
 A great example of the power of this style of challenge is the <a href="http://www.topcoder.com/cms/hfpp/" target="_blank">Healthcare Fraud Prevention Partnership (HFPP) Challenge</a>, which was run by the Centers for Medicare and Medicaid Services (CMS). It was broken into 55 discrete pieces, with an award at the end of each “mini-competition.”
 
@@ -29,7 +29,7 @@ One of the challenge managers of the HFPP Challenge, CMS’ Jason Zeiler, was on
 
 ## Lowers the Barrier of Entry for Competitors
 
-By deconstructing a challenge that asks for a piece of software, for example, an agency can involve solvers who may not have all of the skills to get from point A to Z, but could be very good at what’s needed to get from A to D. Breaking down such a challenge into small competitions on ideation, conceptualization, storyboards, wireframes, architecture, code development, and bug hunts allows potential solvers of all skill sets to contribute to discrete parts of the overall solution. If the challenge was structured in a way that solvers were required to submit only the final solution, there would be fewer people with all the required skills, and therefore, solutions may be of lesser quality.
+By deconstructing a challenge that asks for a piece of software, for example, an agency can involve solvers who may not have all of the skills to get from point A to Z, but could be very good at what’s  needed to get from A to D. Breaking down such a challenge into small competitions on ideation, conceptualization, storyboards, wireframes, architecture, code development, and bug hunts allows potential solvers of all skill sets to contribute to discrete parts of the overall solution. If the challenge was structured in a way that solvers were required to submit only the final solution, there would be fewer people with all the required skills, and therefore, solutions may be of lesser quality.
 
 ## Decreases Required Investment from Solvers
 

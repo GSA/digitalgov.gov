@@ -29,7 +29,7 @@ Jessica Hernandez, Team Leader for Innovation and Technology Solutions at FDA an
 
 ## From Boot Camp to Shark Tank
 
-In June, the nine aimHI students went through an intensive three-day boot camp that introduced them to FDA, product development and lean start-up. After the boot camp, participants were charged with solving a problem for FDA’s Center for Devices and Radiological Health.
+In June, the nine aimHI students went through an intensive three-day boot camp that introduced them to FDA, product development and lean start-up. After the boot camp, participants were charged with solving a problem for FDA’s  Center for Devices and Radiological Health.
 
 “Over the course of five weeks, the students worked with mentors and expert coaches to transform from students with limited or no prior information technology experience to project managers, user researchers, designers and application developers,” Hernandez said.
 

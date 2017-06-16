@@ -24,7 +24,7 @@ We recently interviewed [Sara Wachter-Boettcher](http://www.sarawb.com/), author
 
 **How would you describe structured content?**
 
-Most content on the web is unstructured, meaning it’s just a page with blobs of text on it. Structured content, on the other hand, is more like a recipe. It has obvious chunks to it that help a reader understand what they’re looking at, and that are consistent from one recipe to the next: ingredients, instructions, and so on. These patterns create consistent types of content you publish, and allow you to use and reuse content as needed.
+Most content on the web is unstructured, meaning it’s  just a page with blobs of text on it. Structured content, on the other hand, is more like a recipe. It has obvious chunks to it that help a reader understand what they’re looking at, and that are consistent from one recipe to the next: ingredients, instructions, and so on. These patterns create consistent types of content you publish, and allow you to use and reuse content as needed.
 
 **How does an organization find its content strategy?**
 
@@ -51,4 +51,4 @@ One solution to fix these problems is to get people thinking about content strat
 
 You need to have a clear set of principles, determining the goal of the web site, what content is important to your audience and what it really needs from the site—and then get the organization to work in a structured way to deliver it.
 
-This is another instance where [change is essential](https://www.WHATEVER/2016/08/04/that-six-letter-word-change/). Sara notes, “If you work in an organization, you have been trained to think through the lens of the organization—[which] makes it very hard to think about users. People need to get into the habit of thinking about the customer, and then think about the steps and the questions they have and use it as a tool to reflect on the content. Why would they be looking for some information? What is the scenario?” Asking questions like these forces people to revise the way they examine their organization’s web content to help them move forward with a strategy that works.
+This is another instance where [change is essential](https://www.WHATEVER/2016/08/04/that-six-letter-word-change/). Sara notes, “If you work in an organization, you have been trained to think through the lens of the organization—[which] makes it very hard to think about users. People need to get into the habit of thinking about the customer, and then think about the steps and the questions they have and use it as a tool to reflect on the content. Why would they be looking for some information? What is the scenario?” Asking questions like these forces people to revise the way they examine their organization’s  web content to help them move forward with a strategy that works.

@@ -3,7 +3,7 @@
 
 date: 2013-03-12 12:19:48 -0400
 title: 'Benefits of APIs'
-summary: 'Understanding the benefits of API production allows you to coordinate with system owners and other stakeholders to modernize the agency’ssystems and unlock the sizable potential. Here are just some of these opportunities. Efficiency Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency&rsquo;s'
+summary: 'Understanding the benefits of API production allows you to coordinate with system owners and other stakeholders to modernize the agency’s systems and unlock the sizable potential. Here are just some of these opportunities. Efficiency Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency&rsquo;s'
 authors: [gray-brooks]
 categories:
   - API
@@ -15,11 +15,11 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
-Understanding the benefits of API production allows you to coordinate with system owners and other stakeholders to modernize the agency’s systems and unlock the sizable potential. Here are just some of these opportunities.
+Understanding the benefits of API production allows you to coordinate with system owners and other stakeholders to modernize the agency’s  systems and unlock the sizable potential. Here are just some of these opportunities.
 
 ## Efficiency
 
-Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency’s content is ready for easy sharing and redistribution to deliver your mission directly to more citizens.
+Providing API access allows for content to be created once and automatically published or made available to many channels. Your agency’s  content is ready for easy sharing and redistribution to deliver your mission directly to more citizens.
 
 ## Wider Reach
 

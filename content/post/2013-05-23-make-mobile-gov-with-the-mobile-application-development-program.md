@@ -3,7 +3,7 @@
 
 date: 2013-05-23 9:01:11 -0400
 title: 'Make Mobile Gov with the Mobile Application Development Program'
-summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA’sDigital Services Innovation Center and the Federal CIO Council launch the Mobile Application'
+summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA’s Digital Services Innovation Center and the Federal CIO Council launch the Mobile Application'
 authors: [jparcell]
 categories:
   - Code
@@ -21,7 +21,7 @@ tag:
 {% include image/full-width.html img="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" %}
 Anytime, Anywhere, Any Device.
 
-The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
+The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s  [Digital Services Innovation Center](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
 
 The program&#8211;developed with and by 25 agencies across government&#8211;will help agencies in each stage of mobile development.
 
@@ -31,9 +31,9 @@ The program&#8211;developed with and by 25 agencies across government&#8211;will
 
   *  **Test** &#8211;Make sure your app works on all devices by leveraging automated and in the wild testing support. Test for security & accessibility.
 
-  *  **Launch** &#8211;Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s for promoting your apps.
+  *  **Launch** &#8211;Let people know yours is an official government app by registering it. Get your app in the app stores and leverage API’s  for promoting your apps.
 
-## What’s In It?
+## What’s  In It?
 
 The program is chock full of useful resources and tools. For starters there is
 

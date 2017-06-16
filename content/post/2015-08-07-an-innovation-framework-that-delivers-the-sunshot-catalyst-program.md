@@ -3,7 +3,7 @@
 
 date: 2015-08-07 10:00:00 -0400
 title: 'An Innovation Framework That Delivers\: The SunShot Catalyst Program'
-summary: 'Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people. The Department of Energy’sSunShot Initiative funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the SunShot Catalyst open innovation program seeks to rapidly deliver solar solutions'
+summary: 'Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people. The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the SunShot Catalyst open innovation program seeks to rapidly deliver solar solutions'
 authors: [awichman]
 categories:
   - Challenges
@@ -18,7 +18,7 @@ tag:
 
 Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people.
 
-The Department of Energy’s [SunShot Initiative](http://energy.gov/eere/sunshot/sunshot-initiative) funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the [SunShot Catalyst](http://catalyst.energy.gov/) open innovation program seeks to rapidly deliver solar solutions through prize challenges.
+The Department of Energy’s  [SunShot Initiative](http://energy.gov/eere/sunshot/sunshot-initiative) funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the [SunShot Catalyst](http://catalyst.energy.gov/) open innovation program seeks to rapidly deliver solar solutions through prize challenges.
 
 Catalyst has been recognized as a leader in the innovation field. The [International Society for Professional Innovation Management](http://ispim.org/) (ISPIM) recently [awarded Catalyst the ISPIM Grand Prize 2015 for excellence in innovation management](http://www.innovationexcellence.com/blog/2015/06/30/ispim-grand-prize-2015-we-have-a-winner/).
 
@@ -48,7 +48,7 @@ Catalyst touches more innovators than just the ones who submit videos, prototype
 
 Contreras said that the Catalyst team began working with topcoder after seeing that many freelance techies were looking for an incentive to dive into entrepreneurship.
 
-“There’s a lot of people willing to do work, and as the momentum builds, it becomes a passion and a livelihood,” Contreras said. “We see it with the sharing economy and we’re seeing it here, with our ability to take these communities and plug them into the Catalyst framework.”
+“There’s  a lot of people willing to do work, and as the momentum builds, it becomes a passion and a livelihood,” Contreras said. “We see it with the sharing economy and we’re seeing it here, with our ability to take these communities and plug them into the Catalyst framework.”
 
 Catalyst also aligns with other federal efforts: for the Solar apps challenge, all 17 finalists made an effort to incorporate [Green Button data](https://www.WHATEVER/2015/02/04/saving-energy-one-green-button-at-a-time/).
 

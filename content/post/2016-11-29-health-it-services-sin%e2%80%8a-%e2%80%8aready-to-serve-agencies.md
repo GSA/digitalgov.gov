@@ -3,7 +3,7 @@
 
 date: 2016-11-29 12:00:35 -0400
 title: 'Health IT Services SIN &mdash; Ready to Serve Agencies'
-summary: 'This summer I announced the the release of our new Health IT Services Special Item Number (SIN 132&ndash;56) on IT Schedule 70. Now, I am happy to report that the SIN has been awarded to 65 highly qualified industry partners &mdash; with that number continuing to grow daily as new contracts are being awarded. With such a'
+summary: 'This summer I announced the the release of our new Health IT Services Special Item Number (SIN 132—56) on IT Schedule 70. Now, I am happy to report that the SIN has been awarded to 65 highly qualified industry partners &mdash; with that number continuing to grow daily as new contracts are being awarded. With such a'
 authors: [mary-davie]
 categories:
   - Managing Digital
@@ -30,4 +30,4 @@ I encourage agencies to visit the [IT Schedule 70 Health IT SIN](http://www.gsa.
 
 Please follow us on Twitter [@GSA_ITC](https://twitter.com/#!/GSA_ITC) and [LinkedIn](https://www.linkedin.com/company/office-of-information-technology-category-itc-) to join our ongoing conversations about government IT.
 
-_This post was originally published on GSA’s_ [_Great Government Through Technology_](https://gsablogs.gsa.gov/technology/) _blog by_ [_Mary Davie_](https://gsablogs.gsa.gov/technology/about-mary-davie/)_, Assistant Commissioner, Office of Information Technology Category (ITC)._
+_This post was originally published on GSA’s _ [_Great Government Through Technology_](https://gsablogs.gsa.gov/technology/) _blog by_ [_Mary Davie_](https://gsablogs.gsa.gov/technology/about-mary-davie/)_, Assistant Commissioner, Office of Information Technology Category (ITC)._

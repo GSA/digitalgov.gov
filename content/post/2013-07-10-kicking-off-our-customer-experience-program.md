@@ -3,7 +3,7 @@
 
 date: 2013-07-10 10:23:01 -0400
 title: 'Kicking Off Our Customer Experience Program'
-summary: 'The vision for my office, the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA, is simple\: Deliver a world-class experience to the public when accessing government information and services &ndash; anytime, anywhere &ndash; through the delivery channel they choose. &nbsp;We create and leverage products, services and approaches'
+summary: 'The vision for my office, the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA, is simple\: Deliver a world-class experience to the public when accessing government information and services — anytime, anywhere — through the delivery channel they choose. &nbsp;We create and leverage products, services and approaches'
 authors: [martha-dorris]
 categories:
   - Managing Digital
@@ -31,7 +31,7 @@ tag:
 
   1. Better understanding of our customers and their needs.
   2. Better products and services due to feedback from the customer.
-  3. Improved brand recognition, adoption, satisfaction with and loyalty to OCSIT’s products and services
+  3. Improved brand recognition, adoption, satisfaction with and loyalty to OCSIT’s  products and services
   4. Improved value proposition leading to resource justification.
   5. Improved trust in government
   6. Improved employee engagement

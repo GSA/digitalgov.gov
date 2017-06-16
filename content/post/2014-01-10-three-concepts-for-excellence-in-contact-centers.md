@@ -25,9 +25,9 @@ Using contact centers to deliver digital services is an emerging area in governm
 
 Timeliness of resolving your problem, question or request.
 
-Provide context so customers can understand what to expect and why. Use explanatory statements to explain a process and set clear expectations. There’s a big difference between: “I need to place you on hold for no longer than 1 minute so I can research your question further” and “Please hold.”
+Provide context so customers can understand what to expect and why. Use explanatory statements to explain a process and set clear expectations. There’s  a big difference between: “I need to place you on hold for no longer than 1 minute so I can research your question further” and “Please hold.”
 
-To understand the customer experience better, GSA’s Office of Citizen Services and Innovative Technologies collaborated with JD Power and Associates on a comprehensive operational assessment of our National Contact Center (1-800-FED-INFO).  We also implemented independent customer satisfaction surveys across our telephone, web chat, and email contact channels.
+To understand the customer experience better, GSA’s  Office of Citizen Services and Innovative Technologies collaborated with JD Power and Associates on a comprehensive operational assessment of our National Contact Center (1-800-FED-INFO).  We also implemented independent customer satisfaction surveys across our telephone, web chat, and email contact channels.
 
 This exercise provided us with an “outside in” analysis of our contact center operations and customer experience as seen through the eyes of the customer and from a leader in the industry.
 
@@ -35,7 +35,7 @@ We received valuable, actionable results.
 
 **Three core concepts I learned that are applicable across the board:**
 
-**1. You cannot be all things to all people**. Customer satisfaction is your customer’s perception of your performance versus what they expect it to be.  This sounds so simple, but we learned that it isn’t. We sell our services one way, so the customer expects that service level. Makes sense.
+**1. You cannot be all things to all people**. Customer satisfaction is your customer’s  perception of your performance versus what they expect it to be.  This sounds so simple, but we learned that it isn’t. We sell our services one way, so the customer expects that service level. Makes sense.
 
 In the example we analyzed, we tell our customers that we are “government made easy” and that we can answer their questions about government programs and services.  This is true, but not all the time.  In many cases, we cannot answer the specific question and we must refer them to other agencies who can best meet their needs.
 

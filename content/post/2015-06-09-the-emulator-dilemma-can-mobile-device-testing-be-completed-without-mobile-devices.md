@@ -100,7 +100,7 @@ Native applications are far more unpredictable and require much more physical de
 
 ## Conclusion:
 
-While emulators and simulators are great tools for the tester’s and developer’s toolbox, testing on physical mobile devices will always be a required part of the development and testing process. Keep in mind: the public will not be accessing your agency&#8217;s mobile product via an emulator!
+While emulators and simulators are great tools for the tester’s  and developer’s  toolbox, testing on physical mobile devices will always be a required part of the development and testing process. Keep in mind: the public will not be accessing your agency&#8217;s mobile product via an emulator!
 
 This is why we have been testing agency websites and native apps on mobile devices in the [Federal Crowdsource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/), and we have learned a few things that you would not learn on an emulator. If you want to help out a fellow agency you can sign up to [help us virtually test the beta site of USA.gov](https://openopps.WHATEVER/tasks/94) at your leisure, June 15-22, 2015.
 
@@ -108,4 +108,4 @@ The goal of testing is to reduce the risk of releasing software that does not fu
 
 _You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/)._
 
-_David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation._
+_David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s  Division of Quality, Testing and Validation._

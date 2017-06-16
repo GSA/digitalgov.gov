@@ -34,8 +34,8 @@ With the open source release of the [White House&#8217;s API Standards template]
 
 ## <a name="examples-apis-government"></a>Examples of APIs in Government
 
-  * APIs That Power Agency-Built Mobile Apps—[CDC’s Content API](http://tools.cdc.gov/syndication/api.aspx), [Census Bureau economic APIs](http://www.census.gov/developers/), [Federal Motor Carrier Safety Administration’s SaferBus API](https://mobile.fmcsa.dot.gov/developer/home.page)
-  * APIs That Power Agency Websites—[GSA’s Social Media Registry API](http://www.usa.gov/About/developer-resources/social-media-registry.shtml), [FCC’s National Broadband Map APIs](http://www.broadbandmap.gov/developer)
+  * APIs That Power Agency-Built Mobile Apps—[CDC’s  Content API](http://tools.cdc.gov/syndication/api.aspx), [Census Bureau economic APIs](http://www.census.gov/developers/), [Federal Motor Carrier Safety Administration’s  SaferBus API](https://mobile.fmcsa.dot.gov/developer/home.page)
+  * APIs That Power Agency Websites—[GSA’s  Social Media Registry API](http://www.usa.gov/About/developer-resources/social-media-registry.shtml), [FCC’s  National Broadband Map APIs](http://www.broadbandmap.gov/developer)
   * Single Endpoint API Set—[Department of Labor](http://developer.dol.gov/)
   * Website Content APIs—[CDC](http://tools.cdc.gov/syndication/api.aspx), [FCC](http://www.fcc.gov/developers/fcc-content-api), [SBA](http://www.sba.gov/about-sba-info/140931)
   * For more examples, note the individual APIs [within agency&#8217;s developer hubs](https://github.com/GSA/slash-developer-pages#readme)

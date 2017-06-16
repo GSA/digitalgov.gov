@@ -12,7 +12,7 @@ tag:
   - US Fish and Wildlife Service
 ---
 
-The power of using social media to find and create images can be overwhelming. What image do I post? How can I get more followers when I don’t have animals or pretty pictures to share? All good questions. The fact is, no matter what your agency does you can find a visual way to tell your story and connect with people who care about what you do. It’s just helpful to think through the best way to tell your story, first. Whether it’s by video, still photos, GIFs, Infographics, etc or some combination multiple visuals, it helps to remember your goals. Here at [U.S. Fish and Wildlife Service](http://www.fws.gov/), we’ve found a few key ways to use visuals and learn from our passionate communities.
+The power of using social media to find and create images can be overwhelming. What image do I post? How can I get more followers when I don’t have animals or pretty pictures to share? All good questions. The fact is, no matter what your agency does you can find a visual way to tell your story and connect with people who care about what you do. It’s  just helpful to think through the best way to tell your story, first. Whether it’s  by video, still photos, GIFs, Infographics, etc or some combination multiple visuals, it helps to remember your goals. Here at [U.S. Fish and Wildlife Service](http://www.fws.gov/), we’ve found a few key ways to use visuals and learn from our passionate communities.
 
 ## Use images to empower others
 
@@ -23,7 +23,7 @@ When we hosted a large event called the [Ivory Crush](http://www.fws.gov/le/elep
 
 ## Provide visual resources
 
-We process visual information 60,000x quicker than written text. So when it comes to a way to quickly convey an educational message or discuss differences and dispel myths, visuals can be incredibly helpful. Just remember 508 compliance, it’s important to have great text to accompany visual elements in your communication, but when possible, use images to explain things clearly and succinctly. The following photos quickly showed the difference between black and turkey vultures from below.
+We process visual information 60,000x quicker than written text. So when it comes to a way to quickly convey an educational message or discuss differences and dispel myths, visuals can be incredibly helpful. Just remember 508 compliance, it’s  important to have great text to accompany visual elements in your communication, but when possible, use images to explain things clearly and succinctly. The following photos quickly showed the difference between black and turkey vultures from below.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-348-Visual-Greatness-FWS-Vultures.jpg" alt="Vultures" %}

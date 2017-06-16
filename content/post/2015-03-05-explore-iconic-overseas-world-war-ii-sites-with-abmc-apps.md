@@ -21,7 +21,7 @@ tag:
 </div>
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-427-American-Battle-Monuments-Commission-ABMC-Normandy-American-Cemetery-Android-app.jpg" alt="Screen capture of home screen for the Normandy American Cemetery app" %}Those are the words of Rene Coty, the president of France from 1954 to 1959, inscribed in the American Battle Monuments Commission’s Normandy American Cemetery Visitor Center in France.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-427-American-Battle-Monuments-Commission-ABMC-Normandy-American-Cemetery-Android-app.jpg" alt="Screen capture of home screen for the Normandy American Cemetery app" %}Those are the words of Rene Coty, the president of France from 1954 to 1959, inscribed in the American Battle Monuments Commission’s  Normandy American Cemetery Visitor Center in France.
 
 The Normandy American Cemetery is one of the 25 permanent American military cemeteries in foreign countries that the [American Battle Monuments Commission](http://www.abmc.gov) (ABMC) maintains to honor the service, achievements and sacrifices of U.S. armed forces.
 
@@ -36,7 +36,7 @@ The Normandy American Cemetery app is available for [iOS](https://itunes.apple.c
 
 The Cambridge American Cemetery is similarly available for [iOS](https://itunes.apple.com/us/app/cambridge-american-cemetery/id965887167?mt=8) and [Android](https://play.google.com/store/apps/details?id=gov.abmc.cambridge) devices.
 
-These new ABMC apps, as well as the very popular [Pointe du Hoc](http://www.abmc.gov/news-events/news/explore-battle-pointe-du-hoc-your-smartphone) promontory app released earlier, help users learn the stories of the Americans buried overseas, explore the sites without needing to be physically present, and understand the U.S. military’s role in World War II. AMBC plans to release native applications for other sites later this year.
+These new ABMC apps, as well as the very popular [Pointe du Hoc](http://www.abmc.gov/news-events/news/explore-battle-pointe-du-hoc-your-smartphone) promontory app released earlier, help users learn the stories of the Americans buried overseas, explore the sites without needing to be physically present, and understand the U.S. military’s  role in World War II. AMBC plans to release native applications for other sites later this year.
 
 <div class="testimonial small">
   Time will not dim the glory of their deeds.<br /> <span class="test-author">General of the Armies John J. Pershing, first chairman of ABMC</span>

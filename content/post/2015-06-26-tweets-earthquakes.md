@@ -23,7 +23,7 @@ tag:
 
 When one thinks of social media, usually it is thought of as a tool to keep in touch with friends and family. Behind all the social networking lies vast amounts of data that can be used in a multitude of ways. This data is an opportunity for government agencies to improve the services they provide to the public.
 
-There are a number of agencies that are using social media data in order [to improve services and cut costs](https://www.WHATEVER/2015/01/05/great-customer-service-in-140-characters-askfafsa-twitter-chats/). For example, social media data can be used to enhance the overall effectiveness of an agency&#8217;s data. The U.S. Geological Survey (USGS) operates a system that detects earthquakes using data from Twitter. This is by no means the only system that USGS relies on to track earthquakes. But, the tweet-based system serves as a tool that enhances the data provided from the USGS’s traditional methods of earthquake detection.
+There are a number of agencies that are using social media data in order [to improve services and cut costs](https://www.WHATEVER/2015/01/05/great-customer-service-in-140-characters-askfafsa-twitter-chats/). For example, social media data can be used to enhance the overall effectiveness of an agency&#8217;s data. The U.S. Geological Survey (USGS) operates a system that detects earthquakes using data from Twitter. This is by no means the only system that USGS relies on to track earthquakes. But, the tweet-based system serves as a tool that enhances the data provided from the USGS’s  traditional methods of earthquake detection.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-445-Detection-Delay-Time-Figure5.jpg" alt="600-x-445-Detection-Delay-Time-Figure5" %}
@@ -72,4 +72,4 @@ There is still more to come from TED. USGS is trying to further analyze the twee
 
 “Future efforts include exploring the use of real time analytical tools with the intention of deriving characterizations of the event such as impact or intensity,” said Guy. “For example, graphing in real time the number of earthquake detection triggering tweets that have the word “damage” to assess effects of a particular felt earthquake.”
 
-_How is your agency using social media to improve the services that it provides to the public? Share below in the comments section to have your agency’s work showcased in an article on DigitalGov._
+_How is your agency using social media to improve the services that it provides to the public? Share below in the comments section to have your agency’s  work showcased in an article on DigitalGov._

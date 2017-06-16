@@ -24,9 +24,9 @@ Developers can access whole [frameworks for a mobile web site](http://gsa.github
 
 ### More than code
 
-It’s not all about code, though. Any successful mobile program needs to be able to [test the quality](http://gsa.github.io/Mobile-Code-Catalog/testing.html) and the accessibility of their apps.  The catalog also includes  test scripts to help your agency validate the functionality and accessibility of their app.  You can also find links to data, APIs and other federal developer pages.
+It’s  not all about code, though. Any successful mobile program needs to be able to [test the quality](http://gsa.github.io/Mobile-Code-Catalog/testing.html) and the accessibility of their apps.  The catalog also includes  test scripts to help your agency validate the functionality and accessibility of their app.  You can also find links to data, APIs and other federal developer pages.
 
-The Mobile Code Catalog is hosted on GitHub for a reason. In addition to the form that agencies can use to submit their open source project or resource, the catalog itself can be “forked.” Forking the catalog is the process of making a copy of it so improvements can be made without affecting the original copy. Those improvements can then be submitted to us through what’s called a “pull request.” If everything’s in order, we&#8217;ll incorporate those improvements with just a few clicks.
+The Mobile Code Catalog is hosted on GitHub for a reason. In addition to the form that agencies can use to submit their open source project or resource, the catalog itself can be “forked.” Forking the catalog is the process of making a copy of it so improvements can be made without affecting the original copy. Those improvements can then be submitted to us through what’s  called a “pull request.” If everything’s  in order, we&#8217;ll incorporate those improvements with just a few clicks.
 
 ### What&#8217;s next
 

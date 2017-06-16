@@ -52,4 +52,4 @@ The new website design is simple and intuitive. When comparing the amount of tim
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-385-ForeignAssistanceGov-Redesign-After.jpg" alt="ForeignAssistance.gov's website after re-design" %}
 
   * The new website has a simple, clean interface that is visually engaging.
-  * The site provides direct links to information that satisfies the needs of the site’s two primary end users.
+  * The site provides direct links to information that satisfies the needs of the site’s  two primary end users.

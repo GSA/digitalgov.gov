@@ -19,7 +19,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Social media is an easy way to say something. But sometimes it’s a difficult way to be heard, with the vast amount of content being shared every day. Thunderclap is a “crowdspeaking” platform that helps people be heard by saying something together using their Twitter and Facebook accounts. It allows a single message to be mass-shared, flash mob-style, so it rises above the noise of your social networks. By boosting the signal at the same time, Thunderclap helps a single person or organization create action around a specific campaign. Those who agree to support a  cause authorize Thunderclap to tweet from their accounts or blast out a Facebook post in the event that the level of support “tips,” or rises to a pre-determined threshold.
+  Social media is an easy way to say something. But sometimes it’s  a difficult way to be heard, with the vast amount of content being shared every day. Thunderclap is a “crowdspeaking” platform that helps people be heard by saying something together using their Twitter and Facebook accounts. It allows a single message to be mass-shared, flash mob-style, so it rises above the noise of your social networks. By boosting the signal at the same time, Thunderclap helps a single person or organization create action around a specific campaign. Those who agree to support a  cause authorize Thunderclap to tweet from their accounts or blast out a Facebook post in the event that the level of support “tips,” or rises to a pre-determined threshold.
 </p>
 
 <p dir="ltr">

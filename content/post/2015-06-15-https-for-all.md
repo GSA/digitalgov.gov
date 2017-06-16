@@ -27,4 +27,4 @@ The HTTPS policy will make HTTPS the default across the federal government, impr
 
 Agencies implementing HTTPS can refer to the [CIO Council&#8217;s website](https://https.cio.gov/) for technical guidance and best practices and can contribute to that site and collaborate publicly on HTTPS implementation on [GitHub](https://github.com/GSA/https/issues). Anyone with a .gov or .mil email address can participate in an HTTPS support list by [emailing the listserv](mailto:https-help@listserv.gsa.gov)—leave the subject line empty and add “subscribe https-help” to the body.
 
-Norms change quickly. The use of HTTPS ensures the highest level of protection for the government’s end user: the public.
+Norms change quickly. The use of HTTPS ensures the highest level of protection for the government’s  end user: the public.

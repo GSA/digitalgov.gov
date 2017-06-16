@@ -28,7 +28,7 @@ Through continuous building, measuring, and learning, the final product is valid
 
 ## How does this apply to government?
 
-Lean Startup was used to answer President Obama’s mandate that government agencies improve customer service and delivery of government services. The most immediate federal government example is how Lean Startup was used in designing the newly-created Consumer Financial Protection Bureau. One CFPB project was to combine and redesign two financial disclosure forms: the Truth in Lending form and the Good Faith Estimate form. The CFPB collected over 13,000 citizen comments as the combined form traveled through the Lean Startup loop to arrive at its final, more consumer-friendly design (“[Government Take a Lean Startup Approach](http://www.govtech.com/pcio/Governments-Take-a-Lean-Startup-Approach.html)”).
+Lean Startup was used to answer President Obama’s  mandate that government agencies improve customer service and delivery of government services. The most immediate federal government example is how Lean Startup was used in designing the newly-created Consumer Financial Protection Bureau. One CFPB project was to combine and redesign two financial disclosure forms: the Truth in Lending form and the Good Faith Estimate form. The CFPB collected over 13,000 citizen comments as the combined form traveled through the Lean Startup loop to arrive at its final, more consumer-friendly design (“[Government Take a Lean Startup Approach](http://www.govtech.com/pcio/Governments-Take-a-Lean-Startup-Approach.html)”).
 
 Other examples of Lean Startup (mentioned in the Government Technology article):
 
@@ -45,7 +45,7 @@ If you would like to learn more about Lean Startup and its impact on government,
 
   * An introduction to [Lean Startup Principles](http://www.theleanstartup.com/principles "Lean Startup Principles")
   * A [short video](http://www.youtube.com/watch?v=_a3s0IXSuxY) explaining Lean Startup
-  * [18F](http://18f.gsa.gov) – GSA’s startup that will apply Lean Startup principles to creating agency digital services
+  * [18F](http://18f.gsa.gov) – GSA’s  startup that will apply Lean Startup principles to creating agency digital services
   * [The Lean Startup Goes to Washington](http://www.ssireview.org/blog/entry/the_lean_startup_goes_to_washington "The Lean Startup Goes to Washington")
 
 _Dr. William A. Brantley, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). He is the creator of [Lean Scope Project Management Methodology](http://www.billbrantley.com/video-briefing-on-lean-scope-project-management) which combines Human-Centered Design and Lean Startup with project management. You can find out more about his work in this space at [BillBrantley.com](http://www.BillBrantley.com "Bill Brantley")._

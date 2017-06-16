@@ -36,7 +36,7 @@ Our study is centered around 3 questions:
 
 We are also looking at overview data for use of the mobile site and mobile use of the full site.
 
-For each of these questions, we have several data points and the data points come from a variety of sources. We are doing in-depth analysis of Web analytics data, from WebTrends and Google Analytics, user satisfaction survey responses from mobile-optimized version of the ACSI survey in both English and Spanish, and a usability lab test, which we conducted in February through GSA’s First Fridays program, which provides usability lab tests for federal government websites.
+For each of these questions, we have several data points and the data points come from a variety of sources. We are doing in-depth analysis of Web analytics data, from WebTrends and Google Analytics, user satisfaction survey responses from mobile-optimized version of the ACSI survey in both English and Spanish, and a usability lab test, which we conducted in February through GSA’s  First Fridays program, which provides usability lab tests for federal government websites.
 
 Here are the questions we&#8217;re asking in our survey:
 

@@ -20,7 +20,7 @@ tag:
 
 In addition to offering any federal agency direct support by hosting them at an API Usability session, we’ve also been working to [document and open-source the actual process itself](http://18f.github.io/API-Usability-Testing/). We want every agency to realize how readily they can scale out these exercises on their own. Within the [API Usability Kit](http://18f.github.io/API-Usability-Testing/pages/kit.html), agencies will find proposed schedules, email and handout templates, an overall guide, and frequently asked questions. But since each component is itself an open source project, anyone can easily [edit any page](https://github.com/18F/API-Usability-Testing/edit/gh-pages/index.md) or [fork the entire project](https://github.com/18F/API-Usability-Testing/fork).
 
-As we move forward, it’s our hope that you’ll join us—in person for API Usability sessions for your program, but also through open collaboration with the material that we use to run the program. Help make this program better! Anytime you have a suggestion, all you have to do is click the ‘Edit’ button in the sidebar and propose away.
+As we move forward, it’s  our hope that you’ll join us—in person for API Usability sessions for your program, but also through open collaboration with the material that we use to run the program. Help make this program better! Anytime you have a suggestion, all you have to do is click the ‘Edit’ button in the sidebar and propose away.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Gray-Brooks-What-Agencies-Get-Packaging-Up-API-Usability-Testing-for-Agency-Reuse.jpg" alt="Gray Brooks - What Agencies Get - Packaging Up API Usability Testing for Agency Reuse" %}

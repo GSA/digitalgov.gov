@@ -19,11 +19,11 @@ The art of storytelling has been around since the dawn of mankind. [Storytelling
 
 <img class="size-full wp-image-353342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt="" width="600" height="350" /> 
 
-Over the past year, Chris Reed, an environmental protection specialist in EPA’s Office of Policy, led a nationwide team that produced a set of 30 [videos that highlight sustainability initiatives](https://www.epa.gov/sustainability/sustainability-action-video-series) within the agency. Instead of traditional EPA reports and PowerPoint presentations, Reed inspired the office to look at storytelling to make successful employee efforts come alive.
+Over the past year, Chris Reed, an environmental protection specialist in EPA’s  Office of Policy, led a nationwide team that produced a set of 30 [videos that highlight sustainability initiatives](https://www.epa.gov/sustainability/sustainability-action-video-series) within the agency. Instead of traditional EPA reports and PowerPoint presentations, Reed inspired the office to look at storytelling to make successful employee efforts come alive.
 
 ## Turning Facts into Stories
 
-One of the Office of Policy’s focus areas is promoting sustainability at EPA. Bob Sachs, an environmental scientist, noted that while sustainability initiatives are already happening across the agency, the effort must be continuous and widespread: “all the time, everywhere, and with everyone.”
+One of the Office of Policy’s  focus areas is promoting sustainability at EPA. Bob Sachs, an environmental scientist, noted that while sustainability initiatives are already happening across the agency, the effort must be continuous and widespread: “all the time, everywhere, and with everyone.”
 
 “There are tons of great sustainability actions and projects going on. How do we get that word out, and how do we inform and inspire everybody else?” Sachs said. “Nobody pays attention to yet another one pager: this was our attempt to do something more interesting.”
 
@@ -42,6 +42,6 @@ The storytelling training was well received by the participants, who represented
 
 The video series includes 13 personal testimonials from the “TED Talk” event and an additional 17 documentary videos with interviews and narration. So far, 28 videos have been released to EPA employees since the beginning of 2016; two to three videos were released weekly using their existing internal communication tool, the “This Week at EPA” weekly newsletter.
 
-“On our intranet, the entire series was released for an internal audience and has 4,200 views, which is over ¼ of EPA’s population,” Sachs said. “The 10 that were approved for external release have over 6,700 views on YouTube. Of those, two were recently promoted on Facebook and already have over 5,000 views!”
+“On our intranet, the entire series was released for an internal audience and has 4,200 views, which is over ¼ of EPA’s  population,” Sachs said. “The 10 that were approved for external release have over 6,700 views on YouTube. Of those, two were recently promoted on Facebook and already have over 5,000 views!”
 
 Sachs said the videos have spurred interest across the agency, with employees wanting to replicate the storytelling style to create videos for their projects. You can find the [series of videos on the EPA&#8217;s website](https://www.epa.gov/sustainability/sustainability-action-video-series).

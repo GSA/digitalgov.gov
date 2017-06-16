@@ -20,11 +20,11 @@ Awareness of podcasting among Americans 12 years of age and older has more than 
 
 Search for “The Growth of Podcasting” and there will be a variety of publications claiming that, &#8220;Podcasts Entering &#8216;Golden Age'&#8221; or &#8220;What&#8217;s Behind the Great Podcast Renaissance?&#8221;.
 
-## So What’s Podcasting?
+## So What’s  Podcasting?
 
 Podcasts can either be in an audio or video format and are distributed via an RSS (really simple syndication) feed. They are distributed via the Internet.
 
-But the possibilities are endless. What’s really at play is a respect for learning styles. We understand that some like to read while others prefer to listen or watch. Podcasting adds a unique dimension to any organization’s ability to communicate effectively.
+But the possibilities are endless. What’s  really at play is a respect for learning styles. We understand that some like to read while others prefer to listen or watch. Podcasting adds a unique dimension to any organization’s  ability to communicate effectively.
 
 Podcasts can be well-constructed radio or television shows or nothing more than video shot at a conference on a smartphone or a snippet of audio featuring your agency head.
 

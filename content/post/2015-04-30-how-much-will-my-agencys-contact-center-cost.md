@@ -2,7 +2,7 @@
 
 
 date: 2015-04-30 11:10:52 -0400
-title: 'How Much Will My Agency’sContact Center Cost?'
+title: 'How Much Will My Agency’s Contact Center Cost?'
 summary: 'The federal government has caught the customer experience bug. We want our customers to complete their tasks with minimal effort using a streamlined process. If they need personal help, we want it to be quick, polite, and provide the best answer. But that personal help frequently requires a team of highly skilled, dedicated people&mdash;a contact'
 authors: [tonya-beres]
 categories:
@@ -22,7 +22,7 @@ The federal government has caught the [customer experience](https://www.WHATEVER
 
 When people call to ask how much it will or should cost their agency to have a contact center, I can&#8217;t give them an answer. I want to, but until I learn what they need, and the customer experience they want to provide, I really don&#8217;t know enough to give an accurate estimate.
 
-It&#8217;s similar to buying a car. There’s not one answer to how much it costs to buy car; it depends on what you&#8217;re looking for. Do you want a car or an SUV? Automatic or manual? High-performance or economy? Leather or fabric interior? Just as all these elements weigh into the cost of a car, the cost of a contact center is dependent on many factors.
+It&#8217;s similar to buying a car. There’s  not one answer to how much it costs to buy car; it depends on what you&#8217;re looking for. Do you want a car or an SUV? Automatic or manual? High-performance or economy? Leather or fabric interior? Just as all these elements weigh into the cost of a car, the cost of a contact center is dependent on many factors.
 
 As the manager of the [USA.gov Contact Center](http://www.usa.gov/phone.shtml) and the Co-Chair of the [Government Contact Center Council](https://www.WHATEVER/communities/government-contact-center-council-g3c/) (G3C), I get this question about once a month. We&#8217;ve developed a set of questions that will help an agency determine the type of contact center support they need.
 

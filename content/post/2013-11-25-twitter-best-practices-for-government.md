@@ -35,7 +35,7 @@ tag:
         Twitter says:
         
         > <p dir="ltr">
-        >   As Twitter’s role in the media world continues to grow and evolve, we wanted to create a place where people and companies from the worlds of TV, sports, journalism, government, music, faith and nonprofits could have self-service access to ways to increase their impact in the global town square.
+        >   As Twitter’s  role in the media world continues to grow and evolve, we wanted to create a place where people and companies from the worlds of TV, sports, journalism, government, music, faith and nonprofits could have self-service access to ways to increase their impact in the global town square.
         > </p>
         
         The new site is a searchable database of curated  how-tos designed to complement other channels:

@@ -27,21 +27,21 @@ If you are using Google Analytics you have access to a ton of data. It can be a 
   * How engaged are they?
   * What content were visitors searching for?
   * How do visitors navigate through our website?
-  * What’s popular and what’s not?
+  * What’s  popular and what’s  not?
 
 ## Step 2: Analyze
 
-Keep in mind that throughout your analysis, it’s important to interpret your metrics in context.
+Keep in mind that throughout your analysis, it’s  important to interpret your metrics in context.
 
   * **Consider the purpose of your site.** Take your bounce rate, for example, (the percentage of visitors who only looked at one page and immediately left your site). If your site primarily serves to refer visitors to other websites, then you would expect to see a higher bounce rate, perhaps 70% or above. On the other hand, if the purpose of your website is to provide content, you might hope to see a bounce rate closer to 30% or 40%.
   * **Look at how your metrics relate to one another.** When looking at your bounce rate, for example, consider how it compares to your other engagement metrics, like time on site. This helps tell a fuller story about the experience your users are having.
-  * **Listen to what your users have to say.** Customer satisfaction information and usability testing can provide valuable context for interpreting your metrics. If you aren’t sure whether your bounce rate suggests users are quickly finding what they want and leaving, or that they simply left unsatisfied, there’s nothing like hearing feedback directly from your users themselves.
-  * **Consider what surprised you in the data.** You know your site well; if something surprised you, it’s worth exploring.
+  * **Listen to what your users have to say.** Customer satisfaction information and usability testing can provide valuable context for interpreting your metrics. If you aren’t sure whether your bounce rate suggests users are quickly finding what they want and leaving, or that they simply left unsatisfied, there’s  nothing like hearing feedback directly from your users themselves.
+  * **Consider what surprised you in the data.** You know your site well; if something surprised you, it’s  worth exploring.
 
 ## Step 3: Act
 
   * Focus on key areas where changes could improve users’ experience.
-  * Make changes that will align with your agency’s strategic objectives.
+  * Make changes that will align with your agency’s  strategic objectives.
 
 In thinking about where to start when it comes to making site improvements, keep your strategic objectives in mind. Consider what steps you can take to best support your goals based on the data.
 

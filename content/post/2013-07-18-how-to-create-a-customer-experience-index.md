@@ -42,4 +42,4 @@ By creating a measurable outcome, we can create a baseline that will target futu
 
 Our next steps are to begin thinking through our communication strategy and continued training of our team through expert speakers and webinars.  Each program will be engaging with their customers and with their employees to get input on improvements and use our program as a way to self assess their success and actions needed going forward.
 
-CX is an ever changing goal given that your customers’ expectations continually change, but one that’s worth our commitment to deliver an outstanding experience when interacting with government.
+CX is an ever changing goal given that your customers’ expectations continually change, but one that’s  worth our commitment to deliver an outstanding experience when interacting with government.

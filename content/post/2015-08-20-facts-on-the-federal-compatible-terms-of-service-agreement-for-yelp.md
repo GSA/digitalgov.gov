@@ -3,7 +3,7 @@
 
 date: 2015-08-20 2:59:39 -0400
 title: 'Facts on the Federal-Compatible Terms of Service Agreement for Yelp'
-summary: 'We&rsquo;ve been excited to see the outpouring of interest this week in response to Yelp’sdecision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them. Yelp is just one of dozens of platforms'
+summary: 'We&rsquo;ve been excited to see the outpouring of interest this week in response to Yelp’s decision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them. Yelp is just one of dozens of platforms'
 authors: [jherman]
 categories:
   - Social Media
@@ -13,9 +13,9 @@ tag:
   - TOS
 ---
 
-We’ve been excited to see the outpouring of interest this week in response to Yelp’s decision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them.
+We’ve been excited to see the outpouring of interest this week in response to Yelp’s  decision to amend their terms of service for official government use, a clear message that citizens want more ways to ensure their voices are heard by the public programs that serve them.
 
-Yelp is just one of dozens of platforms similarly available for agencies to listen to the “Voice of the Customer,” like [Feedback USA](https://feedback.usa.gov/). We want to take this opportunity to dispel some myths (there’s a lot), explain the process itself (it’s wonky even by government standards), and let you know what you can (or can not) expect in case this is your first time hearing about this program.
+Yelp is just one of dozens of platforms similarly available for agencies to listen to the “Voice of the Customer,” like [Feedback USA](https://feedback.usa.gov/). We want to take this opportunity to dispel some myths (there’s  a lot), explain the process itself (it’s  wonky even by government standards), and let you know what you can (or can not) expect in case this is your first time hearing about this program.
 
 ## What are federal-compatible terms of service?
 

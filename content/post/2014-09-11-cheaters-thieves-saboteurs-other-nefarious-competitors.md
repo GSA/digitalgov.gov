@@ -18,9 +18,9 @@ Challenge and prize competitions are competitive and not always squeaky clean. T
 
 So this [Quartz](http://qz.com/261138/crowdsourcing-competitions-encourage-malicious-behavior-study-finds/)/[NexGov article, _Crowdsourcing Behavior Encourages Malicious Behavior, Study Finds_](http://www.nextgov.com/big-data/2014/09/crowdsourcing-competitions-encourage-malicious-behavior-study-finds/93410/), that highlights the ugly side of competitions hits a raw nerve. The University of Southampton in the UK and the National Information and Communications Technology Australia (NICTA) conducted the study, examining recent crowdsourcing competitions.
 
-> Crowdsourcing generally espouses openness and broad-based cooperation, but the researchers explained that it also brings out people’s worst competitive instincts.
+> Crowdsourcing generally espouses openness and broad-based cooperation, but the researchers explained that it also brings out people’s  worst competitive instincts.
 
-> “[T]he openness makes crowdsourcing solutions vulnerable to malicious behaviour of other interested parties,” said one of the study’s authors, Victor Naroditskiy from the University of Southampton, in a [release on the study](http://www.eurekalert.org/pub_releases/2014-09/uos-rfc090314.php). “Malicious behaviour can take many forms, ranging from sabotaging problem progress to submitting misinformation. This comes to the front in crowdsourcing contests where a single winner takes the prize.”
+> “[T]he openness makes crowdsourcing solutions vulnerable to malicious behaviour of other interested parties,” said one of the study’s  authors, Victor Naroditskiy from the University of Southampton, in a [release on the study](http://www.eurekalert.org/pub_releases/2014-09/uos-rfc090314.php). “Malicious behaviour can take many forms, ranging from sabotaging problem progress to submitting misinformation. This comes to the front in crowdsourcing contests where a single winner takes the prize.”
 
 There are a few things we&#8217;ve noticed and noted in our experience over the last four years with challenge competitions run by federal agencies and studying others in the private sector:
 

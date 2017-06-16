@@ -18,7 +18,7 @@ A few days ago a coworker asked me to look at a paragraph. He said it was on the
 
 So I scooted my chair over and looked at it. Then I looked at him and asked, “But what is it supposed to do?”
 
-He said, “It’s supposed to convey, at a very high level, what we’re doing in the next year.”
+He said, “It’s  supposed to convey, at a very high level, what we’re doing in the next year.”
 
 I said, “Oh.”
 
@@ -43,13 +43,13 @@ Then I moved the last two sentences to the top.
 
 Then I connected two sentences, took out three prepositional phrases, and changed all “Divisions” to “We.”
 
-I moved the screen over to my coworker. “How’s that?” I asked.
+I moved the screen over to my coworker. “How’s  that?” I asked.
 
 His eyes were bugged out in surprise. “How did you do that so quickly?” he said.
 
 > You too can be a plain language ninja.
 
-Here’s what you do:
+Here’s  what you do:
 
   * Organize for the reader reader-centered
   * Use design features such as headers, tables, and bullets

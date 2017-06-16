@@ -37,13 +37,13 @@ With baseline metrics and concrete goals, you can identify key performance indic
 
 #### Get the Data Right
 
-Web analytics is about much more than numbers, but accurate data is a must. That may seem to go without saying, but it’s surprisingly easy to miss critical steps that ensure you’re starting with quality metrics, Bronson said.
+Web analytics is about much more than numbers, but accurate data is a must. That may seem to go without saying, but it’s  surprisingly easy to miss critical steps that ensure you’re starting with quality metrics, Bronson said.
 
-His number-one tip in this area: Make sure your analytics tool tracks visits across all of your agency’s websites, including sub-domains (for example, “site.agency.gov”) and “vanity URLs” named for a program.
+His number-one tip in this area: Make sure your analytics tool tracks visits across all of your agency’s  websites, including sub-domains (for example, “site.agency.gov”) and “vanity URLs” named for a program.
 
-For example, if someone goes to the EPA homepage, types a term in the search box, and clicks on [www.energystar.gov](http://www.energystar.gov) from the search results list, that activity should be captured as one session, not three, even though each of those pages belongs to a different sub-domain of the EPA site. Out of the box, many analytics tools would treat these as entirely separate websites, with misleading results. So it’s important to get the tool pointed at the correct data before you start analyzing.
+For example, if someone goes to the EPA homepage, types a term in the search box, and clicks on [www.energystar.gov](http://www.energystar.gov) from the search results list, that activity should be captured as one session, not three, even though each of those pages belongs to a different sub-domain of the EPA site. Out of the box, many analytics tools would treat these as entirely separate websites, with misleading results. So it’s  important to get the tool pointed at the correct data before you start analyzing.
 
-“It’s a crucial step,” Bronson said. “It’s the difference between accurate metrics and inflated metrics.”
+“It’s  a crucial step,” Bronson said. “It’s  the difference between accurate metrics and inflated metrics.”
 
 #### Don’t Be a ‘Report Monkey’
 
@@ -53,7 +53,7 @@ Once you&#8217;ve got the data right, it doesn&#8217;t mean your only job is to 
 
 He recommended cultivating a user community beyond the analytics program. That can include maintaining an active (but not overwhelming) listserv; creating an internal blog on analytics, which can become an informal training tool in its own right; making reference pages, training videos, and reports readily available; and encouraging “evangelists” to spread the word about your program.
 
-In the end, it’s important to include goals for the Web analytics program itself, and to hold yourself accountable for them in your performance review, Bronson added.
+In the end, it’s  important to include goals for the Web analytics program itself, and to hold yourself accountable for them in your performance review, Bronson added.
 
 “You want to make sure that you’re not becoming stagnant and getting in the routine of just pumping out the reports and the templates that you’re used to or that people are requesting,” he said. “You may be the only one … looking out for your program, so you know the power that it can provide.”
 

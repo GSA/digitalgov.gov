@@ -26,7 +26,7 @@ Criminal justice agencies collect a variety of information and use it in multipl
 
 The problem is that criminal justice datasets are often large, complex, and contain a wide variety of geocodes and identifiers. Crime analysts who use the data daily often find it difficult to convey their message in a way that is engaging and easy to understand for lay audiences, such as district attorneys, mayors, and legislators, who need the data to make good decisions.
 
-To help harness the power and increase accessibility of existing data, the National Institute of Justice (NIJ) and the Bureau of Justice Statistics (BJS) have issued a Data Visualization Challenge as part of the U.S. Department of Justice’s Digital Strategy.
+To help harness the power and increase accessibility of existing data, the National Institute of Justice (NIJ) and the Bureau of Justice Statistics (BJS) have issued a Data Visualization Challenge as part of the U.S. Department of Justice’s  Digital Strategy.
 
 The Data Visualization Challenge asks contestants to create innovative approaches that make criminal justice data presentable in ways that increase understanding, ensure broad access, and account for the statistical complexities of existing data. Solutions might include infographics, dashboards, static or interactive visualizations and incorporate data from non-criminal justice sources, such as public health data, geographic identifiers or public spending data, to provide insight into justice system outcomes or crime-related phenomena.
 

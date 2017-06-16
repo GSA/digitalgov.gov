@@ -34,7 +34,7 @@ To kick things off, more than 1,000 federal accounts were verified by Facebook o
 
 Fake accounts, misinformation and phishing scams can create barriers between citizens and public services on the Internet.
 
-Following a fake celebrity, for instance, is not the same as following a fake emergency alert, and Facebook’s effort to address this difference underscores increasing understanding and support for the needs of public services and social media.
+Following a fake celebrity, for instance, is not the same as following a fake emergency alert, and Facebook’s  effort to address this difference underscores increasing understanding and support for the needs of public services and social media.
 
 Verification of federal government accounts will:
 

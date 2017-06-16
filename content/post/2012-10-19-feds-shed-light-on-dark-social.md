@@ -25,7 +25,7 @@ tag:
 <div>
 </div>
 
-**It’s true.** Too often it&#8217;s the harder-to-find and more nuanced metrics that best tell the story of your program.
+**It’s  true.** Too often it&#8217;s the harder-to-find and more nuanced metrics that best tell the story of your program.
 
 Our office maintains a number of email listservs, internal ideation platforms, and yes, traditional social media channels. Much of this content was lumped in one broad and undefined metric:  direct traffic.
 
@@ -59,7 +59,7 @@ Then start the process again to gauge its effectiveness and evolve with your cus
 
 Also, as <a href="http://gigaom.com/2012/10/12/dark-social-why-measuring-user-engagement-is-even-harder-than-you-think/" target="_blank">Mathew Ingram highlights in a follow-up post</a>:
 
-> “The only real way to optimize for social spread is in the nature of the content itself. There’s no way to game email or people’s instant messages. There’s no power users you can contact. There’s no algorithms to understand.”
+> “The only real way to optimize for social spread is in the nature of the content itself. There’s  no way to game email or people’s  instant messages. There’s  no power users you can contact. There’s  no algorithms to understand.”
 
 Understanding nuances, like what drives direct traffic, is a challenge we&#8217;ve long noticed in our ongoing efforts to improve our web performance metrics.
 

@@ -119,7 +119,7 @@ The first thing we noticed when we put this into production was the improvement 
 
 As we worked around some hiccups with the Flickr and Instagram APIs, we started to see some issues with the agency-generated content that affected both recall and relevancy. Some profile owners attach dozens of very broad tags like _government_, _usa_, and _president_ to hundreds or thousands of photos.
 
-Recent photos that happened to be popular on Flickr or Instagram would get boosted to the top of the list despite having a relatively low similarity (based on Lucene’s [Practical Scoring Function](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/practical-scoring-function.html)) score from matching on a very common term in our corpus. A similar problem would occur when profile owners would append the same hundred words of boilerplate text (e.g., source attribution, copyright) to their photo descriptions.
+Recent photos that happened to be popular on Flickr or Instagram would get boosted to the top of the list despite having a relatively low similarity (based on Lucene’s  [Practical Scoring Function](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/practical-scoring-function.html)) score from matching on a very common term in our corpus. A similar problem would occur when profile owners would append the same hundred words of boilerplate text (e.g., source attribution, copyright) to their photo descriptions.
 
 A much bigger problem surfaced around photo albums. Sometimes photographers would take dozens of photographs of the same event, assign very similar metadata to all of them, and upload them to their social media profile. This screenshot of a search results page with 19 nearly identical pictures of Michelle Obama in a yellow sundress sums up the problem nicely:
 
@@ -134,7 +134,7 @@ All of these similar photos are relevant, but we&#8217;d rather just show a few 
 
 **Date**: We initially focused on surfacing the most relevant pictures on the first page of the search results, but as we dug into page two and beyond, we saw some profiles had photos that were all scored 0.0. The culprit was the Gaussian decay function we were applying to decrease relevancy on older photos. The first batch of agency photos all happened to cover current affairs, like White House events and State Department conferences. But some of our other agencies use social media mainly for archival photos. The [Library of Congress Flickr photostream](https://www.flickr.com/photos/library_of_congress/) contains some photos that were taken 150 _years_ ago, and the Gaussian decay function decayed their relevancy right down to zero.
 
-This clearly isn’t what we wanted so we focused on improving our relevance algorithm in our second iteration, which I’ll tell you more about in [next week’s blog post](https://www.WHATEVER/2014/11/04/a-picture-is-worth-a-thousand-tokens-part-ii/ "A Picture Is Worth a Thousand Tokens: Part II").
+This clearly isn’t what we wanted so we focused on improving our relevance algorithm in our second iteration, which I’ll tell you more about in [next week’s  blog post](https://www.WHATEVER/2014/11/04/a-picture-is-worth-a-thousand-tokens-part-ii/ "A Picture Is Worth a Thousand Tokens: Part II").
 
 ## About Us
 

@@ -20,7 +20,7 @@ tag:
 
 U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/), Hispanics not only lead in adoption of new devices, they are also power users of mobile.
 
-The report highlights a few categories supporting Gevelber’s observations:
+The report highlights a few categories supporting Gevelber’s  observations:
 
   * The average Hispanic spends more than eight hours watching online video each month, over 90 minutes longer than the U.S. average.
   * YouTube views of top U.S. Hispanic channels are up 1.25% year over year.

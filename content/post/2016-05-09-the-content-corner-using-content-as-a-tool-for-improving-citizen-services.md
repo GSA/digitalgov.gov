@@ -3,7 +3,7 @@
 
 date: 2016-05-09 10:06:08 -0400
 title: 'The Content Corner\: Using Content as a Tool for Improving Citizen Services'
-summary: 'It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many listserv emails that are sent across agencies, DigitalGov’sconstant content stream and'
+summary: 'It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many listserv emails that are sent across agencies, DigitalGov’s constant content stream and'
 authors: [kyle-s-richardson]
 categories:
   - Content
@@ -16,7 +16,7 @@ tag:
   - VA
 ---
 
-It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many [listserv emails](https://www.WHATEVER/communities/) that are sent across agencies, DigitalGov’s constant content stream and readership, and the many conferences and sessions related to communications—including [webinars](https://www.WHATEVER/digitalgov-university/video-library/)—it’s easy to say we have the best job in government.
+It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many [listserv emails](https://www.WHATEVER/communities/) that are sent across agencies, DigitalGov’s  constant content stream and readership, and the many conferences and sessions related to communications—including [webinars](https://www.WHATEVER/digitalgov-university/video-library/)—it’s  easy to say we have the best job in government.
 
 The General Services Administration (GSA) even has a Chief Customer Officer (s/o to Anahita Reilly, the Deputy Chief Customer Officer)!
 
@@ -29,7 +29,7 @@ Recently, I had the pleasure of speaking along with communicators in the law enf
 
 This was also a recurring theme at the [Government Digital Communications Summit](https://twitter.com/search?q=%23DCComm16&src=tyah), where we learned many tactics for engaging our stakeholders. Many agencies, such as the Department of Veteran Affairs and the [Department of Homeland Security](https://www.dhs.gov/blue-campaign/partnerships), are using a variety of different email platforms to drive action, with email blasts as the main content type. (Did you attend? Please share some of your feedback.)
 
-The concept of micro-learning over time was a key takeaway for me from the Summit—**learning how to provide the right amount of information at the right time**. To use a football reference: go for the “first down” sometimes instead of the “touchdown,” emphasizing the value of developing a long-lasting relationship with your stakeholders. As teams move down a 100-yard field, incrementally getting 10-yard first downs along the way, the payoff is worth the movement down the field. As attention spans continue to shrink, it’s imperative to keep your audience [engaged and interested](https://www.WHATEVER/2016/04/18/the-content-corner-branches-stick-to-the-vine/) in your content. Moving to incremented learning helps you build to the ultimate goal.
+The concept of micro-learning over time was a key takeaway for me from the Summit—**learning how to provide the right amount of information at the right time**. To use a football reference: go for the “first down” sometimes instead of the “touchdown,” emphasizing the value of developing a long-lasting relationship with your stakeholders. As teams move down a 100-yard field, incrementally getting 10-yard first downs along the way, the payoff is worth the movement down the field. As attention spans continue to shrink, it’s  imperative to keep your audience [engaged and interested](https://www.WHATEVER/2016/04/18/the-content-corner-branches-stick-to-the-vine/) in your content. Moving to incremented learning helps you build to the ultimate goal.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Government-Digital-Communications-Summit-2016-IMG_1047-kyle-content-corner.jpg" alt="Illustration board from the 9th annual Government Digital Communications Summit" %}
@@ -42,11 +42,11 @@ With content that is connected in theme, map the journey you expect your audienc
 
 Calls to action are very important. Most of us are extremely busy (or at least we act it), so often we are seeking the bottom line: How does this affect me? What do I need to do with this information? A call to action takes out the guesswork and points your audience directly to next steps. People tend to focus more on information that is directly related to their situation.
 
-Have methods for analyzing your audience’s engagement with your content, and refine your tactics. Seek to segment your communications, assisting stakeholders along their journey by following up and seeking genuine feedback.
+Have methods for analyzing your audience’s  engagement with your content, and refine your tactics. Seek to segment your communications, assisting stakeholders along their journey by following up and seeking genuine feedback.
 
 The commitment to caring is a key goal that should be shared by all staff at your agency. I’m sure most of us have felt awkward at some point when starting a new job. During the first several weeks, you are seeking to learn as much as you can about your job and the agency you’ve joined. But this process shouldn’t stop, especially for communicators, as our job is to constantly learn more about our agency, find out about new developments, and build close relationships with staff. Think about who you can connect with in your organization, especially those who you don’t understand or don’t know what they do; get to know them and listen.
 
-After we’ve looked inward, we can consider if our digital communications are aligned with the organization&#8217;s priorities. Re-evaluate your agency’s purpose/mission, and communicate that throughout the agency to ensure all employees have a shared understanding of &#8220;why we are here and why we are doing this.&#8221; This is the basis of the customer-centered business model.
+After we’ve looked inward, we can consider if our digital communications are aligned with the organization&#8217;s priorities. Re-evaluate your agency’s  purpose/mission, and communicate that throughout the agency to ensure all employees have a shared understanding of &#8220;why we are here and why we are doing this.&#8221; This is the basis of the customer-centered business model.
 
 As government communicators, continuing to experiment with different ways to connect with the public is imperative to getting our message across. With everything you do, ask: &#8220;How does this impact our audience?&#8221;
 

@@ -78,10 +78,10 @@ Some of our most popular training topics throughout the year focused on using pr
 
 We heard that you are interested in the latest tools and trends and how federal agencies are using those products, which is why “[Snaps and Stripes: Sharing Public Service Stories with SnapChat](https://www.youtube.com/watch?v=G82jBHxE4Tk)” was a popular webinar this year. Also, you wanted to know how tools like social listening to address and better understand your audience and their needs so many of you attended the “[Listening Before We Speak: Understanding Our Audience in Times of Disaster](https://www.youtube.com/watch?v=YWhRLCxTYxk)” webinar.
 
-One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson](https://www.WHATEVER/author/sam-bronson/) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space](https://www.WHATEVER/communities/) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s you attend from anywhere. 
+One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson](https://www.WHATEVER/author/sam-bronson/) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space](https://www.WHATEVER/communities/) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s  you attend from anywhere. 
 {% include image/full-width.html img="https://www.WHATEVER/files/2016/01/600-x-450-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="E-learning concept: schooldesks and a chalkboard on a laptop keyboard" %} 
 
-Now, let’s take a look at the most popular events (by attendance) and most watched recordings throughout 2016. You can check out all of our events, which we record, in our [event library](https://www.youtube.com/c/digitalgov).
+Now, let’s  take a look at the most popular events (by attendance) and most watched recordings throughout 2016. You can check out all of our events, which we record, in our [event library](https://www.youtube.com/c/digitalgov).
 
 #### **Top 5 Webinars:**
 
@@ -134,7 +134,7 @@ _ The fundamentals of open data and APIs on the modern web.
 _ Webinar that provided information on the general Security Assessment Framework (SAF) for FedRAMP.
   4. [API Webinar Series: APIs for Dummies — An Introduction](https://www.youtube.com/watch?v=sup8Q_NuIxI) _(2012)
   
-_ The basics on APIs hosted by 18F’s Gray Brooks and gets you started in the world of API solutions.
+_ The basics on APIs hosted by 18F’s  Gray Brooks and gets you started in the world of API solutions.
   5. [Handling FISMA Faster and Better](https://www.youtube.com/watch?v=T1S52B1-NT4) _(2015)
   
 _ This session covered methods that can enable quicker, more straightforward ATOs for FISMA low and medium projects.

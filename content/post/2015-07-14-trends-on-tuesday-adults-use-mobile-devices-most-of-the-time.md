@@ -22,9 +22,9 @@ Millennial Media released a new research report, [Connected Consumers: Gaining I
 
 ## **Mobile and Tablet Devices Account for Majority of Time**
 
-If your audience is predominantly under 55 years old, you must be mobile-friendly because more than 60% of that audience&#8217;s digital consumption time is spent on mobile and tablet devices. Among the under 34 audience, it’s 69% on mobile and tablet devices.
+If your audience is predominantly under 55 years old, you must be mobile-friendly because more than 60% of that audience&#8217;s digital consumption time is spent on mobile and tablet devices. Among the under 34 audience, it’s  69% on mobile and tablet devices.
 
-## **It’s Not Just the Younger People Going Mobile First**
+## **It’s  Not Just the Younger People Going Mobile First**
 
 Millennial Media cites in the report, “Adults 35-54 grew their share of monthly minutes with smartphones 46% and 49% with tablets. Adults ages 55 and over experienced a 25% increase in share of time spent with mobile year-over-year.”
 

@@ -23,7 +23,7 @@ This is why the federal government is committed to using online tools to make it
 
 A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster and better.
 
-Case in point: the National Archives and Records Administration’s [Citizen Archivist Dashboard](http://www.archives.gov/citizen-archivist/), which coordinates tagging and transcribing of historical records and documents. In one show of its effectiveness, more than 170,000 volunteers indexed 132 million names from the 1940 census records in just five months.
+Case in point: the National Archives and Records Administration’s  [Citizen Archivist Dashboard](http://www.archives.gov/citizen-archivist/), which coordinates tagging and transcribing of historical records and documents. In one show of its effectiveness, more than 170,000 volunteers indexed 132 million names from the 1940 census records in just five months.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Citizen-Archivist-Dashboard-by-National-Archives.jpg" alt="Screen capture of the Citizen Archivist Dashboard homepage." %}
@@ -34,9 +34,9 @@ John Holdren, director of the White House Office of Science and Technology Polic
 
 In the memo, Holdren recommends ways agencies can build capacity for using these methods to address societal needs and advance science and technology. The memo also directed agencies to take two specific steps: identify a coordinator for such projects and catalog all citizen science and crowdsourcing initiatives in an online database.
 
-Here’s the latest on what’s happening.
+Here’s  the latest on what’s  happening.
 
-## Published: The Public Sector’s Guide to Citizen Science
+## Published: The Public Sector’s  Guide to Citizen Science
 
 Recently, OSTP and GSA unveiled a [toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) to help federal agencies undertake crowdsourcing and citizen science projects. The toolkit—which offers case studies, how-to guides, and legal/policy advice—will help federal employees:
 
@@ -76,7 +76,7 @@ There are several users envisioned for this catalog, including:
   * The public, who can find information and volunteer for projects
   * Other stakeholders, who can share data and align policies.
 
-Ultimately, these combined efforts aim to knock down any remaining barriers to making crowdsourcing and citizen science a crucial part of every agency’s innovation strategy.
+Ultimately, these combined efforts aim to knock down any remaining barriers to making crowdsourcing and citizen science a crucial part of every agency’s  innovation strategy.
 
 NOTE: All of the efforts described in this article have benefitted from key contributions from the Federal Community of Practice for Crowdsourcing and Citizen Science, a grassroots group founded in 2012. About 200 members from more than 40 federal agencies and departments share lessons learned, best practices and training.
 

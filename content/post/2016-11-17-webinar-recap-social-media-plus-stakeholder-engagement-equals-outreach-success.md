@@ -31,7 +31,7 @@ A recent [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (D
 ## Social Media Outreach Goals 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" %} 
 
-What does social media outreach success look like? Success is when agencies and stakeholders have developed relationships that support each other’s social media and digital campaigns. Success also consists of partners consistently inviting your agency to its social media activities in advance and regularly sharing the agency&#8217;s social media content as well.
+What does social media outreach success look like? Success is when agencies and stakeholders have developed relationships that support each other’s  social media and digital campaigns. Success also consists of partners consistently inviting your agency to its social media activities in advance and regularly sharing the agency&#8217;s social media content as well.
 
 External affairs can share social media content to its network of partners—and vice versa, partners can ask that external affairs also communicate to their social media shop when they have social media events.
 
@@ -110,7 +110,7 @@ _Thunderclap, they&#8217;re a feel good tool, but the lift is too high to set up
 
 **When you&#8217;re the only one in your agency that happens to speak Spanish, and you&#8217;re asked to review content and send it up to management to approve but they might not necessarily speak Spanish. How do you handle this?**
 
-_Having your translation reviewed and then adapted to English is usually the best way to communicate it up the chain. Having an editor you can rely on that is familiar with your content is key. Sending this with time ahead of having to publish it definitely helps. Get buy-in from leadership and establish trust with management that gives them the confidence to rely on your expertise for accuracy. Also, identify one or two champions that will promote your content initially and will help build your case for translating content or social media activities. A tweet that has 10 retweets for example, shows evidence for what’s working that you can share._
+_Having your translation reviewed and then adapted to English is usually the best way to communicate it up the chain. Having an editor you can rely on that is familiar with your content is key. Sending this with time ahead of having to publish it definitely helps. Get buy-in from leadership and establish trust with management that gives them the confidence to rely on your expertise for accuracy. Also, identify one or two champions that will promote your content initially and will help build your case for translating content or social media activities. A tweet that has 10 retweets for example, shows evidence for what’s  working that you can share._
 
 **What&#8217;s a good strategy for reaching Hispanics online?**
 
@@ -143,7 +143,7 @@ _Every agency sets this up differently and depends on the size of your agency to
 
 **In terms of building social media presences amongst Spanish language communities, or Low English Proficiency (LEP) communities, how do increase engagement without generating negative feedback from English speaking audiences along the way?**
 
-_Our job at Healthcare.gov was to follow our mission, which meant reaching people in the United States, educating them and getting them enrolled. There will always be critics and questions as to why you’re doing outreach in different languages. There were also health literacy challenges we needed to address, so we made sure that materials were well done. Stay focused on the goal, CuidadodeSalud.gov’s goal was to educate and raise awareness._
+_Our job at Healthcare.gov was to follow our mission, which meant reaching people in the United States, educating them and getting them enrolled. There will always be critics and questions as to why you’re doing outreach in different languages. There were also health literacy challenges we needed to address, so we made sure that materials were well done. Stay focused on the goal, CuidadodeSalud.gov’s  goal was to educate and raise awareness._
 
 **Which social media platforms are most likely to reach Hispanics and have good ROI?**
 

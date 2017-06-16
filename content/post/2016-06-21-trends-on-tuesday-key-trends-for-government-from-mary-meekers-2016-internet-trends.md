@@ -2,7 +2,7 @@
 
 
 date: 2016-06-21 12:00:54 -0400
-title: 'Trends on Tuesday\: Key Trends for Government from Mary Meeker’s2016 Internet Trends'
+title: 'Trends on Tuesday\: Key Trends for Government from Mary Meeker’s 2016 Internet Trends'
 summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends report this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve\: Mobile phone adoption and Internet growth is meeting saturation. Incremental global growth will continue (especially in India, which she called out for'
 authors: [wsullivan]
 categories:
@@ -38,7 +38,7 @@ Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](htt
       <strong>Voice emerges as a new, important interface.</strong> Besides the personalized experience of messaging apps, voice is another new personalized vehicle for serving people—from simple searches to voice assistants like Amazon&#8217;s Alexa. The quality, accuracy and speed of voice interactions has dramatically increased across the major platforms to above 90% accuracy. As this continues to evolve, new experiences—previously thought of as far out ideas from Star Trek or the movie Her—may soon be in our houses and hands. <i>(Slides 112 &#8211; 131)</i>
     </li>
     <li style="margin-bottom: 15px">
-      <strong>Data as a platform expands.</strong> Leveraging the continuously reducing cost of data and continually growing connectivity, the ability to use data to aggregate and improve people’s lives and increase efficiency is going to continue to grow. Government agencies specifically can use their massive amounts of <a href="https://www.WHATEVER/2016/06/17/data-the-key-to-a-more-transparent-open-government/">data to help improve the lives of the public</a>. <i>(Slides 194-205)</i>
+      <strong>Data as a platform expands.</strong> Leveraging the continuously reducing cost of data and continually growing connectivity, the ability to use data to aggregate and improve people’s  lives and increase efficiency is going to continue to grow. Government agencies specifically can use their massive amounts of <a href="https://www.WHATEVER/2016/06/17/data-the-key-to-a-more-transparent-open-government/">data to help improve the lives of the public</a>. <i>(Slides 194-205)</i>
     </li>
     <li style="margin-bottom: 15px">
       <strong>Privacy will exponentially become more important and difficult.</strong> With all the new Internet connected devices, from cars to the Internet of Things, and the wealth of data provided, information security and privacy is going to become an even larger issue to manage in the future, especially as standards are still emerging for the new platforms. Consumers&#8217; comfort levels with who and how they share data seem to vary among generations, although most people probably don’t realize how much data major life platforms like Google and Facebook have about them. Data breaches have become a common part of life with almost everyone affected in the past couple years. Organizations—and especially government agencies—need to be at the forefront of managing security for the public, educating and evangelizing best practices. <i>(Slides 206-212)</i>

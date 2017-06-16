@@ -3,7 +3,7 @@
 
 date: 2016-10-26 1:00:55 -0400
 title: 'The Data Briefing\: Help Predict the Future of Federal Government Data'
-summary: 'In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’sdata technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber'
+summary: 'In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber'
 authors: [bbrantley]
 categories:
   - Code
@@ -39,14 +39,14 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. 
+In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s  data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." %} 
 
 I want to invite you, the reader, to also send in your predictions for the future of Federal government data. Please use the email link at the end of this posting to submit your ideas and predictions about the next trends and technological advances for Federal government data applications and technologies. To help inspire you, I’ve listed some topics discussed in this column for the last couple of years:
 
 **Chatbots** – Where will [chatbots](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/) take us in the next ten years? Will citizens have chatbots that interact with government chatbots? What will the next generation of chatbots look like?
 
-**Artificial Intelligence (AI) and Machine Learning** – Will [artificial intelligence](https://www.WHATEVER/2016/10/19/the-data-briefing-using-artificial-intelligence-to-augment-the-work-of-frontline-government-employees/) replace front-line government workers? Will the increasing use of AI and machine learning erode citizen’s privacy rights? Should there be a government agency devoted to protecting against rogue [AI applications](https://www.WHATEVER/2016/09/01/emma-friendly-presence-and-innovative-uscis-resource-available-247/)?
+**Artificial Intelligence (AI) and Machine Learning** – Will [artificial intelligence](https://www.WHATEVER/2016/10/19/the-data-briefing-using-artificial-intelligence-to-augment-the-work-of-frontline-government-employees/) replace front-line government workers? Will the increasing use of AI and machine learning erode citizen’s  privacy rights? Should there be a government agency devoted to protecting against rogue [AI applications](https://www.WHATEVER/2016/09/01/emma-friendly-presence-and-innovative-uscis-resource-available-247/)?
 
 **Blockchain Technologies** – Will all government services be delivered by smart contracts backed by [blockchain](https://www.WHATEVER/2016/07/06/the-data-briefing-i-for-one-welcome-our-new-chatbot-blockchain-digital-autonomous-organizations/) ledgers? What comes after blockchain to further enhance the distributed trust model? Will there be a fully autonomous Federal agency that operates solely on blockchains, smart contracts, and AI?
 
@@ -65,6 +65,6 @@ _(Twitter and Netflix are used for illustrative purposes only and do not imply e
 
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
 _Editor&#8217;s note: This morning, we announced the launch of 2 new Communities—Artificial Intelligence for Citizen Services, and Virtual/Augmented Reality Community. [Find out more about them](https://www.WHATEVER/2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/) and how you can join._

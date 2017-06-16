@@ -28,7 +28,7 @@ The agile methodology is an alternative to the traditional project management pr
 
 You can watch the [full presentation](https://www.youtube.com/watch?v=FpBjClJTVQ0&feature=youtu.be) for more information on the agile methodology.
 
-During the webinar, Robert received a multitude of questions. He answered many questions during the webinar, but in order to answer as many questions as possible, he answered a few questions offline as well. Robert’s answers to those questions are below.
+During the webinar, Robert received a multitude of questions. He answered many questions during the webinar, but in order to answer as many questions as possible, he answered a few questions offline as well. Robert’s  answers to those questions are below.
 
 ## Incorporating Customers
 

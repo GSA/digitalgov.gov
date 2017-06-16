@@ -27,7 +27,7 @@ Last week, a National Day of Civic Hacking organizer named Charlie shared this p
 
 Charlie is putting together a<a href="http://hackforchange.org/dawsonville-maker-day" target="_blank"> Maker Faire in Dawsonville</a>, Georgia for National Day of Civic Hacking in coordination with the Dawson County Development Authority in Dawsonville, Georgia.
 
-Let’s not let the conversation stop here.  It is just getting started.  Tell us in the comment section below how you define civic hacking for yourself and your community, and tell us your plans for National Civic Hacking Day.
+Let’s  not let the conversation stop here.  It is just getting started.  Tell us in the comment section below how you define civic hacking for yourself and your community, and tell us your plans for National Civic Hacking Day.
 
 Originally published on the site [National Day of Civic Hacking](http://hackforchange.org/blog/what-civic-hacker).
 

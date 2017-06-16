@@ -31,7 +31,7 @@ The [Housing Discrimination Complaint Application](http://apps.usa.gov/housing-d
 In addition the app
 
   * provides information about the fair housing complaint process
-  * allows the public to access HUD’s toll-free discrimination hotline and link to HUD’s fair housing website: [www.hud.gov/fairhousing](http://www.hud.gov/fairhousing)
+  * allows the public to access HUD’s  toll-free discrimination hotline and link to HUD’s  fair housing website: [www.hud.gov/fairhousing](http://www.hud.gov/fairhousing)
   * can be used by individuals researching their housing rights after a natural disaster, when power outages make the iPhone/iPad one of the few ways to access the Internet.
   * informs the housing industry about its responsibilities under the [Fair Housing Act](http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights).
 

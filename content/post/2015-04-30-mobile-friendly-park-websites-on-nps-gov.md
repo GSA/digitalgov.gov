@@ -29,7 +29,7 @@ A team of National Park Service (NPS) designers, developers, and testers made th
 
 ## Project Overview
 
-Improving the quality of the overall user experience of NPS.gov is a major priority of NPS leadership as the bureau approaches its centennial in 2016. The project to make NPS.gov mobile-friendly helps address the National Park Service’s [Call to Action Item 17: Go Digital](http://www.nps.gov/calltoaction/), which outlines the need to “create a user-friendly Web platform that supports online and mobile technology including social media.” The project will allow NPS.gov to function well on the wide variety of devices, browsers, and network speeds used by visitors to access NPS Web content. Our approach to accomplish that goal is known as [responsive Web design](https://www.WHATEVER/2013/06/11/responsive-design/) (RWD). Instead of having separate websites for each type of device, RWD features a more fluid design that adapts to a wide range of devices.
+Improving the quality of the overall user experience of NPS.gov is a major priority of NPS leadership as the bureau approaches its centennial in 2016. The project to make NPS.gov mobile-friendly helps address the National Park Service’s  [Call to Action Item 17: Go Digital](http://www.nps.gov/calltoaction/), which outlines the need to “create a user-friendly Web platform that supports online and mobile technology including social media.” The project will allow NPS.gov to function well on the wide variety of devices, browsers, and network speeds used by visitors to access NPS Web content. Our approach to accomplish that goal is known as [responsive Web design](https://www.WHATEVER/2013/06/11/responsive-design/) (RWD). Instead of having separate websites for each type of device, RWD features a more fluid design that adapts to a wide range of devices.
 
 ## Benefits
 
@@ -53,7 +53,7 @@ The new centennial design that will launch in January 2016 will also be mobile-f
 
 ## About NPS.gov
 
-NPS.gov is the public Web presence of the parks and programs of the National Park Service as well as the primary destination for virtual visitors looking to plan trips to parks or learn more about our nation’s natural and cultural heritage. NPS.gov includes websites for the more than 400 places the NPS cares for and the programs that make that possible. Management is distributed among NPS employees in parks, regions, and national offices across the United States. A quick look at 2014’s NPS.gov figures show:
+NPS.gov is the public Web presence of the parks and programs of the National Park Service as well as the primary destination for virtual visitors looking to plan trips to parks or learn more about our nation’s  natural and cultural heritage. NPS.gov includes websites for the more than 400 places the NPS cares for and the programs that make that possible. Management is distributed among NPS employees in parks, regions, and national offices across the United States. A quick look at 2014’s  NPS.gov figures show:
 
   * 100,000+ Web pages
   * 75 million website visitors

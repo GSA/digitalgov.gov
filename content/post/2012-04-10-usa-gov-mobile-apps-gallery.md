@@ -31,7 +31,7 @@ The app galleries were launched as the first responsive design site as their con
   3. The data dictionary was designed to accommodate the data elements and functionality desired in the app galleries
   4. A REST API was created to provide public access to app information. Using a REST API as a foundation for building the app galleries would enable other developers to create additional products based on the app gallery data
   5. The responsive design app galleries were created using both the App Gallery API and the USA Search API.
-  6. Once completed, the design was integrated into USA.gov’s content management system and deployed.
+  6. Once completed, the design was integrated into USA.gov’s  content management system and deployed.
 
 **How It Worked**
 

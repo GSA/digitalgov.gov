@@ -32,7 +32,7 @@ Here are a couple tweets with USTDA.gov website links that have the Twitter Card
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-2.jpg" alt="290-x-341-USTDA-twitter-card-2" %}
 </p>
 
-As you can see, the content of these two tweets takes up almost 140 characters on their own (a URL does take up at least 20 characters). With the added Twitter Card summaries, USTDA’s tweets now show up as completely customizable previews of the pages that are linked in both messages.
+As you can see, the content of these two tweets takes up almost 140 characters on their own (a URL does take up at least 20 characters). With the added Twitter Card summaries, USTDA’s  tweets now show up as completely customizable previews of the pages that are linked in both messages.
 
 **What the code looks like on the** [**web pages**](http://www.ustda.gov/news/pressreleases/2015/US/Press-Release_050515/Press-Release-USTDA-Celebrates-Making-Global-Local-and-US-Exports-During-World-Trade-Month_050515.asp) **where** [**I embedded it**](http://www.ustda.gov/makinggloballocal/) **(feel free to “View Source Code” yourselves):**
 

@@ -3,7 +3,7 @@
 
 date: 2016-09-20 2:00:17 -0400
 title: 'Analytics Success Series\: Health Resources & Services Administration'
-summary: 'Health Resources and Services Administration’sAnalytics Success\: Using Analytics to Reduce Content and Improve User Experience&nbsp; Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it’stime to make some changes. That’sexactly what happened to the Health Resources'
+summary: 'Health Resources and Services Administration’s Analytics Success\: Using Analytics to Reduce Content and Improve User Experience&nbsp; Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it’s time to make some changes. That’s exactly what happened to the Health Resources'
 authors: [christy-choi, mackenzie-cummings, richard-morey]
 categories:
   - Data
@@ -22,16 +22,16 @@ tag:
   - user experience
 ---
 
-_Health Resources and Services Administration’s Analytics Success: Using Analytics to Reduce Content and Improve User Experience_ 
+_Health Resources and Services Administration’s  Analytics Success: Using Analytics to Reduce Content and Improve User Experience_ 
 
-Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop—it’s time to make some changes.
+Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop—it’s  time to make some changes.
 
-That’s exactly what happened to the Health Resources and Services Administration’s (HRSA) <a href="http://mchb.hrsa.gov/" target="_blank">Maternal and Child Health Bureau’s (MCHB) website</a>. Last year, in 2015, the site’s average bounce rate was 63% &#8212; and more than 70% for some key landing pages. And given the non-mobile-responsiveness of the site, it was unsurprising that the average mobile bounce rate climbed even further, reaching nearly 77%.
+That’s  exactly what happened to the Health Resources and Services Administration’s  (HRSA) <a href="http://mchb.hrsa.gov/" target="_blank">Maternal and Child Health Bureau’s  (MCHB) website</a>. Last year, in 2015, the site’s  average bounce rate was 63% &#8212; and more than 70% for some key landing pages. And given the non-mobile-responsiveness of the site, it was unsurprising that the average mobile bounce rate climbed even further, reaching nearly 77%.
 
 Those facts alone sounded alarm bells. But then we dug deeper.
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau’s (MCHB) homepage." %}
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s  (HRSA) Maternal and Child Health Bureau’s  (MCHB) homepage." %}
 
 ## Uncovering the Problem(s)
 
@@ -60,11 +60,11 @@ When all was said and done, we reduced the content by a whopping 91%*. We also m
   * assuring users the ability to use our site no matter their device by switching to responsive templates, and
   * improving readability through the implementation of plain language principles and web best practices.
 
-Using information architecture validation software, we surveyed over 90 active stakeholders and determined that our assumptions about the site’s IA were overwhelmingly correct.
+Using information architecture validation software, we surveyed over 90 active stakeholders and determined that our assumptions about the site’s  IA were overwhelmingly correct.
 
 ## Ready. Set. Revamp.
 
-Launching in July 2016, our site has already begun to show improvements—including a gradual lowering of our site’s bounce rate. Given data from previous site revamps, we expect key metrics will continue to show progress over time.
+Launching in July 2016, our site has already begun to show improvements—including a gradual lowering of our site’s  bounce rate. Given data from previous site revamps, we expect key metrics will continue to show progress over time.
 
 &nbsp;
 

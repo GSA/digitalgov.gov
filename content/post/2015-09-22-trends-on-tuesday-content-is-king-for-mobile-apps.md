@@ -3,7 +3,7 @@
 
 date: 2015-09-22 11:00:51 -0400
 title: 'Trends on Tuesday\: Content is King for Mobile Apps'
-summary: ' Yahoo’smobile analytics service, Flurry,&nbsp;released a new and provocative report about mobile apps versus&nbsp;mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year. They&nbsp;also discussed&nbsp;the importance of how &ldquo;content is king&rdquo; in mobile apps. The top mobile app categories included'
+summary: ' Yahoo’s mobile analytics service, Flurry,&nbsp;released a new and provocative report about mobile apps versus&nbsp;mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year. They&nbsp;also discussed&nbsp;the importance of how &ldquo;content is king&rdquo; in mobile apps. The top mobile app categories included'
 authors: [wsullivan]
 categories:
   - Content
@@ -21,7 +21,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Flurry-chart-US-Consumers-Add-58-More-Mobile-Minutes-Per-Day-Since-2014.jpg" alt="Flurry-chart-US-Consumers-Add-58-More-Mobile-Minutes-Per-Day-Since-2014" %}
 
-Yahoo’s mobile analytics service, [Flurry](https://developer.yahoo.com/analytics/), released a [new and provocative report about mobile apps versus mobile browser usage](http://flurrymobile.tumblr.com/post/127638842745/seven-years-into-the-mobile-revolution-content-is), in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how “content is king” in mobile apps.
+Yahoo’s  mobile analytics service, [Flurry](https://developer.yahoo.com/analytics/), released a [new and provocative report about mobile apps versus mobile browser usage](http://flurrymobile.tumblr.com/post/127638842745/seven-years-into-the-mobile-revolution-content-is), in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how “content is king” in mobile apps.
 
 The top mobile app categories included mobile messaging/social applications, entertainment, and games, which is nothing new; these continue to reign as the most popular among users as [repeat research](https://www.WHATEVER/2015/09/01/trends-on-tuesday-mobile-messaging-and-social-app-research-released/) from different sources [continues to prove this](https://www.WHATEVER/2015/08/18/trends-on-tuesday-the-rise-in-mobile-addicts/).
 

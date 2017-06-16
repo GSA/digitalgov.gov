@@ -35,7 +35,7 @@ Make metrics relevant. Key Performance Indicators (KPIs) are objective measures 
 
 ## Set Targets
 
-Walton’s biggest tip regarding targets: be realistic. Improving UX takes time, so don’t overestimate the possibilities. A great formula to put targets in perspective is “past performance for metric + ideal growth for next year/quarter = new target”. Example: 150,000 unique visitors in 2013 + 10% growth desired = target of 165,000 unique visitors in 2014.
+Walton’s  biggest tip regarding targets: be realistic. Improving UX takes time, so don’t overestimate the possibilities. A great formula to put targets in perspective is “past performance for metric + ideal growth for next year/quarter = new target”. Example: 150,000 unique visitors in 2013 + 10% growth desired = target of 165,000 unique visitors in 2014.
 
 ## Measure and Analyze
 
@@ -45,7 +45,7 @@ Build a suite of tools that are relevant to measurement of your KPI targets. If 
 
 After you make changes, you need to test if it made a difference. Popular ways to do this include implemented measure testing (measuring change from a baseline), <a href="http://en.wikipedia.org/wiki/A/B_testing" target="_blank">A/B testing</a>, or <a href="http://en.wikipedia.org/wiki/Multivariate_testing" target="_blank">multivariate testing</a>. Remember that the process is iterative! Be willing to try a few things to see what works.
 
-Creating an optimal user experience for your audience can’t be explained in an article or even a full webinar, but we hope this might give you a base to work from. For more information, watch the video below of Achaia talking UX with the Digital User Experience Program’s Jonathan Rubin and <a href="http://bit.ly/uxmeasuredeck" target="_blank">view the slides</a> of the presentation.
+Creating an optimal user experience for your audience can’t be explained in an article or even a full webinar, but we hope this might give you a base to work from. For more information, watch the video below of Achaia talking UX with the Digital User Experience Program’s  Jonathan Rubin and <a href="http://bit.ly/uxmeasuredeck" target="_blank">view the slides</a> of the presentation.
 
 [youtube https://www.youtube.com/watch?v=x8jALM4I65U]
 

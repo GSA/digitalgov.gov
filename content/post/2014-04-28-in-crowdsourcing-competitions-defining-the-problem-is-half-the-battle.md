@@ -20,7 +20,7 @@ tag:
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" %}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
 
 <p dir="ltr">
-  More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
+  More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s  Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
 </p>
 
 <p dir="ltr">
@@ -42,7 +42,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The participants in the workshop were given a mock scenario, improving the “lunch experience”, and asked to interview each other to gain insight about the other person’s view of lunch.
+  The participants in the workshop were given a mock scenario, improving the “lunch experience”, and asked to interview each other to gain insight about the other person’s  view of lunch.
 </p>
 
 <p dir="ltr">
@@ -90,7 +90,7 @@ For example, instead of opening your competition description with:
 
 state the problem behind it, and then ask for ideas:
 
-“Recent weather conditions have caused this year’s crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey.&#8221;
+“Recent weather conditions have caused this year’s  crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey.&#8221;
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
 

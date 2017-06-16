@@ -33,7 +33,7 @@ MyDS 2.0 is accessible to many more consumers and ensures they have access to th
 
   * Consumers can access current information on dietary supplements from ODS, because MyDS content is updated instantly.
   * Consumers enter their information once and can sync it across their mobile devices.
-  * MyDS is accessible offline when an Internet connection is not available, such as in a doctor’s office.
+  * MyDS is accessible offline when an Internet connection is not available, such as in a doctor’s  office.
   * Consumers can email their MyDS profile to their health care providers.
   * MyDS is Section 508 compliant making it accessible to visually impaired consumers.
   * MyDS can be quickly converted to other languages.

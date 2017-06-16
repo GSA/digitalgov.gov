@@ -32,7 +32,7 @@ The agency partnered with the Environmental Protection Agency (EPA) and asked so
 
 [youtube=http://www.youtube.com/watch?v=XPvyIXdkc4g&w=600]
 
-The “[Apps4Tots Health Challenge](http://www.health2con.com/devchallenge/apps4tots-health-challenge/)” asked solvers to integrate information from [healthdata.gov](http://healthdata.gov/) and an existing program that provided nutritional information for children aged 1-5 into a mobile app for children’s health. The winning solution, “[myfamily](http://files.formstack.com/uploads/1453074/19523676/106735683/Apps4Tots_Challenge.pdf)”, is an app for family health planning. It sends periodic messages with healthy tips and also contains a pediatric vaccine schedule, among other features.
+The “[Apps4Tots Health Challenge](http://www.health2con.com/devchallenge/apps4tots-health-challenge/)” asked solvers to integrate information from [healthdata.gov](http://healthdata.gov/) and an existing program that provided nutritional information for children aged 1-5 into a mobile app for children’s  health. The winning solution, “[myfamily](http://files.formstack.com/uploads/1453074/19523676/106735683/Apps4Tots_Challenge.pdf)”, is an app for family health planning. It sends periodic messages with healthy tips and also contains a pediatric vaccine schedule, among other features.
   
 With various challenges open to the public and other apps being created by the agency, it is safe to say that HHS has established itself as a leading source for health applications in the growing mHealth industry.
   

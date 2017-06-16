@@ -29,7 +29,7 @@ The bigger the problem, the more an agency might want to enlist some outside hel
 
 ## Partnering for Global Impact
 
-A recent challenge from the U.S. Agency for International Development (USAID) sparked cross-sector partnerships that are continuing well after the competition’s close.
+A recent challenge from the U.S. Agency for International Development (USAID) sparked cross-sector partnerships that are continuing well after the competition’s  close.
 
 [Fighting Ebola: A Grand Challenge for Development](http://www.ebolagrandchallenge.net/) sought solutions to help healthcare workers stop the spread of the deadly Ebola virus. In addition to the White House Office of Science and Technology Policy, the Centers for Disease Control and Prevention and the Defense Department, USAID tapped non-government partners for the challenge, too.
 
@@ -41,7 +41,7 @@ The challenge saw a succession of partnerships between an academic research grou
 
 Without the challenge from USAID, Johns Hopkins may never have developed the protective suit, Yazdi said. And without the agreement with DuPont, the suit may have forever remained a prototype.
 
-Instead, it’s being evaluated by caregivers on the front lines in West Africa and refined for the marketplace.
+Instead, it’s  being evaluated by caregivers on the front lines in West Africa and refined for the marketplace.
 
 ## America COMPETES Together
 
@@ -59,13 +59,13 @@ Still, agencies must weigh the pros and cons of selecting partners or formalizin
 
 ## Innovation Collaboration
 
-For the Environmental Protection Agency (EPA), it’s all about the different perspectives a good mix of partners bring to the table.
+For the Environmental Protection Agency (EPA), it’s  all about the different perspectives a good mix of partners bring to the table.
 
-“We’re really finding out how far you can go by working with industry and other non-governmental partners to build ideas and projects,” said Joseph Ziobro, a physical scientist who is helping to lead [EPA’s Nutrient Recycling Challenge](https://www.challenge.gov/challenge/nutrient-recycling-challenge/). “If you build from the ground up and seek the input of partners from the beginning, the chances of success are greater.”
+“We’re really finding out how far you can go by working with industry and other non-governmental partners to build ideas and projects,” said Joseph Ziobro, a physical scientist who is helping to lead [EPA’s  Nutrient Recycling Challenge](https://www.challenge.gov/challenge/nutrient-recycling-challenge/). “If you build from the ground up and seek the input of partners from the beginning, the chances of success are greater.”
 
 EPA formed a planning committee with representatives from 20 different organizations for the Nutrient Recycling Challenge, which seeks environmentally friendly and economically viable technologies that can extract useful nutrients from livestock manure.
 
-The blend of government (the U.S. Department of Agriculture is also involved), industry and scientific experts on the committee is designed to address EPA’s priority of improving water quality while also providing livestock producers technology they actually can use.
+The blend of government (the U.S. Department of Agriculture is also involved), industry and scientific experts on the committee is designed to address EPA’s  priority of improving water quality while also providing livestock producers technology they actually can use.
 
 “From concept to design to prototype, we want to make sure the technologies are getting developed in a way they could be used on a farm,” Ziobro said.
 
@@ -73,7 +73,7 @@ The agency and its partners set informal groups to hash out details of different
 
 “We invited everyone and let them choose their roles,” said Hema Subramanian, an environmental protection specialist at EPA who is also helping to lead the challenge.
 
-But once the agency’s priority was made known, “we took our hands off the steering wheel and allowed industry experts to define the parameters,” Subramanian said.
+But once the agency’s  priority was made known, “we took our hands off the steering wheel and allowed industry experts to define the parameters,” Subramanian said.
 
 The challenge is accepting concept paper submissions until Jan. 15. The partnerships EPA has formed will guide the competition through the review process and subsequent design, prototype and demonstration phases.
 

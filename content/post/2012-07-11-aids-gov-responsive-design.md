@@ -47,7 +47,7 @@ Testing needs to occur not only in a office and in-house environment, but other 
 
 ## What&#8217;s Next
 
-Continue to expand the site’s ability to perform on other devices from any screen, browser, or device fathomable. The site is relatively new so receiving more feedback will be a tangible goal in the near future.
+Continue to expand the site’s  ability to perform on other devices from any screen, browser, or device fathomable. The site is relatively new so receiving more feedback will be a tangible goal in the near future.
 
 ## Contact
 

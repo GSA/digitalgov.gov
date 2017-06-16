@@ -43,7 +43,7 @@ Example: [“Archive Tweets to Shared Google Calendar”](https://ifttt.com/reci
 ## Notifications
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Melody-Kramer-of-18F.jpg" alt="250-x-250-Melody-Kramer-of-18F" %}**Melody Kramer** of [18F](https://18f.gsa.gov/) has an eye on where the discussions are happening outside of government, and wants to make sure she’s informed. She recommends teams set up notifications that will automatically inform them when a URL from one of their digital properties is shared on another platform. This helps identify where the conversations are happening, so she can meet customers where they are.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Melody-Kramer-of-18F.jpg" alt="250-x-250-Melody-Kramer-of-18F" %}**Melody Kramer** of [18F](https://18f.gsa.gov/) has an eye on where the discussions are happening outside of government, and wants to make sure she’s  informed. She recommends teams set up notifications that will automatically inform them when a URL from one of their digital properties is shared on another platform. This helps identify where the conversations are happening, so she can meet customers where they are.
 
 Example: [“Notify me if someone submits a link to 18F to reddit”](https://ifttt.com/recipes/267516-notify-me-if-someone-submits-a-link-to-18f-to-reddit)
 

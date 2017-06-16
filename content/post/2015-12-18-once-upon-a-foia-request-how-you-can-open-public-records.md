@@ -3,7 +3,7 @@
 
 date: 2015-12-18 3:14:27 -0400
 title: 'Once Upon a FOIA Request\: How You Can Open Public Records'
-summary: 'Like many of you, we&nbsp;watched with great interest this week when a citizen submitted a Freedom of Information Act (FOIA) request to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’salbum, Once Upon a Time in Shaolin. While official sources explain that the desired outcome is not possible'
+summary: 'Like many of you, we&nbsp;watched with great interest this week when a citizen submitted a Freedom of Information Act (FOIA) request to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’s album, Once Upon a Time in Shaolin. While official sources explain that the desired outcome is not possible'
 authors: [jherman, meredith-stewart]
 categories:
   - Managing Digital
@@ -18,7 +18,7 @@ tag:
   - U.S. Department of Justice
 ---
 
-Like many of you, we watched with great interest this week when a citizen [submitted a Freedom of Information Act (FOIA) request](http://boingboing.net/2015/12/17/best-foia-ever-asking-fbi-to.html) to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’s album, Once Upon a Time in Shaolin.
+Like many of you, we watched with great interest this week when a citizen [submitted a Freedom of Information Act (FOIA) request](http://boingboing.net/2015/12/17/best-foia-ever-asking-fbi-to.html) to the Federal Bureau of Investigation (FBI) asking them to release to the public Wu-Tang Clan’s  album, Once Upon a Time in Shaolin.
 
 While official sources explain that the desired outcome is not possible at this time…
 
@@ -43,7 +43,7 @@ Although the numbers show FOIA is well-used, often by journalists and researcher
 
 If you encounter issues with your request, [the Office of Government Information Services](https://ogis.archives.gov/) is a resource for when you need help resolving FOIA disputes with agencies.
 
-## What’s next for FOIA? 
+## What’s  next for FOIA? 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Opening-ceremony-eskaylim-iStock-Thinkstock-186002257.jpg" alt="A pair of scissors cutting through red tape, symbolizing a reduction of bureaucratic obstacles." %} 
 
 Citizens should not have to go through 36 chambers of bureaucracy in order to access data and public records.

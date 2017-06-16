@@ -2,7 +2,7 @@
 
 
 date: 2014-08-15 11:00:49 -0400
-title: 'The Contributor’sGuide to 18F\: Code for the Common Good'
+title: 'The Contributor’s Guide to 18F\: Code for the Common Good'
 summary: 'Introduction Transparency in coding makes code more secure. Open-source development is development in the light, sometimes a harsh light, that shows every blemish. At 18F we strongly believe this improves the rapidity of our coding and the quality and security of the code. We keep the code open to each other, which allows us to'
 authors: [dr-robert-read]
 categories:
@@ -24,7 +24,7 @@ The purpose of this guide is to provide some advice on that reuse and sharing, i
 
 ## Basic Reuse
 
-All our our code is published and released at GitHub.com under the [organization 18F](https://github.com/18F/). There you can see all our public repositories (or “repos”). Using only a browser, you can look at any of the code in these repositories, or simply read about the projects. If you wish, you can “follow” a project from beginning to end. Since source code revision systems let you look back in time, you can see the complete history of changes leading up to the current state. Imagine being able to see every draft and edit of Shakespeare’s plays leading up to the publication of the [First Folio](http://en.wikipedia.org/wiki/First_Folio).
+All our our code is published and released at GitHub.com under the [organization 18F](https://github.com/18F/). There you can see all our public repositories (or “repos”). Using only a browser, you can look at any of the code in these repositories, or simply read about the projects. If you wish, you can “follow” a project from beginning to end. Since source code revision systems let you look back in time, you can see the complete history of changes leading up to the current state. Imagine being able to see every draft and edit of Shakespeare’s  plays leading up to the publication of the [First Folio](http://en.wikipedia.org/wiki/First_Folio).
 
 One of the projects we are most proud of and which is highly reusable is [FBOpen](https://github.com/18F/fbopen). [FBOpen](https://fbopen.gsa.gov/) is a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. FBOpen presents an Application Programming Interface (API) to published federal contracting opportunities, as well as implementing a beautiful graphical user interface to the same opportunities.
 
@@ -36,13 +36,13 @@ Let us imagine that a business has installed [FBOpen](https://github.com/18F/fbo
 
 Why would they take the time to share this back to the government, when they won’t get paid for it, and it costs them a small amount of time to do so? Beyond altruism, by doing so they keep their codebase as similar to the official federal codebase as possible. In this way, when improvements to FBOpen are made by 18F, their software engineers can accept these changes with minimal effort. They may decide that they want to stay up-to-date with the FBOpen codebase, and manage only masonry-specific code extensions.
 
-The mechanism for sharing this code back has been worked out and it is relatively simple, as software engineering goes. It is called a [pull request](https://help.github.com/articles/using-pull-requests), because it is a request or suggestion to the owner of the codebase to accept or “pull” the code change. It is a formal mechanism which makes crystal clear how the code is changing, which is of course critical. 18F will perform strict code review of all such pull requests, and may simply not accept them at all—not every idea is aligned with the codebase owner’s intentions. In general, however, we welcome such pull requests and enhancements. Just as we hope to create opportunities for American business, we can benefit from the creative output of the entrepreneurs and non-commercial software developers. The taxpayers deserve the least expensive, highest-quality software that we can deliver for their tax dollars.
+The mechanism for sharing this code back has been worked out and it is relatively simple, as software engineering goes. It is called a [pull request](https://help.github.com/articles/using-pull-requests), because it is a request or suggestion to the owner of the codebase to accept or “pull” the code change. It is a formal mechanism which makes crystal clear how the code is changing, which is of course critical. 18F will perform strict code review of all such pull requests, and may simply not accept them at all—not every idea is aligned with the codebase owner’s  intentions. In general, however, we welcome such pull requests and enhancements. Just as we hope to create opportunities for American business, we can benefit from the creative output of the entrepreneurs and non-commercial software developers. The taxpayers deserve the least expensive, highest-quality software that we can deliver for their tax dollars.
 
 ## Some Legal Issues
 
 18F is committed to making our code permissively reusable wherever possible. Work performed by federal employees, such as the staff of 18F, is not subject to copyright and is in the public domain within the U.S. However, we use a copyright waiver for other jurisdictions to clarify matters and ensure unrestricted public use outside of the U.S.
 
-Even though it is our [intention](http://18fblog.tumblr.com/post/93226835135/18f-an-open-source-team) to release all code permissively, you may find a derived work of someone else’s code in our repositories. In order to save the taxpayer money, we reuse work that others have created when possible. An example of such a file is [pycas.py](https://github.com/18F/PriceHistoryAuth/blob/master/pycas.py) which is part of the [PriceHistory](https://github.com/18F/PriceHistoryInstall) project which was begun by Presidential Innovation Fellows and is now maintained by 18F. This individual file is Copyright Jon Rifkin, 2011, and it was reused and modified as allowed by the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) under which Mr. Rifkin released it. This file remains copyrighted by Jon Rifkin and covered by the Apache License 2.0.
+Even though it is our [intention](http://18fblog.tumblr.com/post/93226835135/18f-an-open-source-team) to release all code permissively, you may find a derived work of someone else’s  code in our repositories. In order to save the taxpayer money, we reuse work that others have created when possible. An example of such a file is [pycas.py](https://github.com/18F/PriceHistoryAuth/blob/master/pycas.py) which is part of the [PriceHistory](https://github.com/18F/PriceHistoryInstall) project which was begun by Presidential Innovation Fellows and is now maintained by 18F. This individual file is Copyright Jon Rifkin, 2011, and it was reused and modified as allowed by the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) under which Mr. Rifkin released it. This file remains copyrighted by Jon Rifkin and covered by the Apache License 2.0.
 
 Since similar situations may arise in any repository, check the individual README and LICENSE files for each project on GitHub for details specific to that project in order to reuse our code legally—which we strongly encourage!
 
@@ -53,7 +53,7 @@ GSA is not permitted to accept voluntary services or ask people to perform work 
 In general, individuals who choose to contribute to an open-source project do so without the expectation of payment. There are a variety of reasons why software developers elect to contribute to any open-source software project. The reasons include:
 
   * Desire to make an improvement to software that a programmer is using;
-  * Demonstrating one’s commitment, talent, and experience;
+  * Demonstrating one’s  commitment, talent, and experience;
   * Altruism.
 
 In the case of our repositories, there are several kinds of contributions:

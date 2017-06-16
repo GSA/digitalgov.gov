@@ -17,7 +17,7 @@ _[<img class="size-full wp-image-93762 alignright" alt="si-mobile-shot1" src="ht
   
 _ 
 
-The Smithsonian&#8217;s Mobile Strategy is designed to be integral to the overall organizational strategy of the institution. This Mobile Gov Experience is a synopsis of a [webinar](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/06/mobile-strategy-at-the-smithsonian-slides.pdf) (_PDF, 3.3 MB, 18 pages_) by Smithsonian’s mobile director, which gives a more in depth description of their process.
+The Smithsonian&#8217;s Mobile Strategy is designed to be integral to the overall organizational strategy of the institution. This Mobile Gov Experience is a synopsis of a [webinar](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/06/mobile-strategy-at-the-smithsonian-slides.pdf) (_PDF, 3.3 MB, 18 pages_) by Smithsonian’s  mobile director, which gives a more in depth description of their process.
 
 ## <a name="x-Why We Did It"></a>Why We Did It {#toc0}
 
@@ -27,7 +27,7 @@ By 2014 mobile internet use will surpass desktop internet use and the Smithsonia
 
 ## <a name="x-What We Did"></a>What We Did {#toc1}
 
-The Smithsonian surveyed staff and visitors during the summer of 2010 on mobile usage, and then held a mini conference followed by mobile workshops to gather stakeholder input on objectives and offerings. The Mobile Strategy was developed to dovetail with the Web and New Media Strategy and the Smithsonian’s overall 2010-2015 Strategic Plan. It has also taken into account the 2010-2015 SI Technology Plan (SITP) and the Digitization Plan. These are all interlocking parts of the same wheel, and should be mutually-supportive strategies.
+The Smithsonian surveyed staff and visitors during the summer of 2010 on mobile usage, and then held a mini conference followed by mobile workshops to gather stakeholder input on objectives and offerings. The Mobile Strategy was developed to dovetail with the Web and New Media Strategy and the Smithsonian’s  overall 2010-2015 Strategic Plan. It has also taken into account the 2010-2015 SI Technology Plan (SITP) and the Digitization Plan. These are all interlocking parts of the same wheel, and should be mutually-supportive strategies.
 
 ## <a name="x-How It Worked"></a>How It Worked {#toc2}
 
@@ -48,7 +48,7 @@ The Smithsonian&#8217;s goals for FY2012 include:
   * Further develop SI Mobile communities and collaboration
   * Foster education and create new learning opportunities on mobile platforms
   * Fundraise to put in place an expanded SI Mobile team, business model and sustainable resources for SI Mobile initiatives and core infrastructure and activities
-  * Advocate and facilitate the installation of a free, public wifi network throughout the Smithsonian’s galleries and public spaces.
+  * Advocate and facilitate the installation of a free, public wifi network throughout the Smithsonian’s  galleries and public spaces.
 
 ## <a name="x-Contact"></a>Contact {#toc5}
 

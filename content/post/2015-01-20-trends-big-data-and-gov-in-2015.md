@@ -34,24 +34,24 @@ In one sense, [IoT](https://www.WHATEVER/2014/10/31/whats-happening-with-the-int
 
 ### Area of Concern: Applying analytics to new data streams
 
-There will be the challenge of knowing how to apply the process of analytics to all the new data streams. Agencies should know exactly why they are collecting this new data, what questions or problems they are meant to address, and what analysis techniques they will apply. It’s essential this type of thinking be applied from the outset. Otherwise, it’s easy to drown in that sea of Big Data, or find yourself focusing on the wrong areas.
+There will be the challenge of knowing how to apply the process of analytics to all the new data streams. Agencies should know exactly why they are collecting this new data, what questions or problems they are meant to address, and what analysis techniques they will apply. It’s  essential this type of thinking be applied from the outset. Otherwise, it’s  easy to drown in that sea of Big Data, or find yourself focusing on the wrong areas.
 
 ### Area of Concern: Privacy
 
-With data collecting devices filling every corner of our homes, cars, and lives, where will the line be drawn? How much is too much? And, what [security](https://www.WHATEVER/2014/10/30/cyber-house-of-horrors/) measures will be taken to reassure those who consider reassurance of privacy as a prerequisite to participation in the IoT? It will vary, of course, by device, product, and organization, but that’s a challenge that will have to be addressed.
+With data collecting devices filling every corner of our homes, cars, and lives, where will the line be drawn? How much is too much? And, what [security](https://www.WHATEVER/2014/10/30/cyber-house-of-horrors/) measures will be taken to reassure those who consider reassurance of privacy as a prerequisite to participation in the IoT? It will vary, of course, by device, product, and organization, but that’s  a challenge that will have to be addressed.
 
 ## How do you foresee Big Data impacting government in the years to come?
 
 Many agencies are already dealing with disparate architectures, legacy data structures, and a dearth of subject matter experts who can make sense of it all. However, that will not prevent the downward pressure for innovative data analysis, visualizations, and prediction models. I believe the results will be a mixed bag, with some government agencies able to make real strides into using analytics to inform their overall mission and evaluate specific goals.
 
-At the other end of the spectrum, you will see some agencies focusing too quickly on the wrong end of the formula, like what visualization platforms they want to standardize for their respective agencies. The agencies with visionary leaders who are asking, &#8220;what data and analysis techniques do we have available to tackle this specific problem,&#8221; are the ones to watch. What you don’t want are those leaders saying, &#8220;We need to do something with Big Data, and I think we need some great real-time dashboards. Let’s start by choosing a platform.&#8221; Solutions vary depending on the problem, and that remains especially true in regards to Big Data and analytics.
+At the other end of the spectrum, you will see some agencies focusing too quickly on the wrong end of the formula, like what visualization platforms they want to standardize for their respective agencies. The agencies with visionary leaders who are asking, &#8220;what data and analysis techniques do we have available to tackle this specific problem,&#8221; are the ones to watch. What you don’t want are those leaders saying, &#8220;We need to do something with Big Data, and I think we need some great real-time dashboards. Let’s  start by choosing a platform.&#8221; Solutions vary depending on the problem, and that remains especially true in regards to Big Data and analytics.
 
 ## For the areas of concern you mentioned, how can the government play a part in addressing these challenges?
 
 ### Area of concern: Applying analytics to new data streams 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-167-Composite-image-of-file-transfer-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488641549.jpg" alt="Composite image of file transfer background" %} 
 
-I believe it’s up to everyone involved to focus on solving problems first and ensuring that those folks involved in these project have the proper experience and training.
+I believe it’s  up to everyone involved to focus on solving problems first and ensuring that those folks involved in these project have the proper experience and training.
 
 ### Area of concern: Privacy
 

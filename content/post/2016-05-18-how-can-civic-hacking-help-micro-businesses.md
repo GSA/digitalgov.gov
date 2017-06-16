@@ -26,15 +26,15 @@ If you are in the D.C. area, you won’t want to miss an exciting event that wil
 
 ## Why Focus on Micro-businesses?
 
-Here are three reasons why micro-businesses expand opportunity, setting up this year’s D.C. event to be one of the best ever:
+Here are three reasons why micro-businesses expand opportunity, setting up this year’s  D.C. event to be one of the best ever:
 
   1. **Local Business Success Makes Communities Stronger**
   
     An excerpt from the 2012 National Economic Council report on “Creating an Economy Built to Last” put it succinctly:
   
-    “America’s small businesses and entrepreneurs are the engine of our economy and one of our country’s greatest assets.&#8221;
+    “America’s  small businesses and entrepreneurs are the engine of our economy and one of our country’s  greatest assets.&#8221;
   
-    Over the last two decades, small and new businesses have been responsible for creating 2 out of every 3 net new jobs, and today the country’s 28 million small firms employ 60 million Americans, half of the private sector workforce. When America&#8217;s small businesses are strong and growing, our communities are strong and growing.
+    Over the last two decades, small and new businesses have been responsible for creating 2 out of every 3 net new jobs, and today the country’s  28 million small firms employ 60 million Americans, half of the private sector workforce. When America&#8217;s small businesses are strong and growing, our communities are strong and growing.
   2. **Micro-businesses are a Driving Force in Upward Mobility**
   
     <span style="line-height: 1.5">For minorities and immigrants, micro-businesses are helping to fuel the American dream. According to <a href="http://www.blackenterprise.com">blackenterprise.com</a>, studies show that 98% of all African American owned businesses are micro-businesses (those with five or fewer employees) and many of those businesses are also owned by women. In addition, the <a href="http://www.mercurynews.com/immigration/ci_25746797/entrepreneurship-training-helps-immigrants-establish-microbusinesses">Mercury News</a> notes that interest in opening a business is especially high among immigrants and refugees. Many have low incomes and less access to employment opportunities than the general population because they have limited English language skills, lack reliable transportation or an American diploma, and are still learning how American society works.</span>
@@ -47,14 +47,14 @@ Here are three reasons why micro-businesses expand opportunity, setting up this 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Woman-standing-with-arms-folded-Jupiterimages-Stockbyte-Thinkstock-78375478.jpg" alt="Female small business owner standing in front of her open coffee shop" %}
 
-Civic hacking can help uncover product and service opportunities to fill in gaps that micro-businesses face in achieving success. There is a very strong correlation to the amount of small business counseling a company receives, and their likelihood of success after first five years. The Aspen Institute’s “Facts about Business Ownership” states that 88 percent of entrepreneurs who gained small business counseling were still in business after five years, whereas 50 percent of entrepreneurs who did not receive this training were out of business.
+Civic hacking can help uncover product and service opportunities to fill in gaps that micro-businesses face in achieving success. There is a very strong correlation to the amount of small business counseling a company receives, and their likelihood of success after first five years. The Aspen Institute’s  “Facts about Business Ownership” states that 88 percent of entrepreneurs who gained small business counseling were still in business after five years, whereas 50 percent of entrepreneurs who did not receive this training were out of business.
 
 How will we tackle this on June 4th? Two concepts to think about will be “nudging” and helping “scale” counseling.
 
   * “Nudging”—Behavioral interventions have been shown to help individuals around and below the poverty line make better decisions. The [Behavioral Interventions to Advance Self-Sufficiency](http://www.acf.hhs.gov/programs/opre/research/project/behavioral-interventions-to-advance-self-sufficiency) (BIAS) project (applied) a behavioral economics lens to examine programs that serve poor and vulnerable families in the United States. They used a variety of scaleable “nudges,” a term used to describe decision-assisting designs that guide human behavior towards making improved choices—towards reducing late child support payments. In their work, they demonstrate that low-cost, low-effort behavioral interventions can improve outcomes for this target audience.
   * “Scaling Counseling”—Given that there can’t be a National Day of Civic Hacking every weekend, how might we bring the energy of this community of hackers to have a positive impact in the everyday lives of micro-businesses? How can we combine the promise of the simple “nudge” with open data and open source software?
 
-Let’s find out together on Saturday June 4, 2016. In an all day event in downtown D.C., we join forces to create a meaningful impact on both D.C.’s neighborhoods, but—potentially—struggling neighborhoods all over the world.
+Let’s  find out together on Saturday June 4, 2016. In an all day event in downtown D.C., we join forces to create a meaningful impact on both D.C.’s  neighborhoods, but—potentially—struggling neighborhoods all over the world.
 
 [Register for the D.C. event](https://hackforchangedc.splashthat.com/).
 

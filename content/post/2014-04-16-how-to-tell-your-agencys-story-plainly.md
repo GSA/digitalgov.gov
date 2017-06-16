@@ -2,8 +2,8 @@
 
 
 date: 2014-04-16 10:00:23 -0400
-title: 'How to Tell Your Agency’sStory&mdash;Plainly'
-summary: 'You&rsquo;ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You&rsquo;ve got the facts. You&rsquo;ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it’shard to organize material'
+title: 'How to Tell Your Agency’s Story&mdash;Plainly'
+summary: 'You&rsquo;ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You&rsquo;ve got the facts. You&rsquo;ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it’s hard to organize material'
 authors: [katherine-spivey]
 categories:
   - Content
@@ -21,7 +21,7 @@ You’ve got the right words, the active verbs, the carefully chosen adjectives 
 
 Wait. What you want to tell people is not necessarily what they need to know.
 
-I know it’s hard to organize material for your reader, but it’s the key to writing in plain language. Besides [being the law](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf), it’s also a best practice and the best way for getting people to read your content.
+I know it’s  hard to organize material for your reader, but it’s  the key to writing in plain language. Besides [being the law](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf), it’s  also a best practice and the best way for getting people to read your content.
 
 Because no one comes to government websites just to read every page, right? Our audience is busy people who want to get an answer to their question **right now**.
 
@@ -44,7 +44,7 @@ Write for a government website? You’ll need the top Web writing skills from th
 
 &nbsp;
 
-Write for an agency’s blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
+Write for an agency’s  blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
 
 [youtube=http://www.youtube.com/watch?v=W756zIegQBs&w=600]
 

@@ -21,7 +21,7 @@ _Making Mobile Gov was a three phase multi-media project created by the [MobileG
   * _Develop Resources—create an online resource to share information, policies, technology, and other innovations for agencies to accelerate their mobile efforts._
   * _Build Mobile Gov Community—take advantage of current tools—wikis, online discussion tools, social media—to leverage knowledge, experience, and tools across agency boundaries and to respond to rapid changes in technology and adoption._
 
-_Participants included mobile innovators across the federal government and was sponsored by GSA’s Office of Citizen Services & Innovative Technologies Mobile Program.
+_Participants included mobile innovators across the federal government and was sponsored by GSA’s  Office of Citizen Services & Innovative Technologies Mobile Program.
 
 _
 
@@ -37,7 +37,7 @@ Third, we will have a dialogue with people in government, industry, nonprofits, 
 
 ## Discover
 
-In 2010, the widespread and increasing use of mobile devices&#8211;96 percent of 18- to 29-year-olds own a cell phone&#8211; is a clear signal that people, and the federal included, need to start thinking about mobile in a different light. The federal government must act as a vehicle being able to deliver digital services and information always, anytime, anywhere, and on any device. Many agencies are already pushing the government’s adoption of consumer mobile services and we are calling this shift Mobile Gov.
+In 2010, the widespread and increasing use of mobile devices&#8211;96 percent of 18- to 29-year-olds own a cell phone&#8211; is a clear signal that people, and the federal included, need to start thinking about mobile in a different light. The federal government must act as a vehicle being able to deliver digital services and information always, anytime, anywhere, and on any device. Many agencies are already pushing the government’s  adoption of consumer mobile services and we are calling this shift Mobile Gov.
 
 The case for Mobile Gov is driven by:
 
@@ -70,7 +70,7 @@ Sound mobile strategy is a necessity for agencies to create efficient, innovativ
 
 Apps with the business need of “we want to have one, too” do not always align with agency mission and/or the needs of the public. The antithesis of strategy also includes agencies creating a number of one-off mobile projects or offices trying to go-it-alone to produce mobile apps, whether or not they make sense for either the program or the public.
 
-Once a mobile product is developed, mobile efforts need to be expanded. Sometimes this is due to the continually innovating industry (devices, operating systems, updates or just plain maintenance) and at other times it’s due to lack of a well thought out strategy.
+Once a mobile product is developed, mobile efforts need to be expanded. Sometimes this is due to the continually innovating industry (devices, operating systems, updates or just plain maintenance) and at other times it’s  due to lack of a well thought out strategy.
 
 An important aspect of strategy is measuring mobile project effectiveness, outcomes and value. A focus on the number of application downloads does not address these clearly, so some agencies are left struggling to find valid value measures for mobile projects.
 
@@ -131,9 +131,9 @@ Please scroll to the end to see accompanying video.
 
 ### Mobile Security
 
-Mobile projects – like everything we do – need to comply with an agency’s security requirements. The agencies we spoke to encountered a number of scenarios and concerns regarding mobile security.
+Mobile projects – like everything we do – need to comply with an agency’s  security requirements. The agencies we spoke to encountered a number of scenarios and concerns regarding mobile security.
 
-Government IT security teams need more expertise about the risks associated with mobile products as a way to better manage these risks. Because of security concerns, one agency was not allowed to put a link to its agency-built app on the agency’s own website.
+Government IT security teams need more expertise about the risks associated with mobile products as a way to better manage these risks. Because of security concerns, one agency was not allowed to put a link to its agency-built app on the agency’s  own website.
 
 Agencies need to develop security standards for all device platforms. One agency said that only one mobile platform was allowed because IT services said other platforms did not meet federal security standards.
 

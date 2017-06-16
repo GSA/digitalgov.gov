@@ -28,7 +28,7 @@ At the end of January, the team from 18F [held a DigitalGov University webinar](
 
 ## Why do we need web standards?
 
-Web standards help us provide a consistent experience across a complex system of websites that communicate important government information to the public. This consistent, modern, and useful experience simply makes government websites better and easier to use. What’s more, government websites are rife with legacy systems—that is older, more out of date technology. Using the new web standards will eventually help improve these legacy systems.
+Web standards help us provide a consistent experience across a complex system of websites that communicate important government information to the public. This consistent, modern, and useful experience simply makes government websites better and easier to use. What’s  more, government websites are rife with legacy systems—that is older, more out of date technology. Using the new web standards will eventually help improve these legacy systems.
 
 ## What does the 1.0 Launch mean?
 
@@ -39,7 +39,7 @@ A 1.0 version simply means that the standards are currently in production, and a
   * [History.state.gov](https://history.state.gov/) – the U.S. Office of the Historian, a great example of a content-heavy site using the Standards
   * [EPA.gov](https://www.epa.gov/) – a recent refresh using the new Standards
 
-## What’s next for the U.S. Web Design Standards?
+## What’s  next for the U.S. Web Design Standards?
 
 18F offers a host of services around the new Standards:
 
@@ -49,7 +49,7 @@ A 1.0 version simply means that the standards are currently in production, and a
 
 Additionally, they are mid-way through a [product roadmap](https://standards.usa.gov/whats-new/product-roadmap/) that includes [showcasing the benefits of the Standards to agencies and users](https://standards.usa.gov/whats-new/product-roadmap/#milestone-3), and [continuing the work of improving the Standards](https://standards.usa.gov/whats-new/product-roadmap/#milestone-4) by improving performance, finding partners to work on more complex open source components, and releasing future versions as they grow.
 
-And there’s one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
+And there’s  one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
 
 
 

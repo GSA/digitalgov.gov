@@ -26,7 +26,7 @@ Thanks to a mobile-optimized and redesigned [**www.cbp.gov**](http://www.cbp.gov
 
 So grab your smartphones, your tablets and your laptops and make a run to the CBP homepage before your next venture north, south, east or west of the border.
 
-_Interested in implementing Responsive Design in your agency? [Check out why other feds are doing it](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/ "Why Go Responsive? Here’s What Feds Are Saying")!_
+_Interested in implementing Responsive Design in your agency? [Check out why other feds are doing it](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/ "Why Go Responsive? Here’s  What Feds Are Saying")!_
 
 _Don&#8217;t forget: You can download a huge selection of mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)_.
 

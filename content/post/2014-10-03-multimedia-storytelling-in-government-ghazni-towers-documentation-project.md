@@ -18,7 +18,7 @@ tag:
 
 &#8220;Content is king&#8221; is a generally accepted truth for those of us who produce digital media. But once you have compelling content, how to best present it to your audience becomes the next challenge. In recent years, Web innovators started emphasizing the effectiveness of &#8220;digital storytelling,&#8221; or content focused on individual, human experiences using compelling and engaging formats to convey information.
 
-At the [Department of State’s, Bureau of Educational and Cultural Affairs](http://eca.state.gov/), we recently tried our hand at executing a digital storytelling effort employing rarely-used-in-government techniques to tell a story about cultural heritage, partnership, teamwork, and preservation. This venture resulted in the [Towers of Victory: Ghazni Towers Documentation Project](http://eca.state.gov/files/bureau/ghazni-towers/index.html#header) virtual exhibit, a multimedia-rich and interactive digital feature that communicates how several U.S. government entities came together to document an important part of world history in Afghanistan using high-tech laser scanning techniques and a lot of collaboration.
+At the [Department of State’s , Bureau of Educational and Cultural Affairs](http://eca.state.gov/), we recently tried our hand at executing a digital storytelling effort employing rarely-used-in-government techniques to tell a story about cultural heritage, partnership, teamwork, and preservation. This venture resulted in the [Towers of Victory: Ghazni Towers Documentation Project](http://eca.state.gov/files/bureau/ghazni-towers/index.html#header) virtual exhibit, a multimedia-rich and interactive digital feature that communicates how several U.S. government entities came together to document an important part of world history in Afghanistan using high-tech laser scanning techniques and a lot of collaboration.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-255-Ghazni-Towers-Documentation-Project-1.jpg" alt="600-x-255-Ghazni-Towers-Documentation-Project-1" %}
@@ -29,9 +29,9 @@ The many lessons our team learned while developing this feature provides a helpf
 
 Once you’ve identified your story, identifying your audience is the first step in the process of creating compelling online content. Defining your audience can be a bit tricky. The most common answer we hear to the “who is your audience” question is: Everyone! But the more you can target those interested in your content, the more you can tailor it to them. In our case, we honed our content for cultural preservationists, those in the architectural field, and history buffs while maintaining accessibility for the general public.
 
-Achieving that balance for this piece proved challenging. We wanted to describe the project’s advanced laser scanning techniques in detail and showcase the high-tech and innovative processes, but also wanted to present the information as a story, rather than having it read like a document.
+Achieving that balance for this piece proved challenging. We wanted to describe the project’s  advanced laser scanning techniques in detail and showcase the high-tech and innovative processes, but also wanted to present the information as a story, rather than having it read like a document.
 
-In our case, we decided to provide the user with multiple ways to digest the content: text, videos, slideshows, a timeline, aerial views of the tower, and a map. Depending on the user’s preference, members of our audience can use any one (or all) of these components to learn about the project and the team.
+In our case, we decided to provide the user with multiple ways to digest the content: text, videos, slideshows, a timeline, aerial views of the tower, and a map. Depending on the user’s  preference, members of our audience can use any one (or all) of these components to learn about the project and the team.
 
 To help discover your audience, ask questions like:
 
@@ -52,7 +52,7 @@ In our case, to start we had:
   * photos of the laser scans
   * photos of the architects in the field
   * technical drawings created from the scans
-  * detailed information from the Bureau’s Cultural Heritage Center about project
+  * detailed information from the Bureau’s  Cultural Heritage Center about project
   * architects/ interns as a source for first person narrative
   * National Park Service technicians for video interviews
   * subject matter experts, a video producer, Web producer, a developer and a supportive supervisor with a vision and drive to make this happen!
@@ -99,7 +99,7 @@ Following 508 standards guarantees that you’re not unfairly limiting your audi
 
 ## 8. Share Your Story!
 
-Once you’ve created your final product, it’s time to let the world know about it! A coordinated promotional campaign can make all the difference. Collaborate with your press and social media teams to boost your storytelling capacity and grow your audience at the same time. Just as you identified your audience at the beginning of the process, identify your partners, advocates, fans, and anyone else who will amplify your message once it’s complete.
+Once you’ve created your final product, it’s  time to let the world know about it! A coordinated promotional campaign can make all the difference. Collaborate with your press and social media teams to boost your storytelling capacity and grow your audience at the same time. Just as you identified your audience at the beginning of the process, identify your partners, advocates, fans, and anyone else who will amplify your message once it’s  complete.
 
 Our team often creates social media toolkits that include graphics, sample social media messages, and key points partners such as embassies, grantees, and other online advocates can reference to best share our content.
 
@@ -112,7 +112,7 @@ On the backend, be sure to tweak your metadata so that your content shares well 
 
 Measuring your success (or failure) marks the final, and arguably most important, step in any online storytelling venture. Whether you created a coordinated promotional campaign or just shared with your audience, you’ll want to know which outreach efforts created the most bang for your buck.
 
-Thanks to the [Digital Analytics Program](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program"), government websites use Google Analytics as the go-to metrics tool. Tallying up sessions, users, and pageviews makes a great first start, but we recommend taking your metrics further to fully measure your impact. With GA’s goal, flow, and funnel tools, you easily can see which sources brought people that not only looked at your site, but also how they interacted with your content, giving great insight into the value of each promotional source. For example, which do you find more valuable: thousands of people who come from social media source who, A) leave immediately, or hundreds who visit from social media source who, B) watch the videos, download PDFs, share your content, and visit other pages on your site?
+Thanks to the [Digital Analytics Program](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program"), government websites use Google Analytics as the go-to metrics tool. Tallying up sessions, users, and pageviews makes a great first start, but we recommend taking your metrics further to fully measure your impact. With GA’s  goal, flow, and funnel tools, you easily can see which sources brought people that not only looked at your site, but also how they interacted with your content, giving great insight into the value of each promotional source. For example, which do you find more valuable: thousands of people who come from social media source who, A) leave immediately, or hundreds who visit from social media source who, B) watch the videos, download PDFs, share your content, and visit other pages on your site?
 
 Take note of what social media outreach efforts are the most valuable to you, as it relates to your goals for your project. Some good questions to ask include:
 

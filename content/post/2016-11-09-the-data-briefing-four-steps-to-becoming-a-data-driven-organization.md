@@ -23,7 +23,7 @@ As the Federal government agencies begin the digital transformation journey, bec
 
 ## First Step – Locating and Preparing the Data Assets
 
-Locating and preparing data assets is the hard work of creating a data-driven organization. Consider the vast number of data sources in the average Federal agency. Where the data is located, how is it stored, what types of technology are needed to access and manipulate the data, and how to extract the data. Agency data sources often grow organically which means there is a multitude of technologies that silo the data sources from each other. As I have found in gaining my data science certification, much of the data scientist’s work is locating and cleaning the data to prepare it for analysis. Locating and preparing data assets can be the costliest and time-intensive task in creating the data-driven organization.
+Locating and preparing data assets is the hard work of creating a data-driven organization. Consider the vast number of data sources in the average Federal agency. Where the data is located, how is it stored, what types of technology are needed to access and manipulate the data, and how to extract the data. Agency data sources often grow organically which means there is a multitude of technologies that silo the data sources from each other. As I have found in gaining my data science certification, much of the data scientist’s  work is locating and cleaning the data to prepare it for analysis. Locating and preparing data assets can be the costliest and time-intensive task in creating the data-driven organization.
 
 ## Second Step – Establishing Data Partnerships
 
@@ -31,7 +31,7 @@ It is the rare organization where all the data resides in one office or departme
 
 ## Third Step – Leadership Views Data as a Strategic Asset
 
-Once the hard work of steps one and two are accomplished, being a data-driven organization requires ongoing senior leadership support. Senior leaders must champion the use of analytics to inform agency decisions and support the results of data analysis even if the analysis runs counter to the leadership’s initial assumptions. Senior leaders also must support the governance of data assets and maintaining data partnerships.
+Once the hard work of steps one and two are accomplished, being a data-driven organization requires ongoing senior leadership support. Senior leaders must champion the use of analytics to inform agency decisions and support the results of data analysis even if the analysis runs counter to the leadership’s  initial assumptions. Senior leaders also must support the governance of data assets and maintaining data partnerships.
 
 ## Fourth Step – Using Data for Organizational Innovation
 
@@ -43,4 +43,4 @@ Many models exist on how an organization can become data-driven. The four steps 
 
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

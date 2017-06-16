@@ -59,7 +59,7 @@ Over the years, we have employed a promotion strategy that consists of highlight
 
 There are numerous things to take into consideration as you explore email campaigns. Here are some key questions to explore, based on our experience:
 
-  * Are your email marketing writers familiar with your content strategy? Do they understand your organization’s voice?
+  * Are your email marketing writers familiar with your content strategy? Do they understand your organization’s  voice?
   * Will you have dedicated resources to employ a consistent communications output?
   * Will you be able to ensure quality control so messages are well-written, culturally relevant, and targeted?
 

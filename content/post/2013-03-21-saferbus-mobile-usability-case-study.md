@@ -18,7 +18,7 @@ tag:
 
 When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can vastly improve the usability of your site.
 
-The DigitalGov User Experience Program helped test SaferBus, the U.S. Department of Transportation’s iPhone Application for reviewing safety on bus lines. Below are the top problems discovered during the test, and the results when they were fixed.
+The DigitalGov User Experience Program helped test SaferBus, the U.S. Department of Transportation’s  iPhone Application for reviewing safety on bus lines. Below are the top problems discovered during the test, and the results when they were fixed.
 
 ## Problem 1: Homepage Gives No Starting Point or Purpose
 

@@ -3,7 +3,7 @@
 
 date: 2014-10-24 9:01:48 -0400
 title: 'Use Metrics to Drive Success'
-summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That’sthe question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
+summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
 authors: [lnelson]
 categories:
   - Metrics
@@ -12,7 +12,7 @@ tag:
   - Open Opportunities program
 ---
 
-Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/).
+Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s  the question we wanted to answer as we created the [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/).
 
 We had a built-in test case. When the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital governance and getting better customer feedback. Our team at GSA was chartered to support agencies, and we were looking for innovators across government to contribute. We outlined our hypotheses:
 
@@ -42,7 +42,7 @@ In tracking our growth metrics we found our initial focus on having enough tasks
 
 Looking at our customer experience metric, we saw a lot of repeat users and high customer satisfaction rates. During the 2013 Fiscal Year, 100% of survey respondents said they would “recommend us to a friend” and 93% said they would participate again.
 
-And finally, we examined the program’s effectiveness, comparing the number of tasks created to the number completed. In our pilot year, just over half the tasks created were completed (48 tasks out of 93). Another eight were long term tasks in progress.
+And finally, we examined the program’s  effectiveness, comparing the number of tasks created to the number completed. In our pilot year, just over half the tasks created were completed (48 tasks out of 93). Another eight were long term tasks in progress.
 
 With the results from our pilot year, we approached our second year (FY14) with some new techniques:
 

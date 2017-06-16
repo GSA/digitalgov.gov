@@ -59,7 +59,7 @@ If you are an agency currently using Google Analytics as your data gathering too
 
 ## Strategizing
 
-Do you have a strategy for not only collecting the data, but then making informed decisions on it? In this recent event, [Optimizing Your Public Sector Web Analytics](http://www.youtube.com/watch?v=v_tkV8A8Co4&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=1), Sam Bronson, from the **Environmental Protection Agency** (EPA), discusses analysis techniques designed to serve a variety of government customer-types and provides a list of tips for enhancing your program’s capabilities.
+Do you have a strategy for not only collecting the data, but then making informed decisions on it? In this recent event, [Optimizing Your Public Sector Web Analytics](http://www.youtube.com/watch?v=v_tkV8A8Co4&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P&index=1), Sam Bronson, from the **Environmental Protection Agency** (EPA), discusses analysis techniques designed to serve a variety of government customer-types and provides a list of tips for enhancing your program’s  capabilities.
 
 Also take a look at the [Turning Data into Action](https://www.WHATEVER/2014/06/03/digitalgov-summit-panels-recap/ "Turning Data Into Action—DigitalGov Summit Recap") panel recap from the Spring Digital Citizen Services Summit to see how agencies ARE using their data to make positive changes and improve the customer experience.
 
@@ -67,6 +67,6 @@ Ken Handwerger from the **National Park Service** (NPS) wrote an article about h
 
 ## Upcoming Event
 
-Do you have a plan for making your data open? In this upcoming event, [How to Get Your Agency’s Data on Data.gov](https://www.WHATEVER/event/how-to-get-your-agencys-data-onto-data-gov/ "How to Get Your Agency’s Data onto Data.gov"), you can find out how to leverage the power of Data.gov to open your data.
+Do you have a plan for making your data open? In this upcoming event, [How to Get Your Agency’s  Data on Data.gov](https://www.WHATEVER/event/how-to-get-your-agencys-data-onto-data-gov/ "How to Get Your Agency’s  Data onto Data.gov"), you can find out how to leverage the power of Data.gov to open your data.
 
 And of course you can find all of our past training in our [Video Library](https://www.WHATEVER/digitalgov-university/video-library/ "Video Library").

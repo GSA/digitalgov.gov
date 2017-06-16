@@ -23,15 +23,15 @@ As part of its mission to promote cross-agency sharing of best practices in the 
   
 stand up effective digital services governance structures consistent with Milestone Action #4.2. Recognizing that governance is a means to an end, the recommendations highlight opportunity areas for agencies to deliver better services at a lower cost.
 
-To support the Digital Services Advisory Group’s efforts, the Digital Services Innovation Center hosted a digital governance co-location project. This project is an ongoing experiment where we have applied agile software development processes to policy-making.
+To support the Digital Services Advisory Group’s  efforts, the Digital Services Innovation Center hosted a digital governance co-location project. This project is an ongoing experiment where we have applied agile software development processes to policy-making.
 
 We used intensive, facilitated “agile sprints” to help agencies develop digital governance structures. The goals for these “sprints” as we began to call them were to:
 
   * Allow the participating agencies to get a jump start on their governance models
-  * Abstract what was learned from these agencies’ governance model creation processes to inform the Digital Services Advisory Group’s governance recommendations
+  * Abstract what was learned from these agencies’ governance model creation processes to inform the Digital Services Advisory Group’s  governance recommendations
   * Share this “agile sprint” model with other agencies to accelerate their digital governance model creation in order to meet the November 23rd milestone.
 
-The government innovators who partook in this experiment were the U.S Departments of Education, Agriculture, Veteran’s Affairs and the General Services Administration. In the first sprint, which lasted a week, these agencies agreed to creating a digital governance model “minimal viable policy” or MVPs to workshop with their agencies before the second sprint.
+The government innovators who partook in this experiment were the U.S Departments of Education, Agriculture, Veteran’s  Affairs and the General Services Administration. In the first sprint, which lasted a week, these agencies agreed to creating a digital governance model “minimal viable policy” or MVPs to workshop with their agencies before the second sprint.
 
 During this sprint, the innovating agencies found themselves engaging in a rapid cycle of brainstorming,  presenting, getting and giving feedback on their outline digital governance model MVPs. Facilitators started to notice that agencies would “borrow” MVP elements they liked from other agencies in successive presentations. A [RACI chart](http://en.wikipedia.org/wiki/Responsibility_assignment_matrix) for stakeholder mapping was perhaps the most “borrowed” element.
 

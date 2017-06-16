@@ -3,7 +3,7 @@
 
 date: 2015-09-14 10:00:35 -0400
 title: 'The Content Corner\: Should You Stop Writing and Start Podcasting?'
-summary: 'Several months or so ago, I raised the question of whether you and your agency&nbsp;should be podcasting.&nbsp;Incidentally, my post coincided with the launch of DigitalGov’snew podcast series. As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’sSerial and'
+summary: 'Several months or so ago, I raised the question of whether you and your agency&nbsp;should be podcasting.&nbsp;Incidentally, my post coincided with the launch of DigitalGov’s new podcast series. As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s Serial and'
 authors: [tymanuel]
 categories:
   - Content
@@ -17,9 +17,9 @@ tag:
   - The Content Corner
 ---
 
-Several months or so ago, I raised the question of whether you and your agency [should be podcasting.](https://www.WHATEVER/2015/04/06/the-content-corner-should-you-be-podcasting/) Incidentally, my post coincided with the launch of [DigitalGov’s new podcast series](https://www.WHATEVER/tag/podcast/). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s [Serial](http://serialpodcast.org/) and [Marc Maron’s WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).
+Several months or so ago, I raised the question of whether you and your agency [should be podcasting.](https://www.WHATEVER/2015/04/06/the-content-corner-should-you-be-podcasting/) Incidentally, my post coincided with the launch of [DigitalGov’s  new podcast series](https://www.WHATEVER/tag/podcast/). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s  [Serial](http://serialpodcast.org/) and [Marc Maron’s  WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).
 
-This rise in popularity and perhaps the weekly grind of creating written content made me ask the question that is the title of this week’s post: Would it be easier to just sit down in front of a microphone and speak, instead of typing all this stuff out? And in this age of [TL;DR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read), is the medium of a podcast a more suitable vehicle for the dissemination of information as opposed to expecting people to actually read something? On the off chance that you are actually going to read this, let’s try and find some answers.
+This rise in popularity and perhaps the weekly grind of creating written content made me ask the question that is the title of this week’s  post: Would it be easier to just sit down in front of a microphone and speak, instead of typing all this stuff out? And in this age of [TL;DR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read), is the medium of a podcast a more suitable vehicle for the dissemination of information as opposed to expecting people to actually read something? On the off chance that you are actually going to read this, let’s  try and find some answers.
 
 ## Benefits of Podcasting 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/featured-301-x-212-Podcasting-arinahabich-iStock-Thinkstock-ThinkstockPhotos-484812187-250x176.jpg" alt="Microphone" %} 

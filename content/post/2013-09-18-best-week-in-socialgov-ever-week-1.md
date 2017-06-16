@@ -35,4 +35,4 @@ Consider that despite what many may think, more than [51% of Saudi Arabians are 
 
 We&#8217;re looking forward to sharing more of the intriguing stories, ideas and travels you experience as we work together to advance better services and cost savings through digital technology. This week, for example,** [Social Media Club DC](http://www.socialmediaclubdc.org/)** [invited us to showcase some of our programs](https://www.eventbrite.com/event/8107964139) &#8212; we not only delivered some of our best programs to share with attendees, but also are streaming in our colleagues from other countries like **Australia**, **Ireland** and **Canada** via **Google Hangout** to discuss the challenges and opportunities we all face.
 
-I&#8217;ve got a feeling it’s going to be the best week in #socialgov yet, but let us know why it is in your world.
+I&#8217;ve got a feeling it’s  going to be the best week in #socialgov yet, but let us know why it is in your world.

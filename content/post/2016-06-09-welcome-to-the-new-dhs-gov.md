@@ -45,7 +45,7 @@ In 2015, more than 22% of visitors to DHS.gov used either a cell phone or tablet
 
 Throughout the course of this effort, we updated more than 9,000 pages to simplify how information is presented to the user. Each page now features easy-to-read type and a clear introduction, so you can quickly determine if you are on the right page. We also built in collapsing sections so that longer pages of content can be quickly skimmed for relevant information.
 
-The new DHS.gov is also fully accessible, reinforcing the Department’s commitment to meet or exceed federal Section 508 compliance standards.
+The new DHS.gov is also fully accessible, reinforcing the Department’s  commitment to meet or exceed federal Section 508 compliance standards.
 
 Finally, we introduced new tools like updated slideshows and image carousels, which highlight new information and announcements from the Department.
 
@@ -53,7 +53,7 @@ Finally, we introduced new tools like updated slideshows and image carousels, wh
 
 Finding information on DHS.gov has never been easier.
 
-We updated the site’s technology to make sure pages were cataloged correctly by both our search engine and external search engines, so your searches on DHS.gov will yield more accurate results. We also organized each page and section by DHS mission area, so you can see how each program or activity ties into broader Department goals. For instance, you can use our optimized search engine to find the DHS Trusted Traveler program that works best for you.
+We updated the site’s  technology to make sure pages were cataloged correctly by both our search engine and external search engines, so your searches on DHS.gov will yield more accurate results. We also organized each page and section by DHS mission area, so you can see how each program or activity ties into broader Department goals. For instance, you can use our optimized search engine to find the DHS Trusted Traveler program that works best for you.
 
 ## Moving Forward
 

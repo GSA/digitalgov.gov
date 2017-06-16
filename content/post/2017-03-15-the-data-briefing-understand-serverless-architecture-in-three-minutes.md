@@ -25,7 +25,7 @@ In the second definition of serverless architecture, the server appears when the
 ## What are the advantages of serverless architecture?
 
   1. You only pay when the pieces of code are activated. You do not have to pay for an always-on server that may sit for long periods of time using power and resources without any user activity.
-  2. It is very easy to handle sudden demands in user activity. Let’s say that you have a promotion and suddenly, everyone wants to buy your products. It is easy for the managing cloud application to create additional virtual servers to handle the events.
+  2. It is very easy to handle sudden demands in user activity. Let’s  say that you have a promotion and suddenly, everyone wants to buy your products. It is easy for the managing cloud application to create additional virtual servers to handle the events.
   3. Updating applications are near-instantaneous by uploading a new piece of code into the cloud. Event-driven applications will immediately use the new code.
 
 Serverless architecture is still evolving, and I expect to see many new developments as more developers explore event-driven applications. [Expect to see the federal government along with other governments explore the possibilities of serverless architecture in delivering government services to the American public](http://www.govtech.com/opinion/Serverless-Computing-Is-a-Growing-Trend-Heres-What-You-Need-to-Know.html).
@@ -34,4 +34,4 @@ _AWS Lambda and Amazon Web Services are used for illustrative purposes and do no
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
 
-_[Dr. William Brantley](https://www.WHATEVER/author/bbrantley/) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_[Dr. William Brantley](https://www.WHATEVER/author/bbrantley/) is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

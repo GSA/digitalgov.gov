@@ -60,7 +60,7 @@ Example:
 
 ## **Use graphics and thumbnail images, as appropriate, to make pages easy to scan**
 
-Just like adults, kids lose interest in text (even more so than adults do). To avoid losing their interest, it’s important to include pictures and graphics that add to the meat of your content, including easy-to-understand infographics or comics.
+Just like adults, kids lose interest in text (even more so than adults do). To avoid losing their interest, it’s  important to include pictures and graphics that add to the meat of your content, including easy-to-understand infographics or comics.
 
 Examples:
 
@@ -85,7 +85,7 @@ Older kids (Grades 4-8):
 
 Examples:
 
-  * [Ben’s Guide](http://bensguide.gpo.gov/k-2/index.html) (younger kids)
+  * [Ben’s  Guide](http://bensguide.gpo.gov/k-2/index.html) (younger kids)
   * [NASA Grades 5-8](http://www.nasa.gov/audience/forstudents/5-8/index.html) (older kids)
 
 ## **Maybe an app instead?**

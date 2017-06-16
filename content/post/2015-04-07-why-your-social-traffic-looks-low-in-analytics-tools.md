@@ -17,7 +17,7 @@ tag:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" %}Part of my job as an analyst on the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" %}Part of my job as an analyst on the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s  one question I get asked far too much:
 
 **“Why does my traffic referred from social media look so incredibly low?”**
 
@@ -42,17 +42,17 @@ In the figures above, social media appears as only a small portion of referrals,
 
 ## How Can I Fix It?
 
-Some might say, “it’s ok that I don’t get the referral traffic in a web analytics tool, because the url shortening service provides us analytics.” In reality, this is a poor argument. Web analytics tools allow you to do much, much more with the data than any single url shortening service’s analytics can do.
+Some might say, “it’s  ok that I don’t get the referral traffic in a web analytics tool, because the url shortening service provides us analytics.” In reality, this is a poor argument. Web analytics tools allow you to do much, much more with the data than any single url shortening service’s  analytics can do.
 
-Specifically, a url shortener’s analytics tool probably can’t provide you with much other than the number of clicks. But, in a web analytics tool, you can segment data to see behavior once the user is on the page you directed them to (time on page, bounce rate, downloads, etc.) to gain greater perspective of the success of your campaigns.
+Specifically, a url shortener’s  analytics tool probably can’t provide you with much other than the number of clicks. But, in a web analytics tool, you can segment data to see behavior once the user is on the page you directed them to (time on page, bounce rate, downloads, etc.) to gain greater perspective of the success of your campaigns.
 
 So, here are two things you can do to avoid miscategorization of your social referral data in your web analytics tool:
 
 ### 1. Don’t shorten links at all
 
-Facebook has no character limit, so there’s really no need to shorten. Same for LinkedIn. And for the last four years, [Twitter automatically shortens links with their t.co service](https://support.twitter.com/articles/109623-about-twitter-s-link-service-http-t-co) if you input a link directly into Twitter, which does carry the referrer from Twitter into analytics tools.
+Facebook has no character limit, so there’s  really no need to shorten. Same for LinkedIn. And for the last four years, [Twitter automatically shortens links with their t.co service](https://support.twitter.com/articles/109623-about-twitter-s-link-service-http-t-co) if you input a link directly into Twitter, which does carry the referrer from Twitter into analytics tools.
 
-Downside: it’s a pain to try this if you use a social media dashboard tool like TweetDeck or Hootsuite to schedule your social posts (but in most cases, you can turn off the automatic url shortening they offer). If you can move to this model, the added insights you’ll get by being able to pair the referrals from social media to behavior on the sites (in addition to analytics from the social tools themselves) maximize your analysis capability.
+Downside: it’s  a pain to try this if you use a social media dashboard tool like TweetDeck or Hootsuite to schedule your social posts (but in most cases, you can turn off the automatic url shortening they offer). If you can move to this model, the added insights you’ll get by being able to pair the referrals from social media to behavior on the sites (in addition to analytics from the social tools themselves) maximize your analysis capability.
 
 ### 2. Use campaign tracking
 

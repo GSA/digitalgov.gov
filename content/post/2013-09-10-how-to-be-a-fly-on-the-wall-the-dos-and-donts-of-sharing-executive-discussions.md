@@ -3,7 +3,7 @@
 
 date: 2013-09-10 10:05:05 -0400
 title: 'How to Be a Fly on the Wall\: The Dos and Don&amp;#8217;ts of Sharing Executive Discussions'
-summary: 'A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’scollective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the'
+summary: 'A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the'
 authors: [david-hebert]
 categories:
   - Content
@@ -11,7 +11,7 @@ categories:
   - Social Media
 ---
 
-A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the organization is headed.
+A sure way to drive employees crazy is to never share what executives discuss or decide until a new mandate lands on the organization’s  collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the organization is headed.
 
 One way to offer that clear accountability and communication is by keeping people apprised of what happens in important executive meetings, even as those meetings are happening. Here are a few things you should and shouldn&#8217;t do.
 
@@ -22,7 +22,7 @@ One way to offer that clear accountability and communication is by keeping peopl
 **Do** all you can to ensure that everyone, including the executives themselves, is aware that the discussion will be documented for employees. **Don’t** assume that one memo or a mention at the weekly senior staff meeting will make its way through the agency.{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/hands-typing-250x183.jpg" alt="Hands on a keyboard typing" %}
 
 
-**Do** set explicit expectations about what and how will be covered in the meeting, including the sort of information that will be shared and the media used to share it. Execs need to trust you, and employees will define trust of execs through your coverage. **Don’t** make employees think they are going to get sensitive info before it’s ready to be shared, and don’t surprise your leaders with a video camera when they think you’re keeping written comments.
+**Do** set explicit expectations about what and how will be covered in the meeting, including the sort of information that will be shared and the media used to share it. Execs need to trust you, and employees will define trust of execs through your coverage. **Don’t** make employees think they are going to get sensitive info before it’s  ready to be shared, and don’t surprise your leaders with a video camera when they think you’re keeping written comments.
 
 **Analytics: Measure Your Live-Blogging (or Other Coverage) for Internal Communications.**
 
@@ -33,11 +33,11 @@ One way to offer that clear accountability and communication is by keeping peopl
 </p>
 
 <p dir="ltr">
-  <strong>Do</strong> keep the voice and tense of the coverage clear and consistent, and time/date stamp your posts. <strong>Don’t</strong> make employees have to think about who’s writing the updates or when they were supposed to be written.
+  <strong>Do</strong> keep the voice and tense of the coverage clear and consistent, and time/date stamp your posts. <strong>Don’t</strong> make employees have to think about who’s  writing the updates or when they were supposed to be written.
 </p>
 
 <p dir="ltr">
-  <strong>Do</strong> pay close attention to what’s being discussed so you can pull out the best material to share. <strong>Don’t</strong> check your email, write that proposal you’ve been meaning to get to, or browse for jobs while you’re supposed to be covering the event.
+  <strong>Do</strong> pay close attention to what’s  being discussed so you can pull out the best material to share. <strong>Don’t</strong> check your email, write that proposal you’ve been meaning to get to, or browse for jobs while you’re supposed to be covering the event.
 </p>
 
 <p dir="ltr" style="text-align: left">
@@ -58,7 +58,7 @@ One way to offer that clear accountability and communication is by keeping peopl
 </p>
 
 <p dir="ltr">
-  <strong>Do</strong> come up with one or two good questions to ask individual leaders during breaks or at the end of the event. <strong>Don’t</strong> ask them a question that would put them in an awkward position with their colleagues (“So, why do you think Brenda’s programs keep getting cut?”).
+  <strong>Do</strong> come up with one or two good questions to ask individual leaders during breaks or at the end of the event. <strong>Don’t</strong> ask them a question that would put them in an awkward position with their colleagues (“So, why do you think Brenda’s  programs keep getting cut?”).
 </p>
 
 <p dir="ltr">

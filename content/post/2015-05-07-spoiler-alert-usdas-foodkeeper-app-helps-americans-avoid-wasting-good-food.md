@@ -2,7 +2,7 @@
 
 
 date: 2015-05-07 10:00:13 -0400
-title: 'Spoiler Alert\: USDA’sFoodKeeper App Helps Americans Avoid Wasting Good Food'
+title: 'Spoiler Alert\: USDA’s FoodKeeper App Helps Americans Avoid Wasting Good Food'
 summary: 'Spoiler Alert\:&nbsp;Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per person'
 authors: [kdowney]
 categories:
@@ -19,7 +19,7 @@ tag:
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-USDA-Food-Safety-and-Inspection-Service-FoodKeeper-iOS-app-cooking-info.jpg" alt="USDA Food Safety and Inspection Service FoodKeeper iOS app cooking info" %}**Spoiler Alert:** Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The [U.S. Department of Agriculture](http://www.usda.gov/wps/portal/usda/usdahome) estimates that retailers and consumers waste 36 pounds of food per person each month.
 
-The [USDA’s FoodKeeper app](http://www.usda.gov/wps/portal/usda/usdamobile?contentid=2015/04/0086.xml&contentidonly=true) helps Americans avoid this problem by offering users valuable storage advice about more than 400 food and beverage items, including various types of baby food, dairy products and eggs, meat, poultry, produce, seafood, and more. The app can also send notifications to remind users to consume items before they are likely to spoil.
+The [USDA’s  FoodKeeper app](http://www.usda.gov/wps/portal/usda/usdamobile?contentid=2015/04/0086.xml&contentidonly=true) helps Americans avoid this problem by offering users valuable storage advice about more than 400 food and beverage items, including various types of baby food, dairy products and eggs, meat, poultry, produce, seafood, and more. The app can also send notifications to remind users to consume items before they are likely to spoil.
 
 The app lets users:
 
@@ -31,7 +31,7 @@ The app lets users:
 
 Storage times listed are intended as useful guidelines and are not hard-and-fast rules. Some foods may deteriorate more quickly, while others may last longer than the times suggested.
 
-The FoodKeeper was originally a publication containing valuable advice to help consumers understand the shelf life of products when stored in the pantry, refrigerator or freezer. In 2015, USDA, Cornell University and the Food Marketing Institute teamed up to turn the publication’s guidelines into an app.
+The FoodKeeper was originally a publication containing valuable advice to help consumers understand the shelf life of products when stored in the pantry, refrigerator or freezer. In 2015, USDA, Cornell University and the Food Marketing Institute teamed up to turn the publication’s  guidelines into an app.
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=gov.usda.fsis.foodkeeper&hl=en) and [iOS](https://itunes.apple.com/us/app/usda-foodkeeper/id978186100?mt=8) devices.
 

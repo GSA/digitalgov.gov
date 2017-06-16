@@ -24,7 +24,7 @@ On September 7th, the Office of Information Policy (OIP) released an updated ver
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-332-Freedom-of-Information-Act-FOIA-website-homepage.jpg" alt="Freedom of Information Act homepage." %}
 
-As described in OIP’s [guidance](https://www.justice.gov/oip/oip-guidance/guidance-agency-foia-regulations), while many of the FOIA’s requirements are contained directly in the statute and do not need implementing regulations, there are areas where the FOIA specifically requires each agency to publish regulations and still other areas where regulations are permitted. Moreover, there are aspects of FOIA administration that can be addressed in FOIA regulations as a matter of good practice.
+As described in OIP’s  [guidance](https://www.justice.gov/oip/oip-guidance/guidance-agency-foia-regulations), while many of the FOIA’s  requirements are contained directly in the statute and do not need implementing regulations, there are areas where the FOIA specifically requires each agency to publish regulations and still other areas where regulations are permitted. Moreover, there are aspects of FOIA administration that can be addressed in FOIA regulations as a matter of good practice.
 
 The updates to the [guidance](https://www.justice.gov/oip/oip-guidance/guidance-agency-foia-regulations) and accompanying [template](https://www.justice.gov/oip/template-agency-foia-regulations) for agency FOIA regulations include:
 

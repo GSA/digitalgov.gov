@@ -22,9 +22,9 @@ tag:
 
 With this new app, called [United States Coast Guard](http://www.uscg.mil/mobile/), users can ensure they have proper equipment, check the weather, file a float plan, and so much more.
 
-The app also features an emergency assistance button, which calls the closest Coast Guard command center if the phone’s location services are enabled.
+The app also features an emergency assistance button, which calls the closest Coast Guard command center if the phone’s  location services are enabled.
 
-Don’t miss the Coast Guard’s [Facebook video about the app](https://www.facebook.com/UScoastguard/videos/10153333421857679/) for details.
+Don’t miss the Coast Guard’s  [Facebook video about the app](https://www.facebook.com/UScoastguard/videos/10153333421857679/) for details.
 
 This app lets users:
 
@@ -39,9 +39,9 @@ This app lets users:
   * Report pollution to the Coast Guard
   * Report suspicious activity to the Coast Guard
 
-The app is available on Google Play for [Android devices](https://play.google.com/store/apps/details?id=com.coastguard), and Apple’s App Store for [iOS devices](https://itunes.apple.com/app/id989994255).
+The app is available on Google Play for [Android devices](https://play.google.com/store/apps/details?id=com.coastguard), and Apple’s  App Store for [iOS devices](https://itunes.apple.com/app/id989994255).
 
-On a privacy note: personal information stored on the phone through this app is not sent to the Coast Guard, unless the user chooses to send it. The Coast Guard does not track a user&#8217;s location, and the app does not track a user&#8217;s location unless the app is being used. Users can easily turn their location on or off within the app’s settings button.
+On a privacy note: personal information stored on the phone through this app is not sent to the Coast Guard, unless the user chooses to send it. The Coast Guard does not track a user&#8217;s location, and the app does not track a user&#8217;s location unless the app is being used. Users can easily turn their location on or off within the app’s  settings button.
 
 <table width="100%">
   <tr>

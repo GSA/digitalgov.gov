@@ -25,7 +25,7 @@ In its [Design by Biomedical Undergraduate Teams (DEBUT) Challenge](http://www.n
 
 While members of the first-place team graduated in May, the work they initiated under this challenge will continue.
 
-The team’s [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. 
+The team’s  [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/425-x-263-Viral-Diagnostic-Technology-2.jpg" alt="The special membrane used by the device is first coated with an HIV-specific antibody which captures HIV viruses. Then, gold and silver nanoparticles are bound to the captured HIV. With each of the steps, ions become progressively less able to reach electrodes. By measuring the resulting current, it is possible to determine the amount of virus that has been caught in the membrane." %} 
 
 In addition to taking center stage at the annual meeting of the Biomedical Engineering Society, the Lehigh grads will receive a $20,000 prize—seed money they plan to start a new business, protect their intellectual property, and fund further research.
@@ -51,7 +51,7 @@ Kundrod, Fraser, and their teammates had presented research at symposia and post
 
 ## Education & Engagement
 
-The challenge, managed by the National Institute of Biomedical Imaging and Bioengineering (NIBIB), brought NIH more than just the winning team’s solution. Putting out an open call to undergraduates allowed the agency to collect a variety of ideas from across the country in a short time period.
+The challenge, managed by the National Institute of Biomedical Imaging and Bioengineering (NIBIB), brought NIH more than just the winning team’s  solution. Putting out an open call to undergraduates allowed the agency to collect a variety of ideas from across the country in a short time period.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-238-NIH-National-Institutes-of-Health-NIBIB-The-National-Institute-of-Biomedical-Imaging-and-Bioengineering-twitter-logo.jpg" alt="The National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering logo" %}In the span of a few months, NIBIB received 59 entries from 30 colleges in 18 states.
@@ -64,16 +64,16 @@ In its fourth year, DEBUT has already become a coveted prize in Biomedical Engin
 
 A competition like this both pushes the field forward with new concepts and inspires the next-generation of biomedical engineers, [said NIBIB Director Roderic I. Pettigrew, Ph.D., M.D](http://www.nibib.nih.gov/news-events/newsroom/undergrad-biomedical-engineering-teams-win-nih%E2%80%99s-debut-challenge).
 
-“The next decades of biomedical engineering will produce incredible advances; and the students of today are the creators of tomorrow’s transformative innovations,” Pettigrew said. “These students prove that they are capable of thinking about problems in new ways, generating more cost-effective and better technologies that will improve health globally.”
+“The next decades of biomedical engineering will produce incredible advances; and the students of today are the creators of tomorrow’s  transformative innovations,” Pettigrew said. “These students prove that they are capable of thinking about problems in new ways, generating more cost-effective and better technologies that will improve health globally.”
 
 ## Up Next
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
 
-On the heels of the DEBUT Challenge, NIH’s latest problem-solving opportunity encourages individuals and teams to design and produce a wearable device to monitor blood alcohol levels in real time. The [Wearable Biosensor Challenge](https://www.challenge.gov/challenge/a-wearable-alcohol-biosensor/), run by NIH’s National Institute of Alcohol Abuse and Alcoholism, is currently accepting submissions through December 1.
+On the heels of the DEBUT Challenge, NIH’s  latest problem-solving opportunity encourages individuals and teams to design and produce a wearable device to monitor blood alcohol levels in real time. The [Wearable Biosensor Challenge](https://www.challenge.gov/challenge/a-wearable-alcohol-biosensor/), run by NIH’s  National Institute of Alcohol Abuse and Alcoholism, is currently accepting submissions through December 1.
 
-Both problem-solving initiatives are prime examples of how a prize competition can inspire young innovators and entrepreneurs to contribute to an agency’s mission.
+Both problem-solving initiatives are prime examples of how a prize competition can inspire young innovators and entrepreneurs to contribute to an agency’s  mission.
 
 The federal challenge and prize community will gather October 7-8 in Washington, D.C., to share more success stories and celebrate the fifth anniversary of Challenge.gov. Stay tuned to [Twitter](https://twitter.com/ChallengeGov), [Facebook](https://www.facebook.com/ChallengeGov), and [DigitalGov](https://www.WHATEVER/) for forthcoming details.
 

@@ -19,14 +19,14 @@ In order to minimize extensive and expensive changes to the animation during the
 
 I determined that the best way to accomplish this was to create a simple storyboard. Storyboards are an effective strategy to presenting a clear picture of the events leading up to the “take away” message in any video production. And for a video weighing in at 25 seconds or less, I had to make every frame count.
 
-The following “**Do’s and Don’ts**” are lessons learned during my experience with creating storyboards for our animated video, but these tips also translate to live action. The image shown is from an early version of the storyboard and as you can see, is quite different than the final product.
+The following “**Do’s  and Don’ts**” are lessons learned during my experience with creating storyboards for our animated video, but these tips also translate to live action. The image shown is from an early version of the storyboard and as you can see, is quite different than the final product.
 
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-676-geek-bullying-storyboard.jpg" alt="image of HHS video storyboard" %}
 
-## **Do’s and Don&#8217;ts of Successful Storyboarding**
+## **Do’s  and Don&#8217;ts of Successful Storyboarding**
 
-• **Do convey action through static images**. It’s important to show a sequence of events through storyboard slides. By providing a step-by-step story flow accounting for transitions in movement, it makes it easier to translate into the final action sequence.
+• **Do convey action through static images**. It’s  important to show a sequence of events through storyboard slides. By providing a step-by-step story flow accounting for transitions in movement, it makes it easier to translate into the final action sequence.
   
 • **Do take into consideration what people will hear as the story progresses.** Will there be an instrumental overlay? Will the subject be talking? Conveying the mood through music was critical to the success of this piece, so we added that element to later storyboard drafts.
   

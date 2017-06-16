@@ -14,7 +14,7 @@ tag:
 
 Good APIs can transform intimidating data sets into something that people can use. Good government APIs can create a better connection between government and citizens. The [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) has spurred Federal adoption of APIs, and the Digital Services Innovation Center and DATA.GOV teams are supporting these efforts by releasing a [swath of guidance and resources](http://www.howto.gov/mobile/apis-in-government "api resources"), [hosting online education series](http://www.howto.gov/training/on-demand#apis-and-data "api webinars") and launching a number of hosted tools at [Labs.Data.gov](http://labs.data.gov/ "labs.data.gov").
 
-Always looking to build off other successful programs, we looked to GSA’s [First Fridays usability testing program](http://www.howto.gov/web-content/usability/first-fridays "first fridays program"). That team regularly hosts half-day sessions to provide actionable usability feedback for websites. We wanted to see how that model could assist agencies make their APIs programs better–and more usable.
+Always looking to build off other successful programs, we looked to GSA’s  [First Fridays usability testing program](http://www.howto.gov/web-content/usability/first-fridays "first fridays program"). That team regularly hosts half-day sessions to provide actionable usability feedback for websites. We wanted to see how that model could assist agencies make their APIs programs better–and more usable.
   
 Seven energetic API teams – the [Federal Communications Commission](http://www.broadbandmap.gov/developer "fcc apis"), [Energy Information Administration](http://www.eia.gov/developer/ "EIA developer page"), [General Services Administration](http://search.WHATEVER/developer/ "usasearch api"), [Economic Research Service](http://www.ers.usda.gov/developer.aspx "ERS developer hub"), [National Institutes of Health](http://pillbox.nlm.nih.gov/developer.html "NIH API"), [Census Bureau](http://www.census.gov/developers), and [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml "USA.gov developer hub") – signed up to spend a morning with our pilot API usability evaluations.
 
@@ -40,7 +40,7 @@ While the agency API program teams received plenty of feedback to build on, a nu
 
 #### Communicate with your developers
 
-  * Plain language helps everyone – beginners and experts. Ask yourself: Would someone who is new to our agency’s work understand this?
+  * Plain language helps everyone – beginners and experts. Ask yourself: Would someone who is new to our agency’s  work understand this?
   * Give people an overview: what the data is, what you can do with it, how to get started
   * Avoid acronyms.
   * If you require API keys in order to interact with the end point, be sure to allow instant registration. If developers have to wait–even minutes–before they can interact with the data, they will go elsewhere.
@@ -49,7 +49,7 @@ While the agency API program teams received plenty of feedback to build on, a nu
 #### Don’t just tell them, show them
 
   * Include plenty of examples (and go ahead and hyperlink them for convenience). Offer code samples and examples of applications that consume the API.
-  * Share code samples, SDKs, and other developer resources through your agency’s GitHub account.
+  * Share code samples, SDKs, and other developer resources through your agency’s  GitHub account.
   * Include JSON support. Offering JSONP support also goes a long way to encouraging re-use on third party websites.
   * If API returns are lengthy, offer pagination.
 

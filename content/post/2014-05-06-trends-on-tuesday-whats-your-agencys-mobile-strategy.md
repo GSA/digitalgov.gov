@@ -3,7 +3,7 @@
 
 date: 2014-05-06 10:15:36 -0400
 title: 'Trends on Tuesday\: What&amp;#8217;s Your Agency&amp;#8217;s Mobile Strategy?'
-summary: 'Here’sa statistic that might surprise you\: 28% of Chief Information Officer (CIO)s&nbsp;in the private sector admitted in a survey they don&amp;#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking the'
+summary: 'Here’s a statistic that might surprise you\: 28% of Chief Information Officer (CIO)s&nbsp;in the private sector admitted in a survey they don&amp;#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking the'
 authors: [tjohnson]
 categories:
   - Mobile
@@ -15,7 +15,7 @@ tag:
 ---
 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-200-The-road-to-success-maze-Lihua-Peng-iStock-Thinkstock-119450780.jpg" alt="The road to success depicted as a maze. Photo credit: Lihua Peng/iStock/Thinkstock" %}Here’s a statistic that might surprise you: [28% of Chief Information Officer (CIO)s](http://www.mobilemarketingwatch.com/report-many-companies-still-clueless-on-mobile-40516/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) in the private sector admitted in a survey they don&#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking the necessary first step.
+{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-200-The-road-to-success-maze-Lihua-Peng-iStock-Thinkstock-119450780.jpg" alt="The road to success depicted as a maze. Photo credit: Lihua Peng/iStock/Thinkstock" %}Here’s  a statistic that might surprise you: [28% of Chief Information Officer (CIO)s](http://www.mobilemarketingwatch.com/report-many-companies-still-clueless-on-mobile-40516/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) in the private sector admitted in a survey they don&#8217;t have a plan for mobile technology. They cited compliance issues as a factor preventing their organizations from taking the necessary first step.
 
 Now, you may be wondering, “Does my agency fit in that category?” Two years ago, the [Digital Government Strategy](http://www.whitehouse.gov/blog/2012/05/23/roadmap-digital-government) required agencies to start planning and implementing anytime, anywhere strategies.
 

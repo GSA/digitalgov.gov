@@ -2,7 +2,7 @@
 
 
 date: 2015-07-09 10:59:02 -0400
-title: 'Introducing the Federal Election Commission’sFirst API'
+title: 'Introducing the Federal Election Commission’s First API'
 summary: ' The Federal Election Commission (FEC) empowers citizens with the information they need to make informed decisions about their democracy. Since opening its doors in the &lsquo;70s, the FEC has evolved to better serve the public with that information. As the years'
 authors: [lindsay-young]
 categories:
@@ -19,7 +19,7 @@ tag:
 
 The Federal Election Commission (FEC) empowers citizens with the information they need to make informed decisions about their democracy.
 
-Since opening its doors in the ‘70s, the FEC has evolved to better serve the public with that information. As the years progressed, records have gone from paper to microfilm and eventually to the web. Today marks the launch of the [FEC’s first API](https://api.open.fec.gov/developers).
+Since opening its doors in the ‘70s, the FEC has evolved to better serve the public with that information. As the years progressed, records have gone from paper to microfilm and eventually to the web. Today marks the launch of the [FEC’s  first API](https://api.open.fec.gov/developers).
 
 With that API, searching for candidates and committees will be easier and more interactive. Information is organized around concepts like candidates, which are more welcoming than navigating buckets of information based on forms.
 
@@ -28,9 +28,9 @@ FEC staff scanning compliance forms, 1982 FEC staff scanning compliance forms, 1
 
 {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-225-FEC-staff-scanning-compliance-forms-1982-IT004.jpg" alt="FEC staff scanning compliance forms, 1982" %}All of these features are supported by our [public API](http://api.open.fec.gov/developers) so those outside of government can directly benefit from this technology, by making or using their own apps. For example, we created an endpoint that accepts partial names in queries, so you can make your own type-ahead search.
 
-The API is the backbone of [OpenFEC](https://18f.gsa.gov/dashboard/project/openfec/)—the FEC&#8217;s next digital evolution. It’s also the first public release from our partnership. Be on the lookout for a new app and an eventual site redesign. As with all our projects, looking modern isn’t just an aesthetic choice, it comes from smart design and asking actual website users what they want. Take a look at our [interactive API documentation](https://api.open.fec.gov/developers). It not only has a fresh look, but it’s driven by modern technology underneath the hood.
+The API is the backbone of [OpenFEC](https://18f.gsa.gov/dashboard/project/openfec/)—the FEC&#8217;s next digital evolution. It’s  also the first public release from our partnership. Be on the lookout for a new app and an eventual site redesign. As with all our projects, looking modern isn’t just an aesthetic choice, it comes from smart design and asking actual website users what they want. Take a look at our [interactive API documentation](https://api.open.fec.gov/developers). It not only has a fresh look, but it’s  driven by modern technology underneath the hood.
 
-Releasing the API before it’s complete allows 18F and FEC to get public feedback and ensure the project will continue to grow and adjust to better serve the people.
+Releasing the API before it’s  complete allows 18F and FEC to get public feedback and ensure the project will continue to grow and adjust to better serve the people.
 
 This first round of data focuses on essential information about candidates and the committees that spend money in elections.
 

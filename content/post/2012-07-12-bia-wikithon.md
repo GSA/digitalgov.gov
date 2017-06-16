@@ -44,7 +44,7 @@ We had a total of 61 people who participated in person at the Wikithon.
 
 ## What We Learned
 
-Considering the first 80 profiles took months and the next took a couple days, that’s pretty remarkable. The Wikithon is a good place to start to collaborate on creating profiles. Also the employee profiles with photos is crucial because it helps match a name to a face for the Wikithon and for the future as well.
+Considering the first 80 profiles took months and the next took a couple days, that’s  pretty remarkable. The Wikithon is a good place to start to collaborate on creating profiles. Also the employee profiles with photos is crucial because it helps match a name to a face for the Wikithon and for the future as well.
 
 ## What&#8217;s Next
 

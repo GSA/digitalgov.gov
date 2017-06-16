@@ -3,7 +3,7 @@
 
 date: 2016-02-26 10:47:25 -0400
 title: 'What do Mac & Cheese and Power of Attorneys Have in Common?'
-summary: 'They ranked among our top three most popular e-mails in 2015. At USAGov, we know that e-mail is often our #1 driver of traffic to our content, and nine out of 10 times it’sour go-to outreach tool for disseminating timely information. But doing e-mail sends consistently and effectively isn&rsquo;t always clear cut, especially when'
+summary: 'They ranked among our top three most popular e-mails in 2015. At USAGov, we know that e-mail is often our #1 driver of traffic to our content, and nine out of 10 times it’s our go-to outreach tool for disseminating timely information. But doing e-mail sends consistently and effectively isn&rsquo;t always clear cut, especially when'
 authors: [victoria-wales]
 categories:
   - Content
@@ -16,7 +16,7 @@ tag:
 
 **They ranked among our top three most popular e-mails in 2015.**
 
-At USAGov, we know that e-mail is often our #1 driver of traffic to our content, and nine out of 10 times it’s our go-to outreach tool for disseminating timely information. But doing e-mail sends consistently and effectively isn’t always clear cut, especially when you have a combined 1.3 million subscribers.
+At USAGov, we know that e-mail is often our #1 driver of traffic to our content, and nine out of 10 times it’s  our go-to outreach tool for disseminating timely information. But doing e-mail sends consistently and effectively isn’t always clear cut, especially when you have a combined 1.3 million subscribers.
 
 We send e-mail blasts to our subscriber lists about all sorts of content based on what they signed up to get. Topics range from immigration to travel, health, and jobs.
 
@@ -51,7 +51,7 @@ Example: [Power of Attorney and Your Responsibilities](http://content.govdeliver
 
 ## Experimentation and Measurement
 
-We evaluate every message we send by reviewing our data about a week after an e-mail’s sent. Unique open rates and click rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to USA.gov and GobiernoUSA.gov seeking information on immigration. We align that information with our e-mail sends, and the open rates and click-through rates prove the value of knowing what people are interested in.
+We evaluate every message we send by reviewing our data about a week after an e-mail’s  sent. Unique open rates and click rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to USA.gov and GobiernoUSA.gov seeking information on immigration. We align that information with our e-mail sends, and the open rates and click-through rates prove the value of knowing what people are interested in.
 
 At the end of every month, our internal performance measurement team provides us with a detailed report of how our messages performed. This is valuable information that informs and influences our e-mail content strategy. We combine the data from e-mail behavior with data from website visits and [calls to our contact center](https://www.usa.gov/phone), 1-844-USA-GOV1. All of these factors determine what we invest time writing about.
 
@@ -63,7 +63,7 @@ We’ve noted that eight out of 10 times e-mails with images outperform e-mails 
 
 There are numerous things to take into consideration as you explore e-mail sends and campaigns. Here are some key questions to explore for your strategy:
 
-  * Are your e-mail marketing writers familiar with your content strategy? Do they understand your organization’s voice?
+  * Are your e-mail marketing writers familiar with your content strategy? Do they understand your organization’s  voice?
   * Will you have dedicated resources to employ a consistent communications output?
   * Will you be able to ensure quality control so messages are well-written, timely, culturally relevant, and targeted?
 

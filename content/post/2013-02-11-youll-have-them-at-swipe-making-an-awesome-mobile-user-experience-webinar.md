@@ -30,7 +30,7 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 **Who Should Watch**
 
-Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
+Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s , mobile web, mobile implementation in the federal government and the digital government strategy.
 
 [youtube=http://www.youtube.com/watch?v=EurlOmfLcPA&w=600]
 

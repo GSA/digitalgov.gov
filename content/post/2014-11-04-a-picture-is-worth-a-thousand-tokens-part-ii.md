@@ -3,7 +3,7 @@
 
 date: 2014-11-04 10:00:48 -0400
 title: 'A Picture Is Worth a Thousand Tokens\: Part II'
-summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’spost, I&rsquo;ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’sexperience'
+summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I&rsquo;ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience'
 authors: [loren-siebert]
 categories:
   - Content
@@ -15,7 +15,7 @@ tag:
   - USAgov
 ---
 
-In the first part of [_A Picture Is Worth a Thousand Tokens_](https://www.WHATEVER/2014/10/28/a-picture-is-worth-a-thousand-tokens/ "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience as a whole.
+In the first part of [_A Picture Is Worth a Thousand Tokens_](https://www.WHATEVER/2014/10/28/a-picture-is-worth-a-thousand-tokens/ "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s  post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s  experience as a whole.
 
 ## Redefine Recency
 
@@ -64,7 +64,7 @@ The problem with suggesting a &#8220;better&#8221; search term than what the vis
   * You searched on _civil rights_. Did you mean _civil right_?
   * You searched on _better america_. Did you mean _bitter america_?
 
-OK, that last one didn’t really happen, but it could have, so we put that particular problem on the back shelf and instead focused on handling cases where the visitor’s search as typed didn&#8217;t return any results from our indexes but a slight variation on the query did. To do this, we introduced a new field to the indexes called &#8220;bigram&#8221; based on a [shingle token filter](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-shingle-tokenfilter.html#analysis-shingle-tokenfilter) we called &#8220;bigram_filter.&#8221;
+OK, that last one didn’t really happen, but it could have, so we put that particular problem on the back shelf and instead focused on handling cases where the visitor’s  search as typed didn&#8217;t return any results from our indexes but a slight variation on the query did. To do this, we introduced a new field to the indexes called &#8220;bigram&#8221; based on a [shingle token filter](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-shingle-tokenfilter.html#analysis-shingle-tokenfilter) we called &#8220;bigram_filter.&#8221;
 
 The Elasticsearch settings got modified like this:
 
@@ -276,7 +276,7 @@ This populates the bigram field for each index with whatever natural language fi
 </h2>
 
 
-<p> Although Elasticsearch defaults to five <a href="http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/glossary.html#glossary-shard">shards</a> per index, we put each image index in just one shard. As we are relying so heavily on relevance across potentially small populations of photos, we wanted the results to be as accurate as possible (see <a href="http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/relevance-is-broken.html#relevance-is-broken">Elasticsearch’s Relevance Is Broken!</a>).
+<p> Although Elasticsearch defaults to five <a href="http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/glossary.html#glossary-shard">shards</a> per index, we put each image index in just one shard. As we are relying so heavily on relevance across potentially small populations of photos, we wanted the results to be as accurate as possible (see <a href="http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/relevance-is-broken.html#relevance-is-broken">Elasticsearch’s  Relevance Is Broken!</a>).
 </p>
 
 

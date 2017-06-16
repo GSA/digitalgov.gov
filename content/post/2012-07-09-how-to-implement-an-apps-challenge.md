@@ -36,7 +36,7 @@ tag:
     
     <ul>
       <li>
-        <strong>Submissions must be original work.</strong> If applicants borrow someone else’s work without permission, this can expose your agency to liability.Include language in the rules that requires applicants to certify that their submission is original, and if they borrow someone else’s work, they must have permission to do so.Entries not following this rule will be disqualified.
+        <strong>Submissions must be original work.</strong> If applicants borrow someone else’s  work without permission, this can expose your agency to liability.Include language in the rules that requires applicants to certify that their submission is original, and if they borrow someone else’s  work, they must have permission to do so.Entries not following this rule will be disqualified.
       </li>
       <li>
         <strong>Get permission to use the submissions for your own promotional purposes.</strong> You may want to show off the apps for up to a year after the challenge to promote the contest or your program. These promotional activities help the developer, too.
@@ -45,7 +45,7 @@ tag:
         <strong>Intellectual Property ownership and pricing.</strong> If you allow the winners to keep ownership of their Intellectual Property, you can still showcase the apps without requiring too much from the developers.
       </li>
       <li>
-        <strong>Use of your agency’s branding materials by applicants.</strong> Participants should not be allowed to use your agency’s images and logos, unless they were chosen as the winner. (Use of your agency’s materials creates an appearance of endorsement). Provide clear guidance about how vendors should indicate that they&#8217;ve been entrants in your challenge (as a submitted entry, while waiting for a decision, as a winner, or as a non-winning entry).
+        <strong>Use of your agency’s  branding materials by applicants.</strong> Participants should not be allowed to use your agency’s  images and logos, unless they were chosen as the winner. (Use of your agency’s  materials creates an appearance of endorsement). Provide clear guidance about how vendors should indicate that they&#8217;ve been entrants in your challenge (as a submitted entry, while waiting for a decision, as a winner, or as a non-winning entry).
       </li>
       <li>
         <strong>Require links with submissions.</strong> All submissions should have a link to the app, video, text description, and photo of the working app in their submissions to Challenge.gov.

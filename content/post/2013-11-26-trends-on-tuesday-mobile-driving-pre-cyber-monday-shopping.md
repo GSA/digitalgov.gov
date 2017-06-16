@@ -23,6 +23,6 @@ Some stats:
 > 
 > Evidence of an extended online buying period emerged last year, especially on Thanksgiving Day and Christmas Day, as consumers browsed online offers between post-turkey naps. Growth in spending on those days rose &#8212; up 32 percent on Thanksgiving versus 18 percent in 2011 &#8212; while the pace of Cyber Monday sales growth slowed to 17 percent last year, compared with 22 percent the year prior, according to ComScore.
 
-As Bloomberg notes, these trends are spurring e-commerce heavyweights (like Amazon) to grapple with retailers (like Macy’s) by using online promotions and mobile apps to lure tech-savvy gift buyers long before and after Cyber Monday.
+As Bloomberg notes, these trends are spurring e-commerce heavyweights (like Amazon) to grapple with retailers (like Macy’s ) by using online promotions and mobile apps to lure tech-savvy gift buyers long before and after Cyber Monday.
 
 With these anytime, anywhere shopping habits becoming more common, agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected [user experience](https://digitalgov.sites.usa.gov/2013/09/18/making-mobile-gov-user-experience-recommendations/ "Making Mobile Gov: User Experience Recommendations"). Agencies should consider how to provide a custom browsing experience for citizens in their [mobile strategy](https://digitalgov.sites.usa.gov/2013/09/30/mobile-first/ "Mobile First").

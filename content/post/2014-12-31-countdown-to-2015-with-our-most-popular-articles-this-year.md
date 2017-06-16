@@ -104,7 +104,7 @@ We look forward to bringing you more great content in 2015, but first we wanted 
 
 <blockquote style="padding: 0 0 0px; background: #fff; border: 0; margin-bottom: 0px; text-align: left;">
   <div class="one-half first">
-    3. <a title="User Experience (UX) vs. Customer Experience (CX): What’s the Dif?" href="https://www.WHATEVER/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/">User Experience (UX) vs. Customer Experience (CX): What’s the Dif?</a>
+    3. <a title="User Experience (UX) vs. Customer Experience (CX): What’s  the Dif?" href="https://www.WHATEVER/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/">User Experience (UX) vs. Customer Experience (CX): What’s  the Dif?</a>
   </div>
   
   <div class="one-half">

@@ -35,7 +35,7 @@ Information architecture (IA) practices&#8211;that is the logical structures tha
 
 See the Mobile User Experience Toolkit for help you can use to create good mobile IA.
 
-The conversation on mobile user experience is not finished with just IA. It’s just heating up. As <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/" target="_blank">you can see</a>, mobilegov innovators also recommended practices in functionality, content, trustworthiness and design.
+The conversation on mobile user experience is not finished with just IA. It’s  just heating up. As <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/" target="_blank">you can see</a>, mobilegov innovators also recommended practices in functionality, content, trustworthiness and design.
 
 **What&#8217;s Next******
 

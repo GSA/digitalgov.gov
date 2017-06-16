@@ -30,6 +30,6 @@ We at DigitalGov want to hear more about you &#8211; your job, your role, the ch
 
 We are going to start holding user-research sessions with our readers who work in the federal government. This will be a big part of how we listen to and learn about those who are providing the public with better services and what their core needs are.
 
-It’s so important to us that we are going to carve out time to get to know you, in person, over the phone, or over video chat and hear your story, first-hand.
+It’s  so important to us that we are going to carve out time to get to know you, in person, over the phone, or over video chat and hear your story, first-hand.
 
 If you are interested, [email us](mailto:digitalgov@gsa.gov?subject=DigitalGov User Research) and let us know when you are available and how best to reach you. _Interviews usually last an hour._

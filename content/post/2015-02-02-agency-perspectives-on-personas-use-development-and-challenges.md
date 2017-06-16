@@ -67,6 +67,6 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 **How did your agencies utilize the information provided by the personas?**
   
-“Our team has actually used these personas throughout the entire redesign as a way to keep who we are designing this site for in mind. As someone on my team pointed out, it’s a really good way to ground the project and keep opinions out of it. At the end of the day, if the decisions don’t align with the needs of these audiences, we need to take a look at what we’re doing.”
+“Our team has actually used these personas throughout the entire redesign as a way to keep who we are designing this site for in mind. As someone on my team pointed out, it’s  a really good way to ground the project and keep opinions out of it. At the end of the day, if the decisions don’t align with the needs of these audiences, we need to take a look at what we’re doing.”
 
 As you can see above, a persona provides your agency with a tool that allows you to make decisions with the end user in mind. Personas are widely applicable to any federal agency. The only requirement is that you have an end user. As employees of the federal government, we all have end users. Be sure to utilize personas as a tool to provide a more customer-centric experience!
