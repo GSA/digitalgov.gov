@@ -12,29 +12,62 @@
       <h2 class="post-title"><a href="{{ .URL }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a></h2>
       <div class="meta">
         <ul>
-          <li class="meta-author">
-            <span class="meta-author">By <a href="{{/* author url */}}" title="Posts by {{/* author name */}}" class="author url fn" rel="author">{{/* author name */}}</a></span>
-          </li>
+
+        {{/*
+          ======================================
+          AUTHORS
+          ======================================
+        */}}
+
+          {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
+          {{ else }}
+            <li class="meta-author">
+              <span class="meta-author">By
+                {{ $_authors := .Params.authors }}
+                {{ $length := $_authors | len }}
+                {{ range $i, $e := $_authors }}
+                  {{/* TODO: Fetch author metadata
+                  {{ range $_author := where $.Site.Data.people "Params.uid" $e }}
+                   foooo
+                  {{ end }}
+                  */}}
+                  {{ if lt (add $i 1) $length }}
+                    <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                  {{ else }}
+                    <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                  {{ end }}
+                {{ end }}
+              </span>
+            </li>
+          {{ end }}
+
           <li class="meta-date">
             <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January 02, 2006" }}</a>
           </li>
 
-          <li class="meta-cats">
+          {{/*
+            ======================================
+            CATEGORIES
+            ======================================
+          */}}
 
-            {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
-            {{ else }}
-              <li class="meta-cats">
-                {{ $_cats := .Params.categories }}
-                {{ $length := $_cats | len }}
-                {{ range $i, $e := $_cats }}
-                  {{ if lt (add $i 1) $length }}
-                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" rel="category tag">{{ $e }}</a>,
-                  {{ else }}
-                    <a href="{{ $baseurl }}/categories/{{ $e | urlize }}" rel="category tag">{{ $e }}</a>
-                  {{ end }}
+          {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+          {{ else }}
+            <li class="meta-cats"> {{/* meta-cats! */}}
+              {{ $_cats := .Params.categories }}
+              {{ $length := $_cats | len }}
+              {{ range $i, $e := $_cats }}
+                {{ $slug := $e | urlize }}
+                {{ $title := index $.Site.Data.categories $slug }}
+                {{ $link := printf "%scategories/%s/" $baseurl $slug }}
+                {{ if lt (add $i 1) $length }}
+                  <a href="{{ $link }}" rel="category tag">{{ $title }}</a>,
+                {{ else }}
+                  <a href="{{ $link }}" rel="category tag">{{ $title }}</a>
                 {{ end }}
-              </li>
-            {{ end }}
+              {{ end }}
+            </li>
+          {{ end }}
 
           {{/* TODO: Remove reply count */}}
           {{/*
