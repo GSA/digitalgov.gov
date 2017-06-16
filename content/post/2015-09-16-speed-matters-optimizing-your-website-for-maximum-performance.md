@@ -3,7 +3,7 @@
 
 date: 2015-09-16 10:00:13 -0400
 title: 'Speed Matters\: Optimizing Your Website For Maximum Performance'
-summary: 'Every second counts, even those precious two or three seconds it takes your website to load. When it comes to mobile, users won&rsquo;t wait. During a recent DigitalGov University webinar, Jeremy Vanderlan, Technical Deputy for AIDS.gov, explained how even fractions of a second can have a negative impact on a user&rsquo;s impression of your website.'
+summary: 'Every second counts, even those precious two or three seconds it takes your website to load. When it comes to mobile, users won&rsquo;t wait. During a recent DigitalGov University webinar, Jeremy Vanderlan, Technical Deputy for AIDS.gov, explained how even fractions of a second can have a negative impact on a user’simpression of your website.'
 authors: [jparcell]
 categories:
   - Content

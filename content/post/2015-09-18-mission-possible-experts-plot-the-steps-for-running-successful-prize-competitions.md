@@ -3,7 +3,7 @@
 
 date: 2015-09-18 1:00:24 -0400
 title: 'Mission Possible\: Experts Plot the Steps for Running Successful Prize Competitions'
-summary: 'Long before the final prize is awarded, a successful challenge starts with a master plan. That&rsquo;s the point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in Challenge.gov&rsquo;s ongoing series on running successful prize competitions. Sandeep Patel, open innovation manager for the U.S. Department of Health and Human Services&amp;#8217;&nbsp;Idea Lab,'
+summary: 'Long before the final prize is awarded, a successful challenge starts with a master plan. That’sthe point experts drove home during Operational Best Practices and Lessons Learned, the third webinar in Challenge.gov’songoing series on running successful prize competitions. Sandeep Patel, open innovation manager for the U.S. Department of Health and Human Services&amp;#8217;&nbsp;Idea Lab,'
 authors: [judy-romano]
 categories:
   - Challenges

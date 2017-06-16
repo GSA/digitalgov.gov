@@ -3,7 +3,7 @@
 
 date: 2014-10-24 9:01:48 -0400
 title: 'Use Metrics to Drive Success'
-summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That&rsquo;s the question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
+summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That’sthe question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
 authors: [lnelson]
 categories:
   - Metrics

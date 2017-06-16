@@ -3,7 +3,7 @@
 
 date: 2012-11-19 1:16:23 -0400
 title: 'Case Study\: How DOL Created Software Development Kits (SDKs)'
-summary: 'What It Is The U.S. Department of Labor sought to go beyond merely making data available to developers and take ease of use of the data to the next level by giving developers tools that would make using DOL&rsquo;s data easier. The target audience was not just experienced developers, but even those who may be'
+summary: 'What It Is The U.S. Department of Labor sought to go beyond merely making data available to developers and take ease of use of the data to the next level by giving developers tools that would make using DOL’sdata easier. The target audience was not just experienced developers, but even those who may be'
 authors: [gray-brooks, michael-pulsifer]
 categories:
   - Code

@@ -3,7 +3,7 @@
 
 date: 2016-10-06 11:00:20 -0400
 title: 'Near&hellip; FAR&hellip; Wherever you are&hellip;.'
-summary: 'The U.S. General Services Administration (GSA) made history today by releasing the first ever iBook version of the Federal Acquisition Regulation (FAR). And while a tome about the complex rules governing the federal government&rsquo;s purchasing process may not sound like a bestseller, the FAR is essential reading not just for federal contracting officers and federal'
+summary: 'The U.S. General Services Administration (GSA) made history today by releasing the first ever iBook version of the Federal Acquisition Regulation (FAR). And while a tome about the complex rules governing the federal government’spurchasing process may not sound like a bestseller, the FAR is essential reading not just for federal contracting officers and federal'
 authors: [jeff-koses]
 categories:
   - Mobile

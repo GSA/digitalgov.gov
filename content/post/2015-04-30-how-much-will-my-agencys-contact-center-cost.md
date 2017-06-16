@@ -2,7 +2,7 @@
 
 
 date: 2015-04-30 11:10:52 -0400
-title: 'How Much Will My Agency&rsquo;s Contact Center Cost?'
+title: 'How Much Will My Agency’sContact Center Cost?'
 summary: 'The federal government has caught the customer experience bug. We want our customers to complete their tasks with minimal effort using a streamlined process. If they need personal help, we want it to be quick, polite, and provide the best answer. But that personal help frequently requires a team of highly skilled, dedicated people&mdash;a contact'
 authors: [tonya-beres]
 categories:

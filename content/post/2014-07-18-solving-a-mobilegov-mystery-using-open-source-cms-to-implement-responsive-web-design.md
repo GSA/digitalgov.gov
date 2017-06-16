@@ -3,7 +3,7 @@
 
 date: 2014-07-18 1:24:56 -0400
 title: 'Solving a MobileGov Mystery\: Using Open Source CMS to Implement Responsive Web Design'
-summary: ' Responsive Web design is widely-known as a go-to solution for designing a website to fit on any device&rsquo;s screen size. As we found in our February workshop, federal agencies are implementing it for various reasons. There are various ways to implement responsive design.'
+summary: ' Responsive Web design is widely-known as a go-to solution for designing a website to fit on any device’sscreen size. As we found in our February workshop, federal agencies are implementing it for various reasons. There are various ways to implement responsive design.'
 authors: [jparcell, katie-steffy]
 categories:
   - Content

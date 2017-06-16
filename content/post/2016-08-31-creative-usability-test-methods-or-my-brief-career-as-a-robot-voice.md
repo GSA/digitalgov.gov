@@ -3,7 +3,7 @@
 
 date: 2016-08-31 12:00:42 -0400
 title: 'Creative Usability Test Methods&mdash;or My Brief Career as a Robot Voice'
-summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That&rsquo;s just what happened to us. We&rsquo;re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
+summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’sjust what happened to us. We&rsquo;re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
 authors: [joanne-mcgovern]
 categories:
   - 'User Testing and Research'

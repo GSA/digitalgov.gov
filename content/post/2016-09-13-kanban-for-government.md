@@ -3,7 +3,7 @@
 
 date: 2016-09-13 1:00:58 -0400
 title: 'Kanban for Government'
-summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It&rsquo;s also used to balance capacity and demand'
+summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’salso used to balance capacity and demand'
 authors: [alan-brouilette]
 categories:
   - 'Strategy and Policy'

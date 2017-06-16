@@ -3,7 +3,7 @@
 
 date: 2014-03-07 11:12:10 -0400
 title: 'Creating E-Books\: Think Functionality, Not Aesthetics'
-summary: 'E-books are great for one thing\: reading on mobile devices. Their reflowable text adjusts to fit the reader&rsquo;s smartphone, tablet or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf&rsquo;s for all but the biggest tablets. But e-books are not great for design. They&rsquo;re generally'
+summary: 'E-books are great for one thing\: reading on mobile devices. Their reflowable text adjusts to fit the reader’ssmartphone, tablet or e-reader in the type size the reader chooses. They are essential for reading on smartphones, and better than pdf’sfor all but the biggest tablets. But e-books are not great for design. They&rsquo;re generally'
 authors: [carolyn-cihelka]
 categories:
   - Content

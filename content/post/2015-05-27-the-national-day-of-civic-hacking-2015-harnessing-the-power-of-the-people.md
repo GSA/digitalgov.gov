@@ -3,7 +3,7 @@
 
 date: 2015-05-27 11:10:42 -0400
 title: 'The National Day of Civic Hacking 2015\: Harnessing the Power of the People'
-summary: 'The National Day of Civic Hacking was born when some of the nation&rsquo;s leaders in civic engagement decided to rally around a common goal on one weekend. -Nicholas Skytland, NASA The National Day of Civic Hacking is a national community engagement event that will take'
+summary: 'The National Day of Civic Hacking was born when some of the nation’sleaders in civic engagement decided to rally around a common goal on one weekend. -Nicholas Skytland, NASA The National Day of Civic Hacking is a national community engagement event that will take'
 authors: [ali-llewellyn]
 categories:
   - Challenges

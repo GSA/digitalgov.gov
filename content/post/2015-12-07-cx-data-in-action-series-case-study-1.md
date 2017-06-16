@@ -3,7 +3,7 @@
 
 date: 2015-12-07 11:10:18 -0400
 title: 'CX Data in Action Series\: Case Study #1'
-summary: 'It&rsquo;s not new that agencies are inundated with data, but what data should you collect to improve your agency&rsquo;s programs and enhance the customer experience? The Department of Labor&rsquo;s Employee Benefit Security Administration&rsquo;s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. EBSA is a regulatory agency that develops'
+summary: 'It’snot new that agencies are inundated with data, but what data should you collect to improve your agency’sprograms and enhance the customer experience? The Department of Labor’sEmployee Benefit Security Administration’s(EBSA) has been perfecting their process to collect actionable data for the past 14 years. EBSA is a regulatory agency that develops'
 authors: [rflagg, jacqueline-snee]
 categories:
   - Managing Digital

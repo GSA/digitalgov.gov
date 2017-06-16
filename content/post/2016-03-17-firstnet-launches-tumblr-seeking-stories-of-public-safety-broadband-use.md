@@ -3,7 +3,7 @@
 
 date: 2016-03-17 11:00:33 -0400
 title: 'FirstNet Launches Tumblr, Seeking Stories of Public Safety Broadband Use'
-summary: 'FirstNet is a relatively new &ldquo;startup&rdquo; federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation&rsquo;s courageous law enforcement,'
+summary: 'FirstNet is a relatively new &ldquo;startup&rdquo; federal government agency with the mission of building, operating and maintaining a broadband network for the millions of first responders in the 56 states, territories and Washington D.C. Given the nature of our mission, we are always looking for new avenues to connect with our nation’scourageous law enforcement,'
 authors: [kyle-s-richardson]
 categories:
   - Social Media

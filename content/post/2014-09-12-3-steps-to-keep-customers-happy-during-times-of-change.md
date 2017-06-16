@@ -3,7 +3,7 @@
 
 date: 2014-09-12 10:00:53 -0400
 title: '3 Steps to Keep Customers Happy During Times of Change'
-summary: 'Just like the private sector, government agencies frequently encounter new rules, regulations, policies, and financial realities that impact the way we do business. Of course, change is never easy&mdash;and when customers feel the ripple effects of those changes, their satisfaction with an agency can waver. That&rsquo;s why, during times of change, customer experience leaders should'
+summary: 'Just like the private sector, government agencies frequently encounter new rules, regulations, policies, and financial realities that impact the way we do business. Of course, change is never easy&mdash;and when customers feel the ripple effects of those changes, their satisfaction with an agency can waver. That’swhy, during times of change, customer experience leaders should'
 authors: [stephanie-thum]
 categories:
   - Managing Digital

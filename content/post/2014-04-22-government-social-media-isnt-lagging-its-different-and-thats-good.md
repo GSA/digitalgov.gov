@@ -2,8 +2,8 @@
 
 
 date: 2014-04-22 4:30:34 -0400
-title: 'Government Social Media Isn&rsquo;t Lagging, It&rsquo;s Different\: And That&rsquo;s Good'
-summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It&rsquo;s common to hear that government social media lags behind the'
+title: 'Government Social Media Isn&rsquo;t Lagging, It’sDifferent\: And That’sGood'
+summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It’scommon to hear that government social media lags behind the'
 authors: [jherman]
 categories:
   - Communities

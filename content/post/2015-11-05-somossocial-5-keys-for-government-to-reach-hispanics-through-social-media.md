@@ -3,7 +3,7 @@
 
 date: 2015-11-05 2:09:46 -0400
 title: '#SomosSocial\: 5 Keys for Government to Reach Hispanics Through Social Media'
-summary: 'Hispanics are one of fastest growing demographics in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience&rsquo;s motivations, behavior and preferences is key for anyone trying to engage with the public. We know every day that more and more Hispanics are on social'
+summary: 'Hispanics are one of fastest growing demographics in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience’smotivations, behavior and preferences is key for anyone trying to engage with the public. We know every day that more and more Hispanics are on social'
 authors: [lmartinez, jessica-milcetich, victoria-wales, edgardo-morales]
 categories:
   - Social Media

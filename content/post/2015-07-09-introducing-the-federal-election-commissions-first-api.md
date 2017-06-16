@@ -2,7 +2,7 @@
 
 
 date: 2015-07-09 10:59:02 -0400
-title: 'Introducing the Federal Election Commission&rsquo;s First API'
+title: 'Introducing the Federal Election Commission’sFirst API'
 summary: ' The Federal Election Commission (FEC) empowers citizens with the information they need to make informed decisions about their democracy. Since opening its doors in the &lsquo;70s, the FEC has evolved to better serve the public with that information. As the years'
 authors: [lindsay-young]
 categories:

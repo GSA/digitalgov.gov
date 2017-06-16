@@ -3,7 +3,7 @@
 
 date: 2015-01-22 10:00:03 -0400
 title: 'SaferRide App Could Save Your Life'
-summary: 'One death every 52 minutes. That&rsquo;s how frequently someone died in crashes involving a drunk driver in the U.S. in 2013&mdash;10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app&mdash;called SaferRide&mdash;to save'
+summary: 'One death every 52 minutes. That’show frequently someone died in crashes involving a drunk driver in the U.S. in 2013&mdash;10,076 deaths in total. While that number represents a 2.5% reduction in deaths from the previous year, the National Highway Traffic Safety Administration (NHTSA) is offering a new mobile app&mdash;called SaferRide&mdash;to save'
 authors: [kdowney]
 categories:
   - Mobile

@@ -3,7 +3,7 @@
 
 date: 2016-11-08 11:00:32 -0400
 title: 'Why World War I Matters for Your Agency'
-summary: 'I recently asked some friends&mdash;a group of intelligent, successful individuals&mdash;what they knew about World War I. The responses I received included, &ldquo;Ummm&hellip;..it was in the 1910s?&rdquo; or &ldquo;Started in Europe when the archduke was killed?&rdquo; Beyond this, it&rsquo;s mostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson&rsquo;s'
+summary: 'I recently asked some friends&mdash;a group of intelligent, successful individuals&mdash;what they knew about World War I. The responses I received included, &ldquo;Ummm&hellip;..it was in the 1910s?&rdquo; or &ldquo;Started in Europe when the archduke was killed?&rdquo; Beyond this, it’smostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson&rsquo;s'
 authors: [sarah-herrmann]
 categories:
   - Content

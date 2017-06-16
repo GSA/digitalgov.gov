@@ -2,7 +2,7 @@
 
 
 date: 2014-08-06 10:00:34 -0400
-title: 'The API Briefing\: An API that Searches other APIs &ndash; HealthData.Gov&rsquo;s Catalog API'
+title: 'The API Briefing\: An API that Searches other APIs &ndash; HealthData.Gov’sCatalog API'
 summary: 'As federal agencies release APIs on an almost daily basis, keeping track of the numerous datasets has become a vital service for developers. The Department for Health and Human Services (HHS) manages HealthData.Gov which currently lists 1,680 datasets in 36 categories such as &ldquo;Public Health,&rdquo; &ldquo;Health Care Cost,&rdquo; and &ldquo;Health Statistics.&rdquo; To help developers find'
 authors: [bbrantley]
 categories:

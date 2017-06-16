@@ -2,7 +2,7 @@
 
 
 date: 2014-06-18 1:05:55 -0400
-title: '4 Ways to Connect, Engage &amp;#038; Expand Your Community with Google+ Hangouts'
+title: '4 Ways to Connect, Engage & Expand Your Community with Google+ Hangouts'
 summary: 'When you think about your community, you may think about your neighborhood, your city, your office or the organizations and activities you&rsquo;re involved in. The Peace Corps has many of the characteristics of a community, however our reach spans the entire globe. Because we need to regularly connect with'
 authors: [erika-brown]
 categories:

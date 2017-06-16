@@ -3,7 +3,7 @@
 
 date: 2016-09-26 10:00:53 -0400
 title: 'GSA Hosts First-Ever Technology Industry Day in Washington, D.C.'
-summary: 'Private industry and government came together to find best ways to deliver 21st century technology to federal agencies. On September 8, 2016 Administrator Denise Turner Roth of the U.S. General Services Administration (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA&rsquo;s path to improve the government&rsquo;s outdated technology systems. The'
+summary: 'Private industry and government came together to find best ways to deliver 21st century technology to federal agencies. On September 8, 2016 Administrator Denise Turner Roth of the U.S. General Services Administration (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’spath to improve the government’soutdated technology systems. The'
 authors: [gsa-blog-team]
 categories:
   - Code

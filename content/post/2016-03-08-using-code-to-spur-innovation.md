@@ -3,7 +3,7 @@
 
 date: 2016-03-08 4:07:41 -0400
 title: 'Using Code to Spur Innovation'
-summary: 'This week, President Obama will travel to SxSW (South by Southwest) to talk about how we can use technology to tackle tough challenges. This underscores how important data&mdash;government data, in particular&mdash;is to improving and fueling our democracy forward. 2015 saw many open data milestones by agencies, including\: New advancements in HHS&rsquo;s syndication storefront New features'
+summary: 'This week, President Obama will travel to SxSW (South by Southwest) to talk about how we can use technology to tackle tough challenges. This underscores how important data&mdash;government data, in particular&mdash;is to improving and fueling our democracy forward. 2015 saw many open data milestones by agencies, including\: New advancements in HHS’ssyndication storefront New features'
 authors: [andreanocesigritz]
 categories:
   - Code

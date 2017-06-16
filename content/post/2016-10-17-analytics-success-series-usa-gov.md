@@ -3,7 +3,7 @@
 
 date: 2016-10-17 11:00:04 -0400
 title: 'Analytics Success Series\: USA.gov'
-summary: 'USA.gov&rsquo;s Analytics Success\: using analytics data to inform design and responsivity to create a better experience for the user Last year, the USA.gov team found themselves facing a challenge. We were in need of a new content management system for our websites, USA.gov and Gobierno.USA.gov, which help people find and understand the most frequently requested'
+summary: 'USA.gov’sAnalytics Success\: using analytics data to inform design and responsivity to create a better experience for the user Last year, the USA.gov team found themselves facing a challenge. We were in need of a new content management system for our websites, USA.gov and Gobierno.USA.gov, which help people find and understand the most frequently requested'
 authors: [david-kaufmann]
 categories:
   - Metrics

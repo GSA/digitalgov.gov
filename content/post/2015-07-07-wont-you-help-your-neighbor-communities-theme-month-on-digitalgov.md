@@ -3,7 +3,7 @@
 
 date: 2015-07-07 1:30:06 -0400
 title: 'Won&amp;#8217;t You Help Your Neighbor? Communities Theme Month on DigitalGov'
-summary: 'It&rsquo;s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor\: no red sweater required. The strength of digital government depends on robust collaboration across agencies, offices, and disciplines. The virtual federal neighborhood collaborates through numerous communities of practice, each of which promotes the open exchange of ideas and resources.'
+summary: 'It’sa beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor\: no red sweater required. The strength of digital government depends on robust collaboration across agencies, offices, and disciplines. The virtual federal neighborhood collaborates through numerous communities of practice, each of which promotes the open exchange of ideas and resources.'
 authors: [awichman]
 categories:
   - Communities

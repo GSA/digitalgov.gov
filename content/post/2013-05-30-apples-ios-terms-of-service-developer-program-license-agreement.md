@@ -2,7 +2,7 @@
 
 
 date: 2013-05-30 11:10:13 -0400
-title: 'Apple&amp;#8217;s iOS Terms of Service &amp;#038; Developer Program License Agreement'
+title: 'Apple&amp;#8217;s iOS Terms of Service & Developer Program License Agreement'
 summary: 'The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be'
 authors: [jparcell]
 categories:

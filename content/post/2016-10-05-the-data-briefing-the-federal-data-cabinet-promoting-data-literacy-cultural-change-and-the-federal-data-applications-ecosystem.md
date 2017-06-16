@@ -3,7 +3,7 @@
 
 date: 2016-10-05 1:00:21 -0400
 title: 'The Data Briefing\: The Federal Data Cabinet&mdash;Promoting Data Literacy, Cultural Change, and the Federal Data Applications Ecosystem'
-summary: 'Last Wednesday,&nbsp;the White House held the first Open Data Summit to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide &ldquo;data cabinet.&rdquo; Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency&rsquo;s data professionals. As'
+summary: 'Last Wednesday,&nbsp;the White House held the first Open Data Summit to showcase the open data accomplishments of the Obama Administration. One of the highlights was the formation of a government-wide &ldquo;data cabinet.&rdquo; Announced by Chief Data Scientist DJ Patil, the data cabinet is essentially a community of practice comprising the Federal agency’sdata professionals. As'
 authors: [bbrantley]
 categories:
   - Data

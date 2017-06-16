@@ -3,7 +3,7 @@
 
 date: 2016-08-01 2:00:52 -0400
 title: 'Modernizing the FCC&amp;#8217;s Geospatial Maps'
-summary: 'Maps and geospatial analysis have become increasingly important as they allow the FCC to display information to the public in an interactive visual format. The FCC&rsquo;s maps have become useful tools for conveying data in conjunction with Commission reports and public notices. The FCC&rsquo;s maps site serves as a centralized hub for data visualizations and'
+summary: 'Maps and geospatial analysis have become increasingly important as they allow the FCC to display information to the public in an interactive visual format. The FCC’smaps have become useful tools for conveying data in conjunction with Commission reports and public notices. The FCC’smaps site serves as a centralized hub for data visualizations and'
 authors: [richard-mansfield, allison-baker, perryn-ashmore]
 categories:
   - Data

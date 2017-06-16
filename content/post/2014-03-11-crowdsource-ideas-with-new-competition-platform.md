@@ -3,7 +3,7 @@
 
 date: 2014-03-11 12:26:37 -0400
 title: 'Crowdsource Ideas with New Competition Platform'
-summary: 'Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool. The Challenge.gov team unveiled and demonstrated the capabilities of GSA&rsquo;s new crowdsourcing and prize competition platform, Challenge.sites.usa.gov&nbsp;on a DigitalGov University webinar.&nbsp;The platform is now available for any federal'
+summary: 'Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool. The Challenge.gov team unveiled and demonstrated the capabilities of GSA’snew crowdsourcing and prize competition platform, Challenge.sites.usa.gov&nbsp;on a DigitalGov University webinar.&nbsp;The platform is now available for any federal'
 authors: [tlowden]
 categories:
   - Challenges

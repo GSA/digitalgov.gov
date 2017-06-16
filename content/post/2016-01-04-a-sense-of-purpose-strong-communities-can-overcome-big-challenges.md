@@ -3,7 +3,7 @@
 
 date: 2016-01-04 1:00:44 -0400
 title: 'A Sense of Purpose\: Strong Communities Can Overcome Big Challenges'
-summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development&rsquo;s (HUD) Rebuild by Design Challenge&nbsp;(PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
+summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development’s(HUD) Rebuild by Design Challenge&nbsp;(PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
 authors: [eric-beidel]
 categories:
   - Challenges

@@ -2,8 +2,8 @@
 
 
 date: 2013-06-05 8:49:57 -0400
-title: 'Mary Meeker&rsquo;s Internet Trends Report'
-summary: 'Techcrunch. com&nbsp;reports Mary Meeker&rsquo;s much anticipated annual Internet Trends report released at the D11 Conference last week shows astounding growth regarding use of smartphones and tablets. Among the highlights; Mobile Internet users have reached 1.5 billion, up from 1.1 billion a year ago, a'
+title: 'Mary Meeker’sInternet Trends Report'
+summary: 'Techcrunch. com&nbsp;reports Mary Meeker’smuch anticipated annual Internet Trends report released at the D11 Conference last week shows astounding growth regarding use of smartphones and tablets. Among the highlights; Mobile Internet users have reached 1.5 billion, up from 1.1 billion a year ago, a'
 authors: [jparcell]
 categories:
   - Code

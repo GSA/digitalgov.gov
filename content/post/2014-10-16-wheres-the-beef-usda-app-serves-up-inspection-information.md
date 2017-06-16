@@ -3,7 +3,7 @@
 
 date: 2014-10-16 10:08:04 -0400
 title: 'Where&amp;#8217;s the Beef? USDA App Serves Up Inspection Information'
-summary: 'Want to know where the food you&rsquo;re eating was produced? Here&rsquo;s a handy trick before you head out to the grocery store\: Download the&nbsp;Meat, Poultry &amp;amp; Egg Product Inspection Directory (MPI Directory) app&nbsp;produced by the U.S. Department of Agriculture (USDA)&rsquo;s Food Safety and Inspection Service. All containers of meat, poultry and egg'
+summary: 'Want to know where the food you&rsquo;re eating was produced? Here’sa handy trick before you head out to the grocery store\: Download the&nbsp;Meat, Poultry &amp;amp; Egg Product Inspection Directory (MPI Directory) app&nbsp;produced by the U.S. Department of Agriculture (USDA)’sFood Safety and Inspection Service. All containers of meat, poultry and egg'
 authors: [kdowney]
 categories:
   - Mobile

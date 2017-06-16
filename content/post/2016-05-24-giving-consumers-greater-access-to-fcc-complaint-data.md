@@ -3,7 +3,7 @@
 
 date: 2016-05-24 11:10:17 -0400
 title: 'Giving Consumers Greater Access to FCC Complaint Data'
-summary: 'Greater transparency is one of the goals of our Consumer Help Center, which for over a year now has been the FCC&rsquo;s primary online destination for learning about consumer telecommunications issues, filing informal consumer complaints and finding out what other consumers are concerned about.  In'
+summary: 'Greater transparency is one of the goals of our Consumer Help Center, which for over a year now has been the FCC’sprimary online destination for learning about consumer telecommunications issues, filing informal consumer complaints and finding out what other consumers are concerned about.  In'
 authors: [david-a-bray, alison-kutler]
 categories:
   - Data

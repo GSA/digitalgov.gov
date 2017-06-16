@@ -3,7 +3,7 @@
 
 date: 2014-08-11 10:00:14 -0400
 title: 'The Power of Email Marketing'
-summary: 'If you aren&rsquo;t currently including email marketing in your digital outreach efforts, you&rsquo;re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It&rsquo;s another digital platform that allows you to reach your customers and achieve your goals. Email marketing can be used in'
+summary: 'If you aren&rsquo;t currently including email marketing in your digital outreach efforts, you&rsquo;re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It’sanother digital platform that allows you to reach your customers and achieve your goals. Email marketing can be used in'
 authors: [nicholas-garlow]
 categories:
   - Content

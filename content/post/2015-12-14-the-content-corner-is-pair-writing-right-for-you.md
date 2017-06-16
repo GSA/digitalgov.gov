@@ -3,7 +3,7 @@
 
 date: 2015-12-14 10:00:35 -0400
 title: 'The Content Corner\: Is Pair Writing Right for You?'
-summary: 'Fresh from last week&rsquo;s article about workflows and their importance in the content creation process, I stumbled upon a new twist in content production known as pair writing. Many of you familiar with agile methodologies or software programming in general should know the term pair programming. Pair writing hopes to take some of the same'
+summary: 'Fresh from last week’sarticle about workflows and their importance in the content creation process, I stumbled upon a new twist in content production known as pair writing. Many of you familiar with agile methodologies or software programming in general should know the term pair programming. Pair writing hopes to take some of the same'
 authors: [tymanuel]
 categories:
   - Content

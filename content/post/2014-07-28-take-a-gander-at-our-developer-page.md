@@ -3,7 +3,7 @@
 
 date: 2014-07-28 10:00:05 -0400
 title: 'Take a Gander at Our /Developer Page!'
-summary: 'A growing trend both inside government and outside is to have a simple welcoming page for outside developers who may be interested in your team&rsquo;s efforts. This material is often located at website.gov/developer 1 and points visitors to technical material that developers may be interested in, especially APIs. Collecting technical documentation in one place facilitates'
+summary: 'A growing trend both inside government and outside is to have a simple welcoming page for outside developers who may be interested in your team’sefforts. This material is often located at website.gov/developer 1 and points visitors to technical material that developers may be interested in, especially APIs. Collecting technical documentation in one place facilitates'
 authors: [gray-brooks]
 categories:
   - API

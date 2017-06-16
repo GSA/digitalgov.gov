@@ -3,7 +3,7 @@
 
 date: 2016-04-25 11:48:11 -0400
 title: 'The Content Corner\: GIF? Meme? Embeds? Oh, My!'
-summary: 'You probably have heard this before, or may even hear it all the time, &ldquo;Content is King.&rdquo; What that means is, that in today&rsquo;s fast moving digital communications age, with social media as the driver&mdash;organizations (agencies) must have a content plan to stay relevant. Sure, not every agency has the resources, or frankly is as'
+summary: 'You probably have heard this before, or may even hear it all the time, &ldquo;Content is King.&rdquo; What that means is, that in today’sfast moving digital communications age, with social media as the driver&mdash;organizations (agencies) must have a content plan to stay relevant. Sure, not every agency has the resources, or frankly is as'
 authors: [kyle-s-richardson]
 categories:
   - Content

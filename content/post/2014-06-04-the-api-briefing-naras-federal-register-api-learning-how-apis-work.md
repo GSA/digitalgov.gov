@@ -2,7 +2,7 @@
 
 
 date: 2014-06-04 10:00:47 -0400
-title: 'The API Briefing\: NARA&rsquo;s Federal Register API &ndash; Learning How APIs Work'
+title: 'The API Briefing\: NARA’sFederal Register API &ndash; Learning How APIs Work'
 summary: 'Application programming interfaces (APIs) can be confusing when people first hear of the concept. There are the many acronyms like REST (Representational State Transfer) and JSON (JavaScript Object Notation) that further obscure what APIs do. The idea behind APIs is quite simple\: APIs are&nbsp;how computer programs share information between themselves. You can experience this for'
 authors: [bbrantley]
 categories:

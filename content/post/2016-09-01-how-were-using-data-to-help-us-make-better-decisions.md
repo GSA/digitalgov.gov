@@ -3,7 +3,7 @@
 
 date: 2016-09-01 2:00:56 -0400
 title: 'How We&amp;#8217;re Using Data to Help Us Make Better Decisions'
-summary: 'This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA&rsquo;s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and'
+summary: 'This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’sdata management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and'
 authors: [david-shive]
 categories:
   - Data

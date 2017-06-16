@@ -3,7 +3,7 @@
 
 date: 2014-02-14 12:58:46 -0400
 title: 'Engagement'
-summary: ' It&rsquo;s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of the'
+summary: ' It’sone of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of the'
 authors: [dorothy-amatucci]
 categories:
   - Social Media

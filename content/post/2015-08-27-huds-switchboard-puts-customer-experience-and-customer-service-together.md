@@ -2,8 +2,8 @@
 
 
 date: 2015-08-27 10:00:16 -0400
-title: 'HUD&rsquo;s Switchboard Puts Customer Experience and Customer Service Together'
-summary: 'Customer experience is about making sure needs are met. It&rsquo;s certainly not a new concept for business; every bookstore has a customer service section. Government agencies are slightly different though. Often people are driven to public services by need or regulation, not choice. Government traditionally didn&rsquo;t need to court positive attention. The increasing prominence of'
+title: 'HUD’sSwitchboard Puts Customer Experience and Customer Service Together'
+summary: 'Customer experience is about making sure needs are met. It’scertainly not a new concept for business; every bookstore has a customer service section. Government agencies are slightly different though. Often people are driven to public services by need or regulation, not choice. Government traditionally didn&rsquo;t need to court positive attention. The increasing prominence of'
 authors: [zachary-lerner]
 categories:
   - Managing Digital

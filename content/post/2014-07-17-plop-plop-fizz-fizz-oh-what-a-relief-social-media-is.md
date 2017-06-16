@@ -3,7 +3,7 @@
 
 date: 2014-07-17 1:00:36 -0400
 title: 'Plop Plop, Fizz Fizz, Oh What a Relief Social Media Is!'
-summary: 'We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses. It&rsquo;s a familiar story\: A nice meal out results in days of gastrointestinal discomfort when you realize only too'
+summary: 'We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses. It’sa familiar story\: A nice meal out results in days of gastrointestinal discomfort when you realize only too'
 authors: [eden-savino]
 categories:
   - Data

@@ -3,7 +3,7 @@
 
 date: 2014-05-22 1:00:44 -0400
 title: 'How to Make a Mobile Paper Prototype'
-summary: 'What if a single piece of paper could make your mobile app work 20% better?  It&rsquo;s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it&rsquo;s true. Well before we get into the design and coding phases, we can show customers a'
+summary: 'What if a single piece of paper could make your mobile app work 20% better?  It’shard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’strue. Well before we get into the design and coding phases, we can show customers a'
 authors: [jonathan-rubin]
 categories:
   - Design

@@ -2,7 +2,7 @@
 
 
 date: 2016-09-07 11:00:56 -0400
-title: 'Let&rsquo;s Encrypt Those CNAMES, Shall We?'
+title: 'Let’sEncrypt Those CNAMES, Shall We?'
 summary: 'This is post 4 in the 5-part series, The Right Tools for the Job\: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&amp;#8217;t done so already. In addition to the DNS challenges created by offering &amp;#8220;masked&amp;#8221; domains such'
 authors: [dmccleskey, nathan-smith]
 categories:

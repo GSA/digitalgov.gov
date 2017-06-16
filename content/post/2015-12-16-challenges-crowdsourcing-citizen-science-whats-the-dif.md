@@ -3,7 +3,7 @@
 
 date: 2015-12-16 11:10:18 -0400
 title: 'Challenges, Crowdsourcing, Citizen Science\: What&amp;#8217;s the Dif?'
-summary: 'There&rsquo;s more than one way to harness the wisdom of the crowd. In honor of December&rsquo;s monthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two&rsquo;s company, three&rsquo;s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
+summary: 'There’smore than one way to harness the wisdom of the crowd. In honor of December’smonthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’scompany, three’sa crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors: [awichman]
 categories:
   - Challenges

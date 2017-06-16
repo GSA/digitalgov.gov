@@ -3,7 +3,7 @@
 
 date: 2016-03-03 10:00:13 -0400
 title: 'New FTC Website for Identity Theft Victims Offers Personal Recovery Plans'
-summary: 'Identity theft is a big problem and it takes time and effort to deal with the issues that it causes. The Federal Trade Commission (FTC), has a new tool that makes it easier for identity theft victims to recover from identity theft by providing a personal recovery plan. No matter what the person&rsquo;s specific identity'
+summary: 'Identity theft is a big problem and it takes time and effort to deal with the issues that it causes. The Federal Trade Commission (FTC), has a new tool that makes it easier for identity theft victims to recover from identity theft by providing a personal recovery plan. No matter what the person’sspecific identity'
 authors: [rosario-mendez]
 categories:
   - Content

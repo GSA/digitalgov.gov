@@ -3,7 +3,7 @@
 
 date: 2014-07-30 2:12:52 -0400
 title: 'Customization is Key to Better Mobile User Experience'
-summary: 'Resources like Theresa Neil&rsquo;s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and&nbsp;tailored further to satisfy their users. As mentioned in this week&rsquo;s Trends on Tuesday, customizing apps to meet users&rsquo;'
+summary: 'Resources like Theresa Neil’sMobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and&nbsp;tailored further to satisfy their users. As mentioned in this week’sTrends on Tuesday, customizing apps to meet users&rsquo;'
 authors: [katie-steffy]
 categories:
   - Mobile

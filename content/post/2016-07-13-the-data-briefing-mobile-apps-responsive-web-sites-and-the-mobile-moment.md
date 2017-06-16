@@ -3,7 +3,7 @@
 
 date: 2016-07-13 10:00:43 -0400
 title: 'The Data Briefing\: Mobile Apps, Responsive Web Sites, and the &amp;#8220;Mobile Moment&amp;#8221;'
-summary: 'The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom&rsquo;s Digital Service (UKDS) banned the creation of mobile apps. In an interview with GovInsider, the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build'
+summary: 'The debate between responsive websites and mobile apps took a decisive turn this week when the United Kingdom’sDigital Service (UKDS) banned the creation of mobile apps. In an interview with GovInsider, the founder of UKDS, Ben Terrett, explained that mobile apps were too expensive to build and maintain. Responsive websites were easier to build'
 authors: [bbrantley]
 categories:
   - Data

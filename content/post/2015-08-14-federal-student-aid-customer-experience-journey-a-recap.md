@@ -3,7 +3,7 @@
 
 date: 2015-08-14 10:00:11 -0400
 title: 'Federal Student Aid Customer Experience Journey\: A Recap'
-summary: ' Customer Experience (CX) deserves a voice at an agency&rsquo;s senior levels. Putting CX at'
+summary: ' Customer Experience (CX) deserves a voice at an agency’ssenior levels. Putting CX at'
 authors: [zachary-lerner]
 categories:
   - Managing Digital

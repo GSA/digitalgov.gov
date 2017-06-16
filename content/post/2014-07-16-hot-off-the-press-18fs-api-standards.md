@@ -2,7 +2,7 @@
 
 
 date: 2014-07-16 1:00:03 -0400
-title: 'Hot off the Press\: 18F&rsquo;s API Standards'
+title: 'Hot off the Press\: 18F’sAPI Standards'
 summary: 'We recently released the first version of our API Standards&mdash;a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future. These standards guide the'
 authors: [alan-delevie, eric-mill]
 categories:
