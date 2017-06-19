@@ -1,5 +1,6 @@
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
+  {{ $.Scratch.Set "has_sidebar" true }}
 {{ end }}
 
 {{ define "content" }}
@@ -89,7 +90,7 @@
           RELATED POSTS
           ======================================
         */}}
-        
+
         {{ $currentPageUrl := .URL }}
         {{ if .Params.tag }}
           {{ $name := index .Params.tag 0 }}

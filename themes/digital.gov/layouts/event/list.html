@@ -8,8 +8,11 @@
   <h1>Events</h1>
   <section class="flex-ns flex-wrap justify-around mt5">
     {{ range $section }}
-      <h3>{{ .Params.title }}</h3>
-      <p>{{ .Params.summary }}</p>
+      <h3><a href="{{ .URL }}">{{ .Params.title }}</a></h3>
+      <p>{{ .Params.event_description.long }}</p>
+      <p>{{ .Params.location.city }}</p>
+      <p>{{ .Params.location.is_inperson }}</p>
+      {{ if .Params.location.is_inperson }}<p>In-person!</p>{{ end }}
     {{ end }}
   </section>
 

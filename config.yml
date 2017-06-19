@@ -11,6 +11,9 @@ Paginate                : 100
 googleAnalytics         : ""
 enableRobotsTXT         : false
 
+ignoreFiles:
+  - "^_template"
+
 sitemap:
   changefreq            : "monthly"
   priority              : 0.5
