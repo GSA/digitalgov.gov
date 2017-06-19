@@ -1,10 +1,10 @@
 ---
-title                 : My cool event
+title                 : An event in the past
 draft                 : false
-event_id              : my-cool-event
+event_id              : an-event-past
 author_id             : thisisdano
-date                  : 2017-08-12 16:30:00 -0400
-end_date              : 2017-08-12 18:00:00 -0400
+date                  : 2012-08-12 16:30:00 -0400
+end_date              : 2012-08-12 18:00:00 -0400
 location:
   is_inperson         : true
   is_remote           : false
@@ -16,7 +16,7 @@ location:
   room                :
   map                 : google maps link/code
 event_link            : http://the-event.tld
-registration_link     : https://www.eventbrite.com/e/june-challenge-and-prize-community-of-practice-meeting-registration-33250503150
+registration_link     : http://eventbrite/info
 host                  : The League of Reliable Folk
 event_description:
   short               : Keep this under 140 characters
@@ -29,7 +29,7 @@ categories:
   - category
 is_featured           : true
 featured_image:
-    link              : https://dummyimage.com/600x400/000/fff.jpg
+    link              : https://dummyimage.com/600x400/1188ff/fff.jpg
     text              : Alt image text
 featured_links:
   - text              : special link text
