@@ -2,7 +2,7 @@
   <div class="widget-wrap">
     <h3 class="widgettitle"><span>Recent Posts</span></h3>
     <ul>
-      {{ range first 3 (where .Site.Pages "Section" "post") }}
+      {{ range first 3 (where .Site.Pages "Section" "posts") }}
         <li><a href="{{ .URL }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>

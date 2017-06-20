@@ -29,7 +29,7 @@ params:
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
 
 permalinks:
-  post                  : ":year/:month/:day/:title/"
+  posts                 : ":year/:month/:day/:title/"
 
 taxonomies:
   tag                   : "tag"

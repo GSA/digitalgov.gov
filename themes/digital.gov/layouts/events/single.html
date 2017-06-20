@@ -1,8 +1,8 @@
 
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "tribe_events-template-default single single-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-single tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive tribe-mobile" }}
-  {{ if .Params.location.is_inperson }}
-    {{ if .Params.location.is_remote }}
+  {{ if .Params.venue.is_inperson }}
+    {{ if .Params.venue.is_remote }}
       {{ $.Scratch.Set "headtitle" (printf "In-Person & Online: %s : Digital.gov" .Title) }}
     {{ else }}
       {{ $.Scratch.Set "headtitle" (printf "In-Person: %s : Digital.gov" .Title) }}
@@ -15,8 +15,8 @@
 {{ define "content" }}
   {{ $baseurl := .Site.BaseURL }}
 
-  {{ if .Params.location.is_inperson }}
-    {{ if .Params.location.is_remote }}
+  {{ if .Params.venue.is_inperson }}
+    {{ if .Params.venue.is_remote }}
       {{ $.Scratch.Set "eventtitle" (printf "In-Person & Online: %s" .Title) }}
     {{ else }}
       {{ $.Scratch.Set "eventtitle" (printf "In-Person: %s" .Title) }}
@@ -27,7 +27,11 @@
 
   <div id="wrap">
   	<div id="tribe-events-pg-template">
+      {{/* removed data attribs */}}
+      {{/*
   		<div id="tribe-events" class="tribe-no-js" data-live_ajax="1" data-datepicker_format="2" data-category="" data-featured="">
+      */}}
+      <div id="tribe-events" class="tribe-no-js">
   			<div class="tribe-events-before-html"></div>
 
         {{/* This spinner doesn't work in the hugo site */}}
@@ -37,7 +41,7 @@
         */}}
   			<div id="tribe-events-content" class="tribe-events-single">
   				<p class="tribe-events-back">
-  					<a href="https://www.digitalgov.gov/events/"> &laquo; All Events</a>
+  					<a href="{{ $baseurl }}events/"> &laquo; All Events</a>
   				</p>
 
   				<!-- Notices -->
