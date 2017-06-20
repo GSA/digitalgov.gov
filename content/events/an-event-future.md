@@ -10,7 +10,7 @@ date                  : 2018-08-12 16:30:00 -0400
 end_date              : 2018-08-12 18:00:00 -0400
 venue:
   is_inperson         : true
-  is_remote           : false
+  is_remote           : true
   city                : Portland
   state               : OR
   venue               :

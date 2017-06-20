@@ -3,11 +3,13 @@
 {{ end }}
 
 {{ define "content" }}
+  {{ $data := $.Site.Data }}
   <div id="contentleft" class="clearfix">
     <div id="content" class="clearfix">
       {{ $taxonomy := .Data.Plural }}
       {{ $slug := .Title | urlize }}
-      {{ $term := index (index $.Site.Data $taxonomy) $slug }}
+      {{ $taxdata := index $data $taxonomy }}
+      {{ $term := index $taxdata $slug }}
       <h1 class="archive-title">{{ $term }}</h1>
 
       {{ range (.Paginator 10).Pages }}

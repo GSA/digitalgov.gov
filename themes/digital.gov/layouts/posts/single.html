@@ -118,6 +118,7 @@
           ======================================
         */}}
 
+        {{ $sitetags := $.Site.Data.tag }}
         {{ if (not (isset .Params "tag")) | or (eq .Params.tag "") }}
         {{ else }}
           <p class="tags">Tags:
@@ -125,7 +126,7 @@
             {{ $length := $_taxonomy | len }}
             {{ range $i, $e := $_taxonomy }}
               {{ $slug := $e | urlize }}
-              {{ $title := index $.Site.Data.tag $slug }}
+              {{ $title := index $sitetags $slug }}
               {{ $link := printf "%stag/%s/" $baseurl $slug }}
               {{ if lt (add $i 1) $length }}
                 <a href="{{ $link }}" rel="tag">{{ $title }}</a>,

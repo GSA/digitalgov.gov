@@ -2,11 +2,23 @@
 
   <!-- Event Title -->
   <h4 class="tribe-event-title">
-    <a href="https://www.digitalgov.gov/event/present-with-charisma/" rel="bookmark">In-Person: Present with Charisma</a>
+    {{/* TODO: add location prefix */}}
+
+    {{ if .Params.venue.is_inperson }}
+      {{ if .Params.venue.is_remote }}
+        {{ $.Scratch.Set "eventtitle" (printf "In-Person & Online: %s" .Title) }}
+      {{ else }}
+        {{ $.Scratch.Set "eventtitle" (printf "In-Person: %s" .Title) }}
+      {{ end }}
+    {{ else }}
+      {{ $.Scratch.Set "eventtitle" (printf "Online: %s" .Title) }}
+    {{ end }}
+
+    <a href="{{ .URL }}" rel="bookmark">{{ $.Scratch.Get "eventtitle" }}</a>
   </h4>
 
   <!-- Event Time -->
   <div class="tribe-event-duration">
-    <span class="tribe-event-date-start">June 14 @ 9:00 AM</span> - <span class="tribe-event-time">11:30 AM</span>
+    <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
   </div>
 </li>

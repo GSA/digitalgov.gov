@@ -3,14 +3,12 @@
     <h3 class="widgettitle"><span>Events</span></h3>
     <ol class="tribe-list-widget">
 
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
-      {{ partial "event--item.html" . }}
+      {{ $now := now }}
+      {{ $events := where .Site.Pages "Section" "events" }}
+      {{ $events := (where $events ".Params.date" "ge" $now).ByDate }}
+      {{ range first 6 $events }}
+        {{ partial "event--item.html" . }}
+      {{ end }}
 
     </ol>
     <!-- .tribe-list-widget -->

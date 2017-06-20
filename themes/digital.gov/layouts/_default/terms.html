@@ -4,12 +4,12 @@
 
 
 {{ define "content" }}
-  {{ $data := .Data }}
+  {{ $data := $.Site.Data }}
   <h1>{{ .Title }}</h1>
 
   <ul>
     {{/* This will work when the tags are urlized! I think! */}}
-    {{ range $tag, $title := index $.Site.Data $.Data.Plural }}
+    {{ range $tag, $title := index $data $.Data.Plural }}
       {{ $link := printf "/%s/%s/" $.Data.Plural $tag }}
       {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
         <li><a href="{{ $link }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
