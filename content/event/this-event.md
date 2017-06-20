@@ -2,19 +2,24 @@
 title                 : My cool event
 draft                 : false
 event_id              : my-cool-event
-author_id             : thisisdano
+relationships:
+  author_id           : thisisdano
+  venue_id            : gsa-central-office
+organizer             : DigitalGov University
 date                  : 2017-08-12 16:30:00 -0400
 end_date              : 2017-08-12 18:00:00 -0400
-location:
+venue:
   is_inperson         : true
   is_remote           : false
   city                : Portland
   state               : OR
-  venue               :
+  venue_name          :
   street              : 123 SE Fake Ave.
+  zip                 :
   country             : USA
   room                :
-  map                 : google maps link/code
+  google_map          : google maps link/code
+  link                : https://www.gsa.gov
 event_link            : http://the-event.tld
 registration_link     : https://www.eventbrite.com/e/june-challenge-and-prize-community-of-practice-meeting-registration-33250503150
 host                  : The League of Reliable Folk
@@ -22,11 +27,11 @@ event_description:
   short               : Keep this under 140 characters
   long                : This should be one paragraph of summary text. Work to evoke the critical topics of your event, but leave extended descriptions to the body of the event. Where does this long description go? That's a very reasonable question, but I'm not sure yet.
 tag:
-  - tag
-  - tag
+  - accessibility
+  - api
 categories:
-  - category
-  - category
+  - design
+  - data
 is_featured           : true
 featured_image:
     link              : https://dummyimage.com/600x400/000/fff.jpg

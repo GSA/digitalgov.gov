@@ -2,19 +2,24 @@
 title                 : An event in the past
 draft                 : false
 event_id              : an-event-past
-author_id             : thisisdano
+relationships:
+  author_id           : thisisdano
+  venue_id            : gsa-central-office
+organizer             : DigitalGov University
 date                  : 2012-08-12 16:30:00 -0400
 end_date              : 2012-08-12 18:00:00 -0400
-location:
+venue:
   is_inperson         : true
   is_remote           : false
   city                : Portland
   state               : OR
   venue               :
   street              : 123 SE Fake Ave.
+  zip                 :
   country             : USA
   room                :
-  map                 : google maps link/code
+  google_map          : google maps link/code
+  link                : https://www.gsa.gov
 event_link            : http://the-event.tld
 registration_link     : http://eventbrite/info
 host                  : The League of Reliable Folk
