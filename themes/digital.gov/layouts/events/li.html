@@ -1,3 +1,15 @@
+{{ if .Params.venue.is_inperson }}
+  {{ if .Params.venue.is_remote }}
+    {{ $.Scratch.Set "prefix" "In-Person & Online:" }}
+  {{ else }}
+    {{ $.Scratch.Set "prefix" "In-Person:" }}
+  {{ end }}
+{{ else }}
+  {{ $.Scratch.Set "prefix" "Online:" }}
+{{ end }}
+
+{{ $displaytitle := printf "%s %s" ($.Scratch.Get "prefix") .Title }}
+
 <!-- Event  -->
 <div class="type-tribe_events tribe-clearfix">
 
@@ -5,8 +17,7 @@
 
   <!-- Event Title -->
   <h2 class="tribe-events-list-event-title">
-    <a class="tribe-event-url" href="https://www.digitalgov.gov/event/in-person-dap-analytics-maturity-workshop/" title="In-Person: DAP Analytics Maturity Workshop" rel="bookmark">
-      In-Person: DAP Analytics Maturity Workshop	</a>
+    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $displaytitle }}" rel="bookmark"> {{ $displaytitle }}</a>
   </h2>
 
   <!-- Event Meta -->
@@ -15,31 +26,51 @@
 
       <!-- Schedule & Recurrence Details -->
       <div class="tribe-event-schedule-details">
-        <span class="tribe-event-date-start">June 21 @ 9:00 AM</span> - <span class="tribe-event-time">4:00 PM</span>
+        <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
       </div><!-- .tribe-event-schedule-details -->
 
       <!-- Venue Display Info -->
       <div class="tribe-events-venue-details">
-        GSA Central Office,
+        {{ if .Params.venue.venue_name }}
+          {{ .Params.venue.venue_name }},
+        {{ end }}
         <span class="tribe-address">
-          <span class="tribe-street-address">1800 F Street NW</span>
+          <span class="tribe-street-address">{{ .Params.venue.street }}</span>
           <br>
-          <span class="tribe-locality">Washington</span><span class="tribe-delimiter">,</span>
-          <abbr class="tribe-region tribe-events-abbr" title="District of Columbia">DC</abbr>
-          <span class="tribe-postal-code">20405</span>
-          <span class="tribe-country-name">United States</span>
+          <span class="tribe-locality">{{ .Params.venue.city }}</span><span class="tribe-delimiter">,</span>
+          <abbr class="tribe-region tribe-events-abbr" title="District of Columbia">{{ .Params.venue.state }}</abbr>
+          <span class="tribe-postal-code">{{ .Params.venue.zip }}</span>
+          <span class="tribe-country-name">{{ .Params.venue.country }}</span>
         </span><!-- .tribe-address -->
-        <a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=1800+F+Street+NW+Washington+DC+20405+United+States" title="Click to view a Google Map" target="_blank">+ Google Map</a>
+
+        {{ $map := printf "%s+%s+%s+%s+%s" .Params.venue.street .Params.venue.city .Params.venue.state .Params.venue.zip .Params.venue.country}}
+        {{ $map := replace $map " " "+" }}
+
+        {{/* Done this strange way to prevent unusual escaping in the url */}}
+        {{ $map := printf "<a class=\"tribe-events-gmap\" href=\"https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=%s\" title=\"Click to view a Google Map\" target=\"_blank\">+ Google Map</a>" $map }}
+        {{ $map | safeHTML }}
+
       </div><!-- .tribe-events-venue-details -->
     </div><!-- .author.location -->
   </div><!-- .tribe-events-event-meta -->
 
-  {{/* I didn't see any images on this page. Is this disabled? */}}
   <!-- Event Image -->
+
+  {{ if .Params.featured_image.link }}
+    <div class="tribe-events-event-image">
+      <a href="{{ .URL }}">
+        <img  width="210"
+              height="150"
+              src="{{ .Params.featured_image.link }}"
+              class="attachment-medium size-medium wp-post-image"
+              alt="{{ .Params.featured_image.text }}">
+      </a>
+    </div>
+  {{ end }}
 
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
-    <p>This all-day workshop facilitated by the DAP Team will help DAP users assess your team/office/division's current analytics maturity.</p>
-    <a href="https://www.digitalgov.gov/event/in-person-dap-analytics-maturity-workshop/" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
+    <p>{{ .Params.event_description.long | markdownify }}</p>
+    <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
   </div><!-- .tribe-events-list-event-description -->
 </div><!-- .type-tribe_events -->
