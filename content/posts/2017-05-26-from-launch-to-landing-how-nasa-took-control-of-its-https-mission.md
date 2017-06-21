@@ -7,7 +7,7 @@ authors:
   - karim-said
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - DHS
