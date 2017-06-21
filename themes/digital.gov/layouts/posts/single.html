@@ -13,7 +13,7 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ .URL }}" rel="bookmark" title="{{ .Params.Title }}">{{ .Params.Title }}</a>
+          <a href="{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
         </h1>
 
         <div class="meta">
@@ -152,12 +152,12 @@
     <div class="navigation clearfix">
       <div class="alignleft single">
         {{ if .Prev }}
-          « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title }}</a>
+          « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title | markdownify }}</a>
         {{ end }}
       </div>
       <div class="alignright single">
         {{ if .Next }}
-          <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title }}</a> »
+          <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title | markdownify }}</a> »
         {{ end }}
       </div>
     </div><!-- .navigation -->
