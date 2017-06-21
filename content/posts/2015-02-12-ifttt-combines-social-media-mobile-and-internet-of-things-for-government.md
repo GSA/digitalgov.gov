@@ -2,7 +2,7 @@
 url: /2015/02/12/ifttt-combines-social-media-mobile-and-internet-of-things-for-government/
 date: 2015-02-12 4:20:56 -0400
 title: IFTTT Combines Social Media, Mobile and Internet of Things for Government
-summary: ' The newest addition to the federal government&rsquo;s social media utility belt may also be one of its most powerful, as IFTTT (as in &ldquo;If This Then That&rdquo;) combines 166 channels like Twitter, Android and iOS Location and RSS into &amp;#8220;recipes&amp;#8221; that can integrate government social media, data, location-based services and'
+summary: ' The newest addition to the federal government&rsquo;s social media utility belt may also be one of its most powerful, as IFTTT (as in &ldquo;If This Then That&rdquo;) combines 166 channels like Twitter, Android and iOS Location and RSS into &#8220;recipes&#8221; that can integrate government social media, data, location-based services and'
 authors:
   - jherman
 categories:

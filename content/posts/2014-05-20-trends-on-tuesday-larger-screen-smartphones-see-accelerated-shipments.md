@@ -2,7 +2,7 @@
 url: /2014/05/20/trends-on-tuesday-larger-screen-smartphones-see-accelerated-shipments/
 date: 2014-05-20 1:15:08 -0400
 title: 'Trends on Tuesday: Larger Screen Smartphones See Accelerated Shipments'
-summary: 'Smaller doesn&amp;#8217;t mean more popular when&nbsp;it comes to smartphone screen size. According to mobile analyst Canalys, shipments for phones with screens larger than 5&amp;#8243; represented&nbsp;a third of total shipments worldwide&nbsp;in Q1 this year. Devices with a screen size larger than 5&amp;#8243; are more popularly known as &amp;#8220;phablets&amp;#8221; (not quite tablets, not quite phones). Government agencies'
+summary: 'Smaller doesn&#8217;t mean more popular when&nbsp;it comes to smartphone screen size. According to mobile analyst Canalys, shipments for phones with screens larger than 5&#8243; represented&nbsp;a third of total shipments worldwide&nbsp;in Q1 this year. Devices with a screen size larger than 5&#8243; are more popularly known as &#8220;phablets&#8221; (not quite tablets, not quite phones). Government agencies'
 authors:
   - jparcell
 categories:

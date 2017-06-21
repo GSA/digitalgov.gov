@@ -2,7 +2,7 @@
 url: /2017/05/16/becoming-an-agile-content-team/
 date: 2017-05-16 2:00:16 -0400
 title: Becoming an Agile Content Team
-summary: 'In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.  We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team: Being'
+summary: 'In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process. We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team: Being'
 authors:
   - jessica-milcetich
 categories:

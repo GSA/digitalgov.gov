@@ -2,7 +2,7 @@
 url: /2015/11/20/ux-vs-cx-whats-the-dif-part-2/
 date: 2015-11-20 11:10:26 -0400
 title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
-summary: 'In honor of World Usability Day, which happened on November 12, we&rsquo;d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-250-UX-VS-CX-drawing.jpg&quot; alt=&quot;Venn diagram shows that User Experience (U X) is a part'
+summary: 'In honor of World Usability Day, which happened on November 12, we&rsquo;d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a part'
 authors:
   - rflagg
 categories:

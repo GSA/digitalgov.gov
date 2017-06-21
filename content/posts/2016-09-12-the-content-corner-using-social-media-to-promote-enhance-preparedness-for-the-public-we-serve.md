@@ -2,7 +2,8 @@
 url: /2016/09/12/the-content-corner-using-social-media-to-promote-enhance-preparedness-for-the-public-we-serve/
 date: 2016-09-12 10:00:18 -0400
 title: 'The Content Corner: Using Social Media to Promote, Enhance Preparedness for the Public We Serve'
-summary: "September is National Preparedness Month. FEMA&amp;#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America&rsquo;s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-340-EQanimation_8_Plan_091114_medium.jpg&quot; alt=&quot;America's"
+summary: |
+  September is National Preparedness Month. FEMA&#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America&rsquo;s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-340-EQanimation\_8\_Plan\_091114\_medium.jpg" alt="America's
 authors:
   - kyle-s-richardson
 categories:

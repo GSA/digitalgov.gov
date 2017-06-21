@@ -2,7 +2,7 @@
 url: /2013/09/23/tackling-pii-in-electronic-data/
 date: 2013-09-23 6:11:36 -0400
 title: Tackling PII in Electronic Data
-summary: 'As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &amp;#8211; Privacy, Records and Litigation. Do'
+summary: 'As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation. Do'
 authors:
   - tlowden
 categories:

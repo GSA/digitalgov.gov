@@ -1,7 +1,7 @@
 ---
 url: /2017/05/29/hello-world/
 date: 2017-05-29 1:50:02 -0400
-title: 'Today: This is one large, &#8220;world&#8221; &#038; we won&#8217;t say it&#8217;s &#8216;flat&#8217;!'
+title: 'Today: This is one large, &#8220;world&#8221; & we won&#8217;t say it&#8217;s &#8216;flat&#8217;!'
 summary: Lorem ipsum dolor sit amet, Email to Jeremy elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor velit nec auctor semper. Donec egestas felis id turpis sollicitudin blandit vitae quis libero. Ut massa arcu, condimentum vitae laoreet auctor, blandit
 authors:
   - admin

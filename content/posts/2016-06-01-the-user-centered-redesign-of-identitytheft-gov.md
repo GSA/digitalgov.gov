@@ -2,7 +2,7 @@
 url: /2016/06/01/the-user-centered-redesign-of-identitytheft-gov/
 date: 2016-06-01 2:30:14 -0400
 title: The User-Centered Redesign of IdentityTheft.gov
-summary: 'I first came across the redesigned IdentityTheft.gov on Reddit, of all places. Someone had posted a link to the Federal Trade Commission&rsquo;s (FTC) newly redesigned site and wrote: I hope this never happens to any of you as the entire thing can be really stressful. The identitytheft.gov website is a true breath of fresh air&amp;#8230;You'
+summary: 'I first came across the redesigned IdentityTheft.gov on Reddit, of all places. Someone had posted a link to the Federal Trade Commission&rsquo;s (FTC) newly redesigned site and wrote: I hope this never happens to any of you as the entire thing can be really stressful. The identitytheft.gov website is a true breath of fresh air&#8230;You'
 authors:
   - melody-kramer
 categories:

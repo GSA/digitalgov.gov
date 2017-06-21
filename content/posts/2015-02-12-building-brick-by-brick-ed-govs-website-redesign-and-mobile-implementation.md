@@ -2,7 +2,7 @@
 url: /2015/02/12/building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation/
 date: 2015-02-12 10:00:39 -0400
 title: 'Building Brick by Brick: Ed.gov’s Website Redesign and Mobile Implementation'
-summary: 'Rome wasn&amp;#8217;t built in a day. Neither are website redesigns. In line with the piecemeal responsive Web design implementation trend we recently highlighted, the new Ed.gov website redesign happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.'
+summary: 'Rome wasn&#8217;t built in a day. Neither are website redesigns. In line with the piecemeal responsive Web design implementation trend we recently highlighted, the new Ed.gov website redesign happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.'
 authors:
   - awichman
 categories:

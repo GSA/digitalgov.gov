@@ -2,7 +2,7 @@
 url: /2014/05/30/digitalgov-search-results-get-a-redesign/
 date: 2014-05-30 10:00:39 -0400
 title: DigitalGov Search Results Get a Redesign
-summary: 'Bing, Google, and Yahoo have all rolled out major redesigns to their search results pages in the past year. The last time DigitalGov Search did a major redesign of their results page was in January 2012. It was long overdue for a facelift. So, our&nbsp;team redesigned our&nbsp;search results page. We&amp;#8217;ve kept an eye on best'
+summary: 'Bing, Google, and Yahoo have all rolled out major redesigns to their search results pages in the past year. The last time DigitalGov Search did a major redesign of their results page was in January 2012. It was long overdue for a facelift. So, our&nbsp;team redesigned our&nbsp;search results page. We&#8217;ve kept an eye on best'
 authors:
   - ammie-farraj-feijoo
 categories:

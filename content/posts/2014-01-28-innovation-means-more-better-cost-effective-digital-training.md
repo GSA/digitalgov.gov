@@ -2,7 +2,7 @@
 url: /2014/01/28/innovation-means-more-better-cost-effective-digital-training/
 date: 2014-01-28 3:02:41 -0400
 title: Innovation Means More, Better, Cost Effective Digital Training
-summary: 'A recent FedTech Magazine article asked, &amp;#8220;When'
+summary: 'A recent FedTech Magazine article asked, &#8220;When'
 authors:
   - jherman
 categories:

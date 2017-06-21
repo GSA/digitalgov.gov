@@ -2,7 +2,7 @@
 url: /2014/10/09/bullying-help-prevent-and-protect-anytime-anywhere-on-any-device/
 date: 2014-10-09 11:08:02 -0400
 title: 'Bullying: Help Prevent and Protect Anytime, Anywhere, on Any Device'
-summary: 'I don&amp;#8217;t&nbsp;remember being bullied as a kid, but my younger sister once was. When she was in junior high, a jealous&nbsp;schoolmate who ran in a small tough pack threatened to &amp;#8220;beat up&amp;#8221; my quiet, mild-mannered sibling at an unspecified time&nbsp;and day during&nbsp;her&nbsp;walk home from school. Sound familiar? Back then (in an era before text messaging'
+summary: 'I don&#8217;t&nbsp;remember being bullied as a kid, but my younger sister once was. When she was in junior high, a jealous&nbsp;schoolmate who ran in a small tough pack threatened to &#8220;beat up&#8221; my quiet, mild-mannered sibling at an unspecified time&nbsp;and day during&nbsp;her&nbsp;walk home from school. Sound familiar? Back then (in an era before text messaging'
 categories:
   - Mobile
 tag:

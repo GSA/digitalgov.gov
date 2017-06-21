@@ -2,7 +2,7 @@
 url: /2013/11/01/federal-government-challenges-and-contests/
 date: 2013-11-01 1:10:14 -0400
 title: Federal Government Challenges and Contests
-summary: 'What is a Challenge? In a challenge, a &amp;#8220;seeker&amp;#8221; challenges &amp;#8220;solvers&amp;#8221; to identify a solution to a particular problem, or rewards&nbsp;contestants&nbsp;for accomplishing a goal. The solutions may be: ideas, designs, logos, videos, finished products, digital games, or mobile applications. There are many challenge success stories in government: Challenges Conducted in 2011 Under America COMPETES Act'
+summary: 'What is a Challenge? In a challenge, a &#8220;seeker&#8221; challenges &#8220;solvers&#8221; to identify a solution to a particular problem, or rewards&nbsp;contestants&nbsp;for accomplishing a goal. The solutions may be: ideas, designs, logos, videos, finished products, digital games, or mobile applications. There are many challenge success stories in government: Challenges Conducted in 2011 Under America COMPETES Act'
 authors:
   - ktrebon
 categories:

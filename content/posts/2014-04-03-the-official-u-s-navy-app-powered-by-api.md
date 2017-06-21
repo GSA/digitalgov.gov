@@ -2,7 +2,7 @@
 url: /2014/04/03/the-official-u-s-navy-app-powered-by-api/
 date: 2014-04-03 1:29:09 -0400
 title: 'The Official U.S. Navy App: Powered by API'
-summary: 'As a &amp;#8220;warfighting-ready force,&amp;#8221; the U.S. Navy can bring it wherever and whenever it&amp;#8217;s needed around the globe. Now this armed force is bringing it&mdash;the latest news, video, photos, multimedia, special events and more&mdash;to sailors and their families through a'
+summary: 'As a &#8220;warfighting-ready force,&#8221; the U.S. Navy can bring it wherever and whenever it&#8217;s needed around the globe. Now this armed force is bringing it&mdash;the latest news, video, photos, multimedia, special events and more&mdash;to sailors and their families through a'
 categories:
   - API
   - Mobile

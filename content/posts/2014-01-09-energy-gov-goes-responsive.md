@@ -2,7 +2,7 @@
 url: /2014/01/09/energy-gov-goes-responsive/
 date: 2014-01-09 1:44:28 -0400
 title: Energy.gov goes Responsive
-summary: ' Did this week&amp;#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&amp;#8217;re in the hunt for a new furnace or looking for more efficient ways to keep'
+summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to keep'
 categories:
   - Mobile
 tag:

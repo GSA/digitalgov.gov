@@ -2,7 +2,7 @@
 url: /2015/08/31/mobile-content-less-is-more/
 date: 2015-08-31 1:00:57 -0400
 title: 'Mobile Content: Less is More'
-summary: 'With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers&mdash;&amp;#8221;there&amp;#8217;s&nbsp;too much information!&amp;#8221; While both desktop monitor and smartphone screen sizes are&nbsp;growing, there is still no comparison. At our desks, many of us are&nbsp;using a 24 inch (or even bigger) monitor. How big is your'
+summary: 'With 14 test cycles under our belt, the Federal CrowdSource Mobile Testing Program has heard one recurring theme from our testers&mdash;&#8221;there&#8217;s&nbsp;too much information!&#8221; While both desktop monitor and smartphone screen sizes are&nbsp;growing, there is still no comparison. At our desks, many of us are&nbsp;using a 24 inch (or even bigger) monitor. How big is your'
 authors:
   - david-fern
 categories:

@@ -1,8 +1,8 @@
 ---
 url: /2014/07/01/big-data-open-data-the-federal-agencies/
 date: 2014-07-01 10:00:02 -0400
-title: 'Big Data, Open Data &#038; the Federal Agencies'
-summary: 'Open data and big data&mdash;and the responsible management and protection of that data&mdash;are key components of the President&rsquo;s agenda to drive innovation and economic growth. On Thursday, June 19, leaders from civil society, industry, academia, and 40 federal departments and agencies met at Georgetown University&amp;#8217;s McCourt School of Public Policy&amp;#8217;s Massive Data Institute to discuss'
+title: 'Big Data, Open Data & the Federal Agencies'
+summary: 'Open data and big data&mdash;and the responsible management and protection of that data&mdash;are key components of the President&rsquo;s agenda to drive innovation and economic growth. On Thursday, June 19, leaders from civil society, industry, academia, and 40 federal departments and agencies met at Georgetown University&#8217;s McCourt School of Public Policy&#8217;s Massive Data Institute to discuss'
 authors:
   - nick-sinai
   - nicole-wong

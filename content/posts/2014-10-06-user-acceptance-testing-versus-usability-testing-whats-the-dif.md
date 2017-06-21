@@ -2,7 +2,7 @@
 url: /2014/10/06/user-acceptance-testing-versus-usability-testing-whats-the-dif/
 date: 2014-10-06 10:00:50 -0400
 title: 'User Acceptance Testing Versus Usability Testing&#8230;What&#8217;s the Dif?'
-summary: 'Editor&amp;#8217;s note: Building off the great discussion started around&nbsp;Customer Experience,&nbsp;we&rsquo;re looking at the difference between User Acceptance Testing and Usability Testing.&nbsp; If you develop software, you&amp;#8217;ve probably heard of User Acceptance Testing. You may also have heard the term Usability Testing. Same thing, right?&nbsp;Nope. And confusion here can cause big problems. '
+summary: 'Editor&#8217;s note: Building off the great discussion started around&nbsp;Customer Experience,&nbsp;we&rsquo;re looking at the difference between User Acceptance Testing and Usability Testing.&nbsp; If you develop software, you&#8217;ve probably heard of User Acceptance Testing. You may also have heard the term Usability Testing. Same thing, right?&nbsp;Nope. And confusion here can cause big problems.'
 authors:
   - joel-virothaisakun
 categories:

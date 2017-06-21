@@ -2,7 +2,7 @@
 url: /2012/10/15/gsa-intranet-insite-usability-case-study/
 date: 2012-10-15 12:21:03 -0400
 title: 'GSA Intranet (Insite) &#8211; Usability Case Study'
-summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks can make a site significantly easier to navigate, or make important but hidden content pop off the page. The DigitalGov User Experience Program helped&nbsp;test Insite, GSA&amp;#8217;s intranet, on September 21, 2011.&nbsp;GSA took the feedback from their usability test and made some changes to the'
+summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks can make a site significantly easier to navigate, or make important but hidden content pop off the page. The DigitalGov User Experience Program helped&nbsp;test Insite, GSA&#8217;s intranet, on September 21, 2011.&nbsp;GSA took the feedback from their usability test and made some changes to the'
 authors:
   - jonathan-rubin
 categories:

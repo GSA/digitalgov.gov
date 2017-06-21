@@ -1,8 +1,8 @@
 ---
 url: /2015/02/26/the-internet-of-everything-small-business-opportunities/
 date: 2015-02-26 10:00:53 -0400
-title: 'The Internet of Everything &#038; Small Business Opportunities'
-summary: 'In 1995, the World Wide Web, which had been fairly niche up until then, attracted mainstream attention. What followed were 20 years of business and social innovations in how we humans chose to use the web at work, school, at home, and with our friends. The web and its &amp;#8220;Web 2.0&amp;#8221; successor allowed us to'
+title: 'The Internet of Everything & Small Business Opportunities'
+summary: 'In 1995, the World Wide Web, which had been fairly niche up until then, attracted mainstream attention. What followed were 20 years of business and social innovations in how we humans chose to use the web at work, school, at home, and with our friends. The web and its &#8220;Web 2.0&#8221; successor allowed us to'
 authors:
   - david-a-bray
   - g-nagesh-rao

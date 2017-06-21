@@ -2,7 +2,7 @@
 url: /2014/11/21/results-2014-federal-user-experience-survey/
 date: 2014-11-21 10:00:29 -0400
 title: 'Results: 2014 Federal User Experience Survey'
-summary: 'The cream of the crop of the top of the mountain of ALL&nbsp;of the surveys I run has to be the Federal User Experience (UX) Survey. It&amp;#8217;s the second time I&amp;#8217;ve had the privilege of running it with Jean Fox, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning'
+summary: 'The cream of the crop of the top of the mountain of ALL&nbsp;of the surveys I run has to be the Federal User Experience (UX) Survey. It&#8217;s the second time I&#8217;ve had the privilege of running it with Jean Fox, research psychologist extraordinaire from the Bureau of Labor Statistics. When I start thinking about learning'
 authors:
   - jonathan-rubin
 categories:

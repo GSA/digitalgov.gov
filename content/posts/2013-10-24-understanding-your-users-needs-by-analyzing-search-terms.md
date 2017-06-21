@@ -2,7 +2,7 @@
 url: /2013/10/24/understanding-your-users-needs-by-analyzing-search-terms/
 date: 2013-10-24 2:24:12 -0400
 title: 'Understanding Your Users&#8217; Needs By Analyzing Search Terms'
-summary: 'Analyzing your visitors&amp;#8217; search terms can help you better understand their needs. It can provide valuable data about the content and organization of the content on your site. Create a Semi-Automated Report of Terms Here&amp;#8217;s how to create a semi-automated report for analyzing large amounts of search data on a regular basis. A human still'
+summary: 'Analyzing your visitors&#8217; search terms can help you better understand their needs. It can provide valuable data about the content and organization of the content on your site. Create a Semi-Automated Report of Terms Here&#8217;s how to create a semi-automated report for analyzing large amounts of search data on a regular basis. A human still'
 authors:
   - michelle-chronister
 categories:

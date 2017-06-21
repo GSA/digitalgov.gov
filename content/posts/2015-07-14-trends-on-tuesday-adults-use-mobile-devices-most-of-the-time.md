@@ -2,7 +2,7 @@
 url: /2015/07/14/trends-on-tuesday-adults-use-mobile-devices-most-of-the-time/
 date: 2015-07-14 10:00:29 -0400
 title: 'Trends on Tuesday: Adults Use Mobile Devices Most of the Time'
-summary: 'Millennial Media released a new research report, Connected Consumers: Gaining Insights Across Screens, examining U.S. digital audiences from January 2014 until January 2015 with some interesting information that reinforces trends we&rsquo;ve covered before. If your users fall into these demographics, you need to mobilize the content&nbsp;they&amp;#8217;re accessing on mobile devices. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-510-Share-of-Monthly-Online-Minutes-by-Audience.jpg&quot; alt=&quot;Share of monthly'
+summary: 'Millennial Media released a new research report, Connected Consumers: Gaining Insights Across Screens, examining U.S. digital audiences from January 2014 until January 2015 with some interesting information that reinforces trends we&rsquo;ve covered before. If your users fall into these demographics, you need to mobilize the content&nbsp;they&#8217;re accessing on mobile devices. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-510-Share-of-Monthly-Online-Minutes-by-Audience.jpg" alt="Share of monthly'
 authors:
   - wsullivan
 categories:

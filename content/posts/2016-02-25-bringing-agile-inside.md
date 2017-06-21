@@ -2,7 +2,7 @@
 url: /2016/02/25/bringing-agile-inside/
 date: 2016-02-25 1:00:58 -0400
 title: Bringing Agile Inside
-summary: 'We hear a lot about agile software development being used in work with customers and end users. User stories are developed, coders and programmers turn them into prototypes, then testing is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&amp;#8217;s a'
+summary: 'We hear a lot about agile software development being used in work with customers and end users. User stories are developed, coders and programmers turn them into prototypes, then testing is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&#8217;s a'
 authors:
   - ktrebon
 categories:

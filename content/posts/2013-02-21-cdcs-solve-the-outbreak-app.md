@@ -2,7 +2,7 @@
 url: /2013/02/21/cdcs-solve-the-outbreak-app/
 date: 2013-02-21 12:38:31 -0400
 title: 'CDC&#8217;s Solve the Outbreak App'
-summary: 'The Centers for Disease Control has launched a new table app Solve the Outbreak designed to teach users how CDC&amp;#8217;s disease detectives save lives everyday. In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs:'
+summary: 'The Centers for Disease Control has launched a new table app Solve the Outbreak designed to teach users how CDC&#8217;s disease detectives save lives everyday. In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs:'
 categories:
   - Mobile
 tag:

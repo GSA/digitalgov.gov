@@ -2,7 +2,7 @@
 url: /2016/06/01/grow-your-content-base-with-new-contributions-to-the-hhs-syndication-storefront/
 date: 2016-06-01 10:00:39 -0400
 title: Grow Your Content Base with New Contributions to the HHS Syndication Storefront
-summary: 'We have written about syndication&nbsp;and its successes&nbsp;before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg&quot; alt=&quot;Screen capture of the National Institute of Heart'
+summary: 'We have written about syndication&nbsp;and its successes&nbsp;before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg" alt="Screen capture of the National Institute of Heart'
 authors:
   - christen-geiler
 categories:

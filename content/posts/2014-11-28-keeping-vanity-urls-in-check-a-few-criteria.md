@@ -2,7 +2,7 @@
 url: /2014/11/28/keeping-vanity-urls-in-check-a-few-criteria/
 date: 2014-11-28 10:00:53 -0400
 title: 'Keeping Vanity URLs in Check: A Few Criteria'
-summary: '  Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers listserv, several'
+summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers listserv, several'
 authors:
   - andreanocesigritz
 categories:

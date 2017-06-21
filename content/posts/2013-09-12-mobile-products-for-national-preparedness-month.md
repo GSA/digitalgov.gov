@@ -2,7 +2,7 @@
 url: /2013/09/12/mobile-products-for-national-preparedness-month/
 date: 2013-09-12 10:05:16 -0400
 title: Mobile Products for National Preparedness Month
-summary: 'September is National Preparedness Month and there are a number of government mobile products to help you prepare for emergencies. FEMA&amp;#8216;s mobile app&nbsp;contains preparedness information for different types of disasters, an interactive checklist for emergency kits, a section to plan emergency meeting locations, information on how to stay safe and recover after a disaster, a'
+summary: 'September is National Preparedness Month and there are a number of government mobile products to help you prepare for emergencies. FEMA&#8216;s mobile app&nbsp;contains preparedness information for different types of disasters, an interactive checklist for emergency kits, a section to plan emergency meeting locations, information on how to stay safe and recover after a disaster, a'
 categories:
   - Mobile
 tag:

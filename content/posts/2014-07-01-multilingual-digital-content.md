@@ -2,7 +2,7 @@
 url: /2014/07/01/multilingual-digital-content/
 date: 2014-07-01 10:00:13 -0400
 title: Multilingual Digital Content
-summary: 'Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&amp;#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience. The need is increasing The number of people who'
+summary: 'Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience. The need is increasing The number of people who'
 authors:
   - lgodfrey
   - lmartinez

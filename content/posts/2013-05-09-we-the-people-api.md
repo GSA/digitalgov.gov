@@ -2,7 +2,7 @@
 url: /2013/05/09/we-the-people-api/
 date: 2013-05-09 9:09:16 -0400
 title: We the People API
-summary: '&amp;#8220;APIs for WhiteHouse.gov? What in the heck does that mean?&amp;#8221; Like President Obama, you may be asking the same question. DigitalGov University set out to answer that question during its API Standards from the White House webinar&nbsp;with Leigh Heyman and Bryan Hirsch, from the White House Office of Digital Strategy. [youtube=http://www.youtube.com/watch?v=-bJo6zii7lw&amp;amp;w=600] After launching the We'
+summary: '&#8220;APIs for WhiteHouse.gov? What in the heck does that mean?&#8221; Like President Obama, you may be asking the same question. DigitalGov University set out to answer that question during its API Standards from the White House webinar&nbsp;with Leigh Heyman and Bryan Hirsch, from the White House Office of Digital Strategy. [youtube=http://www.youtube.com/watch?v=-bJo6zii7lw&w=600] After launching the We'
 authors:
   - gray-brooks
 categories:

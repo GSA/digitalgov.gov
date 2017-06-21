@@ -1,7 +1,7 @@
 ---
 url: /2016/04/06/remixing-content-shining-sunlight-on-the-sunshot-initiatives-solar-energy-rd-project-map/
 date: 2016-04-06 10:00:45 -0400
-title: 'Remixing Content: Shining Sunlight on the SunShot Initiative’s Solar Energy R&#038;D Project Map'
+title: 'Remixing Content: Shining Sunlight on the SunShot Initiative’s Solar Energy R&D Project Map'
 summary: 'With more than 400 projects in their portfolio, it can be difficult for the Department of Energy&rsquo;s SunShot Initiative to adequately convey the scope of the office&rsquo;s work. The team can list their projects, organize them by program area, and write blog posts about them, but none of that has the same impact as seeing'
 authors:
   - susanna-murley

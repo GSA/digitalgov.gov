@@ -2,7 +2,7 @@
 url: /2013/03/20/census-takes-march-madness-to-a-new-level/
 date: 2013-03-20 1:38:03 -0400
 title: Census takes “March Madness” to a New Level
-summary: ' Government agencies are working hard &nbsp;to communicate complex mountains of data&nbsp;clearly and effectively through graphics. The&nbsp;Census Bureau, known for their great work creating visual images, has done just that. They have&nbsp;created a great data visualization game just in time for March Madness! The game, &amp;#8220;Population Bracketology&amp;#8221; tests your knowledge&nbsp;of state'
+summary: ' Government agencies are working hard &nbsp;to communicate complex mountains of data&nbsp;clearly and effectively through graphics. The&nbsp;Census Bureau, known for their great work creating visual images, has done just that. They have&nbsp;created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; tests your knowledge&nbsp;of state'
 authors:
   - jthalls
 categories:

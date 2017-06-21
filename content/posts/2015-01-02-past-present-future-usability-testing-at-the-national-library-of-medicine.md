@@ -2,7 +2,7 @@
 url: /2015/01/02/past-present-future-usability-testing-at-the-national-library-of-medicine/
 date: 2015-01-02 11:00:28 -0400
 title: 'Past, Present, Future: Usability Testing at the National Library of Medicine'
-summary: 'Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&amp;#8217;s Web teams have actively sought and used usability testing tools; we&nbsp;have run &amp;#8220;full service&amp;#8221; usability testing almost yearly for various Web properties for'
+summary: 'Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&#8217;s Web teams have actively sought and used usability testing tools; we&nbsp;have run &#8220;full service&#8221; usability testing almost yearly for various Web properties for'
 authors:
   - joanna-widzer
   - katie-chan

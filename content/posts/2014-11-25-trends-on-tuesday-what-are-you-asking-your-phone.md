@@ -2,7 +2,7 @@
 url: /2014/11/25/trends-on-tuesday-what-are-you-asking-your-phone/
 date: 2014-11-25 10:00:33 -0400
 title: 'Trends on Tuesday: What Are You Asking Your Phone?'
-summary: 'What&rsquo;s the weather like? When does the next movie start? What time does Target close? These are just a few questions that I may ask my phone&nbsp;on any given day. According to a recent Mobile Voice Study led by Google, I&amp;#8217;m not the only having conversations with&nbsp;my phone. 55% of teens aged 13-18 use voice'
+summary: 'What&rsquo;s the weather like? When does the next movie start? What time does Target close? These are just a few questions that I may ask my phone&nbsp;on any given day. According to a recent Mobile Voice Study led by Google, I&#8217;m not the only having conversations with&nbsp;my phone. 55% of teens aged 13-18 use voice'
 authors:
   - tjohnson
 categories:
