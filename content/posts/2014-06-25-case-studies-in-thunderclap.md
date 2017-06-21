@@ -2,7 +2,7 @@
 url: /2014/06/25/case-studies-in-thunderclap/
 date: 2014-06-25 12:37:31 -0400
 title: Case Studies in Thunderclap
-summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600] &nbsp; What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
+summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]   What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
 authors:
   - alison-lemon
 categories:
@@ -22,7 +22,7 @@ Now that Thunderclap has been [approved for government use](https://www.WHATEVER
 
 [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]
 
-&nbsp;
+ 
 
 ## What Makes a Thunderclap?
 

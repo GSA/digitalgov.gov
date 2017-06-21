@@ -26,6 +26,6 @@ When Alex Snyder started working at Peace Corps a few years ago, he had an oppor
 
 With their Media Library, Peace Corps gets new photo submissions every day. Volunteers are using the Media Library to spread the word and talk about their work. Alex reviews all of the submissions and shares them with fellow members of the communications team so that they can continue to showcase the work of Peace Corps through visual storytelling.
 
-&nbsp;
+ 
 
 _**Danielle Brigida** is the National Social Media Manager for U.S. Fish and Wildlife Service. She&#8217;s a wildlife geek who loves being outside and playing online with purpose._

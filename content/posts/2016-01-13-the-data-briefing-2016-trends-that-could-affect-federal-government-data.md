@@ -54,6 +54,6 @@ _Each week, The Data Briefing showcases the latest federal data news and trends.
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](http://connect.WHATEVER/subscribe)!

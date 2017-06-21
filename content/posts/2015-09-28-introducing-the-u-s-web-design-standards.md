@@ -97,6 +97,6 @@ _A heartfelt thanks to Mollie Bates, Nick Bristow, Danny Chapman, Scott Cranfill
 
 _And finally, a special shout out to Julia Elman for her hard work in getting this thing off the ground and to John Yuda for seeing us through to the end!_
 
-&nbsp;
+ 
 
 This article was originally published on the [18F blog](https://18f.gsa.gov/2015/09/28/web-design-standards/) by Mollie Ruskin of USDS and Carolyn Dew, Maya Benari and Colin MacArthur, 18F team members.

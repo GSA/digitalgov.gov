@@ -54,7 +54,7 @@ Moving the Federal Government to modern infrastructure, such as cloud-based solu
 
 The public will have 30-days to submit input and help us create the foundation for a more modern government. So join us and provide your thoughts on the proposed guidance [HERE](http://policy.cio.gov/it-modernization).
 
-&nbsp;
+ 
 
 _Tony Scott is the U.S. Chief Information Officer._
 

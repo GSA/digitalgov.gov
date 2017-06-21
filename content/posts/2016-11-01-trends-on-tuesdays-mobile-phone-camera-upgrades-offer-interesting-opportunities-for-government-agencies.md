@@ -40,7 +40,7 @@ When Google and Apple both announced their annual flagship phone upgrades this p
 </p>
 
 <p>
-  &nbsp;
+   
 </p>
 
 <p>

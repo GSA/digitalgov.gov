@@ -34,7 +34,7 @@ The first major project I was involved with was really enlightening (and I shoul
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" %}
 
-&nbsp;
+ 
 
 ## 2. Use their language, not yours
 

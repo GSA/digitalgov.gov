@@ -2,7 +2,7 @@
 url: /2014/02/06/join-hhs-ignite-innovation-day-on-friday/
 date: 2014-02-06 4:23:22 -0400
 title: Join HHS Ignite Innovation Day on Friday
-summary: 'This post was originally published on the IDEA Lab blog by Read Holman, HHS&nbsp;Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab. Launched last year in &ldquo;beta&rdquo; by Secretary Sebelius,&nbsp;HHS Ignite&nbsp;supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS&rsquo;s&nbsp;IDEA Lab, which'
+summary: 'This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab. Launched last year in &ldquo;beta&rdquo; by Secretary Sebelius, HHS Ignite supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS&rsquo;s IDEA Lab, which'
 authors:
   - andreanocesigritz
 categories:
@@ -38,7 +38,7 @@ We begin accepting proposals for the next round of Ignite on March 3rd. <a href=
 
 This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab.
 
-&nbsp;
+ 
 
 <div>
 </div>

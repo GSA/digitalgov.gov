@@ -48,6 +48,6 @@ In traditional waterfall methods, it’s hard for [interested contributors](http
 
 _This article is the first in a two part series of how open, agile development has benefitted the Open Opportunities platform. In the next article, DigitalGov will delve into the view from the outside: how and why people outside of government got involved in contributing to Open Opportunities, and the keys to a good experience for those contributors._
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

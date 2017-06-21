@@ -53,4 +53,4 @@ If you can get people to agree to collect data in a spreadsheet, you can make de
 
 Regression analysis can be done in a spreadsheet, added Fox. You don’t have to invest a huge amount of money. “We are all analysts these days, and making sure you leverage the data to make the experience of websites better for consumers is really our duty. It’s what we do,” Fox explained.
 
-&nbsp;
+ 

@@ -35,7 +35,7 @@ Census Bureau Director John Thompson recently recorded a video interview explain
 
 [youtube=http://www.youtube.com/watch?v=bx2YzdR0kLo&w=600]
 
-&nbsp;
+ 
 
 Stop searching and save time! You can also download other mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/).
 

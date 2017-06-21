@@ -2,7 +2,7 @@
 url: /2015/01/29/how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015/
 date: 2015-01-29 3:19:04 -0400
 title: How Government will Accelerate Anytime, Anywhere Services and Information in 2015
-summary: 'Innovative wearables,&nbsp;stronger wifi&nbsp;and more&nbsp;3D printing&nbsp;have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop new habits and desires based on new trends. Government must accelerate its customer service approach with anytime, anywhere efforts to keep up. Here&rsquo;s'
+summary: 'Innovative wearables, stronger wifi and more 3D printing have been among the many projections for the future of mobile in 2015. Whatever comes to pass, we can be certain that the anytime, anywhere user will develop new habits and desires based on new trends. Government must accelerate its customer service approach with anytime, anywhere efforts to keep up. Here&rsquo;s'
 authors:
   - jparcell
 categories:
@@ -76,4 +76,4 @@ In addition, agencies are adopting the “Create Once, Publish Everywhere” app
 
 Want to learn more, do more? [Join the Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile"), and get involved by helping us discover new government mobile [products](https://midas.18f.us/tasks/15), [code](https://midas.18f.us/tasks/19) and [trends](https://midas.18f.us/tasks/26).
 
-&nbsp;
+ 

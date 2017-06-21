@@ -81,7 +81,7 @@ Another example of using government data to help make people’s lives better wa
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-190-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg" alt="Images courtesy of American Red Cross and British Red Cross; Canadian Forces; and Kathmandu Living Labs" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/1275-x-401-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg)
 
-&nbsp;
+ 
 
 ### Spotlight: Criminal and Social Justice
 

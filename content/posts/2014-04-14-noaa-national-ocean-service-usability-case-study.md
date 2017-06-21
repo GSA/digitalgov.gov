@@ -79,13 +79,13 @@ tag:
 
 GSA’s search platform, [DigitalGov Search](https://www.WHATEVER/services/search/), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
 
-&nbsp;
+ 
 
 ### NOAA Current Search Page &#8211; (No Before Image Available)
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-search.jpg" alt="NOAA screenshot of the search page after" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-search.jpg)
 
-&nbsp;
+ 
 
 ## 
 
@@ -95,7 +95,7 @@ GSA’s search platform, [DigitalGov Search](https://www.WHATEVER/services/searc
   In the spirit of long vertical scrolling pages, we decided to try out a current design trend and place more content in our footer to increase chances for visitor discovery of new content.
 </p>
 
-&nbsp;
+ 
 
 #### NOAA Page Footer &#8211; Before
 
@@ -117,7 +117,7 @@ We still have all policy-required links in our footer, but it’s now a more int
   Our posts used to be very dense and hard to parse.
 </p>
 
-&nbsp;
+ 
 
 #### NOAA Story Page &#8211; Before
 
@@ -131,13 +131,13 @@ We still have all policy-required links in our footer, but it’s now a more int
   Then we have the story. We also added an optional &#8216;Did You Know?&#8217; sidebar box to convey related information about the story that isn&#8217;t integral but is nice additional information for motivated readers. We think this is a better approach to reach people, but it&#8217;s still too early to tell from our analytics if we&#8217;re having a noticeable increase in pageviews.
 </p>
 
-&nbsp;
+ 
 
 #### NOAA Story page &#8211; After
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-story-after.jpg" alt="NOAA screenshot of the story page after" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-story-after.jpg)
 
-&nbsp;
+ 
 
 ## 5. NOAA Longform Story Page
 
@@ -147,7 +147,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
 #### NOAA Longform Story Page &#8211;  Before
 
-&nbsp;
+ 
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-longform-before.jpg" alt="NOAA screenshot of the longform story page before" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-longform-before.jpg)
 
@@ -159,7 +159,7 @@ We still have all policy-required links in our footer, but it’s now a more int
   Note that minifying an image is an additional step that we do after &#8216;Save for Web&#8217; in Photoshop. While Photoshop&#8217;s &#8216;Save for Web&#8217; is also a compression process, it tends to leave images larger than they need to be. JPEGMini does a great job at shaving off additional bytes while keeping image quality in tact
 </p>
 
-&nbsp;
+ 
 
 #### NOAA Longform Story Page &#8211;  After
 

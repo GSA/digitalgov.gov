@@ -2,7 +2,7 @@
 url: /2014/09/17/save-the-date-techstate-mobile-diplomacy-event/
 date: 2014-09-17 1:57:19 -0400
 title: 'Save the Date: Tech@State Mobile Diplomacy Event'
-summary: 'Sign up now to join fellow MobileGov Community of Practice members for Tech@State&#8217;s Mobile Diplomacy conference on Friday, October 3, 2014! Your attendance will let you participate in a variety of panels, ignite and breakout sessions about mobile development relevant to all digital government innovators.&nbsp;Members of the Mobile'
+summary: 'Sign up now to join fellow MobileGov Community of Practice members for Tech@State&#8217;s Mobile Diplomacy conference on Friday, October 3, 2014! Your attendance will let you participate in a variety of panels, ignite and breakout sessions about mobile development relevant to all digital government innovators. Members of the Mobile'
 authors:
   - jparcell
 categories:
@@ -26,4 +26,4 @@ The event is one of the first open to the public, government hosted, mobile-only
 
 To find out more information and register for their event, visit the [Eventbrite](http://www.eventbrite.com/e/techstate-mobile-diplomacy-registration-13125892899?aff=gsa) page. You can also join the conversation on Twitter with [#techatstate](https://twitter.com/search?q=%23techatstate) and by following [@techATstate](https://twitter.com/techATstate).
 
-&nbsp;
+ 

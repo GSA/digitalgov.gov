@@ -27,7 +27,7 @@ Taking advantage of a growing audience on YouTube, and to expand engagement on G
 
 [youtube=http://www.youtube.com/watch?v=SRYwxqE6Omg&w=600]
 
-&nbsp;
+ 
 
 Small business development, in all its variegated forms, industries and locations, is not a one-size-fits-all narrative. Nor is it explained in 140 characters on Twitter or even a few Facebook or blog posts. Nevertheless, the aim these efforts is to humanize the conversation early and effectively, in a format that is accessible to any Latino entrepreneur.
 

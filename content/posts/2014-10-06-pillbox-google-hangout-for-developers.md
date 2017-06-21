@@ -2,7 +2,7 @@
 url: /2014/10/06/pillbox-google-hangout-for-developers/
 date: 2014-10-06 11:00:48 -0400
 title: Pillbox Google Hangout for Developers
-summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a&nbsp;Google Hangout to talk about developing with the API, data, and open source code from Pillbox. I (Pillbox project manager), Mark Silverberg of Social Health Insights'
+summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a Google Hangout to talk about developing with the API, data, and open source code from Pillbox. I (Pillbox project manager), Mark Silverberg of Social Health Insights'
 authors:
   - david-hale
 categories:

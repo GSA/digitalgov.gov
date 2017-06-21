@@ -26,7 +26,7 @@ Sessions are either “stateful” or “stateless.” If one of the parties to 
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/FDAgov-API-authentication.jpg" alt="FDAgov-API-authentication" %}
 
-&nbsp;
+ 
 
 Authenticating who is interacting with an API during a session is important to the security of the API. One way to be secure is to use a username and password combination, but many API providers prefer to use API keys. API keys can be longer than passwords and much more random so that it is very difficult for a third party to spoof an API key. API keys also make it easier to keep the API session stateless. A stateful API session that uses the username and password combination would have to store the username and password making it riskier that the security information would be discovered.
 

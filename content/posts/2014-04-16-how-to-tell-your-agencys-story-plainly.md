@@ -41,12 +41,12 @@ Write for a government website? You’ll need the top Web writing skills from th
 
 [youtube=http://www.youtube.com/watch?v=j9FCji6-UJE&w=600]
 
-&nbsp;
+ 
 
 Write for an agency’s blog, Facebook, or Twitter account? You need to do social media and plain language at the same time:
 
 [youtube=http://www.youtube.com/watch?v=W756zIegQBs&w=600]
 
-&nbsp;
+ 
 
 _**Katherine Spivey** is the General Services Administration (GSA)&#8217;s Plain Language Launcher and co-chair of the Plain Language Action and Information Network (PLAIN)._

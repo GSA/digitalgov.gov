@@ -2,7 +2,7 @@
 url: /2012/11/30/socialgov-summit-highlights-accessibility-challenges/
 date: 2012-11-30 1:58:51 -0400
 title: '#SocialGov Summit Highlights Accessibility Challenges'
-summary: 'The recent&nbsp;#SocialGov Summit on accessibility&nbsp;of government social media raised emerging issues faced by agencies in their effort to make sure the information citizens need is communicated to them when &nbsp;and how they need it. For many, the most eye opening&nbsp;exercise&nbsp;was simply to hear their tweets read back to them through an iPhone VoiceOver screen reader,'
+summary: 'The recent #SocialGov Summit on accessibility of government social media raised emerging issues faced by agencies in their effort to make sure the information citizens need is communicated to them when  and how they need it. For many, the most eye opening exercise was simply to hear their tweets read back to them through an iPhone VoiceOver screen reader,'
 authors:
   - jherman
 categories:
@@ -31,4 +31,4 @@ In our upcoming post, we&#8217;ll look at all of the discussion from our hosts t
 
 In the meantime, what are some of the accessibility programs you look most to in the government, and what lessons have you learned we can all benefit from?
 
-&nbsp;
+ 

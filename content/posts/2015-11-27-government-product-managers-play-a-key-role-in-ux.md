@@ -35,8 +35,8 @@ I recently completed a Product Development and Management class. Here are half a
 
 Several federal agencies have product managers or teams (IRS, OPM for USAJOBS.gov). Some agencies, like Consumer Financial Protection Board, have a user experience (UX) department. Tell us what you have at the agency where you work!
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

@@ -24,4 +24,4 @@ The trend to larger screen sizes should be noted by developers as people are [sp
 
 What’s an agency to do with the influx of screen sizes? A [mobile first strategy](https://www.youtube.com/watch?v=lTYZTwWKaNI&feature=youtube_gdata) will go a long way towards connecting agencies with smartphone and phablet users. Check out our content from [DigitalGov Mobile Gov month](https://www.WHATEVER/2014/10/20/welcome-to-mobilegov-month-on-digitalgov/) and join the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/) so your agency can be on top of all screens sizes—especially phablets!
 
-&nbsp;
+ 

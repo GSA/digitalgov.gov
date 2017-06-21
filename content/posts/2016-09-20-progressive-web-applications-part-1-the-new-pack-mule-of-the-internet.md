@@ -2,7 +2,7 @@
 url: /2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/
 date: 2016-09-20 11:00:19 -0400
 title: 'Progressive Web Applications, Part 1: the New Pack Mule of the Internet'
-summary: 'A&nbsp;mule&nbsp;is the hybrid offspring&nbsp;of a&nbsp;male donkey&nbsp;and a&nbsp;horse.&nbsp;This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound,&nbsp;and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins.'
+summary: 'A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins.'
 authors:
   - david-fern
 categories:
@@ -61,6 +61,6 @@ To save these resources, the Web page registers the service worker with the brow
 
 The Web Application Manifest is a JSON script that makes it possible for the Web application to assign a home screen icon, theme and background color to the app, define a [splash screen](https://developers.google.com/web/updates/2015/10/splashscreen?hl=en), and run the web app in full-screen mode as a standalone application.
 
-&nbsp;
+ 
 
 _In the coming weeks, we’ll explore some of the [benefits and challenges of using PWAs](https://www.WHATEVER/2016/10/13/progressive-web-applications-part-2-pros-cons-and-looking-ahead/) and some real world examples. Stay tuned!_

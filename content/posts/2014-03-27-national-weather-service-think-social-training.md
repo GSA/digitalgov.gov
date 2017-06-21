@@ -2,7 +2,7 @@
 url: /2014/03/27/national-weather-service-think-social-training/
 date: 2014-03-27 1:00:02 -0400
 title: 'National Weather Service: Think Social Training'
-summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public.&nbsp;As these accounts were being'
+summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were being'
 authors:
   - tim-brice
 categories:
@@ -22,8 +22,8 @@ During the presentations, NWS employees interacted with presenters and each othe
 
 In addition to the training, a Google Sites page was created to archive links to the presentations and videos. The page is also a place for best practices and templates to be shared. The training and hard work of NWS employees has born out some great results. As of March 1st, the NWS Facebook pages had a combined total of almost 2,000,000 fans, and their Twitter accounts had over 800,000 combined followers. NWS Facebook posts are used by local and national media outlets in weather briefings and NWS tweets are consistently the [top U.S. Government tweets](http://shiningsea.measuredvoice.com/). The National Weather Service is well on its way to taking full advantage of getting our messages out via various social media channels.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

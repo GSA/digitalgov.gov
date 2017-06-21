@@ -39,4 +39,4 @@ This report provides data in two tabs—one for the performance of specific cont
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" %}
 
-&nbsp;
+ 

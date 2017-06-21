@@ -2,7 +2,7 @@
 url: /2013/10/23/mobile-code-sharing-catalog-snippet-leaflet/
 date: 2013-10-23 2:07:23 -0400
 title: 'Mobile Code Sharing Catalog Snippet: Leaflet'
-summary: 'Would you like help incorporating&nbsp;mobile-friendly maps in your mobile sites and/or web apps? Check out&nbsp;Leaflet, available on the Mobile Code Sharing Catalog, a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin of CloudMade with a team of dedicated contributors. Weighing just'
+summary: 'Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps? Check out Leaflet, available on the Mobile Code Sharing Catalog, a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin of CloudMade with a team of dedicated contributors. Weighing just'
 categories:
   - Code
   - Mobile

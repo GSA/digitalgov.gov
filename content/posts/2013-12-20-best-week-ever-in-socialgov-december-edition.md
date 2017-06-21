@@ -2,7 +2,7 @@
 url: /2013/12/20/best-week-ever-in-socialgov-december-edition/
 date: 2013-12-20 9:42:53 -0400
 title: 'Best Week Ever in #SocialGov: December Edition'
-summary: '(This is the next installment of an&nbsp;ongoing series&nbsp;charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.) &nbsp; From where'
+summary: '(This is the next installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)   From where'
 authors:
   - jherman
 categories:
@@ -17,7 +17,7 @@ _(This is the next installment of an <a href="https://digitalgov.sites.usa.gov/2
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Best-moth-ever.jpg" alt="Best month ever" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Best-moth-ever.jpg)
 
-&nbsp;
+ 
 
 From where I sit, there&#8217;s no better way to wrap up a great year than by taking a look at the future of emerging digital government with the <a href="https://digitalgov.sites.usa.gov/communities/social-media/" target="_blank"><strong>#Socialgov Community</strong></a>. Agencies aren’t only advancing social technologies for more effective and efficient public services for citizens, but are reaching across missions to collaboratively develop new strategies and policies.
 

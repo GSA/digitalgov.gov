@@ -2,7 +2,7 @@
 url: /2016/12/02/fipnet-digital-imaging-partner-guidance-now-available/
 date: 2016-12-02 2:00:55 -0400
 title: FIPNet Digital Imaging Partner Guidance Now Available
-summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.&nbsp; Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
+summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.  Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
 authors:
   - federal-depository-library-program
 categories:
@@ -32,7 +32,7 @@ The Guidance document is provided to encourage libraries and other stakeholders 
 
 If you are planning a digital imaging project, would like to contribute content to FDsys (**govinfo**), or just have questions about this guidance document, please [contact us by email](mailto:PreserveFedInfo@gpo.gov).
 
-&nbsp;
+ 
 
 _***govinfo** is GPO’s beta website that will eventually replace the FDsys website. The availability of this new website has no impact on the content, metadata, preservation repository, application of digital signatures, or any other back end processing of the content. This means all content available through this site is the same content you would get through the FDsys website. Simply put, **govinfo** is the new front door to accessing the same content and it is available at [www.govinfo.gov](https://www.govinfo.gov)._
 

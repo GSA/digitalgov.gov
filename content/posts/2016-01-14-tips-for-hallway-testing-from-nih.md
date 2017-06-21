@@ -37,10 +37,10 @@ To conduct the hallway testing, two staff from NLM&#8217;s Web team set up in th
 
 We are currently evaluating the results of our testing and plan on making iterative improvements to our site search feature based on what we learn.
 
-&nbsp;
+ 
 
 _**Katie Chan** is a _librarian_ **Joanna Widzer** is a systems librarian in the Web & Information Management Unit at the National Library of Medicine (NLM)._
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

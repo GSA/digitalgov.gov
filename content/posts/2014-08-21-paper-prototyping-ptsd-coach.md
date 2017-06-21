@@ -28,4 +28,4 @@ The workshop demonstrates how some pencil and paper can get you closer to a succ
 
 You can download other mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/).
 
-&nbsp;
+ 

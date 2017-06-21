@@ -173,7 +173,7 @@ _The National Council of la Raza has on their site many of their partners listed
 
 _CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and banner ads on search engines may be more effective, however. Google is using Twitter trends to pull in content from this platform. Word trails are trending and it&#8217;s because of Twitter._
 
-&nbsp;
+ 
 
 _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
 

@@ -2,7 +2,7 @@
 url: /2014/12/08/2nd-u-s-public-participation-playbook-draft-responds-to-public-contributions/
 date: 2014-12-08 6:14:07 -0400
 title: 2nd U.S. Public Participation Playbook Draft Responds to Public Contributions
-summary: ' The new&nbsp;second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to&nbsp;come. We still need your contributions for'
+summary: ' The new second draft of the U.S. Public Participation Playbook incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions for'
 authors:
   - jherman
 categories:
@@ -380,6 +380,6 @@ National Defense University
   
 Veronica Wendt
 
-&nbsp;
+ 
 
 _Justin Herman is the <a href="https://www.WHATEVER/communities/social-media/" target="_blank">SocialGov Program lead</a> for the General Services Administration and is managing the U.S. Public Participation Playbook project. For more information on this project and to learn how you can participate, please contact him via [email](mailto:justin.herman@gsa.gov "Email Justin Herman")._

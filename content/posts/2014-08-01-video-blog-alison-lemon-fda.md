@@ -17,4 +17,4 @@ We wanted to learn a little more about the [Office of Women&#8217;s Health at FD
 
 [youtube=http://www.youtube.com/watch?v=aKyfJTMszAY&w=600]
 
-&nbsp;
+ 

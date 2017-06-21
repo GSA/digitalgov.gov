@@ -2,7 +2,7 @@
 url: /2015/03/30/on-the-spot-must-have-ifttt-recipes-for-government/
 date: 2015-03-30 3:48:29 -0400
 title: 'On the Spot: Must-Have IFTTT Recipes for Government'
-summary: ' Ever since we announced IFTTT was available for federal use, dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the SocialGov community&nbsp;which of their favorite'
+summary: ' Ever since we announced IFTTT was available for federal use, dozens of ideas have been shared for how program managers can use the tool to increase their productivity. I asked some API enthusiasts in the SocialGov community which of their favorite'
 authors:
   - jherman
 categories:
@@ -57,4 +57,4 @@ Example: “[Send a daily email digest of new NASA postings on USAJobs](https://
 
 This speaks for itself so your colleagues don’t have to: [“Never forget to #silence your #Android phone at #work”](https://ifttt.com/recipes/165456-never-forget-to-silence-your-android-phone-at-work)
 
-&nbsp;
+ 

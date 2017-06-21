@@ -2,7 +2,7 @@
 url: /2013/12/20/results-posted-2012-challenge-report/
 date: 2013-12-20 10:06:20 -0400
 title: 'Results Posted: 2012 Challenge Report'
-summary: ' This week the White House Office of Science and Technology Policy released its second&nbsp;comprehensive report detailing the use of federal challenge and prize competitions. Read it and you&rsquo;ll find details about the fiscal benefits of more than 300 competitions implemented by 45 agencies. As the report released'
+summary: ' This week the White House Office of Science and Technology Policy released its second comprehensive report detailing the use of federal challenge and prize competitions. Read it and you&rsquo;ll find details about the fiscal benefits of more than 300 competitions implemented by 45 agencies. As the report released'
 authors:
   - tmarcoullier
 categories:
@@ -40,4 +40,4 @@ All indications from the first two years of implementation are that the prize au
 
 Learn more about the prize competitions being run across the Federal Government at Challenge.gov.
 
-&nbsp;
+ 

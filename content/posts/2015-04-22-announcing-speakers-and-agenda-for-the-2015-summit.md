@@ -32,4 +32,4 @@ There is still time to sign up your program for an [Expo table](https://summit.W
 
 Have no fear if you live across the country or if you missed nabbing an in-person ticket. We are hosting a livestream, and it won’t be a run of the mill livestream, either. We are working to bring you a unique Summit experience including a special host, Bernetta Reese of USDA, who will bring viewers continuous programming like a behind the scenes look at the expo, exclusive speaker interviews and a dedicated Q&A. If you haven’t yet, [register now](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401). And, tell a colleague!
 
-&nbsp;
+ 

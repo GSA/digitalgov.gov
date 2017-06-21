@@ -2,7 +2,7 @@
 url: /2013/05/16/cdc-mobile-tools/
 date: 2013-05-16 9:31:24 -0400
 title: CDC Mobile Tools
-summary: 'The Center&#8217;s for Disease and Control has developed a&nbsp;mobile website and a mobile app so users can access information anytime, anywhere, on any device. The mobile website was developed to allow users to access a subset of CDC&rsquo;s content on mobile devices. These sections include Health'
+summary: 'The Center&#8217;s for Disease and Control has developed a mobile website and a mobile app so users can access information anytime, anywhere, on any device. The mobile website was developed to allow users to access a subset of CDC&rsquo;s content on mobile devices. These sections include Health'
 authors:
   - kanika-tolver
 categories:

@@ -2,7 +2,7 @@
 url: /2014/07/30/customization-is-key-to-better-mobile-user-experience/
 date: 2014-07-30 2:12:52 -0400
 title: Customization is Key to Better Mobile User Experience
-summary: 'Resources like Theresa Neil&rsquo;s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and&nbsp;tailored further to satisfy their users. As mentioned in this week&rsquo;s Trends on Tuesday, customizing apps to meet users&rsquo;'
+summary: 'Resources like Theresa Neil&rsquo;s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week&rsquo;s Trends on Tuesday, customizing apps to meet users&rsquo;'
 authors:
   - katie-steffy
 categories:
@@ -44,4 +44,4 @@ These are great examples of implementations of government user experience. How c
 
 In fact, the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/) and the [Federal User Experience Community](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/) want your input at our [Mobile Gov Workshop: Help Expand the Mobile User Experience Guidelines](https://www.WHATEVER/event/mobilegov-workshop-help-expand-the-mobile-user-experience-guidelines/) on Monday, August 4th. Help us move [our guidelines](https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/) forward so we can help you further user experience in your own mobile apps!
 
-&nbsp;
+ 

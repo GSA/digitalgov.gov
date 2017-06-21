@@ -2,7 +2,7 @@
 url: /2013/03/22/regulations-gov-usability-case-study/
 date: 2013-03-22 11:29:33 -0400
 title: 'Regulations.gov &#8211; Usability Case Study'
-summary: 'More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can&rsquo;t immediately find what they are looking for, they&rsquo;re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped&nbsp;test&nbsp;Regulations.gov&nbsp;on&nbsp;October 5, 2012,&nbsp;to'
+summary: 'More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can&rsquo;t immediately find what they are looking for, they&rsquo;re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped test Regulations.gov on October 5, 2012, to'
 authors:
   - jonathan-rubin
 categories:
@@ -36,7 +36,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      &nbsp;
+       
     </p>
     
     <p>
@@ -44,7 +44,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      &nbsp;
+       
     </p>
     
     <p>
@@ -52,7 +52,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      &nbsp;
+       
     </p>
     
     <h2>
@@ -100,7 +100,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      &nbsp;
+       
     </p>
     
     <p>
@@ -112,7 +112,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      &nbsp;
+       
     </p>
   </div>
 </div>

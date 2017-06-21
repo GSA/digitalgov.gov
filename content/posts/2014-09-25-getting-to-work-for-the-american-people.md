@@ -93,4 +93,4 @@ Please stay tuned! Follow 18F on our [blog](http://18fblog.tumblr.com/), [Twitte
 
 _This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
 
-&nbsp;
+ 

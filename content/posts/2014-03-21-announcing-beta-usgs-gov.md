@@ -33,4 +33,4 @@ Thank you for your comments, support and thoughts.
 
 _**Scott Horvath** is the Bureau Social Media Lead, Office of Communications and Publishing at the U.S. Geological Survey (USGS)._
 
-&nbsp;
+ 

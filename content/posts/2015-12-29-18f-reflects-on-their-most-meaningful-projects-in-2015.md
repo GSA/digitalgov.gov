@@ -197,7 +197,7 @@ _The Federalist platform [provides an easy way](https://18f.gsa.gov/2015/09/15/f
 > 
 > “I’m really proud of the work I did on Federalist because it helped streamline the launch of sites that addressed [college affordability data](https://collegescorecard.ed.gov/) and the [quantity of natural resources being extracted from federal lands](https://useiti.doi.gov/).”—**Jeremia Kimelman**
 
-&nbsp;
+ 
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-292-18f-Federalist-beta-homepage-Dec-28th-2015.jpg" alt="The Federalist's beta website homepage, which says, "Federalist is a unified interface for publishing static government websites."" %}
 

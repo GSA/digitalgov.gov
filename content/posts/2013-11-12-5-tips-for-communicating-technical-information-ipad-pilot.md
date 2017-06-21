@@ -2,7 +2,7 @@
 url: /2013/11/12/5-tips-for-communicating-technical-information-ipad-pilot/
 date: 2013-11-12 1:35:40 -0400
 title: '5 Tips for Communicating Technical Information: iPad Pilot'
-summary: '&#8220;The difference between the right word and the almost right word is the difference between lightning and the lightning bug.&#8221;&nbsp;&mdash; Mark Twain It&rsquo;s simple&mdash;you&rsquo;re the technical expert; you know the topic inside out, so of course you can easily explain it to a captive audience. Right? Not always. Communicators in every industry know that message'
+summary: '&#8220;The difference between the right word and the almost right word is the difference between lightning and the lightning bug.&#8221; &mdash; Mark Twain It&rsquo;s simple&mdash;you&rsquo;re the technical expert; you know the topic inside out, so of course you can easily explain it to a captive audience. Right? Not always. Communicators in every industry know that message'
 authors:
   - alan-greilsamer
 categories:
@@ -54,4 +54,4 @@ As the communications lead on the project, I learned five valuable lessons in co
 
 Originally published on the on the [Federal Communicator&#8217;s Network Blog](http://fedcommnetwork.blogspot.com/2013/11/5-tips-for-communicating-technical.html).
 
-&nbsp;
+ 

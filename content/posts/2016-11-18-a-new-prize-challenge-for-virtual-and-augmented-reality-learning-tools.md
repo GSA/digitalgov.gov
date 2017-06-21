@@ -38,7 +38,7 @@ Those interested in entering the Challenge should <a href="http://edsimchallenge
 
 Stay tuned and visit the <a href="http://edsimchallenge.com/" target="_blank">EdSim Challenge website</a> to learn how you can reimagine the future of learning.
 
-&nbsp;
+ 
 
 _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy._ _Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
 

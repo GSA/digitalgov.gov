@@ -2,7 +2,7 @@
 url: /2014/10/27/results-report-robots-created-for-competitions-to-help-ebola-response/
 date: 2014-10-27 10:50:18 -0400
 title: 'Results Report: Robots Created for Competitions to Help Ebola Response'
-summary: 'Challenge competitions were recently&nbsp;highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID):&nbsp;Ebola: A Grand Challenge for Development. The goal: To help health care workers on the front lines provide better care and stop'
+summary: 'Challenge competitions were recently highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID): Ebola: A Grand Challenge for Development. The goal: To help health care workers on the front lines provide better care and stop'
 authors:
   - tmarcoullier
 categories:
@@ -38,7 +38,7 @@ An excerpt from the article:
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
 
-&nbsp;
+ 
 
 WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with leading the school&#8217;s involvement in the NASA challenge competition. He explains the AERO&#8217;s back story and how the robot could be helpful to the medical community:
 

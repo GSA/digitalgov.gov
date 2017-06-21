@@ -39,7 +39,7 @@ In preparation for the next release, the testing lead briefed the team on inaccu
 
 Through the implementation of DAP, the USAJOBS Program Office has improved its ability to test <a href="https://www.usajobs.gov/" target="_blank">USAJOBS.gov</a>. Testing is now more thorough and realistic, resulting in a better-tested site. The impact of this improved approach to the testing process is a reduced number of bugs identified post-release. DAP has allowed for a more thorough, rigorous testing strategy which has had a very positive impact on <a href="https://www.usajobs.gov/" target="_blank">USAJOBS.gov</a>.
 
-&nbsp;
+ 
 
 _Cory Benavente is an OPM PMO Team Member and Dywane Boyd is the Testing Coordinator in the OPM Office of the Chief Information Officer._
 

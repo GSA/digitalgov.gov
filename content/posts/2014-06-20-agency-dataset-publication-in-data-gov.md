@@ -20,7 +20,7 @@ Agencies prepare their enterprise data inventories in data.json format and post 
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-484-DataGov-Agency-JSON-consumption-chart.jpg" alt="600-x-484-DataGov-Agency-JSON-consumption-chart" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/1080-x-872-DataGov-Agency-JSON-consumption-chart.jpg)
 
-&nbsp;
+ 
 
 ## Harvesting Datasets
 

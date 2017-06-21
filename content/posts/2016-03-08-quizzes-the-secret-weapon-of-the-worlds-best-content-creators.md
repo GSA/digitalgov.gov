@@ -32,6 +32,6 @@ To learn more about quizzes, you can view the entire webinar.
 
 [youtube=http://www.youtube.com/watch?v=0q4ueTABYnQ&w=600]
 
-&nbsp;
+ 
 
 _**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

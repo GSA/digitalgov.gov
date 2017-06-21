@@ -2,7 +2,7 @@
 url: /2014/06/30/u-s-gov-releases-new-collaborative-social-media-services/
 date: 2014-06-30 5:30:47 -0400
 title: U.S. Gov Releases New Collaborative Social Media Services
-summary: ' The Federal #SocialGov Community, a collective of almost 700 digital engagement managers from more than 120 government agencies, marked the 2nd anniversary of our program by releasing a suite of new collaborative services to help&nbsp;us&nbsp;better work together and with partners in the'
+summary: ' The Federal #SocialGov Community, a collective of almost 700 digital engagement managers from more than 120 government agencies, marked the 2nd anniversary of our program by releasing a suite of new collaborative services to help us better work together and with partners in the'
 authors:
   - jherman
 categories:
@@ -29,7 +29,7 @@ The online event, **[U.S. Federal SocialGov: 2 years of Smashing Silos + Elevati
 
 [youtube=http://www.youtube.com/watch?v=5vyAlqOEsuM&w=600]
 
-&nbsp;
+ 
 
 Bottom line: social media in government isn&#8217;t just about using digital engagement to tell our story better, but to rewrite the story itself by making government programs better and more cost effective. And we didn&#8217;t throw a party &#8212; we threw down the digital gauntlet.
 

@@ -2,7 +2,7 @@
 url: /2014/06/09/facebook-increases-public-service-verification-to-improve-citizen-engagement-2/
 date: 2014-06-09 2:32:35 -0400
 title: Facebook Increases Public Service Verification to Improve Citizen Engagement
-summary: 'Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the Federal Social Media Registry&nbsp;API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts&mdash;emphasizing the critical need to ensure the trust, quality and'
+summary: 'Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the Federal Social Media Registry API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts&mdash;emphasizing the critical need to ensure the trust, quality and'
 authors:
   - jherman
 categories:

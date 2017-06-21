@@ -2,7 +2,7 @@
 url: /2016/06/28/wcms-and-custom-apis-which-one-is-right-for-you/
 date: 2016-06-28 11:00:33 -0400
 title: WCMS and Custom APIs—Which One Is Right for You?
-summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGov University (DGU) presentation,&nbsp;Introduction to APIs. He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&mdash;via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put,'
+summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGov University (DGU) presentation, Introduction to APIs. He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&mdash;via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put,'
 authors:
   - christen-geiler
 categories:
@@ -32,7 +32,7 @@ The [We the People API](https://petitions.whitehouse.gov/developers) allows for 
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-450-Screen-Shot-of-We-the-People-Developers-API-page.jpg" alt="Screen capture of We the People Developers API page." %}
 
-&nbsp;
+ 
 
 The Consumer Product Safety Commission (CPSC) provides accessibility to recalls via a recall database. [The information is publicly available](https://www.cpsc.gov/en/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information/) to consumers and businesses as well as software and application developers.
 

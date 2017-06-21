@@ -53,4 +53,4 @@ The lab is located in rooms 2E-202 and 2E-206 on the National Cancer Instituteâ€
 
 _**Pooja Sawant** is in her second year at University of Maryland, College Park, earning an MS in Information Management. She just finished interning with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program") at GSA this summer._
 
-&nbsp;
+ 

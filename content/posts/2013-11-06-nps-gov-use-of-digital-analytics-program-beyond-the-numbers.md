@@ -2,7 +2,7 @@
 url: /2013/11/06/nps-gov-use-of-digital-analytics-program-beyond-the-numbers/
 date: 2013-11-06 1:04:29 -0400
 title: 'NPS.gov Use of Digital Analytics Program: Beyond the Numbers'
-summary: 'The National Park Service website,&nbsp;NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov'
+summary: 'The National Park Service website, NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov'
 authors:
   - marina-fox
 categories:

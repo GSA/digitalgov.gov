@@ -108,7 +108,7 @@ At any large organization, accuracy of data is of paramount importance &#8212; f
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-299-NIDAnews-cocaine-fact-infographic-from-Twitter.jpg" alt="A NIDA News cocaine fact infographic used on Twitter." %}
 
-&nbsp;
+ 
 
 [_Sara Smith_](https://www.linkedin.com/in/saramariecrocoll) _([@CrocollSmith](https://twitter.com/CrocollSmith)) is the Social Media Strategist for the National Institute on Drug Abuse (NIDA) and_ [_Anne Rancourt_](https://www.linkedin.com/in/annerancourt) _([@annerancourt](https://twitter.com/AnneRancourt)) is a Communications Section Chief at the National Institute of Allergy and Infectious Diseases (NIAID); both part of the National Institutes of Health (NIH)._
 

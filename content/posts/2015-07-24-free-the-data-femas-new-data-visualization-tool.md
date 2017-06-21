@@ -2,7 +2,7 @@
 url: /2015/07/24/free-the-data-femas-new-data-visualization-tool/
 date: 2015-07-24 11:00:54 -0400
 title: 'Free the Data: FEMA’s New Data Visualization Tool'
-summary: '&nbsp; FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we&rsquo;re trying to talk about what can happen is what has happened previously? Providing data'
+summary: '  FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we&rsquo;re trying to talk about what can happen is what has happened previously? Providing data'
 authors:
   - craig-fugate
 categories:
@@ -14,7 +14,7 @@ tag:
   - mobile apps
 ---
 
-&nbsp;
+ 
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." %}
 

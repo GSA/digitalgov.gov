@@ -47,7 +47,7 @@ The proof-of-concept focus is not without drawbacks, however. While we would arg
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/426-x-131-DATA-Act-MVP-minimum-viable-product-diagram.jpg" alt="A minimum viable product (MVP) diagram for the above description." %}
 
-&nbsp;
+ 
 
 ## Simplicity avoids scaring away agencies {#simplicity-avoids-scaring-away-agencies}
 

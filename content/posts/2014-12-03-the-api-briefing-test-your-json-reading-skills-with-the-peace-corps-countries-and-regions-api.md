@@ -47,7 +47,7 @@ Which API element will return a list of volunteer projects?
 
 The Peace Corps encourages developers and designers to use the API to create innovative apps to help others understand and support its mission. One potential app is to help Peace Corps applicants determine which volunteer projects they may want to work on. Another app is a video player for all of the Peace Corps videos in the dataset. Just exploring the JSON code can give a developer many app ideas.
 
-&nbsp;
+ 
 
 ## **Answers**
 

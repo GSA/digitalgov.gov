@@ -24,4 +24,4 @@ The database can be found on the [CIO Council’s resources page](https://www.ci
 
 The database also provides a place for you to submit and leave feedback concerning the resource and suggest additions to the library’s content.
 
-&nbsp;
+ 

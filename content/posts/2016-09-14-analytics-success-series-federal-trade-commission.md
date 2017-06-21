@@ -2,7 +2,7 @@
 url: /2016/09/14/analytics-success-series-federal-trade-commission/
 date: 2016-09-14 3:00:39 -0400
 title: 'Analytics Success Series: Federal Trade Commission'
-summary: 'FTC&rsquo;s Analytics Success: Making mission-related tasks easier for the user to find In the summer of &nbsp;2015, members of the Federal Trade Commission&rsquo;s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze Digital Analytics Program (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for FTC.gov. We found'
+summary: 'FTC&rsquo;s Analytics Success: Making mission-related tasks easier for the user to find In the summer of  2015, members of the Federal Trade Commission&rsquo;s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze Digital Analytics Program (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for FTC.gov. We found'
 authors:
   - chris-noonan-sturm
 categories:
@@ -57,7 +57,7 @@ Our next steps to improve our site’s effectiveness include:
 
 Many thanks to our FTC colleagues who assisted us with this analysis and with identifying our customers’ top tasks.
 
-&nbsp;
+ 
 
 _Chris Noonan Sturm is the FTC Website Manager in the Office of Public Affairs._
 

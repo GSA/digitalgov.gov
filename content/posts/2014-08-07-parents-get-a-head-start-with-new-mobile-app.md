@@ -25,4 +25,4 @@ tag:
 
 Head Start Resources has implemented numerous tools that we [mentioned last week](https://www.WHATEVER/2014/07/30/customization-is-key-to-better-mobile-user-experience/) to fit their users&#8217; needs. Want to learn how your agency can get started with a mobile product that users rave about? Join the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/) today and see what other agencies are doing by checking out the [USA.gov Apps Registry](http://apps.usa.gov/register).
 
-&nbsp;
+ 

@@ -364,6 +364,6 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
 
 We’re just starting work on this year’s GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

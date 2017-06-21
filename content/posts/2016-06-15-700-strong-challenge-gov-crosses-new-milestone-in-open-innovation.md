@@ -41,7 +41,7 @@ The [Vascular Tissue Challenge](https://www.neworgan.org/vtc-prize.php) offers $
 
 Essentially, the space agency wants solvers to submit technologies that can advance research and one day grow tissues and organs in orbit to ensure the health of astronauts injured or recovering from injuries sustained during lengthy missions.
 
-[youtube=http://www.youtube.com/watch?v=4XijhKzOTK0&w=600]&nbsp;
+[youtube=http://www.youtube.com/watch?v=4XijhKzOTK0&w=600] 
   
 Since its launch in September 2010, Challenge.gov has seen a steady increase in use among both federal agencies and citizens. The 700 challenges on the site have seen more than 300,000 citizens compete for over $250 million in prize money.
 

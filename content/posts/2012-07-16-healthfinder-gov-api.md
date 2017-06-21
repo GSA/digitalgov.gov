@@ -2,7 +2,7 @@
 url: /2012/07/16/healthfinder-gov-api/
 date: 2012-07-16 3:19:04 -0400
 title: Healthfinder.gov API
-summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by&nbsp;Healthfinder.gov. The actual&nbsp;healthfinder.gov&nbsp;site was launched approximately twelve years ago, while the API is a fairly recent development that has occurred in the past year and a'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Healthfinder.gov. The actual healthfinder.gov site was launched approximately twelve years ago, while the API is a fairly recent development that has occurred in the past year and a'
 categories:
   - API
   - Code

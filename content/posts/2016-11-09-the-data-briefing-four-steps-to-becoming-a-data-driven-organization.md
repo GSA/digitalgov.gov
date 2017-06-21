@@ -38,7 +38,7 @@ The case studies demonstrated how the data-driven organization could commerciali
 
 Many models exist on how an organization can become data-driven. The four steps above are common to those models and demonstrate how the Federal government agencies can best use their data assets to transform the organization to serve the American public better.
 
-&nbsp;
+ 
 
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
 

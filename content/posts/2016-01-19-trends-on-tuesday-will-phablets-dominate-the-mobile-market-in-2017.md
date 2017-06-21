@@ -2,7 +2,7 @@
 url: /2016/01/19/trends-on-tuesday-will-phablets-dominate-the-mobile-market-in-2017/
 date: 2016-01-19 10:17:15 -0400
 title: 'Trends on Tuesday: Will Phablets Dominate the Mobile Market in 2017?'
-summary: 'Phablets, once mocked for their large size, may&nbsp;be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. Flurry Mobile, part of Yahoo&#8217;s mobile analytics division, published two reports about phablet devices at the beginning of the new year, showing their continued growth and that people use'
+summary: 'Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. Flurry Mobile, part of Yahoo&#8217;s mobile analytics division, published two reports about phablet devices at the beginning of the new year, showing their continued growth and that people use'
 authors:
   - wsullivan
 categories:
@@ -24,7 +24,7 @@ The percentage of new phablet-sized phone activations during the 2014-2015 holid
   Much of this growth cannibalized tablet and medium-sized phone activations and points to the </span><a href="http://qz.com/560538/if-you-dont-have-a-tablet-by-now-you-probably-never-will/"><span style="font-weight: 400">continuing trend of tablet devices plateauing in popularity</span></a><span style="font-weight: 400">. </p> 
   
   <p>
-    &nbsp;
+     
   </p> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-468-Flurry-Chart-for-Growth-Rate-of-Media-Apps-Over-indexes-on-Phablets.jpg" alt="A Flurry Analytics chart covering the 2014 to 2015 year-over-year growth rate that is titled, "Growth Rate of Media Apps Over indexes on Phablets."" %} 
   
   <p>

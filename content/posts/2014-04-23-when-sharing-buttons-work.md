@@ -134,7 +134,7 @@ The five most popular blog posts have sharing rates between 15.2% and 45.2%.
   </tr>
 </table>
 
-&nbsp;
+ 
 
 Many reads have shared blog posts on Twitter, Facebook, and LinkedIn. Twitter was the most popular choice for sharing.
 
@@ -182,4 +182,4 @@ Many reads have shared blog posts on Twitter, Facebook, and LinkedIn. Twitter wa
 
 We’ll be keeping a close eye on this trend. We hope you take a moment to check out the WatchBlog!
 
-&nbsp;
+ 

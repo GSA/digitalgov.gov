@@ -28,4 +28,4 @@ If you want to participate in EPA&#8217;s mobile product efforts, [the full post
 
 _The full selection of government mobile products can be downloaded 24/7 by visiting the [USA.gov Apps Gallery](http://apps.usa.gov/)._ 
 
-&nbsp;
+ 

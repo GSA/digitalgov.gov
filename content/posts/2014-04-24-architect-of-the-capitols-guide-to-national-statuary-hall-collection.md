@@ -19,4 +19,4 @@ Want to find out more about the 100 Americans who are included in the collection
 
 _The full selection of government mobile products can be downloaded 24/7 by visiting the [USA.gov Apps Gallery](http://apps.usa.gov/)._ 
 
-&nbsp;
+ 

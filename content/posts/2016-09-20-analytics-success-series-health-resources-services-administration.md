@@ -2,7 +2,7 @@
 url: /2016/09/20/analytics-success-series-health-resources-services-administration/
 date: 2016-09-20 2:00:17 -0400
 title: 'Analytics Success Series: Health Resources & Services Administration'
-summary: 'Health Resources and Services Administration&rsquo;s Analytics Success: Using Analytics to Reduce Content and Improve User Experience&nbsp; Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it&rsquo;s time to make some changes. That&rsquo;s exactly what happened to the Health Resources'
+summary: 'Health Resources and Services Administration&rsquo;s Analytics Success: Using Analytics to Reduce Content and Improve User Experience  Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it&rsquo;s time to make some changes. That&rsquo;s exactly what happened to the Health Resources'
 authors:
   - christy-choi
   - mackenzie-cummings
@@ -67,7 +67,7 @@ Using information architecture validation software, we surveyed over 90 active s
 
 Launching in July 2016, our site has already begun to show improvements—including a gradual lowering of our site’s bounce rate. Given data from previous site revamps, we expect key metrics will continue to show progress over time.
 
-&nbsp;
+ 
 
 <cite>*Caveat: The MCHB site links out to several sub-sites controlled by different contractors. The 91% only takes into account pages removed from our content management system.</cite>
 

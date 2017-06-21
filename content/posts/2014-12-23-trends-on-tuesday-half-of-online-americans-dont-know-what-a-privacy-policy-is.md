@@ -43,4 +43,4 @@ A concern the Pew article raises is that with the influx of more mobile devices 
 
 How should government handle digital privacy issues moving forward? This would be a great topic to recommend for our crowdsourced [2015 DigitalGov Citizen Services Summit](https://www.WHATEVER/2014/12/15/crowdsourced-digital-citizen-services-summit/ "Crowdsourced Digital Citizen Services Summit") programming!
 
-&nbsp;
+ 

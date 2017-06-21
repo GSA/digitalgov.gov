@@ -43,7 +43,7 @@ The [URL below for the Congress API](https://congress.api.sunlightfoundation.com
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-52-congress-api-url-in-color.jpg" alt="An image of the very, very long color-coded URL to access the Congress API" %}
 
-&nbsp;
+ 
 
 Entering this URL into a browser then returns information specific to the request:
 

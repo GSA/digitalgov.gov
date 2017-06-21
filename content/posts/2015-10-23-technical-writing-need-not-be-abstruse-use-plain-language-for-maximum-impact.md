@@ -47,6 +47,6 @@ What other aspects of writing should authors of technical content pay attention 
 
 And, the sentence at the beginning of this piece should say, “This method used many factors to achieve a record level of production.”
 
-&nbsp;
+ 
 
 _Colleen Blessing is a senior editor at the U.S. Energy Information Administration and the lead author of her agency’s award-winning style guide. She’s been editing government writing <del>since the first Roosevelt administration</del> since her agency was formed in 1977 and has worked in the Office of Communications since 2006._

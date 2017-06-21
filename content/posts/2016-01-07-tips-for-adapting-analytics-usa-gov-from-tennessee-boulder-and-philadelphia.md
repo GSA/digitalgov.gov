@@ -106,6 +106,6 @@ TL;DR: Keep pushing! 18F is affecting more than federal programs and we NEED you
 
 _This article was originally posted on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer, 18F team member._
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

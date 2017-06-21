@@ -35,4 +35,4 @@ Questions? Tweet us [@ciodotgov](https://twitter.com/ciodotgov).
 
 _This post was originally published on the [CIO Council blog](https://cio.gov/cioc-blog/) by the CIO Council Operations Staff._
 
-&nbsp;
+ 

@@ -53,7 +53,7 @@ The </span>[<span style="font-weight: 400">American Battle Monuments Commission<
   </p>
   
   <p>
-    &nbsp;
+     
   </p>
   
   <p>

@@ -65,4 +65,4 @@ Here are some of the key highlights from the report for government agencies and 
 
 [Read more of the data-rich report and share it with your co-workers](http://www.kpcb.com/internet-trends), then dig into the [DigitalGov mobile archives to prepare your strategy to become more mobile-friendly](https://www.WHATEVER/category/mobile/).
 
-&nbsp;
+ 

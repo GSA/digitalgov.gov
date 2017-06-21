@@ -42,6 +42,6 @@ Also joining the conversation is Scott Horvath, social media lead for the U.S. G
 
 <https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/CIA_Podcast.mp3></audio> 
 
-&nbsp;
+ 
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/CIA_Podcast.mp3) (21 MB). You can also download and [read the transcript](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/CIA-Social-Media-Podcast-Aug-2015-Transcript.docx) (10 pages, 14 kb MS Word).

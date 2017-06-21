@@ -2,7 +2,7 @@
 url: /2016/05/02/redesigning-we-the-people/
 date: 2016-05-02 11:32:09 -0400
 title: Redesigning We the People
-summary: 'Summary:&nbsp;Improving the way you engage with the White House through our online petitions platform In July 2015,&nbsp;we announced a big change&nbsp;in the way we would answer petitions on&nbsp;We the People. We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and'
+summary: 'Summary: Improving the way you engage with the White House through our online petitions platform In July 2015, we announced a big change in the way we would answer petitions on We the People. We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and'
 authors:
   - jason-goldman
 categories:
@@ -50,7 +50,7 @@ We also did an extensive round of testing to ensure the site is accessible for s
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-We-the-People-mobile-animated.gif" alt="Animated gif shows mobile version of We the People." %}
 
-&nbsp;
+ 
 
 ## We built more guidance into the process of creating a petition so you could make yours the best petition possible.
 

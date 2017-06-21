@@ -65,4 +65,4 @@ Members of the [MobileGov Community of Practice](https://www.WHATEVER/communitie
 
 _**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services._
 
-&nbsp;
+ 

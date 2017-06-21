@@ -107,7 +107,7 @@ Using Gartner’s 2016 “Hype Cycle for Web Computing” (<http://www.gartner.c
 
 There was a lot of interest in this approach from the community, but as you can see above there a lot of challenges. While their components are W3C compliant, when combined into a PWA they are not supported on many existing browsers. We will need to explore this new approach to mobile and will need [industry support](http://www.benfarrell.com/2016/02/26/progressive-web-apps/) to help us get PWAs supported in all browsers and development tools. PWAs are in their infancy, but have the potential to move from pack mule to workhouse of the Internet.
 
-&nbsp;
+ 
 
 ### Resources (in alphabetical order by title):
 

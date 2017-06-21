@@ -25,4 +25,4 @@ SMS messages have been used primarily as [marketing tools](https://www.WHATEVER/
 
 SMS messaging is great chance for the government to improve the level of customer service by providing the public with the information they need when they want it. SMS messaging will provide the public with an easy way to communicate directly with the government to better understand the services it provides.
 
-&nbsp;
+ 

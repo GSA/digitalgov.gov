@@ -2,7 +2,7 @@
 url: /2015/03/31/trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must/
 date: 2015-03-31 1:00:43 -0400
 title: 'Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must'
-summary: 'ComScore reported last week that smartphones now make up a whopping 75% of the mobile market. That&rsquo;s up from 65% just one year ago.&nbsp;This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more. This is an undeniable fact because earlier this'
+summary: 'ComScore reported last week that smartphones now make up a whopping 75% of the mobile market. That&rsquo;s up from 65% just one year ago. This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more. This is an undeniable fact because earlier this'
 authors:
   - jparcell
 categories:

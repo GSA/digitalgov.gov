@@ -2,7 +2,7 @@
 url: /2015/09/22/trends-on-tuesday-content-is-king-for-mobile-apps/
 date: 2015-09-22 11:00:51 -0400
 title: 'Trends on Tuesday: Content is King for Mobile Apps'
-summary: ' Yahoo&rsquo;s mobile analytics service, Flurry,&nbsp;released a new and provocative report about mobile apps versus&nbsp;mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year. They&nbsp;also discussed&nbsp;the importance of how &ldquo;content is king&rdquo; in mobile apps. The top mobile app categories included'
+summary: ' Yahoo&rsquo;s mobile analytics service, Flurry, released a new and provocative report about mobile apps versus mobile browser usage, in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how &ldquo;content is king&rdquo; in mobile apps. The top mobile app categories included'
 authors:
   - wsullivan
 categories:
@@ -28,7 +28,7 @@ What was unique about this report was that content within those apps was driving
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Flurry-chart-90-Percent-of-Time-on-Mobile-is-Apent-in-Apps.jpg" alt="Flurry-chart-90-Percent-of-Time-on-Mobile-is-Apent-in-Apps" %}
 
-&nbsp;
+ 
 
 Simon Khalaf, senior vice president of publishing products, explained the cause saying, <span style="line-height: 1.5">“Messaging and Social apps grew from 28% of time spent last year or 45 minutes per day, to 31% of time spent, or slightly more than 68 minutes per day this year. This is a 50% year-over-year increase. However, the majority of time spent in messaging and social apps is actually spent consuming media, such as videos on Tumblr and Facebook or stories on Snapchat. A study by Millward Brown Digital showed that 70% of social app users are actually consuming media. While we can’t correlate the 70% directly to time spent, we firmly believe that media consumption, either articles read in the Web view in app, or video consumed in the feeds, constitute the majority of time spent in social apps. This is a big trend and one that will be watched very carefully by traditional media companies. These companies have to adjust to a new world where consumers act as individual distribution channels.”</span>
 

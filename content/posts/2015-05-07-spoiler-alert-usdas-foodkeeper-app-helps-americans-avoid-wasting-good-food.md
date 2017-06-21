@@ -2,7 +2,7 @@
 url: /2015/05/07/spoiler-alert-usdas-foodkeeper-app-helps-americans-avoid-wasting-good-food/
 date: 2015-05-07 10:00:13 -0400
 title: 'Spoiler Alert: USDA’s FoodKeeper App Helps Americans Avoid Wasting Good Food'
-summary: 'Spoiler Alert:&nbsp;Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per person'
+summary: 'Spoiler Alert: Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per person'
 authors:
   - kdowney
 categories:

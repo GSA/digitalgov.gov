@@ -2,7 +2,7 @@
 url: /2015/02/05/focus-on-nutrition-with-dri-calculator-for-healthcare-professionals-app/
 date: 2015-02-05 10:00:28 -0400
 title: Focus on Nutrition with DRI Calculator for Healthcare Professionals App
-summary: 'For those of us who&nbsp;need to get our diet under control&mdash;and keep it that way&mdash;we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt&nbsp;we&rsquo;ve all thought about buying one of those at $100 to $150 bucks a pop'
+summary: 'For those of us who need to get our diet under control&mdash;and keep it that way&mdash;we surely have noticed the recent explosion of health apps and wearable fitness trackers. No doubt we&rsquo;ve all thought about buying one of those at $100 to $150 bucks a pop'
 authors:
   - kdowney
 categories:
@@ -34,4 +34,4 @@ The app is available for [iOS](https://itunes.apple.com/us/app/dri-calculator-fo
 
 _You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/)._
 
-&nbsp;
+ 

@@ -56,6 +56,6 @@ I was the editor-in-chief of my high school newspaper, and I won an award for hi
 
 If I could work anywhere, I would still work for the federal government on digital communications! I love serving the public and working to make government information more transparent and easier to find.
 
-&nbsp;
+ 
 
 _This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on our DigitalGov Services. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

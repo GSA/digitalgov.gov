@@ -79,7 +79,7 @@ Of course, creating broad and diverse content is nothing new. Designers of rich 
 
 {% img="https://www.WHATEVER/files/2016/12/600-x-450-04\_skin\_and\_bones\_splash_screen.jpg" alt="Skin and Bones: Splash Screen, Office of Education & Outreach, Smithsonian’s National Museum of Natural History" %}
 
-&nbsp;
+ 
 
 _[Benjamin Bloom](https://www.WHATEVER/author/ben-bloom/) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
 

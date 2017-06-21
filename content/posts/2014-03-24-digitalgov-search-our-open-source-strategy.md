@@ -2,7 +2,7 @@
 url: /2014/03/24/digitalgov-search-our-open-source-strategy/
 date: 2014-03-24 10:00:42 -0400
 title: 'DigitalGov Search: Our Open Source Strategy'
-summary: 'At DigitalGov Search, we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across&nbsp;Gov.UK&#8217;s&nbsp;philosophy on and approach to&nbsp;coding in the open. It caught our attention and we realized we should also articulate our open source strategy. Use and Contribute to Open'
+summary: 'At DigitalGov Search, we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across Gov.UK&#8217;s philosophy on and approach to coding in the open. It caught our attention and we realized we should also articulate our open source strategy. Use and Contribute to Open'
 authors:
   - ammie-farraj-feijoo
 categories:
@@ -65,4 +65,4 @@ We&#8217;re not alone. Other federal agencies have embraced the approach of codi
 
 _Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)](https://www.WHATEVER/event/search-technology-and-information-retrieval/)._
 
-&nbsp;
+ 

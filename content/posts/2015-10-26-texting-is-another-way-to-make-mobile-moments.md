@@ -41,4 +41,4 @@ Here are at least 9 factors you need to consider, according to [GovDelivery](htt
 
 We know the [National Cancer Institute](https://www.WHATEVER/2015/04/16/nci-reaching-the-public-via-sms-to-change-behaviors/) is using texting to help people quit smoking. Consumers sign up, and then receive periodic messages that encourage them as they try to kick the habit. Is your agency using [texting to fulfill its mission](https://www.WHATEVER/2015/10/08/national-cancer-institutes-smokefree-tools/)? If so, how?
 
-&nbsp;
+ 

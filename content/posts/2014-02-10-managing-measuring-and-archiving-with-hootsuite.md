@@ -33,4 +33,4 @@ Remember, this webinar covered just one of many ways available to agencies to he
 
 Also, don’t forget to RSVP for our next #socialgov training: “[State of the Social Gov 2014,](https://www.WHATEVER/event/state-of-the-socialgov/)” where you can learn more about DigitalGov social media services, along with our shared plans for the coming year.
 
-&nbsp;
+ 

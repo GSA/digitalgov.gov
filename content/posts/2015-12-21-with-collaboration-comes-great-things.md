@@ -31,4 +31,4 @@ Interested in learning more about content syndication? Please check out the foll
 
 [Government Open and Structured Content Models Are Here!](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/)
 
-&nbsp;
+ 

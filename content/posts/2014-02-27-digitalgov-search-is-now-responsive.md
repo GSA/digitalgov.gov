@@ -22,4 +22,4 @@ You can also [optimize your mobile search results page by adding or updating you
 
 Not using DigitalGov Search yet? Check out the [service](https://www.WHATEVER/services/search/) and [sign-up for an account](https://search.usa.gov/login).
 
-&nbsp;
+ 

@@ -2,7 +2,7 @@
 url: /2014/01/09/top-eight-best-practices-for-federal-contact-centers/
 date: 2014-01-09 5:24:49 -0400
 title: Top 8 Best Practices for Federal Contact Centers
-summary: '1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers Understand and follow all&nbsp;Privacy, Security, Disability, and Service Contract Act&nbsp;requirements. 2. Use Performance Metrics to Influence Business Rules and Drive Improvements Develop&nbsp;Key Performance Indicators/Metrics&nbsp;(see Performance Goals). CSLIC&nbsp;could be used as a start. 3. Develop and Use a Comprehensive Quality Assurance Program Monitor quality.'
+summary: '1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers Understand and follow all Privacy, Security, Disability, and Service Contract Act requirements. 2. Use Performance Metrics to Influence Business Rules and Drive Improvements Develop Key Performance Indicators/Metrics (see Performance Goals). CSLIC could be used as a start. 3. Develop and Use a Comprehensive Quality Assurance Program Monitor quality.'
 authors:
   - barbara-walton
 categories:

@@ -24,6 +24,6 @@ In May, Thum sat down with DigitalGov to dig deeper into the federal customer ex
 
 <https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/Stephanie-Thum-Leaders-Customer-Podcast.mp3></audio> 
 
-&nbsp;
+ 
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/Stephanie-Thum-Leaders-Customer-Podcast.mp3 "Listen to An Inside look at the Digital Analytics Program") (11 MB). You can also [download and read the transcript](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/DigitalGov-Customer-Service-Podcast-Transcript-May-2015-Ashley-Wichman-and-Stephanie-Thum.docx) (5 pages, 21 kb MS Word).

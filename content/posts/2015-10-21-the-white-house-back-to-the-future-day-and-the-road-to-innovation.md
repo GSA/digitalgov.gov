@@ -2,7 +2,7 @@
 url: /2015/10/21/the-white-house-back-to-the-future-day-and-the-road-to-innovation/
 date: 2015-10-21 9:47:15 -0400
 title: The White House, Back To The Future Day, and the Road to Innovation
-summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and&nbsp;Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the&nbsp;Back to the Future&nbsp;trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House notes,'
+summary: ' Well, it&#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the Back to the Future trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House notes,'
 authors:
   - tburwell
 categories:
@@ -33,7 +33,7 @@ tag:
 
 [youtube=http://www.youtube.com/watch?v=qEkdtD3gI6E&w=600]
 
-&nbsp;
+ 
 
 <li class="light">
   <strong>10:30 A.M. ET</strong>: A Twitter Conversation on Autonomous Vehicles<br /> <em>Featuring: Deputy Chief Technology Officer Ed Felten and OSTP Deputy Director for Technology and Innovation Tom Kalil.<br /> </em><strong style="line-height: 1.5">What you can do:</strong><span style="line-height: 1.5"> Follow </span><a style="line-height: 1.5" href="https://twitter.com/EdFelten44">@EdFelten44</a><span style="line-height: 1.5"> and </span><a style="line-height: 1.5" href="https://twitter.com/whitehouseostp">@WhiteHouseOSTP</a><span style="line-height: 1.5"> &#8212; and weigh in on the conversation on Twitter using </span><a style="line-height: 1.5" href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a><span style="line-height: 1.5">.</span>
@@ -49,7 +49,7 @@ tag:
 
 [youtube=http://www.youtube.com/watch?v=XrV2pQ7z2JE&w=600]
 
-&nbsp;
+ 
 
 Some recent articles about innovation in technology and government that we&#8217;ve posted here on DigitalGov include:
 

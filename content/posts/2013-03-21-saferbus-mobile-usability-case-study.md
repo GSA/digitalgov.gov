@@ -42,4 +42,4 @@ The user is now able to see exactly what options are available to them via easyâ
 
 The icons are no longer grayed out and the blue arrows are changed to a + sign. The + indicates that there is more information to be displayed. Also, underlining the bus line&#8217;s name makes it clear that it&#8217;s a clickable link (underlining is a universal indicator of a clickable link).
 
-&nbsp;
+ 

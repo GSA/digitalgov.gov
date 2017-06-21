@@ -84,6 +84,6 @@ You can find more about these approaches in the resources below.
   * [Responsive Tables](http://zurb.com/playground/responsive-tables)
   * [UX User experience &#8211; How Should Large Table Columns be Handled on a Responsive Design?](http://ux.stackexchange.com/questions/15463/how-should-large-table-columns-be-handled-on-a-responsive-design)[A Responsive Design Approach for Complex, Multi-Column Data Tables](http://filamentgroup.com/lab/responsive-design-approach-for-complex-multicolumn-data-tables.html)
 
-&nbsp;
+ 
 
 _**David Fern** is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation. **Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services. **Beth Martin** is a Usability Specialist at the Federal Aviation Administration._

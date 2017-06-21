@@ -18,4 +18,4 @@ Believing in this best practice, we’re launching 18F’s [/developer page](htt
 
 <sup>1</sup> as recommended in the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#open-data-default).
 
-&nbsp;
+ 

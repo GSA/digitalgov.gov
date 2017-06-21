@@ -2,7 +2,7 @@
 url: /2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/
 date: 2013-02-11 2:02:07 -0400
 title: 'You&#8217;ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar'
-summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences&nbsp;by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine has'
+summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine has'
 categories:
   - Mobile
   - UX
@@ -37,4 +37,4 @@ Anyone interested in digital government, mobile strategy, mobile development, na
 
 [slideshare id=35274693&doc=mobile-user-experience-solve-outbreak-140529135343-phpapp02&w=600]
 
-&nbsp;
+ 

@@ -2,7 +2,7 @@
 url: /2016/01/05/trends-on-tuesday-mobile-only-u-s-audiences-grow-while-broadband-usage-drops/
 date: 2016-01-05 10:02:30 -0400
 title: 'Trends on Tuesday: Mobile-Only U.S. Audiences Grow While Broadband Usage Drops'
-summary: 'The Pew Research Center released an interesting report about home Internet usage that revealed broadband usage plateaued in 2013 and, in fact, dropped 3%&nbsp;in 2015. Later in the report, Pew states the growth in mobile-only audiences compensated for the drop in home broadband usage, so the overall number of people with Internet access hasn&rsquo;t changed'
+summary: 'The Pew Research Center released an interesting report about home Internet usage that revealed broadband usage plateaued in 2013 and, in fact, dropped 3% in 2015. Later in the report, Pew states the growth in mobile-only audiences compensated for the drop in home broadband usage, so the overall number of people with Internet access hasn&rsquo;t changed'
 authors:
   - wsullivan
 categories:
@@ -28,6 +28,6 @@ In fact, in every category of Internet usage examples cited by Pew, non-broadban
 
 This research reiterates the importance of government digital properties being optimized for mobile-only audiences who don’t have access to desktop or home Internet. Stay tuned to DigitalGov to [learn more about mobile-only audiences](https://www.WHATEVER/category/mobile/) and how government agencies can serve them better!
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

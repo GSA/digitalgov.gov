@@ -23,4 +23,4 @@ Please go to the [HHS Syndication Storefront](https://digitalmedia.hhs.gov/store
 
 For more information, please visit [Free Web Content from NIH](http://nih.gov/health/syndication/index.htm). For questions, please [email NIH](mailto:Syndication@nih.gov).
 
-&nbsp;
+ 

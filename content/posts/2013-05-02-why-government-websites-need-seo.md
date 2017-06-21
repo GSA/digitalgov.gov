@@ -2,7 +2,7 @@
 url: /2013/05/02/why-government-websites-need-seo/
 date: 2013-05-02 9:00:40 -0400
 title: Why Government Websites Need SEO
-summary: 'As the SEO Specialist for Brighton College, I have come across many frustrating, un-optimized, information-rich government websites which are difficult to find on the Internet.&nbsp;Although government websites may have an advantage over commercial websites pertaining to search engine optimization (SEO), without an intentional SEO strategy Internet'
+summary: 'As the SEO Specialist for Brighton College, I have come across many frustrating, un-optimized, information-rich government websites which are difficult to find on the Internet. Although government websites may have an advantage over commercial websites pertaining to search engine optimization (SEO), without an intentional SEO strategy Internet'
 authors:
   - stephanie-stover
 categories:
@@ -29,4 +29,4 @@ Having a website which correctly ranks for keywords pertaining to the site infor
 
 By guest blogger, <strong style="line-height: 1.5em">Stephanie Stover, </strong>Search Engine Specialist for <a style="line-height: 1.5em" href="http://www.brightoncollege.com/">vocational training</a> school Brighton College located in Vancouver, B.C.
 
-&nbsp;
+ 

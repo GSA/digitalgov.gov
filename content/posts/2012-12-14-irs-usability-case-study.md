@@ -55,4 +55,4 @@ The IRS team took the ideas from the First Fridays test and was able to implemen
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/IRS-after-new.png" alt="IRS after - new" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/IRS-after-new.png)
 
-&nbsp;
+ 

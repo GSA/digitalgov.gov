@@ -137,6 +137,6 @@ You can [view the presentation slides](https://s3.amazonaws.com/sitesusa/wp-cont
 
 [youtube=http://www.youtube.com/watch?v=THvdtQQURZ0&w=600]
 
-&nbsp;
+ 
 
 For more content like this, [join the Customer Experience Community (CX-COP)](https://www.WHATEVER/communities/customer-experience-community/).

@@ -56,7 +56,7 @@ World War I had a profound effect on many aspects of American society, including
 
 These are just a few examples of how World War I transformed the fabric of our nation. Reach out to your agency’s history office, and see how you can incorporate this war into your communication planning. Consider joining our WWI-focused social media group for resources, suggestions, or support for producing content. [Email me](mailto:herrmanns@abmc.gov?subject=Why World%20War%20I%20Matters%20for%20Your%20Agency) to join.
 
-&nbsp;
+ 
 
 _**About the American Battle Monuments Commission** (ABMC):
   

@@ -2,7 +2,7 @@
 url: /2015/11/10/trends-on-tuesday-5-tips-for-designing-touch-interactions/
 date: 2015-11-10 10:00:14 -0400
 title: 'Trends on Tuesday: 5 Tips for Designing Touch Interactions'
-summary: 'Josh Clark, one of the pioneers of touch Web design,&nbsp;and author of Tapworthy and Designing for Touch, published an excellent article on A List Apart analyzing&nbsp;How We Hold Our Gadgets&nbsp;that has a wealth of data and graphics about this interesting and emerging design challenge.&nbsp;Below&nbsp;are 5 notable lessons from the post: 1. Portrait (vertical) orientation dominates'
+summary: 'Josh Clark, one of the pioneers of touch Web design, and author of Tapworthy and Designing for Touch, published an excellent article on A List Apart analyzing How We Hold Our Gadgets that has a wealth of data and graphics about this interesting and emerging design challenge. Below are 5 notable lessons from the post: 1. Portrait (vertical) orientation dominates'
 authors:
   - wsullivan
 categories:

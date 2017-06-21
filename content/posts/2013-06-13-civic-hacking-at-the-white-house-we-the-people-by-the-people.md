@@ -2,7 +2,7 @@
 url: /2013/06/13/civic-hacking-at-the-white-house-we-the-people-by-the-people/
 date: 2013-06-13 10:16:48 -0400
 title: 'Civic Hacking at the White House: We the People, By the People'
-summary: 'On June 1st and 2nd, more than 11,000&nbsp;civic activists, technology experts, and entrepreneurs around the country came together for the National Day of Civic Hacking. Civic activists, technology experts, and entrepreneurs in 83 cities developed software to help others in their own neighborhoods and across the country. More'
+summary: 'On June 1st and 2nd, more than 11,000 civic activists, technology experts, and entrepreneurs around the country came together for the National Day of Civic Hacking. Civic activists, technology experts, and entrepreneurs in 83 cities developed software to help others in their own neighborhoods and across the country. More'
 authors:
   - lnelson
 categories:
@@ -19,7 +19,7 @@ Here at the White House, we celebrated the day by welcoming more than 30 develop
 
 {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/514-x-270-WH-Civic-Hackathon.jpg" alt="Photo of hackers working at the White House civic hackathon." %}
 
-&nbsp;
+ 
 
 By the end of the day, sixteen projects were presented to the group, and several of them have already been added to the [We the People API gallery](https://petitions.whitehouse.gov/how-why/api-gallery), which features links to working demos and downloadable code for you to use in your own projects. Among them are Yoni Ben-Meshulam&#8217;s We the Entities, which allows users to perform text-based analysis of petition data using OpenCalais, AlchemyAPI, and Semantria. Steve Grunwell&#8217;s WordPress plugin allows you to easily embed We The People petitions into your WordPress site via shortcodes and widgets. Arun Nagarajan and Daniel McLaughlin&#8217;s Google Spreadsheet integration lets you search and process petition data directly through Google Spreadsheets. Douglas Back, Yahel Carmon, Jesse Beach, and Clinton Dreisback developed Petition.io, an analytics dashboard including tools to chart signatures over time, map signature locations, and assess social media reach. <a href="https://petitions.whitehouse.gov/how-why/api-gallery" target="_blank">Check out the full gallery</a>.
 

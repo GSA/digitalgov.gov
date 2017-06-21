@@ -2,7 +2,7 @@
 url: /2014/01/23/rail-crossing-locator-app-from-dot/
 date: 2014-01-23 5:43:34 -0400
 title: Rail Crossing Locator App from DOT
-summary: ' Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too. But what about apps that can potentially&nbsp;increase our personal and the greater public safety&nbsp;in our neighborhoods and communities?'
+summary: ' Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too. But what about apps that can potentially increase our personal and the greater public safety in our neighborhoods and communities?'
 categories:
   - Mobile
   - "What's New"

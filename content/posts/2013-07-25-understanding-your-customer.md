@@ -2,7 +2,7 @@
 url: /2013/07/25/understanding-your-customer/
 date: 2013-07-25 10:14:06 -0400
 title: Understanding Your Customer
-summary: 'Do you know who your customers are? &nbsp;And what they expect from your organization? One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers? &nbsp;In some cases your customers'
+summary: 'Do you know who your customers are?  And what they expect from your organization? One of the most critical components of a successful customer experience program is to understand your customer. The first step is knowing who your customers are. Are they veterans, students, senior citizens or other federal workers?  In some cases your customers'
 authors:
   - martha-dorris
 categories:

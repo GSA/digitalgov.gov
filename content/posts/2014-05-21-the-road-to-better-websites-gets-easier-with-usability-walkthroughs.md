@@ -36,21 +36,21 @@ Based on these suggestions, our Web team reviewed some of our most visited pages
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-553-Usability-Walkthroughs-2014-4-11-water-cycle-game-page-after-screenshot-with-notes.jpg" alt="Water cycle game page after screenshot with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-4-11-water-cycle-game-page-after-screenshot_with-notes-1.jpg)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Another key area the team targeted for us to improve was a page pointing to our major software, publications, and other resources for professionals who work in oil and chemical spill response. It was dense with links and information and lacked the white space needed to scan quickly. This is what it looked like before:
 
-&nbsp;
+ 
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-512-Usability-Walkthroughs-Before-ANNOTATED.jpg" alt="Before screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/BeforeANNOTATED.jpg)
 
-&nbsp;
+ 
 
 We came up with six potential layouts to address these issues. Putting these options before our broader Web team, we noted people’s feedback on each layout for this page. We ultimately settled on a layout that breaks the single page into two (separating oil spill from chemical spill response tools), organizes the resources by type (software vs. publications), and uses bullets to add spacing between items listed. See the results below:
 
-&nbsp;
+ 
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-547-Usability-Walkthroughs-After-ANNOTATED.jpg" alt="After screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/AfterANNOTATED.jpg)
 

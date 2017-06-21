@@ -58,4 +58,4 @@ Here are details from Harvard about this prestigious award and the types of inno
 > 
 > The Innovations in American Government Awards was created by the Ford Foundation in 1985 in response to widespread pessimism and distrust in government’s effectiveness. Since its inception, nearly 500 government innovations across all jurisdiction levels have been recognized and have collectively received more than $20 million in grants to support dissemination efforts.
 > 
-> &nbsp;
+>  

@@ -2,7 +2,7 @@
 url: /2016/01/07/content-models-as-simple-as-pizza-pie/
 date: 2016-01-07 1:07:04 -0400
 title: 'Content Models: As Simple as Pizza Pie!'
-summary: 'Open and structured content models assist in the dissemination of information to various&nbsp;devices and media types. In the age of smartphones, tablets, social media tools,&nbsp;syndication and websites, the need for modular content is growing. How can you make your content adaptive to all of these mediums? Open and structured content models can help you create'
+summary: 'Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for modular content is growing. How can you make your content adaptive to all of these mediums? Open and structured content models can help you create'
 authors:
   - christen-geiler
 categories:
@@ -87,6 +87,6 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
 
 Check out [Government Open and Structured Content Models are Here!](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/)
 
-&nbsp;
+ 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

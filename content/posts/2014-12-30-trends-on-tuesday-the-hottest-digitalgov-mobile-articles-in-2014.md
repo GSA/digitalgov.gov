@@ -2,7 +2,7 @@
 url: /2014/12/30/trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014/
 date: 2014-12-30 11:10:55 -0400
 title: 'Trends on Tuesday: The Hottest DigitalGov Mobile Articles in 2014'
-summary: 'QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year. We publish mobile trends every Tuesday and&nbsp;feature a government mobile app every Thursday on the mobile channel of DigitalGov. In addition, we do recaps of MobileGov'
+summary: 'QR codes, apps about whales, bullying and railroad crossings, challenges of responsive Web design and mobilizing charts and tables were the things you were most interested in this year. We publish mobile trends every Tuesday and feature a government mobile app every Thursday on the mobile channel of DigitalGov. In addition, we do recaps of MobileGov'
 authors:
   - jparcell
 categories:
@@ -45,6 +45,6 @@ You also wanted to know [how we find out about these apps](https://www.WHATEVER/
 
 What other mobile topics do you want to read about in the DigitalGov Mobile channel in 2015? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/mobile-Baby-New-Year-and-rotary-phone-Father-Time-LiquidLibrary-Jupiterimages-liquidlibrary-Thinkstock-90271973.jpg" alt="mobile Baby New Year and rotary phone Father Time" %} 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

@@ -2,7 +2,7 @@
 url: /2012/12/18/analytics-apis-and-open-content-resources/
 date: 2012-12-18 12:34:25 -0400
 title: Analytics, APIs and Open Content Resources
-summary: 'Agencies have been working away at building better digital services and here, at the&nbsp;Digital Services Innovation Center, we&#8217;ve been building resources to help. We have been focusing on three areas, 1.&nbsp;The Digital Analytics Program.&nbsp;We&nbsp;announced&nbsp;this program in early October to help agencies better&nbsp;measure performance and customer satisfaction to'
+summary: 'Agencies have been working away at building better digital services and here, at the Digital Services Innovation Center, we&#8217;ve been building resources to help. We have been focusing on three areas, 1. The Digital Analytics Program. We announced this program in early October to help agencies better measure performance and customer satisfaction to'
 authors:
   - gwynne-kostin
 categories:

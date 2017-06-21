@@ -73,7 +73,7 @@ Missed the webinar? You can watch it below.
 
 [youtube=http://www.youtube.com/watch?v=2RjPMpu_03s&w=600]
 
-&nbsp;
+ 
 
 _**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services and **Debra Harris** is a Public Affairs Specialist at the Defense Finance and Accounting Service._
 

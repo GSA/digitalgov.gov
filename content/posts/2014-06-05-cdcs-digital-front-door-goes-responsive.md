@@ -26,7 +26,7 @@ That was the strategy behind the new homepage from [**The Centers for Disease Co
 
 Before setting out on their journey of Web redesign, the CDC team sorted through satisfaction survey and traffic data from more than 10,000 users who came to CDC.gov. They then completed two more surveys that asked users how the homepage should be improved and what content and functions were most important. Once the team had a final prototype of the new site, they conducted thorough usability testing on a variety of smartphones, small and large-sized tablets, desktops and laptops.
 
-&nbsp;
+ 
 
 So, what DID you want from CDC, beyond a mobile-optimized homepage that performs well across multitudes of devices and screen dimensions? How about:
 
@@ -46,4 +46,4 @@ How did all that work out? Looks like the upfront research paid off: In a recent
 
 _Don&#8217;t forget: You can download cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._
 
-&nbsp;
+ 

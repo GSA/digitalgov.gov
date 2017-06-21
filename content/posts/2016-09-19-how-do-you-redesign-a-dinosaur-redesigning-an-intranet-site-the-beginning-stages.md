@@ -102,7 +102,7 @@ In actuality, the redesign process started long before I received the official â
 </p>
 
 <p>
-  &nbsp;
+   
 </p>
 
 <p>

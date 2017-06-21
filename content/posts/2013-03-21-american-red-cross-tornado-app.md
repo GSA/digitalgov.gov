@@ -24,4 +24,4 @@ tag:
 
 You can find more apps like the [Tornado App](http://www.redcross.org/news/press-release/New-Tornado-App-Brings-Safety-Information-to-Mobile-Devices) on the [USA.gov Apps Gallery](http://apps.usa.gov/).
 
-&nbsp;
+ 

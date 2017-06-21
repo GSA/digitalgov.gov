@@ -2,7 +2,7 @@
 url: /2014/12/17/3rd-u-s-public-participation-playbook-draft-released-this-month/
 date: 2014-12-17 5:19:13 -0400
 title: 3rd U.S. Public Participation Playbook Draft Released This Month
-summary: 'The new&nbsp;third&nbsp;draft of the U.S. Public Participation Playbook&nbsp;continues to incorporate changes proposed from more than&nbsp;100 suggestions submitted via&nbsp;public comment aimed at measuring the performance and improving the development of government programs. It&nbsp;takes the 13 initial &#8220;plays&#8221; from rough brainstorming and collaborations to a more refined, action-focused presentation that will help contributors understand and identify opportunities'
+summary: 'The new third draft of the U.S. Public Participation Playbook continues to incorporate changes proposed from more than 100 suggestions submitted via public comment aimed at measuring the performance and improving the development of government programs. It takes the 13 initial &#8220;plays&#8221; from rough brainstorming and collaborations to a more refined, action-focused presentation that will help contributors understand and identify opportunities'
 authors:
   - jherman
 categories:
@@ -45,4 +45,4 @@ For more information on what [the U.S. Public Participation Playbook](http://www
 
 Thank you to all who contributed in recent weeks, and to all who will contribute in the coming months as we build from this foundation we&#8217;ve built together. We invite you to comment via the <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-v3" target="_blank">Madison platform</a>, hosted by the **OpenGov Foundation**, through email at <justin.herman@gsa.gov> or by scheduling a time for face-to-face discussion.
 
-&nbsp;
+ 

@@ -44,4 +44,4 @@ QR Codes can provide a mobile-friendly way to advertise your products and servic
   
 GSA FAS CIO has developed a QR code generator for FAS that can be used more broadly than FAS when feasible. [QR Codes](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/QR-Codes.pptx)
   
-&nbsp;
+ 

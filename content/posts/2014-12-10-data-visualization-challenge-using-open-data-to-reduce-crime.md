@@ -43,4 +43,4 @@ From uncovering differences in criminal court case processing to exploring the s
 
 _Editor&#8217;s Note: This article is part of our [December Editorial Theme around Crowdsourcing](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview"). Check out the other [theme articles](https://www.WHATEVER/category/monthly-theme/) we&#8217;re publishing this month._ 
 
-&nbsp;
+ 

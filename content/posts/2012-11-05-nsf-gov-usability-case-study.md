@@ -32,6 +32,6 @@ The National Science Foundation&#8217;s [NSF.gov](http://nsf.gov/) site conducte
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NSF-after-2012-1.jpg" alt="NSF-after-2012 (1)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NSF-after-2012-1.jpg)
 
-&nbsp;
+ 
 
-&nbsp;
+ 

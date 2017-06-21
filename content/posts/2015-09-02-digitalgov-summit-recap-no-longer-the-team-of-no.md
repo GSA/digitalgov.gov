@@ -40,4 +40,4 @@ The rest of the 25 minute panel can be viewed below.
 
 [youtube=http://www.youtube.com/watch?v=VkesfglhH8Q&w=600]
 
-&nbsp;
+ 

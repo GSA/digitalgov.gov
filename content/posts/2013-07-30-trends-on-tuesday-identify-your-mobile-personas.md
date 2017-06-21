@@ -2,7 +2,7 @@
 url: /2013/07/30/trends-on-tuesday-identify-your-mobile-personas/
 date: 2013-07-30 9:35:38 -0400
 title: 'Trends on Tuesday: Identify Your Mobile Personas'
-summary: 'Sparksheet&nbsp;recently posted an article by Greg Hickman, where he explains how to create mobile personas for your consumers when developing a mobile strategy. When it comes to mobile marketing'
+summary: 'Sparksheet recently posted an article by Greg Hickman, where he explains how to create mobile personas for your consumers when developing a mobile strategy. When it comes to mobile marketing'
 authors:
   - rachel-hurley
 categories:
@@ -41,4 +41,4 @@ Bruce Hershey’s mobile tactic heat map takes these mobile personas and examine
 
 When your agency is implementing a mobile strategy, it is critical to think about the customer first. Determining your customer&#8217;s personas will help you identify the tools that resonate most with those personas. Remember, the mobile world is constantly changing, so you should be constantly updating your personas and tactics.
 
-&nbsp;
+ 

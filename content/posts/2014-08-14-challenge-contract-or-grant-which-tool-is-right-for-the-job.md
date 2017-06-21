@@ -42,7 +42,7 @@ For more, view Ortega’s slides or the webinar in its entirely below:
 
 [slideshare id=38261019&doc=prizescontractsgrants-digitalgovtbcorrectedtyposonslides1and2-140822115613-phpapp02&w=600]
 
-&nbsp;
+ 
 
 [youtube=http://www.youtube.com/watch?v=66EX-qTBgUk&w=600]
 

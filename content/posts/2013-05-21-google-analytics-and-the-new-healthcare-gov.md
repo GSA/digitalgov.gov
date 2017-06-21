@@ -2,7 +2,7 @@
 url: /2013/05/21/google-analytics-and-the-new-healthcare-gov/
 date: 2013-05-21 8:53:22 -0400
 title: Google Analytics and the New Healthcare.gov
-summary: 'The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly. In April we told you about&nbsp;Jekyll. The new Healthcare.gov will use this free'
+summary: 'The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly. In April we told you about Jekyll. The new Healthcare.gov will use this free'
 authors:
   - lnelson
 categories:

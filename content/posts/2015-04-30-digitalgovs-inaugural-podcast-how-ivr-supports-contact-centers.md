@@ -26,6 +26,6 @@ For the first edition, we talked to Diane ​Devera, &#8220;Voice of the IVR&#82
 
 <https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Voice-of-IVR-Podcast.mp3></audio> 
 
-&nbsp;
+ 
 
 To listen to the podcast offline, [download the mp3 file](https://drive.google.com/file/d/0B_S79lXdhuh0c2kzWjBaY0xWUE0/view?usp=sharing "download the mp3 file").

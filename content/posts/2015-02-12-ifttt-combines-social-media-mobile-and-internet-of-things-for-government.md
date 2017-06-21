@@ -42,4 +42,4 @@ What public service channels and recipes would you like to see added to this pla
 
 Also, take a look at [IFTTT](https://ifttt.com/) and let us know your ideas for the best recipes federal managers need to know to measurably improve their services and deliver them more cost effectively, and we’ll share them in an upcoming post.
 
-&nbsp;
+ 

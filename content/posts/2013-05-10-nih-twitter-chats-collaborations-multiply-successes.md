@@ -49,4 +49,4 @@ tag:
 
 By guest blogger **Yasmine Kloth**, Digital and Social Media Strategist, working with the National Center for Complementary and Alternative Medicine.
 
-&nbsp;
+ 

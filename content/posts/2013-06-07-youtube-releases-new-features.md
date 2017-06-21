@@ -2,7 +2,7 @@
 url: /2013/06/07/youtube-releases-new-features/
 date: 2013-06-07 11:19:24 -0400
 title: YouTube Releases New Features
-summary: 'YouTube recently upgraded &nbsp;to the new&nbsp;One Channel design. The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single&nbsp;2560 x 1440&nbsp;px image that fits its'
+summary: 'YouTube recently upgraded  to the new One Channel design. The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits its'
 authors:
   - jason-kelly
 categories:

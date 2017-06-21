@@ -21,7 +21,7 @@ Engagement is also the foundation of all user experience initiatives and is this
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/464-x-600-World-Usability-Day-UX-Graphic-final.jpg" alt=""5 Things You Should Know About #UXGov" for World Usability Day, November 13, 2014" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/World-Usability-Day-UX-Graphic-with-links-final.pdf)
 
-&nbsp;
+ 
 
 There are also a multitude of ways that you can engage with #UXgov through the DigitalGov website:
 

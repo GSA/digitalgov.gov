@@ -2,7 +2,7 @@
 url: /2014/02/26/double-digit-crowdsourcing-competitions-launch-in-february/
 date: 2014-02-26 1:25:05 -0400
 title: Double Digit Crowdsourcing Competitions Launch in February
-summary: 'This is a phenomenal month for federal challenge and prize competitions with 12 new programs&nbsp;launched in February. The challenge.gov platform usually averages four to six new challenges a month, so we&#8217;re excited to see the year start off with a big push to engage citizens in creative problem'
+summary: 'This is a phenomenal month for federal challenge and prize competitions with 12 new programs launched in February. The challenge.gov platform usually averages four to six new challenges a month, so we&#8217;re excited to see the year start off with a big push to engage citizens in creative problem'
 authors:
   - tmarcoullier
 categories:

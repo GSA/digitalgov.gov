@@ -35,4 +35,4 @@ According to <a href="http://www.lukew.com/resources/mobile_first.asp" rel="nofo
 
 Mobile first is closely related to the concept of [responsive web design](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools") which uses <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" rel="nofollow">W3C CSS3 media queries</a>.
 
-&nbsp;
+ 

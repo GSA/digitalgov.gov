@@ -152,7 +152,7 @@ tag:
     </ul>
     
     <p>
-      &nbsp;
+       
     </p>
   </div>
 </div>

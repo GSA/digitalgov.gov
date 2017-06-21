@@ -55,7 +55,7 @@ Given all these responsibilities, the CDO must have support from the highest lev
   If your agency created a CDO position, what would you include in their job description?
 </p>
 
-&nbsp;
+ 
 
 <p dir="ltr">
   <em>The views and opinions presented in this post are solely those of the author and do not necessarily represent those of  GSA.  In my previous blog post, I discussed how to decide if <a href="http://blog.howto.gov/2013/05/30/does-your-agency-need-a-chief-digital-officer/">your agency needs a Chief Digital Officer</a>.</em>

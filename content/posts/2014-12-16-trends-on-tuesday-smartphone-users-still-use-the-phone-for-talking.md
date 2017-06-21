@@ -2,7 +2,7 @@
 url: /2014/12/16/trends-on-tuesday-smartphone-users-still-use-the-phone-for-talking/
 date: 2014-12-16 10:57:53 -0400
 title: 'Trends on Tuesday: Smartphone Users Still Use the Phone for Talking'
-summary: 'Smartphones are changing how organizations do business&mdash;they are more than just smart Web browsers. As I noted last week, purchases&nbsp;from mobile phones have dramatically increased during the holiday shopping season. The infographic from IfByPhone&nbsp;demonstrates how people&nbsp;are using their'
+summary: 'Smartphones are changing how organizations do business&mdash;they are more than just smart Web browsers. As I noted last week, purchases from mobile phones have dramatically increased during the holiday shopping season. The infographic from IfByPhone demonstrates how people are using their'
 authors:
   - jparcell
 categories:

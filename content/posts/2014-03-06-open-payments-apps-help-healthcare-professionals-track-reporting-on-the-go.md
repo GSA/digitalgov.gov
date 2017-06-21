@@ -28,39 +28,39 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
 
 [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Without getting too wonky, the [**Open Payments Program app for Physicians**](http://apps.usa.gov/open-payments-for-physicians.shtml)enables doctors to ensure that the data reported about them by medical industry is correct and to track payments and transactions in real time. Because the heath care industry and manufacturers are responsible for official reporting of said payments, transactions and business relationships, the **[Open Payments Program app for Industry](http://apps.usa.gov/open-payments-for-industry.shtml)** offers companies a similar real-time payments tracking feature as well as a repository for collecting up-to-date physician profile information, among other features.
 
 [<img class=" wp-image-131062   " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png" alt="" width="553" height="255" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png) 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Is all this talk a bit too in the weeds for you? Well, just skip straight to the apps to see how it all comes together. The Open Payments apps for [Physicians](http://apps.usa.gov/open-payments-for-physicians.shtml) and for [Industry](http://apps.usa.gov/open-payments-for-industry.shtml) are available for iOS and Android devices.
 

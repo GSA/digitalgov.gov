@@ -89,7 +89,7 @@ Breadth is measured through standard social media analytics that provide high-le
 
 **How to Measure**—As the most standard category of social media metric, these are easily reported through the social platforms themselves or their native analytics programs.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -190,7 +190,7 @@ Breadth is measured through standard social media analytics that provide high-le
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ### Community Growth
 
@@ -200,7 +200,7 @@ Breadth is measured through standard social media analytics that provide high-le
 
 **How to Measure**—As the most standard category of social media metric, these are easily reported through the social platforms themselves of their native analytics programs.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -232,7 +232,7 @@ Breadth is measured through standard social media analytics that provide high-le
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Depth
 
@@ -252,7 +252,7 @@ Depth is measured through high-level, standard social media analytics that measu
   * Google Analytics displays conversion from social traffic sources.
   * Record Conversion and Conversion Value into your spreadsheet.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -297,7 +297,7 @@ Depth is measured through high-level, standard social media analytics that measu
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ### Viewing
 
@@ -307,7 +307,7 @@ Depth is measured through high-level, standard social media analytics that measu
 
 **How to Measure**—YouTube&#8217;s &#8220;Minutes Watched&#8221; and &#8220;Views&#8221; metrics can be collected through the native YouTube analytics tool.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -365,7 +365,7 @@ Depth is measured through high-level, standard social media analytics that measu
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Direct Engagement
 
@@ -379,7 +379,7 @@ Direct engagement measures the extent to which a visitor uses the social media c
 
 **How to Measure**—The data presented in this category can be collected through updating a spreadsheet after a target event, or through the course of a work day. It may be helpful to collect the content of the queries themselves in order to apply to long-term content and engagement strategy.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -424,7 +424,7 @@ Direct engagement measures the extent to which a visitor uses the social media c
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ### Engagement Volume
 
@@ -434,7 +434,7 @@ Direct engagement measures the extent to which a visitor uses the social media c
 
 **How to Measure**—The high-level data represented in this category is collected and reported through the native analytics programs for each individual tool—Twitter Analytics, Facebook Insights, and YouTube Analytics. Google+ currently has a limited native analytics tool called Ripples, but they plan to release a more robust version with features similar to the others. In the meantime, Hootsuite may be used to track the provided metrics for Google+. Tumblr notes can be most easily counted by viewing the account’s archive.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -561,7 +561,7 @@ Direct engagement measures the extent to which a visitor uses the social media c
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Loyalty
 
@@ -579,7 +579,7 @@ You&#8217;ll need to [create a custom segment](http://support.google.com/googlea
 
 [Visitor loyalty numbers](http://www.trendingupward.net/2010/10/visitor-loyalty/) will depend greatly on your customers and the content you produce. Therefore, it&#8217;s important to look at your baseline levels, set a goal and measure your trend over time.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -611,7 +611,7 @@ You&#8217;ll need to [create a custom segment](http://support.google.com/googlea
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Customer Experience
 
@@ -631,7 +631,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—There are a variety of free tools available to quickly collect basic, high-level sentiment analysis around accounts, campaigns and programs. Before using them, it is recommended that managers consult with their privacy officers and legal counsel to ensure the tool has acceptable Terms of Service for government use and privacy protections. Also, managers should inform GSA of their interest in a free tool, for possible federal-friendly terms of service negotiation. A growing number of paid services are also available to agencies, which traditionally offer more in-depth analysis. A few examples of these paid tools used by federal agencies include Topsy and Radian6.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -663,7 +663,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ### Indicators
 
@@ -673,7 +673,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—Like sentiment, this metric is commonly available through free online tools. Before using a tool agencies should consult with their legal counsel whether the Terms of Service are acceptable to their agency, or contact GSA to explore negotiating federal-friendly terms.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -719,7 +719,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ### Survey Feedback
 
@@ -729,7 +729,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 **How to Measure**—Most agencies already have access to survey software through their web analytics programs. Agencies should coordinate pre-existing web analysis with their social media analysis in order to best identify trends in overall digital services and reduce duplication of efforts. Agencies should also make sure social media surveys are covered under existing Paperwork Reduction Act clearances.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -773,7 +773,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Campaigns
 
@@ -785,7 +785,7 @@ Campaign analysis reports how specific programs and tactics perform using the co
 
 **How to Measure**—Campaigns are measured through combinations of metrics, based on the desired outcomes of the activity and characteristics such as community size, engagement levels and responsiveness.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -845,7 +845,7 @@ Campaign analysis reports how specific programs and tactics perform using the co
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Strategic Outcomes
 
@@ -857,7 +857,7 @@ Strategic Outcome analysis reports how the performance of social media strategie
 
 **How to Measure**—Strategic Outcomes are reported narratively through combinations of metrics, campaigns and the goals of your organization.
 
-&nbsp;
+ 
 
 <table border="1" cellspacing="1" cellpadding="7">
   <tr>
@@ -917,7 +917,7 @@ Strategic Outcome analysis reports how the performance of social media strategie
   </tr>
 </table>
 
-&nbsp;
+ 
 
 ## Part 4: Resources, Training, and How to Provide Feedback
 
@@ -943,4 +943,4 @@ Ways to provide feedback and engage on this topic:
 
 We’re also looking to set up a collaborative space to make it easier for multiple contributors to add and upgrade the content. Stay tuned for more information.
 
-&nbsp;
+ 

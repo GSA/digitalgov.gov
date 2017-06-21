@@ -2,7 +2,7 @@
 url: /2016/07/08/introducing-the-digital-audiovideo-community-of-practice/
 date: 2016-07-08 1:30:48 -0400
 title: Introducing the Digital Audio/Video Community of Practice
-summary: 'Tech giants have changed the world of broadcast forever. In a little more than&nbsp;a year, video on Facebook went from being a seldomly seen media type on a user&rsquo;s timeline to a strategic priority for Mark Zuckerberg. The platform now serves over 8 billion video views a day and Facebook continues to roll out improvements'
+summary: 'Tech giants have changed the world of broadcast forever. In a little more than a year, video on Facebook went from being a seldomly seen media type on a user&rsquo;s timeline to a strategic priority for Mark Zuckerberg. The platform now serves over 8 billion video views a day and Facebook continues to roll out improvements'
 authors:
   - randy-abramson
 categories:

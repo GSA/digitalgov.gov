@@ -21,7 +21,7 @@ Fear not, fair government communicator—there is hope! On May 15, top governmen
 
 [youtube=http://www.youtube.com/watch?v=V2SjyBs0zRc&w=600]
 
-&nbsp;
+ 
 
 This international measurement extravaganza, sponsored by the [Federal Communicators Network](http://fedcommnetwork.blogspot.com/) in the U.S., the [Government Communications Service](https://gcn.civilservice.gov.uk/) in the U.K., and the [Communications Community Office](http://pco-bcp.gc.ca/premier.asp) in Canada, featured on-point experts and great conversation. Here’s a taste:
 
