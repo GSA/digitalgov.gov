@@ -1,13 +1,13 @@
 ---
-
-
+url: /2017/03/13/letting-go-of-85-percent-of-our-email-subscribers/
 date: 2017-03-13 1:04:16 -0400
-title: 'Letting Go of 85 Percent of Our Email Subscribers'
-summary: 'Late last year, Business.USA.gov (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not. We had to tackle several things at the start'
-authors: [victoria-wales]
+title: Letting Go of 85 Percent of Our Email Subscribers
+summary: Late last year, Business.USA.gov (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not. We had to tackle several things at the start
+authors:
+  - victoria-wales
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - email marketing
@@ -47,7 +47,7 @@ About two percent ultimately decided to stay with us. After a few weeks, we sign
 
 Our open rates have skyrocketed since we implemented our subscriber re-engagement campaign. They’ve gone from about 6-7% to 35-40%. The industry average for government email is 26.33% according to the experts at [MailChimp](https://mailchimp.com/resources/research/email-marketing-benchmarks/). We now serve people who enjoy receiving our emails and have a better gauge on which topics related to business development are valued by our subscribers. But we&#8217;re far from done updating our email communications strategy. We are working on implementing plans to improve our click rates and promote greater engagement.
 
-We’ve identified our next challenge to tackle: Why are people opening our emails but not clicking on much of our content? We’re exploring possible causes of that and asking ourselves questions like: Are we including too many topics in a single email? Are our templates too busy and not drawing the reader’s  interest?
+We’ve identified our next challenge to tackle: Why are people opening our emails but not clicking on much of our content? We’re exploring possible causes of that and asking ourselves questions like: Are we including too many topics in a single email? Are our templates too busy and not drawing the reader’s interest?
 
 We refine our approach to increase engagement as we develop our new email marketing strategy, test ideas, and deliver content from [USA.gov/business](https://www.usa.gov/business). Stay tuned!
 

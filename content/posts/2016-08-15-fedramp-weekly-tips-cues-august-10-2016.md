@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/08/15/fedramp-weekly-tips-cues-august-10-2016/
 date: 2016-08-15 12:00:13 -0400
-title: 'FedRAMP Weekly Tips & Cues — August 10, 2016'
-summary: 'Many of &nbsp;our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often &nbsp;share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns. This week’s tips come from FedRAMP’s Accelerated event. Read the'
-authors: [fedramp]
+title: 'FedRAMP Weekly Tips &#038; Cues – August 10, 2016'
+summary: 'Many of &nbsp;our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often &nbsp;share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns. This week&rsquo;s tips come from FedRAMP&rsquo;s Accelerated event. Read the'
+authors:
+  - fedramp
 categories:
   - Managing Digital
 tag:
@@ -17,10 +17,9 @@ tag:
 
 Many of  our cloud service providers (CSPs), federal agencies, and third party assessment organizations (3PAOs) often  share common issues and questions when going through the FedRAMP process. To help guide our stakeholders, we will be providing weekly tips and address frequently asked questions and concerns.
 
-This week’s  tips come from FedRAMP’s  Accelerated event. Read the full list of questions asked during FedRAMP Accelerated [here](https://www.fedramp.gov/fedramp-webcasts/).
+This week’s tips come from FedRAMP’s Accelerated event. Read the full list of questions asked during FedRAMP Accelerated [here](https://www.fedramp.gov/fedramp-webcasts/).
 
-Send potential tips and questions that you would like published as a tip [via [email](mailto:info@FedRAMP.gov)]. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-348-Cloud-Kalawin-iStock-Thinkstock-470542178.jpg" alt="Kalawin/iStock/Thinkstock" %} 
+Send potential tips and questions that you would like published as a tip [via [email](mailto:info@FedRAMP.gov)]. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-348-Cloud-Kalawin-iStock-Thinkstock-470542178.jpg" alt="Kalawin/iStock/Thinkstock" %} 
 
 ## **Federal Agencies**
 

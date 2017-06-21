@@ -1,10 +1,11 @@
 ---
-
-
+url: /2014/07/18/solving-a-mobilegov-mystery-using-open-source-cms-to-implement-responsive-web-design/
 date: 2014-07-18 1:24:56 -0400
-title: 'Solving a MobileGov Mystery\: Using Open Source CMS to Implement Responsive Web Design'
-summary: ' Responsive Web design is widely-known as a go-to solution for designing a website to fit on any device’s screen size. As we found in our February workshop, federal agencies are implementing it for various reasons. There are various ways to implement responsive design.'
-authors: [jparcell, katie-steffy]
+title: 'Solving a MobileGov Mystery: Using Open Source CMS to Implement Responsive Web Design'
+summary: ' Responsive Web design is widely-known as a go-to solution for designing a website to fit on any device&rsquo;s screen size. As we found in our February workshop, federal agencies are implementing it for various reasons. There are various ways to implement responsive design.'
+authors:
+  - jparcell
+  - katie-steffy
 categories:
   - Content
   - Mobile
@@ -19,10 +20,9 @@ tag:
   - U.S. Department of State
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" %}
-
-Responsive Web design is widely-known as a go-to solution for [designing a website to fit on any device’s  screen size](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools"). As we found in our [February workshop](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/), federal agencies are implementing it for various reasons.
+Responsive Web design is widely-known as a go-to solution for [designing a website to fit on any device’s screen size](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools"). As we found in our [February workshop](https://www.WHATEVER/2014/03/24/why-go-responsive-heres-what-feds-are-saying/), federal agencies are implementing it for various reasons.
 
 There are various ways to implement responsive design. Some agencies have implemented it via [structured data and content modeling](https://www.WHATEVER/2014/05/27/video-blog-part-3-sarah-crane-usa-gov/) and others have [completely redesigned their website](https://www.WHATEVER/2014/05/15/defense-finance-and-accounting-service-goes-responsive/). Agencies who are not yet at that point are looking for ways they can begin.
 

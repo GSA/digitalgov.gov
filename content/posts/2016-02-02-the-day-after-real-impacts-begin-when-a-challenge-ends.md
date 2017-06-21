@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/02/02/the-day-after-real-impacts-begin-when-a-challenge-ends/
 date: 2016-02-02 10:00:52 -0400
-title: 'The Day After\: Real Impacts Begin When a Challenge Ends'
-summary: 'In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to fly nonstop from New York to Paris. Few know that Lindbergh won $25,000 for the flight, but everybody knows about the revolution that followed. That transatlantic flight opened people’s minds to what was possible in air travel. Investment in the aviation'
-authors: [eric-beidel]
+title: 'The Day After: Real Impacts Begin When a Challenge Ends'
+summary: 'In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to fly nonstop from New York to Paris. Few know that Lindbergh won $25,000 for the flight, but everybody knows about the revolution that followed. That transatlantic flight opened people&rsquo;s minds to what was possible in air travel. Investment in the aviation'
+authors:
+  - eric-beidel
 categories:
   - Challenges
   - Our Work
@@ -18,10 +18,9 @@ In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to 
 
 Few know that Lindbergh won $25,000 for the flight, but everybody knows about the revolution that followed.
 
-That transatlantic flight opened people’s  minds to what was possible in air travel. Investment in the aviation industry exploded, as did the number of people buying plane tickets.
+That transatlantic flight opened people’s minds to what was possible in air travel. Investment in the aviation industry exploded, as did the number of people buying plane tickets.
 
-Obviously, the impact of the Orteig Prize continues to this day. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" %} 
+Obviously, the impact of the Orteig Prize continues to this day. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" %} 
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 
@@ -35,9 +34,9 @@ That work could include a roadshow to talk about solutions, holding team summits
 
 It all depends. For instance, are you looking to create a post-prize industry or cure a disease?
 
-“Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s  (USAID) Global Development Lab.
+“Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s (USAID) Global Development Lab.
 
-Case in point: USAID’s  [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/).
+Case in point: USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/).
 
 In addition to providing front-line healthcare workers with a [safer, easier-to-use suit](https://www.WHATEVER/2015/12/11/all-in-partnering-across-sectors-can-boost-competition-results/), the challenge also produced innovations in sensors and information technology.
 

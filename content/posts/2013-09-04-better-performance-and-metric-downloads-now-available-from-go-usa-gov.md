@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/09/04/better-performance-and-metric-downloads-now-available-from-go-usa-gov/
 date: 2013-09-04 11:04:03 -0400
-title: 'Better Performance and Metric Downloads Now Available From Go.USA.gov'
-summary: 'A few weeks ago, the Go.USA.gov URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links. The service, which launched in 2009, gives government agencies the ability to provide trustworthy shortened links to their audience. Just a'
-authors: [michelle-chronister]
+title: Better Performance and Metric Downloads Now Available From Go.USA.gov
+summary: A few weeks ago, the Go.USA.gov URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links. The service, which launched in 2009, gives government agencies the ability to provide trustworthy shortened links to their audience. Just a
+authors:
+  - michelle-chronister
 categories:
   - Code
   - Metrics
@@ -14,8 +14,7 @@ tag:
   - USAgov
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg" alt="Go.USA.gov logo" %}
-A few weeks ago, the [Go.USA.gov](https://go.usa.gov/) URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg" alt="Go.USA.gov logo" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg)A few weeks ago, the [Go.USA.gov](https://go.usa.gov/) URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links.
 
 The service, which launched in 2009, gives government agencies the ability to provide trustworthy shortened links to their audience.
 

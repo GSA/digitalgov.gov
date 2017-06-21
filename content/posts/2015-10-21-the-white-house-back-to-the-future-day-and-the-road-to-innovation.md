@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/21/the-white-house-back-to-the-future-day-and-the-road-to-innovation/
 date: 2015-10-21 9:47:15 -0400
-title: 'The White House, Back To The Future Day, and the Road to Innovation'
-summary: ' Well, it&amp;#8217;s here\: October 21, 2015. While Marty McFly (Michael J. Fox) and&nbsp;Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&amp;#8217;s part two of the&nbsp;Back to the Future&nbsp;trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House notes,'
-authors: [tburwell]
+title: The White House, Back To The Future Day, and the Road to Innovation
+summary: ' Well, it&amp;#8217;s here: October 21, 2015. While Marty McFly (Michael J. Fox) and&nbsp;Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&amp;#8217;s part two of the&nbsp;Back to the Future&nbsp;trilogy, we, on the other hand, are not quite there&mdash;yet! As the White House notes,'
+authors:
+  - tburwell
 categories:
   - Managing Digital
 tag:
@@ -15,14 +15,14 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-300-wh\_backtothefutureday\_socialgraphic.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-300-wh\_backtothefutureday\_socialgraphic.jpg" alt="White House's "Back To The Future" Day graphic" %}
 
 <p class="light">
   Well, it&#8217;s here: <strong>October 21, 2015</strong>. While Marty McFly (Michael J. Fox) and Doc Brown (Christopher Lloyd) got to experience flying cars in 1989&#8217;s part two of the <em>Back to the Future</em> trilogy, we, on the other hand, are not quite there—yet! As the White House notes, we have come a long way in the past 30 years since the original <em>Back to the Future</em> came out in 1985, and <strong><a href="https://twitter.com/search?q=%23BackToTheFutureDay">#BackToTheFutureDay</a></strong> is a great opportunity to talk about where we&#8217;re going in the next 30.
 </p>
 
-<p class="light"> Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White House is hosting events this morning and afternoon with representatives from various agencies, universities, and the private sector to get the conversation going about current and upcoming innovations in technology and government. Leave a message on <a href="https://www.WhiteHouse.gov/Back-To-The-Future">WhiteHouse.gov/Back-To-The-Future</a> of what you think 2045 will look like, or join them online using the hashtags below to contribute your ideas.
+<p class="light">
+  Although Marty and Doc don&#8217;t officially arrive until 7:28 pm, the White House is hosting events this morning and afternoon with representatives from various agencies, universities, and the private sector to get the conversation going about current and upcoming innovations in technology and government. Leave a message on <a href="https://www.WhiteHouse.gov/Back-To-The-Future">WhiteHouse.gov/Back-To-The-Future</a> of what you think 2045 will look like, or join them online using the hashtags below to contribute your ideas.
 </p>
 
 ## Here&#8217;s the schedule for the day: {.light}
@@ -55,7 +55,7 @@ Some recent articles about innovation in technology and government that we&#8217
 
 [The People and Teams That Power High-Impact Incentive Prizes](https://www.WHATEVER/2015/10/06/the-people-and-teams-that-power-high-impact-incentive-prizes/)
   
-Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s  [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
+Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
 
 [The Future Will Be Printed – in 3D
   
@@ -67,7 +67,7 @@ Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative,
 
 [An Innovation Framework That Delivers: The SunShot Catalyst Program
   
-](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/) The Department of Energy’s  SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
+](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
 
 [The API Briefing: NASA and USPS Explore the Holographic Computing Frontier
   

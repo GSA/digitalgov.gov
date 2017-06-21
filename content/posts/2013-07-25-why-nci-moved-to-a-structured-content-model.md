@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/07/25/why-nci-moved-to-a-structured-content-model/
 date: 2013-07-25 3:46:20 -0400
-title: 'Why NCI Moved to a Structured Content Model'
+title: Why NCI Moved to a Structured Content Model
 summary: ' Wikipedia says that structured content refers to information that&amp;#8217;s been broken down and classified using metadata. It can also refer to information that&amp;#8217;s been classified using XML or other standard or proprietary forms of metadata. The National Institutes of Health&amp;#8217;s National Cancer Institute (NIH/NCI) move to structured content'
-authors: [lakshmi-grama]
+authors:
+  - lakshmi-grama
 categories:
   - Content
 tag:
@@ -18,8 +18,7 @@ tag:
   - open and structured content models
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
 
 Wikipedia says that structured content refers to information that&#8217;s been broken down and classified using metadata. It can also refer to information that&#8217;s been classified using XML or other standard or proprietary forms of metadata.
 

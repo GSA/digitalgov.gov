@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/
 date: 2015-01-30 10:00:38 -0400
-title: 'Social Video\: Making Sense of the Facebook and YouTube Platforms'
-summary: 'Updated\: Added link to Twitter&amp;#8217;s blog post on direct video uploads. Around the time that Tim Fullerton of the Department of Interior delivered his webcast to DigitalGov audiences about publishing video content to Facebook, we at the Broadcasting Board of Governors were comparing the differences in user behavior on the Facebook and YouTube video platforms'
-authors: [randy-abramson]
+title: 'Social Video: Making Sense of the Facebook and YouTube Platforms'
+summary: 'Updated: Added link to Twitter&amp;#8217;s blog post on direct video uploads. Around the time that Tim Fullerton of the Department of Interior delivered his webcast to DigitalGov audiences about publishing video content to Facebook, we at the Broadcasting Board of Governors were comparing the differences in user behavior on the Facebook and YouTube video platforms'
+authors:
+  - randy-abramson
 categories:
   - Social Media
   - Video
@@ -17,8 +17,7 @@ tag:
   - YouTube
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Rubick's Cube with social media logos" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Rubick's Cube with social media logos" %} 
 
 _Updated: Added link to Twitter&#8217;s blog post on direct video uploads._
 
@@ -34,18 +33,17 @@ Video that was uploaded directly to Facebook got significantly more likes, share
 
 On the plus side for Facebook, a new set of YouTube-esque features were just released that are sure to drive more engagement on the Facebook platform. First, there is a new ‘featured video’ area that will allow publishers to showcase one video at the top of the video page. Secondly, publishers will now be able to create video playlists within Facebook. Both of these features are sure to drive time spent and clips viewed on the Facebook video platform.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/575-x-450-Social-Video-Making-Sense-of-the-Facebook-and-YouTube-Platforms.jpg" alt="A look at how featured videos will look in the new Facebook video tab layout." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/575-x-450-Social-Video-Making-Sense-of-the-Facebook-and-YouTube-Platforms.jpg" alt="A look at how featured videos will look in the new Facebook video tab layout." %}
 
 ## YouTube Excels In Audience Retention and Long Tail Plays
 
-In our tests, we saw that videos posted on YouTube had longer viewing durations and continued to gather views for longer periods after initial upload than videos uploaded to Facebook. It’s  important to note that videos on Facebook start to play automatically by default when a user scrolls over them on phones or PCs. Alternately, YouTube videos need to be clicked to be viewed. Since the user needs to initiate the play, it’s  probable that the user is truly interested in the content and that view durations will be longer.
+In our tests, we saw that videos posted on YouTube had longer viewing durations and continued to gather views for longer periods after initial upload than videos uploaded to Facebook. It’s important to note that videos on Facebook start to play automatically by default when a user scrolls over them on phones or PCs. Alternately, YouTube videos need to be clicked to be viewed. Since the user needs to initiate the play, it’s probable that the user is truly interested in the content and that view durations will be longer.
 
 In our tests, we saw that clips on YouTube were watched for up to 30% longer than the same content posted on Facebook. Even shorter clips (under 90 seconds) were viewed for a longer time on YouTube. Our tests also showed that it took longer for YouTube play counts to hit critical mass, but over time YouTube clip play counts were similar to those of the Facebook plays. As YouTube players were embedded on other sites and got indexed in YouTube search products (Google Video search, YouTube search, etc.), we saw additional plays well after the initial publish.
 
 ## Two Platforms Are Better Than One
 
-The big takeaway from our tests is that we realized there were benefits in publishing to both the Facebook and YouTube platforms. Facebook audiences helped spread our content quickly and generated conversation around our clips, while YouTube viewers watched our content for a longer amount of time and helped spread our content around the Web. If you have to publish to only one platform, think about how your organization’s  audiences on each platform may differ and how your content matches up.
+The big takeaway from our tests is that we realized there were benefits in publishing to both the Facebook and YouTube platforms. Facebook audiences helped spread our content quickly and generated conversation around our clips, while YouTube viewers watched our content for a longer amount of time and helped spread our content around the Web. If you have to publish to only one platform, think about how your organization’s audiences on each platform may differ and how your content matches up.
 
 Also, realize that the Facebook video platform is still very young and we don’t know how it will evolve. We don’t know if Facebook will continue to push video as much as they are currently doing, if they will add pre-roll advertising to clips or if they will adjust the auto-play functionality. With that in mind, be sure to take advantage of all video platforms at your disposal. Be sure to experiment, learn from your audience and adapt to this fast changing landscape.
 

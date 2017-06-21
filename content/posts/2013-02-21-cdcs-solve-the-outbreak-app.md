@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/02/21/cdcs-solve-the-outbreak-app/
 date: 2013-02-21 12:38:31 -0400
-title: 'CDC&amp;#8217;s Solve the Outbreak App'
-summary: 'The Centers for Disease Control has launched a new table app Solve the Outbreak designed to teach users how CDC&amp;#8217;s disease detectives save lives everyday. In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs\:'
-authors: [jparcell]
+title: 'CDC&#8217;s Solve the Outbreak App'
+summary: 'The Centers for Disease Control has launched a new table app Solve the Outbreak designed to teach users how CDC&amp;#8217;s disease detectives save lives everyday. In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs:'
 categories:
   - Mobile
 tag:
@@ -14,8 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" %}
-The [Centers for Disease Control](http://cdc.gov) has launched a new table app [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) designed to teach users how CDC&#8217;s disease detectives save lives everyday.
+[{% img="https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" %}](https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg)The [Centers for Disease Control](http://cdc.gov) has launched a new table app [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) designed to teach users how CDC&#8217;s disease detectives save lives everyday.
 
 In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs: Do you quarantine the village? Talk to the people who are sick? Ask for more lab results?
 

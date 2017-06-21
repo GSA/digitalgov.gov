@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/10/the-content-corner-can-automated-content-creation-help-your-agency/
 date: 2015-08-10 11:00:23 -0400
-title: 'The Content Corner\: Can Automated Content Creation Help Your Agency?'
-summary: 'Nearly half of companies recently surveyed said that automating content creation would save their content marketing teams the most time. We&rsquo;ve already covered Natural Language Generation (NLG) algorithms and how they have made some forms of automated content generation a reality already, such as for sports recaps or financial data reporting. Let’s take a deeper'
-authors: [tymanuel]
+title: 'The Content Corner: Can Automated Content Creation Help Your Agency?'
+summary: 'Nearly half of companies recently surveyed said that automating content creation would save their content marketing teams the most time. We&rsquo;ve already covered Natural Language Generation (NLG) algorithms and how they have made some forms of automated content generation a reality already, such as for sports recaps or financial data reporting. Let&rsquo;s take a deeper'
+authors:
+  - tymanuel
 categories:
   - Content
 tag:
@@ -13,10 +13,9 @@ tag:
   - The Content Corner
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." %} 
-
-Nearly half of companies recently surveyed said that [automating content creation](http://www2.getchute.com/l/16442/2015-05-20/) would save their content marketing teams the most time. We’ve already covered [Natural Language Generation (NLG) algorithms](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) and how they have made some forms of automated content generation a reality already, such as for sports recaps or financial data reporting. Let’s  take a deeper look at how NLG can help your agency rapidly deploy new content and provide a more personalized content experience for users.
+Nearly half of companies recently surveyed said that [automating content creation](http://www2.getchute.com/l/16442/2015-05-20/) would save their content marketing teams the most time. We’ve already covered [Natural Language Generation (NLG) algorithms](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) and how they have made some forms of automated content generation a reality already, such as for sports recaps or financial data reporting. Let’s take a deeper look at how NLG can help your agency rapidly deploy new content and provide a more personalized content experience for users.
 
 ## Can it Help Your Agency?
 
@@ -44,15 +43,13 @@ Through the [Open Health Natural Language Processing (OHNLP) Consortium](https:/
 
 One of the provided grants was for [cTAKES](http://ctakes.apache.org/), which started at the Mayo Clinic and has since grown and become an Apache incubator project.
 
-cTAKES leverages Apache’s  UIMA (Unstructured Information Management) applications to scan large volumes of electronic medical records to discover patterns, trends, causal relationships, and temporal events. This data can then be provided to the physician in an understandable, narrative format. As shown in the example below, cTAKES gathers an array of examination information and in the end provides plans and recommendations that are in simple sentences.
+cTAKES leverages Apache’s UIMA (Unstructured Information Management) applications to scan large volumes of electronic medical records to discover patterns, trends, causal relationships, and temporal events. This data can then be provided to the physician in an understandable, narrative format. As shown in the example below, cTAKES gathers an array of examination information and in the end provides plans and recommendations that are in simple sentences.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-362-cTAKES-example.jpg" alt="Apache cTAKES™ is a natural language processing system for extraction of information from electronic medical record clinical free-text." %}
- 
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-362-cTAKES-example.jpg" alt="Apache cTAKES™ is a natural language processing system for extraction of information from electronic medical record clinical free-text." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/1195-x-721-cTAKES-example.jpg) 
 
 Other projects such as Migraine, Piglit, OPADE, and HealthDoc are in various stages of trials to provide direct feedback to a patient using NLG to draw from various sources such as user feedback, medical records, or existing sources such as drug databases. All four projects show promise in generating personalized content for migraine sufferers or diabetes patients such as the PIGLIT example shown below.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-398-PIGLITex.jpg" alt="Screen capture of a definition of the drug, Bezafibrate, via the PIGLIT project." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-398-PIGLITex.jpg" alt="Screen capture of a definition of the drug, Bezafibrate, via the PIGLIT project." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/800-x-530-PIGLITex.jpg)
 
 One other area where NLG seems to be making a big difference (and actually was an early adopter of the technology) is in weather forecasting. As far back as at least 2001, NWS was leveraging natural language and speech generation for accessible weather forecasts, especially in an emergency. Similar efforts have been made in generating text forecasts to quickly provide critical weather information for oil rig operators for instance. A specific effort for a UK system actually found that [NLG text was easier to understand than human-generated](http://www.sciencedirect.com/science/article/pii/S0004370205000998) due to the analysis done to develop word choice and a need for clarity and consistency.
 

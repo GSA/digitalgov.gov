@@ -1,23 +1,21 @@
 ---
-
-
+url: /2013/05/02/internet-time-travel/
 date: 2013-05-02 1:40:29 -0400
-title: 'Internet Time Travel'
-summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.'
-authors: [tmarcoullier]
+title: Internet Time Travel
+summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/first-WWW-page-3.jpg&quot; alt=&quot;Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to'
+authors:
+  - tmarcoullier
 categories:
   - UX
 tag:
   - NARA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/600-x-328-CERN-homepage-Oct-7-2015.jpg" alt="CERN homepage" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/600-x-328-CERN-homepage-Oct-7-2015.jpg" alt="CERN homepage" %} 
 
 The <a title="first web page ever" href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">first public page</a> on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to enlarge." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to enlarge." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/first-WWW-page-3.jpg)
 
 <a title="read write web link to CERN first web story" href="http://readwrite.com/2013/04/30/first-ever-world-wide-web-site-brought-back-to-original-url" target="_blank">ReadWriteWeb</a> put it in perspective:
 

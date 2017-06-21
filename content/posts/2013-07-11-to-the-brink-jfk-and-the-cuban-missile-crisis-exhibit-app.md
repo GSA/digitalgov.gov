@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/07/11/to-the-brink-jfk-and-the-cuban-missile-crisis-exhibit-app/
 date: 2013-07-11 9:04:11 -0400
-title: 'To the Brink\: JFK and the Cuban Missile Crisis Exhibit App'
-summary: 'The 2013&nbsp;JFK Library and Museum&nbsp;exhibit&nbsp;&ldquo;To the Brink\: JFK and the Cuban Missile Crisis&rdquo; now has a virtual partner on the iPad.&nbsp; Anytime, anywhere, people will be able to'
-authors: [brandon-barr]
+title: 'To the Brink: JFK and the Cuban Missile Crisis Exhibit App'
+summary: 'The 2013&nbsp;JFK Library and Museum&nbsp;exhibit&nbsp;&ldquo;To the Brink: JFK and the Cuban Missile Crisis&rdquo; now has a virtual partner on the iPad.&nbsp; Anytime, anywhere, people will be able to'
+authors:
+  - brandon-barr
 categories:
   - Mobile
 tag:
@@ -13,8 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/JFKCubanMissileCrisisApp-250x227.png" alt="The 2013 JFK Library and Museum exhibit “To the Brink: JFK and the Cuban Missile Crisis” now has a virtual partner on the iPad. " %}
-The 2013 <a href="http://www.jfklibrary.org/" target="_blank">JFK Library and Museum</a> exhibit <a href="http://foundationnationalarchives.org/cmc/" target="_blank">“To the Brink: JFK and the Cuban Missile Crisis</a>” now has a virtual partner on the iPad. Anytime, anywhere, people will be able to experience this extraordinary moment in history.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/JFKCubanMissileCrisisApp-250x227.png" alt="The 2013 JFK Library and Museum exhibit “To the Brink: JFK and the Cuban Missile Crisis” now has a virtual partner on the iPad. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/JFKCubanMissileCrisisApp.png)The 2013 <a href="http://www.jfklibrary.org/" target="_blank">JFK Library and Museum</a> exhibit <a href="http://foundationnationalarchives.org/cmc/" target="_blank">“To the Brink: JFK and the Cuban Missile Crisis</a>” now has a virtual partner on the iPad. Anytime, anywhere, people will be able to experience this extraordinary moment in history.
 
 With “To the Brink: JFK and the Cuban Missile Crisis,” The <a href="http://www.archives.gov/" target="_blank">National Archives and Records Administration (NARA)</a> has made its JFK Library and Museum 2013 exhibit virtual, <a href="https://itunes.apple.com/us/app/to-brink-jfk-cuban-missile/id570032141?mt=8" target="_blank">bringing the app to iPad. </a> This app brings the Cuban Missile Crisis exhibit alive, providing a video series timeline, portraying the events of the historic presidential moments. Additionally, the app supplements the videos with officially released presidential documents, photos, and audio recordings which are shown at the exhibit.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/15/state-of-federal-blogging-2016/
 date: 2016-01-15 10:00:10 -0400
-title: 'State of Federal Blogging 2016'
-summary: 'How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the White House, NASA and the Department of the Interior run their blogs and share content. White House\: Blog Less, Empower More When you go to WhiteHouse.gov, their blog is featured prominently'
-authors: [danielle-brigida]
+title: State of Federal Blogging 2016
+summary: 'How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the White House, NASA and the Department of the Interior run their blogs and share content. White House: Blog Less, Empower More When you go to WhiteHouse.gov, their blog is featured prominently'
+authors:
+  - danielle-brigida
 categories:
   - Content
 tag:
@@ -16,15 +16,13 @@ tag:
   - White House
 ---
 
-How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" %} 
+How government agencies blog has come a long way in the past decade. As we welcome 2016, here is a look at how the [White House](https://www.whitehouse.gov/blog), [NASA](http://blogs.nasa.gov/) and the [Department of the Interior](https://www.doi.gov/blog) run their blogs and share content. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Blog-Letterpress-Jason-Enterline-iStock-Thinkstock-470747892.jpg" alt="The word "Blog" spelled out in letterpress." %} 
 
 ## White House: Blog Less, Empower More
 
 When you go to [WhiteHouse.gov](https://www.whitehouse.gov/), their blog is featured prominently as a main source of news for the administration. It&#8217;s not just a repository for past Administration actions, it&#8217;s a dynamic and responsive site to help connect Americans with opportunities to engage on the issues of the day, his schedule, and news from the President and his senior officials. The White House Office of Digital Strategy (ODS) team has witnessed a shift in how they use blogging in their strategy over the last year. After undergoing a massive redesign, their blog is now used for sharing longer form content that needs more context or can inform people on major administrative actions and initiatives.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-White-House-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the White House Blog homepage on January 11, 2016." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-White-House-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the White House Blog homepage on January 11, 2016." %}
 
 ### Structure
 
@@ -64,8 +62,7 @@ At NASA they do not have a single or &#8220;main&#8221; blog for the agency, but
 
 This decentralized approach allows for an array of voices such as senior leadership, scientists, engineers and other teams of experts to share stories and build audiences. Each blog gives a different perspective and offers a look at NASA missions, milestones, science and history. Their most popular content tends to focus on human spaceflight, astronomy and real-time launch coverage updates.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-NASA-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the NASA Blog homepage on January 11, 2016." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-NASA-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the NASA Blog homepage on January 11, 2016." %}
 
 ### Structure
 
@@ -93,8 +90,7 @@ Back in August, the Department of the Interior (Interior) launched [their new bl
 
 Interior is known for their landscape photos and cute animals. They are now trying to put those to good use by talking about more substantive topics beyond travel and tourism with their blog.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-650-Dept-of-the-Interior-DOI-Blog-homepage-Jan-11th-2016.jpg" alt="Screen capture of the Department of the Interior Blog homepage on January 11, 2016." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-650-Dept-of-the-Interior-DOI-Blog-homepage-Jan-11th-2016.jpg" alt="Screen capture of the Department of the Interior Blog homepage on January 11, 2016." %}
 
 ### Structure
 
@@ -122,8 +118,7 @@ Some [predictions](http://www.prnewsonline.com/uncategorized/2015/12/22/five-pr-
 
 Blogs remain a great way to increase storytelling and answer questions for people concerned or interested in work that may take more context to understand. At [U.S. Fish and Wildlife Service](http://www.fws.gov/), our blog is called [Open Spaces](http://www.fws.gov/news/blog/), and we often use it to be responsive and answer questions we receive on social media or in response to major events. The blog gives us an opportunity to show we&#8217;re listening our communities, and it also allows us to represent different views while providing more context to our work with wildlife.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-US-Fish-and-Wildlife-Service-USFWS-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the U.S. Fish and Wildlife Service Blog homepage on January 11, 2016." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-337-US-Fish-and-Wildlife-Service-USFWS-Blog-homepage-above-the-fold-Jan-11th-2016.jpg" alt="Screen capture of the U.S. Fish and Wildlife Service Blog homepage on January 11, 2016." %}
 
 **Does your agency use a blog or multiple blogs?** What resources and lessons did you find most helpful this year? We&#8217;d love to know in the comments.
 

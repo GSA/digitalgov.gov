@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/05/taking-a-data-driven-approach-to-digital-marketing-at-the-peace-corps/
 date: 2015-08-05 10:00:47 -0400
-title: 'Taking a Data-Driven Approach to Digital Marketing at the Peace Corps'
+title: Taking a Data-Driven Approach to Digital Marketing at the Peace Corps
 summary: 'What exactly does being &ldquo;data-driven&rdquo; mean for digital marketing and communications practitioners in the federal government? It is easy to be awed by the new shiny platforms and services that promise to change how things are done in government. Fundamentally, though, it is thinking about analytics not just from a descriptive mindset but one of'
-authors: [chris-rottler]
+authors:
+  - chris-rottler
 categories:
   - Metrics
 tag:
@@ -27,8 +27,7 @@ To that end, I want to share a sliver of how [Peace Corps](http://www.peacecorps
 
   * We ran an A/B/n test that included eight variations, testing four messaging frames with and without iconography. The experiment was set at a 95% confidence interval, 100% of traffic from the paid media was directed to the test and it ran until a winner was selected.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-520-Peace-Corps-marketing-winning-vartiation.jpg" alt="A screenshot of a winning digital marketing campaign for the Peace Corps." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-520-Peace-Corps-marketing-winning-vartiation.jpg" alt="A screenshot of a winning digital marketing campaign for the Peace Corps." %}
 
 ## The Campaign
 

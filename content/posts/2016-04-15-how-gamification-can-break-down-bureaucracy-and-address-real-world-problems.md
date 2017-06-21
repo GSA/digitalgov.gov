@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/04/15/how-gamification-can-break-down-bureaucracy-and-address-real-world-problems/
 date: 2016-04-15 10:00:06 -0400
-title: 'How Gamification Can Break Down Bureaucracy and Address Real World Problems'
-summary: 'The world’s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via MMOWGLI,&nbsp;the Massive Multiplayer Online Wargame Leveraging the Internet. MMOWGLI is an online gaming platform that'
-authors: [awichman]
+title: How Gamification Can Break Down Bureaucracy and Address Real World Problems
+summary: 'The world&rsquo;s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via MMOWGLI,&nbsp;the Massive Multiplayer Online Wargame Leveraging the Internet. MMOWGLI is an online gaming platform that'
+authors:
+  - awichman
 categories:
   - Managing Digital
 tag:
@@ -14,8 +14,7 @@ tag:
   - United States Navy
 ---
 
-The world’s  toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-415-Gamification-in-business-concept-illustration-Anatolii-Babii-iStock-Thinkstock-462488743.jpg" alt="Gamification in business concept illustration" %} 
+The world’s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-415-Gamification-in-business-concept-illustration-Anatolii-Babii-iStock-Thinkstock-462488743.jpg" alt="Gamification in business concept illustration" %} 
 
 To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via [MMOWGLI](https://portal.mmowgli.nps.edu/game-wiki), the Massive Multiplayer Online Wargame Leveraging the Internet.
 
@@ -31,19 +30,18 @@ Law defined a “sweet spot” for using MMOWGLI: “Situations where you are st
 
 The game begins with a compelling call-to-action (CTA) that defines a problem. It can be fictional or realistic, but the CTA is pitched as an &#8216;incomplete narrative’ in order to have players collaborate and generate solutions.
 
-Participants post ideas, respond to others’ ideas and can call for further expertise. Each idea is labeled as a &#8220;card,&#8221; and players earn points based on a card’s  influence and perceived value. The cards are built together into “card chains,” forming larger ideas or concepts. Players who contribute to the most intriguing ideas are invited to work on an “action plan,” which is focused on sharpening the &#8220;who, what, when, where, why and how&#8221; of the idea. Action plans are awarded points by players.
+Participants post ideas, respond to others’ ideas and can call for further expertise. Each idea is labeled as a &#8220;card,&#8221; and players earn points based on a card’s influence and perceived value. The cards are built together into “card chains,” forming larger ideas or concepts. Players who contribute to the most intriguing ideas are invited to work on an “action plan,” which is focused on sharpening the &#8220;who, what, when, where, why and how&#8221; of the idea. Action plans are awarded points by players.
 
 There are multiple ways that players earn points:
 
-  * Exploration points are given when other participants react to a player’s  idea cards.
+  * Exploration points are given when other participants react to a player’s idea cards.
   * Implementation points are earned when a player contributes to an action plan.
-  * Game Masters can mark a player’s  ideas as &#8220;super interesting.&#8221;
+  * Game Masters can mark a player’s ideas as &#8220;super interesting.&#8221;
   * The design team will consider additional awards for the best contributions after each move of the game.
 
 A leaderboard shows who has the most points in the game, and positions can quickly change. After the game concludes, the best ideas and concepts are considered for adoption by game sponsors.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-385-opt50-Gamification\_Massive-Multiplayer-Online-Wargame-Leveraging-the-Internet\_-MMOWGLI-players-portal.jpg" alt="Screen capture of the Massive Multiplayer Online Wargame Leveraging the Internet (MMOWGLI) players portal. " %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-385-opt50-Gamification\_Massive-Multiplayer-Online-Wargame-Leveraging-the-Internet\_-MMOWGLI-players-portal.jpg" alt="Screen capture of the Massive Multiplayer Online Wargame Leveraging the Internet (MMOWGLI) players portal. " %}
 
 MMOWGLI runs in any Web browser. The [MMOWGLI players portal](https://portal.mmowgli.nps.edu/game-wiki) contains resources about the platform as a whole, and there is a [blog](https://portal.mmowgli.nps.edu/wp/) associated with each MMOWGLI game.
 

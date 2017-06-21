@@ -1,12 +1,12 @@
 ---
-
-
+url: /2013/09/13/studentaid-govs-1st-year-what-weve-learned-and-where-were-going/
 date: 2013-09-13 6:39:05 -0400
-title: 'StudentAid.gov&amp;#8217;s 1st Year\: What We&amp;#8217;ve Learned and Where We&amp;#8217;re Going'
-summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid.&nbsp; Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid. In my last post, I'
-authors: [brenda-wensil]
+title: 'StudentAid.gov&#8217;s 1st Year: What We&#8217;ve Learned and Where We&#8217;re Going'
+summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid.&nbsp; Established in late 2010, FSA&rsquo;s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid. In my last post, I'
+authors:
+  - brenda-wensil
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - Customer Experience
@@ -15,10 +15,9 @@ tag:
   - U.S. Department of Education
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" %}
-
-_Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid. Established in late 2010, FSA’s  Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._
+_Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid. Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._
 
 In [my last post](https://www.WHATEVER/2014/01/23/studentaid-gov-improving-the-college-financing-experience/), I shared about last year&#8217;s launch of <a href="http://studentaid.ed.gov/" target="_blank">StudentAid.gov</a> by the U.S. Department of Education&#8217;s Office of Federal Student Aid (FSA). The new site consolidates and combines content and interactive tools from multiple web sites and features instructional videos and infographics to help answer frequent questions about federal financial aid.
 
@@ -32,7 +31,7 @@ We&#8217;ve learned a lot during the past year, but here are three things that r
 
   * You don’t need multi-million dollar contracts to make huge improvements to the customer experience. Sweat equity, creativity, team work and a little encouragement along the way can sometimes make up for what is lacking in the budget.
   * Use the resources you have wisely. If you take the time, you can find some really innovative and passionate people internally who are willing to help you make the experience better for citizens. Most of the team that worked on Integrated Student Experience had full-time jobs on top of their work on this project, but they were passionate about it, so they made it work.
-  * Make sure what you build is what they want and need. While your internal team may think a certain feature is really cool or not necessary at all, your users may think differently. That’s  why customer feedback throughout the process is crucial. Constantly go back to the customer and test before spending time and resources.
+  * Make sure what you build is what they want and need. While your internal team may think a certain feature is really cool or not necessary at all, your users may think differently. That’s why customer feedback throughout the process is crucial. Constantly go back to the customer and test before spending time and resources.
 
 **What&#8217;s New for 2014**
 

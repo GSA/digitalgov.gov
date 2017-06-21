@@ -1,12 +1,12 @@
 ---
-
-
+url: /2012/10/15/office-of-natural-resources-revenue-usability-case-study/
 date: 2012-10-15 12:01:22 -0400
-title: 'Office of Natural Resources Revenue &amp;#8211; Usability Case Study'
+title: 'Office of Natural Resources Revenue &#8211; Usability Case Study'
 summary: 'Any government product &amp;#8211; whether used by millions or a very specific audience group &amp;#8211; need to be as easy to use as possible. The Office of Natural Resources Revenue (ONRR) collects and dispenses revenue related to energy production on leased federal and American Indian lands. As a result, their audience has very definite information'
-authors: [jonathan-rubin]
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -32,8 +32,7 @@ The navigation on the site was not entirely clear. This is highlighted on the ho
 
 Navigation is clearly labeled, providing users with quick, easy-to-understand directions.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-before.jpg" alt="onrr before screen shot" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-before.jpg" alt="onrr before screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-before.jpg)
 
 ## Problem 2: Jargon and Starting Point Unclear
 
@@ -53,4 +52,4 @@ For the ONRR audience, it was vital to be able to quickly find and read about ne
 
 The redesigned ONRR homepage presents a much more user-friendly and information-rich experience. The site is more visually appealing as well, and less daunting to new visitors.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-after.jpg" alt="onr after screen shot" %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-after.jpg" alt="onr after screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/onrr-after.jpg)

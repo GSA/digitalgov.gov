@@ -1,32 +1,30 @@
 ---
-
-
+url: /2016/06/03/help-search-engines-to-help-you-how-seo-friendly-url-structure-can-boost-your-rankings/
 date: 2016-06-03 11:00:41 -0400
-title: 'Help Search Engines Help You\: How SEO-Friendly URL Structure Can Boost Your Rankings'
-summary: 'Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive'
-authors: [cliff-tyllick]
+title: 'Help Search Engines Help You: How SEO-Friendly URL Structure Can Boost Your Rankings'
+summary: Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? How great it would be if that were easy to do. Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive
+authors:
+  - cliff-tyllick
 categories:
   - Content
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - search engine optimization
 ---
 
-Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" %} 
+Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" %} 
 
 How great it would be if that were easy to do.
 
 Well, actually it is. I realized that recently when I was doing research for one of my personal passions, which is finding invasive plants in local parks and eliminating them.
 
-I wanted to see what information the Forest Service had on that topic, so I searched for “forest service invasive species removal.” Here’s  a screen capture of the top four results:
+I wanted to see what information the Forest Service had on that topic, so I searched for “forest service invasive species removal.” Here’s a screen capture of the top four results:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-448-invasives-google-search-results.jpg" alt="Screen capture of Google search results" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-448-invasives-google-search-results.jpg" alt="Screen capture of Google search results" %}
 
 Most of us notice right away that each title shown here contains the terms “invasive species” and “Forest Service.” That makes perfect sense—terms in the title should tell us what information that document contains, so search engines should pay attention to terms that appear in the title.
 
-You might have also noticed that Google shows snippets of the document with the search terms bolded. It’s  so obvious that Google would look for my search terms in the body of each document that I feel silly saying so. My larger point is this: Look through everything Google displays and you might find bolded text in places you hadn’t thought were important.
+You might have also noticed that Google shows snippets of the document with the search terms bolded. It’s so obvious that Google would look for my search terms in the body of each document that I feel silly saying so. My larger point is this: Look through everything Google displays and you might find bolded text in places you hadn’t thought were important.
 
 For instance, look at each URL. In the URL of three of the top four results, “invasive species” is bolded:
 
@@ -38,13 +36,13 @@ www.nrs.fs.fed.us/&#8230;/**invasive_species**/
 
 In studying a number of different examples of search results, I have noticed a pattern:
 
-  * When the search term is in the URL, the page ranks higher in the results. In fact, the other result in the top four also has “invasive species” in its URL; it’s  just that the URL was too long for all of it to appear in the search results.
+  * When the search term is in the URL, the page ranks higher in the results. In fact, the other result in the top four also has “invasive species” in its URL; it’s just that the URL was too long for all of it to appear in the search results.
   * All other things being equal, the page ranks higher when the search term is closer to the root of the URL.
-  * So think about that. Depending on your method of producing a website, the URL of each page reflects your site’s  directory structure, its information architecture, or both. The choices you make in those areas will have a direct effect on the ranking of your pages in every search your customers perform.
+  * So think about that. Depending on your method of producing a website, the URL of each page reflects your site’s directory structure, its information architecture, or both. The choices you make in those areas will have a direct effect on the ranking of your pages in every search your customers perform.
 
 Does your website take advantage of this fact? Not if it follows some of the more common practices we see:
 
-  * URLs that reflect the agency’s  org chart:
+  * URLs that reflect the agency’s org chart:
   
     www.agency.gov/**division/section/team**/filename.pdf
   * URLs that reflect a document format and naming convention:
@@ -70,8 +68,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   </p>
   
   <p>
-    
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-381-invasives-cgi-bin.jpg" %}
+    {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: "cgi bin invasive species."" %}
   </p>
   
   <p>
@@ -79,8 +76,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   </p>
   
   <p>
-    
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-invasives.jpg" %}
+    {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: "invasive species."" %}
   </p>
   
   <p>
@@ -92,8 +88,7 @@ How bad could their impact on your customers’ search results be? Consider thes
       </p>
       
       <p>
-        
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-525-pubs-other-invasives-forests.jpg" %}
+        {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: "pubs other invasive species American forests"" %}
       </p>
       
       <p>
@@ -101,11 +96,10 @@ How bad could their impact on your customers’ search results be? Consider thes
       </p>
       
       <p>
-        
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-432-invasives-forests.jpg" %}</li> </ol> 
+        {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: "invasive species American forests"" %}</li> </ol> 
         
         <p>
-          In both of these searches, the Nature Conservancy’s  Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.
+          In both of these searches, the Nature Conservancy’s Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.
         </p>
         
         <p>
@@ -131,7 +125,7 @@ How bad could their impact on your customers’ search results be? Consider thes
             Using Google, search the Web for two or three words people who need this information would have in mind. Is your item in the top page of hits? The top two pages? (Very few people look at even the second page, so the third and fourth hardly matter.)
           </li>
           <li>
-            Do the search again, but this time add two terms from the item’s  URL. For the greatest impact, put them before the other terms. Are the results the same as you saw before? Have your items risen in the rankings?
+            Do the search again, but this time add two terms from the item’s URL. For the greatest impact, put them before the other terms. Are the results the same as you saw before? Have your items risen in the rankings?
           </li>
         </ol>
         

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/03/trends-on-tuesday-using-sms-for-customer-support/
 date: 2015-02-03 10:00:07 -0400
-title: 'Trends on Tuesday\: Using SMS for Customer Support'
+title: 'Trends on Tuesday: Using SMS for Customer Support'
 summary: 'Don&amp;#8217;t forget, mobile first strategy can include text messaging and SMS, not just native apps and responsive Web design. Ninety percent of all SMS messages are read within three minutes of being received, according to a recent blog post on Gigaom. Paired with an average open rate of 98% (versus 22% for email) and the'
-authors: [kdaniel]
+authors:
+  - kdaniel
 categories:
   - Mobile
 tag:
@@ -17,8 +17,7 @@ tag:
   - Trends on Tuesday
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-250-Mobile-phone-with-message-icon-tkacchuk-iStock-Thinkstock-183957481.jpg" alt="Mobile phone with message icon" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-250-Mobile-phone-with-message-icon-tkacchuk-iStock-Thinkstock-183957481.jpg" alt="Mobile phone with message icon" %} 
 
 Don&#8217;t forget, mobile first strategy can include text messaging and SMS, not just native apps and responsive Web design. Ninety percent of all SMS messages are read within three minutes of being received, according to a recent blog post on [Gigaom](https://gigaom.com/2015/01/18/why-sms-is-the-new-channel-for-customer-support/). Paired with an average open rate of 98% (versus 22% for email) and the fact that any mobile device out there is able to read a text message, SMS is a great way to reach out to pretty much anyone. Also, unlike most emails, SMS messages are read in their entirety. This represents a great opportunity to provide a new level of customer service.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/01/11/digitalgov-university-in-review-2016-training-trends/
 date: 2017-01-11 12:00:02 -0400
-title: 'DigitalGov University in Review\: 2016 Training Trends'
-summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.'
-authors: [jthalls]
+title: 'DigitalGov University in Review: 2016 Training Trends'
+summary: 'DigitalGov University (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments. {% img=&quot;https://www.digitalgov.gov/files/2017/04/600-x-127-DigitalGov_University.png&quot; alt=&quot;DigitalGov'
+authors:
+  - jthalls
 categories:
   - Accessibility
   - API
@@ -19,8 +19,8 @@ categories:
   - Mobile
   - Our Work
   - Social Media
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - 18F
@@ -50,7 +50,7 @@ tag:
   - National Aeronautics and Space Administration
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - open data
   - Open Opportunities program
   - OPP
@@ -67,8 +67,7 @@ tag:
 
 [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/04/600-x-127-DigitalGov_University.png" alt="DigitalGov University (D G U) logo" %}
+{% img="https://www.WHATEVER/files/2017/04/600-x-127-DigitalGov_University.png" alt="DigitalGov University (D G U) logo" %}
 
 DGU strives to provide training throughout the year that is useful and relevant to you. One of the most resounding comments from digital managers last year was people wanted to be able to attend all of our classes virtually. With very few exceptions, we made sure that there was a virtual component in every training, so that all our attendees, no matter where they were located, can attend and learn.
 
@@ -78,10 +77,9 @@ Some of our most popular training topics throughout the year focused on using pr
 
 We heard that you are interested in the latest tools and trends and how federal agencies are using those products, which is why “[Snaps and Stripes: Sharing Public Service Stories with SnapChat](https://www.youtube.com/watch?v=G82jBHxE4Tk)” was a popular webinar this year. Also, you wanted to know how tools like social listening to address and better understand your audience and their needs so many of you attended the “[Listening Before We Speak: Understanding Our Audience in Times of Disaster](https://www.youtube.com/watch?v=YWhRLCxTYxk)” webinar.
 
-One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson](https://www.WHATEVER/author/sam-bronson/) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space](https://www.WHATEVER/communities/) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s  you attend from anywhere. 
-{% include image/full-width.html img="https://www.WHATEVER/files/2016/01/600-x-450-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="E-learning concept: schooldesks and a chalkboard on a laptop keyboard" %} 
+One of the highest attended (and highest rated) events came from longtime community member, [Sam Bronson](https://www.WHATEVER/author/sam-bronson/) of HHS, who shared the need for actionable analytics and the important steps agencies can take in setting up their own analytics program in his webinar, “[The Golden Partnership: How to Improve Website Findability with Actionable Analytics and Content Analysis](https://www.youtube.com/watch?v=Pjc-dEPBExE).” In fact, we heard from one attendee following the event who [has written about how it inspired her to take a different approach for a website project](https://medium.com/@DigitalGov/well-begun-is-half-done-lets-tidy-up-the-website-c19134c53af). We’d like to host more events driven by [community members in the digital government space](https://www.WHATEVER/communities/) so we look forward to more examples of great work being done in 2017. We’ll also continue to make sure that all of our trainings have an online component that let’s you attend from anywhere. {% img="https://www.WHATEVER/files/2016/01/600-x-450-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="E-learning concept: schooldesks and a chalkboard on a laptop keyboard" %} 
 
-Now, let’s  take a look at the most popular events (by attendance) and most watched recordings throughout 2016. You can check out all of our events, which we record, in our [event library](https://www.youtube.com/c/digitalgov).
+Now, let’s take a look at the most popular events (by attendance) and most watched recordings throughout 2016. You can check out all of our events, which we record, in our [event library](https://www.youtube.com/c/digitalgov).
 
 #### **Top 5 Webinars:**
 
@@ -134,7 +132,7 @@ _ The fundamentals of open data and APIs on the modern web.
 _ Webinar that provided information on the general Security Assessment Framework (SAF) for FedRAMP.
   4. [API Webinar Series: APIs for Dummies — An Introduction](https://www.youtube.com/watch?v=sup8Q_NuIxI) _(2012)
   
-_ The basics on APIs hosted by 18F’s  Gray Brooks and gets you started in the world of API solutions.
+_ The basics on APIs hosted by 18F’s Gray Brooks and gets you started in the world of API solutions.
   5. [Handling FISMA Faster and Better](https://www.youtube.com/watch?v=T1S52B1-NT4) _(2015)
   
 _ This session covered methods that can enable quicker, more straightforward ATOs for FISMA low and medium projects.

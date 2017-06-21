@@ -1,14 +1,14 @@
 ---
-
-
+url: /2016/08/25/how-creating-on-the-fly-digital-content-can-fill-an-immediate-audience-need/
 date: 2016-08-25 11:00:32 -0400
-title: 'How Creating On-The-Fly Digital Content Can Fill an Immediate Audience Need'
-summary: 'When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be. In less than a day after the spots were&hellip;spotted, the story of the mysterious circles was becoming clearer\: they'
-authors: [yasmine-kloth]
+title: How Creating On-The-Fly Digital Content Can Fill an Immediate Audience Need
+summary: 'When some U.S. athletes at this month&rsquo;s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be. In less than a day after the spots were&hellip;spotted, the story of the mysterious circles was becoming clearer: they'
+authors:
+  - yasmine-kloth
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -18,14 +18,13 @@ tag:
   - NIH
 ---
 
-When some U.S. athletes at this month’s  Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be.
+When some U.S. athletes at this month’s Olympic Games started showing up at their events with dark red circles on their torsos, sports commentators and the media hungrily sought answers to what the marks could be.
 
 In less than a day after the spots were…spotted, the story of the mysterious circles was becoming clearer: they were the result of cupping—a [traditional Chinese medicine (TCM)](https://nccih.nih.gov/health/chinesemed) practice that involves placing cups on the skin to create suction.
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-385-Instagram\_NCCIH\_cupping.jpg" alt="NCCIH Instagram post on cupping." %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-385-Instagram\_NCCIH\_cupping.jpg" alt="NCCIH Instagram post on cupping." %}
-
-Our communications team at the [National Center for Complementary and Integrative Health](https://nccih.nih.gov/) (NCCIH), the Federal Government’s  lead agency for scientific research on health care systems, practices, and products that are not generally considered part of conventional medicine (like TCM), quickly identified that there might be an opportunity for our agency to be a part of this conversation.
+Our communications team at the [National Center for Complementary and Integrative Health](https://nccih.nih.gov/) (NCCIH), the Federal Government’s lead agency for scientific research on health care systems, practices, and products that are not generally considered part of conventional medicine (like TCM), quickly identified that there might be an opportunity for our agency to be a part of this conversation.
 
 As we watched the stories on this ancient practice break around us, and as our press officer began to receive a string of inquiries from the media, we knew that we needed to provide our audiences with high-quality, evidence-based information on the topic. And fast.
 
@@ -58,7 +57,7 @@ As we tried to figure out our role, our team walked through the following though
 
 
 
-**OK, then let’s  do this!**
+**OK, then let’s do this!**
 
 The key in all of this was recognizing that **1) there was** **a legitimate gap in information that we knew we could fill (what does the science say about cupping)** and **2) this was information people were looking for.** Within a couple of hours, the team:
 
@@ -73,13 +72,12 @@ In the weeks since we posted the cupping information, we learned:
   * The content reached new audiences;
   * Our Facebook and Twitter posts were the highest performing content for that week.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/450-x-475-Facebook\_NCCIH\_Cupping.jpg" alt="NCCIH Facebook post on cupping; this Admin view shows that it reached over 17,000 people and shared 120 times." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/450-x-475-Facebook\_NCCIH\_Cupping.jpg" alt="NCCIH Facebook post on cupping; this Admin view shows that it reached over 17,000 people and shared 120 times." %}
 
 What these results tell us, particularly with regard to the actual time spent by people on the cupping Web page, are that:
 
 <li style="margin-bottom: 15px">
-  We accurately identified a need for information that we knew we could fill and that fit within our organization’s  scope;
+  We accurately identified a need for information that we knew we could fill and that fit within our organization’s scope;
 </li>
 <li style="margin-bottom: 15px">
   The content developed was made up of information and resources people wanted to read and explore;

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/01/21/last-chance-submit-your-summit-idea/
 date: 2015-01-21 8:00:03 -0400
-title: 'Last Chance\: Submit Your Summit Idea'
+title: 'Last Chance: Submit Your Summit Idea'
 summary: ' You might remember in the post Crowdsourced Digital Citizen Services Summit we said &amp;#8220;Go to Citizen Services Summit 2015. Go there now!&amp;#8221; Well if you haven&amp;#8217;t yet, there is still time to go there and propose a session, idea, or speaker. Anyone can'
-authors: [apiazza]
+authors:
+  - apiazza
 categories:
   - Our Work
 tag:
@@ -12,8 +12,7 @@ tag:
   - DigitalGov Summit
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg" alt="Green, blue, and pink arrows point to the right." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg" alt="Green, blue, and pink arrows point to the right." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-307-crowdsourcing-post-green-blue-pink-arrows.jpg)
 
 You might remember in the post [Crowdsourced Digital Citizen Services Summit](https://www.WHATEVER/2014/12/15/crowdsourced-digital-citizen-services-summit/ "Crowdsourced Digital Citizen Services Summit") we said &#8220;[Go to Citizen Services Summit 2015. Go there now!](https://crowdhall.com/h/299/)&#8221; Well if you haven&#8217;t yet, there is still time to go there and propose a session, idea, or speaker.
 

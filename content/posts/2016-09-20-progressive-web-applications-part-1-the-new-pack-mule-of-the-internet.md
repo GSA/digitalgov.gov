@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/
 date: 2016-09-20 11:00:19 -0400
-title: 'Progressive Web Applications, Part 1\: the New Pack Mule of the Internet'
+title: 'Progressive Web Applications, Part 1: the New Pack Mule of the Internet'
 summary: 'A&nbsp;mule&nbsp;is the hybrid offspring&nbsp;of a&nbsp;male donkey&nbsp;and a&nbsp;horse.&nbsp;This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound,&nbsp;and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins.'
-authors: [david-fern]
+authors:
+  - david-fern
 categories:
   - Code
   - Content
@@ -23,16 +23,15 @@ tag:
 
 ****A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins. Finally, mules do not require expensive grains, eat less and don&#8217;t tend to overeat as horses do.
 
-Progressive Web Applications are the new hybrid mules of the Internet! 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." %} 
+Progressive Web Applications are the new hybrid mules of the Internet! {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." %} 
 
 ## What Are Progressive Web Applications (PWA)?
 
 With PWAs (again, think hybrid mule), developers take the best of native applications and the best of Web applications, and combine them into a “new” and “better“ user experience. As mobile devices became more popular, the choice has been native or web mobile applications, with the goal being to create the best user experience at an acceptable price.
 
-**Native Applications** – Designed in a native language for a single operating system, native apps are the most customizable and take advantage of the device’s  hardware, (the device’s  “native” features) with high performance. However, mobile native applications are expensive to build, test and support as they are OS- and (in many cases) device-specific and are often required to be released through an app store.
+**Native Applications** – Designed in a native language for a single operating system, native apps are the most customizable and take advantage of the device’s hardware, (the device’s “native” features) with high performance. However, mobile native applications are expensive to build, test and support as they are OS- and (in many cases) device-specific and are often required to be released through an app store.
 
-**Web Applications** &#8211; Web apps are built to be used in a common browser and delivered in real time via the Internet. They are built using standard HTML, CSS and JavaScript. However, they have limited access to a device’s  features, such as the camera and GPS. Additionally, network performance can adversely affect the application’s  performance, and there are user interface limitations due to HTML/CSS/JavaScript.
+**Web Applications** &#8211; Web apps are built to be used in a common browser and delivered in real time via the Internet. They are built using standard HTML, CSS and JavaScript. However, they have limited access to a device’s features, such as the camera and GPS. Additionally, network performance can adversely affect the application’s performance, and there are user interface limitations due to HTML/CSS/JavaScript.
 
 **Progressive Web Applications** – PWAs have been able to take the best of both worlds and combine them into a hybrid application that is fast (with or without a fast network connection), can work across devices, and does not need to be distributed through a store as it is as linkable and shareable as a web page.
 
@@ -48,8 +47,7 @@ These three components create a browser wrapper for PWAs:
 
   * **Chocolate/Presentation** – This is the middle tier that contains the CSS
 
-  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." %} 
+  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." %} 
 
 To pull the PWA together we need to add in the service worker and the web App manifest.
 

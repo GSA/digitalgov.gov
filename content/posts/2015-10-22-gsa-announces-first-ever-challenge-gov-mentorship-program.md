@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/22/gsa-announces-first-ever-challenge-gov-mentorship-program/
 date: 2015-10-22 11:00:54 -0400
-title: 'GSA Announces First-Ever Challenge.gov Mentorship Program'
-summary: 'It may seem like issuing an open challenge to the American public is a novel form of federal procurement, but it has quickly become an effective way of generating fresh solutions to enduring problems. In every community, there are those who use their knowledge and experience to guide their neighbors down new paths. The federal'
-authors: [eric-beidel]
+title: GSA Announces First-Ever Challenge.gov Mentorship Program
+summary: It may seem like issuing an open challenge to the American public is a novel form of federal procurement, but it has quickly become an effective way of generating fresh solutions to enduring problems. In every community, there are those who use their knowledge and experience to guide their neighbors down new paths. The federal
+authors:
+  - eric-beidel
 categories:
   - Challenges
 tag:
@@ -12,8 +12,7 @@ tag:
   - Challenges and Prizes Community of Practice
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" alt="The words Improve, Success, Training, Motivate, Work, and Inspire intersect the word "Mentor" on a blackboard." %} 
 
 It may seem like issuing an open challenge to the American public is a novel form of federal procurement, but it has quickly become an effective way of generating fresh solutions to enduring problems.
 
@@ -33,8 +32,7 @@ Challenge competitions are changing the way we do business, and the people on th
 
 ## Meet The Mentors
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-340-First-ChallengeGov-Mentorship-Program-2015-mentors.jpg" alt="Challenge.gov mentors" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-340-First-ChallengeGov-Mentorship-Program-2015-mentors.jpg" alt="Challenge.gov mentors" %}
 
   * Noel Bakhtian, Department of Energy
   * Kati Daffan, Federal Trade Commission

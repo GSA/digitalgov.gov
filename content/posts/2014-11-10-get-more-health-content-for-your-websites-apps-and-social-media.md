@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/10/get-more-health-content-for-your-websites-apps-and-social-media/
 date: 2014-11-10 11:05:26 -0400
-title: 'Get More Health Content for Your Websites, Apps, and Social Media'
+title: Get More Health Content for Your Websites, Apps, and Social Media
 summary: 'Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the&nbsp;science-based&nbsp;resources of the Department of Health and Human Services (HHS), Centers for Disease Control and'
-authors: [christen-geiler]
+authors:
+  - christen-geiler
 categories:
   - Content
   - Mobile
@@ -21,8 +21,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." %} 
 
 Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the science-based resources of the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities at the state and local levels, and can help coordinate health messaging for maximum impact and reach.
 
@@ -43,7 +42,7 @@ Freely use our:
 
  **In your local websites, apps, and social media profiles:**
 
-  * Syndicated content from federal sources displays unbranded within your site’s  structure, maintaining your site’s  look-and-feel. Content is automatically updated at the source, leaving you free to focus on other priorities.
+  * Syndicated content from federal sources displays unbranded within your site’s structure, maintaining your site’s look-and-feel. Content is automatically updated at the source, leaving you free to focus on other priorities.
   * Images and infographics are science-based and formatted for quick dissemination on your social profiles, like Facebook and Twitter.
   * Videos and podcasts can be easily added to your YouTube, Flickr, and Pinterest profiles.
   * Data visualizations bring timely federal and state data to you, and are also automatically updated.
@@ -97,8 +96,7 @@ Additionally, CS works to further the agenda of the Open Government Initiative. 
 
 The infographic below depicts the process of content syndication.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}
 
 ## Want to Participate?
 

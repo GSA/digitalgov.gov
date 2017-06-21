@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/10/06/pillbox-google-hangout-for-developers/
 date: 2014-10-06 11:00:48 -0400
-title: 'Pillbox Google Hangout for Developers'
+title: Pillbox Google Hangout for Developers
 summary: 'Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a&nbsp;Google Hangout to talk about developing with the API, data, and open source code from Pillbox. I (Pillbox project manager), Mark Silverberg of Social Health Insights'
-authors: [david-hale]
+authors:
+  - david-hale
 categories:
   - API
   - Data
@@ -20,8 +20,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" %}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" %}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.
 
 I (Pillbox project manager), Mark Silverberg of Social Health Insights (builder of super cool health apps), and Maya Uppaluru of ONC (leads their Innovation Engagement program) will go under the hood of Pillbox.
 

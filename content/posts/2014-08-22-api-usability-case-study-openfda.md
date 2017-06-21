@@ -1,14 +1,14 @@
 ---
-
-
+url: /2014/08/22/api-usability-case-study-openfda/
 date: 2014-08-22 9:32:53 -0400
-title: 'API Usability Case Study\: openFDA'
-summary: 'The API Usability Program brings together developers from agency APIs and the private sector to evaluate how the API can be improved to be more user friendly. Sean Herron of 18F, who was a key member of the openFDA developer team, shared with us some of the major insights gained from this latest API usability session.'
-authors: [georgia-gallavin]
+title: 'API Usability Case Study: openFDA'
+summary: The API Usability Program brings together developers from agency APIs and the private sector to evaluate how the API can be improved to be more user friendly. Sean Herron of 18F, who was a key member of the openFDA developer team, shared with us some of the major insights gained from this latest API usability session.
+authors:
+  - georgia-gallavin
 categories:
   - API
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - API
@@ -24,15 +24,13 @@ The API Usability Program brings together developers from agency APIs and the pr
 
 ### 1. Include Interactive Documentation
 
-While many API documentation pages only include static links or screenshots of sample queries, the openFDA documentation includes an interactive tool, which allows users to search for data and see results in real time. Dubbed the “API Explorer,” it lets users test out the API within a console, and helps to clarify the different components of a query. It’s  a safe space for potential users to play with the possibilities of what openFDA data has to offer.
+While many API documentation pages only include static links or screenshots of sample queries, the openFDA documentation includes an interactive tool, which allows users to search for data and see results in real time. Dubbed the “API Explorer,” it lets users test out the API within a console, and helps to clarify the different components of a query. It’s a safe space for potential users to play with the possibilities of what openFDA data has to offer.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/API-Explorer-with-title.gif" alt="API Explorer with title" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/API-Explorer-with-title.gif" alt="API Explorer with title" %}
 
 The API Explorer was originally included as a draft idea that could potentially be included on the final documentation. As the response was so overwhelmingly positive, the team decided to make it a central focus of the publicly-released version. In order to improve the readability of the results, a more user-friendly interface was created that made it even easier to parse and understand the structure of the openFDA results.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-125-API-UX-syntax-highlighting.jpg" alt="600-x-125-API-UX-syntax-highlighting" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-125-API-UX-syntax-highlighting.jpg" alt="600-x-125-API-UX-syntax-highlighting" %}
 
 ### 2. Support Encryption
 
@@ -42,8 +40,7 @@ HTTPS/SSL are [cryptographic protocols](http://en.wikipedia.org/wiki/Transport_L
 
 As with any digital product, design consistency and easy-to-understand wording are essential to a usable interface. APIs are no exception.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-search-count-screenshot.jpg" alt="600-x-150-search count-screenshot" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-search-count-screenshot.jpg" alt="600-x-150-search count-screenshot" %}
 
 Evaluators noted several areas of the documentation that needed clarification. In particular, the difference between two parameters in the API, “search” and “count,” were initially unclear. To help illustrate the difference, openFDA developers gave a description of each and supplied an example to illustrate how to use them in a search for data.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites/
 date: 2015-05-14 11:10:59 -0400
-title: 'Our Customer is Your Customer\: Working Together to Improve Search on .Gov Websites'
+title: 'Our Customer is Your Customer: Working Together to Improve Search on .Gov Websites'
 summary: 'We know search engines aren&rsquo;t Magic 8 Balls, but that&amp;#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&amp;#8217;ve felt that frustration when the top search results don&amp;#8217;t serve our needs, and the results page itself makes us work.'
-authors: [dmccleskey]
+authors:
+  - dmccleskey
 categories:
   - Monthly Theme
   - Our Work
@@ -26,7 +26,7 @@ Computers will never work as fast as our brains. Even several seconds can seem l
 
 Our results page loads in less than 500 milliseconds, on average—that&#8217;s a half a second.
 
-Speed is important for search engine optimization, too. Google uses your site’s  [speed as a ranking factor](https://www.mattcutts.com/blog/site-speed/) for its search results. [How fast is your site](https://developers.google.com/speed/pagespeed/insights/?utm_source=blogspot&utm_campaign=mobile_ux)?
+Speed is important for search engine optimization, too. Google uses your site’s [speed as a ranking factor](https://www.mattcutts.com/blog/site-speed/) for its search results. [How fast is your site](https://developers.google.com/speed/pagespeed/insights/?utm_source=blogspot&utm_campaign=mobile_ux)?
 
 ## Please Just Make This Easier for Me
 
@@ -36,12 +36,11 @@ Our own data shows a [similar focus on the top results](https://www.WHATEVER/201
 
 So, we focus on bringing the most relevant results to the top, where users are likely to see them. And, if the main search results aren&#8217;t delivering the right content, our [Best Bets](http://search.WHATEVER/manual/best-bets-text.html) allow our agency customers to boost particular results to the very top and make sure they get found.
 
-Difficult to use search results pages are often complicated to manage on the back end, and systems that are hard to manage on the back end make it hard to deliver a good user experience. It’s  a classic chicken-and-egg situation.
+Difficult to use search results pages are often complicated to manage on the back end, and systems that are hard to manage on the back end make it hard to deliver a good user experience. It’s a classic chicken-and-egg situation.
 
-That’s  why we work hard to make our results page lean and make it as easy as possible for content managers to configure their search and keep it fresh over time. We regularly add features to facilitate search setup, like localized configuration tips and access to our various help channels.
+That’s why we work hard to make our results page lean and make it as easy as possible for content managers to configure their search and keep it fresh over time. We regularly add features to facilitate search setup, like localized configuration tips and access to our various help channels.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" %}
 
 We&#8217;ve also started up a [monthly training series](http://search.WHATEVER/manual/training) to get new users up and running, and keep long-time users apprised of the latest developments.
 

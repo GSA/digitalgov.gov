@@ -1,14 +1,15 @@
 ---
-
-
+url: /2016/06/10/taking-an-agile-approach-to-content/
 date: 2016-06-10 2:00:28 -0400
-title: 'Taking an Agile Approach to Content'
+title: Taking an Agile Approach to Content
 summary: 'So, you&rsquo;ve recently joined an agile team &mdash; congratulations! Here at 18F, we work in an agile way &mdash; in other words, we base our designs on user needs, conduct usability testing, iterate quickly, and release MVPs (minimum viable products) rather than highly finalized releases. We take an agile approach to content too. While there&rsquo;s'
-authors: [kate-garklavs, nicole-fenton]
+authors:
+  - kate-garklavs
+  - nicole-fenton
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -17,36 +18,35 @@ tag:
 
 So, you’ve recently joined an agile team — congratulations! Here at 18F, [we work in an agile way](https://pages.18f.gov/agile/) — in other words, we base our designs on user needs, conduct usability testing, iterate quickly, and release MVPs (minimum viable products) rather than highly finalized releases.
 
-We take an agile approach to content too. While there’s  really no “ideal” project or process most of the time, we’ve found that these guidelines help us develop useful services for millions of people. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration, sprint illustrated as a street arrow." %} 
+We take an agile approach to content too. While there’s really no “ideal” project or process most of the time, we’ve found that these guidelines help us develop useful services for millions of people. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration, sprint illustrated as a street arrow." %} 
 
 ## Participate in the process {#participate-in-the-process}
 
 Though every team is different, most agile teams follow some common processes, such as standups (team check-ins at predetermined times), demos, sprint-planning meetings (where your team decides what tasks to tackle during the next two-weeks), and retros (checking in with your team to see what worked well and didn’t work so well during a given sprint).
 
-The first step in working well in an agile environment is getting accustomed to your team’s  particular process. Here are some tips for doing just that:
+The first step in working well in an agile environment is getting accustomed to your team’s particular process. Here are some tips for doing just that:
 
   * **Find out how best to participate.** Depending on your involvement in a project, you might not need to attend each and every meeting. Talk to your project lead to find out which ones are mandatory, and which ones are nice-to-haves.
-  * **Use your team’s  tracking tools.** There are a lot of different tools to track progress and report bugs. We often use GitHub issues or Trello boards, but other teams may use JIRA, waffle.io, or another task-management system. File content issues for yourself so your teammates know what you’re working on and can ask relevant questions. If design or technical bugs come up, file those, too.
+  * **Use your team’s tracking tools.** There are a lot of different tools to track progress and report bugs. We often use GitHub issues or Trello boards, but other teams may use JIRA, waffle.io, or another task-management system. File content issues for yourself so your teammates know what you’re working on and can ask relevant questions. If design or technical bugs come up, file those, too.
   * **Keep the conversation going.** Make time to chat through content blockers as they come up. You may run into conflicts committing your work to code, or you may need help with your content management system. Regardless of the snags you run into, be open with your team. Good communication helps everyone manage their time (and stick to deadlines, however rough).
 
-Even if your team’s  system wasn’t explicitly created for content processes, find ways to track your work using those tools. In doing so, you can help your team understand how complicated the writing and publishing process can be.
+Even if your team’s system wasn’t explicitly created for content processes, find ways to track your work using those tools. In doing so, you can help your team understand how complicated the writing and publishing process can be.
 
 ## Break your work into manageable tasks {#break-your-work-into-manageable-tasks}
 
-It’s  sometimes hard to know what to do first — especially if you’re working without a clear product vision or set of milestones. Here are a few ways to get started:
+It’s sometimes hard to know what to do first — especially if you’re working without a clear product vision or set of milestones. Here are a few ways to get started:
 
   * **Start with the most important tasks.** Don’t try to audit the entire website in one go or write your style guide in one sitting. Pick the most important sections sections or tasks first, see what you learn, and go from there.
-  * **Get feedback early and often.** Once you have a rough draft together, share it with a few of your peers or users, and polish it afterwards. Agile has a faster feedback cycle than traditional publishing models — and that’s  great for your content, because the more you talk about it, the more conversational it will be.
-  * **Be okay with leaving some things unfinished.** This can be really hard for content folks, because we’re detail-oriented and love making things consistent. Part of working in an agile way is staying flexible and responding to shifting demands. If you need help with something, but it’s  not a priority right now, add it to the backlog and bring it up when the time is right.
+  * **Get feedback early and often.** Once you have a rough draft together, share it with a few of your peers or users, and polish it afterwards. Agile has a faster feedback cycle than traditional publishing models — and that’s great for your content, because the more you talk about it, the more conversational it will be.
+  * **Be okay with leaving some things unfinished.** This can be really hard for content folks, because we’re detail-oriented and love making things consistent. Part of working in an agile way is staying flexible and responding to shifting demands. If you need help with something, but it’s not a priority right now, add it to the backlog and bring it up when the time is right.
 
 ## Set squishy deadlines {#set-squishy-deadlines}
 
 As a writer, you need to balance long-term project work with day-to-day business tasks, and align your efforts with your team. One way to make this easier on yourself is to set squishy deadlines:
 
   * **Map out your editorial process.** Content usually needs to go through a number of review cycles with peers, stakeholders, your legal team, and other folks. For better or worse, this process tends to be waterfall. Agile doesn’t always follow a sequential process, but you’ll sometimes need to make compromises. Being aware of the typical review-cycle times will help you with sprint planning, and will also help you stay on top of other commitments.
-  * **Factor in content research.** Agile doesn’t mean you have to start writing right away. Make sure to account for content research, like interviews, audits, copy explorations, or defining your organization’s  voice and preferred tones. These things need to happen early in the process, and they may not line up with early technical conversations about integrations or platforms. Work with your project lead to make sure you have enough focus time for these tasks.
-  * **Align your content efforts with design and engineering** when it makes sense. Keeping your dev team informed of where you’re at (if only in a general sense) will help them better plan their time, which will improve everyone’s  workflow. It’s  not always possible to be working on the same thing though, so use your best judgement.
+  * **Factor in content research.** Agile doesn’t mean you have to start writing right away. Make sure to account for content research, like interviews, audits, copy explorations, or defining your organization’s voice and preferred tones. These things need to happen early in the process, and they may not line up with early technical conversations about integrations or platforms. Work with your project lead to make sure you have enough focus time for these tasks.
+  * **Align your content efforts with design and engineering** when it makes sense. Keeping your dev team informed of where you’re at (if only in a general sense) will help them better plan their time, which will improve everyone’s workflow. It’s not always possible to be working on the same thing though, so use your best judgement.
 
 ## Workshop it together {#workshop-it-together}
 

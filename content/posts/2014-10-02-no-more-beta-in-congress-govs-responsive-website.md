@@ -1,10 +1,8 @@
 ---
-
-
+url: /2014/10/02/no-more-beta-in-congress-govs-responsive-website/
 date: 2014-10-02 10:30:31 -0400
-title: 'No More Beta in Congress.gov&amp;#8217;s Responsive Website'
-summary: 'Congress.gov ushered in the new fiscal year by removing the beta label from its URL two years after it launched. During this period, the Library of Congress not only extensively tested how the site would display on any device, but in a series of releases and enhancements, completely transformed the ability to find legislative information'
-authors: [jparcell]
+title: 'No More Beta in Congress.gov&#8217;s Responsive Website'
+summary: Congress.gov ushered in the new fiscal year by removing the beta label from its URL two years after it launched. During this period, the Library of Congress not only extensively tested how the site would display on any device, but in a series of releases and enhancements, completely transformed the ability to find legislative information
 categories:
   - Mobile
 tag:
@@ -18,8 +16,7 @@ tag:
 
 [Congress.gov](https://www.congress.gov/) ushered in the new fiscal year by [removing the beta label from its URL two years after it launched.](http://blogs.gov.gov/law/2014/09/congress-gov-removing-the-beta-label-and-new-enhancements/) During this period, the Library of Congress not only extensively tested how the site would display on any device, but in a series of releases and enhancements, completely transformed the ability to find legislative information as the successor to THOMAS.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-284-congressdotgov-multiple-devices.jpg" alt="The new Congress.gov responsive design website as seen on an iPad" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-284-congressdotgov-multiple-devices.jpg" alt="The new Congress.gov responsive design website as seen on an iPad" %}
 
 With Congress.gov you can now find information via:
 

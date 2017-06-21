@@ -1,13 +1,13 @@
 ---
-
-
+url: /2013/03/21/saferbus-mobile-usability-case-study/
 date: 2013-03-21 11:51:29 -0400
-title: 'SaferBus Mobile App &amp;#8211; Usability Case Study'
-summary: 'When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can'
-authors: [jonathan-rubin]
+title: 'SaferBus Mobile App &#8211; Usability Case Study'
+summary: When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can
+authors:
+  - jonathan-rubin
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -18,14 +18,13 @@ tag:
 
 When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can vastly improve the usability of your site.
 
-The DigitalGov User Experience Program helped test SaferBus, the U.S. Department of Transportation’s  iPhone Application for reviewing safety on bus lines. Below are the top problems discovered during the test, and the results when they were fixed.
+The DigitalGov User Experience Program helped test SaferBus, the U.S. Department of Transportation’s iPhone Application for reviewing safety on bus lines. Below are the top problems discovered during the test, and the results when they were fixed.
 
 ## Problem 1: Homepage Gives No Starting Point or Purpose
 
 Let visitors know right away what the purpose of your site is, and what they can do there. The first thing users saw when they arrived here was a search box. What were they supposed to search for, and what is an MC or DOT number?
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-1.jpg" alt="Screenshot of Transportation's iPhone application SaferBus before user testing." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-1.jpg" alt="Screenshot of Transportation's iPhone application SaferBus before user testing."" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-1.jpg)
 
 ## Solution 1: Give Home Page a Tagline or Description
 
@@ -35,8 +34,7 @@ By adding a description of what SaferBus allows the user to do, the search box a
 
 When the results for Megabus came up in a search, the users were confused by the grayed out icons and didn’t know that the blue arrows indicated an expandable list. Also, MEGABUS.COM didn&#8217;t appear to be clickable, so the results are not particularly helpful or actionable because people were confused on how to proceed.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-2.jpg" alt="Screenshot of Transportation's iPhone application SaferBus after user testing." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-2.jpg" alt="Screenshot of Transportation's iPhone application SaferBus after user testing." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/saferbus-before-after-2.jpg)
 
 ## Solution 2: Use Universally Accepted Navigation Items
 

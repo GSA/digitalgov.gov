@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/15/what-is-a-civic-hacker/
 date: 2013-05-15 3:21:12 -0400
-title: 'What is a Civic Hacker?'
+title: What is a Civic Hacker?
 summary: 'The&nbsp;National Day of Civic Hacking&nbsp;is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway? &amp;#8220;Civic hackers&amp;#8221; as we think about it for the&nbsp;National Day of Civic Hacking&nbsp;are technologists, civil servants, designers, entrepreneurs, engineers &amp;#8211; anybody'
-authors: [lnelson]
+authors:
+  - lnelson
 categories:
   - Code
   - Managing Digital
@@ -13,8 +13,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/National-Day-of-Civic-Hacking-3.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/National-Day-of-Civic-Hacking-3.jpg" alt="Black and white of a old U.S. fighter plane" %}</a>The <a href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a> is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway?
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/National-Day-of-Civic-Hacking-3.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/National-Day-of-Civic-Hacking-3.jpg" alt="Black and white of a old U.S. fighter plane" %}</a>The <a href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a> is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway?
 </p>
 
 &#8220;Civic hackers&#8221; as we think about it for the<a href="http://hackforchange.org/" target="_blank"> National Day of Civic Hacking</a> are technologists, civil servants, designers, entrepreneurs, engineers &#8211; anybody &#8211; who is willing to collaborate with others to create, build, and invent to address challenges relevant to our neighborhoods, our cities, our states and our country.
@@ -27,7 +26,7 @@ Last week, a National Day of Civic Hacking organizer named Charlie shared this p
 
 Charlie is putting together a<a href="http://hackforchange.org/dawsonville-maker-day" target="_blank"> Maker Faire in Dawsonville</a>, Georgia for National Day of Civic Hacking in coordination with the Dawson County Development Authority in Dawsonville, Georgia.
 
-Let’s  not let the conversation stop here.  It is just getting started.  Tell us in the comment section below how you define civic hacking for yourself and your community, and tell us your plans for National Civic Hacking Day.
+Let’s not let the conversation stop here.  It is just getting started.  Tell us in the comment section below how you define civic hacking for yourself and your community, and tell us your plans for National Civic Hacking Day.
 
 Originally published on the site [National Day of Civic Hacking](http://hackforchange.org/blog/what-civic-hacker).
 

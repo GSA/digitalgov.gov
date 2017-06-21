@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/08/29/system-usability-scale-improving-products-since-1986/
 date: 2014-08-29 10:15:49 -0400
-title: 'System Usability Scale (SUS)\: Improving Products Since 1986'
-summary: 'Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the System Usability Scale, introduced in 1986 by an engineer named John Brooke,'
-authors: [georgia-gallavin]
+title: 'System Usability Scale (SUS): Improving Products Since 1986'
+summary: Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the System Usability Scale, introduced in 1986 by an engineer named John Brooke,
+authors:
+  - georgia-gallavin
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -18,8 +18,7 @@ tag:
 
 Trying to measure usability can be a head scratcher. How easy something is to use depends on where you are, who you are, and a number of other factors. Luckily in the world of usability, there exists a post-test survey known as the [System Usability Scale](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html), introduced in 1986 by an engineer named John Brooke, who was trying to solve this very dilemma.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-System-Usability-Scale-SUS-question-1.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-150-System-Usability-Scale-SUS-question-1.jpg" alt="System Usability Scale, question 1: I think that I would like to use this system frequently. On a scale of 1 to 5, with 1 being "Strongly disagree" and 5 being "Strongly agree," number 2 is checked for the answer." %}
 
 The SUS is no stranger to federal agencies. GSA and OPM are just two of the many agencies that use the SUS as a post-test assessment of how easy a product is to use. Since it was unleashed on the world, the SUS has been used in over [1,200 published tests](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf), encompassing a wide range of services and products, many of which did not even exist at the time the survey was created!
 
@@ -53,8 +52,7 @@ Here&#8217;s what an SUS looks like:
 
 ### Customizable Questions
 
-By alternating negative and positive statements, the SUS questions make people think hard about the experience; it prevents them from just saying &#8220;Yeah, it was great&#8221; the whole way down. Another great thing: You can tweak the wording or order to meet your needs without worrying about affecting the results. Even when the exact wording of the original survey is not used, the [results are still very reliable](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf). 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/478-x-214-System-Usability-Scale-SUS-for-many-applications-Font-Awesome-by-Dave-Gandy-CC-BY-3.jpg" alt="System Usability Scale graphic fonts" %} 
+By alternating negative and positive statements, the SUS questions make people think hard about the experience; it prevents them from just saying &#8220;Yeah, it was great&#8221; the whole way down. Another great thing: You can tweak the wording or order to meet your needs without worrying about affecting the results. Even when the exact wording of the original survey is not used, the [results are still very reliable](http://www.upassoc.org/upa_publications/jus/2013february/JUS_Brooke_February_2013.pdf). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/478-x-214-System-Usability-Scale-SUS-for-many-applications-Font-Awesome-by-Dave-Gandy-CC-BY-3.jpg" alt="System Usability Scale graphic fonts" %} 
 
 Maybe you want to know if people think the smartphone app you created to help fill out taxes is easy to use. After testers finish trying to use the app, you can tack on a SUS survey at the end and substitute the original questionnaire wording &#8220;system” for “mobile app.” Voila! You have created a System Usability Scale survey for your specific product.
 

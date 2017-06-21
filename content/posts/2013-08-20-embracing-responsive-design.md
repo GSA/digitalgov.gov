@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/08/20/embracing-responsive-design/
 date: 2013-08-20 7:42:45 -0400
-title: 'Embracing Responsive Design'
-summary: 'There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of USA.gov and GobiernoUSA.gov, consumers can now have access to the same information and services when they need them, and on'
-authors: [lgodfrey]
+title: Embracing Responsive Design
+summary: There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of USA.gov and GobiernoUSA.gov, consumers can now have access to the same information and services when they need them, and on
+authors:
+  - lgodfrey
 categories:
   - Code
   - Content
@@ -19,8 +19,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/USA.gov-responsive.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" %}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of <a href="http://www.usa.gov/" target="_blank">USA.gov</a> and <a href="http://www.usa.gov/gobiernousa/index.shtml" target="_blank">GobiernoUSA.gov</a>, consumers can now have access to the same information and services when they need them, and on any platform and device.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/USA.gov-responsive.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" %}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of <a href="http://www.usa.gov/" target="_blank">USA.gov</a> and <a href="http://www.usa.gov/gobiernousa/index.shtml" target="_blank">GobiernoUSA.gov</a>, consumers can now have access to the same information and services when they need them, and on any platform and device.
 </p>
 
 <p dir="ltr">
@@ -28,7 +27,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Using responsive design is very efficient and cost effective: It allows us to more easily create and maintain content that will display correctly on all devices and across all platforms.  It saves the government money since it’s  “future ready,” which means that the sites will work on future mobile devices.
+  Using responsive design is very efficient and cost effective: It allows us to more easily create and maintain content that will display correctly on all devices and across all platforms.  It saves the government money since it’s “future ready,” which means that the sites will work on future mobile devices.
 </p>
 
 <p dir="ltr">

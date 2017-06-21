@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
 date: 2017-03-24 11:02:04 -0400
-title: 'New ITIF Report Inspires a Closer Look at Website Performance and Security&mdash;Here Is Where to Begin'
+title: New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin
 summary: 'The Information Technology &amp;amp; Innovation Foundation (ITIF) recently published a report, Benchmarking U.S. Government Websites, that looks at the performance, security, and accessibility of the top 297 government websites. ITIF is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy.'
-authors: [digitalgov-team]
+authors:
+  - digitalgov-team
 categories:
   - Accessibility
   - Code
@@ -14,8 +14,8 @@ categories:
   - Managing Digital
   - Metrics
   - Mobile
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - accessibility
@@ -48,12 +48,11 @@ _The Information Technology & Innovation Foundation (ITIF) recently published a 
 
 Over the past 90 days, government websites were visited over 2.55 billion times. According to the [Analytics Dashboard](https://analytics.usa.gov/), 43.5% of those views were done from a mobile device.
 
-However, according to ITIF’s  findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
+However, according to ITIF’s findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
 
-So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s  website provide better access to services and information. 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" %} 
+So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {% img="https://www.WHATEVER/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, "solutions."" %} 
 
-## Improving Your Site’s  Performance
+## Improving Your Site’s Performance
 
 ### Page Load Speed
 
@@ -131,7 +130,7 @@ _Do you want more information on switching to HTTPS?_ [_Email us_](mailto:digita
 
 Only 58% of the sites were accessible for users with disabilities. According to the report, issues with accessibility ranged from poor contrast on websites to a lack of labels, which may prevent the website from being easily navigated by someone using a screen reader (assistive technology commonly used by individuals who are blind).
 
-With the January release of the [Access Board’s  final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) (updating the original regulations from 2000), [testing for accessibility](https://www.youtube.com/watch?v=4XJcswWmmAw) (DGU video course, duration: 65 min) can help meet the growing demand for accessible content.
+With the January release of the [Access Board’s final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) (updating the original regulations from 2000), [testing for accessibility](https://www.youtube.com/watch?v=4XJcswWmmAw) (DGU video course, duration: 65 min) can help meet the growing demand for accessible content.
 
 **Resources & Tools**
 
@@ -139,7 +138,7 @@ With the January release of the [Access Board’s  final rule](https://www.acces
   * [Accessibility Resource List](https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
   * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
   * [Agency Implementation Guides](https://section508.gov/agency-shared-guidance)
-  * [CIO Council’s  Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
+  * [CIO Council’s Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
   * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act](https://www.WHATEVER/2016/08/15/celebrating-the-18th-anniversary-of-section-508-rehabilitation-act/)
   * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes)
 
@@ -149,6 +148,6 @@ _Do you want more information on accessibility resources?_ [_Email us_](mailto:d
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
 
-_Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_](https://www.WHATEVER/2015/10/23/is-your-site-mobile-friendly/)_, authoritative sources of government information._ [_Learn more_](https://www.WHATEVER/2016/02/29/is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry/) _about the Registry (there’s  also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_](https://www.WHATEVER/services/u-s-digital-registry/)_._ 
+_Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_](https://www.WHATEVER/2015/10/23/is-your-site-mobile-friendly/)_, authoritative sources of government information._ [_Learn more_](https://www.WHATEVER/2016/02/29/is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry/) _about the Registry (there’s also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_](https://www.WHATEVER/services/u-s-digital-registry/)_._ 
 
 _If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our_ [_Communities_](https://www.WHATEVER/communities/) _page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more._

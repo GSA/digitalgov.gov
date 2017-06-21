@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/
 date: 2015-02-09 1:33:53 -0400
-title: 'The Content Corner\: Content Pillars\: The Foundation of Any Effective Content Strategy'
+title: 'The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy'
 summary: 'If you and your organization don&rsquo;t already have a content strategy, then you are most likely working too hard to create content that is less effective in communicating your desired message and less relevant to your end-user. The lack of a content strategy can leave you at the mercy of the content &ldquo;beast&rdquo; where you'
-authors: [tyrus-manuel]
+authors:
+  - tyrus-manuel
 categories:
   - Communities
   - Content
@@ -27,8 +27,7 @@ For example, your organization is hosting an event where two subject matter expe
   * And photos of the live event could be posted via social media, particularly Instagram or Flickr.
   * Perhaps the audio could also be turned into a podcast, if the event was of two people conversing on a stage the audience of the podcast wouldn&#8217;t really miss out on anything.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-415-Ty-Manuel-content-pillar-infographic.jpg" alt="A flowchart showing how one piece of content can be leveraged into numerous other assets, and then used to populate a wide variety of your media channels." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-415-Ty-Manuel-content-pillar-infographic.jpg" alt="A flowchart showing how one piece of content can be leveraged into numerous other assets, and then used to populate a wide variety of your media channels." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-623-Ty-Manuel-content-pillar-infographic.jpg)
 
 So as opposed to a live event with one video, you are now populating various other channels with a variety of content that can also easily be consumed and shared by your audience. This is the awesome power of the content pillar.
 

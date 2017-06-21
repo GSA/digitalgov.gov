@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/21/how-a-two-day-sprint-moved-an-agency-twenty-years-forward/
 date: 2015-09-21 10:00:49 -0400
-title: 'How a Two-Day Sprint Moved an Agency Twenty Years Forward'
-summary: 'At 18F Consulting, we experiment with ways to empower agencies to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor’s Wage and Hour Division (WHD) to run a two day &ldquo;Design/Dev Agile Sprint.&rdquo; Background\: Investigators in Wage and Hour Division The Department of Labor’s Wage and Hour Division is responsible for'
-authors: [jesse-taggert]
+title: How a Two-Day Sprint Moved an Agency Twenty Years Forward
+summary: 'At 18F Consulting, we experiment with ways to empower agencies to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor&rsquo;s Wage and Hour Division (WHD) to run a two day &ldquo;Design/Dev Agile Sprint.&rdquo; Background: Investigators in Wage and Hour Division The Department of Labor&rsquo;s Wage and Hour Division is responsible for'
+authors:
+  - jesse-taggert
 categories:
   - UX
 tag:
@@ -14,25 +14,23 @@ tag:
   - U.S. Department of Labor
 ---
 
-At 18F Consulting, we experiment with [ways to empower agencies](https://18f.gsa.gov/consulting/) to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor’s  Wage and Hour Division (WHD) to run a two day “Design/Dev Agile Sprint.”
+At 18F Consulting, we experiment with [ways to empower agencies](https://18f.gsa.gov/consulting/) to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor’s Wage and Hour Division (WHD) to run a two day “Design/Dev Agile Sprint.”
 
 ## Background: Investigators in Wage and Hour Division
 
-The Department of Labor’s  Wage and Hour Division is responsible for enforcing a wide variety of federal labor laws, including those requiring the minimum wage, overtime, child labor protections, and family and medical leave laws. Over 1,000 investigators, working out of local offices nationwide, and often literally in the field, investigate employers to determine compliance with these laws. To gather the information they need, they travel to a wide variety of businesses, including farms, restaurants, hotels, retail shops, construction sites, hospitals, and many others.
+The Department of Labor’s Wage and Hour Division is responsible for enforcing a wide variety of federal labor laws, including those requiring the minimum wage, overtime, child labor protections, and family and medical leave laws. Over 1,000 investigators, working out of local offices nationwide, and often literally in the field, investigate employers to determine compliance with these laws. To gather the information they need, they travel to a wide variety of businesses, including farms, restaurants, hotels, retail shops, construction sites, hospitals, and many others.
 
 While conducting investigations, Labor employees often turn to the Field Operations Handbook (what they call the FOH) for guidance. The handbook is an operations manual that provides interpretations of the law, procedures for conducting investigations, and general administrative guidance. It reflects policies established through changes in legislation, regulations, significant court decisions, and the decisions and opinions of the WHD Administrator. The handbook is a critical tool for WHD staff.
 
-> How might we help DOL’s  Wage Hour Division move forward with a quick win that would demonstrate what modernization can mean in a meaningful, iterative way?
+> How might we help DOL’s Wage Hour Division move forward with a quick win that would demonstrate what modernization can mean in a meaningful, iterative way?
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-field-team.jpg" alt="Two investigators (left and right) and an 18F user researcher (center) who is shadowing them to understand how investigators use paper and digital methods to accomplish their job." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-field-team.jpg" alt="Two investigators (left and right) and an 18F user researcher (center) who is shadowing them to understand how investigators use paper and digital methods to accomplish their job." %}
 
 ## The current landscape: Publishing in the 21st century
 
 The handbook consists of four five-inch-thick binders containing printed and photocopied pages. These binders are replicated and distributed across numerous regional and local offices. The handbook also exists as online PDFs, where each chapter or subsection is published as its own PDF. With these two options, investigators don’t have an easy way to quickly access and search for much-needed information that helps them complete investigations, particularly when they’re working out in the field.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-361-handbook.jpg" alt="Three large binders of the Field Operations Handbook" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-361-handbook.jpg" alt="Three large binders of the Field Operations Handbook" %}
 
 ## The challenge: How to move this project forward?
 
@@ -61,14 +59,13 @@ In this two day sprint, about eight of us gathered to:
   * One designer and two developers from the 18F Consulting team
   * One product owner from the WHD modernization team
   * Three WHD Investigators who frequently use this handbook
-  * Three to five representatives from the division’s  communications, policy, and document management teams. They helped us understand different use cases in the process and the current state of document creation, editing, and publication.
+  * Three to five representatives from the division’s communications, policy, and document management teams. They helped us understand different use cases in the process and the current state of document creation, editing, and publication.
 
 ## Tuesday morning: Kick off!
 
 We facilitated a two-hour kick-off meeting (sometimes called an Inception). It got the group aligned around the problem and to agree on a plan moving forward.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-292-group-1.jpg" alt="Kick off (Inception)" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-292-group-1.jpg" alt="Kick off (Inception)" %}
 
 During this Inception we:
 
@@ -96,8 +93,7 @@ Examples of our user stories:
   * As an investigator, I want inline links to other references so that I can make the best use of this body of knowledge. _(we automatically converted certain text standards into their corresponding links for hundreds of pages of documents)_
   * As an investigator, I want the FOH to be easy to read because past methods have been hard to read. _(provide good version 1 typography and design of this online resource)_
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-group-2.jpg" alt="Day 2 of the team working out of the 18F common space. Developers on the left. Investigators (users) and product owners talking about needs on the right. Taped to the windows are the progress boards (Backlog, Current, Done)." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-group-2.jpg" alt="Day 2 of the team working out of the 18F common space. Developers on the left. Investigators (users) and product owners talking about needs on the right. Taped to the windows are the progress boards (Backlog, Current, Done)." %}
 
 Tom, the product owner had already used optical character recognition (OCR) software to convert 100s of PDFs into MS Word documents. Microsoft styles and headings were applied to the content to begin to structure the data. (Aside: this is a perfect example of using the tools you know best to move a project forward!) With that in hand, our developer validated the technical feasibility of converting those Word documents to HTML pages that could be searched using Elasticsearch.
 
@@ -115,7 +111,7 @@ Coming into the sprint, we understood that one of the major constraints is that 
 
 Then, to get the HTML files to be more usable, we wrote a [second script](https://github.com/18F/dol-whd-foh/blob/master/src/make.js) that extracts the content from the HTML file, does some high-level parsing, creates a Table of Contents, establishes JSON objects for each part of the Chapter (along with associated metadata), loads the JSON objects into an Elasticsearch service, and rewrites each HTML file to include links to other government sources and internal links. Finally, the files and search results were served using NGINX as the application server (later, this was rewritten to work with Apache).
 
-> &#8220;&#8230;we made so much progress in a short period of time! It’s  searchable and you can actually read it.&#8221; —Amy, Senior Advisor, Immigration and Farm Labor Branch
+> &#8220;&#8230;we made so much progress in a short period of time! It’s searchable and you can actually read it.&#8221; —Amy, Senior Advisor, Immigration and Farm Labor Branch
 
 ### Design
 
@@ -125,16 +121,15 @@ One of the great things about a cross-functional team in the same room for a spr
 
 Actual investigators made this sprint a success. Working with them over the two days, we determined the best interface copy that would be clear and actionable to their peers. Seconds after code was pushed to the staging site, we observed how they used search and understood the search results pages. Feedback was immediately incorporated.
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-288-foh-screenshot.jpg" alt="Two days later we had a working prototype showing browsable chapters and a search results page." %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-288-foh-screenshot.jpg" alt="Two days later we had a working prototype showing browsable chapters and a search results page." %}
-
-## What’s  next?
+## What’s next?
 
 For many of us in the design and software development profession, building a working prototype is not a big deal. For the dedicated civil servants in the federal government, it can be. Over these two days we demonstrated that with the right support and the right people in the room, ideas can be tested, iterated upon, and realized without months of requirements gathering, large waterfall contractual agreements, and other impediments.
 
 This prototype, built over a two-day sprint, is still an internal proof of concept for the people responsible for improving the FOH. For important legal reasons, they are dedicated to ensuring the confidential, internal-facing guidelines are developed in a secure, yet accessible way. Our prototype used the public-facing portion of their guidelines to reduce that risk. In the next few months, they will pilot this with a few regions while they work on securing a development environment that can house the more useful internal-facing documents (helping government do that better is another story for another day). Meanwhile, for all future discussions, they have a working prototype, created with internal stakeholders in the room who helped build it!
 
-18F and GSA are committed to being proactive federal partners and providing operational excellence wherever we can. By working hand-in-hand with the WHD team, we’ve been able to show them what’s  possible, and have given them the basic knowledge to ask the right questions to help them develop solutions in a cost-effective, user-centered way.
+18F and GSA are committed to being proactive federal partners and providing operational excellence wherever we can. By working hand-in-hand with the WHD team, we’ve been able to show them what’s possible, and have given them the basic knowledge to ask the right questions to help them develop solutions in a cost-effective, user-centered way.
 
 If your agency has a project you’d like us to look at, please [contact 18F Consulting via email](mailto:inquiries18F@gsa.gov).
 

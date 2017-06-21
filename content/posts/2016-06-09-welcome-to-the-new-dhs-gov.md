@@ -1,17 +1,17 @@
 ---
-
-
+url: /2016/06/09/welcome-to-the-new-dhs-gov/
 date: 2016-06-09 2:00:26 -0400
-title: 'Welcome to the New DHS.gov'
-summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Over the past year, DHS has worked behind the scenes to update and modernize our flagship website, making it faster and easier to use. Some of the specific differences you&rsquo;ll see are\: Compatibility for both desktop computers and mobile devices (phones and tablets) Cleaner,'
-authors: [j-todd-breasseale]
+title: Welcome to the New DHS.gov
+summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Over the past year, DHS has worked behind the scenes to update and modernize our flagship website, making it faster and easier to use. Some of the specific differences you&rsquo;ll see are: Compatibility for both desktop computers and mobile devices (phones and tablets) Cleaner,'
+authors:
+  - j-todd-breasseale
 categories:
   - Accessibility
   - Content
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - "508"
@@ -34,8 +34,7 @@ Today, I am happy to announce the newly optimized DHS.gov website. Over the past
   * Cleaner, easier-to-read site format and presentation
   * Faster and more accurate site navigation using our internal search function and external search engines (like Google and Bing)
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." %}
 
 ## DHS.gov for Mobile
 
@@ -45,7 +44,7 @@ In 2015, more than 22% of visitors to DHS.gov used either a cell phone or tablet
 
 Throughout the course of this effort, we updated more than 9,000 pages to simplify how information is presented to the user. Each page now features easy-to-read type and a clear introduction, so you can quickly determine if you are on the right page. We also built in collapsing sections so that longer pages of content can be quickly skimmed for relevant information.
 
-The new DHS.gov is also fully accessible, reinforcing the Department’s  commitment to meet or exceed federal Section 508 compliance standards.
+The new DHS.gov is also fully accessible, reinforcing the Department’s commitment to meet or exceed federal Section 508 compliance standards.
 
 Finally, we introduced new tools like updated slideshows and image carousels, which highlight new information and announcements from the Department.
 
@@ -53,7 +52,7 @@ Finally, we introduced new tools like updated slideshows and image carousels, wh
 
 Finding information on DHS.gov has never been easier.
 
-We updated the site’s  technology to make sure pages were cataloged correctly by both our search engine and external search engines, so your searches on DHS.gov will yield more accurate results. We also organized each page and section by DHS mission area, so you can see how each program or activity ties into broader Department goals. For instance, you can use our optimized search engine to find the DHS Trusted Traveler program that works best for you.
+We updated the site’s technology to make sure pages were cataloged correctly by both our search engine and external search engines, so your searches on DHS.gov will yield more accurate results. We also organized each page and section by DHS mission area, so you can see how each program or activity ties into broader Department goals. For instance, you can use our optimized search engine to find the DHS Trusted Traveler program that works best for you.
 
 ## Moving Forward
 

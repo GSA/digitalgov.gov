@@ -1,15 +1,15 @@
 ---
-
-
+url: /2013/08/05/mobile-product-security-and-privacy-testing-resources/
 date: 2013-08-05 3:01:32 -0400
-title: 'Mobile Product Security and Privacy Testing Resources'
-summary: 'Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user’s personally identifiable information into a compromisable position. This article was developed as part of the Mobile Application Development Program. See our'
-authors: [jparcell]
+title: Mobile Product Security and Privacy Testing Resources
+summary: 'Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user&rsquo;s personally identifiable information into a compromisable position. This article was developed as part of the Mobile Application Development Program. See our'
+authors:
+  - jparcell
 categories:
   - Code
   - Mobile
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
 tag:
   - GitHub
   - mobile testing
@@ -17,7 +17,7 @@ tag:
   - security
 ---
 
-Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user’s  personally identifiable information into a compromisable position.
+Security testing is used to ensure that a mobile product does not pose a threat to agency IT systems and databases. In addition, privacy testing ensures that an app does not put the user’s personally identifiable information into a compromisable position.
 
 This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program"). See our [general guidelines to testing](https://digitalgov.sites.usa.gov/2013/08/22/mobile-product-testing-guidelines/ "Mobile Product Testing Guidelines and Resources") article for more resources on mobile product testing.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/03/24/why-go-responsive-heres-what-feds-are-saying/
 date: 2014-03-24 2:04:51 -0400
-title: 'Why Go Responsive? Here’s What Feds Are Saying'
+title: Why Go Responsive? Here’s What Feds Are Saying
 summary: ' Responsive Web design implementations in the federal government have members of the Mobile Gov Community of Practice asking what is responsive Web design and how do we do it? In February, the Mobile'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Mobile
 tag:
@@ -18,8 +18,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GSA-RWD-20140206-Why.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GSA-RWD-20140206-Why.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" %}</a>
 </p>
 
 <p dir="ltr">
@@ -27,7 +26,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s  Next?" href="https://www.WHATEVER/2014/01/30/responsive-web-design-workshop-why-how-and-whats-next/">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
+  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s Next?" href="https://www.WHATEVER/2014/01/30/responsive-web-design-workshop-why-how-and-whats-next/">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
 </p>
 
 <p dir="ltr">
@@ -35,7 +34,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="https://www.WHATEVER/2013/06/11/responsive-design/">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s  what we were told:
+  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="https://www.WHATEVER/2013/06/11/responsive-design/">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s what we were told:
 </p>
 
   * <p dir="ltr">
@@ -79,5 +78,5 @@ tag:
 </p>
 
 <p dir="ltr">
-  Federal employees can let us know their thoughts on responsive Web design at next week’s  <a href="https://www.WHATEVER/event/april-mobile-around-the-horn-call/">MobileGov Around the Horn Call</a>.
+  Federal employees can let us know their thoughts on responsive Web design at next week’s <a href="https://www.WHATEVER/event/april-mobile-around-the-horn-call/">MobileGov Around the Horn Call</a>.
 </p>

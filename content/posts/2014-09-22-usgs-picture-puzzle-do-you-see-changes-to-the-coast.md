@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/09/22/usgs-picture-puzzle-do-you-see-changes-to-the-coast/
 date: 2014-09-22 10:00:21 -0400
-title: 'USGS Picture Puzzle\: Do You See Changes to the Coast?'
+title: 'USGS Picture Puzzle: Do You See Changes to the Coast?'
 summary: 'If you are a coastal resident, go to the beach, or are interested in digital volunteering, you can be a tremendous help&nbsp;in identifying and classifying changes that storms make to our coast after severe storms. The U.S. Geological Survey (USGS) has launched iCoast, a Web application where you can view aerial photographs and help classify'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
@@ -15,8 +15,7 @@ tag:
   - USGS
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" %} 
 
 If you are a coastal resident, go to the beach, or are interested in digital volunteering, you can be a tremendous help in identifying and classifying changes that storms make to our coast after severe storms.
 
@@ -30,6 +29,6 @@ The images in iCoast are a unique educational tool for anyone who wants to learn
 
 <a title="sign up with icoast" href="http://coastal.er.usgs.gov/icoast/" target="_blank">Sign up</a> as a digital volunteer, classify a few photos, and help spread the word to your colleagues, students, friends, and family. Email address is required and the program asks for you to share your area of interest and expertise. For those who are tech savvy, explore [iCoast open-source project on GitHub](http://github.com/usgs/icoast).
 
-Questions about this photo analysis project should be directed to <a href="mailto:sophialiu@usgs.gov">sophialiu@usgs.gov</a> and <a href="mailto:icoast@usgs.gov">icoast@usgs.gov</a>.
+Questions about this photo analysis project should be directed to <sophialiu@usgs.gov> and <icoast@usgs.gov>.
 
 _See more ways that federal agencies are using crowdsourcing and competitions to work with the most creative, brilliant minds in our communities, go to [Challenge.gov](https://challenge.gov/ "challenge dot gov")._

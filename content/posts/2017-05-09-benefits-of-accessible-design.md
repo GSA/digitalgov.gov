@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/05/09/benefits-of-accessible-design/
 date: 2017-05-09 3:00:03 -0400
-title: 'Benefits of Accessible Design'
+title: Benefits of Accessible Design
 summary: 'According to the World Bank,&nbsp;approximately one billion people worldwide live with a disability, making up the&nbsp;world&amp;#8217;s largest minority.&nbsp;Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience. Currently many websites and digital platforms are inaccessible, which makes them difficult'
-authors: [phillip-crawford]
+authors:
+  - phillip-crawford
 categories:
   - Accessibility
   - Design
@@ -18,8 +18,7 @@ tag:
 
 <p dir="ltr">
   According to the World Bank, <a class="ext extlink" href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <strong>world&#8217;s largest minority.</strong> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
-</p> 
-{% include image/full-width.html img="https://www.WHATEVER/files/2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." %} 
+</p> {% img="https://www.WHATEVER/files/2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." %} 
 
 <p dir="ltr">
   Currently many websites and digital platforms are inaccessible, which makes them difficult or impossible for people with disabilities (including visual, auditory, physical, speech, cognitive, or neurological) to use. Making websites and software accessible has numerous benefits for people with disabilities, consumers, and businesses. Among these benefits are building an expanded customer base, reducing expenses, and and inspiring innovation through inclusion.
@@ -57,7 +56,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a class="ext extlink" href="https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf">Microsoft-Forrester</a> study stressed, “<strong>Employees are likely to become disabled as they age.</strong> We’ve invested in them; we want to preserve the investment. That’s  why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.”
+  <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a class="ext extlink" href="https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf">Microsoft-Forrester</a> study stressed, “<strong>Employees are likely to become disabled as they age.</strong> We’ve invested in them; we want to preserve the investment. That’s why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.”
 </p>
 
 <p dir="ltr">
@@ -69,7 +68,7 @@ tag:
 </p>
 
 <p class="rtecenter" dir="ltr">
-  <em>“It’s  not just doing the right thing, it’s  doing the smart thing”</em>
+  <em>“It’s not just doing the right thing, it’s doing the smart thing”</em>
 </p>
 
 <p class="rtecenter">
@@ -95,7 +94,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Some organizations mistakenly believe that hiring individuals with disabilities will hinder their company’s  workplace environment.
+  Some organizations mistakenly believe that hiring individuals with disabilities will hinder their company’s workplace environment.
 </p>
 
 <p class="rtecenter" dir="ltr">

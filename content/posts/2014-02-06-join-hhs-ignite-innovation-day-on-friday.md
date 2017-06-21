@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/02/06/join-hhs-ignite-innovation-day-on-friday/
 date: 2014-02-06 4:23:22 -0400
-title: 'Join HHS Ignite Innovation Day on Friday'
+title: Join HHS Ignite Innovation Day on Friday
 summary: 'This post was originally published on the IDEA Lab blog by Read Holman, HHS&nbsp;Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab. Launched last year in &ldquo;beta&rdquo; by Secretary Sebelius,&nbsp;HHS Ignite&nbsp;supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS&rsquo;s&nbsp;IDEA Lab, which'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Managing Digital
 tag:
@@ -14,7 +14,7 @@ tag:
 
 _[<img class="alignright  wp-image-127002" alt="Two and three quarter's rows of small circles with a headshot in them, 31 faces in all." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/HHS-IDEA-Lab-people.png" width="450" height="172" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/HHS-IDEA-Lab-people.png)This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab._
 
-Launched last year in “beta” by Secretary Sebelius, <a href="http://www.hhs.gov/idealab/pathways/hhs-ignite/" target="_blank">HHS Ignite</a> supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS’s  <a href="http://www.hhs.gov/idealab/" target="_blank">IDEA Lab</a>, which was established to improve how the Department delivers on its mission and promote advances in organizational management.
+Launched last year in “beta” by Secretary Sebelius, <a href="http://www.hhs.gov/idealab/pathways/hhs-ignite/" target="_blank">HHS Ignite</a> supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS’s <a href="http://www.hhs.gov/idealab/" target="_blank">IDEA Lab</a>, which was established to improve how the Department delivers on its mission and promote advances in organizational management.
 
 From a pool of 65 proposals, 13 teams were selected, and over the last six months, these HHS Ignite (Beta) teams have been solidifying their problem and testing their idea in a way to gather actionable data. Through pivots, procurement, and a government shutdown, the teams have emerged to present the results of their efforts.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/11/06/uscis-twitter-office-hours/
 date: 2015-11-06 10:00:33 -0400
-title: 'USCIS Twitter Office Hours'
-summary: 'On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us. We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to'
-authors: [uscis-staff]
+title: USCIS Twitter Office Hours
+summary: 'On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us. We aimed to leverage Twitter to answer questions on our agency&rsquo;s programs and policies and to'
+authors:
+  - uscis-staff
 categories:
   - Social Media
 tag:
@@ -20,19 +20,17 @@ tag:
   - USCIS
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-328-Birds-with-Yellow-and-Blue-Speech-Bubbles-Ken-Drysdale-iStock-Thinkstock-480553737.jpg" alt="Birds with Yellow and Blue Speech Bubbles" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-328-Birds-with-Yellow-and-Blue-Speech-Bubbles-Ken-Drysdale-iStock-Thinkstock-480553737.jpg" alt="Birds with Yellow and Blue Speech Bubbles" %} 
 
 On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our first Twitter Office Hours, a Twitter chat for USCIS customers. The purpose of this pilot event was to offer our customers a different way to engage with us.
 
-We aimed to leverage Twitter to answer questions on our agency’s  programs and policies and to counter rumors and incorrect information that exist in the public sphere.
+We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to counter rumors and incorrect information that exist in the public sphere.
 
 We were inspired to launch this event after hearing about the [popular Office Hours hosted by the Free Application for Federal Student Aid (FAFSA) team at the Department of Education](https://www.WHATEVER/2015/01/05/great-customer-service-in-140-characters-askfafsa-twitter-chats/). Our call centers receive thousands of phone calls per day and some people wait for a representative to ask questions that could be answered through our website. Twitter allows us to quickly share answers to common questions with lots of people at once.
 
 While preparing, we spoke with members of FAFSA Office Hours team about how their events are structured. We also had conversations with colleagues who use Twitter to engage with the public at the Federal Emergency Management Agency (FEMA) and the Environmental Protection Agency (EPA).
 
-One of the biggest challenges for us during the planning stage was securing approval to try something the agency had never done before: respond to Twitter followers. We met with USCIS colleagues to get their advice and address their concerns with digital engagement. Then we developed our strategic plan. We also worked closely with our colleagues at DHS, our parent department. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Hashtag-Concept-allanswart-iStock-Thinkstock-483935350.jpg" alt="One blue hashtag on a field of white hashtags (pound signs)." %} 
+One of the biggest challenges for us during the planning stage was securing approval to try something the agency had never done before: respond to Twitter followers. We met with USCIS colleagues to get their advice and address their concerns with digital engagement. Then we developed our strategic plan. We also worked closely with our colleagues at DHS, our parent department. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Hashtag-Concept-allanswart-iStock-Thinkstock-483935350.jpg" alt="One blue hashtag on a field of white hashtags (pound signs)." %} 
 
 Some of the concerns that we had to address before launching the event included adequate staffing for the event, handling questions that were not within the scope of the event, customer privacy, defining the audience for office hours, promotion to the target audience and the source of our content that would be tweeted.
 

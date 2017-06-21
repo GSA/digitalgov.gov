@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/16/api-release-kit/
 date: 2013-05-16 1:04:03 -0400
-title: 'API Release Kit'
-summary: 'These are the elements you should include in your federal API release. Homepage Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page’s sidebar, footer, and sub pages, you can directly include or link to each of'
-authors: [gray-brooks]
+title: API Release Kit
+summary: 'These are the elements you should include in your federal API release. Homepage Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page&rsquo;s sidebar, footer, and sub pages, you can directly include or link to each of'
+authors:
+  - gray-brooks
 categories:
   - API
   - Code
@@ -19,16 +19,15 @@ tag:
   - U.S. Department of Labor
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
 These are the elements you should include in your federal API release.
 
 ## Homepage
 
-Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page’s  sidebar, footer, and sub pages, you can directly include or link to each of the following components that exist for the API. This allows for ready discovery of anything a potential developer may need, minimizing the effort that is asked of them and maximizing the adoption. This API homepage should be a webpage, not a downloadable Word or PDF file, in order to provide ease of use as well as a further degree of permanence.
+Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page’s sidebar, footer, and sub pages, you can directly include or link to each of the following components that exist for the API. This allows for ready discovery of anything a potential developer may need, minimizing the effort that is asked of them and maximizing the adoption. This API homepage should be a webpage, not a downloadable Word or PDF file, in order to provide ease of use as well as a further degree of permanence.
 
-Your team should decide which of the following elements to include with your API, recognizing that ensuring a well-rounded and fully functional developer experience is the best recipe for your API’s  success. The below list represents elements you should assemble with each API. Examples and suggested tools are included and can be readily copied and improved upon between agencies.
+Your team should decide which of the following elements to include with your API, recognizing that ensuring a well-rounded and fully functional developer experience is the best recipe for your API’s success. The below list represents elements you should assemble with each API. Examples and suggested tools are included and can be readily copied and improved upon between agencies.
 
 ## Documentation
 
@@ -45,7 +44,7 @@ This information is often listed in the body of the API homepage and should be g
 
 ## Code Samples
 
-By including sample code snippets that consume the API in the API’s  documentation, you provide easy-to-understand case studies for developers to clone, modify, and learn from. Where possible, provide working samples in popular programming languages, such as Javascript, PHP, Ruby, or Python.
+By including sample code snippets that consume the API in the API’s documentation, you provide easy-to-understand case studies for developers to clone, modify, and learn from. Where possible, provide working samples in popular programming languages, such as Javascript, PHP, Ruby, or Python.
 
 ### Potential Tools
 
@@ -74,7 +73,7 @@ By including sample code snippets that consume the API in the API’s  documenta
 <li><a href="https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers">EnergyStar.gov</a></li>
 </ul>
 <h2>SDKs</h2>
-<p><a href="http://en.wikipedia.org/wiki/Software_development_kit">Software Development Kits</a> (SDKs) are small software libraries that make it easy to employ the associated API with a specific programming language, such as PHP or Ruby. Because many developers have a programming language of choice, you can ensure faster adoption by more developers by offering these in many popular languages. SDKs are often hosted as projects in your agency’s  GitHub account, but should also be linked from the API’s  homepage.</p>
+<p><a href="http://en.wikipedia.org/wiki/Software_development_kit">Software Development Kits</a> (SDKs) are small software libraries that make it easy to employ the associated API with a specific programming language, such as PHP or Ruby. Because many developers have a programming language of choice, you can ensure faster adoption by more developers by offering these in many popular languages. SDKs are often hosted as projects in your agency’s GitHub account, but should also be linked from the API’s homepage.</p>
 <h3>.Gov Examples</h3>
 <ul>
 <li><a href="http://developer.dol.gov/">Department of Labor</a></li>
@@ -97,7 +96,7 @@ By including sample code snippets that consume the API in the API’s  documenta
 </ul>
 <h2>Issue Tracker</h2>
 <p>Developers need a clear and transparent means of reporting bugs or other issues that affect the API, and the API producer needs a functional means of managing these items. By doing this, the agency ensures the best customer service and incentivizes API adoption. Issue trackers can be stood up for each API individually, though it is more common to maintain one aggregate tracker to be made available at the developer hub level.</p>
-<p>Free and open-source tools exist for this function, but possibly the quickest and easiest means is to create a stand-alone repository for the API in the agency’s  GitHub account and employ the Issue Tracker functionality to receive and process developer feedback. In addition to being free, scalable, and requiring no infrastructure, this choice also has the added benefit of existing within the GitHub ecosystem, which is the norm within the developer community. This option also allows agency staff or other developers to subscribe to updates and receive alerts.</p>
+<p>Free and open-source tools exist for this function, but possibly the quickest and easiest means is to create a stand-alone repository for the API in the agency’s GitHub account and employ the Issue Tracker functionality to receive and process developer feedback. In addition to being free, scalable, and requiring no infrastructure, this choice also has the added benefit of existing within the GitHub ecosystem, which is the norm within the developer community. This option also allows agency staff or other developers to subscribe to updates and receive alerts.</p>
 <h3>Potential Tools</h3>
 <ul>
 <li><a href="http://apievangelist.com/2012/09/23/api-issue-management-with-github/">GitHub Issue Tracker</a></li>

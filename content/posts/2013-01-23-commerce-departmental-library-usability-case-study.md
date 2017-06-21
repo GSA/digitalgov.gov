@@ -1,12 +1,12 @@
 ---
-
-
+url: /2013/01/23/commerce-departmental-library-usability-case-study/
 date: 2013-01-23 11:37:08 -0400
-title: 'Commerce Departmental Library &amp;#8211; Usability Case Study'
-summary: 'A website with too much information on the homepage, or any page, will overwhelm users in less than a second. They will be unable to find a starting point to accomplish what they came there to do. If users are not able to locate the information they need and/or are unable to get past the'
-authors: [jonathan-rubin]
+title: 'Commerce Departmental Library &#8211; Usability Case Study'
+summary: A website with too much information on the homepage, or any page, will overwhelm users in less than a second. They will be unable to find a starting point to accomplish what they came there to do. If users are not able to locate the information they need and/or are unable to get past the
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - Department of Commerce
   - DigitalGov User Experience Program
@@ -26,8 +26,7 @@ The labels in the top navigation are too vague and didn&#8217;t successfully con
 
 Labels in the top navigation were changed to make it clearer about what information it contains. For example, &#8220;E-Resources A-Z&#8221; was changed to &#8220;Databases A-Z,&#8221; &#8220;Subject Guides&#8221; was changed to &#8220;Databases by Subject,&#8221; and &#8220;E-Gov Docs&#8221; was changed to &#8220;Government Docs.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-before1.jpg" alt="commerce department before screen shot" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-before1.jpg" alt="commerce department before screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-before1.jpg)
 
 ## Problem 2: Left Column Too Long
 
@@ -47,7 +46,6 @@ The Training Schedule remained and the Library Newsletter information from the l
 
 Based on the usability data gathered from their test, the Commerce Department Library made the following changes to enhance the usability of their website.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-after1.jpg" alt="commerce department after screen shot" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-after1.jpg" alt="commerce department after screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-after1.jpg)
 
 ​

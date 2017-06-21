@@ -1,10 +1,8 @@
 ---
-
-
+url: /2014/07/17/femas-responsive-disaster-assistance-website-helps-survivors-find-apply-for-aid/
 date: 2014-07-17 10:41:27 -0400
-title: 'FEMA&amp;#8217;s Responsive Disaster Assistance Website Helps Survivors Find, Apply for Aid'
+title: 'FEMA&#8217;s Responsive Disaster Assistance Website Helps Survivors Find, Apply for Aid'
 summary: ' Hurricane Arthur, the first named storm of the 2014 Atlantic hurricane season, made landfall in North Carolina, July 3, as a Category 2 hurricane. It was no Sandy, but Arthur nevertheless reminds us to be prepared now and always. As we say at NOAA, &amp;#8220;It only takes one.&amp;#8221; That &amp;#8220;one&amp;#8221; could'
-authors: [admin]
 categories:
   - Mobile
 tag:
@@ -16,8 +14,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-310-DisasterAssistancedotgov\_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov\_screenshot" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-310-DisasterAssistancedotgov\_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov\_screenshot" %}
 
 Hurricane Arthur, the first named storm of the 2014 Atlantic hurricane season, made landfall in North Carolina, July 3, as a Category 2 hurricane. It was no Sandy, but Arthur nevertheless reminds us to be prepared now and always.
 

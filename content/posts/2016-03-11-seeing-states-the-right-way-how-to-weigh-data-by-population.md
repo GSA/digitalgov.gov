@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/03/11/seeing-states-the-right-way-how-to-weigh-data-by-population/
 date: 2016-03-11 10:00:58 -0400
-title: 'Seeing States the Right Way\: How to Weigh Data by Population'
-summary: 'One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph'
-authors: [kelley-holden]
+title: 'Seeing States the Right Way: How to Weigh Data by Population'
+summary: One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph
+authors:
+  - kelley-holden
 categories:
   - Data
   - Metrics
@@ -20,8 +20,7 @@ tag:
 
 One large issue my team has run into when analyzing and reporting data across different states is knowing whether sessions within an area are higher due to more interest, or a larger population. Time after time, we see the states with the largest populations show up with the largest amount of traffic, like the graph below.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-344-CFPB-Raw-Sessions-by-Location-map.jpg" alt="A data visualization map of the United States shows Raw Session by Location." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-344-CFPB-Raw-Sessions-by-Location-map.jpg" alt="A data visualization map of the United States shows Raw Session by Location." %}
 
 However, creating a useful equation of users vs. population in a given area will likely give more insight into which states are most engaged, instead of which ones have the most people. We connected sessions per state data (through Google Analytics) and the projected state census population for 2014 (through SQL) to create a visualization in Tableau of normalized numbers, showing a more accurate depiction of interest across states, using the calculation seen below:
 
@@ -33,8 +32,7 @@ Also, to keep the color shades from being skewed by the high engagement rates in
 
 After creating a calculation for the normalized data, we replaced all raw data maps in our monthly reports with normalized data maps. They now look like the map below, allowing you to clearly see that the District of Columbia has the highest interest in [ConsumerFinance.gov](http://www.consumerfinance.gov/) overall, followed by Virginia and Minnesota.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-343-CFPB-Sessions-per-100000-people-by-location-map.jpg" alt="A data visualization map of the United States shows Sessions per 100,000 people by Location." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-343-CFPB-Sessions-per-100000-people-by-location-map.jpg" alt="A data visualization map of the United States shows Sessions per 100,000 people by Location." %}
 
 I highly recommend normalizing your location data if you are not doing it already. Normalizing will help end users get a better grasp on truly useful information, instead of seeing the same population graph, report after report. If any readers are interested in learning the steps we took to creating this map in Tableau, please feel free to reach out and I am more than happy to share!
 

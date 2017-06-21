@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/08/trends-on-tuesday-prepare-for-mobilegeddon-ii-interstitial-app-ads/
 date: 2015-09-08 10:00:28 -0400
-title: 'Trends on Tuesday\: Prepare for &amp;#8216;Mobilegeddon&amp;#8217; II&mdash;Interstitial App Ads'
+title: 'Trends on Tuesday: Prepare for &#8216;Mobilegeddon&#8217; II—Interstitial App Ads'
 summary: 'Google has announced a second wave of &lsquo;Mobilegeddon&rsquo; search penalties for websites using mobile app install interstitials. Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly. These&nbsp;are the kind of pop-ups you get when you'
-authors: [wsullivan]
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -23,8 +23,7 @@ Google has announced a [second</span> <span style="font-weight: 400">wave of ‘
 </p>
 
 <p>
-  
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-google-mobilegeddon-2.jpg" alt="600-x-450-google-mobilegeddon-2" %}
+  {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-google-mobilegeddon-2.jpg" alt="600-x-450-google-mobilegeddon-2" %}
 </p>
 
 <p>

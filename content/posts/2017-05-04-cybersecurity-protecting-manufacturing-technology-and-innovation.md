@@ -1,13 +1,13 @@
 ---
-
-
+url: /2017/05/04/cybersecurity-protecting-manufacturing-technology-and-innovation/
 date: 2017-05-04 3:00:45 -0400
-title: 'Cybersecurity\: Protecting Manufacturing Technology and Innovation'
-summary: 'Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you'
-authors: [pat-toth]
+title: 'Cybersecurity: Protecting Manufacturing Technology and Innovation'
+summary: Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you
+authors:
+  - pat-toth
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - best practices
   - Commerce
@@ -31,18 +31,17 @@ The Internet of Things (IoT) is revolutionizing everything from home appliances,
 
 Technology has evolved and empowered manufacturers in a variety of ways, and companies have become increasingly reliant on computer systems and IT. Because of this, cybersecurity has emerged as such a critical topic in the industry. Strong cybersecurity practices are crucial to:
 
-  * Defending your company’s  vital data and information.
+  * Defending your company’s vital data and information.
   * Preventing theft or damage to your infrastructure, equipment and systems.
   * Avoiding major disruptions to operations and the delivery of products.
-  * Protecting your employee’s  personal information.
+  * Protecting your employee’s personal information.
   * Shielding your organization from negative publicity.
 
-Manufacturers are unfortunately a frequent target of hackers and attackers. According to <a href="http://www.iot-now.com/2015/03/12/30962-energy-sector-stays-top-of-the-list-of-us-industries-under-cyber-attack-says-homeland-security-report/" target="_blank" rel="noopener noreferrer">a report</a> from the U.S. Department for Homeland Security, manufacturing is the second highest industry with the most reported cyber attacks, only subsequent to the energy sector. Foxconn, an international manufacturer of electronics, was attacked in 2012 and all of its employee’s  login information was released publically. A Honda breach in 2010 resulted in the disclosure of personal vehicle identification numbers.
+Manufacturers are unfortunately a frequent target of hackers and attackers. According to <a href="http://www.iot-now.com/2015/03/12/30962-energy-sector-stays-top-of-the-list-of-us-industries-under-cyber-attack-says-homeland-security-report/" target="_blank" rel="noopener noreferrer">a report</a> from the U.S. Department for Homeland Security, manufacturing is the second highest industry with the most reported cyber attacks, only subsequent to the energy sector. Foxconn, an international manufacturer of electronics, was attacked in 2012 and all of its employee’s login information was released publically. A Honda breach in 2010 resulted in the disclosure of personal vehicle identification numbers.
 
 A <a href="http://www.areadevelopment.com/AssetManagement/Q3-2014/manufacturing-intellectial-property-security-risk-2162611.shtml" target="_blank" rel="noopener noreferrer">Kaspersky Lab Survey</a> of IT managers published in Virus News also found that “21 percent of manufacturers suffered a loss of intellectual property (IP) within the past year.” The most commonly cited reason was malware (computer viruses, spyware, etc.), although a host of related issues including software susceptibilities and misplaced or stolen mobile devices were listed as causes as well.
 
-## Three Tips for Improving Cybersecurity 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-400-Hardware-security-computer-data-protection-and-electronic-technology-concept-cybrain-iStock-Thinkstock-585308466.jpg" alt="Circuit board and shield icon on blue background with digital code" %} 
+## Three Tips for Improving Cybersecurity {% img="https://www.WHATEVER/files/2017/05/600-x-400-Hardware-security-computer-data-protection-and-electronic-technology-concept-cybrain-iStock-Thinkstock-585308466.jpg" alt="Circuit board and shield icon on blue background with digital code" %} 
 
 Cybersecurity is a complex issue and there are no “quick fixes” to address it. IoT has made security an even more difficult challenge. However, there are things you can do to improve your cybersecurity posture. Here are three important factors to consider:
 

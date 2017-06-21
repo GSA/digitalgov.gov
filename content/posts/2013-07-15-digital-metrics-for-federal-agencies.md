@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/07/15/digital-metrics-for-federal-agencies/
 date: 2013-07-15 11:41:47 -0400
-title: 'Digital Metrics for Federal Agencies'
-summary: 'Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers. Part 1\:&nbsp;Common Metrics\: Guidance, Best Practices, and'
-authors: [marina-fox]
+title: Digital Metrics for Federal Agencies
+summary: 'Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers. Part 1:&nbsp;Common Metrics: Guidance, Best Practices, and'
+authors:
+  - marina-fox
 categories:
   - Metrics
   - Our Work
@@ -24,7 +24,7 @@ Digital metrics are critical for measuring, analyzing, and reporting on the effe
 
 ## <a name="part-1"></a>Part 1: Common Metrics—Guidance, Best Practices, and Tools
 
-Agencies should ensure that they collect, analyze, and report on a minimum baseline set of performance and customer satisfaction measures. It’s  important to collect a variety of metrics—not just visits or page views—to get a holistic picture of how well you’re delivering your digital services and information. While a goal of the Digital Strategy is to have a common set of performance measures and consistent means of collecting data, agencies may have varied approaches to using and interpreting the data based on individual agency and website goals.
+Agencies should ensure that they collect, analyze, and report on a minimum baseline set of performance and customer satisfaction measures. It’s important to collect a variety of metrics—not just visits or page views—to get a holistic picture of how well you’re delivering your digital services and information. While a goal of the Digital Strategy is to have a common set of performance measures and consistent means of collecting data, agencies may have varied approaches to using and interpreting the data based on individual agency and website goals.
 
 Adopting a common set of baseline measures and tools across all federal executive branch agencies has many benefits, including providing an unprecedented, government-wide view of how well agencies serve their customers.
 
@@ -43,7 +43,7 @@ Web performance metrics tell you how well your website and other digital service
 
 ### What to Collect
 
-Milestone 8.1 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s  Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
+Milestone 8.1 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common performance metrics. The following guidance was derived from extensive research of common practices in industry and government and recommendations from the Federal Web Metrics Community of Practice.
 
 Below are ten minimum common baseline performance metrics that agencies should collect for their .gov websites. They will help you measure different elements of performance, such as how many people are visiting your websites, how much time they&#8217;re spending on your site, how often they return, etc.
 
@@ -120,7 +120,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Powerful, invaluable metric because it’s  the only measure that accurately calculates how many individual people (or physical computers) actually visited your website in a given time. Combined with total visits, it can tell a comprehensive story about your customers and their visit patterns. Gives you unique &#8220;universe&#8221; or population of visitors vs. aggregate totals.Agencies need to follow <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">OMB guidance on using persistent cookies</a> with online performance and customer satisfaction tools.
+      Powerful, invaluable metric because it’s the only measure that accurately calculates how many individual people (or physical computers) actually visited your website in a given time. Combined with total visits, it can tell a comprehensive story about your customers and their visit patterns. Gives you unique &#8220;universe&#8221; or population of visitors vs. aggregate totals.Agencies need to follow <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">OMB guidance on using persistent cookies</a> with online performance and customer satisfaction tools.
     </td>
   </tr>
   
@@ -138,7 +138,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Very important for understanding engagement level of a visit. However, because there are different types of websites (e.g., transactional, navigational, directional, etc.), this metric should be used and interpreted within the context of each website’s  goals. For example, a directional website’s  goal may be to send its visitor from point A to point B, and point B happens to be a different website. In that case, you may only have one page per visit as your desired average. In other cases, a website’s  goal may be to provide a high volume of content (multiple page views) within the same website. In any of these cases, this metric will help determine if the website is doing its job by providing the desired number of pages per visit.
+      Very important for understanding engagement level of a visit. However, because there are different types of websites (e.g., transactional, navigational, directional, etc.), this metric should be used and interpreted within the context of each website’s goals. For example, a directional website’s goal may be to send its visitor from point A to point B, and point B happens to be a different website. In that case, you may only have one page per visit as your desired average. In other cases, a website’s goal may be to provide a high volume of content (multiple page views) within the same website. In any of these cases, this metric will help determine if the website is doing its job by providing the desired number of pages per visit.
     </td>
   </tr>
   
@@ -156,7 +156,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Tells you how long your visitors stay on your website. Should be interpreted based on each website’s  goals. For example, is your website’s  goal to get your customers the information they need in the least amount of time? Or send them to a different website? Or, are you trying to engage them with your website content so that they stay on the website as long as possible? This metric will help you determine if your website is meeting those goals.
+      Tells you how long your visitors stay on your website. Should be interpreted based on each website’s goals. For example, is your website’s goal to get your customers the information they need in the least amount of time? Or send them to a different website? Or, are you trying to engage them with your website content so that they stay on the website as long as possible? This metric will help you determine if your website is meeting those goals.
     </td>
   </tr>
   
@@ -174,7 +174,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Critical for measuring effectiveness of specific pages (e.g., content campaigns, transactional pages, etc.) that carry a specific purpose. For example, your website is launching an awareness campaign by placing key content on your website’s  home page. Because visitors can view multiple pages within the same visit (e.g., home page and others), you’ll need to know how much time was devoted to each visited page to measure each page’s  effectiveness.
+      Critical for measuring effectiveness of specific pages (e.g., content campaigns, transactional pages, etc.) that carry a specific purpose. For example, your website is launching an awareness campaign by placing key content on your website’s home page. Because visitors can view multiple pages within the same visit (e.g., home page and others), you’ll need to know how much time was devoted to each visited page to measure each page’s effectiveness.
     </td>
   </tr>
   
@@ -210,7 +210,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Derived from &#8220;unique visitors&#8221; and used within a set time frame to compare new visitors vs. returned. Depending on your website’s  goals, you always want to measure and differentiate between those two types of visitors. Will help you understand if your website is attracting the same audience on a consistent basis, driving new visitors to the site, or a balance of both. Especially valuable when trying to expand reach to different types of audiences with varied interests from various locations. Note: Requires tracking unique visitors, as described above.
+      Derived from &#8220;unique visitors&#8221; and used within a set time frame to compare new visitors vs. returned. Depending on your website’s goals, you always want to measure and differentiate between those two types of visitors. Will help you understand if your website is attracting the same audience on a consistent basis, driving new visitors to the site, or a balance of both. Especially valuable when trying to expand reach to different types of audiences with varied interests from various locations. Note: Requires tracking unique visitors, as described above.
     </td>
   </tr>
   
@@ -242,7 +242,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
     </td>
     
     <td>
-      Extent to which a visitor uses the site’s  search engine
+      Extent to which a visitor uses the site’s search engine
     </td>
     
     <td>
@@ -251,7 +251,7 @@ Below are ten minimum common baseline performance metrics that agencies should c
   </tr>
 </table>
 
-Definitions above are derived from the [Web Analytics Association’s  Definitions of Common Metrics Terms](http://www.webanalyticsassociation.org/resource/resmgr/PDF_standards/WebAnalyticsDefinitionsVol1.pdf) (PDF, 111 KB, 34 pages, January 2008)
+Definitions above are derived from the [Web Analytics Association’s Definitions of Common Metrics Terms](http://www.webanalyticsassociation.org/resource/resmgr/PDF_standards/WebAnalyticsDefinitionsVol1.pdf) (PDF, 111 KB, 34 pages, January 2008)
 
 ### How to Collect and Analyze the Data
 
@@ -286,28 +286,27 @@ The use of these five Web dimensions will allow for insightful, sophisticated re
 
 **4.  Use the data to prioritize resource needs and improvements.** In addition to measuring performance and satisfaction, metrics such as total page views will help you identify which content is most heavily used by your customers. This can be used to identify your customers’ top tasks so you can prioritize making improvements to that content first. In many cases, websites follow a &#8220;[long tail](http://en.wikipedia.org/wiki/Long_Tail)&#8221; pattern, where a few of the most popular webpages garner the most website traffic. If this is the case with your website, you can make improvements to that content first, which may give you the biggest return on investment and impact on overall customer experience.
 
-**5. Be careful not to misinterpret the data.** Always be prepared to do a deeper dive and ask critical questions so you don’t inadvertently misinterpret your data. For example, you may think that having a longer average time on site is good because it means people are spending more time on your site and are more engaged. But the flip side could actually be true—people may be spending longer because they can’t find what they need. In this case, you may want to identify your most visited pages to see what is a reasonable amount of time people should spend on those pages and see if that aligns with the actual data. You may also need to look at customer satisfaction data for that content, bounce rates, etc. This is why it’s  important to look at a variety of metrics.
+**5. Be careful not to misinterpret the data.** Always be prepared to do a deeper dive and ask critical questions so you don’t inadvertently misinterpret your data. For example, you may think that having a longer average time on site is good because it means people are spending more time on your site and are more engaged. But the flip side could actually be true—people may be spending longer because they can’t find what they need. In this case, you may want to identify your most visited pages to see what is a reasonable amount of time people should spend on those pages and see if that aligns with the actual data. You may also need to look at customer satisfaction data for that content, bounce rates, etc. This is why it’s important to look at a variety of metrics.
 
 **6.  Provide context.** To minimize the chance for misinterpretation of this data, you’re encouraged to &#8220;tell your digital metrics story&#8221; on your /digitalstrategy page. Provide background or supporting information to help your readers understand what this data means for your agency, beyond just numbers. For example, key measures for a Web portal may be different from an informational site, so take the opportunity to explain how.
 
 **7.  Set performance targets and make sure they align with agency and business goals.** Setting performance targets will give you defined goals that align with your agency mission and particular business objectives. You can identify targets based on prevailing practices from government or industry, or you can set goals to improve a particular metric over time. For example, you could set a goal to achieve a particular bounce rate, knowing that the average bounce rate for websites is 50%, according to Inc.com. Given this information, there might be cause for concern if you have a higher than [average bounce rate](http://www.inc.com/guides/2011/01/how-to-reduce-your-website-bounce-rate.html) or if your bounce rate continues to increase (unless of course, you determine that a high bounce rate is good, as may be the case with a link portal site). In this scenario, you’d want to look at other metrics to get a complete picture and identify ways to improve the content and better engage your customers.
 
-**8. Measure what matters to your customers.** Keep in mind that people may use government websites specifically (when filing tax returns, to get a form), periodically (travel advisories abroad), or continuously (weather site). Depending on your site’s  purpose and goals, some measures may be more important and better indicators of success. For example, when looking at average visits per visitor, the expectations of what is good or bad may vary widely by business model, as explained by Web Analytics Demystified.  If you have a customer support type website, having a low average visits per visitor may be good since it could suggest that people don’t need to have multiple visits because they’re quickly satisfied with your service or they’re able to quickly resolve problems via other customer service channels (i.e., phone, in-person). But having a high visit per visitor may be good for a website whose primary purpose is a marketing campaign where you’re looking for many people to return often to your site and engage regularly.
+**8. Measure what matters to your customers.** Keep in mind that people may use government websites specifically (when filing tax returns, to get a form), periodically (travel advisories abroad), or continuously (weather site). Depending on your site’s purpose and goals, some measures may be more important and better indicators of success. For example, when looking at average visits per visitor, the expectations of what is good or bad may vary widely by business model, as explained by Web Analytics Demystified.  If you have a customer support type website, having a low average visits per visitor may be good since it could suggest that people don’t need to have multiple visits because they’re quickly satisfied with your service or they’re able to quickly resolve problems via other customer service channels (i.e., phone, in-person). But having a high visit per visitor may be good for a website whose primary purpose is a marketing campaign where you’re looking for many people to return often to your site and engage regularly.
 
 **9. Create compelling reports that turn data into action.** Learn how to present your data in ways that clearly convey key messages for decision-makers and those creating your digital content.
 
 Use the [Chart Chooser tool](http://www.juiceanalytics.com/writing/introducing-chart-chooser-v2/) at Juice Analytics to help you find the right chart or graph to illustrate your data.
 
-**10. Stay informed with industry research and expert reviews.** The metrics landscape is vast and there’s  a lot to learn. Check out reviews and blogs such as [Occam&#8217;s Razor](http://www.kaushik.net/avinash/), which explains the complexities of Web analytics in a simple, easy-to-understand way. Sample relevant articles include [Web Analytics Success Measurement For Government Websites](http://www.kaushik.net/avinash/web-analytics-success-measurement-government-websites/); [Getting Started With Web Analytics: Step One—Glean Macro Insights](http://www.kaushik.net/avinash/getting-started-with-web-analytics-step-one-glean-macro-insights/); and [Beginner&#8217;s Guide to Web Data Analysis: Ten Steps To Love & Success](http://www.kaushik.net/avinash/beginners-guide-web-data-analysis-ten-steps-tips-best-practices/).
+**10. Stay informed with industry research and expert reviews.** The metrics landscape is vast and there’s a lot to learn. Check out reviews and blogs such as [Occam&#8217;s Razor](http://www.kaushik.net/avinash/), which explains the complexities of Web analytics in a simple, easy-to-understand way. Sample relevant articles include [Web Analytics Success Measurement For Government Websites](http://www.kaushik.net/avinash/web-analytics-success-measurement-government-websites/); [Getting Started With Web Analytics: Step One—Glean Macro Insights](http://www.kaushik.net/avinash/getting-started-with-web-analytics-step-one-glean-macro-insights/); and [Beginner&#8217;s Guide to Web Data Analysis: Ten Steps To Love & Success](http://www.kaushik.net/avinash/beginners-guide-web-data-analysis-ten-steps-tips-best-practices/).
 
 Also, stay informed of advances in metrics and measurement by following organizations such as the [Pew Research Center&#8217;s Internet & American Life Project,](http://pewinternet.org/) which researches the evolution of the Internet and its impact on American society; they have lots of great data on how people use the Web, social media, and mobile. Review white papers, online books, and case studies from [IBM Business Analytics for Government](http://www-01.ibm.com/software/analytics/government/), or [Web Analytics Demystified](http://www.webanalyticsdemystified.com/content/index.asp).
 
-[
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics.png)
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics.png)
 
 ## <a name="customer-satisfaction-metrics"></a>Customer Satisfaction Metrics
 
-Milestone 8.1 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s  Center for Digital Services Innovation Center to develop guidance on common customer satisfaction metrics. The following guidance was derived from extensive research of common practices in industry and government and input from the [Federal Web Metrics Community of Practice](https://www.howto.gov/communities/federal-web-managers-council/metrics) and [Federal Web Managers Council](https://www.WHATEVER/communities/web-managers-forum/).
+Milestone 8.1 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for GSA’s Center for Digital Services Innovation Center to develop guidance on common customer satisfaction metrics. The following guidance was derived from extensive research of common practices in industry and government and input from the [Federal Web Metrics Community of Practice](https://www.howto.gov/communities/federal-web-managers-council/metrics) and [Federal Web Managers Council](https://www.WHATEVER/communities/web-managers-forum/).
 
 Below are minimum common baseline customer satisfaction metrics that agencies should collect for their .gov websites. They will tell you how people perceive the information and services you provide, and are generally derived from surveys or other direct interactions with your customers. As part of an effective Customer Service Strategy, you should collect, analyze, and act upon customer feedback in coordination with performance metrics.
 
@@ -340,7 +339,7 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
     </td>
     
     <td>
-      Customer’s  perception of the experience of their visit.
+      Customer’s perception of the experience of their visit.
     </td>
     
     <td>
@@ -358,7 +357,7 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
     </td>
     
     <td>
-      The customer’s  perceived ability to get the information or service they came to accomplish.
+      The customer’s perceived ability to get the information or service they came to accomplish.
     </td>
     
     <td>
@@ -376,7 +375,7 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
     </td>
     
     <td>
-      A customer’s  perceived willingness to choose your service for the same or similar task in the future.
+      A customer’s perceived willingness to choose your service for the same or similar task in the future.
     </td>
     
     <td>
@@ -394,7 +393,7 @@ Note that the four baseline metrics below are considered &#8220;beta.&#8221; Wor
     </td>
     
     <td>
-      A customer’s  perceived willingness to recommend your product or service
+      A customer’s perceived willingness to recommend your product or service
     </td>
     
     <td>
@@ -456,7 +455,7 @@ The [Customer Experience model](https://www.WHATEVER/2013/06/19/5-steps-for-deli
 
 ## <a name="search-metrics"></a>Search Metrics
 
-Search is the largest driver of traffic to government content, so it’s  critical to publish content that is &#8220;findable&#8221; by search engines. Agencies should collect and analyze the following search data to help measure performance and customer satisfaction.  See best practices for search engine optimization (SEO).
+Search is the largest driver of traffic to government content, so it’s critical to publish content that is &#8220;findable&#8221; by search engines. Agencies should collect and analyze the following search data to help measure performance and customer satisfaction.  See best practices for search engine optimization (SEO).
 
 **What to Collect**
 
@@ -535,7 +534,7 @@ Search is the largest driver of traffic to government content, so it’s  critic
     </td>
     
     <td>
-      The most-used words and phrases people type into your site’s  search box
+      The most-used words and phrases people type into your site’s search box
     </td>
     
     <td>
@@ -577,11 +576,11 @@ Search is the largest driver of traffic to government content, so it’s  critic
     </td>
     
     <td>
-      Shows trending topics, what’s  hot or not
+      Shows trending topics, what’s hot or not
     </td>
     
     <td>
-      Investigate why people might be losing interest in once-popular content and consider archiving if it’s  no longer needed. For newly popular terms, create new content or update existing content to ensure it’s  current, accurate, and complete
+      Investigate why people might be losing interest in once-popular content and consider archiving if it’s no longer needed. For newly popular terms, create new content or update existing content to ensure it’s current, accurate, and complete
     </td>
   </tr>
   
@@ -655,7 +654,7 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 Usability—now more commonly referred to as User Experience—is how a person feels about using a product, system or service, and how easy a product is to use. While Digital Metrics typically looks at the general behavior of groups, User Experience is important because it focuses on how individuals think and act in relation to a product or service.
 
-Website User Experience focuses on how visitors think information should be organized on a website, what they expect to see when they click on a link, or their ability to find something. It’s  important because online services (whether a tax form, an app for finding a bus route, or a phone number for complaints) should be easy to find and use.
+Website User Experience focuses on how visitors think information should be organized on a website, what they expect to see when they click on a link, or their ability to find something. It’s important because online services (whether a tax form, an app for finding a bus route, or a phone number for complaints) should be easy to find and use.
 
 ### **Usability Testing**
 
@@ -663,7 +662,7 @@ Website User Experience focuses on how visitors think information should be orga
 
 Two common approaches to usability testing are:
 
-  * Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s  ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
+  * Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
   * Small-scale qualitative tests ideally involve [3-5 users](http://www.useit.com/alertbox/20000319.html) in successive rounds of tests to observe user behavior and collect feedback on ease of use, design, etc. Qualitative user experience can also be measured by surveys or post-test evaluations such as the [System Usability Scale](http://www.google.com/url?q=http%3A%2F%2Fwww.usabilitynet.org%2Ftrump%2Fdocuments%2FSuschapt.doc&sa=D&sntz=1&usg=AFQjCNG5W_TzUptFb-JXdfotsec_ERW_mQ) (MS Word, 54 K, 7 pages, August 2012).
 
 Most user experience tests are [small-scale qualitative](http://www.nngroup.com/services/testing.html), because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program](https://www.WHATEVER/resources/user-experience-program/), that lets agency staff observe and get trained on how to conduct simple usability tests.
@@ -676,7 +675,7 @@ User Experience metrics are often diagnostic in nature and provide a practical w
 
 There are no pre-defined standard User Experience metrics, because each website has different goals and audiences, and provides different services. Each site should develop its own system for evaluating user experience. What you collect may depend on the resources (staff, time, contractor support) available to you.
 
-  * **If you have limited resources**, you can observe a usability test through [GSA’s  DigitalGov User Experience Program](https://www.WHATEVER/resources/user-experience-program/), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
+  * **If you have limited resources**, you can observe a usability test through [GSA’s DigitalGov User Experience Program](https://www.WHATEVER/resources/user-experience-program/), and the team may (depending on availability) be able to train you on how to conduct simple tests yourself. Once you’ve run a test, and observed the problems your users are having, you can focus on fixing the problems. After correcting problems, your Web Analytics should reflect the positive changes (e.g., more completed tasks, or lower bounce rate). You can also hire a [User Experience contractor](http://www.usability.gov/methods/plan/hireexpert.html) to set up a test for you, or create a usability strategy.
   * **If you have User Experience professionals on staff**, or have the funds to hire contractors on a long-term basis, ask these experts to help you identify the best user experience metrics to collect and follow for YOUR site. You’ll also be able to do repeat, or [iterative Web design and testing](http://www.useit.com/papers/iterative_design/), to evaluate progress over time.
 
 **When to Collect User Experience Metrics**
@@ -705,7 +704,7 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
   * How are they using MedlinePlus Mobile?
   * Are they satisfied with their visit to MedlinePlus Mobile?
 
-**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](https://www.WHATEVER/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s  effectiveness, user expectations, and loyalty:
+**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](https://www.WHATEVER/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
   * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
   * How likely are you to use any of the information in the text  messages to improve your health?
@@ -733,9 +732,9 @@ Here are a set of [recommended, baseline social media metrics](https://www.WHATE
 
 ## Web Performance Metrics
 
-The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s  generally low-cost and relatively easy to implement.
+The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s generally low-cost and relatively easy to implement.
 
-[GSA’s  Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program](https://www.WHATEVER/services/dap/).
+[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program](https://www.WHATEVER/services/dap/).
   
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 
@@ -754,7 +753,7 @@ Below is background and steps agencies can take now to prepare for this implemen
 
 **1. Determine feasibility and resources.** Start now to identify who will take the lead for your agency and the scope of the effort to implement a javascript-based tag on your .gov websites.
 
-**2. Update website policies to alert your visitors.** Work with your agency Privacy Officer to give him or her a heads up that you’ll be collecting this performance data (if the data is different from what you’re already collecting). Although the baseline common metrics don’t include any personally identifiable information (PII), it’s  still a good idea to alert relevant colleagues that you’ll be collecting the data and also to be prepared to update any site policies to alert your customers. [OMB Memo 10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) (June 25, 2010) explains the procedures for agencies when using tag-based analytics and will provide guidance to support the implementation. See the [FCC Privacy Policy](http://www.fcc.gov/encyclopedia/privacy-policy), which explains how they collect a variety of performance data.
+**2. Update website policies to alert your visitors.** Work with your agency Privacy Officer to give him or her a heads up that you’ll be collecting this performance data (if the data is different from what you’re already collecting). Although the baseline common metrics don’t include any personally identifiable information (PII), it’s still a good idea to alert relevant colleagues that you’ll be collecting the data and also to be prepared to update any site policies to alert your customers. [OMB Memo 10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) (June 25, 2010) explains the procedures for agencies when using tag-based analytics and will provide guidance to support the implementation. See the [FCC Privacy Policy](http://www.fcc.gov/encyclopedia/privacy-policy), which explains how they collect a variety of performance data.
 
 **3. Prioritize where you’ll implement the code.** Determine if you can implement on all .gov websites and all webpages. If not, consider a phased approach where you implement first on high priority sites, customer top tasks, and most visited pages and be prepared to explain how you will fully implement over time.
 
@@ -812,7 +811,7 @@ Common digital metrics and enterprise-wide performance measures offer:
 
 **Measurement Framework**
 
-GSA’s  Digital Services Innovation Center developed the Digital Services Performance Measurement Framework to identify a common approach to collect standard data, and enable aggregation of this data at the federal level.
+GSA’s Digital Services Innovation Center developed the Digital Services Performance Measurement Framework to identify a common approach to collect standard data, and enable aggregation of this data at the federal level.
 
 To ensure that services are measured accurately and consistently at the federal level, as well as individually, this framework will address common government–wide:
 
@@ -826,15 +825,14 @@ Key success elements will include:
   * Collection methodology
   * Web analytics tool
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework.jpg)
 
 The framework is based on the following types of measures:
 
   * **Breadth**—standard Web analytics that provide high–level information on the breadth of traffic to, and content usage of, a given digital service
   * **Depth**—high–level, standard Web analytics that measure the extent (time) and depth of a visit
   * **Loyalty**—standard Web measures of visitor loyalty and site stickiness
-  * **Direct Engagement**—measures the extent to which a site visitor uses the site’s  search engine (visitor must provide direct input to retrieve the desired information or action)
+  * **Direct Engagement**—measures the extent to which a site visitor uses the site’s search engine (visitor must provide direct input to retrieve the desired information or action)
   * **Customer Experience**—standard customer service measures of quality, experience, and loyalty
 
 To support this common framework, agencies should collect performance and customer service metrics using the following types of tools:
@@ -893,9 +891,9 @@ GSA developed the performance and customer satisfaction guidance with the federa
       * Drego, V.; Rogowski, R., and Bocal, E. (December 20, 2010) How To Craft Your Customer Research Plan.
       * Evensen, R. (July 25, 2011) How To Design An Effective Voice of the Customer (VOC) Insights Program.
       * Hagan, P. (April 29, 2011) Beyond CRM: Manage Customer Experiences.
-      * Leggett, K. (May 26, 2011) Forrester’s  Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
+      * Leggett, K. (May 26, 2011) Forrester’s Best Practices Framework for Customer Service. Retrieved from [www.forrester.com](http://www.forrester.com/home)
       * McInnes, A. (May 20, 2011) Voice of the Customer Programs Don’t Deliver Enough Value.
-      * Reitsma, R. (June 30, 2010) A Market Researcher’s  Introduction to the Future of Online Customer Experience.
+      * Reitsma, R. (June 30, 2010) A Market Researcher’s Introduction to the Future of Online Customer Experience.
       * Rogowski, R. (June 15, 2011). Why You Need A Digital Customer Experience Strategy.
       * Sage, A.; Burns, M., Bocal, E., and Stone, A. (July 20, 2011) What are the Right Web Customer Experience Success Metrics.
   * [Gartner, Inc.](http://www.gartner.com/technology/home.jsp), an information technology research and advisory company**:** 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/01/16/how-to-run-an-agile-project-in-government/
 date: 2015-01-16 11:10:59 -0400
-title: 'How to Run an Agile Project in Government'
+title: How to Run an Agile Project in Government
 summary: 'For a seminar organized by DigitalGov University, Robert Read, the Managing Director at 18F, gave a presentation on agile methodologies in the federal government. Risk mitigation is a big advantage of using the agile methodology. The methodology deals with risk through the use of multiple iterations or &amp;#8220;sprints&amp;#8221; that ultimately lead to the development of'
-authors: [kdaniel]
+authors:
+  - kdaniel
 categories:
   - UX
 tag:
@@ -14,8 +14,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." %} 
 
 For a seminar organized by DigitalGov University, Robert Read, the Managing Director at 18F, gave a presentation on agile methodologies in the federal government.
 
@@ -23,12 +22,11 @@ Risk mitigation is a big advantage of using the agile methodology. The methodolo
 
 The agile methodology is an alternative to the traditional project management process. This methodology is important to project managers because the current method, waterfall development, only accounts for failure at the very end of the process, when it is too late to make any changes.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-415-The-Agile-Way.jpg" alt="600-x-415-The-Agile-Way" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-415-The-Agile-Way.jpg" alt="600-x-415-The-Agile-Way" %}
 
 You can watch the [full presentation](https://www.youtube.com/watch?v=FpBjClJTVQ0&feature=youtu.be) for more information on the agile methodology.
 
-During the webinar, Robert received a multitude of questions. He answered many questions during the webinar, but in order to answer as many questions as possible, he answered a few questions offline as well. Robert’s  answers to those questions are below.
+During the webinar, Robert received a multitude of questions. He answered many questions during the webinar, but in order to answer as many questions as possible, he answered a few questions offline as well. Robert’s answers to those questions are below.
 
 ## Incorporating Customers
 

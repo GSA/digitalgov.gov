@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/02/the-content-corner-catching-a-wave/
 date: 2015-03-02 2:01:48 -0400
-title: 'The Content Corner\: Catching a Wave'
-summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s Day and Presidents&rsquo;'
-authors: [tyrus-manuel]
+title: 'The Content Corner: Catching a Wave'
+summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine&rsquo;s Day and Presidents&rsquo;'
+authors:
+  - tyrus-manuel
 categories:
   - Content
 tag:
@@ -15,15 +15,13 @@ tag:
   - Twitter
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" %} 
+As we all continue to wrestle with the “[content beast](https://www.WHATEVER/2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/)”, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s Day and Presidents’ Day holidays (I decided to skip “[Do a Grouch a Favor Day](http://www.cute-calendar.com/event/do-a-grouch-a-favor-day/11254-world.html)”).
 
-As we all continue to wrestle with the “[content beast](https://www.WHATEVER/2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/)”, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s  Day and Presidents’ Day holidays (I decided to skip “[Do a Grouch a Favor Day](http://www.cute-calendar.com/event/do-a-grouch-a-favor-day/11254-world.html)”).
+But its not as simple as picking a holiday or event and then just running with it. Done well, it will not only help you populate your editorial calendar but also drive traffic and raise awareness about your agency. Done sloppily, it can alienate visitors and even damage your agency’s reputation. As content creators for our organizations there is certainly such a thing as bad publicity.
 
-But its not as simple as picking a holiday or event and then just running with it. Done well, it will not only help you populate your editorial calendar but also drive traffic and raise awareness about your agency. Done sloppily, it can alienate visitors and even damage your agency’s  reputation. As content creators for our organizations there is certainly such a thing as bad publicity.
-
-## A Match Made in the Heavens 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Crab-Nebula\_Nov-28-2005\_NASA-Goddard-Space-Flight-Center\_Flickr-4398655649\_55ff7ca3a4\_o\_CC-BY-2.0.jpg" alt="NASA photo of the Crab Nebula in space, taken Nov 28 2005" %} 
+## A Match Made in the Heavens {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Crab-Nebula\_Nov-28-2005\_NASA-Goddard-Space-Flight-Center\_Flickr-4398655649\_55ff7ca3a4\_o\_CC-BY-2.0.jpg" alt="NASA photo of the Crab Nebula in space, taken Nov 28 2005" %} 
 
 One federal organization that excels at content coordination and planning is NASA. They serve as a great example that highlights two of the major components of how to successfully align your content with current events:
 
@@ -36,7 +34,7 @@ Another critical point is this: NASA took old or pre-existing content and combin
 
 ## The Road to Hades
 
-But let’s  be honest, among the hundreds of federal agencies, opportunities such as the one NASA created are extremely rare. One of the greatest mistakes of this type of content creation is trying too hard to make a connection when one simply doesn’t exist. There are far too many examples of companies rushing to feed that content beast by cramming square blocks in round holes and doing one or more of the following:
+But let’s be honest, among the hundreds of federal agencies, opportunities such as the one NASA created are extremely rare. One of the greatest mistakes of this type of content creation is trying too hard to make a connection when one simply doesn’t exist. There are far too many examples of companies rushing to feed that content beast by cramming square blocks in round holes and doing one or more of the following:
 
   * Offending and alienating their core users
   * Damaging the trust and authenticity of their brand
@@ -44,7 +42,7 @@ But let’s  be honest, among the hundreds of federal agencies, opportunities su
 
 You might have good intentions when crafting content to capitalize on a trending event, but always be sure it fits within your larger strategy and speaks to your audience. Planning and vetting (including an [editorial calendar](http://contentmarketinginstitute.com/2010/08/content-marketing-editorial-calendar/)) are key tasks that will help you avoid these serious content blunders.
 
-Trending events or special days can be a great way to generate fresh content and raise awareness of your agency’s  brand while building an even deeper connection with your audience. In order to be effective, these pairings must be just like the rest of your content: authentic and applicable. We must accept who we are as an agency and focus on our agency’s  content strategy to ensure any events we might want to capitalize on fit that strategy. By chasing a trend without a strategy or without it being a good fit, chances are the amount of damage that can be done to your brand’s  integrity will outweigh the benefits. Keep an eye out for the right wave, be prepared to ride it, and know when to get out if the tide gets too rough.
+Trending events or special days can be a great way to generate fresh content and raise awareness of your agency’s brand while building an even deeper connection with your audience. In order to be effective, these pairings must be just like the rest of your content: authentic and applicable. We must accept who we are as an agency and focus on our agency’s content strategy to ensure any events we might want to capitalize on fit that strategy. By chasing a trend without a strategy or without it being a good fit, chances are the amount of damage that can be done to your brand’s integrity will outweigh the benefits. Keep an eye out for the right wave, be prepared to ride it, and know when to get out if the tide gets too rough.
 
 _You’ve just finished reading the third article from a new column called [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
 

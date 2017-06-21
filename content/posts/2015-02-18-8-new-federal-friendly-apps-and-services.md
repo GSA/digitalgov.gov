@@ -1,10 +1,11 @@
 ---
-
-
+url: /2015/02/18/8-new-federal-friendly-apps-and-services/
 date: 2015-02-18 1:10:43 -0400
-title: '8 New Federal-Friendly Apps and Services'
+title: 8 New Federal-Friendly Apps and Services
 summary: 'Tackling technology tasks just got easier. Recently, federal agencies negotiated eight&nbsp;new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive list of federal-friendly TOS agreements for free products, and the list is updated as new TOS agreements are created. Cyfe Cyfe, a business dashboard app, helps users monitor diverse data'
-authors: [awichman, dan-kenny]
+authors:
+  - awichman
+  - dan-kenny
 categories:
   - Social Media
 tag:
@@ -18,8 +19,7 @@ tag:
   - user experience
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" %} 
 
 Tackling technology tasks just got easier.
 
@@ -49,13 +49,13 @@ The Prototyping on Paper app, [POP](https://popapp.in/), combines the paper and 
 
 ## Slack
 
-The team communication platform, [Slack](https://slack.com/), is a collaborative working area. The tool has an array of features &#8211; one-on-one messaging, private groups, persistent chat rooms, direct messaging &#8211; and is available as both an app and web platform. Users are able to search all of the content in a team’s  Slack through one search box. This TOS agreement was negotiated by the **Department of State**.
+The team communication platform, [Slack](https://slack.com/), is a collaborative working area. The tool has an array of features &#8211; one-on-one messaging, private groups, persistent chat rooms, direct messaging &#8211; and is available as both an app and web platform. Users are able to search all of the content in a team’s Slack through one search box. This TOS agreement was negotiated by the **Department of State**.
 
 ## StackExchange
 
 [StackExchange](http://stackexchange.com/) is a network of question and answer websites. Created for the programming community, it covers a variety of topics, including: [Open Data](http://opendata.stackexchange.com/), [User Experience](http://ux.stackexchange.com/), and [Programming](http://programmers.stackexchange.com/). The sites are self-moderated, subjecting users to a reputation award process. This TOS agreement was negotiated by **GSA**.
 
-DigitalGov’s  [article on the Open Data Stack Exchange](https://www.WHATEVER/2014/09/10/stacking-up-the-benefits-of-openness/) highlighted how agencies and the public can interact on the platform.
+DigitalGov’s [article on the Open Data Stack Exchange](https://www.WHATEVER/2014/09/10/stacking-up-the-benefits-of-openness/) highlighted how agencies and the public can interact on the platform.
 
 ## Trello
 

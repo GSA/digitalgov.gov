@@ -1,10 +1,13 @@
 ---
-
-
+url: /2015/09/28/introducing-the-u-s-web-design-standards/
 date: 2015-09-28 3:18:18 -0400
-title: 'Introducing the U.S. Web Design Standards'
-summary: 'Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college. In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which'
-authors: [mollie-ruskin, carolyn-dew, maya-benari, colin-macarthur]
+title: Introducing the U.S. Web Design Standards
+summary: Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college. In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which
+authors:
+  - mollie-ruskin
+  - carolyn-dew
+  - maya-benari
+  - colin-macarthur
 categories:
   - Design
 tag:
@@ -16,12 +19,11 @@ tag:
 
 Joanne is a young Army Veteran who is looking to make use of her GI Bill Benefits and apply for federal student loans to attend college.
 
-In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which all seem relevant to what she’s  looking for. Joanne is confused. Are these programs related to each other? Are they even all a part of the federal government? Are any of these a scam? When she tries to access the sites on the bus on her commute to work, she finds half of them are impossible to use on her phone. She’s  overwhelmed by how hard these tools are to use, misses opportunities she’s  eligible for, and feels frustrated and isolated.
+In trying to access the federal programs which will allow her to afford college, Joanne must navigate the websites of multiple agencies. She finds dozens of government websites which all seem relevant to what she’s looking for. Joanne is confused. Are these programs related to each other? Are they even all a part of the federal government? Are any of these a scam? When she tries to access the sites on the bus on her commute to work, she finds half of them are impossible to use on her phone. She’s overwhelmed by how hard these tools are to use, misses opportunities she’s eligible for, and feels frustrated and isolated.
 
 Joanne is not alone. When the American people go online to access government services, they’re often met with confusing navigation systems, a cacophony of visual brands, and inconsistent interaction patterns.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-buttons.jpg" alt="Each button, a special snowflake. A snapshot of a quick survey of buttons across government websites." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-buttons.jpg" alt="Each button, a special snowflake. A snapshot of a quick survey of buttons across government websites." %}
 
 Dedicated federal workers are striving to build helpful digital tools for people like Joanne. But our work happens in silos, under unique brands and programs. As a result, we spend a lot of time “reinventing the wheel” — recreating common patterns such as buttons, forms, and search bars — over and over again. At the end of the day, we’re creating poor user experiences, and wasting American taxpayer dollars in solving the same problems again and again.
 
@@ -33,10 +35,9 @@ The question in front of us became: Is it possible to create a shared set of too
 
 ## What we built
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." %}
-
-The [U.S. Web Design Standards](https://playbook.cio.gov/designstandards) are the U.S. government’s  very own set of common UI components and visual styles for websites. It’s  a resource designed to make things easier for government designers and developers, while raising the bar on what the American people can expect from their digital experiences.
+The [U.S. Web Design Standards](https://playbook.cio.gov/designstandards) are the U.S. government’s very own set of common UI components and visual styles for websites. It’s a resource designed to make things easier for government designers and developers, while raising the bar on what the American people can expect from their digital experiences.
 
 In the Web Design Standards, you will find:
 
@@ -56,28 +57,25 @@ What began as an idea turned into four months of rapid development and iteration
 
 As with all 18F and U.S. Digital Service projects, we’re working in the open to create a resource that everyone can own and contribute to. We’ve taken an iterative, user-centred approach to ensure we’re addressing the needs of our users as well as government designers and developers. A cross-functional team of UX, front-end, and visual designers each played a key role in this process:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-wireframe.jpg" alt="An early wireframe of our design suggestion for a reset password page" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-wireframe.jpg" alt="An early wireframe of our design suggestion for a reset password page" %}
 
 ## User Experience
 
-“Making the best thing the easiest thing” starts with making the standards website itself easy to use. With every iteration of this product, we conducted numerous interviews, usability tests, and card sorts with designers and developers across government. Everything from the site’s  organization scheme to its code snippets and download buttons are informed by user research.
+“Making the best thing the easiest thing” starts with making the standards website itself easy to use. With every iteration of this product, we conducted numerous interviews, usability tests, and card sorts with designers and developers across government. Everything from the site’s organization scheme to its code snippets and download buttons are informed by user research.
 
 The design of every component follows data-informed best practices, found both inside ([DigitalGov](https://www.WHATEVER/)) and outside (Nielsen Norman group articles) of government. Many components were derived from other agency and style guide patterns; more complex patterns were further tested with end users.
 
 We believe agencies should still usability test everything they build, but following the standards will help everyone avoid common pitfalls.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-code.jpg" alt="All of our standards include code samples." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-code.jpg" alt="All of our standards include code samples." %}
 
 ## Front-end
 
 We wanted to create a single reference point for developers in need of common patterns, providing the building blocks of code for teams to assemble websites. Our goal was to build a system of components shaped by modern best practices in front-end development and government accessibility standards.
 
-We built the UI components on a solid HTML foundation, progressively enhanced to provide core experiences across browsers. All of the code is 508 compliant, so it’s  accessible to everyone. Our styles are written with Sass and can be used as a Sass library or included directly as compiled CSS. In order to make sure our code was easy to read and easy to pick up, it had to look like it was written from a single voice. After speaking with dozens of front-end developers and designers in government, we sought to strike a balance between modular CSS and code that’s  clean and easy-to-use.
+We built the UI components on a solid HTML foundation, progressively enhanced to provide core experiences across browsers. All of the code is 508 compliant, so it’s accessible to everyone. Our styles are written with Sass and can be used as a Sass library or included directly as compiled CSS. In order to make sure our code was easy to read and easy to pick up, it had to look like it was written from a single voice. After speaking with dozens of front-end developers and designers in government, we sought to strike a balance between modular CSS and code that’s clean and easy-to-use.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-colors.jpg" alt="The Design Standards include an extensive color palette." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-colors.jpg" alt="The Design Standards include an extensive color palette." %}
 
 ## Visual design
 

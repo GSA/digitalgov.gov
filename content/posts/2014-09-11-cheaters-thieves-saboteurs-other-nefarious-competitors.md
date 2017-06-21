@@ -1,9 +1,10 @@
 ---
-
+url: /2014/09/11/cheaters-thieves-saboteurs-other-nefarious-competitors/
 date: 2014-09-11 12:00:59 -0400
-title: 'Cheaters, Thieves, Saboteurs & Other Nefarious Competitors'
+title: 'Cheaters, Thieves, Saboteurs &#038; Other Nefarious Competitors'
 summary: "Challenge and prize competitions are competitive and not always squeaky clean. There are a few things we've noticed and noted in our experience over the last four years with challenge competitions run by federal agencies and studying others in the private sector."
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
@@ -11,16 +12,15 @@ tag:
   - crowdsourcing
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %} 
 
 Challenge and prize competitions are competitive and not always squeaky clean. There is money at stake, pride, honor, and awards.
 
 So this [Quartz](http://qz.com/261138/crowdsourcing-competitions-encourage-malicious-behavior-study-finds/)/[NexGov article, _Crowdsourcing Behavior Encourages Malicious Behavior, Study Finds_](http://www.nextgov.com/big-data/2014/09/crowdsourcing-competitions-encourage-malicious-behavior-study-finds/93410/), that highlights the ugly side of competitions hits a raw nerve. The University of Southampton in the UK and the National Information and Communications Technology Australia (NICTA) conducted the study, examining recent crowdsourcing competitions.
 
-> Crowdsourcing generally espouses openness and broad-based cooperation, but the researchers explained that it also brings out people’s  worst competitive instincts.
-
-> “[T]he openness makes crowdsourcing solutions vulnerable to malicious behaviour of other interested parties,” said one of the study’s  authors, Victor Naroditskiy from the University of Southampton, in a [release on the study](http://www.eurekalert.org/pub_releases/2014-09/uos-rfc090314.php). “Malicious behaviour can take many forms, ranging from sabotaging problem progress to submitting misinformation. This comes to the front in crowdsourcing contests where a single winner takes the prize.”
+> Crowdsourcing generally espouses openness and broad-based cooperation, but the researchers explained that it also brings out people’s worst competitive instincts.
+  
+> “[T]he openness makes crowdsourcing solutions vulnerable to malicious behaviour of other interested parties,” said one of the study’s authors, Victor Naroditskiy from the University of Southampton, in a [release on the study](http://www.eurekalert.org/pub_releases/2014-09/uos-rfc090314.php). “Malicious behaviour can take many forms, ranging from sabotaging problem progress to submitting misinformation. This comes to the front in crowdsourcing contests where a single winner takes the prize.”
 
 There are a few things we&#8217;ve noticed and noted in our experience over the last four years with challenge competitions run by federal agencies and studying others in the private sector:
 

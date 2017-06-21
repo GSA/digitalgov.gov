@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/04/18/defining-ideation-in-challenge-competitions/
 date: 2014-04-18 10:00:29 -0400
-title: 'Defining Ideation in Challenge Competitions'
+title: Defining Ideation in Challenge Competitions
 summary: 'There is some confusion about how &amp;#8220;ideation&amp;#8221; fits into challenge and prize competitions. Often, we hear from agencies that they would like to ask the public for ideas, to survey them on a specific question, or to request proposals in response to a problem.'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
@@ -17,8 +17,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="A brainstorming exercise drives the framework for ideation competitions." %}There is some confusion about how &#8220;ideation&#8221; fits into challenge and prize competitions.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="A brainstorming exercise drives the framework for ideation competitions." %}There is some confusion about how &#8220;ideation&#8221; fits into challenge and prize competitions.
 
 Often, we hear from agencies that they would like to ask the public for ideas, to survey them on a specific question, or to request proposals in response to a problem. And all of these things _could_ be challenge competitions. But often they are not because they&#8217;re missing critical elements.
 

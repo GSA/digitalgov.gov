@@ -1,12 +1,15 @@
 ---
-
-
+url: /2015/01/02/past-present-future-usability-testing-at-the-national-library-of-medicine/
 date: 2015-01-02 11:00:28 -0400
-title: 'Past, Present, Future\: Usability Testing at the National Library of Medicine'
+title: 'Past, Present, Future: Usability Testing at the National Library of Medicine'
 summary: 'Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&amp;#8217;s Web teams have actively sought and used usability testing tools; we&nbsp;have run &amp;#8220;full service&amp;#8221; usability testing almost yearly for various Web properties for'
-authors: [joanna-widzer, katie-chan, ray-bryson, dan-wendling]
+authors:
+  - joanna-widzer
+  - katie-chan
+  - ray-bryson
+  - dan-wendling
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - National Library of Medicine
@@ -17,8 +20,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-335-NLM-testing-usability.jpg" alt="Usability testing for the NLM wesbite" %}Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&#8217;s Web teams have actively sought and used usability testing tools; we have run &#8220;full service&#8221; usability testing almost yearly for various Web properties for sites such as [NIHSeniorHealth.gov](http://nihseniorhealth.gov/) and [MedlinePlus.gov](http://www.nlm.nih.gov/medlineplus/). In recent years we gained new insights about mobile device usability through GSA&#8217;s First Fridays usability testing program (now called the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program")), and through testing responsive Web designs with the help of a usability firm.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-335-NLM-testing-usability.jpg" alt="Usability testing for the NLM wesbite" %}Usability testing has provided our organization many important insights to improve our Web presence. Since the early 2000s, the National Library of Medicine (NLM)&#8217;s Web teams have actively sought and used usability testing tools; we have run &#8220;full service&#8221; usability testing almost yearly for various Web properties for sites such as [NIHSeniorHealth.gov](http://nihseniorhealth.gov/) and [MedlinePlus.gov](http://www.nlm.nih.gov/medlineplus/). In recent years we gained new insights about mobile device usability through GSA&#8217;s First Fridays usability testing program (now called the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program")), and through testing responsive Web designs with the help of a usability firm.
 
 A small number of staff have benefited from conducting our own usability testing for our [NLM main website](http://www.nlm.nih.gov/) using the testing method popularized by Steve Krug and the GSA program. We have found this so useful that we are looking for ways to expand use of the DigitalGov User Research Method among our staff.
 

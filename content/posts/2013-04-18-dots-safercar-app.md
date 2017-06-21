@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/04/18/dots-safercar-app/
 date: 2013-04-18 9:15:20 -0400
-title: 'The SaferCar App'
+title: The SaferCar App
 summary: 'The U.S. Department of Transportation&amp;#8217;s National Highway Traffic Safety Administration (NHTSA) has created a new iOS app that&nbsp;provides real-time vehicle safety information to consumers from NHTSA&amp;#8217;s SaferCar.gov site The new SaferCar app gives consumers immediate access to key safety information to help'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -14,8 +12,7 @@ tag:
   - United States Department of Transportation
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/04/safercarapp.png" alt="SaferCar App Screenshots of a car driving and the app's features" %}
-The U.S. Department of Transportation&#8217;s [National Highway Traffic Safety Administration](http://www.nhtsa.gov/) (NHTSA) has created a new [iOS app](https://itunes.apple.com/us/app/safercar/id593086230?ls=1&mt=8) that provides real-time vehicle safety information to consumers from NHTSA&#8217;s [SaferCar.gov](http://www.safercar.gov/) site
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/04/safercarapp.png" alt="SaferCar App Screenshots of a car driving and the app's features" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/04/safercarapp.png)The U.S. Department of Transportation&#8217;s [National Highway Traffic Safety Administration](http://www.nhtsa.gov/) (NHTSA) has created a new [iOS app](https://itunes.apple.com/us/app/safercar/id593086230?ls=1&mt=8) that provides real-time vehicle safety information to consumers from NHTSA&#8217;s [SaferCar.gov](http://www.safercar.gov/) site
 
 The new SaferCar app gives consumers immediate access to key safety information to help them make informed decisions, with features including:
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/09/01/how-were-using-data-to-help-us-make-better-decisions/
 date: 2016-09-01 2:00:56 -0400
-title: 'How We&amp;#8217;re Using Data to Help Us Make Better Decisions'
-summary: 'This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and'
-authors: [david-shive]
+title: 'How We&#8217;re Using Data to Help Us Make Better Decisions'
+summary: 'This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA&rsquo;s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and'
+authors:
+  - david-shive
 categories:
   - Data
 tag:
@@ -21,14 +21,13 @@ tag:
   - U.S. General Services Administration
 ---
 
-This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s  data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and insightful data can help us be a more data-driven organization. I am proud to say that D2D now has more than 1,000 users and over 100 published dashboards across GSA!
+This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and insightful data can help us be a more data-driven organization. I am proud to say that D2D now has more than 1,000 users and over 100 published dashboards across GSA!
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-GSA-D2D-homepage.jpg" alt="Screen capture of the Data-to-Decision (D2D) homepage." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-GSA-D2D-homepage.jpg" alt="Screen capture of the Data-to-Decision (D2D) homepage." %}
 
 ## The D2D Effect
 
-Yesterday, we held a D2D workshop to discuss its successes and accomplishments, but there is still plenty of work to do as we continue to link disparate collections of data across organizations, increase transparency, and focus on the safety and security of GSA’s  data assets.
+Yesterday, we held a D2D workshop to discuss its successes and accomplishments, but there is still plenty of work to do as we continue to link disparate collections of data across organizations, increase transparency, and focus on the safety and security of GSA’s data assets.
 
 Thanks to the work of analytics teams across GSA, we are now able to make more informed data-driven decisions. D2D enables the:
 

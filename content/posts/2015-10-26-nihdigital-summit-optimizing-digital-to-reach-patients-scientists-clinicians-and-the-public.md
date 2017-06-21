@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/26/nihdigital-summit-optimizing-digital-to-reach-patients-scientists-clinicians-and-the-public/
 date: 2015-10-26 1:00:14 -0400
-title: '#NIHDigital Summit\: Optimizing Digital to Reach Patients, Scientists, Clinicians and the Public'
+title: '#NIHDigital Summit: Optimizing Digital to Reach Patients, Scientists, Clinicians and the Public'
 summary: ' On October 19th, NIH brought together nearly 1,500&nbsp;digital and health experts in person and via webcast. The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators,'
-authors: [alison-lemon]
+authors:
+  - alison-lemon
 categories:
   - Managing Digital
   - Social Media
@@ -21,8 +21,7 @@ tag:
   - USDA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" %}
 
 On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via [webcast](http://www.nih.gov/news/events/digital-summit.htm). The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators, health professionals and scientists.
 
@@ -38,8 +37,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
   </p>
 </blockquote>
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Dr-Richard-Besser-Chief-Health-and-Medical-Editor-of-ABC-News-IMGs_1865-2019.jpg" alt="Richard Besser, Chief Health and Medical Editor, of ABC News" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Dr-Richard-Besser-Chief-Health-and-Medical-Editor-of-ABC-News-IMGs_1865-2019.jpg" alt="Richard Besser, Chief Health and Medical Editor, of ABC News" %}
 
 [Richard Besser](https://storify.com/StuckonSW/nihdigital-keynote-by-drrichardbesser), Chief Health and Medical Editor, of ABC News, has learned a few lessons as host of the popular #abcDrBchat. He was surprised by how rude people can be on social media, especially when it comes to scary health issues. He advised to look for the essence of truth in rude questions, and to address the fear with facts.
 
@@ -93,7 +91,7 @@ Erin Edgerton of Norvell Digital Edge Communications [advised government to emul
   </p>
 </blockquote>
 
-Give people tools, not toys. Robert Burchard of the Environmental Protection Agency and Erik Augustson, of the National Cancer Institute, showcased examples of robust tools. [EPA’s  UV Index](http://www2.epa.gov/sunsafety/uv-index-0) and [Smokefree.gov](http://smokefree.gov/) support public health interventions.
+Give people tools, not toys. Robert Burchard of the Environmental Protection Agency and Erik Augustson, of the National Cancer Institute, showcased examples of robust tools. [EPA’s UV Index](http://www2.epa.gov/sunsafety/uv-index-0) and [Smokefree.gov](http://smokefree.gov/) support public health interventions.
 
 ## The Health Professional Perspective: Using Social Media To Get and Share Information and Interact With Other Professionals and Patients
 
@@ -109,13 +107,13 @@ Give people tools, not toys. Robert Burchard of the Environmental Protection Age
   </p>
 </blockquote>
 
-Elizabeth Jarrett of the Office of the Assistant Secretary for Preparedness and Response (ASPR) HHS and Stacey Arnesen, of the National Library of Medicine at NIH, collaborated to create resources for [emergency preparedness, response and recovery](http://www.phe.gov/preparedness/Pages/default.aspx). David Cooper described the [National Center for Telehealth & Technology](http://t2health.dcoe.mil/)’s  tools for behavioral health and stress management in the military. Corey Holland at the U.S. Department of Agriculture supports [SuperTracker](https://www.supertracker.usda.gov/), a free community to track your food, physical activity, weight and goals.
+Elizabeth Jarrett of the Office of the Assistant Secretary for Preparedness and Response (ASPR) HHS and Stacey Arnesen, of the National Library of Medicine at NIH, collaborated to create resources for [emergency preparedness, response and recovery](http://www.phe.gov/preparedness/Pages/default.aspx). David Cooper described the [National Center for Telehealth & Technology](http://t2health.dcoe.mil/)’s tools for behavioral health and stress management in the military. Corey Holland at the U.S. Department of Agriculture supports [SuperTracker](https://www.supertracker.usda.gov/), a free community to track your food, physical activity, weight and goals.
 
-## The Scientist’s  Perspective: Using Digital and Social Media To Collaborate, Share Ideas and Communicate Research to the Public
+## The Scientist’s Perspective: Using Digital and Social Media To Collaborate, Share Ideas and Communicate Research to the Public
 
 [Researchers are using digital tools](https://storify.com/StuckonSW/nihdigital-digital-summit) in broad, creative ways. John Didion, of the National Human Genome Research Institute, advocates for adoption of [smart pens](https://www.genome.gov/27561962) to move the lab notebook from paper and pencil into the digital world. Margaret M. Farrell, of the National Cancer Institute, doesn’t limit her idea of colleagues to researchers in her office. She connects with a [virtual community of practice](https://researchtoreality.cancer.gov/) that includes more than 2,300 cancer control researchers and practitioners.
 
-Megan Moreno, with [Seattle Children’s  Research Institute](http://www.seattlechildrens.org/research/), uses social media as a tool to investigate adolescent health and looks for associations between online and offline behavior.
+Megan Moreno, with [Seattle Children’s Research Institute](http://www.seattlechildrens.org/research/), uses social media as a tool to investigate adolescent health and looks for associations between online and offline behavior.
 
 <blockquote class="twitter-tweet" lang="en">
   <p dir="ltr" lang="en">

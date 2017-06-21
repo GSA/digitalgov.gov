@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/01/21/the-api-briefing-bureau-of-labor-statistics-invites-developers-to-build-employment-apps/
 date: 2015-01-21 10:10:01 -0400
-title: 'The API Briefing\: Bureau of Labor Statistics Invites Developers to Build Employment Apps'
-summary: 'The federal government collects an amazing amount of economic data. Several agencies such as the Securities and Exchange Commission, the Treasury, and the Census Bureau collect economic data, ranging from the stock market activity to local business conditions. The Bureau of Labor Statistics (BLS) collects information on the labor market and is a rich source'
-authors: [bbrantley]
+title: 'The API Briefing: Bureau of Labor Statistics Invites Developers to Build Employment Apps'
+summary: The federal government collects an amazing amount of economic data. Several agencies such as the Securities and Exchange Commission, the Treasury, and the Census Bureau collect economic data, ranging from the stock market activity to local business conditions. The Bureau of Labor Statistics (BLS) collects information on the labor market and is a rich source
+authors:
+  - bbrantley
 categories:
   - API
 tag:
@@ -20,8 +20,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" %} 
 
 The federal government collects an amazing amount of economic data. Several agencies such as the Securities and Exchange Commission, the Treasury, and the Census Bureau collect economic data, ranging from the stock market activity to local business conditions. The Bureau of Labor Statistics (BLS) collects information on the labor market and is a rich source of data for researchers and the general public.
 
@@ -33,4 +32,4 @@ I am especially intrigued by being able to use R to access BLS data. Thanks to t
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how <a title="APIs in Government" href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">government APIs</a> are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 
-_Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s  Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._
+_Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

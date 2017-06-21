@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/08/monthly-theme-learning-to-ride-the-metrics-wave/
 date: 2015-09-08 12:00:26 -0400
-title: 'Monthly Theme\: Learning to Ride the Metrics Wave'
+title: 'Monthly Theme: Learning to Ride the Metrics Wave'
 summary: 'We are awash&nbsp;in data. Data in our personal lives gives us information on everything from our nightly sleeping patterns to how many of our friends shared our latest quip on social media. So too in our professional world, where we can see the most popular devices people use to navigate our websites and are told'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Monthly Theme
   - Our Work
@@ -19,7 +19,7 @@ All of this data can help us make smart decisions that will ultimately provide o
 
 This month on DigitalGov, we’ll be highlighting a few ways we can stay afloat in the sea of data:
 
-  * Understanding how [metrics like “Time to First Byte” are key](https://www.WHATEVER/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/) to a user’s  impression of your website
-  * Looking at how a [Performance Management team](https://www.WHATEVER/2015/09/24/setting-up-a-performance-measurement-team/) can help improve your agency’s  products and services
+  * Understanding how [metrics like “Time to First Byte” are key](https://www.WHATEVER/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/) to a user’s impression of your website
+  * Looking at how a [Performance Management team](https://www.WHATEVER/2015/09/24/setting-up-a-performance-measurement-team/) can help improve your agency’s products and services
   * Paying attention to the [communication methods certain audiences prefer](https://www.WHATEVER/2015/09/15/are-videos-in-spanish-the-way-to-go/) and how it can help you better allocate resources
   * Knowing how [a filter can help you sort out the real](https://www.WHATEVER/2015/09/09/caution-your-web-analytics-might-not-be-human/) from the fake traffic

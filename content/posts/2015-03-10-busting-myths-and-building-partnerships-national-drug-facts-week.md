@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/10/busting-myths-and-building-partnerships-national-drug-facts-week/
 date: 2015-03-10 11:10:21 -0400
-title: 'Busting Myths and Building Partnerships\: National Drug Facts Week'
+title: 'Busting Myths and Building Partnerships: National Drug Facts Week'
 summary: ' Myth-busting isn&rsquo;t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation. National Drug Facts Week (NDFW) is a health awareness week for teenagers, with the goal of debunking myths'
-authors: [awichman]
+authors:
+  - awichman
 categories:
   - Content
   - Social Media
@@ -16,34 +16,31 @@ tag:
   - Twitter
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-383-NIH-NIDA-NDFW-2015-logo.jpg" alt="National Drug Facts Week (NDFW) logo for 2015." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-383-NIH-NIDA-NDFW-2015-logo.jpg" alt="National Drug Facts Week (NDFW) logo for 2015." %}
 
 Myth-busting isn’t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation.
 
 [National Drug Facts Week (NDFW)](http://teens.drugabuse.gov/national-drug-facts-week) is a health awareness week for teenagers, with the goal of debunking myths about drugs. The [National Institute on Drug Abuse (NIDA)](http://www.drugabuse.gov/), part of the National Institutes of Health, organizes the week and reaches teens in a relevant, engaging way.
 
-This year, 1,557 NDFW events were held across the U.S. and internationally. NIDA works with federal, state and local partners to implement NDFW. To reach today’s  teens, digital outreach is at the center of it all.
+This year, 1,557 NDFW events were held across the U.S. and internationally. NIDA works with federal, state and local partners to implement NDFW. To reach today’s teens, digital outreach is at the center of it all.
 
 ## Chatting for Change with 2,500 Answers
 
-The signature NDFW event is Drug Facts Chat Day, a live Web chat linking high schools and NIDA scientists. Students from across the country can ask questions about drugs and drug addiction, and scientists provide fact-based responses. This year’s  Chat Day took place on January 30th.
+The signature NDFW event is Drug Facts Chat Day, a live Web chat linking high schools and NIDA scientists. Students from across the country can ask questions about drugs and drug addiction, and scientists provide fact-based responses. This year’s Chat Day took place on January 30th.
 
 During the event, moderators direct questions to specific scientists and science writers, who provide the answers. Each of the approximately 50 scientist experts is paired with an editor, who cleans up the answer, adds links, and posts it. Although Chat Day has been running for several years, the NIDA organizing team always looks for ways to fine tune their efforts.
 
-“The new thing this year was a live stream video, and people could see scientists answering their questions,” said Sara Smith, Social Media Strategist for NIDA. “We coordinated with the video operator, and as I was posting the scientist’s  biography, he would do a close-up of the scientist and have them wave. I posted factoids and biographies of all the people who were answering questions, and there were also poll questions that could be answered. Students could also view a map in real-time to see what schools were participating.”
+“The new thing this year was a live stream video, and people could see scientists answering their questions,” said Sara Smith, Social Media Strategist for NIDA. “We coordinated with the video operator, and as I was posting the scientist’s biography, he would do a close-up of the scientist and have them wave. I posted factoids and biographies of all the people who were answering questions, and there were also poll questions that could be answered. Students could also view a map in real-time to see what schools were participating.”
 
-A feed of Chat Day was available to interested participants who could not be a part of the chat. Smith also worked with a team to provide content via NIDA’s  Twitter, [@NIDAnews](https://twitter.com/NIDAnews). Common questions were put into a template with stock photos. Each question was written as a tweet and the answer was given as an image, in order to incorporate extra text. The NIDA team also posted a [NDFW video on Vine](https://vine.co/u/1146557546770108416) featuring the NIDA Director, Dr. Nora Volkow, on Chat Day.
+A feed of Chat Day was available to interested participants who could not be a part of the chat. Smith also worked with a team to provide content via NIDA’s Twitter, [@NIDAnews](https://twitter.com/NIDAnews). Common questions were put into a template with stock photos. Each question was written as a tweet and the answer was given as an image, in order to incorporate extra text. The NIDA team also posted a [NDFW video on Vine](https://vine.co/u/1146557546770108416) featuring the NIDA Director, Dr. Nora Volkow, on Chat Day.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet.jpg" alt="574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet.jpg" alt="574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet" %}
 
 Brian Marquis, Public Liaison Officer for NIDA, said that the organizing team limits registration to approximately 130 schools, due to demand. On average, 50 to 60% of the registered schools log on, and this year, 72 schools participated. NIDA aims to answer 30% of the teens’ questions.
 
-“The first year we did the chat, in 2007, we opened it up to everyone, and it was overwhelming because we received 36,000 questions in a ten hour period,” said Marquis. “We went back to the drawing board and that’s  where we got the number of 130. We don’t get representation from every state, but it was between 25 to 30 states this year. We’ve even had some international schools in the past. This year, we received 8,000 questions, and scientists were able to answer 2,500 of them during the ten hour chat.”
+“The first year we did the chat, in 2007, we opened it up to everyone, and it was overwhelming because we received 36,000 questions in a ten hour period,” said Marquis. “We went back to the drawing board and that’s where we got the number of 130. We don’t get representation from every state, but it was between 25 to 30 states this year. We’ve even had some international schools in the past. This year, we received 8,000 questions, and scientists were able to answer 2,500 of them during the ten hour chat.”
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day.jpg" alt="600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day.jpg" alt="600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day" %}
 
 ## Delivering Content Through Interactive Quizzes
 
@@ -59,11 +56,11 @@ NIDA also takes an adaptive content approach to the online quiz: if teens don’
 
 ## Partnership Is A Two-Way Street
 
-Building connections is the foundation of NIDA’s  efforts for NDFW. Community and school events are locally planned: school assemblies, after school clubs, athletic events, and juvenile justice organizations are just a sampling of locations where events take place.
+Building connections is the foundation of NIDA’s efforts for NDFW. Community and school events are locally planned: school assemblies, after school clubs, athletic events, and juvenile justice organizations are just a sampling of locations where events take place.
 
 “We talk to each and every event holder and make sure they know that this is not a one-way street,” Marquis said. “They are having events, and we want to make sure we are in tune with what they are doing. If we can provide information, materials, or a science expert, we do that. If there is a need to connect them with other groups, we build that connection. We couldn’t do this without the efforts of the teen influencers and our NGO partners.”
 
-One example of a partner event is Mentor Foundation USA’s  [Shattering the Myths](http://www.mentorfoundationusa.org/shattering-the-myths-2015/): over 200 high school students attended this year’s  event on January 29th. Students posed questions during a Q&A with a NIDA scientist, participated in slam poetry workshops, and heard from guest speakers, including parents who lost their teenage son to one hit of a synthetic drug called Spice.
+One example of a partner event is Mentor Foundation USA’s [Shattering the Myths](http://www.mentorfoundationusa.org/shattering-the-myths-2015/): over 200 high school students attended this year’s event on January 29th. Students posed questions during a Q&A with a NIDA scientist, participated in slam poetry workshops, and heard from guest speakers, including parents who lost their teenage son to one hit of a synthetic drug called Spice.
 
 Highlighting past years’ successes also helps the NIDA team build partnerships: when people see the success of past events, they often want to organize their own, Marquis said.
 
@@ -71,10 +68,10 @@ Highlighting past years’ successes also helps the NIDA team build partnerships
 
 The [NIDA for Teens website](http://teens.drugabuse.gov/) is the main hub of activity during NDFW. Teens and organizations can find online toolkits with suggestions on how to plan, promote, and host events, find expert facilitators, and order free materials.
 
-The website also has a “[What’s  New and Cool](http://teens.drugabuse.gov/national-drug-facts-week/view-events-and-highlights/2015/highlights)” section, featuring tweets, blogs, newsletters, and any other type of media that promotes NDFW. This year, Dr. Phil and Dr. Oz distributed NDFW content via social media. [Dr. Oz](https://twitter.com/DrOz/status/560978445413662720) and [The Dr. Phil Show](https://twitter.com/TheDrPhilShow/status/560927918180667392) tweeted about NDFW, and Dr. Phil had a promotional box on his website that took people to the IQ Challenge quiz.
+The website also has a “[What’s New and Cool](http://teens.drugabuse.gov/national-drug-facts-week/view-events-and-highlights/2015/highlights)” section, featuring tweets, blogs, newsletters, and any other type of media that promotes NDFW. This year, Dr. Phil and Dr. Oz distributed NDFW content via social media. [Dr. Oz](https://twitter.com/DrOz/status/560978445413662720) and [The Dr. Phil Show](https://twitter.com/TheDrPhilShow/status/560927918180667392) tweeted about NDFW, and Dr. Phil had a promotional box on his website that took people to the IQ Challenge quiz.
 
 Other partners used social media to reach teens: the National Association of County and City Health Officials (NACCHO) partnered with Students Against Destructive Decisions (SADD) to host an hour-long Twitter chat on January 29th from the [@NACCHOalerts](https://twitter.com/NACCHOalerts) account using the hashtag [#NDFW](https://twitter.com/hashtag/ndfw).
 
 “Collaboration with social media partners and an emphasis on creating and sharing highly visual content were key to our success on social media during NDFW,” said Smith.
 
-_Each year, NDFW is powered by six people within NIDA’s  Public Information and Liaison Branch, in addition to their normal duties. If you would to know more about NDFW, please contact [Sara (Crocoll) Smith](mailto:sara.crocoll@nih.gov)._
+_Each year, NDFW is powered by six people within NIDA’s Public Information and Liaison Branch, in addition to their normal duties. If you would to know more about NDFW, please contact [Sara (Crocoll) Smith](mailto:sara.crocoll@nih.gov)._

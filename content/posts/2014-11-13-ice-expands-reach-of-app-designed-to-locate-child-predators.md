@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/13/ice-expands-reach-of-app-designed-to-locate-child-predators/
 date: 2014-11-13 10:15:21 -0400
-title: 'ICE Expands Reach of App Designed to Locate Child Predators'
+title: ICE Expands Reach of App Designed to Locate Child Predators
 summary: 'Catching child predators? There&amp;#8217;s an app for that, and it&amp;#8217;s expanding its reach to Android smartphones.  Operation Predator&mdash;the first U.S. federal law enforcement app designed to seek the public&amp;#8217;s help with identifying and locating fugitive and unknown suspected child predators&mdash;is now available'
-authors: [kdowney]
+authors:
+  - kdowney
 categories:
   - Mobile
 tag:
@@ -17,8 +17,7 @@ tag:
 
 Catching child predators? There&#8217;s an app for that, and it&#8217;s expanding its reach to Android smartphones.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/568-x-296-ICE-operation-Predator-App-ad.jpg" alt="ICE expands Reach of App Designed to Locate Child Predators" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/568-x-296-ICE-operation-Predator-App-ad.jpg" alt="ICE expands Reach of App Designed to Locate Child Predators" %}
 
 [Operation Predator](https://www.ice.gov/predator/predator-app.htm)—the first U.S. federal law enforcement app designed to seek the public&#8217;s help with identifying and locating fugitive and unknown suspected child predators—is now available for both Android and iOS-based smartphones, and also features built-in Spanish language support.
 

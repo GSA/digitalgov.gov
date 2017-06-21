@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/
 date: 2013-02-11 2:02:07 -0400
-title: 'You&amp;#8217;ll Have Them at Swipe\: Making An Awesome Mobile User Experience Webinar'
+title: 'You&#8217;ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar'
 summary: 'Learn how to create amazing and engaging Mobile Gov User Experiences&nbsp;by watching this webinar. Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine has'
-authors: [jparcell]
 categories:
   - Mobile
   - UX
@@ -15,8 +13,7 @@ tag:
   - VA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" %}
-Learn how to create amazing and engaging [Mobile Gov User Experiences](https://www.WHATEVER/2014/01/20/mobile-gov-user-experience-resources-and-design-tools/ "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" %}](https://sites.usa.gov/howtomobile/files/2011/05/PTSD_App.jpg)Learn how to create amazing and engaging [Mobile Gov User Experiences](https://www.WHATEVER/2014/01/20/mobile-gov-user-experience-resources-and-design-tools/ "Mobile Gov User Experience Resources and Design Tools") by watching this webinar.
 
 Anytime, anywhere government will be used in numerous contexts and requires developers to think about more than just content, security and privacy during implementation. In fact, Smashing magazine [has listed 12 elements](http://mobile.smashingmagazine.com/2012/07/12/elements-mobile-user-experience/) to consider for building good mobile user experiences.
 
@@ -30,7 +27,7 @@ In this webinar, Mobile Gov developers from the National Institutes of Health an
 
 **Who Should Watch**
 
-Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s , mobile web, mobile implementation in the federal government and the digital government strategy.
+Anyone interested in digital government, mobile strategy, mobile development, natives apps, data & API’s, mobile web, mobile implementation in the federal government and the digital government strategy.
 
 [youtube=http://www.youtube.com/watch?v=EurlOmfLcPA&w=600]
 

@@ -1,13 +1,13 @@
 ---
-
-
+url: /2017/03/20/presenting-online-data-to-wide-ranging-user-communities/
 date: 2017-03-20 11:00:21 -0400
-title: 'Presenting Online Data to Wide-Ranging User Communities'
+title: Presenting Online Data to Wide-Ranging User Communities
 summary: 'Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users&rsquo; needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government &nbsp;websites that present data for use by the general public. The audience for such'
-authors: [rhonda-a-pretlow]
+authors:
+  - rhonda-a-pretlow
 categories:
   - Data
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - data
   - research
@@ -16,10 +16,9 @@ tag:
 
 Presenting data online that will serve a wide range of users can be challenging. It requires an understanding of the target users’ needs, interests, and familiarity with the use of data handling tools. This challenge can be especially daunting for government  websites that present data for use by the general public. The audience for such data can range in extremes—from scientists to school children. Clearly, a single data tool would not adequately meet the needs of such a wide range of users.
 
+{% img="https://www.WHATEVER/files/2017/03/600-x-325-Cartoon-Crowd-funnels-into-5-Gates-Viktors-Ignatenko-Hemera-Thinkstock-101889573.jpg" alt="Viktors Ignatenko/Hemera/Thinkstock" %}
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-325-Cartoon-Crowd-funnels-into-5-Gates-Viktors-Ignatenko-Hemera-Thinkstock-101889573.jpg" alt="Viktors Ignatenko/Hemera/Thinkstock" %}
-
-When creating data-centric sites, web designers must be able to scale up and scale down the technical sophistication of their data tools to meet the needs of the target users. One excellent illustration of such scaling can be found in the U.S. Census Bureau’s  [American Community Survey](https://www.census.gov/programs-surveys/acs/) (ACS).
+When creating data-centric sites, web designers must be able to scale up and scale down the technical sophistication of their data tools to meet the needs of the target users. One excellent illustration of such scaling can be found in the U.S. Census Bureau’s [American Community Survey](https://www.census.gov/programs-surveys/acs/) (ACS).
 
 **Describing Data Communities**
 
@@ -29,14 +28,11 @@ The site allows users to self-select their group affinity and then presents sugg
 
 Under “Which Data Tool Should I Use?,” the site presents multiple [illustrated case studies](https://www.census.gov/acs/www/guidance/which-data-tool/) that help users recognize the group they belong to.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-157-Census-Bureau-American-Community-Survey-ACS-Congressional-Staffer.jpg" alt="Screen cap of the Congressional staffer profile." %}
+{% img="https://www.WHATEVER/files/2017/03/600-x-157-Census-Bureau-American-Community-Survey-ACS-Congressional-Staffer.jpg" alt="Screen cap of the Congressional staffer profile." %}
   
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-157-Census-Bureau-American-Community-Survey-ACS-Business-Owner.jpg" alt="Screen cap of the Business Owner profile." %}
+{% img="https://www.WHATEVER/files/2017/03/600-x-157-Census-Bureau-American-Community-Survey-ACS-Business-Owner.jpg" alt="Screen cap of the Business Owner profile." %}
   
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-143-Census-Bureau-American-Community-Survey-ACS-Developer.jpg" alt="Screen cap of the Developer profile." %}
+{% img="https://www.WHATEVER/files/2017/03/600-x-143-Census-Bureau-American-Community-Survey-ACS-Developer.jpg" alt="Screen cap of the Developer profile." %}
 
 [Training presentations](https://www.census.gov/programs-surveys/acs/guidance/training-presentations.html) are similarly broken down and geared toward different users, as is illustrated by titles such as: “Using Census Bureau Data and Enigma&#8217;s Smoke Signals to Save Lives,” “Using the Census API with the American Community Survey Webinar,” and “How to Use ACS Geodatabase Files and ArcMap.” At a glance, emergency workers would be drawn to the first training, programmers to the second, and those with an interest in geography to the third.
 

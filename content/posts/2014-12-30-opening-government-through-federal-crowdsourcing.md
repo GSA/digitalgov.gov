@@ -1,14 +1,14 @@
 ---
-
-
+url: /2014/12/30/opening-government-through-federal-crowdsourcing/
 date: 2014-12-30 10:00:45 -0400
-title: 'Opening Government Through Federal Crowdsourcing'
-summary: 'Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives'
-authors: [awichman]
+title: Opening Government Through Federal Crowdsourcing
+summary: Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives
+authors:
+  - awichman
 categories:
   - Challenges
   - Communities
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme
 tag:
   - AoI
@@ -25,8 +25,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." %} 
 
 Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming [trends](https://www.WHATEVER/join-digitalgov/#guidelines) on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
 
@@ -44,9 +43,9 @@ More agencies are taking concrete steps to institutionalize challenge and prize 
 
 ## **Citizen Science and Crowdsourcing**
 
-[Citizen science](http://scistarter.com/page/Citizen%20Science.html) and crowdsourcing are in an earlier stage of maturity in government. There are citizen science projects which have existed for many years, such as [Nature’s  Notebook](https://www.usanpn.org/natures_notebook) and environmental monitoring, but Gustetic said those projects were largely conducted in silos and contained to specific types of problems.
+[Citizen science](http://scistarter.com/page/Citizen%20Science.html) and crowdsourcing are in an earlier stage of maturity in government. There are citizen science projects which have existed for many years, such as [Nature’s Notebook](https://www.usanpn.org/natures_notebook) and environmental monitoring, but Gustetic said those projects were largely conducted in silos and contained to specific types of problems.
 
-“In recent years, driven by new Communities of Practice such as the [Federal Community of Practice for Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-citizen-science), as well as increased use of citizen science in specific areas like climate, we’ve seen a growth of interest in institutionalizing citizen science,” Gustetic said. “There is less policy than on prizes and challenges, and we’re looking to create additional strategy and support. We’re in an earlier stage of maturity, even though some of these projects have been happening for decades. What’s  new is making them a more widespread tool in federal government.”
+“In recent years, driven by new Communities of Practice such as the [Federal Community of Practice for Crowdsourcing and Citizen Science](http://www2.epa.gov/innovation/federal-community-practice-crowdsourcing-and-citizen-science), as well as increased use of citizen science in specific areas like climate, we’ve seen a growth of interest in institutionalizing citizen science,” Gustetic said. “There is less policy than on prizes and challenges, and we’re looking to create additional strategy and support. We’re in an earlier stage of maturity, even though some of these projects have been happening for decades. What’s new is making them a more widespread tool in federal government.”
 
 In November, OSTP began developing an [Open Innovation Toolkit](http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government) for citizen science and crowdsourcing, with the goal of empowering more employees to get involved in 2015 and beyond.
 

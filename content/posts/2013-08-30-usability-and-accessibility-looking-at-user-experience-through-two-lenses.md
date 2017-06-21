@@ -1,13 +1,13 @@
 ---
-
-
+url: /2013/08/30/usability-and-accessibility-looking-at-user-experience-through-two-lenses/
 date: 2013-08-30 8:31:17 -0400
-title: 'Looking at User Experience through Two Lenses'
-summary: 'Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best'
-authors: [katie-messner]
+title: Looking at User Experience through Two Lenses
+summary: 'Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site&rsquo;s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best'
+authors:
+  - katie-messner
 categories:
   - Accessibility
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - accessibility
@@ -15,13 +15,12 @@ tag:
 ---
 
 <p style="text-align: left">
-  Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s  user experience. Evaluating your website with both usability and accessibility in mind gives all users the best possible user experience.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220-250x189.jpg" alt="Accessibility-290x220" %}</a>
+  Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best possible user experience.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220-250x189.jpg" alt="Accessibility-290x220" %}</a>
 </p>
 
 ## What is Usability?
 
-Usability relates to the how easy things are to use.  Generally, [usability is measured](http://www.usability.gov/what-and-why/usability-evaluation.html) against five criteria—memorability, efficiency, errors, learnability, and satisfaction (MEELS). In support of those criteria, ask yourself the following when evaluating a website’s  usability:
+Usability relates to the how easy things are to use.  Generally, [usability is measured](http://www.usability.gov/what-and-why/usability-evaluation.html) against five criteria—memorability, efficiency, errors, learnability, and satisfaction (MEELS). In support of those criteria, ask yourself the following when evaluating a website’s usability:
 
 >   * What tasks are users expected to complete using the website?
 >   * How easily can someone complete those tasks?
@@ -29,7 +28,7 @@ Usability relates to the how easy things are to use.  Generally, [usability is m
 >   * What data should you record to capture in assessing those tasks?
 >   * How satisfied is the user with the steps needed to complete the tasks?
 
-When you have answered those questions, ask what and how things should change to improve user experience. Typically, traditional usability testing does not consider the disabled user. We believe that keeping all users in mind is vital to your site’s  success, though.
+When you have answered those questions, ask what and how things should change to improve user experience. Typically, traditional usability testing does not consider the disabled user. We believe that keeping all users in mind is vital to your site’s success, though.
 
 ## What is Accessibility?
 
@@ -45,7 +44,7 @@ For example, if an image is decorative, you should tag it with null alt text, wh
 >   * What does the surrounding text say about the chart?
 >   * What is the take-home message of the chart?
 
-Poor attention to audience and context reduces the disabled person’s  user experience. Accordingly, testing these secondary channels becomes as important as testing the primary channels.
+Poor attention to audience and context reduces the disabled person’s user experience. Accordingly, testing these secondary channels becomes as important as testing the primary channels.
 
 ## Tying Things Together: Usability and Accessibility Best Practices
 

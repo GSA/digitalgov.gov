@@ -1,10 +1,8 @@
 ---
-
-
+url: /2014/05/15/defense-finance-and-accounting-service-goes-responsive/
 date: 2014-05-15 1:15:53 -0400
-title: 'Defense Finance and Accounting Service Goes Responsive'
-summary: 'Let&amp;#8217;s face it\: Some of us work to live. Some live to work. And all of us&nbsp;look forward to pay day. If you&nbsp;work for&nbsp;the&nbsp;Department of Defense, the&nbsp;Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health and'
-authors: [admin]
+title: Defense Finance and Accounting Service Goes Responsive
+summary: 'Let&amp;#8217;s face it: Some of us work to live. Some live to work. And all of us&nbsp;look forward to pay day. If you&nbsp;work for&nbsp;the&nbsp;Department of Defense, the&nbsp;Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health and'
 categories:
   - Design
   - Mobile
@@ -28,8 +26,7 @@ tag:
   - VA
 ---
 
-**
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-444-DFAS-menu-Responsive-Screenshot.jpg" alt="DFAS menu Responsive Screenshot" %}Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day.**
+**{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-444-DFAS-menu-Responsive-Screenshot.jpg" alt="DFAS menu Responsive Screenshot" %}Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day.**
 
 If you work for the Department of Defense, the Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health and Human Services or the Broadcasting Board of Governors, chances are that you are one of 6.6 million people paid by the **[Defense Finance and Accounting Service](http://www.dfas.mil/pressroom/aboutdfas.html)** (DFAS).
 
@@ -48,7 +45,6 @@ The responsive architecture eliminates the need for manually &#8220;pinching&#82
 
 If time is money, it&#8217;s definitely worth at least a few minutes exploring the new [www.dfas.mil](http://www.dfas.mil).
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-475-DFAS-homepage-Responsive-Screenshot.jpg" alt="DFAS homepage Responsive Screenshot" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-475-DFAS-homepage-Responsive-Screenshot.jpg" alt="DFAS homepage Responsive Screenshot" %}
 
 _Don’t forget: You can download cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._

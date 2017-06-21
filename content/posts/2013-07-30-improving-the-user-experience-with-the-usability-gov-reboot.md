@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/07/30/improving-the-user-experience-with-the-usability-gov-reboot/
 date: 2013-07-30 9:03:17 -0400
-title: 'Improving the User Experience with the Usability.gov Reboot'
+title: Improving the User Experience with the Usability.gov Reboot
 summary: 'Plan and analyze. Write and design. &nbsp;Test and refine. &nbsp;As Web Manager for Usability.gov, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.'
-authors: [katie-messner]
+authors:
+  - katie-messner
 categories:
   - UX
 tag:
@@ -13,8 +13,7 @@ tag:
   - user experience
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Usability.gov-reboot-250x187.jpg" alt="Mobile devices showing responsively designed site across a Laptop, tablets, smartphones" %}
-Plan and analyze. Write and design.  Test and refine.  As Web Manager for <a href="http://www.usability.gov/" target="_blank">Usability.gov</a>, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Usability.gov-reboot-250x187.jpg" alt="Mobile devices showing responsively designed site across a Laptop, tablets, smartphones" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Usability.gov-reboot.jpg)Plan and analyze. Write and design.  Test and refine.  As Web Manager for <a href="http://www.usability.gov/" target="_blank">Usability.gov</a>, I have found that taking a user-centered approach is vital each time you improve or build a digital product, especially when the content is about improving user experience.
 
 <p dir="ltr">
   In our <a href="http://www.usability.gov/get-involved/blog/2013/07/welcome-to-relaunched-site.html">recent reboot of Usability.gov</a> we put our own advice to the test by evaluating the existing site and analyzing the extensive feedback on the concepts for the redesign.  The new site has launched with expanded content, a fresh design, and more ways to get involved in the Usability.gov program moving forward.

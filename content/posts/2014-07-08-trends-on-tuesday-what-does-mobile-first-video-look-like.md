@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/07/08/trends-on-tuesday-what-does-mobile-first-video-look-like/
 date: 2014-07-08 1:39:53 -0400
-title: 'Trends on Tuesday\: What Does Mobile-First Video Look Like?'
-summary: 'Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest&nbsp;Google Doodle and watching game highlights became part of my daily iPhone routine. Despite the elimination of Team U.S.A, mobile video consumption continues to win new fans. Consider these mobile video viewing statistics\: On average, consumers spend 33 minutes'
-authors: [tjohnson]
+title: 'Trends on Tuesday: What Does Mobile-First Video Look Like?'
+summary: 'Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest&nbsp;Google Doodle and watching game highlights became part of my daily iPhone routine. Despite the elimination of Team U.S.A, mobile video consumption continues to win new fans. Consider these mobile video viewing statistics: On average, consumers spend 33 minutes'
+authors:
+  - tjohnson
 categories:
   - Mobile
 tag:
@@ -13,8 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" %} 
 
 Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest Google Doodle and watching game highlights became part of my daily iPhone routine.
 

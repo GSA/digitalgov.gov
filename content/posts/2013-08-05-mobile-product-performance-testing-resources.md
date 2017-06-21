@@ -1,13 +1,13 @@
 ---
-
-
+url: /2013/08/05/mobile-product-performance-testing-resources/
 date: 2013-08-05 2:21:06 -0400
-title: 'Mobile Product Performance Testing'
+title: Mobile Product Performance Testing
 summary: 'Performance testing is used to verify that an&nbsp;app&nbsp;or&nbsp;web page&nbsp;will display quickly to the user and will continue to function as the number of users increases to peak loads. Performance is an important consideration for mobile applications because the connection speed of users is often slower and more variable for mobile users than desktop users. Surveys'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - GitHub
   - mobile apps

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/28/the-content-corner-defining-your-core/
 date: 2015-09-28 1:30:53 -0400
-title: 'The Content Corner\: Defining Your Core'
-summary: 'Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the content pillar and various other aspects of developing a solid content strategy. Recent research from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or'
-authors: [tymanuel]
+title: 'The Content Corner: Defining Your Core'
+summary: Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the content pillar and various other aspects of developing a solid content strategy. Recent research from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or
+authors:
+  - tymanuel
 categories:
   - Content
   - Social Media
@@ -24,8 +24,7 @@ One important thing is to remember or establish what your core channel is. I lik
 
 ## Building a Home on Someone Else&#8217;s Land
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" %}
 
 As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)](https://www.WHATEVER/2015/09/21/the-content-corner-harness-the-power-of-user-generated-content/), you have to be aware of the [terms of service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) on platforms such as Facebook, Twitter, YouTube and Tumblr.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/07/18/how-to-create-a-customer-experience-index/
 date: 2013-07-18 7:53:02 -0400
-title: 'How to Create a Customer Experience Index'
+title: How to Create a Customer Experience Index
 summary: 'In my last post I talked about how we&rsquo;re kicking off our Customer Experience program in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA. &nbsp;There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement'
-authors: [martha-dorris]
+authors:
+  - martha-dorris
 categories:
   - Managing Digital
 tag:
@@ -12,8 +12,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg" alt="image of notebook with charts and a pen" %}</a>In my last post I talked about how we’re <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/">kicking off our Customer Experience program</a> in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement and telling our customer experience stories, to events highlighting the plan moving forward.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg" alt="image of notebook with charts and a pen" %}</a>In my last post I talked about how we’re <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/">kicking off our Customer Experience program</a> in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement and telling our customer experience stories, to events highlighting the plan moving forward.
 </p>
 
 While we have been working diligently on employee engagement issues and talking about customer experience for a while, devising measurable outcomes to drive behavior change and new processes is our approach.  In this post I’ll share how we’re creating the index that will measure customer service across our office.
@@ -42,4 +41,4 @@ By creating a measurable outcome, we can create a baseline that will target futu
 
 Our next steps are to begin thinking through our communication strategy and continued training of our team through expert speakers and webinars.  Each program will be engaging with their customers and with their employees to get input on improvements and use our program as a way to self assess their success and actions needed going forward.
 
-CX is an ever changing goal given that your customers’ expectations continually change, but one that’s  worth our commitment to deliver an outstanding experience when interacting with government.
+CX is an ever changing goal given that your customers’ expectations continually change, but one that’s worth our commitment to deliver an outstanding experience when interacting with government.

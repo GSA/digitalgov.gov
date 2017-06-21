@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/06/25/case-studies-in-thunderclap/
 date: 2014-06-25 12:37:31 -0400
-title: 'Case Studies in Thunderclap'
-summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http\://www.youtube.com/watch?v=QuACkq02GVw&amp;amp;w=600] &amp;nbsp; What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
-authors: [alison-lemon]
+title: Case Studies in Thunderclap
+summary: 'Now that Thunderclap has been approved for government use for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar. [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&amp;amp;w=600] &amp;nbsp; What Makes a Thunderclap? Nicholas Garlow, public affairs specialist'
+authors:
+  - alison-lemon
 categories:
   - Social Media
 tag:
@@ -65,4 +65,4 @@ EPA achieved success on their next two campaigns, [On Earth Day, #ActOnClimate!]
 
 Tell us: Has your agency used Thunderclap?
 
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community](https://www.WHATEVER/communities/social-media/) and a Senior Analyst for Social Media with the FDA’s  Office of Women’s  Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community](https://www.WHATEVER/communities/social-media/) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

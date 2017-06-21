@@ -1,10 +1,8 @@
 ---
-
-
+url: /2012/05/12/national-contact-centers-text-message-program/
 date: 2012-05-12 2:22:22 -0400
-title: 'National Contact Center&amp;#8217;s Text Message Program'
+title: 'National Contact Center&#8217;s Text Message Program'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&amp;#8217;s Office of Citizen Services &amp;amp; Innovative Technologies, Contact Center Services Division. The National Contact Center&amp;#8217;s Text Message Program The Contact'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -13,12 +11,11 @@ tag:
   - Mobile Gov Experience
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png" alt="Screen shot showing text messages from the National Contact Center." %}
-_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division._
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png" alt="Screen shot showing text messages from the National Contact Center." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division._
 
 ## <a name="x-The National Contact Center's Text Message Program"></a>The National Contact Center&#8217;s Text Message Program {#toc0}
 
-The Contact Center Services Division, within GSA’s  Office of Citizen Services and Innovative Technologies, manages the **National Contact Center**. The NCC exists to answer the public’s  questions about all federal programs and services, by getting people to the information they need. We do this through:
+The Contact Center Services Division, within GSA’s Office of Citizen Services and Innovative Technologies, manages the **National Contact Center**. The NCC exists to answer the public’s questions about all federal programs and services, by getting people to the information they need. We do this through:
 
 • a toll-free number (**1.800 FED INFO**),
   
@@ -50,7 +47,7 @@ We began in early 2010, first soliciting input from other government contact cen
 
 Across several months of discussion, we developed the basic flow for our subscription process, along with the message language for acknowledging subscription enrollments, ending subscriptions, and “error” and “help” responses. We developed a page on **usa.gov** both to publicize the service and also to serve as the response to a “help” or &#8220;error&#8221; request. We decided against the need to offer a phone contact for “help.”
 
-Under the terms of our task order, our contractor secured the desired SMS code we were looking for (**872468** – which spells “**usa.gov**,” depending on your phone’s  dialpad – letters and numbers can run in either direction!) and handles all aggregator contracts and provider issues, simplifying our task and keeping us moving.
+Under the terms of our task order, our contractor secured the desired SMS code we were looking for (**872468** – which spells “**usa.gov**,” depending on your phone’s dialpad – letters and numbers can run in either direction!) and handles all aggregator contracts and provider issues, simplifying our task and keeping us moving.
 
 ## <a name="x-How It Worked"></a>How It Worked {#toc3}
 

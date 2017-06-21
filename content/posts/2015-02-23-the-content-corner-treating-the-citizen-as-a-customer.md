@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/23/the-content-corner-treating-the-citizen-as-a-customer/
 date: 2015-02-23 11:10:26 -0400
-title: 'The Content Corner\: Treating the Citizen as a Customer'
-summary: 'There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing’s main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We&rsquo;re the federal government, we aren&rsquo;t'
-authors: [tyrus-manuel]
+title: 'The Content Corner: Treating the Citizen as a Customer'
+summary: 'There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing&rsquo;s main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We&rsquo;re the federal government, we aren&rsquo;t'
+authors:
+  - tyrus-manuel
 categories:
   - Content
   - Monthly Theme
@@ -14,10 +14,9 @@ tag:
   - The Content Corner
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A "rising sales" concept graphic of an old-fashioned thermometer" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" %} 
-
-There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing’s  main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We’re the federal government, we aren’t selling anything, we don’t care about [conversions](http://www.nngroup.com/articles/conversion-rates/) or lead-generation. Wrong.
+There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing’s main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We’re the federal government, we aren’t selling anything, we don’t care about [conversions](http://www.nngroup.com/articles/conversion-rates/) or lead-generation. Wrong.
 
 Citizens visit government websites more and more often to solve a specific problem:
 
@@ -31,11 +30,11 @@ If we begin to approach content generation from that perspective: by visualizing
 
 ## Purposeful Content
 
-We just discussed this above, but it is worth repeating and possibly worth making into a mantra and a slogan like “[Clear Eyes, Full Hearts, Can’t Lose!](https://www.youtube.com/watch?v=_7TOHrppa_E)” How does the content you are creating help your customer get to where they need to go? Some may argue that if the content is not actively assisting the user in their journey, then it has no place on your site. Always visualize your content’s  purpose and relationship to the user.
+We just discussed this above, but it is worth repeating and possibly worth making into a mantra and a slogan like “[Clear Eyes, Full Hearts, Can’t Lose!](https://www.youtube.com/watch?v=_7TOHrppa_E)” How does the content you are creating help your customer get to where they need to go? Some may argue that if the content is not actively assisting the user in their journey, then it has no place on your site. Always visualize your content’s purpose and relationship to the user.
 
 ## Understanding Your User
 
-The most effective way to ensure your content acts as the user’s  guide is to know where they are going. What are their motivations, why are they here, [who are they](http://www.copyblogger.com/deep-connections/)? This gets into many topics surrounding [personas](https://www.WHATEVER/2015/01/09/personas-101/ "Personas 101"), user interviews, and [accessibility](https://www.WHATEVER/2014/11/17/user-experience-impossible-the-line-between-accessibility-and-usability/ "User Experience Impossible: The Line Between Accessibility and Usability"). Only by knowing as much as possible about your site’s  visitors can you understand what they want from you and expedite that journey. It’s  really hard to help someone if you don’t know what they need.
+The most effective way to ensure your content acts as the user’s guide is to know where they are going. What are their motivations, why are they here, [who are they](http://www.copyblogger.com/deep-connections/)? This gets into many topics surrounding [personas](https://www.WHATEVER/2015/01/09/personas-101/ "Personas 101"), user interviews, and [accessibility](https://www.WHATEVER/2014/11/17/user-experience-impossible-the-line-between-accessibility-and-usability/ "User Experience Impossible: The Line Between Accessibility and Usability"). Only by knowing as much as possible about your site’s visitors can you understand what they want from you and expedite that journey. It’s really hard to help someone if you don’t know what they need.
 
 ## Design Matters
 

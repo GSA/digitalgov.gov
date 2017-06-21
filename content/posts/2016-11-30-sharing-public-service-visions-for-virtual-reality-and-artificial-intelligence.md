@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/11/30/sharing-public-service-visions-for-virtual-reality-and-artificial-intelligence/
 date: 2016-11-30 12:00:46 -0400
-title: 'Sharing Public Service Visions for Virtual Reality and Artificial Intelligence'
+title: Sharing Public Service Visions for Virtual Reality and Artificial Intelligence
 summary: 'I&rsquo;m taking a break from sorting through dozens of concepts from federal agencies about how they want to use artificial intelligence and virtual reality for citizens in the coming months in order to share with you just some of these groundbreaking initiatives of tomorrow that can be explored at a DigitalGov University workshop this week.'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Communities
   - Managing Digital
@@ -21,8 +21,7 @@ I’m taking a break from sorting through dozens of concepts from federal agenci
 
 We’re [launching our two new U.S. government-wide Communities](https://www.WHATEVER/2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/) — Artificial Intelligence for Citizen Services, and Virtual/Augmented Reality — with a workshop, creatively called the [_Artificial Intelligence and Virtual Reality for Federal Public Service Workshop_](https://www.eventbrite.com/e/artificial-intelligence-and-virtual-reality-for-federal-public-service-workshop-registration-29587821972), that brings together federal managers behind programs at more than 50 agencies with dozens of private sector teams ready to demo the technology that will drive our innovations together for years to come.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." %}
+{% img="https://www.WHATEVER/files/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." %}
 
 And while the workshop hasn’t happened yet, participants have already contributed plenty to start with:
 
@@ -30,7 +29,7 @@ And while the workshop hasn’t happened yet, participants have already contribu
 > 
 > _Enhancing economic development for financial stability, health, education and housing, and designing emergency response exercises and decision support systems_
 > 
-> _There’s  some great ideas that involve the Grand Canyon, naturally_
+> _There’s some great ideas that involve the Grand Canyon, naturally_
 > 
 > _Empowering researchers to interact with records that are too fragile or valuable to handle in person, making large amounts of biomedical data easier to navigate, and as one person puts it simply, “space exploration”_
 > 

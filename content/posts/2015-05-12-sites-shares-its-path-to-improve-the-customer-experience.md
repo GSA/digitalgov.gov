@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/12/sites-shares-its-path-to-improve-the-customer-experience/
 date: 2015-05-12 1:00:25 -0400
-title: 'Sites Shares Its Path to Improve the Customer Experience'
-summary: 'As the product manager of Sites, my job is to make sure that our service delivers what we offer\: provide an easy, fast and cost‐effective solution for federal agencies that want to create a secure government website to reach the public. With 40 websites that are currently live or in active development, our program is'
-authors: [coqui-aspiazu]
+title: Sites Shares Its Path to Improve the Customer Experience
+summary: 'As the product manager of Sites, my job is to make sure that our service delivers what we offer: provide an easy, fast and cost‐effective solution for federal agencies that want to create a secure government website to reach the public. With 40 websites that are currently live or in active development, our program is'
+authors:
+  - coqui-aspiazu
 categories:
   - Managing Digital
   - Monthly Theme
@@ -47,7 +47,7 @@ I’m not going to suggest that we have mastered the customer experience. Quite 
 </li>
 
 <li style="margin-bottom: 15px">
-  <b>Stories.</b> Listening to customers seems like an easy task, but personally I find that it’s  more challenging than tracking numbers. Many times we fall for outsmarting that one unreplicatable error instead of addressing everyday needs. I was guilty of doing exactly that. I was meticulously tracking each ticket and not even writing down the questions that I could answer from the top of my head. I would still be doing that if it weren’t for a team meeting where someone asked me what was the most common question that I got. That’s  when it dawned on me that I was ignoring a pretty important request (how do I launch my site?) because it wasn’t a ticket. After some group brainstorming, we decided to create a Sites “Getting Started” dashboard that included the “Launch” button front and center as well as other frequently used functionalities. Since then I’ve learned to ask the following: <ul>
+  <b>Stories.</b> Listening to customers seems like an easy task, but personally I find that it’s more challenging than tracking numbers. Many times we fall for outsmarting that one unreplicatable error instead of addressing everyday needs. I was guilty of doing exactly that. I was meticulously tracking each ticket and not even writing down the questions that I could answer from the top of my head. I would still be doing that if it weren’t for a team meeting where someone asked me what was the most common question that I got. That’s when it dawned on me that I was ignoring a pretty important request (how do I launch my site?) because it wasn’t a ticket. After some group brainstorming, we decided to create a Sites “Getting Started” dashboard that included the “Launch” button front and center as well as other frequently used functionalities. Since then I’ve learned to ask the following: <ul>
     <li style="margin-top: 15px">
       What are the tasks that every one of our customers must do?
     </li>
@@ -72,8 +72,7 @@ I’m not going to suggest that we have mastered the customer experience. Quite 
   </ul>
   
   <p>
-    
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-SITES-getting-started-dashboard.jpg" alt="Partial screenshot of Sites' Getting Started dashboard, created to address customers' needs." %}</li> 
+    {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-SITES-getting-started-dashboard.jpg" alt="Partial screenshot of Sites' Getting Started dashboard, created to address customers' needs." %}</li> 
     
     <li style="margin-bottom: 15px">
       <b>Repeat. </b>Yes, like with shampoo. Just because you think that you’ve found a way to improve the customer experience, it doesn’t mean you really have accomplished it. Getting the word out is always challenging—as is changing processes and routines. Sometimes customers missed your newsletter or email, or when they received it, they didn’t need that information. Other times, the proposed solution doesn’t seem as easy as the previous one or the customer prefers their old way of doing things. These are some questions to help you with this part of the process: <ul>

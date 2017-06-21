@@ -1,10 +1,11 @@
 ---
-
-
+url: /2015/06/05/monthly-theme-building-evaluating-and-improving-government-services-through-social-media/
 date: 2015-06-05 2:56:52 -0400
-title: 'Monthly Theme\: Building, Evaluating, and Improving Government Services Through Social Media'
-summary: 'While examples of government social media content may initially seem like mere fun&mdash;the YouTube video of President Obama on Between Two Ferns or the Transportation Security Administration’s &ldquo;good catch&rdquo; pics of lipstick stun guns and batarangs&mdash;the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing. As we recently'
-authors: [jherman, awichman]
+title: 'Monthly Theme: Building, Evaluating, and Improving Government Services Through Social Media'
+summary: 'While examples of government social media content may initially seem like mere fun&mdash;the YouTube video of President Obama on Between Two Ferns or the Transportation Security Administration&rsquo;s &ldquo;good catch&rdquo; pics of lipstick stun guns and batarangs&mdash;the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing. As we recently'
+authors:
+  - jherman
+  - awichman
 categories:
   - Monthly Theme
   - Social Media
@@ -21,7 +22,7 @@ tag:
   - USGS
 ---
 
-While examples of government social media content may initially seem like mere fun—the [YouTube video of President Obama on Between Two Ferns](https://www.youtube.com/watch?v=UnW3xkHxIEQ) or the Transportation Security Administration’s  “good catch” pics of [lipstick stun guns](https://instagram.com/p/0WUAzwl9xT/?taken-by=tsa) and [batarangs](https://instagram.com/p/zTOqVrF9wl/?taken-by=tsa)—the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing.
+While examples of government social media content may initially seem like mere fun—the [YouTube video of President Obama on Between Two Ferns](https://www.youtube.com/watch?v=UnW3xkHxIEQ) or the Transportation Security Administration’s “good catch” pics of [lipstick stun guns](https://instagram.com/p/0WUAzwl9xT/?taken-by=tsa) and [batarangs](https://instagram.com/p/zTOqVrF9wl/?taken-by=tsa)—the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing.
 
 As we recently discussed on DigitalGov, [social media tools are for more than one-way marketing and communication](https://www.WHATEVER/2015/04/24/meeting-customer-needs-through-social-media/): they provide a connective, responsive capability to public services. We [explored some of the biggest programs in government social media](https://www.WHATEVER/2014/12/31/big-in-socialgov-in-2014-services-access-and-participation/) last year, from 3D printing and drones to disease tracking and the Internet of Things.
 

@@ -1,10 +1,8 @@
 ---
-
-
+url: /2012/02/22/my-tsa-mobile-app/
 date: 2012-02-22 12:28:21 -0400
-title: 'My TSA Mobile App'
+title: My TSA Mobile App
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This&nbsp;entry is a story shared by the Transportation Security Administration. The&nbsp;MY TSA mobile app and website&nbsp;developed by the Transportation Security Administration (TSA) is designed to help passengers better prepare for security so'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -13,8 +11,7 @@ tag:
   - TSA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" %}
-Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This__ entry is a story shared by the Transportation Security Administration._
+_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/MyTSAmobile-app.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This__ entry is a story shared by the Transportation Security Administration._
 
 The [MY TSA mobile app and website](http://apps.usa.gov/tsa-app/) developed by the Transportation Security Administration (TSA) is designed to help passengers better prepare for security so they can get through TSA airport security checkpoints more efficiently. The app has multiple functions to help travelers and uses information from TSA, the Federal Aviation Administration (FAA), NOAA and users.
 
@@ -31,7 +28,7 @@ As soon as we had a good version of the app to demo, we showed it to TSA&#8217;s
 TSA rolled out &#8220;MyTSA&#8221; both as a native iPhone app and as mobile site/app using TSA data as well as data from other agencies. The app has multiple functions to inform passengers, including:
 
   * The “Airport Status” function provides general airport conditions and delays for U.S. airports, courtesy of the Federal Aviation Administration. The iPhone version accesses GPS to direct users to the nearest airport, or they can select a specific airport.
-  * The “Can I Bring” tool was designed to answer the most commonly asked questions to TSA’s  Contact Center about items passengers want to bring onto a plane. These questions make up about 70% of the calls and e-mails to the Contact Center, so by pushing this information out and making it available 24/7, the goal is to reduce the time and energy for people to get the information they need, and save TSA resources. Items not in the database can be submitted by travelers for consideration.
+  * The “Can I Bring” tool was designed to answer the most commonly asked questions to TSA’s Contact Center about items passengers want to bring onto a plane. These questions make up about 70% of the calls and e-mails to the Contact Center, so by pushing this information out and making it available 24/7, the goal is to reduce the time and energy for people to get the information they need, and save TSA resources. Items not in the database can be submitted by travelers for consideration.
   * The &#8220;Guide&#8221; includes information on ID requirements; tips for members of the military and travelers with special needs and/or children; rules for liquids, gels and aerosols; packing and wardrobe tips for speeding through security; and information on traveling with food and gifts.
   * Wait time information is crowd-sourced and provided by travelers in real time.
 

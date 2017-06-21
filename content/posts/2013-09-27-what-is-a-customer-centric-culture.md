@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/09/27/what-is-a-customer-centric-culture/
 date: 2013-09-27 9:21:40 -0400
-title: 'What Is a &amp;#8220;Customer Centric&amp;#8221; Culture?'
-summary: 'In our very first customer experience (CX) blog post about GSA’s Office of Citizen Services and Innovative Technologies&rsquo; (OCSIT) Customer Experience Program, we published our principles and values. Our core principles say that all staff will\: Take responsibility for providing an experience greater than customer expectations. Engage, listen and resolve. Design business from the outside'
-authors: [martha-dorris]
+title: 'What Is a &#8220;Customer Centric&#8221; Culture?'
+summary: 'In our very first customer experience (CX) blog post about GSA&rsquo;s Office of Citizen Services and Innovative Technologies&rsquo; (OCSIT) Customer Experience Program, we published our principles and values. Our core principles say that all staff will: Take responsibility for providing an experience greater than customer expectations. Engage, listen and resolve. Design business from the outside'
+authors:
+  - martha-dorris
 categories:
   - Managing Digital
 tag:
@@ -12,10 +12,9 @@ tag:
   - customer satisfaction
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" %} 
-
-In our very first customer experience (CX) blog post about <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/" target="_blank">GSA’s  Office of Citizen Services and Innovative Technologies’ (OCSIT) Customer Experience Program</a>, we published our principles and values.
+In our very first customer experience (CX) blog post about <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/" target="_blank">GSA’s Office of Citizen Services and Innovative Technologies’ (OCSIT) Customer Experience Program</a>, we published our principles and values.
 
 Our core principles say that all staff will:
 
@@ -52,7 +51,7 @@ The key to be a customer-centric culture is to understand who your customers are
 
 These are all important questions as we build a customer-centric culture. These issues are critical when making business decisions. We must also acknowledge that while these principles are important, not all decisions can/will be made to satisfy our customer all the time. Particularly in the government with budget constraints, we can’t always provide the type of experience, or make every process or technology change that could result in more satisfied customers. Managing customer expectations and communicating clearly helps eliminate frustration on their part.
 
-> Put yourself in your customer’s  shoes when making business decisions. Think about the “outside” customer perspective vs. traditional thinking of “how the government does it” or “what you think is the ideal.”
+> Put yourself in your customer’s shoes when making business decisions. Think about the “outside” customer perspective vs. traditional thinking of “how the government does it” or “what you think is the ideal.”
 
 That is taking the “outside in” look at your programs, products and services. Know your customer. Take them into account from the beginning of your strategic planning:
 

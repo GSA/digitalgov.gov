@@ -1,12 +1,12 @@
 ---
-
-
+url: /2016/08/23/what-is-citizen-science-a-recent-webinar-explores-how-the-federal-government-engages-the-public-via-crowdsourcing/
 date: 2016-08-23 1:00:33 -0400
-title: 'What is Citizen Science?&nbsp;A Recent Webinar Explores How the Federal Government Engages the Public via Crowdsourcing'
-summary: 'From the National Park Service&nbsp;(NPS) to the Centers for Disease Control and Prevention (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.'
-authors: [zohaa-ahmad]
+title: What is Citizen Science? A Recent Webinar Explores How the Federal Government Engages the Public via Crowdsourcing
+summary: 'From the National Park Service&nbsp;(NPS) to the Centers for Disease Control and Prevention (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg&quot; alt=&quot;Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen'
+authors:
+  - zohaa-ahmad
 categories:
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - CDC
   - Centers for Disease Control and Prevention
@@ -23,14 +23,13 @@ tag:
 
 From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for Disease Control and Prevention](http://www.cdc.gov/) (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." %}
 
 A recent [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI) provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
 
-The federal government has seen [a surge of citizen science initiatives](https://www.WHATEVER/2016/06/24/white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years/) thanks to several developments, starting with a [memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) (OSTP) that outlined ways agencies can use citizen science. The memo also gave birth to [CitizenScience.gov](https://www.citizenscience.gov/), the government’s  new hub for all things citizen science.
+The federal government has seen [a surge of citizen science initiatives](https://www.WHATEVER/2016/06/24/white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years/) thanks to several developments, starting with a [memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) (OSTP) that outlined ways agencies can use citizen science. The memo also gave birth to [CitizenScience.gov](https://www.citizenscience.gov/), the government’s new hub for all things citizen science.
 
-“It’s  essentially the first portal for everything related to citizen science and crowdsourcing in the federal space,” said Kendrick Daniel, who manages the site for the General Services Administration (GSA).
+“It’s essentially the first portal for everything related to citizen science and crowdsourcing in the federal space,” said Kendrick Daniel, who manages the site for the General Services Administration (GSA).
 
 Daniel used the recent webinar to provide viewers an inside look at the already thriving website. Joining him for the presentation was Elizabeth Tyson, co-director of the Commons Lab at the [Woodrow Wilson International Center for Scholars](https://www.wilsoncenter.org/) (Wilson Center), who helped to define what citizens science is and offered examples of projects from the federal government.
 
@@ -48,7 +47,7 @@ Beyond this general definition are three big ideas that are enhanced by the new 
 
 If this sounds like something you or your agency want to be a part of, you should check out the [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI&feature=youtu.be) and spend some time exploring [CitizenScience.gov](https://www.citizenscience.gov/).
 
-There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s  a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
+There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
 
 [youtube=http://www.youtube.com/watch?v=FfrUME9y-wI&w=600]
 

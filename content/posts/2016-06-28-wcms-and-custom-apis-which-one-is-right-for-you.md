@@ -1,14 +1,14 @@
 ---
-
-
+url: /2016/06/28/wcms-and-custom-apis-which-one-is-right-for-you/
 date: 2016-06-28 11:00:33 -0400
-title: 'WCMS and Custom APIs&mdash;Which One Is Right for You?'
+title: WCMS and Custom APIs—Which One Is Right for You?
 summary: 'Gray Brooks of GSA gave us a great definition of APIs in the DigitalGov University (DGU) presentation,&nbsp;Introduction to APIs. He described APIs as &amp;#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways&mdash;via mobile devices, mobile apps, innovative mash-ups, and much more.&amp;#8221; Simply put,'
-authors: [christen-geiler]
+authors:
+  - christen-geiler
 categories:
   - API
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - API
   - CMS
@@ -24,22 +24,19 @@ tag:
 
 ****[Gray Brooks](https://www.WHATEVER/author/gray-brooks/) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)](https://www.WHATEVER/digitalgov-university/) presentation, [Introduction to APIs](https://www.WHATEVER/2012/07/26/introduction-to-apis/).
 
-He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways—via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221; 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
+He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways—via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221; {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
 
 Here are two examples of APIs that can enhance content offerings when integrated into a site.
 
 The [We the People API](https://petitions.whitehouse.gov/developers) allows for petitions to third-party platforms (including other petition services, personal blogs, and websites) in order to spread the word and help gather even more signatures. Any signatures collected this way, once validated, will count towards the signature threshold needed for a petition to receive an official White House response.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-450-Screen-Shot-of-We-the-People-Developers-API-page.jpg" alt="Screen capture of We the People Developers API page." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-450-Screen-Shot-of-We-the-People-Developers-API-page.jpg" alt="Screen capture of We the People Developers API page." %}
 
 &nbsp;
 
 The Consumer Product Safety Commission (CPSC) provides accessibility to recalls via a recall database. [The information is publicly available](https://www.cpsc.gov/en/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information/) to consumers and businesses as well as software and application developers.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-346-Screen-Shot-of-Consumer-Product-Safety-Commission-Recall-API-page.jpg" alt="Screen captrue of the Consumer Product Safety Commission's Recall API page" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-346-Screen-Shot-of-Consumer-Product-Safety-Commission-Recall-API-page.jpg" alt="Screen captrue of the Consumer Product Safety Commission's Recall API page" %}
 
 These are just a couple of examples of government API offerings that can be integrated into a site. Both of these solutions are written to fit various web content management systems (CMS or WCMS).
 
@@ -53,8 +50,8 @@ On the other hand, custom APIs are any RESTful APIs that you can bring in and us
 
 There are several schools of thought on the differences between the two options. You and many others in the Federal government may not have resources to hire developers to create a Custom API. In this instance, an out of the box solution (plug-in) might do the trick for what you need. Implementing this approach enables development teams to focus on building the specific products instead of putting the time into setting up servers and services configuration, which is time-consuming, and complex.
 
-Custom APIs allow a bit of flexibility.  Custom API’s  look “beyond the page” and present a new paradigm with infinite possibility.  They provide high flexibility at “site” or agency level but can lead to high complexity across agencies.  Finally, they lend themselves to developer communities and education.
+Custom APIs allow a bit of flexibility.  Custom API’s look “beyond the page” and present a new paradigm with infinite possibility.  They provide high flexibility at “site” or agency level but can lead to high complexity across agencies.  Finally, they lend themselves to developer communities and education.
 
 Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward.
 
-_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s  [API articles](https://www.WHATEVER/category/code/api/) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._
+_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles](https://www.WHATEVER/category/code/api/) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._

@@ -1,21 +1,20 @@
 ---
-
-
+url: /2013/12/13/challenge-contest-requirements/
 date: 2013-12-13 5:14:24 -0400
-title: 'Challenge Contest Requirements'
+title: Challenge Contest Requirements
 summary: 'As you&amp;#8217;re planning your challenge, you&amp;#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the Prize Authority in the America COMPETES Reauthorization Act (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions. &nbsp;Be sure'
-authors: [ktrebon]
+authors:
+  - ktrebon
 categories:
   - Challenges
 tag:
   - innovation
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-250-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist with red pen, and 3 checked boxes." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-250-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist with red pen, and 3 checked boxes." %} 
 
 <p dir="ltr">
-  As you&#8217;re planning your challenge, you&#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the <a href="https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf">Prize Authority in the America COMPETES Reauthorization Act</a> (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions.  Be sure to consult with your agency’s  attorneys on this to learn how your agency has decided to implement challenge competitions conducted under COMPETES at your agency. Challenges run under COMPETES have a few requirements, which include:
+  As you&#8217;re planning your challenge, you&#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the <a href="https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf">Prize Authority in the America COMPETES Reauthorization Act</a> (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions.  Be sure to consult with your agency’s attorneys on this to learn how your agency has decided to implement challenge competitions conducted under COMPETES at your agency. Challenges run under COMPETES have a few requirements, which include:
 </p>
 
   1. <p dir="ltr">
@@ -86,13 +85,13 @@ tag:
   </li>
 </ol>
 
-Your agency may have other authorities in addition to America COMPETES. A list of those possibilities appears in  [Guidance on the Use of Challenges and Prizes to Promote Open Government](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf) (PDF, 94 KB, 12 pages, March 2010). This memo also outlines the benefits and types of challenges and prizes. Again, you will want to consult with your own agency’s  attorneys for further guidance on any additional authorities which may apply to you.
+Your agency may have other authorities in addition to America COMPETES. A list of those possibilities appears in  [Guidance on the Use of Challenges and Prizes to Promote Open Government](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf) (PDF, 94 KB, 12 pages, March 2010). This memo also outlines the benefits and types of challenges and prizes. Again, you will want to consult with your own agency’s attorneys for further guidance on any additional authorities which may apply to you.
 
 Other Memos and Guides
 
   * UK Centre for Challenge Prizes &#8211; [Guide for Designing and Administering Inducement Competitions](http://www.nesta.org.uk/publications/challenge-prizes-practice-guide "UK Centre for Challenge Prizes Design and Administration Guide") (PDF, 2,393KB, February 2014)
   * [Open Government Directive](http://www.whitehouse.gov/open/documents/open-government-directive)—This directive called attention to the citizen engagement benefits of challenges and prizes
-  * [President’s  Strategy for American Innovation](http://www.whitehouse.gov/innovation/strategy)—The White House first called on agencies to use challenges and prizes in this September 2009 memo.
+  * [President’s Strategy for American Innovation](http://www.whitehouse.gov/innovation/strategy)—The White House first called on agencies to use challenges and prizes in this September 2009 memo.
 
 ### Familiarize Yourself with Challenges through Case Studies
 

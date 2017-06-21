@@ -1,10 +1,11 @@
 ---
-
-
+url: /2014/11/25/help-shape-public-participation/
 date: 2014-11-25 2:29:05 -0400
-title: 'Help Shape Public Participation'
+title: Help Shape Public Participation
 summary: ' Public participation&mdash;where citizens help shape and implement government programs&mdash;is a foundation of open, transparent, and engaging government services. From emergency management and regulatory development to science and education, better and more meaningful engagement with those who'
-authors: [jherman, corinna-zarek]
+authors:
+  - jherman
+  - corinna-zarek
 categories:
   - Social Media
 tag:
@@ -14,8 +15,7 @@ tag:
 
 [
   
-](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg) {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." %}
-
+](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg) [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
 
 Public participation—where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management and regulatory development to science and education, better and more meaningful engagement with those who use public services can measurably improve government for everyone.
 
@@ -23,7 +23,7 @@ A team across the government is now working side-by-side with civil society orga
 
 Developing a U.S. Public Participation Playbook has been an [open government priority](http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you), and was included in both the first and second U.S. Open Government National Action Plans as part of the United States effort to increase public integrity in government programs. This resource reflects the commitment of the government and civic partners to measurably improve participation programs, and is designed using the same inclusive principles that it champions.
 
-More than 30 federal leaders from across diverse missions in public service have collaborated on draft best practices, or “plays,” lead by the General Services Administration’s  inter-agency [SocialGov Community](https://www.WHATEVER/communities/social-media/ "Social Media"). The playbook is not limited to digital participation, and is designed to address needs from the full spectrum of public participation programs.
+More than 30 federal leaders from across diverse missions in public service have collaborated on draft best practices, or “plays,” lead by the General Services Administration’s inter-agency [SocialGov Community](https://www.WHATEVER/communities/social-media/ "Social Media"). The playbook is not limited to digital participation, and is designed to address needs from the full spectrum of public participation programs.
 
 The plays are structured to provide best practices, tangible examples, and suggested performance metrics for government activities that already exist or are under development. Some categories included in the plays include: encouraging community development and outreach, empowering participants through public/private partnerships, using data to drive decisions, and designing for inclusiveness and accessibility.
 

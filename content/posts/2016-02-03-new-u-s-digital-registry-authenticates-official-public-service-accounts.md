@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/02/03/new-u-s-digital-registry-authenticates-official-public-service-accounts/
 date: 2016-02-03 12:00:48 -0400
-title: 'New U.S. Digital Registry Authenticates Official Public Service Accounts'
+title: New U.S. Digital Registry Authenticates Official Public Service Accounts
 summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We&rsquo;d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Our Work
   - Social Media
@@ -18,12 +18,11 @@ tag:
   - U.S. Digital Registry
 ---
 
-<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" %}</a>
+<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" %}</a>
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 
-It’s  called [the U.S. Digital Registry](https://www.WHATEVER/services/u-s-digital-registry/), and we hope you’ll join us in using it to develop a new generation of services that:
+It’s called [the U.S. Digital Registry](https://www.WHATEVER/services/u-s-digital-registry/), and we hope you’ll join us in using it to develop a new generation of services that:
 
   * delivers authenticated information to users across platforms, languages and topics
   * supports cyber-security by deterring fake accounts that spread misinformation and steal personal data.
@@ -33,11 +32,11 @@ Official government websites are easy to recognize because they end in domain na
 
 You’re reading this right now on a third-party platform officially used by the government, likely shared to you through another third-party platform officially used by the government.
 
-While some of those platforms authenticate public services in order to maintain trust between their users and the information they rely on, it’s  not enough: we know there is a long way to go down a road that is ever changing.
+While some of those platforms authenticate public services in order to maintain trust between their users and the information they rely on, it’s not enough: we know there is a long way to go down a road that is ever changing.
 
 The rise of third-party platforms in delivering modern public services required us to rise beside them with greater means of maintaining accountability over official government accounts, and make it as easy to follow all public services as it was to find one.
 
-Here’s  how it works:
+Here’s how it works:
 
   1. Government agencies, including members of the collaborative inter-agency [SocialGov](https://www.WHATEVER/communities/social-media/) and [MobileGov](https://www.WHATEVER/communities/mobile/) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
   
@@ -53,11 +52,11 @@ Here’s  how it works:
   
     &#8211; Long Description, including links to Comment Policy, Terms of Service or other resources
   
-    &#8211; Collaborative Tagging (here’s  where the magic is)
+    &#8211; Collaborative Tagging (here’s where the magic is)
   2. Anyone can use that data to curate and conduct analysis across platforms, languages or by tags.
   3. Every week we continue to collect feedback from news organizations, companies, or public services on how future iterations of the U.S. Digital Registry can improve and expand.
 
-Let’s  say you want to create a new Emergency Broadcast System for the digital age that delivers only authentic, official disaster relief information regardless of what agency or sub-agency it comes from without having to hunt across platforms — in the Spanish language?
+Let’s say you want to create a new Emergency Broadcast System for the digital age that delivers only authentic, official disaster relief information regardless of what agency or sub-agency it comes from without having to hunt across platforms — in the Spanish language?
 
 Or how about curating an inventory of open source code?
 

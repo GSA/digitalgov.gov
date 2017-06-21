@@ -1,16 +1,16 @@
 ---
-
-
+url: /2016/10/21/gao-to-congress-federal-agencies-are-making-a-difference-through-open-innovation/
 date: 2016-10-21 1:00:16 -0400
-title: 'GAO to Congress\: Federal Agencies Are Making a Difference Through Open Innovation'
-summary: 'Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness. How do they do it? The answer\: open innovation. Federal agencies need to engage and collaborate with all sectors of society, a task made easier by'
-authors: [eric-beidel]
+title: 'GAO to Congress: Federal Agencies Are Making a Difference Through Open Innovation'
+summary: 'Federal agencies confront tough problems every day. In searching for solutions, agencies will want to attract different perspectives, test new products, build capacity and communities, and increase public awareness. How do they do it? The answer: open innovation. Federal agencies need to engage and collaborate with all sectors of society, a task made easier by'
+authors:
+  - eric-beidel
 categories:
   - Challenges
   - Communities
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
@@ -38,10 +38,9 @@ Federal agencies need to engage and collaborate with all sectors of society, a t
 
 OPEN INNOVATION: Practices to Engage Citizens and Effectively Implement Federal Initiatives is accompanied by an infographic and podcast, all well worth your while. Many of the highlighted activities were spearheaded by [communities](https://www.WHATEVER/communities/) represented on DigitalGov: crowdsourcing and citizen science, open data, and prize competitions.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-234-GAO-report-title.jpg" alt="Click to view the full infographic" %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-234-GAO-report-title.jpg" alt="Click to view the full infographic" %}](http://www.gao.gov/assets/690/680374.pdf)
 
-
-The GAO report is more evidence of the federal government’s  efforts to modernize its approach to innovation, something President Obama spoke about during his Oct. 15 [weekly address](https://www.whitehouse.gov/the-press-office/2016/10/15/weekly-address-ensuring-america-leads-world-next-frontier). He used the address to tout many advances in science and technology that have come as a result of innovation and collaboration between the government, industry, academia and citizens.
+The GAO report is more evidence of the federal government’s efforts to modernize its approach to innovation, something President Obama spoke about during his Oct. 15 [weekly address](https://www.whitehouse.gov/the-press-office/2016/10/15/weekly-address-ensuring-america-leads-world-next-frontier). He used the address to tout many advances in science and technology that have come as a result of innovation and collaboration between the government, industry, academia and citizens.
 
 The president cited many accomplishments that are the direct result of open innovation methods such as prize competitions, crowdsourcing and citizen science.
 
@@ -55,7 +54,7 @@ The GAO report shows the impact of open innovation through examples of 15 projec
 
 Through interviews with the agencies involved, GAO has identified steps that can lead to effective open innovation and serve as a framework for evaluating such projects. They are:
 
-  * Selecting the strategy appropriate for the purpose of engaging the public and the agency’s  capabilities
+  * Selecting the strategy appropriate for the purpose of engaging the public and the agency’s capabilities
   * Clearly defining specific goals and performance measures for the initiative
   * Identifying and engaging external stakeholders and potential partners
   * Developing plans for implementing the initiative and recruiting participants

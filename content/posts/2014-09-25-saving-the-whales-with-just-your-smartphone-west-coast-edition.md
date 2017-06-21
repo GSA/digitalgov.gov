@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/09/25/saving-the-whales-with-just-your-smartphone-west-coast-edition/
 date: 2014-09-25 10:08:00 -0400
-title: 'Saving the Whales With Just Your Smartphone\: West Coast Edition'
+title: 'Saving the Whales With Just Your Smartphone: West Coast Edition'
 summary: ' Saving the whales just got easier for West Coasters with the latest version&nbsp;of the popular Whale Alert app. This free &amp;#8220;feel-good&amp;#8221; iPhone/iPad app, developed by NOAA&amp;#8217;s Office of National Marine Sanctuaries and a long list of partners, now enables users on both U.S. coasts to'
-authors: [genevieve-contey]
+authors:
+  - genevieve-contey
 categories:
   - Mobile
 tag:
@@ -13,8 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" %}
 
 Saving the whales just got easier for West Coasters with the [latest version](https://itunes.apple.com/us/app/whale-alert-reducing-ship/id911035973?ls=1&mt=8.) of the [popular Whale Alert app](https://www.WHATEVER/2013/07/25/noaas-whale-alert-ship-strike-reduction-for-right-whales-app/).
 

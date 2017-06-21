@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/20/join-the-global-climate-change-conversation-with-nasas-earth-now/
 date: 2014-11-20 10:00:52 -0400
-title: 'Join the Global Climate Change Conversation with NASA&amp;#8217;s Earth Now'
-summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s vital signs from NASA’s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon monoxide,'
-authors: [kdowney]
+title: 'Join the Global Climate Change Conversation with NASA&#8217;s Earth Now'
+summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth&rsquo;s vital signs from NASA&rsquo;s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon monoxide,'
+authors:
+  - kdowney
 categories:
   - Mobile
 tag:
@@ -13,10 +13,9 @@ tag:
   - Thursday Mobile Products
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" %}
-
-Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s  vital signs from NASA’s  Earth Now mobile app.
+Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s vital signs from NASA’s Earth Now mobile app.
 
 Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon monoxide, ozone, and water vapor, as well as gravity and sea level variations.
 
@@ -24,7 +23,7 @@ This app not only shows you the current vital signs of the planet, but also expl
 
 So what does NASA have to do with climate change?
 
-NASA is an expert in climate and Earth science and its purview includes providing the robust scientific data needed to understand climate change and evaluating the impact of efforts to combat it, according to NASA’s  website. NASA makes this information available to the global community. For more information, see [NASA&#8217;s role](http://climate.nasa.gov/nasa_role/).
+NASA is an expert in climate and Earth science and its purview includes providing the robust scientific data needed to understand climate change and evaluating the impact of efforts to combat it, according to NASA’s website. NASA makes this information available to the global community. For more information, see [NASA&#8217;s role](http://climate.nasa.gov/nasa_role/).
 
 The Earth Now app displays a 3-D model of Earth that you can spin, rotate and zoom in and out to see how each climate data map affects a specific area. For instance, select the “Ozone” vital sign and you can zoom in to see the severely depleted region over Antarctica between the months of August and October. The app goes on to explain what ozone is and how it functions on Earth.
 

@@ -1,19 +1,18 @@
 ---
-
-
+url: /2013/06/26/making-multimedia-section-508-compliant-and-accessible/
 date: 2013-06-26 2:18:22 -0400
-title: 'Making Multimedia Section 508 Compliant and Accessible'
-summary: 'You&amp;#8217;ve seen videos, podcasts, and audio files on your favorite sites&mdash;whether they&amp;#8217;re government, private sector, or entertainment sites. These are often viral media\: media clips that are wildly popular, are shared through blogs or e—mail, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in'
-authors: [angela-hooker]
+title: Making Multimedia Section 508 Compliant and Accessible
+summary: 'You&amp;#8217;ve seen videos, podcasts, and audio files on your favorite sites&mdash;whether they&amp;#8217;re government, private sector, or entertainment sites. These are often viral media: media clips that are wildly popular, are shared through blogs or e&ndash;mail, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in'
+authors:
+  - angela-hooker
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - accessibility
   - section 508
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/250-x-143-disabled-button-goldy-iStock-Thinkstock-494125429.jpg" alt="A disabled symbol on a keyboard button" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/250-x-143-disabled-button-goldy-iStock-Thinkstock-494125429.jpg" alt="A disabled symbol on a keyboard button" %} 
 
 You&#8217;ve seen videos, podcasts, and audio files on your favorite sites—whether they&#8217;re government, private sector, or entertainment sites. These are often viral media: media clips that are wildly popular, are shared through blogs or e–mail, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in the &#8220;social web,&#8221; to further their missions and support the President&#8217;s mandate for [government agencies to be transparent and collaborative](http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/) with U.S. citizens. However, we also have the challenge of presenting government content in an accessible format. It&#8217;s no secret that many sites where users post media are not Section 508 conformant (compliant) nor are they accessible. Here are the facts, requirements, and resources for posting media files that your site&#8217;s visitors can easily access.
 

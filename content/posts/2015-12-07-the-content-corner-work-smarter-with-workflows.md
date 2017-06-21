@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/12/07/the-content-corner-work-smarter-with-workflows/
 date: 2015-12-07 10:00:55 -0400
-title: 'The Content Corner\: Work Smarter with Workflows'
+title: 'The Content Corner: Work Smarter with Workflows'
 summary: 'I noticed recently that I have spent a decent amount of time discussing or referencing content workflow, but I haven&rsquo;t spent much time on how to actually create or use workflows. Developing content workflows can be a fairly painless process that can make your regular content creation a much smoother and efficient process. Content workflows'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - Content
   - Managing Digital
@@ -15,8 +15,7 @@ tag:
   - workflows
 ---
 
-I noticed recently that I have spent a decent amount of time discussing or [referencing content workflow](http://find.WHATEVER/search?utf8=%E2%9C%93&affiliate=digitalgov&query=workflow), but I haven’t spent much time on how to actually create or use workflows. Developing content workflows can be a fairly painless process that can make your regular content creation a much smoother and efficient process. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Flow-Chart-Diagram-Concept-Infografx-iStock-Thinkstock-490245946.jpg" alt="Flow Chart Diagram Concept" %} 
+I noticed recently that I have spent a decent amount of time discussing or [referencing content workflow](http://find.WHATEVER/search?utf8=%E2%9C%93&affiliate=digitalgov&query=workflow), but I haven’t spent much time on how to actually create or use workflows. Developing content workflows can be a fairly painless process that can make your regular content creation a much smoother and efficient process. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Flow-Chart-Diagram-Concept-Infografx-iStock-Thinkstock-490245946.jpg" alt="Flow Chart Diagram Concept" %} 
 
 Content workflows will vary depending on your agency and can cover specific topics such as blog workflows, social media workflows or even general site maintenance. The main benefit here is to establish a repeatable routine that others (even yourself) can be trained to follow to make sure steps aren’t missed in your hectic schedule.
 
@@ -24,8 +23,7 @@ Content workflows will vary depending on your agency and can cover specific topi
 
 One of the societal changes the Web has precipitated is the democratization of the content creation process. Anyone can create and publish content in a variety of formats and platforms. Previously, I discussed the power of [user-generated content](https://www.WHATEVER/2015/09/21/the-content-corner-harness-the-power-of-user-generated-content/) and the critical role workflows play in that process. One of the most critical user groups, however, are your peers and members of your team. The development of a workflow allows for a more open content creation structure and allows for delegation.
 
-Delegation of steps in the content creation process can be powerful in a variety of ways. The first is delegation of specific steps: it can free you or other content creators to focus more on just the writing and creation tasks. For example, if you can develop a workflow and have a team member handle the copy editing and [SEO](https://www.WHATEVER/2015/11/30/the-content-corner-the-balance-between-seo-and-the-user/) review portion, then the writer can focus more on sharing their [subject matter knowledge](https://www.WHATEVER/2015/11/02/the-content-corner-the-joys-of-the-content-template/). This process works wonderfully in my experience (thanks to my amazing editors at DigitalGov, by the way). 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" %} 
+Delegation of steps in the content creation process can be powerful in a variety of ways. The first is delegation of specific steps: it can free you or other content creators to focus more on just the writing and creation tasks. For example, if you can develop a workflow and have a team member handle the copy editing and [SEO](https://www.WHATEVER/2015/11/30/the-content-corner-the-balance-between-seo-and-the-user/) review portion, then the writer can focus more on sharing their [subject matter knowledge](https://www.WHATEVER/2015/11/02/the-content-corner-the-joys-of-the-content-template/). This process works wonderfully in my experience (thanks to my amazing editors at DigitalGov, by the way). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" %} 
 
 Delegation can also open the content creation process to other team members with similar expertise, but different perspectives. Sharing ideas and leveraging these different views can really provide a much richer content creation process. It&#8217;s not quite [crowd-sourcing](https://www.WHATEVER/2014/12/30/opening-government-through-federal-crowdsourcing/) content creation, but it does allow for the integration of your team&#8217;s varied experiences and perspectives on topics. I love working with teams on projects because I know I don’t have all the answers and I am not the beginning and end of wisdom. Just as the Web opened up content creation, it also opened up the sharing of opinions that can help (<a href="http://digiday.com/publishers/comments-sections/" target="_blank">albeit rarely these days</a>) strengthen your content.
 
@@ -38,7 +36,7 @@ I can hear many of you as you start reading this (it&#8217;s a special skill I h
 As an example, here is my normal workflow that I follow in order to bring you a sensational [Content Corner](https://www.WHATEVER/tag/the-content-corner/) blog post every Monday.
 
   1. Review topics added to my [editorial calendar](https://www.WHATEVER/2015/07/27/the-content-corner-supporting-your-content/).
-  2. Review DigitalGov’s  [monthly theme](https://www.WHATEVER/category/monthly-theme/).
+  2. Review DigitalGov’s [monthly theme](https://www.WHATEVER/category/monthly-theme/).
   3. Draft blog post (possibly just headings or a list of bullets).
   4. Complete first full draft of blog post.
   5. Review for basic copy edit errors and SEO/readability issues.

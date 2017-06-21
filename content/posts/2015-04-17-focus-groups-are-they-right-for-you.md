@@ -1,27 +1,26 @@
 ---
-
-
+url: /2015/04/17/focus-groups-are-they-right-for-you/
 date: 2015-04-17 11:10:32 -0400
-title: 'Focus Groups\: Are They Right for You?'
-summary: ' The short answer is\: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way to'
-authors: [stacey-sarris]
+title: 'Focus Groups: Are They Right for You?'
+summary: ' The short answer is: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way to'
+authors:
+  - stacey-sarris
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - user experience
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." %}
 
 The short answer is: it depends on your goals. If you Google “focus group,” you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are.
 
 ## What Is a Focus Group?
 
-Focus groups are an inexpensive way to identify people’s  preferences, motivations, thoughts, feelings and attitude towards a product or service. In a typical focus group, approximately 6 to 10 people spend 60 to 90 minutes voicing their opinions about your website or application. They differ from usability studies in that they show participants’ attitudes towards a particular item, whereas usability studies reveal how things are used.
+Focus groups are an inexpensive way to identify people’s preferences, motivations, thoughts, feelings and attitude towards a product or service. In a typical focus group, approximately 6 to 10 people spend 60 to 90 minutes voicing their opinions about your website or application. They differ from usability studies in that they show participants’ attitudes towards a particular item, whereas usability studies reveal how things are used.
 
 <table border="0">
   <tr>
@@ -89,7 +88,7 @@ Focus groups are an inexpensive way to identify people’s  preferences, motivat
           Reveals information that otherwise may have gone undiscovered
         </li>
         <li>
-          People often build on each other’s  thoughts, creating a rich understanding and new ideas
+          People often build on each other’s thoughts, creating a rich understanding and new ideas
         </li>
         <li>
           Clarifies misunderstandings

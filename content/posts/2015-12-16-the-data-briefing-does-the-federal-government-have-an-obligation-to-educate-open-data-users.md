@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/12/16/the-data-briefing-does-the-federal-government-have-an-obligation-to-educate-open-data-users/
 date: 2015-12-16 10:00:07 -0400
-title: 'The Data Briefing\: Does the Federal Government Have an Obligation to Educate Open Data Users?'
-summary: 'Pop quiz on statistics and data science (answers at the end of the article)\: 1) I have some data on accidents at railroad crossings. One variable indicates the compass direction a railroad crossing faces (North, Northwest, Northeast, and so on). This variable is a/an\: Ordinal Categorical Directional Interval 2) I have some ordinal data that'
-authors: [bbrantley]
+title: 'The Data Briefing: Does the Federal Government Have an Obligation to Educate Open Data Users?'
+summary: 'Pop quiz on statistics and data science (answers at the end of the article): 1) I have some data on accidents at railroad crossings. One variable indicates the compass direction a railroad crossing faces (North, Northwest, Northeast, and so on). This variable is a/an: Ordinal Categorical Directional Interval 2) I have some ordinal data that'
+authors:
+  - bbrantley
 categories:
   - Data
 tag:
@@ -38,8 +38,7 @@ Pop quiz on statistics and data science (answers at the end of the article):
   <li>
     Interval
   </li>
-</ol> 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Key-hole-background-Sergey-Nivens-iStock-Thinkstock-180206412.jpg" alt="Concept art: An old-fashioned keyhole shape that is cut out of a blackboard displaying various types of data lets light into the room" %} 
+</ol> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Key-hole-background-Sergey-Nivens-iStock-Thinkstock-180206412.jpg" alt="Concept art: An old-fashioned keyhole shape that is cut out of a blackboard displaying various types of data lets light into the room" %} 
 
 2) I have some ordinal data that I want to analyze for trends. Would the one-sample t-test be appropriate to analyze my data?
 
@@ -73,8 +72,7 @@ Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a h
 
 Once the data is in good shape, the user would need to know how to use the data. That involves understanding basic statistics so as to know the appropriate statistical techniques to apply for analysis and visualization. Alternatively, an app developer would need to know how to create a well-formed request to an API (application programming interface).
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." %}
 
 As I often tell my students, there are many good tools out there that allow one to create in-depth statistical analysis or build a sophisticated mobile app easily and with little knowledge. That is a benefit and a curse. A benefit is that the tools make it much easier to extract the value out of government datasets and a curse is that the wrong conclusions can be drawn from a badly-analyzed dataset. Alternatively, even worse, damages can result from relying upon a poorly-designed app that uses a government API.
 
@@ -90,4 +88,4 @@ _Answers to the pop quiz: 1.B; 2. B; 3. D_.
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

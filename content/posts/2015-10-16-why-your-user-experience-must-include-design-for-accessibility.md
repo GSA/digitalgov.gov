@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/16/why-your-user-experience-must-include-design-for-accessibility/
 date: 2015-10-16 10:00:52 -0400
-title: 'Why Your User Experience Must Include Design for Accessibility'
+title: Why Your User Experience Must Include Design for Accessibility
 summary: 'Too often, usability and accessibility are confused with each other by our clients (stakeholders). They shouldn&rsquo;t be, because while they are related, they are very different. So, how do you bring these two concepts together? They should really be working side-by-side throughout the ENTIRE process. This might seem like a no-brainer but it can be'
-authors: [justin-dopke]
+authors:
+  - justin-dopke
 categories:
   - Accessibility
   - UX
@@ -16,8 +16,7 @@ tag:
   - user experience
 ---
 
-Too often, usability and accessibility are confused with each other by our clients (stakeholders). They shouldn’t be, because while they are related, they are very different. So, how do you bring these two concepts together? They should really be working side-by-side throughout the ENTIRE process. This might seem like a no-brainer but it can be a challenge. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-400-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." %} 
+Too often, usability and accessibility are confused with each other by our clients (stakeholders). They shouldn’t be, because while they are related, they are very different. So, how do you bring these two concepts together? They should really be working side-by-side throughout the ENTIRE process. This might seem like a no-brainer but it can be a challenge. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-400-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." %} 
 
 First things first, Section 508 of the U.S. Rehabilitation Act is a LAW. It has teeth. Agencies and organizations have been sued because of it. Section 508 exists for a very good reason: it states that electronic and information technology developed, procured, maintained, or used by the federal government be accessible to people with disabilities. Find a [definitive source and refer to it](http://www.section508.gov/). Consistency in interpretation here is very important. Usability, on the other hand doesn’t have this legal threat, but it does carry the possibility of bad press—a bad reputation tends to hang overhead like a storm cloud. It can be hard to shake—ask any school kid. Interpretation of what is “usable” can be a moving target. It is often contextual, and can be hard to nail down. Again, having a consistent and reliable resource you can refer to is vital. An agency style guide or design (pattern) library can be really helpful.
 

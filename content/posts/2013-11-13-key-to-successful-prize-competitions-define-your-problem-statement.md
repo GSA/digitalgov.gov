@@ -1,20 +1,19 @@
 ---
-
-
+url: /2013/11/13/key-to-successful-prize-competitions-define-your-problem-statement/
 date: 2013-11-13 1:06:21 -0400
-title: 'Key to Successful Prize Competitions\: Define Your Problem Statement'
+title: 'Key to Successful Prize Competitions: Define Your Problem Statement'
 summary: 'In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&amp;#8217;t actually solve your issue. To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare off'
-authors: [tlowden]
+authors:
+  - tlowden
 categories:
   - Challenges
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - ChallengeGov
   - challenges and prize competitions
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" %}
-In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
 
 To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare off potential entrants. So use all the data available or even collect new data to pinpoint the crux of the issue. Don&#8217;t run  a competition for the sake of doing it.  Competitions can be powerful tools to solve real problems facing your agency &#8212; if properly designed.
 
@@ -32,4 +31,4 @@ Company X is the sole orange juice manufacturer in a valley located in a state n
 
 By the time Company X arrived at the third statement, it would have had to invest time to do research with different stakeholders to really define the problem. But it&#8217;s easy to see how the company will get better results when the issue has been properly identified. And as this example shows, you may have to iterate your problem statement multiple times before you arrive at one that is concrete enough to attract the best solutions.
 
-If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <a href="mailto:challenges@gsa.gov">challenges@gsa.gov</a>. For more information, visit the [Challenge.gov page](https://www.WHATEVER/services/challenge-gov/ "Challenge.gov").
+If you need help thinking through your problem statement and designing your challenge, get in touch with us at one of our weekly office hours or at <challenges@gsa.gov>. For more information, visit the [Challenge.gov page](https://www.WHATEVER/services/challenge-gov/ "Challenge.gov").

@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/07/02/using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study/
 date: 2014-07-02 1:51:51 -0400
-title: 'Using Top Tasks to be Top-Notch\: Federal Reserve Board Usability Case Study'
+title: 'Using Top Tasks to be Top-Notch: Federal Reserve Board Usability Case Study'
 summary: 'In 2012, the Federal Reserve Board used the Top-task&nbsp;methodology to redesign our intranet, called Inside the Board, which had not been significantly updated since it was launched in 1995. After determining the top tasks the&nbsp;audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project'
-authors: [ben-rosset]
+authors:
+  - ben-rosset
 categories:
   - Communities
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - AoI
@@ -19,12 +19,11 @@ tag:
   - User Experience Community of Practice
 ---
 
-In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s  employees.
+In 2012, the [Federal Reserve Board](http://www.federalreserve.gov/) used the _Top-task_ methodology to redesign our intranet, called _Inside the Board_, which had not been significantly updated since it was launched in 1995. After determining the top tasks the audience needs to accomplish on a website, you can run usability tests to gain knowledge and improve the site. The project was wildly successful. Task completion ratings rose to more than 90% after the redesign, from 58% on the legacy site—drastically increasing the productivity of the Board’s employees.
 
 Below are the before (58% task completion) and the after (90+% task completion) screenshots of _Inside the Board:_
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-345-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-1-and-2.jpg" alt="The image on the left shows a screen capture of the old website with task completion at 58 percent. The image on the right shows the new website with task completion at 90 percent." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-345-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-1-and-2.jpg" alt="The image on the left shows a screen capture of the old website with task completion at 58 percent. The image on the right shows the new website with task completion at 90 percent." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/929-x-590-Better12.jpg)
 
 &nbsp;
 
@@ -32,8 +31,7 @@ Below are the before (58% task completion) and the after (90+% task completion) 
 
 Top-task methodology is a simple, 5-step process that makes it as easy as possible for users to complete the tasks that are most important to them.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/570-x-334-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-3.jpg" alt="A chart of the Top-task process, outlining 5 steps: 1) List Tasks 2) Rank tasks 3) Card sort 4) First-click testing and 5) Homepage testing" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/570-x-334-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-3.jpg" alt="A chart of the Top-task process, outlining 5 steps: 1) List Tasks 2) Rank tasks 3) Card sort 4) First-click testing and 5) Homepage testing" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/833-x-556-Better3.jpg)
 
 &nbsp;
 
@@ -47,8 +45,7 @@ Send a one-question survey to your entire user base (or a representative sample,
 
 Here are what we determined to be the top 20 tasks on _Inside the Board:_
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/550-x-625-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-4.jpg" alt="550 x 625 Top Tasks Federal Reserve Board Usability Case Study Better 4" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/550-x-625-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-4.jpg" alt="550 x 625 Top Tasks Federal Reserve Board Usability Case Study Better 4" %}
 
 &nbsp;
 
@@ -56,8 +53,7 @@ Here are what we determined to be the top 20 tasks on _Inside the Board:_
 
 Using either in-person or online card sorts (we like to use online sorts), present the top 30-50 tasks to your users, each on a separate card. Ask the users to group those tasks together into “buckets” that make sense to them. Typically, 4-8 buckets are customary. Then ask the users to name each bucket they created. This step begins to form what we call your _menu structure hypothesis_.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/570-x-381-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-5.jpg" alt="Example in-person card sort (not Inside the Board)" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/570-x-381-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-5.jpg" alt="Example in-person card sort (not Inside the Board)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/667-x-440-Better5.jpg)
 
 &nbsp;
 
@@ -67,8 +63,7 @@ Now it&#8217;s time to test the menu structure hypothesis you just created in yo
 
 An example of a first-click test:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-374-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-6.jpg" alt="Example of a first-click test" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-374-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-6.jpg" alt="Example of a first-click test" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/934-x-637-Better6.jpg)
 
 &nbsp;
 
@@ -78,8 +73,7 @@ Finally you’re to the point where you can mockup a full-color representation o
 
 Here is a heatmap test of the homepage:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-434-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-7.jpg" alt="Heat map test of Inside the Board" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-434-Top-Tasks-Federal-Reserve-Board-Usability-Case-Study-Better-7.jpg" alt="Heat map test of Inside the Board" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/1010-x-793-Better7.jpg)
 
 &nbsp;
 

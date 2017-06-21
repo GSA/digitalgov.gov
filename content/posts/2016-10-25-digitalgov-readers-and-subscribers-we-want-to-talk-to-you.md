@@ -1,15 +1,15 @@
 ---
-
-
+url: /2016/10/25/digitalgov-readers-and-subscribers-we-want-to-talk-to-you/
 date: 2016-10-25 3:00:21 -0400
-title: 'DigitalGov Readers and Subscribers\: We Want to Talk to You'
+title: 'DigitalGov Readers and Subscribers: We Want to Talk to You'
 summary: 'As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community.  Over the course of the next few weeks, a small team from 18F'
-authors: [18f-team]
+authors:
+  - 18f-team
 categories:
   - Content
   - Managing Digital
   - Our Work
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - content
@@ -17,7 +17,7 @@ tag:
   - CX
   - DGU
   - DigitalGov University
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - research
   - user centered design
@@ -25,8 +25,7 @@ tag:
 
 As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-372-dg-research-illio.jpg" alt="Two overlapping chat bubbles." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-372-dg-research-illio.jpg" alt="Two overlapping chat bubbles." %}
 
 Over the course of the next few weeks, a small team from 18F and Office of Products and Programs are working on reimagining a future DigitalGov and DigitalGov University.
 

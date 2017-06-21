@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/08/15/get-out-of-the-jargon-trap-plain-language-training-can-help/
 date: 2014-08-15 10:00:22 -0400
-title: 'Get Out of the Jargon Trap\: Plain Language Training Can Help'
-summary: 'The Plain Language Action and Information Network (PLAIN) is the official federal working group designated to help agencies with plain language, including training. PLAIN offers free 3.5-hour classes in the principles of plain language and plain language for Web writing.'
-authors: [wendy-wagner-smith]
+title: 'Get Out of the Jargon Trap: Plain Language Training Can Help'
+summary: The Plain Language Action and Information Network (PLAIN) is the official federal working group designated to help agencies with plain language, including training. PLAIN offers free 3.5-hour classes in the principles of plain language and plain language for Web writing.
+authors:
+  - wendy-wagner-smith
 categories:
   - Writing
 tag:
@@ -50,6 +50,6 @@ If you are not quite ready to become a trainer but still are interested in learn
 
 PLAIN volunteers have taught hundreds of classes at agencies across the federal government since the Plain Writing Act passed in 2010 (and before), reaching several thousand federal employees with the message that clear writing is vital to good government, to the public we serve, and for us as we work in our daily jobs.
 
-Judging by the fun we’re having and the number of public servants who are making earnest efforts to write better, it’s  working, but we still need more help. Think about throwing your hat in the ring and becoming a trainer. You’ll be part of a small group that’s  making big change happen.
+Judging by the fun we’re having and the number of public servants who are making earnest efforts to write better, it’s working, but we still need more help. Think about throwing your hat in the ring and becoming a trainer. You’ll be part of a small group that’s making big change happen.
 
 _**Wendy Wagner-Smith** is a senior writer-editor for the Office of Financial Research at the U.S. Department of the Treasury. She has been teaching plain language at agencies across the federal government on behalf of PLAIN since November 2007. She currently serves as training coordinator helping the PLAIN co-chairs find volunteer trainers for plain language class requests. The views in this blog are her own and do not represent the views of her agency._

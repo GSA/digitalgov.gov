@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/17/trends-on-tuesday-big-ideas-from-mobile-world-congress/
 date: 2015-03-17 10:00:10 -0400
-title: 'Trends on Tuesday\: Big Ideas from Mobile World Congress'
-summary: ' Mobile World Congress, the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across all'
-authors: [wsullivan]
+title: 'Trends on Tuesday: Big Ideas from Mobile World Congress'
+summary: ' Mobile World Congress, the world&rsquo;s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year&rsquo;s show shattered previous records with more than 93,000 attendees across all'
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -17,10 +17,9 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" %}
-
-[Mobile World Congress](http://mobileworldcongress.com/), the world’s  largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s  show shattered previous records with more than 93,000 attendees across all the areas that mobile touches. Here are a few notable trends and topics that I came away with and what government agencies should learn from them:
+[Mobile World Congress](http://mobileworldcongress.com/), the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across all the areas that mobile touches. Here are a few notable trends and topics that I came away with and what government agencies should learn from them:
 
 ### Phone Sizes
 
@@ -42,12 +41,11 @@ It is challenging to begin preparing for a 5G world since the final specificatio
 
 For instance, when 5G networks become a reality, streaming video at ultra high definition quality (like the new [4K standard](http://en.wikipedia.org/wiki/4K_resolution)) could become a reality and the infrastructure and technology to manage that would be substantial.
 
-For more about some of the specifications being proposed from industry groups, check out the [Next Generation Mobile Networks alliance 5G Whitepaper](http://ngmn.org/fileadmin/ngmn/content/images/news/ngmn_news/NGMN_5G_White_Paper_V1_0.pdf) or the [European Union’s  5G Public Private Partnership proposal](http://5g-ppp.eu/wp-content/uploads/2015/02/5G-Vision-Brochure-v1.pdf).
+For more about some of the specifications being proposed from industry groups, check out the [Next Generation Mobile Networks alliance 5G Whitepaper](http://ngmn.org/fileadmin/ngmn/content/images/news/ngmn_news/NGMN_5G_White_Paper_V1_0.pdf) or the [European Union’s 5G Public Private Partnership proposal](http://5g-ppp.eu/wp-content/uploads/2015/02/5G-Vision-Brochure-v1.pdf).
 
 ### The Internet of Things
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" %}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything](https://www.WHATEVER/2015/02/26/the-internet-of-everything-small-business-opportunities/ "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" %}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything](https://www.WHATEVER/2015/02/26/the-internet-of-everything-small-business-opportunities/ "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
 
 The most impressive demo I saw was from Oral B, that was introducing a Bluetooth enabled toothbrush that tracked the sensitivity, time and location of your brushing and offered feedback, customized brushing plans and data tracking over time, as well as weather and news information on your phone while it timed your brushing time. I don’t know if everyone would feel completely comfortable with taking this approach to every aspect of their life being tracked, ranked and connected, but The Internet of Things is coming, and government agencies are going to have to prepare for regulatory, bandwidth and security challenges and opportunities—especially in the health and public utility areas.
 

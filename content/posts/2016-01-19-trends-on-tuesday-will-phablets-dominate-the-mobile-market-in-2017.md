@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/19/trends-on-tuesday-will-phablets-dominate-the-mobile-market-in-2017/
 date: 2016-01-19 10:17:15 -0400
-title: 'Trends on Tuesday\: Will Phablets Dominate the Mobile Market in 2017?'
+title: 'Trends on Tuesday: Will Phablets Dominate the Mobile Market in 2017?'
 summary: 'Phablets, once mocked for their large size, may&nbsp;be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. Flurry Mobile, part of Yahoo&amp;#8217;s mobile analytics division, published two reports about phablet devices at the beginning of the new year, showing their continued growth and that people use'
-authors: [wsullivan]
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -14,8 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-__Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-468-Flurry-Chart-for-Distribution-of-New-Devices-by-Form-Factor-and-Operating-System-December-19th-to-25th-2015.jpg" %} 
+__Phablets, once mocked for their large size, may be the next big form factor dominating mobile devices, if new data from the holiday season is any indication. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-468-Flurry-Chart-for-Distribution-of-New-Devices-by-Form-Factor-and-Operating-System-December-19th-to-25th-2015.jpg" alt="A Flurry Analytics chart covering Android and i O S data from December 19 to 25, 2015 that is titled, "Distribution of New Devices by Form Factor and Operating System."" %} 
 
 Flurry Mobile, part of Yahoo&#8217;s mobile analytics division, published [two reports about phablet devices](https://developer.yahoo.com/) at the beginning of the new year, showing their continued growth and that people use them more than traditional or smaller mobile devices.
 
@@ -26,8 +25,7 @@ The percentage of new phablet-sized phone activations during the 2014-2015 holid
   
   <p>
     &nbsp;
-  </p> 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-468-Flurry-Chart-for-Growth-Rate-of-Media-Apps-Over-indexes-on-Phablets.jpg" %} 
+  </p> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-468-Flurry-Chart-for-Growth-Rate-of-Media-Apps-Over-indexes-on-Phablets.jpg" alt="A Flurry Analytics chart covering the 2014 to 2015 year-over-year growth rate that is titled, "Growth Rate of Media Apps Over indexes on Phablets."" %} 
   
   <p>
     A week later, another report </span><span style="font-weight: 400">cited how <a href="http://flurrymobile.tumblr.com/post/136677391508/stateofmobile2015">average mobile app usage grew more than 58% year-over-year</a>. Phablets contributed to this growth: phablet users spend 5.34 times more time in news and magazines apps, 5.16 times longer in sports apps and 4.19 times longer in music and other media apps. The extra inch or two of screen real estate makes phablets exponentially more appealing for longer usage, compared to smaller phones.</p> 

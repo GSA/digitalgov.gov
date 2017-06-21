@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/03/12/resources-and-tools-for-apis/
 date: 2013-03-12 12:41:05 -0400
-title: 'Resources and Tools for APIs'
+title: Resources and Tools for APIs
 summary: 'Hosted API Tools Labs.Data.gov&nbsp;is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to&nbsp;improve any project&nbsp;and submit pull requests in order to share the improvements with others. API Standards Template With the open'
-authors: [gray-brooks]
+authors:
+  - gray-brooks
 categories:
   - API
   - Code
@@ -23,8 +23,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-## <a name="hosted-api-tools"></a>Hosted API Tools 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+## <a name="hosted-api-tools"></a>Hosted API Tools {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
 [Labs.Data.gov](http://labs.data.gov/) is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to [improve any project](http://labs.data.gov/) and submit pull requests in order to share the improvements with others.
 
@@ -34,8 +33,8 @@ With the open source release of the [White House&#8217;s API Standards template]
 
 ## <a name="examples-apis-government"></a>Examples of APIs in Government
 
-  * APIs That Power Agency-Built Mobile Apps—[CDC’s  Content API](http://tools.cdc.gov/syndication/api.aspx), [Census Bureau economic APIs](http://www.census.gov/developers/), [Federal Motor Carrier Safety Administration’s  SaferBus API](https://mobile.fmcsa.dot.gov/developer/home.page)
-  * APIs That Power Agency Websites—[GSA’s  Social Media Registry API](http://www.usa.gov/About/developer-resources/social-media-registry.shtml), [FCC’s  National Broadband Map APIs](http://www.broadbandmap.gov/developer)
+  * APIs That Power Agency-Built Mobile Apps—[CDC’s Content API](http://tools.cdc.gov/syndication/api.aspx), [Census Bureau economic APIs](http://www.census.gov/developers/), [Federal Motor Carrier Safety Administration’s SaferBus API](https://mobile.fmcsa.dot.gov/developer/home.page)
+  * APIs That Power Agency Websites—[GSA’s Social Media Registry API](http://www.usa.gov/About/developer-resources/social-media-registry.shtml), [FCC’s National Broadband Map APIs](http://www.broadbandmap.gov/developer)
   * Single Endpoint API Set—[Department of Labor](http://developer.dol.gov/)
   * Website Content APIs—[CDC](http://tools.cdc.gov/syndication/api.aspx), [FCC](http://www.fcc.gov/developers/fcc-content-api), [SBA](http://www.sba.gov/about-sba-info/140931)
   * For more examples, note the individual APIs [within agency&#8217;s developer hubs](https://github.com/GSA/slash-developer-pages#readme)

@@ -1,23 +1,22 @@
 ---
-
-
+url: /2016/09/21/the-data-briefing-should-u-s-federal-employees-become-data-science-literate/
 date: 2016-09-21 11:00:24 -0400
-title: 'The Data Briefing\: Should U.S. Federal Employees Become Data Science Literate?'
-summary: 'The United Kingdom’s (UK) Digital Service has researched ways to increase data science literacy among the UK public service. Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK'
-authors: [bbrantley]
+title: 'The Data Briefing: Should U.S. Federal Employees Become Data Science Literate?'
+summary: 'The United Kingdom&rsquo;s (UK) Digital Service has researched ways to increase data science literacy among the UK public service. Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK'
+authors:
+  - bbrantley
 categories:
   - Data
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - data
   - open data
   - The Data Briefing
 ---
 
-The United Kingdom’s  (UK) Digital Service has researched ways to [increase data science literacy among the UK public service](https://data.blog.gov.uk/2016/09/02/ideas-to-help-civil-servants-to-understand-the-opportunities-of-data/). Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK Digital Service’s  findings to help federal government employees develop their data science literacy. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Magnifying-Glass-and-Multicolored-Pie-Chart-Mohitchoudhary-iStock-Thinkstock-538654186.jpg" alt="Magnifying Glass and Multicolored Pie Chart" %} 
+The United Kingdom’s (UK) Digital Service has researched ways to [increase data science literacy among the UK public service](https://data.blog.gov.uk/2016/09/02/ideas-to-help-civil-servants-to-understand-the-opportunities-of-data/). Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK Digital Service’s findings to help federal government employees develop their data science literacy. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Magnifying-Glass-and-Multicolored-Pie-Chart-Mohitchoudhary-iStock-Thinkstock-538654186.jpg" alt="Magnifying Glass and Multicolored Pie Chart" %} 
 
-Before discussing how to increase the data science skills of federal employees, let’s  discuss why. On March 30th of this year, President Obama signed the [Evidence-Based Policymaking Commission Act](https://www.whitehouse.gov/omb/management/commission_evidence). According to the Office of Management and Budget: “The 15-member Commission is charged with examining all aspects of how to increase the availability and use of government data to build evidence and inform program design while protecting privacy and confidentiality of those data.”
+Before discussing how to increase the data science skills of federal employees, let’s discuss why. On March 30th of this year, President Obama signed the [Evidence-Based Policymaking Commission Act](https://www.whitehouse.gov/omb/management/commission_evidence). According to the Office of Management and Budget: “The 15-member Commission is charged with examining all aspects of how to increase the availability and use of government data to build evidence and inform program design while protecting privacy and confidentiality of those data.”
 
 The Commission has three charges:
 
@@ -37,4 +36,4 @@ For the government employee who wants to learn data science on their own, there 
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

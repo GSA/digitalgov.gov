@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/04/01/why-we-launched-a-snapchat-account-and-how-well-measure-success/
 date: 2016-04-01 11:00:14 -0400
-title: 'Why We Launched A Snapchat Account and How We&rsquo;ll Measure Success'
+title: Why We Launched A Snapchat Account and How We’ll Measure Success
 summary: 'Yesterday, we shared our Snapchat account with the public. After weeks of testing the tool to iron out kinks and determine how we&rsquo;d make content accessible, we were excited to go public when the official government-friendly terms of service were signed.  So now you may be asking, why is'
-authors: [jessica-milcetich]
+authors:
+  - jessica-milcetich
 categories:
   - Social Media
 tag:
@@ -13,8 +13,7 @@ tag:
 
 Yesterday, we shared our Snapchat account with the public. After weeks of testing the tool to iron out kinks and [determine how we’d make content accessible](https://blog.usa.gov/why-we-launched-a-snapchat-account-and-how-well-measure-success), we were excited to go public when the official government-friendly terms of service were signed.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" %}
 
 So now you may be asking, why is the U.S. government using Snapchat and what will it be sharing?
 
@@ -26,15 +25,14 @@ Here are our top three reasons for using Snapchat.
 
 ## How we plan to measure success
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12.jpg" alt="250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12" %}We never launch on a new platform without first thinking through how we’ll measure whether we’re successful.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12.jpg" alt="250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12" %}We never launch on a new platform without first thinking through how we’ll measure whether we’re successful.
 
 Snapchat provides some very basic information that we’ll be using to track our success:
 
   * **Followers:** We’ll measure our audience size after six months and assess growth. Are we seeing new followers being added or are people unfollowing us?
   * **Views/Completion Rate:** Snapchat lets you see how many people are watching your story and where they drop off in the process. We’ll measure those numbers to determine if people are watching the whole story or giving up halfway through. We’ll also analyze what kind of content performs best so that we can deliver more of what our audience wants.
   * **Engagement:** We’ll look at the number of people who send Snaps back to us to help determine how engaging our content is.
-  * **Screenshots:** Snapchat notifies you when someone takes a screenshot of your content. We’ll use screenshots to help us determine if we’re sharing important information that our audience thinks is worth keeping. We’ll look at what kind of content is screenshotted the most to learn what’s  important to our followers.
+  * **Screenshots:** Snapchat notifies you when someone takes a screenshot of your content. We’ll use screenshots to help us determine if we’re sharing important information that our audience thinks is worth keeping. We’ll look at what kind of content is screenshotted the most to learn what’s important to our followers.
 
 To see how we’re using Snapchat make sure to follow us and snap us with your feedback!
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/20/five-years-of-open-data-making-a-difference/
 date: 2014-05-20 1:00:33 -0400
-title: 'Five Years of Open Data&mdash;Making a Difference'
-summary: 'In May 2009, Data.gov was an experiment. There were questions\: would people use the data? would agencies share the data? and would it make a difference? We&rsquo;ve all come a long, long way to answering those questions, starting with only 47 datasets and having 105,000 datasets today. We realized that this was never simply about'
-authors: [jeanne-holm]
+title: Five Years of Open Data—Making a Difference
+summary: 'In May 2009, Data.gov was an experiment. There were questions: would people use the data? would agencies share the data? and would it make a difference? We&rsquo;ve all come a long, long way to answering those questions, starting with only 47 datasets and having 105,000 datasets today. We realized that this was never simply about'
+authors:
+  - jeanne-holm
 categories:
   - API
   - Data
@@ -48,7 +48,7 @@ So, has the release of government data helped to improve the lives of Americans?
   * 21 topics
   * Citizens from 195 countries have visited the site
 
-Clearly, the answer is that people are working with open data, but there is still much more to do. Groups like the <a href="http://sunlightfoundation.com/" target="_blank">Sunlight Foundation</a> and data journalists help to advocate for the release of new data in machine-readable formats, and citizen groups create activities and initiatives around the data. As one example, behind the topics highlighted on Data.gov (such as <a href="http://climate.data.gov/" target="_blank">climate</a>, <a href="http://health.data.gov/" target="_blank">health</a>, <a href="http://safety.data.gov/" target="_blank">safety</a>, and <a href="http://ocean.data.gov/" target="_blank">ocean</a>), are communities of people from around the country and around the world who strive together to get specific data released to help solve humanity’s  challenges. The community behind <a href="http://agriculture.data.gov/" target="_blank">Agriculture.Data.gov</a> hosted an event last year that led to the formation of the Global Open Data for Agriculture and Nutrition (<a href="http://godan.info/" target="_blank">GODAN</a>) initiative that focuses on food security and mitigating hunger in developed and developing nations.
+Clearly, the answer is that people are working with open data, but there is still much more to do. Groups like the <a href="http://sunlightfoundation.com/" target="_blank">Sunlight Foundation</a> and data journalists help to advocate for the release of new data in machine-readable formats, and citizen groups create activities and initiatives around the data. As one example, behind the topics highlighted on Data.gov (such as <a href="http://climate.data.gov/" target="_blank">climate</a>, <a href="http://health.data.gov/" target="_blank">health</a>, <a href="http://safety.data.gov/" target="_blank">safety</a>, and <a href="http://ocean.data.gov/" target="_blank">ocean</a>), are communities of people from around the country and around the world who strive together to get specific data released to help solve humanity’s challenges. The community behind <a href="http://agriculture.data.gov/" target="_blank">Agriculture.Data.gov</a> hosted an event last year that led to the formation of the Global Open Data for Agriculture and Nutrition (<a href="http://godan.info/" target="_blank">GODAN</a>) initiative that focuses on food security and mitigating hunger in developed and developing nations.
 
 ## What Is Your Story?
 

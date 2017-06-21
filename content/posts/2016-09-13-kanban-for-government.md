@@ -1,12 +1,12 @@
 ---
-
-
+url: /2016/09/13/kanban-for-government/
 date: 2016-09-13 1:00:58 -0400
-title: 'Kanban for Government'
-summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’s also used to balance capacity and demand'
-authors: [alan-brouilette]
+title: Kanban for Government
+summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It&rsquo;s also used to balance capacity and demand'
+authors:
+  - alan-brouilette
 categories:
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -14,17 +14,17 @@ tag:
   - kanban
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - Work In Progress
   - workflows
 ---
 
-Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that “DO ALL THE THINGS!” was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’s  also used to balance capacity and demand by implementing a “pull system” and limiting the amount of work in progress. You don’t have to change anything when you first start to use it, you just put up a board, represent your current work process, put in some work limits, and start tracking what you’re doing and learning from it.
+Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that “DO ALL THE THINGS!” was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It’s also used to balance capacity and demand by implementing a “pull system” and limiting the amount of work in progress. You don’t have to change anything when you first start to use it, you just put up a board, represent your current work process, put in some work limits, and start tracking what you’re doing and learning from it.
 
-In starting to build a board to track all of 18F’s  in-flight projects, we called in 18F’s  Agreements team, Josh Bailes, Matt Spencer, and Victor Valdiviezo, to answer a few questions about pieces of business in the [Interagency Agreements](https://pages.18f.gov/iaa-forms/primer.html) (IAA) phase of our work. We asked them a few questions. Then we told them what a WIP limit was, and the questions started flowing the other way:
+In starting to build a board to track all of 18F’s in-flight projects, we called in 18F’s Agreements team, Josh Bailes, Matt Spencer, and Victor Valdiviezo, to answer a few questions about pieces of business in the [Interagency Agreements](https://pages.18f.gov/iaa-forms/primer.html) (IAA) phase of our work. We asked them a few questions. Then we told them what a WIP limit was, and the questions started flowing the other way:
 
-“Wait, what’s  WIP?”
+“Wait, what’s WIP?”
 
 “WIP stands for **W**ork **I**n **P**rogress.”
 
@@ -44,7 +44,7 @@ They had 49.
 
 Clearly, we needed to do something.
 
-We talked through what they have to do to create an agreement (kanbanspeak: their “value chain”) and for how many different types of agreements they do it (kanbanspeak: their “classes of service”). Turns out there are 46 steps for multiple different purposes. And that’s  not even all the work they have to do! So we said “Okay, until the work in progress is down from the ridiculous 49 to the more manageable 20, we will be starting no new agreements.”
+We talked through what they have to do to create an agreement (kanbanspeak: their “value chain”) and for how many different types of agreements they do it (kanbanspeak: their “classes of service”). Turns out there are 46 steps for multiple different purposes. And that’s not even all the work they have to do! So we said “Okay, until the work in progress is down from the ridiculous 49 to the more manageable 20, we will be starting no new agreements.”
 
 You can imagine how this was received, but the Agreements Team stood their ground. As they have clawed toward clearing their decks enough for new agreements to enter the pipeline, they have learned an amazing amount and been able to take concrete steps toward improving their efficiency.
 
@@ -70,7 +70,7 @@ Concrete steps they took:
   * The Agreements team reached out to the Office of General Counsel to improve mutual understanding of needs, and
   * Socialized the General Counsel team into the wider 18F, to help both sides of the equation empathize with the other
 
-A couple weeks ago, the team finally cleared the last backed-up agreement, and work began on the first new agreement to be started in several months. The cheering was both startling and touching. Turns out people had been following the team’s  progress toward a manageable workload like it was the New Year’s  countdown in Times Square. When the last one finally flipped, well, you’ve never seen such delighted emoji in a Slack channel in your life.
+A couple weeks ago, the team finally cleared the last backed-up agreement, and work began on the first new agreement to be started in several months. The cheering was both startling and touching. Turns out people had been following the team’s progress toward a manageable workload like it was the New Year’s countdown in Times Square. When the last one finally flipped, well, you’ve never seen such delighted emoji in a Slack channel in your life.
 
 But the best part?
 

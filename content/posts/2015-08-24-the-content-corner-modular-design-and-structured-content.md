@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/24/the-content-corner-modular-design-and-structured-content/
 date: 2015-08-24 2:07:31 -0400
-title: 'The Content Corner\: Modular Design and Structured Content'
+title: 'The Content Corner: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I&rsquo;m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - Content
   - Design
@@ -26,10 +26,9 @@ The end goal is to create once and publish everywhere (COPE) and anywhere by pul
 
 This same concept is now becoming more and more popular throughout all phases of Web development, from data to content to design. The idea of modular Web design and the process of breaking down the elements of your design is gaining broader acceptance throughout the Web design community. This includes a review of all style and design concepts used within the site—not exactly like a [content style guide](https://www.WHATEVER/2015/06/08/the-content-corner-creating-a-content-style-guide/), but similar.
 
-The creation of a design style guide (or [pattern library](https://www.futurelearn.com/pattern-library)) gathers all of the CSS styles, including colors and typography. However, in many instances it captures even more, such as in [Future Learn’s  example](https://about.futurelearn.com/blog/pattern-library/). After failing in their initial efforts at building a style guide for their site, Future Learn&#8217;s design team embraced the concept of [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) to better catalog all of the elements of their site.
+The creation of a design style guide (or [pattern library](https://www.futurelearn.com/pattern-library)) gathers all of the CSS styles, including colors and typography. However, in many instances it captures even more, such as in [Future Learn’s example](https://about.futurelearn.com/blog/pattern-library/). After failing in their initial efforts at building a style guide for their site, Future Learn&#8217;s design team embraced the concept of [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) to better catalog all of the elements of their site.
 
-## Better Designing Through Chemistry 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular design graphic." %} 
+## Better Designing Through Chemistry {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular design graphic." %} 
 
 [Brad Frost](http://bradfrost.com/) has been credited with taking various concepts for modular or molecular design and forming them into a repeatable framework that others are able to easily leverage for their own sites and designs. His inspiration was chemistry and the concept of molecular bonds. He transferred the concept of molecular structures into an understandable method of deconstructing Web design into key components:
 
@@ -71,7 +70,7 @@ As opposed to working within a [content model](https://www.WHATEVER/2014/05/05/g
 
 Everyone on the team should be regularly discussing naming conventions for site elements (and actually everyone on the team should be sharing all kinds of information regularly, [it&#8217;s not as hard as it may seem](https://www.WHATEVER/2013/11/04/sharing-information-across-and-within-organizations-shouldnt-be-challenging/)). For example, do you all call the item on your homepage a rotator, slider, or carousel? Before developing a structure and inventory, you need to establish clear names for items that resonate with everyone and don’t change.
 
-While any pattern library or style guide is always a living document, changing the names of key modules can have a serious impact on how reusable and extensible the design can be. Consider how frustrating it would be for developers to address frequent significant changes to an agency’s  API that they are trying to use to provide additional content for their site. If I am programming a call to a “title” field, then that field needs to always be called that and it should always be something reasonably like a title.
+While any pattern library or style guide is always a living document, changing the names of key modules can have a serious impact on how reusable and extensible the design can be. Consider how frustrating it would be for developers to address frequent significant changes to an agency’s API that they are trying to use to provide additional content for their site. If I am programming a call to a “title” field, then that field needs to always be called that and it should always be something reasonably like a title.
 
 Be aware of the impact assigning a name to an element will have. Be sure to regularly have discussions with the team about whether an item should have a functional name, a descriptive name and how it aligns with other elements and previously assigned names. This type of discussion should occur regularly and openly; some use chat systems such as [Slack](https://www.WHATEVER/2015/07/30/picking-up-the-slack-for-team-communication/) to help facilitate this ongoing dialogue. The key is that it takes place and solid agreement is arrived at in a natural and organic method in order to ensure future flexibility as much as possible. That is the overarching goal of modular design, after all.
 

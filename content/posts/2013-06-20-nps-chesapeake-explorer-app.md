@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/06/20/nps-chesapeake-explorer-app/
 date: 2013-06-20 9:31:54 -0400
-title: 'NPS Chesapeake Explorer App'
+title: NPS Chesapeake Explorer App
 summary: 'The&nbsp;National Park Service&nbsp;(NPS) developed an app for people looking to explore the historic Chesapeake Bay area and travelers now have an anytime, anywhere tool to tell them where they can go and how to get there. The NPS launched the&nbsp;Chesapeake Explorer App&nbsp;last October.'
-authors: [rachel-hurley]
+authors:
+  - rachel-hurley
 categories:
   - Mobile
 tag:
@@ -13,8 +13,7 @@ tag:
   - U.S. National Park Service
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/NPSscreen.jpg" alt="NPS Chesapeake Explorer App screenshot of sailboat and NPS logo" %}
-The [National Park Service (NPS)](http://www.nps.gov/index.htm) developed an app for people looking to explore the historic Chesapeake Bay area and travelers now have an anytime, anywhere tool to tell them where they can go and how to get there.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/NPSscreen.jpg" alt="NPS Chesapeake Explorer App screenshot of sailboat and NPS logo" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/NPSscreen.jpg)The [National Park Service (NPS)](http://www.nps.gov/index.htm) developed an app for people looking to explore the historic Chesapeake Bay area and travelers now have an anytime, anywhere tool to tell them where they can go and how to get there.
 
 The NPS launched the [Chesapeake Explorer App](http://www.chesapeakeexplorerapp.com/) last October. This app has over 400 different sites to visit. It helps travelers discover places to experience the beauty and history of the Chesapeake Bay region.
 

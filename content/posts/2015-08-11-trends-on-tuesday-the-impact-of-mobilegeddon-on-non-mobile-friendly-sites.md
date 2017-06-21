@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/11/trends-on-tuesday-the-impact-of-mobilegeddon-on-non-mobile-friendly-sites/
 date: 2015-08-11 10:00:11 -0400
-title: 'Trends on Tuesday\: The Impact of &lsquo;Mobilegeddon&rsquo; on Non Mobile-Friendly Sites'
-summary: 'Adobe released its&nbsp;quarterly Adobe Digital Index report this month, which showed websites that aren&amp;#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google’s organic search referrals. This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren&rsquo;t optimized for mobile&mdash;also called &amp;#8220;Mobilegeddon.&amp;#8221;&nbsp;Microsoft’s Bing search engine&nbsp;also'
-authors: [wsullivan]
+title: 'Trends on Tuesday: The Impact of ‘Mobilegeddon’ on Non Mobile-Friendly Sites'
+summary: 'Adobe released its&nbsp;quarterly Adobe Digital Index report this month, which showed websites that aren&amp;#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google&rsquo;s organic search referrals. This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren&rsquo;t optimized for mobile&mdash;also called &amp;#8220;Mobilegeddon.&amp;#8221;&nbsp;Microsoft&rsquo;s Bing search engine&nbsp;also'
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -16,12 +16,11 @@ tag:
   - Trends on Tuesday
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" alt="Spread of organic search visits by mobile "friendliness" from April 21, 2015 to June 29, 2015. Highlights Organic traffic up to 10% lower among sites with low mobile engagement." %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" %} 
+Adobe released its [quarterly Adobe Digital Index report](http://www.cmo.com/articles/2015/7/10/adi-mobilegeddon.html) this month, which showed websites that aren&#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google’s organic search referrals.
 
-Adobe released its [quarterly Adobe Digital Index report](http://www.cmo.com/articles/2015/7/10/adi-mobilegeddon.html) this month, which showed websites that aren&#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google’s  organic search referrals.
-
-This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren’t optimized for mobile—[also called &#8220;Mobilegeddon](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/).&#8221; Microsoft’s  Bing search engine also [made a similar announcement](http://blogs.bing.com/webmaster/2015/05/14/our-approach-to-mobile-friendly-search/), indicating that mobile-optimized sites would receive special benefits in its search results.
+This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren’t optimized for mobile—[also called &#8220;Mobilegeddon](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/).&#8221; Microsoft’s Bing search engine also [made a similar announcement](http://blogs.bing.com/webmaster/2015/05/14/our-approach-to-mobile-friendly-search/), indicating that mobile-optimized sites would receive special benefits in its search results.
 
 The report from Adobe showed the impact was especially pronounced on days when people are away from their computers and mobile usage is high—Memorial Day was listed as the biggest day for reduced traffic, pushing well beyond a 10% loss.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/10/16/twitter-chats-for-federal-agencies/
 date: 2013-10-16 12:10:18 -0400
-title: 'Twitter Chat Guidance for Federal Agencies'
-summary: 'A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar. The questions are tagged with'
-authors: [jherman]
+title: Twitter Chat Guidance for Federal Agencies
+summary: A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar. The questions are tagged with
+authors:
+  - jherman
 categories:
   - Content
   - Managing Digital
@@ -14,8 +14,7 @@ tag:
   - Twitter
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskFafsa-181x250.jpg" alt="Promotional Image of Federal Student Aid Twitter chat" %}
-A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskFafsa-181x250.jpg" alt="Promotional Image of Federal Student Aid Twitter chat" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskFafsa.jpg)A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar.
 
 The questions are tagged with a pre-designated hashtag, and the agency responds to questions using the hashtag, follows-up via a blog post, or uses another digital means of meaningfully responding to the engagements.
 
@@ -73,7 +72,7 @@ While many agencies use more than one employee to fulfill those three roles, the
 
   * **The Co-Host**: Consider having a co-host. A co-host can officially or unofficially help follow-up on responses after the host has moved to the next question, direct unrelated questions to a more appropriate area, and ensure minimal dead space during the dialogue. The co-host role can be filled by an official agency account or unofficially by a social media specialist.
 
-  * **General Counsel**: It is always beneficial to invite the attorney from your agency who works on social media to observe. The attorney can help mitigate risks in some cases. But more importantly, he or she is present to witness citizen engagement and can help build your agency’s  institutional knowledge.
+  * **General Counsel**: It is always beneficial to invite the attorney from your agency who works on social media to observe. The attorney can help mitigate risks in some cases. But more importantly, he or she is present to witness citizen engagement and can help build your agency’s institutional knowledge.
 
 The key to a successful event is for everyone supporting the live chat to remain in contact during the event, either in the same room, by conference call, or in a video chat service (such as a Google+ Hangout). If staff can&#8217;t be in verbal contact, it may be necessary to revisit the planning of your Twitter chat until they can.
 
@@ -101,7 +100,7 @@ Metrics to consider include:
 ## Examples
 
   * **HealthFinder.gov**—The Department of Health and Human Services&#8217; [@HealthFinder](https://twitter.com/healthfinder)program created an in-depth yet easy-to-follow [agency guide for hosting a Twitter chat](http://health.gov/healthliteracyonline/Twitter_Chat_Guide.pdf) (PDF, 148 KB, 20 pages, February 2012). By applying lessons learned, they are able to host chats (almost weekly) based on diverse program areas. Take a look at how their policies and strategies are communicated through this guide, and consider how it can be customized and scaled for your agency.
-  * **<a name="example-hud"></a>Department of Housing and Urban Development**—To celebrate the first anniversary of HUD’s  Open Government Plan, their Office of Innovation and Open Government worked with the Office of Public Affairs to [organize a discussion](http://blog.hud.gov/index.php/2011/04/06/hud-host-twitter-townhall-chat-discuss-year-anniversary-open-gov-plan/) on the department’s  progress in the past year and forecasting for the coming year. The event was focused and well supported by staff—a successful first step into this style of engagement. HUD expanded the scope and profile of its Twitter chats as evidenced in their [Strong Cities, Strong Communities Twitter Town Hall](http://blog.hud.gov/index.php/2012/03/01/hud%E2%80%99s-first-twitter-town-hall-is-a-success/).
+  * **<a name="example-hud"></a>Department of Housing and Urban Development**—To celebrate the first anniversary of HUD’s Open Government Plan, their Office of Innovation and Open Government worked with the Office of Public Affairs to [organize a discussion](http://blog.hud.gov/index.php/2011/04/06/hud-host-twitter-townhall-chat-discuss-year-anniversary-open-gov-plan/) on the department’s progress in the past year and forecasting for the coming year. The event was focused and well supported by staff—a successful first step into this style of engagement. HUD expanded the scope and profile of its Twitter chats as evidenced in their [Strong Cities, Strong Communities Twitter Town Hall](http://blog.hud.gov/index.php/2012/03/01/hud%E2%80%99s-first-twitter-town-hall-is-a-success/).
 
   * **<a name="example-fafsa"></a>Department of Education Federal Student Aid**—Another example of a Twitter chat-style program is the monthly [ongoing #AskFAFSA chats](http://www.ed.gov/blog/2012/08/askfafsa-office-hours-back-to-school-edition/) by the Department of Education Federal Student Aid team. Citizens who have questions about managing expenses and financial aid throughout college submit questions on [Twitter](https://twitter.com/FAFSA) or [Facebook](https://www.facebook.com/FederalStudentAid), using the #AskFAFSA hashtag in their tweets. The FAFSA team then monitors questions on Facebook and Twitter for a week, and at a designated time, sends out the responses. To view a Storify post illustrating one early #ASKFAFSA session, [visit their blog](http://storify.com/FAFSA/july-askfafsa-office-hours). FAFSA follows up on engagements and sets expectations by noting: “Can’t make the live session? A summary of #AskFAFSA Office Hours, including the full Q&A, will be posted on [Storify](http://storify.com/FAFSA) and the [ED.gov blog](http://www.ed.gov/blog/) following the event.&#8221;
 

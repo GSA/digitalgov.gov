@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/05/25/the-data-briefing-better-crowdsourced-federal-government-projects-through-cognitive-computing/
 date: 2016-05-25 10:00:26 -0400
-title: 'The Data Briefing\: Better Crowdsourced Federal Government Projects Through Cognitive Computing'
+title: 'The Data Briefing: Better Crowdsourced Federal Government Projects Through Cognitive Computing'
 summary: 'Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&amp;#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that cognitive computing has spread into government applications. As the name implies,'
-authors: [bbrantley]
+authors:
+  - bbrantley
 categories:
   - Data
 tag:
@@ -19,8 +19,7 @@ tag:
 
 Cognitive computing has been receiving a good deal of attention lately as more companies have been building intelligent agents. Ever since IBM Watson&#8217;s 2011 appearance on Jeopardy, cognitive computing has spread into healthcare, investing and even veterinary medicine. However, it is only recently that <a href="http://www.govtech.com/data/3-Ways-Cognitive-Computing-Can-Be-Good-for-Government.html" target="_blank">cognitive computing has spread into government applications</a>.
 
-As the name implies, cognitive computing is where computers operate much like the way people think. Computers use data mining techniques, pattern recognition algorithms and [natural language processing](https://www.WHATEVER/2015/08/17/the-content-corner-using-natural-language-processing-to-improve-rulemaking/) to search a large set of unstructured data to find solutions. Cognitive computers excel in making connections between seemingly unrelated data and assisting people in searching large collections of information. Cognitive computers are also good at solving process problems when the cognitive computer software is paired with Internet of Things sensors. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Silhouette-of-the-brain-in-form-drawing-circuits-Mirexon-iStock-Thinkstock-474003282.jpg" alt="Silhouette of the brain on a circuit and computer code" %} 
+As the name implies, cognitive computing is where computers operate much like the way people think. Computers use data mining techniques, pattern recognition algorithms and [natural language processing](https://www.WHATEVER/2015/08/17/the-content-corner-using-natural-language-processing-to-improve-rulemaking/) to search a large set of unstructured data to find solutions. Cognitive computers excel in making connections between seemingly unrelated data and assisting people in searching large collections of information. Cognitive computers are also good at solving process problems when the cognitive computer software is paired with Internet of Things sensors. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Silhouette-of-the-brain-in-form-drawing-circuits-Mirexon-iStock-Thinkstock-474003282.jpg" alt="Silhouette of the brain on a circuit and computer code" %} 
 
 Another good application of cognitive computing is pairing it with crowdsourcing projects. Two recent research papers describe how cognitive computing can improve the management of crowdsourcing projects and improve the results developed by crowdsourcing participants. As more federal agencies harness the power of crowdsourcing, pairing cognitive computing with <a href="https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/" target="_blank">chatbots</a> can better manage the entire crowdsourcing process.
 
@@ -36,4 +35,4 @@ DigitalGov has some great examples of <a href="https://www.WHATEVER/2014/12/08/c
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

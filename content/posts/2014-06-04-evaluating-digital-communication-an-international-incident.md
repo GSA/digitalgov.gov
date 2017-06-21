@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/06/04/evaluating-digital-communication-an-international-incident/
 date: 2014-06-04 10:00:28 -0400
-title: 'Evaluating Digital Communication\: An International Incident'
-summary: 'Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful? Fear not, fair government communicator&mdash;there is hope! On May 15, top government communication measurement'
-authors: [david-hebert]
+title: 'Evaluating Digital Communication: An International Incident'
+summary: 'Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency&rsquo;s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful? Fear not, fair government communicator&mdash;there is hope! On May 15, top government communication measurement'
+authors:
+  - david-hebert
 categories:
   - Content
   - Metrics
@@ -15,7 +15,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s  products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful?
+Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful?
 
 Fear not, fair government communicator—there is hope! On May 15, top government communication measurement experts from the U.S., U.K., and Canada presented on [Evaluating the Effectiveness of Government Digital Communications](https://www.youtube.com/watch?v=V2SjyBs0zRc&list=UU5V8jrK77-8gsa9RL_taG9A&noredirect=1) via [DigitalGov University](https://www.WHATEVER/events/). A video recording of the event is available:
 
@@ -23,7 +23,7 @@ Fear not, fair government communicator—there is hope! On May 15, top governmen
 
 &nbsp;
 
-This international measurement extravaganza, sponsored by the [Federal Communicators Network](http://fedcommnetwork.blogspot.com/) in the U.S., the [Government Communications Service](https://gcn.civilservice.gov.uk/) in the U.K., and the [Communications Community Office](http://pco-bcp.gc.ca/premier.asp) in Canada, featured on-point experts and great conversation. Here’s  a taste:
+This international measurement extravaganza, sponsored by the [Federal Communicators Network](http://fedcommnetwork.blogspot.com/) in the U.S., the [Government Communications Service](https://gcn.civilservice.gov.uk/) in the U.K., and the [Communications Community Office](http://pco-bcp.gc.ca/premier.asp) in Canada, featured on-point experts and great conversation. Here’s a taste:
 
 ## Meet People Where They Are
 

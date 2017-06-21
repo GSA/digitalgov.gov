@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/11/06/software-and-apps-challenges/
 date: 2013-11-06 2:13:29 -0400
-title: 'Software and Apps Challenges'
+title: Software and Apps Challenges
 summary: 'Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is software and apps challenges, where solvers are asked to develop specific software or other code-based technical solutions, such as websites, mobile applications, or algorithms. Here you&rsquo;ll find tips'
-authors: [ktrebon]
+authors:
+  - ktrebon
 categories:
   - Challenges
 tag:

@@ -1,10 +1,11 @@
 ---
-
-
+url: /2016/04/07/how-to-merge-two-facebook-pages/
 date: 2016-04-07 10:00:26 -0400
-title: 'How to Merge Two Facebook Pages'
-summary: 'In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our'
-authors: [sara-smith, janet-linton]
+title: How to Merge Two Facebook Pages
+summary: In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our
+authors:
+  - sara-smith
+  - janet-linton
 categories:
   - Managing Digital
   - Social Media
@@ -19,8 +20,7 @@ For [NIDA](https://www.drugabuse.gov/), this meant merging our Drug Facts Facebo
 
 ## Reasons for Creating Two Facebook Pages
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" alt="N.I.D.A.'s original "Drug Facts" Facebook page." %}
 
 In 2010, NIDA created two Facebook pages. The NIDA Facebook page was created to reach researchers. The Drug Facts Facebook page was developed to reach those interested in our [NIDA for Teens](http://teens.drugabuse.gov/) materials and _[National Drug and Alcohol Facts Week](http://teens.drugabuse.gov/national-drug-alcohol-facts-week)<sup>SM </sup>_(NDAFW). The desired goal of the Drug Facts Facebook page was to provide a place NDAFW event organizers could discuss best practices and share ideas.
 
@@ -28,9 +28,9 @@ In 2010, NIDA created two Facebook pages. The NIDA Facebook page was created to 
 
 Fast forward to 2015, we took a step back to look at the big-picture goals of our two pages and examine in-depth the performance of our pages and our audiences.
 
-Our NIDA Facebook page’s  audience consisted not of mainly researchers, but of members from all spreads of the general public. All NIDA content performed well and teen-oriented materials perform just as well, if not better, on this page than the Drug Facts Facebook page.
+Our NIDA Facebook page’s audience consisted not of mainly researchers, but of members from all spreads of the general public. All NIDA content performed well and teen-oriented materials perform just as well, if not better, on this page than the Drug Facts Facebook page.
 
-Meanwhile, engagement rapidly dropped off on the Drug Facts Facebook page. The audience commented infrequently and never engaged in conversation. The resources required to continue managing the page did not warrant keeping the page running. We began to consider the idea of a [Drug and Alcohol Use Prevention Network LinkedIn Group](https://www.linkedin.com/groups/8354318/profile) as a better place to foster conversation surrounding NIDA’s  teen content. However, we hesitated to open yet another social media account without cutting back. Clearly, we needed to adjust our social media strategy based upon this information.
+Meanwhile, engagement rapidly dropped off on the Drug Facts Facebook page. The audience commented infrequently and never engaged in conversation. The resources required to continue managing the page did not warrant keeping the page running. We began to consider the idea of a [Drug and Alcohol Use Prevention Network LinkedIn Group](https://www.linkedin.com/groups/8354318/profile) as a better place to foster conversation surrounding NIDA’s teen content. However, we hesitated to open yet another social media account without cutting back. Clearly, we needed to adjust our social media strategy based upon this information.
 
 ## Crunching the Numbers with Facebook Audience Insights
 
@@ -69,7 +69,7 @@ When you are merging two Facebook pages together, you must choose to merge one p
     </td>
     
     <td style="text-align: left;vertical-align: top;width: 50%">
-      Main page’s  content is not as targeted
+      Main page’s content is not as targeted
     </td>
   </tr>
   

@@ -1,10 +1,15 @@
 ---
-
-
+url: /2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
 date: 2016-02-18 11:10:51 -0400
-title: 'Analytics.usa.gov\: Now with Agency-Specific Dashboards'
+title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
 summary: 'We&rsquo;ve added agency-specific dashboards to analytics.usa.gov!  Starting today, you&rsquo;ll see a dropdown from the main analytics.usa.gov page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10 specific'
-authors: [gray-brooks, tlowden, eric-mill, julia-winn, gabriel-ramirez, colin-craig]
+authors:
+  - gray-brooks
+  - tlowden
+  - eric-mill
+  - julia-winn
+  - gabriel-ramirez
+  - colin-craig
 categories:
   - Data
   - Our Work
@@ -34,8 +39,7 @@ tag:
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-335-Analytics-USA-gov-dashboard-on-Dept-of-Commerce-940-am-Feb-18th-2016-has-24578-visitors.jpg" alt="Analytics dashboard on Dept of Commerce at 9:40 am, Feb 18th 2016, showing 24,578 visitors." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-335-Analytics-USA-gov-dashboard-on-Dept-of-Commerce-940-am-Feb-18th-2016-has-24578-visitors.jpg" alt="Analytics dashboard on Dept of Commerce at 9:40 am, Feb 18th 2016, showing 24,578 visitors." %}
 
 Starting today, you’ll see a dropdown from the main [analytics.usa.gov](https://analytics.usa.gov/) page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10 specific agencies:
 
@@ -52,18 +56,16 @@ Starting today, you’ll see a dropdown from the main [analytics.usa.gov](https:
 
 ## What Do These Pages Show Me?
 
-These dashboard pages allow for greater insight into how the public interacts with specific agency websites as a complement to the aggregated view available at [analytics.usa.gov](https://www.WHATEVER/2016/02/16/trends-on-tuesday-robot-messaging-goes-mainstream/). In many cases, the information we see as a government-wide percentage does not perfectly mirror an individual agency’s  data. For example, at the time of writing this post, the domestic vs. foreign traffic on the whole of participating [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) sites is about 90% to 10%, respectively. But the VA specifically has a 99% to 1% ratio, while NASA has a 62% to 38% domestic to foreign visits ratio.
+These dashboard pages allow for greater insight into how the public interacts with specific agency websites as a complement to the aggregated view available at [analytics.usa.gov](https://www.WHATEVER/2016/02/16/trends-on-tuesday-robot-messaging-goes-mainstream/). In many cases, the information we see as a government-wide percentage does not perfectly mirror an individual agency’s data. For example, at the time of writing this post, the domestic vs. foreign traffic on the whole of participating [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) sites is about 90% to 10%, respectively. But the VA specifically has a 99% to 1% ratio, while NASA has a 62% to 38% domestic to foreign visits ratio.
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="width: 50%;vertical-align: top;text-align: center">
-      
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-384-VA-Traffic-by-Country.png" alt="A chart showing the traffic on VA websites by country" %}
+      {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-384-VA-Traffic-by-Country.png" alt="A chart showing the traffic on VA websites by country" %}
     </td>
     
     <td style="width: 50%;vertical-align: top;text-align: center">
-      
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-388-NASA-traffic-by-country.png" alt="A chart showing the traffic on NASA websites by country" %}
+      {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-388-NASA-traffic-by-country.png" alt="A chart showing the traffic on NASA websites by country" %}
     </td>
   </tr>
 </table>

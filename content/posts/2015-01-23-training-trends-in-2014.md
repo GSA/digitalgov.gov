@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/01/23/training-trends-in-2014/
 date: 2015-01-23 10:00:50 -0400
-title: 'Training Trends in 2014'
-summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations of the 21st century citizen customer better. Whew. That’s a mouthful.'
-authors: [apiazza]
+title: Training Trends in 2014
+summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations of the 21st century citizen customer better. Whew. That&rsquo;s a mouthful.'
+authors:
+  - apiazza
 categories:
   - Our Work
 tag:
@@ -16,12 +16,11 @@ tag:
   - SocialGov
 ---
 
-In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to [share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations](https://www.WHATEVER/contact-us/ "Contact Us") of the 21st century citizen customer better. Whew. That’s  a mouthful.
+In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to [share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations](https://www.WHATEVER/contact-us/ "Contact Us") of the 21st century citizen customer better. Whew. That’s a mouthful.
 
 Thanks to all the participation from you, across many agencies, we’ve hosted over 100 events this past year with over 8,000 attendees. So, we thought we’d take took a look at the most popular (by attendance) in-person, on-line and recorded events throughout 2014.
 
-## Top 5 In-Person Events 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" %} 
+## Top 5 In-Person Events {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" %} 
 
   1. [The DigitalGov Citizen Services Summit](https://www.WHATEVER/2014/05/30/digitalgov-citizen-services-summit-a-success/ "DigitalGov Citizen Services Summit a Success") was our most exciting and largest attended in-person event this year. It was held in May with over 200 attendees and featured panels on:
   
@@ -33,12 +32,11 @@ Thanks to all the participation from you, across many agencies, we’ve hosted o
 
 ## Top 5 Webinars
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout.jpg" alt="600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout.jpg" alt="600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout" %}
 
 We also hosted some very popular webinars. Our most highly attended webinars (#1 and #2) focused on Plain Language.
 
-  1.  [How to Tell Your Agency’s  Story-Plainly](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/ "How to Tell Your Agency’s  Story—Plainly")
+  1.  [How to Tell Your Agency’s Story-Plainly](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/ "How to Tell Your Agency’s Story—Plainly")
   2. [Get out of the Jargon Trap: Plain Language Training Can Help](https://www.WHATEVER/2014/08/15/get-out-of-the-jargon-trap-plain-language-training-can-help/ "Get Out of the Jargon Trap: Plain Language Training Can Help")
   3. [Evaluating Digital Communication: An International Incident](https://www.WHATEVER/2014/06/04/evaluating-digital-communication-an-international-incident/ "Evaluating Digital Communication: An International Incident") was an event that crossed boundaries, literally. The event that was co-sponsored by the Federal Communicators Network and the Web Content Managers Forum, and was organized the governments of the US, Canada, and the UK.
   4. [Our FedRAMP program](http://cloud.cio.gov) offered events hosted by Director of FedRAMP, Matthew Goodrich, and captured large audiences from the vendor community with updates and tips on the using the program. [Learn more about FedRAMP](http://cloud.cio.gov).
@@ -46,18 +44,16 @@ We also hosted some very popular webinars. Our most highly attended webinars (#1
 
 ## Top 5 On-Demand
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" %}
 
 Lastly, we took a look at our webinar recordings and evaluated which were most viewed this year. Overall, we&#8217;ve had more than 34,000 views on-demand. Keep in mind some of these webinars took place in 2013:
 
-  1. [API Webinar Series: APIs for Dummies &#8211; An Introduction](https://www.WHATEVER/2012/07/26/introduction-to-apis/) &#8211; The basics on APIs hosted by 18F’s  Gray Brooks and gets you started in the world of API solutions.
+  1. [API Webinar Series: APIs for Dummies &#8211; An Introduction](https://www.WHATEVER/2012/07/26/introduction-to-apis/) &#8211; The basics on APIs hosted by 18F’s Gray Brooks and gets you started in the world of API solutions.
   2. [API Webinar Series: Learn How to Use and Create APIs](http://www.youtube.com/watch?v=SgJq4Ukx6yU&feature=youtube_gdata) &#8211; Step 2 on implementing APIs, also hosted by Gray.
-  3. [How to Create an Annual Metrics Report](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/ "Creating Awesome Web Analytics Reports and Presentations") &#8211; Very timely—read this recap and use Sarah Kaczmarek of GAO’s  template to craft your own annual metrics report.
+  3. [How to Create an Annual Metrics Report](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/ "Creating Awesome Web Analytics Reports and Presentations") &#8211; Very timely—read this recap and use Sarah Kaczmarek of GAO’s template to craft your own annual metrics report.
   4. [Yammer -The Power of Social Networking Inside Government Agencies &#8211; A New Media Talk](http://www.youtube.com/watch?v=GtOvdN5t7n0&feature=youtube_gdata) &#8211; This event took place in March of 2012, but agencies are using this tool internally to minimize email. There is also a [federal friendly Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements").
   5. [How to Use Assistive Technology to Comply with Section 508](http://www.youtube.com/watch?v=4XJcswWmmAw&feature=youtube_gdata)
 
-## What’s  Next? 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-390-January-2015-Calendar-klenger-iStock-Thinksotck-506977507.jpg" alt="2015 desk calendar" %} 
+## What’s Next? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-390-January-2015-Calendar-klenger-iStock-Thinksotck-506977507.jpg" alt="2015 desk calendar" %} 
 
 We are planning more [great events](http://WHATEVER/events) for 2015 and we hope you can join us. Leave a comment below on what **you’d** like to see in the upcoming year.

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/14/live-blogging-the-analytics-dashboard-on-tax-day/
 date: 2015-04-14 3:00:08 -0400
-title: 'Updated\: Live Blogging the Analytics Dashboard on #TaxDay'
-summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3\:00 pm when 194,301 people were on government sites. We&amp;#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We&rsquo;re talking about YOU, NASA astronomy picture of the day and that wonderful'
-authors: [awichman]
+title: 'Updated: Live Blogging the Analytics Dashboard on #TaxDay'
+summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3:00 pm when 194,301 people were on government sites. We&amp;#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We&rsquo;re talking about YOU, NASA astronomy picture of the day and that wonderful'
+authors:
+  - awichman
 categories:
   - Metrics
   - Our Work
@@ -44,7 +44,7 @@ Number of IRS pages that are in the Top 20 pages: **14**
 
 ### Fun Facts:
 
-  * ”Where’s  My Refund” continues to be a top page (#2 now) into the early morning hours. Hope that these aren’t the people that just filed an hour ago.
+  * ”Where’s My Refund” continues to be a top page (#2 now) into the early morning hours. Hope that these aren’t the people that just filed an hour ago.
   * The U.S. Geological Survey uses crowdsourcing to capture data on the impact of earthquakes. [Learn more about their DYFI (Did You Feel It?) research](//earthquake.usgs.gov/research/dyfi/).
 
 _-gk, Digital Government, GSA_
@@ -99,7 +99,7 @@ _-Karen Trebon, Assistant Director, Digital Government Division_
 
 ## 9:00 Update
 
-It’s  9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/ "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
+It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/ "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
 
 ### The Stats:
 
@@ -111,7 +111,7 @@ _-Alycia Piazza, DigitalGov Platform Manager_
 
 ## 8:00 pm Update
 
-As the West Coast gets out of work the IRS is in total control of the Top 20 government sites being visited at the moment with 15 sites. And in a late surge, [Get Your Electronic Filing Pin](http://www.irs.gov/Individuals/Electronic-Filing-PIN-Request) took over the top of the board from [Where’s  My Refund](http://www.irs.gov/Refunds) for the first time today. So all procrastinators out there rejoice! You are not alone.
+As the West Coast gets out of work the IRS is in total control of the Top 20 government sites being visited at the moment with 15 sites. And in a late surge, [Get Your Electronic Filing Pin](http://www.irs.gov/Individuals/Electronic-Filing-PIN-Request) took over the top of the board from [Where’s My Refund](http://www.irs.gov/Refunds) for the first time today. So all procrastinators out there rejoice! You are not alone.
 
 ### The Stats:
 
@@ -129,7 +129,7 @@ _-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">S
 
 ## 7:00 pm Update
 
-Even though the [Where’s  My Refund?](http://www.irs.gov/Refunds "Where's My Refund?") page continues leading all government traffic (3,315 visits), those looking for an extension are outpacing them with 3,883 visits divided among those looking for [Form 4868](http://www.irs.gov/pub/irs-pdf/f4868.pdf "Form 4868"), reading about the three ways to request an <a title="automatic extension" href="http://www.irs.gov/taxtopics/tc304.html" target="_blank">automatic extension</a> of time, and <a title="Extension of Time To File Your Tax Return" href="http://www.irs.gov/uac/Extension-of-Time-To-File-Your-Tax-Return" target="_blank">Extension of Time to File Your Tax Return</a>, which provides information about extensions for individual, corporations and others.
+Even though the [Where’s My Refund?](http://www.irs.gov/Refunds "Where's My Refund?") page continues leading all government traffic (3,315 visits), those looking for an extension are outpacing them with 3,883 visits divided among those looking for [Form 4868](http://www.irs.gov/pub/irs-pdf/f4868.pdf "Form 4868"), reading about the three ways to request an <a title="automatic extension" href="http://www.irs.gov/taxtopics/tc304.html" target="_blank">automatic extension</a> of time, and <a title="Extension of Time To File Your Tax Return" href="http://www.irs.gov/uac/Extension-of-Time-To-File-Your-Tax-Return" target="_blank">Extension of Time to File Your Tax Return</a>, which provides information about extensions for individual, corporations and others.
 
 ### The Stats:
 
@@ -159,8 +159,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 _-Ashley Wichman, DigitalGov Team_
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
 
 ## 5:00 pm Update
 
@@ -202,7 +201,7 @@ _-Alycia Piazza, DigitalGov Platform Manager_
 
 In the coming months, the [public dashboard](https://analytics.usa.gov/) will be expanding its reach to report more meaningful metrics across additional dimensions.
 
-To give you a quick taste of what type of information you could get, we are reporting that 90% of the traffic on government websites right now at 3pm ET is coming from the United States, with New York, Washington, Chicago, and Los Angeles leading the way. Trending as the # 1 pdf download across the government websites is the [IRS’s  Application for Automatic Extension of Time To File U.S. Individual Income Tax Return](http://www.irs.gov/pub/irs-pdf/f4868.pdf) [PDF] with more than 5,000 people currently downloading the form. More to come on this one as we continue to think through and enhance analytics.usa.gov reporting.
+To give you a quick taste of what type of information you could get, we are reporting that 90% of the traffic on government websites right now at 3pm ET is coming from the United States, with New York, Washington, Chicago, and Los Angeles leading the way. Trending as the # 1 pdf download across the government websites is the [IRS’s Application for Automatic Extension of Time To File U.S. Individual Income Tax Return](http://www.irs.gov/pub/irs-pdf/f4868.pdf) [PDF] with more than 5,000 people currently downloading the form. More to come on this one as we continue to think through and enhance analytics.usa.gov reporting.
 
 ### The Stats:
 
@@ -224,7 +223,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s  Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s  photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
+  * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
   * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing](https://www.WHATEVER/tag/wednesday-api-briefing/) writer, Bill Brantley, just published an article on [how government data benefits the American economy](https://www.WHATEVER/2015/04/15/the-api-briefing-how-essential-is-government-data-to-the-american-economy/).
 
 _-Ashley Wichman, DigitalGov Team_
@@ -241,14 +240,14 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * The number of people on the **“Where’s  my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s  what the Dashboard is all about. [DigitalGov University](https://www.WHATEVER/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports](https://www.WHATEVER/2014/10/20/metrics-round-up/).
+  * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
+  * Data! It’s what the Dashboard is all about. [DigitalGov University](https://www.WHATEVER/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports](https://www.WHATEVER/2014/10/20/metrics-round-up/).
 
 _-Kendrick Daniel, Digital Gov Team_
 
 ## Noon Update
 
-It’s  noon on tax day and the number of people on government websites has more than doubled since we started monitoring at 7:58 this morning.
+It’s noon on tax day and the number of people on government websites has more than doubled since we started monitoring at 7:58 this morning.
 
 ### The Stats:
 
@@ -259,7 +258,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product](https://www.WHATEVER/tag/thursday-mobile-products/) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s  DigitalGov theme is Contact Centers](https://www.WHATEVER/category/monthly-theme/). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers](https://www.WHATEVER/category/monthly-theme/). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
 
 _-Jacob Parcell, Manager, [Mobile Programs](https://www.WHATEVER/communities/mobile/)_
@@ -276,7 +275,7 @@ Number of IRS pages that are in the Top 20 pages: **12**
 
 ### Fun Facts:
 
-  * There are currently **2,314 people** visiting IRS.gov’s  “Forms and Publications” page to find the necessary forms to file their taxes. Can we say &#8220;down to the wire?&#8221;
+  * There are currently **2,314 people** visiting IRS.gov’s “Forms and Publications” page to find the necessary forms to file their taxes. Can we say &#8220;down to the wire?&#8221;
   * Did you know that IRS.gov is beta testing a new search box on the “Forms and Publications” page, powered by [DigitalGov Search](http://search.WHATEVER/)?
 
 _-Kendrick Daniel, DigitalGov Team_
@@ -294,13 +293,12 @@ Number of IRS pages that are in the Top 20 pages: **11**
 ### Fun Facts:
 
   * There are currently **3,297 people** on pages related to filing for an extension of the tax deadline.
-  * Although today is the last day to file taxes, the top IRS page remains the “**Where’s  My Refund**” page with **4,448 active visitors** looking to find out when they’ll receive their refund.
+  * Although today is the last day to file taxes, the top IRS page remains the “**Where’s My Refund**” page with **4,448 active visitors** looking to find out when they’ll receive their refund.
   * Despite IRS dominating the top traffic over the last few months, the usual top performers are weather pages from NOAA, which still has 4 pages in the Top 20 right now. Along with NOAA and IRS, the DAP program has participating sites from 38 federal agencies!
 
 _-Tim Lowden, Analyst on the Digital Analytics Program_
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." %}
 
 ## 9:00 am Update
 

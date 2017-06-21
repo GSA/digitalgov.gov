@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/01/28/innovation-means-more-better-cost-effective-digital-training/
 date: 2014-01-28 3:02:41 -0400
-title: 'Innovation Means More, Better, Cost Effective Digital Training'
+title: Innovation Means More, Better, Cost Effective Digital Training
 summary: 'A recent FedTech Magazine article asked, &amp;#8220;When'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Managing Digital
   - Social Media
@@ -22,8 +22,7 @@ tag:
   - United States Department of Defense
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-180-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. Photos by Laura McHugh." %}
-A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we&#8217;d take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-180-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada. Photos by Laura McHugh." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/1014-x-726-Photos-of-8-speakers-from-the-Federal-SocialGov-Community.jpg)A recent **FedTech Magazine** article asked, &#8220;[When There Are No Barriers to Technology, How Can the Government Innovate?](http://www.fedtechmagazine.com/article/2014/01/when-there-are-no-barriers-technology-how-can-government-innovate)&#8221; We thought we&#8217;d take up the challenge and let you know how government uses innovations from digital communities to grow a social media education and training program that provides more opportunities than ever for agencies to share, learn and measurably improve our programs for citizens.
 
 And by more we mean almost four times more with the same resources.
 
@@ -31,8 +30,7 @@ Many of you may already know [**DigitalGov University**](https://www.WHATEVER/di
 
 Did you hear somewhere, though, that social media training opportunities for public servants is lacking? Let&#8217;s show you how government is changing all that through innovation.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/All-Services-picture-250x187.jpg" alt="Bridget Serchak, DoD Inspector General office, Adam Connor, Facebook, Brittany Brown, U.S. Army, Jana Baldwin, Ready.gov at the All Services Social Media Conference. Courtesy image. " %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/All-Services-picture-250x187.jpg" alt="Bridget Serchak, DoD Inspector General office, Adam Connor, Facebook, Brittany Brown, U.S. Army, Jana Baldwin, Ready.gov at the All Services Social Media Conference. Courtesy image. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/All-Services-picture.jpg)
 
 Through the #**SocialGov Community**, more than 500 digital engagement program managers, directors and practitioners from more than 130 federal agencies are collaborating, sharing and improving knowledge management.
 
@@ -46,8 +44,7 @@ These programs are critical to many agencies, as often today the first line of e
 
 Here&#8217;s how in 2014 agencies will rise to the challenge. Thanks to contributions of agencies across government and specialists across the private sector, contributions made possible by advancements in the technology and strategies we use, starting in February we aim to:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/ViralGov-Summit-image-250x250.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image. " %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/ViralGov-Summit-image-250x250.jpg" alt="Social media leaders from across government gathered for the SocialGov Summit on Viral Government July 30 at the Federal Energy Regulatory Commission. Courtesy image. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/ViralGov-Summit-image.jpg)
 
   * Hold more than **40 free online social media training webinars** for any government employee, held on Wednesday each week. This is approximately **400%** the social media webinars available in 2012, and almost **200%** from 2013.
   * Hold **more than a dozen free social media summits and workshops** for any government employee, approximately once a month throughout the year. This is **200%** the summits and workshops available in 2013.
@@ -64,11 +61,10 @@ What can this model mean for education and knowledge management programs across 
 
 To get things started, next week we&#8217;ll announce the next free **#SocialGov Summit on International Programs**, featuring the **State Department, USAID, Peace Corps, World Bank, Red Cross, Department of Defense** and agencies across government &#8212; a world class lineup to discuss a world-wide mission. This Thursday, Katie Harbath from **Facebook** joins us via webinar to teach how agencies can combine digital and in-person engagement with Instameets.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/social-gov-summit-250x186.jpeg" alt="SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient. Image courtesy of GSA." %}
- 
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/social-gov-summit-250x186.jpeg" alt="SocialGov Summits bring together agencies from across government to share and learn how we can improve digital services to make services more effective and cost efficient. Image courtesy of GSA." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/social-gov-summit.jpeg) 
 
-If you are a federal innovator, platform that has federal terms of service, or a specialist with an idea to share, we invite you to email <a href="mailto:justin.herman@gsa.gov">justin.herman@gsa.gov</a> to discuss participating in a DigitalGov University webinar. Training and education is a top priority for us in 2014, and thanks to technology and innovators lowering barriers and smashing silos, we can achieve this mission for citizens better than ever.
+If you are a federal innovator, platform that has federal terms of service, or a specialist with an idea to share, we invite you to email <justin.herman@gsa.gov> to discuss participating in a DigitalGov University webinar. Training and education is a top priority for us in 2014, and thanks to technology and innovators lowering barriers and smashing silos, we can achieve this mission for citizens better than ever.
 
-If you have a .gov or .mil email address and would like to join the SocialGov Community, email <a href="mailto:justin.herman@gsa.gov">justin.herman@gsa.gov</a> with a description of your work in social media and &#8220;Subscribe to #SocialGov&#8221; in the subject line.
+If you have a .gov or .mil email address and would like to join the SocialGov Community, email <justin.herman@gsa.gov> with a description of your work in social media and &#8220;Subscribe to #SocialGov&#8221; in the subject line.
 
-And remember, social media is just one of the many topics covered via DigitalGov University events. For questions, email us at <a href="mailto:digitalgovu@gsa.gov">digitalgovu@gsa.gov</a> and [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get alerts on upcoming trainings.
+And remember, social media is just one of the many topics covered via DigitalGov University events. For questions, email us at <digitalgovu@gsa.gov> and [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get alerts on upcoming trainings.

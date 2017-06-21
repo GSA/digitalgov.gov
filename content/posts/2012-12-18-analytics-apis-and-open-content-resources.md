@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/12/18/analytics-apis-and-open-content-resources/
 date: 2012-12-18 12:34:25 -0400
-title: 'Analytics, APIs and Open Content Resources'
+title: Analytics, APIs and Open Content Resources
 summary: 'Agencies have been working away at building better digital services and here, at the&nbsp;Digital Services Innovation Center, we&amp;#8217;ve been building resources to help. We have been focusing on three areas, 1.&nbsp;The Digital Analytics Program.&nbsp;We&nbsp;announced&nbsp;this program in early October to help agencies better&nbsp;measure performance and customer satisfaction to'
-authors: [gwynne-kostin]
+authors:
+  - gwynne-kostin
 categories:
   - API
   - Code
@@ -22,8 +22,7 @@ tag:
   - USDA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/tools-image-300x251-250x209.jpg" alt="Tools, hammer, wire cutters, wrench, screwdriver" %}
-Agencies have been working away at building better digital services and here, at the [Digital Services Innovation Center](https://www.WHATEVER/about/), we&#8217;ve been building resources to help.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/tools-image-300x251-250x209.jpg" alt="Tools, hammer, wire cutters, wrench, screwdriver" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/tools-image-300x251.jpg)Agencies have been working away at building better digital services and here, at the [Digital Services Innovation Center](https://www.WHATEVER/about/), we&#8217;ve been building resources to help.
 
 We have been focusing on three areas,
 

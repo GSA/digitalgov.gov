@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/
 date: 2014-01-10 5:42:11 -0400
-title: 'Advancing Forward\: Best of Social Media in 2013 and Beyond'
+title: 'Advancing Forward: Best of Social Media in 2013 and Beyond'
 summary: 'It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I&rsquo;d like to share with you just some'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Social Media
   - "What's New"
@@ -15,15 +15,15 @@ tag:
 [<img class="aligncenter size-full wp-image-105172" alt="Three astronauts floating in a space capsule." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Best-of-1.jpg" width="569" height="346" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Best-of-1.jpg)It was a very good year, as Frank Sinatra sang, in the field of social media for the federal government. Advances were made not only in the technologies applied by agencies, but also the policies and strategies that unlock their potential to improve services and reduce costs. I’d like to share with you just some of the programs that made 2013 a very good year for the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="https://digitalgov.sites.usa.gov/2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/" target="_blank"><strong>SocialGov community</strong></a>, what the challenges are that we’ll face in the coming year, and also give you insight into what to expect in 2014 as we overcome those emerging challenges together with you.
 
 <p dir="ltr">
-  To break the ice, let’s  start with an agency it’s  easy to find among the stars: <strong>NASA</strong>. The space agency’s  Twitter account is the most followed in government, and their innovators like Jason Townsend are always looking for new and better ways to engage their community. NASA <a href="http://www.youtube.com/watch?v=r7_BZe6cGoI" target="_blank">hosted two <strong>Google Hangouts</strong> with astronauts</a> aboard the <strong>International Space Station</strong> — programs like these shatter the mold for what limits other agencies think exist, and open the door to better programs across mission fields.
+  To break the ice, let’s start with an agency it’s easy to find among the stars: <strong>NASA</strong>. The space agency’s Twitter account is the most followed in government, and their innovators like Jason Townsend are always looking for new and better ways to engage their community. NASA <a href="http://www.youtube.com/watch?v=r7_BZe6cGoI" target="_blank">hosted two <strong>Google Hangouts</strong> with astronauts</a> aboard the <strong>International Space Station</strong> — programs like these shatter the mold for what limits other agencies think exist, and open the door to better programs across mission fields.
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-2.jpg"><img class="size-full wp-image-105192 alignright" alt="best of 2" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-2.jpg" width="361" height="215" /></a>For example, the <strong>State Department Bureau of Consular Affairs</strong> analyzed NASA’s  Hangouts, and <a href="http://www.youtube.com/watch?v=xI1EMmY7pGs" target="_blank">decided to use this strategy</a> in August to address questions about the new visa application process for couples to an audience of almost 20,000 citizens.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-2.jpg"><img class="size-full wp-image-105192 alignright" alt="best of 2" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-2.jpg" width="361" height="215" /></a>For example, the <strong>State Department Bureau of Consular Affairs</strong> analyzed NASA’s Hangouts, and <a href="http://www.youtube.com/watch?v=xI1EMmY7pGs" target="_blank">decided to use this strategy</a> in August to address questions about the new visa application process for couples to an audience of almost 20,000 citizens.
 </p>
 
 <p dir="ltr">
-  <strong>What’s  Next? </strong>Improvements to the quality of Google Hangouts and other free livestream engagements, including high definition broadcast, will help more agencies use them for both inter-agency and citizen-to-government initiatives including:
+  <strong>What’s Next? </strong>Improvements to the quality of Google Hangouts and other free livestream engagements, including high definition broadcast, will help more agencies use them for both inter-agency and citizen-to-government initiatives including:
 </p>
 
   * <p dir="ltr">
@@ -43,7 +43,7 @@ tag:
     </p>
 
 <p dir="ltr">
-  That’s  just one approach though — in 2013 agencies diverged from only engaging on one or two main platforms and expanded to look at a fuller breadth of options to improve their mission. Agencies now have more than 60 social media apps available to them with <a title="Federal-Compatible Terms of Service Agreements" href="https://digitalgov.sites.usa.gov/resources/federal-compatible-terms-of-service-agreements/" target="_blank">federal-friendly terms of service</a> negotiated, allowing them to better select which method is best for engagement.
+  That’s just one approach though — in 2013 agencies diverged from only engaging on one or two main platforms and expanded to look at a fuller breadth of options to improve their mission. Agencies now have more than 60 social media apps available to them with <a title="Federal-Compatible Terms of Service Agreements" href="https://digitalgov.sites.usa.gov/resources/federal-compatible-terms-of-service-agreements/" target="_blank">federal-friendly terms of service</a> negotiated, allowing them to better select which method is best for engagement.
 </p>
 
   * <p dir="ltr">
@@ -70,7 +70,7 @@ tag:
       Agencies even gotten their feet wet in the viral space with <a href="http://www.buzzfeed.com/bennyjohnson/perfect-christmas-presents-for-your-loved-ones-that-you-can" target="_blank"><strong>Buzzfeed</strong> posts</a> and <a href="http://www.buzzfeed.com/arneduncan/top-9-things-every-college-freshman-needs-to-know-ecm4" target="_blank">animated gifs</a>.
     </p>
 
-**What’s  next?** More diverse and specialized tools and platforms for agencies are always in the review process for application to public services and terms of service. From performance analysis and management dashboards, to annotation and feedback tools, or better mobile image sharing, agencies will continue to gain new and more effective ways to reach, engage and listen to their communities. The examples go on, but they illustrate that gone are the days when the measure of an agency’s  social media footprint is how many followers they may have on one platform.
+**What’s next?** More diverse and specialized tools and platforms for agencies are always in the review process for application to public services and terms of service. From performance analysis and management dashboards, to annotation and feedback tools, or better mobile image sharing, agencies will continue to gain new and more effective ways to reach, engage and listen to their communities. The examples go on, but they illustrate that gone are the days when the measure of an agency’s social media footprint is how many followers they may have on one platform.
 
 <p dir="ltr">
   <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-3.jpg"><img class="size-full wp-image-105212 alignright" alt="Poster promoting #askFAFSA Office hours" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-3.jpg" width="267" height="360" /></a>Also, the success of a social media program is not only in using a tool or strategy, but how they measurably improve the performance of your mission.
@@ -81,7 +81,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Social media can be used for more than improving engagement with citizens, though — it’s  used to improve the policies and practices that govern our programs themselves.
+  Social media can be used for more than improving engagement with citizens, though — it’s used to improve the policies and practices that govern our programs themselves.
 </p>
 
 <p dir="ltr">
@@ -89,11 +89,11 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4.jpg"><img class="size-full wp-image-105222 alignright" alt="Tweet says " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4.jpg" width="305" height="236" /></a>“Who ever said the federal government can’t work fast?”<a href="http://blog.ucsusa.org/four-hours-after-ucs-report-release-united-states-geological-survey-takes-a-step-forward?utm_source=tw&utm_medium=tw&utm_campaign=tw" target="_blank"> asked the Union of Concerned Scientists later that Friday afternoon</a> in a public release. “That’s , um, fast. Sometimes it takes me longer to decide where I want to go for dinner.”
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4.jpg"><img class="size-full wp-image-105222 alignright" alt="Tweet says " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4.jpg" width="305" height="236" /></a>“Who ever said the federal government can’t work fast?”<a href="http://blog.ucsusa.org/four-hours-after-ucs-report-release-united-states-geological-survey-takes-a-step-forward?utm_source=tw&utm_medium=tw&utm_campaign=tw" target="_blank"> asked the Union of Concerned Scientists later that Friday afternoon</a> in a public release. “That’s, um, fast. Sometimes it takes me longer to decide where I want to go for dinner.”
 </p>
 
 <p dir="ltr">
-  <strong>What’s  next?</strong> More. We want to hear more of these applied innovation stories in 2014 as agencies, our partners and stakeholders increasingly use social media to make their operations faster and more effective. To achieve this we need you to not only know this level of performance is possible, but that it’s  already happening in agencies and through your support it will continue to spread.
+  <strong>What’s next?</strong> More. We want to hear more of these applied innovation stories in 2014 as agencies, our partners and stakeholders increasingly use social media to make their operations faster and more effective. To achieve this we need you to not only know this level of performance is possible, but that it’s already happening in agencies and through your support it will continue to spread.
 </p>
 
 <p dir="ltr">
@@ -121,7 +121,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4b.jpg"><img class="size-full wp-image-105242 alignright" alt="best of 4b" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4b.jpg" width="284" height="285" /></a>What’s  next? Whether through mobile development with the <a title="Mobile" href="https://digitalgov.sites.usa.gov/communities/mobile/" target="_blank"><strong>Mobile Community</strong></a>, innovative prize competitions through <strong><a href="https://challenge.gov/" target="_blank">Challenge.gov</a></strong>, the members of our SocialGov Community will continue to work across offices, agencies and missions to modernize and improve public services and meet the challenges of tomorrow.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4b.jpg"><img class="size-full wp-image-105242 alignright" alt="best of 4b" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/best-of-4b.jpg" width="284" height="285" /></a>What’s next? Whether through mobile development with the <a title="Mobile" href="https://digitalgov.sites.usa.gov/communities/mobile/" target="_blank"><strong>Mobile Community</strong></a>, innovative prize competitions through <strong><a href="https://challenge.gov/" target="_blank">Challenge.gov</a></strong>, the members of our SocialGov Community will continue to work across offices, agencies and missions to modernize and improve public services and meet the challenges of tomorrow.
 </p>
 
 <p dir="ltr">
@@ -153,7 +153,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The <strong>Department of State’s  Bureau of Consular Affairs</strong><a href="http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm" target="_blank"> released a new API</a> through <a href="http://www.data.gov/" target="_blank">Data.gov</a> to share travel warnings and travel alerts with U.S. citizens traveling or living overseas.  In 201The <strong>Department of State’s  Bureau of Consular Affairs</strong><a href="http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm" target="_blank"> released a new API</a> through <a href="http://www.data.gov/" target="_blank">Data.gov</a> to share travel warnings and travel alerts with U.S. citizens traveling or living overseas.  In 2014 your start-up could be one of our best examples by integrating the API with other streams of their social data into websites and mobile applications such as tourism guides and online travel agencies. This is just one example of an opportunity that can be increasingly found in missions across government.
+  The <strong>Department of State’s Bureau of Consular Affairs</strong><a href="http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm" target="_blank"> released a new API</a> through <a href="http://www.data.gov/" target="_blank">Data.gov</a> to share travel warnings and travel alerts with U.S. citizens traveling or living overseas.  In 201The <strong>Department of State’s Bureau of Consular Affairs</strong><a href="http://www.state.gov/r/pa/prs/ps/2013/11/218106.htm" target="_blank"> released a new API</a> through <a href="http://www.data.gov/" target="_blank">Data.gov</a> to share travel warnings and travel alerts with U.S. citizens traveling or living overseas.  In 2014 your start-up could be one of our best examples by integrating the API with other streams of their social data into websites and mobile applications such as tourism guides and online travel agencies. This is just one example of an opportunity that can be increasingly found in missions across government.
 </p>
 
 <p dir="ltr">
@@ -172,4 +172,4 @@ tag:
       <strong>Physical services</strong> that help develop “<a href="http://en.wikipedia.org/wiki/Internet_of_Things" target="_blank">the internet of things,</a>” such as how interestingly in Australia they <a href="http://www.dailymail.co.uk/sciencetech/article-2531157/The-sharks-TWEET-Tagged-fish-send-Twitter-messages-close-tourists.html" target="_blank">tagged sharks so they emit a warning tweet</a> when they swim close to the shore, and how entrepreneurs are developing “social machines” that perform functions based on social data commands.
     </p>
 
-We have a lot to look forward to in 2014, but only through your participation and engagement can we successfully unlock the full potential of social media in government. I’d like to <a href="mailto:justin.herman@gsa.gov" target="_blank">invite you to join all of us in the community</a>, whether you’re a federal employee, small business, entrepreneur, researcher, developer, student or just a very opinionated person — no matter what role you can play in developing programs and services that make people’s  lives better, we have a spot waiting for you right beside the <a href="https://twitter.com/search?q=%23socialgov&src=typd" target="_blank">#Socialgov hashtag</a>.
+We have a lot to look forward to in 2014, but only through your participation and engagement can we successfully unlock the full potential of social media in government. I’d like to <a href="mailto:justin.herman@gsa.gov" target="_blank">invite you to join all of us in the community</a>, whether you’re a federal employee, small business, entrepreneur, researcher, developer, student or just a very opinionated person — no matter what role you can play in developing programs and services that make people’s lives better, we have a spot waiting for you right beside the <a href="https://twitter.com/search?q=%23socialgov&src=typd" target="_blank">#Socialgov hashtag</a>.

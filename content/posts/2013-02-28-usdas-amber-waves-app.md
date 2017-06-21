@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/02/28/usdas-amber-waves-app/
 date: 2013-02-28 9:10:41 -0400
-title: 'USDA&amp;#8217;s Amber Waves App'
+title: 'USDA&#8217;s Amber Waves App'
 summary: 'The U.S. Department of Agriculture&amp;#8217;s (USDA) Economic Research Service (ERS) has developed a tablet app for their Amber Waves magazine which&nbsp;showcases research'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -13,8 +11,7 @@ tag:
   - USDA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/USDA\_AmberWaves\_screenshots.png" alt="USDA's Amber Waves tablet app, showing two pages: an article page with a photo at the top and text below, and the table of contents page showing photos and article descriptions." %}
-The [U.S. Department of Agriculture&#8217;s (USDA) Economic Research Service (ERS)](http://www.ers.usda.gov/) has developed a tablet app for their _Amber Waves_ magazine which showcases research and analysis on economic and policy issues related to agriculture, food, the environment, and rural America. Available as a [free download](http://www.ers.usda.gov/amber-waves) for both Android tablets and Apple&#8217;s iPad, the magazine will be updated quarterly on the app.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/USDA\_AmberWaves\_screenshots.png" alt="USDA's Amber Waves tablet app, showing two pages: an article page with a photo at the top and text below, and the table of contents page showing photos and article descriptions." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/USDA_AmberWaves_screenshots.png)The [U.S. Department of Agriculture&#8217;s (USDA) Economic Research Service (ERS)](http://www.ers.usda.gov/) has developed a tablet app for their _Amber Waves_ magazine which showcases research and analysis on economic and policy issues related to agriculture, food, the environment, and rural America. Available as a [free download](http://www.ers.usda.gov/amber-waves) for both Android tablets and Apple&#8217;s iPad, the magazine will be updated quarterly on the app.
 
 Each issue of _Amber Waves_ provides:
 

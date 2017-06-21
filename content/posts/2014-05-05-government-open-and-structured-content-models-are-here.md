@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/05/government-open-and-structured-content-models-are-here/
 date: 2014-05-05 2:17:39 -0400
-title: 'Government Open and Structured Content Models Are Here!'
+title: Government Open and Structured Content Models Are Here!
 summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&amp;#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways. How can you make your content adaptive for efficient delivery to all of these mediums? Structured content and open content models can help you create content that is'
-authors: [structured-and-open-content-models-working-group]
+authors:
+  - structured-and-open-content-models-working-group
 categories:
   - Code
   - Communities
@@ -43,17 +43,15 @@ tag:
   - USDA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" %}Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic.jpg" alt="250-x-210-COPE-Create-Once-Publish-Everywhere-strategy-graphic" %}Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways.
 
 How can you make your content adaptive for efficient delivery to all of these mediums?
 
 Structured content and open content models [can help you create content](https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/) that is platform-agnostic, format-free, and device-independent.
 
-We&#8217;ve created [two open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) that we want you to use and adapt. These content models were created to help government agencies easily publish content in multiple forms and on multiple platforms by a cross-agency working group sponsored by the General Service Administration’s  [Digital Services Innovation Center](https://www.WHATEVER/about/).
+We&#8217;ve created [two open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) that we want you to use and adapt. These content models were created to help government agencies easily publish content in multiple forms and on multiple platforms by a cross-agency working group sponsored by the General Service Administration’s [Digital Services Innovation Center](https://www.WHATEVER/about/).
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2958-x-1407-Open-Content-Model-full-cropped.jpg)
 
 The cross-agency working group created content models for &#8220;[articles](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html)&#8221; and &#8220;[events](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html)&#8220;–two commonly used content types on government websites. They define a core set of metadata elements for these two content types that may be supplemented for agency-specific use.
 

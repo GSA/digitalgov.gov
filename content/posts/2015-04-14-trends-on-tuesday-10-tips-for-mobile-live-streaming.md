@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/14/trends-on-tuesday-10-tips-for-mobile-live-streaming/
 date: 2015-04-14 11:10:55 -0400
-title: 'Trends on Tuesday\: 10 Tips for Mobile Live Streaming'
+title: 'Trends on Tuesday: 10 Tips for Mobile Live Streaming'
 summary: ' Mobile video is starting to hit its second wave for both consumption and creation, and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile bandwidth and cellular stability steadily increasing and consumers&amp;#8217; comfort with'
-authors: [wsullivan]
+authors:
+  - wsullivan
 categories:
   - Content
   - Mobile
@@ -16,8 +16,7 @@ tag:
   - Twitter
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" %}
 
 [Mobile video is starting to hit its second wave for both consumption and creation](http://qz.com/365293/it-took-a-decade-but-mobile-video-is-finally-exploding/), and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile [bandwidth and cellular stability steadily increasing](http://www.scribd.com/doc/259862003/State-of-the-Internet-Report-Q4-2014#scribd) and [consumers&#8217; comfort with larger mobile devices fueling more video watching on mobile](http://www.cmo.com/articles/2015/3/2/ADI-2015-Inaugural-Video-Benchmark-Report.html?cmpid=NIR280), a plethora of social apps now allow you to live stream and watch on mobile devices.
 
@@ -36,11 +35,11 @@ Early live video streaming pioneers, [Ustream](http://www.ustream.tv/platform/br
     [Still and video photographers and purists will cringe](http://digiday.com/platforms/time-take-vertical-video-seriously/), but Periscope and Meerkat are optimized for vertical or ‘portrait’ video shooting, so plan ahead to frame your shots to take advantage of this tall aspect ratio for visuals.
   4. **Make your broadcast easy to find.**
   
-    Make sure it’s  listed as ‘public,’ has the location tagged, and has a good description of what’s  going to happen.
+    Make sure it’s listed as ‘public,’ has the location tagged, and has a good description of what’s going to happen.
   5. **Publicize the event ahead of time on multiple social media channels.**
   
-    Give your followers a chance to pay attention or tune back in a couple hours and 15 minutes before the event on the social media channels where they follow you (not just Twitter, although it’s  probably the most real-time friendly).
-  6. **Find the right time of day to broadcast based on your audience’s  regular social media engagement habits.**
+    Give your followers a chance to pay attention or tune back in a couple hours and 15 minutes before the event on the social media channels where they follow you (not just Twitter, although it’s probably the most real-time friendly).
+  6. **Find the right time of day to broadcast based on your audience’s regular social media engagement habits.**
   
     This might not always be possible, but if you have control over the broadcast timing, check your current audience/fans&#8217; engagement levels throughout the day and find when they’re most likely to catch you streaming.
   7. **Prepare to respond to comments in real time.**

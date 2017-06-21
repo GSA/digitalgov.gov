@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/04/helpful-resources-to-help-make-your-content-mobile-friendly/
 date: 2015-05-04 10:00:43 -0400
-title: 'Helpful Resources to Make Your Content Mobile-Friendly'
-summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-friendliness a must for government agencies. With the recent update to Google’s search algorithm, or what some are calling Mobilegeddon, the case for building a mobile-friendly site becomes even stronger. For many government organizations, responsive Web design (RWD) has been the answer to their mobile question.'
-authors: [kdaniel]
+title: Helpful Resources to Make Your Content Mobile-Friendly
+summary: 'Smartphones make up 75% of the mobile market&mdash;which makes mobile-friendliness a must for government agencies. With the recent update to Google&rsquo;s search algorithm, or what some are calling Mobilegeddon, the case for building a mobile-friendly site becomes even stronger. For many government organizations, responsive Web design (RWD) has been the answer to their mobile question.'
+authors:
+  - kdaniel
 categories:
   - Content
   - Mobile
@@ -21,10 +21,9 @@ tag:
   - usability case study
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" %} 
-
-Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must](https://www.WHATEVER/2015/03/31/trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must/) for government agencies. With the recent update to Google’s  search algorithm, or what some are calling [Mobilegeddon](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/), the case for building a mobile-friendly site becomes even stronger.
+Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must](https://www.WHATEVER/2015/03/31/trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must/) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/), the case for building a mobile-friendly site becomes even stronger.
 
 For many government organizations, responsive Web design (RWD) has been the answer to their mobile question. While [RWD is by no means a panacea](http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/), it can provide agencies with a way to reach their customers on many devices with one site.
 
@@ -60,12 +59,11 @@ Agencies discuss the challenges faced when implementing RWD, including making a 
 
 ## **Responsive Web Design Case Studies**
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" %}From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" %}From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
+  * DFAS made a case for switching to RWD when [they saw their mobile usage rates increasing at the same time the site’s bounce rate was also increasing](https://www.WHATEVER/2014/10/21/responsive-web-design-challenges-webinar-recap/), signifying that more people were coming from mobile devices and leaving quickly when they had trouble finding the information they were looking for. DFAS then [utilized the responsive template code developed by HHS to make mobile-friendly data tables](https://www.WHATEVER/2014/12/11/defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables/).
 
-  * DFAS made a case for switching to RWD when [they saw their mobile usage rates increasing at the same time the site’s  bounce rate was also increasing](https://www.WHATEVER/2014/10/21/responsive-web-design-challenges-webinar-recap/), signifying that more people were coming from mobile devices and leaving quickly when they had trouble finding the information they were looking for. DFAS then [utilized the responsive template code developed by HHS to make mobile-friendly data tables](https://www.WHATEVER/2014/12/11/defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables/).
-
-  * GSA’s  Child Care Information Portal was [responsively redesigned based on customer feedback requesting a mobile experience](https://www.WHATEVER/2012/10/25/gsas-child-care-information-portal/), as well as a desire to simplify their website management by not having to create separate pages for mobile use.
+  * GSA’s Child Care Information Portal was [responsively redesigned based on customer feedback requesting a mobile experience](https://www.WHATEVER/2012/10/25/gsas-child-care-information-portal/), as well as a desire to simplify their website management by not having to create separate pages for mobile use.
 
   * AIDS.gov was one of the first agencies to [implement a responsive design when they saw increasing traffic to their mobile site](https://www.WHATEVER/2012/07/11/aids-gov-responsive-design/).
 

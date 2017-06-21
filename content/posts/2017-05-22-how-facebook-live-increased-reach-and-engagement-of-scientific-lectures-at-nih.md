@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/05/22/how-facebook-live-increased-reach-and-engagement-of-scientific-lectures-at-nih/
 date: 2017-05-22 1:00:34 -0400
-title: 'How Facebook Live Increased Reach and Engagement of Scientific Lectures at NIH'
-summary: 'Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain'
-authors: [yasmine-kloth]
+title: How Facebook Live Increased Reach and Engagement of Scientific Lectures at NIH
+summary: Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain
+authors:
+  - yasmine-kloth
 categories:
   - Content
   - Metrics
@@ -33,7 +33,7 @@ This blog post looks at how NCCIH used Facebook Live to communicate the importan
 
 ## A Layered Approach
 
-NCCIH hosts a yearly [Integrative Medicine Research Lecture Series](https://nccih.nih.gov/news/events/IMlectures) that explores the current state of research and practice involving complementary and integrative health approaches. These talks take place on the NIH campus, are free and open to the public, and are live-streamed and archived through [a streaming service provided by NIH](https://videocast.nih.gov/). This year’s  spring lectures focused on the [U.S. military, veterans, and their families](https://nccih.nih.gov/MilitaryHealthEvents2017).
+NCCIH hosts a yearly [Integrative Medicine Research Lecture Series](https://nccih.nih.gov/news/events/IMlectures) that explores the current state of research and practice involving complementary and integrative health approaches. These talks take place on the NIH campus, are free and open to the public, and are live-streamed and archived through [a streaming service provided by NIH](https://videocast.nih.gov/). This year’s spring lectures focused on the [U.S. military, veterans, and their families](https://nccih.nih.gov/MilitaryHealthEvents2017).
 
 To increase visibility and engagement of these talks, NCCIH implemented a digital strategy by:
 
@@ -42,8 +42,7 @@ To increase visibility and engagement of these talks, NCCIH implemented a digita
   3. Rounding out the series with an online-only event—[an additional Facebook Live Q&A](https://www.facebook.com/nih.nccih/videos/1405263649496849/) with high-level retired military personnel, now faculty members at the Uniformed Services University of the Health Sciences, who have extensive pain management experience
   4. Visually branding the series in addition to using [a hashtag](https://twitter.com/search?f=tweets&vertical=default&q=%23NCCIHmilitaryhealth&src=typd) and series title.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." %}
+{% img="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." %}
 
 The topics included resilience in military families, pain and opioid management in veterans, and the incorporation of mind and body approaches into military health treatment plans.
 
@@ -56,7 +55,7 @@ We can look at the success of this series in two ways:
 
 ### An Increase in Reach
 
-Since airing, the lectures, taken together, have had almost six times more views on Facebook Live than through the NIH streaming service. This shows that Facebook Live can be used as an additional streaming service that taps into our Center’s  existing online networks.
+Since airing, the lectures, taken together, have had almost six times more views on Facebook Live than through the NIH streaming service. This shows that Facebook Live can be used as an additional streaming service that taps into our Center’s existing online networks.
 
 And what about the Facebook Live Q&A sessions?
 
@@ -76,7 +75,7 @@ Why the incremental increase in engagement? A few reasons stand out:
   * The topic of the last Q&A was general—it focused on mind and body approaches and the U.S. military—and allowed for people to ask a broad range of questions, serving as a solid capstone for the series.
   * The experts in the last Q&A were high-profile retired military personnel whose stories and experiences connected with the audience.
 
-This element of Facebook Live—the element that puts not just the science, but the stories behind the science, into people’s  homes or offices—has changed how researchers and subject matter experts reach their audiences.
+This element of Facebook Live—the element that puts not just the science, but the stories behind the science, into people’s homes or offices—has changed how researchers and subject matter experts reach their audiences.
 
 Individuals who want to attend a lecture or learn more about a health topic but can’t join in person are still given the opportunity to show their emotions, share information, reach out to friends who might be interested, ask questions, and receive responses.
 
@@ -108,5 +107,5 @@ Each event, on the heels of the one before it, was an opportunity for promotion�
 </div><section> 
 
 <p id="fn1">
-  <a href="#r1">[1]</a> It’s  unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s  possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>
+  <a href="#r1">[1]</a> It’s unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>
 </p></section>

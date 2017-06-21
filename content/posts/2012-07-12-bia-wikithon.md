@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/07/12/bia-wikithon/
 date: 2012-07-12 3:04:12 -0400
-title: 'BIA Wikithon'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Bureau of Indian Affairs. The Bureau'
-authors: [jparcell]
+title: BIA Wikithon
+summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Bureau of Indian Affairs. The Bureau
+authors:
+  - jparcell
 categories:
   - Mobile
 tag:
@@ -17,8 +17,7 @@ tag:
   - U.S. Department of the Interior
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." %}
-Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__
+_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA_Wikithon_Picture_Lady_DC.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__
   
 _ 
 
@@ -44,7 +43,7 @@ We had a total of 61 people who participated in person at the Wikithon.
 
 ## What We Learned
 
-Considering the first 80 profiles took months and the next took a couple days, that’s  pretty remarkable. The Wikithon is a good place to start to collaborate on creating profiles. Also the employee profiles with photos is crucial because it helps match a name to a face for the Wikithon and for the future as well.
+Considering the first 80 profiles took months and the next took a couple days, that’s pretty remarkable. The Wikithon is a good place to start to collaborate on creating profiles. Also the employee profiles with photos is crucial because it helps match a name to a face for the Wikithon and for the future as well.
 
 ## What&#8217;s Next
 

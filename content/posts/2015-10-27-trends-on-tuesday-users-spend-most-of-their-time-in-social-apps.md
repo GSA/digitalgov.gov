@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/27/trends-on-tuesday-users-spend-most-of-their-time-in-social-apps/
 date: 2015-10-27 10:00:58 -0400
-title: 'Trends on Tuesday\: Users Spend Most of Their Time in Social Apps'
-summary: 'ComScore released a&nbsp;new 2015 U.S. Mobile App report tracking native mobile app usage among adults over 18 years old, and it reinforced a lot of the&nbsp;trends we&rsquo;ve been reporting on DigitalGov. Quartz succinctly summarized the report with the headline\: &ldquo;You really only use three apps on your phone.&rdquo; The&nbsp;report clearly pointed out that Americans spend'
-authors: [wsullivan]
+title: 'Trends on Tuesday: Users Spend Most of Their Time in Social Apps'
+summary: 'ComScore released a&nbsp;new 2015 U.S. Mobile App report tracking native mobile app usage among adults over 18 years old, and it reinforced a lot of the&nbsp;trends we&rsquo;ve been reporting on DigitalGov. Quartz succinctly summarized the report with the headline: &ldquo;You really only use three apps on your phone.&rdquo; The&nbsp;report clearly pointed out that Americans spend'
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -16,8 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-425-Social-Media-Time-Management-NiroDesign-iStock-Thinkstock-482599478.jpg" alt="The top half of a clock face with its hands on 11:51. Instead of numbers, it has web and social media terms: Post, Chat, Share, Friend, News, Link, and Blog." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-425-Social-Media-Time-Management-NiroDesign-iStock-Thinkstock-482599478.jpg" alt="The top half of a clock face with its hands on 11:51. Instead of numbers, it has web and social media terms: Post, Chat, Share, Friend, News, Link, and Blog." %} 
 
 ComScore released a [new 2015 U.S. Mobile App report</span>](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-2015-US-Mobile-App-Report) <span style="font-weight: 400">tracking native mobile app usage among adults over 18 years old, and it reinforced a lot of the </span>[<span style="font-weight: 400">trends we’ve been reporting on DigitalGov</span>](https://www.WHATEVER/2015/09/01/trends-on-tuesday-mobile-messaging-and-social-app-research-released/)<span style="font-weight: 400">.</p> 
 

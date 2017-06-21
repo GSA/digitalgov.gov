@@ -1,12 +1,12 @@
 ---
-
-
+url: /2014/05/21/the-road-to-better-websites-gets-easier-with-usability-walkthroughs/
 date: 2014-05-21 10:00:45 -0400
-title: 'The Road to Better Websites Gets Easier with Usability Walkthroughs'
-summary: 'The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently'
-authors: [ashley-braun]
+title: The Road to Better Websites Gets Easier with Usability Walkthroughs
+summary: The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently
+authors:
+  - ashley-braun
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -28,14 +28,13 @@ In early 2014, we called on the professional usability experts at the [DigitalGo
 
 # A Digital Walk
 
-During the hour of live feedback, one expert who had never before seen our website walked through our top tasks one by one, checking them off as she thought she had accomplished them. Watching remotely, I could see her mouse travel across our website, clicking from page to page, and I could hear her thinking aloud as she reasoned why she navigated through our website the way she did. I silently cheered as she correctly found certain pages or programs and bit my tongue, scribbling notes, as she sometimes missed certain navigation and features meant to direct her to her goals. Next, another expert shared feedback from her experience trying to do the same thing at an earlier date. Together, they also gave general feedback on the overall site, both what we were doing right and what we could do better. One major, but easy-to-implement, recommendation was to cut back on text and move important calls to action (e.g., download links) higher up on the screen into the user’s  initial field of view. After the usability walkthrough, the team gave us a report summarizing their feedback, recommending top usability improvements, and pointing us to other resources for learning more. In addition, they recorded the session and sent us a link to the video so others on my team could learn from the experience.
+During the hour of live feedback, one expert who had never before seen our website walked through our top tasks one by one, checking them off as she thought she had accomplished them. Watching remotely, I could see her mouse travel across our website, clicking from page to page, and I could hear her thinking aloud as she reasoned why she navigated through our website the way she did. I silently cheered as she correctly found certain pages or programs and bit my tongue, scribbling notes, as she sometimes missed certain navigation and features meant to direct her to her goals. Next, another expert shared feedback from her experience trying to do the same thing at an earlier date. Together, they also gave general feedback on the overall site, both what we were doing right and what we could do better. One major, but easy-to-implement, recommendation was to cut back on text and move important calls to action (e.g., download links) higher up on the screen into the user’s initial field of view. After the usability walkthrough, the team gave us a report summarizing their feedback, recommending top usability improvements, and pointing us to other resources for learning more. In addition, they recorded the session and sent us a link to the video so others on my team could learn from the experience.
 
 # Making Things Happen
 
-Based on these suggestions, our Web team reviewed some of our most visited pages. In some cases, we realized we were missing obvious calls to action, such as links to download our software, on the software product’s  main page. In another example, one of the most downloaded files on our website is an educational game called the “Water Cycle Game.” Most of the traffic to this page comes from search, but the game’s  files were pushed low on the page beneath big paragraphs of text giving background information. To address this, we shortened the first paragraph, moved up the call to download the game, and added sub-headings and bullets to make the text easier to scan (see red boxes below).
+Based on these suggestions, our Web team reviewed some of our most visited pages. In some cases, we realized we were missing obvious calls to action, such as links to download our software, on the software product’s main page. In another example, one of the most downloaded files on our website is an educational game called the “Water Cycle Game.” Most of the traffic to this page comes from search, but the game’s files were pushed low on the page beneath big paragraphs of text giving background information. To address this, we shortened the first paragraph, moved up the call to download the game, and added sub-headings and bullets to make the text easier to scan (see red boxes below).
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-553-Usability-Walkthroughs-2014-4-11-water-cycle-game-page-after-screenshot-with-notes.jpg" alt="Water cycle game page after screenshot with annotations" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-553-Usability-Walkthroughs-2014-4-11-water-cycle-game-page-after-screenshot-with-notes.jpg" alt="Water cycle game page after screenshot with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-4-11-water-cycle-game-page-after-screenshot_with-notes-1.jpg)
 
 &nbsp;
 
@@ -45,18 +44,16 @@ Another key area the team targeted for us to improve was a page pointing to our 
 
 &nbsp;
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-512-Usability-Walkthroughs-Before-ANNOTATED.jpg" alt="Before screenshot, with annotations" %}
-
-
-&nbsp;
-
-We came up with six potential layouts to address these issues. Putting these options before our broader Web team, we noted people’s  feedback on each layout for this page. We ultimately settled on a layout that breaks the single page into two (separating oil spill from chemical spill response tools), organizes the resources by type (software vs. publications), and uses bullets to add spacing between items listed. See the results below:
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-512-Usability-Walkthroughs-Before-ANNOTATED.jpg" alt="Before screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/BeforeANNOTATED.jpg)
 
 &nbsp;
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-547-Usability-Walkthroughs-After-ANNOTATED.jpg" alt="After screenshot, with annotations" %}
+We came up with six potential layouts to address these issues. Putting these options before our broader Web team, we noted people’s feedback on each layout for this page. We ultimately settled on a layout that breaks the single page into two (separating oil spill from chemical spill response tools), organizes the resources by type (software vs. publications), and uses bullets to add spacing between items listed. See the results below:
 
+&nbsp;
+
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-547-Usability-Walkthroughs-After-ANNOTATED.jpg" alt="After screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/AfterANNOTATED.jpg)
 
 While we&#8217;ve tackled a lot already, our team still has more work ahead. Currently, we are adapting our website to a responsive design, which will make our site easier to view on mobile devices. During this process, we are incorporating additional feedback from the usability walkthrough, particularly the suggestions directed at our homepage. And thanks to a little help from our friends in user experience, our journey to a more user-friendly website has started looking more like a walk in the park.
 
-_**Ashley Braun** is a Web Editor at NOAA’s  Office of Response and Restoration. For more information on usability testing, visit the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/) page or join the [DigitalGov User Experience Community of Practice](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)._
+_**Ashley Braun** is a Web Editor at NOAA’s Office of Response and Restoration. For more information on usability testing, visit the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/) page or join the [DigitalGov User Experience Community of Practice](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)._

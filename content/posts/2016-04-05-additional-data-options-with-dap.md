@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/04/05/additional-data-options-with-dap/
 date: 2016-04-05 10:00:38 -0400
-title: 'Additional Data Options With DAP'
-summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP\: (Example) &amp;lt;script language=&amp;#8221;javascript&amp;#8221; id=&amp;#8221;_fed_an_ua_tag&amp;#8221; src=&amp;#8221;https\://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&amp;amp;subagency=FEMA&amp;#8221;&amp;gt;&amp;lt;/script&amp;gt; You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass'
-authors: [immanuel-lee]
+title: Additional Data Options With DAP
+summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It&rsquo;s a simple line of of code that enables you to take advantage DAP: (Example) &amp;lt;script language=&amp;#8221;javascript&amp;#8221; id=&amp;#8221;_fed_an_ua_tag&amp;#8221; src=&amp;#8221;https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&amp;amp;subagency=FEMA&amp;#8221;&amp;gt;&amp;lt;/script&amp;gt; You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass'
+authors:
+  - immanuel-lee
 categories:
   - Code
   - Data
@@ -20,16 +20,15 @@ tag:
   - metrics
 ---
 
-Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s  a simple line of of code that enables you to take advantage DAP:
+Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:
 
 (Example)
   
- 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." %} 
+ {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." %} 
 
 You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass data that enable features within the code. They can also help configure settings in the code. It allows you to leverage more features in DAP or extract more data out of DAP. In the example above, we have the query string parameters “agency” and “subagency” that pass data into DAP for reporting purposes.
 
-Let’s  go through some useful options.
+Let’s go through some useful options.
 
 ## Central Hosting
 

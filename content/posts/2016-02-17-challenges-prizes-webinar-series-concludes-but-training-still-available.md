@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/02/17/challenges-prizes-webinar-series-concludes-but-training-still-available/
 date: 2016-02-17 11:10:20 -0400
-title: 'Challenges & Prizes Webinar Series Concludes, but Training Still Available'
-summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series\: How to Design &amp;amp; Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'
-authors: [eric-beidel]
+title: 'Challenges &#038; Prizes Webinar Series Concludes, but Training Still Available'
+summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series: How to Design &amp;amp; Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'
+authors:
+  - eric-beidel
 categories:
   - Challenges
 tag:
@@ -25,8 +25,7 @@ It began with a history lesson and ended with an eye to the future.
 
 In between, the **Expert Training Series: How to Design & Operate Prizes to Maximize Success** covered nearly every aspect of what it takes to run successful incentivized competitions.
 
-[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
+[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
 
 Below, we’ve provided a quick snapshot of what they said, as well as an index of the full webinars for your review.
 
@@ -34,15 +33,15 @@ Below, we’ve provided a quick snapshot of what they said, as well as an index 
 
 Solutions for your problem can come from anywhere, and a challenge open to all can elicit new ideas from doers and thinkers that government previously has never tapped.
 
-“If you’ve got a problem, there’s  a solution out there,” said Christopher Frangione, vice president of prize development at XPRIZE. “The purpose of a prize is to make everyone a hero. Why try to find the needle in a haystack? Let the needle find you.”
+“If you’ve got a problem, there’s a solution out there,” said Christopher Frangione, vice president of prize development at XPRIZE. “The purpose of a prize is to make everyone a hero. Why try to find the needle in a haystack? Let the needle find you.”
 
 [Watch/listen to this first webinar](https://www.youtube.com/watch?v=i0_CgUfHL04), originally hosted on July 14, 2015.
 
-## Module 2: It’s  All About the Teams—The Importance of Operational Incentives in Prizes
+## Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes
 
-It’s  not always about the money. There are a variety of ways federal agencies can attract worthy competitors, including providing access to subject matter experts and official facilities where teams can test their solutions.
+It’s not always about the money. There are a variety of ways federal agencies can attract worthy competitors, including providing access to subject matter experts and official facilities where teams can test their solutions.
 
-“You need a sufficient prize purse,” said Sam Ortega, manager of Partnerships Office at NASA Marshall Space Flight Center. But that’s  not all that matters. “You need enough to cut through the noise, you need enough to get teams excited.”
+“You need a sufficient prize purse,” said Sam Ortega, manager of Partnerships Office at NASA Marshall Space Flight Center. But that’s not all that matters. “You need enough to cut through the noise, you need enough to get teams excited.”
 
 [Watch/listen to the second webinar](https://www.youtube.com/watch?v=w_-UKCfyjUQ), originally hosted on Aug. 4, 2015.
 
@@ -72,7 +71,7 @@ Alan Zack, senior director of marketing and education for XPRIZE, discussed how 
 
 ## Module 6: Building a Community
 
-Egos and competing interests may be a problem in some groups, but that wasn’t the case with the community that developed around the Department of Housing and Urban Development’s  [Rebuild by Design](http://www.rebuildbydesign.org/) challenge, which saw teams develop plans to promote resilience in areas impacted by Hurricane Sandy.
+Egos and competing interests may be a problem in some groups, but that wasn’t the case with the community that developed around the Department of Housing and Urban Development’s [Rebuild by Design](http://www.rebuildbydesign.org/) challenge, which saw teams develop plans to promote resilience in areas impacted by Hurricane Sandy.
 
 “Designers were learning from finance people and finance people were learning from designers and they were all learning from hydrologists,” said Scott Davis, who helped administer the HUD challenge.
 
@@ -80,9 +79,9 @@ Egos and competing interests may be a problem in some groups, but that wasn’t 
 
 ## Module 7: Post-Prize Industry and the Post-Prize Impact
 
-“Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s  (USAID) Global Development Lab.
+“Sometimes you’re in the middle of a process where you think you know what you can get out of it, but then you realize you can get so much more,” said Alexis Bonnell, chief of applied innovation and acceleration at the U.S. Agency for International Development’s (USAID) Global Development Lab.
 
-USAID’s  [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit](https://www.WHATEVER/2015/12/11/all-in-partnering-across-sectors-can-boost-competition-results/), the challenge also produced innovations in sensors and information technology.
+USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/) continues to make an impact through cross-sector partnerships and technology development. In addition to providing front-line healthcare workers with a [safer, easier-to-use suit](https://www.WHATEVER/2015/12/11/all-in-partnering-across-sectors-can-boost-competition-results/), the challenge also produced innovations in sensors and information technology.
 
 [Watch/listen to the seventh and final webinar of the series](https://www.youtube.com/watch?v=QdLSB2rjV9w), originally hosted on Jan. 14.
 

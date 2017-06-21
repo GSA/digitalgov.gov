@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/30/welcome-to-betafec-campaign-finance-for-everyone/
 date: 2015-10-30 10:00:38 -0400
-title: 'Welcome to BetaFEC\: Campaign Finance for Everyone'
-summary: ' As the 2016 presidential election heats up, here at 18F we&rsquo;ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched betaFEC, the first piece in a complete redesign of the FEC’s online presence.'
-authors: [emileigh-barnes]
+title: 'Welcome to BetaFEC: Campaign Finance for Everyone'
+summary: ' As the 2016 presidential election heats up, here at 18F we&rsquo;ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched betaFEC, the first piece in a complete redesign of the FEC&rsquo;s online presence.'
+authors:
+  - emileigh-barnes
 categories:
   - Content
 tag:
@@ -14,29 +14,27 @@ tag:
   - Federal Election Commission
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" %}
+As the 2016 presidential election heats up, here at 18F we’ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched [betaFEC](https://beta.fec.gov/), the first piece in a complete redesign of the FEC’s online presence.
 
-As the 2016 presidential election heats up, here at 18F we’ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched [betaFEC](https://beta.fec.gov/), the first piece in a complete redesign of the FEC’s  online presence.
+We were excited to work on a project that allowed us to delve into intricate campaign finance data, plain language, and the FEC’s [first API](https://18f.gsa.gov/2015/07/08/openfec-api/). The FEC made for a fantastic partner—eager to explore new ideas, design for the user, and communicate in an understandable way.
 
-We were excited to work on a project that allowed us to delve into intricate campaign finance data, plain language, and the FEC’s  [first API](https://18f.gsa.gov/2015/07/08/openfec-api/). The FEC made for a fantastic partner—eager to explore new ideas, design for the user, and communicate in an understandable way.
-
-“The FEC has been doing open data since before it was cool,” said Noah Manger, an 18F designer who created the new site’s  user interface.
+“The FEC has been doing open data since before it was cool,” said Noah Manger, an 18F designer who created the new site’s user interface.
 
 The result is a beta site with an ambitious goal: Make campaign finance information accessible—and comprehensible—to everyone.
 
 ## Why you should care
 
-Campaign finance information can be challenging to understand. It’s  governed by complicated statutes and the sheer volume of data can be overwhelming. But every day, thousands of visitors access FEC.gov to search for campaign finance data, research compliance information, study agency actions, file disclosure reports, and more.
+Campaign finance information can be challenging to understand. It’s governed by complicated statutes and the sheer volume of data can be overwhelming. But every day, thousands of visitors access FEC.gov to search for campaign finance data, research compliance information, study agency actions, file disclosure reports, and more.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-250-US-Federal-Election-Commission-FEC-white-seal-on-blue-bg.jpg" alt="U.S. Federal Election Commission (FEC) white seal on blue background" %}The FEC releases information to the public about the money that federal candidates and committees raise and spend, a requirement under the Federal Election Campaign Act. Are you interested in seeing how much money a Senate candidate raised? Or spent? How much debt they took on? Which committees contributed to the campaign? The FEC is the original source.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-250-US-Federal-Election-Commission-FEC-white-seal-on-blue-bg.jpg" alt="U.S. Federal Election Commission (FEC) white seal on blue background" %}The FEC releases information to the public about the money that federal candidates and committees raise and spend, a requirement under the Federal Election Campaign Act. Are you interested in seeing how much money a Senate candidate raised? Or spent? How much debt they took on? Which committees contributed to the campaign? The FEC is the original source.
 
 For example, in the 2012 presidential election, 14 candidates spent more than $1.3 billion dollars combined. That same year, the 1,949 congressional candidates doled out even more: in excess of $1.8 billion. So far this cycle, presidential candidates have raised more than $273 million.
 
 The FEC already housed all that information on their website; the new site makes it easy to search, share, and understand the data.
 
-“Conceptually, you look at the existing FEC website, and it’s  organized by FEC reporting forms,” said Lindsay Young, an 18F developer on the project. “For people who don’t know which thing is disclosed on which form and don’t care what bucket it flows into, it can be frustrating.”
+“Conceptually, you look at the existing FEC website, and it’s organized by FEC reporting forms,” said Lindsay Young, an 18F developer on the project. “For people who don’t know which thing is disclosed on which form and don’t care what bucket it flows into, it can be frustrating.”
 
 ## betaFEC features
 
@@ -57,7 +55,7 @@ For example, from the 2016 presidential election page, users can compare two or 
   * Contribution type breaks it into individuals and non-individuals.
   * Contribution location shows data by state, either as a table or a map.
 
-While we’re thrilled with the beta site, our work over the past year has been much more extensive than that. Working with FEC, we’ve conducted extensive user research and testing. We also reorganized large quantities of data to build the FEC API, which is the foundation for the beta site. To build the API, we transferred data from FEC’s  data warehouse to 18F’s  cloud infrastructure and provided hosting, ATO, and DevOps support.
+While we’re thrilled with the beta site, our work over the past year has been much more extensive than that. Working with FEC, we’ve conducted extensive user research and testing. We also reorganized large quantities of data to build the FEC API, which is the foundation for the beta site. To build the API, we transferred data from FEC’s data warehouse to 18F’s cloud infrastructure and provided hosting, ATO, and DevOps support.
 
 ## Why beta?
 

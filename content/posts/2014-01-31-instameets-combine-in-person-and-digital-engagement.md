@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/01/31/instameets-combine-in-person-and-digital-engagement/
 date: 2014-01-31 3:23:51 -0400
-title: 'Instameets Combine In-person and Digital Engagement'
+title: Instameets Combine In-person and Digital Engagement
 summary: 'Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &amp;#8212; Instameets can achieve this strategic goal by using Instagram with meetups to amplify the vision of your mission. Katie Harbath, global'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Social Media
 tag:
@@ -13,8 +13,7 @@ tag:
   - National Zoological Park
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/National-Zoo-Panda.jpg" alt="Hands holding the National Zoo's baby panda on a table. Photo: National Zoo." %}
-Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212;
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/National-Zoo-Panda.jpg" alt="Hands holding the National Zoo's baby panda on a table. Photo: National Zoo." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/National-Zoo-Panda.jpg)Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212;
 
 **Instameets** can achieve this strategic goal by using **Instagram** with meetups to amplify the vision of your mission.
 
@@ -34,4 +33,4 @@ You can view a recording of the presentation below:
 
 Also, please remember to RSVP and join us for &#8220;Triple Threat: Managing, Measuring and Archiving Government Social Media&#8221; on Wednesday, Feb. 5. During this session Hootsuite will demonstrate to agencies how they can manage multiple accounts, collect and report robust performance analysis and automate archiving for records management &#8212; all in one dashboard.
 
-It’s  all part of our ongoing effort to bring you more of the best in social media for government training each week through DigitalGov University. We hope you can join us.
+It’s all part of our ongoing effort to bring you more of the best in social media for government training each week through DigitalGov University. We hope you can join us.

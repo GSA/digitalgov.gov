@@ -1,16 +1,15 @@
 ---
-
-
+url: /2015/01/27/new-inter-agency-social-media-cyber-vandalism-toolkit-launched/
 date: 2015-01-27 1:19:13 -0400
-title: 'New Inter-Agency Social Media Cyber-Vandalism Toolkit Launched'
-summary: 'Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services. A new toolkit&nbsp;developed by more than a dozen government managers and representatives from major social media platforms, &amp;#8220;Readiness, Recovery Response\: Social Media Cyber-Vandalism Toolkit,&amp;#8221; will help agencies'
-authors: [jherman]
+title: New Inter-Agency Social Media Cyber-Vandalism Toolkit Launched
+summary: 'Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services. A new toolkit&nbsp;developed by more than a dozen government managers and representatives from major social media platforms, &amp;#8220;Readiness, Recovery Response: Social Media Cyber-Vandalism Toolkit,&amp;#8221; will help agencies'
+authors:
+  - jherman
 categories:
   - Social Media
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" %} 
 
 Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services.
 

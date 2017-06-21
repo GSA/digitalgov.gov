@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/08/10/the-data-briefing-finding-great-global-development-data-visualizations-courtesy-of-the-state-department/
 date: 2016-08-10 1:30:22 -0400
-title: 'The Data Briefing\: FINDing Great Global Development Data Visualizations Courtesy of the State Department'
-summary: 'Federal agencies have been releasing some fascinating data visualization tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the &ldquo;F Interagency Network Databank.&rdquo; From the description in the FAQ\: &ldquo;The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level'
-authors: [bbrantley]
+title: 'The Data Briefing: FINDing Great Global Development Data Visualizations Courtesy of the State Department'
+summary: 'Federal agencies have been releasing some fascinating data visualization tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the &ldquo;F Interagency Network Databank.&rdquo; From the description in the FAQ: &ldquo;The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level'
+authors:
+  - bbrantley
 categories:
   - Data
 tag:
@@ -20,8 +20,7 @@ Federal agencies have been releasing some fascinating [data visualization](https
 
 > “_The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level data, and then share what they discover. FIND was designed around the needs of U.S. government analysts and also benefits a broad-range of stakeholders, including the U.S. public, civil society organizations, universities, foreign aid donors, Congress and partner country governments”_
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-340-Find-State-Gov-homepage.jpg" alt="The https://find.state.gov homepage." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-340-Find-State-Gov-homepage.jpg" alt="The https://find.state.gov homepage." %}
 
 Starting on the home page, I used Turkey as the example country. I was then taken to the visualize page where I could choose indicators, add other countries, and choose a graph. I clicked on “Economic Growth” and then chose “Employment.” My selection opened up more economic indicators. I chose “Employment in services, male” and “Employment in services, female.” Then, I chose the scatter chart from the “2 Indicators” option under the “Choose Graph” column. The final action is to push the “Build” button.
 
@@ -35,4 +34,4 @@ Sites like FIND are a welcome trend as more agencies release data visualization 
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -1,15 +1,15 @@
 ---
-
-
+url: /2016/08/09/live-streamed-demos-for-exponential-transparency-and-information-sharing/
 date: 2016-08-09 10:00:36 -0400
-title: 'Live Streamed Demos for Exponential Transparency and Information Sharing'
+title: Live Streamed Demos for Exponential Transparency and Information Sharing
 summary: 'This spring, the eRegulations Notice &amp;amp; Comment team began building out a new feature set for the platform &mdash; adding the ability for agencies with proposed regulations to show the public more precisely the changes being proposed and allow agencies to receive more granular, contextual, and better-organized comments. One of the challenges we wrestled with'
-authors: [wsullivan]
+authors:
+  - wsullivan
 categories:
   - Code
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - Video
 tag:
   - 18F
@@ -31,8 +31,7 @@ With half a dozen agencies interested in this minimum viable product pilot and s
 
 So we explored some options and landed on a creative option — live streaming our demos through a video website that is accessible by most government agencies, doesn’t require extraneous plugins to operate, allows you to easily stream, but also automatically creates a viewable file afterwards at the same URL. YouTube is widely accessible behind government firewalls, and has useful functionality for both presenters (Hangouts On Air, an enhanced version of the video chat program) and viewers. After mistakenly launching and ending the first live attempt before it was supposed to go live, we learned how to use the tool, and it really helped us share information across many agencies, teams, and individuals. We’re also excited about this serving as an archive of our work.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-364-18F-demo-video.jpg" alt="A screenshot of a youtube video used to demo the e-regs work." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-364-18F-demo-video.jpg" alt="A screenshot of a youtube video used to demo the e-regs work." %}
 
 ## Major lessons and benefits that made this work: {#major-lessons-and-benefits-that-made-this-work}
 
@@ -50,7 +49,7 @@ So we explored some options and landed on a creative option — live streaming o
   * Be plugged-in or fully charged; live streaming and Hangouts both take a lot of battery life.
   * Make sure the “producer” or whoever is running the live stream starts the broadcast first, then send out invites to everyone presenting. If someone hits the presenter link before the actual account owner and presenter, it kills the broadcast link. So login and launch first, then share the presenter links with your presenters.
   * Viewers will always use the YouTube link.
-  * The beginning of your recorded video will have some dead time from your setup, but it’s  a small price to pay for not having to use video editing software.
+  * The beginning of your recorded video will have some dead time from your setup, but it’s a small price to pay for not having to use video editing software.
   * Call-in with a land line phone for the audio conference for better audio quality.
   * Create or use a base Powerpoint or Google Docs presentation to create a professional feel with a clear beginning, chapters, and ending to the presentation.
   * Be mindful of how public to make your videos — YouTube offers private, public, and unlisted settings for videos. Private videos are tied to an email invite, public are searchable and totally visible to anyone, and unlisted are viewable by anyone with the link, but not searchable or indexed.

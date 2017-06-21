@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/08/12/top-10-best-practices-for-multilingual-websites/
 date: 2012-08-12 4:31:45 -0400
-title: 'Top 10 Best Practices for Multilingual Websites'
+title: Top 10 Best Practices for Multilingual Websites
 summary: ' Language Online communications must address the language preferences of users. The use of machine or automatic translations is strongly discouraged even if a disclaimer is added. If government agencies decide to use software assisted translation, have the translation reviewed by a qualified language professional before posting it to the website'
-authors: [lgodfrey]
+authors:
+  - lgodfrey
 categories:
   - Content
 tag:
@@ -20,8 +20,7 @@ tag:
   - USAgov
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/08/top_10.png" alt="Top 10" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/08/top_10.png" alt="Top 10" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/08/top_10.png)
 
   1. **Language**
   

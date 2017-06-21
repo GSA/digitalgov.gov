@@ -1,10 +1,11 @@
 ---
-
-
+url: /2016/09/07/lets-encrypt-those-cnames-shall-we/
 date: 2016-09-07 11:00:56 -0400
-title: 'Let’s Encrypt Those CNAMES, Shall We?'
-summary: 'This is post 4 in the 5-part series, The Right Tools for the Job\: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&amp;#8217;t done so already. In addition to the DNS challenges created by offering &amp;#8220;masked&amp;#8221; domains such'
-authors: [dmccleskey, nathan-smith]
+title: Let’s Encrypt Those CNAMES, Shall We?
+summary: 'This is post 4 in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&amp;#8217;t done so already. In addition to the DNS challenges created by offering &amp;#8220;masked&amp;#8221; domains such'
+authors:
+  - dmccleskey
+  - nathan-smith
 categories:
   - Managing Digital
   - Monthly Theme
@@ -17,8 +18,7 @@ tag:
 
 _This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 
 
-In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such as <tt>nasasearch.nasa.gov</tt>, we also had to solve the problem of how to maintain SSL certificates for the main <tt>search.usa.gov</tt> domain along with the &#8220;masked&#8221; domains of all customers that wanted HTTPS support for their own domains. As also noted in an [earlier post](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/), this all needed to be done in a multi-app-server environment with no interruption of service. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Digital-Encryption-Lock-peterscode-iStock-Thinkstock-465159645.jpg" alt="Digital Encryption Lock" %} 
+In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such as <tt>nasasearch.nasa.gov</tt>, we also had to solve the problem of how to maintain SSL certificates for the main <tt>search.usa.gov</tt> domain along with the &#8220;masked&#8221; domains of all customers that wanted HTTPS support for their own domains. As also noted in an [earlier post](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/), this all needed to be done in a multi-app-server environment with no interruption of service. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Digital-Encryption-Lock-peterscode-iStock-Thinkstock-465159645.jpg" alt="Digital Encryption Lock" %} 
 
 ## SAN SSL Certificates and Let&#8217;s Encrypt
 
@@ -31,8 +31,7 @@ We knew we wanted to make use of a [multi-domain Subject Alternative Name](https
   * The certificate authority gives the green light to the hosting provider
   * The hosting provider adds the new domain to our SAN certificate and notifies us
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/527-x-380-ssl\_certificate\_process_before.jpg" alt="Diagram of the previous SSL certificate process." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/527-x-380-ssl\_certificate\_process_before.jpg" alt="Diagram of the previous SSL certificate process." %}
 
 [Let&#8217;s Encrypt](https://letsencrypt.org/) offers an automated process for obtaining and renewing SSL certificates — including SAN SSL certificates for up to 100 domains — as long as you can prove to them that you control any domain that&#8217;s included in a requested certificate. Given that we wanted to be able to quickly offer HTTPS support to new or existing &#8220;masked&#8221; domain customers, this automation seemed very promising. The fact that Let&#8217;s Encrypt is a free service made it all the more compelling. So we set ourselves about the task of making sure we could always prove our ownership of the <tt>search.usa.gov</tt> domain as well as &#8220;masked&#8221; customer domains while keeping the site available for customer use at all times.
 
@@ -43,7 +42,7 @@ The process of requesting an SSL certificate from Let&#8217;s Encrypt involves r
   * DNS challenge: the agent creates a DNS record for a particular sub-domain requested by the CA in order to prove that it has control over DNS for that domain
   * HTTP challenge: the agent creates a text file at a particular location with particular content that the CA can then request in order to prove that the agent has control over web page content for that domain
 
-Since we cannot create DNS records for our customers&#8217; &#8220;masked&#8221; domains and it’s  not easy even to publish <tt>search.usa.gov</tt> DNS records, that left HTTP as the only Domain Validation option for us. Our goal then was to make sure we could have the Let&#8217;s Encrypt agent create web resources as needed to respond to any HTTP challenge issued by the CA.
+Since we cannot create DNS records for our customers&#8217; &#8220;masked&#8221; domains and it’s not easy even to publish <tt>search.usa.gov</tt> DNS records, that left HTTP as the only Domain Validation option for us. Our goal then was to make sure we could have the Let&#8217;s Encrypt agent create web resources as needed to respond to any HTTP challenge issued by the CA.
 
 ## Certbot
 
@@ -55,11 +54,9 @@ To ask Let&#8217;s Encrypt for a SAN SSL certificate for our primary domain <tt>
 
 Roughly following the [Domain Validation example](https://letsencrypt.org/how-it-works/) in the Let&#8217;s Encrypt documentation, the process of fulfilling this certificate request would complete the two steps illustrated in these diagrams for each domain.
 
-### Challenge 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-143-Lets-Encrypt-howitworks_challenge.jpg" alt="challenge" %} 
+### Challenge {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-143-Lets-Encrypt-howitworks_challenge.jpg" alt="challenge" %} 
 
-### Authorization 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-380-Lets-encrypt-howitworks_authorization.jpg" alt="authorization" %} 
+### Authorization {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-380-Lets-encrypt-howitworks_authorization.jpg" alt="authorization" %} 
 
 ### Challenge / Authorization for each Domain
 
@@ -73,8 +70,7 @@ Roughly following the [Domain Validation example](https://letsencrypt.org/how-it
 
 This reduces the convoluted many-party, multi-step process to one that involves only three parties. Since one of these parties, Let&#8217;s Encrypt, is automated, this reduces the entire process time from weeks to minutes.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/416-x-387-ssl\_certificate\_process_after.jpg" alt="New certificate process." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/416-x-387-ssl\_certificate\_process_after.jpg" alt="New certificate process." %}
 
 ## HTTP Domain Validation in a Multi-app-server Environment
 
@@ -84,8 +80,7 @@ The solution to running Certbot in a multi-server environment stems from the fac
 
 <tt><Location /.well-known/acme-challenge/><br /> ProxyPass http://lets-encrypt.infr.search.usa.gov/.well-known/acme-challenge/<br /> Require all granted<br /> </Location></tt>
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-523-lets\_encrypt\_and\_customer\_requests.jpg" alt="Let's encrypt and customer requests." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-523-lets\_encrypt\_and\_customer\_requests.jpg" alt="Let's encrypt and customer requests." %}
 
 This guarantees that Domain Validation requests go to our Certbot host and all other traffic goes to our pool of application servers. We set up all our proxy EC2 application servers with these special <tt><Location></tt> blocks as well as all of the application servers in the old hosting environment (not shown in the diagram). So whether the Let&#8217;s Encrypt CA issues a Domain Validation request for a domain that was still being handled by the old hosting environment or a domain that was being handled by the new AWS hosting environment, we were guaranteed that the request would eventually get proxied to the host that&#8217;s running Certbot.
 

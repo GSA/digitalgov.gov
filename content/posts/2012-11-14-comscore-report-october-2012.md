@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/11/14/comscore-report-october-2012/
 date: 2012-11-14 2:13:09 -0400
-title: 'comScore Report, October 2012'
-summary: 'In October 2012, comScore, a Web analytics research company, released&nbsp;an independently produced&nbsp;report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore'
-authors: [marina-fox]
+title: comScore Report, October 2012
+summary: 'In October 2012, comScore, a Web analytics research company, released&nbsp;an independently produced&nbsp;report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA&rsquo;s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore'
+authors:
+  - marina-fox
 categories:
   - Metrics
 tag:
@@ -12,9 +12,9 @@ tag:
   - Digital Analytics Program
 ---
 
-In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s  contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore gets its data from representative consumer panels, so the analysis does not include business or government users.
+In October 2012, comScore, a Web analytics research company, released an independently produced report that analyzes 75 federal agency websites on a range of quantitative and qualitative factors. The report was provided to GSA as part of GSA’s contract with comScore to collect analytics on federal websites. This report focuses on consumer impressions of public websites. comScore gets its data from representative consumer panels, so the analysis does not include business or government users.
 
-This report presents one of many perspectives available on the performance of websites. No single report or methodology should be viewed as the &#8220;right&#8221; approach. Instead, agencies should take in many data points from within their organizations, as well as from external sources, when making decisions about how to best meet their audience needs. In all cases, it’s  important to learn about the assumptions and limitations of the data sources.
+This report presents one of many perspectives available on the performance of websites. No single report or methodology should be viewed as the &#8220;right&#8221; approach. Instead, agencies should take in many data points from within their organizations, as well as from external sources, when making decisions about how to best meet their audience needs. In all cases, it’s important to learn about the assumptions and limitations of the data sources.
 
 The analysis of this and other data, such as the [American Customer Satisfaction Index (ACSI)](http://foresee.com/research-white-papers/research-by-industry.shtml#government), are a starting point for discussions about ways to benchmark to improve the customer experience on government websites. See more at [Digital Analytics for Federal Agencies](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/ "Digital Metrics for Federal Agencies").
 

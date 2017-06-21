@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/12/20/live-tweeting-government-events-dos-and-donts/
 date: 2013-12-20 9:24:55 -0400
-title: 'Live Tweeting Government Events — DOs and DON&rsquo;Ts'
+title: Live Tweeting Government Events – DOs and DON’Ts
 summary: ' In this time of tight travel budgets, not everyone can make it to every event or conference they&rsquo;d like to attend. Luckily, Twitter has made it easier to share events through live tweeting. Live tweeting is using Twitter to'
-authors: [sara-harris-smith]
+authors:
+  - sara-harris-smith
 categories:
   - Social Media
 tag:
@@ -12,8 +12,7 @@ tag:
   - Twitter
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" %}
 
 In this time of tight travel budgets, not everyone can make it to every event or conference they’d like to attend. Luckily, Twitter has made it easier to share events through live tweeting.
 
@@ -48,7 +47,7 @@ Provide your followers with the best information and get the most out of your ef
     </p>
 
   * <p dir="ltr">
-      <strong>Send a Thank You tweet at the end of the conference</strong>. Sending a “Thank you” tweet at the end of conference is both polite and signals to your followers, “that’s  a wrap!”
+      <strong>Send a Thank You tweet at the end of the conference</strong>. Sending a “Thank you” tweet at the end of conference is both polite and signals to your followers, “that’s a wrap!”
     </p>
 
   * <p dir="ltr">
@@ -58,7 +57,7 @@ Provide your followers with the best information and get the most out of your ef
 ### DON’T
 
   * <p dir="ltr">
-      <strong>Tweet for the sake of tweeting</strong>. Be picky about what you send out. Try setting a limit for the number of tweets you send per presentation. You don’t want to overwhelm people’s  twitter streams. If a presentation is going too fast to keep up wait until the end and tweet one or two takeaways.
+      <strong>Tweet for the sake of tweeting</strong>. Be picky about what you send out. Try setting a limit for the number of tweets you send per presentation. You don’t want to overwhelm people’s twitter streams. If a presentation is going too fast to keep up wait until the end and tweet one or two takeaways.
     </p>
 
   * <p dir="ltr">
@@ -81,4 +80,4 @@ Provide your followers with the best information and get the most out of your ef
   I hope this list helps make your next live-tweeting experience a little easier! Do you have other tips and tricks? Please get in touch by commenting below.
 </p>
 
-Originally published on the <a href="http://fedcommnetwork.blogspot.com/" target="_blank">Federal Communicator’s  Network Blog</a>.
+Originally published on the <a href="http://fedcommnetwork.blogspot.com/" target="_blank">Federal Communicator’s Network Blog</a>.

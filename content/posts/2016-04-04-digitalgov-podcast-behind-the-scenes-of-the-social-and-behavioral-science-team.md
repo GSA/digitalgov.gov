@@ -1,13 +1,13 @@
 ---
-
-
+url: /2016/04/04/digitalgov-podcast-behind-the-scenes-of-the-social-and-behavioral-science-team/
 date: 2016-04-04 10:00:15 -0400
-title: 'DigitalGov Podcast\: Behind the Scenes of the Social and Behavioral Science Team'
-summary: 'Enrolling veterans in retirement plans. Helping small farmers access credit. Surveying employees about their workspace. These projects might seem widely different from one another\: they span different agencies and diverse audiences. But all three projects have been addressed by a new team in government that is helping agencies build things better, based on behavioral science.'
-authors: [awichman]
+title: 'DigitalGov Podcast: Behind the Scenes of the Social and Behavioral Science Team'
+summary: 'Enrolling veterans in retirement plans. Helping small farmers access credit. Surveying employees about their workspace. These projects might seem widely different from one another: they span different agencies and diverse audiences. But all three projects have been addressed by a new team in government that is helping agencies build things better, based on behavioral science.'
+authors:
+  - awichman
 categories:
   - Managing Digital
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - GSA
   - Social and Behavioral Sciences Team
@@ -22,12 +22,11 @@ Enrolling veterans in retirement plans. Helping small farmers access credit. Sur
 
 These projects might seem widely different from one another: they span different agencies and diverse audiences. But all three projects have been addressed by a new team in government that is helping agencies build things better, based on behavioral science.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team." %}
 
 The [Social and Behavioral Sciences Team](https://sbst.gov/) (SBST) uses theories, research, and methods from the social and behavioral sciences to address and solve challenges faced by the public. Team members come from a variety of backgrounds, including economics, psychology, and political science.
 
-SBST doesn’t test out random interventions. They use methods that have already been researched, tested and proven. In the case of the small farmers, SBST helped the Department of Agriculture (USDA) develop a new outreach letter that provided information about a microloan program as well as customized contact information for loan officers in the farmers’ area. The letters more than doubled the amount of microloan-related activity in USDA’s  Farm Service Agency county offices.
+SBST doesn’t test out random interventions. They use methods that have already been researched, tested and proven. In the case of the small farmers, SBST helped the Department of Agriculture (USDA) develop a new outreach letter that provided information about a microloan program as well as customized contact information for loan officers in the farmers’ area. The letters more than doubled the amount of microloan-related activity in USDA’s Farm Service Agency county offices.
 
 Members of the SBST team recently sat down with the DigitalGov team to talk more deeply about their work, including:
 

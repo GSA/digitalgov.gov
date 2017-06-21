@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/02/09/webinar-recap-better-faster-and-more-flexible-u-s-web-design-standards-update/
 date: 2017-02-09 12:00:10 -0400
-title: 'Webinar Recap\: Better, Faster, and More Flexible&mdash;U.S. Web Design Standards Update'
+title: 'Webinar Recap: Better, Faster, and More Flexible—U.S. Web Design Standards Update'
 summary: 'The Road to Launch Version 1.0 You may have noticed a new, cleaner, and more modern look to some government websites over the last year&mdash;these are the web properties that were early adopters of the Draft U.S. Web Design Standards from 18F, the digital services agency which is part of the General Services Administration (GSA).'
-authors: [lisa-bari]
+authors:
+  - lisa-bari
 categories:
   - Content
   - Design
@@ -19,8 +19,7 @@ tag:
 
 You may have noticed a new, cleaner, and more modern look to some government websites over the last year—these are the web properties that were early adopters of the [Draft U.S. Web Design Standards](https://standards.usa.gov/) from 18F, the digital services agency which is part of the General Services Administration (GSA).
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/04/600-x-420-Draft-US-Web-Design-Standards-UI-page-screencap.jpg" alt="Screencapture of the UI (user interface) page on the Draft US Web Design Standards website." %}
+{% img="https://www.WHATEVER/files/2017/04/600-x-420-Draft-US-Web-Design-Standards-UI-page-screencap.jpg" alt="Screencapture of the UI (user interface) page on the Draft US Web Design Standards website." %}
 
 The Standards are located at <https://standards.usa.gov>, with helpful links to the individual [UI components](https://standards.usa.gov/components/), [design principles](https://standards.usa.gov/design-principles/), and [page templates](https://standards.usa.gov/page-templates/). You can also visit [the GitHub repository for the Design Standards](https://github.com/18F/web-design-standards)—for those not in the know, GitHub is a place where web developers can store their code and release notes in an open environment. Users can review and download the code and standards, and can also “fork” them—that is, modify for their own use.
 
@@ -28,7 +27,7 @@ At the end of January, the team from 18F [held a DigitalGov University webinar](
 
 ## Why do we need web standards?
 
-Web standards help us provide a consistent experience across a complex system of websites that communicate important government information to the public. This consistent, modern, and useful experience simply makes government websites better and easier to use. What’s  more, government websites are rife with legacy systems—that is older, more out of date technology. Using the new web standards will eventually help improve these legacy systems.
+Web standards help us provide a consistent experience across a complex system of websites that communicate important government information to the public. This consistent, modern, and useful experience simply makes government websites better and easier to use. What’s more, government websites are rife with legacy systems—that is older, more out of date technology. Using the new web standards will eventually help improve these legacy systems.
 
 ## What does the 1.0 Launch mean?
 
@@ -39,7 +38,7 @@ A 1.0 version simply means that the standards are currently in production, and a
   * [History.state.gov](https://history.state.gov/) – the U.S. Office of the Historian, a great example of a content-heavy site using the Standards
   * [EPA.gov](https://www.epa.gov/) – a recent refresh using the new Standards
 
-## What’s  next for the U.S. Web Design Standards?
+## What’s next for the U.S. Web Design Standards?
 
 18F offers a host of services around the new Standards:
 
@@ -49,7 +48,7 @@ A 1.0 version simply means that the standards are currently in production, and a
 
 Additionally, they are mid-way through a [product roadmap](https://standards.usa.gov/whats-new/product-roadmap/) that includes [showcasing the benefits of the Standards to agencies and users](https://standards.usa.gov/whats-new/product-roadmap/#milestone-3), and [continuing the work of improving the Standards](https://standards.usa.gov/whats-new/product-roadmap/#milestone-4) by improving performance, finding partners to work on more complex open source components, and releasing future versions as they grow.
 
-And there’s  one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
+And there’s one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
 
 
 

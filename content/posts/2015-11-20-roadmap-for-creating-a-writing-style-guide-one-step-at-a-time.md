@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/11/20/roadmap-for-creating-a-writing-style-guide-one-step-at-a-time/
 date: 2015-11-20 10:00:37 -0400
-title: 'Roadmap for Creating a Writing Style Guide\: One Step at a Time'
-summary: 'So, you&rsquo;re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency&rsquo;s'
-authors: [colleen-blessing]
+title: 'Roadmap for Creating a Writing Style Guide: One Step at a Time'
+summary: 'So, you&rsquo;re tired of seeing little (or big!) errors on your agency&rsquo;s website, and you flinch at the random writing styles. You feel like your agency&rsquo;s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency&rsquo;s'
+authors:
+  - colleen-blessing
 categories:
   - Writing
 tag:
@@ -13,8 +13,7 @@ tag:
   - U.S. Energy Information Administration
 ---
 
-So, you’re tired of seeing little (or big!) errors on your agency’s  website, and you flinch at the random writing styles. You feel like your agency’s  content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s  communication and credibility. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Fill-it-Procy_ab-iStock-Thinkstock-167459454.jpg" alt="A wooden Manikin figure gesturing toward a blank spiral notebook" %} 
+So, you’re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s communication and credibility. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Fill-it-Procy_ab-iStock-Thinkstock-167459454.jpg" alt="A wooden Manikin figure gesturing toward a blank spiral notebook" %} 
 
 How do you create a Writing Style Guide? What goes in it? My agency, the U.S. Energy Information Administration (EIA), created an award-winning [Writing Style Guide](http://www.eia.gov/about/styleguide2015.pdf) in 2012 that was updated in 2015. I’ll give you some advice from our experience.
 
@@ -24,7 +23,7 @@ Start with the basics—cover things you hope most writers learned in high schoo
 
 ## Grammar vs. style
 
-The next step is a little trickier, but it’s  very important. Every organization has a writing style that includes voice, tone, and writing decisions. Unlike grammar, which has specific rules that must not be broken (like capitalizing the first word in a sentence), many style issues are preferences. Your agency can decide about whether to use the serial comma, which ending punctuation to use for bulleted lists, and when to write out numbers. If you see “We had 2 cookies, 3 cakes and 4 pies” in one paragraph and then “We had two cookies, three cakes, and four pies” in the next paragraph (or in another story on your website), then your agency has a consistency problem. If you can’t tell the differences in these two sentences, call me.
+The next step is a little trickier, but it’s very important. Every organization has a writing style that includes voice, tone, and writing decisions. Unlike grammar, which has specific rules that must not be broken (like capitalizing the first word in a sentence), many style issues are preferences. Your agency can decide about whether to use the serial comma, which ending punctuation to use for bulleted lists, and when to write out numbers. If you see “We had 2 cookies, 3 cakes and 4 pies” in one paragraph and then “We had two cookies, three cakes, and four pies” in the next paragraph (or in another story on your website), then your agency has a consistency problem. If you can’t tell the differences in these two sentences, call me.
 
 ## Organization specifics
 
@@ -32,7 +31,7 @@ Next you add some content that is specific to your agency and your mission. EIA 
 
 ## Mistakes, mistakes, mistakes
 
-If you regularly review your agency’s  content, you probably see the same mistakes over and over. What can’t they remember this rule? Why are they still using that word? And, are writers always asking questions about the same things? Keep track of these common mistakes and questions. Make sure they are addressed in your guide. If you’re like EIA, you will find the minute you publish your guide, you will get more questions to add to the list of possible updates for the next version. Questions and writing mistakes are a golden source of content for your guide.
+If you regularly review your agency’s content, you probably see the same mistakes over and over. What can’t they remember this rule? Why are they still using that word? And, are writers always asking questions about the same things? Keep track of these common mistakes and questions. Make sure they are addressed in your guide. If you’re like EIA, you will find the minute you publish your guide, you will get more questions to add to the list of possible updates for the next version. Questions and writing mistakes are a golden source of content for your guide.
 
 ## Quick references
 
@@ -40,11 +39,11 @@ Provide additional content as quick references for authors. In our guide, these 
 
 ## Copy others
 
-Don’t start from scratch on your writing guide—copy from others! Much of the content and organization in your guide probably will be similar to many guides already out there. See what other guides cover, and see how they explain the issues, then tailor those ideas to your organization. Include examples of actual mistakes you have seen. Also, read the tomes of traditional wisdom: I skimmed page by page though the 800 pages of the Chicago Manual of Style to see what topics I might want to include in EIA’s  guide. Or just copy EIA’s  Guide if it works for your agency.
+Don’t start from scratch on your writing guide—copy from others! Much of the content and organization in your guide probably will be similar to many guides already out there. See what other guides cover, and see how they explain the issues, then tailor those ideas to your organization. Include examples of actual mistakes you have seen. Also, read the tomes of traditional wisdom: I skimmed page by page though the 800 pages of the Chicago Manual of Style to see what topics I might want to include in EIA’s guide. Or just copy EIA’s Guide if it works for your agency.
 
 ## Nice (but not necessary) extras
 
-You want a functional, helpful, and relevant writing guide. If you have the time and inclination, consider adding links to more information, putting quotes in the margins to highlight important points, and even developing an index if your guide (like ours) is so large it’s  sometimes hard to find what you’re looking for.
+You want a functional, helpful, and relevant writing guide. If you have the time and inclination, consider adding links to more information, putting quotes in the margins to highlight important points, and even developing an index if your guide (like ours) is so large it’s sometimes hard to find what you’re looking for.
 
 ## To print or not to print
 

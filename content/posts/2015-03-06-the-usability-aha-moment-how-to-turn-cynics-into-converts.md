@@ -1,13 +1,14 @@
 ---
-
-
+url: /2015/03/06/the-usability-aha-moment-how-to-turn-cynics-into-converts/
 date: 2015-03-06 11:19:33 -0400
-title: 'The Usability &amp;#8216;Aha!&amp;#8217; Moment\: How to Turn Cynics into Converts'
-summary: 'User Experience (UX) is the comprehensive experience a person has when using a product or application, and usability is the ease of use (or lack thereof) when using it. Many of us have discovered the vast advantages of evaluating usability on our own; however, getting others to jump on board is often a different story.'
-authors: [sarah-ward, deborah-bennett]
+title: 'The Usability &#8216;Aha!&#8217; Moment: How to Turn Cynics into Converts'
+summary: User Experience (UX) is the comprehensive experience a person has when using a product or application, and usability is the ease of use (or lack thereof) when using it. Many of us have discovered the vast advantages of evaluating usability on our own; however, getting others to jump on board is often a different story.
+authors:
+  - sarah-ward
+  - deborah-bennett
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - National Library of Medicine
@@ -19,8 +20,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" alt="An "aha moment" or "Eureka!" concept graphic shows a dark field of question marks surrounding one bright, electric exclamation point." %} 
 
 User Experience (UX) is the comprehensive experience a person has when using a product or application, and usability is the ease of use (or lack thereof) when using it. Many of us have discovered the vast advantages of evaluating usability on our own; however, getting others to jump on board is often a different story.
 
@@ -44,7 +44,7 @@ Encourage all of your stakeholders—developers, project leaders, members of man
 
 #### 4. Don’t Make It Personal
 
-When presenting results from your testing, avoid giving personal opinions. Always back suggestions for improvement with test data, reference expert publications, and provide examples of how the suggestions you’re making have worked on other sites. Suggest testing prior to development to avoid having developers get too attached to their efforts. Build models and reach a consensus on the project’s  end goal first. The use of paper prototyping, card sorting, and informal hallway tests are great ways to obtain useful data before development begins.
+When presenting results from your testing, avoid giving personal opinions. Always back suggestions for improvement with test data, reference expert publications, and provide examples of how the suggestions you’re making have worked on other sites. Suggest testing prior to development to avoid having developers get too attached to their efforts. Build models and reach a consensus on the project’s end goal first. The use of paper prototyping, card sorting, and informal hallway tests are great ways to obtain useful data before development begins.
 
 #### 5. Spread the Word
 

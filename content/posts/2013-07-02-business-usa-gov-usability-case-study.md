@@ -1,12 +1,12 @@
 ---
-
-
+url: /2013/07/02/business-usa-gov-usability-case-study/
 date: 2013-07-02 11:14:32 -0400
-title: 'Business.USA.gov &amp;#8211; Usability Case Study'
-summary: 'When redesigning a site, it&amp;#8217;s easy to place menu items, text and other content wherever you can make them fit. It&amp;#8217;s harder to take a step back and ask the strategic question\: Is this the best place for this? A good rule of thumb is to never make any changes randomly&mdash;base your decisions on user'
-authors: [jonathan-rubin]
+title: 'Business.USA.gov &#8211; Usability Case Study'
+summary: 'When redesigning a site, it&amp;#8217;s easy to place menu items, text and other content wherever you can make them fit. It&amp;#8217;s harder to take a step back and ask the strategic question: Is this the best place for this? A good rule of thumb is to never make any changes randomly&mdash;base your decisions on user'
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - DigitalGov User Experience Program
   - usability
@@ -26,8 +26,7 @@ Users were having difficulty getting to Twitter from the homepage. Also the Twit
 
 It was added twice, to the top right corner and the homepage, to ensure users see it. The icon was made clickable as well.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-before1.jpg" alt="business usa before screen shot" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-before1.jpg" alt="business usa before screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-before1.jpg)
 
 ## Problem 2: Key Menu Items on Homepage Difficult to Access
 
@@ -53,4 +52,4 @@ Users weren&#8217;t sure of the site&#8217;s purpose or what the name &#8220;Bus
 
 The tagline was added right under the logo, which helps give users an idea of the site&#8217;s purpose. By adding a line that states what Business.USA.gov allows the user to do, the user has an easier time understanding the purpose of the site.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-after1.png" alt="Businessusa-after" %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-after1.png" alt="Businessusa-after" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-after1.png)

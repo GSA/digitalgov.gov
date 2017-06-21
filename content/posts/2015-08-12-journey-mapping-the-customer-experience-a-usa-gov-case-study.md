@@ -1,10 +1,11 @@
 ---
-
-
+url: /2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/
 date: 2015-08-12 10:00:21 -0400
-title: 'Journey Mapping the Customer Experience\: A USA.gov Case Study'
-summary: 'Journey maps are a visual representation of a customer’s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services. Journey maps describe a customer’s entire journey, even the parts that occur before and after contact with your organization. They'
-authors: [michelle-chronister, mary-ann-monroe]
+title: 'Journey Mapping the Customer Experience: A USA.gov Case Study'
+summary: 'Journey maps are a visual representation of a customer&rsquo;s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services. Journey maps describe a customer&rsquo;s entire journey, even the parts that occur before and after contact with your organization. They'
+authors:
+  - michelle-chronister
+  - mary-ann-monroe
 categories:
   - UX
 tag:
@@ -15,11 +16,11 @@ tag:
   - usa.gov
 ---
 
-Journey maps are a visual representation of a customer’s  end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services.
+Journey maps are a visual representation of a customer’s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services.
 
-Journey maps describe a customer’s  entire journey, even the parts that occur before and after contact with your organization. They typically contain elements such as the customer’s  attitudes, emotions, and needs.
+Journey maps describe a customer’s entire journey, even the parts that occur before and after contact with your organization. They typically contain elements such as the customer’s attitudes, emotions, and needs.
 
-We recently [updated USA.gov’s  personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
+We recently [updated USA.gov’s personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
 
 We have a lot of data that we regularly analyze, and it tells us a lot about our customers’ journeys within a channel, but we knew we needed to better understand our customers’ journeys across channels. This is a best practice to better understand what a customer experiences, where there are disconnects in information, and where improvements can be made to your website, contact center [interactive voice response](https://www.WHATEVER/2015/04/30/digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers/) recordings, or service delivery on any channel.
 
@@ -27,14 +28,13 @@ We have a lot of data that we regularly analyze, and it tells us a lot about our
 
 We used information in the [CX Journey Mapping Toolkit](http://designingcx.com/cx-journey-mapping-toolkit/) to plan the sessions and our approach. We invited subject matter experts, managers, and other stakeholders to participate in the mapping sessions and designated facilitators to lead the sessions and keep us on track.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, "Browse information or learn more on a general topic"" %}
 
 One of the most important preparation activities is creating the behavior line. This is the path your customer takes and the journey you’re going to map.
 
-One of USA.gov’s  personas, Linda, wants to browse information or learn more on a general topic. We selected “searching for financial assistance from the government” as the topic of Linda’s  journey because it’s  consistently one of the top reasons customers visit [USA.gov](https://www.usa.gov/) or call [1-844-USA-GOV1](https://www.usa.gov/phone), and it falls within the persona category.
+One of USA.gov’s personas, Linda, wants to browse information or learn more on a general topic. We selected “searching for financial assistance from the government” as the topic of Linda’s journey because it’s consistently one of the top reasons customers visit [USA.gov](https://www.usa.gov/) or call [1-844-USA-GOV1](https://www.usa.gov/phone), and it falls within the persona category.
 
-To create Linda’s  behavior line, we looked at:
+To create Linda’s behavior line, we looked at:
 
   * USA.gov Web analytics, including demographics, devices, common paths, popular pages, outbound links, and onsite searches
   * Web analytics specifically for our [Government Benefits, Grants, and Loans](https://www.usa.gov/benefits-grants-loans) content
@@ -48,11 +48,10 @@ Once the behavior line was created, we printed each step on one piece of paper. 
 
   * Employees and systems the customer interacts with personally
   * Behind-the-scenes employees and systems that support the direct interactions
-  * Customer’s  attitudes, emotions, and needs
+  * Customer’s attitudes, emotions, and needs
   * The highs and lows of the journey
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Mapping-Michael.jpg" alt="600-x-400-Mapping-Michael" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Mapping-Michael.jpg" alt="600-x-400-Mapping-Michael" %}
 
 After adding multiple rounds of sticky notes and stickers to mark these different factors, we picked the greatest pain points in the journey and brainstormed ways to improve them.
 
@@ -67,14 +66,13 @@ The four journey mapping sessions generated a total of 110 ideas. Of those ideas
   * Technology
   * Contact center operations
 
-The journey mapping process and results helped us clearly see the pain points and gaps in the customer’s  experience, including channel, content, and device gaps. It also helped to build empathy and increase understanding with our employees.
+The journey mapping process and results helped us clearly see the pain points and gaps in the customer’s experience, including channel, content, and device gaps. It also helped to build empathy and increase understanding with our employees.
 
 ## Next Steps and Key Takeaways
 
 While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience](https://www.WHATEVER/tag/customer-experience-2/) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/1000-x-800-USAgov-Personas-and-Journey-Maps.jpg)
 
 Some specific priorities in our CX improvement queue:
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/26/analytics-pitfall-avoid-this-common-implementation-mistake/
 date: 2015-08-26 11:10:05 -0400
-title: 'Analytics Pitfall\: Avoid this Common Implementation Mistake'
-summary: 'In large agencies, lots of Web teams touch digital analytics in one way or another, and we have had the pleasure of working with teams both within and outside our agency. For us, hearing from a diverse set of perspectives has been a great learning experience. However, over the course of many meetings, we have'
-authors: [hhs-digital-analytics-team]
+title: 'Analytics Pitfall: Avoid this Common Implementation Mistake'
+summary: In large agencies, lots of Web teams touch digital analytics in one way or another, and we have had the pleasure of working with teams both within and outside our agency. For us, hearing from a diverse set of perspectives has been a great learning experience. However, over the course of many meetings, we have
+authors:
+  - hhs-digital-analytics-team
 categories:
   - Metrics
 tag:
@@ -12,8 +12,7 @@ tag:
   - data
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-389-MobyGames-39699\_Pitfall-by-David-Crane\_Atari-2600-screenshot-swinging-over-some-alligators.jpg" alt="Video game character, Pitfall Harry, leaps over alligators in the 1982 Atari game, Pitfall!, created by David Crane, distributed by Activision, Inc." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-389-MobyGames-39699\_Pitfall-by-David-Crane\_Atari-2600-screenshot-swinging-over-some-alligators.jpg" alt="Video game character, Pitfall Harry, leaps over alligators in the 1982 Atari game, Pitfall!, created by David Crane, distributed by Activision, Inc." %} 
 
 In large agencies, lots of Web teams touch digital analytics in one way or another, and we have had the pleasure of working with teams both within and outside our agency. For us, hearing from a diverse set of perspectives has been a great learning experience.
 
@@ -25,10 +24,9 @@ A large portion of all Web traffic metrics are defined within the scope of the v
 
 Take this example: If the subdomain for your search results pages is search.example.gov, visits will break anytime a user performs a search from www.example.gov or example.gov. Envision similar scenarios for all the subdomains on your site, and you will start to understand the magnitude of this problem. Luckily, by implementing subdomain tracking, you can ensure that visits do not end until the user exits your website, regardless of how many subdomains they cross-navigate.
 
-## How, Exactly, Are Traffic Metrics Affected? 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Web-analytics-data-on-computer-monitor-Bigandt_Photography-iStock-Thinkstock-473443138.jpg" alt="Web analytics data on computer monitor" %} 
+## How, Exactly, Are Traffic Metrics Affected? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Web-analytics-data-on-computer-monitor-Bigandt_Photography-iStock-Thinkstock-473443138.jpg" alt="Web analytics data on computer monitor" %} 
 
-When visits break across subdomains, it affects nearly all of your traffic data. In fact, all visit-level metrics become skewed in one way or another. Here are some examples from Google’s  Universal Analytics (UA), which is the latest incarnation of Google Analytics and the software we happen to use at our agency:
+When visits break across subdomains, it affects nearly all of your traffic data. In fact, all visit-level metrics become skewed in one way or another. Here are some examples from Google’s Universal Analytics (UA), which is the latest incarnation of Google Analytics and the software we happen to use at our agency:
 
   * **Visit (Session) Inflation**: Artificial visit counts are created every time a visitor navigates to a new subdomain or back to the primary domain. The more subdomains you have, the higher the potential inflation.
   * **Skewed Bounce Rate**: If a visit breaks after one pageview, such as when a visitor performs a search from your homepage and lands on search.example.gov, a false [bounce](https://support.google.com/analytics/answer/1009409?hl=en) is created. The more this scenario occurs, the more skewed your bounce rate becomes.

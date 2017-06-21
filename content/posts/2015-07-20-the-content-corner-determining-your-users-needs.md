@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/07/20/the-content-corner-determining-your-users-needs/
 date: 2015-07-20 10:20:36 -0400
-title: 'The Content Corner\: Determining Your User&amp;#8217;s Needs'
-summary: 'I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a'
-authors: [tymanuel]
+title: 'The Content Corner: Determining Your User&#8217;s Needs'
+summary: I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a
+authors:
+  - tymanuel
 categories:
   - Content
   - UX
@@ -20,8 +20,7 @@ I recently wrapped up a series of user interviews as part of a review of our jud
 
 From my personal experience, I have always learned tons of valuable information regardless of how many users interviewed or analytics I’ve reviewed.
 
-## Many Answers Are Already There 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Trend-analysis-ClaudioVentrella-iStock-Thinkstock-508633117.jpg" alt="Trend analysis" %} 
+## Many Answers Are Already There {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Trend-analysis-ClaudioVentrella-iStock-Thinkstock-508633117.jpg" alt="Trend analysis" %} 
 
 One of the first critical things that I fight to remember during any discovery process or content review is that there is a ton of user feedback already available. You just have to remember to go get it.
 
@@ -50,12 +49,11 @@ Supporting a program that has dedicated help desk staff was a relatively new exp
 
 If there is something that is hard to find or a process on your site is not working correctly or is confusing to a user, the second person after the user to know about it will most likely be a member of your help desk staff. If your site has the benefit of having this level of regular customer interaction, I strongly recommend taking advantage of it. More and more I have my help desk manager involved in everything from blog posts to user interface design.
 
-## Talk to your Users 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" %} 
+## Talk to your Users {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" %} 
 
 There are tons of resources already available about [usability on DigitalGov](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/) and some of the challenges particular to federal government and the public sector. All the [information regarding the Paperwork Reduction Act (PRA)](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/) is invaluable in my experience.
 
-I also relied heavily on the available resources on [user interviews](https://www.WHATEVER/2015/05/26/5-crucial-steps-for-conducting-an-effective-customer-interview/) as a great reference and a way to get up to speed quickly. A personal suggestion when planning to do user interviews is to respect the subject’s  time by being as prepared as possible. I really made it a point to probably over-thank my subjects, and by being very prepared and efficient during our time together, it reflected my respect for their time.
+I also relied heavily on the available resources on [user interviews](https://www.WHATEVER/2015/05/26/5-crucial-steps-for-conducting-an-effective-customer-interview/) as a great reference and a way to get up to speed quickly. A personal suggestion when planning to do user interviews is to respect the subject’s time by being as prepared as possible. I really made it a point to probably over-thank my subjects, and by being very prepared and efficient during our time together, it reflected my respect for their time.
 
 During my most recent set of user interviews, I conducted all of them via phone due to time and travel budget constraints. In-person interviews, especially when getting user impressions on navigation or ability to find content, are most effective. Due to the needs of my upcoming phase of discovery, I am definitely planning on in-person interviews, especially to study user reactions to content displayed on a mobile device and how they swipe or tap to complete certain tasks. The visual cues that you can pick up by watching a user interact with your content or site can many times tell you far more than an entire set of interview questions.
 

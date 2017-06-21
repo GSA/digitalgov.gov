@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/07/increasing-engagement-and-website-visits-with-twitter-cards/
 date: 2015-05-07 4:12:30 -0400
-title: 'Increasing Engagement and Website Visits with Twitter Cards'
+title: Increasing Engagement and Website Visits with Twitter Cards
 summary: 'May is #WorldTradeMonth and each year the U.S. Trade and Development Agency celebrates the month by highlighting the partnerships it has with 39 state and local organizations that promote U.S. exports in their home states through an initiative called #MakingGlobalLocal. What that means is that those 39 organizations with social media accounts, especially Twitter, will'
-authors: [steve-lewis]
+authors:
+  - steve-lewis
 categories:
   - Social Media
 tag:
@@ -27,12 +27,10 @@ After including the proper embed code (which is provided by Twitter), we’re no
 Here are a couple tweets with USTDA.gov website links that have the Twitter Card embed code on them:
 
 <p align="center">
-  
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-1.jpg" alt="290-x-341-USTDA-twitter-card-1" %} 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-2.jpg" alt="290-x-341-USTDA-twitter-card-2" %}
+  {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-1.jpg" alt="290-x-341-USTDA-twitter-card-1" %} {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-2.jpg" alt="290-x-341-USTDA-twitter-card-2" %}
 </p>
 
-As you can see, the content of these two tweets takes up almost 140 characters on their own (a URL does take up at least 20 characters). With the added Twitter Card summaries, USTDA’s  tweets now show up as completely customizable previews of the pages that are linked in both messages.
+As you can see, the content of these two tweets takes up almost 140 characters on their own (a URL does take up at least 20 characters). With the added Twitter Card summaries, USTDA’s tweets now show up as completely customizable previews of the pages that are linked in both messages.
 
 **What the code looks like on the** [**web pages**](http://www.ustda.gov/news/pressreleases/2015/US/Press-Release_050515/Press-Release-USTDA-Celebrates-Making-Global-Local-and-US-Exports-During-World-Trade-Month_050515.asp) **where** [**I embedded it**](http://www.ustda.gov/makinggloballocal/) **(feel free to “View Source Code” yourselves):**
 
@@ -57,8 +55,7 @@ What you are seeing is an example of how we were able to include a larger-sized 
 
 Like this one:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-375-USTDA-twitter-card-3.jpg" alt="600-x-375-USTDA-twitter-card-3" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-375-USTDA-twitter-card-3.jpg" alt="600-x-375-USTDA-twitter-card-3" %}
 
 So, with Twitter Cards, you do have a few customizable options to fit your needs just as long as you very carefully stick to the image resolution guidelines. With a little skill in Photoshop or InDesign (or by creating summary images with drag and drop services like Canva.com), you can easily replicate this process on your websites. Better yet, there are even modules out there for [WordPress](https://wordpress.org/plugins/wp-social-media-meta-tag/) or [Drupal,](https://www.drupal.org/project/metatag) that automates the social media meta tag process for you completely. Pretty awesome!
 

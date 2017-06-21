@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/07/digitalgov-university-is-making-changes-thanks-to-you/
 date: 2014-11-07 11:19:17 -0400
-title: 'DigitalGov University is Making Changes Thanks to You'
-summary: 'DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs. DigitalGov University (DGU) is a platform for feds to share ideas, experiences and techniques to meet 21st century public'
-authors: [apiazza]
+title: DigitalGov University is Making Changes Thanks to You
+summary: DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs. DigitalGov University (DGU) is a platform for feds to share ideas, experiences and techniques to meet 21st century public
+authors:
+  - apiazza
 categories:
   - Monthly Theme
   - Our Work
@@ -13,8 +13,7 @@ tag:
   - Open Opportunities program
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" %} 
 
 DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs.
 
@@ -24,7 +23,7 @@ In addition to our usual post event surveys where we ask &#8220;how we are doing
 
 ## Finding 1:You want to know the &#8220;level&#8221; of the event
 
-More than a few of you who&#8217;ve attended an event commented that you were surprised to find out that it was basic, informational, or technical when you were expecting something advanced, hands-on, or non-technical. So we are going to work more closely with the program sponsors moving forward to indicate on the event page the type of event we are hosting. Whether it’s  hands-on, informational, beginner (no experience needed), or technical (level of experience needed).
+More than a few of you who&#8217;ve attended an event commented that you were surprised to find out that it was basic, informational, or technical when you were expecting something advanced, hands-on, or non-technical. So we are going to work more closely with the program sponsors moving forward to indicate on the event page the type of event we are hosting. Whether it’s hands-on, informational, beginner (no experience needed), or technical (level of experience needed).
 
 ## Finding 2: Not enough people know about DGU
 

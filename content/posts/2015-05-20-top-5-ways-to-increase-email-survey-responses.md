@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/20/top-5-ways-to-increase-email-survey-responses/
 date: 2015-05-20 1:30:06 -0400
-title: 'Top 5 Ways to Increase Email Survey Responses'
-summary: 'Surveys are a great way to gain valuable insight into your customers&rsquo; true interests and needs. With the abundant number of survey tools available, it’s almost too easy to quickly put together a survey and send it out to your target audience. All too often, organizations will be in a hurry to get their survey'
-authors: [zhanrui-kuang]
+title: Top 5 Ways to Increase Email Survey Responses
+summary: 'Surveys are a great way to gain valuable insight into your customers&rsquo; true interests and needs. With the abundant number of survey tools available, it&rsquo;s almost too easy to quickly put together a survey and send it out to your target audience. All too often, organizations will be in a hurry to get their survey'
+authors:
+  - zhanrui-kuang
 categories:
   - Managing Digital
   - Monthly Theme
@@ -14,14 +14,13 @@ tag:
   - customer service
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" %} 
-
-Surveys are a great way to gain valuable insight into your customers’ true interests and needs. With the abundant number of survey tools available, it’s  almost too easy to quickly put together a survey and send it out to your target audience.
+Surveys are a great way to gain valuable insight into your customers’ true interests and needs. With the abundant number of survey tools available, it’s almost too easy to quickly put together a survey and send it out to your target audience.
 
 All too often, organizations will be in a hurry to get their survey out and will send out a long, wordy introductory message for a survey, or conversely, will not provide enough context. What they may not realize, though, is that this approach almost always results in the majority of recipients ignoring the survey. Recipients are likely to stop reading after a certain point, or if they don’t know what the survey is about, they will trash the message immediately. As a result, the organization ends up with an incredibly low and statistically insignificant response rate.
 
-GSA’s  Office of Customer Experience relies heavily on customer data, gathered from [surveys](https://www.WHATEVER/2014/11/10/4-tips-on-great-survey-design/ "4 Tips on Great Survey Design"), customer interviews/[focus groups](https://www.WHATEVER/2015/04/17/focus-groups-are-they-right-for-you/ "Focus Groups: Are They Right for You?"), and other methods, to inform business process decisions. This heavy reliance on data is dependent on obtaining a large enough sample size that is statistically significant enough to influence change. As such, the team regularly consults with GSA’s  Social and Behavioral Sciences Team to identify survey best practices to obtain a higher response rate. GSA now uses the following top 5 tips specifically related to survey questions, written correspondence, and distribution methods when developing surveys:
+GSA’s Office of Customer Experience relies heavily on customer data, gathered from [surveys](https://www.WHATEVER/2014/11/10/4-tips-on-great-survey-design/ "4 Tips on Great Survey Design"), customer interviews/[focus groups](https://www.WHATEVER/2015/04/17/focus-groups-are-they-right-for-you/ "Focus Groups: Are They Right for You?"), and other methods, to inform business process decisions. This heavy reliance on data is dependent on obtaining a large enough sample size that is statistically significant enough to influence change. As such, the team regularly consults with GSA’s Social and Behavioral Sciences Team to identify survey best practices to obtain a higher response rate. GSA now uses the following top 5 tips specifically related to survey questions, written correspondence, and distribution methods when developing surveys:
 
 ## 1. Make the message brief and “skimmable”
 
@@ -29,7 +28,7 @@ People are bombarded with information and tasks during their day. Because people
 
 ## 2. Make the request clear and actionable
 
-Start making the request clear even with your email’s  subject line. Rather than a static title, such as, “Satisfaction Survey,” use action-oriented phrasing, such as, “Please give your feedback today.” In the email body, make the request or actions required clear, and state the request as early as possible. If it’s  clicking a link, make the link into a button. Seeing a giant colored button in an email elicits an automatic response to click, because it is actionable and even a bit fun.
+Start making the request clear even with your email’s subject line. Rather than a static title, such as, “Satisfaction Survey,” use action-oriented phrasing, such as, “Please give your feedback today.” In the email body, make the request or actions required clear, and state the request as early as possible. If it’s clicking a link, make the link into a button. Seeing a giant colored button in an email elicits an automatic response to click, because it is actionable and even a bit fun.
 
 ## 3. Personalize the request
 

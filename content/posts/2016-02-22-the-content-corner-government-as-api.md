@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/02/22/the-content-corner-government-as-api/
 date: 2016-02-22 11:10:39 -0400
-title: 'The Content Corner\: Government as API'
+title: 'The Content Corner: Government as API'
 summary: 'Here at DigitalGov, we generally focus on federal governmental digital efforts within the U.S. It is where we live and operate, so it makes sense, but many governments across the world struggle with the same issues and leverage technology as a common solution. When I came across an article where Australia announced its &ldquo;government as'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - API
   - Content
@@ -35,9 +35,9 @@ To date, govCMS hosts 51 websites with 16 currently in development, offering a c
 
 With the launch of the “government as API” feature of govCMS, the Australian government has made the ingestion and dissemination of content, from any source, much simpler and safer.
 
-First, the service leverages the power of the shared govCMS platform and allows easy sharing of any content that exists within the system. Again, this provides the same kind of content reuse that our own agencies such as [NIH are providing via syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/). A single content source can be edited once and then is updated wherever it is being used throughout any site using their shared platform, a full realization of the [COPE (create once, publish anywhere)](https://www.WHATEVER/2015/06/01/the-content-corner-humanizing-structured-content/) mantra. But wait, there’s  more!
+First, the service leverages the power of the shared govCMS platform and allows easy sharing of any content that exists within the system. Again, this provides the same kind of content reuse that our own agencies such as [NIH are providing via syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/). A single content source can be edited once and then is updated wherever it is being used throughout any site using their shared platform, a full realization of the [COPE (create once, publish anywhere)](https://www.WHATEVER/2015/06/01/the-content-corner-humanizing-structured-content/) mantra. But wait, there’s more!
 
-Not only does govCMS make it easy to share internal content between other sites on the platform, it also can consume content from external sites. Here’s  the cool part: external content is normalized “to enable interoperability between diverse applications, and to adapt to and enforce content models.&#8221; So at least in principle it will suck in any content you find and make sure that it adopts your own [content models](https://www.WHATEVER/2016/01/07/content-models-as-simple-as-pizza-pie/) (like our article and event models). The power of this is two-fold:
+Not only does govCMS make it easy to share internal content between other sites on the platform, it also can consume content from external sites. Here’s the cool part: external content is normalized “to enable interoperability between diverse applications, and to adapt to and enforce content models.&#8221; So at least in principle it will suck in any content you find and make sure that it adopts your own [content models](https://www.WHATEVER/2016/01/07/content-models-as-simple-as-pizza-pie/) (like our article and event models). The power of this is two-fold:
 
   * It makes sure the external content matches the look and feel of your site and will be responsive for your users, and
   * It allows this content to become easily sharable within the govCMS platform as well.

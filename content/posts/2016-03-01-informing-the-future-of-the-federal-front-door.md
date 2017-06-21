@@ -1,10 +1,13 @@
 ---
-
-
+url: /2016/03/01/informing-the-future-of-the-federal-front-door/
 date: 2016-03-01 11:10:06 -0400
-title: 'Informing the Future of the Federal Front Door'
-summary: 'In our last post, we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. We think'
-authors: [michelle-chronister, carolyn-dew, colin-macarthur, john-yuda]
+title: Informing the Future of the Federal Front Door
+summary: 'In our last post, we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people&rsquo;s experience across government agencies. We think'
+authors:
+  - michelle-chronister
+  - carolyn-dew
+  - colin-macarthur
+  - john-yuda
 categories:
   - Managing Digital
   - UX
@@ -13,8 +16,7 @@ tag:
   - Draft Web Design Standards
 ---
 
-In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s  experience across government agencies. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." %} 
+In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." %} 
 
 We think of the federal front door as the places the public first interacts with their government. There are many front doors—agency websites (like [benefits.gov](http://www.benefits.gov/)), physical places (like Social Security offices), contact centers (like 1-844-USA-GOV1)—where people start interacting with the government.
 
@@ -53,27 +55,26 @@ This relationship extends to getting help with difficult government interactions
 
 When social networks break down for people, they are more likely to slip through the cracks. Many low-income seniors or seniors with disabilities have no social networks, and as such have no one to help them access online government services.
 
-People will also ask librarians, senior center staff, and other agency staff to help with online applications, but in many cases those ‘helpers’ are forbidden to help these people by their employer’s  policy.
+People will also ask librarians, senior center staff, and other agency staff to help with online applications, but in many cases those ‘helpers’ are forbidden to help these people by their employer’s policy.
 
-When government officials refuse to talk to a proxy about a person’s  case, that person is often stymied in their efforts to access government services.
+When government officials refuse to talk to a proxy about a person’s case, that person is often stymied in their efforts to access government services.
 
 ### Black box of government
 
 The general public wants to be able to “see” the process when interacting with federal agencies and programs. This includes knowing when their information has been received, reviewed, and overall clarity into why the process takes as long as it does. People expect to wait, but the reasons why and the causes for delay continue to be a mystery.
 
-When people know how their information is going to be used and why it’s  needed, they are more comfortable providing personal information to the federal government. In addition, if eligibility requirements were clearly explained, people would be better prepared and only apply for programs that fit their need.
+When people know how their information is going to be used and why it’s needed, they are more comfortable providing personal information to the federal government. In addition, if eligibility requirements were clearly explained, people would be better prepared and only apply for programs that fit their need.
 
 When people interact with the federal government, typically there is a lot of pressure on their shoulders. The source of this pressure could be the life event that is triggering the interaction. The pressure also comes from the idea that people only get one shot to get their paperwork right, that there are negative consequences for doing something wrong, and their request is being treated as a potentially fraudulent rather than coming from a place of real need.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-391-personal-and-government.jpg" alt="An infographic showing sources of pressure and types of emotions a person might feel after different interactions with the government." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-391-personal-and-government.jpg" alt="An infographic showing sources of pressure and types of emotions a person might feel after different interactions with the government." %}
 
 ### Choice overload
 
 Sometimes, the government gives people:
 
-  * Choices that have so many options, it’s  hard to know which is the best to pick (e.g. picking a Medicare Part C plan).
-  * Choices where it’s  hard to figure out the consequences of picking a particular option (e.g. choosing an age at which to start drawing on Social Security).
+  * Choices that have so many options, it’s hard to know which is the best to pick (e.g. picking a Medicare Part C plan).
+  * Choices where it’s hard to figure out the consequences of picking a particular option (e.g. choosing an age at which to start drawing on Social Security).
 
 People like having choices; they just struggle to make the best choice in these situations. They want to know which choices align with their goals and understand the trade-offs between them.
 
@@ -87,8 +88,7 @@ People employ a variety of strategies before deciding to trust a government digi
 
 ### Cost-benefit tradeoff
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" %}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" alt="A two-by-two grid showing how people think when confidence is plotted against resilience. When confidence and resilience are both high, people "will keep trying until a goal is achieved. When confidence is high but resilience is low, people may apply once but will give up if it doesn't go well. With resilience high and low confidence, people may try a few times but will doubt themselves. And when both resilience and confidence are low, they probably won't apply at all." %}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
 
 If you are less confident you will get the service you need, you are less likely to apply for those services. Some people are easily discouraged and give up after one attempt, while others are resilient and willing to persevere. This can be based on past experiences with the government or lack of confidence in their ability to deal with government bureaucracy.
 
@@ -100,19 +100,17 @@ These factors can lead some people to interact with the government through priva
 
 Generally speaking, people understand that to interact with the federal government it will require them to provide certain key pieces of information to help identify themselves, and additional information that is required for the specific interaction. How people feel about providing that information, and how it might be used both for their current interaction and potential future ones is a bit of a mixed bag.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-158-Sharing-Information-faces-suspicious-private-engaged-open.jpg" alt="A graphic showing how people might view sharing information. Some never want their information shared, and others are on a continuum." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-158-Sharing-Information-faces-suspicious-private-engaged-open.jpg" alt="A graphic showing how people might view sharing information. Some never want their information shared, and others are on a continuum." %}
 
 ### Access to personal information
 
 People see the value of sharing their information, however members of the public would like to opt-in to sharing their information across the government, manage requests for their information, see who is accessing their information, and understand that their information is secure and not being shared outside of the federal government.
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-194-Access-to-personal-information-flowchart.jpg" alt="An infographic illustrating that people expect personal information like medical records, family information, and financial records to be safe from ID thieves, advertisers and third parties." %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-194-Access-to-personal-information-flowchart.jpg" alt="An infographic illustrating that people expect personal information like medical records, family information, and financial records to be safe from ID thieves, advertisers and third parties." %}
+## What’s next?
 
-## What’s  next?
-
-GSA has identified several opportunities to improve the public’s  interactions and increase the efficacy and efficiency of service delivery. We are beginning to explore multiple projects which include ways to:
+GSA has identified several opportunities to improve the public’s interactions and increase the efficacy and efficiency of service delivery. We are beginning to explore multiple projects which include ways to:
 
 **Broaden the draft U.S. Web Design Standards to include best practices for transparent service design, trust, and accessibility.**
 

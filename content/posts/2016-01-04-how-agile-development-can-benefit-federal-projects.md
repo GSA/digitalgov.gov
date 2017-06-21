@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/04/how-agile-development-can-benefit-federal-projects/
 date: 2016-01-04 11:00:56 -0400
-title: 'How Agile Development Can Benefit Federal Projects'
-summary: 'Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren&rsquo;t limited to deliverables\: Going agile can break down the silos that exist between and within agencies. And collaboration doesn&rsquo;t need to end at the federal level&mdash;agile projects done in the open provide a way for the public to contribute to'
-authors: [awichman]
+title: How Agile Development Can Benefit Federal Projects
+summary: 'Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren&rsquo;t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn&rsquo;t need to end at the federal level&mdash;agile projects done in the open provide a way for the public to contribute to'
+authors:
+  - awichman
 categories:
   - Our Work
 tag:
@@ -14,8 +14,7 @@ tag:
   - U.S. Department of State
 ---
 
-Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" %} 
+Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" %} 
 
 Transitioning to agile development has benefited [Open Opportunities](https://openopps.WHATEVER/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
@@ -45,7 +44,7 @@ Doing agile development in the open expands the possibilities for collaboration:
 
 “I don’t think you can have open source contributions near our velocity without agile development,” said David Cole, a developer for 18F. “It allows people to plug in, contribute and then pull out if they are busy. It also helps us go through the project cycle quicker. We go through it in two to four weeks, rather than months.”
 
-In traditional waterfall methods, it’s  hard for [interested contributors](https://github.com/18F/openopps-platform/blob/dev/CONTRIBUTING.md) to figure out how they can work on a project, Cole said. By posting all of the project’s  artifacts on Github, including the project road map, contributors can see where the project is going and how their efforts fit into the work stream.
+In traditional waterfall methods, it’s hard for [interested contributors](https://github.com/18F/openopps-platform/blob/dev/CONTRIBUTING.md) to figure out how they can work on a project, Cole said. By posting all of the project’s artifacts on Github, including the project road map, contributors can see where the project is going and how their efforts fit into the work stream.
 
 _This article is the first in a two part series of how open, agile development has benefitted the Open Opportunities platform. In the next article, DigitalGov will delve into the view from the outside: how and why people outside of government got involved in contributing to Open Opportunities, and the keys to a good experience for those contributors._
 

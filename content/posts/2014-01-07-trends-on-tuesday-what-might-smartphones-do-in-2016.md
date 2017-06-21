@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/01/07/trends-on-tuesday-what-might-smartphones-do-in-2016/
 date: 2014-01-07 1:42:23 -0400
-title: 'Trends on Tuesday\: What Might Smartphones Do in 2016?'
+title: 'Trends on Tuesday: What Might Smartphones Do in 2016?'
 summary: 'A recent article in Mobile Marketing Watch suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year Mary Meeker said in 2013 that mobile would be wearable, sharable, drivable and flyable. We&amp;#8217;ve gathered some other projections for the future functionality of mobile devices; &bull; Indoor Positioning'
-authors: [lisa-wilcox]
+authors:
+  - lisa-wilcox
 categories:
   - Mobile
   - "What's New"
@@ -13,8 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg" alt="smartphones" %}
-A [recent article in Mobile Marketing Watch](http://www.mobilemarketingwatch.com/which-feature-will-1-billion-smartphones-offer-by-2016-37526/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year [Mary Meeker said in 2013 that mobile](https://howtomobile.apps.gov/2013/06/04/trends-on-tuesday-mary-meekers-internet-trends-report/) would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices;
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg" alt="smartphones" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg)A [recent article in Mobile Marketing Watch](http://www.mobilemarketingwatch.com/which-feature-will-1-billion-smartphones-offer-by-2016-37526/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29) suggested location-based sensor fusion would be featured on a billion mobile devices in 2016. Last year [Mary Meeker said in 2013 that mobile](https://howtomobile.apps.gov/2013/06/04/trends-on-tuesday-mary-meekers-internet-trends-report/) would be wearable, sharable, drivable and flyable. We&#8217;ve gathered some other projections for the future functionality of mobile devices;
 
 • **Indoor Positioning (IPS) or Location-based Sensor Fusion** &#8211; This is the [projection from ABI](http://www.mobilemarketingwatch.com/which-feature-will-1-billion-smartphones-offer-by-2016-37526/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+MobileMarketingWatch+%28Mobile+Marketing+Watch%29). In a few years, you won&#8217;t need to locate a facility map to find out where you are. Instead, you&#8217;ll use your phone to not only find where you are, but to get directions to where you need to go within an intimidating building complex.
 

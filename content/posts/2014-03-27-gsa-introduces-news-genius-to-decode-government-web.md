@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/03/27/gsa-introduces-news-genius-to-decode-government-web/
 date: 2014-03-27 8:00:20 -0400
-title: 'GSA Introduces News Genius to Decode Government Web'
+title: GSA Introduces News Genius to Decode Government Web
 summary: ' The federal government can now unlock the collaborative &ldquo;genius&rdquo; of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and Small'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Social Media
 tag:
@@ -17,8 +17,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center;">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" %}</a>
 </p>
 
 <p dir="ltr">
@@ -34,7 +33,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="http://www.gsa.gov/portal/content/105301?utm_source=SBU&utm_medium=print-radio&utm_term=mentorprotege&utm_campaign=shortcuts">GSA’s  Mentor-Protege Program</a> will use News Genius to<a href="http://news.rapgenius.com/Us-general-services-administration-gsa-mentor-protege-program-subpart-51970-annotated"> open their policies to annotations</a> from current and previous participants in order to:
+  <a href="http://www.gsa.gov/portal/content/105301?utm_source=SBU&utm_medium=print-radio&utm_term=mentorprotege&utm_campaign=shortcuts">GSA’s Mentor-Protege Program</a> will use News Genius to<a href="http://news.rapgenius.com/Us-general-services-administration-gsa-mentor-protege-program-subpart-51970-annotated"> open their policies to annotations</a> from current and previous participants in order to:
 </p>
 
   1. <p dir="ltr">
@@ -62,7 +61,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The federal government joins the City of Chicago’s  <a href="http://news.rapgenius.com/SmartChicago">Smart Chicago Collaborative</a>, MIT, Harvard and other leading colleges and universities in putting News Genius to practical uses. The Smart Chicago Collaborative opens contracts, municipal code, request for proposals and more. The edX online education initiative, including MIT, Harvard and the Smithsonian Institution, similarly uses the annotation platform to unlock deeper understandings of course materials.
+  The federal government joins the City of Chicago’s <a href="http://news.rapgenius.com/SmartChicago">Smart Chicago Collaborative</a>, MIT, Harvard and other leading colleges and universities in putting News Genius to practical uses. The Smart Chicago Collaborative opens contracts, municipal code, request for proposals and more. The edX online education initiative, including MIT, Harvard and the Smithsonian Institution, similarly uses the annotation platform to unlock deeper understandings of course materials.
 </p>
 
 <p dir="ltr">
@@ -98,7 +97,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The News Genius annotation wiki for GSA’s  Mentor-Protege Program can be viewed below:
+  The News Genius annotation wiki for GSA’s Mentor-Protege Program can be viewed below:
 </p>
 
 <div id="rg_embed_link_386315" class="rg_embed_link">

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/09/03/getting-started-with-dap/
 date: 2013-09-03 9:50:06 -0400
-title: 'Getting Started with the Digital Analytics Program'
-summary: 'The Digital Analytics Program (DAP) is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation. The kick-off for this user group will be on Thursday, September 12, 2013, when we will host'
-authors: [marina-fox]
+title: Getting Started with the Digital Analytics Program
+summary: The Digital Analytics Program (DAP) is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation. The kick-off for this user group will be on Thursday, September 12, 2013, when we will host
+authors:
+  - marina-fox
 categories:
   - Metrics
   - Our Work
@@ -13,8 +13,7 @@ tag:
   - Google Analytics
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="DAP screen capture" %}
-The <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program (DAP)</a> is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="DAP screen capture" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/DAP-2.jpg)The <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program (DAP)</a> is delighted to announce the launch of a DAP user group and new training program. These initiatives will support DAP users in getting the most from their implementation.
 
 The kick-off for this user group will be on Thursday, September 12, 2013, when we will host a webinar to welcome  users and discuss how a user group can provide the most benefit. Meeting invitations with login instructions will be sent to directly to these users two weeks before the meeting.
 

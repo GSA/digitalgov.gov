@@ -1,24 +1,23 @@
 ---
-
-
+url: /2014/01/10/highlights-from-2013-tcopen-coding-competition/
 date: 2014-01-10 4:02:18 -0400
 title: 'Highlights from 2013 #TCOpen Coding Competition'
 summary: ' Our team and a few other agencies had the chance to attend the 2013 TopCoder Open this year and meet the best of the best developers, coders, designers, data scientists, and innovative thinkers in crowdsourcing. This is'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
   - ChallengeGov
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/top-coder-250x190.jpg" alt="People working on computers in an informal lounge like area at the Top Coder Event." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/top-coder-250x190.jpg" alt="People working on computers in an informal lounge like area at the Top Coder Event." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/top-coder.jpg)
 
 Our team and a few other agencies had the chance to attend the 2013 TopCoder Open this year and meet the best of the best developers, coders, designers, data scientists, and innovative thinkers in crowdsourcing.
 
 This is the <a title="topcoder open highlight video" href="https://www.youtube.com/watch?v=Q_YmQGMuovs" target="_blank">#TCO13 highlight video</a>.
 
-Watch a few minutes and you’ll see the excitement of the competitors and why we at challenge.gov do what we do to encourage federal agencies to use competitions to engage the public in solving government’s  technical, scientific and operational problems.
+Watch a few minutes and you’ll see the excitement of the competitors and why we at challenge.gov do what we do to encourage federal agencies to use competitions to engage the public in solving government’s technical, scientific and operational problems.
 
 There is nothing that compares to meeting the real people who do this work. Especially those who have the interest and skills to lend to public service through challenge competitions.
 

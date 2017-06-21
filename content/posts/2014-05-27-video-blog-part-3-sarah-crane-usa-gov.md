@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/27/video-blog-part-3-sarah-crane-usa-gov/
 date: 2014-05-27 10:00:28 -0400
-title: 'Video Blog\: Part 3\: Sarah Crane, USA.gov'
-summary: 'In our final video interview with Sarah Crane of USA.gov, she talks about adaptive content and how it works with APIs. Missed&nbsp;Part 1 and Part 2? Watch them to find out how USA.gov dealt with their inconsistent customer experience&nbsp;and content sprawl. [youtube=http\://www.youtube.com/watch?v=giK-RsHjA4c&amp;amp;w=600] Interested in learning more about adaptive content and content modeling? Check out the'
-authors: [sarah-crane]
+title: 'Video Blog: Part 3: Sarah Crane, USA.gov'
+summary: 'In our final video interview with Sarah Crane of USA.gov, she talks about adaptive content and how it works with APIs. Missed&nbsp;Part 1 and Part 2? Watch them to find out how USA.gov dealt with their inconsistent customer experience&nbsp;and content sprawl. [youtube=http://www.youtube.com/watch?v=giK-RsHjA4c&amp;amp;w=600] Interested in learning more about adaptive content and content modeling? Check out the'
+authors:
+  - sarah-crane
 categories:
   - API
   - Content

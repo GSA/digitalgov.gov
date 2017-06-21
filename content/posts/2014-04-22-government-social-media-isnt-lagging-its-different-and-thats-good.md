@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/04/22/government-social-media-isnt-lagging-its-different-and-thats-good/
 date: 2014-04-22 4:30:34 -0400
-title: 'Government Social Media Isn&rsquo;t Lagging, It’s Different\: And That’s Good'
-summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It’s common to hear that government social media lags behind the'
-authors: [jherman]
+title: 'Government Social Media Isn’t Lagging, It’s Different: And That’s Good'
+summary: ' Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs. It&rsquo;s common to hear that government social media lags behind the'
+authors:
+  - jherman
 categories:
   - Communities
   - Managing Digital
@@ -19,13 +19,12 @@ tag:
 ---
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Federal-Social-Media.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Federal-Social-Media.jpg" alt="Image of a hand holding phone in front of flag." %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Federal-Social-Media.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Federal-Social-Media.jpg" alt="Image of a hand holding phone in front of flag." %}</a>
 </p>
 
 Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs.
 
-It’s  common to hear that government social media lags behind the private sector especially when held to standards that don’t consider government&#8217;s unique needs and goals. Yet, even as marketers call for [exit strategies from some platforms](http://www.govloop.com/profiles/blogs/we-need-an-exit-strategy-for-facebook), many of our agencies  see an increase in their performance even without paid promotions because of effective engagement strategies.
+It’s common to hear that government social media lags behind the private sector especially when held to standards that don’t consider government&#8217;s unique needs and goals. Yet, even as marketers call for [exit strategies from some platforms](http://www.govloop.com/profiles/blogs/we-need-an-exit-strategy-for-facebook), many of our agencies  see an increase in their performance even without paid promotions because of effective engagement strategies.
 
 How’d that happen?
 

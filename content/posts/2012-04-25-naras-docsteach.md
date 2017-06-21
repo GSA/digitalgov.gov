@@ -1,10 +1,8 @@
 ---
-
-
+url: /2012/04/25/naras-docsteach/
 date: 2012-04-25 12:42:14 -0400
-title: 'NARA&amp;#8217;s DocsTeach'
+title: 'NARA&#8217;s DocsTeach'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Archives and Records Administration. DocsTeach&nbsp;is a mobile application developed by the National Archives and Records Administration (NARA) that allows teachers to create and share lesson'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -13,8 +11,7 @@ tag:
   - NARA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Docs\_Teach\_App.jpg" alt="Screen Shot of DocsTeach App" %}
-Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Archives and Records Administration._
+_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Docs\_Teach\_App.jpg" alt="Screen Shot of DocsTeach App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Docs_Teach_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Archives and Records Administration._
   
 <a href="http://apps.usa.gov/docsteach.shtml" rel="nofollow">DocsTeach</a> is a mobile application developed by the National Archives and Records Administration (NARA) that allows teachers to create and share lesson plans built on the <a href="http://docsteach.org/" rel="nofollow">DocsTeach website</a> with their students. The DocsTeach App was created so students could access teacher lessons.
 

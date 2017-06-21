@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/31/gather-your-agencys-public-data-with-let-me-get-that-data-for-you/
 date: 2015-03-31 10:38:06 -0400
-title: 'Gather Your Agency&amp;#8217;s Public Data with Let Me Get That Data for You'
-summary: 'In case you missed it, U.S. Open Data recently launched a tool called\: Let Me Get That Data For You (LMGTDY). The name is&nbsp;a play on the very funny Let Me Google That For You website.  How LMGTDFY works Let Me Get That Data For You searches any website for data'
-authors: [rebecca-williams]
+title: 'Gather Your Agency&#8217;s Public Data with Let Me Get That Data for You'
+summary: 'In case you missed it, U.S. Open Data recently launched a tool called: Let Me Get That Data For You (LMGTDY). The name is&nbsp;a play on the very funny Let Me Google That For You website.  How LMGTDFY works Let Me Get That Data For You searches any website for data'
+authors:
+  - rebecca-williams
 categories:
   - Code
   - Data
@@ -15,8 +15,7 @@ tag:
 
 In case you missed it, U.S. Open Data [recently launched a tool](https://usopendata.org/2015/02/18/lmgtdfy/) called: <a href="http://lmgtdfy.usopendata.org/" target="_blank">Let Me Get That Data For You (LMGTDY)</a>. The name is a play on the very funny <a href="http://lmgtfy.com/" target="_blank">Let Me Google That For You</a> website.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM.png)
 
 ## How LMGTDFY works
 
@@ -27,9 +26,9 @@ Let Me Get That Data For You searches any website for data in machine-readable f
 >     site:example.gov filetype:csv OR filetype:xls OR filetype:json
 >     
 > 
-> Then they have to read through all of the results, download all of the files, and create a spreadsheet that they can load into their repository. It’s  a lot of work, and as a result it too often goes undone, resulting in a data repository that doesn’t actually contain all of that agency&#8217;s data.
+> Then they have to read through all of the results, download all of the files, and create a spreadsheet that they can load into their repository. It’s a lot of work, and as a result it too often goes undone, resulting in a data repository that doesn’t actually contain all of that agency&#8217;s data.
 > 
-> Realizing that this was a common problem, we hired Silicon Valley Software Group to create a tool to automate the inventorying process. We worked with Dan Schultz and Ted Han, who created a system built on [Django](https://www.djangoproject.com/) and [Celery](http://www.celeryproject.org/), using Microsoft’s  great [Bing Search API](https://datamarket.azure.com/dataset/bing/search) as its data source. The result is a free, installable tool, which produces a CSV file that lists all CSV, XML, JSON, XLS, XLSX, XML, and Shapefiles found on a given domain name.
+> Realizing that this was a common problem, we hired Silicon Valley Software Group to create a tool to automate the inventorying process. We worked with Dan Schultz and Ted Han, who created a system built on [Django](https://www.djangoproject.com/) and [Celery](http://www.celeryproject.org/), using Microsoft’s great [Bing Search API](https://datamarket.azure.com/dataset/bing/search) as its data source. The result is a free, installable tool, which produces a CSV file that lists all CSV, XML, JSON, XLS, XLSX, XML, and Shapefiles found on a given domain name.
 
 <div>
   <p>

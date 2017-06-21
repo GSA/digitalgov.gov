@@ -1,13 +1,13 @@
 ---
-
-
+url: /2017/05/11/my-q-a-with-the-it-industry-whats-working-and-what-could-be-improved-in-federal-acquisition/
 date: 2017-05-11 12:00:53 -0400
-title: 'My Q & A with the IT Industry — What’s Working and What Could be Improved in Federal Acquisition'
+title: 'My Q &#038; A with the IT Industry – What’s Working and What Could be Improved in Federal Acquisition'
 summary: 'I recently met with more than 50 representatives from the top IT services companies and talked about the good and the bad in federal acquisition. Some of the discussion was surprising &hellip; some not so much. The key takeaways include some changes that are fairly simple for government to implement, yet have big impacts. 1.'
-authors: [mary-davie]
+authors:
+  - mary-davie
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - acquisition
 ---
@@ -18,31 +18,31 @@ I recently met with more than 50 representatives from the top IT services compan
 
 Industry told me government program/acquisition personnel rarely respond to requests to discuss programs, requirements, and agency priorities in order to develop proposals and solutions or offer alternatives.
 
-[GSA’s  Information Technology Category](https://www.gsa.gov/it) has made extensive use of RFIs, draft RFPs, industry days, one-on-one meetings (over 100 individual meetings on Alliant 2 and EIS) and collaborative platforms such as [interact.gsa.gov](https://interact.gsa.gov/) for collaboration and input. I’ve heard many times from government reps that they don’t have time or don’t know how to handle sharing with multiple companies since sharing has to be handled equitably.
+[GSA’s Information Technology Category](https://www.gsa.gov/it) has made extensive use of RFIs, draft RFPs, industry days, one-on-one meetings (over 100 individual meetings on Alliant 2 and EIS) and collaborative platforms such as [interact.gsa.gov](https://interact.gsa.gov/) for collaboration and input. I’ve heard many times from government reps that they don’t have time or don’t know how to handle sharing with multiple companies since sharing has to be handled equitably.
 
 I’m here to tell you we have to find time to meet with industry. There are many ways to share information equitably. GSA spends an extensive amount of time communicating and collaborating to develop all of our governmentwide contracts to ensure we get as much input and feedback as possible. The governmentwide IT category and sub-category teams (Mobile, Software, and Laptop/Desktop) are also spending lots of time conducting industry days, participating in technology demonstrations, and meeting individually with companies. And the Office of Federal Procurement Policy (OFPP) encourages federal program and acquisition representatives to interact with industry as much as possible – they’ve issued three [Mythbusting memos](https://obamawhitehouse.archives.gov/omb/procurement_index_memo) on the subject.
 
-So my advice is to **establish relationships and regular forums for communication with your industry partners and potential partners**. The Alliant PMR and shared interest groups that have formed under the contract were called out as a best practice, and, unfortunately, are rare practice for government contracts. Agencies should seize the opportunity inherent in active program management to help make the contract successful. GSA’s  Alliant program and contracting staff are in constant communication with the industry – they share contract data, potential agency opportunities on the contract, outreach and training to agency customers, account management and agency buying trends; meet many client-facing GSA representatives; and provide a place for industry to resolve issues and challenges in a trusted environment.
+So my advice is to **establish relationships and regular forums for communication with your industry partners and potential partners**. The Alliant PMR and shared interest groups that have formed under the contract were called out as a best practice, and, unfortunately, are rare practice for government contracts. Agencies should seize the opportunity inherent in active program management to help make the contract successful. GSA’s Alliant program and contracting staff are in constant communication with the industry – they share contract data, potential agency opportunities on the contract, outreach and training to agency customers, account management and agency buying trends; meet many client-facing GSA representatives; and provide a place for industry to resolve issues and challenges in a trusted environment.
 
 Without spending time upfront to talk about what we need with industry, we aren’t going to get good competition or the innovative solutions we are looking for. I think open communications often comes from a feeling of safety and having top cover, and our government leaders need to provide that encouragement to our workforce.
 
 **2. e-Tools and Repository of Solicitations.** 
 
-Many agencies do an excellent job of using one system to post opportunities and retain statements of work and proposals in an historical repository. This is a great practice that reduces cost and provides clarity to industry about past requirements and incumbent contractors – things that are important to them as part of their bid/no-bid decision process. One participant said this about the Navy’s  [SeaPort-e](http://www.seaport.navy.mil/) system:
+Many agencies do an excellent job of using one system to post opportunities and retain statements of work and proposals in an historical repository. This is a great practice that reduces cost and provides clarity to industry about past requirements and incumbent contractors – things that are important to them as part of their bid/no-bid decision process. One participant said this about the Navy’s [SeaPort-e](http://www.seaport.navy.mil/) system:
 
 <p style="padding-left: 60px">
   “You can see a changing dynamic in a scope of work and what solutions a customer is looking for. That transparency is robust enough to do a real analysis to understand that customer even better.”
 </p>
 
-That’s  what we strive to do for the governmentwide category management efforts: share data and information, conduct more robust market research, and provide a platform like the [Acquisition Gateway](https://hallways.cap.gsa.gov/) so agencies and industry have one place to go to find information pertinent to all agencies and across categories.
+That’s what we strive to do for the governmentwide category management efforts: share data and information, conduct more robust market research, and provide a platform like the [Acquisition Gateway](https://hallways.cap.gsa.gov/) so agencies and industry have one place to go to find information pertinent to all agencies and across categories.
 
 **3. Statements of Work vs. Statements of Objectives.** 
 
 Government, in general, is still prescribing the HOW we want work to get done and what kind of people we want on the job (i.e., prescribing labor categories), rather than describing what we need and what the outcome should be.
 
-Industry reported that they still see voluminous, prescriptive RFPs instead of simpler statements of objectives. When government uses the prescriptive RFP, it makes it harder for industry to offer innovative solutions – yet the government regularly says that’s  what it wants. We need to train our folks to write statements of objectives and then how to manage contracts for outcomes and performance. It’s  harder to do, but it’s  where we need to be.
+Industry reported that they still see voluminous, prescriptive RFPs instead of simpler statements of objectives. When government uses the prescriptive RFP, it makes it harder for industry to offer innovative solutions – yet the government regularly says that’s what it wants. We need to train our folks to write statements of objectives and then how to manage contracts for outcomes and performance. It’s harder to do, but it’s where we need to be.
 
-The industry unanimously agreed that GSA’s  [FEDSIM](https://fedsim.gsa.gov/) does a great job of this. FEDSIM conducts IT and professional services procurements on behalf of other agencies using a true Integrated Project Team approach. They bring in program, technical, acquisition, and legal staff to work with customer agency staff on requirements development and drafting the solicitation. In addition, FEDSIM uses standard acquisition processes and templates, and works very closely with industry to provide opportunity pipeline information and conduct market research during presolicitation (Check out their new [website](https://fedsim.gsa.gov/) and you’ll see what I mean.). They write in clear performance-based terms and employ trained project managers and CORs to manage the projects after award.
+The industry unanimously agreed that GSA’s [FEDSIM](https://fedsim.gsa.gov/) does a great job of this. FEDSIM conducts IT and professional services procurements on behalf of other agencies using a true Integrated Project Team approach. They bring in program, technical, acquisition, and legal staff to work with customer agency staff on requirements development and drafting the solicitation. In addition, FEDSIM uses standard acquisition processes and templates, and works very closely with industry to provide opportunity pipeline information and conduct market research during presolicitation (Check out their new [website](https://fedsim.gsa.gov/) and you’ll see what I mean.). They write in clear performance-based terms and employ trained project managers and CORs to manage the projects after award.
 
 Industry also pointed out that the way government structures smaller requirements often requires the same level of effort from industry to bid. So the tendency is for industry not to bid those requirements and instead spend their time bidding larger opportunities. This results in reduced competition and fewer innovative solutions for government on the smaller requirements.
 
@@ -72,7 +72,7 @@ _Guessing at the cost of the requirement_.
   
 Industry shared that a best practice is to publish the range of estimated costs the government thinks (and is willing to spend) to do the job directly in the solicitation. Part of the rationale for this is that the government isn’t writing clear requirements and isn’t sharing enough information for industry to be able to “guess” what the government is asking. Another reason this makes sense is that the amount that the government is spending is already public. Rather than falling into the “Price to Win” trap, leveling the playing field allows the government to select what is truly the best value.
 
-GSA’s  FEDSIM organization has used this practice successfully for years (I did it when I worked at FEDSIM 20 years ago). When the range is provided, industry can determine the kind of solution they can bid for what the government can spend.
+GSA’s FEDSIM organization has used this practice successfully for years (I did it when I worked at FEDSIM 20 years ago). When the range is provided, industry can determine the kind of solution they can bid for what the government can spend.
 
 **6. Protests.** 
 
@@ -84,4 +84,4 @@ Our government representatives didn’t quite buy it. They pointed to cases in w
 
 The group then discussed using something like a protest bond or fee that a company would have to pay if they lost a protest, hoping to encourage only protests that were charging substantive deficiencies or issues.
 
-I don’t think much of what came up in our discussion was a surprise to anyone; however, I truly appreciated industry’s  candor and how they gave us an opportunity to share and learn from this feedback. Both government and industry have responsibilities in federal acquisition,both parties can make improvements. Small changes can have big impact.
+I don’t think much of what came up in our discussion was a surprise to anyone; however, I truly appreciated industry’s candor and how they gave us an opportunity to share and learn from this feedback. Both government and industry have responsibilities in federal acquisition,both parties can make improvements. Small changes can have big impact.

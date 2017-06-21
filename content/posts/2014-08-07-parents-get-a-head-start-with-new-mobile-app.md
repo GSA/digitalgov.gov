@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/08/07/parents-get-a-head-start-with-new-mobile-app/
 date: 2014-08-07 1:00:46 -0400
-title: 'Parents Get a Head Start With New Mobile App'
+title: Parents Get a Head Start With New Mobile App
 summary: 'As it&amp;#8217;s time to return to school, the Health and Human Services Administration for Children and Families is helping parents and teachers prepare anytime, anywhere. Head Start Resources, an app available on iOS and Android, is a gateway to tools and resources for those associated with'
-authors: [katie-steffy]
+authors:
+  - katie-steffy
 categories:
   - Mobile
 tag:
@@ -16,8 +16,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-444-HHS-Head-Start-App.jpg" alt="250 x 444 HHS Head Start App" %}As it&#8217;s time to return to school, the [Health and Human Services Administration for Children and Families](https://www.acf.hhs.gov/) is helping parents and teachers prepare anytime, anywhere. Head Start Resources, an app available on [iOS](http://hsicc.cmail2.com/t/j-l-idtufd-kluyyuljt-q/) and [Android](http://hsicc.cmail2.com/t/j-l-idtufd-kluyyuljt-n/), is a gateway to tools and resources for those associated with or interested in the program. With the app, users can access:
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-444-HHS-Head-Start-App.jpg" alt="250 x 444 HHS Head Start App" %}As it&#8217;s time to return to school, the [Health and Human Services Administration for Children and Families](https://www.acf.hhs.gov/) is helping parents and teachers prepare anytime, anywhere. Head Start Resources, an app available on [iOS](http://hsicc.cmail2.com/t/j-l-idtufd-kluyyuljt-q/) and [Android](http://hsicc.cmail2.com/t/j-l-idtufd-kluyyuljt-n/), is a gateway to tools and resources for those associated with or interested in the program. With the app, users can access:
 
   * The latest and greatest in Head Start News and updates,
   * The nearest Head Start locations with a map feature that utilizes geolocation,

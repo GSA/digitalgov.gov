@@ -1,12 +1,12 @@
 ---
-
-
+url: /2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/
 date: 2015-03-02 10:00:16 -0400
-title: 'Persona Development Case Study\: NCI and Spanish Language Outreach'
+title: 'Persona Development Case Study: NCI and Spanish Language Outreach'
 summary: ' Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way. The National'
-authors: [awichman]
+authors:
+  - awichman
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - BLS
@@ -20,15 +20,13 @@ tag:
   - user experience
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-300-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-teaser-image.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf teaser image" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-300-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-teaser-image.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf teaser image" %}
 
 Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way.
 
 The National Cancer Institute (NCI) engaged in user experience research in order to better serve the U.S. Latino population. The research eventually led to the creation of Spanish language [personas](https://www.WHATEVER/tag/personas/) that NCI uses to design programs, products, and services that are culturally and linguistically appropriate. These personas can also be used by health organizations outside of NCI.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-223-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Javier profile" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-223-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Javier profile" %}
 
 NCI is the federal government&#8217;s principal agency for cancer research and training. Programs address the cause, diagnosis, prevention, and treatment of cancer, as well as care for cancer patients and their families. Persona development was led by Silvia Inéz Salazar, the Audience Research and Informatics Laboratory Manager at NCI.
 
@@ -44,7 +42,7 @@ The NCI User Experience (UX) team conducted iterative testing and included users
 
 Due to the large volume of research findings and reports, NCI project teams decided to create personas that could be used to reference the findings and to understand Spanish-speaking users throughout the development lifecycle. Each persona needed to be a realistic representation of target audience segments; therefore, data was collected from actual humans, not from hypotheses.
 
-NCI examined Google Analytics to understand how users access NCI content. They focused on browser type, device type, landing pages, and length of visit. NCI also used reports by the Pew Research Center and Forrester Research to create descriptions of personas’ incomes, housing, and family sizes. For details such as music and entertainment preferences, they looked at public data, such as Nielsen’s  weekly ratings. These data points were vital for fact-checking.
+NCI examined Google Analytics to understand how users access NCI content. They focused on browser type, device type, landing pages, and length of visit. NCI also used reports by the Pew Research Center and Forrester Research to create descriptions of personas’ incomes, housing, and family sizes. For details such as music and entertainment preferences, they looked at public data, such as Nielsen’s weekly ratings. These data points were vital for fact-checking.
 
 For example, NCI checked that personas’ Internet behavior matched Google Analytics and that characteristics like income, family size, and education aligned with the cities where actual users live. Other reports they used were from the Bureau of Labor Statistics, American Cancer Society, and the Census Bureau.
 
@@ -77,12 +75,11 @@ To address language and cultural needs, the NCI team identified basic site funct
 
 ### Step 2: Develop Personas
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/590-x-686-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Antonio-and-Claudia-2.jpg" alt="590 x 686 NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Antonio and Claudia 2" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/590-x-686-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Antonio-and-Claudia-2.jpg" alt="590 x 686 NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Antonio and Claudia 2" %}
 
 Fourteen personas were created. Nine personas are about members of the general public: patients, friends, family, co-browsers, and those interested in cancer information. Three are about healthcare professionals: community health workers, general practitioners, and nurses. The final two are Cancer Information Service Call Center Spanish-speaking staff and patient navigators. The personas are portraits of Spanish-speaking users who seek health and cancer-related information, specifically from Cancer.gov/espanol.
 
-Each persona contains details about a typical user’s  goals, motivations, background, behavior, and habits. Following the same layout as NCI’s  English language personas, the description includes a summary of information that provides characteristics about that group’s  demographics: Latino ancestry, acculturation and language preference, medical literacy level, co-browsing behaviors, cultural values, typical cancer-related tasks for that persona, and Internet and search skills.
+Each persona contains details about a typical user’s goals, motivations, background, behavior, and habits. Following the same layout as NCI’s English language personas, the description includes a summary of information that provides characteristics about that group’s demographics: Latino ancestry, acculturation and language preference, medical literacy level, co-browsing behaviors, cultural values, typical cancer-related tasks for that persona, and Internet and search skills.
 
 Although the personas were created to represent the needs of Cancer.gov/espanol visitors, they can also be used for other health websites. The language preferences, cultural values, co-browsing behaviors, health beliefs, acculturation levels, and user needs are the same across many types of websites that provide medical or health information.
 

@@ -1,10 +1,15 @@
 ---
-
-
+url: /2014/05/19/sign-up-for-digitalgov-citizen-services-summit-friday-may-30/
 date: 2014-05-19 3:03:16 -0400
-title: 'Sign up For DigitalGov Citizen Services Summit, Friday, May 30'
+title: Sign up For DigitalGov Citizen Services Summit, Friday, May 30
 summary: 'We won&rsquo;t build the government of the 21st century by drawing within the lines. We don&amp;#8217;t have to tell you the hard work of building a digital government doesn&amp;#8217;t exist in a vacuum or a bubble. Show us social media without mobile, Web without data and user experience without APIs. You can&amp;#8217;t? That&amp;#8217;s right&mdash;in reality,'
-authors: [tmarcoullier, apiazza, jparcell, jherman, jonathan-rubin, rflagg]
+authors:
+  - tmarcoullier
+  - apiazza
+  - jparcell
+  - jherman
+  - jonathan-rubin
+  - rflagg
 categories:
   - API
   - Challenges
@@ -34,7 +39,7 @@ We don&#8217;t have to tell you the hard work of building a digital government d
 
 To get ourselves thinking outside the lines in order to build an awesome 21st century government we’re bringing federal, industry and state and local employees together for the [DigitalGov Citizen Services Summit](https://www.WHATEVER/event/digitalgov-citizen-services-summit/) on Friday, May 30.
 
-In our event’s  panels and Expo, we’ll showcase programs that are combining, collaborating and colluding across technology boundaries to improve:
+In our event’s panels and Expo, we’ll showcase programs that are combining, collaborating and colluding across technology boundaries to improve:
 
   * How agencies operate internally
   * How agencies collaborate together

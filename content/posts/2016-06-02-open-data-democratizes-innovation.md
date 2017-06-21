@@ -1,16 +1,17 @@
 ---
-
-
+url: /2016/06/02/open-data-democratizes-innovation/
 date: 2016-06-02 2:15:24 -0400
-title: 'Open Data Democratizes Innovation'
-summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly. Thanks to the&nbsp;President’s Executive Order&nbsp;requiring'
-authors: [robin-thottungal, kris-rowley]
+title: Open Data Democratizes Innovation
+summary: 'Americans Use Public Data to Improve the Lives of Fellow Citizens Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly. Thanks to the&nbsp;President&rsquo;s Executive Order&nbsp;requiring'
+authors:
+  - robin-thottungal
+  - kris-rowley
 categories:
   - API
   - Challenges
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Data
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - API
   - apps challenges
@@ -42,19 +43,17 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-## Americans Use Public Data to Improve the Lives of Fellow Citizens 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" %} 
+## Americans Use Public Data to Improve the Lives of Fellow Citizens {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" %} 
 
 Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly.
 
-Thanks to the [President’s  Executive Order](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) requiring that agencies make data open, we are democratizing access to data. The federal government’s  open data site, [Data.gov](https://www.data.gov/), provides access to nearly 200,000 datasets, making it easy to search, understand, and share government data.
+Thanks to the [President’s Executive Order](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) requiring that agencies make data open, we are democratizing access to data. The federal government’s open data site, [Data.gov](https://www.data.gov/), provides access to nearly 200,000 datasets, making it easy to search, understand, and share government data.
 
 Broadening access to data has already had extraordinary benefits. Open data has empowered citizens to track trends and make informed personal decisions. And increasingly, American citizens are using government data to drive action and solve problems in their communities.
 
-It has also opened new possibilities for the government. With open and available datasets, federal agencies can solicit the public to help solve some of the nation’s  most challenging problems. And during the past year, we have seen more and more crowd-sourced solutions to some of the most pressing mission-centric challenges.
+It has also opened new possibilities for the government. With open and available datasets, federal agencies can solicit the public to help solve some of the nation’s most challenging problems. And during the past year, we have seen more and more crowd-sourced solutions to some of the most pressing mission-centric challenges.
 
-These are technological tools created by the people, for the people. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
+These are technological tools created by the people, for the people. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
 
 <h3 id="spotlight-crowdsourcing" style="padding-top: 50px;padding-left: 30px">
   Spotlight: Citizens Innovate Technology for Food Resilience in a Changing Climate
@@ -80,10 +79,9 @@ During another hackathon, the U.S. Agency for International Development (USAID) 
 
 The winning project externalized perceptions of crime and violence in Guatemala, El Salvador and Honduras through powerful [data visualizations](http://hpp-gt.org/LACHack/). Another project [mapped trends](http://consulting.vizonomy.com/consulting/projects/hackathon/hackathon.png) of crime and violence across the region using tweets that mention key words. Imagine how these analyses can advance policing and prevent injustices.
 
-## Here’s  How You Can Get Involved!
+## Here’s How You Can Get Involved!
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" %}
 
 We both agree that data science is a team sport. Thank you to everyone who has shared their talents and ideas through innovation challenges and hackathons. Your help has been invaluable as we continue combining government expertise with private-sector technological capabilities.
 
@@ -91,4 +89,4 @@ As we have learned, America is home to many technologically creative innovators.
 
 On June 4th, we invite you to participate in the [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-2016). Code for America, Secondmuse, and the Small Business Administration (SBA) will provide support to developers, government employees, designers, journalists, data scientists and citizens for events across the country. Share your ideas for National Day of Civic Hacking using [#hackforchange](https://twitter.com/search?q=%23hackforchange) and sign up for an event near you.
 
-There are millions of stories to tell about America. Citizens engaging with public data will allow us to tell those stories and make a real difference in people’s  lives.
+There are millions of stories to tell about America. Citizens engaging with public data will allow us to tell those stories and make a real difference in people’s lives.

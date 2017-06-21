@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/27/are-faqs-still-relevant/
 date: 2015-04-27 1:10:19 -0400
-title: 'Are FAQs Still Relevant?'
-summary: 'Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate\: are FAQ sections still relevant in 2015, or are they a relic of bygone days? Nielsen Norman Group recently published two articles arguing for the continued use and usefulness'
-authors: [awichman]
+title: Are FAQs Still Relevant?
+summary: 'Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate: are FAQ sections still relevant in 2015, or are they a relic of bygone days? Nielsen Norman Group recently published two articles arguing for the continued use and usefulness'
+authors:
+  - awichman
 categories:
   - Monthly Theme
   - UX
@@ -23,8 +23,7 @@ tag:
   - User Experience Community of Practice
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt=""Frequently Asked Questions" displays as typed on white paper in an old typewriter." %} 
 
 Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate: are FAQ sections still relevant in 2015, or are they a relic of bygone days?
 
@@ -50,9 +49,9 @@ Gordon said her team is also focused on increasing user engagement.
 
 ## FAQs and Contact Centers
 
-Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank](http://www.exim.gov/), said FAQs are a key tool for the Ex-Im Bank’s  customer contact center. Agents use the FAQs to respond to routine phone calls, emails, and online chats. However, she acknowledged there can be difficulties.
+Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank](http://www.exim.gov/), said FAQs are a key tool for the Ex-Im Bank’s customer contact center. Agents use the FAQs to respond to routine phone calls, emails, and online chats. However, she acknowledged there can be difficulties.
 
-“The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s  question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
+“The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
 
 DigitalGov previously covered how [ExIm improved their contact centers](https://www.WHATEVER/2014/12/04/ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters/) to deliver better customer experience.
 

@@ -1,22 +1,21 @@
 ---
-
-
+url: /2014/08/06/what-is-a-customer-centric-culture-part-2/
 date: 2014-08-06 1:00:02 -0400
-title: 'What is a &amp;#8220;Customer Centric&amp;#8221; Culture &amp;#8211; Part 2'
+title: 'What is a &#8220;Customer Centric&#8221; Culture &#8211; Part 2'
 summary: 'Since April of 2011 when President Obama signed Executive Order 13571 mandating agencies improve the quality of service they give to the public, agencies have been working through strategies to best fulfill this task. We at GSA&amp;#8217;s Office of Citizen Services and Innovative Technologies (OCSIT) were no exception. Back in September of 2013, we wrote'
-authors: [jacqueline-snee]
+authors:
+  - jacqueline-snee
 categories:
   - Managing Digital
 tag:
   - Customer Experience
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-160-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-160-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept "compass" graphic with the arrow pointing towards Customer" %} 
 
 Since April of 2011 when President Obama signed [Executive Order 13571](http://www.whitehouse.gov/the-press-office/2011/04/27/executive-order-streamlining-service-delivery-and-improving-customer-ser) mandating agencies improve the quality of service they give to the public, agencies have been working through strategies to best fulfill this task. We at GSA&#8217;s Office of Citizen Services and Innovative Technologies (OCSIT) were no exception. Back in September of 2013, [we wrote a blog](https://www.WHATEVER/2013/09/27/what-is-a-customer-centric-culture/) about how important it is for a Customer Experience (CX) Program to have shared principles and values, as well as understanding who our customers are and their expectations.
 
-Just recently I attended Forrester’s  Forum for Customer Experience Professionals and picked up a few more tips to share about building a “customer centric” culture.
+Just recently I attended Forrester’s Forum for Customer Experience Professionals and picked up a few more tips to share about building a “customer centric” culture.
 
 According to Megan Burns from Forrester, building a customer centric culture also includes:
 

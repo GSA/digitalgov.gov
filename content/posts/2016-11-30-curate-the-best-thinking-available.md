@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/11/30/curate-the-best-thinking-available/
 date: 2016-11-30 3:00:06 -0400
-title: 'Curate the Best Thinking Available'
+title: Curate the Best Thinking Available
 summary: 'When I joined the code.gov project, I had just over a month to make an impact on the project. The most pressing work seemed to be defining a software metadata schema &mdash; a way for agencies to format the details of the software they&rsquo;ve built. In August of this year, the Federal Source Code Policy'
-authors: [theresa-summa]
+authors:
+  - theresa-summa
 categories:
   - Code
 tag:
@@ -17,8 +17,7 @@ When I joined the [<span class="s2">code.gov</span>](https://code.gov/) project,
 
 In August of this year, the [<span class="s3">Federal Source Code Policy</span>](https://sourcecode.cio.gov/) was signed. It requires federal agencies to, among other things, inventory their custom software and make the inventory available for consumption and display by code.gov. This will allow agencies to reuse and collaborate on software. You can [<span class="s3">read more about the policy on code.gov</span>](https://code.gov/#/policy-guide/docs/overview/introduction).
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-500-Curate-the-best-thinking-available-By-Theresa-Summa-homepage-cfpb.jpg" alt="The code.gov homepage showing CFPB's open source resources." %}
+{% img="https://www.WHATEVER/files/2017/03/600-x-500-Curate-the-best-thinking-available-By-Theresa-Summa-homepage-cfpb.jpg" alt="The code.gov homepage showing CFPB's open source resources." %}
 
 The urgency to define the schema was driven by a 120-day deadline for agencies to use the schema to prepare their enterprise code inventories. We needed to define the schema with plenty of time for agencies to digest and adopt it.
 

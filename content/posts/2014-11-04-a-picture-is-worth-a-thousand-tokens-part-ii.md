@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/04/a-picture-is-worth-a-thousand-tokens-part-ii/
 date: 2014-11-04 10:00:48 -0400
-title: 'A Picture Is Worth a Thousand Tokens\: Part II'
-summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I&rsquo;ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience'
-authors: [loren-siebert]
+title: 'A Picture Is Worth a Thousand Tokens: Part II'
+summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week&rsquo;s post, I&rsquo;ll take a deep dive into how we worked to improve relevancy, recall, and the searcher&rsquo;s experience'
+authors:
+  - loren-siebert
 categories:
   - Content
   - Our Work
@@ -15,14 +15,13 @@ tag:
   - USAgov
 ---
 
-In the first part of [_A Picture Is Worth a Thousand Tokens_](https://www.WHATEVER/2014/10/28/a-picture-is-worth-a-thousand-tokens/ "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s  post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s  experience as a whole.
+In the first part of [_A Picture Is Worth a Thousand Tokens_](https://www.WHATEVER/2014/10/28/a-picture-is-worth-a-thousand-tokens/ "A Picture Is Worth a Thousand Tokens"), I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week’s post, I’ll take a deep dive into how we worked to improve relevancy, recall, and the searcher’s experience as a whole.
 
 ## Redefine Recency
 
 To solve the scoring problem on older photos for archival photostreams, we decided that after some amount of time, say six weeks, we no longer wanted to keep decaying the relevancy on photos. To put that into effect, we modified the functions in the function score like this:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-Redefine-Recency-code.jpg" alt="600-x-186-tokens-Part-2-Redefine-Recency-code" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-Redefine-Recency-code.jpg" alt="600-x-186-tokens-Part-2-Redefine-Recency-code" %}](https://gist.github.com/loren/df85de9536216ae32b19)
 
 Now we only apply the Gaussian decay for photos taken in the last six weeks or so. Anything older than that gets a constant decay or negative boost equal to what it would be if the photo were about six weeks old. So rather than having the decay factor continue on down to zero, we stop it at around 0.12. For all those Civil War photos in the Library of Congress’ photostream, the date ends up being factored out of the relevancy equation and they are judged solely on their similarity score and their popularity.
 
@@ -30,8 +29,7 @@ Now we only apply the Gaussian decay for photos taken in the last six weeks or s
 
 To rank &#8220;County event in Jefferson Memorial&#8221; higher than &#8220;Memorial event in Jefferson County&#8221; on a search for _jefferson memorial_, the simplest way to handle it was to use a [match_phrase query](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-match-query.html#_phrase) to make the proximity of the terms a nice-to-have signal that could be factored into the overall score. The updated boolean clause matches on the phrase like this:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-Recognize-Proximity-code.jpg" alt="600-x-186-tokens-Part-2-Recognize-Proximity-code" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-Recognize-Proximity-code.jpg" alt="600-x-186-tokens-Part-2-Recognize-Proximity-code" %}](https://gist.github.com/loren/7741c52bd8e74d7ef626)
 
 ## Account for Misspellings
 
@@ -64,7 +62,7 @@ The problem with suggesting a &#8220;better&#8221; search term than what the vis
   * You searched on _civil rights_. Did you mean _civil right_?
   * You searched on _better america_. Did you mean _bitter america_?
 
-OK, that last one didn’t really happen, but it could have, so we put that particular problem on the back shelf and instead focused on handling cases where the visitor’s  search as typed didn&#8217;t return any results from our indexes but a slight variation on the query did. To do this, we introduced a new field to the indexes called &#8220;bigram&#8221; based on a [shingle token filter](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-shingle-tokenfilter.html#analysis-shingle-tokenfilter) we called &#8220;bigram_filter.&#8221;
+OK, that last one didn’t really happen, but it could have, so we put that particular problem on the back shelf and instead focused on handling cases where the visitor’s search as typed didn&#8217;t return any results from our indexes but a slight variation on the query did. To do this, we introduced a new field to the indexes called &#8220;bigram&#8221; based on a [shingle token filter](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-shingle-tokenfilter.html#analysis-shingle-tokenfilter) we called &#8220;bigram_filter.&#8221;
 
 The Elasticsearch settings got modified like this:
 
@@ -81,13 +79,11 @@ The properties in the Flickr and Instagram index mappings got modified as well.
 
 Flickr:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-flickr-code.jpg" alt="600-x-186-tokens-Part-2-flickr-code" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-flickr-code.jpg" alt="600-x-186-tokens-Part-2-flickr-code" %}](https://gist.github.com/loren/f08c3e2c97e7773e432e)
 
 Instagram:
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-instagram-code.jpg" alt="600-x-186-tokens-Part-2-instagram-code" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-instagram-code.jpg" alt="600-x-186-tokens-Part-2-instagram-code" %}](https://gist.github.com/loren/89a80170b14714f074c2)
 
 This populates the bigram field for each index with whatever natural language fields it might have. For Instagram, it&#8217;s just the caption field, but Flickr has title and description so these are essentially appended together as they are copied into the bigram field. In both cases, they are analyzed with the shingle filter which creates bigrams out of the text. The clause of the query that generates the suggestion looks like this:
 
@@ -202,8 +198,7 @@ This populates the bigram field for each index with whatever natural language fi
 
 
 <p>
-  <a href="https://gist.github.com/loren/cbc7e95ed9d015e70e4a">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-More-Like-This-code.jpg" alt="600-x-186-tokens-Part-2-More-Like-This-code" %}</a>
+  <a href="https://gist.github.com/loren/cbc7e95ed9d015e70e4a">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-Part-2-More-Like-This-code.jpg" alt="600-x-186-tokens-Part-2-More-Like-This-code" %}</a>
 </p>
 
 
@@ -276,7 +271,8 @@ This populates the bigram field for each index with whatever natural language fi
 </h2>
 
 
-<p> Although Elasticsearch defaults to five <a href="http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/glossary.html#glossary-shard">shards</a> per index, we put each image index in just one shard. As we are relying so heavily on relevance across potentially small populations of photos, we wanted the results to be as accurate as possible (see <a href="http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/relevance-is-broken.html#relevance-is-broken">Elasticsearch’s  Relevance Is Broken!</a>).
+<p>
+  Although Elasticsearch defaults to five <a href="http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/glossary.html#glossary-shard">shards</a> per index, we put each image index in just one shard. As we are relying so heavily on relevance across potentially small populations of photos, we wanted the results to be as accurate as possible (see <a href="http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/relevance-is-broken.html#relevance-is-broken">Elasticsearch’s Relevance Is Broken!</a>).
 </p>
 
 

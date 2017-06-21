@@ -1,12 +1,10 @@
 ---
-
-
+url: /2012/04/26/noaas-release-mako-app/
 date: 2012-04-26 2:26:08 -0400
-title: 'NOAA&amp;#8217;s Release Mako App'
+title: 'NOAA&#8217;s Release Mako App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA). The&nbsp;Release Mako App&nbsp;was created for fisherman to report their catch and releases of&nbsp;shortfin mako sharks&nbsp;in real time. Why'
-authors: [jparcell]
 categories:
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Mobile
 tag:
   - crowdsourcing
@@ -15,8 +13,7 @@ tag:
   - NOAA
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" %}
-Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
+_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
 
 The <a href="http://apps.usa.gov/release-mako.shtml" rel="nofollow">Release Mako App</a> was created for fisherman to report their catch and releases of <a href="http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/index.htm" rel="nofollow">shortfin mako sharks</a> in real time.
 
@@ -30,7 +27,7 @@ NOAA staff decided to develop an app on the Android platform using a rapid devel
 
 ## <a name="x-How It Worked"></a>How It Worked {#toc2}
 
-The App Inventor development was cost effective and quick. The app has the intended functionality and the submission form is easy to fill out and operates like the online submission form. The app also includes information about shortfin mako stock status, fishing regulations, FAQs, and safe handling and release guidelines. The app uses a device’s  built-in GPS, when available, to fill in exact location coordinates on the shortfin mako live release data form. The catch and release reports submitted via email allow fishermen to put their mako on the <a href="http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/Map/index.htm" rel="nofollow">Shortfin Mako Shark Live Release Interactive Web Map</a>.
+The App Inventor development was cost effective and quick. The app has the intended functionality and the submission form is easy to fill out and operates like the online submission form. The app also includes information about shortfin mako stock status, fishing regulations, FAQs, and safe handling and release guidelines. The app uses a device’s built-in GPS, when available, to fill in exact location coordinates on the shortfin mako live release data form. The catch and release reports submitted via email allow fishermen to put their mako on the <a href="http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/Map/index.htm" rel="nofollow">Shortfin Mako Shark Live Release Interactive Web Map</a>.
 
 ## <a name="x-What We Learned"></a>What We Learned {#toc3}
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/12/trends-on-tuesday-10-mobile-government-and-tech-trends-for-2016/
 date: 2016-01-12 11:00:37 -0400
-title: 'Trends on Tuesday\: 10 Mobile, Government and Tech Trends for 2016'
-summary: 'As we move into&nbsp;2016, here are 10 trends I foresee flourishing around mobile, technology and government\: The mobile-majority tipping point in government. Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with 66% of people accessing federal websites via desktop and&nbsp;34% on mobile. In 2016, the double-digit mobile'
-authors: [wsullivan]
+title: 'Trends on Tuesday: 10 Mobile, Government and Tech Trends for 2016'
+summary: 'As we move into&nbsp;2016, here are 10 trends I foresee flourishing around mobile, technology and government: The mobile-majority tipping point in government. Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with 66% of people accessing federal websites via desktop and&nbsp;34% on mobile. In 2016, the double-digit mobile'
+authors:
+  - wsullivan
 categories:
   - Managing Digital
   - Mobile
@@ -23,8 +23,7 @@ tag:
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:
 
-  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile](https://www.WHATEVER/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw](https://www.WHATEVER/2015/07/28/trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users/)). 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" %} 
+  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile](https://www.WHATEVER/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw](https://www.WHATEVER/2015/07/28/trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users/)). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" %} 
 
 <ol start="2" type="1">
   <li>
@@ -34,7 +33,7 @@ As we move into 2016, here are 10 trends I foresee flourishing around mobile, te
     <b>Apps become more Web-like.</b> With <a href="http://www.webpronews.com/google-updates-app-indexing-docs-2015-12/">Google App Indexing beginning to take shape and deep linking in apps</a>, the walls between apps and the Web will start to blur further.
   </li>
   <li>
-    <b>App apathy increases.</b> People will install fewer apps and <a href="https://www.WHATEVER/2015/10/27/trends-on-tuesday-users-spend-most-of-their-time-in-social-apps/">continue to only use five to seven regularly for communication/social, streaming media and games</a>. Apple’s  decision to continue to offer their starter iPhone with only 16GB of memory will limit people’s  ability to store many things on their phone. As Internet connections and Web browsers have evolved—particularly mobile Web browsers and mobile devices, which are upgraded faster than desktop computers—<a href="https://medium.com/inside-birdly/why-you-shouldn-t-bother-creating-a-mobile-app-328af62fe0e5#.1r1l50in3">an optimized responsive website can fulfill almost all the needs of an app</a>. The cost of building and maintaining an app is becoming more apparent and more organizations will choose to bypass.
+    <b>App apathy increases.</b> People will install fewer apps and <a href="https://www.WHATEVER/2015/10/27/trends-on-tuesday-users-spend-most-of-their-time-in-social-apps/">continue to only use five to seven regularly for communication/social, streaming media and games</a>. Apple’s decision to continue to offer their starter iPhone with only 16GB of memory will limit people’s ability to store many things on their phone. As Internet connections and Web browsers have evolved—particularly mobile Web browsers and mobile devices, which are upgraded faster than desktop computers—<a href="https://medium.com/inside-birdly/why-you-shouldn-t-bother-creating-a-mobile-app-328af62fe0e5#.1r1l50in3">an optimized responsive website can fulfill almost all the needs of an app</a>. The cost of building and maintaining an app is becoming more apparent and more organizations will choose to bypass.
   </li>
   <li>
     <b>SMS as apps takes hold.</b> The new <a href="https://www.producthunt.com/@thinker/collections/sms-text-assistant-services">trend of smart messaging instead of apps</a> continues to grow as it becomes more mainstream and useful, especially as app apathy grows.
@@ -45,8 +44,7 @@ As we move into 2016, here are 10 trends I foresee flourishing around mobile, te
   <li>
     <b>The Internet of Things (IOT) blossoms.</b> IOT quietly delivers on the hype that wearables couldn’t; from connected-cars to WiFi cameras to home thermostats, the diversity of opportunities for IOT devices to reshape our world will continue to flourish.
   </li>
-</ol> 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-White-mobile-smartphone-with-smart-home-application-alexey_boldin-iStock-Thinkstock-503489169.jpg" alt="White mobile smartphone with flat design smart home apps" %} 
+</ol> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-White-mobile-smartphone-with-smart-home-application-alexey_boldin-iStock-Thinkstock-503489169.jpg" alt="White mobile smartphone with flat design smart home apps" %} 
 
 <ol start="8" type="1">
   <li>
@@ -58,7 +56,6 @@ As we move into 2016, here are 10 trends I foresee flourishing around mobile, te
   <li>
     <b>Government doubles down on tech talent.</b> “Good enough for government” technology starts to carry more weight as <a href="http://fedscoop.com/epa-to-grow-digital-services-with-godbout-at-helm">more agencies invest in</a> and <a href="https://fcw.com/articles/2015/04/10/digital-services-budgets.aspx">start staffing up their own digital services teams</a> to bring exceptional technologists in to lead their organizations in the digital age. Are you part of this sea change? <a href="https://www.WHATEVER/">Follow along at DigitalGov</a>!
   </li>
-</ol> 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Human-resources-and-gender-equality-Jirsak-iStock-Thinkstock-162704480.jpg" alt="Human resources and gender equality" %} 
+</ol> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Human-resources-and-gender-equality-Jirsak-iStock-Thinkstock-162704480.jpg" alt="Human resources and gender equality" %} 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

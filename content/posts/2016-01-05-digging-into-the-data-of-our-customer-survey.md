@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/05/digging-into-the-data-of-our-customer-survey/
 date: 2016-01-05 9:00:06 -0400
-title: 'Digging Into the Data of Our Customer Survey'
-summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we&rsquo;re using your feedback to improve our programs and services. Background\: For the past three years, GSA’s Office of Citizen'
-authors: [rflagg]
+title: Digging Into the Data of Our Customer Survey
+summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we&rsquo;re using your feedback to improve our programs and services. Background: For the past three years, GSA&rsquo;s Office of Citizen'
+authors:
+  - rflagg
 categories:
   - Our Work
 tag:
@@ -19,10 +19,9 @@ tag:
   - Web Content Managers Forum
 ---
 
-As a followup to the [recent post about our annual customer satisfaction survey](https://www.WHATEVER/2015/12/28/ocsits-2015-customer-survey-what-we-learned/), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" %} 
+As a followup to the [recent post about our annual customer satisfaction survey](https://www.WHATEVER/2015/12/28/ocsits-2015-customer-survey-what-we-learned/), we wanted to dig into the data and share some of the overall results, to give you some more insights into how we’re using your feedback to improve our programs and services. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-362-Satisfied-Customer-Concept-olm26250-iStock-Thinkstock-454049039.jpg" alt="The question, "Are you satisfied?" appears on a console above 3 rating buttons; 1 star to indicate "not satisfied," 2 stars to indicate "somewhat satisfied," and 3 stars, which has been selected, to indicate "very satisfied."" %} 
 
-Background: For the past three years, GSA’s  Office of Citizen Services and Innovative Technologies (OCSIT) has conducted an annual survey to measure customer satisfaction. The survey is modeled after Forrester’s  original Customer Experience Index. In 2015, we polled over 8,800 people from 135 government agencies and bureaus to gather data on 18 programs. Around one-third of the people we surveyed (31%) are customers of more than one OCSIT program.
+Background: For the past three years, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) has conducted an annual survey to measure customer satisfaction. The survey is modeled after Forrester’s original Customer Experience Index. In 2015, we polled over 8,800 people from 135 government agencies and bureaus to gather data on 18 programs. Around one-third of the people we surveyed (31%) are customers of more than one OCSIT program.
 
 ## Overall Results
 
@@ -160,7 +159,7 @@ For 2015, OCSIT programs ranked “Good,” with an overall GCXi score of 78. No
   </tr>
 </table>
 
-The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,” much higher than Forrester’s  industry benchmarks.
+The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,” much higher than Forrester’s industry benchmarks.
 
 <table border="0" width="100%" cellspacing="2" cellpadding="2">
   <tr>
@@ -363,7 +362,7 @@ The majority of OCSIT programs (55%) surveyed scored “Good” or “Very Good,
   * The Government Contact Center Council Community of Practice (G3C) and Publication Distribution programs have maintained “Very Good” ratings three years running, as have DigitalGov University, the User Experience Community of Practice, the SocialGov Community of Practice and the Web Content Managers Forum (which were rated collectively in 2013).
   * The Challenges & Prizes program has seen an 18% increase in their overall rating since 2013.
 
-We’re just starting work on this year’s  GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
+We’re just starting work on this year’s GCXi, and have plans to streamline and simplify the process, to make it easier for you to provide your feedback. When you see a request from our team to take the survey, please share your thoughts. We take your comments to heart.
 
 &nbsp;
 

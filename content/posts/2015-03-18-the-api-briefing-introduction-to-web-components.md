@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/18/the-api-briefing-introduction-to-web-components/
 date: 2015-03-18 10:00:17 -0400
-title: 'The API Briefing\: Introduction to Web Components'
+title: 'The API Briefing: Introduction to Web Components'
 summary: ' Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the HTML5 set of tags. Developers can create a Web Component that'
-authors: [bbrantley]
+authors:
+  - bbrantley
 categories:
   - API
 tag:
@@ -12,8 +12,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" %}
 
 Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the <a href="http://en.wikipedia.org/wiki/HTML5" target="_blank">HTML5</a> set of tags. Developers can create a Web Component that is a button that performs a specific function, such as composing and sending an email. Alternatively, a Web Component can be a complete application that a developer can easily drop into a Web page or mobile app.
 
@@ -30,9 +29,9 @@ If you would like to learn more about Web Components, you can start with these r
   * <a href="http://tech.pro/blog/1940/getting-started-with-web-components" target="_blank">A technical introduction to Web Components</a>
   * <a href="https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be" target="_blank">A video presentation of the potential of Web Components (33 minutes)</a>
   * <a href="http://webcomponents.org/" target="_blank">Webcomponents.org</a>
-  * <a href="https://www.polymer-project.org/0.5/" target="_blank">Google’s  Polymer</a>
-  * <a href="http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/" target="_blank">How the Angular JavaScript library differs from Google’s  Polymer</a>
-  * <a href="http://component.kitchen/tutorial" target="_blank">Component Kitchen’s  interactive Web Components tutorial</a>
+  * <a href="https://www.polymer-project.org/0.5/" target="_blank">Google’s Polymer</a>
+  * <a href="http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/" target="_blank">How the Angular JavaScript library differs from Google’s Polymer</a>
+  * <a href="http://component.kitchen/tutorial" target="_blank">Component Kitchen’s interactive Web Components tutorial</a>
   * <a href="http://webdesign.tutsplus.com/articles/how-to-create-your-own-html-elements-with-web-components--cms-21524" target="_blank">How to create your HTML elements using Web Components</a>
 
 Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?

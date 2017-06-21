@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/19/drugshortages-app-accelerates-public-access-to-drug-shortage-information/
 date: 2015-03-19 1:00:13 -0400
-title: 'DrugShortages App Accelerates Public Access to Drug Shortage Information'
+title: DrugShortages App Accelerates Public Access to Drug Shortage Information
 summary: 'The U.S. Food and Drug Administration&amp;#8217;s new &amp;#8220;DrugShortages&amp;#8221; app gives the public&nbsp;access to important&mdash;and sometimes critical&mdash;drug shortage information easier and faster than ever before. Drugs in short supply can delay or deny needed care for patients. Shortages may also lead health care professionals to rely on alternative drug products, which'
-authors: [kdowney]
+authors:
+  - kdowney
 categories:
   - Mobile
 tag:
@@ -15,8 +15,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" %}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" %}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.
 
 Drugs in short supply can delay or deny needed care for patients. Shortages may also lead health care professionals to rely on alternative drug products, which may be less effective or associated with higher risks than the drug in shortage.
 

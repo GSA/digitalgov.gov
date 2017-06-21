@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/24/trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program/
 date: 2015-02-24 10:00:03 -0400
-title: 'Trends on Tuesday\: Mobile Web Lessons From the CrowdSource Mobile Testing Program'
-summary: 'Practice makes perfect. But in the mobile world, it’s testing that makes products better. For federal agencies that have developed their own apps or mobile-friendly sites, the CrowdSource Mobile Testing Program offers a simple way to collect feedback on compatibility testing. Since the program’s inception in March 2013, eight federal mobile websites (including responsive design)'
-authors: [david-fern]
+title: 'Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testing Program'
+summary: 'Practice makes perfect. But in the mobile world, it&rsquo;s testing that makes products better. For federal agencies that have developed their own apps or mobile-friendly sites, the CrowdSource Mobile Testing Program offers a simple way to collect feedback on compatibility testing. Since the program&rsquo;s inception in March 2013, eight federal mobile websites (including responsive design)'
+authors:
+  - david-fern
 categories:
   - Mobile
   - Our Work
@@ -20,14 +20,13 @@ tag:
   - United States Department of Energy
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" %} 
-
-Practice makes perfect. But in the mobile world, it’s  testing that makes products better.
+Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 
 For federal agencies that have developed their own apps or mobile-friendly sites, the [CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) offers a simple way to collect feedback on [compatibility testing](https://www.WHATEVER/2013/11/21/mobile-product-compatibility-and-functional-testing-101/).
 
-Since the program’s  inception in March 2013, eight federal mobile websites (including responsive design) have been tested by 65 federal employees from 41 agencies. The benefits are twofold: agencies receive actionable feedback about their mobile websites, and testers gain valuable knowledge about mobile websites that they can share with their own agencies.
+Since the program’s inception in March 2013, eight federal mobile websites (including responsive design) have been tested by 65 federal employees from 41 agencies. The benefits are twofold: agencies receive actionable feedback about their mobile websites, and testers gain valuable knowledge about mobile websites that they can share with their own agencies.
 
 During each test cycle, testers log issues specific to the application or site being tested. Four themes have emerged from the logs, with lessons that are relevant to anyone developing mobile websites.
 
@@ -36,7 +35,7 @@ During each test cycle, testers log issues specific to the application or site b
 Moving from a “desktop” presentation to [responsive design](https://www.WHATEVER/tag/responsive-web-design/) isn’t always as simple as making the page smaller or changing the screen size.
 
   * Smaller mobile screens often mean smaller fonts and buttons that become hard to read and press.
-  * Page content must be pared down to allow users to easily find what they are looking for. This can also have a positive impact on desktop user experience. Marissa Newhall, acting director of the Office of Digital Strategy and Communications at the Department of Energy (DOE), said optimizing [Energy.gov](http://www.energy.gov)’s  content for mobile helped simplify the functionality of the desktop version. Newhall spoke about Energy.gov’s  responsive implementation during DigitalGov’s  webinar, [Responsive Web Design Challenges](https://www.WHATEVER/2014/10/21/responsive-web-design-challenges-webinar-recap/).
+  * Page content must be pared down to allow users to easily find what they are looking for. This can also have a positive impact on desktop user experience. Marissa Newhall, acting director of the Office of Digital Strategy and Communications at the Department of Energy (DOE), said optimizing [Energy.gov](http://www.energy.gov)’s content for mobile helped simplify the functionality of the desktop version. Newhall spoke about Energy.gov’s responsive implementation during DigitalGov’s webinar, [Responsive Web Design Challenges](https://www.WHATEVER/2014/10/21/responsive-web-design-challenges-webinar-recap/).
   * Displaying data becomes problematic: on smaller screens, users cannot always tell where they are in the data. Our testing group came up with [8 Ways To Format Tables for Responsive Web Design](https://www.WHATEVER/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design/), providing potential solutions to this issue.
 
 ## Inspector Gadget Sometimes Has Malfunctions **** 

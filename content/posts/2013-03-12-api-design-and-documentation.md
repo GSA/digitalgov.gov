@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/03/12/api-design-and-documentation/
 date: 2013-03-12 12:49:20 -0400
-title: 'API Design and Documentation'
-summary: 'Design At their core, developers want APIs for very straightforward, pragmatic ends. You should always design your APIs and document them with the goal of making it easier for developers to use them. Doing so results in greater adoption and a healthier, more successful API. The least efficient way to support developers would be to'
-authors: [gray-brooks]
+title: API Design and Documentation
+summary: Design At their core, developers want APIs for very straightforward, pragmatic ends. You should always design your APIs and document them with the goal of making it easier for developers to use them. Doing so results in greater adoption and a healthier, more successful API. The least efficient way to support developers would be to
+authors:
+  - gray-brooks
 categories:
   - API
   - Code
@@ -12,10 +12,9 @@ tag:
   - API
 ---
 
-## Design 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+## Design {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
-At their core, developers want APIs for very straightforward, pragmatic ends. You should always design your APIs and document them with the goal of making it easier for developers to use them. Doing so results in greater adoption and a healthier, more successful API. The least efficient way to support developers would be to work with each interested developer individually on any question or problem that they have. Such a system would be a very inefficient use of your time as well as the developer’s . Instead, an API producer should bundle the API itself with useful and comprehensive documentation and tools such that any developer who stumbles upon the Web service can begin building with the API as easily as possible.
+At their core, developers want APIs for very straightforward, pragmatic ends. You should always design your APIs and document them with the goal of making it easier for developers to use them. Doing so results in greater adoption and a healthier, more successful API. The least efficient way to support developers would be to work with each interested developer individually on any question or problem that they have. Such a system would be a very inefficient use of your time as well as the developer’s. Instead, an API producer should bundle the API itself with useful and comprehensive documentation and tools such that any developer who stumbles upon the Web service can begin building with the API as easily as possible.
 
 API design refers to the decisions that go into each of the structural and functional characteristics of the Web service itself. These include but are not limited to:
 
@@ -27,12 +26,12 @@ API design refers to the decisions that go into each of the structural and funct
   * Authentication—If users must authenticate in order to use the API, which system is used to manage the process?
   * Room for Growth—How is the API prepared for potential improvements or expansion in the future?
 
-Search engines, communities such as [API–Craft](https://groups.google.com/forum/?fromgroups#!forum/api-craft), publications such as [APIEvanglist.com](http://www.apievangelist.com/) and [ProgrammableWeb.com](http://www.programmableweb.com/), and other [resources listed below](#resources) and in the [Resources and Tools section](https://digitalgov.sites.usa.gov/2013/03/12/resources-and-tools-for-apis/#recommended-reading) all offer a wealth of specific guidance on each of these design decisions. The design of an API impacts every step of a developer’s  experience and several overarching lessons stand out as core principles to guide you at each step.
+Search engines, communities such as [API–Craft](https://groups.google.com/forum/?fromgroups#!forum/api-craft), publications such as [APIEvanglist.com](http://www.apievangelist.com/) and [ProgrammableWeb.com](http://www.programmableweb.com/), and other [resources listed below](#resources) and in the [Resources and Tools section](https://digitalgov.sites.usa.gov/2013/03/12/resources-and-tools-for-apis/#recommended-reading) all offer a wealth of specific guidance on each of these design decisions. The design of an API impacts every step of a developer’s experience and several overarching lessons stand out as core principles to guide you at each step.
 
   * An API should be easy to learn. You may be intimately familiar with your API but need to design for other teams and outside developers who may have never seen it.
   * Your API should have clear, discrete functions. If it doesn’t, it may be too complex for a newcomer to easily digest.
   * Start with use cases. Sometimes, an API producer begins by trying to build an API for all of their data and either makes a bulky and complex API or is forced to cut corners in order to include everything. Instead, start the design process with specific use cases that you know matter most to potential developers and build sensible, straightforward APIs for those needs.
-  * Use developer norms. The developer community has spoken, with a clear consensus often emerging about many design decisions. Though you should always weigh the merits on each side, when there are clear preferences of mainstream developers, it’s  important to choose what the developer community prefers (not what you or your IT department might be used to).
+  * Use developer norms. The developer community has spoken, with a clear consensus often emerging about many design decisions. Though you should always weigh the merits on each side, when there are clear preferences of mainstream developers, it’s important to choose what the developer community prefers (not what you or your IT department might be used to).
   * Design should be common sense. Use standardized commands and common names; avoid in–house terms or custom schemas wherever possible.
   * Get feedback. Ask prospective developers what would work best for them.
   * Document, document, document! One of the most common complaints from developers is missing, incomplete, outdated, or otherwise lacking documentation.

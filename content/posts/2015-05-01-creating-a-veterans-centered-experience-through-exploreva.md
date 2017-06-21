@@ -1,12 +1,12 @@
 ---
-
-
+url: /2015/05/01/creating-a-veterans-centered-experience-through-exploreva/
 date: 2015-05-01 10:00:29 -0400
-title: 'Creating a Veterans-Centered Experience Through ExploreVA'
-summary: 'Good customer service includes user-centered design. For one digital team at the Department of Veterans Affairs, creating a veterans-centered experience started with one word\: explore. The ExploreVA website provides a single location for veterans and their families to research the benefits that they may be entitled to receive. Benefits include health care, education, employment, and'
-authors: [awichman]
+title: Creating a Veterans-Centered Experience Through ExploreVA
+summary: 'Good customer service includes user-centered design. For one digital team at the Department of Veterans Affairs, creating a veterans-centered experience started with one word: explore. The ExploreVA website provides a single location for veterans and their families to research the benefits that they may be entitled to receive. Benefits include health care, education, employment, and'
+authors:
+  - awichman
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - A/B testing
@@ -22,11 +22,11 @@ Good customer service includes user-centered design. For one digital team at the
 
 The [ExploreVA website](http://explore.va.gov/) provides a single location for veterans and their families to research the benefits that they may be entitled to receive. Benefits include health care, education, employment, and many more services.
 
-VA’s  Megan Moloney, Director of Digital Media Engagement, and Josh Tuscher, New Media Technologist, spoke about ExploreVA and the process it took to develop this user-centered, interactive platform.
+VA’s Megan Moloney, Director of Digital Media Engagement, and Josh Tuscher, New Media Technologist, spoke about ExploreVA and the process it took to develop this user-centered, interactive platform.
 
 ## Getting Started: Providing Information to Veterans
 
-VA’s  National Outreach Office was tasked with developing an outreach campaign to educate veterans about their benefits. The digital team’s  task was to provide a place to land that campaign. The first iteration was VA.gov/explore, a landing site within the VA.gov structure that launched in September 2013.
+VA’s National Outreach Office was tasked with developing an outreach campaign to educate veterans about their benefits. The digital team’s task was to provide a place to land that campaign. The first iteration was VA.gov/explore, a landing site within the VA.gov structure that launched in September 2013.
 
 The initial site explained the 9 primary benefits areas and gave people information they needed to start the application process. Moloney called it “a front door into the world of exploring your benefits.”
 
@@ -48,8 +48,7 @@ A/B testing was conducted throughout the entire process on a variety of elements
 
 One element of the Explore campaign is an email outreach effort that began with the design of a light window to capture subscribers interested in receiving information about VA benefits. Through the tests illustrated below, the email address collection rate increased by 48 percent.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-winner.jpg" alt="600-x-450-Explore\_AB\_test\_examples-winner" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-winner.jpg" alt="600-x-450-Explore\_AB\_test\_examples-winner" %}
 
 The Explore email list has grown to 1 million subscribers, and Moloney said it is now a powerful asset that enables VA to get information out quickly and efficiently. She also noted that engagement from the Explore email campaign far exceeds industry averages on open and click-through rates.
 
@@ -57,8 +56,7 @@ The Explore email list has grown to 1 million subscribers, and Moloney said it i
 
 In another A/B test, the Web content and layout changes below increased application starts—visitors leaving an Explore page to begin the benefits application process—by 33 percent. To date, nearly 900,000 users have begun the benefits application process through Explore.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-comparison.jpg" alt="600-x-450-Explore\_AB\_test\_examples-comparison" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-comparison.jpg" alt="600-x-450-Explore\_AB\_test\_examples-comparison" %}
 
 ## Going Beyond Information to an Interactive Experience: Explore 2.5
 
@@ -79,7 +77,7 @@ After a section was added to the ExploreVA website about filing the claims, “F
 
 Moloney said the email campaign accounted for more than 80% of ExploreVA traffic during that timeframe and reinforced the power of email as an effective, scalable communications tool for VA.
 
-According to VA’s  analytics, email visitors converted at a 31% rate on the “File a Claim” pages (which were designed in keeping with the look and feel of the Explore site), slightly higher than the conversions off Explore benefit pages—28% to 30% for email and search traffic and 20% to 25% for general traffic.
+According to VA’s analytics, email visitors converted at a 31% rate on the “File a Claim” pages (which were designed in keeping with the look and feel of the Explore site), slightly higher than the conversions off Explore benefit pages—28% to 30% for email and search traffic and 20% to 25% for general traffic.
 
 ## Looking Ahead
 

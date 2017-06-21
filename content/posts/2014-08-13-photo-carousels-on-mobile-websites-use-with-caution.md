@@ -1,14 +1,14 @@
 ---
-
-
+url: /2014/08/13/photo-carousels-on-mobile-websites-use-with-caution/
 date: 2014-08-13 10:00:58 -0400
-title: 'Photo Carousels on Mobile Websites\: Use With Caution!'
-summary: 'You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including\: carousel, slider, slideshow, banner, and gallery. Many government homepages have them. In a recent email exchange on the'
-authors: [beth-martin]
+title: 'Photo Carousels on Mobile Websites: Use With Caution!'
+summary: 'You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them. In a recent email exchange on the'
+authors:
+  - beth-martin
 categories:
   - Mobile
   - Monthly Theme
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - FAA
   - Federal Aviation Administration
@@ -18,8 +18,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" %}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" %}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
 
 In a recent email exchange on the [Web Content Managers listserv](https://www.WHATEVER/communities/web-managers-forum/web-content-managers-listserv/ "Web Content Managers Listserv"), the consensus was carousels met the internal, official need to share information. However, most agreed carousels were a necessary evil, but in general preference, were an annoyance.
 
@@ -28,14 +27,14 @@ If your agency chooses to use them—and there are good reasons not to use carou
 [FAA.gov](http://www.faa.gov/) uses a carousel that adjusts to screen size and has the auto-scroll turned off in order to allow the user to manually select an item; this complies with the enhanced WCAG 2.0 (accessibility) requirements. A few things to be aware of:
 
   * You’ll need to keep the content in those carousels current; otherwise your content will appear stale.
-  * Items in your carousel should be meaningful and useful to the intended audience, but know that there’s  a very, very small likelihood of users’ following the first item, let alone anything beyond that.
+  * Items in your carousel should be meaningful and useful to the intended audience, but know that there’s a very, very small likelihood of users’ following the first item, let alone anything beyond that.
   * You might offer themes for each slide in the carousel or put the most recent item first.
 
 Since the “hero images” are the first things they’ll see and the first image is key, frequent visitors to your site will assume you haven’t kept up with breaking news if the same image appears day after day, week after week.
 
 ## More Carousel Tips
 
-Limit the number of items in your carousel. Three is ideal and no more than five. Make sure you have evergreen content and enough activity to keep your editorial calendar hopping and your carousel filled. There’s  a level of effort that goes in to finding images that are meaningful, relevant, and appropriate to your audience. If you have a specialized audience, they’ll see that stock photo and wonder.
+Limit the number of items in your carousel. Three is ideal and no more than five. Make sure you have evergreen content and enough activity to keep your editorial calendar hopping and your carousel filled. There’s a level of effort that goes in to finding images that are meaningful, relevant, and appropriate to your audience. If you have a specialized audience, they’ll see that stock photo and wonder.
 
 _This post originally appeared in the Mobile Tester Newsletter which is sent bi-monthly to the volunteer testers in our [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. The program will be testing an app for the National Oceanic and Atmospheric Administration (NOAA) this month. Federal Employees can sign up to [test the NOAA CrowdMag App today](http://gsablogs.gsa.gov/dsic/2014/08/07/seeking-android-users-to-test-a-noaa-native-app-or-be-a-mobile-tester/)!
   

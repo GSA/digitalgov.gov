@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/29/the-api-briefing-top-five-findings-for-api-developers-from-pew-research-center/
 date: 2015-04-29 10:00:19 -0400
-title: 'The API Briefing\: Top Five Findings for API Developers from Pew Research Center'
+title: 'The API Briefing: Top Five Findings for API Developers from Pew Research Center'
 summary: 'The Pew Research Center just released a report on how Americans view open government data. The following findings were based on a November to December 2014 survey of 3,212 adults. Two-thirds of Americans use the Internet or an app to connect with the government. According to Pew, 37% use the Internet to connect with the'
-authors: [bbrantley]
+authors:
+  - bbrantley
 categories:
   - API
   - Data
@@ -18,8 +18,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." %} 
 
 The Pew Research Center just released a <a href="http://www.pewinternet.org/2015/04/21/open-government-data/" target="_blank">report on how Americans view open government data</a>. The following findings were based on a November to December 2014 survey of 3,212 adults.
 
@@ -31,7 +30,7 @@ The Pew Research Center just released a <a href="http://www.pewinternet.org/2015
     Twenty-seven percent of users searched for information about recreation while close behind with 18% is users who renewed their driver&#8217;s licenses or auto registrations. The third most popular reason (13%) is to learn more about and/or apply for government benefits.
   3. **Most Americans do not realize that they are using government data when they use apps.**
   
-    A large majority of users consistently refer to apps that provide weather information or directional information. These apps rely on data provided by the National Weather Service or the federal government’s  Geographical Positioning System (GPS). Often the government data is mixed with proprietary information or services that obscure the origins of the essential [data provided by the government](http://www.data.gov/).
+    A large majority of users consistently refer to apps that provide weather information or directional information. These apps rely on data provided by the National Weather Service or the federal government’s Geographical Positioning System (GPS). Often the government data is mixed with proprietary information or services that obscure the origins of the essential [data provided by the government](http://www.data.gov/).
   4. **Few Americans think that the government shares data effectively.**
   
     Only 5% of respondents agreed that the federal government and state governments are very effective in sharing data. Local government does slightly better with 7% agreeing that local government data sharing is very effective. Over half of the respondents state that the federal government does an ineffective job in sharing data. In contrast, just under half of respondents agree that state and local governments are also ineffective in sharing data.

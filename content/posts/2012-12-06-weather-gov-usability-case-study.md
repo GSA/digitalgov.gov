@@ -1,12 +1,12 @@
 ---
-
-
+url: /2012/12/06/weather-gov-usability-case-study/
 date: 2012-12-06 4:43:22 -0400
-title: 'Weather.gov &amp;#8211; Usability Case Study'
-summary: 'After conducting a usability test and listening to customer feedback, the Weather.gov team and the DigitalGov User Experience Program&nbsp;identified these three issues as both important and quickly solvable. Problem 1\: Terminology and Labels Confusing The terminology and labels used were either too technical or too abstract for users to understand&mdash;a far cry from the plain'
-authors: [jonathan-rubin]
+title: 'Weather.gov &#8211; Usability Case Study'
+summary: 'After conducting a usability test and listening to customer feedback, the Weather.gov team and the DigitalGov User Experience Program&nbsp;identified these three issues as both important and quickly solvable. Problem 1: Terminology and Labels Confusing The terminology and labels used were either too technical or too abstract for users to understand&mdash;a far cry from the plain'
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -28,8 +28,7 @@ The tabs on the top of the map were greatly simplified, using plain language to 
 
 ## Problem 2: Navigation and Branding Inconsistent
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-before\_0-237x250.jpg" alt="weather.gov-before\_0" %}
-In the example, we can see that a link to NOAA’s  main site is provided in the prominent upper left position, while the link for the Weather.gov site is relegated to the far right. A user looking to navigate back to the Weather.gov homepage would more likely click on the link on the left and end up stranded on the NOAA main homepage.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-before\_0-237x250.jpg" alt="weather.gov-before\_0" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-before_0.jpg)In the example, we can see that a link to NOAA’s main site is provided in the prominent upper left position, while the link for the Weather.gov site is relegated to the far right. A user looking to navigate back to the Weather.gov homepage would more likely click on the link on the left and end up stranded on the NOAA main homepage.
 
 ## Solution 2: Relocate Logos
 
@@ -41,7 +40,6 @@ There was simply too much text on the page. The casual user was confronted with 
 
 ## Solution 3: Move Less Important Information Down
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-after-156x250.jpg" alt="weather.gov-after" %}
-The text on the original page was reorganized and moved to the bottom, and graphics were added for particularly timely and relevant information. The amount of information for both technical users and the general public remains the same, but the user experience is greatly improved.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-after-156x250.jpg" alt="weather.gov-after" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/weather.gov-after.jpg)The text on the original page was reorganized and moved to the bottom, and graphics were added for particularly timely and relevant information. The amount of information for both technical users and the general public remains the same, but the user experience is greatly improved.
 
-As a result of First Fridays testing, the Weather.gov team created a much more streamlined site, while still providing sufficient information to both casual users and weather professionals. The screen capture below is from August 28, 2012. Addressing the usability of your agency’s  website is about more than just identifying aesthetic changes. It’s  about making sure that every visitor to your website gets the information they need in a quick and clear manner.
+As a result of First Fridays testing, the Weather.gov team created a much more streamlined site, while still providing sufficient information to both casual users and weather professionals. The screen capture below is from August 28, 2012. Addressing the usability of your agency’s website is about more than just identifying aesthetic changes. It’s about making sure that every visitor to your website gets the information they need in a quick and clear manner.

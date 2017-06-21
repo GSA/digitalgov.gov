@@ -1,21 +1,20 @@
 ---
-
-
+url: /2013/12/12/9-reasons-your-agency-should-have-a-cms/
 date: 2013-12-12 3:02:56 -0400
-title: '9 Reasons Your Agency Should Have A CMS'
+title: 9 Reasons Your Agency Should Have A CMS
 summary: 'Why Invest in a Content Management System? Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)?&nbsp;Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you re-creating'
-authors: [rflagg]
+authors:
+  - rflagg
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - CMS
   - Content Management System
 ---
 
-**{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine-250x250.png" alt="Highway 9 sign" %}
-Why Invest in a Content Management System?**
+**[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine-250x250.png" alt="Highway 9 sign" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine.png)Why Invest in a Content Management System?**
 
 Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you re-creating the same content for different platforms such as Web or mobile?
 
@@ -23,7 +22,7 @@ A content management system (CMS) can address these issues and significantly imp
 
 **1. Increased Traffic and Customer Satisfaction**
 
-A CMS can help your agency produce more consistent, better content. High-quality content that’s  updated frequently can draw more people to your website and increase engagement and customer satisfaction.
+A CMS can help your agency produce more consistent, better content. High-quality content that’s updated frequently can draw more people to your website and increase engagement and customer satisfaction.
 
 **2. Faster Delivery of Content**
 
@@ -51,7 +50,7 @@ A CMS can automate many content management tasks, such as publishing press relea
 
 **8. Improved Site Integrity and Policy Compliance**
 
-Improve your agency’s  compliance with privacy, security, accessibility, and record-keeping laws with CMS features such as centralized content storage, versioning control, and management controls over content publication. With a CMS, all content is stored in a database with date and time stamps of updates and a history of who made changes.
+Improve your agency’s compliance with privacy, security, accessibility, and record-keeping laws with CMS features such as centralized content storage, versioning control, and management controls over content publication. With a CMS, all content is stored in a database with date and time stamps of updates and a history of who made changes.
 
 **9. Increased Competitive Advantage**
 

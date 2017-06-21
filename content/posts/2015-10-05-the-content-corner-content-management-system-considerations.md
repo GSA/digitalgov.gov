@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/05/the-content-corner-content-management-system-considerations/
 date: 2015-10-05 11:24:31 -0400
-title: 'The Content Corner\: Content Management System Considerations'
+title: 'The Content Corner: Content Management System Considerations'
 summary: 'These days you couldn&rsquo;t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&amp;#8217;s true that for the public sector the popular open source options are extremely attractive from a cost standpoint, if nothing else,'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - Content
 tag:
@@ -14,8 +14,7 @@ tag:
   - The Content Corner
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." %} 
 
 These days you couldn’t be faulted for thinking your content management system (CMS) choices are limited to two open source systems and maybe an enterprise-level offering that no one uses anymore. And while it&#8217;s true that for the public sector the [popular open source options](https://www.WHATEVER/resources/content-management-systems-used-by-government-agencies/) are extremely attractive from a cost standpoint, if nothing else, the CMS marketplace is as full of options as it ever has been. So whether you are shopping around for a new system or looking to revamp your current one, there are [a variety of items that need to be considered](https://www.WHATEVER/2013/10/30/content-management-systems-toolkit/) as you examine your CMS options.
 
@@ -43,7 +42,7 @@ After the extensive content review that you should have completed as preparation
 
 Another area of CMS implementation many struggle with is determining users’ rights and permissions. My personal preference is to start with tight controls and then loosen the reins as the user requests it or as levels of trust and competence are proven. Yes, I know how that makes me sound, but if you’re working on a live, public sector site, you tend to be careful. However, Rory Douglas, <a href="http://alistapart.com/article/managing-your-content-management-system" target="_blank">author of the recent article that inspired this post</a>, recommends you “err on the side of giving them (the user) slightly too much” freedom. Some of this depends on the level of familiarity you as an administrator may have with your contributors and their level of familiarity with your system, [style guide](https://www.WHATEVER/2015/06/08/the-content-corner-creating-a-content-style-guide/), workflow, etc.
 
-Whether it’s  a permission or another setting, you will also need to determine certain limits users will have. Many times this is handled via a specific user type such as:
+Whether it’s a permission or another setting, you will also need to determine certain limits users will have. Many times this is handled via a specific user type such as:
 
   * Author,
   * Editor,
@@ -52,8 +51,7 @@ Whether it’s  a permission or another setting, you will also need to determine
 
 Within these user groups you need to determine whether or not the user will be able to create actual HTML or will be limited to plain text. Will they be able to upload files and what file type? Will there be a file size restriction? Again, some of this is really determined by your users and your content contribution structure and workflow. Are you on a small team or do you have a far-flung set of remote contributors? Are you all [part of public affairs or from all walks of life](https://www.WHATEVER/2015/09/21/the-content-corner-harness-the-power-of-user-generated-content/) with varying levels of competence with content creation? Again, my tendency is towards the least amount of options possible for a user to do their job—it&#8217;s less risk for everyone that way. If plain or formatted text works as opposed to HTML or a WYSIWYG, then that&#8217;s where I would start. And don&#8217;t think that the WYSIWYG is a silver bullet or cure-all; however, with some customization it can make everyone&#8217;s content contribution tasks a little less painful (most of the time).
 
-## WYSI Not Always WYG 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-250-Vector-code-editor-Icon-Dacian_G-iStock-Thinkstock-528678591.jpg" alt="Split screen code editor icon" %} 
+## WYSI Not Always WYG {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-250-Vector-code-editor-Icon-Dacian_G-iStock-Thinkstock-528678591.jpg" alt="Split screen code editor icon" %} 
 
 In many ways, a <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_blank">WYSIWYG</a> (What You See Is What You Get) can be a blessing and a curse. They allow for quick and easy content additions or edits. Even for simple tasks, I like to have one available. But without a proper pruning of features, they can allow a user far too much control and your site will suddenly start [partying like it&#8217;s 1999](http://archive.org/web/) with red text and animated gifs (the uncool kind). The most critical aspect on WYSIWYG control is to eliminate any formatting options that would allow a contributor to violate style or <a href="https://www.WHATEVER/2015/09/28/introducing-the-u-s-web-design-standards/" target="_blank">CSS standards for the site</a>, especially things like:
 

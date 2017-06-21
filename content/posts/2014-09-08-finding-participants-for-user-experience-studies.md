@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/09/08/finding-participants-for-user-experience-studies/
 date: 2014-09-08 10:30:35 -0400
-title: 'Finding Participants for User Experience Studies'
+title: Finding Participants for User Experience Studies
 summary: 'How do you find participants for your usability studies? I spoke recently with the User Experience Community of Practice about how we recruit participants for usability and cognitive studies at the U.S. Bureau of Labor Statistics (BLS). Hopefully I can give you some new ideas about recruiting volunteers to fuel&nbsp;your user research. At BLS, we'
-authors: [jean-fox]
+authors:
+  - jean-fox
 categories:
   - Communities
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - AoI
   - BLS
@@ -18,8 +18,7 @@ tag:
   - user experience
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." %} 
 
 How do you find participants for your usability studies?
 
@@ -27,7 +26,7 @@ I spoke recently with the [User Experience Community of Practice](https://www.WH
 
 At BLS, we need different types of participants for different studies. Very often, we are looking for members of the general public. To find these participants, we have placed ads in newspapers and online ad services. Also, people who have enjoyed their experience with BLS studies have referred friends to us. Our list is now large enough that we can usually recruit participants from the list without further advertising.
 
-When we place ads, we find it is helpful to have a separate email account or phone number, so the recruiter’s  individual account doesn’t fill up with responses. Also, we screen participants carefully to be sure they meet our testing needs.
+When we place ads, we find it is helpful to have a separate email account or phone number, so the recruiter’s individual account doesn’t fill up with responses. Also, we screen participants carefully to be sure they meet our testing needs.
 
 Sometimes we are looking for more specific audiences, such as disabled respondents to help us evaluate survey questions on disability, or people switching careers who might use the information we have in our [Occupational Outlook Handbook](http://www.bls.gov/ooh/). In those cases, we might ask organizations that provide services for these groups to help us find participants.
 

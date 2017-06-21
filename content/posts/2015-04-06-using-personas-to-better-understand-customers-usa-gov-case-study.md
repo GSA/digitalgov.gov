@@ -1,12 +1,12 @@
 ---
-
-
+url: /2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/
 date: 2015-04-06 11:49:07 -0400
-title: 'Using Personas to Better Understand Customers\: USA.gov Case Study'
-summary: 'Personas are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact'
-authors: [michelle-chronister]
+title: 'Using Personas to Better Understand Customers: USA.gov Case Study'
+summary: 'Personas are fictional characters that describe an organization&rsquo;s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization&rsquo;s actions meet the needs of the majority of customers, including visitors to your website, contact'
+authors:
+  - michelle-chronister
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - analytics
@@ -20,7 +20,7 @@ tag:
   - UX
 ---
 
-[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are fictional characters that describe an organization’s  customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s  actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
+[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are fictional characters that describe an organization’s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization’s actions meet the needs of the majority of customers, including visitors to your website, contact center, in-person visits, and interactive voice response (IVR) self service customers.
 
 ## Why We Updated our Personas
 
@@ -47,8 +47,7 @@ Our customers are diverse and come to USA.gov with a range of goals and to find 
 
 These categories aren’t perfect &#8211; there is overlap between the customer types. A customer may fall into multiple types, but we still think these personas are useful for thinking about how our customers look for information.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-339-USAgov-Personas-slide-2-Complete-a-Transaction.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-339-USAgov-Personas-slide-2-Complete-a-Transaction.jpg" alt="Slide 2, "Complete a transaction (or find information to prepare to complete a transaction)"" %}
 
 ### Complete a transaction (or find information to prepare to complete a transaction)
 
@@ -56,15 +55,13 @@ Many customers come to us to **complete a transaction**, such as renewing a pass
 
 Many government transactions involve downloading forms or finding copies of a vital document, such as a birth certificate. Due to the preparation involved in completing some transactions, we know customers come to us for help with this step.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-332-USAgov-Personas-slide-3-Find-Specific-Info.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-332-USAgov-Personas-slide-3-Find-Specific-Info.jpg" alt="Slide 3, "Find specific information on a known topic"" %}
 
 ### Find specific information on a known topic
 
 These customers **know what they want but need help finding it**. They might want to know how to get a free copy of their credit report or how to apply for Social Security benefits. We occasionally get inquiries that are very specific, such as the number of people on welfare in Kansas in 2011.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, "Browse information or learn more on a general topic"" %}
 
 ### Browse information or learn more on a general topic
 
@@ -72,16 +69,15 @@ We know from survey comments that many customers want to **browse information** 
 
 More frequently, they may have an idea in mind about what information they want, but they do not know exactly what that information is. A popular example is financial assistance available from the government. Many customers want to know what assistance is available to them, but can’t articulate if they want a grant, loan, etc.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-5-Find-contact-info.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-5-Find-contact-info.jpg" alt="Slide 5, "Find contact information for an agency or elected official"" %}
 
 ### Find contact information for an agency or elected official
 
-This also falls under finding specific information on a known topic, but the [A-Z directory of federal agencies](http://www.usa.gov/directory/federal/index.shtml) is so popular, it’s  worth making a separate category. Customers are looking for **contact information**, especially hard to find information, such as the phone number for the IRS.
+This also falls under finding specific information on a known topic, but the [A-Z directory of federal agencies](http://www.usa.gov/directory/federal/index.shtml) is so popular, it’s worth making a separate category. Customers are looking for **contact information**, especially hard to find information, such as the phone number for the IRS.
 
 ## Steps in Developing USA.gov Personas
 
-We drafted our personas in about two weeks and kept our process simple. We involved key stakeholders, such as managers, from the beginning. We also used data from multiple sources to inform our personas. To create personas for each type of customer, we picked some of the most common tasks people come to us to accomplish. We even had a little fun with data. After choosing an age in the most popular age range, we used the [Social Security Administration’s  baby name data](http://www.ssa.gov/oact/babynames/) to pick the most popular name for that year.
+We drafted our personas in about two weeks and kept our process simple. We involved key stakeholders, such as managers, from the beginning. We also used data from multiple sources to inform our personas. To create personas for each type of customer, we picked some of the most common tasks people come to us to accomplish. We even had a little fun with data. After choosing an age in the most popular age range, we used the [Social Security Administration’s baby name data](http://www.ssa.gov/oact/babynames/) to pick the most popular name for that year.
 
 While the personas are composite representations, the quotes associated with them are from real customers. Because of time and resource constraints, we used customer satisfaction survey comments as the main source of qualitative data.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/10/19/feds-shed-light-on-dark-social/
 date: 2012-10-19 2:05:46 -0400
-title: 'Feds Shed Light on Dark Social'
+title: Feds Shed Light on Dark Social
 summary: '&amp;#8220;Dark Social&amp;#8221;&nbsp;media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard &nbsp;metrics fear to tread (or simply cannot) &amp;#8212; places like email and instant messaging.'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Communities
   - Metrics
@@ -15,8 +15,7 @@ tag:
   - SocialGov Community
 ---
 
-**{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." %}
-&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.
+**[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg)&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.
 
 **Alexis Madrigal**, senior editor of _The Atlantic_, [proposed last week in a post](http://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/#):
 
@@ -25,7 +24,7 @@ tag:
 <div>
 </div>
 
-**It’s  true.** Too often it&#8217;s the harder-to-find and more nuanced metrics that best tell the story of your program.
+**It’s true.** Too often it&#8217;s the harder-to-find and more nuanced metrics that best tell the story of your program.
 
 Our office maintains a number of email listservs, internal ideation platforms, and yes, traditional social media channels. Much of this content was lumped in one broad and undefined metric:  direct traffic.
 
@@ -59,7 +58,7 @@ Then start the process again to gauge its effectiveness and evolve with your cus
 
 Also, as <a href="http://gigaom.com/2012/10/12/dark-social-why-measuring-user-engagement-is-even-harder-than-you-think/" target="_blank">Mathew Ingram highlights in a follow-up post</a>:
 
-> “The only real way to optimize for social spread is in the nature of the content itself. There’s  no way to game email or people’s  instant messages. There’s  no power users you can contact. There’s  no algorithms to understand.”
+> “The only real way to optimize for social spread is in the nature of the content itself. There’s no way to game email or people’s instant messages. There’s no power users you can contact. There’s no algorithms to understand.”
 
 Understanding nuances, like what drives direct traffic, is a challenge we&#8217;ve long noticed in our ongoing efforts to improve our web performance metrics.
 

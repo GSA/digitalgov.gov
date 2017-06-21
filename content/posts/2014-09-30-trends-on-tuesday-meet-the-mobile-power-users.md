@@ -1,9 +1,10 @@
 ---
-
+url: /2014/09/30/trends-on-tuesday-meet-the-mobile-power-users/
 date: 2014-09-30 11:21:09 -0400
-title: 'Trends on Tuesday\: Meet the Mobile Power Users'
+title: 'Trends on Tuesday: Meet the Mobile Power Users'
 summary: "U.S. Hispanics are ahead of the digital curve, according to an analysis of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As we've noted before, Hispanics not only lead in adoption of new devices, they are also power users of mobile."
-authors: [tjohnson]
+authors:
+  - tjohnson
 categories:
   - Managing Digital
   - Mobile
@@ -15,12 +16,11 @@ tag:
   - Trends on Tuesday
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" %} 
 
 U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/), Hispanics not only lead in adoption of new devices, they are also power users of mobile.
 
-The report highlights a few categories supporting Gevelber’s  observations:
+The report highlights a few categories supporting Gevelber’s observations:
 
   * The average Hispanic spends more than eight hours watching online video each month, over 90 minutes longer than the U.S. average.
   * YouTube views of top U.S. Hispanic channels are up 1.25% year over year.

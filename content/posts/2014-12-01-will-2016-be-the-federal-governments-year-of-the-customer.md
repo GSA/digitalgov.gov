@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/12/01/will-2016-be-the-federal-governments-year-of-the-customer/
 date: 2014-12-01 10:00:05 -0400
-title: 'Will 2016 Be the Federal Government’s &lsquo;Year of the Customer?&rsquo;'
-summary: 'As 2014 draws to a close, agencies across the federal government are beginning to think about what the customer experience (CX) landscape will look like in the years ahead. There is little doubt that 2014 saw the government make great strides on this front, setting in motion a number of initiatives that will help ensure'
-authors: [stephanie-thum]
+title: Will 2016 Be the Federal Government’s ‘Year of the Customer?’
+summary: As 2014 draws to a close, agencies across the federal government are beginning to think about what the customer experience (CX) landscape will look like in the years ahead. There is little doubt that 2014 saw the government make great strides on this front, setting in motion a number of initiatives that will help ensure
+authors:
+  - stephanie-thum
 categories:
   - Managing Digital
 tag:
@@ -15,8 +15,7 @@ tag:
   - VA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" %} 
 
 As 2014 draws to a close, agencies across the federal government are beginning to think about what the customer experience (CX) landscape will look like in the years ahead. There is little doubt that 2014 saw the government make great strides on this front, setting in motion a number of initiatives that will help ensure that CX will soon take root as a central management discipline across the Executive Branch. If this was the year of planting seeds—and if 2015 will be the year of germination and nurturing—then we can look to 2016 as the year in which agencies’ CX efforts may begin to truly bear fruit. Here are five reasons why that may be the case.
 

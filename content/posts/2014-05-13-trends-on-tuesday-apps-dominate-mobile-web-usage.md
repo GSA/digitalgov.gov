@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/13/trends-on-tuesday-apps-dominate-mobile-web-usage/
 date: 2014-05-13 1:13:22 -0400
-title: 'Trends on Tuesday\: Apps Dominate Mobile Web Usage'
-summary: '&ldquo;There’s an app for that.&rdquo; New data from app analytics provider Flurry on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes'
-authors: [tjohnson]
+title: 'Trends on Tuesday: Apps Dominate Mobile Web Usage'
+summary: '&ldquo;There&rsquo;s an app for that.&rdquo; New data from app analytics provider Flurry on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes'
+authors:
+  - tjohnson
 categories:
   - Mobile
 tag:
@@ -16,10 +16,9 @@ tag:
   - Twitter
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-177-touch-pad-with-icons-shutter_m-iStock-Thinkstock-179747897.jpg" alt="touch pad with icons" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-177-touch-pad-with-icons-shutter_m-iStock-Thinkstock-179747897.jpg" alt="touch pad with icons" %} 
-
-“There’s  an app for that.” New data from [app analytics provider Flurry](http://techcrunch.com/2014/04/01/mobile-app-usage-increases-in-2014-as-mobile-web-surfing-declines/?ncid=rss&utm_content=buffer076ba&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes of that time. In other words, app usage accounts for nearly 86 percent of time spent on a mobile device.
+“There’s an app for that.” New data from [app analytics provider Flurry](http://techcrunch.com/2014/04/01/mobile-app-usage-increases-in-2014-as-mobile-web-surfing-declines/?ncid=rss&utm_content=buffer076ba&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) on mobile app usage reveals that smartphone users are taking this trademarked slogan to heart. Of the 2 hours and 42 minutes per day that a typical user is on a mobile device, mobile app usage accounts for 2 hours and 19 minutes of that time. In other words, app usage accounts for nearly 86 percent of time spent on a mobile device.
 
 **App Stat Highlights:**
 

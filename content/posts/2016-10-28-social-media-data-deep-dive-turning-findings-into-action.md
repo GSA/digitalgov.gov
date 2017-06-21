@@ -1,13 +1,13 @@
 ---
-
-
+url: /2016/10/28/social-media-data-deep-dive-turning-findings-into-action/
 date: 2016-10-28 11:00:55 -0400
-title: 'Social Media Data Deep Dive\: Turning Findings into Action'
+title: 'Social Media Data Deep Dive: Turning Findings into Action'
 summary: 'GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission&mdash;to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on'
-authors: [victoria-wales]
+authors:
+  - victoria-wales
 categories:
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - content
@@ -23,8 +23,7 @@ tag:
 
 GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission—to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on is social media, and we routinely measure how our efforts are going.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-442-Gobierno-SM-data.jpg" alt="Screen capture of the GobiernoUSA Facebook page." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-442-Gobierno-SM-data.jpg" alt="Screen capture of the GobiernoUSA Facebook page." %}
 
 We focused first on our assumed engagement power hitter &#8211; Facebook, to learn more from its Insights analytics data. By last May, we had reached 26,138 likers and we have steadily grown since February of this year. We&#8217;ve done this by:
 

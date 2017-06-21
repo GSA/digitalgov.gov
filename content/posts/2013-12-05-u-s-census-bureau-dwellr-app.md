@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/12/05/u-s-census-bureau-dwellr-app/
 date: 2013-12-05 12:51:29 -0400
-title: 'U.S. Census Bureau Dwellr App'
+title: U.S. Census Bureau Dwellr App
 summary: 'The pursuit of happiness for many of us might mean a fresh new start and a new place to call home. But where? In such a large and diverse country as ours, the choices can seem endless &mdash; and overwhelming. Now, your data friendly U.S. Census Bureau has harnessed the power of'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Code
   - Mobile
@@ -17,8 +17,7 @@ tag:
   - United States Census Bureau
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" %}
-The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS_DwellApp_graphic-576x1024.jpg)The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
 
 **But where?**
 
@@ -32,7 +31,7 @@ Think of dwellr as the Match.com for people wishing to relocate.
 
 After logging your answers to a series of quick questions based on your location preferences — _e.g., East Coast or Midwest? Rural or mid-size city? Commute on foot or by rail?_ — the app will match you to a Top 25 list of towns and cities you might really like, along with lots of location-based stats on which to base your decision, such as home values, local schools, and more. You can also see how your current neighborhood stacks up to your dream location.
 
-(Another plus: If you’re a developer or tech-savvy tinkerer, you can even swipe dwellr’s  cool stats and use them in other apps by accessing [Census’s  API](http://www.census.gov/developers/).)
+(Another plus: If you’re a developer or tech-savvy tinkerer, you can even swipe dwellr’s cool stats and use them in other apps by accessing [Census’s API](http://www.census.gov/developers/).)
 
 Whether on [Android or iPhone](http://www.census.gov/mobile/?intcmp=sldr1), **dwellr** is an easy, fun and customizable way to find a place to not merely live, but to thrive. Get going and give it a try. Who knows where you’ll end up?
 

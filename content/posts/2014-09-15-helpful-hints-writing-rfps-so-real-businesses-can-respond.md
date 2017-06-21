@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/09/15/helpful-hints-writing-rfps-so-real-businesses-can-respond/
 date: 2014-09-15 10:00:25 -0400
-title: 'Helpful Hints\: Writing RFPs So Real Businesses Can Respond'
-summary: 'If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&amp;#8217;ve gathered this list from the expert businesses that provide competition services. Haven&amp;#8217;t heard about that? See GSA Schedule 541-4G. Background\: Over the last two years, competition providers and consultants have become more'
-authors: [tmarcoullier]
+title: 'Helpful Hints: Writing RFPs So Real Businesses Can Respond'
+summary: 'If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&amp;#8217;ve gathered this list from the expert businesses that provide competition services. Haven&amp;#8217;t heard about that? See GSA Schedule 541-4G. Background: Over the last two years, competition providers and consultants have become more'
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
@@ -15,8 +15,7 @@ tag:
   - NASA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" %} 
 
 If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See [GSA Schedule 541-4G](http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES).
 
@@ -60,7 +59,7 @@ Learn about potential vendors and craft your scope of work to fit with the servi
 
 You may want to divide a challenges series into smaller scope procurements, cut some tasks from your SOW, or make some tasks optional to get qualified vendors to respond. As mentioned above, most companies that provide a challenge platform and access to a solver community specialize in certain challenge types (e.g. software, ideation, design, video, science & engineering, etc.). These vendors may not be able to support a series of challenges with different solution types. In addition, small businesses may focus on a limited set of services and may not have the resources to perform your ideal scope.
 
-An RFI can help with your market research but may not be necessary. Research the companies on GSA Schedule 541-4G and find out which companies worked on challenges similar to yours and what services they provided. You can also tap into the [Challenge & Prize community of practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") (600+ members in federal government), [contact the Challenge.gov team](mailto:challenge@gsa.gov) or the team at [NASA’s  Center for Excellence in Collaborative Innovation](http://www.nasa.gov/offices/COECI/#.VBCXKfldXAQ), for more information on potential vendors.
+An RFI can help with your market research but may not be necessary. Research the companies on GSA Schedule 541-4G and find out which companies worked on challenges similar to yours and what services they provided. You can also tap into the [Challenge & Prize community of practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") (600+ members in federal government), [contact the Challenge.gov team](mailto:challenge@gsa.gov) or the team at [NASA’s Center for Excellence in Collaborative Innovation](http://www.nasa.gov/offices/COECI/#.VBCXKfldXAQ), for more information on potential vendors.
 
 ### Marketing Strategy
 
@@ -83,7 +82,7 @@ Consider facilitating teaming or subcontracting, especially if your scope includ
 
 Challenges are about crowdsourcing innovation and creativity, often from people or organizations you wouldn&#8217;t expect or don’t know about. Consider applying similar principles to your procurement of challenge services. The organization best qualified to help you design a compelling challenge and connect with the right crowd may not be one you&#8217;ve heard of yet, or may be a small business. Select a procurement process that encourages diverse respondents.
 
-Finally, when you are writing your RFP, take a step outside your usual way of doing business and ask yourself, can an innovative small business that’s  not focused on government contracting understand your procurement requirements, team with a partner, and develop a proposal by your deadline?
+Finally, when you are writing your RFP, take a step outside your usual way of doing business and ask yourself, can an innovative small business that’s not focused on government contracting understand your procurement requirements, team with a partner, and develop a proposal by your deadline?
 
 _The fine print:_ 
 

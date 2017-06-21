@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/11/28/keeping-vanity-urls-in-check-a-few-criteria/
 date: 2014-11-28 10:00:53 -0400
-title: 'Keeping Vanity URLs in Check\: A Few Criteria'
+title: 'Keeping Vanity URLs in Check: A Few Criteria'
 summary: '  Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers listserv, several'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Content
 tag:
@@ -16,11 +16,9 @@ tag:
   - Web Content Managers Forum
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" %}
-
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-Vanity-URL.jpg" alt="600-x-57-DG-Google-Plus-Vanity-URL" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-Vanity-URL.jpg" alt="600-x-57-DG-Google-Plus-Vanity-URL" %}
 
 Shortcuts, Vanity or Marketing [URLs](http://en.wikipedia.org/wiki/Uniform_resource_locator), are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links.
 
@@ -28,8 +26,7 @@ On a recent discussion thread on the [Web Managers listserv](https://www.WHATEVE
 
 ## NIAID Criteria
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615.jpg" alt="250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615" %}At the National Institute of Allergy and Infectious Diseases (NIAID), the New Media and Web Policy Branch developed the following guidance for Internet and Intranet URLs:
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615.jpg" alt="250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615" %}At the National Institute of Allergy and Infectious Diseases (NIAID), the New Media and Web Policy Branch developed the following guidance for Internet and Intranet URLs:
 
 ### Internet
 
@@ -51,11 +48,11 @@ Changes of URL for sites on Inside NIAID are determined on a case-by-case basis,
   * Affects all of NIAID, regardless of specific job responsibilities
   * Intended for use as a part of a substantial print campaign
 
-Alice Litsinger, Supervisory Digital Information Specialist at NIAID, acknowledges that it’s  hard to define good criteria and long-term management around this topic.
+Alice Litsinger, Supervisory Digital Information Specialist at NIAID, acknowledges that it’s hard to define good criteria and long-term management around this topic.
 
 ## GSA&#8217;s Shortcut Guidance
 
-In GSA’s  Enterprise Web Management Office they refer to these requests as shortcuts, as they consider vanity URLs at the “top level” domain, according to Mark Kaprow. Their guidance around shortcut approvals are:
+In GSA’s Enterprise Web Management Office they refer to these requests as shortcuts, as they consider vanity URLs at the “top level” domain, according to Mark Kaprow. Their guidance around shortcut approvals are:
 
   * Shortcuts should be created in lowercase letters and generally contain less than three continuous words.
   * Shortcuts may not include special characters or underscores, unless those that contain upper letters or special characters are legacy exception shortcuts

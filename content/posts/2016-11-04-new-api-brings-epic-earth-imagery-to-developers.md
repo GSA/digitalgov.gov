@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/11/04/new-api-brings-epic-earth-imagery-to-developers/
 date: 2016-11-04 1:00:11 -0400
-title: 'New API Brings EPIC Earth Imagery to Developers'
-summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the NASA API Portal. The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA’s DSCOVR satellite, which orbits at Earth’s Lagrange point, the sweet spot in space where the gravitational tug of the Earth and'
-authors: [veronica-phillips]
+title: New API Brings EPIC Earth Imagery to Developers
+summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the NASA API Portal. The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA&rsquo;s DSCOVR satellite, which orbits at Earth&rsquo;s Lagrange point, the sweet spot in space where the gravitational tug of the Earth and'
+authors:
+  - veronica-phillips
 categories:
   - API
   - Code
@@ -22,10 +22,9 @@ tag:
   - open data
 ---
 
-Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the <a href="https://api.nasa.gov/api.html#EPIC" target="_blank">NASA API Portal</a>. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-NASA_Daily-imagery-data-taken-by-the-Earth-Polychromatic-Imaging-Camera-is-now-accessible-via-a-RESTful-API-available-from-the-NASA-API-Portal.jpg" alt="A photo from Earth Polychromatic Imaging Camera (EPIC)." %} 
+Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the <a href="https://api.nasa.gov/api.html#EPIC" target="_blank">NASA API Portal</a>. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-NASA_Daily-imagery-data-taken-by-the-Earth-Polychromatic-Imaging-Camera-is-now-accessible-via-a-RESTful-API-available-from-the-NASA-API-Portal.jpg" alt="A photo from Earth Polychromatic Imaging Camera (EPIC)." %} 
 
-The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA’s  DSCOVR satellite, which orbits at Earth’s  Lagrange point, the sweet spot in space where the gravitational tug of the Earth and the Sun is equal. This allows DSCOVR to maintain a stable position between the Earth and Sun and thus a continuous view of the sunlit side of Earth. Such a unique vantage point allows DSCOVR to measure many of Earth’s  characteristics, including ozone levels, aerosol amounts, cloud height and phase, vegetation properties, hotspot land properties and UV radiation estimates at Earth&#8217;s surface. EPIC takes global spectral images of Earth and captures exceptional perspectives of certain astronomical events—like the Moon passing between it and Earth.
+The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA’s DSCOVR satellite, which orbits at Earth’s Lagrange point, the sweet spot in space where the gravitational tug of the Earth and the Sun is equal. This allows DSCOVR to maintain a stable position between the Earth and Sun and thus a continuous view of the sunlit side of Earth. Such a unique vantage point allows DSCOVR to measure many of Earth’s characteristics, including ozone levels, aerosol amounts, cloud height and phase, vegetation properties, hotspot land properties and UV radiation estimates at Earth&#8217;s surface. EPIC takes global spectral images of Earth and captures exceptional perspectives of certain astronomical events—like the Moon passing between it and Earth.
 
 [youtube=http://www.youtube.com/watch?v=_7pZAuHwz0E&w=600]
   

@@ -1,10 +1,14 @@
 ---
-
-
+url: /2014/09/08/a-new-look-at-the-freedom-of-information-act/
 date: 2014-09-08 10:00:46 -0400
-title: 'A New Look at the Freedom of Information Act'
-summary: 'There are many ways the public can get information from the federal government. For example, you can check out Data.gov to find scores of datasets and APIs, agency websites for information about their work, or other important information in online FOIA Libraries. Or you can also just ask for it. Since 1966, the Freedom of'
-authors: [eric-mill, raphael-majma, victor-diaz-zapanta, jackie-kazil, shashank-khandelwal]
+title: A New Look at the Freedom of Information Act
+summary: There are many ways the public can get information from the federal government. For example, you can check out Data.gov to find scores of datasets and APIs, agency websites for information about their work, or other important information in online FOIA Libraries. Or you can also just ask for it. Since 1966, the Freedom of
+authors:
+  - eric-mill
+  - raphael-majma
+  - victor-diaz-zapanta
+  - jackie-kazil
+  - shashank-khandelwal
 categories:
   - Code
 tag:
@@ -29,8 +33,7 @@ Since 1966, the [Freedom of Information Act](http://www.foia.gov/about.html), FO
 
 As demand for information continues to grow, it is important to continue iterating the ways we refine the FOIA request process. Our effort is one of a number of [commitments](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) towards creating a more open, transparent government. We will explore how to supplement the work that has already been done by creating tools to improve the online FOIA requests process by designing for the user.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/18f-blog-optimized-Freedom-of-Information-Act-FOIA-site-on-mobile-phone-tumblr\_inline\_nbchu3jVlB1salf0l.jpg" alt="An illustrative prototype running on a mobile device (the logo in the photo is not a live URL)" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/18f-blog-optimized-Freedom-of-Information-Act-FOIA-site-on-mobile-phone-tumblr\_inline\_nbchu3jVlB1salf0l.jpg" alt="An illustrative prototype running on a mobile device (the logo in the photo is not a live URL)" %}
 
 We are exploring building tools that:
 

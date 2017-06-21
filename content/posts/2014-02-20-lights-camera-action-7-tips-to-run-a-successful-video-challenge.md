@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/02/20/lights-camera-action-7-tips-to-run-a-successful-video-challenge/
 date: 2014-02-20 10:10:13 -0400
-title: 'Lights, Camera, Action! 7 Tips to Run a Successful Video Challenge'
+title: Lights, Camera, Action! 7 Tips to Run a Successful Video Challenge
 summary: 'Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&amp;#8217;t worry, we&amp;#8217;ve got you covered. Jason Crusan from NASA and Tammi Marcoullier from Challenge.gov&nbsp;joined a recent DigitalGov University webinar to&nbsp;share best practices and hurdles in running video competitions. We&amp;#8217;ve recapped their advice and key'
-authors: [ktrebon]
+authors:
+  - ktrebon
 categories:
   - Challenges
 tag:
@@ -17,8 +17,7 @@ tag:
   - social media
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" %} 
 
 Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&#8217;t worry, we&#8217;ve got you covered.
 

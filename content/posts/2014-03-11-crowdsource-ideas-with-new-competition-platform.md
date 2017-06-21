@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/03/11/crowdsource-ideas-with-new-competition-platform/
 date: 2014-03-11 12:26:37 -0400
-title: 'Crowdsource Ideas with New Competition Platform'
-summary: 'Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool. The Challenge.gov team unveiled and demonstrated the capabilities of GSA’s new crowdsourcing and prize competition platform, Challenge.sites.usa.gov&nbsp;on a DigitalGov University webinar.&nbsp;The platform is now available for any federal'
-authors: [tlowden]
+title: Crowdsource Ideas with New Competition Platform
+summary: 'Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool. The Challenge.gov team unveiled and demonstrated the capabilities of GSA&rsquo;s new crowdsourcing and prize competition platform, Challenge.sites.usa.gov&nbsp;on a DigitalGov University webinar.&nbsp;The platform is now available for any federal'
+authors:
+  - tlowden
 categories:
   - Challenges
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - ChallengeGov
   - crowdsourcing
@@ -19,8 +19,7 @@ tag:
   Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.
 </p>
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Challenges-NewTools-iPad\_250x312.jpg" alt="Challenges-NewTools-iPad\_250x312" %}The <a href="https://challenge.gov/" target="_blank">Challenge.gov</a> team unveiled and demonstrated the capabilities of GSA’s  new crowdsourcing and prize competition platform, <a href="http://challenge.sites.usa.gov/" target="_blank">Challenge.sites.usa.gov</a> on a DigitalGov University webinar. The platform is now available for any federal employee to log in and explore its functionality (just be careful not to publish anything not intended to be public).
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Challenges-NewTools-iPad\_250x312.jpg" alt="Challenges-NewTools-iPad\_250x312" %}The <a href="https://challenge.gov/" target="_blank">Challenge.gov</a> team unveiled and demonstrated the capabilities of GSA’s new crowdsourcing and prize competition platform, <a href="http://challenge.sites.usa.gov/" target="_blank">Challenge.sites.usa.gov</a> on a DigitalGov University webinar. The platform is now available for any federal employee to log in and explore its functionality (just be careful not to publish anything not intended to be public).
 
 More than twenty people have already registered to use it, one competition is live and a couple more will launch within the month. The tool is built to be a seamless experience for users who start on challenge.gov and then find themselves in this interactive component. Challenge.gov also lists competitions that are hosted on specialized platforms and on agency sites, in addition to the &#8220;sites&#8221; platform.
 
@@ -58,4 +57,4 @@ _(Click on the hyperlink to be taken directly to that discussion point in the we
 
 Challenge.sites.usa.gov was built with the shared <a href="https://sites.usa.gov/" target="_blank">sites.usa.gov</a> service, which aims to offer agencies a system to provide content without having to build a site from scratch.
 
-For more information, contact the team at <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a>. Happy crowdsourcing!
+For more information, contact the team at <challenge@gsa.gov>. Happy crowdsourcing!

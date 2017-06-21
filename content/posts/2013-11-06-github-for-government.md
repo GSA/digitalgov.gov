@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/11/06/github-for-government/
 date: 2013-11-06 7:46:20 -0400
-title: 'Best Practices for Open Source in Government (Using GitHub)'
+title: Best Practices for Open Source in Government (Using GitHub)
 summary: 'Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology. You&amp;#8217;re not alone! There&amp;#8217;s a growing community of government'
-authors: [nkunin]
+authors:
+  - nkunin
 categories:
   - Code
 tag:
@@ -13,8 +13,7 @@ tag:
   - open source
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/github-octocat-233x250.jpg" alt="Animation of a cat and an octopus." %}
-Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/github-octocat-233x250.jpg" alt="Animation of a cat and an octopus." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/github-octocat.jpg)Working on getting your agency to release an open source policy? Awesome! But if you want an effective open source program, you have to tightly integrate open source into how your agency procures, builds, and distributes technology.
 
 You&#8217;re not alone! There&#8217;s a [growing community](http://government.github.com/community) of [government technologists](https://github.com/government?tab=members) on [GitHub](https://github.com/) working on these issues &#8211; a place where you can quickly get the best advice. We&#8217;re contributing to this forum because we saw governments at all levels dealing with the same kinds of questions:
 
@@ -30,8 +29,7 @@ If you haven&#8217;t used GitHub before, it&#8217;s a platform for sharing code 
 
 Signing up is simple &#8211; just make sure you have a [verified government email](https://help.github.com/articles/setting-up-email-verification) on your [GitHub account](https://github.com/). You can have multiple email addresses per account.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Github-signup.jpg" alt="Screenshot of the Github sign up page." %}
-Once that&#8217;s done, point your favorite browser at <https://government-community.githubapp.com>. You should be automatically added to the organization and can head to <https://github.com/government> at any time to get started. If you&#8217;re having issues joining the community, email government@github.com.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Github-signup.jpg" alt="Screenshot of the Github sign up page." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Github-signup.jpg)Once that&#8217;s done, point your favorite browser at <https://government-community.githubapp.com>. You should be automatically added to the organization and can head to <https://github.com/government> at any time to get started. If you&#8217;re having issues joining the community, email government@github.com.
 
 We know it&#8217;s hard to stay on top of emerging open source standards. Especially when the best practices themselves are improving and changing so quickly! We&#8217;re here to help. GitHub for Government was setup by **Ben Balter**, a first-round Presidential Innovation Fellow. He&#8217;s written code for the CFPB, FCC, and the White House &#8211; he understands the promise and challenge of setting up an open source program.
 

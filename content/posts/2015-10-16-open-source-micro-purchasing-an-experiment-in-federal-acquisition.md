@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/16/open-source-micro-purchasing-an-experiment-in-federal-acquisition/
 date: 2015-10-16 1:36:47 -0400
-title: 'Open Source Micro-Purchasing\: An Experiment in Federal Acquisition'
-summary: '18F is an open-source team. We currently have hundreds of publicly available repositories, with dozens under active development. We&amp;#8217;ve had numerous contributions from colleagues within government, and contributions from members of the public. But in the next few weeks, we are going to run an experiment\: we want to contract for contributions. And we want'
-authors: [v-david-zvenyach]
+title: 'Open Source Micro-Purchasing: An Experiment in Federal Acquisition'
+summary: '18F is an open-source team. We currently have hundreds of publicly available repositories, with dozens under active development. We&amp;#8217;ve had numerous contributions from colleagues within government, and contributions from members of the public. But in the next few weeks, we are going to run an experiment: we want to contract for contributions. And we want'
+authors:
+  - v-david-zvenyach
 categories:
   - Code
   - Managing Digital
@@ -26,8 +26,7 @@ There are several reasons we’re trying this experiment. But perhaps the most i
 
 An animation of how the CALC tool works A demonstration of our CALC tool, which we will use for this micro-purchase experiment.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/calc_demo.gif)
 
 ## How will it work?
 
@@ -39,7 +38,7 @@ For the first iteration of this experiment, we’ve made a decision to limit eli
 
 ## This might be a terrible idea.
 
-It’s  true; this might be a terrible idea. But at 18F, we&#8217;re committed to experimentation, and we want to see what happens. Our hypothesis is that vendors can ship great code under the micro-purchase threshold, and we see opportunity to use procurement authority in new and productive ways. We&#8217;ll try it and see what happens. If it works, that would be fantastic. If it doesn’t, it&#8217;ll be an inexpensive experiment and we will have learned some new things.
+It’s true; this might be a terrible idea. But at 18F, we&#8217;re committed to experimentation, and we want to see what happens. Our hypothesis is that vendors can ship great code under the micro-purchase threshold, and we see opportunity to use procurement authority in new and productive ways. We&#8217;ll try it and see what happens. If it works, that would be fantastic. If it doesn’t, it&#8217;ll be an inexpensive experiment and we will have learned some new things.
 
 This only has a chance of working if great vendors participate. So, vendors, please watch out for the micro-purchase issue and get ready to ship.
 

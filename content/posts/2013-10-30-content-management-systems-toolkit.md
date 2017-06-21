@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/10/30/content-management-systems-toolkit/
 date: 2013-10-30 8:45:15 -0400
-title: 'Content Management Systems Toolkit'
-summary: 'Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
-authors: [rflagg]
+title: Content Management Systems Toolkit
+summary: 'Improving the federal government&rsquo;s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
+authors:
+  - rflagg
 categories:
   - API
   - Content
@@ -17,7 +17,7 @@ tag:
   - sitesusagov
 ---
 
-Improving the federal government’s  ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
+Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
 
 The key steps in getting ready to move to a CMS include:
 
@@ -33,7 +33,7 @@ A [content strategy](https://www.WHATEVER/?s=content+strategy) defines such thin
 
 When developing your content strategy, ask:
 
-  * Are you publishing content that is in your agency’s  lane, or have you strayed out of scope?
+  * Are you publishing content that is in your agency’s lane, or have you strayed out of scope?
   * Are you reaching customers via their preferred channel?
   * Are you posting content once and repurposing it, or publishing the same content several times, in different ways?
   * Is your most important content placing well in search results?
@@ -45,7 +45,7 @@ When developing your content strategy, ask:
 
 Complete a [content inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html) to identify and document everything on your site. At a minimum, include all your Web pages. You may also want to include all linked files and attachments such as PDFs, video files, documents, pictures, etc. The best way to track your inventory is with a spreadsheet, where you can list all your content. It will help you see all your content at a glance, and illustrate how the different sections of your site fit together. It can also help you map your current content to your new CMS.
 
-To get you started, we’ve developed a sample content inventory spreadsheet**<span style="color: #000000"> <a href="https://www.WHATEVER/files/2014/07/sample-content-inventory.xlsx">sample content inventory spreadsheet</a></span>** which you can use to document your content inventory. The spreadsheet has two tabs: one for active content, and one to track content that you’ve archived or unpublished. The spreadsheet is organized so that you can group related pages together, following your site’s  information architecture (IA). There are fields for the page name, URL, date, review schedule, content lead, and more. Tools you may find useful to develop your content inventory include:
+To get you started, we’ve developed a sample content inventory spreadsheet**<span style="color: #000000"> <a href="https://www.WHATEVER/files/2014/07/sample-content-inventory.xlsx">sample content inventory spreadsheet</a></span>** which you can use to document your content inventory. The spreadsheet has two tabs: one for active content, and one to track content that you’ve archived or unpublished. The spreadsheet is organized so that you can group related pages together, following your site’s information architecture (IA). There are fields for the page name, URL, date, review schedule, content lead, and more. Tools you may find useful to develop your content inventory include:
 
   * [Xenu&#8217;s Link Sleuth](http://home.snafu.de/tilman/xenulink.html)—this link check program grabs page URLs and page titles, two key pieces of information to start your inventory
   * [Similar Page Checker](http://www.webconfs.com/similar-page-checker.php)—this tool compares two URLs for duplicate content
@@ -59,16 +59,15 @@ Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated,
 
   * Look for pages with similar content, and review to see if you can combine them and delete one of the pages.
   * [Examine your metrics](https://www.WHATEVER/category/metrics/). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
-  * Review search terms and compare your IA to the topics and terms people search for on your site. If a topic or page has low search traffic, and low visits, review to see if it’s  a candidate for removal.
+  * Review search terms and compare your IA to the topics and terms people search for on your site. If a topic or page has low search traffic, and low visits, review to see if it’s a candidate for removal.
 
 ### Determine Content Structure
 
 Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy](https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/ "How to Create Open, Structured Content").
 
+{% img="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
-
-Once you determine the data structure for your content, you can configure your CMS so it’s  easy to create and tag content accordingly. As an example, as part of EPA’s  migration to a new CMS, they identified their content structure and can now tag each piece of content with metadata as it’s  created in the new CMS.
+Once you determine the data structure for your content, you can configure your CMS so it’s easy to create and tag content accordingly. As an example, as part of EPA’s migration to a new CMS, they identified their content structure and can now tag each piece of content with metadata as it’s created in the new CMS.
 
 See how [EPA uses Dublin Core metadata to structure content](https://www.WHATEVER/files/2014/07/metadata-in-drupal-epa.pdf) (PDF, 109 KB, 16 pages, November 2012).
 
@@ -126,7 +125,7 @@ A CMS provides many advantages over static HTML content:
 
 If you post a catalog of items as structured content, the same information can be adapted to render correctly on different screen sizes and devices, so people can view the same catalog on their phone, tablet, desk top, or other device, and it will display in a format best suited to each device.
 
-Two sites that have successfully implemented responsive design are [USA.gov](http://www.usa.gov/) and [AIDS.gov](http://aids.gov/). If you view each of these sites on your PC, you can see all the content available on the homepage, optimized for a large screen. View the same site on your mobile device, and you can see that top task content is presented prominently, in an easy-to-read format that’s  been optimized for smaller screens.
+Two sites that have successfully implemented responsive design are [USA.gov](http://www.usa.gov/) and [AIDS.gov](http://aids.gov/). If you view each of these sites on your PC, you can see all the content available on the homepage, optimized for a large screen. View the same site on your mobile device, and you can see that top task content is presented prominently, in an easy-to-read format that’s been optimized for smaller screens.
 
 ### Identify Resource Needs
 
@@ -135,7 +134,7 @@ Whether you choose an open-source or commercial product, it will require an inve
 ### Up-Front Development
 
   * Commercial products generally require a potentially significant up-front investment to purchase the software and user licenses. Licensing costs vary depending on the tool and implementation, so be careful to clarify these costs with the vendor. Read this article on [Why CMS Licensing is so Complicated](http://contenttype.wordpress.com/2009/11/03/why-is-cms-licensing-so-complicated/).
-  * Open-source systems usually don’t cost anything to license or install, other than your developer’s  time.
+  * Open-source systems usually don’t cost anything to license or install, other than your developer’s time.
   * Web teams and CIO staff should coordinate on any additional IT issues such as security scans, or whether or not you’ll need a [Certification and Accreditation (C&A)](http://en.wikipedia.org/wiki/Certification_and_Accreditation) review.
 
 ### Long-Term Support
@@ -199,7 +198,7 @@ Many agencies use a combination of commercial and open-source tools to meet diff
 
 ### Open-Source vs. Commercial
 
-Content management systems come in many flavors, from proprietary, commercial tools with all the bells and whistles, to home-grown systems developed in-house, to open-source tools with a community of dedicated developers working to continually improve the product. Because there are pros and cons with any of these tools, the system you choose should reflect your agency’s  goals and objectives.
+Content management systems come in many flavors, from proprietary, commercial tools with all the bells and whistles, to home-grown systems developed in-house, to open-source tools with a community of dedicated developers working to continually improve the product. Because there are pros and cons with any of these tools, the system you choose should reflect your agency’s goals and objectives.
 
   * Wikipedia lists many [types of open-source and commercial systems and frameworks](http://en.wikipedia.org/wiki/Comparison_of_content_management_systems)
   * A W3Techs report ranks [content management systems by popularity](http://w3techs.com/technologies/overview/content_management/all)
@@ -207,7 +206,7 @@ Content management systems come in many flavors, from proprietary, commercial to
   * CMS Review provides a [feature list and resources](http://www.cmsreview.com/index.html) to help select the right CMS
   * Real Story Group [evaluates CMS vendors, from complex to simpler solutions](http://www.realstorygroup.com/Research/Vendors/) (note, some free info, but mostly paid)
 
-Whether you choose an open-source or commercial content management system depends on many facings, including your agency’s  goals, and the level of internal developer resources available to install and support your CMS over the long term.
+Whether you choose an open-source or commercial content management system depends on many facings, including your agency’s goals, and the level of internal developer resources available to install and support your CMS over the long term.
 
 ### Open Source CMS in Government
 
@@ -215,7 +214,7 @@ Many federal agencies already use open-source content management systems, and if
 
 ### Include Both Technical and Content Needs
 
-As you work through your requirements list, a few systems will begin to stand out as possible candidates. Once you’ve narrowed down the top 3-6 CMS, it’s  time to take a test-drive. Involve both content and tech teams in the process. Identify user types and common tasks. Have content contributors give the tool a test-drive, and try completing basic content management tasks, to see how easy it is to use the system.
+As you work through your requirements list, a few systems will begin to stand out as possible candidates. Once you’ve narrowed down the top 3-6 CMS, it’s time to take a test-drive. Involve both content and tech teams in the process. Identify user types and common tasks. Have content contributors give the tool a test-drive, and try completing basic content management tasks, to see how easy it is to use the system.
 
 Use this [Use this sample CMS User Roles and Needs](https://www.WHATEVER/files/2014/07/cms-user-roles-and-needs.docx) (MS Word, 13 KB, 1 page, December 2012) to document different types of CMS users and the common tasks each will need to perform.
 
@@ -230,7 +229,7 @@ If you choose an open-source CMS, urge your team to actively participate in user
 
 ## Migrate Your Content to a CMS {#migrate}
 
-In addition to migrating content, you’ll also need to integrate your information architecture, navigation, search, social media, and other tools. Your CMS implementation also needs to align with your agency’s  overall enterprise architecture and IT systems. The complexity of a migration illustrates the importance of strong Web governance, so a migration can be an opportunity to strengthen your governance model, if needed.
+In addition to migrating content, you’ll also need to integrate your information architecture, navigation, search, social media, and other tools. Your CMS implementation also needs to align with your agency’s overall enterprise architecture and IT systems. The complexity of a migration illustrates the importance of strong Web governance, so a migration can be an opportunity to strengthen your governance model, if needed.
 
 ### Plan Your Migration
 
@@ -250,13 +249,13 @@ Here are some examples of both a very basic project outline, and a detailed proj
 Do you have sufficient resources to successfully pull off a migration? Consider:
 
   * Management support—have you clearly articulated the business value to managers so they are committed to supporting the migration?
-  * Staffing—do you have enough people available to migrate content quickly, and review content to make sure it’s  complete and correct in the new CMS? How will you manage both your ongoing, day-to-day work in addition to the migration work?
+  * Staffing—do you have enough people available to migrate content quickly, and review content to make sure it’s complete and correct in the new CMS? How will you manage both your ongoing, day-to-day work in addition to the migration work?
   * Technical resources—do you have the skills to configure the new CMS, write scripts for the migration, etc.? Note that many agencies outsource much of the technical work.
   * Communications—who will keep managers, program offices and content owners informed of progress, and help you articulate benefits and success?
 
 ### Decide if You Need Contractor Support
 
-Many agencies contract for developer support with a migration, because it’s  a lot of work to accomplish in a short time. To help you make this decision, consider:
+Many agencies contract for developer support with a migration, because it’s a lot of work to accomplish in a short time. To help you make this decision, consider:
 
   * Technical skills on your team—do you have people on your team who are experts in your new CMS? If you choose to automate the content migration, do you have developers who can write the proper code and scripts?
   * Time—even if you have the skills, do those people with the skills have the time?
@@ -272,13 +271,13 @@ A Statement of Work/Objectives (SOW/SOO) will help you retain the services of a 
 Once they’re on board, make sure the contractors are in the loop on all the prep work you’ve done up to this point.
 
   * Share relevant planning documents such as your content strategy and business requirements.
-  * Review your content inventory in great detail, so the contractors understand your content, and how it’s  supposed to look and act in the new system.
+  * Review your content inventory in great detail, so the contractors understand your content, and how it’s supposed to look and act in the new system.
   * Review your content types, so they can help you migrate the content into a structured format.
   * Institute regular and frequent meetings with contractors, to keep everyone up-to-date, identify and mitigate problems early-on, and ensure everything flows smoothly.
 
 ### Identify Roles and Responsibilities
 
-Document who’s  responsible for every piece of the migration project, so nothing falls through the cracks.
+Document who’s responsible for every piece of the migration project, so nothing falls through the cracks.
 
   * Identify your project manager, and empower that person to make decisions and assign work.
   * Clarify who will lead each piece of the project, such as managing the content inventory, or coordinating development work.
@@ -300,7 +299,7 @@ Consider what times of the year are busiest for your agency, and avoid migrating
 At some point, you’ll have to restrict updates for a short time while you actually move content into the new CMS. To minimize the impact of this “content freeze” on your content owners, set realistic expectations around what will happen, and when.
 
   * Let content owners know in advance when to expect the content freeze, so they can make important site updates beforehand.
-  * Once you know how long the freeze will last, give content owners an estimate that includes a few extra days, in case you run into unexpected delays. It’s  better to wrap early, than to make people wait longer than they’d planned.
+  * Once you know how long the freeze will last, give content owners an estimate that includes a few extra days, in case you run into unexpected delays. It’s better to wrap early, than to make people wait longer than they’d planned.
 
 ### Identify the Best Migration Model
 
@@ -330,11 +329,11 @@ Your migration will be simpler if you don’t make any content changes as you’
 
 ## Migrate Your Content
 
-Once you’ve got a strategy in place, and identified the type of migration you’ll do, it’s  time to migrate your content to the new CMS.
+Once you’ve got a strategy in place, and identified the type of migration you’ll do, it’s time to migrate your content to the new CMS.
 
 ### Follow Your Plan
 
-Do your best to stick to promised timelines and deadlines, so stakeholders remain supportive. If unexpected delays occur, let people know what’s  happening, and how it will impact them, to mitigate any problems.
+Do your best to stick to promised timelines and deadlines, so stakeholders remain supportive. If unexpected delays occur, let people know what’s happening, and how it will impact them, to mitigate any problems.
 
 ### Inform External Stakeholders
 
@@ -346,7 +345,7 @@ If you’re making any design changes along with your content migration, do [use
 
 ### Plan for Structured Content
 
-You’ll need to structure your content as you move it into the new CMS. If the content is already tagged with metadata, you may be able to automate this. If not, you should tag each page as you move the content into the new CMS. It’s  much faster to tag as you go, than to go back and tag everything afterwards.
+You’ll need to structure your content as you move it into the new CMS. If the content is already tagged with metadata, you may be able to automate this. If not, you should tag each page as you move the content into the new CMS. It’s much faster to tag as you go, than to go back and tag everything afterwards.
 
 ### Back up Everything Before You Start
 
@@ -370,13 +369,13 @@ Once you have tested your migration process and everything works well, it&#8217;
 
 No matter how thorough you are, you’ll be cleaning up and deleting old content and moving your entire website to a new platform, so your visitors may experience some broken links after the migration. If you&#8217;ve changed a lot of URLs during your migration, you may need to [create redirects](http://googlewebmastercentral.blogspot.com/2012/04/how-to-move-your-content-to-new.html) to help search engines re-index your site, and help your visitors find your content. Use [301 redirects](https://support.google.com/webmasters/answer/93633?hl=en) to update links that have permanently moved to a new URL, and 302 redirects for temporary moves. Also follow these [best practices for 404 (page not found) errors](http://www.bing.com/webmaster/help/404-pages-best-practices-1c9f53b3).
 
-### Test Everything Once It’s  Moved
+### Test Everything Once It’s Moved
 
 Before you shut down the old site, run the old and new sites in parallel to test everything, and make sure all your content migrated over and works properly. Check links, test functionality, make sure your search box and any other tools work correctly. Don’t switch over to the new site until you know everything works.
 
 ### Launch Website in New CMS
 
-If you’ve done your research and followed your plan, you should have a smooth migration. Once it’s  all done, and the site is live in the new CMS:
+If you’ve done your research and followed your plan, you should have a smooth migration. Once it’s all done, and the site is live in the new CMS:
 
   * Evaluate what worked well, and where you ran into problems. Document as lessons learned for future migration projects, and share with your colleagues.
   * Consider writing a case study, and [send to us](https://www.WHATEVER/contact-us/ "Contact Us") so we can post on DigitalGov, so others can benefit from your experiences.

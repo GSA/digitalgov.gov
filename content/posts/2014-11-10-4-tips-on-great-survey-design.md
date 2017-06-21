@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/11/10/4-tips-on-great-survey-design/
 date: 2014-11-10 10:00:40 -0400
-title: '4 Tips on Great Survey Design'
+title: 4 Tips on Great Survey Design
 summary: ' Whether they pop up while perusing an e-commerce site or land in your inbox after your bumpy&nbsp;flight&nbsp;in from Chicago, surveys are used in many different industries to&nbsp;gauge customer satisfaction and glean insight into user motivations. They are a useful tool in the kit of a user experience designer or anyone who'
-authors: [georgia-gallavin]
+authors:
+  - georgia-gallavin
 categories:
   - Monthly Theme
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - customer satisfaction
@@ -17,8 +17,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-480-survey-bathroom-sign.jpg" alt="600-x-480-survey-bathroom-sign" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-480-survey-bathroom-sign.jpg" alt="600-x-480-survey-bathroom-sign" %}
 
 Whether they pop up while perusing an e-commerce site or land in your inbox after your bumpy flight in from Chicago, surveys are used in many different industries to gauge customer satisfaction and glean insight into user motivations. They are a useful tool in the kit of a user experience designer or anyone who is involved with improving the usability of a product.
 
@@ -30,10 +29,9 @@ We spoke to Jean Fox, research psychologist at the Bureau of Labor Statistics (B
 
 **1. Beware “Homegrown” Surveys**
   
-Although it may be enticing to believe that you can cook up a simple “yes” or “no” survey in five minutes, it’s  best to stick with tried and true formats. Without a survey that has been through rigorous testing to make sure that it’s  not biased, you’ll have a hard time trusting your results. Are your results telling you something significant about the topic that you are testing or are they more the result of how you designed the survey? You’ll never know. It’s  difficult to ask a good question and even more difficult to predict how a participant will interpret that question (here are some things to know before you design and test a survey).
+Although it may be enticing to believe that you can cook up a simple “yes” or “no” survey in five minutes, it’s best to stick with tried and true formats. Without a survey that has been through rigorous testing to make sure that it’s not biased, you’ll have a hard time trusting your results. Are your results telling you something significant about the topic that you are testing or are they more the result of how you designed the survey? You’ll never know. It’s difficult to ask a good question and even more difficult to predict how a participant will interpret that question (here are some things to know before you design and test a survey).
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/590-x-105-survey-monkey-with-title.jpg" alt="590-x-105-survey-monkey-with-title" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/590-x-105-survey-monkey-with-title.jpg" alt="590-x-105-survey-monkey-with-title" %}
 
 A good example of a survey format that has stood the test of time since its introduction in 1986 is the [System Usability Scale](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html "System Usability Scale") (SUS). This post-test survey is composed of a 10-item questionnaire with five response options and has been cited in over 1,200 studies and counting. By taking advantage of existing research and formats such as the SUS, you can ensure that your surveys are methodologically sound.
 
@@ -51,8 +49,7 @@ cust
 
 A unipolar scale represents varying degrees of a concept, from &#8220;none&#8221; to &#8220;a lot&#8221; of that concept. There are no natural opposites for this type of scale. If you are measuring how important something is, the scale might be ordered as “not at all important” to “very important.&#8221;
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/520-x-110-unipolar-survey-design.jpg" alt="520-x-110-unipolar-survey-design" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/520-x-110-unipolar-survey-design.jpg" alt="520-x-110-unipolar-survey-design" %}
 
 Depending on the topic, one approach is likely to be more appropriate than the other. The type of scale you use will influence the terms you use for the scale points.
 

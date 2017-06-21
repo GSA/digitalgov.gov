@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/04/07/hhs-offers-free-content-models-and-drupal-features/
 date: 2017-04-07 11:00:20 -0400
-title: 'HHS Offers Free Content Models and Drupal Features'
-summary: 'Related Event\:&nbsp;Create Once, Publish Everywhere Applied&mdash;HHS Content Models and Portability, Tuesday, April 18, 2017; register here. Create Once, Publish Everywhere (COPE) The&nbsp;U.S. Department of Health &amp;amp; Human Services&nbsp;(HHS) is sharing its content models and their related Drupal features for you to use on your sites. A content model is a representation of types of content'
-authors: [christen-geiler]
+title: HHS Offers Free Content Models and Drupal Features
+summary: 'Related Event:&nbsp;Create Once, Publish Everywhere Applied&mdash;HHS Content Models and Portability, Tuesday, April 18, 2017; register here. Create Once, Publish Everywhere (COPE) The&nbsp;U.S. Department of Health &amp;amp; Human Services&nbsp;(HHS) is sharing its content models and their related Drupal features for you to use on your sites. A content model is a representation of types of content'
+authors:
+  - christen-geiler
 categories:
   - Content
 tag:
@@ -29,8 +29,7 @@ A [content model](https://www.WHATEVER/tag/content-models/) is a representation 
 
 [Open and structured content models](https://www.WHATEVER/tag/open-and-structured-content-models/) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/), and websites, [the need for modular content is growing](https://www.WHATEVER/2015/08/24/the-content-corner-modular-design-and-structured-content/).
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{% img="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
 
 The goal of implementing content models is to have the ability to “create once and publish everywhere” ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)). Adopting content models can allow your content to be flexible enough to go wherever it is needed. Whether it is syndicated, viewed on a mobile device, or the data is pulled in by another application, it is flexible and therefore consumable.
 
@@ -47,8 +46,7 @@ HHS currently has over 20 models—and the list continues to grow as the site ad
 
 Take a look in the above repositories and see if there are a few content models you can use or use as a starting point in your own efforts.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/04/600-x-375-HHS-GitHub-content-models.jpg" alt="Screencapture of the GitHub page for HHS content models and Drupal features." %}
+{% img="https://www.WHATEVER/files/2017/04/600-x-375-HHS-GitHub-content-models.jpg" alt="Screencapture of the GitHub page for HHS content models and Drupal features." %}
 
 ## What is a Drupal Feature?
 
@@ -60,7 +58,7 @@ A [feature](https://www.drupal.org/project/features) is a collection of Drupal c
 
 The content models’ related Drupal features are also being shared, so, if you are running a Drupal site and are looking for a simple way to implement a content model, this is the place for you.
 
-## What’s  the catch?
+## What’s the catch?
 
 Absolutely nothing! HHS is happy to share our efforts in the spirit of collaboration and the hopes that folks will start putting their content in models as well. The future of [portable content](https://www.WHATEVER/2016/05/05/how-to-create-portable-content-with-structured-content-models/) relies heavily on the adoption of structured content types.
 

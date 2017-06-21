@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/24/sharing-the-essentials-of-animated-gifs-for-public-services/
 date: 2015-04-24 1:33:00 -0400
-title: 'Sharing the Essentials of Animated Gifs for Public Services'
-summary: '[youtube=http\://www.youtube.com/watch?v=ohmyOKPSGPg&amp;amp;w=600] Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
-authors: [jherman]
+title: Sharing the Essentials of Animated Gifs for Public Services
+summary: '[youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&amp;amp;w=600] Animated gifs are increasingly found throughout the digital experience of today&rsquo;s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer'
+authors:
+  - jherman
 categories:
   - Content
   - Social Media
@@ -29,7 +29,7 @@ tag:
 
 [youtube=http://www.youtube.com/watch?v=ohmyOKPSGPg&w=600]
 
-Animated gifs are increasingly found throughout the digital experience of today’s  users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
+Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
 
 To find out how animated gifs can be developed to measurably improve public services, we hosted “Essentials of Animated Gifs for Gov” for almost 200 managers in the [U.S. SocialGov Community](https://www.WHATEVER/communities/social-media/) through [DigitalGov University](https://www.WHATEVER/digitalgov-university/). We’d like to share with you the recording of this webinar, along with along with key highlights from our presenters.
 
@@ -37,8 +37,7 @@ Notably, this became the highest rated SocialGov webinar based on user feedback 
 
 ## Define your objectives and bring services to where citizens are
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/560-x-280-odni.gif" alt="An animated gif for an Office of the Director of National Intelligence (ODNI) event" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/560-x-280-odni.gif" alt="An animated gif for an Office of the Director of National Intelligence (ODNI) event" %}
 
 Michael Thomas of the [Office of the Director of National Intelligence](http://icontherecord.tumblr.com/) often hears when it comes to social media the saying, “well, if the intelligence community can do it&#8230;”
 
@@ -58,22 +57,20 @@ Thomas also said that there are lots of tools available to make gifs, but the re
 
 ## Repurpose user-generated content for cost-efficient programming
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/kids-handshake.gif" alt="kids handshake" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/kids-handshake.gif" alt="kids handshake" %}
 
 Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of content to choose from—literally—when generating gifs for her own site or something clever for a third-party. She said:
 
-  * Leverage user generated content to tell your organization’s  story, and find opportunities to give quality content a second life.
+  * Leverage user generated content to tell your organization’s story, and find opportunities to give quality content a second life.
   * Make sure to get approvals from appropriate stakeholders, most importantly, the people who created the content.
 
 [Peace Corps and Animated Gifs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Peace-Corps-and-Animated-Gifs-Erika-Brown.pptx) (.pptx PowerPoint Presentation, 5 MB)
 
 ## Create eye catching and easy to follow tutorials and instructions
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/screenshot-18f-code.gif" alt="18f animated code" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/screenshot-18f-code.gif" alt="18f animated code" %}
-
-Melody Kramer of [GSA’s  18F](https://18f.gsa.gov/) has been on the cutting edge of new media, but shares how she uses animated gifs in the most practical way: for tutorials and education. She demonstrated how and why she creates instructional gifs, which any organization can do.
+Melody Kramer of [GSA’s 18F](https://18f.gsa.gov/) has been on the cutting edge of new media, but shares how she uses animated gifs in the most practical way: for tutorials and education. She demonstrated how and why she creates instructional gifs, which any organization can do.
 
 In the webinar, she demonstrated how to:
 
@@ -84,8 +81,7 @@ In the webinar, she demonstrated how to:
 
 ## Animated gifs should meet accessibility standards
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/pokemon-player.png" alt="Pokemon in a player" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/pokemon-player.png" alt="Pokemon in a player" %}
 
 Victoria Wales of [USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
 
@@ -98,8 +94,7 @@ In order to help meet those challenges, she suggested:
 
 ## Use U.S. government records to bring history to life
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/plane-washington-monument.gif" alt="A black and white animated gif of a gyrocopter flying past the Washington Monument." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/plane-washington-monument.gif" alt="A black and white animated gif of a gyrocopter flying past the Washington Monument." %}
 
 Darren Cole of the [National Archives and Records Administration](http://todaysdocument.tumblr.com/) showcased the diverse source documents used to create compelling animated gifs that breathe new life into historical records, including images from the last time a gyrocopter flew to Capitol Hill almost 100 years ago. He recommended:
 

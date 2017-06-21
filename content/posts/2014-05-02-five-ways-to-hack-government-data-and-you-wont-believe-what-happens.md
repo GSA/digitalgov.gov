@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/02/five-ways-to-hack-government-data-and-you-wont-believe-what-happens/
 date: 2014-05-02 10:00:00 -0400
-title: 'Civic Hacking\: Pathways for Participation'
+title: 'Civic Hacking: Pathways for Participation'
 summary: ' The National Day of Civic Hacking is actually a weekend. An awe-inspiring two days of collaborative work where coders, designers, writers, innovative thinkers, and'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
   - Code
@@ -21,8 +21,7 @@ tag:
   - United States Census Bureau
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-212-National-Day-of-Civic-Hacking-2014-facebook-banner-logo.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-212-National-Day-of-Civic-Hacking-2014-facebook-banner-logo.jpg" alt="A Facebook banner that reads: "National Day of Civic Hacking: To improve our communities and the governments that serve them. Join us May 31st - June 1st, 2014"" %}
 
 The [National Day of Civic Hacking](http://www.hackforchange.org/) is actually a weekend. An awe-inspiring two days of collaborative work where coders, designers, writers, innovative thinkers, and data geeks get together to solve problems and build things for their communities.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/05/11/the-content-corner-ranking-six-common-content-types/
 date: 2015-05-11 10:00:27 -0400
-title: 'The Content Corner\: Ranking Six Common Content Types'
+title: 'The Content Corner: Ranking Six Common Content Types'
 summary: 'In last week&amp;#8217;s column, I went back to a frequent theme of mine and discussed another method for helping to feed the content beast, which was learning when to say no to a new and potentially resource devouring digital channel or platform. However, we also need to take a look at six of the most'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - Content
 tag:
@@ -26,8 +26,7 @@ Videos remain a popular method for reaching customers and providing coverage for
 
 ## Infographics
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/550-x-290-NeoMam-Studios-blog-comparison-times-for-visual-content-understanding.jpg" alt="Source: NeoMam.com" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/550-x-290-NeoMam-Studios-blog-comparison-times-for-visual-content-understanding.jpg" alt="Source: NeoMam.com" %}
 
 Visualized information has increased by more than 9,000 percent across all types of media, including digital, and despite that crazy number, it shouldn&#8217;t come as much of a surprise. One of the many reasons that content such as infographics have become so popular is due to the way humans consume and process information. As the image shows, we can process visuals in 1/10th of a second compared to 60 seconds to read 200-250 words. Survey data also shows that infographics are the third most effective marketing content with only 34% of respondents finding it difficult to create.
 

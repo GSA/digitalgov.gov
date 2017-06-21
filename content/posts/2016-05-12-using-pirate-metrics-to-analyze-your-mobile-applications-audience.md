@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/05/12/using-pirate-metrics-to-analyze-your-mobile-applications-audience/
 date: 2016-05-12 10:00:28 -0400
-title: 'Using Pirate Metrics to Analyze Your Mobile Application&amp;#8217;s Audience'
-summary: 'What Makes a Native App Successful? There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish. David Cooper, the Mobile'
-authors: [jparcell]
+title: 'Using Pirate Metrics to Analyze Your Mobile Application&#8217;s Audience'
+summary: What Makes a Native App Successful? There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish. David Cooper, the Mobile
+authors:
+  - jparcell
 categories:
   - Metrics
   - Mobile
@@ -25,8 +25,7 @@ What Makes a Native App Successful?
 
 There are over 200 native applications in the federal government with various download numbers. Are the ones with the most downloads the most successful? Is the one with fewer users who are more engaged more successful? It depends on what you are trying to accomplish.
 
-David Cooper, the [Mobile Application Development Lead](https://www.WHATEVER/2015/06/25/using-apps-for-mental-healthcare/) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Pirate-Lady\_Reiterlied\_flickr\_CC-BY-NC-SA-2.0\_21900258113\_db59a364a7\_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" %} 
+David Cooper, the [Mobile Application Development Lead](https://www.WHATEVER/2015/06/25/using-apps-for-mental-healthcare/) with the National Center for Telehealth and Technology (T2) and member of the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), said during a recent DigitalGov University (DGU) webinar, that while vanity metrics such as page views for websites and downloads for apps make you feel good, they don’t tell you anything about how users like your app or site. For that, you need actionable metrics, ones that provide you with the information you need to help improve your app. Downloads won’t give you that information. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Pirate-Lady\_Reiterlied\_flickr\_CC-BY-NC-SA-2.0\_21900258113\_db59a364a7\_o.jpg" alt="A colorful lady pirate LEGO toy against a black background" %} 
 
 The pirate metrics framework, according to Cooper, is a good way to understand how your product is performing. Coined by [David McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version), the “pirate” in the metrics comes from the first letters of the lifecycle stages of the framework.
 
@@ -60,7 +59,7 @@ How are people finding your product? Promotions are a good to let people know ab
 
 ## Referral
 
-**Do people tell others about your product?** Does it go viral via word of mouth? You need to find your super users and make it easy for them to tell others about your product. As it turns out some of Cooper’s  best promotion efforts aren’t digital—they partnered with frontline health professionals to recommend their apps as part of veterans treatment programs, and so developed a “prescription pad.” The apps were downloaded much more frequently once doctors were able to include a prescription to download a mobile app rather than try to remember and recite the URL to a patient.
+**Do people tell others about your product?** Does it go viral via word of mouth? You need to find your super users and make it easy for them to tell others about your product. As it turns out some of Cooper’s best promotion efforts aren’t digital—they partnered with frontline health professionals to recommend their apps as part of veterans treatment programs, and so developed a “prescription pad.” The apps were downloaded much more frequently once doctors were able to include a prescription to download a mobile app rather than try to remember and recite the URL to a patient.
 
 So, how do you accomplish all of this on a government budget? Luckily, with many of the analytics tools you can set up dashboards and then forget about it in the sense that they will automatically collect statistics over time. Cooper also mentioned low/no cost usability techniques such as [paper prototyping](https://www.WHATEVER/2014/05/22/how-to-make-a-mobile-paper-prototype/) to gather data.
 

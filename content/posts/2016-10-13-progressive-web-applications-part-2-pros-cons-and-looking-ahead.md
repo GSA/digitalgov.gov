@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/10/13/progressive-web-applications-part-2-pros-cons-and-looking-ahead/
 date: 2016-10-13 11:00:04 -0400
-title: 'Progressive Web Applications, Part 2\: Pros, Cons, and Looking Ahead'
-summary: 'A few weeks ago, Progressive Web Applications, Part 1\: the New Pack Mule of the Internet introduced PWAs and the technologies behind them. We shared that article to the MobileGov Community of Practice and asked about the pros and cons of this approach to winning mobile moments. What Are Some Benefits of PWAs? PWAs bring'
-authors: [david-fern]
+title: 'Progressive Web Applications, Part 2: Pros, Cons, and Looking Ahead'
+summary: 'A few weeks ago, Progressive Web Applications, Part 1: the New Pack Mule of the Internet introduced PWAs and the technologies behind them. We shared that article to the MobileGov Community of Practice and asked about the pros and cons of this approach to winning mobile moments. What Are Some Benefits of PWAs? PWAs bring'
+authors:
+  - david-fern
 categories:
   - Code
   - Content
@@ -28,7 +28,7 @@ tag:
 PWAs bring a host of advantages over the traditional native mobile and Web methodologies including:
 
 <li style="margin-bottom: 15px">
-  <strong>No “Installation” Required</strong> – Since PWAs are essentially web pages, they do not require any device installation method. However, they can be quickly and easily installed on the device’s  home screen, making them available anytime.
+  <strong>No “Installation” Required</strong> – Since PWAs are essentially web pages, they do not require any device installation method. However, they can be quickly and easily installed on the device’s home screen, making them available anytime.
 </li>
 <li style="margin-bottom: 15px">
   <strong>No Application Updating Required</strong> – Since PWAs are essentially Web pages, they update like web pages by being refreshed in the background using push notifications unlike native applications that require installations.
@@ -70,7 +70,7 @@ PWAs bring a host of advantages over the traditional native mobile and Web metho
 Along with the advantages, PWAs bring challenges, and these may be deal breakers for some. Those of us that support all the makes, models and versions of devices and browsers may find that many of our customers will not be able to enjoy the PWA experience we are providing. Some examples of PWA challenges include:
 
 <li style="margin-bottom: 15px">
-  <strong>Not all Browsers are Supported</strong> – While newer versions of Chrome, Opera, and Samsung’s  Android browser support PWA, IE, Edge, Safari and many custom and proprietary default browsers do not. At this point, Safari alone has close to 50% of the mobile browser market.
+  <strong>Not all Browsers are Supported</strong> – While newer versions of Chrome, Opera, and Samsung’s Android browser support PWA, IE, Edge, Safari and many custom and proprietary default browsers do not. At this point, Safari alone has close to 50% of the mobile browser market.
 </li>
 <li style="margin-bottom: 15px">
   <strong>Not All Native Device Software Functionality is Supported</strong> – PWA support is limited on Android devices, and they do not support functionality such as home screen shortcut prompting and notifications on iOS devices. In the U.S., iOS is about 50% of the mobile device market.
@@ -85,7 +85,7 @@ Along with the advantages, PWAs bring challenges, and these may be deal breakers
 
 ## What Are Some Examples of PWAs?
 
-Using Gartner’s  2016 “Hype Cycle for Web Computing” (<http://www.gartner.com/document/3398518>), PWAs are in the in the embryonic stage of the Gartner hype cycle and have a less than 1% penetration rate of target audience. This makes finding many PWAs difficult. However, one can experience firsthand a variety of PWAs on sites such as:
+Using Gartner’s 2016 “Hype Cycle for Web Computing” (<http://www.gartner.com/document/3398518>), PWAs are in the in the embryonic stage of the Gartner hype cycle and have a less than 1% penetration rate of target audience. This makes finding many PWAs difficult. However, one can experience firsthand a variety of PWAs on sites such as:
 
 <li style="margin-bottom: 15px">
   Progressive Web App Showcase &#8211; <a href="https://pwa.rocks/">https://pwa.rocks</a>
@@ -111,9 +111,9 @@ There was a lot of interest in this approach from the community, but as you can 
 
 ### Resources (in alphabetical order by title):
 
-[A Beginner’s  Guide to Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+[A Beginner’s Guide to Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 
-[Gartner’s  2016 “Hype Cycle for Web Computing”](http://www.gartner.com/document/3398518)
+[Gartner’s 2016 “Hype Cycle for Web Computing”](http://www.gartner.com/document/3398518)
 
 [Getting Started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
 
@@ -131,6 +131,6 @@ There was a lot of interest in this approach from the community, but as you can 
 
 [Wait! The Web Isn’t Dead After All. Google Made Sure of It](https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/)
 
-[What’s  Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/)
+[What’s Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/)
 
 _Are you developing or already using Progressive Web Apps? Let us know in the comments below!_

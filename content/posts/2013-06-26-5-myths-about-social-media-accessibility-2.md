@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/06/26/5-myths-about-social-media-accessibility-2/
 date: 2013-06-26 2:03:57 -0400
-title: '5 Myths About Social Media Accessibility'
-summary: 'Guest post by Mario Damiani, Office of Disability Employment Policy (ODEP) at the Department of Labor. ODEP spearheads the Social Media Accessibility Working Group within the Federal Social Media Community of Practice. The working group recently released a toolkit for agencies to make their content more accessible for citizens with disabilities, including recommendations from agencies'
-authors: [mario-damiani]
+title: 5 Myths About Social Media Accessibility
+summary: Guest post by Mario Damiani, Office of Disability Employment Policy (ODEP) at the Department of Labor. ODEP spearheads the Social Media Accessibility Working Group within the Federal Social Media Community of Practice. The working group recently released a toolkit for agencies to make their content more accessible for citizens with disabilities, including recommendations from agencies
+authors:
+  - mario-damiani
 categories:
   - Accessibility
   - Social Media
@@ -19,8 +19,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <em><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg" alt="Image of an IPad with an accessibility sign on it." %}</a></em>As a representative of the Office of Disability Employment Policy at the Department of Labor, I&#8217;ve had the privilege of visiting with numerous individuals and organizations to promote the value of social media accessibility.  My major takeaway?  There are many misconceptions.  By highlighting some of the major myths here, I hope to arm readers with information they can use to educate others and help support social media inclusion for all.
+  <em><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg" alt="Image of an IPad with an accessibility sign on it." %}</a></em>As a representative of the Office of Disability Employment Policy at the Department of Labor, I&#8217;ve had the privilege of visiting with numerous individuals and organizations to promote the value of social media accessibility.  My major takeaway?  There are many misconceptions.  By highlighting some of the major myths here, I hope to arm readers with information they can use to educate others and help support social media inclusion for all.
 </p>
 
 <p dir="ltr">
@@ -52,7 +51,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <strong>The Truth:</strong>  Accessibility can be achieved with very little effort or investment.  In fact, it&#8217;s never been easier to make social media accessible.  Often, social media accessibility involves only an openness to and appreciation of new ideas—such as the philosophy of full inclusion or universal access.  It may be as simple as taking basic steps to format and supplement the content so that it is usable by everyone. One example is video captioning.  Once considered an added, time-consuming expense, captioning online videos is no longer difficult thanks to YouTube and other free captioning services.  Such services allow you to add closed captioning to short videos (i.e., 10 minutes or less in length)—a valuable offering considering that the most impactful online videos are three minutes or less.  Even more simply, if a company’s  social media expert needs to tweet an important piece of information with an image or photo, taking the following steps only takes a few seconds:
+  <strong>The Truth:</strong>  Accessibility can be achieved with very little effort or investment.  In fact, it&#8217;s never been easier to make social media accessible.  Often, social media accessibility involves only an openness to and appreciation of new ideas—such as the philosophy of full inclusion or universal access.  It may be as simple as taking basic steps to format and supplement the content so that it is usable by everyone. One example is video captioning.  Once considered an added, time-consuming expense, captioning online videos is no longer difficult thanks to YouTube and other free captioning services.  Such services allow you to add closed captioning to short videos (i.e., 10 minutes or less in length)—a valuable offering considering that the most impactful online videos are three minutes or less.  Even more simply, if a company’s social media expert needs to tweet an important piece of information with an image or photo, taking the following steps only takes a few seconds:
 </p>
 
   * <p dir="ltr">

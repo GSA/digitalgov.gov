@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/03/18/trends-on-tuesday-mobile-download-speeds-on-the-rise/
 date: 2014-03-18 1:35:57 -0400
-title: 'Trends on Tuesday\: Mobile Download Speeds on the Rise'
+title: 'Trends on Tuesday: Mobile Download Speeds on the Rise'
 summary: 'Mobile devices are uploading data faster and mobile users are starting to expect better performance, according to Citrix.&nbsp;Fifty percent of web pages are taking 37.5% less time to load on a mobile device than they did just a year ago according the Citrix Mobile Analytics Report. This infographic from the study&nbsp;shows the percentage of users'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Mobile
 tag:
@@ -27,4 +27,4 @@ This [infographic from the study](http://www.citrix.com/content/dam/citrix/en_us
 
 As the data demonstrates a third of users expect a mobile site to load within 5 seconds. However, these users aren’t necessarily blaming the web site for all delays, as 57% blame the mobile provider when a video stalls.
 
-Agencies optimizing their websites for mobile use need to consider the user’s  experience and provide a site that focuses on only the most important user content to ensure quick loading. Check out our [mobile performance testing resources](https://www.WHATEVER/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing").
+Agencies optimizing their websites for mobile use need to consider the user’s experience and provide a site that focuses on only the most important user content to ensure quick loading. Check out our [mobile performance testing resources](https://www.WHATEVER/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing").

@@ -1,17 +1,18 @@
 ---
-
-
+url: /2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/
 date: 2016-09-02 10:00:42 -0400
-title: 'Quality, Speed, and Lower Costs\: Yes, You Can Have It All'
-summary: 'This is post 2 in the 5-part series The Right Tools for the Job\: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that&nbsp;DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)'
-authors: [dmccleskey, nick-marden]
+title: 'Quality, Speed, and Lower Costs: Yes, You Can Have It All'
+summary: 'This is post 2 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that&nbsp;DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)'
+authors:
+  - dmccleskey
+  - nick-marden
 categories:
   - Code
   - Data
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - DigitalGov Search
   - infrastructure
@@ -25,8 +26,7 @@ We were also able to reduce our CDN costs to almost zero by insourcing the manag
 
 In the prior DigitalGov Search datacenters — one in Chicago and one in Virginia — we had pools of high-powered, physical Dell &#8220;pizza box&#8221; servers running a variety of services in a composition that had been tuned to observed traffic patterns:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." %}
 
 Services had been distributed opportunistically across the servers over time. We made it a primary goal of our new architecture to separate each of our services by _role_, and to build flexible pools for each role that could be scaled up or down as demand increased or decreased for each service. This sounds great on the drawing board, but to build robust, role-specific deployment recipes for multiple applications and services would be time-intensive and expensive.
 
@@ -50,14 +50,13 @@ That left just Tematres and Elasticsearch, so we reached into our bag of tricks 
 
 We then enabled [Auto Healing](http://docs.aws.amazon.com/opsworks/latest/userguide/workinginstances-autohealing.html) on our application layers to ensure servers would be replaced automatically if they failed. With robust, well-tested recipes to build servers in place, we knew this replacement would be seamless if it occurred.
 
-To replace our CDN and web application firewall (WAF) provider, we implemented our own Apache proxy server layer using a modified version of the [OWASP](https://www.owasp.org/index.php/Main_Page) WAF rules for the [modsecurity](https://www.modsecurity.org/) Apache module, echoing our previous provider’s  approach. This took iterative tuning that we&#8217;ll discuss later.
+To replace our CDN and web application firewall (WAF) provider, we implemented our own Apache proxy server layer using a modified version of the [OWASP](https://www.owasp.org/index.php/Main_Page) WAF rules for the [modsecurity](https://www.modsecurity.org/) Apache module, echoing our previous provider’s approach. This took iterative tuning that we&#8217;ll discuss later.
 
 We also migrated our database services (MySQL and Redis) to the hosted AWS equivalents (RDS MySQL and Elasticache Redis), in configurations that were designed to automatically withstand loss of a datacenter, or AWS availability zone (AZ). This was an inexpensive way to take the hassle of database availability, backups, and upgrades out of our hands.
 
 With all of these pieces in place we were able to build out the following architecture in AWS:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." %}
 
 The key thing to note about this architecture is that it has four new characteristics that our old environment did not:
 
@@ -109,5 +108,5 @@ By applying some very commonly-understood modern operations practices — role-b
 
   * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)
   * <span style="line-height: 1.5"><a href="https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a> </span>
-  * [Let’s  Encrypt Those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
+  * [Let’s Encrypt Those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
   * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](https://www.WHATEVER/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/)

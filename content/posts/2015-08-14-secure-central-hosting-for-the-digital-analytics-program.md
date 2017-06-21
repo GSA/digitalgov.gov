@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/14/secure-central-hosting-for-the-digital-analytics-program/
 date: 2015-08-14 1:00:48 -0400
-title: 'Secure Central Hosting for the Digital Analytics Program'
+title: Secure Central Hosting for the Digital Analytics Program
 summary: 'The U.S. government&amp;#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at analytics.usa.gov.  To'
-authors: [eric-mill]
+authors:
+  - eric-mill
 categories:
   - Metrics
 tag:
@@ -15,8 +15,7 @@ tag:
 
 The U.S. government&#8217;s [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-330-Analytics-USA-gov-08-14-2015.jpg" alt="A screencapture of the anaylytics.usa.gov dashboard on August 14, 2015" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-330-Analytics-USA-gov-08-14-2015.jpg" alt="A screencapture of the anaylytics.usa.gov dashboard on August 14, 2015" %}
 
 To accomplish this feat, participating federal websites need to add a [CODE] reference to a [standard bit of JavaScript code](https://github.com/digital-analytics-program/gov-wide-code/blob/master/Universal-Federated-Analytics.js). Until now, the only option agencies have had is to host this JavaScript file themselves, like this:
 
@@ -34,8 +33,7 @@ To address this, DAP has set up a centrally hosted URL at dap.WHATEVER containin
 
 By adding this tag and following [DAP&#8217;s guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/GSA-DAP-UA-Code-Quick-Guide-15-01-30-v1-02_mvf.pdf) (PDF, 273 KB, 7 pages, February 2015) to add parameters identifying your agency, a federal website will begin reporting its Web analytics to DAP and will be guaranteed to always be using the latest, greatest, most secure DAP code.
 
-## Securing Visits to Federal Websites 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." %} 
+## Securing Visits to Federal Websites {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." %} 
 
 Hosting a widely-referenced piece of JavaScript introduces its own security concerns, because any change to that JavaScript will immediately affect all federal websites that reference it. It&#8217;s extremely important that the JavaScript on dap.WHATEVER not be modified by an attacker.
 

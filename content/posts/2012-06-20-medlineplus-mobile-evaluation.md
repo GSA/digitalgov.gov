@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/06/20/medlineplus-mobile-evaluation/
 date: 2012-06-20 3:17:01 -0400
-title: 'MedlinePlus Mobile Evaluation'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine. The National Library of Medicine (NLM) launched MedlinePlus Mobile (m.medlineplus.gov) in January 2010 to provide authoritative consumer-level health information to a growing'
-authors: [jparcell]
+title: MedlinePlus Mobile Evaluation
+summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine. The National Library of Medicine (NLM) launched MedlinePlus Mobile (m.medlineplus.gov) in January 2010 to provide authoritative consumer-level health information to a growing
+authors:
+  - jparcell
 categories:
   - Metrics
   - Mobile
@@ -19,8 +19,7 @@ _[Mobile Gov Experiences](https://www.WHATEVER/tag/mobile-gov-experience/) are a
   
 _ 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/medline\_plus\__app.jpg" alt="Medline Plus Mobile" %}
-The National Library of Medicine (NLM) launched MedlinePlus Mobile ([m.medlineplus.gov](http://m.medlineplus.gov)) in January 2010 to provide authoritative consumer-level health information to a growing audience of mobile Internet users. MedlinePlus Mobile is a mobile-optimized Web site that contains a subset of the content that users can find on the full MedlinePlus site (<http://medlineplus.gov>), which has been online since 1998. In November 2011, NLM started a 12 month formal evaluation of MedlinePlus Mobile.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/medline\_plus\__app.jpg" alt="Medline Plus Mobile" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/medline_plus__app.jpg)The National Library of Medicine (NLM) launched MedlinePlus Mobile ([m.medlineplus.gov](http://m.medlineplus.gov)) in January 2010 to provide authoritative consumer-level health information to a growing audience of mobile Internet users. MedlinePlus Mobile is a mobile-optimized Web site that contains a subset of the content that users can find on the full MedlinePlus site (<http://medlineplus.gov>), which has been online since 1998. In November 2011, NLM started a 12 month formal evaluation of MedlinePlus Mobile.
 
 ## Why We Did It
 
@@ -36,7 +35,7 @@ Our study is centered around 3 questions:
 
 We are also looking at overview data for use of the mobile site and mobile use of the full site.
 
-For each of these questions, we have several data points and the data points come from a variety of sources. We are doing in-depth analysis of Web analytics data, from WebTrends and Google Analytics, user satisfaction survey responses from mobile-optimized version of the ACSI survey in both English and Spanish, and a usability lab test, which we conducted in February through GSA’s  First Fridays program, which provides usability lab tests for federal government websites.
+For each of these questions, we have several data points and the data points come from a variety of sources. We are doing in-depth analysis of Web analytics data, from WebTrends and Google Analytics, user satisfaction survey responses from mobile-optimized version of the ACSI survey in both English and Spanish, and a usability lab test, which we conducted in February through GSA’s First Fridays program, which provides usability lab tests for federal government websites.
 
 Here are the questions we&#8217;re asking in our survey:
 

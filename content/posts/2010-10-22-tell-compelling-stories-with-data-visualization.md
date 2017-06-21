@@ -1,9 +1,10 @@
 ---
-
+url: /2010/10/22/tell-compelling-stories-with-data-visualization/
 date: 2010-10-22 11:33:15 -0400
-title: 'Tell Compelling Stories with Data Visualization'
-summary: 'No information is more critical to your work than the numbers that reveal what’s happening, how you&rsquo;re performing, and opportunities to do better. GovTech provides ten&nbsp;tips for&nbsp;getting the most from your data visualizations. The tips include\: Use layers to tell a story Involve users in the design Be aware of&nbsp;multiple&nbsp;platforms Use style to tell a'
-authors: [apiazza]
+title: Tell Compelling Stories with Data Visualization
+summary: 'No information is more critical to your work than the numbers that reveal what&rsquo;s happening, how you&rsquo;re performing, and opportunities to do better. GovTech provides ten&nbsp;tips for&nbsp;getting the most from your data visualizations. The tips include: Use layers to tell a story Involve users in the design Be aware of&nbsp;multiple&nbsp;platforms Use style to tell a'
+authors:
+  - apiazza
 categories:
   - Data
   - Metrics
@@ -13,7 +14,7 @@ tag:
   - data visualization
 ---
 
-No information is more critical to your work than the numbers that reveal what’s  happening, how you’re performing, and opportunities to do better.
+No information is more critical to your work than the numbers that reveal what’s happening, how you’re performing, and opportunities to do better.
 
 GovTech provides ten tips for [getting the most from your data visualizations](http://www.govtech.com/pcio/10-Tips-for-Data-Visualization.html "GovTech's ten tips for getting the most from your data visualizations").
 

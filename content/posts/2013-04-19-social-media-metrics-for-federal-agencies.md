@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/04/19/social-media-metrics-for-federal-agencies/
 date: 2013-04-19 11:45:50 -0400
-title: 'Social Media Metrics for Federal Agencies'
+title: Social Media Metrics for Federal Agencies
 summary: 'Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis&mdash;using the vast amount'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Metrics
   - Social Media
@@ -12,8 +12,7 @@ tag:
   - SocialGov
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics-250x118.jpg" alt="Image of visualized performance metrics. " %}
-Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as “social data”).
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics-250x118.jpg" alt="Image of visualized performance metrics. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg)Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as “social data”).
 
 Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
@@ -429,11 +428,11 @@ Direct engagement measures the extent to which a visitor uses the social media c
 
 ### Engagement Volume
 
-**How to Use It**—Provides metrics on the volume and frequency of an agency’s  engagements with citizens.
+**How to Use It**—Provides metrics on the volume and frequency of an agency’s engagements with citizens.
 
 **Benefits and Considerations**—The analysis allows you to identify trends in what your community values, and what elicits engagements in response. This analysis can then be applied to other strategies and tactics in order to refine your engagements. This data allows you to, in comparison with other volume-based metrics, determine the frequency and effectiveness of your engagements.
 
-**How to Measure**—The high-level data represented in this category is collected and reported through the native analytics programs for each individual tool—Twitter Analytics, Facebook Insights, and YouTube Analytics. Google+ currently has a limited native analytics tool called Ripples, but they plan to release a more robust version with features similar to the others. In the meantime, Hootsuite may be used to track the provided metrics for Google+. Tumblr notes can be most easily counted by viewing the account’s  archive.
+**How to Measure**—The high-level data represented in this category is collected and reported through the native analytics programs for each individual tool—Twitter Analytics, Facebook Insights, and YouTube Analytics. Google+ currently has a limited native analytics tool called Ripples, but they plan to release a more robust version with features similar to the others. In the meantime, Hootsuite may be used to track the provided metrics for Google+. Tumblr notes can be most easily counted by viewing the account’s archive.
 
 &nbsp;
 
@@ -620,7 +619,7 @@ Customer experience is derived from sentiment, surveys, and high-tier social dat
 
 **Privacy Act**—It is important to note that [The Privacy Act of 1974](http://www.justice.gov/opcl/1974privacyact-overview.htm) (5 U.S.C. § 552a) includes provisions, supported through guidance from OMB, that protect personally identifiable information (PII) of citizens. As a result, when analyzing customer experience data agencies should take precautions not to report information that can be used to uniquely identify, contact, or locate a single person or can be used with other sources to uniquely identify a single individual. Most commonly this will be in the form of user names, which is why it is not recommended to list “Top Influencers,” a common metric for the private sector.
 
-**OMB Guidance on Privacy**—OMB Memorandum M-10-23 [Guidance for Agency Use of Third-Party Websites and Applications](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf) (PDF, 103 KB, 9 pages, June 2010) states in Section 3.e, that If information is collected through an agency’s  use of a third-party website or application, the agency should collect only the information “necessary for the proper performance of agency functions and which has practical utility. If personally identifiable information (PII) is collected, the agency should collect only the minimum necessary to accomplish a purpose required by statute, regulation, or executive order.”
+**OMB Guidance on Privacy**—OMB Memorandum M-10-23 [Guidance for Agency Use of Third-Party Websites and Applications](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf) (PDF, 103 KB, 9 pages, June 2010) states in Section 3.e, that If information is collected through an agency’s use of a third-party website or application, the agency should collect only the information “necessary for the proper performance of agency functions and which has practical utility. If personally identifiable information (PII) is collected, the agency should collect only the minimum necessary to accomplish a purpose required by statute, regulation, or executive order.”
 
 Agencies as a result may analyze useful aggregated data that is not personally identifiable such as sentiment, demographics, feedback and community characteristics. Social media managers should meet with their legal counsel and privacy officers when developing analysis strategy to ensure that appropriate agency policies are followed, and any necessary protections are in place.
 
@@ -668,9 +667,9 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 ### Indicators
 
-**How to Use It**—Provides information on characteristics that influence or are associated with an agency’s  social programs.
+**How to Use It**—Provides information on characteristics that influence or are associated with an agency’s social programs.
 
-**Benefits and Considerations**—The analysis allows you to identify trends in what your community values, and what elicits engagements in response. This analysis can then be applied to other strategies and tactics in order to refine your engagements. Identifying indicators and trends associated with them are also an initial step towards predictive analysis capabilities, as exemplified by the [CDC’s  flu outbreak program](http://fcw.com/articles/2013/01/25/flu-social-media.aspx) and [USGS’s  earthquake early warning detection system](http://fcw.com/articles/2013/02/06/twitter-earthquake.aspx).
+**Benefits and Considerations**—The analysis allows you to identify trends in what your community values, and what elicits engagements in response. This analysis can then be applied to other strategies and tactics in order to refine your engagements. Identifying indicators and trends associated with them are also an initial step towards predictive analysis capabilities, as exemplified by the [CDC’s flu outbreak program](http://fcw.com/articles/2013/01/25/flu-social-media.aspx) and [USGS’s earthquake early warning detection system](http://fcw.com/articles/2013/02/06/twitter-earthquake.aspx).
 
 **How to Measure**—Like sentiment, this metric is commonly available through free online tools. Before using a tool agencies should consult with their legal counsel whether the Terms of Service are acceptable to their agency, or contact GSA to explore negotiating federal-friendly terms.
 
@@ -724,7 +723,7 @@ Agencies as a result may analyze useful aggregated data that is not personally i
 
 ### Survey Feedback
 
-**How to Use It**—Provides key results of customer satisfaction surveys conducted for an agency’s  social community.
+**How to Use It**—Provides key results of customer satisfaction surveys conducted for an agency’s social community.
 
 **Benefits and Considerations**—Surveys are one of the universal ways to measure customer feedback through mail, the phone, websites and now social media. Like its technological predecessors, however, response percentages to surveys can be quite low, and must be put into context as a result. It is recommended agencies use surveys around targeted campaigns especially, as citizens are more likely to respond if they are invested in the program.
 
@@ -782,7 +781,7 @@ Campaign analysis reports how specific programs and tactics perform using the co
 
 **How to Use It**—Provides coordinated analysis of the performance of short-term projects or long-term programs.
 
-**Benefits and Considerations**—The analysis allows you to identify trends in how an agency’s  coordinated social projects perform, which may then be refined to better impact strategic goals. This data can be used to improve tactics in the short-term, or feed the development of long-term programs. The reporting of Campaigns provides the opportunity to not just report numbers, but illustrate what those numbers mean. Each agency will likely have a unique application of metrics in the Campaign section, given the diversity of organization needs even in pursuit of shared mission objectives.
+**Benefits and Considerations**—The analysis allows you to identify trends in how an agency’s coordinated social projects perform, which may then be refined to better impact strategic goals. This data can be used to improve tactics in the short-term, or feed the development of long-term programs. The reporting of Campaigns provides the opportunity to not just report numbers, but illustrate what those numbers mean. Each agency will likely have a unique application of metrics in the Campaign section, given the diversity of organization needs even in pursuit of shared mission objectives.
 
 **How to Measure**—Campaigns are measured through combinations of metrics, based on the desired outcomes of the activity and characteristics such as community size, engagement levels and responsiveness.
 
@@ -854,7 +853,7 @@ Strategic Outcome analysis reports how the performance of social media strategie
 
 **How to Use It**—Provides in-depth analysis that directly links social performance metrics with mission impact.
 
-**Benefits and Considerations**—This section may be the most critical for agencies to report—how the performance of their social programs pursue and achieve mission goals of the organization. Each month, no matter how an agency functionally uses social media, it is recommended there should be items to report. If there are no compelling examples of clear impact on organizational goals, it’s  an indicator that you should revisit your strategy and policies.
+**Benefits and Considerations**—This section may be the most critical for agencies to report—how the performance of their social programs pursue and achieve mission goals of the organization. Each month, no matter how an agency functionally uses social media, it is recommended there should be items to report. If there are no compelling examples of clear impact on organizational goals, it’s an indicator that you should revisit your strategy and policies.
 
 **How to Measure**—Strategic Outcomes are reported narratively through combinations of metrics, campaigns and the goals of your organization.
 

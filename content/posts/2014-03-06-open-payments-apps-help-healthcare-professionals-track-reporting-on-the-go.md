@@ -1,10 +1,8 @@
 ---
-
-
+url: /2014/03/06/open-payments-apps-help-healthcare-professionals-track-reporting-on-the-go/
 date: 2014-03-06 10:30:22 -0400
-title: 'Open Payments Apps Help Healthcare Professionals Track Reporting On The Go'
-summary: 'The Affordable Care Act (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements. And not only is the healthcare changing but also are the'
-authors: [admin]
+title: Open Payments Apps Help Healthcare Professionals Track Reporting On The Go
+summary: The Affordable Care Act (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements. And not only is the healthcare changing but also are the
 categories:
   - Mobile
 tag:
@@ -28,8 +26,7 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
   * Avoid conflicts of interest that can compromise clinical integrity and patient care; and
   * Minimize risk of increased health care costs.&#8221;
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." %}
- 
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
 
 &nbsp;
 

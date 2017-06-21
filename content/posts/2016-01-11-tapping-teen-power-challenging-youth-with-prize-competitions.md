@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/11/tapping-teen-power-challenging-youth-with-prize-competitions/
 date: 2016-01-11 10:30:05 -0400
-title: 'Tapping &lsquo;Teen Power&rsquo;&mdash;Challenging Youth with Prize Competitions'
+title: Tapping ‘Teen Power’—Challenging Youth with Prize Competitions
 summary: 'Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a&nbsp;NASA challenge&nbsp;that asked&nbsp;students to develop devices that could protect astronauts from radiation during space flight.'
-authors: [eric-beidel]
+authors:
+  - eric-beidel
 categories:
   - Challenges
 tag:
@@ -16,8 +16,7 @@ tag:
   - NSF
 ---
 
-Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-High-School-Students-Create-Winning-Design-for-NASAs-First-Flight-of-Orion-14-119-edc_0.jpg" alt="NASA’s  Administrator, Charles Bolden (left), Marillyn Hewson, President/CEO of Lockheed Martin (right), and astronaut Rex Walheim (back) stand with Team ARES, from the Governors School for Science and Technology in Hampton, Va., winners of the Exploration Design Challenge high school competition." %} 
+Sometimes in crowdsourcing, you want to take your problem straight to a specific crowd. And sometimes that crowd is still in school. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-High-School-Students-Create-Winning-Design-for-NASAs-First-Flight-of-Orion-14-119-edc_0.jpg" alt="NASA’s Administrator, Charles Bolden (left), Marillyn Hewson, President/CEO of Lockheed Martin (right), and astronaut Rex Walheim (back) stand with Team ARES, from the Governors School for Science and Technology in Hampton, Va., winners of the Exploration Design Challenge high school competition." %} 
 
 Challenge.gov has seen many federal agencies launch prize competitions to educate and engage high school students. These include a [NASA challenge](http://www.nasa.gov/press/2014/april/high-school-students-create-winning-design-for-nasas-first-flight-of-orion/#.Vorwk5MrIdV) that asked students to develop devices that could protect astronauts from radiation during space flight.
 
@@ -25,10 +24,9 @@ Two current challenges also take this approach, hoping to inspire students to be
 
 ## Congressional Apps Challenge
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/250-x-154-congressional-app-challenge-logo-square.jpg" alt="2015 Congressional App Challenge (CAC) logo" %}Recognizing the need to expand the reach of coding and computer science training, the U.S. House of Representatives recently launched the 2015 [Congressional App Challenge](http://www.congressionalappchallenge.us/participating-districts/) (CAC).
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/250-x-154-congressional-app-challenge-logo-square.jpg" alt="2015 Congressional App Challenge (CAC) logo" %}Recognizing the need to expand the reach of coding and computer science training, the U.S. House of Representatives recently launched the 2015 [Congressional App Challenge](http://www.congressionalappchallenge.us/participating-districts/) (CAC).
-
-The CAC is an initiative to improve student engagement in coding and computer science by having members of Congress host app competitions in their districts. High school students are invited to create any type of app and make their submission on their member’s  [Challenge.gov page](https://www.challenge.gov/list/) by January 21st.
+The CAC is an initiative to improve student engagement in coding and computer science by having members of Congress host app competitions in their districts. High school students are invited to create any type of app and make their submission on their member’s [Challenge.gov page](https://www.challenge.gov/list/) by January 21st.
 
 There are currently 169 members of Congress from 42 states signed up to participate in the challenge, which is the only one of its kind. No other app challenge runs in 175 districts across the United States simultaneously.
 
@@ -56,11 +54,10 @@ Generation Nano will show students how science and technology influence what may
 
 And they’ve got real-life examples to inspire them: In a recent comic, Iron Man revealed that he has a faceplate made of graphene, an atomically thin carbon material that is stronger than most metals and could protect him from bullets.
 
-It’s  just the kind of detail that can get students interested in STEM and perhaps put them on a path toward a career in the sciences.
+It’s just the kind of detail that can get students interested in STEM and perhaps put them on a path toward a career in the sciences.
 
-That’s  the hope for Generation Nano, CAC and several other challenges aimed at high school students.
+That’s the hope for Generation Nano, CAC and several other challenges aimed at high school students.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-450-National-Science-Foundation-NSF-Generation-Nano-Small-Science-Superheroes-design-challenge-website.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-450-National-Science-Foundation-NSF-Generation-Nano-Small-Science-Superheroes-design-challenge-website.jpg" alt="Screen capture of the National Science Foundation's "Generation Nano: Small Science, Superheroes" design challenge website." %}
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

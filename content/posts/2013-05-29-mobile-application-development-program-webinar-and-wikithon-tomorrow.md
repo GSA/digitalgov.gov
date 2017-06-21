@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/29/mobile-application-development-program-webinar-and-wikithon-tomorrow/
 date: 2013-05-29 10:00:43 -0400
-title: 'Mobile Application Development Program Webinar and Wikithon Tomorrow!'
+title: Mobile Application Development Program Webinar and Wikithon Tomorrow!
 summary: ' Anytime, anywhere government information and services are becoming more important as the public increasingly consumes information and services on the go. As we announced last week, agencies can now get assistance with their mobile development efforts with our new Mobile Application Development Program. Tomorrow, we will host a'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Code
   - Mobile
@@ -12,8 +12,7 @@ tag:
   - mobile gov
 ---
 
-{% include image/full-width.html img="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" %}
-
+[{% img="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" %}](http://gsablogs.gsa.gov/dsic/get-it-done/mobile-application-development-program/)
 
 Anytime, anywhere government information and services are becoming more important as the [public increasingly consumes information and services on the go](http://howtomobile.apps.gov/2013/05/21/smartphone-trends-2013/ "Trends on Tuesday: Smartphone Trends 2013").
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/06/17/trends-on-tuesday-mobile-location-data/
 date: 2014-06-17 10:00:38 -0400
-title: 'Trends on Tuesday\: Mobile Location Data Improving'
-summary: 'Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in targeted'
-authors: [tjohnson]
+title: 'Trends on Tuesday: Mobile Location Data Improving'
+summary: Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in targeted
+authors:
+  - tjohnson
 categories:
   - Mobile
   - Monthly Theme
@@ -20,10 +20,9 @@ tag:
   - USPS
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." %}Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to <a title="Thinknear" href="http://www.mobilemarketingwatch.com/mobile-marketers-are-you-near-me-now-41998/" target="_blank">Thinknear</a>, a leader in targeted mobile advertising, that future may soon be a reality.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." %}Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to <a title="Thinknear" href="http://www.mobilemarketingwatch.com/mobile-marketers-are-you-near-me-now-41998/" target="_blank">Thinknear</a>, a leader in targeted mobile advertising, that future may soon be a reality.
-
-Here’s  what Thinknear found when measuring the accuracy of location data used in mobile advertising:
+Here’s what Thinknear found when measuring the accuracy of location data used in mobile advertising:
 
   * 67% of ad inventory comes with latitude and longitude information compared to 10% a few years ago
   * 34% of mobile impressions are accurate within 100 meters; 9% are between 100 meters and 1000 meters; and 30% are between 1,000 meters and 10,000 meters

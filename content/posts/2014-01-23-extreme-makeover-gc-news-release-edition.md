@@ -1,20 +1,19 @@
 ---
-
-
+url: /2014/01/23/extreme-makeover-gc-news-release-edition/
 date: 2014-01-23 10:01:34 -0400
-title: 'Extreme Makeover\: GC News Release Edition'
+title: 'Extreme Makeover: GC News Release Edition'
 summary: ' The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels. The old style release'
-authors: [communications-community-office-government-of-canada]
+authors:
+  - communications-community-office-government-of-canada
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - social media
 ---
 
 <div>
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2-250x126.jpg" alt="Canadian flag with a maple leaf in the center" %}</a></p> 
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2-250x126.jpg" alt="Canadian flag with a maple leaf in the center" %}</a></p> 
   
   <p dir="ltr">
     The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels.
@@ -25,12 +24,11 @@ tag:
   </p>
 </div>
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg" alt="Digital friendly press release from Canada " %}
-For communicators, the changes mean they can use their creativity to:
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg" alt="Digital friendly press release from Canada " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg)For communicators, the changes mean they can use their creativity to:
 
   * Develop catchy headlines and sub-headlines
   * Write concise and clear opening paragraphs that contain the 5 Ws (who, what, where, when, why)
-  * Select key facts that capture the reader’s  attention
+  * Select key facts that capture the reader’s attention
   * Draft quotes that are meaningful and succinct
   * Repurpose the quick facts and quotes for Facebook and Twitter posts, and
   * Offer associated links that provide additional context to help the reader better understand the issue.

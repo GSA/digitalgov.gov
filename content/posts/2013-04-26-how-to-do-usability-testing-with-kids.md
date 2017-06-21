@@ -1,12 +1,12 @@
 ---
-
-
+url: /2013/04/26/how-to-do-usability-testing-with-kids/
 date: 2013-04-26 5:02:56 -0400
-title: 'How to Do Usability Testing with Kids'
+title: How to Do Usability Testing with Kids
 summary: ' What do kids know about Web design? As we found out, quite a lot. Recently our&nbsp;DigitalGov User Experience Program&nbsp;teamed up with the&nbsp;Kids.gov&nbsp;team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made'
-authors: [jonathan-rubin]
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -17,16 +17,15 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" %}
+{% img="https://www.WHATEVER/files/2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" %}
 
 What do kids know about Web design? As we found out, quite a lot.
 
 Recently our [DigitalGov User Experience Program](https://www.WHATEVER/resources/user-experience-program/) teamed up with the [Kids.gov](http://www.kids.gov/) team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made possible by “Take Your Child to Work Day.” We also tweeted some results under the hashtag [#kidsgovtest](https://twitter.com/search?q=kidsgovtest&src=typd "kidsgovtest")
 
-We turned the lunchroom into our testing area, and set up laptops, balloons, markers and a good supply of sugar. Our goal: To get user feedback on Kids.gov’s  design, navigation, and content.
+We turned the lunchroom into our testing area, and set up laptops, balloons, markers and a good supply of sugar. Our goal: To get user feedback on Kids.gov’s design, navigation, and content.
 
-Because children’s  brains change so much as they age, we created two sets of tasks: one for ages 4-6 and one for 7-14. We had the parents sign permission forms so we could take photos, and then some stayed to watch their kids while others let them free. (Only one parent tried answering questions for their child—the rest let them do the talking).
+Because children’s brains change so much as they age, we created two sets of tasks: one for ages 4-6 and one for 7-14. We had the parents sign permission forms so we could take photos, and then some stayed to watch their kids while others let them free. (Only one parent tried answering questions for their child—the rest let them do the talking).
 
 Tests ranged from two minutes to about 10 at the most, and thankfully the kids were very candid:
 

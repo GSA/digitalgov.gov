@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/09/caution-your-web-analytics-might-not-be-human/
 date: 2015-09-09 10:00:14 -0400
-title: 'Caution\: Your Web Analytics Might Not Be Human'
-summary: 'A Digital Analytics Program (DAP) user recently contacted me with an observation/problem\: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing,'
-authors: [tlowden]
+title: 'Caution: Your Web Analytics Might Not Be Human'
+summary: 'A Digital Analytics Program (DAP) user recently contacted me with an observation/problem: The data he had from his website&rsquo;s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing,'
+authors:
+  - tlowden
 categories:
   - Metrics
   - Monthly Theme
@@ -15,12 +15,11 @@ tag:
   - Digital Analytics Program
 ---
 
-A <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s  independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
+A <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program (DAP)</a> user recently contacted me with an observation/problem: The data he had from his website’s independent Web-analytics account was much, much higher than the data he was receiving in the DAP user interface. Theoretically, both tools (in this case, two separate Google Analytics accounts), were trying to measure the same thing, and he couldn’t figure out why the numbers would be so different.
 
 When I say different, I mean substantially so. Looking at the pageviews metric, the agency implementation was reporting almost 33% MORE views than DAP. Naturally, he hoped that the higher numbers were the “correct” ones, and somehow, the DAP numbers were incorrect.
 
-The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" %} 
+The first thing I told him was that, unfortunately, the two numbers will never be <a href="http://fivethirtyeight.com/features/why-we-still-cant-agree-on-web-metrics/" target="_blank">exactly the same</a>. Tracking with two different tools or in this case, even two instances of the same tool, won’t end up reporting perfect matches (since the DAP code is custom-built). That said, a 33% delta was far too much; and after some thought, I figured out what the main problem was. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Robot-Spider-with-clipping-path-Linda-Bucklin-iStock-Thinkstock-139863441.jpg" alt="Illustration of a robot spider" %} 
 
 Spiders.
 
@@ -28,8 +27,7 @@ Ok, not just spiders, but spiders and robots—of the digital kind. <a href="htt
 
 In the summer of 2014, <a href="https://plus.google.com/+GoogleAnalytics/posts/2tJ79CkfnZk" target="_blank">Google announced</a> that it had added a new feature to Google Analytics that filters out bots and spiders based on a <a href="http://www.iab.net/1418/spiders" target="_blank">constantly updated list</a> that usually costs thousands of dollars to access. In autumn 2014, the DAP staff chose to implement the filter, which can be done in a click.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/328-x-74-Bot-Filter.jpg" alt="Screen capture of a bot filter" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/328-x-74-Bot-Filter.jpg" alt="Screen capture of a bot filter" %}
 
 So I asked the DAP user if this option was enabled in his independent implementation (by default in Google Analytics, it is NOT turned on), and he responded that it was not, but that he’d turn it on to give it a shot.
 

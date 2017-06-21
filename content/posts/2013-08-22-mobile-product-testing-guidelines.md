@@ -1,13 +1,13 @@
 ---
-
-
+url: /2013/08/22/mobile-product-testing-guidelines/
 date: 2013-08-22 1:45:01 -0400
-title: 'Mobile Product Testing Guidelines and Resources'
-summary: 'You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages. This article was developed as part of the Mobile Application Development Program to provide agencies with some general testing strategies, types,'
-authors: [jparcell]
+title: Mobile Product Testing Guidelines and Resources
+summary: You have started developing your mobile product, but you may be wondering what and how to test. As with any form of software development, mobile testing should be done intermittently throughout all development stages. This article was developed as part of the Mobile Application Development Program to provide agencies with some general testing strategies, types,
+authors:
+  - jparcell
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - mobile apps
   - user experience
@@ -36,7 +36,7 @@ In June 2012, the testing group at NIH provided guidance on different types of m
 
 ### <a name="x-General Testing Strategies-Emulators/simulators (Native Apps)"></a>**Emulators/simulators (Native Apps)** {#toc2}
 
-  * Possibly the most convenient and cheapest. Testing can be done on the developer’s  laptop.
+  * Possibly the most convenient and cheapest. Testing can be done on the developer’s laptop.
   * Can test design (e.g. layout, screen size), usability (e.g. button usage), functionality (e.g data input), etc.
   * Many app companies use simulators to identify bugs at the early stages of development.
   * Not always specific enough – not OS, device/hardware or carrier specific.
@@ -107,7 +107,7 @@ In June 2012, the testing group at NIH provided guidance on different types of m
   * [Load and Performance](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing") 
       * Test for lagging issues on lesser-ended devices/hardware.
       * Test download speeds on different networks in different areas.
-      * Battery usage – does the app heavily drain the device’s  battery.
+      * Battery usage – does the app heavily drain the device’s battery.
       * Scalability &#8212; ensure the app can handle the success scenario of getting used by a large group of people 
           * Web services available to mimic load
           * Utest

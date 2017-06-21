@@ -1,10 +1,11 @@
 ---
-
-
+url: /2014/09/05/getting-it-done-with-open-opportunities-the-case-of-the-mobile-code-catalog/
 date: 2014-09-05 10:30:00 -0400
-title: 'Getting it Done with Open Opportunities\: The Case of the Mobile Code Catalog'
-summary: 'Imagine open source code, publicly available to share, that jump starts your agency’s mobile development efforts. Pretty neat idea, huh? Well last year it became a reality with the Mobile Code Catalog. This idea was the brainchild of Mike Pulsifer, who, as the Technical Manager for the Division of Enterprise Communications, Office of Public Affairs,'
-authors: [jparcell, lnelson]
+title: 'Getting it Done with Open Opportunities: The Case of the Mobile Code Catalog'
+summary: 'Imagine open source code, publicly available to share, that jump starts your agency&rsquo;s mobile development efforts. Pretty neat idea, huh? Well last year it became a reality with the Mobile Code Catalog. This idea was the brainchild of Mike Pulsifer, who, as the Technical Manager for the Division of Enterprise Communications, Office of Public Affairs,'
+authors:
+  - jparcell
+  - lnelson
 categories:
   - Mobile
 tag:
@@ -19,10 +20,9 @@ tag:
   - U.S. National Park Service
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" %} 
-
-Imagine open source code, publicly available to share, that jump starts your agency’s  mobile development efforts.
+Imagine open source code, publicly available to share, that jump starts your agency’s mobile development efforts.
 
 Pretty neat idea, huh? Well last year it [became a reality](https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/ "Federal Mobile Code Sharing Catalog Is Here") with the Mobile Code Catalog.
 
@@ -42,7 +42,7 @@ If you’re interested in building on these efforts or helping other programs ge
 
 ## Open Opportunities Tips
 
-For those who have ideas they want to make reality through the Open Opportunities program—here are a few of Mike’s  tips for maximizing your Open Opportunities experience:
+For those who have ideas they want to make reality through the Open Opportunities program—here are a few of Mike’s tips for maximizing your Open Opportunities experience:
 
   1. Make sure you set aside the chunk of time to complete the task—or if you have a chaotic schedule that precludes you from taking a chunk of time, make sure you can fit it in the gaps that exist as the week unfolds.
   2. Seize the opportunity to make connections outside of your agency and across the federal government—it is a great chance to expand your network and resume.

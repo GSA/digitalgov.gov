@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/23/competitions-launch-start-ups-and-engage-entrepreneurs/
 date: 2015-04-23 11:30:50 -0400
-title: 'Competitions Launch Start-ups and Engage Entrepreneurs'
+title: Competitions Launch Start-ups and Engage Entrepreneurs
 summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy&nbsp;site, which include the &amp;#8220;needle in the haystack&amp;#8221; solvers for a space mass competition and eleven entrepreneurial'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
   - Communities
@@ -18,8 +18,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" %}
 
 When people hear about challenge competitions, they most often ask about the results. What worked and why did it work?
 
@@ -29,16 +28,15 @@ You&#8217;ll also read about how the <a href="https://www.WHATEVER/communities/c
 
 The competition highlights from NASA and the National Institutes of Health (NIH)  are re-printed below.
 
-## NASA’s  Mars Balance Mass Challenge
+## NASA’s Mars Balance Mass Challenge
 
-When NASA’s  Curiosity rover pummeled through the Martian atmosphere and came to rest on the surface of Mars in 2012, about 300 kilograms of solid tungsten mass had to be jettisoned to ensure the spacecraft was in a safe orientation for landing. In an effort to seek creative concepts for small science and technology payloads that could potentially replace a portion of such jettisoned mass on future missions, NASA released the Mars Balance Mass Challenge.
+When NASA’s Curiosity rover pummeled through the Martian atmosphere and came to rest on the surface of Mars in 2012, about 300 kilograms of solid tungsten mass had to be jettisoned to ensure the spacecraft was in a safe orientation for landing. In an effort to seek creative concepts for small science and technology payloads that could potentially replace a portion of such jettisoned mass on future missions, NASA released the Mars Balance Mass Challenge.
 
-In only two months, over 200 concepts were submitted by over 2,100 individuals from 43 different countries for NASA to review. Proposed concepts ranged from small drones and 3D printers to radiation detectors and pre-positioning supplies for future human missions to the planet’s  surface.
+In only two months, over 200 concepts were submitted by over 2,100 individuals from 43 different countries for NASA to review. Proposed concepts ranged from small drones and 3D printers to radiation detectors and pre-positioning supplies for future human missions to the planet’s surface.
 
-<a href="http://www.nasa.gov/content/nasa-announces-winning-ideas-for-mars-balance-mass-challenge/" target="_blank">NASA awarded the $20,000 prize</a> to Ted Ground of Rising Star, Texas, for his idea to use the jettisoned payload to investigate the Mars atmosphere in a way similar to how NASA uses sounding rockets to study Earth’s  atmosphere. This was the first time Ted worked with NASA, and NASA was impressed by the novelty and elegance of his proposal: a proposal that NASA likely would not have received through a traditional contract or grant because individuals, as opposed to organizations, are generally not eligible to participate in those types of competitions.
+<a href="http://www.nasa.gov/content/nasa-announces-winning-ideas-for-mars-balance-mass-challenge/" target="_blank">NASA awarded the $20,000 prize</a> to Ted Ground of Rising Star, Texas, for his idea to use the jettisoned payload to investigate the Mars atmosphere in a way similar to how NASA uses sounding rockets to study Earth’s atmosphere. This was the first time Ted worked with NASA, and NASA was impressed by the novelty and elegance of his proposal: a proposal that NASA likely would not have received through a traditional contract or grant because individuals, as opposed to organizations, are generally not eligible to participate in those types of competitions.
 
-## NIH Breast Cancer Startup Challenge (BCSC) 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-375-X-ray-machine-for-mammograms-Jupiterimages-Polka-Dot-Thinkstock-ThinkstockPhotos-86516764.jpg" alt="X-ray machine for mammograms" %} 
+## NIH Breast Cancer Startup Challenge (BCSC) {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-375-X-ray-machine-for-mammograms-Jupiterimages-Polka-Dot-Thinkstock-ThinkstockPhotos-86516764.jpg" alt="X-ray machine for mammograms" %} 
 
 The primary goals of the BCSC were to accelerate the process of bringing emerging breast cancer technologies to market and to stimulate the creation of start-up businesses around nine federally conceived and owned inventions and one invention from an Avon Foundation for Women portfolio grantee.
 

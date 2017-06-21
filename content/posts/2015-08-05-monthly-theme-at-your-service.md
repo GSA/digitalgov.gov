@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/05/monthly-theme-at-your-service/
 date: 2015-08-05 10:16:31 -0400
-title: 'Monthly Theme\: At Your Service'
+title: 'Monthly Theme: At Your Service'
 summary: 'In this digital age, we know customers expect their government interactions to be on the same level as their interactions with the private sector. Agencies are always striving to improve the quality of their services to meet their customers&rsquo; needs. So too in our office, where we use the feedback, you, our agency customers, provide'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Monthly Theme
   - Our Work
@@ -16,7 +16,7 @@ tag:
 
 In this digital age, we know customers expect their government interactions to be on the same level as their interactions with the private sector. Agencies are always striving to improve the quality of their services to meet their customers’ needs. So too in our office, where we use the feedback, you, our agency customers, provide to help us improve our programs.
 
-For this month’s  theme, we are looking at how some of our services can help you better meet the needs of your customers.
+For this month’s theme, we are looking at how some of our services can help you better meet the needs of your customers.
 
 A few of the highlights include:
 

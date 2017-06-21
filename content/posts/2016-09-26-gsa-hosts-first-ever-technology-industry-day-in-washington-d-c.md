@@ -1,15 +1,15 @@
 ---
-
-
+url: /2016/09/26/gsa-hosts-first-ever-technology-industry-day-in-washington-d-c/
 date: 2016-09-26 10:00:53 -0400
-title: 'GSA Hosts First-Ever Technology Industry Day in Washington, D.C.'
-summary: 'Private industry and government came together to find best ways to deliver 21st century technology to federal agencies. On September 8, 2016 Administrator Denise Turner Roth of the U.S. General Services Administration (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s path to improve the government’s outdated technology systems. The'
-authors: [gsa-blog-team]
+title: GSA Hosts First-Ever Technology Industry Day in Washington, D.C.
+summary: 'Private industry and government came together to find best ways to deliver 21st century technology to federal agencies. On September 8, 2016 Administrator Denise Turner Roth of the U.S. General Services Administration (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA&rsquo;s path to improve the government&rsquo;s outdated technology systems. The'
+authors:
+  - gsa-blog-team
 categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -26,7 +26,7 @@ tag:
   - innovation
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - summit
   - Technology Industry Day
@@ -36,10 +36,9 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" %} 
+_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" %} 
 
-On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Services Administration](http://www.gsa.gov/) (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s  path to improve the government’s  outdated technology systems. The event featured how GSA buys, builds and shares technology for the federal government.
+On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Services Administration](http://www.gsa.gov/) (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s path to improve the government’s outdated technology systems. The event featured how GSA buys, builds and shares technology for the federal government.
 
 &#8220;The General Services Administration has a long history of being a strong leader in adopting technology in government,&#8221; said Administrator Roth when giving her opening remarks at GSA&#8217;s Technology Industry Day.
 
@@ -55,7 +54,7 @@ On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Servi
 
 
 
-In a moderated panel, the leadership team shared their insights about the future of GSA’s  role in making it easier for agencies to create and buy technology. The panel included GSA Administrator Denise Turner Roth, Acting [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) Commissioner David Shive, Chief Technology Officer Navin Vembar, Assistant Commissioner of [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) Mary Davie and Executive Director of [18F](http://www.gsa.gov/portal/content/124182) Aaron Snow.
+In a moderated panel, the leadership team shared their insights about the future of GSA’s role in making it easier for agencies to create and buy technology. The panel included GSA Administrator Denise Turner Roth, Acting [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) Commissioner David Shive, Chief Technology Officer Navin Vembar, Assistant Commissioner of [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) Mary Davie and Executive Director of [18F](http://www.gsa.gov/portal/content/124182) Aaron Snow.
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">

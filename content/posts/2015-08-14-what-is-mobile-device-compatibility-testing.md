@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/14/what-is-mobile-device-compatibility-testing/
 date: 2015-08-14 11:10:12 -0400
-title: 'What Is Mobile Device Compatibility Testing?'
-summary: 'In most instances, your hardware and software are developed independently but are expected to function properly together. For example, when a Web application is developed in HTML, it is expected to function properly on an Apple computer using Safari as well as a Windows computer using Internet Explorer. This sounds simple, but there are thousands'
-authors: [david-fern]
+title: What Is Mobile Device Compatibility Testing?
+summary: In most instances, your hardware and software are developed independently but are expected to function properly together. For example, when a Web application is developed in HTML, it is expected to function properly on an Apple computer using Safari as well as a Windows computer using Internet Explorer. This sounds simple, but there are thousands
+authors:
+  - david-fern
 categories:
   - Mobile
   - Monthly Theme
@@ -19,8 +19,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" %} 
 
 In most instances, your hardware and software are developed independently but are expected to function properly together.
 
@@ -61,8 +60,7 @@ That said, when using some automation tools, tests can be automated and executed
 
 Additionally, there are many tools available, such as [emulators and simulators](https://www.WHATEVER/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/), that reduce the need for physical devices for testing.
 
-## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" %} 
+## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" %} 
 
 The [Federal CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
 

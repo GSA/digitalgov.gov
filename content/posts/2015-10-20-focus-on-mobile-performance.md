@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/20/focus-on-mobile-performance/
 date: 2015-10-20 11:32:21 -0400
-title: 'Trends on Tuesday\: Focus on Mobile Performance to Provide Better Mobile Moments'
-summary: 'The New York Times recently published a report evaluating the cost of mobile ads on news websites and found that on many of the major sites, the ads were taking as much bandwidth and time as the content (if not more, in some cases). This comes after the recent hubub over Apple starting to allow'
-authors: [wsullivan]
+title: 'Trends on Tuesday: Focus on Mobile Performance to Provide Better Mobile Moments'
+summary: The New York Times recently published a report evaluating the cost of mobile ads on news websites and found that on many of the major sites, the ads were taking as much bandwidth and time as the content (if not more, in some cases). This comes after the recent hubub over Apple starting to allow
+authors:
+  - wsullivan
 categories:
   - Mobile
   - Monthly Theme
@@ -15,8 +15,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Skip-ad-sign-tzahiV-iStock-Thinkstock-475523390.jpg" alt="Skip ad sign" %} 
 
 The New York Times recently published a  [report evaluating the cost of mobile ads on news websites](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and found that on many of the major sites, the ads were taking as much bandwidth and time as the content (if not more, in some cases).
 

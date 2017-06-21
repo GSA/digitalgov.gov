@@ -1,14 +1,14 @@
 ---
-
-
+url: /2012/07/11/aids-gov-responsive-design/
 date: 2012-07-11 2:41:20 -0400
-title: 'AIDS.gov Responsive Design'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the webinar'
-authors: [jparcell]
+title: AIDS.gov Responsive Design
+summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the webinar
+authors:
+  - jparcell
 categories:
   - Design
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - HHS
@@ -17,8 +17,7 @@ tag:
   - responsive web design
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Aids.gov" %}
-Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
+_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Aids.gov" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
   
 _ 
 
@@ -47,7 +46,7 @@ Testing needs to occur not only in a office and in-house environment, but other 
 
 ## What&#8217;s Next
 
-Continue to expand the site’s  ability to perform on other devices from any screen, browser, or device fathomable. The site is relatively new so receiving more feedback will be a tangible goal in the near future.
+Continue to expand the site’s ability to perform on other devices from any screen, browser, or device fathomable. The site is relatively new so receiving more feedback will be a tangible goal in the near future.
 
 ## Contact
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/28/building-the-next-generation-of-government-innovators/
 date: 2015-10-28 11:10:07 -0400
-title: 'Building the Next Generation of Government Innovators'
-summary: 'Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI. AimHI is a pilot program to get high school students excited about careers in health information technology, medical devices and public service. Instead of traditional internships, which'
-authors: [awichman]
+title: Building the Next Generation of Government Innovators
+summary: Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI. AimHI is a pilot program to get high school students excited about careers in health information technology, medical devices and public service. Instead of traditional internships, which
+authors:
+  - awichman
 categories:
   - Our Work
 tag:
@@ -18,8 +18,7 @@ tag:
   - USDA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
 
 Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI.
 
@@ -29,7 +28,7 @@ Jessica Hernandez, Team Leader for Innovation and Technology Solutions at FDA an
 
 ## From Boot Camp to Shark Tank
 
-In June, the nine aimHI students went through an intensive three-day boot camp that introduced them to FDA, product development and lean start-up. After the boot camp, participants were charged with solving a problem for FDA’s  Center for Devices and Radiological Health.
+In June, the nine aimHI students went through an intensive three-day boot camp that introduced them to FDA, product development and lean start-up. After the boot camp, participants were charged with solving a problem for FDA’s Center for Devices and Radiological Health.
 
 “Over the course of five weeks, the students worked with mentors and expert coaches to transform from students with limited or no prior information technology experience to project managers, user researchers, designers and application developers,” Hernandez said.
 

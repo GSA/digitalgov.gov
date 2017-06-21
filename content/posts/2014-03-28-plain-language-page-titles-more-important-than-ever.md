@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/03/28/plain-language-page-titles-more-important-than-ever/
 date: 2014-03-28 1:00:27 -0400
-title: 'Plain Language Page Titles\: More Important than Ever'
-summary: 'Government Web pages are found mainly through search engines. Google recently redesigned its search results page and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. Many experts now recommend even shorter'
-authors: [ammie-farraj-feijoo]
+title: 'Plain Language Page Titles: More Important than Ever'
+summary: Government Web pages are found mainly through search engines. Google recently redesigned its search results page and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. Many experts now recommend even shorter
+authors:
+  - ammie-farraj-feijoo
 categories:
   - Content
   - Writing
@@ -13,8 +13,7 @@ tag:
   - search engine optimization
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" %}
-Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg)Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
 
 Many experts now recommend even shorter page titles. Below are a couple of articles (plus tools) to see how the change may affect your page titles:
 
@@ -30,7 +29,7 @@ In addition to the suggestions offered in our [previous article on Achieving Goo
   tag within the 
   
   <head>
-    .<br /> 2. There’s  no magic number, but around 55 characters or less is good.<br /> 3. There’s  no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p> 
+    .<br /> 2. There’s no magic number, but around 55 characters or less is good.<br /> 3. There’s no set syntax, but &#8220;Primary Keyword &#8211; Secondary Keyword | Brand Name&#8221; is good.</p> 
     
     <p>
       Below are a few articles on optimizing title tags for search engines:

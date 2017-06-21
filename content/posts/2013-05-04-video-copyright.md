@@ -1,17 +1,16 @@
 ---
-
-
+url: /2013/05/04/video-copyright/
 date: 2013-05-04 12:14:45 -0400
-title: 'Video copyright\: How to avoid getting sued'
+title: 'Video copyright: How to avoid getting sued'
 summary: ' Don&amp;#8217;t include Internet&nbsp;music, video, or graphics in your video unless you understand the copyright. Yes, this is a pain, but companies take copyright very seriously and regularly file both&nbsp;takedown notices&nbsp;and lawsuits against offenders. Numerous laws like the&nbsp;Digital Media Copyright Act&nbsp;(DMCA) discuss in great detail the &amp;#8220;ins'
-authors: [jonathan-rubin]
+authors:
+  - jonathan-rubin
 categories:
   - Content
   - Video
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic.jpg)
 
 <div id="content-area">
   <div id="node-5562">
@@ -36,7 +35,7 @@ categories:
     </p>
     
     <p>
-      Videos, blog posts, and music (especially music videos) are all examples of works automatically protected by copyright (and probably trademark law). They don’t need to say “copyright” or have a “©” mark next to it, either–once it’s  created, it’s  copyrighted.
+      Videos, blog posts, and music (especially music videos) are all examples of works automatically protected by copyright (and probably trademark law). They don’t need to say “copyright” or have a “©” mark next to it, either–once it’s created, it’s copyrighted.
     </p>
     
     <p>
@@ -44,7 +43,7 @@ categories:
     </p>
     
     <p>
-      When in doubt, consult your agency’s  Office of General Counsel.
+      When in doubt, consult your agency’s Office of General Counsel.
     </p>
     
     <h2>
@@ -90,7 +89,7 @@ categories:
     </p>
     
     <p>
-      The employee who creates a USGW cannot claim intellectual property rights on the work. Similarly, you can’t create a video using pieces of other people’s  work and call it your own.
+      The employee who creates a USGW cannot claim intellectual property rights on the work. Similarly, you can’t create a video using pieces of other people’s work and call it your own.
     </p>
     
     <p>
@@ -98,7 +97,7 @@ categories:
     </p>
     
     <p>
-      When in doubt, consult your agency’s  Office of General Counsel.
+      When in doubt, consult your agency’s Office of General Counsel.
     </p>
     
     <h2>
@@ -121,7 +120,7 @@ categories:
     </ul>
     
     <p>
-      When in doubt, consult your agency’s  Office of General Counsel.
+      When in doubt, consult your agency’s Office of General Counsel.
     </p>
     
     <p>
@@ -138,7 +137,7 @@ categories:
     
     <ul>
       <li>
-        Contact the owner and have them send you permission, by letter or email, to use your work. You can find the owner by looking for credits and contacting the webmaster or owner of the page; or, if it’s  a social media video, through their social media account. You can use our <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/video-release-form.doc">video release form</a> (MS Word, 24.5 KB, 1 page, April 2012) for web content as well.
+        Contact the owner and have them send you permission, by letter or email, to use your work. You can find the owner by looking for credits and contacting the webmaster or owner of the page; or, if it’s a social media video, through their social media account. You can use our <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/video-release-form.doc">video release form</a> (MS Word, 24.5 KB, 1 page, April 2012) for web content as well.
       </li>
       <li>
         Find work labeled public domain (generally freely usable in the country it was created). Check if the author has included a <a href="http://creativecommons.org/">Creative Commons</a> or another attribution license indicating the item is free to use. A variety of websites collect large groups of these images, which you can find examples of in our next section,<a title="Find Free Video Stock Footage" href="https://www.WHATEVER/2012/05/07/find-free-video-stock-footage/"> finding legal footage and music</a>.
@@ -158,7 +157,7 @@ categories:
     </p>
     
     <p>
-      When in doubt, consult your agency’s  Office of General Counsel.
+      When in doubt, consult your agency’s Office of General Counsel.
     </p>
   </div>
 </div>

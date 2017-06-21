@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/11/10/creating-connection-with-instagram/
 date: 2015-11-10 1:00:23 -0400
-title: 'Creating Connection with Instagram'
-summary: 'I&rsquo;ve been thinking a lot about Instagram lately. It’s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day.  Full disclosure\: I use Instagram in my personal life.'
-authors: [alyson-olander]
+title: Creating Connection with Instagram
+summary: 'I&rsquo;ve been thinking a lot about Instagram lately. It&rsquo;s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it&rsquo;s pretty big with lots of different age groups, genders, and ethnicities; and it&rsquo;s growing every day.  Full disclosure: I use Instagram in my personal life.'
+authors:
+  - alyson-olander
 categories:
   - Social Media
 tag:
@@ -17,23 +17,21 @@ tag:
   - U.S. Department of the Interior
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" %} 
 
 I’ve been thinking a lot about Instagram lately.
 
-It’s  pretty big, especially among the younger populations (AKA. Millennials).
+It’s pretty big, especially among the younger populations (AKA. Millennials).
 
-Actually, from what I can tell, it’s  pretty big with lots of different age groups, genders, and ethnicities; and it’s  growing every day.
+Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day.
 
-{% include image/full-width.html img="http://www.pewinternet.org/files/2015/01/PI\_2015-01-09\_social-media-new_02.png" alt="Instagram users" %}
-
+[{% img="http://www.pewinternet.org/files/2015/01/PI\_2015-01-09\_social-media-new_02.png" alt="Instagram users" %}](http://www.pewinternet.org/2015/01/09/social-media-update-2014/pi_2015-01-09_social-media-new_02/)
 
 Full disclosure: I use Instagram in my personal life. I love it. Especially now that our phone cameras have improved beyond what most people can manage with a DSLR. Especially since micro-blogging took hold.
 
 But the question today is, how can we, as government communicators, leverage this platform to greatest effect?
 
-There’s  a couple agencies out there that have taken the bull by the horns and managed to hang on for the ride: the Transportation Security Administration ([@TSA](https://instagram.com/tsa/) on Instagram) and the U.S. Department of the Interior ([@usinterior](https://instagram.com/usinterior/) on Instagram). They both post photographs, but the similarities, at least on the surface, end there.
+There’s a couple agencies out there that have taken the bull by the horns and managed to hang on for the ride: the Transportation Security Administration ([@TSA](https://instagram.com/tsa/) on Instagram) and the U.S. Department of the Interior ([@usinterior](https://instagram.com/usinterior/) on Instagram). They both post photographs, but the similarities, at least on the surface, end there.
 
 U.S. Interior posts beautiful, well-composed, high-quality photos and occasional videos of our national parks and wildlife. They regularly receive upwards of 20,000 likes on their images and have undoubtedly been seen by many more people than that. They post at least once per day, sometimes twice.
 
@@ -81,14 +79,14 @@ So what are these government agencies doing right? They’re creating content th
 
 @TSA and @USinterior don’t necessarily “engage” in the traditional sense, but their imagery CONNECTS. Their content is accessible. Many Americans have experienced taking off their shoes in the airport—now they have chuckle about it because they understand the reason. Our national parks are more accessible to most people than the far reaches of this planet. Visitors can connect these images to their own lives; feel nostalgia for them; laugh about them with friends and family.
 
-Unfortunately, many agencies don’t have these visual resources to work with, so we need to create them. Graphics aren’t right: People visit Instagram for photos, not infographics. (although the occasional one, used where appropriate, isn’t a bad idea). So here’s  my charge to you as government communicators engaged in social media—figure out how your agency can use Instagram. Post an idea here. Let’s  start a conversation.
+Unfortunately, many agencies don’t have these visual resources to work with, so we need to create them. Graphics aren’t right: People visit Instagram for photos, not infographics. (although the occasional one, used where appropriate, isn’t a bad idea). So here’s my charge to you as government communicators engaged in social media—figure out how your agency can use Instagram. Post an idea here. Let’s start a conversation.
 
 The Instagram help center is pretty robust, but here are some links to get you started:
 
-  * Visit GSA’s  [Improving the Accessibility of Social Media Toolkit](https://www.WHATEVER/resources/improving-the-accessibility-of-social-media-in-government/)
-  * Mashable: [The Beginner’s  Guide to Instagram](http://mashable.com/2012/05/29/instagram-for-beginners/#0C1I2YQQ18qL)
+  * Visit GSA’s [Improving the Accessibility of Social Media Toolkit](https://www.WHATEVER/resources/improving-the-accessibility-of-social-media-in-government/)
+  * Mashable: [The Beginner’s Guide to Instagram](http://mashable.com/2012/05/29/instagram-for-beginners/#0C1I2YQQ18qL)
   * The [Instagram for Business](http://blog.business.instagram.com/) blog: By Instagram, for business professionals
   * [Instagram Brand Resources](https://www.instagram-brand.com/): How to feature Instagram in your marketing
-  * Instagram’s  how to [Host a Photo Campaign](https://help.instagram.com/464700830247492/)
+  * Instagram’s how to [Host a Photo Campaign](https://help.instagram.com/464700830247492/)
   * For those of you who use Hootsuite: [How to Schedule and Publish Posts to Instagram via Hootsuite](https://hootsuite.com/resources/hoot-tip/how-to-add-instagram-to-your-hootsuite-dashboard)
   * Because Accessibility is always a question, first check out this fun video by The Tommy Edison Experience ([@blindfilmcritic](https://instagram.com/blindfilmcritic/)): [How Blind People Use Instagram](https://www.youtube.com/watch?v=P1e7ZCKQfMA)

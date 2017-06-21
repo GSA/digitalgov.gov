@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/10/28/federal-contact-center-regulations-and-directives/
 date: 2013-10-28 5:19:56 -0400
-title: 'Federal Contact Center Regulations & Directives'
-summary: 'Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements. Access for People with Disabilities (Section 508) Federal contact centers must comply with Section 508'
-authors: [tonya-beres]
+title: 'Federal Contact Center Regulations &#038; Directives'
+summary: Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements. Access for People with Disabilities (Section 508) Federal contact centers must comply with Section 508
+authors:
+  - tonya-beres
 categories:
   - Managing Digital
 tag:
@@ -13,8 +13,7 @@ tag:
   - section 508
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" %} 
 
 Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements.
 
@@ -65,7 +64,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     </h2>
     
     <p>
-      You should review the following laws and regulations that protect the public’s  privacy when interacting with government to ensure your contact center is compliant:
+      You should review the following laws and regulations that protect the public’s privacy when interacting with government to ensure your contact center is compliant:
     </p>
     
     <ul>

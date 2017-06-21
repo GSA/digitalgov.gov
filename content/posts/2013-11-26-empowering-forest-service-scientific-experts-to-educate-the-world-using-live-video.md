@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/11/26/empowering-forest-service-scientific-experts-to-educate-the-world-using-live-video/
 date: 2013-11-26 2:40:37 -0400
-title: 'Empowering Forest Service Scientific Experts to Educate the World Using Live Video'
+title: Empowering Forest Service Scientific Experts to Educate the World Using Live Video
 summary: 'In July 2013, U.S. Forest Service fisheries biologist Pete Schneider launched a YouTube Live video event from the Mendenhall Glacier Visitor Center in Alaska. &nbsp;The goal of the project was to not only deliver a reliable 2-month long, 24/7, live video stream where an international audience could witness spawning Sockeye salmon, hungry Dolly Varden, cunning'
-authors: [donavan-albert]
+authors:
+  - donavan-albert
 categories:
   - Content
   - Social Media
@@ -18,12 +18,11 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" %}</a>
 </p>
 
 <p dir="ltr">
-  Watchers of the live salmon cam welcomed the opportunity to collaborate, too.  They shared experiences such as recognizing a familiar fish hovering in front of the camera, bear sightings, and their observations during the Sockeye spawning ritual.  Numerous questions were asked on the commenting thread, located adjacent to the live video stream canvas.  Sometimes users would answer another’s  question, but Pete would frequently engage and educate the audience as to what was happening; for instance redd building by a Sockeye salmon, or to help someone identify an unfamiliar species of fish.
+  Watchers of the live salmon cam welcomed the opportunity to collaborate, too.  They shared experiences such as recognizing a familiar fish hovering in front of the camera, bear sightings, and their observations during the Sockeye spawning ritual.  Numerous questions were asked on the commenting thread, located adjacent to the live video stream canvas.  Sometimes users would answer another’s question, but Pete would frequently engage and educate the audience as to what was happening; for instance redd building by a Sockeye salmon, or to help someone identify an unfamiliar species of fish.
 </p>
 
 <p dir="ltr">
@@ -43,12 +42,12 @@ tag:
 </p>
 
   * During live video events, do not stream copyright protected music, even if you have the rights to it.  YouTube will flag your account with a violation.
-  * Both audio and video need to be included in the live video stream.  Our focus was on video and we really didn’t have a need for audio.  But, we realized that when using Flash Live Media Encoder with YouTube’s  Live service, both audio and video had to be used in order to obtain a reliable video stream.
-  * Some audiences in other countries, such as Germany, do not have access to YouTube’s  Live service.
+  * Both audio and video need to be included in the live video stream.  Our focus was on video and we really didn’t have a need for audio.  But, we realized that when using Flash Live Media Encoder with YouTube’s Live service, both audio and video had to be used in order to obtain a reliable video stream.
+  * Some audiences in other countries, such as Germany, do not have access to YouTube’s Live service.
   * In July 2013, we reached a peak of 164 concurrent live video viewers.
 
 <a href="http://www.youtube.com/live/" target="_blank">YouTube Live</a> is a free video service as long as your channel has been enabled to use it.  The service is being incrementally rolled out by Google to YouTube accounts that are in good standing.
 
 In early July 2014, when the Sockeye start their annual run, the Forest Service will turn the Salmon Cam back on, broadcasting a live video feed from Steep Creek in Juneau, Alaska, and with Pete taking questions and educating us all.
 
-Note:  The live feed is seasonal, it runs from mid-July through early October…so, it’s  currently offline since there’s  no fish in Steep Creek (plus, due to weather, snow, ice, etc). So, the #SalmonWatch live video feed will come back online in July 2014.
+Note:  The live feed is seasonal, it runs from mid-July through early October…so, it’s currently offline since there’s no fish in Steep Creek (plus, due to weather, snow, ice, etc). So, the #SalmonWatch live video feed will come back online in July 2014.

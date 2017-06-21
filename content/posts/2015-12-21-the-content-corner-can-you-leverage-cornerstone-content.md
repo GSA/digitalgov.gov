@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/12/21/the-content-corner-can-you-leverage-cornerstone-content/
 date: 2015-12-21 10:00:02 -0400
-title: 'The Content Corner\: Can You Leverage Cornerstone Content?'
+title: 'The Content Corner: Can You Leverage Cornerstone Content?'
 summary: 'If you have a website, then you most likely have cornerstone content&mdash;though&nbsp;you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is&nbsp;also important to any new visitors to your agency site, even if you'
-authors: [tymanuel]
+authors:
+  - tymanuel
 categories:
   - Content
 tag:
@@ -17,14 +17,13 @@ tag:
 
 If you have a website, then you most likely have <a href="http://www.copyblogger.com/cornerstone-content-101/" target="_blank">cornerstone content</a>—though you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is also important to any new visitors to your agency site, even if you are operating a fairly small or minimally viable website.
 
-Properly developed (and frequently maintained) cornerstone content pages can help users answer a lot of initial questions and quickly establish a trusted relationship with your brand/agency/site. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-426-Cornerstone-Concept-VicZA-iStock-Thinkstock-147006028.jpg" alt="Cornerstone concept of a pyramid of cubes; all are gray except one foundation corner cube that glows in gold" %} 
+Properly developed (and frequently maintained) cornerstone content pages can help users answer a lot of initial questions and quickly establish a trusted relationship with your brand/agency/site. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-426-Cornerstone-Concept-VicZA-iStock-Thinkstock-147006028.jpg" alt="Cornerstone concept of a pyramid of cubes; all are gray except one foundation corner cube that glows in gold" %} 
 
 ## What is Cornerstone Content?
 
 As I said before, even minimal websites have or should have at least a few pages of cornerstone content. The most common of these include the About and Contact pages. These are great basic examples of what cornerstone content is. In my opinion, no professional (or probably even personal) site should exist without these two pages if the site is open to the public and you are sharing content with users. For public sector agencies, these pages are even more critical.
 
-These two pages are your site’s  version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s  mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="https://www.WHATEVER/category/content/" target="_blank">content</a> or even <a href="https://www.WHATEVER/tag/the-content-corner/" target="_blank">The Content Corner</a>.
+These two pages are your site’s version of networking at a party or conference. They can quickly give a visitor a quick overview of why the site exists, why you do what you do and (commonly for us federal folks) what our agency’s mission is. The Contact page serves as a business card that a user can leverage if they see something they like or have a deeper issue or question. But this is cornerstone content at its most basic; other examples of cornerstone content are best described as hubs or category pages such as this one for <a href="https://www.WHATEVER/category/content/" target="_blank">content</a> or even <a href="https://www.WHATEVER/tag/the-content-corner/" target="_blank">The Content Corner</a>.
 
 ## The Anatomy of a Cornerstone Page
 
@@ -48,7 +47,7 @@ On <a href="https://oscar.uscourts.gov/about" target="_blank">one of the corners
 
 ## Meet Me on the Corner
 
-So you took the effort to build several fabulous cornerstone content pages based on your site’s  most often searched-for topics, but now what? One of the most critical things you should do is make sure the new cornerstone pages are linked appropriately and prominently in your main navigation. There is a reason why proto-cornerstone pages like About and Contact generally appear very prominently on a site and more often than not appear in two places (header and footer). Be sure that a new visitor to your site can easily find these popular topics and you will hopefully save them the effort of searching.
+So you took the effort to build several fabulous cornerstone content pages based on your site’s most often searched-for topics, but now what? One of the most critical things you should do is make sure the new cornerstone pages are linked appropriately and prominently in your main navigation. There is a reason why proto-cornerstone pages like About and Contact generally appear very prominently on a site and more often than not appear in two places (header and footer). Be sure that a new visitor to your site can easily find these popular topics and you will hopefully save them the effort of searching.
 
 You should also promote these pages as you would any of your other content by linking to them where appropriate (email newsletters, social media) and cross-linking to them within your own content. I cross-link my Content Corner posts frequently, not as a humblebrag, but to hopefully help users find additional resources on topics of interest. Cornerstone pages perform that same function—but better—because they can provide a user a full range of content based around a single topic.
 

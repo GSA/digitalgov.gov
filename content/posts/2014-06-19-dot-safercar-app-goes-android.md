@@ -1,10 +1,8 @@
 ---
-
-
+url: /2014/06/19/dot-safercar-app-goes-android/
 date: 2014-06-19 1:00:15 -0400
-title: 'DOT&amp;#8217;s SaferCar App Goes Android'
-summary: 'With the start of &amp;#8220;astronomical summer&amp;#8221; later this week on June 21, that means two&nbsp;things\: road trips and car buying. If you&amp;#8217;re doing either or both, best be sure to grab the app for the SaferCar program&nbsp;from the Department of Transportation&amp;#8217;s National'
-authors: [admin]
+title: 'DOT&#8217;s SaferCar App Goes Android'
+summary: 'With the start of &amp;#8220;astronomical summer&amp;#8221; later this week on June 21, that means two&nbsp;things: road trips and car buying. If you&amp;#8217;re doing either or both, best be sure to grab the app for the SaferCar program&nbsp;from the Department of Transportation&amp;#8217;s National'
 categories:
   - Mobile
 tag:
@@ -13,8 +11,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-440-SaferCar-Android-Apps-on-Google-Play.jpg" alt="Screen capture of the Android Safer Car app on Google Play" %}With the [start of &#8220;astronomical summer&#8221;](http://www.ncdc.noaa.gov/news/meteorological-versus-astronomical-summer) later this week on June 21, that means two things: road trips and car buying.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-440-SaferCar-Android-Apps-on-Google-Play.jpg" alt="Screen capture of the Android Safer Car app on Google Play" %}With the [start of &#8220;astronomical summer&#8221;](http://www.ncdc.noaa.gov/news/meteorological-versus-astronomical-summer) later this week on June 21, that means two things: road trips and car buying.
 
 If you&#8217;re doing either or both, best be sure to grab the app for the [SaferCar program](http://www.safercar.gov/) from the Department of Transportation&#8217;s [National Highway Traffic Safety Administration](http://www.nhtsa.gov/About) (NHTSA).
 

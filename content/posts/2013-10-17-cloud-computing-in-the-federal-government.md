@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/10/17/cloud-computing-in-the-federal-government/
 date: 2013-10-17 1:27:51 -0400
-title: 'Cloud Computing in the Federal Government'
+title: Cloud Computing in the Federal Government
 summary: ' Cloud Computing enables convenient, on-demand access to, and rapid deployment of, shared computing resources such as networks, servers, storage, applications, and services. Plan What is the Cloud? Is Cloud Computing for you? What types of services does Cloud Computing support? Types of Cloud environments Implement Learn steps to&nbsp;acquire,&nbsp;manage, and&nbsp;secure&nbsp;your agency in'
-authors: [matt-goodrich]
+authors:
+  - matt-goodrich
 categories:
   - Managing Digital
 tag:
@@ -12,8 +12,7 @@ tag:
   - security
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-436-cloud-computing-CIOgov-177370799.jpg" alt="600-x-436-cloud-computing-CIOgov-177370799" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-436-cloud-computing-CIOgov-177370799.jpg" alt="600-x-436-cloud-computing-CIOgov-177370799" %}
 
 Cloud Computing enables convenient, on-demand access to, and rapid deployment of, shared computing resources such as networks, servers, storage, applications, and services.
 

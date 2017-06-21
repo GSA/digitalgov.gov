@@ -1,12 +1,12 @@
 ---
-
-
+url: /2014/02/19/10-tips-for-better-hallway-usability-testing/
 date: 2014-02-19 1:01:25 -0400
-title: '10 Tips for Better Hallway Usability Testing'
+title: 10 Tips for Better Hallway Usability Testing
 summary: ' Hallway testing is a usability test set-up in a high foot traffic area, utilizing bystanders to test your product. Your participants will be people who happen to be walking down the hall and are able to afford 5-10 minutes of their day. We'
-authors: [usajobs-team]
+authors:
+  - usajobs-team
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - DigitalGov User Experience Program
   - OPM
@@ -14,8 +14,7 @@ tag:
   - UX
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/usajobs-hallway-test-at-gsa.jpg)
 
 <p dir="ltr">
   <span style="line-height: 1.5em;">Hallway testing is a usability test set-up in a high foot traffic area, utilizing bystanders to test your product. Your participants will be people who happen to be walking down the hall and are able to afford 5-10 minutes of their day. We on the <a href="https://www.usajobs.gov/">USAJOBS</a> team have found hallway tests successful for multiple reasons, most notably the number and variety of test participants available. In the five hallway test sessions we have conducted recently, we averaged better than thirteen participants per test. USAJOBS.gov is open to the general public, therefore we need to ensure that the website is usable for a large and diverse audience. Hallway testing has provided our team the opportunity to interact with a wider range of test participants.</span>
@@ -98,7 +97,7 @@ tag:
 </p>
 
   * <p dir="ltr">
-      The optimal time for an individual hallway test is 10 minutes. A tester’s  focus and interest tend to wane if you keep them any longer.
+      The optimal time for an individual hallway test is 10 minutes. A tester’s focus and interest tend to wane if you keep them any longer.
     </p>
 
   * <p dir="ltr">

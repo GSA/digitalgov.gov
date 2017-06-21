@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/03/11/the-api-briefing-fulfilling-the-desire-for-renewable-energy-with-the-department-of-energys-new-api/
 date: 2015-03-11 11:25:36 -0400
-title: 'The API Briefing\: Fulfilling the D(e)SIRE for Renewable Energy with the Department of Energy&amp;#8217;s New API'
-summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (DSIRE&reg;) provides information on incentives and policies for renewables and energy efficiency in the U.S. This joint project by the Department of Energy and North Carolina State University just released an API to query DSIRE&reg;’s database. Developers can view the sample output'
-authors: [bbrantley]
+title: 'The API Briefing: Fulfilling the D(e)SIRE for Renewable Energy with the Department of Energy&#8217;s New API'
+summary: ' The Database of State Incentives for Renewables and Efficiency&reg; (DSIRE&reg;) provides information on incentives and policies for renewables and energy efficiency in the U.S. This joint project by the Department of Energy and North Carolina State University just released an API to query DSIRE&reg;&rsquo;s database. Developers can view the sample output'
+authors:
+  - bbrantley
 categories:
   - API
 tag:
@@ -15,10 +15,9 @@ tag:
   - Wednesday API Briefing
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Find-Policies-Incentives-by-State-map-from-DSIRE-DOE-Energy-website.jpg" alt="600-x-400-Find-Policies-&-Incentives-by-State-map-from-DSIRE-DOE-Energy-website" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Find-Policies-Incentives-by-State-map-from-DSIRE-DOE-Energy-website.jpg" alt="600-x-400-Find-Policies-&-Incentives-by-State-map-from-DSIRE-DOE-Energy-website" %}
-
-The Database of State Incentives for Renewables and Efficiency® (DSIRE®) provides information on incentives and policies for renewables and energy efficiency in the U.S. This joint project by the Department of Energy and North Carolina State University just released an API to query DSIRE®’s  database.
+The Database of State Incentives for Renewables and Efficiency® (DSIRE®) provides information on incentives and policies for renewables and energy efficiency in the U.S. This joint project by the Department of Energy and North Carolina State University just released an API to query DSIRE®’s database.
 
 Developers can view the sample output by visiting the <a href="http://www.dsireusa.org/" target="_blank">database query page</a>. They can query by state or ZIP code to receive a listing of programs. After they select a program, the next page lists contact information, a summary of the incentive program, and the eligible energy technologies (<a href="http://programs.dsireusa.org/system/program/detail/918" target="_blank">see this example</a>). The API returns the same information—for all the programs—in <a href="http://en.wikipedia.org/wiki/XML" target="_blank">XML</a>, <a href="http://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a>, and <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV</a> formats. Developers should be prepared to receive a large data file, as the API does not allow querying the DSIRE® database using the XML or JSON formats.
 

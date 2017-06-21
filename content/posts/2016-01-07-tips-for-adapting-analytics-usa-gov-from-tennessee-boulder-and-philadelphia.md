@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/07/tips-for-adapting-analytics-usa-gov-from-tennessee-boulder-and-philadelphia/
 date: 2016-01-07 1:19:21 -0400
-title: 'Tips for Adapting analytics.usa.gov from Tennessee, Boulder, and Philadelphia'
-summary: 'When we launched analytics.usa.gov with the Digital Analytics Program, the U.S. Digital Service, and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction\: This open source project is in the public domain, which means'
-authors: [melody-kramer]
+title: Tips for Adapting analytics.usa.gov from Tennessee, Boulder, and Philadelphia
+summary: 'When we launched analytics.usa.gov with the Digital Analytics Program, the U.S. Digital Service, and the White House last March, we purposefully made it very easy to adapt and wrote language on the website to let people know they could use the code without restriction: This open source project is in the public domain, which means'
+authors:
+  - melody-kramer
 categories:
   - Metrics
   - Our Work
@@ -22,18 +22,17 @@ When [we launched analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built
 
 And a few governments have done just that: the [city of Philadelphia](http://analytics.phila.gov/), the [city of Boulder](https://bouldercolorado.gov/stats), and the [Tennessee Department of Environment and Conservation](http://analytics.tdec.tn.gov/).
 
-I reached out to **Lauren Ancona**, the Senior Data Scientist for the City of Philadelphia’s  Office of Innovation and Technology (OIT); **Ron Pringle**, a Senior PHP Application Programmer Analyst for the City of Boulder; and **Cody Rockwood**, a project manager in the Information Systems Division of Tennessee’s  Department of Environment and Conservation, to see how they adapted the platform for their respective organizations and what advice they’d have for others who would like to do the same.
+I reached out to **Lauren Ancona**, the Senior Data Scientist for the City of Philadelphia’s Office of Innovation and Technology (OIT); **Ron Pringle**, a Senior PHP Application Programmer Analyst for the City of Boulder; and **Cody Rockwood**, a project manager in the Information Systems Division of Tennessee’s Department of Environment and Conservation, to see how they adapted the platform for their respective organizations and what advice they’d have for others who would like to do the same.
 
 **MK: We saw your tweets about adapting the analytics dashboard to create one for your respective organizations. How did you hear about the dashboard and what did you do to adapt it?**
 
 **LA:** My previous career as a marketer involved heavy work with analytics, so I’d actually been “stalking&#8221; the project during its development phase on GitHub for several months. Once it launched, I got in touch with the maintainers with some questions about the analytics configuration. They were very supportive and actually merged some of my feedback, and eventually ended up letting me come on as a project maintainer for the [analytics-reporter repo](https://github.com/18F/analytics-reporter). That, frankly, blew my mind: a federal agency is incorporating feedback from a local government using their tool on an ongoing basis. We were able to bring up a few simple tweaks that made it easier to adapt.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Philadelphia-PA-adaptation-of-AnalyticsUSAgov.jpg" alt="The Philadelphia, PA adaptation of Analytics dot USA dot gov website." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Philadelphia-PA-adaptation-of-AnalyticsUSAgov.jpg" alt="The Philadelphia, PA adaptation of Analytics dot USA dot gov website." %}
 
 **RP:** I heard about the analytics dashboard from a number of sources almost simultaneously. I follow a lot of 18F and Code for America folks on Twitter so I’m sure I saw it tweeted about there. I was also working with Becky Boone, our Code for America Senior Fellow at the time, on some analytics-related work. She brought it to my attention as well.
 
-Working with Becky, we tried out a number of different dashboard solutions, including Code for America’s  real time dashboard. Even though we got that up and running fairly quickly, I still felt there was value in integrating or emulating the 18F dashboard as part of our custom CMS, Xpress, that we co-developed with another Colorado city. I took some time over the summer to go through the federal dashboard code on GitHub. Because Xpress is PHP-based and modular, ultimately I decided to emulate the dashboard in PHP as a module specifically for Xpress. I rolled the work into a major upgrade already planned for late summer and we pushed it live in early fall of 2015.
+Working with Becky, we tried out a number of different dashboard solutions, including Code for America’s real time dashboard. Even though we got that up and running fairly quickly, I still felt there was value in integrating or emulating the 18F dashboard as part of our custom CMS, Xpress, that we co-developed with another Colorado city. I took some time over the summer to go through the federal dashboard code on GitHub. Because Xpress is PHP-based and modular, ultimately I decided to emulate the dashboard in PHP as a module specifically for Xpress. I rolled the work into a major upgrade already planned for late summer and we pushed it live in early fall of 2015.
 
 **CR:** Analytics.usa.gov came across in one of our feeds. The discovery was well timed, as my team had been working with D3.js building infographics on our intranet. We were looking for ways we could do more. We decided pursuing this project would be a great way to provide the department with a new tool.
 
@@ -47,8 +46,7 @@ We spent 3 weeks pulling the project together, finding our way through D3.js, an
 
 We’d always intended to make it public as well, so after some code refinement, we pushed out the public version about a month later. Since then, we’ve added a lot more to the content manager dashboard. It now allows stats by category and includes metrics on social media, search, content manager usage and more. Again, this is to help content managers make better decisions about content based on data. Putting this directly into the administrative section of the CMS makes this information available exactly at the place they’re most likely to use it. We’ve gotten very positive feedback from our content managers. We plan on pushing most of these new features to the public dashboard as well.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Boulder-CO-adaptation-of-AnalyticsUSAgov.jpg" alt="The Boulder, CO adaptation of Analytics dot USA dot gov website." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Boulder-CO-adaptation-of-AnalyticsUSAgov.jpg" alt="The Boulder, CO adaptation of Analytics dot USA dot gov website." %}
 
 **CR:** The goal for Tennessee State Government is to become more “efficient and effective.&#8221; One of the ways we’re doing that is to make more data-driven decisions. Before this product launched, we were already sending out monthly reports for our analytics. By providing this on-demand dashboard, we put more power in the hands of our colleagues working in our regulatory divisions. This can help our department better understand how our users are interacting with us on a day-to-day basis. That will lead to us making better decisions.
 
@@ -62,7 +60,7 @@ With this dashboard at their fingertips, they’re anxious to see more. We’re 
 
 But more important than how you might adapt the platform for your government is having cohesive analytics data to put in it. For the most part, the government use-case is pretty consistent across the board — a configuration that works for one is likely to work almost anywhere. We’re working on [documenting and sharing ours](https://github.com/laurenancona/unified-analytics).
 
-**RP:** Just do it! This was essentially a skunkworks project for us. We floated the idea at one of our monthly content manager meetings and got positive vibes from that but otherwise there was no mandate to do this. If you can, adapt the existing code. It makes more sense to piggyback off of someone else’s  work when you can. Google has a great online API tester that allows you to test out any additional API calls you want to make as well. It helped me a lot when we decided to expand usage to other stats.
+**RP:** Just do it! This was essentially a skunkworks project for us. We floated the idea at one of our monthly content manager meetings and got positive vibes from that but otherwise there was no mandate to do this. If you can, adapt the existing code. It makes more sense to piggyback off of someone else’s work when you can. Google has a great online API tester that allows you to test out any additional API calls you want to make as well. It helped me a lot when we decided to expand usage to other stats.
 
 And finally, keep it simple and iterate. We ended up using Charts.js instead of D3 because what we needed to display was pretty simple. It kept the project light. We also cache the data just like the 18F dashboard because it reduces load on the API calls and because we plan on adding the data to our open data catalog. The cached CSVs will serve as the source for the open data entries as well.
 
@@ -70,8 +68,7 @@ And finally, keep it simple and iterate. We ended up using Charts.js instead of 
 
 The benefits of this project have more than warranted spending the time implementing it. For TDEC, providing this information has helped open up the door to better conversations around how and why we spend our efforts supporting our customers via our various digital services.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Tennessee-Department-of-Environment-and-Conservation-adaptation-of-AnalyticsUSAgov.jpg" alt="The Tennessee Department of Environment and Conservation adaptation of Analytics dot USA dot gov website." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Tennessee-Department-of-Environment-and-Conservation-adaptation-of-AnalyticsUSAgov.jpg" alt="The Tennessee Department of Environment and Conservation adaptation of Analytics dot USA dot gov website." %}
 
 **MK: Is there anything 18F could do to improve the platform?
   
@@ -93,7 +90,7 @@ There are three basic components to any web analytics implementation: configurat
 
 It leverages a tracking “container&#8221; model that comes preconfigured to capture the standard Google Analytics measurements and adds more detail: PDF and other document downloads, frustrated users, JavaScript Errors, and even a little module to collect feedback.
 
-On the other end, we’ve written custom report configurations to get that extra detail back out of Google Analytics and into the hands of departments and agencies that can use it to drive things like content decisions. I’m still working on the documentation, but the [Google Analytics Embed API](https://developers.google.com/analytics/devguides/reporting/embed/v1/?hl=en) makes something like this possible. [You can log in](https://github.com/CityOfPhiladelphia/phila-dashboards) — it’s  a work in progress — it will only show you data for Google Analytics accounts you have access to — and doesn’t store any data. (Aside: this is the last piece I’m working on — an unbranded version to accompany the release of the container configuration. In the meantime, I’ve built [preconfigured links to reports](https://github.com/laurenancona/unified-analytics/blob/gh-pages/reporting.md) in the standard Google Analytics reporting interface).
+On the other end, we’ve written custom report configurations to get that extra detail back out of Google Analytics and into the hands of departments and agencies that can use it to drive things like content decisions. I’m still working on the documentation, but the [Google Analytics Embed API](https://developers.google.com/analytics/devguides/reporting/embed/v1/?hl=en) makes something like this possible. [You can log in](https://github.com/CityOfPhiladelphia/phila-dashboards) — it’s a work in progress — it will only show you data for Google Analytics accounts you have access to — and doesn’t store any data. (Aside: this is the last piece I’m working on — an unbranded version to accompany the release of the container configuration. In the meantime, I’ve built [preconfigured links to reports](https://github.com/laurenancona/unified-analytics/blob/gh-pages/reporting.md) in the standard Google Analytics reporting interface).
 
 **RP:** Thanks for sharing! While we were already working our way down a similar path, having a working example and being able to look at the code behind it really helped coalesce our ideas and work quickly to make it happen. It also helped us to have the federal dashboard to show as an example before we wrote a single piece of code. People got it, and were supportive, which made my job of coding it a lot easier.
 

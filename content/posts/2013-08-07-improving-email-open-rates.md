@@ -1,12 +1,13 @@
 ---
-
-
+url: /2013/08/07/improving-email-open-rates/
 date: 2013-08-07 7:40:08 -0400
-title: 'Improving Email Open Rates'
-summary: 'Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications'
-authors: [ellen-langhans, tim-hudak]
+title: Improving Email Open Rates
+summary: Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications
+authors:
+  - ellen-langhans
+  - tim-hudak
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - Customer Experience
   - HHS
@@ -14,8 +15,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: left;">
-  <em>
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-305-Toni-phone-unread-msgs-in-inbox.jpg" alt="A screen capture of an email account's folders that shows the number of unread emails." %}Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications at the Department of Agriculture.</em>
+  <em>{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-305-Toni-phone-unread-msgs-in-inbox.jpg" alt="A screen capture of an email account's folders that shows the number of unread emails." %}Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications at the Department of Agriculture.</em>
 </p>
 
 <p dir="ltr">
@@ -31,11 +31,11 @@ tag:
 </p>
 
 <p dir="ltr">
-  The healthfinder.gov monthly Spotlight is an e-newsletter featuring repurposed website content to keep subscribers up to date on actionable health and wellness information. The Spotlight’s  content format has shifted over the past year, from using persona-based content (still pulled from the website but delivered in the newsletter by healthfinder’s  “Chief Medical Advisor”), to the use of infographics.
+  The healthfinder.gov monthly Spotlight is an e-newsletter featuring repurposed website content to keep subscribers up to date on actionable health and wellness information. The Spotlight’s content format has shifted over the past year, from using persona-based content (still pulled from the website but delivered in the newsletter by healthfinder’s “Chief Medical Advisor”), to the use of infographics.
 </p>
 
 <p dir="ltr">
-  The persona-based Spotlight’s  open rate (based on a six-month sample in 2012) hovered around 11%, which is in the range of open rates for government. Government industry average open ratios are 10-15%, depending on the source you use, says Tim Hudak, Web Analytics Specialist at the Department of Agriculture (USDA). We weren’t doing badly at ODPHP, but we also wanted to try out a new format of the Spotlight that might generate more opens; since nothing in marketing is ever set in stone, we sent out our first infographic Spotlight in December 2012 and used A/B testing.
+  The persona-based Spotlight’s open rate (based on a six-month sample in 2012) hovered around 11%, which is in the range of open rates for government. Government industry average open ratios are 10-15%, depending on the source you use, says Tim Hudak, Web Analytics Specialist at the Department of Agriculture (USDA). We weren’t doing badly at ODPHP, but we also wanted to try out a new format of the Spotlight that might generate more opens; since nothing in marketing is ever set in stone, we sent out our first infographic Spotlight in December 2012 and used A/B testing.
 </p>
 
 > <p dir="ltr">

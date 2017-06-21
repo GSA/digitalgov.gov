@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/11/06/nps-gov-use-of-digital-analytics-program-beyond-the-numbers/
 date: 2013-11-06 1:04:29 -0400
-title: 'NPS.gov Use of Digital Analytics Program\: Beyond the Numbers'
+title: 'NPS.gov Use of Digital Analytics Program: Beyond the Numbers'
 summary: 'The National Park Service website,&nbsp;NPS.gov, is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov'
-authors: [marina-fox]
+authors:
+  - marina-fox
 categories:
   - Metrics
   - Our Work
@@ -14,7 +14,7 @@ tag:
   - U.S. Department of the Interior
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" %}The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS-logo.jpg)The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.
 
 In February 2013, the NPS migrated from Adobe SiteCatalyst to the Digital Analytics Program (DAP) solution. From the very beginning, our goal has been to give content authors the necessary tools and knowledge to use analytics to gain an understanding of how visitors are using their pages and where they can make improvements to their content.
 
@@ -24,10 +24,9 @@ To further help our DAP users, an analytics team looked at some of the more comm
 
   * Improving content (e.g., park homepage features and links) based on items frequently searched for within a specific site
   * Using a weighted sort on the bounce rate to figure out what content might need improving
-  * Understanding the Navigation Summary reports to see the visitor’s  path on a site and adjust content accordingly
+  * Understanding the Navigation Summary reports to see the visitor’s path on a site and adjust content accordingly
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS1.jpg" alt="web page" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS1.jpg" alt="National Park Service screen shot of the "teachers" web page" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS1.jpg)
 
 Education Portal for teachers, which was promoted through many digital avenues such as email, promotional web links, social media, etc.
 

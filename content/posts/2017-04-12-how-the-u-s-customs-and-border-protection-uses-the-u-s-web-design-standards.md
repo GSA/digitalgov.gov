@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/04/12/how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards/
 date: 2017-04-12 11:00:14 -0400
-title: 'How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards'
+title: How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards
 summary: 'As mentioned in our recent Q&amp;amp;A with the team at NASA, the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to'
-authors: [julia-elman]
+authors:
+  - julia-elman
 categories:
   - Design
   - UX
@@ -24,22 +24,21 @@ tag:
 
 As mentioned in our recent [Q&A with the team at NASA](https://18f.gsa.gov/2017/03/21/nasa-journey-with-us-web-design-standards/), the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the [U.S. Customs and Border Protection](https://www.cbp.gov/) and learned how they used the Standards to train, develop, and design their various websites and applications.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/04/600-x-345-U.S.-Customs-and-Border-Protection_Web-Design-Standards-homepage.jpg" alt="Screencap of the U.S. Customs and Border Protection website." %}
+{% img="https://www.WHATEVER/files/2017/04/600-x-345-U.S.-Customs-and-Border-Protection_Web-Design-Standards-homepage.jpg" alt="Screencap of the U.S. Customs and Border Protection website." %}
 
 **Standards team:** Why did you decide to use the U.S. Web Design Standards?
 
-**U.S. CBP team:** Our organization has a lot of websites and applications that support the public, U.S. Customs and Border Protection (CBP), and other law-enforcement entities within the Department of Homeland Security (DHS). These websites and applications have their own unique user experience and learning curves associated with them because technical teams have either inherited these systems from legacy organizations or built them using differing technical stacks and development techniques. To address this, the Common Framework team was established to align technical teams to the U.S. Web Design Standards and [U.S. Digital Services Playbook](https://playbook.cio.gov/) practices. Common Framework develops reusable code, services, and guidance that aid teams in their redesign efforts towards a “common look and feel” for all CBP digital products. Our offering includes a public- and internal-facing front end framework and the CBP UI/UX Style Guide to put into effect the U.S. Web Design Standards. We find that these resources and developer aids are a breath of fresh air for our colleagues at CBP. The development teams use Common Framework products to help them quickly meet foundational CBP requirements without “reinventing the wheel” — such as branding and accessibility; leaving more time to focus on delivering new functionality that strengthens our mission: protecting our country’s  borders and facilitating trade and travel.
+**U.S. CBP team:** Our organization has a lot of websites and applications that support the public, U.S. Customs and Border Protection (CBP), and other law-enforcement entities within the Department of Homeland Security (DHS). These websites and applications have their own unique user experience and learning curves associated with them because technical teams have either inherited these systems from legacy organizations or built them using differing technical stacks and development techniques. To address this, the Common Framework team was established to align technical teams to the U.S. Web Design Standards and [U.S. Digital Services Playbook](https://playbook.cio.gov/) practices. Common Framework develops reusable code, services, and guidance that aid teams in their redesign efforts towards a “common look and feel” for all CBP digital products. Our offering includes a public- and internal-facing front end framework and the CBP UI/UX Style Guide to put into effect the U.S. Web Design Standards. We find that these resources and developer aids are a breath of fresh air for our colleagues at CBP. The development teams use Common Framework products to help them quickly meet foundational CBP requirements without “reinventing the wheel” — such as branding and accessibility; leaving more time to focus on delivering new functionality that strengthens our mission: protecting our country’s borders and facilitating trade and travel.
 
-We encourage our teams to take the common framework and make it their own too. Our team’s  mantra is, “we are only as successful as the contributions we receive.”
+We encourage our teams to take the common framework and make it their own too. Our team’s mantra is, “we are only as successful as the contributions we receive.”
 
 **Standards team:** How did you integrate your work with the Standards across your organization?
 
-**U.S. CBP team:** A lot of what we do is meeting with folks who may not have the frontend skills or the resources needed to enter into a redesign effort. Our goal is to help teams increase their developer productivity and deliver value to users — from the determining the best way to display data to how to optimize their frontend build processes. This has led to a change in our organization’s  culture by granting us the ability to market best practices to our internal groups and have an openly shared set of resources that encourages cross-organizational collaboration. We are also saving taxpayer dollars by creating a knowledge bank, promoting a collaborative culture, and fostering shared concentrated resources between groups. We shouldn’t have to write the same code in three different, unconnected efforts for the same type of functionality.
+**U.S. CBP team:** A lot of what we do is meeting with folks who may not have the frontend skills or the resources needed to enter into a redesign effort. Our goal is to help teams increase their developer productivity and deliver value to users — from the determining the best way to display data to how to optimize their frontend build processes. This has led to a change in our organization’s culture by granting us the ability to market best practices to our internal groups and have an openly shared set of resources that encourages cross-organizational collaboration. We are also saving taxpayer dollars by creating a knowledge bank, promoting a collaborative culture, and fostering shared concentrated resources between groups. We shouldn’t have to write the same code in three different, unconnected efforts for the same type of functionality.
 
 **Standards team:** What kind of time and cost savings did you see when using the Standards?
 
-**U.S. CBP team:** The term we like to use is, “Today’s  philosophy is tomorrow’s  common sense.” Using the Standards, we have experienced both tangible and intangible savings:
+**U.S. CBP team:** The term we like to use is, “Today’s philosophy is tomorrow’s common sense.” Using the Standards, we have experienced both tangible and intangible savings:
 
   * A developer can create the frontend to an application in 2 to 3 days instead of 2 to 3 weeks. Extend this estimate to the number of developers on staff and cost savings are exponential.
   * Developers can work on several projects versus just one because standards, development processes, and technical stacks are common across the organization – leading to less resources required to create and maintain digital products.

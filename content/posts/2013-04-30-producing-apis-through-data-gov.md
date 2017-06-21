@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/04/30/producing-apis-through-data-gov/
 date: 2013-04-30 1:07:53 -0400
-title: 'Producing APIs through Data.gov'
-summary: 'One way agencies can offer APIs for their data is to use the built—in functionality of&nbsp;Data.gov. The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&amp;#8217;s section of the agency&amp;#8217;s website. The guide below will help you do this. Process Upload a dataset'
-authors: [gray-brooks]
+title: Producing APIs through Data.gov
+summary: 'One way agencies can offer APIs for their data is to use the built&ndash;in functionality of&nbsp;Data.gov. The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&amp;#8217;s section of the agency&amp;#8217;s website. The guide below will help you do this. Process Upload a dataset'
+authors:
+  - gray-brooks
 categories:
   - API
   - Code
@@ -14,8 +14,7 @@ tag:
   - open data
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
 
 One way agencies can offer APIs for their data is to use the built–in functionality of [Data.gov](http://www.data.gov/). The information that is hosted as interactive datasets have an API layer which agencies can make available through documentation in the developer&#8217;s section of the agency&#8217;s website. The guide below will help you do this.
 
@@ -128,7 +127,7 @@ None required
 
 ### Further Developer Documentation
 
-[Socrata’s  SODA Documentation](http://dev.socrata.com/)
+[Socrata’s SODA Documentation](http://dev.socrata.com/)
 
 ### Related Resources
 
@@ -136,4 +135,4 @@ Include [any additional resources](https://www.WHATEVER/2013/05/16/api-release-k
 
 ## Completed Example
 
-To see this model in action, check out [GSA’s  Per Diem API](http://gsa.gov/portal/content/162379).
+To see this model in action, check out [GSA’s Per Diem API](http://gsa.gov/portal/content/162379).

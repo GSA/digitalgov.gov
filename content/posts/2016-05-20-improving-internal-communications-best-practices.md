@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/05/20/improving-internal-communications-best-practices/
 date: 2016-05-20 10:00:55 -0400
-title: 'Improving Internal Communications\: Best Practices'
-summary: 'Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they'
-authors: [alison-sturgeon]
+title: 'Improving Internal Communications: Best Practices'
+summary: Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they
+authors:
+  - alison-sturgeon
 categories:
   - Managing Digital
   - Monthly Theme
@@ -19,15 +19,14 @@ tag:
   - The United States Social Security Administration
 ---
 
-Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they need, or if they are not happy in their work, customers can see that. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
+Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they need, or if they are not happy in their work, customers can see that. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
 
 Here are some tips to improve internal communications. Thank you to all the CX-COP members who contributed, especially **Stephanie Thum** (EXIM Bank), **Jeremy Young** (Social Security Administration), and **Tanya McIlravy** (USDA Farm Service Agency).
 
 ## Intranet Site
 
   * Build a CX intranet site to give employees access to all the customer data available through your various systems, including: cycle time data, survey scores, communication materials and talking points for front line staff to customers.
-  * Regularly add new content to your CX intranet site. Flag new items for employees by highlighting CX info on your agency’s  intranet homepage.
+  * Regularly add new content to your CX intranet site. Flag new items for employees by highlighting CX info on your agency’s intranet homepage.
 
 ## Information Sharing
 

@@ -1,10 +1,8 @@
 ---
-
-
+url: /2012/05/16/rimblackberry-mobile-development-webinar-recap/
 date: 2012-05-16 4:15:33 -0400
-title: 'RIM/Blackberry Mobile Development Webinar Recap'
+title: RIM/Blackberry Mobile Development Webinar Recap
 summary: 'The Mobile Platform Development Series was developed to help government agencies learn how to deliver government content&amp;#8211;information, data and services&amp;#8211;anytime, anywhere and on any device.&nbsp;One way to deliver content to citizens is via applications on mobile devices or&nbsp;native mobile apps. Government agencies need technical expertise on developing apps on the various platforms. Today we bring'
-authors: [jparcell]
 categories:
   - Code
   - Mobile

@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/06/18/cdcs-solve-the-outbreak-app-2/
 date: 2013-06-18 1:33:34 -0400
-title: 'CDC&amp;#8217;s Solve the Outbreak App'
+title: 'CDC&#8217;s Solve the Outbreak App'
 summary: 'Mobile Gov Experiences&nbsp;are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by&nbsp;Centers for Disease Control and Prevention. Centers for Disease Control (CDC)&nbsp;launched a free, educational iPad app called &ldquo;Solve the Outbreak,&rdquo; which lets users play the'
-authors: [jparcell]
 categories:
   - Content
   - Design
@@ -17,8 +15,7 @@ tag:
   - Mobile Gov Experience
 ---
 
-{% include image/full-width.html img="https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" %}
-_[Mobile Gov Experiences](https://www.WHATEVER/tag/mobile-gov-experience/) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by_ **_Centers for Disease Control and Prevention_.**
+[{% img="https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" %}](https://www.WHATEVER/files/2013/12/CDCSolvetheOutbreakApp.jpeg)_[Mobile Gov Experiences](https://www.WHATEVER/tag/mobile-gov-experience/) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by_ **_Centers for Disease Control and Prevention_.**
 
 <a href="http://www.cdc.gov/" rel="nofollow">Centers for Disease Control (CDC)</a> launched a free, educational iPad app called “Solve the Outbreak,” which lets users play the role of Epidemic Intelligence Service agents – the “Disease Detectives” who are on the front lines of new outbreaks wherever they occur. You can learn more about the Solve the Outbreak in this [User Experience webinar](https://www.WHATEVER/2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/ "You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar").
 

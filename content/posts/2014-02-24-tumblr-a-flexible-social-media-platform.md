@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/02/24/tumblr-a-flexible-social-media-platform/
 date: 2014-02-24 10:12:01 -0400
-title: 'Tumblr\: A Flexible Social Media Platform'
-summary: 'When HHS’s Katie Gorscak was looking for a way to share Stopbullying.gov’s information with teenagers, she looked at her options on social media. New reports seem to come out regularly talking about how teens are fleeing &ldquo;traditional&rdquo; social media sites, but Gorscak knew her target audience made'
-authors: [jessica-milcetich]
+title: 'Tumblr: A Flexible Social Media Platform'
+summary: 'When HHS&rsquo;s Katie Gorscak was looking for a way to share Stopbullying.gov&rsquo;s information with teenagers, she looked at her options on social media. New reports seem to come out regularly talking about how teens are fleeing &ldquo;traditional&rdquo; social media sites, but Gorscak knew her target audience made'
+authors:
+  - jessica-milcetich
 categories:
   - Social Media
 tag:
@@ -16,14 +16,13 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" %}
-When HHS’s  Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s  information with teenagers, she looked at her options on social media.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot.png)When HHS’s Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s information with teenagers, she looked at her options on social media.
 
 New reports seem to come out regularly talking about how teens are fleeing “traditional” social media sites, but Gorscak knew her target audience made up the power user base of the social-blogging platform Tumblr.
 
 Tumblr combines parts of traditional blogging with added social sharing features to help agencies meet their missions, drive engagement and increase brand recognition.
 
-Looking to leverage that, Gorscak launched a [Stopbullying.gov pilot](http://stopbullying.tumblr.com/) on Tumblr in April 2013. She shares resources and information for teens to help prevent or put a stop to bullying. In the time since launch, she’s  amassed 10,000 followers in her target demographic.
+Looking to leverage that, Gorscak launched a [Stopbullying.gov pilot](http://stopbullying.tumblr.com/) on Tumblr in April 2013. She shares resources and information for teens to help prevent or put a stop to bullying. In the time since launch, she’s amassed 10,000 followers in her target demographic.
 
 Since 2011, when USA.gov established the [first federal Tumblr](http://blog.usa.gov/), several agencies have signed up to use the platform &#8212; each approaching the tool slightly differently to meet their own agency missions.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/09/how-agencies-can-support-employee-professional-development/
 date: 2015-10-09 10:00:09 -0400
-title: 'How Agencies Can Support Employee Professional Development'
-summary: 'Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest. The idea for AgOpportunity came from the Partnership for Public Service’s Excellence'
-authors: [awichman]
+title: How Agencies Can Support Employee Professional Development
+summary: 'Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest. The idea for AgOpportunity came from the Partnership for Public Service&rsquo;s Excellence'
+authors:
+  - awichman
 categories:
   - Our Work
 tag:
@@ -19,12 +19,11 @@ tag:
   - USDA
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" alt="The words, "Opportunities Just Ahead," are on a green billboard with the sunrise behind it." %} 
 
 Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest.
 
-The idea for AgOpportunity came from the Partnership for Public Service’s  [Excellence in Government (EIG) Fellowship program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php). As part of the year-long program, fellows were split into teams and charged with creating a results-orientated program that could effect real change in government.
+The idea for AgOpportunity came from the Partnership for Public Service’s [Excellence in Government (EIG) Fellowship program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php). As part of the year-long program, fellows were split into teams and charged with creating a results-orientated program that could effect real change in government.
 
 A four member team consisting of employees from the Department of Agriculture, Environmental Protection Agency, Department of Transportation, and Transportation Security Administration chose employee engagement as their project focus, with AgOpportunity the resulting pilot.
 
@@ -38,11 +37,11 @@ Nadine Pembleton, EIG Fellow and Director of Building Management Services for TS
 
 ## Aligning AgOpporunity with Strategic Priorities
 
-The Fellows met with the 17 USDA agency heads and chief information officers to propose the idea. They gained buy-in to pilot the program with the 4,000 IT specialists within USDA. The program was tied to USDA’s  brand with the name “AgOpportunity.”
+The Fellows met with the 17 USDA agency heads and chief information officers to propose the idea. They gained buy-in to pilot the program with the 4,000 IT specialists within USDA. The program was tied to USDA’s brand with the name “AgOpportunity.”
 
 Ted Kaouk, EIG Fellow and Special Assistant to the Chief Information Officer at USDA, said that the agency was a perfect place to launch the pilot.
 
-“USDA is a complex agency with a very diverse mission: everything from ensuring hungry kids have lunches to fighting wildfires to food safety inspection to providing loans in rural America for hospitals and housing,” Kaouk said. “We really wanted to look at something that could support all the employees at USDA. With the USDA CIO Council’s  backing, we had people we could target (4,000 IT employees). We developed four projects focused on [cybersecurity](https://openopps.WHATEVER/tasks/93), [open data](https://openopps.WHATEVER/tasks/88), [strategic sourcing](https://openopps.WHATEVER/tasks/90), and [competency model development](https://openopps.WHATEVER/tasks/91), which align with the USDA CIO Council’s  FY15 priorities.”
+“USDA is a complex agency with a very diverse mission: everything from ensuring hungry kids have lunches to fighting wildfires to food safety inspection to providing loans in rural America for hospitals and housing,” Kaouk said. “We really wanted to look at something that could support all the employees at USDA. With the USDA CIO Council’s backing, we had people we could target (4,000 IT employees). We developed four projects focused on [cybersecurity](https://openopps.WHATEVER/tasks/93), [open data](https://openopps.WHATEVER/tasks/88), [strategic sourcing](https://openopps.WHATEVER/tasks/90), and [competency model development](https://openopps.WHATEVER/tasks/91), which align with the USDA CIO Council’s FY15 priorities.”
 
 ## Implementing the Pilot
 

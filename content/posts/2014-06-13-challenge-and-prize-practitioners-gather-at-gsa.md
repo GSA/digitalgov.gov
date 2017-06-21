@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/06/13/challenge-and-prize-practitioners-gather-at-gsa/
 date: 2014-06-13 10:00:48 -0400
-title: 'Challenge and Prize Practitioners Gather at GSA'
-summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics\: Highlights from challenge competitions run in 2013. Concepts and tips for working with solvers to build teams.'
-authors: [ktrebon]
+title: Challenge and Prize Practitioners Gather at GSA
+summary: 'Got innovation? Well, we do! On Wednesday May 28, the Challenge.gov team gathered the Challenges and Prizes Community of Practice together for its quarterly meeting. The group covered two topics: Highlights from challenge competitions run in 2013. Concepts and tips for working with solvers to build teams. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg&quot; alt=&quot;Challenges and Prizes Community of Practice'
+authors:
+  - ktrebon
 categories:
   - Challenges
   - Code
@@ -30,8 +30,7 @@ On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered t
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" %}
 
 Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions](https://www.WHATEVER/2014/05/07/new-white-house-report-prize-competition-use-increased-85-in-2013/) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
 
@@ -39,7 +38,7 @@ Trends include:
 
   * Federal agencies are maturing and are no longer using challenges for communications and engagement purposes. They are now using them to get novel solutions from non-standard solvers.
 
-  * Challenge and prize competitions are being used to frame future strategy. [HUD’s  Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s  Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
+  * Challenge and prize competitions are being used to frame future strategy. [HUD’s Rebuild by Design](http://www.rebuildbydesign.org/) and the [National Eye Institute’s Audacious Goals for Research](http://www.nei.nih.gov/challenge/) are great examples of this.
 
   * Got code? [Challenges are becoming a great source of code, apps, algorithms](https://www.challenge.gov/list/?type=SoftwareApps "Software and apps challenges on Challenge.gov"), and shared service IT solutions, resulting in significant cost savings.
 
@@ -57,7 +56,7 @@ Often, people think that only coders and technical people will be useful in comp
 
 &nbsp;
 
-Charles Liarakos from the [National Science Foundation](https://www.challenge.gov/list/?ag=National%20Science%20Foundation "National Science Foundation Challenge and Prize Competitions on Challenge.gov ") also spoke, and said that it’s  important to track whether teams stay together, and how well they continue to work. His organization has tracked the long-term effects of innovation teams and the results compared to a general workforce addressing the same issues. Liarakos told the audience that their multi-day work groups were intense and that the need to follow-up a few weeks and even months later is critical to understanding the impact.
+Charles Liarakos from the [National Science Foundation](https://www.challenge.gov/list/?ag=National%20Science%20Foundation "National Science Foundation Challenge and Prize Competitions on Challenge.gov ") also spoke, and said that it’s important to track whether teams stay together, and how well they continue to work. His organization has tracked the long-term effects of innovation teams and the results compared to a general workforce addressing the same issues. Liarakos told the audience that their multi-day work groups were intense and that the need to follow-up a few weeks and even months later is critical to understanding the impact.
 
 [slideshare id=35660372&doc=zit1ualor7qgjpggflff-140609123602-phpapp01&w=600]
 

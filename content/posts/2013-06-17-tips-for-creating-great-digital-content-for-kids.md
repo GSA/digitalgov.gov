@@ -1,10 +1,12 @@
 ---
-
-
+url: /2013/06/17/tips-for-creating-great-digital-content-for-kids/
 date: 2013-06-17 10:24:36 -0400
-title: 'Tips for Creating Great Digital Content for Kids'
+title: Tips for Creating Great Digital Content for Kids
 summary: 'Great websites for kids&nbsp;have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&amp;#8217;s important to keep your site engaging, fun, and'
-authors: [arlene-hernandez, emily-canis, jill-james]
+authors:
+  - arlene-hernandez
+  - emily-canis
+  - jill-james
 categories:
   - Content
   - UX
@@ -18,8 +20,7 @@ tag:
   - user experience
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer-250x250.jpg" alt="Two young girls working on a laptop in the classroom" %}
-Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and active. Here are a few tips from [Kids.gov](http://kids.usa.gov/) on ways to create great online content for kids:
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer-250x250.jpg" alt="Two young girls working on a laptop in the classroom" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer.jpg)Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and active. Here are a few tips from [Kids.gov](http://kids.usa.gov/) on ways to create great online content for kids:
 
 ## **Make your kids&#8217; website fun and interactive**
 
@@ -60,7 +61,7 @@ Example:
 
 ## **Use graphics and thumbnail images, as appropriate, to make pages easy to scan**
 
-Just like adults, kids lose interest in text (even more so than adults do). To avoid losing their interest, it’s  important to include pictures and graphics that add to the meat of your content, including easy-to-understand infographics or comics.
+Just like adults, kids lose interest in text (even more so than adults do). To avoid losing their interest, it’s important to include pictures and graphics that add to the meat of your content, including easy-to-understand infographics or comics.
 
 Examples:
 
@@ -85,7 +86,7 @@ Older kids (Grades 4-8):
 
 Examples:
 
-  * [Ben’s  Guide](http://bensguide.gpo.gov/k-2/index.html) (younger kids)
+  * [Ben’s Guide](http://bensguide.gpo.gov/k-2/index.html) (younger kids)
   * [NASA Grades 5-8](http://www.nasa.gov/audience/forstudents/5-8/index.html) (older kids)
 
 ## **Maybe an app instead?**

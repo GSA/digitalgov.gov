@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/04/23/when-sharing-buttons-work/
 date: 2014-04-23 10:00:41 -0400
-title: 'When Sharing Buttons Work'
-summary: 'At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page’s link to popular social networking sites or send it via e-mail. The article To Use Social'
-authors: [sarah-kaczmarek]
+title: When Sharing Buttons Work
+summary: 'At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page&rsquo;s link to popular social networking sites or send it via e-mail. The article To Use Social'
+authors:
+  - sarah-kaczmarek
 categories:
   - Metrics
   - Social Media
@@ -14,8 +14,7 @@ tag:
   - SocialGov
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-242-GAO-social-icon.jpg" alt="250-x-242-GAO-social-icon" %}At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page’s  link to popular social networking sites or send it via e-mail. The article [_To Use Social Sharing Buttons or Not_](https://www.WHATEVER/2014/04/02/to-use-social-sharing-buttons-or-not/) looks at some ways that social sharing buttons are actually used. Here’s  a look at what works for us.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-242-GAO-social-icon.jpg" alt="250-x-242-GAO-social-icon" %}At the U.S. Government Accountability Office (GAO) we use sharing buttons on our website to help people share content from web pages with their colleagues and friends. With one click, a user can post a page’s link to popular social networking sites or send it via e-mail. The article [_To Use Social Sharing Buttons or Not_](https://www.WHATEVER/2014/04/02/to-use-social-sharing-buttons-or-not/) looks at some ways that social sharing buttons are actually used. Here’s a look at what works for us.
 
 On our main website, GAO.gov, we have sharing buttons on the summary pages of our reports and testimonies, as well as on our topics pages. Similar to our [neighbors in the U.K.](https://insidegovuk.blog.gov.uk/2014/02/20/gov-uk-social-sharing-buttons-the-first-10-weeks/), we found these sharing rates were generally low. We were happy to see a very different picture when it came to our blog, the [WatchBlog](http://blog.gao.gov/)_._
 
@@ -64,7 +63,7 @@ The five most popular blog posts have sharing rates between 15.2% and 45.2%.
   
   <tr>
     <td valign="top" width="283">
-      <a href="http://blog.gao.gov/2014/03/28/gaos-defense-capabilities-and-management-team/" target="_blank">GAO’s  Defense Capabilities and Management Team</a>
+      <a href="http://blog.gao.gov/2014/03/28/gaos-defense-capabilities-and-management-team/" target="_blank">GAO’s Defense Capabilities and Management Team</a>
     </td>
     
     <td valign="top" width="132">
@@ -82,7 +81,7 @@ The five most popular blog posts have sharing rates between 15.2% and 45.2%.
   
   <tr>
     <td valign="top" width="283">
-      <a href="http://blog.gao.gov/2014/04/04/government-accountability-office-whats-in-a-name/" target="_blank">Government Accountability Office: What’s  in a Name?</a>
+      <a href="http://blog.gao.gov/2014/04/04/government-accountability-office-whats-in-a-name/" target="_blank">Government Accountability Office: What’s in a Name?</a>
     </td>
     
     <td valign="top" width="132">
@@ -100,7 +99,7 @@ The five most popular blog posts have sharing rates between 15.2% and 45.2%.
   
   <tr>
     <td valign="top" width="283">
-      <a href="http://blog.gao.gov/2014/01/30/gaos-international-affairs-and-trade-mission-team/" target="_blank">GAO’s  International Affairs and Trade Mission Team</a>
+      <a href="http://blog.gao.gov/2014/01/30/gaos-international-affairs-and-trade-mission-team/" target="_blank">GAO’s International Affairs and Trade Mission Team</a>
     </td>
     
     <td valign="top" width="132">
@@ -118,7 +117,7 @@ The five most popular blog posts have sharing rates between 15.2% and 45.2%.
   
   <tr>
     <td valign="top" width="283">
-      <a href="http://blog.gao.gov/2014/01/23/an-introduction-to-gaos-high-risk-list/" target="_blank">An Introduction to GAO’s  High Risk List</a>
+      <a href="http://blog.gao.gov/2014/01/23/an-introduction-to-gaos-high-risk-list/" target="_blank">An Introduction to GAO’s High Risk List</a>
     </td>
     
     <td valign="top" width="132">

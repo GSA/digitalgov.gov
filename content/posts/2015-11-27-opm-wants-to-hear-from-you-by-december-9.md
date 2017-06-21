@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/11/27/opm-wants-to-hear-from-you-by-december-9/
 date: 2015-11-27 1:00:16 -0400
-title: 'OPM Wants to Hear from You by December 9'
+title: OPM Wants to Hear from You by December 9
 summary: 'The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to participate in an occupational study of the Public Affairs Series 1035. OPM is accepting&nbsp;SME submissions until Wednesday, December 9th. The study will review the &amp;#8220;current classification and qualification standards for public affairs work&amp;#8221; and allow OPM to make any revisions'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Managing Digital
 tag:
@@ -12,8 +12,7 @@ tag:
   - United States Office of Personnel Management
 ---
 
-The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to [participate in an occupational study of the Public Affairs Series 1035](https://www.chcoc.gov/content/position-classification-standard-public-affairs-series-1035). OPM is accepting SME submissions until Wednesday, December 9th. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Supreme-Court-Columns-Black-and-White-trekandshoot-iStock-Thinkstock-485982240.jpg" alt="Supreme Court columns" %} 
+The Office of Personnel Management (OPM) is looking for agency subject matter experts (SMEs) to [participate in an occupational study of the Public Affairs Series 1035](https://www.chcoc.gov/content/position-classification-standard-public-affairs-series-1035). OPM is accepting SME submissions until Wednesday, December 9th. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Supreme-Court-Columns-Black-and-White-trekandshoot-iStock-Thinkstock-485982240.jpg" alt="Supreme Court columns" %} 
 
 The study will review the &#8220;current classification and qualification standards for public affairs work&#8221; and allow OPM to make any revisions or updates. OPM is interested to learn from agencies how public affairs work has changed since the current position classification standard was issued in 1981.
 

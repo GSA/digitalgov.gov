@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/04/28/in-crowdsourcing-competitions-defining-the-problem-is-half-the-battle/
 date: 2014-04-28 10:00:31 -0400
-title: 'In Crowdsourcing Competitions, Defining the Problem is Half the Battle'
+title: In Crowdsourcing Competitions, Defining the Problem is Half the Battle
 summary: 'After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don&rsquo;t actually help remedy the issue. More than 20 federal innovators recently took part in a'
-authors: [tlowden]
+authors:
+  - tlowden
 categories:
   - Challenges
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - ChallengeGov
   - crowdsourcing
@@ -16,11 +16,10 @@ tag:
   - United States Department of Homeland Security
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" %}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" %}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
 
 <p dir="ltr">
-  More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s  Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
+  More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
 </p>
 
 <p dir="ltr">
@@ -42,7 +41,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The participants in the workshop were given a mock scenario, improving the “lunch experience”, and asked to interview each other to gain insight about the other person’s  view of lunch.
+  The participants in the workshop were given a mock scenario, improving the “lunch experience”, and asked to interview each other to gain insight about the other person’s view of lunch.
 </p>
 
 <p dir="ltr">
@@ -63,8 +62,7 @@ tag:
 </p>
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" %}</a>
 </p>
 
 ## 2. Think about user point-of-view
@@ -80,8 +78,7 @@ Lee recommended using a simple formula to create user point-of-view statements:
 ## 3. State the problem before the ask
 
 <p dir="ltr">
-  
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-3.jpg" alt="250 x 188 Ideation ChallengeGov training photo 3" %}When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
+  {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-3.jpg" alt="250 x 188 Ideation ChallengeGov training photo 3" %}When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
 </p>
 
 For example, instead of opening your competition description with:
@@ -90,7 +87,7 @@ For example, instead of opening your competition description with:
 
 state the problem behind it, and then ask for ideas:
 
-“Recent weather conditions have caused this year’s  crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey.&#8221;
+“Recent weather conditions have caused this year’s crop of honey to be thicker than usual, and as a result, the current systems to harvest honey from the combs are not cost-effective, which drives up the price to the consumer. We are looking for ideas for new methods to harvest this unusually thick honey.&#8221;
 
 With this method, the potential solver has a much better idea of what he/she is trying to accomplish.
 

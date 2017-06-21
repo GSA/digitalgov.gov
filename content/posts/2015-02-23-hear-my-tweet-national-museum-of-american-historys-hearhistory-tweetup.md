@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/23/hear-my-tweet-national-museum-of-american-historys-hearhistory-tweetup/
 date: 2015-02-23 10:00:52 -0400
-title: 'Hear My Tweet\: National Museum of American History’s #HearHistory Tweetup'
+title: 'Hear My Tweet: National Museum of American History’s #HearHistory Tweetup'
 summary: ' DC was the Silicon Valley of the 1880&rsquo;s. And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center. The work of Bell and his contemporaries is the focus'
-authors: [awichman]
+authors:
+  - awichman
 categories:
   - Social Media
 tag:
@@ -18,12 +18,11 @@ tag:
   - YouTube
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" alt="Glass disc recorded in November 1884. It features a voice saying "ba-ro-me-ter."" %}](https://twitter.com/amhistorymuseum/status/559765339815555073/photo/1)
 
+DC was the Silicon Valley of the 1880’s. And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center.
 
-DC was the Silicon Valley of the 1880’s . And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center.
-
-The work of Bell and his contemporaries is the focus of a new exhibition at Smithsonian’s  National Museum of American History (NMAH), “[Hear My Voice: Alexander Graham Bell and the Origins of Recorded Sound](http://americanhistory.si.edu/exhibitions/hear-my-voice).” Included in the exhibit are never-before-seen lab documents as well as early recording discs.
+The work of Bell and his contemporaries is the focus of a new exhibition at Smithsonian’s National Museum of American History (NMAH), “[Hear My Voice: Alexander Graham Bell and the Origins of Recorded Sound](http://americanhistory.si.edu/exhibitions/hear-my-voice).” Included in the exhibit are never-before-seen lab documents as well as early recording discs.
 
 To drum up interest in the event, NMAH held a Tweetup on January 26th for 25 active Tweeters and history buffs. Participants used the hashtag [#HearHistory](https://twitter.com/hashtag/hearhistory) to share insights on the exhibit and behind-the-scenes information from Smithsonian staff and sound scientists.
 
@@ -33,21 +32,19 @@ NMAH Tweetups allow people who regularly interact with the museum on social medi
 
 ## By the Numbers
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-594-stats-for-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="Tweet by Erin Blasco showing various stats for the #HearHistory Tweetup" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-594-stats-for-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="Tweet by Erin Blasco showing various stats for the #HearHistory Tweetup" %}](https://twitter.com/erinblasco/status/559796800534876162/photo/1)
 
 Incorporating in-person meetups with social media can lead to significant buzz around agency events. Despite inclement weather, #HearHistory was the 2nd most trended topic in DC on January 26th (coming in behind the much-discussed #blizzardof2015). During the tweetup, over 1,000 tweets were sent.
 
 Blasco also measured impressions from January 14th until January 27th, the day after the event: the #HearHistory hashtag yielded over **20 million** impressions in that time period.
 
-“On the day of the tweetup, NMAH’s  tweets received 412 “favorites” (marks of appreciation as well as bookmarking the tweet for later), which is well above our recent average of 214 favorites per day,” said Blasco. “On January 26th, NMAH’s  tweets alone received 269,130 impressions, far above our average of about 90,000 impressions per day.”
+“On the day of the tweetup, NMAH’s tweets received 412 “favorites” (marks of appreciation as well as bookmarking the tweet for later), which is well above our recent average of 214 favorites per day,” said Blasco. “On January 26th, NMAH’s tweets alone received 269,130 impressions, far above our average of about 90,000 impressions per day.”
 
 NMAH also posted a recap of the event on [Storify](https://storify.com/americanhistory/hearhistory-amhistorymuseum).
 
 ## Planning for Success and Providing Special Access
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweet-group-photo.jpg" alt="Screen capture of a Tweet by Erin Blasco ‏@erinblasco about the Smithsonian National Museum of American History (NMAH) HearHistory Twitter event, with a photo of the group of attendees." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweet-group-photo.jpg" alt="Screen capture of a Tweet by Erin Blasco ‏@erinblasco about the Smithsonian National Museum of American History (NMAH) HearHistory Twitter event, with a photo of the group of attendees." %}](https://twitter.com/erinblasco/status/559823432024879104/photo/1)
 
 Tweetup participants got in-depth information from the curator of the exhibition, Carlene Stephens. They also heard from the physicists who created a technique for recovering sound recordings via digital imagery: Carl Haber and Earl Cornell from the Lawrence Berkeley National Laboratory, and Peter Alyea, Digital Conversion Specialist for the Library of Congress. The sound recordings were considered unplayable and mysterious until the scientists recovered them in 2011.
 
@@ -59,10 +56,9 @@ For Hear My Voice, NMAH had the unique opportunity of having three experts and t
 
 ## Engagement Doesn&#8217;t End
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-301-Flickr-Photo-Group-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="600 x 301 Flickr Photo Group Smithsonian National Museum of American History (NMAH) #HearHistory tweetup" %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-301-Flickr-Photo-Group-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="600 x 301 Flickr Photo Group Smithsonian National Museum of American History (NMAH) #HearHistory tweetup" %}](https://www.flickr.com/groups/2802036@N21/)
 
-
-Blasco’s  outreach went beyond the event itself. She sent a follow-up email to participants, requesting three things. Each extra request added a layer of engagement to the experience.
+Blasco’s outreach went beyond the event itself. She sent a follow-up email to participants, requesting three things. Each extra request added a layer of engagement to the experience.
 
 First, she asked that participants add photos to [Flickr](https://www.flickr.com/groups/2802036@N21/). So far, 122 photos have been added.
 
@@ -79,7 +75,7 @@ Finally, Tweetup participants were asked to complete an online survey about thei
 Blasco had several tips to share with other agencies that are considering a Tweetup.
 
   * **Pick a target audience**. For #HearHistory, NMAH targeted history buffs who also love technology. Blasco did targeted outreach and suggested that agencies consider what voices they want to add to the topic.
-  * **Figure out what would motivate people to attend** the tweetup and what will be special about the experience, since attendees will help you to amplify your message. What is your agency’s  hook?
+  * **Figure out what would motivate people to attend** the tweetup and what will be special about the experience, since attendees will help you to amplify your message. What is your agency’s hook?
   * **Keep it fun and social**. Social media is social. Blasco provides name tags and introduces people and suggests offering snacks, if possible.
   * **Change locations**. A previous NMAH Tweetup included a group walk from NMAH to the US Holocaust Memorial Museum. Blasco called it “invigorating.”
   * **Twitter isn&#8217;t accessible to everyone**. Create blog posts, Storify stories, or other outreach to capture a bigger audience.

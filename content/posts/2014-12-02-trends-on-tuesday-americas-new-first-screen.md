@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/12/02/trends-on-tuesday-americas-new-first-screen/
 date: 2014-12-02 10:00:46 -0400
-title: 'Trends on Tuesday\: America’s New First Screen'
-summary: 'It has finally happened\: Mobile has bumped TV as America&amp;#8217;s first screen. Recent analysis from Flurry Analytics,&nbsp;which included data from the Bureau of Labor Statistics,&nbsp;found that time spent on mobile devices grew in the U.S. by 9.3% to 2 hrs and 57 minutes, while time spent watching&nbsp;TV has remained flat at 2 hrs and 48'
-authors: [tjohnson]
+title: 'Trends on Tuesday: America’s New First Screen'
+summary: 'It has finally happened: Mobile has bumped TV as America&amp;#8217;s first screen. Recent analysis from Flurry Analytics,&nbsp;which included data from the Bureau of Labor Statistics,&nbsp;found that time spent on mobile devices grew in the U.S. by 9.3% to 2 hrs and 57 minutes, while time spent watching&nbsp;TV has remained flat at 2 hrs and 48'
+authors:
+  - tjohnson
 categories:
   - Mobile
 tag:
@@ -16,8 +16,7 @@ tag:
   - U.S. Bureau of Labor Statistics
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." %} 
 
 It has finally happened: Mobile has bumped TV as America&#8217;s first screen. Recent [analysis from Flurry Analytics](http://www.flurry.com/blog/flurry-insights/mobile-television-we-interrupt-broadcast-again#.VHyqPofinAi), which included [data from the Bureau of Labor Statistics](http://www.bls.gov/TUS/CHARTS/LEISURE.HTM), found that time spent on mobile devices grew in the U.S. by 9.3% to 2 hrs and 57 minutes, while time spent watching TV has remained flat at 2 hrs and 48 minutes daily.
 

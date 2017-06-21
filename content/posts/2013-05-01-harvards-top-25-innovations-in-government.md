@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/01/harvards-top-25-innovations-in-government/
 date: 2013-05-01 2:22:08 -0400
-title: 'Harvard&amp;#8217;s Top 25 Innovations in Government'
+title: 'Harvard&#8217;s Top 25 Innovations in Government'
 summary: 'Nine federal programs made the list! Harvard&amp;#8217;s Ash Center for Democratic Governance and Innovation announced the Top 25 Innovations in Government May 1. A winner and four finalists will be revealed this fall. The&nbsp;Washington Post&nbsp;described how Harvard&amp;#8217;s review committee'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
   - Our Work
@@ -12,8 +12,7 @@ tag:
   - innovation
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg" alt="Harvard's John F. Kennedy school of Government logo - sheild with veritas, Harvard's motto." %}
-Nine federal programs made the list!
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg" alt="Harvard's John F. Kennedy school of Government logo - sheild with veritas, Harvard's motto." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg)Nine federal programs made the list!
 
 Harvard&#8217;s Ash Center for Democratic Governance and Innovation announced the <a title="harvard top 25 innovations in government" href="http://www.ash.harvard.edu/Home/News-Events/Press-Releases/Innovations/Top-25-Innovations-in-Government-Announced2/Top-25-Programs" target="_blank">Top 25 Innovations in Government</a> May 1. A winner and four finalists will be revealed this fall.
 
@@ -29,19 +28,19 @@ Some details (in alphabetical order):
   
 > _General Services Administration_
   
-> Challenge.gov is the federal government’s  online portal for running challenge and prize competitions. Challenge.gov allows the government to crowdsource solutions to problems in a contest format, bringing diversity in solutions and contributors. This is a pay-for-performance model that saves money on key initiatives and broadly drives innovation within and beyond government.
+> Challenge.gov is the federal government’s online portal for running challenge and prize competitions. Challenge.gov allows the government to crowdsource solutions to problems in a contest format, bringing diversity in solutions and contributors. This is a pay-for-performance model that saves money on key initiatives and broadly drives innovation within and beyond government.
 > 
 > **<a href="http://www.archives.gov/citizen-archivist" target="_blank">Citizen Archivist Initiative</a>**
   
 > _National Archives and Records Administration_
   
-> The National Archives has created a role for “citizen archivists” in accomplishing the agency’s  crucial mission of elevating the importance of public participation. Citizens can now provide substantive contributions (tags, transcripts, images) that increase access to the records of the federal government.
+> The National Archives has created a role for “citizen archivists” in accomplishing the agency’s crucial mission of elevating the importance of public participation. Citizens can now provide substantive contributions (tags, transcripts, images) that increase access to the records of the federal government.
 > 
 > **<a href="http://newdelhi.usembassy.gov/cti.html" target="_blank">Consular Team India</a>**
   
 > _Department of State_
   
-> Consular Team India swapped stove piping for collaboration among consular sections, a move inspectors suggested made it “the strongest of any large consular operation in the world.” By eliminating duplication and enhancing standardization, the model taps the talents of 340 employees to better serve travelers and our nation’s  security and economy.
+> Consular Team India swapped stove piping for collaboration among consular sections, a move inspectors suggested made it “the strongest of any large consular operation in the world.” By eliminating duplication and enhancing standardization, the model taps the talents of 340 employees to better serve travelers and our nation’s security and economy.
 > 
 > **<a href="http://www.ideahub.dot.gov/" target="_blank">IdeaHub</a>**
   
@@ -65,13 +64,13 @@ Some details (in alphabetical order):
   
 > _Department of Housing and Urban Development_
   
-> The Neighborhood Revitalization Initiative (NRI) is a federal strategy that aligns and targets efforts of five agencies to revitalize the nation’s  most distressed neighborhoods. Through interventions addressing persistent crime, failing schools, crumbling housing, and health disparities, NRI tackles the interconnected causes of neighborhood distress.
+> The Neighborhood Revitalization Initiative (NRI) is a federal strategy that aligns and targets efforts of five agencies to revitalize the nation’s most distressed neighborhoods. Through interventions addressing persistent crime, failing schools, crumbling housing, and health disparities, NRI tackles the interconnected causes of neighborhood distress.
 > 
-> **<a href="http://www.epa.gov/renewableenergyland/index.htm" target="_blank">Re-Powering America’s  Land Initiative</a>**
+> **<a href="http://www.epa.gov/renewableenergyland/index.htm" target="_blank">Re-Powering America’s Land Initiative</a>**
   
 > _Environmental Protection Agency_
   
-> The Environmental Protection Agency’s  Re-Powering America’s  Land Initiative revitalizes degraded land by building infrastructure for our clean energy future, while preserving green space. The program turns community liabilities into assets by fostering an unconventional, collaborative network among players in the energy and remediation sectors.
+> The Environmental Protection Agency’s Re-Powering America’s Land Initiative revitalizes degraded land by building infrastructure for our clean energy future, while preserving green space. The program turns community liabilities into assets by fostering an unconventional, collaborative network among players in the energy and remediation sectors.
 > 
 > **<a href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/sustainable_housing_communities" target="_blank">Sustainable Communities Initiative</a>**
   

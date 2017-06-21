@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/09/09/trends-on-tuesday-are-only-11-of-websites-responsive/
 date: 2014-09-09 10:00:59 -0400
-title: 'Trends on Tuesday\: Are only 11% of Websites Responsive?'
+title: 'Trends on Tuesday: Are only 11% of Websites Responsive?'
 summary: 'Roughly 1 in 9 (11%) websites have adopted responsive Web design, according to research conducted by Guy Podjarny in January. While the number has risen in the last 7 months, I know you&rsquo;re probably a little underwhelmed by that number. But if you are one of the agencies that have gone through the process of'
-authors: [tjohnson]
+authors:
+  - tjohnson
 categories:
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Defense Finance and Accounting Services
   - DFAS
@@ -21,12 +21,11 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-250-Flat-design-concept-of-responsive-design-totallyPic.com-iStock-Thinkstock-484543733.jpg" alt="Flat design concept of responsive design" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-250-Flat-design-concept-of-responsive-design-totallyPic.com-iStock-Thinkstock-484543733.jpg" alt="Flat design concept of responsive design" %} 
 
 Roughly 1 in 9 (11%) websites have adopted responsive Web design, according to <a title="research" href="http://www.guypo.com/mobile/rwd-ratio-in-top-100000-websites-refined/" target="_blank">research</a> conducted by Guy Podjarny in January. While the number has risen in the last 7 months, I know you’re probably a little underwhelmed by that number. But if you are one of the agencies that have gone through the process of developing a responsive site, you are aware of the challenges that can often get in the way of progress.
 
-[Responsive Web design](https://www.WHATEVER/tag/responsive-web-design/) isn’t a silver bullet for your agency’s  mobile strategy. But when done right, it can provide users with the fast, easy experience they are seeking. Smashing Magazine suggests a <a title="few tricks" href="http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/" target="_blank">few tricks</a> that can improve your existing responsive solutions and maximize performance for users:
+[Responsive Web design](https://www.WHATEVER/tag/responsive-web-design/) isn’t a silver bullet for your agency’s mobile strategy. But when done right, it can provide users with the fast, easy experience they are seeking. Smashing Magazine suggests a <a title="few tricks" href="http://www.smashingmagazine.com/2014/07/22/responsive-web-design-should-not-be-your-only-mobile-strategy/" target="_blank">few tricks</a> that can improve your existing responsive solutions and maximize performance for users:
 
   * Deliver each document to all devices with the same URL and the same content, but not necessarily with the same structure.
   * When starting from scratch, follow a mobile-first approach.

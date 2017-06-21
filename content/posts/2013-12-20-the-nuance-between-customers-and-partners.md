@@ -1,18 +1,17 @@
 ---
-
-
+url: /2013/12/20/the-nuance-between-customers-and-partners/
 date: 2013-12-20 10:10:08 -0400
-title: 'The Nuance Between Customers and Partners'
-summary: 'Before you can create your customer experience (CX) strategy, you have to answer the key question\: Who are your customers? Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you could'
-authors: [martha-dorris]
+title: The Nuance Between Customers and Partners
+summary: 'Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers? Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you could'
+authors:
+  - martha-dorris
 categories:
   - Managing Digital
 tag:
   - Customer Experience
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-is-250x166.jpg" alt="Hands holding a sign that says Customer Experience is." %}
-Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers?
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-is-250x166.jpg" alt="Hands holding a sign that says Customer Experience is." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-is.jpg)Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers?
 
 Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you could be partners.
 
@@ -41,4 +40,4 @@ This is true in both the government and industry.  For example, define how the s
 >   2. Having an open conversation about the relationship will help determine the most efficient way to achieve your common goals.
 >   3. Don’t think that you can improve the overall experience you provide to customers without addressing the performance you get from internal organizations that you depend on.
 
-Tells us what methods you use to understand your customers. What’s  worked the best?  What are your biggest challenges?
+Tells us what methods you use to understand your customers. What’s worked the best?  What are your biggest challenges?

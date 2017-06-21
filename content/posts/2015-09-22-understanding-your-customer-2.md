@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/09/22/understanding-your-customer-2/
 date: 2015-09-22 10:00:26 -0400
-title: 'Understanding Your Customer'
-summary: 'How well do you know your customers? There’s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
-authors: [andrea-d-williamson]
+title: Understanding Your Customer
+summary: 'How well do you know your customers? There&rsquo;s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
+authors:
+  - andrea-d-williamson
 categories:
   - Managing Digital
 tag:
@@ -20,21 +20,19 @@ tag:
   - USDA
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." %} 
-
-How well do you know your customers? There’s  a new guide out from the [Excellence In Government (EIG) Fellows Program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php) to help you do just that.
+How well do you know your customers? There’s a new guide out from the [Excellence In Government (EIG) Fellows Program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php) to help you do just that.
 
 Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn about Values, Vision, Mission, Driving Results, Leading People, Leading Change, Building Partnership and Coalitions, Business Acumen, Synthesis and Celebration. As part of this learning, teams of EIG Fellows also take on a project that will contribute to better government.
 
-I was one of this year’s  EIG Fellows. Our team was called the HCSAM (Honorable Customer Service Always Memorable) Results Team, an acronym derived from the initials of each team member (Herb Suber, USDA; Corliss McCain, DHS; Sharon Ballard, HHS; Andrea D. Williamson, HUD; MaryAnn Monroe, GSA.) We adopted a mission to “support the efforts to enhance the American public’s  satisfaction with customer service across the federal government,” and determined to develop some guidance to support the [Customer Service Cross Agency Priority (CAP) Goal](http://www.performance.gov/node/3400?view=public#apg). We decided to create a guide to customer understanding, for inclusion in the CAP Goal Customer Service Toolkit.
+I was one of this year’s EIG Fellows. Our team was called the HCSAM (Honorable Customer Service Always Memorable) Results Team, an acronym derived from the initials of each team member (Herb Suber, USDA; Corliss McCain, DHS; Sharon Ballard, HHS; Andrea D. Williamson, HUD; MaryAnn Monroe, GSA.) We adopted a mission to “support the efforts to enhance the American public’s satisfaction with customer service across the federal government,” and determined to develop some guidance to support the [Customer Service Cross Agency Priority (CAP) Goal](http://www.performance.gov/node/3400?view=public#apg). We decided to create a guide to customer understanding, for inclusion in the CAP Goal Customer Service Toolkit.
 
 Under the CAP goal, agencies are charged with transforming their work environment and culture to deliver world-class customer service, but where to start? Understanding what customers need is an important step in helping government build, buy and deliver better products and services to the American people.
 
 ## Six Steps to Customer Understanding
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" %}
 
 The simple Guide to [Understanding Your Customer](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Understanding-Your-Customer.pdf) developed by our team covers six key points:
 

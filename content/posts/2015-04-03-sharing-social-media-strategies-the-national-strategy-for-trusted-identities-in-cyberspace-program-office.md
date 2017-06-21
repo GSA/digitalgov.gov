@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/04/03/sharing-social-media-strategies-the-national-strategy-for-trusted-identities-in-cyberspace-program-office/
 date: 2015-04-03 10:00:10 -0400
-title: 'Sharing Social Media Strategies\: The National Strategy for Trusted Identities in Cyberspace Program Office'
-summary: 'Creating a tweet, posting a photo, or updating a status may take mere seconds. However, a well-thought-out social media strategy is needed for long-term success. In fact, the recently released U.S. Public Participation Playbook mentions strategy in its very first play\: clearly define and communicate your objectives. Knowing what you hope to accomplish and how'
-authors: [awichman]
+title: 'Sharing Social Media Strategies: The National Strategy for Trusted Identities in Cyberspace Program Office'
+summary: 'Creating a tweet, posting a photo, or updating a status may take mere seconds. However, a well-thought-out social media strategy is needed for long-term success. In fact, the recently released U.S. Public Participation Playbook mentions strategy in its very first play: clearly define and communicate your objectives. Knowing what you hope to accomplish and how'
+authors:
+  - awichman
 categories:
   - Social Media
 tag:
@@ -17,8 +17,7 @@ tag:
   - Twitter
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-424-Online-Security-Technology-olarseven-iStock-Thinkstock-ThinkstockPhotos-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-424-Online-Security-Technology-olarseven-iStock-Thinkstock-ThinkstockPhotos-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." %} 
 
 Creating a tweet, posting a photo, or updating a status may take mere seconds. However, a well-thought-out social media strategy is needed for long-term success.
 
@@ -36,7 +35,7 @@ The NPO has three key initiatives:
   * [Connect.gov](https://www.connect.gov/): a service that connects people to government services and applications online using specific digital credentials that they may already have. A [recent DigitalGov article](https://www.WHATEVER/2015/03/06/enabling-trusted-digital-interactions-between-people-government/) featured the Connect.gov service and how it enables trusted interactions.
   * [The Identity Ecosystem Steering Group (IDESG)](http://www.nist.gov/nstic/about-idesg.html): a private sector-led organization that leads the crafting of a framework that can replace passwords, allowing individuals to prove online that they are who they claim to be and enhancing privacy.
 
-The NPO is designed to work collaboratively with the private sector, academia, advocacy groups, public sector agencies, and other organizations. To reach this diverse audience, the NPO maintains a [blog](http://nstic.blogs.govdelivery.com/) and Twitter account, [@NSTICNPO](https://twitter.com/NSTICNPO). The NPO staff actively refines their social media strategy based on metrics and goals. Kristina Rigopoulos, lead communication strategist at NSTIC’s  NPO, outlined three social media strategy lessons her team has learned.
+The NPO is designed to work collaboratively with the private sector, academia, advocacy groups, public sector agencies, and other organizations. To reach this diverse audience, the NPO maintains a [blog](http://nstic.blogs.govdelivery.com/) and Twitter account, [@NSTICNPO](https://twitter.com/NSTICNPO). The NPO staff actively refines their social media strategy based on metrics and goals. Kristina Rigopoulos, lead communication strategist at NSTIC’s NPO, outlined three social media strategy lessons her team has learned.
 
 ## Planning for the Future
 
@@ -44,7 +43,7 @@ Rigopoulos and her team create communication plans centered specifically around 
 
 “Because we always have a plan set in motion, we usually exceed our goals,” Rigopoulos said. “We create internal quarterly social media reports to get an understanding for the blogs and tweets which had the most impact and made the biggest impression—so we can learn from the past and understand what works best for the future.”
 
-One example of a metrics-based decision was the NPO’s  2015 pilot funding announcement process. After seeing the number of abbreviated pilot applications decrease (from 63 applications received in FY2013 to 40 applications in FY2014), the team responded to the downward shift by reaching out to entrepreneurs through social media channels, particularly on Twitter. Their approach paid off: they received 58 abbreviated applications in FY2015—a 45% increase from the prior year.
+One example of a metrics-based decision was the NPO’s 2015 pilot funding announcement process. After seeing the number of abbreviated pilot applications decrease (from 63 applications received in FY2013 to 40 applications in FY2014), the team responded to the downward shift by reaching out to entrepreneurs through social media channels, particularly on Twitter. Their approach paid off: they received 58 abbreviated applications in FY2015—a 45% increase from the prior year.
 
 The team also added their blog URL and Twitter handle to paper and email marketing campaigns, so readers would get accustomed to checking their social media accounts for real-time updates. The efforts have paid off in increased pageviews.
 

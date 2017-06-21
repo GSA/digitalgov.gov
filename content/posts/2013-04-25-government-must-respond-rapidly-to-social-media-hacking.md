@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/04/25/government-must-respond-rapidly-to-social-media-hacking/
 date: 2013-04-25 1:25:31 -0400
-title: 'Government Must Respond Rapidly to Social Media Hacking'
-summary: ' [Editor&amp;#8217;s note\: Please watch the&nbsp;Jan. 15 , 2015, webinar on How Government Can Prepare for and Respond to Social Media Hacks.&nbsp;on our Youtube channel] The hacking of an Associated Press news account on Twitter this week,&nbsp;and its fallout, underscored the need for agencies to'
-authors: [jherman]
+title: Government Must Respond Rapidly to Social Media Hacking
+summary: ' [Editor&amp;#8217;s note: Please watch the&nbsp;Jan. 15 , 2015, webinar on How Government Can Prepare for and Respond to Social Media Hacks.&nbsp;on our Youtube channel] The hacking of an Associated Press news account on Twitter this week,&nbsp;and its fallout, underscored the need for agencies to'
+authors:
+  - jherman
 categories:
   - Social Media
 tag:
@@ -15,8 +15,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" %}</a>
 </p>
 
 <p dir="ltr">
@@ -29,11 +28,11 @@ tag:
 
 The <a href="http://news.yahoo.com/hackers-compromise-ap-twitter-account-173138187--finance.html" target="_blank">most recent incident</a> occurred because of an <a href="https://twitter.com/MikeBakerAP/status/326749951960940544" target="_blank">email phishing scam</a> that could have targeted anyone. There may seem like more opportunities for slip-ups in the fast paced world of social media, but following standard rules will still keep you out of trouble in most cases.
 
-In fact, what’s  often blamed on social media hacking is rooted in poor account management: easy-to-guess passwords; passwords that aren’t changed periodically or after staff changes; or lazy device security such as unlocked computers or mobile devices. Luckily it’s  often easy for government to prevent “social media hacking” using simple precautions, and regain control of the situation when it does occur.
+In fact, what’s often blamed on social media hacking is rooted in poor account management: easy-to-guess passwords; passwords that aren’t changed periodically or after staff changes; or lazy device security such as unlocked computers or mobile devices. Luckily it’s often easy for government to prevent “social media hacking” using simple precautions, and regain control of the situation when it does occur.
 
 **Protecting Your Account from Hacking**
 
-Twitter’s  website has<a href="https://support.twitter.com/articles/76036-keeping-your-account-secure" target="_blank"> recommendations for avoiding security pitfalls</a> you will recognize from many other Internet technologies you use at your agency, including:
+Twitter’s website has<a href="https://support.twitter.com/articles/76036-keeping-your-account-secure" target="_blank"> recommendations for avoiding security pitfalls</a> you will recognize from many other Internet technologies you use at your agency, including:
 
   * Use a strong password.
   * Use different passwords for your social media accounts.
@@ -48,7 +47,7 @@ Twitter’s  website has<a href="https://support.twitter.com/articles/76036-keep
  **Repairing Your Account After Hacking**
 
 <p dir="ltr">
-  Let’s  say that the damage is already done and you’ve lost control of your Twitter account &#8212; what then? If you follow these steps, you can minimize the trouble caused and get your mission back on track quickly.
+  Let’s say that the damage is already done and you’ve lost control of your Twitter account &#8212; what then? If you follow these steps, you can minimize the trouble caused and get your mission back on track quickly.
 </p>
 
 >   1. **Have a plan ahead of time**: Don’t wait for the unknown to happen. Make certain your social media strategy has a contingency plan for a compromised account, and that all parties who need to make a decision when it counts are prepared to carry it out quickly and efficiently.
@@ -62,11 +61,11 @@ Twitter’s  website has<a href="https://support.twitter.com/articles/76036-keep
 </p>
 
 <p dir="ltr">
-  Sometimes the best preparation can’t protect you from misinformation when someone else’s  hacked account is spreading misinformation about your agency. Just like when repairing your own account, time is of the essence and citizens need you ready to dispel rumors.
+  Sometimes the best preparation can’t protect you from misinformation when someone else’s hacked account is spreading misinformation about your agency. Just like when repairing your own account, time is of the essence and citizens need you ready to dispel rumors.
 </p>
 
 >   1. **Have a plan ahead of time**: Again, don’t wait for the unknown to happen: Make sure your agency is ready to respond quickly and effectively.
 >   2. **Dispel rumors**: Once you confirm that the information is in fact false, quickly communicate to your community the correct information. Timing is critical in these initial minutes.
 >   3. **Inform Twitter**: As the other party may not be aware they are hacked yet, connect with Twitter and let them know your concerns. If there is a security breach, this may help get the wheels in motion sooner to fix the problem.
 
-While handling a hacked account can be a big fear for agencies, social media also gives you the ability to quickly and efficiently mitigate risk and fallout &#8212; if you’re prepared for it. Check out DigitalGov University’s  training on cybersecurity and social media, and look forward to more guidance and recommendations as agencies continue to use Twitter to engage with citizens.
+While handling a hacked account can be a big fear for agencies, social media also gives you the ability to quickly and efficiently mitigate risk and fallout &#8212; if you’re prepared for it. Check out DigitalGov University’s training on cybersecurity and social media, and look forward to more guidance and recommendations as agencies continue to use Twitter to engage with citizens.

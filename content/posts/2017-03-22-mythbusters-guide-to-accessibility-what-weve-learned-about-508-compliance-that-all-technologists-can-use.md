@@ -1,10 +1,10 @@
 ---
-
-
+url: /2017/03/22/mythbusters-guide-to-accessibility-what-weve-learned-about-508-compliance-that-all-technologists-can-use/
 date: 2017-03-22 12:14:30 -0400
-title: 'Mythbuster’s Guide to Accessibility\: What We&amp;#8217;ve Learned About 508 Compliance That All Technologists Can Use'
+title: 'Mythbuster’s Guide to Accessibility: What We&#8217;ve Learned About 508 Compliance That All Technologists Can Use'
 summary: 'As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we&rsquo;ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we&rsquo;ll debunk'
-authors: [nick-heiner]
+authors:
+  - nick-heiner
 categories:
   - Accessibility
   - Design
@@ -31,13 +31,13 @@ Section 508 itself is quite simple. The core requirement is that everyone has co
 
 > _[I]ndividuals with disabilities … have access to and use of information and data that is comparable to that provided to … individuals with[out] disabilities._ <a class="markup--anchor markup--blockquote-anchor" href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards#subpart_a" target="_blank" rel="nofollow noopener">36 CFR 1194.1</a>
 
-If your app provides comparable access to users with a disability as those without one, then it’s  508 compliant.
+If your app provides comparable access to users with a disability as those without one, then it’s 508 compliant.
 
 ## Myth #2: Accessibility requires very specific implementations.
 
 _Reality: Content is accessible when it can be used by users with a disability, period. There are many ways to achieve this. Following a particular implementation pattern is not necessary to achieve accessibility._
 
-WCAG provides the industry-recognized set of standards for accessible content. It’s  written as a set of technology-agnostic criteria, such as:
+WCAG provides the industry-recognized set of standards for accessible content. It’s written as a set of technology-agnostic criteria, such as:
 
 > _2.4.6 Headings and Labels: Headings and labels describe topic or purpose._
 
@@ -47,13 +47,13 @@ Depending on the context in which you’re building, headings and labels may be 
 
 When you’re trying to make content accessible, you may hear that you must use a particular implementation method. This is simply not true — WCAG does not require any particular implementation. Focus on the “what” not the “how.”
 
-## Myth 3: It’s  possible to build something that’s  100% accessible.
+## Myth 3: It’s possible to build something that’s 100% accessible.
 
 _Reality: No product is perfect by any metric._
 
-Fixing 100% of reported accessibility defects is not a reasonable goal, just like you wouldn’t expect to ship with zero known bugs or a perfect user experience for users without a disability. How much you invest in UX is a judgement call, and eventually you have to ship. 508 only requires a user experience that’s  “comparable” between user with and without a disability; it doesn’t require either of those user experiences to be perfect.
+Fixing 100% of reported accessibility defects is not a reasonable goal, just like you wouldn’t expect to ship with zero known bugs or a perfect user experience for users without a disability. How much you invest in UX is a judgement call, and eventually you have to ship. 508 only requires a user experience that’s “comparable” between user with and without a disability; it doesn’t require either of those user experiences to be perfect.
 
-## Myth 4: It’s  easy to treat accessibility as an afterthought.
+## Myth 4: It’s easy to treat accessibility as an afterthought.
 
 _Reality: Designing for accessibility from the beginning is way easier._
 
@@ -73,7 +73,7 @@ For instance, consider the following table:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*a-vpzuV8bS9SRLCaj28xAg.png)
 
-To a sighted user, it’s  obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:
+To a sighted user, it’s obvious that the title “Overview By Tax Year” is related to the table. However, just by looking at the markup, a screenreader may not be able to draw the same conclusion:
 
 <pre><h3>
   Overview By Tax Year
@@ -114,7 +114,7 @@ To a sighted user, it’s  obvious that the title “Overview By Tax Year” is 
   
   
   <p>
-    Non-sighted users, for instance, use screen readers that read an app’s  content aloud instead of displaying it on a screen. The only way to know if your content works well on a screen reader is to try it out — automated scanners or reading the code yourself will only catch a few issues. Many operating systems, like iOS, macOS, and Android, have free screen readers built in.
+    Non-sighted users, for instance, use screen readers that read an app’s content aloud instead of displaying it on a screen. The only way to know if your content works well on a screen reader is to try it out — automated scanners or reading the code yourself will only catch a few issues. Many operating systems, like iOS, macOS, and Android, have free screen readers built in.
   </p>
   
   
@@ -129,7 +129,7 @@ To a sighted user, it’s  obvious that the title “Overview By Tax Year” is 
   
   
   <p>
-    If it’s  hard to make your content accessible, it may be tempting to make a separate text-only version, that doesn’t have styling or interactivity. This is not a good solution. Users with a disability do not like being sent off to a separate experience, and frequently find that the text-only version is an afterthought that receives updates much less frequently than the main version. This is not the “comparable experience” that Section 508 requires. And, it costs you more to maintain multiple versions.
+    If it’s hard to make your content accessible, it may be tempting to make a separate text-only version, that doesn’t have styling or interactivity. This is not a good solution. Users with a disability do not like being sent off to a separate experience, and frequently find that the text-only version is an afterthought that receives updates much less frequently than the main version. This is not the “comparable experience” that Section 508 requires. And, it costs you more to maintain multiple versions.
   </p>
   
   

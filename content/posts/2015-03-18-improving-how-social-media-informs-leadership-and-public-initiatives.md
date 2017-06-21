@@ -1,10 +1,11 @@
 ---
-
-
+url: /2015/03/18/improving-how-social-media-informs-leadership-and-public-initiatives/
 date: 2015-03-18 11:10:01 -0400
-title: 'Improving How Social Media Informs Leadership and Public Initiatives'
+title: Improving How Social Media Informs Leadership and Public Initiatives
 summary: '&amp;nbsp; Like private sector organizations, U.S. public sector organizations have experienced shifts in how they use both the Internet and social media to interact with the public. The mid-1990s onwards saw an increase in the number of websites helping individual members of the public learn more about various public sector organizations and initiatives directly from'
-authors: [david-a-bray, corina-dubois]
+authors:
+  - david-a-bray
+  - corina-dubois
 categories:
   - Managing Digital
   - Social Media
@@ -13,8 +14,7 @@ tag:
   - Twitter
 ---
 
-&nbsp; 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-366-Social-Network-People-Andrew-Johnson-iStock-Thinkstock-164900909.jpg" alt="Social Network People" %} 
+&nbsp; {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-366-Social-Network-People-Andrew-Johnson-iStock-Thinkstock-164900909.jpg" alt="Social Network People" %} 
 
 Like private sector organizations, U.S. public sector organizations have experienced shifts in how they use both the Internet and social media to interact with the public. The mid-1990s onwards saw an increase in the number of websites helping individual members of the public learn more about various public sector organizations and initiatives directly from the organizational source, instead of having to go in-person to a library or view microfiche. The mid-2000s onwards saw an increase in the number of public sector organizations using one or more social media platforms to engage the public.
 
@@ -34,13 +34,13 @@ While David had no easy answers for the leaders in Taiwan and Australia, he did 
 
 Corina has several years providing social media engagement to U.S. citizens traveling abroad. Such experiences are interesting as they include providing a public service directly to individuals via social media. Person-to-person conversations on social media are vital to actual online engagement and can shape how a public service agency focuses its resources and initiatives.
 
-One example of using person-to-person conversations via a social media platform to inform public service initiatives that Corina recommends involves scanning replies to an agency’s  Twitter feed to identify concerns of different members of the public. Such a scan of social media can provide initial insights into what the public cares about regarding that agency. That said, there also is a risk of people creating Twitter bots to “spam” concerns artificially or for choosing to employ social media to exacerbate existing polarized views. Such social engineering tactics may threaten the credibility of online engagement; however, the benefits can outweigh such risks with a good social media strategy. Such benefits of social media use include being able to engage interactively with the public online, which is crucial to having a transparent and open government.
+One example of using person-to-person conversations via a social media platform to inform public service initiatives that Corina recommends involves scanning replies to an agency’s Twitter feed to identify concerns of different members of the public. Such a scan of social media can provide initial insights into what the public cares about regarding that agency. That said, there also is a risk of people creating Twitter bots to “spam” concerns artificially or for choosing to employ social media to exacerbate existing polarized views. Such social engineering tactics may threaten the credibility of online engagement; however, the benefits can outweigh such risks with a good social media strategy. Such benefits of social media use include being able to engage interactively with the public online, which is crucial to having a transparent and open government.
 
 Corina has found the benefits of social media use for public initiatives to include opportunities for everyone to scan and assess what the public cares about regarding an agency. In the case of valid concerns, social media also provides opportunities for members of a public agency to build a relationship with different stakeholders willing to engage in and amplify honest discussions.
 
 True engagement in a social media space involves a [dialogue between official organizations and the public](https://participation.usa.gov/). Rather than use “broadcast” mode to send information out into the vast space of social media platforms, leaders can do well to have a dialogue in real time. Public initiatives using social media to engage the public can do so at a scale that is either national or international. Such engagements can result in valuable interaction—to include learning from members of the public who also engage social media—as well as the opportunity to be the source of official information.
 
-While overseas, David met with a group in Australia working to bring jury-based processes to representative arbitration and collective decision-making. The group’s  premise centered on the idea that trusted outcomes can be achieved when a diverse and representative group of citizens, randomly selected, deliberate together. Such an approach was interesting as it took something familiar to most of us in democracies, namely the jury process, and extended it to the process of making representative policy decisions when adversarial political differences previously had resulted in ideological fragmentation. Might a future approach to increasing the benefits of using social media to improve public service find some way to incorporate such representative arbitration and collective decision-making?
+While overseas, David met with a group in Australia working to bring jury-based processes to representative arbitration and collective decision-making. The group’s premise centered on the idea that trusted outcomes can be achieved when a diverse and representative group of citizens, randomly selected, deliberate together. Such an approach was interesting as it took something familiar to most of us in democracies, namely the jury process, and extended it to the process of making representative policy decisions when adversarial political differences previously had resulted in ideological fragmentation. Might a future approach to increasing the benefits of using social media to improve public service find some way to incorporate such representative arbitration and collective decision-making?
 
 ## Looking Towards the Future
 

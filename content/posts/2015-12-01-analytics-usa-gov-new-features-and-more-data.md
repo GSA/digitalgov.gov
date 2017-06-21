@@ -1,10 +1,14 @@
 ---
-
-
+url: /2015/12/01/analytics-usa-gov-new-features-and-more-data/
 date: 2015-12-01 1:00:53 -0400
-title: 'Analytics.usa.gov\: New Features and More Data'
+title: 'Analytics.usa.gov: New Features and More Data'
 summary: ' As of writing this post, 25,225 of the 124,878 total visitors on federal government websites participating in the Digital Analytics Program (DAP) are NOT located in the United States. And as a result of a'
-authors: [gray-brooks, tlowden, eric-mill, julia-winn, gabriel-ramirez]
+authors:
+  - gray-brooks
+  - tlowden
+  - eric-mill
+  - julia-winn
+  - gabriel-ramirez
 categories:
   - Data
   - Metrics
@@ -16,8 +20,7 @@ tag:
   - Digital Analytics Program
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-290-AnalyticsGov-Screen-Shot-2015-11-25-at-12.25.jpg" alt="A screencapture from the analytics.usa.gov dahsboard showing 124,878 people were visiting U.S. government websites at that moment." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-290-AnalyticsGov-Screen-Shot-2015-11-25-at-12.25.jpg" alt="A screencapture from the analytics.usa.gov dahsboard showing 124,878 people were visiting U.S. government websites at that moment." %}
 
 As of writing this post, 25,225 of the 124,878 total visitors on federal government websites participating in the <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program</a> (DAP) are NOT located in the United States. And as a result of a new location feature on the expanded <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>, you are free to check for yourself how many current users are from outside the country, anytime you’d like.
 
@@ -29,8 +32,7 @@ We’ve recently added a few new features to <a href="https://analytics.usa.gov/
 
 We’ve created two new location charts on the dashboard: one showing the cities providing the most visitors and one showing U.S. vs. international traffic, including a breakdown of the countries with the most visitors outside the U.S. Both of the visualizations reflect data in real-time (updating every minute), so you can wake-up to see which countries are visiting U.S. government websites while you are asleep! Additionally, while most of the time you’ll see U.S. cities on that particular chart, it is not limited to the United States. If there is a world event and for some reason a large proportion of people in Mumbai, India (for example), are visiting U.S. government websites, the chart will reflect that.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-548-Visitor-Locations-Right-Now-by-city-Screen-Shot-2015-11-25-at-12.23.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-548-Visitor-Locations-Right-Now-by-city-Screen-Shot-2015-11-25-at-12.23.jpg" alt="A screencapture of "Visitor Locations Right Now' which displays the top 10 cities on the left, and on the right, compares the percentage of visitors from the United States (79.8%) to International ones (20.2%), which includes a list of the top 15 countries." %}
 
 One thing to keep in mind about location information is that since we anonymize IP addresses of visitors at the earliest possible point, the location data is not accurate enough to pinpoint exact locations of visitors. With IP addresses anonymized, we rely on the network domain and service provider to determine a relative location. As a result, people visiting from a suburb may appear as visiting from the closest city.
 
@@ -45,15 +47,13 @@ Two important things to understand about downloads:
 
 PDF files seem to dominate the list, but other extensions in the category include .doc, .xls, and .mp3, among others. The data reflect the number of times the file was accessed in the past seven days.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/587-x-161-USCIS-Top-Downloads.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/587-x-161-USCIS-Top-Downloads.jpg" alt="The "Top Downloads" section shows the total file downloads over the last week on government sites. This example shows that the application for Naturalization PDF from the United States Citizenship and Immigration Services (USCIS) had 48,909 downloads." %}
 
 You can click on the page title, “<a href="http://www.uscis.gov/n-400" target="_blank">Application for Naturalization | USCIS</a>,” to go to the page where the file is located, or you can click on the file name, “<a href="http://www.uscis.gov/sites/default/files/files/form/n-400.pdf" target="_blank">n-400.pdf</a>”, to download (or open) the file right from <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>!
 
 ## Expanded Downloadable Files
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/250-x-510-Download-the-Data-Screen-Shot-2015-11-25-at-12.29.jpg" alt="Download the Data provides links to various data files that are updated daily, and every minute." %}There’s  a limit to how much data we can display on the page for you, so we have greatly expanded the downloadable data reports. We offer downloads of various types of data (some in CSV format and some in JSON) so that you can work with the data yourself!
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/250-x-510-Download-the-Data-Screen-Shot-2015-11-25-at-12.29.jpg" alt="Download the Data provides links to various data files that are updated daily, and every minute." %}There’s a limit to how much data we can display on the page for you, so we have greatly expanded the downloadable data reports. We offer downloads of various types of data (some in CSV format and some in JSON) so that you can work with the data yourself!
 
 Previously, the downloadable files generally only contained the same data that was displayed on <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>. Now, some of the files include hundreds or even thousands of rows, where applicable. We have set lower limits on the larger datasets to remove the “long tail” effect. We list pages that have least 10 visitors on the page in real-time, and domains which have received at least 1,000 visits in 30 days.
 

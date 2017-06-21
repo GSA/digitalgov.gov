@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/10/03/ideas-on-how-to-keep-your-citizens-informed/
 date: 2016-10-03 1:00:05 -0400
-title: 'Ideas on How to Keep Your Citizens Informed'
-summary: 'As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting. But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites,'
-authors: [christen-geiler]
+title: Ideas on How to Keep Your Citizens Informed
+summary: As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting. But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites,
+authors:
+  - christen-geiler
 categories:
   - Content
   - Managing Digital
@@ -24,8 +24,7 @@ tag:
 
 As localities struggle with issues such as the Zika virus and the Opioid epidemic, gathering and disseminating trustworthy information can be daunting.
 
-But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." %} 
+But one group of Federal agencies and offices have come together to create a free and easy way to incorporate public health web content, images, video, microsites, data, and infographics into other sites, apps, and social media. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-Woman-carrying-a-box-with-word.-Content-marketing-distribution-concept-zakokor-iStock-Thinkstock-72-dpi-536077001.jpg" alt="Woman carrying a box with word Content on it; a content marketing distribution concept." %} 
 
 Digital media syndication of science-based resources from the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities and can help coordinate health messaging for maximum impact and reach.
 
@@ -47,8 +46,7 @@ Current health storefronts:
   * <a href="https://tools.cdc.gov/medialibrary/index.aspx?context=e30%3D" target="_blank">Centers for Disease Control and Prevention Public Health Media Library</a>
   * <a href="https://www.nih.gov/health-information/free-web-content-nih" target="_blank">National Institutes of Health Content Syndication</a>
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}
 
 ### 3 Easy Steps To More Health Content
 

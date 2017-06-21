@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/07/05/trends-on-tuesday-iot-connected-devices-expected-to-surpass-mobile-phones-by-2018/
 date: 2016-07-05 2:00:25 -0400
-title: 'Trends on Tuesday\: IoT Connected Devices Expected to Surpass Mobile Phones by 2018'
+title: 'Trends on Tuesday: IoT Connected Devices Expected to Surpass Mobile Phones by 2018'
 summary: 'International telecommunications network operator, Ericsson, released their Mobility Report around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile. The surprise star of the report is not mobile phones though&mdash;although it will continue to grow, especially in emerging markets where it hasn&rsquo;t reached saturation like it'
-authors: [wsullivan]
+authors:
+  - wsullivan
 categories:
   - Mobile
 tag:
@@ -15,8 +15,7 @@ tag:
 
 International telecommunications network operator, Ericsson, released their [Mobility Report](https://www.ericsson.com/mobility-report) around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile.
 
-The surprise star of the report is not mobile phones though—although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it has in the U.S.—it’s  the Internet Of Things (IoT), which is projected to surpass mobile phones by 2018 according to Ericsson. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-Smart-appliances-in-word-IoT-for-Internet-of-Things-concept.-Chesky_W-iStock-Thinkstock-498652526.jpg" alt="Smart appliances in word IoT for Internet of Things concept." %} 
+The surprise star of the report is not mobile phones though—although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it has in the U.S.—it’s the Internet Of Things (IoT), which is projected to surpass mobile phones by 2018 according to Ericsson. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-Smart-appliances-in-word-IoT-for-Internet-of-Things-concept.-Chesky_W-iStock-Thinkstock-498652526.jpg" alt="Smart appliances in word IoT for Internet of Things concept." %} 
 
 In the next 5 years, Ericsson projects that the PC/Laptop/Tablet, mobile phone and fixed phones devices will remain relatively flat in growth, with the highest growth at 3 percent for mobile phones. Though for IoT devices, the report projects growth from 22 to 27 percent each year for the next 5 years for a collective 15.7 billion devices by 2021.
 

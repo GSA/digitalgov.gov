@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/09/17/save-the-date-techstate-mobile-diplomacy-event/
 date: 2014-09-17 1:57:19 -0400
-title: 'Save the Date\: Tech@State Mobile Diplomacy Event'
+title: 'Save the Date: Tech@State Mobile Diplomacy Event'
 summary: 'Sign up now to join fellow MobileGov Community of Practice members for Tech@State&amp;#8217;s Mobile Diplomacy conference on Friday, October 3, 2014! Your attendance will let you participate in a variety of panels, ignite and breakout sessions about mobile development relevant to all digital government innovators.&nbsp;Members of the Mobile'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Mobile
 tag:
@@ -18,8 +18,7 @@ tag:
   - United States Department of Defense
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-386-Tech-at-State-Mobile-Diplomacy-graphic.jpg" alt="Tech at State, Mobile Diplomacy" %}
-[Sign up now](http://www.eventbrite.com/e/techstate-mobile-diplomacy-registration-13125892899?aff=gsa) to join fellow MobileGov Community of Practice members for [Tech@State&#8217;s Mobile Diplomacy](http://tech.state.gov/profiles/blogs/tech-state-mobile-diplomacy-agenda) conference on Friday, October 3, 2014!
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-386-Tech-at-State-Mobile-Diplomacy-graphic.jpg" alt="Tech at State, Mobile Diplomacy" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-927-Tech-at-State-Mobile-Diplomacy-graphic.jpg)[Sign up now](http://www.eventbrite.com/e/techstate-mobile-diplomacy-registration-13125892899?aff=gsa) to join fellow MobileGov Community of Practice members for [Tech@State&#8217;s Mobile Diplomacy](http://tech.state.gov/profiles/blogs/tech-state-mobile-diplomacy-agenda) conference on Friday, October 3, 2014!
 
 Your attendance will let you participate in a variety of panels, ignite and breakout sessions about mobile development relevant to all digital government innovators. Members of the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") from the U.S. Census Bureau, Department of Labor, Department of Defense and other agencies will be presenting on panels like &#8220;Mobile First: Design & User Experience&#8221; and &#8220;Best Practices in the U.S. Government Apps.&#8221;
 

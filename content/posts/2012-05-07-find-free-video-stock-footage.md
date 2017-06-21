@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/05/07/find-free-video-stock-footage/
 date: 2012-05-07 10:50:12 -0400
-title: 'Find Free Video Stock Footage'
-summary: 'If you&amp;#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free! &nbsp;Also known as&nbsp;B—roll, stock footage is extra material that may'
-authors: [jonathan-rubin]
+title: Find Free Video Stock Footage
+summary: 'If you&amp;#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free! &nbsp;Also known as&nbsp;B&ndash;roll, stock footage is extra material that may'
+authors:
+  - jonathan-rubin
 categories:
   - Content
   - UX
@@ -15,13 +15,12 @@ categories:
   
 ](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b8-stock-footage.jpg) 
 
-If you&#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free!  Also known as B–roll, stock footage is extra material that may or may not have appeared in previous productions. Be sure to read about [copyright](https://digitalgov.sites.usa.gov/2013/05/04/video-copyright/ "Video copyright: How to avoid getting sued"), to ensure you don&#8217;t grab licensed video or music by accident.{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/b8-stock-footage-250x199.jpg" alt="b8-stock-footage-250x199" %}
-
+If you&#8217;re creating video, stock footage can be your best friend. If you need shots of people walking around, a photo of Chicago, the sound of footsteps or a Latin soundtrack, someone else has already probably already created it and made it available for free!  Also known as B–roll, stock footage is extra material that may or may not have appeared in previous productions. Be sure to read about [copyright](https://digitalgov.sites.usa.gov/2013/05/04/video-copyright/ "Video copyright: How to avoid getting sued"), to ensure you don&#8217;t grab licensed video or music by accident.[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/b8-stock-footage-250x199.jpg" alt="b8-stock-footage-250x199" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/b8-stock-footage-250x199.jpg)
 
 Remember:
 
   * Inspect the copyright status of each and every file to ensure the author has given you free use
-  * If the file’s  license asks you to give them credit or not to alter their product, follow those instructions
+  * If the file’s license asks you to give them credit or not to alter their product, follow those instructions
   * Copy the URL of each file you find online so you can go back to it if needed
   * Only music that gives you the right to [attribution](http://creativecommons.org/licenses/by/2.5/) can be used in almost all situations without contacting the owner
 

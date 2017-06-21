@@ -1,12 +1,12 @@
 ---
-
-
+url: /2016/01/20/a-new-team-strives-to-coordinate-citizen-science-crowdsourcing-across-government/
 date: 2016-01-20 10:00:29 -0400
-title: 'A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across Government'
-summary: 'A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster'
-authors: [eric-beidel]
+title: A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across Government
+summary: A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster
+authors:
+  - eric-beidel
 categories:
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -16,17 +16,15 @@ tag:
   - OSTP
 ---
 
-A government can accomplish nothing without the ingenuity of its people. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
+A government can accomplish nothing without the ingenuity of its people. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
 
 This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative.
 
 A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster and better.
 
-Case in point: the National Archives and Records Administration’s  [Citizen Archivist Dashboard](http://www.archives.gov/citizen-archivist/), which coordinates tagging and transcribing of historical records and documents. In one show of its effectiveness, more than 170,000 volunteers indexed 132 million names from the 1940 census records in just five months.
+Case in point: the National Archives and Records Administration’s [Citizen Archivist Dashboard](http://www.archives.gov/citizen-archivist/), which coordinates tagging and transcribing of historical records and documents. In one show of its effectiveness, more than 170,000 volunteers indexed 132 million names from the 1940 census records in just five months.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Citizen-Archivist-Dashboard-by-National-Archives.jpg" alt="Screen capture of the Citizen Archivist Dashboard homepage." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Citizen-Archivist-Dashboard-by-National-Archives.jpg" alt="Screen capture of the Citizen Archivist Dashboard homepage." %}
 
 Now, the White House, U.S. General Services Administration (GSA) and partners are undertaking a series of initiatives to help manage the momentum of projects like these across the federal government.
 
@@ -34,9 +32,9 @@ John Holdren, director of the White House Office of Science and Technology Polic
 
 In the memo, Holdren recommends ways agencies can build capacity for using these methods to address societal needs and advance science and technology. The memo also directed agencies to take two specific steps: identify a coordinator for such projects and catalog all citizen science and crowdsourcing initiatives in an online database.
 
-Here’s  the latest on what’s  happening.
+Here’s the latest on what’s happening.
 
-## Published: The Public Sector’s  Guide to Citizen Science
+## Published: The Public Sector’s Guide to Citizen Science
 
 Recently, OSTP and GSA unveiled a [toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) to help federal agencies undertake crowdsourcing and citizen science projects. The toolkit—which offers case studies, how-to guides, and legal/policy advice—will help federal employees:
 
@@ -48,10 +46,9 @@ Recently, OSTP and GSA unveiled a [toolkit](https://crowdsourcing-toolkit.sites.
 
 The toolkit, however, requires agency practitioners to offer their learnings, examples and other updates to remain relevant as the crowdsourcing and citizen science initiative spreads across government.
 
-## Enter the Agency Coordinator 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
+## Enter the Agency Coordinator {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
 
-Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-citizen-science/), to help track and organize the growing number of crowdsourcing projects.
+Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/), to help track and organize the growing number of crowdsourcing projects.
 
 Appointed by their agencies, these coordinators will help with a variety of activities, including:
 
@@ -76,7 +73,7 @@ There are several users envisioned for this catalog, including:
   * The public, who can find information and volunteer for projects
   * Other stakeholders, who can share data and align policies.
 
-Ultimately, these combined efforts aim to knock down any remaining barriers to making crowdsourcing and citizen science a crucial part of every agency’s  innovation strategy.
+Ultimately, these combined efforts aim to knock down any remaining barriers to making crowdsourcing and citizen science a crucial part of every agency’s innovation strategy.
 
 NOTE: All of the efforts described in this article have benefitted from key contributions from the Federal Community of Practice for Crowdsourcing and Citizen Science, a grassroots group founded in 2012. About 200 members from more than 40 federal agencies and departments share lessons learned, best practices and training.
 

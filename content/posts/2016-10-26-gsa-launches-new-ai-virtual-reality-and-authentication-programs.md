@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/
 date: 2016-10-26 10:00:17 -0400
-title: 'GSA launches new AI, Virtual Reality, and Authentication Programs'
+title: GSA launches new AI, Virtual Reality, and Authentication Programs
 summary: 'Today we&rsquo;re launching three new initiatives powered by GSA Digital Communities that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &amp;#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry. These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the'
-authors: [jherman]
+authors:
+  - jherman
 categories:
   - Communities
   - Managing Digital
@@ -28,8 +28,7 @@ Today we’re launching three new initiatives [powered by GSA Digital Communitie
 
 These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the bar forward on effective adoption of digital public services that meet the needs of citizens today and tomorrow… and plant seeds for growing long into the future.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." %}
 
 ## Artificial Intelligence for Citizen Services Community
 
@@ -53,7 +52,7 @@ Federal agencies across government use platforms and mobile apps to manage their
 
 Now, for the first time, anyone can browse and export data by agency, language, platform, or tag on 10,000 (and growing) official U.S. federal government accounts and mobile apps in one dashboard through [the new U.S. Digital Registry portal](https://usdigitalregistry.WHATEVER/).
 
-The successful [creation of the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.49khit1g0) and it’s  use by hundreds of individual federal managers for thousands of accounts relied on the collaborative power of our Digital Communities, which allowed for easy access for individual members no matter where they serve.
+The successful [creation of the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.49khit1g0) and it’s use by hundreds of individual federal managers for thousands of accounts relied on the collaborative power of our Digital Communities, which allowed for easy access for individual members no matter where they serve.
 
 ## So what are Digital Communities?
 
@@ -63,7 +62,7 @@ With nearly 10,000 federal memberships across more than a dozen mission fields a
 
 While designed for U.S. federal managers, we strive to transparently share and collaborate with all who are interested in these services, working together to discover opportunities, identify needs, and develop solutions that elevate programs across public services.
 
-## What’s  Next
+## What’s Next
 
 If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage](https://www.WHATEVER/communities/) and learn more.
 

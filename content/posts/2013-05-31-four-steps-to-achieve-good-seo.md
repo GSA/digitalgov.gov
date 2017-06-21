@@ -1,18 +1,17 @@
 ---
-
-
+url: /2013/05/31/four-steps-to-achieve-good-seo/
 date: 2013-05-31 11:21:54 -0400
-title: 'Four Steps to Achieve Good SEO'
-summary: 'Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they&rsquo;re relevant to a searcher’s query. Users generally expect'
-authors: [ammie-farraj-feijoo]
+title: Four Steps to Achieve Good SEO
+summary: 'Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they&rsquo;re relevant to a searcher&rsquo;s query. Users generally expect'
+authors:
+  - ammie-farraj-feijoo
 categories:
   - Content
 tag:
   - search engine optimization
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " %}
-Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s  query. Users generally expect to find the most relevant results at the top of the search engine’s  results page.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png)Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
 
 These four steps can help you achieve good SEO:
 
@@ -48,7 +47,7 @@ These four steps can help you achieve good SEO:
   </li>
 </ol>
 
-There are key aspects of a website that need attention for search engines to identify, retrieve, and display the best content for a user’s  search. The building blocks of good SEO include understanding:
+There are key aspects of a website that need attention for search engines to identify, retrieve, and display the best content for a user’s search. The building blocks of good SEO include understanding:
 
   * How commercial search engines work 
       * [Google Basics](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=70897)

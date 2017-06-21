@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/07/01/planning-with-a-purpose-3-reasons-why-agencies-created-native-apps/
 date: 2015-07-01 10:10:18 -0400
-title: 'Planning with a Purpose\: 3 Reasons Why Agencies Created Native Apps'
-summary: 'Mobile. It’s here, and it’s here to stay! Agencies in all areas of government meet real world needs through mobile products. Creating effective mobile products requires planning, however. Agencies who have created native apps outlined three areas they considered in the mobile development process\: strategy, business requirements and measuring value. Strategy Before creating a mobile'
-authors: [byrhonda-lyons]
+title: 'Planning with a Purpose: 3 Reasons Why Agencies Created Native Apps'
+summary: 'Mobile. It&rsquo;s here, and it&rsquo;s here to stay! Agencies in all areas of government meet real world needs through mobile products. Creating effective mobile products requires planning, however. Agencies who have created native apps outlined three areas they considered in the mobile development process: strategy, business requirements and measuring value. Strategy Before creating a mobile'
+authors:
+  - byrhonda-lyons
 categories:
   - Mobile
 tag:
@@ -24,18 +24,17 @@ tag:
   - U.S. Immigration and Customs Enforcement
 ---
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" %} 
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" %} 
-
-Mobile. It’s  here, and [it’s  here to stay](https://www.WHATEVER/2015/03/31/trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must/)!
+Mobile. It’s here, and [it’s here to stay](https://www.WHATEVER/2015/03/31/trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must/)!
 
 Agencies in all areas of government meet real world needs through mobile products. Creating effective mobile products requires planning, however. Agencies who have created native apps outlined three areas they considered in the mobile development process: strategy, business requirements and measuring value.
 
 ## Strategy
 
-Before creating a mobile product, you must analyze how it will fit into your agency’s  strategy. Not only is this information essential in justifying the need for mobile, it also will help quantify the application’s  value when you examine mobile metrics.
+Before creating a mobile product, you must analyze how it will fit into your agency’s strategy. Not only is this information essential in justifying the need for mobile, it also will help quantify the application’s value when you examine mobile metrics.
 
-When Sarah Herrmann, Digital Communications Manager for the American Battle Monument Commission (ABMC), implemented a mobile strategy, she created specific goals for ABMC’s  products. Since ABMC manages overseas cemeteries and memorials, each app needed to:
+When Sarah Herrmann, Digital Communications Manager for the American Battle Monument Commission (ABMC), implemented a mobile strategy, she created specific goals for ABMC’s products. Since ABMC manages overseas cemeteries and memorials, each app needed to:
 
   * Serve as a tour guide for those who visit cemeteries and memorials
   * Provide enough details so that visitors who aren’t able to visit in-person can still benefit
@@ -54,14 +53,13 @@ Will Sullivan, former Director of Mobile for the Broadcasting Board of Governors
 
 ## Value
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-ICE-operation-predator-Android-app-Arrests-page.jpg" alt="Operation Predator Arrests page as seen on the Android app." %}Once you have launched your mobile product, you need to quantify if the app or mobile website is valuable to your agency: what&#8217;s the business value?
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-ICE-operation-predator-Android-app-Arrests-page.jpg" alt="Operation Predator Arrests page as seen on the Android app." %}Once you have launched your mobile product, you need to quantify if the app or mobile website is valuable to your agency: what&#8217;s the business value?
-
-The U.S. Immigration and Customs Enforcement (ICE) Homeland Security Investigations (HSI) special agents solicit help from the public to locate fugitive child predators with the [Operation Predator smartphone app](https://www.WHATEVER/2015/05/28/ice-wields-smartphones-in-fight-against-child-exploitation/) and social media outreach. This app fits into HSI’s  work in combating child exploitation.
+The U.S. Immigration and Customs Enforcement (ICE) Homeland Security Investigations (HSI) special agents solicit help from the public to locate fugitive child predators with the [Operation Predator smartphone app](https://www.WHATEVER/2015/05/28/ice-wields-smartphones-in-fight-against-child-exploitation/) and social media outreach. This app fits into HSI’s work in combating child exploitation.
 
 Since Operation Predator launched for iPhones in September 2013 and Android devices in Oct 2014, the app has assisted in 6 arrests on charges related to child exploitation. Additional tips have also come from social media. Between the app and social media, the public assisted in roughly a dozen arrests of fugitive child predators that special agents previously could not locate.
 
-Another example is National Oceanic and Atmospheric Administration (NOAA) CrowdMag application, which collects and sends magnetometer data to NOAA researchers. Through the data, they have [created the world’s  first geomagnetic field model developed entirely using crowdsourced data](https://www.WHATEVER/2015/06/18/noaas-crowdmag-app-citizen-science-on-the-go/).
+Another example is National Oceanic and Atmospheric Administration (NOAA) CrowdMag application, which collects and sends magnetometer data to NOAA researchers. Through the data, they have [created the world’s first geomagnetic field model developed entirely using crowdsourced data](https://www.WHATEVER/2015/06/18/noaas-crowdmag-app-citizen-science-on-the-go/).
 
 Examining the outcomes of your mobile product is critical in determining the success or failure of your mobile product and determining future paths for mobile development at your agency.
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/07/11/why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer/
 date: 2014-07-11 1:55:10 -0400
-title: 'Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer'
+title: Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer
 summary: 'Do you scratch your head trying to figure out the latest trends to reach out to Hispanics in the U.S.? If you answered yes, don&amp;#8217;t worry, you&amp;#8217;re not alone. The current Soccer World Cup is lending a great analogy to help you think through your strategy to your customers. Some rules in soccer, as in'
-authors: [alberto-navas]
+authors:
+  - alberto-navas
 categories:
   - Content
   - Monthly Theme
@@ -14,10 +14,9 @@ tag:
   - multilingual digital group
 ---
 
-Do you scratch your head trying to figure out the latest trends to reach out to Hispanics in the U.S.? If you answered yes, don&#8217;t worry, you&#8217;re not alone. The current Soccer World Cup is lending a great analogy to help you think through your strategy to your customers. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="A World Cup soccer ball covered in various international flags." %} 
+Do you scratch your head trying to figure out the latest trends to reach out to Hispanics in the U.S.? If you answered yes, don&#8217;t worry, you&#8217;re not alone. The current Soccer World Cup is lending a great analogy to help you think through your strategy to your customers. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="A World Cup soccer ball covered in various international flags." %} 
 
-Some rules in soccer, as in other sports, are based on absolutes: if the ball crosses the touchline it’s  out of bounds. The [offside rule](http://en.wikipedia.org/wiki/Offside_%28association_football%29) is different; it’s  based on the relative position of players from both teams. Culture has the same effect on language; it makes the meaning of words relative. There is no better example of this than an event that captures the attention of all Hispanics from different places: the World Cup.
+Some rules in soccer, as in other sports, are based on absolutes: if the ball crosses the touchline it’s out of bounds. The [offside rule](http://en.wikipedia.org/wiki/Offside_%28association_football%29) is different; it’s based on the relative position of players from both teams. Culture has the same effect on language; it makes the meaning of words relative. There is no better example of this than an event that captures the attention of all Hispanics from different places: the World Cup.
 
 ## What you say might be different from what your audience hears
 
@@ -29,7 +28,7 @@ In a nutshell, the broadcasters used words that to some Hispanics seem harmless,
 
 ## Look for an approach, not “a” solution
 
-I obsess over content and terminology, it’s  part of my job. Clients, prospects and colleagues often ask me if their content should be in “Mexican Spanish.” The question is well intended since most U.S. Hispanics are of Mexican origin. However, it’s  a question that can lead down the wrong path because it begs for a single answer, “a” solution.
+I obsess over content and terminology, it’s part of my job. Clients, prospects and colleagues often ask me if their content should be in “Mexican Spanish.” The question is well intended since most U.S. Hispanics are of Mexican origin. However, it’s a question that can lead down the wrong path because it begs for a single answer, “a” solution.
 
 I prefer to think of the language and culture challenge as something to **approach**, rather than apply a solution to it. Language and culture are ever evolving, why lock them into a single solution?
 

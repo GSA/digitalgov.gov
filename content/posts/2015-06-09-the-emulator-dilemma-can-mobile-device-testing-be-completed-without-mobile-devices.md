@@ -1,13 +1,14 @@
 ---
-
-
+url: /2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/
 date: 2015-06-09 11:10:14 -0400
-title: 'The Emulator Dilemma\: Can Mobile Device Testing Be Completed Without Mobile Devices?'
-summary: 'Government agencies have created&nbsp;a variety of apps to meet the needs of the public. As&nbsp;you join in on the mobile first trend and begin developing your shiny new mobile application, you will need to test it. There are a basic set of questions that must be answered\: Does it function properly? Does it function properly'
-authors: [david-fern, awichman]
+title: 'The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?'
+summary: 'Government agencies have created&nbsp;a variety of apps to meet the needs of the public. As&nbsp;you join in on the mobile first trend and begin developing your shiny new mobile application, you will need to test it. There are a basic set of questions that must be answered: Does it function properly? Does it function properly'
+authors:
+  - david-fern
+  - awichman
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
@@ -38,21 +39,17 @@ There are many types of tools that provide alternatives to building your own lab
 
 The most popular emulators are [Xcode for Apple iOS](https://developer.apple.com/xcode/downloads) (below, left image) and the [Android SDK for Android devices](http://developer.android.com/sdk/index.html) (below, right image). Both of these tools were built by their respective operating system vendors and are free, relatively reliable, and easy to use, but they can take a bit of time to get setup and properly configured. Keep in mind that you need to have enough physical resources on your computer to run these tools.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Figure 1: Xcode iOS Emulator" %} 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Figure 2: Android SDK Emulator" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Figure 1: Xcode iOS Emulator" %} {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Figure 2: Android SDK Emulator" %}
 
 Another option is the light weight Chrome Device Mode and Mobile Emulation tool (below) that is built into Chrome version 32 and later. This allows you to see what your responsive design application looks like on a variety of different device screen sizes and resolutions.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Figure 3 - Chrome Device Mode & Mobile Emulation tool" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Figure 3 - Chrome Device Mode & Mobile Emulation tool" %}
 
 ## Who is Using Emulators and Simulators and to What Extent?
 
 The following chart, from a [research study sponsored by Sauce Labs](http://saucelabs.com/resources/sauce_labs_testing_trends_2015.pdf) [PDF], shows the percentage of people using simulators and emulators and to what extent:
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, "How do you test on a mobile platform?" Its three "slices" show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators (the breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally)." %}
 
 Is this surprising to you?  Which category do you fit into?
 
@@ -100,7 +97,7 @@ Native applications are far more unpredictable and require much more physical de
 
 ## Conclusion:
 
-While emulators and simulators are great tools for the tester’s  and developer’s  toolbox, testing on physical mobile devices will always be a required part of the development and testing process. Keep in mind: the public will not be accessing your agency&#8217;s mobile product via an emulator!
+While emulators and simulators are great tools for the tester’s and developer’s toolbox, testing on physical mobile devices will always be a required part of the development and testing process. Keep in mind: the public will not be accessing your agency&#8217;s mobile product via an emulator!
 
 This is why we have been testing agency websites and native apps on mobile devices in the [Federal Crowdsource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/), and we have learned a few things that you would not learn on an emulator. If you want to help out a fellow agency you can sign up to [help us virtually test the beta site of USA.gov](https://openopps.WHATEVER/tasks/94) at your leisure, June 15-22, 2015.
 
@@ -108,4 +105,4 @@ The goal of testing is to reduce the risk of releasing software that does not fu
 
 _You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/)._
 
-_David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s  Division of Quality, Testing and Validation._
+_David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation._

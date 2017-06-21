@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/03/30/the-data-briefing-an-interview-with-usajobs-on-new-changes-to-their-data-services/
 date: 2016-03-30 10:00:36 -0400
-title: 'The Data Briefing\: An Interview with USAJOBS on New Changes to Their Data Services'
+title: 'The Data Briefing: An Interview with USAJOBS on New Changes to Their Data Services'
 summary: 'The Office of Personnel Management released a new look and functionality to USAJOBS in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the changes to USAJOBS and the data it provides.  1. What are the'
-authors: [bbrantley]
+authors:
+  - bbrantley
 categories:
   - Data
   - Monthly Theme
@@ -26,8 +26,7 @@ tag:
 
 The Office of Personnel Management released a new look and functionality to [USAJOBS](https://www.usajobs.gov/) in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the [changes to USAJOBS](https://www.usajobs.gov/ResourceCenter/SpotlightDetails/?contentID=1137) and the data it provides.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-345-Screen-cap-of-the-USAJobsgov-homepage.jpg" alt="Screen capture of the desktop version of the U.S.A. Jobs website homepage" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-345-Screen-cap-of-the-USAJobsgov-homepage.jpg" alt="Screen capture of the desktop version of the U.S.A. Jobs website homepage" %}
 
 ## 1. What are the priorities this year for the USAJOBS team and the site?
 
@@ -41,8 +40,7 @@ The Office of Personnel Management released a new look and functionality to [USA
 
 USAJOBS hopes to continue to act as a trusted public service career platform that creates a responsive and transparent experience for its users. USAJOBS will help applicants identify exciting opportunities to join the government that best match their unique capabilities.”
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-350-USAjobs-map-search-page-shows-8521-available-jobs-worldwide.jpg" alt="The Map Search page of the U.S.A. Jobs website shows a data visualization map of the globe with 8,521 available positions worldwide on March 29, 2016." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-350-USAjobs-map-search-page-shows-8521-available-jobs-worldwide.jpg" alt="The Map Search page of the U.S.A. Jobs website shows a data visualization map of the globe with 8,521 available positions worldwide on March 29, 2016." %}
 
 ## 2. What kind of data is available in USAJOBS that would be of interest to app developers?
 
@@ -52,8 +50,7 @@ USAJOBS hopes to continue to act as a trusted public service career platform tha
 
 “We leverage the Innovation Lab at OPM to facilitate human-centered design research, design architecture and Web design to create new visualization tools that are being utilized in the Agency Talent Portal. They have helped us to gain a deeper understanding of the needs of our users and have supported a more holistic approach to Web design that allows USAJOBS to more accurately represent and meet those needs.”
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-824-USAJobsgov-mobile-website-on-Android-smartphone.jpg" alt="Screen capture of the mobile version of the U.S.A. Jobs website homepage on an Android smartphone." %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-824-USAJobsgov-mobile-website-on-Android-smartphone.jpg" alt="Screen capture of the mobile version of the U.S.A. Jobs website homepage on an Android smartphone." %}
 
 ## 4. Any plans to update the USAJOBS mobile app?
 
@@ -73,4 +70,4 @@ USAJOBS is probably one of the most used and visited sites of the federal govern
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

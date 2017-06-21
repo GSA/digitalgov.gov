@@ -1,10 +1,13 @@
 ---
-
-
+url: /2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/
 date: 2015-06-03 1:10:57 -0400
-title: 'Taking the Pulse of the Federal Government&amp;#8217;s Web Presence'
+title: 'Taking the Pulse of the Federal Government&#8217;s Web Presence'
 summary: 'The U.S. federal government is launching a new project to monitor how it&amp;#8217;s doing at best practices on the Web. A sort of health monitor for the U.S. government&amp;#8217;s websites, it&amp;#8217;s called Pulse&nbsp;and you can find it at&nbsp;pulse.cio.gov.  Pulse is a lightweight dashboard that uses the official .gov domain list to'
-authors: [gray-brooks, eric-mill, julia-elman, john-tindel]
+authors:
+  - gray-brooks
+  - eric-mill
+  - julia-elman
+  - john-tindel
 categories:
   - Managing Digital
   - Our Work
@@ -20,8 +23,7 @@ The U.S. federal government is launching a new project to monitor how it&#8217;s
 
 A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s called [Pulse](https://pulse.cio.gov/) and you can find it at [pulse.cio.gov](https://pulse.cio.gov/).
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-410-pulse.jpg" alt="600-x-410-pulse" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-410-pulse.jpg" alt="600-x-410-pulse" %}](https://pulse.cio.gov/)
 
 [Pulse](https://pulse.cio.gov/) is a lightweight dashboard that uses the [official .gov domain list](https://github.com/GSA/data/blob/gh-pages/dotgov-domains/2015-03-15-federal.csv) to measure two things:
 
@@ -34,8 +36,7 @@ The project will hopefully expand over time to measure more best practices and m
 
 ## Background
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-170-analytics-agencies.jpg" alt="600-x-170-analytics-agencies" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-170-analytics-agencies.jpg" alt="600-x-170-analytics-agencies" %}](https://pulse.cio.gov/analytics/agencies/)
 
 Pulse is a collaboration between 18F and the [Office of Government-wide Policy](http://www.gsa.gov/portal/content/104550) (OGP).
 
@@ -45,8 +46,7 @@ Like 18F, OGP is an office of the U.S. General Services Administration. Among ma
 
 ## How Pulse Works
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-168-https-agencies.jpg" alt="600-x-168-https-agencies" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-168-https-agencies.jpg" alt="600-x-168-https-agencies" %}](https://pulse.cio.gov/https/agencies/)
 
 Pulse was created in around six weeks. We built the project [in the open from day 1](https://github.com/18f/pulse), obtained our domain name and relevant cybersecurity approvals in our first couple weeks, and released new versions of the dashboard to [pulse.cio.gov](https://pulse.cio.gov/) early and often throughout the process.
 
@@ -67,8 +67,7 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 ## Measuring Participation in the Digital Analytics Program
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-181-analytics.jpg" alt="600-x-181-analytics" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-181-analytics.jpg" alt="600-x-181-analytics" %}](https://pulse.cio.gov/analytics/domains/)
 
 The [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
@@ -76,15 +75,13 @@ To participate, agencies place some JavaScript on their websites that report to 
 
 Access to the account is shared within the federal government, and much of its data is shared publicly on [analytics.usa.gov](https://analytics.usa.gov/). DAP also regularly publishes a list of around 4,000 participating websites that have reported visitor data in the preceding 2 weeks.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-221-analytics-domains.jpg" alt="600-x-221-analytics-domains" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-221-analytics-domains.jpg" alt="600-x-221-analytics-domains" %}](https://pulse.cio.gov/analytics/domains/)
 
 Pulse measures participation in the simplest way possible: by comparing the .gov domain list to the list of participating websites published by the Digital Analytics Program. It&#8217;s not rocket science, but in the future we&#8217;d like to automate this process using the [analytics-reporter](https://github.com/18F/analytics-reporter) tool [we created for analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/).
 
 ## Measuring HTTPS in .gov
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-194-https.jpg" alt="600-x-194-https" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-194-https.jpg" alt="600-x-194-https" %}](https://pulse.cio.gov/https/domains/)
 
 Enforcing strong HTTPS is an [important baseline](https://18f.gsa.gov/2014/11/13/why-we-use-https-in-every-gov-website-we-make/) for government websites, and is in the [process](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/) of [becoming](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure) the baseline for the Web at large.
 
@@ -92,8 +89,7 @@ HTTPS is simple enough to detect, but characterizing HTTPS support for a domain,
 
 We lean heavily on the open source [site-inspector](https://github.com/benbalter/site-inspector), a command line tool written in Ruby. Site-inspector measures various useful things about websites, and was originally written by Ben Balter to [analyze .gov domains](http://ben.balter.com/2015/05/11/third-analysis-of-federal-executive-dotgovs/).
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-211-https-domains.jpg" alt="600-x-211-https-domains" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-211-https-domains.jpg" alt="600-x-211-https-domains" %}](https://pulse.cio.gov/https/domains/)
 
 To get the precision we wanted, we needed to take into account several subtle things about domains:
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/07/22/digitalgov-summit-recap-how-we-the-techies-can-effect-change/
 date: 2015-07-22 11:00:27 -0400
-title: 'DigitalGov Summit Recap\: How &amp;#8220;We, the Techies&amp;#8221; Can Effect Change'
+title: 'DigitalGov Summit Recap: How &#8220;We, the Techies&#8221; Can Effect Change'
 summary: 'Who do you need to bring to the table to make a better world? In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the 2015 DigitalGov Citizen Services Summit. She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government. &ldquo;We'
-authors: [awichman]
+authors:
+  - awichman
 categories:
   - Managing Digital
   - Monthly Theme
@@ -14,14 +14,13 @@ tag:
   - Recaps
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." %} 
 
 Who do you need to bring to the table to make a better world?
 
 In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the [2015 DigitalGov Citizen Services Summit](https://summit.WHATEVER/). She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government.
 
-“We have extraordinary teammates across government,” Smith said. “It’s  one of the coolest things. I just came here in September from Silicon Valley. It was amazing to see what people have accomplished.”
+“We have extraordinary teammates across government,” Smith said. “It’s one of the coolest things. I just came here in September from Silicon Valley. It was amazing to see what people have accomplished.”
 
 Smith acknowledged that “We, the Techies,” have not always been included in federal decision-making. The result? A buried tech talent around government, and a culture where technology is done through vendors or services. This separateness is not true of other disciplines; she pointed to law and medicine as areas where the government attracts talent in a way where people flow in and out of government. For example, lawyers may clerk for federal judges early in their careers.
 

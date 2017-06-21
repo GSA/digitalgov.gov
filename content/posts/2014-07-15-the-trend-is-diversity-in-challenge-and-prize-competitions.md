@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/07/15/the-trend-is-diversity-in-challenge-and-prize-competitions/
 date: 2014-07-15 10:00:13 -0400
-title: 'The Trend is Diversity, in Challenge and Prize Competitions'
+title: The Trend is Diversity, in Challenge and Prize Competitions
 summary: 'The U.S. government has launched more than&nbsp;45 challenge and prize competitions so far in Fiscal Year 2014. What trends are we seeing? Well, the trend is&amp;#8230;diversity. That might sound like an oxymoron, but federal agencies are really putting themselves out there, asking the crowd to help tackle a wide array of problems. Until August 3rd,'
-authors: [ktrebon]
+authors:
+  - ktrebon
 categories:
   - Challenges
   - Monthly Theme
@@ -22,8 +22,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-222-diversity-Collage-of-Kiev-front-doors-Ukraine-maroznc-iStock-Thinkstock-182253106.jpg" alt="Challenges are a first step/front door to problem solving with the public. Photo shows a collage of Kiev front doors in the Ukraine, representing diversity." %} 
 
 The U.S. government has launched more than 45 [challenge and prize competitions](https://challenge.gov/ "Challenge.gov list of federal prize competitions") so far in Fiscal Year 2014. What trends are we seeing? Well, the trend is&#8230;diversity. That might sound like an oxymoron, but federal agencies are really putting themselves out there, asking the crowd to help tackle a wide array of problems.
 

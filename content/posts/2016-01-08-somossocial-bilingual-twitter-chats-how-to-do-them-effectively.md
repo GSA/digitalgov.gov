@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/01/08/somossocial-bilingual-twitter-chats-how-to-do-them-effectively/
 date: 2016-01-08 10:00:00 -0400
-title: '#SomosSocial\: Bilingual Twitter Chats&mdash;How to Do Them Effectively'
+title: '#SomosSocial: Bilingual Twitter Chats—How to Do Them Effectively'
 summary: 'There are 11.7 million + reasons to be on Twitter&mdash;the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and'
-authors: [victoria-wales]
+authors:
+  - victoria-wales
 categories:
   - Social Media
 tag:
@@ -16,8 +16,7 @@ tag:
   - USAgov
 ---
 
-There are 11.7 million + reasons to be on Twitter—the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and target your messages via Twitter chats? 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Social-Network-Birds-Rawpixel-Ltd-iStock-Thinkstock-180718919.jpg" alt="A diverse group of hands hold up social media bird shapes of various bright colors." %} 
+There are 11.7 million + reasons to be on Twitter—the approximate number of Hispanics in the U.S. who are using the platform. And out of those 11.7 million, 43% tweet in English and in Spanish. Hispanics over index their counterparts when it comes to digital technologies and services, but how do you reach them and target your messages via Twitter chats? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Social-Network-Birds-Rawpixel-Ltd-iStock-Thinkstock-180718919.jpg" alt="A diverse group of hands hold up social media bird shapes of various bright colors." %} 
 
 On December 9, [USAGov](https://www.usa.gov/) and [Salud Today](http://www.saludtoday.com/blog/) led a [DigitalGov University](https://www.WHATEVER/digitalgov-university/) webinar to discuss how to organize, plan, and execute a successful bilingual Twitter chat. Like all social media events, good planning, coordination, and promotion are key. But what other elements make these successful?
 

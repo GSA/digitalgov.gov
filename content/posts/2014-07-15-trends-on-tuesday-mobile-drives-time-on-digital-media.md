@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/07/15/trends-on-tuesday-mobile-drives-time-on-digital-media/
 date: 2014-07-15 2:28:13 -0400
-title: 'Trends on Tuesday\: Mobile Drives Time on Digital Media'
-summary: 'Major mobile milestones in May&mdash;try saying that three times! A new mobile usage report from ComScore revealed two significant shifts to mobile in May\: total time spent on digital media and time spent on apps. Here are a few highlights from the report\: Mobile platforms&mdash;smartphones and tablets&mdash;accounted for 60% of total time spent on digital'
-authors: [tjohnson]
+title: 'Trends on Tuesday: Mobile Drives Time on Digital Media'
+summary: 'Major mobile milestones in May&mdash;try saying that three times! A new mobile usage report from ComScore revealed two significant shifts to mobile in May: total time spent on digital media and time spent on apps. Here are a few highlights from the report: Mobile platforms&mdash;smartphones and tablets&mdash;accounted for 60% of total time spent on digital'
+authors:
+  - tjohnson
 categories:
   - Mobile
   - Social Media
@@ -15,8 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" %} 
 
 Major mobile milestones in May—try saying that three times! A new mobile usage report from [ComScore](http://www.comscore.com/Insights/Blog/Major-Mobile-Milestones-in-May-Apps-Now-Drive-Half-of-All-Time-Spent-on-Digital) revealed two significant shifts to mobile in May: total time spent on digital media and time spent on apps. Here are a few highlights from the report:
 

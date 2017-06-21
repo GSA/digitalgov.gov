@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/30/this-weekend-event-list-for-civic-hacking/
 date: 2014-05-30 2:33:31 -0400
-title: 'This Weekend\: Event List for Civic Hacking'
+title: 'This Weekend: Event List for Civic Hacking'
 summary: 'Our fabulous colleague Jeanne Holm is ready for the #hackforchange events this weekend and summarized some tips, notes and links to resources on Data.gov. Great things will happen this weekend! Remember, if you hear about great uses of government data, let everyone'
-authors: [tmarcoullier]
+authors:
+  - tmarcoullier
 categories:
   - Challenges
   - Data
@@ -44,8 +44,7 @@ tag:
   - White House
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" %}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" %}Our fabulous colleague Jeanne Holm is ready for the [#hackforchange](https://twitter.com/hashtag/hackforchange) events this weekend and summarized some <a title="resources for civic hack day" href="https://www.data.gov/developers/hacking-change-tips-national-civic-day-hacking/" target="_blank">tips, notes and links to resources on Data.gov</a>.
 
 > Great things will happen this weekend! Remember, if you hear about great uses of government data, let everyone know by tweeting #hackforchange or mention @usdatagov. The Data.gov team is organizing a webinar in a week, showcasing some of the best outcomes and hosting lightning talks by the developers and designers.
 

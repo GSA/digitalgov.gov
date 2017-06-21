@@ -1,10 +1,11 @@
 ---
-
-
+url: /2014/10/10/what-do-dear-abby-and-the-federal-government-have-in-common/
 date: 2014-10-10 10:00:48 -0400
-title: 'What Do Dear Abby and the Federal Government Have in Common?'
+title: What Do Dear Abby and the Federal Government Have in Common?
 summary: 'Lots of people ask us questions. So it only makes sense for us to partner up to answer some of those questions. Since the 1970&rsquo;s, USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.)'
-authors: [jessica-milcetich, jacqueline-snee]
+authors:
+  - jessica-milcetich
+  - jacqueline-snee
 categories:
   - Content
   - Metrics
@@ -12,16 +13,15 @@ tag:
   - USAgov
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" %}Lots of people ask us questions.
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" %}Lots of people ask us questions.
 
 So it only makes sense for us to partner up to answer some of those questions.
 
-Since the 1970’s , USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.) into the hands of the people who need them most.
+Since the 1970’s, USA.gov has partnered with Dear Abby to help get free printed government publications on a variety of topics (health, disaster preparedness, caring for aging loved ones, etc.) into the hands of the people who need them most.
 
 While much of the work at USA.gov is focused on delivering government information in a digital way, we know some of our audience doesn’t have access to the Internet or just prefers to consume their information in hard copy.
 
-Since it’s  our mission to deliver information in the manner and format people prefer, we partner with Dear Abby to reach this important segment of our audience.
+Since it’s our mission to deliver information in the manner and format people prefer, we partner with Dear Abby to reach this important segment of our audience.
 
 We send Abby a letter asking a question, and she provides an answer directing people to order relevant government information.
 
@@ -29,7 +29,7 @@ So how exactly do we measure our performance with print outreach efforts?
 
 ## The Metrics
 
-As you can imagine there are many metrics to look at. In our promotions, and with Dear Abby especially, there is not just quantitative data (orders, downloads, calls, page views) but qualitative data too (letters from Abby’s  readers and feedback received from call center agents from Abby readers).
+As you can imagine there are many metrics to look at. In our promotions, and with Dear Abby especially, there is not just quantitative data (orders, downloads, calls, page views) but qualitative data too (letters from Abby’s readers and feedback received from call center agents from Abby readers).
 
 So keeping that in mind here are a few examples of the metrics we collected and how we will use them to improve our promotions and outreach efforts in the future and enhance the customer experience:
 

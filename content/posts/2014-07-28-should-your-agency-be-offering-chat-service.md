@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/07/28/should-your-agency-be-offering-chat-service/
 date: 2014-07-28 1:58:20 -0400
-title: 'Should Your Agency Be Offering Chat Service?'
-summary: 'Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent Government Contact'
-authors: [tonya-beres]
+title: Should Your Agency Be Offering Chat Service?
+summary: Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent Government Contact
+authors:
+  - tonya-beres
 categories:
   - Communities
   - Managing Digital
@@ -21,14 +21,13 @@ tag:
   - USAgov
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-200-Computer-mouse-connected-to-the-word-SOS-internet-concept-lcs813-iStock-Thinkstock-482767263.jpg" alt="Computer mouse connected to the word SOS" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-200-Computer-mouse-connected-to-the-word-SOS-internet-concept-lcs813-iStock-Thinkstock-482767263.jpg" alt="Computer mouse connected to the word SOS" %} 
 
 Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent [Government Contact Center Council](https://www.WHATEVER/communities/government-contact-center-council-g3c/ "Government Contact Center Council (G3C)") meeting, colleagues from HHS ([cancer.gov](http://www.cancer.gov/)), Education ([StudentAid.gov](https://studentaid.ed.gov/)), and GSA ([USA.gov](http://www.usa.gov/)) shared their challenges and successes in implementing and managing Web chat. Some agencies have 10 years experience in this field!
 
 ## Why did you choose to offer Web chat?
 
-Agencies offered Web chat in response to requests from customers who wanted to talk to customer service representatives immediately, while they were browsing an agency’s  site. Web chat is especially appealing to younger audiences as well as customers who are trying to complete a task on the site, such as filling out an electronic form.
+Agencies offered Web chat in response to requests from customers who wanted to talk to customer service representatives immediately, while they were browsing an agency’s site. Web chat is especially appealing to younger audiences as well as customers who are trying to complete a task on the site, such as filling out an electronic form.
 
 ## Are there special requirements for chat agents?
 
@@ -36,7 +35,7 @@ Education and GSA start agents on phones, and when they are more experienced, mo
 
 ## What content do the chat agents use?
 
-The panelists said their agents have a bank of preformatted responses, use their knowledgebases and websites. USA.gov provides a link to the relevant FAQs on the topic, or the URL to an agency’s  page, but also provides context and an explanation of why they’re providing the link.
+The panelists said their agents have a bank of preformatted responses, use their knowledgebases and websites. USA.gov provides a link to the relevant FAQs on the topic, or the URL to an agency’s page, but also provides context and an explanation of why they’re providing the link.
 
 ## How do the customer satisfaction scores for chat inquiries compare to those of email/phone?
 
@@ -44,8 +43,7 @@ At GSA, for USA.gov, the Chat channel consistently receives higher customer sati
 
 ## What are some Chat Best Practices?
 
-  * 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-call-center-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-450795317.jpg" alt="Beautiful smiling businesswoman using futuristic interface showing applications" %} 
+  * {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-call-center-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-450795317.jpg" alt="Beautiful smiling businesswoman using futuristic interface showing applications" %} 
     Capture inquiry topic to identify trends. Drop-down menus help categorize the conversations.</li> 
     
       * Cross-utilize agents by having them work on email responses between chat sessions.
@@ -69,7 +67,7 @@ At GSA, for USA.gov, the Chat channel consistently receives higher customer sati
     
     Some panelists limited the number of simultaneous chats to two or three per representative. Industry experts recommend that the complexity of the chat drive the allowable number of simultaneous chats.
     
-    ## Are you using proactive chat (where a chat window will pop-up on user’s  screen offering chat assistance)?
+    ## Are you using proactive chat (where a chat window will pop-up on user’s screen offering chat assistance)?
     
     None of the panelists is using proactive chat right now, but several are looking into it as a possibility for the future.
     

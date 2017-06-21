@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/02/17/the-data-briefing-demand-driven-open-data-at-health-and-human-services/
 date: 2016-02-17 10:00:13 -0400
-title: 'The Data Briefing\: Demand-Driven Open Data at Health and Human Services'
-summary: 'For many agencies, what data to make open is left up to the agency’s judgment. This has worked well as agencies do a good job in understanding the public’s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is'
-authors: [bbrantley]
+title: 'The Data Briefing: Demand-Driven Open Data at Health and Human Services'
+summary: 'For many agencies, what data to make open is left up to the agency&rsquo;s judgment. This has worked well as agencies do a good job in understanding the public&rsquo;s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is'
+authors:
+  - bbrantley
 categories:
   - Data
 tag:
@@ -17,8 +17,7 @@ tag:
   - USPTO
 ---
 
-For many agencies, what data to make open is left up to the agency’s  judgment. This has worked well as agencies do a good job in understanding the public’s  needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is how to best accommodate those requests given the constraints of agency budgets and open data support staff. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" %} 
+For many agencies, what data to make open is left up to the agency’s judgment. This has worked well as agencies do a good job in understanding the public’s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is how to best accommodate those requests given the constraints of agency budgets and open data support staff. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" %} 
 
 Recently, the Idea Lab at the Department of Health and Human Services (HHS) turned to lean startup methodology to develop [Demand-Driven Open Data](http://ddod.healthdata.gov/wiki/Main_Page) (DDOD). According to HHS, DDOD requests are converted to <a href="http://www.usability.gov/how-to-and-tools/methods/use-cases.html" target="_blank">use cases</a>. A use case is more than just a request for a dataset; the use case also describes who will be using the data, how the data will be used and the value of fulfilling the data request. Use cases are documented and made publicly available so other potential requestors can determine if an existing use case will meet their needs.
 
@@ -32,4 +31,4 @@ _DDOD was made possible by [HHS&#8217;s Entrepreneur-in-Residence program](http:
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
-_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s  Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

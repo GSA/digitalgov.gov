@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/05/16/designing-in-the-open-training-recap/
 date: 2014-05-16 3:03:07 -0400
-title: 'Designing in the Open Training Recap'
+title: Designing in the Open Training Recap
 summary: 'During the recent redesign of Data.gov, the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &amp;#8220;Designing in the Open&mdash;Public Participation in Government Web Design,&amp;#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from'
-authors: [andreanocesigritz]
+authors:
+  - andreanocesigritz
 categories:
   - Content
   - Data
@@ -31,10 +31,10 @@ Here are some tips that have helped them deliver better service to the public:
   * Deliver on the promise
   * Rinse and repeat-we are delivering new builds every month
 
-You can learn more about about those tips and Data.gov’s  journey in changing the idea of redesigning websites in the government by watching the video below.
+You can learn more about about those tips and Data.gov’s journey in changing the idea of redesigning websites in the government by watching the video below.
 
 [youtube https://www.youtube.com/watch?v=A67xHIFGdfc]
   
-You can also read more about [Data.gov’s  iterative, constantly evolving feedback process](https://www.WHATEVER/2014/03/18/data-gov-usability-case-study/ "Data.gov – Usability Case Study"). It’s  ongoing and everyday, all the time, from anywhere.
+You can also read more about [Data.gov’s iterative, constantly evolving feedback process](https://www.WHATEVER/2014/03/18/data-gov-usability-case-study/ "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
 
 _This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard](https://www.WHATEVER/2014/05/07/because-its-hard/), and check back for more articles related to this theme in May._

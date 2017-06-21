@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/13/federal-mobile-code-sharing-catalog-is-here/
 date: 2013-05-13 6:49:40 -0400
-title: 'Federal Mobile Code Sharing Catalog Is Here'
+title: Federal Mobile Code Sharing Catalog Is Here
 summary: 'Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&amp;#8211;the federal&nbsp;Mobile Code Catalog&nbsp;sponsored by the Digital Services Innovation Center. This catalog is hosted on GitHub (more on why that matters in a moment). Here,'
-authors: [michael-pulsifer]
+authors:
+  - michael-pulsifer
 categories:
   - Code
   - Mobile
@@ -15,8 +15,7 @@ tag:
   - Mobile Code Catalog
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" %}
-Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&#8211;the federal [Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog) sponsored by the Digital Services Innovation Center.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/mobile-codesharing-21-350x214.jpg)Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&#8211;the federal [Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog) sponsored by the Digital Services Innovation Center.
 
 This catalog is hosted on GitHub (more on why that matters in a moment). Here, agency developers looking to jump-start their efforts can find source code for native and web projects from a variety of sources: federal agencies, other governments, and third-parties in the private sector.
 
@@ -24,9 +23,9 @@ Developers can access whole [frameworks for a mobile web site](http://gsa.github
 
 ### More than code
 
-It’s  not all about code, though. Any successful mobile program needs to be able to [test the quality](http://gsa.github.io/Mobile-Code-Catalog/testing.html) and the accessibility of their apps.  The catalog also includes  test scripts to help your agency validate the functionality and accessibility of their app.  You can also find links to data, APIs and other federal developer pages.
+It’s not all about code, though. Any successful mobile program needs to be able to [test the quality](http://gsa.github.io/Mobile-Code-Catalog/testing.html) and the accessibility of their apps.  The catalog also includes  test scripts to help your agency validate the functionality and accessibility of their app.  You can also find links to data, APIs and other federal developer pages.
 
-The Mobile Code Catalog is hosted on GitHub for a reason. In addition to the form that agencies can use to submit their open source project or resource, the catalog itself can be “forked.” Forking the catalog is the process of making a copy of it so improvements can be made without affecting the original copy. Those improvements can then be submitted to us through what’s  called a “pull request.” If everything’s  in order, we&#8217;ll incorporate those improvements with just a few clicks.
+The Mobile Code Catalog is hosted on GitHub for a reason. In addition to the form that agencies can use to submit their open source project or resource, the catalog itself can be “forked.” Forking the catalog is the process of making a copy of it so improvements can be made without affecting the original copy. Those improvements can then be submitted to us through what’s called a “pull request.” If everything’s in order, we&#8217;ll incorporate those improvements with just a few clicks.
 
 ### What&#8217;s next
 

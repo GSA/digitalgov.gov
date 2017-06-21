@@ -1,14 +1,14 @@
 ---
-
-
+url: /2015/03/24/usability-design-for-kids-things-federal-workers-should-know/
 date: 2015-03-24 10:00:50 -0400
-title: 'Usability Design for Kids\: Things Federal Workers Should Know'
-summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn&rsquo;t really designed for kids —most of the electronic materials I came'
-authors: [justin-dopke]
+title: 'Usability Design for Kids: Things Federal Workers Should Know'
+summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn&rsquo;t really designed for kids &ndash;most of the electronic materials I came'
+authors:
+  - justin-dopke
 categories:
   - Accessibility
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - accessibility
@@ -16,8 +16,7 @@ tag:
   - UX
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" %}
 
 I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn’t really designed for kids –most of the electronic materials I came across for the classroom were on CDs and such.
 
@@ -33,8 +32,7 @@ So, remember, WHO are you designing for? Think about the content and message you
 
 The first major project I was involved with was really enlightening (and I should have seen this coming, in retrospect): the content was more or less dictated to the users by college professors (!), which is fine if you are in grad school, but not if you are in middle school.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" %}
 
 &nbsp;
 
@@ -50,14 +48,13 @@ The best way to set up design and evaluation opportunities is to involve the peo
 
 And of course –actively involve educators in the process. They will give you their impressions, and may help you get access and testers (kids). They will also be able to validate your task list and usability evaluation metrics.
 
-As far as compensation, books,movie vouchers, and iStore gift cards may work. Just make sure it’s  not “lame.” Again, ask the teachers what the kids are interested in &#8211; they will probably know better than the parents.
+As far as compensation, books,movie vouchers, and iStore gift cards may work. Just make sure it’s not “lame.” Again, ask the teachers what the kids are interested in &#8211; they will probably know better than the parents.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-kids-and-adults.jpg" alt="Adults help chidlren at kids.gov usability test" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-kids-and-adults.jpg" alt="Adults help chidlren at kids.gov usability test" %}
 
 ## 4. Get pros to help
 
-Getting a good mediator is really crucial. Having someone who “speaks kid” is really, REALLY important here. You obviously want to build a feeling of rapport with the person doing the evaluation. While I know it’s  easy to talk down to kids, this will often backfire. Badly. Again, my experience is mostly with middle school kids, but no kid wants to be treated like a little kid (unless they ARE a little kid), but they may not be able to handle being spoken to like they are in college either. Ask an educator. Ask many. Ask often.
+Getting a good mediator is really crucial. Having someone who “speaks kid” is really, REALLY important here. You obviously want to build a feeling of rapport with the person doing the evaluation. While I know it’s easy to talk down to kids, this will often backfire. Badly. Again, my experience is mostly with middle school kids, but no kid wants to be treated like a little kid (unless they ARE a little kid), but they may not be able to handle being spoken to like they are in college either. Ask an educator. Ask many. Ask often.
 
 ## 5. Think accessibility
 

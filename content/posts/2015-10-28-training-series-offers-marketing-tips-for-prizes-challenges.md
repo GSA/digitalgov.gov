@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/10/28/training-series-offers-marketing-tips-for-prizes-challenges/
 date: 2015-10-28 1:00:06 -0400
-title: 'Training Series Offers Marketing Tips for Prizes & Challenges'
+title: 'Training Series Offers Marketing Tips for Prizes &#038; Challenges'
 summary: 'Marketing and public education is an essential part of any successful prize competition. The good news for federal agencies working with&nbsp;tight budgets is that both can be accomplished without breaking the bank. &ldquo;We have found other ways than spending a lot of money,&rdquo; said Denice Shaw, senior advisor to the Chief Innovation Officer at the'
-authors: [eric-beidel]
+authors:
+  - eric-beidel
 categories:
   - Challenges
 tag:
@@ -16,8 +16,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
 
 Marketing and public education is an essential part of any successful prize competition.
 
@@ -27,7 +26,7 @@ The good news for federal agencies working with tight budgets is that both can b
 
 Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar](https://www.WHATEVER/event/module-4-the-importance-of-marketing-and-public-education/) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum](https://www.WHATEVER/event/module-5-legal-considerations-for-prizes/#schedule) on incentivized prize competitions.
 
-Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s  [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
+Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
 
 The marketing of challenges helps recruit and motivate participants, bolsters the brand of partners or sponsors, and excites the public.
 
@@ -61,7 +60,7 @@ This challenge coincides with the 50th anniversary of Star Trek, the television 
 
 The trio of experts offered advice on every aspect of marketing and public outreach. For more details, [watch and listen](https://www.youtube.com/watch?v=yEyFIzj_7RM&feature=youtu.be) to the entire webinar.
 
-For now, here’s  a sampling of tips from the panel:
+For now, here’s a sampling of tips from the panel:
 
   * Know your audience and set targeted objectives for number and type of partners and participating teams.
   * Develop tailored messages based on audiences. Keep it simple, impactful, and memorable.

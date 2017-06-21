@@ -1,12 +1,12 @@
 ---
-
-
+url: /2013/04/29/atf-gov-usability-case-study/
 date: 2013-04-29 12:21:56 -0400
-title: 'ATF.gov &amp;#8211; Usability Case Study'
+title: 'ATF.gov &#8211; Usability Case Study'
 summary: 'The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some really valuable information for the public that a lot of people search for on&nbsp;ATF.gov. It&amp;#8217;s important that the information is easily and quickly accessible.&nbsp;Government agencies reach a wide audience with their information, so making sure everyone can understand your content is important. The DigitalGov User'
-authors: [jonathan-rubin]
+authors:
+  - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - ATF
   - Bureau of Alcohol Tobacco Firearms and Explosives
@@ -28,8 +28,7 @@ The site search used autocomplete when the user pressed enter. The resulting sea
 
 The autocomplete function was removed from the search bar, so that the user gets exactly the search results they want.
 
-<span style="font-size: 1.5em"><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png">
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png" alt="Screenshot of ATF.gov before user testing." %}</a></span>
+<span style="font-size: 1.5em"><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png" alt="Screenshot of ATF.gov before user testing." %}</a></span>
 
 <span style="font-size: 1.5em"><strong>Problem 2: Homepage Links Not In Order of Importance </strong></span>
 
@@ -49,5 +48,4 @@ Text size was increased to at least 10 point font.
 
 The redesigned ATF homepage presents a much more user–friendly and information–rich experience. The site is more visually appealing as well, and less daunting to new visitors.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png" alt="Screenshot of ATF.gov before user testing." %}
- {% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-after.png" alt="Screenshot of ATF.gov after user testing." %}
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png" alt="Screenshot of ATF.gov before user testing." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-before_0.png) [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-after.png" alt="Screenshot of ATF.gov after user testing." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/atfgov-after.png)

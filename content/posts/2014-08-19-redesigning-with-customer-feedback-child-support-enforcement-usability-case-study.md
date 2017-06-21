@@ -1,13 +1,13 @@
 ---
-
-
+url: /2014/08/19/redesigning-with-customer-feedback-child-support-enforcement-usability-case-study/
 date: 2014-08-19 1:00:49 -0400
-title: 'Redesigning with Customer Feedback\: Child Support Enforcement Usability Case Study'
-summary: 'The Federal Office of Child Support Enforcement at the Administration for Children and Families had a visually appealing website after an agency-wide redesign of program websites. The problem\: Key stakeholders complained they could no longer easily find needed information. Their feedback prompted us to facilitate a UX-minded focus group to recommend improvements that met both users&rsquo; business needs and the redesign goals.'
-authors: [crystal-peeler]
+title: 'Redesigning with Customer Feedback: Child Support Enforcement Usability Case Study'
+summary: 'The Federal Office of Child Support Enforcement at the Administration for Children and Families had a visually appealing website after an agency-wide redesign of program websites. The problem: Key stakeholders complained they could no longer easily find needed information. Their feedback prompted us to facilitate a UX-minded focus group to recommend improvements that met both users&rsquo; business needs and the redesign goals.'
+authors:
+  - crystal-peeler
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - Customer Experience
@@ -29,29 +29,25 @@ We wanted the focus group to include representatives from several states and use
 
 Although we have three levels of landing pages, users couldn’t access all the sub-levels from the navigation bar.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-379-OCSE\_1a.jpg" alt="600-x-379-OCSE\_1a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-379-OCSE\_1a.jpg" alt="600-x-379-OCSE\_1a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/948-x-599-OCSE_1a.jpg)
 
 ### Solution: Expand Navigation Menu
 
 By expanding the navigation bar to show all the pages that exist under a main section, users can access second and third tier pages directly from the navigation bar.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-354-OCSE\_2a.jpg" alt="600-x-354-OCSE\_2a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-354-OCSE\_2a.jpg" alt="600-x-354-OCSE\_2a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/911-x-537-OCSE_2a.jpg)
 
 ### Problem 2: New Design Layout Not Useful For All Pages
 
 The design layout with tile images didn’t work for the policy page. It was too restrictive and allowed only a few policy documents to be featured at a time. Users wanted a list of all policy documents they could easily scan and sort by type and year.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-629-OCSE\_3a.jpg" alt="600-x-629-OCSE\_3a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-629-OCSE\_3a.jpg" alt="600-x-629-OCSE\_3a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/710-x-744-OCSE_3a.jpg)
 
 ### Solution: Redesigned Page Layout to Provide List and Sorting Tool
 
 The new design layout allows access to all policy documents users can sort by type and year.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-508-OCSE\_4a.jpg" alt="600-x-508-OCSE\_4a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-508-OCSE\_4a.jpg" alt="600-x-508-OCSE\_4a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/837-x-709-OCSE_4a.jpg)
 
 ### Problem 3: Difficulty Finding Commonly-Used Resources
 
@@ -61,8 +57,7 @@ During focus group sessions, we learned that state representatives wanted quick 
 
 The new “Quick Links” feature puts these frequently-used resources at their fingertips.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-352-OCSE\_5a.jpg" alt="600-x-352-OCSE\_5a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-352-OCSE\_5a.jpg" alt="600-x-352-OCSE\_5a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/757-x-444-OCSE_5a.jpg)
 
 ### Problem 4: No Easy Way to Share Content
 
@@ -72,8 +67,7 @@ Since a significant part of our website is used by program staff at the state, r
 
 The new share button allows readers to share content right from the page. For those who prefer social media, the share button is compatible with over 300 apps!
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-442-OCSE\_6a.jpg" alt="600-x-442-OCSE\_6a" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-442-OCSE\_6a.jpg" alt="600-x-442-OCSE\_6a" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/739-x-545-OCSE_6a.jpg)
 
 With the help of our core users and our parent agency, we now have the best of both worlds: A great new visual design that quickly delivers what our users need.
 

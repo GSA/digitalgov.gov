@@ -1,18 +1,17 @@
 ---
-
-
+url: /2013/08/13/trends-on-tuesday-people-are-crazy-about-mobile/
 date: 2013-08-13 10:02:46 -0400
-title: 'Trends on Tuesday\: People Are Crazy about Mobile!'
+title: 'Trends on Tuesday: People Are Crazy about Mobile!'
 summary: 'The way people are using mobile is changing&mdash;we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways. With the prolific numbers of mobile users and the increased use of mobile in our lives, comes'
-authors: [lisa-wilcox]
+authors:
+  - lisa-wilcox
 categories:
   - Mobile
 tag:
   - Trends on Tuesday
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." %}
-The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.
 
 With the prolific numbers of mobile users and the increased use of mobile in our lives, comes a concern. A concern expressed repeatedly centers around the notion of habit. While many appreciate the continuous access to social networks and blogs, it has been observed that gains achieved in productivity do not automatically generate free time but instead tend to complicate the work–life balance.  And as the number of mobile users increases, so do strange behaviors and trends.
 
@@ -24,7 +23,7 @@ Seems we just can’t be without them: 72% of respondents report being within fi
 
   * 12% while in the shower
   * 19% in their place of worship
-  * 32% at a child’s  or school function
+  * 32% at a child’s or school function
   * 33% during a dinner date
   * 35% in a movie theater
 
@@ -36,7 +35,7 @@ People are using their smartphones in a variety of ways that have become rather 
 
 In May 2013, we reported how 45% of consumers searching for local products and services use their mobile phone first. And in July 2013, we reported how [people use their smartphones as a second screen for TV viewing](https://digitalgov.sites.usa.gov/2013/07/16/trends-on-tuesday-mobile-a-second-screen-for-tv-viewing/ "Trends on Tuesday: Mobile a “Second Screen” for TV Viewing"). Folks are watching television shows with their mobile in hand and commenting on social media or texting comments to friends. Advertisers see this trend and run promotions and encourage viewers to either comment on social media or send a text to a number to get updates during the show or event.
 
-[Digby](http://www.digby.com/mobile-statistics/)’s  recent industry statistics support such trends in smartphone usage.
+[Digby](http://www.digby.com/mobile-statistics/)’s recent industry statistics support such trends in smartphone usage.
 
 ### Mobile Commerce and Engagement Stats
 
@@ -48,7 +47,7 @@ In May 2013, we reported how 45% of consumers searching for local products and s
   * 80% of smartphone owners want more mobile-optimized product information while they’re shopping in stores. ([Source: Moosylvania, 2013](http://www.internetretailer.com/2012/12/31/smartphone-owners-want-more-mobile-information-stores))
   * 74% of U.S. consumers use location- based services on their smartphone, as do 46% of mobile phone users. ([Source: Pew Internet & American Life Project, 2012](http://www.emarketer.com/Article.aspx?R=1009235&ecid=a6506033675d47f881651943c21c5ed4))
   * By 2014, mobile internet is predicted to take over desktop internet usage ([Source: Microsoft Tag, 2012](http://tag.microsoft.com/community/blog/t/the_growth_of_mobile_marketing_and_tagging.aspx))
-  * 57 percent of consumers will not recommend a business with a poorly designed mobile site. Similarly, 40 percent of consumers will go to a competitor’s  site after a bad mobile experience ([Source: Compuware, 2012](http://www.mobilemarketer.com/cms/news/content/13063.html))
+  * 57 percent of consumers will not recommend a business with a poorly designed mobile site. Similarly, 40 percent of consumers will go to a competitor’s site after a bad mobile experience ([Source: Compuware, 2012](http://www.mobilemarketer.com/cms/news/content/13063.html))
 
 As these trends continue, Government agencies must become more acutely aware of their audience and their internet browsing habits, as well as their expected user experience on agency websites. Many agencies have dove right in, providing a wide variety of mobile-optimized websites and apps to support citizens accessing government information and services. One of the first goals of the Digital Government Strategy was to complete mobile, which is still ongoing, with a number of milestones.
 

@@ -1,12 +1,13 @@
 ---
-
-
+url: /2014/06/11/talking-usability-with-kids-over-milk-and-cookies/
 date: 2014-06-11 10:00:51 -0400
-title: 'Talking Usability with Kids over Milk and Cookies'
+title: Talking Usability with Kids over Milk and Cookies
 summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending &ldquo;Take Your Daughters and Sons to Work Day&rdquo;? We took advantage of this event held on April 24, 2014, at the'
-authors: [jean-fox, robin-l-kaplan]
+authors:
+  - jean-fox
+  - robin-l-kaplan
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - BLS
@@ -14,8 +15,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" %}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" %}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?
 
 We took advantage of this event held on April 24, 2014, at the Department of Labor to hear what students had to say about the new website.
 
@@ -27,7 +27,7 @@ We conducted the sessions in a Department of Labor computer lab, so each student
 
 During each session, we started out with a brief demo of the website, and then asked the students to explore the website on their own for 10 to 15 minutes. At the end of the session, we had a 5-minute discussion about their experiences, asking about what they liked and didn’t like, and what they thought we could improve.
 
-This approach combined elements of traditional usability testing and focus groups. The approach worked well, giving us a lot of feedback in a short amount of time. Here’s  what we learned about the site from our evaluation:
+This approach combined elements of traditional usability testing and focus groups. The approach worked well, giving us a lot of feedback in a short amount of time. Here’s what we learned about the site from our evaluation:
 
 ## Findings from the Games and Quizzes section
 

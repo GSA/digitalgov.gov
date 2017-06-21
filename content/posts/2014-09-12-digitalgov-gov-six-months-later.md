@@ -1,15 +1,17 @@
 ---
-
+url: /2014/09/12/digitalgov-gov-six-months-later/
 date: 2014-09-12 12:00:02 -0400
-title: 'Strategy Pivot Yields Results\: DigitalGov.Gov Six Months Later'
+title: 'Strategy Pivot Yields Results: DigitalGov.Gov Six Months Later'
 summary: "Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we've learned so far."
-authors: [apiazza, gwynne-kostin]
+authors:
+  - apiazza
+  - gwynne-kostin
 categories:
   - Content
   - Managing Digital
   - Our Work
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - content strategy
@@ -20,8 +22,7 @@ tag:
   - user experience
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" %} 
 
 Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we&#8217;ve learned so far.
 
@@ -39,7 +40,7 @@ We had developed an “authoritative” Web format that was calcifying into an e
 
 We had a bunch of websites, blogs and wikis scattered across a bunch of different domains. This state of affairs grew organically over years, but it needed some trimming back. We weren’t helping our users—you—connect the dots in a growing digital landscape.
 
-The fact is today’s  practices rapidly evolved from yesterday’s  “best” practice. Practices are also modified “in the field” to meet each agency’s  mission and resources. So, we had the opportunity to expand our focus away from a single truth/practice to an array of solutions that best match your constantly changing world.
+The fact is today’s practices rapidly evolved from yesterday’s “best” practice. Practices are also modified “in the field” to meet each agency’s mission and resources. So, we had the opportunity to expand our focus away from a single truth/practice to an array of solutions that best match your constantly changing world.
 
 ## The Vision
 
@@ -53,7 +54,7 @@ We decided to use [Sites.USA.gov](https://www.WHATEVER/services/sites-usa-gov/ "
 
 When we launched in mid-February, we had a lighter information architecture, daily content updates, better tagging to help you find related content, and the beginnings of new community resources all wrapped up in a modern, flat and responsive design. We also started publishing [daily and weekly digests](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) to help subscribers keep abreast of new posts, webinars and events.
 
-We turned our attention to mining the listservs, webinars and meetings for story ideas. We tapped innovators in agencies on the shoulder and said, “hey let’s  get that in an article so more people can get the info.” We have become adept hunters and distributors of trends, practices, new tools and policies.
+We turned our attention to mining the listservs, webinars and meetings for story ideas. We tapped innovators in agencies on the shoulder and said, “hey let’s get that in an article so more people can get the info.” We have become adept hunters and distributors of trends, practices, new tools and policies.
 
 ## The Data
 
@@ -64,7 +65,7 @@ One thing we’ve learned from looking at our data, is that you like lists and d
   * You’re engaged with the content. You are coming to read an article and staying to read 2 more, for an average on site time of 6 minutes.
   * You especially like articles about [metrics](https://www.WHATEVER/category/metrics/), [user experience case studies](https://www.WHATEVER/tag/usability-case-study/), [social media tools](https://www.WHATEVER/tag/terms-of-service/), and [mobile trends](https://www.WHATEVER/tag/trends-on-tuesday/).
   * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov"))
-  * You’re landing and navigating to what you need (or maybe just coming for what’s  new). Fewer than five percent of our visitors use site search (and it’s  not because it’s  not awesome). When you do search, you’re looking for information on [Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements"), [Accessibility](https://www.WHATEVER/category/ux/accessibility/), and for [Specific Events](https://www.WHATEVER/events/). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
+  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements"), [Accessibility](https://www.WHATEVER/category/ux/accessibility/), and for [Specific Events](https://www.WHATEVER/events/). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
 
 So far, the data is showing that we are doing what we set out to do. But, we know we have a long way to go and can do so much better.
 

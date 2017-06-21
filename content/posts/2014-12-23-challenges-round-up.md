@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/12/23/challenges-round-up/
 date: 2014-12-23 10:00:54 -0400
-title: 'Challenge & Prize Competition Round-Up'
-summary: 'Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov'
-authors: [apiazza]
+title: 'Challenge &#038; Prize Competition Round-Up'
+summary: Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov
+authors:
+  - apiazza
 categories:
   - Challenges
   - Monthly Theme
@@ -22,17 +22,15 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %} 
 
 We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview").
 
-On Wednesday, December 10, the [Challenge and Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") hosted its quarterly in-person meeting to highlight the roles and responsibilities that [Challenge.gov](https://www.challenge.gov/), the Office of Science and Technology Policy (OSTP) at the White House, NASA’s  Center of Excellence for Collaborative Innovation (CoECI) and federal agencies play in hosting and executing challenge and prize competitions. There were two panels of experienced managers that gave attendees insight into the institutionalization of prizes at their agencies and what makes-up a successful challenge. Finally, attendees were also able to garner exactly what they need to provide for the America COMPETES annual Congressional reporting.
+On Wednesday, December 10, the [Challenge and Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") hosted its quarterly in-person meeting to highlight the roles and responsibilities that [Challenge.gov](https://www.challenge.gov/), the Office of Science and Technology Policy (OSTP) at the White House, NASA’s Center of Excellence for Collaborative Innovation (CoECI) and federal agencies play in hosting and executing challenge and prize competitions. There were two panels of experienced managers that gave attendees insight into the institutionalization of prizes at their agencies and what makes-up a successful challenge. Finally, attendees were also able to garner exactly what they need to provide for the America COMPETES annual Congressional reporting.
 
-This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s  a look at our other events.
+This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s a look at our other events.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: "Government Challenges, Your Solutions."" %}
 
 ## The New Challenge.gov
 
@@ -40,7 +38,7 @@ This event brought together more than 70 practitioners in-person and online, and
 
 ## Open-Sourced Ideation Platform
 
-The Consumer Financial Protection Bureau (CFPB) also presented their [open sourced ideation tool, IdeaBox](http://youtu.be/KRQ24645LOE?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC), to the community in October of this year. This event showcased how you can build an innovation program by leveraging CFPB’s  open-source ideation platform, replicating their lightweight staffing model, and using their playbook of resources. They use the platform to crowdsource ideas from employees across the agency. IdeaBox source code is shared openly on Github for anybody to use.
+The Consumer Financial Protection Bureau (CFPB) also presented their [open sourced ideation tool, IdeaBox](http://youtu.be/KRQ24645LOE?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC), to the community in October of this year. This event showcased how you can build an innovation program by leveraging CFPB’s open-source ideation platform, replicating their lightweight staffing model, and using their playbook of resources. They use the platform to crowdsource ideas from employees across the agency. IdeaBox source code is shared openly on Github for anybody to use.
 
 ## Getting Started
 
@@ -50,4 +48,4 @@ You may also be interested in watching [Why Your Challenge & Prize Competition N
 
 If you are thinking about launching a video competition then you may be interested in watching [Running a Successful Video Challenge](https://www.youtube.com/watch?v=kaK90anXf7w&index=7&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC). The presenter for this event, **Jason Crusan**, Director CoECI NASA, presents a case study of how NASA has used professional crowdsourcing for video creation. **Tammi Marcoullier**, Challenge.gov Program Manager, reviews getting from A to B, or how to decide what kind of video challenge you want to execute by examining your goals.
 
-Finally, you can take a look at the [summary of our event on Design Thinking](http://youtu.be/oLAtcfGCcdc?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and how this workshop helped folks working on challenge and prize competitions think through the design and execution of their challenge. Enjoy! For more events around challenge and prize competitions check out our [Events Calendar](https://www.WHATEVER/events). For questions about Challenge.gov or the [Challenge & Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") email <a href="mailto:Challenge@gsa.gov">Challenge@gsa.gov</a>.
+Finally, you can take a look at the [summary of our event on Design Thinking](http://youtu.be/oLAtcfGCcdc?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and how this workshop helped folks working on challenge and prize competitions think through the design and execution of their challenge. Enjoy! For more events around challenge and prize competitions check out our [Events Calendar](https://www.WHATEVER/events). For questions about Challenge.gov or the [Challenge & Prize Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") email <Challenge@gsa.gov>.

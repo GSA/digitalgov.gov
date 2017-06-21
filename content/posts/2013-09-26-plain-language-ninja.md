@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/09/26/plain-language-ninja/
 date: 2013-09-26 8:24:42 -0400
-title: 'Plain Language Ninja'
+title: Plain Language Ninja
 summary: 'A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division. So I scooted my chair over and looked at it. Then I looked at him and asked, &ldquo;But what is'
-authors: [katherine-spivey]
+authors:
+  - katherine-spivey
 categories:
   - Content
   - UX
@@ -13,12 +13,11 @@ tag:
   - Plain language
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" %}
-A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.
 
 So I scooted my chair over and looked at it. Then I looked at him and asked, “But what is it supposed to do?”
 
-He said, “It’s  supposed to convey, at a very high level, what we’re doing in the next year.”
+He said, “It’s supposed to convey, at a very high level, what we’re doing in the next year.”
 
 I said, “Oh.”
 
@@ -38,18 +37,17 @@ Then I deleted the pilot study sentences.
 
 Then I moved the last two sentences to the top.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/600-x-202-Plain-Language-Ninja-example.jpg" alt="Highlighted text is not essential content." %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/600-x-202-Plain-Language-Ninja-example.jpg" alt="Highlighted text is not essential content." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/932-x-314-Plain-Language-Ninja-example.jpg)
 
 Then I connected two sentences, took out three prepositional phrases, and changed all “Divisions” to “We.”
 
-I moved the screen over to my coworker. “How’s  that?” I asked.
+I moved the screen over to my coworker. “How’s that?” I asked.
 
 His eyes were bugged out in surprise. “How did you do that so quickly?” he said.
 
 > You too can be a plain language ninja.
 
-Here’s  what you do:
+Here’s what you do:
 
   * Organize for the reader reader-centered
   * Use design features such as headers, tables, and bullets

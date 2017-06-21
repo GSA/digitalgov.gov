@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/05/07/the-new-healthcare-gov-uses-a-lightweight-open-source-tool/
 date: 2013-05-07 9:01:13 -0400
-title: 'The New Healthcare.gov Uses a Lightweight Open Source Tool'
+title: The New Healthcare.gov Uses a Lightweight Open Source Tool
 summary: ' Last week, we told you about the upcoming relaunch of Healthcare.gov and&nbsp;its use of the Jekyll website generator. Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the &lsquo;Prose.io&rsquo;&nbsp;&nbsp;editing interface last'
-authors: [anthony-calabrese]
+authors:
+  - anthony-calabrese
 categories:
   - Code
 tag:
@@ -15,12 +15,11 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg)
 
 Last week, we told you about the upcoming relaunch of Healthcare.gov and [<span style="text-decoration: underline">its use of the Jekyll website generator</span>](http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html). Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the ‘[<span style="text-decoration: underline">Prose.io</span>](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/)’  editing interface last year. Content editors will use this lightweight editor to create and manage content across the site.
 
-Prose is an open source web application that allows users to manage web content stored on GitHub’s  code sharing service. It offers the convenience of a content management system (CMS) for managing the site, without the reduction in speed and response time that results from the web server processing and databases required for typical content management systems.
+Prose is an open source web application that allows users to manage web content stored on GitHub’s code sharing service. It offers the convenience of a content management system (CMS) for managing the site, without the reduction in speed and response time that results from the web server processing and databases required for typical content management systems.
 
 Prose has over ten thousand users, and is the result of dozens of community contributions from open source developers. As part of the relaunching of Healthcare.gov, we are making additional usability improvements that will benefit all users of this free service.
 

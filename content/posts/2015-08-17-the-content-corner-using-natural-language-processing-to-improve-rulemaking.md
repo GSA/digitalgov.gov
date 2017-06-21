@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/17/the-content-corner-using-natural-language-processing-to-improve-rulemaking/
 date: 2015-08-17 1:10:53 -0400
-title: 'The Content Corner\: Using Natural Language Processing to Improve Rulemaking'
-summary: 'For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide'
-authors: [tymanuel]
+title: 'The Content Corner: Using Natural Language Processing to Improve Rulemaking'
+summary: For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide
+authors:
+  - tymanuel
 categories:
   - Content
 tag:
@@ -23,25 +23,23 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" %} 
 
 For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide array of topics in an easy to read format with little effort on the part of a human. In the final chapter of what I am calling my natural language trilogy (NL III: Return of the Data?), I’ll flip the focus from [natural language generation](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) to natural language processing and how it can help us gather important data not from the content we publish, but the content we receive.
 
 ## A Natural Language Processing Primer
 
-[In last week’s  post](https://www.WHATEVER/2015/08/10/the-content-corner-can-automated-content-creation-help-your-agency/) I briefly touched on natural language processing and UIMA, an Apache project that scans electronic medical records to provide physicians with a better understanding of a patient’s  entire medical history. This better understanding begins with one of the main challenges with NLP, which is to make the computer “understand” or derive meaning from the text inputs first. Many of the major research areas in the NLP field approach this challenge in various ways, depending on specific research and goals, leveraging various levels of artificial intelligence or AI. One of the earliest mentions of NLP is attributed to the father of AI, Alan Turing, and evolved into his well-known [Turing test](https://en.wikipedia.org/wiki/Turing_test), where an AI needs to properly process human language (text) inputs and respond in a manner indistinguishable from a human.
+[In last week’s post](https://www.WHATEVER/2015/08/10/the-content-corner-can-automated-content-creation-help-your-agency/) I briefly touched on natural language processing and UIMA, an Apache project that scans electronic medical records to provide physicians with a better understanding of a patient’s entire medical history. This better understanding begins with one of the main challenges with NLP, which is to make the computer “understand” or derive meaning from the text inputs first. Many of the major research areas in the NLP field approach this challenge in various ways, depending on specific research and goals, leveraging various levels of artificial intelligence or AI. One of the earliest mentions of NLP is attributed to the father of AI, Alan Turing, and evolved into his well-known [Turing test](https://en.wikipedia.org/wiki/Turing_test), where an AI needs to properly process human language (text) inputs and respond in a manner indistinguishable from a human.
 
 Aside from the aforementioned UIMA. one of the most practical uses where government agencies should look to leverage NLP is the evaluation of public comments as part of the regulatory process.
 
-## You Spoke, We Listened 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Rules-and-regulations-filmfoto-iStock-Thinkstock-181929062.jpg" alt="Two hand stamps, one for Rules and one for Regulations, lay next to a stack of documents." %} 
+## You Spoke, We Listened {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Rules-and-regulations-filmfoto-iStock-Thinkstock-181929062.jpg" alt="Two hand stamps, one for Rules and one for Regulations, lay next to a stack of documents." %} 
 
 Over the past decade, [the number of federal regulations enacted by year](https://www.federalregister.gov/uploads/2015/05/OFR-STATISTICS-CHARTS-ALL1-1-1-2014.pdf) has averaged between 3,000-4,000. And aside from certain exceptions, a public comment period is required before the issuance of a final rule. For example, the [Federal Communications Commission  received (and publicly released) 800,000 public comments](https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/) on its Net Neutrality plan. I personally can’t even begin to fathom how the agency was able to respond to that deluge of information (if you’re from FCC and reading this, please share!). Based on this amount of data that needs to be reviewed, the benefits of using NLP to help categorize or cluster this information should be readily apparent. One example from [CMS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAAahUKEwjRp6z-lqHHAhXRMIgKHZBKAhs&url=https%3A%2F%2Fwww.cms.gov%2F&ei=g_7JVZHaAtHhoASQlYnYAQ&usg=AFQjCNGG_y0r9OT_pnZjOljF54Pu0-62lw&sig2=KLD1tceOXyaIjlx1FSSRjQ&bvm=bv.99804247,d.cGU) estimated it takes 1,000-plus hours to review public comments before they can then be sent to a subject matter expert for more thorough review.
 
 One of the first ways NLP can help is to recognize clusters of related information and provide a categorization: for example, if the comment contains the word “oppose” or “bandwidth speed”, place it within a certain category or cluster. That is at least a decent first cut, which then allows you to drill further: perhaps then scan the “oppose” cluster for additional relationships and terms such as “economic” or “cost” to help better ascertain a pattern of why people are opposed or in favor of the plan.
 
-For an example of the power of NLP, check out the [interactive graphic](https://s3.amazonaws.com/openinternet.widgets.sunlightfoundation.com/index.html#7_1-0-2-0-3-2-3-3) from Sunlight Foundation’s  analysis of the comments. Using NLP, Sunlight was able to create granular clusters of keywords and develop an understanding of the role of interest groups, organized form-letter campaigns, and even the influence of John Oliver on the commenting process.
+For an example of the power of NLP, check out the [interactive graphic](https://s3.amazonaws.com/openinternet.widgets.sunlightfoundation.com/index.html#7_1-0-2-0-3-2-3-3) from Sunlight Foundation’s analysis of the comments. Using NLP, Sunlight was able to create granular clusters of keywords and develop an understanding of the role of interest groups, organized form-letter campaigns, and even the influence of John Oliver on the commenting process.
 
 Through [Ignite](http://www.hhs.gov/idealab/what-we-do/hhs-ignite/), an internal innovation program run out of the [HHS IDEA Lab](http://www.hhs.gov/idealab/), teams at the Department of Health and Human Services </span>and the <span style="font-weight: 400">Environmental Protection Agency</span> tackled the onerous comment review process by <span style="font-weight: 400"><a href="http://www.hhs.gov/idealab/projects-item/increasing-efficiency-in-rule-making-with-natural-language-processing/">beta testing NLP software to review comments</a> received for several HHS rules. One rule received 1,323 comments and the other 772. They tested two approaches to using the Content Analyst Analytical Technology (CAAT) sorting tool.</p> 
 

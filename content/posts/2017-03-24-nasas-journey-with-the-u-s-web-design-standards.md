@@ -1,14 +1,14 @@
 ---
-
-
+url: /2017/03/24/nasas-journey-with-the-u-s-web-design-standards/
 date: 2017-03-24 3:17:05 -0400
-title: 'NASA&amp;#8217;s Journey With the U.S. Web Design Standards'
+title: 'NASA&#8217;s Journey With the U.S. Web Design Standards'
 summary: 'The U.S. Web Design Standards were created by the government, for the government. They&rsquo;re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They&rsquo;ve also been recommended by the Office of Management and Budget (OMB) for all government agencies to ensure a consistent look and feel of'
-authors: [julia-elman]
+authors:
+  - julia-elman
 categories:
   - Accessibility
   - Design
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - 18F
@@ -27,10 +27,9 @@ tag:
   - webinar
 ---
 
-The [U.S. Web Design Standards](https://standards.usa.gov/) were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They’ve also been recommended by the [Office of Management and Budget](https://policy.cio.gov/web-policy/look/) (OMB) for all government agencies to ensure a consistent look and feel of their public-facing digital services. Over the coming months, the team will be doing a series of blog posts to share information about the how different agencies are using the Standards. We chatted with Brandon Ruffridge, Senior Software Developer at NASA’s  Glenn Research Center, to talk about his team’s  use of the U.S. Web Design Standards.
+The [U.S. Web Design Standards](https://standards.usa.gov/) were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They’ve also been recommended by the [Office of Management and Budget](https://policy.cio.gov/web-policy/look/) (OMB) for all government agencies to ensure a consistent look and feel of their public-facing digital services. Over the coming months, the team will be doing a series of blog posts to share information about the how different agencies are using the Standards. We chatted with Brandon Ruffridge, Senior Software Developer at NASA’s Glenn Research Center, to talk about his team’s use of the U.S. Web Design Standards.
 
-
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-400-NASA-logo.jpg" alt="National Aeronautics and Space Administration (NASA) logo." %}
+{% img="https://www.WHATEVER/files/2017/03/600-x-400-NASA-logo.jpg" alt="National Aeronautics and Space Administration (NASA) logo." %}
 
 **Standards team:** What motivated you to use the U.S. Web Design Standards?
 

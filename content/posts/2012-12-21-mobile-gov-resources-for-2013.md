@@ -1,10 +1,8 @@
 ---
-
-
+url: /2012/12/21/mobile-gov-resources-for-2013/
 date: 2012-12-21 9:55:27 -0400
-title: 'Mobile Gov Resources for 2013!'
+title: Mobile Gov Resources for 2013!
 summary: 'With mobile use growing exponentially and federal agencies implementing customer-facing mobile services&nbsp;for the&nbsp;Digital Government Strategy, we decided to put together a Mobile Gov resource &amp;#8220;cheat sheet&amp;#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&amp;#8217;s what Mobile Gov implementers need to know!'
-authors: [jparcell]
 categories:
   - Mobile
 tag:
@@ -28,8 +26,7 @@ tag:
   - USDA
 ---
 
-{% include image/full-width.html img="https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg" alt="Mobile Phone Map" %}
-With mobile use growing exponentially and federal agencies implementing [customer-facing mobile services](http://www.whitehouse.gov/digitalgov/strategy-milestones) for the [Digital Government Strategy](http://www.whitehouse.gov/digitalgov/about), we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to know!
+[{% img="https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg" alt="Mobile Phone Map" %}](https://sites.usa.gov/howtomobile/files/2011/08/MobilePhoneapp_220px.jpg)With mobile use growing exponentially and federal agencies implementing [customer-facing mobile services](http://www.whitehouse.gov/digitalgov/strategy-milestones) for the [Digital Government Strategy](http://www.whitehouse.gov/digitalgov/about), we decided to put together a Mobile Gov resource &#8220;cheat sheet&#8221; with concepts and information we think will be helpful for agencies implementing Mobile Gov in 2013. Here&#8217;s what Mobile Gov implementers need to know!
 
 **APIs**
 
@@ -53,7 +50,7 @@ Since that webinar we&#8217;ve learned that mobile implementation is not a clear
 
   * Mobile Web&#8211;Instead of creating a mobile website different than the traditional agency website, a popular implementation of mobile web is [responsive design](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools") which allows a website to adjust to the size of any device&#8217;s screen.
   * Mobile Web Apps&#8211; One new implementation we are seeing are mobile websites that are responsive but offer some sort of advanced functionality. An example is [NIH&#8217;s MyDS web app](https://www.WHATEVER/2012/03/05/myds-web-app/ "MyDS Web App") which allows users to document and store their dietary supplement intake from anytime and anywhere.
-  * Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA](https://www.WHATEVER/2012/02/22/my-tsa-mobile-app/ "My TSA Mobile App"), [IRS2Go](https://www.WHATEVER/2013/04/11/irs2go-app-updates/ "IRS2Go App Updates"), [Eyenote](https://www.WHATEVER/2012/05/31/eyenote/ "Eyenote"), [DOL LaborStats](https://www.WHATEVER/2012/02/22/dol-labor-stats-app/ "DOL Labor Stats App"), and USDA&#8217;s [AskKaren](https://www.WHATEVER/2012/06/08/usdas-ask-karen/ "USDA’s  Ask Karen").
+  * Native Apps&#8211; We are seeing various mobile device functionalities being utilized on various mobile platforms. For some examples of good government native apps, check out [MyTSA](https://www.WHATEVER/2012/02/22/my-tsa-mobile-app/ "My TSA Mobile App"), [IRS2Go](https://www.WHATEVER/2013/04/11/irs2go-app-updates/ "IRS2Go App Updates"), [Eyenote](https://www.WHATEVER/2012/05/31/eyenote/ "Eyenote"), [DOL LaborStats](https://www.WHATEVER/2012/02/22/dol-labor-stats-app/ "DOL Labor Stats App"), and USDA&#8217;s [AskKaren](https://www.WHATEVER/2012/06/08/usdas-ask-karen/ "USDA’s Ask Karen").
 
 **Mobile Platforms**
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/10/27/results-report-robots-created-for-competitions-to-help-ebola-response/
 date: 2014-10-27 10:50:18 -0400
-title: 'Results Report\: Robots Created for Competitions to Help Ebola Response'
-summary: 'Challenge competitions were recently&nbsp;highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID)\:&nbsp;Ebola\: A Grand Challenge for Development. The goal\: To help health care workers on the front lines provide better care and stop'
-authors: [tmarcoullier]
+title: 'Results Report: Robots Created for Competitions to Help Ebola Response'
+summary: 'Challenge competitions were recently&nbsp;highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID):&nbsp;Ebola: A Grand Challenge for Development. The goal: To help health care workers on the front lines provide better care and stop'
+authors:
+  - tmarcoullier
 categories:
   - Challenges
 tag:
@@ -36,14 +36,13 @@ An excerpt from the article:
 > 
 > Still, he has been considering ways to repurpose an existing robot project as a tool for more safely performing decontamination tasks, like spraying bleach solution on clothing exposed to infected body fluids.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." %}
- 
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
 
 &nbsp;
 
 WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with leading the school&#8217;s involvement in the NASA challenge competition. He explains the AERO&#8217;s back story and how the robot could be helpful to the medical community:
 
-> The robot was built for the 2013 NASA Sample Return Robot (SRR) Centennial Challenge. After that, we continued software/algorithm development on it, and competed in next year’s  2014 NASA SRR Centennial Challenge. It was originally designed to autonomously navigate a large, outdoor environment, find and locate various geologic samples, and return them to the starting platform, utilizing only space compatible technologies.
+> The robot was built for the 2013 NASA Sample Return Robot (SRR) Centennial Challenge. After that, we continued software/algorithm development on it, and competed in next year’s 2014 NASA SRR Centennial Challenge. It was originally designed to autonomously navigate a large, outdoor environment, find and locate various geologic samples, and return them to the starting platform, utilizing only space compatible technologies.
 > 
 > The sensors on the platform that allow it to navigate on its own without GPS information, the dexterous 6-DOF manipulator, and robust skid-steer base make it a very capable mobile manipulation platform.This makes it an ideal candidate to be quickly re-purposed with sprayers to enable quick testing and prototyping of teleoperated decontamination activities.
 > 
@@ -51,4 +50,4 @@ WPI&#8217;s Velin Dimitrov, a graduate student in robotics, is credited with lea
 
 Knowing that one level of innovation leads to another is inspiring for the people running and entering challenge competitions. As we look at solutions across government, we know that if we deconstruct the needs and capabilities, we can find ways to re-purpose and redirect the solutions to a variety of useful outcomes.
 
-See the full list of federal challenge and prize competitions at [Challenge.gov](https://www.challenge.gov/list/). And if you&#8217;re a challenge winner who would like to share your story of how it has impacted your life and community, email <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a>.
+See the full list of federal challenge and prize competitions at [Challenge.gov](https://www.challenge.gov/list/). And if you&#8217;re a challenge winner who would like to share your story of how it has impacted your life and community, email <challenge@gsa.gov>.

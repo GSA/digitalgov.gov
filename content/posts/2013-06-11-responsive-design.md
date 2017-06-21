@@ -1,10 +1,10 @@
 ---
-
-
+url: /2013/06/11/responsive-design/
 date: 2013-06-11 1:08:25 -0400
-title: 'Responsive Design Overview, Resources and Tools'
+title: Responsive Design Overview, Resources and Tools
 summary: 'Responsive Web design refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and CSS3 media queries. For years, most Web teams designed for the desktop. Branding, navigation, work flows &amp;#8211; the overall look &amp;amp; feel of online applications'
-authors: [jparcell]
+authors:
+  - jparcell
 categories:
   - Managing Digital
   - Mobile
@@ -19,9 +19,9 @@ Responsive Web design refers to a fluidly constructed Web page layout that scale
 
 
 
-For years, most Web teams designed for the desktop. Branding, navigation, work flows &#8211; the overall look & feel of online applications &#8211; were all considered reasonable areas to distinguish one&#8217;s online presence from others. Things have changed so dramatically over the past few years that starting with the desktop may now be the backwards way of creating a web site. We have to be able to think in systems. Mobile is a helpful wedge there, because you just see the panic on people’s  faces when they say, “What do you mean, I have to support the iPhone and Android and Blackberry and tablets … and is this ever going to get better?”
+For years, most Web teams designed for the desktop. Branding, navigation, work flows &#8211; the overall look & feel of online applications &#8211; were all considered reasonable areas to distinguish one&#8217;s online presence from others. Things have changed so dramatically over the past few years that starting with the desktop may now be the backwards way of creating a web site. We have to be able to think in systems. Mobile is a helpful wedge there, because you just see the panic on people’s faces when they say, “What do you mean, I have to support the iPhone and Android and Blackberry and tablets … and is this ever going to get better?”
 
-No, it’s  not going to get better. The interactive landscape is increasingly complex. It includes a vast array of mobile devices (feature phones, smartphones, tablets), highly-specialized devices (eReaders, TVs, Internet of things) and more traditional digital devices (desktops, laptops, netbooks). Plus, we don’t know what’s  right around the corner. So the question becomes clear: How do we design for all these devices? The only way we’re ever going to support all those things is if we have a reusable content store that is flexible, intelligent, and nimble.
+No, it’s not going to get better. The interactive landscape is increasingly complex. It includes a vast array of mobile devices (feature phones, smartphones, tablets), highly-specialized devices (eReaders, TVs, Internet of things) and more traditional digital devices (desktops, laptops, netbooks). Plus, we don’t know what’s right around the corner. So the question becomes clear: How do we design for all these devices? The only way we’re ever going to support all those things is if we have a reusable content store that is flexible, intelligent, and nimble.
 
 Read: <a href="http://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm" rel="nofollow">Small, cheap devices will disrupt our old-school UX assumptions (The Coming Zombie Apocalypse)</a> which discusses how the coming wave of cheap electronic devices will end up disrupting the old user experience assumptions.
 

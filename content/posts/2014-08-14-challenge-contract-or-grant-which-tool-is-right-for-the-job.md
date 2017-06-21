@@ -1,10 +1,10 @@
 ---
-
-
+url: /2014/08/14/challenge-contract-or-grant-which-tool-is-right-for-the-job/
 date: 2014-08-14 9:52:00 -0400
-title: 'Challenge, Contract or Grant &amp;#8211; Which tool is right for the job?'
-summary: 'Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations. Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about'
-authors: [tlowden]
+title: 'Challenge, Contract or Grant &#8211; Which tool is right for the job?'
+summary: Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations. Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about
+authors:
+  - tlowden
 categories:
   - Challenges
   - Monthly Theme
@@ -17,14 +17,13 @@ tag:
   - Recaps
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" %} 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" %} 
 
 Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations.
 
 Sam Ortega, the manager of the Centennial Challenges program at NASA, spoke about the subject recently on a DigitalGov University webinar. Being the head of a large federal public prize program, he had a lot to say about the benefits of crowdsourcing innovation through prizes. But, he noted that challenges aren’t always the best avenue to choose.
 
-> “If challenges are so great, why don’t we use them all the time?” Ortega asked. “For the same reason you don’t use a saw to cut a pizza; sometimes it’s  the wrong tool for the job.”
+> “If challenges are so great, why don’t we use them all the time?” Ortega asked. “For the same reason you don’t use a saw to cut a pizza; sometimes it’s the wrong tool for the job.”
 
 However, Ortega says, some benefits of public prize competitions do give them an edge over contracts and grants in certain situations:
 
@@ -37,7 +36,7 @@ The key for a challenge/public prize competition being a good option, he said, i
 
 “Research and development is better through grants and through contracts,” Ortega said, adding that asking people to create something that is completely unknown is difficult to structure a challenge around.
 
-For more, view Ortega’s  slides or the webinar in its entirely below:
+For more, view Ortega’s slides or the webinar in its entirely below:
 
 [Prizes, Contracts & Grants: What Should I Do?](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/Prizes-Contracts-Grants.pdf "Centennial Challenges Program Space Technology Mission Directorate - Prizes, Contracts & Grants: What Should I Do?") (PDF, 7.02 MB, 12 pages)
 

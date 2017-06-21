@@ -1,14 +1,14 @@
 ---
-
-
+url: /2016/12/01/lessons-learned-evaluating-video-content/
 date: 2016-12-01 12:00:23 -0400
-title: 'Lessons Learned\: Evaluating Video Content'
+title: 'Lessons Learned: Evaluating Video Content'
 summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization&rsquo;s'
-authors: [tim-jakubowski]
+authors:
+  - tim-jakubowski
 categories:
   - Content
   - Managing Digital
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
   - Video
 tag:
@@ -24,8 +24,7 @@ tag:
   - video
 ---
 
-If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s  videos. 
-{% include image/full-width.html img="https://www.WHATEVER/files/2017/03/600-x-400-Time-to-evaluate-concept-clock-donskarpo-iStock-Thinkstock-500832345.jpg" %} 
+If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s videos. {% img="https://www.WHATEVER/files/2017/03/600-x-400-Time-to-evaluate-concept-clock-donskarpo-iStock-Thinkstock-500832345.jpg" alt="Stopwatch with the words, "Time to Evaluate."" %} 
 
 As a member of the Service Design practice at the Consumer Financial Protection Bureau (CFPB), I was tasked with a research project evaluating how non-consumers interact with the CFPB in regards to complaint data. This audience included companies, federal and state level government agencies, and congressional offices. Each group accesses a “portal” to either respond to complaints (companies) or to have access to complaint data (congressional offices and government agencies). The tasks that are performed in each respective portal vary dependent upon responsibilities.
 
@@ -33,7 +32,7 @@ Each portal was comprised of an interface that was not highly intuitive to navig
 
 ## Determine why the videos were created in the first place
 
-Was it something users even wanted? Is your UI and content too hard to understand in the first place and that’s  why you created a video? It turns out that on our end, one business unit would train all new portal users once they were on-boarded. This practice was not scalable at a growing agency, so they decided to create videos. It was not something that the CFPB had ever received feedback on, but rather a business desire.
+Was it something users even wanted? Is your UI and content too hard to understand in the first place and that’s why you created a video? It turns out that on our end, one business unit would train all new portal users once they were on-boarded. This practice was not scalable at a growing agency, so they decided to create videos. It was not something that the CFPB had ever received feedback on, but rather a business desire.
 
 I would say think holistically — make sure that the video is not trying to solve another problem your users are having that will still exist once you create the video.
 
@@ -49,4 +48,4 @@ Overall, evaluation of training videos really depends on your project and the li
 
 _This article is the result of a thread on our User Experience Community listserv. See how other agencies are working with [content](https://www.WHATEVER/category/content/) and [video](https://www.WHATEVER/category/content/video/), and find out how to join our [Communities](https://www.WHATEVER/communities/), like [Digital Audio/Video Production and Strategy](https://www.WHATEVER/communities/digital-audio-video-community-of-practice/) and [User Experience](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)._
 
-_If you’re interested in writing for [DigitalGov](https://www.WHATEVER/), learn about the [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/) and check out our assignments (for feds with .gov or .mil email accounts only). If your agency’s  team has tech-related lessons learned, case studies, digital or mobile product news, strategy success stories, etc. to share, please [review our guidelines](https://www.WHATEVER/join-digitalgov/) and [contact DigitalGov](https://www.WHATEVER/contact-us/) to submit an article idea._
+_If you’re interested in writing for [DigitalGov](https://www.WHATEVER/), learn about the [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/) and check out our assignments (for feds with .gov or .mil email accounts only). If your agency’s team has tech-related lessons learned, case studies, digital or mobile product news, strategy success stories, etc. to share, please [review our guidelines](https://www.WHATEVER/join-digitalgov/) and [contact DigitalGov](https://www.WHATEVER/contact-us/) to submit an article idea._

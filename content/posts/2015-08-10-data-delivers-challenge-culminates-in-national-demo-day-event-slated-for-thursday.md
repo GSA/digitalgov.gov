@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/08/10/data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday/
 date: 2015-08-10 4:56:44 -0400
-title: 'Data Delivers\: Challenge Culminates in National Demo Day Event Slated for Thursday'
+title: 'Data Delivers: Challenge Culminates in National Demo Day Event Slated for Thursday'
 summary: ' VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever National Demo Day. On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in'
-authors: [eric-beidel]
+authors:
+  - eric-beidel
 categories:
   - Challenges
 tag:
@@ -15,8 +15,7 @@ tag:
   - United States Census Bureau
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" %}
 
 <p style="text-align: right">
   <a class="button" style="color: #000000" href="https://www.WHATEVER/event/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day?utm_source=digitalgov&utm_medium=DGwebsite&utm_campaign=dguevents">VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>
@@ -28,7 +27,7 @@ On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in a re
 
 Teaming with the White House Innovation Fellows, the U.S. Department of Commerce and several other federal agencies, the Bureau created a new open-source project called the United States [CitySDK](http://uscensusbureau.github.io/citysdk/) (Software Development Kit). The challenge that followed called on citizens to design apps on top of CitySDK to improve economic, educational and other conditions in their cities.
 
-During Thursday’s  webinar, the teams will demo their prototypes for special guests Ian Kalin, chief data officer at the Commerce Department, and Avi Bender, chief technology officer of the Census Bureau.
+During Thursday’s webinar, the teams will demo their prototypes for special guests Ian Kalin, chief data officer at the Commerce Department, and Avi Bender, chief technology officer of the Census Bureau.
 
 Applications to be featured will address solutions ranging from handicap accessibility in Minnesota to the distribution of community parks in Austin.
 

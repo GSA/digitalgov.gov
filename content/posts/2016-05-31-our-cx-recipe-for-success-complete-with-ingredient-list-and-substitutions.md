@@ -1,10 +1,10 @@
 ---
-
-
+url: /2016/05/31/our-cx-recipe-for-success-complete-with-ingredient-list-and-substitutions/
 date: 2016-05-31 12:15:34 -0400
-title: 'Our CX Recipe for Success\: Complete with Ingredient List and Substitutions!'
+title: 'Our CX Recipe for Success: Complete with Ingredient List and Substitutions!'
 summary: 'If you were to spend any time with me in the kitchen, you would often find me searching out substitutions for ingredients that I don&amp;#8217;t have on hand or have to drive 100 miles to find. I don&amp;#8217;t want to abandon the recipe, so I substitute instead. I find that in the world of internal'
-authors: [tanya-mcilravy]
+authors:
+  - tanya-mcilravy
 categories:
   - Monthly Theme
   - UX
@@ -20,8 +20,7 @@ tag:
   - UX
 ---
 
-If you were to spend any time with me in the kitchen, you would often find me searching out substitutions for ingredients that I don&#8217;t have on hand or have to drive 100 miles to find. I don&#8217;t want to abandon the recipe, so I substitute instead. I find that in the world of internal government IT systems, recipes for success are hard to come by. So, what do I do? I substitute! 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-360-Background-with-the-ingredients-for-a-cake-MaksimVasic-iStock-Thinkstock-464617462.jpg" alt="The word recipe is written into flour on a table, surrounded by baking ingredients and utensils." %} 
+If you were to spend any time with me in the kitchen, you would often find me searching out substitutions for ingredients that I don&#8217;t have on hand or have to drive 100 miles to find. I don&#8217;t want to abandon the recipe, so I substitute instead. I find that in the world of internal government IT systems, recipes for success are hard to come by. So, what do I do? I substitute! {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-360-Background-with-the-ingredients-for-a-cake-MaksimVasic-iStock-Thinkstock-464617462.jpg" alt="The word recipe is written into flour on a table, surrounded by baking ingredients and utensils." %} 
 
 Part of good substitution includes seeking out equivalents that will perform the same role. For example, sour milk or buttermilk are used in a recipe for a specific function. You can&#8217;t just use fresh milk and extra butter. You need to add vinegar to the fresh milk first so the chemistry comes out right.
 
@@ -34,8 +33,7 @@ Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#
 >   * Do you measure customer satisfaction of your product, service or program? If so, what do you do with that information?
 >   * Do you build that back into improvements in your products, services and/or programs?
 > 
-> These are all important questions as we build a customer-centric culture. These issues are critical when making business decisions. We must also acknowledge that while these principles are important, not all decisions can/will be made to satisfy our customer all the time. Particularly in the government with budget constraints, we can’t always provide the type of experience, or make every process or technology change that could result in more satisfied customers. Managing customer expectations and communicating clearly helps eliminate frustration on their part. 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Butter-and-Oil-Multiart-iStock-Thinkstock-164111582.jpg" alt="Butter and oil" %} 
+> These are all important questions as we build a customer-centric culture. These issues are critical when making business decisions. We must also acknowledge that while these principles are important, not all decisions can/will be made to satisfy our customer all the time. Particularly in the government with budget constraints, we can’t always provide the type of experience, or make every process or technology change that could result in more satisfied customers. Managing customer expectations and communicating clearly helps eliminate frustration on their part. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Butter-and-Oil-Multiart-iStock-Thinkstock-164111582.jpg" alt="Butter and oil" %} 
 
 So, did it taste good? Does the substitution make sense? I think that recipe will turn out great with my substitution! Let&#8217;s see if it works in another of Martha&#8217;s &#8216;recipes&#8217;, this time from [15 Government Customer Service Trends for 2015](https://www.WHATEVER/2015/01/12/15-government-customer-service-trends-for-2015/).
 
@@ -49,7 +47,7 @@ But there is still something missing from these recipes, so let&#8217;s try to f
 
 Oops, that last substitution didn&#8217;t quite work, did it? Why not? Let&#8217;s try the substitution again in this section:
 
-> Customer experience–referred to in the industry as “CX”–is more than just a product. It’s  about the perception your customer has every time they interact with your office, your agency or any product within your organization. Each time they interact with your website, contact your call center or any other channel, the perception of and trust they have in your organization and agency is impacted.
+> Customer experience–referred to in the industry as “CX”–is more than just a product. It’s about the perception your customer has every time they interact with your office, your agency or any product within your organization. Each time they interact with your website, contact your call center or any other channel, the perception of and trust they have in your organization and agency is impacted.
 
 It occurs to me that the problem with the substitution in this &#8216;recipe&#8217; is not in the ingredients, but in the steps we follow to make the best CX we can. Government agencies are pouring hours and dollars into their external websites and external customers. But many are doing so at the expense of their internal customers–their employees. Don&#8217;t get me wrong: agencies are busy trying to improve their EVS scores and striving to improve employee engagement. And a myriad of studies and articles tell us that great customer service begins with high levels of employee engagement.
 
@@ -81,7 +79,7 @@ Here are my top ten ingredients for great EmX recipes:
   Communication—This ingredient is actually a part of all the others. Communication is key throughout the process and for IT in general. Keep them informed. Tell them the &#8216;why&#8217; along with the other W&#8217;s. Apply marketing techniques that you use on customers to your employees (there&#8217;s our substitution again!). Allow them to communicate with you (2-way communication) and each other (collaboration). Consider recruiting advocates and ambassadors as information conduits and contact points. Archive your communications in a way that is searchable and social. Post known issues, enhancement lists, and create a suggestion box. (Insert reference to Allison&#8217;s article.) Pay special attention to monitoring systems, alerting users, and letting them control the amount of information they receive in their inbox. See also ingredient #6!
 </li>
 <li style="margin-bottom: 15px">
-  Linguistics—Seek out interpreters: employees that speak geek and understand the workflow. This is especially important for agencies that have separate IT divisions with no experience with the agency’s  program delivery. Don&#8217;t ask employees to learn a new language by substituting software lingo for the terms that are already familiar to them. Learn to speak &#8217;employee-ese&#8217; instead and customize your software or site accordingly. Instead of contractors, find employees who have an interest in programming and train them—and let them train you!
+  Linguistics—Seek out interpreters: employees that speak geek and understand the workflow. This is especially important for agencies that have separate IT divisions with no experience with the agency’s program delivery. Don&#8217;t ask employees to learn a new language by substituting software lingo for the terms that are already familiar to them. Learn to speak &#8217;employee-ese&#8217; instead and customize your software or site accordingly. Instead of contractors, find employees who have an interest in programming and train them—and let them train you!
 </li>
 <li style="margin-bottom: 15px">
   Lighting—Dashboard lights, that is. Remember when I mentioned the manual processes in #2? Create dashboards that will illuminate the process for the employee. Make sure it includes a navigation system that will tell them where they are in the process at any given point, either for a customer or for their office. Keep the important/urgent front and center for them, so they don&#8217;t have to try and remember it or decipher their to-do list after a long weekend.
@@ -90,7 +88,6 @@ Here are my top ten ingredients for great EmX recipes:
   Accessibility—Yep, 508 compliance. Agencies spend a lot of time on this for external sites but seem to neglect it internally. This is especially true with third-party solutions, like MS Office, which may be able to create 508 compliant documents but whose interface is anything but adaptable or accessible. Before you decide to upgrade software, pull in your taste testers and food critics to see if they make the grade. Ask them to sample your intranet and other internal communication channels as well. Teach everyone how to make 508 compliant documents so that when they collaborate, everyone benefits. Alt-text for images is a great place to start! Also, provide quality monitors and great lighting to reduce eye strain for everyone. Let&#8217;s take this little known ingredient and make it a feature in the &#8216;cafeteria&#8217;.
 </li>
 
-Won&#8217;t you join me in the kitchen and develop EmX recipes, where employee substitutes for customer in CX and for the end user in UX? The combination may just exceed everyone&#8217;s expectations. The cookbook will be a best-seller and your restaurant (agency) will be 5-star! 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-400-Party-table-red-white-blue-patriotic-cake-arinahabich-iStock-Thinkstock-482657292.jpg" alt="A red, white, and blue cake with American flags in the background." %} 
+Won&#8217;t you join me in the kitchen and develop EmX recipes, where employee substitutes for customer in CX and for the end user in UX? The combination may just exceed everyone&#8217;s expectations. The cookbook will be a best-seller and your restaurant (agency) will be 5-star! {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-400-Party-table-red-white-blue-patriotic-cake-arinahabich-iStock-Thinkstock-482657292.jpg" alt="A red, white, and blue cake with American flags in the background." %} 
 
 _Tanya McIlravy is a front-line government employee. She is passionate about customer service, employee engagement, and all things IT._

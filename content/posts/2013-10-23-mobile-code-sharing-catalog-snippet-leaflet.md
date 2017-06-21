@@ -1,10 +1,8 @@
 ---
-
-
+url: /2013/10/23/mobile-code-sharing-catalog-snippet-leaflet/
 date: 2013-10-23 2:07:23 -0400
-title: 'Mobile Code Sharing Catalog Snippet\: Leaflet'
+title: 'Mobile Code Sharing Catalog Snippet: Leaflet'
 summary: 'Would you like help incorporating&nbsp;mobile-friendly maps in your mobile sites and/or web apps? Check out&nbsp;Leaflet, available on the Mobile Code Sharing Catalog, a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin of CloudMade with a team of dedicated contributors. Weighing just'
-authors: [jparcell]
 categories:
   - Code
   - Mobile
@@ -13,8 +11,7 @@ tag:
   - mobile gov
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-191-white-bg-Mobile-Code-Catalog-homepage-code-on-multiple-devices.jpg" alt="Code is shown on multiple devices." %}Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps?
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-191-white-bg-Mobile-Code-Catalog-homepage-code-on-multiple-devices.jpg" alt="Code is shown on multiple devices." %}Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps?
 
 Check out [Leaflet, available on the Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/web_html.html#modular), a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin of CloudMade with a team of dedicated contributors. Weighing just about 31 KB of gzipped JS code, it has all the features most developers ever need for online maps. More info at [http://leafletjs.com](http://leafletjs.com/).
 

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/02/02/agency-perspectives-on-personas-use-development-and-challenges/
 date: 2015-02-02 10:00:00 -0400
-title: 'Agency Perspectives on Personas (Use, Development and Challenges)'
+title: Agency Perspectives on Personas (Use, Development and Challenges)
 summary: 'Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs. Let&amp;#8217;s delve a bit deeper into personas and review two'
-authors: [kdaniel]
+authors:
+  - kdaniel
 categories:
   - UX
 tag:
@@ -22,11 +22,9 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 ## United States Department of Agriculture (USDA)
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" %}
-
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" %}
 
 ### ****Q & A with Emily Marsh, Ph.D., MLS, Librarian (USDA)****
 
@@ -42,11 +40,9 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 ## Department of Human and Health Services
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" %}
-
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" %}
 
 ### **Q & A with Kathryn Messner, Usability.gov Program Manager (HHS)**
 
@@ -67,6 +63,6 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 **How did your agencies utilize the information provided by the personas?**
   
-“Our team has actually used these personas throughout the entire redesign as a way to keep who we are designing this site for in mind. As someone on my team pointed out, it’s  a really good way to ground the project and keep opinions out of it. At the end of the day, if the decisions don’t align with the needs of these audiences, we need to take a look at what we’re doing.”
+“Our team has actually used these personas throughout the entire redesign as a way to keep who we are designing this site for in mind. As someone on my team pointed out, it’s a really good way to ground the project and keep opinions out of it. At the end of the day, if the decisions don’t align with the needs of these audiences, we need to take a look at what we’re doing.”
 
 As you can see above, a persona provides your agency with a tool that allows you to make decisions with the end user in mind. Personas are widely applicable to any federal agency. The only requirement is that you have an end user. As employees of the federal government, we all have end users. Be sure to utilize personas as a tool to provide a more customer-centric experience!

@@ -1,10 +1,10 @@
 ---
-
-
+url: /2015/12/28/ocsits-2015-customer-survey-what-we-learned/
 date: 2015-12-28 10:00:13 -0400
-title: 'OCSIT’s 2015 Customer Survey&mdash;What We Learned'
-summary: 'Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to design a system to consistently measure customer satisfaction across our office. We were inspired by the Digital Government Strategy, which tasks agencies to adopt a customer-centric approach to service delivery.'
-authors: [rflagg]
+title: OCSIT’s 2015 Customer Survey—What We Learned
+summary: 'Three years ago, GSA&rsquo;s Office of Citizen Services and Innovative Technologies (OCSIT) set out to design a system to consistently measure customer satisfaction across our office. We were inspired by the Digital Government Strategy, which tasks agencies to adopt a customer-centric approach to service delivery. {% img=&quot;https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-word-cloud-of-GCXi-survey-responses.jpg&quot; alt=&quot;A word cloud of Government Customer Experience Index'
+authors:
+  - rflagg
 categories:
   - Our Work
 tag:
@@ -20,12 +20,11 @@ tag:
   - TOS
 ---
 
-Three years ago, GSA’s  Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system](https://www.WHATEVER/2013/07/18/how-to-create-a-customer-experience-index/) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.
+Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system](https://www.WHATEVER/2013/07/18/how-to-create-a-customer-experience-index/) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.
 
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-word-cloud-of-GCXi-survey-responses.jpg" alt="A word cloud of Government Customer Experience Index survey responses." %}
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-word-cloud-of-GCXi-survey-responses.jpg" alt="A word cloud of Government Customer Experience Index survey responses." %}
-
-Armed with tools such as the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP), which offers [guidance on common customer satisfaction metrics](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/), we developed a Government Customer Experience Index (GCXi) for OCSIT. Loosely modeled after the [Forrester Customer Experience Index](http://blogs.forrester.com/megan_burns/14-01-21-introducing_forresters_customer_experience_index_2014), it’s  been invaluable to help us consistently measure customer satisfaction across our major lines of business.
+Armed with tools such as the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP), which offers [guidance on common customer satisfaction metrics](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/), we developed a Government Customer Experience Index (GCXi) for OCSIT. Loosely modeled after the [Forrester Customer Experience Index](http://blogs.forrester.com/megan_burns/14-01-21-introducing_forresters_customer_experience_index_2014), it’s been invaluable to help us consistently measure customer satisfaction across our major lines of business.
 
 ## The Process
 
@@ -39,14 +38,14 @@ Finally, we shared the survey data with the entire staff, and we instituted an a
 
 This year, we added a new core question, asking how easy it is for you to use our programs. We learned that we have some work to do in this area, particularly with more technical programs such as [FedRAMP (cloud computing)](https://www.fedramp.gov/), [Electronic Capital Planning and Investment Control (eCPIC)](https://www.WHATEVER/services/electronic-capital-planning-and-investment-control-ecpic/), and [Digital Analytics Program (DAP)](https://www.WHATEVER/services/dap/). In response, these programs now offer more frequent training, agency consultations and/or “office hours” for customers to call in and get one-on-one assistance.
 
-In the fast-moving tech world, it’s  important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class](https://www.WHATEVER/digitalgov-university/). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/). We’re streamlining our training library with [event recap articles](https://www.WHATEVER/tag/recap/), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/user/HowTogov/playlists) to make it easier to find past events.
+In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class](https://www.WHATEVER/digitalgov-university/). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/). We’re streamlining our training library with [event recap articles](https://www.WHATEVER/tag/recap/), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/user/HowTogov/playlists) to make it easier to find past events.
 
-## What’s  Working Well
+## What’s Working Well
 
 During the the past three years, the GCXi showed us that our agency customers, those colleagues who work at other government agencies:
 
   * Depend on the [Communities of Practice](https://www.WHATEVER/communities/) we sponsor to network, learn from their peers and keep up-to-date on requirements and best practices. Thousands of you are listening and learning via our listservs, even if you don’t speak up.
-  * Want to consume content (including [webinars and training from DigitalGov University](https://www.WHATEVER/events/)) when and where it’s  most convenient for you (this is particularly important for people outside of DC).
+  * Want to consume content (including [webinars and training from DigitalGov University](https://www.WHATEVER/events/)) when and where it’s most convenient for you (this is particularly important for people outside of DC).
   * Appreciate [services](https://www.WHATEVER/services/) tailored to government—easy, free, timely and convenient.
   * Love the open sharing of data, through the new [analytics dashboard](https://analytics.usa.gov/), for example, with its ability for cross-agency benchmarking.
 
@@ -60,7 +59,7 @@ Some of our favorite customer quotes include:
 
 ## We Heard You
 
-We also received a ton of constructive feedback that’s  helping us to improve how we work, so we can better serve you. Here are some examples, along with changes we made:
+We also received a ton of constructive feedback that’s helping us to improve how we work, so we can better serve you. Here are some examples, along with changes we made:
 
 > &#8220;The meetups look awesome but&#8230;I don&#8217;t live in DC 🙁 &#8220;
 
@@ -74,7 +73,7 @@ We also received a ton of constructive feedback that’s  helping us to improve 
 
   * Many programs now have “101” courses that cover the basics. Browse the playlists on the [DigitalGov YouTube channel](https://www.youtube.com/user/HowTogov/playlists) to see all the on-demand training available.
 
-## What’s  Next
+## What’s Next
 
 As 2015 winds down, we’re looking ahead to continue this learning process in 2016. If you’ve participated in past GCXi surveys, we thank you for sharing your candid feedback. As you can see, we take it to heart and will continue to use your feedback to make our programs even better.
 

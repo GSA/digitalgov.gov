@@ -1,14 +1,14 @@
 ---
-
-
+url: '/2017/05/24/%e2%80%8bwant-to-expand-your-innovation-base-dive-in-run-a-challenge-and-listen-to-your-customers/'
 date: 2017-05-24 2:00:58 -0400
-title: '​Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Listen to Your Customers'
+title: ​Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Listen to Your Customers
 summary: 'The Office of the National Coordinator (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don&rsquo;t have the funding and personnel of larger agencies, and, for the most part, this is fine. The'
-authors: [adam-wong]
+authors:
+  - adam-wong
 categories:
   - Challenges
-  - 'crowdsourcing-citizen-science'
-  - 'Strategy and Policy'
+  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Strategy &amp; Policy'
 tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
@@ -24,12 +24,11 @@ tag:
   - user centered design
 ---
 
-The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The entrenched industry stakeholders know what’s  happening at ONC, our policies, toolkits and initiatives.
+The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don’t have the funding and personnel of larger agencies, and, for the most part, this is fine. The entrenched industry stakeholders know what’s happening at ONC, our policies, toolkits and initiatives.
 
 But to be truly innovative, we need input from more than just the big stakeholders, particularly in this age of smartphones and apps. We also need innovation from people and entities that are completely new to health IT. But if they don&#8217;t know about ONC and aren&#8217;t up to speed on the newest policies, tools, and initiatives that we offer, that&#8217;s going to lead to reengineering and hurdles down the line as they develop new products and enter the marketplace.
 
-Enter prize competitions.
-{% include image/full-width.html img="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %}
+Enter prize competitions. {% img="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
 
 We created a prize challenge program to help address this innovator and startup issue. One of the benefits of a challenge is being able to tap expertise you didn’t know existed and put you in contact with innovators you otherwise would not have engaged. Having these “outsiders” work on problems presented by ONC would help bring them into the fold. At the beginning, my colleagues and I didn&#8217;t know much about the actual mechanics of running challenges, so we brought on private sector contractors with the relevant experience to help us get things up and running. We also had to create a structure that would accommodate different kinds of challenges with their unique goals and outputs.
 
@@ -47,4 +46,4 @@ Having learned that one of these barriers was a simple lack of access to the rig
 
 In closing, I want to emphasize the importance of consumer testing and continuous learning in whatever form they take. Beyond the direct improvement that those can drive, taking the time to listen to your customers&#8217; underlying issues can drive new insights that take you in entirely different and rewarding directions.
 
-_Adam Wong is a_ _senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s  online_ [_Challenges and Prizes Toolkit_](https://www.challenge.gov/toolkit/)_._
+_Adam Wong is a_ _senior innovation analyst in the Office of the National Coordinator for Health Information Technology at the Department of Health and Human Services. He also served as content coordinator for the federal government’s online_ [_Challenges and Prizes Toolkit_](https://www.challenge.gov/toolkit/)_._

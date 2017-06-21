@@ -1,10 +1,10 @@
 ---
-
-
+url: /2012/04/10/usa-gov-mobile-apps-gallery/
 date: 2012-04-10 9:25:46 -0400
-title: 'USA.gov Mobile Apps Gallery'
-summary: 'In April 2012, the U.S. General Services Administration launched a &amp;#8220;full stack&amp;#8221; responsive redesign of the federal mobile apps galleries\: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. Responsive web design allows the content on a website to respond to the'
-authors: [jparcell]
+title: USA.gov Mobile Apps Gallery
+summary: 'In April 2012, the U.S. General Services Administration launched a &amp;#8220;full stack&amp;#8221; responsive redesign of the federal mobile apps galleries: apps.USA.gov and apps.GobiernoUSA.gov. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. Responsive web design allows the content on a website to respond to the'
+authors:
+  - jparcell
 categories:
   - Mobile
 tag:
@@ -15,8 +15,7 @@ tag:
 
 In April 2012, the U.S. General Services Administration launched a &#8220;full stack&#8221; responsive redesign of the federal mobile apps galleries: <a href="http://apps.usa.gov/" rel="nofollow">apps.USA.gov</a> and <a href="http://apps.gobiernousa.gov/" rel="nofollow">apps.GobiernoUSA.gov</a>. The full stack includes both a REST API and a complete redesign of the site using responsive design techniques. [Responsive web design](http://mobilegovwiki.howto.gov/Responsive+Design) allows the content on a website to respond to the screen size and device it is being viewed on. So, while the app galleries are rendered one way on desktop browsers, the same website adapts and rearranges content when viewed on a tablet or smartphone.
 
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/ResponsiveDesignAppGallery.png" alt="USA dot gov Responsive Design Apps Gallery" %}
-
+[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/ResponsiveDesignAppGallery.png" alt="USA dot gov Responsive Design Apps Gallery" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/ResponsiveDesignAppGallery.png)
 
 **Why We Did It**
 
@@ -31,7 +30,7 @@ The app galleries were launched as the first responsive design site as their con
   3. The data dictionary was designed to accommodate the data elements and functionality desired in the app galleries
   4. A REST API was created to provide public access to app information. Using a REST API as a foundation for building the app galleries would enable other developers to create additional products based on the app gallery data
   5. The responsive design app galleries were created using both the App Gallery API and the USA Search API.
-  6. Once completed, the design was integrated into USA.gov’s  content management system and deployed.
+  6. Once completed, the design was integrated into USA.gov’s content management system and deployed.
 
 **How It Worked**
 

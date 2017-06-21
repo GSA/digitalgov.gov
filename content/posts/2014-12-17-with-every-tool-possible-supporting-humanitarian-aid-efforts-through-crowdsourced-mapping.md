@@ -1,12 +1,12 @@
 ---
-
-
+url: /2014/12/17/with-every-tool-possible-supporting-humanitarian-aid-efforts-through-crowdsourced-mapping/
 date: 2014-12-17 12:00:15 -0400
-title: 'With Every Tool Possible\: Supporting Humanitarian Aid Efforts Through Crowdsourced Mapping'
+title: 'With Every Tool Possible: Supporting Humanitarian Aid Efforts Through Crowdsourced Mapping'
 summary: ' Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have become'
-authors: [awichman]
+authors:
+  - awichman
 categories:
-  - 'crowdsourcing-citizen-science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme
 tag:
   - crowdsourcing
@@ -17,21 +17,19 @@ tag:
   - U.S. Department of State
 ---
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" %}
 
 Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have become key contributors in relief efforts and highlight the collaborative work that can be done between government, non-profit organizations, and the public.
 
 Through crowdsourcing, the [MapGive](http://mapgive.state.gov/index.html) project provides open map data that can be used by individuals and organizations around the world. Volunteers use satellite imagery to map everything from roads to buildings to rivers—no prior mapping experience required. The maps can be used for a broad range of purposes. Mapping [neighborhoods in Kenya](http://mapgive.state.gov/stories/make-a-difference.html) has helped residents in impoverished areas gain recognition and access to resources. Mapping efforts for [Typhoon Haiyan](http://mapgive.state.gov/stories/responding-to-disasters.html) began before the typhoon had even made landfall, and a total of 4.5 million map edits were made, helping relief workers with everything from assessing infrastructure damage to planning medical supply routes.
 
-MapGive is an initiative from the Department of State’s  Humanitarian Information Unit (HIU) and is a collaborative effort from both inside and outside the federal space, including the [Humanitarian OpenStreetMap Team](http://hot.openstreetmap.org/).
+MapGive is an initiative from the Department of State’s Humanitarian Information Unit (HIU) and is a collaborative effort from both inside and outside the federal space, including the [Humanitarian OpenStreetMap Team](http://hot.openstreetmap.org/).
 
-“There are lots of different agencies involved in MapGive, and I think it’s  interesting to see the ad hoc and more formal collaborations which are based on the idea of an open community,” said Mikel Maron, Presidential Innovation Fellow in HIU. “It gets people involved in the social-technical communities. It holds a lot of promise for scaling the barriers between agencies and unlocking new types of cooperative work.”
+“There are lots of different agencies involved in MapGive, and I think it’s interesting to see the ad hoc and more formal collaborations which are based on the idea of an open community,” said Mikel Maron, Presidential Innovation Fellow in HIU. “It gets people involved in the social-technical communities. It holds a lot of promise for scaling the barriers between agencies and unlocking new types of cooperative work.”
 
 The collaborative nature of MapGive has led to unique events: the American Consulate General in Jerusalem recently supported a youth engagement event in the West Bank that helped map [areas affected by Ebola](http://jerusalem.usconsulate.gov/pr-10182014.html). Benson Wilder, Analyst and Geographer in HIU, said that working with other government agencies will help raise public awareness about the importance of open mapping and its diverse applications, whether it is for humanitarian, health, or civil society efforts.
 
-
-{% include image/full-width.html img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-337-MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" %}
+{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-337-MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" %}
 
 “Being in the Office of the Geographer, MapGive is an extension of what we&#8217;ve always done: educating our own colleagues in government about the importance of geographic data,” Wilder said. “This is one subset, and we can use this to create exposure and understanding of all types of geographic data. You can make sense of the world by thinking spatially and geographically.”
 
