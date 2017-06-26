@@ -22,3 +22,5 @@ Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae. Aliquam auctor ve
 > Phasellus ornare rhoncus urna a lacinia. Nullam leo velit, ullamcorper id est ac, consectetur porttitor diam. In eu mollis nulla. Aenean molestie, urna non accumsan posuere, libero leo hendrerit ex, at lobortis nisl justo at nisi. Suspendisse potenti.
 
 Etiam nibh leo, vulputate sed ligula ac, mattis dictum sapien. Proin eu mi vitae sapien fringilla consequat. Maecenas vel purus nec mauris dignissim pellentesque. Maecenas lectus eros, posuere id eros ut, luctus suscipit odio.
+
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/06/600-x-337-Content-Social-Media-Strategy-Internet-marketing-sodafish-iStock-Thinkstock-504537426.jpg" alt="some alt text" align="center" caption="Concept image, online marketing word list. _Very_ cool." >}}

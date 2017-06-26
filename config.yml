@@ -27,6 +27,7 @@ params:
   youtube               : ""
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
+  cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
 
 permalinks:
   posts                 : ":year/:month/:day/:title/"

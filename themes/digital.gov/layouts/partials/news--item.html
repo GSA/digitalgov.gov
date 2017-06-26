@@ -1,17 +1,19 @@
+{{ $baseurl := .Site.BaseURL }}
+
 <li class="clearfix">
   <div class="cat-container clearfix">
     <div class="featpage-image">
       {{/* get the post url */}}
-      <a href="{{ .Scratch.Get "baseurl" }}{{ .URL }}" title="The Data Briefing: Design-Driven Enterprise Architecture Creating the New Federal Government Agency">
+      <a href="{{ $baseurl }}{{ .URL }}" title="The Data Briefing: Design-Driven Enterprise Architecture Creating the New Federal Government Agency">
         {{/* get the post featured image */}}
         <img class="catslide-thumbnail" src="{{/* .Params.featuredIimage.link */}}//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/06/featured-301-x-212-Artificial-Intelligence-with-molecular-and-circuit-design-Chinnawat-Ngamsom-iStock-Thinkstock-680054348.jpg" alt="{{/* .Params.featuredIimage.text */}}" title="{{/* .Title | markdownify */}}" />
       </a>
       {{/* get the post url */}}
-      <a class="more-link" href="{{ .Scratch.Get "baseurl" }}{{ .URL }}" rel="nofollow">Read More</a>
+      <a class="more-link" href="{{ $baseurl }}{{ .URL }}" rel="nofollow">Read More</a>
     </div><!-- div.featpage-image-->
 
     <div class="catslide-content">
-      <h3 class="post-title"><a href="{{ .Scratch.Get "baseurl" }}{{ .URL }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+      <h3 class="post-title"><a href="{{ $baseurl }}{{ .URL }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
       <p class="catslide-excerpt">
         {{ .Summary | truncate 140 }}
       </p>

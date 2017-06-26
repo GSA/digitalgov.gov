@@ -1,5 +1,5 @@
 ---
-url: '/2017/05/24/%e2%80%8bwant-to-expand-your-innovation-base-dive-in-run-a-challenge-and-listen-to-your-customers/'
+slug: 'sofoo'
 date: 2017-05-24 2:00:58 -0400
 title: ​Want to Expand Your Innovation Base? Dive In, Run a Challenge, and Listen to Your Customers
 summary: 'The Office of the National Coordinator (ONC) is a small agency in the Department of Health and Human Services (HHS) whose mission is to increase the interoperability and use of electronic health records and health IT. We don&rsquo;t have the funding and personnel of larger agencies, and, for the most part, this is fine. The'
@@ -28,7 +28,7 @@ The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a s
 
 But to be truly innovative, we need input from more than just the big stakeholders, particularly in this age of smartphones and apps. We also need innovation from people and entities that are completely new to health IT. But if they don&#8217;t know about ONC and aren&#8217;t up to speed on the newest policies, tools, and initiatives that we offer, that&#8217;s going to lead to reengineering and hurdles down the line as they develop new products and enter the marketplace.
 
-Enter prize competitions. {% img="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
+Enter prize competitions. {% img="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %}
 
 We created a prize challenge program to help address this innovator and startup issue. One of the benefits of a challenge is being able to tap expertise you didn’t know existed and put you in contact with innovators you otherwise would not have engaged. Having these “outsiders” work on problems presented by ONC would help bring them into the fold. At the beginning, my colleagues and I didn&#8217;t know much about the actual mechanics of running challenges, so we brought on private sector contractors with the relevant experience to help us get things up and running. We also had to create a structure that would accommodate different kinds of challenges with their unique goals and outputs.
 
