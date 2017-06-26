@@ -9,7 +9,7 @@
 
   <div class="entry">
     <div class="my-excerpt">
-      <h2 class="post-title"><a href="{{ .URL }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a></h2>
+      <h2 class="post-title"><a href="{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h2>
       <div class="meta">
         <ul>
 
@@ -42,7 +42,7 @@
           {{ end }}
 
           <li class="meta-date">
-            <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January 02, 2006" }}</a>
+            <a href="{{ .URL }}" rel="nofollow" title="{{ .Title | markdownify }}">{{ .Date.Format "January 02, 2006" }}</a>
           </li>
 
           {{/*

@@ -1,3 +1,5 @@
+{{ .Scratch.Set "baseurl" .Site.BaseURL }}
+
 {{ block "pagevars" . }}{{ end }}
 
 {{ partial "head.html" . }}
