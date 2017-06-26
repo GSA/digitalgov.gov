@@ -13,7 +13,7 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          <a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
         </h1>
 
         <div class="meta">
@@ -38,9 +38,9 @@
                     {{ end }}
                     */}}
                     {{ if lt (add $i 1) $length }}
-                      <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                      <a href="{{ $baseurl }}authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
                     {{ else }}
-                      <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                      <a href="{{ $baseurl }}authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
                     {{ end }}
                   {{ end }}
                 </span>
@@ -48,7 +48,7 @@
             {{ end }}
 
             <li class="meta-date">
-              <a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
+              <a href="{{ $baseurl }}{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
             </li>
 
             {{/*
@@ -103,7 +103,7 @@
             <ol>
               {{ range first 5 $tags.Pages | shuffle }}
                 {{ if ne .URL $currentPageUrl }}
-                  <li><a href="{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
+                  <li><a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
                 {{ end }}
               {{end}}
             </ol>

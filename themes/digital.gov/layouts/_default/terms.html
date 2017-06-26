@@ -5,12 +5,13 @@
 
 {{ define "content" }}
   {{ $data := $.Site.Data }}
+  {{ $baseurl := $.Site.BaseURL }}
   <h1>{{ .Title }}</h1>
 
   <ul>
     {{/* This will work when the tags are urlized! I think! */}}
     {{ range $tag, $title := index $data $.Data.Plural }}
-      {{ $link := printf "/%s/%s/" $.Data.Plural $tag }}
+      {{ $link := printf "%s%s/%s/" $baseurl $.Data.Plural $tag }}
       {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
         <li><a href="{{ $link }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
       {{ end }}
@@ -19,9 +20,9 @@
     {{/* This is flawed but will ouput all tags...
     {{ range $i, $e := $.Data.Terms.Alphabetical }}
       {{ $thedestination := $e.Name | urlize }}
-      {{ $thepath := printf "/%s/%s/" $.Data.Plural $thedestination }}
+      {{ $thepath := printf "%s%s/%s/" $baseurl $.Data.Plural $thedestination }}
       {{ range $term := first 1 (where $.Site.Pages ".URL" $thepath ) }}
-        <li><a href="{{ $term.URL }}">{{ $term.Title }} <strong>({{ $e.Count }})</strong>
+        <li><a href="{{ $baseurl }}{{ $term.URL }}">{{ $term.Title }} <strong>({{ $e.Count }})</strong>
         </li>
       {{ end }}
     {{ end }}

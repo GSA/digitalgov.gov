@@ -1,15 +1,16 @@
 {{ $baseurl := .Site.BaseURL }}
+
 <div class="post notthird notsecond post-386618 type-post status-publish format-standard has-post-thumbnail hentry">
 
   <div class="post-feature-image">
-    <a href="{{ .URL }}" rel="bookmark" title="Permanent link to {{ .Title }}">
+    <a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="Permanent link to {{ .Title }}">
       <img class="thumbnail large" src="{{/* .Params.featured-image.link */}}" alt="{{/* .Params.featured-image.title */}}" title="{{/* .Params.featured-image.title */}}" />
     </a>
   </div>
 
   <div class="entry">
     <div class="my-excerpt">
-      <h2 class="post-title"><a href="{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h2>
+      <h2 class="post-title"><a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h2>
       <div class="meta">
         <ul>
 
@@ -42,7 +43,7 @@
           {{ end }}
 
           <li class="meta-date">
-            <a href="{{ .URL }}" rel="nofollow" title="{{ .Title | markdownify }}">{{ .Date.Format "January 02, 2006" }}</a>
+            <a href="{{ $baseurl }}{{ .URL }}" rel="nofollow" title="{{ .Title | markdownify }}">{{ .Date.Format "January 02, 2006" }}</a>
           </li>
 
           {{/*
@@ -78,10 +79,10 @@
         </ul>
       </div><!-- .meta -->
       <p>{{ .Summary }}</p>
-      <p class="readmore"><a class="more-link" href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
+      <p class="readmore"><a class="more-link" href="{{ $baseurl }}{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
     </div>
 
-    <p class="readmore cols"><a href="{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
+    <p class="readmore cols"><a href="{{ $baseurl }}{{ .URL }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
 
   </div><!-- .entry -->
   <div style="clear:both;"></div>
