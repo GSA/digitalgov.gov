@@ -7,7 +7,7 @@ authors:
   - georgia-gallavin
 categories:
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - customer satisfaction

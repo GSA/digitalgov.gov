@@ -7,7 +7,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - EPA
   - mobile apps

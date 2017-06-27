@@ -11,7 +11,7 @@ categories:
 tag:
   - API
   - data
-  - 'Occupational Safety &amp; Health Administration'
+  - 'Occupational Safety and Health Administration'
   - open data
   - OSHA
   - U.S. Department of Labor

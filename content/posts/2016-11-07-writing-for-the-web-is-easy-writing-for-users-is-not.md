@@ -9,7 +9,7 @@ authors:
   - phoebe-espiritu
 categories:
   - Content
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - Writing
 tag:
   - accessibility

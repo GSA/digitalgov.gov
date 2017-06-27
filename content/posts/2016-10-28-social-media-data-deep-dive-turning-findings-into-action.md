@@ -7,7 +7,7 @@ authors:
   - victoria-wales
 categories:
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - analytics
   - content

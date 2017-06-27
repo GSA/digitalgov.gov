@@ -14,8 +14,8 @@ categories:
   - Managing Digital
   - Metrics
   - Mobile
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
 tag:
   - accessibility

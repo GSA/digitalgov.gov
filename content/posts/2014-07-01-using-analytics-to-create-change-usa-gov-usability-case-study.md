@@ -9,7 +9,7 @@ categories:
   - Content
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - customer satisfaction

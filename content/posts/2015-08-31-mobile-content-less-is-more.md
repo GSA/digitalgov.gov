@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - COPE
   - Federal CrowdSource Mobile Testing Program

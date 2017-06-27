@@ -7,7 +7,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - Federal CrowdSource Mobile Testing Program
   - Internet of things

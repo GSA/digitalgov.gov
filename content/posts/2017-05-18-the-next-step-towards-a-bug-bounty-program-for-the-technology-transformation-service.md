@@ -9,7 +9,7 @@ authors:
   - waldo-jaquith
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - 18F
   - DoD

@@ -7,7 +7,7 @@ authors:
   - crystal-peeler
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - Customer Experience

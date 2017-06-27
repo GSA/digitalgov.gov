@@ -8,7 +8,7 @@ authors:
 categories:
   - Governance
   - Monthly Theme
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - 18F
   - Connect.gov

@@ -6,7 +6,7 @@ summary: 'Personas are fictional characters that describe an organization&rsquo;
 authors:
   - michelle-chronister
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - analytics

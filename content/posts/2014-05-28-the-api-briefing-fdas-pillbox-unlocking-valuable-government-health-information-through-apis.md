@@ -9,7 +9,7 @@ categories:
   - API
   - Code
   - Data
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - API
   - GitHub

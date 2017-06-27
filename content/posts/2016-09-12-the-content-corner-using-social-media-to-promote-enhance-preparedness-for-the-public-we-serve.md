@@ -11,7 +11,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - content
   - content strategy

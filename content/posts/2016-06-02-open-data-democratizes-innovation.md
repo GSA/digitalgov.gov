@@ -9,9 +9,9 @@ authors:
 categories:
   - API
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Data
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - API
   - apps challenges

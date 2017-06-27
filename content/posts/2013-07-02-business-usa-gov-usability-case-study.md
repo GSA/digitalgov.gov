@@ -6,7 +6,7 @@ summary: 'When redesigning a site, it&#8217;s easy to place menu items, text and
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - DigitalGov User Experience Program
   - usability

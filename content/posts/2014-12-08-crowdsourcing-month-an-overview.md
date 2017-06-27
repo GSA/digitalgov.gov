@@ -7,7 +7,7 @@ authors:
   - tmarcoullier
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
 tag:
   - CFPB

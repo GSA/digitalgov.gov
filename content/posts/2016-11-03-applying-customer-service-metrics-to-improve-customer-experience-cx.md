@@ -7,7 +7,7 @@ authors:
   - craig-chavez
 categories:
   - Data
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - analytics
   - Customer Experience

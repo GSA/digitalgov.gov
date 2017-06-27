@@ -6,7 +6,7 @@ summary: Acronyms and jargon are fine when you want to communicate quickly to an
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

@@ -11,7 +11,7 @@ categories:
   - Data
   - Managing Digital
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - AI

@@ -7,8 +7,8 @@ authors:
   - alan-brouilette
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
 tag:
   - 18F
   - agile

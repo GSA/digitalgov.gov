@@ -8,7 +8,7 @@ authors:
 categories:
   - Accessibility
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
 tag:
   - accessibility

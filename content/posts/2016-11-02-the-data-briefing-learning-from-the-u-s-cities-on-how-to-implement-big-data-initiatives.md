@@ -8,7 +8,7 @@ authors:
 categories:
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - big data
   - data

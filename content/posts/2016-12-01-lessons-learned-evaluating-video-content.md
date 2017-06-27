@@ -8,7 +8,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
   - Video
 tag:

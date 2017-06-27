@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - aws
   - DigitalGov Search

@@ -9,8 +9,8 @@ categories:
   - Data
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - Video
 tag:
   - Audio/Video

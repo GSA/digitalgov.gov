@@ -6,7 +6,7 @@ summary: 'Crowdsourcing has created new paths for public interaction with the go
 authors:
   - awichman
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Monthly Theme
 tag:
   - 18F

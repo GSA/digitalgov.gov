@@ -7,7 +7,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - Federal CrowdSource Mobile Testing Program
   - Mobile UX Guideline 1

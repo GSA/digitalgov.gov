@@ -6,7 +6,7 @@ summary: Mobile First is the idea that web sites should first be designed for mo
 categories:
   - Design
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
 tag:
   - mobile

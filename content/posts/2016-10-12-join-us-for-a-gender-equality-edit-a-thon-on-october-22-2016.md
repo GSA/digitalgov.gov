@@ -7,10 +7,10 @@ authors:
   - meredith-stewart
 categories:
   - Content
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Managing Digital
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - content
   - crowdsourcing

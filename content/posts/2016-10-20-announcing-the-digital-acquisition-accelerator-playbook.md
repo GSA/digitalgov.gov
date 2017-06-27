@@ -7,7 +7,7 @@ authors:
   - duane-rollins
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - 18F
   - acquisition

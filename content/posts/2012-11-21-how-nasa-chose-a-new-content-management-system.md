@@ -9,7 +9,7 @@ categories:
   - API
   - Content
   - Governance
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - CMS
   - Content Management System

@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - usability

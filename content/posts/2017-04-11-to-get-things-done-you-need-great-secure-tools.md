@@ -7,7 +7,7 @@ authors:
   - v-david-zvenyach
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - 18F
   - FedRAMP

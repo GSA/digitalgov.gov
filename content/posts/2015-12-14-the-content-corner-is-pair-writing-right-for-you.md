@@ -7,7 +7,7 @@ authors:
   - tymanuel
 categories:
   - Content
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - Writing
 tag:
   - Administrative Office of the United States Courts

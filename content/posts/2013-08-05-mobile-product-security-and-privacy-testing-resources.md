@@ -8,8 +8,8 @@ authors:
 categories:
   - Code
   - Mobile
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
 tag:
   - GitHub
   - mobile testing

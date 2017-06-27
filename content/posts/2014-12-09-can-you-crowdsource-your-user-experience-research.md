@@ -6,10 +6,10 @@ summary: 'In one sense, almost any type of user research is crowdsourced&mdash;y
 authors:
   - jonathan-rubin
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Design
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - API

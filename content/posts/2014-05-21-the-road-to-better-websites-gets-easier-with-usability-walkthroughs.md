@@ -6,7 +6,7 @@ summary: The road to more user-friendly government websites does not have to be 
 authors:
   - ashley-braun
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

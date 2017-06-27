@@ -7,7 +7,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - mobile
   - mobile testing

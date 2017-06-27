@@ -10,7 +10,7 @@ authors:
   - marc-groman
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - acquisition
   - Office of Management and Budget

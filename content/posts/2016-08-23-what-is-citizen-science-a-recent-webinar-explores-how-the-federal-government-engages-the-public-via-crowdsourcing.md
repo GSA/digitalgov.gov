@@ -6,7 +6,7 @@ summary: 'From the National Park Service (NPS) to the Centers for Disease Contro
 authors:
   - zohaa-ahmad
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
 tag:
   - CDC
   - Centers for Disease Control and Prevention

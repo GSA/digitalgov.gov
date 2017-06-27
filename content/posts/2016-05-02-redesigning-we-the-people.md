@@ -10,7 +10,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - content strategy

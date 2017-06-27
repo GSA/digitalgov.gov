@@ -7,7 +7,7 @@ authors:
   - katie-messner
 categories:
   - Accessibility
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - accessibility

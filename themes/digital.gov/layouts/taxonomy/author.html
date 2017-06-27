@@ -1,0 +1,30 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
+{{ end }}
+
+{{ define "content" }}
+  {{ $data := $.Site.Data }}
+  <div id="contentleft" class="clearfix">
+    <div id="content" class="clearfix">
+      {{ $slug := .Title | urlize }}
+      {{ $person := index $.Site.Data.people.authors $slug }}
+
+      <h1 class="archive-title">{{ $person.full_name | default .Title }}</h1>
+
+      {{ range (.Paginator 10).Pages }}
+        {{ partial "summary-withImage.html" . }}
+      {{ end }}
+
+      {{ if gt .Paginator.TotalPages 1}}
+        <div class="navigation clearfix">
+    			{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL | absURL }}">« Previous Page</a>{{ end }}{{ if and .Paginator.HasPrev .Paginator.HasNext }} — {{ end }}{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL | absURL }}">Next Page »</a>{{ end }}
+        </div>
+      {{ end }}
+
+    </div><!-- #content -->
+  </div><!-- #contentleft -->
+{{ end }}
+
+{{ define "sidebar" }}
+  {{ partial "sidebar-common.html" . }}
+{{ end }} {{/* end 'sidebar' block */}}

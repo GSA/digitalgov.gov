@@ -7,7 +7,7 @@ authors:
   - bbrantley
 categories:
   - API
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - API
   - Federal Register

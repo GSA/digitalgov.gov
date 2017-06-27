@@ -8,7 +8,7 @@ authors:
 categories:
   - Accessibility
   - Design
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
 tag:
   - 18F

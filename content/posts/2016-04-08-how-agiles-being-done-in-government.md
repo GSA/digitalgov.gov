@@ -8,7 +8,7 @@ authors:
 categories:
   - Managing Digital
   - Monthly Theme
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - 18F
   - agile

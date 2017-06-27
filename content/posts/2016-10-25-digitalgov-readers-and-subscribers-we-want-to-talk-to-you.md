@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Our Work
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - content
@@ -17,7 +17,7 @@ tag:
   - CX
   - DGU
   - DigitalGov University
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - research
   - user centered design

@@ -9,7 +9,7 @@ categories:
   - Data
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

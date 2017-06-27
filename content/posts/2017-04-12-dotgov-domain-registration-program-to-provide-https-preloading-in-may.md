@@ -8,7 +8,7 @@ authors:
   - eric-mill
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - GSA
   - HTTPS

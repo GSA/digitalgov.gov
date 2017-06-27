@@ -7,7 +7,7 @@ authors:
   - bbrantley
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
 tag:
   - challenges and prize competitions
   - crowdsourcing

@@ -7,7 +7,7 @@ authors:
   - jean-fox
 categories:
   - Communities
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - AoI
   - BLS

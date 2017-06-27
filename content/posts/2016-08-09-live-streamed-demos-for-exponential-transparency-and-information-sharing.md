@@ -9,7 +9,7 @@ categories:
   - Code
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - Video
 tag:
   - 18F

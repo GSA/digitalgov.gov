@@ -6,7 +6,7 @@ summary: 'NASA recently announced the winners of a smartwatch app interface comp
 authors:
   - jparcell
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Mobile
   - Monthly Theme
 tag:

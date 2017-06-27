@@ -7,7 +7,7 @@ authors:
   - ellen-langhans
   - tim-hudak
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - Customer Experience
   - HHS

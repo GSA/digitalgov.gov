@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

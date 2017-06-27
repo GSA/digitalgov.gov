@@ -6,7 +6,7 @@ summary: 'When users interact with a website to find information, it is importan
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

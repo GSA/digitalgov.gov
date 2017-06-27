@@ -6,7 +6,7 @@ summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks c
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

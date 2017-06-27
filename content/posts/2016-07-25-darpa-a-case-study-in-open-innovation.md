@@ -7,7 +7,7 @@ authors:
   - eric-beidel
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Managing Digital
 tag:
   - ChallengeGov

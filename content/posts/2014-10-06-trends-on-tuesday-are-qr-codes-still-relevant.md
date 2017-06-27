@@ -9,7 +9,7 @@ categories:
   - Communities
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - AoI
   - mobile

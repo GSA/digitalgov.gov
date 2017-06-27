@@ -8,7 +8,7 @@ authors:
 categories:
   - Design
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - content

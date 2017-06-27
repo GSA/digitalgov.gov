@@ -9,7 +9,7 @@ categories:
   - Data
   - Managing Digital
   - Metrics
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - analytics
   - data

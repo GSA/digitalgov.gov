@@ -7,7 +7,7 @@ authors:
   - tlowden
 categories:
   - Communities
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - A/B testing

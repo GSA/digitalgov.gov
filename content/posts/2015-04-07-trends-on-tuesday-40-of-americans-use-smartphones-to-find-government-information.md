@@ -8,7 +8,7 @@ authors:
 categories:
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - mobile
   - Mobile UX Guideline 5

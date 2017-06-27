@@ -8,7 +8,7 @@ authors:
 categories:
   - Design
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - HHS

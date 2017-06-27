@@ -6,7 +6,7 @@ summary: 'Do you have a scientific issue to address? Wish you had dozens, hundre
 authors:
   - kelly-olson
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
 tag:
   - ChallengeGov
   - citizen science

@@ -7,8 +7,8 @@ authors:
   - andrew-maier
 categories:
   - Design
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - 'Strategy and Policy'
+  - 'User Testing and Research'
   - UX
 tag:
   - State

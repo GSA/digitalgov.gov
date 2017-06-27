@@ -10,7 +10,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - content
   - content strategy

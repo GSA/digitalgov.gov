@@ -7,7 +7,7 @@ authors:
   - troy-kitch
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov Search

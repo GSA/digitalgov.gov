@@ -9,7 +9,7 @@ categories:
   - Accessibility
   - Design
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - accessibility

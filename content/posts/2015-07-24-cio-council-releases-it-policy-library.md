@@ -7,7 +7,7 @@ authors:
   - kdaniel
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - CIO Council
 ---

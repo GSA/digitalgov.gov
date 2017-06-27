@@ -7,7 +7,7 @@ authors:
   - wendy-littman
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DOE

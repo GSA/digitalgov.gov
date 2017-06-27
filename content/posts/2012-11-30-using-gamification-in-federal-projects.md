@@ -7,7 +7,7 @@ authors:
   - mike-kruger
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - Department of Commerce
   - gamification

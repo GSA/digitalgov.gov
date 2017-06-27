@@ -7,7 +7,7 @@ authors:
   - office-of-information-policy
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - DOJ
   - FOIA

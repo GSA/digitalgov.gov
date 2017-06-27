@@ -6,7 +6,7 @@ summary: Setting measurable usability goals will help your team to assess the pe
 authors:
   - katie-messner
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - HHS

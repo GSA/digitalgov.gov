@@ -7,7 +7,7 @@ authors:
   - christen-geiler
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - FCC
   - Federal Communications Commission

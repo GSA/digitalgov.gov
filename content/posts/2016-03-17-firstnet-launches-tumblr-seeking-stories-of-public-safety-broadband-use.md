@@ -8,7 +8,7 @@ authors:
 categories:
   - Social Media
 tag:
-  - 'National Telecommunications &amp; Information Administration'
+  - 'National Telecommunications and Information Administration'
   - NTIA
 ---
 

@@ -6,7 +6,7 @@ summary: ' Guest post by Brenda Wensil, Chief Customer Experience Officer for Fe
 authors:
   - brenda-wensil
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - Customer Experience

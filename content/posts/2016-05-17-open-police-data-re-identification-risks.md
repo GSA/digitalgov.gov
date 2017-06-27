@@ -11,7 +11,7 @@ tag:
   - data
   - Federal Trade Commission
   - FTC
-  - 'National Telecommunications &amp; Information Administration'
+  - 'National Telecommunications and Information Administration'
   - open data
   - security
   - White House

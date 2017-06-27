@@ -5,7 +5,7 @@ title: Which Devices Should I Test With?
 summary: 'Like a kid in a candy store&#8230; Every time we go to the mall, the kids pull us to the candy store with the floor-to-ceiling tubes of colored candy. The kids quickly grab their bags and scavenge from each of the bins until their'
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - mobile
 ---

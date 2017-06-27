@@ -7,7 +7,7 @@ authors:
   - sharon-lozano
 categories:
   - Data
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - data
   - data visualization

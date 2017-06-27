@@ -7,7 +7,7 @@ authors:
   - marc-groman
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - Office of Management and Budget
   - OMB

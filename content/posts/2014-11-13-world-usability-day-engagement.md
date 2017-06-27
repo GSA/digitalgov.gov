@@ -7,7 +7,7 @@ authors:
   - jonathan-rubin
 categories:
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

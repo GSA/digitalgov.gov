@@ -7,7 +7,7 @@ authors:
   - tmarcoullier
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
 tag:
   - ChallengeGov
   - citizen science

@@ -7,7 +7,7 @@ authors:
   - ktrebon
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
 tag:
   - "508"

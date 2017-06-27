@@ -7,7 +7,7 @@ authors:
   - mary-davie
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - Federal Health IT Strategic Plan
   - GSA

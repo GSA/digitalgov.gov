@@ -6,7 +6,7 @@ summary: 'Many technical websites have a hard time explaining information to the
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - DigitalGov User Experience Program
   - usability case study

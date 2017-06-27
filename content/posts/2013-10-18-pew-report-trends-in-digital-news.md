@@ -8,7 +8,7 @@ authors:
 categories:
   - Mobile
   - Social Media
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - mobile
   - social media

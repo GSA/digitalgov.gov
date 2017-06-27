@@ -6,7 +6,7 @@ summary: 'There&rsquo;s what you expect your audience to think, and then there&r
 authors:
   - colleen-bayus
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - usa.gov

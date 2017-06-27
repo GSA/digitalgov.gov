@@ -7,7 +7,7 @@ authors:
   - brandon-kopp
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - BLS
   - prototype

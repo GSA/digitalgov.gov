@@ -8,7 +8,7 @@ authors:
 categories:
   - Content
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - Privacy Impact Assessment
   - social media

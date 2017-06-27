@@ -7,7 +7,7 @@ authors:
   - jessica-milcetich
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - agile
   - Agile/Lean Community of Practice

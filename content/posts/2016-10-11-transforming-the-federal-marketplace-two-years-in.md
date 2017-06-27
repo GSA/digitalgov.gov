@@ -6,7 +6,7 @@ summary: 'Summary: It&rsquo;s been two years since we laid out the Administratio
 authors:
   - anne-rung
 categories:
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - acquisition
   - agile

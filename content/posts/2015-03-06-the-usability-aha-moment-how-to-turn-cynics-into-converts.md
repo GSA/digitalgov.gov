@@ -8,7 +8,7 @@ authors:
   - deborah-bennett
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - National Library of Medicine

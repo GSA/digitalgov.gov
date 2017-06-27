@@ -8,7 +8,7 @@ authors:
 categories:
   - Code
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - architecture
   - infrastructure

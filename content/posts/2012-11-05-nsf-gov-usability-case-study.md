@@ -6,7 +6,7 @@ summary: 'Many government websites are informational in nature &#8211; you don&#
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - DigitalGov User Experience Program

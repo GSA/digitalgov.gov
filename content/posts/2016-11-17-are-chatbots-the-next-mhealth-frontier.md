@@ -10,7 +10,7 @@ categories:
   - Content
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - app
   - chatbots

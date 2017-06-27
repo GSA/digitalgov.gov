@@ -8,7 +8,7 @@ authors:
 categories:
   - Challenges
   - Code
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
 tag:
   - crowdsourcing
   - Department of Commerce

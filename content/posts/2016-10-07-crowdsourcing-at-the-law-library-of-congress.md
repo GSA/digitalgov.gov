@@ -6,10 +6,10 @@ summary: 'The Law Library acquired a large collection from William S. Hein & Co.
 authors:
   - jennifer-gonzalez
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Data
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
 tag:
   - crowdsourcing
   - Law Library of Congress

@@ -11,7 +11,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - UX
 tag:
   - "508"

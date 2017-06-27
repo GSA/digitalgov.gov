@@ -7,7 +7,7 @@ authors:
   - hannah-gladfelter-rubin
 categories:
   - Metrics
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - analytics

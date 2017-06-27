@@ -8,7 +8,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - CMS
   - Content Management System

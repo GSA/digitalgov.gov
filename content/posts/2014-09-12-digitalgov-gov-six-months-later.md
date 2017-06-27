@@ -11,7 +11,7 @@ categories:
   - Managing Digital
   - Our Work
   - Social Media
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - analytics
   - content strategy

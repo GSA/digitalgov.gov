@@ -7,7 +7,7 @@ authors:
   - bbrantley
 categories:
   - API
-  - 'Crowdsourcing &amp; Citizen Science'
+  - 'Crowdsourcing and Citizen Science'
   - Mobile
 tag:
   - citizen science
