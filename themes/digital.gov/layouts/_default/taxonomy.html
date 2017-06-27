@@ -8,8 +8,14 @@
     <div id="content" class="clearfix">
       {{ $taxonomy := .Data.Plural }}
       {{ $slug := .Title | urlize }}
-      {{ $taxdata := index $data "tag" }}
-      {{ $term := index $taxdata $slug }}
+      {{ $taxdata := index $data $taxonomy }}
+      {{ if $taxdata }}
+        {{ .Scratch.Set "taxdata" $taxdata }}
+      {{ else }}
+        {{ .Scratch.Set "taxdata" (index $data "categories") }}
+      {{ end }}
+
+      {{ $term := index (.Scratch.Get "taxdata") $slug }}
 
       <h1 class="archive-title">{{ $term }}</h1>
 
