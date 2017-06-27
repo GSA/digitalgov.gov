@@ -11,7 +11,7 @@
   <ul>
     {{/* This will work when the tags are urlized! I think! */}}
     {{ range $tag, $title := index $data $.Data.Plural }}
-      {{ $link := printf "%s%s/%s/" $baseurl $.Data.Plural $tag }}
+      {{ $link := replaceRE "([a-z0-9])/+" "$1/" (printf "%s%s/%s/" $baseurl $.Data.Plural $tag) }}
       {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
         <li><a href="{{ $link }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
       {{ end }}
