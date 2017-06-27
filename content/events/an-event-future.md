@@ -1,5 +1,5 @@
 ---
-title                 : An event in the future
+title                 : An event in the far future
 draft                 : false
 event_id              : an-event-future
 relationships:
@@ -27,11 +27,11 @@ event_description:
   short               : Keep this under 140 characters
   long                : This should be one paragraph of summary text. Work to evoke the critical topics of your event, but leave extended descriptions to the body of the event. Where does this long description go? That's a very reasonable question, but I'm not sure yet.
 tag:
-  - tag
-  - tag
+  - api
+  - api
 categories:
-  - category
-  - category
+  - design
+  - design
 is_featured           : true
 featured_image:
     link              : https://dummyimage.com/600x400/0DE55A/fff.jpg
