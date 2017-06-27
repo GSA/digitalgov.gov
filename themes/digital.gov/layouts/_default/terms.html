@@ -10,7 +10,7 @@
   <ul>
     {{/* This will work when the tags are urlized! I think! */}}
     {{ range $tag, $title := index $data $.Data.Plural }}
-      {{ $link := printf "/%s/%s/" $.Data.Plural $tag }}
+      {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
       {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
         <li><a href="{{ $link | absURL }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
       {{ end }}

@@ -37,9 +37,9 @@
                     {{ end }}
                     */}}
                     {{ if lt (add $i 1) $length }}
-                      <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                      <a href="{{ (printf "authors/%s/" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
                     {{ else }}
-                      <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                      <a href="{{ (printf "authors/%s/" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
                     {{ end }}
                   {{ end }}
                 </span>
