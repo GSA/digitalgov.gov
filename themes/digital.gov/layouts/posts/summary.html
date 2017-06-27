@@ -1,5 +1,5 @@
 {{/* how much of the following class soup is really necessary? */}}
-{{ $baseurl := .Site.BaseURL }}
+{{ $baseurl := $.Site.BaseURL }}
 
 <div class=" post type-post status-publish format-standard has-post-thumbnail hentry">
 
@@ -11,7 +11,7 @@
 
   <div class="entry">
     <div class="my-excerpt">
-      <h2 class="post-title"><a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a></h2>
+      <h2 class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title }}">{{ .Title }}</a></h2>
       <div class="meta">
         <ul>
           <li class="meta-author">

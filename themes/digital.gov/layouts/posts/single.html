@@ -4,7 +4,7 @@
 {{ end }}
 
 {{ define "content" }}
-{{ $baseurl := .Site.BaseURL }}
+{{ $baseurl := $.Site.BaseURL }}
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
     <div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
@@ -13,7 +13,7 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
         </h1>
 
         <div class="meta">
@@ -48,7 +48,7 @@
             {{ end }}
 
             <li class="meta-date">
-              <a href="{{ $baseurl }}{{ .URL }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
+              <a href="{{ .Permalink }}" rel="nofollow" title="{{ .Title }}">{{ .Date.Format "January _2, 2006"}}</a>
             </li>
 
             {{/*
@@ -103,7 +103,7 @@
             <ol>
               {{ range first 5 $tags.Pages | shuffle }}
                 {{ if ne .URL $currentPageUrl }}
-                  <li><a href="{{ $baseurl }}{{ .URL }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
+                  <li><a href="{{ .Permalink }}" rel="bookmark" title="{{ .LinkTitle }}">{{ .LinkTitle | markdownify }}</a></li>
                 {{ end }}
               {{end}}
             </ol>

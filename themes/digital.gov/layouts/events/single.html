@@ -13,7 +13,6 @@
 {{ end }}
 
 {{ define "content" }}
-  {{ $baseurl := .Site.BaseURL }}
 
   {{ if .Params.venue.is_inperson }}
     {{ if .Params.venue.is_remote }}
@@ -41,7 +40,7 @@
         */}}
   			<div id="tribe-events-content" class="tribe-events-single">
   				<p class="tribe-events-back">
-  					<a href="{{ $baseurl }}events/"> &laquo; All Events</a>
+  					<a href="{{ $.Site.BaseURL }}events/"> &laquo; All Events ({{ $.Site.BaseURL }})</a>
   				</p>
 
   				<!-- Notices -->
@@ -150,7 +149,7 @@
                       {{ range $i, $e := $_cats }}
                         {{ $slug := $e | urlize }}
                         {{ $title := index $.Site.Data.categories $slug }}
-                        {{ $link := printf "%scategories/%s/" $baseurl $slug }}
+                        {{ $link := printf "%scategories/%s/" $.Site.BaseURL $slug }}
                         {{ if lt (add $i 1) $length }}
                           <a href="{{ $link }}" rel="tag">{{ $title }}</a>,
                         {{ else }}
@@ -170,7 +169,7 @@
                       {{ range $i, $e := $_taxonomy }}
                         {{ $slug := $e | urlize }}
                         {{ $title := index $.Site.Data.tag $slug }}
-                        {{ $link := printf "%stag/%s/" $baseurl $slug }}
+                        {{ $link := printf "%stag/%s/" $.Site.BaseURL $slug }}
                         {{ if lt (add $i 1) $length }}
                           <a href="{{ $link }}" rel="tag">{{ $title }}</a>,
                         {{ else }}

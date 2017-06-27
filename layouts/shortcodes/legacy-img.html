@@ -1,6 +1,6 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
-{{ $baseurl := .Site.BaseURL }}
+{{ $baseurl := $.Site.BaseURL }}
 
 
 <div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>

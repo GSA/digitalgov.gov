@@ -1,5 +1,5 @@
 title                   : "digital.gov"
-baseURL                 : "/"
+baseURL                 : "foo/"
 languageCode            : "en-us"
 theme                   : "digital.gov"
 themesDir               : "./themes"
