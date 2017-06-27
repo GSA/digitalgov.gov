@@ -1,5 +1,3 @@
-{{ $baseurl := $.Site.BaseURL }}
-
 <div id="tribe-events-list-widget-8" class="widget widget-2 widget-last tribe-events-list-widget">
   <div class="widget-wrap">
     <h3 class="widgettitle">
@@ -40,7 +38,7 @@
     </ol><!-- .tribe-list-widget -->
 
     <p class="tribe-events-widget-link">
-      <a href="{{ $baseurl }}events/" rel="bookmark">View All Events</a>
+      <a href="{{ "/events" | absURL }}" rel="bookmark">View All Events</a>
     </p>
 
   </div>

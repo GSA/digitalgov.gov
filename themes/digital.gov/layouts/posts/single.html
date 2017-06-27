@@ -4,7 +4,6 @@
 {{ end }}
 
 {{ define "content" }}
-{{ $baseurl := $.Site.BaseURL }}
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
     <div class="post singlepost post-387041 type-post status-publish format-standard has-post-thumbnail hentry category-managing-digital category-strategy-policy tag-cloud tag-gsa tag-security tag-u-s-general-services-administration Managing Digital Strategy &amp; Policy"
@@ -38,9 +37,9 @@
                     {{ end }}
                     */}}
                     {{ if lt (add $i 1) $length }}
-                      <a href="{{ $baseurl }}authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                      <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
                     {{ else }}
-                      <a href="{{ $baseurl }}authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                      <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
                     {{ end }}
                   {{ end }}
                 </span>
@@ -65,11 +64,11 @@
                 {{ range $i, $e := $_cats }}
                   {{ $slug := $e | urlize }}
                   {{ $title := index $.Site.Data.categories $slug }}
-                  {{ $link := printf "%scategories/%s/" $baseurl $slug }}
+                  {{ $link := printf "categories/%s/" $slug }}
                   {{ if lt (add $i 1) $length }}
-                    <a href="{{ $link }}" rel="category tag">{{ $title }}</a>,
+                    <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>,
                   {{ else }}
-                    <a href="{{ $link }}" rel="category tag">{{ $title }}</a>
+                    <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>
                   {{ end }}
                 {{ end }}
               </li>
@@ -127,11 +126,11 @@
             {{ range $i, $e := $_taxonomy }}
               {{ $slug := $e | urlize }}
               {{ $title := index $sitetags $slug }}
-              {{ $link := printf "%stag/%s/" $baseurl $slug }}
+              {{ $link := printf "tag/%s/" $slug }}
               {{ if lt (add $i 1) $length }}
-                <a href="{{ $link }}" rel="tag">{{ $title }}</a>,
+                <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>,
               {{ else }}
-                <a href="{{ $link }}" rel="tag">{{ $title }}</a>
+                <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>
               {{ end }}
             {{ end }}
           </p>
@@ -152,12 +151,12 @@
     <div class="navigation clearfix">
       <div class="alignleft single">
         {{ if .Prev }}
-          « <a href="{{ .Prev.URL }}" rel="prev">{{ .Prev.Title | markdownify }}</a>
+          « <a href="{{ .Prev.URL | absURL }}" rel="prev">{{ .Prev.Title | markdownify }}</a>
         {{ end }}
       </div>
       <div class="alignright single">
         {{ if .Next }}
-          <a href="{{ .Next.URL }}" rel="next">{{ .Next.Title | markdownify }}</a> »
+          <a href="{{ .Next.URL | absURL }}" rel="next">{{ .Next.Title | markdownify }}</a> »
         {{ end }}
       </div>
     </div><!-- .navigation -->

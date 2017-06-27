@@ -5,15 +5,14 @@
 
 {{ define "content" }}
   {{ $data := $.Site.Data }}
-  {{ $baseurl := $.Site.BaseURL }}
   <h1>{{ .Title }}</h1>
 
   <ul>
     {{/* This will work when the tags are urlized! I think! */}}
     {{ range $tag, $title := index $data $.Data.Plural }}
-      {{ $link := replaceRE "([a-z0-9])/+" "$1/" (printf "%s%s/%s/" $baseurl $.Data.Plural $tag) }}
+      {{ $link := printf "/%s/%s/" $.Data.Plural $tag }}
       {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
-        <li><a href="{{ $link }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
+        <li><a href="{{ $link | absURL }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
       {{ end }}
     {{ end }}
 

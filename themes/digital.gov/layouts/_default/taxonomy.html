@@ -4,15 +4,14 @@
 
 {{ define "content" }}
   {{ $data := $.Site.Data }}
-  {{ $baseurl := $.Site.BaseURL }}
   <div id="contentleft" class="clearfix">
     <div id="content" class="clearfix">
       {{ $taxonomy := .Data.Plural }}
       {{ $slug := .Title | urlize }}
-      {{ $taxdata := index $data $taxonomy }}
-      {{/* $term := index $taxdata $slug */}}
+      {{ $taxdata := index $data "tag" }}
+      {{ $term := index $taxdata $slug }}
 
-      <h1 class="archive-title">{{ .Title }}</h1>
+      <h1 class="archive-title">{{ $term }}</h1>
 
       {{ range (.Paginator 10).Pages }}
         {{ partial "summary-withImage.html" . }}
@@ -20,7 +19,7 @@
 
       {{ if gt .Paginator.TotalPages 1}}
         <div class="navigation clearfix">
-    			{{ if .Paginator.HasPrev }}<a href="{{ $baseurl }}{{ .Paginator.Prev.URL }}">« Previous Page</a>{{ end }}{{ if and .Paginator.HasPrev .Paginator.HasNext }} — {{ end }}{{ if .Paginator.HasNext }}<a href="{{ $baseurl }}{{ .Paginator.Next.URL }}">Next Page »</a>{{ end }}
+    			{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL | absURL }}">« Previous Page</a>{{ end }}{{ if and .Paginator.HasPrev .Paginator.HasNext }} — {{ end }}{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL | absURL }}">Next Page »</a>{{ end }}
         </div>
       {{ end }}
 

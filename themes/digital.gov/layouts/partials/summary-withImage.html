@@ -1,5 +1,3 @@
-{{ $baseurl := $.Site.BaseURL }}
-
 <div class="post notthird notsecond post-386618 type-post status-publish format-standard has-post-thumbnail hentry">
 
   <div class="post-feature-image">
@@ -33,9 +31,9 @@
                   {{ end }}
                   */}}
                   {{ if lt (add $i 1) $length }}
-                    <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
+                    <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
                   {{ else }}
-                    <a href="{{ $baseurl }}/authors/{{ $e | urlize }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
+                    <a href="{{ (printf "/authors/%s" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
                   {{ end }}
                 {{ end }}
               </span>
@@ -60,11 +58,11 @@
               {{ range $i, $e := $_cats }}
                 {{ $slug := $e | urlize }}
                 {{ $title := index $.Site.Data.categories $slug }}
-                {{ $link := printf "%scategories/%s/" $baseurl $slug }}
+                {{ $link := printf "/categories/%s/" $slug }}
                 {{ if lt (add $i 1) $length }}
-                  <a href="{{ $link }}" rel="category tag">{{ $title }}</a>,
+                  <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>,
                 {{ else }}
-                  <a href="{{ $link }}" rel="category tag">{{ $title }}</a>
+                  <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>
                 {{ end }}
               {{ end }}
             </li>
