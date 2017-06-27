@@ -40,7 +40,8 @@
         */}}
   			<div id="tribe-events-content" class="tribe-events-single">
   				<p class="tribe-events-back">
-  					<a href="{{ $.Site.BaseURL }}events/"> &laquo; All Events ({{ $.Site.BaseURL }})</a>
+            {{ $thisurl := replaceRE "/+" "/" (printf "%s/%s" $.Site.BaseURL .URL) }}
+  					<a href="/events/"> &laquo; All Events</a>
   				</p>
 
   				<!-- Notices -->
@@ -149,7 +150,7 @@
                       {{ range $i, $e := $_cats }}
                         {{ $slug := $e | urlize }}
                         {{ $title := index $.Site.Data.categories $slug }}
-                        {{ $link := printf "%scategories/%s/" $.Site.BaseURL $slug }}
+                        {{ $link := printf "/categories/%s/" $slug }}
                         {{ if lt (add $i 1) $length }}
                           <a href="{{ $link }}" rel="tag">{{ $title }}</a>,
                         {{ else }}
@@ -169,7 +170,7 @@
                       {{ range $i, $e := $_taxonomy }}
                         {{ $slug := $e | urlize }}
                         {{ $title := index $.Site.Data.tag $slug }}
-                        {{ $link := printf "%stag/%s/" $.Site.BaseURL $slug }}
+                        {{ $link := printf "/tag/%s/" $slug }}
                         {{ if lt (add $i 1) $length }}
                           <a href="{{ $link }}" rel="tag">{{ $title }}</a>,
                         {{ else }}
