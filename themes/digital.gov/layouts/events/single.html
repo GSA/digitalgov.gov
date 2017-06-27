@@ -40,7 +40,7 @@
         */}}
   			<div id="tribe-events-content" class="tribe-events-single">
   				<p class="tribe-events-back">
-  					<a href="{{ replaceRE "([a-z0-9])/+" "$1/" (printf "%s/events" $.Site.BaseURL) }}"> &laquo; All Events</a>
+  					<a href="{{ replaceRE "([a-z0-9])/+" "$1/" (printf "%s/events" $.Site.BaseURL) }}"> &laquo; All Events ({{ $.Site.BaseURL }})</a>
   				</p>
 
   				<!-- Notices -->
