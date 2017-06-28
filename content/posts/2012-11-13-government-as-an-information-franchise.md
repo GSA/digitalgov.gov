@@ -1,5 +1,4 @@
 ---
-url: /2012/11/13/government-as-an-information-franchise/
 date: 2012-11-13 9:28:00 -0400
 title: Government as an Information Franchise
 summary: 'The Digital Government Strategy represents best practices in today&rsquo;s web services landscape. The DGS outlines a path to making government web services faster, more cost-efficient and higher-performing. It also frames out the digital government that everybody wants by making government information more flexible, actionable and easier to use. America Has Been There and Done That. Really?! Many consider'
@@ -7,13 +6,13 @@ authors:
   - logan-powell
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Census
   - United States Census Bureau
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-172-Drawing-Business-Concept-Peshkova-iStock-ThinkStock-180520474.jpg" alt="A drawing of business concepts on a wall, lit by 4 overhead lights" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-172-Drawing-Business-Concept-Peshkova-iStock-ThinkStock-180520474.jpg" alt="A drawing of business concepts on a wall, lit by 4 overhead lights" caption="" >}} 
 
 The [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#top) represents best practices in today’s web services landscape. The DGS outlines a path to making government web services faster, more cost-efficient and higher-performing. It also frames out the digital government that <a href="http://chimera.labs.oreilly.com/books/1234000000774/index.html" target="_blank">everybody wants</a> by making government information more flexible, actionable and easier to use.
 

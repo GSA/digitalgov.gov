@@ -1,5 +1,4 @@
 ---
-url: /2015/04/08/monthly-theme-how-federal-contact-centers-deliver-great-customer-service/
 date: 2015-04-08 9:35:49 -0400
 title: 'Monthly Theme: How Federal Contact Centers Deliver Great Customer Service'
 summary: 'At the end of last year, DigitalGov posted an article predicting that 2016 would be the year of the customer. Stephanie Thum, Vice President of Customer Experience at Export-Import Bank, looked at the great strides made in federal customer service in 2014 and called it the year of &ldquo;planting seeds.&rdquo; She then pointed to 2015'
@@ -16,7 +15,7 @@ tag:
   - government contact centers
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-230-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-chat-and-group-icons-from-NiroDesign-175617593.jpg" alt="Contact icons: envelope, handset, cell phone, at symbol, chat bubbles, group of figures" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-230-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-chat-and-group-icons-from-NiroDesign-175617593.jpg" alt="Contact icons: envelope, handset, cell phone, at symbol, chat bubbles, group of figures" caption="" >}} 
 
 At the end of last year, DigitalGov posted an article [predicting that 2016 would be the year of the customer](https://www.WHATEVER/2014/12/01/will-2016-be-the-federal-governments-year-of-the-customer/). Stephanie Thum, Vice President of Customer Experience at Export-Import Bank, looked at the great strides made in federal customer service in 2014 and called it the year of “planting seeds.” She then pointed to 2015 as the year of “germination and nurturing.”
 

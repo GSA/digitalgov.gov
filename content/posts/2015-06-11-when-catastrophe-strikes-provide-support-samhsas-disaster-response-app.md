@@ -1,8 +1,7 @@
 ---
-url: /2015/06/11/when-catastrophe-strikes-provide-support-samhsas-disaster-response-app/
 date: 2015-06-11 10:00:53 -0400
 title: 'When Catastrophe Strikes, Provide Support: SAMHSA’s Disaster Response App'
-summary: ' Disasters can strike at anytime, and responders now have another tool in their repertoire to aid survivors. The Substance Abuse and Mental Health Services Administration (SAMHSA) has developed the Behavioral Health Disaster Response Mobile App to assist mental health responders with pre-deployment and on-the ground information and resources. SAMHSA has placed'
+summary: ' Disasters can strike at anytime, and responders now have another tool in their repertoire to aid survivors. The Substance Abuse and Mental Health Services Administration (SAMHSA) has developed the Behavioral Health Disaster Response Mobile App to assist mental health responders with pre-deployment and on-the ground information and resources. SAMHSA has'
 categories:
   - Mobile
 tag:
@@ -15,13 +14,13 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps.jpg" alt="600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps.jpg" alt="600-x-325-SAMHSA-Behavioral-Health-Disaster-Response-Mobile-App-YouTube-screen-capture-FEMA-Corps" >}}
 
 Disasters can strike at anytime, and responders now have another tool in their repertoire to aid survivors. The [Substance Abuse and Mental Health Services Administration](http://www.samhsa.gov/) (SAMHSA) has developed the [Behavioral Health Disaster Response Mobile App](http://www.store.samhsa.gov/apps/disaster/) to assist mental health responders with pre-deployment and on-the ground information and resources.
 
 SAMHSA has placed their key resource materials in this handy to use app so that responders do not need to keep track of multiple pamphlets and fact sheets. With this app you can:
 
-  * {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-503-SAMHSA-disaster-app-iphone.jpg" alt="250-x-503-SAMHSA-disaster-app-iphone" %}Be ready: access resources for any type of traumatic event, including tip sheets; guides for responders, teachers, parents, and caregivers; and a directory of behavioral health service providers in the impacted area.
+  * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-503-SAMHSA-disaster-app-iphone.jpg" alt="250-x-503-SAMHSA-disaster-app-iphone" >}}Be ready: access resources for any type of traumatic event, including tip sheets; guides for responders, teachers, parents, and caregivers; and a directory of behavioral health service providers in the impacted area.
   * Be prepared: rely on and access pre-downloaded resources on your phone in case of limited Internet connectivity in the field.
   * Be confident: review key preparedness materials so you&#8217;re confident that you&#8217;re providing the best support possible.
   * Share resources easily: send information to colleagues and survivors via text message, email, or transfer to a computer for printing.

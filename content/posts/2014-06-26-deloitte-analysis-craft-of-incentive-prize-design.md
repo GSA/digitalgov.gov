@@ -1,5 +1,4 @@
 ---
-url: /2014/06/26/deloitte-analysis-craft-of-incentive-prize-design/
 date: 2014-06-26 1:00:03 -0400
 title: 'Deloitte Analysis: Craft of Incentive Prize Design'
 summary: 'Federal challenge and prize competitions are in the news again. Our colleagues across government participated in research that resulted in a new report released June 19 from Deloitte University Press, The Craft of Prize Design: Lessons from the public sector.  In the last five years, incentive prizes have transformed from an exotic open innovation tool to'
@@ -13,7 +12,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-416-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-sidebar-stats-Outcome-benefits.jpg" alt="Sidebar stats, Outcome benefits, from the report titled, "The craft of incentive prize design - Lessons from the public sector"" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-416-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-sidebar-stats-Outcome-benefits.jpg" alt="Sidebar stats, Outcome benefits, from the report titled, The craft of incentive prize design - Lessons from the public sector" caption="" >}} 
 
 Federal challenge and prize competitions are in the news again.
 
@@ -45,4 +44,4 @@ The study shares practical lessons:
 
 You are encouraged to share this resource with colleagues and others interested in federal prize competition design. Stay tuned for a plan to have the community to gather later this summer and discuss what was learned.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-900-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-Figure-4-Major-outcomes-for-incentive-prize-design-DUP819.jpg" alt="Figure 4, Major outcomes for incentive prize design, from the report titled, "The craft of incentive prize design - Lessons from the public sector"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-900-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-Figure-4-Major-outcomes-for-incentive-prize-design-DUP819.jpg" alt="Figure 4, Major outcomes for incentive prize design, from the report titled, The craft of incentive prize design - Lessons from the public sector" >}}

@@ -1,8 +1,7 @@
 ---
-url: /2013/05/21/google-analytics-and-the-new-healthcare-gov/
 date: 2013-05-21 8:53:22 -0400
 title: Google Analytics and the New Healthcare.gov
-summary: 'The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly. In April we told you about Jekyll. The new Healthcare.gov will use this free'
+summary: 'The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly. In April we told you about Jekyll. The new Healthcare.gov will use this'
 authors:
   - lnelson
 categories:
@@ -12,7 +11,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/healthcare.gov-10-253x220-250x217.jpg" alt="Screenshot of Healthcare.gov homepage" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/healthcare.gov-10-253x220.jpg)The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/healthcare.gov-10-253x220-250x217.jpg" alt="Screenshot of Healthcare.gov homepage" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/healthcare.gov-10-253x220.jpg)The new Healthcare.gov will sort content according to user demand with a new plugin developed for the site. For a content-heavy site like healthcare.gov, this option will allow HHS to serve popular content to readers quickly.
 
 In April we told you about [Jekyll](http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html). The new Healthcare.gov will use this free open-source solution to create flat webpages without the long load times associated with a traditional content management system (CMS). Developers created a [new plugin](https://github.com/developmentseed/jekyll-ga) to work with the system to make it possible for the Department to quickly and dynamically provide the site’s most popular information to visitors . This plugin will allow HHS to take advantage of some of the best features a CMS offers without a heavy load on the site’s servers.
 

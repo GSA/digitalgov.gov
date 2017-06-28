@@ -1,5 +1,4 @@
 ---
-url: /2014/12/08/crowdsourcing-month-an-overview/
 date: 2014-12-08 12:01:38 -0400
 title: 'Crowdsourcing Month: An Overview'
 summary: 'This month we&#8217;ll be highlighting articles about crowdsourcing. These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills. Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or'
@@ -7,7 +6,7 @@ authors:
   - tmarcoullier
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme
 tag:
   - CFPB
@@ -44,7 +43,7 @@ tag:
   - USGS
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 
 
 This month we&#8217;ll be [highlighting articles about crowdsourcing](https://www.WHATEVER/category/monthly-theme/). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
 

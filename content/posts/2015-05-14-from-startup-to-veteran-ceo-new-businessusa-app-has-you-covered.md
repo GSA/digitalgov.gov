@@ -1,8 +1,7 @@
 ---
-url: /2015/05/14/from-startup-to-veteran-ceo-new-businessusa-app-has-you-covered/
 date: 2015-05-14 10:00:42 -0400
 title: 'From Startup to Veteran CEO: New BusinessUSA App Has You Covered'
-summary: BusinessUSA is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for Android and iOS devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or
+summary: BusinessUSA is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for Android and iOS devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet
 authors:
   - kdowney
 categories:
@@ -16,7 +15,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-429-BusinessUSA-menu-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. menu screen" %}BusinessUSA](http://business.usa.gov) is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for [Android](https://play.google.com/store/apps/details?id=com.BusinessUSA.BusinessUSA) and [iOS](https://itunes.apple.com/us/app/businessusa/id905514958?mt=8) devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or smartphone.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-429-BusinessUSA-menu-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. menu screen" >}}BusinessUSA](http://business.usa.gov) is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for [Android](https://play.google.com/store/apps/details?id=com.BusinessUSA.BusinessUSA) and [iOS](https://itunes.apple.com/us/app/businessusa/id905514958?mt=8) devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet or smartphone.
 
 The BusinessUSA smartphone app consolidates a wide-ranging amount of business information and resources from across the U.S. federal government. The tools in the app are created to help small businesses, as well as more established businesses, navigate regulatory hurdles and gain revenue in a global economy.
 
@@ -24,7 +23,7 @@ The app features content tailored to your business interests and needs, which me
 
 Easy-to-use &#8220;wizards” help you find the business and financial information most relevant to you, organized according to categories like Financing, Taxes and Credits, and Starting a Business.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-392-BusinessUSA-Resources-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. Resources screen" %}Use this app to access information on local business resource centers, and request meetings with center officials directly from your phone. You can also access information on local business shows and events, and add those events to your calendar. Be sure to opt-in for push notifications to stay informed on upcoming news and events.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-392-BusinessUSA-Resources-screen-Google-Play-for-Android.jpg" alt="Business U.S.A. Resources screen" >}}Use this app to access information on local business resource centers, and request meetings with center officials directly from your phone. You can also access information on local business shows and events, and add those events to your calendar. Be sure to opt-in for push notifications to stay informed on upcoming news and events.
 
 The app features:
 

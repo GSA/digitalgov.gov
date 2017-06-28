@@ -1,5 +1,4 @@
 ---
-url: /2016/11/03/applying-customer-service-metrics-to-improve-customer-experience-cx/
 date: 2016-11-03 10:00:10 -0400
 title: Applying Customer Service Metrics to Improve Customer Experience (CX)
 summary: 'Lately, I&rsquo;ve looked at how a government agency measures a customer&rsquo;s experience. It&rsquo;s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of customer service metrics: customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort'
@@ -7,7 +6,7 @@ authors:
   - craig-chavez
 categories:
   - Data
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - Customer Experience
@@ -16,7 +15,7 @@ tag:
   - metrics
 ---
 
-Lately, I’ve looked at how a government agency measures a customer’s experience. It’s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of </span>[<span style="font-weight: 400">customer service metrics</span>](https://www.WHATEVER/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/)<span style="font-weight: 400">: customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort Score (CES). This one is about identifying how easy it is to work with your organization and discover ways to improve service delivery.</p> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-380-Business-Target-Abstract-jauhari1-iStock-Thinkstock-498613131-Converted.jpg" alt="Business target abstract." %} 
+Lately, I’ve looked at how a government agency measures a customer’s experience. It’s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of </span>[<span style="font-weight: 400">customer service metrics</span>](https://www.WHATEVER/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/)<span style="font-weight: 400">: customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort Score (CES). This one is about identifying how easy it is to work with your organization and discover ways to improve service delivery.</p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-380-Business-Target-Abstract-jauhari1-iStock-Thinkstock-498613131-Converted.jpg" alt="Business target abstract." caption="" >}} 
 
 <p>
   Again, I spoke with Kelly J. Ohaver, Customer Experience Manager from the City of Centennial, Colorado to learn how to apply these measurements.
@@ -57,7 +56,7 @@ Lately, I’ve looked at how a government agency measures a customer’s experie
       </p>
       
       <p>
-        {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-241-Chavez_Building-Customer-Satisfaction-Rating.jpg" alt="Chart: Building Customer Satisfaction Rating." %}
+        {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-241-Chavez_Building-Customer-Satisfaction-Rating.jpg" alt="Chart: Building Customer Satisfaction Rating." >}}
       </p>
       
       <p>

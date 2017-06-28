@@ -1,5 +1,4 @@
 ---
-url: /2015/11/02/the-content-corner-the-joys-of-the-content-template/
 date: 2015-11-02 10:13:29 -0400
 title: 'The Content Corner: The Joys of the Content Template'
 summary: Many of us depend a great deal on subject matter experts (SMEs) to generate content that will eventually end up on our site. These are men and women that have critical knowledge to share with our audiences, and it is our job to make it match our various editorial and content guidelines. Using a simple
@@ -15,7 +14,7 @@ tag:
   - The Content Corner
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-400-featured-301-x-212-Website-wireframe-sketch-on-digital-tablet-screen-ronstick-iStock-Thinkstock-456037107.jpg" alt="Website wireframe sketch on digital tablet screen" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-400-featured-301-x-212-Website-wireframe-sketch-on-digital-tablet-screen-ronstick-iStock-Thinkstock-456037107.jpg" alt="Website wireframe sketch on digital tablet screen" caption="" >}} 
 
 Many of us depend a great deal on subject matter experts (SMEs) to generate content that will eventually end up on our site. These are men and women that have critical knowledge to share with our audiences, and it is our job to make it match our various editorial and content guidelines. Using a simple tool called content templates can be very helpful in making our jobs as communicators and the SMEs&#8217; job as straightforward as possible.
 
@@ -27,7 +26,7 @@ It&#8217;s very common for SMEs to not be aware of [content strategy nuances](ht
 
 Many of us are experts in various digital communication disciplines, but have only a minor grasp on many of the subjects we are called upon to share and promote to our users. Using content templates we can help guide an SME through the content creation process and leave ourselves with a much easier job before publishing.
 
-## Providing Clarity {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Woman-and-man-with-sketching-designs-Rostislav_Sedlacek-iStock-Thinkstock-482489794.jpg" alt="Various website page prototypes" %} 
+## Providing Clarity {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Woman-and-man-with-sketching-designs-Rostislav_Sedlacek-iStock-Thinkstock-482489794.jpg" alt="Various website page prototypes" caption="" >}} 
 
 Whether you need an article about alloys, space travel or state labor regulations, you need to start by knowing exactly what you need from your SME. Why are you asking this person to take time out of their normal responsibilities? How does this new piece of content fit with your overall strategies? This information will be helpful in preparing the template that the SME will be able to follow when developing the content you requested.
 
@@ -49,7 +48,7 @@ You may also want to consider including some guidance from a [strategic perspect
 
 ## Some of the Benefits
 
-As stated previously, one of the greatest benefits for using content templates is their ability to improve the final quality of the content. This improvement also comes with less final editing and revision on your end and less back and forth with your SME. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-304-Internet-Site-Map-Navigation-Structure-Prototype-Viktorus-iStock-Thinkstock-462356575.jpg" alt="Woman and man with website designs" %} 
+As stated previously, one of the greatest benefits for using content templates is their ability to improve the final quality of the content. This improvement also comes with less final editing and revision on your end and less back and forth with your SME. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-304-Internet-Site-Map-Navigation-Structure-Prototype-Viktorus-iStock-Thinkstock-462356575.jpg" alt="Woman and man with website designs" caption="" >}} 
 
 It also helps each person involved to remember to review all the critical aspects of the content and its role on the site. A content template touches on many aspects of your content strategy in a subtle way. As you create them you have to focus on why you are asking for this content which also means you have a better idea of what its purpose is. Your SME needs to consider their role and gets a better understanding of the coordination and collaboration required to not only properly share their content (which they will probably feel is the best) but all content. It even occasionally has the impact of reinforcing the importance of the organization’s Web presence to staff that may be fairly disconnected from it.
 

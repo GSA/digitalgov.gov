@@ -1,8 +1,7 @@
 ---
-url: /2014/07/16/hot-off-the-press-18fs-api-standards/
 date: 2014-07-16 1:00:03 -0400
 title: 'Hot off the Press: 18F’s API Standards'
-summary: 'We recently released the first version of our API Standards&mdash;a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future. These standards guide the'
+summary: 'We recently released the first version of our API Standards&mdash;a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future. These standards guide'
 authors:
   - alan-delevie
   - eric-mill
@@ -13,7 +12,7 @@ tag:
   - White House
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-264-18F-blue-light-bulb.jpg" alt="250-x-264-18F-blue-light-bulb" %}We recently released the first version of our [API Standards](https://github.com/18F/api-standards)—a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-264-18F-blue-light-bulb.jpg" alt="250-x-264-18F-blue-light-bulb" >}}We recently released the first version of our [API Standards](https://github.com/18F/api-standards)—a set of recommendations and guidelines for API production. It is our intention that every 18F API meet these standards, to help us ensure a baseline quality and consistency across all APIs we offer now and in the future.
 
 These standards guide the user-facing implementation details of an API. Wherever possible, the standards prescribe a goal instead of a specific technology. What was once universally recommended about APIs just a few years ago may be dated today. For example, while the best issue tracker may change every couple years, the need for an obvious point of contact to the API producer is more enduring.
 

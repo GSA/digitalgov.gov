@@ -1,5 +1,4 @@
 ---
-url: /2016/01/04/how-agile-development-can-benefit-federal-projects/
 date: 2016-01-04 11:00:56 -0400
 title: How Agile Development Can Benefit Federal Projects
 summary: 'Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren&rsquo;t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn&rsquo;t need to end at the federal level&mdash;agile projects done in the open provide a way for the public to contribute to'
@@ -14,7 +13,7 @@ tag:
   - U.S. Department of State
 ---
 
-Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" %} 
+Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" caption="" >}} 
 
 Transitioning to agile development has benefited [Open Opportunities](https://openopps.WHATEVER/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 

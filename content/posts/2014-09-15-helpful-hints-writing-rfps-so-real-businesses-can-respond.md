@@ -1,5 +1,4 @@
 ---
-url: /2014/09/15/helpful-hints-writing-rfps-so-real-businesses-can-respond/
 date: 2014-09-15 10:00:25 -0400
 title: 'Helpful Hints: Writing RFPs So Real Businesses Can Respond'
 summary: 'If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See GSA Schedule 541-4G. Background: Over the last two years, competition providers and consultants have become more'
@@ -15,7 +14,7 @@ tag:
   - NASA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" caption="" >}} 
 
 If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See [GSA Schedule 541-4G](http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES).
 

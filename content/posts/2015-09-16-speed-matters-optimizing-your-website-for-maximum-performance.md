@@ -1,5 +1,4 @@
 ---
-url: /2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/
 date: 2015-09-16 10:00:13 -0400
 title: 'Speed Matters: Optimizing Your Website For Maximum Performance'
 summary: 'Every second counts, even those precious two or three seconds it takes your website to load. When it comes to mobile, users won&rsquo;t wait. During a recent DigitalGov University webinar, Jeremy Vanderlan, Technical Deputy for AIDS.gov, explained how even fractions of a second can have a negative impact on a user&rsquo;s impression of your website.'
@@ -19,7 +18,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
 
 Every second counts, even those precious two or three seconds it takes your website to load. When it [comes to mobile](https://www.WHATEVER/2014/11/18/trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times/), users won’t wait.
 

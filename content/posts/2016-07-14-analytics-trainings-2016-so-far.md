@@ -1,5 +1,4 @@
 ---
-url: /2016/07/14/analytics-trainings-2016-so-far/
 date: 2016-07-14 10:00:44 -0400
 title: 'Analytics Trainings: 2016 So Far'
 summary: 'In 2016, the Digital Analytics Program (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we&rsquo;re happy to provide the material. We&rsquo;ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from'
@@ -19,7 +18,7 @@ tag:
   - webinar
 ---
 
-In 2016, the [Digital Analytics Program](http://WHATEVER/services/dap) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-414-Website-SEO-and-analytics-icons-Anatoliy-Babiy-iStock-Thinkstock-185517378.jpg" alt="Website SEO and analytics graphics" %} 
+In 2016, the [Digital Analytics Program](http://WHATEVER/services/dap) (DAP) team has ramped up our training schedule. We appreciate all the DAP users that have attended our trainings and we’re happy to provide the material. We’ve had many users ask about video of our sessions, so we wanted to provide you with some of our recorded trainings from 2016 so far. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-414-Website-SEO-and-analytics-icons-Anatoliy-Babiy-iStock-Thinkstock-185517378.jpg" alt="Website SEO and analytics graphics" caption="" >}} 
 
 Bookmark this page, but don’t forget about it! Here are some things we’ve covered in 2016:
 

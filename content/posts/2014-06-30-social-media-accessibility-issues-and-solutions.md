@@ -1,5 +1,4 @@
 ---
-url: /2014/06/30/social-media-accessibility-issues-and-solutions/
 date: 2014-06-30 10:00:10 -0400
 title: 'Social Media: Accessibility Issues and Solutions'
 summary: 'The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities&mdash;since they have the least access to it. Like many websites, social media platforms'
@@ -21,7 +20,7 @@ tag:
   - social media
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-215-The-Art-of-Social-Media-by-mkhmarketing-flickr-CC-BY-2-0.jpg" alt="Social media icons on the ends of brightly colored chalk" caption="" >}} 
 
 The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information—people with disabilities—since they have the least access to it. Like many websites, social media platforms present some of the greatest barriers in digital accessibility.
 

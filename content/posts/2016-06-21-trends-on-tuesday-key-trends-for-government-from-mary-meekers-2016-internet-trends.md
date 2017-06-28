@@ -1,5 +1,4 @@
 ---
-url: /2016/06/21/trends-on-tuesday-key-trends-for-government-from-mary-meekers-2016-internet-trends/
 date: 2016-06-21 12:00:54 -0400
 title: 'Trends on Tuesday: Key Trends for Government from Mary Meeker’s 2016 Internet Trends'
 summary: 'Internet strategist Mary Meeker delivered her 2016 Internet Trends report this month, and there are several key takeaways for government agencies to consider and continue tracking as our connected world continues to evolve: Mobile phone adoption and Internet growth is meeting saturation. Incremental global growth will continue (especially in India, which she called out for'
@@ -25,7 +24,7 @@ Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](htt
 </li>
 <li style="margin-bottom: 15px">
   <strong>Millennials are driving a lot of the change and mobile-only experiences.</strong> They account for 27% of the population and represent a tidal wave of the first generation of “digital natives” who don’t know of a world without the Internet. Their views and interaction with technology as they rise up in the workforce will shape the future of the Internet. <i><i>(Slides 52-59)<br /> </i></i></p> <p>
-    {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" %}</li> 
+    {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}}</li> 
     
     <li style="margin-bottom: 15px">
       <strong>Connected cars are going to continue to grow.</strong> Meeker pointed out that the U.S. is one of the leading markets in adoption and innovation in this space, and she said the effort and investment being put forth from car makers and ride-sharing giants like Uber and Lyft are going to continue to drive growth. (Pun, intended.) <i>(Slides 137 &#8211; 150)</i>
@@ -44,4 +43,4 @@ Internet strategist Mary Meeker delivered her  [2016 Internet Trends report](htt
     </li></ol> 
     
     <p>
-      <a href="http://www.slideshare.net/kleinerperkins/2016-internet-trends-report">Read the full report</span></a><span style="font-weight: 400"> and share it with your staff to plan how your agency will prepare for the future.</p> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" %}
+      <a href="http://www.slideshare.net/kleinerperkins/2016-internet-trends-report">Read the full report</span></a><span style="font-weight: 400"> and share it with your staff to plan how your agency will prepare for the future.</p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}}

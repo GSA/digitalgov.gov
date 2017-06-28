@@ -1,8 +1,7 @@
 ---
-url: /2014/11/28/keeping-vanity-urls-in-check-a-few-criteria/
 date: 2014-11-28 10:00:53 -0400
 title: 'Keeping Vanity URLs in Check: A Few Criteria'
-summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers listserv, several'
+summary: ' Shortcuts, Vanity or Marketing URLs, are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links. On a recent discussion thread on the Web Managers'
 authors:
   - andreanocesigritz
 categories:
@@ -16,9 +15,9 @@ tag:
   - Web Content Managers Forum
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-URL.jpg" alt="600-x-57-DG-Google-Plus-URL" >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-Vanity-URL.jpg" alt="600-x-57-DG-Google-Plus-Vanity-URL" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-57-DG-Google-Plus-Vanity-URL.jpg" alt="600-x-57-DG-Google-Plus-Vanity-URL" >}}
 
 Shortcuts, Vanity or Marketing [URLs](http://en.wikipedia.org/wiki/Uniform_resource_locator), are all names for the requests Web managers get to shorten Web addresses. The shortened links make it easy to share long links as well as track clicks on those links.
 
@@ -26,7 +25,7 @@ On a recent discussion thread on the [Web Managers listserv](https://www.WHATEVE
 
 ## NIAID Criteria
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615.jpg" alt="250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615" %}At the National Institute of Allergy and Infectious Diseases (NIAID), the New Media and Web Policy Branch developed the following guidance for Internet and Intranet URLs:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615.jpg" alt="250-x-167-Question-mark-Feng-Yu-Hemera-Thinkstock-100550615" >}}At the National Institute of Allergy and Infectious Diseases (NIAID), the New Media and Web Policy Branch developed the following guidance for Internet and Intranet URLs:
 
 ### Internet
 

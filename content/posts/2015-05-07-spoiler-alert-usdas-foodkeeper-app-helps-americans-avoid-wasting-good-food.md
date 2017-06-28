@@ -1,8 +1,7 @@
 ---
-url: /2015/05/07/spoiler-alert-usdas-foodkeeper-app-helps-americans-avoid-wasting-good-food/
 date: 2015-05-07 10:00:13 -0400
 title: 'Spoiler Alert: USDA’s FoodKeeper App Helps Americans Avoid Wasting Good Food'
-summary: 'Spoiler Alert: Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per person'
+summary: 'Spoiler Alert: Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The U.S. Department of Agriculture estimates that retailers and consumers waste 36 pounds of food per'
 authors:
   - kdowney
 categories:
@@ -16,7 +15,7 @@ tag:
   - USDA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-USDA-Food-Safety-and-Inspection-Service-FoodKeeper-iOS-app-cooking-info.jpg" alt="USDA Food Safety and Inspection Service FoodKeeper iOS app cooking info" %}**Spoiler Alert:** Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The [U.S. Department of Agriculture](http://www.usda.gov/wps/portal/usda/usdahome) estimates that retailers and consumers waste 36 pounds of food per person each month.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-USDA-Food-Safety-and-Inspection-Service-FoodKeeper-iOS-app-cooking-info.jpg" alt="USDA Food Safety and Inspection Service FoodKeeper iOS app cooking info" >}}**Spoiler Alert:** Every year, billions of pounds of good food go to waste in the U.S. because Americans are not sure if the food is spoiled. The [U.S. Department of Agriculture](http://www.usda.gov/wps/portal/usda/usdahome) estimates that retailers and consumers waste 36 pounds of food per person each month.
 
 The [USDA’s FoodKeeper app](http://www.usda.gov/wps/portal/usda/usdamobile?contentid=2015/04/0086.xml&contentidonly=true) helps Americans avoid this problem by offering users valuable storage advice about more than 400 food and beverage items, including various types of baby food, dairy products and eggs, meat, poultry, produce, seafood, and more. The app can also send notifications to remind users to consume items before they are likely to spoil.
 

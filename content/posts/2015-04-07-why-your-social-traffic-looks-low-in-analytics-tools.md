@@ -1,8 +1,7 @@
 ---
-url: /2015/04/07/why-your-social-traffic-looks-low-in-analytics-tools/
 date: 2015-04-07 1:00:23 -0400
 title: Why Your Social Traffic Looks Low in Analytics Tools
-summary: Part of my job as an analyst on the Digital Analytics Program (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love
+summary: Part of my job as an analyst on the Digital Analytics Program (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I
 authors:
   - tlowden
 categories:
@@ -16,7 +15,7 @@ tag:
   - social media metrics
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" alt="A pie chart and its color key show a very small "slice" or percentage of social referrals in yellow." %}Part of my job as an analyst on the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" alt="A pie chart and its color key show a very small slice or percentage of social referrals in yellow." >}}Part of my job as an analyst on the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:
 
 **“Why does my traffic referred from social media look so incredibly low?”**
 
@@ -34,7 +33,7 @@ When you use a url shortener in a tweet, for example, the path goes as follows: 
 
 It means that you might have 4,000 people click a bit.ly or ow.ly link in your social post and not get any credit for it in web analytics tools. Instead, it _looks_ like those people came to the page directly, either by typing it into the url bar or through a bookmark. So, when looking at sources of traffic, “direct” is often misleadingly high, while “social” is head-scratchingly low (especially if your agency relies on Twitter, where url shorteners are most commonly used). For the record, [other things can drive up “direct” traffic](https://www.WHATEVER/2012/10/19/feds-shed-light-on-dark-social/), too.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/420-x-217-Screen-Shot-2015-04-06-at-2.44.jpg" alt="This list shows how social ranks low in numbers on one of the profiles in DAP. In first place is organic search referrals with 4,653,238 referrals. In second place is website referrals, with 4,414,231 referrals. In third place is direct traffic with 3,533,846 referrals. In fourth place is social referrals, with 109,801 referrals." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/420-x-217-Screen-Shot-2015-04-06-at-2.44.jpg" alt="This list shows how social ranks low in numbers on one of the profiles in DAP. In first place is organic search referrals with 4,653,238 referrals. In second place is website referrals, with 4,414,231 referrals. In third place is direct traffic with 3,533,846 referrals. In fourth place is social referrals, with 109,801 referrals." >}}
 
 In the figures above, social media appears as only a small portion of referrals, behind organic searches, website referrals, and direct traffic. The low number of social referrals is even more evident in the pie chart representation.
 

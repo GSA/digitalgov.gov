@@ -1,5 +1,4 @@
 ---
-url: /2014/04/25/storyboarding-is-key-to-successful-storytelling/
 date: 2014-04-25 10:00:53 -0400
 title: Storyboarding is Key to Successful Storytelling
 summary: Communication professionals pride themselves on coming up with big ideas and big messages. But moving a great idea from conceptualization to execution can be challenging, especially when you want to keep your budget in check. Storyboards can greatly assist in this process, a strategy I found to be critical to the success of a new
@@ -21,7 +20,7 @@ I determined that the best way to accomplish this was to create a simple storybo
 
 The following “**Do’s and Don’ts**” are lessons learned during my experience with creating storyboards for our animated video, but these tips also translate to live action. The image shown is from an early version of the storyboard and as you can see, is quite different than the final product.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-676-geek-bullying-storyboard.jpg" alt="image of HHS video storyboard" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-676-geek-bullying-storyboard.jpg" alt="image of HHS video storyboard" >}}
 
 ## **Do’s and Don&#8217;ts of Successful Storyboarding**
 

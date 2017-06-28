@@ -1,5 +1,4 @@
 ---
-url: /2016/10/17/analytics-success-series-usa-gov/
 date: 2016-10-17 11:00:04 -0400
 title: 'Analytics Success Series: USA.gov'
 summary: 'USA.gov&rsquo;s Analytics Success: using analytics data to inform design and responsivity to create a better experience for the user Last year, the USA.gov team found themselves facing a challenge. We were in need of a new content management system for our websites, USA.gov and Gobierno.USA.gov, which help people find and understand the most frequently requested'
@@ -40,11 +39,11 @@ Web analytics data also helped us understand that mobile users were becoming an 
 
 **Previous Design:**
   
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/USAgovOld.jpg" alt="The old version of the USA.gov webpage on International Travel" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/USAgovOld.jpg" alt="The old version of the USA.gov webpage on International Travel" >}}
 
 **New Design:**
   
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/USAgovnew.jpg" alt="The new version of the USA.gov webpage on getting or renewing a U.S. passport" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/USAgovnew.jpg" alt="The new version of the USA.gov webpage on getting or renewing a U.S. passport" >}}
 
 Overall, the Digital Analytics Program/Google Analytics usage data helped us pare down a sprawling site with busy content pages in a more efficient site that catered to its true primary users: people jumping in from Google to get an overview of a topic and know where to go next, and perhaps check out very closely related information as well. It’s also been hugely influential on our home page designs, as we strive to create a home page that enables the types of uses for our site that are most prevalent. But that’s a blog post for another day!
 

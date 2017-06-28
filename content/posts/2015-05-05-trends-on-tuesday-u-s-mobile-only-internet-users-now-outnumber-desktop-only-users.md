@@ -1,8 +1,7 @@
 ---
-url: /2015/05/05/trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users/
 date: 2015-05-05 11:00:36 -0400
 title: 'Trends on Tuesday: U.S. Mobile-Only Internet Users Now Outnumber Desktop-Only Users'
-summary: ' Just a week after the &lsquo;Mobilegeddon&rsquo; shift in Google search engine rankings to favor mobile-friendly sites, comScore released a research report citing that the U.S. had reached a new inflection point&mdash;there are now more mobile-only Internet users than desktop-only. What&rsquo;s even more'
+summary: ' Just a week after the &lsquo;Mobilegeddon&rsquo; shift in Google search engine rankings to favor mobile-friendly sites, comScore released a research report citing that the U.S. had reached a new inflection point&mdash;there are now more mobile-only Internet users than desktop-only. What&rsquo;s even'
 authors:
   - wsullivan
 categories:
@@ -16,7 +15,7 @@ tag:
   - U.S. National Park Service
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" >}}
 
 Just a week after the [‘Mobilegeddon’ shift in Google search engine rankings to favor mobile-friendly sites](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/), comScore released a research report citing that the U.S. had reached a new inflection point—[there are now more mobile-only Internet users than desktop-only](http://www.comscore.com/Insights/Blog/Number-of-Mobile-Only-Internet-Users-Now-Exceeds-Desktop-Only-in-the-U.S).
 

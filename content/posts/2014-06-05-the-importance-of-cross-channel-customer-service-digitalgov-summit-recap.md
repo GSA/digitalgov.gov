@@ -1,5 +1,4 @@
 ---
-url: /2014/06/05/the-importance-of-cross-channel-customer-service-digitalgov-summit-recap/
 date: 2014-06-05 12:13:55 -0400
 title: The Importance of Cross-Channel Customer Service—DigitalGov Summit Recap
 summary: During the DigitalGov Citizen Services Summit last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on performance analysis, public private partnerships, and inter-agency work. The panelists spoke about the strategies
@@ -25,7 +24,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 
 
 During the [DigitalGov Citizen Services Summit](https://www.WHATEVER/2014/05/30/digitalgov-citizen-services-summit-a-success/) last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on [performance analysis](https://www.WHATEVER/2014/06/03/digitalgov-summit-panels-recap/ "Turning Data Into Action—DigitalGov Summit Recap"), [public private partnerships](https://www.WHATEVER/2014/06/05/overcoming-barriers-digitalgov-summit-recap/ "Overcoming Barriers—DigitalGov Summit Recap"), and [inter-agency work](https://www.WHATEVER/2014/06/03/harnessing-the-power-of-many-digitalgov-summit-panels-recap/ "Harnessing the Power of Many—DigitalGov Summit Recap").
 

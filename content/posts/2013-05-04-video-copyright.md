@@ -1,8 +1,7 @@
 ---
-url: /2013/05/04/video-copyright/
 date: 2013-05-04 12:14:45 -0400
 title: 'Video copyright: How to avoid getting sued'
-summary: ' Don&#8217;t include Internet music, video, or graphics in your video unless you understand the copyright. Yes, this is a pain, but companies take copyright very seriously and regularly file both takedown notices and lawsuits against offenders. Numerous laws like the Digital Media Copyright Act (DMCA) discuss in great detail the &#8220;ins'
+summary: ' Don&#8217;t include Internet music, video, or graphics in your video unless you understand the copyright. Yes, this is a pain, but companies take copyright very seriously and regularly file both takedown notices and lawsuits against offenders. Numerous laws like the Digital Media Copyright Act (DMCA) discuss in great detail the'
 authors:
   - jonathan-rubin
 categories:
@@ -10,7 +9,7 @@ categories:
   - Video
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic.jpg)
 
 <div id="content-area">
   <div id="node-5562">

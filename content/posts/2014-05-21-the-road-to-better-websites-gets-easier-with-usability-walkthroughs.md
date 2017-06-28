@@ -1,12 +1,11 @@
 ---
-url: /2014/05/21/the-road-to-better-websites-gets-easier-with-usability-walkthroughs/
 date: 2014-05-21 10:00:45 -0400
 title: The Road to Better Websites Gets Easier with Usability Walkthroughs
 summary: The road to more user-friendly government websites does not have to be long and scary. In fact, there is a growing network of people and resources to guide you along the way. My office in the National Oceanic and Atmospheric Administration (NOAA) has been fortunate enough to benefit from some of this support, most recently
 authors:
   - ashley-braun
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -34,7 +33,7 @@ During the hour of live feedback, one expert who had never before seen our websi
 
 Based on these suggestions, our Web team reviewed some of our most visited pages. In some cases, we realized we were missing obvious calls to action, such as links to download our software, on the software product’s main page. In another example, one of the most downloaded files on our website is an educational game called the “Water Cycle Game.” Most of the traffic to this page comes from search, but the game’s files were pushed low on the page beneath big paragraphs of text giving background information. To address this, we shortened the first paragraph, moved up the call to download the game, and added sub-headings and bullets to make the text easier to scan (see red boxes below).
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-553-Usability-Walkthroughs-2014-4-11-water-cycle-game-page-after-screenshot-with-notes.jpg" alt="Water cycle game page after screenshot with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-4-11-water-cycle-game-page-after-screenshot_with-notes-1.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-553-Usability-Walkthroughs-2014-4-11-water-cycle-game-page-after-screenshot-with-notes.jpg" alt="Water cycle game page after screenshot with annotations" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-4-11-water-cycle-game-page-after-screenshot_with-notes-1.jpg)
 
  
 
@@ -44,7 +43,7 @@ Another key area the team targeted for us to improve was a page pointing to our 
 
  
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-512-Usability-Walkthroughs-Before-ANNOTATED.jpg" alt="Before screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/BeforeANNOTATED.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-512-Usability-Walkthroughs-Before-ANNOTATED.jpg" alt="Before screenshot, with annotations" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/BeforeANNOTATED.jpg)
 
  
 
@@ -52,7 +51,7 @@ We came up with six potential layouts to address these issues. Putting these opt
 
  
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-547-Usability-Walkthroughs-After-ANNOTATED.jpg" alt="After screenshot, with annotations" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/AfterANNOTATED.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-547-Usability-Walkthroughs-After-ANNOTATED.jpg" alt="After screenshot, with annotations" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/AfterANNOTATED.jpg)
 
 While we&#8217;ve tackled a lot already, our team still has more work ahead. Currently, we are adapting our website to a responsive design, which will make our site easier to view on mobile devices. During this process, we are incorporating additional feedback from the usability walkthrough, particularly the suggestions directed at our homepage. And thanks to a little help from our friends in user experience, our journey to a more user-friendly website has started looking more like a walk in the park.
 

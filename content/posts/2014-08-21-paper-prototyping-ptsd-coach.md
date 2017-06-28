@@ -1,8 +1,7 @@
 ---
-url: /2014/08/21/paper-prototyping-ptsd-coach/
 date: 2014-08-21 10:00:05 -0400
 title: Paper Prototyping PTSD Coach
-summary: The PTSD Coach mobile app from the Department of Veterans Affairs, provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74 countries
+summary: The PTSD Coach mobile app from the Department of Veterans Affairs, provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74
 authors:
   - katie-steffy
 categories:
@@ -18,7 +17,7 @@ tag:
   - VA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" %}The [PTSD Coach mobile app](http://www.ptsd.va.gov/public/materials/apps/PTSDCoach.asp) from the [Department of Veterans Affairs](http://www.va.gov/), provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74 countries around the world, [received numerous accolades](http://www.myvaapps.com/ptsd/) and has spawned versions in both Australia and Canada. Designed for users that are both in treatment and not, this application is a poster-child for the benefits of user testing and paper prototyping.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}The [PTSD Coach mobile app](http://www.ptsd.va.gov/public/materials/apps/PTSDCoach.asp) from the [Department of Veterans Affairs](http://www.va.gov/), provides veterans and users with information about PTSD and professional care, along with self-assessment tools and aid in finding support opportunities. The app has been downloaded over 100,000 times in 74 countries around the world, [received numerous accolades](http://www.myvaapps.com/ptsd/) and has spawned versions in both Australia and Canada. Designed for users that are both in treatment and not, this application is a poster-child for the benefits of user testing and paper prototyping.
 
 Participants at the Mobile Prototyping Design Workshop in June had a chance to put paper, pens and scissors to use as they worked to replicate the success of PTSD Coach by taking the app&#8217;s initial requirements and practicing their paper prototyping skills. [Paper prototyping](https://www.WHATEVER/2014/08/08/design-sketching-the-easiest-prototype-method-ever/) is a low-tech, yet highly effective way of brainstorming in early mobile application development stages.
 

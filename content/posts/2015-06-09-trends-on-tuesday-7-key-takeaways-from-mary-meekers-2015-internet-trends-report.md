@@ -1,8 +1,7 @@
 ---
-url: /2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report/
 date: 2015-06-09 10:00:25 -0400
 title: 'Trends on Tuesday: 7 Key Takeaways From Mary Meeker&#8217;s 2015 Internet Trends Report'
-summary: ' Silicon Valley analyst Mary Meeker&rsquo;s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world&rsquo;s digital evolution (often mobile first driven) and how it is affecting business, culture and'
+summary: ' Silicon Valley analyst Mary Meeker&rsquo;s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world&rsquo;s digital evolution (often mobile first driven) and how it is affecting business, culture'
 authors:
   - wsullivan
 categories:
@@ -16,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from "Internet Trends 2015 - Code conference" by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Government-Just-Beginning.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Government-Just-Beginning.jpg)
 
 Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first](https://www.WHATEVER/2013/09/30/mobile-first/) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports](https://www.WHATEVER/2014/06/03/trends-on-tuesday-mary-meekers-2014-internet-trends/) have tracked emerging tech from mobile to 3D printing, and this year is no different.
 

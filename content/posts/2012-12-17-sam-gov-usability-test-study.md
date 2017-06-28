@@ -1,12 +1,11 @@
 ---
-url: /2012/12/17/sam-gov-usability-test-study/
 date: 2012-12-17 12:04:42 -0400
 title: 'SAM.gov &#8211; Usability Case Study'
 summary: One of the most vital parts of any website is its starting point. When a visitor arrives on the main page of your site, they should be able to quickly tell what the main tasks are and how to perform them. Visual cues and plain language are the best ways to accomplish this. The SAM.gov
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -28,7 +27,7 @@ The navigation on the homepage provided very little information.
 
 The buttons on the navigation bar were clarified.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-before.jpg" alt="Screenshot of the SAM.gov site before user testing." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-before.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-before.jpg" alt="Screenshot of the SAM.gov site before user testing." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-before.jpg)
 
 ## Problem 2: Account Creation and Registration Confusing
 
@@ -50,4 +49,4 @@ In just a few short weeks, the SAM.gov Web team was able to make a few seemingly
 
 None of these changes are dramatic, but it took an outside perspective to see that they were needed. By taking a day to observe how real visitors encounter their site, the SAM.gov team was able to identify changes both simple and complex that needed to be made. And by taking on the simple changes quickly, they were able to make a drastic difference in the usability of their site.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-after.jpg" alt="Screenshot of the SAM.gov site after user testing." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-after.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-after.jpg" alt="Screenshot of the SAM.gov site after user testing." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/sam.gov-after.jpg)

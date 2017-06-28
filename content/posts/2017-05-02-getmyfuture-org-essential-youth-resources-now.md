@@ -1,5 +1,4 @@
 ---
-url: /2017/05/02/getmyfuture-org-essential-youth-resources-now/
 date: 2017-05-02 2:00:39 -0400
 title: 'GetMyFuture.org: Essential Youth Resources, Now'
 summary: 'They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It&rsquo;s a logical sentiment, but there&rsquo;s an obverse to it. When you&rsquo;re young, all those doors are open. Doors as far as you can see. It&rsquo;s all about learning how to make informed decisions about what doors to wander through.'
@@ -28,7 +27,7 @@ tag:
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._
 
-They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It’s a logical sentiment, but there’s an [obverse](https://www.merriam-webster.com/dictionary/obverse) to it. When you’re young, all those doors are open. Doors as far as you can see. It’s all about learning how to make informed decisions about what doors to wander through. {% img="https://www.WHATEVER/files/2017/05/600-x-400-Taking-decisions-for-the-future-BrianAJackson-iStock-Thinkstock-638787162.jpg" alt="A person’s feet are shown, surrounded by many arrows on the ground pointing in different directions." %} 
+They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It’s a logical sentiment, but there’s an [obverse](https://www.merriam-webster.com/dictionary/obverse) to it. When you’re young, all those doors are open. Doors as far as you can see. It’s all about learning how to make informed decisions about what doors to wander through. {{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-400-Taking-decisions-for-the-future-BrianAJackson-iStock-Thinkstock-638787162.jpg" alt="A person’s feet are shown, surrounded by many arrows on the ground pointing in different directions." caption="" >}} 
 
 That’s why we’ve created and launched [GetMyFuture.org](https://www.careeronestop.org/GetMyFuture/default.aspx), a mobile-friendly web portal connecting young adults to career, education and job search resources. Think of it as your doorway to the hall of doors that stretch out before you as you begin your career.
 

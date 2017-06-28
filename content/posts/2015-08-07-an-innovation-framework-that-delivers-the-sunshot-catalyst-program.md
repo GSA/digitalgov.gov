@@ -1,5 +1,4 @@
 ---
-url: /2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/
 date: 2015-08-07 10:00:00 -0400
 title: 'An Innovation Framework That Delivers: The SunShot Catalyst Program'
 summary: 'Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people. The Department of Energy&rsquo;s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans. As part of the initiative, the SunShot Catalyst open innovation program seeks to rapidly deliver solar solutions'
@@ -37,7 +36,7 @@ To deliver innovations quickly and cost-effectively, Catalyst uses a four phase 
 
 The Catalyst model has proven effective in time, cost, and magnitude. In comparison to Small Business Innovation Research (SBIR) grants, Catalyst moves twice as fast as SBIR phase 1, and for 1/10th the cost of SBIR phase 2 awards, according to Contreras. For the Solar Apps challenge, 17 products were prototyped in 90 days.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-388-SUNSHOT-InfoGraphic_v2.jpg" alt="D.O.E. SunShot program graphics" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-388-SUNSHOT-InfoGraphic_v2.jpg" alt="D.O.E. SunShot program graphics" >}}
 
 Currently, Catalyst is in its [second challenge cycle](http://catalyst.energy.gov/a/pages/schedule). To date, more than 200 problems have been crowdsourced, and video pitches will be accepted until August 14th.
 

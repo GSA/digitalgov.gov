@@ -1,12 +1,11 @@
 ---
-url: /2015/09/30/how-ostp-crowdsourced-a-crowdsourcing-toolkit/
 date: 2015-09-30 10:18:38 -0400
 title: How OSTP Crowdsourced A Crowdsourcing Toolkit
 summary: To promote crowdsourcing, one effective tool is, well, crowdsourcing. Today, the White House Office of Science and Technology Policy (OSTP) and the Federal Community of Practice for Crowdsourcing and Citizen Science (CCS) unveiled the Citizen Science and Crowdsourcing Toolkit. The toolkit contains information, resources, and best practices federal agencies can use to harness the power
 authors:
   - awichman
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Managing Digital
   - Our Work
 tag:
@@ -28,7 +27,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
@@ -44,7 +43,7 @@ Specifically, the toolkit provides:
 
 The Toolkit was developed in response to the [2013 Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) [PDF]. As part of the the plan, agencies were charged with developing an Open Innovation Toolkit; the Crowdsourcing and Citizen Science Toolkit is the first component of the Open Innovation Toolkit to be completed.
 
-## Building the Building Team {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." %} 
+## Building the Building Team {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Cube-Letters-show-teams-in-front-of-unsharp-ludo-figures-Umkehrer-iStock-Thinkstock-472509682.jpg" alt="Cube Letters show teams in front of unsharp ludo figures." caption="" >}} 
 
 OSTP and CCS had a wealth of subject matter expert knowledge but did not have resources or expertise to build and host a publicly available toolkit.
 

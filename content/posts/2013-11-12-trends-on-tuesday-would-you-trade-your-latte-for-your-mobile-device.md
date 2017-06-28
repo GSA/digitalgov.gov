@@ -1,8 +1,7 @@
 ---
-url: /2013/11/12/trends-on-tuesday-would-you-trade-your-latte-for-your-mobile-device/
 date: 2013-11-12 9:50:30 -0400
 title: 'Trends on Tuesday: Would You Trade Your Latte For Your Mobile Device?'
-summary: ' Recently, Mobile Marketing Watch published Sprint&#8217;s interesting infographic showing how executives use their mobile devices. &#8220;Would you trade your latte or morning cup of coffee for your mobile phone?&#8221; Sprint asked business professional executives. According to the results of their survey, turns out business professionals would rather'
+summary: ' Recently, Mobile Marketing Watch published Sprint&#8217;s interesting infographic showing how executives use their mobile devices. &#8220;Would you trade your latte or morning cup of coffee for your mobile phone?&#8221; Sprint asked business professional executives. According to the results of their survey, turns out business professionals would'
 authors:
   - lisa-wilcox
 categories:
@@ -13,7 +12,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Sprint-Wireless-Infographic.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Sprint-Wireless-Infographic.jpg)
 
 Recently, [Mobile Marketing Watch](http://www.mobilemarketingwatch.com/infographic-how-business-executives-use-their-mobile-devices-37132/) published Sprint&#8217;s interesting infographic showing how executives use their mobile devices.
 

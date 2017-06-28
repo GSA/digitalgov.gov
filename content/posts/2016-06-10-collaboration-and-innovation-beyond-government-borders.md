@@ -1,8 +1,7 @@
 ---
-url: /2016/06/10/collaboration-and-innovation-beyond-government-borders/
 date: 2016-06-10 10:00:09 -0400
 title: Collaboration and Innovation, Beyond Government Borders
-summary: 'How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-350-Dept-Veterans-Affairs-Innovators-Network.jpg" alt="Screen capture of the VA'
+summary: 'How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-350-Dept-Veterans-Affairs-Innovators-Network.jpg" alt="Screen capture of the'
 authors:
   - awichman
 categories:
@@ -18,7 +17,7 @@ tag:
 
 How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-350-Dept-Veterans-Affairs-Innovators-Network.jpg" alt="Screen capture of the VA Innovators Network website." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-350-Dept-Veterans-Affairs-Innovators-Network.jpg" alt="Screen capture of the VA Innovators Network website." >}}
 
 Currently, eight VA centers around the United States are participating in the [VA Innovators Network](http://www.innovation.va.gov/innovatorsnetwork/) pilot. The pilot allows VA employees to propose and test ideas in a “test small, fail small” environment, with the goal of scaling successful solutions to the entire VA system.
 
@@ -28,7 +27,7 @@ However, the desire to connect innovators extends beyond the VA’s doors.
 
 “There is a tremendous goodwill to serve veterans,” Ippolito said. “We need to do a better job matching employees with innovators [outside the government] and others willing to volunteer with veterans.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-99-DG-Open-Opps-Opportunities-logo.jpg" alt="Logo for Digital Gov's Open Opportunities program." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-99-DG-Open-Opps-Opportunities-logo.jpg" alt="Logo for Digital Gov's Open Opportunities program." >}}
 
 As the Network team looked to expand their innovation initiatives, they found the [Open Opportunities](https://openopps.WHATEVER/) platform. Open Opportunities helps agencies tap into expertise in all corners of the federal government while also providing professional development opportunities. Agencies post tasks and projects that are picked up by federal employees.
 

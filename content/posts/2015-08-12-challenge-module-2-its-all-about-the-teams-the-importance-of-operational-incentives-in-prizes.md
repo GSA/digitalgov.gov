@@ -1,8 +1,7 @@
 ---
-url: /2015/08/12/challenge-module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes/
 date: 2015-08-12 11:10:17 -0400
 title: 'Challenge Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes'
-summary: ' A strong incentive is the lifeblood of solving any challenge. That&rsquo;s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions. Sam Ortega, manager of'
+summary: ' A strong incentive is the lifeblood of solving any challenge. That&rsquo;s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions. Sam Ortega, manager'
 authors:
   - judy-romano
 categories:
@@ -13,7 +12,7 @@ tag:
   - Recaps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-319-Sam-Ortega-NASA-and-Christopher-Frangione-XPRIZE-Foundation.jpg" alt="NASA’s Sam Ortega and XPRIZE Foundation’s Christopher Frangione discuss the importance of incentives for teams in challenges and competitions." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-319-Sam-Ortega-NASA-and-Christopher-Frangione-XPRIZE-Foundation.jpg" alt="NASA’s Sam Ortega and XPRIZE Foundation’s Christopher Frangione discuss the importance of incentives for teams in challenges and competitions." >}}
 
 A strong incentive is the lifeblood of solving any challenge. That’s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions.
 

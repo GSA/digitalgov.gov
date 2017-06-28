@@ -1,13 +1,12 @@
 ---
-url: /2015/11/05/somossocial-5-keys-for-government-to-reach-hispanics-through-social-media/
 date: 2015-11-05 2:09:46 -0400
 title: '#SomosSocial: 5 Keys for Government to Reach Hispanics Through Social Media'
 summary: 'Hispanics are one of fastest growing demographics in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience&rsquo;s motivations, behavior and preferences is key for anyone trying to engage with the public. We know every day that more and more Hispanics are on social'
 authors:
   - lmartinez
   - jessica-milcetich
-  - victoria-wales
   - edgardo-morales
+  - victoria-wales
 categories:
   - Social Media
 tag:
@@ -34,7 +33,7 @@ We know every day that more and more Hispanics are on social media, but on which
 
 No issue is more debated than [the role “Spanglish” plays](https://www.WHATEVER/2015/06/19/real-internationalization-isnt-just-geographic-its-linguistic/) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of "Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics" event, including the Somos Social hashtag." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics event, including the Somos Social hashtag." >}}
 
 Here are the top 5 takeaways from the event:
 

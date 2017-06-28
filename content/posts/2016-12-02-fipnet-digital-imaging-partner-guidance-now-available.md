@@ -1,5 +1,4 @@
 ---
-url: /2016/12/02/fipnet-digital-imaging-partner-guidance-now-available/
 date: 2016-12-02 2:00:55 -0400
 title: FIPNet Digital Imaging Partner Guidance Now Available
 summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.  Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -28,7 +27,7 @@ The Guidance document is provided to encourage libraries and other stakeholders 
   * Prescribes preferred and acceptable specifications for digital imaging, including file formats, bit depth, and resolution
   * Describes preferred and acceptable specifications for Technical and Bibliographic metadata to accompany imaging files
 
-{% img="https://www.WHATEVER/files/2017/03/600-x-418-Examples-of-text-at-200-700-pixels-per-inch-ppi-GPO-FIPNet-Guidance-draft-doc.jpg" alt="Examples of text at 200 — 700 pixels per inch (ppi). GPO/FDLP" %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-418-Examples-of-text-at-200-700-pixels-per-inch-ppi-GPO-FIPNet-Guidance-draft-doc.jpg" alt="Examples of text at 200 — 700 pixels per inch (ppi). GPO/FDLP" >}}
 
 If you are planning a digital imaging project, would like to contribute content to FDsys (**govinfo**), or just have questions about this guidance document, please [contact us by email](mailto:PreserveFedInfo@gpo.gov).
 

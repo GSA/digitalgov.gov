@@ -1,5 +1,4 @@
 ---
-url: /2016/06/24/white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years/
 date: 2016-06-24 11:30:32 -0400
 title: 'White House: Challenges, Citizen Science Among Top Innovation Efforts of Past 8 Years'
 summary: The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years. Evident throughout the report is the influence of Challenge.gov and CitizenScience.gov, two open innovation programs managed by the U.S. General Services Administration (GSA). In fact, among
@@ -7,7 +6,7 @@ authors:
   - eric-beidel
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - apps challenges
   - ChallengeGov
@@ -24,7 +23,7 @@ tag:
 
 The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years.
 
-Evident throughout the report is the influence of [Challenge.gov](https://www.challenge.gov/) and [CitizenScience.gov](https://www.citizenscience.gov/), two open innovation programs managed by the U.S. General Services Administration (GSA). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Fiber-optic-cable-running-above-ground-in-the-British-Countryside-moodboard-iStock-Thinkstock-452415845.jpg" alt="Fiber optic cable running above ground in the British Countryside" %} 
+Evident throughout the report is the influence of [Challenge.gov](https://www.challenge.gov/) and [CitizenScience.gov](https://www.citizenscience.gov/), two open innovation programs managed by the U.S. General Services Administration (GSA). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Fiber-optic-cable-running-above-ground-in-the-British-Countryside-moodboard-iStock-Thinkstock-452415845.jpg" alt="Fiber optic cable running above ground in the British Countryside" caption="" >}} 
 
 In fact, among the top 15 examples in the report are the increased use of prize competitions and expanded opportunities for citizen science and crowdsourcing, both areas where GSA is helping to lead the charge.
 

@@ -1,5 +1,4 @@
 ---
-url: /2017/01/19/the-life-changing-magic-of-writing-release-notes/
 date: 2017-01-19 2:00:17 -0400
 title: The Life-Changing Magic of Writing Release Notes
 summary: 'A key part of agile development is constantly shipping new features. The team behind the Federal Election Commission&rsquo;s (FEC) beta website ships new features at least once every two weeks. Sometimes the features are big, noticeable changes, such as the new home page we recently launched. And other times they&rsquo;re small (a copy edit, an'
@@ -7,7 +6,7 @@ authors:
   - noah-manger
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -19,7 +18,7 @@ A key part of agile development is constantly shipping new features. The team be
 
 With so many changes happening to the product every two weeks, it can be hard to keep track of how the product is growing and improving. After several months of regularly shipping new features, we found our 18F team and our partners at the FEC needed a better way to keep track of what improvements are in each release. Sure, we would have dozens of completed user stories and squished bugs, but with a complex application it was hard to turn a set of closed GitHub issues into a human-readable narrative.
 
-So several months ago, we started keeping a running log of [release notes](https://github.com/18F/FEC/blob/master/release_notes/release_notes.md) in order to tell a clear story of each iteration. These notes help keep everyone on our team in the know about what’s shipping, give us a clear list of features to check on staging, and help us always frame our work in terms of the value it delivers to our users. {% img="https://www.WHATEVER/files/2017/03/600-x-400-with-pencil-no-shadow-Grade-Note-Icon-denkcreative-iStock-Thinkstock-494079856-Converted.jpg" alt="Graphic illustration of release notes with a pencil." %} 
+So several months ago, we started keeping a running log of [release notes](https://github.com/18F/FEC/blob/master/release_notes/release_notes.md) in order to tell a clear story of each iteration. These notes help keep everyone on our team in the know about what’s shipping, give us a clear list of features to check on staging, and help us always frame our work in terms of the value it delivers to our users. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-400-with-pencil-no-shadow-Grade-Note-Icon-denkcreative-iStock-Thinkstock-494079856-Converted.jpg" alt="Graphic illustration of release notes with a pencil." caption="" >}} 
 
 ## How we write release notes
 

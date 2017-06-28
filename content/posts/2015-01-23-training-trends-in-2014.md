@@ -1,5 +1,4 @@
 ---
-url: /2015/01/23/training-trends-in-2014/
 date: 2015-01-23 10:00:50 -0400
 title: Training Trends in 2014
 summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations of the 21st century citizen customer better. Whew. That&rsquo;s a mouthful.'
@@ -20,7 +19,7 @@ In recent years, DigitalGov University (DGU) has evolved from a prescriptive tra
 
 Thanks to all the participation from you, across many agencies, we’ve hosted over 100 events this past year with over 8,000 attendees. So, we thought we’d take took a look at the most popular (by attendance) in-person, on-line and recorded events throughout 2014.
 
-## Top 5 In-Person Events {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" %} 
+## Top 5 In-Person Events {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" caption="" >}} 
 
   1. [The DigitalGov Citizen Services Summit](https://www.WHATEVER/2014/05/30/digitalgov-citizen-services-summit-a-success/ "DigitalGov Citizen Services Summit a Success") was our most exciting and largest attended in-person event this year. It was held in May with over 200 attendees and featured panels on:
   
@@ -32,7 +31,7 @@ Thanks to all the participation from you, across many agencies, we’ve hosted o
 
 ## Top 5 Webinars
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout.jpg" alt="600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout.jpg" alt="600-x-337-U.S.-Federal-SocialGov-2-Years-of-Smashing-Silos-Google-Hangout" >}}
 
 We also hosted some very popular webinars. Our most highly attended webinars (#1 and #2) focused on Plain Language.
 
@@ -44,7 +43,7 @@ We also hosted some very popular webinars. Our most highly attended webinars (#1
 
 ## Top 5 On-Demand
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}
 
 Lastly, we took a look at our webinar recordings and evaluated which were most viewed this year. Overall, we&#8217;ve had more than 34,000 views on-demand. Keep in mind some of these webinars took place in 2013:
 
@@ -54,6 +53,6 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
   4. [Yammer -The Power of Social Networking Inside Government Agencies &#8211; A New Media Talk](http://www.youtube.com/watch?v=GtOvdN5t7n0&feature=youtube_gdata) &#8211; This event took place in March of 2012, but agencies are using this tool internally to minimize email. There is also a [federal friendly Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements").
   5. [How to Use Assistive Technology to Comply with Section 508](http://www.youtube.com/watch?v=4XJcswWmmAw&feature=youtube_gdata)
 
-## What’s Next? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-390-January-2015-Calendar-klenger-iStock-Thinksotck-506977507.jpg" alt="2015 desk calendar" %} 
+## What’s Next? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-390-January-2015-Calendar-klenger-iStock-Thinksotck-506977507.jpg" alt="2015 desk calendar" caption="" >}} 
 
 We are planning more [great events](http://WHATEVER/events) for 2015 and we hope you can join us. Leave a comment below on what **you’d** like to see in the upcoming year.

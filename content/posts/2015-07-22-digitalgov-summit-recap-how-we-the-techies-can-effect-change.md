@@ -1,5 +1,4 @@
 ---
-url: /2015/07/22/digitalgov-summit-recap-how-we-the-techies-can-effect-change/
 date: 2015-07-22 11:00:27 -0400
 title: 'DigitalGov Summit Recap: How &#8220;We, the Techies&#8221; Can Effect Change'
 summary: 'Who do you need to bring to the table to make a better world? In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the 2015 DigitalGov Citizen Services Summit. She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government. &ldquo;We'
@@ -14,7 +13,7 @@ tag:
   - Recaps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-512-Symbol-Person-Choice-Silhouettes-Michael-Brown-Hemera-Thinkstock-96068072.jpg" alt="A silhouette of a hand picks up a stick figure from a line of figures." caption="" >}} 
 
 Who do you need to bring to the table to make a better world?
 

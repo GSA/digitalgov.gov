@@ -1,5 +1,4 @@
 ---
-url: /2016/06/23/using-plain-language-to-bridge-the-gap-between-government-and-industry/
 date: 2016-06-23 1:30:02 -0400
 title: Using Plain Language to Bridge the Gap Between Government and Industry
 summary: Much of our work with government partners to deliver better digital services has resulted in full websites, applications, and embarking on large-scale transformation efforts. In addition to those types of projects, we also work on shorter, faster, smaller-scale projects designed to show our partners different points of view and different techniques to approach their most
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -43,7 +42,7 @@ Both the vendors who go through the process to join IT Schedule 70 and the GSA c
 
 We talked with vendors about their experiences with the IT Schedule 70 process, what they had the most trouble with, and what information needed to be clarified. We also talked with contracting officers to see where they saw the most mistakes being made as they reviewed the offers submitted by vendors. In the end, we took all of the information we gathered and combined it with the results of a content audit and brainstorming sessions to write a [step by step guide](http://www.gsa.gov/portal/category/100406) to what people need to know when submitting an offer for an IT Schedule 70 contract.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-355-schedule-70.jpg" alt="A screenshot from the I.T. Schedule 70 guide." %}](http://www.gsa.gov/portal/category/100406)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-355-schedule-70.jpg" alt="A screenshot from the I.T. Schedule 70 guide." >}}](http://www.gsa.gov/portal/category/100406)
 
 This project might seem out of the norm for 18F. Maybe it doesn’t seem high-tech enough to fit in with the kind of work we do — it’s all words and very little code! But at 18F we do much more than just improving tech products. We’re also here to change culture and improve the user experience all around, and that includes improving content.
 

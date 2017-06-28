@@ -1,5 +1,4 @@
 ---
-url: /2015/02/13/dont-forget-the-long-tail-it-can-deliver-value/
 date: 2015-02-13 11:10:37 -0400
 title: 'Don’t Forget the Long Tail: It Can Deliver Value'
 summary: 'Top tasks matter. Visitors come to your website with specific goals in mind. Using a top-task methodology can be particularly useful when redesigning your homepage. But, top tasks aren&rsquo;t the whole story. Our government websites also have a large range of tiny tasks that, when managed carefully, have the potential to deliver value. In The'
@@ -21,7 +20,7 @@ Our government websites also have a large range of tiny tasks that, when managed
 
 In [_The Stranger&#8217;s Long Neck,_](http://www.gerrymcgovern.com/first-chapter/26/books/strangers-long-neck) Gerry McGovern explains how, when visitors come to your website, they have a small set of top tasks they want to complete quickly and easily. He calls these tasks the “long neck.” They’re also sometimes referred to as the “short head.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/450-x-254-DG-Search-long-neck\_body\_tail-graph-from-Gerry-McGovern-The-Strangers-Long-Neck.jpg" alt="Graph showing long neck, body, and tail; from Gerry McGovern's "The Strangers' Long Neck"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/450-x-254-DG-Search-long-neck\_body\_tail-graph-from-Gerry-McGovern-The-Strangers-Long-Neck.jpg" alt="Graph showing long neck, body, and tail; from Gerry McGovern's The Strangers' Long Neck" >}}
 
 According to McGovern, the breakdown is:
 

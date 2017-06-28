@@ -1,5 +1,4 @@
 ---
-url: /2016/09/09/data-act-prototype-simplicity-is-key/
 date: 2016-09-09 11:00:54 -0400
 title: 'DATA Act Prototype: Simplicity Is Key'
 summary: 'Last week we wrote about how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform. This week, we&rsquo;ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is not meant to be a full retrospective or post-mortem; we&rsquo;ll'
@@ -11,7 +10,7 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - best practices
@@ -23,7 +22,7 @@ tag:
 
 Last week we wrote about [how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform](https://18f.gsa.gov/2016/08/25/micro-purchase-design-philosophy-do-one-thing-well/). This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is _not_ meant to be a full retrospective or post-mortem; we’ll be focusing on technical decisions. We should also delineate this from the more long term DATA Act broker, which is under active development.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-184-DATA-Act-logo.jpg" alt="DATA Act logo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-184-DATA-Act-logo.jpg" alt="DATA Act logo" >}}
 
 ## What’s the DATA Act? {#what-s-the-data-act}
 
@@ -45,7 +44,7 @@ Our prototype contained two endpoints: one to display a form and one to accept i
 
 The proof-of-concept focus is not without drawbacks, however. While we would argue that actively ignoring some best software development practices was the right choice for many of our decisions, the lack of test coverage ended up be painful as the project wound down. For example, during this period, we realized that the prototype didn’t work for error-free data submissions (the “happy path”). We discovered this error through _manual_ testing, but could have avoided it altogether by writing unit tests from the beginning. In retrospect, this is a good example of why viewing code as “not real” can be a trap. We strongly recommend against falling into this trap; your small code base will quickly grow larger than anticipated and your early technical decisions have had long-lasting ramifications.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/426-x-131-DATA-Act-MVP-minimum-viable-product-diagram.jpg" alt="A minimum viable product (MVP) diagram for the above description." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/426-x-131-DATA-Act-MVP-minimum-viable-product-diagram.jpg" alt="A minimum viable product (MVP) diagram for the above description." >}}
 
  
 

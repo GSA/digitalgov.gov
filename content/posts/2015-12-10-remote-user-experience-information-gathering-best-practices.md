@@ -1,5 +1,4 @@
 ---
-url: /2015/12/10/remote-user-experience-information-gathering-best-practices/
 date: 2015-12-10 10:00:25 -0400
 title: Best Practices for Remote User Experience Research
 summary: Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. One of
@@ -15,7 +14,7 @@ tag:
   - user experience
 ---
 
-Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word "Feedback" seen on a small wooden cube sits on a laptop keyboard" %} 
+Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
 
 One of the most difficult problems is that you don’t have **physical** access to your users. In some cases, this is just the way it is—it’s basically impossible to try and observe **everyone** doing **everything**. So, how can you use technology to leverage what access you need? Work smarter, not harder, and be prepared by planning as much as you can before you begin.
 

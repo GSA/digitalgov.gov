@@ -1,8 +1,7 @@
 ---
-url: /2014/08/20/top-5-reasons-to-use-government-wide-open-and-structured-content-models/
 date: 2014-08-20 11:00:16 -0400
 title: Top 5 Reasons to Use Government-wide Open and Structured Content Models
-summary: Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our What Structured Content Models Can Do For You Webinars in May and June.
+summary: 'Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our What Structured Content Models Can Do For You Webinars in May and June. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural"'
 authors:
   - katie-steffy
 categories:
@@ -21,7 +20,7 @@ tag:
 
 Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our [What Structured Content Models Can Do For You Webinars](https://www.WHATEVER/2014/06/09/what-structured-content-can-do-for-you-webinar-recap/ "What Structured Content Can Do For You: Webinar Recap") in May and June.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 The point—with good content models, a single piece of Web content becomes an adaptive information asset that can be leveraged anytime, anywhere.
 

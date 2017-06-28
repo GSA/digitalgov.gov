@@ -1,5 +1,4 @@
 ---
-url: /2016/04/08/transcreation-why-do-we-need-it/
 date: 2016-04-08 10:00:14 -0400
 title: 'Transcreation: Why Do We Need It?'
 summary: Transcreation is a relatively new term that blends the words translation and creation. In a nutshell, transcreation involves taking a concept in one language and completely recreating it in another language. A successfully transcreated message (either written or visual) evokes the same emotions and carries the same implications in the target language as it does
@@ -19,7 +18,7 @@ tag:
 
 Transcreation is a relatively new term that blends the words translation and creation. In a nutshell, transcreation involves taking a concept in one language and completely recreating it in another language. A successfully transcreated message (either written or visual) evokes the same emotions and carries the same implications in the target language as it does in the source language, but in a way that resonates with the target audience.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-440-Transcreation.jpg" alt="A transcreation venn diagram with 3 intersecting spheres for Language, Emotional Connection, and Culture." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-440-Transcreation.jpg" alt="A transcreation venn diagram with 3 intersecting spheres for Language, Emotional Connection, and Culture." >}}
 
 What’s the big deal you may wonder? After all, a good translation already re-shapes a text at the cultural and linguistic levels. However, transcreation goes a step further. It requires that the translator become a cultural expert, sensitive to the audience&#8217;s emotions, needs and cultural backgrounds. Transcreation enhances the translator’s creativity and capacity to tailor the message to the specific target audience. The important question here is how close the transcreated message comes to the target audience&#8217;s needs.
 

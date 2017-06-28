@@ -1,8 +1,7 @@
 ---
-url: /2014/06/11/the-api-briefing-quick-guide-to-using-github-fdas-openfda-research-project/
 date: 2014-06-11 10:00:12 -0400
 title: 'The API Briefing: Quick Guide to Using GitHub &#8211; FDA’s OpenFDA Research Project'
-summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA&rsquo;s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the FDA&rsquo;s'
+summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA&rsquo;s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the'
 authors:
   - bbrantley
 categories:
@@ -19,7 +18,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" %}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s API documentation is a great example of how to create detailed guidance for developers.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-289-Open-Data-Open-Source-Open-community-openFDA.jpg" alt="250-x-289-Open-Data-Open-Source-Open-community-openFDA" >}}The Food and Drug Administration (FDA) just released the <a href="https://open.fda.gov/" target="_blank">OpenFDA Research Project</a>. At the heart of the project is the <a href="https://open.fda.gov/about/" target="_blank">OpenFDA API</a>, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the <a href="https://open.fda.gov/api/reference/" target="_blank">FDA’s API Basics</a> page to learn how to access OpenFDA including interactive sample queries. The FDA’s API documentation is a great example of how to create detailed guidance for developers.
 
 Like other agencies, the FDA has created a <a href="https://github.com/FDA/openfda" target="_blank">GitHub repository</a> that contains the code and documentation for the API. The advantage of using GitHub for agency APIs, is that it&#8217;s an easy way for developers to copy the code and make improvements that can then be added back to the original code. Being able to use GitHub is essential for developers but it can be intimidating. Here is a two-part tutorial I use in introducing people to GitHub concepts:
 

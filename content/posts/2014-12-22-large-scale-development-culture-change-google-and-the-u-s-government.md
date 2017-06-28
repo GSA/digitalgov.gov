@@ -1,5 +1,4 @@
 ---
-url: /2014/12/22/large-scale-development-culture-change-google-and-the-u-s-government/
 date: 2014-12-22 10:05:52 -0400
 title: 'Large Scale Development Culture Change: Google and the U.S. Government'
 summary: 'As part of 18F&#8217;s mission to deliver effective, user-centric services focused on the interaction between government and the people and businesses it serves, we are also committed to demonstrating how open source and agile-inspired methodologies are critical to an effective, efficient, modern delivery process. We believe these methods produce better software and services at lower'
@@ -13,7 +12,7 @@ tag:
   - open source
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Old-Way-or-New-Way-IvelinRadkov-iStock-THinkstock-496474697.jpg" alt="Old Way or New Way" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Old-Way-or-New-Way-IvelinRadkov-iStock-THinkstock-496474697.jpg" alt="Old Way or New Way" caption="" >}} 
 
 As part of 18F&#8217;s mission to deliver effective, user-centric services focused on the interaction between government and the people and businesses it serves, we are also committed to demonstrating how open source and agile-inspired methodologies are critical to an effective, efficient, modern delivery process. We believe these methods produce better software and services at lower cost than previous models, build trust and goodwill amongst citizens and the tech industry, and help to attract and retain technical talent.
 

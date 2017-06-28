@@ -1,8 +1,7 @@
 ---
-url: /2014/02/04/softwareapps-challenges-getting-results-for-your-agency/
 date: 2014-02-04 3:10:17 -0400
 title: 'Software/Apps Challenges: Getting Results for Your Agency'
-summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But as'
+summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But'
 authors:
   - tlowden
 categories:
@@ -13,7 +12,7 @@ tag:
   - NASA
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/My-Money-App-Up-250x212.png" alt="A winner of the "My Money App Up" challenge, "Centz is a mobile application that helps users make sense of their student loans and earn cents while doing it."" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/My-Money-App-Up.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/My-Money-App-Up-250x212.png" alt="A winner of the My Money App Up challenge, Centz is a mobile application that helps users make sense of their student loans and earn cents while doing it." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/My-Money-App-Up.png)
 
 <span style="line-height: 1.5em;">Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But as with any type of challenge, software/app competitions bring with them a unique set of aspects to consider before launch.</span>
 

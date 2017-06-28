@@ -1,5 +1,4 @@
 ---
-url: /2015/08/06/need-actionable-analytics-reports-heres-help/
 date: 2015-08-06 10:00:33 -0400
 title: Need Actionable Analytics Reports? Here’s Help
 summary: 'The Digital Analytics Program (DAP) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own'
@@ -31,12 +30,12 @@ This report covers data for pages through which users enter the website. It prov
 
 Depending on the goals of the Web page, you can see how effective those landing pages are and determine whether you need to adjust the elements on that page. If you are running campaigns, this report can give you an idea of which landing page might be the most helpful to your target audience.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-245-DAP-Custom-Reporting-Catalog-Aug-2015-Landing-Page-Report.jpg" alt="Landing Pages Analysis" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-245-DAP-Custom-Reporting-Catalog-Aug-2015-Landing-Page-Report.jpg" alt="Landing Pages Analysis" >}}
 
 ## Content Efficiency Report
 
 This report provides data in two tabs—one for the performance of specific content or pages and one for technical performance of the Web page. You can see which Web pages are receiving repeat pageviews, the percentage of pageviews which are entrances to the website, as well as the bounce rate and average time on page.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" >}}
 
  

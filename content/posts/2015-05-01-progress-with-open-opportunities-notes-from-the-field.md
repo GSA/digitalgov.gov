@@ -1,5 +1,4 @@
 ---
-url: /2015/05/01/progress-with-open-opportunities-notes-from-the-field/
 date: 2015-05-01 11:10:51 -0400
 title: 'Progress with Open Opportunities: Notes from the Field'
 summary: 'As a task creator with an ambitious agenda and limited resources, I&rsquo;ve got a great deal of incentive to make the most use that I can of Open Opportunities. And indeed, Open Opportunities participants have made a concrete and positive difference in the operations of our office, the Advanced Manufacturing National Program Office, part of'
@@ -13,7 +12,7 @@ tag:
   - Open Opportunities program
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Motivation-by-gensyn-Flickr-CC-BY-NC-ND-2.0.jpg" alt="A motivational note reads, "Let's be Awesome! Signed, The voice in your head"" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Motivation-by-gensyn-Flickr-CC-BY-NC-ND-2.0.jpg" alt="A motivational note reads, Let's be Awesome! Signed, The voice in your head" caption="" >}} 
 
 As a task creator with an ambitious agenda and limited resources, I’ve got a great deal of incentive to make the most use that I can of [Open Opportunities](https://midas.18f.us/). And indeed, Open Opportunities participants have made a concrete and positive difference in the operations of our office, the [Advanced Manufacturing National Program Office](http://manufacturing.gov/welcome.html), part of the National Institute of Standards and Technology in the Department of Commerce.
 

@@ -1,5 +1,4 @@
 ---
-url: /2014/05/20/five-years-of-open-data-making-a-difference/
 date: 2014-05-20 1:00:33 -0400
 title: Five Years of Open Data—Making a Difference
 summary: 'In May 2009, Data.gov was an experiment. There were questions: would people use the data? would agencies share the data? and would it make a difference? We&rsquo;ve all come a long, long way to answering those questions, starting with only 47 datasets and having 105,000 datasets today. We realized that this was never simply about'

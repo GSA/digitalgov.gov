@@ -1,5 +1,4 @@
 ---
-url: /2015/08/10/communicart-tool-will-streamline-purchase-card-process/
 date: 2015-08-10 1:00:23 -0400
 title: Communicart Tool Will Streamline Purchase Card Process
 summary: 'We&rsquo;ve all been there. You walk into a meeting, set your things on the table, and sit down on the chair only to hit the floor instead. In a corporate office you might buy a new chair and get reimbursed, or maybe your company has a process for requesting new furniture. Regardless, that chair needs'
@@ -18,7 +17,7 @@ In the government, the system to replace something small like an office chair re
 
 To buy that new office chair, a federal employee needs to justify the purchase to an approving official and have a budget analyst ensure funds are available. All of that work is supposed to happen fast for micro-purchases—it’s hard to get work done without a chair—but until recently there were no standard tools the employee, the approver, or the analyst could use to manage and track these requests. Most of that work is done over email, which, while electronic, places the burden of tracking on the employee. If you need a chair, it’s on you to figure out how to keep track of your request through this process. Over time these inconsistencies became inefficiencies that slowed down the whole process. With our partners at the General Service Administration&#8217;s Public Buildings Service in Washington, D.C., we’ve started building a tool to help make this process fast and efficient.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-284-Communicart-Approval-Portal-screenshot-18F.jpg" alt="Communicart Approval Portal screenshot" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-284-Communicart-Approval-Portal-screenshot-18F.jpg" alt="Communicart Approval Portal screenshot" >}}
 
 We call it [Communicart](https://18f.gsa.gov/dashboard/project/C2/). It’s a tool that took some cues from the process for tracking “carts” through an approval process on [GSA Advantage](https://www.gsaadvantage.gov/advantage/main/start_page.do), a site government employees use to shop at special rates. Our hope is that as this tool streamlines the purchase card approval process, government employees can spend more time performing their essential work and less time on the paperwork required to buy that new chair. An updated process will also help restore public confidence that government employees are only using cards for valid purchases. We’re excited to begin rolling it out to Public Buildings Service employees across the country, starting in the General Service Administration’s Great Lakes region.
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/04/27/the-content-corner-the-content-wars/
 date: 2015-04-27 10:56:28 -0400
 title: 'The Content Corner: The Content Wars'
 summary: One of the most interesting trends forming at the start of 2015 is the rise of new digital publishers. Online entities from Facebook to GE are continuing their strong forays into the world of content production. This shift, especially among social media platforms such as Facebook, Linked In and Snapchat, could significantly alter the digital
@@ -17,7 +16,7 @@ tag:
   - The Content Corner
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Woman-holding-digital-tablet-closeup-scyther5-iStock-Thinkstock-ThinkstockPhotos-455273179.jpg" alt="Woman holding digital tablet, closeup" caption="" >}} 
 
 One of the most interesting trends forming at the start of 2015 is the rise of new digital publishers. Online entities from Facebook to GE are continuing their strong forays into the world of content production. This shift, especially among social media platforms such as Facebook, Linked In and Snapchat, could significantly alter the digital landscape turning content partners into content competitors.
 
@@ -27,7 +26,7 @@ LinkedIn’s decision to grow their original [Influencer](http://blog.linkedin.c
 
 LinkedIn has continued to grow their professional content offerings via their internal blog called [LinkedIn Marketing Solutions](http://marketing.linkedin.com/blog/) and by [spending $1.5 billion to acquire Lynda.com](http://www.cio.com/article/2911194/social-media/why-linkedin-spent-big-on-lynda-com.html). If they weren’t dominant already, LinkedIn is certainly close to being the singular digital platform for all professional growth and networking. As LinkedIn CEO Jeff Weiner put it, the acquisition allows LinkedIn to significantly “[change the way in which people connect to opportunity](https://press.linkedin.com/site-resources/news-releases/2015/linkedin-to-acquire-lyndacom).”
 
-# The Big Get {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Social-engineering-concept-scanrail-iStock-Thinkstock-ThinkstockPhotos-148059517.jpg" alt="Social engineering concept" %} 
+# The Big Get {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Social-engineering-concept-scanrail-iStock-Thinkstock-ThinkstockPhotos-148059517.jpg" alt="Social engineering concept" caption="" >}} 
 
 Facebook already holds significant power in the social media space by driving [one-quarter of all Internet referral traffic](http://contently.com/strategist/2015/01/26/in-one-chart-the-story-of-how-facebook-came-to-take-over-the-media-and-marketing-worlds/) along with 1.5 billion users, and they now want to leverage that strength to draw in existing publishers, starting with one of the most recognized: The New York Times. They are also in talks with [National Geographic and BuzzFeed](http://www.nytimes.com/2015/03/24/business/media/facebook-may-host-news-sites-content.html?_r=0).
 

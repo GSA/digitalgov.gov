@@ -1,5 +1,4 @@
 ---
-url: /2014/09/03/the-api-briefing-finding-help-for-the-elderly-the-eldercare-locator-api/
 date: 2014-09-03 11:00:53 -0400
 title: 'The API Briefing: Finding Help for the Elderly – The ElderCare Locator API'
 summary: If you have ever been a caregiver for an elderly family member or friend, you know that there are many resources to help you in giving care. But finding these resources can be difficult and frustrating. The Administration on Aging in the Department of Health and Human Services (HHS) has been guiding people to local
@@ -17,7 +16,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Old-and-young-hands-hxdbzxy-iStock-Thinkstock-457342679.jpg" alt="Old and young hands" caption="" >}} 
 
 If you have ever been a caregiver for an elderly family member or friend, you know that there are many resources to help you in giving care. But finding these resources can be difficult and frustrating. The Administration on Aging in the Department of Health and Human Services (HHS) has been guiding people to local resources since 1991. Starting with a phone service, the Administration on Aging created its first website in 2001. Now, it offers an API.
 

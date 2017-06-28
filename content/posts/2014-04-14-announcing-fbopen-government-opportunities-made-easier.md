@@ -1,8 +1,7 @@
 ---
-url: /2014/04/14/announcing-fbopen-government-opportunities-made-easier/
 date: 2014-04-14 1:00:55 -0400
 title: 'Announcing FBOpen: Government Opportunities Made Easier'
-summary: 'Today we&rsquo;re announcing our first product launch: FBOpen, a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. On the surface, FBOpen is a website: fbopen.gsa.gov is a simple, Google-style page where you can search available federal contracts and grants. We&rsquo;ve used the latest in search'
+summary: 'Today we&rsquo;re announcing our first product launch: FBOpen, a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. On the surface, FBOpen is a website: fbopen.gsa.gov is a simple, Google-style page where you can search available federal contracts and grants. We&rsquo;ve used the latest in'
 authors:
   - alison-rowland
   - aaron-snow
@@ -15,7 +14,7 @@ tag:
   - RFP
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" %}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" >}}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.
 
 On the surface, FBOpen is a website: [fbopen.gsa.gov](https://fbopen.gsa.gov/) is a simple, Google-style page where you can search available federal contracts and grants. We’ve used the latest in search technology to make finding opportunities easier and more effective for everybody.
 

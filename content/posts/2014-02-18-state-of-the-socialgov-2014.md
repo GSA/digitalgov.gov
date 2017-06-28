@@ -1,5 +1,4 @@
 ---
-url: /2014/02/18/state-of-the-socialgov-2014/
 date: 2014-02-18 4:09:21 -0400
 title: 'State of the #SocialGov 2014'
 summary: 'If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service? Whether you&rsquo;re a citizen who needs better access to services, an entrepreneur looking to spark innovation in the marketplace, or a public servant who wants to get your mission done'
@@ -18,7 +17,7 @@ tag:
   - World Bank
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-430-SocialGov-Summit.jpg" alt="Agencies are leading the way in educating other government programs, using specialists including NASA's Jenn Gustetic; GSA's Justin Herman; FAA's Karen Snyder; FAFSA's Nicole Callahan; State's Corina DuBois; Education's Cameron Brenchley; CFPB's Deepa Kunapuli; and livestreamed guests from Australia, Ireland and Canada." caption="" >}} 
 
 If the silos and barriers that separated our programs are smashed, what could we do to realize the full potential of innovation in public service?
 

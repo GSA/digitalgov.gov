@@ -1,8 +1,7 @@
 ---
-url: /2013/11/27/surviving-thanksgiving-with-your-smartphone/
 date: 2013-11-27 11:25:30 -0400
 title: Surviving Thanksgiving With Your Smartphone
-summary: 'Oh, Thanksgiving! If you need to take a time-out from the dinner table for a little of your own (cyber)space, give these apps a try: Does a holiday with your extended family put your nerves on edge? The Breathe2Relax and TacticalBreather mobile apps are specially designed to help you control physiological'
+summary: 'Oh, Thanksgiving! If you need to take a time-out from the dinner table for a little of your own (cyber)space, give these apps a try: Does a holiday with your extended family put your nerves on edge? The Breathe2Relax and TacticalBreather mobile apps are specially designed to help you control'
 authors:
   - genevieve-contey
 categories:
@@ -19,7 +18,7 @@ tag:
 
 Oh, Thanksgiving!
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/turkey.jpeg" alt="Photo of a turkey" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/turkey.jpeg)If you need to take a time-out from the dinner table for a little of your own (cyber)space, give these apps a try:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/turkey.jpeg" alt="Photo of a turkey" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/turkey.jpeg)If you need to take a time-out from the dinner table for a little of your own (cyber)space, give these apps a try:
 
 _Does a holiday with your extended family put your nerves on edge?_ The [**Breathe2Relax**](http://apps.usa.gov/breathe2relax.shtml) and **[TacticalBreather](http://apps.usa.gov/tactical-breather.shtml)** mobile apps are specially designed to help you control physiological responses to stress through the simple yet scientifically proven act of guided deep breathing. Both offer customizable settings. Just lighten up on the onion dip before trying them out.
 

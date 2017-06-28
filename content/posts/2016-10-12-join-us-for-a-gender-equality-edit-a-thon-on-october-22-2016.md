@@ -1,16 +1,15 @@
 ---
-url: /2016/10/12/join-us-for-a-gender-equality-edit-a-thon-on-october-22-2016/
 date: 2016-10-12 11:00:36 -0400
 title: Join us for a Gender Equality Edit-a-thon on October 22, 2016
-summary: 'Come out and join us on Saturday, October 22, 2016 from 10:00 am &ndash; 5:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. Register for this event today! Help'
+summary: 'Come out and join us on Saturday, October 22, 2016 from 10:00 am &ndash; 5:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. Register for this event today!'
 authors:
   - meredith-stewart
 categories:
   - Content
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Managing Digital
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - content
   - crowdsourcing
@@ -21,7 +20,7 @@ tag:
 
 Come out and join us on Saturday, October 22, 2016 from 10:00 am – 5:00 pm for a Wikipedia Edit-a-thon on Gender Equality in the Innovation Hub at the National Archives Building in Washington, DC. [Register for this event today](https://www.eventbrite.com/e/gender-equality-wikipedia-edit-a-thon-at-the-national-archives-tickets-28252688552)!
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-gender-equality-edit-a-thon-2016.jpg" alt="Gender Equality Edit-a-thon graphic showing Wikipedia logo and Amending America logo." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-gender-equality-edit-a-thon-2016.jpg" alt="Gender Equality Edit-a-thon graphic showing Wikipedia logo and Amending America logo." >}}
 
 Help us improve Wikipedia entries related to gender equality with the National Archives and Records Administration. You do not need to have prior experience editing Wikipedia. During the event we will have an introduction to editing Wikipedia and a discussion of World War I Nurses and Red Cross records in the National Archives. It will be a lively discussion of women in the Historical record.
 

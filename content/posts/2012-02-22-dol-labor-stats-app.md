@@ -1,8 +1,7 @@
 ---
-url: /2012/02/22/dol-labor-stats-app/
 date: 2012-02-22 3:09:51 -0400
 title: DOL Labor Stats App
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. The Labor Stats Application presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor&rsquo;s Employment and Training Administration (ETA) and Bureau of Labor Statistics (BLS).'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. The Labor Stats Application presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor&rsquo;s Employment and Training Administration (ETA) and Bureau of Labor Statistics'
 authors:
   - jparcell
 categories:
@@ -14,7 +13,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._
 
 The <a href="http://www.dol.gov/dol/apps/laborstats.htm" rel="nofollow">Labor Stats Application</a> presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor’s Employment and Training Administration (ETA) and Bureau of Labor Statistics (BLS).
 

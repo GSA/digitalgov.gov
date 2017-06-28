@@ -1,5 +1,4 @@
 ---
-url: /2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/
 date: 2016-10-26 10:00:17 -0400
 title: GSA launches new AI, Virtual Reality, and Authentication Programs
 summary: 'Today we&rsquo;re launching three new initiatives powered by GSA Digital Communities that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry. These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the'
@@ -28,7 +27,7 @@ Today we’re launching three new initiatives [powered by GSA Digital Communitie
 
 These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the bar forward on effective adoption of digital public services that meet the needs of citizens today and tomorrow… and plant seeds for growing long into the future.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." >}}
 
 ## Artificial Intelligence for Citizen Services Community
 

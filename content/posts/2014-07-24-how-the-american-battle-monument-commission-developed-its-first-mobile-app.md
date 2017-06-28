@@ -1,8 +1,7 @@
 ---
-url: /2014/07/24/how-the-american-battle-monument-commission-developed-its-first-mobile-app/
 date: 2014-07-24 10:06:53 -0400
 title: How the American Battle Monument Commission Developed its First Mobile App
-summary: The job of the American Battle Monument Commission (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native mobile
+summary: The job of the American Battle Monument Commission (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native
 authors:
   - zeshan-khan
 categories:
@@ -20,7 +19,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-417-ABMC-American-Battle-Monument-Commission-app-home.jpg" alt="250 x 417 ABMC American Battle Monument Commission app home" %}The job of the [American Battle Monument Commission](http://www.abmc.gov/) (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native mobile application, they had two primary objectives:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-417-ABMC-American-Battle-Monument-Commission-app-home.jpg" alt="250 x 417 ABMC American Battle Monument Commission app home" >}}The job of the [American Battle Monument Commission](http://www.abmc.gov/) (AMBC) is to manage all overseas cemeteries and memorials from WWI and WWII. There are over 200,000 veterans who are buried or memorialized at these cemeteries. When ABMC began thinking about releasing a native mobile application, they had two primary objectives:
 
 1) The app should be able to serve as a “tour guide” to the millions of visitors who visit the memorials in person.
 
@@ -30,7 +29,7 @@ They did face some challenges, but as this was their first mobile app, they were
 
 [The Pointe Du Hoc app](https://www.WHATEVER/2013/01/24/pointe-du-hoc-battle-site-mobile-app/) tells the stories of the 2nd and 5th Ranger Battalion who found themselves in Northern France and on cliffs on D-Day. The app allows you to navigate through: an introduction, chronology, key facts, a tour menu, a map, and even points of interest. The idea to include all of these features was a process the team discussed both internally and with their developers. Their team did ask for recommendations and often asked them to see their ideas before approving them.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-445-ABMC-American-Battle-Monument-Commission-app-menu.jpg" alt="250 x 445 ABMC American Battle Monument Commission app menu" %}Throughout the process of developing the app, they learned some valuable lessons such as:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-445-ABMC-American-Battle-Monument-Commission-app-menu.jpg" alt="250 x 445 ABMC American Battle Monument Commission app menu" >}}Throughout the process of developing the app, they learned some valuable lessons such as:
 
   * writing content for applications,
   * thinking through the functionality of the application, and
@@ -42,7 +41,7 @@ They had a lot of internal discussion, as well, and the application was vetted b
 
 **What’s in store for ABMC’s mobile future?**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-445-ABMC-American-Battle-Monument-Commission-app-info-with-audio-option.jpg" alt="250 x 445 ABMC American Battle Monument Commission app info with audio option" %}The ABMC is currently working on five other applications. They know that these apps will be different from their first one because the memorials and the stories they tell are different. They will once again need to figure out how to incorporate the larger stories, which feature hundreds of units of all different ranks.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-445-ABMC-American-Battle-Monument-Commission-app-info-with-audio-option.jpg" alt="250 x 445 ABMC American Battle Monument Commission app info with audio option" >}}The ABMC is currently working on five other applications. They know that these apps will be different from their first one because the memorials and the stories they tell are different. They will once again need to figure out how to incorporate the larger stories, which feature hundreds of units of all different ranks.
 
 **What your agency can learn from their experience**
 

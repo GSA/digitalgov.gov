@@ -1,5 +1,4 @@
 ---
-url: /2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms/
 date: 2015-01-30 10:00:38 -0400
 title: 'Social Video: Making Sense of the Facebook and YouTube Platforms'
 summary: 'Updated: Added link to Twitter&#8217;s blog post on direct video uploads. Around the time that Tim Fullerton of the Department of Interior delivered his webcast to DigitalGov audiences about publishing video content to Facebook, we at the Broadcasting Board of Governors were comparing the differences in user behavior on the Facebook and YouTube video platforms'
@@ -17,7 +16,7 @@ tag:
   - YouTube
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Rubick's Cube with social media logos" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Rubick's Cube with social media logos" caption="" >}} 
 
 _Updated: Added link to Twitter&#8217;s blog post on direct video uploads._
 
@@ -33,7 +32,7 @@ Video that was uploaded directly to Facebook got significantly more likes, share
 
 On the plus side for Facebook, a new set of YouTube-esque features were just released that are sure to drive more engagement on the Facebook platform. First, there is a new ‘featured video’ area that will allow publishers to showcase one video at the top of the video page. Secondly, publishers will now be able to create video playlists within Facebook. Both of these features are sure to drive time spent and clips viewed on the Facebook video platform.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/575-x-450-Social-Video-Making-Sense-of-the-Facebook-and-YouTube-Platforms.jpg" alt="A look at how featured videos will look in the new Facebook video tab layout." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/575-x-450-Social-Video-Making-Sense-of-the-Facebook-and-YouTube-Platforms.jpg" alt="A look at how featured videos will look in the new Facebook video tab layout." >}}
 
 ## YouTube Excels In Audience Retention and Long Tail Plays
 

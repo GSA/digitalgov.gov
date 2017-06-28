@@ -1,5 +1,4 @@
 ---
-url: /2015/06/29/creating-a-social-media-report-that-matters/
 date: 2015-06-29 1:00:19 -0400
 title: Creating a Social Media Report That Matters
 summary: 'As with any communications effort, the social media bottom line comes down to impact. Can you prove that the time, money and effort put into social media helped achieve your agency&rsquo;s goals? In a world obsessed with big data, it&rsquo;s tempting to track every detail simply because you can. With more data comes more confusion'
@@ -17,7 +16,7 @@ tag:
   - social media metrics
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Social-Media-Infographics-LucionCreative-iStock-Thinkstock-476423382.jpg" alt="Social Media Infographics" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Social-Media-Infographics-LucionCreative-iStock-Thinkstock-476423382.jpg" alt="Social Media Infographics" caption="" >}} 
 
 As with any communications effort, the social media bottom line comes down to impact. Can you prove that the time, money and effort put into social media helped achieve your agency’s goals? In a world obsessed with [big data](https://www.WHATEVER/2015/01/20/trends-big-data-and-gov-in-2015/), it’s tempting to track every detail simply because you can. With more data comes more confusion over what data is important enough be tracked and, just as essential, how to report that data in a way that facilitates decision making. Fortunately, DigitalGov has already created the [Federal Social Media Analytics Toolkit](https://www.WHATEVER/resources/federal-social-media-analytics-toolkit-hackpad/) to provide guidance on what social media metrics should be tracked, and we&#8217;ve also offered tips for [crafting report infographics](https://www.WHATEVER/2014/03/14/customize-your-own-amazing-social-media-report-infographic/).
 
@@ -33,7 +32,7 @@ Reporting on numbers of followers, engagement and reach isn’t meaningful if th
 
 ## 3. Make the Report Easy to Read and Easy to Understand
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-223-GAO-social-media-channels-infographic.jpg" alt="image of various social media channels in infographic" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-223-GAO-social-media-channels-infographic.jpg" alt="image of various social media channels in infographic" >}}
 
 Format preferences are unique to each staff person, agency and situation, but the crucial element of a great social media report is that it should be as easy to read as it is to understand. Whether you use a slideshow, document or infographic, white space is your friend. So are charts, tables and graphics. If the communications team loves an in-depth look at the data and long narrative conclusions, but your leadership only has two minutes to read the report, consider creating a summary, or even better, a one-page infographic ([check out this GAO template](https://www.WHATEVER/2014/03/14/customize-your-own-amazing-social-media-report-infographic/) and [webinar](https://www.youtube.com/watch?v=YqgKTgvARfM)) with the most relevant numbers for leadership. Some other ideas:
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/03/23/the-content-corner-building-a-content-strategy/
 date: 2015-03-23 9:45:24 -0400
 title: 'The Content Corner: Building a Content Strategy'
 summary: 'I recently read a disheartening statistic which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number'
@@ -14,7 +13,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Basketball-strategy-concept-Gajus-iStock-Thinkstock-184906023.jpg" alt="Basketball strategy concept" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Basketball-strategy-concept-Gajus-iStock-Thinkstock-184906023.jpg" alt="Basketball strategy concept" caption="" >}} 
 
 I recently read a [disheartening statistic](http://contentmarketinginstitute.com/wp-content/uploads/2014/10/2015_B2B_Research.pdf) which stated that only 32% of B2B organizations and 27% of B2C organizations had a documented content strategy. When you combine these results with the general assumption that the federal government lags behind in areas such as this (especially since content strategies have a marketing basis), then the number of federal agencies (large or small) that have a documented content strategy must be even smaller. But if you&#8217;ve read any of my [previous columns](https://www.WHATEVER/tag/the-content-corner/) then you know how important a content strategy can be in deciding what content to generate, when to publish it, and on which channels.
 

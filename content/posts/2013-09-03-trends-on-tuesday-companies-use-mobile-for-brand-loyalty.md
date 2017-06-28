@@ -1,8 +1,7 @@
 ---
-url: /2013/09/03/trends-on-tuesday-companies-use-mobile-for-brand-loyalty/
 date: 2013-09-03 9:56:06 -0400
 title: 'Trends on Tuesday: Companies Use Mobile for Brand Loyalty'
-summary: A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are using mobile primarily to increase customer loyalty or provide a more personalized experience for customers.
+summary: A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are using mobile primarily to increase customer loyalty or provide a more personalized experience for
 categories:
   - Mobile
 tag:
@@ -11,7 +10,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/episerver-big-opt-400x300.jpg" alt="Percentage of Company Mobile Transactions" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/episerver-big-opt.jpg)A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are [using mobile primarily to increase customer loyalty or provide a more personalized experience for customers](http://www.mobilecommercedaily.com/retailers-primarily-use-mobile-to-drive-loyalty-not-transactions-report). In comparison, only 8 percent said they use their mobile strategy for sales.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/episerver-big-opt-400x300.jpg" alt="Percentage of Company Mobile Transactions" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/episerver-big-opt.jpg)A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are [using mobile primarily to increase customer loyalty or provide a more personalized experience for customers](http://www.mobilecommercedaily.com/retailers-primarily-use-mobile-to-drive-loyalty-not-transactions-report). In comparison, only 8 percent said they use their mobile strategy for sales.
 
 It&#8217;s speculated that the brand strategy was used when organizations felt they could not beat other companies with lower prices on products. As the infographic illustrates, mobile transactions generally account for less than 20% of the transactions completed.
 

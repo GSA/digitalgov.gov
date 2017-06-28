@@ -1,8 +1,7 @@
 ---
-url: /2015/03/10/busting-myths-and-building-partnerships-national-drug-facts-week/
 date: 2015-03-10 11:10:21 -0400
 title: 'Busting Myths and Building Partnerships: National Drug Facts Week'
-summary: ' Myth-busting isn&rsquo;t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation. National Drug Facts Week (NDFW) is a health awareness week for teenagers, with the goal of debunking myths'
+summary: ' Myth-busting isn&rsquo;t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation. National Drug Facts Week (NDFW) is a health awareness week for teenagers, with the goal of debunking'
 authors:
   - awichman
 categories:
@@ -16,7 +15,7 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-383-NIH-NIDA-NDFW-2015-logo.jpg" alt="National Drug Facts Week (NDFW) logo for 2015." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-383-NIH-NIDA-NDFW-2015-logo.jpg" alt="National Drug Facts Week (NDFW) logo for 2015." >}}
 
 Myth-busting isn’t just for television. And through a multi-faceted, tech-savvy campaign based on strategic partnerships, one federal office has found a winning strategy for combating misinformation.
 
@@ -34,13 +33,13 @@ During the event, moderators direct questions to specific scientists and science
 
 A feed of Chat Day was available to interested participants who could not be a part of the chat. Smith also worked with a team to provide content via NIDA’s Twitter, [@NIDAnews](https://twitter.com/NIDAnews). Common questions were put into a template with stock photos. Each question was written as a tweet and the answer was given as an image, in order to incorporate extra text. The NIDA team also posted a [NDFW video on Vine](https://vine.co/u/1146557546770108416) featuring the NIDA Director, Dr. Nora Volkow, on Chat Day.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet.jpg" alt="574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet.jpg" alt="574-x-503-NIH-NIDA-NDFW-2015-NIDAnews-Tweet" >}}
 
 Brian Marquis, Public Liaison Officer for NIDA, said that the organizing team limits registration to approximately 130 schools, due to demand. On average, 50 to 60% of the registered schools log on, and this year, 72 schools participated. NIDA aims to answer 30% of the teens’ questions.
 
 “The first year we did the chat, in 2007, we opened it up to everyone, and it was overwhelming because we received 36,000 questions in a ten hour period,” said Marquis. “We went back to the drawing board and that’s where we got the number of 130. We don’t get representation from every state, but it was between 25 to 30 states this year. We’ve even had some international schools in the past. This year, we received 8,000 questions, and scientists were able to answer 2,500 of them during the ten hour chat.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day.jpg" alt="600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day.jpg" alt="600-x-448-NIH-NIDA-NDFW-Jan-30th-2015-norav\_chat-day" >}}
 
 ## Delivering Content Through Interactive Quizzes
 

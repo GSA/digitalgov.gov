@@ -1,12 +1,11 @@
 ---
-url: /2013/04/26/how-to-do-usability-testing-with-kids/
 date: 2013-04-26 5:02:56 -0400
 title: How to Do Usability Testing with Kids
-summary: ' What do kids know about Web design? As we found out, quite a lot. Recently our DigitalGov User Experience Program teamed up with the Kids.gov team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office, made'
+summary: ' What do kids know about Web design? As we found out, quite a lot. Recently our DigitalGov User Experience Program teamed up with the Kids.gov team to get some big time feedback from some pint-sized testers in a hallway test. We tested with almost 20 kids ages 6 to 14 at our GSA office,'
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -17,7 +16,7 @@ tag:
   - UX
 ---
 
-{% img="https://www.WHATEVER/files/2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" %}
+{{< legacy-img src="https://www.WHATEVER/files/2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}
 
 What do kids know about Web design? As we found out, quite a lot.
 

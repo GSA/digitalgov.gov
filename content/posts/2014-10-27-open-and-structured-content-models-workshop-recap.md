@@ -1,11 +1,10 @@
 ---
-url: /2014/10/27/open-and-structured-content-models-workshop-recap/
 date: 2014-10-27 2:24:44 -0400
 title: Open and Structured Content Models Workshop Recap
-summary: ' People consume government information in a variety of ways: through agency websites, of course, but increasingly through social media, search engines, and mobile apps, whether developed by agencies or third parties. To make sure the information is available seamlessly, accurately, and consistently from one setting to another, more'
+summary: ' People consume government information in a variety of ways: through agency websites, of course, but increasingly through social media, search engines, and mobile apps, whether developed by agencies or third parties. To make sure the information is available seamlessly, accurately, and consistently from one setting to another,'
 authors:
-  - jparcell
   - hannah-gladfelter-rubin
+  - jparcell
 categories:
   - Mobile
   - Monthly Theme
@@ -25,7 +24,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 People consume government information in a variety of ways: through agency websites, of course, but increasingly through social media, search engines, and mobile apps, whether developed by agencies or third parties.
 

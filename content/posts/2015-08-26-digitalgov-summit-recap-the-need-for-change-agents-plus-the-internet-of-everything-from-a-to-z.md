@@ -1,8 +1,7 @@
 ---
-url: /2015/08/26/digitalgov-summit-recap-the-need-for-change-agents-plus-the-internet-of-everything-from-a-to-z/
 date: 2015-08-26 10:00:11 -0400
 title: 'DigitalGov Summit Recap: The Need for Change Agents, plus the Internet of Everything, from A to Z'
-summary: ' The Internet of Things is already here. How will we prepare for the Internet of Everything? David Bray, Chief Information Officer at the Federal Communications Commission,'
+summary: ' The Internet of Things is already here. How will we prepare for the Internet of Everything? David Bray, Chief Information Officer at the Federal Communications'
 authors:
   - awichman
 categories:
@@ -15,7 +14,7 @@ tag:
   - Recaps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-337-Dr-David-Bray-CIO-FCC-2015-DG-Summit-IoT-A-to-Z-Open-Source-slide.jpg" alt="A slide from Dr. David Bray's DigitalGov's 2015 Citizen Services Summit presentation, "Going Exponential: Public Service and the Internet of Everything in 15 Minutes or Less."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-337-Dr-David-Bray-CIO-FCC-2015-DG-Summit-IoT-A-to-Z-Open-Source-slide.jpg" alt="A slide from Dr. David Bray's DigitalGov's 2015 Citizen Services Summit presentation, Going Exponential: Public Service and the Internet of Everything in 15 Minutes or Less." >}}
 
 The [Internet of Things](https://www.WHATEVER/2014/10/31/whats-happening-with-the-internet-of-things/) is already here. How will we prepare for the [Internet of Everything](https://www.WHATEVER/2015/02/26/the-internet-of-everything-small-business-opportunities/)? David Bray, Chief Information Officer at the Federal Communications Commission, and Eisenhower Fellow, spoke about the IoT, IoE, and the need for change agents during the [2015 DigitalGov Citizen Services Summit](https://summit.WHATEVER/).
 

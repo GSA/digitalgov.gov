@@ -1,5 +1,4 @@
 ---
-url: /2016/12/08/the-smithsonians-ipop-exhibition-framework-lessons-for-a-human-centered-content-approach/
 date: 2016-12-08 12:30:40 -0400
 title: 'The Smithsonian’s IPOP Exhibition Framework: Lessons for a Human-Centered Content Approach'
 summary: 'One of the great challenges in designing a product &mdash; digital or otherwise &mdash; is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you&rsquo;ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card'
@@ -37,7 +36,7 @@ The IPOP model was created to foster greater self-awareness among exhibit creato
 
 IPOP has proven effective at the Smithsonian, with exhibitions employing the model earning consistently higher visitor satisfaction scores. How then can IPOP be translated to the world of digital?
 
-{% img="https://www.WHATEVER/files/2016/12/600-x-270-01\_skin\_and\_bones\_swordfish-app.jpg" alt="A user checks out the Skin and Bones app to get more information about a display at the museum." %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/12/600-x-270-01\_skin\_and\_bones\_swordfish-app.jpg" alt="A user checks out the Skin and Bones app to get more information about a display at the museum." >}}
 
 The [**_Skin & Bones_ app**](http://naturalhistory.si.edu/exhibits/bone-hall/) at the [Smithsonian’s National Museum of Natural History](https://naturalhistory.si.edu/) (NMNH) is the first digital product to use IPOP. It provides a case study on how the IPOP model can guide a content strategy. The app was created to enliven the museum’s Bone Hall_,_ an aged exhibition of nearly 300 vertebrate skeletons. Installed in the 1960s, Bone Hall is a glimpse into the highly didactic museum practices of old, and a showcase of retired fonts and faded colors.
 
@@ -65,19 +64,19 @@ To better illustrate how IPOP was implemented, we can look at the content for th
   
     A video on how vampire bats feed on blood and share their take with fellow vampire bats.
 
-{% img="https://www.WHATEVER/files/2016/12/600-x-450-02\_skin\_and\_bones\_vampire_bat.jpg" alt="Skin and Bones: Vampire bat, Office of Education & Outreach, Smithsonian’s National Museum of Natural History." %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/12/600-x-450-02\_skin\_and\_bones\_vampire_bat.jpg" alt="Skin and Bones: Vampire bat, Office of Education & Outreach, Smithsonian’s National Museum of Natural History." >}}
 
 For the _Skin & Bones_ team, led by Robert Costello, National Outreach Program Manager at NMNH, and Diana Marques, scientific Illustrator, animator, and Smithsonian fellow, IPOP was a welcome tool to organize and focus their content. With almost 300 skeletons in Bone Hall to choose from, IPOP provided valuable criteria for selection: the team picked 13 specimens offering the best stories across dimensions. The _physical_ dimension proved the greatest challenge, and led to creative approaches. For the common vampire bat, it is fulfilled by a listening activity. For the eastern diamondback rattlesnake, users shake their device to imitate the rattle.
 
 Importantly, IPOP is only one element of a human-centered design approach. The _Skin & Bones_ team employed UX methods of prototyping, storyboarding and user testing to refine the interface, navigation, and content elements. A central challenge was creating an effective system of guiding visitors to the physical locations of the 13 specimens featured in the app. Testing paper prototypes with visitors in Bone Hall led to important improvements to the app’s map and display case icons. The team also assessed the impact of AR on the user experience, by testing the app with and without AR.
 
-{% img="https://www.WHATEVER/files/2016/12/600-x-450-03\_skin\_and\_bones\_prototype.jpg" alt="An early paper prototype of the map interface." %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/12/600-x-450-03\_skin\_and\_bones\_prototype.jpg" alt="An early paper prototype of the map interface." >}}
 
 Robert Costello and Diana Marques credit IPOP for articulating a balanced content strategy. “IPOP almost gives you a formula as an exhibition designer. For us, that was definitely it’s main value. It forced us to consider different stories, and allowed for a much more diverse product.” said Marques. As part of her upcoming PhD dissertation, Marques is combing through analytics, user interviews, and in-depth observational studies to measure the efficacy of AR on visitor engagement. While it is difficult to assess the impact of IPOP in the data, she says IPOP undoubtedly provided for a more engaging experience.
 
 Of course, creating broad and diverse content is nothing new. Designers of rich experiences do it by design, or sometimes by sheer intuition. Andrew Pekarik, the driving force behind IPOP, likes to use the Patagonia catalog he receives monthly as an example. The catalog provides multiple points of attraction, including compelling visuals, personal stories, and longer-form articles about sustainability and the environment. For the _physical_ dimension, differing textures of paper provide a subtle sensory experience. Says Pekarik, “Once you have IPOP glasses on — the IPOP perspective — you start to see it everywhere. It’s not that revolutionary; it’s calling attention to a balanced approach.”
 
-{% img="https://www.WHATEVER/files/2016/12/600-x-450-04\_skin\_and\_bones\_splash_screen.jpg" alt="Skin and Bones: Splash Screen, Office of Education & Outreach, Smithsonian’s National Museum of Natural History" %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/12/600-x-450-04\_skin\_and\_bones\_splash_screen.jpg" alt="Skin and Bones: Splash Screen, Office of Education & Outreach, Smithsonian’s National Museum of Natural History" >}}
 
  
 

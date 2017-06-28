@@ -1,11 +1,10 @@
 ---
-url: /2015/03/19/turning-government-data-into-better-public-service/
 date: 2015-03-19 10:32:42 -0400
 title: Turning Government Data into Better Public Service
 summary: Every day, millions of people use their laptops, phones, and tablets to check the status of their tax refund, get the latest forecast from the National Weather Service, book a campsite at one of our national parks, and much more. There were more than 1.3 billion visits to websites across the federal government in just
 authors:
-  - tlowden
   - leah-bannon
+  - tlowden
   - ryan-panchadsaram
   - charles-worthington
 categories:
@@ -22,7 +21,7 @@ Every day, millions of people use their laptops, phones, and tablets to check th
 
 Today, during Sunshine Week when we celebrate openness and transparency in government, we are pleased to release the <a href="https://analytics.usa.gov/" target="_blank">Digital Analytics Dashboard</a>, a new window into the way people access the government online. For the first time, you can see how many people are using a federal government website, which pages are most popular, and which devices, browsers, and operating systems people are using. We’ll use the data from the <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program</a> to focus our <a href="http://www.whitehouse.gov/usds" target="_blank">digital service teams</a> on the services that matter most to the American people, and analyze how much progress we are making. The Dashboard will help government agencies understand how people find, access, and use government services online to better serve the public—all while protecting privacy. The program does not track individuals. It anonymizes the IP addresses of all visitors and then uses the resulting information in the aggregate.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-279-DAP-dashboard-Analytics-USA-gov.jpg" alt="A screen capture of a portion of the Analytics dot U S A dot gov dashboard shows a tally of 140,868 people viewing government websites at that moment." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-279-DAP-dashboard-Analytics-USA-gov.jpg" alt="A screen capture of a portion of the Analytics dot U S A dot gov dashboard shows a tally of 140,868 people viewing government websites at that moment." >}}
 
 Here’s what we&#8217;ve already learned from the data:
 

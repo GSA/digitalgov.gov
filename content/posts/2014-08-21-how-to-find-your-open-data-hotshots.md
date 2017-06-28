@@ -1,5 +1,4 @@
 ---
-url: /2014/08/21/how-to-find-your-open-data-hotshots/
 date: 2014-08-21 11:00:30 -0400
 title: How to Find Your Open Data Hotshots
 summary: 'How can you find the top 5 users of your open data? We were recently asked this question on the Open Data listserv, and while this information can be a good measure of success for open data programs, we also figured some of the answers shared would be of interest to the broader community. This blog'
@@ -23,7 +22,7 @@ tag:
   - United States Census Bureau
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg" alt="A U.S. Air Force pilot documents an F-15E Strike Eagle aircraft during a training mission over North Carolina on December 17, 2010." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg" alt="A U.S. Air Force pilot documents an F-15E Strike Eagle aircraft during a training mission over North Carolina on December 17, 2010." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/featured-301-x-212-December-17-2010-US-Air-Force-pilot-documents-an-F-15E-Strike-Eagle-aircraft-during-a-training-mission-over-North-Carolina-Stocktrek-Images-Stocktrek-Images-Thinkstock.jpg) 
 
 How can you find the top 5 users of your open data?
 

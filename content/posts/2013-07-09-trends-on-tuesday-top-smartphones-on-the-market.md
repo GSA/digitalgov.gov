@@ -1,8 +1,7 @@
 ---
-url: /2013/07/09/trends-on-tuesday-top-smartphones-on-the-market/
 date: 2013-07-09 9:09:27 -0400
 title: 'Trends on Tuesday: Top Smartphones on the Market'
-summary: 'ComScore recently released key trends in the United States&#8217; smartphone industry for three months (February-May) with Apple ranked as the top smartphone manufacturer and Android as the top smartphone platform. During the three months, 141 million people owned smartphones. Top Smartphone Original Equipment Manufacturers (OEMs)'
+summary: 'ComScore recently released key trends in the United States&#8217; smartphone industry for three months (February-May) with Apple ranked as the top smartphone manufacturer and Android as the top smartphone platform. During the three months, 141 million people owned smartphones. Top Smartphone Original Equipment Manufacturers'
 authors:
   - rachel-hurley
 categories:
@@ -12,7 +11,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-450x300.jpg" alt="Display of different mobile devices including blackberry, iphone, android, iPad, Android tablet" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile.jpg)[ComScore](http://www.comscore.com/Insights/Press_Releases/2013/6/comScore_Reports_May_2013_U.S._Smartphone_Subscriber_Market_Share) recently released key trends in the United States&#8217; smartphone industry for three months (February-May) with Apple ranked as the top smartphone manufacturer and Android as the top smartphone platform. During the three months, 141 million people owned smartphones.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-450x300.jpg" alt="Display of different mobile devices including blackberry, iphone, android, iPad, Android tablet" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile.jpg)[ComScore](http://www.comscore.com/Insights/Press_Releases/2013/6/comScore_Reports_May_2013_U.S._Smartphone_Subscriber_Market_Share) recently released key trends in the United States&#8217; smartphone industry for three months (February-May) with Apple ranked as the top smartphone manufacturer and Android as the top smartphone platform. During the three months, 141 million people owned smartphones.
 
 Top Smartphone Original Equipment Manufacturers (OEMs)
 

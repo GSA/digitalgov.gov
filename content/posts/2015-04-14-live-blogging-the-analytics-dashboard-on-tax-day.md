@@ -1,5 +1,4 @@
 ---
-url: /2015/04/14/live-blogging-the-analytics-dashboard-on-tax-day/
 date: 2015-04-14 3:00:08 -0400
 title: 'Updated: Live Blogging the Analytics Dashboard on #TaxDay'
 summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3:00 pm when 194,301 people were on government sites. We&#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We&rsquo;re talking about YOU, NASA astronomy picture of the day and that wonderful'
@@ -159,7 +158,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 _-Ashley Wichman, DigitalGov Team_
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
 
 ## 5:00 pm Update
 
@@ -298,7 +297,7 @@ Number of IRS pages that are in the Top 20 pages: **11**
 
 _-Tim Lowden, Analyst on the Digital Analytics Program_
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." >}}
 
 ## 9:00 am Update
 

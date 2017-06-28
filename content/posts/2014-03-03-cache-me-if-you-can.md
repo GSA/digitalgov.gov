@@ -1,8 +1,7 @@
 ---
-url: /2014/03/03/cache-me-if-you-can/
 date: 2014-03-03 8:47:36 -0400
 title: 'DigitalGov Search: Cache Me If You Can'
-summary: 'Slowness Hurts Web Pages Have you ever been frustrated when visiting a Web page that doesn&#8217;t load quickly? Have you ever left a slow Web page before it finished loading? You&#8217;re not alone. Several recent studies have quantified customers&#8217; frustration with slow Web pages. Customers now expect results in the blink'
+summary: 'Slowness Hurts Web Pages Have you ever been frustrated when visiting a Web page that doesn&#8217;t load quickly? Have you ever left a slow Web page before it finished loading? You&#8217;re not alone. Several recent studies have quantified customers&#8217; frustration with slow Web pages. Customers now expect results in the'
 authors:
   - ammie-farraj-feijoo
 categories:
@@ -15,7 +14,7 @@ tag:
   - GitHub
 ---
 
-## Slowness Hurts Web Pages[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png" alt="speed dial" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png)
+## Slowness Hurts Web Pages[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png" alt="speed dial" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png)
 
 Have you ever been frustrated when visiting a Web page that doesn&#8217;t load quickly? Have you ever left a slow Web page before it finished loading? You&#8217;re not alone.
 
@@ -42,7 +41,7 @@ Leveraging some of Github&#8217;s best practices, we succeeded in delivering our
 
 Over the past three years, we&#8217;ve dug in and improved our response time even more. We now deliver our results in under 380 milliseconds, on average.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/serp\_reponse\_times_600x195.png" alt="Graph of app response times" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/serp\_reponse\_times_600x195.png" alt="Graph of app response times" >}}
 
 We already had an architecture optimized for speed. So, how have we sped it up by 320 milliseconds?
 

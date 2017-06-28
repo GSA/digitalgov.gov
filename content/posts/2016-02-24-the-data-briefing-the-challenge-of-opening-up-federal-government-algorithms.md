@@ -1,5 +1,4 @@
 ---
-url: /2016/02/24/the-data-briefing-the-challenge-of-opening-up-federal-government-algorithms/
 date: 2016-02-24 10:00:39 -0400
 title: 'The Data Briefing: The Challenge of Opening up Federal Government Algorithms'
 summary: Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using
@@ -16,7 +15,7 @@ tag:
   - The Data Briefing
 ---
 
-Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using an algorithm: A sophisticated algorithm that uses large amounts of data to make hundreds (or thousands) of decisions in milliseconds. Algorithms control the movement of trillions of dollars, determine the flow of goods throughout the world and whether people have the credit rating to buy a home. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-World-map-technology-phloxii-iStock-Thinkstock-450731415.jpg" alt="World map technology" %} 
+Algorithms are becoming more important as the amount of data grows, and the complexity of government and business processes grows. Put simply, an algorithm is just a set of steps for solving a problem. If you shop online, use an online social network or a mobile app to plan your route, then you are using an algorithm: A sophisticated algorithm that uses large amounts of data to make hundreds (or thousands) of decisions in milliseconds. Algorithms control the movement of trillions of dollars, determine the flow of goods throughout the world and whether people have the credit rating to buy a home. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-World-map-technology-phloxii-iStock-Thinkstock-450731415.jpg" alt="World map technology" caption="" >}} 
 
 Because of the impact of algorithms in the world, the federal government has two challenges concerning algorithms. The first challenge is how businesses and nonprofits use federal government open data in third-party algorithms. For example, high-speed trading algorithms use federal government economic data to execute trades in fractions of a second. An out-of-control algorithm could cause major economic damage in the time you took to read this sentence. Other algorithms can be used to evade government regulations as a recent automaker did in circumventing emissions controls.
 

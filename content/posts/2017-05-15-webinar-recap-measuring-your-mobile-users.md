@@ -1,5 +1,4 @@
 ---
-url: /2017/05/15/webinar-recap-measuring-your-mobile-users/
 date: 2017-05-15 11:00:23 -0400
 title: 'Webinar Recap: Measuring Your Mobile Users'
 summary: 'The Digital Analytics Program (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, &ldquo;Policies for Federal Agency Public Websites and Digital Services,&rdquo; which requires federal websites to incorporate the DAP&rsquo;s JavaScript code for website analytics. The DAP Learning Series: Measuring Your'
@@ -19,7 +18,7 @@ tag:
 
 The [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
 
-The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {% img="https://www.WHATEVER/files/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" %} 
+The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {{< legacy-img src="https://www.WHATEVER/files/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}} 
 
 ## Why Mobile Analytics?
 
@@ -46,7 +45,7 @@ The webinar reviewed some important questions to ask as you’re considering wha
 
 DAP believes that the best way to think about mobile reporting is through a three-screen view of desktop, smartphone, and tablet traffic. The [webinar](https://www.youtube.com/watch?v=DgSfm1wZvvE) featured a demo using the mobile analytics data of the National Science Foundation (NSF) that went through mobile segments in basic and custom reports.
 
-{% img="https://www.WHATEVER/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" alt="Screen capture from webinar of a slide titled, "Demo: how to apply segments in basic reports." " %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" alt="Screen capture from webinar of a slide titled, Demo: how to apply segments in basic reports. " >}}
 
 ## How to get help and sign up for DAP (free!)
 

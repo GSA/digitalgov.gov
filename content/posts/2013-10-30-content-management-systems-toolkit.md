@@ -1,5 +1,4 @@
 ---
-url: /2013/10/30/content-management-systems-toolkit/
 date: 2013-10-30 8:45:15 -0400
 title: Content Management Systems Toolkit
 summary: 'Improving the federal government&rsquo;s ability to deliver digital information anytime, anywhere, on any device&mdash;via open content&mdash;is a key goal of the Digital Government Strategy. A content management system (CMS) can help your agency move to an open content model, making it easier for people to find, share, use, and re-use your information. The key steps'
@@ -65,7 +64,7 @@ Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated,
 
 Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy](https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/ "How to Create Open, Structured Content").
 
-{% img="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{{< legacy-img src="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 Once you determine the data structure for your content, you can configure your CMS so it’s easy to create and tag content accordingly. As an example, as part of EPA’s migration to a new CMS, they identified their content structure and can now tag each piece of content with metadata as it’s created in the new CMS.
 

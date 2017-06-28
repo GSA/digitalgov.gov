@@ -1,8 +1,7 @@
 ---
-url: /2017/04/24/federal-pilot-to-integrate-public-services-into-intelligent-personal-assistants/
 date: 2017-04-24 11:00:33 -0400
 title: Federal Pilot to Integrate Public Services Into Intelligent Personal Assistants
-summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges. The U.S. General Services Administration&rsquo;s (GSA) Emerging'
+summary: 'The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day&mdash;and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges. The U.S. General Services Administration&rsquo;s (GSA)'
 authors:
   - jherman
 categories:
@@ -15,7 +14,7 @@ tag:
   - Artificial Intelligence for Citizen Services Community
   - communities
   - GSA
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - social media
   - SocialGov
@@ -26,7 +25,7 @@ tag:
 
 The demand for more automated, self-service access to United States public services, when and where citizens need them, grows each day—and so do advances in the consumer technologies like Intelligent Personal Assistants designed to meet those challenges.
 
-{% img="https://www.WHATEVER/files/2017/04/600-x-450-A-hand-holding-the-Amazon-Echo-Dot-Alexa.jpg" alt="A hand holding the Amazon Echo Dot (Alexa)." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/04/600-x-450-A-hand-holding-the-Amazon-Echo-Dot-Alexa.jpg" alt="A hand holding the Amazon Echo Dot (Alexa)." >}}
 
 The U.S. General Services Administration’s (GSA) Emerging Citizen Technology program, part of the Technology Transformation Service’s Innovation Portfolio, launched an open-sourced pilot to guide dozens of federal programs to make public service information available to consumer Intelligent Personal Assistants (IPAs) for the home and office, such as Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.
 

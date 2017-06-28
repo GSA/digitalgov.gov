@@ -1,5 +1,4 @@
 ---
-url: /2013/05/10/nih-twitter-chats-collaborations-multiply-successes/
 date: 2013-05-10 9:06:27 -0400
 title: 'NIH Twitter Chats: Collaborations Multiply Successes'
 summary: Twitter Chat discussing anxiety, stress, and complementary health practices December 18, 2012
@@ -12,7 +11,7 @@ tag:
   - Twitter
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NLM-twitter-chat-250x140.jpg" alt="People meeting around a conference table." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NLM-twitter-chat.jpg)In helping support the social media team at the National Center for Complementary and Alternative Medicine (NCCAM), part of the National Institutes of Health (NIH),  we have been hosting monthly [Twitter Chats](http://nccam.nih.gov/news/events/twitterchat?nav=gsa) since March 2012. The topics of these chats have covered a wide variety of complementary health approaches including:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NLM-twitter-chat-250x140.jpg" alt="People meeting around a conference table." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NLM-twitter-chat.jpg)In helping support the social media team at the National Center for Complementary and Alternative Medicine (NCCAM), part of the National Institutes of Health (NIH),  we have been hosting monthly [Twitter Chats](http://nccam.nih.gov/news/events/twitterchat?nav=gsa) since March 2012. The topics of these chats have covered a wide variety of complementary health approaches including:
 
   * Yoga
   * Meditation

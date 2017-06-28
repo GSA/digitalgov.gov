@@ -1,8 +1,7 @@
 ---
-url: /2014/03/27/national-weather-service-think-social-training/
 date: 2014-03-27 1:00:02 -0400
 title: 'National Weather Service: Think Social Training'
-summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were being'
+summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were'
 authors:
   - tim-brice
 categories:
@@ -14,7 +13,7 @@ tag:
   - YouTube
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png" alt="National Weather Service logo" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png)For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were being rolled the NWS did some basic training on how to use Facebook and Twitter, but it soon became clear that more in-depth training was needed to help NWS forecasters best use their new social media platforms.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png" alt="National Weather Service logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/National-Weather-Service-NWS-cloud-logo-250-x-247.png)For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were being rolled the NWS did some basic training on how to use Facebook and Twitter, but it soon became clear that more in-depth training was needed to help NWS forecasters best use their new social media platforms.
 
 The NWS Southern Region social media team took the lead and began to give monthly and, occasionally weekly social media training to all of the NWS field and regional offices. These presentations usually lasted an hour and ranged from broad topics like “Facebook Basic” and “How do you tweet”, to more niche presentations such as “How to run a Facebook photo contest” or “How to Handle Trolls and Negative Nellies.”
 

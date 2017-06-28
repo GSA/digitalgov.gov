@@ -1,11 +1,10 @@
 ---
-url: /2015/06/23/betting-on-e-mail-how-were-reaching-hispanics-via-their-inbox/
 date: 2015-06-23 11:30:58 -0400
 title: 'Betting on E-mail: How We&#8217;re Reaching Hispanics via Their Inbox'
 summary: Driving visitors to a destination means reaching your users where they are at. In 2005, as part of the greater USA.gov marketing strategy, GobiernoUSA.gov launched an email program. These communications initially took the form of short blurbs that directed people to important site content and promoted other government information hosted by various federal agencies. From
 authors:
-  - lmartinez
   - victoria-wales
+  - lmartinez
 categories:
   - Content
 tag:
@@ -14,7 +13,7 @@ tag:
   - multilingual
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}} 
 
 Driving visitors to a destination means reaching your users where they are at.
 
@@ -39,9 +38,9 @@ Today, our strategy is a hybrid of promotional tactics:
 
 Below is an example of a “manual send” e-mail sent in late May about a national recall of Takata airbags that affected many automakers. Our call to action pointed our readers to check their VIN numbers to see if they were affected. Because the tool is in English, we gave a bit more context about what this number is. We also highlighted that these repairs are at no cost to the consumer by the auto manufacturers to ensure consumers wouldn’t be victims of scams.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/574-x-401-Gobierno-email-spanish.jpg" alt="An email campaign in Spanish, using the Gobierno U.S.A. dot gov logo header." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/574-x-401-Gobierno-email-spanish.jpg" alt="An email campaign in Spanish, using the Gobierno U.S.A. dot gov logo header." >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/574-x-371-Gobierno-email-english.jpg" alt="An email campaign in English, using the U.S.A. dot gov logo header." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/574-x-371-Gobierno-email-english.jpg" alt="An email campaign in English, using the U.S.A. dot gov logo header." >}}
 
 ## Experiment and Measure
 

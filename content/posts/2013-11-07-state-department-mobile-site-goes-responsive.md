@@ -1,8 +1,7 @@
 ---
-url: /2013/11/07/state-department-mobile-site-goes-responsive/
 date: 2013-11-07 12:04:34 -0400
 title: State Department Mobile Site Goes Responsive
-summary: The Department of State has updated their mobile website m.state.gov with
+summary: The Department of State has updated their mobile website m.state.gov
 categories:
   - Design
   - Mobile
@@ -12,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/State-Mobile-Site.png" alt="Smartphone screen shot showing the home page of the Department of State's mobile site with "Top Stories and Other news. It shows a photo of Secretary Kerry and the prime minister of Israel, then the first paragraph of the story below it." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/State-Mobile-Site.png)The [Department of State](http://www.state.gov/) has updated their mobile website [m.state.gov](http://m.state.gov) with responsive design.  The site auto-detects mobile devices and displays the State mobile site by default.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/State-Mobile-Site.png" alt="Smartphone screen shot showing the home page of the Department of State's mobile site with Top Stories and Other news. It shows a photo of Secretary Kerry and the prime minister of Israel, then the first paragraph of the story below it." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/State-Mobile-Site.png)The [Department of State](http://www.state.gov/) has updated their mobile website [m.state.gov](http://m.state.gov) with responsive design.  The site auto-detects mobile devices and displays the State mobile site by default.
 
 State&#8217;s mobile site provides the latest foreign policy information from the State Department. Included are recent stories from the Secretary’s travels, the daily press briefing, country fact sheets, human rights reports, and more.
 

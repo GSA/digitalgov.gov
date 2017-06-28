@@ -1,5 +1,4 @@
 ---
-url: /2016/08/09/the-peoples-code/
 date: 2016-08-09 1:00:47 -0400
 title: 'The People&#8217;s Code'
 summary: 'Summary: Today, we&rsquo;re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government. &#8220;If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order'
@@ -10,7 +9,7 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - code
   - innovation
@@ -33,7 +32,7 @@ tag:
   <p>
     <b>President Barack Obama, March 11, 2016</b>
   </p>
-</blockquote> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" %} 
+</blockquote> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
 
 The President is committed to a 21st Century digital government – one that is designed to improve the lives of Americans and spur innovation with the best that technology has to offer. From helping students and families make more informed decisions about [college selection](https://collegescorecard.ed.gov/) to modernizing our country’s immigration system to opening up thousands of data sets and collections for Americans to leverage, this work has reimagined how government services and resources should be provided to the public.
 

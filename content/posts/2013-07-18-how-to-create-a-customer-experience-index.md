@@ -1,8 +1,7 @@
 ---
-url: /2013/07/18/how-to-create-a-customer-experience-index/
 date: 2013-07-18 7:53:02 -0400
 title: How to Create a Customer Experience Index
-summary: 'In my last post I talked about how we&rsquo;re kicking off our Customer Experience program in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement'
+summary: 'In my last post I talked about how we&rsquo;re kicking off our Customer Experience program in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee'
 authors:
   - martha-dorris
 categories:
@@ -12,7 +11,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg" alt="image of notebook with charts and a pen" %}</a>In my last post I talked about how we’re <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/">kicking off our Customer Experience program</a> in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement and telling our customer experience stories, to events highlighting the plan moving forward.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/index-chart-notebook.jpg" alt="image of notebook with charts and a pen" >}}</a>In my last post I talked about how we’re <a href="https://www.WHATEVER/2013/07/10/kicking-off-our-customer-experience-program-2/">kicking off our Customer Experience program</a> in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee engagement and telling our customer experience stories, to events highlighting the plan moving forward.
 </p>
 
 While we have been working diligently on employee engagement issues and talking about customer experience for a while, devising measurable outcomes to drive behavior change and new processes is our approach.  In this post I’ll share how we’re creating the index that will measure customer service across our office.

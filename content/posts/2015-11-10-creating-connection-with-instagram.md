@@ -1,8 +1,7 @@
 ---
-url: /2015/11/10/creating-connection-with-instagram/
 date: 2015-11-10 1:00:23 -0400
 title: Creating Connection with Instagram
-summary: 'I&rsquo;ve been thinking a lot about Instagram lately. It&rsquo;s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it&rsquo;s pretty big with lots of different age groups, genders, and ethnicities; and it&rsquo;s growing every day. Full disclosure: I use Instagram in my personal life.'
+summary: 'I&rsquo;ve been thinking a lot about Instagram lately. It&rsquo;s pretty big, especially among the younger populations (AKA. Millennials). Actually, from what I can tell, it&rsquo;s pretty big with lots of different age groups, genders, and ethnicities; and it&rsquo;s growing every day. Full disclosure: I use Instagram in my personal'
 authors:
   - alyson-olander
 categories:
@@ -17,7 +16,7 @@ tag:
   - U.S. Department of the Interior
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" caption="" >}} 
 
 I’ve been thinking a lot about Instagram lately.
 
@@ -25,7 +24,7 @@ It’s pretty big, especially among the younger populations (AKA. Millennials).
 
 Actually, from what I can tell, it’s pretty big with lots of different age groups, genders, and ethnicities; and it’s growing every day.
 
-[{% img="http://www.pewinternet.org/files/2015/01/PI\_2015-01-09\_social-media-new_02.png" alt="Instagram users" %}](http://www.pewinternet.org/2015/01/09/social-media-update-2014/pi_2015-01-09_social-media-new_02/)
+[{{< legacy-img src="http://www.pewinternet.org/files/2015/01/PI\_2015-01-09\_social-media-new_02.png" alt="Instagram users" >}}](http://www.pewinternet.org/2015/01/09/social-media-update-2014/pi_2015-01-09_social-media-new_02/)
 
 Full disclosure: I use Instagram in my personal life. I love it. Especially now that our phone cameras have improved beyond what most people can manage with a DSLR. Especially since micro-blogging took hold.
 

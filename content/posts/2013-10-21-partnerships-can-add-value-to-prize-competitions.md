@@ -1,5 +1,4 @@
 ---
-url: /2013/10/21/partnerships-can-add-value-to-prize-competitions/
 date: 2013-10-21 10:27:05 -0400
 title: Partnerships Can Add Value to Prize Competitions
 summary: 'The right partner can be the key to a successful challenge competition. If you&#8217;re planning a challenge for your agency, you&#8217;ve probably had to ask: &#8220;Do we have the tools and capabilities to pull off this challenge on our own?&#8221; Why we form partnerships Often times, the answer is, &#8220;no.&#8221; But that shouldn&#8217;t stop you from'
@@ -24,7 +23,7 @@ The right partner can be the key to a successful challenge competition.
 
 **Why we form partnerships**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-167-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966\_6a6e425825\_o.jpg" alt="Daniel Fleming, Puzzle Pieces, CC-BY-SA-2.0" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-400-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966_6a6e425825_o.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-167-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966\_6a6e425825\_o.jpg" alt="Daniel Fleming, Puzzle Pieces, CC-BY-SA-2.0" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-400-Daniel-Fleming-Puzzle-Pieces-CC-BY-SA-2-0-5368461966_6a6e425825_o.jpg) 
 
 Often times, the answer is, &#8220;no.&#8221; But that shouldn&#8217;t stop you from pursuing solutions to your problems. Challenge managers weighed-in on partnerships at a recent community meeting, and here are a few of their tips on how agencies partner for success.
 

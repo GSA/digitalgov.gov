@@ -1,5 +1,4 @@
 ---
-url: /2014/12/12/going-behind-the-blog-with-the-law-library-of-congress/
 date: 2014-12-12 11:35:14 -0400
 title: 'Going &#8220;Behind the Blog&#8221; with the Law Library of Congress'
 summary: 'Creative content can be found in all corners of the federal space. Recently, the Law Library of Congress blog, In Custodia Legis, and the United States Courts blog, The Third Branch News, were named to the ABA Journal &ldquo;Blawg 100&rdquo; out of 4,000 legal blogs eligible for selection. We wanted insight on their blogging success, so we spoke'
@@ -14,7 +13,7 @@ tag:
   - social media
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 
 
 Creative content can be found in all corners of the federal space. Recently, the Law Library of Congress blog, [In Custodia Legis](http://blogs.gov.gov/law/), and the United States Courts blog, [The Third Branch News](http://news.uscourts.gov/), were named to the ABA Journal “[Blawg 100](http://www.abajournal.com/blawg100)” out of 4,000 legal blogs eligible for selection.
 

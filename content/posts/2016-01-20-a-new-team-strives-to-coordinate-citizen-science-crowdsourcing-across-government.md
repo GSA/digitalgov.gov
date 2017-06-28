@@ -1,12 +1,11 @@
 ---
-url: /2016/01/20/a-new-team-strives-to-coordinate-citizen-science-crowdsourcing-across-government/
 date: 2016-01-20 10:00:29 -0400
 title: A New Team Strives to Coordinate Citizen Science, Crowdsourcing Across Government
 summary: A government can accomplish nothing without the ingenuity of its people. This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative. A growing number of agencies are testing the applications of crowdsourcing and citizen science to accomplish more, and in many cases, do things faster
 authors:
   - eric-beidel
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice
@@ -16,7 +15,7 @@ tag:
   - OSTP
 ---
 
-A government can accomplish nothing without the ingenuity of its people. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
+A government can accomplish nothing without the ingenuity of its people. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}} 
 
 This is why the federal government is committed to using online tools to make its problem-solving more open and collaborative.
 
@@ -24,7 +23,7 @@ A growing number of agencies are testing the applications of crowdsourcing and c
 
 Case in point: the National Archives and Records Administration’s [Citizen Archivist Dashboard](http://www.archives.gov/citizen-archivist/), which coordinates tagging and transcribing of historical records and documents. In one show of its effectiveness, more than 170,000 volunteers indexed 132 million names from the 1940 census records in just five months.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Citizen-Archivist-Dashboard-by-National-Archives.jpg" alt="Screen capture of the Citizen Archivist Dashboard homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Citizen-Archivist-Dashboard-by-National-Archives.jpg" alt="Screen capture of the Citizen Archivist Dashboard homepage." >}}
 
 Now, the White House, U.S. General Services Administration (GSA) and partners are undertaking a series of initiatives to help manage the momentum of projects like these across the federal government.
 
@@ -46,7 +45,7 @@ Recently, OSTP and GSA unveiled a [toolkit](https://crowdsourcing-toolkit.sites.
 
 The toolkit, however, requires agency practitioners to offer their learnings, examples and other updates to remain relevant as the crowdsourcing and citizen science initiative spreads across government.
 
-## Enter the Agency Coordinator {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" %} 
+## Enter the Agency Coordinator {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
 Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/), to help track and organize the growing number of crowdsourcing projects.
 

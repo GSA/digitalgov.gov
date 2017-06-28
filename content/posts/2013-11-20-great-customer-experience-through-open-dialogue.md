@@ -1,8 +1,7 @@
 ---
-url: /2013/11/20/great-customer-experience-through-open-dialogue/
 date: 2013-11-20 9:19:59 -0400
 title: Great Customer Experience through Open Dialogue
-summary: 'While we think about the audience, we don&rsquo;t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers&rsquo; needs&#8211;or'
+summary: 'While we think about the audience, we don&rsquo;t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers&rsquo;'
 authors:
   - martha-dorris
 categories:
@@ -15,7 +14,7 @@ tag:
   - user experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/CX-is.jpg" alt="arms holding a sign that says "the customer experience is..."" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/CX-is.jpg)While we think about the audience, we don’t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers’ needs&#8211;or worse&#8211;may not consider who the potential customers are.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/CX-is.jpg" alt="arms holding a sign that says the customer experience is..." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/CX-is.jpg)While we think about the audience, we don’t often map out the experience we want them to have when using our services. This is critical information for the design. In other cases, we may not have the data to analyze existing customers’ needs&#8211;or worse&#8211;may not consider who the potential customers are.
 
 > Making decisions on a limited customer base can lead to services p/s that don’t meet the overall needs.
 

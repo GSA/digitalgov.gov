@@ -1,5 +1,4 @@
 ---
-url: /2016/09/21/check-out-our-new-uscis-instagram-account/
 date: 2016-09-21 1:00:08 -0400
 title: Check Out Our New USCIS Instagram Account!
 summary: We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle @USCIS and @USCIS_ES (Spanish version) and will share photos, graphics and videos to highlight our vital
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -21,11 +20,11 @@ tag:
 
 We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle [@USCIS](https://www.instagram.com/uscis) and <span lang="es" title="Spanish"><a href="https://www.instagram.com/uscis_es">@USCIS_ES</a></span> (Spanish version) and will share photos, graphics and videos to highlight our vital work.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-450-screen-capture-of-USCIS-MeetUS-English-on-Instagram.jpg" alt="Screen capture of USCIS MeetUS English on Instagram." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-450-screen-capture-of-USCIS-MeetUS-English-on-Instagram.jpg" alt="Screen capture of USCIS MeetUS English on Instagram." >}}
 
 Our  Instagram handle joins our popular Facebook and Twitter accounts. Instagram differs from Facebook and Twitter by being visually focused with photos and minimal captions. Before the launch, our customers had already embraced Instagram, posting more than 10,000 #newUScitizen photos, which have become a major source of photos for our Facebook albums and Twitter collages. These great images capture the emotions of the immigrant experience and add color and warmth to the dialogue about our nation’s immigration system and the important work of our agency.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-USCIS-MeetUS-Instagram.jpg" alt="Six thumbnails of new U.S. citizens from the USCIS Instagram account." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-USCIS-MeetUS-Instagram.jpg" alt="Six thumbnails of new U.S. citizens from the USCIS Instagram account." >}}
 
 To garner attention for the new account and engage our audience at a meaningful time &#8211; [Constitution Day and Citizenship Day](https://www.uscis.gov/citizenship/teachers/constitution-day-and-citizenship-day) &#8211; we will immediately start a social media campaign on Instagram. Beginning on Sept. 16, we will post photos and captions using the hashtag #MeetUS. This campaign will feature photos of individual new citizens at naturalization ceremonies across the country with short captions quoting them about their American experience. The #MeetUS campaign will continue posting several stories a week to showcase how immigrants add to the strength and character of our nation.
 

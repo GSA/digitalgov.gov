@@ -1,8 +1,7 @@
 ---
-url: /2014/03/24/why-go-responsive-heres-what-feds-are-saying/
 date: 2014-03-24 2:04:51 -0400
 title: Why Go Responsive? Here’s What Feds Are Saying
-summary: ' Responsive Web design implementations in the federal government have members of the Mobile Gov Community of Practice asking what is responsive Web design and how do we do it? In February, the Mobile'
+summary: ' Responsive Web design implementations in the federal government have members of the Mobile Gov Community of Practice asking what is responsive Web design and how do we do it? In February, the'
 authors:
   - jparcell
 categories:
@@ -18,7 +17,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GSA-RWD-20140206-Why.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GSA-RWD-20140206-Why.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" >}}</a>
 </p>
 
 <p dir="ltr">

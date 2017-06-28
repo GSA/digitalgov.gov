@@ -1,11 +1,10 @@
 ---
-url: /2015/06/16/trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program/
 date: 2015-06-16 10:00:55 -0400
 title: 'Trends on Tuesday: Native App Lessons from the CrowdSource Mobile Testing Program'
 summary: 'The more you test, the more you know. We recently highlighted lessons learned from the CrowdSource Mobile Testing Program, discussed the mobile emulator dilemma that many agencies face, and today we&rsquo;re back with a few insights on native app testing. The Federal CrowdSource Mobile Testing Program yields a rich set of participant feedback that helps individual app'
 authors:
-  - david-fern
   - awichman
+  - david-fern
 categories:
   - Mobile
 tag:
@@ -19,7 +18,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
 
 The more you test, the more you know.
 

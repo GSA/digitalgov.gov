@@ -1,5 +1,4 @@
 ---
-url: /2015/01/13/trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal/
 date: 2015-01-13 12:02:04 -0400
 title: 'Trends On Tuesday: Responsive Web Design Implementation Happening Piecemeal'
 summary: 'Approximately 18% of websites have implemented Responsive Web Design, according to the audit of websites Guy Podjarny completed in November. That&#8217;s more than 7% growth since his previous audit in January 2014. That number may seem low with the popularity of Responsive Web Design and the preference of mobile websites from users, but implementing responsive Web'
@@ -17,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}} 
 
 Approximately 18% of websites have implemented [Responsive Web Design](https://www.WHATEVER/2012/07/11/aids-gov-responsive-design/ "AIDS.gov Responsive Design"), according to the audit of websites [Guy Podjarny completed](http://www.guypo.com/rwd-2014/) in November. That&#8217;s more than [7% growth since his previous audit](//www.WHATEVER/2014/09/09/trends-on-tuesday-are-only-11-of-websites-responsive/) in January 2014.
 

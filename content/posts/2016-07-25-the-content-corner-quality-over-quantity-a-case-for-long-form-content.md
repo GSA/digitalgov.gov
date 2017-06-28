@@ -1,5 +1,4 @@
 ---
-url: /2016/07/25/the-content-corner-quality-over-quantity-a-case-for-long-form-content/
 date: 2016-07-25 3:00:38 -0400
 title: 'The Content Corner: Quality Over Quantity—a Case for Long-Form Content'
 summary: 'Content can be categorized in many ways. While breaking down your website analytics, pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries. Let&#8217;s first define the two terms: Short &ndash; Content that is generally created quickly, and consumed just as fast; e.g., tweets,'
@@ -30,7 +29,7 @@ _Short – Content that is generally created quickly, and consumed just as fast;
 
 _Long – In-depth content designed to give a large amount of detail and info; e.g., e-books, white papers, and long blog post series._
 
-These days, we could probably most agree that short-form content makes up the majority of what is released. With the [average attention span](http://www.statisticbrain.com/attention-span-statistics/) of today’s media consumers continuing to decrease, developing [bite-sized content](http://www.business2community.com/infographics/create-bite-sized-content-infographic-01440378) is key for those of us striving to create the most valuable and useful content for our audience. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" %} 
+These days, we could probably most agree that short-form content makes up the majority of what is released. With the [average attention span](http://www.statisticbrain.com/attention-span-statistics/) of today’s media consumers continuing to decrease, developing [bite-sized content](http://www.business2community.com/infographics/create-bite-sized-content-infographic-01440378) is key for those of us striving to create the most valuable and useful content for our audience. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}} 
 
 But, according to a [Pew Research study](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/), readers access long-form articles at nearly the same rate as short ones.
 
@@ -52,12 +51,12 @@ __You may not have heard, but they [recently launched](http://www.theverge.com/2
 
 It has yet to be seen how successful the platform will be, but it’s certainly interesting that Snapchat has delved into long-form publishing.
 
-Apparently, long-form content [gets more shares/social engagement](https://www.act-on.com/blog/2016/07/long-form-content-vs-short-form-which-gets-the-results-you-want/) and it ranks better on search engines. And interestingly, &#8220;[cell-phone readers spend about twice as much time with long-form content as with short-form content](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/),&#8221; with most either later at night or early in the morning. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/313-x-492-Pew-Research-Center_U.S.-public-show-signs-of-engaging-with-long-form-articles-on-cellphones.jpg" alt="U.S. public show signs of engaging with long-form articles on cellphones." %} 
+Apparently, long-form content [gets more shares/social engagement](https://www.act-on.com/blog/2016/07/long-form-content-vs-short-form-which-gets-the-results-you-want/) and it ranks better on search engines. And interestingly, &#8220;[cell-phone readers spend about twice as much time with long-form content as with short-form content](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/),&#8221; with most either later at night or early in the morning. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/313-x-492-Pew-Research-Center_U.S.-public-show-signs-of-engaging-with-long-form-articles-on-cellphones.jpg" alt="U.S. public show signs of engaging with long-form articles on cellphones." caption="" >}} 
 
 According to the </span><span style="font-weight: 400"><a href="https://www.WHATEVER/services/dap/">Digital Analytics Program</a>&#8216;s</span> [<span style="font-weight: 400">Analytics Dashboard</span>](https://analytics.usa.gov)<span style="font-weight: 400">, which <a href="https://www.WHATEVER/2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/">provides insight into how the public interacts with specific agency websites</a> (currently, <a href="https://analytics.usa.gov/data/#explanation">more than 400 executive branch government domains across about 5,000 total websites</a>), visits to government websites on <a href="https://analytics.usa.gov/data/">mobile rivals that of tablet and desktop</a>, especially on the weekend. </p> 
 
 <p>
-  {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-315-Analytics.USA_.gov-Dashboard-Screen-Shot-2016-07-25-at-2.11.16-PM.jpg" alt="Screen capture of the top of the Data page of the Analytics.USA.gov Dashboard on July 25, 2016." %}
+  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-315-Analytics.USA_.gov-Dashboard-Screen-Shot-2016-07-25-at-2.11.16-PM.jpg" alt="Screen capture of the top of the Data page of the Analytics.USA.gov Dashboard on July 25, 2016." >}}
 </p>
 
 <p>

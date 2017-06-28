@@ -1,8 +1,7 @@
 ---
-url: /2015/10/26/nihdigital-summit-optimizing-digital-to-reach-patients-scientists-clinicians-and-the-public/
 date: 2015-10-26 1:00:14 -0400
 title: '#NIHDigital Summit: Optimizing Digital to Reach Patients, Scientists, Clinicians and the Public'
-summary: ' On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via webcast. The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators,'
+summary: ' On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via webcast. The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health'
 authors:
   - alison-lemon
 categories:
@@ -21,7 +20,7 @@ tag:
   - USDA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Keynote-speaker-Susannah-Fox-Chief-Technology-Officer-of-the-US-Department-of-Health-and-Human-Services-HHS-IMG_1724.jpg" alt="Keynote speaker, Susannah Fox, Chief Technology Officer of the U.S. Department of Health and Human Services (HHS)" >}}
 
 On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via [webcast](http://www.nih.gov/news/events/digital-summit.htm). The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators, health professionals and scientists.
 
@@ -37,7 +36,7 @@ On October 19th, NIH brought together nearly 1,500 digital and health experts in
   </p>
 </blockquote>
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Dr-Richard-Besser-Chief-Health-and-Medical-Editor-of-ABC-News-IMGs_1865-2019.jpg" alt="Richard Besser, Chief Health and Medical Editor, of ABC News" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-NIH-Digital-Summit-Dr-Richard-Besser-Chief-Health-and-Medical-Editor-of-ABC-News-IMGs_1865-2019.jpg" alt="Richard Besser, Chief Health and Medical Editor, of ABC News" >}}
 
 [Richard Besser](https://storify.com/StuckonSW/nihdigital-keynote-by-drrichardbesser), Chief Health and Medical Editor, of ABC News, has learned a few lessons as host of the popular #abcDrBchat. He was surprised by how rude people can be on social media, especially when it comes to scary health issues. He advised to look for the essence of truth in rude questions, and to address the fear with facts.
 

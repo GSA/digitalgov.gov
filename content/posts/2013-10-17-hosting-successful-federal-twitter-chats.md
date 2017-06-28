@@ -1,8 +1,7 @@
 ---
-url: /2013/10/17/hosting-successful-federal-twitter-chats/
 date: 2013-10-17 2:11:31 -0400
 title: Hosting Successful Federal Twitter Chats
-summary: 'One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat. New guidance on preparing a live chat is now available, and we need your agencies to contribute your own policies and'
+summary: 'One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat. New guidance on preparing a live chat is now available, and we need your agencies to contribute your own policies'
 authors:
   - jherman
 categories:
@@ -12,7 +11,7 @@ tag:
   - Twitter
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/USDA.jpg" alt="Image of federal employees conducting a Twitter chat." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/USDA.jpg)One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/USDA.jpg" alt="Image of federal employees conducting a Twitter chat." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/USDA.jpg)One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat.
 
 [New guidance](https://digitalgov.sites.usa.gov/2013/10/16/twitter-chats-for-federal-agencies/ "Twitter Chat Guidance for Federal Agencies") on preparing a live chat is now available, and we need your agencies to contribute your own policies and experiences to make it complete. So let’s start by identifying the key ingredients to most effectively engage with citizens and make your Twitter Town Hall a success.
 

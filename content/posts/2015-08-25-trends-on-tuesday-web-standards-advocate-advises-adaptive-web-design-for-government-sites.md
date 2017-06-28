@@ -1,8 +1,7 @@
 ---
-url: /2015/08/25/trends-on-tuesday-web-standards-advocate-advises-adaptive-web-design-for-government-sites/
 date: 2015-08-25 11:10:50 -0400
 title: 'Trends on Tuesday: Web Standards Advocate Advises Adaptive Web Design for Government Sites'
-summary: ' This August, Aaron Gustafson, Web Standards Advocate at Microsoft, industry thought leader and speaker, and an author who wrote a leading book on adaptive web design, spoke to the government tech community at the U.S. General Services Administration and'
+summary: ' This August, Aaron Gustafson, Web Standards Advocate at Microsoft, industry thought leader and speaker, and an author who wrote a leading book on adaptive web design, spoke to the government tech community at the U.S. General Services Administration'
 authors:
   - wsullivan
 categories:
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Escalators-quote-Mitch-Hedberg.jpg" alt="I like an escalator because an escalator can never break, it can only become stairs. — Mitch Hedberg" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Escalators-quote-Mitch-Hedberg.jpg" alt="I like an escalator because an escalator can never break, it can only become stairs. — Mitch Hedberg" >}}
 
 This August, [Aaron Gustafson](http://www.aaron-gustafson.com/), [Web Standards Advocate at Microsoft](http://www.crn.com/news/applications-os/300075586/microsoft-hires-two-open-standards-warriors-and-ex-foes-for-its-developer-evangelism-unit.htm), [industry thought leader and speaker](http://www.aaron-gustafson.com/speaking-engagements/), and an author who wrote a leading book on adaptive web design, spoke to the government tech community at the U.S. General Services Administration and provided many magnificent insights into mobile strategy, design and tech development for reaching the widest audience possible across devices.
 
@@ -38,4 +37,4 @@ In a tech world where code choice sometimes becomes almost a religion, he’s on
 
 Government agencies should support and follow Gustafson&#8217;s prescribed adaptive ideology to serve all of our constituencies best**—**from the users of [low-tech, low-cost Trac Phones](http://www.walmart.com/ip/TracFone-Samsung-S150G-Bundle-Double-Minutes/24623087) to the [iPhone 6 Plus](http://www.apple.com/shop/buy-iphone/iphone6) phablet user driving a [Tesla with a 17-inch touch-enabled Web browser](http://www.techradar.com/us/news/car-tech/the-new-tesla-s-has-the-most-insane-in-car-touchscreen-multimedia-system-ever-1185159) who also has a [Web-enabled refrigerator](http://www.samsung.com/us/appliances/refrigerators/RF28HMELBSR/AA) at home.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-Aaron-Gustafson-Beyond-Responsive-presentation_Adaptive-web-screens-image-by-Brad-Frost.jpg" alt="Concept graphic by Brad Frost shows various devices and appliances with web screens" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-Aaron-Gustafson-Beyond-Responsive-presentation_Adaptive-web-screens-image-by-Brad-Frost.jpg" alt="Concept graphic by Brad Frost shows various devices and appliances with web screens" >}}

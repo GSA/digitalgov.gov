@@ -1,18 +1,17 @@
 ---
-url: /2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/
 date: 2016-09-02 10:00:42 -0400
 title: 'Quality, Speed, and Lower Costs: Yes, You Can Have It All'
 summary: 'This is post 2 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. The last major infrastructure upgrade that DigitalGov Search had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS)'
 authors:
-  - dmccleskey
   - nick-marden
+  - dmccleskey
 categories:
   - Code
   - Data
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - DigitalGov Search
   - infrastructure
@@ -26,7 +25,7 @@ We were also able to reduce our CDN costs to almost zero by insourcing the manag
 
 In the prior DigitalGov Search datacenters — one in Chicago and one in Virginia — we had pools of high-powered, physical Dell &#8220;pizza box&#8221; servers running a variety of services in a composition that had been tuned to observed traffic patterns:
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." >}}
 
 Services had been distributed opportunistically across the servers over time. We made it a primary goal of our new architecture to separate each of our services by _role_, and to build flexible pools for each role that could be scaled up or down as demand increased or decreased for each service. This sounds great on the drawing board, but to build robust, role-specific deployment recipes for multiple applications and services would be time-intensive and expensive.
 
@@ -56,7 +55,7 @@ We also migrated our database services (MySQL and Redis) to the hosted AWS equiv
 
 With all of these pieces in place we were able to build out the following architecture in AWS:
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." >}}
 
 The key thing to note about this architecture is that it has four new characteristics that our old environment did not:
 

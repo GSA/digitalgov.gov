@@ -1,8 +1,7 @@
 ---
-url: /2012/05/12/national-contact-centers-text-message-program/
 date: 2012-05-12 2:22:22 -0400
 title: 'National Contact Center&#8217;s Text Message Program'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division. The National Contact Center&#8217;s Text Message Program The Contact'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division. The National Contact Center&#8217;s Text Message Program The'
 categories:
   - Mobile
 tag:
@@ -11,7 +10,7 @@ tag:
   - Mobile Gov Experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png" alt="Screen shot showing text messages from the National Contact Center." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division._
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png" alt="Screen shot showing text messages from the National Contact Center." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/05/National-Contact-Center-texting-program.png)_Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division._
 
 ## <a name="x-The National Contact Center's Text Message Program"></a>The National Contact Center&#8217;s Text Message Program {#toc0}
 

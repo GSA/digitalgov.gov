@@ -1,15 +1,14 @@
 ---
-url: /2014/05/19/sign-up-for-digitalgov-citizen-services-summit-friday-may-30/
 date: 2014-05-19 3:03:16 -0400
 title: Sign up For DigitalGov Citizen Services Summit, Friday, May 30
 summary: 'We won&rsquo;t build the government of the 21st century by drawing within the lines. We don&#8217;t have to tell you the hard work of building a digital government doesn&#8217;t exist in a vacuum or a bubble. Show us social media without mobile, Web without data and user experience without APIs. You can&#8217;t? That&#8217;s right&mdash;in reality,'
 authors:
-  - tmarcoullier
-  - apiazza
-  - jparcell
-  - jherman
-  - jonathan-rubin
   - rflagg
+  - jherman
+  - tmarcoullier
+  - jparcell
+  - apiazza
+  - jonathan-rubin
 categories:
   - API
   - Challenges

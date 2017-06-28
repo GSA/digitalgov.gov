@@ -1,14 +1,13 @@
 ---
-url: /2014/05/22/how-to-make-a-mobile-paper-prototype/
 date: 2014-05-22 1:00:44 -0400
 title: How to Make a Mobile Paper Prototype
-summary: 'What if a single piece of paper could make your mobile app work 20% better? It&rsquo;s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it&rsquo;s true. Well before we get into the design and coding phases, we can show customers a'
+summary: 'What if a single piece of paper could make your mobile app work 20% better? It&rsquo;s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it&rsquo;s true. Well before we get into the design and coding phases, we can show customers'
 authors:
   - jonathan-rubin
 categories:
   - Design
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - GSA
@@ -22,7 +21,7 @@ tag:
 
 What if a single piece of paper could make your mobile app work 20% better?
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/Mobile-Paper-Prototype-phone-screenshot-May-20th-2014-759am.jpg" alt="Mobile Paper Prototype phone screenshot" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/Mobile-Paper-Prototype-phone-screenshot-May-20th-2014-759am.jpg" alt="Mobile Paper Prototype phone screenshot" >}}
 
 It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers a mockup of an idea of what our product might look like. It’s called a [prototype](http://www.usability.gov/how-to-and-tools/methods/prototyping.html) (or a wireframe)—it’s a model of a design that’s still in development. It doesn&#8217;t need to be fancy, or even made on a computer. But it can make the difference between a product that looks good and one that people will actually use.
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/05/15/government-services-through-a-life-events-approach/
 date: 2015-05-15 1:30:54 -0400
 title: Government Services Through a Life Events Approach
 summary: The federal government is increasingly focused on designing and delivering citizen-centered services with enhanced experiences that deliver value to customers. These ideals are established in the Presidential Management Agenda Customer Service Cross-Agency Priority Goal, the Digital Government Strategy, and various open government activities. Designing services to be responsive to be life events that drive public
@@ -23,7 +22,7 @@ tag:
 
 The federal government is increasingly focused on designing and delivering citizen-centered services with enhanced experiences that deliver value to customers. These ideals are established in the Presidential Management Agenda [Customer Service Cross-Agency Priority Goal](http://www.performance.gov/node/3400/view?view=public#overview), the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), and various open government activities. Designing services to be responsive to be life events that drive public needs is a powerful way to deliver citizen-centered value.
 
-## What is a &#8220;life event?&#8221; {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Baby-Shoes-VannaMoro-iStock-Thinkstock-178539109.jpg" alt="Baby Shoes" %} 
+## What is a &#8220;life event?&#8221; {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Baby-Shoes-VannaMoro-iStock-Thinkstock-178539109.jpg" alt="Baby Shoes" caption="" >}} 
 
 Life events are events that have a significant impact in a citizen’s/stakeholder’s life and that warrant government awareness or involvement. A life event may be the birth of a child, change in employment status, a serious injury or illness, a home purchase, a crime, a natural disaster, or pursuit of a college education. There are many more examples of life events that span the range of government services at all levels of government. Life events create the need for government services that often time span agencies and levels of government. For instance, when a natural disaster occurs, local, state, and federal resources may be needed to help the injured, restore safety, rebuild infrastructure, and renew local economies.
 
@@ -37,7 +36,7 @@ There are some great examples of governments and agencies already modeling this 
 
 USA.gov from GSA’s Office of Citizen Services and Innovative Technologies/18F just recently released two beta sites ([beta.USA.gov](http://beta.usa.gov/) and [beta.Gobierno.USA.gov](http://beta.gobierno.usa.gov/)) to [transform self-maintaining portals to a bilingual publishing platform for government agencies](https://www.WHATEVER/2015/05/04/usa-gov-in-beta-tell-us-what-you-think/). They developed and used [personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) to guide the site design and content. As they crafted these personas, they found that many people came to USA.gov to find information on tasks such as getting a passport or social security card, finding a location to apply for unemployement benefits, or starting a new business. All of these are life events.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-316-MyMoneygov-Financial-Aid.jpg" alt="MyMoneygov Financial Aid" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-316-MyMoneygov-Financial-Aid.jpg" alt="MyMoneygov Financial Aid" >}}
 
 The Department of the Treasury manages a website, [MyMoney.gov](http://www.mymoney.gov/Pages/default.aspx), which is the federal government’s one-stop shop for federal financial literacy and education programs, grants and other information. MyMoney.gov has used a [life events framework](http://www.mymoney.gov/lifeevents/Pages/lifeevents.aspx) since 2009, based on survey research and outside experts which showed them that taking a life events approach would help users more easily navigate the site to find the information that they need. Since MyMoney.gov has information from over 20 federal agencies on a wide array of topics, users may not know what agency has the resource that they are looking for, but the life events framework provides a path to the right resource.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/07/29/build-empathy-with-stakeholder-interviews-part-2-conversation/
 date: 2016-07-29 12:00:13 -0400
 title: 'Build Empathy With Stakeholder Interviews, Part 2: Conversation'
 summary: 'A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;Foster The People: Building Empathy with Stakeholder Interviews.&#8221; In the first post of'
@@ -7,8 +6,8 @@ authors:
   - andrew-maier
 categories:
   - Design
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - State
@@ -19,7 +18,7 @@ tag:
   - UX
 ---
 
-A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221; {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" %} 
+A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series I hope to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221; {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
 
 In the [first post of this series](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/), I covered what stakeholder interviews are, why they’re valuable, and how to prepare for them. In this second post, I’ll cover how to actually run the interviews as well as some tips for synthesizing and socializing what you learn.
 

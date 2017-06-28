@@ -1,5 +1,4 @@
 ---
-url: /2016/04/22/recap-how-to-overcome-cultural-resistance-to-agile-in-government/
 date: 2016-04-22 10:00:11 -0400
 title: 'Recap: How to Overcome Cultural Resistance to Agile in Government'
 summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses are twice as powerful, psychologically, as gains,&rsquo; federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it'
@@ -14,12 +13,13 @@ tag:
   - Census
   - DGU
   - DigitalGov University
+  - Recaps
   - United States Census Bureau
   - United States Patent and Trademark Office
   - USPTO
 ---
 
-Armed with the knowledge that ‘[most studies suggest that losses are twice as powerful, psychologically, as gains](https://en.wikipedia.org/wiki/Loss_aversion#cite_note-1),’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it in different ways) those seeking change will need to understand to be successful. Bill Brantley, ‘agile OG,’ from the U.S. Patent and Trademark Office, shared his experience with these personas with the participants on the [Agile/Lean Community’s first webinar](https://www.WHATEVER/event/how-to-overcome-cultural-resistance-to-agile-in-government/). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." %} 
+Armed with the knowledge that ‘[most studies suggest that losses are twice as powerful, psychologically, as gains](https://en.wikipedia.org/wiki/Loss_aversion#cite_note-1),’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it in different ways) those seeking change will need to understand to be successful. Bill Brantley, ‘agile OG,’ from the U.S. Patent and Trademark Office, shared his experience with these personas with the participants on the [Agile/Lean Community’s first webinar](https://www.WHATEVER/event/how-to-overcome-cultural-resistance-to-agile-in-government/). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
 
 The personas range from active to passive resistance:
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/06/02/trends-on-tuesday-thinking-about-your-agencys-glanceable-moment-strategy/
 date: 2015-06-02 10:00:49 -0400
 title: 'Trends on Tuesday: Thinking about Your Agency&#8217;s &#8220;Glanceable&#8221; Moment Strategy'
 summary: 'Mobile device penetration is growing, with larger screens providing more real-estate for content and users completing more complex tasks over longer periods of engagement. However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for &ldquo;glanceable moments.&rdquo; Ted Schadler from Forrester Research provided the following explanation:'
@@ -14,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-250-Smartwatch-infographic-isolated-with-icons-time-line-concept-ponsuwan-iStock-Thinkstock-472723982-Converted.jpg" alt="Mobile devices (a laptop, a smart watch, a cell phone and tablet) show the same content." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-250-Smartwatch-infographic-isolated-with-icons-time-line-concept-ponsuwan-iStock-Thinkstock-472723982-Converted.jpg" alt="Mobile devices (a laptop, a smart watch, a cell phone and tablet) show the same content." caption="" >}} 
 
 [Mobile device penetration is growing](https://www.WHATEVER/2015/05/26/trends-on-tuesday-186-3-million-people-own-smartphones-in-the-u-s/), with [larger screens providing more real-estate for content](https://www.WHATEVER/2015/05/12/trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow/) and users completing [more complex tasks over longer periods of engagement](https://www.WHATEVER/2015/03/10/trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms/). However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for “glanceable moments.”
 
@@ -26,6 +25,6 @@ When preparing for the wearable future, government agencies should ask themselve
 
   1. **What is the utility of your organization&#8217;s service, and how urgent is it to the audience?** For instance: tornado warning alerts nearby? Personal health advisories? Travel or public safety news?
   2. **Can you distill that down into a small image, less text than a half a tweet, or a [haptic](http://www.immersion.com/haptics-technology/what-is-haptics/) vibration buzz?** An experience that works on a postage stamp-sized square or circle shape for the different interface sizes will be all the real-estate you have.
-  3. **After the audience sees it, what is the next engagement step, and how you help them do that?** For instance: open a mobile application? Call your office for help? Make a decision? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" %} 
+  3. **After the audience sees it, what is the next engagement step, and how you help them do that?** For instance: open a mobile application? Call your office for help? Make a decision? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
 
 It is the early days for this emerging platform, but government agencies should start preparing now for these new platforms and considering how they would need to format their content and experiences around them. You can start by learning more about how to find the best [mobile moments](https://www.WHATEVER/2015/06/01/finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government/) for targeting users.

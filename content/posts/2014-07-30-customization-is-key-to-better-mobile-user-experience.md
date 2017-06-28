@@ -1,8 +1,7 @@
 ---
-url: /2014/07/30/customization-is-key-to-better-mobile-user-experience/
 date: 2014-07-30 2:12:52 -0400
 title: Customization is Key to Better Mobile User Experience
-summary: 'Resources like Theresa Neil&rsquo;s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week&rsquo;s Trends on Tuesday, customizing apps to meet users&rsquo;'
+summary: 'Resources like Theresa Neil&rsquo;s Mobile Design Product Gallery book and Mobile-patterns.com describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week&rsquo;s Trends on Tuesday, customizing apps to meet'
 authors:
   - katie-steffy
 categories:
@@ -28,7 +27,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" %}Resources like Theresa Neil’s [Mobile Design Product Gallery](http://mobiledesignpatterngallery.com/index.php) book and [Mobile-patterns.com](http://www.mobile-patterns.com) describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s [Trends on Tuesday](https://www.WHATEVER/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/), customizing apps to meet users’ needs is a crucial part in maximizing user experience. Today, we wanted to highlight how some agencies are implementing search, maps & geolocation and custom navigation to better their mobile product’s user experience.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}Resources like Theresa Neil’s [Mobile Design Product Gallery](http://mobiledesignpatterngallery.com/index.php) book and [Mobile-patterns.com](http://www.mobile-patterns.com) describe, and provide examples of, common features mobile developers can implement and tailored further to satisfy their users. As mentioned in this week’s [Trends on Tuesday](https://www.WHATEVER/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/), customizing apps to meet users’ needs is a crucial part in maximizing user experience. Today, we wanted to highlight how some agencies are implementing search, maps & geolocation and custom navigation to better their mobile product’s user experience.
 
   * **Search** 
       * [Healthy Swimming](http://apps.usa.gov/healthy-swimming.shtml): Not only can users search among the content provided by the Centers for Disease Control and Prevention, they can search through highlighted text or any notes they took. This provides ease of access to key information in a pinch, when the user needs it most.

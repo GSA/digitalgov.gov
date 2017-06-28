@@ -1,14 +1,13 @@
 ---
-url: /2015/03/13/goodgovux-addresses-ux-of-it-contracts/
 date: 2015-03-13 10:00:27 -0400
 title: GoodGovUX Addresses UX of IT Contracts
-summary: How do you define user experience (UX)? That was the question posed to more than 100 people at the GoodGovUX event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from intranets
+summary: How do you define user experience (UX)? That was the question posed to more than 100 people at the GoodGovUX event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from
 authors:
   - jordan-higgins
 categories:
   - Accessibility
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - RFP
@@ -16,7 +15,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-333-goodgovux-1.jpg" alt="Keith Deaven from Mediabarn kicks off the GoodGovUX event" %}How do you define user experience (UX)?
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-333-goodgovux-1.jpg" alt="Keith Deaven from Mediabarn kicks off the GoodGovUX event" >}}How do you define user experience (UX)?
 
 That was the question posed to more than 100 people at the [GoodGovUX](http://goodgovux.com/) event at the Artisphere in Arlington, Virginia, on February 24th. Attendees learned how government can improve the user experience of digital products, from intranets to forms to good ol’ fashioned websites.
 
@@ -34,7 +33,7 @@ Civic designer Dana Chisnell ([@danachis](https://twitter.com/danachis)) from th
 
 The [U.S. Digital Services Playbook](https://playbook.cio.gov/) was cited as a great place for people to [get started with UX](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-450-goodgovux-2.jpg" alt="Robert Read from 18F, Sara Mastro from Mediabarn and John Whalen from Brilliant Experience talk about User Experience" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-450-goodgovux-2.jpg" alt="Robert Read from 18F, Sara Mastro from Mediabarn and John Whalen from Brilliant Experience talk about User Experience" >}}
 
 A panel of public servants and IT contractors delved into the quickest ways to improve digital products. Low-fidelity observation and guerilla hallway-style testing were some initial suggestions from Chisnell and Jonathan Rubin ([@jonathan_rubin](https://twitter.com/jonathan_rubin)), UX Program Manager for DigitalGov.
 

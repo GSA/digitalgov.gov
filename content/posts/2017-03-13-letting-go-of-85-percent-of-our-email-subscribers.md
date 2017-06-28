@@ -1,13 +1,12 @@
 ---
-url: /2017/03/13/letting-go-of-85-percent-of-our-email-subscribers/
 date: 2017-03-13 1:04:16 -0400
 title: Letting Go of 85 Percent of Our Email Subscribers
-summary: Late last year, Business.USA.gov (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not. We had to tackle several things at the start
+summary: Late last year, Business.USA.gov (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not. We had to tackle
 authors:
   - victoria-wales
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - email marketing
@@ -16,7 +15,7 @@ tag:
 
 Late last year, [Business.USA.gov](https://business.usa.gov/) (BUSA) began transitioning its web presence to USA.gov and with its content, came its social media and email accounts. While transferring ownership of a Twitter account is fairly easy to do from a technical standpoint, transferring email ownership and tools is not.
 
-![](https://gsa-cmp-fileupload.s3.amazonaws.com/email.JPG)
+{{< legacy-img src="https://gsa-cmp-fileupload.s3.amazonaws.com/email.JPG" alt="" >}}
 
 We had to tackle several things at the start of this project:
 

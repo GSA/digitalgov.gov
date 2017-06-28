@@ -1,5 +1,4 @@
 ---
-url: /2014/03/06/open-payments-apps-help-healthcare-professionals-track-reporting-on-the-go/
 date: 2014-03-06 10:30:22 -0400
 title: Open Payments Apps Help Healthcare Professionals Track Reporting On The Go
 summary: The Affordable Care Act (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements. And not only is the healthcare changing but also are the
@@ -26,7 +25,7 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
   * Avoid conflicts of interest that can compromise clinical integrity and patient care; and
   * Minimize risk of increased health care costs.&#8221;
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
 
  
 
@@ -44,7 +43,7 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
 
 Without getting too wonky, the [**Open Payments Program app for Physicians**](http://apps.usa.gov/open-payments-for-physicians.shtml)enables doctors to ensure that the data reported about them by medical industry is correct and to track payments and transactions in real time. Because the heath care industry and manufacturers are responsible for official reporting of said payments, transactions and business relationships, the **[Open Payments Program app for Industry](http://apps.usa.gov/open-payments-for-industry.shtml)** offers companies a similar real-time payments tracking feature as well as a repository for collecting up-to-date physician profile information, among other features.
 
-[<img class=" wp-image-131062   " src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png" alt="" width="553" height="255" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png" alt=" width=" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png) 
 
  
 

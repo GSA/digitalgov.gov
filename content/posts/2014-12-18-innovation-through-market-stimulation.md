@@ -1,13 +1,12 @@
 ---
-url: /2014/12/18/innovation-through-market-stimulation/
 date: 2014-12-18 11:10:30 -0400
 title: Innovation Through Market Stimulation
-summary: Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element. The Nutrient Sensor Challenge is a market stimulation prize competition to accelerate the
+summary: Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element. The Nutrient Sensor Challenge is a market stimulation prize competition to accelerate
 authors:
   - dustin-renwick
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme
 tag:
   - challenges and prize competitions
@@ -16,7 +15,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-nutrient-sensor-challenge-logo.jpg" alt="Nutrient Sensor Challenge logo" %}Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-nutrient-sensor-challenge-logo.jpg" alt="Nutrient Sensor Challenge logo" >}}Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element.
 
 The [Nutrient Sensor Challenge](http://www.nutrients-challenge.org/) is a market stimulation prize competition to accelerate the development of affordable, accurate, and reliable sensors for measuring nutrient levels in water.
 

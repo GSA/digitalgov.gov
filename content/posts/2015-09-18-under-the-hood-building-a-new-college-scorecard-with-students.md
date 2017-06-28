@@ -1,5 +1,4 @@
 ---
-url: /2015/09/18/under-the-hood-building-a-new-college-scorecard-with-students/
 date: 2015-09-18 11:00:10 -0400
 title: 'Under the Hood: Building a New College Scorecard with Students'
 summary: 'Summary: How the U.S. Digital Service worked with students, families, schools, developers and teams across the federal government to rebuild the new College Scorecard tool. My niece is a smart kid. I&rsquo;m biased, but I swear she is. And just as I started working on the College Scorecard project as the U.S. Digital Service&rsquo;s new'
@@ -50,9 +49,9 @@ We build on the hard work of the Department of Education; previously, they met w
 
 Based on this research, we made the cheapest, fastest prototype of the College Scorecard possible, based on what we heard. We knew it needed to be mobile-first, simple, and easy to customize. That prototype ended up being a homemade, cardboard iPhone with slips of paper with wireframes of what the tool could look like. It probably cost less than a cup of coffee to produce.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-340-Scorecard-Demo.jpg" alt="Scorecard demo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-340-Scorecard-Demo.jpg" alt="Scorecard demo" >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" >}}
 
 We also went to work with the federal government’s data from over 7,000 schools, going back 18 years, putting it into an open API (Application Programming Interface) that fuels the College Scorecard website. We wanted to make the data as usable by software developers and data scientists. The API allows anyone to create tools and insights that will help prospective college students make these important decisions.
 

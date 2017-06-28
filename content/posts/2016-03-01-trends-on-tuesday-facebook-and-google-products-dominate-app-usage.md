@@ -1,5 +1,4 @@
 ---
-url: /2016/03/01/trends-on-tuesday-facebook-and-google-products-dominate-app-usage/
 date: 2016-03-01 10:00:13 -0400
 title: 'Trends on Tuesday: Facebook and Google Products Dominate App Usage'
 summary: 'Comscore released new data this month about trends in the smartphone space. The data showed that the Android platform grew in market percentage (when combining all Android manufacturers). Android overall grew 1% from September to December at the cost of Apple and Blackberry, which dropped 0.7% and 0.3%, respectively, in smartphone market share. Comscore&rsquo;s data on the most'
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Comscore released new data this month about trends in the smartphone space. The data showed that the [Android platform grew in market percentage](http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-December-2015-US-Smartphone-Subscriber-Market-Share) (when combining all Android manufacturers). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Greeting-Google-Android-Mascot-JasminSeidel-iStock-Editorial-Thinkstock-458725611.jpg" alt="The Android green robot mascot waves hello." %} 
+Comscore released new data this month about trends in the smartphone space. The data showed that the [Android platform grew in market percentage](http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-December-2015-US-Smartphone-Subscriber-Market-Share) (when combining all Android manufacturers). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Greeting-Google-Android-Mascot-JasminSeidel-iStock-Editorial-Thinkstock-458725611.jpg" alt="The Android green robot mascot waves hello." caption="" >}} 
 
 Android overall grew 1% from September to December at the cost of Apple and Blackberry, which dropped 0.7% and 0.3%, respectively, in smartphone market share.
 

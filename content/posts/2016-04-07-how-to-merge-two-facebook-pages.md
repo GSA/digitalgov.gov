@@ -1,5 +1,4 @@
 ---
-url: /2016/04/07/how-to-merge-two-facebook-pages/
 date: 2016-04-07 10:00:26 -0400
 title: How to Merge Two Facebook Pages
 summary: In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our
@@ -20,7 +19,7 @@ For [NIDA](https://www.drugabuse.gov/), this meant merging our Drug Facts Facebo
 
 ## Reasons for Creating Two Facebook Pages
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" alt="N.I.D.A.'s original "Drug Facts" Facebook page." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" alt="N.I.D.A.'s original Drug Facts Facebook page." >}}
 
 In 2010, NIDA created two Facebook pages. The NIDA Facebook page was created to reach researchers. The Drug Facts Facebook page was developed to reach those interested in our [NIDA for Teens](http://teens.drugabuse.gov/) materials and _[National Drug and Alcohol Facts Week](http://teens.drugabuse.gov/national-drug-alcohol-facts-week)<sup>SM </sup>_(NDAFW). The desired goal of the Drug Facts Facebook page was to provide a place NDAFW event organizers could discuss best practices and share ideas.
 

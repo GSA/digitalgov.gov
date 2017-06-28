@@ -1,8 +1,7 @@
 ---
-url: /2012/07/11/faa-mobile-site/
 date: 2012-07-11 12:36:05 -0400
 title: FAA Mobile Site
-summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Federal Aviation Administration. The FAA launched a mobile site to cater to the needs of its users on the move. Why We Did It Mobile traffic to
+summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Federal Aviation Administration. The FAA launched a mobile site to cater to the needs of its users on the move. Why We Did It Mobile traffic
 authors:
   - jparcell
 categories:
@@ -12,7 +11,7 @@ tag:
   - Mobile Gov Experience
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg" alt="FAA Mobile Website" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Federal Aviation Administration**._ _
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg" alt="FAA Mobile Website" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Federal Aviation Administration**._ _
   
 _ 
 

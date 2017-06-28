@@ -1,8 +1,7 @@
 ---
-url: /2014/11/20/join-the-global-climate-change-conversation-with-nasas-earth-now/
 date: 2014-11-20 10:00:52 -0400
 title: 'Join the Global Climate Change Conversation with NASA&#8217;s Earth Now'
-summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth&rsquo;s vital signs from NASA&rsquo;s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon monoxide,'
+summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth&rsquo;s vital signs from NASA&rsquo;s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon'
 authors:
   - kdowney
 categories:
@@ -13,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-230-NASA-Earth-Now-Android-app.jpg" alt="4 screens from the Android version of NASA's Earth Now app" >}}
 
 Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth’s vital signs from NASA’s Earth Now mobile app.
 

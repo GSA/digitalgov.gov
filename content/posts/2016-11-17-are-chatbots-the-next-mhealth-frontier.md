@@ -1,5 +1,4 @@
 ---
-url: /2016/11/17/are-chatbots-the-next-mhealth-frontier/
 date: 2016-11-17 10:00:48 -0400
 title: Are Chatbots the Next mHealth Frontier?
 summary: 'In April, Facebook made it possible for organizations to use chatbots to send and receive messages from users of Facebook Messenger. That&rsquo;s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it&rsquo;s a messaging platform that people use to send short messages to each other through'
@@ -10,7 +9,7 @@ categories:
   - Content
   - Mobile
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - app
   - chatbots
@@ -24,7 +23,7 @@ tag:
   - USAgov
 ---
 
-In April, <a href="https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/" target="_blank">Facebook made it possible for organizations to use chatbots</a> to send and receive messages from users of <a href="https://www.messenger.com/" target="_blank">Facebook Messenger</a>. That’s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it’s a messaging platform that people use to send short messages to each other through the app. <a href="https://www.similarweb.com/blog/worldwide-messaging-apps" target="_blank">It’s the most popular messaging app in the U.S</a>, and the second most popular of those apps worldwide, behind only WhatsApp (which Facebook also owns). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" %} 
+In April, <a href="https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/" target="_blank">Facebook made it possible for organizations to use chatbots</a> to send and receive messages from users of <a href="https://www.messenger.com/" target="_blank">Facebook Messenger</a>. That’s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it’s a messaging platform that people use to send short messages to each other through the app. <a href="https://www.similarweb.com/blog/worldwide-messaging-apps" target="_blank">It’s the most popular messaging app in the U.S</a>, and the second most popular of those apps worldwide, behind only WhatsApp (which Facebook also owns). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
 
 ## What&#8217;s a Bot?
 

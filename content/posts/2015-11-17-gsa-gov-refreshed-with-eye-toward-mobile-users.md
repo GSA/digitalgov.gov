@@ -1,8 +1,7 @@
 ---
-url: /2015/11/17/gsa-gov-refreshed-with-eye-toward-mobile-users/
 date: 2015-11-17 2:59:57 -0400
 title: GSA.gov Refreshed with Eye Toward Mobile Users
-summary: 'GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users. Increasingly, website traffic is coming from mobile users. With this in mind, GSA unveiled a newly refreshed GSA.gov website on Nov. 16. &ldquo;Our ultimate goal for the refresh was'
+summary: 'GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users. Increasingly, website traffic is coming from mobile users. With this in mind, GSA unveiled a newly refreshed GSA.gov website on Nov. 16. &ldquo;Our ultimate goal for the refresh'
 authors:
   - jeff-woodworth
 categories:
@@ -17,7 +16,7 @@ tag:
 
 GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-294-GSAgov-new-web-page.jpg" alt="600-x-294-GSAgov-new-web-page" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-294-GSAgov-new-web-page.jpg" alt="600-x-294-GSAgov-new-web-page" >}}
 
 Increasingly, website traffic is coming from mobile users. With this in mind, GSA unveiled a newly refreshed [GSA.gov](http://www.gsa.gov/portal/category/100000) website on Nov. 16.
 

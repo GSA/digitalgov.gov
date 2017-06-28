@@ -1,5 +1,4 @@
 ---
-url: /2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/
 date: 2014-07-29 1:23:17 -0400
 title: 'Trends on Tuesday: Avoid the “App Graveyard”'
 summary: 'Apps that are downloaded, used a few times and then never used again, are considered part of the &ldquo;app graveyard.&rdquo; In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used'
@@ -20,7 +19,7 @@ tag:
   - user experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
 
 Apps that are downloaded, used a few times and then never used again, are considered part of the “app graveyard.” In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used consistently and don’t end up in the app graveyard.
 

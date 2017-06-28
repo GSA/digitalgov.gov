@@ -1,5 +1,4 @@
 ---
-url: /2015/06/03/the-api-briefing-make-it-an-api-the-census-bureaus-census-of-governments/
 date: 2015-06-03 11:55:34 -0400
 title: 'The API Briefing: Make It an API – the Census Bureau’s Census of Governments'
 summary: 'Serendipity can be a wonderful tool for discovery. I was looking through the Census Bureau site for some business census data when I came upon the 2012 Census of Governments. According to the official description: &ldquo;[t]he Census of Governments identifies the scope and nature of the nation&#8217;s state and local government sector; provides authoritative benchmark'
@@ -14,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 
 
 Serendipity can be a wonderful tool for discovery. I was looking through the Census Bureau site for some business census data when I came upon the <a href="http://www.census.gov/govs/cog/index.html" target="_blank">2012 Census of Governments</a>. According to the official description: “[t]he Census of Governments identifies the scope and nature of the nation&#8217;s state and local government sector; provides authoritative benchmark figures of public finance and public employment; classifies local government organizations, powers, and activities; and measures federal, state, and local fiscal relationships.”
 

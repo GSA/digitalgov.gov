@@ -1,5 +1,4 @@
 ---
-url: /2016/04/19/the-teams-they-are-a-changin/
 date: 2016-04-19 10:00:06 -0400
 title: The Teams, They Are a Changin’
 summary: 'Business people and developers must work together daily throughout the project.&mdash;Agile Manifesto My team has experienced a lot of change in the past few weeks. We were a team of seven, and now we&rsquo;ve been reduced to two. We&rsquo;re off-boarding two developers, a content specialist, and the product owner, and we&rsquo;re onboarding a new content'
@@ -25,7 +24,7 @@ It has caused disruption, added friction to our delivery schedule, and caused so
 
 To truly harness the power of agile practices, **you need a stable team**. But people leave under normal circumstances for a variety of reasons: maternity, new jobs, retirement, etc. **_While recognizing the need for stable teams_**, there are things our team does and should do to be resilient in the face of change.
 
-## The costs and challenges of team changes {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" %} 
+## The costs and challenges of team changes {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" caption="" >}} 
 
 Any time a team member leaves or a new one comes on board, there’s a cost associated with redirecting focus to account for that change. This adds friction to projects that is not just technical:
 

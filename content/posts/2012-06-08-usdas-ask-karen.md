@@ -1,8 +1,7 @@
 ---
-url: /2012/06/08/usdas-ask-karen/
 date: 2012-06-08 2:43:37 -0400
 title: 'USDA&#8217;s Ask Karen'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture. Mobile &lsquo;Ask Karen&rsquo; is an extension of USDA&rsquo;s Food Safety and Inspection Service&rsquo;s 24/7 virtual representative Ask Karen. Ask Karen is a web'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture. Mobile &lsquo;Ask Karen&rsquo; is an extension of USDA&rsquo;s Food Safety and Inspection Service&rsquo;s 24/7 virtual representative Ask Karen. Ask Karen is a'
 authors:
   - jparcell
 categories:
@@ -13,7 +12,7 @@ tag:
   - USDA
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile-183x250.jpg" alt="Ask Karen" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture._ _
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile-183x250.jpg" alt="Ask Karen" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture._ _
   
 _ 
 

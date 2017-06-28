@@ -1,5 +1,4 @@
 ---
-url: /2014/04/30/need-help-responding-to-facebook-twitter-questions-use-your-contact-center-customer-service-experts/
 date: 2014-04-30 10:00:49 -0400
 title: 'Need Help Responding to Facebook & Twitter Questions? Use Your Contact Center Customer Service Experts'
 summary: 'Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies&mdash;including ours, the National Cancer Institute&mdash;have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI&rsquo;s Contact'
@@ -19,7 +18,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 
 
 Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies—including ours, the National Cancer Institute—have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI’s Contact Center has become an essential partner in our social media efforts.
 

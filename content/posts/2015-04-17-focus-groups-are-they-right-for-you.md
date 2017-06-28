@@ -1,20 +1,19 @@
 ---
-url: /2015/04/17/focus-groups-are-they-right-for-you/
 date: 2015-04-17 11:10:32 -0400
 title: 'Focus Groups: Are They Right for You?'
-summary: ' The short answer is: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way to'
+summary: ' The short answer is: it depends on your goals. If you Google &ldquo;focus group,&rdquo; you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are. What Is a Focus Group? Focus groups are an inexpensive way'
 authors:
   - stacey-sarris
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - user experience
   - UX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}
 
 The short answer is: it depends on your goals. If you Google “focus group,” you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are.
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/
 date: 2015-06-05 11:10:22 -0400
 title: Using Section 508 Guidance to Improve the Accessibility of Government Services
 summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained. Since the U.S. Access Board issued regulations for the law in 2000, much implementation guidance has been prepared by various agencies. While the regulations are being refreshed to account for changes in ICT over'
@@ -34,7 +33,7 @@ tag:
   - VA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-200-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-200-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." caption="" >}} 
 
 Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether [procured, developed, or maintained](http://buyaccessible.gov/). Since the U.S. Access Board [issued regulations](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) for the law in 2000, much [implementation guidance](http://section508.gov) has been prepared by various agencies. While the [regulations are being refreshed](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh) to account for changes in ICT over the years, we can take advantage of existing guidance that applies accessibility guidelines in contemporary contexts. Doing so furthers the [digital government strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) by enabling all citizens.
 

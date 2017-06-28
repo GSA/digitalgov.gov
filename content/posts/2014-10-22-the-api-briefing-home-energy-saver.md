@@ -1,8 +1,7 @@
 ---
-url: /2014/10/22/the-api-briefing-home-energy-saver/
 date: 2014-10-22 10:47:54 -0400
 title: 'The API Briefing: Home Energy Saver'
-summary: ' It is fall when the weather becomes colder, and people start firing up their furnaces. While I was working on putting in more insulation and installing a programmable thermostat, I wondered if the federal government has an API to help me lower my utility'
+summary: ' It is fall when the weather becomes colder, and people start firing up their furnaces. While I was working on putting in more insulation and installing a programmable thermostat, I wondered if the federal government has an API to help me lower my'
 authors:
   - bbrantley
 categories:
@@ -13,7 +12,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/400-x-268-Dept-Energy-Home-Energy-Saver-HES-Professional-Tool.jpg" alt="Dept Energy Home Energy Saver HES Professional Tool" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/400-x-268-Dept-Energy-Home-Energy-Saver-HES-Professional-Tool.jpg" alt="Dept Energy Home Energy Saver HES Professional Tool" >}}
 
 It is fall when the weather becomes colder, and people start firing up their furnaces. While I was working on putting in more insulation and installing a programmable thermostat, I wondered if the federal government has an API to help me lower my utility bills. Yes, and it is a great API! The Department of Energy (through the Lawrence Berkley National Laboratory) has the [Home Energy Saver API](https://developers.buildingsapi.lbl.gov/hes) which is a comprehensive service to analyze home energy use.
 
@@ -21,7 +20,7 @@ Visit the [online Home Energy Saver (HES) application](http://hes.lbl.gov/consum
 
 Implementing the API is simple. The developer [requests a key](https://developers.buildingsapi.lbl.gov/hes/documentation/api-definitions) to use the API and then can access various API methods through [SOAP](http://en.wikipedia.org/wiki/SOAP) using [PHP, JAVA, or C#.NET](https://developers.buildingsapi.lbl.gov/hes/documentation/sample-client-code). The HES API is well-documented and offers many ways to customize the calculations and reports. The HES website itself uses the API to make calculations and present reports. There are also a number of third-party applications that use the API, which developers can view in the [Project Gallery](https://developers.buildingsapi.lbl.gov/hes/project-gallery).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/400-x-259-Dept-Energy-WattzOnGen-11c61e6e.jpg" alt="Ennovationz WattzOn API" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/400-x-259-Dept-Energy-WattzOnGen-11c61e6e.jpg" alt="Ennovationz WattzOn API" >}}
 
 HES is a perfect example of using federal data and research to help citizens directly. Thanks to this API, people can save hundreds (or thousands) of dollars on their energy costs while helping the environment by lowering their carbon footprint. The only suggestion I have is to implement [JSON](http://en.wikipedia.org/wiki/JSON) for the Home Energy Saver API so that even more great energy-saving and money-saving apps can be built.
 

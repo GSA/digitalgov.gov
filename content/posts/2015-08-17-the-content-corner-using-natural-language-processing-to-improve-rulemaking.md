@@ -1,5 +1,4 @@
 ---
-url: /2015/08/17/the-content-corner-using-natural-language-processing-to-improve-rulemaking/
 date: 2015-08-17 1:10:53 -0400
 title: 'The Content Corner: Using Natural Language Processing to Improve Rulemaking'
 summary: For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide
@@ -23,7 +22,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" caption="" >}} 
 
 For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide array of topics in an easy to read format with little effort on the part of a human. In the final chapter of what I am calling my natural language trilogy (NL III: Return of the Data?), I’ll flip the focus from [natural language generation](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) to natural language processing and how it can help us gather important data not from the content we publish, but the content we receive.
 
@@ -33,7 +32,7 @@ For the past several weeks, I have been inflicting you with my recent dive down 
 
 Aside from the aforementioned UIMA. one of the most practical uses where government agencies should look to leverage NLP is the evaluation of public comments as part of the regulatory process.
 
-## You Spoke, We Listened {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Rules-and-regulations-filmfoto-iStock-Thinkstock-181929062.jpg" alt="Two hand stamps, one for Rules and one for Regulations, lay next to a stack of documents." %} 
+## You Spoke, We Listened {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Rules-and-regulations-filmfoto-iStock-Thinkstock-181929062.jpg" alt="Two hand stamps, one for Rules and one for Regulations, lay next to a stack of documents." caption="" >}} 
 
 Over the past decade, [the number of federal regulations enacted by year](https://www.federalregister.gov/uploads/2015/05/OFR-STATISTICS-CHARTS-ALL1-1-1-2014.pdf) has averaged between 3,000-4,000. And aside from certain exceptions, a public comment period is required before the issuance of a final rule. For example, the [Federal Communications Commission  received (and publicly released) 800,000 public comments](https://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/) on its Net Neutrality plan. I personally can’t even begin to fathom how the agency was able to respond to that deluge of information (if you’re from FCC and reading this, please share!). Based on this amount of data that needs to be reviewed, the benefits of using NLP to help categorize or cluster this information should be readily apparent. One example from [CMS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAAahUKEwjRp6z-lqHHAhXRMIgKHZBKAhs&url=https%3A%2F%2Fwww.cms.gov%2F&ei=g_7JVZHaAtHhoASQlYnYAQ&usg=AFQjCNGG_y0r9OT_pnZjOljF54Pu0-62lw&sig2=KLD1tceOXyaIjlx1FSSRjQ&bvm=bv.99804247,d.cGU) estimated it takes 1,000-plus hours to review public comments before they can then be sent to a subject matter expert for more thorough review.
 

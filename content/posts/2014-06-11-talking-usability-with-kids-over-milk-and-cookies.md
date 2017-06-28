@@ -1,13 +1,12 @@
 ---
-url: /2014/06/11/talking-usability-with-kids-over-milk-and-cookies/
 date: 2014-06-11 10:00:51 -0400
 title: Talking Usability with Kids over Milk and Cookies
-summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending &ldquo;Take Your Daughters and Sons to Work Day&rdquo;? We took advantage of this event held on April 24, 2014, at the'
+summary: 'The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending &ldquo;Take Your Daughters and Sons to Work Day&rdquo;? We took advantage of this event held on April 24, 2014, at'
 authors:
   - jean-fox
   - robin-l-kaplan
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - BLS
@@ -15,7 +14,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" %}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" >}}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?
 
 We took advantage of this event held on April 24, 2014, at the Department of Labor to hear what students had to say about the new website.
 

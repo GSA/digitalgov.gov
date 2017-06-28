@@ -1,5 +1,4 @@
 ---
-url: /2013/09/18/best-week-in-socialgov-ever-week-1/
 date: 2013-09-18 10:39:52 -0400
 title: 'Best Week in SocialGov Ever: 1'
 summary: (This is the first installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.) From where I sit, I think we
@@ -17,7 +16,7 @@ From where I sit, I think we recently had the best week in #socialgov yet. Betwe
 
 ## **Library of Congress Innovation Talks**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Wolfram-1.jpg" alt="Image of the Library of Congress" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Wolfram-1.jpg)First, the **Library of Congress** launched an interesting [new series called the **Innovation Talks**](http://www.gov.gov/today/pr/2013/13-154.html) that showcases a cross-section of innovative scholars, researchers, policy makers and authors, who share their enthusiasm and knowledge with citizens.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Wolfram-1.jpg" alt="Image of the Library of Congress" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Wolfram-1.jpg)First, the **Library of Congress** launched an interesting [new series called the **Innovation Talks**](http://www.gov.gov/today/pr/2013/13-154.html) that showcases a cross-section of innovative scholars, researchers, policy makers and authors, who share their enthusiasm and knowledge with citizens.
   
 The inaugural presenter was **Dr. Stephen Wolfram**, distinguished scientist, inventor and author of &#8220;A New Kind of Science.&#8221; He&#8217;s founder and CEO of **Wolfram Research**, the creator of **Mathematica** and **[Wolfram Alpha](http://www.wolframalpha.com/)**, a tool that digitizes the wealth of human knowledge and provides an interface to answer questions.  Dr. Wolfram was just the kind of brilliant mind I wanted to discuss many of our social data initiatives with, and thanks to the Library of Congress I got that chance.
 
@@ -25,7 +24,7 @@ After his presentation, which included an in-depth demo of the Wolfram Alpha eng
 
 ## **Saudi Arabian New Media Delegation**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Saudi-delegation.jpg" alt="Image of Saudi new media delegation." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Saudi-delegation.jpg)If that experience wasn&#8217;t enough, later that week a group of nine new media entrepreneurs from **Saudi Arabia** visited **GSA**&#8216;s Office of Citizen Services and Innovative Technologies to learn about our **Federal Socialgov Community** and **[Challenge.gov](http://challenge.gov/)**. Throughout out my career and community involvement I&#8217;ve met a lot of people, but this group opened my eyes in new ways.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Saudi-delegation.jpg" alt="Image of Saudi new media delegation." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Saudi-delegation.jpg)If that experience wasn&#8217;t enough, later that week a group of nine new media entrepreneurs from **Saudi Arabia** visited **GSA**&#8216;s Office of Citizen Services and Innovative Technologies to learn about our **Federal Socialgov Community** and **[Challenge.gov](http://challenge.gov/)**. Throughout out my career and community involvement I&#8217;ve met a lot of people, but this group opened my eyes in new ways.
 
 Consider that despite what many may think, more than [51% of Saudi Arabians are active on **Twitter**](https://www.globalwebindex.net/twitter-usage-is-booming-in-saudi-arabia/) &#8212; one of the highest per capita use rates in the world. There are no public cinemas in the Kingdom, which makes **YouTube** the preferred [social network for creating and distributing film, television and collaborative projects](http://www.cbc.ca/news/world/nahlah-ayed-why-saudi-arabia-is-the-world-s-top-youtube-nation-1.1359187). It was certainly the first time I&#8217;ve discussed our social media programs with a group who had an interpreter translating each sentence into ear pieces, but despite the language barrier we quickly learned of shared challenges that all of us face in using social media to improve services and opportunities for our communities. The need to provide trust and reliable information, while still engaging and competitive in a saturated market, is a challenge all digital media managers face.
 

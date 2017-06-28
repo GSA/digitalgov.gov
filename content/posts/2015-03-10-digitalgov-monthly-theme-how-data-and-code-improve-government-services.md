@@ -1,11 +1,10 @@
 ---
-url: /2015/03/10/digitalgov-monthly-theme-how-data-and-code-improve-government-services/
 date: 2015-03-10 11:43:05 -0400
 title: 'DigitalGov Monthly Theme: How Data and Code Improve Government Services'
 summary: Data and code are the foundation, building blocks, and cornerstone of government digital services. They are the keys that open the door to a better digital government future and are fundamental in making government more open. No matter who you are or where you work in the federal space, data and code enable your projects
 authors:
-  - jparcell
   - awichman
+  - jparcell
 categories:
   - Data
   - Monthly Theme
@@ -25,7 +24,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-450-USA-Networking-Vicente-Barcelo-Varona-Hemera-Thinkstock-100748265.jpg" alt="Digital photo of U S A Networking concept with binary code and website scripting overlays" caption="" >}} 
 
 Data and code are the foundation, building blocks, and cornerstone of government digital services. They are the keys that open the door to a better digital government future and are [fundamental in making government more open](http://www.whitehouse.gov/open). No matter who you are or where you work in the federal space, data and code enable your projects to meet real needs.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/09/27/webinar-recap-snaps-and-stripes-sharing-public-service-stories-with-snapchat/
 date: 2016-09-27 11:00:50 -0400
 title: 'Webinar Recap: Snaps and Stripes—Sharing Public Service Stories with Snapchat'
 summary: What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs. A recent New York Times article described
@@ -10,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
   - Video
 tag:
@@ -50,7 +49,7 @@ Edgardo and his team quickly identified that Snapchat was the right place to eng
 
 The team decided to create a recognizable mascot for Snapchat, and found “Presidential” rubber duckies who are now the stars of the USA.gov Snapchat account. The team has even been recognized “out in the field” when they are shooting with the now-famous rubber duckies! They use these mascots to help tell fun and engaging stories – one recent example was a Snapchat Story about the new $20 bill from the Department of the Treasury.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-333-USAgov-Snapchat-ducks.jpg" alt="USAgov's Snapchat ducks" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-333-USAgov-Snapchat-ducks.jpg" alt="USAgov's Snapchat ducks" >}}
 
 However, they don’t always use the mascots; it is context dependent. Other types of content they share include immigration information, emergency preparedness, and really anything else that is a priority across the wealth of content and services on the [USA.gov website](https://www.usa.gov/). Recently, they provided a sneak peak of the new [National Museum of African American History and Culture](https://nmaahc.si.edu/), which was very popular. Currently, they are working with the Peace Corps to do a weekly Peace Corps volunteer Snapchat takeover. They provide access to their account to a volunteer abroad who is sharing stories of their daily life.
 
@@ -58,7 +57,7 @@ However, they don’t always use the mascots; it is context dependent. Other typ
 
 After creating the [Snapchat story](https://support.snapchat.com/en-US/about/stories) (a story is simply multiple videos strung together on the platform), they download the story, which is done by going to [“Memories”](https://support.snapchat.com/en-US/ca/memories) on the platform to download or text or email the story to yourself (you can also save each snap to Memories as you shoot each video). Then, they edit the video file for accessibility. They narrate with great detail (including audio descriptions where possible), close-caption it, and add a text transcript. To ensure that everyone can engage with the content, even after it has disappeared from Snapchat, they upload the video to their website, their [Snapchat Stories playlist on YouTube](https://www.youtube.com/playlist?list=PLrcvzEeHM66sPsgTJSWdRx5zpKuGB-IhB), or other social media platforms.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-352-USAgov-Snapchat-triptych.jpg" alt="Three screencaps of USAgov on Snapchat." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-352-USAgov-Snapchat-triptych.jpg" alt="Three screencaps of USAgov on Snapchat." >}}
 
 The team at USA.gov has been using Snapchat as part of their content and social media strategy for about 5 months, and it has quickly become their most-engaged platform. They are producing about 2 Snapchat Stories per week at this time.Almost 50% of the audience watches full stories (the collection of videos with a beginning, middle, and call-to-action at the end).
 
@@ -84,7 +83,7 @@ In terms of calls to action, they usually suggest that people follow one of thei
 
 Emily mentioned that they don’t create enough content yet to make the [Snapchat “Discover”](https://support.snapchat.com/en-US/ca/discover) channel an option. Discover requires that you have 5-10 unique pieces of content for every day of the week, and they don’t produce enough at this point. Depending on the week, they might produce 2 Snapchat Stories, but on busy weeks it can be up to 4 or 5, for example during a spacecraft launch.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-354-NASA-Snapchat-triptych.jpg" alt="Screencaps of NASA's three types of storytelling used on Snapchat; First-Person Accounts, Behind the Scenes, and NASA Socials." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-354-NASA-Snapchat-triptych.jpg" alt="Screencaps of NASA's three types of storytelling used on Snapchat; First-Person Accounts, Behind the Scenes, and NASA Socials." >}}
 
 You can follow the NASA Social Media Team on Twitter at [@NASASocial](https://twitter.com/NASASocial), and USA.gov at [@USAgov](https://twitter.com/USAgov). On Snapchat, just search for NASA and USAGov. The full webinar, with a great Q&A section at the end, is available to [watch on DigitalGov&#8217;s YouTube channel](https://www.youtube.com/watch?v=G82jBHxE4Tk) or the embedded player below.
 

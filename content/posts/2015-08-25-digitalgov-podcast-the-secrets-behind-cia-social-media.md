@@ -1,5 +1,4 @@
 ---
-url: /2015/08/25/digitalgov-podcast-the-secrets-behind-cia-social-media/
 date: 2015-08-25 10:00:43 -0400
 title: 'DigitalGov Podcast: The Secrets Behind CIA Social Media'
 summary: 'Julia Child and the OSS Recipe for Shark Repellent: http://t.co/q3cC4QiJhR #SharkWeek #OSS #WWII pic.twitter.com/Idbo1OkPLP &mdash; CIA (@CIA) July 9, 2015 The Central Intelligence Agency launched their Twitter account with the second most retweeted inaugural post in the platform&rsquo;s history: &ldquo;We can neither confirm nor deny that this is our first tweet.&rdquo; Now for the first'

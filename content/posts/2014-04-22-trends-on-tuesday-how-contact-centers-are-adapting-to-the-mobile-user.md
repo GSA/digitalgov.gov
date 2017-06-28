@@ -1,5 +1,4 @@
 ---
-url: /2014/04/22/trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user/
 date: 2014-04-22 10:00:01 -0400
 title: 'Trends on Tuesday: How Contact Centers are Adapting to the Mobile User'
 summary: While it does provide challenges, anytime, anywhere digital government provides numerous opportunities for contact centers to do business more effectively. According to this study by Compare Business Products, one of the most important impacts for contact centers is that smartphone users can now connect with contact centers via voice calls, SMS messages, Internet pages, social
@@ -9,7 +8,7 @@ categories:
   - Communities
   - Mobile
   - Monthly Theme
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - AoI
   - GPS
@@ -19,7 +18,7 @@ tag:
   - U.S. Department of Veterans Affairs
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
 
 While it does provide challenges, anytime, anywhere digital government provides numerous opportunities for contact centers to do business more effectively.
 

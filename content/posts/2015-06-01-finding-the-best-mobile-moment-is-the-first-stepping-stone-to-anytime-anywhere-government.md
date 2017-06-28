@@ -1,5 +1,4 @@
 ---
-url: /2015/06/01/finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government/
 date: 2015-06-01 11:10:30 -0400
 title: Finding the Best Mobile Moment Is the First Stepping Stone to Anytime, Anywhere Government
 summary: Mobile-friendliness is a must for government. But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the Department of Education and National Park Service have illustrated. Many agencies are thinking big things for 2015, but if your agency is struggling with that first mobile implementation, you will be asking yourself
@@ -15,7 +14,7 @@ tag:
   - Mobile UX Guideline 5
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - 'Occupational Safety and Health Administration'
+  - 'Occupational Safety &amp; Health Administration'
   - OSHA
   - U.S. Department of Veterans Affairs
   - usa.gov
@@ -32,7 +31,7 @@ The [mobile moments](https://solutions.forrester.com/mobile) concept has been po
 
 Mobile moments are your agency’s [chance to shine](https://econsultancy.com/blog/65041-making-the-most-of-mobile-moments-to-transform-the-customer-experience/). The key is getting to [know your user](https://www.WHATEVER/2015/05/15/government-services-through-a-life-events-approach/); analytics can [help you find the moment](https://www.thinkwithgoogle.com/research-studies/creating-moments-that-matter.html). However, Ask and her Forrester colleagues suggest plotting the customer journey very specifically. This includes knowing every detail about their context and needs. You should [chart the various scenarios that users may encounter](https://solutions.forrester.com/mobile/landing-61Q6-3212NK.html) when interacting with your office; below is an example chart that Ask created for an airline company.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-740-mobile\_moment\_timeline_\_american\_airlines_109381-4.jpg" alt="Forrester Research chart titled, "Plotting the mobile moments for an American Airlines traveler."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-740-mobile\_moment\_timeline_\_american\_airlines_109381-4.jpg" alt="Forrester Research chart titled, Plotting the mobile moments for an American Airlines traveler." >}}
 
 Once you find a mobile moment, you should build for mobile and not adapt existing processes. You should [think like a mobile designer](http://www.smashingmagazine.com/2015/04/10/thinking-like-an-app-designer/) and prototype for the mobile user. [USA.gov](https://www.WHATEVER/2014/05/22/how-to-make-a-mobile-paper-prototype/) and the [Department of Veterans Affairs](https://www.WHATEVER/2014/08/21/paper-prototyping-ptsd-coach/) both [paper prototyped](https://www.WHATEVER/2014/08/08/design-sketching-the-easiest-prototype-method-ever/) for their mobile users. There are also [digital tools](https://popapp.in/en/terms/government-users) that allow you to prototype for mobile.
 
@@ -42,7 +41,7 @@ After you have implemented the mobile moment, promote it and pay attention to [h
 
 There are many examples of agencies who are winning their mobile moments. See [IRS2Go](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/), [NOAA’s Dolphin and Whale 911](https://www.WHATEVER/2014/09/25/saving-the-whales-with-just-your-smartphone-west-coast-edition/), and [OSHA’s Heat Safety App](https://www.WHATEVER/2012/07/13/osha-heat-safety-tool-app/). However, the TSA is winning big.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-370-Can-I-Bring-Screenshot_2015-06-01-05-10-15.jpg" alt="Screen shot of the T S A "Can I Bring...?" website tool." %}TSA offers the [MyTSA](http://www.tsa.gov/traveler-information/my-tsa-mobile-application) iOS app, Google Play app, and a mobile website that are all tied to helping the user get to their plane at the airport as quickly as possible. The app includes information on airport delays, security line wait times, and other useful information. However, the mobile moment that TSA is winning the most is the [Can I Bring&#8230;?](https://apps.tsa.dhs.gov/mytsa/cib_home.aspx) moment.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-370-Can-I-Bring-Screenshot_2015-06-01-05-10-15.jpg" alt="Screen shot of the T S A Can I Bring...? website tool." >}}TSA offers the [MyTSA](http://www.tsa.gov/traveler-information/my-tsa-mobile-application) iOS app, Google Play app, and a mobile website that are all tied to helping the user get to their plane at the airport as quickly as possible. The app includes information on airport delays, security line wait times, and other useful information. However, the mobile moment that TSA is winning the most is the [Can I Bring&#8230;?](https://apps.tsa.dhs.gov/mytsa/cib_home.aspx) moment.
 
 The Can I Bring…? tool was designed to answer the most commonly asked questions fielded by TSA’s contact center about items that passengers want to bring on a plane.
 

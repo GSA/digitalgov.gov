@@ -1,8 +1,7 @@
 ---
-url: /2014/02/14/engagement/
 date: 2014-02-14 12:58:46 -0400
 title: Engagement
-summary: ' It&rsquo;s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of the'
+summary: ' It&rsquo;s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign. The idea of making sure your social media accounts are reaching key constituents and members of'
 authors:
   - dorothy-amatucci
 categories:
@@ -15,7 +14,7 @@ tag:
   - US Fish and Wildlife Service
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-293-social-media-registry-federal-engagement-word-cloud.jpg" alt="Social Media federal registry engagement word cloud" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-293-social-media-registry-federal-engagement-word-cloud.jpg" alt="Social Media federal registry engagement word cloud" >}}
 
 It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign.
 

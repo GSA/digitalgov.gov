@@ -1,8 +1,7 @@
 ---
-url: /2016/11/17/femas-syndicated-content-digital-assists-in-moments-of-disaster/
 date: 2016-11-17 12:00:39 -0400
 title: 'FEMA’S Syndicated Content: Digital Assists in Moments of Disaster'
-summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the site widgets and the FEMA app his organization has been developing. The widgets currently available include: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor. The FEMA App offers many'
+summary: 'I recently interviewed Daniel Kuhns, Web Manager at FEMA, about the site widgets and the FEMA app his organization has been developing. The widgets currently available include: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor. The FEMA App offers'
 authors:
   - christen-geiler
 categories:
@@ -22,7 +21,7 @@ tag:
 
 I recently interviewed Daniel Kuhns, Web Manager at [FEMA](https://www.fema.gov), about the site widgets and the FEMA app his organization has been developing. The widgets currently available include: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-FEMA-App-in-English.jpg" alt="FEMA app in English." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-FEMA-App-in-English.jpg" alt="FEMA app in English." >}}
 
 The [FEMA App](https://www.fema.gov/mobile-app) offers many features such as weather alerts, safety reminders, shelter information and contact information. This information can be very helpful in times of an emergency, and some of it, to include the safety tips, are available offline.
 
@@ -30,7 +29,7 @@ The [FEMA widgets](https://www.fema.gov/widgets) are a good example of [syndicat
 
 Dan stated that the organization’s goal “is to provide the most targeted information possible to survivors before, during, and after a disaster.” He noted that, &#8220;with our ability to constantly and quickly edit widget content, we can put out a focused message to a niche market or cast a wider net if necessary. Being able to quickly and confidently put out targeted, specific messaging, and provide survivors with up-to-the-minute information is paramount to our organization.&#8221;
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-screen-capture-FEMA-website-widgets-Kids-Fire-Safety-display-and-i-frame-code.jpg" alt="Screen capture of the FEMA website widgets Kids Fire Safety display on the left and the i frame code on the right." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-screen-capture-FEMA-website-widgets-Kids-Fire-Safety-display-and-i-frame-code.jpg" alt="Screen capture of the FEMA website widgets Kids Fire Safety display on the left and the i frame code on the right." >}}
 
 When asked why these widgets and the app are so helpful, Dan explained, “During any disaster one of our biggest priorities is providing accurate information to survivors. During and after a disaster there can be an incredible amount of false information out there, and we need to reach a targeted audience on their terms, by targeting local papers and websites that are within the disaster-affected area, but not inundating them with extraneous or non-relevant info.”
 

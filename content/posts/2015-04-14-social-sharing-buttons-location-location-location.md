@@ -1,8 +1,7 @@
 ---
-url: /2015/04/14/social-sharing-buttons-location-location-location/
 date: 2015-04-14 10:00:19 -0400
 title: 'Social Sharing Buttons: Location, Location, Location'
-summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons Work)'
+summary: ' DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful (When Sharing Buttons'
 authors:
   - sara-smith
 categories:
@@ -15,7 +14,7 @@ tag:
   - social media metrics
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/400-x-72-fb-twitter-email-plus-sign.jpg" alt="Four typical social share icon buttons for Facebook, Twitter, email and the plus sign for more options in a horizontal line." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/400-x-72-fb-twitter-email-plus-sign.jpg" alt="Four typical social share icon buttons for Facebook, Twitter, email and the plus sign for more options in a horizontal line." >}}
 
 DigitalGov has seen posts from members of the community who land on opposite sides regarding social sharing buttons. There are those who find social sharing buttons useful ([When Sharing Buttons Work](https://www.WHATEVER/2014/04/23/when-sharing-buttons-work/)) and those who’ve found the opposite ([To Use Social Sharing Buttons or Not](https://www.WHATEVER/2014/04/02/to-use-social-sharing-buttons-or-not/)). I’d argue the utility can be found in adjusting how, or more specifically where, you use them. But first…
 
@@ -35,13 +34,13 @@ DigitalGov has seen posts from members of the community who land on opposite sid
 
 Since 2011, the [National Institute on Drug Abuse](http://www.drugabuse.gov/) (NIDA) has used a small orange box that says “+Share.” In June 2014, we added a scrolling toolbar (on the left, in the desktop view screenshot below) to the site for those viewing on a desktop. Then in October 2014, we enabled a scrolling toolbar for mobile visitors as well (on the bottom, in the mobile view screenshot below).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/390-x-275-NIDA-Website-Screenshot.jpg" alt="390-x-275-NIDA-Website-Screenshot" %}   {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/155-x-275-NIDA-Mobile-Screenshot.jpg" alt="155-x-275-NIDA-Mobile-Screenshot" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/390-x-275-NIDA-Website-Screenshot.jpg" alt="390-x-275-NIDA-Website-Screenshot" >}}   {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/155-x-275-NIDA-Mobile-Screenshot.jpg" alt="155-x-275-NIDA-Mobile-Screenshot" >}}
 
 Making these adjustments involved adding pieces of code provided by [AddThis](https://www.addthis.com/#gallery) to our website. AddThis is the company we use for social sharing services. For the small amount of time and effort spent on the addition of the sharing toolbars, we quickly saw results. Immediately, we experienced a rapid increase in social shares. We averaged 1,000-1,500 shares until June 2014, when the toolbar was added. For the months of January and February 2015, we’ve exceeded 20,000 social shares each month.
 
 More importantly, we’ve also experienced a correlational growth in social referrals to the site since the implementation of the social sharing toolbars. The tool we use only gives social click data for the top 50 shared pages, providing a slightly incomplete picture of clicks back to our site based upon the social shares. However, by analyzing the social click data available, social clicks on the shares have increased from about 1,000 a month to about 2,000 a month since we added the social sharing toolbars. When you consider that our social referral traffic has been averaging 30,000 each month, another 1,000 clicks is noteworthy.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-429-AddThisDashboardMay14toMar15.jpg" alt="600-x-429-AddThisDashboardMay14toMar15" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-429-AddThisDashboardMay14toMar15.jpg" alt="600-x-429-AddThisDashboardMay14toMar15" >}}
 
 ## Drawing Conclusions
 

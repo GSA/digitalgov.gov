@@ -1,5 +1,4 @@
 ---
-url: /2017/05/04/dhs-study-on-mobile-device-security/
 date: 2017-05-04 12:00:43 -0400
 title: DHS Study on Mobile Device Security
 summary: 'The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government&rsquo;s use of mobile devices and recommends security improvements to the mobile device ecosystem. The DHS Science and Technology Directorate (S&T) led the study in coordination with the National Institute of Standards and Technology'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Managing Digital
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - DHS
   - mobile
@@ -18,7 +17,7 @@ tag:
   - United States Department of Homeland Security
 ---
 
-The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The <a href="https://www.dhs.gov/science-and-technology" target="_blank" rel="noopener noreferrer">DHS Science and Technology Directorate (S&T)</a> led the study in coordination with the National Institute of Standards and Technology and its National Cybersecurity Center of Excellence. {% img="https://www.WHATEVER/files/2017/05/600-x-400-Digital-Internet-security-HYWARDS-iStock-Thinkstock-614342526.jpg" alt="Digital Internet security." %} 
+The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The <a href="https://www.dhs.gov/science-and-technology" target="_blank" rel="noopener noreferrer">DHS Science and Technology Directorate (S&T)</a> led the study in coordination with the National Institute of Standards and Technology and its National Cybersecurity Center of Excellence. {{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-400-Digital-Internet-security-HYWARDS-iStock-Thinkstock-614342526.jpg" alt="Digital Internet security." caption="" >}} 
 
 Mandated by the Cybersecurity Act of 2015, the “Study on Mobile Device Security” relied on significant input from mobile industry vendors, carriers, service providers and academic researchers.
 
@@ -41,7 +40,7 @@ DHS has a responsibility to not only secure the means of communication used by d
   
   <tr class="odd">
     <td scope="row">
-      <span class="file">{% img="https://www.dhs.gov/modules/file/icons/application-pdf.png" alt="PDF icon" %} <a title="DHS Study on Mobile Device Security - April 2017-FINAL.pdf" href="https://www.dhs.gov/sites/default/files/publications/DHS%20Study%20on%20Mobile%20Device%20Security%20-%20April%202017-FINAL.pdf">DHS Study on Mobile Device Security</a></span>
+      <span class="file">{{< legacy-img src="https://www.dhs.gov/modules/file/icons/application-pdf.png" alt="PDF icon" >}} <a title="DHS Study on Mobile Device Security - April 2017-FINAL.pdf" href="https://www.dhs.gov/sites/default/files/publications/DHS%20Study%20on%20Mobile%20Device%20Security%20-%20April%202017-FINAL.pdf">DHS Study on Mobile Device Security</a></span>
     </td>
     
     <td>

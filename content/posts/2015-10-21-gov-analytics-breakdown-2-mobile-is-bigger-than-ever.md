@@ -1,5 +1,4 @@
 ---
-url: /2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/
 date: 2015-10-21 1:22:30 -0400
 title: 'Gov Analytics Breakdown #2: Mobile Is Bigger than Ever'
 summary: 'A review of the Digital Analytics Program (DAP) data confirms what many are already saying: Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing. Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the'
@@ -28,7 +27,7 @@ Three things are evident when looking at the breakdown of sessions on federal go
   * Share of sessions via desktop (includes laptop) dropped significantly (from 80% to 66%)
   * Share of sessions via mobile devices (not including tablet) more than doubled (from 13% to 27%)
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-Desk-Mobile-tablet.jpg" alt="A chart showing the Percentage of Device Usage for desktop, mobile, and tablets, covering the years 2013, 2014, and 2015. It shows that while tablet usage has remained pretty steady, desktop usage has decreased and mobile usage has increased." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-Desk-Mobile-tablet.jpg" alt="A chart showing the Percentage of Device Usage for desktop, mobile, and tablets, covering the years 2013, 2014, and 2015. It shows that while tablet usage has remained pretty steady, desktop usage has decreased and mobile usage has increased." >}}
 
 Within the last year, we saw the combined mobile and tablet percentage exceed one-third of all sessions. **A third of the time, content on DAP-participating websites is viewed via mobile or tablet**, which has significant implications for Web design, responsiveness and mobile websites.
 
@@ -40,13 +39,13 @@ If we look at mobile sessions on their own (not compared to desktop), Apple devi
 
 Another interesting fact: In a 30-day sample, over 1,000 different mobile brands and over 9,000 distinct mobile devices were used to access DAP-participating websites.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-MobilebyBrand.jpg" alt="A chart showing the Percentage of Mobile Sessions by Brand (Apple 49.7%, Samsung 21.9%, LG 4.5%, Motorola 3.6%, and other 20.3% [more than 1,000 brands]), from 2013 to 2015." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-MobilebyBrand.jpg" alt="A chart showing the Percentage of Mobile Sessions by Brand (Apple 49.7%, Samsung 21.9%, LG 4.5%, Motorola 3.6%, and other 20.3% [more than 1,000 brands]), from 2013 to 2015." >}}
 
 ## Browsers
 
 Last week, we did some <a href="https://www.WHATEVER/2015/10/15/gov-analytics-breakdown-1-browsers-chrome-takes-the-cake/" target="_blank">analysis on overall browser usage</a>. But one needs to look a bit deeper into the DAP data to understand the mobile browser trends. Since some browsers are mobile-specific (like Android) and others are not (like Safari), we broke down the browser usage for mobile sessions (includes both mobile and tablet).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-MobilebyBrowser.jpg" alt="A chart showing the Percentage of Mobile Sessions by Browser (Safari, Chrome, Android, Internet Explorer, and other), from 2013 to 2015." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-MobilebyBrowser.jpg" alt="A chart showing the Percentage of Mobile Sessions by Browser (Safari, Chrome, Android, Internet Explorer, and other), from 2013 to 2015." >}}
 
 ### Takeaways
 

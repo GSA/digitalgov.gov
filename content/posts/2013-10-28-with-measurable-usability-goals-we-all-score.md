@@ -1,12 +1,11 @@
 ---
-url: /2013/10/28/with-measurable-usability-goals-we-all-score/
 date: 2013-10-28 2:07:47 -0400
 title: With Measurable Usability Goals – We All Score
-summary: Setting measurable usability goals will help your team to assess the performance of your site throughout development. Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above, bench
+summary: Setting measurable usability goals will help your team to assess the performance of your site throughout development. Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above,
 authors:
   - katie-messner
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - HHS
@@ -14,7 +13,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/usability-chart-3.jpg" alt="Mock chart showing the importance of success, accuracy, satisfaction, and speed as usability goals" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/usability-chart-3.jpg)Setting measurable usability goals will help your team to assess the performance of your site throughout development.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/usability-chart-3.jpg" alt="Mock chart showing the importance of success, accuracy, satisfaction, and speed as usability goals" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/usability-chart-3.jpg)Setting measurable usability goals will help your team to assess the performance of your site throughout development.
 
 Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above, bench marking and improving on task performance can only improve the usability of your site.
 

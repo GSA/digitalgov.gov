@@ -1,5 +1,4 @@
 ---
-url: /2016/11/02/the-digital-transition-how-the-presidential-transition-works-in-the-social-media-age/
 date: 2016-11-02 12:00:25 -0400
 title: 'The Digital Transition: How the Presidential Transition Works in the Social Media Age'
 summary: 'Summary: Take a look at how we plan to preserve and pass on the digital history of the Obama administration. President Obama is the first &ldquo;social media president&rdquo;: the first to have @POTUS on Twitter, the first to go live on Facebook from the Oval Office, the first to answer questions from citizens on YouTube,'
@@ -12,7 +11,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - Video
 tag:
   - Audio/Video
@@ -34,7 +33,7 @@ tag:
 
 President Obama is the first “social media president”: the first to have [@POTUS on Twitter](https://twitter.com/potus/status/600324682190053376?lang=en), the first to [go live on Facebook](https://www.facebook.com/potus/videos/443819269141252) from the Oval Office, the first to answer questions [from citizens on YouTube](https://www.youtube.com/watch?v=0pqzNJYzh7I), the first to use a [filter on Snapchat](https://www.youtube.com/watch?v=OIDEGN4Js40). Over the past eight years, the President, Vice President, First Lady, and the White House have used social media and technology to engage with people around the country and the world on the most important issues of our time (while having some [fun along the way](https://twitter.com/POTUS/status/763744742072913920)).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-potus-phone.jpg" alt="President Obama looks at a mobile device in the Oval Office." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-potus-phone.jpg" alt="President Obama looks at a mobile device in the Oval Office." >}}
 
 Looking back over the past eight years, our digital footprint reflects some broader changes in the ways people consume news and information and engage with the world around them online. In 2009, in addition to rolling out a [revamped WhiteHouse.gov](https://www.whitehouse.gov/blog/2009/01/20/change-has-come-whitehousegov) featuring a blog, RSS, and an email list, we [joined Facebook, Twitter, Flickr, Vimeo, iTunes, and even MySpace](https://www.whitehouse.gov/blog/2009/05/01/whitehouse-20). In 2011, we launched [We the People](https://petitions.whitehouse.gov/), a platform for citizens to petition the White House. In 2013, the First Lady posted her [first photo to Instagram](https://www.instagram.com/p/bD8tjjPZPm/?taken-by=michelleobama). In 2015, President Obama sent his first tweet from [@POTUS](https://twitter.com/potus/status/600324682190053376?lang=en). In 2016, the White House debuted an official story on Snapchat for the State of the Union. This digital infrastructure is an asset not just for the next president but for all future presidents to build off of. The archive belongs to the American people.
 

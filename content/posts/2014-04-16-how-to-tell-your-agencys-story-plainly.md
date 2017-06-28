@@ -1,5 +1,4 @@
 ---
-url: /2014/04/16/how-to-tell-your-agencys-story-plainly/
 date: 2014-04-16 10:00:23 -0400
 title: How to Tell Your Agency’s Story—Plainly
 summary: 'You&rsquo;ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You&rsquo;ve got the facts. You&rsquo;ve got the talking points. All you have to do is put it together, right? Wait. What you want to tell people is not necessarily what they need to know. I know it&rsquo;s hard to organize material'
@@ -14,7 +13,7 @@ tag:
   - social media
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" caption="" >}} 
 
 You’ve got the right words, the active verbs, the carefully chosen adjectives and adverbs. You’ve got the facts. You’ve got the talking points. All you have to do is put it together, right?
 

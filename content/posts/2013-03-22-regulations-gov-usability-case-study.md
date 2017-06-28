@@ -1,12 +1,11 @@
 ---
-url: /2013/03/22/regulations-gov-usability-case-study/
 date: 2013-03-22 11:29:33 -0400
 title: 'Regulations.gov &#8211; Usability Case Study'
 summary: 'More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can&rsquo;t immediately find what they are looking for, they&rsquo;re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped test Regulations.gov on October 5, 2012, to'
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - DigitalGov User Experience Program
   - usability
@@ -40,7 +39,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before.png" alt="Screenshot of Regulations.gov before ux testing" %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before.png" alt="Screenshot of Regulations.gov before ux testing" >}}</a>
     </p>
     
     <p>
@@ -48,7 +47,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before-2.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before-2.png" alt="Screenshot of Regulations.gov before ux testing-2" %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before-2.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before-2.png" alt="Screenshot of Regulations.gov before ux testing-2" >}}</a>
     </p>
     
     <p>
@@ -104,11 +103,11 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after.png" alt="Screenshot of Regulations.gov after ux testing" %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after.png" alt="Screenshot of Regulations.gov after ux testing" >}}</a>
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after-2.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after-2.png" alt="Screenshot of Regulations.gov after ux testing-2" %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after-2.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after-2.png" alt="Screenshot of Regulations.gov after ux testing-2" >}}</a>
     </p>
     
     <p>

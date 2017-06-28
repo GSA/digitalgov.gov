@@ -1,8 +1,7 @@
 ---
-url: /2014/03/28/plain-language-page-titles-more-important-than-ever/
 date: 2014-03-28 1:00:27 -0400
 title: 'Plain Language Page Titles: More Important than Ever'
-summary: Government Web pages are found mainly through search engines. Google recently redesigned its search results page and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. Many experts now recommend even shorter
+summary: Government Web pages are found mainly through search engines. Google recently redesigned its search results page and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed. Many experts now recommend even
 authors:
   - ammie-farraj-feijoo
 categories:
@@ -13,7 +12,7 @@ tag:
   - search engine optimization
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg)Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg)Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
 
 Many experts now recommend even shorter page titles. Below are a couple of articles (plus tools) to see how the change may affect your page titles:
 

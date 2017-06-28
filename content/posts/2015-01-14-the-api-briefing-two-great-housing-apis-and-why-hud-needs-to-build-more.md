@@ -1,8 +1,7 @@
 ---
-url: /2015/01/14/the-api-briefing-two-great-housing-apis-and-why-hud-needs-to-build-more/
 date: 2015-01-14 12:47:31 -0400
 title: 'The API Briefing: Two Great Housing APIs and Why HUD Needs to Build More'
-summary: ' Recently, a reader pointed out that some of the APIs I write about are not really APIs but just datasets. Technically that is true but it only takes some development effort to turn a into an API. That is why I also highlight interesting federal datasets along with federal APIs. There'
+summary: ' Recently, a reader pointed out that some of the APIs I write about are not really APIs but just datasets. Technically that is true but it only takes some development effort to turn a into an API. That is why I also highlight interesting federal datasets along with federal APIs.'
 authors:
   - bbrantley
 categories:
@@ -15,9 +14,9 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="600-x-400-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591" >}}
 
-Recently, a reader pointed out that some of the APIs I write about are not really APIs but just datasets. Technically that is true but it only takes some development effort to turn a into an API. That is why I also highlight interesting federal datasets along with federal APIs. There are many federal datasets that should be APIs but how do agencies choose which datasets to build APIs? One way is through citizens demanding that an API be created from a popular dataset. So, that is why I publicize promising datasets that should be APIs. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-167-Open-xml-book-no-credit-given-iStock-Thinkstock-94378834.jpg" alt="Open xml book" %} 
+Recently, a reader pointed out that some of the APIs I write about are not really APIs but just datasets. Technically that is true but it only takes some development effort to turn a into an API. That is why I also highlight interesting federal datasets along with federal APIs. There are many federal datasets that should be APIs but how do agencies choose which datasets to build APIs? One way is through citizens demanding that an API be created from a popular dataset. So, that is why I publicize promising datasets that should be APIs. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-167-Open-xml-book-no-credit-given-iStock-Thinkstock-94378834.jpg" alt="Open xml book" caption="" >}} 
 
 Before we start, let me explain the difference between a dataset and an API. A dataset can be a downloadable file such as a comma-delimited file (CSV), an Excel spreadsheet, or an XML file. A dataset can even be delivered as a JSON (Javascript Object Notation) file. Essentially, a dataset is just a data dump with no way to select a subset of the data (see <a href="http://www.huduser.org/portal/datasets/pis/Multifamily_Assisted_Property_Physical_Inspection_Dataset.txt" target="_blank">this example</a>). Once a developer builds methods to query the dataset and deliver a selected slice of the dataset, then you have an API. APIs can be programmed to read data from a dataset and even write data to a dataset. More complex APIs can also execute functions on applications built around datasets.
 

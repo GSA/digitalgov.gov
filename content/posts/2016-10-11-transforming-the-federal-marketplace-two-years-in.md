@@ -1,12 +1,11 @@
 ---
-url: /2016/10/11/transforming-the-federal-marketplace-two-years-in/
 date: 2016-10-11 11:00:16 -0400
 title: Transforming the Federal Marketplace, Two Years In
 summary: 'Summary: It&rsquo;s been two years since we laid out the Administration&rsquo;s plan to transform the Federal marketplace. Here&rsquo;s a look at what we&rsquo;ve accomplished, and what&rsquo;s next. Over the last two years, we&rsquo;ve focused on our mission to implement the President&rsquo;s vision for a modern government&#8211; one that leverages private-sector best practices to achieve a'
 authors:
   - anne-rung
 categories:
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - acquisition
   - agile
@@ -26,7 +25,7 @@ We’re proud of what we have achieved thus far – and we’re taking steps to 
 
 In fact, I’m excited to announce the release of a draft Category Management Circular, available for public comment [this] week, that will further institutionalize category management across the Federal Government so that we can continue to realize bigger savings, better efficiencies, and improved performance for years to come.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-the-Power-of-Category-Management.jpg" alt="An infographic for the Power of Category Management shows that: Under President Obama, we’re achieving a Federal Government that is smarter, savvier, and more effective in delivering for the American ppl. We have achieved $2.1 billion dollars in savings since 2009 by driving smarter buying practices, more than 10,000 federal users have joined Acquisition Gateway, a one-stop portal for contract management best practices, and we have eliminated over 700 duplicate contracts for professional services, resulting in more than $10 million dollars in savings over 10 years." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-the-Power-of-Category-Management.jpg" alt="An infographic for the Power of Category Management shows that: Under President Obama, we’re achieving a Federal Government that is smarter, savvier, and more effective in delivering for the American ppl. We have achieved $2.1 billion dollars in savings since 2009 by driving smarter buying practices, more than 10,000 federal users have joined Acquisition Gateway, a one-stop portal for contract management best practices, and we have eliminated over 700 duplicate contracts for professional services, resulting in more than $10 million dollars in savings over 10 years." >}}
 
 Two years ago, I laid out the Administration’s plan to [transform the Federal marketplace](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf). This plan had three core aims: (1) buying as one through category management, (2) driving innovation, and (3) building stronger vendor relationships.
 

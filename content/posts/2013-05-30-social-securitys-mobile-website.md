@@ -1,8 +1,7 @@
 ---
-url: /2013/05/30/social-securitys-mobile-website/
 date: 2013-05-30 5:06:51 -0400
 title: 'Social Security&#8217;s Mobile Website'
-summary: The Social Security Administration recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere. This mobile website was developed
+summary: The Social Security Administration recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere. This mobile website was
 authors:
   - kanika-tolver
 categories:
@@ -17,7 +16,7 @@ tag:
 
 The [Social Security Administration](http://www.ssa.gov) recently announced their new optimized mobile website which is compatible with Android, Blackberry, iPhone, and Windows devices. The mobile website offers a user friendly tabular icon driven navigation, which makes it very easy to find information anytime, anywhere.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/SSA.govmobilewebsite_.png" alt="Social Security Administration Mobile Website" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/SSA.govmobilewebsite_.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/SSA.govmobilewebsite_.png" alt="Social Security Administration Mobile Website" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/SSA.govmobilewebsite_.png)
 
 This mobile website [was developed with intelligent back end business processes](http://www.socialsecurity.gov/pressoffice/pr/ssa-mobile-pr.html) that assist users with identifying documents needed for a new/replacement Social Security number (SSN) card.  Mobile users can also access many of Social Security&#8217;s publications in both English and Spanish.
 

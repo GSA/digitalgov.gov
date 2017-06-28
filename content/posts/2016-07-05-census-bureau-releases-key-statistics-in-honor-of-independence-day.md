@@ -1,5 +1,4 @@
 ---
-url: /2016/07/05/census-bureau-releases-key-statistics-in-honor-of-independence-day/
 date: 2016-07-05 10:30:31 -0400
 title: Census Bureau Releases Key Statistics in Honor of Independence Day
 summary: 'On July 4, 1776, the Continental Congress approved the Declaration of Independence, setting the 13 colonies on the road to freedom as a sovereign nation. This most American of holidays [is] marked with typical festivities ranging from fireworks, parades and concerts to more casual family gatherings and barbecues across the country. In honor of our'
@@ -33,7 +32,7 @@ The value of fireworks imported from China in 2015, representing the bulk of all
 
 The dollar value of U.S. imports of American flags in 2015. The vast majority of this amount ($4.3 million) was for U.S. flags made in China.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-600-fourthofjulycensus.jpg" alt="U.S. Census Bureau Graphic on Places in the United States Named Liberty in Honor of Independence Day" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-600-fourthofjulycensus.jpg" alt="U.S. Census Bureau Graphic on Places in the United States Named Liberty in Honor of Independence Day" >}}
 
 **33**
 

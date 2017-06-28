@@ -1,5 +1,4 @@
 ---
-url: /2015/10/16/open-source-micro-purchasing-an-experiment-in-federal-acquisition/
 date: 2015-10-16 1:36:47 -0400
 title: 'Open Source Micro-Purchasing: An Experiment in Federal Acquisition'
 summary: '18F is an open-source team. We currently have hundreds of publicly available repositories, with dozens under active development. We&#8217;ve had numerous contributions from colleagues within government, and contributions from members of the public. But in the next few weeks, we are going to run an experiment: we want to contract for contributions. And we want'
@@ -26,7 +25,7 @@ There are several reasons we’re trying this experiment. But perhaps the most i
 
 An animation of how the CALC tool works A demonstration of our CALC tool, which we will use for this micro-purchase experiment.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/calc_demo.gif)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/calc_demo.gif)
 
 ## How will it work?
 

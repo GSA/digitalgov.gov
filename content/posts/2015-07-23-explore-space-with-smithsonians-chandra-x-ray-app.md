@@ -1,8 +1,7 @@
 ---
-url: /2015/07/23/explore-space-with-smithsonians-chandra-x-ray-app/
 date: 2015-07-23 11:57:23 -0400
 title: Explore Space with Smithsonian’s Chandra X-Ray App
-summary: 'We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft&rsquo;s dramatic flight past the icy dwarf planet Pluto and its moons&mdash;momentous in space exploration. Just think about it&mdash;New Horizons, a NASA space probe traveled over 3 billion miles to the'
+summary: 'We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft&rsquo;s dramatic flight past the icy dwarf planet Pluto and its moons&mdash;momentous in space exploration. Just think about it&mdash;New Horizons, a NASA space probe traveled over 3 billion miles to'
 authors:
   - nirmala-ramprasad
 categories:
@@ -17,7 +16,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-NASA-Chandra-X-ray-Observatory-1.jpg" alt="NASA's Chandra X-ray Observatory iPhone screenshot" %}We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft’s dramatic flight past the icy dwarf planet Pluto and its moons—momentous in space exploration. Just think about it—New Horizons, a NASA space probe traveled over 3 billion miles to the ninth and final planet, making America the first and only country that has sent space probes to every planet that makes up our solar system. That is historic!
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-NASA-Chandra-X-ray-Observatory-1.jpg" alt="NASA's Chandra X-ray Observatory iPhone screenshot" >}}We continue our celebration of American history and legacy this July 2015 with the New Horizons spacecraft’s dramatic flight past the icy dwarf planet Pluto and its moons—momentous in space exploration. Just think about it—New Horizons, a NASA space probe traveled over 3 billion miles to the ninth and final planet, making America the first and only country that has sent space probes to every planet that makes up our solar system. That is historic!
 
 According to the [Government Digital Analytics dashboard](https://www.WHATEVER/2015/07/14/analytics-prove-people-care-about-space-and-pluto/), I was just one of several thousand people scouring [NASA’s Web pages](http://www.nasa.gov/) wanting to experience the thrill of witnessing and sharing in the great moment. I spent hours soaking up everything I could read about spacecraft, and was thrilled to my core to see the new hi-res images with unprecedented details—it was like being up close and personal with Pluto—far from it being just another distant planet.
 
@@ -29,7 +28,7 @@ From exploding stars black holes to clusters of galaxies, you can explore our be
 
 Categorized by the Smithsonian Institute as an educational app, it provides a selection of Chandra’s astronomical images to zoom into, share and learn about. This app draws directly from Chandra&#8217;s Observations database. Users of this app can expect to enjoy a richer interface as the Chandra team continues to expand selections and increase interactivity in this mobile app.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-NASA-Chandra-X-ray-Observatory-2.jpg" alt="NASA's Chandra X-ray Observatory iPhone screenshot" %}I simply love this app—very easy to use. It has so many breathtaking, awesome images with a ton of info about every one of those pictures. Just tap a thumbnail image on the home screen to explore. Scroll through the image list to see the stellar images in the collection that will truly astound you—including those of a neutron star, planets in our solar system, the center of the Milky Way or the Pinwheel Galaxy just to pinpoint a few. Pinch and drag to zoom into an image.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-NASA-Chandra-X-ray-Observatory-2.jpg" alt="NASA's Chandra X-ray Observatory iPhone screenshot" >}}I simply love this app—very easy to use. It has so many breathtaking, awesome images with a ton of info about every one of those pictures. Just tap a thumbnail image on the home screen to explore. Scroll through the image list to see the stellar images in the collection that will truly astound you—including those of a neutron star, planets in our solar system, the center of the Milky Way or the Pinwheel Galaxy just to pinpoint a few. Pinch and drag to zoom into an image.
 
 Want more information about what you are seeing? Tap “more info” for text on the image. Want to know even more… touch the “site page” button for more details. When you are on the site page, you are able to print, save or share the image in email, Twitter, Facebook, etc.
 

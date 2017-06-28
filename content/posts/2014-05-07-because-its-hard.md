@@ -1,8 +1,7 @@
 ---
-url: /2014/05/07/because-its-hard/
 date: 2014-05-07 10:00:35 -0400
 title: 'Because It&#8217;s Hard'
-summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets, built
+summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets,
 authors:
   - gwynne-kostin
 categories:
@@ -10,7 +9,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - API
@@ -25,7 +24,7 @@ tag:
   - user experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
 
 Agencies opened data sets, built mobile apps and websites, published APIs, created and updated digital governance structures, and joined with other agencies in measuring digital services performance.
 

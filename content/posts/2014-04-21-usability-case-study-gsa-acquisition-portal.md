@@ -1,5 +1,4 @@
 ---
-url: /2014/04/21/usability-case-study-gsa-acquisition-portal/
 date: 2014-04-21 10:00:24 -0400
 title: 'GSA Acquisition Portal &#8211; Usability Case Study'
 summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it&rsquo;s much better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'
@@ -7,7 +6,7 @@ authors:
   - tlowden
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -40,16 +39,16 @@ From information architecture and appearance of “buttons” to the order of li
 Take a look at some of the “before and after” images below:
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" >}}</a>
 </p>
 
 Test participants had difficulty finding the FY 2010 Procurement Management Review (PMR) Report, because they did not consider it a “best practice.” Once participants navigated to the “Best Practices” supporting sub-page, they again stated that the links there were not really “best practices.” “Reports & Publications” is a better category description.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-300-Usability-Case-Study-GSA-Acquisition-Portal-Buttons-wireframe-before-and-website-after-ANNOTATED.jpg" alt="Screenshot of changes made to buttons on the site" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-300-Usability-Case-Study-GSA-Acquisition-Portal-Buttons-wireframe-before-and-website-after-ANNOTATED.jpg" alt="Screenshot of changes made to buttons on the site" >}}
 
 During the test, many people scrolled right past the hot buttons, sometimes not noticing them. The design was changed  to look more like “buttons” users would think to click on.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-315-Usability-Case-Study-GSA-Acquisition-Portal-Quick-Links-Before-and-After-ANNOTATED.jpg" alt="Screenshot of changes made to the quick links section" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-315-Usability-Case-Study-GSA-Acquisition-Portal-Quick-Links-Before-and-After-ANNOTATED.jpg" alt="Screenshot of changes made to the quick links section" >}}
 
 Some of the feedback included expanding the Quick Links section to a wider set of activities. Several new links were identified and added. Also, test participants commented that the order of the links was confusing. The order was initially set to follow the acquisition process from solicitation to contract award, but alphabetization is more intuitive.
 

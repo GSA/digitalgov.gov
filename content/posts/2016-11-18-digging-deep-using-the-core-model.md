@@ -1,5 +1,4 @@
 ---
-url: /2016/11/18/digging-deep-using-the-core-model/
 date: 2016-11-18 10:00:34 -0400
 title: Digging Deep Using the Core Model
 summary: 'Recently, OMB released M 17-06, Policies for Federal Agency Public Websites and Digital Services, which provides agencies with requirements, standards, and best practices for federal websites and digital services. This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -49,7 +48,7 @@ The core model workshop outlined here is the first stage of [a bigger design pro
   * 1-3 participants from your team (e.g., designers, UX, content, developers, and so forth)
   * 6-14 stakeholders from relevant fields or departments in the organization
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-425-Core-Model-workshop-sheet.jpg" alt="Screen capture of the Core Model Workshop sheet." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-425-Core-Model-workshop-sheet.jpg" alt="Screen capture of the Core Model Workshop sheet." >}}
 
 ## The Process
 
@@ -57,7 +56,7 @@ The core model workshop outlined here is the first stage of [a bigger design pro
 
 This is done by evaluating the business objectives and user tasks.  Participants should have reviewed and identified these prior to the workshop.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-geiler\_Core-Model\_user-tasks-venn-diagram.jpg" alt="A Venn diagram indicates that by evaluating the business goals and user tasks, you can identify the core pages." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-geiler\_Core-Model\_user-tasks-venn-diagram.jpg" alt="A Venn diagram indicates that by evaluating the business goals and user tasks, you can identify the core pages." >}}
 
 ### **2) Determine Inward Paths**
 

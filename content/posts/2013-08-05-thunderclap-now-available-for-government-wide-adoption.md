@@ -1,20 +1,19 @@
 ---
-url: /2013/08/05/thunderclap-now-available-for-government-wide-adoption/
 date: 2013-08-05 12:34:39 -0400
 title: Thunderclap Now Available for Government-Wide Adoption
-summary: Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of tools with federal-compatible agreements to 66. Social
+summary: Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of tools with federal-compatible agreements to 66.
 authors:
   - bsteele
 categories:
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - social media
   - Terms of Service
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/THunderclap.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/THunderclap.jpg" alt="Thunderclap logo" %}</a>Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of <a href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/" target="_blank">tools with federal-compatible agreements</a> to 66.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/THunderclap.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/THunderclap.jpg" alt="Thunderclap logo" >}}</a>Thunderclap is the latest social media and crowd-sourcing platform available to federal agencies to better engage with the public, with a newly negotiated government-compatible Terms of Service (TOS) agreement. GSA collaborated with Thunderclap to negotiate the amended terms, which brings the total number of <a href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/" target="_blank">tools with federal-compatible agreements</a> to 66.
 </p>
 
 <p dir="ltr">

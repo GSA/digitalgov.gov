@@ -1,5 +1,4 @@
 ---
-url: /2016/09/14/analytics-success-series-federal-trade-commission/
 date: 2016-09-14 3:00:39 -0400
 title: 'Analytics Success Series: Federal Trade Commission'
 summary: 'FTC&rsquo;s Analytics Success: Making mission-related tasks easier for the user to find In the summer of  2015, members of the Federal Trade Commission&rsquo;s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze Digital Analytics Program (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for FTC.gov. We found'
@@ -27,9 +26,9 @@ In the summer of  2015, members of the Federal Trade Commission’s Office of Pu
 
 Armed with this information, we revised the <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a> homepage in October 2015 and added a new area called “Take Action,” cleanly and prominently displayed at the top of the page. On the mobile version of the site, we made the Take Action section cover the entire screen upon landing on the homepage. The purpose of the change was to enable consumers to very quickly find the “top tasks” that motivated them to visit <a href="https://www.ftc.gov/" target="_blank">FTC.gov</a>. We sought to measure success by comparing data from the month before the change, and the month afterward.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-372-FTC1.jpg" alt="Desktop View" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-372-FTC1.jpg" alt="Desktop View" >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/422-x-603-FTC2.jpg" alt="Mobile view of the website." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/422-x-603-FTC2.jpg" alt="Mobile view of the website." >}}
 
 ## What we learned
 
@@ -37,11 +36,11 @@ The results were wonderfully conclusive! Our changes had a huge positive impact 
 
   * **Traffic to resources exploded.** Traffic from the homepage to the tasks in the Take Action area jumped dramatically &#8212; 47% for Complaint Assistant, 54% for Do Not Call, 9,691% for ID theft. Free Credit Report and Scam Alerts never had any measurable traffic from the home page – now they do. This means that people are using this new section to get quickly to the resource that helps them with their task. This improvement was especially timely for ID theft because it put a reference to identity theft reporting right on the home page, just in time for the rollout of the new identitytheft.gov.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-372-FTC3.jpg" alt="A chart comparing visits to old and new homepage is titled, New "Take Action" Section of Homepage Boosts Traffic to Consumer Top Tasks." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-372-FTC3.jpg" alt="A chart comparing visits to old and new homepage is titled, New Take Action Section of Homepage Boosts Traffic to Consumer Top Tasks." >}}
 
   * **Site searches dropped dramatically.** The number of FTC.gov site searches people conducted using terms related to these top tasks &#8212;  such as free credit report and do not call &#8212; dropped dramatically. (Metrics show that these are always the top search terms on our site.) This indicates that because people were able to quickly find these tasks on the homepage, they didn’t have to resort to our site’s search engine to find them.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-412-FTC4.jpg" alt="A chart comparing number of searches over two 2-month date ranges is titled, New "Take Action" Section of Homepage Reduces Consumer Searches for Top Tasks (sampling)." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-412-FTC4.jpg" alt="A chart comparing number of searches over two 2-month date ranges is titled, New Take Action Section of Homepage Reduces Consumer Searches for Top Tasks (sampling)." >}}
 
   * **Traffic soared for “Competition” tasks.** While Competition (antitrust information) is a critical part of our mission, metrics show that competition-related tasks are not top tasks for most of our site visitors. However, competition tasks are vitally important to certain audiences. So we added those tasks to the home page as well when we made our improvements. The results were substantial increases in traffic from the home page to the two competition tasks.
 

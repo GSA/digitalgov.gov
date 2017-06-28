@@ -1,11 +1,10 @@
 ---
-url: /2016/03/16/making-the-draft-u-s-web-design-standards-better-through-your-feedback/
 date: 2016-03-16 1:02:08 -0400
 title: Making the Draft U.S. Web Design Standards Better Through Your Feedback
-summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We&rsquo;ve received dozens of feature requests as well as over 400 contributions from the open source community. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be'
+summary: 'Since our launch of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through GitHub issues and via email. We&rsquo;ve received dozens of feature requests as well as over 400 contributions from the open source community. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to'
 authors:
-  - melody-kramer
   - carolyn-dew
+  - melody-kramer
 categories:
   - Content
   - UX
@@ -18,7 +17,7 @@ tag:
 
 Since [our launch](https://18f.gsa.gov/2015/09/28/web-design-standards/) of the Draft U.S. Web Design Standards last September, hundreds of people have provided feedback on the project through [GitHub issues](https://github.com/18F/web-design-standards/issues) and via email. We’ve received dozens of [feature requests](https://github.com/18F/web-design-standards/issues?q=is%3Aopen+is%3Aissue+label%3A%22feature+request%22) as well as over 400 contributions from the open source community.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." >}}
 
 Over the past five months, we’ve incorporated suggestions from the feedback we’ve received, resolved a number of outstanding issues, and made [various updates](https://github.com/18F/web-design-standards/releases/tag/v0.8.3) to our content and structure. We’ve also thought about topics like accessibility, content strategy, and user-centered design — particularly as it relates to users of government websites.
 

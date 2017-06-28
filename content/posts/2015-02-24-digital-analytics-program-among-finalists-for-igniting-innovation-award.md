@@ -1,5 +1,4 @@
 ---
-url: /2015/02/24/digital-analytics-program-among-finalists-for-igniting-innovation-award/
 date: 2015-02-24 11:10:32 -0400
 title: Digital Analytics Program Among Finalists for Igniting Innovation Award
 summary: 'The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice. Recently, Data.gov and DigitalGov&rsquo;s Digital Analytics Program (DAP) were recognized by the American Council for Technology and Industry Advisory Council (ACT-IAC), among 30 other finalists for the Igniting Innovation Award. ACT-IAC&rsquo;s'
@@ -21,7 +20,7 @@ tag:
   - TSA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Podium-with-red-carpet-DenisKot-iStock-Thinkstock-506330511.jpg" alt="Podium with red carpet" caption="" >}} 
 
 The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice.
 

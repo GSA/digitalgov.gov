@@ -1,5 +1,4 @@
 ---
-url: /2014/06/09/facebook-increases-public-service-verification-to-improve-citizen-engagement-2/
 date: 2014-06-09 2:32:35 -0400
 title: Facebook Increases Public Service Verification to Improve Citizen Engagement
 summary: 'Facebook is now the first social media platform to start verifying all federal government pages with their signature blue checkmark using the Federal Social Media Registry API. The Federal Social Media Registry provides the singular source that allows social media platforms to quickly collect real government accounts&mdash;emphasizing the critical need to ensure the trust, quality and'
@@ -25,7 +24,7 @@ Facebook is now the first social media platform to start verifying all federal g
 
 When the public searches for the new <a href="https://www.facebook.com/Central.Intelligence.Agency" target="_blank"><strong>Central Intelligence Agency</strong> Facebook account</a>, many different accounts pop up—but only one of them is managed by the actual CIA. Now, with a widespread verification system in place, citizens can identify the real government account by a blue checkmark. They can be more certain that the public services they are looking for are for real.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for "Central Intelligence Agency" on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/707-x-330-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/707-x-330-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg)
 
 ## One Thousand Accounts Verified
 

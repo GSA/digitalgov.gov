@@ -1,5 +1,4 @@
 ---
-url: /2012/11/30/using-gamification-in-federal-projects/
 date: 2012-11-30 2:35:26 -0400
 title: Using Gamification in Federal Projects
 summary: 'Gamification is the practice of using game technology or design principles for something that is not inherently game-like. Some examples include: bronze, silver, and gold badges for reading a set number of books, progress bars in online surveys, leader boards for top grades on an exam, or rewards for attending in-person events. As gamification projects are'
@@ -7,7 +6,7 @@ authors:
   - mike-kruger
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Department of Commerce
   - gamification
@@ -15,7 +14,7 @@ tag:
   - social media
 ---
 
-{% img="https://www.WHATEVER/files/2012/11/250-x-250-Vector-contest-banners-in-flat-style-winners-venimo-iStock-Thinkstock-471796081.jpg" alt="Vector contest banners in flat style winners" %} 
+{{< legacy-img src="https://www.WHATEVER/files/2012/11/250-x-250-Vector-contest-banners-in-flat-style-winners-venimo-iStock-Thinkstock-471796081.jpg" alt="Vector contest banners in flat style winners" caption="" >}} 
 
 Gamification is the practice of using game technology or design principles for something that is not inherently game-like. Some examples include: bronze, silver, and gold badges for reading a set number of books, progress bars in online surveys, leader boards for top grades on an exam, or rewards for attending in-person events. As gamification projects are becoming increasing common in the government, here are some basic principles and policies to help program managers and project directors make informed decisions around this popular technique.
 
@@ -27,7 +26,7 @@ Consider using gamification when you are trying to motivate behavior, reach a ge
 
 ## How to Implement
 
-### Design Principles {% img="https://www.WHATEVER/files/2012/11/250-x-248-Social-Connector-Vector-gamification-concept-achievement-icons-venimo-iStock-Thinkstock-467474919.jpg" alt="Social Connector icon from gamification concept achievement icons" %} 
+### Design Principles {{< legacy-img src="https://www.WHATEVER/files/2012/11/250-x-248-Social-Connector-Vector-gamification-concept-achievement-icons-venimo-iStock-Thinkstock-467474919.jpg" alt="Social Connector icon from gamification concept achievement icons" caption="" >}} 
 
 Some common design principles include: leader boards, achievements, and virtual assets. Consider adding social aspects into the “game” to increase its longevity and user engagement.
 

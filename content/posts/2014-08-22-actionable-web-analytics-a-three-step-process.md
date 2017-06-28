@@ -1,8 +1,7 @@
 ---
-url: /2014/08/22/actionable-web-analytics-a-three-step-process/
 date: 2014-08-22 1:00:36 -0400
 title: 'Actionable Web Analytics: A Three-Step Process'
-summary: As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more of
+summary: As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more
 authors:
   - sam-bronson
 categories:
@@ -14,7 +13,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-188-Actionable-Web-Analytics-City-Bike-Riders.jpg" alt="250-x-188-Actionable-Web-Analytics-City-Bike-Riders" %}As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more of the latter. That’s when you risk falling into a routine; when you risk forgetting the real power of Web analytics—effecting change.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-188-Actionable-Web-Analytics-City-Bike-Riders.jpg" alt="250-x-188-Actionable-Web-Analytics-City-Bike-Riders" >}}As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more of the latter. That’s when you risk falling into a routine; when you risk forgetting the real power of Web analytics—effecting change.
 
 At its best, Web analytics is progressive and actionable. It’s about testing hypotheses and taking action based on your findings. Yes, your customers will have vastly different goals, but by asking just a little bit more of them, you can really maximize the benefits of working with your Web analytics program.
 

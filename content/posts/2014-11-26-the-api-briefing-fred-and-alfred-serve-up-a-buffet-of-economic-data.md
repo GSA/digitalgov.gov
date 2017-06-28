@@ -1,8 +1,7 @@
 ---
-url: /2014/11/26/the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data/
 date: 2014-11-26 11:10:15 -0400
 title: 'The API Briefing: FRED® and ALFRED® Serve Up a Buffet of Economic Data'
-summary: 'The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through FRED&reg; (Federal Reserve Economic Data). FRED&reg; data can be accessed through the FRED&reg; website or the FRED&reg; mobile app (Android | Apple). FRED&reg; data can even'
+summary: 'The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through FRED&reg; (Federal Reserve Economic Data). FRED&reg; data can be accessed through the FRED&reg; website or the FRED&reg; mobile app (Android | Apple). FRED&reg; data can'
 authors:
   - bbrantley
 categories:
@@ -16,7 +15,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-390-FRED-home-android.jpg" alt="FRED app home screen" %}The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through [FRED® (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/). FRED® data can be accessed through the FRED® website or the FRED® mobile app ([Android](https://play.google.com/store/apps/details?id=org.stlouisfed.research.fred) | [Apple](https://itunes.apple.com/us/app/fred-economic-data/id451715489)). FRED® data can even be pulled into [Excel through a free plugin](http://research.stlouisfed.org/fred-addin/).
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-390-FRED-home-android.jpg" alt="FRED app home screen" >}}The federal government captures almost every economic data trend through several agencies. The Federal Reserve of St. Louis offers 238,000 economic trends through [FRED® (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/). FRED® data can be accessed through the FRED® website or the FRED® mobile app ([Android](https://play.google.com/store/apps/details?id=org.stlouisfed.research.fred) | [Apple](https://itunes.apple.com/us/app/fred-economic-data/id451715489)). FRED® data can even be pulled into [Excel through a free plugin](http://research.stlouisfed.org/fred-addin/).
 
 Developers can take advantage of the vast data resources of FRED® and its cousin, ALFRED® ([ArchivaL Federal Reserve Economic Data](http://alfred.stlouisfed.org/)). Developers [query FRED® and ALFRED®](http://api.stlouisfed.org/docs/fred/) by categories, release dates, economic series, sources, and tags, which provides several robust methods to pinpoint the exact economic data the user needs. The documentation is extensive and demonstrates how to retrieve the data in both [XML](http://en.wikipedia.org/wiki/XML) and [JSON](http://en.wikipedia.org/wiki/JSON) formats.
 
@@ -24,7 +23,7 @@ Especially helpful to developers are the various [API toolkits](http://api.stlou
 
 [GeoFRED®](http://geofred.stlouisfed.org/) presents the some of the economic data geographically. Users can register to create and save their maps. GeoFRED® does not appear to have its own API, and I could not determine if FRED® or ALFRED® offers location data. Mapping would be a great feature, but FRED® and ALFRED® offer an amazing amount of data to build many excellent apps.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-436-GEOFred-API.jpg" alt="600-x-436-GEOFred-API" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-436-GEOFred-API.jpg" alt="600-x-436-GEOFred-API" >}}
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](https://www.WHATEVER/2013/04/30/apis-in-government/) _for more information._
 

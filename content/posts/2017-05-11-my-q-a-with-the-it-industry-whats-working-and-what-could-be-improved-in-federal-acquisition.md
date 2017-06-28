@@ -1,5 +1,4 @@
 ---
-url: /2017/05/11/my-q-a-with-the-it-industry-whats-working-and-what-could-be-improved-in-federal-acquisition/
 date: 2017-05-11 12:00:53 -0400
 title: 'My Q & A with the IT Industry – What’s Working and What Could be Improved in Federal Acquisition'
 summary: 'I recently met with more than 50 representatives from the top IT services companies and talked about the good and the bad in federal acquisition. Some of the discussion was surprising &hellip; some not so much. The key takeaways include some changes that are fairly simple for government to implement, yet have big impacts. 1.'
@@ -7,7 +6,7 @@ authors:
   - mary-davie
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - acquisition
 ---

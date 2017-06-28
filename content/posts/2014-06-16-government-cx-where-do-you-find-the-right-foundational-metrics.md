@@ -1,5 +1,4 @@
 ---
-url: /2014/06/16/government-cx-where-do-you-find-the-right-foundational-metrics/
 date: 2014-06-16 10:00:33 -0400
 title: 'Government CX: Where Do You Find the Right Foundational Metrics?'
 summary: 'Customer service. Customer satisfaction. Improving the customer experience. These buzzwords have become well-trodden territory among government strategists as a new wave of agencies attempt to ignite&mdash;or reignite&mdash;a focus on customers. Of course, putting customers first is a worthy goal. But what, exactly, do we mean when we use words like &ldquo;service&rdquo; and &ldquo;satisfaction&rdquo;? These terms'
@@ -14,7 +13,7 @@ tag:
   - Export-Import Bank of the United States
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-250-Target-NemanjaZs-iStock-Thinkstock-461761907.jpg" alt="NemanjaZs/iStock/Thinkstock" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-250-Target-NemanjaZs-iStock-Thinkstock-461761907.jpg" alt="NemanjaZs/iStock/Thinkstock" caption="" >}} 
 
 Customer service. Customer satisfaction. Improving the customer experience.
 

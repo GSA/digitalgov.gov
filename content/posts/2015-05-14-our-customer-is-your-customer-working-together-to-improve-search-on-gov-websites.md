@@ -1,5 +1,4 @@
 ---
-url: /2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites/
 date: 2015-05-14 11:10:59 -0400
 title: 'Our Customer is Your Customer: Working Together to Improve Search on .Gov Websites'
 summary: 'We know search engines aren&rsquo;t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.'
@@ -40,7 +39,7 @@ Difficult to use search results pages are often complicated to manage on the bac
 
 That’s why we work hard to make our results page lean and make it as easy as possible for content managers to configure their search and keep it fresh over time. We regularly add features to facilitate search setup, like localized configuration tips and access to our various help channels.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" >}}
 
 We&#8217;ve also started up a [monthly training series](http://search.WHATEVER/manual/training) to get new users up and running, and keep long-time users apprised of the latest developments.
 

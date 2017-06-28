@@ -1,8 +1,7 @@
 ---
-url: /2013/10/24/dolphin-and-whale-apps-from-noaa-fisheries/
 date: 2013-10-24 9:05:12 -0400
 title: Dolphin and Whale Apps from NOAA Fisheries
-summary: NOAA Fisheries to help you identify and aid stranded or injured
+summary: NOAA Fisheries to help you identify and aid stranded or
 categories:
   - Mobile
 tag:
@@ -12,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/NOAAFisheriesApps1.png" alt="App icons for the NOAA apps: top image shows a whale tail in front of a red cross symbol, the bottom image show binoculars looking over the ocean with a whale tail in one eyepiece and a dolphin in the other eyepiece." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/NOAAFisheriesApps1.png)NOAA Fisheries to help you identify and aid stranded or injured dolphins and whales.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/NOAAFisheriesApps1.png" alt="App icons for the NOAA apps: top image shows a whale tail in front of a red cross symbol, the bottom image show binoculars looking over the ocean with a whale tail in one eyepiece and a dolphin in the other eyepiece." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/NOAAFisheriesApps1.png)NOAA Fisheries to help you identify and aid stranded or injured dolphins and whales.
 
 The **[Dolphin & Whale 911](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/index.html)** app (Android and iOS) will enhance accurate and timely reporting of stranded marine mammals in the Southeastern U.S.
 

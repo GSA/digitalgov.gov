@@ -1,5 +1,4 @@
 ---
-url: /2015/04/09/multiple-languages-single-platforms-the-world-digital-library/
 date: 2015-04-09 2:29:14 -0400
 title: 'Multiple Languages, Single Platforms: the World Digital Library'
 summary: Multilingual does not always mean multiple accounts or websites. Increasingly, multilingual content is delivered in an integrated way, with two (or more!) languages delivered on the same website, app, or social media platform. The World Digital Library (WDL) is one example of how multiple languages can be incorporated on single platforms. The WDL is a
@@ -20,7 +19,7 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, "Welcome," in various languages" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}} 
 
 Multilingual does not always mean multiple accounts or websites. Increasingly, multilingual content is delivered in an integrated way, with two (or more!) languages delivered on the same website, app, or social media platform.
 
@@ -38,7 +37,7 @@ Yasner noted that there are several Spanish-speaking countries on the list, and 
 
 All navigation tools, [metadata](https://www.WHATEVER/tag/metadata/), and content descriptions are provided in the seven interface languages. Metadata and descriptions can be listened to with a text-to-voice conversion option that is available for every item in all seven languages, as well.
 
-## Making Content Multilingual {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, "Hello," in various languages" %} 
+## Making Content Multilingual {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-437-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Language poster design using social speech bubbles with the word, Hello, in various languages" caption="" >}} 
 
 WDL’s partner organizations play a critical role in delivering WDL’s multilingual content. Currently, WDL has 185 partners from 81 countries.
 
@@ -50,7 +49,7 @@ Content is selected for the website by partner institutions, in accordance with 
 
 ## WDL’s Social Media Strategy
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-322-WDL-World-Digital-Library-tweet.jpg" alt="World Digital Library tweet" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/644-x-830-WDL-World-Digital-Library-tweet.jpg)With limited resources, the WDL team decided that they could effectively manage only one Twitter account. After a brief pilot, they went live with English-only tweets and began to translate those tweets into one or more of the other six WDL languages. They then started tweeting in all seven languages as appropriate, always trying to choose specific content linked to a particular event in a specific language or country.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-322-WDL-World-Digital-Library-tweet.jpg" alt="World Digital Library tweet" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/644-x-830-WDL-World-Digital-Library-tweet.jpg)With limited resources, the WDL team decided that they could effectively manage only one Twitter account. After a brief pilot, they went live with English-only tweets and began to translate those tweets into one or more of the other six WDL languages. They then started tweeting in all seven languages as appropriate, always trying to choose specific content linked to a particular event in a specific language or country.
 
 As they do with the website, WDL reviews and adapts their [content strategy](https://www.WHATEVER/2015/03/23/the-content-corner-building-a-content-strategy/) based on analytics.
 

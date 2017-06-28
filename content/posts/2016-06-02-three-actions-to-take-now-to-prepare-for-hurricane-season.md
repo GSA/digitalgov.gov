@@ -1,8 +1,7 @@
 ---
-url: /2016/06/02/three-actions-to-take-now-to-prepare-for-hurricane-season/
 date: 2016-06-02 10:00:04 -0400
 title: Three Actions to Take Now to Prepare for Hurricane Season
-summary: 'Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America. Today we released the 2016 National Preparedness Report, an important guidepost in our work to build a'
+summary: 'Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America. Today we released the 2016 National Preparedness Report, an important guidepost in our work to build'
 authors:
   - craig-fugate
 categories:
@@ -17,7 +16,7 @@ tag:
 
 > _Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America._
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-530-FEMA-app\_features\_webpage_medium.jpg" alt="Menu items from the FEMA app, which is available for Apple, Android, and Blackberry mobile devices." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-530-FEMA-app\_features\_webpage_medium.jpg" alt="Menu items from the FEMA app, which is available for Apple, Android, and Blackberry mobile devices." >}}
 
 Today we released the [2016 National Preparedness Report](https://www.fema.gov/national-preparedness-report), an important guidepost in our work to build a stronger, more resilient America. The findings of this year’s report are significant. This vital information is analyzed to gauge the progress that community partners—including all levels of government, private and nonprofit sectors, faith-based organizations, communities, and individuals—are making to prepare for a wide array of threats and hazards.  We should be prepared for all hazards, from hurricanes and tornadoes to earthquakes and terrorist attacks.
 
@@ -29,7 +28,7 @@ We’ve been lucky over the past several years. The United States has not had a 
 
 When a hurricane hits, it can bring high winds, heavy rainfall, coastal and inland flooding, rip currents, and even tornadoes. Storm surge produced by hurricanes poses the greatest threat to life and property along the coast. The destructive power of storm surge can travel several miles inland, and large battering waves can result in loss of life, buildings destroyed and road and bridge damage along coastal areas. That’s why if you live in an area where hurricanes are a threat, you need to know where you’d go before the danger arrives and makes evacuation impossible.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-shelters-list-by-state-screen-Android.jpg" alt="FEMA app list of shelters by state." %}We are not powerless against the threat of these disasters. Here are three simple steps you should take today to prepare:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-shelters-list-by-state-screen-Android.jpg" alt="FEMA app list of shelters by state." >}}We are not powerless against the threat of these disasters. Here are three simple steps you should take today to prepare:
 
   1. **Know your evacuation zone.**  Evacuation zones are areas that may be impacted by hurricane flooding. Many communities have designated evacuation zones and routes to get citizens to safety. This information can often be found on the websites of your state, county, or town emergency management offices. If a hurricane threatens your community and local officials say it&#8217;s time to evacuate, don&#8217;t wait.
   2. **Download the FEMA app.** With the <a href="https://www.fema.gov/mobile-app" target="_blank">FEMA smartphone app</a> you’ll have all the information you need to know what to do before, during, and after a hurricane. You can also receive weather alerts in your area from NOAA’s National Weather Service, find lifesaving safety tips, and have access to disaster resources should you need them. You can download the app from the Apple App store or the Google Play store. The FEMA app is also available in Spanish.

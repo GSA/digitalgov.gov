@@ -1,5 +1,4 @@
 ---
-url: /2012/08/22/agency-digital-strategy-pages/
 date: 2012-08-22 10:00:26 -0400
 title: Agency Digital Strategy Pages
 summary: 'In his May 23rd, 2012 Presidential Memorandum, President Obama directed Executive Departments and Agencies to: Implement the requirements of the Digital Government Strategy, and Create a page at www.[agency].gov/digitalstrategy to publicly report progress of this implementation. Consistent with Milestone Actions #2.1 (open data) and #7.1 (mobile optimization), agencies will post candidate data sets and services to'
@@ -56,7 +55,7 @@ tag:
   - VA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-170-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="A compass with green markings points to the word, "Strategy."" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-170-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="A compass with green markings points to the word, Strategy." caption="" >}} 
 
 In his [May 23rd, 2012 Presidential Memorandum](http://www.whitehouse.gov/the-press-office/2012/05/23/presidential-memorandum-building-21st-century-digital-government), President Obama directed Executive Departments and Agencies to:
 
@@ -77,15 +76,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usda.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.usda.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usda.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.usda.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usda.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.usda.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -95,15 +94,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.commerce.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.commerce.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.commerce.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.commerce.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.commerce.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.commerce.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -113,15 +112,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.defense.gov/digitalstrategy.html"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.defense.gov/digitalstrategy.html">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.defense.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.defense.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.defense.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.defense.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -131,15 +130,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ed.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.ed.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ed.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.ed.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ed.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.ed.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -149,15 +148,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.energy.gov/digitalstrategy.html"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.energy.gov/digitalstrategy.html">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.energy.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.energy.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.energy.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.energy.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -167,15 +166,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hhs.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" width="36" height="14" /></a>
+        <a href="http://www.hhs.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hhs.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.hhs.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hhs.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.hhs.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -185,15 +184,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dhs.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.dhs.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dhs.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.dhs.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dhs.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.dhs.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -203,15 +202,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hud.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" width="36" height="14" /></a>
+        <a href="http://www.hud.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hud.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.hud.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.hud.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.hud.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -221,15 +220,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.doi.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.doi.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.doi.gov/digitalstrategy.xml"><img class="alignnone" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" width="36" height="14" /></a>
+        <a href="http://www.doi.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.doi.gov/digitalstrategy.json"><img class="alignnone" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" width="36" height="14" /></a>
+        <a href="http://www.doi.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -239,15 +238,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.justice.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.justice.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.justice.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.justice.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.justice.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.justice.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -257,15 +256,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dol.gov/digitalstrategy.html"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.dol.gov/digitalstrategy.html">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dol.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.dol.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dol.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.dol.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -275,15 +274,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.state.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.state.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.state.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.state.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.state.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.state.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -293,15 +292,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.treasury.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.treasury.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.treasury.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.treasury.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.treasury.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.treasury.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -311,15 +310,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dot.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.dot.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dot.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.dot.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.dot.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.dot.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -329,15 +328,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.va.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.va.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.va.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.va.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.va.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.va.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -347,15 +346,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usaid.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.usaid.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usaid.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.usaid.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.usaid.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.usaid.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -365,15 +364,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.epa.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.epa.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.epa.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.epa.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.epa.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.epa.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -383,15 +382,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.fcc.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.fcc.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.fcc.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.fcc.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.fcc.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.fcc.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -401,15 +400,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.gsa.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.gsa.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.gsa.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.gsa.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.gsa.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.gsa.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -419,15 +418,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nasa.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.nasa.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nasa.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.nasa.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nasa.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.nasa.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -437,15 +436,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.archives.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.archives.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.archives.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.archives.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.archives.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.archives.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -455,15 +454,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nrc.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.nrc.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nrc.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.nrc.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nrc.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.nrc.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -473,15 +472,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nsf.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.nsf.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nsf.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.nsf.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.nsf.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.nsf.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -491,15 +490,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.opm.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.opm.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.opm.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.opm.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.opm.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.opm.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -509,15 +508,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.sba.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.sba.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.sba.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.sba.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.sba.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.sba.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
     
@@ -527,15 +526,15 @@ As more agencies publish their HTML, XML, and JSON progress reports, this page w
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ssa.gov/digitalstrategy"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" /></a>
+        <a href="http://www.ssa.gov/digitalstrategy">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/html.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ssa.gov/digitalstrategy.xml"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" /></a>
+        <a href="http://www.ssa.gov/digitalstrategy.xml">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/xml.png" alt="" >}}</a>
       </td>
       
       <td style="text-align: center;width: 40px;height: 15px">
-        <a href="http://www.ssa.gov/digitalstrategy.json"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" /></a>
+        <a href="http://www.ssa.gov/digitalstrategy.json">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/json.png" alt="" >}}</a>
       </td>
     </tr>
   </table>

@@ -1,8 +1,7 @@
 ---
-url: /2013/05/01/harvards-top-25-innovations-in-government/
 date: 2013-05-01 2:22:08 -0400
 title: 'Harvard&#8217;s Top 25 Innovations in Government'
-summary: 'Nine federal programs made the list! Harvard&#8217;s Ash Center for Democratic Governance and Innovation announced the Top 25 Innovations in Government May 1. A winner and four finalists will be revealed this fall. The Washington Post described how Harvard&#8217;s review committee'
+summary: 'Nine federal programs made the list! Harvard&#8217;s Ash Center for Democratic Governance and Innovation announced the Top 25 Innovations in Government May 1. A winner and four finalists will be revealed this fall. The Washington Post described how Harvard&#8217;s review'
 authors:
   - tmarcoullier
 categories:
@@ -12,7 +11,7 @@ tag:
   - innovation
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg" alt="Harvard's John F. Kennedy school of Government logo - sheild with veritas, Harvard's motto." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg)Nine federal programs made the list!
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg" alt="Harvard's John F. Kennedy school of Government logo - sheild with veritas, Harvard's motto." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Harvard-ash-2.jpg)Nine federal programs made the list!
 
 Harvard&#8217;s Ash Center for Democratic Governance and Innovation announced the <a title="harvard top 25 innovations in government" href="http://www.ash.harvard.edu/Home/News-Events/Press-Releases/Innovations/Top-25-Innovations-in-Government-Announced2/Top-25-Programs" target="_blank">Top 25 Innovations in Government</a> May 1. A winner and four finalists will be revealed this fall.
 

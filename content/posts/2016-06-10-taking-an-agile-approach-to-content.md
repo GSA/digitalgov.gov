@@ -1,5 +1,4 @@
 ---
-url: /2016/06/10/taking-an-agile-approach-to-content/
 date: 2016-06-10 2:00:28 -0400
 title: Taking an Agile Approach to Content
 summary: 'So, you&rsquo;ve recently joined an agile team &mdash; congratulations! Here at 18F, we work in an agile way &mdash; in other words, we base our designs on user needs, conduct usability testing, iterate quickly, and release MVPs (minimum viable products) rather than highly finalized releases. We take an agile approach to content too. While there&rsquo;s'
@@ -9,7 +8,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -18,7 +17,7 @@ tag:
 
 So, you’ve recently joined an agile team — congratulations! Here at 18F, [we work in an agile way](https://pages.18f.gov/agile/) — in other words, we base our designs on user needs, conduct usability testing, iterate quickly, and release MVPs (minimum viable products) rather than highly finalized releases.
 
-We take an agile approach to content too. While there’s really no “ideal” project or process most of the time, we’ve found that these guidelines help us develop useful services for millions of people. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration, sprint illustrated as a street arrow." %} 
+We take an agile approach to content too. While there’s really no “ideal” project or process most of the time, we’ve found that these guidelines help us develop useful services for millions of people. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-322-Loop-iteration-sprint-illustrated-as-street-arrow-Connel_Design-iStock-Thinkstock-530900547.jpg" alt="Loop iteration, sprint illustrated as a street arrow." caption="" >}} 
 
 ## Participate in the process {#participate-in-the-process}
 

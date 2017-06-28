@@ -1,8 +1,7 @@
 ---
-url: /2014/05/16/5-things-every-federal-recruiter-should-know-about-linkedin/
 date: 2014-05-16 10:00:19 -0400
 title: 5 Things Every Federal Recruiter Should Know About LinkedIn
-summary: 'Some people think LinkedIn is only for active job seekers. Although many of LinkedIn&rsquo;s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers&mdash;those who have a job but are interested'
+summary: 'Some people think LinkedIn is only for active job seekers. Although many of LinkedIn&rsquo;s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers&mdash;those who have a job but are'
 authors:
   - erika-brown
 categories:
@@ -12,7 +11,7 @@ tag:
   - Peace Corps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-166-Federal-Recruiter-LinkedIn-HRC-Equality-Tahoe-Democrat-Peace-Corps-LGBT-gay-pride-JAM-2012-0727-D3558.jpg" alt="250 x 166 Federal Recruiter LinkedIn - HRC Equality Tahoe Democrat Peace Corps LGBT gay pride - JAM-2012-0727-D3558" %}Some people think LinkedIn is only for active job seekers. Although many of LinkedIn’s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers—those who have a job but are interested in learning about a new opportunity. Either way, LinkedIn is a valuable tool that provides recruiters with a large database of qualified candidates.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-166-Federal-Recruiter-LinkedIn-HRC-Equality-Tahoe-Democrat-Peace-Corps-LGBT-gay-pride-JAM-2012-0727-D3558.jpg" alt="250 x 166 Federal Recruiter LinkedIn - HRC Equality Tahoe Democrat Peace Corps LGBT gay pride - JAM-2012-0727-D3558" >}}Some people think LinkedIn is only for active job seekers. Although many of LinkedIn’s 300,000,000+ registered members fit that profile, LinkedIn is also chock-full of passive job seekers—those who have a job but are interested in learning about a new opportunity. Either way, LinkedIn is a valuable tool that provides recruiters with a large database of qualified candidates.
 
 In 2012, Peace Corps recognized that long gone were the days of the rolodex and “post and pray” approach, and that it was time to reach job seekers on their preferred engagement platform. Specifically, [Peace Corps Response](http://www.peacecorps.gov/volunteer/response/), a Peace Corps program that recruits mid- and senior-level professionals for short-term Volunteer positions, utilized the agency’s contract and piloted LinkedIn for recruitment. Since their first position posting, the Peace Corps Response team has seen many successes and learned many lessons.
 

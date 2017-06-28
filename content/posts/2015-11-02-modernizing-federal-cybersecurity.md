@@ -1,5 +1,4 @@
 ---
-url: /2015/11/02/modernizing-federal-cybersecurity/
 date: 2015-11-02 1:00:34 -0400
 title: Modernizing Federal Cybersecurity
 summary: 'Summary: Today, the Administration directed a series of actions to continue strengthening Federal cybersecurity & modernizing the government&rsquo;s technology infrastructure. Strengthening the cybersecurity of Federal networks, systems, and data is one of the most important challenges we face as a Nation. Every day, public and private sector leaders&mdash;my team included&mdash;are directing significant resources to address'
@@ -24,7 +23,7 @@ Strengthening the cybersecurity of Federal networks, systems, and data is one of
 
 Earlier this year, **the White House Office of Management and Budget (OMB) launched a _[30-day Cybersecurity Sprint](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2016/assets/fact_sheets/enhancing-strengthening-federal-government-cybersecurity.pdf)_, building upon the Administration’s whole-of-government strategy**, to assess and improve the health of all Federal information technology (IT) assets and networks, both civilian and military. As part of the Sprint, OMB directed agencies to immediately patch critical vulnerabilities, identify high-value assets, review and tightly limit the number of privileged users with access to authorized systems, and dramatically accelerate the use of Personal Identity Verification (PIV) cards or an alternative form of strong authentication for accessing networks and systems. **We saw significant progress in these areas**. During the course of the Sprint, Federal Civilian agencies increased their use of strong authentication for all users from 42 percent to 72 percent—**an increase of 30 percent**. And **today, agencies have increased their use of strong authentication to over 80%**.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-442-CSIP_0-Cross-Agency-Priority-CAP-Goal-Progress-with-Cybersecurity-Sprint-Results.jpg" alt="Cross Agency Priority (CAP) Goal Progress with Cybersecurity Sprint Results" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-442-CSIP_0-Cross-Agency-Priority-CAP-Goal-Progress-with-Cybersecurity-Sprint-Results.jpg" alt="Cross Agency Priority (CAP) Goal Progress with Cybersecurity Sprint Results" >}}
 
 While these statistics demonstrate marked improvement in identifying and closing the gaps in the Federal cyber infrastructure, **we still have more work to do**. We must acknowledge the modern reality that **the work of addressing cyber risks is never finished and is ever changing**.
 

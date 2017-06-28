@@ -1,11 +1,10 @@
 ---
-url: /2015/12/09/connecting-with-the-social-and-behavioral-sciences-team/
 date: 2015-12-09 1:40:55 -0400
 title: Connecting with the Social and Behavioral Sciences Team
 summary: 'The new Social and Behavioral Sciences Team (SBST) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they&rsquo;ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained'
 authors:
-  - rflagg
   - jsnee
+  - rflagg
 categories:
   - Managing Digital
   - Monthly Theme
@@ -21,7 +20,7 @@ tag:
 
 The new [Social and Behavioral Sciences Team (SBST)](https://sbst.gov/) aims to make government programs more effective and efficient. Amira Choueiki from the SBST joined us to explain what the SBST does, and to discuss some of the projects they’ve worked on. Amira also shared how agencies can propose projects for the SBST to tackle, and explained how social and behavioral sciences, customer experience (CX) and user experience (UX) work together to enhance government products and services.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team" >}}
 
 ## What is the Social and Behavioral Science Team?
 
@@ -29,7 +28,7 @@ The SBST works to fundamentally understand how people act and make decisions, to
 
 The SBST is a Subcommittee of the National Science and Technology Council, which is comprised of representation from more than 15 organizations from across government. The team applies findings from social and behavioral sciences to the implementation of government policy and programs. OMB requires agencies to report on how they apply evidence-based thinking to their work, and the SBST gives agencies a place to connect around this discipline.
 
-[Read about SBST projects](https://sbst.gov/work/) in areas such as: health, education, retirement security, economic opportunity, sustainability and government operations. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Intellectual-thinker-DigtialStorm-iStock-Thinkstock-176979199.jpg" alt="Blue x-ray of human head with gears in the brain, centered on a black background" %} 
+[Read about SBST projects](https://sbst.gov/work/) in areas such as: health, education, retirement security, economic opportunity, sustainability and government operations. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Intellectual-thinker-DigtialStorm-iStock-Thinkstock-176979199.jpg" alt="Blue x-ray of human head with gears in the brain, centered on a black background" caption="" >}} 
 
 ## Partnering with the SBST
 

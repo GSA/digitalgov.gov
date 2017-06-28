@@ -1,5 +1,4 @@
 ---
-url: /2014/11/05/rocking-the-vote-how-the-usa-gov-brand-leveraged-the-mid-term-elections/
 date: 2014-11-05 11:22:55 -0400
 title: 'Rocking the Vote: How the USA.gov Brand Leveraged the Mid-term Elections'
 summary: You might have noticed a lot of people were talking about the elections yesterday, especially on social media. Election and voting hashtags were trending all day long as people around the country hit the polls to vote for senators, representatives, governors and more. And while plenty of people were really excited to simply let their
@@ -15,13 +14,13 @@ You might have noticed a lot of people were talking about the elections yesterda
 
 And while plenty of people were really excited to simply let their friends and followers know they had cast a ballot, several others had questions about how to find their polling place or the hours it was open.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/USAgov-RT-tweet-2014-elections.jpg" alt="USAgov-RT-tweet-2014-elections" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/USAgov-RT-tweet-2014-elections.jpg" alt="USAgov-RT-tweet-2014-elections" >}}
 
 So the USA.gov social media team launched an election day real-time engagement effort to answer those questions and highlight just how important voting is.
 
 We monitored trending election hashtags on Twitter (like [#Election2014](https://twitter.com/hashtag/election2014) and [#GoVote2014](https://twitter.com/hashtag/GoVote2014)) keeping an eye out for tweets from people who needed help on election day.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-432-USAgov-tweets-2014-elections.jpg" alt="600-x-432-USAgov-tweets-2014-elections" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-432-USAgov-tweets-2014-elections.jpg" alt="600-x-432-USAgov-tweets-2014-elections" >}}
 
 To spread the message of how important it is to get out and vote, we encouraged people to share their [#ElectionSelfies](https://twitter.com/hashtag/electionselfies) with us, showing off those coveted “I Voted” stickers.
 

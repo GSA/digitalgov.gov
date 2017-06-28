@@ -1,8 +1,7 @@
 ---
-url: /2014/10/14/trends-on-tuesday-mobile-app-pop-quiz/
 date: 2014-10-14 1:56:57 -0400
 title: 'Trends on Tuesday: Mobile App Pop Quiz'
-summary: 'It&rsquo;s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? ComScore recently released the U.S. Mobile App Report which sheds light on how Americans use mobile apps. Test your knowledge with the five questions and'
+summary: 'It&rsquo;s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? ComScore recently released the U.S. Mobile App Report which sheds light on how Americans use mobile apps. Test your knowledge with the five questions'
 authors:
   - tjohnson
 categories:
@@ -16,7 +15,7 @@ tag:
   - United States Census Bureau
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" %}It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? [ComScore recently released the U.S. Mobile App Report](http://www.comscore.com/Insights/Blog/5-Questions-and-Answers-Shedding-Light-on-How-Americans-Use-Mobile-Apps) which sheds light on how Americans use mobile apps. Test your knowledge with the five questions and answers below:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" >}}It’s time for a mobile pop quiz. How well do you know consumers and the time they spend on mobile apps? [ComScore recently released the U.S. Mobile App Report](http://www.comscore.com/Insights/Blog/5-Questions-and-Answers-Shedding-Light-on-How-Americans-Use-Mobile-Apps) which sheds light on how Americans use mobile apps. Test your knowledge with the five questions and answers below:
 
 ## Who is spending the most time in mobile apps?
 

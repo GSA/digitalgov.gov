@@ -1,8 +1,7 @@
 ---
-url: /2014/02/26/open-for-innovation-in-digitalgov/
 date: 2014-02-26 8:43:24 -0400
 title: Open for Innovation in DigitalGov!
-summary: 'There&rsquo;s tons of great work and innovations happening in federal agencies, and it is happening fast. From mobile, to social, to user experience, to APIs, to data and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information'
+summary: 'There&rsquo;s tons of great work and innovations happening in federal agencies, and it is happening fast. From mobile, to social, to user experience, to APIs, to data and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and'
 authors:
   - gwynne-kostin
 categories:
@@ -14,7 +13,7 @@ tag:
 ---
 
 <p id="docs-internal-guid-2be0b883-1e35-bf9a-aa33-087a71ace423" dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/InnovationChalkboard1.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/InnovationChalkboard1.jpg" alt="Innovation written on a chalkboard" %}</a>There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/InnovationChalkboard1.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/InnovationChalkboard1.jpg" alt="Innovation written on a chalkboard" >}}</a>There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
 </p>
 
 <p dir="ltr">

@@ -1,8 +1,7 @@
 ---
-url: /2013/09/18/making-mobile-gov-user-experience-recommendations/
 date: 2013-09-18 2:49:35 -0400
 title: 'Making Mobile Gov: User Experience Recommendations'
-summary: 'How We Did It Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the goal'
+summary: 'How We Did It Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the'
 authors:
   - jparcell
 categories:
@@ -20,7 +19,7 @@ tag:
 
 ### How We Did It
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Mobile-app-description1-250x187.jpg" alt="GSA's Mobile Application Development Program Helps Agencies Develop Mobile Products" %}Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the goal to develop user experience practices for government.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Mobile-app-description1-250x187.jpg" alt="GSA's Mobile Application Development Program Helps Agencies Develop Mobile Products" >}}Last November, as part of revisiting the state of Mobile Gov, government mobile innovators identified a need for guidelines to help create amazing and engaging mobile user experiences. We convened a group to workshop around elements of mobile user experience with the goal to develop user experience practices for government.
 
 We then asked you to set priorities and help hone a set of useful, actionable user experience guidelines and recommendations that agencies could adopt. More than 100 people from 35 federal agencies, states, the private sector and academia helped rank these practices in our crowdsourcing effort.
 

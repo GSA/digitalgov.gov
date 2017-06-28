@@ -1,5 +1,4 @@
 ---
-url: /2015/07/27/the-content-corner-supporting-your-content/
 date: 2015-07-27 10:18:44 -0400
 title: 'The Content Corner: Supporting Your Content'
 summary: 'This column revolves mostly around content creation and strategy, but an overlooked part of the content lifecycle is helping people find your content. Your content is made to be seen and without planning for promotion, it may never be found. The methods available to you may vary (wildly) at your agency, so remember your mileage may'
@@ -13,7 +12,7 @@ tag:
   - The Content Corner
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-425-Magnifying-glass-showing-content-word-in-white-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224248.jpg" alt="Magnifying glass over the word content in white text." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-425-Magnifying-glass-showing-content-word-in-white-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224248.jpg" alt="Magnifying glass over the word content in white text." caption="" >}} 
 
 This column revolves mostly around content creation and strategy, but an overlooked part of the content lifecycle is helping people find your content. Your content is made to be seen and without planning for promotion, it may never be found. The methods available to you may vary (wildly) at your agency, so remember your mileage may vary.
 
@@ -23,7 +22,7 @@ Within the [U.S. Courts](http://uscourts.gov/), a plan is indispenable just to n
 
 These print options typically include a wide number of newsletters that are circulated on a monthly or bi-monthly or quarterly or whenever-we-get-around-to-it basis. Based on experience, newsletter audiences can be narrowly defined not only by agency or office, but also by areas of expertise such as human resources. If your content is of specific interest to an audience, ask around and see if they have a newsletter and how often it actually gets delivered.
 
-## Deadlines and Word Limits {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-171-Calendar-on-tablet-computer-Violka08-iStock-Thinkstock-462210569.jpg" alt="Calendar on tablet computer" %} 
+## Deadlines and Word Limits {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-171-Calendar-on-tablet-computer-Violka08-iStock-Thinkstock-462210569.jpg" alt="Calendar on tablet computer" caption="" >}} 
 
 Delivery is important, but many communications have their own editorial calendar and schedule (and many times it may be a complete mystery to the entire agency). It may take preparation on your part or a quick turnaround of an article or blurb to meet another publication’s deadline.
 
@@ -39,7 +38,7 @@ In time, we may be able to leverage [APIs](https://www.WHATEVER/2012/07/26/intro
 
 ## Timing Could Be Everything
 
-Advanced planning is also a great way to respond to and address any particular promotion of your content that might need to be done “out of cycle.” Most government agencies have specific routines and schedules for communications. In my experience, several communication channels also involve a lengthy approval process that can at times seem akin to a Japanese game show. I try and leave myself 3 -4 weeks of slack, especially dealing with communications that will require director-level approval. Sometimes even more time is required, depending on travel schedules or other communications that are already in the queue. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-167-Content-Corner-photo-Edan-Cohen-photo-1415033523948-6c31d010530d.jpg" alt="Crowd scene at beach and boardwalk" %} 
+Advanced planning is also a great way to respond to and address any particular promotion of your content that might need to be done “out of cycle.” Most government agencies have specific routines and schedules for communications. In my experience, several communication channels also involve a lengthy approval process that can at times seem akin to a Japanese game show. I try and leave myself 3 -4 weeks of slack, especially dealing with communications that will require director-level approval. Sometimes even more time is required, depending on travel schedules or other communications that are already in the queue. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-167-Content-Corner-photo-Edan-Cohen-photo-1415033523948-6c31d010530d.jpg" alt="Crowd scene at beach and boardwalk" caption="" >}} 
 
 One of the most important things to do is reach out to those in your agency who will know and control the timing of these communications so you can plan it into your schedule. Commonly, these functions are handled by your public affairs office. If you don’t already have a good working relationship with your public affairs office, I strongly suggest you cultivate one. As someone who works outside my public affairs office but on similar projects, having that strong rapport is frequently critical to the success of our content promotion efforts.
 
@@ -59,7 +58,7 @@ The second part of this method involves making communication to these interested
 
 ## Don&#8217;t Forget Social Media
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-496-NIH-NCCIH-april-29-2015-Age-Well-Twitter-chat.jpg" alt="NIH NCCIH Age Well Twitter Chat from April 29, 2015" %}](https://twitter.com/NIH_NCCIH/status/593476278784753664/photo/1)Since the early days of Web pages and content, it was very clear that the “[build it and they will come](http://www.entrepreneur.com/article/227850)” strategy never worked. You have to use the various [tools](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/) available at your agency, and beyond, to help as many people as possible find your content.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-496-NIH-NCCIH-april-29-2015-Age-Well-Twitter-chat.jpg" alt="NIH NCCIH Age Well Twitter Chat from April 29, 2015" >}}](https://twitter.com/NIH_NCCIH/status/593476278784753664/photo/1)Since the early days of Web pages and content, it was very clear that the “[build it and they will come](http://www.entrepreneur.com/article/227850)” strategy never worked. You have to use the various [tools](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/) available at your agency, and beyond, to help as many people as possible find your content.
 
 These tools also include social media, especially when considering external or public content. DigitalGov has great resources on [social media promotion](https://www.WHATEVER/category/socialmedia/) and using it to increase awareness of your content. The success of an [NIH healthy aging Twitter chat](https://www.WHATEVER/2015/05/15/how-a-twitter-chat-about-healthy-aging-reached-more-than-4-million-people/) is a great example of leveraging the power of social media to promote a topic and your relevant content.
 

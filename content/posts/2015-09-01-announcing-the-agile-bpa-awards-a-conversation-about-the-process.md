@@ -1,13 +1,12 @@
 ---
-url: /2015/09/01/announcing-the-agile-bpa-awards-a-conversation-about-the-process/
 date: 2015-09-01 11:10:59 -0400
 title: 'Announcing the Agile BPA Awards: A Conversation About the Process'
 summary: 'In January, 18F Consulting announced a new kind of process for vendors to compete for software acquisition contracts. The Agile Blanket Purchase Agreement (BPA) process would be open to existing vendors on Schedule 70, and require vendors to submit a working prototype based on a public dataset&mdash;and then show their work in a publicly available'
 authors:
-  - melody-kramer
   - v-david-zvenyach
   - kathryn-edelman
   - chris-cairns
+  - melody-kramer
 categories:
   - Managing Digital
 tag:
@@ -15,7 +14,7 @@ tag:
   - GitHub
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg) 
 
 In January, 18F Consulting [announced](https://18f.gsa.gov/2015/01/08/creating-a-federal-marketplace-for-agile-delivery-services/) a new kind of process for vendors to compete for software acquisition contracts. The Agile Blanket Purchase Agreement (BPA) process would be open to existing vendors on Schedule 70, and require vendors to submit a working prototype based on a public dataset—and then show their work in a publicly available git repository.
 

@@ -1,8 +1,7 @@
 ---
-url: /2014/08/29/help-opm-help-you/
 date: 2014-08-29 2:41:13 -0400
 title: Help OPM Use SocialGov to Reinvent Fed Recruitment and Recognition
-summary: 'Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven&rsquo;t explored before. We&rsquo;re hoping to recruit federal employees who'
+summary: 'Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven&rsquo;t explored before. We&rsquo;re hoping to recruit federal employees'
 authors:
   - jennifer-dorsey
   - mark-anthony
@@ -14,7 +13,7 @@ tag:
   - United States Office of Personnel Management
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/opm-nats-game-picture1.jpg" alt="Photo of OPM Director and other Federal Employees at the Nationals Baseball game" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/opm-nats-game-picture1.jpg)Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven’t explored before. We’re hoping to recruit federal employees who are eager to dive in and help us tackle two important topics: employee recognition and recruitment and hiring.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/opm-nats-game-picture1.jpg" alt="Photo of OPM Director and other Federal Employees at the Nationals Baseball game" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/opm-nats-game-picture1.jpg)Here at the U.S. Office of Personnel Management, we recently announced two exciting new government-wide working group teams with the mission of helping us use social media in ways we haven’t explored before. We’re hoping to recruit federal employees who are eager to dive in and help us tackle two important topics: employee recognition and recruitment and hiring.
 
 The first team will work on building a government-wide digital recognition program. The team will continue efforts led by #[SocialGov community](https://www.WHATEVER/communities/social-media/ "Social Media") members earlier this year in which hurdles were identified and initial solutions were conceived. This team will take what came out of that group and begin finding ways to implement some of its suggestions as well as build off of them for bigger and better solutions. We’re looking for leaders from across government to join us so that we can find the most dynamic and engaging solutions to publicly recognizing employees at every agency through social media.
 

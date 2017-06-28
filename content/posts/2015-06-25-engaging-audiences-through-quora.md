@@ -1,5 +1,4 @@
 ---
-url: /2015/06/25/engaging-audiences-through-quora/
 date: 2015-06-25 11:00:57 -0400
 title: Engaging Audiences Through Quora
 summary: 'There&rsquo;s no doubt that traditional social media sites like Facebook and Twitter have transformed how we communicate with stakeholders. Quora is another tool for agencies seeking to engage highly-educated thought leaders and influencers, policy makers, entrepreneurs, scientists, engineers and journalists worldwide. The brainchild of two former Facebook employees with the backing of Wikipedia&rsquo;s founder, Quora aims to'
@@ -15,7 +14,7 @@ tag:
   - Terms of Service
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Question-and-answer-words-raywoo-iStock-Thinkstock-178110327.jpg" alt="The words "Question" and "Answer" on puzzle pieces" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Question-and-answer-words-raywoo-iStock-Thinkstock-178110327.jpg" alt="The words Question and Answer on puzzle pieces" caption="" >}} 
 
 There’s no doubt that traditional social media sites like Facebook and Twitter have transformed how we communicate with stakeholders. [Quora](http://www.quora.com/about) is another tool for agencies seeking to engage highly-educated thought leaders and influencers, policy makers, entrepreneurs, scientists, engineers and journalists worldwide.
 
@@ -37,7 +36,7 @@ What also makes Quora attractive is its ability to combine the popular features 
 
 Whether Quora users are more comfortable posing questions to satisfy their curiosity or showing their expertise by providing answers, the site provides a forum for both. Users can ask, answer or follow question topics and specific people, which creates a stream of information into their topic feeds. Quora also started a [blogging platform](http://blog.quora.com/Introducing-Blogs-on-Quora) in January 2013 that can be leveraged to provide more in depth responses.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-342-Quora-Dept-of-Energy-DOE.jpg" alt="The Department of Energy's topic page on Quora" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-342-Quora-Dept-of-Energy-DOE.jpg" alt="The Department of Energy's topic page on Quora" >}}
 
 ## How to Get Started
 

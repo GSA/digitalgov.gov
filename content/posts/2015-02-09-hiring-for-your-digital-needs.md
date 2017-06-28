@@ -1,5 +1,4 @@
 ---
-url: /2015/02/09/hiring-for-your-digital-needs/
 date: 2015-02-09 10:00:07 -0400
 title: Hiring For Your Digital Needs
 summary: The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private
@@ -7,7 +6,7 @@ authors:
   - kdaniel
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
@@ -15,7 +14,7 @@ tag:
   - USCIS
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Help-wanted-against-server-hallway-in-the-blue-sky-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497351763.jpg" alt="Help wanted! against server hallway in the blue sky" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Help-wanted-against-server-hallway-in-the-blue-sky-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497351763.jpg" alt="Help wanted! against server hallway in the blue sky" caption="" >}} 
 
 The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private sector and not completely understand the nuances of working in a federal agency.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/05/03/an-introduction-to-open-data-and-apis/
 date: 2016-05-03 10:00:32 -0400
 title: An Introduction to Open Data and APIs
 summary: 'The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal Open Data Policy, data should be managed as an information asset, and making it discoverable and usable (in other words, open). Open data &ldquo;not only strengthens our democracy and promotes efficiency'
@@ -20,7 +19,7 @@ tag:
   - USDA
 ---
 
-The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf), data should be managed as an information asset, and making it discoverable and usable (in other words, open). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
+The federal workplace is abuzz these days with talk about open data and how agencies can leverage that data through APIs. According to the federal [Open Data Policy](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf), data should be managed as an information asset, and making it discoverable and usable (in other words, open). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
 > Open data “not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life.”
 
@@ -32,7 +31,7 @@ In the DigitalGov University webinar, **An Introduction to Open Data and APIs**,
 
 ## Use Cases
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: "Keep Calm and Open Data over an American flag" %}Mr. Mill illustrated the usefulness to government APIs with some of the most noticeable use cases, the federal budget and the We the People APIs. The federal budget was once an unwieldy and time consuming spreadsheet, which with the power of APIs was rendered into easily read and searched API data for use by the public, congressional groups and others. The Obama Administration introduced the White House petition system, where the [We the People API](https://petitions.whitehouse.gov/developers) allows a method for other websites to directly submit signatures. When using government APIs, go to [API.DATA.GOV](http://api.data.gov/) to download the single API key used for all participating government agencies.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}Mr. Mill illustrated the usefulness to government APIs with some of the most noticeable use cases, the federal budget and the We the People APIs. The federal budget was once an unwieldy and time consuming spreadsheet, which with the power of APIs was rendered into easily read and searched API data for use by the public, congressional groups and others. The Obama Administration introduced the White House petition system, where the [We the People API](https://petitions.whitehouse.gov/developers) allows a method for other websites to directly submit signatures. When using government APIs, go to [API.DATA.GOV](http://api.data.gov/) to download the single API key used for all participating government agencies.
 
 ## Getting Started
 

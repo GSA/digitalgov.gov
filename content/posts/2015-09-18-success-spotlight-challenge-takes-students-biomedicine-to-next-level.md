@@ -1,8 +1,7 @@
 ---
-url: /2015/09/18/success-spotlight-challenge-takes-students-biomedicine-to-next-level/
 date: 2015-09-18 10:00:44 -0400
 title: 'Success Spotlight: Challenge Takes Students, Biomedicine to Next Level'
-summary: ' Leaders in the biomedical field will applaud a team of student researchers October 9 for developing a potentially lifesaving device in response to a competition published on Challenge.gov in March. The accolades come a day after the website, a no-cost platform for federal agencies to publish and'
+summary: ' Leaders in the biomedical field will applaud a team of student researchers October 9 for developing a potentially lifesaving device in response to a competition published on Challenge.gov in March. The accolades come a day after the website, a no-cost platform for federal agencies to publish'
 authors:
   - eric-beidel
 categories:
@@ -14,7 +13,7 @@ tag:
   - NIH
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-k-kundrod-j-fraser.jpg" alt="Kathryn Kundrod and Jay Fraser" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-k-kundrod-j-fraser.jpg" alt="Kathryn Kundrod and Jay Fraser" >}}
 
 Leaders in the biomedical field will applaud a team of student researchers October 9 for developing a potentially lifesaving device in response to a competition published on [Challenge.gov](https://www.challenge.gov/list/) in March.
 
@@ -24,7 +23,7 @@ In its [Design by Biomedical Undergraduate Teams (DEBUT) Challenge](http://www.n
 
 While members of the first-place team graduated in May, the work they initiated under this challenge will continue.
 
-The team’s [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/425-x-263-Viral-Diagnostic-Technology-2.jpg" alt="The special membrane used by the device is first coated with an HIV-specific antibody which captures HIV viruses. Then, gold and silver nanoparticles are bound to the captured HIV. With each of the steps, ions become progressively less able to reach electrodes. By measuring the resulting current, it is possible to determine the amount of virus that has been caught in the membrane." %} 
+The team’s [Viral Diagnostic Technology](https://www.youtube.com/watch?v=MpAT1ChE0rk) makes it easier for HIV patients to determine if their medications are, indeed, reducing the amount of virus in their bloodstreams. The technology they designed can detect HIV through electrochemical methods, which are less complex than biological methods. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/425-x-263-Viral-Diagnostic-Technology-2.jpg" alt="The special membrane used by the device is first coated with an HIV-specific antibody which captures HIV viruses. Then, gold and silver nanoparticles are bound to the captured HIV. With each of the steps, ions become progressively less able to reach electrodes. By measuring the resulting current, it is possible to determine the amount of virus that has been caught in the membrane." caption="" >}} 
 
 In addition to taking center stage at the annual meeting of the Biomedical Engineering Society, the Lehigh grads will receive a $20,000 prize—seed money they plan to start a new business, protect their intellectual property, and fund further research.
 
@@ -34,7 +33,7 @@ They hope to build a portable device with an easy-to-use interface that will fil
 
 ## Rising to the Challenge
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-333-Kundrod-lab.jpg" alt="Kathryn Kundrod" %}The challenge allowed the students to take advantage of a variety of resources to push them beyond their typical coursework.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-333-Kundrod-lab.jpg" alt="Kathryn Kundrod" >}}The challenge allowed the students to take advantage of a variety of resources to push them beyond their typical coursework.
 
 During the competition phase, the students consulted with faculty members and industry experts as they experimented with design and business concepts. The core of the team knew each other from bioengineering classes, and recruited other students who could offer mechanical engineering and supply chain expertise along the way.
 
@@ -50,7 +49,7 @@ Kundrod, Fraser, and their teammates had presented research at symposia and post
 
 The challenge, managed by the National Institute of Biomedical Imaging and Bioengineering (NIBIB), brought NIH more than just the winning team’s solution. Putting out an open call to undergraduates allowed the agency to collect a variety of ideas from across the country in a short time period.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-238-NIH-National-Institutes-of-Health-NIBIB-The-National-Institute-of-Biomedical-Imaging-and-Bioengineering-twitter-logo.jpg" alt="The National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering logo" %}In the span of a few months, NIBIB received 59 entries from 30 colleges in 18 states.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-238-NIH-National-Institutes-of-Health-NIBIB-The-National-Institute-of-Biomedical-Imaging-and-Bioengineering-twitter-logo.jpg" alt="The National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering logo" >}}In the span of a few months, NIBIB received 59 entries from 30 colleges in 18 states.
 
 A team that designed a new surgical clamp to treat drooping eyelids won the second-place prize. Third place went to a low-cost patient monitor ideal for developing countries, as well as low-income and rural areas.
 
@@ -64,7 +63,7 @@ A competition like this both pushes the field forward with new concepts and insp
 
 ## Up Next
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: "Government Challenges, Your Solutions."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 On the heels of the DEBUT Challenge, NIH’s latest problem-solving opportunity encourages individuals and teams to design and produce a wearable device to monitor blood alcohol levels in real time. The [Wearable Biosensor Challenge](https://www.challenge.gov/challenge/a-wearable-alcohol-biosensor/), run by NIH’s National Institute of Alcohol Abuse and Alcoholism, is currently accepting submissions through December 1.
 

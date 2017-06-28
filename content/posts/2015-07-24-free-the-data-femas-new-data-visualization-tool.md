@@ -1,8 +1,7 @@
 ---
-url: /2015/07/24/free-the-data-femas-new-data-visualization-tool/
 date: 2015-07-24 11:00:54 -0400
 title: 'Free the Data: FEMA’s New Data Visualization Tool'
-summary: '  FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we&rsquo;re trying to talk about what can happen is what has happened previously? Providing data'
+summary: '  FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we&rsquo;re trying to talk about what can happen is what has happened previously? Providing'
 authors:
   - craig-fugate
 categories:
@@ -16,7 +15,7 @@ tag:
 
  
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." >}}
 
 FEMA collects data from disasters. We look at various hazards over time, and a question we get a lot when we’re trying to talk about what can happen is _what has happened previously?_
 
@@ -72,7 +71,7 @@ Particularly in the research community, looking at architecture from land use pl
 
 ## Collaborating with the Red Cross
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-191-Red-Cross-m39740204\_Home\_Fires\_Polling\_Infographic-middle-panel-parents.jpg" alt="A portion of the Red Cross' Home Fire Statistics infographic that notes 69 percent of parents believe their children would know what to do or how to escape a fire, even though 52 percent of parents with children ages 3 to 17 have not talked to them about fire safety, 70 percent of families with children have not identified a safe place to meet outside of the home, and 82 percent have not practiced home fire drills. Click image to view full infographic as a PDF file." %}](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m39740204_Home_Fires_Polling_Infographic.pdf)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-191-Red-Cross-m39740204\_Home\_Fires\_Polling\_Infographic-middle-panel-parents.jpg" alt="A portion of the Red Cross' Home Fire Statistics infographic that notes 69 percent of parents believe their children would know what to do or how to escape a fire, even though 52 percent of parents with children ages 3 to 17 have not talked to them about fire safety, 70 percent of families with children have not identified a safe place to meet outside of the home, and 82 percent have not practiced home fire drills. Click image to view full infographic as a PDF file." >}}](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m39740204_Home_Fires_Polling_Infographic.pdf)
 
 One of the things you hear a lot about is big data. If you take all this data and put it out there, someone is going to come up with a miracle cure and find something that no one ever thought about. But there aren’t that many concrete examples of what big data has done.
 
@@ -90,7 +89,7 @@ You can never give away enough smoke detectors to have them in every home, but y
 
 ## The FEMA App: A Swiss Army knife of preparedness
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-menu-screen-Android.jpg" alt="250-x-444-FEMA-app-menu-screen-Android" %}Shifting from data to information that is timely, I want to talk a little about apps and alerts.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-444-FEMA-app-menu-screen-Android.jpg" alt="250-x-444-FEMA-app-menu-screen-Android" >}}Shifting from data to information that is timely, I want to talk a little about apps and alerts.
 
 There are a lot of apps that do notifications. You can sign up for alerts from local government to alerts from various weather companies. The challenge has been marrying up an emergency alert from the weather service to corresponding action. A lot of times, when you get a tornado warning, you get that message, but then you have to go somewhere else to find out what to do.
 

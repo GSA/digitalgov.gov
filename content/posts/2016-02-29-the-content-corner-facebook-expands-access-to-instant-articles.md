@@ -1,5 +1,4 @@
 ---
-url: /2016/02/29/the-content-corner-facebook-expands-access-to-instant-articles/
 date: 2016-02-29 10:21:01 -0400
 title: 'The Content Corner: Facebook Expands Access to Instant Articles'
 summary: As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is digital sharecropping. The recent announcement from Facebook that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic
@@ -18,7 +17,7 @@ tag:
   - The Content Corner
 ---
 
-As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping](https://www.WHATEVER/2015/10/26/the-content-corner-twitter-apple-news-and-the-importance-of-our-websites/). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." %} 
+As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping](https://www.WHATEVER/2015/10/26/the-content-corner-twitter-apple-news-and-the-importance-of-our-websites/). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." caption="" >}} 
 
 While I dislike the term digital sharecropping (coined by [Nicholas Carr](http://www.roughtype.com/?p=634)), I haven’t found a better or more succinct explanation for this ongoing drive for private companies and platforms to own our content (while we do all the work).
 
@@ -28,7 +27,7 @@ There are legitimate concerns to this ever-increasing practice, especially for t
 
 Facebook launched [Instant Articles](https://developers.facebook.com/docs/instant-articles) as a way for a limited number of early partners to develop content in a more Facebook-friendly format. For example, Instant Articles load as much as 10 times faster than external links and allow for additional branding and rich media displays. If you are asking yourself the question of why you should be interested in Instant Articles, anything that can get your content in front of Facebook’s 1.5 billion plus users ten times faster is worth a serious discussion.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-screen-captures-of-CNN-Instant-Article-in-Feed-and-opened-within-Facebook.jpg" alt="Screen captures of CNN Instant Article in Feed and opened within Facebook" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-screen-captures-of-CNN-Instant-Article-in-Feed-and-opened-within-Facebook.jpg" alt="Screen captures of CNN Instant Article in Feed and opened within Facebook" >}}
 
 The format is also built on an open format utilizing HTML5 which helps ensure your content is as clean, responsive, and flexible as possible. I think the markup that is required by Instant Articles is a great way of reinforcing the importance of [structured content and content models](https://www.WHATEVER/event/open-and-structured-content-models-project-hands-on-workshop/) and keeps the sharing and reuse of our content front and center during the process.
 

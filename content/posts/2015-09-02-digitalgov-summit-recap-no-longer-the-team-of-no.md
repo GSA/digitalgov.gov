@@ -1,5 +1,4 @@
 ---
-url: /2015/09/02/digitalgov-summit-recap-no-longer-the-team-of-no/
 date: 2015-09-02 10:00:51 -0400
 title: 'DigitalGov Summit Recap: No Longer the Team of No'
 summary: 'No one likes to be told no. This is especially true at work, when you&rsquo;re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think &ldquo;just don&rsquo;t get it&rdquo;&mdash;namely those in content,'
@@ -16,7 +15,7 @@ tag:
   - USDA
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg) 
 
 No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think “just don’t get it”—namely those in content, legal, procurement and security.
 

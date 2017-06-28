@@ -1,5 +1,4 @@
 ---
-url: /2014/06/30/508-accessible-videos-why-and-how-to-make-them/
 date: 2014-06-30 10:00:51 -0400
 title: 508 Accessible Videos—Why (and How) to Make Them
 summary: 'Making Web content and video accessible to people with disabilities is the law. Ensuring a video is accessible requires planning. Taking steps from day one will save you time and money. To verify that a video is accessible you&#8217;d need to incorporate three elements: Captioning Audio descriptions An Accessible video player Why Accessibility Matters Many government'
@@ -16,7 +15,7 @@ tag:
   - YouTube
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/250-x-180-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/250-x-180-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 
 
 <p dir="ltr">
   Making Web content and video accessible to people with disabilities<a href="http://www.section508.gov/"> is the law</a>. Ensuring a video is accessible requires planning. Taking steps from day one will save you time and money. To verify that a video is accessible you&#8217;d need to incorporate three elements:

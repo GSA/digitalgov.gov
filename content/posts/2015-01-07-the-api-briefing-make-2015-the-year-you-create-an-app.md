@@ -1,5 +1,4 @@
 ---
-url: /2015/01/07/the-api-briefing-make-2015-the-year-you-create-an-app/
 date: 2015-01-07 10:00:04 -0400
 title: 'The API Briefing: Make 2015 the Year You Create an App'
 summary: 'According to some experts, over 80% of Americans will make a least one New Year&rsquo;s resolution. There are the usual &ldquo;lose weight,&rdquo; &ldquo;quit smoking,&rdquo; or &ldquo;exercise more&rdquo; resolutions. Another popular set of resolutions involves learning new skills. So, if you are looking for a way to improve yourself while helping others, think about making a'
@@ -24,7 +23,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
 According to some experts, over 80% of Americans will make a least one New Year’s resolution. There are the usual “lose weight,” “quit smoking,” or “exercise more” resolutions. Another popular set of resolutions involves learning new skills. So, if you are looking for a way to improve yourself while helping others, think about making a resolution to learn how to build a mobile app that can be used in disaster relief.
 

@@ -1,5 +1,4 @@
 ---
-url: /2014/09/29/advice-from-usaid-on-prize-competition-communication-strategies/
 date: 2014-09-29 1:57:25 -0400
 title: Advice from USAID on Prize Competition Communication Strategies
 summary: 'A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The United States Agency for International Development (USAID)&rsquo;s Jarah Meador shared the Desal Prize plan and results in the September 16 webinar, &ldquo;Why Your Gov'
@@ -14,13 +13,13 @@ tag:
   - USAID
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-200-social-media-Business-connection-TCmake_photo-iStock-Thinkstock-184725179.jpg" alt="social media and business connection icons" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-200-social-media-Business-connection-TCmake_photo-iStock-Thinkstock-184725179.jpg" alt="social media and business connection icons" caption="" >}} 
 
 A well-developed communications plan is critical to the success of a challenge competition, but too often it is one item managers leave to consider at the end of prize design. The [United States Agency for International Development](http://www.usaid.gov/) (USAID)’s Jarah Meador shared the [Desal Prize](http://www.securingwaterforfood.org/the-desal-prize/) plan and results in the September 16 webinar, “Why Your Gov Prize Competition Needs a Communications Strategy.”
 
 Consider the following advice and insight for help with planning your own challenge.
 
-## Before Your Challenge Launches {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-156-3D-dart-target-People-ahmetemre-iStock-Thinkstock-504029517.jpg" alt="A concept graphic for targeting people: the word people is in 3-D red lettering, with the o is a dart board with 3 green darts" %} 
+## Before Your Challenge Launches {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-156-3D-dart-target-People-ahmetemre-iStock-Thinkstock-504029517.jpg" alt="A concept graphic for targeting people: the word people is in 3-D red lettering, with the o is a dart board with 3 green darts" caption="" >}} 
 
 USAID estimated that 25% of the communications work on their challenge occurred pre-launch. For example, they spent a lot of time writing copy that others could easily use to help promote the challenge. Here are a few more of USAID&#8217;s tips:
 
@@ -33,7 +32,7 @@ USAID estimated that 25% of the communications work on their challenge occurred 
 
 ## During Your Challenge
 
-  * {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-167-weekly-goals-and-objectives-daily-calendar-Aleksandar-Stojanov-iStock-Thinkstock-119164825.jpg" alt="A photo of a Weekly Goals and Objectives daily calendar" %} 
+  * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-167-weekly-goals-and-objectives-daily-calendar-Aleksandar-Stojanov-iStock-Thinkstock-119164825.jpg" alt="A photo of a Weekly Goals and Objectives daily calendar" caption="" >}} 
     Keep referring back to your content calendar, so you remember to keep promoting your challenge.</li> 
     
       * Help promote other competing challenges. People who are not eligible for one challenge may be eligible to enter yours, and vice versa.
@@ -41,7 +40,7 @@ USAID estimated that 25% of the communications work on their challenge occurred 
     
     ## Ways to Measure the Overall Success of Your Challenge and Prize Competition
     
-    **Where did the ideas come from?** Same people or new people? USAID found that 50% of the ideas in their challenge came from the developing world. These are the people they are trying to help, so the ideas may be easier to implement. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-150-Social-Wave-Background-TCmake_photo-iStock-Thinkstock-186056119.jpg" alt="Social Wave Background showing various social media and computer or business icons" %} 
+    **Where did the ideas come from?** Same people or new people? USAID found that 50% of the ideas in their challenge came from the developing world. These are the people they are trying to help, so the ideas may be easier to implement. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-150-Social-Wave-Background-TCmake_photo-iStock-Thinkstock-186056119.jpg" alt="Social Wave Background showing various social media and computer or business icons" caption="" >}} 
     
     **Number of people engaged.** 6,000 participants were engaged during USAID&#8217;s challenge. 1,942 of those were email subscribers. You might want to compare this with the number of people engaged in your issue before your challenge, and see if the engagement continues to climb after the challenge. Check your Web analytics and see how many times key documents were viewed or downloaded. Email delivery tools can help you determine how many people opened the emails and clicked on the links in them.
     

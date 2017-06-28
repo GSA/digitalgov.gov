@@ -1,11 +1,10 @@
 ---
-url: /2015/06/05/monthly-theme-building-evaluating-and-improving-government-services-through-social-media/
 date: 2015-06-05 2:56:52 -0400
 title: 'Monthly Theme: Building, Evaluating, and Improving Government Services Through Social Media'
 summary: 'While examples of government social media content may initially seem like mere fun&mdash;the YouTube video of President Obama on Between Two Ferns or the Transportation Security Administration&rsquo;s &ldquo;good catch&rdquo; pics of lipstick stun guns and batarangs&mdash;the potential of applied social data to build, evaluate and improve diverse citizen services is only increasing. As we recently'
 authors:
-  - jherman
   - awichman
+  - jherman
 categories:
   - Monthly Theme
   - Social Media

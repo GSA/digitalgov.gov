@@ -1,5 +1,4 @@
 ---
-url: /2016/08/15/celebrating-the-18th-anniversary-of-section-508-rehabilitation-act/
 date: 2016-08-15 11:00:03 -0400
 title: Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act
 summary: 'August 8, 2016, marks the 18th anniversary of the amendment to the Section 508 Rehabilitation Act of 1973, which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. As amended, the Act requires: &#8230;access'
@@ -18,7 +17,7 @@ tag:
   - SSA
 ---
 
-August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." %} 
+August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-18th-Cake-robynmac-iStock-Thinkstock-105487856.jpg" alt="A red, white, and blue celebration cake with two lit candles, a one and an eight, for the number 18." caption="" >}} 
 
 As amended, the Act requires:
 
@@ -440,7 +439,7 @@ Another collaborative initiative we want to highlight is the [Improving the Acce
 
 ## Testing
 
-DHS leads the government’s Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/sites/default/files/publications/Trusted_Tester_Fact_Sheet_0.pdf "Trusted Tester Fact Sheet PDF file") ({% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/application-pdf.png" alt="PDF icon" %} 160KB PDF). Not only does the federal government then have a reliable set of testers who can address key Section 508 areas, but it also promotes a common understanding of the 508 standards and a common testing process developers can code to.
+DHS leads the government’s Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/sites/default/files/publications/Trusted_Tester_Fact_Sheet_0.pdf "Trusted Tester Fact Sheet PDF file") ({{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/application-pdf.png" alt="PDF icon" >}} 160KB PDF). Not only does the federal government then have a reliable set of testers who can address key Section 508 areas, but it also promotes a common understanding of the 508 standards and a common testing process developers can code to.
 
 We are very excited about the strides made to allow all citizens easier access to government information throughout 2016, and we look forward to the new tools, training and innovations in accessibility coming in 2017. What is YOUR agency doing to makes strides with accessibility?
 

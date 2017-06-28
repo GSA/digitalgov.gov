@@ -1,5 +1,4 @@
 ---
-url: /2014/07/25/5-key-points-about-government-branding-now/
 date: 2014-07-25 11:47:11 -0400
 title: 5 Key Points About Government Branding Now
 summary: 'Recently, I had the pleasure of speaking (in my own capacity) before the Council for Inspectors General for Integrity and Efficiency Public Affairs Officers (CIGIE-PAO) task force about branding. The invitation came by way of a colleague I greatly respect. Bridget Serchak is currently Chief of Public Affairs for the Department of Defense Inspector General and'
@@ -15,13 +14,13 @@ tag:
   - United States Department of Defense
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-200-Social-media-promotion-bayhayalet-iStock-Thinkstock-451410203.jpg" alt="Puzzle pieces show a good brand can dangle a carrot (something they know that the customer wants), leading to a social media thumbs up or Like." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-200-Social-media-promotion-bayhayalet-iStock-Thinkstock-451410203.jpg" alt="Puzzle pieces show a good brand can dangle a carrot (something they know that the customer wants), leading to a social media thumbs up or Like." caption="" >}} 
 
 Recently, I had the pleasure of speaking (in my own capacity) before the Council for Inspectors General for Integrity and Efficiency Public Affairs Officers (CIGIE-PAO) task force about branding.
 
 The invitation came by way of a colleague I greatly respect. Bridget Serchak is currently Chief of Public Affairs for the Department of Defense Inspector General and the group’s co-founder. She explained to me that the purpose of the CIGIE PAO is “to try to raise awareness of the role and function of IGs across government so that all federal employees in particular, but also our Hill constituencies and good government groups understand what IGs do and don&#8217;t do.”
 
-I wasn’t exactly sure what I was going to say to a bunch of inspectors general representatives about branding. Frankly I was a bit worried they would think that branding was essentially useless propaganda and that it didn&#8217;t belong in government at all. But they were very kind and we had a great conversation around some of the issues that government communicators face right now, and how branding can potentially help. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-342-Word-Cloud-Brand-Engagement-mindscanner-iStock-Thinkstock-480783305.jpg" alt="A word cloud for Brand Engagement" %} 
+I wasn’t exactly sure what I was going to say to a bunch of inspectors general representatives about branding. Frankly I was a bit worried they would think that branding was essentially useless propaganda and that it didn&#8217;t belong in government at all. But they were very kind and we had a great conversation around some of the issues that government communicators face right now, and how branding can potentially help. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-342-Word-Cloud-Brand-Engagement-mindscanner-iStock-Thinkstock-480783305.jpg" alt="A word cloud for Brand Engagement" caption="" >}} 
 
 Some highlights from the talk are now on YouTube (see [playlist](http://www.youtube.com/playlist?list=PLPePMyqynXegv7wZ1wgRLfNZ-mdBYKNFD&action_edit=1)). Here is a brief summary, in priority order:
 

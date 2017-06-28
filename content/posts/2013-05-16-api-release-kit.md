@@ -1,5 +1,4 @@
 ---
-url: /2013/05/16/api-release-kit/
 date: 2013-05-16 1:04:03 -0400
 title: API Release Kit
 summary: 'These are the elements you should include in your federal API release. Homepage Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page&rsquo;s sidebar, footer, and sub pages, you can directly include or link to each of'
@@ -19,7 +18,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 These are the elements you should include in your federal API release.
 

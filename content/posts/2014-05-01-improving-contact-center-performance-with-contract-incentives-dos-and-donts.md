@@ -1,5 +1,4 @@
 ---
-url: /2014/05/01/improving-contact-center-performance-with-contract-incentives-dos-and-donts/
 date: 2014-05-01 1:20:39 -0400
 title: 'Improving Contact Center Performance with Contract Incentives: Dos and Don’ts'
 summary: '&ldquo;In business, words are words, explanations are explanations, promises are promises, but only performance is reality.&rdquo; Harold S. Geneen As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.'
@@ -15,7 +14,7 @@ tag:
   - government contact centers
 ---
 
-> “In business, words are words, explanations are explanations, promises are promises, but only performance is reality.” Harold S. Geneen {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-167-call-center-Young-IT-support-team-working-in-modern-open-office-Dean-Mitchell-iStock-Thinkstock-96269012.jpg" alt="Young call center staff working in modern open office" %} 
+> “In business, words are words, explanations are explanations, promises are promises, but only performance is reality.” Harold S. Geneen {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-167-call-center-Young-IT-support-team-working-in-modern-open-office-Dean-Mitchell-iStock-Thinkstock-96269012.jpg" alt="Young call center staff working in modern open office" caption="" >}} 
 
 As government contact center managers, we dream of having contact center contractors who regularly exceed our performance expectations. One way to motivate your contractor to excel is by including financial incentives/disincentives directly into your contact center contract.
 

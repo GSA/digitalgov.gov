@@ -1,5 +1,4 @@
 ---
-url: /2014/11/05/the-api-briefing-brainstorming-ideas-for-apps/
 date: 2014-11-05 1:49:09 -0400
 title: 'The API Briefing: Brainstorming Ideas for Apps'
 summary: 'Data.gov has 130,000+ datasets (as of November 3, 2014) many of which are designed for application developers. In previous columns, I&rsquo;ve showcased some of the great applications built using federal APIs. Have you wondered where the idea for an app came from? Some developers start with an idea and then look for the API that'
@@ -18,7 +17,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
 [Data.gov](http://www.data.gov/) has 130,000+ datasets (as of November 3, 2014) many of which are designed for application developers. In previous columns, I’ve showcased some of the [great applications built using federal APIs](https://www.WHATEVER/tag/wednesday-api-briefing/). Have you wondered where the idea for an app came from?
 

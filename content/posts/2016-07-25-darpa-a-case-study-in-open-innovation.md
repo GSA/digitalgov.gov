@@ -1,5 +1,4 @@
 ---
-url: /2016/07/25/darpa-a-case-study-in-open-innovation/
 date: 2016-07-25 12:00:25 -0400
 title: 'DARPA: A Case Study in Open Innovation'
 summary: 'You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life. There&#8217;s the Internet, for starters. And if that isn&rsquo;t enough, the agency also has played a pivotal role in shaping GPS, stealth aircraft and drone technology. In fact, ever since its creation under President Eisenhower, DARPA has'
@@ -7,7 +6,7 @@ authors:
   - eric-beidel
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Managing Digital
 tag:
   - ChallengeGov
@@ -32,7 +31,7 @@ There&#8217;s the Internet, for starters. And if that isn’t enough, the agency
 
 And the ideas haven’t dried up. A scan of programs currently in the works reveals DARPA to be as forward-looking and vital as ever. Who doesn’t want a body that can [heal itself](http://www.darpa.mil/news-events/2015-10-05)?
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-306-Concept-diagram-of-ElectRx-technologies-Infographic-December-2014_619x316.jpg" alt="Concept diagram of DARPA’s Electrical Prescriptions (Elect R x) program, precise and intelligent modulation of nerve-organ circuits to provide new treatments for restoring physical and mental health." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-306-Concept-diagram-of-ElectRx-technologies-Infographic-December-2014_619x316.jpg" alt="Concept diagram of DARPA’s Electrical Prescriptions (Elect R x) program, precise and intelligent modulation of nerve-organ circuits to provide new treatments for restoring physical and mental health." >}}
 
 So how does an agency within the massive, red-tape-burdened federal government remain so flexible, open and inventive?
 
@@ -67,4 +66,4 @@ Just one more example of how open innovation brings agencies together in pursuit
 
 Again, be sure to read the full [report](http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf). There are lessons in it for all agencies that want to become more innovative and stay that way.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-308-Defense-Advanced-Research-Projects-Agency-DARPA-logo.jpg" alt="Defense Advanced Research Projects Agency (DARPA) logo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-308-Defense-Advanced-Research-Projects-Agency-DARPA-logo.jpg" alt="Defense Advanced Research Projects Agency (DARPA) logo" >}}

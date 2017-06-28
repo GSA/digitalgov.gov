@@ -1,8 +1,7 @@
 ---
-url: /2015/05/27/the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people/
 date: 2015-05-27 11:10:42 -0400
 title: 'The National Day of Civic Hacking 2015: Harnessing the Power of the People'
-summary: 'The National Day of Civic Hacking was born when some of the nation&rsquo;s leaders in civic engagement decided to rally around a common goal on one weekend. -Nicholas Skytland, NASA The National Day of Civic Hacking is a national community engagement event that will take'
+summary: 'The National Day of Civic Hacking was born when some of the nation&rsquo;s leaders in civic engagement decided to rally around a common goal on one weekend. -Nicholas Skytland, NASA The National Day of Civic Hacking is a national community engagement event that will'
 authors:
   - ali-llewellyn
 categories:
@@ -18,7 +17,7 @@ tag:
   
 > _-Nicholas Skytland, NASA_
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-250-Hack-For-Change-2015-Sticker.jpg" alt="Round, blue sticker that says, "Hack for Change."" %}The [National Day of Civic Hacking](http://hackforchange.org/about/) is a national community engagement event that will take place on June 6, 2015, in cities all around America. The initiative is a united effort to bring together a diverse group of concerned citizens to improve communities and the government which represents them.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-250-Hack-For-Change-2015-Sticker.jpg" alt="Round, blue sticker that says, Hack for Change." >}}The [National Day of Civic Hacking](http://hackforchange.org/about/) is a national community engagement event that will take place on June 6, 2015, in cities all around America. The initiative is a united effort to bring together a diverse group of concerned citizens to improve communities and the government which represents them.
 
 The event will connect software developers, entrepreneurs and concerned citizens from all over the nation so they can collaboratively create, build, and invent new solutions using publicly-released data, code and technology to solve challenges relevant to federal, state and local governments. The National Day of Civic Hacking provides citizens an opportunity to do what is most quintessentially American: roll up our sleeves, get involved and work together to improve our government.
 
@@ -41,7 +40,7 @@ The many benefits of the National Day of Civic Hacking include:
   * Promoting science, technology, engineering and mathematics (STEM) education by encouraging students to utilize open technology for solutions to real challenges.
   * Encouraging large scale partnership and mutual understanding.
 
-## What’s the theme? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-346-Hurricane-Storm-Evacuation-Route-Sign-choicegraphx-iStock-Thinkstock-98154377.jpg" alt="Hurricane Storm Evacuation Route Sign" %} 
+## What’s the theme? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-346-Hurricane-Storm-Evacuation-Route-Sign-choicegraphx-iStock-Thinkstock-98154377.jpg" alt="Hurricane Storm Evacuation Route Sign" caption="" >}} 
 
 We look for challenge themes that excite citizens and encourage collaboration across the local, state and federal levels. This year we are excited to offer three federal government core themes for [civic hackers](https://www.WHATEVER/2013/05/15/what-is-a-civic-hacker/ "What is a Civic Hacker?") to focus on: “Oceans &#8217;15,” Climate, and Disaster Response.
 

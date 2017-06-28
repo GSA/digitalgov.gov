@@ -1,8 +1,7 @@
 ---
-url: /2015/04/23/competitions-launch-start-ups-and-engage-entrepreneurs/
 date: 2015-04-23 11:30:50 -0400
 title: Competitions Launch Start-ups and Engage Entrepreneurs
-summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven entrepreneurial'
+summary: ' When people hear about challenge competitions, they most often ask about the results. What worked and why did it work? Two great examples are featured on the White House Office of Science and Technology Policy site, which include the &#8220;needle in the haystack&#8221; solvers for a space mass competition and eleven'
 authors:
   - tmarcoullier
 categories:
@@ -18,7 +17,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}
 
 When people hear about challenge competitions, they most often ask about the results. What worked and why did it work?
 
@@ -36,7 +35,7 @@ In only two months, over 200 concepts were submitted by over 2,100 individuals f
 
 <a href="http://www.nasa.gov/content/nasa-announces-winning-ideas-for-mars-balance-mass-challenge/" target="_blank">NASA awarded the $20,000 prize</a> to Ted Ground of Rising Star, Texas, for his idea to use the jettisoned payload to investigate the Mars atmosphere in a way similar to how NASA uses sounding rockets to study Earth’s atmosphere. This was the first time Ted worked with NASA, and NASA was impressed by the novelty and elegance of his proposal: a proposal that NASA likely would not have received through a traditional contract or grant because individuals, as opposed to organizations, are generally not eligible to participate in those types of competitions.
 
-## NIH Breast Cancer Startup Challenge (BCSC) {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-375-X-ray-machine-for-mammograms-Jupiterimages-Polka-Dot-Thinkstock-ThinkstockPhotos-86516764.jpg" alt="X-ray machine for mammograms" %} 
+## NIH Breast Cancer Startup Challenge (BCSC) {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-375-X-ray-machine-for-mammograms-Jupiterimages-Polka-Dot-Thinkstock-ThinkstockPhotos-86516764.jpg" alt="X-ray machine for mammograms" caption="" >}} 
 
 The primary goals of the BCSC were to accelerate the process of bringing emerging breast cancer technologies to market and to stimulate the creation of start-up businesses around nine federally conceived and owned inventions and one invention from an Avon Foundation for Women portfolio grantee.
 

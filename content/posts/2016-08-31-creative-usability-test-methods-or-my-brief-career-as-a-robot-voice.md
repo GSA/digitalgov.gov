@@ -1,12 +1,11 @@
 ---
-url: /2016/08/31/creative-usability-test-methods-or-my-brief-career-as-a-robot-voice/
 date: 2016-08-31 12:00:42 -0400
 title: Creative Usability Test Methods—or My Brief Career as a Robot Voice
 summary: 'When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That&rsquo;s just what happened to us. We&rsquo;re well practiced at usability testing at USAGov&mdash;in person, remote, hallway tests, first-click tests&mdash;all of these things we manage without blinking an eye.'
 authors:
   - joanne-mcgovern
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - Customer Experience
@@ -24,7 +23,7 @@ tag:
 
 When you want to do a usability test, sometimes you have to step out of your comfort zone and get creative to get the job done. That’s just what happened to us.
 
-We’re well practiced at usability testing at [USAGov](https://www.usa.gov/)—in person, remote, hallway tests, first-click tests—all of these things we manage without blinking an eye. But this spring, we tried something new. Our office was planning to make some changes to our IVR script. You know what an IVR is even if you don’t know the term. IVR stands for interactive voice response, you hear it when you call an organization and hear a recorded voice that greets you and gives you the option of pressing different buttons for different topics (e.g.,“To schedule an appointment, press 1. For billing questions, press 2.”). That’s an IVR. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-450-Futuristic-worker-of-call-center-Vladislav-Ociacia-iStock-Thinkstock-158913933.jpg" alt="Futuristic worker of call-center." %} 
+We’re well practiced at usability testing at [USAGov](https://www.usa.gov/)—in person, remote, hallway tests, first-click tests—all of these things we manage without blinking an eye. But this spring, we tried something new. Our office was planning to make some changes to our IVR script. You know what an IVR is even if you don’t know the term. IVR stands for interactive voice response, you hear it when you call an organization and hear a recorded voice that greets you and gives you the option of pressing different buttons for different topics (e.g.,“To schedule an appointment, press 1. For billing questions, press 2.”). That’s an IVR. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-450-Futuristic-worker-of-call-center-Vladislav-Ociacia-iStock-Thinkstock-158913933.jpg" alt="Futuristic worker of call-center." caption="" >}} 
 
 At USAGov, we wanted to test the recorded information that people hear when they call our toll free number, 1-844-USA-GOV1 (1-844-872-4681) during non-business hours. If you call after hours, you get a greeting, and then some options to listen to recorded information about our most common questions, like passports, housing, taxes, scams, and government benefits and grants.
 

@@ -1,8 +1,7 @@
 ---
-url: /2014/01/30/responsive-web-design-workshop-why-how-and-whats-next/
 date: 2014-01-30 10:28:29 -0400
 title: 'Responsive Web Design Workshop: Why, How and What’s Next?'
-summary: 'Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web design'
+summary: 'Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many agencies have implemented it and many others are exploring this approach to Mobile Gov. There are still many other questions about responsive web'
 authors:
   - jparcell
 categories:
@@ -18,7 +17,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." %}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="https://www.WHATEVER/?s=responsive+design">agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="https://www.WHATEVER/?s=responsive+design">agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
 </p>
 
 <p dir="ltr">

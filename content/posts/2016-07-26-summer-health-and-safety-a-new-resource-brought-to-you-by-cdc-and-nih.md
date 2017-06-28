@@ -1,5 +1,4 @@
 ---
-url: /2016/07/26/summer-health-and-safety-a-new-resource-brought-to-you-by-cdc-and-nih/
 date: 2016-07-26 1:00:44 -0400
 title: 'Summer Health and Safety: A New Resource Brought to You by CDC and NIH'
 summary: 'We have previously written about microsites in the federal government. A microsite is a small collection of web pages&mdash;a subset of an organization&rsquo;s full website. Partners can embed microsites that present curated information on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are API-enabled are maintained and updated'
@@ -25,7 +24,7 @@ tag:
 
 And now, here is another great example.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-476-CDC-NIH-Summer-Health-and-Safety-miscrosite-preview.jpg" alt="CDC and NIH "Summer Health and Safety" microsite preview." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-476-CDC-NIH-Summer-Health-and-Safety-miscrosite-preview.jpg" alt="CDC and NIH Summer Health and Safety microsite preview." >}}
 
 Recently, the Centers for Disease Control and Prevention (CDC) and National Institutes of Health (NIH) have partnered to produce a new microsite on Summer Health and Safety. Some of the topics covered include: food safety, water and sun safety, and the prevention of mosquito and tick-borne diseases.
 

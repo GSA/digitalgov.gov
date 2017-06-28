@@ -1,8 +1,7 @@
 ---
-url: /2014/01/02/fccs-speed-test-app/
 date: 2014-01-02 1:39:35 -0400
 title: 'FCC&#8217;s Speed Test App'
-summary: 'Feeling the need for [more] speed? Well, so is the mobile team at the Federal Communications Commission. As part of the agency&rsquo;s Measuring Broadband America Program, the FCC is looking to the crowd (that means you!) to help them assess America&rsquo;s mobile broadband performance on a national scale. Their hope is to'
+summary: 'Feeling the need for [more] speed? Well, so is the mobile team at the Federal Communications Commission. As part of the agency&rsquo;s Measuring Broadband America Program, the FCC is looking to the crowd (that means you!) to help them assess America&rsquo;s mobile broadband performance on a national scale. Their hope is'
 categories:
   - Code
   - Mobile
@@ -14,7 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27.jpg" alt="FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27" %}**Feeling the need for [more] speed?** Well, so is the mobile team at the [Federal Communications Commission](http://www.fcc.gov/).
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27.jpg" alt="FCC-Speed-Test-Android-Apps-on-Google-Play-2013-12-12-16-31-27" >}}**Feeling the need for [more] speed?** Well, so is the mobile team at the [Federal Communications Commission](http://www.fcc.gov/).
 
 As part of the agency’s [Measuring Broadband America Program](http://www.fcc.gov/measuring-broadband-america), the FCC is looking to the crowd (that means you!) to help them assess America’s mobile broadband performance on a national scale. Their hope is to use the data they collect anonymously through their new [FCC Speed Test app](https://play.google.com/store/apps/details?id=com.samknows.fcc)—Android-only for now—to create a detailed picture that could improve both the cellular and WIFI speeds you experience on your mobile device. And don’t worry: No personally identifiable data is collected.
 

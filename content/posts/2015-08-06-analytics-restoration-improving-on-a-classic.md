@@ -1,5 +1,4 @@
 ---
-url: /2015/08/06/analytics-restoration-improving-on-a-classic/
 date: 2015-08-06 11:24:50 -0400
 title: 'Analytics Restoration: Improving on a Classic'
 summary: Sometimes it is important to take a fresh look at a classic. As we digital analysts can attest, the array of software now available to our respective analytics programs has grown tremendously over the past few years. Even as we play catch-up to our private sector leaders, many digital analytics programs across the federal government
@@ -13,7 +12,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Vintage-red-coupe-ladimiroquai-iStock-Thinkstock-464976020.jpg" alt="Vintage red convertible coupe" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Vintage-red-coupe-ladimiroquai-iStock-Thinkstock-464976020.jpg" alt="Vintage red convertible coupe" caption="" >}} 
 
 Sometimes it is important to take a fresh look at a classic.
 
@@ -35,7 +34,7 @@ Here at the Department of Health and Human Services (HHS), we happen to be using
 
 By implementing custom metrics, our team now tracks the usage of KeyMatch, a feature that matches specific results to select search terms. KeyMatches can be thought of as sponsored search results, but for internal site search. We also track the use of OneBox, which offers on-page answers presented in a sidebar box. As OneBox answers can potentially satisfy a user without the need for them to select a URL from the listed results, understanding OneBox usage is essential to interpreting our overall click through rates (CTRs).
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-138-Analytics-Restoration\_Image-1-Sample-Report-with-OneBox-Search-Results\_Custom-Metric.jpg" alt="Image 1: Sample Report with OneBox Search Results (Custom Metric)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-1-Sample-Report-with-OneBox-Search-Results_Custom-Metric.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-138-Analytics-Restoration\_Image-1-Sample-Report-with-OneBox-Search-Results\_Custom-Metric.jpg" alt="Image 1: Sample Report with OneBox Search Results (Custom Metric)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-1-Sample-Report-with-OneBox-Search-Results_Custom-Metric.jpg)
 
 Another custom search metric, Zero Results Returned, allows us to identify content gaps or system errors in a way not previously available to us. Once we identify which search phrases return zero results, we can adjust our content keywords and search features as needed.
 
@@ -45,7 +44,7 @@ Another custom search metric, Zero Results Returned, allows us to identify conte
 
 **Value**: As structured content becomes more standardized, our analytics reporting should be able to segment the metrics for that content accordingly. Tracking usage by content type, and even audience tags, takes us yet another step beyond segmenting content by URL string. This custom dimension alone carries a lot of potential for advanced analysis.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-143-Analytics-Restoration\_Image-2-Sample-Report-with-Content-Type\_Custom-Dimension.jpg" alt="Image 2: Sample Report with Content Type (Custom Dimension)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-2-Sample-Report-with-Content-Type_Custom-Dimension.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-143-Analytics-Restoration\_Image-2-Sample-Report-with-Content-Type\_Custom-Dimension.jpg" alt="Image 2: Sample Report with Content Type (Custom Dimension)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-2-Sample-Report-with-Content-Type_Custom-Dimension.jpg)
 
 ## Metadata
 
@@ -53,7 +52,7 @@ Another custom search metric, Zero Results Returned, allows us to identify conte
 
 **Value:** Capturing various metadata as custom dimensions creates the opportunity for a range of useful reports. You are limited only by the metadata you are capturing. For example, you can easily identify content owners by author, or office, if you are capturing that metadata. You can send content owners reports on pages with outdated content, missing metadata, or broken links. Since this data can be paired with traffic metrics, busy content owners can prioritize what to fix first, instead of addressing issues at random.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-145-Analytics-Restoration\_Image-3-Sample-Report-with-Source-Organization-and-Modified-Date\_Custom-Dimensions.jpg" alt="Image 3: Sample Report with Source Organization and Modified Date (Custom Dimensions)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-3-Sample-Report-with-Source-Organization-and-Modified-Date_Custom-Dimensions.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-145-Analytics-Restoration\_Image-3-Sample-Report-with-Source-Organization-and-Modified-Date\_Custom-Dimensions.jpg" alt="Image 3: Sample Report with Source Organization and Modified Date (Custom Dimensions)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-3-Sample-Report-with-Source-Organization-and-Modified-Date_Custom-Dimensions.jpg)
 
 ## JavaScript Errors
 
@@ -61,7 +60,7 @@ Another custom search metric, Zero Results Returned, allows us to identify conte
 
 **Value**: Is your development team overworked? How about sending them JavaScript errors prioritized by event (error) volume? With this custom event, you can use UA to segment errors by browser, operating system, or device, providing your development team additional context.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-199-Analytics-Restoration\_Image-4-Sample-Report-with-JavaScript-Errors-by-HTML-Line-Number\_Custom-Event.jpg" alt="Image 4: Sample Report with JavaScript Errors by HTML Line Number (Custom Event)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-4-Sample-Report-with-JavaScript-Errors-by-HTML-Line-Number_Custom-Event.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-199-Analytics-Restoration\_Image-4-Sample-Report-with-JavaScript-Errors-by-HTML-Line-Number\_Custom-Event.jpg" alt="Image 4: Sample Report with JavaScript Errors by HTML Line Number (Custom Event)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/Analytics-Restoration_Image-4-Sample-Report-with-JavaScript-Errors-by-HTML-Line-Number_Custom-Event.jpg)
 
 Google Analytics (GA) has offered user-defined data sources ever since the first version of Classic GA was introduced. Only, now, with custom dimensions in particular, that capability is greater than ever. So, before you embrace the next niche analytics software, consider taking a pause.
 

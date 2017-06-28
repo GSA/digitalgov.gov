@@ -1,8 +1,7 @@
 ---
-url: /2013/04/25/government-must-respond-rapidly-to-social-media-hacking/
 date: 2013-04-25 1:25:31 -0400
 title: Government Must Respond Rapidly to Social Media Hacking
-summary: ' [Editor&#8217;s note: Please watch the Jan. 15 , 2015, webinar on How Government Can Prepare for and Respond to Social Media Hacks. on our Youtube channel] The hacking of an Associated Press news account on Twitter this week, and its fallout, underscored the need for agencies to'
+summary: ' [Editor&#8217;s note: Please watch the Jan. 15 , 2015, webinar on How Government Can Prepare for and Respond to Social Media Hacks. on our Youtube channel] The hacking of an Associated Press news account on Twitter this week, and its fallout, underscored the need for agencies'
 authors:
   - jherman
 categories:
@@ -15,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" >}}</a>
 </p>
 
 <p dir="ltr">

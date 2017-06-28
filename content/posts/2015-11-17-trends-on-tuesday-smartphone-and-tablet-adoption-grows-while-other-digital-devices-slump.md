@@ -1,5 +1,4 @@
 ---
-url: /2015/11/17/trends-on-tuesday-smartphone-and-tablet-adoption-grows-while-other-digital-devices-slump/
 date: 2015-11-17 10:00:49 -0400
 title: 'Trends on Tuesday: Smartphone and Tablet Adoption Grows While Other Digital Devices Slump'
 summary: 'Pew released a recent report tracking trends in digital device ownership and found smartphones and tablets have continued to grow in recent years, while other devices have stalled. The big headlines from the report are: Cell phones are now in the hands of more than 92% of U.S. adults, although this trend started to flatten'
@@ -11,7 +10,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) in digital device ownership</span> <span style="font-weight: 400">and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.</p> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" %} 
+Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) in digital device ownership</span> <span style="font-weight: 400">and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.</p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
 
 <p>
   The big headlines from the report are:

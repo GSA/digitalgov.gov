@@ -1,5 +1,4 @@
 ---
-url: /2016/02/26/what-do-mac-cheese-and-power-of-attorneys-have-in-common/
 date: 2016-02-26 10:47:25 -0400
 title: 'What do Mac & Cheese and Power of Attorneys Have in Common?'
 summary: 'They ranked among our top three most popular e-mails in 2015. At USAGov, we know that e-mail is often our #1 driver of traffic to our content, and nine out of 10 times it&rsquo;s our go-to outreach tool for disseminating timely information. But doing e-mail sends consistently and effectively isn&rsquo;t always clear cut, especially when'
@@ -27,7 +26,7 @@ Example: [Kraft Recall of Macaroni and Cheese Boxed Dinners](http://content.govd
   * Support a marketing campaign
   * Drive traffic to timely content on our websites
   * Promote social media chats or events
-  * Amplify information or alerts on behalf of other government agencies {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-425-Email-concept-with-mailbox-adempercem-iStock-Thinkstock-499594960.jpg" alt="Email concept with mailbox" %} 
+  * Amplify information or alerts on behalf of other government agencies {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-425-Email-concept-with-mailbox-adempercem-iStock-Thinkstock-499594960.jpg" alt="Email concept with mailbox" caption="" >}} 
 
 With every e-mail, a lot of consideration goes into the draft, quality and purpose of why we’re sending a particular communication.
 

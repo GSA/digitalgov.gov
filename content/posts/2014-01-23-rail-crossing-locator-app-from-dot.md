@@ -1,11 +1,9 @@
 ---
-url: /2014/01/23/rail-crossing-locator-app-from-dot/
 date: 2014-01-23 5:43:34 -0400
 title: Rail Crossing Locator App from DOT
-summary: ' Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too. But what about apps that can potentially increase our personal and the greater public safety in our neighborhoods and communities?'
+summary: ' Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too. But what about apps that can potentially increase our personal and the greater public safety in our neighborhoods and'
 categories:
   - Mobile
-  - "What's New"
 tag:
   - DOT
   - Federal Railroad Administration
@@ -13,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" >}}
 
 Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too.
 

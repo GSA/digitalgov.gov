@@ -1,8 +1,7 @@
 ---
-url: /2014/12/17/the-api-briefing-department-of-justice-frees-the-content-with-two-new-apis/
 date: 2014-12-17 10:20:21 -0400
 title: 'The API Briefing: Department of Justice Frees the Content with Two New APIs'
-summary: When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content creation
+summary: When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content
 authors:
   - bbrantley
 categories:
@@ -14,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-Justice-DOJ-law-jobs-iPhone-app.jpg" alt="Department of Justice Law Jobs iPhone app search results screen" %}When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content creation became easier through blogs, wikis, and microblogging. Even so, content was still attached to that particular content creation tool.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-Justice-DOJ-law-jobs-iPhone-app.jpg" alt="Department of Justice Law Jobs iPhone app search results screen" >}}When websites were first created back in the 1990s, developers perfected their skills designing sites that presented content in an attractive and eye-catching manner. Content was completely contained within the four corners of the site. With the rise of Web 2.0, content creation became easier through blogs, wikis, and microblogging. Even so, content was still attached to that particular content creation tool.
 
 [Content management systems](https://www.WHATEVER/2013/10/30/content-management-systems-toolkit/ "Content Management Systems Toolkit") (CMS) freed content from presentation. That means content was held in a database (or plain text files in the case of <a href="http://jekyllrb.com/" target="_blank">static site generators</a>) and could be displayed in a number of different ways based on presentation code. This allowed for greater versatility in how much content could be displayed and on which devices.
 

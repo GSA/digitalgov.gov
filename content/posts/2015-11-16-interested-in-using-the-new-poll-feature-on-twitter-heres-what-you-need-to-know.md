@@ -1,8 +1,7 @@
 ---
-url: /2015/11/16/interested-in-using-the-new-poll-feature-on-twitter-heres-what-you-need-to-know/
 date: 2015-11-16 11:10:58 -0400
 title: Interested in Using the New Poll Feature on Twitter? Here’s What You Need to Know!
-summary: ' Twitter polls allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you&rsquo;ll want to keep a few things in mind before getting started: To stay within the social media general'
+summary: ' Twitter polls allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you&rsquo;ll want to keep a few things in mind before getting started: To stay within the social media'
 authors:
   - mary-king
 categories:
@@ -13,7 +12,7 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" >}}
 
 [Twitter polls](https://blog.twitter.com/2015/introducing-twitter-polls) allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you’ll want to keep a few things in mind before getting started:
 
@@ -38,14 +37,14 @@ Our first poll was a very low stakes test, via our [@ThisIsArchives](https://twi
 
 ## Public View of the Twitter Poll
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-384-This-Is-Archives-Twitter-Poll-questions.jpg" alt="This Is Archives' Twitter Poll's questions" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-384-This-Is-Archives-Twitter-Poll-questions.jpg" alt="This Is Archives' Twitter Poll's questions" >}}
 
 ## Author’s view of Twitter Poll
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-429-This-Is-Archives-Twitter-Poll-final-vote.jpg" alt="This Is Archives' Twitter Poll's final vote" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-429-This-Is-Archives-Twitter-Poll-final-vote.jpg" alt="This Is Archives' Twitter Poll's final vote" >}}
 
 After 81 votes, [the cute pig won by a snout](https://twitter.com/ThisisArchives/status/662629851640283136)!
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/308-x-600-This-Is-Archives-Twitter-Poll-winning-photo-posted-by-Todays-Document.jpg" alt="This Is Archives Twitter Poll's winning photo tweeted by Todays Document" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/308-x-600-This-Is-Archives-Twitter-Poll-winning-photo-posted-by-Todays-Document.jpg" alt="This Is Archives Twitter Poll's winning photo tweeted by Todays Document" >}}
 
 Want to know more about Twitter polls? [Check out the basics](https://support.twitter.com/articles/20174524?lang=en). Happy polling!

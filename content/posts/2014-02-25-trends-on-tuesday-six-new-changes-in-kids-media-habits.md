@@ -1,8 +1,7 @@
 ---
-url: /2014/02/25/trends-on-tuesday-six-new-changes-in-kids-media-habits/
 date: 2014-02-25 11:53:59 -0400
 title: 'Trends on Tuesday: Six New Changes in Kids&#8217; Media Habits'
-summary: 'Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an eSchool News report of a study by Common Sense Media. Here are the other key findings: Roughly twice as'
+summary: 'Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an eSchool News report of a study by Common Sense Media. Here are the other key findings: Roughly twice'
 authors:
   - lisa-wilcox
 categories:
@@ -14,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/250-x-185-girl-reading-on-tablet-six-new-changes-in-kids-media-habits.jpg" alt="250 x 185 - girl reading on tablet - six new changes in kids media habits" %}Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an [eSchool News report](http://www.eschoolnews.com/2013/10/28/childrens-media-use-197/) of a [study by Common Sense Media](http://www.commonsensemedia.org/research/zero-to-eight-childrens-media-use-in-america-2013). Here are the other key findings:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/250-x-185-girl-reading-on-tablet-six-new-changes-in-kids-media-habits.jpg" alt="250 x 185 - girl reading on tablet - six new changes in kids media habits" >}}Children&#8217;s mobile media use has doubled and in some cases tripled in the last two years, according an [eSchool News report](http://www.eschoolnews.com/2013/10/28/childrens-media-use-197/) of a [study by Common Sense Media](http://www.commonsensemedia.org/research/zero-to-eight-childrens-media-use-in-america-2013). Here are the other key findings:
 
   1. Roughly twice as many children use mobile media today than in 2011.
   2. “Traditional” screen media use, such as television and video games, has decreased by more than 30 minutes per day.

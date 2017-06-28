@@ -1,5 +1,4 @@
 ---
-url: /2014/12/23/challenges-round-up/
 date: 2014-12-23 10:00:54 -0400
 title: 'Challenge & Prize Competition Round-Up'
 summary: Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov
@@ -22,7 +21,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview").
 
@@ -30,7 +29,7 @@ On Wednesday, December 10, the [Challenge and Prize Community of Practice](https
 
 This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s a look at our other events.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: "Government Challenges, Your Solutions."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 ## The New Challenge.gov
 

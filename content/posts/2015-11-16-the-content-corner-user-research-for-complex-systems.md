@@ -1,5 +1,4 @@
 ---
-url: /2015/11/16/the-content-corner-user-research-for-complex-systems/
 date: 2015-11-16 10:21:56 -0400
 title: 'The Content Corner: User Research for Complex Systems'
 summary: 'My office is preparing to embark on a complete redesign of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users&rsquo; needs. Providing a good user experience will also play'
@@ -14,7 +13,7 @@ tag:
   - UX
 ---
 
-My office is preparing to embark on a complete [redesign](https://www.WHATEVER/2015/02/27/foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind/) of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users’ needs. Providing a good [user experience](https://www.WHATEVER/2015/02/13/institutionalizing-user-experience-building-usability-into-your-organization/) will also play a critical role in reducing struggles long-time users may encounter with a new system. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Modern laptop on technology exhibition" %} 
+My office is preparing to embark on a complete [redesign](https://www.WHATEVER/2015/02/27/foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind/) of a 10-year-old system that averages 20,000 users a month. The success and adoption of the new system design and the product as a whole will be heavily determined by how well our team translates users’ needs. Providing a good [user experience](https://www.WHATEVER/2015/02/13/institutionalizing-user-experience-building-usability-into-your-organization/) will also play a critical role in reducing struggles long-time users may encounter with a new system. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Modern laptop on technology exhibition" caption="" >}} 
 
 Note: Due to the early stages of this project and various procurement concerns, I am leaving out some of the specifics but still felt that this practical discussion of user research could be beneficial.
 

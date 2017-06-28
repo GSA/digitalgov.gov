@@ -1,8 +1,7 @@
 ---
-url: /2015/03/11/data-code-and-api-event-round-up/
 date: 2015-03-11 10:00:04 -0400
 title: Data, Code, and API Event Round Up
-summary: ' DigitalGov University has hosted some great events over the last year in partnership with Data.gov, the MobileGov Community and 18F to bring you information on opening data and building APIs. This month we&rsquo;ve rounded up the events over the past year so that you can see what&rsquo;s been'
+summary: ' DigitalGov University has hosted some great events over the last year in partnership with Data.gov, the MobileGov Community and 18F to bring you information on opening data and building APIs. This month we&rsquo;ve rounded up the events over the past year so that you can see what&rsquo;s'
 authors:
   - apiazza
 categories:
@@ -30,13 +29,13 @@ tag:
   - White House
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" %}](https://www.WHATEVER/events/)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}](https://www.WHATEVER/events/)
 
 [DigitalGov University](https://www.WHATEVER/digitalgov-university/) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community](https://www.WHATEVER/communities/mobile/ "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
 
 ## Opening Data and Data.gov
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" %}This year Data.gov underwent some changes and updates and brought you training and guides to help your agency open your data and get it on Data.gov.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Keep Calm and Open Data American Flag Statue of Lady Liberty" >}}This year Data.gov underwent some changes and updates and brought you training and guides to help your agency open your data and get it on Data.gov.
 
 To get the basics on using Data.gov, you can take a look at our resources [How to Get Your Data on Data.gov](https://www.WHATEVER/resources/how-to-get-your-open-data-on-data-gov/ "How to Get Your Open Data on Data.gov") or [view the “How to Get Your Data on Data.gov webinar](http://www.youtube.com/watch?v=hbxA5-GDvvU&feature=youtube_gdata) we offered in November with Hyon Kim, Phil Ashlock and Rebecca Williams of the Data.gov team.
 
@@ -48,7 +47,7 @@ Speaking of Project Open Data, this cross-agency initiative developed by the Whi
 
 ## Open Source Content and Content Modeling
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 Agencies are also turning to “open as default” processes and considering this while in the early stages of development for delivery of services. [This recorded event in early May discussed the White House’s use of Drupal](https://www.youtube.com/watch?v=pRoCVIivbP4&index=10&list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM) during the State of the Union address as one example of using an Open Content Management System in a unique and innovative way to serve citizens.
 
@@ -56,7 +55,7 @@ Another event focusing on [using open source CMS](https://www.WHATEVER/event/mob
 
 DGU has also supported the [Structured and Open Content Models working group](http://gsa.github.io/Open-And-Structured-Content-Models/) by hosting discussions on how to implement the &#8220;event&#8221; and &#8220;article&#8221; models.
 
-## APIs {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." %} 
+## APIs {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
 We also hosted some great in-person workshops around [APIs](https://www.WHATEVER/tag/api/). In July we hosted [Working with APIs for Non-Coders](https://www.WHATEVER/2014/07/14/working-with-apis-for-non-coders-recap/ "Working with APIs for Non-Coders Recap"). This event, hosted by Eric Mill, a key developer on GSA’s 18F team, was especially targeted to non-developers and explored the basics of APIs, using [the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge!
 

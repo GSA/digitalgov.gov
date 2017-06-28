@@ -1,5 +1,4 @@
 ---
-url: /2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/
 date: 2016-08-18 10:00:29 -0400
 title: 'The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment'
 summary: 'This is the first post of a 5-part series. DigitalGov Search is a commercial-grade search engine provided as a shared-service by the United States General Services Administration. We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that'
@@ -9,7 +8,7 @@ categories:
   - Managing Digital
   - Monthly Theme
   - Our Work
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - aws
   - DigitalGov Search
@@ -22,7 +21,7 @@ tag:
 
 Customers include the [White House](https://search.whitehouse.gov/search?query=bo+and+sunny&op=Search&affiliate=wh), [12 Department-level websites](http://search.WHATEVER/customers.html), all branches of the military, the [Internal Revenue Service](http://find.irs.gov/search?utf8=%E2%9C%93&affiliate=irs&query=tax+extension&commit=Search), [NASA](http://nasasearch.nasa.gov/search?utf8=%E2%9C%93&affiliate=nasa&query=juno), and many more. We partner with agencies continually to improve the public’s ability to find the information they need on government websites, and streamline agency staff workflows for managing their searches. Launched originally as the [search box on FirstGov.gov](http://web.archive.org/web/20001109105200/http://www.firstgov.gov), we now serve 260 million queries a year across the government space, with peak throughput over 59 transactions per second. Our service is a big, mature system. Our move to a new infrastructure had to be perfect, and invisible.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-330-White-House-DG-Search-menu.jpg" alt="Screen capture from a Kindle device of DigitalGov Search on the White House website." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-330-White-House-DG-Search-menu.jpg" alt="Screen capture from a Kindle device of DigitalGov Search on the White House website." >}}
 
 In 2016, we began migrating the DigitalGov Search infrastructure to Amazon Web Services’ (AWS) Elastic Compute Cloud (EC2). Given the tight window of opportunity – seven months from project launch to migration – and the velocity constraints of our small team size, we elected to forklift the application into the new infrastructure as-is, and leave for a subsequent phase any consideration of refactoring to adopt additional modern practices like containerization. Even so, we were facing a challenging combination of requirements:
 

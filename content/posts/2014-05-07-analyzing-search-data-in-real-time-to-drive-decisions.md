@@ -1,8 +1,7 @@
 ---
-url: /2014/05/07/analyzing-search-data-in-real-time-to-drive-decisions/
 date: 2014-05-07 1:00:27 -0400
 title: Analyzing Search Data in Real-Time to Drive Decisions
-summary: 'DigitalGov Search recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends. The ELK stack consists of Elasticsearch, a real-time search and analytics engine; Logstash, a log management tool; and Kibana, a data visualization engine for creating dashboards. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-333-ELK-dashboard-deck.jpg" alt="ElasticSearch Logstash'
+summary: 'DigitalGov Search recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends. The ELK stack consists of Elasticsearch, a real-time search and analytics engine; Logstash, a log management tool; and Kibana, a data visualization engine for creating dashboards. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-333-ELK-dashboard-deck.jpg" alt="ElasticSearch'
 authors:
   - andreanocesigritz
 categories:
@@ -19,7 +18,7 @@ tag:
 
 The [ELK stack](http://www.elasticsearch.org/overview/) consists of Elasticsearch, a real-time search and analytics engine; Logstash, a log management tool; and Kibana, a data visualization engine for creating dashboards.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-333-ELK-dashboard-deck.jpg" alt="ElasticSearch Logstash Kibana ELK Dashboard for DigitalGov Search" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-333-ELK-dashboard-deck.jpg" alt="ElasticSearch Logstash Kibana ELK Dashboard for DigitalGov Search" >}}
 
 The dashboard-building capabilities surface trends not seen otherwise when buried in the data, Ammie Farraj Feijoo, manager of DigitalGov Search said in a [recent article](http://gcn.com/Articles/2014/04/29/DigitalGov-Search.aspx) in _GCN_.
 

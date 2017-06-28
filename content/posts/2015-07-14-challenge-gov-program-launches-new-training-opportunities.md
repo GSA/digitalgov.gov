@@ -1,8 +1,7 @@
 ---
-url: /2015/07/14/challenge-gov-program-launches-new-training-opportunities/
 date: 2015-07-14 1:52:31 -0400
 title: Challenge.gov Program Launches New Training Opportunities
-summary: ' Seven new training modules aim to help Federal Challenge and Prize Community members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with &ldquo;Prize History, Prize'
+summary: ' Seven new training modules aim to help Federal Challenge and Prize Community members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with &ldquo;Prize History,'
 authors:
   - judy-romano
 categories:
@@ -12,7 +11,7 @@ tag:
   - DGU
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: "Government Challenges, Your Solutions."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 Seven new training modules aim to help [Federal Challenge and Prize Community](https://www.WHATEVER/communities/challenges-prizes-community/) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
 

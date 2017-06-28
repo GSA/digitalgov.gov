@@ -1,5 +1,4 @@
 ---
-url: /2016/04/29/the-challenge-of-partnerships-the-good-bad-and-ugly-of-prize-collaborations/
 date: 2016-04-29 1:13:06 -0400
 title: 'The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Collaborations'
 summary: 'Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin. To partner or not to partner: That is the question. &ldquo;If you are going to do one, don&rsquo;t do it because it seems like a good idea,&rdquo;'
@@ -18,7 +17,7 @@ tag:
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.
 
-To partner or not to partner: That is the question. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" %} 
+To partner or not to partner: That is the question. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" caption="" >}} 
 
 “If you are going to do one, don’t do it because it seems like a good idea,” says Sandeep Patel, open innovation manager at the Department of Health and Human Services (HHS) Idea Lab. “Make sure there is value in it.”
 

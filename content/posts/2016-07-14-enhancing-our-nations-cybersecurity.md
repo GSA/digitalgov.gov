@@ -1,5 +1,4 @@
 ---
-url: /2016/07/14/enhancing-our-nations-cybersecurity/
 date: 2016-07-14 2:00:04 -0400
 title: 'Enhancing our Nation&#8217;s Cybersecurity'
 summary: 'The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the'
@@ -7,7 +6,7 @@ authors:
   - mary-davie
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - acquisition
   - GSA
@@ -18,7 +17,7 @@ tag:
   - U.S. General Services Administration
 ---
 
-The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the government has the tools and know-how it needs to protect our systems, data, and information. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-450-Many-red-opened-locks-around-one-closed-blue-lock-maxkabakov-iStock-Thinkstock-148650499.jpg" alt="Many red opened locks around one closed blue lock against a binary background." %} 
+The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the government has the tools and know-how it needs to protect our systems, data, and information. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-450-Many-red-opened-locks-around-one-closed-blue-lock-maxkabakov-iStock-Thinkstock-148650499.jpg" alt="Many red opened locks around one closed blue lock against a binary background." caption="" >}} 
 
 Recognizing the criticality of our cyber posture and challenges, the Obama Administration implemented the [Cybersecurity National Action Plan (CNAP)](http://www.gsa.gov/portal/content/129694). This plan has enacted immediate and long-term strategies to enhance cybersecurity awareness and protections. Another key part of CNAP is the IT Modernization Fund, which will channel $3.1 billion in IT spending to modernize, retire, or replace the most vulnerable and important systems in government.
 

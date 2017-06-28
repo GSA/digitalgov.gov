@@ -1,5 +1,4 @@
 ---
-url: /2014/07/29/deconstructing-public-prize-competitions-can-result-in-better-solutions/
 date: 2014-07-29 10:07:10 -0400
 title: '&#8220;Deconstructing&#8221; Public Prize Competitions Can Result in Better Solutions'
 summary: 'When faced with a big, daunting problem to solve, it&rsquo;s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges&rsquo;) was that the government can often receive better solutions'
@@ -18,7 +17,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-420-Gold-medals-Igor-Poleshchuk-Hemera-Thinkstock-101861678.jpg" alt="Gold medals" caption="" >}} 
 
 When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it “one step at a time.” The message from a recent DigitalGov University webinar on public prize competitions (AKA ‘challenges’) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step.
 

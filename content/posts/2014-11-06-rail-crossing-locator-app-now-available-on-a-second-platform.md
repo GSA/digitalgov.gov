@@ -1,8 +1,7 @@
 ---
-url: /2014/11/06/rail-crossing-locator-app-now-available-on-a-second-platform/
 date: 2014-11-06 10:00:43 -0400
 title: Rail Crossing Locator App Now Available on a Second Platform
-summary: 'You don&rsquo;t need to be a rail buff to want to download the Federal Railroad Administration Rail Crossing Locator app. Parents, outdoor enthusiasts, emergency responders, school officials, motorists and many others will find value in locating area highway-rail crossings. The aim of the app is public safety and the Department of Transportation (DOT)'
+summary: 'You don&rsquo;t need to be a rail buff to want to download the Federal Railroad Administration Rail Crossing Locator app. Parents, outdoor enthusiasts, emergency responders, school officials, motorists and many others will find value in locating area highway-rail crossings. The aim of the app is public safety and the Department of Transportation'
 authors:
   - kdowney
 categories:
@@ -17,7 +16,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-400-FRA-DOT-Rail-Crossing-Locator-Android-app.jpg" alt="250-x-400-FRA-DOT-Rail-Crossing-Locator-Android-app" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/527-x-845-FRA-DOT-Rail-Crossing-Locator-Android-app.jpg)You don’t need to be a rail buff to want to download the [Federal Railroad Administration Rail Crossing Locator app](https://www.WHATEVER/2014/01/23/rail-crossing-locator-app-from-dot/ "Rail Crossing Locator App from DOT"). Parents, outdoor enthusiasts, emergency responders, school officials, motorists and many others will find value in locating area highway-rail crossings. The aim of the app is public safety and the Department of Transportation (DOT) recently added an Android version of the app.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-400-FRA-DOT-Rail-Crossing-Locator-Android-app.jpg" alt="250-x-400-FRA-DOT-Rail-Crossing-Locator-Android-app" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/527-x-845-FRA-DOT-Rail-Crossing-Locator-Android-app.jpg)You don’t need to be a rail buff to want to download the [Federal Railroad Administration Rail Crossing Locator app](https://www.WHATEVER/2014/01/23/rail-crossing-locator-app-from-dot/ "Rail Crossing Locator App from DOT"). Parents, outdoor enthusiasts, emergency responders, school officials, motorists and many others will find value in locating area highway-rail crossings. The aim of the app is public safety and the Department of Transportation (DOT) recently added an Android version of the app.
 
 The Rail Crossing Locator app uses your current location to display nearby points on a map where a railway line crosses a road or path, as opposed to when a railway line crosses over or under a road via a bridge or tunnel.
 

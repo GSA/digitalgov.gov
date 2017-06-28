@@ -1,5 +1,4 @@
 ---
-url: /2013/10/28/federal-contact-center-regulations-and-directives/
 date: 2013-10-28 5:19:56 -0400
 title: 'Federal Contact Center Regulations & Directives'
 summary: Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements. Access for People with Disabilities (Section 508) Federal contact centers must comply with Section 508
@@ -13,7 +12,7 @@ tag:
   - section 508
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-435-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 
 
 Contact centers operated and managed by federal agencies have to follow certain laws, regulations, policies, and other directives. Unless specifically noted, contact centers operated and managed by states or local governments do not have to comply with these same requirements.
 

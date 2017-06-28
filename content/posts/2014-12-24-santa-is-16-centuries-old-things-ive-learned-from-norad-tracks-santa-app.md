@@ -1,8 +1,7 @@
 ---
-url: /2014/12/24/santa-is-16-centuries-old-things-ive-learned-from-norad-tracks-santa-app/
 date: 2014-12-24 9:00:36 -0400
 title: 'Santa Is 16 Centuries Old: Things I&#8217;ve Learned from NORAD Tracks Santa App'
-summary: 'NORAD&#8217;s Santa Tracker is available for download again! Here are five things I learned from the magical NORAD Tracks Santa app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don&rsquo;t remember how many of them I'
+summary: 'NORAD&#8217;s Santa Tracker is available for download again! Here are five things I learned from the magical NORAD Tracks Santa app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don&rsquo;t remember how many of them'
 authors:
   - kdowney
 categories:
@@ -16,7 +15,7 @@ tag:
   - United States Department of Defense
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-NORAD-Santa-Tracker-Android-app-home-screen.jpg" alt="NORAD Santa Tracker app home screen on an Android smartphone" %}NORAD&#8217;s Santa Tracker is available for [download again!](https://www.WHATEVER/2013/12/19/the-2013-norad-tracks-santa-app/ "The 2013 NORAD Tracks Santa App")
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-NORAD-Santa-Tracker-Android-app-home-screen.jpg" alt="NORAD Santa Tracker app home screen on an Android smartphone" >}}NORAD&#8217;s Santa Tracker is available for [download again!](https://www.WHATEVER/2013/12/19/the-2013-norad-tracks-santa-app/ "The 2013 NORAD Tracks Santa App")
 
 Here are five things I learned from the magical **NORAD Tracks Santa** app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don’t remember how many of them I should buy presents for:
 
@@ -26,7 +25,7 @@ Here are five things I learned from the magical **NORAD Tracks Santa** app to ke
   4. The technical specs of Santa’s sleigh are 75 cc in length, 40 cc in width and 55 cc in height. By the way, cc stands for candy canes.
   5. Santa actually needs to slow down for NORAD fighter pilots to escort him while in the U.S., since per technical specs listed in the app his sleigh is “faster than starlight.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Big-Red-One-Satellite.jpg" alt="NORAD Santa Tracker "Big Red One" Satellite, from YouTube" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Big-Red-One-Satellite.jpg" alt="NORAD Santa Tracker Big Red One Satellite, from YouTube" >}}
 
 Five things I learned about the **North American Defense Command** (**NORAD**) from the app that made my heart grow three sizes this day:
 
@@ -36,7 +35,7 @@ Five things I learned about the **North American Defense Command** (**NORAD**) f
   4. NORAD tracks airplanes, missiles, space launches and anything else that flies in and around the North American continent 24 hours a day, 365 days a year.
   5. NORAD is a bi-national U.S. and Canadian military organization.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Volunteers.jpg" alt="NORAD Santa Tracker volunteers, from YouTube" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-327-NORAD-Santa-Tracker-YouTube-Volunteers.jpg" alt="NORAD Santa Tracker volunteers, from YouTube" >}}
 
 Few things bring the spirit of the holidays back each year like the NORAD Tracks Santa program. NORAD began the program in 1955 due to an advertising error by Sears Roebuck and Co. The ad misprinted the number for children to call Santa, which actually put the children through to the operations hotline of NORAD&#8217;s predecessor, the Continental Air Defense Command. The unit commander at the time had his staff provide updates on Santa based on radar activity, and a tradition was born.
 
@@ -50,7 +49,7 @@ The app contains a host of information, including:
 
 You can download the app for your [iPhone](https://itunes.apple.com/us/app/norad-tracks-santa/id474927766?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.visionbox.NoradTracksSanta) or [Windows](http://www.windowsphone.com/en-us/store/app/norad-tracks-santa/d005fda7-d20a-4a41-acdd-16d1ecab38e2) phone.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-375-NORAD-Santa-Tracker-Thin-Ice-game.jpg" alt="NORAD Santa Tracker's Thin Ice game on an Android smartphone" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-375-NORAD-Santa-Tracker-Thin-Ice-game.jpg" alt="NORAD Santa Tracker's Thin Ice game on an Android smartphone" >}}
 
 **Bonus**: Play the app’s addictive “Thin Ice” game to help Santa’s elves deliver presents. The first few levels are easy enough as you get the hang of it, but remember the spirit of the holidays and watch your language as you continuously and helplessly let all the presents fall into the ice holes in later rounds. Or at least that’s my experience, you may fare better.
 

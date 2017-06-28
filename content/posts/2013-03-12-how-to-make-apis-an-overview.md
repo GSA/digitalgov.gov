@@ -1,5 +1,4 @@
 ---
-url: /2013/03/12/how-to-make-apis-an-overview/
 date: 2013-03-12 12:47:51 -0400
 title: How to Make APIs—An Overview
 summary: 'After choosing a set of information or services to offer via API, some of your next steps are to plan and implement the API. You&#8217;ll still need to prepare documentation, tools, and other elements that make a complete package for the API, but at the center is the actual Web service itself. In many situations,'
@@ -13,7 +12,7 @@ tag:
   - open data
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 After choosing a set of information or services to offer via API, some of your next steps are to plan and implement the API. You&#8217;ll still need to prepare documentation, tools, and other elements that make a complete package for the API, but at the center is the actual Web service itself. In many situations, existing IT resources or the current system operators handle this step. There are several options at this stage, each with advantages and disadvantages.
 

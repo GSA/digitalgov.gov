@@ -1,8 +1,7 @@
 ---
-url: /2015/04/14/trends-on-tuesday-10-tips-for-mobile-live-streaming/
 date: 2015-04-14 11:10:55 -0400
 title: 'Trends on Tuesday: 10 Tips for Mobile Live Streaming'
-summary: ' Mobile video is starting to hit its second wave for both consumption and creation, and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile bandwidth and cellular stability steadily increasing and consumers&#8217; comfort with'
+summary: ' Mobile video is starting to hit its second wave for both consumption and creation, and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile bandwidth and cellular stability steadily increasing and consumers&#8217; comfort'
 authors:
   - wsullivan
 categories:
@@ -16,7 +15,7 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" >}}
 
 [Mobile video is starting to hit its second wave for both consumption and creation](http://qz.com/365293/it-took-a-decade-but-mobile-video-is-finally-exploding/), and government agencies can prepare now to ride this new channel for mobile and social engagement. Fueled by mobile [bandwidth and cellular stability steadily increasing](http://www.scribd.com/doc/259862003/State-of-the-Internet-Report-Q4-2014#scribd) and [consumers&#8217; comfort with larger mobile devices fueling more video watching on mobile](http://www.cmo.com/articles/2015/3/2/ADI-2015-Inaugural-Video-Benchmark-Report.html?cmpid=NIR280), a plethora of social apps now allow you to live stream and watch on mobile devices.
 

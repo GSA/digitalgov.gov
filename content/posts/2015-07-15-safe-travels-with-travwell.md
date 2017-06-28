@@ -1,8 +1,7 @@
 ---
-url: /2015/07/15/safe-travels-with-travwell/
 date: 2015-07-15 11:02:14 -0400
 title: Safe Travels with TravWell
-summary: 'Ahhh&hellip; Summer is here at last! It&rsquo;s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app. Gone'
+summary: 'Ahhh&hellip; Summer is here at last! It&rsquo;s time for relaxing vacation! Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris&mdash;it is time for a travel app.'
 authors:
   - nirmala-ramprasad
 categories:
@@ -15,7 +14,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" %}Ahhh… Summer is here at last! It’s time for relaxing vacation!
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-445-CDC-TravWell-app-main-screen-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's main screen" >}}Ahhh… Summer is here at last! It’s time for relaxing vacation!
 
 Whether you want to scale the peaks of Mount Everest, scuba dive in the Great Barrier Reef, ride a camel in the deserts of Mongolia, or shop in Paris—it is time for a travel app.
 
@@ -27,7 +26,7 @@ Have you ever wondered—do I need to take any health precautions before I trave
 
 Don’t worry. CDC’s TravWell app answers those questions and much more. It is available for both iOS and Android users. It takes less than a minute to download and is very intuitive, and easy to use.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-517-CDC-TravWell-app-menu-and-trip-screens-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's menu and trip screens" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-517-CDC-TravWell-app-menu-and-trip-screens-from-Apple-iTunes.jpg" alt="The CDC's TravWell app's menu and trip screens" >}}
 
 The app guides you to pick your favorite destination and your travel dates to create a trip. You can personalize it with your profile. Voila—now you have customized travelers’ health information for your destination literally at your fingertips.
 

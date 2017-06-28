@@ -1,5 +1,4 @@
 ---
-url: /2014/09/03/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap/
 date: 2014-09-03 10:00:46 -0400
 title: Open Source Content Management Systems and Responsive Web Design Webinar Recap
 summary: 'Most of us in the DigitalGov community recognize that responsive Web design is one approach to mobile first and most of us have a pretty clear picture of what it means&mdash;a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another. But do you'
@@ -35,7 +34,7 @@ As we’ve been learning since the [February workshop on the topic](https://www.
 
 Ryan Day’s presentation covered how his team used Drupal to implement responsive design during the rebuilding of their [Child Care Information Portal](http://financeweb.gsa.gov/childcare_portal). In Drupal, themes are a major component in determining how your site will function, and Ryan stressed the need to pick the right theme—one that will meet your content needs AND is responsive—and let it do the heavy lifting for you.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-300-An-Omega-grid-sets-the-width-and-location-of-content-blocks.jpg" alt="The Omega grid sets the width and location of your content blocks." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-300-An-Omega-grid-sets-the-width-and-location-of-content-blocks.jpg" alt="The Omega grid sets the width and location of your content blocks." >}}
 
 Ryan went on to show us how to configure Drupal, and his team’s chosen theme _Omega_, so that it will rearrange your site’s content display based on your user’s device. Within Drupal, you can define a region type for each block of content, so that your CMS knows what is top-level navigation, what is sidebar navigation, what is main content, etc. Additionally, the _Omega_ theme has another level of configuration, sections and zones, that allow you to identify where the different regions should move to as your user’s screen width narrows. You can even define different CSS styles for different device widths.
 
@@ -47,7 +46,7 @@ Eric Brassil highlighted that at the State Department, diplomacy happens in the 
 
 While mobile responsiveness hadn’t been a priority when these tools were selected, the tools’ open-source development meant that others had already created responsive solutions State could use. With Communities@State, Eric and his team started by upgrading to a newer version of WordPress, and then identified responsive themes and plug-ins that would work with all the browsers that State employees need. They also had to test the themes on multiple devices before narrowing down the options and making a choice. There are 50+ unique Communities@State blogs, each with its own administrator, so Eric and his team have begun the large task of working with each administrator to update, test the blog’s new theme, move and reformat the content. It’s a time-consuming process, but they’re rolling along, and as of last month, about 1/3 of the blogs were updated.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-310-A-Communities-at-State-blog-that-is-now-mobile-friendly.jpg" alt="A Communities@State blog that is now mobile-friendly." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-310-A-Communities-at-State-blog-that-is-now-mobile-friendly.jpg" alt="A Communities@State blog that is now mobile-friendly." >}}
 
 As with their Communities platform, the first step in making Diplopedia more responsive was to upgrade the MediaWiki software. Next, they identified an extension that would make the site responsive, but during extensive testing they discovered a few issues that needed to be addressed before implementing. For example, multi-column tables were not displaying properly on mobile devices. While Eric and his team were able to find a CSS solution that made the tables scrollable, they are currently migrating some tables over to a different format, and are advising users to avoid creating multi-column tables. As a result of their improvements, employees can use Diplopedia to make conference portal pages attendees can view while at the meeting, eliminating the need to distribute 3-ring binders of materials.
 
@@ -55,7 +54,7 @@ As with their Communities platform, the first step in making Diplopedia more res
 
 The third speaker, Karen Trebon, gave an overview of [Sites.USA.gov](https://sites.usa.gov/), a new tool for creating a responsive website offered by GSA. Sites.USA.gov offers government Web managers an opportunity to quickly and easily create a responsive website that adheres to the Digital Government Strategy of “anywhere, any time, on any device.” These sites are built on the open-source WordPress CMS and are available in 18 different themes, which have been selected and tested for 508 compliance, as well as responsive design.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-210-Responsiveness-in-action-on-the-eCPIC-Electronic-Capital-Planning-and-Investment-Control-System.jpg" alt="Responsiveness-in-action on the Electronic Capital Planning and Investment Control System’s Sites.usa.gov site." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-210-Responsiveness-in-action-on-the-eCPIC-Electronic-Capital-Planning-and-Investment-Control-System.jpg" alt="Responsiveness-in-action on the Electronic Capital Planning and Investment Control System’s Sites.usa.gov site." >}}
 
 You begin the process by clicking Sign-up at [Sites.USA.gov](https://sites.usa.gov/). After a 30-minute kick-off call, and the determination of your theme and site administrators, your site environment can be set up in a week or less, Karen said. Current clients include the Commission to Eliminate Child Abuse and Neglect Fatalities, the Electronic Capital Planning and Investment Control System, and the Christopher Columbus Fellowship Foundation. Visit [Sites.USA.gov](https://sites.usa.gov/) or e-mail <sitessupport@gsa.gov> for more information.
 

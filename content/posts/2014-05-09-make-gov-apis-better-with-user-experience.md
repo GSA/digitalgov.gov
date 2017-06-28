@@ -1,14 +1,13 @@
 ---
-url: /2014/05/09/make-gov-apis-better-with-user-experience/
 date: 2014-05-09 10:00:29 -0400
 title: Make Gov APIs Better with User Experience
-summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It&rsquo;s designed to help someone do something. Products are'
+summary: 'APIs and User Experience go together like gummi bears and ice cream. An API is a product just like a car, a website or a ballpoint pen. It&rsquo;s designed to help someone do something. Products'
 authors:
   - jonathan-rubin
 categories:
   - API
   - Code
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - 18F
@@ -23,7 +22,7 @@ tag:
   - USDA
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." %}APIs](https://www.WHATEVER/2013/04/30/apis-in-government/) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs](https://www.WHATEVER/2013/04/30/apis-in-government/) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
 
 An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products are either designed well—they meet expectations and deliver value—or they are designed poorly and create frustration and confusion. Inevitably, bad products are abandoned without a thought, like an old T-shirt with holes in it.
 

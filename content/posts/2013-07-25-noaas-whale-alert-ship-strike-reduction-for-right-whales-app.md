@@ -1,8 +1,7 @@
 ---
-url: /2013/07/25/noaas-whale-alert-ship-strike-reduction-for-right-whales-app/
 date: 2013-07-25 9:32:26 -0400
 title: 'NOAA&#8217;s Whale Alert – Ship Strike Reduction for Right Whales App'
-summary: Mariners now have an anytime, anywhere resource to aid in the reduction
+summary: Mariners now have an anytime, anywhere resource to aid in the
 authors:
   - brandon-barr
 categories:
@@ -13,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/whalealert.jpg" alt="The National Oceanic and Atmospheric Administration (NOAA), in collaboration with other groups in both the private and public sector, has developed an app for the iPhone and iPad which helps to reduce collisions between ships and the endangered right whales. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/whalealert.jpg)Mariners now have an anytime, anywhere resource to aid in the reduction of ship and right whale collisions.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/whalealert.jpg" alt="The National Oceanic and Atmospheric Administration (NOAA), in collaboration with other groups in both the private and public sector, has developed an app for the iPhone and iPad which helps to reduce collisions between ships and the endangered right whales. " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/whalealert.jpg)Mariners now have an anytime, anywhere resource to aid in the reduction of ship and right whale collisions.
 
 [The National Oceanic and Atmospheric Administration (NOAA)](http://www.noaa.gov/), in collaboration with other groups in both the private and public sector, has developed an [app for the iPhone and iPad](https://itunes.apple.com/us/app/whale-alert-ship-strike-reduction/id511707112?mt=8) which helps to reduce collisions between ships and the [endangered right whales](http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/rightwhale_northatlantic.htm). By providing existing NOAA data and information in one easy to access location displayed on NOAA nautical charts, in addition real time GPS position tracking, vessel operators are more easily able to avoid collision with whales.
 

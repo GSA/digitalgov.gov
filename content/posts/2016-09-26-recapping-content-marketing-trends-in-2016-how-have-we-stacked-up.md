@@ -1,5 +1,4 @@
 ---
-url: /2016/09/26/recapping-content-marketing-trends-in-2016-how-have-we-stacked-up/
 date: 2016-09-26 2:00:24 -0400
 title: 'The Content Corner: Recapping Content Marketing Trends in 2016—How Have We Stacked Up?'
 summary: 'Earlier this year, it was predicted that content marketing would become even more important due to its ability to enhance not just visibility, but also increase engagement with customers&mdash;who could, in turn, become great promoters of your content. Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -31,7 +30,7 @@ tag:
   - White House
 ---
 
-Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." %} 
+Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-425-Content-marketing-concept.-Flat-design-illustration-cacaroot-iStock-Thinkstock-543692162.jpg" alt="Flat design illustration of content marketing concept." caption="" >}} 
 
 Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and repurposing content. In the recent blog post, [15 Content Marketing Trends for 2016](http://buildfire.com/content-marketing-trends-2016/), it is noted that the &#8220;average American spends nearly four hours a day bombarded with different types of content.” As consumers of content, it wouldn’t be incredibly off to call it all overwhelming. We all probably have a favorite or two go-to networks where we seek to receive information.
 
@@ -59,7 +58,7 @@ The Department of the Interior highlights beautiful imagery with a short narrati
 
 Others like the [White House](https://www.snapchat.com/add/whitehouse), [NASA](https://www.snapchat.com/add/nasa) and [USA.gov](https://www.WHATEVER/2016/03/29/usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible/) have joined Snapchat (&#8220;Snap, Inc.&#8221; as of September 24, 2016), or even simply redesigned their blog on their .gov website using a different [content management system](https://www.WHATEVER/2013/10/30/content-management-systems-toolkit/).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" >}}
 
 <ol start="3">
   <li>

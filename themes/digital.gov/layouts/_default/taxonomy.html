@@ -10,7 +10,10 @@
       {{ $slug := .Title | urlize }}
       {{ $taxdata := index $data $taxonomy }}
       {{ $term := index $taxdata $slug }}
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
       <h1 class="archive-title">{{ $term }}</h1>
 
       {{ range (.Paginator 10).Pages }}

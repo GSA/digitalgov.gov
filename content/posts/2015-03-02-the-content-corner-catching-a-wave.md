@@ -1,5 +1,4 @@
 ---
-url: /2015/03/02/the-content-corner-catching-a-wave/
 date: 2015-03-02 2:01:48 -0400
 title: 'The Content Corner: Catching a Wave'
 summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine&rsquo;s Day and Presidents&rsquo;'
@@ -15,13 +14,13 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" caption="" >}} 
 
 As we all continue to wrestle with the “[content beast](https://www.WHATEVER/2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/)”, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s Day and Presidents’ Day holidays (I decided to skip “[Do a Grouch a Favor Day](http://www.cute-calendar.com/event/do-a-grouch-a-favor-day/11254-world.html)”).
 
 But its not as simple as picking a holiday or event and then just running with it. Done well, it will not only help you populate your editorial calendar but also drive traffic and raise awareness about your agency. Done sloppily, it can alienate visitors and even damage your agency’s reputation. As content creators for our organizations there is certainly such a thing as bad publicity.
 
-## A Match Made in the Heavens {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Crab-Nebula\_Nov-28-2005\_NASA-Goddard-Space-Flight-Center\_Flickr-4398655649\_55ff7ca3a4\_o\_CC-BY-2.0.jpg" alt="NASA photo of the Crab Nebula in space, taken Nov 28 2005" %} 
+## A Match Made in the Heavens {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-250-Crab-Nebula\_Nov-28-2005\_NASA-Goddard-Space-Flight-Center\_Flickr-4398655649\_55ff7ca3a4\_o\_CC-BY-2.0.jpg" alt="NASA photo of the Crab Nebula in space, taken Nov 28 2005" caption="" >}} 
 
 One federal organization that excels at content coordination and planning is NASA. They serve as a great example that highlights two of the major components of how to successfully align your content with current events:
 

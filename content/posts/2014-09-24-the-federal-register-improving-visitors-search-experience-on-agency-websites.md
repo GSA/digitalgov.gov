@@ -1,5 +1,4 @@
 ---
-url: /2014/09/24/the-federal-register-improving-visitors-search-experience-on-agency-websites/
 date: 2014-09-24 10:00:55 -0400
 title: 'The Federal Register: Improving Visitors’ Search Experience on Agency Websites'
 summary: 'The Office of the Federal Register&rsquo;s mission &ldquo;informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.&rdquo; As the winner of the Bright Idea Award, FederalRegister.gov is clear and easy to use, but most citizens rarely frequent it. More frequently they'
@@ -15,7 +14,7 @@ tag:
   - Federal Register
   - Instagram
   - NLM
-  - 'Occupational Safety and Health Administration'
+  - 'Occupational Safety &amp; Health Administration'
   - OSHA
   - SEC
   - Twitter
@@ -41,7 +40,7 @@ Regulatory agencies that use our service—such as the [Securities and Exchange 
 
 See the SEC.gov sample search results page below, which shows inline results for three recently published notices related to NASDAQ.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-600-SEC-Federal-Register.jpg" alt="Securities and Exchange Commission search results page" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-600-SEC-Federal-Register.jpg" alt="Securities and Exchange Commission search results page" >}}
 
 ## How It Works
 

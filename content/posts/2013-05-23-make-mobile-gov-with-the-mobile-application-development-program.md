@@ -1,8 +1,7 @@
 ---
-url: /2013/05/23/make-mobile-gov-with-the-mobile-application-development-program/
 date: 2013-05-23 9:01:11 -0400
 title: Make Mobile Gov with the Mobile Application Development Program
-summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA&rsquo;s Digital Services Innovation Center and the Federal CIO Council launch the Mobile Application'
+summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA&rsquo;s Digital Services Innovation Center and the Federal CIO Council launch the Mobile'
 authors:
   - jparcell
 categories:
@@ -18,7 +17,7 @@ tag:
   - MobileGov
 ---
 
-[{% img="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" %}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.
+[{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.
 
 The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
 

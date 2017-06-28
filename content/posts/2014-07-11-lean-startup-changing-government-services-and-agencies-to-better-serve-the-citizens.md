@@ -1,12 +1,11 @@
 ---
-url: /2014/07/11/lean-startup-changing-government-services-and-agencies-to-better-serve-the-citizens/
 date: 2014-07-11 10:00:44 -0400
 title: 'Lean Startup: Changing Government Services and Agencies to Better Serve the Citizens'
 summary: It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business
 authors:
   - bbrantley
 categories:
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - CFPB
@@ -17,7 +16,7 @@ tag:
   - United States Office of Personnel Management
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-406-light-bulb-Innovation-and-technology-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-175119127.jpg" alt="A graphic for innovation and technology concepts in a tag cloud in the shape of a light bulb" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-406-light-bulb-Innovation-and-technology-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-175119127.jpg" alt="A graphic for innovation and technology concepts in a tag cloud in the shape of a light bulb" caption="" >}} 
 
 It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business needs. Yes, it is easy to start a business. The hard part is creating and sustaining a business.
 

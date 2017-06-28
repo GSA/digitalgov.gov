@@ -1,5 +1,4 @@
 ---
-url: /2013/11/21/mobile-product-compatibility-and-functional-testing-101/
 date: 2013-11-21 9:55:56 -0400
 title: Mobile Product Compatibility and Functional Testing 101
 summary: 'As covered in the Mobile Product Testing Guidelines article, there are various approaches to mobile testing. This article is a resource of the Federal CrowdSource Mobile Testing Program and focuses on two common test types are compatibility testing and functional testing. Compatibility Testing The Wikipedia article on compatibility testing states the &#8220;Compatibility testing, part of software'
@@ -7,7 +6,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - mobile
   - mobile apps
@@ -44,7 +43,7 @@ Scripted testing is testing that involved the developer creating specific test s
 
 A new method of testing, aimed at mobile device testing and being advanced by [QATestLab](http://qatestlab.com/) is called [exploratory testing](http://qatestlab.com/services/No-Documentation/exploratory-testing/). This is a hybrid testing methodology that uses attributes of both unscripted and scripted testing. Exploratory testing uses the &#8220;freedom&#8221; scale. It is a plan is to cover each end of the spectrum when testing our mobile application. The tester is asked to perform exploratory testing as well as execute the scripted tests that the Agency has provided.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/freedom_scale.png" alt="Testing Scale" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/freedom_scale.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/freedom_scale.png" alt="Testing Scale" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/freedom_scale.png)
   
 Source: [Telling Your Exploratory Story](http://agile2010.agilealliance.org/files/Telling%20Your%20Exploratory%20Story%20Agile2010.pdf)
 
@@ -72,7 +71,7 @@ Responsive websites are websites that rely on recent development in CSS3 e.g. me
 
 There are many mobile operating systems in use, and this number continues to rise. The following chart from [StatCounter](http://gs.statcounter.com/) shows some examples and trends of the mobile market share from October 2012 through October 2013.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/StatCounterMobileOS.png" alt="Stat Counter Mobile Chart" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/StatCounterMobileOS.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/StatCounterMobileOS.png" alt="Stat Counter Mobile Chart" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/StatCounterMobileOS.png)
 
 The chart shows that as of October 2013, 90.2% of mobile devices run either iOS and Android operating system.
 

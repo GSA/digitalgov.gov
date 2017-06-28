@@ -1,5 +1,4 @@
 ---
-url: /2016/07/22/the-firstnet-network-smart-response-for-smart-cities/
 date: 2016-07-22 10:00:29 -0400
 title: 'The FirstNet Network: Smart Response for Smart Cities'
 summary: '&#8220;Smart City&#8221; is an emerging term to describe how a community &ndash; large or small &ndash; uses connected technology and/or other data sets to influence and improve the delivery of services to the private and public sectors. By integrating data and connectivity into their daily operations, communities can automate many functions to create efficiencies and'
@@ -18,7 +17,7 @@ tag:
 
 &#8220;Smart City&#8221; is an emerging term to describe how a community – large or small – uses connected technology and/or other data sets to influence and improve the delivery of services to the private and public sectors. By integrating data and connectivity into their daily operations, communities can automate many functions to create efficiencies and maximize their resources.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/480-x-270-FirstNet-Smart-Response-for-Smart-Cities-graphic.jpg" alt="FirstNet "Smart Response for Smart Cities" graphic." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/480-x-270-FirstNet-Smart-Response-for-Smart-Cities-graphic.jpg" alt="FirstNet Smart Response for Smart Cities graphic." >}}
 
 These were just some of the many concepts discussed last week at the <a class="ext" href="http://smartcitiesinnovation.com/" target="_blank">Smart Cities Innovation Summit</a> in Austin, Texas, which brought together leaders from over 200 cities and towns to share information about how to best leverage state-of-the-art data solutions for the benefit of their communities.
 

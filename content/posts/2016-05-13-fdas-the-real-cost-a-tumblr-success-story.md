@@ -1,8 +1,7 @@
 ---
-url: /2016/05/13/fdas-the-real-cost-a-tumblr-success-story/
 date: 2016-05-13 10:00:25 -0400
 title: 'FDA&#8217;s &#8220;The Real Cost&#8221;: A Tumblr Success Story'
-summary: 'FDA&rsquo;s &ldquo;The Real Cost&rdquo; campaign aims to be edgy, just like its teen audience. Last month, the campaign won the 2016 Shorty Award for the Best Overall Tumblr Presence. &ldquo;The Real Cost&rdquo; educates youth ages 12 to 17 about the harmful effects of tobacco use. The'
+summary: 'FDA&rsquo;s &ldquo;The Real Cost&rdquo; campaign aims to be edgy, just like its teen audience. Last month, the campaign won the 2016 Shorty Award for the Best Overall Tumblr Presence. &ldquo;The Real Cost&rdquo; educates youth ages 12 to 17 about the harmful effects of tobacco use.'
 authors:
   - stacey-palosky
 categories:
@@ -15,7 +14,7 @@ tag:
 
 FDA’s “The Real Cost” campaign aims to be edgy, just like its teen audience. Last month, the campaign won the [2016 Shorty Award for the Best Overall Tumblr Presence](http://shortyawards.com/8th/the-real-cost-reaching-youth-at-risk-of-experimenting-with-cigarettes).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-333-FDA-The-Real-Cost-campaign-tumblr-homepage.jpg" alt="FDA "The Real Cost" campaign tumblr homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-333-FDA-The-Real-Cost-campaign-tumblr-homepage.jpg" alt="FDA The Real Cost campaign tumblr homepage." >}}
 
 “The Real Cost” educates youth ages 12 to 17 about the harmful effects of tobacco use. The campaign works to prevent teens from picking up cigarettes or trying other tobacco products. The audience isn’t just any teens out there; it’s specifically teens who are open to trying tobacco.
 
@@ -34,9 +33,9 @@ How did we use these findings to the campaign’s advantage on Tumblr? Well, we 
 
 Armed with these discoveries, our approach was influenced by developing content to interrupt the norm. And we didn’t just create it. We used the tags that we previously identified and married our fresh, unexpected content to those streams, leveraging the natural behaviors used by our target audience. Here’s a sampling of what we created and posted:
 
-<img src="http://shortyawards.com.s3.amazonaws.com/entries/8th/tumblr_everytime-unicorn.gif" alt="" width="600" />
+{{< legacy-img src="http://shortyawards.com.s3.amazonaws.com/entries/8th/tumblr_everytime-unicorn.gif" alt="" >}}
 
-<img src="http://shortyawards.com.s3.amazonaws.com/entries/8th/yellow_teeth_1.gif" alt="" width="600" />
+{{< legacy-img src="http://shortyawards.com.s3.amazonaws.com/entries/8th/yellow\_teeth\_1.gif" alt="" >}}
 
 The Real Cost’s Tumblr engagement rate went up twentyfold.  Monthly page views skyrocketed by nearly 100,000 views and the number of engagements nearly doubled. Monthly average engagements with the page went from more than 47, 000 before to more than 90,000 after.
 
