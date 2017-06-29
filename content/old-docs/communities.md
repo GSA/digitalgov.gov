@@ -1,5 +1,5 @@
 ---
-url: /communities/
+url: communities/
 type: old_doc
 date: 2013-11-17 11:12:13 -0400
 title: Communities
@@ -76,7 +76,7 @@ Their contributions are limitless in their impact, including the introduction of
 
   * 150 memberships
   * To join, visit the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/) page and click on Join the Listserv.
-  
+
     If you have any trouble, please contact [Laura Godfrey](mailto:laura.godfrey@gsa.gov?subject=Join Multilingual Community)
 
 **Open Data:** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.
