@@ -42,4 +42,4 @@ CFPB built IdeaBox in-house and <a href="http://cfpb.github.io/" target="_blank"
 
 _**Monte Desai** leads the internal innovation team at the <a href="http://www.consumerfinance.gov/" target="_blank">Consumer Financial Protection Bureau (CFPB)</a>._
 
-_If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv](https://www.WHATEVER/communities/challenges-prizes-community/). If you are interested in entering a challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov/list/)._
+_If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< relref "challenges-prizes-community.md" >}}). If you are interested in entering a challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov/list/)._

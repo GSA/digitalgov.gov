@@ -34,7 +34,7 @@ We wanted this system to be decoupled from our main codebase so it could evolve 
 
 ## Technology Stack
 
-[Elasticsearch](http://www.elasticsearch.org/) is the foundation for both our [Jobs API](http://search.WHATEVER/developer/jobs.html) and our entire in-house analytics system, so it was an easy choice to use as the information retrieval backbone of our image search engine. To manage requests and serve up a versioned API, we&#8217;re using a pared-down Rails API called [Grape](http://intridea.github.io/grape/). To parallelize fetching and indexing Flickr and Instagram photos, we&#8217;re using [Sidekiq](http://sidekiq.org/).
+[Elasticsearch]({{< relref "jobs.html) and our entire in-house analytics system, so it was an easy choice to use as the information retrieval backbone of our image search engine. To manage requests and serve up a versioned API, we&#8217;re using a pared-down Rails API called [Grape](http://intridea.github.io/grape.md" >}}). To parallelize fetching and indexing Flickr and Instagram photos, we&#8217;re using [Sidekiq](http://sidekiq.org/).
 
 ## The Data
 
@@ -66,7 +66,7 @@ We used these settings across the indexes (click image to see full code block):
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-settings-across-indexes-code.jpg" alt="600-x-186-tokens-initial-settings-across-indexes-code" >}}](https://gist.github.com/loren/8410d6fc947ee6091eb1)
 
-Looking at the mappings and the settings, you can see that we had to make a lot of decisions upfront about how fields would be treated when we indexed the documents (photo metadata). In theory, Elasticsearch is schema-less and we could have just taken whatever fields we got from the Instagram and Flickr APIs and sent them over the fence to Elasticsearch as JSON documents to be dynamically mapped. We had learned a few lessons from prior Elasticsearch and [Solr](http://lucene.apache.org/solr/) projects, however, so we had ideas on how the analysis chain should behave for the various fields.
+Looking at the mappings and the settings, you can see that we had to make a lot of decisions upfront about how fields would be treated when we indexed the documents ({{< relref "/lucene.apache.org/solr.md" >}}) projects, however, so we had ideas on how the analysis chain should behave for the various fields.
 
 For the full-text fields (title, description, caption), we use a [custom analyzer](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-custom-analyzer.html) we call &#8220;en\_analyzer&#8221;. This uses the custom &#8220;ignore\_chars&#8221; character filter to get rid of some different types of apostrophes, and then it hands the tokens off to the chain of filters. ASCII folding lets _resume_ match _resumé_. Lowercasing everything makes the search case insensitive. The stop filter yanks out words that contribute little to relevancy.
 
@@ -78,7 +78,7 @@ For the tags, we use a custom &#8220;tag_analyzer&#8221; to do the same lowercas
 
 To represent popularity, we initially didn&#8217;t know how to compare Instagram comments, Instagram likes, and Flickr views, so we started with something simple knowing that we could tune it once we knew more about our relevancy model. For Flickr, we just set the popularity as the number of views. For Instagram, we used the sum of the comments and the likes. We’re considering weighting them all differently, as it takes more effort to write a comment than to &#8220;like&#8221; something, and simply viewing a photo takes the least effort of all.
 
-With all that in place, we looked up the Flickr profiles and Instagram usernames for a handful of [our agency customers](http://search.WHATEVER/customers.html) like the [Department of the Interior](http://www.doi.gov/index.cfm), [U.S. Army](http://www.army.mil/), and [USA.gov](http://www.usa.gov/) and started fetching and indexing their photos. This all happens pretty quickly with enough Sidekiq threads chugging away, even if you are just trying this out on your laptop.
+With all that in place, we looked up the Flickr profiles and Instagram usernames for a handful of [our agency customers]({{< relref "/www.doi.gov/index.cfm), [U.S. Army](http://www.army.mil.md" >}}), and [USA.gov](http://www.usa.gov/) and started fetching and indexing their photos. This all happens pretty quickly with enough Sidekiq threads chugging away, even if you are just trying this out on your laptop.
 
 ## Initial Search Query
 

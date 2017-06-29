@@ -100,7 +100,7 @@ _18F is home to many [working groups](https://pages.18f.gov/grouplet-playbook/wo
 
 ### analytics.usa.gov
 
-_In March, we worked with the [Digital Analytics Program](https://www.WHATEVER/services/dap/), the [U.S. Digital Service (USDS)](https://www.whitehouse.gov/digital/united-states-digital-service), and the White House to [build and host a dashboard](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/) showing U.S. federal government web traffic._
+_In March, we worked with the [Digital Analytics Program](({{< relref "how-we-built-analytics-usa-gov.md" >}})) showing U.S. federal government web traffic._
 
 > “I really enjoyed working on [analytics.usa.gov](https://analytics.usa.gov/). Being empowered to build a MVP quickly and well and keep iterating it was very refreshing.”—**Gray Brooks**
 > 

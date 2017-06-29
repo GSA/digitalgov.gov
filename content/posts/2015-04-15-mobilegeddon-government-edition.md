@@ -20,7 +20,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}} 
 
-Much is being said and [written](https://www.WHATEVER/2015/03/03/trends-on-tuesday-google-to-implement-mobile-friendly-rankings/) about the coming [Mobilegeddon/Mopocalypse](http://searchengineland.com/infographic-mobile-seo-tips-217912) on April 21st—the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not.
+Much is being said and [written](({{< relref "trends-on-tuesday-google-to-implement-mobile-friendly-rankings.md" >}})) about the coming [Mobilegeddon/Mopocalypse](http://searchengineland.com/infographic-mobile-seo-tips-217912) on April 21st—the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not.
 
 We will do well to pay attention—[almost 25% of traffic on government websites](https://analytics.usa.gov/) is coming from mobile devices. And if responding to the UX needs of 25% of site visitors is not enough argument, perhaps the Google algorithm update will convince agencies that it’s time to upgrade. It’s already hard to get noticed if your content is ranking 4th or lower in search results—this change may make a site effectively disappear.
 
@@ -52,7 +52,7 @@ Mobile SEO incorporates additional elements to focus on the person.
 
   * Location services: not just city-level location, but where a person is at a particular moment. Depending on the information and services your agency provides, location services could have a significant impact on UX.
   * Page load time: pages should load in under one second. Test your speed on [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [YSlow](http://yslow.org/). There are a number of other page speed tests available &#8211; go to your favorite search engine and just search for “page speed test.”
-  * While not included in online SEO analyzers, [plain language](https://www.WHATEVER/2014/08/15/get-out-of-the-jargon-trap-plain-language-training-can-help/) will improve UX and SEO, and boost your mobile-friendliness. You can assess your readability at the page level using a number of online tools, like [Readability-Score.com](https://readability-score.com/) and [The Readability Test Tool](http://read-able.com/), among others. The more your site’s language matches how searchers look for your content, the better. Analytics, like those available through [DigitalGov Search](http://search.WHATEVER/) and the [Digital Analytics Program](https://www.WHATEVER/services/dap/), will tell you what words people are using to look for information and services on your site.
+  * While not included in online SEO analyzers, [plain language]({{< relref "/www.WHATEVER/services/dap.md" >}}), will tell you what words people are using to look for information and services on your site.
 
 ## 6. Should Content Be The Same For Mobile Units And Desktops?
 
@@ -60,7 +60,7 @@ Not necessarily. Good old fashioned UX research will tell you whether your users
 
 ## 7. What Is The Best Mobile Configuration For Us?
 
-Whatever configuration you decide to go with, be sure to employ [UX best practices](https://www.WHATEVER/category/ux/)!
+Whatever configuration you decide to go with, be sure to employ [UX best practices]({{< relref "ux.md" >}})!
 
   * Responsive: a single site and design that changes configuration depending on the size of the screen.
   * Adaptive, or Dynamic serving: to use the same URLs to serve different experiences to desktop and mobile users. This could be good if leaders feel passionately about the site header.

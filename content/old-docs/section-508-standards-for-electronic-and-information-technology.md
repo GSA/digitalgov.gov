@@ -14,7 +14,7 @@ The Section 508 Guidelines include this subpart on Electronic and Information Te
 
 ##  Related Links:
 
-  * [Checklist of Requirements for Federal Websites and Digital Services](https://www.WHATEVER/resources/checklist-of-requirements-for-federal-digital-services/)
+  * [Checklist of Requirements for Federal Websites and Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}})
   * [Section 508 Laws – Section508.gov](http://www.section508.gov/)
 
 * * *

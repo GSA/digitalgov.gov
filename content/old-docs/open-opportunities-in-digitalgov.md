@@ -24,9 +24,9 @@ authors:
   Resources:
 </h2>
 
-  * Find out [how Open Opportunities works](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/)
+  * Find out [how Open Opportunities works]({{< relref "open-opportunities-in-digitalgov/how-open-opportunities-works.md" >}})
   * Take a look at the [Task Creator Toolkit](https://www.WHATEVER/resources/open-opportunities-task-creator-toolkit/ "Open Opportunities Task Creator Toolkit")
-  * Review our [Terms of Use](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/)
+  * Review our [Terms of Use]({{< relref "open-opportunities-in-digitalgov/open-opportunities-terms-of-use.md" >}})
 
 <table border="0">
   <tr>

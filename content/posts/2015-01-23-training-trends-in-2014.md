@@ -47,7 +47,7 @@ We also hosted some very popular webinars. Our most highly attended webinars (#1
 
 Lastly, we took a look at our webinar recordings and evaluated which were most viewed this year. Overall, we&#8217;ve had more than 34,000 views on-demand. Keep in mind some of these webinars took place in 2013:
 
-  1. [API Webinar Series: APIs for Dummies &#8211; An Introduction](https://www.WHATEVER/2012/07/26/introduction-to-apis/) &#8211; The basics on APIs hosted by 18F’s Gray Brooks and gets you started in the world of API solutions.
+  1. [API Webinar Series: APIs for Dummies &#8211; An Introduction](({{< relref "introduction-to-apis.md" >}})) &#8211; The basics on APIs hosted by 18F’s Gray Brooks and gets you started in the world of API solutions.
   2. [API Webinar Series: Learn How to Use and Create APIs](http://www.youtube.com/watch?v=SgJq4Ukx6yU&feature=youtube_gdata) &#8211; Step 2 on implementing APIs, also hosted by Gray.
   3. [How to Create an Annual Metrics Report](https://www.WHATEVER/2014/03/04/creating-awesome-web-analytics-reports-and-presentations/ "Creating Awesome Web Analytics Reports and Presentations") &#8211; Very timely—read this recap and use Sarah Kaczmarek of GAO’s template to craft your own annual metrics report.
   4. [Yammer -The Power of Social Networking Inside Government Agencies &#8211; A New Media Talk](http://www.youtube.com/watch?v=GtOvdN5t7n0&feature=youtube_gdata) &#8211; This event took place in March of 2012, but agencies are using this tool internally to minimize email. There is also a [federal friendly Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements").

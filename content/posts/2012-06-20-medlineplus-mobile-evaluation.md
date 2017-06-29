@@ -14,7 +14,7 @@ tag:
   - NIH
 ---
 
-_[Mobile Gov Experiences](https://www.WHATEVER/tag/mobile-gov-experience/) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine.__
+_[Mobile Gov Experiences]({{< relref "mobile-gov-experience.md" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine.__
   
 _ 
 

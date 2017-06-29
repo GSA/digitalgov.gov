@@ -63,6 +63,6 @@ Here are some examples of our demos to give you a feel for what we produced and 
   * [eRegs Notice & Comment Demo &#8211; Sprint 4 &#8211; More Wireframes!](https://www.youtube.com/watch?v=wFEDa7CsQAo)
   * [eRegs Notice & Comment Demo &#8211; Sprint 5 &#8211; Wireframes & Working Code!](https://www.youtube.com/watch?v=h8DyhPOgUt4)
 
-_Special thanks to the_ [DigitalGov](http://WHATEVER/) _team, and specifically [Janelle Thalls](https://www.WHATEVER/author/jthalls/), who helped us with the streaming account and initial setup and to the EPA eManifest and Regulations.gov teams for their partnership on this pilot project._
+_Special thanks to the_ [DigitalGov]({{< relref "/www.WHATEVER/author/jthalls.md" >}}), who helped us with the streaming account and initial setup and to the EPA eManifest and Regulations.gov teams for their partnership on this pilot project._
 
 _This post was originally published on the [18F Blog](https://18f.gsa.gov/blog/)._

@@ -31,11 +31,11 @@ Currently on loan from HUD to the RAND Corporation, Davis continues to work on i
 
 As Americans become increasingly mobile, the traditional concept of community has expanded from a city, town or state to include the online domain, with networks stretching the globe. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" caption="" >}} 
 
-[Federal crowdsourcing events](https://www.WHATEVER/2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/), such as challenge and prize competitions, represent an inexpensive way to bring together diverse mindsets to solve problems of various scope and scale.
+[Federal crowdsourcing events](({{< relref "challenges-crowdsourcing-citizen-science-whats-the-dif.md" >}})), such as challenge and prize competitions, represent an inexpensive way to bring together diverse mindsets to solve problems of various scope and scale.
 
 “People feel a sense of purpose” when they are part of a community, said Jono Bacon, director of community at GitHub. He added that members of a community gain access to tools, knowledge and other people.
 
-And while the concept of community may be fading in the physical world, it has grown in the online world. Just look at Wikipedia, [OpenStreetMap](https://www.WHATEVER/2014/12/17/with-every-tool-possible-supporting-humanitarian-aid-efforts-through-crowdsourced-mapping/), the Open Compute Project and more.
+And while the concept of community may be fading in the physical world, it has grown in the online world. Just look at Wikipedia, [OpenStreetMap](({{< relref "with-every-tool-possible-supporting-humanitarian-aid-efforts-through-crowdsourced-mapping.md" >}})), the Open Compute Project and more.
 
 These initiatives are known as “write” communities and include people brought together by the idea of improving something, said Bacon, who until recently led community efforts at XPRIZE.
 
@@ -67,8 +67,8 @@ Finally, Bacon and Davis emphasized that the positive impact doesn’t end once 
 
 _Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ 
 
-_The [Post-Prize Industry and Post-Prize Impact webinar](https://www.WHATEVER/event/module-7-post-prize-industry-and-the-post-prize-impact/) will take place on Jan. 14._
+_The [Post-Prize Industry and Post-Prize Impact webinar]({{< relref "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}) will take place on Jan. 14._
 
-_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success](https://www.WHATEVER/2015/07/14/challenge-gov-program-launches-new-training-opportunities/), hosted by [DigitalGov University](https://www.WHATEVER/digitalgov-university/)._
+_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success](({{< relref "challenge-gov-program-launches-new-training-opportunities.md" >}})), hosted by [DigitalGov University](https://www.WHATEVER/digitalgov-university/)._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

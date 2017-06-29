@@ -54,7 +54,7 @@ With a limited budget and few resources, [CuidadodeSalud.gov](https://www.Cuidad
 
 You can be creative in your messaging, but just be careful to stereotype or over generalize. Don&#8217;t literally translate sayings or idioms. For example &#8220;apples to apples&#8221; does not have the same connotation in Spanish; it&#8217;s not a point of reference that is used or recognized. While you want to be catchy, balance being serious with being engaging. Vet your ideas with a native speaker who has cultural competencies and keeps up with topic trends regularly. How are people referring to the Affordable Care Act in Spanish? Can you do some focus group testing?
 
-[Transcreation](https://www.WHATEVER/2016/04/08/transcreation-why-do-we-need-it/) is more important than translation. When you&#8217;re accurate and precise, leadership will trust your judgement and levels of approval will make the process much faster and smoother. For CuidadodeSalud.gov, messages are drafted in Spanish, and then translated to English for clearance.
+[Transcreation](({{< relref "transcreation-why-do-we-need-it.md" >}})) is more important than translation. When you&#8217;re accurate and precise, leadership will trust your judgement and levels of approval will make the process much faster and smoother. For CuidadodeSalud.gov, messages are drafted in Spanish, and then translated to English for clearance.
 
 Message test with target audience to find out what resonates, from literacy competencies to making sure what is also recognizable. For instance, would it be better to use &#8220;health coverage&#8221; or &#8220;health insurance&#8221;?
 
@@ -176,6 +176,6 @@ _CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and ba
 
 _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
 
-_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov](https://www.WHATEVER/tag/multilingual/)._ 
+_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial]({{< relref "multilingual.md" >}})._ 
 
-_If you’re a government employee, consider joining one of our [Communities](https://www.WHATEVER/communities/), such as the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/), [SocialGov](https://www.WHATEVER/communities/social-media/), and the [Web Content Managers Forum](https://www.WHATEVER/communities/web-managers-forum/)._
+_If you’re a government employee, consider joining one of our [Communities]({{< relref "), such as the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community.md" >}}), [SocialGov]({{< relref "social-media.md" >}}), and the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}})._

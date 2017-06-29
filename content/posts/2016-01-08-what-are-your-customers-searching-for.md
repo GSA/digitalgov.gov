@@ -38,6 +38,6 @@ Visitors to USA.gov searched for over 10,000 different words or phrases in 2015.
 
 _Information about USA.gov search terms was [originally published on the USAgov blog](https://blog.usa.gov/5-most-popular-search-topics-on-usa-gov-in-2015) by team members Maria Marrero, Puthorn Suwannasingh, Michelle Chronister and Leilani Martínez._
 
-_Additional [DigitalGov Search training dates, recaps and materials](http://search.WHATEVER/manual/training.html) are available in [DigitalGov Search’s help manual](http://search.WHATEVER/manual/)._
+_Additional [DigitalGov Search training dates, recaps and materials]({{< relref "training.html) are available in [DigitalGov Search’s help manual](http://search.WHATEVER/manual.md" >}})._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

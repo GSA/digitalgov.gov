@@ -24,7 +24,7 @@ tag:
   - White House
 ---
 
-The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://summit.WHATEVER) with this mission and your needs in mind. The theme is open and [the agenda](https://summit.WHATEVER/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.
+The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit]({{< relref "/summit.WHATEVER/agenda.md" >}}) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.
 
 ## Attending Virtually
 

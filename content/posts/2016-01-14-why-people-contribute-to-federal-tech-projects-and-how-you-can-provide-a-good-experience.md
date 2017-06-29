@@ -17,7 +17,7 @@ _Author&#8217;s note: Anyone can contribute to the development of the Open Oppor
   
 _ 
   
-Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government](https://www.WHATEVER/2016/01/04/how-agile-development-can-benefit-federal-projects/), the [Open Opportunities platform](https://openopps.WHATEVER/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
+Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government](({{< relref "how-agile-development-can-benefit-federal-projects.md" >}})), the [Open Opportunities platform](https://openopps.WHATEVER/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
 
 How can other agencies effectively tap into the vast knowledge and skill set of the tech-minded public? Former Open Opportunities contributors discussed how and why they got involved with the project and what is needed to make contributing easy.
 
@@ -53,6 +53,6 @@ Sarsam was interested in JavaScript projects because they were different from wh
 
 Sarsam said it was “fun to contribute to the government with the thing that I’m good at.”
 
-_This article is the second in a two part series. The first article addressed [how open, agile development has benefitted the Open Opportunities platform](https://www.WHATEVER/2016/01/04/how-agile-development-can-benefit-federal-projects/)._
+_This article is the second in a two part series. The first article addressed [how open, agile development has benefitted the Open Opportunities platform](({{< relref "how-agile-development-can-benefit-federal-projects.md" >}}))._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

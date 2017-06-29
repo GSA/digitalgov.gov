@@ -23,7 +23,7 @@ Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img 
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 
-In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact](https://www.WHATEVER/event/module-7-post-prize-industry-and-the-post-prize-impact/), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
+In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< relref "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
 
 “You should really think about it all the way through the process,” said Stephanie Wander, associate in prize design at XPRIZE.
 
@@ -37,7 +37,7 @@ It all depends. For instance, are you looking to create a post-prize industry or
 
 Case in point: USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/).
 
-In addition to providing front-line healthcare workers with a [safer, easier-to-use suit](https://www.WHATEVER/2015/12/11/all-in-partnering-across-sectors-can-boost-competition-results/), the challenge also produced innovations in sensors and information technology.
+In addition to providing front-line healthcare workers with a [safer, easier-to-use suit](({{< relref "all-in-partnering-across-sectors-can-boost-competition-results.md" >}})), the challenge also produced innovations in sensors and information technology.
 
 XPRIZE Director of Prize Operations Salima Ranmal joined Wander and Bonnell for a wide ranging discussion that also touched on a variety of budget considerations.
 

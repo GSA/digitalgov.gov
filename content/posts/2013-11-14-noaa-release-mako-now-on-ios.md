@@ -19,4 +19,4 @@ Like the [Android version](https://www.WHATEVER/2012/04/26/noaas-release-mako-ap
 > 
 > The submission form is easy to fill out and operates like the online submission form. Touching the latitude and longitude boxes provides an location when GPS is available. The app also includes information about shortfin mako stock status, fishing regulations, FAQs, and safe handling and release guidelines.
 
-Check out how NOAA [conceptualized this app](https://www.WHATEVER/2012/04/26/noaas-release-mako-app/ "NOAA’s Release Mako App"). You can find more government mobile products like the [Release Mako](http://apps.usa.gov/release-mako.shtml) App on the [USA.gov Apps Gallery](http://apps.usa.gov/).
+Check out how NOAA [conceptualized this app](({{< relref "noaas-release-mako-app/ "NOAA’s Release Mako App"). You can find more government mobile products like the [Release Mako](http://apps.usa.gov/release-mako.shtml) App on the [USA.gov Apps Gallery](http://apps.usa.gov.md" >}})).

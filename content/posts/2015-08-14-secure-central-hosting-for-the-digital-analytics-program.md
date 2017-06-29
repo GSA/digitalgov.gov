@@ -12,7 +12,7 @@ tag:
   - HTTPS
 ---
 
-The U.S. government&#8217;s [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).
+The U.S. government&#8217;s [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-330-Analytics-USA-gov-08-14-2015.jpg" alt="A screencapture of the anaylytics.usa.gov dashboard on August 14, 2015" >}}
 
@@ -40,7 +40,7 @@ This isn&#8217;t a theoretical concern: in March of 2015, [a large Chinese netwo
 
 On the web, the way to prevent this kind of attack is to use [HTTPS](https://https.cio.gov/), which encrypts and secures the connection between a visitor and the JavaScript code.
 
-dap.WHATEVER [uses strong HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=dap.WHATEVER&s=23.203.230.91&latest) as well as [HTTP Strict Transport Security](https://https.cio.gov/hsts/) (HSTS), which adds some additional protections.
+dap.WHATEVER [uses strong HTTPS]({{< relref "/https.cio.gov/hsts.md" >}}) (HSTS), which adds some additional protections.
 
 The [recent federal government policy on HTTPS](https://https.cio.gov/) requires HTTPS and HSTS for all new federal websites and services. (For agencies: DigitalGov University recently produced educational videos on an [Introduction to HTTPS](https://www.youtube.com/watch?v=d2GmcPYWm5k) and [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M).)
 

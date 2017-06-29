@@ -25,7 +25,7 @@ Last year, the <a href="https://www.usa.gov/" target="_blank">USA.gov</a> team f
 
 That’s a whole lot of “new.” Where to begin?
 
-We decided to start with the data! A lot of that data was from the [Digital Analytics Program](https://www.WHATEVER/services/dap/)’s (DAP) Google Analytics (GA) account &#8212; mainly, how were people using our current versions of the site?
+We decided to start with the data! A lot of that data was from the [Digital Analytics Program]({{< relref "dap.md" >}})’s (DAP) Google Analytics (GA) account &#8212; mainly, how were people using our current versions of the site?
 
 Some of us set out to create a new knowledge base that would fill our future version of the site and our contact center’s customer resource management tool with wonderful content. We looked at usage of the existing content in our contact center and on the web in order to isolate the most needed content. For web content, we used web analytics, and in particular, unique pageviews for an entire year.  Some of our content is seasonal, so it helps to look at a year at once. Using unique pageviews helped us line up a little bit better with our data sources like content used by our contact center agents.
 
@@ -49,4 +49,4 @@ Overall, the Digital Analytics Program/Google Analytics usage data helped us par
 
 _David Kaufmann is a member of the Analytics and User Experience teams at USAGov._
 
-_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <dap@support.WHATEVER>._
+_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please email us at <dap@support.WHATEVER>._

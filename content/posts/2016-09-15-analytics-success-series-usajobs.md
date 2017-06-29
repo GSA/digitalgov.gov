@@ -24,7 +24,7 @@ tag:
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._
 
-Accurate testing strategies are crucial to ensure quality products. Hi-fidelity approaches ensure QA efforts are testing in a true-to-life manner, similar to real-world users. Inaccurate, lo-fidelity testing can miss situational bugs that become showstoppers in production. <a href="https://www.usajobs.gov/" target="_blank">USAJOBS</a> is leveraging the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to form high-fidelity, accurate testing strategies that mimic production site-usage in the most accurate way possible.
+Accurate testing strategies are crucial to ensure quality products. Hi-fidelity approaches ensure QA efforts are testing in a true-to-life manner, similar to real-world users. Inaccurate, lo-fidelity testing can miss situational bugs that become showstoppers in production. <a href="https://www.usajobs.gov/" target="_blank">USAJOBS</a> is leveraging the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to form high-fidelity, accurate testing strategies that mimic production site-usage in the most accurate way possible.
 
 Previously, <a href="https://www.usajobs.gov/" target="_blank">USAJOBS</a> testing was done on the devices, browsers, and operating systems available at the time. Testers were thorough, but, because they weren’t using true-to-life hardware and software, there were some gaps leaking through into production. The team was testing browsers, OS versions, and devices at a disproportionate rate to true-life site usage.
 
@@ -42,4 +42,4 @@ Through the implementation of DAP, the USAJOBS Program Office has improved its a
 
 _Cory Benavente is an OPM PMO Team Member and Dywane Boyd is the Testing Coordinator in the OPM Office of the Chief Information Officer._
 
-_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please contact us via [email](mailto:dap@support.WHATEVER)._
+_This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please contact us via [email](mailto:dap@support.WHATEVER)._

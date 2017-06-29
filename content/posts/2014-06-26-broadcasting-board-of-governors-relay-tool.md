@@ -37,6 +37,6 @@ _Don’t forget: You can download cool mobile government apps with just a few cl
 
  
 
-_**Randy Abramson** is the Director of Audio/Video Products and Strategy and **Adam Martin** is the Director of Technology and Innovation at the Broadcasting Board of Governors (BBG). They are both members of the [Mobile COP](https://www.WHATEVER/communities/mobile/)._
+_**Randy Abramson** is the Director of Audio/Video Products and Strategy and **Adam Martin** is the Director of Technology and Innovation at the Broadcasting Board of Governors ({{< relref "mobile.md" >}})._
 
 _This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

@@ -17,7 +17,7 @@ tag:
 
 > _This is the first post of a 5-part series._
 
-[DigitalGov Search](http://search.WHATEVER) is a commercial-grade search engine provided as a shared-service by the United States [General Services Administration](http://www.gsa.gov/). We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that brings together resources from across their many publishing platforms: websites, blogs and feeds, social media, and government-specific resources like rules and notices from the Federal Register, and posts from USAJobs.
+[DigitalGov Search]({{< relref "/www.gsa.gov.md" >}}). We power about 2,300 search configurations for hundreds of federal, state, and local government agencies. Using our platform, agencies can easily configure a search experience for the public that brings together resources from across their many publishing platforms: websites, blogs and feeds, social media, and government-specific resources like rules and notices from the Federal Register, and posts from USAJobs.
 
 Customers include the [White House](https://search.whitehouse.gov/search?query=bo+and+sunny&op=Search&affiliate=wh), [12 Department-level websites](http://search.WHATEVER/customers.html), all branches of the military, the [Internal Revenue Service](http://find.irs.gov/search?utf8=%E2%9C%93&affiliate=irs&query=tax+extension&commit=Search), [NASA](http://nasasearch.nasa.gov/search?utf8=%E2%9C%93&affiliate=nasa&query=juno), and many more. We partner with agencies continually to improve the public’s ability to find the information they need on government websites, and streamline agency staff workflows for managing their searches. Launched originally as the [search box on FirstGov.gov](http://web.archive.org/web/20001109105200/http://www.firstgov.gov), we now serve 260 million queries a year across the government space, with peak throughput over 59 transactions per second. Our service is a big, mature system. Our move to a new infrastructure had to be perfect, and invisible.
 
@@ -44,7 +44,7 @@ If you have questions or would like to discuss particulars, [we would love to he
   <em>This is the first post in a five part series. Stay tuned for the following posts:</em>
 </h3>
 
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All](https://www.WHATEVER/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/)
-  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection](https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/)
-  * [Let’s Encrypt those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](https://www.WHATEVER/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/)
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All](({{< relref "quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}}))
+  * [A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection](({{< relref "a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}}))
+  * [Let’s Encrypt those CNAMES, Shall We?](({{< relref "lets-encrypt-those-cnames-shall-we.md" >}}))
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](({{< relref "dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}}))

@@ -86,7 +86,7 @@ _-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">S
 
 ## 10:00 Update
 
-IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](https://analytics.usa.gov/). Employees at all federal government agencies are working hard to improve customer service, so you have a great experience when you look on the web, call us, or chat online. When citizens have a good customer experience, [statistics from Forrester Research](http://blogs.forrester.com/rick_parrish/14-11-07-improving_the_federal_customer_experience_is_a_national_security_imperative) show that they are proud of their country and optimistic about its future. Check out our articles this month. The theme is &#8220;[How Federal Contact Centers Deliver Great Customer Service](https://www.WHATEVER/2015/04/08/monthly-theme-how-federal-contact-centers-deliver-great-customer-service/).&#8221;
+IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](({{< relref "monthly-theme-how-federal-contact-centers-deliver-great-customer-service.md" >}})).&#8221;
 
 ### The Stats:
 
@@ -223,7 +223,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
-  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing](https://www.WHATEVER/tag/wednesday-api-briefing/) writer, Bill Brantley, just published an article on [how government data benefits the American economy](https://www.WHATEVER/2015/04/15/the-api-briefing-how-essential-is-government-data-to-the-american-economy/).
+  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing](({{< relref "the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}})).
 
 _-Ashley Wichman, DigitalGov Team_
 
@@ -240,7 +240,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University](https://www.WHATEVER/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports](https://www.WHATEVER/2014/10/20/metrics-round-up/).
+  * Data! It’s what the Dashboard is all about. [DigitalGov University](({{< relref "metrics-round-up.md" >}})).
 
 _-Kendrick Daniel, Digital Gov Team_
 
@@ -256,11 +256,11 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product](https://www.WHATEVER/tag/thursday-mobile-products/) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers](https://www.WHATEVER/category/monthly-theme/). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< relref "thursday-mobile-products.md" >}}) blogger Kevin Downey was one of the people on that page earlier.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< relref "monthly-theme.md" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
 
-_-Jacob Parcell, Manager, [Mobile Programs](https://www.WHATEVER/communities/mobile/)_
+_-Jacob Parcell, Manager, [Mobile Programs]({{< relref "mobile.md" >}})_
 
 ## 11:00 am Update
 
@@ -311,8 +311,8 @@ Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
 
-  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday](https://www.WHATEVER/tag/trends-on-tuesday/), so take a peek and learn how federal agencies are becoming future-ready.
-  * In fact, while we are talking about the IRS, [IRS2Go was recently updated](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/) and is available on Android and iOS.
+  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< relref "trends-on-tuesday.md" >}}), so take a peek and learn how federal agencies are becoming future-ready.
+  * In fact, while we are talking about the IRS, [IRS2Go was recently updated](({{< relref "irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}})) and is available on Android and iOS.
   * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?
 
 _-Ashley Wichman, DigitalGov Team_

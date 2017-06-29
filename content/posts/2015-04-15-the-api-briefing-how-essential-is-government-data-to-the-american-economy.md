@@ -33,6 +33,6 @@ What is especially intriguing is Kalin’s description of how combinations of da
 
 It is clear that federal government information is vital to the American economy and American public. This is why it is vital for government agencies to release more data in the form of APIs and to find ways to combine their data sources. The Founding Fathers of the American government realized the value of providing open access to government information which is why Census and the Patent and Trademark Office were established in the Constitution. The federal government continues this legacy by providing even more government data to today’s infopreneurs.
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](https://www.WHATEVER/2013/04/30/apis-in-government/) _for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](({{< relref "apis-in-government.md" >}})) _for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:%20bill.brantley@wdc.usda.gov)_._

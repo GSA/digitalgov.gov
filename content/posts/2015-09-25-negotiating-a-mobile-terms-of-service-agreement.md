@@ -20,9 +20,9 @@ tag:
 
 In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option.
 
-The DigitalGov article [Getting to Yes: Working with Vendors to Secure Terms of Service and Federal Friendly Pricing](https://www.WHATEVER/2015/02/06/getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing/) explored the legal dilemmas that arise when negotiating TOS agreements for government use of tools, and how federal employees can communicate the benefits of federal-friendly agreements to businesses. &#8216;Getting to yes&#8217; also includes gaining the support of your federal team.
+The DigitalGov article [Getting to Yes: Working with Vendors to Secure Terms of Service and Federal Friendly Pricing](({{< relref "getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" >}})) explored the legal dilemmas that arise when negotiating TOS agreements for government use of tools, and how federal employees can communicate the benefits of federal-friendly agreements to businesses. &#8216;Getting to yes&#8217; also includes gaining the support of your federal team.
 
-Last year, employees in the Department of Energy (DOE) successfully negotiated three TOS agreements for the launch of their native app, [Lantern Live](https://www.WHATEVER/2014/12/04/find-fuel-during-disasters-with-lantern-live-app/). With these agreements in place, their app is available on [Google Play](https://play.google.com/store/apps/details?id=gov.doe.lanternlive).
+Last year, employees in the Department of Energy (({{< relref "find-fuel-during-disasters-with-lantern-live-app.md" >}})). With these agreements in place, their app is available on [Google Play](https://play.google.com/store/apps/details?id=gov.doe.lanternlive).
 
 Gabriel Soll, an attorney with DOE, shared tips for negotiating TOS agreements for agencies that are releasing their own native apps.
 
@@ -52,8 +52,8 @@ It took around five months to negotiate the three TOS agreements for Lantern Liv
 
 ## Community Collaboration
 
-The [Mobile Community of Practice](https://www.WHATEVER/communities/mobile/) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
+The [Mobile Community of Practice]({{< relref "mobile.md" >}}) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
 
 “We got a lot of support from other agencies, in terms of coming up to speed on these agreements,” Soll said. “We spoke to attorneys at three or four agencies who have either worked in this realm or negotiated these agreements. I cannot stress enough: reach out and really use this community as a resource.”
 
-_Are you developing an app? DigitalGov has a [Mobile Application Development Program page](https://www.WHATEVER/resources/mobile-application-development-program/) full of helpful resources and case studies. Information about [other agencies&#8217; experiences with native application iOS development](https://www.WHATEVER/2013/05/30/apples-ios-terms-of-service-developer-program-license-agreement/) is also available, and you can read the [overview of TOS agreements](https://www.WHATEVER/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/) and review the [list of federal-friendly Terms of Service Agreements](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) that have already been negotiated._
+_Are you developing an app? DigitalGov has a [Mobile Application Development Program page]({{< relref "negotiated-terms-of-service-agreements.md" >}}) that have already been negotiated._

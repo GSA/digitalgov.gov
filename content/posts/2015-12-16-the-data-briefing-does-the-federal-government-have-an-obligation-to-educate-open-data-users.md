@@ -67,7 +67,7 @@ Pop quiz on statistics and data science (answers at the end of the article):
   </li>
 </ol>
 
-Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a href="http://opendatacon.org/do-we-need-to-educate-open-data-users/" target="_blank">recently wrote about the need to educate open data users</a>. As he observed, many countries are making their data available for users to create [visualizations](https://www.WHATEVER/2015/07/24/free-the-data-femas-new-data-visualization-tool/) and [apps](https://www.WHATEVER/2015/01/07/the-api-briefing-make-2015-the-year-you-create-an-app/) from the data. However, much of the data made available is “dirty” in that there are misspellings, missing values and inconsistencies. The user would need to be familiar with the various ELT tools to arrange the data into usable forms.
+Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a href="http://opendatacon.org/do-we-need-to-educate-open-data-users/" target="_blank">recently wrote about the need to educate open data users</a>. As he observed, many countries are making their data available for users to create [visualizations](({{< relref "free-the-data-femas-new-data-visualization-tool.md" >}})) and [apps](({{< relref "the-api-briefing-make-2015-the-year-you-create-an-app.md" >}})) from the data. However, much of the data made available is “dirty” in that there are misspellings, missing values and inconsistencies. The user would need to be familiar with the various ELT tools to arrange the data into usable forms.
 
 Once the data is in good shape, the user would need to know how to use the data. That involves understanding basic statistics so as to know the appropriate statistical techniques to apply for analysis and visualization. Alternatively, an app developer would need to know how to create a well-formed request to an API (application programming interface).
 
@@ -85,6 +85,6 @@ There was, and still may be, an expectation that users who access federal govern
 
 _Answers to the pop quiz: 1.B; 2. B; 3. D_.
 
-_Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< relref "the-data-briefing.md" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

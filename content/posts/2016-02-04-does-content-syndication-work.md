@@ -43,6 +43,6 @@ There are many more examples of the success NIH News in Health is having with sy
 
 ## The possibilities are endless.
 
-Have questions about content syndication?  Join us this afternoon for the free webinar [Creating Portable Content with Structured Content Models](https://www.WHATEVER/event/creating-a-portable-product-with-structured-content-models/), where experts from NIH, CDC, and GSA will discuss how to make your content portable. [Sign up here](https://www.WHATEVER/event/creating-a-portable-product-with-structured-content-models/).
+Have questions about content syndication?  Join us this afternoon for the free webinar [Creating Portable Content with Structured Content Models]({{< relref "creating-a-portable-product-with-structured-content-models.md" >}}), where experts from NIH, CDC, and GSA will discuss how to make your content portable. [Sign up here]({{< relref "creating-a-portable-product-with-structured-content-models.md" >}}).
 
 To learn more about content syndication, visit the [Free Web Content from NIH](http://www.nih.gov/health-information/free-web-content-nih) section of the their website

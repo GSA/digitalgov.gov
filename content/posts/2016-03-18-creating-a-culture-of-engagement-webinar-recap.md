@@ -138,4 +138,4 @@ You can [view the presentation slides](https://s3.amazonaws.com/sitesusa/wp-cont
 
  
 
-For more content like this, [join the Customer Experience Community (CX-COP)](https://www.WHATEVER/communities/customer-experience-community/).
+For more content like this, [join the Customer Experience Community ({{< relref "customer-experience-community.md" >}}).

@@ -17,7 +17,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/image-of-hands-in-the-shape-of-a-heart.jpg" alt="Image of hands in the shape of a heart" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/image-of-hands-in-the-shape-of-a-heart.jpg)Last week, we discussed **National Women’s Health Week (NWHW)** as an [example of a coordinated campaign](https://www.WHATEVER/event/federal-social-media-campaigns-national-womens-health-week/) that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with citizens. Here are the highlights from the webinar and some initial metrics, and in case you missed it, you can replay the webinar <a href="http://youtu.be/lY7g6ovh7SQ" target="_blank">here</a>.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/image-of-hands-in-the-shape-of-a-heart.jpg" alt="Image of hands in the shape of a heart" >}}]({{< relref "federal-social-media-campaigns-national-womens-health-week.md" >}}) that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with citizens. Here are the highlights from the webinar and some initial metrics, and in case you missed it, you can replay the webinar <a href="http://youtu.be/lY7g6ovh7SQ" target="_blank">here</a>.
 
 **Brooke Leggin, Web and Community Manager at the** **Department of Health and Human Services** (**HHS) Office on Women’s Health** is part of the team that coordinates National Women’s Health Week. According to Brooke, the week was created because “even though women make many of the health care decisions for families, they often neglect to make their own health a priority.” Their <a href="http://womenshealth.gov/nwhw/spread-the-word/share.html#toolkit" target="_blank">social media toolkit</a> provided multiple opportunities to share the message. As a result:
 
@@ -36,4 +36,4 @@ At** the Food and Drug Administration (FDA)’s Office of Women’s Health**, we
 
 It is clear that social media will continue to play a growing role in coordinated campaigns. Tell us: how have digital tools enhanced your campaigns and observances?
 
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community](https://www.WHATEVER/communities/social-media/) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

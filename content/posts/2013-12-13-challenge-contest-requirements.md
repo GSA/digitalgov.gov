@@ -107,7 +107,7 @@ Other Memos and Guides
   <strong>Apps</strong>
 </div>
 
-  * [Apps Challenges Toolkit](https://www.WHATEVER/2013/05/08/planning-an-apps-challenge/)—GSA developed this toolkit for apps challenges in conjunction with a March 1, 2011 event.
+  * [Apps Challenges Toolkit](({{< relref "planning-an-apps-challenge.md" >}}))—GSA developed this toolkit for apps challenges in conjunction with a March 1, 2011 event.
   * [EPA&#8217;s Apps for the Environment: Lessons Learned](http://www.epa.gov/greenapps/lessons.html)
 
 **Video**

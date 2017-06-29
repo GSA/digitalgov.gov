@@ -29,7 +29,7 @@ This idea was the brainchild of Mike Pulsifer, who, as the Technical Manager for
 
 Mike got involved with the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") and responded to a request for ideas to create a government-wide mobile application development program.
 
-He championed, and ultimately volunteered, to lead the development of a [catalog of open source mobile app code](https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/ "Federal Mobile Code Sharing Catalog Is Here") for government developers through the auspices of the [Open Opportunities](https://openopps.WHATEVER/) program, a task-based network that leverages government innovators to help agencies deliver government information and services.
+He championed, and ultimately volunteered, to lead the development of a [catalog of open source mobile app code](({{< relref "federal-mobile-code-sharing-catalog-is-here/ "Federal Mobile Code Sharing Catalog Is Here") for government developers through the auspices of the [Open Opportunities](https://openopps.WHATEVER.md" >}})) program, a task-based network that leverages government innovators to help agencies deliver government information and services.
 
 As Mike found, change is hard. At first, Mike couldn’t find enough government open source code to fill out a catalog. There was a lot of third party code available, but comparatively little from federal agencies due either to a conscious decision not to open source their code or because they simply had not considered the option. With the help of the [Open Opportunities](https://openopps.WHATEVER/) task creator, Mike was able to reach out to agencies that had mobile apps and request they consider open sourcing their code.
 

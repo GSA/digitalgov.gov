@@ -42,7 +42,7 @@ What StudentAid.ed.gov is to students, the new <a href="http://www.newbrandanaly
 
 Got a student looking to you to guide them through the school financing maze? Get the ABC&#8217;s of financial aid and more at [FinancialAidToolkit.ed.gov](http://financialaidtoolkit.ed.gov/tk/).
 
-__Read more in this helpful **[article on responsive design](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools")**. And don’t forget: You can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+__Read more in this helpful **[article on responsive design](({{< relref "responsive-design/ "Responsive Design Overview, Resources and Tools")**. And don’t forget: You can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov.md" >}}))**._
   
 _ 
 

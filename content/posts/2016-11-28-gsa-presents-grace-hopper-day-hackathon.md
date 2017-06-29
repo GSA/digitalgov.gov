@@ -33,6 +33,6 @@ _This event has passed; [read all about it here](https://open.gsa.gov/events/gra
 
 _Learn more about the_ [_U.S. General Services Administration_](http://www.gsa.gov/) _(GSA)._
 
-_Read recent posts on_ [_data_](https://www.WHATEVER/category/code/data1/)_,_ [_APIs_](https://www.WHATEVER/category/code/api/)_, and_ [_open source_](https://www.WHATEVER/tag/open-source/)_, and news about_ [_challenge and prize competitions_](https://www.WHATEVER/category/challenges/) _and_ [_crowdsourcing & citizen science_](https://www.WHATEVER/category/challenges/crowdsourcing-citizen-science/) _projects._
+_Read recent posts on_ [_data_]({{< relref "code/data1.md" >}})_,_ [_APIs_]({{< relref "code/api.md" >}})_, and_ [_open source_]({{< relref "open-source.md" >}})_, and news about_ [_challenge and prize competitions_]({{< relref "challenges.md" >}}) _and_ [_crowdsourcing & citizen science_]({{< relref "challenges/crowdsourcing-citizen-science.md" >}}) _projects._
 
-_Learn how_ [_Challenge.gov_](https://www.WHATEVER/services/challenge-gov/) _(crowdsourced challenge and prize competitions) and_ [_CitizenScience.gov_](https://www.WHATEVER/2016/04/14/gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing/) _(crowdsourcing and citizen science projects) can help your agency meet its goals in serving the public. Does your agency need help testing their mobile products? Contact our_ [_Federal CrowdSource Mobile Testing Program_](https://www.WHATEVER/services/mobile-application-testing-program/)_._
+_Learn how_ [_Challenge.gov_]({{< relref "mobile-application-testing-program.md" >}})_._

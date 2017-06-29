@@ -98,9 +98,9 @@ APIs need to provide value to your agency and to developers. The best way to mak
   * [API Education Series](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#api-education-series)
   * [Case Studies](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#case-studies)
   * [How to Make APIs—An Overview](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#how-to-make-apis-overview)
-  * [Producing APIs through Data.gov](https://www.WHATEVER/2013/04/30/producing-apis-through-data-gov/)
-  * [API Release Kit](https://www.WHATEVER/2013/05/16/api-release-kit/)
-  * [/Developer Kit](https://www.WHATEVER/2013/05/21/developer-kit/)
+  * [Producing APIs through Data.gov](({{< relref "producing-apis-through-data-gov.md" >}}))
+  * [API Release Kit](({{< relref "api-release-kit.md" >}}))
+  * [/Developer Kit](({{< relref "developer-kit.md" >}}))
   * [U.S. Government APIs Listserv](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#government-api-listserv)
   * [Recommended Reading](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#recommended-reading)
 

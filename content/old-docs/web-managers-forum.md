@@ -16,13 +16,13 @@ The Forum is open to U.S. government employees. We’ve been working together si
 
 Forum members regularly collaborate with other specialized [DigitalGov Communities](http://www.WHATEVER/communities/)—consider joining if any of these interest you:
 
-  * [Challenges and Prizes Community](http://www.WHATEVER/communities/challenges-prizes-community/)
-  * [Customer Experience Community](https://www.WHATEVER/communities/customer-experience-community/)
-  * [Government Contact Center Council](http://www.WHATEVER/communities/government-contact-center-council-g3c/)
-  * [MobileGov Community of Practice](http://www.WHATEVER/communities/mobile/)
-  * [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/)
-  * [Social Media Community of Practice](http://www.WHATEVER/communities/social-media/)
-  * [User Experience Community](http://www.WHATEVER/communities/web-managers-forum/federal-user-experience-community-of-practice/)
+  * [Challenges and Prizes Community]({{< relref "challenges-prizes-community.md" >}})
+  * [Customer Experience Community]({{< relref "customer-experience-community.md" >}})
+  * [Government Contact Center Council]({{< relref "government-contact-center-council-g3c.md" >}})
+  * [MobileGov Community of Practice]({{< relref "mobile.md" >}})
+  * [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}})
+  * [Social Media Community of Practice]({{< relref "social-media.md" >}})
+  * [User Experience Community]({{< relref "web-managers-forum/federal-user-experience-community-of-practice.md" >}})
 
 ## What We Do
 

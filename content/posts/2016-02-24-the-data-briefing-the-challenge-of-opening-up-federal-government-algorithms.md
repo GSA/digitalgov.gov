@@ -23,6 +23,6 @@ As there is growing concern over how the private sector uses algorithms, there i
 
 Opening up federal government data has been a boon for the American economy and has helped revolutionize the delivery of government services. Opening up the design and use of algorithms in the federal government will also revolutionize the delivery of government services while increasing transparency and citizen confidence in the federal government’s operations. The harder argument is how much control the federal government should have over how federal government open data is being used in third-party algorithms. Whatever the decision, opening up federal government data is the first step in confronting the issues posed by the escalating importance of algorithms, machine learning and the Internet of Things in how the federal government will operate in the future.
 
-_Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< relref "the-data-briefing.md" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

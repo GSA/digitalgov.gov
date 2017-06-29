@@ -85,6 +85,6 @@ What is your strategy for selecting devices to test? Give us your comments on th
   * [The Crowd May Have Answers, but Agencies Must Define The Problem](http://www.nextgov.com/emerging-tech/2013/08/crowd-may-have-answers-agencies-must-define-problem/69017/?oref=nextgov_today_nl)
   * [Using Crowdsourcing in Government](http://www.businessofgovernment.org/report/using-crowdsourcing-government)
 
-_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
 
  

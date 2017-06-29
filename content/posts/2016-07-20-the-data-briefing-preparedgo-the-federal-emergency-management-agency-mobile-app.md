@@ -17,7 +17,7 @@ tag:
   - user generated content
 ---
 
-While you are outside [hunting Pokemon](https://www.WHATEVER/2016/07/12/catch-the-mall-with-pokemon-and-public-services/) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.
+While you are outside [hunting Pokemon](({{< relref "catch-the-mall-with-pokemon-and-public-services.md" >}})) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.
 
 The FEMA mobile app is divided into four main sections: Weather Alerts, Prepare, Disaster Resources, and Submit Disaster Photos. What I especially like about the Weather Alerts section is the ability to receive alerts for up to five locations. I can receive alerts about the weather in Alexandria, VA (my workplace), College Park, MD (my home), and Louisville, KY (my rental home).
 
@@ -33,6 +33,6 @@ There are a few apps that use mesh networking. Firechat and Jott are being used 
 
 _(The mention of Pokemon, Firechat, Jott, or the Serval Project is only used for illustrative purposes and does not imply the endorsement of the U.S. federal government or any specific federal agencies.)_
 
-_Each week, [The Data Briefing](http://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< relref "the-data-briefing.md" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

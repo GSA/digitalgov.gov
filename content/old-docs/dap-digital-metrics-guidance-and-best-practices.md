@@ -442,7 +442,7 @@ To assess the validity of the data and provide context, agencies should also con
 
 ### Strategies for Analyzing Customer Satisfaction Data
 
-The [Customer Experience model](https://www.WHATEVER/2013/06/19/5-steps-for-delivering-a-better-customer-experience-2/) recommends three steps for Collecting Customer Feedback:
+The [Customer Experience model](({{< relref "5-steps-for-delivering-a-better-customer-experience-2.md" >}})) recommends three steps for Collecting Customer Feedback:
 
   1. **Define your goals.** Establish benchmarks to help your agency set customer performance goals and service standards, typically by either comparison with internal benchmarks, or with other agencies, organizations, or functions.
   2. **Determine how you’ll collect customer feedback.** Although many agencies will use an online survey to collect customer satisfaction metrics, as described above, there are many ways to collect customer satisfaction data.
@@ -645,7 +645,7 @@ To collect search metrics, you&#8217;ll need to pull data from a variety of sour
 
 **4. Register for application monitoring tools (optional).** Many tools are free for limited use. Use to report on site health metrics such as outages, page load times, application responsiveness, etc. (Examples: YSlow, Pingdom, AlertSite)
 
-**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool](https://www.WHATEVER/services/search/) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
+**5. Attend training.** The DigitalGov University training, USASearch: Enhancing Your Website&#8217;s Search, explains how the free [USASearch tool]({{< relref "search.md" >}}) can improve the search function on your government website. Another DigitalGov University training, The Science of Search: Competitive Intelligence for the Government Web Manager shows how to use the &#8220;science of search&#8221; to improve your search rankings.
 
 ## <a name="usability-metrics"></a>Usability (User Experience) Metrics
 
@@ -662,7 +662,7 @@ Two common approaches to usability testing are:
   * Large-scale qualitative tests include 20-100 (sometimes more) users. Usually used only by large e-commerce sites and other sizable enterprises to collect performance metrics on a user’s ability to complete tasks. Metrics include [success rate](http://www.useit.com/alertbox/20010218.html), length of time, and error rate for task completion.
   * Small-scale qualitative tests ideally involve [3-5 users](http://www.useit.com/alertbox/20000319.html) in successive rounds of tests to observe user behavior and collect feedback on ease of use, design, etc. Qualitative user experience can also be measured by surveys or post-test evaluations such as the [System Usability Scale](http://www.google.com/url?q=http%3A%2F%2Fwww.usabilitynet.org%2Ftrump%2Fdocuments%2FSuschapt.doc&sa=D&sntz=1&usg=AFQjCNG5W_TzUptFb-JXdfotsec_ERW_mQ) (MS Word, 54 K, 7 pages, August 2012).
 
-Most user experience tests are small-scale qualitative, because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/), that lets agency staff observe and get trained on how to conduct simple usability tests.
+Most user experience tests are small-scale qualitative, because they are cost-effective and provide good, actionable data. GSA offers small-scale testing to agencies through the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-program.md" >}}), that lets agency staff observe and get trained on how to conduct simple usability tests.
 
 In the DigitalGov University training, Usability Testing and Debriefing Best Practices, you’ll learn how to conduct a simple usability test, and conduct a debriefing session to sift through the feedback and identify fixes. Simple tests like this are a quick way to identify major problems, and give you the tools to take immediate action to improve your site.
 
@@ -695,13 +695,13 @@ Measuring mobile performance, which is a new channel for most agencies, is gener
 
 The Mobile Gov Community of Practice is working to define practices in mobile measurement and they have created some mobile measurement and analytics practices on the Mobile Gov Wiki. Below we have listed some general approaches taken by agencies when measuring mobile product performance.
 
-**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website](https://www.WHATEVER/2012/06/20/medlineplus-mobile-evaluation/). They measure their performance by asking three questions:
+**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (({{< relref "medlineplus-mobile-evaluation.md" >}})). They measure their performance by asking three questions:
 
   * Who is using MedlinePlus Mobile?
   * How are they using MedlinePlus Mobile?
   * Are they satisfied with their visit to MedlinePlus Mobile?
 
-**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](https://www.WHATEVER/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
+**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](({{< relref "sms-or-short-message-service.md" >}})), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
   * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
   * How likely are you to use any of the information in the text  messages to improve your health?
@@ -721,9 +721,9 @@ The Mobile Gov Community of Practice is working to define practices in mobile me
 
 Social media is transforming how government engages with citizens and how it delivers service. Agencies are using social media to share information and deliver service more quickly and effectively than ever before. Increasingly, these tools are also being used for predictive and sentiment analysis—using the vast amount of real-time data from these social platforms to predict emerging trends and respond to them quickly (referred to as &#8220;social data&#8221;).
 
-Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government](https://www.WHATEVER/category/what-we-do/socialmedia/) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
+Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government]({{< relref "what-we-do/socialmedia.md" >}}) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
-Here are a set of [recommended, baseline social media metrics](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice](https://www.WHATEVER/communities/social-media/). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
+Here are a set of [recommended, baseline social media metrics]({{< relref "social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
 
 <h2 id="part-2" style="padding-top: 50px">
   Part 2: Reporting Requirements and Common Tools
@@ -733,7 +733,7 @@ Here are a set of [recommended, baseline social media metrics](https://www.WHATE
 
 The most efficient and consistent way for agencies to collect the common performance metrics is to add a common analytics page tag to their websites. [Page tagging](http://en.wikipedia.org/wiki/Web_analytics) is now the industry standard for collecting real-time, detailed page-level performance data; it’s generally low-cost and relatively easy to implement.
 
-[GSA’s Center for Digital Services Innovation](http://gsablogs.gsa.gov/dsic/) has developed this Metrics toolkit that provides the following resources for agencies, as part of the [Digital Analytics Program](https://www.WHATEVER/services/dap/).
+[GSA’s Center for Digital Services Innovation]({{< relref "dap.md" >}}).
   
 Read OMB&#8217;s guidance to agencies (accessible to federal employees on the OMB MAX wiki):
 
@@ -776,7 +776,7 @@ Read OMB&#8217;s guidance to agencies [for Implementing Performance and Customer
 
 At this time GSA is not providing a central tool for measuring customer satisfaction. There are a variety of tools available to collect this data. However, any tool you choose should provide a way to report on the four common baseline customer satisfaction measures described above.
 
-You can use one of the free customer satisfaction survey tools that has a [federal-friendly terms of service agreement](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) or an existing contract agreement with federal agencies. These tools include:
+You can use one of the free customer satisfaction survey tools that has a [federal-friendly terms of service agreement]({{< relref "negotiated-terms-of-service-agreements.md" >}}) or an existing contract agreement with federal agencies. These tools include:
 
   * [iPerceptions](http://www.iperceptions.com/)—An online survey tool to measure customer satisfaction and provide Voice of the Customer data to help you improve your agency&#8217;s online customer experience.
   * [WebValidator](http://www.iperceptions.com/solutions/webvalidator/)—A website survey tool that answers critical questions, such as who is visiting and why, so you can measure your customers&#8217; experiences.
@@ -786,7 +786,7 @@ You can use one of the free customer satisfaction survey tools that has a [feder
 
 ### Paperwork Reduction Act Clearance
 
-If you’re collecting feedback from more than nine people (via an online survey, focus group, form, or another method), you must get prior OMB approval, per the [Paperwork Reduction Act](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) (PRA). The [Fast Track PRA](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/) process can significantly speed up the approval process. Some tools, such as ACSI, have current PRA clearance, and your agency may have existing approval for other tools.
+If you’re collecting feedback from more than nine people ({{< relref "paperwork-reduction-act-fast-track-process.md" >}}) process can significantly speed up the approval process. Some tools, such as ACSI, have current PRA clearance, and your agency may have existing approval for other tools.
 
 <h2 id="part-3" style="padding-top: 50px">
   Part 3: Rationale and Framework for Common Metrics
@@ -854,9 +854,9 @@ To support this common framework, agencies should collect performance and custom
 
 ### **Communities of Practice**
 
-  * [Web and New Media Community](https://www.WHATEVER/communities/web-managers-forum/)—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
-  * Metrics Community of Practice—part of the [Federal Web Managers Council](https://www.WHATEVER/communities/web-managers-forum/), an inter-agency group working to improve digital metrics.
-  * [Social Media Performance Metrics working group](https://www.WHATEVER/communities/social-media/).
+  * [Web and New Media Community]({{< relref "web-managers-forum.md" >}})—an ad hoc group of over 3,000 federal, state, local, and tribal U.S. government employees.
+  * Metrics Community of Practice—part of the [Federal Web Managers Council]({{< relref "web-managers-forum.md" >}}), an inter-agency group working to improve digital metrics.
+  * [Social Media Performance Metrics working group]({{< relref "social-media.md" >}}).
 
 ### **Training** 
 
@@ -873,7 +873,7 @@ These are federal initiatives and directives related to performance management a
   * [OMB M–05–04 Policies for Federal Agency Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) and the related [OMB Circular A–130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) refer to measuring satisfaction and performance
   * [OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) (PDF, 102 KB, 9 pages, June 2010)
   * [Paperwork Reduction Act (PRA)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) requires federal agencies to have OMB approval before collecting information from the public, such as from online customer satisfaction surveys.
-  * [Fast Track PRA](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/) process streamlines PRA approval to 5 business days
+  * [Fast Track PRA]({{< relref "paperwork-reduction-act-fast-track-process.md" >}}) process streamlines PRA approval to 5 business days
   * [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142) requires agencies to establish performance measures to demonstrate mission achievement
 
 ## <a name="research-bibliography"></a>Research Bibliography

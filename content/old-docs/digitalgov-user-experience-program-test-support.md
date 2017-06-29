@@ -20,4 +20,4 @@ If you are considering running a usability test or other user experience service
 
 From time to time we will conduct a demonstrate test, evaluation or other service for educational purposes. On rare occasions we will select a high-impact site for testing purposes.  We will post notices of our tests through [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
 
-Other options for getting a test off the ground are to [hire a usability contractor](https://www.gsaadvantage.gov/advantage/s/search.do?q=0:2%22usability+testing%22&q=0:1%22usability+testing%22&db=1), or get [trained](https://www.WHATEVER/resources/user-experience-program/usability-training-for-federal-employees/) yourself.
+Other options for getting a test off the ground are to [hire a usability contractor]({{< relref "user-experience-program/usability-training-for-federal-employees.md" >}}) yourself.

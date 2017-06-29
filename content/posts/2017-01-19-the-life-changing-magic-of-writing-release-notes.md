@@ -56,4 +56,4 @@ Working on an agile software project is exhilarating (if a little chaotic at tim
 
 _This was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ 
 
-_Learn more about [government work in agile](https://www.WHATEVER/tag/agile/). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice](https://www.WHATEVER/communities/)._
+_Learn more about [government work in agile]({{< relref "agile.md" >}}). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice](https://www.WHATEVER/communities/)._

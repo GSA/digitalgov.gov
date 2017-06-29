@@ -27,4 +27,4 @@ And don’t forget the Department of Justice Law Jobs app, currently available f
 
 Have another federal job search app? Let me know about it in the comments, and include why you love it.
 
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/)._
+_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory]({{< relref "the-federal-mobile-apps-registry.md" >}})._

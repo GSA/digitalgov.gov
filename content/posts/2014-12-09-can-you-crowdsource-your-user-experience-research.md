@@ -31,7 +31,7 @@ In one sense, almost any type of user research is crowdsourced—you’re talkin
 
 ## Crowdsource your bug testing
 
-One way to crowdsource both ideas for new features and Quality Assurance on what you already have is to turn your “to-do” list inside out. Rather than keeping it private and internal, you make it transparent and invite others to help you catalog issues and requests. This public crowdsourcing of design ideas worked spectacularly well for [Data.gov](http://www.data.gov/), who created a list of issues to be fixed [on their Github site](https://github.com/GSA/data.gov/issues?q=is%3Aopen), and then invited their community—friends and critics—to contribute. Here’s a handy [Usability Case Study](https://www.WHATEVER/2014/03/18/data-gov-usability-case-study/) they wrote about the experience. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-Germs-on-tablet-drical-iStock-Thinkstock-515722227.jpg" alt="Germs on tablet" caption="" >}} 
+One way to crowdsource both ideas for new features and Quality Assurance on what you already have is to turn your “to-do” list inside out. Rather than keeping it private and internal, you make it transparent and invite others to help you catalog issues and requests. This public crowdsourcing of design ideas worked spectacularly well for [Data.gov](({{< relref "data-gov-usability-case-study.md" >}})) they wrote about the experience. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-Germs-on-tablet-drical-iStock-Thinkstock-515722227.jpg" alt="Germs on tablet" caption="" >}} 
 
 The [API Usability Testing Program](http://18f.github.io/API-Usability-Testing/) that I am proud to be a part of with [18F](https://18f.gsa.gov/) uses a similar idea to collect issues discovered during our product evaluations. When we evaluated the National Renewable Energy Laboratory’s homepage, they [created a page](https://github.com/NREL/developer.nrel.gov/labels/ux-feedback) to track all of the usability problems that were discovered. And we created a page to collect these expanding lists of public-facing issues, and to help both us and other agencies keep up to speed on this way of community.
 
@@ -39,7 +39,7 @@ The [API Usability Testing Program](http://18f.github.io/API-Usability-Testing/)
 
 Another method is to create a list of criteria for people to evaluate your site on, and then share this link with either a list of targeted users, or with as many people as you can get. This list can include critical user tasks on your site, or specific areas you want feedback on like a Contact Us page, accessibility, or readability of content. Our program has been beta-testing a few Expert Evaluation sheets, created in Google docs, that we share online and ask people to fill in true crowdsourced fashion. You can find our Expert Evaluation Worksheet in our [Usability Starter Kit](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit) (scroll down).
 
-The [Mobile Application Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) at GSA uses federal crowdsourcing to discover bugs and compatibility issues on mobile systems as well.
+The [Mobile Application Testing Program]({{< relref "mobile-application-testing-program.md" >}}) at GSA uses federal crowdsourcing to discover bugs and compatibility issues on mobile systems as well.
 
 ## Design workshops and events
 

@@ -23,4 +23,4 @@ tag:
 
 [Learn about the new features, other minor changes, and known issues](http://go.usa.gov/node/121).
 
-Go.USA.gov is a [URL shortener for government employees](https://www.WHATEVER/services/usa-gov-short-urls/) and only shortens government URLs. Haven&#8217;t signed up? Visit Go.USA.gov to [sign up](https://go.usa.gov/) now.
+Go.USA.gov is a [URL shortener for government employees]({{< relref "usa-gov-short-urls.md" >}}) and only shortens government URLs. Haven&#8217;t signed up? Visit Go.USA.gov to [sign up](https://go.usa.gov/) now.

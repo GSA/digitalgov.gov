@@ -17,7 +17,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}
 
-The [Digital Analytics Program (DAP)](https://www.WHATEVER/services/dap/) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
+The [Digital Analytics Program ({{< relref "dap.md" >}}) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
 
 ## Common Set of Digital Metrics Gov-Wide
 
@@ -27,7 +27,7 @@ The DAP’s customized Web analytics solution provides federal employees access 
 
 Currently, the DAP is used by more than 3,800 government websites that belong to 37 agencies. These websites get 1.5+ billion page views each month. In just over two years, the DAP has grown to become the largest Google Analytics Premium account in the world.
 
-The tool’s most unique feature is that online traffic data for all participating government websites, including a “government-wide” rollup, is available to each DAP user. This allows web managers to identify and learn from successful websites, collaborate to streamline duplicate content, and have a broad perspective to [make metrics-based website decisions](https://www.WHATEVER/2014/10/23/web-design-changes-let-the-metrics-be-your-guide/). The DAP Web analytics tool not only provides cost savings, but it is also the only program that can give agency stakeholders perspective into the way people interact with government websites on such a massive scale.
+The tool’s most unique feature is that online traffic data for all participating government websites, including a “government-wide” rollup, is available to each DAP user. This allows web managers to identify and learn from successful websites, collaborate to streamline duplicate content, and have a broad perspective to [make metrics-based website decisions](({{< relref "web-design-changes-let-the-metrics-be-your-guide.md" >}})). The DAP Web analytics tool not only provides cost savings, but it is also the only program that can give agency stakeholders perspective into the way people interact with government websites on such a massive scale.
 
 Along those lines, the DAP is expanding to offer “voice of the customer” data via customer satisfaction surveys and is implementing it into the user interface of the DAP Web analytics tool. This will, in effect, allow for the convergence of quantitative and qualitative customer data, propelling the capabilities of the program even further. This feature, currently in the pilot stage, will also be offered to all agencies at no cost.
 
@@ -53,4 +53,4 @@ Efficiency and effectiveness are the pinnacles of the DAP’s value to governmen
 
 The DAP provides a model for scalability and transferability that is unmatched. By procuring top-of-the-line solutions and structuring the implementations so they can be shared by all of government, the program has created a synergy of cost savings and improved innovation. The aggregate data collected by the DAP is so much greater than the sum of its participating agency parts, being that it allows a glimpse into the public’s interaction with a huge swath of government websites. In a sense, it is a public service for the public service, and the team hopes that this model will be aggressively adopted for other IT solutions as well.
 
-To learn more about DAP and how to participate in the program, visit the [DAP overview page](https://www.WHATEVER/services/dap/) or contact us via [email](mailto:dap@gsa.gov).
+To learn more about DAP and how to participate in the program, visit the [DAP overview page]({{< relref "dap.md" >}}) or contact us via [email](mailto:dap@gsa.gov).

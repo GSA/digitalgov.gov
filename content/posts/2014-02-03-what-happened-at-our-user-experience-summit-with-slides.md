@@ -19,7 +19,7 @@ tag:
   - User Experience Community of Practice
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/UX-Summit-Crowd-Image-250x137.jpg" alt="Audience in chairs at the UX Summit" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/UX-Summit-Crowd-Image.jpg) We were hoping for 30, but we got more than 100 user experience professionals and novices on Jan 28, 2014, for our User Experience (UX) Summit at the General Services Administration. The event was sponsored by the [User Experience Community of Practice](https://www.WHATEVER/communities/web-managers-forum/federal-user-experience-community-of-practice/) and the [DigitalGov User Experience Program](https://www.WHATEVER/resources/user-experience-program/). Here’s what we discussed:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/UX-Summit-Crowd-Image-250x137.jpg" alt="Audience in chairs at the UX Summit" >}}]({{< relref "web-managers-forum/federal-user-experience-community-of-practice.md" >}}) and the [DigitalGov User Experience Program]({{< relref "user-experience-program.md" >}}). Here’s what we discussed:
 
 ## The Paperwork Reduction Act (PRA)
 

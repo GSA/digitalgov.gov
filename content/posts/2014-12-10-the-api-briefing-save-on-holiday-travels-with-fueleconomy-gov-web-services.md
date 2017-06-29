@@ -23,7 +23,7 @@ Check out the Department of Energy’s <a href="http://www.fueleconomy.gov/trip/
 
 Developers can also build fuel economy apps using <a href="http://www.fueleconomy.gov/feg/ws/index.shtml" target="_blank">FuelEconomy.gov’s Web services</a>. The Web services offer data based on specific vehicles including emissions data and fuel mileage. Developers can also query for current fuel prices and pair it with the vehicle information to estimate trip costs. There are even Web services to help the developer build an interactive menu for choosing the year, make, and model of the vehicle. Pair FuelEconomy’s Web services with other APIs and developers can create a great holiday trip helper.
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](https://www.WHATEVER/2013/04/30/apis-in-government/) _for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](({{< relref "apis-in-government.md" >}})) _for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
 

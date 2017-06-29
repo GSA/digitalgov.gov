@@ -29,16 +29,16 @@ Yelp is just one of dozens of platforms similarly available for agencies to list
 ## What does making an app available mean for public services?
 
   * The fact that an app has released federal-compatible terms of service does not mean all agencies are required to or intend to use them; it simply means the door is open for agencies to use them.
-  * Agencies can then evaluate and analyze whether it might help them improve services, and through programs like the [SocialGov Community](https://www.WHATEVER/communities/social-media/) we share best practices and resources to help measurably improve citizen services.
-  * GSA pursued amended terms of service for Yelp based on expressed interest from some agencies, starting with an [app from the National Highway Transportation Safety Administration designed to save lives and prevent drunk driving over the holidays](https://www.WHATEVER/2015/01/22/saferride-app-could-save-your-life/).
+  * Agencies can then evaluate and analyze whether it might help them improve services, and through programs like the [SocialGov Community]({{< relref "social-media.md" >}}) we share best practices and resources to help measurably improve citizen services.
+  * GSA pursued amended terms of service for Yelp based on expressed interest from some agencies, starting with an [app from the National Highway Transportation Safety Administration designed to save lives and prevent drunk driving over the holidays](({{< relref "saferride-app-could-save-your-life.md" >}})).
   * As standard practice, GSA does not endorse or encourage the use of any specific tool—we make it available for use and agencies then evaluate and use based on their own needs.
 
 Check back for an upcoming DigitalGov University webinar on Customer Experience and third-party tools.
 
 Also, for more information, check out some of our posts on Yelp for public services:
 
-  * [SaferRide App Could Save Your Life](https://www.WHATEVER/2015/01/22/saferride-app-could-save-your-life/)
-  * [New NHTSA App Uses Yelp API](https://www.WHATEVER/2015/01/26/new-nhtsa-app-uses-yelp-api/)
-  * [Five-Star Customer Experience in Public Service with Yelp](https://www.WHATEVER/2015/08/07/five-star-customer-experience-in-public-service-with-yelp/)
-  * [Federal-Compatible Terms of Service Agreements](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/)
-  * [Negotiated Terms of Service Agreements](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/)
+  * [SaferRide App Could Save Your Life](({{< relref "saferride-app-could-save-your-life.md" >}}))
+  * [New NHTSA App Uses Yelp API](({{< relref "new-nhtsa-app-uses-yelp-api.md" >}}))
+  * [Five-Star Customer Experience in Public Service with Yelp](({{< relref "five-star-customer-experience-in-public-service-with-yelp.md" >}}))
+  * [Federal-Compatible Terms of Service Agreements]({{< relref "federal-compatible-terms-of-service-agreements.md" >}})
+  * [Negotiated Terms of Service Agreements]({{< relref "negotiated-terms-of-service-agreements.md" >}})
