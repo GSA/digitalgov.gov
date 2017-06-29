@@ -21,7 +21,7 @@ Executive Order 13642 and OMB Memorandum M-13-13 require all executive departmen
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-600-Project-Open-Data-Metadata-Schema-v1.jpg" alt="600-x-600-Project-Open-Data-Metadata-Schema-v1" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/833-x-841-Project-Open-Data-Metadata-Schema-v1.1-Updates.jpg) 
 
-Data.gov&#8217;s October 15th [“Project Open Data Metadata Updates” webinar]({{< relref "project-open-data-metadata-v-1-1-updates.md" >}}) reviews metadata schema v1.0 as required under the Open Data Policy, provides a comprehensive step-by-step overview of the updates to the metadata schema, and provides a roundup of tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
+Data.gov&#8217;s October 15th [“Project Open Data Metadata Updates” webinar](https://www.WHATEVER/event/project-open-data-metadata-v-1-1-updates/) reviews metadata schema v1.0 as required under the Open Data Policy, provides a comprehensive step-by-step overview of the updates to the metadata schema, and provides a roundup of tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
 
   * Watch the webinar [video](http://www.youtube.com/watch?v=-kpEywSZPw8&feature=youtu.be&list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM) and [“Project Open Data Metadata Updates v 1.1” presentation slides](https://gsa.github.io/datagov-presentations/metadata-v1.1/).
 
@@ -35,7 +35,7 @@ The Data.gov team also conducted a recent webinar with more basic information ab
 
 Once an open data source meets the necessary format and metadata requirements, the Data.gov team can pull directly from it as a Harvest Source, synchronizing that source’s metadata on Data.gov as often as every 24 hours.
 
-The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webinar]({{< relref "how-to-get-your-agencys-data-onto-data-gov.md" >}}) reviews step-by-step how federal, geospatial, and non-federal data is funneled on to Data.gov,  the data requirements for getting your government data on to Data.gov, and tools and resources to assist data stewards, IT personnel, and all agency staff.
+The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webinar](https://www.WHATEVER/event/how-to-get-your-agencys-data-onto-data-gov/) reviews step-by-step how federal, geospatial, and non-federal data is funneled on to Data.gov,  the data requirements for getting your government data on to Data.gov, and tools and resources to assist data stewards, IT personnel, and all agency staff.
 
   * Watch the webinar [video](http://www.youtube.com/watch?v=hbxA5-GDvvU) and [“Data Harvesting 101” presentation slides](http://gsa.github.io/datagov-presentations/dataharvesting101/).
 
@@ -57,4 +57,4 @@ The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webina
 
 ## Stay Tuned
 
-Register for Data.gov’s upcoming webinar on how to use the Inventory.data.gov tool to host your metadata: [“How to use Inventory.Data.Gov” on Tuesday, December 16th from 1pm &#8211; 2 pm]({{< relref "how-to-use-inventory-data-gov.md" >}}) and stay tuned for additional Data Harvesting documentation. As always you can reach the Data.gov team at [Data.gov/contact](http://www.data.gov/contact).
+Register for Data.gov’s upcoming webinar on how to use the Inventory.data.gov tool to host your metadata: [“How to use Inventory.Data.Gov” on Tuesday, December 16th from 1pm &#8211; 2 pm](https://www.WHATEVER/event/how-to-use-inventory-data-gov/) and stay tuned for additional Data Harvesting documentation. As always you can reach the Data.gov team at [Data.gov/contact](http://www.data.gov/contact).

@@ -63,5 +63,5 @@ ABMC is a U.S. government agency charged with commemorating the service, achieve
 
 _This is the first of a 3-part series from ABMC—the others are:_
 
-  * Part II, [How to Tell the World War I Story: Make it Personal](({{< relref "how-to-tell-the-world-war-i-story-make-it-personal.md" >}}))
+  * Part II, [How to Tell the World War I Story: Make it Personal](https://www.WHATEVER/2017/03/09/how-to-tell-the-world-war-i-story-make-it-personal/)
   * Part III, _Coming soon_

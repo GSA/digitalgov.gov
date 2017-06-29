@@ -13,13 +13,13 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
-Seven new training modules aim to help [Federal Challenge and Prize Community]({{< relref "challenges-prizes-community.md" >}}) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
+Seven new training modules aim to help [Federal Challenge and Prize Community](https://www.WHATEVER/communities/challenges-prizes-community/) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
 
 The new training modules come in response to an ever-increasing demand across government to use challenge and prize competitions to drive innovation and solve mission-centric problems. We invite members of the vendor and government community with expertise to share successes and lessons learned as panel members on future expert series. [Contact](https://www.challenge.gov/contact/) the Challenge.gov team for more information.
 
 In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. Registration is now open.
 
-In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.]({{< relref "module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes.md" >}})
+In the coming months, the remainder of the modules and additional expert series will be offered via webinar to government community members interested in learning more about prize competitions. “Module 2: It’s All About the Teams—The Importance of Operational Incentives in Prizes” is scheduled for August 4, 2015. [Registration is now open.](https://www.WHATEVER/event/module-2-its-all-about-the-teams-the-importance-of-operational-incentives-in-prizes/)
 
 Module 3: Operational Best Practices and Lessons Learned
   

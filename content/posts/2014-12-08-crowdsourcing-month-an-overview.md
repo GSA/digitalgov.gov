@@ -45,7 +45,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}} 
 
-This month we&#8217;ll be [highlighting articles about crowdsourcing]({{< relref "monthly-theme.md" >}}). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
+This month we&#8217;ll be [highlighting articles about crowdsourcing](https://www.WHATEVER/category/monthly-theme/). These are the programs that use a variety of online mechanisms to get ideas, services, solutions, and products by asking a large, diverse crowd to contribute their expertise, talents, and skills.
 
 Among the mechanisms are hackathons, data jams, code-a-thons, prize competitions, workplace surveys, open ideation, micro-tasks or microwork, citizen science, crowdfunding, and more.
 
@@ -65,7 +65,7 @@ Citizen science is the hot new topic in open crowdsourcing efforts. These progra
 
 Another success story is from National Archives and Records Administration (NARA), which developed the <a href="http://www.archives.gov/citizen-archivist/" target="_blank">Citizen Archivist Dashboard</a>. Contributors tag and document transcription to archival records. More than 170,000 volunteers indexed 132 million names of the 1940 Census in only five months, which NARA could not have done alone.
 
-The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}) and [Challenges & Prizes](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") Communities of Practice. Some details:
+The Office of Science and Technology Policy is putting forth an effort to <a href="http://www.whitehouse.gov/blog/2014/12/02/designing-citizen-science-and-crowdsourcing-toolkit-federal-government" target="_blank">create a toolkit for innovation</a> which will involve the [Citizen Science](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/) and [Challenges & Prizes](https://www.WHATEVER/communities/challenges-prizes-community/ "Challenges & Prizes Community") Communities of Practice. Some details:
 
 > Citizen science and crowdsourcing are powerful tools that can help federal agencies:
 > 

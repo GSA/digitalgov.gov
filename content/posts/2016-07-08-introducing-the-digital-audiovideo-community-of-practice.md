@@ -25,4 +25,4 @@ Within the U.S. government, we have talented cinematographers, expert editors an
 
 The [Digital Audio/Video Community](https://www.WHATEVER/communities/digital-audio-video-community-of-practice) exists for us to help each other through these exciting times. We’ll trade knowledge about current projects and techniques, hold roundtable discussions and webinars to share best practices, have industry experts advise us and provide recognition for excellent work within the government space.
 
-If you are passionate about the intersection of mobile, storytelling and social media, please [join our community]({{< relref "digital-audio-video-community-of-practice.md" >}}). We look forward to sharing the road ahead.
+If you are passionate about the intersection of mobile, storytelling and social media, please [join our community](https://www.WHATEVER/communities/digital-audio-video-community-of-practice/). We look forward to sharing the road ahead.

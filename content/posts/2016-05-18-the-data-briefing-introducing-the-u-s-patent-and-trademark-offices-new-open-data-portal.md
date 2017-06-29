@@ -35,6 +35,6 @@ Patent and trademark data offers interesting insights into U.S. business activit
 
 _(Disclosure: I work at the U.S. Patent and Trademark Office. The opinions contained in this posting are my own and do not reflect the views of the U.S. Patent and Trademark Office.)_
 
-_Each week, [The Data Briefing]({{< relref "the-data-briefing.md" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

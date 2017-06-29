@@ -28,7 +28,7 @@ tag:
 
 Here’s where you come in. 
 
-[Join in]({{< relref " "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities](https://www.WHATEVER/communities/ "Communities"), [services](https://www.WHATEVER/services/ "Services"), [resources](https://www.WHATEVER/resources/ "Resources") and [events](https://www.WHATEVER/events.md" >}}) that will help you build out the government of the 21st century. 
+[Join in](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities](https://www.WHATEVER/communities/ "Communities"), [services](https://www.WHATEVER/services/ "Services"), [resources](https://www.WHATEVER/resources/ "Resources") and [events](https://www.WHATEVER/events/) that will help you build out the government of the 21st century. 
 
 Take a look around and kick the tires on this new platform. Let us know what’s working and what we could do better in the comments or [contact us](https://www.WHATEVER/contact-us/ "Contact Us"). 
 

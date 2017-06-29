@@ -23,7 +23,7 @@ The good news for federal agencies working with tight budgets is that both can b
 
 “We have found other ways than spending a lot of money,” said Denice Shaw, senior advisor to the Chief Innovation Officer at the U.S. Environmental Protection Agency (EPA).
 
-Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar]({{< relref "module-4-the-importance-of-marketing-and-public-education.md" >}}) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum](https://www.WHATEVER/event/module-5-legal-considerations-for-prizes/#schedule) on incentivized prize competitions.
+Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar](https://www.WHATEVER/event/module-4-the-importance-of-marketing-and-public-education/) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum](https://www.WHATEVER/event/module-5-legal-considerations-for-prizes/#schedule) on incentivized prize competitions.
 
 Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University](https://www.WHATEVER/digitalgov-university/).
 
@@ -68,6 +68,6 @@ For now, here’s a sampling of tips from the panel:
   * Position participating teams as heroes. Tell their unique stories through blogs, videos, and prototype displays.
   * Use public education programs to introduce challenges to new audiences and engage stakeholders at all levels.
 
-Next up in the Expert Training Series is [Module 5: Legal Considerations for Prizes]({{< relref "module-5-legal-considerations-for-prizes.md" >}}).
+Next up in the Expert Training Series is [Module 5: Legal Considerations for Prizes](https://www.WHATEVER/event/module-5-legal-considerations-for-prizes/).
 
 This webinar will take place November 12 from 3-4 p.m., ET. Stay tuned for more details.

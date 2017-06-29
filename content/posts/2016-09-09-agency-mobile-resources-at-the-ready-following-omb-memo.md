@@ -51,4 +51,4 @@ For more assistance, GSA has an Enterprise Mobility Team that is happy to help w
 
 Please follow us on Twitter [@GSA_ITS](https://twitter.com/#!/GSA_ITS) and [LinkedIn](https://goo.gl/gSRnIJ) to join our ongoing conversations about government IT.
 
-_This post was originally published on GSA’s [Great Government Through Technology]({{< relref "mary-davie.md" >}})._
+_This post was originally published on GSA’s [Great Government Through Technology](https://gsablogs.gsa.gov/technology/) blog by [Mary Davie](https://www.WHATEVER/author/mary-davie/)._

@@ -23,7 +23,7 @@ The Department of Justice just released two APIs that give developers both DOJ p
 
 Freeing content allows for greater innovation in using and displaying that content. Federal APIs that provide content such as blog postings, videos, and job information can be spread further than just the federal agency’s website. Content APIs make government information much more valuable and useful to the American public thanks to creativity of app developers.
 
-_Thank you for reading the [API Briefing]({{< relref "wednesday-api-briefing.md" >}}) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
+_Thank you for reading the [API Briefing](https://www.WHATEVER/tag/wednesday-api-briefing/) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
 

@@ -83,6 +83,6 @@ Promotion will likely be the most time-consuming aspect of your challenge. To he
   * Reach out to groups you may not normally work with. For example, teachers, schools, and universities might be able to incorporate your challenge into their class schedules and assignments. The team behind the World Bank’s Apps for Development Challenge reached out to think tanks, universities, and others to promote the challenge to their communities.
   * Follow-up with participants. The team behind the HHS [myHealthyPeopleChallenge](http://www.health2con.com/devchallenge/healthy-people-2020-leading-health-indicators-app-challenge/) drafted boilerplate emails to send out when the submissions didn’t meet the criteria of the contest, so participants could have time to resubmit.
 
-Now that you&#8217;ve planned out your apps challenge, you need to [implement it](({{< relref "how-to-implement-an-apps-challenge.md" >}})).
+Now that you&#8217;ve planned out your apps challenge, you need to [implement it](https://www.WHATEVER/2012/07/09/how-to-implement-an-apps-challenge/).
 
 Review all the apps challenge steps at a glance on the [How to Run an Apps Challenge page](https://www.WHATEVER/wp-admin/post.php?post=94372&action=edit).

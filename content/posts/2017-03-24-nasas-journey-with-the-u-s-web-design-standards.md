@@ -54,4 +54,4 @@ _This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)
 
 _If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities](https://www.WHATEVER/communities/) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ 
 
-_Check out our Events platform, [DigitalGov University]({{< relref ") (DGU), and [register for an upcoming event](https://www.WHATEVER/events.md" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< relref "digitalgov-university-event-and-training-request-form.md" >}})._
+_Check out our Events platform, [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU), and [register for an upcoming event](https://www.WHATEVER/events/) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form](https://www.WHATEVER/digitalgov-university/digitalgov-university-event-and-training-request-form/)._

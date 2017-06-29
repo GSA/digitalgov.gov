@@ -31,7 +31,7 @@ After a brief introduction, we were able to conduct tests on two different feder
 
 ## Our plans for future usability testing
 
-In the past, NLM has only infrequently made use of usability testing. As a result, website redesigns have become large, unwieldy projects. Our goal for 2015 is to apply the principles of agile development to our website refresh process. [Hallway testing](({{< relref "10-tips-for-better-hallway-usability-testing.md" >}})) will be a key agile development tool because it has a low barrier to entry. Some of the advantages of hallway tests include:
+In the past, NLM has only infrequently made use of usability testing. As a result, website redesigns have become large, unwieldy projects. Our goal for 2015 is to apply the principles of agile development to our website refresh process. [Hallway testing](https://www.WHATEVER/2014/02/19/10-tips-for-better-hallway-usability-testing/) will be a key agile development tool because it has a low barrier to entry. Some of the advantages of hallway tests include:
 
   1. **Few resources required—**A hallway usability test can be conducted using a single staff member, a table, a single laptop or smartphone, and five to seven individuals. Steve Krug asserts that most showstoppers can be identified by a pool of five participants.
   2. **Rapid implementation—**A script of tasks is required to conduct a usability test. This script may only involve two or three tasks for the individual depending on the number of features of your website that need evaluation. Ideally, the test will take only 10-12 minutes, to make the testing process painless for participants.

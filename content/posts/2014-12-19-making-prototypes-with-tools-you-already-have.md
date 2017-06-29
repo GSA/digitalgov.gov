@@ -41,4 +41,4 @@ Finally, if you’d like to see the Prototypes themselves, you can download the 
 
 _**Brandon Kopp** is Research Psychologist at the Bureau of Labor Statistics (BLS)._
 
-_Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype](({{< relref "how-to-make-a-mobile-paper-prototype.md" >}})) and how to do [design sketches](({{< relref "design-sketching-the-easiest-prototype-method-ever.md" >}}))._
+_Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype](https://www.WHATEVER/2014/05/22/how-to-make-a-mobile-paper-prototype/) and how to do [design sketches](https://www.WHATEVER/2014/08/08/design-sketching-the-easiest-prototype-method-ever/)._

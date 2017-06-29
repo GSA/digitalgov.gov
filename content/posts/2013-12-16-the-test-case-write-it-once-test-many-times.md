@@ -74,6 +74,6 @@ As an inventor and scientist, Thomas Edison knew the value of writing and using 
   * <a class="wiki_link_ext" href="http://www.softwaretestingclass.com/tips-guidelines-for-writing-test-cases/" rel="nofollow">Tips/Guidelines for Writing Test Cases</a>
   * <a class="wiki_link_ext" href="http://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=ART&ObjectId=8965" rel="nofollow">The Test Case as a Scientific Experiment</a>
 
-_The Mobile Tester Newsletter is sent bi-monthly to the volunteer Testers in our [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a Tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+_The Mobile Tester Newsletter is sent bi-monthly to the volunteer Testers in our [Federal Crowdsource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a Tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
 
  

@@ -76,7 +76,7 @@ tag:
 
 ## 2. NOAA Search page
 
-GSA’s search platform, [DigitalGov Search]({{< relref "search.md" >}}), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
+GSA’s search platform, [DigitalGov Search](https://www.WHATEVER/services/search/), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
 
  
 

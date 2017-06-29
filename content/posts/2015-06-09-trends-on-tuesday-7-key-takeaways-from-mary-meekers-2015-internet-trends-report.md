@@ -17,7 +17,7 @@ tag:
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Government-Just-Beginning.jpg)
 
-Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](({{< relref "mobile-first.md" >}})) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports](({{< relref "trends-on-tuesday-mary-meekers-2014-internet-trends.md" >}})) have tracked emerging tech from mobile to 3D printing, and this year is no different.
+Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first](https://www.WHATEVER/2013/09/30/mobile-first/) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports](https://www.WHATEVER/2014/06/03/trends-on-tuesday-mary-meekers-2014-internet-trends/) have tracked emerging tech from mobile to 3D printing, and this year is no different.
 
 Here are some of the key highlights from the report for government agencies and mobile-focused people:
 
@@ -62,6 +62,6 @@ Here are some of the key highlights from the report for government agencies and 
   <strong>Mobile is exploding globally.</strong> In 2014, 73% of the world had a mobile phone of some sort (that 5.2 billion people). Of those mobile phone users, 60% have smartphones and 40% have feature phones. (Slide 5)
 </li>
 
-[Read more of the data-rich report and share it with your co-workers]({{< relref "mobile.md" >}}).
+[Read more of the data-rich report and share it with your co-workers](http://www.kpcb.com/internet-trends), then dig into the [DigitalGov mobile archives to prepare your strategy to become more mobile-friendly](https://www.WHATEVER/category/mobile/).
 
  

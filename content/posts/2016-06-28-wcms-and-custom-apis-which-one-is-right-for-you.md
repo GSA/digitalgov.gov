@@ -21,7 +21,7 @@ tag:
   - White House
 ---
 
-****[Gray Brooks](({{< relref "introduction-to-apis.md" >}})).
+****[Gray Brooks](https://www.WHATEVER/author/gray-brooks/) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)](https://www.WHATEVER/digitalgov-university/) presentation, [Introduction to APIs](https://www.WHATEVER/2012/07/26/introduction-to-apis/).
 
 He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways—via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221; {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
@@ -53,4 +53,4 @@ Custom APIs allow a bit of flexibility.  Custom API’s look “beyond the page�
 
 Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward.
 
-_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles]({{< relref "code/api.md" >}}) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._
+_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles](https://www.WHATEVER/category/code/api/) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._

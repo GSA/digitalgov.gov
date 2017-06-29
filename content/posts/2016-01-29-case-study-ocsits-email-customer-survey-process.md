@@ -14,21 +14,21 @@ tag:
 
 At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}} 
 
-A previous post about the GCXi (({{< relref "ocsits-2015-customer-survey-what-we-learned.md" >}}))) generated lots of questions from readers about the back-end processes we use to conduct the survey and turn customer data into action. Since we’re big fans of transparency, we’re sharing this case study in hopes that it’s helpful to you as you build your own Voice of the Customer (VOC) program.
+A previous post about the GCXi ([OCSIT’s 2015 Customer Survey—What We Learned](https://www.WHATEVER/2015/12/28/ocsits-2015-customer-survey-what-we-learned/)) generated lots of questions from readers about the back-end processes we use to conduct the survey and turn customer data into action. Since we’re big fans of transparency, we’re sharing this case study in hopes that it’s helpful to you as you build your own Voice of the Customer (VOC) program.
 
 ## The Big Picture
 
 Though we survey our government customers just once per year via the GCXi, we actually work on the process throughout the entire year.
 
-We conduct our annual survey in the spring. The survey is created in SurveyMonkey ({{< relref "paperwork-reduction-act-fast-track-process.md" >}}), since our customer base includes not just federal, but also state and local government folks. ({{< relref "negotiated-terms-of-service-agreements.md" >}}).)
+We conduct our annual survey in the spring. The survey is created in SurveyMonkey (though any modern survey tool would work), and delivered via email. We have a [PRA clearance](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/), since our customer base includes not just federal, but also state and local government folks. (Note, if you’re looking for a survey tool, check out the list of free tools that have a [federal-friendly terms of service agreement](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/).)
 
 During the summer, we review and analyze the data, then develop action plans for each program. We work to implement improvements during the fall and winter, and by then, it’s time to gear up for the next year’s survey.
 
 A benefit of keeping this process top-of-mind for staff all year long is that it enforces the importance of customer-centric thinking in all we do. It’s also just one of many tools in our VOC toolbox. Other tools we use include:
 
-  * [Web analytics]({{< relref "dap.md" >}})
-  * [Usability testing]({{< relref "digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit.md" >}})
-  * [Call center data](({{< relref "what-do-people-think-of-your-content-ask-your-contact-center.md" >}}))
+  * [Web analytics](https://www.WHATEVER/services/dap/)
+  * [Usability testing](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/)
+  * [Call center data](https://www.WHATEVER/2014/02/28/what-do-people-think-of-your-content-ask-your-contact-center/)
   * Web pop-up surveys
   * Free-form customer comments from social media, chat, blogs or email
   * Agency consultations and office hours
@@ -90,7 +90,7 @@ The core questions measure satisfaction, loyalty and ease of use. Questions may 
 
 Response choices are listed from positive to negative. The top two (positive) responses are “promoters,” the middle response is “neutral,” and the bottom two (negative) responses are “detractors.” We subtract the percentage of detractors from the percentage of promoters to get the score. We score each question, as well as calculate an overall score for each program. Note, that if you have more detractors than promoters, it’s possible to get a negative score (range is +/-100).
 
-I know you’re thinking, “So, where are your scores?” While the actual numbers are for internal management purposes only, we’ve shared some overall insights in this post, [Digging Into the Data of Our Customer Survey](({{< relref "digging-into-the-data-of-our-customer-survey.md" >}})).
+I know you’re thinking, “So, where are your scores?” While the actual numbers are for internal management purposes only, we’ve shared some overall insights in this post, [Digging Into the Data of Our Customer Survey](https://www.WHATEVER/2016/01/05/digging-into-the-data-of-our-customer-survey/).
 
 ## Closing the Loop
 
@@ -105,7 +105,7 @@ Like anything else in life, you try something, learn, adapt, move forward. We le
 As background, here are some of the resources that inspired us as we developed the GCXi:
 
   * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15)—video
-  * [Digital Metrics Guidance and Best Practices]({{< relref "dap/dap-digital-metrics-guidance-and-best-practices.md" >}})
+  * [Digital Metrics Guidance and Best Practices](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/)
   * [Forrester’s Customer Experience Index](https://www.forrester.com/CX-Index/-/E-MPL191)
   * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf)—ClickTools (PDF)
   * [Likert-Type Scale Response Anchors](http://www.clemson.edu/centers-institutes/tourism/documents/sample-scales.pdf)—recommended wording and rating scales for a variety of survey questions

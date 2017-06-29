@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" >}}
 
-In June, the new [Customer Experience Community of Practice]({{< relref "customer-experience-community.md" >}}) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.
+In June, the new [Customer Experience Community of Practice](https://www.WHATEVER/communities/customer-experience-community/) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.
 
 ## Develop and Share Core Values
 
@@ -63,4 +63,4 @@ These gems from the baseball diamond can also work for government:
   * **Empower employees with the right tools.** The Nationals use the TEAM Service Playbook to help employees answer questions and respond to customer needs immediately. What processes or tools would help your employees more easily respond to customer needs?
   * **Be creative with rewards and recognition.** No, we can’t offer lunch with Bryce Harper as a reward, but there are “stars” in each organization who can spend time with “rising stars” and pass along wisdom and core values.
 
-This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event]({{< relref "federal-student-aid-customer-experience-journey.md" >}}) with Brenda Wensil from the Department of Education’s Federal Student Aid Office, and join the [CX-COP]({{< relref "customer-experience-community.md" >}}).
+This was the first learning session hosted by the CX-COP, which is a collaboration platform for government CX practitioners. [Register for our next event](https://www.WHATEVER/event/federal-student-aid-customer-experience-journey/) with Brenda Wensil from the Department of Education’s Federal Student Aid Office, and join the [CX-COP](https://www.WHATEVER/communities/customer-experience-community/).

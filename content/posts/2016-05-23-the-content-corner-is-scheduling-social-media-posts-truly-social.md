@@ -42,4 +42,4 @@ While I certainly still see the need for it, when it comes to scheduling social 
 
 Once you stop scheduling, you force yourself to be more attentive to the needs of your audience. Consider posting manually—even if it’s for just a trial period. It could make a huge difference in the way your message is received. After all, if you don’t have the time, then why are you doing social?
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< relref "the-content-corner.md" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

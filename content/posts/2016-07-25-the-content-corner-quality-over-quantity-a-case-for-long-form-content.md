@@ -21,7 +21,7 @@ tag:
   - The Content Corner
 ---
 
-****Content can be categorized in many ways. While breaking down your [website analytics]({{< relref "metrics.md" >}}), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
+****Content can be categorized in many ways. While breaking down your [website analytics](https://www.WHATEVER/category/metrics/), pay a bit of extra attention to the difference between your short- and long-form content; you may find some interesting discoveries.
 
 Let&#8217;s first define the two terms:
 
@@ -33,7 +33,7 @@ These days, we could probably most agree that short-form content makes up the ma
 
 But, according to a [Pew Research study](http://www.journalism.org/2016/05/05/long-form-reading-shows-signs-of-life-in-our-mobile-news-world/), readers access long-form articles at nearly the same rate as short ones.
 
-&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (({{< relref "the-content-corner-content-trends-for-2016.md" >}})) back in January would be a trend for 2016.
+&#8220;Rather surprising,&#8221; I thought when I read that—and it’s something to consider when developing your content strategy (ironically, this is one of my shortest [The Content Corner](https://www.WHATEVER/category/content/) pieces yet). I shouldn’t be surprised though, because it’s something that [Tyrus Manuel predicted](https://www.WHATEVER/2016/01/11/the-content-corner-content-trends-for-2016/) back in January would be a trend for 2016.
 
 > _&#8220;As we forge ahead into 2016, we should again commit ourselves to focus on creating content for our users and be sure it helps solve specific problems or helps to reinforce positive impressions of our agencies.&#8221;_
 
@@ -45,7 +45,7 @@ There’s huge value to creating short-form content to grab the attention of you
   </p>
 </blockquote>
 
-Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](({{< relref "why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}})) to engage with its audience).
+Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat](https://www.WHATEVER/2016/04/01/why-we-launched-a-snapchat-account-and-how-well-measure-success/) to engage with its audience).
 
 __You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
 

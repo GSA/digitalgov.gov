@@ -24,7 +24,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}} 
 
-Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems](({{< relref "content-management-systems-toolkit.md" >}})).
+Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems](https://www.WHATEVER/2013/10/30/content-management-systems-toolkit/).
 
 There may be another source for this metadata, especially in regulatory agencies: internal databases that reference Web content in support of record keeping processes. These databases may contain public and non-public information that were never meant to be published for public consumption. “Metadata” is not typically how the content is described.
 
@@ -53,6 +53,6 @@ The basic information for this project comes from another internal staff recordk
   * **Client-side XSLT** is supported by all major browsers, but not by some mobile browsers. There is considerable discussion about the future of XSLT browser support. For us, it was a quick open source solution that seems to be working. We may move to server-side XSLT in the near future so that the XML is rendered as HTML at the server instead of at the client.
   * **XML design.** Our data design could have been better, and we are not validating against a schema, as is a best practice. However, getting our feet wet with XML has changed how we look at Web publishing and opened up new possibilities for data publishing.
 
-_For more on the benefits of structured data, see the [Open and Structured Content Models Project]({{< relref "where-to-start-with-structured-data-and-content.md" >}}), will be held on March 31st at 2 p.m. EST._ 
+_For more on the benefits of structured data, see the [Open and Structured Content Models Project](http://gsa.github.io/Open-And-Structured-Content-Models). An upcoming DigitalGov University webinar, [Where to Start with Structured Data and Content](https://www.WHATEVER/event/where-to-start-with-structured-data-and-content/), will be held on March 31st at 2 p.m. EST._ 
 
 _**Bob Rand** is a Web developer for the U.S. Securities and Exchange Commission._

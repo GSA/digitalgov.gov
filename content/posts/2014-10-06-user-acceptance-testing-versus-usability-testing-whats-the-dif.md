@@ -15,7 +15,7 @@ tag:
   - user experience
 ---
 
-_Editor&#8217;s note: Building off the great discussion started around [Customer Experience](({{< relref "user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}})), we’re looking at the difference between User Acceptance Testing and Usability Testing._ 
+_Editor&#8217;s note: Building off the great discussion started around [Customer Experience](https://www.WHATEVER/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/), we’re looking at the difference between User Acceptance Testing and Usability Testing._ 
 
 If you develop software, you&#8217;ve probably heard of User Acceptance Testing. You may also have heard the term Usability Testing. Same thing, right? Nope. And confusion here can cause big problems.
 
@@ -51,4 +51,4 @@ While we did lose time by not doing usability testing in our implementation phas
 
 I can not stress how important it is to test your product as much as possible. There is nothing worse than spending months (or even years) producing a product that no one wants to use.
 
-_**Joël Virothaisakun** is a graduate student in the Interaction Design and Information Architecture program at the University of Baltimore. He is interning with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-program.md" >}}) at GSA this fall, and has published several games._
+_**Joël Virothaisakun** is a graduate student in the Interaction Design and Information Architecture program at the University of Baltimore. He is interning with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/) at GSA this fall, and has published several games._

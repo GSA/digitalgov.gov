@@ -15,7 +15,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
 
-We recently polled the [Customer Experience Community of Practice]({{< relref "customer-experience-community.md" >}}) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
+We recently polled the [Customer Experience Community of Practice](https://www.WHATEVER/communities/customer-experience-community/) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
 
 To learn how agencies such as the Department of Health and Human Services use data to inform customer understanding and make program improvements, we invited Jon Booth, Director of Web and New Media at the Center for Medicare and Medicaid Services (CMS), to speak to the CX-COP via a webinar on [Using Customer Feedback to Improve HealthCare.gov](https://www.youtube.com/watch?v=4ZtfdD5RNac&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW). His presentation focused on three key areas:
 
@@ -83,4 +83,4 @@ Based on analysis and user feedback, Booth engaged multiple design teams within 
 
 To hear Booth’s presentation and learn about the specific analytics tools used by Jon and his team you can [watch the webinar recap video](https://www.youtube.com/watch?v=4ZtfdD5RNac&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW).
 
-_Keep up with all that’s happening in government customer experience by [joining the CX-COP]({{< relref "customer-experience-community.md" >}}) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos._
+_Keep up with all that’s happening in government customer experience by [joining the CX-COP](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) ( U.S. government (.gov, .mil, etc.) email address required), [visiting](https://www.WHATEVER/communities/customer-experience-community/) the Community page and [viewing](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW) our playlist of on-demand training videos._

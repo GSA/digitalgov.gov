@@ -21,7 +21,7 @@ tag:
   - UX
 ---
 
-About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth](({{< relref "video-blog-sarah-crane-usa-gov.md" >}})).
+About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth](https://www.WHATEVER/2014/05/12/video-blog-sarah-crane-usa-gov/).
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-520-USAgov-Bilingual-Content-Style-Guide.jpg" alt="USA gov Bilingual Content Style Guide" >}}
 
@@ -41,4 +41,4 @@ We wanted to share this process with you. So, take a look and come back from tim
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Laura Godfrey, the Bilingual Senior Editor of USAGov._
 
-_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< relref ") to review the [Spanish Language Style Guide and Glossaries](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}) and other_ [Communities](https://www.WHATEVER/communities/)_._
+_Additionally, you can check out DigitalGov&#8217;s [Resources](https://www.WHATEVER/resources/) to review the [Spanish Language Style Guide and Glossaries](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/), and join the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/) and other_ [Communities](https://www.WHATEVER/communities/)_._

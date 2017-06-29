@@ -87,5 +87,5 @@ _ABMC is a U.S. government agency charged with commemorating the service, achiev
 
 _This is the second article of a 3-part series from ABMC—the others are:_
 
-  * Part I, [Why World War I Matters for Your Agency](({{< relref "why-world-war-i-matters-for-your-agency.md" >}}))
+  * Part I, [Why World War I Matters for Your Agency](https://www.WHATEVER/2016/11/08/why-world-war-i-matters-for-your-agency/)
   * Part III, _Coming soon_

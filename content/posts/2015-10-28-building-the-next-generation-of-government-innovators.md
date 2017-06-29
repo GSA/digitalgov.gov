@@ -51,4 +51,4 @@ Professional development sessions were included in aimHI in order to prepare stu
 
 _AimHI is a collaboration with the Gaithersburg Branch of the Montgomery County Public Library, Gaithersburg High School of Montgomery County Public Schools and includes numerous FDA staff, federal volunteers and undergraduate interns. IncubatorEDU, a national non-profit focused on entrepreneurship training for high school students, consulted on the effort._
 
-_Want to learn more about how Open Opportunities can help you connect to people with the experience and expertise to take your project to the next level? Learn [how Open Opportunities works]({{< relref "open-opportunities-in-digitalgov/how-open-opportunities-works.md" >}})._
+_Want to learn more about how Open Opportunities can help you connect to people with the experience and expertise to take your project to the next level? Learn [how Open Opportunities works](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/)._

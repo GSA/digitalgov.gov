@@ -33,7 +33,7 @@ Did you hear somewhere, though, that social media training opportunities for pub
 
 Through the #**SocialGov Community**, more than 500 digital engagement program managers, directors and practitioners from more than 130 federal agencies are collaborating, sharing and improving knowledge management.
 
-We&#8217;ve seen the results of this not only in how we evaluate programs and institutionalize customized best practices, but also in multi-agency initiatives like the first recommendations for [Social Media Performance Metrics](({{< relref "social-media-metrics-for-federal-agencies-2.md" >}})) for government, and the first Social Media Accessibility initiative for improving these services for persons with disabilities, wounded warriors and the aging population.
+We&#8217;ve seen the results of this not only in how we evaluate programs and institutionalize customized best practices, but also in multi-agency initiatives like the first recommendations for [Social Media Performance Metrics](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/) for government, and the first Social Media Accessibility initiative for improving these services for persons with disabilities, wounded warriors and the aging population.
 
 You’re going to see more results of better education and knowledge-sharing in 2014 through upcoming **Policy Development resources**, programs to better support small businesses and entrepreneurs in partnership with the **Small Business Administration**, improved digital customer service methodologies, and groundbreaking steps into the Internet of Things.
 

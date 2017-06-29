@@ -33,7 +33,7 @@ In our [2013 survey](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-438-ux-survey-growing.jpg" alt="600-x-438-ux-survey\---growing" >}}
 
-The results were very encouraging: 51% said their resources remained the same, 38% said they increased, and only 11% said they were decreasing. This trend is in line with larger trends about increasing popularity in User Experience design, research and adoption. We learned that (({{< relref "heatmapping-tools-show-whats-hot-on-your-pages.md" >}})), mobile device testing and lots more. Huzzah!
+The results were very encouraging: 51% said their resources remained the same, 38% said they increased, and only 11% said they were decreasing. This trend is in line with larger trends about increasing popularity in User Experience design, research and adoption. We learned that (at least) nine federal agencies have Usability Labs, and many others are contemplating building ones as we speak. We&#8217;re seeing the use of eyetrackers, [heatmaps](https://www.WHATEVER/2014/04/04/heatmapping-tools-show-whats-hot-on-your-pages/), mobile device testing and lots more. Huzzah!
 
 For the past two years, we asked people how widespread User Experience is at their agency. This question is based on the many types of [User Experience maturity models](http://uxmag.com/articles/how-mature-is-your-organization-when-it-comes-to-ux) out there.
 

@@ -46,7 +46,7 @@ tag:
 
 How can you make your content adaptive for efficient delivery to all of these mediums?
 
-Structured content and open content models [can help you create content](({{< relref "always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}})) that is platform-agnostic, format-free, and device-independent.
+Structured content and open content models [can help you create content](https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/) that is platform-agnostic, format-free, and device-independent.
 
 We&#8217;ve created [two open and structured content models](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) that we want you to use and adapt. These content models were created to help government agencies easily publish content in multiple forms and on multiple platforms by a cross-agency working group sponsored by the General Service Administration’s [Digital Services Innovation Center](https://www.WHATEVER/about/).
 
@@ -58,7 +58,7 @@ More importantly, you can [comment and submit pull requests](http://gsa.github.i
 
 **What&#8217;s Next?**
 
-Join us Wednesday, May 14th for the first webinar in our series &#8220;[What Structured Content Can Do For You]({{< relref "what-structured-content-can-do-for-you-article-model.md" >}}),&#8221; which will focus on the [Article Content Model](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html). Members of the working group will explain:
+Join us Wednesday, May 14th for the first webinar in our series &#8220;[What Structured Content Can Do For You](https://www.WHATEVER/event/what-structured-content-can-do-for-you-article-model/),&#8221; which will focus on the [Article Content Model](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html). Members of the working group will explain:
 
   * what structured content is,
   * show you what structured content models can do for you,

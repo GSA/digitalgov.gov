@@ -24,14 +24,14 @@ tag:
 
 Got [innovation](https://www.WHATEVER/category/challenges/ "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
-On Wednesday May 28, the [Challenge.gov]({{< relref "challenges-prizes-community.md" >}}) together for its [quarterly meeting]({{< relref "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
+On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/) together for its [quarterly meeting](https://www.WHATEVER/event/2013-america-competes-report-challenges-and-prizes-in-person-event/). The group covered two topics:
 
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" >}}
 
-Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](({{< relref "new-white-house-report-prize-competition-use-increased-85-in-2013.md" >}})) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
+Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions](https://www.WHATEVER/2014/05/07/new-white-house-report-prize-competition-use-increased-85-in-2013/) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
 
 Trends include:
 

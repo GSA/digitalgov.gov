@@ -33,7 +33,7 @@ These new Communities and portal are products of inter-agency collaboration and 
 
 Next generation digital public services powered by government data and new advances in artificial intelligence, including chatbots, can help improve and expand our customer service initiatives, and make our public services more open, responsive, informative, and accessible.
 
-Whether helping field tens of thousands of questions during an emergency, or [democratizing data through devices]({{< relref "automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the demand from agencies to learn more and develop their own pilots has been strong and growing.
+Whether helping field tens of thousands of questions during an emergency, or [democratizing data through devices](https://medium.com/@ESAJustinA/issuing-a-challenge-democratizing-information-access-via-amazons-voice-recognition-service-17417fe31969#.v2loge7yf) powered by Alexa, Siri, and other natural voice recognition systems, citizen engagement will quickly expand from social media and other peer-to-peer services into increasingly personalized, automated delivery. Since [our first workshop exploring potential business cases](https://www.WHATEVER/event/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government/), the demand from agencies to learn more and develop their own pilots has been strong and growing.
 
 The Federal AI for Citizen Services Community will empower members from agencies to collaboratively research, evaluate, and test the latest advancements, while sharing best practices on approaching emerging policy, security, and privacy considerations.
 

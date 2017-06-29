@@ -36,4 +36,4 @@ The e-book focuses on James Madison&#8217;s leadership role in creating the Bill
 
 The lesson plans and activities for teachers and students to use are all available [online](http://www.archives.gov/legislative/resources/bill-of-rights.html) as well.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](({{< relref "start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}))._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/)._

@@ -21,7 +21,7 @@ So, what’s new?
 
 The new homepage takes our efforts to streamline navigation on the website one big step further. There are fewer links and more open space on the homepage.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}]({{< relref "dap.md" >}}) and other feedback tools. The most popular, highest traffic sections and pages on the website have a spot on the homepage or in the navigation. Links that didn’t get many clicks moved to pages a level down.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/350-x-523-EDgov-3-0-homepage.jpg)How did we decide what links and content are on the homepage? We used data that we get through the [Digital Analytics Program](https://www.WHATEVER/services/dap/) and other feedback tools. The most popular, highest traffic sections and pages on the website have a spot on the homepage or in the navigation. Links that didn’t get many clicks moved to pages a level down.
 
 The data shows that our customers use external search engines and site search as the primary ways to enter and navigate the site. In a way, every page is our homepage, and although it gets a lot of traffic, the homepage isn’t always the first stop or entry point.
 

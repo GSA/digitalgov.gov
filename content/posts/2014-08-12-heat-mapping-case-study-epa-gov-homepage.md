@@ -19,7 +19,7 @@ tag:
 
 Most people relate the term “heat map” with something they see during the weather forecast on the nightly news, those colorful maps that vividly illustrate how hot it’s going to be during an impending heat wave. The word &#8220;heat map&#8221; may not usually however, conjure up images of a widely used Web usability tool; but for those who manage [Environmental Protection Agency’s](http://www.epa.gov/) (EPA) website, that is exactly what the phrase brings to mind.
 
-[Heat mapping](({{< relref "heatmapping-tools-show-whats-hot-on-your-pages.md" >}})) tests are one of the many tools at the disposal of epa.gov to evaluate the effectiveness of the homepage. The test tracks the behavior of a visitor to a website, and color codes the results based on the level of engagement. If a link is being clicked frequently, the heat map will display results as being “white hot.” When there is little activity, that area of the page will remain a darker color.
+[Heat mapping](https://www.WHATEVER/2014/04/04/heatmapping-tools-show-whats-hot-on-your-pages/) tests are one of the many tools at the disposal of epa.gov to evaluate the effectiveness of the homepage. The test tracks the behavior of a visitor to a website, and color codes the results based on the level of engagement. If a link is being clicked frequently, the heat map will display results as being “white hot.” When there is little activity, that area of the page will remain a darker color.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/435-x-207-EPA-homepage-heatmap.jpg" alt="435 x 207 EPA homepage heatmap" >}}
 

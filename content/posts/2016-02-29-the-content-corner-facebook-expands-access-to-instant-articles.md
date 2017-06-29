@@ -17,7 +17,7 @@ tag:
   - The Content Corner
 ---
 
-As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping](({{< relref "the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md" >}})). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." caption="" >}} 
+As I begin to wind down my time at The Content Corner, I have realized that one of my biggest content concerns uncovered during my tenure is [digital sharecropping](https://www.WHATEVER/2015/10/26/the-content-corner-twitter-apple-news-and-the-importance-of-our-websites/). The [recent announcement from Facebook](https://contently.com/strategist/2016/02/17/facebook-will-likely-open-instant-articles-to-brands-publishers-grandma) that they will soon open their Instant Articles publishing capability to everyone was reason enough for me to revisit the topic of owning and controlling our content one more time. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-National-Geographic-Instant-Article-Facebook.jpg" alt="An Instant Article by National Geographic seen on a smart phone." caption="" >}} 
 
 While I dislike the term digital sharecropping (coined by [Nicholas Carr](http://www.roughtype.com/?p=634)), I haven’t found a better or more succinct explanation for this ongoing drive for private companies and platforms to own our content (while we do all the work).
 
@@ -29,7 +29,7 @@ Facebook launched [Instant Articles](https://developers.facebook.com/docs/instan
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-screen-captures-of-CNN-Instant-Article-in-Feed-and-opened-within-Facebook.jpg" alt="Screen captures of CNN Instant Article in Feed and opened within Facebook" >}}
 
-The format is also built on an open format utilizing HTML5 which helps ensure your content is as clean, responsive, and flexible as possible. I think the markup that is required by Instant Articles is a great way of reinforcing the importance of [structured content and content models]({{< relref "open-and-structured-content-models-project-hands-on-workshop.md" >}}) and keeps the sharing and reuse of our content front and center during the process.
+The format is also built on an open format utilizing HTML5 which helps ensure your content is as clean, responsive, and flexible as possible. I think the markup that is required by Instant Articles is a great way of reinforcing the importance of [structured content and content models](https://www.WHATEVER/event/open-and-structured-content-models-project-hands-on-workshop/) and keeps the sharing and reuse of our content front and center during the process.
 
 ## Automatic Article Creation
 
@@ -153,4 +153,4 @@ This sentence from [Facebook’s Dev News page](https://developers.facebook.com/
 
 Is the mad grab for your content over? I don’t think so, and I still feel we should remain cautious where we generate custom content as opposed to sharing our content. I remain protective of the place our agency websites play in maintaining a clear brand identity to our citizens. However, I also respect the need to display content in the fastest and most accessible manner technology allows. Facebook Instant Articles seems initially like another way to honor both of those goals. Anyone out there thinking of leveraging Instant Articles? Is anyone already doing it? Share your thoughts and experiences below.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< relref "the-content-corner.md" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
