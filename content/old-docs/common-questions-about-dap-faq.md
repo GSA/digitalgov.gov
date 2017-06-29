@@ -128,13 +128,13 @@ No. The gov-wide Google Analytics code is designed to collect data in a consiste
 
 In the last several years, Google Analytics has grown to serve not just individual users and websites, but also entire corporations and government agencies. With that, it has gone through a series of transformations, and its reporting and development evolved. To continue to enhance its future feature development and tracking, and to provide more flexibility for customization, Google decided to gradually phase out its classic ga.js code and to start using its brand new Universal Analytics (UA) tracking code. Universal Analytics (also known as analytics.js) is now the operating standard for Google Analytics.
 
-If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< relref "dap/analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
+If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions](https://www.WHATEVER/services/dap/analytics-tool-instructions/) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
 ### What&#8217;s the difference between classic GA and Universal Analytics (UA)?
 
 Compared to the classic GA (ga.js), UA gives GA users more control over tracking settings (e.g. session timeouts, campaign timeouts, exclusion of referrals, addition of search engines, removal of certain search terms etc.). UA also gives users the ability to create custom dimensions and custom metrics (in the current classic GA, users can only create custom variables), and other customization enhancements.
 
-If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< relref "dap/analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
+If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions](https://www.WHATEVER/services/dap/analytics-tool-instructions/) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
 ### 
 
@@ -196,7 +196,7 @@ We recommend adding the following language:
 >   * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
 >   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
 
-See [this notice]({{< relref "policies.md" >}}) on our Site Policies page.
+See [this notice](https://www.WHATEVER/about/policies/) on our Site Policies page.
 
 <h2 id="part-5" style="padding-top: 50px">
   <a name="reporting"></a>Reporting

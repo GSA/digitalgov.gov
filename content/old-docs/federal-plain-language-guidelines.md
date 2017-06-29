@@ -15,8 +15,8 @@ The Plain Language Action and Information Network (PLAIN) put together these [fe
 ## Related Resources:
 
   * [Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf)
-  * [Plain Writing Basics](({{< relref "how-to-tell-your-agencys-story-plainly.md" >}}))
-  * [Plain Language Web Writing Tips]({{< relref "plain-language-web-writing-tips.md" >}})
+  * [Plain Writing Basics](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/)
+  * [Plain Language Web Writing Tips](https://www.WHATEVER/resources/plain-language-web-writing-tips/)
 
 * * *
 

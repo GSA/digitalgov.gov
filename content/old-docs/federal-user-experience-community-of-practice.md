@@ -30,7 +30,7 @@ To join, contact the group Co-Chairs Jean Fox and Silvia Salazar via <a href="ma
   * User Experience (UX) networking events
   * Training for government Web managers, usability specialists, and project managers through [DigitalGov University](https://www.WHATEVER/digitalgov-university/) and other programs
   * Volunteer opportunities
-  * Useful UX resources such as the [DigitalGov User Experience Resources]({{< relref "digitalgov-user-experience-resources/ "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov.md" >}}), [DigitalGov]({{< relref "/www.WHATEVER/digitalgov-university.md" >}}). [
+  * Useful UX resources such as the [DigitalGov User Experience Resources](https://www.WHATEVER/resources/digitalgov-user-experience-resources/ "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov/), [DigitalGov](https://www.WHATEVER), and [DigitalGov University](https://www.WHATEVER/digitalgov-university/). [
   
 ](http://www.usability.gov/) 
   * Case studies of why UX works!

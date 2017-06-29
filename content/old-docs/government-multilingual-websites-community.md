@@ -20,7 +20,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
   <a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
-_**The Multilingual Digital Group also maintains the multilingual [resources]({{< relref "/www.WHATEVER/tag/multilingual.md" >}}) for DigitalGov.**_
+_**The Multilingual Digital Group also maintains the multilingual [resources](https://www.WHATEVER/resources#multilingual) and [articles](https://www.WHATEVER/tag/multilingual/) for DigitalGov.**_
 
  
 
@@ -228,7 +228,7 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
 
 We work to support Executive Order 13166, “[Improving Access to Services for People with Limited English Proficiency](http://www.justice.gov/crt/about/cor/Pubs/eolep.pdf)” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
 
-We [collect research](({{< relref "multilingual-digital-content.md" >}})), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
+We [collect research](https://www.WHATEVER/2014/07/01/multilingual-digital-content/), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
 
 We work on three main areas:
 

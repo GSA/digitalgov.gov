@@ -21,8 +21,8 @@ The program consists of:
       * Past recorded trainings on our <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P" target="_blank">YouTube channel</a>
       * Future training found on our [events page](https://www.WHATEVER/events/)
   * Implementation support 
-      * [DAP FAQs]({{< relref "dap/common-questions-about-dap-faq.md" >}})
-      * [Implementation instructions]({{< relref "dap/analytics-tool-instructions.md" >}})
+      * [DAP FAQs](https://www.WHATEVER/services/dap/common-questions-about-dap-faq/)
+      * [Implementation instructions](https://www.WHATEVER/services/dap/analytics-tool-instructions/)
       * Most recent code available in the <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">DAP Github repo</a>
   * [On-going help-desk](mailto:dap@support.WHATEVER) and data reporting support
   * A public window into some DAP data at [analytics.usa.gov](https://analytics.usa.gov) 

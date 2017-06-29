@@ -15,8 +15,8 @@ authors:
 ## Related Resources:
 
   * [PLAIN&#8217;s Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh)
-  * [Plain Writing Basics](({{< relref "how-to-tell-your-agencys-story-plainly.md" >}}))
-  * [Plain Language Web Writing Tips]({{< relref "plain-language-web-writing-tips.md" >}})
+  * [Plain Writing Basics](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/)
+  * [Plain Language Web Writing Tips](https://www.WHATEVER/resources/plain-language-web-writing-tips/)
 
 * * *
 
