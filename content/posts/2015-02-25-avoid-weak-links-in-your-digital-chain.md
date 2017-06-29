@@ -1,5 +1,4 @@
 ---
-url: /2015/02/25/avoid-weak-links-in-your-digital-chain/
 date: 2015-02-25 11:10:25 -0400
 title: Avoid Weak ‘Links’ in Your Digital Chain
 summary: 'Users don&rsquo;t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here&rsquo;s a'
@@ -27,7 +26,7 @@ tag:
   - UX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-185-Abstract-internet-connection-concept-with-cmputer-mouse-agawa288-iStock-Thinkstock-457944729.jpg" alt="Abstract internet connection concept with computer mouse" caption="" >}} 
 
 Users don’t like surprises.
 
@@ -49,7 +48,7 @@ One element people look for is distinct text: when links are differentiated thro
 
 ## Linking For Good User Experience
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" %}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
 
 John Felleman, Industry Specialist for the Common Acquisition Platform Program Management Office in the General Services Administration, shared with the listserv how links open on [GSA&#8217;s Acquisition Gateway](https://hallways.cap.gsa.gov/homepage/welcome.html). His office uses different link opening practices, depending on context.
 
@@ -77,4 +76,4 @@ Here is a list of tips your agency can use when adding links to your content. Li
   * Use **media format warnings** to indicate when a link will connect users to files (such as PDFs or Word documents). Media format warnings can be put in parentheses after the link: several of the links on [DigitalGov’s Resources page](https://www.WHATEVER/resources/) lead to documents, and we put the warning after the link and offset it with a different color. The amount of information in the media format warning can vary from website to website—at minimum, indicate the type of file the link leads to.
   * Link to pages that contain **clear headings**. Users should immediately see that they have arrived at the correct page after clicking your link. Pernice pointed to the [U.S. Food and Drug Administration](http://www.fda.gov/)’s website as a good linking example. The carousel at the top of the homepage displays new articles. Pernice clicked on a carousel story titled [Three Encouraging Steps Toward New Antibiotics](http://blogs.fda.gov/fdavoice/index.php/2014/09/three-encouraging-steps-towards-new-antibiotics/). When that story was clicked, the page loaded with the correct, clearly labeled article about antibiotics.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-372-FDA-carousel-and-page-side-by-side.jpg" alt="600-x-372-FDA-carousel-and-page-side-by-side" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-372-FDA-carousel-and-page-side-by-side.jpg" alt="600-x-372-FDA-carousel-and-page-side-by-side" >}}

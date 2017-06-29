@@ -1,5 +1,4 @@
 ---
-url: /2015/03/23/web-metadata-publishing-using-xml/
 date: 2015-03-23 11:00:18 -0400
 title: Web Metadata Publishing Using XML
 summary: 'Metadata for website content is usually managed as part of the editorial process when documents are created and published with content management systems. There may be another source for this metadata, especially in regulatory agencies: internal databases that reference Web content in support of record keeping processes. These databases may contain public and non-public information'
@@ -23,7 +22,7 @@ tag:
   - U.S. Securities and Exchange Commission
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}} 
 
 Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems](https://www.WHATEVER/2013/10/30/content-management-systems-toolkit/).
 

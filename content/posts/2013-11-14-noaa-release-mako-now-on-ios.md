@@ -1,8 +1,7 @@
 ---
-url: /2013/11/14/noaa-release-mako-now-on-ios/
 date: 2013-11-14 4:29:12 -0400
 title: NOAA Release Mako Now on iOS
-summary: The NOAA Release Mako App was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on another
+summary: The NOAA Release Mako App was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on
 authors:
   - jparcell
 categories:
@@ -12,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NOAA-release-mako.jpeg" alt="Home screen of NOAA's Release Mako app showing two sharks and asking fishermen to submit shark release data by pinpointing on a map. " %}The [NOAA Release Mako App](http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/mako_app.html) was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on another platform, the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) released an iOS version of the app earlier this year.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NOAA-release-mako.jpeg" alt="Home screen of NOAA's Release Mako app showing two sharks and asking fishermen to submit shark release data by pinpointing on a map. " >}}The [NOAA Release Mako App](http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/mako_app.html) was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on another platform, the [National Marine Fisheries Service](http://www.nmfs.noaa.gov/) released an iOS version of the app earlier this year.
 
 Like the [Android version](https://www.WHATEVER/2012/04/26/noaas-release-mako-app/ "NOAA’s Release Mako App"), it uses GPS and allows fisherman to upload photographs of their catches. NOAA says:
 

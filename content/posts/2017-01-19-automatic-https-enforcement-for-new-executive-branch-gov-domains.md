@@ -1,15 +1,14 @@
 ---
-url: /2017/01/19/automatic-https-enforcement-for-new-executive-branch-gov-domains/
 date: 2017-01-19 12:00:30 -0400
 title: Automatic HTTPS Enforcement for New Executive Branch .Gov Domains
 summary: HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks. In June 2015, the White House required all new federal web services to support and
 authors:
-  - marina-fox
   - eric-mill
+  - marina-fox
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - GSA
@@ -20,16 +19,13 @@ tag:
   - security
 ---
 
-HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks. {% img="https://www.WHATEVER/files/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" %} 
+HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks. {{< legacy-img src="https://www.WHATEVER/files/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 
 
 In June 2015, the White House required all new federal web services to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines), and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS monitoring dashboard](https://pulse.cio.gov/) and [thorough policy guidance and technical assistance](https://https.cio.gov/).
 
 Federal agencies have made very significant progress towards that goal, to the point that [federal use of HTTPS now outpaces the private sector](https://18f.gsa.gov/2017/01/04/tracking-the-us-governments-progress-on-moving-https/).
 
-This year, GSA will be taking another significant step forward in making secure communication the default for federal web services by automatically enforcing HTTPS in modern web browsers for newly issued executive branch .gov domains and their subdomains.
-
-
-<img class="size-full wp-image-386235" src="https://www.WHATEVER/files/2017/01/600-x-400-Dot-gov-internet-domain-marekuliasz-iStock-Thinkstock-476434043.jpg" alt="" width="600" height="400" /> 
+This year, GSA will be taking another significant step forward in making secure communication the default for federal web services by automatically enforcing HTTPS in modern web browsers for newly issued executive branch .gov domains and their subdomains. {{< legacy-img src="https://www.WHATEVER/files/2017/01/600-x-400-Dot-gov-internet-domain-marekuliasz-iStock-Thinkstock-476434043.jpg" alt=" width=" >}} 
 
 As new executive branch domains are registered, the [DotGov](https://www.dotgov.gov/) program will submit them to web browsers for “[preloading](https://https.cio.gov/hsts/#hsts-preloading).” After submission, it can take up to three months before preloading takes effect in modern web browsers. The change will be introduced to dotgov customers when they register a new domain under the Executive Branch, and will not affect existing or renewed domains.
 

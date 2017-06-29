@@ -1,5 +1,4 @@
 ---
-url: /2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/
 date: 2016-09-20 11:00:19 -0400
 title: 'Progressive Web Applications, Part 1: the New Pack Mule of the Internet'
 summary: 'A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins.'
@@ -23,7 +22,7 @@ tag:
 
 ****A mule is the hybrid offspring of a male donkey and a horse. This new species is stronger and better equipped than the species from which it comes. Overall, mules tend to be healthier, more sound, and live longer than horses. They are favored over horses in mountainous terrain because the mule has a reputation for being more surefooted than their equine cousins. Finally, mules do not require expensive grains, eat less and don&#8217;t tend to overeat as horses do.
 
-Progressive Web Applications are the new hybrid mules of the Internet! {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." %} 
+Progressive Web Applications are the new hybrid mules of the Internet! {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Pack-Mule-cartoon-toonerman-iStock-Thinkstock-454943937.jpg" alt="A cartoon illustration of a pack mule." caption="" >}} 
 
 ## What Are Progressive Web Applications (PWA)?
 
@@ -47,7 +46,7 @@ These three components create a browser wrapper for PWAs:
 
   * **Chocolate/Presentation** – This is the middle tier that contains the CSS
 
-  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." %} 
+  * **Hard Candy Shell/Client Side Scripting** – JavaScript that works with the service worker to increase speed, loading times, and functionality to create the user experience. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Sweet-candy-AppleZoomZoom-iStock-Thinkstock-496973541.jpg" alt="Peanut M&M candies." caption="" >}} 
 
 To pull the PWA together we need to add in the service worker and the web App manifest.
 

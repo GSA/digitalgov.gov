@@ -1,5 +1,4 @@
 ---
-url: /2014/08/12/trends-on-tuesday-the-rise-of-mobile-app-super-users/
 date: 2014-08-12 10:00:33 -0400
 title: 'Trends on Tuesday: The Rise of Mobile App Super Users?'
 summary: A recent Trends on Tuesday post cautioned against becoming another statistic in the treacherous, desolate wasteland known as the App Graveyard. Thankfully, there is some research that shows the likelihood of your app being banished to its grave is receding. Trends indicate that not only are app retention rates rising, user engagement is increasing. According
@@ -14,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}} 
 
 A recent [Trends on Tuesday post](https://www.WHATEVER/2014/07/29/trends-on-tuesday-avoid-the-app-graveyard/) cautioned against becoming another statistic in the treacherous, desolate wasteland known as the App Graveyard. Thankfully, there is some research that shows the likelihood of your app being banished to its grave is receding. Trends indicate that not only are app retention rates rising, user engagement is increasing. According to data collected by [_Flurry_](http://www.flurry.com/blog/flurry-insights/rise-mobile-addict#.U-TPsoBdVUM), the number of times apps are launched per day have increased significantly.
 

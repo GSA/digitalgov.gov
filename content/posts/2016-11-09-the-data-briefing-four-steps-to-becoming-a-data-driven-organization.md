@@ -1,5 +1,4 @@
 ---
-url: /2016/11/09/the-data-briefing-four-steps-to-becoming-a-data-driven-organization/
 date: 2016-11-09 11:00:45 -0400
 title: 'The Data Briefing: Four Steps to Becoming a Data-Driven Organization'
 summary: 'As the Federal government agencies begin the digital transformation journey, becoming a data-driven organization is even more vital. What does it mean to become a data-driven organization? According to one definition, &ldquo;[a] data-driven company is an organization where every person who can use data to make better decisions, has access to the data they need'
@@ -9,7 +8,7 @@ categories:
   - Data
   - Managing Digital
   - Metrics
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - data
@@ -18,7 +17,7 @@ tag:
   - The Data Briefing
 ---
 
-As the Federal government agencies begin the digital transformation journey, becoming a data-driven organization is even more vital. What does it mean to become a data-driven organization? According to one definition, “[[a] data-driven company is an organization where every person who can use data to make better decisions, has access to the data they need when they need it](http://www.infoworld.com/article/3074322/big-data/what-is-a-data-driven-company.html).” There are many theories are on how to create a data-driven organization, but few case studies that demonstrate the actual process. In this article, I will describe the [results of four recent case studies that showed how a bank, a health care organization, a Fortune 500 company, and a municipal government became data driven](http://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x400-Business-woman-touching-virtual-screen-pushing-icon-on-media-ipopba-iStock-Thinkstock-494163222.jpg" alt="Businesswoman touching virtual data screen." %} 
+As the Federal government agencies begin the digital transformation journey, becoming a data-driven organization is even more vital. What does it mean to become a data-driven organization? According to one definition, “[[a] data-driven company is an organization where every person who can use data to make better decisions, has access to the data they need when they need it](http://www.infoworld.com/article/3074322/big-data/what-is-a-data-driven-company.html).” There are many theories are on how to create a data-driven organization, but few case studies that demonstrate the actual process. In this article, I will describe the [results of four recent case studies that showed how a bank, a health care organization, a Fortune 500 company, and a municipal government became data driven](http://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x400-Business-woman-touching-virtual-screen-pushing-icon-on-media-ipopba-iStock-Thinkstock-494163222.jpg" alt="Businesswoman touching virtual data screen." caption="" >}} 
 
 ## First Step – Locating and Preparing the Data Assets
 

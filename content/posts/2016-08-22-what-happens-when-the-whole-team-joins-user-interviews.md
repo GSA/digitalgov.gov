@@ -1,5 +1,4 @@
 ---
-url: /2016/08/22/what-happens-when-the-whole-team-joins-user-interviews/
 date: 2016-08-22 2:00:00 -0400
 title: What Happens When the Whole Team Joins User Interviews
 summary: 'The CALC team is an agile team of four &#8212; six if you count the Scrummaster and the Product Owner &#8212; building a simple means to load price data into the original CALC tool. They&rsquo;re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is'
@@ -7,15 +6,15 @@ authors:
   - alan-brouilette
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
 tag:
   - 18F
   - agile
   - research
 ---
 
-The [CALC](https://18f.gsa.gov/2015/05/12/announcing-the-calc-tool/) team is an agile team of four &#8212; six if you count the Scrummaster and the Product Owner &#8212; building a simple means to load price data into the original CALC tool. They’re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is some reflection on what happened when they all scrubbed in on the Discovery phase. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" %} 
+The [CALC](https://18f.gsa.gov/2015/05/12/announcing-the-calc-tool/) team is an agile team of four &#8212; six if you count the Scrummaster and the Product Owner &#8212; building a simple means to load price data into the original CALC tool. They’re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is some reflection on what happened when they all scrubbed in on the Discovery phase. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
 
 _How have you been conducting the Discovery phase?_
 

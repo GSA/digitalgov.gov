@@ -1,5 +1,4 @@
 ---
-url: /2016/09/16/updated-foia-regulation-template-and-guidance-now-available/
 date: 2016-09-16 10:00:24 -0400
 title: Updated FOIA Regulation Template and Guidance Now Available
 summary: 'On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency Freedom of Information Act (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in March 2016. OIP has updated them to take into account changes made to the FOIA by the FOIA Improvement'
@@ -7,7 +6,7 @@ authors:
   - office-of-information-policy
 categories:
   - Governance
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - DOJ
   - FOIA
@@ -21,7 +20,7 @@ tag:
 
 On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency [Freedom of Information Act](https://www.foia.gov/) (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in [March 2016](https://www.justice.gov/oip/blog/new-guidance-and-template-agency-foia-regulations-now-available). OIP has updated them to take into account changes made to the FOIA by the [FOIA Improvement Act of 2016](https://www.justice.gov/oip/freedom-information-act-5-usc-552) and by recent court decisions.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-332-Freedom-of-Information-Act-FOIA-website-homepage.jpg" alt="Freedom of Information Act homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-332-Freedom-of-Information-Act-FOIA-website-homepage.jpg" alt="Freedom of Information Act homepage." >}}
 
 As described in OIP’s [guidance](https://www.justice.gov/oip/oip-guidance/guidance-agency-foia-regulations), while many of the FOIA’s requirements are contained directly in the statute and do not need implementing regulations, there are areas where the FOIA specifically requires each agency to publish regulations and still other areas where regulations are permitted. Moreover, there are aspects of FOIA administration that can be addressed in FOIA regulations as a matter of good practice.
 

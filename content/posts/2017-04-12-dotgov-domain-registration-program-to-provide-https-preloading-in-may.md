@@ -1,5 +1,4 @@
 ---
-url: /2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/
 date: 2017-04-12 2:19:47 -0400
 title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
 summary: 'Effective May 15, 2017, GSA&rsquo;s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies. HSTS stands for HTTP Strict Transport Security (or HTTPS, for short). This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor'
@@ -8,7 +7,7 @@ authors:
   - eric-mill
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - GSA
   - HTTPS
@@ -16,7 +15,7 @@ tag:
   - U.S. General Services Administration
 ---
 
-**Effective May 15, 2017, GSA’s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies.** HSTS stands for HTTP Strict Transport Security (or HTTPS, for short). This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor or change visitor interactions online. {% img="https://www.WHATEVER/files/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" %} 
+**Effective May 15, 2017, GSA’s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies.** HSTS stands for HTTP Strict Transport Security (or HTTPS, for short). This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor or change visitor interactions online. {{< legacy-img src="https://www.WHATEVER/files/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 
 
 As part of this new service, any **federal government <u>executive branch</u> .gov domain**, created **after May 15, 2017, will be automatically registered as HTTPS-only** in modern web browsers through HSTS preloading. This change will affect all web services hosted on these domains (including subdomains and internal sites). Existing executive branch federal .gov domains, including the ones up for renewal, will **not be** affected by this change.
 

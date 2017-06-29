@@ -1,8 +1,7 @@
 ---
-url: /2016/06/09/five-things-doe-learned-from-making-a-podcast/
 date: 2016-06-09 10:00:33 -0400
 title: Five Things DOE Learned from Making a Podcast
-summary: 'The Energy Department launched Direct Current, our first podcast, on May 9. The first episode&mdash;all about rooftop solar, as well as the history of our agency&mdash;has been well-received so far by press, stakeholders, and the general public. One review stuck'
+summary: 'The Energy Department launched Direct Current, our first podcast, on May 9. The first episode&mdash;all about rooftop solar, as well as the history of our agency&mdash;has been well-received so far by press, stakeholders, and the general public. One review'
 authors:
   - allison-lantero
 categories:
@@ -15,7 +14,7 @@ tag:
 
 The Energy Department launched [Direct Current](http://energy.gov/direct-current-energygov-podcast), our first podcast, on May 9. The first episode—all about rooftop solar, as well as the history of our agency—has been well-received so far by press, stakeholders, and the general public.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-338-DOE-Energy-1st-podcast-direct-current-graphics.jpg" alt="The Department of Energy's splash screen for their "Direct Current" podcast series." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-338-DOE-Energy-1st-podcast-direct-current-graphics.jpg" alt="The Department of Energy's splash screen for their Direct Current podcast series." >}}
 
 One review stuck out. Headlined “From out of nowhere, the U.S. Energy Department launches a great podcast,” it underscored that most people might not realize how much work and planning actually went into creating our first 25-minute episode.
 

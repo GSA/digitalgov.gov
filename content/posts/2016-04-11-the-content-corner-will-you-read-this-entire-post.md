@@ -1,5 +1,4 @@
 ---
-url: /2016/04/11/the-content-corner-will-you-read-this-entire-post/
 date: 2016-04-11 11:00:29 -0400
 title: 'The Content Corner: Will You Read This Entire Post?'
 summary: 'Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. There was a book I loved as a child that featured the Sesame Street character Grover, titled'
@@ -19,7 +18,7 @@ tag:
   - United States Department of Homeland Security
 ---
 
-Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" %} 
+Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}} 
 
 There was a book I loved as a child that featured the Sesame Street character Grover, titled [The Monster at the End of this Book](http://smollin.com/michael/tmonstr/mon001.html), where Grover keeps warning the reader to stop turning pages because there is going to be a scary monster at the end. This of course has the opposite effect as the reader is made more and more curious and is turning the pages faster and faster. In the end, (spoiler alert) Grover is the monster, but I wonder if the book was a blog post, how many readers would have never found out? Do we have to resort to narrative tricks or cliffhangers to help drive our readers to the end of our content? Well, sort of.
 

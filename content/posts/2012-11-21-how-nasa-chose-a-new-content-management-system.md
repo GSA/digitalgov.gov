@@ -1,5 +1,4 @@
 ---
-url: /2012/11/21/how-nasa-chose-a-new-content-management-system/
 date: 2012-11-21 1:21:29 -0400
 title: How NASA Chose a New Content Management System
 summary: 'A case study on how NASA is choosing a new enterprise content management system (CMS). The Challenge NASA.gov needs a new enterprise CMS. They&rsquo;re facing issues such as software obsolescence, inconsistent website governance, and a large amount of unstructured content stored in flat HTML files. Their current system is almost a decade old, and the'
@@ -9,7 +8,7 @@ categories:
   - API
   - Content
   - Governance
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - CMS
   - Content Management System
@@ -18,7 +17,7 @@ tag:
 
 A case study on how NASA is choosing a new enterprise [content management system (CMS)](https://www.WHATEVER/resources/content-management-systems-toolkit/ "Content Management Systems Toolkit").
 
-## The Challenge {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-250-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="A round CMS icon" %} 
+## The Challenge {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-250-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="A round CMS icon" caption="" >}} 
 
 NASA.gov needs a new enterprise CMS. They’re facing issues such as software obsolescence, inconsistent website governance, and a large amount of unstructured content stored in flat HTML files. Their current system is almost a decade old, and the vendor no longer provides technical support. They need an enterprise solution that will enable offices throughout NASA to collaborate on content creation, instead of having each component create content in isolation. They also have around three-quarters of a million pieces of content, and it often isn’t structured to enable syndication or sharing.
 

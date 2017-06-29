@@ -1,5 +1,4 @@
 ---
-url: /2016/01/08/what-are-your-customers-searching-for/
 date: 2016-01-08 1:00:28 -0400
 title: What Are Your Customers Searching For?
 summary: 'What are your agency&rsquo;s website visitors looking for? Can they find it easily? How do you know? Search analytics provide valuable data that can positively affect an agency&rsquo;s Web strategy. This topic was the focus of a recent webinar, Show Me the Data: Leveraging Analytics in DigitalGov Search. Dawn Pointer McCleskey, acting program manager for'
@@ -13,7 +12,7 @@ tag:
   - USAgov
 ---
 
-What are your agency’s website visitors looking for? Can they find it easily? How do you know? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" %} 
+What are your agency’s website visitors looking for? Can they find it easily? How do you know? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
 
 Search analytics provide valuable data that can positively affect an agency’s Web strategy. This topic was the focus of a recent webinar, [Show Me the Data: Leveraging Analytics in DigitalGov Search](https://www.youtube.com/watch?v=zMft4VkYZug&feature=youtu.be).
 
@@ -35,7 +34,7 @@ Visitors to USA.gov searched for over 10,000 different words or phrases in 2015.
   4. Jobs and Unemployment
   5. Health
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-1842-2015\_USA\_Top_Search-e1452270049969.jpg" alt="An infographic showing the most popular search terms on USA.gov in 2015. Click to view full size." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/612-x-1879-orig-2015_USA_Top_Search.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-1842-2015\_USA\_Top_Search-e1452270049969.jpg" alt="An infographic showing the most popular search terms on USA.gov in 2015. Click to view full size." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/612-x-1879-orig-2015_USA_Top_Search.png)
 
 _Information about USA.gov search terms was [originally published on the USAgov blog](https://blog.usa.gov/5-most-popular-search-topics-on-usa-gov-in-2015) by team members Maria Marrero, Puthorn Suwannasingh, Michelle Chronister and Leilani Martínez._
 

@@ -1,8 +1,7 @@
 ---
-url: /2013/05/16/cdc-mobile-tools/
 date: 2013-05-16 9:31:24 -0400
 title: CDC Mobile Tools
-summary: 'The Center&#8217;s for Disease and Control has developed a mobile website and a mobile app so users can access information anytime, anywhere, on any device. The mobile website was developed to allow users to access a subset of CDC&rsquo;s content on mobile devices. These sections include Health'
+summary: 'The Center&#8217;s for Disease and Control has developed a mobile website and a mobile app so users can access information anytime, anywhere, on any device. The mobile website was developed to allow users to access a subset of CDC&rsquo;s content on mobile devices. These sections include'
 authors:
   - kanika-tolver
 categories:
@@ -13,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDCSolvetheOutbreakApp.jpeg)The [Center&#8217;s for Disease and Control](http://www.cdc.gov/) has developed a [mobile website](http://m.cdc.gov/) and a [mobile app](http://apps.usa.gov/cdc-mobile-app.shtml) so users can access information anytime, anywhere, on any device.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-375-CDC-Solve-the-Outbreak.jpg" alt="Advertisement for CDC's Solve the Outbreak App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDCSolvetheOutbreakApp.jpeg)The [Center&#8217;s for Disease and Control](http://www.cdc.gov/) has developed a [mobile website](http://m.cdc.gov/) and a [mobile app](http://apps.usa.gov/cdc-mobile-app.shtml) so users can access information anytime, anywhere, on any device.
 
 The mobile website was developed to allow users to access a subset of CDC’s content on mobile devices. These sections include Health & Safety, Vital Signs and Videos. This mobile website is very user friendly and it was developed using JQuery, HTML and Ajax.
 

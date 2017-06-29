@@ -1,5 +1,4 @@
 ---
-url: /2014/09/10/stacking-up-the-benefits-of-openness/
 date: 2014-09-10 11:49:04 -0400
 title: Stacking Up the Benefits of Openness
 summary: Open government, open source, openness. These words are often used in talking about open data, but we sometimes forget that the root of all of this is an open community. Individuals working together to release government data and put it to use to help their neighbors and reach new personal goals. This sense of community
@@ -15,11 +14,11 @@ tag:
   - Terms of Service
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Business-concept-Folder-With-Padlock-on-digital-background-maxkabakov-iStock-Thinkstock-467665039.jpg" alt="Business concept: Folder With Padlock on digital background" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Business-concept-Folder-With-Padlock-on-digital-background-maxkabakov-iStock-Thinkstock-467665039.jpg" alt="Business concept: Folder With Padlock on digital background" caption="" >}} 
 
 Open government, open source, openness. These words are often used in talking about open data, but we sometimes forget that the root of all of this is an open community. Individuals working together to release government data and put it to use to help their neighbors and reach new personal goals.
 
-This sense of community in the open data field shows up in many places. I see it when people volunteer at the National Day of Civic Hacking, crowdsource data integrity with MapGive, or mentor with Girls Who Code. And each day I see it on [Open Data Stack Exchange](http://opendata.stackexchange.com/), where people ask questions about open data issues, searches, or challenges, and strangers half a world away answer the question within an hour. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-138-logo-copyright-stack-exchange-inc.jpg" alt="Logo copyright Stack Exchange, Inc." %} 
+This sense of community in the open data field shows up in many places. I see it when people volunteer at the National Day of Civic Hacking, crowdsource data integrity with MapGive, or mentor with Girls Who Code. And each day I see it on [Open Data Stack Exchange](http://opendata.stackexchange.com/), where people ask questions about open data issues, searches, or challenges, and strangers half a world away answer the question within an hour. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-138-logo-copyright-stack-exchange-inc.jpg" alt="Logo copyright Stack Exchange, Inc." caption="" >}} 
 
 We launched the Open Data Stack Exchange in 2013 as a way of helping to build community and open up the knowledge in our emergent field. What started slowly, soon took off with 3,375 participants today having provided 1,592 answers to 721 questions. Anyone can ask a question. These have ranged from data requests (looking for specific hard-to-find data) to technical questions on parsing or visualizing data. More importantly, anyone can answer a question, too. You’ll notice from the numbers that most questions have more than one answer, with the asker being able to choose the best answer and everyone being able to vote the questions and answers up and down. The forum is loosely moderated (I’ve served as one of the moderators since inception), but predominantly self-governed. Google trusts this method and forum so much that within a few minutes of answering a question, it will pop to the top of the Google search results for that topic.
 

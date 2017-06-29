@@ -1,5 +1,4 @@
 ---
-url: /2014/03/05/github-for-government-recap/
 date: 2014-03-05 11:11:39 -0400
 title: GitHub for Government Recap
 summary: 'As the definition of &ldquo;developer&rdquo; has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It&rsquo;s a free social network that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously. Project Open Data, a cross-agency initiative developed by the White House,'
@@ -21,7 +20,7 @@ As the definition of “developer” has grown and expanded, GitHub has become a
 
 Never tried GitHub? Noah Kunin, from the Consumer Financial Protection Bureau, walked us through the platform, including some government-specific resources.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" >}}
 
 Here are some of the highlights from the recent [DigitalGov University webinar](https://www.WHATEVER/events/):
 

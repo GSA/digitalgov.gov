@@ -1,13 +1,12 @@
 ---
-url: /2016/07/01/build-empathy-with-stakeholder-interviews-part-1-preparation/
 date: 2016-07-01 10:00:26 -0400
 title: 'Build Empathy With Stakeholder Interviews, Part 1: Preparation'
 summary: 'A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series, I&#8217;d like to summarize (as best as possible) the presentation I gave, &#8220;Foster The People: Building Empathy with Stakeholder Interviews.&#8221; In this post, I&#8217;ll cover'
 authors:
   - andrew-maier
 categories:
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
 tag:
   - 18F
   - user centered design
@@ -16,7 +15,7 @@ tag:
 
 A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series, I&#8217;d like to summarize (as best as possible) the presentation I gave, &#8220;[Foster The People: Building Empathy with Stakeholder Interviews](https://speakerdeck.com/andrewmaier/foster-the-people-building-empathy-with-stakeholder-interviews).&#8221;
 
-In this post, I&#8217;ll cover what stakeholder interviews are, why they’re valuable, and how to prepare for them. In the second post, I’ll cover how to actually run the interviews as well as some tips for synthesizing and integrating the results into the team’s shared understanding. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" %} 
+In this post, I&#8217;ll cover what stakeholder interviews are, why they’re valuable, and how to prepare for them. In the second post, I’ll cover how to actually run the interviews as well as some tips for synthesizing and integrating the results into the team’s shared understanding. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 
 
 Before I continue: The idea of “explaining” stakeholder interviews is a rather audacious goal. Many authors have written entire books about the skills and perspectives necessary to do this work and apply it within the context of product design. I’ll do my best to summarize this subject, but interested readers are encouraged to peruse the books and articles cited at end of this series.
 

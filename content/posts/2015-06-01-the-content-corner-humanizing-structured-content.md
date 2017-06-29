@@ -1,5 +1,4 @@
 ---
-url: /2015/06/01/the-content-corner-humanizing-structured-content/
 date: 2015-06-01 10:00:43 -0400
 title: 'The Content Corner: Humanizing Structured Content'
 summary: 'Over the past several years, DigitalGov has been extremely focused on structured content, content models, and their role in future-ready content (and rightly so). A shift of focus back to the content itself as opposed to where it will be published is critical for agencies as we aim to reach as many customers as possible, regardless of'
@@ -15,7 +14,7 @@ tag:
   - The Content Corner
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-335-Human-Connection-gray-tonivaver-iStock-Thinkstock-466180691.jpg" alt="Network of human figures" caption="" >}} 
 
 Over the past several years, DigitalGov has been extremely focused on [structured content](https://www.WHATEVER/2015/03/20/structured-content-in-government-how-hhs-and-nci-are-getting-started/), [content models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/), and their role in [future-ready content](https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/) (and rightly so). A shift of focus back to the content itself as opposed to where it will be published is critical for agencies as we aim to reach as many customers as possible, regardless of what device or screen they are using.
 
@@ -36,7 +35,7 @@ I have conducted more content management system training sessions than I care to
 
 By default I approach every content provider or SME as someone who is [terribly overworked](http://www.fastcompany.com/3010400/dialed/doing-more-with-less-4-ways-to-cope-and-even-succeed-in-a-downsized-world), and content creation is just one item on a very long to-do list. In the real world, it is very rare to find someone who gets to spend most of their day completely focused on their content generation and publishing. So I always try and respect the person’s workload and encourage them to look at properly structured content as a way to get the most bang for their buck (this approach also works for management).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" >}}
 
 The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs](https://www.WHATEVER/category/code/api/). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
 

@@ -1,8 +1,7 @@
 ---
-url: /2012/08/06/how-kids-search/
 date: 2012-08-06 11:11:43 -0400
 title: How Kids Search
-summary: 'Kids and adults use Web search tools differently. Kids fail more often, because they often don&rsquo;t have enough knowledge or experience to search using the right keywords, or understand search results. If you&rsquo;re designing websites for kids, remember that they use search tools differently than adults. Kids prefer surfing over searching. If kids can&rsquo;t easily'
+summary: 'Kids and adults use Web search tools differently. Kids fail more often, because they often don&rsquo;t have enough knowledge or experience to search using the right keywords, or understand search results. If you&rsquo;re designing websites for kids, remember that they use search tools differently than adults. Kids prefer surfing over searching.'
 authors:
   - david-kaufmann
   - michelle-chronister
@@ -15,7 +14,7 @@ tag:
   - UX
 ---
 
-[<img class="alignright size-full wp-image-108732" title="Two children sitting at laptops at a table in a community center." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg" alt="" width="300" height="151" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)Kids and adults use Web search tools differently. Kids fail more often, because they often don’t have enough knowledge or experience to search using the right keywords, or understand search results.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg" alt="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)Kids and adults use Web search tools differently. Kids fail more often, because they often don’t have enough knowledge or experience to search using the right keywords, or understand search results.
   
 If you’re designing websites for kids, remember that they use search tools differently than adults. Kids prefer surfing over searching. If kids can’t easily find what they want, they will likely:
 

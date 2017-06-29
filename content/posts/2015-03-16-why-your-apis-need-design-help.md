@@ -1,8 +1,7 @@
 ---
-url: /2015/03/16/why-your-apis-need-design-help/
 date: 2015-03-16 10:00:28 -0400
 title: Why Your APIs Need Design Help
-summary: ' Anything built should be built right. It doesn&#8217;t matter if it&rsquo;s built of wood, carbon nanotubes or code. So it&rsquo;s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with APIs'
+summary: ' Anything built should be built right. It doesn&#8217;t matter if it&rsquo;s built of wood, carbon nanotubes or code. So it&rsquo;s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with'
 authors:
   - jonathan-rubin
 categories:
@@ -25,7 +24,7 @@ tag:
   - UX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}
 
 Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design—getting customer feedback at every stage of a project—is catching on with APIs as well.
 

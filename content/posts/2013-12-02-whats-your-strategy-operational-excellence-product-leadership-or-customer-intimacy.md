@@ -1,18 +1,17 @@
 ---
-url: /2013/12/02/whats-your-strategy-operational-excellence-product-leadership-or-customer-intimacy/
 date: 2013-12-02 9:22:50 -0400
 title: What’s Your Strategy? Operational Excellence, Product Leadership or Customer Intimacy?
-summary: 'In the Discipline of Market Leaders by Michael Treacy and Fred Wiersema, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities of'
+summary: 'In the Discipline of Market Leaders by Michael Treacy and Fred Wiersema, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities'
 authors:
   - martha-dorris
 categories:
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Customer Experience
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-Hands-239x220.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-Hands-239x220.jpg" alt="four hands resting on top of one another" %}</a>In the <em>Discipline of Market Leaders</em> by <strong>Michael Treacy</strong> and <strong>Fred Wiersema</strong>, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities of operational excellence, product leadership and customer intimacy.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-Hands-239x220.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-Hands-239x220.jpg" alt="four hands resting on top of one another" >}}</a>In the <em>Discipline of Market Leaders</em> by <strong>Michael Treacy</strong> and <strong>Fred Wiersema</strong>, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities of operational excellence, product leadership and customer intimacy.
 </p>
 
 <p dir="ltr">

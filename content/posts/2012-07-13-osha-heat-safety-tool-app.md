@@ -1,8 +1,7 @@
 ---
-url: /2012/07/13/osha-heat-safety-tool-app/
 date: 2012-07-13 2:39:01 -0400
 title: OSHA Heat Safety Tool App
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Department of Labor. The Heat Safety Tool provides the heat index for your work site and precautions to prevent heat illness. Why We Did It OSHA developed the Heat'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Department of Labor. The Heat Safety Tool provides the heat index for your work site and precautions to prevent heat illness. Why We Did It OSHA developed the'
 categories:
   - Mobile
 tag:
@@ -12,7 +11,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._
 
 The <a href="http://www.dol.gov/dol/apps/heatindex.htm" rel="nofollow">Heat Safety Tool</a> provides the heat index for your work site and precautions to prevent heat illness.
 

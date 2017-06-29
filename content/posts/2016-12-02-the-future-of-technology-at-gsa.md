@@ -1,13 +1,12 @@
 ---
-url: /2016/12/02/the-future-of-technology-at-gsa/
 date: 2016-12-02 12:00:54 -0400
 title: The Future of Technology at GSA
-summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that. TECHNOLOGY IS NOT PARTISAN &ldquo;If it&rsquo;s important, it&rsquo;s important for all administrations,&rdquo; said GSA Technology Transformation Service'
+summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that. TECHNOLOGY IS NOT PARTISAN &ldquo;If it&rsquo;s important, it&rsquo;s important for all administrations,&rdquo; said GSA Technology Transformation'
 authors:
   - gsa-blog-team
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - GSA
@@ -22,7 +21,7 @@ tag:
 
 The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and <strong class="markup--strong markup--p-strong">technology</strong> is the key to that.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/03/600-x-283-GSA-blog-abstract-blog-848x400.jpg" alt="Abstract technology background." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/03/600-x-283-GSA-blog-abstract-blog-848x400.jpg" alt="Abstract technology background." >}}
 
 ### TECHNOLOGY IS NOT PARTISAN
 
@@ -69,7 +68,7 @@ The potential to transform government and impact the lives of Americans is treme
 > <div class="s-element-container lf-rich-block lf-block">
 >   <div class="s-link s-element-content">
 >     <p>
->       {% img="https://i2.cdn.turner.com/money/dam/assets/161116100834-obama-white-house-innovation-780x439.jpg" alt="Thumbnail for Obama was an innovation junkie. Will Trump follow in his footsteps?" %}<a class="s-link-a emojify" href="http://money.cnn.com/2016/11/16/technology/trump-innovation-white-house/index.html" target="_blank" rel="nofollow">Obama was an innovation junkie. Will Trump follow in his footsteps?</a>
+>       {{< legacy-img src="https://i2.cdn.turner.com/money/dam/assets/161116100834-obama-white-house-innovation-780x439.jpg" alt="Thumbnail for Obama was an innovation junkie. Will Trump follow in his footsteps?" >}}<a class="s-link-a emojify" href="http://money.cnn.com/2016/11/16/technology/trump-innovation-white-house/index.html" target="_blank" rel="nofollow">Obama was an innovation junkie. Will Trump follow in his footsteps?</a>
 >     </p>
 >     
 >     <div class="s-link-desc emojify">
@@ -111,7 +110,7 @@ Established earlier this year, TTS seeks to improve the technology of the federa
 > <div class="s-element-container lf-rich-block lf-block">
 >   <div class="s-link s-element-content">
 >     <p>
->       {% img="https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s Presidency" %}<a class="s-link-a emojify" href="https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s Presidency</a>
+>       {{< legacy-img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-11/23/18/campaign_images/buzzfeed-prod-fastlane03/18f-techies-in-washington-plan-to-deal-with-trump-2-16530-1479942824-13_dblbig.jpg" alt="Thumbnail for How Techies In Washington Plan To Deal With Trump’s Presidency" >}}<a class="s-link-a emojify" href="https://www.buzzfeed.com/hamzashaban/18f-techies-in-washington-plan-to-deal-with-trump" target="_blank" rel="nofollow">How Techies In Washington Plan To Deal With Trump’s Presidency</a>
 >     </p>
 >     
 >     <div class="s-link-desc emojify">
@@ -205,7 +204,7 @@ We are driven by the mission of giving the government the tools to more effectiv
 
 
 > <div class="s-element-container lf-rich-block lf-block">
->   <a id="undefined" class="fycon-action-view"></a>{% img="https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=http%3A%2F%2Fstatic.politico.com%2F99%2F0b%2F9bb158554137af581c1e1061a409%2F161123-trump-obama-gty-1160.jpg" alt="Thumbnail for Obama-era techies weigh staying under Trump" %}<a class="s-link-a emojify" href="http://politi.co/2fsBJ4u" target="_blank" rel="nofollow">Obama-era techies weigh staying under Trump</a>
+>   <a id="undefined" class="fycon-action-view"></a>{{< legacy-img src="https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=http%3A%2F%2Fstatic.politico.com%2F99%2F0b%2F9bb158554137af581c1e1061a409%2F161123-trump-obama-gty-1160.jpg" alt="Thumbnail for Obama-era techies weigh staying under Trump" >}}<a class="s-link-a emojify" href="http://politi.co/2fsBJ4u" target="_blank" rel="nofollow">Obama-era techies weigh staying under Trump</a>
 > </div>
 > 
 > <div class="s-element-container lf-rich-block lf-block">

@@ -1,5 +1,4 @@
 ---
-url: /2016/09/20/analytics-success-series-health-resources-services-administration/
 date: 2016-09-20 2:00:17 -0400
 title: 'Analytics Success Series: Health Resources & Services Administration'
 summary: 'Health Resources and Services Administration&rsquo;s Analytics Success: Using Analytics to Reduce Content and Improve User Experience  Unlike out-of-town guests, you want your web visitors to stick around. So, if your site continues to see a bounce rate that stubbornly refuses to drop&mdash;it&rsquo;s time to make some changes. That&rsquo;s exactly what happened to the Health Resources'
@@ -32,7 +31,7 @@ That’s exactly what happened to the Health Resources and Services Administrati
 
 Those facts alone sounded alarm bells. But then we dug deeper.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau’s (MCHB) homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau’s (MCHB) homepage." >}}
 
 ## Uncovering the Problem(s)
 

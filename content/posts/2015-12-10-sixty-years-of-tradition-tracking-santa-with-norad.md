@@ -1,5 +1,4 @@
 ---
-url: /2015/12/10/sixty-years-of-tradition-tracking-santa-with-norad/
 date: 2015-12-10 11:46:12 -0400
 title: 'Sixty Years of Tradition: Tracking Santa with NORAD'
 summary: '&#8216;Twas the night before Christmas, when all through the house, Not a creature was stirring, not even a mouse; The stockings were hung by the chimney with care, In hopes that St. Nicholas soon would be there; The children were nestled all snug in their beds;&#8230; &#8230;wondering when Santa was coming? &ldquo;Let&rsquo;s check!&rdquo; they all'
@@ -32,7 +31,7 @@ So they pulled out their smartphones and tracked Santa’s flight,
   
 and played the app’s games ’til close to midnight.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-337-Windows-10-NORAD-Santa-Tracker-app-2015-60th-anniversary-home-screen.jpg" alt="The home screen of the Windows 10 app for the NORAD Santa Tracker." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-337-Windows-10-NORAD-Santa-Tracker-app-2015-60th-anniversary-home-screen.jpg" alt="The home screen of the Windows 10 app for the NORAD Santa Tracker." >}}
 
 [North American Aerospace Defense Command](https://en.wikipedia.org/wiki/North_American_Aerospace_Defense_Command) (NORAD) in Colorado Springs, Colorado, has been surveilling and tracking Santa’s journey in the sky since 1955. “**NORAD Tracks Santa&#8221;** is an annual Christmas entertainment program. Every year on Christmas Eve, &#8220;NORAD Tracks Santa&#8221; follows Santa Claus as he leaves the North Pole and delivers presents to children around the world.
 
@@ -42,7 +41,7 @@ Starting at 12:01 a.m. MST (2:01 a.m. EST) on December 24, website visitors can 
 
 The magic starts when you click on “**Let’s go!**” Explore “**Santa’s Village**” at leisure. Visit the library to learn about Santa, his magic sleigh, and holiday traditions around the world. You can visit the **Arcade** and play a new game every day—make some new friends and impress them with your problem solving skills. Listen to Santa&#8217;s favorite holiday songs at **The Music Stage**.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-337-Windows-10-NORAD-Santa-Tracker-app-2015-60th-anniversary-Santas-Village-screen.jpg" alt="The Santa's Village screen of the Windows 10 app for the NORAD Santa Tracker." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-337-Windows-10-NORAD-Santa-Tracker-app-2015-60th-anniversary-Santas-Village-screen.jpg" alt="The Santa's Village screen of the Windows 10 app for the NORAD Santa Tracker." >}}
 
 Don’t forget your popcorn when you visit the **Theater** to enjoy movies on Santa and NORAD and the gift shop. Visit **NORAD HQ** to know more about NORAD’s mission, and learn how they track Santa’s flight around the world. In “Secret Santa Files,” view history and highlights of the program’s 60-year history tracking Santa’s yuletide journey.
 

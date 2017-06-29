@@ -1,5 +1,4 @@
 ---
-url: /2016/05/16/customer-experience-performance-metrics-two-sides-to-every-story/
 date: 2016-05-16 10:00:06 -0400
 title: 'Customer Experience Performance Metrics: Two Sides to Every Story'
 summary: Performance metrics, targets and public reporting are not new in government; however, customer-oriented metrics have been underutilized and under-reported publicly for a long time. Today, as the principles of customer experience as a management discipline gain momentum across the federal government, there is an opportunity to use data to tell more of the story where
@@ -18,7 +17,7 @@ tag:
 
 Performance metrics, targets and public reporting are not new in government; however, customer-oriented metrics have been underutilized and under-reported publicly for a long time. Today, as the principles of customer experience as a management discipline gain momentum across the federal government, there is an opportunity to use data to tell more of the story where customers&#8217; experiences are concerned.
 
-## Balancing Internal and External Customer Experience Metrics {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Disbalance-high-resolution-3D-image-Aeya-iStock-Thinkstock-510006292.jpg" alt="Metal balls balance on a plank of wood." %} 
+## Balancing Internal and External Customer Experience Metrics {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Disbalance-high-resolution-3D-image-Aeya-iStock-Thinkstock-510006292.jpg" alt="Metal balls balance on a plank of wood." caption="" >}} 
 
 Internal and external metrics are needed to tell a more holistic story, versus internal data alone or external data alone. Internal data originates within an agency through operational channels. External data comes straight from customers.
 

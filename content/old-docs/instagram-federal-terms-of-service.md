@@ -1,0 +1,27 @@
+---
+url: /resources/instagram-federal-terms-of-service/
+type: old_doc
+date: 2015-09-17 10:15:25 -0400
+title: Instagram Federal Terms of Service
+summary: 'Instagram is an online mobile photo-sharing, video-sharing and social networking service that enables its users to take pictures and videos, and share them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr and Flickr. View Instagram Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible'
+authors:
+  - andreanocesigritz
+---
+
+[Instagram](https://instagram.com) is an online mobile photo-sharing, video-sharing and social networking service that enables its users to take pictures and videos, and share them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr and Flickr.
+
+<a class="button" style="color: #000000" href="https://help.instagram.com/478745558852511">View Instagram Federal Terms of Service</a>
+
+## Related Links
+
+  * [What is a Terms of Service Agreement?](https://www.WHATEVER/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/)
+  * [Information on Federal Compatible Terms of Service](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/)
+  * [List of Federal Terms of Service Agreements](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/)
+
+ 
+
+* * *
+
+ 
+
+See more [DigitalGov Resources](https://www.WHATEVER/resources/)

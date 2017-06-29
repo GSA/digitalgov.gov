@@ -1,8 +1,7 @@
 ---
-url: /2013/11/21/coast-guard-hswl-app/
 date: 2013-11-21 10:02:20 -0400
 title: Coast Guard HSWL App
-summary: 'Are you active or retired Coast Guard &mdash; or related to someone who is? If so, you&rsquo;ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from USCG&rsquo;s Office of Work-Life Programs. The'
+summary: 'Are you active or retired Coast Guard &mdash; or related to someone who is? If so, you&rsquo;ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from USCG&rsquo;s Office of Work-Life Programs.'
 authors:
   - genevieve-contey
 categories:
@@ -14,7 +13,7 @@ tag:
 
 Are you active or retired Coast Guard — or related to someone who is? If so, you’ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from [USCG’s Office of Work-Life Programs](http://www.uscg.mil/HSWL/).
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Screenshot_USCG-HSWL-on-the-App-Store-on-iTunes.png" alt="Home Screen of USCG HSWL app showing the program options" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Screenshot_USCG-HSWL-on-the-App-Store-on-iTunes.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Screenshot_USCG-HSWL-on-the-App-Store-on-iTunes.png" alt="Home Screen of USCG HSWL app showing the program options" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Screenshot_USCG-HSWL-on-the-App-Store-on-iTunes.png)
 
 The app, available for [iPhone](https://itunes.apple.com/us/app/uscg-hswl/id669218420?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.ravensolutions.coastguard&hl=en) phones, is a one-stop information portal for many of the support services Coasties and their dependents might need. Among its broad offerings, the app helps users:
 

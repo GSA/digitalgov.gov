@@ -1,5 +1,4 @@
 ---
-url: /2014/05/28/government-it-is-a-small-world/
 date: 2014-05-28 10:20:48 -0400
 title: Government IT Is a Small World
 summary: 'The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA&rsquo;s long-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT'
@@ -11,7 +10,7 @@ tag:
   - data.gov
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-167-Connecting-to-the-World-David-H-Seymour-iStock-Thinkstock-140396287.jpg" alt="A USB cord rests on a clear globe and computer keyboard" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-167-Connecting-to-the-World-David-H-Seymour-iStock-Thinkstock-140396287.jpg" alt="A USB cord rests on a clear globe and computer keyboard" caption="" >}} 
 
 The world is getting smaller all the time for those who deal with issues of information technology (IT) in government. GSA’s long-standing relationships with high-level government IT officials in other countries are becoming more and more useful to the smooth functioning of government. With the widespread use of the Internet to conduct government business, IT concerns are no longer limited to local systems—they are increasingly international in scope.
 

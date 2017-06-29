@@ -1,14 +1,13 @@
 ---
-url: /2012/07/11/aids-gov-responsive-design/
 date: 2012-07-11 2:41:20 -0400
 title: AIDS.gov Responsive Design
-summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the webinar
+summary: Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov. AIDS.gov implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. View the
 authors:
   - jparcell
 categories:
   - Design
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - HHS
@@ -17,7 +16,7 @@ tag:
   - responsive web design
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Aids.gov" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Aids.gov" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
   
 _ 
 

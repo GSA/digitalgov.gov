@@ -1,5 +1,4 @@
 ---
-url: /2016/02/19/designing-user-friendly-educational-and-engaging-mobile-gaming-apps/
 date: 2016-02-19 12:20:20 -0400
 title: Designing User-Friendly, Educational and Engaging Mobile Gaming Apps
 summary: How do you reach audiences with important health information and leave users asking for more? Is it enough to create responsive websites written in plain language or to design apps with health tips optimized for handheld devices? While those ideas are a step in the right direction, we do not live in a world where,
@@ -37,7 +36,7 @@ The [_Health IQ_ app](http://www.cdc.gov/mobile/applications/healthiq/) is a fun
 
 The goal of the _Health IQ_ application is to help audiences learn about health and science in an interactive way that rewards players for answering questions correctly and provides brief explanations about each topic to help players learn while having fun.
 
-{% img="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ\_1.jpg" alt="Screen capture of the Health IQ app" %}{% img="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ\_4.jpg" alt="Screen capture of the Health IQ app" %}{% img="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ\_2.jpg" alt="Screen capture of the Health IQ app" %}{% img="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ\_3.jpg" alt="Screen capture of the Health IQ app" %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ_1.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ_4.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ_2.jpg" alt="Screen capture of the Health IQ app" >}}{{< legacy-img src="https://www.WHATEVER/files/2016/02/150-x-266-CDC\_Health\_IQ_3.jpg" alt="Screen capture of the Health IQ app" >}}
 
 ## Solve the Outbreak Tablet Application
 
@@ -47,7 +46,7 @@ At CDC, when new outbreaks occur, disease detectives have to be ready at a momen
 
 In the _Solve the Outbreak_ app, users get to decide what to do: Should they quarantine the village? Talk to people who are sick? Ask for more lab results? The better their answers, the higher their scores. Users begin as a trainee and earn points and badges by solving cases, with the goal of earning the top rank: Disease Detective.
 
-{% img="https://www.WHATEVER/files/2016/02/600-x-224-CDC\_Solve\_Outbreak-screens.jpg" alt="Two screen captures of the Solve the Outbreak tablet app." %}
+{{< legacy-img src="https://www.WHATEVER/files/2016/02/600-x-224-CDC\_Solve\_Outbreak-screens.jpg" alt="Two screen captures of the Solve the Outbreak tablet app." >}}
 
 ## Building Engaging Gaming Applications
 
@@ -65,10 +64,10 @@ Download the apps and try them for yourself!
 
 **Health IQ**
 
-[{% img="https://www.WHATEVER/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download" %}](https://play.google.com/store/apps/details?id=gov.cdc.healthiq) [{% img="https://www.WHATEVER/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." %}](https://itunes.apple.com/us/app/cdc-health-iq/id885605342?mt=8)
+[{{< legacy-img src="https://www.WHATEVER/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download" >}}](https://play.google.com/store/apps/details?id=gov.cdc.healthiq) [{{< legacy-img src="https://www.WHATEVER/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/cdc-health-iq/id885605342?mt=8)
 
 **Solve the Outbreak**
 
-[{% img="https://www.WHATEVER/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download." %}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{% img="https://www.WHATEVER/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." %}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)
+[{{< legacy-img src="https://www.WHATEVER/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download." >}}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{{< legacy-img src="https://www.WHATEVER/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)
 
 _**Alex Casanova** is the Innovations Team Lead, Digital Media Branch, in the Division of Public Affairs, Office of the Associate Director for Communications at the Centers for Disease Control and Prevention (CDC)._

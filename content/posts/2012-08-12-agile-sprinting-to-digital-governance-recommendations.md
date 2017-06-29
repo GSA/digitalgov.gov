@@ -1,8 +1,7 @@
 ---
-url: /2012/08/12/agile-sprinting-to-digital-governance-recommendations/
 date: 2012-08-12 3:51:19 -0400
 title: Agile “Sprinting” to Digital Governance Recommendations
-summary: 'To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the Digital Government Strategy tasked the Digital Services Advisory Group with &ldquo;recommending guidelines on agency-wide governance structure for developing and delivering'
+summary: 'To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the Digital Government Strategy tasked the Digital Services Advisory Group with &ldquo;recommending guidelines on agency-wide governance structure for developing and'
 authors:
   - jparcell
 categories:
@@ -14,7 +13,7 @@ tag:
   - USDA
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/sprint-225x300.jpg" alt="Photo of an Digital Services Innovation Center Agile Governance Sprint from August 2012. " %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/sprint-225x300.jpg)To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#intra-agency-governance) tasked the [Digital Services Advisory Group](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#digital-services-center) with “recommending guidelines on agency-wide governance structure for developing and delivering digital services and managing data.”
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/sprint-225x300.jpg" alt="Photo of an Digital Services Innovation Center Agile Governance Sprint from August 2012. " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/sprint-225x300.jpg)To help agencies produce better decision-making across the organization about how to best spend resources on digital services and manage their data, the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#intra-agency-governance) tasked the [Digital Services Advisory Group](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#digital-services-center) with “recommending guidelines on agency-wide governance structure for developing and delivering digital services and managing data.”
 
 A clear governance structure helps with digital service efficiency and quality of service. Agencies can use the [digital services governance recommendations](http://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations) to &#8220;establish an agency-wide governance structure for developing and delivering digital services” by November 23.
 

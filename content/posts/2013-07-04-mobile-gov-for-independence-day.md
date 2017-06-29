@@ -1,8 +1,7 @@
 ---
-url: /2013/07/04/mobile-gov-for-independence-day/
 date: 2013-07-04 9:28:26 -0400
 title: Mobile Gov for Independence Day!
-summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun. If you&#8217;re worried about the weather you can check out the National Weather Service mobile website. If the heat is'
+summary: 'Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun. If you&#8217;re worried about the weather you can check out the National Weather Service mobile website. If the heat'
 categories:
   - Mobile
 tag:
@@ -12,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/capitol-fireworks01-450x300.jpg" alt="Fireworks go off around the capitol on the 4th of July" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/capitol-fireworks01.jpg)Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/capitol-fireworks01-450x300.jpg" alt="Fireworks go off around the capitol on the 4th of July" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/capitol-fireworks01.jpg)Gearing up for the Fourth? Here are some anytime, anywhere government apps that can help make celebrating the United States easier and more fun.
 
   * If you&#8217;re worried about the weather you can check out the [National Weather Service](http://mobile.weather.gov/#typeLocation "National Weather Service") mobile website. If the heat is a concern, the OSHA [Heat Index Safety Tool](http://www.osha.gov/SLTC/heatillness/heat_index/heat_app.html "Heat Safety Tool ") will tell you the heat index of your location and list the precautions you need to take in order to stay safe.
   * Grilling out or having a picnic? Use [Ask Karen](http://apps.usa.gov/ask-karen.shtml) from USDA to get answers to all food safety questions at anytime.

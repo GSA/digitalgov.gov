@@ -1,5 +1,4 @@
 ---
-url: /2014/03/20/wisqars-mobile-ipad-app-cdc/
 date: 2014-03-20 1:00:04 -0400
 title: Get a grip on injury, death rates with new mobile app from CDC
 summary: 'Need to make a pitch for injury prevention? About to give an impromptu public health presentation that can benefit from a few sobering data points about leading causes of death in your state? (Or maybe you just have a keen interest in the macabre while waiting for the bus.) Well, go grab your iPads: The Center'
@@ -25,11 +24,11 @@ Well, go grab your iPads: The [Center for Disease Control&#8217;s](http://www.cd
   * Traumatic brain injury; and
   * Suicide and homicide.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-600.jpg" alt="WISQARS app showing US total death rates across four charts" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-600.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-600.jpg" alt="WISQARS app showing US total death rates across four charts" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-600.jpg)
 
 As an added plus: The maps and charts can be adjusted for enhanced viewing and are easy to read and understand. Want to know about the leading cause of death in California? Just find and tap the state on the national map, and you&#8217;ll get three charts along the bottom of the screen that have sliced and diced the data into demographic buckets. (BTW, from 2008-2010, it was heart disease at 25.45 percent for &#8220;all persons.&#8221;)
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-calif-600.jpg" alt="WISQARS mobile app showing death rates for California across 4 charts" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-calif-600.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-calif-600.jpg" alt="WISQARS mobile app showing death rates for California across 4 charts" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/WISQARS-mobile-app-calif-600.jpg)
 
 Death might be an inescapable fact of life, but having the facts when and where you need them can make a difference in helping others, and ourselves, live as long and as healthy as possible. Take the WISQARS Mobile app for a spin, and you might be surprised what you learn.
 

@@ -1,5 +1,4 @@
 ---
-url: /2014/06/06/consumer-action-handbook-usability-case-study/
 date: 2014-06-06 10:00:32 -0400
 title: 'Consumer Action Handbook &#8211; Usability Case Study'
 summary: 'The annual Consumer Action Handbook, from GSA, is a guide to making smarter decisions with your money. In both its print and online formats, it includes a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory. But the most popular part of the book is the'
@@ -8,7 +7,7 @@ authors:
   - marietta-jelks
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -27,7 +26,7 @@ The team—composed of developers, designers, accessibility experts, a project m
 
 For each of the steps below, visitors would add certain pieces of information, like the date they purchased the product, or a manufacturing number.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-395-Steps-done-on-the-website.jpg" alt="Steps 1 through 5 done on the website" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/933-x-614-Steps-done-on-the-website.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-395-Steps-done-on-the-website.jpg" alt="Steps 1 through 5 done on the website" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/933-x-614-Steps-done-on-the-website.jpg)
 
 From there, wireframes of the pages were created and the Wizard was broken into 5 steps:
 
@@ -39,15 +38,15 @@ From there, wireframes of the pages were created and the Wizard was broken into 
 
 The Complaint Wizard also features “help” text and examples associated with a light bulb icon, so that visitors have more knowledge of what is intended to be input (shown below).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-200-Step-1-Information-about-product-or-service-2-annotated.jpg" alt="Annotated screen capture of Step 1" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-200-Step-1-Information-about-product-or-service-2-annotated.jpg" alt="Annotated screen capture of Step 1" >}}
 
 After five months of refinement, the Wizard was tested internally. The results included valuable feedback, both positive and negative. For instance, several people noted that the purchase date for a product shouldn’t be able to be dated for a future time, since a complaint letter would only be necessary for something purchased in the past. To solve this problem, the team created error messages with the date selectors to prevent invalid dates (see below).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-385-when-did-the-transaction-happen-3-annotated.jpg" alt="Annotated screen capture date options" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-385-when-did-the-transaction-happen-3-annotated.jpg" alt="Annotated screen capture date options" >}}
 
 Another fix was to add a category, “Getting a replacement”, as an option consumers could request for their problems. A general theme in the feedback was that people didn’t understand how to use the navigation tools (e.g.”back” and “next” buttons, “Step 2, Step 3” etc.) of the Wizard. To clarify, the team added a “quick tips” box on the left side of the screen to remind users how to use them (shown below).
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-305-Consumer-Complaint-Letter-Wizard-5-annotated.jpg" alt="Annotated screen capture of Consumer Complaint Letter Wizard" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/945-x-480-Consumer-Complaint-Letter-Wizard-5-annotated.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-305-Consumer-Complaint-Letter-Wizard-5-annotated.jpg" alt="Annotated screen capture of Consumer Complaint Letter Wizard" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/945-x-480-Consumer-Complaint-Letter-Wizard-5-annotated.jpg)
 
 Take a look at the [Consumer Complaint Letter Wizard](http://www.google.com/url?q=http%3A%2F%2Fwww.usa.gov%2Ftopics%2Fconsumer%2Fcomplaint%2Fcomplaint-letter-wizard.shtml&sa=D&sntz=1&usg=AFQjCNE1DoDM-YWX_odFdsDH8WXsYmW-zw) yourself to get a better idea of the process and experience the new, more usable online tool!
 

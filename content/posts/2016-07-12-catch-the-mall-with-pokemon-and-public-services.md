@@ -1,5 +1,4 @@
 ---
-url: /2016/07/12/catch-the-mall-with-pokemon-and-public-services/
 date: 2016-07-12 3:58:53 -0400
 title: Catch the Mall! With Pokemon and Public Services
 summary: '&#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on'
@@ -22,7 +21,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-&#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on scooters. Kids on bikes. 20-somethings walking in packs. How are other small towns faring? Awesome to be outside right now building a community over something so silly and fun. Suddenly, things aren&#8217;t a ghost town&#8230;and it&#8217;s only Monday morning…&#8221; {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/250-x-445-Pidgey-and-NPS-at-Washington-Monument.jpg" alt="Pidgey and NPS at the Washington Monument in Washington, D.C." %} 
+&#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on scooters. Kids on bikes. 20-somethings walking in packs. How are other small towns faring? Awesome to be outside right now building a community over something so silly and fun. Suddenly, things aren&#8217;t a ghost town&#8230;and it&#8217;s only Monday morning…&#8221; {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/250-x-445-Pidgey-and-NPS-at-Washington-Monument.jpg" alt="Pidgey and NPS at the Washington Monument in Washington, D.C." caption="" >}} 
 
 Of course this Facebook commenter is referring to the phenom that is Pokémon Go, a free gaming app that combines augmented reality and mapping to gamify exploring the real world around you. And it’s everywhere, with players coming to government buildings and public spaces in droves to play it.
 
@@ -40,7 +39,7 @@ For years, agencies like the [National Park Service](https://www.nps.gov/) have 
   </p>
 </blockquote>
 
- {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/250-x-445-Jigglypuff-and-NPS-at-Washington-Monument.jpg" alt="Jigglypuff and NPS at the Washington Monument in Washington, D.C." %} 
+ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/250-x-445-Jigglypuff-and-NPS-at-Washington-Monument.jpg" alt="Jigglypuff and NPS at the Washington Monument in Washington, D.C." caption="" >}} 
 
 In Washington, D.C., the National Mall and Memorial Parks is [trying to guide the experience of Pokémon: Go users](https://www.facebook.com/NationalMallNPS/?fref=nf) by going out and engaging with players directly about the game and the park. They’re also exploring creative ways to entice players to gather in certain areas where park rangers can then lead the groups on an interpretive National Mall Pokémon Hunt, explaining the meaning behind the various memorials and monuments they pass along the way.
 
@@ -54,6 +53,6 @@ Things are getting weird, though. Here are a few other approaches to the Pokémo
   * The Joint Base Lewis McChord official Facebook page [posted a notice as a precaution](https://www.facebook.com/JBLewisMcChord/photos/a.303359376198.152088.288818151198/10153490511346199/) for budding Pokémon Trainers.
   * And let’s not forget the awareness training for security guards across the government who awoke one day to flocks of visitors approaching gates with their cameras ready to take photos &#8212; which is frowned upon.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/581-x-483-Joint-Base-Lewis-McChord-Pokemon-GO.jpg" alt="Pokémon Go logo and the Joint Base Lewis-McChord warning, "DO NOT chase Pokémon into controlled or restricted areas, office buildings, or homes on base."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/581-x-483-Joint-Base-Lewis-McChord-Pokemon-GO.jpg" alt="Pokémon Go logo and the Joint Base Lewis-McChord warning, DO NOT chase Pokémon into controlled or restricted areas, office buildings, or homes on base." >}}
 
 While there are of course considerations and guidelines that we’re working to understand, ultimately, this phenomenon provides a golden opportunity for government agencies around the country to engage meaningfully with our country’s tech-savvy youth (or young at heart), a demographic many of us have struggled to connect with. The audience is out there exploring our public lands, museums, sidewalks, neighborhoods, and parks. As some of these examples have shown, they are very receptive to collecting more than just a jigglypuff.

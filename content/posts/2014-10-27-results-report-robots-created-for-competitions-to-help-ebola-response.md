@@ -1,5 +1,4 @@
 ---
-url: /2014/10/27/results-report-robots-created-for-competitions-to-help-ebola-response/
 date: 2014-10-27 10:50:18 -0400
 title: 'Results Report: Robots Created for Competitions to Help Ebola Response'
 summary: 'Challenge competitions were recently highlighted as two potential solutions to help with the Ebola crisis responses. The first is a grand challenge launched Oct. 17, 2014, by the United States Agency for International Development (USAID): Ebola: A Grand Challenge for Development. The goal: To help health care workers on the front lines provide better care and stop'
@@ -36,7 +35,7 @@ An excerpt from the article:
 > 
 > Still, he has been considering ways to repurpose an existing robot project as a tool for more safely performing decontamination tasks, like spraying bleach solution on clothing exposed to infected body fluids.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
 
  
 

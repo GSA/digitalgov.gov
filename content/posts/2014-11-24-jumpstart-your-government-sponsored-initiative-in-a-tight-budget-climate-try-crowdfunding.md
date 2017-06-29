@@ -1,5 +1,4 @@
 ---
-url: /2014/11/24/jumpstart-your-government-sponsored-initiative-in-a-tight-budget-climate-try-crowdfunding/
 date: 2014-11-24 11:05:02 -0400
 title: 'Jumpstart Your Government-Sponsored Initiative in a Tight Budget Climate: Try Crowdfunding'
 summary: 'There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State&rsquo;s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world&rsquo;s toughest'
@@ -14,7 +13,7 @@ tag:
   - U.S. Department of State
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Magnifying-Glass-Concept-Tashatuvango-iStock-Thinkstock-459962367.jpg" alt="Magnifying Glass Concept" caption="" >}} 
 
 There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State’s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world’s toughest challenges. Over 30 projects from around the world, including from the United States, were selected for [_AEIF 2.0: Accelerating Social Impact_](http://www.rockethub.com/projects/partner/socialimpact)_._ By participating in the crowdfunding projects, these alumni found alternative funding and investment options beyond the U.S. government, told their stories, built the capacity of their organizations, engaged local communities, and developed sustainable solutions.
 
@@ -28,7 +27,7 @@ Crowdfunding is accessible to anyone. Depending on the selected CFP (there are o
 
 **How does crowdfunding work?**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-180-How-does-crowdfunding-work-arrow-graphic.jpg" alt=""How does crowdfunding work?" arrow graphic showing 5 phases: 1) develop a strategic plan, 2) select a crowdfunding platform, 3) train participants, 4) launch the project publicly, and 5) measure success." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-180-How-does-crowdfunding-work-arrow-graphic.jpg" alt="How does crowdfunding work? arrow graphic showing 5 phases: 1) develop a strategic plan, 2) select a crowdfunding platform, 3) train participants, 4) launch the project publicly, and 5) measure success." >}}
 
 **Best Practices in Crowdfunding**
 

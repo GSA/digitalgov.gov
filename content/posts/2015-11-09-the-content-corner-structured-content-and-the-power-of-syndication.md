@@ -1,5 +1,4 @@
 ---
-url: /2015/11/09/the-content-corner-structured-content-and-the-power-of-syndication/
 date: 2015-11-09 9:52:53 -0400
 title: 'The Content Corner: Structured Content and the Power of Syndication'
 summary: 'A recent DigitalGov webinar on syndicated content and the recent achievements of the Centers for Disease Control and Prevention helped open my eyes even wider to the possibilities of open and structured content. By offering critical health information via syndication, CDC and other Department of Health and Human Services agencies are helping resource-strapped local agencies share'
@@ -31,7 +30,7 @@ tag:
 A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content](https://www.WHATEVER/tag/open-and-structured-content-models/). By offering critical health information via [syndication](https://www.WHATEVER/2012/11/05/centers-for-disease-control-content-syndication/), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
 
 <p>
-  {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" %}
+  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}
 </p>
 
 <h2>
@@ -55,7 +54,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
 </ul>
 
 <p>
-  CDC and other agencies within HHS realized the broad appeal of their health and public safety content and were able to leverage their content management systems and APIs to develop Web content “storefronts”. These storefronts, which are also offered by the National Institutes of Health</span> and the <span style="font-weight: 400">Food and Drug Administration, allow other agencies and organizations to browse a variety of health-related content that can be added to their own websites.<br /> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}</p> 
+  CDC and other agencies within HHS realized the broad appeal of their health and public safety content and were able to leverage their content management systems and APIs to develop Web content “storefronts”. These storefronts, which are also offered by the National Institutes of Health</span> and the <span style="font-weight: 400">Food and Drug Administration, allow other agencies and organizations to browse a variety of health-related content that can be added to their own websites.<br /> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" >}}</p> 
   
   <p>
     <a href="https://digitalmedia.hhs.gov/tobacco" target="_blank">FDA’s Center for Tobacco Products</a> provides a wide array of scientific-backed content related to smoking cessation or prevention, especially targeting youth smoking.
@@ -99,7 +98,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   
   <h2>
     Helping Others Have Mobile Moments
-  </h2> {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" %} 
+  </h2> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
   
   <p>
     Another powerful aspect of the <a href="https://www.WHATEVER/2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="https://www.WHATEVER/2013/06/11/responsive-design/" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).

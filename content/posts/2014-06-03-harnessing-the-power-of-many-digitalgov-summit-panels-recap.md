@@ -1,5 +1,4 @@
 ---
-url: /2014/06/03/harnessing-the-power-of-many-digitalgov-summit-panels-recap/
 date: 2014-06-03 3:14:11 -0400
 title: Harnessing the Power of Many—DigitalGov Summit Recap
 summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on performance analysis, customer service across channels, and public private partnerships. &ldquo;The challenges are real,&rdquo; said Parcell, who quoted President Obama&#8217;s famous salmon'
@@ -27,7 +26,7 @@ tag:
   - United States Census Bureau
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
 
 At the [DigitalGov Citizen Services Summit](https://www.WHATEVER/2014/05/30/digitalgov-citizen-services-summit-a-success/) last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on [performance analysis](https://www.WHATEVER/2014/06/03/digitalgov-summit-panels-recap/), [customer service across channels](https://www.WHATEVER/2014/06/05/the-importance-of-cross-channel-customer-service-digitalgov-summit-recap/ "The Importance of Cross-Channel Customer Service—DigitalGov Summit Recap"), and [public private partnerships](https://www.WHATEVER/2014/06/05/overcoming-barriers-digitalgov-summit-recap/ "Overcoming Barriers—DigitalGov Summit Recap").
 

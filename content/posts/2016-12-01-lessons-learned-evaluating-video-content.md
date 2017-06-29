@@ -1,5 +1,4 @@
 ---
-url: /2016/12/01/lessons-learned-evaluating-video-content/
 date: 2016-12-01 12:00:23 -0400
 title: 'Lessons Learned: Evaluating Video Content'
 summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization&rsquo;s'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
   - Video
 tag:
@@ -24,7 +23,7 @@ tag:
   - video
 ---
 
-If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s videos. {% img="https://www.WHATEVER/files/2017/03/600-x-400-Time-to-evaluate-concept-clock-donskarpo-iStock-Thinkstock-500832345.jpg" alt="Stopwatch with the words, "Time to Evaluate."" %} 
+If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s videos. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-400-Time-to-evaluate-concept-clock-donskarpo-iStock-Thinkstock-500832345.jpg" alt="Stopwatch with the words, Time to Evaluate." caption="" >}} 
 
 As a member of the Service Design practice at the Consumer Financial Protection Bureau (CFPB), I was tasked with a research project evaluating how non-consumers interact with the CFPB in regards to complaint data. This audience included companies, federal and state level government agencies, and congressional offices. Each group accesses a “portal” to either respond to complaints (companies) or to have access to complaint data (congressional offices and government agencies). The tasks that are performed in each respective portal vary dependent upon responsibilities.
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/03/25/http-vs-https-is-it-time-for-a-change/
 date: 2015-03-25 10:00:43 -0400
 title: 'HTTP vs HTTPS: Is it Time For a Change?'
 summary: Data. Security. Privacy. These are the cornerstones of many discussions concerning technology. The security of citizen information when interacting with the federal government will be increasingly important as we progress into the future. A few agencies have begun to use Hyper Text Transfer Protocol Secure (HTTPS) in lieu of the standard HTTP. For these agencies,
@@ -16,7 +15,7 @@ tag:
   - U.S. Department of State
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}} 
 
 Data. Security. Privacy.
 
@@ -38,7 +37,7 @@ HTTPS provides a [secure, fast and private connection](https://18f.gsa.gov/2014/
 
 On the other end of the argument, there is the belief that not every website needs HTTPS because not every agency deals with the transmission of sensitive information or PII. Some believe that HTTPS is an option, but you must consider things like certificate maintenance before making the decision.
 
-When the question of HTTP vs HTTPS was posed to agencies via the [Content Managers Listserv](https://www.WHATEVER/communities/web-managers-forum/), a few of the responses hinted at the difficulty and extra costs in terms of time and resources that would be needed for an extra level of encryption. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-188-secure-socket-layer-Creative-abstract-SSL-nicolasboivin-iStock-Thinkstock-ThinkstockPhotos-186906766.jpg" alt="Creative abstract SSL" %} 
+When the question of HTTP vs HTTPS was posed to agencies via the [Content Managers Listserv](https://www.WHATEVER/communities/web-managers-forum/), a few of the responses hinted at the difficulty and extra costs in terms of time and resources that would be needed for an extra level of encryption. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-188-secure-socket-layer-Creative-abstract-SSL-nicolasboivin-iStock-Thinkstock-ThinkstockPhotos-186906766.jpg" alt="Creative abstract SSL" caption="" >}} 
 
 SSL certificates are files that encrypt the connection from a web server to a web browser. Certificate maintenance requires the installation, configuration and rotation of SSL certificates to ensure that a website&#8217;s information is encrypted and up to date. The management of these certificates has high operational costs.
 

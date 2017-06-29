@@ -1,5 +1,4 @@
 ---
-url: /2014/10/30/hhs-conquers-tables-in-a-responsive-design/
 date: 2014-10-30 10:00:13 -0400
 title: HHS Conquers Tables in a Responsive Design
 summary: This year, we moved HHS.gov to a responsive template to ensure that users accessing our site in a mobile environment had the best possible experience. Our department faced several challenges in moving a site the size of HHS.gov into a responsive template and one of those challenges surrounded our need to make tables work in
@@ -29,7 +28,7 @@ In considering our goals, we determined that we needed an approach that allowed 
   1. **Our html is well coded because of our adherence to 508 guidelines.** We do not have a lot of “junk” html on our sites in the base code. Additionally, our tables are coded using “super” html so that all row and column scopes are properly defined and no tables are nested, so we were confident that when we implemented a CSS solution, the code would “behave” properly with the right definitions for the style.
   2. **We trusted the power of the swipe in a mobile environment.** We recognized that people intuitively use the swipe to access information on mobile, so if we could implement a CSS code that acknowledged that swipe power and allowed the user to use the device in a way that is natural to them in accessing the information, then we would achieve our goal of making tables mobile friendly.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-428-HHS-table-code.jpg" alt="600-x-428-HHS-table-code" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-428-HHS-table-code.jpg" alt="600-x-428-HHS-table-code" >}}
 
 We started with the “table” tag and applied the “block” attribute to it. This allowed the table to show in a block within the mobile environment. Our second step is to control the overflow of the table so that on the Y axis it is hidden, i.e. no vertical scroll bar, and on the X access it is “auto” so if needed a scroll bar will appear so that the user can swipe right and left.
 

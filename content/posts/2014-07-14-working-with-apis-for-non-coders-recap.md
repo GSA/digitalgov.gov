@@ -1,5 +1,4 @@
 ---
-url: /2014/07/14/working-with-apis-for-non-coders-recap/
 date: 2014-07-14 10:00:00 -0400
 title: Working with APIs for Non-Coders Recap
 summary: 'In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSON, APIs, and Open Data&mdash;Without Writing Any Code,&#8221; federal practitioners and supporters interested in open data attended an in-person workshop, led by Eric Mill, a key developer on GSA&#8217;s 18f team. This event was especially targeted to non-developers and explored the basics of APIs,'
@@ -15,7 +14,7 @@ tag:
 
 In a recent event titled: &#8220;Intro to APIs: Working with URLs, JSON, APIs, and Open Data—Without Writing Any Code,&#8221; federal practitioners and supporters interested in open data attended an in-person workshop, led by Eric Mill, a key developer on GSA&#8217;s 18f team. This event was especially targeted to non-developers and explored the basics of APIs, [using the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge! Below are some takeaways for those who weren’t able to attend the event.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Sunlight-Foundation-Congress-API.jpg" alt="600 x 400 Sunlight Foundation Congress API" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Sunlight-Foundation-Congress-API.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Sunlight-Foundation-Congress-API.jpg" alt="600 x 400 Sunlight Foundation Congress API" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Sunlight-Foundation-Congress-API.jpg)
 
 ## Understanding the anatomy of a URL
 
@@ -41,13 +40,13 @@ Lastly, by adding certain paths or values in your URL, you can narrow down the A
 
 The [URL below for the Congress API](https://congress.api.sunlightfoundation.com/votes?apikey=opendataday&fields=voted_at,chamber,result,required,question,breakdown.total&order=voted_at_&breakdown.total.Yea__gte=70&chamber=senate) has the same features as the Flickr URL mentioned above.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-52-congress-api-url-in-color.jpg" alt="An image of the very, very long color-coded URL to access the Congress API" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-52-congress-api-url-in-color.jpg" alt="An image of the very, very long color-coded URL to access the Congress API" >}}
 
  
 
 Entering this URL into a browser then returns information specific to the request:
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/425-x-620-Nomination-code-API.jpg" alt="425 x 620 Nomination code API" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/425-x-620-Nomination-code-API.jpg" alt="425 x 620 Nomination code API" >}}
 
 ## Simplify your tabular data by converting your JSON file into a CSV
 

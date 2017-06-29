@@ -1,8 +1,7 @@
 ---
-url: /2015/06/29/digitalgov-podcast-dap-delivers-data-for-4000-websites/
 date: 2015-06-29 11:10:56 -0400
 title: 'DigitalGov Podcast: DAP Delivers Data for 4,000 Websites'
-summary: You cannot improve your digital outreach without data. Since 2012, the Digital Analytics Program (DAP) has provided agencies the critical information and metrics that they need to make their public-facing websites better. The buzz around DAP has grown with the release of the
+summary: You cannot improve your digital outreach without data. Since 2012, the Digital Analytics Program (DAP) has provided agencies the critical information and metrics that they need to make their public-facing websites better. The buzz around DAP has grown with the release of
 authors:
   - awichman
 categories:
@@ -15,7 +14,7 @@ tag:
   - podcast
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="Digital Analytics Program (DAP) screen capture of an analytics dashboard" %}You cannot improve your digital outreach without data. Since 2012, the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) has provided agencies the critical information and metrics that they need to make their public-facing websites better. The buzz around DAP has grown with the release of the [Digital Analytics Dashboard](https://www.WHATEVER/2015/03/19/turning-government-data-into-better-public-service/), which provides a real-time glimpse into government Web traffic, and [Pulse](https://www.WHATEVER/2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/), a dashboard showing the percentage of agencies that have implemented DAP. Both dashboards rely on DAP data to inform the public about government Web activities.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="Digital Analytics Program (DAP) screen capture of an analytics dashboard" >}}You cannot improve your digital outreach without data. Since 2012, the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) has provided agencies the critical information and metrics that they need to make their public-facing websites better. The buzz around DAP has grown with the release of the [Digital Analytics Dashboard](https://www.WHATEVER/2015/03/19/turning-government-data-into-better-public-service/), which provides a real-time glimpse into government Web traffic, and [Pulse](https://www.WHATEVER/2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence/), a dashboard showing the percentage of agencies that have implemented DAP. Both dashboards rely on DAP data to inform the public about government Web activities.
 
 How did the program reach this point, where 4,000 websites have implemented DAP, and why does it matter?
 

@@ -1,8 +1,7 @@
 ---
-url: /2015/09/03/congress-creates-the-bill-of-rights-from-national-archives/
 date: 2015-09-03 10:00:14 -0400
 title: '&#8220;Congress Creates the Bill of Rights&#8221; from National Archives'
-summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful symbols'
+summary: ' Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful'
 authors:
   - nramprasad
 categories:
@@ -15,7 +14,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-Constitutional-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Constitutional amendment screen on an iPad" >}}
 
 Whether it&#8217;s the 800-year-old legacy of the Magna Carta, the Bill of Rights of the United States Constitution or the more recent Charter of Fundamental Rights of the European Union, all of these documents are powerful symbols of citizens’ rights and freedom. They articulate the most important rights granted to the citizens of a country, and each has its own history.
 
@@ -29,7 +28,7 @@ Its menu-based organization presents an historic overview, a one-stop detailed s
 
 Each section of the app views the Bill of Rights from a different perspective. The &#8216;Get the Background&#8217; section lets you explore the reason for the Bill of Rights in a slideshow that recites the story with amazing images from the Archives. The &#8216;Go Inside the First Congress&#8217; section allows you to read the biographies of leaders and discover the remarkable Senate markup of the 17 House-passed amendments. The &#8216;Amendments in Process&#8217; section allows you to trace each proposed amendment until it was added to the Constitution. The &#8216;Join the Debate&#8217; section allows you to reflect on the debates, gives you a chance to vote and understand how it&#8217;s viewed in history as an amendment.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-vote-on-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Time to Vote on amendments screen on an iPad" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/480-x-351-NARA-Congress-Creates-the-Bill-of-Rights-app-vote-on-Amendment.jpg" alt="The NARA app, Congress Creates the Bill of Rights, showing a Time to Vote on amendments screen on an iPad" >}}
 
 There is also PDF version of the app content. The PDF is divided into four sections: [Get the Background](http://www.archives.gov/legislative/resources/bill-of-rights/CCBR_I.pdf), [Go Inside the First Congress](http://www.archives.gov/legislative/resources/bill-of-rights/CCBR_IIA.pdf), [Amendments in Process](http://www.archives.gov/legislative/resources/bill-of-rights/CCBR_IIB.pdf) and [Join the Debate](http://www.archives.gov/legislative/resources/bill-of-rights/CCBR_III.pdf).
 

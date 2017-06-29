@@ -1,5 +1,4 @@
 ---
-url: /2014/09/25/getting-to-work-for-the-american-people/
 date: 2014-09-25 1:40:39 -0400
 title: Getting to Work for the American People
 summary: 'Over the last 6 months, 18F has embarked on a mission to transform the way the U.S. Government builds and buys digital services. We&rsquo;re currently working with more than half a dozen agencies to help them deliver on their missions in a design-centric, agile, open, and data-driven way. How do we say yes to a'
@@ -74,7 +73,7 @@ For our first year, 18F projects focus on:
 
 ## Attracting great digital talent
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-131-18fdc-pif.jpg" alt="18F's DC team at GSA HQ" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-131-18fdc-pif.jpg" alt="18F's DC team at GSA HQ" >}}
 
 Since launching in March 2014, 18F has grown from a small group of [Presidential Innovation Fellows](http://wh.gov/innovationfellows) into a team of almost 60 designers, developers, product managers, researchers, writers, and specialists. This growth is entirely due to the demand by agencies to work with 18F, as was described above. And we continue to be inspired and amazed by the number of experienced technologists eager to move into public service.
 

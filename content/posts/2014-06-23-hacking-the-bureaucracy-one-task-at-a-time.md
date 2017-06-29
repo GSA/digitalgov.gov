@@ -1,5 +1,4 @@
 ---
-url: /2014/06/23/hacking-the-bureaucracy-one-task-at-a-time/
 date: 2014-06-23 1:00:53 -0400
 title: Hacking the Bureaucracy One Task at a Time
 summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program. [youtube=http://www.youtube.com/watch?v=1Mha-SnOfzo&w=600] Open Opportunities are tasks and projects that help you develop and strengthen skills, work with others across agencies to'
@@ -27,7 +26,7 @@ People have worked on big tasks like developing a [mobile code sharing catalog](
 
 Now you’re probably thinking, “Why would my agency let me spend time working on projects for other agencies?” Your agency wins by learning from other agencies, developing staff talent, and helping build a more collaborative and innovative 21st century government.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" %}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" >}}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
 
 Be sure to check out [how it works](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
 

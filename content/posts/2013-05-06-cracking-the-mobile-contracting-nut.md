@@ -1,8 +1,7 @@
 ---
-url: /2013/05/06/cracking-the-mobile-contracting-nut/
 date: 2013-05-06 3:05:48 -0400
 title: Cracking the Mobile Contracting Nut
-summary: 'Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making anytime,'
+summary: 'Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making'
 authors:
   - jparcell
 categories:
@@ -12,7 +11,7 @@ tag:
   - mobile
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Magic8Ball-325x300.jpg" alt="Magic 8 Ball" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Magic8Ball.jpg)Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making anytime, anywhere mobile gov.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Magic8Ball-325x300.jpg" alt="Magic 8 Ball" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/Magic8Ball.jpg)Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making anytime, anywhere mobile gov.
 
 We have some relief.
 

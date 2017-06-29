@@ -1,5 +1,4 @@
 ---
-url: /2016/09/28/the-data-briefing-a-new-perspective-on-the-digital-transformation-of-government/
 date: 2016-09-28 2:00:23 -0400
 title: 'The Data Briefing: A New Perspective on the Digital Transformation of Government'
 summary: One day, at an unnamed agency, the Outlook server crashed. The server stayed down for the rest of the afternoon. Deprived of email and meeting calendars, employees wandered around trying to remember what meetings they had to attend. Other employees went searching for people who they ordinarily would email. There was confusion that made people
@@ -9,7 +8,7 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - agile
   - architecture
@@ -20,11 +19,11 @@ tag:
   - The Data Briefing
 ---
 
-One day, at an unnamed agency, the Outlook server crashed. The server stayed down for the rest of the afternoon. Deprived of email and meeting calendars, employees wandered around trying to remember what meetings they had to attend. Other employees went searching for people who they ordinarily would email. There was confusion that made people realize just how dependent they were on a single software program. As the Federal government moves toward digital transformation, I have been thinking about how agencies can best weather the transition from legacy systems to cloud-based, agile applications. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-358-Hand-pushing-cloud-connectivity-icon-Melpomenem-iStock-Thinkstock-510310605.jpg" alt="Hand pushing cloud connectivity icon." %} 
+One day, at an unnamed agency, the Outlook server crashed. The server stayed down for the rest of the afternoon. Deprived of email and meeting calendars, employees wandered around trying to remember what meetings they had to attend. Other employees went searching for people who they ordinarily would email. There was confusion that made people realize just how dependent they were on a single software program. As the Federal government moves toward digital transformation, I have been thinking about how agencies can best weather the transition from legacy systems to cloud-based, agile applications. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-358-Hand-pushing-cloud-connectivity-icon-Melpomenem-iStock-Thinkstock-510310605.jpg" alt="Hand pushing cloud connectivity icon." caption="" >}} 
 
 I recently read a [book](http://www.arbesman.net/overcomplicated/) in which the author argues that our technology has become so complex, that we need to view our technologies with a biological perspective. He gives examples of complex, barely comprehensible systems such as the financial trading systems, the air traffic control systems, and even laptops. It is also not just technology; our legal systems have also become so complex that no one can fully comprehend how all of the laws and regulations work together. Experts can understand pieces of the whole system, but the entire system and its totality of interactions are unknowable to a single mind.
 
-Technology and legal systems become complex because of the need to model reality (which is complex itself), the accretion of components upon components, and interactions between parts of the systems. Think about the word processing program you use. The modern word processing program has millions of lines of code and hundreds of more features than the first word processing programs. Word processing programs grew because of increasing demands for new features such as desktop publishing, mail merges, and publishing online documents. Code modules are layered upon code modules (accretion) and the interactions between the code modules increased. Rapidly increasing interactions has led to unexpected and unpredictable behaviors that emerge as more code modules that interact with each other. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-404-Abstract-technology-background-pixelparticle-iStock-Thinkstock-494206787.jpg" alt="Abstract modular technology background" %} 
+Technology and legal systems become complex because of the need to model reality (which is complex itself), the accretion of components upon components, and interactions between parts of the systems. Think about the word processing program you use. The modern word processing program has millions of lines of code and hundreds of more features than the first word processing programs. Word processing programs grew because of increasing demands for new features such as desktop publishing, mail merges, and publishing online documents. Code modules are layered upon code modules (accretion) and the interactions between the code modules increased. Rapidly increasing interactions has led to unexpected and unpredictable behaviors that emerge as more code modules that interact with each other. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-404-Abstract-technology-background-pixelparticle-iStock-Thinkstock-494206787.jpg" alt="Abstract modular technology background" caption="" >}} 
 
 So, what does this have to do with Federal government data? A great deal. According to the author, we view our complex systems with “physics thinking.” In physics thinking, we abstract our complex systems to make them more comprehensible. We throw out details and simplify how the system operates. Physics thinking works well when dealing with physical systems in which one electron is exactly like another electron.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/05/04/delivering-the-next-generation-of-digital-government/
 date: 2016-05-04 11:10:23 -0400
 title: Delivering the Next Generation of Digital Government
 summary: We are in an era of digital transformation across many different industries, including government. Those organizations that have successfully led in this area or have fully transformed into digital organizations are succeeding at a faster pace than those who have not. The imperative for the federal government to provide effective digital service is clear. The
@@ -11,7 +10,7 @@ tag:
   - 18F
 ---
 
-We are in an era of digital transformation across many different industries, including government. Those organizations that have successfully led in this area or have fully transformed into digital organizations are succeeding at a faster pace than those who have not. The imperative for the federal government to provide effective digital service is clear. The public expects a responsive, transparent and efficient government that mirrors their experience with private sector entities. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-425-Binary-code-impact-loops7-iStock-Thinkstock-136300536.jpg" alt="Abstract illustration; a binary stream of code impacts a surface." %} 
+We are in an era of digital transformation across many different industries, including government. Those organizations that have successfully led in this area or have fully transformed into digital organizations are succeeding at a faster pace than those who have not. The imperative for the federal government to provide effective digital service is clear. The public expects a responsive, transparent and efficient government that mirrors their experience with private sector entities. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-425-Binary-code-impact-loops7-iStock-Thinkstock-136300536.jpg" alt="Abstract illustration; a binary stream of code impacts a surface." caption="" >}} 
 
 GSA has historically played a central role in transforming government technology, whether it’s assisting agencies in accessing and purchasing from technology companies, informing and building out agency technology services, or building new government-wide platforms and products at scale.
 

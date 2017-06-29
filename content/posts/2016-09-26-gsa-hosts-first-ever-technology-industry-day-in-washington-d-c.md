@@ -1,5 +1,4 @@
 ---
-url: /2016/09/26/gsa-hosts-first-ever-technology-industry-day-in-washington-d-c/
 date: 2016-09-26 10:00:53 -0400
 title: GSA Hosts First-Ever Technology Industry Day in Washington, D.C.
 summary: 'Private industry and government came together to find best ways to deliver 21st century technology to federal agencies. On September 8, 2016 Administrator Denise Turner Roth of the U.S. General Services Administration (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA&rsquo;s path to improve the government&rsquo;s outdated technology systems. The'
@@ -9,7 +8,7 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -26,7 +25,7 @@ tag:
   - innovation
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - summit
   - Technology Industry Day
@@ -36,7 +35,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" %} 
+_Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
 
 On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Services Administration](http://www.gsa.gov/) (GSA) hosted the first-ever Technology Industry Day to provide a better understanding of GSA’s path to improve the government’s outdated technology systems. The event featured how GSA buys, builds and shares technology for the federal government.
 

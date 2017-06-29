@@ -1,8 +1,7 @@
 ---
-url: /2012/10/19/feds-shed-light-on-dark-social/
 date: 2012-10-19 2:05:46 -0400
 title: Feds Shed Light on Dark Social
-summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.'
+summary: '&#8220;Dark Social&#8221; media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant'
 authors:
   - jherman
 categories:
@@ -15,7 +14,7 @@ tag:
   - SocialGov Community
 ---
 
-**[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg)&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.
+**[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg" alt="Image of visualized performance metrics." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/key-metrics.jpg)&#8220;Dark Social&#8221;** media took the web by storm this week, unveiling to many the shadows in measuring your social media impact. This accounts for the majority of your traffic and yet lives untraced where standard  metrics fear to tread (or simply cannot) &#8212; places like email and instant messaging.
 
 **Alexis Madrigal**, senior editor of _The Atlantic_, [proposed last week in a post](http://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/#):
 

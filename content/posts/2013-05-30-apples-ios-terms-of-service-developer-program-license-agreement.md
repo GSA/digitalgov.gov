@@ -1,8 +1,7 @@
 ---
-url: /2013/05/30/apples-ios-terms-of-service-developer-program-license-agreement/
 date: 2013-05-30 11:10:13 -0400
 title: 'Apple&#8217;s iOS Terms of Service & Developer Program License Agreement'
-summary: The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be
+summary: The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later
 categories:
   - Mobile
   - Social Media
@@ -13,7 +12,7 @@ tag:
   - TOS
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-250-Apple-App-Store-icon.jpg" alt="250 x 250 Apple App Store icon" %}The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be distributed to the public, free of charge.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-250-Apple-App-Store-icon.jpg" alt="250 x 250 Apple App Store icon" >}}The Apple iTunes App store is the only marketplace for downloading apps for the Apple platform. In order to put apps in the iTunes store, agencies or their contractors have signed agreements with Apple to use Apple Software to produce mobile apps that can later be distributed to the public, free of charge.
 
 The information included in this article is based on the experiences provided by members of the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/). While there is no government-wide terms of service with Apple, the iOS Developer Program License Agreement (as of the October 4, 2011 revision) contains provisions that allow federal agencies to agree to the terms.
 

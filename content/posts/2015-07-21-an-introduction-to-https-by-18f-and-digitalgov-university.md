@@ -1,11 +1,10 @@
 ---
-url: /2015/07/21/an-introduction-to-https-by-18f-and-digitalgov-university/
 date: 2015-07-21 11:10:31 -0400
 title: An Introduction to HTTPS, by 18F and DigitalGov University
 summary: '18F uses HTTPS for everything we make, and the U.S. government is in the process of transitioning to HTTPS everywhere. As part of this effort, we&#8217;ve recently partnered with DigitalGov University to produce a two-video series introducing the why&#8217;s and how&#8217;s of HTTPS. In an Introduction to HTTPS for beginners, we cover what happens when'
 authors:
-  - gray-brooks
   - eric-mill
+  - gray-brooks
 categories:
   - Code
   - Content
@@ -14,7 +13,7 @@ tag:
   - Recaps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 
 
 18F [uses HTTPS for everything we make](https://18f.gsa.gov/2014/11/13/why-we-use-https-in-every-gov-website-we-make/), and the U.S. government is in the process of [transitioning to HTTPS everywhere](https://18f.gsa.gov/2015/06/08/the-us-government-is-moving-to-https-everywhere/). As part of this effort, we&#8217;ve recently partnered with [DigitalGov University](https://www.WHATEVER/digitalgov-university/) to produce a two-video series introducing the why&#8217;s and how&#8217;s of HTTPS.
 

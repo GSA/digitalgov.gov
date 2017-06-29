@@ -1,8 +1,7 @@
 ---
-url: /2014/12/11/defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables/
 date: 2014-12-11 11:14:44 -0400
 title: Defense Finance Accounting Services Use HHS Code to Make Mobile-Friendly Tables
-summary: ' Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency&rsquo;s mobile efforts. Last month, Clair Koroma told DigitalGov readers about code that the Department of Health and Human Services had developed to make website tables mobile-friendly and then HHS shared'
+summary: ' Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency&rsquo;s mobile efforts. Last month, Clair Koroma told DigitalGov readers about code that the Department of Health and Human Services had developed to make website tables mobile-friendly and then HHS'
 authors:
   - jparcell
 categories:
@@ -23,7 +22,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" >}}
 
 Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency’s mobile efforts.
 

@@ -1,5 +1,4 @@
 ---
-url: /2014/10/23/web-design-changes-let-the-metrics-be-your-guide/
 date: 2014-10-23 12:42:56 -0400
 title: Web Design Changes? Let the Metrics be Your Guide
 summary: 'On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the Internet to watch NASA launch its Lunar Atmosphere and Dust Environment Explorer (LADEE) spacecraft. As viewers logged onto the website, something unusual happened. For the first time, metrics indicated that NASA.gov&rsquo;s mobile users outpaced their desktop users. 93 percent of their viewers'
@@ -25,7 +24,7 @@ tag:
   - USDA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-311-Report-as-concept-Violka08-iStock-Thinkstock-463805923.jpg" alt="Metrics report as concept" caption="" >}} 
 
 On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the Internet to watch NASA launch its Lunar Atmosphere and Dust Environment Explorer (LADEE) spacecraft. As viewers logged onto the website, something unusual happened. For the first time, metrics indicated that NASA.gov’s mobile users outpaced their desktop users. 93 percent of their viewers were watching the launch from a mobile device. At the time, NASA Web managers were already considering changing their website. Metrics from this event only proved that they were making the right decision.
 

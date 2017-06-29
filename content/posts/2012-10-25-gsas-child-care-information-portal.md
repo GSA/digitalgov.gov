@@ -1,8 +1,7 @@
 ---
-url: /2012/10/25/gsas-child-care-information-portal/
 date: 2012-10-25 3:09:20 -0400
 title: 'GSA&#8217;s Child Care Information Portal'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration. The Child Care Information Portal is a responsively designed web site built by General Services Administration&#8217;s Office of the Chief Financial'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration. The Child Care Information Portal is a responsively designed web site built by General Services Administration&#8217;s Office of the Chief'
 categories:
   - Mobile
 tag:
@@ -11,7 +10,7 @@ tag:
   - responsive web design
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GSA_ChildCareInfoPortal.png" alt="Home Screen of GSA Child Care Info Portal" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GSA_ChildCareInfoPortal.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GSA_ChildCareInfoPortal.png" alt="Home Screen of GSA Child Care Info Portal" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GSA_ChildCareInfoPortal.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration._
 
 The <a href="http://apps.ocfo.gsa.gov/childcare_portal/index.shtml" rel="nofollow">Child Care Information Portal</a> is a responsively designed web site built by General Services Administration&#8217;s Office of the Chief Financial Officer, accessible on computers, smartphones and tablets.
 

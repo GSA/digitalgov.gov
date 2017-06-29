@@ -1,5 +1,4 @@
 ---
-url: /2015/10/02/optimizing-social-at-peace-corps-not-a-zero-sum-game/
 date: 2015-10-02 10:00:12 -0400
 title: 'Optimizing Social at Peace Corps: Not a Zero-Sum Game'
 summary: 'At the Peace Corps, we continually try to find new ways to test, measure and optimize our marketing and communications initiatives. Recently, we embarked on a project to design a framework to test and optimize content on the social media platforms we use to engage our stakeholders. This process required us to reboot our expectations in terms of'
@@ -15,7 +14,7 @@ tag:
   - social media metrics
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media "universe"" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 
 
 At the Peace Corps, we continually try to find new ways to test, measure and optimize our marketing and communications initiatives. Recently, we embarked on a project to design a framework to test and optimize content on the social media platforms we use to engage our stakeholders. This process required us to reboot our expectations in terms of measurement and re-think our social goals, but in the end it has made our decision-making process much stronger.
 
@@ -23,7 +22,7 @@ With other tactics we use, such as digital advertising and email marketing, inte
 
 We also came to the realization that the perfect is the enemy of the good when thinking about testing and analyzing social content. Common [A/B testing approaches](https://www.WHATEVER/2015/08/05/taking-a-data-driven-approach-to-digital-marketing-at-the-peace-corps/), and the application of statistical tests to measure success, didn’t fit into how the platforms are designed and how Peace Corps uses social programmatically at a post-by-post level. To avoid going down a rabbit hole of analysis, we determined and agreed to a “good enough” level of certainty in order to determine what is successful and what isn’t. As I outline below, the framework we ended up designing is not new and will evolve alongside the changing landscape of social media, but it did require a shift in how we think about social measurement and, more importantly, our confidence and willingness to take on this type of work.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-342-Peace-Corps-organic-engagement-on-Facebook.jpg" alt="Peace Corps organic engagement on Facebook." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-342-Peace-Corps-organic-engagement-on-Facebook.jpg" alt="Peace Corps organic engagement on Facebook." >}}
 
 ## Our Approach
 

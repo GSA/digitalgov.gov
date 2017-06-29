@@ -1,5 +1,4 @@
 ---
-url: /2015/08/27/huds-switchboard-puts-customer-experience-and-customer-service-together/
 date: 2015-08-27 10:00:16 -0400
 title: HUD’s Switchboard Puts Customer Experience and Customer Service Together
 summary: 'Customer experience is about making sure needs are met. It&rsquo;s certainly not a new concept for business; every bookstore has a customer service section. Government agencies are slightly different though. Often people are driven to public services by need or regulation, not choice. Government traditionally didn&rsquo;t need to court positive attention. The increasing prominence of'
@@ -56,6 +55,6 @@ Below is a screenshot of what Jay and Rachel consider to be a [success for HUD S
   4. It received 235 upvotes. Above the 200 vote referral threshold.
   5. There is a response from Deputy Secretary Nani Coloretti. She recognizes the contribution, sets a timeline for implementation (2016) and emphasizes what makes for a solid contribution. See the gray text below her response. Note that it has only happened two other times.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-434-HUD-Switchboard-Screen-Cap-082415.jpg" alt="Screen capture of the HUD Switchboard" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-434-HUD-Switchboard-Screen-Cap-082415.jpg" alt="Screen capture of the HUD Switchboard" >}}
 
 That’s good customer service and customer experience.

@@ -1,5 +1,4 @@
 ---
-url: /2015/04/10/usability-testing-with-people-who-have-vision-impairment-is-difficult-reality-or-perception/
 date: 2015-04-10 11:10:21 -0400
 title: Usability Testing with People Who Have Vision Impairment
 summary: 'It&rsquo;s a forgone conclusion that usability studies are effective in identifying weak points within a website, but what about testing people who are visually impaired? How hard is it to accommodate them? There are some additional challenges that you may encounter when conducting testing with people with disabilities; however, these challenges should not be considered'
@@ -14,7 +13,7 @@ tag:
   - usability testing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-397-Eyeglasses-matsilvan-iStock-Thinkstock-ThinkstockPhotos-476465825.jpg" alt="Eyeglasses" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-397-Eyeglasses-matsilvan-iStock-Thinkstock-ThinkstockPhotos-476465825.jpg" alt="Eyeglasses" caption="" >}} 
 
 It’s a forgone conclusion that usability studies are effective in identifying weak points within a website, but what about testing people who are visually impaired? How hard is it to accommodate them? There are some additional challenges that you may encounter when conducting testing with people with disabilities; however, these challenges should not be considered overwhelming.
 

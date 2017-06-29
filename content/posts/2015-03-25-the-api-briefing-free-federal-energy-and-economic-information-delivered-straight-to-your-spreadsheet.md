@@ -1,5 +1,4 @@
 ---
-url: /2015/03/25/the-api-briefing-free-federal-energy-and-economic-information-delivered-straight-to-your-spreadsheet/
 date: 2015-03-25 11:10:59 -0400
 title: 'The API Briefing: Free Federal Energy and Economic Information Delivered Straight to Your Spreadsheet'
 summary: 'Back in November 2014, I wrote about the Federal Reserve of St. Louis&rsquo; FRED&reg; (Federal Reserve Economic Data) API. A user can access 238,000 economic trends through FRED&reg; through a website and mobile apps. What is unique about FRED&reg; is that a user can pull economic data directly into an Excel spreadsheet. Now, the FRED&reg;'
@@ -15,7 +14,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Bulb-with-business-background-Gunnar-Pippel-Hemera-Thinkstock-ThinkstockPhotos-101180930.jpg" alt="Bulb with business background" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Bulb-with-business-background-Gunnar-Pippel-Hemera-Thinkstock-ThinkstockPhotos-101180930.jpg" alt="Bulb with business background" caption="" >}} 
 
 Back in November 2014, I wrote about the Federal Reserve of St. Louis’ <a href="https://www.WHATEVER/2014/11/26/the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data/" target="_blank">FRED® (Federal Reserve Economic Data) API</a>. A user can access 238,000 economic trends through FRED® through a website and mobile apps. What is unique about FRED® is that a user can pull economic data directly into an Excel spreadsheet.
 

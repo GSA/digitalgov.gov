@@ -1,5 +1,4 @@
 ---
-url: /2016/10/18/trends-on-tuesday-the-digital-interface-without-a-face-is-coming-fast/
 date: 2016-10-18 11:00:14 -0400
 title: 'Trends on Tuesday: The Digital Interface — Without a Face — Is Coming Fast'
 summary: The seemingly sci-fi world envisioned in the movie Her is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, chatbots and persistent audio assistants are now available, with software developer kits to expand the platforms. Amazon was first to market with their Echo device, and since have added the Echo
@@ -17,7 +16,7 @@ tag:
   - voice
 ---
 
-The seemingly sci-fi world envisioned in the movie [Her](http://www.imdb.com/title/tt1798709/) is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, [chatbots](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/) and persistent audio assistants are now available, with software developer kits to expand the platforms. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" %} 
+The seemingly sci-fi world envisioned in the movie [Her](http://www.imdb.com/title/tt1798709/) is very close to becoming our reality. Several new developments merging hardware, artificial intelligence technology, [chatbots](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/) and persistent audio assistants are now available, with software developer kits to expand the platforms. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
 
 Amazon was first to market with their [Echo device](http://amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E), and since have added the [Echo Dot](https://amazon.com/dp/B01DFKC2SO/), both using their voice assistant “Alexa” to allow users to play music, buy goods from Amazon, call for a cab, check the weather and other tasks—all just using their voice commands.
 

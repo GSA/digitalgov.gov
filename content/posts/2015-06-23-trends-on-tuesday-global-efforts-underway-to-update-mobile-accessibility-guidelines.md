@@ -1,5 +1,4 @@
 ---
-url: /2015/06/23/trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines/
 date: 2015-06-23 10:00:29 -0400
 title: 'Trends on Tuesday: Global Efforts Underway to Update Mobile Accessibility Guidelines'
 summary: 'Federal agencies do not get a free pass on accessibility for mobile&mdash;as we stated earlier this month, Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT). Luckily, there are a number of organizations working on guidelines and practices to help the private and public sectors create accessible mobile websites and'
@@ -18,7 +17,7 @@ tag:
   - U.S. Access Board
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 
 
 Federal agencies do not get a free pass on accessibility for mobile—as we stated [earlier this month](https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/), Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT).
 

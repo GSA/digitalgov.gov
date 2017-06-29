@@ -1,5 +1,4 @@
 ---
-url: /2014/08/06/the-api-briefing-an-api-that-searches-other-apis-healthdata-govs-catalog-api/
 date: 2014-08-06 10:00:34 -0400
 title: 'The API Briefing: An API that Searches other APIs – HealthData.Gov’s Catalog API'
 summary: 'As federal agencies release APIs on an almost daily basis, keeping track of the numerous datasets has become a vital service for developers. The Department for Health and Human Services (HHS) manages HealthData.Gov which currently lists 1,680 datasets in 36 categories such as &ldquo;Public Health,&rdquo; &ldquo;Health Care Cost,&rdquo; and &ldquo;Health Statistics.&rdquo; To help developers find'
@@ -16,7 +15,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="API letter blocks" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="API letter blocks" caption="" >}} 
 
 As federal agencies release APIs on an almost daily basis, keeping track of the numerous datasets has become a vital service for developers. The Department for Health and Human Services (HHS) manages <a href="http://www.healthdata.gov/" target="_blank">HealthData.Gov</a> which currently lists <a href="http://www.healthdata.gov/dataset/search" target="_blank">1,680 datasets</a> in 36 categories such as “Public Health,” “Health Care Cost,” and “Health Statistics.” To help developers find relevant datasets and keep up with newly-added datasets, the HealthData.gov API was created. Developers can use the <a href="http://www.healthdata.gov/catalog-api" target="_blank">Catalog API</a> to search the catalog and receive meta-information about a dataset in the JSON format.
 

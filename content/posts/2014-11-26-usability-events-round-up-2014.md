@@ -1,5 +1,4 @@
 ---
-url: /2014/11/26/usability-events-round-up-2014/
 date: 2014-11-26 10:00:07 -0400
 title: 'Usability Events Round-Up: 2014'
 summary: 'This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was World Usability Day. Since this year&#8217;s theme of World Usability Day is Engagement it would be great to take a look at the event recap'
@@ -19,7 +18,7 @@ tag:
   - UX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}} 
 
 This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was [World Usability Day](https://www.WHATEVER/2014/11/13/world-usability-day-engagement/ "World Usability Day 2014 theme: Engagement").
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/12/22/after-the-survey-turning-customer-feedback-into-action/
 date: 2015-12-22 10:00:42 -0400
 title: 'After the Survey: Turning Customer Feedback into Action'
 summary: 'Doing business with any U.S. government agency can be a daunting task. For example, in the case of customers new to EXIM Bank, there are application forms to complete, rules to understand, processes to navigate and conditions that have to be met in order to work with our agency. What our staff considers an &ldquo;everyday&rdquo;'
@@ -17,7 +16,7 @@ Doing business with any U.S. government agency can be a daunting task. For examp
 
 But EXIM has a big goal, as outlined in [ExIm Bank Strategic Plan 2010-2015](http://www.exim.gov/sites/default/files/newsreleases/Ex-Im-Strategic-Plan-9-10-13-FINAL-A-1.pdf), to improve the ease of doing business for customers. And, we are serious about hearing from our customers on what “ease of doing business” looks like, through **their** eyes.
 
-## Cultivating the Customer View {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Goal-Action-Result-and-feedback-Raywoo-iStock-Thinkstock-154248357.jpg" alt="Arrows loop "Goal, Action, Result and Feedback" as a process on a chalkboard" %} 
+## Cultivating the Customer View {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Goal-Action-Result-and-feedback-Raywoo-iStock-Thinkstock-154248357.jpg" alt="Arrows loop Goal, Action, Result and Feedback as a process on a chalkboard" caption="" >}} 
 
 Earlier this year, in a repeat of survey activities from last year, we worked with a third-party contractor to survey 2,255 U.S. exporters who use EXIM’s [export credit insurance](http://www.exim.gov/what-we-do/export-credit-insurance)—an insurance policy that, among other things, protects the U.S. exporter against nonpayment by an international buyer. This was our largest survey pool yet from a high volume customer segment at our agency. [See the summary report](http://exim.gov/sites/default/files/newsreleases/2015%20Export%20Credit%20Insurance%20Customer%20Survey%20Dec%207%202015.pdf). The response rates were terrific. We were elated to see that:
 

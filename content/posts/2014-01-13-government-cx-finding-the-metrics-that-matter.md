@@ -1,5 +1,4 @@
 ---
-url: /2014/01/13/government-cx-finding-the-metrics-that-matter/
 date: 2014-01-13 8:42:11 -0400
 title: 'Government CX: Finding the Metrics that Matter'
 summary: 'Customer experience (CX) is an emerging area of focus within government.  My role as Vice President of Customer Experience at the Export-Import Bank speaks to this reality. Our agency&rsquo;s customers and partners consist of U.S. exporters, financial services institutions, insurance brokers and foreign buyers of U.S. products and services. All play a key role in'
@@ -12,7 +11,7 @@ tag:
   - Export-Import Bank of the United States
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-165-Group-of-Business-People-in-Office-Building-data-statistics-metrics-on-tablet-Robert-Churchill-iStock-Thinkstock-469780051.jpg" alt="Group of Business People in an Office Building, with statistical data seen on a tablet in the foreground" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-165-Group-of-Business-People-in-Office-Building-data-statistics-metrics-on-tablet-Robert-Churchill-iStock-Thinkstock-469780051.jpg" alt="Group of Business People in an Office Building, with statistical data seen on a tablet in the foreground" caption="" >}} 
 
 Customer experience (CX) is an emerging area of focus within government.  My role as Vice President of Customer Experience at the Export-Import Bank speaks to this reality. Our agency’s customers and partners consist of U.S. exporters, financial services institutions, insurance brokers and foreign buyers of U.S. products and services. All play a key role in facilitating U.S. exports, toward the creation of U.S. jobs, as outlined in our agency’s charter.
 

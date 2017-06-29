@@ -1,8 +1,7 @@
 ---
-url: /2012/11/05/centers-for-disease-control-content-syndication/
 date: 2012-11-05 2:13:31 -0400
 title: Centers for Disease Control Content Syndication
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Centers for Disease Control and Prevention. The Centers for Disease Control and Prevention (CDC) uses content syndication to share important health information with a variety of federal public health'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Centers for Disease Control and Prevention. The Centers for Disease Control and Prevention (CDC) uses content syndication to share important health information with a variety of federal public'
 categories:
   - API
   - Mobile
@@ -13,7 +12,7 @@ tag:
   - structured content
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._
 
 The <a href="http://www.cdc.gov/" rel="nofollow">Centers for Disease Control and Prevention (CDC)</a> uses <a href="http://tools.cdc.gov/syndication/default.aspx" rel="nofollow">content syndication</a> to share important health information with a variety of federal public health agencies, state and local public health departments, non-profit organizations, academic institutions, and commercial organizations.
 

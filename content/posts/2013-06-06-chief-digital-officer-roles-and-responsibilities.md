@@ -1,8 +1,7 @@
 ---
-url: /2013/06/06/chief-digital-officer-roles-and-responsibilities/
 date: 2013-06-06 11:00:11 -0400
 title: 'Chief Digital Officer: Roles and Responsibilities'
-summary: 'In my previous blog post, I asked if your agency needs a Chief Digital Officer and before you answer maybe you&rsquo;d want to know what exactly would a Chief Digital Officer (CDO) do at your Agency? According to Tim Bourgeois of ChiefDigitalOfficer.net , the biggest asset a CDO brings &#8220;is'
+summary: 'In my previous blog post, I asked if your agency needs a Chief Digital Officer and before you answer maybe you&rsquo;d want to know what exactly would a Chief Digital Officer (CDO) do at your Agency? According to Tim Bourgeois of ChiefDigitalOfficer.net , the biggest asset a CDO brings'
 authors:
   - mike-kruger
 categories:
@@ -14,7 +13,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Help-Wanted-CDO-1-284x220.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Help-Wanted-CDO-1-284x220.jpg" alt="help wanted sign" %}</a>In my previous blog post, I asked if <a title="Does Your Agency Need A Chief Digital Officer?" href="https://www.WHATEVER/2013/05/30/does-your-agency-need-a-chief-digital-officer-2/">your agency needs a Chief Digital Officer</a> and before you answer maybe you’d want to know what exactly would a Chief Digital Officer (CDO) do at your Agency? According to Tim Bourgeois of <a href="http://www.chiefdigitalofficer.net/">ChiefDigitalOfficer.net</a> , the biggest asset a CDO brings &#8220;is the ability … to make something a priority where, under the existing structure, it is tough to make it a priority.&#8221; CDOs can emphasize <a href="http://fedscoop.com/time-is-of-essence-in-government-innovation/">speed</a> and accountability to shake up existing structures. Each agency will have its own needs, but a CDO  should be tasked with:
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Help-Wanted-CDO-1-284x220.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Help-Wanted-CDO-1-284x220.jpg" alt="help wanted sign" >}}</a>In my previous blog post, I asked if <a title="Does Your Agency Need A Chief Digital Officer?" href="https://www.WHATEVER/2013/05/30/does-your-agency-need-a-chief-digital-officer-2/">your agency needs a Chief Digital Officer</a> and before you answer maybe you’d want to know what exactly would a Chief Digital Officer (CDO) do at your Agency? According to Tim Bourgeois of <a href="http://www.chiefdigitalofficer.net/">ChiefDigitalOfficer.net</a> , the biggest asset a CDO brings &#8220;is the ability … to make something a priority where, under the existing structure, it is tough to make it a priority.&#8221; CDOs can emphasize <a href="http://fedscoop.com/time-is-of-essence-in-government-innovation/">speed</a> and accountability to shake up existing structures. Each agency will have its own needs, but a CDO  should be tasked with:
 </p>
 
   * <p dir="ltr">

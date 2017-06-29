@@ -1,8 +1,7 @@
 ---
-url: /2013/09/17/trends-on-tuesday-the-state-of-mobile-search/
 date: 2013-09-17 1:46:18 -0400
 title: 'Trends on Tuesday: The State of Mobile Search'
-summary: ' Mobile searching has become a fact of life. According to a recent study by Econsultancy, 67% of smartphone owners had used their device to search for information in the past 7 days. The infographic below describes what they are searching for&#8211;the majority of searches are for arts,'
+summary: ' Mobile searching has become a fact of life. According to a recent study by Econsultancy, 67% of smartphone owners had used their device to search for information in the past 7 days. The infographic below describes what they are searching for&#8211;the majority of searches are for'
 authors:
   - jparcell
 categories:
@@ -12,7 +11,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Mobileusersearch.jpg" alt="Mobile User Search Habits Graph" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Mobileusersearch.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Mobileusersearch.jpg" alt="Mobile User Search Habits Graph" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Mobileusersearch.jpg)
 
 Mobile searching has become a fact of life. According to a recent study by [Econsultancy](http://econsultancy.com/us/blog/63230-30-compelling-mobile-search-statistics), 67% of smartphone owners had used their device to search for information in the past 7 days. The infographic below describes what they are searching for&#8211;the majority of searches are for arts, events and news.
 

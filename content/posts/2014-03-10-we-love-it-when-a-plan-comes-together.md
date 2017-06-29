@@ -1,8 +1,7 @@
 ---
-url: /2014/03/10/we-love-it-when-a-plan-comes-together/
 date: 2014-03-10 10:56:08 -0400
 title: We Love it When a Plan Comes Together…
-summary: 'Federal agencies are currently hard at work developing revised Open Government Plans&mdash;blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward. This iterative, biennial process grew out of the December 2009 Open Government Directive'
+summary: 'Federal agencies are currently hard at work developing revised Open Government Plans&mdash;blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward. This iterative, biennial process grew out of the December 2009 Open Government'
 authors:
   - nick-sinai
   - corinna-zarek
@@ -20,7 +19,7 @@ tag:
   - open government
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/OPENGOV\_Featured\_301x212-250x176.jpg" alt="OpenGov logo" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/OPENGOV_Featured_301x212.jpg)Federal agencies are currently hard at work developing revised Open Government Plans—blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/OPENGOV\_Featured\_301x212-250x176.jpg" alt="OpenGov logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/OPENGOV_Featured_301x212.jpg)Federal agencies are currently hard at work developing revised Open Government Plans—blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward.
 
 This iterative, biennial process grew out of the December [2009 Open Government Directive](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) issued by the Office of Management and Budget, which instructed executive departments and agencies to take specific actions to incorporate the principles of openness set forth in the President’s [Memorandum on Transparency and Open Government](http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment), which he signed on his first full day in office.
 

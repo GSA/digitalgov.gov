@@ -1,5 +1,4 @@
 ---
-url: /2014/10/03/multimedia-storytelling-in-government-ghazni-towers-documentation-project/
 date: 2014-10-03 12:40:52 -0400
 title: 'Multimedia Storytelling in Government: Ghazni Towers Documentation Project'
 summary: '&#8220;Content is king&#8221; is a generally accepted truth for those of us who produce digital media. But once you have compelling content, how to best present it to your audience becomes the next challenge. In recent years, Web innovators started emphasizing the effectiveness of &#8220;digital storytelling,&#8221; or content focused on individual, human experiences using compelling'
@@ -20,7 +19,7 @@ tag:
 
 At the [Department of State’s, Bureau of Educational and Cultural Affairs](http://eca.state.gov/), we recently tried our hand at executing a digital storytelling effort employing rarely-used-in-government techniques to tell a story about cultural heritage, partnership, teamwork, and preservation. This venture resulted in the [Towers of Victory: Ghazni Towers Documentation Project](http://eca.state.gov/files/bureau/ghazni-towers/index.html#header) virtual exhibit, a multimedia-rich and interactive digital feature that communicates how several U.S. government entities came together to document an important part of world history in Afghanistan using high-tech laser scanning techniques and a lot of collaboration.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-255-Ghazni-Towers-Documentation-Project-1.jpg" alt="600-x-255-Ghazni-Towers-Documentation-Project-1" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-255-Ghazni-Towers-Documentation-Project-1.jpg" alt="600-x-255-Ghazni-Towers-Documentation-Project-1" >}}
 
 The many lessons our team learned while developing this feature provides a helpful case study for anyone who wants to undertake a similar project. The following steps helped guide us during this process:
 
@@ -66,7 +65,7 @@ Based on our inventory, our audience and the story we wanted to tell, we decided
   * **History and interactive timeline**: Beyond the fascinating technology and riveting stories included in the Ghazni Towers documentation project, placing the activity in the context of the [towers’ history](http://eca.state.gov/files/bureau/ghazni-towers/history.html#header) helped answer the “why” question regarding the importance of the government to do this work. We chose to highlight the Towers’ historical significance with an [interactive timeline](http://eca.state.gov/files/bureau/ghazni-towers/history.html#intel5) that starts at 559 B.C. and ends (for now) with Ghazni being named the 2013 Asian Capital of Islamic Culture and Civilization. Users can scroll through history to see timeline events, paired with photos wherever possible.
   * **Visual Media**: We aimed to provide as many [visual examples](http://eca.state.gov/files/bureau/ghazni-towers/index.html#intel2) of the work detailed in the story. The towers’ intricate inscriptions and design made for unique visual content through an aerial view of the towers (using a video), slideshows, high resolution photos, and a map of Afghanistan.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-346-Ghazni-Towers-Documentation-Project-2.jpg" alt="600-x-346-Ghazni-Towers-Documentation-Project-2" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-346-Ghazni-Towers-Documentation-Project-2.jpg" alt="600-x-346-Ghazni-Towers-Documentation-Project-2" >}}
 
 ## 5. Create a Content Strategy
 
@@ -80,7 +79,7 @@ While we modeled our [Ghazni Towers Documentation Project](http://eca.state.gov/
 
 On the other end of the tech spectrum, mobile users make up an ever-growing percentage of Web users and we didn’t want to leave them out either. By communicating our requirements and specifications to our developer early in the process, we were able to make the feature responsive and compatible with mobile platforms as well as old and new browsers.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-353-Ghazni-Towers-Documentation-Project-3.jpg" alt="600-x-353-Ghazni-Towers-Documentation-Project-3" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-353-Ghazni-Towers-Documentation-Project-3.jpg" alt="600-x-353-Ghazni-Towers-Documentation-Project-3" >}}
 
 ## 7. Be 508 Compliant
 
@@ -102,7 +101,7 @@ Our team often creates social media toolkits that include graphics, sample socia
 
 On the backend, be sure to tweak your metadata so that your content shares well in social media. For example, we customized the auto-shared social media messages (when users click on our share icons embedded on our Web feature) by using [Facebook open graph data](https://developers.facebook.com/docs/opengraph/using-objects) and [Twitter cards](https://dev.twitter.com/cards/overview). Preparing the Twitter card required an extra URL-validation step after the site was live, but the validation process was simple, and the validation approval took about 24 hours.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/435-x-514-Ghazni-Towers-Documentation-Project-4.jpg" alt="435-x-514-Ghazni-Towers-Documentation-Project-4" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/435-x-514-Ghazni-Towers-Documentation-Project-4.jpg" alt="435-x-514-Ghazni-Towers-Documentation-Project-4" >}}
 
 ## 9. Measure Your Impact
 
@@ -118,6 +117,6 @@ Take note of what social media outreach efforts are the most valuable to you, as
 
 The answers to these questions provide you with valuable information for your next campaign. High engagement sources will vary of course, depending on your content, but you can glean some helpful insights from your experience going forward.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-185-Ghazni-Towers-Documentation-Project-5.jpg" alt="600-x-185-Ghazni-Towers-Documentation-Project-5" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-185-Ghazni-Towers-Documentation-Project-5.jpg" alt="600-x-185-Ghazni-Towers-Documentation-Project-5" >}}
 
 Digital storytelling creates exciting opportunities to communicate your message with multimedia tools and craft your content with the end-user experience in mind. While this process proved challenging and long (about a year start-to-finish, overcoming typical government challenges like changing team members, balancing workloads, maternity leave, long clearance processes, and even the government shutdown), the positive reception from stakeholders and the public made it well worth the effort.

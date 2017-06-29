@@ -1,5 +1,4 @@
 ---
-url: /2015/04/16/using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data/
 date: 2015-04-16 2:14:11 -0400
 title: Using a Hypothesis-Driven Approach in Analyzing (and Making Sense) of Your Website Traffic Data
 summary: 'At the Digital Analytics Program (DAP), some of the most frequently asked questions we get are &ldquo;how can I get access to the DAP data?&rdquo; and &ldquo;what do I do with all this data?&rdquo; We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that'
@@ -28,7 +27,7 @@ Let’s use this in a concrete example. On April 14, 2015, in a conversation wit
 
 To see if we’d reach that new record of real-time traffic in DAP on #TaxDay, our DigitalGov team performed [live blogging and hourly monitoring throughout the day yesterday](https://www.WHATEVER/2015/04/14/live-blogging-the-analytics-dashboard-on-tax-day/ "Updated: Live Blogging the Analytics Dashboard on #TaxDay") to report on the real-time users on the .gov websites as part of the [public dashboard](https://analytics.usa.gov/). And…. the hypothesis did not hold true (and was rejected by reality). The highest number of real-time visitors gov-wide we got on #TaxDay for 2015 was just shy of 200K.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-373-tax-day-2015-2pm.jpg" alt="A screen capture of a bar graph, showing that there were 190,622 people visiting government websites." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-373-tax-day-2015-2pm.jpg" alt="A screen capture of a bar graph, showing that there were 190,622 people visiting government websites." >}}
 
 ## What Happens After the Hypothesis is Tested
 

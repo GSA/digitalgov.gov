@@ -1,14 +1,12 @@
 ---
-url: /2013/12/05/u-s-census-bureau-dwellr-app/
 date: 2013-12-05 12:51:29 -0400
 title: U.S. Census Bureau Dwellr App
-summary: 'The pursuit of happiness for many of us might mean a fresh new start and a new place to call home. But where? In such a large and diverse country as ours, the choices can seem endless &mdash; and overwhelming. Now, your data friendly U.S. Census Bureau has harnessed the power of'
+summary: 'The pursuit of happiness for many of us might mean a fresh new start and a new place to call home. But where? In such a large and diverse country as ours, the choices can seem endless &mdash; and overwhelming. Now, your data friendly U.S. Census Bureau has harnessed the power'
 authors:
   - jparcell
 categories:
   - Code
   - Mobile
-  - "What's New"
 tag:
   - API
   - Census
@@ -17,7 +15,7 @@ tag:
   - United States Census Bureau
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS_DwellApp_graphic-576x1024.jpg)The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS_DwellApp_graphic-576x1024.jpg)The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
 
 **But where?**
 

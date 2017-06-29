@@ -1,5 +1,4 @@
 ---
-url: /2014/09/12/digitalgov-gov-six-months-later/
 date: 2014-09-12 12:00:02 -0400
 title: 'Strategy Pivot Yields Results: DigitalGov.Gov Six Months Later'
 summary: "Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we've learned so far."
@@ -11,7 +10,7 @@ categories:
   - Managing Digital
   - Our Work
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - analytics
   - content strategy
@@ -22,7 +21,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" caption="" >}} 
 
 Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we&#8217;ve learned so far.
 

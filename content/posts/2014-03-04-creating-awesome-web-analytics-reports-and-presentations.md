@@ -1,20 +1,19 @@
 ---
-url: /2014/03/04/creating-awesome-web-analytics-reports-and-presentations/
 date: 2014-03-04 11:33:08 -0400
 title: Creating Awesome Web Analytics Reports and Presentations
-summary: Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations? How
+summary: Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations?
 authors:
   - sarah-kaczmarek
 categories:
   - Metrics
   - Social Media
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - DAP
   - GAO
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Google-Analytics-image-250x155.png" alt="graphic explaining that the average site visitor looked at 3.7 pages and stayed 3 minutes" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Google-Analytics-image.png)Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations? How do you use the data to tell a story and grab your stakeholders’ attention?
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Google-Analytics-image-250x155.png" alt="graphic explaining that the average site visitor looked at 3.7 pages and stayed 3 minutes" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Google-Analytics-image.png)Collecting visitor, engagement, and traffic data for your digital channels is nothing new. By this time, you have a lot of data about your website. How do you use and present that data to make meaningful recommendations? How do you use the data to tell a story and grab your stakeholders’ attention?
 
 Sarah Kaczmarek, from GAO, has worked with GSA on a series of webinars to answer these questions. She also created a Google Analytics for government [training manual](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2ND_EDITION__GOOGLE_ANALYTICS_FOR_GOVERNMENT_TRAINING_MANUAL-4.pdf), and templates for reporting your metrics on a [weekly](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/google-analytics-sample-weekly-report.docx), [quarterly](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/google-analytics-sample-quarterly-report.docx), and [annual](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/google-analytics-template.pdf) basis. Now these resources are all together in one blog post for you.
 

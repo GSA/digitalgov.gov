@@ -1,5 +1,4 @@
 ---
-url: /2016/03/25/mcc-builds-on-lessons-learned-in-launch-of-second-open-data-challenge/
 date: 2016-03-25 10:00:16 -0400
 title: MCC Builds on Lessons Learned in Launch of Second Open Data Challenge
 summary: 'The Millennium Challenge Corporation (MCC)&rsquo;s first open data challenge taught MCC some very valuable lessons in making its public data truly usable by the public. The challenges ask masters and PhD students to find creative ways to use MCC&rsquo;s publicly-available evaluation data and provide new insights into its evaluation results. As the second challenge launches,'
@@ -23,7 +22,7 @@ The Millennium Challenge Corporation (MCC)’s first open data challenge taught 
 
 The Challenge was created as a way to gain insight into MCC’s evaluation results and the efficacy of its programs to improve its work. The Challenge is a part of MCC’s commitment to encourage the use of its [data](https://www.mcc.gov/blog/entry/blog-030116-students-help-maximize-the-use-of-mcc-data) as a global public good that can drive development effectiveness beyond the agency. [Read more](https://www.mcc.gov/initiatives/initiative/open) about MCC’s efforts to create and use open data, including through an upcoming competition in Côte d’Ivoire, one of its partner countries.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Millennium-Challenge-Corporation-MCC-Open-Data-Challenge-Twitter-image.jpg" alt="Millennium Challenge Corporation (MCC) Open Data Challenge logo." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Millennium-Challenge-Corporation-MCC-Open-Data-Challenge-Twitter-image.jpg" alt="Millennium Challenge Corporation (MCC) Open Data Challenge logo." >}}
 
 The Open Data Challenge 2.0 is looking for up-to 7,000 word papers that find analysis of data available on the [MCC Evaluation Catalog](https://data.mcc.gov/evaluations/index.php/catalog), in any of the following categories:
 

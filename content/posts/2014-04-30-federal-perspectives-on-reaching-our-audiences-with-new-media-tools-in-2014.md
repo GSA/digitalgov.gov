@@ -1,8 +1,7 @@
 ---
-url: /2014/04/30/federal-perspectives-on-reaching-our-audiences-with-new-media-tools-in-2014/
 date: 2014-04-30 1:03:13 -0400
 title: Federal Perspectives on Reaching Our Audiences with New Media Tools in 2014
-summary: AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV. In
+summary: AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
 authors:
   - miguel-gomez
 categories:
@@ -15,7 +14,7 @@ tag:
   - White House
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-2014-Federal-HIV-AIDS-Web-Council-annual-meeting.jpg" alt="The 2014 Federal HIV/AIDS Web Council Meeting" %}AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-167-2014-Federal-HIV-AIDS-Web-Council-annual-meeting.jpg" alt="The 2014 Federal HIV/AIDS Web Council Meeting" >}}AIDS.gov convenes and is guided by the Federal HIV/AIDS Web Council. The Council includes Web/new media leads, subject matter experts, and communication leads representing HIV programs across the U.S. government. Together we use new media to promote federal programs, policies and resources related to HIV.
 
 In March, members heard from four key federal leaders about how they are using technology to reach the goals of their programs. Below we provide highlights from each speaker’s remarks.
 

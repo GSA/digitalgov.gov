@@ -1,8 +1,7 @@
 ---
-url: /2015/07/21/trends-on-tuesday-gov-uk-weighs-in-on-mobile-user-habits/
 date: 2015-07-21 10:00:57 -0400
 title: 'Trends on Tuesday: GOV.UK Weighs in on Mobile User Habits'
-summary: ' England&rsquo;s Government Digital Service (similar to our own U.S. Digital Services and 18F) did a study of how content on their websites is consumed on mobile and non-mobile devices and learned several key points for a future-focused and mobile-friendly'
+summary: ' England&rsquo;s Government Digital Service (similar to our own U.S. Digital Services and 18F) did a study of how content on their websites is consumed on mobile and non-mobile devices and learned several key points for a future-focused and'
 authors:
   - wsullivan
 categories:
@@ -19,7 +18,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" >}}
 
 England’s [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (similar to our own [U.S. Digital Services](https://www.whitehouse.gov/digital/united-states-digital-service) and [18F](https://18f.gsa.gov/)) did a study of how content on their websites is consumed on mobile and non-mobile devices and [learned several key points for a future-focused and mobile-friendly government organization](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/):
 

@@ -1,8 +1,7 @@
 ---
-url: /2013/12/06/step-away-from-the-pdfs/
 date: 2013-12-06 12:55:07 -0400
 title: Step away from the PDFs!
-summary: 'Every year, one of our office&rsquo;s biggest projects is to prepare the Information Sharing Environment Annual Report to the Congress. This report examines the progress of Congress&rsquo;s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing. It&rsquo;s'
+summary: 'Every year, one of our office&rsquo;s biggest projects is to prepare the Information Sharing Environment Annual Report to the Congress. This report examines the progress of Congress&rsquo;s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.'
 authors:
   - leah-bannon
 categories:
@@ -11,7 +10,7 @@ categories:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Leah-Bannon.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Leah-Bannon-246x250.jpg" alt="Photo of the author Leah Bannon" %}</a>Every year, one of our office’s biggest projects is to prepare the <a href="http://ise.gov/annual-report/">Information Sharing Environment Annual Report to the Congress</a>. This report examines the progress of Congress’s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Leah-Bannon.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Leah-Bannon-246x250.jpg" alt="Photo of the author Leah Bannon" >}}</a>Every year, one of our office’s biggest projects is to prepare the <a href="http://ise.gov/annual-report/">Information Sharing Environment Annual Report to the Congress</a>. This report examines the progress of Congress’s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.
 </p>
 
 <p dir="ltr">

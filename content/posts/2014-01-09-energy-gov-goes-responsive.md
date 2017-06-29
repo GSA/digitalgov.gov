@@ -1,8 +1,7 @@
 ---
-url: /2014/01/09/energy-gov-goes-responsive/
 date: 2014-01-09 1:44:28 -0400
 title: Energy.gov goes Responsive
-summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to keep'
+summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to'
 categories:
   - Mobile
 tag:
@@ -13,7 +12,7 @@ tag:
   - United States Department of Energy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/EnergyGovscreenshot.jpg" alt="The newly redesigned Energy.gov website uses responsive design features that offer any smartphone, tablet or desktop user an optimal online experience." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/EnergyGovscreenshot.jpg" alt="The newly redesigned Energy.gov website uses responsive design features that offer any smartphone, tablet or desktop user an optimal online experience." >}}
 
 Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to keep warm?
 

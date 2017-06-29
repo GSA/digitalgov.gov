@@ -1,8 +1,7 @@
 ---
-url: /2013/12/19/eventbrite-now-available-for-federal-use/
 date: 2013-12-19 12:26:12 -0400
 title: Eventbrite Now Available for Federal Use
-summary: 'Does your agency host events, organize meet-ups, or provide training and professional development?  Then Eventbrite can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a federal-compatible Terms of Service. Eventbrite is an online ticketing service that allows event organizers to plan, set up registration or ticket sales and'
+summary: 'Does your agency host events, organize meet-ups, or provide training and professional development?  Then Eventbrite can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a federal-compatible Terms of Service. Eventbrite is an online ticketing service that allows event organizers to plan, set up registration or ticket sales'
 authors:
   - bsteele
 categories:
@@ -12,7 +11,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite-250x122.jpg" alt="eventbrite" %}</a>Does your agency host events, organize meet-ups, or provide training and professional development?  Then <a href="http://www.eventbrite.com/" target="_blank">Eventbrite</a> can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a <a href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/">federal-compatible Terms of Service</a>.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite-250x122.jpg" alt="eventbrite" >}}</a>Does your agency host events, organize meet-ups, or provide training and professional development?  Then <a href="http://www.eventbrite.com/" target="_blank">Eventbrite</a> can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a <a href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/">federal-compatible Terms of Service</a>.
 </p>
 
 <p dir="ltr">

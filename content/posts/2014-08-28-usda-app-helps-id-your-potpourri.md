@@ -1,8 +1,7 @@
 ---
-url: /2014/08/28/usda-app-helps-id-your-potpourri/
 date: 2014-08-28 10:00:31 -0400
 title: USDA App Helps ID Your Potpourri
-summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?) Before you discard your old potpourri or put some within reach of pets and children, you&#8217;ll want to take a look at this'
+summary: 'Got a thing for dried botanicals? (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?) Before you discard your old potpourri or put some within reach of pets and children, you&#8217;ll want to take a look at'
 categories:
   - Mobile
 tag:
@@ -14,7 +13,7 @@ tag:
   - USDA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-333-USDA-Lucid-dried-botanicals.jpg" alt="USDA Dried Botanicals app cover" %}Got a thing for dried botanicals?
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-333-USDA-Lucid-dried-botanicals.jpg" alt="USDA Dried Botanicals app cover" >}}Got a thing for dried botanicals?
 
 (No, not THOSE &#8230; but the stuff of fragrant sachets, decorative wreaths and glass jars filled with heavenly scents?)
 
@@ -22,7 +21,7 @@ Before you discard your old potpourri or put some within reach of pets and child
 
 The **Dried Botanicals Key app** for [iOS](https://itunes.apple.com/us/app/dried-botanicals-key/id818972882?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.lucidcentral.mobile.dried_bot&hl=en) was designed for professional botanists and plant-enthusiasts alike to quickly identify the variety of dried (scented, bleached or color-dyed) fungi, fruits, seeds and leaves you&#8217;re likely to find at your local craft shops and gift stores. Because these mixes can include poisonous, toxic, and invasive plant material capable of carrying plant diseases, it&#8217;s &#8220;key&#8221; that you know what you are using.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-333-USDA-Lucid-entities-list.jpg" alt="250-x-333-USDA-Lucid-entities-list" %}The app features close-up, full-color photos for each entry with descriptive language both scientists and amateurs will find helpful on-the-go.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-333-USDA-Lucid-entities-list.jpg" alt="250-x-333-USDA-Lucid-entities-list" >}}The app features close-up, full-color photos for each entry with descriptive language both scientists and amateurs will find helpful on-the-go.
 
 For instance, select &#8220;Flowers buds&#8221; under the Flowers drop-down menu and &#8220;Radial&#8221; shape under the Symmetry menu, swipe to the left, and you&#8217;ll learn more about the finer aspects of eucalyptus buds than you ever dreamed.
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/
 date: 2015-12-16 11:10:18 -0400
 title: 'Challenges, Crowdsourcing, Citizen Science: What&#8217;s the Dif?'
 summary: 'There&rsquo;s more than one way to harness the wisdom of the crowd. In honor of December&rsquo;s monthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two&rsquo;s company, three&rsquo;s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
@@ -7,7 +6,7 @@ authors:
   - awichman
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Monthly Theme
 tag:
   - Bureau of Reclamation
@@ -56,7 +55,7 @@ Efforts range from technical skills to scientific data to creative and visionary
   * Can you fix a technical bug with your programming skills? The Department of Health and Human Services’s (HHS) Centers for Medicare and Medicaid Services ran 100 technical challenge competitions to build a large-scale fraud detection platform. People could contribute micro- and macro-level programming skills.
   * Have ideas about solar power? The Department of Energy launched an ideation program, [SunShot Catalyst](https://www.WHATEVER/2015/08/07/an-innovation-framework-that-delivers-the-sunshot-catalyst-program/), to gather ideas from around the world about how to make solar energy cost-competitive.
 
-These are just three examples out of hundreds of crowdsourcing initiatives in government that bridge collaboration and community among the federal government and the public. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
+These are just three examples out of hundreds of crowdsourcing initiatives in government that bridge collaboration and community among the federal government and the public. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
 ## Internal Ideation
 
@@ -109,7 +108,7 @@ This is all about the money—raising funds.
 
 In crowdfunding, a person or organization uses an online platform to explain their pitch, idea, or concept, and they may even have a product to deliver. The platform is used to raise money via donations to the person or company. Sometimes, there is an exchange of goods for a donation.
 
-There is no official program within the federal government for crowdfunding. There are some initiatives for local and municipal government projects that can be found online. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" %} 
+There is no official program within the federal government for crowdfunding. There are some initiatives for local and municipal government projects that can be found online. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" caption="" >}} 
 
 ## Next Steps
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/07/10/help-us-strengthen-open-government/
 date: 2015-07-10 11:27:41 -0400
 title: Help Us Strengthen Open Government
 summary: Since the United States joined the Open Government Partnership in 2011, U.S. agencies have been working alongside civil society to develop and implement commitments to increase transparency, improve participation, and curb corruption. From opening up Federal spending data to make it easier to see how taxpayer dollars are spent, to the We the People online
@@ -14,11 +13,11 @@ tag:
 
 Since the United States joined the Open Government Partnership in 2011, U.S. agencies have been working alongside civil society to develop and implement commitments to increase transparency, improve participation, and curb corruption. From opening up Federal spending data to make it easier to see how taxpayer dollars are spent, to the _[We the People](https://petitions.whitehouse.gov/)_ online petition site where the public can propose U.S. policy changes, to strengthening efforts to deny safe haven in the U.S. to corrupt individuals, our efforts to advance open government are making an impact.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-337-Open-Govt-Partnership-2013-PDF-cover.jpg" alt=""The Open Government Partnership" 2013 pdf cover" %}Consistent with the commitment to the Open Government Partnership, later this year the United States plans to publish a third Open Government National Action Plan (NAP) including new and expanded open government initiatives to pursue in the next two years. The [first U.S. NAP](https://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf) was published in 2011 and the [second NAP](https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf)—which is still being [implemented](https://www.whitehouse.gov/sites/default/files/microsites/ostp/NAP%202%200%20Self-Assessment%20Report%20final.pdf) through the end of 2015—was published in 2013.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-337-Open-Govt-Partnership-2013-PDF-cover.jpg" alt="The Open Government Partnership 2013 pdf cover" >}}Consistent with the commitment to the Open Government Partnership, later this year the United States plans to publish a third Open Government National Action Plan (NAP) including new and expanded open government initiatives to pursue in the next two years. The [first U.S. NAP](https://www.whitehouse.gov/sites/default/files/us_national_action_plan_final_2.pdf) was published in 2011 and the [second NAP](https://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf)—which is still being [implemented](https://www.whitehouse.gov/sites/default/files/microsites/ostp/NAP%202%200%20Self-Assessment%20Report%20final.pdf) through the end of 2015—was published in 2013.
 
 These plans are a true team effort—governments work alongside civil society in all 65 OGP countries to develop and implement the efforts within the plans. Over the next several months, we encourage you to contribute your ideas and work with us to build an ambitious third NAP!
 
-## How can you contribute? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-243-Suggestion-box-with-feedback-notes-totallyPic.jpg" alt="A suggestion box with papers sticking out of the slot" %} 
+## How can you contribute? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-243-Suggestion-box-with-feedback-notes-totallyPic.jpg" alt="A suggestion box with papers sticking out of the slot" caption="" >}} 
 
 Please share any NAP suggestions with us [via email](mailto:opengov@ostp.gov) or tweet us at [@OpenGov](https://twitter.com/OpenGov).
 

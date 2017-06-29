@@ -1,5 +1,4 @@
 ---
-url: /2011/11/28/battle-royale-mobile-web-versus-mobile-apps/
 date: 2011-11-28 8:32:24 -0400
 title: 'Battle Royale: Mobile Web Versus Mobile Apps'
 summary: 'When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221; To help people with that question, we became fight promoters and sponsored THE BATTLE OF THE CENTURY!! Mobile Web Vs. Mobile Apps Two champions debated this hot topic: Neil'
@@ -16,7 +15,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2011/11/250-x-167-Stuart-Barr\_Fighting-Topis\_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo from flickr of two Topis (antelopes) fighting, head-butting each other" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2011/11/250-x-167-Stuart-Barr\_Fighting-Topis\_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo from flickr of two Topis (antelopes) fighting, head-butting each other" caption="" >}} 
 
 When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221;
 

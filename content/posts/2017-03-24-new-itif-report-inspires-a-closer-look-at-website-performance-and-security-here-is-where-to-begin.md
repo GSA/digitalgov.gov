@@ -1,5 +1,4 @@
 ---
-url: /2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/
 date: 2017-03-24 11:02:04 -0400
 title: New ITIF Report Inspires a Closer Look at Website Performance and Security—Here Is Where to Begin
 summary: 'The Information Technology & Innovation Foundation (ITIF) recently published a report, Benchmarking U.S. Government Websites, that looks at the performance, security, and accessibility of the top 297 government websites. ITIF is a think tank in Washington, D.C. whose mission is to formulate, evaluate, and promote policy solutions that accelerate innovation in technology and public policy.'
@@ -14,8 +13,8 @@ categories:
   - Managing Digital
   - Metrics
   - Mobile
-  - 'Strategy and Policy'
-  - 'User Testing and Research'
+  - 'Strategy &amp; Policy'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - accessibility
@@ -50,7 +49,7 @@ Over the past 90 days, government websites were visited over 2.55 billion times.
 
 However, according to ITIF’s findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
 
-So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {% img="https://www.WHATEVER/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, "solutions."" %} 
+So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
 
 ## Improving Your Site’s Performance
 

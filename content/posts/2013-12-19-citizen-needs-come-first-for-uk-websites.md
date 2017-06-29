@@ -1,8 +1,7 @@
 ---
-url: /2013/12/19/citizen-needs-come-first-for-uk-websites/
 date: 2013-12-19 1:02:31 -0400
 title: Citizen Needs Come First for UK Websites
-summary: 'We have long believed that &ldquo;governments learn best from other governments&rdquo; and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when Michael Bracken, creator and director of the United Kingdom&rsquo;s Government Digital Service, spoke to a'
+summary: 'We have long believed that &ldquo;governments learn best from other governments&rdquo; and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when Michael Bracken, creator and director of the United Kingdom&rsquo;s Government Digital Service, spoke to'
 authors:
   - darlene-meskell
 categories:
@@ -14,7 +13,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg" alt="Photo of Mike Bracken." %}</a>We have long believed that “governments learn best from other governments” and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when <strong>Michael Bracken</strong>, creator and director of the United Kingdom’s Government Digital Service, spoke to a cadre of Presidential Innovation Fellows and others in the GSA auditorium.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg" alt="Photo of Mike Bracken." >}}</a>We have long believed that “governments learn best from other governments” and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when <strong>Michael Bracken</strong>, creator and director of the United Kingdom’s Government Digital Service, spoke to a cadre of Presidential Innovation Fellows and others in the GSA auditorium.
 </p>
 
 <p dir="ltr">

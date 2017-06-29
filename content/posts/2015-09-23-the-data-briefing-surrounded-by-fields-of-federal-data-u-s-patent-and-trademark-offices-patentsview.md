@@ -1,5 +1,4 @@
 ---
-url: /2015/09/23/the-data-briefing-surrounded-by-fields-of-federal-data-u-s-patent-and-trademark-offices-patentsview/
 date: 2015-09-23 10:00:11 -0400
 title: 'The Data Briefing: Surrounded by Fields of Federal Data—U.S. Patent and Trademark Office’s PatentsView'
 summary: Hello, everyone. My summer sabbatical was short but educational, and I am glad to be back in the federal government. I am also excited to again take up the weekly API article that is now expanded to include all things federal government data. Much has happened in the open data realm, and there is much
@@ -23,7 +22,7 @@ On my sabbatical reading stack was &#8220;Code Halos: How the Digital Lives of P
 
 This is nothing new, and you have read similar statements in my earlier columns. In fact, I have written several times about the [role that federal government data has in helping companies innovate](https://www.WHATEVER/2015/04/15/the-api-briefing-how-essential-is-government-data-to-the-american-economy/) to provide data-rich services and products: essential data such as [census information](https://www.WHATEVER/2015/06/03/the-api-briefing-make-it-an-api-the-census-bureaus-census-of-governments/), [weather forecasts](https://www.WHATEVER/2014/07/09/the-api-briefing-how-apis-provide-localized-information-noaas-weather-service-data-and-fccs-broadband-services-map/), [economic indicators](https://www.WHATEVER/2014/11/26/the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data/), and [health alerts](https://www.WHATEVER/2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/). Combine this data with other data to produce code halos around a community, a group of people, or local economy. Let’s take an example from a new federal dataset.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-USPTO-PatentsView-homepage.jpg" alt="Screen capture from the U.S.P.T.O. Patents View homepage" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-USPTO-PatentsView-homepage.jpg" alt="Screen capture from the U.S.P.T.O. Patents View homepage" >}}
 
 The U.S. Patent and Trademark Office (USPTO) just released <a href="http://www.patentsview.org/web/" target="_blank">PatentsView</a>, which is an interactive data visualization tool for exploring nearly 40 years of data about U.S. patents. The users can easily use point-and-click tools on categories such as the patent title, the inventor’s name, location, or patent grant date. I tried one of the sample searches for the most prolific inventor in 2014 (Bartley K. Andre) and found that he had 99 granted patents. I could drill down by geographic area (with a corresponding map), patent class, and even change the date range. Clicking on the patent title gave me the filing date and how long it took to process the application. I could even see the specific patent information on Google.
 

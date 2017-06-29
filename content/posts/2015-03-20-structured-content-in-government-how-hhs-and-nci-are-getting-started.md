@@ -1,5 +1,4 @@
 ---
-url: /2015/03/20/structured-content-in-government-how-hhs-and-nci-are-getting-started/
 date: 2015-03-20 9:50:12 -0400
 title: 'Structured Content in Government: How HHS and NCI Are Getting Started'
 summary: 'Metadata, tagging, content modeling &hellip; they&rsquo;re not identical concepts, but they&rsquo;re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed. If you&rsquo;re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall content'
@@ -23,7 +22,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
 
 Metadata, tagging, content modeling … they’re not identical concepts, but they’re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed.
 
@@ -49,7 +48,7 @@ The team saw a “huge opportunity” to integrate the new content types into a 
 
 ## NCI: New Content Structure for a Responsive Website
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-responsive-redesign-of-CancerGov-homepage-on-Android-smart-phone.jpg" alt="The Cancer.gov homepage on an Android smart phone" %}At NCI, a responsive redesign of [Cancer.gov](http://www.cancer.gov/) was the impetus for improving content structure—content needs a consistent structure to work properly on a responsive site. Some content was already well-structured, but other material on the site did not have consistent structure or metadata. Since content on Cancer.gov is not centrally managed, that adds to the challenge.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-responsive-redesign-of-CancerGov-homepage-on-Android-smart-phone.jpg" alt="The Cancer.gov homepage on an Android smart phone" >}}At NCI, a responsive redesign of [Cancer.gov](http://www.cancer.gov/) was the impetus for improving content structure—content needs a consistent structure to work properly on a responsive site. Some content was already well-structured, but other material on the site did not have consistent structure or metadata. Since content on Cancer.gov is not centrally managed, that adds to the challenge.
 
 NCI managers backed the project from the start. The challenge, Cheryan said, has been educating authors who are distributed throughout the organization and are used to publishing directly to the site.
 

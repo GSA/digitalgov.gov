@@ -1,8 +1,7 @@
 ---
-url: /2013/09/06/studentaid-gov-improving-the-college-financing-experience/
 date: 2013-09-06 3:42:06 -0400
 title: 'StudentAid.gov: Improving the College Financing Experience'
-summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).  Established in late 2010, FSA&rsquo;s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.  The launch of StudentAid.gov in July 2012, by'
+summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).  Established in late 2010, FSA&rsquo;s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.  The launch of StudentAid.gov in July 2012,'
 authors:
   - brenda-wensil
 categories:
@@ -13,7 +12,7 @@ tag:
   - multilingual
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/student-aid-4-250x166.jpg" alt="student aid 4" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/student-aid-4.jpg)Guest post by_ _Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._ 
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/student-aid-4-250x166.jpg" alt="student aid 4" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/student-aid-4.jpg)Guest post by_ _Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._ 
 
 The launch of <a href="http://studentaid.ed.gov/" target="_blank">StudentAid.gov</a> in July 2012, by Federal Student Aid (FSA), part of the U.S. Department of Education, not only consolidated content from 14+ sites into one and retired five Web portals. It also saved taxpayers $1.6 million in the process.
 
@@ -39,4 +38,4 @@ With these enhancements, the new site provides more options for students and fam
 
 Check back  because in our next post, we&#8217;re going to share what we&#8217;ve learned from the past year and what we&#8217;re working on for 2014.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg)

@@ -1,12 +1,10 @@
 ---
-url: /2014/01/30/alternative-fueling-station-locator-app-from-the-department-of-energy/
 date: 2014-01-30 2:25:56 -0400
 title: Alternative Fueling Station Locator App from the Department of Energy
 summary: 'So: You decided to purchase a car that takes advantage of more environmentally friendly fuel. Congratulations! Now, you need to find a place to fill the tank that offers more than just regular gas. The new Alternative Fueling Station Locator app from the folks at the Department of Energy&rsquo;s National Renewable Energy Laboratory is a must-try. The new iPhone app will'
 categories:
   - Code
   - Mobile
-  - "What's New"
 tag:
   - API
   - mobile apps
@@ -19,7 +17,7 @@ So: You decided to purchase a car that takes advantage of more environmentally f
 
 The new [**Alternative Fueling Station Locator app**](https://itunes.apple.com/us/app/alternative-fueling-station/id718577947) from the folks at the Department of Energy’s [National Renewable Energy Laboratory](http://www.nrel.gov/) is a must-try. The new [iPhone](https://itunes.apple.com/us/app/alternative-fueling-station/id718577947) app will find and map the 20 closest stations within 30 miles of your location that sell alternative fuels such as natural gas, biodiesel, E85 ethanol, propane and hydrogen. Got an electric car? This app finds stations offering electricity chargers, too.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png" alt="Two screen shots of Alternative Fueling Station Locator App , one showing a map of Southern California with push pins showing locations of fueling stations, and the second screen shot showing details (address, what type of fuel, etc)" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png" alt="Two screen shots of Alternative Fueling Station Locator App , one showing a map of Southern California with push pins showing locations of fueling stations, and the second screen shot showing details (address, what type of fuel, etc)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png)
 
 **How It Works**
 

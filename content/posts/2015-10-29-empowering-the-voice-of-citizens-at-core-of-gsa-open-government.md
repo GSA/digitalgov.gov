@@ -1,8 +1,7 @@
 ---
-url: /2015/10/29/empowering-the-voice-of-citizens-at-core-of-gsa-open-government/
 date: 2015-10-29 10:19:09 -0400
 title: Empowering the Voice of Citizens at Core of GSA Open Government
-summary: ' We are proud to announce our commitment to the third U.S. National Action Plan for Open Government, released this week at the Open Government Partnership (OGP) Global Summit in Mexico City, Mexico, and'
+summary: ' We are proud to announce our commitment to the third U.S. National Action Plan for Open Government, released this week at the Open Government Partnership (OGP) Global Summit in Mexico City, Mexico,'
 authors:
   - jherman
 categories:
@@ -15,7 +14,7 @@ tag:
   - open government
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" >}}
 
 We are proud to announce our commitment to the [third U.S. National Action Plan for Open Government](https://www.whitehouse.gov/sites/default/files/microsites/ostp/final_us_open_government_national_action_plan_3_0.pdf), released this week at the Open Government Partnership (OGP) Global Summit in Mexico City, Mexico, and are also eager to share how Public Participation can empower our citizens to have a greater voice and impact in improving their services.
 

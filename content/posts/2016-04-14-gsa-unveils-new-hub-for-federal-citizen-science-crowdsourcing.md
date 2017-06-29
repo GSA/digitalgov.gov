@@ -1,12 +1,11 @@
 ---
-url: /2016/04/14/gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing/
 date: 2016-04-14 11:10:36 -0400
 title: 'GSA Unveils New Hub for Federal Citizen Science & Crowdsourcing'
-summary: 'Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out? There&rsquo;s help out there, and now that help is easier than ever to find. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across'
+summary: 'Do you have a scientific issue to address? Wish you had dozens, hundreds, even thousands more people helping you out? There&rsquo;s help out there, and now that help is easier than ever to find. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science'
 authors:
   - kelly-olson
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - ChallengeGov
   - citizen science
@@ -19,7 +18,7 @@ Do you have a scientific issue to address? Wish you had dozens, hundreds, even t
 
 There’s help out there, and now that help is easier than ever to find.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." >}}
 
 The General Services Administration (GSA) yesterday launched [CitizenScience.gov](https://www.citizenscience.gov), a new central hub for citizen science and crowdsourcing projects across the federal government.
 
@@ -39,7 +38,7 @@ Now, onto the new site, which was developed in partnership with the Woodrow Wils
 
 CitizenScience.gov makes it easy for agencies to advertise, find and learn how to run citizen science and crowdsourcing projects.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Federal-Crowdsourcing-and-Citizen-Science-Catalog.jpg" alt="Federal Crowdsourcing and Citizen Science Catalog listing page with data visualization map" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Federal-Crowdsourcing-and-Citizen-Science-Catalog.jpg" alt="Federal Crowdsourcing and Citizen Science Catalog listing page with data visualization map" >}}
 
 The site has three main features:
 

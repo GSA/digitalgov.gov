@@ -1,5 +1,4 @@
 ---
-url: /2016/03/24/buying-power-new-labs-will-foster-innovation-in-government-acquisition/
 date: 2016-03-24 10:00:31 -0400
 title: 'Buying Power: New Labs Will Foster Innovation in Government Acquisition'
 summary: The slow, tedious federal acquisition process has long been the butt of jokes in the private sector. If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. But that culture
@@ -18,7 +17,7 @@ tag:
 
 The slow, tedious federal acquisition process has long been the butt of jokes in the private sector.
 
-If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" %} 
+If the government had wanted to buy the original Nintendo, one might say, it would have all the paperwork in place by the time the rest of the world had moved on to the XBox. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-People-putting-the-pieces-together-concept-DigtialStorm-iStock-Thinkstock-473511946.jpg" alt="People putting the pieces together concept" caption="" >}} 
 
 But that culture is changing, thanks in no small part to many of the efforts first featured here on DigitalGov.gov. And now, federal agencies have even more reasons to improve the way they do business, with continued support directly from the top.
 
@@ -32,7 +31,7 @@ Agencies should aim to have to their labs (or similar mechanisms) in place by Ma
 
 An Office of Management and Budget (OMB) [memo](https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/acquisition-innovation-labs-and-pilot-for-digital-acquisition-innovation-lab-memorandum.pdf) sent to chief acquisition officers, senior procurement executives and chief information officers details the ways these labs can be used to create a more effective government acquisition experience.
 
-Pay close attention to the attachments, which start on Page 7. That’s where you’ll find specific examples of how agencies have applied newfangled techniques in the acquisition process. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Innovation-yuriz-iStock-Thinkstock-477656224.jpg" alt="The word Innovation on a chalkboard, with a stop watch for the letter o." %} 
+Pay close attention to the attachments, which start on Page 7. That’s where you’ll find specific examples of how agencies have applied newfangled techniques in the acquisition process. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Innovation-yuriz-iStock-Thinkstock-477656224.jpg" alt="The word Innovation on a chalkboard, with a stop watch for the letter o." caption="" >}} 
 
 Some agencies used a method you read a lot about on this blog: They issued a challenge. A prize competition allows agencies to crowdsource solutions to their problems and pay only for results.
 

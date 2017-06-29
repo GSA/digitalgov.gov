@@ -1,5 +1,4 @@
 ---
-url: /2015/04/16/nasa-apis-opening-data-assets/
 date: 2015-04-16 10:00:49 -0400
 title: 'NASA APIs: Opening Data Assets'
 summary: 'Data is one of the most important assets at NASA. We have data on comets, measurements of Mars, and real-time imagery of Earth. But what good is data if you can&rsquo;t access it? Not good at all! We&rsquo;re in the process of building a site (at api.nasa.gov) to catalog NASA APIs that structure access to'
@@ -14,7 +13,7 @@ tag:
   - NASA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-502-Mystic-Mountain-Dust-Pillars\_Image-Credit-Hubble-Legacy-Archive-NASA-ESA\_Processing-and-Copyright-David-Forteza.jpg" alt="Image Credit: Hubble Legacy Archive, NASA, ESA; Processing & Copyright: David Forteza" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-502-Mystic-Mountain-Dust-Pillars\_Image-Credit-Hubble-Legacy-Archive-NASA-ESA\_Processing-and-Copyright-David-Forteza.jpg" alt="Image Credit: Hubble Legacy Archive, NASA, ESA; Processing & Copyright: David Forteza" caption="" >}} 
 
 Data is one of the most important assets at NASA. We have data on comets, measurements of Mars, and real-time imagery of Earth. But what good is data if you can’t access it? Not good at all! We’re in the process of building a site (at api.nasa.gov) to catalog NASA APIs that structure access to our data, making it eminently easy for developers to build applications. An application, here, is broadly defined and includes research applications, mobile applications, policy applications—any data use that converts information into insight and action.
 

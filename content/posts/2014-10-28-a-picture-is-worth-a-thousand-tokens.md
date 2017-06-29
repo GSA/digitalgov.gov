@@ -1,5 +1,4 @@
 ---
-url: /2014/10/28/a-picture-is-worth-a-thousand-tokens/
 date: 2014-10-28 11:15:34 -0400
 title: A Picture Is Worth a Thousand Tokens
 summary: 'Increasingly, we&#8217;ve noticed that our agency customers are publishing their highest quality images on social media and within database-driven multimedia galleries on their websites. These sources are curated, contain metadata, and have both thumbnails and full-size images. That&#8217;s a big improvement in quality over the images embedded within HTML pages on agencies&#8217; websites. After some'
@@ -21,7 +20,7 @@ After some investigating, we decided we could leverage their Flickr and Instagra
 
 See the sample results page below that shows image results displayed on [DOI.gov for a search on _moon_](http://search.doi.gov/search/images?utf8=%E2%9C%93&affiliate=doi.gov&query=moon).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-658-DOIgov-search-moon.jpg" alt="DOI.gov DigitalGov Search on the word moon." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-658-DOIgov-search-moon.jpg" alt="DOI.gov DigitalGov Search on the word moon." >}}
 
 We also [open-sourced the entire codebase](https://github.com/GSA/oasis) behind this project.
 
@@ -41,7 +40,7 @@ We wanted this system to be decoupled from our main codebase so it could evolve 
 
 Flickr and Instagram both publish a lot of metadata about each photo in their APIs. Some of it overlaps, some of it is particular to each platform, and some of it is not particularly useful so we ignore it.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/482-x-176-Flickr-Instagram-metadata-table.jpg" alt="Flickr and Instagram both publish a lot of metadata about each photo in their APIs" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/482-x-176-Flickr-Instagram-metadata-table.jpg" alt="Flickr and Instagram both publish a lot of metadata about each photo in their APIs" >}}
 
 Both platforms have the notion of when a photo was taken, and of course they have the image itself along with some thumbnail. A set of tags can potentially be assigned to each photo, too.
 
@@ -57,15 +56,15 @@ To develop our [minimum viable product](http://theleanstartup.com/principles) (M
 
 Flickr (click image to see full code block):
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-flickr-code.jpg" alt="600-x-186-tokens-initial-flickr-code" %}](https://gist.github.com/loren/b04165195afa6895affb)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-flickr-code.jpg" alt="600-x-186-tokens-initial-flickr-code" >}}](https://gist.github.com/loren/b04165195afa6895affb)
 
 Instagram (click image to see full code block):
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-instagram-code.jpg" alt="600-x-186-tokens-initial-instagram-code" %}](https://gist.github.com/loren/57780909332d570a5922)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-instagram-code.jpg" alt="600-x-186-tokens-initial-instagram-code" >}}](https://gist.github.com/loren/57780909332d570a5922)
 
 We used these settings across the indexes (click image to see full code block):
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-settings-across-indexes-code.jpg" alt="600-x-186-tokens-initial-settings-across-indexes-code" %}](https://gist.github.com/loren/8410d6fc947ee6091eb1)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-settings-across-indexes-code.jpg" alt="600-x-186-tokens-initial-settings-across-indexes-code" >}}](https://gist.github.com/loren/8410d6fc947ee6091eb1)
 
 Looking at the mappings and the settings, you can see that we had to make a lot of decisions upfront about how fields would be treated when we indexed the documents (photo metadata). In theory, Elasticsearch is schema-less and we could have just taken whatever fields we got from the Instagram and Flickr APIs and sent them over the fence to Elasticsearch as JSON documents to be dynamically mapped. We had learned a few lessons from prior Elasticsearch and [Solr](http://lucene.apache.org/solr/) projects, however, so we had ideas on how the analysis chain should behave for the various fields.
 
@@ -91,7 +90,7 @@ We had a few heuristics in mind as to how we wanted relevancy and precision to w
 
 The initial query looked like this (click image to see full code block):
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-search-query-code.jpg" alt="600-x-186-tokens-initial-search-query-code" %}](https://gist.github.com/loren/3e81ce2637f9889109b5)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-186-tokens-initial-search-query-code.jpg" alt="600-x-186-tokens-initial-search-query-code" >}}](https://gist.github.com/loren/3e81ce2637f9889109b5)
 
 At a high level, this is a filtered query that uses a custom function score to impact the final score, and the query runs across both the Instagram and Flickr indexes. The filter part of the filtered query limits the search space to just the profiles we care about. The query part of the filtered query says that the search term should match at least the tags or one of the full-text fields. The function score takes the raw score from the filtered query and multiplies it by factors based on the popularity field and the taken_at field. Rather than use the raw popularity value to impact the score, we run it through the log2p() function. This takes the base-10 logarithm of the popularity so that a photo with a popularity of 1,000,000 is only boosted 2x more than a photo with a popularity of 1,000 instead of being boosted by 1,000X more. The log2p() function adds 2 to the raw popularity value before taking the logarithm, nicely accounting for the cases where a photo&#8217;s popularity is 0 or 1. To account for recency, we applied a Gaussian [decay function](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-function-score-query.html#_decay_functions) to the taken_at date field, essentially making photos from one month ago half as relevant as photos posted today while not penalizing photos much from just a few days ago.
 
@@ -117,7 +116,7 @@ Recent photos that happened to be popular on Flickr or Instagram would get boost
 
 A much bigger problem surfaced around photo albums. Sometimes photographers would take dozens of photographs of the same event, assign very similar metadata to all of them, and upload them to their social media profile. This screenshot of a search results page with 19 nearly identical pictures of Michelle Obama in a yellow sundress sums up the problem nicely:
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-614-USAgov-search-Barack-Obama.jpg" alt="600-x-614-USAgov-search-Barack-Obama" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-614-USAgov-search-Barack-Obama.jpg" alt="600-x-614-USAgov-search-Barack-Obama" >}}
 
 All of these similar photos are relevant, but we&#8217;d rather just show a few of them for an [image search on _barack obama_ on USA.gov](http://search.usa.gov/search/images?affiliate=usagov&query=barack+obama) and perhaps let the visitor click through to see the rest of them.
 

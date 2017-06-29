@@ -1,8 +1,7 @@
 ---
-url: /2014/08/14/census-pop-quiz-mobile-app-challenges-knowledge-of-state-statistics/
 date: 2014-08-14 1:29:36 -0400
 title: Census PoP Quiz Mobile App Challenges Knowledge of State Statistics
-summary: 'The U.S. Census Bureau today released Census PoP Quiz, a new interactive mobile application that challenges users&rsquo; knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau&rsquo;s American Community Survey, aims to raise statistical'
+summary: 'The U.S. Census Bureau today released Census PoP Quiz, a new interactive mobile application that challenges users&rsquo; knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau&rsquo;s American Community Survey, aims to raise'
 categories:
   - Mobile
 tag:
@@ -15,7 +14,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen-301x212.jpg" alt="Start screen of Census App Pop Quiz" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen.jpg)The U.S. Census Bureau today released [Census PoP Quiz](https://www.census.gov/mobile/censuspopquiz/), a new interactive mobile application that challenges users’ knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau’s American Community Survey, aims to raise statistical literacy about the U.S. population.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen-301x212.jpg" alt="Start screen of Census App Pop Quiz" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen.jpg)The U.S. Census Bureau today released [Census PoP Quiz](https://www.census.gov/mobile/censuspopquiz/), a new interactive mobile application that challenges users’ knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau’s American Community Survey, aims to raise statistical literacy about the U.S. population.
 
 Census PoP Quiz provides an introduction to the statistics that define our growing, changing nation and is a great way for everyone to learn facts about all 50 states, the District of Columbia and the nation in a fun, relevant way.
 

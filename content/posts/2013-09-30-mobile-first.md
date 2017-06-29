@@ -1,12 +1,11 @@
 ---
-url: /2013/09/30/mobile-first/
 date: 2013-09-30 11:44:17 -0400
 title: Mobile First
-summary: Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority. This means the site will
+summary: Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority. This means the site
 categories:
   - Design
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - mobile
@@ -15,7 +14,7 @@ tag:
   - responsive web design
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg)Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg)Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
 
 This means the site will work (to some degree) on that shiny new web-enabled gizmo sitting under your neighbor’s Christmas tree 4 years from now.
 

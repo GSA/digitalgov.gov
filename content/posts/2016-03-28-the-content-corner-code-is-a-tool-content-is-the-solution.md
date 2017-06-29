@@ -1,5 +1,4 @@
 ---
-url: /2016/03/28/the-content-corner-code-is-a-tool-content-is-the-solution/
 date: 2016-03-28 10:00:50 -0400
 title: 'The Content Corner: Code is a Tool, Content is the Solution'
 summary: It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content
@@ -17,7 +16,7 @@ tag:
   - The Content Corner
 ---
 
-It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) previously discussed. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." %} 
+It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content](https://www.WHATEVER/2015/08/03/the-content-corner-rise-of-the-machines/) previously discussed. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." caption="" >}} 
 
 In instances where the user’s need is primarily a content-based solution (an answer to a question, for example) technology is of minor importance. Plain text could work. And in many instances, design with a focus on how the content is displayed is still more important than the underlying code.
 
@@ -40,7 +39,7 @@ I’m very happy that organizations such as [Code for America](http://www.codefo
 
 So how can we inspire people to design better content in equal, or dare I say, a greater number than we inspire to code? One way is to show off the beauty of code and content working together in tandem, to make sure that the technology being used and the content being provided exists only to service a specific goal or need of the user.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-CDC-Zika-Virus-website.jpg" alt="Screen capture of the Centers for Disease Control and Prevention's information microsite for Zika Virus." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-CDC-Zika-Virus-website.jpg" alt="Screen capture of the Centers for Disease Control and Prevention's information microsite for Zika Virus." >}}
 
 An example that I admittedly call attention to frequently is the work CDC is doing with their [content syndication](https://www.WHATEVER/2012/11/05/centers-for-disease-control-content-syndication/). One reason it&#8217;s a personal favorite is that it&#8217;s a wonderful example of technology allowing critical, well-considered content ([Zika virus micro sites](https://www.WHATEVER/2016/02/11/microsites-keep-your-audience-updated-on-outbreaks/), for instance) to be dispersed to more users with greater efficiency. It&#8217;s that essential equilibrium between code and content that we need to be cognizant of and be sure that content never becomes less important than code
 

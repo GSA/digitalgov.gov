@@ -1,5 +1,4 @@
 ---
-url: /2014/09/11/cheaters-thieves-saboteurs-other-nefarious-competitors/
 date: 2014-09-11 12:00:59 -0400
 title: 'Cheaters, Thieves, Saboteurs & Other Nefarious Competitors'
 summary: "Challenge and prize competitions are competitive and not always squeaky clean. There are a few things we've noticed and noted in our experience over the last four years with challenge competitions run by federal agencies and studying others in the private sector."
@@ -12,7 +11,7 @@ tag:
   - crowdsourcing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 Challenge and prize competitions are competitive and not always squeaky clean. There is money at stake, pride, honor, and awards.
 

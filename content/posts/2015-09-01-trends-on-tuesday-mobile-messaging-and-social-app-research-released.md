@@ -1,8 +1,7 @@
 ---
-url: /2015/09/01/trends-on-tuesday-mobile-messaging-and-social-app-research-released/
 date: 2015-09-01 10:00:08 -0400
 title: 'Trends on Tuesday: Mobile Messaging and Social App Research Released'
-summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about these
+summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about
 authors:
   - wsullivan
 categories:
@@ -22,7 +21,7 @@ tag:
 
 On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used](https://www.WHATEVER/2015/08/18/trends-on-tuesday-the-rise-in-mobile-addicts/).
   
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
 
 [Pew Research released a new report](http://www.pewinternet.org/2015/08/19/mobile-messaging-and-social-media-2015/) specifically about these wildly popular channels for mobile engagement, specifically focused on how youth use them, with some interesting results that government agencies should pay attention to for their digital strategies.
 
@@ -50,7 +49,7 @@ Besides the content on Facebook, when users in the Facebook app go to other webs
 
 Although Facebook remains dominate and Twitter and LinkedIn are popular, Instagram and Pinterest had the largest growth in recent years of all the platforms that Pew tracked since 2012—more than doubling their audiences.
   
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-346-Pew-Research-Center-2015-08-19\_social-media-update\_A_03.png" alt="A graphic from Pew Research Center that shows bar graphs representing the growth of Facebook, Pinterest, Instagram, LinkedIn and Twitter, from 2012-2015" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-346-Pew-Research-Center-2015-08-19_social-media-update_A_03.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-346-Pew-Research-Center-2015-08-19\_social-media-update\_A_03.png" alt="A graphic from Pew Research Center that shows bar graphs representing the growth of Facebook, Pinterest, Instagram, LinkedIn and Twitter, from 2012-2015" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-346-Pew-Research-Center-2015-08-19_social-media-update_A_03.png)
 
 ## Mobile Messaging Apps Are Replacing SMS Texting for Young Adults
 

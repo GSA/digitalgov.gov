@@ -1,5 +1,4 @@
 ---
-url: /2015/07/07/trends-on-tuesday-trends-in-cms/
 date: 2015-07-07 11:57:30 -0400
 title: 'Trends on Tuesday: Trends in CMS'
 summary: 'A Content Management System (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or deciding whether you need one at all) is one that many agencies have faced. It&rsquo;s not an easy choice because there are many solutions available to content managers. As government agencies, the majority of content we deliver is'
@@ -16,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-250-Modern-digital-media-website-connection-1-sphere-abstract-scheme-tovovan-iStock-Thinkstock-468874585.jpg" alt="A wire sphere of connected content type or pages of a website" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-250-Modern-digital-media-website-connection-1-sphere-abstract-scheme-tovovan-iStock-Thinkstock-468874585.jpg" alt="A wire sphere of connected content type or pages of a website" caption="" >}} 
 
 A [Content Management System](https://www.WHATEVER/event/the-results-are-in-2015-comprehensive-web-cms-customer-survey/) (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or [deciding whether you need one at all](https://www.WHATEVER/2013/12/12/9-reasons-your-agency-should-have-a-cms/)) is one that many agencies have faced. It’s not an easy choice because there are many solutions available to content managers.
 
@@ -26,7 +25,7 @@ According to the [Business Insider](http://www.businessinsider.com/sc/2015-conte
 
   * Content creators will gain more control,
   * [Open-source development](http://opensource.com/business/15/5/open-source-clear-choice-cms-development) use will increase,
-  * CMS will become a more integral part of an organization’s content strategy. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-250-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." %} 
+  * CMS will become a more integral part of an organization’s content strategy. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-250-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
 
 A CMS [can also help you mobilize](https://www.WHATEVER/2014/09/03/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap/) a new website out of the box.
 

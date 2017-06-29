@@ -10,7 +10,6 @@
       {{ $slug := .Title | urlize }}
       {{ $taxdata := index $data $taxonomy }}
       {{ $term := index $taxdata $slug }}
-
       <h1 class="archive-title">{{ $term }}</h1>
 
       {{ range (.Paginator 10).Pages }}

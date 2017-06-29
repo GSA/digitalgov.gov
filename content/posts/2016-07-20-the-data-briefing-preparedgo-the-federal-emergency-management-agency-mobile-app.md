@@ -1,5 +1,4 @@
 ---
-url: /2016/07/20/the-data-briefing-preparedgo-the-federal-emergency-management-agency-mobile-app/
 date: 2016-07-20 10:00:54 -0400
 title: 'The Data Briefing: &#8220;PreparedGo&#8221; – The Federal Emergency Management Agency Mobile App'
 summary: While you are outside hunting Pokemon or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The Federal Emergency Management Agency (FEMA) mobile app alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA
@@ -24,7 +23,7 @@ The FEMA mobile app is divided into four main sections: Weather Alerts, Prepare,
 
 In the Prepare section, I can create an emergency checklist and receive safety reminders. Thankfully, I have never needed to use the Disaster Resources section, but it is comforting to know where the nearest FEMA shelters are and how to contact FEMA personnel. Before discussing Submit Disaster Photos, I want to also point out the app&#8217;s ability to present the content in Spanish and its links to a blog on preparedness topics. Overall, the user experience is clean and intuitive with large buttons and large text. The simple menu system is an important design element as the app will be used in emergency situations and must be easy to read and navigate.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-FEMA-App-in-English.jpg" alt="FEMA app in English." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-FEMA-App-in-English.jpg" alt="FEMA app in English." >}}
 
 Submit Disaster Photos is a unique feature that utilizes crowdsourcing to help FEMA better serve the public. By providing a photo-sharing platform, people in the disaster area can provide on-the-ground intelligence to aid first responders in managing a disaster. Photo sharing is an interesting feature that could be vital in disaster situations and is something I would like to see expanded.
 

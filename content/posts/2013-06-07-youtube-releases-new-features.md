@@ -1,8 +1,7 @@
 ---
-url: /2013/06/07/youtube-releases-new-features/
 date: 2013-06-07 11:19:24 -0400
 title: YouTube Releases New Features
-summary: 'YouTube recently upgraded  to the new One Channel design. The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits its'
+summary: 'YouTube recently upgraded  to the new One Channel design. The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits'
 authors:
   - jason-kelly
 categories:
@@ -13,7 +12,7 @@ tag:
   - YouTube
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Usa.govyoutubeimage-250x129.jpg" alt="Screenshot of USA.gov Youtube image" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Usa.govyoutubeimage.jpg)YouTube recently upgraded  to the new [One Channel design](http://www.youtube.com/onechannel). The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits its template.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Usa.govyoutubeimage-250x129.jpg" alt="Screenshot of USA.gov Youtube image" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Usa.govyoutubeimage.jpg)YouTube recently upgraded  to the new [One Channel design](http://www.youtube.com/onechannel). The new design emphasizes responsive layouts for mobile devices, tablets, desktops and laptops, and TVs. A single banner on a white background replaces a customizable background and color scheme. YouTube recommends using a single 2560 x 1440 px image that fits its template.
 
 The featured video has been replaced by a Channel trailer for non-subscribers. Think of it as a short video that welcomes people to your Channel and tells them what it is about and why they should subscribe.
 

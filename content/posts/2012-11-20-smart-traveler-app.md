@@ -1,8 +1,7 @@
 ---
-url: /2012/11/20/smart-traveler-app/
 date: 2012-11-20 2:22:34 -0400
 title: Smart Traveler App
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Department of State. Secretary Clinton often talks about using &#8220;21st Century Statecraft&#8221; at the State Department. For us in the website office, this equates to using new tools to'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by Department of State. Secretary Clinton often talks about using &#8220;21st Century Statecraft&#8221; at the State Department. For us in the website office, this equates to using new tools'
 authors:
   - jparcell
 categories:
@@ -14,7 +13,7 @@ tag:
   - U.S. Department of State
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart\_Traveler\_App.jpg" alt="Smart\_Traveler\_App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart_Traveler_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **<a href="http://www.state.gov/" rel="nofollow">Department of State</a>**._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart\_Traveler\_App.jpg" alt="Smart\_Traveler\_App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart_Traveler_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **<a href="http://www.state.gov/" rel="nofollow">Department of State</a>**._
 
 Secretary Clinton often talks about using &#8220;21st Century Statecraft&#8221; at the State Department. For us in the website office, this equates to using new tools to get information to the American people. Having a Secretary who understands the power of such innovative tools has definitely helped us move forward. We have four new innovative CMS sites and an app including a new state.gov, m.state.gov, My State Department and our Smart Traveler app.
 

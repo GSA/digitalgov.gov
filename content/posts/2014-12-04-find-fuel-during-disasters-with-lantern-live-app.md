@@ -1,8 +1,7 @@
 ---
-url: /2014/12/04/find-fuel-during-disasters-with-lantern-live-app/
 date: 2014-12-04 10:00:58 -0400
 title: Find Fuel During Disasters with Lantern Live App
-summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure your personal disaster preparedness plan includes how to quickly find functioning gas stations in your area with help from the Department of Energy&rsquo;s Lantern Live'
+summary: 'Who to call? Where to meet? What to pack? How to find fuel? Make sure your personal disaster preparedness plan includes how to quickly find functioning gas stations in your area with help from the Department of Energy&rsquo;s Lantern'
 authors:
   - kdowney
 categories:
@@ -14,7 +13,7 @@ tag:
   - United States Department of Energy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" %}Who to call? Where to meet? What to pack?
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Who to call? Where to meet? What to pack?
 
 How to find fuel?
 

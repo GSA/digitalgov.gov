@@ -1,5 +1,4 @@
 ---
-url: /2012/07/09/how-to-improve-an-apps-challenge/
 date: 2012-07-09 2:32:50 -0400
 title: How to Improve an Apps Challenge
 summary: 'The contest is over, but your work isn&rsquo;t finished. Maintain a positive relationship with the community you&rsquo;ve developed around your challenge. You will want to reach out to them in the future. Close the challenge and present awards Hold an awards ceremony to draw attention to the winners and to your challenge. The team behind'

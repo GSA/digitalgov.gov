@@ -1,11 +1,10 @@
 ---
-url: /2015/07/22/how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies/
 date: 2015-07-22 10:00:32 -0400
 title: How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies
-summary: ' In June, the new Customer Experience Community of Practice (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared. Develop and Share'
+summary: ' In June, the new Customer Experience Community of Practice (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared. Develop and'
 authors:
-  - rflagg
   - jacqueline-snee
+  - rflagg
 categories:
   - Communities
   - Monthly Theme
@@ -17,7 +16,7 @@ tag:
   - Recaps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Washington-Nationals-MLB-main-seal-logo.jpg" alt="Washington Nationals 2011 to present logo" >}}
 
 In June, the new [Customer Experience Community of Practice](https://www.WHATEVER/communities/customer-experience-community/) (CX-COP) hosted Jonathan Stahl, Executive Director of Ballpark Operations and Guest Experience of the Washington Nationals, to share best practices on how to deliver a great customer experience. Below are four insights he shared.
 
@@ -48,7 +47,7 @@ The Nationals developed a TEAM Service Playbook which has everything employees n
 
 Stahl said that the rule of thumb is to “do anything that is ethical and legal to take care of guests.” This attitude empowers employees to do any reasonable thing they can to meet and exceed customer expectations.
 
-## Rewards and Recognition Matter {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" %} 
+## Rewards and Recognition Matter {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Winning-Team-Brian-Jackson-iStock-Thinkstock-108791935.jpg" alt="Winning Team" caption="" >}} 
 
 The Nationals created a very visible recognition program so that employees would understand what it means to deliver world-class service. Sharing awards and recognition with all employees removes perceptions of favoritism because everyone can participate and be recognized.
 

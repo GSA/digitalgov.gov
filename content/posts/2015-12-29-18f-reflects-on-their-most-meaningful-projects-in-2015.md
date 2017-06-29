@@ -1,5 +1,4 @@
 ---
-url: /2015/12/29/18f-reflects-on-their-most-meaningful-projects-in-2015/
 date: 2015-12-29 1:10:12 -0400
 title: 18F Reflects on Their Most Meaningful Projects in 2015
 summary: 2015 was a big year for 18F. We almost doubled in size, worked with 28 different agency partners, and released products ranging from Design Method Cards to cloud.gov. Internally, we improved onboarding and our documentation by releasing guides on topics as diverse as content, accessibility, and creating good open source projects. To mark the end
@@ -59,9 +58,9 @@ _[The White House Office of Science and Technology Policy](https://www.whitehous
 
 > “I loved organizing the accessibility hackathon and it’s been a blast working on the [micropurchase experiment](https://18f.gsa.gov/2015/10/13/open-source-micropurchasing/) and the [Agile BPA](https://18f.gsa.gov/2015/06/15/agile-bpa-is-here/) work.”—**Alan deLevie**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-182-a11ytweet1.jpg" alt="A tweet by Acessibility Partner using the a-1-1-y hack hashtag" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-182-a11ytweet1.jpg" alt="A tweet by Acessibility Partner using the a-1-1-y hack hashtag" >}}
   
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-205-allytweet2.jpg" alt="A tweet by Rebecca Williams using the a-1-1-y hack hashtag" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-205-allytweet2.jpg" alt="A tweet by Rebecca Williams using the a-1-1-y hack hashtag" >}}
 
 <h2 id="Blog" style="padding-top: 50px">
   Blog
@@ -81,7 +80,7 @@ _18F worked with government teams to help submit a number of government domains 
 
 > “I really enjoyed helping agencies get their .gov domains hardcoded into browsers as secure.“—**Eric Mill**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-123-hsts-preload-list.jpg" alt="Code" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-123-hsts-preload-list.jpg" alt="Code" >}}
 
 <h2 id="Diversity-Working-Group" style="padding-top: 50px">
   Diversity Working Group
@@ -107,7 +106,7 @@ _In March, we worked with the [Digital Analytics Program](https://www.WHATEVER/s
 > 
 > “I feel honored to be part of the analytics.usa.gov team every time I see another government office use our open source project to make their analytics data publicly available.”—**Gabriel Ramirez**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-AnalyticsUSAgov-Dec-28th-2015-10-30-am-144541-visitors.jpg" alt="The Analytics dot USA dot gov website on December 28th, 2015 had 144,541 visitors at 10:30 am Eastern." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-AnalyticsUSAgov-Dec-28th-2015-10-30-am-144541-visitors.jpg" alt="The Analytics dot USA dot gov website on December 28th, 2015 had 144,541 visitors at 10:30 am Eastern." >}}
 
 ### betaFEC
 
@@ -117,7 +116,7 @@ _We worked with the Federal Election Commission (FEC) to make campaign finance d
 > 
 > “I loved working on the team that helped make betaFEC. It was especially exciting to help our partners at the FEC find how they wanted to express their agency through a modernized web experience, and build an updated look and feel with them.”—**Jennifer Thibault**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-350-Federal-Election-Commission-FEC-Campaign-Finance-Data-page.jpg" alt="Screen capture of the Federal Election Commission's "Campaign Finance Data" page" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-350-Federal-Election-Commission-FEC-Campaign-Finance-Data-page.jpg" alt="Screen capture of the Federal Election Commission's Campaign Finance Data page" >}}
 
 ### CALC
 
@@ -125,7 +124,7 @@ _We worked with GSA to launch a powerful new [labor category and pricing researc
 
 > “Working on [CALC](https://calc.gsa.gov/) was meaningful to me, because I know it is saving people hours of work every week, and saving the taxpayers millions of dollars.”—**Nick Brethauer**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif" >}}
 
 ### cloud.gov
 
@@ -139,7 +138,7 @@ _We [scaled our infrastructure expertise](https://18f.gsa.gov/2015/10/09/cloud-g
 > 
 > “Many of us have experienced first hand how security compliance requirements may hinder the government&#8217;s ability to ship new projects. I proud to be working on methods for accelerating the compliance process in the open and excited to see the support and contributions of the open source community.”—**Gabriel Ramirez**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-386-CloudGov-top-of-homepage.jpg" alt="Screen capture of the Cloud dot gov homepage" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-386-CloudGov-top-of-homepage.jpg" alt="Screen capture of the Cloud dot gov homepage" >}}
 
 ### College Scorecard
 
@@ -147,7 +146,7 @@ _In September, 18F worked with USDS and the Department of Education on College S
 
 > “I really enjoyed working with USDS, 18F and the Department of Education on <https://collegescorecard.ed.gov> because it demonstrated how multiple agencies can come together to build something great.&#8221;—**Ozzy Johnson**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" >}}
 
 ### DATA Act
 
@@ -155,7 +154,7 @@ _In May 2014, President Obama signed the [Digital Accountability and Transparenc
 
 > “The best thing I worked on was the DATA Act. In 2012, I first wrote about DATA Act. In 2013, I visited my reps on Capitol Hill about voting for it. In 2014, I went to the Treasury’s federal spending data town hall and kvetched about poor data quality. And then in 2015, I worked with those same Treasury folks to get it fixed.”—**Becky Sweger**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-447-data-act-reporting.jpg" alt="Data Act reporting graphic" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-447-data-act-reporting.jpg" alt="Data Act reporting graphic" >}}
 
 ### Draft U.S. Web Design Standards
 
@@ -169,7 +168,7 @@ _In September, 18F worked with USDS to [release the U.S. government’s very own
 > 
 > “I’m proud to have [started a project](http://github.com/18F/web-design-standards-drupal) that will make the U.S. [Draft] Web Design Standards easier to use for the >25% of U.S. government websites that run on Drupal. I’m working with members of the larger Drupal community as well as people in government to help these standards scale without the need for custom development.”—**Rhys Fureigh**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="The U.S. Web Design Standards are designed to be viewed on any device." >}}
 
 ### U.S. Extractive Industries Transparency Initiative
 
@@ -177,7 +176,7 @@ _[USEITI](https://useiti.doi.gov/) is part of an [international effort to promot
 
 > “EITI reports have traditionally been thick, printed PDFs full of statistics, meant for a specialist audience. It was so great to be a part of the U.S. process that is leading the world in making this data available online along with tons of rich contextual information to make it understandable.”—**Michelle Hertzfeld**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-300-U.S.-Extractive-Industries-Transparency-Initiative-USEITI-jobs-data.jpg" alt="Screen capture of a jobs data visualization map of the United States on the U.S. Extractive Industries Transparency Initiative website" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-300-U.S.-Extractive-Industries-Transparency-Initiative-USEITI-jobs-data.jpg" alt="Screen capture of a jobs data visualization map of the United States on the U.S. Extractive Industries Transparency Initiative website" >}}
 
 ### Every Kid in a Park
 
@@ -185,7 +184,7 @@ _Earlier this year, President Obama [formally announced the Every Kid in a Park 
 
 > “I really enjoyed working on Every Kid In A Park because I helped develop a project with an amazing team to help kids get to the park!&#8221;—**Christine Cheung**
 > 
-> “Working on the content design for Every Kid in a Park reminded me that government websites can be joyful, inclusive, and easy to read.” —**Emileigh Barnes** {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Students-from-Samuel-W.-Tucker-Elementary-School-receive-an-Every-Kid-in-a-Park-pass-Department-of-Interior.jpg" alt="Students from Samuel W. Tucker Elementary School receive an Every Kid in a Park pass." %} 
+> “Working on the content design for Every Kid in a Park reminded me that government websites can be joyful, inclusive, and easy to read.” —**Emileigh Barnes** {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Students-from-Samuel-W.-Tucker-Elementary-School-receive-an-Every-Kid-in-a-Park-pass-Department-of-Interior.jpg" alt="Students from Samuel W. Tucker Elementary School receive an Every Kid in a Park pass." caption="" >}} 
 
 ### Federalist
 
@@ -199,7 +198,7 @@ _The Federalist platform [provides an easy way](https://18f.gsa.gov/2015/09/15/f
 
  
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-292-18f-Federalist-beta-homepage-Dec-28th-2015.jpg" alt="The Federalist's beta website homepage, which says, "Federalist is a unified interface for publishing static government websites."" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-292-18f-Federalist-beta-homepage-Dec-28th-2015.jpg" alt="The Federalist's beta website homepage, which says, Federalist is a unified interface for publishing static government websites." >}}
 
 ### SBIR-EZ
 
@@ -213,7 +212,7 @@ _We partnered with the Department of Treasury to develop the content, visual des
 
 > “I really enjoyed partnering with US Treasury to [craft the digital strategy for #TheNew10](https://18f.gsa.gov/2015/07/17/the-new-10/). We&#8217;re putting a woman on the $10 bill!&#8221;—**Kara DeFrias**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-385-The-New-10-website.jpg" alt="Screenshot of the homepage for the website about the redesign of the ten dollar bill." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-385-The-New-10-website.jpg" alt="Screenshot of the homepage for the website about the redesign of the ten dollar bill." >}}
 
 ### USCIS
 
@@ -221,7 +220,7 @@ _18F has worked with USCIS to develop [my.uscis.gov](https://my.uscis.gov/), a c
 
 > “This year I made [an account system](http://myaccount.uscis.dhs.gov/) that helps immigrants keep their information up to date. It now has hundreds of thousands of users.” —**Sasha Magee**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-screen-shot-of-the-my-dot-U-S-C-I-S-dot-gov-mobile-website-on-an-Android-smart-phone.jpg" alt="A screenshot of the my dot U S C I S dot gov mobile website on an Android smartphone." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-screen-shot-of-the-my-dot-U-S-C-I-S-dot-gov-mobile-website-on-an-Android-smart-phone.jpg" alt="A screenshot of the my dot U S C I S dot gov mobile website on an Android smartphone." >}}
 
 <h2 id="Guides-Resources-Tools" style="padding-top: 50px">
   Guides, Resources, and Tools
@@ -235,7 +234,7 @@ _We [released a deck of method cards](https://18f.gsa.gov/2015/08/10/18f-design-
 > 
 > “The first thing I worked on at 18F was the Design Methods. Teaching tools of great design has been part of this job since I started, which means ​learning​ tools of great design has been part of this job since I started. I’ve never learned so much in such a small amount of time.”—**James Hupp**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-225-method-cards-banner.jpg" alt="An assortment of different colored method cards." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-225-method-cards-banner.jpg" alt="An assortment of different colored method cards." >}}
 
 ### Partnership Playbook
 
@@ -273,7 +272,7 @@ _Our [consulting team](https://18f.gsa.gov/consulting/) routinely meets with age
 > 
 > “I&#8217;ve spent the last few months working with the pesticides division of the EPA, helping them modernize the way that pesticide labels are accessed and analyzed by inspectors. Pesticide labels are a surprisingly complex and important thing to get right, because when they&#8217;re wrong people can (and do) die. Bringing modern technology into the work the field inspectors do every single day is going to significantly improve their ability to do their job, and I feel incredibly lucky to get to help with that and know that what I&#8217;m doing could genuinely help save lives.”—**Lane Becker**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-281-sba-execs-legos-2.jpg" alt="Small Business Administration executives collaborate with using LEGOs during a meeting." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-281-sba-execs-legos-2.jpg" alt="Small Business Administration executives collaborate with using LEGOs during a meeting." >}}
 
 <h2 id="Process-Documentation" style="padding-top: 50px">
   Process and Documentation
@@ -293,7 +292,7 @@ _It’s not something that often gets public attention, but we worked really har
 > 
 > “I think the best thing that I&#8217;ve made this year has been the Official Guide to Travel at 18F. Taking on the complexity of Concur and the rules of government travel and splitting them into manageable steps seems to have reduced confusion as well as the amount of time spent helping people stuck in various parts of the process. I&#8217;m excited to continue the work in 2016, pinpointing the remaining areas of confusion and improving the Guide to address those.”—**Ethan Heppner**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-182-API-Team-onboarding-bot-Dolores.jpg" alt="Screencapture of interaction with Mrs Dolores Landingham, an onboarding bot developed by the A P I team." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-182-API-Team-onboarding-bot-Dolores.jpg" alt="Screencapture of interaction with Mrs Dolores Landingham, an onboarding bot developed by the A P I team." >}}
 
 <h2 id="Growing-Our-Team" style="padding-top: 50px">
   Growing Our Team

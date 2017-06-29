@@ -1,5 +1,4 @@
 ---
-url: /2016/03/21/the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement/
 date: 2016-03-21 11:18:21 -0400
 title: 'The Content Corner: Social Media Metrics and the Challenge of Effective Measurement'
 summary: 'I&rsquo;ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today&rsquo;s post, I&rsquo;ll share what I have'
@@ -18,7 +17,7 @@ tag:
   - The Content Corner
 ---
 
-I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have learned and hope it opens your eyes to how we measure success and whether our metrics are right or completely meaningless. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-300-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="Icons for social media marketing and analytics" %} 
+I’ve recently been required to focus more attention on social media from a federal agency standpoint and this has directly led to a greater consideration of content. One of my first steps was to begin sharing various forms of content and gauge the success of each type. In today’s post, I’ll share what I have learned and hope it opens your eyes to how we measure success and whether our metrics are right or completely meaningless. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-300-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="Icons for social media marketing and analytics" caption="" >}} 
 
 ## The Fading Relevance of the Click
 

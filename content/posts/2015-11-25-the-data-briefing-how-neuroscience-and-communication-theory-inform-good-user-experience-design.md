@@ -1,5 +1,4 @@
 ---
-url: /2015/11/25/the-data-briefing-how-neuroscience-and-communication-theory-inform-good-user-experience-design/
 date: 2015-11-25 11:00:51 -0400
 title: 'The Data Briefing: How Neuroscience and Communication Theory Inform Good User Experience Design'
 summary: 'Standing on the corner, waiting in the rain, I swear I&rsquo;ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive. UX is everything from the visual design to the navigation structure of the website or mobile app. This month, DigitalGov'
@@ -23,7 +22,7 @@ UX is everything from the visual design to the navigation structure of the websi
 
 ## Cognitive Barriers
 
-The first neuroscience concept is **cognitive barriers**. Cognitive barriers can best be illustrated by the difficulties I had with a mobile app designed to display information about the Metro system. First, the number of steps to find information seemed excessive. Second, the perceived length of the steps was also excessive in that I had to do a lot of scrolling just to find the right address. Finally, the difficulty of the instructions was also bad UX in that I had to input a number from the bus stop sign and then verify the number with the address (again!). Try doing that when you are balancing an umbrella in one hand and working with frozen fingers in the hand holding the smartphone. All these barriers required more cognitive resources than I had available on a cold, rainy November morning. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Colourful-abstract-brain-illustration-airiesummer-iStock-Thinkstock-482546476.jpg" alt="Colourful abstract brain illustration" %} 
+The first neuroscience concept is **cognitive barriers**. Cognitive barriers can best be illustrated by the difficulties I had with a mobile app designed to display information about the Metro system. First, the number of steps to find information seemed excessive. Second, the perceived length of the steps was also excessive in that I had to do a lot of scrolling just to find the right address. Finally, the difficulty of the instructions was also bad UX in that I had to input a number from the bus stop sign and then verify the number with the address (again!). Try doing that when you are balancing an umbrella in one hand and working with frozen fingers in the hand holding the smartphone. All these barriers required more cognitive resources than I had available on a cold, rainy November morning. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Colourful-abstract-brain-illustration-airiesummer-iStock-Thinkstock-482546476.jpg" alt="Colourful abstract brain illustration" caption="" >}} 
 
 ## Cognitive Load
 
@@ -39,7 +38,7 @@ Understanding the two neuroscience concepts of cognitive barriers and cognitive 
 
   1. ELM recognizes the importance of a good message. What is the purpose of the website or mobile app and what should the user get out of using the website or mobile app?
   2. How do the design elements reinforce the message and make it easier for people to process the message and the arguments supporting the message?
-  3. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-375-USDA-Ask-Karen-iPhone-app-home-screen.jpg" alt="Home screen of the Ask Karen iPhone app." %}Does the design help guide the decision-making process by reducing cognitive barriers and cognitive load?
+  3. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-375-USDA-Ask-Karen-iPhone-app-home-screen.jpg" alt="Home screen of the Ask Karen iPhone app." >}}Does the design help guide the decision-making process by reducing cognitive barriers and cognitive load?
   4. Is there a good balance between message and design so that the user does not veer off the central route into a peripheral route?
 
 Let&#8217;s examine a federal government mobile app that has good UX design. Because it is the holiday season and that means lots of food, I find <a href="https://itunes.apple.com/us/app/ask-karen-from-usda/id439084571?mt=8" target="_blank">Ask Karen</a> from the USDA to be especially helpful.
@@ -48,7 +47,7 @@ From the iTunes description: “Ask Karen provides 24/7 assistance and tips on p
 
 Good UX design is essential to unlocking the value of federal government data. Understanding the neuroscience and communication theory behind how people process information will help the developers, agency communicators and data scientists best present and deliver vitally-needed data products and services to the American public.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA "Ask Karen" iPhone app." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-434-USDA-Ask-Karen-iPhone-app-support-and-food-allergies-screens.jpg" alt="Support and food allergies screens of the USDA Ask Karen iPhone app." >}}
 
 _Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
 

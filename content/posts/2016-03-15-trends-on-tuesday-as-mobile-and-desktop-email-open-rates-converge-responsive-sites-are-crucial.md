@@ -1,5 +1,4 @@
 ---
-url: /2016/03/15/trends-on-tuesday-as-mobile-and-desktop-email-open-rates-converge-responsive-sites-are-crucial/
 date: 2016-03-15 10:00:13 -0400
 title: 'Trends on Tuesday: As Mobile and Desktop Email Open Rates Converge, Responsive Sites Are Crucial'
 summary: 'A new report about email usage reinforced the importance of always building responsive websites. Yesmail&#8217;s quarterly report showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. As people become more mobile-first and mobile-only users of the Internet, users opening emails on their desktop devices'
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-A new report about email usage reinforced the importance of always building responsive websites. [Yesmail&#8217;s quarterly report](http://www.marketingcharts.com/online/responsive-design-seen-key-as-mobile-and-desktop-email-cto-rates-converge-66262/?utm_campaign=rssfeed&utm_source=mc&utm_medium=textlink) showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Laptop-Tablet-PC-Smart-Phone-scyther5-iStock-Thinkstock-479312924.jpg" alt="Three mobile devices on a wooden surface; a laptop, tablet PC, and a smart phone." %} 
+A new report about email usage reinforced the importance of always building responsive websites. [Yesmail&#8217;s quarterly report](http://www.marketingcharts.com/online/responsive-design-seen-key-as-mobile-and-desktop-email-cto-rates-converge-66262/?utm_campaign=rssfeed&utm_source=mc&utm_medium=textlink) showed that mobile and desktop email click-to-open rates are converging to almost the same level for the first time ever. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Laptop-Tablet-PC-Smart-Phone-scyther5-iStock-Thinkstock-479312924.jpg" alt="Three mobile devices on a wooden surface; a laptop, tablet PC, and a smart phone." caption="" >}} 
 
 As people become [more mobile-first and mobile-only users of the Internet](https://www.WHATEVER/2016/01/05/trends-on-tuesday-mobile-only-u-s-audiences-grow-while-broadband-usage-drops/), users opening emails on their desktop devices has dropped continuously for the past 2 years, from 22.6% to 15.3%.
 

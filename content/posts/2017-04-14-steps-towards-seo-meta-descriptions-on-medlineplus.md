@@ -1,11 +1,10 @@
 ---
-url: /2017/04/14/steps-towards-seo-meta-descriptions-on-medlineplus/
 date: 2017-04-14 11:00:08 -0400
 title: 'Steps Towards SEO: Meta Descriptions on MedlinePlus'
 summary: 'MedlinePlus is a consumer health website produced by the U.S. National Library of Medicine (NLM), available in both English and Spanish. As part of our Search Engine Optimization (SEO) strategy, we recently added meta descriptions to our health topic pages. A meta description is a short HTML attribute in the head tag that describes the contents of a'
 authors:
-  - katie-chan
   - kate-masterton
+  - katie-chan
 categories:
   - Content
   - Social Media
@@ -19,13 +18,13 @@ tag:
 
 MedlinePlus is a consumer health website produced by the [U.S. National Library of Medicine](https://www.nlm.nih.gov/) (NLM), available in both [English](https://medlineplus.gov/) and [Spanish](https://medlineplus.gov/spanish/). As part of our Search Engine Optimization (SEO) strategy, we recently added meta descriptions to our health topic pages. A meta description is a short HTML attribute in the head tag that describes the contents of a web page. When the meta description is not available or is poorly written, search engines automatically generate their own version to describe what is on a web page. They may use snippets from the page, text from anchor links, or other sources on the page.
 
-{% img="https://www.WHATEVER/files/2017/04/600-x-340-MedLinePlus-Spanish-site.png" alt="Homepage of NLM’s Spanish-language MedlinePlus website." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/04/600-x-340-MedLinePlus-Spanish-site.png" alt="Homepage of NLM’s Spanish-language MedlinePlus website." >}}
 
 These sources lead to varying degrees of quality for automatically generated web page descriptions. By leveraging the meta description, content owners provide search engines with their preferred descriptions.
 
 While custom meta descriptions don’t factor in boosting a page’s rank in search results, they help users know what to expect from a webpage. People are more likely to click through to the site when the meta description is well-written, increasing clicks and conversions.
 
-{% img="https://www.WHATEVER/files/2017/04/600-x-400-Open\_Graph\_protocol\_logo\_public-domain.jpg" alt="The Open Graph protocol logo." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/04/600-x-400-Open\_Graph\_protocol\_logo\_public-domain.jpg" alt="The Open Graph protocol logo." >}}
 
 Social networking sites like Google+ also use meta descriptions when users share your page. The display is more elegant than what is generated automatically by the site. Similarly, Facebook uses [Open Graph markup](https://developers.facebook.com/docs/sharing/webmasters#markup) to pull information such as the page description when a user shares a page.
 

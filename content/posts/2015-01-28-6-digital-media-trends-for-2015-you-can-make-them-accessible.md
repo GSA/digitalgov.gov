@@ -1,8 +1,7 @@
 ---
-url: /2015/01/28/6-digital-media-trends-for-2015-you-can-make-them-accessible/
 date: 2015-01-28 2:30:19 -0400
 title: '6 Digital Media Trends for 2015: You Can Make Them Accessible!'
-summary: ' Resolutions and predictions abound this time of year. If you&rsquo;ve already lost the fight to finally give up sardine ice cream, you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes innovation'
+summary: ' Resolutions and predictions abound this time of year. If you&rsquo;ve already lost the fight to finally give up sardine ice cream, you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes'
 authors:
   - angela-hooker
 categories:
@@ -18,7 +17,7 @@ tag:
   - social media
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
 
 Resolutions and predictions abound this time of year. If you’ve already lost the fight to _finally_ give up [sardine ice cream](http://www.debic.com/en/bakery/blog/sardine-ice-cream), you can always resolve to maintain or improve your digital media accessibility. Some people say that accessibility and Section 508 compliance squashes innovation and new trends, but with the right approach, you can make them accessible. When you consider accessibility at every project’s onset, you’ll make the most of these trends and engage your audience and, perhaps, gain new users.
 

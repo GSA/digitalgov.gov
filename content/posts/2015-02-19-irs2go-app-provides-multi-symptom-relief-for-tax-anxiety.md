@@ -1,8 +1,7 @@
 ---
-url: /2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/
 date: 2015-02-19 3:16:00 -0400
 title: IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety
-summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their IRS2Go app to provide multi-symptom relief for tax anxiety this year. IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you&rsquo;re e-filing,'
+summary: 'The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their IRS2Go app to provide multi-symptom relief for tax anxiety this year. IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you&rsquo;re'
 authors:
   - kdowney
 categories:
@@ -19,7 +18,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-385-IRS2Go\_phone\_2.jpg" alt="New IRS2Go app design" %}The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their [IRS2Go app](http://www.irs.gov/uac/IRS2GoApp) to provide multi-symptom relief for tax anxiety this year.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-385-IRS2Go\_phone\_2.jpg" alt="New IRS2Go app design" >}}The digital equivalent of a cool rag and a spoonful of Pepto Bismol, the Internal Revenue Service updated their [IRS2Go app](http://www.irs.gov/uac/IRS2GoApp) to provide multi-symptom relief for tax anxiety this year.
 
 IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information.
 

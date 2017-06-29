@@ -1,8 +1,7 @@
 ---
-url: /2015/08/10/data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday/
 date: 2015-08-10 4:56:44 -0400
 title: 'Data Delivers: Challenge Culminates in National Demo Day Event Slated for Thursday'
-summary: ' VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever National Demo Day. On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in'
+summary: ' VISIT EVENT PAGE REGISTER NOW The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever National Demo Day. On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated'
 authors:
   - eric-beidel
 categories:
@@ -15,7 +14,7 @@ tag:
   - United States Census Bureau
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
 
 <p style="text-align: right">
   <a class="button" style="color: #000000" href="https://www.WHATEVER/event/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day?utm_source=digitalgov&utm_medium=DGwebsite&utm_campaign=dguevents">VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>

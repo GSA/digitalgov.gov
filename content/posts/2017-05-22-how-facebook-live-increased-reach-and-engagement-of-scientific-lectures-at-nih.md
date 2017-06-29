@@ -1,5 +1,4 @@
 ---
-url: /2017/05/22/how-facebook-live-increased-reach-and-engagement-of-scientific-lectures-at-nih/
 date: 2017-05-22 1:00:34 -0400
 title: How Facebook Live Increased Reach and Engagement of Scientific Lectures at NIH
 summary: Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain
@@ -42,7 +41,7 @@ To increase visibility and engagement of these talks, NCCIH implemented a digita
   3. Rounding out the series with an online-only event—[an additional Facebook Live Q&A](https://www.facebook.com/nih.nccih/videos/1405263649496849/) with high-level retired military personnel, now faculty members at the Uniformed Services University of the Health Sciences, who have extensive pain management experience
   4. Visually branding the series in addition to using [a hashtag](https://twitter.com/search?f=tweets&vertical=default&q=%23NCCIHmilitaryhealth&src=typd) and series title.
 
-{% img="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-576-NCCIH-visual-branding-for-Facebook-Live-event.png" alt="A screen capture of NCCIH Instagram page with posts depicting visual branding on Instagram for their Facebook Live event." >}}
 
 The topics included resilience in military families, pain and opioid management in veterans, and the incorporation of mind and body approaches into military health treatment plans.
 

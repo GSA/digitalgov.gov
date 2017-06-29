@@ -1,21 +1,19 @@
 ---
-url: /2014/01/21/trends-on-tuesday-4th-qtr-online-mobile-traffic-up-40-over-last-year/
 date: 2014-01-21 5:53:37 -0400
 title: 'Trends on Tuesday: 4th Qtr Online Mobile Traffic Up 40% Over Last Year'
-summary: 'According to the IBM Digital Analytics Benchmark report, overall 4th quarter online sales were up 10.3% year over year. Here were some of the key drivers: &bull; Mobile Traffic and Sales: Mobile traffic soared, accounting for nearly 35 percent of all online traffic, up 40'
+summary: 'According to the IBM Digital Analytics Benchmark report, overall 4th quarter online sales were up 10.3% year over year. Here were some of the key drivers: &bull; Mobile Traffic and Sales: Mobile traffic soared, accounting for nearly 35 percent of all online traffic, up'
 authors:
   - lisa-wilcox
 categories:
   - Mobile
   - Social Media
-  - "What's New"
 tag:
   - mobile
   - social media
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app.jpeg" alt="Many smartphones and tablets on a table displaying the same app." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app.jpeg)According to the [IBM Digital Analytics Benchmark report](http://www-01.ibm.com/software/marketing-solutions/benchmark-hub/), overall 4th quarter online sales were up 10.3% year over year. Here were some of the key drivers:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app.jpeg" alt="Many smartphones and tablets on a table displaying the same app." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app.jpeg)According to the [IBM Digital Analytics Benchmark report](http://www-01.ibm.com/software/marketing-solutions/benchmark-hub/), overall 4th quarter online sales were up 10.3% year over year. Here were some of the key drivers:
 
 • **Mobile Traffic and Sales:** Mobile traffic soared, accounting for nearly 35 percent of all online traffic, up 40 percent compared to the fourth quarter of 2012.
 

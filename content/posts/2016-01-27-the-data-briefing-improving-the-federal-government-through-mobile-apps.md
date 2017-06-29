@@ -1,5 +1,4 @@
 ---
-url: /2016/01/27/the-data-briefing-improving-the-federal-government-through-mobile-apps/
 date: 2016-01-27 10:00:08 -0400
 title: 'The Data Briefing: Improving the Federal Government Through Mobile Apps'
 summary: 'Federal agencies are doing well in fulfilling the 2012 Digital Government Strategy by providing numerous mobile apps for American citizens. According to a report from IBM&rsquo;s Center for the Business of Government, 76 federal agencies have at least one mobile app. As of July 2015, there are nearly 300 federal government mobile apps that provide'
@@ -23,7 +22,7 @@ Federal agencies are doing well in fulfilling the [2012 Digital Government Strat
   * Health and safety information
   * Educational services
 
-According to the report, mobile devices were one-third of the traffic to government websites, as of July 2015. This will only increase as overall mobile device usage increases in the near future. {% img="https://www.WHATEVER/files/2016/01/600-x-450-Hand-with-application-button-future-technology-Blackzheep-iStock-Thinkstock-475391562.jpg" alt="Hand with futuristic floating application buttons" %} 
+According to the report, mobile devices were one-third of the traffic to government websites, as of July 2015. This will only increase as overall mobile device usage increases in the near future. {{< legacy-img src="https://www.WHATEVER/files/2016/01/600-x-450-Hand-with-application-button-future-technology-Blackzheep-iStock-Thinkstock-475391562.jpg" alt="Hand with futuristic floating application buttons" caption="" >}} 
 
 However, the federal agencies are lagging way behind in the use of enterprise-focused apps. Although there are numerous citizen-oriented mobile apps, with new ones being released at least weekly, there are very few mobile apps federal employees can use for internal agency processes. The National Aeronautics and Space Administration (NASA) seems to be the exception (according to the report) as only four other agencies offer one or two mobile apps to help the agency&#8217;s employees. NASA has 20 apps that facilitate online collaboration, support teleworking, and provide reference information such as facility maps.
 
@@ -34,7 +33,7 @@ Enterprise-focused apps can help federal workers and agencies in four ways:
   3. Supporting field workers by allowing employees to file reports directly from the field
   4. Increasing collaboration and networking among employees and agency offices
 
-{% img="https://www.WHATEVER/files/2016/01/250-x-444-Variety-of-federal-mobile-apps.jpg" alt="A variety of federal mobile apps for citizens seen on an Android smartphone screen." %}The challenge will be in balancing mobile app needs of citizens versus federal employees’ needs. Many agencies still face the common challenges of a legacy IT infrastructure, lack of app developers and IT budget concerns. Agencies also have to deal with the strategic challenges of first improving agency processes to build an enterprise-focused app. An improved agency process will make for a better citizen-oriented mobile app, but citizens need the existing services as a mobile app now.
+{{< legacy-img src="https://www.WHATEVER/files/2016/01/250-x-444-Variety-of-federal-mobile-apps.jpg" alt="A variety of federal mobile apps for citizens seen on an Android smartphone screen." >}}The challenge will be in balancing mobile app needs of citizens versus federal employees’ needs. Many agencies still face the common challenges of a legacy IT infrastructure, lack of app developers and IT budget concerns. Agencies also have to deal with the strategic challenges of first improving agency processes to build an enterprise-focused app. An improved agency process will make for a better citizen-oriented mobile app, but citizens need the existing services as a mobile app now.
 
 The report closes with three recommendations that may help agencies in balancing the needs of the agency and the needs of the citizens.
 

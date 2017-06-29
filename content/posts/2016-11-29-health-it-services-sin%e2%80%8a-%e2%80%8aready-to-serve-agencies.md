@@ -1,5 +1,4 @@
 ---
-url: '/2016/11/29/health-it-services-sin%e2%80%8a-%e2%80%8aready-to-serve-agencies/'
 date: 2016-11-29 12:00:35 -0400
 title: Health IT Services SIN — Ready to Serve Agencies
 summary: 'This summer I announced the the release of our new Health IT Services Special Item Number (SIN 132&ndash;56) on IT Schedule 70. Now, I am happy to report that the SIN has been awarded to 65 highly qualified industry partners &mdash; with that number continuing to grow daily as new contracts are being awarded. With such a'
@@ -7,7 +6,7 @@ authors:
   - mary-davie
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Federal Health IT Strategic Plan
   - GSA
@@ -21,7 +20,7 @@ As a reminder, the Health IT Services SIN simplifies the procurement process, ma
 
 Additionally, the Health IT SIN also supports the [Federal Health IT Strategic Plan](https://www.healthit.gov/sites/default/files/9-5-federalhealthitstratplanfinal_0.pdf) to expand adoption of health IT services, reduce prices, advance secure and interoperable health information solutions, and strengthen healthcare delivery systems.
 
-{% img="https://www.WHATEVER/files/2017/03/600-x-874-infographic\_FEDERAL-HEALTH-IT-STRATEGIC-PLAN-2015-–-2020\_plan-vision-mission-goals.jpg" alt="This infographic displays the vision, mission, and four overarching goals of the Federal Health IT Strategic Plan." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-874-infographic\_FEDERAL-HEALTH-IT-STRATEGIC-PLAN-2015-–-2020\_plan-vision-mission-goals.jpg" alt="This infographic displays the vision, mission, and four overarching goals of the Federal Health IT Strategic Plan." >}}
 
 In the coming months, in cooperation with our agencies and industry partners, we will actively engage in expanding the usage of the new Health IT SIN.
 

@@ -1,16 +1,15 @@
 ---
-url: /2016/07/27/managing-federal-information-as-a-strategic-resource/
 date: 2016-07-27 3:00:01 -0400
 title: Managing Federal Information as a Strategic Resource
 summary: 'Summary: Today, OMB is releasing an update to Circular A-130, the Federal Government&rsquo;s governing document for the management of Federal information resources. Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government&rsquo;s governing document for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource.'
 authors:
-  - anne-rung
   - tony-scott
   - howard-shelanski
+  - anne-rung
   - marc-groman
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - acquisition
   - Office of Management and Budget
@@ -23,7 +22,7 @@ tag:
 
 > **Summary**: Today, OMB is releasing an update to Circular A-130, the Federal Government’s governing document for the management of Federal information resources.
 
-Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government’s governing document for the management of Federal information resources: [_Circular A-130, Managing Information as a Strategic Resource_](https://s3.amazonaws.com/public-inspection.federalregister.gov/2016-17872.pdf). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-USA-Digital-Map-charcoa1-iStock-Thinkstock-153126897.jpg" alt="USA Digital Map" %} 
+Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government’s governing document for the management of Federal information resources: [_Circular A-130, Managing Information as a Strategic Resource_](https://s3.amazonaws.com/public-inspection.federalregister.gov/2016-17872.pdf). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-USA-Digital-Map-charcoa1-iStock-Thinkstock-153126897.jpg" alt="USA Digital Map" caption="" >}} 
 
 The way we manage information technology (IT), security, data governance, and privacy has rapidly evolved since A-130 was last updated in 2000. In today’s digital world, we are creating and collecting large volumes of data to carry out the Federal Government’s various missions to serve the American people. This data is duplicated, stored, processed, analyzed, and transferred with ease. As government continues to digitize, we must ensure we manage data to not only keep it secure, but also allow us to harness this information to provide the best possible service to our citizens.
 
@@ -43,7 +42,7 @@ _Howard Shelanski is the Administrator of the Office of Information and Regulato
 
 _Anne Rung is the U.S. Chief Acquisition Officer_.
 
-_Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" %} 
+_Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}} 
 
 <div>
   <h2 class="rtecenter">

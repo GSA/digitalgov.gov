@@ -1,10 +1,9 @@
 ---
-url: /2012/04/26/noaas-release-mako-app/
 date: 2012-04-26 2:26:08 -0400
 title: 'NOAA&#8217;s Release Mako App'
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA). The Release Mako App was created for fisherman to report their catch and releases of shortfin mako sharks in real time. Why'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA). The Release Mako App was created for fisherman to report their catch and releases of shortfin mako sharks in real time.'
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Mobile
 tag:
   - crowdsourcing
@@ -13,7 +12,7 @@ tag:
   - NOAA
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
 
 The <a href="http://apps.usa.gov/release-mako.shtml" rel="nofollow">Release Mako App</a> was created for fisherman to report their catch and releases of <a href="http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/index.htm" rel="nofollow">shortfin mako sharks</a> in real time.
 

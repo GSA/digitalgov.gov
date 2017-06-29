@@ -1,8 +1,7 @@
 ---
-url: /2014/04/24/architect-of-the-capitols-guide-to-national-statuary-hall-collection/
 date: 2014-04-24 10:00:53 -0400
 title: 'Architect of the Capitol&#8217;s Guide to National Statuary Hall Collection'
-summary: 'The Architect of the Capitol&#8217;s new app gives users the ability to view the collection of statues donated by the 50 states in its Guide to the National Statuary Hall Collection of State Statues, available on iOS. Visiting the capitol? The app gives'
+summary: 'The Architect of the Capitol&#8217;s new app gives users the ability to view the collection of statues donated by the 50 states in its Guide to the National Statuary Hall Collection of State Statues, available on iOS. Visiting the capitol? The app'
 categories:
   - Mobile
 tag:
@@ -11,7 +10,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-333-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg" alt="US Capitol Guide to State Statues National Statuary Hall Collection" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-800-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg)The [Architect of the Capitol&#8217;s](http://www.aoc.gov/) new app gives users the ability to view the collection of statues donated by the 50 states in its [Guide to the National Statuary Hall Collection of State Statues](http://www.visitthecapitol.gov/apps), available on iOS.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-333-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg" alt="US Capitol Guide to State Statues National Statuary Hall Collection" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-800-US-Capitol-Guide-to-State-Statues-National-Statuary-Hall-Collection.jpg)The [Architect of the Capitol&#8217;s](http://www.aoc.gov/) new app gives users the ability to view the collection of statues donated by the 50 states in its [Guide to the National Statuary Hall Collection of State Statues](http://www.visitthecapitol.gov/apps), available on iOS.
 
 Visiting the capitol? The app gives you the location of your state&#8217;s statues so you can make sure you have your photo taken with your state&#8217;s favorite son or daughter.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/11/23/the-data-briefing-it-takes-an-online-community-to-digitally-transform-an-organization/
 date: 2016-11-23 11:00:49 -0400
 title: 'The Data Briefing: It Takes an Online Community to Digitally Transform an Organization'
 summary: 'The open source movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name &mdash; crowdsourcing. Crowdsourcing is a powerful tool and is now being used to help'
@@ -7,14 +6,14 @@ authors:
   - bbrantley
 categories:
   - Challenges
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
 tag:
   - challenges and prize competitions
   - crowdsourcing
   - The Data Briefing
 ---
 
-The [open source](https://www.WHATEVER/tag/open-source/) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing](https://www.WHATEVER/tag/crowdsourcing/). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform. {% img="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" %} 
+The [open source](https://www.WHATEVER/tag/open-source/) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing](https://www.WHATEVER/tag/crowdsourcing/). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform. {{< legacy-img src="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
 _“Driving successful change in a large organization has always been one of the most difficult activities in business. . . . [Digital transformation is especially hard] because digital itself is so intangible. It’s hard to understand all of the moving parts of the vast technology stacks, ecosystems, and platforms that now surround us because it’s hard to discern them. It’s often even harder to understand the diverse needs, perspectives, and skill gaps of the people that have to change along with the technology.” — Dion Hinchcliffe,_ [_On Digital Strategy_](https://dionhinchcliffe.com/2016/11/18/using-online-community-for-digital-transformation/)
 

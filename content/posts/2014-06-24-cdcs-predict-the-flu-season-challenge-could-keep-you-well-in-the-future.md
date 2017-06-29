@@ -1,8 +1,7 @@
 ---
-url: /2014/06/24/cdcs-predict-the-flu-season-challenge-could-keep-you-well-in-the-future/
 date: 2014-06-24 10:00:36 -0400
 title: CDC’s “Predict the Flu Season Challenge” Could Keep You Well in the Future
-summary: 'The results of an innovative government prize competition might help you avoid the flu next season. The Centers for Disease Control and Prevention (CDC) recently announced the winner of the &ldquo;Predict the Influenza Season Challenge&rdquo;: Dr. Jeffrey Shaman of Columbia University&rsquo;s Mailman School of Public Health and his team submitted an algorithm'
+summary: 'The results of an innovative government prize competition might help you avoid the flu next season. The Centers for Disease Control and Prevention (CDC) recently announced the winner of the &ldquo;Predict the Influenza Season Challenge&rdquo;: Dr. Jeffrey Shaman of Columbia University&rsquo;s Mailman School of Public Health and his team submitted an'
 authors:
   - tlowden
 categories:
@@ -16,7 +15,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177.jpg" alt="250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177" %}The results of an innovative government prize competition might help you avoid the flu next season.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177.jpg" alt="250-x-166-Girl-7-9-blowing-nose-close-up-moodboard-moodboard-thinkstock-103583177" >}}The results of an innovative government prize competition might help you avoid the flu next season.
 
 The Centers for Disease Control and Prevention (CDC) [recently announced the winner](http://www.cdc.gov/flu/news/predict-flu-challenge-winner.htm) of the “Predict the Influenza Season Challenge”: Dr. Jeffrey Shaman of Columbia University’s Mailman School of Public Health and his team submitted [an algorithm](http://cpid.iri.columbia.edu/) to predict peak flu season using [Google Flu Trends](http://www.google.org/flutrends/us/#US) and <a href="http://www.cdc.gov/flu/weekly/fluactivitysurv.htm" target="_blank">CDC’s Influenza-Like Illness (ILI)</a> data.
 

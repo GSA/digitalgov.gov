@@ -1,5 +1,4 @@
 ---
-url: /2016/08/03/promoting-the-use-of-green-it/
 date: 2016-08-03 1:00:55 -0400
 title: Promoting the Use of Green IT
 summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture. Today, the Administration is taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the overall information technology (IT) security posture of the Federal'
@@ -7,7 +6,7 @@ authors:
   - tony-scott
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Federal Information Technology Acquisition Reform Act
   - FITARA
@@ -20,7 +19,7 @@ tag:
 
 Today, the Administration is taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the overall information technology (IT) security posture of the Federal Government.
 
-In 2010, the Office of Management and Budget (OMB) launched the Federal Data Center Consolidation Initiative (FDCCI) to promote the use of green IT: that is, reduce the overall energy and real estate footprint of government data centers; reduce the cost of data center hardware, software, and operations; increase the overall IT security posture of the Federal Government; and shift IT investments to more efficient computing platforms and technologies. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Tablet-with-go-green-word-cloud-macgyverhh-iStock-Thinkstock-483960631.jpg" alt="Tablet with go green word cloud." %} 
+In 2010, the Office of Management and Budget (OMB) launched the Federal Data Center Consolidation Initiative (FDCCI) to promote the use of green IT: that is, reduce the overall energy and real estate footprint of government data centers; reduce the cost of data center hardware, software, and operations; increase the overall IT security posture of the Federal Government; and shift IT investments to more efficient computing platforms and technologies. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Tablet-with-go-green-word-cloud-macgyverhh-iStock-Thinkstock-483960631.jpg" alt="Tablet with go green word cloud." caption="" >}} 
 
 In the years since the launch of the FDCCI, we’ve witnessed enormous progress optimizing the Federal Government’s data center inventory. Agencies have closed over 1,900 data centers, reducing the real estate footprint of Federal data centers by more than 1.2 million square feet, and made significant strides toward optimizing existing data centers. These efforts have resulted in nearly $1 billion in savings and a Federal data center inventory that is more efficient, effective, and secure.
 

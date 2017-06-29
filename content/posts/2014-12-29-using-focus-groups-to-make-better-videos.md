@@ -1,19 +1,18 @@
 ---
-url: /2014/12/29/using-focus-groups-to-make-better-videos/
 date: 2014-12-29 11:00:11 -0400
 title: Using Focus Groups to Make Better Videos
 summary: 'There&rsquo;s what you expect your audience to think, and then there&rsquo;s what your audience is actually thinking. Sometimes, these can be entirely different. But, you won&rsquo;t know unless you test it. For the release of the 2014 Consumer Action Handbook (CAH), the Federal Citizen Information Center&rsquo;s marketing team piloted a series of videos. The videos'
 authors:
   - colleen-bayus
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - usa.gov
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-High-angle-view-of-a-group-of-business-executives-in-a-conference-Purestock-Thinkstock-57569113.jpg" alt="High angle view of a group of business executives in a conference" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-High-angle-view-of-a-group-of-business-executives-in-a-conference-Purestock-Thinkstock-57569113.jpg" alt="High angle view of a group of business executives in a conference" caption="" >}} 
 
 There’s what you expect your audience to think, and then there’s what your audience is actually thinking. Sometimes, these can be entirely different. But, you won’t know unless you test it.
 

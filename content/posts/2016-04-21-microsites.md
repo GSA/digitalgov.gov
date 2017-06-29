@@ -1,5 +1,4 @@
 ---
-url: /2016/04/21/microsites/
 date: 2016-04-21 10:00:16 -0400
 title: 'Microsites, They&#8217;re Bigger Than You Think'
 summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC&rsquo;s Zika Virus microsite provides up-to-date information on the virus&mdash;but the big question is: What are they? A microsite is a single or small collections of pages that are meant to encourage user interaction while conveying information. A microsite has the power to educate consumers regarding a'
@@ -23,7 +22,7 @@ Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus micros
 
 A microsite is a single or small collections of pages that are meant to encourage user interaction while conveying information. A microsite has the power to educate consumers regarding a specific topic or just highlight a campaign. Microsites are separate from an organization’s full website and are dedicated to serving one purpose—thus eliminating the clutter and distractions that come with a full website.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-334-Federal-Front-Door-microsite.jpg" alt="Screen capture of the Federal Front Door microsite." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-334-Federal-Front-Door-microsite.jpg" alt="Screen capture of the Federal Front Door microsite." >}}
 
 A number of agencies use microsites for just those reasons. The [Federal Front Door](https://labs.usa.gov/) is a microsite devoted to making the federal government’s interactions with citizens better. The Department of Transportation uses microsites such as [Ladders of Opportunity](https://www.transportation.gov/opportunity), [Build America Transportation Investment Center](https://www.transportation.gov/buildamerica), and their [50th Anniversary](https://www.transportation.gov/50) site to promote secretarial priorities. &#8220;Transportation microsites have to support key Department initiatives, use multimedia content, be frequently freshened, and have a minimum of 20 pages of content or be a distinct campaign whose particular URL will be decommissioned within a year (open to exception petitions, of course)&#8221; according to Todd Solomon, a digital strategist in the CIO’s office.
 

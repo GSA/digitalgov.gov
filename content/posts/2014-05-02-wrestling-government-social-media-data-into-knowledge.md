@@ -1,8 +1,7 @@
 ---
-url: /2014/05/02/wrestling-government-social-media-data-into-knowledge/
 date: 2014-05-02 3:20:17 -0400
 title: Wrestling Government Social Media Data Into Knowledge
-summary: 'This week the SocialGov Community took the step of recruiting a Digital Engagement Knowledge Manager, and I am excited to join the team through the innovative new Open Opportunities Program. At this point, though, you may be asking&mdash;is there really so much information out there that it needs to be managed?'
+summary: 'This week the SocialGov Community took the step of recruiting a Digital Engagement Knowledge Manager, and I am excited to join the team through the innovative new Open Opportunities Program. At this point, though, you may be asking&mdash;is there really so much information out there that it needs to be'
 authors:
   - alison-lemon
 categories:
@@ -14,7 +13,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**](https://www.WHATEVER/communities/social-media/) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**](https://www.WHATEVER/communities/social-media/) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
 
 **Yes!** The truth is that the same challenges pop up all across government, and the same questions are asked over and over. The federal agencies using social media need to [fulfill our unique missions in the government](https://www.WHATEVER/2014/04/22/government-social-media-isnt-lagging-its-different-and-thats-good/) and find the best ways to connect citizens with services.
 

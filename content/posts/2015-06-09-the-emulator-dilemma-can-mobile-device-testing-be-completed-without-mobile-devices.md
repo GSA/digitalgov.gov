@@ -1,5 +1,4 @@
 ---
-url: /2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/
 date: 2015-06-09 11:10:14 -0400
 title: 'The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?'
 summary: 'Government agencies have created a variety of apps to meet the needs of the public. As you join in on the mobile first trend and begin developing your shiny new mobile application, you will need to test it. There are a basic set of questions that must be answered: Does it function properly? Does it function properly'
@@ -8,7 +7,7 @@ authors:
   - awichman
 categories:
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile
@@ -39,17 +38,17 @@ There are many types of tools that provide alternatives to building your own lab
 
 The most popular emulators are [Xcode for Apple iOS](https://developer.apple.com/xcode/downloads) (below, left image) and the [Android SDK for Android devices](http://developer.android.com/sdk/index.html) (below, right image). Both of these tools were built by their respective operating system vendors and are free, relatively reliable, and easy to use, but they can take a bit of time to get setup and properly configured. Keep in mind that you need to have enough physical resources on your computer to run these tools.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Figure 1: Xcode iOS Emulator" %} {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Figure 2: Android SDK Emulator" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/262-x-210-Figure-2-Xcode-iOS-Emulator.jpg" alt="Figure 1: Xcode iOS Emulator" >}} {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/299-x-210-Figure-1-Android-SDK-Emulator.jpg" alt="Figure 2: Android SDK Emulator" >}}
 
 Another option is the light weight Chrome Device Mode and Mobile Emulation tool (below) that is built into Chrome version 32 and later. This allows you to see what your responsive design application looks like on a variety of different device screen sizes and resolutions.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Figure 3 - Chrome Device Mode & Mobile Emulation tool" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/450-x-292-Figure-3-Chrome-Device-Mode-Mobile-Emulation-tool.jpg" alt="Figure 3 - Chrome Device Mode & Mobile Emulation tool" >}}
 
 ## Who is Using Emulators and Simulators and to What Extent?
 
 The following chart, from a [research study sponsored by Sauce Labs](http://saucelabs.com/resources/sauce_labs_testing_trends_2015.pdf) [PDF], shows the percentage of people using simulators and emulators and to what extent:
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, "How do you test on a mobile platform?" Its three "slices" show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators (the breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally)." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-307-Pie-chart-How-do-you-test-on-a-mobile-platform.jpg" alt="Graphic for a pie chart titled, How do you test on a mobile platform? Its three slices show that 29 percent use simulators or emulators only, 37 percent use real devices only, and 34 percent use a combination of real devices and simulators (the breakdown of that is: 12 percent mostly use real devices, 9 percent mostly use simulators or emulators, and 13 percent use emulators and real devices equally)." >}}
 
 Is this surprising to you?  Which category do you fit into?
 

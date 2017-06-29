@@ -1,5 +1,4 @@
 ---
-url: /2013/07/15/digital-metrics-for-federal-agencies/
 date: 2013-07-15 11:41:47 -0400
 title: Digital Metrics for Federal Agencies
 summary: 'Digital metrics are critical for measuring, analyzing, and reporting on the effectiveness of your Web, mobile, social media, and other digital channels. Every agency should have a metrics strategy to measure performance, customer satisfaction, and engagement, and use the data to make continuous improvements to serve its customers. Part 1: Common Metrics: Guidance, Best Practices, and'
@@ -302,7 +301,7 @@ Use the [Chart Chooser tool](http://www.juiceanalytics.com/writing/introducing-c
 
 Also, stay informed of advances in metrics and measurement by following organizations such as the [Pew Research Center&#8217;s Internet & American Life Project,](http://pewinternet.org/) which researches the evolution of the Internet and its impact on American society; they have lots of great data on how people use the Web, social media, and mobile. Review white papers, online books, and case studies from [IBM Business Analytics for Government](http://www-01.ibm.com/software/analytics/government/), or [Web Analytics Demystified](http://www.webanalyticsdemystified.com/content/index.asp).
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics-250x200.png" alt="Chart at top showing the Government-Wide Common Web Performance Metrics title and four boxes, starting with Measures of Breadth (Visitors, Unique; Visits, Total Sessions; Page Views, Total); Measures of Depth (Pages per visit, Average; Visit Duration, Average; Time on Page, Average; Bounce Rate, % of Visits w/ 1 Page View); Measures of Loyalty (New vs. Returned Visitors; Visits per Visitor, Average); Measures of Direct Engagement (On-Site Search Queries, Total). Chart at bottom showing the Common Web Performance Dimensions for Metrics title and five boxes starting with Time (Day, 24 hours; Week; Month; Year); Content (Site Pages; Downloaded Files, e.g. PDF; Offsite Links; On-site Search Queries; RSS Feeds); Marketing (Referring Domain/Site/Page; Referring Search Keywords; Referring Search Phrases); Technology (Browser, Web & Mobile; Browser Version, Web & Mobile; Platform; Mobile Devices; Screen Size); Demographics (Country; State/Locale; City; Organization)." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/common-web-performance-metrics.png)
 
 ## <a name="customer-satisfaction-metrics"></a>Customer Satisfaction Metrics
 
@@ -825,7 +824,7 @@ Key success elements will include:
   * Collection methodology
   * Web analytics tool
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework-221x250.jpg" alt="The government-wide digital services common measurement framework include common performance measures, collection methodologies, and web analytics tools." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/digital-services-measurement-framework.jpg)
 
 The framework is based on the following types of measures:
 

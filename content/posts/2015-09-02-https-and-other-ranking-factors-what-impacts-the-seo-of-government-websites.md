@@ -1,5 +1,4 @@
 ---
-url: /2015/09/02/https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites/
 date: 2015-09-02 10:00:43 -0400
 title: 'HTTPS and Other Ranking Factors: What Impacts the SEO of Government Websites?'
 summary: Following the recent OMB memo that all publicly available federal websites and Web services must implement HTTPS by December 31, 2016, Web content managers across government are considering the SEO (search engine optimization) implications of the transition, among other details. In August 2014, Google confirmed that HTTPS is a ranking signal in their algorithm. But
@@ -16,7 +15,7 @@ tag:
   - SEO
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg" alt="An image of a magnifying glass over a computer screen" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg" alt="An image of a magnifying glass over a computer screen" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg) 
 
 Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS](https://www.WHATEVER/2015/07/21/an-introduction-to-https-by-18f-and-digitalgov-university/) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.WHATEVER/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.
 

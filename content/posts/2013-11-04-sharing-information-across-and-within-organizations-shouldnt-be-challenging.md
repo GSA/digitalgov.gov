@@ -1,5 +1,4 @@
 ---
-url: /2013/11/04/sharing-information-across-and-within-organizations-shouldnt-be-challenging/
 date: 2013-11-04 9:26:25 -0400
 title: Sharing Information Across and Within Organizations Shouldn’t Be Challenging!
 summary: 'Are you involved in a collaborative project where you need to share information? Whether it is within an organization across units or external to an organization &ndash; across agencies, or levels of government &ndash; sharing of information can be fraught with challenges.  The Center for Technology in Government, (CTG) University at Albany, New York has released'
@@ -16,7 +15,7 @@ categories:
 
 Over the last 15 years of working with many different types of government agencies, at all levels of government, I have learned that all organizations share one specific challenge – sharing i
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Collaboration-250x127.jpg" alt="Picture of people collaborating around a table" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Collaboration-250x127.jpg" alt="Picture of people collaborating around a table" >}}
 
 nformation. It sounds easy in concept but when organizations sit down to actually work through the intricacies of sharing information, the complexity of the issues become more apparent. What adds to this complexity is the perception that in a digital age the concept of sharing data (information) should be easy, transparent, and seamless.
 

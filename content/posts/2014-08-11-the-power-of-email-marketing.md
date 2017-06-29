@@ -1,5 +1,4 @@
 ---
-url: /2014/08/11/the-power-of-email-marketing/
 date: 2014-08-11 10:00:14 -0400
 title: The Power of Email Marketing
 summary: 'If you aren&rsquo;t currently including email marketing in your digital outreach efforts, you&rsquo;re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It&rsquo;s another digital platform that allows you to reach your customers and achieve your goals. Email marketing can be used in'
@@ -15,7 +14,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459061085.jpg" alt="Finance concept arrows in Email target on wall background" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459061085.jpg" alt="Finance concept arrows in Email target on wall background" caption="" >}} 
 
 If you aren’t currently including email marketing in your digital outreach efforts, you’re missing out. Think about email marketing in the same way you think about tools like Facebook, Twitter, YouTube, and your website. It’s another digital platform that allows you to reach your customers and achieve your goals.
 

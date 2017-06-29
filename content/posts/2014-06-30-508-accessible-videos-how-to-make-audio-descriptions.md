@@ -1,8 +1,7 @@
 ---
-url: /2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/
 date: 2014-06-30 10:00:33 -0400
 title: '508 Accessible Videos &#8211; How to Make Audio Descriptions'
-summary: ' What are Audio Descriptions? Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what is'
+summary: ' What are Audio Descriptions? Audio Description, also called descriptive video or video description, is an additional audio track that describes and gives context for essential visual information. Audio Description makes videos and multimedia accessible to people who have &#8220;low vision&#8221; (very poor vision), or who are blind, by capturing what'
 authors:
   - jonathan-rubin
   - ryan-leisinger
@@ -20,7 +19,7 @@ tag:
   - YouTube
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/850-x-350-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/850-x-350-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg)
 
 ## What are Audio Descriptions?
 

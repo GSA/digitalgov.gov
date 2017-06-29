@@ -1,5 +1,4 @@
 ---
-url: /2015/08/07/digitalgov-summit-recap-leveraging-open-analytics/
 date: 2015-08-07 11:10:54 -0400
 title: 'DigitalGov Summit Recap: Leveraging Open Analytics'
 summary: 'Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report. While government agencies may not have big budgets for data analysis, we do have tons of data&mdash;survey data, usability data, campaign data&mdash;that should be leveraged to drive decisions.'
@@ -17,7 +16,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
 
 Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report.
 

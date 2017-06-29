@@ -1,12 +1,11 @@
 ---
-url: /2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/
 date: 2015-04-06 11:49:07 -0400
 title: 'Using Personas to Better Understand Customers: USA.gov Case Study'
 summary: 'Personas are fictional characters that describe an organization&rsquo;s customer behaviors, emotions, attributes, motivations, and goals. They are an important tool to share customer insights and understanding across an organization. Personas also serve as a check to make sure your organization&rsquo;s actions meet the needs of the majority of customers, including visitors to your website, contact'
 authors:
   - michelle-chronister
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - analytics
@@ -47,7 +46,7 @@ Our customers are diverse and come to USA.gov with a range of goals and to find 
 
 These categories aren’t perfect &#8211; there is overlap between the customer types. A customer may fall into multiple types, but we still think these personas are useful for thinking about how our customers look for information.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-339-USAgov-Personas-slide-2-Complete-a-Transaction.jpg" alt="Slide 2, "Complete a transaction (or find information to prepare to complete a transaction)"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-339-USAgov-Personas-slide-2-Complete-a-Transaction.jpg" alt="Slide 2, Complete a transaction (or find information to prepare to complete a transaction)" >}}
 
 ### Complete a transaction (or find information to prepare to complete a transaction)
 
@@ -55,13 +54,13 @@ Many customers come to us to **complete a transaction**, such as renewing a pass
 
 Many government transactions involve downloading forms or finding copies of a vital document, such as a birth certificate. Due to the preparation involved in completing some transactions, we know customers come to us for help with this step.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-332-USAgov-Personas-slide-3-Find-Specific-Info.jpg" alt="Slide 3, "Find specific information on a known topic"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-332-USAgov-Personas-slide-3-Find-Specific-Info.jpg" alt="Slide 3, Find specific information on a known topic" >}}
 
 ### Find specific information on a known topic
 
 These customers **know what they want but need help finding it**. They might want to know how to get a free copy of their credit report or how to apply for Social Security benefits. We occasionally get inquiries that are very specific, such as the number of people on welfare in Kansas in 2011.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, "Browse information or learn more on a general topic"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, Browse information or learn more on a general topic" >}}
 
 ### Browse information or learn more on a general topic
 
@@ -69,7 +68,7 @@ We know from survey comments that many customers want to **browse information** 
 
 More frequently, they may have an idea in mind about what information they want, but they do not know exactly what that information is. A popular example is financial assistance available from the government. Many customers want to know what assistance is available to them, but can’t articulate if they want a grant, loan, etc.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-5-Find-contact-info.jpg" alt="Slide 5, "Find contact information for an agency or elected official"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-5-Find-contact-info.jpg" alt="Slide 5, Find contact information for an agency or elected official" >}}
 
 ### Find contact information for an agency or elected official
 

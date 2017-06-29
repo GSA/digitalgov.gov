@@ -1,8 +1,7 @@
 ---
-url: /2014/07/22/trends-on-tuesday-fcc-finds-rise-in-mobile-internet-subscriptions/
 date: 2014-07-22 11:00:40 -0400
 title: 'Trends on Tuesday: FCC Finds Rise in Mobile Internet Subscriptions'
-summary: 'Approximately 70% of American households have a fixed Internet source of 0.2 megabits per second or greater, according to the U.S. Federal Communications Commission&#8217;s (FCC) Measuring Broadband Across America Report that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source has'
+summary: 'Approximately 70% of American households have a fixed Internet source of 0.2 megabits per second or greater, according to the U.S. Federal Communications Commission&#8217;s (FCC) Measuring Broadband Across America Report that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source'
 authors:
   - katie-steffy
 categories:
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png" alt="speed dial" %}Approximately 70% of American households have a fixed Internet source of [0.2 megabits per second or greater](http://en.wikipedia.org/wiki/Megabit), according to the U.S. Federal Communications Commission&#8217;s (FCC) [Measuring Broadband Across America Report](https://www.fcc.gov/reports/measuring-broadband-america-2014) that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source has significant impact on how citizens are receiving, utilizing, and sharing vital information.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/speed-dial.png" alt="speed dial" >}}Approximately 70% of American households have a fixed Internet source of [0.2 megabits per second or greater](http://en.wikipedia.org/wiki/Megabit), according to the U.S. Federal Communications Commission&#8217;s (FCC) [Measuring Broadband Across America Report](https://www.fcc.gov/reports/measuring-broadband-america-2014) that analyzes the digital divide in the U.S. Up 15% in the last decade, this increase in Internet subscription source has significant impact on how citizens are receiving, utilizing, and sharing vital information.
 
 There were two interesting highlights for mobile implementers:
 

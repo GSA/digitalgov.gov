@@ -1,5 +1,4 @@
 ---
-url: /2014/08/27/the-api-briefing-mining-the-rich-data-resources-of-nasa-the-international-space-apps-challenges/
 date: 2014-08-27 11:00:34 -0400
 title: 'The API Briefing: Mining the Rich Data Resources of NASA &#8211; The International Space Apps Challenges'
 summary: 'The National Aeronautics and Space Administration (NASA) has an enormous collection of aerospace and science data sets. NASA missions and projects can create amazing amounts of data. One example: the Earth Observing System Data and Information System has collected enough information to fill the Library of Congress (Data.NASA.gov). A more recent example: the Solar Dynamics'
@@ -18,7 +17,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-466-Spacecraft-Soyuz-And-Space-Station-3DSculptor-iStock-Thinkstock-480050411.jpg" alt="Spacecraft Soyuz and Space Station" caption="" >}} 
 
 The National Aeronautics and Space Administration (NASA) has an enormous collection of aerospace and science data sets. NASA missions and projects can create amazing amounts of data. One example: the Earth Observing System Data and Information System has collected enough information to fill the Library of Congress (<a href="http://data.nasa.gov/about/" target="_blank">Data.NASA.gov</a>). A more recent example: the Solar Dynamics Observatory receives 1.5 terabytes of data a day.
 

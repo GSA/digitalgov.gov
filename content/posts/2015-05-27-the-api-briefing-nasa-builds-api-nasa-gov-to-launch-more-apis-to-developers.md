@@ -1,8 +1,7 @@
 ---
-url: /2015/05/27/the-api-briefing-nasa-builds-api-nasa-gov-to-launch-more-apis-to-developers/
 date: 2015-05-27 10:00:44 -0400
 title: 'The API Briefing: NASA Builds API.NASA.gov to Launch More APIs to Developers'
-summary: ' NASA has been busy since we last visited their collection of APIs back in August 2014. NASA has just launched API.NASA.gov where developers can learn to use existing NASA APIs'
+summary: ' NASA has been busy since we last visited their collection of APIs back in August 2014. NASA has just launched API.NASA.gov where developers can learn to use existing NASA'
 authors:
   - bbrantley
 categories:
@@ -13,7 +12,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}
 
 NASA has been busy since we <a href="https://www.WHATEVER/2014/08/27/the-api-briefing-mining-the-rich-data-resources-of-nasa-the-international-space-apps-challenges/" target="_blank">last visited their collection of APIs back in August 2014</a>. NASA has just launched <a href="http://api.nasa.gov/" target="_blank">API.NASA.gov</a> where developers can learn to use existing NASA APIs or contribute their APIs to the catalog.
 

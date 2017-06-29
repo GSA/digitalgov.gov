@@ -1,5 +1,4 @@
 ---
-url: /2016/04/15/how-gamification-can-break-down-bureaucracy-and-address-real-world-problems/
 date: 2016-04-15 10:00:06 -0400
 title: How Gamification Can Break Down Bureaucracy and Address Real World Problems
 summary: 'The world&rsquo;s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via MMOWGLI, the Massive Multiplayer Online Wargame Leveraging the Internet. MMOWGLI is an online gaming platform that'
@@ -14,7 +13,7 @@ tag:
   - United States Navy
 ---
 
-The world’s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-415-Gamification-in-business-concept-illustration-Anatolii-Babii-iStock-Thinkstock-462488743.jpg" alt="Gamification in business concept illustration" %} 
+The world’s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-415-Gamification-in-business-concept-illustration-Anatolii-Babii-iStock-Thinkstock-462488743.jpg" alt="Gamification in business concept illustration" caption="" >}} 
 
 To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via [MMOWGLI](https://portal.mmowgli.nps.edu/game-wiki), the Massive Multiplayer Online Wargame Leveraging the Internet.
 
@@ -41,7 +40,7 @@ There are multiple ways that players earn points:
 
 A leaderboard shows who has the most points in the game, and positions can quickly change. After the game concludes, the best ideas and concepts are considered for adoption by game sponsors.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-385-opt50-Gamification\_Massive-Multiplayer-Online-Wargame-Leveraging-the-Internet\_-MMOWGLI-players-portal.jpg" alt="Screen capture of the Massive Multiplayer Online Wargame Leveraging the Internet (MMOWGLI) players portal. " %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-385-opt50-Gamification\_Massive-Multiplayer-Online-Wargame-Leveraging-the-Internet\_-MMOWGLI-players-portal.jpg" alt="Screen capture of the Massive Multiplayer Online Wargame Leveraging the Internet (MMOWGLI) players portal. " >}}
 
 MMOWGLI runs in any Web browser. The [MMOWGLI players portal](https://portal.mmowgli.nps.edu/game-wiki) contains resources about the platform as a whole, and there is a [blog](https://portal.mmowgli.nps.edu/wp/) associated with each MMOWGLI game.
 

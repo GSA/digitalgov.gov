@@ -1,5 +1,4 @@
 ---
-url: /2015/12/14/government-customer-service-update-webinar-recap/
 date: 2015-12-14 1:00:28 -0400
 title: Government Customer Service Update—Webinar Recap
 summary: 'OMB&rsquo;s Lisa Danzig, who co-leads the Cross Agency Priority (CAP) Customer Service Goal with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they&rsquo;ve done since we last spoke with her, earlier this year. Background When the public comes to the federal government for information and services, they'
@@ -20,7 +19,7 @@ tag:
   - The United States Social Security Administration
 ---
 
-OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year](https://www.WHATEVER/2015/05/29/a-conversation-with-omb-on-customer-service/). {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept "compass" graphic with the arrow pointing towards Customer" %} 
+OMB’s Lisa Danzig, who co-leads the [Cross Agency Priority (CAP) Customer Service Goal](http://www.performance.gov/content/customer-service?view=public#overview) with Carolyn Colvin, from the Social Security Administration, shared a status update on the CAP goal work they’ve done [since we last spoke with her, earlier this year](https://www.WHATEVER/2015/05/29/a-conversation-with-omb-on-customer-service/). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
 
 ## Background
 
@@ -39,7 +38,7 @@ The past 18 months focused on the first two strategies.
 
 **Feedback and transparency:** The [FeedbackUSA](https://feedback.usa.gov/) pilot was launched in August 2015. This partnership between U.S. General Services Administration (GSA) and other agencies allows citizens to provide quick transactional feedback to federal agencies via a kiosk. Pilot programs included passports and social security cards.
 
-## Up Next {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" %} 
+## Up Next {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 
 
 The next 16 months will focus on the second two strategies.
 

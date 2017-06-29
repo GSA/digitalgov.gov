@@ -1,8 +1,7 @@
 ---
-url: /2014/05/20/introductory-call-for-the-disaster-apps-challenge/
 date: 2014-05-20 10:00:08 -0400
 title: Introductory Call for the Disaster Apps Challenge
-summary: The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the Disaster Apps Challenge Competition, which opened yesterday. This call is open to the public, specifically the people who are interested in
+summary: The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the Disaster Apps Challenge Competition, which opened yesterday. This call is open to the public, specifically the people who are interested
 authors:
   - tmarcoullier
 categories:
@@ -14,7 +13,7 @@ tag:
   - open source
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-296-National-Defense-University-Center-for-Technology-and-National-Security-Policy-shield-logo.jpg" alt="National Defense University - Center for Technology and National Security Policy shield logo" %}The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the <a title="disaster apps challenge competition" href="http://disasterapps.challengepost.com/" target="_blank">Disaster Apps Challenge Competition</a>, which opened yesterday.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-296-National-Defense-University-Center-for-Technology-and-National-Security-Policy-shield-logo.jpg" alt="National Defense University - Center for Technology and National Security Policy shield logo" >}}The National Defense University (NDU) is hosting a conference call Friday, May 23, to spread the word about the <a title="disaster apps challenge competition" href="http://disasterapps.challengepost.com/" target="_blank">Disaster Apps Challenge Competition</a>, which opened yesterday.
 
 This call is open to the public, specifically the people who are interested in learning more and possibly entering the competition. The goals:
 

@@ -1,5 +1,4 @@
 ---
-url: /2015/09/17/using-customer-feedback-to-improve-healthcare-gov/
 date: 2015-09-17 11:10:00 -0400
 title: Using Customer Feedback to Improve HealthCare.gov
 summary: 'We recently polled the Customer Experience Community of Practice (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action. To learn how agencies such as the Department of Health and Human'
@@ -14,7 +13,7 @@ tag:
   - CX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
 
 We recently polled the [Customer Experience Community of Practice](https://www.WHATEVER/communities/customer-experience-community/) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
 
@@ -37,7 +36,7 @@ Since it first launched, HealthCare.gov has had a “voice of the customer” to
   * First-click tests
   * Individual interviews
   * Focus groups
-  * Card sort tests {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols" %} 
+  * Card sort tests {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols" caption="" >}} 
 
 Some tips to prioritize qualitative feedback and receive actionable data:
 

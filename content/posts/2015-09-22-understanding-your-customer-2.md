@@ -1,5 +1,4 @@
 ---
-url: /2015/09/22/understanding-your-customer-2/
 date: 2015-09-22 10:00:26 -0400
 title: Understanding Your Customer
 summary: 'How well do you know your customers? There&rsquo;s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
@@ -20,7 +19,7 @@ tag:
   - USDA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}} 
 
 How well do you know your customers? There’s a new guide out from the [Excellence In Government (EIG) Fellows Program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php) to help you do just that.
 
@@ -32,7 +31,7 @@ Under the CAP goal, agencies are charged with transforming their work environmen
 
 ## Six Steps to Customer Understanding
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" >}}
 
 The simple Guide to [Understanding Your Customer](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Understanding-Your-Customer.pdf) developed by our team covers six key points:
 

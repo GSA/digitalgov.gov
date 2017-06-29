@@ -1,5 +1,4 @@
 ---
-url: /2015/02/18/8-new-federal-friendly-apps-and-services/
 date: 2015-02-18 1:10:43 -0400
 title: 8 New Federal-Friendly Apps and Services
 summary: 'Tackling technology tasks just got easier. Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive list of federal-friendly TOS agreements for free products, and the list is updated as new TOS agreements are created. Cyfe Cyfe, a business dashboard app, helps users monitor diverse data'
@@ -19,7 +18,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" caption="" >}} 
 
 Tackling technology tasks just got easier.
 

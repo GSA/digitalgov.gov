@@ -1,8 +1,7 @@
 ---
-url: /2014/08/27/member-spotlight-jill-james-dept-of-education/
 date: 2014-08-27 10:00:43 -0400
 title: 'Member Spotlight &#8211; Jill James, Dept. of Education'
-summary: 'Welcome to the first edition of a new series of articles spotlighting members of our Government Web Manager Community. This month, we introduce Jill James, who&rsquo;s the Senior Web Editor/Director for the Department of Education, in their Communications and Outreach Office.'
+summary: 'Welcome to the first edition of a new series of articles spotlighting members of our Government Web Manager Community. This month, we introduce Jill James, who&rsquo;s the Senior Web Editor/Director for the Department of Education, in their Communications and Outreach'
 authors:
   - rflagg
 categories:
@@ -14,7 +13,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" %}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community](https://www.WHATEVER/communities/web-managers-forum/ "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community](https://www.WHATEVER/communities/web-managers-forum/ "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
 
 ## What’s the best job you&#8217;ve ever had (and why)?
 

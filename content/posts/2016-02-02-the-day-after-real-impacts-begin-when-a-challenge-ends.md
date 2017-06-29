@@ -1,5 +1,4 @@
 ---
-url: /2016/02/02/the-day-after-real-impacts-begin-when-a-challenge-ends/
 date: 2016-02-02 10:00:52 -0400
 title: 'The Day After: Real Impacts Begin When a Challenge Ends'
 summary: 'In 1927, Charles Lindbergh won the Orteig Prize for becoming the first pilot to fly nonstop from New York to Paris. Few know that Lindbergh won $25,000 for the flight, but everybody knows about the revolution that followed. That transatlantic flight opened people&rsquo;s minds to what was possible in air travel. Investment in the aviation'
@@ -20,7 +19,7 @@ Few know that Lindbergh won $25,000 for the flight, but everybody knows about th
 
 That transatlantic flight opened people’s minds to what was possible in air travel. Investment in the aviation industry exploded, as did the number of people buying plane tickets.
 
-Obviously, the impact of the Orteig Prize continues to this day. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" %} 
+Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Dominoes-falling-Comstock-Stockbyte-Thinkstock-78460749.jpg" alt="Dominoes falling" caption="" >}} 
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 

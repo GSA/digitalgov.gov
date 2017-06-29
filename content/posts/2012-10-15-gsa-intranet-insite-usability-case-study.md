@@ -1,12 +1,11 @@
 ---
-url: /2012/10/15/gsa-intranet-insite-usability-case-study/
 date: 2012-10-15 12:21:03 -0400
 title: 'GSA Intranet (Insite) &#8211; Usability Case Study'
 summary: 'Not all usability changes are dramatic. Sometimes a few small tweaks can make a site significantly easier to navigate, or make important but hidden content pop off the page. The DigitalGov User Experience Program helped test Insite, GSA&#8217;s intranet, on September 21, 2011. GSA took the feedback from their usability test and made some changes to the'
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -27,7 +26,7 @@ The wording used to identify pages was not clear. The use of program names and a
 
 Acronyms and program names were given brief explanations using plain language for clarity.
 
-## [{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-before.jpg" alt="insite before screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-before.jpg)Problem 2: Sliding Boxes Confusing to Users
+## [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-before.jpg" alt="insite before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-before.jpg)Problem 2: Sliding Boxes Confusing to Users
 
 The use of sliders in the left-hand side navigation bar confused users and their purpose was not immediately evident to most.
 
@@ -45,6 +44,6 @@ The category links identified as the most important for regular visitors of the 
 
 The below screen capture was taken one month later in October of 2012.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-after.jpg" alt="insite after screen shot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-after.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-after.jpg" alt="insite after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-after.jpg)
 
  

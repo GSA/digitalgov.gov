@@ -1,8 +1,7 @@
 ---
-url: /2015/04/23/checking-in-on-the-dod-mobile-apps-gallery/
 date: 2015-04-23 10:07:30 -0400
 title: Checking in on the DoD Mobile Apps Gallery
-summary: ' We&rsquo;re switching our style up this week in salute to our military friends across the Department of Defense. Faithful readers of DigitalGov know that each Thursday we profile an awesome app from the USA.gov'
+summary: ' We&rsquo;re switching our style up this week in salute to our military friends across the Department of Defense. Faithful readers of DigitalGov know that each Thursday we profile an awesome app from the'
 authors:
   - kdowney
 categories:
@@ -14,7 +13,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" alt="Screen capture of a design schematic from "Make It Fly: create your own Air Force planes" Android app." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-338-Screen-capture-of-a-design-schematic-from-the-Make-It-Fly-create-your-own-Air-Force-planes-Android-app.jpg" alt="Screen capture of a design schematic from Make It Fly: create your own Air Force planes Android app." >}}
 
 We’re switching our style up this week in salute to our military friends across the Department of Defense.
 
@@ -30,7 +29,7 @@ Next up is the Army, with an impressive arsenal of apps in the gallery. Start wi
 
 One great fitness app to help you look like a soldier is the iOS-based [Army Comprehensive Soldier and Family Fitness (CSF2)](http://csf2.army.mil/downloads-apps.html) which helps anyone keep track of fitness goals using the 7-step goal-setting process used in the US Army&#8217;s Comprehensive Soldier and Family Fitness program.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-600-Coast-Guard-Always-Ready-iPhone-app-home-screen-and-menu-screen.jpg" alt="Coast Guard Always Ready iPhone app home screen and menu screen" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-600-Coast-Guard-Always-Ready-iPhone-app-home-screen-and-menu-screen.jpg" alt="Coast Guard Always Ready iPhone app home screen and menu screen" >}}
 
 Don’t forget the Coast Guard entry in the gallery, [Coast Guard Ombudsman](http://www.uscg.mil/worklife/ombudsman_app.asp), which gives users information about the many quality of life resources available for Coast Guard military and civilian personnel, family members, and retirees.
 

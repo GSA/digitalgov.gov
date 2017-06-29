@@ -1,8 +1,7 @@
 ---
-url: /2015/03/31/gather-your-agencys-public-data-with-let-me-get-that-data-for-you/
 date: 2015-03-31 10:38:06 -0400
 title: 'Gather Your Agency&#8217;s Public Data with Let Me Get That Data for You'
-summary: 'In case you missed it, U.S. Open Data recently launched a tool called: Let Me Get That Data For You (LMGTDY). The name is a play on the very funny Let Me Google That For You website. How LMGTDFY works Let Me Get That Data For You searches any website for data'
+summary: 'In case you missed it, U.S. Open Data recently launched a tool called: Let Me Get That Data For You (LMGTDY). The name is a play on the very funny Let Me Google That For You website. How LMGTDFY works Let Me Get That Data For You searches any website for'
 authors:
   - rebecca-williams
 categories:
@@ -15,7 +14,7 @@ tag:
 
 In case you missed it, U.S. Open Data [recently launched a tool](https://usopendata.org/2015/02/18/lmgtdfy/) called: <a href="http://lmgtdfy.usopendata.org/" target="_blank">Let Me Get That Data For You (LMGTDY)</a>. The name is a play on the very funny <a href="http://lmgtfy.com/" target="_blank">Let Me Google That For You</a> website.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM.png)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM.png)
 
 ## How LMGTDFY works
 

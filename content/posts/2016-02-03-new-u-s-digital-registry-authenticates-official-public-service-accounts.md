@@ -1,8 +1,7 @@
 ---
-url: /2016/02/03/new-u-s-digital-registry-authenticates-official-public-service-accounts/
 date: 2016-02-03 12:00:48 -0400
 title: New U.S. Digital Registry Authenticates Official Public Service Accounts
-summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We&rsquo;d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do'
+summary: ' Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We&rsquo;d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you'
 authors:
   - jherman
 categories:
@@ -18,7 +17,7 @@ tag:
   - U.S. Digital Registry
 ---
 
-<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" %}</a>
+<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 

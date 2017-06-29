@@ -1,5 +1,4 @@
 ---
-url: /2015/10/07/the-data-briefing-white-house-asks-data-scientists-and-app-developers-to-help-suicide-prevention-efforts/
 date: 2015-10-07 10:09:18 -0400
 title: 'The Data Briefing: White House Asks Data Scientists and App Developers to Help Suicide Prevention Efforts'
 summary: 'The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention. From the official announcement: &ldquo;If you are a data scientist, analyst, tech innovator, or entrepreneur interested in sharing ideas and resources for suicide prevention, we want to hear from'
@@ -24,7 +23,7 @@ tag:
   - White House
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Help-Kiketz-iStock-Thinkstock-484208478.jpg" alt="The focus of photo of a page is on the word help." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Help-Kiketz-iStock-Thinkstock-484208478.jpg" alt="The focus of photo of a page is on the word help." caption="" >}} 
 
 The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention. From the <a href="https://www.whitehouse.gov/blog/2015/09/30/building-partnerships-suicide-prevention" target="_blank">official announcement</a>:
 
@@ -32,7 +31,7 @@ The White House issued a call on September 30, 2015, for data scientists and app
 
 In this column, I will describe some of the data sources that could be leveraged for building data analysis and apps to aid in the suicide prevention effort. This is not an exhaustive list because there are many agencies involved in this mental health issue with data resources scattered throughout various agency websites. There are some great federal government resources, but, maybe, the first step is a single portal and app that provides a one-stop-shop for at-risk individuals, families, and health-care providers. Two good online resource sites to start from are the Substance Abuse and Mental Health Services Administration&#8217;s (SAMHSA) <a href="http://www.samhsa.gov/tribal-ttac/resources/suicide-prevention" target="_blank">Suicide Prevention page</a> and the <a href="http://www.sprc.org/" target="_blank">Suicide Prevention Resource Center</a>.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-444-the-Support-screen-from-the-MY-3-suicide-prevention-app.jpg" alt="The Support screen from the MY 3 suicide prevention app" %}One of the lead agencies for suicide prevention is SAMHSA, which provides two very good apps devoted to suicide prevention. The first app, <a href="http://www.suicidepreventionlifeline.org/gethelp/my3-app.aspx" target="_blank">My3</a>, helps individuals create a support network. When the user is having suicidal thoughts or struggling with difficult emotions, he or she can use the app to reach quickly out to their family and friends for help.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-444-the-Support-screen-from-the-MY-3-suicide-prevention-app.jpg" alt="The Support screen from the MY 3 suicide prevention app" >}}One of the lead agencies for suicide prevention is SAMHSA, which provides two very good apps devoted to suicide prevention. The first app, <a href="http://www.suicidepreventionlifeline.org/gethelp/my3-app.aspx" target="_blank">My3</a>, helps individuals create a support network. When the user is having suicidal thoughts or struggling with difficult emotions, he or she can use the app to reach quickly out to their family and friends for help.
 
 The second app from SAMHSA is targeted for health care providers. <a href="http://store.samhsa.gov/apps/suicidesafe/" target="_blank">Suicide Safe</a> helps health care workers spot suicide risk among their patients and provides information on integrating suicide prevention methods into their health care practices. Suicide Safe is built around the <a href="http://store.samhsa.gov/product/Suicide-Assessment-Five-Step-Evaluation-and-Triage-SAFE-T-/SMA09-4432" target="_blank">Suicide Assessment Five-Step Evaluation and Triage</a> framework created by SAMHSA.
 

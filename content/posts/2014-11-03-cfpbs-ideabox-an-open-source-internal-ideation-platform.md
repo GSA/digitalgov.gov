@@ -1,8 +1,7 @@
 ---
-url: /2014/11/03/cfpbs-ideabox-an-open-source-internal-ideation-platform/
 date: 2014-11-03 10:00:00 -0400
 title: 'CFPB&#8217;s IdeaBox: an Open-Source Internal Ideation Platform'
-summary: 'IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.   Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau&rsquo;s initiative to generate, incubate, and implement'
+summary: 'IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.   Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau&rsquo;s initiative to generate, incubate, and'
 authors:
   - monte-desai
 categories:
@@ -20,7 +19,7 @@ tag:
 IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-429-CFPB-Ideabox-screenshot.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-429-CFPB-Ideabox-screenshot.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" >}}</a>
 </p>
 
  

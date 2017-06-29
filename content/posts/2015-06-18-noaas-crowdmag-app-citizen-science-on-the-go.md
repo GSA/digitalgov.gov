@@ -1,15 +1,14 @@
 ---
-url: /2015/06/18/noaas-crowdmag-app-citizen-science-on-the-go/
 date: 2015-06-18 10:00:40 -0400
 title: 'NOAA&#8217;s CrowdMag App: Citizen Science on the Go'
 summary: 'The rise in mobile device usage has created a rise in expectations: the public wants new and innovative interactions with all organizations, including government. Incorporating social media in mobile websites and native apps is one way federal agencies have increased public interaction. Six agencies have leveraged native app functionality for crowdsourcing purposes. The National Oceanic'
 authors:
   - jparcell
 categories:
-  - 'Crowdsourcing and Citizen Science'
+  - 'Crowdsourcing &amp; Citizen Science'
   - Mobile
   - Monthly Theme
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - citizen science
   - crowdsourcing
@@ -26,7 +25,7 @@ The rise in mobile device usage has created a rise in expectations: [the public 
 
 Six agencies have leveraged native app functionality for [crowdsourcing purposes](https://www.WHATEVER/2014/06/12/three-ways-agencies-are-using-social-media-in-mobile-products/). The National Oceanic and Atmospheric Administration (NOAA) leads the way with three public-facing applications that transform ordinary citizens into citizen scientists: [Dolphin and Whale 911](https://www.WHATEVER/2013/10/24/dolphin-and-whale-apps-from-noaa-fisheries/), [Release Mako](https://www.WHATEVER/2012/04/26/noaas-release-mako-app/) and [CrowdMag](https://www.WHATEVER/2015/01/29/be-a-citizen-scientist-with-noaas-crowdmag-app/).
 
-{% img="https://www.WHATEVER/files/2015/06/250-x-444-NOAA-CrowdMag.jpg" alt="Screenshot of the Crowd Mag app" %}The NOAA CrowdMag App collects and sends magnetometer data to NOAA researchers. The app leverages the magnetometer in mobile devices by automatically taking readings from the user’s device and sending the data to researchers. The app was launched in both [Android](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) and [iOS](https://itunes.apple.com/app/id910578825) in 2014 by [NOAA’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/news/national-centers-environmental-information).
+{{< legacy-img src="https://www.WHATEVER/files/2015/06/250-x-444-NOAA-CrowdMag.jpg" alt="Screenshot of the Crowd Mag app" >}}The NOAA CrowdMag App collects and sends magnetometer data to NOAA researchers. The app leverages the magnetometer in mobile devices by automatically taking readings from the user’s device and sending the data to researchers. The app was launched in both [Android](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) and [iOS](https://itunes.apple.com/app/id910578825) in 2014 by [NOAA’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/news/national-centers-environmental-information).
 
 NOAA scientists combine the app’s crowdsourced magnetic data with real-time solar wind data to create near real-time models of Earth’s time changing magnetic field. The data also helps map local magnetic noise sources (think power transformers and iron pipes) to improve accuracy of magnetic navigation systems.
 

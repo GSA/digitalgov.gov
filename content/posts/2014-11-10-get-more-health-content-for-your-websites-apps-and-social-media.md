@@ -1,5 +1,4 @@
 ---
-url: /2014/11/10/get-more-health-content-for-your-websites-apps-and-social-media/
 date: 2014-11-10 11:05:26 -0400
 title: Get More Health Content for Your Websites, Apps, and Social Media
 summary: 'Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the science-based resources of the Department of Health and Human Services (HHS), Centers for Disease Control and'
@@ -21,7 +20,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-250-News-Health-Violka08-iStock-Thinstock-160049793.jpg" alt="Graphic of health news content displayed on a tablet." caption="" >}} 
 
 Several federal agencies and offices have worked together to create a free and easy way for public health partners to incorporate our Web content, images, video, data, and infographics into other sites, apps, and social media. Through digital media syndication, the science-based resources of the Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), and the National Institutes of Health (NIH) can be combined with your ongoing activities at the state and local levels, and can help coordinate health messaging for maximum impact and reach.
 
@@ -96,7 +95,7 @@ Additionally, CS works to further the agenda of the Open Government Initiative. 
 
 The infographic below depicts the process of content syndication.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-335-auto-tone-CDC-Content-Syndication-infographic-sketch.jpg" alt="CDC content syndication infographic sketch" >}}
 
 ## Want to Participate?
 

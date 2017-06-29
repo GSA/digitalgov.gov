@@ -1,8 +1,7 @@
 ---
-url: /2013/09/10/trends-on-tuesday-kids-are-going-mobile/
 date: 2013-09-10 2:31:38 -0400
 title: 'Trends on Tuesday: Kids are Going Mobile'
-summary: 'From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds&mdash;particularly our smartphones and tablets. The early adoption of mobile is growing each year as evidenced by this infographic from EveryDayFamily.com. 30 percent of 2- to 5-year-olds'
+summary: 'From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds&mdash;particularly our smartphones and tablets. The early adoption of mobile is growing each year as evidenced by this infographic from EveryDayFamily.com. 30 percent of 2- to'
 authors:
   - lisa-wilcox
 categories:
@@ -17,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." %}](https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024.jpg)From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.
+[{{< legacy-img src="https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." >}}](https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024.jpg)From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.
 
 The early adoption of mobile is growing each year as evidenced by this infographic from [EveryDayFamily.com](http://www.everydayfamily.com/blog/kids-and-the-mobile-technology-takeover/).
 

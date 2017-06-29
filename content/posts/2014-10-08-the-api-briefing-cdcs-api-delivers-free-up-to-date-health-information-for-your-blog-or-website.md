@@ -1,5 +1,4 @@
 ---
-url: /2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/
 date: 2014-10-08 11:50:21 -0400
 title: 'The API Briefing: CDC&#8217;s API Delivers Free Up-To-Date Health Information for Your Blog or Website'
 summary: The recent Ebola outbreaks demonstrate the need for current and authoritative health news. The Centers for Disease Control and Prevention (CDC) is the federal information source for Ebola and other infectious diseases, along with other public health data. Data.CDC.gov lists 48 datasets and views containing statistics from smoking to infectious diseases. Developers can use the
@@ -22,7 +21,7 @@ The recent Ebola outbreaks demonstrate the need for current and authoritative he
 
 For those who are not developers, the CDC offers a way to embed health data into blogs, websites, and social media. Through [Tools.CDC.gov](https://tools.cdc.gov/medialibrary/?context=e30%3D), users can put a microsite into their website or app. A [microsite](http://en.wikipedia.org/wiki/Microsite) is a self-contained Web page or set of pages that are designed to be inserted into another Web page. Microsites are one way federal government content can be packaged and repurposed—otherwise known as “content syndication.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-473-CDC-health-data-API-microsites-Ebola.jpg" alt="600-x-473-CDC-health-data-API-microsites-Ebola" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-473-CDC-health-data-API-microsites-Ebola.jpg" alt="600-x-473-CDC-health-data-API-microsites-Ebola" >}}
 
  
 

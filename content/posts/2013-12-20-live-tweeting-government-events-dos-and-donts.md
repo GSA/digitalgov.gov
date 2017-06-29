@@ -1,8 +1,7 @@
 ---
-url: /2013/12/20/live-tweeting-government-events-dos-and-donts/
 date: 2013-12-20 9:24:55 -0400
 title: Live Tweeting Government Events – DOs and DON’Ts
-summary: ' In this time of tight travel budgets, not everyone can make it to every event or conference they&rsquo;d like to attend. Luckily, Twitter has made it easier to share events through live tweeting. Live tweeting is using Twitter to'
+summary: ' In this time of tight travel budgets, not everyone can make it to every event or conference they&rsquo;d like to attend. Luckily, Twitter has made it easier to share events through live tweeting. Live tweeting is using Twitter'
 authors:
   - sara-harris-smith
 categories:
@@ -12,7 +11,7 @@ tag:
   - Twitter
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" >}}
 
 In this time of tight travel budgets, not everyone can make it to every event or conference they’d like to attend. Luckily, Twitter has made it easier to share events through live tweeting.
 

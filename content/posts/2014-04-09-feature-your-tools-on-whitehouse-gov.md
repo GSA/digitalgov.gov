@@ -1,5 +1,4 @@
 ---
-url: /2014/04/09/feature-your-tools-on-whitehouse-gov/
 date: 2014-04-09 2:43:55 -0400
 title: Feature Your Consumer Tools on WhiteHouse.gov
 summary: 'The White House launched a hub for consumer-facing tools across the federal government, and they want to feature your agency&#8217;s tools that can help make people&#8217;s lives easier. As of now, they are featuring tools from these agencies: Department of Education&#8217;s College Scorecard Department of Energy&#8217;s Hybrid Car Calculator & Home Energy Yardstick Department of Agriculture&#8217;s'
@@ -27,7 +26,7 @@ As of now, they are featuring tools from these agencies:
 
 Check out the tools and [let them know about the tools](http://www.whitehouse.gov/tools/feedback) that should be added.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/opt-consumerhub\_emailteaser\_5408.jpg" alt="White House Tools " %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/opt-consumerhub\_emailteaser\_5408.jpg" alt="White House Tools " >}}
 
  
 

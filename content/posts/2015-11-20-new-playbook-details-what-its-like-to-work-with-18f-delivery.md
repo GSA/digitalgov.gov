@@ -1,5 +1,4 @@
 ---
-url: /2015/11/20/new-playbook-details-what-its-like-to-work-with-18f-delivery/
 date: 2015-11-20 1:00:26 -0400
 title: 'New Playbook Details What It&#8217;s Like to Work with 18F Delivery'
 summary: If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The 18F Delivery Partner Playbook is specifically targeted at federal offices interested in working with 18F to build digital services. The playbook is
@@ -12,7 +11,7 @@ tag:
   - 18F
 ---
 
-If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The [18F Delivery Partner Playbook](https://pages.18f.gov/partnership-playbook/) is specifically targeted at federal offices interested in working with 18F to build digital services. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-427-Football-Strategy-And-Whistle-On-Digital-Tablet-AndreyPopov-iStock-Thinkstock-473149168.jpg" alt="A whistle lays on top of a digital tablet that is displaying a football strategy play." %} 
+If you or your agency have thought about working with 18F but are unsure of how we work with our partners, we have a new set of guidelines to help you out. The [18F Delivery Partner Playbook](https://pages.18f.gov/partnership-playbook/) is specifically targeted at federal offices interested in working with 18F to build digital services. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-427-Football-Strategy-And-Whistle-On-Digital-Tablet-AndreyPopov-iStock-Thinkstock-473149168.jpg" alt="A whistle lays on top of a digital tablet that is displaying a football strategy play." caption="" >}} 
 
 The playbook is based both on our project experience to date and common questions that come up during our business development process. It lays out the plays and techniques that we’ve found make for a successful collaboration between us and our partners. We hope that naming our aspirations can help better align expectations about how we’ll work together. Many of the principles below build on specific plays in the [U.S. Digital Services Playbook](https://playbook.cio.gov/), which some 18F staffers assisted in authoring.
 

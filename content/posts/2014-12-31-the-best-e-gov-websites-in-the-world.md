@@ -1,8 +1,7 @@
 ---
-url: /2014/12/31/the-best-e-gov-websites-in-the-world/
 date: 2014-12-31 10:00:45 -0400
 title: The Best E-gov Websites in the World
-summary: ' In Design Secrets of the World&rsquo;s Best e-Government Web Sites, the Asia-Pacific online communications powerhouse FutureGov singles out eight national e-government portals as the best-designed in the world, and identifies the best practices these sites exemplify. &ldquo;Ultimately, these websites are the best in the world because they are designed to be'
+summary: ' In Design Secrets of the World&rsquo;s Best e-Government Web Sites, the Asia-Pacific online communications powerhouse FutureGov singles out eight national e-government portals as the best-designed in the world, and identifies the best practices these sites exemplify. &ldquo;Ultimately, these websites are the best in the world because they are designed to'
 authors:
   - darlene-meskell
 categories:
@@ -16,7 +15,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Computer-key-E-government-jurgenfr-iStock-Thinkstock-459457871.jpg" alt="600-x-400-Computer-key\---E-government-jurgenfr-iStock-Thinkstock-459457871" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Computer-key-E-government-jurgenfr-iStock-Thinkstock-459457871.jpg" alt="600-x-400-Computer-key\---E-government-jurgenfr-iStock-Thinkstock-459457871" >}}
 
 In [Design Secrets of the World’s Best e-Government Web Sites](http://www.futuregov.asia/articles/5331-design-secrets-of-the-worlds-best-e-government-websites), the Asia-Pacific online communications powerhouse [FutureGov](http://www.futuregov.asia/) singles out eight national e-government portals as the best-designed in the world, and identifies the best practices these sites exemplify.
 
@@ -26,7 +25,7 @@ In [Design Secrets of the World’s Best e-Government Web Sites](http://www.futu
 
 Here are the websites that do this best, according to FutureGov:
 
-  * {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-248-Flags-collection-sphere-DenisKot-iStock-Thinkstock-510655639.jpg" alt="250-x-248-Flags-collection-sphere-DenisKot-iStock-Thinkstock-510655639" %}The United Kingdom’s [**Gov.UK**](https://www.gov.uk/), is praised widely for the simplicity of its design, the clarity of its content, its search engine optimization strategies, the agility of its entrepreneurial team, and its consolidation of hundreds of government websites.
+  * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-248-Flags-collection-sphere-DenisKot-iStock-Thinkstock-510655639.jpg" alt="250-x-248-Flags-collection-sphere-DenisKot-iStock-Thinkstock-510655639" >}}The United Kingdom’s [**Gov.UK**](https://www.gov.uk/), is praised widely for the simplicity of its design, the clarity of its content, its search engine optimization strategies, the agility of its entrepreneurial team, and its consolidation of hundreds of government websites.
   * Australia’s use of comprehensive user research and testing has led it to make significant improvements to the [**Australia.gov.au**](http://www.australia.gov.au/) portal that helped the country’s e-government programs score second highest in the United Nation’s 2014 e-government rankings.
   * Hong Kong’s [**Gov.HK**](http://www.gov.hk/en/residents/) is called vibrant, exciting, and “not at all like a staid government website.” It is notable for its accessibility—in 10 languages: Cantonese, Mandarin, English, Bahasa Indonesian, Nepalese, Tagalog, Pakistani, Thai and Vietnamese.
   * New Zealand’s newly redesigned [**Govt.nz**](https://www.govt.nz/) “doesn’t look much like a government website at all,” according to FutureGov. “It’s very simple with a large font and no official insignia.” Extensive user testing and feedback guided the designers’ decisions.

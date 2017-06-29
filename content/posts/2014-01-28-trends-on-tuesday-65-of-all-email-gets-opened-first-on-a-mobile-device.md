@@ -1,8 +1,7 @@
 ---
-url: /2014/01/28/trends-on-tuesday-65-of-all-email-gets-opened-first-on-a-mobile-device/
 date: 2014-01-28 5:37:44 -0400
 title: 'Trends on Tuesday: 65% of All Email Gets Opened First on a Mobile Device'
-summary: 'While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop. According to data from the US Consumer Device Preference Report: Q4 2013 from Movable Ink, way more than half of all email &mdash; a full 65 percent &mdash; is now being accessed via'
+summary: 'While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop. According to data from the US Consumer Device Preference Report: Q4 2013 from Movable Ink, way more than half of all email &mdash; a full 65 percent &mdash; is now being accessed'
 authors:
   - lisa-wilcox
 categories:
@@ -14,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/email-1005x1024.jpg" alt="Email icon" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/email-1005x1024.jpg)While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/email-1005x1024.jpg" alt="Email icon" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/email-1005x1024.jpg)While composing email on mobile phones is still a tricky feat, email reading is quickly shifting away from the desktop.
 
 According to data from the [US Consumer Device Preference Report: Q4 2013](https://movableink.com/downloads/us_consumer_device_preference_report_Q42013) from Movable Ink, way more than half of all email — a full 65 percent — is now being accessed via mobile devices in the U.S.
 

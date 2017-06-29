@@ -1,8 +1,7 @@
 ---
-url: /2013/03/20/census-takes-march-madness-to-a-new-level/
 date: 2013-03-20 1:38:03 -0400
 title: Census takes “March Madness” to a New Level
-summary: ' Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The Census Bureau, known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; tests your knowledge of state'
+summary: ' Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The Census Bureau, known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; tests your knowledge of'
 authors:
   - jthalls
 categories:
@@ -11,7 +10,7 @@ tag:
   - Census
 ---
 
-<a href="https://www.WHATEVER/2013/03/20/census-takes-march-madness-to-a-new-level/census-1-308x220-1/" rel="attachment wp-att-97632">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" %}</a>
+<a href="https://www.WHATEVER/2013/03/20/census-takes-march-madness-to-a-new-level/census-1-308x220-1/" rel="attachment wp-att-97632">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/03/census-1-308x220-1-250x178.jpg" alt="census-1-308x220 (1)" >}}</a>
 
 Government agencies are working hard  to communicate complex mountains of data clearly and effectively through graphics. The [Census Bureau](http://www.census.gov/), known for their great work creating visual images, has done just that. They have created a great data visualization game just in time for March Madness! The game, &#8220;Population Bracketology&#8221; [tests your knowledge](http://www.census.gov/dataviz/visualizations/057/) of state and metropolitan area population estimates.
 

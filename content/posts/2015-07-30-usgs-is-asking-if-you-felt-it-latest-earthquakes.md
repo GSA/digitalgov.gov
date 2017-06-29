@@ -1,8 +1,7 @@
 ---
-url: /2015/07/30/usgs-is-asking-if-you-felt-it-latest-earthquakes/
 date: 2015-07-30 11:43:35 -0400
 title: 'USGS is Asking If You Felt It: Latest Earthquakes'
-summary: ' Having experienced everything from little tremors to violent shaking, I know what it is like to live in an earthquake zone. Hiding below a large table or under the sturdy doorframe, and at times with the entire'
+summary: ' Having experienced everything from little tremors to violent shaking, I know what it is like to live in an earthquake zone. Hiding below a large table or under the sturdy doorframe, and at times with the'
 authors:
   - nirmala-ramprasad
 categories:
@@ -19,7 +18,7 @@ tag:
   - USGS
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-411-USGS-Earthquake-Hazards-map-with-47-of-50-earthquakes-around-the-world-on-July-29-2015.jpg" alt="A USGS earthquake map shows 47 of 50 earthquakes that occurred on July 29, 2015" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-411-USGS-Earthquake-Hazards-map-with-47-of-50-earthquakes-around-the-world-on-July-29-2015.jpg" alt="A USGS earthquake map shows 47 of 50 earthquakes that occurred on July 29, 2015" >}}
 
 Having experienced everything from little tremors to violent shaking, I know what it is like to live in an earthquake zone. Hiding below a large table or under the sturdy doorframe, and at times with the entire building swaying back and forth—it can be quite frightening and confusing at the same time. Your thoughts are flying at 200 miles an hour, flitting from one to the next, concerned about your and your family’s safety.
 
@@ -29,15 +28,15 @@ The United States Geological Survey (USGS)&#8217;s Earthquake Hazards program ho
 
 The website is simple, intuitive and easy-to-use. As the site loads you will see four icons at the top right. These help with the navigation and toggle the content, as shown below, into- and out-of your view.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/100-x-95-USGS-Earthquake-Hazards-program-content-navigation.jpg" alt="Settings icons" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/100-x-95-USGS-Earthquake-Hazards-program-content-navigation.jpg" alt="Settings icons" >}}
 
 Clicking the **list icon** will load the earthquake list. The list, by default, shows the most recent earthquakes. You will find items in the list bolded if the earthquakes are of magnitude 4.5 or greater and will appear with a catchy red background if they are significant based on a combination of magnitude, PAGER alert level and the number of “Did You Feel It?” (DYFI) responses.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/304-x-492-USGS-Earthquake-Hazards-program-Earthquakes-list.jpg" alt="304-x-492-USGS-Earthquake-Hazards-program-Earthquakes-list" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/304-x-492-USGS-Earthquake-Hazards-program-Earthquakes-list.jpg" alt="304-x-492-USGS-Earthquake-Hazards-program-Earthquakes-list" >}}
 
 Clicking the **map icon** will load a map with earthquakes plotted as circles and non-earthquakes plotted as diamonds. Selecting an earthquake marker on the map will highlight the marker on the map and in the list. It will also open a pop-up with basic information for that event. A button will appear for DYFI, ShakeMap, Pager, and a Tsunami Message if these products are available. You are able to zoom in, pan, select a marker for more information and also have the ability to switch between various map layers like street view, satellite map, U.S. faults and terrain.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/551-x-622-USGS-Earthquake-Hazards-program-Southern-Alaska.jpg" alt="551-x-622-USGS-Earthquake-Hazards-program-Southern-Alaska" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/551-x-622-USGS-Earthquake-Hazards-program-Southern-Alaska.jpg" alt="551-x-622-USGS-Earthquake-Hazards-program-Southern-Alaska" >}}
 
 Want to contribute to the research and analysis of earthquakes? Just click on the DYFI (Did You Feel It?) button and post your response if you felt the earthquake.
 

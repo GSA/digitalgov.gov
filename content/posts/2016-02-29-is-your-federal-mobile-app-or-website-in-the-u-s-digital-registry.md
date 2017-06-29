@@ -1,9 +1,8 @@
 ---
-url: /2016/02/29/is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry/
 date: 2016-02-29 11:10:07 -0400
 title: Is Your Federal Mobile App or Website in the U.S. Digital Registry?
 summary: |
-  We have received an amazing response to the U.S. Digital Registry, our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for &quot;Central Intelligence Agency&quot; on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's
+  We have received an amazing response to the U.S. Digital Registry, our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real
 authors:
   - jparcell
 categories:
@@ -23,7 +22,7 @@ tag:
 
 We have received an amazing response to the [U.S. Digital Registry](https://www.WHATEVER/services/u-s-digital-registry/), our new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for "Central Intelligence Agency" on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." >}}
 
 Federal digital managers have already added over 7,300 accounts and are continuously adding and updating social media and mobile app accounts in the registry. Outside of government, private and public sector organizations have been submitting feedback and offering praise. The Programmable Web said the registry is &#8220;[the single most important social media initiative](http://www.programmableweb.com/news/how-devs-benefit-new-u.s.-government-wide-digital-registry-api/how-to/2016/02/01?utm_content=bufferd570a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) across the U.S. federal government in the past four years” and highlighted five potential use cases.
 
@@ -39,7 +38,7 @@ With the Registry, agencies are well on their way to providing a new generation 
   * Supports cyber-security by deterring fake accounts that spread misinformation and steal personal data
   * Improves performance reporting, data analysis and accessibility of public services
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="A large blue and white check mark indicating verification is displayed on a mobile phone." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="A large blue and white check mark indicating verification is displayed on a mobile phone." >}}
 
 A mobile registration in the U.S. Digital Registry demonstrates an agency’s commitment to serving their customers’ needs anytime, anywhere and on any device. Currently, there are only 323 mobile registrations. We know there a number of agencies with [lost native apps and mobile websites](https://www.WHATEVER/2015/09/10/day-100-the-great-federal-mobile-product-hunt/) (including responsive) that need to be added.
 

@@ -1,8 +1,7 @@
 ---
-url: /2015/03/18/the-api-briefing-introduction-to-web-components/
 date: 2015-03-18 10:00:17 -0400
 title: 'The API Briefing: Introduction to Web Components'
-summary: ' Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the HTML5 set of tags. Developers can create a Web Component that'
+summary: ' Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the HTML5 set of tags. Developers can create a Web Component'
 authors:
   - bbrantley
 categories:
@@ -12,7 +11,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" >}}
 
 Instead of writing about a specific federal API this week, I want to talk about a new, evolving way of building Web interfaces and complete applications. Web Components allow developers to create their element that extends the <a href="http://en.wikipedia.org/wiki/HTML5" target="_blank">HTML5</a> set of tags. Developers can create a Web Component that is a button that performs a specific function, such as composing and sending an email. Alternatively, a Web Component can be a complete application that a developer can easily drop into a Web page or mobile app.
 

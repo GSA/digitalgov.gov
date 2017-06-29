@@ -1,19 +1,18 @@
 ---
-url: /2013/11/13/key-to-successful-prize-competitions-define-your-problem-statement/
 date: 2013-11-13 1:06:21 -0400
 title: 'Key to Successful Prize Competitions: Define Your Problem Statement'
-summary: 'In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue. To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare off'
+summary: 'In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue. To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare'
 authors:
   - tlowden
 categories:
   - Challenges
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - ChallengeGov
   - challenges and prize competitions
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
 
 To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare off potential entrants. So use all the data available or even collect new data to pinpoint the crux of the issue. Don&#8217;t run  a competition for the sake of doing it.  Competitions can be powerful tools to solve real problems facing your agency &#8212; if properly designed.
 

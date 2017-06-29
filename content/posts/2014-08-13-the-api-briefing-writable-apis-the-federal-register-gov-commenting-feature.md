@@ -1,5 +1,4 @@
 ---
-url: /2014/08/13/the-api-briefing-writable-apis-the-federal-register-gov-commenting-feature/
 date: 2014-08-13 11:46:28 -0400
 title: 'The API Briefing: Writable APIs – The Federal Register.gov Commenting Feature'
 summary: 'FederalRegister.gov just released a writable API that allows citizens to comment directly on proposed regulations. When a user is viewing a regulation on FederalRegister.gov, he or she can click on the &ldquo;Submit a Formal Comment&rdquo; button. A textbox appears, and the comment is recorded for that particular regulation.'
@@ -7,7 +6,7 @@ authors:
   - bbrantley
 categories:
   - API
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - API
   - Federal Register
@@ -16,7 +15,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 Up till now, all the APIs that have been written about in _The API Briefing_ were read-only APIs. That means that information is only one way: from the API to the user or app. These APIs do allow limited interactivity in that the database behind the API can be searched, but the existing data cannot be edited, or new data added to the database.
 

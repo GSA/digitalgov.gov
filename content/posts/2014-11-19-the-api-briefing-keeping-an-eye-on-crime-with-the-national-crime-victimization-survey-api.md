@@ -1,5 +1,4 @@
 ---
-url: /2014/11/19/the-api-briefing-keeping-an-eye-on-crime-with-the-national-crime-victimization-survey-api/
 date: 2014-11-19 11:05:42 -0400
 title: 'The API Briefing: Keeping an Eye on Crime with the National Crime Victimization Survey API'
 summary: 'Every year, the Bureau of Justice Statistics surveys nearly 80,000 households and over 143,000 individuals about crime victimization. What is unique about this survey is that both reported and unreported crimes data is collected. The survey has a well-documented API which offers data in the CSV, XML, and JSON formats. Let&rsquo;s examine the documentation to'
@@ -14,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-400-Crime-scene-no-fake-blood-splatter-Merydolla-iStock-Thinkstock-503890771.jpg" alt="Crime scene concept art: the word "crime" in white lettering and red, white, and blue police lights are displayed on asphalt" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-400-Crime-scene-no-fake-blood-splatter-Merydolla-iStock-Thinkstock-503890771.jpg" alt="Crime scene concept art: the word crime in white lettering and red, white, and blue police lights are displayed on asphalt" caption="" >}} 
 
 Every year, the <a href="http://www.bjs.gov/developer/ncvs/index.cfm" target="_blank">Bureau of Justice Statistics</a> surveys nearly 80,000 households and over 143,000 individuals about crime victimization. What is unique about this survey is that both reported and unreported crimes data is collected. The survey has a well-documented API which offers data in the <a href="http://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">CSV</a>, <a href="http://en.wikipedia.org/wiki/XML" target="_blank">XML</a>, and <a href="http://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a> formats. Let’s examine the documentation to determine how a developer could use the data in the app.
 

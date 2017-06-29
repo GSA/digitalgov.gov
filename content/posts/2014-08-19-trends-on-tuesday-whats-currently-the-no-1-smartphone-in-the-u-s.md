@@ -1,5 +1,4 @@
 ---
-url: /2014/08/19/trends-on-tuesday-whats-currently-the-no-1-smartphone-in-the-u-s/
 date: 2014-08-19 10:00:18 -0400
 title: 'Trends on Tuesday: What&#8217;s Currently the No. 1 Smartphone in the U.S.?'
 summary: Do you ever find yourself conducting unofficial smartphone research? Ever since my agency decided to develop a mobile app, I know I do. Luckily, new data from ComScore on the U.S. smartphone subscriber market share can help eliminate the guesswork. Here are a few of the key trends ComScore found in the U.S. smartphone industry
@@ -16,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
 
 Do you ever find yourself conducting unofficial smartphone research? Ever since my agency decided to develop a mobile app, I know I do. Luckily, <a title="new data from ComScore" href="http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-June-2014-US-Smartphone-Subscriber-Market-Share" target="_blank">new data from ComScore</a> on the U.S. smartphone subscriber market share can help eliminate the guesswork.
 

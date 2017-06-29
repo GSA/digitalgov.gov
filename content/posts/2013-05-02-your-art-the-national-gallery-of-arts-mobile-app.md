@@ -1,8 +1,7 @@
 ---
-url: /2013/05/02/your-art-the-national-gallery-of-arts-mobile-app/
 date: 2013-05-02 3:22:17 -0400
 title: 'Your Art, the National Gallery of Art&#8217;s Mobile App'
-summary: 'The National Gallery of Art has released a free mobile application about the treasures in the permanent collection. Your Art app, available for iOS, enriches the experience of on-site visitors and expands the Gallery&rsquo;s reach by bringing its masterpieces to art lovers across the globe. Some of this app&#8217;s features'
+summary: 'The National Gallery of Art has released a free mobile application about the treasures in the permanent collection. Your Art app, available for iOS, enriches the experience of on-site visitors and expands the Gallery&rsquo;s reach by bringing its masterpieces to art lovers across the globe. Some of this app&#8217;s'
 categories:
   - Mobile
 tag:
@@ -11,7 +10,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/your-art-picture2-278x400.jpg" alt="Your Art Screenshot" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/your-art-picture2.jpg)The [National Gallery of Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html) has released a free mobile application about the treasures in the permanent collection. [Your Art](http://apps.usa.gov/yourart.shtml) app, available for iOS, enriches the experience of on-site visitors and expands the Gallery’s reach by bringing its masterpieces to art lovers across the globe.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/your-art-picture2-278x400.jpg" alt="Your Art Screenshot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/your-art-picture2.jpg)The [National Gallery of Art](http://www.nga.gov/content/ngaweb/visit/tours-and-guides/mobile-app.html) has released a free mobile application about the treasures in the permanent collection. [Your Art](http://apps.usa.gov/yourart.shtml) app, available for iOS, enriches the experience of on-site visitors and expands the Gallery’s reach by bringing its masterpieces to art lovers across the globe.
 
 Some of this app&#8217;s features include:
 

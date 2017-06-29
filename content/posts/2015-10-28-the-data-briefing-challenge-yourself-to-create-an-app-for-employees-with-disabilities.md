@@ -1,5 +1,4 @@
 ---
-url: /2015/10/28/the-data-briefing-challenge-yourself-to-create-an-app-for-employees-with-disabilities/
 date: 2015-10-28 10:00:42 -0400
 title: 'The Data Briefing: Create an App for Employees with Disabilities'
 summary: Have you worked with an employee with a disability? Are you an employee with a disability? Then, you know the unique challenges of the average workplace that able-bodied colleagues may never experience. Workplace challenges could be overcome with accommodations such as larger computer monitor displays, wheelchair-accessible office furniture or a voice reader. In some cases,
@@ -26,7 +25,7 @@ tag:
   - United States Department of Transportation
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 
 
 Have you worked with an employee with a disability? Are you an employee with a disability? Then, you know the unique challenges of the average workplace that able-bodied colleagues may never experience. Workplace challenges could be overcome with accommodations such as larger computer monitor displays, wheelchair-accessible office furniture or a voice reader. In some cases, a mobile app is a solution to a workplace challenge.
 

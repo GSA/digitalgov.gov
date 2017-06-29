@@ -1,8 +1,7 @@
 ---
-url: /2015/10/08/white-house-kicks-off-challenge-gov-anniversary-with-wealth-of-new-prize-competitions/
 date: 2015-10-08 4:14:38 -0400
 title: White House Kicks Off Challenge.gov Anniversary with Wealth of New Prize Competitions
-summary: ' In a call to action issued Oct. 7, the White House announced several new programs challenging citizens to help federal agencies solve problems in areas ranging from space exploration to education. Hosted in conjunction with Georgetown University, the Case Foundation and the Joyce Foundation, the event featured'
+summary: ' In a call to action issued Oct. 7, the White House announced several new programs challenging citizens to help federal agencies solve problems in areas ranging from space exploration to education. Hosted in conjunction with Georgetown University, the Case Foundation and the Joyce Foundation, the event'
 authors:
   - eric-beidel
 categories:
@@ -26,7 +25,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Challenges-Prizes-5-year-audience.jpg" alt="Audience at Challenge.gov 5-year anniversary event" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Challenges-Prizes-5-year-audience.jpg" alt="Audience at Challenge.gov 5-year anniversary event" >}}
 
 In a [call to action](https://www.whitehouse.gov/blog/2015/10/06/celebrating-five-year-anniversary-challengegov-more-20-new-prizes) issued Oct. 7, the White House announced several new programs challenging citizens to help federal agencies solve problems in areas ranging from space exploration to education.
 
@@ -34,7 +33,7 @@ Hosted in conjunction with Georgetown University, the Case Foundation and the Jo
 
 Tom Kalil, deputy director for technology and innovation for White House Office of Science and Technology Policy (OSTP), used the forum to issue a challenge of his own to the invite-only crowd, which consisted of prize experts from government, industry and academia.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Tom-Kalil-Challenges-Prizes-5-year.jpg" alt="Tom Kalil, Deputy Director for Technology and Innovation for the White House's Office of Science and Technology Policy, and Senior Advisor for Science, Technology and Innovation for the National Economic Council." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Tom-Kalil-Challenges-Prizes-5-year.jpg" alt="Tom Kalil, Deputy Director for Technology and Innovation for the White House's Office of Science and Technology Policy, and Senior Advisor for Science, Technology and Innovation for the National Economic Council." >}}
 
 The country needs to use science, technology and innovation to tackle more societal issues such as educational challenges for low-income students and stagnant wages for workers with no college degree, Kalil said.
 

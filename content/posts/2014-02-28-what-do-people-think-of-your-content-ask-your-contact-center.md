@@ -1,8 +1,7 @@
 ---
-url: /2014/02/28/what-do-people-think-of-your-content-ask-your-contact-center/
 date: 2014-02-28 9:36:00 -0400
 title: What Do People Think of Your Content? Ask Your Contact Center!
-summary: 'All of us want to improve the content and information we provide to the public, but we&rsquo;re intimidated by where to start: Does our website provide clear content? Is the best information hidden on pages a few layers down? What should we tweet about this'
+summary: 'All of us want to improve the content and information we provide to the public, but we&rsquo;re intimidated by where to start: Does our website provide clear content? Is the best information hidden on pages a few layers down? What should we tweet about'
 authors:
   - tonya-beres
 categories:
@@ -17,7 +16,7 @@ tag:
   - government contact centers
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/womens-health-contact-center-image.jpg" alt="image of contact center agents speaking on headsets" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/womens-health-contact-center-image.jpg)All of us want to improve the content and information we provide to the public, but we’re intimidated by where to start:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/womens-health-contact-center-image.jpg" alt="image of contact center agents speaking on headsets" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/womens-health-contact-center-image.jpg)All of us want to improve the content and information we provide to the public, but we’re intimidated by where to start:
 
   * Does our website provide clear content?
   * Is the best information hidden on pages a few layers down?

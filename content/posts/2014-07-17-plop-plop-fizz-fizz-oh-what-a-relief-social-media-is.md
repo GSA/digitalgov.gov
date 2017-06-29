@@ -1,5 +1,4 @@
 ---
-url: /2014/07/17/plop-plop-fizz-fizz-oh-what-a-relief-social-media-is/
 date: 2014-07-17 1:00:36 -0400
 title: Plop Plop, Fizz Fizz, Oh What a Relief Social Media Is!
 summary: 'We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses. It&rsquo;s a familiar story: A nice meal out results in days of gastrointestinal discomfort when you realize only too'
@@ -14,11 +13,11 @@ tag:
   - U.S. Government Accountability Office
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 
 
 We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses.
 
-It’s a familiar story: A nice meal out results in days of gastrointestinal discomfort when you realize only too late that the clams were a mistake. You may post to your facebook page and tag where you were, but chances are you never even send a {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/26-x-26-500-percent-green-vomit-sick-emoji.jpg" alt="a sick, green emoji that vomits" %} to your local public health department. Without that information, it’s hard to track the source and prevent problems from spreading.
+It’s a familiar story: A nice meal out results in days of gastrointestinal discomfort when you realize only too late that the clams were a mistake. You may post to your facebook page and tag where you were, but chances are you never even send a {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/26-x-26-500-percent-green-vomit-sick-emoji.jpg" alt="a sick, green emoji that vomits" >}} to your local public health department. Without that information, it’s hard to track the source and prevent problems from spreading.
 
 Social media to the rescue! According to recent articles ([JAMA](http://jama.jamanetwork.com/article.aspx?articleid=1885471), [WaPo](http://www.washingtonpost.com/news/to-your-health/wp/2014/05/22/how-new-york-used-yelp-to-find-unreported-cases-of-food-poisoning/), [NYTs](http://www.nytimes.com/2014/05/23/dining/reviews-on-yelp-help-track-illness.html?_r=0), [ABC](http://abcnews.go.com/blogs/health/2014/05/22/how-yelp-can-help-track-food-poisoning/), and others) two public health departments are now mining people’s online posts to help identify outbreaks.
 

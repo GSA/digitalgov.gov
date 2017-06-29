@@ -1,5 +1,4 @@
 ---
-url: /2014/11/25/trends-on-tuesday-what-are-you-asking-your-phone/
 date: 2014-11-25 10:00:33 -0400
 title: 'Trends on Tuesday: What Are You Asking Your Phone?'
 summary: 'What&rsquo;s the weather like? When does the next movie start? What time does Target close? These are just a few questions that I may ask my phone on any given day. According to a recent Mobile Voice Study led by Google, I&#8217;m not the only having conversations with my phone. 55% of teens aged 13-18 use voice'
@@ -15,11 +14,11 @@ tag:
   - U.S. Department of the Interior
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Man-looking-at-cell-phone-Ron-Chapple-Stock-Ron-Chapple-Studios-Thinkstock-126472230.jpg" alt="Man looking at cell phone" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Man-looking-at-cell-phone-Ron-Chapple-Stock-Ron-Chapple-Studios-Thinkstock-126472230.jpg" alt="Man looking at cell phone" caption="" >}} 
 
 What’s the weather like? When does the next movie start? What time does Target close?
 
-These are just a few questions that I may ask my phone on any given day. According to a recent [Mobile Voice Study](http://www.mobilemarketer.com/cms/news/search/18923.html) led by Google, I&#8217;m not the only having conversations _with_ my phone. 55% of teens aged 13-18 use voice search every day, while 56% of adults said using voice search makes them feel tech-savvy. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Woman-looking-at-a-mobile-phone-and-smiling-Purestock-Thinkstock-94788531.jpg" alt="Woman looking at a mobile phone and smiling" %} 
+These are just a few questions that I may ask my phone on any given day. According to a recent [Mobile Voice Study](http://www.mobilemarketer.com/cms/news/search/18923.html) led by Google, I&#8217;m not the only having conversations _with_ my phone. 55% of teens aged 13-18 use voice search every day, while 56% of adults said using voice search makes them feel tech-savvy. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/250-x-167-Woman-looking-at-a-mobile-phone-and-smiling-Purestock-Thinkstock-94788531.jpg" alt="Woman looking at a mobile phone and smiling" caption="" >}} 
 
 The study examined the smartphone habits of 1,400 Americans, age 13 and older, revealing that among voice search users:
 

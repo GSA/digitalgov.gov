@@ -1,5 +1,4 @@
 ---
-url: /2016/12/05/in-a-marketing-minute-connecting-teams-promotions-and-ideas/
 date: 2016-12-05 10:00:57 -0400
 title: 'In a Marketing Minute: Connecting Teams, Promotions, and Ideas'
 summary: 'Every first week of every month, USAGov&rsquo;s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It&rsquo;s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act'
@@ -9,7 +8,7 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - content
   - content strategy
@@ -21,7 +20,7 @@ tag:
 
 Every first week of every month, USAGov’s marketing team sends an office-wide email newsletter to give an update on past and current marketing efforts and campaigns. It’s how we try to help keep the rest of the office in the know. The monthly newsletter can spur a content idea, a future marketing endeavor, and act as a reminder of what’s coming up that month that contributors need to be aware of. It also gives a heads up to our Analytics Team about what promotions could be the causes of increased website visits, email, and social media traffic.
 
-{% img="https://www.WHATEVER/files/2017/03/600-x-210-USAgov-In-a-Marketing-Minute-graphic.jpg" alt=""In a Marketing Minute" graphic." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-210-USAgov-In-a-Marketing-Minute-graphic.jpg" alt="In a Marketing Minute graphic." >}}
 
 In addition to sharing upcoming campaigns, we also highlight the top three best performing email and social media messages across our accounts. It’s a great way to showcase the work being done, but also denote what topics and messages are really resonating with our audiences.
 

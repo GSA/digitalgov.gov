@@ -1,5 +1,4 @@
 ---
-url: /2016/05/06/storytelling-in-a-digital-world/
 date: 2016-05-06 10:00:58 -0400
 title: Storytelling in a Digital World
 summary: 'The art of storytelling has been around since the dawn of mankind. Storytelling remains relevant today, and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. Over the past year, Chris Reed, an environmental protection specialist in EPA&rsquo;s'
@@ -14,10 +13,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-The art of storytelling has been around since the dawn of mankind. [Storytelling remains relevant today](https://www.WHATEVER/2015/06/29/the-content-corner-telling-your-story/), and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies.
-
-
-<img class="size-full wp-image-353342" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt="" width="600" height="350" /> 
+The art of storytelling has been around since the dawn of mankind. [Storytelling remains relevant today](https://www.WHATEVER/2015/06/29/the-content-corner-telling-your-story/), and a recent effort by the Environmental Protection Agency (EPA) shows how agencies can use storytelling to showcase great projects while also teaching employees new communication strategies. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-350-Newspaper-Rock-State-Historic-Park-Utah-johnaudrey-iStock-Thinkstock-145244872.jpg" alt=" width=" >}} 
 
 Over the past year, Chris Reed, an environmental protection specialist in EPA’s Office of Policy, led a nationwide team that produced a set of 30 [videos that highlight sustainability initiatives](https://www.epa.gov/sustainability/sustainability-action-video-series) within the agency. Instead of traditional EPA reports and PowerPoint presentations, Reed inspired the office to look at storytelling to make successful employee efforts come alive.
 
@@ -31,7 +27,7 @@ One of the Office of Policy’s focus areas is promoting sustainability at EPA. 
 
 In early 2015, the office brought in [Story District](http://storydistrict.org/) to train a small group of D.C.-based employees on storytelling techniques. Participants learned the art of delivering a compelling story in three minutes. After the training, Reed and his Policy team recognized an opportunity to get others involved.
 
-EPA employees from across the country were invited to submit ideas for short videos that would highlight a successful sustainability project at EPA. The 12 employees whose ideas were selected gathered in D.C. and went through a Story District training and private coaching. The culminating event was a live, TED Talk-style event where employees told their stories in front of a live audience. The storytelling event was cut into short films that were included as part of the video series. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Room-with-futuristic-picture-of-hourglass-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482236803.jpg" alt="Room with futuristic picture of hourglass on a large screen." %} 
+EPA employees from across the country were invited to submit ideas for short videos that would highlight a successful sustainability project at EPA. The 12 employees whose ideas were selected gathered in D.C. and went through a Story District training and private coaching. The culminating event was a live, TED Talk-style event where employees told their stories in front of a live audience. The storytelling event was cut into short films that were included as part of the video series. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Room-with-futuristic-picture-of-hourglass-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482236803.jpg" alt="Room with futuristic picture of hourglass on a large screen." caption="" >}} 
 
 The storytelling training was well received by the participants, who represented every regional office of EPA, said Reed.
 

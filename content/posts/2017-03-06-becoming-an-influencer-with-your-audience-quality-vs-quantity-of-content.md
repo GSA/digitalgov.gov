@@ -1,5 +1,4 @@
 ---
-url: /2017/03/06/becoming-an-influencer-with-your-audience-quality-vs-quantity-of-content/
 date: 2017-03-06 2:30:52 -0400
 title: 'Becoming an Influencer with Your Audience: Quality vs. Quantity of Content'
 summary: 'Regardless of the platform, industry or niche, you became a social media influencer in one of two ways: adopting early or promoting great content. Early adopters are willing to gamble on a new platform, try an untested strategy or set precedent for other users. The risk is in the understanding that they could fail publicly.'
@@ -16,7 +15,7 @@ tag:
 
 Regardless of the platform, industry or niche, you became a social media influencer in one of two ways: adopting early or promoting great content.
 
-Early adopters are willing to gamble on a new platform, try an untested strategy or set precedent for other users. The risk is in the understanding that they could fail publicly. The rewards, though, are equally large: the ability to amass a large and active following, build relationships with other key influencers, and succeed in a space that is equally forgiving of a short-term failure. {% img="https://www.WHATEVER/files/2017/03/600-x-450-Social-network-and-media-concept-Switch-knob-with-icons-Bet_Noire-iStock-Thinkstock-627202608.jpg" alt="Social network and media concept illustration of a switch knob with icons" %} 
+Early adopters are willing to gamble on a new platform, try an untested strategy or set precedent for other users. The risk is in the understanding that they could fail publicly. The rewards, though, are equally large: the ability to amass a large and active following, build relationships with other key influencers, and succeed in a space that is equally forgiving of a short-term failure. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-450-Social-network-and-media-concept-Switch-knob-with-icons-Bet_Noire-iStock-Thinkstock-627202608.jpg" alt="Social network and media concept illustration of a switch knob with icons" caption="" >}} 
 
 But early adopters also benefit from a little bit of luck. The platform they chose is a viral hit, the audience matches the audience they intended. Compare [MySpace to Facebook](http://www.digitaltrends.com/social-media/former-myspace-ceo-reveals-what-facebook-did-right-to-dominate-social-media/). Both platforms targeted the same audience, both were at the forefront of social networking, and both showed tremendous growth potential between 2006 and 2009. In Facebook’s case, popularity among college campuses and strategic promotion led it to break out of a niche market and into much greater popularity.
 

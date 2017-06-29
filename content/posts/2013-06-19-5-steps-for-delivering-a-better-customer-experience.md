@@ -1,8 +1,7 @@
 ---
-url: /2013/06/19/5-steps-for-delivering-a-better-customer-experience/
 date: 2013-06-19 8:50:08 -0400
 title: 5 Steps for Delivering a Better Customer Experience
-summary: 'Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model image"'
+summary: 'Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model'
 authors:
   - martha-dorris
 categories:
@@ -15,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr">
-  Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model image" %}</a>
+  Everyone wants to know how to provide outstanding customer experience in government. It can be difficult, because everyday our customers are also doing business with companies like Starbucks, Zappos, and Virgin America, that excel in customer service. Those experiences drive high expectations for interacting with any organization, including government agencies.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/customer-experience-model-image-250x171.jpg" alt="customer experience model image" >}}</a>
 </p>
 
 Customer experience&#8211;referred to in the industry as &#8220;CX&#8221;&#8211;is more than just a product.  It’s about the perception your customer has every time they interact with your office, your agency or any product within your organization.  Each time they interact with your website, contact your call center or any other channel, the perception of and trust they have in your organization and agency is impacted.

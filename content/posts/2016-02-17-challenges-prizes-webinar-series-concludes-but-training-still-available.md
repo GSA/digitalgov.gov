@@ -1,5 +1,4 @@
 ---
-url: /2016/02/17/challenges-prizes-webinar-series-concludes-but-training-still-available/
 date: 2016-02-17 11:10:20 -0400
 title: 'Challenges & Prizes Webinar Series Concludes, but Training Still Available'
 summary: 'It began with a history lesson and ended with an eye to the future. In between, the Expert Training Series: How to Design & Operate Prizes to Maximize Success covered nearly every aspect of what it takes to run successful incentivized competitions. Challenge.gov and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers'
@@ -25,7 +24,7 @@ It began with a history lesson and ended with an eye to the future.
 
 In between, the **Expert Training Series: How to Design & Operate Prizes to Maximize Success** covered nearly every aspect of what it takes to run successful incentivized competitions.
 
-[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" %} 
+[Challenge.gov](https://www.challenge.gov/list/) and DigitalGov University partnered with XPRIZE Foundation to bring together expert speakers from across the federal government and industry for seven webinars that began last summer and ran through January. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}} 
 
 Below, we’ve provided a quick snapshot of what they said, as well as an index of the full webinars for your review.
 

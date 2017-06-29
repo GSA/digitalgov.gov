@@ -1,5 +1,4 @@
 ---
-url: /2016/06/09/welcome-to-the-new-dhs-gov/
 date: 2016-06-09 2:00:26 -0400
 title: Welcome to the New DHS.gov
 summary: 'Today, I am happy to announce the newly optimized DHS.gov website. Over the past year, DHS has worked behind the scenes to update and modernize our flagship website, making it faster and easier to use. Some of the specific differences you&rsquo;ll see are: Compatibility for both desktop computers and mobile devices (phones and tablets) Cleaner,'
@@ -11,7 +10,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - "508"
@@ -34,7 +33,7 @@ Today, I am happy to announce the newly optimized DHS.gov website. Over the past
   * Cleaner, easier-to-read site format and presentation
   * Faster and more accurate site navigation using our internal search function and external search engines (like Google and Bing)
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." >}}
 
 ## DHS.gov for Mobile
 

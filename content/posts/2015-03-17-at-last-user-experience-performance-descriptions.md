@@ -1,13 +1,12 @@
 ---
-url: /2015/03/17/at-last-user-experience-performance-descriptions/
 date: 2015-03-17 11:10:03 -0400
 title: 'At Last: User Experience Performance Descriptions!'
-summary: ' To improve your digital systems with user experience (UX), you need people. And to get people in government, you need position descriptions. While DigitalGov has collected a wide variety of position descriptions, I'
+summary: ' To improve your digital systems with user experience (UX), you need people. And to get people in government, you need position descriptions. While DigitalGov has collected a wide variety of position descriptions,'
 authors:
   - jonathan-rubin
 categories:
   - Design
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - usability
@@ -15,7 +14,7 @@ tag:
   - UX
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/502-x-478-UX-RolesV2.jpg" alt="A Venn diagram based on Dan Saffer’s “Disciplines of User Experience, 2009,” shows the overlapping disciplines in User Experience." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/502-x-478-UX-RolesV2.jpg" alt="A Venn diagram based on Dan Saffer’s “Disciplines of User Experience, 2009,” shows the overlapping disciplines in User Experience." >}}
 
 To improve your digital systems with user experience (UX), you need people. And to get people in government, you need position descriptions. While DigitalGov has collected a [wide variety of position descriptions](https://www.WHATEVER/resources/sample-position-descriptions-for-digital-government-jobs/), I thought I would create a post specifically on UX positions, and explain the difference between these jobs. Yes, there is overlap. But this is still an excellent place to get started.
 

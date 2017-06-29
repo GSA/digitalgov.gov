@@ -1,8 +1,7 @@
 ---
-url: /2014/08/18/the-minimum-viable-building-blocks-for-a-federal-government-api-hub/
 date: 2014-08-18 1:00:50 -0400
 title: The Minimum Viable Building Blocks For a Federal Government API Hub
-summary: 'My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I&rsquo;ve also spent time looking at 77 federal government API developer portals and 190 APIs, and after'
+summary: 'My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I&rsquo;ve also spent time looking at 77 federal government API developer portals and 190 APIs, and'
 authors:
   - kin-lane
 categories:
@@ -13,7 +12,7 @@ tag:
   - developer hub
 ---
 
-<span style="color: #222222;">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-249-Kin-Lane-bw-portal-developers.jpg" alt="250-x-249-Kin-Lane-bw-portal-developers" %}My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I’ve also spent time looking at 77 federal government API developer portals and 190 APIs, and after all this review of some successful, and some not so successful APIs, you start to get an idea for what the minimum viable building blocks for an API hub in federal government should be. </span> First let’s talk about what is a developer portal or hub, because in the API space you can take two different paths when deploying your API hubs:
+<span style="color: #222222;">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-249-Kin-Lane-bw-portal-developers.jpg" alt="250-x-249-Kin-Lane-bw-portal-developers" >}}My name is Kin Lane, I am the API Evangelist, and a round two Presidential Innovation Fellow. I spend each day looking through the developer portals and hubs for API across the private sector. Recently I’ve also spent time looking at 77 federal government API developer portals and 190 APIs, and after all this review of some successful, and some not so successful APIs, you start to get an idea for what the minimum viable building blocks for an API hub in federal government should be. </span> First let’s talk about what is a developer portal or hub, because in the API space you can take two different paths when deploying your API hubs:
 
   * **Central Agency Developer Hub—**A single place to find all of an agency&#8217;s APIs, open data and developer resources, usually located at developer.example.gov, or within a specific folder at example.gov/developer.
   * **API Specific Developer Hub—**A single developer hub to support a specific API initiative underneath a wider organizational umbrella, which may or may not be registered and listed as part of a central agency developer hub.

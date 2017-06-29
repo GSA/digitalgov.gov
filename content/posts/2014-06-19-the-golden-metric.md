@@ -1,8 +1,7 @@
 ---
-url: /2014/06/19/the-golden-metric/
 date: 2014-06-19 12:15:33 -0400
 title: The Golden Metric
-summary: 'Are you looking for the &ldquo;golden metric&#8221; that is the best measure of your agency&rsquo;s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth hidden'
+summary: 'Are you looking for the &ldquo;golden metric&#8221; that is the best measure of your agency&rsquo;s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth'
 authors:
   - marina-fox
 categories:
@@ -17,7 +16,7 @@ tag:
   - USAgov
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-300-iceberg-clevenger-small.jpg" alt="Photo of an iceberg" %}Are you looking for the “golden metric&#8221; that is the best measure of your agency’s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth hidden behind other, more relevant metrics.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-300-iceberg-clevenger-small.jpg" alt="Photo of an iceberg" >}}Are you looking for the “golden metric&#8221; that is the best measure of your agency’s website performance and cross-comparable across .gov websites? If so, stop looking. The concept of the golden metric is a dangerous one because it oversimplifies performance analysis of your website and overlooks the truth hidden behind other, more relevant metrics.
 
 Don’t get me wrong—it is easy to fall for the concept of the golden metric. Everyone wants to see more visits and pageviews on their agency websites. It’s quite common to hear management ask for a chart with “Total Visits” or “Total Pageviews” as if it is the key indicator of the website’s success. Naturally, a growing, positive trend of total visits and pageviews tells a great story and makes everyone happy. On the flip side, when total visits and pageviews numbers are declining, the perception is that of a “bad website” leading to potentially premature conclusions.
 

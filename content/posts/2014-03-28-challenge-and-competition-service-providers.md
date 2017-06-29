@@ -1,8 +1,7 @@
 ---
-url: /2014/03/28/challenge-and-competition-service-providers/
 date: 2014-03-28 10:00:20 -0400
 title: Challenge and Competition Service Providers
-summary: 'I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan challenge and prize competitions with your colleagues. In 2010, GSA was asked to build Challenge.gov and set up a schedule (a list of'
+summary: 'I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan challenge and prize competitions with your colleagues. In 2010, GSA was asked to build Challenge.gov and set up a schedule (a list'
 authors:
   - ktrebon
 categories:
@@ -11,7 +10,7 @@ tag:
   - ChallengeGov
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg" alt="Questions and Answers signpost" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg)I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan [challenge and prize competitions](https://www.WHATEVER/2013/11/01/federal-government-challenges-and-contests/ "Link to What is a Challenge on DigitalGov.gov") with your colleagues.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg" alt="Questions and Answers signpost" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-questions-a-consultant-can-help-you-answer.jpg)I&#8217;m sure many of you have heard the expression &#8220;there&#8217;s an app for that.&#8221; Well, now you can say &#8220;there&#8217;s a schedule for that&#8221; as you plan [challenge and prize competitions](https://www.WHATEVER/2013/11/01/federal-government-challenges-and-contests/ "Link to What is a Challenge on DigitalGov.gov") with your colleagues.
 
 In 2010, GSA was asked to build [Challenge.gov](https://challenge.gov/ "link to Challenge.gov") and set up a schedule (a list of pre-negotiated contracts) that can help federal agencies run [effective challenge and prize competitions](https://www.WHATEVER/category/challenges/ "Link to Challenge content on DigitalGov.gov").
 

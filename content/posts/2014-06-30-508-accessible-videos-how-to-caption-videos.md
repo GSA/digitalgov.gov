@@ -1,12 +1,11 @@
 ---
-url: /2014/06/30/508-accessible-videos-how-to-caption-videos/
 date: 2014-06-30 10:00:22 -0400
 title: '508 Accessible Videos &#8211; How to Caption Videos'
-summary: ' What are Captions? In a video, captions collect all audio information and describe them using text. They include not only spoken content but also non-speech information such as sound effects, music, laughter, and speaker identification and location (for example, audio spoken off-screen). Captions appear transposed over the visual elements in a'
+summary: ' What are Captions? In a video, captions collect all audio information and describe them using text. They include not only spoken content but also non-speech information such as sound effects, music, laughter, and speaker identification and location (for example, audio spoken off-screen). Captions appear transposed over the visual elements in'
 authors:
-  - jonathan-rubin
   - ryan-leisinger
   - gary-morin
+  - jonathan-rubin
 categories:
   - Accessibility
   - Video
@@ -15,7 +14,7 @@ tag:
   - YouTube
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA.jpg" alt="505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA.jpg" alt="505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA" >}}
 
 **What are Captions?**
 
@@ -46,7 +45,7 @@ Creating captions requires five steps:
 
   * **Option 1**: Auto-transcription (like on YouTube)—If your video player supports captions (like YouTube), open your video and go to &#8220;Add Captions.&#8221; Click on the transcript file, and then upload your captions.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/328-x-232-Resource-Accessible-Videos-How-to-Caption-Videos-Add-Auto-transcription.jpg" alt="328-x-232-Resource-Accessible-Videos-How-to-Caption-Videos-Add-Auto-transcription" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/328-x-232-Resource-Accessible-Videos-How-to-Caption-Videos-Add-Auto-transcription.jpg" alt="328-x-232-Resource-Accessible-Videos-How-to-Caption-Videos-Add-Auto-transcription" >}}
 
   * **Option 2**: Manual transcription—Using your caption editor, insert your script into the editor, a few words at a time, so your words appear on screen at the same time as the spoken words.
 
@@ -64,13 +63,13 @@ Creating captions requires five steps:
 
 **1: Text Too Small**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/655-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/655-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-incorrect-caption.jpg)
 
 The image above shows a video on a media player that supports captions. The captions are too small to be readable. There is no standard size for captions—they vary based on the size of your video player window. But, make them at least 9 point text: If you must squint to read your captions, the font size is too small.
 
 **Incorrect Caption 2: Text Illegible**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Illegible-grey-Text-caption.jpg)
 
 In this image, the captions are larger, but they are grey, which is difficult to read on a dark background. It&#8217;s also hard to read white captions on a white background, or black captions on a black background.
 
@@ -78,7 +77,7 @@ Instead, use high-contrast color combinations, such as black letters on a solid 
 
 **Correct Caption: Proper Size and Readable**
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg)
 
 This image has captions that are at least 9 point, and the text color is readable on the background behind it, so reading them is much easier. For more information about captions in a specific player, see [Use a 508-Compliant and Accessible Video Player](https://www.WHATEVER/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/ "508 Accessible Videos – Use a 508-Compliant Video Player").
 

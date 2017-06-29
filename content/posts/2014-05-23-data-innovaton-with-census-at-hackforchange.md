@@ -1,8 +1,7 @@
 ---
-url: /2014/05/23/data-innovaton-with-census-at-hackforchange/
 date: 2014-05-23 12:00:33 -0400
 title: 'Data Innovaton with Census at #HackForChange'
-summary: Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved. Two years ago, the Census Bureau launched its application programming interface (API), giving developers access to a variety of high value data sets,
+summary: Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved. Two years ago, the Census Bureau launched its application programming interface (API), giving developers access to a variety of high value data
 authors:
   - logan-powell
 categories:
@@ -29,7 +28,7 @@ tag:
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-348-census-bureau-hack-for-change-National-Day-of-Civic-Hacking-2014.jpg" alt="census bureau, hack for change" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-348-census-bureau-hack-for-change-National-Day-of-Civic-Hacking-2014.jpg" alt="census bureau, hack for change" >}}
 
 Two years ago, the Census Bureau launched its [application programming interface (API)](http://www.census.gov/developers/), giving developers access to a variety of high value data sets, including our flagship 2010 Census and American Community Survey five-year estimates.
 

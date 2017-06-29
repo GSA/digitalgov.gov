@@ -1,5 +1,4 @@
 ---
-url: /2015/05/20/the-api-briefing-five-federal-apis-for-building-a-government-jobs-finder-mobile-app/
 date: 2015-05-20 10:00:43 -0400
 title: 'The API Briefing: Five Federal APIs for Building a Government Jobs Finder Mobile App'
 summary: 'The spring semesters are winding down at the universities where I teach. Many students are looking for summer internships or their first job after graduation. Of course, I talk about the opportunities in government through the Pathways program, the Presidential Management Fellows, or the various agency-specific internship programs. I&rsquo;ve demonstrated USAJOBS in my classes, but'
@@ -14,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}} 
 
 The spring semesters are winding down at the universities where I teach. Many students are looking for summer internships or their first job after graduation. Of course, I talk about the opportunities in government through the Pathways program, the Presidential Management Fellows, or the various agency-specific internship programs. I’ve demonstrated USAJOBS in my classes, but I often wondered how to improve the experience for job seekers, especially for job seekers who prefer to use mobile apps. The following are five APIs that I would join to build a government jobs finder mobile app.
 

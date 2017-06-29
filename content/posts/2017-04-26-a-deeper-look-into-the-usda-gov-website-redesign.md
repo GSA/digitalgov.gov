@@ -1,5 +1,4 @@
 ---
-url: /2017/04/26/a-deeper-look-into-the-usda-gov-website-redesign/
 date: 2017-04-26 11:00:11 -0400
 title: A Deeper Look into the USDA.gov Website Redesign
 summary: 'We hope you are finding it easier to get the information you need on USDA.gov following the launch of our site redesign in March. We&rsquo;ve already welcomed over 1 million visitors to the new site and we are pleased with the positive feedback we&rsquo;ve received thus far. Our redesign makes it easier for you to'
@@ -10,7 +9,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - accessibility
   - architecture
@@ -25,7 +24,7 @@ We hope you are finding it easier to get the information you need on USDA.gov fo
 
 Our redesign makes it easier for you to get the news you care about quickly and get on with your busy life. Now, you can explore “USDA in Action,” an area designed to quickly share what’s happening across the department. And another friendly feature is being able to [sign up for email updates](https://public.govdelivery.com/accounts/USDAOC/subscriber/new) with the click of a button from any page on the site. It’s all part of our strategic efforts to improve upon digital communications across USDA, strengthen collaboration with all of our USDA agencies, and expand our digital capabilities.
 
-{% img="https://www.WHATEVER/files/2017/04/600-x-425-usdagov-site-blog-042017_0.jpg" alt="Find the information you need, faster, with the redesigned USDA.gov website." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/04/600-x-425-usdagov-site-blog-042017_0.jpg" alt="Find the information you need, faster, with the redesigned USDA.gov website." >}}
 
 Through our redesign, we were able to introduce new design elements from the [U.S. Web Design Standards](https://standards.usa.gov/) that help to make the site more intuitive. Our primary goals for the redesign included highlighting more social and engaging information and placing it right at your fingertips; making better use of real estate on our homepage; enhancing our site search to help you get to information faster; improving the site’s information architecture; and implementing responsive design across the entire site to provide a better viewing experience from any device.
 

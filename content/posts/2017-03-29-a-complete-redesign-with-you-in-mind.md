@@ -1,5 +1,4 @@
 ---
-url: /2017/03/29/a-complete-redesign-with-you-in-mind/
 date: 2017-03-29 1:00:36 -0400
 title: A Complete Redesign with You in Mind
 summary: 'We&#8217;re excited to launch a complete redesign of USDA.gov featuring stronger visual storytelling components, a more modern user-experience with easy to find services and resources, and to top it off, a completely mobile-friendly design. Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&#8217;ve taken the best of government and industry'
@@ -9,7 +8,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - CMS
   - Content Management System
@@ -27,7 +26,7 @@ We&#8217;re excited to launch a complete redesign of [USDA.gov](https://www.usda
 
 Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&#8217;ve taken the best of government and industry expertise and put it into creating our new website.
 
-{% img="https://www.WHATEVER/files/2017/03/600-x-450-USDA-A-Complete-Redesign-with-You-in-Mind.jpg" alt="Screenshot of the new USDA.gov website." %}
+{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-450-USDA-A-Complete-Redesign-with-You-in-Mind.jpg" alt="Screenshot of the new USDA.gov website." >}}
 
 This has been a year-long project, but to do this right, we wanted to make sure we tapped into every possible resource. Throughout the year, we conducted workshops to help define our audiences and develop a new way of organizing the information that matters most to you. We looked at every piece of content and took a ground-up approach to how we manage and deliver that information online, conducting user-testing to refine our strategies, and working with industry experts to bring those plans to reality.
 

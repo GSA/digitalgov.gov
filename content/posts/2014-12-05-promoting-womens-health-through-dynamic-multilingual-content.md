@@ -1,8 +1,7 @@
 ---
-url: /2014/12/05/promoting-womens-health-through-dynamic-multilingual-content/
 date: 2014-12-05 10:00:45 -0400
 title: Promoting Women’s Health Through Dynamic Multilingual Content
-summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions. The four part
+summary: Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions. The four
 authors:
   - awichman
 categories:
@@ -16,7 +15,7 @@ tag:
   - social media
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Lourdes and Sonia, at the pharmacy." %}Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Lourdes and Sonia, at the pharmacy." >}}Sonia stands at the pharmacy counter, flashing her most brilliant smile. Jorge, the handsome neighborhood pharmacist, dispenses his own easy smile as they chat. Sound like an ordinary soap opera? This telenovela is actually a tool to help Spanish-speaking women make smart medication decisions.
 
 The four part telenovela series [¡Nunca Más!](http://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm269846.htm) was developed by the Office of Women’s Health in the Food and Drug Administration. The office works to make all of their materials available in Spanish, and the popularity of telenovelas in the Spanish-speaking community made the project a perfect fit for delivering important health information.
 

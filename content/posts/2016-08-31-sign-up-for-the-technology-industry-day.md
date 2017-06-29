@@ -1,5 +1,4 @@
 ---
-url: /2016/08/31/sign-up-for-the-technology-industry-day/
 date: 2016-08-31 1:00:45 -0400
 title: Sign up for the Technology Industry Day
 summary: 'The General Services Administration (GSA) is known for managing federal real estate and leveraging the government&rsquo;s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The Technology Transformation Service (TTS) builds, buys and shares tech to help federal agencies achieve their mission.'
@@ -9,7 +8,7 @@ categories:
   - Code
   - Data
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - 18F
   - agile
@@ -29,7 +28,7 @@ tag:
   - innovation
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products and Programs'
+  - 'Office of Products &amp; Programs'
   - OPP
   - summit
   - Technology Industry Day
@@ -40,7 +39,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-The [General Services Administration](http://www.gsa.gov/) (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) builds, buys and shares tech to help federal agencies achieve their mission. They create better services for citizens everyday. TTS works closely with the [Federal Acquisition Service](http://www.gsa.gov/portal/content/105080) (FAS) and the GSA CIO to be first movers in and apply agile technology in a meaningful way. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" %} 
+The [General Services Administration](http://www.gsa.gov/) (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) builds, buys and shares tech to help federal agencies achieve their mission. They create better services for citizens everyday. TTS works closely with the [Federal Acquisition Service](http://www.gsa.gov/portal/content/105080) (FAS) and the GSA CIO to be first movers in and apply agile technology in a meaningful way. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-410-Globe-network-connection-on-city-skyscraper-background-Mirexon-iStock-Thinkstock-486689738.jpg" alt="Globe network connection on city skyscraper background" caption="" >}} 
 
 On September 8, GSA is hosting its very first Technology Industry Day. [Sign up](http://www.eventbrite.com/e/gsa-technology-industry-day-registration-27199447279) to hear about how GSA is transforming technology in the federal government, see demos of products and solutions developed by technologists and, last but not least, provide feedback on how we can work better with industry. Registration will close on September 6. Below are a few projects we will feature:
 

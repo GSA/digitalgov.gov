@@ -1,8 +1,7 @@
 ---
-url: /2014/03/27/gsa-introduces-news-genius-to-decode-government-web/
 date: 2014-03-27 8:00:20 -0400
 title: GSA Introduces News Genius to Decode Government Web
-summary: ' The federal government can now unlock the collaborative &ldquo;genius&rdquo; of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and Small'
+summary: ' The federal government can now unlock the collaborative &ldquo;genius&rdquo; of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and'
 authors:
   - jherman
 categories:
@@ -17,7 +16,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center;">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" %}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" >}}</a>
 </p>
 
 <p dir="ltr">

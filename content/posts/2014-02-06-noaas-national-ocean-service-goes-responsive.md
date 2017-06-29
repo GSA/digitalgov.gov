@@ -1,8 +1,7 @@
 ---
-url: /2014/02/06/noaas-national-ocean-service-goes-responsive/
 date: 2014-02-06 10:20:36 -0400
 title: 'NOAA&#8217;s National Ocean Service Goes Responsive'
-summary: ' Let&#8217;s ponder this for a moment: Maybe you live in South Florida.'
+summary: ' Let&#8217;s ponder this for a moment: Maybe you live in South'
 categories:
   - Mobile
 tag:
@@ -14,7 +13,7 @@ tag:
   - user experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)
 
 Let&#8217;s ponder this for a moment: Maybe you live in South Florida. Maybe the weather is warm, beautiful, sunny. Maybe you&#8217;re looking forward to a few days of boating while the rest of the country battles ice storms, snow drifts and various states of emergency. (We can dream, can&#8217;t we?)
 

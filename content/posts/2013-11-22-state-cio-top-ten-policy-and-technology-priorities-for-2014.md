@@ -1,8 +1,7 @@
 ---
-url: /2013/11/22/state-cio-top-ten-policy-and-technology-priorities-for-2014/
 date: 2013-11-22 11:36:14 -0400
 title: State CIO Top Ten Policy and Technology Priorities for 2014
-summary: Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are available
+summary: Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are
 authors:
   - lnelson
 categories:
@@ -11,7 +10,7 @@ tag:
   - security
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/nascio-Logo.jpg" alt="Logo for NASCIO" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/nascio-Logo.jpg)Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are available for download at [www.nascio.org/publications/](http://www.nascio.org/publications/)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/nascio-Logo.jpg" alt="Logo for NASCIO" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/nascio-Logo.jpg)Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are available for download at [www.nascio.org/publications/](http://www.nascio.org/publications/)
 
 This year, NASCIO’s annual top 10 ranking shows IT security strategies and tools are at the forefront of discussion around the states, with ‘Security’ topping the list of Priority Strategies, Management Processes and Solutions and ‘Security Enhancement Tools,’ such as continuous diagnostic monitoring, coming in second among Priority Technologies, Applications, and Tools. Following closely behind were efforts at consolidation and a continued transition to cloud services.
 

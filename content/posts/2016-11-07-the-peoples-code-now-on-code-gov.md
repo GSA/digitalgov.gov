@@ -1,5 +1,4 @@
 ---
-url: /2016/11/07/the-peoples-code-now-on-code-gov/
 date: 2016-11-07 1:00:08 -0400
 title: The People’s Code – Now on Code.gov
 summary: 'Summary: Today we&rsquo;re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government&rsquo;s software. Over the past few years, we&rsquo;ve taken unprecedented action to help Americans engage with their Government in new and meaningful ways. Using Vote.gov, citizens can now quickly navigate their state&rsquo;s voter registration process through'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Code
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - code
   - Office of Management and Budget
@@ -25,7 +24,7 @@ Using Vote.gov, citizens can now quickly navigate their state’s voter registra
 
 By harnessing 21st Century technology and innovation, we’re improving the Federal Government’s ability to provide better citizen-centered services and are making the Federal Government smarter, savvier, and more effective for the American people. At the same time, we’re building many of these new digital tools, such as [_We the People_](https://petitions.whitehouse.gov/developers), the [White House Facebook bot](https://www.whitehouse.gov/blog/2016/10/13/removing-barriers-constituent-conversations), and [Data.gov](https://www.data.gov/), in the open so that as the Government uses technology to re-imagine and improve the way people interact with it, others can too.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-258-The-Peoples-Code-homepage.jpg" alt="Screen capture of The People's Code website homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-258-The-Peoples-Code-homepage.jpg" alt="Screen capture of The People's Code website homepage." >}}
 
 The code for these platforms is, after all, the People’s Code – and today we’re excited to announce that it’ll be accessible from one place, Code.gov, for the American people to explore, improve, and innovate.
 

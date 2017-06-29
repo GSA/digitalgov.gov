@@ -1,5 +1,4 @@
 ---
-url: /2015/07/23/pdfs-a-digital-content-detour/
 date: 2015-07-23 10:25:03 -0400
 title: 'PDFs: A Digital Content Detour'
 summary: 'The Portable Document Format, or &ldquo;PDF&rdquo; file, is one of the staple productions of many communications professionals. It&rsquo;s compact, prints exactly as formatted, and allows for clean, multiplatform distribution. However, it&rsquo;s the old &ldquo;U.S. Route&rdquo; on the Digital Interstate. Let&rsquo;s take an average user of a U.S. government website: a 45 year old PC user'
@@ -12,7 +11,7 @@ tag:
   - Centers for Disease Control and Prevention
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/466-x-400-Uploading-documents-from-laptop-Model-la-iStock-Thinkstock-177522468.jpg" alt="Uploading documents from laptop" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/466-x-400-Uploading-documents-from-laptop-Model-la-iStock-Thinkstock-177522468.jpg" alt="Uploading documents from laptop" caption="" >}} 
 
 The Portable Document Format, or “PDF” file, is one of the staple productions of many communications professionals. It’s compact, prints exactly as formatted, and allows for clean, multiplatform distribution. However, it’s the old “U.S. Route” on the Digital Interstate.
 
@@ -20,7 +19,7 @@ Let’s take an average user of a U.S. government website: a 45 year old PC user
 
 OK, installed! Now back to that article. She goes to [cdc.gov](http://www.cdc.gov/) again, searches, and gets the same link. This time it opens up, but then a popup with Adobe’s license agreement comes up. She irritably says “OK” to the legal folderol and now, finally, can see the article. It&#8217;s 5 pages long, and structured with 2 columns. She’s on her laptop, so she can’t read the columns without zooming in, and then dragging with her finger or mouse around to read the document. When she finishes reading column 1, she has to drag all the way up to the top of the page again to read column 2. Using the search feature doesn’t help much, because the screen is still jumping around from column to column as she tries to find all the time “children” are mentioned in the article. At some point, she gives up in disgust and calls her pediatrician.
 
-Remember, this scenario is not uncommon, and we’re not talking about a user who is blind using a screen reader. We’re talking about a properly formatted, accessible PDF, used by a person without a disability. Image if, as too many government PDFs are, this was just a scanned printout! {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Close-up-working-printer-scanner-copier-device-Piotr-Adamowicz-iStock-Thinkstock-186949650.jpg" alt="A sheet of paper lies on a copier" %} 
+Remember, this scenario is not uncommon, and we’re not talking about a user who is blind using a screen reader. We’re talking about a properly formatted, accessible PDF, used by a person without a disability. Image if, as too many government PDFs are, this was just a scanned printout! {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Close-up-working-printer-scanner-copier-device-Piotr-Adamowicz-iStock-Thinkstock-186949650.jpg" alt="A sheet of paper lies on a copier" caption="" >}} 
 
 Don’t do this to the citizens we are supposed to serve. If you want to provide a printable PDF, fine. It’s a great format for a physical document or a long read. But don’t torture people electronically just because the Manager of the communications department likes the way the document looks when printed. Use HTML5 first, and a printable option linked off it. If you have a long document, break it up into sections, and maybe offer an .epub option, as well!
 

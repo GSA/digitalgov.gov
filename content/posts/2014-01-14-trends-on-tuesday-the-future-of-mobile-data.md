@@ -1,8 +1,7 @@
 ---
-url: /2014/01/14/trends-on-tuesday-the-future-of-mobile-data/
 date: 2014-01-14 5:20:40 -0400
 title: 'Trends on Tuesday: The Future of Mobile Data'
-summary: 'This infographic from Light Reading addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones. Some other quick highlights: In Q2 of'
+summary: 'This infographic from Light Reading addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones. Some other quick highlights: In Q2'
 authors:
   - lisa-wilcox
 categories:
@@ -14,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/infographic-319x300.jpg" alt="Infographic by Wefi on the future of mobile data use" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/infographic.jpg)This infographic from [Light Reading](http://www.lightreading.com/document.asp?doc_id=705440) addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/infographic-319x300.jpg" alt="Infographic by Wefi on the future of mobile data use" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/infographic.jpg)This infographic from [Light Reading](http://www.lightreading.com/document.asp?doc_id=705440) addresses recent trends in mobile data use. We are struck by how much data was transferred via a WiFi connection vs. cellular. People are using WiFi connections way more than cellular ones.
 
 Some other quick highlights:
 

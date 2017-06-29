@@ -1,5 +1,4 @@
 ---
-url: /2013/07/29/api-security/
 date: 2013-07-29 1:12:58 -0400
 title: API Security
 summary: 'Like website development, API security revolves around three stages&mdash;planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency&rsquo;s security program to the API release'
@@ -13,7 +12,7 @@ tag:
   - security
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 Like website development, API security revolves around three stages—planning the API, testing the API, and monitoring the API after it has launched. The planning stage requires those involved to conceptually map several design decisions and the impact that they will have on security. The second stage applies your agency’s security program to the API release candidate. Lastly, the third step integrates your API in your agency’s continuous monitoring frameworks.
 

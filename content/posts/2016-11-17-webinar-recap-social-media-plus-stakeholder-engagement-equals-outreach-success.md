@@ -1,5 +1,4 @@
 ---
-url: /2016/11/17/webinar-recap-social-media-plus-stakeholder-engagement-equals-outreach-success/
 date: 2016-11-17 2:00:46 -0400
 title: 'Webinar Recap: Social Media + External Affairs = Outreach Success'
 summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hispanics online. A recent DigitalGov University (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness. Social Media Outreach Goals What does social media outreach success look like? Success is when agencies'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Content
   - Social Media
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - CDC
@@ -28,7 +27,7 @@ tag:
 
 A recent [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
 
-## Social Media Outreach Goals {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" %} 
+## Social Media Outreach Goals {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
 
 What does social media outreach success look like? Success is when agencies and stakeholders have developed relationships that support each other’s social media and digital campaigns. Success also consists of partners consistently inviting your agency to its social media activities in advance and regularly sharing the agency&#8217;s social media content as well.
 
@@ -51,7 +50,7 @@ With a limited budget and few resources, [CuidadodeSalud.gov](https://www.Cuidad
  11. Require both social media and external affairs to coordinate messaging.
  12. Need for agency subject matter expert (SME) input on content you&#8217;re sending out.
 
-## In-Language Outreach Challenges {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" %} 
+## In-Language Outreach Challenges {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="" >}} 
 
 You can be creative in your messaging, but just be careful to stereotype or over generalize. Don&#8217;t literally translate sayings or idioms. For example &#8220;apples to apples&#8221; does not have the same connotation in Spanish; it&#8217;s not a point of reference that is used or recognized. While you want to be catchy, balance being serious with being engaging. Vet your ideas with a native speaker who has cultural competencies and keeps up with topic trends regularly. How are people referring to the Affordable Care Act in Spanish? Can you do some focus group testing?
 
@@ -65,7 +64,7 @@ Where there are available opportunities to support your stakeholders or agency p
 
 ## Case Studies: Facebook and Twitter
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-584-Screen-Shot-of-CuidadoDeSalud.gov-Facebook-post.jpg" alt="Screen capture of a CuidadoDeSalud.gov Facebook post." %}](https://www.facebook.com/Cuidadodesaludgov/posts/1173399182742071)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-584-Screen-Shot-of-CuidadoDeSalud.gov-Facebook-post.jpg" alt="Screen capture of a CuidadoDeSalud.gov Facebook post." >}}](https://www.facebook.com/Cuidadodesaludgov/posts/1173399182742071)
 
 In order to boost engagement on [Facebook](https://www.facebook.com/CuidadoDeSaludGov/), CuidadodeSalud.gov participated in several chats and shared stakeholder events. They included visually attractive graphics that asked questions that were specific to the target audience; Spanish-dominant Hispanics. The messages were originally written in Spanish. Partners, such as Enroll America, Latina Today, and others, shared this content. Working with community influencers and leaders is extremely effective. They have large and engaged followings; where you can establish and nurture those relationships, you&#8217;ll find success.
 
@@ -111,7 +110,7 @@ _Having your translation reviewed and then adapted to English is usually the bes
 
 **What&#8217;s a good strategy for reaching Hispanics online?**
 
-_Depends on the audience and whom you&#8217;re serving. Video is very attractive for example; consider the channels you&#8217;ll be sharing those on. A large group of Hispanic millennials also prefer content in English, but there are many still that prefer Spanish. Should you consider Facebook first, Twitter? Learn more about the audience you want to reach._ {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" %} 
+_Depends on the audience and whom you&#8217;re serving. Video is very attractive for example; consider the channels you&#8217;ll be sharing those on. A large group of Hispanic millennials also prefer content in English, but there are many still that prefer Spanish. Should you consider Facebook first, Twitter? Learn more about the audience you want to reach._ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
 
 **How do you measure success with Twitter chats?**
 

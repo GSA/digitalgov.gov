@@ -1,20 +1,19 @@
 ---
-url: /2013/12/12/9-reasons-your-agency-should-have-a-cms/
 date: 2013-12-12 3:02:56 -0400
 title: 9 Reasons Your Agency Should Have A CMS
-summary: 'Why Invest in a Content Management System? Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you re-creating'
+summary: 'Why Invest in a Content Management System? Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you'
 authors:
   - rflagg
 categories:
   - Content
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - CMS
   - Content Management System
 ---
 
-**[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine-250x250.png" alt="Highway 9 sign" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine.png)Why Invest in a Content Management System?**
+**[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/nine.png)Why Invest in a Content Management System?**
 
 Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you re-creating the same content for different platforms such as Web or mobile?
 

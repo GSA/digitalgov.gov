@@ -1,5 +1,4 @@
 ---
-url: /2015/04/20/the-content-corner-finding-your-voice/
 date: 2015-04-20 10:00:55 -0400
 title: 'The Content Corner: Finding Your Voice'
 summary: No, this is not another post about podcasting but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an article from Larsen Design states,
@@ -15,7 +14,7 @@ tag:
   - The Content Corner
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="" >}} 
 
 No, this is not another post about [podcasting](https://www.WHATEVER/2015/04/06/the-content-corner-should-you-be-podcasting/) but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an [article from Larsen Design](http://larsen.com/insights/creating-the-right-brand-voice/) states, &#8220;You don&#8217;t want to sound like Brahms when your audience is listening to Beck.&#8221; Have you stopped to consider what you sound like to your user, and is it appropriate for your subject matter, agencies, or audience?
 
@@ -38,7 +37,7 @@ I have generally used voice and tone interchangeably during this post, but other
 
 For sake of brevity, I have basically blended these traits into either the voice or tone, but I suggest you read further and work with whatever structure works best for you and for your agency. If you are the main evangelist at your agency, you need to be able to live and breathe this stuff, so do what works best in achieving your goals. One of the more common ways to differentiate the two is that voice is more of a concept of your agency as a set of adjectives whereas tone is a product of this concept that changes depending on the audience or situation.
 
-# A Different Tone for Different Times {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" %} 
+# A Different Tone for Different Times {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-155-Social-media-chat-bubble-words-Qstockmedia-iStock-Thinkstock-ThinkstockPhotos-474237751.jpg" alt="Social media chat bubble words" caption="" >}} 
 
 Just as we all speak differently to our parents, our friends, and our boss, we should also at least consider a different tone depending upon our platform or content. Social media is the clear content type that will need a specific tone and is probably one of the main drivers of agencies even discussing brand, voice, and tone. Rocket Media outlines a nice set of [steps to help you establish the proper tone](http://rocketmedia.com/blog/steps-for-creating-a-voice-and-tone-guide) depending on various channels and content types:
 

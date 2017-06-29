@@ -1,5 +1,4 @@
 ---
-url: /2015/10/23/is-your-site-mobile-friendly/
 date: 2015-10-23 11:00:12 -0400
 title: Is Your Site Mobile-Friendly?
 summary: 'What is mobile-friendly? Mobile-friendly simply means your visitors can use phones and tablets to visit your website and have a user-friendly experience. Many of us get toward the end of mobile site development and really do not know if what we created is &#8220;mobile-friendly.&rdquo; We think we have followed all of the mobile best practices'
@@ -17,7 +16,7 @@ tag:
   - usability
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-434-no-shadow-Smartphones-and-wrong-and-right-icons-frikota-iStock-Thinkstock-500886657-500886437.jpg" alt="Two smart phones; one with a red x "wrong" icon on the screen, and the other with a green check mark "right" icon on the screen." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-434-no-shadow-Smartphones-and-wrong-and-right-icons-frikota-iStock-Thinkstock-500886657-500886437.jpg" alt="Two smart phones; one with a red x wrong icon on the screen, and the other with a green check mark right icon on the screen." caption="" >}} 
 
 What is mobile-friendly?
 
@@ -58,7 +57,7 @@ Google&#8217;s [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mo
 
 The site appears to be mobile-friendly.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-528-Google-Mobile-Friendly-Test-Tool.jpg" alt="Google Mobile Friendly Test Tool" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-528-Google-Mobile-Friendly-Test-Tool.jpg" alt="Google Mobile Friendly Test Tool" >}}
 
 ### 
 
@@ -68,7 +67,7 @@ The site appears to be mobile-friendly.
 
 There are some suggestions on how to improve the site’s performance. By clicking on the links, the user is provided with specific suggestions.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-507-Google-Developers-Page-Speeds-Insights.jpg" alt="Google Developers Page Speeds Insights" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-507-Google-Developers-Page-Speeds-Insights.jpg" alt="Google Developers Page Speeds Insights" >}}
 
 ### W3C Mobile OK Checker
 
@@ -82,7 +81,7 @@ The suggestion to fix the issue is:
 
 “Try to reduce the number of included resources (images and style sheets). For instance, style sheets can be merged together instead of being split across several files.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-508-W3C-Checker.jpg" alt="W 3 C Mobile OK Checker" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-508-W3C-Checker.jpg" alt="W 3 C Mobile OK Checker" >}}
 
 ### Mobile Moxie
 
@@ -90,7 +89,7 @@ The suggestion to fix the issue is:
 
 This report is like a report card and indicated a caching issue that the other tools also pointed to.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-512-Mobile-Moxie.jpg" alt="Mobile Moxie" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-512-Mobile-Moxie.jpg" alt="Mobile Moxie" >}}
 
 ### Mobi Ready (Only Non-SSL Sites)
 
@@ -104,13 +103,13 @@ With a solution of:
 
 “You should consider reducing the page complexity and content to reduce the DOM element count.”
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-444-Mobi-Ready.jpg" alt="Mobi Ready" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-444-Mobi-Ready.jpg" alt="Mobi Ready" >}}
 
 ### WebPageTest
 
 [WebPageTest](http://www.webpagetest.org/) is a free online site that allows the user to see exactly how much time every component uses to load. Through tuning, applications can be made to perform at acceptable levels. One of the most beneficial features I found was that prior to test execution you are able to select a test location, browser and mobile device. This functionality allows us to better replicate our users&#8217; environments and more closely see what they are experiencing or will experience.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-755-WebPage-Test.jpg" alt="Screen capture of WebPageTest" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-755-WebPage-Test.jpg" alt="Screen capture of WebPageTest" >}}
 
 ## Conclusions
 

@@ -1,5 +1,4 @@
 ---
-url: /2014/09/02/trends-on-tuesday-are-pcs-obsolete-2/
 date: 2014-09-02 2:05:01 -0400
 title: 'Trends on Tuesday: Are PCs Obsolete?'
 summary: 'We&#8217;ve seen (and experienced) a dramatic growth in mobile consumption in recent years. From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what&rsquo;s happening on existing platforms, according to'
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 
 
 We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years](https://www.WHATEVER/tag/trends-on-tuesday/). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
 

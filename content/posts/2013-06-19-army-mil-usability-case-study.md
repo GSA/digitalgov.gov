@@ -1,12 +1,11 @@
 ---
-url: /2013/06/19/army-mil-usability-case-study/
 date: 2013-06-19 12:11:35 -0400
 title: 'Army.mil &#8211; Usability Case Study'
 summary: 'If you want to make a website more efficient and user friendly, then it&rsquo;s not enough just to have your most valuable information on the site. People are busy&mdash;they want to find what they&rsquo;re looking for, and they want it fast. You don&rsquo;t always need to redesign an entire site to make things easier to'
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DoD
@@ -43,7 +42,7 @@ If you want to make a website more efficient and user friendly, then it’s not 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-before.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-before.png" alt="Screenshot of Army.mil before user testing." %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-before.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-before.png" alt="Screenshot of Army.mil before user testing." >}}</a>
     </p>
     
     <div>
@@ -69,7 +68,7 @@ If you want to make a website more efficient and user friendly, then it’s not 
     </div>
     
     <div>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-after.png">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-after.png" alt="Screenshot of Army.mil after user testing." %}</a>
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-after.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-after.png" alt="Screenshot of Army.mil after user testing." >}}</a>
     </div>
   </div>
 </div>

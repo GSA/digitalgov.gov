@@ -1,14 +1,13 @@
 ---
-url: /2014/09/26/member-spotlight-hannah-rubin-library-of-congress/
 date: 2014-09-26 10:00:17 -0400
 title: 'Member Spotlight &#8211; Hannah Rubin, Library of Congress'
-summary: 'Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the DigitalGov'
+summary: 'Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the'
 authors:
   - rflagg
 categories:
   - Content
   - Metrics
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
 tag:
   - DigitalGov User Experience Program
   - Library of Congress
@@ -16,7 +15,7 @@ tag:
   - Open Opportunities program
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." %}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program") via our [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities Program").
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program") via our [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/ "Open Opportunities Program").
 
 ## What do you love most about your current job/position?
 

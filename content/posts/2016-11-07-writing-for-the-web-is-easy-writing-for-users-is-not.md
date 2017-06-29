@@ -1,15 +1,14 @@
 ---
-url: /2016/11/07/writing-for-the-web-is-easy-writing-for-users-is-not/
 date: 2016-11-07 11:00:25 -0400
 title: Writing for the Web Is Easy. Writing for Users Is Not.
 summary: 'We all do it. Whether on Twitter, Facebook, or the comment section on a news article, it&rsquo;s easy to get our writing on the internet. Many of us have personal websites or contribute to blogs. We work at organizations with content management systems that allow us to publish pages with a single button click. The'
 authors:
-  - emileigh-barnes
   - chris-goranson
+  - emileigh-barnes
   - phoebe-espiritu
 categories:
   - Content
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - Writing
 tag:
   - accessibility
@@ -21,7 +20,7 @@ tag:
 
 We all do it. Whether on Twitter, Facebook, or the comment section on a news article, it’s easy to get our writing on the internet. Many of us have personal websites or contribute to blogs. We work at organizations with content management systems that allow us to publish pages with a single button click.
 
-The fact that it’s so easy to _publish content_ can trick us into thinking it’s equally easy to write _useful content._ {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." %} 
+The fact that it’s so easy to _publish content_ can trick us into thinking it’s equally easy to write _useful content._ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
 
 Government websites are written for an extraordinarily diverse group of users. They come to our websites with different knowledge, backgrounds, and abilities. Our content has to take into account many overlapping and diverging characteristics. And it still needs to present a polished, understandable message.
 
@@ -31,13 +30,13 @@ Fortunately, there are steps we can take to make sure the content we care about 
 
 ## Get a dedicated content strategist. Trust them.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/250-x-353-UK-Government-Digital-Service\_poster\_Content-is-User-Experience.jpg" alt="The UK Government Digital Service's "Content is user experience" poster." %}Content on government websites doesn’t usually fail because it’s wrong, it fails because it’s not written for users. A content strategist will help projects develop a singular voice and maintain consistent style and tone.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/250-x-353-UK-Government-Digital-Service\_poster\_Content-is-User-Experience.jpg" alt="The UK Government Digital Service's Content is user experience poster." >}}Content on government websites doesn’t usually fail because it’s wrong, it fails because it’s not written for users. A content strategist will help projects develop a singular voice and maintain consistent style and tone.
 
 A content strategist will juggle the competing needs and desires of users. They’ll bring a fresh eye to frustrating jargon, technical terms, and acronyms while focusing on using familiar words — an important marker of plain language (and [plain language is required by law](http://www.plainlanguage.gov/plLaw/)). Reporters, teachers, and public speakers are all good examples of writers who use plain language to make their topics more appealing and approachable.
 
 Our colleagues at the Consumer Financial Protection Bureau have been leaders in plain language with their [public-facing content](http://www.consumerfinance.gov/). Their website covers incredibly complex topics — banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, and foreclosure relief services. They use content strategy and user-centered design to make these intimidating subjects accessible to the general public.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-The-page-for-Owning-a-Home-under-Consumer-Tools-section-of-the-CFPB-website.jpg" alt="The page for "Owning a Home" under the Consumer Tools section of the CFPB website." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-The-page-for-Owning-a-Home-under-Consumer-Tools-section-of-the-CFPB-website.jpg" alt="The page for Owning a Home under the Consumer Tools section of the CFPB website." >}}
 
 ## Test content with real people
 

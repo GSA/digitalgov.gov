@@ -1,5 +1,4 @@
 ---
-url: /2014/11/04/trends-on-tuesday-phablets-to-top-tablets-in-2015/
 date: 2014-11-04 11:10:30 -0400
 title: 'Trends on Tuesday: Phablets to Top Tablets in 2015?'
 summary: 'Is it a phone or is it a tablet? The International Data Corporation (IDC) predicts that &#8220;phablets,&#8221; the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, will outship portable PCs this year and tablets in 2015. Specifically, total phablet volume will top 318 million units, surpassing the 233 million'
@@ -15,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Is it a phone or is it a tablet? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-435-CES-phablet-2013-Consumer-Electronics-Show-Highlights-Newest-Technology-David-Becker-Getty-Images-News-Thinkstock-159184299.jpg" alt="Mobile phone and phablet seen at the 2013 C E S (Consumer Electronics Show)" %} 
+Is it a phone or is it a tablet? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-435-CES-phablet-2013-Consumer-Electronics-Show-Highlights-Newest-Technology-David-Becker-Getty-Images-News-Thinkstock-159184299.jpg" alt="Mobile phone and phablet seen at the 2013 C E S (Consumer Electronics Show)" caption="" >}} 
 
 The International Data Corporation (IDC) predicts that &#8220;phablets,&#8221; the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, [will outship portable PCs this year and tablets in 2015](http://www.idc.com/getdoc.jsp?containerId=prUS25077914). Specifically, total phablet volume will top 318 million units, surpassing the 233 million tablets forecast to ship in 2015. Further, IDC expects phablets to grow from 14.0% of the worldwide smartphone market in 2014 to 32.2% in 2018.
 

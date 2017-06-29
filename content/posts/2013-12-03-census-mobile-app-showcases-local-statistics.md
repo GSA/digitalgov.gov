@@ -1,8 +1,7 @@
 ---
-url: /2013/12/03/census-mobile-app-showcases-local-statistics/
 date: 2013-12-03 12:54:24 -0400
 title: Census Mobile App Showcases Local Statistics
-summary: America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day. With roughly half of Americans now owning smartphones, everyone should be
+summary: America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day. With roughly half of Americans now owning smartphones, everyone should
 authors:
   - stephen-buckner
 categories:
@@ -12,7 +11,7 @@ tag:
   - mobile apps
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-446-dweller-app-3-screens-cb13-200-Graphic2.jpg" alt="Three screens of the dweller app on different mobile devices" %}America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-446-dweller-app-3-screens-cb13-200-Graphic2.jpg" alt="Three screens of the dweller app on different mobile devices" >}}America has always been a nation on the move. Whether you are looking for a career change or a new neighborhood to call home, life decisions affect each of us every day.
 
 With roughly half of Americans now owning smartphones, everyone should be able to access the wealth of statistics the Census Bureau collects to make informed decisions on the go, whether at home or on the road.
 

@@ -1,21 +1,20 @@
 ---
-url: /2013/09/23/tackling-pii-in-electronic-data/
 date: 2013-09-23 6:11:36 -0400
 title: Tackling PII in Electronic Data
-summary: 'As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation. Do'
+summary: 'As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.'
 authors:
   - tlowden
 categories:
   - Content
   - Social Media
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - Privacy Impact Assessment
   - social media
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/person-holding-hand-up-in-front-of-camera.jpg">{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/person-holding-hand-up-in-front-of-camera.jpg" alt="person holding hand up in front of camera" %}</a>As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/person-holding-hand-up-in-front-of-camera.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/person-holding-hand-up-in-front-of-camera.jpg" alt="person holding hand up in front of camera" >}}</a>As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.
 </p>
 
 <p dir="ltr">

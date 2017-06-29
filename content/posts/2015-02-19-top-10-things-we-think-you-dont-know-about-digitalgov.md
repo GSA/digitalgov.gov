@@ -1,5 +1,4 @@
 ---
-url: /2015/02/19/top-10-things-we-think-you-dont-know-about-digitalgov/
 date: 2015-02-19 1:17:13 -0400
 title: 'Top 10 Things (We Think) You Don&#8217;t Know about DigitalGov'
 summary: 'Things you don&#8217;t know about this website, DigitalGov.gov, that is. It&rsquo;s our first birthday, and we&rsquo;re celebrating by sharing some fun facts with you. A more sober look at our strategy can be read on our 6-month post, but this is a party post! w00t! 10.  We&rsquo;ve published an impressive 480 articles and counting (this'
@@ -15,7 +14,7 @@ tag:
   - GSA
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 
 
 Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s our first birthday, and we’re celebrating by sharing some fun facts with you. A more sober [look at our strategy can be read on our 6-month post](https://www.WHATEVER/2014/09/12/digitalgov-gov-six-months-later/), but this is a party post! w00t!
 

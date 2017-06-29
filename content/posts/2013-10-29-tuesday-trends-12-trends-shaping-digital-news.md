@@ -1,5 +1,4 @@
 ---
-url: /2013/10/29/tuesday-trends-12-trends-shaping-digital-news/
 date: 2013-10-29 10:13:29 -0400
 title: 'Trends on Tuesday: Digital News Trends and Mobile'
 summary: 'The Pew Research Center recently released a report on &#8220;12 Trends Shaping Digital News.&#8221; Some of these trends show that mobile devices continue to affect how the public consumes the news. The report found: 19% of Americans saw news on a social network &#8220;yesterday&#8221; in 2012, more than double the 9% who had done so'

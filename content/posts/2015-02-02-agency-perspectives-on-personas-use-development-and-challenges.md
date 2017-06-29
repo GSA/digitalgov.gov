@@ -1,5 +1,4 @@
 ---
-url: /2015/02/02/agency-perspectives-on-personas-use-development-and-challenges/
 date: 2015-02-02 10:00:00 -0400
 title: Agency Perspectives on Personas (Use, Development and Challenges)
 summary: 'Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs. Let&#8217;s delve a bit deeper into personas and review two'
@@ -22,9 +21,9 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 ## United States Department of Agriculture (USDA)
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" >}}
 
 ### ****Q & A with Emily Marsh, Ph.D., MLS, Librarian (USDA)****
 
@@ -40,9 +39,9 @@ Let&#8217;s delve a bit deeper into [personas](https://www.WHATEVER/2015/01/09/p
 
 ## Department of Human and Health Services
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" >}}
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" >}}
 
 ### **Q & A with Kathryn Messner, Usability.gov Program Manager (HHS)**
 

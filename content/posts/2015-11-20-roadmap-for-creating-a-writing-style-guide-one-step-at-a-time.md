@@ -1,5 +1,4 @@
 ---
-url: /2015/11/20/roadmap-for-creating-a-writing-style-guide-one-step-at-a-time/
 date: 2015-11-20 10:00:37 -0400
 title: 'Roadmap for Creating a Writing Style Guide: One Step at a Time'
 summary: 'So, you&rsquo;re tired of seeing little (or big!) errors on your agency&rsquo;s website, and you flinch at the random writing styles. You feel like your agency&rsquo;s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency&rsquo;s'
@@ -13,7 +12,7 @@ tag:
   - U.S. Energy Information Administration
 ---
 
-So, you’re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s communication and credibility. {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Fill-it-Procy_ab-iStock-Thinkstock-167459454.jpg" alt="A wooden Manikin figure gesturing toward a blank spiral notebook" %} 
+So, you’re tired of seeing little (or big!) errors on your agency’s website, and you flinch at the random writing styles. You feel like your agency’s content is good, but there are still too many inconsistencies. What you need is an agency Writing Style Guide. A good guide can set styles that improve your agency’s communication and credibility. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Fill-it-Procy_ab-iStock-Thinkstock-167459454.jpg" alt="A wooden Manikin figure gesturing toward a blank spiral notebook" caption="" >}} 
 
 How do you create a Writing Style Guide? What goes in it? My agency, the U.S. Energy Information Administration (EIA), created an award-winning [Writing Style Guide](http://www.eia.gov/about/styleguide2015.pdf) in 2012 that was updated in 2015. I’ll give you some advice from our experience.
 

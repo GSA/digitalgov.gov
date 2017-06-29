@@ -1,8 +1,7 @@
 ---
-url: /2015/10/06/the-people-and-teams-that-power-high-impact-incentive-prizes/
 date: 2015-10-06 11:10:55 -0400
 title: The People and Teams That Power High-Impact Incentive Prizes
-summary: ' Federal agencies have used prize competitions and challenges to drive competition and spark innovation for nearly a decade. In September 2010, as part of President Obama&rsquo;s Strategy for American Innovation [PDF], the Administration launched Challenge.gov, an online platform that enables federal agencies to engage civic innovators,'
+summary: ' Federal agencies have used prize competitions and challenges to drive competition and spark innovation for nearly a decade. In September 2010, as part of President Obama&rsquo;s Strategy for American Innovation [PDF], the Administration launched Challenge.gov, an online platform that enables federal agencies to engage civic'
 authors:
   - jenn-gustetic
   - kelly-olson
@@ -19,7 +18,7 @@ tag:
   - USAID
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg)
   
 Federal agencies have used prize competitions and challenges to drive competition and spark innovation for nearly a decade. In September 2010, as part of President Obama’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf) [PDF], the Administration launched [Challenge.gov](https://www.challenge.gov/), an online platform that enables federal agencies to engage civic innovators, entrepreneurs, and citizen scientists in prize competitions and challenges designed to help carry out agency missions and benefit society.
 

@@ -1,5 +1,4 @@
 ---
-url: /2016/04/07/ux-exponential-state-department-turning-bad-user-experiences-into-good/
 date: 2016-04-07 11:10:12 -0400
 title: 'UX Exponential: State Department Turning Bad User Experiences into Good'
 summary: 'How many times a day do you have a bad user experience? Did you have one: Riding the metro to work this morning this morning? Waiting for your email to open? Watching a way-too-long training video? Trying to find your way around a new-to-you building? How many times have you thought, &ldquo;there has to be'
@@ -23,7 +22,7 @@ How many times a day do you have a bad user experience? Did you have one:
 
 How many times have you thought, “there has to be a better way to do this!” If you’re like us, you think that all the time. We, in eDiplomacy hate to settle for bad.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-335-screen-capture-of-State-Dept-UX-Exponential-homepage.jpg" alt="Screen capture of the State Department's UX Exponential homepage" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-335-screen-capture-of-State-Dept-UX-Exponential-homepage.jpg" alt="Screen capture of the State Department's UX Exponential homepage" >}}
 
 Which is why, on April 8, we, and lots of the people at the State Department are going to change the bad user experiences into good ones. All of us know that there are processes, platforms and procedures that the humans in the State Department can improve! “UX exponential” will bring together experts and dreamers to inspire us to tackle even the most arcane platforms—the ones we’re so used to that we forget we can make them better. While the event is specifically for State Department colleagues, we wanted to share our approach in case you’d like to use it. We are not waiting for change to happen from the top down, we’re empowering every user to make change happen from within—within yourself or within your office or within your bureau. Deputy Secretary Higginbottom, who is the captain of the ship of resources, has jumped aboard and will begin the day with words of encouragement. She is hoping we will fling our nets wide.
 

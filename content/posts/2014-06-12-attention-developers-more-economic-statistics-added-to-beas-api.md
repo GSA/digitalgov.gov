@@ -1,8 +1,7 @@
 ---
-url: /2014/06/12/attention-developers-more-economic-statistics-added-to-beas-api/
 date: 2014-06-12 10:00:33 -0400
 title: 'Attention Developers: More Economic Statistics Added to BEA’s API'
-summary: Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year. The API now provides direct access to the gross
+summary: Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year. The API now provides direct access to the
 authors:
   - bea-team
 categories:
@@ -13,7 +12,7 @@ tag:
   - U.S. Bureau of Economic Analysis
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-69-Bureau-of-Economic-Analysis-BEA-logo.jpg" alt="250 x 69 Bureau of Economic Analysis BEA logo" %}Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-69-Bureau-of-Economic-Analysis-BEA-logo.jpg" alt="250 x 69 Bureau of Economic Analysis BEA logo" >}}Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year.
 
 The API now provides direct access to the gross domestic product (GDP) underlying detail tables. Those tables contain a wealth of statistics, including how much consumers spend on hundreds of items like furnishings, food and flowers and how much revenue the government takes in and spends.
 

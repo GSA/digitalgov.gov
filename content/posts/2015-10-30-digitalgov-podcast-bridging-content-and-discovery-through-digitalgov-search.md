@@ -1,8 +1,7 @@
 ---
-url: /2015/10/30/digitalgov-podcast-bridging-content-and-discovery-through-digitalgov-search/
 date: 2015-10-30 1:12:28 -0400
 title: 'DigitalGov Podcast: Bridging Content and Discovery Through DigitalGov Search'
-summary: ' You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!). For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. DigitalGov Search helps agencies deliver information to government searchers'
+summary: ' You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!). For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. DigitalGov Search helps agencies deliver information to government'
 authors:
   - awichman
 categories:
@@ -12,7 +11,7 @@ tag:
   - podcast
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Dawn-McCleskey-DGSearch-Podcast-Oct-29-2015.jpg" alt="Dawn McCleskey, DigitalGov Search" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Dawn-McCleskey-DGSearch-Podcast-Oct-29-2015.jpg" alt="Dawn McCleskey, DigitalGov Search" >}}
 
 You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!).
 

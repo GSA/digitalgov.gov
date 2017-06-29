@@ -1,5 +1,4 @@
 ---
-url: /2015/04/30/how-much-will-my-agencys-contact-center-cost/
 date: 2015-04-30 11:10:52 -0400
 title: How Much Will My Agency’s Contact Center Cost?
 summary: 'The federal government has caught the customer experience bug. We want our customers to complete their tasks with minimal effort using a streamlined process. If they need personal help, we want it to be quick, polite, and provide the best answer. But that personal help frequently requires a team of highly skilled, dedicated people&mdash;a contact'
@@ -15,7 +14,7 @@ tag:
   - government contact centers
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Chairs-computers-and-headset-in-a-modern-office-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-486481879.jpg" alt="Chairs, computers, and headsets in a modern office" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Chairs-computers-and-headset-in-a-modern-office-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-486481879.jpg" alt="Chairs, computers, and headsets in a modern office" caption="" >}} 
 
 The federal government has caught the [customer experience](https://www.WHATEVER/2015/01/12/15-government-customer-service-trends-for-2015/) bug. We want our customers to complete their tasks with minimal effort using a streamlined process. If they need personal help, we want it to be quick, polite, and provide the best answer. But that personal help frequently requires a team of highly skilled, dedicated people—a contact center.
 

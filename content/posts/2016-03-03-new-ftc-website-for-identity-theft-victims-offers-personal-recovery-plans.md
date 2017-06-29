@@ -1,5 +1,4 @@
 ---
-url: /2016/03/03/new-ftc-website-for-identity-theft-victims-offers-personal-recovery-plans/
 date: 2016-03-03 10:00:13 -0400
 title: New FTC Website for Identity Theft Victims Offers Personal Recovery Plans
 summary: 'Identity theft is a big problem and it takes time and effort to deal with the issues that it causes. The Federal Trade Commission (FTC), has a new tool that makes it easier for identity theft victims to recover from identity theft by providing a personal recovery plan. No matter what the person&rsquo;s specific identity'
@@ -14,7 +13,7 @@ tag:
 
 Identity theft is a big problem and it takes time and effort to deal with the issues that it causes. The Federal Trade Commission (FTC), has a new tool that makes it easier for identity theft victims to recover from identity theft by providing a personal recovery plan. No matter what the person’s specific identity theft situation is, [IdentityTheft.gov](https://www.identitytheft.gov/) can help. The website has information—and recovery plans—for more than 30 types of identity theft, including child identity theft and tax-related identity theft.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-525-Screenshot-of-FTC-Identity-Theft-gov-website.jpg" alt="Screenshot of Identity Theft dot gov website homepage." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-525-Screenshot-of-FTC-Identity-Theft-gov-website.jpg" alt="Screenshot of Identity Theft dot gov website homepage." >}}
 
 As the nation’s consumer protection agency, the FTC has been helping people combat identity theft for years. IdentityTheft.gov is the next evolution in helping people report and recover from identity theft.
 

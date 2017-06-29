@@ -1,11 +1,10 @@
 ---
-url: /2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/
 date: 2015-08-12 10:00:21 -0400
 title: 'Journey Mapping the Customer Experience: A USA.gov Case Study'
 summary: 'Journey maps are a visual representation of a customer&rsquo;s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services. Journey maps describe a customer&rsquo;s entire journey, even the parts that occur before and after contact with your organization. They'
 authors:
-  - michelle-chronister
   - mary-ann-monroe
+  - michelle-chronister
 categories:
   - UX
 tag:
@@ -28,7 +27,7 @@ We have a lot of data that we regularly analyze, and it tells us a lot about our
 
 We used information in the [CX Journey Mapping Toolkit](http://designingcx.com/cx-journey-mapping-toolkit/) to plan the sessions and our approach. We invited subject matter experts, managers, and other stakeholders to participate in the mapping sessions and designated facilitators to lead the sessions and keep us on track.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, "Browse information or learn more on a general topic"" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, Browse information or learn more on a general topic" >}}
 
 One of the most important preparation activities is creating the behavior line. This is the path your customer takes and the journey you’re going to map.
 
@@ -51,7 +50,7 @@ Once the behavior line was created, we printed each step on one piece of paper. 
   * Customer’s attitudes, emotions, and needs
   * The highs and lows of the journey
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Mapping-Michael.jpg" alt="600-x-400-Mapping-Michael" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Mapping-Michael.jpg" alt="600-x-400-Mapping-Michael" >}}
 
 After adding multiple rounds of sticky notes and stickers to mark these different factors, we picked the greatest pain points in the journey and brainstormed ways to improve them.
 
@@ -72,7 +71,7 @@ The journey mapping process and results helped us clearly see the pain points an
 
 While the process of journey mapping is enlightening, it doesn’t end with a map. Follow-up and planning for improvement are key. We’ve incorporated many outcomes from our journey maps into our [customer experience](https://www.WHATEVER/tag/customer-experience-2/) (CX) improvement queue. We’ve prioritized several projects into our fourth quarter objectives and key results across our content, user experience, performance measurement, and contact center teams.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/1000-x-800-USAgov-Personas-and-Journey-Maps.jpg)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="600-x-480-USAgov-Personas-and-Journey-Maps" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/1000-x-800-USAgov-Personas-and-Journey-Maps.jpg)
 
 Some specific priorities in our CX improvement queue:
 

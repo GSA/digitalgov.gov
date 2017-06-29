@@ -1,5 +1,4 @@
 ---
-url: /2014/03/24/digitalgov-search-our-open-source-strategy/
 date: 2014-03-24 10:00:42 -0400
 title: 'DigitalGov Search: Our Open Source Strategy'
 summary: 'At DigitalGov Search, we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across Gov.UK&#8217;s philosophy on and approach to coding in the open. It caught our attention and we realized we should also articulate our open source strategy. Use and Contribute to Open'
@@ -23,7 +22,7 @@ At [DigitalGov Search](https://www.WHATEVER/services/search/), we keep an eye on
 
 ## Use and Contribute to Open Source Projects
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Source-250-x-167-software-code-476999627.png) 
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Source-250-x-167-software-code-476999627.png) 
 
 Since 2010, we&#8217;ve embraced and leveraged open source software to build our site search service for federal, state, and local government websites. This use of open source has allowed us to experience enormous growth over the past few years. In March 2013 alone, over 24 million searchers received results from our service—a four-fold increase since March 2010.
 

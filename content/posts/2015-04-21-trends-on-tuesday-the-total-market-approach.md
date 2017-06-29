@@ -1,5 +1,4 @@
 ---
-url: /2015/04/21/trends-on-tuesday-the-total-market-approach/
 date: 2015-04-21 10:00:13 -0400
 title: 'Trends on Tuesday: The Total Market Approach'
 summary: Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities. Marketers who recognize the need for a coherent, effective multicultural
@@ -14,7 +13,7 @@ tag:
   - usability case study
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Closeup-Of-Raised-Multiethnic-Hands-IPGGutenbergUKLtd-iStock-Thinkstock-462848199.jpg" alt="Close-up of raised, multi-ethnic hands." caption="" >}} 
 
 Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.
 

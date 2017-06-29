@@ -1,8 +1,7 @@
 ---
-url: /2013/06/17/tips-for-creating-great-digital-content-for-kids/
 date: 2013-06-17 10:24:36 -0400
 title: Tips for Creating Great Digital Content for Kids
-summary: 'Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and'
+summary: 'Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun,'
 authors:
   - arlene-hernandez
   - emily-canis
@@ -20,7 +19,7 @@ tag:
   - user experience
 ---
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer-250x250.jpg" alt="Two young girls working on a laptop in the classroom" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer.jpg)Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and active. Here are a few tips from [Kids.gov](http://kids.usa.gov/) on ways to create great online content for kids:
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer-250x250.jpg" alt="Two young girls working on a laptop in the classroom" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/kids-with-computer.jpg)Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and active. Here are a few tips from [Kids.gov](http://kids.usa.gov/) on ways to create great online content for kids:
 
 ## **Make your kids&#8217; website fun and interactive**
 

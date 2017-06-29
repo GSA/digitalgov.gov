@@ -1,5 +1,4 @@
 ---
-url: /2015/02/24/trends-on-tuesday-mobile-web-lessons-from-the-crowdsource-mobile-testing-program/
 date: 2015-02-24 10:00:03 -0400
 title: 'Trends on Tuesday: Mobile Web Lessons From the CrowdSource Mobile Testing Program'
 summary: 'Practice makes perfect. But in the mobile world, it&rsquo;s testing that makes products better. For federal agencies that have developed their own apps or mobile-friendly sites, the CrowdSource Mobile Testing Program offers a simple way to collect feedback on compatibility testing. Since the program&rsquo;s inception in March 2013, eight federal mobile websites (including responsive design)'
@@ -20,7 +19,7 @@ tag:
   - United States Department of Energy
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 

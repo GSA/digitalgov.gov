@@ -1,5 +1,4 @@
 ---
-url: /2015/09/21/how-a-two-day-sprint-moved-an-agency-twenty-years-forward/
 date: 2015-09-21 10:00:49 -0400
 title: How a Two-Day Sprint Moved an Agency Twenty Years Forward
 summary: 'At 18F Consulting, we experiment with ways to empower agencies to build cost-efficient, excellent digital solutions. Recently we partnered with the Department of Labor&rsquo;s Wage and Hour Division (WHD) to run a two day &ldquo;Design/Dev Agile Sprint.&rdquo; Background: Investigators in Wage and Hour Division The Department of Labor&rsquo;s Wage and Hour Division is responsible for'
@@ -24,13 +23,13 @@ While conducting investigations, Labor employees often turn to the Field Operati
 
 > How might we help DOL’s Wage Hour Division move forward with a quick win that would demonstrate what modernization can mean in a meaningful, iterative way?
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-field-team.jpg" alt="Two investigators (left and right) and an 18F user researcher (center) who is shadowing them to understand how investigators use paper and digital methods to accomplish their job." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-field-team.jpg" alt="Two investigators (left and right) and an 18F user researcher (center) who is shadowing them to understand how investigators use paper and digital methods to accomplish their job." >}}
 
 ## The current landscape: Publishing in the 21st century
 
 The handbook consists of four five-inch-thick binders containing printed and photocopied pages. These binders are replicated and distributed across numerous regional and local offices. The handbook also exists as online PDFs, where each chapter or subsection is published as its own PDF. With these two options, investigators don’t have an easy way to quickly access and search for much-needed information that helps them complete investigations, particularly when they’re working out in the field.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-361-handbook.jpg" alt="Three large binders of the Field Operations Handbook" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-361-handbook.jpg" alt="Three large binders of the Field Operations Handbook" >}}
 
 ## The challenge: How to move this project forward?
 
@@ -65,7 +64,7 @@ In this two day sprint, about eight of us gathered to:
 
 We facilitated a two-hour kick-off meeting (sometimes called an Inception). It got the group aligned around the problem and to agree on a plan moving forward.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-292-group-1.jpg" alt="Kick off (Inception)" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-292-group-1.jpg" alt="Kick off (Inception)" >}}
 
 During this Inception we:
 
@@ -93,7 +92,7 @@ Examples of our user stories:
   * As an investigator, I want inline links to other references so that I can make the best use of this body of knowledge. _(we automatically converted certain text standards into their corresponding links for hundreds of pages of documents)_
   * As an investigator, I want the FOH to be easy to read because past methods have been hard to read. _(provide good version 1 typography and design of this online resource)_
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-group-2.jpg" alt="Day 2 of the team working out of the 18F common space. Developers on the left. Investigators (users) and product owners talking about needs on the right. Taped to the windows are the progress boards (Backlog, Current, Done)." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-291-group-2.jpg" alt="Day 2 of the team working out of the 18F common space. Developers on the left. Investigators (users) and product owners talking about needs on the right. Taped to the windows are the progress boards (Backlog, Current, Done)." >}}
 
 Tom, the product owner had already used optical character recognition (OCR) software to convert 100s of PDFs into MS Word documents. Microsoft styles and headings were applied to the content to begin to structure the data. (Aside: this is a perfect example of using the tools you know best to move a project forward!) With that in hand, our developer validated the technical feasibility of converting those Word documents to HTML pages that could be searched using Elasticsearch.
 
@@ -121,7 +120,7 @@ One of the great things about a cross-functional team in the same room for a spr
 
 Actual investigators made this sprint a success. Working with them over the two days, we determined the best interface copy that would be clear and actionable to their peers. Seconds after code was pushed to the staging site, we observed how they used search and understood the search results pages. Feedback was immediately incorporated.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-288-foh-screenshot.jpg" alt="Two days later we had a working prototype showing browsable chapters and a search results page." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-288-foh-screenshot.jpg" alt="Two days later we had a working prototype showing browsable chapters and a search results page." >}}
 
 ## What’s next?
 

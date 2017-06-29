@@ -1,8 +1,7 @@
 ---
-url: /2012/12/18/norad-tracks-santa-app/
 date: 2012-12-18 2:31:58 -0400
 title: NORAD Tracks Santa App
-summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by NORAD. The NORAD Tracks Santa apps provide a countdown to Santa&#8217;s Christmas Eve flight, interactive games and live tracking of Santa&#8217;s progress on December 24th. Why We'
+summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by NORAD. The NORAD Tracks Santa apps provide a countdown to Santa&#8217;s Christmas Eve flight, interactive games and live tracking of Santa&#8217;s progress on December 24th. Why'
 categories:
   - Mobile
 tag:
@@ -12,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-_[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NORAD\_Tracks\_Santa_app-2.png" alt="Screen shot of NORAD Tracks Santa App" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NORAD_Tracks_Santa_app-2.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **NORAD**._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NORAD\_Tracks\_Santa_app-2.png" alt="Screen shot of NORAD Tracks Santa App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/NORAD_Tracks_Santa_app-2.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **NORAD**._
 
 The <a href="http://www.noradsanta.org/" rel="nofollow">NORAD Tracks Santa apps</a> provide a countdown to Santa&#8217;s Christmas Eve flight, interactive games and live tracking of Santa&#8217;s progress on December 24th.
 

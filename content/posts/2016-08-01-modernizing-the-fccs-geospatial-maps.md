@@ -1,5 +1,4 @@
 ---
-url: /2016/08/01/modernizing-the-fccs-geospatial-maps/
 date: 2016-08-01 2:00:52 -0400
 title: 'Modernizing the FCC&#8217;s Geospatial Maps'
 summary: 'Maps and geospatial analysis have become increasingly important as they allow the FCC to display information to the public in an interactive visual format. The FCC&rsquo;s maps have become useful tools for conveying data in conjunction with Commission reports and public notices. The FCC&rsquo;s maps site serves as a centralized hub for data visualizations and'
@@ -23,7 +22,7 @@ Maps and geospatial analysis have become increasingly important as they allow th
 
 Since the launch of the original FCC maps site, a total of 53 maps have been published – including 15 this year – on topics ranging from [nationwide LTE coverage](https://www.fcc.gov/reports-research/maps/nationwide-lte-coverage-july-2015) to [fixed broadband deployment data](https://www.fcc.gov/reports-research/maps/bpr-2016-fixed-25mbps-3mbps-deployment). To keep pace with the demand for more and improved data visualization tools, we’ve been working to update our maps site to streamline the publishing process and increase the public’s access to the maps published by the Commission.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-336-FCC-map-page.jpg" alt="Screen capture of the FCC Maps page" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-336-FCC-map-page.jpg" alt="Screen capture of the FCC Maps page" >}}
 
 ## Updated Design & Hosting
 
@@ -43,6 +42,6 @@ The new cloud-based maps site expands on the existing features of the previous m
 
 We’re excited about the modernization improvements we’ve made to FCC’s maps site, which is available for viewing [here](https://www.fcc.gov/reports-research/maps). We encourage you to submit any feedback and questions you have via [email](mailto:maps@fcc.gov).
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-326-FCC-Pirate-Radio-data-visualization-map-page.jpg" alt="A data visualization map for Pirate Radio locations." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-326-FCC-Pirate-Radio-data-visualization-map-page.jpg" alt="A data visualization map for Pirate Radio locations." >}}
 
 _This post was originally published on the [Federal Communications Commission (FCC) blog](https://www.fcc.gov/news-events/blog)._

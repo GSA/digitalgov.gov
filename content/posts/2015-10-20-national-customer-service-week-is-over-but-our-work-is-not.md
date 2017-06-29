@@ -1,5 +1,4 @@
 ---
-url: /2015/10/20/national-customer-service-week-is-over-but-our-work-is-not/
 date: 2015-10-20 10:00:56 -0400
 title: National Customer Service Week Is Over, but Our Work Is Not!
 summary: 'Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience. That&#8217;s advice Rick Parrish from Forrester Research gave in response to an audience question during the September 29 DigitalGov University webinar on the state of CX in the federal government. Your key customers are those that are most important to the organization, and often most'
@@ -7,7 +6,7 @@ authors:
   - ktrebon
 categories:
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
   - UX
 tag:
   - "508"
@@ -21,7 +20,7 @@ tag:
   - user experience
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" %} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="" >}} 
 
 Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience.
 

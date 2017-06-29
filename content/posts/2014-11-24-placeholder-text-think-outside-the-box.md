@@ -1,5 +1,4 @@
 ---
-url: /2014/11/24/placeholder-text-think-outside-the-box/
 date: 2014-11-24 10:00:43 -0400
 title: 'Placeholder Text: Think Outside the Box'
 summary: The verdict is in. Placeholder text is harmful in search boxes. Searchers are on your site to complete a task. Having placeholder text inside a search box distracts from the task and it reduces the usability and accessibility of the search box. Placeholders look simple, but are in fact very tricky to use. When people
@@ -34,11 +33,11 @@ These hints can be essential to help identify what information to input, but the
 
 **Inside the Box Is Hard to Use**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/368-x-43-Placeholder-search-inside-box.jpg" alt="Placeholder text inside the search box" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/368-x-43-Placeholder-search-inside-box.jpg" alt="Placeholder text inside the search box" >}}
 
 **Outside the Box Is Better**
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/368-x-62-Placeholder-search-outside-box.jpg" alt="368-x-62-Placeholder-search-outside-box" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/368-x-62-Placeholder-search-outside-box.jpg" alt="368-x-62-Placeholder-search-outside-box" >}}
 
 Placeholder text inside the search box can hinder more than help. Some sites use placeholder text within a search box, and inadvertently searchers don’t remove it. This leads to searches with a query consisting entirely of placeholder text, or a query that is an amalgamation of the two.
 

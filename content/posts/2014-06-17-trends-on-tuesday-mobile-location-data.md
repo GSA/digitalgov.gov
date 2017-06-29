@@ -1,8 +1,7 @@
 ---
-url: /2014/06/17/trends-on-tuesday-mobile-location-data/
 date: 2014-06-17 10:00:38 -0400
 title: 'Trends on Tuesday: Mobile Location Data Improving'
-summary: Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in targeted
+summary: Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in
 authors:
   - tjohnson
 categories:
@@ -20,7 +19,7 @@ tag:
   - USPS
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." %}Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to <a title="Thinknear" href="http://www.mobilemarketingwatch.com/mobile-marketers-are-you-near-me-now-41998/" target="_blank">Thinknear</a>, a leader in targeted mobile advertising, that future may soon be a reality.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to <a title="Thinknear" href="http://www.mobilemarketingwatch.com/mobile-marketers-are-you-near-me-now-41998/" target="_blank">Thinknear</a>, a leader in targeted mobile advertising, that future may soon be a reality.
 
 Here’s what Thinknear found when measuring the accuracy of location data used in mobile advertising:
 

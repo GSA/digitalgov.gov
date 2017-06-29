@@ -1,5 +1,4 @@
 ---
-url: /2014/11/13/world-usability-day-engagement/
 date: 2014-11-13 9:00:09 -0400
 title: 'World Usability Day 2014 theme: Engagement'
 summary: 'There are many buzzwords thrown around in the digital government universe, but the most impactful ideas are rooted in one action: engagement. Whether it is a tweet, a mobile app, or a community of practitioners, every digital program or service requires interaction between an organization and its customer. Engagement is also the foundation of all'
@@ -7,7 +6,7 @@ authors:
   - jonathan-rubin
 categories:
   - Monthly Theme
-  - 'User Testing and Research'
+  - 'User Testing &amp; Research'
   - UX
 tag:
   - DigitalGov User Experience Program
@@ -19,7 +18,7 @@ There are many buzzwords thrown around in the digital government universe, but t
 
 Engagement is also the foundation of all user experience initiatives and is this year’s theme for [World Usability Day](http://www.worldusabilityday.org/). In light of today’s global celebration of UX, the DigitalGov team is highlighting five important facts about UX work that is done in the U.S. federal government.
 
-[{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/464-x-600-World-Usability-Day-UX-Graphic-final.jpg" alt=""5 Things You Should Know About #UXGov" for World Usability Day, November 13, 2014" %}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/World-Usability-Day-UX-Graphic-with-links-final.pdf)
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/464-x-600-World-Usability-Day-UX-Graphic-final.jpg" alt="5 Things You Should Know About #UXGov for World Usability Day, November 13, 2014" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/World-Usability-Day-UX-Graphic-with-links-final.pdf)
 
  
 

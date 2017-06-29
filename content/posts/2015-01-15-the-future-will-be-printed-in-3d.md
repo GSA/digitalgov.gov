@@ -1,8 +1,7 @@
 ---
-url: /2015/01/15/the-future-will-be-printed-in-3d/
 date: 2015-01-15 10:00:42 -0400
 title: The Future Will Be Printed – in 3D
-summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology trends'
+summary: ' The use of 3D printing is growing. From kayaks to pancakes to human and canine prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the top technology'
 authors:
   - awichman
 categories:
@@ -20,7 +19,7 @@ tag:
   - White House
 ---
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Objex-Unlimited-HIV-printed-on-ProJet-4500.jpg" alt="NIH 3D Print Exchange 3D model and Objex Unlimited HIV printed on ProJet 4500" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Objex-Unlimited-HIV-printed-on-ProJet-4500.jpg" alt="NIH 3D Print Exchange 3D model and Objex Unlimited HIV printed on ProJet 4500" >}}
 
 The use of [3D printing](http://3dprinting.com/what-is-3d-printing/) is growing. From [kayaks](http://www.cnet.com/news/custom-3d-printed-kayak-is-a-homemade-work-of-art/) to [pancakes](http://www.cnet.com/news/print-out-breakfast-with-a-pancake-printer/) to [human](http://www.cnet.com/news/how-3d-printers-are-changing-kids-lives-in-war-torn-sudan/) and [canine](http://www.usatoday.com/story/news/nation-now/2014/12/18/derby-dog-3d-printed-prosthetics/20621097/) prosthetics, a diverse array of 3D printed products have been delivered. 3D printing has also been named one of the [top technology trends in 2015](http://www.gartner.com/newsroom/id/2867917) that organizations should incorporate into their strategic planning.
 
@@ -36,7 +35,7 @@ Building scientifically or medically accurate models is a laborious process, eve
 
 Available models include a [fractured face](http://3dprint.nih.gov/discover/3dpx-000822), [insulin](http://3dprint.nih.gov/discover/3dpx-000207), and a [cartoon model of the HIV virus](http://3dprint.nih.gov/discover/3dpx-000006). Classroom material is also being developed to teach educators how to use scientific 3D prints as hands-on teaching aids.
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Andrew-Bougie-Full-Brain-Side-view-printed-on-ProJet-660.jpg" alt="NIH 3D Print Exchange 3D model and Andrew Bougie Full Brain Side view printed on ProJet 660" %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-314-NIH-3D-Print-Exchange-3D-model-and-Andrew-Bougie-Full-Brain-Side-view-printed-on-ProJet-660.jpg" alt="NIH 3D Print Exchange 3D model and Andrew Bougie Full Brain Side view printed on ProJet 660" >}}
 
 NIH is also sponsoring a [&#8220;Science in 3D&#8221; festival](https://respond.niaid.nih.gov/conferences/Bioinformatics2015/Pages/default.aspx) on January 20th and 21st to promote the use of 3D technology in bioscience. Several aspects of 3D technology will be covered: modeling, printing, and visualization. Subject matter experts in government, academia, and the private sector will present on topics that include bioprinting, physician and patient education, medical and surgical devices, augmented reality for medicine, and 3D technology policies.
 

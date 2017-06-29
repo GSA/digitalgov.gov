@@ -1,14 +1,13 @@
 ---
-url: /2016/02/18/analytics-usa-gov-now-with-agency-specific-dashboards/
 date: 2016-02-18 11:10:51 -0400
 title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
-summary: 'We&rsquo;ve added agency-specific dashboards to analytics.usa.gov! Starting today, you&rsquo;ll see a dropdown from the main analytics.usa.gov page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10 specific'
+summary: 'We&rsquo;ve added agency-specific dashboards to analytics.usa.gov! Starting today, you&rsquo;ll see a dropdown from the main analytics.usa.gov page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10'
 authors:
-  - gray-brooks
   - tlowden
+  - gray-brooks
+  - gabriel-ramirez
   - eric-mill
   - julia-winn
-  - gabriel-ramirez
   - colin-craig
 categories:
   - Data
@@ -39,7 +38,7 @@ tag:
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!
 
-{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-335-Analytics-USA-gov-dashboard-on-Dept-of-Commerce-940-am-Feb-18th-2016-has-24578-visitors.jpg" alt="Analytics dashboard on Dept of Commerce at 9:40 am, Feb 18th 2016, showing 24,578 visitors." %}
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-335-Analytics-USA-gov-dashboard-on-Dept-of-Commerce-940-am-Feb-18th-2016-has-24578-visitors.jpg" alt="Analytics dashboard on Dept of Commerce at 9:40 am, Feb 18th 2016, showing 24,578 visitors." >}}
 
 Starting today, you’ll see a dropdown from the main [analytics.usa.gov](https://analytics.usa.gov/) page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10 specific agencies:
 
@@ -61,11 +60,11 @@ These dashboard pages allow for greater insight into how the public interacts wi
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="width: 50%;vertical-align: top;text-align: center">
-      {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-384-VA-Traffic-by-Country.png" alt="A chart showing the traffic on VA websites by country" %}
+      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-384-VA-Traffic-by-Country.png" alt="A chart showing the traffic on VA websites by country" >}}
     </td>
     
     <td style="width: 50%;vertical-align: top;text-align: center">
-      {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-388-NASA-traffic-by-country.png" alt="A chart showing the traffic on NASA websites by country" %}
+      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/250-x-388-NASA-traffic-by-country.png" alt="A chart showing the traffic on NASA websites by country" >}}
     </td>
   </tr>
 </table>

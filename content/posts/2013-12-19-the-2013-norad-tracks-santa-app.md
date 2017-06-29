@@ -1,18 +1,16 @@
 ---
-url: /2013/12/19/the-2013-norad-tracks-santa-app/
 date: 2013-12-19 1:16:43 -0400
 title: The 2013 NORAD Tracks Santa App
-summary: ' Here Comes Santa Claus, Here Comes Santa Claus, Right Down iOS/Windows/Android Lane&hellip; What started out as a misdirected phone call to NORAD&rsquo;s predecessor agency in 1955 turned into a much anticipated holiday tradition for kids and adults alike. Fifty-eight years later, NORAD is'
+summary: ' Here Comes Santa Claus, Here Comes Santa Claus, Right Down iOS/Windows/Android Lane&hellip; What started out as a misdirected phone call to NORAD&rsquo;s predecessor agency in 1955 turned into a much anticipated holiday tradition for kids and adults alike. Fifty-eight years later, NORAD'
 categories:
   - Mobile
-  - "What's New"
 tag:
   - mobile apps
   - NORAD
   - Thursday Mobile Products
 ---
 
-_{% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NORAD-Tracks-Santa-on-the-App-Store-on-iTunes.png" alt="NORAD Tracks Santa on the App Store on iTunes" %}_
+_{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NORAD-Tracks-Santa-on-the-App-Store-on-iTunes.png" alt="NORAD Tracks Santa on the App Store on iTunes" >}}_
 
 Here Comes Santa Claus, Here Comes Santa Claus, Right Down iOS/Windows/Android Lane…
 

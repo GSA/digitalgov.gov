@@ -1,5 +1,4 @@
 ---
-url: /2016/06/22/the-data-briefing-nasas-new-big-data-strategy/
 date: 2016-06-22 11:00:33 -0400
 title: 'The Data Briefing: NASA’s New Big Data Strategy'
 summary: 'Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA&rsquo;s history, NASA pioneered new ways to create and store data. So, in the world'
@@ -8,7 +7,7 @@ authors:
 categories:
   - Data
   - Managing Digital
-  - 'Strategy and Policy'
+  - 'Strategy &amp; Policy'
 tag:
   - big data
   - data
@@ -16,7 +15,7 @@ tag:
   - The Data Briefing
 ---
 
-Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA’s history, NASA pioneered new ways to create and store data. So, in the world of the [cloud](https://www.WHATEVER/2013/10/17/cloud-computing-in-the-federal-government/), [Internet of Things](https://www.WHATEVER/2015/11/03/trends-on-tuesday-forecasting-the-internet-of-things/), and [intelligent agents](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/), how does NASA deal with its big data needs? {% img="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-NASA-Expedition-46-Soyuz-Approaches-Space-Station-for-Docking-23682901352\_488a786d26\_o.jpg" alt="Expedition 46 of the Soyuz spacecraft as it approaches the International Space Station (I.S.S.) for docking." %} 
+Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA’s history, NASA pioneered new ways to create and store data. So, in the world of the [cloud](https://www.WHATEVER/2013/10/17/cloud-computing-in-the-federal-government/), [Internet of Things](https://www.WHATEVER/2015/11/03/trends-on-tuesday-forecasting-the-internet-of-things/), and [intelligent agents](https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/), how does NASA deal with its big data needs? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-NASA-Expedition-46-Soyuz-Approaches-Space-Station-for-Docking-23682901352\_488a786d26\_o.jpg" alt="Expedition 46 of the Soyuz spacecraft as it approaches the International Space Station (I.S.S.) for docking." caption="" >}} 
 
 Recently, the Chief Knowledge Architect at the NASA Johnson Space Center gave a presentation about [NASA’s Data Strategy](http://www.meetup.com/Federal-Software-Engineers-and-Data-Scientist/events/231624592/). A copy of the presentation and the data strategy can be found on the [Federal Software Engineers and Data Scientist&#8217;s MeetUp site](http://www.meetup.com/Federal-Software-Engineers-and-Data-Scientist/files/). There are some great strategies and lessons learned for other federal agencies that can be used to work with big data challenges.
 
