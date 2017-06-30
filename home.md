@@ -19,4 +19,6 @@ The Playbook asks testers to answer seven yes-or-no questions regarding the acce
 <br>
 <a href="{{ site.baseurl }}/visual-design/getting-started/">Visual design <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
 <br>
+<a href="{{ site.baseurl }}/ux/getting-started/">UX <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+<br>
 <a href="{{ site.baseurl }}/product-manager/getting-started/">Product manager <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
