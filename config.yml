@@ -30,7 +30,7 @@ params:
   cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
 
 permalinks:
-  posts                 : ":year/:month/:day/:title/"
+  posts                 : ":year/:month/:day/:slug/"
 
 taxonomies:
   tag                   : "tag"
