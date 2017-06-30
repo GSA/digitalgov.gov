@@ -45,6 +45,6 @@ _All references to specific brands and/or companies are used only for illustrati
 
 _For more on challenges and prize competitions, read our latest [Challenges articles](https://www.WHATEVER/category/challenges/). Thinking about running a challenge and prize competition at your agency? Connect with over 700 government professionals by joining the [Challenges & Prizes Community](https://www.WHATEVER/communities/challenges-prizes-community/)._ 
 
-_Read our recent articles on [virtual and augmented reality]({{ "tag/virtualaugmented-reality-community" | absURL }}) and the new [AI and Virtual/Augmented Reality Communities](https://www.WHATEVER/2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/)—join both via our main [Communities](https://www.WHATEVER/communities/) page._ 
+_Read our recent articles on [virtual and augmented reality]({{ "tag/virtualaugmented-reality-community" | absURL }}) and the new [AI and Virtual/Augmented Reality Communities]({{< relref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}}—join both via our main [Communities](https://www.WHATEVER/communities/) page._ 
 
 _This post was originally published on the [Office of Science and Technology Policy (OSTP) blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._

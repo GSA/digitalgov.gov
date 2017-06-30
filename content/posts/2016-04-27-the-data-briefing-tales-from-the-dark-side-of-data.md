@@ -25,7 +25,7 @@ I’ve been in several projects where a data solution was implemented because of
 
 Sometimes, data science reads like an Edgar Allen Poe story. Datasets are locked away in a forgotten (computer) prison or trapped behind a (data silo) brick wall. Datasets grow toxic over time and turn into menaces to network security.
 
-Data has to be managed, stored and used carefully and effectively. The ability to create and collect data has become a blessing to the government as it helps us to make better-informed decisions and is a [major component of today’s global economy](https://www.WHATEVER/2015/04/15/the-api-briefing-how-essential-is-government-data-to-the-american-economy/). However, data can also be a curse because of bad decisions based on expired data or lost data. The key is to have clear objectives for collecting and using the data while having a management plan for the lifecycle of the data. Data horror stories are not good for government or the American public.
+Data has to be managed, stored and used carefully and effectively. The ability to create and collect data has become a blessing to the government as it helps us to make better-informed decisions and is a [major component of today’s global economy]({{< relref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}. However, data can also be a curse because of bad decisions based on expired data or lost data. The key is to have clear objectives for collecting and using the data while having a management plan for the lifecycle of the data. Data horror stories are not good for government or the American public.
 
 _Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
 

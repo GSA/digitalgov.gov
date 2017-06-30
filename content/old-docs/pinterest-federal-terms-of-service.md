@@ -18,7 +18,7 @@ authors:
 
 ## Related Links
 
-  * [What is a Terms of Service Agreement?](https://www.WHATEVER/2014/05/13/what-is-a-terms-of-service-and-how-do-i-get-one/)
+  * [What is a Terms of Service Agreement?]({{< relref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}}
   * [Information on Federal Compatible Terms of Service](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/)
   * [List of Federal Terms of Service Agreements](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/)
 

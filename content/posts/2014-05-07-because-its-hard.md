@@ -30,7 +30,7 @@ Agencies opened data sets, built mobile apps and websites, published APIs, creat
 
 Last May, as the final deadlines were met, some asked, “What’s next?”
 
-Hah! Agencies were just getting started. There are now [<span class="s1">more mobile apps</span>](http://apps.usa.gov/), [<span class="s1">more APIs</span>](https://www.data.gov/developers/apis), [more data](https://www.data.gov/metrics) that’s more available, [<span class="s1">more focus on citizen service through data analysis</span>](https://www.WHATEVER/2014/04/01/digital-analytics-program-dap-oceans-of-data/) and [user testing](https://www.WHATEVER/2014/04/14/noaa-national-ocean-service-usability-case-study/), more trials and, yes, even more errors, which means more learning!
+Hah! Agencies were just getting started. There are now [<span class="s1">more mobile apps</span>](http://apps.usa.gov/), [<span class="s1">more APIs</span>](https://www.data.gov/developers/apis), [more data](https://www.data.gov/metrics) that’s more available, [<span class="s1">more focus on citizen service through data analysis</span>]({{< relref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}} and [user testing]({{< relref "2014-04-14-noaa-national-ocean-service-usability-case-study.md" >}}, more trials and, yes, even more errors, which means more learning!
 
 But more isn’t enough. Agencies are working on better. And to keep pushing this rock of government forward, better means solving the tougher and emerging problems—like:
 
@@ -53,6 +53,6 @@ Finished? Nope. Just getting started.
 
 What&#8217;s on your path? What do you need help with? Let us know in the comments.
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article on [Structured Content Models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/), and check back for more articles related to this theme in May._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}, and check back for more articles related to this theme in May._
 
 _Photo Credit: &#8220;Rusted door to JFK&#8217;s nuclear bunker.&#8221; by Gwynne Kostin CC (BY-NC-ND)_

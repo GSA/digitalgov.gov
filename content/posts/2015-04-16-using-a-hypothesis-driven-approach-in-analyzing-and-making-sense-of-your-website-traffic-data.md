@@ -13,7 +13,7 @@ tag:
   - Digital Analytics Program
 ---
 
-At the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP), some of the most frequently asked questions we get are “how can I get access to the DAP data?” and “what do I do with all this data?” We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that it is, indeed, [oceans of data](https://www.WHATEVER/2014/04/01/digital-analytics-program-dap-oceans-of-data/), how do we not “drown” in it, and, perhaps more importantly, how do we make sense of it?
+At the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP), some of the most frequently asked questions we get are “how can I get access to the DAP data?” and “what do I do with all this data?” We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that it is, indeed, [oceans of data]({{< relref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}, how do we not “drown” in it, and, perhaps more importantly, how do we make sense of it?
 
 ## What Questions Are You Trying to Answer?
 

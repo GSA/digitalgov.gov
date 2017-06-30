@@ -16,7 +16,7 @@ tag:
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.
 
-I&#8217;ve discussed key [search engine optimization](https://www.WHATEVER/2015/11/30/the-content-corner-the-balance-between-seo-and-the-user/) (SEO) tips previously and there is no shortage of [SEO content](https://www.WHATEVER/2014/06/13/search-engine-optimization-for-government-websites/) available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
+I&#8217;ve discussed key [search engine optimization]({{< relref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}} (SEO) tips previously and there is no shortage of [SEO content]({{< relref "2014-06-13-search-engine-optimization-for-government-websites.md" >}} available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
 
 # More, More, More&#8230;
 
@@ -50,7 +50,7 @@ Search data can also help you determine if certain site content is not meeting y
 
 # Don’t Forget that Content Pillar
 
-Way back in [my first post](https://www.WHATEVER/2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/), I shared with you the content pillar concept and it remains a wonderful way to solve some of the issues I have raised in this post. By building a pillar around any piece of content it allows you to address both the quantity and the quality content struggle by providing additional content types that users will value.
+Way back in [my first post]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}, I shared with you the content pillar concept and it remains a wonderful way to solve some of the issues I have raised in this post. By building a pillar around any piece of content it allows you to address both the quantity and the quality content struggle by providing additional content types that users will value.
 
 The content pillar can help you develop video, infographics, and other images to include with your content to provide a more engaging experience for the user.
 

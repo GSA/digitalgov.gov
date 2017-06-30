@@ -16,7 +16,7 @@ tag:
   - The Content Corner
 ---
 
-I always think of SEO like the dentist—no one really likes it, but you need to do it. Yet, despite my lack of excitement for the topic, this will be at a minimum my second post ([here&#8217;s the first](https://www.WHATEVER/2015/08/31/the-content-corner-optimize-your-content/)) about the relationship between creating good content and SEO practices.
+I always think of SEO like the dentist—no one really likes it, but you need to do it. Yet, despite my lack of excitement for the topic, this will be at a minimum my second post ([here&#8217;s the first]({{< relref "2015-08-31-the-content-corner-optimize-your-content.md" >}}) about the relationship between creating good content and SEO practices.
 
 Today I want to dive a little more into often overlooked aspects of the content creation process and overall content maintenance.
 
@@ -26,7 +26,7 @@ It&#8217;s common for us in the rush to create content to overlook existing cont
 
 Review your site content and look for areas where duplicate content might be able to be removed or pages that may need to be consolidated. For example, if your site has blogger bios or several pages where “About Us” information is reused, when possible, consider editing the duplicates to add more depth or provide unique information that may be of interest of the user. I’m not advocating just changing a word or two to make it “different” to a search engine, but if the content can be revised based on improving the user’s experience, then go for it. This is a good example of that balance between leveraging good SEO strategy and doing what’s best for the user.
 
-If some of your content is older, you may even have leftovers from the “users don’t scroll” era, causing duplicate page titles, such as “Keeping Things Fresh Page 1”, “Keeping Things Fresh Page 2,” etc. A [content audit](https://www.WHATEVER/2015/03/09/the-content-corner-performing-a-content-audit/) should have cleaned that up, but most of us don’t have the time or resources to perform a full content audit unless it&#8217;s part of a huge redesign or WCMS (web content management system) project, and even then fixing page titles on five year old content may be the furthest thing from our minds.
+If some of your content is older, you may even have leftovers from the “users don’t scroll” era, causing duplicate page titles, such as “Keeping Things Fresh Page 1”, “Keeping Things Fresh Page 2,” etc. A [content audit]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}} should have cleaned that up, but most of us don’t have the time or resources to perform a full content audit unless it&#8217;s part of a huge redesign or WCMS (web content management system) project, and even then fixing page titles on five year old content may be the furthest thing from our minds.
 
 You may also have unintentional duplicate URLs depending on how your WCMS generates them for your content. Two examples of how this can occur are:
 
@@ -35,7 +35,7 @@ You may also have unintentional duplicate URLs depending on how your WCMS genera
 
 Google provides tips on using [canonical URLs](https://support.google.com/webmasters/answer/139066?hl=en) to help you address these issues. Using canonical URLs can also improve your analytics data and allows you to set preferred URLs that your users will see.
 
-One last duplication issue that you may want to investigate and can be fixed using canonical URLs is the preferred domain for your site. Duplication can occur here if your site is configured to show the same content for both www.example.gov or https://example.gov. Google also provides some guidance on [setting your preferred domain](https://support.google.com/webmasters/answer/44231), if this problem is applicable to your agency. The [required switch from http to https](https://www.WHATEVER/2015/09/02/https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites/) should have little or no impact on SEO, so no worries there as long as it is handled correctly.
+One last duplication issue that you may want to investigate and can be fixed using canonical URLs is the preferred domain for your site. Duplication can occur here if your site is configured to show the same content for both www.example.gov or https://example.gov. Google also provides some guidance on [setting your preferred domain](https://support.google.com/webmasters/answer/44231), if this problem is applicable to your agency. The [required switch from http to https]({{< relref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}} should have little or no impact on SEO, so no worries there as long as it is handled correctly.
 
 ## Make Mine Meta {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
 

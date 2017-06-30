@@ -17,7 +17,7 @@ You have started developing your mobile product, but you may be wondering what a
 
 This article was developed as part of the [Mobile Application Development Program](https://digitalgov.sites.usa.gov/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with some general testing strategies, types, tools and testing scripts. The information on these testing pages has been pulled from the Mobile Gov Community of Practice and private sector resources. Specific guidance on testing has been split into four broad categories.
 
-  * [Functionality/Usability](https://www.WHATEVER/2013/05/25/functionality-and-usability-testing-resources/)
+  * [Functionality/Usability]({{< relref "2013-05-25-functionality-and-usability-testing-resources.md" >}}
   * [Security/Privacy](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
   * [Accessibility](https://digitalgov.sites.usa.gov/2013/07/31/mobile-product-accessibility-testing-resources/ "Mobile Product Accessibility Testing Resources")
   * [Performance (how your mobile product affects a device&#8217;s ecosystem)](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-performance-testing-resources/ "Mobile Product Performance Testing")

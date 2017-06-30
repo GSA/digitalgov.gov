@@ -36,7 +36,7 @@ Sullivan suggested that government agencies can also start by building 4 to 6, [
 
   * **Describe your different groups of customers** and primary use cases by different and sometimes conflicting demographics: age, education, upbringing, class, family makeup, and hobbies.
   * **Share these personas with everyone involved** in the project from leadership to technical support.
-  * Consider **drawing a caricature of these personas and giving them names** so your team and organization stakeholders can easily picture and refer to each persona. The [USA.gov team named each of their personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) as they worked to improve customer service.
+  * Consider **drawing a caricature of these personas and giving them names** so your team and organization stakeholders can easily picture and refer to each persona. The [USA.gov team named each of their personas]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} as they worked to improve customer service.
 
 Sullivan noted that personas also help with [agile product development](https://www.WHATEVER/2015/01/16/how-to-run-an-agile-project-in-government/ "How to Run an Agile Project in Government").
 

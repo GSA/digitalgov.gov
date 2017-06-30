@@ -697,13 +697,13 @@ Measuring mobile performance, which is a new channel for most agencies, is gener
 
 The Mobile Gov Community of Practice is working to define practices in mobile measurement and they have created some mobile measurement and analytics practices on the Mobile Gov Wiki. Below we have listed some general approaches taken by agencies when measuring mobile product performance.
 
-**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website](https://www.WHATEVER/2012/06/20/medlineplus-mobile-evaluation/). They measure their performance by asking three questions:
+**Mobile Web**—If you  have a mobile website, as covered in the &#8220;dimensions&#8221; section, your agency should collect data regarding the percentage of traffic coming in from mobile devices. The National Library of Medicine (NLM) has shared an ongoing study of how they’re [measuring effectiveness and quality for their MedlinePlus mobile website]({{< relref "2012-06-20-medlineplus-mobile-evaluation.md" >}}. They measure their performance by asking three questions:
 
   * Who is using MedlinePlus Mobile?
   * How are they using MedlinePlus Mobile?
   * Are they satisfied with their visit to MedlinePlus Mobile?
 
-**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program](https://www.WHATEVER/2012/08/21/sms-or-short-message-service/), they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
+**SMS**—When the Center&#8217;s for Disease Control analyzed their [SMS health alert pilot program]({{< relref "2012-08-21-sms-or-short-message-service.md" >}}, they asked users these questions regarding the program’s effectiveness, user expectations, and loyalty:
 
   * How would you rate your overall  satisfaction with CDC&#8217;s text messaging pilot?
   * How likely are you to use any of the information in the text  messages to improve your health?

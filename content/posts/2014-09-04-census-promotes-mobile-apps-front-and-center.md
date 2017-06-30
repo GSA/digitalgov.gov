@@ -28,7 +28,7 @@ Some other things you can do that we&#8217;ve seen from agencies participating t
   * Integrate your product into related outreach and public affairs messages.
   * Develop a strategy for continual marketing to keep promoting your mobile products after the initial launch.
   * Involve your external partners in your promotion efforts. Tribal, state, and local governments as well as private sector and academic partners can provide valuable assistance in promoting the use of your great mobile products.
-  * Because [mobile usage has surpassed desktop usage for social media](https://www.WHATEVER/2013/11/05/trends-on-tuesday-mobile-surpasses-desktop-for-social-media/), be sure to promote the app through social media.
+  * Because [mobile usage has surpassed desktop usage for social media]({{< relref "2013-11-05-trends-on-tuesday-mobile-surpasses-desktop-for-social-media.md" >}}, be sure to promote the app through social media.
   * Look for opportunities at conferences and seminars where your users meet.
 
 Tell us some other ways agencies can promote mobile products?

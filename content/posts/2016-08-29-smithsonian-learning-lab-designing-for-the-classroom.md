@@ -35,7 +35,7 @@ Employing an online survey of 7,470 responses and conducting interviews and obse
 
 With this finding in-hand, SCLDA and development partner Navigation North pursued a modular approach that emphasized customization and allowed teachers to easily search the Smithsonian collection, organize objects as needed, and upload resources from other sources.
 
-The team convened focus groups and conducted user testing with over 100 teachers that came to Washington, DC from across the country. Rapid [prototyping](https://www.WHATEVER/2014/12/19/making-prototypes-with-tools-you-already-have/), first with paper prototypes and then with a functional test site, fed multiple rounds of iterations. This work was further refined with [beta testing](https://www.WHATEVER/2014/10/06/user-acceptance-testing-versus-usability-testing-whats-the-dif/) in Pittsburgh Public Schools and surrounding Allegheny County.
+The team convened focus groups and conducted user testing with over 100 teachers that came to Washington, DC from across the country. Rapid [prototyping]({{< relref "2014-12-19-making-prototypes-with-tools-you-already-have.md" >}}, first with paper prototypes and then with a functional test site, fed multiple rounds of iterations. This work was further refined with [beta testing]({{< relref "2014-10-06-user-acceptance-testing-versus-usability-testing-whats-the-dif.md" >}} in Pittsburgh Public Schools and surrounding Allegheny County.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Smithsonian-02\_learning\_lab.jpg" alt="Teacher at a prototyping session." >}}
 

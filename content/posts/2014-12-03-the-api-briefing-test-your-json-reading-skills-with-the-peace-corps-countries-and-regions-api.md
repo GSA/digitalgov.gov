@@ -54,7 +54,7 @@ The Peace Corps encourages developers and designers to use the API to create inn
   2. No
   3. projects_list
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](https://www.WHATEVER/2013/04/30/apis-in-government/) _for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< relref "2013-04-30-apis-in-government.md" >}} _for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:Bill.Brantley@wdc.usda.gov)_._
 

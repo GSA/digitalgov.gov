@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Millennial Media released a new research report, [Connected Consumers: Gaining Insights Across Screens](http://www.millennialmedia.com/mobile-insights/industry-research/connected-consumers-gaining-insights-across-screens), examining U.S. digital audiences from January 2014 until January 2015 with some interesting information that reinforces trends [we’ve covered before](https://www.WHATEVER/2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report/). If your users fall into these demographics, you need to [mobilize the content](https://www.WHATEVER/2015/06/01/finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government/) they&#8217;re accessing on mobile devices.
+Millennial Media released a new research report, [Connected Consumers: Gaining Insights Across Screens](http://www.millennialmedia.com/mobile-insights/industry-research/connected-consumers-gaining-insights-across-screens), examining U.S. digital audiences from January 2014 until January 2015 with some interesting information that reinforces trends [we’ve covered before](https://www.WHATEVER/2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report/). If your users fall into these demographics, you need to [mobilize the content]({{< relref "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}} they&#8217;re accessing on mobile devices.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-510-Share-of-Monthly-Online-Minutes-by-Audience.jpg" alt="Share of monthly online minutes use by device (smartphone, tablet or PC) within 3 adult age groups; 18 to 34, 35 to 54, and 55 or older." >}}
 
@@ -30,7 +30,7 @@ Millennial Media cites in the report, “Adults 35-54 grew their share of monthl
 
 ## **Larger Phones or Phablets Use Grows while Smaller Phone Use Shrinks**
 
-American consumers owning smartphones with screens smaller than 4 inches declined 49% since last year, while those with 5 to 6 inch screens grew 161%. [We’ve reported on several studies pointing to this trend](https://www.WHATEVER/2015/05/12/trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow/), and this report reinforces the growth of the large phone form factor. Agencies need to [test on emulators](https://www.WHATEVER/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/), many devices and operating systems when they release new mobile products.
+American consumers owning smartphones with screens smaller than 4 inches declined 49% since last year, while those with 5 to 6 inch screens grew 161%. [We’ve reported on several studies pointing to this trend]({{< relref "2015-05-12-trends-on-tuesday-consumer-purchases-and-usage-of-tablets-shrink-as-phablets-grow.md" >}}, and this report reinforces the growth of the large phone form factor. Agencies need to [test on emulators]({{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}, many devices and operating systems when they release new mobile products.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-539-Cross-Device-Behavior-by-Content.jpg" alt="Cross-Device Behavior by Content" >}}
 

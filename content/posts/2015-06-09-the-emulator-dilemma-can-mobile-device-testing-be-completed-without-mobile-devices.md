@@ -19,7 +19,7 @@ tag:
   - user experience
 ---
 
-Government agencies have created a [variety of apps to meet the needs of the public]({{ "tag/thursday-mobile-products" | absURL }}). As you join in on the [mobile first trend](https://www.WHATEVER/2013/09/30/mobile-first/) and begin developing your shiny new mobile application, you will need to test it.
+Government agencies have created a [variety of apps to meet the needs of the public]({{ "tag/thursday-mobile-products" | absURL }}). As you join in on the [mobile first trend]({{< relref "2013-09-30-mobile-first.md" >}} and begin developing your shiny new mobile application, you will need to test it.
 
 There are a basic set of questions that must be answered:
 

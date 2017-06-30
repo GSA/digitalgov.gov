@@ -22,6 +22,6 @@ The most impactful trend for government agencies might be best communicated thro
 
 In the U.S., tablets and smartphones are driving the majority of digital media usage for 18-to 54-year-olds. People 55 and older are on the cusp of breaking the 50% barrier for mobile and tablet usage.
 
-The exact percentage of device time is a little different than the [Millennial Media report](https://www.WHATEVER/2015/07/14/trends-on-tuesday-adults-use-mobile-devices-most-of-the-time/) we shared a couple weeks ago, but the trend is the same—young people use mobile as their first and most frequent digital platform, and people over 55 are also quickly making that shift.
+The exact percentage of device time is a little different than the [Millennial Media report]({{< relref "2015-07-14-trends-on-tuesday-adults-use-mobile-devices-most-of-the-time.md" >}} we shared a couple weeks ago, but the trend is the same—young people use mobile as their first and most frequent digital platform, and people over 55 are also quickly making that shift.
 
-[Read more mobile trends](https://www.WHATEVER/category/mobile/) and how to [prepare your agency to be mobile-friendly](https://www.WHATEVER/2015/05/04/helpful-resources-to-help-make-your-content-mobile-friendly/) on DigitalGov.
+[Read more mobile trends](https://www.WHATEVER/category/mobile/) and how to [prepare your agency to be mobile-friendly]({{< relref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}} on DigitalGov.

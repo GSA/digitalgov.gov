@@ -12,12 +12,12 @@ tag:
   - open data
 ---
 
-## What Are APIs? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+## What Are APIs? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}
 
 An Application Programming Interface, or API, is a set of software instructions and standards that allows machine to machine communication—like when a website uses a widget to share a link on Twitter or Facebook.
 
 [youtube http://www.youtube.com/watch?v=BVeiRCEwJx8]
-  
+
 [_[Extended Version]_](http://www.youtube.com/watch?v=nyqHClC_UXo)
 
 When we talk about APIs we are referring to Web services or Web APIs. This aligns with the current trends to use Web APIs to support sharing content and data between communities and applications. The content that is created in one place can be dynamically posted and updated in multiple locations on the Web, mobile, TV, etc.
@@ -84,7 +84,7 @@ APIs are mostly either read-only or read-write. A general way to differentiate t
 
 APIs need to provide value to your agency and to developers. The best way to make that happen is to tie an API program to your agency mission.
 
-  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#audit "How to Get Started with APIs").**** 
+  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#audit "How to Get Started with APIs").****
   2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#assemble-components "How to Get Started with APIs").
   3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#implement "How to Get Started with APIs").
   4. **Track Progress**: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more [tracking the progress](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
@@ -92,17 +92,17 @@ APIs need to provide value to your agency and to developers. The best way to mak
 
 ## Resources and Tools for Building APIs
 
-  * [Hosted API Tools](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#hosted-api-tools)
-  * [API Standards Template](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#api-standards-template)
-  * [Examples of APIs in Government](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#examples-apis-government)
-  * [API Education Series](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#api-education-series)
-  * [Case Studies](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#case-studies)
-  * [How to Make APIs—An Overview](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#how-to-make-apis-overview)
-  * [Producing APIs through Data.gov](https://www.WHATEVER/2013/04/30/producing-apis-through-data-gov/)
-  * [API Release Kit](https://www.WHATEVER/2013/05/16/api-release-kit/)
-  * [/Developer Kit](https://www.WHATEVER/2013/05/21/developer-kit/)
-  * [U.S. Government APIs Listserv](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#government-api-listserv)
-  * [Recommended Reading](https://www.WHATEVER/2013/03/12/resources-and-tools-for-apis#recommended-reading)
+  * [Hosted API Tools]({{< relref "2013-03-12-resources-and-tools-for-apis.md#hosted-api-tools" >}}
+  * [API Standards Template]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-standards-template" >}}
+  * [Examples of APIs in Government]({{< relref "2013-03-12-resources-and-tools-for-apis.md#examples-apis-government" >}}
+  * [API Education Series]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-education-series" >}}
+  * [Case Studies]({{< relref "2013-03-12-resources-and-tools-for-apis.md#case-studies" >}}
+  * [How to Make APIs—An Overview]({{< relref "2013-03-12-resources-and-tools-for-apis.md#how-to-make-apis-overview" >}}
+  * [Producing APIs through Data.gov]({{< relref "2013-04-30-producing-apis-through-data-gov.md" >}}
+  * [API Release Kit]({{< relref "2013-05-16-api-release-kit.md" >}}
+  * [/Developer Kit]({{< relref "2013-05-21-developer-kit.md" >}}
+  * [U.S. Government APIs Listserv]({{< relref "2013-03-12-resources-and-tools-for-apis.md#government-api-listserv" >}}
+  * [Recommended Reading]({{< relref "2013-03-12-resources-and-tools-for-apis.md#recommended-reading" >}}
 
 ## Common Questions About APIs
 
@@ -122,10 +122,10 @@ No more than you already do. In regards to public material, third parties that w
 
 Branding is much more than the URL of the content. Many agencies are finding that their brand _increases_, through savvy use of APIs and by allowing third parties to benefit from dynamic access to their content. Any concerns in regards to agency brand are addressed technologically and through the terms of service.
 
-  * **How does this relate to cloud computing? ** 
+  * **How does this relate to cloud computing? **
 
 The growth of cloud computing and APIs in government complement each other—both support more agile development and a more responsive and less expensive infrastructure. However, they can also be viewed independently of each other. The philosophy and technique of APIs function equally well, regardless of whether the host server is housed locally or &#8220;in the cloud&#8221;.
 
-  * **What are the technical considerations for success of APIs? ** 
+  * **What are the technical considerations for success of APIs? **
 
 The goal of an API is to provide reliable access to a specific service, to provide certain information or services. The technical considerations are similar to those of a website: uptime, timeliness, and a clear user experience (in this case, for developers).

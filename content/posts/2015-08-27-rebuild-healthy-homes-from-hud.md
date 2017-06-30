@@ -31,4 +31,4 @@ The app focuses on useful criteria for volunteers, professionals, and others inv
 
 The Rebuild Healthy Homes app serves as a “how-to” guide while incorporating healthy homes principles and concepts.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/)._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}._

@@ -52,7 +52,7 @@ Stephanie Thum, Vice President of Customer Experience at the [Export-Import Bank
 
 “The nature of the work we do at our agency is so complex (we finance and insure exports toward the creation of U.S. jobs) that incoming inquiries can be very nuanced, such that FAQs don’t fully answer the customer’s question, which can be frustrating,” Thum said. “There is also the matter of a vernacular that is not shared. We may refer to a transaction or product in one way while the customer uses a different vernacular.”
 
-DigitalGov previously covered how [ExIm improved their contact centers](https://www.WHATEVER/2014/12/04/ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters/) to deliver better customer experience.
+DigitalGov previously covered how [ExIm improved their contact centers]({{< relref "2014-12-04-ex-im-bank-announces-improved-customer-contact-center-to-better-serve-u-s-exporters.md" >}} to deliver better customer experience.
 
 ## FAQ Maintenance Difficulties—And One Solution
 

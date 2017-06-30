@@ -36,7 +36,7 @@ Here’s a real life example: If the link above led to an article about 3D print
 
 ## Linking For Good SEO
 
-Links affect the search engine optimization (SEO) of your website, and [SEO is important for government websites](https://www.WHATEVER/2013/05/02/why-government-websites-need-seo/). Search engines place weight on keywords that are part of links, and linking to credible pages is good for SEO.
+Links affect the search engine optimization (SEO) of your website, and [SEO is important for government websites]({{< relref "2013-05-02-why-government-websites-need-seo.md" >}}. Search engines place weight on keywords that are part of links, and linking to credible pages is good for SEO.
 
 [Search engines use links](http://moz.com/blog/10-illustrations-on-search-engines-valuation-of-links) to analyze the popularity of websites and pages based on the number and popularity of pages linking to them. They also use links for metrics like trust, spam, and authority, according to Ammie Farraj Feijoo, Manager of [DigitalGov Search](http://search.WHATEVER/). Trustworthy sites tend to link to other trusted sites, while spammy sites receive very few links from trusted sources. Grow your [link profile](http://moz.com/beginners-guide-to-seo/growing-popularity-and-links) to improve your SEO and increase traffic to your website from search engines.
 
@@ -68,8 +68,8 @@ Rubin emphasized that agencies should conduct [usability testing](https://www.WH
 
 Here is a list of tips your agency can use when adding links to your content. Linking tips were compiled from Pernice’s article as well as another Nielsen Norman Group article, [Writing Hyperlinks: Salient, Descriptive, Start with Keyword](http://www.nngroup.com/articles/writing-links/).
 
-  * Good links are **descriptive**. If you want to direct users to a page about [mobile trends among Hispanic millennials](https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/), a link to the keyword “mobile” is too vague and requires users to read more text to understand the context.
-  * Be **concise**. Accurately describe the page you are linking to, but don’t go overboard. (This is also a good [plain language](https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/) tactic!)
+  * Good links are **descriptive**. If you want to direct users to a page about [mobile trends among Hispanic millennials]({{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}, a link to the keyword “mobile” is too vague and requires users to read more text to understand the context.
+  * Be **concise**. Accurately describe the page you are linking to, but don’t go overboard. (This is also a good [plain language]({{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}} tactic!)
   * Links should be in **contrast** to the background color and surrounding text. Users are looking for visual cues. The [Department of Labor](http://www.dol.gov/) offsets links in red, and when you hover over a link, the text becomes underlined and turns to blue.
   * **Fix** or remove broken links. Broken links frustrate users, undermine your credibility, and negatively impact your SEO.
   * Link when **necessary**, but don’t spam your readers by linking every word.

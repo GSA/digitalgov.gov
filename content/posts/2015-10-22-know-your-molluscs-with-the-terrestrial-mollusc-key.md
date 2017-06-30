@@ -26,11 +26,11 @@ The app, specifically designed to assist in the identification of adult terrestr
 
 You are able to identify differences between multiple species based on the features you select. Depending on the species you pick, the app filters the features available to you for identifying differences. The “Find Best” option provides the fastest identification and displays the image of the specimen based on the remaining entities. Tapping on any thumbnail image brings up vivid photographs from the gallery.
 
-Federal, state and other agencies or organizations within the U.S. are winning their [mobile moments](https://www.WHATEVER/2015/10/07/is-your-agency-winning-its-mobile-moments/) at U.S. ports of entry with this app which includes species of quarantine significance as well as invasive and contaminant mollusc species.
+Federal, state and other agencies or organizations within the U.S. are winning their [mobile moments]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}} at U.S. ports of entry with this app which includes species of quarantine significance as well as invasive and contaminant mollusc species.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Terrestrial-Mollusc-Key-app-slug-with-arrows-indicating-constricted-tail.jpg" alt="Screencapture from the Terrestrial Mollusc Key app, a slug with arrows indicating constricted tail" >}}
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt](https://www.WHATEVER/2015/05/21/start-sleuthing-with-the-great-federal-mobile-product-hunt/)._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}._
 
 <div class="sharedaddy sd-sharing-enabled">
 </div>

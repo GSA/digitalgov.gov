@@ -26,6 +26,6 @@ Looking back on Earth, there is a <a href="https://api.nasa.gov/api.html#earth" 
 
 API.NASA.gov is off to a promising start, and I encourage developers to check regularly in to see what new API offerings are available. I also encourage developers to inspect the large catalog of NASA datasets to find the next promising API. NASA has one of the richest set of data resources in the federal government and probably even among the academic community. Sign up for your NASA API key today!
 
-_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government](https://www.WHATEVER/2013/04/30/apis-in-government/) for more information._
+_*API – Application Programming Interface; how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}} for more information._
 
 _Each week, “[The API Briefing]({{ "tag/wednesday-api-briefing" | absURL }})” will showcase government APIs and the latest API news and trends. Visit this column every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>. All opinions are my own and do not reflect the opinions of the USDA and GSA._

@@ -15,7 +15,7 @@ tag:
   - infrastructure
 ---
 
-_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)_.
+_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}_.
 
 > “All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.” &#8211; [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist))
 
@@ -51,7 +51,7 @@ At any step in this process, we were always able to go back to our zone file and
   <em>Read more of this 5-part series:</em>
 </h3>
 
-  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)
-  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All](https://www.WHATEVER/2016/09/02/quality-speed-and-lower-costs-yes-you-can-have-it-all/)
-  * [Let’s Encrypt those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](https://www.WHATEVER/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/)
+  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}
+  * [Quality, Speed, and Lower Costs: Yes, You Can Have It All]({{< relref "2016-09-02-quality-speed-and-lower-costs-yes-you-can-have-it-all.md" >}}
+  * [Let’s Encrypt those CNAMES, Shall We?]({{< relref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}}
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< relref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}}

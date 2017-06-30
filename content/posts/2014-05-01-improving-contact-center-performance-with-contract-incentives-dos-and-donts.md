@@ -55,6 +55,6 @@ _Learn more about the [Government Contact Center Council](https://www.WHATEVER/c
 
 Take a look at the other Contact Center articles we published in April:
 
-  * [Customer Satisfaction: Innovating with Lack of Resources](https://www.WHATEVER/2014/04/21/customer-satisfaction-innovating-with-lack-of-resources/)
-  * [Trends on Tuesday: How Contact Centers are Adapting to the Mobile User](https://www.WHATEVER/2014/04/22/trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user/)
-  * [Need Help Responding to Facebook & Twitter Questions? Use Your Contact Center Customer Service Experts](https://www.WHATEVER/2014/04/30/need-help-responding-to-facebook-twitter-questions-use-your-contact-center-customer-service-experts/)
+  * [Customer Satisfaction: Innovating with Lack of Resources]({{< relref "2014-04-21-customer-satisfaction-innovating-with-lack-of-resources.md" >}}
+  * [Trends on Tuesday: How Contact Centers are Adapting to the Mobile User]({{< relref "2014-04-22-trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user.md" >}}
+  * [Need Help Responding to Facebook & Twitter Questions? Use Your Contact Center Customer Service Experts]({{< relref "2014-04-30-need-help-responding-to-facebook-twitter-questions-use-your-contact-center-customer-service-experts.md" >}}

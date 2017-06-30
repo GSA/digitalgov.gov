@@ -19,9 +19,9 @@ Journey maps are a visual representation of a customer’s end to end journey wi
 
 Journey maps describe a customer’s entire journey, even the parts that occur before and after contact with your organization. They typically contain elements such as the customer’s attitudes, emotions, and needs.
 
-We recently [updated USA.gov’s personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
+We recently [updated USA.gov’s personas]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
 
-We have a lot of data that we regularly analyze, and it tells us a lot about our customers’ journeys within a channel, but we knew we needed to better understand our customers’ journeys across channels. This is a best practice to better understand what a customer experiences, where there are disconnects in information, and where improvements can be made to your website, contact center [interactive voice response](https://www.WHATEVER/2015/04/30/digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers/) recordings, or service delivery on any channel.
+We have a lot of data that we regularly analyze, and it tells us a lot about our customers’ journeys within a channel, but we knew we needed to better understand our customers’ journeys across channels. This is a best practice to better understand what a customer experiences, where there are disconnects in information, and where improvements can be made to your website, contact center [interactive voice response]({{< relref "2015-04-30-digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers.md" >}} recordings, or service delivery on any channel.
 
 ## Preparation is Key
 

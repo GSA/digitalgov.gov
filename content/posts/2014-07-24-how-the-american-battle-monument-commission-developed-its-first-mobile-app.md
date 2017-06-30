@@ -27,7 +27,7 @@ tag:
 
 They did face some challenges, but as this was their first mobile app, they were not only able to get their feet wet, but they also learned valuable lessons to help them create future mobile apps for their other memorial sites.
 
-[The Pointe Du Hoc app](https://www.WHATEVER/2013/01/24/pointe-du-hoc-battle-site-mobile-app/) tells the stories of the 2nd and 5th Ranger Battalion who found themselves in Northern France and on cliffs on D-Day. The app allows you to navigate through: an introduction, chronology, key facts, a tour menu, a map, and even points of interest. The idea to include all of these features was a process the team discussed both internally and with their developers. Their team did ask for recommendations and often asked them to see their ideas before approving them.
+[The Pointe Du Hoc app]({{< relref "2013-01-24-pointe-du-hoc-battle-site-mobile-app.md" >}} tells the stories of the 2nd and 5th Ranger Battalion who found themselves in Northern France and on cliffs on D-Day. The app allows you to navigate through: an introduction, chronology, key facts, a tour menu, a map, and even points of interest. The idea to include all of these features was a process the team discussed both internally and with their developers. Their team did ask for recommendations and often asked them to see their ideas before approving them.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-445-ABMC-American-Battle-Monument-Commission-app-menu.jpg" alt="250 x 445 ABMC American Battle Monument Commission app menu" >}}Throughout the process of developing the app, they learned some valuable lessons such as:
 

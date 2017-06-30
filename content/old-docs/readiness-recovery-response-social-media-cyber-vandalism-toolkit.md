@@ -120,9 +120,9 @@ This type of authentication verifies a user attempting to access a device or sys
   * Webinar: [Operations Security (OPSEC) & Social Media: Balancing Security, Secrecy, & Transparency](https://www.youtube.com/watch?v=aa7BKJ6sk8g)
   * Webinar: [How to Recover from a Social Media Crisis](https://www.youtube.com/watch?v=K0yy3wviTvM)
   * Webinar: [How Government Can Prepare for and Respond to Social Media Hacks](https://www.youtube.com/watch?v=tesgduqeyjI)
-  * Post: [Beware the Cyber Security House of Horrors](https://www.WHATEVER/2014/10/30/cyber-house-of-horrors/)
-  * Post: [Twitter&#8217;s Two Step Verification Process](https://www.WHATEVER/2013/05/31/twitters-two-step-verification-process/)
-  * Post: [Government Must Respond Rapidly to Social Media Hacking](https://www.WHATEVER/2013/04/25/government-must-respond-rapidly-to-social-media-hacking/)
+  * Post: [Beware the Cyber Security House of Horrors]({{< relref "2014-10-30-cyber-house-of-horrors.md" >}}
+  * Post: [Twitter&#8217;s Two Step Verification Process]({{< relref "2013-05-31-twitters-two-step-verification-process.md" >}}
+  * Post: [Government Must Respond Rapidly to Social Media Hacking]({{< relref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}}
 
 # Recovery: Phase 2
 

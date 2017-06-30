@@ -79,7 +79,7 @@ Each agency is unique and operates under its own set of authorities, and GSA its
   * Use the [Model Terms of Service Agreement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB, 5 pages, October 2011) as your starting point and tailor it to your needs.
   * Make sure your agency approves the use of the software or service for your job (be ready to discuss privacy, security, 508 requirements, etc.).
   * Help identify a point of contact at the company for your agency to work with.
-  * Once you’re done getting an amended TOS, share the good news with your community through [blog posts](https://www.WHATEVER/2014/03/27/gsa-introduces-news-genius-to-decode-government-web/) on DigitalGov.gov and [webinars](https://www.WHATEVER/digitalgov-university/) through DigitalGov University or your [Community of Practice](https://www.WHATEVER/communities/).
+  * Once you’re done getting an amended TOS, share the good news with your community through [blog posts]({{< relref "2014-03-27-gsa-introduces-news-genius-to-decode-government-web.md" >}} on DigitalGov.gov and [webinars](https://www.WHATEVER/digitalgov-university/) through DigitalGov University or your [Community of Practice](https://www.WHATEVER/communities/).
 
 ## **For more information**
 

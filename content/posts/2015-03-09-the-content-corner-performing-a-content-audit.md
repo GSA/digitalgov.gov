@@ -25,7 +25,7 @@ Audit. It&#8217;s a word that generally has no positive connotations whatsoever.
 
 Based on the size of your site and staff, getting started may mean completely different levels of effort. Generally, the process begins with either a filtered search of your content repository or referencing your site [analytics](https://www.WHATEVER/services/dap/) (such as Google Analytics) or a combination of both. Using your site analytics tool is important in understanding what content is of the greatest value to the customer. Commonly, the most popular content on your site is not the content that you think it is or want it to be. Trust your usage statistics and plan your actions around them. One of the greatest mistakes usually made during a content audit is to simply remove content because it is old. Some content is considered [evergreen](http://www.copyblogger.com/write-evergreen-blog-posts/) if it remains relevant and popular despite its age.
 
-As you are beginning this comprehensive review, another important thing to keep in mind is to categorize or find themes among your content. A couple of techniques that provide an organic way of dealing with existing content are the [content pillar](https://www.WHATEVER/2015/02/09/the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy/) and [trending events](https://www.WHATEVER/2015/03/02/the-content-corner-catching-a-wave/).
+As you are beginning this comprehensive review, another important thing to keep in mind is to categorize or find themes among your content. A couple of techniques that provide an organic way of dealing with existing content are the [content pillar]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} and [trending events]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}}.
 
 ## Teach Old Content New Tricks
 
@@ -41,7 +41,7 @@ Even for content that will definitely remain, it makes sense during this houseke
 
   * Can the title or headline be improved to better fit your current strategy?
   * Are the tags or metadata still useful or do they need an update?
-  * Are there any broken [links](https://www.WHATEVER/2015/02/25/avoid-weak-links-in-your-digital-chain/) inside the content? Can they be fixed or replaced with better ones?
+  * Are there any broken [links]({{< relref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}} inside the content? Can they be fixed or replaced with better ones?
   * Are the images used in the content still relevant? Do they serve a strong purpose of supporting the overall goal of the content?
 
 The items in this list also remind us that when dealing with existing content, we may find items that were created before current strategies or style guidelines existed. Not that any of us have ever done this, but maybe some of the content was rushed online and is missing metadata or tags? Maybe it misses the mark on headline or headings or bullets? Perhaps it was created before the light came on about things like [UX](https://www.WHATEVER/category/ux/) or content usability? Now is the time to rehabilitate, if you will, this wayward content.

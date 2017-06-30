@@ -22,7 +22,7 @@ Developers can access the same data using a Web service Uniform Resource Locator
 
 So, how can an app developer best use RID to build an app (or apps)? One strategy is to download all of the data through the API into a database. Segment the data into several parts by organization, recreational facilities, geography, and so on. Then, use a series of successive selections to search only the most relevant section of the database. An app can also do an automated search using the geographical positioning system (GPS) function of the smartphone. There is an amazing amount of useful data in RID, which only needs a smart and responsive user interface to realize RID&#8217;s value fully.
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_](https://www.WHATEVER/2013/04/30/apis-in-government/) _for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< relref "2013-04-30-apis-in-government.md" >}} _for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:Bill.Brantley@wdc.usda.gov)_._
 

@@ -41,7 +41,7 @@ _Here are some tools and templates to help you create better user experiences. I
 
   * Veteran&#8217;s Affairs &#8211; [Voices of Veterans research](http://www.innovation.va.gov/hcd.asp)
   * [USDA Personas and Use Cases](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Marsh-Personas.pdf) (PDF, 1.7 MG, Dec. 2014)
-  * [GSA Open Opportunity Personas](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/OPENOPPS-personas-final.pptx.pptx) (PPT, 94K, Dec. 2014) and [article](https://www.WHATEVER/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities/) about creating them
+  * [GSA Open Opportunity Personas](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/OPENOPPS-personas-final.pptx.pptx) (PPT, 94K, Dec. 2014) and [article]({{< relref "2014-12-08-from-taste-testers-to-explorers-developing-personas-for-open-opportunities.md" >}} about creating them
   * [Persona Template](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/Persona-Template.pptx) (PPT, 254 KB, 4 slides, May 2014)
 
 #### 6. Accessibility (general information):

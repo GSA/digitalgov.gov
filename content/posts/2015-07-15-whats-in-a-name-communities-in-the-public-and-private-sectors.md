@@ -30,12 +30,12 @@ There are a few ways that government and private communities are alike. Check ou
 
   * Both can co-create through communities. What better way to improve or create a product or service than to ask current or potential users? For example, [Web Content Managers](https://www.WHATEVER/communities/web-managers-forum/) frequently reach out to other community members to test the new version of a website. Showing that you are open to feedback goes a long way.
   * Both can share information. Private sector communities can blog and ask questions, and so can we. Many of you have written articles for [DigitalGov,](https://www.WHATEVER/) or asked a question on one of our community listservs.
-  * Being too self serving is one _don&#8217;t_ in both public and private communities. If members get the impression that they are being used for sales purposes or to increase numbers, they will leave. As [Ty Manuel wrote](https://www.WHATEVER/2015/07/06/the-content-corner-creating-good-content-is-hard/), **good content is key** because it gets shared, builds relationships and establishes trust.
+  * Being too self serving is one _don&#8217;t_ in both public and private communities. If members get the impression that they are being used for sales purposes or to increase numbers, they will leave. As [Ty Manuel wrote]({{< relref "2015-07-06-the-content-corner-creating-good-content-is-hard.md" >}}, **good content is key** because it gets shared, builds relationships and establishes trust.
 
 Getting more involved in a community is a great way for federal employees to do their jobs better and grow their careers. Here are some ways you can get started:
 
   * [Share your knowledge by writing articles for DigitalGov](https://www.WHATEVER/join-digitalgov/).
-  * Join [communities, so you can learn from everyone](https://www.WHATEVER/2015/07/07/wont-you-help-your-neighbor-communities-theme-month-on-digitalgov/).
+  * Join [communities, so you can learn from everyone]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}.
   * Increase your skills by trying out online tools for communities. For example, GSA employees use Salesforce Chatter, and [Digital Analytics Program customers collaborate on Yammer](https://www.WHATEVER/services/dap/).
   * Have a skill you don&#8217;t get to use everyday at work? Federal agencies post tasks they need done through the [Open Opportunities Program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/). From there, you can create a profile on the [Open Opportunities site](https://openopps.WHATEVER/) and join their LinkedIn group.
   * Take advantage of [events where you can network with communities](https://www.WHATEVER/digitalgov-university/).

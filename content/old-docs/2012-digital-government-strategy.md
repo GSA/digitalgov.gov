@@ -18,8 +18,6 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 ## Related Links
 
-{{/* https://www.WHATEVER/2012/08/29/digital-government-strategy-milestones-report/*/}}
-
   * [Digital Government Strategy Milestones Report]({{< relref "2012-08-29-digital-government-strategy-milestones-report.md" >}})
   * [A Strategy for American Innovation](https://obamawhitehouse.archives.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) (PDF, 1.22 MB, 120 pages, October 2015)
   * [Executive Order—Making Open and Machine Readable the New Default for Government Information](http://obamawhitehouse.archives.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) (May 2013)

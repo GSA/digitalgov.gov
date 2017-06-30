@@ -17,7 +17,7 @@ tag:
   - infrastructure
 ---
 
-_This is post 2 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)._
+_This is post 2 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}._
 
 The last major infrastructure upgrade that [DigitalGov Search](http://search.WHATEVER) had was in 2010. Not only has technology evolved significantly since then, but so have business models for right-sizing costs. Moving to Amazon Web Services (AWS) infrastructure allowed us to improve reliability by creating self-healing servers and distributing the service across four physically isolated datacenters, and reduce datacenter costs by 40% per month — no longer do we have to pay for peak throughput capacity overnight, on weekends, or during other predictably low-traffic periods.
 
@@ -105,7 +105,7 @@ By applying some very commonly-understood modern operations practices — role-b
   <em>Read more of this 5-part series:</em>
 </h3>
 
-  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment](https://www.WHATEVER/2016/08/18/the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment/)
+  * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}
   * <span style="line-height: 1.5"><a href="https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a> </span>
-  * [Let’s Encrypt Those CNAMES, Shall We?](https://www.WHATEVER/2016/09/07/lets-encrypt-those-cnames-shall-we/)
-  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem](https://www.WHATEVER/2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem/)
+  * [Let’s Encrypt Those CNAMES, Shall We?]({{< relref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}}
+  * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< relref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}}

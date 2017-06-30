@@ -28,7 +28,7 @@ But how do you build better websites for mobile users? The first step is to unde
 
 ## DAP Mobile Analytics Capabilities
 
-DAP can help website teams understand friction points and UX/navigation issues on mobile sites; [mobile site speed](https://www.WHATEVER/2015/09/16/speed-matters-optimizing-your-website-for-maximum-performance/); and [mobile traffic](https://www.WHATEVER/2016/02/05/4-tips-for-analyzing-mobile-traffic-with-dap/) sources, such as organic or paid search. The analytics capabilities offered include all of the out-of-the box Google Analytics reports, such as traffic sources, URLs, and Referring Domains; as well as mobile specific reports including device type and category. For now, DAP mobile analytics do not track standalone mobile apps, but may do so in the future.
+DAP can help website teams understand friction points and UX/navigation issues on mobile sites; [mobile site speed]({{< relref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}; and [mobile traffic](https://www.WHATEVER/2016/02/05/4-tips-for-analyzing-mobile-traffic-with-dap/) sources, such as organic or paid search. The analytics capabilities offered include all of the out-of-the box Google Analytics reports, such as traffic sources, URLs, and Referring Domains; as well as mobile specific reports including device type and category. For now, DAP mobile analytics do not track standalone mobile apps, but may do so in the future.
 
 ## Questions to Guide Your Mobile Reporting
 

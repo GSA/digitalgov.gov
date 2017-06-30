@@ -65,5 +65,5 @@ tag:
   More responsive design examples:
 </p>
 
-  * [Medicare.gov](https://www.WHATEVER/2013/06/27/medicare-gov-mobile-website/)
-  * [Housing & Urban Development Office of Inspector General](https://www.WHATEVER/2013/08/01/hud-office-of-inspector-general-responsive-design-website/)
+  * [Medicare.gov]({{< relref "2013-06-27-medicare-gov-mobile-website.md" >}}
+  * [Housing & Urban Development Office of Inspector General]({{< relref "2013-08-01-hud-office-of-inspector-general-responsive-design-website.md" >}}

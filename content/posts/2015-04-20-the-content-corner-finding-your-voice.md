@@ -16,7 +16,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Speech-Bubble-Key-pressureUA-iStock-Thinkstock-ThinkstockPhotos-140790012.jpg" alt="Speech Bubble Key" caption="" >}} 
 
-No, this is not another post about [podcasting](https://www.WHATEVER/2015/04/06/the-content-corner-should-you-be-podcasting/) but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an [article from Larsen Design](http://larsen.com/insights/creating-the-right-brand-voice/) states, &#8220;You don&#8217;t want to sound like Brahms when your audience is listening to Beck.&#8221; Have you stopped to consider what you sound like to your user, and is it appropriate for your subject matter, agencies, or audience?
+No, this is not another post about [podcasting]({{< relref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}} but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an [article from Larsen Design](http://larsen.com/insights/creating-the-right-brand-voice/) states, &#8220;You don&#8217;t want to sound like Brahms when your audience is listening to Beck.&#8221; Have you stopped to consider what you sound like to your user, and is it appropriate for your subject matter, agencies, or audience?
 
 # What Does Your Agency Sound Like?
 
@@ -24,7 +24,7 @@ As most of us are aware, online brands both large and small must be authentic to
 
 # Listen and Learn
 
-After turning your attention inward and focusing on the mission of your agency and how that should influence your tone and voice, it is beneficial to turn your attention outwards. At this stage you should have a decent idea of your core audience and their demographic. Some agencies certainly have a harder time of this and essentially speak to the entire United States; however, they should have [personas](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/) and can use those as a guide or point of reference. Then listen to this audience. Watch how they interact with your agency and how they communicate on forums and various social media platforms. How do they speak to each other? What is their general tone? Learning and understanding how your audience generally communicates will help you communicate with them in turn.
+After turning your attention inward and focusing on the mission of your agency and how that should influence your tone and voice, it is beneficial to turn your attention outwards. At this stage you should have a decent idea of your core audience and their demographic. Some agencies certainly have a harder time of this and essentially speak to the entire United States; however, they should have [personas]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}} and can use those as a guide or point of reference. Then listen to this audience. Watch how they interact with your agency and how they communicate on forums and various social media platforms. How do they speak to each other? What is their general tone? Learning and understanding how your audience generally communicates will help you communicate with them in turn.
 
 # Voice and Tone
 

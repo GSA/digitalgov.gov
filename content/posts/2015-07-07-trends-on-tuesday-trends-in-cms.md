@@ -27,7 +27,7 @@ According to the [Business Insider](http://www.businessinsider.com/sc/2015-conte
   * [Open-source development](http://opensource.com/business/15/5/open-source-clear-choice-cms-development) use will increase,
   * CMS will become a more integral part of an organization’s content strategy. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-250-Process-of-creating-site-Process-coding-and-programming-Design-and-programming-enotmaks-iStock-Thinkstock-464986388.jpg" alt="Graphic illustration of a machine that processes pieces of content and produces a web page." caption="" >}} 
 
-A CMS [can also help you mobilize](https://www.WHATEVER/2014/09/03/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap/) a new website out of the box.
+A CMS [can also help you mobilize]({{< relref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}} a new website out of the box.
 
 Some stats about CMS reveal WordPress has been the leader for some time, commanding over [70% of the market](http://www.fiercecontentmanagement.com/story/report-wordpress-leads-pack-most-used-cms/2015-05-13) because of its ease of use [despite some vulnerabilities](http://www.engadget.com/2015/05/07/wordpress-xss-bug/). But with marketplace changes and current trends in CMS, will things remain the same for WordPress? The next two competitors in the field are Joomla and Drupal. Neither of the top 3 solutions are perfect. They each have [pros and cons](http://websitesetup.org/cms-comparison-wordpress-vs-joomla-drupal/).
 

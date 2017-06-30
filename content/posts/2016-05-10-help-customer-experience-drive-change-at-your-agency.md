@@ -19,11 +19,11 @@ But, how do we ensure these efforts can build momentum and lead to meaningful ch
 
 This month we’ll take a look at a variety of ways this change is occurring and the agents helping ensure the customer’s voice is heard:
 
-  * How to build genuine relationships with stakeholders by [refining messages and tactics based on feedback](https://www.WHATEVER/2016/05/09/the-content-corner-using-content-as-a-tool-for-improving-citizen-services/)
+  * How to build genuine relationships with stakeholders by [refining messages and tactics based on feedback]({{< relref "2016-05-09-the-content-corner-using-content-as-a-tool-for-improving-citizen-services.md" >}}
   * How the USDA’s working to improve how customer experience information is disseminated to their front-line employees
   * A look at the CX initiatives happening at GSA from its Chief Customer Service Officer
   * An in-depth look at the new Core Federal Services Council and how it will help agencies improve their customer experience
-  * A look at the [importance of balancing external and internal customer experience metrics](https://www.WHATEVER/2016/05/16/customer-experience-performance-metrics-two-sides-to-every-story/)
+  * A look at the [importance of balancing external and internal customer experience metrics]({{< relref "2016-05-16-customer-experience-performance-metrics-two-sides-to-every-story.md" >}}
 
 You can also check out the [Customer Experience Toolkit](https://www.WHATEVER/resources/customer-experience-toolkit/), a library of case studies, tools and and agency examples that will help you improve your customer&#8217;s experience.
 
