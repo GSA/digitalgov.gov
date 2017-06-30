@@ -28,7 +28,7 @@ Most content on the web is unstructured, meaning it’s just a page with blobs o
 
 An organization determines its content strategy by defining its capability areas and potential customers. Once defined, the organization can focus on developing a unique credibility in a specific area.
 
-An organization can’t have [content strategy](https://www.WHATEVER/tag/content-strategy/) and [structured content](https://www.WHATEVER/tag/open-and-structured-content-models/) until it learns to operate in a structured way.
+An organization can’t have [content strategy]({{ "tag/content-strategy" | absURL }}) and [structured content]({{ "tag/open-and-structured-content-models" | absURL }}) until it learns to operate in a structured way.
 
 ## The Broader Story
 

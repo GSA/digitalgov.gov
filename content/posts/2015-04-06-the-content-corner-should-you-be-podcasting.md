@@ -38,4 +38,4 @@ Bowers also points out the almost cult-like nature that podcasts can foster, com
 
 Should you be podcasting? You’ll have to figure it out for yourself, but your agency should at least remember it is still a viable and useful channel, and its increasing popularity can be an opportunity.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

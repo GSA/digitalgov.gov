@@ -46,4 +46,4 @@ What does this mean for federal agencies? The time to move forward with mobile s
 
 _**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

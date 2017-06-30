@@ -23,7 +23,7 @@ Apple and Android devices are overwhelmingly dominant in device ownership and ap
 
 So, we wondered: what makes federal app development iOS-centric? Does it match general trends?
 
-We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday](https://www.WHATEVER/tag/trends-on-tuesday/) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
+We contacted Will Sullivan, Director of Mobile for the Broadcasting Board of Governors and current [Trends on Tuesday]({{ "tag/trends-on-tuesday" | absURL }}) contributor, to hear his thoughts on iOS and Android development on the federal level. He posited several theories, and we researched the buzz going around in the tech world.
 
 ## Everyone else is doing iOS
 

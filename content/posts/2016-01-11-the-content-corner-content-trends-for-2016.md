@@ -42,6 +42,6 @@ As we forge ahead into 2016, we should again commit ourselves to focus on creati
 
 In 2016 or 2046, striving to make better content and better serve our users will never be a mistake.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

@@ -23,7 +23,7 @@ tag:
 
 Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way.
 
-The National Cancer Institute (NCI) engaged in user experience research in order to better serve the U.S. Latino population. The research eventually led to the creation of Spanish language [personas](https://www.WHATEVER/tag/personas/) that NCI uses to design programs, products, and services that are culturally and linguistically appropriate. These personas can also be used by health organizations outside of NCI.
+The National Cancer Institute (NCI) engaged in user experience research in order to better serve the U.S. Latino population. The research eventually led to the creation of Spanish language [personas]({{ "tag/personas" | absURL }}) that NCI uses to design programs, products, and services that are culturally and linguistically appropriate. These personas can also be used by health organizations outside of NCI.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-223-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Javier profile" >}}
 

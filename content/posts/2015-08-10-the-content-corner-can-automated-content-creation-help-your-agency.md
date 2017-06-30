@@ -66,4 +66,4 @@ Despite predictions that over [90% of all news will be computer-generated within
 
 Even if the machine provides only a head-start, that is still a time-savings that allows us to devote our time elsewhere. The main focus should be on delivering the best product possible to our audience and NLGs can help us provide content faster and possibly even cover more diverse or niche subject matter or improve their health and their lives.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

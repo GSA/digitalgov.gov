@@ -33,6 +33,6 @@ In **Boston**, the Department of Veterans Affairs Healthcare System, in Jamaica 
 
 Please visit the <a href="http://www.innovation.va.gov/suicideprevention/" target="_blank">Open Data and Innovations for Suicide Prevention</a> page to register. Space is limited, so register early. If you are not able to attend the hackathons, there will be other opportunities to help #HackSuicide.
 
-_Each week, [The Data Briefing](https://www.WHATEVER/tag/the-data-briefing/) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

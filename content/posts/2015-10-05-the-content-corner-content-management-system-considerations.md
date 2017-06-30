@@ -64,6 +64,6 @@ Again, the number of WYSIWYG options allowed is influenced by your workflow and 
 
 Next time, I will share additional ways to help make whatever CMS you either implement or re-configure serve your content strategy and your content contributors as best as possible. But the first steps are to deeply understand your content, your contributors and their process, and how that can best be integrated into a content management system. Remember, the CMS should be made to fit your contributors needs and workflow—not the other way around.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a> to receive more great content like this delivered to your inbox!

@@ -8,12 +8,12 @@ authors:
   - lgodfrey
 ---
 
-  * [Abbreviations, Acronyms and Em Dash](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#abbreviations)
-  * [Spanish Language Articles](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#articles)
-  * [Spanish Language Capitalization](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#capitalization)
-  * [Spanish Language Dates & Numbers](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#dates)
-  * [Spanish Language Punctuation](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#punctuation)
-  * [Spanish Language Diacritics and HTML Code](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/#diacritics)
+  * [Abbreviations, Acronyms and Em Dash]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#abbreviations" >}})
+  * [Spanish Language Articles]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#articles" >}})
+  * [Spanish Language Capitalization]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#capitalization" >}})
+  * [Spanish Language Dates & Numbers]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#dates" >}})
+  * [Spanish Language Punctuation]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#punctuation" >}})
+  * [Spanish Language Diacritics and HTML Code]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md#diacritics" >}})
 
  
 

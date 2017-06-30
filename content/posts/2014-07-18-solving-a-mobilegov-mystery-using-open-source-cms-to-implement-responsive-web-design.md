@@ -31,4 +31,4 @@ Sign up for our [Mobile Web Templates: How to Use Open Source CMS to Implement R
 
 If you are on the outside of mobile Web looking in at your agency, this is a great way to learn how to get started. See more [event details and sign up here](https://www.WHATEVER/event/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design/).
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

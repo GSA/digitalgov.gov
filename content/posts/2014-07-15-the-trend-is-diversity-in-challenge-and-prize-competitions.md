@@ -33,6 +33,6 @@ If you need any information about challenge platforms, [let us know](https://cha
 
 So don&#8217;t delay! Be part of the movement and try [crowdsourcing](https://www.WHATEVER/2014/03/31/get-started-with-challenge-and-prize-competitions/ "Getting started with Challenge and Prize Competitions").
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
 
  

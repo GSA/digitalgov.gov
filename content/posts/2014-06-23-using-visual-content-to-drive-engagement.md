@@ -46,4 +46,4 @@ What has your experience been with visuals and multimedia?
 
 _**Jessica Milcetich** is a Social Media and Digital Strategist on the USA.gov marketing team at the U.S. General Services Administration (GSA)._
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

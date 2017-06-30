@@ -58,7 +58,7 @@ More importantly, you can [comment and submit pull requests](http://gsa.github.i
 
 **What&#8217;s Next?**
 
-Join us Wednesday, May 14th for the first webinar in our series &#8220;[What Structured Content Can Do For You](https://www.WHATEVER/event/what-structured-content-can-do-for-you-article-model/),&#8221; which will focus on the [Article Content Model](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html). Members of the working group will explain:
+Join us Wednesday, May 14th for the first webinar in our series &#8220;What Structured Content Can Do For You,&#8221; which will focus on the [Article Content Model](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html). Members of the working group will explain:
 
   * what structured content is,
   * show you what structured content models can do for you,
@@ -82,7 +82,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Administrative Office of the U.S. Courts</strong>
   </div>
-  
+
   <div class="one-half">
     Allison Alexander
   </div>
@@ -92,7 +92,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Census Bureau</strong>
   </div>
-  
+
   <div class="one-half">
     Logan Powell
   </div>
@@ -102,7 +102,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Centers for Disease Control and Prevention</strong>
   </div>
-  
+
   <div class="one-half">
     Fred Smith
   </div>
@@ -112,7 +112,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Consumer Financial Protection Bureau</strong>
   </div>
-  
+
   <div class="one-half">
     Daniel Munz
   </div>
@@ -122,7 +122,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Department of Education</strong>
   </div>
-  
+
   <div class="one-half">
     Jill James
   </div>
@@ -132,7 +132,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Department of Labor</strong>
   </div>
-  
+
   <div class="one-half">
     Edward McCarthy
   </div>
@@ -142,7 +142,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Economic Research Service, Department of Agriculture</strong>
   </div>
-  
+
   <div class="one-half">
     Mary Maher
   </div>
@@ -152,7 +152,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Food and Drug Administration</strong>
   </div>
-  
+
   <div class="one-half">
     Gong Chen
   </div>
@@ -162,7 +162,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>General Services Administration</strong>
   </div>
-  
+
   <div class="one-half">
     Russell O&#8217;Neill<br /> Jacob Parcell<br /> Phil Ashlock<br /> Laura Gray
   </div>
@@ -172,7 +172,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>National Institutes of Health</strong>
   </div>
-  
+
   <div class="one-half">
     Lakshmi Grama<br /> Holly Irving
   </div>
@@ -182,7 +182,7 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Securities and Exchange Commission</strong>
   </div>
-  
+
   <div class="one-half">
     Robert Rand
   </div>
@@ -192,10 +192,10 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   <div class="one-half first">
     <strong>Social Security Administration</strong>
   </div>
-  
+
   <div class="one-half">
     Wayne Whitten
   </div>
 </blockquote>
 
-_We&#8217;ve created an [Editorial Theme Calendar](https://www.WHATEVER/join-digitalgov/#guidelines) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._

@@ -36,4 +36,4 @@ You can learn more about about those tips and Data.gov’s journey in changing t
   
 You can also read more about [Data.gov’s iterative, constantly evolving feedback process](https://www.WHATEVER/2014/03/18/data-gov-usability-case-study/ "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard](https://www.WHATEVER/2014/05/07/because-its-hard/), and check back for more articles related to this theme in May._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard](https://www.WHATEVER/2014/05/07/because-its-hard/), and check back for more articles related to this theme in May._

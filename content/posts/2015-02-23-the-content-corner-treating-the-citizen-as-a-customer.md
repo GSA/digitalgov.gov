@@ -41,4 +41,4 @@ Even when you understand what the user is looking for, how you present that info
 
 The idea of treating the citizen as a consumer is nothing new, the use of terms like customer service and the proliferation of satisfaction surveys in the federal government make that clear. But do we truly treat them like a potential customer worthy of a marketing strategy? Are we trying to make sure their interaction with our brand is a positive one? Are we displaying empathy, developing trust, and fully focused on making that “sale”? If not, we should be.
 
-_You’ve just finished reading the second article from a new column called [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
+_You’ve just finished reading the second article from a new column called [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._

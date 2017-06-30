@@ -44,6 +44,6 @@ It is important to mitigate this particular fear of teaming by communicating wit
 
 While there are a number of challenges associated with adopting teams as you transition to agile development methods, the benefits of teaming will outweigh the challenges and fears. It will be critical for leadership to be actively engaged, mitigating concerns and addressing issues as teaming is adopted, as bringing developers together onto teams is a key part of “going agile.”
 
-_Check out some of DigitalGov&#8217;s [recent articles on the agile methodology](https://www.WHATEVER/tag/agile/)._ 
+_Check out some of DigitalGov&#8217;s [recent articles on the agile methodology]({{ "tag/agile" | absURL }})._ 
 
 _Have a **.gov** or **.mil** email address? Join the [Agile/Lean Community of Practice](https://www.WHATEVER/communities/) to connect with others at federal agencies working to increase team efficiency and customer satisfaction, while reducing project risk and cost._

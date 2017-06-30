@@ -76,4 +76,4 @@ This type of attention to [content formatting](https://www.WHATEVER/2015/07/27/t
 
 Be sure to treat your CMS as you would any Web content or product and always seek feedback from your users. Make changes, as needed, to make their jobs a little easier and make your CMS an even greater aid in implementing a consistent [content strategy](https://www.WHATEVER/2015/03/23/the-content-corner-building-a-content-strategy/).
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

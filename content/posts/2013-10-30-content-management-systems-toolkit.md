@@ -20,9 +20,9 @@ Improving the federal government’s ability to deliver digital information anyt
 
 The key steps in getting ready to move to a CMS include:
 
-  * [Prepare Your Content](https://www.WHATEVER/resources/content-management-systems-toolkit/#prepare "Content Management Systems Toolkit")
-  * [Choose a CMS](https://www.WHATEVER/resources/content-management-systems-toolkit/#choose "Content Management Systems Toolkit")
-  * [Migrate Your Content to a CMS](https://www.WHATEVER/resources/content-management-systems-toolkit/#migrate "Content Management Systems Toolkit")
+  * [Prepare Your Content]({{< relref "#prepare" >}})
+  * [Choose a CMS]({{< relref "#choose" >}})
+  * [Migrate Your Content to a CMS]({{< relref "#migrate" >}})
 
 ## Prepare Your Content {#prepare}
 
@@ -89,7 +89,7 @@ When tagging content, you should generally use established industry-standard voc
   * Language
 
 To enable Web crawlers and search engines to understand meaning and relationships in your content, and use that understanding to improve search results and search engine optimization (SEO), you should also employ the [Schema.org vocabulary](http://schema.org/) to provide additional descriptions for certain types of content, such as events.
-  
+
 Dublin Core tags can be used to describe &#8220;things&#8221;, and Schema.org tags can describe relationships between those things. Both are important to improve search results and make your information easier to find and re-use.
 
 If you have a Content Management System, you should to enter the tags directly into your CMS. You may need to work with your CIO staff or developer to configure your CMS to collect metadata.
@@ -237,7 +237,7 @@ Depending on how large your site is, and how much content you have, a full-scale
 ### Develop Your Project Plan
 
 A content migration is more than just an IT project; it should be managed as any other large business project. [Content Migration: the Iceberg of CMS Projects](http://www.openroad.ca/2007/11/02/content-migration-the-iceberg-of-cms-projects/) provides a good overview of the many aspects of a content migration that you’ll need to consider.
-  
+
 Here are some examples of both a very basic project outline, and a detailed project plan:
 
   * [Sample Task List for Website Redesign](https://www.WHATEVER/files/2014/07/task-list-for-website-redesign.docx) (MS Word, 13 KB, 2 pages, December 2012) shows a high-level project outline

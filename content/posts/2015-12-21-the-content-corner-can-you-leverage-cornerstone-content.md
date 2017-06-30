@@ -52,4 +52,4 @@ You should also promote these pages as you would any of your other content by li
 
 By following the SEO guidelines as discussed above, these cornerstone pages should also begin to appear more prominently in [search engine results pages (SERP)](https://www.WHATEVER/2015/11/30/the-content-corner-the-balance-between-seo-and-the-user/). Again, this allows more users to find your resources and also helps them quickly solve their problems or answer their questions. Have you had success with cornerstone content? Share with us in the comments section.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

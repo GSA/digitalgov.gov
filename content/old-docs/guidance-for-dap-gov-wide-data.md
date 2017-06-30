@@ -17,7 +17,7 @@ As the memo stated, &#8220;opening the DAP government-wide data will let partici
   * Will there be training on how to best leverage the gov-wide data under DAP? 
       * Yes. We plan on hosting ongoing training for all DAP users to demonstrate how the government-wide reporting templates work, and discuss the authorization of government-wide data in general. Trainings are posted on [DigitalGov.gov](https://www.WHATEVER/events/), [DAP User Online Community on Yammer](https://www.yammer.com/dapusergrouponlineforum/), and communicated to DAP users via the DAP listserv.
   * Can I talk publicly about other agencies&#8217; data? 
-      * No. Please see the [DAP User Agreement](https://www.WHATEVER/services/dap/common-questions-about-dap-faq/#part-7).
+      * No. Please see the [DAP User Agreement]({{< relref "common-questions-about-dap-faq.md#part-7" >}}).
   * Can I use analytics data from other agencies’ websites to inform changes/modifications to my agency’s websites? 
       * Yes. The goal of the DAP user access to the government-wide reporting is to allow everyone to use the data to create better and more engaging digital experiences for the public.
   * Based on data I see in the government-wide reporting, can I contact other agencies to partner or coordinate programs/online content? 

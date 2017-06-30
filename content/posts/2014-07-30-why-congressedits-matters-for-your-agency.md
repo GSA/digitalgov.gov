@@ -44,4 +44,4 @@ _**Dominic McDevitt-Parks** is a Digital Content Specialist, Wikipedian in Resid
 
 _Editor&#8217;s Note: This post originated from a inter-agency dialogue within the [SocialGov Community](https://www.WHATEVER/communities/social-media/ "Social Media") of 700 digital engagement managers from more than 120 federal missions. If you would like to join to the SocialGov Community, send an email from your .gov or .mil address to [justin.herman@gsa.gov](mailto:%20justin.herman@gsa.gov) with &#8220;Subscribe to SocialGov&#8221; in the subject._ 
 
-_This article is part of this month&#8217;s [Editorial Theme](https://www.WHATEVER/join-digitalgov/#guidelines) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/ "Recent Monthly Themes")._

@@ -24,9 +24,9 @@ tag:
 
 The [U.S. Department of Health & Human Services](https://www.hhs.gov/) (HHS) is sharing its content models and their related Drupal features for you to use on your sites.
 
-A [content model](https://www.WHATEVER/tag/content-models/) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
+A [content model]({{ "tag/content-models" | absURL }}) is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes.
 
-[Open and structured content models](https://www.WHATEVER/tag/open-and-structured-content-models/) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/), and websites, [the need for modular content is growing](https://www.WHATEVER/2015/08/24/the-content-corner-modular-design-and-structured-content/).
+[Open and structured content models]({{ "tag/open-and-structured-content-models" | absURL }}) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication](https://www.WHATEVER/2016/02/04/does-content-syndication-work/), and websites, [the need for modular content is growing](https://www.WHATEVER/2015/08/24/the-content-corner-modular-design-and-structured-content/).
 
 {{< legacy-img src="https://www.WHATEVER/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -63,7 +63,7 @@ Absolutely nothing! HHS is happy to share our efforts in the spirit of collabora
 
 If you have content models that you would like to share, please [contact Christen Geiler via email](mailto:Christen.Geiler@hhs.gov).
 
-[_DigitalGov University_](https://www.WHATEVER/digitalgov-university/) _(DGU) is hosting a new_ [_COPE_](https://www.WHATEVER/tag/cope/) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_](https://www.WHATEVER/event/create-once-publish-everywhere-applied-hhs-content-models-and-portability/)_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
+[_DigitalGov University_](https://www.WHATEVER/digitalgov-university/) _(DGU) is hosting a new_ [_COPE_]({{ "tag/cope" | absURL }}) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_](https://www.WHATEVER/event/create-once-publish-everywhere-applied-hhs-content-models-and-portability/)_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
 
 _For more information, check out_ [_how to create open, structured content_](https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/)_, and how it can aid in_ [_content syndication_](https://www.WHATEVER/2015/11/09/the-content-corner-structured-content-and-the-power-of-syndication/)_. Also, learn about the differences between_ [_information architecture and content strategy—and why you need both_](https://www.WHATEVER/2016/07/18/information-architecture-vs-content-strategy-and-why-you-need-both/)_. Review this post on_ [_open and structured content models in government_](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/)_, and_ [_see how easy it is to implement them_](https://www.WHATEVER/2016/01/07/content-models-as-simple-as-pizza-pie/) _with examples from CDC and NIH._ 
 

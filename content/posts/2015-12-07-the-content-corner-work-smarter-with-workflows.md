@@ -32,7 +32,7 @@ Charlie Gilkey at Copyblogger makes a great point that [delegation is not about 
 
 I can hear many of you as you start reading this (it&#8217;s a special skill I have) thinking that you don’t have time to create workflows. They can sound like a serious task and many people start picturing flowcharts and wondering if they have MS Visio installed on their desktop. But the truth is you have already created most of the workflows; you just need to free them from your brain and put them down on (digital) paper.
 
-As an example, here is my normal workflow that I follow in order to bring you a sensational [Content Corner](https://www.WHATEVER/tag/the-content-corner/) blog post every Monday.
+As an example, here is my normal workflow that I follow in order to bring you a sensational [Content Corner]({{ "tag/the-content-corner" | absURL }}) blog post every Monday.
 
   1. Review topics added to my [editorial calendar](https://www.WHATEVER/2015/07/27/the-content-corner-supporting-your-content/).
   2. Review DigitalGov’s [monthly theme](https://www.WHATEVER/category/monthly-theme/).
@@ -54,4 +54,4 @@ For example, I know who on the DigitalGov team will handle each specific task th
 
 Just as with project management basics and publishing workflows commonly baked into your [CMS](https://www.WHATEVER/2015/07/07/trends-on-tuesday-trends-in-cms/), this helps provide a smoother and more consistent experience for your team and for your users.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](https://www.WHATEVER/tag/the-content-corner/). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
