@@ -49,6 +49,6 @@ Equally important as to having a single, well-defined purpose and knowing the au
 
 The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/" target="_blank">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public.
 
-_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

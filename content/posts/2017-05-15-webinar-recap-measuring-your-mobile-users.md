@@ -22,7 +22,7 @@ The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/w
 
 ## Why Mobile Analytics?
 
-We reached the mobile tipping point long ago—globally, there are more internet users accessing the internet via smartphone than via desktop. Additionally, mobile traffic is increasing in share against desktop traffic and tablet traffic. Government websites have begun to respond by designing websites to be “[mobile-first]({{ "tag/mobile-first" | absURL }}),” and in particular, are moving away from stand-alone apps to designing for the [responsive web]({{ "tag/responsive-web-design" | absURL }}) (websites that adjust automatically based on the user’s device).
+We reached the mobile tipping point long ago—globally, there are more internet users accessing the internet via smartphone than via desktop. Additionally, mobile traffic is increasing in share against desktop traffic and tablet traffic. Government websites have begun to respond by designing websites to be “[mobile-first]({{< link href="tag/mobile-first" >}}),” and in particular, are moving away from stand-alone apps to designing for the [responsive web]({{< link href="tag/responsive-web-design" >}}) (websites that adjust automatically based on the user’s device).
 
 But how do you build better websites for mobile users? The first step is to understand your mobile traffic, and that’s where DAP can help.
 

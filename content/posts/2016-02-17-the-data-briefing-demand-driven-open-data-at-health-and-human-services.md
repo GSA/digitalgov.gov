@@ -28,6 +28,6 @@ I hope that the DDOD approach is adopted by other agencies and that a federal go
 
 _DDOD was made possible by [HHS&#8217;s Entrepreneur-in-Residence program](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)._</div> 
 
-_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -64,4 +64,4 @@ These tools also include social media, especially when considering external or p
 
 Just as with developing an [editorial calendar]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}} and using [content pillars]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}{.markup--anchor.markup--p-anchor}, you should also have a plan in place to support new content, especially if it is event-driven or time-sensitive.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

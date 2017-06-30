@@ -39,7 +39,7 @@ To create Linda’s behavior line, we looked at:
   * Web analytics specifically for our [Government Benefits, Grants, and Loans](https://www.usa.gov/benefits-grants-loans) content
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
-  * [Contact center]({{ "tag/government-contact-centers" | absURL }}) content usage
+  * [Contact center]({{< link href="tag/government-contact-centers" >}}) content usage
   * Web analytics for other government websites available through the [Digital Analytics Program](https://www.WHATEVER/services/dap/)
   * General search trends on Google
 

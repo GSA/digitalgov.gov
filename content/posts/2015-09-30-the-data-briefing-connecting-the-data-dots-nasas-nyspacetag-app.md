@@ -34,7 +34,7 @@ Not just the keyword search or even the “related to” conceptual searching is
 
 Open data is a great start, but the real promise lies in the innovations that are created when developers and citizens can create insights by connecting the dots between the federal government’s datasets.
 
-_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 

@@ -57,4 +57,4 @@ We need to speak in plain language and be able to clearly show the ROI both shor
 
 Have you had success communicating with various stakeholders about structured content? Please share in the comments below.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

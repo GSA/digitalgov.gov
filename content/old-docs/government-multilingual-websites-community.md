@@ -20,7 +20,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
   <a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
 </div>
 
-_**The Multilingual Digital Group also maintains the multilingual [resources]({{< relref "resources.md#multilingual" >}}) and [articles]({{ "tag/multilingual" | absURL }}) for DigitalGov.**_
+_**The Multilingual Digital Group also maintains the multilingual [resources]({{< relref "resources.md#multilingual" >}}) and [articles]({{< link href="tag/multilingual" >}}) for DigitalGov.**_
 
  
 

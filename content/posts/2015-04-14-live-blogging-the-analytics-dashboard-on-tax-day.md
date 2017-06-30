@@ -64,8 +64,8 @@ Number of IRS pages that are in the Top 20 pages: **16**
   * It doesn&#8217;t look like we hit [DAP](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow.
 
 _-gk, Digital Government, GSA
-  
-_ 
+
+_
 
 ## 11:00 pm Update
 
@@ -74,7 +74,7 @@ Traffic on IRS.gov webpages continues to be brisk at this time as 16 of its page
 ### The Stats:
 
 Number of people on government websites (as of 11 pm): **105,067**
-  
+
 Number of IRS pages that are in the Top 20 pages: **16**
 
 ### Fun Facts:
@@ -91,7 +91,7 @@ IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](https:/
 ### The Stats:
 
 Number of people on government websites (as of 10:14 pm): **118,570**
-  
+
 Number of IRS pages that are in the Top 20 pages: **15**
 
 _-Karen Trebon, Assistant Director, Digital Government Division_
@@ -103,7 +103,7 @@ It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to ch
 ### The Stats:
 
 Number of people on government websites (as of 8:50 pm): **122,019**
-  
+
 Number of IRS pages that are in the Top 20 pages: **15**
 
 _-Alycia Piazza, DigitalGov Platform Manager_
@@ -115,7 +115,7 @@ As the West Coast gets out of work the IRS is in total control of the Top 20 gov
 ### The Stats:
 
 Number of people on government websites (as of 8 pm): **122,677**
-  
+
 Number of IRS pages that are in the Top 20 pages: **15**
 
 ### Fun Fact:
@@ -124,7 +124,7 @@ Number of IRS pages that are in the Top 20 pages: **15**
 
 _-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
 
-## 
+##
 
 ## 7:00 pm Update
 
@@ -133,7 +133,7 @@ Even though the [Where’s My Refund?](http://www.irs.gov/Refunds "Where's My Re
 ### The Stats:
 
 Number of people on government websites (as of 7 pm): **128,295**
-  
+
 Number of IRS pages that are in the Top 20 pages: **15**
 
 ### Fun Fact:
@@ -149,7 +149,7 @@ If you’ve been following the Analytics Dashboard today, you may have noticed �
 ### The Stats:
 
 Number of people on government websites (as of 5:55 pm): **145,742**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
@@ -169,7 +169,7 @@ We’ll be continuing our updates throughout the evening and into the night, as 
 ### The Stats:
 
 Number of people on government websites (as of 5:04 pm): **163,502**
-  
+
 Number of IRS pages that are in the Top 20 pages: **14**
 
 ### Fun Facts:
@@ -185,7 +185,7 @@ Did you know that the IRS was an early technology adopter? They first used compu
 ### The Stats:
 
 Number of people on government websites (as of 3:55 pm): **182,574**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
@@ -194,7 +194,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 _-Alycia Piazza, DigitalGov Platform Manager_
 
-## 
+##
 
 ## 3:00 pm Update
 
@@ -205,7 +205,7 @@ To give you a quick taste of what type of information you could get, we are repo
 ### The Stats:
 
 Number of people on government websites (as of 2:58pm): **194,301**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 _-Marina Fox, Manager, Digital Analytics Program_
@@ -217,13 +217,13 @@ The number of real time users is inching closer and closer to 200,000 people. Wh
 ### The Stats:
 
 Number of people on government websites (as of 1:55 pm): **190,622**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
   * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
-  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing]({{ "tag/wednesday-api-briefing" | absURL }}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< relref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}.
+  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing]({{< link href="tag/wednesday-api-briefing" >}}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< relref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}.
 
 _-Ashley Wichman, DigitalGov Team_
 
@@ -234,7 +234,7 @@ People are finishing up lunch and still working on their taxes!
 ### The Stats:
 
 Number of people on government websites (as of 12:58pm): **186,797**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
@@ -251,12 +251,12 @@ It’s noon on tax day and the number of people on government websites has more 
 ### The Stats:
 
 Number of people on government websites (as of Noon): **187,930**
-  
+
 Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{ "tag/thursday-mobile-products" | absURL }}) blogger Kevin Downey was one of the people on that page earlier.
+  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< link href="tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
   * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers](https://www.WHATEVER/category/monthly-theme/). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
 
@@ -269,7 +269,7 @@ As expected, the number of people on government website is steadily increasing a
 ### The Stats:
 
 Number of people on government websites (as of 10:58 am): **185,676**
-  
+
 Number of IRS pages that are in the Top 20 pages: **12**
 
 ### Fun Facts:
@@ -286,7 +286,7 @@ Business is booming as we really get rolling on the biggest tax day of the year.
 ### The Stats:
 
 Number of people on government websites (as of 9:58 am): **168,671**
-  
+
 Number of IRS pages that are in the Top 20 pages: **11**
 
 ### Fun Facts:
@@ -306,12 +306,12 @@ People are waking up, getting their coffee, and going on government websites. If
 ### The Stats:
 
 Number of people on government websites (as of 8:58 am): **130,929**
-  
+
 Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
 
-  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{ "tag/trends-on-tuesday" | absURL }}), so take a peek and learn how federal agencies are becoming future-ready.
+  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< link href="tag/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
   * In fact, while we are talking about the IRS, [IRS2Go was recently updated](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/) and is available on Android and iOS.
   * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?
 
@@ -328,7 +328,7 @@ We&#8217;ll be bringing hourly updates throughout the day and into the evening. 
 ### The Stats
 
 Number of people on government websites (as of 7:58 am): **90,174**
-  
+
 Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
@@ -339,8 +339,8 @@ Number of IRS pages that are in the Top 20 pages: **10**
 Do you have questions for the DAP or DigitalGov team? Leave a comment below, or give us a shout-out on Twitter, [@Digital_Gov](https://twitter.com/digital_gov) using the #TaxDay hashtag.
 
 _-Ashley Wichman, DigitalGov Team
-  
-_ 
+
+_
 
 ## First Posting: April 14
 

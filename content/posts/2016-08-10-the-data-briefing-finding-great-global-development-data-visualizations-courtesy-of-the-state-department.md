@@ -15,7 +15,7 @@ tag:
   - U.S. Department of State
 ---
 
-Federal agencies have been releasing some fascinating [data visualization]({{ "tag/data-visualization" | absURL }}) tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the “[F Interagency Network Databank](http://find.state.gov/).” From the description in the FAQ:
+Federal agencies have been releasing some fascinating [data visualization]({{< link href="tag/data-visualization" >}}) tools in the last year. Recently, the State Department unveiled the Beta version of FIND or the “[F Interagency Network Databank](http://find.state.gov/).” From the description in the FAQ:
 
 > “_The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level data, and then share what they discover. FIND was designed around the needs of U.S. government analysts and also benefits a broad-range of stakeholders, including the U.S. public, civil society organizations, universities, foreign aid donors, Congress and partner country governments”_
 
@@ -31,6 +31,6 @@ The design is well-done because it makes creating the data visualizations simple
 
 Sites like FIND are a welcome trend as more agencies release data visualization tools in Beta. First, agencies are not just releasing data but are making the data more useful and user-friendly. Second, the data visualization tools are showcasing innovative programming by the agencies. And third, data visualization sites are great ways to engage the American public. Letting citizens explore the data on their own helps educate users about the issues around the data and provides a better customer experience in using government services.
 
-_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

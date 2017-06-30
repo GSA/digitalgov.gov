@@ -26,6 +26,6 @@ The last two barriers are a lack of people skilled in working with data and priv
 
 Despite the barriers, opening government data has made significant impacts on citizens’ lives. Moreover, it is just getting started. Like GPS, who can predict the innovations thirty years from now?
 
-_Each week, [The Data Briefing]({{ "tag/the-data-briefing" | absURL }}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

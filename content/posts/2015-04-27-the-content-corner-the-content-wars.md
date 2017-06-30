@@ -48,4 +48,4 @@ Regardless to the answers to these questions, one thing is clear: the war for ey
 
 Still not convinced that social media platforms are serious about this and things are changing dramatically? National Geographic is a publishing partner on Snapchat…I’ll just leave that there.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

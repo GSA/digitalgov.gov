@@ -56,4 +56,4 @@ Finally, I would be remiss to not point out how templates at this stage also hel
 
 Your SME took the time to develop the content; I’m sure they’d enjoy having it seen and used in as many ways as possible.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{ "tag/the-content-corner" | absURL }}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -10,6 +10,8 @@ categories:
   - Uncategorized
 ---
 
+Here's [a link to a tag page]({{< link href="tag/multilingual" >}}).
+
 {{< legacy-img src="http://localhost/wp/wp-content/uploads/2017/06/cat-mica.jpg" alt="ALT This is my Cat Mica. She is a nice cat." caption="Caption This is my Cat Mica. She is a nice cat." >}}
 
 {{< legacy-img src="http://localhost/wp/wp-content/uploads/2017/06/new-mexico-1024x658.jpg" alt="Le ALT Tag" >}}
