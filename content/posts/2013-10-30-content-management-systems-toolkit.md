@@ -74,7 +74,7 @@ See how [EPA uses Dublin Core metadata to structure content]({{< tmp "files/2014
 
 [Metadata](http://en.wikipedia.org/wiki/Metadata) is essentially “data about data,” and consists of machine-readable descriptions that tell other computers important facts about your digital content. It provides a standardized system to label and classify content. It also:
 
-  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< link "categories/api" >}}), and other technologies
+  * Enables content aggregation, re-use, and syndication via Really Simple Syndication (RSS), [Application Programming Interfaces (APIs)]({{< link href="categories/api" >}}), and other technologies
   * Provides an audit trail, with information about who created the information, and when
   * Helps identify redundant, duplicative, and possibly obsolete content
 

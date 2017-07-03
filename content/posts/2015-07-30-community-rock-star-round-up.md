@@ -39,7 +39,7 @@ For the [2015 DigitalGov Summit](https://summit.WHATEVER) we pulled together [in
 
 ## MobileGov
 
-Some standout leaders from the [MobileGov community]({{< link "cagegories/mobile" >}}) represent the Social Security Administration, Army Corps of Engineers, and the Congressional Research Service.
+Some standout leaders from the [MobileGov community]({{< link href="cagegories/mobile" >}}) represent the Social Security Administration, Army Corps of Engineers, and the Congressional Research Service.
 
 **David Fern**, from the Social Security Administration, led the [Federal CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) for more than 2 years and started publishing articles about mobile testing best practices. Check out [The Emulator Dilemma: Can Mobile Device Testing be Completed without Mobile Devices?]({{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) or [Trends on Tuesday: Native App Lessons from the Crowdsourced Mobile Testing Program.]({{< relref "2015-06-16-trends-on-tuesday-native-app-lessons-from-the-crowdsource-mobile-testing-program.md" >}})
 

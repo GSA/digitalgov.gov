@@ -73,6 +73,6 @@ In a recent DigitalGov.gov API Briefing, Bill Brantley wrote [about the work tha
 
 In addition, agencies are adopting the “Create Once, Publish Everywhere” approach heralded by organizations like [National Public Radio](https://www.WHATEVER/2014/10/27/open-and-structured-content-models-workshop-recap/ "Open and Structured Content Models Workshop Recap") to become future ready. A number of agencies got together last year to create shared [Structured and Open Content Models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!") to help agency data become more interoperable and future-ready.
 
-Want to learn more, do more? [Join the Mobile Gov Community of Practice]({{< link "cagegories/mobile" >}} "Mobile"), and get involved by helping us discover new government mobile [products](https://midas.18f.us/tasks/15), [code](https://midas.18f.us/tasks/19) and [trends](https://midas.18f.us/tasks/26).
+Want to learn more, do more? [Join the Mobile Gov Community of Practice]({{< link href="cagegories/mobile" >}} "Mobile"), and get involved by helping us discover new government mobile [products](https://midas.18f.us/tasks/15), [code](https://midas.18f.us/tasks/19) and [trends](https://midas.18f.us/tasks/26).
 
  

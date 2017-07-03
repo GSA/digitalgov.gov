@@ -53,4 +53,4 @@ Custom APIs allow a bit of flexibility.  Custom API’s look “beyond the page�
 
 Utilizing an assortment of tools can enhance your web site – public or private. Whatever option you go with, the integration of APIs into your content must be a consideration going forward.
 
-_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles]({{< link "categories/api" >}}) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._
+_To learn more about APIs and how they are helping government agencies serve their customers, check out DigitalGov’s [API articles]({{< link href="categories/api" >}}) and [Code/APIs/Data playlist on YouTube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM)._

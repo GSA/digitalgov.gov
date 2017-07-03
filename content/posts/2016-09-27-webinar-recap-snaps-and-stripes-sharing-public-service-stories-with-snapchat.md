@@ -89,4 +89,4 @@ You can follow the NASA Social Media Team on Twitter at [@NASASocial](https://tw
 
 [youtube=http://www.youtube.com/watch?v=G82jBHxE4Tk&w=600]
 
-_Learn more about [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and [register for an upcoming event]({{< link "events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov). If you have a .gov or .mil email address, check out the various [DigitalGov Communities]({{< relref "communities.md" >}}), like SocialGov and MobileGov, that you can join._
+_Learn more about [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and [register for an upcoming event]({{< link href="events" >}}) today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please [contact the team via email](mailto:digitalgovu@gsa.gov). If you have a .gov or .mil email address, check out the various [DigitalGov Communities]({{< relref "communities.md" >}}), like SocialGov and MobileGov, that you can join._

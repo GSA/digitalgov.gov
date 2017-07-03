@@ -44,7 +44,7 @@ In the fast-moving tech world, it’s important to be proactive, so when a lists
 During the the past three years, the GCXi showed us that our agency customers, those colleagues who work at other government agencies:
 
   * Depend on the [Communities of Practice]({{< relref "communities.md" >}}) we sponsor to network, learn from their peers and keep up-to-date on requirements and best practices. Thousands of you are listening and learning via our listservs, even if you don’t speak up.
-  * Want to consume content (including [webinars and training from DigitalGov University]({{< link "events" >}})) when and where it’s most convenient for you (this is particularly important for people outside of DC).
+  * Want to consume content (including [webinars and training from DigitalGov University]({{< link href="events" >}})) when and where it’s most convenient for you (this is particularly important for people outside of DC).
   * Appreciate [services]({{< relref "services.md" >}}) tailored to government—easy, free, timely and convenient.
   * Love the open sharing of data, through the new [analytics dashboard](https://analytics.usa.gov/), for example, with its ability for cross-agency benchmarking.
 

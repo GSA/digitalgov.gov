@@ -14,8 +14,8 @@ The Federal SocialGov Community unites over 1,200 digital managers and specialis
 
 We identify opportunities and challenges to improve government use of social data, and collectively address them for the shared benefit of all agencies. We support the creation of online communities that provide opportunities for citizens to collaborate, participate, and engage with their government.
 
-  * Best practices: We curate [best practices]({{< link "cagegories/socialmedia" >}} "Social Media") for innovative, effective, and responsible use and governance of social media across the government.
-  * Training: We research, organize, and host live and on-demand [social media training for all agencies]({{< link "events" >}} in federal, state, and local government.
+  * Best practices: We curate [best practices]({{< link href="cagegories/socialmedia" >}} "Social Media") for innovative, effective, and responsible use and governance of social media across the government.
+  * Training: We research, organize, and host live and on-demand [social media training for all agencies]({{< link href="events" >}} in federal, state, and local government.
   * Shared tools: We actively test and evaluate emerging social tools and strategies for government and negotiate [federal-compatible terms of service]({{< relref "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") for federal agencies.
   * Working Groups and Resource Development: We organize productive working groups that produce shared resources for all agencies to use, like the <a href="https://www.whitehouse.gov/blog/2015/02/03/announcing-us-public-participation-playbook" target="_blank">U.S. Public Participation Playbook</a> and the <a href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">Cyber-Vandalism Toolkit</a>.
 
@@ -238,5 +238,5 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link href="events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>

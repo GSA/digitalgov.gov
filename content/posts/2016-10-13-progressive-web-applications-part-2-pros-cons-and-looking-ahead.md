@@ -20,7 +20,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-> _A few weeks ago, [_Progressive Web Applications, Part 1: the New Pack Mule of the Internet_](https://www.WHATEVER/2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/) _introduced PWAs and the technologies behind them. We shared that article to the [_MobileGov Community of Practice_]({{< link "cagegories/mobile" >}}) and asked about the pros and cons of this approach to_ [_winning mobile moments_]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}})._
+> _A few weeks ago, [_Progressive Web Applications, Part 1: the New Pack Mule of the Internet_](https://www.WHATEVER/2016/09/20/progressive-web-applications-part-1-the-new-pack-mule-of-the-internet/) _introduced PWAs and the technologies behind them. We shared that article to the [_MobileGov Community of Practice_]({{< link href="cagegories/mobile" >}}) and asked about the pros and cons of this approach to_ [_winning mobile moments_]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}})._
 
 ## What Are Some Benefits of PWAs?
 

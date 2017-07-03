@@ -26,4 +26,4 @@ More searches taking place on mobile than desktop isn’t surprising as the indu
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/393-x-400-Search-on-Bing-showing-Mobile-friendly-site.jpg" alt="Search on Bing showing Mobile friendly site" >}}
 
-For government services, this is just more of a continuing trend that should motivate you to move as quickly as possible to make sure all your digital properties are optimized for mobile. If your agency needs to help, please check out the [cornucopia of mobile resources on DigitalGov]({{< link "cagegories/mobile" >}}) to help prepare you for that process.
+For government services, this is just more of a continuing trend that should motivate you to move as quickly as possible to make sure all your digital properties are optimized for mobile. If your agency needs to help, please check out the [cornucopia of mobile resources on DigitalGov]({{< link href="cagegories/mobile" >}}) to help prepare you for that process.

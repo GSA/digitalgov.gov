@@ -102,6 +102,6 @@ This is why we have been testing agency websites and native apps on mobile devic
 
 The goal of testing is to reduce the risk of releasing software that does not function properly for your customers. Testing your application using emulators is better than not testing at all, but testing on the physical devices that your customers use is always the best choice.
 
-_You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link "cagegories/mobile" >}})._
+_You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) page provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link href="cagegories/mobile" >}})._
 
 _David Fern is an IT Specialist and Technical Leader at the Social Security Administration’s Division of Quality, Testing and Validation._

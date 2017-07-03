@@ -26,4 +26,4 @@ Half a decade since [Steve Jobs declared war on Adobe Flash</span>](http://www.a
   Some government websites still use Flash, though, and need to update to more </span><span style="font-weight: 400"><a href="{{< relref "mobile-friendly.md" >}}">mobile-friendly</a></span><span style="font-weight: 400">, <a href="{{< relref "responsive-web-design.md" >}}">responsive</a> options</span><span style="font-weight: 400"> as the </span><a href="https://www.WHATEVER/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/"><span style="font-weight: 400">government audience moves closer and closer to mobile-dominated</span></a><span style="font-weight: 400">. </p> 
   
   <p>
-    Read more of <a href="{{< link "cagegories/mobile" >}}">DigitalGov’s mobile best practices</span></a><span style="font-weight: 400"> to help get your agency up-to-date.</p>
+    Read more of <a href="{{< link href="cagegories/mobile" >}}">DigitalGov’s mobile best practices</span></a><span style="font-weight: 400"> to help get your agency up-to-date.</p>

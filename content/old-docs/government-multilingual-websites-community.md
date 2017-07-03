@@ -199,11 +199,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Read more Multilingual articles" href="{{< link "tag/multilingual" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Foreign-languages-learn-and-translate-education-concept-cybrain-iStock-Thinkstock-491619082.jpg" alt="Read more Multilingual articles" >}}</a>
+          <a title="Permanent Link to Read more Multilingual articles" href="{{< link href="tag/multilingual" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Foreign-languages-learn-and-translate-education-concept-cybrain-iStock-Thinkstock-491619082.jpg" alt="Read more Multilingual articles" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< link "tag/multilingual" >}}">Read more Multilingual articles</a>
+          <a href="{{< link href="tag/multilingual" >}}">Read more Multilingual articles</a>
         </h4>
       </div>
     </div>
@@ -221,7 +221,7 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link href="events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## About this Group
