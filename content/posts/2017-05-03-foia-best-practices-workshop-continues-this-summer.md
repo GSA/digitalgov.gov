@@ -22,7 +22,7 @@ tag:
 
 <span lang="EN">The Office of Information Policy (OIP) is pleased to announce two new topics and dates for our Best Practices Workshop series as we continue this initiative this summer. OIP launched the </span>[<span lang="EN"><u>Best Practices Workshop</u></span>](https://www.justice.gov/oip/best-practices-workshop-series) <span lang="EN">series in 2014 as a way to share and leverage successes in Freedom of Information Act (FOIA) administration across the government. Each workshop in the series focuses on a specific topical area and includes a panel of representatives who share their success stories and strategies. For example, some of the topics covered in the first series of workshops included panels on reducing backlogs, proactive disclosures, and implementing technology in FOIA administration. This series continues to be an opportunity for professionals at every level of the FOIA process to learn from one another and to leverage the successes of other agencies for their own organizations.</span>
 
-{{< legacy-img src="https://www.WHATEVER/files/2014/09/18f-blog-optimized-Freedom-of-Information-Act-FOIA-site-on-mobile-phone-tumblr\_inline\_nbchu3jVlB1salf0l.jpg" alt="An illustrative prototype running on a mobile device (the logo in the photo is not a live URL)" >}}
+{{< legacy-img src="CDN/files/2014/09/18f-blog-optimized-Freedom-of-Information-Act-FOIA-site-on-mobile-phone-tumblr\_inline\_nbchu3jVlB1salf0l.jpg" alt="An illustrative prototype running on a mobile device (the logo in the photo is not a live URL)" >}}
 
 <span lang="EN">The dates and topics for the new workshops are:</span>
 

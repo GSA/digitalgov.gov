@@ -40,7 +40,7 @@ You should also consider the age range of your key customers for the particular 
 
 One of the final things to consider is level of effort involved in producing the two types of content. Even if you have determined that your audience may be receptive to podcasts and you have content that is a solid fit, podcasting requires extra equipment that may not be easily accessible to some agencies.
 
-Blogging and the creation of text is commonly handled via a [content management system (CMS)](https://www.WHATEVER/resources/content-management-systems-used-by-government-agencies/) that has already been put in place and is generally a standard part of all agencies with a website. Podcasting on the other hand requires:
+Blogging and the creation of text is commonly handled via a [content management system (CMS)]({{< relref "content-management-systems-used-by-government-agencies.md" >}}) that has already been put in place and is generally a standard part of all agencies with a website. Podcasting on the other hand requires:
 
   * One or more good quality microphones
   * A soundproof or quiet recording environment

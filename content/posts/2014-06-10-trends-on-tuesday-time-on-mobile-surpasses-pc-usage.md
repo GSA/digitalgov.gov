@@ -22,4 +22,4 @@ With the recent growth of smartphone and tablet ownership, it’s no surprise th
 
 What does this mean for government communicators? If your agency has been waiting for a good time to move forward with implementing a [mobile first](https://www.WHATEVER/2012/08/03/mobile-first-webinar-recap/ "Mobile First Webinar Recap") strategy, it’s here.
 
-And DigitalGov has resources to help. Check out the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program") for everything your agency needs to know about customer-facing mobile services.
+And DigitalGov has resources to help. Check out the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program") for everything your agency needs to know about customer-facing mobile services.

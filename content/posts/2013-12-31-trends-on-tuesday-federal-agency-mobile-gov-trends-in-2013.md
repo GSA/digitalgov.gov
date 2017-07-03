@@ -55,17 +55,17 @@ tag:
   </li>
 </ul>
 
-**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program"). To help us create the program, agencies in the [Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") shared
+**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [Mobile Gov Community of Practice]({{< link "cagegories/mobile" >}} "Mobile") shared
 
 <ul class="how_to_mobile_list">
   <li>
-    Procurement documents to create <a title="Mobile SOW and Developer Qualifications" href="https://www.WHATEVER/resources/mobile-sow-and-developer-qualifications/">sample mobile Statements of Work (SOWs)</a>
+    Procurement documents to create <a title="Mobile SOW and Developer Qualifications" href="{{< relref "mobile-sow-and-developer-qualifications.md" >}}">sample mobile Statements of Work (SOWs)</a>
   </li>
   <li>
     <a title="Mobile Product Testing Guidelines and Resources" href="https://www.WHATEVER/2013/08/22/mobile-product-testing-guidelines/">Mobile testing tools, practices, scripts, and time</a> to actually help agencies test mobile products
   </li>
   <li>
-    <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/">User Experience Guidelines and Recommendations</a>
+    <a title="Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">User Experience Guidelines and Recommendations</a>
   </li>
   <li>
     Mobile code on the <a title="Federal Mobile Code Sharing Catalog Is Here" href="https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/">Mobile Code Catalog</a> for other agencies to leverage
@@ -76,7 +76,7 @@ tag:
 
 <ul class="how_to_mobile_list">
   <li>
-    <strong>More Agency Sharing.</strong> Like they did for <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/">Mobile User Experience Guidelines and Recommendations</a>, the Mobile Gov Community of Practice will continue to gather agencies together to build government-wide expertise in mobile. Expect events around responsive design, native development and other mobile areas soon.
+    <strong>More Agency Sharing.</strong> Like they did for <a title="Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a>, the Mobile Gov Community of Practice will continue to gather agencies together to build government-wide expertise in mobile. Expect events around responsive design, native development and other mobile areas soon.
   </li>
   <li>
     <b>Increased Focus on User Experience.</b> Agencies are placing more importance on usability and user experience as they build and update mobile products. The advanced ones will be heavily engaging with their users to accomplish it.

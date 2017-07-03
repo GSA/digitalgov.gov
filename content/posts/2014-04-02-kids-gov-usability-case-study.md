@@ -58,5 +58,5 @@ tag:
 </p>
 
 <p dir="ltr">
-  <em>See more Before and After case studies on our <a href="https://www.WHATEVER/resources/user-experience-program/government-usability-case-studies/">Usability Case Study</a> page.</em>
+  <em>See more Before and After case studies on our <a href="{{< relref "government-usability-case-studies.md" >}}">Usability Case Study</a> page.</em>
 </p>

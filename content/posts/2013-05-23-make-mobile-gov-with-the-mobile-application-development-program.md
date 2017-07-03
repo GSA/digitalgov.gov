@@ -19,7 +19,7 @@ tag:
 
 [{{< legacy-img src="https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg" alt="Mobile Application Development Program" >}}](https://sites.usa.gov/howtomobile/files/2013/05/Mobile-app-description1.jpg)Anytime, Anywhere, Any Device.
 
-The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
+The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the [federal Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html). Today, GSA’s [Digital Services Innovation Center]({{< relref "join-digitalgov.md" >}} "Join DigitalGov") and the [Federal CIO Council](http://cio.gov/) launch the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program") to provide agencies with tools they need to make great mobile products available to the public.
 
 The program&#8211;developed with and by 25 agencies across government&#8211;will help agencies in each stage of mobile development.
 
@@ -39,9 +39,9 @@ The program is chock full of useful resources and tools. For starters there is
 
   *  [RFP-EZ](https://rfpez.gsa.gov/government) helps link agencies and small businesses for tech projects below $150,000&#8211;definitely a sweet spot for many mobile products. The idea is to help agencies reach the talent in startups more quickly and at reasonable cost. We worked with the RFP-EZ team at SBA to include mobile statement of work templates. Now when agencies create a new project in RFP-EZ, they can jumpstart their efforts by choosing the “Mobile Application Development” project type.
 
-  * Agencies can easily create mobile ready websites using [Sites.USA.gov](https://www.WHATEVER/services/sites-usa-gov/ "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
+  * Agencies can easily create mobile ready websites using [Sites.USA.gov]({{< relref "sites-usa-gov.md" >}} "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
 
-The [Federal Apps Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/ "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
+The [Federal Apps Registry]({{< relref "the-federal-mobile-apps-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
 
 ## Just Do It
 

@@ -24,7 +24,7 @@ Content models provide an opportunity for agencies to structure, organize, distr
 
 The point—with good content models, a single piece of Web content becomes an adaptive information asset that can be leveraged anytime, anywhere.
 
-Holly Irving, from the National Institutes of Health, leads a government-wide working group which has been researching industry metadata standards to find common elements for all agencies to use. In May, the group, sponsored by the [Digital Services Innovation Center](https://www.WHATEVER/about/ "About"), released government-wide content models.
+Holly Irving, from the National Institutes of Health, leads a government-wide working group which has been researching industry metadata standards to find common elements for all agencies to use. In May, the group, sponsored by the [Digital Services Innovation Center]({{< relref "about.md" >}} "About"), released government-wide content models.
 
 Irving recently gave us five reasons why agencies should start using the government shared [Article and Event models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!"), released in May, and stop reinventing the content wheel:
 
@@ -36,6 +36,6 @@ Irving recently gave us five reasons why agencies should start using the governm
 
 Interested in learning how to take the first step in improving your agency’s accessibility and usability with the Open and Structured Content Models?
 
-You can comment and improve on the content models anytime on GitHub. Also, sign up for the [Open and Structured Content Models Project Hands On Workshop](https://www.WHATEVER/event/open-and-structured-content-models-project-hands-on-workshop/) on September 16.
+You can comment and improve on the content models anytime on GitHub. Also, sign up for the [Open and Structured Content Models Project Hands On Workshop]({{< relref "open-and-structured-content-models-project-hands-on-workshop.md" >}}) on September 16.
 
 _**Holly Irving** is a Digital Information Specialist for the National Institute of Allergy and Infectious Diseases at the National Institutes of Health._

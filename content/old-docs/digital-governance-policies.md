@@ -19,4 +19,4 @@ Start by using this document to map out a governance plan for your agency. Let u
   1. Start a discussion on the **Digital Council listserv** about what you would like to see changed.
   2. Edit the page on Github or leave a comment in an Issue: <https://github.com/GSA/digital-governance-outline/>
 
-You can download version 1.1 of the [Digital Governance Policy Outline as a PDF »](https://www.WHATEVER/files/2017/05/OutlineDigitalGovernancePolicy.pdf)
+You can download version 1.1 of the [Digital Governance Policy Outline as a PDF »](CDN/files/2017/05/OutlineDigitalGovernancePolicy.pdf)

@@ -40,4 +40,4 @@ You can download the total number of clicks for all of your short URLs by loggin
 
 If you have suggestions, comments, or questions about Go.USA.gov, please e-mail [email us](mailto:go.usa.gov@gsa.gov).
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme](https://www.WHATEVER/recent-monthly-themes/)._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}})._

@@ -10,6 +10,6 @@ Contact Centers are becoming the hub for federal agencies to gather valuable, de
 
 This section on Contact Centers provides information on planning a Contact Center, technologies, operations and management, and requirements and [best practices](https://www.WHATEVER/2014/01/09/top-eight-best-practices-for-federal-contact-centers/ "Top Eight Best Practices for Federal Contact Centers").
 
-  * [Getting Started with your Contact Center](https://www.WHATEVER/resources/contact-center-guidelines/getting-started-with-your-contact-center/ "Getting Started with your Contact Center")
-  * [Contact Center Technologies](https://www.WHATEVER/resources/contact-center-guidelines/contact-center-technologies/ "Contact Center Technologies")
-  * [Contact Center Operation and Management](https://www.WHATEVER/resources/contact-center-guidelines/contact-center-operation-and-management/ "Contact Center Operation and Management")
+  * [Getting Started with your Contact Center]({{< relref "getting-started-with-your-contact-center.md" >}} "Getting Started with your Contact Center")
+  * [Contact Center Technologies]({{< relref "contact-center-technologies.md" >}} "Contact Center Technologies")
+  * [Contact Center Operation and Management]({{< relref "contact-center-operation-and-management.md" >}} "Contact Center Operation and Management")

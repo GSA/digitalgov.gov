@@ -35,7 +35,7 @@ Generally, these service-delivery-focused, voluntary collections fall under the 
 Ask your agency PRA or Privacy Officer, or Counsel&#8217;s office, if your survey is eligible for the fast-track process.
 
   * [Fast-Track PRA Frequently-Asked Questions](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/pra-faqs.pdf) (PDF, 370 KB, 8 pages, February 2012)
-  * [Fast Track PRA Submission Short Form](https://www.WHATEVER/files/2017/05/fast-track-PRA-submission-short-form-3.doc) (MS Word, 53 KB, 3 pages, February 2012)
+  * [Fast Track PRA Submission Short Form](CDN/files/2017/05/fast-track-PRA-submission-short-form-3.doc) (MS Word, 53 KB, 3 pages, February 2012)
 
 ### Traditional PRA Process
 

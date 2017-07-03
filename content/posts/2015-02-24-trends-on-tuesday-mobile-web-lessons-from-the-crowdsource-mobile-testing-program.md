@@ -23,7 +23,7 @@ tag:
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 
-For federal agencies that have developed their own apps or mobile-friendly sites, the [CrowdSource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) offers a simple way to collect feedback on [compatibility testing](https://www.WHATEVER/2013/11/21/mobile-product-compatibility-and-functional-testing-101/).
+For federal agencies that have developed their own apps or mobile-friendly sites, the [CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) offers a simple way to collect feedback on [compatibility testing](https://www.WHATEVER/2013/11/21/mobile-product-compatibility-and-functional-testing-101/).
 
 Since the program’s inception in March 2013, eight federal mobile websites (including responsive design) have been tested by 65 federal employees from 41 agencies. The benefits are twofold: agencies receive actionable feedback about their mobile websites, and testers gain valuable knowledge about mobile websites that they can share with their own agencies.
 
@@ -61,4 +61,4 @@ Mobile devices may behave differently as they switch between WiFi and cellular d
 
 Do you want to help us create more mobile lessons learned? Join in and sign up to help us [virtually test BusinessUSA.gov](https://midas.18f.us/tasks/45) at your leisure next week.
 
-You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page](https://www.WHATEVER/services/mobile-application-testing-program/) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile").
+You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{< relref "mobile-application-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link "cagegories/mobile" >}} "Mobile").

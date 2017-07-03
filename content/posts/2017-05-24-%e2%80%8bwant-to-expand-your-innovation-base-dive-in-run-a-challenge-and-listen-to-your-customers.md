@@ -27,7 +27,7 @@ The [Office of the National Coordinator](https://www.healthit.gov/) (ONC) is a s
 
 But to be truly innovative, we need input from more than just the big stakeholders, particularly in this age of smartphones and apps. We also need innovation from people and entities that are completely new to health IT. But if they don&#8217;t know about ONC and aren&#8217;t up to speed on the newest policies, tools, and initiatives that we offer, that&#8217;s going to lead to reengineering and hurdles down the line as they develop new products and enter the marketplace.
 
-Enter prize competitions. {{< legacy-img src="https://www.WHATEVER/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+Enter prize competitions. {{< legacy-img src="CDN/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
 We created a prize challenge program to help address this innovator and startup issue. One of the benefits of a challenge is being able to tap expertise you didn’t know existed and put you in contact with innovators you otherwise would not have engaged. Having these “outsiders” work on problems presented by ONC would help bring them into the fold. At the beginning, my colleagues and I didn&#8217;t know much about the actual mechanics of running challenges, so we brought on private sector contractors with the relevant experience to help us get things up and running. We also had to create a structure that would accommodate different kinds of challenges with their unique goals and outputs.
 

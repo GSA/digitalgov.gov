@@ -17,7 +17,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="https://www.WHATEVER/?s=responsive+design">agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg" alt="Home Screen of AIDS.gov's responsively designed web site on a smartphone." >}}</a>Responsive web design has been a beacon of light in the darkness of mobile strategy for many federal agencies. Many <a href="FIND?s=responsive+design.md)>agencies have implemented it </a>and many others are exploring this approach to Mobile Gov.
 </p>
 
 <p dir="ltr">
@@ -39,7 +39,7 @@ tag:
 Have you implemented or are you planning to implement a responsively designed site?
 
 <p dir="ltr">
-  Come help us answer these questions, update/build some new mobile <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/">user experience recommendations</a> and get your agency’s responsive implementation a leg up!
+  Come help us answer these questions, update/build some new mobile <a title="Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">user experience recommendations</a> and get your agency’s responsive implementation a leg up!
 </p>
 
 <p dir="ltr">

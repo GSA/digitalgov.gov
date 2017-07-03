@@ -16,8 +16,8 @@ authors:
 
   * **Go back to the [homepage](https://www.WHATEVER).**
   * [Search](http://find.WHATEVER/search?affiliate=digitalgov) for it.
-  * Look at the [sitemap](https://www.WHATEVER/sitemap/)
-  * Check out a list of [pages that have been moved](https://www.WHATEVER/about/lost-and-found-mapping-page/ "Lost and Found – Mapping Page").
+  * Look at the [sitemap]({{< relref "sitemap.md" >}})
+  * Check out a list of [pages that have been moved]({{< relref "lost-and-found-mapping-page.md" >}} "Lost and Found – Mapping Page").
   * [Let us know this page is missing](mailto:digitalgov@gsa.gov) by sending us an email.
 
  

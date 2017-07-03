@@ -189,7 +189,7 @@ These high-level policies cover basic requirements for all digital products and 
                           <a href="http://www.copyright.gov/">Copyright.gov</a>
                         </li>
                         <li>
-                          <a href="https://www.WHATEVER/files/2014/01/United-States-government-works-and-copyright.doc">United States Government Works and Copyright Act of 1976</a> (MS Word, 16 KB, 2 pages, June 2011)
+                          <a href="CDN/files/2014/01/United-States-government-works-and-copyright.doc">United States Government Works and Copyright Act of 1976</a> (MS Word, 16 KB, 2 pages, June 2011)
                         </li>
                       </ul>
                     </td></tr> 
@@ -209,7 +209,7 @@ These high-level policies cover basic requirements for all digital products and 
                                 <a href="https://obamawhitehouse.archives.gov/the-press-office/2011/04/27/executive-order-13571-streamlining-service-delivery-and-improving-custom">Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service</a> (April 2011)
                               </li>
                               <li>
-                                See all <a href="https://www.WHATEVER/resources/government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
+                                See all <a href="{{< relref "resources.md" >}}government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
                               </li>
                               <li>
                                 <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-26.pdf">New Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act</a> (June 15, 2011) (4 pages, 196 kb)
@@ -298,7 +298,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                       </h3>
                                                       
                                                       <p>
-                                                        Include all <a href="https://www.WHATEVER/resources/required-web-content-and-links/">required content and links</a>, including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text).</td> 
+                                                        Include all <a href="{{< relref "required-web-content-and-links.md" >}}">required content and links</a>, including FOIA info. Include a text link back to your homepage on every page of your website (typically in site header.) (If you use a graphical link, it must have appropriate alt text).</td> 
                                                         
                                                         <td style="text-align: left;vertical-align: top;width: 50%;border: none">
                                                           <ul>

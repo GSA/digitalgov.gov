@@ -100,7 +100,7 @@ Among the most recent competitions:
   * The Environmental Protection Agency (EPA) is looking for [technologies to recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
   * The Bureau of Reclamation is looking for solutions to [count food for critical fish species](https://www.challenge.gov/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/).
 
-Read more about [successful federal challenges](https://www.WHATEVER/category/challenges/) and best practices for those interested in hosting one.
+Read more about [successful federal challenges]({{< relref "challenges.md" >}}) and best practices for those interested in hosting one.
 
 ## Crowdfunding
 
@@ -118,4 +118,4 @@ Consider which format would be best for your program; look through the options a
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice](https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/) and the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< relref "challenges-prizes-community.md" >}}).

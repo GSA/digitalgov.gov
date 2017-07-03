@@ -49,7 +49,7 @@ Over the past 90 days, government websites were visited over 2.55 billion times.
 
 However, according to ITIF’s findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
 
-So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
+So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="CDN/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
 
 ## Improving Your Site’s Performance
 
@@ -59,11 +59,11 @@ When the report looked at page load speed, it took desktop and mobile page speed
 
 Performance/load time for Web pages has become so important that [Google now considers it]({{< relref "2016-03-29-google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md" >}} one of three equal components to good user experience, along with design and functionality, he noted.
 
-If you are looking to improve your performance, or just get a sense for how well your site is doing, [start with this article on Why Speed Matters]({{< relref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}. It explains which metrics you should be measuring for and there is a [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) video course, [Speed Matters: Web Design Performance Load Time](https://www.youtube.com/watch?v=sDTgYySlvEI) (duration: 45 minutes), that details a number of free or low-cost testing tools for measuring performance.
+If you are looking to improve your performance, or just get a sense for how well your site is doing, [start with this article on Why Speed Matters]({{< relref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}. It explains which metrics you should be measuring for and there is a [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU) video course, [Speed Matters: Web Design Performance Load Time](https://www.youtube.com/watch?v=sDTgYySlvEI) (duration: 45 minutes), that details a number of free or low-cost testing tools for measuring performance.
 
 **Resources & Tools**
 
-  * [Join our UX Community](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)
+  * [Join our UX Community]({{< relref "federal-user-experience-community-of-practice.md" >}})
   * [Google Page Speed](https://developers.google.com/speed/pagespeed/)
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [GTMetrix](https://gtmetrix.com/)
@@ -90,7 +90,7 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
 
 **Resources & Tools**
 
-  * [Join our MobileGov Community](https://www.WHATEVER/communities/mobile/)
+  * [Join our MobileGov Community]({{< link "cagegories/mobile" >}})
   * [Mobile Development and Testing with Chrome Developer Tools]({{< relref "2016-11-21-mobile-development-and-testing-with-chrome-devtools.md" >}}
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [Four Steps to Achieve Good SEO]({{< relref "2013-05-31-four-steps-to-achieve-good-seo.md" >}}
@@ -133,7 +133,7 @@ With the January release of the [Access Board’s final rule](https://www.access
 
 **Resources & Tools**
 
-  * [Join our User Experience (UX) Community](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)
+  * [Join our User Experience (UX) Community]({{< relref "federal-user-experience-community-of-practice.md" >}})
   * [Accessibility Resource List](https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
   * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
   * [Agency Implementation Guides](https://section508.gov/agency-shared-guidance)
@@ -147,6 +147,6 @@ _Do you want more information on accessibility resources?_ [_Email us_](mailto:d
 
 _All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
 
-_Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}}_, authoritative sources of government information._ [_Learn more_]({{< relref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry.md" >}} _about the Registry (there’s also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_](https://www.WHATEVER/services/u-s-digital-registry/)_._ 
+_Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}}_, authoritative sources of government information._ [_Learn more_]({{< relref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry.md" >}} _about the Registry (there’s also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_]({{< relref "u-s-digital-registry.md" >}})_._ 
 
-_If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our_ [_Communities_](https://www.WHATEVER/communities/) _page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more._
+_If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our_ [_Communities_]({{< relref "communities.md" >}}) _page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more._

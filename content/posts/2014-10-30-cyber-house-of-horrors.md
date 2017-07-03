@@ -62,4 +62,4 @@ With a little knowledge and some active vigilance, the benefit of the Internet o
 
 For more information about cybersecurity, check out the [STOP.THINK.CONNECT. website.](http://www.staysafeonline.org/stop-think-connect/)
 
-_**Jordan Higgins** is a Web and social media manager in the Office of Corporate Communications at the Defense Intelligence Agency, and an active leader in the [Federal SocialGov Community](https://www.WHATEVER/communities/social-media/ "Social Media"). The views expressed in this article are the author&#8217;s personal ones._
+_**Jordan Higgins** is a Web and social media manager in the Office of Corporate Communications at the Defense Intelligence Agency, and an active leader in the [Federal SocialGov Community]({{< relref "social-media.md" >}} "Social Media"). The views expressed in this article are the author&#8217;s personal ones._

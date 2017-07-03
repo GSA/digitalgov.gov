@@ -31,5 +31,5 @@ The Pew Research Center released a report in July that shows </span><span style=
     </p>
     
     <p>
-      Government agencies should keep this in mind when planning their digital properties, focusing on <a href="https://www.WHATEVER/2016/03/29/google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may/">mobile-optimized</a> and <a href="https://www.WHATEVER/tag/multilingual/">multilingual</a> experiences to serve <a href="http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/">one of the largest and fastest growing groups</a> in America. 
+      Government agencies should keep this in mind when planning their digital properties, focusing on <a href="https://www.WHATEVER/2016/03/29/google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may/">mobile-optimized</a> and <a href="{{< relref "multilingual.md" >}}">multilingual</a> experiences to serve <a href="http://www.pewresearch.org/fact-tank/2014/06/26/u-s-hispanic-and-asian-populations-growing-but-for-different-reasons/">one of the largest and fastest growing groups</a> in America. 
     </p>

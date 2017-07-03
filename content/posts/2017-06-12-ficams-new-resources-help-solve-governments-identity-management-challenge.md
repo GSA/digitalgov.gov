@@ -12,7 +12,7 @@ tag:
   - security
 ---
 
-In today’s digital world, it’s imperative that government agencies safeguard citizens’ physical and electronic security. In the world of Federal IT, adopting and advancing cybersecurity can’t be accomplished in one day, or by one agency. Federal agencies must work together to tackle complex problems and stay ahead of evolving network threats. {{< legacy-img src="https://www.WHATEVER/files/2016/10/600-x-450-Security-concept-Gold-Closed-Padlock-on-digital-background-Maksim-Kabakou-iStock-Thinkstock-166739999.jpg" alt="Security concept: Gold Closed Padlock on digital background." caption="" >}} 
+In today’s digital world, it’s imperative that government agencies safeguard citizens’ physical and electronic security. In the world of Federal IT, adopting and advancing cybersecurity can’t be accomplished in one day, or by one agency. Federal agencies must work together to tackle complex problems and stay ahead of evolving network threats. {{< legacy-img src="CDN/files/2016/10/600-x-450-Security-concept-Gold-Closed-Padlock-on-digital-background-Maksim-Kabakou-iStock-Thinkstock-166739999.jpg" alt="Security concept: Gold Closed Padlock on digital background." caption="" >}} 
 
 The Federal Identity, Credential, and Access Management (FICAM) team helps agencies enable the right individual to access the right resource, at the right time, for the right reason.  To aid in this mission, the FICAM program has launched a series of revamped digital tools for our customers, including:
 

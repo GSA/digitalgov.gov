@@ -42,6 +42,6 @@ You might want to know what&#8217;s involved in [mobile user testing](https://ww
 
 ## Upcoming Events
 
-Join us on November 19th for our [Hands-On Usability Testing Workshop](https://www.WHATEVER/event/november-usability-testing-workshop/ "November Usability Testing Workshop") or our November 25th [Around the Horn Call](https://www.WHATEVER/event/november-mobile-gov-around-the-horn-call/ "Mobile Terms of Service: November Around the Horn Call").
+Join us on November 19th for our [Hands-On Usability Testing Workshop]({{< relref "november-usability-testing-workshop.md" >}} "November Usability Testing Workshop") or our November 25th [Around the Horn Call]({{< relref "november-mobile-gov-around-the-horn-call.md" >}} "Mobile Terms of Service: November Around the Horn Call").
 
-[Tell us what other Usability events you&#8217;d like to see](https://www.WHATEVER/contact-us/ "Contact Us") this coming year or [tell us](https://www.WHATEVER/contact-us/ "Contact Us") about ways in which you&#8217;ve made strides by implementing a UX program at your agency.
+[Tell us what other Usability events you&#8217;d like to see]({{< relref "contact-us.md" >}} "Contact Us") this coming year or [tell us]({{< relref "contact-us.md" >}} "Contact Us") about ways in which you&#8217;ve made strides by implementing a UX program at your agency.

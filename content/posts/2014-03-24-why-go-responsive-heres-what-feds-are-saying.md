@@ -21,7 +21,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Responsive Web design <a title="Responsive Web Design" href="https://www.WHATEVER/tag/responsive-web-design/">implementations in the federal government</a> have members of the <a title="Mobile" href="https://www.WHATEVER/communities/mobile/">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
+  Responsive Web design <a title="Responsive Web Design" href="{{< relref "responsive-web-design.md" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< link "cagegories/mobile" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
 </p>
 
 <p dir="ltr">
@@ -77,5 +77,5 @@ tag:
 </p>
 
 <p dir="ltr">
-  Federal employees can let us know their thoughts on responsive Web design at next week’s <a href="https://www.WHATEVER/event/april-mobile-around-the-horn-call/">MobileGov Around the Horn Call</a>.
+  Federal employees can let us know their thoughts on responsive Web design at next week’s <a href="{{< relref "april-mobile-around-the-horn-call.md" >}}">MobileGov Around the Horn Call</a>.
 </p>

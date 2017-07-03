@@ -24,7 +24,7 @@ From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government." >}}
 
-A recent [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI) provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
+A recent [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU) [webinar](https://www.youtube.com/watch?v=FfrUME9y-wI) provides an introduction to the concept and shows how the federal government is using it to engage the public and address important issues.
 
 The federal government has seen [a surge of citizen science initiatives](https://www.WHATEVER/2016/06/24/white-house-challenges-citizen-science-among-top-innovation-efforts-of-past-8-years/) thanks to several developments, starting with a [memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from the White House [Office of Science and Technology Policy](https://www.whitehouse.gov/administration/eop/ostp) (OSTP) that outlined ways agencies can use citizen science. The memo also gave birth to [CitizenScience.gov](https://www.citizenscience.gov/), the government’s new hub for all things citizen science.
 

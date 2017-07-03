@@ -32,7 +32,7 @@ Plus, there’s always the issue of getting buy-in. I’ve heard the concern exp
 
 Still, [supervisors on the whole are supportive](https://www.youtube.com/watch?v=8VeWAtdfOio&index=1&list=PLd9b-GuOJ3nHS1TFaULnHi6KIt6l83pnb), and the existence of this interagency skills exchange is a gigantic leap forward for those who want to learn new skills without leaving their duty station for a significant amount of time. And there has been a noticeable trend upward in employee interest in the program since I started posting tasks a few months ago.
 
-When they hear how it works in practice, the program sounds so good that people sometimes ask me, “can this be for real?” I’ve even had non-participants contact me, wanting to learn [how to create tasks](https://www.WHATEVER/resources/open-opportunities-task-creator-toolkit/), create community around them, and generally what my experience with the program has been.
+When they hear how it works in practice, the program sounds so good that people sometimes ask me, “can this be for real?” I’ve even had non-participants contact me, wanting to learn [how to create tasks]({{< relref "open-opportunities-task-creator-toolkit.md" >}}), create community around them, and generally what my experience with the program has been.
 
 Indeed, this program has proven to be a lifesaver. Not only is it useful for getting specific tasks done, but it also:
 

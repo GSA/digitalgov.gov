@@ -17,10 +17,10 @@ tag:
 
 Now, you may be wondering, “Does my agency fit in that category?” Two years ago, the [Digital Government Strategy](http://www.whitehouse.gov/blog/2012/05/23/roadmap-digital-government) required agencies to start planning and implementing anytime, anywhere strategies.
 
-In addition, mobile is a changing technology and the Digital Government Strategy created the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/) to help agencies plan, develop, test and launch mobile products and services for the public.
+In addition, mobile is a changing technology and the Digital Government Strategy created the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}}) to help agencies plan, develop, test and launch mobile products and services for the public.
 
-The public expects to have access to government information anytime, anywhere. Government agencies can only meet this growing demand if they have a mobile technology strategy in place and keep abreast of [the latest trends]({{< link href="tag/trends-on-tuesday" >}}). [Join the Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/) to keep up with the latest and greatest government mobile.
+The public expects to have access to government information anytime, anywhere. Government agencies can only meet this growing demand if they have a mobile technology strategy in place and keep abreast of [the latest trends]({{< link href="tag/trends-on-tuesday" >}}). [Join the Mobile Gov Community of Practice]({{< link "cagegories/mobile" >}}) to keep up with the latest and greatest government mobile.
 
-_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
 
 _Photo Credit: Lihua Peng/iStock/Thinkstock_

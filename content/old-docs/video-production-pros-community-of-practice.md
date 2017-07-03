@@ -23,7 +23,7 @@ We launched in 2016 to help people connect and share great ideas. Video Producti
 If you are a U.S. government employee with a **.gov** or **.mil** email address, click the “Email us to Join” button below to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -63,7 +63,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 </div>
 
 <div class="one-fifth">
-  {{< legacy-img src="https://www.WHATEVER/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -137,11 +137,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="https://www.WHATEVER/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="https://www.WHATEVER/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -155,5 +155,5 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>

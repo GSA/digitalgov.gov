@@ -20,4 +20,4 @@ authors:
 
  
 
-See all [DigitalGov Resources](https://www.WHATEVER/resources/)
+See all [DigitalGov Resources]({{< relref "resources.md" >}})

@@ -27,4 +27,4 @@ tag:
 
 If you’re wondering whether or not your agency’s mobile application is designed to meet stakeholder needs, ask yourself, “What can we provide users in a mobile moment?” My fellow blogger Gwynne [gave a perfect example](https://www.WHATEVER/2014/06/10/digitalgov-irl-6-ways-to-get-it-right/ "DigitalGov IRL: 6 Ways To Get It Right") of how The National Oceanic and Atmospheric Administration (NOAA) has succeeded in doing this through National Weather Service alerts. The more your agency understands the journey that mobile users take through your information and services, the better you will be able to translate those behaviors into mobile application designs that fulfill their needs—in a mobile moment.
 
-Learn more about how your agency can create a successful [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program").
+Learn more about how your agency can create a successful [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program").

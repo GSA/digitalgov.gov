@@ -10,7 +10,7 @@ tag:
   - DGU
 ---
 
-{{< legacy-img src="https://www.WHATEVER/files/2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}} 
+{{< legacy-img src="CDN/files/2015/02/250-x-212-DGU-Partner-Event-using-DG-logo-colors-image-from-People-in-action-logos-and-icons-marko187-iStock-Thinkstock-451025551.jpg" alt="DGU Friend Event icon" caption="" >}} 
 
 You may have seen this icon on our calendar recently. This icon indicates a digitalgov &#8220;friend event.&#8221;
 
@@ -20,7 +20,7 @@ You may have seen this icon on our calendar recently. This icon indicates a digi
   * Are they free?
   * Are they open to other federal government agencies?
 
-If you answered YES to all three questions then you have a friend event that we want on the [DigitalGov Calendar](https://www.WHATEVER/events).
+If you answered YES to all three questions then you have a friend event that we want on the [DigitalGov Calendar]({{< link "events" >}}.
 
 ## Just 3 steps
 

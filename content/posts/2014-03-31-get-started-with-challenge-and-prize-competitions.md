@@ -21,7 +21,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  2) <a title="link to Challenges page on DigitalGov.gov" href="https://www.WHATEVER/category/challenges/">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
+  2) <a title="link to Challenges page on DigitalGov.gov" href="{{< relref "challenges.md" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 </p>
 
   * [Software/apps](https://www.WHATEVER/2013/11/06/software-and-apps-challenges/ "Software/apps challenge toolkit")
@@ -32,7 +32,7 @@ tag:
 This includes details on the policies and <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
 
 <p dir="ltr">
-  3) Digital Gov University. A robust resource of <a href="https://www.WHATEVER/digitalgov-university/video-library/">archived training</a> and <a title="link to upcoming DigitalGov University training" href="https://www.WHATEVER/events/">upcoming events</a>. Some of the most popular webinars are:
+  3) Digital Gov University. A robust resource of <a href="{{< relref "video-library.md" >}}">archived training</a> and <a title="link to upcoming DigitalGov University training" href="{{< link "events" >}}">upcoming events</a>. Some of the most popular webinars are:
 </p>
 
   * [Metrics and measurements](http://www.youtube.com/watch?v=wBnQhDS1gZg)
@@ -48,7 +48,7 @@ This includes details on the policies and <a href="http://www.whitehouse.gov/sit
 </p>
 
 <p dir="ltr">
-  6) The <a href="https://www.WHATEVER/communities/challenges-prizes-community/">Community of Practice</a> email address: <a href="mailto:challenges@listserv.gsa.gov">challenges@listserv.gsa.gov</a>. This is a government only listserv, if you have questions you want to ask all the other agencies in the group. You&#8217;ll also receive email alerts about training, events, networking opportunities, and new reports and resources.
+  6) The <a href="{{< relref "challenges-prizes-community.md" >}}">Community of Practice</a> email address: <a href="mailto:challenges@listserv.gsa.gov">challenges@listserv.gsa.gov</a>. This is a government only listserv, if you have questions you want to ask all the other agencies in the group. You&#8217;ll also receive email alerts about training, events, networking opportunities, and new reports and resources.
 </p>
 
 And the last resource is&#8230; the Challenge.gov team! Email us at <challenge@gsa.gov> if you would like to set up a consultation. We help with overall competition strategies, issues and needs, problem definition, metrics and measurements, access to guidance and policies, introductions among peers in the community of practice and more.

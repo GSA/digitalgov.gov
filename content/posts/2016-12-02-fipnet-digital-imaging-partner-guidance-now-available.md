@@ -27,7 +27,7 @@ The Guidance document is provided to encourage libraries and other stakeholders 
   * Prescribes preferred and acceptable specifications for digital imaging, including file formats, bit depth, and resolution
   * Describes preferred and acceptable specifications for Technical and Bibliographic metadata to accompany imaging files
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-418-Examples-of-text-at-200-700-pixels-per-inch-ppi-GPO-FIPNet-Guidance-draft-doc.jpg" alt="Examples of text at 200 — 700 pixels per inch (ppi). GPO/FDLP" >}}
+{{< legacy-img src="CDN/files/2017/03/600-x-418-Examples-of-text-at-200-700-pixels-per-inch-ppi-GPO-FIPNet-Guidance-draft-doc.jpg" alt="Examples of text at 200 — 700 pixels per inch (ppi). GPO/FDLP" >}}
 
 If you are planning a digital imaging project, would like to contribute content to FDsys (**govinfo**), or just have questions about this guidance document, please [contact us by email](mailto:PreserveFedInfo@gpo.gov).
 

@@ -67,8 +67,8 @@ Finally, Bacon and Davis emphasized that the positive impact doesn’t end once 
 
 _Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ 
 
-_The [Post-Prize Industry and Post-Prize Impact webinar](https://www.WHATEVER/event/module-7-post-prize-industry-and-the-post-prize-impact/) will take place on Jan. 14._
+_The [Post-Prize Industry and Post-Prize Impact webinar]({{< relref "events/module-7-post-prize-industry-and-the-post-prize-impact.md" >}}) will take place on Jan. 14._
 
-_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< relref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}, hosted by [DigitalGov University](https://www.WHATEVER/digitalgov-university/)._
+_These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< relref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}, hosted by [DigitalGov University]({{< relref "digitalgov-university.md" >}})._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

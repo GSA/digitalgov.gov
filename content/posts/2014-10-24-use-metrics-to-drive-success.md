@@ -11,7 +11,7 @@ tag:
   - Open Opportunities program
 ---
 
-Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/).
+Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< relref "open-opportunities-in-digitalgov.md" >}}).
 
 We had a built-in test case. When the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital governance and getting better customer feedback. Our team at GSA was chartered to support agencies, and we were looking for innovators across government to contribute. We outlined our hypotheses:
 

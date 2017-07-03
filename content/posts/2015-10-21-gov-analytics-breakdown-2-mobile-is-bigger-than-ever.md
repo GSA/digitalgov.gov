@@ -19,7 +19,7 @@ tag:
   - user experience
 ---
 
-A review of the <a href="https://www.WHATEVER/services/dap/" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**
+A review of the <a href="{{< relref "dap.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**
 
 Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the last three years:
 

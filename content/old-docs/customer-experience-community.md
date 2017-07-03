@@ -21,7 +21,7 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
  
 
 <div style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## **Getting Started**
@@ -31,11 +31,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Customer Experience Toolkit" href="https://www.WHATEVER/resources/customer-experience-toolkit/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2014/01/hp-featured-pg-348-x-226-Online-support-Toolbox-with-tools-on-laptop-Bet_Noire-iStock-Thinkstock-474465197.jpg" alt="Customer Experience Toolkit" >}}</a>
+          <a title="Permanent Link to Customer Experience Toolkit" href="{{< relref "customer-experience-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2014/01/hp-featured-pg-348-x-226-Online-support-Toolbox-with-tools-on-laptop-Bet_Noire-iStock-Thinkstock-474465197.jpg" alt="Customer Experience Toolkit" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/customer-experience-toolkit/">Customer Experience Toolkit</a>
+          <a href="{{< relref "customer-experience-toolkit.md" >}}">Customer Experience Toolkit</a>
         </h4>
       </div>
     </div>
@@ -81,11 +81,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Paperwork Reduction Act (PRA) Fast Track Process" href="https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2014/01/hp-featured-pg-348-x-226-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Paperwork Reduction Act (PRA) Fast Track Process" >}}</a>
+          <a title="Permanent Link to Paperwork Reduction Act (PRA) Fast Track Process" href="{{< relref "paperwork-reduction-act-fast-track-process.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2014/01/hp-featured-pg-348-x-226-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Paperwork Reduction Act (PRA) Fast Track Process" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/">Paperwork Reduction Act (PRA) Fast Track Process</a>
+          <a href="{{< relref "paperwork-reduction-act-fast-track-process.md" >}}">Paperwork Reduction Act (PRA) Fast Track Process</a>
         </h4>
       </div>
     </div>
@@ -113,11 +113,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to DAP: Digital Metrics Guidance and Best Practices" href="https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2013/07/hp-featured-pg-348-x-226-Best-practice-on-digital-tablet-marekuliasz-iStock-Thinkstock-GettyImages_465902491.jpg" alt="DAP: Digital Metrics Guidance and Best Practices" >}}</a>
+          <a title="Permanent Link to DAP: Digital Metrics Guidance and Best Practices" href="{{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2013/07/hp-featured-pg-348-x-226-Best-practice-on-digital-tablet-marekuliasz-iStock-Thinkstock-GettyImages_465902491.jpg" alt="DAP: Digital Metrics Guidance and Best Practices" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/">DAP: Digital Metrics Guidance and Best Practices</a>
+          <a href="{{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
         </h4>
       </div>
     </div>
@@ -213,11 +213,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Read more articles on customer experience" href="https://www.WHATEVER/tag/customer-experience-2/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Businessman-writing-several-words-about-satisfaction-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-179693036.jpg" alt="Read more articles on customer experience" >}}</a>
+          <a title="Permanent Link to Read more articles on customer experience" href="{{< link "tag/customer-experience" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Businessman-writing-several-words-about-satisfaction-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-179693036.jpg" alt="Read more articles on customer experience" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/tag/customer-experience-2/">Read more articles on Customer Experience</a>
+          <a href="{{< link "tag/customer-experience" >}}">Read more articles on Customer Experience</a>
         </h4>
       </div>
     </div>
@@ -233,9 +233,9 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About the Community**
 
-The CX-COP is a platform for government CX practitioners to ask questions, share best practices, and collaborate to improve the government customer experience. The group is sponsored by GSA’s [Office of Citizen Services and Innovative Technologies](https://www.WHATEVER/about/).
+The CX-COP is a platform for government CX practitioners to ask questions, share best practices, and collaborate to improve the government customer experience. The group is sponsored by GSA’s [Office of Citizen Services and Innovative Technologies]({{< relref "about.md" >}}).

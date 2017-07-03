@@ -28,7 +28,7 @@ In honor of [World Usability Day](http://www.worldusabilityday.org/), which happ
       * Issuing a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview) to deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government;
       * Standing up a new [Social and Behavioral Sciences Team](https://sbst.gov/) to translate findings and methods from the social and behavioral sciences into improvements in federal policies and programs;
       * Creating the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to use the best of product design and engineering practices to transform the way government works.
-  * Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt agile design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies](https://www.WHATEVER/resources/digitalgov-user-experience-program/government-usability-case-studies/) and [Usability Starter Kit](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/) are still very much alive!)
+  * Though the DigitalGov UX program (and its roots as the First Fridays Usability Program) has sadly gone away, [GSA’s 18F team](https://18f.gsa.gov/) is helping agencies adopt agile design and testing methods to speed delivery and improve customer interactions with government. (The program may have ended, but the [usability case studies]({{< relref "government-usability-case-studies.md" >}}) and [Usability Starter Kit]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) are still very much alive!)
   * Finally, the government UX and CX communities continue to grow. The UX community now has almost 800 people, and the CX community has grown to over 500 members since it launched in April 2015.
 
 ## Exploring the Terms
@@ -50,15 +50,15 @@ For example, at GSA, our Customer Team helps program offices learn to approach t
 CX and UX are everywhere in government now. However you define them, agencies are making huge strides to improve our products and services, making it easier for citizens and businesses to work with us. Both the UX and CX communities offer content and training to help you improve the customer experience at your agency. Check out these resources:
 
   * Join a community 
-      * [Customer Experience](https://www.WHATEVER/communities/customer-experience-community/)
-      * [User Experience](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/)
+      * [Customer Experience]({{< relref "customer-experience-community.md" >}})
+      * [User Experience]({{< relref "federal-user-experience-community-of-practice.md" >}})
   * Take some training 
-      * [Upcoming events from DigitalGov University](https://www.WHATEVER/events/)
+      * [Upcoming events from DigitalGov University]({{< link "events" >}})
       * [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)
       * [UX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nGAp5rEv5-9qfkCMlgohUMr)
-  * Read through the [Usability Starter Kit](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/) and contribute a case study or resource
+  * Read through the [Usability Starter Kit]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
   * A CX Toolkit is also in development; look for it in December 2015.
 
 How has your agency embraced CX and UX? Tell us in the comments.
 
-_Thanks to members of the [UX](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/) and [CX](https://www.WHATEVER/communities/customer-experience-community/) communities for their contributions to this article._
+_Thanks to members of the [UX]({{< relref "federal-user-experience-community-of-practice.md" >}}) and [CX]({{< relref "customer-experience-community.md" >}}) communities for their contributions to this article._

@@ -16,9 +16,9 @@ tag:
   - mobile
 ---
 
-The [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
+The [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
 
-The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {{< legacy-img src="https://www.WHATEVER/files/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}} 
+The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice]({{< link "cagegories/mobile" >}}), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {{< legacy-img src="CDN/files/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}} 
 
 ## Why Mobile Analytics?
 
@@ -45,7 +45,7 @@ The webinar reviewed some important questions to ask as you’re considering wha
 
 DAP believes that the best way to think about mobile reporting is through a three-screen view of desktop, smartphone, and tablet traffic. The [webinar](https://www.youtube.com/watch?v=DgSfm1wZvvE) featured a demo using the mobile analytics data of the National Science Foundation (NSF) that went through mobile segments in basic and custom reports.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" alt="Screen capture from webinar of a slide titled, Demo: how to apply segments in basic reports. " >}}
+{{< legacy-img src="CDN/files/2017/05/600-x-405-DAP-Measuring-Mobile-webinar-recap.png" alt="Screen capture from webinar of a slide titled, Demo: how to apply segments in basic reports. " >}}
 
 ## How to get help and sign up for DAP (free!)
 
@@ -53,6 +53,6 @@ Federal website administrators can [email the DAP Support team](mailto:dap@suppo
 
 
 
-_For additional information regarding federal websites and digital products, visit our [Resources](https://www.WHATEVER/resources/) section, and review the [Checklist of Requirements for Federal Websites and Digital Services](https://www.WHATEVER/resources/checklist-of-requirements-for-federal-digital-services/)._
+_For additional information regarding federal websites and digital products, visit our [Resources]({{< relref "resources.md" >}}) section, and review the [Checklist of Requirements for Federal Websites and Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}})._
 
-_Read some of our recent blog posts on what other agencies are doing in [mobile](https://www.WHATEVER/category/mobile/) and [metrics](https://www.WHATEVER/category/metrics/), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice](https://www.WHATEVER/communities/)._
+_Read some of our recent blog posts on what other agencies are doing in [mobile]({{< link "cagegories/mobile" >}}) and [metrics]({{< relref "metrics.md" >}}), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< relref "communities.md" >}})._

@@ -63,7 +63,7 @@ _Here are some tools and templates to help you create better user experiences. I
   * [PRA Fastrack Request Example](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/fast-track-PRA-submission-short-form-2.doc), via USAJOBS (DOC, 61K, 4 pages, Oct. 2014)
   * [PRA Primer &#8211; OMB Guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/PRAPrimer_04072010-2.pdf) (PDF, 98k, 8 pages, April 2010)
   * [PRA Fast Track FAQ](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/PRA_Fast_Track_FAQs-1.pdf) (PDF, 143k, 8 pages, Dec. 2014)
-  * [Article explaining PRA and FastTrack](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/)
+  * [Article explaining PRA and FastTrack]({{< relref "paperwork-reduction-act-fast-track-process.md" >}})
   * [Fast-Track Clearance Process &#8211; Usability.gov](http://www.usability.gov/how-to-and-tools/guidance/fast-track-clearance-process.html)
   * [How To Create PRA Supporting Statements](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/How-To-Create-a-Supporting-Statement.doc) (DOC, 70 KB, 7 pages, Oct. 2014)
   * [PRA Information Collection Guide](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/PRAInformationCollectionManual.pdf), via OPM (PDF, 1.1 MG, 50 pages, Oct. 2014)

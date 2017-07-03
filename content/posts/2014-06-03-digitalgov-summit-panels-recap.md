@@ -47,7 +47,7 @@ How do you show and track performance in 21st century digital government? Do peo
 
 **Silvia Salazar**,**** Public Health Adviser, **National Cancer Institute, Department of Health & Human Services**, talked about why visitor input is critical. They were able to identify why their blogs or social channels were not getting the traffic they were expecting. Not everyone with cancer wants to share their story with the world. This was an eye-opener and helped to manage expectations for social media usage.
 
-**Ilene France**, Digital Information Specialist, **National Institute of Allergy and Infectious Diseases, Department of Health & Human Services**, explained how the [Digital Analytics Program (DAP)](https://www.WHATEVER/services/dap/) allows for cross agency collaboration. Agencies that are just starting to measure visitor satisfaction can learn from agencies that have a mature DAP in place. Analytics should be used to examine trends over time. Analytics should also be used to examine user behavior via search behavior, mobile sources and social sources.
+**Ilene France**, Digital Information Specialist, **National Institute of Allergy and Infectious Diseases, Department of Health & Human Services**, explained how the [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) allows for cross agency collaboration. Agencies that are just starting to measure visitor satisfaction can learn from agencies that have a mature DAP in place. Analytics should be used to examine trends over time. Analytics should also be used to examine user behavior via search behavior, mobile sources and social sources.
 
 _**Darlene Gamble** is a Web Analytics Specialist at the **Administrative Office of the U. S. Courts.**_
 

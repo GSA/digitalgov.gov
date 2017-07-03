@@ -40,7 +40,7 @@ Manufacturers are unfortunately a frequent target of hackers and attackers. Acco
 
 A <a href="http://www.areadevelopment.com/AssetManagement/Q3-2014/manufacturing-intellectial-property-security-risk-2162611.shtml" target="_blank" rel="noopener noreferrer">Kaspersky Lab Survey</a> of IT managers published in Virus News also found that “21 percent of manufacturers suffered a loss of intellectual property (IP) within the past year.” The most commonly cited reason was malware (computer viruses, spyware, etc.), although a host of related issues including software susceptibilities and misplaced or stolen mobile devices were listed as causes as well.
 
-## Three Tips for Improving Cybersecurity {{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-400-Hardware-security-computer-data-protection-and-electronic-technology-concept-cybrain-iStock-Thinkstock-585308466.jpg" alt="Circuit board and shield icon on blue background with digital code" caption="" >}} 
+## Three Tips for Improving Cybersecurity {{< legacy-img src="CDN/files/2017/05/600-x-400-Hardware-security-computer-data-protection-and-electronic-technology-concept-cybrain-iStock-Thinkstock-585308466.jpg" alt="Circuit board and shield icon on blue background with digital code" caption="" >}} 
 
 Cybersecurity is a complex issue and there are no “quick fixes” to address it. IoT has made security an even more difficult challenge. However, there are things you can do to improve your cybersecurity posture. Here are three important factors to consider:
 

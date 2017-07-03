@@ -15,7 +15,7 @@ tag:
 
 Next month, [Challenge.gov](https://www.challenge.gov/) turns five. A technical platform, a listing of federal prize competitions, and consultation and support services for running impactful challenges all meld into the program, which brings the best ideas and talent together to solve mission-centric problems.
 
-To mark the milestone, the General Services Administration (GSA) will host a [special event](https://www.WHATEVER/event/five-years-of-excellence-in-federal-challenge-prize-competitions/) on Thursday, October 8th, to celebrate Challenge.gov’s accomplishments and to honor some of the visionary teams and individuals using incentivized competitions to spark significant change.
+To mark the milestone, the General Services Administration (GSA) will host a [special event]({{< relref "five-years-of-excellence-in-federal-challenge-prize-competitions.md" >}}) on Thursday, October 8th, to celebrate Challenge.gov’s accomplishments and to honor some of the visionary teams and individuals using incentivized competitions to spark significant change.
 
 The numbers tell the story.
 
@@ -54,7 +54,7 @@ The event will feature a variety of activities of interest both from a federal a
   * Awards to recognize teams and individuals who have raised the bar on prize design and incentives and/or led the adoption of challenges in the federal government
   * Information on new capabilities on the Challenge.gov site.
 
-Be sure to [register](https://www.WHATEVER/event/five-years-of-excellence-in-federal-challenge-prize-competitions/) even if you can’t attend in person, as there will be a live webcast of the festivities. The hashtag #publicprizes will be used.
+Be sure to [register]({{< relref "five-years-of-excellence-in-federal-challenge-prize-competitions.md" >}}) even if you can’t attend in person, as there will be a live webcast of the festivities. The hashtag #publicprizes will be used.
 
 Also, don’t forget to [nominate your choices](https://www.surveymonkey.com/r/challenge_gsa) for the Five Years of Excellence in Federal Challenge & Prize Competitions Event & Awards. You have through Friday, September 11th, to make your nominations.
 

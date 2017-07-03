@@ -28,7 +28,7 @@ Now you’re probably thinking, “Why would my agency let me spend time working
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" >}}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
 
-Be sure to check out [how it works](https://www.WHATEVER/join-digitalgov/open-opportunities-in-digitalgov/how-open-opportunities-works/), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
+Be sure to check out [how it works]({{< relref "how-open-opportunities-works.md" >}}), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
 
 Open Opportunities participant Bridget Roddy from Department of State found that “by lending a hand to others in government [you] get a sense that we are part of one U.S. government agency.”
 

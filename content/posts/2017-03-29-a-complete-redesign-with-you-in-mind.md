@@ -26,7 +26,7 @@ We&#8217;re excited to launch a complete redesign of [USDA.gov](https://www.usda
 
 Through careful planning, thoughtful design, and a primary focus on user experience and usability, we&#8217;ve taken the best of government and industry expertise and put it into creating our new website.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-450-USDA-A-Complete-Redesign-with-You-in-Mind.jpg" alt="Screenshot of the new USDA.gov website." >}}
+{{< legacy-img src="CDN/files/2017/03/600-x-450-USDA-A-Complete-Redesign-with-You-in-Mind.jpg" alt="Screenshot of the new USDA.gov website." >}}
 
 This has been a year-long project, but to do this right, we wanted to make sure we tapped into every possible resource. Throughout the year, we conducted workshops to help define our audiences and develop a new way of organizing the information that matters most to you. We looked at every piece of content and took a ground-up approach to how we manage and deliver that information online, conducting user-testing to refine our strategies, and working with industry experts to bring those plans to reality.
 

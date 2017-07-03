@@ -16,7 +16,7 @@ Check out [Leaflet, available on the Mobile Code Sharing Catalog](http://gsa.git
 
 Leaflet is just one of the many pieces of open source code available on the [Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/index.html) hosted on [GitHub](https://github.com/).
 
-_The Mobile Code Sharing Catalog was developed as part of the [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/ "Mobile Application Development Program"). Developers can find and SHARE source code for native and web projects from a variety of sources._
+_The Mobile Code Sharing Catalog was developed as part of the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). Developers can find and SHARE source code for native and web projects from a variety of sources._
 
   * _Are you a government mobile innovator with some code you’ve developed to share?[ Submit your code](http://gsa.github.io/Mobile-Code-Catalog/form.html)._
   * _Are you a developer who wants to tweak one of the existing government apps or modules? Fork the content and[ make a pull request](https://github.com/GSA/Mobile-Code-Catalog/pulls?direction=desc&page=1&sort=created&state=open)._

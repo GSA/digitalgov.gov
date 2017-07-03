@@ -19,7 +19,7 @@ The [CSP’s role](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/48
 
 The [3PAO’s role](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/3PAO-JAB-P-ATO-Roles-and-Responsibilities-1.pdf) (170 kb PDF, 1 page) in the process is to provide overall discovery, testing, and validation of the CSP’s service offering through the Readiness Assessment, SAP, SAR, and POA&M. They present their findings to the PMO and JAB during the FedRAMP Ready conversation and the JAB Kick-Off meeting. Throughout the process, they answer the JAB’s questions and perform update testing and documentation based on any gaps identified in the CSP’s service offering.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-350-screen-capture-of-the-2-FedRAMP-PDF-files-high.jpg" alt="Side-by-side screen captures of the infographics in the 2 FedRAMP PDF files linked above." >}}
+{{< legacy-img src="CDN/files/2017/05/600-x-350-screen-capture-of-the-2-FedRAMP-PDF-files-high.jpg" alt="Side-by-side screen captures of the infographics in the 2 FedRAMP PDF files linked above." >}}
 
 We hope that Agencies can also leverage this structure when planning their own FedRAMP authorizations and determining how they want to work with CSPs and independent assessors.
 

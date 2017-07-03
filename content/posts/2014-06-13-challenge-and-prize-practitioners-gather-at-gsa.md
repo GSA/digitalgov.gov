@@ -22,9 +22,9 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-Got [innovation](https://www.WHATEVER/category/challenges/ "Link to Challenges Content on DigitalGov.gov")? Well, we do!
+Got [innovation]({{< relref "challenges.md" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
-On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice](https://www.WHATEVER/communities/challenges-prizes-community/) together for its [quarterly meeting](https://www.WHATEVER/event/2013-america-competes-report-challenges-and-prizes-in-person-event/). The group covered two topics:
+On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< relref "challenges-prizes-community.md" >}}) together for its [quarterly meeting]({{< relref "events/2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
 
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.

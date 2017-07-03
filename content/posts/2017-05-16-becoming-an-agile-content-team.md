@@ -17,7 +17,7 @@ tag:
 
 In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-338-Content-Team-Structure.jpg" alt="Agile Workflow and content structure graphic." >}}
+{{< legacy-img src="CDN/files/2017/05/600-x-338-Content-Team-Structure.jpg" alt="Agile Workflow and content structure graphic." >}}
 
 We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team:
 

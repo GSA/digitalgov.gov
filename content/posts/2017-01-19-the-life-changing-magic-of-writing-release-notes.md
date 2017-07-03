@@ -18,7 +18,7 @@ A key part of agile development is constantly shipping new features. The team be
 
 With so many changes happening to the product every two weeks, it can be hard to keep track of how the product is growing and improving. After several months of regularly shipping new features, we found our 18F team and our partners at the FEC needed a better way to keep track of what improvements are in each release. Sure, we would have dozens of completed user stories and squished bugs, but with a complex application it was hard to turn a set of closed GitHub issues into a human-readable narrative.
 
-So several months ago, we started keeping a running log of [release notes](https://github.com/18F/FEC/blob/master/release_notes/release_notes.md) in order to tell a clear story of each iteration. These notes help keep everyone on our team in the know about what’s shipping, give us a clear list of features to check on staging, and help us always frame our work in terms of the value it delivers to our users. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-400-with-pencil-no-shadow-Grade-Note-Icon-denkcreative-iStock-Thinkstock-494079856-Converted.jpg" alt="Graphic illustration of release notes with a pencil." caption="" >}} 
+So several months ago, we started keeping a running log of [release notes](https://github.com/18F/FEC/blob/master/release_notes/release_notes.md) in order to tell a clear story of each iteration. These notes help keep everyone on our team in the know about what’s shipping, give us a clear list of features to check on staging, and help us always frame our work in terms of the value it delivers to our users. {{< legacy-img src="CDN/files/2017/03/600-x-400-with-pencil-no-shadow-Grade-Note-Icon-denkcreative-iStock-Thinkstock-494079856-Converted.jpg" alt="Graphic illustration of release notes with a pencil." caption="" >}} 
 
 ## How we write release notes
 
@@ -56,4 +56,4 @@ Working on an agile software project is exhilarating (if a little chaotic at tim
 
 _This was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ 
 
-_Learn more about [government work in agile]({{< link href="tag/agile" >}}). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice](https://www.WHATEVER/communities/)._
+_Learn more about [government work in agile]({{< link href="tag/agile" >}}). If you have a .gov or .mil email address, [learn how you can join the Agile/Lean Community of Practice]({{< relref "communities.md" >}})._

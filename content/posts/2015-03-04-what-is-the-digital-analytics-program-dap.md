@@ -17,7 +17,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}
 
-The [Digital Analytics Program (DAP)](https://www.WHATEVER/services/dap/) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
+The [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
 
 ## Common Set of Digital Metrics Gov-Wide
 
@@ -43,7 +43,7 @@ The DAP demonstrates a leap in creativity in both its tools and methodology. Age
 
 The DAP leverages various collaboration and engagement activities to continuously improve. Firstly, the program has inherent stakeholders in 1500+ DAP users (and growing every day) across government. Via the DAP listserv community, a Yammer group, and a designated DAP customer inbox, the program users discuss data analysis tips, new features, technical issues, and troubleshooting.
 
-The DAP team receives hundreds of monthly helpdesk requests from current and prospective customers. With a small team of three, the team provides on-going assistance with tool implementation, troubleshooting issues, analytical guidance and reporting support. Additionally, the team offers quarterly in-person [training sessions and webinars](https://www.WHATEVER/digitalgov-university/) to help users drill for data as well as to take note of the most common pain points. As part of the Digital Government Division at GSA, the DAP also asks users to complete a yearly customer experience survey, and the feedback is transformed into actionable plans for the next year. It goes without saying that without the active participation and engagement of the dedicated points of contact across government, the program would not be able to offer the expansive view of government websites that it does.
+The DAP team receives hundreds of monthly helpdesk requests from current and prospective customers. With a small team of three, the team provides on-going assistance with tool implementation, troubleshooting issues, analytical guidance and reporting support. Additionally, the team offers quarterly in-person [training sessions and webinars]({{< relref "digitalgov-university.md" >}}) to help users drill for data as well as to take note of the most common pain points. As part of the Digital Government Division at GSA, the DAP also asks users to complete a yearly customer experience survey, and the feedback is transformed into actionable plans for the next year. It goes without saying that without the active participation and engagement of the dedicated points of contact across government, the program would not be able to offer the expansive view of government websites that it does.
 
 ## Efficient and Effective
 
@@ -53,4 +53,4 @@ Efficiency and effectiveness are the pinnacles of the DAP’s value to governmen
 
 The DAP provides a model for scalability and transferability that is unmatched. By procuring top-of-the-line solutions and structuring the implementations so they can be shared by all of government, the program has created a synergy of cost savings and improved innovation. The aggregate data collected by the DAP is so much greater than the sum of its participating agency parts, being that it allows a glimpse into the public’s interaction with a huge swath of government websites. In a sense, it is a public service for the public service, and the team hopes that this model will be aggressively adopted for other IT solutions as well.
 
-To learn more about DAP and how to participate in the program, visit the [DAP overview page](https://www.WHATEVER/services/dap/) or contact us via [email](mailto:dap@gsa.gov).
+To learn more about DAP and how to participate in the program, visit the [DAP overview page]({{< relref "dap.md" >}}) or contact us via [email](mailto:dap@gsa.gov).

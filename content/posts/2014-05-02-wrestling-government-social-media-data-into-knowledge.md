@@ -13,7 +13,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**](https://www.WHATEVER/communities/social-media/) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**]({{< relref "social-media.md" >}}) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?
 
 **Yes!** The truth is that the same challenges pop up all across government, and the same questions are asked over and over. The federal agencies using social media need to [fulfill our unique missions in the government]({{< relref "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}} and find the best ways to connect citizens with services.
 
@@ -31,7 +31,7 @@ She defines the three terms as follows:
 
 In other words, data and information are useless without context. We&#8217;ve already proven that it&#8217;s possible to take the best data and information from our community and transform it into usable knowledge. The SocialGov Community, for example, is busy perfecting toolkits in priority areas which soon will be released on Github:
 
-  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**](https://www.WHATEVER/resources/federal-social-media-accessibility-toolkit-hackpad/).
+  * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**]({{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}}).
 
   * According to **Justin Herman of GSA**, “Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.” We developed the first [**Federal Social Media Performance Analysis toolkit**](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/) so we can do just that.
 
@@ -45,4 +45,4 @@ Working together, we can pull out the most valuable pieces of data and informati
 
 Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!
 
-_Alison Lemon is a Knowledge Manager for the [SocialGov Community](https://www.WHATEVER/communities/social-media/) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+_Alison Lemon is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

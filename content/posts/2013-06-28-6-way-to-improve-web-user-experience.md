@@ -26,7 +26,7 @@ People come to your site with something in mind they want to do. It’s a priori
 
 **3. Survey time!**
   
-Government agencies can use many different types of superb survey tools to collect information (there are a few survey products in <a title="Negotiated Terms of Service Agreements" href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/" target="_blank">this list of services</a> with federal-compatible Terms of Service).  Why not find out more about your audience with some well-designed surveys that will explore people’s needs?  Quite a few survey tools are free.
+Government agencies can use many different types of superb survey tools to collect information (there are a few survey products in <a title="Negotiated Terms of Service Agreements" href="{{< relref "negotiated-terms-of-service-agreements.md" >}}" target="_blank">this list of services</a> with federal-compatible Terms of Service).  Why not find out more about your audience with some well-designed surveys that will explore people’s needs?  Quite a few survey tools are free.
 
 **4. Know thy metrics**
   

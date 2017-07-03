@@ -17,7 +17,7 @@ tag:
 
 The newest addition to the federal government’s social media utility belt may also be one of its most powerful, as [IFTTT](https://ifttt.com) (as in “If This Then That”) combines [166 channels](https://ifttt.com/channels) like Twitter, Android and iOS Location and RSS into &#8220;recipes&#8221; that can integrate government social media, data, location-based services and the Internet of Things.
 
-The service, now one of nearly 80 social media platforms with [federal-friendly Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/), will both empower federal managers to operate more effectively and open its Developer platform to fuel everything from open archives to wearable devices with government APIs.
+The service, now one of nearly 80 social media platforms with [federal-friendly Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}}), will both empower federal managers to operate more effectively and open its Developer platform to fuel everything from open archives to wearable devices with government APIs.
 
 So what does “If This Then That” mean and how does it work? If one action is taken on one channel, such as a Facebook, you can automatically trigger another action in another channel, [like SMS]({{< relref "2015-02-03-trends-on-tuesday-using-sms-for-customer-support.md" >}}.
 

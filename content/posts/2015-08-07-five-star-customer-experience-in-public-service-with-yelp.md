@@ -31,6 +31,6 @@ The [Yelp amended terms of service](https://s3.amazonaws.com/sitesusa/wp-content
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-490-NHTSA-uses-Yelp-API.jpg" alt="Screenshots of the U.S. Department of Transportation, National Highway Traffic Safety Administration (NHTSA) ‘SaferRide’ mobile app." >}}
 
-As part of the standard terms for federal government use of free third-party apps, advertisements will be removed from official government pages to prevent perceived endorsements. For more information on federal-friendly terms of service agreements and how to get them for an app, check out our [resources for agencies and companies](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/).
+As part of the standard terms for federal government use of free third-party apps, advertisements will be removed from official government pages to prevent perceived endorsements. For more information on federal-friendly terms of service agreements and how to get them for an app, check out our [resources for agencies and companies]({{< relref "federal-compatible-terms-of-service-agreements.md" >}}).
 
-Do you have ideas on how agencies can use Yelp or its API to improve citizen services? Let us know and check out the extensive [list of federal-friendly TOS agreements](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) for other free apps and digital tools on DigitalGov.
+Do you have ideas on how agencies can use Yelp or its API to improve citizen services? Let us know and check out the extensive [list of federal-friendly TOS agreements]({{< relref "negotiated-terms-of-service-agreements.md" >}}) for other free apps and digital tools on DigitalGov.

@@ -15,7 +15,7 @@ _“Hey, Computer, how do I access my public services?”_
 
 Citizens will soon be able to ask their Intelligent Personal Assistants (IPA) this question through an Emerging Citizen Technology open-sourced pilot program. The purpose of the initiative is to guide dozens of federal programs make public service information available through automated, self-service platforms for the home and office such as Amazon Alexa, Google Assistant, Microsoft Cortana and Facebook Messenger.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600-x-450-Justin-Emerging-Tech-Program-Echo-Dot-American-flag.jpg" alt="A hand holds an Echo Dot from Amazon in front of an American flag." >}}
+{{< legacy-img src="CDN/files/2017/06/600-x-450-Justin-Emerging-Tech-Program-Echo-Dot-American-flag.jpg" alt="A hand holds an Echo Dot from Amazon in front of an American flag." >}}
 
 Last week, participants from more than a dozen federal agencies, both in D.C. and virtually around the country, joined to create prototypes using open data for AI Personal Assistants like voice-activated assistants, chatbots, intelligent websites and automated call centers.
 

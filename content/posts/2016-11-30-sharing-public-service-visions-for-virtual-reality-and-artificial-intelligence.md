@@ -20,7 +20,7 @@ I’m taking a break from sorting through dozens of concepts from federal agenci
 
 We’re [launching our two new U.S. government-wide Communities]({{< relref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}} — Artificial Intelligence for Citizen Services, and Virtual/Augmented Reality — with a workshop, creatively called the [_Artificial Intelligence and Virtual Reality for Federal Public Service Workshop_](https://www.eventbrite.com/e/artificial-intelligence-and-virtual-reality-for-federal-public-service-workshop-registration-29587821972), that brings together federal managers behind programs at more than 50 agencies with dozens of private sector teams ready to demo the technology that will drive our innovations together for years to come.
 
-{{< legacy-img src="https://www.WHATEVER/files/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." >}}
+{{< legacy-img src="CDN/files/2016/10/600-x-425-Lindsey-Teel-U.S.-Department-of-Labor-tests-Microsofts-Hololens-mixed-reality-device.jpg" alt="Lindsey Teel, policy advisor at U.S. Department of Labor and advocate for greater accessibility for persons with disabilities, tests Microsoft's Hololens mixed reality device for improving access to training and educations services for citizens with vision impairments." >}}
 
 And while the workshop hasn’t happened yet, participants have already contributed plenty to start with:
 
@@ -142,4 +142,4 @@ _White House National Economic Council_
   
 _White House Office of Management and Budget_
 
-While AI and VR are just two of the [16 official inter-agency Communities](https://www.WHATEVER/communities/) we host with almost 10,000 memberships across the federal government, they both will need creative, new combinations of skill sets, training, and support — if you have something to contribute to these initiatives, I invite and encourage you to [reach out](mailto:justin.herman@gsa.gov). And if you can’t join us this time, we look forward to keeping your seat warm at the table for next time. The robots are coming.
+While AI and VR are just two of the [16 official inter-agency Communities]({{< relref "communities.md" >}}) we host with almost 10,000 memberships across the federal government, they both will need creative, new combinations of skill sets, training, and support — if you have something to contribute to these initiatives, I invite and encourage you to [reach out](mailto:justin.herman@gsa.gov). And if you can’t join us this time, we look forward to keeping your seat warm at the table for next time. The robots are coming.

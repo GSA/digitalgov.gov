@@ -12,7 +12,7 @@ If your app doesn&#8217;t have a good user experience, it goes to the [app grave
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/)  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link "cagegories/mobile" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -62,7 +62,7 @@ Below we have added specific resources to each guideline.
   * [Section 508 Rules refresh](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule/ii-executive-summary) &#8211; includes guidance for smartphones and other new devices.
   * [Status of Worldwide Efforts to Update Accessibility Guidance]({{< relref "2015-06-23-trends-on-tuesday-global-efforts-underway-to-update-mobile-accessibility-guidelines.md" >}}
   * U.S. Department of Labor&#8217;s Accessibility [test script for Section 508 compliance of native apps](https://github.com/USDepartmentofLabor/Mobile-Accessibility-Test-Script) .
-  * [Mobile Statement of Work and Developer Qualifications](https://www.WHATEVER/resources/mobile-sow-and-developer-qualifications/)
+  * [Mobile Statement of Work and Developer Qualifications]({{< relref "mobile-sow-and-developer-qualifications.md" >}})
   * Developed by agencies with mobile contracts, includes current iOS, Google Play, etc. SDK requirements).
 
 ### Non-Government Examples and Resources:
@@ -102,7 +102,7 @@ Below we have added specific resources to each guideline.
   * [Mobile paper prototype]({{< relref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}
   * [Mobile Product Testing Guidelines and Resources]({{< relref "2013-08-22-mobile-product-testing-guidelines.md" >}}
   * [The Emulator Dilemma: Can Mobile Device Testing Be Completed With Devices?]({{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}
-  * [Federal Crowdsource Mobile Testing Program](https://www.WHATEVER/services/mobile-application-testing-program/) and Lessons Learned
+  * [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) and Lessons Learned
   * [AIDS.Gov Performance Testing Lessons Learned]({{< relref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}
 
 ### Non-Government Examples and Resources:
@@ -120,7 +120,7 @@ Below we have added specific resources to each guideline.
 
 ### Government Examples & Resources:
 
-  * [Digital Analytics Program](https://www.WHATEVER/services/dap/)
+  * [Digital Analytics Program]({{< relref "dap.md" >}})
   * [SaferBus Mobile Usability Case Study]({{< relref "2013-03-21-saferbus-mobile-usability-case-study.md" >}}
   * [AIDS.gov Responsive Design]({{< relref "2012-07-11-aids-gov-responsive-design.md" >}}
   * [CDC&#8217;s Digital Front Door Goes Responsive]({{< relref "2014-06-05-cdcs-digital-front-door-goes-responsive.md" >}}

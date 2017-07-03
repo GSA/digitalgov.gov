@@ -40,7 +40,7 @@ For mobile products, you were very interested in native apps—specifically ones
 
 This data suggests agency efforts are focused on responsive Web design and you are looking at ways you can enhance your agency&#8217;s efforts (e.g., how do we mobilize tables and charts?). However, the popularity of the QR code and the changing mobile user habits articles, as well as the popularity of native apps, infers that you&#8217;re looking at ways you can leverage mobile device functionalities to bring more innovative customer experiences.
 
-You also wanted to know [how we find out about these apps]({{< relref "2014-10-29-open-and-api-driven-federal-mobile-app-registration.md" >}} and how you can get them on USA.gov and DigitalGov. [Sign up for our webinar](https://www.WHATEVER/event/how-to-get-your-federal-mobile-app-promoted-on-usa-gov-and-digitalgov-gov/) in January and we will show you.
+You also wanted to know [how we find out about these apps]({{< relref "2014-10-29-open-and-api-driven-federal-mobile-app-registration.md" >}} and how you can get them on USA.gov and DigitalGov. [Sign up for our webinar]({{< relref "how-to-get-your-federal-mobile-app-promoted-on-usa-gov-and-digitalgov-gov.md" >}}) in January and we will show you.
 
 What other mobile topics do you want to read about in the DigitalGov Mobile channel in 2015? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/mobile-Baby-New-Year-and-rotary-phone-Father-Time-LiquidLibrary-Jupiterimages-liquidlibrary-Thinkstock-90271973.jpg" alt="mobile Baby New Year and rotary phone Father Time" caption="" >}} 
 

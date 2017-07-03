@@ -50,7 +50,7 @@ With more than 200 staff contributing to 130 social media accounts on 14 differe
   </li>
 </ol>
 
-Having negotiated a [federal-friendly terms of service](https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/) for the blogging platform Medium last year, a [handful of federal agencies]({{< relref "2015-07-17-is-it-time-to-try-medium-new-federal-friendly-terms-of-service.md" >}} have since used the platform to get their message out and connect with the American public. For example, President Obama broke with tradition and shared a sneak peek of his [State of the Union remarks on Medium](https://medium.com/@WhiteHouse/president-obamas-state-of-the-union-address-remarks-as-prepared-for-delivery-55f9825449b2).
+Having negotiated a [federal-friendly terms of service]({{< relref "federal-compatible-terms-of-service-agreements.md" >}}) for the blogging platform Medium last year, a [handful of federal agencies]({{< relref "2015-07-17-is-it-time-to-try-medium-new-federal-friendly-terms-of-service.md" >}} have since used the platform to get their message out and connect with the American public. For example, President Obama broke with tradition and shared a sneak peek of his [State of the Union remarks on Medium](https://medium.com/@WhiteHouse/president-obamas-state-of-the-union-address-remarks-as-prepared-for-delivery-55f9825449b2).
 
 When looking to redesign U.S. paper money, The U.S. Department of the Treasury also used [Medium](https://medium.com/@USTreasury/we-heard-from-you-afa4c2238d37) to highlight many of the over one million responses and idea submissions via mail, email, tweets and other social media from a very passionate audience.
 
@@ -84,6 +84,6 @@ In an effort to continue to improve the user experience, [USAJobs is leveraging 
 
 Additionally, with [40 percent of Americans](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) using smartphones to look up government services or information, [Apps and SMS]({{< relref "2016-07-28-widgets-mobile-apps-and-sms-essential-agency-tools-for-summer-heat-safety-and-hurricane-season.md" >}} are also essential tools for an agency to consider when seeking to provide the public with digital content.
 
-_Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program](https://www.WHATEVER/resources/mobile-application-development-program/). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
+_Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}}). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
 
 _You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_](http://www.WHATEVER/tag/the-content-corner/)_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -35,10 +35,10 @@ authors:
           See what other agencies are doing in the mobile space on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
         </li>
         <li>
-          Learn how agencies created these mobile products with our more than <a href="https://www.WHATEVER/tag/mobile-gov-experience/">25 Mobile Gov Case Studies</a>.
+          Learn how agencies created these mobile products with our more than <a href="{{< relref "mobile-gov-experience.md" >}}">25 Mobile Gov Case Studies</a>.
         </li>
         <li>
-          Create your Statement of Work on <a title="Cracking the Mobile Contracting Nut" href="https://www.WHATEVER/2013/05/06/cracking-the-mobile-contracting-nut/">RFP-EZ </a>by leveraging our <a title="Mobile SOW and Developer Qualifications" href="https://www.WHATEVER/resources/mobile-sow-and-developer-qualifications/">Sample Contracting Language for Mobile SOW&#8217;s</a> for product development (apps, mobile web), testing and code-sharing.
+          Create your Statement of Work on <a title="Cracking the Mobile Contracting Nut" href="https://www.WHATEVER/2013/05/06/cracking-the-mobile-contracting-nut/">RFP-EZ </a>by leveraging our <a title="Mobile SOW and Developer Qualifications" href="{{< relref "mobile-sow-and-developer-qualifications.md" >}}">Sample Contracting Language for Mobile SOW&#8217;s</a> for product development (apps, mobile web), testing and code-sharing.
         </li>
       </ul>
       
@@ -51,10 +51,10 @@ authors:
           Use the <a title="Mobile Product Testing Guidelines and Resources" href="https://www.WHATEVER/2013/08/22/mobile-product-testing-guidelines/">Mobile Product Testing Guidelines and Resources</a> pulled from government and the private sector available in four areas: security/privacy, accessibility, functionality/UX and app performance.
         </li>
         <li>
-          Speed up your acquisition of testing services with ready-made sample <a title="Mobile SOW and Developer Qualifications" href="https://www.WHATEVER/resources/mobile-sow-and-developer-qualifications/">SOW language</a> with mobile developer qualifications.
+          Speed up your acquisition of testing services with ready-made sample <a title="Mobile SOW and Developer Qualifications" href="{{< relref "mobile-sow-and-developer-qualifications.md" >}}">SOW language</a> with mobile developer qualifications.
         </li>
         <li>
-          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with the <a title="Federal CrowdSource Mobile Testing Program" href="https://www.WHATEVER/services/mobile-application-testing-program/">Federal Crowdsource Mobile Testing Program</a>.
+          Leverage a crowd-sourced pool of federal volunteers to test your mobile web app/site on a wide range of mobile devices with the <a title="Federal CrowdSource Mobile Testing Program" href="{{< relref "mobile-application-testing-program.md" >}}">Federal Crowdsource Mobile Testing Program</a>.
         </li>
       </ul>
     </td>
@@ -66,13 +66,13 @@ authors:
       
       <ul>
         <li>
-          Create mobile-enabled websites with responsive design and full multimedia capabilities with <a title="Sites.USA.gov" href="https://www.WHATEVER/services/sites-usa-gov/">Sites.USA.gov</a>.
+          Create mobile-enabled websites with responsive design and full multimedia capabilities with <a title="Sites.USA.gov" href="{{< relref "sites-usa-gov.md" >}}">Sites.USA.gov</a>.
         </li>
         <li>
           Reuse mobile code (frameworks, modular code and whole apps) and leverage testing scripts collected from multiple private and public sector sources on our <a href="http://gsa.github.io/Mobile-Code-Catalog/">Mobile Code Sharing Catalog</a>.
         </li>
         <li>
-          Get your mobile products designed right, from the beginning, using the  <a title="Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/services/mobile-application-development-program/mobile-user-experience-guidelines-and-recommendations/">Mobile Gov User Experience Guidelines and Recommendations</a>.
+          Get your mobile products designed right, from the beginning, using the  <a title="Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile Gov User Experience Guidelines and Recommendations</a>.
         </li>
       </ul>
       
@@ -82,10 +82,10 @@ authors:
       
       <ul>
         <li>
-          Use the federal friendly <a title="Federal-Compatible Terms of Service Agreements" href="https://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/">Terms of Service agreements</a> and get your app in the app stores.
+          Use the federal friendly <a title="Federal-Compatible Terms of Service Agreements" href="{{< relref "federal-compatible-terms-of-service-agreements.md" >}}">Terms of Service agreements</a> and get your app in the app stores.
         </li>
         <li>
-          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="https://www.WHATEVER/services/the-federal-mobile-apps-registry/">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
+          Register your mobile product (app or mobile web site) with the <a title="The Federal Mobile Products Registry" href="{{< relref "the-federal-mobile-apps-registry.md" >}}">Federal Mobile Products Registry</a> for placement on the <a href="http://www.usa.gov/mobileapps.shtml">Federal Mobile Apps Directory</a>.
         </li>
         <li>
           PROMOTE! Use the <a href="http://www.usa.gov/About/developer-resources/mobile-app-gallery/index.shtml">Federal Mobile Product API</a> and create widgets to highlight yours and other agencies’ mobile products.

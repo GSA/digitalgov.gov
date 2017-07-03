@@ -92,17 +92,17 @@ APIs need to provide value to your agency and to developers. The best way to mak
 
 ## Resources and Tools for Building APIs
 
-  * [Hosted API Tools]({{< relref "2013-03-12-resources-and-tools-for-apis.md#hosted-api-tools" >}}
-  * [API Standards Template]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-standards-template" >}}
-  * [Examples of APIs in Government]({{< relref "2013-03-12-resources-and-tools-for-apis.md#examples-apis-government" >}}
-  * [API Education Series]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-education-series" >}}
-  * [Case Studies]({{< relref "2013-03-12-resources-and-tools-for-apis.md#case-studies" >}}
-  * [How to Make APIs—An Overview]({{< relref "2013-03-12-resources-and-tools-for-apis.md#how-to-make-apis-overview" >}}
+  * [Hosted API Tools]({{< relref "2013-03-12-resources-and-tools-for-apis.md#hosted-api-tools >}}
+  * [API Standards Template]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-standards-template >}}
+  * [Examples of APIs in Government]({{< relref "2013-03-12-resources-and-tools-for-apis.md#examples-apis-government >}}
+  * [API Education Series]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-education-series >}}
+  * [Case Studies]({{< relref "2013-03-12-resources-and-tools-for-apis.md#case-studies >}}
+  * [How to Make APIs—An Overview]({{< relref "2013-03-12-resources-and-tools-for-apis.md#how-to-make-apis-overview >}}
   * [Producing APIs through Data.gov]({{< relref "2013-04-30-producing-apis-through-data-gov.md" >}}
   * [API Release Kit]({{< relref "2013-05-16-api-release-kit.md" >}}
   * [/Developer Kit]({{< relref "2013-05-21-developer-kit.md" >}}
-  * [U.S. Government APIs Listserv]({{< relref "2013-03-12-resources-and-tools-for-apis.md#government-api-listserv" >}}
-  * [Recommended Reading]({{< relref "2013-03-12-resources-and-tools-for-apis.md#recommended-reading" >}}
+  * [U.S. Government APIs Listserv]({{< relref "2013-03-12-resources-and-tools-for-apis.md#government-api-listserv >}}
+  * [Recommended Reading]({{< relref "2013-03-12-resources-and-tools-for-apis.md#recommended-reading >}}
 
 ## Common Questions About APIs
 

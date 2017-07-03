@@ -47,7 +47,7 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/challenges-prizes-community/">Challenges and Prizes Community of Practice</a>
+            <a href="{{< relref "challenges-prizes-community.md" >}}">Challenges and Prizes Community of Practice</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/services/challenge-gov/">Crowdsourcing with Challenge.gov</a>
@@ -63,13 +63,13 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/government-contact-center-council-g3c/">Government Contact Center Council (G3C)</a>
+            <a href="{{< relref "communities.md" >}}government-contact-center-council-g3c/">Government Contact Center Council (G3C)</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/contact-center-guidelines/">Contact Center Guidelines</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/files/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf">2011 Federal Contact Center Survey, Final Report</a> (PDF, 1.52 MB, 54 pages, September 2011)
+            <a href="CDN/files/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf">2011 Federal Contact Center Survey, Final Report</a> (PDF, 1.52 MB, 54 pages, September 2011)
           </li>
         </ul>
         
@@ -79,7 +79,7 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/federal-crowdsourcing-and-citizen-science/">Federal Crowdsourcing and Citizen Science Community</a>
+            <a href="{{< relref "federal-crowdsourcing-and-citizen-science.md" >}}">Federal Crowdsourcing and Citizen Science Community</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/crowdsourcing-toolkit-for-federal-agencies/">Crowdsourcing Toolkit for Federal Agencies</a>
@@ -95,16 +95,16 @@ authors:
             <a href="http://www.WHATEVER/communities/customer-experience-community/">Customer Experience Community of Practice (CX-COP)</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/customer-experience-toolkit/">Customer Experience Toolkit</a>
+            <a href="{{< relref "customer-experience-toolkit.md" >}}">Customer Experience Toolkit</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
+            <a href="{{< relref "resources.md" >}}government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/">Paperwork Reduction Act Fast Track Process</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc">Report of the Citizen Service Levels Interagency Committee CSLIC</a> (MS Word, 233 kb, 36 pages, 2005)
+            <a href="CDN/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc">Report of the Citizen Service Levels Interagency Committee CSLIC</a> (MS Word, 233 kb, 36 pages, 2005)
           </li>
         </ul>
         
@@ -117,7 +117,7 @@ authors:
             <a href="https://standards.usa.gov/">U.S. Web Design Standards</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/style-guides-by-government-agencies/">Style Guides by Government Agencies</a>
+            <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
         </ul>
         
@@ -140,7 +140,7 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/files/2013/11/Federal-Web-Managers-White-Paper.pdf">Putting Citizens First: Transforming Online Government</a> (PDF, 47 kb, 4 pages, November 2008)
+            <a href="CDN/files/2013/11/Federal-Web-Managers-White-Paper.pdf">Putting Citizens First: Transforming Online Government</a> (PDF, 47 kb, 4 pages, November 2008)
           </li>
         </ul>
         
@@ -190,16 +190,16 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/government-multilingual-websites-community/">Multilingual Digital Group</a>
+            <a href="{{< relref "government-multilingual-websites-community.md" >}}">Multilingual Digital Group</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/">Spanish Language Style Guide and Glossaries</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/style-guides-by-government-agencies/">Style Guides by Government Agencies</a>
+            <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
+            <a href="{{< relref "resources.md" >}}top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
           </li>
         </ul>
         
@@ -215,7 +215,7 @@ authors:
             <a href="http://www.WHATEVER/resources/how-to-get-your-open-data-on-data-gov/">Get Your Open Data on Data.gov</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/inventory-data-gov-guide/">Inventory.data.gov Guide</a>
+            <a href="{{< relref "inventory-data-gov-guide.md" >}}">Inventory.data.gov Guide</a>
           </li>
         </ul>
         
@@ -225,19 +225,19 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/plain-language-community-of-practice/">Plain Language Community of Practice</a>
+            <a href="{{< relref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>
           </li>
           <li>
             <a href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh">Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/plain-language-web-writing-tips/">Plain Language Web Writing Tips</a>
+            <a href="{{< relref "plain-language-web-writing-tips.md" >}}">Plain Language Web Writing Tips</a>
           </li>
           <li>
             <a href="http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf">Plain Writing Act of 2010</a> (PDF, 153 kb, 3 pages, September 2010)
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/style-guides-by-government-agencies/">Style Guides by Government Agencies</a>
+            <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
         </ul>
         
@@ -285,7 +285,7 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/social-media/">Social Media Community of Practice</a>
+            <a href="{{< relref "social-media.md" >}}">Social Media Community of Practice</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/guidance-for-social-media-providers/">Guidance for Social Media Providers</a>
@@ -302,13 +302,13 @@ authors:
             <a href="http://www.WHATEVER/resources/federal-social-media-analytics-toolkit-hackpad/">Social Media Metrics for Federal Agencies</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/style-guides-by-government-agencies/">Style Guides by Government Agencies</a>
+            <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a>
+            <a href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/files/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf">Barriers and Solutions to Implementing Social Media in Government</a> (PDF, 55 kb, 4 pages, December 2008)
+            <a href="CDN/files/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf">Barriers and Solutions to Implementing Social Media in Government</a> (PDF, 55 kb, 4 pages, December 2008)
           </li>
         </ul>
         
@@ -335,10 +335,10 @@ authors:
         
         <ul>
           <li>
-            <a href="https://www.WHATEVER/communities/web-managers-forum/federal-user-experience-community-of-practice/">User Experience Community</a>
+            <a href="{{< relref "federal-user-experience-community-of-practice.md" >}}">User Experience Community</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/resources/digitalgov-user-experience-resources/">DigitalGov User Experience Resources</a> <ul>
+            <a href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Resources</a> <ul>
               <li>
                 <a href="http://www.WHATEVER/resources/digitalgov-user-experience-program/government-usability-case-studies/">Government Usability Case Studies</a>
               </li>
@@ -352,7 +352,7 @@ authors:
         
         <ul>
           <li style="font-weight: 400">
-            <a href="https://www.WHATEVER/communities/web-managers-forum/">Web Content Managers Forum Community</a>
+            <a href="{{< relref "web-managers-forum.md" >}}">Web Content Managers Forum Community</a>
           </li>
           <li style="font-weight: 400">
             <a href="http://www.WHATEVER/resources/checklist-of-requirements-for-federal-digital-services/">Checklist of Requirements for Federal Digital Services</a> <ul>
@@ -374,12 +374,12 @@ authors:
             <a href="http://www.WHATEVER/services/search/">DigitalGov Search</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/files/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf">Interagency Committee on Government Information (ICGI) &#8211; Recommended Policies and Guidelines for Federal Public Websites</a> (PDF, 607 kb, 92 pages, June 2004) <ul>
+            <a href="CDN/files/2014/07/Recommended-Policies-and-Guidelines-for-Federal-Public-Websites-2004.pdf">Interagency Committee on Government Information (ICGI) &#8211; Recommended Policies and Guidelines for Federal Public Websites</a> (PDF, 607 kb, 92 pages, June 2004) <ul>
               <li>
-                <a href="https://www.WHATEVER/files/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf">ICGI Report Attachments</a> (PDF, 184 kb, 7 pages, June 2004)
+                <a href="CDN/files/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf">ICGI Report Attachments</a> (PDF, 184 kb, 7 pages, June 2004)
               </li>
               <li>
-                <a href="https://www.WHATEVER/files/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf">ICGI Summary and Background</a> (PDF, 176 kb, 6 pages, June 2004)
+                <a href="CDN/files/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf">ICGI Summary and Background</a> (PDF, 176 kb, 6 pages, June 2004)
               </li>
             </ul>
           </li>
@@ -391,6 +391,6 @@ authors:
             <a href="http://www.WHATEVER/services/sites-usa-gov/">Sites.USA.gov WordPress Content Management Platform</a>
           </li>
           <li style="font-weight: 400">
-            <a href="https://www.WHATEVER/resources/style-guides-by-government-agencies/">Style Guides by Government Agencies</a>
+            <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
         </ul>

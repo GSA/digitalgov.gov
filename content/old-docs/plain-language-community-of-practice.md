@@ -15,7 +15,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
 ## **Join**
 
 <div style="text-align: center">
-  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## Getting Started
@@ -129,7 +129,7 @@ Meetings are held the second Wednesday of the month (except for August), from 2-
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About this Group**

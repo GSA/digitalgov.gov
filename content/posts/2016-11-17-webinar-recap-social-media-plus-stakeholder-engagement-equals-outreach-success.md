@@ -25,7 +25,7 @@ tag:
 
 > _Summary: How to leverage your resources to reach Spanish-dominant Hispanics online._
 
-A recent [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
+A recent [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness.
 
 ## Social Media Outreach Goals {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
 
@@ -178,4 +178,4 @@ _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outrea
 
 _If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link href="tag/multilingual" >}})._ 
 
-_If you’re a government employee, consider joining one of our [Communities](https://www.WHATEVER/communities/), such as the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/), [SocialGov](https://www.WHATEVER/communities/social-media/), and the [Web Content Managers Forum](https://www.WHATEVER/communities/web-managers-forum/)._
+_If you’re a government employee, consider joining one of our [Communities]({{< relref "communities.md" >}}), such as the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), [SocialGov]({{< relref "social-media.md" >}}), and the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}})._

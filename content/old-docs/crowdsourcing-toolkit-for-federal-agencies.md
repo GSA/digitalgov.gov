@@ -12,8 +12,8 @@ authors:
 
 In a challenge, a &#8220;seeker&#8221; challenges &#8220;solvers&#8221; to identify a solution to a particular problem, or rewards contestants for accomplishing a goal. The solutions may be: ideas, designs, logos, videos, finished products, digital games, or mobile applications. There are many challenge success stories in government:
 
-  * [Challenges Conducted Under America COMPETES Act Authority](https://www.WHATEVER/files/2014/02/implementation-federal-prize-authority.pdf) (PDF, 486 KB, 53 pages, March 2012)
-  * [Success Stories Compiled in Conjunction with the Challenge.gov First Birthday Event](https://www.WHATEVER/files/2014/02/agency-stories-challenge-prize-competitions.pdf) (PDF, 544 KB, 16 pages, September 2011)
+  * [Challenges Conducted Under America COMPETES Act Authority](CDN/files/2014/02/implementation-federal-prize-authority.pdf) (PDF, 486 KB, 53 pages, March 2012)
+  * [Success Stories Compiled in Conjunction with the Challenge.gov First Birthday Event](CDN/files/2014/02/agency-stories-challenge-prize-competitions.pdf) (PDF, 544 KB, 16 pages, September 2011)
 
 Challenges can offer incentive prizes that are either monetary or non-monetary. Examples of non-monetary prizes can include:
 

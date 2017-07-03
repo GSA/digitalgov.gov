@@ -25,7 +25,7 @@ tag:
 
 Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we&#8217;ve learned so far.
 
-Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA](https://www.WHATEVER/about/ "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
+Looking back, we knew we had great content for digital innovators. Here at the [Center for Digital Government at GSA]({{< relref "about.md" >}} "About"), we created the go-to references for federal agencies around Web, mobile, social media, challenges and prizes, and were growing API content. We also had a large, engaged audience ready to share their knowledge with others. So what was the problem?
 
 ## The Problem(s)
 
@@ -43,13 +43,13 @@ The fact is today’s practices rapidly evolved from yesterday’s “best” pr
 
 ## The Vision
 
-We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities](https://www.WHATEVER/communities/ "Communities"), [Services](https://www.WHATEVER/services/ "Services") and [Resources](https://www.WHATEVER/resources/ "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
+We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< relref "communities.md" >}} "Communities"), [Services]({{< relref "services.md" >}} "Services") and [Resources]({{< relref "resources.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
 
 ## The Roll-Out
 
 We gathered a core group of people and broke into teams focusing on content, governance, technology and building the network.
 
-We decided to use [Sites.USA.gov](https://www.WHATEVER/services/sites-usa-gov/ "Sites.USA.gov")—an interagency multi-tenant WordPress platform—to build the hub for digital government innovations. We reviewed data across all of our properties to suss out what people were interested in and what content we would come over as articles or posts and what content would be reference. Our goal was to focus on discovering and publishing new content and to spend less time on maintaining and updating older content. In this model, we also have a stronger commitment to keep the pruned “evergreen” resource content exceedingly up-to-date.
+We decided to use [Sites.USA.gov]({{< relref "sites-usa-gov.md" >}} "Sites.USA.gov")—an interagency multi-tenant WordPress platform—to build the hub for digital government innovations. We reviewed data across all of our properties to suss out what people were interested in and what content we would come over as articles or posts and what content would be reference. Our goal was to focus on discovering and publishing new content and to spend less time on maintaining and updating older content. In this model, we also have a stronger commitment to keep the pruned “evergreen” resource content exceedingly up-to-date.
 
 When we launched in mid-February, we had a lighter information architecture, daily content updates, better tagging to help you find related content, and the beginnings of new community resources all wrapped up in a modern, flat and responsive design. We also started publishing [daily and weekly digests](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) to help subscribers keep abreast of new posts, webinars and events.
 
@@ -62,9 +62,9 @@ One thing we’ve learned from looking at our data, is that you like lists and d
   * You’re coming back for more! We went from 15% returning visitors to 45% returning visitors.
   * You don’t mind a reminder (and you read our newsletters). We see a spike in traffic every day around 3:00, when we [email our newsletter](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) with the most recent articles and upcoming events.
   * You’re engaged with the content. You are coming to read an article and staying to read 2 more, for an average on site time of 6 minutes.
-  * You especially like articles about [metrics](https://www.WHATEVER/category/metrics/), [user experience case studies]({{< link href="tag/usability-case-study" >}}), [social media tools]({{< link href="tag/terms-of-service" >}}), and [mobile trends]({{< link href="tag/trends-on-tuesday" >}}).
-  * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.](https://www.WHATEVER/join-digitalgov/ "Join DigitalGov"))
-  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/ "Negotiated Terms of Service Agreements"), [Accessibility](https://www.WHATEVER/category/ux/accessibility/), and for [Specific Events](https://www.WHATEVER/events/). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
+  * You especially like articles about [metrics]({{< relref "metrics.md" >}}), [user experience case studies]({{< link href="tag/usability-case-study" >}}), [social media tools]({{< link href="tag/terms-of-service" >}}), and [mobile trends]({{< link href="tag/trends-on-tuesday" >}}).
+  * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.]({{< relref "join-digitalgov.md" >}} "Join DigitalGov"))
+  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility]({{< relref "accessibility.md" >}}), and for [Specific Events]({{< link "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
 
 So far, the data is showing that we are doing what we set out to do. But, we know we have a long way to go and can do so much better.
 
@@ -72,4 +72,4 @@ So far, the data is showing that we are doing what we set out to do. But, we kno
 
 In the next few weeks we’ll be publishing our first roadmap with priorities for the next FY. We plan to be very transparent. Look also for a follow up on some decisions and pivots we’ve made since launch in February—not everything went as expected.
 
-Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch](https://www.WHATEVER/contact-us/ "Contact Us"). Comments and suggestions are always welcome.
+Oh, and regarding doing MORE and doing it better? Keep an eye out for _more_ posts featuring more agencies doing _more_ innovative work to make a _more_ responsive 21st century government. And last, [keep in touch]({{< relref "contact-us.md" >}} "Contact Us"). Comments and suggestions are always welcome.

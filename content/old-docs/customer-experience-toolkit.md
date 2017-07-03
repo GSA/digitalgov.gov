@@ -50,7 +50,7 @@ Make the customer experience a strategic priority for your entire organization.
   * See what other agencies are doing 
       * [Strategic Plan FY2014-2018](https://www.opm.gov/about-us/budget-performance/strategic-plans/2014-2018-strategic-plan.pdf) and [Mission, Goals and Priorities](https://www.opm.gov/about-us/budget-performance/goals-priorities) &#8211; Office of Personnel Management (OPM)
       * [Vision 2025](https://www.ssa.gov/vision2025/) &#8211; Social Security Administration (SSA)
-      * [myUSCIS Overview](https://www.WHATEVER/files/2015/12/DHS-myUSCIS-overview.docx) (Word, 69 kb) &#8211; United States Citizenship and Immigration Services (USCIS), Department of Homeland Security (DHS)
+      * [myUSCIS Overview](CDN/files/2015/12/DHS-myUSCIS-overview.docx) (Word, 69 kb) &#8211; United States Citizenship and Immigration Services (USCIS), Department of Homeland Security (DHS)
 
 <h2 id="Governance" style="padding-top: 50px">
   Governance
@@ -61,19 +61,19 @@ Designate a single person to be responsible for the customer experience agency-w
 ### Hire a Chief Customer Officer (CCO)
 
   * Focus on collaboration and teamwork 
-      * [Sample Chief Customer Officer position description](https://www.WHATEVER/files/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (Word, 23 kb) &#8211; General Services Administration (GSA)
-      * [Sample CCO performance evaluation criteria](https://www.WHATEVER/files/2015/12/CCO-EvaluationTemplate.pdf) (PDF, 82 kb) &#8211; GSA
+      * [Sample Chief Customer Officer position description](CDN/files/2015/12/Position-Description-for-Chief-Customer-Officer_Dec-2015.docx) (Word, 23 kb) &#8211; General Services Administration (GSA)
+      * [Sample CCO performance evaluation criteria](CDN/files/2015/12/CCO-EvaluationTemplate.pdf) (PDF, 82 kb) &#8211; GSA
   * Empower the CCO to influence change across the entire organization 
       * [Federal Student Aid Customer Experience Journey: A Recap]({{< relref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}}
 
 ### Stand up a Customer Team
 
   * Performance Plans 
-      * [Sample CX Consultant performance plan](https://www.WHATEVER/files/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel, 80 kb) &#8211; GSA
+      * [Sample CX Consultant performance plan](CDN/files/2015/12/CX-Consultant-Performance-Plan.xlsx) (Excel, 80 kb) &#8211; GSA
   * Position Descriptions (PDs) 
-      * [Sample PDs for Digital Government jobs](https://www.WHATEVER/resources/sample-position-descriptions-for-digital-government-jobs/) &#8211; incl. usability, design, analytics
+      * [Sample PDs for Digital Government jobs]({{< relref "sample-position-descriptions-for-digital-government-jobs.md" >}}) &#8211; incl. usability, design, analytics
   * Agency examples 
-      * [Customer Service and Public Engagement Directorate (CSPED) overview](https://www.WHATEVER/files/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint, 2MB) and [Functional Profile](https://www.WHATEVER/files/2015/12/DHS-CSPED-Functional-Profile.docx) (Word, 85 kb) &#8211; DHS/USCIS
+      * [Customer Service and Public Engagement Directorate (CSPED) overview](CDN/files/2015/12/DHS-Customer-Service-and-Public-Engagement-Directorate-Overview.pptx) (PowerPoint, 2MB) and [Functional Profile](CDN/files/2015/12/DHS-CSPED-Functional-Profile.docx) (Word, 85 kb) &#8211; DHS/USCIS
 
 ### Coordinate delivery of content and services
 
@@ -87,7 +87,7 @@ Designate a single person to be responsible for the customer experience agency-w
 
 ### Follow all relevant laws and policies
 
-  * [Government Customer Service Policies & Requirements](https://www.WHATEVER/resources/government-customer-service-policies-requirements-1993-to-present/)
+  * [Government Customer Service Policies & Requirements]({{< relref "resources.md" >}}government-customer-service-policies-requirements-1993-to-present/)
 
 <h2 id="Culture" style="padding-top: 50px">
   Culture
@@ -111,8 +111,8 @@ Publish customer service standards and train all employees so they understand th
   * Improve the onboarding process for new employees 
       * Develop a “New Employees” section on your intranet to help new hires easily find critical information
   * Share customer service expectations and stories on your intranet 
-      * [Sample intranet content](https://www.WHATEVER/files/2015/12/DHS-USCIS-sample-intranet-content.pptx) (PowerPoint, 688 kb) &#8211; DHS/USCIS
-  * Encourage employees to join the [CX Community of Practice](https://www.WHATEVER/communities/customer-experience-community/)
+      * [Sample intranet content](CDN/files/2015/12/DHS-USCIS-sample-intranet-content.pptx) (PowerPoint, 688 kb) &#8211; DHS/USCIS
+  * Encourage employees to join the [CX Community of Practice]({{< relref "customer-experience-community.md" >}})
   * [Celebrate Customer Service Week]({{< relref "2015-09-11-how-will-you-celebrate-customer-service-week.md" >}}
   * Learn from the private sector 
       * [How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies]({{< relref "2015-07-22-how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies.md" >}}
@@ -120,7 +120,7 @@ Publish customer service standards and train all employees so they understand th
 **Hold employees accountable**
 
   * Include customer service in performance rating criteria 
-      * [Sample performance rating elements](https://www.WHATEVER/files/2015/12/GSA-Sample-Critical-Elements.xlsx) (Excel, 23 kb) &#8211; GSA
+      * [Sample performance rating elements](CDN/files/2015/12/GSA-Sample-Critical-Elements.xlsx) (Excel, 23 kb) &#8211; GSA
 
 **Respond to employee concerns**
 
@@ -140,7 +140,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 ### Clearly identify who you’re serving
 
-  * [Guide to Understanding Your Customer](https://www.WHATEVER/files/2015/09/Understanding-Your-Customer.pdf) (PDF, 10 MB)
+  * [Guide to Understanding Your Customer](CDN/files/2015/09/Understanding-Your-Customer.pdf) (PDF, 10 MB)
   * [Getting to Know Your Users: Tips and Tricks from Veterans Affairs]({{< relref "2015-05-29-getting-to-know-your-users-tips-and-tricks-from-veterans-affairs.md" >}}
   * Spend time in your customers’ shoes 
       * Be a “secret shopper” and interact with your agency from the outside in
@@ -151,7 +151,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
   * [Using Personas to Better Understand Customers: USA.gov Case Study]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}
   * Sample personas. 
       * [Veteran’s Affairs Personas](http://www.innovation.va.gov/docs/Voices_Of_Veterans_11_12_4.pdf) (PDF)
-      * [USDA Personas and Use Cases](https://www.WHATEVER/files/2014/01/Marsh-Personas.pdf) (PDF, 567 kb)
+      * [USDA Personas and Use Cases](CDN/files/2014/01/Marsh-Personas.pdf) (PDF, 567 kb)
 
 ### Map the entire customer journey
 
@@ -167,8 +167,8 @@ Systematically collect and analyze customer behavior and feedback to understand 
   * Institute processes to review customer feedback on a regular basis 
       * [Using Customer Feedback to Improve Healthcare.gov]({{< relref "2015-09-17-using-customer-feedback-to-improve-healthcare-gov.md" >}}
   * Review website and search data to identify the most-viewed/popular content 
-      * [DAP/Google Analytics](https://www.WHATEVER/services/dap/) &#8211; web analytics
-      * [DigitalGov Search](https://www.WHATEVER/services/search/) &#8211; website search data
+      * [DAP/Google Analytics]({{< relref "dap.md" >}}) &#8211; web analytics
+      * [DigitalGov Search]({{< relref "search.md" >}}) &#8211; website search data
 
 ### Identify common questions
 
@@ -189,7 +189,7 @@ Implement agile, iterative, customer-centric design processes for all customer i
   * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
   * [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
   * [Method cards](https://methods.18f.gov/) &#8211; 18F (GSA)
-  * [Mobile User Experience Guidelines and Recommendations](https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/)
+  * [Mobile User Experience Guidelines and Recommendations]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}})
   * [Connecting with the Social and Behavioral Sciences Team]({{< relref "2015-12-09-connecting-with-the-social-and-behavioral-sciences-team.md" >}}
 
 ### Be agile
@@ -200,12 +200,12 @@ Implement agile, iterative, customer-centric design processes for all customer i
 
 ### Streamline contact center operations
 
-  * [Contact Center Guidelines](https://www.WHATEVER/resources/contact-center-guidelines/)
+  * [Contact Center Guidelines]({{< relref "contact-center-guidelines.md" >}})
 
 ### Use plain language
 
   * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm)
-  * [Spanish Language Style Guide and Glossaries](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/)
+  * [Spanish Language Style Guide and Glossaries]({{< relref "spanish-language-style-guide-and-glossaries.md" >}})
   * [Customer Experience Case Study: CDC’s Clear Communication Index](https://www.youtube.com/watch?v=HdHAAaCNirk) &#8211; video
 
 ### Conduct regular and ongoing user testing
@@ -227,27 +227,27 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
 ### Determine service levels for top tasks
 
-  * [Report of the Citizen Service Levels Interagency Committee](https://www.WHATEVER/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word, 233 kb, 2005) &#8211; CSLIC
+  * [Report of the Citizen Service Levels Interagency Committee](CDN/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (Word, 233 kb, 2005) &#8211; CSLIC
 
 ### Standardize processes
 
   * Follow policies and requirements 
-      * [Digital Metrics Guidance and Best Practices](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/)
-      * [Paperwork Reduction Act Fast Track Process](https://www.WHATEVER/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/)
+      * [Digital Metrics Guidance and Best Practices]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}})
+      * [Paperwork Reduction Act Fast Track Process]({{< relref "resources.md" >}}paperwork-reduction-act-44-u-s-c-3501-et-seq/)
   * Adopt survey best practices 
       * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
       * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf) (PDF) &#8211; ClickTools
-      * [Sample CX Question Database](https://www.WHATEVER/files/2015/12/sample-CX-question-database.xlsx) (Excel, 87 kb)
+      * [Sample CX Question Database](CDN/files/2015/12/sample-CX-question-database.xlsx) (Excel, 87 kb)
       * [Likert-Type Scale Response Anchors](https://www.uc.edu/content/dam/uc/sas/docs/Assessment/likert-type%20response%20anchors.pdf) &#8211; recommended wording and rating scales for a variety of survey questions
   * Sample surveys 
-      * [BusinessUSA](https://www.WHATEVER/files/2015/12/sample-survey-BusinessUSA.docx) (Word, 29 kb) &#8211; Department of Commerce
-      * [Passports](https://www.WHATEVER/files/2015/12/sample-survey-Passports.docx) (Word 75 kb) &#8211; State Department
-      * [USAJOBS](https://www.WHATEVER/files/2015/12/sample-survey-USAJOBS.xlsx) (Excel, 76 kb) &#8211; OPM
+      * [BusinessUSA](CDN/files/2015/12/sample-survey-BusinessUSA.docx) (Word, 29 kb) &#8211; Department of Commerce
+      * [Passports](CDN/files/2015/12/sample-survey-Passports.docx) (Word 75 kb) &#8211; State Department
+      * [USAJOBS](CDN/files/2015/12/sample-survey-USAJOBS.xlsx) (Excel, 76 kb) &#8211; OPM
 
 ### Use shared services
 
-  * [Digital Analytics Program (DAP)](https://www.WHATEVER/services/dap/) &#8211; website analytics
-  * [DigitalGov Search](https://www.WHATEVER/services/search/) &#8211; hosted search service
+  * [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) &#8211; website analytics
+  * [DigitalGov Search]({{< relref "search.md" >}}) &#8211; hosted search service
   * [DOI Federal Consulting Group (FCG)](https://www.fcg.gov/) &#8211; survey tools and analysis support
 
 ### Engage your team
@@ -280,7 +280,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
   * Publish open, structured content 
       * [Finding the Best Mobile Moment for Anytime, Anywhere Government]({{< relref "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}
   * Coordinate across all channels (web, social, mobile, etc.) 
-      * [U.S. Digital Registry](https://www.WHATEVER/services/u-s-digital-registry/)
+      * [U.S. Digital Registry]({{< relref "u-s-digital-registry.md" >}})
 
 ### Communicate clearly
 
@@ -288,7 +288,7 @@ Develop a Digital Business Strategy that embraces an improved customer experienc
 
 ### Adopt shared services
 
-  * Use [shared services](https://www.WHATEVER/services/) to streamline and save money
+  * Use [shared services]({{< relref "services.md" >}}) to streamline and save money
 
 <h2 id="Collaboration" style="padding-top: 50px">
   Collaboration
@@ -299,8 +299,8 @@ Collaborate internally, and with other agencies and stakeholders, to improve the
 ### Work together
 
   * Work with your CCO and others across your agency
-  * Join the [CX-COP community](https://www.WHATEVER/communities/customer-experience-community/)
-  * Consider joining [other communities of practice](https://www.WHATEVER/communities/)
+  * Join the [CX-COP community]({{< relref "customer-experience-community.md" >}})
+  * Consider joining [other communities of practice]({{< relref "communities.md" >}})
   * Coordinate service delivery where agency missions intersect
   * [Develop in the open](https://github.com/18f)
 

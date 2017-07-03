@@ -31,7 +31,7 @@ In many cases, some sections of documents were ready to be released while others
 
 ## The Solution
 
-As NCI began looking at an updated [Content Management System](https://www.WHATEVER/resources/content-management-systems-toolkit/ "Content Management Systems Toolkit"), they made a conscious effort to separate the structure from the platform. The solution they found most useful was XML. They also developed training materials for the writers, and they trained them on how their content will be shown on the various devices.
+As NCI began looking at an updated [Content Management System]({{< relref "content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit"), they made a conscious effort to separate the structure from the platform. The solution they found most useful was XML. They also developed training materials for the writers, and they trained them on how their content will be shown on the various devices.
 
 ## Results
 

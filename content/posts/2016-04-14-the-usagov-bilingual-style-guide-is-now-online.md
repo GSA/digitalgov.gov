@@ -41,4 +41,4 @@ We wanted to share this process with you. So, take a look and come back from tim
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Laura Godfrey, the Bilingual Senior Editor of USAGov._
 
-_Additionally, you can check out DigitalGov&#8217;s [Resources](https://www.WHATEVER/resources/) to review the [Spanish Language Style Guide and Glossaries](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/), and join the [Multilingual Digital Group](https://www.WHATEVER/communities/government-multilingual-websites-community/) and other_ [Communities](https://www.WHATEVER/communities/)_._
+_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< relref "resources.md" >}}) to review the [Spanish Language Style Guide and Glossaries]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}) and other_ [Communities]({{< relref "communities.md" >}})_._

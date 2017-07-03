@@ -22,7 +22,7 @@ Keeping the customer’s needs front and center is important when developing new
 
 User personas are fictional, but realistic representations of key audience segments that are grounded in research and data. We recently applied customer data from a variety of sources including website analytics and online surveys to inform the creation of eight personas that represent our digital customers: Researchers, Veterans, Genealogists, Educators, History Enthusiasts, Curious Nerds, Museum Visitors, and Government Stakeholders. These personas not only help us capture knowledge about our customers and their needs and preferences, but also help NARA staff empathize with the individuals who use our services. User personas are often used by designers and developers to place the customer’s perspectives and needs at the center of the digital design and development process.
 
-[{{< legacy-img src="https://www.WHATEVER/files/2017/06/600x776-NARA-digital-personas-composite-flyer.jpg" alt="An infograpgic with all 8 digital personas; click to view full size." >}}](https://archivesaotus.files.wordpress.com/2017/06/persona-composite-flyer.jpg)
+[{{< legacy-img src="CDN/files/2017/06/600x776-NARA-digital-personas-composite-flyer.jpg" alt="An infograpgic with all 8 digital personas; click to view full size." >}}](https://archivesaotus.files.wordpress.com/2017/06/persona-composite-flyer.jpg)
 
 When conducting research to develop the individual personas, we took an analytical approach using data from our web and social media analytics, our online customer satisfaction survey, and incoming emails from customers. Additionally, we interviewed NARA staff that often interact with the user types we were trying to understand, in order to get their insight and feedback.
 
@@ -30,7 +30,7 @@ While fictional, these personas represent our major user groups and help us keep
 
 For example, as shown on the first page of our Genealogist persona, Mildred Mapleton, we can understand what digital platforms she uses and features she likes, how tech savvy she is, and what websites and search words she uses to find what she’s looking for:
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600x450-NARA-digital-personas-genealogist-1.jpg" alt="Example of a Genealogist persona." >}}
+{{< legacy-img src="CDN/files/2017/06/600x450-NARA-digital-personas-genealogist-1.jpg" alt="Example of a Genealogist persona." >}}
 
 Mildred, like all of our user personas, is not an actual person, but a realistic representation of one of NARA’s key audience segments. Her character is based on research and backed by evidence. Although the data gives us a good outline of who she is, the specifics you see here that make Mildred feel like a real, well-rounded person are semi-fictional and shaped by educated assumptions.
 
@@ -38,7 +38,7 @@ The second page of each persona provides user stories that describe who the user
 
 As shown on the second page of our Veteran persona, Victor Williams, we know that as a veteran who has submitted a request for records, Victor wants to easily determine the status so he knows how long he will have to wait to receive the paperwork. Each persona has multiple user stories associated with it to help NARA think about the various ways in which key audience segments interact with us digitally:
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600x450-NARA-digital-personas-veteran-2.jpg" alt="Example of a Veteran persona." >}}
+{{< legacy-img src="CDN/files/2017/06/600x450-NARA-digital-personas-veteran-2.jpg" alt="Example of a Veteran persona." >}}
 
 These representations of our customers are based on quantitative data (e.g., metrics about web pages viewed, social media use) and qualitative user research (e.g., online surveys). It is very important to remember that a persona is a composite representation of the prevalent qualities of an audience segment and will not exactly match a specific person or comprehensively describe the full diversity of a group.
 

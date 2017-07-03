@@ -105,7 +105,7 @@ At every stage of their development, they took the new design and opened it up f
 </p>
 
 <p dir="ltr">
-  <em>Interested in interacting with other user experience enthusiasts across government? Join the <a href="https://www.WHATEVER/communities/web-managers-forum/federal-user-experience-community-of-practice/">User Experience Community</a>.</em>
+  <em>Interested in interacting with other user experience enthusiasts across government? Join the <a href="{{< relref "federal-user-experience-community-of-practice.md" >}}">User Experience Community</a>.</em>
 </p>
 
  

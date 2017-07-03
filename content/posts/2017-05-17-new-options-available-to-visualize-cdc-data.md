@@ -18,7 +18,7 @@ CDC’s surveillance systems track HIV, AIDS, viral hepatitis, STDs, and TB. Get
 
 Now, **we have launched CDC’s [NCHHSTP AtlasPlus](https://www.cdc.gov/nchhstp/atlas/index.htm). This update has significant enhancements** that empower users to explore 2015 HIV, STD, and TB data at the national, state, or county level. They can easily access 2014 data for hepatitis as well. Disease rates can be analyzed by demographic variables, transmission categories, year, and trends over time. In this new version, users can create 2 side-by-side maps or charts, e.g., state-level maps can compare HIV diagnoses among White and African American MSM.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/05/600-x-301-Screencap-of-AIDSgov-CDC-NCHHSTP-AtlasPlus-app.jpg" alt="Screen capture of CDC’s NCHHSTP AtlasPlus shows the recent rise in various STDs in Indiana." >}}
+{{< legacy-img src="CDN/files/2017/05/600-x-301-Screencap-of-AIDSgov-CDC-NCHHSTP-AtlasPlus-app.jpg" alt="Screen capture of CDC’s NCHHSTP AtlasPlus shows the recent rise in various STDs in Indiana." >}}
 
 Feedback received from users of Atlas was invaluable in making upgrades, including building tables based on the exact subset of data a person would like to view. **New charting capabilities** include the following: line graphs by year; pie charts for sex; bar charts by state and country; and bar charts for age, race/ethnicity, transmission category (for HIV), or country of birth (for TB). [AtlasPlus](https://www.cdc.gov/nchhstp/atlas/index.htm) is also ready for the mobile user with a **new responsive design.**
 

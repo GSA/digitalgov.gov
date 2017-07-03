@@ -15,7 +15,7 @@ tag:
   - NASA
 ---
 
-A case study on how NASA is choosing a new enterprise [content management system (CMS)](https://www.WHATEVER/resources/content-management-systems-toolkit/ "Content Management Systems Toolkit").
+A case study on how NASA is choosing a new enterprise [content management system (CMS)]({{< relref "content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit").
 
 ## The Challenge {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-250-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="A round CMS icon" caption="" >}} 
 

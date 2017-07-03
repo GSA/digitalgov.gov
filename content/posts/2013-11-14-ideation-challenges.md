@@ -207,7 +207,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </h2>
   
   <p>
-    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/">Terms of Service</a> are noted with a (ToS) next to the company name.
+    The following list of tools and challenge platforms is provided as a resource and is not an endorsement for any company or technology. Those companies that are on the GSA Schedule <a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">541-4G for Challenges & Competition Services</a> are noted with (GS) next to the company name. Those that have a federal-compatible <a href="{{< relref "negotiated-terms-of-service-agreements.md" >}}">Terms of Service</a> are noted with a (ToS) next to the company name.
   </p>
   
   <p>

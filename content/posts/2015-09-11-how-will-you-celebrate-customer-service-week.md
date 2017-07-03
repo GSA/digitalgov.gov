@@ -40,7 +40,7 @@ How does your agency use social media to serve customers? Talk to your agency’
     
       * Share answers to common customer questions on Facebook
       * [Share ideas on Pinterest](https://www.pinterest.com/explore/customer-service-week/)
-      * Review the list of tools that have a [federal-friendly Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/), to see if there are any new tools your agency should consider adopting
+      * Review the list of tools that have a [federal-friendly Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}}), to see if there are any new tools your agency should consider adopting
       * Organize an after-hours networking event for your customer teams</ul> 
     
     ## Customer Experience (CX) Day
@@ -74,4 +74,4 @@ How does your agency use social media to serve customers? Talk to your agency’
           * Document customer success stories, such as the Transportation Security Administration’s “Kudos Across America,” and share with your staff
           * Develop recommendations for next year’s celebrations
         
-        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page](https://www.WHATEVER/communities/customer-experience-community/) to register. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" >}}
+        Want to improve customer experience in government? Join the Customer Experience Community of Practice (CX-COP). It’s a platform for government CX practitioners to share knowledge, ask questions, and collaborate to improve the government customer experience. Visit the [Customer Experience Community page]({{< relref "customer-experience-community.md" >}}) to register. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Callcenter-Strong-team-Teamwork-Androsov-Konstantin-iStock-Thinkstock-93536156.jpg" alt="Team of call center figures" caption="" >}}

@@ -23,7 +23,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-Today we’re launching three new initiatives [powered by GSA Digital Communities](https://www.WHATEVER/communities/) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.
+Today we’re launching three new initiatives [powered by GSA Digital Communities]({{< relref "communities.md" >}}) that leap federal agencies ahead on some of the most innovative new capabilities becoming available to our programs &#8212; Artificial Intelligence, Virtual/Augmented Reality, and the U.S. Digital Registry.
 
 These new Communities and portal are products of inter-agency collaboration and our shared commitment pushing the bar forward on effective adoption of digital public services that meet the needs of citizens today and tomorrow… and plant seeds for growing long into the future.
 
@@ -33,7 +33,7 @@ These new Communities and portal are products of inter-agency collaboration and 
 
 Next generation digital public services powered by government data and new advances in artificial intelligence, including chatbots, can help improve and expand our customer service initiatives, and make our public services more open, responsive, informative, and accessible.
 
-Whether helping field tens of thousands of questions during an emergency, or [democratizing data through devices](https://medium.com/@ESAJustinA/issuing-a-challenge-democratizing-information-access-via-amazons-voice-recognition-service-17417fe31969#.v2loge7yf) powered by Alexa, Siri, and other natural voice recognition systems, citizen engagement will quickly expand from social media and other peer-to-peer services into increasingly personalized, automated delivery. Since [our first workshop exploring potential business cases](https://www.WHATEVER/event/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government/), the demand from agencies to learn more and develop their own pilots has been strong and growing.
+Whether helping field tens of thousands of questions during an emergency, or [democratizing data through devices](https://medium.com/@ESAJustinA/issuing-a-challenge-democratizing-information-access-via-amazons-voice-recognition-service-17417fe31969#.v2loge7yf) powered by Alexa, Siri, and other natural voice recognition systems, citizen engagement will quickly expand from social media and other peer-to-peer services into increasingly personalized, automated delivery. Since [our first workshop exploring potential business cases]({{< relref "automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the demand from agencies to learn more and develop their own pilots has been strong and growing.
 
 The Federal AI for Citizen Services Community will empower members from agencies to collaboratively research, evaluate, and test the latest advancements, while sharing best practices on approaching emerging policy, security, and privacy considerations.
 
@@ -63,7 +63,7 @@ While designed for U.S. federal managers, we strive to transparently share and c
 
 ## What’s Next
 
-If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage](https://www.WHATEVER/communities/) and learn more.
+If this is the first you’ve heard about our Digital Communities, we encourage you to [visit the homepage]({{< relref "communities.md" >}}) and learn more.
 
 If you are a federal employee or contractor working in an official capacity with a .gov or .mil email address, chances are you or someone you know is already a part of this constantly growing collaborative initiative. Either way, we invite you to dive in deeper and enjoy the benefits of these productive, collaborative hubs.
 

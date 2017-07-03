@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." >}}](https://www.WHATEVER/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024.jpg)From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.
+{{< legacy-img src="CDN/files/2013/09/info-kids-mobile-technology-takeover-everydayfamily1-212x1024-212x300.jpg" alt="Infographic about children's adoption of mobile technology." >}} From the time they can grasp an object in their hands, children are reaching for electronic gadgets of all kinds—particularly our smartphones and tablets.
 
 The early adoption of mobile is growing each year as evidenced by this infographic from [EveryDayFamily.com](http://www.everydayfamily.com/blog/kids-and-the-mobile-technology-takeover/).
 

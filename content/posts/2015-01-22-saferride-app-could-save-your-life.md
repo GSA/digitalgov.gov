@@ -38,4 +38,4 @@ There’s never any excuse to drive after drinking, and now it’s never been ea
 
 The app is available [on Google Play](https://play.google.com/store/apps/details?id=com.nhtsa.SaferRide) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/us/app/saferride/id950774008?mt=8) for iOS devices.
 
-_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/)__._
+_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< relref "the-federal-mobile-apps-registry.md" >}})__._

@@ -197,8 +197,12 @@
   						<div class="tribe-events-meta-group tribe-events-meta-group-venue">
 
               {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
-              {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
-                {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
+              {{ if .Params.relationships.venue_id }}
+                {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
+                  {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
+                {{ else }}
+                  {{ $.Scratch.Set "venue" .Params.venue }}
+                {{ end }}
               {{ else }}
                 {{ $.Scratch.Set "venue" .Params.venue }}
               {{ end }}

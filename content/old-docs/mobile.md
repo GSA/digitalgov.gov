@@ -13,7 +13,7 @@ MobileGov Community of Practice members, a network of federal employees, work ac
 Hear how forward thinking agencies are tackling public facing mobile technologies together and help build government-wide solutions. Only Federal Employees are invited to join the Community of Practice. Email [Jacob Parcell](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line.
 
 <div style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## **Getting Started**
@@ -23,11 +23,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Customer Service Cross-Agency Priority (CAP) Goal" href="https://www.WHATEVER/services/mobile-application-testing-program/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/hp-featured-348-x-226-mobile-devices-testing-app-tilted.jpg" alt="Federal CrowdSource Mobile Testing Program" >}}</a>
+          <a title="Permanent Link to Customer Service Cross-Agency Priority (CAP) Goal" href="{{< relref "mobile-application-testing-program.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/hp-featured-348-x-226-mobile-devices-testing-app-tilted.jpg" alt="Federal CrowdSource Mobile Testing Program" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/services/mobile-application-testing-program/">Federal CrowdSource Mobile Testing Program</a>
+          <a href="{{< relref "mobile-application-testing-program.md" >}}">Federal CrowdSource Mobile Testing Program</a>
         </h4>
       </div>
     </div>
@@ -71,11 +71,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to The Federal Mobile Products Registry" href="https://www.WHATEVER/services/the-federal-mobile-apps-registry/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/hp-featured-pg-348-x-226-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="The Federal Mobile Products Registry" >}}</a>
+          <a title="Permanent Link to The Federal Mobile Products Registry" href="{{< relref "the-federal-mobile-apps-registry.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/hp-featured-pg-348-x-226-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="The Federal Mobile Products Registry" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/services/the-federal-mobile-apps-registry/">The U.S. Digital Registry</a>
+          <a href="{{< relref "the-federal-mobile-apps-registry.md" >}}">The U.S. Digital Registry</a>
         </h4>
       </div>
     </div>
@@ -87,11 +87,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Mobile User Experience Guidelines and Recommendations" href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/hp-featured-pg-348-x-226-Best-practice-on-digital-tablet-marekuliasz-iStock-Thinkstock-GettyImages_465902491.jpg" alt="Mobile User Experience Guidelines and Recommendations" >}}</a>
+          <a title="Permanent Link to Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/hp-featured-pg-348-x-226-Best-practice-on-digital-tablet-marekuliasz-iStock-Thinkstock-GettyImages_465902491.jpg" alt="Mobile User Experience Guidelines and Recommendations" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/mobile-user-experience-guidelines-and-recommendations/">Mobile User Experience Guidelines and Recommendations</a>
+          <a href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a>
         </h4>
       </div>
     </div>
@@ -103,11 +103,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Mobile Application Development Program" href="https://www.WHATEVER/resources/mobile-application-development-program/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/hp-featured-pg-348-x-226-Mobile-app-description1-cropped.jpg" alt="Mobile Application Development Program" >}}</a>
+          <a title="Permanent Link to Mobile Application Development Program" href="{{< relref "mobile-application-development-program.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/hp-featured-pg-348-x-226-Mobile-app-description1-cropped.jpg" alt="Mobile Application Development Program" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/mobile-application-development-program/">Mobile Application Development Program</a>
+          <a href="{{< relref "mobile-application-development-program.md" >}}">Mobile Application Development Program</a>
         </h4>
       </div>
     </div>
@@ -187,11 +187,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Thursday Mobile Products posts" href="https://www.WHATEVER/tag/thursday-mobile-products/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
+          <a title="Permanent Link to More Thursday Mobile Products posts" href="{{< relref "thursday-mobile-products.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/tag/thursday-mobile-products/">More Thursday Mobile Products posts &#8230;</a>
+          <a href="{{< relref "thursday-mobile-products.md" >}}">More Thursday Mobile Products posts &#8230;</a>
         </h4>
       </div>
     </div>
@@ -203,11 +203,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Trends on Tuesday posts" href="https://www.WHATEVER/tag/trends-on-tuesday/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
+          <a title="Permanent Link to More Trends on Tuesday posts" href="{{< relref "trends-on-tuesday.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/tag/trends-on-tuesday/">More Trends on Tuesday posts &#8230;</a>
+          <a href="{{< relref "trends-on-tuesday.md" >}}">More Trends on Tuesday posts &#8230;</a>
         </h4>
       </div>
     </div>
@@ -223,7 +223,7 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About the Community**

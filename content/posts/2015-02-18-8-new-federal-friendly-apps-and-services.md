@@ -22,7 +22,7 @@ tag:
 
 Tackling technology tasks just got easier.
 
-Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive [list of federal-friendly TOS agreements](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) for free products, and the list is updated as new TOS agreements are created.
+Recently, federal agencies negotiated eight new Terms of Service (TOS) Agreements for free apps and services. DigitalGov has an extensive [list of federal-friendly TOS agreements]({{< relref "negotiated-terms-of-service-agreements.md" >}}) for free products, and the list is updated as new TOS agreements are created.
 
 ## Cyfe
 

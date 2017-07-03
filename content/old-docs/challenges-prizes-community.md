@@ -25,7 +25,7 @@ The Challenges and Prizes Community of Practice is an inter-agency group of more
 Join the group&#8217;s listserv:
 
 <div style="text-align: center">
-  <a class="button" href="mailto:team@challenge.gov">Join via email</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:team@challenge.gov">Join via email</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
   * Visit the [Challenge.gov](http://www.challenge.gov/) website
@@ -231,5 +231,5 @@ Join the group&#8217;s listserv:
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>

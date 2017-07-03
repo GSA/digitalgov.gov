@@ -52,7 +52,7 @@ Mobile SEO incorporates additional elements to focus on the person.
 
   * Location services: not just city-level location, but where a person is at a particular moment. Depending on the information and services your agency provides, location services could have a significant impact on UX.
   * Page load time: pages should load in under one second. Test your speed on [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [YSlow](http://yslow.org/). There are a number of other page speed tests available &#8211; go to your favorite search engine and just search for “page speed test.”
-  * While not included in online SEO analyzers, [plain language]({{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}} will improve UX and SEO, and boost your mobile-friendliness. You can assess your readability at the page level using a number of online tools, like [Readability-Score.com](https://readability-score.com/) and [The Readability Test Tool](http://read-able.com/), among others. The more your site’s language matches how searchers look for your content, the better. Analytics, like those available through [DigitalGov Search](http://search.WHATEVER/) and the [Digital Analytics Program](https://www.WHATEVER/services/dap/), will tell you what words people are using to look for information and services on your site.
+  * While not included in online SEO analyzers, [plain language]({{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}} will improve UX and SEO, and boost your mobile-friendliness. You can assess your readability at the page level using a number of online tools, like [Readability-Score.com](https://readability-score.com/) and [The Readability Test Tool](http://read-able.com/), among others. The more your site’s language matches how searchers look for your content, the better. Analytics, like those available through [DigitalGov Search](http://search.WHATEVER/) and the [Digital Analytics Program]({{< relref "dap.md" >}}), will tell you what words people are using to look for information and services on your site.
 
 ## 6. Should Content Be The Same For Mobile Units And Desktops?
 
@@ -60,7 +60,7 @@ Not necessarily. Good old fashioned UX research will tell you whether your users
 
 ## 7. What Is The Best Mobile Configuration For Us?
 
-Whatever configuration you decide to go with, be sure to employ [UX best practices](https://www.WHATEVER/category/ux/)!
+Whatever configuration you decide to go with, be sure to employ [UX best practices]({{< link "cagegories/ux" >}})!
 
   * Responsive: a single site and design that changes configuration depending on the size of the screen.
   * Adaptive, or Dynamic serving: to use the same URLs to serve different experiences to desktop and mobile users. This could be good if leaders feel passionately about the site header.

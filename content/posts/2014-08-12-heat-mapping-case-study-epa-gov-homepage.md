@@ -57,4 +57,4 @@ It only takes a quick glance at the heat map, however, to see that as a section 
 
 Heat mapping is just one of many usability tools out there, but as EPA has demonstrated, whether utilized as a one-off activity or incorporated into a continuous testing cycle, it can provide valuable feedback in an easy to understand format to help improve the usability of a website.
 
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program](https://www.WHATEVER/resources/digitalgov-user-experience-program/ "DigitalGov User Experience Program") at GSA this summer._
+_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She is interning with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-program.md" >}} "DigitalGov User Experience Program") at GSA this summer._

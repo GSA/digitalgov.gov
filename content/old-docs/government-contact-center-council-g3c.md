@@ -15,7 +15,7 @@ The G3C is an inter-agency group of contact center directors and managers with o
 Stay on the cutting edge of  government contact center news, ideas, best practices, and the latest in contact center technology.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:tim.cossairt@tsa.dhs.gov">Join the G3C</a> or <a class="button" href="https://www.WHATEVER/communities/manage-your-listserv-subscription/">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:tim.cossairt@tsa.dhs.gov">Join the G3C</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## Tools & Resources
@@ -25,11 +25,11 @@ Stay on the cutting edge of  government contact center news, ideas, best practic
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Planning A Government Contact Center" href="https://www.WHATEVER/resources/contact-center-guidelines/getting-started-with-your-contact-center/#planning" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/hp-featured-pg-348-x-226-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-last-one-changed-to-chat-icon-from-NiroDesign-175617593.jpg" alt="Planning A Government Contact Center" >}}</a>
+          <a title="Permanent Link to Planning A Government Contact Center" href="{{< relref "getting-started-with-your-contact-center.md" >}}#planning" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/hp-featured-pg-348-x-226-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-last-one-changed-to-chat-icon-from-NiroDesign-175617593.jpg" alt="Planning A Government Contact Center" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/contact-center-guidelines/getting-started-with-your-contact-center/#planning">Planning A Government Contact Center</a>
+          <a href="{{< relref "getting-started-with-your-contact-center.md" >}}#planning">Planning A Government Contact Center</a>
         </h4>
       </div>
     </div>
@@ -41,11 +41,11 @@ Stay on the cutting edge of  government contact center news, ideas, best practic
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Contact Center Operation and Management" href="https://www.WHATEVER/resources/contact-center-guidelines/contact-center-operation-and-management/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/hp-featured-ph-348-x-226-Headset-Julien-Tromeur-Hemera-Thinkstock-99061471.jpg" alt="Contact Center Operation and Management" >}}</a>
+          <a title="Permanent Link to Contact Center Operation and Management" href="{{< relref "contact-center-operation-and-management.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/hp-featured-ph-348-x-226-Headset-Julien-Tromeur-Hemera-Thinkstock-99061471.jpg" alt="Contact Center Operation and Management" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/resources/contact-center-guidelines/contact-center-operation-and-management/">Contact Center Operation & Management</a>
+          <a href="{{< relref "contact-center-operation-and-management.md" >}}">Contact Center Operation & Management</a>
         </h4>
       </div>
     </div>
@@ -173,7 +173,7 @@ Stay on the cutting edge of  government contact center news, ideas, best practic
 The Council meets the second Thursday of each month at 9 AM.
 
 <p style="text-align: center">
-  <a class="button" href="https://www.WHATEVER/events/">View all upcoming events</a> <a class="button" href="https://www.WHATEVER/video-library/">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## About the Council

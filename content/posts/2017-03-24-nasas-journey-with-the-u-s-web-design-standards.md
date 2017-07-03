@@ -28,7 +28,7 @@ tag:
 
 The [U.S. Web Design Standards](https://standards.usa.gov/) were created by the government, for the government. They’re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They’ve also been recommended by the [Office of Management and Budget](https://policy.cio.gov/web-policy/look/) (OMB) for all government agencies to ensure a consistent look and feel of their public-facing digital services. Over the coming months, the team will be doing a series of blog posts to share information about the how different agencies are using the Standards. We chatted with Brandon Ruffridge, Senior Software Developer at NASA’s Glenn Research Center, to talk about his team’s use of the U.S. Web Design Standards.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-400-NASA-logo.jpg" alt="National Aeronautics and Space Administration (NASA) logo." >}}
+{{< legacy-img src="CDN/files/2017/03/600-x-400-NASA-logo.jpg" alt="National Aeronautics and Space Administration (NASA) logo." >}}
 
 **Standards team:** What motivated you to use the U.S. Web Design Standards?
 
@@ -52,6 +52,6 @@ Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v
 
 _This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ 
 
-_If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities](https://www.WHATEVER/communities/) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ 
+_If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< relref "communities.md" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ 
 
-_Check out our Events platform, [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU), and [register for an upcoming event](https://www.WHATEVER/events/) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form](https://www.WHATEVER/digitalgov-university/digitalgov-university-event-and-training-request-form/)._
+_Check out our Events platform, [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU), and [register for an upcoming event]({{< link "events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< relref "digitalgov-university-event-and-training-request-form.md" >}})._

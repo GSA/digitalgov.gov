@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="https://www.WHATEVER/files/2014/01/photo-1024x768.png" alt="CDC Solve the Outbreak Plantation Blues for iPad showing the first clue in their new game scenario with a photo of the Louisiana bayou." >}}](https://www.WHATEVER/files/2014/01/photo-1024x768.png)
+{{< legacy-img src="CDN/files/2014/01/photo-1024x768.png" alt="CDC Solve the Outbreak Plantation Blues for iPad showing the first clue in their new game scenario with a photo of the Louisiana bayou." >}} 
 
 We&#8217;ve reported before that playing games is one of the most popular activities on mobile devices. A [recent study by App Annie and IDC](http://www.mobileworldlive.com/mobile-gaming-multiple-devices-regional-shifts?utm_campaign=MWL-A-20131210&utm_medium=email&utm_source=Eloqua&elq=13c3de37cf244dc995152f2f1403d758&elqCampaignId=982) dives deeper into the traits and use habits of mobile gamers. For the most part, gamers tend to like tablet gaming experiences. Specifically,
 

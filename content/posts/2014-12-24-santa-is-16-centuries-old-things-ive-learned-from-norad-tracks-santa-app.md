@@ -55,4 +55,4 @@ You can download the app for your [iPhone](https://itunes.apple.com/us/app/norad
 
 Happy Holidays!
 
-_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry](https://www.WHATEVER/services/the-federal-mobile-apps-registry/)__._
+_Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the The Federal Mobile Products Registry]({{< relref "the-federal-mobile-apps-registry.md" >}})__._

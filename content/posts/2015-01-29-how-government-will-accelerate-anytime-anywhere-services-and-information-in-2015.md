@@ -52,7 +52,7 @@ While agencies will continue to implement seemingly “silver-bullet” solution
 The days of having a mobile website just to “cover” the mobile user will end. Like many organizations, agencies will see their [mobile channels become a vital piece of their outreach efforts]({{< relref "2015-01-27-trends-on-tuesday-mobile-marketing-on-the-rise.md" >}}. When it comes to responsive Web design use cases, agencies will become obsessive about:
 
   * [load time]({{< relref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}},
-  * [compatibility](https://www.WHATEVER/event/get-your-mobile-compatibility-testing-here-all-about-the-federal-crowdsource-mobile-testing-program/)
+  * [compatibility]({{< relref "get-your-mobile-compatibility-testing-here-all-about-the-federal-crowdsource-mobile-testing-program.md" >}})
   * and other [performance aspects]({{< relref "2013-08-22-mobile-product-testing-guidelines.md" >}}.
 
 Agencies with native apps that allow users to [conduct transactions](https://www.WHATEVER/2012/07/13/irs2go-app/), [engage users]({{< relref "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}} or crowdsource data will measure the impact of these efforts, including simple metrics about how often users open these apps and how they rate them in app stores, to how they transform ways the agency is accomplishing its mission. See how [contact centers have been learning about the transformative aspects of mobile]({{< relref "2014-04-22-trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user.md" >}} and [six agencies that have been using mobile to crowdsource data]({{< relref "2014-04-22-trends-on-tuesday-how-contact-centers-are-adapting-to-the-mobile-user.md" >}}.
@@ -73,6 +73,6 @@ In a recent DigitalGov.gov API Briefing, Bill Brantley wrote [about the work tha
 
 In addition, agencies are adopting the “Create Once, Publish Everywhere” approach heralded by organizations like [National Public Radio](https://www.WHATEVER/2014/10/27/open-and-structured-content-models-workshop-recap/ "Open and Structured Content Models Workshop Recap") to become future ready. A number of agencies got together last year to create shared [Structured and Open Content Models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!") to help agency data become more interoperable and future-ready.
 
-Want to learn more, do more? [Join the Mobile Gov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile"), and get involved by helping us discover new government mobile [products](https://midas.18f.us/tasks/15), [code](https://midas.18f.us/tasks/19) and [trends](https://midas.18f.us/tasks/26).
+Want to learn more, do more? [Join the Mobile Gov Community of Practice]({{< link "cagegories/mobile" >}} "Mobile"), and get involved by helping us discover new government mobile [products](https://midas.18f.us/tasks/15), [code](https://midas.18f.us/tasks/19) and [trends](https://midas.18f.us/tasks/26).
 
  

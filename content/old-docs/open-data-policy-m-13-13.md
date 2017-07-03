@@ -29,4 +29,4 @@ Making information resources accessible, discoverable, and usable by the public 
 
 * * *
 
-See more [DigitalGov Resources](https://www.WHATEVER/resources/)
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

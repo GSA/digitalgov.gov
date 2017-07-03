@@ -25,7 +25,7 @@ tag:
 
 And by more we mean almost four times more with the same resources.
 
-Many of you may already know [**DigitalGov University**](https://www.WHATEVER/digitalgov-university/ "DigitalGov University"), the federal government program that aims to provide high quality, cost-effective training to thousands of federal employees each year in digital services and citizen engagement. What you may not know is now that technology and strategic advancements are ripping down silos between agencies, these education programs are experiencing a boom that allows more federal employees learn how to make their services measurably better and cost efficient.
+Many of you may already know [**DigitalGov University**]({{< relref "digitalgov-university.md" >}} "DigitalGov University"), the federal government program that aims to provide high quality, cost-effective training to thousands of federal employees each year in digital services and citizen engagement. What you may not know is now that technology and strategic advancements are ripping down silos between agencies, these education programs are experiencing a boom that allows more federal employees learn how to make their services measurably better and cost efficient.
 
 Did you hear somewhere, though, that social media training opportunities for public servants is lacking? Let&#8217;s show you how government is changing all that through innovation.
 

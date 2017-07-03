@@ -217,6 +217,6 @@ Good luck!
 
 <div dir="ltr" style="color: #222222">
   <p>
-    <em><strong>Pooja Sawant</strong> is in her second year at University of Maryland, College Park, earning an MS in Information Management. She is interning with the <a title="DigitalGov User Experience Program" href="https://www.WHATEVER/resources/digitalgov-user-experience-program/">DigitalGov User Experience Program</a> at GSA this summer.</em>
+    <em><strong>Pooja Sawant</strong> is in her second year at University of Maryland, College Park, earning an MS in Information Management. She is interning with the <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-program.md" >}}">DigitalGov User Experience Program</a> at GSA this summer.</em>
   </p>
 </div>

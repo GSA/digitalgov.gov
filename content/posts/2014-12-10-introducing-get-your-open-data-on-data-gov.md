@@ -16,4 +16,4 @@ tag:
 
 Data.gov does not host data directly, but rather aggregates metadata about open data resources in one centralized location. In addition to [Data.gov&#8217;s recent webinars]({{< relref "2014-12-04-data-govs-data-pipeline-explained.md" >}} on how Data.gov harvests data, the Data.gov team has created a living resource to explain in further detail how data must be structured to connect to the Data.gov pipeline. This resource includes an overall overview of the Data.gov pipeline, further resources and tools and an FAQ. It also explains in detail what metadata is required for federal, federal geospatial, and non-federal data sources.
 
-Read [How to Get Your Open Data on Data.gov](https://www.WHATEVER/resources/how-to-get-your-open-data-on-data-gov/) to learn how to get your open data federated on Data.gov for greater discoverability and impact.
+Read [How to Get Your Open Data on Data.gov]({{< relref "how-to-get-your-open-data-on-data-gov.md" >}}) to learn how to get your open data federated on Data.gov for greater discoverability and impact.

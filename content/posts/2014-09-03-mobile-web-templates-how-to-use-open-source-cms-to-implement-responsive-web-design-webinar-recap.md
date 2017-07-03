@@ -24,7 +24,7 @@ tag:
 
 Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< relref "2013-09-30-mobile-first.md" >}} and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.
 
-But do you know _how_ it happens? Would you know how to _implement_ responsive Web design in your agency? The “[Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design](https://www.WHATEVER/event/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design/)” webinar (embedded below) gave us the tools to say yes to these questions.
+But do you know _how_ it happens? Would you know how to _implement_ responsive Web design in your agency? The “[Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design]({{< relref "mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}})” webinar (embedded below) gave us the tools to say yes to these questions.
 
 [youtube=http://www.youtube.com/watch?v=iKeh25cKgrY&w=600]
 
@@ -60,7 +60,7 @@ You begin the process by clicking Sign-up at [Sites.USA.gov](https://sites.usa.g
 
 The responsive solutions open-source software provides are a key reason for choosing to go with open source. When software improvements are crowdsourced, the need to accommodate a variety of users drives innovation, and each innovation benefits the entire community of users. After viewing this webinar, Web managers should feel armed with a better understanding of how responsive Web design happens on the back-end, and can go forth and implement!
 
-Members of the [MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/ "Mobile") will be featured in another event focusing on mobile Web implementation. Sign up for the [&#8220;](https://www.WHATEVER/event/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations/)<span style="color: #222222"><a href="https://www.WHATEVER/event/mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations/">MobileGov Mystery: Getting Buy-in and Other Challenges In Mobile Web Implementations&#8221;</a> webinar happening on September 10 from 2-3pm EST.</span>
+Members of the [MobileGov Community of Practice]({{< link "cagegories/mobile" >}} "Mobile") will be featured in another event focusing on mobile Web implementation. Sign up for the [&#8220;]({{< relref "mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}})<span style="color: #222222"><a href="{{< relref "mobilegov-mystery-getting-buy-in-and-other-challenges-in-mobile-web-implementations.md" >}}">MobileGov Mystery: Getting Buy-in and Other Challenges In Mobile Web Implementations&#8221;</a> webinar happening on September 10 from 2-3pm EST.</span>
 
 _**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services._
 

@@ -14,12 +14,12 @@ authors:
 
 ## Related Resources:
 
-  * Read more [Accessibility related articles](https://www.WHATEVER/category/ux/accessibility/) on DigitalGov
+  * Read more [Accessibility related articles]({{< relref "accessibility.md" >}}) on DigitalGov
   * [Using Section 508 to Improve the Accessibility of Government Services](https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
-  * [Federal Social Media Accessibility Toolkit](https://www.WHATEVER/resources/federal-social-media-accessibility-toolkit-hackpad/)
+  * [Federal Social Media Accessibility Toolkit]({{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}})
 
 * * *
 
  
 
-See more [DigitalGov Resources](https://www.WHATEVER/resources/)
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

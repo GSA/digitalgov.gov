@@ -40,7 +40,7 @@ The wall is a surprisingly kinetic experience. Museum objects like the 1903 Wrig
 
 Taking more time with the wall reveals thoughtful information architecture and a simple interface. Visitors can tap museum objects already floating on the screen, or they can drill into major themes like People, Aviation, and Space. Tapping “Space,” for example, reveals space-related objects and sub-themes that can be further explored like Exploration, Spacecraft, and Human Spaceflight. Each object has a short description and a floor map showing its location in the museum. Objects can be added to a personal favorites list on the museum’s new [GO FLIGHT app](https://airandspace.si.edu/go-flight) via a unique PIN number.
 
-The interactive wall was built after many months of [ideation](https://www.WHATEVER/category/challenges/), [prototyping]({{< link href="tag/prototype" >}}), and [user testing](https://www.WHATEVER/category/ux/user-testing-research/). At the outset, the team established core objectives, namely:
+The interactive wall was built after many months of [ideation]({{< relref "challenges.md" >}}), [prototyping]({{< link href="tag/prototype" >}}), and [user testing]({{< relref "user-testing-research.md" >}}). At the outset, the team established core objectives, namely:
 
   * give an overall impression of the museum and its underlying curatorial theme (“aviation and human spaceflight transform the world”);
   * orient visitors to the collection and help them find items on display;
@@ -63,6 +63,6 @@ Observations and informal conversations with visitors show the wall is accomplis
 
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
 
-_Is your agency using innovative technologies to enhance user experience? Let us know in the comments below or [send us an email](https://www.WHATEVER/contact-us/)._
+_Is your agency using innovative technologies to enhance user experience? Let us know in the comments below or [send us an email]({{< relref "contact-us.md" >}})._
 
 _Interested in more great content like this? [Sign up](http://connect.WHATEVER/subscribe) for our daily or weekly DigitalGov newsletter!_

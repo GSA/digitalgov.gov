@@ -18,7 +18,7 @@ tag:
   - open source
 ---
 
-At [DigitalGov Search](https://www.WHATEVER/services/search/), we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across [Gov.UK&#8217;s](https://www.gov.uk/) philosophy on and approach to [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open). It caught our attention and we realized we should also articulate our open source strategy.
+At [DigitalGov Search]({{< relref "search.md" >}}), we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across [Gov.UK&#8217;s](https://www.gov.uk/) philosophy on and approach to [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open). It caught our attention and we realized we should also articulate our open source strategy.
 
 ## Use and Contribute to Open Source Projects
 
@@ -62,6 +62,6 @@ We&#8217;re not alone. Other federal agencies have embraced the approach of codi
   * USA.gov recently released the code for their iPhone app.
   * The White House was in the forefront of using open source software in the federal government with their use of Drupal. They&#8217;re continuing to lead by example by opening up the code for their [We the People petitions](https://github.com/WhiteHouse/petitions) and [iOS](https://github.com/WhiteHouse/wh-app-ios) and [Android](https://github.com/WhiteHouse/wh-app-android) mobile apps.
 
-_Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)](https://www.WHATEVER/event/search-technology-and-information-retrieval/)._
+_Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)]({{< relref "search-technology-and-information-retrieval.md" >}})._
 
  

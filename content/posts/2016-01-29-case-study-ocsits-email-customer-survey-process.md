@@ -20,14 +20,14 @@ A previous post about the GCXi ([OCSIT’s 2015 Customer Survey—What We Learne
 
 Though we survey our government customers just once per year via the GCXi, we actually work on the process throughout the entire year.
 
-We conduct our annual survey in the spring. The survey is created in SurveyMonkey (though any modern survey tool would work), and delivered via email. We have a [PRA clearance](https://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/), since our customer base includes not just federal, but also state and local government folks. (Note, if you’re looking for a survey tool, check out the list of free tools that have a [federal-friendly terms of service agreement](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/).)
+We conduct our annual survey in the spring. The survey is created in SurveyMonkey (though any modern survey tool would work), and delivered via email. We have a [PRA clearance]({{< relref "paperwork-reduction-act-fast-track-process.md" >}}), since our customer base includes not just federal, but also state and local government folks. (Note, if you’re looking for a survey tool, check out the list of free tools that have a [federal-friendly terms of service agreement]({{< relref "negotiated-terms-of-service-agreements.md" >}}).)
 
 During the summer, we review and analyze the data, then develop action plans for each program. We work to implement improvements during the fall and winter, and by then, it’s time to gear up for the next year’s survey.
 
 A benefit of keeping this process top-of-mind for staff all year long is that it enforces the importance of customer-centric thinking in all we do. It’s also just one of many tools in our VOC toolbox. Other tools we use include:
 
-  * [Web analytics](https://www.WHATEVER/services/dap/)
-  * [Usability testing](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/)
+  * [Web analytics]({{< relref "dap.md" >}})
+  * [Usability testing]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}})
   * [Call center data]({{< relref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}
   * Web pop-up surveys
   * Free-form customer comments from social media, chat, blogs or email
@@ -105,11 +105,11 @@ Like anything else in life, you try something, learn, adapt, move forward. We le
 As background, here are some of the resources that inspired us as we developed the GCXi:
 
   * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15)—video
-  * [Digital Metrics Guidance and Best Practices](https://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/)
+  * [Digital Metrics Guidance and Best Practices]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}})
   * [Forrester’s Customer Experience Index](https://www.forrester.com/CX-Index/-/E-MPL191)
   * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf)—ClickTools (PDF)
   * [Likert-Type Scale Response Anchors](http://www.clemson.edu/centers-institutes/tourism/documents/sample-scales.pdf)—recommended wording and rating scales for a variety of survey questions
 
 While this post focused on our email surveys, it’s worth noting that we follow a similar process for most of our website surveys, asking the same core questions, as well as asking about task completion (but that’s a topic for another post!).
 
-Our GCXi has given us a framework to listen to customers, benchmark progress in a consistent way and evaluate whether we&#8217;re improving over time. If you have suggestions or ideas to help us better serve you, <a href="mailto:rachel.flagg@gsa.gov" target="_blank">please let us know</a>! Interested in learning more about improving the government customer experience? Join the <a href="https://www.WHATEVER/communities/customer-experience-community/" target="_blank">Government Customer Experience Community</a> and review the <a href="https://www.WHATEVER/resources/customer-experience-toolkit/" target="_blank">Customer Experience Toolkit</a>.
+Our GCXi has given us a framework to listen to customers, benchmark progress in a consistent way and evaluate whether we&#8217;re improving over time. If you have suggestions or ideas to help us better serve you, <a href="mailto:rachel.flagg@gsa.gov" target="_blank">please let us know</a>! Interested in learning more about improving the government customer experience? Join the <a href="{{< relref "customer-experience-community.md" >}}" target="_blank">Government Customer Experience Community</a> and review the <a href="{{< relref "customer-experience-toolkit.md" >}}" target="_blank">Customer Experience Toolkit</a>.

@@ -261,7 +261,7 @@ This resource list presents a compilation of links to accessibility guidance, or
 
   * [DCG Web and Social Media Accessibility Technical Assistance Manual](http://odr.dc.gov/sites/default/files/dc/sites/odr/publication/attachments/Web%20and%20Social%20Media%20AccessibilityTechnical%20Assistance%20Manual.docx) (docx)
   * [ED Digital Guidebook](http://www2.ed.gov/web-guidance/digital-guidebook/digital-guidebook-nov-2014.pdf) (PDF)
-  * [GSA/DOL Improving the Accessibility of Social Media in Government](https://www.WHATEVER/resources/improving-the-accessibility-of-social-media-in-government/)
+  * [GSA/DOL Improving the Accessibility of Social Media in Government]({{< relref "improving-the-accessibility-of-social-media-in-government.md" >}})
 
 <p style="text-align: right">
   <a title="Back to top" href="#toc">Top ↑</a>

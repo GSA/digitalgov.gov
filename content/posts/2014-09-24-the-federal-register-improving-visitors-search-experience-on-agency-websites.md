@@ -48,4 +48,4 @@ When searching for a term on an agency’s website, the visitor will see results
 
 DigitalGov Search leverages the [Federal Register API](https://www.federalregister.gov/blog/learn/developers) to expose relevant material to searchers and enable the public to participate in the democratic process.
 
-As a new feature, Federal Register results are only available on our [redesigned page.](http://search.WHATEVER/blog/serp-redesign.html) To learn more about DigitalGov Search be sure to attend our upcoming webinar covering [Social Digital Search](https://www.WHATEVER/event/social-digital-search/ "Social Digital Search") on September 30th.
+As a new feature, Federal Register results are only available on our [redesigned page.](http://search.WHATEVER/blog/serp-redesign.html) To learn more about DigitalGov Search be sure to attend our upcoming webinar covering [Social Digital Search]({{< relref "social-digital-search.md" >}} "Social Digital Search") on September 30th.

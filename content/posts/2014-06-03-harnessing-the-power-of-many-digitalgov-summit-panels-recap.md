@@ -56,6 +56,6 @@ Agencies can also strive to think beyond their silos, since ultimately we work f
 
 What has been your experience with inter-agency work?
 
-_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](https://www.WHATEVER/?s=alison+lemon) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
+_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](FIND?s=alison+lemon.md) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
 
 _Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._

@@ -48,7 +48,7 @@ The </span>[<span style="font-weight: 400">American Battle Monuments Commission<
   </p>
   
   <p>
-    Want to learn more about how ABMC&#8217;s development of these apps? Join our webinar on <a href="https://www.WHATEVER/event/using-mobile-user-experince-guidelines-to-create-stellar-mobile-products/">Using Mobile Experience Guidelines to Create Stellar Mobile Products</a> as ABMC and Education discuss how they have implemented mobile user experience practices in the development of their applications.
+    Want to learn more about how ABMC&#8217;s development of these apps? Join our webinar on <a href="{{< relref "using-mobile-user-experince-guidelines-to-create-stellar-mobile-products.md" >}}">Using Mobile Experience Guidelines to Create Stellar Mobile Products</a> as ABMC and Education discuss how they have implemented mobile user experience practices in the development of their applications.
   </p>
   
   <p>

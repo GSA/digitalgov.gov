@@ -17,8 +17,8 @@ Please Note: We continue to make improvements to this guide, so please send any 
 
 ## Related Pages
 
-  * [Spanish Health Care Terms in the United States](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/ "Spanish Health Care Terms in the United States")
-  * [Spanish Language Style Guide and Glossaries: Grammar](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/ "Spanish Language Style Guide and Glossaries: Grammar")
-  * [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/ "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
-  * [Spanish Language Style Guide & Glossaries: Information Technology Terms](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/ "Spanish Language Style Guide & Glossaries: Information Technology Terms")
-  * [Spanish Language Style Guide & Glossaries: Internet Resources](https://www.WHATEVER/resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/ "Spanish Language Style Guide & Glossaries: Internet Resources")
+  * [Spanish Health Care Terms in the United States]({{< relref "spanish-health-care-terms-in-the-united-states.md" >}} "Spanish Health Care Terms in the United States")
+  * [Spanish Language Style Guide and Glossaries: Grammar]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md" >}} "Spanish Language Style Guide and Glossaries: Grammar")
+  * [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms]({{< relref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}} "Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms")
+  * [Spanish Language Style Guide & Glossaries: Information Technology Terms]({{< relref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}} "Spanish Language Style Guide & Glossaries: Information Technology Terms")
+  * [Spanish Language Style Guide & Glossaries: Internet Resources]({{< relref "spanish-language-style-guide-glossaries-internet-resources.md" >}} "Spanish Language Style Guide & Glossaries: Internet Resources")

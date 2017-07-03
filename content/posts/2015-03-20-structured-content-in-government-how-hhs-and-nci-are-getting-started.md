@@ -58,7 +58,7 @@ NCI started small, working with staff to expand the structure as new needs emerg
 
 “It’s not like we created this grand vision that said, ‘here’s all the structure we’re ever going to need,’” Cheryan said. She also cautioned that it’s possible to create an overly complex structure.
 
-Dadjou and Cheryan will discuss their projects at the upcoming DigitalGov University webinar [Where to Start with Structured Data and Content](https://www.WHATEVER/event/where-to-start-with-structured-data-and-content/) on March 31st at 2 p.m. EST.
+Dadjou and Cheryan will discuss their projects at the upcoming DigitalGov University webinar [Where to Start with Structured Data and Content]({{< relref "where-to-start-with-structured-data-and-content.md" >}}) on March 31st at 2 p.m. EST.
 
 If you want to learn more about structured content, you can also join the cross-agency [Open and Structured Content Models Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/), coordinated by GSA. The group created models for two common content types—[articles](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [events](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html)—to help government agencies publish consistently across different platforms and has offered webinars and workshops on content modeling.
 

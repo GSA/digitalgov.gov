@@ -44,4 +44,4 @@ To view the article model and others visit our space on [GitHub](http://gsa.gith
 
 _**Kirsten O&#8217;Nell** is a Social Media Specialist for the Defense Commissary Agency._
 
-_Want to know more about content models? Join us [for our webinar on the Event model](https://www.WHATEVER/event/what-structured-content-can-do-for-you-event-model/ "What Structured Content Can Do For You: Event Model") this Thursday, June 12th, at 1 pm._
+_Want to know more about content models? Join us [for our webinar on the Event model]({{< relref "what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model") this Thursday, June 12th, at 1 pm._

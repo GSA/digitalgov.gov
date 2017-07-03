@@ -15,7 +15,7 @@ tag:
   - social media metrics
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" alt="A pie chart and its color key show a very small slice or percentage of social referrals in yellow." >}}Part of my job as an analyst on the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-475-pie-chart-and-color-key-Screen-Shot-2015-04-06-at-2.jpg" alt="A pie chart and its color key show a very small slice or percentage of social referrals in yellow." >}}Part of my job as an analyst on the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I love that part of my job, but there’s one question I get asked far too much:
 
 **“Why does my traffic referred from social media look so incredibly low?”**
 

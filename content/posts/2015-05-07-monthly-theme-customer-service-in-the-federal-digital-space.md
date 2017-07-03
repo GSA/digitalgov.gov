@@ -22,7 +22,7 @@ To recognize the importance of these relationships, DigitalGov is focusing on cu
 
 There are numerous ways to look at the customer experience and  many digital professionals may ask themselves, how is it different from user experience? In fact, one of [our most popular articles of 2014](https://www.WHATEVER/2014/12/31/countdown-to-2015-with-our-most-popular-articles-this-year/) was [User Experience (UX) vs. Customer Experience (CX): What’s the Dif?]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}} Start with this article as you whet your CX whistle for this month, and learn more about how the two disciplines relate to each other.
 
-[This month](https://www.WHATEVER/category/monthly-theme/) will be packed with articles, including pieces on:
+[This month]({{< relref "monthly-theme.md" >}}) will be packed with articles, including pieces on:
 
   * [Understanding how UX and CX professionals collaborate](https://www.WHATEVER/2015/05/08/customer-experience-and-user-experience-professionals-a-match-made-in-heaven/ "Customer Experience and User Experience Professionals – A Match Made in Heaven!")
   * [Improving customer interview techniques](https://www.WHATEVER/2015/05/26/5-crucial-steps-for-conducting-an-effective-customer-interview/) and [survey response rates](https://www.WHATEVER/2015/05/20/top-5-ways-to-increase-email-survey-responses/)

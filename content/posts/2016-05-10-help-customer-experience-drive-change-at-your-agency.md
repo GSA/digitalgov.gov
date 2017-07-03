@@ -25,6 +25,6 @@ This month we’ll take a look at a variety of ways this change is occurring and
   * An in-depth look at the new Core Federal Services Council and how it will help agencies improve their customer experience
   * A look at the [importance of balancing external and internal customer experience metrics]({{< relref "2016-05-16-customer-experience-performance-metrics-two-sides-to-every-story.md" >}}
 
-You can also check out the [Customer Experience Toolkit](https://www.WHATEVER/resources/customer-experience-toolkit/), a library of case studies, tools and and agency examples that will help you improve your customer&#8217;s experience.
+You can also check out the [Customer Experience Toolkit]({{< relref "customer-experience-toolkit.md" >}}), a library of case studies, tools and and agency examples that will help you improve your customer&#8217;s experience.
 
 _Know a federal employee or team who has improved the experience of their customers? Nominate them for the [2nd Annual Federal Customer Service Awards](https://www.whitehouse.gov/blog/2015/12/15/unlocking-full-potential-americas-federal-workforce), by July 31._

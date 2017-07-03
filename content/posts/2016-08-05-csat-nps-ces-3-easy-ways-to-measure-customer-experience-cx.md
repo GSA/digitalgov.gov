@@ -43,7 +43,7 @@ Here’s a chart of how to calculate NPS; subtract the percent of Detractors fro
 
 ## Customer Effort Score (CES)
 
-Customer Effort Score (CES) is the last metric I found—and it’s powerful since it focuses in on one specific attribute or feature of a service. Its rationale is to look at loyalty as a way of expressing a customer’s level of satisfaction. If service providers can reduce the customer’s effort in getting a service, they’ll create customer loyalty. Ease of use fosters customer loyalty, and loyalty means [engaged customers](https://www.WHATEVER/resources/customer-experience-toolkit/) who will return. The following is an example of CES in action.
+Customer Effort Score (CES) is the last metric I found—and it’s powerful since it focuses in on one specific attribute or feature of a service. Its rationale is to look at loyalty as a way of expressing a customer’s level of satisfaction. If service providers can reduce the customer’s effort in getting a service, they’ll create customer loyalty. Ease of use fosters customer loyalty, and loyalty means [engaged customers]({{< relref "customer-experience-toolkit.md" >}}) who will return. The following is an example of CES in action.
 
 The City of Centennial uses two questions to measure and analyze CES. &#8220;To what extent do you agree with the following statement: The City of Centennial made it easy for me to handle my issue.&#8221; with a rating scale of 1 (Strongly Agree) to 5 (Strongly Disagree). And a follow up question of, &#8220;What specific technologies, business processes, and/or employee behaviors made doing business with the City easy or difficult?&#8221;
 

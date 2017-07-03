@@ -20,7 +20,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="https://www.WHATEVER/event/socialgov-summit-entrepreneurship-and-small-business/">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
+  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="{{< relref "socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
 </p>
 
 <p dir="ltr">
@@ -64,7 +64,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="https://www.WHATEVER/communities/social-media/">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
+  This announcement comes today in conjunction with our SocialGov Summit, hosted by the <a href="{{< relref "social-media.md" >}}">Federal SocialGov Community</a> and the Small Business Administration, which focuses on how government can better grow opportunities for entrepreneurs and small businesses using digital engagement, social media and data.
 </p>
 
 <p dir="ltr">
@@ -72,11 +72,11 @@ tag:
 </p>
 
 <p dir="ltr">
-  The SocialGov Summits are an ongoing education and training series through <a href="https://www.WHATEVER/events/month/">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="https://www.WHATEVER/2014/01/28/innovation-means-more-better-cost-effective-digital-training/">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
+  The SocialGov Summits are an ongoing education and training series through <a href="{{< relref "month.md" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="https://www.WHATEVER/2014/01/28/innovation-means-more-better-cost-effective-digital-training/">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
 </p>
 
 <p dir="ltr">
-  The <a href="https://www.WHATEVER/communities/social-media/">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
+  The <a href="{{< relref "social-media.md" >}}">SocialGov Community</a>, also known less-coolly as the Federal Social Media Community of Practice, is a performance-driven team of 600 digital engagement managers from more than 130 federal programs committed to using social media to measurably improve public services and measurably reduce costs. Recent shared services delivered by the SocialGov Community include the:
 </p>
 
   * <p dir="ltr">

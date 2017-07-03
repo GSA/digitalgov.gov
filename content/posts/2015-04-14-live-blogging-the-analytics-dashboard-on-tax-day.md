@@ -61,7 +61,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Folks in other time zones still have time to postmark their returns by midnight. Check out the U.S. Postal Service site to <a href="https://www.usps.com/taxes/" target="_blank">find Post Office locations that are open late</a> to postmark tax returns.
-  * It doesn&#8217;t look like we hit [DAP](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow.
+  * It doesn&#8217;t look like we hit [DAP]({{< relref "dap.md" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow.
 
 _-gk, Digital Government, GSA
 
@@ -240,7 +240,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University](https://www.WHATEVER/digitalgov-university/) has hosted several trainings on [analyzing data and writing meaningful reports]({{< relref "2014-10-20-metrics-round-up.md" >}}.
+  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< relref "2014-10-20-metrics-round-up.md" >}}.
 
 _-Kendrick Daniel, Digital Gov Team_
 
@@ -257,10 +257,10 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< link href="tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers](https://www.WHATEVER/category/monthly-theme/). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< relref "monthly-theme.md" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
 
-_-Jacob Parcell, Manager, [Mobile Programs](https://www.WHATEVER/communities/mobile/)_
+_-Jacob Parcell, Manager, [Mobile Programs]({{< link "cagegories/mobile" >}})_
 
 ## 11:00 am Update
 
@@ -321,7 +321,7 @@ _-Ashley Wichman, DigitalGov Team_
 
 Good morning, and Happy #TaxDay!
 
-It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
+It&#8217;s nearing 8:00 am at DigitalGov headquarters in Washington, DC, and there are more than 90,000 people on government websites right now. There is a lot of excitement for today. As we mentioned earlier, Marina Fox, manager of the [Digital Analytics Program]({{< relref "dap.md" >}} "DAP: Digital Analytics Program"), is guessing that real-time users could hit 300,000 today, smashing the current record of 200,000.
 
 We&#8217;ll be bringing hourly updates throughout the day and into the evening. Here&#8217;s a quick glance at what is happening right now. All of the data we are referencing is from the [Analytics Dashboard](https://analytics.usa.gov/).
 
@@ -344,4 +344,4 @@ _
 
 ## First Posting: April 14
 
-Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program](https://www.WHATEVER/services/dap/ "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.
+Join us at 8:00 am tomorrow as we live blog the action on the [public analytics dashboard](http://analytics.usa.gov). Marina Fox, manager of the [Digital Analytics Program]({{< relref "dap.md" >}} "DAP: Digital Analytics Program") thinks the real-time users could hit 300,000 (the current record stands just at 200,000). We will be posting hourly updates throughout the day and into the evening. We&#8217;ll also be active on our Twitter, [@Digital_Gov](https://twitter.com/digital_gov), with the hashtag #TaxDay.

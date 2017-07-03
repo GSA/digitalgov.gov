@@ -99,4 +99,4 @@ The first annual Congressional Science, Technology, Engineering and Math (STEM) 
 
 Create an innovative** algorithm** that uses data from recent studies to **predict trustworthy behavior**, based on volunteers’ neural, physiological, and behavioral signals.
 
-Learn more about the [federal-wide challenge and prize program](https://www.WHATEVER/services/challenge-gov/) and sign-up for upcoming [training and events](https://www.WHATEVER/events/2014-03/).
+Learn more about the [federal-wide challenge and prize program]({{< relref "challenge-gov.md" >}}) and sign-up for upcoming [training and events]({{< link "events" >}}2014-03/).

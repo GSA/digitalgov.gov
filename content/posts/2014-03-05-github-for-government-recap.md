@@ -14,7 +14,7 @@ tag:
   - Recaps
 ---
 
-As the definition of “developer” has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a [free social network](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously.
+As the definition of “developer” has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a [free social network]({{< relref "negotiated-terms-of-service-agreements.md" >}}) that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously.
 
 [Project Open Data](http://project-open-data.github.io/), a cross-agency initiative developed by the White House, that looks at how to manage information as an asset in the 21st century, is powered by GitHub. Policy decisions have been made by people working in open data in government based on these discussions. They can see what’s happening on both sides: policy & code all in one place.
 
@@ -22,7 +22,7 @@ Never tried GitHub? Noah Kunin, from the Consumer Financial Protection Bureau, w
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" >}}
 
-Here are some of the highlights from the recent [DigitalGov University webinar](https://www.WHATEVER/events/):
+Here are some of the highlights from the recent [DigitalGov University webinar]({{< link "events" >}}):
 
   * How to create a new issue & reopen old issues
   * How to assign people

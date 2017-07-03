@@ -48,7 +48,7 @@ One element people look for is distinct text: when links are differentiated thro
 
 ## Linking For Good User Experience
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice](https://www.WHATEVER/communities/federal-user-experience-community-of-practice/) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice]({{< relref "federal-user-experience-community-of-practice.md" >}}) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
 
 John Felleman, Industry Specialist for the Common Acquisition Platform Program Management Office in the General Services Administration, shared with the listserv how links open on [GSA&#8217;s Acquisition Gateway](https://hallways.cap.gsa.gov/homepage/welcome.html). His office uses different link opening practices, depending on context.
 
@@ -62,7 +62,7 @@ According to Jonathan Rubin, DigitalGov&#8217;s User Experience Program Manager,
 
 “It may depend on the savvy of the users, or what percentage of the content on the site is external,” said Rubin. “For example, much of the content on [USA.gov](http://www.usa.gov/) is external, so putting arrows or other icons next to all of their linked content doesn&#8217;t make sense. Also, if there are a ton of links, the arrows can create visual noise that makes reading more difficult.”
 
-Rubin emphasized that agencies should conduct [usability testing](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-test-support/) to explore user needs and expectations.
+Rubin emphasized that agencies should conduct [usability testing]({{< relref "digitalgov-user-experience-program-test-support.md" >}}) to explore user needs and expectations.
 
 ## Linking Tips
 
@@ -73,7 +73,7 @@ Here is a list of tips your agency can use when adding links to your content. Li
   * Links should be in **contrast** to the background color and surrounding text. Users are looking for visual cues. The [Department of Labor](http://www.dol.gov/) offsets links in red, and when you hover over a link, the text becomes underlined and turns to blue.
   * **Fix** or remove broken links. Broken links frustrate users, undermine your credibility, and negatively impact your SEO.
   * Link when **necessary**, but don’t spam your readers by linking every word.
-  * Use **media format warnings** to indicate when a link will connect users to files (such as PDFs or Word documents). Media format warnings can be put in parentheses after the link: several of the links on [DigitalGov’s Resources page](https://www.WHATEVER/resources/) lead to documents, and we put the warning after the link and offset it with a different color. The amount of information in the media format warning can vary from website to website—at minimum, indicate the type of file the link leads to.
+  * Use **media format warnings** to indicate when a link will connect users to files (such as PDFs or Word documents). Media format warnings can be put in parentheses after the link: several of the links on [DigitalGov’s Resources page]({{< relref "resources.md" >}}) lead to documents, and we put the warning after the link and offset it with a different color. The amount of information in the media format warning can vary from website to website—at minimum, indicate the type of file the link leads to.
   * Link to pages that contain **clear headings**. Users should immediately see that they have arrived at the correct page after clicking your link. Pernice pointed to the [U.S. Food and Drug Administration](http://www.fda.gov/)’s website as a good linking example. The carousel at the top of the homepage displays new articles. Pernice clicked on a carousel story titled [Three Encouraging Steps Toward New Antibiotics](http://blogs.fda.gov/fdavoice/index.php/2014/09/three-encouraging-steps-towards-new-antibiotics/). When that story was clicked, the page loaded with the correct, clearly labeled article about antibiotics.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-372-FDA-carousel-and-page-side-by-side.jpg" alt="600-x-372-FDA-carousel-and-page-side-by-side" >}}

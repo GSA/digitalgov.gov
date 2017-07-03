@@ -35,7 +35,7 @@ CareerOneStop offers so much information and so many options that it can be hard
 
 ## “Are CareerOneStop’s websites and tools easy to use?”
 
-Individuals must be able to do more than simply find the resources they need—they also need those resources to be easy-to-use and effective at helping them meet their career, training, and employment goals. The CareerOneStop team conducted [usability testing](https://www.WHATEVER/resources/digitalgov-user-experience-program/digitalgov-user-experience-program-usability-starter-kit/) on key tools and websites, during which they watched users interact with the site and learned how to improve functionality, organization, and language in order to better meet users’ needs.
+Individuals must be able to do more than simply find the resources they need—they also need those resources to be easy-to-use and effective at helping them meet their career, training, and employment goals. The CareerOneStop team conducted [usability testing]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) on key tools and websites, during which they watched users interact with the site and learned how to improve functionality, organization, and language in order to better meet users’ needs.
 
 ## “How are users accessing CareerOneStop resources?”
 

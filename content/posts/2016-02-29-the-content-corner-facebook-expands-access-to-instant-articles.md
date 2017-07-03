@@ -29,7 +29,7 @@ Facebook launched [Instant Articles](https://developers.facebook.com/docs/instan
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-450-screen-captures-of-CNN-Instant-Article-in-Feed-and-opened-within-Facebook.jpg" alt="Screen captures of CNN Instant Article in Feed and opened within Facebook" >}}
 
-The format is also built on an open format utilizing HTML5 which helps ensure your content is as clean, responsive, and flexible as possible. I think the markup that is required by Instant Articles is a great way of reinforcing the importance of [structured content and content models](https://www.WHATEVER/event/open-and-structured-content-models-project-hands-on-workshop/) and keeps the sharing and reuse of our content front and center during the process.
+The format is also built on an open format utilizing HTML5 which helps ensure your content is as clean, responsive, and flexible as possible. I think the markup that is required by Instant Articles is a great way of reinforcing the importance of [structured content and content models]({{< relref "open-and-structured-content-models-project-hands-on-workshop.md" >}}) and keeps the sharing and reuse of our content front and center during the process.
 
 ## Automatic Article Creation
 

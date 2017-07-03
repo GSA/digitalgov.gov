@@ -25,7 +25,7 @@ One important thing is to remember or establish what your core channel is. I lik
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" >}}
 
-As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{< relref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}, you have to be aware of the [terms of service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) on platforms such as Facebook, Twitter, YouTube and Tumblr.
+As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{< relref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}, you have to be aware of the [terms of service]({{< relref "negotiated-terms-of-service-agreements.md" >}}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
 
 A frequent issue with these platforms, such as Facebook, has been their changes to algorithms and how that can impact your exposure. A slight tweak can have a huge impact on your audiences, such as the [news feed changes they implemented in 2014](http://mashable.com/2014/04/16/news-feed-changes). We all know the importance of various social media channels, but I recommend thinking of them as supplements or feeders for your core and not your core itself.
 

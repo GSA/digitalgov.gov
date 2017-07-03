@@ -17,7 +17,7 @@ tag:
 
 It’s not a secret that mobile Internet viewership is booming, but according to a [ComScore report released last June](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report), 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, [Gartner reported PC shipments fell 7.7%](http://www.gartner.com/newsroom/id/3146617) while [IDC Research reported a 10.8% decline](http://www.idc.com/getdoc.jsp?containerId=prUS25955515). The [switch to mobile]({{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}} will continue, and for government websites, [the trend is no different](https://www.WHATEVER/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-425-Four-Pushpins-Photodisc-Photodisc-Thinkstock-BU010703.jpg" alt="Four Pushpins" caption="" >}} 
 
-For this reason, it’s important to optimize your mobile experience. You can use data from the [Digital Analytics Program](https://www.WHATEVER/services/dap/) (DAP) to gain insight on your mobile traffic. Do you know the mobile characteristics of your users? Here are four useful tips and reports to analyze your users’ mobile experience:
+For this reason, it’s important to optimize your mobile experience. You can use data from the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to gain insight on your mobile traffic. Do you know the mobile characteristics of your users? Here are four useful tips and reports to analyze your users’ mobile experience:
 
 ## 1. Apply a mobile segment
 
@@ -79,6 +79,6 @@ The dimension can be a hostname, a page or a subdirectory.
 
 Remember, many times it’s helpful to compare data with previous date ranges so you can see trends.
 
-We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel](https://www.WHATEVER/category/mobile/) and [join the MobileGov Community of Practice](https://www.WHATEVER/communities/mobile/) for the latest insight on mobile!
+We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel]({{< link "cagegories/mobile" >}}) and [join the MobileGov Community of Practice]({{< link "cagegories/mobile" >}}) for the latest insight on mobile!
 
 If you use any reports or have tips for analyzing mobile traffic, please let us know in the comments!

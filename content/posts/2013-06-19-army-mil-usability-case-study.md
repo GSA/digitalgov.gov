@@ -22,7 +22,7 @@ If you want to make a website more efficient and user friendly, then it’s not 
 <div id="content-area">
   <div id="node-9242">
     <div>
-      The <a title="User Experience Program" href="https://www.WHATEVER/resources/user-experience-program/">DigitalGov User Experience team</a> looked at Army.mil and recommended a few minor changes, which added significantly to the website’s success. After some tests were completed, and data was collected, the First Fridays and Army.mil teams together identified the two most significant usability problems, and some possible solutions to solve them.
+      The <a title="User Experience Program" href="{{< relref "user-experience-program.md" >}}">DigitalGov User Experience team</a> looked at Army.mil and recommended a few minor changes, which added significantly to the website’s success. After some tests were completed, and data was collected, the First Fridays and Army.mil teams together identified the two most significant usability problems, and some possible solutions to solve them.
     </div>
     
     <h2>

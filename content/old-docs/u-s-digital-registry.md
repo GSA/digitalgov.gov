@@ -8,7 +8,7 @@ authors:
   - tburwell
 ---
 
-{{< legacy-img src="https://www.WHATEVER/files/2016/01/600-x-350-US-Digitial-registry-top\_banner\_public.jpg" alt="Image of hand holding a mobile phone displaying a social media check mark for verification." >}}
+{{< legacy-img src="CDN/files/2016/01/600-x-350-US-Digitial-registry-top\_banner\_public.jpg" alt="Image of hand holding a mobile phone displaying a social media check mark for verification." >}}
 
 Whether for access to emergency, financial or education public services, users need to trust they are engaging with official U.S. government digital accounts.
 

@@ -35,7 +35,7 @@ I can hear many of you as you start reading this (it&#8217;s a special skill I h
 As an example, here is my normal workflow that I follow in order to bring you a sensational [Content Corner]({{< link href="tag/the-content-corner" >}}) blog post every Monday.
 
   1. Review topics added to my [editorial calendar]({{< relref "2015-07-27-the-content-corner-supporting-your-content.md" >}}.
-  2. Review DigitalGov’s [monthly theme](https://www.WHATEVER/category/monthly-theme/).
+  2. Review DigitalGov’s [monthly theme]({{< relref "monthly-theme.md" >}}).
   3. Draft blog post (possibly just headings or a list of bullets).
   4. Complete first full draft of blog post.
   5. Review for basic copy edit errors and SEO/readability issues.
@@ -46,7 +46,7 @@ Hey, guess what I just did? I created a blog post workflow. There will be more c
 
 The critical thing is to begin creating a list of the common tasks you perform during content creation and then either build out or improve and consolidate.
 
-And don’t get hung up with choosing some complex tool or method of capturing the workflow. A shared environment and a simple list like the one above work just fine, if your team uses Google Drive or Evernote or Slack: just add the list to that platform (always being sure to check the [Terms of Service](https://www.WHATEVER/resources/negotiated-terms-of-service-agreements/) before signing up). Without capturing the steps, you can’t easily delegate nor do you have a reference tool (if you are creating content alone).
+And don’t get hung up with choosing some complex tool or method of capturing the workflow. A shared environment and a simple list like the one above work just fine, if your team uses Google Drive or Evernote or Slack: just add the list to that platform (always being sure to check the [Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}}) before signing up). Without capturing the steps, you can’t easily delegate nor do you have a reference tool (if you are creating content alone).
 
 A large majority of us are not developing content (or doing much of anything) in a vacuum. A critical part of any workflow in a team environment is to be sure to assign the steps accordingly.
 
