@@ -19,13 +19,13 @@ The newest addition to the federal government’s social media utility belt may 
 
 The service, now one of nearly 80 social media platforms with [federal-friendly Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}}), will both empower federal managers to operate more effectively and open its Developer platform to fuel everything from open archives to wearable devices with government APIs.
 
-So what does “If This Then That” mean and how does it work? If one action is taken on one channel, such as a Facebook, you can automatically trigger another action in another channel, [like SMS]({{< relref "2015-02-03-trends-on-tuesday-using-sms-for-customer-support.md" >}}.
+So what does “If This Then That” mean and how does it work? If one action is taken on one channel, such as a Facebook, you can automatically trigger another action in another channel, [like SMS]({{< relref "2015-02-03-trends-on-tuesday-using-sms-for-customer-support.md" >}}).
 
 For example, looking at immediate benefits to managing federal social media, we can create a recipe where <a href="https://ifttt.com/recipes/139605-facebook-post-to-google-drive" target="_blank">every Facebook post we send is auto-archived in a document</a> for records management.
 
 Taking the recipe further, you can create triggers where every single social media or blog post sent from any of your approved platforms are auto-archived in a shared Google Calendar that creates an open archive and visual records management system that ensures centralized accountability for any number of satellite offices and agencies.
 
-And in the age of cyber-vandalism, you can set alerts that warn you when certain unwanted words are posted &#8212; something we’ll add to [“Readiness, Recovery Response: Cyber-Vandalism Toolkit.”]({{< relref "2015-01-27-new-inter-agency-social-media-cyber-vandalism-toolkit-launched.md" >}}
+And in the age of cyber-vandalism, you can set alerts that warn you when certain unwanted words are posted &#8212; something we’ll add to [“Readiness, Recovery Response: Cyber-Vandalism Toolkit.”]({{< relref "2015-01-27-new-inter-agency-social-media-cyber-vandalism-toolkit-launched.md" >}})
 
 That’s just the beginning.
 

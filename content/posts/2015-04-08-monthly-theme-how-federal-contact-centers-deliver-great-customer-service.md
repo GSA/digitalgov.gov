@@ -25,7 +25,7 @@ We’ll look at contact centers from a variety of agencies, and we’ll also see
 
   * [Recent webinars and trainings organized by the Government Contact Center Council (G3C) and hosted by DigitalGov University](https://www.WHATEVER/2015/04/10/government-contact-center-round-up/ "Government Contact Center Round Up")
   * [Trends in the use of interactive voice response technology](https://www.WHATEVER/2015/04/30/digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers/ "DigitalGov’s Inaugural Podcast: How IVR Supports Contact Centers")
-  * [How agencies use social media to complement the work of contact centers]({{< relref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}
-  * [The debate over FAQs and whether they drive or inhibit good customer service]({{< relref "2015-04-27-are-faqs-still-relevant.md" >}}
+  * [How agencies use social media to complement the work of contact centers]({{< relref "2015-04-24-meeting-customer-needs-through-social-media.md" >}})
+  * [The debate over FAQs and whether they drive or inhibit good customer service]({{< relref "2015-04-27-are-faqs-still-relevant.md" >}})
   * [How the National Cancer Institute uses SMS to reach the public](https://www.WHATEVER/2015/04/16/nci-reaching-the-public-via-sms-to-change-behaviors/ "NCI: Reaching the Public via SMS to Change Behaviors")
   * [Lessons learned by contact centers](https://www.WHATEVER/2015/04/28/4-decades-of-evolving-technology-in-federal-contact-centers/ "Lessons Learned from 4 Decades in Federal Contact Centers")

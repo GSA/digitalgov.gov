@@ -34,7 +34,7 @@ Any agency with workers distributed across the country also has to consider both
 
 For a recent [Knowledge Seminar](https://www.youtube.com/playlist?list=PLpRjrnyLEXX3vsaVyirycStJDYOODv6zc), we needed to create two complete sets of content based upon whether the audience was located in Washington, D.C., or throughout the rest of the country. One set of content focused on encouraging staff to attend the event live, while the other encouraged signing up for a live stream of the event. Two sets of Web pages, two emails, two distinct call-to-action requests were needed for one event. We also had to balance concerns about having the live stream option cannibalize our live audience (bodies in chairs are still an important indicator of a program’s success).
 
-In time, we may be able to leverage [APIs]({{< relref "2012-07-26-introduction-to-apis.md" >}} and geolocation (as the [USDA]({{< relref "2015-02-25-the-api-briefing-harvesting-the-usdas-rich-bounty-of-open-data-sets-for-apis.md" >}} and other agencies have with mobile apps) to help limit the content creation overhead. But for now, this is another aspect of the planning involved when promoting location-specific content events.
+In time, we may be able to leverage [APIs]({{< relref "2012-07-26-introduction-to-apis.md" >}}) and geolocation (as the [USDA]({{< relref "2015-02-25-the-api-briefing-harvesting-the-usdas-rich-bounty-of-open-data-sets-for-apis.md" >}}) and other agencies have with mobile apps) to help limit the content creation overhead. But for now, this is another aspect of the planning involved when promoting location-specific content events.
 
 ## Timing Could Be Everything
 
@@ -48,7 +48,7 @@ I also prefer to increase the messaging and promotion depending on whether the c
 
 One of the more effective things you can do to support the content you post is to help people that have found your content find more of the same in the future. That is a really complicated way to describe email subscriptions, but [email remains a very effective communication tool](http://www.pardot.com/blog/the-2015-email-marketing-landscape/).
 
-As with many other agencies, we leverage email by adding subscription boxes or [links]({{< relref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}} within our content. The hope is that the user liked what they came to read so much that they want to get more of it in the future.
+As with many other agencies, we leverage email by adding subscription boxes or [links]({{< relref "2015-02-25-avoid-weak-links-in-your-digital-chain.md" >}}) within our content. The hope is that the user liked what they came to read so much that they want to get more of it in the future.
 
 The second part of this method involves making communication to these interested subscribers a regular part of your content production process as well. But don’t violate what I think of as the pact you agree to when they sign up:
 
@@ -62,6 +62,6 @@ The second part of this method involves making communication to these interested
 
 These tools also include social media, especially when considering external or public content. DigitalGov has great resources on [social media promotion]({{< link "cagegories/socialmedia" >}}) and using it to increase awareness of your content. The success of an [NIH healthy aging Twitter chat](https://www.WHATEVER/2015/05/15/how-a-twitter-chat-about-healthy-aging-reached-more-than-4-million-people/) is a great example of leveraging the power of social media to promote a topic and your relevant content.
 
-Just as with developing an [editorial calendar]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}} and using [content pillars]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}{.markup--anchor.markup--p-anchor}, you should also have a plan in place to support new content, especially if it is event-driven or time-sensitive.
+Just as with developing an [editorial calendar]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) and using [content pillars]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}){.markup--anchor.markup--p-anchor}, you should also have a plan in place to support new content, especially if it is event-driven or time-sensitive.
 
 _You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

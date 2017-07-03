@@ -17,7 +17,7 @@ tag:
   - U.S. Department of Labor
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" >}}You&#8217;ve just found a great open source fed agency app on the [Mobile Code Sharing Catalog]({{< relref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}, and would love to use one of its cool functionalities for your own agency&#8217;s app.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/mobile-codesharing-21-350x214-250x152.jpg" alt="Picture of a desktop computer, laptop and a smartphone" >}}You&#8217;ve just found a great open source fed agency app on the [Mobile Code Sharing Catalog]({{< relref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}), and would love to use one of its cool functionalities for your own agency&#8217;s app.
 
 As federal agencies release more and more code to the open source community, this dilemma is becoming increasingly commonplace. Agencies who open-source their entire app’s code are taking an excellent first step; the next challenge is to get the really interesting and useful code reused more readily. One way to do this is to annotate the app’s code and open source the code via functionality.
 

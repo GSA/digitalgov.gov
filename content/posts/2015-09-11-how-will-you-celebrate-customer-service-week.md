@@ -36,7 +36,7 @@ Develop internal communications and activities around Customer Service Week, to 
 How does your agency use social media to serve customers? Talk to your agency’s social media lead about giving one of these ideas a spin.
 
   * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/250-x-250-Social-media-connections-SilverV-iStock-Thinkstock-179875424.jpg" alt="Social media connections" caption="" >}} 
-    Host [customer service “office hours” or chats]({{< relref "2013-10-17-hosting-successful-federal-twitter-chats.md" >}} on Twitter, and follow [#GovCX](https://twitter.com/hashtag/govcx)</li> 
+    Host [customer service “office hours” or chats]({{< relref "2013-10-17-hosting-successful-federal-twitter-chats.md" >}}) on Twitter, and follow [#GovCX](https://twitter.com/hashtag/govcx)</li> 
     
       * Share answers to common customer questions on Facebook
       * [Share ideas on Pinterest](https://www.pinterest.com/explore/customer-service-week/)

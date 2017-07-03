@@ -22,4 +22,4 @@ _Interested in learning more about adaptive content and content modeling? Check 
 
  
 
-_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._

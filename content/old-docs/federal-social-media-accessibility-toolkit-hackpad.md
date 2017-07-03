@@ -105,7 +105,7 @@ Facebook has an Accessibility Team that is dedicated to issues specific to acces
 
 ### Tips for Making Snapchat More Accessible
 
-Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible.md" >}} for improving Snapchat accessibility.
+Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible.md" >}}) for improving Snapchat accessibility.
 
   1. Plan your Snapchat story with accessibility in mind. Use the platform to tell a succinct story. We recommend storyboarding it before you start, just like you would if you were creating a video. See if the story makes sense from beginning to end and if it clearly communicates the information you’re trying to get across
   2. Once you’ve created your story, download it in its full form from the Snapchat app. To do that, swipe to the right from the main photo screen. You’ll see your story at the top. Tap the three dots next to “My Story” and click the download arrow. This will save a video file to your phone enabling you to save the Snap story for your records management purposes.

@@ -24,7 +24,7 @@ tag:
 
 Digital communities of practice come in many stripes. [DigitalGov communities span eight (and counting) focus areas]({{< relref "communities.md" >}}) and have thousands of members, but strong collaborations exist in all corners of government.
 
-In honor of [this month’s communities theme]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}, we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
+In honor of [this month’s communities theme]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
 
 Here is a list of some communities working in the digital arena:
 

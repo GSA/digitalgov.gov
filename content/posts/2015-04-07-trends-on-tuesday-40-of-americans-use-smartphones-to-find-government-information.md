@@ -27,7 +27,7 @@ In terms of “smartphone-dependent” groups, Pew cites that “10% of American
 
 ## People are doing a lot more with those phones than just texting and talking.
 
-[As we’ve previously discussed on DigitalGov]({{< relref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}, Pew provided examples of how [smartphones are used for much more than just calling, texting or Internet browsing](http://www.pewinternet.org/2015/04/01/chapter-two-usage-and-attitudes-toward-smartphones/) and noted that users are turning to mobile devices for a wide range of life tasks:
+[As we’ve previously discussed on DigitalGov]({{< relref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), Pew provided examples of how [smartphones are used for much more than just calling, texting or Internet browsing](http://www.pewinternet.org/2015/04/01/chapter-two-usage-and-attitudes-toward-smartphones/) and noted that users are turning to mobile devices for a wide range of life tasks:
 
   * 62% of smartphone owners have used their phone in the past year to look up information about a health condition.
   * 57% did online banking.

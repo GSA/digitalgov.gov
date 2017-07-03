@@ -31,7 +31,7 @@ This was the first question the team asked. The answer? Just about everybody. Ca
 
 ## “Can users find what they need?”
 
-CareerOneStop offers so much information and so many options that it can be hard for users to locate the best resources for their unique needs. The team talked to users and watched them use the system to find out what they need, where they expect to find it, and what language is most meaningful to them. The goal was to identify the clearest labels and organization of information and resources to [help users connect with the information they need]({{< relref "2015-02-06-top-task-usability-design-for-your-users.md" >}}. CareerOneStop now offers streamlined access to targeted resources for each audience.
+CareerOneStop offers so much information and so many options that it can be hard for users to locate the best resources for their unique needs. The team talked to users and watched them use the system to find out what they need, where they expect to find it, and what language is most meaningful to them. The goal was to identify the clearest labels and organization of information and resources to [help users connect with the information they need]({{< relref "2015-02-06-top-task-usability-design-for-your-users.md" >}}). CareerOneStop now offers streamlined access to targeted resources for each audience.
 
 ## “Are CareerOneStop’s websites and tools easy to use?”
 

@@ -17,7 +17,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
 
-U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before]({{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}, Hispanics not only lead in adoption of new devices, they are also power users of mobile.
+U.S. Hispanics are ahead of the digital curve, according to [an analysis](http://www.mediapost.com/publications/article/232274/hispanics-ahead-of-the-digital-curve.html "an analysis") of strategies of leading brands and forward-thinking marketers by Lisa Gevelber, Vice President of Americas Marketing. As [we&#8217;ve noted before]({{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}), Hispanics not only lead in adoption of new devices, they are also power users of mobile.
 
 The report highlights a few categories supporting Gevelber’s observations:
 

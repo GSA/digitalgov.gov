@@ -37,7 +37,7 @@ It all depends. For instance, are you looking to create a post-prize industry or
 
 Case in point: USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/).
 
-In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< relref "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}, the challenge also produced innovations in sensors and information technology.
+In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< relref "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
 
 XPRIZE Director of Prize Operations Salima Ranmal joined Wander and Bonnell for a wide ranging discussion that also touched on a variety of budget considerations.
 

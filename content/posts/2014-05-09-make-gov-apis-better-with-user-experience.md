@@ -22,7 +22,7 @@ tag:
   - USDA
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs]({{< relref "2013-04-30-apis-in-government.md" >}} and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-150-API-Blog-image-circles.jpg" alt="A graphic depicting how APIs help build apps, which are then used by citizens, industry and government." >}}APIs]({{< relref "2013-04-30-apis-in-government.md" >}}) and [User Experience](http://www.usability.gov/what-and-why/user-experience.html) go together like gummi bears and ice cream.
 
 An API is a product just like a car, a website or a ballpoint pen. It’s designed to help someone do something. Products are either designed well—they meet expectations and deliver value—or they are designed poorly and create frustration and confusion. Inevitably, bad products are abandoned without a thought, like an old T-shirt with holes in it.
 

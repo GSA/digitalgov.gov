@@ -15,7 +15,7 @@ tag:
   - user experience
 ---
 
-_Editor&#8217;s note: Building off the great discussion started around [Customer Experience]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}, we’re looking at the difference between User Acceptance Testing and Usability Testing._ 
+_Editor&#8217;s note: Building off the great discussion started around [Customer Experience]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), we’re looking at the difference between User Acceptance Testing and Usability Testing._ 
 
 If you develop software, you&#8217;ve probably heard of User Acceptance Testing. You may also have heard the term Usability Testing. Same thing, right? Nope. And confusion here can cause big problems.
 

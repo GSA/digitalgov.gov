@@ -23,7 +23,7 @@ If you were to spend any time with me in the kitchen, you would often find me se
 
 Part of good substitution includes seeking out equivalents that will perform the same role. For example, sour milk or buttermilk are used in a recipe for a specific function. You can&#8217;t just use fresh milk and extra butter. You need to add vinegar to the fresh milk first so the chemistry comes out right.
 
-Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#8220;Customer Centric&#8221; Culture?]({{< relref "2013-09-27-what-is-a-customer-centric-culture.md" >}}. It&#8217;s a great &#8216;recipe&#8217;, but I want employees to enjoy this ‘dish’ as much as their customers will, which means I need to make a substitution. As you read the excerpt, I want you to mentally substitute &#8217;employee&#8217; for &#8216;customer&#8217; and see how it &#8216;tastes&#8217;.
+Below is an excerpt from a DigitalGov post by Martha Dorris called [What is a &#8220;Customer Centric&#8221; Culture?]({{< relref "2013-09-27-what-is-a-customer-centric-culture.md" >}}). It&#8217;s a great &#8216;recipe&#8217;, but I want employees to enjoy this ‘dish’ as much as their customers will, which means I need to make a substitution. As you read the excerpt, I want you to mentally substitute &#8217;employee&#8217; for &#8216;customer&#8217; and see how it &#8216;tastes&#8217;.
 
 > The key to be a customer-centric culture is to understand who your customers are and their expectations. Customers and the customer experience strategy should be at the center of your business.
 > 

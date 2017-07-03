@@ -273,7 +273,7 @@ This resource list presents a compilation of links to accessibility guidance, or
 
   * [DHS Section 508 Application Test Script](http://www.section508.gov/sites/default/files/documents/TestingSW%26WebShare.doc) (doc)
   * [DHS Section 508 Compliance Test Process for Applications](http://www.dhs.gov/sites/default/files/publications/DHS%20Section%20508%20Compliance%20Test%20Process%20for%20Applications%203.3.pdf) (PDF)
-  * [GSA Mobile Product Accessibility Testing Resources]({{< relref "2013-07-31-mobile-product-accessibility-testing-resources.md" >}}
+  * [GSA Mobile Product Accessibility Testing Resources]({{< relref "2013-07-31-mobile-product-accessibility-testing-resources.md" >}})
   * [VA Course on Testing Software for Section 508 Compliance](http://www.section508.va.gov/support/sw/course.asp)
   * [VA Section 508 Checklist for Software Applications and Operating Systems](http://www.section508.va.gov/docs/1194_21_VASection508_software_checklist.doc) (doc)
 

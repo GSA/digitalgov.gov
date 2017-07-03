@@ -30,9 +30,9 @@ In this content sharing era, it is important to separate the content from how it
 
 Web pages and PDF files, while public, aren’t easily shared or consumed. Data and valuable content can be buried within navigation or other text, making it hard to find. This difficulty led to OMB’s [open data policy](http://project-open-data.github.io/), which encourages us all to manage our information as an asset.
 
-[Content management systems]({{< relref "2013-10-30-content-management-systems-toolkit.md" >}} (CMS) make it easier for us to move to open content models, in turn making it easier for the public to find, share, and use our information.
+[Content management systems]({{< relref "2013-10-30-content-management-systems-toolkit.md" >}}) (CMS) make it easier for us to move to open content models, in turn making it easier for the public to find, share, and use our information.
 
-Content [APIs]({{< relref "2012-07-26-introduction-to-apis.md" >}} are relatively easy to create with open source CMS (such as [Drupal](https://www.drupal.org/) or [WordPress](http://wordpress.org/)), enterprise CMS systems (such as Percussion, Sharepoint, Oracle), or CMS-less websites (such as those built with [Jekyll](http://jekyllrb.com/)).
+Content [APIs]({{< relref "2012-07-26-introduction-to-apis.md" >}}) are relatively easy to create with open source CMS (such as [Drupal](https://www.drupal.org/) or [WordPress](http://wordpress.org/)), enterprise CMS systems (such as Percussion, Sharepoint, Oracle), or CMS-less websites (such as those built with [Jekyll](http://jekyllrb.com/)).
 
 Several commercial publishing companies have published content APIs, including [_New York Times_ APIs](http://developer.nytimes.com/docs) and [NPR Content API](http://www.npr.org/api/index). More than a [dozen government agencies have content APIs](https://github.com/GSA/.Gov-Content-as-an-API), too.
 
@@ -67,4 +67,4 @@ For example, on agencies’ websites that use [DigitalGov Search](http://search.
 
 Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable.
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._

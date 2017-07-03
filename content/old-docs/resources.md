@@ -11,21 +11,21 @@ authors:
 <table style="border: 0" align="center">
   <tr>
     <td style="border: 0;width: 62%">
-      Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, &#8220;getting started&#8221; guidance, policy requirements and more.</p> 
-      
+      Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, &#8220;getting started&#8221; guidance, policy requirements and more.</p>
+
       <p>
-        Looking for overall digital policy guidance? See the <a href="http://www.WHATEVER/resources/checklist-of-requirements-for-federal-digital-services/">Checklist of Requirements for Federal Digital Services</a>.</td> 
-        
+        Looking for overall digital policy guidance? See the <a href="http://www.WHATEVER/resources/checklist-of-requirements-for-federal-digital-services/">Checklist of Requirements for Federal Digital Services</a>.</td>
+
         <td style="border: 1;width: 38%">
           [dg-search affiliate=&#8221;digitalgov&#8221; value=&#8221;1678&#8243;]
-        </td></tr> </tbody> </table> 
-        
+        </td></tr> </tbody> </table>
+
         <hr style="color: white;border-style: none" />
-        
+
         <h2>
           Accessibility
         </h2>
-        
+
         <ul>
           <li>
             <a href="https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/">Accessibility Resource List</a>
@@ -40,11 +40,11 @@ authors:
             <a href="https://medium.com/the-u-s-digital-service/mythbusters-guide-to-accessibility-92ccd88655c6#.lj5vo2vff">Mythbuster&#8217;s Guide to Accessibility</a>
           </li>
         </ul>
-        
+
         <h2>
           Challenges and Prizes
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "challenges-prizes-community.md" >}}">Challenges and Prizes Community of Practice</a>
@@ -56,14 +56,14 @@ authors:
             <a href="https://www.WHATEVER/2014/03/31/get-started-with-challenge-and-prize-competitions/">Get Started with Challenge and Prize Competitions</a>
           </li>
         </ul>
-        
+
         <h2>
           Contact Centers
         </h2>
-        
+
         <ul>
           <li>
-            <a href="{{< relref "communities.md" >}}government-contact-center-council-g3c/">Government Contact Center Council (G3C)</a>
+            <a href={{< tmp "communities/government-contact-center-council-g3c.md" >}}">Government Contact Center Council (G3C)</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/contact-center-guidelines/">Contact Center Guidelines</a>
@@ -72,11 +72,11 @@ authors:
             <a href="CDN/files/2014/07/2011-Federal-Contact-Center-Survey-Final-Report-Sept30th2011-Prepared-for-GSA-OCSIT.pdf">2011 Federal Contact Center Survey, Final Report</a> (PDF, 1.52 MB, 54 pages, September 2011)
           </li>
         </ul>
-        
+
         <h2>
           Crowdsourcing and Citizen Science
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "federal-crowdsourcing-and-citizen-science.md" >}}">Federal Crowdsourcing and Citizen Science Community</a>
@@ -85,11 +85,11 @@ authors:
             <a href="http://www.WHATEVER/resources/crowdsourcing-toolkit-for-federal-agencies/">Crowdsourcing Toolkit for Federal Agencies</a>
           </li>
         </ul>
-        
+
         <h2>
           Customer Experience
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.WHATEVER/communities/customer-experience-community/">Customer Experience Community of Practice (CX-COP)</a>
@@ -107,11 +107,11 @@ authors:
             <a href="CDN/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc">Report of the Citizen Service Levels Interagency Committee CSLIC</a> (MS Word, 233 kb, 36 pages, 2005)
           </li>
         </ul>
-        
+
         <h2>
           Design
         </h2>
-        
+
         <ul>
           <li>
             <a href="https://standards.usa.gov/">U.S. Web Design Standards</a>
@@ -120,11 +120,11 @@ authors:
             <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
         </ul>
-        
+
         <h2>
           Digital Strategy
         </h2>
-        
+
         <ul>
           <li>
             <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html">Digital Government Strategy</a> (May 2012) <ul>
@@ -137,17 +137,17 @@ authors:
             </ul>
           </li>
         </ul>
-        
+
         <ul>
           <li>
             <a href="CDN/files/2013/11/Federal-Web-Managers-White-Paper.pdf">Putting Citizens First: Transforming Online Government</a> (PDF, 47 kb, 4 pages, November 2008)
           </li>
         </ul>
-        
+
         <h2>
           Measurement
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.WHATEVER/services/dap/">Digital Analytics Program</a>
@@ -156,11 +156,11 @@ authors:
             <a href="http://www.WHATEVER/services/dap/dap-digital-metrics-guidance-and-best-practices/">Digital Metrics Guidance and Best Practices</a>
           </li>
         </ul>
-        
+
         <h2>
           Mobile
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.WHATEVER/communities/mobile/">Mobile Gov Community of Practice</a>
@@ -175,7 +175,7 @@ authors:
               </li>
             </ul>
           </li>
-          
+
           <li>
             <a href="http://www.WHATEVER/resources/mobile-sow-and-developer-qualifications/">Sample Mobile SOW and Developer Qualifications</a>
           </li>
@@ -183,11 +183,11 @@ authors:
             <a href="http://www.WHATEVER/services/mobile-application-testing-program/">Federal CrowdSource Mobile Testing Program</a>
           </li>
         </ul>
-        
+
         <h2 id="multilingual" style="padding-top: 50px">
           Multilingual
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "government-multilingual-websites-community.md" >}}">Multilingual Digital Group</a>
@@ -202,11 +202,11 @@ authors:
             <a href="{{< relref "resources.md" >}}top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
           </li>
         </ul>
-        
+
         <h2>
           Open Data
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.WHATEVER/services/data-gov/">Data.gov Program</a>
@@ -218,11 +218,11 @@ authors:
             <a href="{{< relref "inventory-data-gov-guide.md" >}}">Inventory.data.gov Guide</a>
           </li>
         </ul>
-        
+
         <h2>
           Plain Language
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>
@@ -240,11 +240,11 @@ authors:
             <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
         </ul>
-        
+
         <h2>
           Policy and Governance
         </h2>
-        
+
         <ul>
           <li>
             <a href="https://obamawhitehouse.archives.gov/sites/default/files/uploads/2012digital_mem_rel.pdf">Building a 21st Century Digital Government</a> (PDF, 65.3 kb, 2 pages, May 2012)
@@ -265,11 +265,11 @@ authors:
             <a href="http://www.WHATEVER/services/u-s-digital-registry/">U.S. Digital Registry</a> to register official social media accounts and mobile apps
           </li>
         </ul>
-        
+
         <h2>
           Records Management
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.archives.gov/records-mgmt/agency/">Contact Information for Federal Agency Records Officers</a>
@@ -278,11 +278,11 @@ authors:
             <a href="http://www.archives.gov/records-mgmt/initiatives/web-tech.html">Implications of Recent Web Technologies for NARA Web Guidance</a>
           </li>
         </ul>
-        
+
         <h2>
           Social Media
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "social-media.md" >}}">Social Media Community of Practice</a>
@@ -297,7 +297,7 @@ authors:
               </li>
             </ul>
           </li>
-          
+
           <li>
             <a href="http://www.WHATEVER/resources/federal-social-media-analytics-toolkit-hackpad/">Social Media Metrics for Federal Agencies</a>
           </li>
@@ -311,11 +311,11 @@ authors:
             <a href="CDN/files/2013/11/Social-Media-Fed-Govt-Barriers-Potential-Solutions.pdf">Barriers and Solutions to Implementing Social Media in Government</a> (PDF, 55 kb, 4 pages, December 2008)
           </li>
         </ul>
-        
+
         <h2>
           Terms of Services Agreements
         </h2>
-        
+
         <ul>
           <li>
             <a href="http://www.WHATEVER/resources/federal-compatible-terms-of-service-agreements/">Federal Compatible Terms of Service</a> <ul>
@@ -328,11 +328,11 @@ authors:
             </ul>
           </li>
         </ul>
-        
+
         <h2>
           User Experience
         </h2>
-        
+
         <ul>
           <li>
             <a href="{{< relref "federal-user-experience-community-of-practice.md" >}}">User Experience Community</a>
@@ -345,11 +345,11 @@ authors:
             </ul>
           </li>
         </ul>
-        
+
         <h2 id="website-management" style="padding-top: 50px">
           Website Management
         </h2>
-        
+
         <ul>
           <li style="font-weight: 400">
             <a href="{{< relref "web-managers-forum.md" >}}">Web Content Managers Forum Community</a>
@@ -361,7 +361,7 @@ authors:
               </li>
             </ul>
           </li>
-          
+
           <li style="font-weight: 400">
             <a href="http://www.WHATEVER/2013/10/30/content-management-systems-toolkit/">Content Management Systems Toolkit</a> <ul>
               <li style="font-weight: 400">
@@ -369,7 +369,7 @@ authors:
               </li>
             </ul>
           </li>
-          
+
           <li style="font-weight: 400">
             <a href="http://www.WHATEVER/services/search/">DigitalGov Search</a>
           </li>
@@ -383,7 +383,7 @@ authors:
               </li>
             </ul>
           </li>
-          
+
           <li>
             <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf">Office of Management and Budget Policies for Federal Public Websites</a> (PDF, 48 kb, 5 pages, December 2004)
           </li>

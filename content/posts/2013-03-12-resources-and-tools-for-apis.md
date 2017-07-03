@@ -52,7 +52,7 @@ With the open source release of the [White House&#8217;s API Standards template]
 ## <a name="case-studies"></a>Case Studies
 
   * [Centers for Disease Control & Prevention](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/cdc-content-services-api.docx "CDC case study") (MS Word, 20.93 KB, 2 pages, November 2012)
-  * [Department of Labor—Software Development Kits (SDKs)](https://digitalgov.sites.usa.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits (SDKs)")
+  * [Department of Labor—Software Development Kits (SDKs)](https://digitalgov.sites.usa.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
   * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)**** (PDF, 218 KB, 3 pages, November 2012)
   * [General Services Administration—Social Media Registry](https://www.WHATEVER/2012/11/19/case-study-how-gsa-launched-social-media-registry/ "Case Study: How GSA Launched Social Media Registry")
   * [HealthFinder.gov](https://www.WHATEVER/2012/07/16/healthfinder-gov-api/ "Healthfinder.gov API")

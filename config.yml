@@ -28,6 +28,7 @@ params:
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
   cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
+  defaulturl            : "https://digital.gov"
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

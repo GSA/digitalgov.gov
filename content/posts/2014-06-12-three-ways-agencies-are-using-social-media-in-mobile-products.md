@@ -26,7 +26,7 @@ tag:
   - USDA
 ---
 
-As highlighted in this [Trends on Tuesday]({{< relref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}} post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
+As highlighted in this [Trends on Tuesday]({{< relref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]({{< relref "the-federal-mobile-apps-registry.md" >}} "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
 
@@ -46,4 +46,4 @@ What does this mean for federal agencies? The time to move forward with mobile s
 
 _**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines >}}) on Social Media. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._

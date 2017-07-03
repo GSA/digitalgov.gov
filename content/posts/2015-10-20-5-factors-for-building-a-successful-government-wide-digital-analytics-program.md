@@ -15,7 +15,7 @@ tag:
   - Open Opportunities program
 ---
 
-{{< legacy-img src="CDN/files/2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}} 
+{{< legacy-img src="CDN/files/2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}}
 
 Launched just three years ago, the [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
 
@@ -35,11 +35,11 @@ What makes DAP a success? There are many reasons. We share five here to both cel
 
 It takes a village to raise a child, and it takes a government to implement a government-wide program of any kind. Managing change is not easy, especially an organizational culture change. In the case of DAP, asking agencies to place a piece of code on their websites for federal-wide tracking initially raised eyebrows and questions. Trust had to be earned one user, one website at a time, so the DAP staff dedicated hundreds of hours speaking to the agencies, answering questions, addressing concerns, and providing assurance with the program.
 
-As DAP grew, we created a dedicated helpdesk to provide on-going support to users not just for general Q & A, but in-depth analytical and reporting support. [Creating custom reporting templates]({{< relref "2015-08-06-need-actionable-analytics-reports-heres-help.md" >}} and helping users find relevant metrics as they try to answer business questions became the bulk of what the DAP helpdesk has done for the agencies.
+As DAP grew, we created a dedicated helpdesk to provide on-going support to users not just for general Q & A, but in-depth analytical and reporting support. [Creating custom reporting templates]({{< relref "2015-08-06-need-actionable-analytics-reports-heres-help.md" >}}) and helping users find relevant metrics as they try to answer business questions became the bulk of what the DAP helpdesk has done for the agencies.
 
 DAP also hosts regular monthly office hours by phone to provide program updates and answer any questions from our users.
 
-### Engage your customers and get their help {{< legacy-img src="CDN/files/2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}} 
+### Engage your customers and get their help {{< legacy-img src="CDN/files/2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}
 
 Encourage self-help. For any program, as the number of users grows, user training becomes a critical element. With limited resources to spare, we tapped into GSA’s [Open Opportunities](https://openopps.WHATEVER/dashboard) program to bring in other agencies’ Web analytics experts to train the DAP users on how to use the tool. This not only allowed us to expand the training program from just Webinars to quarterly in-person trainings with live streaming for remote participants, but further helped with DAP agency adoption and acceptance as the DAP instructors came from other agencies.
 
@@ -51,17 +51,17 @@ Yet, not everyone is outspoken, and some prefer to give feedback anonymously. To
 
 ### Establish a Community of Experts
 
-Don’t create in a silo. Eventually, programs have to get a buy-in from customers anyway, so why delay? Convening power users or experts and involving them in the creation and development of products or services leads to a better product and increases program ownership. With that in mind, DAP created a DAP Experts Community, pulling a group of digital analytics and technical experts from across the government. The DAP Experts Community is a great asset to the program as they consistently [challenge DAP]({{< relref "2015-08-26-analytics-pitfall-avoid-this-common-implementation-mistake.md" >}} to improve and enhance data collection and analysis.
+Don’t create in a silo. Eventually, programs have to get a buy-in from customers anyway, so why delay? Convening power users or experts and involving them in the creation and development of products or services leads to a better product and increases program ownership. With that in mind, DAP created a DAP Experts Community, pulling a group of digital analytics and technical experts from across the government. The DAP Experts Community is a great asset to the program as they consistently [challenge DAP]({{< relref "2015-08-26-analytics-pitfall-avoid-this-common-implementation-mistake.md" >}}) to improve and enhance data collection and analysis.
 
 ### 2. Walk the Walk: Empower agencies with examples on how to make data-driven decisions
 
 Talking about great data is great. However, applying the great data to make informed decisions is what it’s all about. While users understand the value and importance of Big Data in general, and DAP in particular, using the data and applying it to drive decisions can be overwhelming. “Where do I begin?” is a common question we get when agencies first on-board with DAP.
 
-At DAP, we’ve always felt passionate about sharing lessons learned and demonstrating how data can be used to drive decisions. So, we write topic-based blogs, [trend analyses](https://www.WHATEVER/2015/10/15/gov-analytics-breakdown-1-browsers-chrome-takes-the-cake/), [benchmark]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}}) recommendations, [metrics guidance]({{< relref "2014-06-19-the-golden-metric.md" >}}, [methods for analyzing data]({{< relref "2015-04-16-using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md" >}} to support agencies in integrating the use of the data into their daily routine. The best examples, though, come from agencies themselves, demonstrating how they’ve used DAP data to drive decisions, in [real-world]({{< relref "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}} or [out-of-this world]({{< relref "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}} scenarios.
+At DAP, we’ve always felt passionate about sharing lessons learned and demonstrating how data can be used to drive decisions. So, we write topic-based blogs, [trend analyses](https://www.WHATEVER/2015/10/15/gov-analytics-breakdown-1-browsers-chrome-takes-the-cake/), [benchmark]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}}) recommendations, [metrics guidance]({{< relref "2014-06-19-the-golden-metric.md" >}}), [methods for analyzing data]({{< relref "2015-04-16-using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md" >}}) to support agencies in integrating the use of the data into their daily routine. The best examples, though, come from agencies themselves, demonstrating how they’ve used DAP data to drive decisions, in [real-world]({{< relref "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) or [out-of-this world]({{< relref "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) scenarios.
 
 ### 3. Innovate On the Fly
 
-We like to say that we’ve been flying the “plane” as we’re building it. To keep up with the unprecedented challenge to make a government-wide analytics code work across thousands of websites, the code solution must be innovative, creative, scalable, and [secure]({{< relref "2015-08-14-secure-central-hosting-for-the-digital-analytics-program.md" >}}. To achieve that, we can never stop innovating. It’s second nature.
+We like to say that we’ve been flying the “plane” as we’re building it. To keep up with the unprecedented challenge to make a government-wide analytics code work across thousands of websites, the code solution must be innovative, creative, scalable, and [secure]({{< relref "2015-08-14-secure-central-hosting-for-the-digital-analytics-program.md" >}}). To achieve that, we can never stop innovating. It’s second nature.
 
 Making the code “work” is not enough. The code must collect insightful and actionable data for all of the participating agencies agency, and that comes with just the right amount of customization. To ensure that agencies have a choice with respect to hosting the DAP solution, we offer [multiple code hosting options]({{< relref "analytics-tool-instructions.md" >}}).
 
@@ -81,7 +81,7 @@ Data management and governance lie at the heart of the DAP program. Frankly, at 
 
 At DAP, data is monitored closely on an hourly basis with the help of automated alerts to pick up significant changes and perform diagnostics. In addition, to ensure that the data is processed and standardized before it is available for reporting, we apply a set of data [standardization rules](https://github.com/digital-analytics-program/gov-wide-code/issues/10) against all of the collected data. As DAP continues to evolve, the role of the DAP Experts Community will continue to expand.
 
-Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< relref "common-questions-about-dap-faq.md#part-7 >}}) to protect the integrity of the data upon receiving access to it.
+Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< relref "common-questions-about-dap-faq.md#part-7" >}}) to protect the integrity of the data upon receiving access to it.
 
 ## It’s a Journey
 

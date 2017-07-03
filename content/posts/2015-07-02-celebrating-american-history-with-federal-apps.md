@@ -40,4 +40,4 @@ The [Smithsonian Institution](http://www.si.edu/) is a curator of history in man
 
 No matter where you celebrate the 4th, you can check out these federal apps that highlight American history from a variety of angles.
 
-_You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}._
+_You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

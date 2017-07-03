@@ -21,7 +21,7 @@ tag:
   - DigitalGov Summit
 ---
 
-In May 2015, we’re hosting the second [DigitalGov Citizen Services Summit]({{< relref "event.md" >}}2015-digitalgov-citizen-services-summit/ "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.
+In May 2015, we’re hosting the second [DigitalGov Citizen Services Summit]({{< tmp "event/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.
 
 ## Step 1: Think Up a Great Idea {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-Light-bulb-with-colorful-Social-Media-icons-VLADGRIN-iStock-Thinkstock-187440476.jpg" alt="Light bulb with colorful Social Media icons" caption="" >}} 
 

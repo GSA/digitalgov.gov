@@ -1,6 +1,7 @@
 ---
 date: 2014-01-09 5:24:49 -0400
 title: Top 8 Best Practices for Federal Contact Centers
+slug: top-eight-best-practices-for-federal-contact-centers
 summary: '1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers Understand and follow all Privacy, Security, Disability, and Service Contract Act requirements. 2. Use Performance Metrics to Influence Business Rules and Drive Improvements Develop Key Performance Indicators/Metrics (see Performance Goals). CSLIC could be used as a start. 3. Develop and Use a Comprehensive Quality Assurance Program Monitor quality.'
 authors:
   - barbara-walton
@@ -18,7 +19,7 @@ tag:
   - top tasks
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}}
 
 ## 1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers
 
@@ -44,7 +45,7 @@ tag:
 
 ## 5. Focus on Top Tasks and Make the Most Important Content Easy to Find
 
-  * Determine top tasks. 
+  * Determine top tasks.
       * Review data (reports, website traffic, Interactive Voice Response (IVR) usage, etc.)
       * Review Customer Satisfaction data
       * Survey front-line agents
@@ -61,7 +62,7 @@ tag:
 
 ## 7. Collect Customer Feedback
 
-  * Use a Customer Satisfaction Survey. 
+  * Use a Customer Satisfaction Survey.
       * Don&#8217;t ask leading questions.
       * Review the Basics of Survey and Question Design
       * Allow for additional comments from customers.
@@ -73,8 +74,8 @@ tag:
 
 ## 8. Stay Current with the Latest Research and Best Practices
 
-  * Attend training through courses, workshops, webcasts, and [webinars]({{< relref "communities.md" >}}government-contact-center-council-g3c/ "Government Contact Center Council (G3C)") to gain knowledge about latest information, methods, policies, and best practices.
-  * Review industry reports: 
+  * Attend training through courses, workshops, webcasts, and [webinars]({{< tmp "communities/government-contact-center-council-g3c.md" >}} "Government Contact Center Council - G3C") to gain knowledge about latest information, methods, policies, and best practices.
+  * Review industry reports:
       * [2011 Federal Contact Center Survey Final Report](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/2011-federal-contact-center-survey-final-report.pdf)  (PDF, 1.49 MB, 54 pages, September 2011)
       *  [An Analysis of the Feasibility of Employing Home-Based Agents in Economically Depressed Rural Areas to Staff Federal Contact Centers](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/G3C-Analysis-of-Employing-Home-Based-Agents.doc) (MS Word, 115 KB, 20 pages, October 2009)
       * [Removing Barriers to Citizen Engagement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Removing-Barriers-to-Citizen-Engagement.doc)  (MS Word, 64 KB, 8 pages, March 2009)

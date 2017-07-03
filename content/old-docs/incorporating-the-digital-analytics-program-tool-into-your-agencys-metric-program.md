@@ -49,7 +49,7 @@ Other leading Web analytics solutions, such as Omniture/Adobe SiteCatalyst and W
 ## Learn More
 
   * [Digital Analytics Program]({{< relref "dap.md" >}} "DAP: Digital Analytics Program")
-  * [Common Questions About the Digital Analytics Program]({{< relref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP (FAQ)")
+  * [Common Questions About the Digital Analytics Program]({{< relref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ")
 
 ## Contact Us
 

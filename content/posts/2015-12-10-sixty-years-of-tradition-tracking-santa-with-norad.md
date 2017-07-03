@@ -45,4 +45,4 @@ The magic starts when you click on “**Let’s go!**” Explore “**Santa’s 
 
 Don’t forget your popcorn when you visit the **Theater** to enjoy movies on Santa and NORAD and the gift shop. Visit **NORAD HQ** to know more about NORAD’s mission, and learn how they track Santa’s flight around the world. In “Secret Santa Files,” view history and highlights of the program’s 60-year history tracking Santa’s yuletide journey.
 
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}._
+_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

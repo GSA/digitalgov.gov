@@ -19,7 +19,7 @@ tag:
   - TOS
 ---
 
-Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system]({{< relref "2013-07-18-how-to-create-a-customer-experience-index.md" >}} to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.
+Three years ago, GSA’s Office of Citizen Services and Innovative Technologies (OCSIT) set out to [design a system]({{< relref "2013-07-18-how-to-create-a-customer-experience-index.md" >}}) to consistently measure customer satisfaction across our office. We were inspired by the [Digital Government Strategy](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html), which tasks agencies to adopt a customer-centric approach to service delivery.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-345-word-cloud-of-GCXi-survey-responses.jpg" alt="A word cloud of Government Customer Experience Index survey responses." >}}
 

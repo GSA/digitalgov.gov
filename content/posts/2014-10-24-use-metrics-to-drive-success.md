@@ -58,4 +58,4 @@ So, we learned through our experiments that people are willing (and excited!) ab
 
 As we move to a new platform we will focus our metrics on the ratio of new innovators to tasks created and the overall completion rate. Our hypothesis going forward is that the new platform will increase participation and advance the innovators network.
 
-To learn more about the Open Opportunities program read our previous post [Hacking the Bureaucracy One Task at a Time]({{< relref "2014-06-23-hacking-the-bureaucracy-one-task-at-a-time.md" >}} and [join in](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_60).
+To learn more about the Open Opportunities program read our previous post [Hacking the Bureaucracy One Task at a Time]({{< relref "2014-06-23-hacking-the-bureaucracy-one-task-at-a-time.md" >}}) and [join in](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_60).

@@ -45,7 +45,7 @@ There’s huge value to creating short-form content to grab the attention of you
   </p>
 </blockquote>
 
-Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< relref "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}} to engage with its audience).
+Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< relref "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}}) to engage with its audience).
 
 __You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
 

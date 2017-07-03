@@ -27,6 +27,6 @@ Other apps are built by brainstorming around an established API. Another set of 
 
 Sometimes developers have a great idea and the federal data source exists, but is not available as an API. In these cases, a developer can contact the federal agency and demonstrate how his or her app idea can benefit the public. Once agencies see a need for open access to a data source, another API could be added to Data.gov’s growing list of datasets.
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< relref "2013-04-30-apis-in-government.md" >}} _for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< relref "2013-04-30-apis-in-government.md" >}}) _for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._

@@ -25,11 +25,11 @@ Stay on the cutting edge of  government contact center news, ideas, best practic
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Planning A Government Contact Center" href="{{< relref "getting-started-with-your-contact-center.md" >}}#planning" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/hp-featured-pg-348-x-226-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-last-one-changed-to-chat-icon-from-NiroDesign-175617593.jpg" alt="Planning A Government Contact Center" >}}</a>
+          <a title="Permanent Link to Planning A Government Contact Center" href={{< relref "getting-started-with-your-contact-center.md#planning" >}} rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/hp-featured-pg-348-x-226-Website-Contact-Page-Icons-Concept-NiroDesign-iStock-Thinkstock-185858280-last-one-changed-to-chat-icon-from-NiroDesign-175617593.jpg" alt="Planning A Government Contact Center" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="{{< relref "getting-started-with-your-contact-center.md" >}}#planning">Planning A Government Contact Center</a>
+          <a href={{< relref "getting-started-with-your-contact-center.md#planning" >}}>Planning A Government Contact Center</a>
         </h4>
       </div>
     </div>

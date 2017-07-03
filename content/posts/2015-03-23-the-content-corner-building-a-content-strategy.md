@@ -41,9 +41,9 @@ Even if you ask these questions from time to time during the content creation pr
 
 We touched on this question in a small way above by considering when in the user&#8217;s path or experience it would potentially be helpful to provide content. For example, contextual help or simple tips in an appropriate portion of a process. But this question is also about the “upper-case When” and is about providing the right content at the right time of year for your user, when applicable.
 
-Previously, I touched on the [importance of editorial calendars]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}} and planning when you want to drive exposure to your content or increase your reputation among the community you serve. Editorial calendars are a critical part of any content strategy, and along with defining a clear set of overarching goals, they should form the nucleus of your content strategy.
+Previously, I touched on the [importance of editorial calendars]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) and planning when you want to drive exposure to your content or increase your reputation among the community you serve. Editorial calendars are a critical part of any content strategy, and along with defining a clear set of overarching goals, they should form the nucleus of your content strategy.
 
-One of the best examples for this time of year is providing content with a clear focus on the current year&#8217;s tax season. If you are the IRS or an HR office or a mortgage lender and don&#8217;t have a tax season [content pillar]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}} providing information for your users on multiple channels, then you might want to think about a strategy or at least a calendar.
+One of the best examples for this time of year is providing content with a clear focus on the current year&#8217;s tax season. If you are the IRS or an HR office or a mortgage lender and don&#8217;t have a tax season [content pillar]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) providing information for your users on multiple channels, then you might want to think about a strategy or at least a calendar.
 
 ## Where is it Supposed to Go?
 

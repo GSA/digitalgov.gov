@@ -25,7 +25,7 @@ One of the first critical things that I fight to remember during any discovery p
 
 ### Usage Statistics
 
-For the [main site that I support](https://oscar.uscourts.gov), we are constantly finding new ways to sift through and increase the amount of information we can gain from our users. It has to [go far deeper than simple pageviews]({{< relref "2014-06-19-the-golden-metric.md" >}}, but in many situations, agencies do seem to stop there. Pageviews tell the beginning of the story, but many of our sites are far more complicated than simply a page. What are the users really trying to find on the page?
+For the [main site that I support](https://oscar.uscourts.gov), we are constantly finding new ways to sift through and increase the amount of information we can gain from our users. It has to [go far deeper than simple pageviews]({{< relref "2014-06-19-the-golden-metric.md" >}}), but in many situations, agencies do seem to stop there. Pageviews tell the beginning of the story, but many of our sites are far more complicated than simply a page. What are the users really trying to find on the page?
 
 My agency has worked on adding code to anchor links to better determine exactly what specific FAQs are the most popular. We leverage that data to either flesh out the FAQs further or raise their visibility. And we continually have to ask the question of how best to interpret our less popular content: do users need it and can’t find it, or do they not need it because we are handling their needs more fully elsewhere? Be sure you don’t fall victim to interpreting your user data to fit assumptions or to see what you want to; be as objective as possible.
 
@@ -44,7 +44,7 @@ When interpreting search results, you have to take these two user paths into con
 
 ### Customer Service/Help Desk
 
-Supporting a program that has dedicated help desk staff was a relatively new experience for me, so I initially didn’t realize what an invaluable resource for user data and content needs they can be. In hindsight, it makes perfect sense because these individuals are essentially carrying out random user interviews every day either via email or phone ([maybe chat one day]({{< relref "2014-07-28-should-your-agency-be-offering-chat-service.md" >}}?).
+Supporting a program that has dedicated help desk staff was a relatively new experience for me, so I initially didn’t realize what an invaluable resource for user data and content needs they can be. In hindsight, it makes perfect sense because these individuals are essentially carrying out random user interviews every day either via email or phone ([maybe chat one day]({{< relref "2014-07-28-should-your-agency-be-offering-chat-service.md" >}})?).
 
 If there is something that is hard to find or a process on your site is not working correctly or is confusing to a user, the second person after the user to know about it will most likely be a member of your help desk staff. If your site has the benefit of having this level of regular customer interaction, I strongly recommend taking advantage of it. More and more I have my help desk manager involved in everything from blog posts to user interface design.
 

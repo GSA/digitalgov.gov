@@ -10,7 +10,7 @@ authors:
 
 Communities unite federal teams with over 12,000 memberships across 16 active mission areas—the largest and most active inter-agency network of transformative federal government managers—as critical mission hubs that provide a platform for sharing, developing and implementing strategies.
 
-Their contributions are limitless in their impact, including the introduction of citizen voice platforms like [Yelp for public services]({{< relref "2015-08-07-five-star-customer-experience-in-public-service-with-yelp.md" >}} and [Artificial Intelligence for customer service]({{< relref "automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the support of more than [700 prizes and competitions](https://www.challenge.gov/list/), inter-Community platforms like [the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.uf6fsnw2g), development of the [U.S. Public Participation Playbook](https://participation.usa.gov/) and other resources for [Cyber-Security]({{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}) and [Accessibility for persons with Disabilities]({{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}), and [mobile products]({{< relref "mobile-application-testing-program.md" >}}) that put services in the hands of citizens.
+Their contributions are limitless in their impact, including the introduction of citizen voice platforms like [Yelp for public services]({{< relref "2015-08-07-five-star-customer-experience-in-public-service-with-yelp.md" >}}) and [Artificial Intelligence for customer service]({{< relref "automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the support of more than [700 prizes and competitions](https://www.challenge.gov/list/), inter-Community platforms like [the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.uf6fsnw2g), development of the [U.S. Public Participation Playbook](https://participation.usa.gov/) and other resources for [Cyber-Security]({{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}) and [Accessibility for persons with Disabilities]({{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}), and [mobile products]({{< relref "mobile-application-testing-program.md" >}}) that put services in the hands of citizens.
 
 ## Communities Objectives
 
@@ -57,7 +57,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 300+ memberships
   * To join, [email Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros) with “Join Video Production Pros” in subject
 
-**[G3C]({{< relref "communities.md" >}}government-contact-center-council-g3c/)**: Improving government contact centers.
+**[G3C]({{< tmp "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.
 
   * 275 memberships
   * To join, [email Tim Cossairt](mailto:tim.cossairt@dhs.gov?subject=Join G3C) with “Join G3C” in subject

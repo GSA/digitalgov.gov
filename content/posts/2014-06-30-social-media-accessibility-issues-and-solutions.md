@@ -45,4 +45,4 @@ The FCC’s Accessibility and Innovation Initiative will host a [public event, J
 
 _**Victoria Wales** is a Bilingual Web Content Manager with [USA.gov](http://www.usa.gov/), at the U.S. General Services Administration (GSA)._
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines >}}) on Social Media. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._

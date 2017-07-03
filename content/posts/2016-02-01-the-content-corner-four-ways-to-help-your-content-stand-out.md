@@ -22,9 +22,9 @@ When [discussing trends for 2016](https://www.WHATEVER/2016/01/11/the-content-co
 
 We all know [infographics are a great way to increase user engagement](https://www.youtube.com/watch?v=3t1iZLKaJas&feature=youtu.be) with our content, but what’s even better? Interactive infographics! Using interactive infographics allows you to provide a richer content experience for the user by offering in-depth coverage of a topic within one single infographic. The interaction also generally leads to better information retention by the user, which can be important for agencies providing educational content.
 
-I like the idea of interactive infographics because they nicely bridge a gap between standard infographics and [animated gifs]({{< relref "2015-04-24-sharing-the-essentials-of-animated-gifs-for-public-services.md" >}}. They draw a user in and empower the user to see as much or as little content as they want or are interested in. Click a few spots and move on if you wish. They are also (as with all infographics) very shareable which helps new users find your content and your site. The interactive aspect increases the likelihood they get shared.
+I like the idea of interactive infographics because they nicely bridge a gap between standard infographics and [animated gifs]({{< relref "2015-04-24-sharing-the-essentials-of-animated-gifs-for-public-services.md" >}}). They draw a user in and empower the user to see as much or as little content as they want or are interested in. Click a few spots and move on if you wish. They are also (as with all infographics) very shareable which helps new users find your content and your site. The interactive aspect increases the likelihood they get shared.
 
-Any type of infographic does raise [accessibility and section 508 issues]({{< relref "2014-02-04-trends-on-tuesday-optimizing-infographics-for-mobile.md" >}}, so be sure to provide the interactive visual content in a text format to ensure visually impaired users are still able to access your content.
+Any type of infographic does raise [accessibility and section 508 issues]({{< relref "2014-02-04-trends-on-tuesday-optimizing-infographics-for-mobile.md" >}}), so be sure to provide the interactive visual content in a text format to ensure visually impaired users are still able to access your content.
 
 ## Quizzes
 
@@ -32,7 +32,7 @@ Yes, I hear you, you are a government agency and not Buzzfeed or some other clic
 
 Their [Autism Awareness quiz](http://www.cdc.gov/features/AutismAwareness/) provides a helpful first step for parents that may be concerned about their child’s development. Or, if you missed the recent [National Folic Acid Awareness Week](http://www.cdc.gov/features/folicacidbenefits/index.html), you can still [take the quiz](http://www.cdc.gov/features/folicacidawareness/) to help make sure you are taking precautions needed during your pregnancy.
 
-Again, it is a way to get users to interact with your content and possibly alter the content provided based on their answers. Quizzes can be seen as a very basic form of personalization and also [gamification]({{< relref "2012-11-30-using-gamification-in-federal-projects.md" >}} by encouraging users to possibly alter their behavior based on the results of their quiz.
+Again, it is a way to get users to interact with your content and possibly alter the content provided based on their answers. Quizzes can be seen as a very basic form of personalization and also [gamification]({{< relref "2012-11-30-using-gamification-in-federal-projects.md" >}}) by encouraging users to possibly alter their behavior based on the results of their quiz.
 
 ## Interactive Videos
 
@@ -40,11 +40,11 @@ If you think you are beginning to sense a theme, you are not mistaken. Yes, I ha
 
 They developed a fully immersive and interactive experience by combining video segments with articles and statistics that all provided a deeper analysis of the topic and sin such as greed, envy, or sloth.
 
-Just as with interactive infographics, this takes one of the most engaging pieces of content you can create and enhances it further. It also allows you to leverage existing or [evergreen content]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}} by developing a video series around a topic that you regularly cover. Since I have already mentioned CDC, a topic such as [children’s health and disability](http://www.cdc.gov/ncbddd/kids/index.html) could benefit from such a treatment.
+Just as with interactive infographics, this takes one of the most engaging pieces of content you can create and enhances it further. It also allows you to leverage existing or [evergreen content]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}}) by developing a video series around a topic that you regularly cover. Since I have already mentioned CDC, a topic such as [children’s health and disability](http://www.cdc.gov/ncbddd/kids/index.html) could benefit from such a treatment.
 
 ## Clarity
 
-One final point about cutting through the noise is to make sure you are very clear about what you are saying and what information you are trying to convey. This goes beyond [plain writing]({{< relref "plain-language-web-writing-tips.md" >}}), I think, and also goes towards a deeper thinking of what we are creating and the awareness of our [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}. These items help provide that clarity but we also need to make sure we are clear in our content. If you are trying to help your audience create better content, then make sure you say that loudly and often. I feel that we still get bogged down in verbage in the public sector, even as folks like us try to fight against the decades-long tendency to over-explain or classify.
+One final point about cutting through the noise is to make sure you are very clear about what you are saying and what information you are trying to convey. This goes beyond [plain writing]({{< relref "plain-language-web-writing-tips.md" >}}), I think, and also goes towards a deeper thinking of what we are creating and the awareness of our [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}). These items help provide that clarity but we also need to make sure we are clear in our content. If you are trying to help your audience create better content, then make sure you say that loudly and often. I feel that we still get bogged down in verbage in the public sector, even as folks like us try to fight against the decades-long tendency to over-explain or classify.
 
 What did I miss? I’m sure many of you out there are using additional creative techniques to help your critical content stand out and help further your agency’s mission and help your users. Please share in the comments section.
 

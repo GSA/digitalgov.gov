@@ -43,7 +43,7 @@ In a recent [Trends on Tuesday: The Total Market Approach](https://www.WHATEVER/
 We’ve also had several other articles on personas including:
 
   * A [persona development case study with the National Cancer Institute](https://www.WHATEVER/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/ "Persona Development Case Study: NCI and Spanish Language Outreach") and their Spanish language outreach
-  * An article with perspectives from the Department of Agriculture and the Department of Health and Human Services on [using and creating personas and the challenges associated with this process.](https://www.WHATEVER/2015/02/02/agency-perspectives-on-personas-use-development-and-challenges/ "Agency Perspectives on Personas (Use, Development and Challenges)")
+  * An article with perspectives from the Department of Agriculture and the Department of Health and Human Services on [using and creating personas and the challenges associated with this process.](https://www.WHATEVER/2015/02/02/agency-perspectives-on-personas-use-development-and-challenges/ "Agency Perspectives on Personas - Use, Development and Challenges")
   * A USA.gov case study on [using personas to better understand customers](https://www.WHATEVER/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/ "Using Personas to Better Understand Customers: USA.gov Case Study").
 
 ## Events

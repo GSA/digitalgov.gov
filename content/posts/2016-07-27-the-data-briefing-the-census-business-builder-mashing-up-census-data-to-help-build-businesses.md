@@ -34,7 +34,7 @@ The Census Business Builder and the Regional Analyst Edition demonstrate several
 
 _(ESRI and ArcGIS are used for illustrative purposes and does not imply endorsement by the federal government or any specific federal agencies.)_
 
-_*API – Application Programming Interface—how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}} for more information._
+_*API – Application Programming Interface—how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}}) for more information._
 
 _Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 

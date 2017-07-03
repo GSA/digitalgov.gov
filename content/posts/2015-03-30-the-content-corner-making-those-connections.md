@@ -28,7 +28,7 @@ If the best way to achieve your communication goals with a particular audience i
 
 Along with audience determining your message, your message can help determine how you communicate it. I&#8217;m regularly hammering the term &#8220;efficient&#8221; when it comes to content and that is very important when you are examining what would best do the job. Again, it&#8217;s about efficiency and not so much about comfort levels (and I&#8217;m talking about my comfort levels, too).
 
-One great example of this that has gained popularity of late is the [infographic]({{< relref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}. It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
+One great example of this that has gained popularity of late is the [infographic]({{< relref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}](http://www.quicksprout.com/2015/03/20/the-ultimate-guide-to-creating-visually-appealing-content/?display=wide) 
 
@@ -42,9 +42,9 @@ As opposed to a video, if you have a brief segment without audio that you need t
 
 All the other stuff I write about is important:
 
-  * [Audits]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}}
-  * [Structure]({{< relref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}}
-  * [Strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}
+  * [Audits]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}})
+  * [Structure]({{< relref "2015-03-16-the-content-corner-a-world-without-web-pages.md" >}})
+  * [Strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}})
 
 and I will keep writing about it, but every so often I need to go to [Smithsonian&#8217;s Tumblr](http://smithsonianlibraries.tumblr.com/tagged/gif) and remind myself how much fun this can and should be.
 

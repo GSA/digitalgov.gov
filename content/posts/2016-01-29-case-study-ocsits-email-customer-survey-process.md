@@ -28,7 +28,7 @@ A benefit of keeping this process top-of-mind for staff all year long is that it
 
   * [Web analytics]({{< relref "dap.md" >}})
   * [Usability testing]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}})
-  * [Call center data]({{< relref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}}
+  * [Call center data]({{< relref "2014-02-28-what-do-people-think-of-your-content-ask-your-contact-center.md" >}})
   * Web pop-up surveys
   * Free-form customer comments from social media, chat, blogs or email
   * Agency consultations and office hours
@@ -90,7 +90,7 @@ The core questions measure satisfaction, loyalty and ease of use. Questions may 
 
 Response choices are listed from positive to negative. The top two (positive) responses are “promoters,” the middle response is “neutral,” and the bottom two (negative) responses are “detractors.” We subtract the percentage of detractors from the percentage of promoters to get the score. We score each question, as well as calculate an overall score for each program. Note, that if you have more detractors than promoters, it’s possible to get a negative score (range is +/-100).
 
-I know you’re thinking, “So, where are your scores?” While the actual numbers are for internal management purposes only, we’ve shared some overall insights in this post, [Digging Into the Data of Our Customer Survey]({{< relref "2016-01-05-digging-into-the-data-of-our-customer-survey.md" >}}.
+I know you’re thinking, “So, where are your scores?” While the actual numbers are for internal management purposes only, we’ve shared some overall insights in this post, [Digging Into the Data of Our Customer Survey]({{< relref "2016-01-05-digging-into-the-data-of-our-customer-survey.md" >}}).
 
 ## Closing the Loop
 

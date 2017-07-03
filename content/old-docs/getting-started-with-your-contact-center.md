@@ -8,11 +8,11 @@ summary: 'Planning and creating a successful government contact center is a comp
 
 Planning and creating a successful government contact center is a complex endeavor. This section provides insight on the various aspects to help you get started:
 
-  * [What is a Contact Center?]({{< relref "getting-started-with-your-contact-center.md#what >}})
-  * [Attributes of High-Performing Contact Centers]({{< relref "getting-started-with-your-contact-center.md#attributes >}})
-  * [Planning a Government Contact Center]({{< relref "getting-started-with-your-contact-center.md#planning >}})
-  * [Customer Contact Channels and Strategies]({{< relref "getting-started-with-your-contact-center.md#customer >}})
-  * [Contact Center Site Selection Criteria]({{< relref "getting-started-with-your-contact-center.md#site >}})
+  * [What is a Contact Center?]({{< relref "getting-started-with-your-contact-center.md#what" >}})
+  * [Attributes of High-Performing Contact Centers]({{< relref "getting-started-with-your-contact-center.md#attributes" >}})
+  * [Planning a Government Contact Center]({{< relref "getting-started-with-your-contact-center.md#planning" >}})
+  * [Customer Contact Channels and Strategies]({{< relref "getting-started-with-your-contact-center.md#customer" >}})
+  * [Contact Center Site Selection Criteria]({{< relref "getting-started-with-your-contact-center.md#site" >}})
 
 ## What is a Contact Center? {#what}
 

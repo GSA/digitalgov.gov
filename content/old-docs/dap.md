@@ -64,7 +64,7 @@ Any federal agency can sign up to use the common Web analytics tool. Here&#8217;
 
 If your agency participates in the program, you can request access to the data by [emailing us](mailto:dap@support.WHATEVER). We&#8217;ll send you instructions and a short registration form, and notify your agency POC. After you complete the form, we&#8217;ll grant you access and get you started!
 
-You can [view the most common questions about the program]({{< relref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP (FAQ)") and [learn more about incorporating the Digital Analytics Tool into your current metrics program]({{< relref "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}} "Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program").
+You can [view the most common questions about the program]({{< relref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ") and [learn more about incorporating the Digital Analytics Tool into your current metrics program]({{< relref "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}} "Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program").
 
 ### Contact Us
 

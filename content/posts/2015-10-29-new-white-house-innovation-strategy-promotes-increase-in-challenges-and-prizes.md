@@ -43,7 +43,7 @@ Contracts and grants are a great way for government to partner with industry and
 
 “The beauty of prizes and challenges is that they’re open to individuals from around the country,” Gustetic said. “It’s about the best ideas and the best solutions and not about people understanding the insider processes to work with the federal government. They really do unlock whole new classes of and channels for engaging people in solving a variety of different problems that traditional government tools don’t easily and readily allow you to tap into.”
 
-To help more agencies use challenges, GSA recently announced its first-ever [mentorship program for challenges and prizes]({{< relref "2015-10-22-gsa-announces-first-ever-challenge-gov-mentorship-program.md" >}}. A stable of 20 experts are making themselves available to anyone seeking advice on planning and executing open competitions.
+To help more agencies use challenges, GSA recently announced its first-ever [mentorship program for challenges and prizes]({{< relref "2015-10-22-gsa-announces-first-ever-challenge-gov-mentorship-program.md" >}}). A stable of 20 experts are making themselves available to anyone seeking advice on planning and executing open competitions.
 
 The mentorship program will help make challenges and prizes a reality across the federal government, no matter the size of the agency or extent of the problem it seeks to solve.
 

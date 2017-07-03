@@ -15,7 +15,7 @@ tag:
   - OMB
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-333-Lisa-Danzig.jpg" alt="Lisa Danzig" >}}We recently sat down with Lisa Danzig, who’s leading work at the Office of Management and Budget (OMB) on the [FY15 Cross Agency Priority (CAP) goal](http://www.performance.gov/cap-goals-list) on Customer Service (CS). The CS CAP goal aims to help agencies deliver world-class customer service to citizens that’s on par with leading private sector services by streamlining transactions, [setting customer service standards]({{< relref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}} for high impact services, and making it faster and easier to complete transactions with government online.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-333-Lisa-Danzig.jpg" alt="Lisa Danzig" >}}We recently sat down with Lisa Danzig, who’s leading work at the Office of Management and Budget (OMB) on the [FY15 Cross Agency Priority (CAP) goal](http://www.performance.gov/cap-goals-list) on Customer Service (CS). The CS CAP goal aims to help agencies deliver world-class customer service to citizens that’s on par with leading private sector services by streamlining transactions, [setting customer service standards]({{< relref "2014-06-16-government-cx-where-do-you-find-the-right-foundational-metrics.md" >}}) for high impact services, and making it faster and easier to complete transactions with government online.
 
 As one of only 15 CAP goals, it’s clear that improving the customer experience is a priority for the federal government, so we asked Lisa to tell us more.
 

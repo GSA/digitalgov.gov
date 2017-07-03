@@ -49,4 +49,4 @@ _**Alberto Navas** is a content strategy consultant working with [GobiernoUSA.go
 
 _Editor&#8217;s Note: Interested in connecting with other government multilingual content managers? Join the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}} "Multilingual Digital Group") and help expand and improve digital content in languages other than English._
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._

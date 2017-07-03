@@ -43,7 +43,7 @@ Federal agencies need to think hard about information architecture, [content str
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-275-NPR-Digital-Media.jpg" alt="Composite image of NPR Digital Media examples." >}}
 
-National Public Radio (NPR) utilizes IA and CS to facilitate their process of COPE (Create Once, Publish Everywhere) adaptable content. In the short video below, Sarah Crane of USA.gov talks about adaptive content and how it works with APIs, using NPR as an exmple; she and her team [used COPE to re-work USA.gov&#8217;s content strategy]({{< relref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}.
+National Public Radio (NPR) utilizes IA and CS to facilitate their process of COPE (Create Once, Publish Everywhere) adaptable content. In the short video below, Sarah Crane of USA.gov talks about adaptive content and how it works with APIs, using NPR as an exmple; she and her team [used COPE to re-work USA.gov&#8217;s content strategy]({{< relref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}).
 
 [youtube=http://www.youtube.com/watch?v=giK-RsHjA4c&w=600]
 

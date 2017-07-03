@@ -32,7 +32,7 @@ tag:
   - U.S. Small Business Administration
 ---
 
-We won’t build the government of the 21st century by [drawing within the lines]({{< relref "2014-05-07-because-its-hard.md" >}}.
+We won’t build the government of the 21st century by [drawing within the lines]({{< relref "2014-05-07-because-its-hard.md" >}}).
 
 We don&#8217;t have to tell you the hard work of building a digital government doesn&#8217;t exist in a vacuum or a bubble. Show us social media without mobile, Web without data and user experience without APIs. You can&#8217;t? That&#8217;s right—in reality, digital government intersects and cuts across boundaries every day in order to deliver the digital goods.
 

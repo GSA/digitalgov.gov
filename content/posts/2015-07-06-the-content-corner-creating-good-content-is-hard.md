@@ -33,7 +33,7 @@ Perhaps it has something to do with the massive marketing campaign for the upcom
 
 Machines currently can’t provide another value that SMEs do, which is the ability to take a complex topic and synthesize various aspects in order to make it more understandable and approachable for the audience.
 
-As I have discussed here before, a machine is unable to express itself with any personality and therefore cannot write with a [unique voice]({{< relref "2015-04-20-the-content-corner-finding-your-voice.md" >}}. With blogging especially, but with all content in general, this personality and voice is what can help your content stand out in a flood of voices. Copyblogger in fact recommends that when all else fails to attract an audience, spice things up by being a [little weird or unique](http://www.copyblogger.com/confident-bloggers/).
+As I have discussed here before, a machine is unable to express itself with any personality and therefore cannot write with a [unique voice]({{< relref "2015-04-20-the-content-corner-finding-your-voice.md" >}}). With blogging especially, but with all content in general, this personality and voice is what can help your content stand out in a flood of voices. Copyblogger in fact recommends that when all else fails to attract an audience, spice things up by being a [little weird or unique](http://www.copyblogger.com/confident-bloggers/).
 
 My personal computer’s behavior aside, I don’t think real scientists are close to creating a machine intelligence that can act weird or develop personality traits that make connections between the writer and reader of a piece of content.
 
