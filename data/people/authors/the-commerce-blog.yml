@@ -1,5 +1,10 @@
-full_name: The Commerce Blog
+display_name: The Commerce Blog
+first_name: Commerce
+last_name: Blog
 uid: the-commerce-blog
+email: ""
+bio: ""
+location: ""
 quote: ""
 github: ""
 twitter: ""

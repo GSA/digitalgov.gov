@@ -1,5 +1,10 @@
-full_name: Jill James
+display_name: Jill James
+first_name: Jill
+last_name: James
 uid: jill-james
+email: jill.james@ed.gov
+bio: ""
+location: ""
 quote: ""
 github: ""
 twitter: ""

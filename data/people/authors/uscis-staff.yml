@@ -1,5 +1,10 @@
-full_name: USCIS Staff
+display_name: USCIS Staff
+first_name: USCIS
+last_name: Staff
 uid: uscis-staff
+email: ""
+bio: ""
+location: ""
 quote: ""
 github: ""
 twitter: ""

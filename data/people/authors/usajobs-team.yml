@@ -1,5 +1,10 @@
-full_name: USAJOBS Team
+display_name: USAJOBS Team
+first_name: USAJOBS
+last_name: Team
 uid: usajobs-team
+email: ""
+bio: ""
+location: ""
 quote: ""
 github: ""
 twitter: ""

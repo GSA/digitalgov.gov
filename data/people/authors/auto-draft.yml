@@ -1,5 +1,10 @@
-full_name: Auto Draft
+display_name: ""
+first_name: ""
+last_name: ""
 uid: auto-draft
+email: ""
+bio: ""
+location: ""
 quote: ""
 github: ""
 twitter: ""
