@@ -27,7 +27,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content]({{< link href="tag/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{< relref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
+A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watch?v=mnZ0Myhy11Y&feature=youtu.be) and the recent achievements of the Centers for Disease Control and Prevention</span> helped open my eyes even wider to the possibilities of [open and structured content](({{< link "tag/open-and-structured-content-models" >}}). By offering critical health information via [syndication]({{< relref "2012-11-05-centers-for-disease-control-content-syndication.md" >}}), CDC and other <span style="font-weight: 400">Department of Health and Human Services agencies are helping resource-strapped local agencies share critical Web content with very little effort.</p> 
 
 <p>
   {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction.jpg" alt="600-x-410-Maintaining-Multi-channel-Content-with-our-API-chart-slide-from-API-Webinar-Series-APIs-for-Dummies-An-Introduction" >}}
@@ -136,5 +136,5 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< link href="tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+    <em>You’ve just finished reading the latest article from our Monday column, <a href="({{< link "tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
   </p>

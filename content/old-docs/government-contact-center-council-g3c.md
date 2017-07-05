@@ -173,7 +173,7 @@ Stay on the cutting edge of  government contact center news, ideas, best practic
 The Council meets the second Thursday of each month at 9 AM.
 
 <p style="text-align: center">
-  <a class="button" href="{{< link href="events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## About the Council

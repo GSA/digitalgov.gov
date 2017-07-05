@@ -78,4 +78,4 @@ These resources are offered through federal digital media syndication sites that
 
 _This post was originally published on the [ICMA blog](http://icma.org/en/icma/knowledge_network/blogs/blog/26/ICMA__blog) and shared on DigitalGov.gov with permission of the author._ 
 
-_Check out our recent DigitalGov articles on the benefits of [content syndication]({{< link href="tag/content-syndication" >}}) and effective [content strategies]({{< link href="tag/content-strategy" >}})._
+_Check out our recent DigitalGov articles on the benefits of [content syndication](({{< link "tag/content-syndication" >}}) and effective [content strategies](({{< link "tag/content-strategy" >}})._

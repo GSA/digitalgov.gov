@@ -21,7 +21,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Responsive Web design <a title="Responsive Web Design" href="{{< link href="tag/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< link href="categories/mobile" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
+  Responsive Web design <a title="Responsive Web Design" href="({{< link "tag/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="({{< link "categories/mobile" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
 </p>
 
 <p dir="ltr">

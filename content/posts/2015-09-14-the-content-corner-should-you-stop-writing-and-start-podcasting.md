@@ -16,7 +16,7 @@ tag:
   - The Content Corner
 ---
 
-Several months or so ago, I raised the question of whether you and your agency [should be podcasting.]({{< relref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) Incidentally, my post coincided with the launch of [DigitalGov’s new podcast series]({{< link href="tag/podcast" >}}). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s [Serial](http://serialpodcast.org/) and [Marc Maron’s WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).
+Several months or so ago, I raised the question of whether you and your agency [should be podcasting.]({{< relref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) Incidentally, my post coincided with the launch of [DigitalGov’s new podcast series](({{< link "tag/podcast" >}}). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s [Serial](http://serialpodcast.org/) and [Marc Maron’s WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).
 
 This rise in popularity and perhaps the weekly grind of creating written content made me ask the question that is the title of this week’s post: Would it be easier to just sit down in front of a microphone and speak, instead of typing all this stuff out? And in this age of [TL;DR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read), is the medium of a podcast a more suitable vehicle for the dissemination of information as opposed to expecting people to actually read something? On the off chance that you are actually going to read this, let’s try and find some answers.
 
@@ -53,4 +53,4 @@ So, as is often the case, the final answer to whether you should stop writing an
 
 As podcasts&#8217; popularity continues to rise and they become more and more mainstream, I predict a resurgence in government podcasting. However, they will remain only another tool along with written and video content to reach and assist as many customers as possible.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

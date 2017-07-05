@@ -77,4 +77,4 @@ As you look to develop your content strategy, remember these words from Gary Vay
 
 What other types of unique content do you think agencies should be leveraging?
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link href="tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -33,4 +33,4 @@ When the public is involved in land and resource management through citizen scie
 
 _This post was originally published on the [Forest Service](http://www.fs.fed.us/blogs/) blog._
 
-_To learn more, read our [Crowdsourcing and Citizen Science articles]({{< link href="categories/crowdsourcing-and-citizen-science" >}}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{< relref "communities.md" >}})._
+_To learn more, read our [Crowdsourcing and Citizen Science articles](({{< link "categories/crowdsourcing-and-citizen-science" >}}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{< relref "communities.md" >}})._

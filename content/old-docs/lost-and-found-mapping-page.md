@@ -295,7 +295,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Events" href="{{< link href="events" >}}">Events</a>
+      <a title="Events" href="({{< link "events" >}}">Events</a>
     </td>
   </tr>
   

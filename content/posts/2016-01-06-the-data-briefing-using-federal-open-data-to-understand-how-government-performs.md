@@ -26,7 +26,7 @@ According to a quick search on Programmable Web, there are <a href="http://www.p
 
 The federal government has become much more complex as the challenges it deals with have also become more complex. The amount of data created by the federal government rapidly grows every year, which makes monitoring government performance and spending that much more difficult. Opening up federal data and encouraging citizens and researchers to use that data to learn more about government performance and operations can only help improve government and better engage American citizens.
 
-_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 

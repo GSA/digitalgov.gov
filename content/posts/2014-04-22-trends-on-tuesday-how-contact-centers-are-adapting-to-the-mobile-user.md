@@ -47,7 +47,7 @@ While it does provide challenges, anytime, anywhere digital government provides 
     </p>
 
 <p dir="ltr">
-  The report highlights the fact that contact centers need to make sure that when they use these new mobile technologies the interactions create great mobile user experiences. Contact center managers in the federal government can use the <a href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> developed by the <a title="Mobile" href="{{< link href="categories/mobile" >}}">Mobile Gov Community of Practice</a> to develop good mobile experiences.
+  The report highlights the fact that contact centers need to make sure that when they use these new mobile technologies the interactions create great mobile user experiences. Contact center managers in the federal government can use the <a href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> developed by the <a title="Mobile" href="({{< link "categories/mobile" >}}">Mobile Gov Community of Practice</a> to develop good mobile experiences.
 </p>
 
 While there are a lot of complex solutions, a good mobile user experience may sometimes be as simple as ensuring a user can easily access a phone number on a mobile website or app to make that traditional connection easy.

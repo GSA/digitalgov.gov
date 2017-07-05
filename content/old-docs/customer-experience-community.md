@@ -213,11 +213,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Read more articles on customer experience" href="{{< link href="tag/customer-experience" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Businessman-writing-several-words-about-satisfaction-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-179693036.jpg" alt="Read more articles on customer experience" >}}</a>
+          <a title="Permanent Link to Read more articles on customer experience" href="({{< link "tag/customer-experience" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Businessman-writing-several-words-about-satisfaction-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-179693036.jpg" alt="Read more articles on customer experience" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="{{< link href="tag/customer-experience" >}}">Read more articles on Customer Experience</a>
+          <a href="({{< link "tag/customer-experience" >}}">Read more articles on Customer Experience</a>
         </h4>
       </div>
     </div>
@@ -233,7 +233,7 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link href="events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About the Community**

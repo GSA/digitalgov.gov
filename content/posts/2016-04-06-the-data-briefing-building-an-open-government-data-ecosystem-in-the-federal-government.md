@@ -41,6 +41,6 @@ As more federal agencies adopt an ecosystem approach to open data, a larger fede
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 
-_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

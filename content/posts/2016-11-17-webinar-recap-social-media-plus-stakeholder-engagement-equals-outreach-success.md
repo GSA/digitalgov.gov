@@ -176,6 +176,6 @@ _CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and ba
 
 _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
 
-_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link href="tag/multilingual" >}})._ 
+_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov](({{< link "tag/multilingual" >}})._ 
 
 _If you’re a government employee, consider joining one of our [Communities]({{< relref "communities.md" >}}), such as the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), [SocialGov]({{< relref "social-media.md" >}}), and the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}})._

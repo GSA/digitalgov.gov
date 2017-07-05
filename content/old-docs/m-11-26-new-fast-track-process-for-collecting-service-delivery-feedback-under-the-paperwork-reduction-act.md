@@ -22,4 +22,4 @@ The new [Paperwork Reduction Act Fast Track Process](https://www.whitehouse.gov/
 
  
 
-See more [DigitalGov Resources]({{< link href="resources" >}})
+See more [DigitalGov Resources](({{< relref "resources.md" >}})

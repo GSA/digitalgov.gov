@@ -24,7 +24,7 @@ authors:
 
  
 
-See more [DigitalGov Resources]({{< link href="resources" >}})
+See more [DigitalGov Resources](({{< relref "resources.md" >}})
 
  
 

@@ -19,7 +19,7 @@ authors:
 <li style="margin-bottom: 15px">
   <b>Be specific: </b>Define exactly what needs to be done and what deliverables you expect. Include links or documents that the participant will need. <ul>
     <li>
-      The DigitalGov team <a href="https://openopps.WHATEVER/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="{{< link href="tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
+      The DigitalGov team <a href="https://openopps.WHATEVER/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="({{< link "tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
     </li>
   </ul>
 </li>

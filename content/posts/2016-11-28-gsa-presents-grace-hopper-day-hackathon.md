@@ -33,6 +33,6 @@ _This event has passed; [read all about it here](https://open.gsa.gov/events/gra
 
 _Learn more about the_ [_U.S. General Services Administration_](http://www.gsa.gov/) _(GSA)._
 
-_Read recent posts on_ [_data_]({{< link href="categories/code" >}}data1/)_,_ [_APIs_]({{< link href="categories/api" >}})_, and_ [_open source_]({{< link href="tag/open-source" >}})_, and news about_ [_challenge and prize competitions_]({{< link href="categories/challenges" >}}) _and_ [_crowdsourcing & citizen science_]({{< link href="categories/crowdsourcing-and-citizen-science" >}}) _projects._
+_Read recent posts on_ [_data_](({{< link "categories/code" >}}data1/)_,_ [_APIs_](({{< link "categories/api" >}})_, and_ [_open source_](({{< link "tag/open-source" >}})_, and news about_ [_challenge and prize competitions_](({{< link "categories/challenges" >}}) _and_ [_crowdsourcing & citizen science_](({{< link "categories/crowdsourcing-and-citizen-science" >}}) _projects._
 
 _Learn how_ [_Challenge.gov_]({{< relref "challenge-gov.md" >}}) _(crowdsourced challenge and prize competitions) and_ [_CitizenScience.gov_]({{< relref "2016-04-14-gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing.md" >}}) _(crowdsourcing and citizen science projects) can help your agency meet its goals in serving the public. Does your agency need help testing their mobile products? Contact our_ [_Federal CrowdSource Mobile Testing Program_]({{< relref "mobile-application-testing-program.md" >}})_._

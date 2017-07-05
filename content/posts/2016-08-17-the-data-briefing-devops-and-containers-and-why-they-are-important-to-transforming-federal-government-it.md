@@ -27,6 +27,6 @@ Containers allow applications to be in their self-contained capsules while shari
 
 _(Google, Google Search, Gmail, and Google Docs are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any specific federal government agency.)_
 
-_Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
