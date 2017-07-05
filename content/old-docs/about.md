@@ -1,6 +1,7 @@
 ---
 date: 2013-11-18 3:10:34 -0400
 title: About
+url: /about/
 summary: 'We live in a time when more pre-schoolers can use a smartphone app than can tie their shoes. How does government prepare to meet the information needs of these budding citizens? DigitalGov means providing information and services to the public anywhere and anytime. This site is a platform to help those in agencies working on providing digital services and information for the public.'
 authors:
   - apiazza

@@ -52,12 +52,12 @@ menu:
     - Name            : "Digitalgov University"
       Parent          : "events"
       Identifier      : "dg-university"
-      URL             : "/events/dg-university/"
+      URL             : "/digitalgov-university/"
       Weight          : 20
     - Name            : "Video Library"
       Parent          : "events"
       Identifier      : "video-library"
-      URL             : "/events/video-library/"
+      URL             : "http://www.youtube.com/user/howtogov"
       Weight          : 21
 
     - Name            : "communities"
@@ -71,23 +71,23 @@ menu:
       Weight          : 4
     - Name            : "Challenges & Prizes"
       Parent          : "services"
-      Identifier      : "challenges-and-prizes"
-      URL             : "/services/challenges-and-prizes/"
+      Identifier      : "challenge-gov"
+      URL             : "services/challenge-gov/"
       Weight          : 41
     - Name            : "Content Management Systems"
       Parent          : "services"
-      Identifier      : "cms"
-      URL             : "/services/cms/"
+      Identifier      : "sites-usa-gov"
+      URL             : "/services/sites-usa-gov/"
       Weight          : 42
     - Name            : "Crowdsource Mobile Testing"
       Parent          : "services"
-      Identifier      : "crowdsource-mobile-testing"
-      URL             : "/services/crowdsource-mobile-testing/"
+      Identifier      : "mobile-application-testing-program"
+      URL             : "/services/mobile-application-testing-program/"
       Weight          : 43
     - Name            : "data.gov"
       Parent          : "services"
-      Identifier      : "data-dot-gov"
-      URL             : "/services/data-dot-gov/"
+      Identifier      : "data-gov"
+      URL             : "/services/data-gov/"
       Weight          : 44
     - Name            : "Digital Analytics Program (Metrics)"
       Parent          : "services"
@@ -96,8 +96,8 @@ menu:
       Weight          : 45
     - Name            : "Electronic Capital Planning and Investment Control"
       Parent          : "services"
-      Identifier      : "ecpic"
-      URL             : "/services/ecpic/"
+      Identifier      : "electronic-capital-planning-and-investment-control-ecpic"
+      URL             : "/services/electronic-capital-planning-and-investment-control-ecpic/"
       Weight          : 46
     - Name            : "Search"
       Parent          : "services"
@@ -106,13 +106,13 @@ menu:
       Weight          : 47
     - Name            : "U.S. Digital Registry"
       Parent          : "services"
-      Identifier      : "digital-registry"
-      URL             : "/services/digital-registry/"
+      Identifier      : "u-s-digital-registry"
+      URL             : "/services/u-s-digital-registry/"
       Weight          : 48
     - Name            : "URL Shortener"
       Parent          : "services"
-      Identifier      : "url-shortener"
-      URL             : "/services/url-shortener/"
+      Identifier      : "usa-gov-short-urls"
+      URL             : "/services/usa-gov-short-urls/"
       Weight          : 49
 
     - Name            : "resources"
@@ -132,12 +132,12 @@ menu:
 
     - Name            : "Join Digitalgov"
       Identifier      : "join"
-      URL             : "/join/"
+      URL             : "/join-digitalgov/"
       Weight          : 7
     - Name            : "Open Opportunites"
       Parent          : "join"
       Identifier      : "open-opportunities"
-      URL             : "/open-opportunities/"
+      URL             : "/join-digitalgov/open-opportunities-in-digitalgov/"
       Weight          : 71
 
   secondary:
