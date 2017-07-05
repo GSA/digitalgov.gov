@@ -5,7 +5,7 @@ summary: Accessibility testing is a subset of usability testing and is the inclu
 categories:
   - Accessibility
   - Mobile
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - mobile apps
   - usability testing

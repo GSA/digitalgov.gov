@@ -5,7 +5,7 @@ summary: 'The good news: Your boss is interested in User Experience! The news: S
 authors:
   - pooja-sawant
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - Customer Experience

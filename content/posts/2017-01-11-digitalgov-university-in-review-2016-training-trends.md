@@ -18,8 +18,8 @@ categories:
   - Mobile
   - Our Work
   - Social Media
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
   - UX
 tag:
   - 18F

@@ -5,7 +5,7 @@ summary: 'I&rsquo;m the kind of guy who loves tests. Not SATs, or BMI tests, but
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - DigitalGov User Experience Program
   - GSA

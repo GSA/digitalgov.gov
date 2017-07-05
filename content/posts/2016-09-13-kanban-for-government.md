@@ -5,7 +5,7 @@ summary: 'Some months ago, 18F started playing with kanban as a way to manage an
 authors:
   - alan-brouilette
 categories:
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - 18F
   - agile

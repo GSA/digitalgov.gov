@@ -7,7 +7,7 @@ authors:
 categories:
   - Content
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - 18F
   - agile

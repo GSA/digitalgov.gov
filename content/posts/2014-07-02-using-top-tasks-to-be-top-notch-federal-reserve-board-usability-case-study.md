@@ -6,7 +6,7 @@ authors:
   - ben-rosset
 categories:
   - Communities
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - AoI

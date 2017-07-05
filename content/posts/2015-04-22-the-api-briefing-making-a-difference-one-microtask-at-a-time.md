@@ -6,7 +6,7 @@ authors:
   - bbrantley
 categories:
   - API
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
 tag:
   - citizen science

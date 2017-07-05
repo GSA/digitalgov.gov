@@ -5,7 +5,7 @@ summary: 'iPlover is a new app from the U.S. Geological Survey (USGS) for data c
 authors:
   - kdowney
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
 tag:
   - crowdsourcing

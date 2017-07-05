@@ -5,7 +5,7 @@ summary: 'Most analytics tools can tell you how many times a link on your page i
 authors:
   - tlowden
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

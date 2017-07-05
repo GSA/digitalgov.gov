@@ -5,7 +5,7 @@ summary: ' Mobile devices allow the public to interact with government in new an
 authors:
   - jparcell
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
   - Monthly Theme
 tag:

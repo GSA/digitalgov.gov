@@ -8,7 +8,7 @@ categories:
   - Content
   - Monthly Theme
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - AIDS.gov
   - content

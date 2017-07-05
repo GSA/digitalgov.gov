@@ -6,7 +6,7 @@ authors:
   - jean-fox
   - robin-l-kaplan
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - BLS

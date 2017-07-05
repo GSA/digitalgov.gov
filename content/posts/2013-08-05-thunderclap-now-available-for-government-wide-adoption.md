@@ -6,7 +6,7 @@ authors:
   - bsteele
 categories:
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - social media
   - Terms of Service

@@ -6,7 +6,7 @@ authors:
   - pat-toth
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - best practices
   - Commerce

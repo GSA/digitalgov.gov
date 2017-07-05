@@ -7,7 +7,7 @@ authors:
 categories:
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - DOJ
   - FOIA

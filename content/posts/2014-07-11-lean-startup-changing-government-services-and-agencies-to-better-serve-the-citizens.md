@@ -5,7 +5,7 @@ summary: It is easy to start a business today and especially an Internet-based b
 authors:
   - bbrantley
 categories:
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - 18F
   - CFPB

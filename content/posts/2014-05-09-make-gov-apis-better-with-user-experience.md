@@ -7,7 +7,7 @@ authors:
 categories:
   - API
   - Code
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - 18F

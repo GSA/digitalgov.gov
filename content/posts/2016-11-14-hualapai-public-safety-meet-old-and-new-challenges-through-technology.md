@@ -8,8 +8,8 @@ categories:
   - Data
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
   - Video
 tag:
   - Audio/Video

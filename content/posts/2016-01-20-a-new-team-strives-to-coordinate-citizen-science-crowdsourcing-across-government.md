@@ -5,7 +5,7 @@ summary: A government can accomplish nothing without the ingenuity of its people
 authors:
   - eric-beidel
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
 tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice

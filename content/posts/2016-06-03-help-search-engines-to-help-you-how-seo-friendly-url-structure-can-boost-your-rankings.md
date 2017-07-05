@@ -6,7 +6,7 @@ authors:
   - cliff-tyllick
 categories:
   - Content
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - search engine optimization
 ---

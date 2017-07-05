@@ -6,7 +6,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - GitHub
   - mobile apps

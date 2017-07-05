@@ -8,7 +8,7 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - best practices
   - cloud

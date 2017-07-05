@@ -5,7 +5,7 @@ summary: 'After conducting a usability test and listening to customer feedback, 
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

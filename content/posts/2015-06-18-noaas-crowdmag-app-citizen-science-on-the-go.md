@@ -5,10 +5,10 @@ summary: 'The rise in mobile device usage has created a rise in expectations: th
 authors:
   - jparcell
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - citizen science
   - crowdsourcing

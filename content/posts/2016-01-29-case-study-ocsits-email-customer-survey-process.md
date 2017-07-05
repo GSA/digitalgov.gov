@@ -6,7 +6,7 @@ authors:
   - rflagg
 categories:
   - Our Work
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - Customer Experience
   - CX

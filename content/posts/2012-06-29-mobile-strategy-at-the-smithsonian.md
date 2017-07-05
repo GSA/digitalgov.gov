@@ -6,7 +6,7 @@ authors:
   - jparcell
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - Mobile Gov Experience
   - Smithsonian Institution

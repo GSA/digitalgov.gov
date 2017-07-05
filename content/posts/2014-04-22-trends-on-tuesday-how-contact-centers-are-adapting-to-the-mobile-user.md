@@ -8,7 +8,7 @@ categories:
   - Communities
   - Mobile
   - Monthly Theme
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - AoI
   - GPS

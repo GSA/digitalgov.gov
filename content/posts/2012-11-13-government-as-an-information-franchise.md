@@ -6,7 +6,7 @@ authors:
   - logan-powell
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - Census
   - United States Census Bureau

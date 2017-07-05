@@ -8,7 +8,7 @@ categories:
   - Design
   - Managing Digital
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - CFPB
   - Internal Revenue Service

@@ -6,7 +6,7 @@ authors:
   - rhonda-a-pretlow
 categories:
   - Data
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - data
   - research

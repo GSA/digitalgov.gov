@@ -5,7 +5,7 @@ summary: One of the most vital parts of any website is its starting point. When 
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

@@ -6,7 +6,7 @@ authors:
   - katie-messner
 categories:
   - Accessibility
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - accessibility

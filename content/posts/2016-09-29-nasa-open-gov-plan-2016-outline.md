@@ -9,12 +9,12 @@ categories:
   - Challenges
   - Code
   - Content
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Data
   - Governance
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - challenges and prize competitions
   - citizen science

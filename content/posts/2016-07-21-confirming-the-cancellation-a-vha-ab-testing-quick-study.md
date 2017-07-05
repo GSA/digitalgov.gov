@@ -5,7 +5,7 @@ summary: 'Summary: Clinicians using electronic health record (EHR) systems to ma
 authors:
   - abigail-noonan
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - A/B testing

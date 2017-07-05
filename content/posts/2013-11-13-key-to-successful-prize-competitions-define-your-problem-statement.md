@@ -6,7 +6,7 @@ authors:
   - tlowden
 categories:
   - Challenges
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - ChallengeGov
   - challenges and prize competitions

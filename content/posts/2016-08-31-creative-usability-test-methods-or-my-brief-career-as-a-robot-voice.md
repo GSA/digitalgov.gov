@@ -5,7 +5,7 @@ summary: 'When you want to do a usability test, sometimes you have to step out o
 authors:
   - joanne-mcgovern
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - Customer Experience

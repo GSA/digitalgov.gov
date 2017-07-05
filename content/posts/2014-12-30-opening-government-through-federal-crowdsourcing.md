@@ -7,7 +7,7 @@ authors:
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Monthly Theme
 tag:
   - AoI

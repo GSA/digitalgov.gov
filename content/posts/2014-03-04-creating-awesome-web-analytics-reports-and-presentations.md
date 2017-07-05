@@ -7,7 +7,7 @@ authors:
 categories:
   - Metrics
   - Social Media
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - DAP
   - GAO

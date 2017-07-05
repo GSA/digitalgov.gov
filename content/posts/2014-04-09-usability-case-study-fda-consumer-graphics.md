@@ -6,7 +6,7 @@ authors:
   - jonathan-rubin
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - FDA

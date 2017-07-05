@@ -6,7 +6,7 @@ authors:
   - gao-watchblog
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - security
 ---

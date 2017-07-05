@@ -9,7 +9,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - content
   - content strategy

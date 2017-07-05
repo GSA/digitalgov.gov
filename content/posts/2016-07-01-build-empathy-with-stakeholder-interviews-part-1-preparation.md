@@ -5,8 +5,8 @@ summary: 'A few weeks ago, the State Department held its first conference dedica
 authors:
   - andrew-maier
 categories:
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
 tag:
   - 18F
   - user centered design

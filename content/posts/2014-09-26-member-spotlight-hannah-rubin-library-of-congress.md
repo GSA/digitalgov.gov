@@ -7,7 +7,7 @@ authors:
 categories:
   - Content
   - Metrics
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - DigitalGov User Experience Program
   - Library of Congress

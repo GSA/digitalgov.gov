@@ -8,7 +8,7 @@ categories:
   - API
   - Content
   - Governance
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - CMS
   - Content Management System

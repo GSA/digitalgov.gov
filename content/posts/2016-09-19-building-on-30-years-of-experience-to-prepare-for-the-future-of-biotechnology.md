@@ -10,7 +10,7 @@ authors:
   - james-kim
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - EPA
   - FDA

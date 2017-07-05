@@ -8,7 +8,7 @@ authors:
   - ray-bryson
   - dan-wendling
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - National Library of Medicine

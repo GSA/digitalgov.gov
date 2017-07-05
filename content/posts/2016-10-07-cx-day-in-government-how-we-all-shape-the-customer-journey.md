@@ -5,7 +5,7 @@ summary: 'During National Customer Service Week, it&#8217;s a great time for org
 authors:
   - matthew-ford
 categories:
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - Customer Experience
   - customer service

@@ -8,8 +8,8 @@ categories:
   - Data
   - Managing Digital
   - Metrics
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
   - UX
 tag:
   - agile

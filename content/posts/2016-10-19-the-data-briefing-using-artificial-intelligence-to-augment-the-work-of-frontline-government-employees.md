@@ -6,7 +6,7 @@ authors:
   - bbrantley
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - AI
   - artificial intelligence

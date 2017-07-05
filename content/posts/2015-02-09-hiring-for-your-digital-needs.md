@@ -6,7 +6,7 @@ authors:
   - kdaniel
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - National Oceanic and Atmospheric Administration
   - NOAA

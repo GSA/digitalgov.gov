@@ -5,7 +5,7 @@ summary: 'You&#8217;ve seen videos, podcasts, and audio files on your favorite s
 authors:
   - angela-hooker
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - accessibility
   - section 508

@@ -4,7 +4,7 @@ title: 'The Test Case: Write It Once, Test Many Times'
 summary: 'What if Thomas Edison Didn&rsquo;t Use Test Cases? &ldquo;I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.&rdquo; ~Thomas A. Edison Software testing is like a science experiment. The Tester must plan: methods, steps, and paths through the Application Under Test (AUT) to completely exercise the'
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile testing

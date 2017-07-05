@@ -6,7 +6,7 @@ authors:
   - laura-hughes
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - open data

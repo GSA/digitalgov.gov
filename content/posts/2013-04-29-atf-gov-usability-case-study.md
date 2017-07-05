@@ -5,7 +5,7 @@ summary: 'The Bureau of Alcohol, Tobacco, Firearms, and Explosives has some real
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - ATF
   - Bureau of Alcohol Tobacco Firearms and Explosives

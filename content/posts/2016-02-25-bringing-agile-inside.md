@@ -6,8 +6,8 @@ authors:
   - ktrebon
 categories:
   - Governance
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
 tag:
   - innovation
 ---

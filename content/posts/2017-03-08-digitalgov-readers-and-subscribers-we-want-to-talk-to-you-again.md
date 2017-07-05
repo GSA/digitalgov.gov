@@ -8,7 +8,7 @@ categories:
   - Content
   - Managing Digital
   - Our Work
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - content

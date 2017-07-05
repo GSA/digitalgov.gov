@@ -8,7 +8,7 @@ categories:
   - Code
   - Content
   - Design
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - 18F

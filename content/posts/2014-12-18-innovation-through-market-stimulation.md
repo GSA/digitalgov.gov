@@ -6,7 +6,7 @@ authors:
   - dustin-renwick
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Monthly Theme
 tag:
   - challenges and prize competitions

@@ -7,7 +7,7 @@ authors:
 categories:
   - Governance
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - Digital Health Innovation Plan
   - FDA

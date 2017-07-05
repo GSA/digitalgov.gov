@@ -8,7 +8,7 @@ categories:
   - API
   - Data
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - agile
   - Agile/Lean Community of Practice

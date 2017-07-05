@@ -10,8 +10,8 @@ categories:
   - Data
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
   - UX
 tag:
   - content

@@ -6,7 +6,7 @@ authors:
   - awichman
 categories:
   - Managing Digital
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - GSA
   - Social and Behavioral Sciences Team

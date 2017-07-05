@@ -7,7 +7,7 @@ authors:
 categories:
   - API
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - API
   - CMS

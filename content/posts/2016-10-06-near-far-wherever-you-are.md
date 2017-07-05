@@ -6,7 +6,7 @@ authors:
   - jeff-koses
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - acquisition
   - cloud

@@ -9,7 +9,7 @@ categories:
   - Data
   - Governance
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - code
   - innovation

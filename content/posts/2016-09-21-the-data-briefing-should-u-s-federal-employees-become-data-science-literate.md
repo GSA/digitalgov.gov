@@ -6,7 +6,7 @@ authors:
   - bbrantley
 categories:
   - Data
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - data
   - open data

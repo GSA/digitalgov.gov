@@ -7,9 +7,9 @@ authors:
 categories:
   - Challenges
   - Communities
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice

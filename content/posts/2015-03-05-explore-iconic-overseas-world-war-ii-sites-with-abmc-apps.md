@@ -6,7 +6,7 @@ authors:
   - kdowney
 categories:
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - ABMC
   - American Battle Monuments Commission

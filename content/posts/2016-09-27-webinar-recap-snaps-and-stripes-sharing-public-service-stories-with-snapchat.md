@@ -9,7 +9,7 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
   - UX
   - Video
 tag:

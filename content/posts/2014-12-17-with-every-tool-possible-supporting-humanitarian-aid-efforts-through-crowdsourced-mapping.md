@@ -5,7 +5,7 @@ summary: ' Fighting malaria in Botswana with a group of high school students in 
 authors:
   - awichman
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Monthly Theme
 tag:
   - crowdsourcing

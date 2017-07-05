@@ -9,7 +9,7 @@ categories:
   - Content
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
   - UX
 tag:
   - accessibility

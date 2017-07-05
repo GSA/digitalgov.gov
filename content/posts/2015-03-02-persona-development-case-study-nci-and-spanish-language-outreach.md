@@ -5,7 +5,7 @@ summary: ' Government websites need to address the needs of diverse audiences. A
 authors:
   - awichman
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - BLS

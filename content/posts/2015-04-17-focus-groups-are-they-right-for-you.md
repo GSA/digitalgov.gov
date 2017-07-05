@@ -6,7 +6,7 @@ authors:
   - stacey-sarris
 categories:
   - Design
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - user experience

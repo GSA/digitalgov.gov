@@ -7,8 +7,8 @@ authors:
   - michael-torres
   - kristy-singletary
 categories:
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
 tag:
   - 18F
   - agile

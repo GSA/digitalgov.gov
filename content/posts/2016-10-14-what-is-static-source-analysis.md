@@ -7,7 +7,7 @@ authors:
 categories:
   - Code
   - Metrics
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - 18F
   - analytics

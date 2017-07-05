@@ -5,7 +5,7 @@ summary: 'Have you ever seen a cool bird in your backyard and wondered if there 
 authors:
   - stephanie-dromerick
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
 tag:
   - citizen science
   - Citizen Science and Crowdsourcing Community of Practice

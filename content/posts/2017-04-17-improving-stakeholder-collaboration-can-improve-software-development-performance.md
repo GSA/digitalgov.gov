@@ -5,7 +5,7 @@ summary: 'It&rsquo;s important for software development organizations to make it
 authors:
   - brian-fox
 categories:
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - best practices
   - communication

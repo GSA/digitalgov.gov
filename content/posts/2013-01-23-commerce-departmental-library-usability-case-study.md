@@ -5,7 +5,7 @@ summary: A website with too much information on the homepage, or any page, will 
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - Department of Commerce
   - DigitalGov User Experience Program

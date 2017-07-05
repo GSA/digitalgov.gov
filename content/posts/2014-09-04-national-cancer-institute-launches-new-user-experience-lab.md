@@ -8,7 +8,7 @@ authors:
 categories:
   - Design
   - Metrics
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

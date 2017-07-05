@@ -5,7 +5,7 @@ summary: 'No one wants to feel helpless in an emergency situation. To provide ti
 authors:
   - jenny-johnson
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
 tag:
   - Federal Emergency Management Agency

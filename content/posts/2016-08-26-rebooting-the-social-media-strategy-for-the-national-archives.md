@@ -11,7 +11,7 @@ categories:
   - Content
   - Managing Digital
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - content strategy
   - NARA

@@ -5,7 +5,7 @@ summary: To promote crowdsourcing, one effective tool is, well, crowdsourcing. T
 authors:
   - awichman
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Managing Digital
   - Our Work
 tag:

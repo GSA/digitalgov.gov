@@ -5,7 +5,7 @@ summary: 'If you want to make a website more efficient and user friendly, then i
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DoD

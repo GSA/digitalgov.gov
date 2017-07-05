@@ -9,7 +9,7 @@ categories:
   - Communities
   - Design
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - AoI

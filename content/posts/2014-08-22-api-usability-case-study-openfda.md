@@ -7,7 +7,7 @@ authors:
 categories:
   - API
   - Design
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - API

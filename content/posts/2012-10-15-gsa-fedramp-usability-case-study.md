@@ -5,7 +5,7 @@ summary: 'Websites allow newer government programs to establish a visual identit
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

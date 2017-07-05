@@ -8,7 +8,7 @@ categories:
   - API
   - Code
   - Data
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - API
   - GitHub

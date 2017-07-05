@@ -9,7 +9,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - accessibility
   - architecture

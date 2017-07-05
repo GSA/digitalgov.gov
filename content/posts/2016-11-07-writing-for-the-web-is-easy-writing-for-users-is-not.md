@@ -8,7 +8,7 @@ authors:
   - phoebe-espiritu
 categories:
   - Content
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - Writing
 tag:
   - accessibility

@@ -7,7 +7,7 @@ authors:
 categories:
   - Content
   - Social Media
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - CDC

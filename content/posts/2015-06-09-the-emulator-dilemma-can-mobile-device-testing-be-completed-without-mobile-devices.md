@@ -7,7 +7,7 @@ authors:
   - awichman
 categories:
   - Mobile
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - Federal CrowdSource Mobile Testing Program
   - mobile

@@ -7,7 +7,7 @@ authors:
 categories:
   - Challenges
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - ChallengeGov
   - SocialGov

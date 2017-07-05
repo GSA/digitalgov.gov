@@ -7,8 +7,8 @@ authors:
 categories:
   - Code
   - Mobile
-  - 'Strategy &amp; Policy'
-  - 'User Testing &amp; Research'
+  - strategy-and-policy
+  - user-testing-and-research
 tag:
   - GitHub
   - mobile testing

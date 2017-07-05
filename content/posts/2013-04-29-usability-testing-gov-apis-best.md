@@ -6,7 +6,7 @@ authors:
   - gray-brooks
 categories:
   - API
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - API
 ---

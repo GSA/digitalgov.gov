@@ -6,7 +6,7 @@ authors:
   - tony-scott
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - Federal Information Technology Acquisition Reform Act
   - FITARA

@@ -3,7 +3,7 @@ date: 2012-04-26 2:26:08 -0400
 title: 'NOAA&#8217;s Release Mako App'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA). The Release Mako App was created for fisherman to report their catch and releases of shortfin mako sharks in real time.'
 categories:
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
   - Mobile
 tag:
   - crowdsourcing

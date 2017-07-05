@@ -8,7 +8,7 @@ categories:
   - Code
   - Design
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
   - UX
 tag:
   - 18F

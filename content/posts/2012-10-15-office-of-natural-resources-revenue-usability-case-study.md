@@ -5,7 +5,7 @@ summary: 'Any government product &#8211; whether used by millions or a very spec
 authors:
   - jonathan-rubin
 categories:
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
   - UX
 tag:
   - DigitalGov User Experience Program

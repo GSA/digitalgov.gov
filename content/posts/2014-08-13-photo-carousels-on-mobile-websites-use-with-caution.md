@@ -7,7 +7,7 @@ authors:
 categories:
   - Mobile
   - Monthly Theme
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - FAA
   - Federal Aviation Administration

@@ -6,7 +6,7 @@ authors:
   - tlowden
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
+  - crowdsourcing-and-citizen-science
 tag:
   - ChallengeGov
   - crowdsourcing

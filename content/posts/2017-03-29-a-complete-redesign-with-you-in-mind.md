@@ -8,7 +8,7 @@ categories:
   - Design
   - Managing Digital
   - Mobile
-  - 'User Testing &amp; Research'
+  - user-testing-and-research
 tag:
   - CMS
   - Content Management System

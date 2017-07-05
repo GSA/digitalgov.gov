@@ -6,7 +6,7 @@ authors:
   - victoria-wales
 categories:
   - Managing Digital
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
 tag:
   - analytics
   - email marketing

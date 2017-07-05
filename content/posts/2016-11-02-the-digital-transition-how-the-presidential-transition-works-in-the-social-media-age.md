@@ -11,7 +11,7 @@ categories:
   - Managing Digital
   - Mobile
   - Social Media
-  - 'Strategy &amp; Policy'
+  - strategy-and-policy
   - Video
 tag:
   - Audio/Video

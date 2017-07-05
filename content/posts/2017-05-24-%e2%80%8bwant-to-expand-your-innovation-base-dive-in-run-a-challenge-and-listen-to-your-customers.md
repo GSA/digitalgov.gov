@@ -6,8 +6,8 @@ authors:
   - adam-wong
 categories:
   - Challenges
-  - 'Crowdsourcing &amp; Citizen Science'
-  - 'Strategy &amp; Policy'
+  - crowdsourcing-and-citizen-science
+  - strategy-and-policy
 tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
