@@ -62,4 +62,4 @@ The Web Application Manifest is a JSON script that makes it possible for the Web
 
  
 
-_In the coming weeks, we’ll explore some of the [benefits and challenges of using PWAs](https://www.WHATEVER/2016/10/13/progressive-web-applications-part-2-pros-cons-and-looking-ahead/) and some real world examples. Stay tuned!_
+_In the coming weeks, we’ll explore some of the [benefits and challenges of using PWAs]({{< relref "2016-10-13-progressive-web-applications-part-2-pros-cons-and-looking-ahead.md" >}}) and some real world examples. Stay tuned!_

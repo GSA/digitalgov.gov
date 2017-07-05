@@ -33,7 +33,7 @@ Another idea: the FEMA disaster declaration API can be programmed into a spreads
 
 The Federal government has much information on disaster preparation and recovery from up-to-minute disaster notification services to rebuilding after a natural disaster. As the FEMA Mobile App shows, this information is perfect for APIs and apps to help the American public – especially if you live in a weather-rich location. In-person attendees of the [DigitalGov Citizen Services Summit](https://summit.WHATEVER/) can talk to the FEMA representatives who developed the app at the [Summit Expo](https://summit.WHATEVER/expo/). If you don&#8217;t have a Summit ticket, you can sign up for the [remote attendance](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401).
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">APIs in Government</a> for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 

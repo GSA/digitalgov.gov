@@ -14,7 +14,7 @@ tag:
 
 At GSA’s Office of Citizen Services and Innovative Technologies (OCSIT), we offer technology services and tools to make government work better. To help us gauge the effectiveness of the programs we offer to other government agencies, in 2013 we launched our first Government Customer Experience Index (GCXi) survey. This annual email survey consistently measures customer satisfaction, loyalty and ease of use for various OCSIT programs. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="The word survey in giant red lettering, with a computer mouse plugged into the letter R." caption="" >}} 
 
-A previous post about the GCXi ([OCSIT’s 2015 Customer Survey—What We Learned](https://www.WHATEVER/2015/12/28/ocsits-2015-customer-survey-what-we-learned/)) generated lots of questions from readers about the back-end processes we use to conduct the survey and turn customer data into action. Since we’re big fans of transparency, we’re sharing this case study in hopes that it’s helpful to you as you build your own Voice of the Customer (VOC) program.
+A previous post about the GCXi ([OCSIT’s 2015 Customer Survey—What We Learned]({{< relref "2015-12-28-ocsits-2015-customer-survey-what-we-learned.md" >}})) generated lots of questions from readers about the back-end processes we use to conduct the survey and turn customer data into action. Since we’re big fans of transparency, we’re sharing this case study in hopes that it’s helpful to you as you build your own Voice of the Customer (VOC) program.
 
 ## The Big Picture
 

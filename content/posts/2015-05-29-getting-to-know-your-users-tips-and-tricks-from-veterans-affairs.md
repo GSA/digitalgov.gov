@@ -20,7 +20,7 @@ tag:
   - VA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}}
 
 Design research isn’t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We’re here to to help demystify the process of design research for those of you ready to wade into the waters.
 
@@ -46,7 +46,7 @@ Six months later, when we wanted to build on the first research sprint, we conti
 
 Human-centered design research intentionally surfaces ‘thick’ data over ‘big data,’ which is to say: it takes small numbers of users (between 20 and 100) and delves deeply into their human needs, desires, motivations, and behaviors. Whereas quantitative studies often draw from large sample sizes to uncover statistically significant data, and focus groups and online feedback forms gather customer opinions, ethnography and design research are intended to complement this information with a deeper understanding of the nuanced and complex lives of customers.
 
-A quick note: why 1:1 in-depth [interviews](https://www.WHATEVER/2015/05/26/5-crucial-steps-for-conducting-an-effective-customer-interview/) vs. focus groups? Because you learn different things in one-on-one interviews. Think of talking to a high schooler about picking a college while sitting next to their parent, or a group of peers, versus having this conversation with them, by themselves. The conversation will be different.
+A quick note: why 1:1 in-depth [interviews]({{< relref "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}) vs. focus groups? Because you learn different things in one-on-one interviews. Think of talking to a high schooler about picking a college while sitting next to their parent, or a group of peers, versus having this conversation with them, by themselves. The conversation will be different.
 
 People are influenced by many cognitive biases. In focus groups, we’re particularly influenced by social desirability bias—the tendency to over-report what we think people want to hear, and under-report what we think people don’t. The more direct route to get to an understanding of what people are really thinking and feeling is to speak with them individually, or on occasion, with a trusted family member or close friend if they are particularly reticent to speak 1:1.
 
@@ -80,7 +80,7 @@ We did nightly synthesis on the road, from restaurant lounges to hotel rooms. As
 
 ## 6. Bringing it home: Craft the story and find the right format.
 
-At the end of the day, you are a designer. (Yes you, all of you). You have the power—and responsibility—to create something meaningful, engaging and useful out of this sea of information you’ve just amassed. Your stakeholders—fancy bosses and busy agency partners and stretched-thin product managers—don’t need all of the beautiful insights you’ve gleaned. They need a story about what you learned. You need to take the themes you pulled out of the research and build a narrative. At this point, you’ll start to think about the shape your story will take. Are you sharing specific insights about trends in your user groups? Then perhaps [personas](https://www.WHATEVER/2015/01/09/personas-101/)—or archetypes of your customers—will help you. Or are you trying to communicate painpoints in a user’s path through your service? A customer journey map might do the trick. These are just a few of the formats for capturing the insights.
+At the end of the day, you are a designer. (Yes you, all of you). You have the power—and responsibility—to create something meaningful, engaging and useful out of this sea of information you’ve just amassed. Your stakeholders—fancy bosses and busy agency partners and stretched-thin product managers—don’t need all of the beautiful insights you’ve gleaned. They need a story about what you learned. You need to take the themes you pulled out of the research and build a narrative. At this point, you’ll start to think about the shape your story will take. Are you sharing specific insights about trends in your user groups? Then perhaps [personas]({{< relref "2015-01-09-personas-101.md" >}})—or archetypes of your customers—will help you. Or are you trying to communicate painpoints in a user’s path through your service? A customer journey map might do the trick. These are just a few of the formats for capturing the insights.
 
 ### What we did at VA:
 
@@ -91,21 +91,21 @@ We’d love to hear about the research you’re doing in government. Tell us abo
 ## Resources
 
 **Design research at the Department of Veterans Affairs:**
-  
+
 [Toward A Veteran-Centered VA: Piloting Tools of Human-Centered Design for America’s Vets](http://www.innovation.va.gov/docs/Toward_A_Veteran_Centered_VA_JULY2014.pdf) [PDF]
-  
+
 [Voices of Veterans: Introducing Personas to Better Understand Our Customers](http://www.innovation.va.gov/docs/Voices_Of_Veterans_11_12_4.pdf) [PDF]
 
 **Additional Resources:**
-  
+
 Usability.gov&#8217;s [user research methods](http://www.usability.gov/how-to-and-tools/methods/index.html)
-  
+
 IDEO’s [HCD toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
-  
+
 Jan Chipchase&#8217;s [Research Methods](http://janchipchase.com/themes/research-methods/)
-  
+
 Erica Hall&#8217;s [Just Enough Research](http://abookapart.com/products/just-enough-research)
-  
+
 Steve Portigal&#8217;s [Interviewing Users](http://rosenfeldmedia.com/books/interviewing-users/)
 
 _Sarah Brooks is a service designer in the Veterans Experience team at VA and Presidential Innovation Fellow. Mollie Ruskin is a service designer at USDS. She served as a Presidential Innovation Fellow at VA in 2013-2014._

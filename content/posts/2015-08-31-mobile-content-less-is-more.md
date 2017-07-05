@@ -60,7 +60,7 @@ Customers that only want one simple piece of information or to perform a single 
 
 We have seen some creative ways to try to navigate a site full of information. For example: using “back to the top” links interspersed down the page and “what’s on this page” links to each section on the page.
 
-Additionally, in a previous article, [Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design](https://www.WHATEVER/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design/), we provided some thoughts on how to display tables and charts in responsive design applications that are still usable.
+Additionally, in a previous article, [Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design]({{< relref "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}}), we provided some thoughts on how to display tables and charts in responsive design applications that are still usable.
 
 But, these are really only band-aids covering a bigger problem.
 

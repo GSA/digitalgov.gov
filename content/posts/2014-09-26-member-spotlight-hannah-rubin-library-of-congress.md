@@ -15,7 +15,7 @@ tag:
   - Open Opportunities program
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-program.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< relref "open-opportunities-in-digitalgov.md" >}} "Open Opportunities Program").
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-366-Hannah-Rubin.jpg" alt="Hannah Rubin, Congressional Research Service (C R S) at the Library of Congress." >}}Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< relref "open-opportunities-in-digitalgov.md" >}} "Open Opportunities Program").
 
 ## What do you love most about your current job/position?
 

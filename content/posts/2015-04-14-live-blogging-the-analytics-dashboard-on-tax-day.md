@@ -257,10 +257,10 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< link href="tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< relref "monthly-theme.md" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< link href="categories/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
   * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
 
-_-Jacob Parcell, Manager, [Mobile Programs]({{< link href="cagegories/mobile" >}})_
+_-Jacob Parcell, Manager, [Mobile Programs]({{< link href="categories/mobile" >}})_
 
 ## 11:00 am Update
 
@@ -312,7 +312,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
 ### Fun Facts:
 
   * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< link href="tag/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
-  * In fact, while we are talking about the IRS, [IRS2Go was recently updated](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/) and is available on Android and iOS.
+  * In fact, while we are talking about the IRS, [IRS2Go was recently updated]({{< relref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and is available on Android and iOS.
   * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?
 
 _-Ashley Wichman, DigitalGov Team_

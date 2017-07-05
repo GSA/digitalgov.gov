@@ -51,7 +51,7 @@ With public expectations at an all-time high, and trust in government nearing al
 ## 5. Social media will continue to effectively deliver information and services, especially to specific populations or demographics.
 
 <p style="padding-left: 30px;">
-  Social media experts from across the federal government will finalize the <a title="3rd U.S. Public Participation Playbook Draft Released This Month" href="https://www.WHATEVER/2014/12/17/3rd-u-s-public-participation-playbook-draft-released-this-month/">draft U.S. Public Participation Playbook</a>, and will continue to work with stakeholders from both the public and private sectors to improve how agencies serve the public via social channels.
+  Social media experts from across the federal government will finalize the <a title="3rd U.S. Public Participation Playbook Draft Released This Month" href="{{< relref "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" >}}">draft U.S. Public Participation Playbook</a>, and will continue to work with stakeholders from both the public and private sectors to improve how agencies serve the public via social channels.
 </p>
 
 ## 6. Contact centers will continue to be an important channel to serve the public.

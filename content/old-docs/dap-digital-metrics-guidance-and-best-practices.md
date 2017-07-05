@@ -442,7 +442,7 @@ To assess the validity of the data and provide context, agencies should also con
 
 ### Strategies for Analyzing Customer Satisfaction Data
 
-The [Customer Experience model](https://www.WHATEVER/2013/06/19/5-steps-for-delivering-a-better-customer-experience-2/) recommends three steps for Collecting Customer Feedback:
+The [Customer Experience model]({{< relref "2013-06-19-5-steps-for-delivering-a-better-customer-experience.md" >}}) recommends three steps for Collecting Customer Feedback:
 
   1. **Define your goals.** Establish benchmarks to help your agency set customer performance goals and service standards, typically by either comparison with internal benchmarks, or with other agencies, organizations, or functions.
   2. **Determine how you’ll collect customer feedback.** Although many agencies will use an online survey to collect customer satisfaction metrics, as described above, there are many ways to collect customer satisfaction data.
@@ -723,7 +723,7 @@ Social media is transforming how government engages with citizens and how it del
 
 Analysis of this social data is critical not just for agency communication offices—but also for program managers at every level of your organization. [Social media in government]({{< relref "social-media.md" >}}) increasingly requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.
 
-Here are a set of [recommended, baseline social media metrics](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{< relref "social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
+Here are a set of [recommended, baseline social media metrics]({{< relref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}), developed and maintained by an interagency working group of the [Federal Social Media Community of Practice]({{< relref "social-media.md" >}}). The purpose is to establish a common, yet customizable approach to analyzing social data using the most cost-effective methods available. It provides a framework for agencies to measure the value and impact of social media in addressing agency mission and program goals. The aim is to move beyond obscure results of social media activities towards more sophisticated and more accurate assessments, leading to better informed decision-making.
 
 <h2 id="part-2" style="padding-top: 50px">
   Part 2: Reporting Requirements and Common Tools

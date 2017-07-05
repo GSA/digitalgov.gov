@@ -16,7 +16,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Bulb-with-business-background-Gunnar-Pippel-Hemera-Thinkstock-ThinkstockPhotos-101180930.jpg" alt="Bulb with business background" caption="" >}} 
 
-Back in November 2014, I wrote about the Federal Reserve of St. Louis’ <a href="https://www.WHATEVER/2014/11/26/the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data/" target="_blank">FRED® (Federal Reserve Economic Data) API</a>. A user can access 238,000 economic trends through FRED® through a website and mobile apps. What is unique about FRED® is that a user can pull economic data directly into an Excel spreadsheet.
+Back in November 2014, I wrote about the Federal Reserve of St. Louis’ <a href="{{< relref "2014-11-26-the-api-briefing-fred-and-alfred-serve-up-a-buffet-of-economic-data.md" >}}" target="_blank">FRED® (Federal Reserve Economic Data) API</a>. A user can access 238,000 economic trends through FRED® through a website and mobile apps. What is unique about FRED® is that a user can pull economic data directly into an Excel spreadsheet.
 
 Now, the FRED® Excel plugin is joined by the  [U.S. Energy Information Administration’s (EIA) Excel plugin](http://www.eia.gov/beta/api/excel/). The tool, which <a href="http://www.eia.gov/pressroom/releases/press417.cfm" target="_blank">launched on March 18</a>, incorporates both energy data from the EIA API and economic data from FRED®. A user can then utilize Excel’s charting and analytic capabilities to present the data in charts and analyze connections between energy trends and economic trends. The data is easily updated by just clicking the “Get Data” button.
 

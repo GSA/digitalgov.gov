@@ -33,7 +33,7 @@ In other words, data and information are useless without context. We&#8217;ve al
 
   * We’ve seen The Social Media Accessibility Working Group, spearheaded by the **Department of Labor’s Office of Disability Employment Policy**, lead the charge for accessibility in social media for citizens with disabilities with a soon-to-be-updated [**Federal Social Media Accessibility toolkit**]({{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}}).
 
-  * According to **Justin Herman of GSA**, “Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.” We developed the first [**Federal Social Media Performance Analysis toolkit**](https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/) so we can do just that.
+  * According to **Justin Herman of GSA**, “Social media in government requires accurate, targeted performance analysis to ensure we’re taking full advantage of these tools to deliver better service and engage with our customers.” We developed the first [**Federal Social Media Performance Analysis toolkit**]({{< relref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}) so we can do just that.
 
   * More than 20 federal agencies have banded together to create the first **Social Media Policy Development toolkit** that can be used by anyone to ensure their governance policies effectively guide meaningful, cost-effective engagement programs.
 

@@ -35,7 +35,7 @@ I can hear many of you as you start reading this (it&#8217;s a special skill I h
 As an example, here is my normal workflow that I follow in order to bring you a sensational [Content Corner]({{< link href="tag/the-content-corner" >}}) blog post every Monday.
 
   1. Review topics added to my [editorial calendar]({{< relref "2015-07-27-the-content-corner-supporting-your-content.md" >}}).
-  2. Review DigitalGov’s [monthly theme]({{< relref "monthly-theme.md" >}}).
+  2. Review DigitalGov’s [monthly theme]({{< link href="categories/monthly-theme" >}}).
   3. Draft blog post (possibly just headings or a list of bullets).
   4. Complete first full draft of blog post.
   5. Review for basic copy edit errors and SEO/readability issues.

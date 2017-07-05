@@ -26,11 +26,11 @@ By applying some good [user experience]({{< relref "2014-07-07-user-experience-u
 
 ## Content Contributors Are Users Too
 
-Maybe everyone else gets this and I am showing scars from bad CMS implementations in my past, but I still feel like this point cannot be made enough. In several of my past CMS implementations, the content contributors have been discounted because they are “staff” and are not given the same consideration as we would for external users completing an online form. But a CMS is essentially an online form for your internal users and its ease of use should be given the same priority as your results from an [external survey](https://www.WHATEVER/2014/11/10/4-tips-on-great-survey-design/).
+Maybe everyone else gets this and I am showing scars from bad CMS implementations in my past, but I still feel like this point cannot be made enough. In several of my past CMS implementations, the content contributors have been discounted because they are “staff” and are not given the same consideration as we would for external users completing an online form. But a CMS is essentially an online form for your internal users and its ease of use should be given the same priority as your results from an [external survey]({{< relref "2014-11-10-4-tips-on-great-survey-design.md" >}}).
 
 At [my agency](http://uscourts.gov), we have recently wrapped up a project to streamline the CMS form our court HR representatives use for internal job postings.
 
-After [user interviews](https://www.WHATEVER/2013/06/28/6-way-to-improve-web-user-experience/), [wireframing]({{< relref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
+After [user interviews]({{< relref "2013-06-28-6-way-to-improve-web-user-experience.md" >}}), [wireframing]({{< relref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}}) and a recent migration to a Drupal CMS, we were able to really simplify the job posting process for this group of content contributors dispersed across the country (and U.S. territories).
 
 ## Field Names
 

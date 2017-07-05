@@ -23,7 +23,7 @@ tag:
 
 Mobile-friendliness is a [must for government]({{< relref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}). But mobilizing the whole digital enchilada takes time due to various challenges, as experiences from the [Department of Education]({{< relref "2015-02-12-building-brick-by-brick-ed-govs-website-redesign-and-mobile-implementation.md" >}}) and [National Park Service]({{< relref "2015-04-30-mobile-friendly-park-websites-on-nps-gov.md" >}}) have illustrated.
 
-Many agencies are thinking [big things for 2015](https://www.WHATEVER/2015/01/29/how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015/), but if your agency is struggling with that first mobile implementation, you will be asking yourself [where to start](https://www.WHATEVER/2015/01/29/how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015/). Think mobile moments!
+Many agencies are thinking [big things for 2015]({{< relref "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}}), but if your agency is struggling with that first mobile implementation, you will be asking yourself [where to start]({{< relref "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}}). Think mobile moments!
 
 The [mobile moments](https://solutions.forrester.com/mobile) concept has been popularized by Forrester analysts Julie Ask and Ted Schadler. They argue that organizations can best serve their customers in specific anytime, anywhere scenarios. Agencies like the Internal Revenue Service (IRS), National Oceanic and Atmospheric Administration (NOAA), Occupational Safety and Health Administration (OSHA), and Transportation Security Administration (TSA) have applied this concept well.
 
@@ -39,7 +39,7 @@ After you have implemented the mobile moment, promote it and pay attention to [h
 
 ## Federal Agencies are Winning Their Mobile Moments: TSA and Can I Bring&#8230;?
 
-There are many examples of agencies who are winning their mobile moments. See [IRS2Go](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/), [NOAA’s Dolphin and Whale 911]({{< relref "2014-09-25-saving-the-whales-with-just-your-smartphone-west-coast-edition.md" >}}), and [OSHA’s Heat Safety App]({{< relref "2012-07-13-osha-heat-safety-tool-app.md" >}}). However, the TSA is winning big.
+There are many examples of agencies who are winning their mobile moments. See [IRS2Go]({{< relref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}), [NOAA’s Dolphin and Whale 911]({{< relref "2014-09-25-saving-the-whales-with-just-your-smartphone-west-coast-edition.md" >}}), and [OSHA’s Heat Safety App]({{< relref "2012-07-13-osha-heat-safety-tool-app.md" >}}). However, the TSA is winning big.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-370-Can-I-Bring-Screenshot_2015-06-01-05-10-15.jpg" alt="Screen shot of the T S A Can I Bring...? website tool." >}}TSA offers the [MyTSA](http://www.tsa.gov/traveler-information/my-tsa-mobile-application) iOS app, Google Play app, and a mobile website that are all tied to helping the user get to their plane at the airport as quickly as possible. The app includes information on airport delays, security line wait times, and other useful information. However, the mobile moment that TSA is winning the most is the [Can I Bring&#8230;?](https://apps.tsa.dhs.gov/mytsa/cib_home.aspx) moment.
 

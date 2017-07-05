@@ -43,7 +43,7 @@ tag:
 </p>
 
   * <p dir="ltr">
-      <a title="Twitter Chat Guidance for Federal Agencies" href="https://www.WHATEVER/2013/10/16/twitter-chats-for-federal-agencies/">Twitter Chat Guidance for Federal Agencies</a>
+      <a title="Twitter Chat Guidance for Federal Agencies" href="{{< relref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}">Twitter Chat Guidance for Federal Agencies</a>
     </p>
 
 By guest blogger **Yasmine Kloth**, Digital and Social Media Strategist, working with the National Center for Complementary and Alternative Medicine.

@@ -35,7 +35,7 @@ The Data.gov team also conducted a recent webinar with more basic information ab
 
 Once an open data source meets the necessary format and metadata requirements, the Data.gov team can pull directly from it as a Harvest Source, synchronizing that source’s metadata on Data.gov as often as every 24 hours.
 
-The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webinar]({{< relref "how-to-get-your-agencys-data-onto-data-gov.md" >}}) reviews step-by-step how federal, geospatial, and non-federal data is funneled on to Data.gov,  the data requirements for getting your government data on to Data.gov, and tools and resources to assist data stewards, IT personnel, and all agency staff.
+The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webinar]({{< tmp "events/how-to-get-your-agencys-data-onto-data-gov.md" >}}) reviews step-by-step how federal, geospatial, and non-federal data is funneled on to Data.gov,  the data requirements for getting your government data on to Data.gov, and tools and resources to assist data stewards, IT personnel, and all agency staff.
 
   * Watch the webinar [video](http://www.youtube.com/watch?v=hbxA5-GDvvU) and [“Data Harvesting 101” presentation slides](http://gsa.github.io/datagov-presentations/dataharvesting101/).
 
@@ -57,4 +57,4 @@ The November 5th [&#8220;How to Get Your Agency’s Data onto Data.gov” webina
 
 ## Stay Tuned
 
-Register for Data.gov’s upcoming webinar on how to use the Inventory.data.gov tool to host your metadata: [“How to use Inventory.Data.Gov” on Tuesday, December 16th from 1pm &#8211; 2 pm]({{< relref "how-to-use-inventory-data-gov.md" >}}) and stay tuned for additional Data Harvesting documentation. As always you can reach the Data.gov team at [Data.gov/contact](http://www.data.gov/contact).
+Register for Data.gov’s upcoming webinar on how to use the Inventory.data.gov tool to host your metadata: [“How to use Inventory.Data.Gov” on Tuesday, December 16th from 1pm &#8211; 2 pm]({{< tmp "events/how-to-use-inventory-data-gov.md" >}}) and stay tuned for additional Data Harvesting documentation. As always you can reach the Data.gov team at [Data.gov/contact](http://www.data.gov/contact).

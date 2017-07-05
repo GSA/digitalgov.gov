@@ -26,7 +26,7 @@ There is a good amount of research on smart cities (<a href="http://cities.media
 
 * * *
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">APIs in Government</a> for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 

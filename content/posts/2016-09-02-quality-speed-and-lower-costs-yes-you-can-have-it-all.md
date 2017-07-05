@@ -106,6 +106,6 @@ By applying some very commonly-understood modern operations practices — role-b
 </h3>
 
   * [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})
-  * <span style="line-height: 1.5"><a href="https://www.WHATEVER/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a> </span>
+  * <span style="line-height: 1.5"><a href="{{< relref "2016-09-06-a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md" >}}">A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection</a> </span>
   * [Let’s Encrypt Those CNAMES, Shall We?]({{< relref "2016-09-07-lets-encrypt-those-cnames-shall-we.md" >}})
   * [DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem]({{< relref "2016-09-12-dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md" >}})

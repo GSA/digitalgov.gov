@@ -57,7 +57,7 @@ Once you’ve built it, you should continue to update and maintain it, tracking 
 Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated, Trivial) content. Your completed content inventory can help you spot the ROT.
 
   * Look for pages with similar content, and review to see if you can combine them and delete one of the pages.
-  * [Examine your metrics]({{< relref "metrics.md" >}}). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
+  * [Examine your metrics](({{< link href="categories/metrics" >}})). Do you have pages that are only getting a few visits a month? Those pages may not be worth keeping, if no one is looking at them.
   * Review search terms and compare your IA to the topics and terms people search for on your site. If a topic or page has low search traffic, and low visits, review to see if it’s a candidate for removal.
 
 ### Determine Content Structure
@@ -340,7 +340,7 @@ If you have a key group of external stakeholders, and you anticipate the migrati
 
 ### Test Design Upgrades with Users
 
-If you’re making any design changes along with your content migration, do [user testing]({{< relref "user-testing-research.md" >}}) early-on, to gather feedback and make improvements before launch.
+If you’re making any design changes along with your content migration, do [user testing]({{< link href="categories/user-testing-research" >}}) early-on, to gather feedback and make improvements before launch.
 
 ### Plan for Structured Content
 

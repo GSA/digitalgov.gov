@@ -30,7 +30,7 @@ In my opinion, Option B is much more compelling. We can understand Barber’s fe
 ## Getting Started on Making it Personal:
 
 <li style="font-weight: 400">
-  <strong>Think about the profound effect World War I had on American society.</strong> It changed international relations, science and technology, music, gender roles, and race relations, among others. <a href="https://www.WHATEVER/2016/11/08/why-world-war-i-matters-for-your-agency/">Many agencies in the federal government can find a connection to the Great War, but it may take a little creative thinking</a>.
+  <strong>Think about the profound effect World War I had on American society.</strong> It changed international relations, science and technology, music, gender roles, and race relations, among others. <a href="{{< relref "2016-11-08-why-world-war-i-matters-for-your-agency.md" >}}">Many agencies in the federal government can find a connection to the Great War, but it may take a little creative thinking</a>.
 </li>
 <li style="font-weight: 400">
   <strong>Find people that played a role in World War I that you can connect to your agency’s mission.</strong> More than four million Americans served, and millions more at home were connected to the war. Here are some examples of how Americans who lost their lives in the war can be connected to the bigger picture: <ul>

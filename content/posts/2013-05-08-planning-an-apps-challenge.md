@@ -85,4 +85,4 @@ Promotion will likely be the most time-consuming aspect of your challenge. To he
 
 Now that you&#8217;ve planned out your apps challenge, you need to [implement it]({{< relref "2012-07-09-how-to-implement-an-apps-challenge.md" >}}).
 
-Review all the apps challenge steps at a glance on the [How to Run an Apps Challenge page]({{< relref "wp-admin.md" >}})post.php?post=94372&action=edit).
+Review all the apps challenge steps at a glance on the [How to Run an Apps Challenge page]({{< relref "2013-11-06-software-and-apps-challenges.md" >}}).

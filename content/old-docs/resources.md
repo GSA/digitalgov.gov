@@ -28,10 +28,10 @@ authors:
 
         <ul>
           <li>
-            <a href="https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/">Accessibility Resource List</a>
+            <a href="{{< relref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}}">Accessibility Resource List</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/2016/08/15/celebrating-the-18th-anniversary-of-section-508-rehabilitation-act/">Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act</a>
+            <a href="{{< relref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}}">Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act</a>
           </li>
           <li>
             <a href="https://www.youtube.com/watch?v=4XJcswWmmAw">How to Use Assistive Technology to Comply with Section 508</a>
@@ -53,7 +53,7 @@ authors:
             <a href="http://www.WHATEVER/services/challenge-gov/">Crowdsourcing with Challenge.gov</a>
           </li>
           <li>
-            <a href="https://www.WHATEVER/2014/03/31/get-started-with-challenge-and-prize-competitions/">Get Started with Challenge and Prize Competitions</a>
+            <a href="{{< relref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}">Get Started with Challenge and Prize Competitions</a>
           </li>
         </ul>
 
@@ -98,7 +98,7 @@ authors:
             <a href="{{< relref "customer-experience-toolkit.md" >}}">Customer Experience Toolkit</a>
           </li>
           <li>
-            <a href="{{< relref "resources.md" >}}government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
+            <a href="{{< link href="resources" >}}government-customer-service-policies-requirements-1993-to-present/">Government Customer Service Policies & Requirements</a>
           </li>
           <li>
             <a href="http://www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/">Paperwork Reduction Act Fast Track Process</a>
@@ -199,7 +199,7 @@ authors:
             <a href="{{< relref "style-guides-by-government-agencies.md" >}}">Style Guides by Government Agencies</a>
           </li>
           <li>
-            <a href="{{< relref "resources.md" >}}top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
+            <a href="{{< link href="resources" >}}top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
           </li>
         </ul>
 

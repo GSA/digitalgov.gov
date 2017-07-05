@@ -18,7 +18,7 @@ In our final video interview with Sarah Crane of USA.gov, she talks about adapti
 
 [youtube=http://www.youtube.com/watch?v=giK-RsHjA4c&w=600]
   
-_Interested in learning more about adaptive content and content modeling? Check out the new [Structured Content Models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!") and the [training on Event Model Creation]({{< relref "what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model")._
+_Interested in learning more about adaptive content and content modeling? Check out the new [Structured Content Models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!") and the [training on Event Model Creation]({{< tmp "events/what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model")._
 
  
 

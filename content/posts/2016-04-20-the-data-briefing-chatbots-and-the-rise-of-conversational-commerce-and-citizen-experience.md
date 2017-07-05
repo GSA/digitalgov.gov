@@ -25,7 +25,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-Ten months ago, I wrote about the <a href="https://www.WHATEVER/2015/06/24/the-api-briefing-government-apis-in-a-post-apps-world/" target="_blank">rise of the post-app world</a> in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people to access information services and perform complicated online tasks. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
+Ten months ago, I wrote about the <a href="{{< relref "2015-06-24-the-api-briefing-government-apis-in-a-post-apps-world.md" >}}" target="_blank">rise of the post-app world</a> in which mobile personal assistants would do the work of five to 10 apps combined. These mobile personal assistants, now known as chatbots, would work through conversational interfaces (voice and instant messaging, for example). The idea is to build more natural interfaces for people to access information services and perform complicated online tasks. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Robot-with-chat-bubble-Kirillm-iStock-Thinkstock-174260156.jpg" alt="Robot with chat bubble" caption="" >}} 
 
 Facebook has now joined in the <a href="http://venturebeat.com/2016/04/14/facebook-just-validated-the-bot-movement-for-businesses/" target="_blank">new conversational commerce </a>marketspace along with Google and Apple. Amazon and Microsoft are also offering their chatbot applications and products as consumers begin experiencing app fatigue.
 
@@ -43,7 +43,7 @@ There is also another great opportunity for federal agencies. Chatbots, through 
 
 _(Facebook, Google, Apple, Amazon and Microsoft are used for illustrative purposes and do not imply endorsement by the U.S. federal government or by any of the federal agencies.)_
 
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="https://www.WHATEVER/2013/04/30/apis-in-government/" target="_blank">APIs in Government</a> for more information._
+_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 
 _Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 

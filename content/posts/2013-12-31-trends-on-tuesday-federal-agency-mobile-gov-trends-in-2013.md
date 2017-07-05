@@ -48,27 +48,27 @@ tag:
     As part of their Digital Government Strategy mobile implementation, the Department of Labor <a href="http://www.dol.gov/digital-strategy/DigitalGovernance7-2.htm">mobilized their developer website for anytime, anywhere access to their API&#8217;s</a>. Labor also developed an agency wide software development kit (SDK) that makes agency API&#8217;s <a href="https://github.com/USDepartmentofLabor/Android_DOLDataSDK/wiki">more easily accessible for mobile development</a>.
   </li>
   <li>
-    Like they did with the <a title="U.S. Census America’s Economy App" href="http://apps.usa.gov/americas-economy.shtml">America&#8217;s Economy app</a> last year, the U.S. Census Bureau released their new app <a title="U.S. Census Bureau Dwellr App" href="https://www.WHATEVER/2013/12/05/u-s-census-bureau-dwellr-app/">Dwellr</a> with <a href="http://www.census.gov/developers/">API documentation</a> that allows users to create their own app using Census data.
+    Like they did with the <a title="U.S. Census America’s Economy App" href="http://apps.usa.gov/americas-economy.shtml">America&#8217;s Economy app</a> last year, the U.S. Census Bureau released their new app <a title="U.S. Census Bureau Dwellr App" href="{{< relref "2013-12-05-u-s-census-bureau-dwellr-app.md" >}}">Dwellr</a> with <a href="http://www.census.gov/developers/">API documentation</a> that allows users to create their own app using Census data.
   </li>
   <li>
     A number of agencies ran mobile related challenges at Challenge.gov, including ones for <a href="http://mymoneyappup.challengepost.com/">mobile product ideas,</a> <a href="http://combatfeedinghack.challengepost.com/">app development</a> and even the <a href="http://www.health2con.com/devchallenge/mobilizing-data-for-pressure-ulcer-prevention-challenge/">mobilization of their data</a>.
   </li>
 </ul>
 
-**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [Mobile Gov Community of Practice]({{< link href="cagegories/mobile" >}} "Mobile") shared
+**Cross Agency Sharing Multiplied.** There was an influx of cross agency sharing of mobile development practices, tools and solutions. In conjunction with the Federal CIO Council, we developed the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}} "Mobile Application Development Program"). To help us create the program, agencies in the [Mobile Gov Community of Practice]({{< link href="categories/mobile" >}} "Mobile") shared
 
 <ul class="how_to_mobile_list">
   <li>
     Procurement documents to create <a title="Mobile SOW and Developer Qualifications" href="{{< relref "mobile-sow-and-developer-qualifications.md" >}}">sample mobile Statements of Work (SOWs)</a>
   </li>
   <li>
-    <a title="Mobile Product Testing Guidelines and Resources" href="https://www.WHATEVER/2013/08/22/mobile-product-testing-guidelines/">Mobile testing tools, practices, scripts, and time</a> to actually help agencies test mobile products
+    <a title="Mobile Product Testing Guidelines and Resources" href="{{< relref "2013-08-22-mobile-product-testing-guidelines.md" >}}">Mobile testing tools, practices, scripts, and time</a> to actually help agencies test mobile products
   </li>
   <li>
     <a title="Mobile User Experience Guidelines and Recommendations" href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">User Experience Guidelines and Recommendations</a>
   </li>
   <li>
-    Mobile code on the <a title="Federal Mobile Code Sharing Catalog Is Here" href="https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/">Mobile Code Catalog</a> for other agencies to leverage
+    Mobile code on the <a title="Federal Mobile Code Sharing Catalog Is Here" href="{{< relref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}">Mobile Code Catalog</a> for other agencies to leverage
   </li>
 </ul>
 
@@ -85,12 +85,12 @@ tag:
     <b>Emphasis on Code Sharing.</b> Agencies will continue to increase their code sharing for development and reuse. The U.S. Census Bureau approach will be a model for a lot of agencies and more agencies <a href="https://github.com/USDepartmentofLabor/Android_DOLDataSDK/wiki">will leverage the agency wide API SDK from Labor</a>.
   </li>
   <li>
-    <b>Focus on Data Structures and Content Models. </b>Agencies will continue to rethink their data structures and <a title="Always Future Ready: The Benefits of Open Content Models and Structured Data Webinar" href="https://www.WHATEVER/2013/10/28/always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar/">create new content models </a>for the proliferation of <a title="Mary Meeker’s Internet Trends Report" href="https://www.WHATEVER/2013/06/05/mary-meekers-internet-trends-report-2/">wearables, sharables, flyables and drivables</a> we will see in 2014 and beyond.
+    <b>Focus on Data Structures and Content Models. </b>Agencies will continue to rethink their data structures and <a title="Always Future Ready: The Benefits of Open Content Models and Structured Data Webinar" href="{{< relref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}">create new content models </a>for the proliferation of <a title="Mary Meeker’s Internet Trends Report" href="{{< relref "2013-06-05-mary-meekers-internet-trends-report.md" >}}">wearables, sharables, flyables and drivables</a> we will see in 2014 and beyond.
   </li>
 </ul>
 
 What trends did you see in Mobile Gov for 2013 and what do you see happening in 2014? Let us know in the comments.
 
-[Update] Be sure to check out the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="https://www.WHATEVER/2014/01/10/advancing-forward-best-of-social-media-in-2013-and-beyond/" rel="bookmark">Best of Social Media in 2013 and Beyond.</a>
+[Update] Be sure to check out the <a title="Advancing Forward: Best of Social Media in 2013 and Beyond" href="{{< relref "2014-01-10-advancing-forward-best-of-social-media-in-2013-and-beyond.md" >}}" rel="bookmark">Best of Social Media in 2013 and Beyond.</a>
 
 Happy New Year!

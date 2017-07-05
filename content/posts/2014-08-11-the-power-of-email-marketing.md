@@ -47,4 +47,4 @@ Imagine the feeling you had the last time you received a handwritten note in the
 
 _**Nicholas Garlow** is a Public Affairs Specialist, in the Digital Communications Division, at the U.S. Department of Health and Human Services (HHS)._
 
-_Interested in learning more about how to get results with email marketing? [Sign up for the August 13, DigitalGov University&#8217;s webinar]({{< relref "the-power-of-email-marketing.md" >}} "The Power of Email Marketing")._
+_Interested in learning more about how to get results with email marketing? [Sign up for the August 13, DigitalGov University&#8217;s webinar]({{< tmp "events/the-power-of-email-marketing.md" >}} "The Power of Email Marketing")._

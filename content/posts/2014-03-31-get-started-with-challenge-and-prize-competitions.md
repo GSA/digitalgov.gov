@@ -17,11 +17,11 @@ tag:
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/250-x-220-stack-of-books-resources.jpg" alt="A stack of hardcover books" >}}Interested in running a [challenge and prize competition](https://www.WHATEVER/2013/11/01/federal-government-challenges-and-contests/ "Link to definition of challenge and prize competition"), but don&#8217;t know where to start? Well, here are all the resources [GSA&#8217;s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729 "link to OCSIT page on GSA.gov") has to offer:
 
 <p dir="ltr">
-  1) <a title="link to Challenge.gov" href="https://challenge.gov/">Challenge.gov</a>. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public prizes run over the past four years. You can filter by agency and challenge type, such as software, ideas, designs. Built and hosted by GSA, you can also use it to run crowdsourcing competitions end to end.  This is available for federal agencies at no cost. <strong>On-demand webinar:</strong> <a href="https://www.WHATEVER/2014/03/11/crowdsource-ideas-with-new-competition-platform/" target="_blank">Crowdsource Ideas with Competition Platform</a>
+  1) <a title="link to Challenge.gov" href="https://challenge.gov/">Challenge.gov</a>. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public prizes run over the past four years. You can filter by agency and challenge type, such as software, ideas, designs. Built and hosted by GSA, you can also use it to run crowdsourcing competitions end to end.  This is available for federal agencies at no cost. <strong>On-demand webinar:</strong> <a href="{{< relref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}" target="_blank">Crowdsource Ideas with Competition Platform</a>
 </p>
 
 <p dir="ltr">
-  2) <a title="link to Challenges page on DigitalGov.gov" href="{{< relref "challenges.md" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
+  2) <a title="link to Challenges page on DigitalGov.gov" href="{{< link href="categories/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 </p>
 
   * [Software/apps](https://www.WHATEVER/2013/11/06/software-and-apps-challenges/ "Software/apps challenge toolkit")

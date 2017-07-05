@@ -35,7 +35,7 @@ The FedRAMP team addressed these objectives and many others developing the websi
 
 The new FedRAMP.gov worked with each of the following services without incurring any costs to the program:
 
-  * User Experience Program: FedRAMP used the DigitalGov [User Experience Program]({{< relref "digitalgov-user-experience-program.md" >}}) (formerly First Fridays) to better understand what the needs of our stakeholders are, what they needed from the website, and how to ensure our users have a successful experience on FedRAMP.gov.
+  * User Experience Program: FedRAMP used the DigitalGov [User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}}) (formerly First Fridays) to better understand what the needs of our stakeholders are, what they needed from the website, and how to ensure our users have a successful experience on FedRAMP.gov.
   * Sites.USA.gov: The new FedRAMP.gov uses [Sites.USA.gov](https://sites.usa.gov/), a DigitalGov no-cost, government-wide content management platform offered by the GSA’s Office of Citizen Services and Innovative Technologies (OCSIT). This allowed FedRAMP to create a WordPress website with no development costs.
   * Cloud Hosting: FedRAMP is all about cloud adoption and FedRAMP.gov is hosted in FedRAMP compliant clouds through CGI Federal and Akamai.
   * Mobile: The WordPress platfom for FedRAMP.gov is mobile friendly and allows users to access information through any device, anywhere with the same experience.

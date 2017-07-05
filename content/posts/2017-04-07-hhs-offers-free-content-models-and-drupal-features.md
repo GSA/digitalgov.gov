@@ -18,7 +18,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-> **Related Event**: [Create Once, Publish Everywhere Applied—HHS Content Models and Portability]({{< relref "create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}}), Tuesday, April 18, 2017; [register here](https://attendee.gotowebinar.com/register/6221497867021325313).
+> **Related Event**: [Create Once, Publish Everywhere Applied—HHS Content Models and Portability]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}}), Tuesday, April 18, 2017; [register here](https://attendee.gotowebinar.com/register/6221497867021325313).
 
 ## Create Once, Publish Everywhere (COPE)
 
@@ -63,7 +63,7 @@ Absolutely nothing! HHS is happy to share our efforts in the spirit of collabora
 
 If you have content models that you would like to share, please [contact Christen Geiler via email](mailto:Christen.Geiler@hhs.gov).
 
-[_DigitalGov University_]({{< relref "digitalgov-university.md" >}}) _(DGU) is hosting a new_ [_COPE_]({{< link href="tag/cope" >}}) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_]({{< relref "create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}})_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
+[_DigitalGov University_]({{< relref "digitalgov-university.md" >}}) _(DGU) is hosting a new_ [_COPE_]({{< link href="tag/cope" >}}) _webinar,_ [_Create Once, Publish Everywhere Applied—HHS Content Models and Portability_]({{< tmp "events/create-once-publish-everywhere-applied-hhs-content-models-and-portability.md" >}})_, on Tuesday, April 18, 2017;_ [_register here_](https://attendee.gotowebinar.com/register/6221497867021325313)_._
 
 _For more information, check out_ [_how to create open, structured content_]({{< relref "2013-07-29-how-to-create-open-structured-content.md" >}})_, and how it can aid in_ [_content syndication_]({{< relref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}})_. Also, learn about the differences between_ [_information architecture and content strategy—and why you need both_]({{< relref "2016-07-18-information-architecture-vs-content-strategy-and-why-you-need-both.md" >}})_. Review this post on_ [_open and structured content models in government_]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})_, and_ [_see how easy it is to implement them_]({{< relref "2016-01-07-content-models-as-simple-as-pizza-pie.md" >}}) _with examples from CDC and NIH._ 
 

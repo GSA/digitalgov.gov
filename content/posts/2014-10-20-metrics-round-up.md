@@ -64,6 +64,6 @@ Ken Handwerger from the **National Park Service** (NPS) wrote an article about h
 
 ## Upcoming Event
 
-Do you have a plan for making your data open? In this upcoming event, [How to Get Your Agency’s Data on Data.gov]({{< relref "how-to-get-your-agencys-data-onto-data-gov.md" >}} "How to Get Your Agency’s Data onto Data.gov"), you can find out how to leverage the power of Data.gov to open your data.
+Do you have a plan for making your data open? In this upcoming event, [How to Get Your Agency’s Data on Data.gov]({{< tmp "events/how-to-get-your-agencys-data-onto-data-gov.md" >}} "How to Get Your Agency’s Data onto Data.gov"), you can find out how to leverage the power of Data.gov to open your data.
 
 And of course you can find all of our past training in our [Video Library]({{< relref "video-library.md" >}} "Video Library").

@@ -31,7 +31,7 @@ Our <a href="https://www.youtube.com/watch?v=mmpG94tDtWQ&list=UU5V8jrK77-8gsa9RL
 
 The bottom line is that social media in the federal government should measurably improve citizen services, measurably make services more cost effective, or both.
 
-Just one example of this is how **DigitalGov University** is offering <a href="https://www.WHATEVER/2014/01/28/innovation-means-more-better-cost-effective-digital-training/" target="_blank">four times the social media events and training</a> for federal agencies than in 2012, with the same resources &#8212; our community is turning digital engagement into a cost-effective knowledge management system that in turn will continue to create products and programs to improve government.
+Just one example of this is how **DigitalGov University** is offering <a href="{{< relref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}" target="_blank">four times the social media events and training</a> for federal agencies than in 2012, with the same resources &#8212; our community is turning digital engagement into a cost-effective knowledge management system that in turn will continue to create products and programs to improve government.
 
 Looking at social media in public service, though, we first need to consider changes in the field and dispel myths about what is important for improving public service:
 
@@ -53,7 +53,7 @@ If you&#8217;re an entrepreneur or small business, there has never been a better
 
 Digital engagement to support entrepreneurs and small businesses is just one of the initiatives in development for this year: programs to improve policy development, accessibility for persons with disabilities, performance analysis, e-regulations and crisis management are also underway &#8212; and there&#8217;s more to come.
 
-If you&#8217;re a federal employee, keep an eye on the <a href="{{< link href="cagegories/socialmedia" >}}" target="_blank">Social Media homepage</a> of **DigitalGov** for posts on digital engagement across government, events and training opportunities from **DigitalGov University**, and information about how you can join the #SocialGov Community. You can also [sign up for daily or weekly updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) so you don&#8217;t miss a thing.
+If you&#8217;re a federal employee, keep an eye on the <a href="{{< link href="categories/socialmedia" >}}" target="_blank">Social Media homepage</a> of **DigitalGov** for posts on digital engagement across government, events and training opportunities from **DigitalGov University**, and information about how you can join the #SocialGov Community. You can also [sign up for daily or weekly updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new) so you don&#8217;t miss a thing.
 
 You can start by <a href="http://www.eventbrite.com/e/socialgov-summit-global-registration-10544780723?aff=eorg" target="_blank">registering for our next workshop</a>, #**SocialGov Summit: Global** &#8212; keynoted by **Edwin Lacierda**, spokesperson of the President of the Philippines, and featuring the **State Department**, **USAID**, **Peace Corps**, **American Red Cross** and **World Bank**. The challenges and opportunities we face in advancing digital engagement is one shared by all agencies, and together we can  work together &#8212; including our international partners &#8212; to continue raising the bar to improve citizen services and make them more cost effective.
 

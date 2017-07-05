@@ -43,7 +43,7 @@ This allows the SME to get a full picture of how the content will be used and a 
 You may also want to consider including some guidance from a [strategic perspective](https://gathercontent.com/blog/a-guide-to-strategic-content-templates), depending on the page or set of pages the template is for. This is especially important if you are gathering content from various departments or offices that will build out their section of the site such as human resources or IT. For example:
 
   * You may want to make the SME consider if the page(s) will need maintenance. How often does the [content grow stale or outdated]({{< relref "2015-03-09-the-content-corner-performing-a-content-audit.md" >}})?
-  * Is there a specific audience that this content is for? If you have [personas](https://www.WHATEVER/2015/01/09/personas-101/) developed, does it fit with one of those? If so, how might you make additional suggestions for the SME?
+  * Is there a specific audience that this content is for? If you have [personas]({{< relref "2015-01-09-personas-101.md" >}}) developed, does it fit with one of those? If so, how might you make additional suggestions for the SME?
   * Consider having the SME help with [metadata or keywords]({{< relref "2015-03-23-web-metadata-publishing-using-xml.md" >}}); this helps ensure the highest quality metadata possible. Depending on the content, there may be terms that are known to those intimate with the subject, but are unknown to you.
 
 ## Some of the Benefits

@@ -25,7 +25,7 @@ A big focus for the CX-COP in 2015 was on education. First, we conducted a [trai
   * [How the Nationals’ Customer Experience Principles Can Be a Home Run for Agencies]({{< relref "2015-07-22-how-the-nationals-customer-experience-principles-can-be-a-home-run-for-agencies.md" >}})
   * [Using Customer Feedback to Improve HealthCare.gov]({{< relref "2015-09-17-using-customer-feedback-to-improve-healthcare-gov.md" >}})
   * [Federal Student Aid Customer Experience Journey: A Recap]({{< relref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}})
-  * [CX Data in Action Series: Case Study #1](https://www.WHATEVER/2015/12/07/cx-data-in-action-series-case-study-1/)
+  * [CX Data in Action Series: Case Study #1]({{< relref "2015-12-07-cx-data-in-action-series-case-study-1.md" >}})
   * [Connecting with the Social and Behavioral Sciences Team]({{< relref "2015-12-09-connecting-with-the-social-and-behavioral-sciences-team.md" >}})
   * [Government Customer Service Cross Agency Priority (CAP) Goal Update]({{< relref "2015-12-14-government-customer-service-update-webinar-recap.md" >}}) {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 
 

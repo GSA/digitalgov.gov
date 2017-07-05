@@ -38,7 +38,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
 </h2>
 
 <p>
-  Structured content and <a href="https://www.WHATEVER/2013/04/30/apis-in-government/">APIs</a> form the core of any open content platform, whether it be syndication or other types of data sharing. For <a href="http://www.cdc.gov/" target="_blank">CDC</a> and <a href="http://www.hhs.gov/" target="_blank">HHS</a> as a whole, APIs power their own apps, plus serve as a foundation for a variety of ways to use, reuse, or share their content for topics such as:
+  Structured content and <a href="{{< relref "2013-04-30-apis-in-government.md" >}}">APIs</a> form the core of any open content platform, whether it be syndication or other types of data sharing. For <a href="http://www.cdc.gov/" target="_blank">CDC</a> and <a href="http://www.hhs.gov/" target="_blank">HHS</a> as a whole, APIs power their own apps, plus serve as a foundation for a variety of ways to use, reuse, or share their content for topics such as:
 </p>
 
 <ul>
@@ -65,7 +65,7 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    This storefront content also ranges in content type, including <a href="https://www.WHATEVER/2014/03/14/customize-your-own-amazing-social-media-report-infographic/" target="_blank">infographics</a>, social media-tailored posts, widgets, and the API-driven dynamically updated content.
+    This storefront content also ranges in content type, including <a href="{{< relref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}" target="_blank">infographics</a>, social media-tailored posts, widgets, and the API-driven dynamically updated content.
   </p>
   
   <p>
@@ -101,11 +101,11 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </h2> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
   
   <p>
-    Another powerful aspect of the <a href="https://www.WHATEVER/2014/10/08/the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website/" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="https://www.WHATEVER/2013/06/11/responsive-design/" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
+    Another powerful aspect of the <a href="{{< relref "2014-10-08-the-api-briefing-cdcs-api-delivers-free-up-to-date-health-information-for-your-blog-or-website.md" >}}" target="_blank">CDC content syndication efforts</a> is that because of their efforts in developing content that will work with their own <a href="{{< relref "2013-06-11-responsive-design.md" >}}" target="_blank">responsive design</a> templates, it comes ready made for mobile devices. Some of this will depend on your own site’s architecture (if your site itself isn’t responsive, then it won’t magically change) but if it is, or you have mobile-friendly templates, then the CDC content should display correctly (unless I’m horribly mistaken).
   </p>
   
   <p>
-    This was critical to the CDC’s development of their own <a href="https://www.WHATEVER/2014/08/20/top-5-reasons-to-use-government-wide-open-and-structured-content-models/" target="_blank">content model</a> based around their most common content type, which was questions and answers. By knowing their audience and their content, they determined that most of their users come to their site with specific health or disease-related questions and are looking for answers. CDC responded to this by developing a question and answer content model that then allowed for this content to be packaged in a variety of ways for various devices and channels.
+    This was critical to the CDC’s development of their own <a href="{{< relref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}" target="_blank">content model</a> based around their most common content type, which was questions and answers. By knowing their audience and their content, they determined that most of their users come to their site with specific health or disease-related questions and are looking for answers. CDC responded to this by developing a question and answer content model that then allowed for this content to be packaged in a variety of ways for various devices and channels.
   </p>
   
   <p>
@@ -136,5 +136,5 @@ A recent [DigitalGov webinar on syndicated content](https://www.youtube.com/watc
   </p>
   
   <p>
-    <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< relref "the-content-corner.md" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+    <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< link href="tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
   </p>

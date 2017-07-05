@@ -55,7 +55,7 @@ Through [Ignite](http://www.hhs.gov/idealab/what-we-do/hhs-ignite/), an internal
 </h2>
 
 <p>
-  There is one possible misconception that should be dismissed immediately as I sing the praises of NLP: it does not reduce the need for <a href="https://www.WHATEVER/2015/04/13/the-content-corner-structured-content-challenges-and-lessons-learned/">structured content</a>. Yes, NLP has the ability to help improve understanding and categorizing of complicated and varied data, but the better the structure of the original data, the better success rates of your auto-categorization, for instance. And in speaking with Rachel Shorey at Sunlight Foundation, in her experience analyzing the FCC data, the highly structured inputs and well-designed comment interface lessened the need for NLP. They were able to gather significant information just from the categories and tags immediately available in the data. As I always stress when discussing structured data, a little extra work at the beginning makes things much easier (and makes certain things possible) in the end.
+  There is one possible misconception that should be dismissed immediately as I sing the praises of NLP: it does not reduce the need for <a href="{{< relref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}">structured content</a>. Yes, NLP has the ability to help improve understanding and categorizing of complicated and varied data, but the better the structure of the original data, the better success rates of your auto-categorization, for instance. And in speaking with Rachel Shorey at Sunlight Foundation, in her experience analyzing the FCC data, the highly structured inputs and well-designed comment interface lessened the need for NLP. They were able to gather significant information just from the categories and tags immediately available in the data. As I always stress when discussing structured data, a little extra work at the beginning makes things much easier (and makes certain things possible) in the end.
 </p>
 
 <p>
@@ -75,5 +75,5 @@ Through [Ignite](http://www.hhs.gov/idealab/what-we-do/hhs-ignite/), an internal
 </p>
 
 <p>
-  <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< relref "the-content-corner.md" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+  <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< link href="tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
 </p>

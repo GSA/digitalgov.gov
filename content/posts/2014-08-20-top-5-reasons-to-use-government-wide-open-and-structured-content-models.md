@@ -36,6 +36,6 @@ Irving recently gave us five reasons why agencies should start using the governm
 
 Interested in learning how to take the first step in improving your agency’s accessibility and usability with the Open and Structured Content Models?
 
-You can comment and improve on the content models anytime on GitHub. Also, sign up for the [Open and Structured Content Models Project Hands On Workshop]({{< relref "open-and-structured-content-models-project-hands-on-workshop.md" >}}) on September 16.
+You can comment and improve on the content models anytime on GitHub. Also, sign up for the [Open and Structured Content Models Project Hands On Workshop]({{< tmp "events/open-and-structured-content-models-project-hands-on-workshop.md" >}}) on September 16.
 
 _**Holly Irving** is a Digital Information Specialist for the National Institute of Allergy and Infectious Diseases at the National Institutes of Health._

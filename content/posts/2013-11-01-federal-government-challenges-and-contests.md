@@ -108,16 +108,16 @@ tag:
     
     <ul>
       <li>
-        <a title="Ideation Challenges" href="https://www.WHATEVER/2013/11/14/ideation-challenges/">Ideation Challenges</a>
+        <a title="Ideation Challenges" href="{{< relref "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
       </li>
       <li>
-        <a title="Software and Apps Challenges" href="https://www.WHATEVER/2013/11/06/software-and-apps-challenges/">Software and Apps Challenges</a>
+        <a title="Software and Apps Challenges" href="{{< relref "2013-11-06-software-and-apps-challenges.md" >}}">Software and Apps Challenges</a>
       </li>
       <li>
-        <a title="Creative Challenge Contests" href="https://www.WHATEVER/2013/10/31/creative-challenge-contests/">Creative Challenge Contests</a>
+        <a title="Creative Challenge Contests" href="{{< relref "2013-10-31-creative-challenge-contests.md" >}}">Creative Challenge Contests</a>
       </li>
       <li>
-        <a title="Technology Demonstration and Market Stimulation Challenges" href="https://www.WHATEVER/2013/10/31/technology-demonstration-and-market-stimulation-challenges/">Technology Demonstration and Market Stimulation Prizes</a>
+        <a title="Technology Demonstration and Market Stimulation Challenges" href="{{< relref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}}">Technology Demonstration and Market Stimulation Prizes</a>
       </li>
     </ul>
   </div>

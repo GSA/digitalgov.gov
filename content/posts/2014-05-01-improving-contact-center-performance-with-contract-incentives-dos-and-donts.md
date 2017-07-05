@@ -51,7 +51,7 @@ I met with several federal contact center managers from the [Government Contact 
 
 What are your experiences with incentives/disincentives? Leave a comment, or for more more information, contact [Carolyn Kaleel](mailto:Carolyn.Kaleel@gsa.gov).
 
-_Learn more about the [Government Contact Center Council]({{< tmp "communities/government-contact-center-council-g3c.md" >}}) (G3C) and register for the [G3C training on Social Media Metrics]({{< relref "social-media-metrics-for-federal-agencies.md" >}})._
+_Learn more about the [Government Contact Center Council]({{< tmp "communities/government-contact-center-council-g3c.md" >}}) (G3C) and register for the [G3C training on Social Media Metrics]({{< link href="events/social-media-metrics-for-federal-agencies.md" >}})._
 
 Take a look at the other Contact Center articles we published in April:
 

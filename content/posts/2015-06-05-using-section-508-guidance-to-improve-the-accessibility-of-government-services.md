@@ -309,7 +309,7 @@ This resource list presents a compilation of links to accessibility guidance, or
   Video and Multimedia Products
 </h2>
 
-  * [GSA Create Section 508-Compliant Videos on Your Government Websites](https://www.WHATEVER/2013/11/21/create-section-508-compliant-videos-on-your-government-websites/)
+  * [GSA Create Section 508-Compliant Videos on Your Government Websites]({{< relref "2013-11-21-create-section-508-compliant-videos-on-your-government-websites.md" >}})
   * [HHS Guidance for Audio Description](http://www.hhs.gov/web/508/accessiblefiles/accessible-audio-description.html)
   * [HHS Multimedia File 508 Checklist](http://www.hhs.gov/web/508/accessiblefiles/checklistmulti.html)
   * [NPS Programmatic Accessibility Guidelines for National Park Service Interpretive Media](http://www.nps.gov/hfc/accessibility/accessibilityGuideVersion2.1.pdf) (PDF)

@@ -20,7 +20,7 @@ _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites
   
 _ 
 
-<a href="http://aids.gov/" rel="nofollow">AIDS.gov</a> implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. <a title="Mobile Webinar Series Recap: Responsive Design" href="https://www.WHATEVER/2012/07/02/mobile-webinar-series-recap-responsive-design/" rel="nofollow">View the webinar on  AIDs.gov&#8217;s responsive design</a>.
+<a href="http://aids.gov/" rel="nofollow">AIDS.gov</a> implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. <a title="Mobile Webinar Series Recap: Responsive Design" href="{{< relref "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}}" rel="nofollow">View the webinar on  AIDs.gov&#8217;s responsive design</a>.
 
 ## Why We Did It
 

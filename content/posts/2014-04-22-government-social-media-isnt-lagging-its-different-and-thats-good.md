@@ -51,10 +51,10 @@ In the next three months, the <a href="{{< relref "social-media.md" >}}" target=
 
   * The first **Federal Social Media Policy Development toolkit**, a product of a 20-agency working group that will help offices better evaluate and improve their governance policies
   * The second version of the [**Social Media Accessibility toolkit**]({{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}}), updated by the **Department of Labor Office of Disability Employment Policy**
-  * The next phase of the<a href="https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/" target="_blank"><strong> Social Media Performance Analysis Recommendations</strong></a>, based on the **Digital Analytics Program** authorized by the **White House Digital Government Strategy**.
+  * The next phase of the<a href="{{< relref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}" target="_blank"><strong> Social Media Performance Analysis Recommendations</strong></a>, based on the **Digital Analytics Program** authorized by the **White House Digital Government Strategy**.
 
 We need to do a better job communicating our unique needs and perspectives too &#8212; which is why we&#8217;re recruiting two <a href="http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/" target="_blank">Knowledge Managers through the Open Opportunities program</a> to track, curate and report the trends, ideas and issues facing social media in government.
 
-We also look forward to more education programs with tools like **Facebook**, and challenge companies to use our **<a href="{{< relref "event.md" >}}3000-and-counting-verifying-federal-social-media-accounts/" target="_blank">Federal Social Media Registry</a>** to verify accounts and help ensure that citizens don’t have to guess what information is real.
+We also look forward to more education programs with tools like **Facebook**, and challenge companies to use our **<a href="{{< tmp "events/3000-and-counting-verifying-federal-social-media-accounts" >}}">Federal Social Media Registry</a>** to verify accounts and help ensure that citizens don’t have to guess what information is real.
 
 How do you think government agencies can best use social media? We look forward to hearing your ideas.

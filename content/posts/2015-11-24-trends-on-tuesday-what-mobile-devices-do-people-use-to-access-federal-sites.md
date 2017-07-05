@@ -15,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Mobile users of government websites are [growing in double digit percentages](https://www.WHATEVER/2015/10/21/gov-analytics-breakdown-2-mobile-is-bigger-than-ever/) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
+Mobile users of government websites are [growing in double digit percentages]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
 
 For some recent internal project research, I dove into some of the [federal government-wide analytics](http://analytics.usa.gov) looking at mobile usage and found a few interesting tidbits to share:
 

@@ -31,7 +31,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
 
-Earlier this year, we published [15 Government Customer Service Trends for 2015](https://www.WHATEVER/2015/01/12/15-government-customer-service-trends-for-2015/). We’re halfway through the year now—how are these trends holding up?
+Earlier this year, we published [15 Government Customer Service Trends for 2015]({{< relref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}). We’re halfway through the year now—how are these trends holding up?
 
 ## 1. Centralized Customer Offices
 
@@ -39,7 +39,7 @@ A few agencies have created centralized customer offices, while others question 
 
 ## 2. Focus on Digital Business Strategies
 
-With the creation of the U.S. Digital Service and digital service teams within federal agencies, agencies are beginning to use [agile business processes]({{< relref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}) and [user centered design](https://www.WHATEVER/2015/01/27/7-ways-to-ignite-user-centered-design-at-your-agency/) to change the way they deliver services and products. As they prove their value, agencies will continue to abandon slow and costly waterfall development for agile methods, saving time and money.
+With the creation of the U.S. Digital Service and digital service teams within federal agencies, agencies are beginning to use [agile business processes]({{< relref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}) and [user centered design]({{< relref "2015-01-27-7-ways-to-ignite-user-centered-design-at-your-agency.md" >}}) to change the way they deliver services and products. As they prove their value, agencies will continue to abandon slow and costly waterfall development for agile methods, saving time and money.
 
 ## 3. Support for Customer-Focused Initiatives
 
@@ -79,7 +79,7 @@ Agencies are starting to use more customer and program data to identify issues a
 
 ## 12. Personas and Journey Mapping
 
-[Personas](https://www.WHATEVER/2015/01/09/personas-101/) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
+[Personas]({{< relref "2015-01-09-personas-101.md" >}}) are behavior-based descriptions of the primary customers that use a site or service. Several agencies have created personas and customer journey maps to better understand the customer’s actual experience as they navigate government information and services. The VA, for example, interviewed veterans throughout the country and identified the following personas:
 
   * Still Serving
   * Day-by-Day

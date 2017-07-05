@@ -43,7 +43,7 @@ We also hope to grow the Customer Experience Community of Practice, and get more
 
 There is great power in individual effort in this space. Advocate across your agency to streamline and improve how we design and deliver customer solutions. Always question how we’re serving customers. Do we listen and respond quickly to concerns? Are we doing something because it’s easier for us or easier for the customer?
 
-Use tools such as journey maps and [personas](https://www.WHATEVER/2015/01/09/personas-101/) to put a human face on the work we do. How can we make these journeys easier for people?
+Use tools such as journey maps and [personas]({{< relref "2015-01-09-personas-101.md" >}}) to put a human face on the work we do. How can we make these journeys easier for people?
 
 Join the new Customer Experience Community of Practice (CX-COP). [Register online](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform) or email [Rachel Flagg](mailto:rachel.flagg@gsa.gov) to join. You’ll learn about tools and training opportunities, and build relationships with colleagues at other agencies who can answer questions, solve problems, and help you accomplish your goals.
 

@@ -12,7 +12,7 @@ If your app doesn&#8217;t have a good user experience, it goes to the [app grave
 
 The need for digital products to work better is not new in the federal government. Resources like the [Digital Playbook](https://playbook.cio.gov/) and [Public Participation Playbook](https://participation.usa.gov/) have had impact helping agencies become user-friendly and both of these resources note the importance of developing usable products for mobile users.
 
-As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link href="cagegories/mobile" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
+As more agencies develop mobile apps and websites, they need quick guidance on mobile user experience Do&#8217;s and Don&#8217;ts. To answer their call, we asked [MobileGov Community of Practice]({{< link href="categories/mobile" >}})  members to choose their top Mobile UX Guidelines from the original group of 42 created in 2013 at community events in late 2014 and early 2015. From that feedback, we have distilled the following six mobile user experience guidelines:
 
 **[Guideline 1](#guideline1 "Mobile User Experience Guidelines and Recommendations 1")**: Make sure your content is structured and chunked appropriately for multiple devices
 
@@ -46,7 +46,7 @@ Below we have added specific resources to each guideline.
   * [Open and Structured Content Models Project](http://gsa.github.io/Open-And-Structured-Content-Models/index.html) &#8211; Article and Event Content Model Repository with element field definitions for both models.
   * [What Structured Content Can Do For You: Webinar Recap]({{< relref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}}) &#8211; Introduction to the Article Content Model
   * [Open and Structured Content Models Workshop Recap]({{< relref "2014-10-27-open-and-structured-content-models-workshop-recap.md" >}}) &#8211; Highlights from September 2014 workshop featuring speakers from National Public Radio and the Securities and Exchange Commission.
-  * [Top 5 Reasons to Use Government-wide Open](https://www.WHATEVER/2014/08/20/top-5-reasons-to-use-government-wide-open-and-structured-content-models/) and Structured Content Models
+  * [Top 5 Reasons to Use Government-wide Open]({{< relref "2014-08-20-top-5-reasons-to-use-government-wide-open-and-structured-content-models.md" >}}) and Structured Content Models
   * [Always Future Ready: The Benefits of Open]({{< relref "2013-10-28-always-future-ready-the-benefits-of-open-content-models-and-structured-data-webinar.md" >}}) Content Models and Structured Data Webinar
   * [The Content Corner: Humanizing Structured Content]({{< relref "2015-06-01-the-content-corner-humanizing-structured-content.md" >}}) &#8211; Article offering tips on how to encourage content creators and SMEs to use content models.
   * [Open and Structured Content Working Group Discussion Board](https://github.com/GSA/Open-And-Structured-Content-Models/issues)&#8212; Join the discussion about adopting structured content models across government.

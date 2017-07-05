@@ -17,7 +17,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  From <a href="{{< link href="cagegories/mobile" >}}">mobile</a>, to <a href="{{< link href="cagegories/socialmedia" >}}">social</a>, to <a href="{{< link href="cagegories/ux" >}}">user experience</a>, to <a href="{{< link href="categories/api" >}}">APIs</a>, to <a href="{{< link href="cagegories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
+  From <a href="{{< link href="categories/mobile" >}}">mobile</a>, to <a href="{{< link href="categories/socialmedia" >}}">social</a>, to <a href="{{< link href="categories/ux" >}}">user experience</a>, to <a href="{{< link href="categories/api" >}}">APIs</a>, to <a href="{{< link href="categories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
 </p>
 
 <p dir="ltr">
@@ -28,7 +28,7 @@ tag:
 
 Here’s where you come in.
 
-[Join in]({{< relref "join-digitalgov.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< relref "communities.md" >}} "Communities"), [services]({{< relref "services.md" >}} "Services"), [resources]({{< relref "resources.md" >}} "Resources") and [events]({{< link href="events" >}}) that will help you build out the government of the 21st century.
+[Join in]({{< relref "join-digitalgov.md" >}} "Join DigitalGov") and help shape this platform into the creative engine that will drive digital government and advance your agency’s mission. We&#8217;ll help steer you to projects, [communities]({{< relref "communities.md" >}} "Communities"), [services]({{< relref "services.md" >}} "Services"), [resources]({{< link href="resources" >}} "Resources") and [events]({{< link href="events" >}}) that will help you build out the government of the 21st century.
 
 Take a look around and kick the tires on this new platform. Let us know what’s working and what we could do better in the comments or [contact us]({{< relref "contact-us.md" >}} "Contact Us").
 

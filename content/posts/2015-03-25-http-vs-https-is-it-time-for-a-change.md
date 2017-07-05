@@ -19,7 +19,7 @@ tag:
 
 Data. Security. Privacy.
 
-These are the cornerstones of many discussions concerning technology. The [security of citizen information](https://www.WHATEVER/2015/01/20/trends-big-data-and-gov-in-2015/) when interacting with the federal government will be increasingly important as we progress into the future.
+These are the cornerstones of many discussions concerning technology. The [security of citizen information]({{< relref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}}) when interacting with the federal government will be increasingly important as we progress into the future.
 
 A few agencies have begun to [use Hyper Text Transfer Protocol Secure (HTTPS)](https://18f.gsa.gov/2015/02/09/the-first-gov-domains-hardcoded-into-your-browser-as-all-https/) in lieu of the standard HTTP. For these agencies, this transition to HTTPS is seen as a step in the right direction and is one way for the government to address the security of citizen information. For others, the transition to HTTPS is seen as something that would require additional maintenance and is unnecessary, especially for websites that do not deal with sensitive or personally identifiable information (PII).
 

@@ -58,9 +58,9 @@ Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) 
 
 [The Future Will Be Printed – in 3D
   
-](https://www.WHATEVER/2015/01/15/the-future-will-be-printed-in-3d/) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
+]({{< relref "2015-01-15-the-future-will-be-printed-in-3d.md" >}}) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
 
-[NASA Reaches New Frontiers in 3D Printing](https://www.WHATEVER/2015/01/29/nasa-reaches-new-frontiers-in-3d-printing/)
+[NASA Reaches New Frontiers in 3D Printing]({{< relref "2015-01-29-nasa-reaches-new-frontiers-in-3d-printing.md" >}})
   
 Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative, shared tips for agencies and federal employees that are pursuing innovative projects.
 

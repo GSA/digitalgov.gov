@@ -34,4 +34,4 @@ To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.
 
 To learn more about DigitalGov Search&#8217;s multilingual efforts, check out the recent article: [Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience]({{< relref "2015-08-31-search-creating-a-good-multilingual-search-experience.md" >}}).
 
-Just getting started with search? Register for November&#8217;s [DigitalGov Search Basics webinar]({{< relref "events/digitalgov-search-basics-2.md" >}}).
+Just getting started with search? Register for November&#8217;s [DigitalGov Search Basics webinar]({{< tmp "events/digitalgov-search-basics.md" >}}).

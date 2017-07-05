@@ -17,10 +17,10 @@ tag:
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
 
 <p style="text-align: right">
-  <a class="button" style="color: #000000" href="{{< relref "u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day?utm_source=digitalgov&utm_medium=DGwebsite&utm_campaign=dguevents.md" >}}>VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>
+  <a class="button" style="color: #000000" href="{{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}>VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>
 </p>
 
-The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever [National Demo Day]({{< relref "u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}).
+The U.S. Census Bureau this week will showcase some of the most innovative data-driven apps soon to spark change in cities from coast to coast during its first-ever [National Demo Day]({{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}).
 
 On Thursday, Aug. 13, from 2 to 3 p.m. EST, five teams that participated in a recent crowdsourcing challenge will demonstrate their use of open data to address critical issues within their communities. The event marks the culmination of the [National CitySDK Open Data Challenge](https://www.challenge.gov/challenge/city-software-development-kit-sdk-data-solutions-challenge/), launched back in June using [Challenge.gov](https://www.challenge.gov/list/), the federal government&#8217;s free platform for running challenges and prize competitions to spur innovation.
 
@@ -30,4 +30,4 @@ During Thursday’s webinar, the teams will demo their prototypes for special gu
 
 Applications to be featured will address solutions ranging from handicap accessibility in Minnesota to the distribution of community parks in Austin.
 
-Be sure to [register online]({{< relref "u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}) for the National Demo Day webinar as this challenge is a great example of how prize competitions can bring citizens and government together to tackle a variety of issues while using information available to everybody.
+Be sure to [register online]({{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}) for the National Demo Day webinar as this challenge is a great example of how prize competitions can bring citizens and government together to tackle a variety of issues while using information available to everybody.

@@ -31,7 +31,7 @@ tag:
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< link href="events" >}})
 
-[DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community]({{< link href="cagegories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
+[DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community]({{< link href="categories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
 
 ## Opening Data and Data.gov
 
@@ -51,7 +51,7 @@ Speaking of Project Open Data, this cross-agency initiative developed by the Whi
 
 Agencies are also turning to “open as default” processes and considering this while in the early stages of development for delivery of services. [This recorded event in early May discussed the White House’s use of Drupal](https://www.youtube.com/watch?v=pRoCVIivbP4&index=10&list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM) during the State of the Union address as one example of using an Open Content Management System in a unique and innovative way to serve citizens.
 
-Another event focusing on [using open source CMS]({{< relref "mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}} "Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design") was hosted by Jacob Parcell, Manager of Mobile Programs at GSA, and featured two GSA case studies and one from the State Department. This event presented uses of open source CMS solutions to implement responsive design on agency sites. You can also watch the [How to Use Open Source CMS to Implement Responsive Web Design webinar recording](https://www.youtube.com/watch?v=iKeh25cKgrY).
+Another event focusing on [using open source CMS]({{< tmp "events/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}} "Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design") was hosted by Jacob Parcell, Manager of Mobile Programs at GSA, and featured two GSA case studies and one from the State Department. This event presented uses of open source CMS solutions to implement responsive design on agency sites. You can also watch the [How to Use Open Source CMS to Implement Responsive Web Design webinar recording](https://www.youtube.com/watch?v=iKeh25cKgrY).
 
 DGU has also supported the [Structured and Open Content Models working group](http://gsa.github.io/Open-And-Structured-Content-Models/) by hosting discussions on how to implement the &#8220;event&#8221; and &#8220;article&#8221; models.
 

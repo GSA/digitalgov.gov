@@ -91,7 +91,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Federal Government Challenges and Contests" href="https://www.WHATEVER/2013/11/01/federal-government-challenges-and-contests/">Federal Government Challenges and Contests</a>
+      <a title="Federal Government Challenges and Contests" href="{{< relref "2013-11-01-federal-government-challenges-and-contests.md" >}}">Federal Government Challenges and Contests</a>
     </td>
   </tr>
   
@@ -101,7 +101,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Ideation Challenges" href="https://www.WHATEVER/2013/11/14/ideation-challenges/">Ideation Challenges</a>
+      <a title="Ideation Challenges" href="{{< relref "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
     </td>
   </tr>
   
@@ -216,7 +216,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="What Is a “Customer Centric” Culture?" href="https://www.WHATEVER/2013/09/27/what-is-a-customer-centric-culture/">What Is a “Customer Centric” Culture?</a>
+      <a title="What Is a “Customer Centric” Culture?" href="{{< relref "2013-09-27-what-is-a-customer-centric-culture.md" >}}">What Is a “Customer Centric” Culture?</a>
     </td>
   </tr>
   
@@ -333,7 +333,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="APIs in Government" href="https://www.WHATEVER/2013/04/30/apis-in-government/">APIs in Government</a>
+      <a title="APIs in Government" href="{{< relref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a>
     </td>
   </tr>
   
@@ -379,7 +379,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Tell Your Agency’s Story—Plainly" href="https://www.WHATEVER/2014/04/16/how-to-tell-your-agencys-story-plainly/">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a> – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a> (doc)
+      <a title="How to Tell Your Agency’s Story—Plainly" href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a> – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a> (doc)
     </td>
   </tr>
   
@@ -389,7 +389,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Create Open, Structured Content" href="https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/">How to Create Open, Structured Content</a>
+      <a title="How to Create Open, Structured Content" href="{{< relref "2013-07-29-how-to-create-open-structured-content.md" >}}">How to Create Open, Structured Content</a>
     </td>
   </tr>
   
@@ -473,7 +473,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Storyboarding is Key to Successful Storytelling" href="https://www.WHATEVER/2014/04/25/storyboarding-is-key-to-successful-storytelling/">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="https://www.WHATEVER/2014/04/11/storyboard-a-tool-for-a-successful-video/">Storyboard: A Tool for a Successful Video</a>
+      <a title="Storyboarding is Key to Successful Storytelling" href="{{< relref "2014-04-25-storyboarding-is-key-to-successful-storytelling.md" >}}">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
     </td>
   </tr>
   
@@ -483,7 +483,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Video copyright: How to avoid getting sued" href="https://www.WHATEVER/2013/05/04/video-copyright/">Video copyright: How to avoid getting sued</a>
+      <a title="Video copyright: How to avoid getting sued" href="{{< relref "2013-05-04-video-copyright.md" >}}">Video copyright: How to avoid getting sued</a>
     </td>
   </tr>
   
@@ -511,7 +511,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-program.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
   
@@ -521,7 +521,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-program.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
   
@@ -561,7 +561,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Heatmapping Tools Show What’s “Hot” on Your Pages" href="https://www.WHATEVER/2014/04/04/heatmapping-tools-show-whats-hot-on-your-pages/">Heatmapping Tools Show What’s “Hot” on Your Pages</a>
+      <a title="Heatmapping Tools Show What’s “Hot” on Your Pages" href="{{< relref "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}">Heatmapping Tools Show What’s “Hot” on Your Pages</a>
     </td>
   </tr>
   
@@ -579,7 +579,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
     
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Four Steps to Achieve Good SEO" href="https://www.WHATEVER/2013/05/31/four-steps-to-achieve-good-seo/">Four Steps to Achieve Good SEO</a>
+      <a title="Four Steps to Achieve Good SEO" href="{{< relref "2013-05-31-four-steps-to-achieve-good-seo.md" >}}">Four Steps to Achieve Good SEO</a>
     </td>
   </tr>
 </table>

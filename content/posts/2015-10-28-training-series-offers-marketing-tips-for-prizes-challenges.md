@@ -15,7 +15,7 @@ tag:
   - U.S. Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}
 
 Marketing and public education is an essential part of any successful prize competition.
 
@@ -23,7 +23,7 @@ The good news for federal agencies working with tight budgets is that both can b
 
 “We have found other ways than spending a lot of money,” said Denice Shaw, senior advisor to the Chief Innovation Officer at the U.S. Environmental Protection Agency (EPA).
 
-Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar]({{< relref "events/module-4-the-importance-of-marketing-and-public-education.md" >}}) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum]({{< relref "event.md" >}})module-5-legal-considerations-for-prizes/#schedule) on incentivized prize competitions.
+Shaw joined two marketing experts from XPRIZE, October 20, for the latest [webinar]({{< relref "events/module-4-the-importance-of-marketing-and-public-education.md" >}}) in the **Expert Training Series: How to Design & Operate Prizes to Maximize Success**, a [seven-part educational forum]({{< tmp "events/module-5-legal-considerations-for-prizes.md#schedule" >}}) on incentivized prize competitions.
 
 Designed for the federal challenge and prize community, the online series is a collaboration between GSA’s [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University]({{< relref "digitalgov-university.md" >}}).
 

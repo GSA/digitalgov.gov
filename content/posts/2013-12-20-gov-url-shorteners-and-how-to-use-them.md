@@ -59,7 +59,7 @@ Most short URLs do not provide clues about their destination. That’s why we cr
   </p>
   
   <p dir="ltr">
-     You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{< relref "usa-gov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="https://www.WHATEVER/2013/06/26/5-myths-about-social-media-accessibility-2/">Learn more about making social media accessible.</a>
+     You can’t follow this rule when writing messages for social media because there isn’t the option to use a link title. Instead, give a good description first so users can decide if they want to click the link, such as “You can learn more about how to create short .gov URLs at <a title="USA.gov Short URLs" href="{{< relref "usa-gov-short-urls.md" >}}">http://go.usa.gov/Whtm</a>.” <a title="5 Myths About Social Media Accessibility" href="{{< relref "2013-06-26-5-myths-about-social-media-accessibility-2.md" >}}">Learn more about making social media accessible.</a>
   </p>
   
   <h2>

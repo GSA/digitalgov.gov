@@ -47,7 +47,7 @@ First, these apps have a unifying purpose and they fulfill that purpose well. Fo
 
 Equally important as to having a single, well-defined purpose and knowing the audience is a robustly-designed app. The app must be fast, and it must be stable. The app must also offer a good user experience. Each of these apps offers vital information that can affect a user’s finances or health. Therefore, the app must be dependable and intuitive.
 
-The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="https://www.WHATEVER/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/" target="_blank">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public.
+The federal government is continually releasing apps and will offer even more apps in the coming years. Even as the federal government moves into the post-app world of <a href="{{< relref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}" target="_blank">chatbots</a>, having a well-defined purpose, knowing the audience, and providing a good user experience are vital to building great apps and chatbots for the American public.
 
 _Each week, [The Data Briefing]({{< link href="tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 

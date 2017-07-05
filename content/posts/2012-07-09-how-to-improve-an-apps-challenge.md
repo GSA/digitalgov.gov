@@ -18,37 +18,37 @@ tag:
     <h2>
       <a name="close-challenge"></a>Close the challenge and present awards
     </h2>
-    
+
     <p>
       Hold an awards ceremony to draw attention to the winners and to your challenge.
     </p>
-    
+
     <p>
       The team behind the HHS myHealthyPeopleChallenge partnered with a prominent health conference to demo the winners’ applications.
     </p>
-    
+
     <h2>
       <a name="continue-outreach"></a>Continue outreach
     </h2>
-    
+
     <p>
       Challenges are powerful marketing and research and development tools that can help you create and grow a community around your initiatives.
     </p>
-    
+
     <p>
       Consider holding a mini-challenge in between your larger yearly challenges to keep the developer community interested.
     </p>
-    
+
     <p>
-      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="https://www.WHATEVER/2013/11/06/resources-to-help-run-an-apps-or-mobile-apps-challenge/">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
+      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< tmp "2013-11-06-resources-to-help-run-an-apps-or-mobile-apps-challenge.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
     </p>
-    
+
     <p>
       Review all the apps challenge steps at a glance on the <a href="https://digitalgov.sites.usa.gov/2013/11/06/software-and-apps-challenges/">How to Run an Apps Challenge page</a>.
     </p>
-    
+
     <p>
-       
+
     </p>
   </div>
 </div>

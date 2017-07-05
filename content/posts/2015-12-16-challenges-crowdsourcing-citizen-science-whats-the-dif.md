@@ -100,7 +100,7 @@ Among the most recent competitions:
   * The Environmental Protection Agency (EPA) is looking for [technologies to recycle nutrients from livestock manure](https://www.challenge.gov/challenge/nutrient-recycling-challenge/).
   * The Bureau of Reclamation is looking for solutions to [count food for critical fish species](https://www.challenge.gov/challenge/quantifying-drift-invertebrates-in-river-and-estuary-systems/).
 
-Read more about [successful federal challenges]({{< relref "challenges.md" >}}) and best practices for those interested in hosting one.
+Read more about [successful federal challenges]({{< link href="categories/challenges" >}}) and best practices for those interested in hosting one.
 
 ## Crowdfunding
 
@@ -112,7 +112,7 @@ There is no official program within the federal government for crowdfunding. The
 
 ## Next Steps
 
-While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{< relref "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons](https://www.WHATEVER/2015/05/27/the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people/), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{< relref "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" >}}).
+While the programs featured here are big bucket items, throughout government you’ll also find crowd-focused efforts like [maker faires](https://www.whitehouse.gov/nation-of-makers), [data jams]({{< relref "2014-03-27-what-to-do-with-big-data.md" >}}), [hack-a-thons]({{< relref "2015-05-27-the-national-day-of-civic-hacking-2015-harnessing-the-power-of-the-people.md" >}}), [game jams](http://www.hhs.gov/idealab/projects-item/health-game-jam/) and [demo days]({{< relref "2015-08-10-data-delivers-challenge-culminates-in-national-demo-day-event-slated-for-thursday.md" >}}).
 
 Consider which format would be best for your program; look through the options and consider what outcome you want and what group could be the best contributors to the project. Talk with others who have run these programs and learn from their experience.
 

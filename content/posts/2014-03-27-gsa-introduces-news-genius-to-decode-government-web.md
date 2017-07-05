@@ -20,7 +20,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="{{< relref "socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
+  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="{{< link href="events/socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
 </p>
 
 <p dir="ltr">
@@ -72,7 +72,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The SocialGov Summits are an ongoing education and training series through <a href="{{< relref "month.md" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="https://www.WHATEVER/2014/01/28/innovation-means-more-better-cost-effective-digital-training/">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
+  The SocialGov Summits are an ongoing education and training series through <a href="{{< link href="events" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="{{< relref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
 </p>
 
 <p dir="ltr">
@@ -80,11 +80,11 @@ tag:
 </p>
 
   * <p dir="ltr">
-      first comprehensive <a href="https://www.WHATEVER/2013/04/19/social-media-metrics-for-federal-agencies-2/">social media performance analysis recommendations</a> for government
+      first comprehensive <a href="{{< relref "2013-04-19-social-media-metrics-for-federal-agencies.md" >}}">social media performance analysis recommendations</a> for government
     </p>
 
   * <p dir="ltr">
-      first federal toolkit to improve the <a href="https://www.WHATEVER/2012/11/30/socialgov-summit-highlights-accessibility-challenges/">accessibility of social media for persons with disabilities</a>
+      first federal toolkit to improve the <a href="{{< relref "2012-11-30-socialgov-summit-highlights-accessibility-challenges.md" >}}">accessibility of social media for persons with disabilities</a>
     </p>
 
   * <p dir="ltr">
@@ -92,7 +92,7 @@ tag:
     </p>
 
 <p dir="ltr">
-  For more information on the SocialGov Community, check out our recent <a href="https://www.WHATEVER/2014/02/18/state-of-the-socialgov-2014/">“State of the #SocialGov 2014” post</a>.
+  For more information on the SocialGov Community, check out our recent <a href="{{< relref "2014-02-18-state-of-the-socialgov-2014.md" >}}">“State of the #SocialGov 2014” post</a>.
 </p>
 
 <p dir="ltr">

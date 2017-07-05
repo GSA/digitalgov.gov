@@ -16,7 +16,7 @@ A new toolkit developed by more than a dozen government managers and representat
 
 In light of recent social media cyber-vandalism incidents affecting public services, the [SocialGov Community]({{< relref "social-media.md" >}}) &#8212; including almost 900 digital engagement managers from across government &#8212; assembled a working group tasked to compile a best practices resource any agency could customize.
 
-One week later, following the rapid collaborative development process outlined in the [U.S. Public Participation Playbook](https://www.WHATEVER/2014/12/17/3rd-u-s-public-participation-playbook-draft-released-this-month/), the new resource is now available as a “living document” for continuous enhancement and expansion to match evolving technologies. We hope experts both within and outside government will continue to improve and expand upon with more training and resources as they develop.
+One week later, following the rapid collaborative development process outlined in the [U.S. Public Participation Playbook]({{< relref "2014-12-17-3rd-u-s-public-participation-playbook-draft-released-this-month.md" >}}), the new resource is now available as a “living document” for continuous enhancement and expansion to match evolving technologies. We hope experts both within and outside government will continue to improve and expand upon with more training and resources as they develop.
 
 The federal working group assembled to deliver this collaborative resource includes:
 

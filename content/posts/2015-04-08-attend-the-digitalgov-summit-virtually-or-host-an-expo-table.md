@@ -14,7 +14,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-208-Webcast-blue-squares-ileezhun-iStock-Thinkstock-ThinkstockPhotos-467395968.jpg" alt="To the left of the word webcast, six screens surround a globe icon." caption="" >}} 
 
-Sign up now to watch the [DigitalGov Summit]({{< tmp "event/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit") from the comfort of your desk! We are excited to announce that although we’ve sold out in-person attendance for the DigitalGov Citizen Services Summit, we have just opened up [registration to attend virtually](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401).
+Sign up now to watch the [DigitalGov Summit]({{< tmp "events/2015-digitalgov-citizen-services-summit.md" >}} "Spring 2015 DigitalGov Citizen Services Summit") from the comfort of your desk! We are excited to announce that although we’ve sold out in-person attendance for the DigitalGov Citizen Services Summit, we have just opened up [registration to attend virtually](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401).
 
 Virtual attendance will be an awesome way to experience the event with extras not offered to in-person attendees. Bernetta Reese from the U.S. Department of Agriculture will be our host and MC for virtual attendees. There will also be a dedicated Q & A with presenters, and interviews during the expo. Those of you across the country don’t have to worry about missing out on this stimulating ½ day event.
 

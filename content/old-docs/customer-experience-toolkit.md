@@ -87,7 +87,7 @@ Designate a single person to be responsible for the customer experience agency-w
 
 ### Follow all relevant laws and policies
 
-  * [Government Customer Service Policies & Requirements]({{< relref "resources.md" >}})government-customer-service-policies-requirements-1993-to-present/)
+  * [Government Customer Service Policies & Requirements]({{< link href="resources" >}})government-customer-service-policies-requirements-1993-to-present/)
 
 <h2 id="Culture" style="padding-top: 50px">
   Culture
@@ -147,7 +147,7 @@ Systematically collect and analyze customer behavior and feedback to understand 
 
 ### Bring customers to life with personas
 
-  * [Personas 101](https://www.WHATEVER/2015/01/09/personas-101/)
+  * [Personas 101]({{< relref "2015-01-09-personas-101.md" >}})
   * [Using Personas to Better Understand Customers: USA.gov Case Study]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}})
   * Sample personas. 
       * [Veteran’s Affairs Personas](http://www.innovation.va.gov/docs/Voices_Of_Veterans_11_12_4.pdf) (PDF)
@@ -233,7 +233,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
   * Follow policies and requirements 
       * [Digital Metrics Guidance and Best Practices]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}})
-      * [Paperwork Reduction Act Fast Track Process]({{< relref "resources.md" >}})paperwork-reduction-act-44-u-s-c-3501-et-seq/)
+      * [Paperwork Reduction Act Fast Track Process]({{< link href="resources" >}})paperwork-reduction-act-44-u-s-c-3501-et-seq/)
   * Adopt survey best practices 
       * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
       * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf) (PDF) &#8211; ClickTools
@@ -254,7 +254,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
   * Identify how each person/team contributes to the customer experience
   * Train employees to use customer feedback 
-      * [CX Data in Action Series: Case Study #1](https://www.WHATEVER/2015/12/07/cx-data-in-action-series-case-study-1/) &#8211; Department of Labor’s Employee Benefit Security Administration (EBSA)
+      * [CX Data in Action Series: Case Study #1]({{< relref "2015-12-07-cx-data-in-action-series-case-study-1.md" >}}) &#8211; Department of Labor’s Employee Benefit Security Administration (EBSA)
       * [Analytics Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) &#8211; DGU
 
 ### Publish your progress

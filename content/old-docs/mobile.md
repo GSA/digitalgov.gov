@@ -39,11 +39,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to 5 Crucial Steps for Conducting an Effective Customer Interview" href="https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Open-Content-Model-full-cropped.jpg" alt="Government Open and Structured Content Models Are Here!" >}}</a>
+          <a title="Permanent Link to 5 Crucial Steps for Conducting an Effective Customer Interview" href="{{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Open-Content-Model-full-cropped.jpg" alt="Government Open and Structured Content Models Are Here!" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/">Government Open and Structured Content Models Are Here!</a>
+          <a href="{{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}">Government Open and Structured Content Models Are Here!</a>
         </h4>
       </div>
     </div>
@@ -55,11 +55,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Helpful Resources to Make Your Content Mobile-Friendly" href="https://www.WHATEVER/2015/05/04/helpful-resources-to-help-make-your-content-mobile-friendly/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Helpful Resources to Make Your Content Mobile-Friendly" >}}</a>
+          <a title="Permanent Link to Helpful Resources to Make Your Content Mobile-Friendly" href="{{< relref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Helpful Resources to Make Your Content Mobile-Friendly" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/05/04/helpful-resources-to-help-make-your-content-mobile-friendly/">Helpful Resources to Make Your Content Mobile-Friendly</a>
+          <a href="{{< relref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}">Helpful Resources to Make Your Content Mobile-Friendly</a>
         </h4>
       </div>
     </div>
@@ -123,11 +123,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to How Government will Accelerate Anytime, Anywhere Services and Information in 2015" href="https://www.WHATEVER/2015/01/29/how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="How Government will Accelerate Anytime, Anywhere Services and Information in 2015" >}}</a>
+          <a title="Permanent Link to How Government will Accelerate Anytime, Anywhere Services and Information in 2015" href="{{< relref "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="How Government will Accelerate Anytime, Anywhere Services and Information in 2015" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/01/29/how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015/">How Government will Accelerate Anytime, Anywhere Services and Information in 2015</a>
+          <a href="{{< relref "2015-01-29-how-government-will-accelerate-anytime-anywhere-services-and-information-in-2015.md" >}}">How Government will Accelerate Anytime, Anywhere Services and Information in 2015</a>
         </h4>
       </div>
     </div>
@@ -139,11 +139,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design" href="https://www.WHATEVER/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-CSS-against-futuristic-black-and-blue-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-500091155.jpg" alt="Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design" >}}</a>
+          <a title="Permanent Link to Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design" href="{{< relref "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-CSS-against-futuristic-black-and-blue-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-500091155.jpg" alt="Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2014/10/28/trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design/">Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design</a>
+          <a href="{{< relref "2014-10-28-trends-on-tuesday-8-ways-to-format-tables-for-responsive-web-design.md" >}}">Trends on Tuesday: 8 Ways To Format Tables for Responsive Web Design</a>
         </h4>
       </div>
     </div>
@@ -155,11 +155,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?" href="https://www.WHATEVER/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Figure-1-Android-SDK-Emulator.jpg" alt="The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?" >}}</a>
+          <a title="Permanent Link to The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?" href="{{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Figure-1-Android-SDK-Emulator.jpg" alt="The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/06/09/the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices/">The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?</a>
+          <a href="{{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}">The Emulator Dilemma: Can Mobile Device Testing Be Completed Without Mobile Devices?</a>
         </h4>
       </div>
     </div>
@@ -171,11 +171,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report" href="https://www.WHATEVER/2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Pads-with-color-diagrams-Sergey-Nivens-iStock-Thinkstock-166097676.jpg" alt="Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report" >}}</a>
+          <a title="Permanent Link to Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report" href="{{< relref "2015-06-09-trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Pads-with-color-diagrams-Sergey-Nivens-iStock-Thinkstock-166097676.jpg" alt="Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report/">Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report</a>
+          <a href="{{< relref "2015-06-09-trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report.md" >}}">Trends on Tuesday: 7 Key Takeaways From Mary Meeker’s 2015 Internet Trends Report</a>
         </h4>
       </div>
     </div>
@@ -187,11 +187,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Thursday Mobile Products posts" href="{{< relref "thursday-mobile-products.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
+          <a title="Permanent Link to More Thursday Mobile Products posts" href="{{< link href="tag/thursday-mobile-products" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="{{< relref "thursday-mobile-products.md" >}}">More Thursday Mobile Products posts &#8230;</a>
+          <a href="{{< link href="tag/thursday-mobile-products" >}}">More Thursday Mobile Products posts &#8230;</a>
         </h4>
       </div>
     </div>
@@ -203,11 +203,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Trends on Tuesday posts" href="{{< relref "trends-on-tuesday.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
+          <a title="Permanent Link to More Trends on Tuesday posts" href="{{< link href="tag/trends-on-tuesday" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="{{< relref "trends-on-tuesday.md" >}}">More Trends on Tuesday posts &#8230;</a>
+          <a href="{{< link href="tag/trends-on-tuesday" >}}">More Trends on Tuesday posts &#8230;</a>
         </h4>
       </div>
     </div>

@@ -31,11 +31,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="https://www.WHATEVER/2012/08/12/top-10-best-practices-for-multilingual-websites/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
+          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2012/08/12/top-10-best-practices-for-multilingual-websites/">Top 10 Best Practices for Multilingual Websites</a>
+          <a href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}">Top 10 Best Practices for Multilingual Websites</a>
         </h4>
       </div>
     </div>
@@ -95,11 +95,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Lost in Translation" href="https://www.WHATEVER/2012/10/01/automated-translation-good-solution-or-not/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
+          <a title="Permanent Link to Lost in Translation" href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2012/10/01/automated-translation-good-solution-or-not/">Lost in Translation</a>
+          <a href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}">Lost in Translation</a>
         </h4>
       </div>
     </div>
@@ -119,11 +119,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multilingual Digital Content" href="https://www.WHATEVER/2014/07/01/multilingual-digital-content/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
+          <a title="Permanent Link to Multilingual Digital Content" href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2014/07/01/multilingual-digital-content/">Multilingual Digital Content</a>
+          <a href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}">Multilingual Digital Content</a>
         </h4>
       </div>
     </div>
@@ -135,11 +135,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="https://www.WHATEVER/2015/04/09/multiple-languages-single-platforms-the-world-digital-library/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
+          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/04/09/multiple-languages-single-platforms-the-world-digital-library/">Multiple Languages, Single Platforms: the World Digital Library</a>
+          <a href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}">Multiple Languages, Single Platforms: the World Digital Library</a>
         </h4>
       </div>
     </div>
@@ -151,11 +151,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
+          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2014/05/27/trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future/">Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future</a>
+          <a href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}">Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future</a>
         </h4>
       </div>
     </div>
@@ -167,11 +167,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="https://www.WHATEVER/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
+          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/03/02/persona-development-case-study-nci-and-spanish-language-outreach/">Persona Development Case Study: NCI and Spanish Language Outreach</a>
+          <a href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}">Persona Development Case Study: NCI and Spanish Language Outreach</a>
         </h4>
       </div>
     </div>
@@ -183,11 +183,11 @@ _**The Multilingual Digital Group also maintains the multilingual [resources]({{
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="https://www.WHATEVER/2014/07/11/why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
+          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2014/07/11/why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer/">Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer</a>
+          <a href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}">Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer</a>
         </h4>
       </div>
     </div>

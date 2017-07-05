@@ -47,11 +47,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Understanding Your Customer" href="https://www.WHATEVER/2015/09/22/understanding-your-customer-2/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/09/hp-featured-348-x-226-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="Understanding Your Customer" >}}</a>
+          <a title="Permanent Link to Understanding Your Customer" href="{{< relref "2015-09-22-understanding-your-customer-2.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/09/hp-featured-348-x-226-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="Understanding Your Customer" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/09/22/understanding-your-customer-2/">Understanding Your Customer</a>
+          <a href="{{< relref "2015-09-22-understanding-your-customer-2.md" >}}">Understanding Your Customer</a>
         </h4>
       </div>
     </div>
@@ -97,11 +97,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Government Customer Service CAP Goal—What You Need to Know" href="https://www.WHATEVER/2015/12/14/government-customer-service-update-webinar-recap/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Government Customer Service CAP Goal—What You Need to Know" >}}</a>
+          <a title="Permanent Link to Government Customer Service CAP Goal—What You Need to Know" href="{{< relref "2015-12-14-government-customer-service-update-webinar-recap.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/07/hp-featured-348-x-226-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Government Customer Service CAP Goal—What You Need to Know" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/12/14/government-customer-service-update-webinar-recap/">Government Customer Service CAP Goal—What You Need to Know</a>
+          <a href="{{< relref "2015-12-14-government-customer-service-update-webinar-recap.md" >}}">Government Customer Service CAP Goal—What You Need to Know</a>
         </h4>
       </div>
     </div>
@@ -133,11 +133,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Creating a Culture of Engagement – Webinar Recap" href="https://www.WHATEVER/2016/03/18/creating-a-culture-of-engagement-webinar-recap/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2016/03/hp-featured-348-x-226-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="Creating a Culture of Engagement – Webinar Recap" >}}</a>
+          <a title="Permanent Link to Creating a Culture of Engagement – Webinar Recap" href="{{< relref "2016-03-18-creating-a-culture-of-engagement-webinar-recap.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2016/03/hp-featured-348-x-226-Creating-the-Employee-Experience-Big-Benefits.jpg" alt="Creating a Culture of Engagement – Webinar Recap" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2016/03/18/creating-a-culture-of-engagement-webinar-recap/">Creating a Culture of Engagement – Webinar Recap</a>
+          <a href="{{< relref "2016-03-18-creating-a-culture-of-engagement-webinar-recap.md" >}}">Creating a Culture of Engagement – Webinar Recap</a>
         </h4>
       </div>
     </div>
@@ -149,11 +149,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Case Study: OCSIT's Email Customer Survey Process" href="https://www.WHATEVER/2016/01/29/case-study-ocsits-email-customer-survey-process/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2016/02/hp-featured-348-x-226-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="Case Study: OCSIT's Email Customer Survey Process" >}}</a>
+          <a title="Permanent Link to Case Study: OCSIT's Email Customer Survey Process" href="{{< relref "2016-01-29-case-study-ocsits-email-customer-survey-process.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2016/02/hp-featured-348-x-226-Online-Survey-devke-iStock-Thinkstock-469618252.jpg" alt="Case Study: OCSIT's Email Customer Survey Process" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2016/01/29/case-study-ocsits-email-customer-survey-process/">Case Study: OCSIT&#8217;s Email Customer Survey Process</a>
+          <a href="{{< relref "2016-01-29-case-study-ocsits-email-customer-survey-process.md" >}}">Case Study: OCSIT&#8217;s Email Customer Survey Process</a>
         </h4>
       </div>
     </div>
@@ -165,11 +165,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Federal Student Aid Customer Experience Journey: A Recap" href="https://www.WHATEVER/2015/08/14/federal-student-aid-customer-experience-journey-a-recap/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/08/hp-featured-348-x-226-Federal-Student-Aid-website.jpg" alt="Federal Student Aid Customer Experience Journey: A Recap" >}}</a>
+          <a title="Permanent Link to Federal Student Aid Customer Experience Journey: A Recap" href="{{< relref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/08/hp-featured-348-x-226-Federal-Student-Aid-website.jpg" alt="Federal Student Aid Customer Experience Journey: A Recap" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/08/14/federal-student-aid-customer-experience-journey-a-recap/">Federal Student Aid Customer Experience Journey: A Recap</a>
+          <a href="{{< relref "2015-08-14-federal-student-aid-customer-experience-journey-a-recap.md" >}}">Federal Student Aid Customer Experience Journey: A Recap</a>
         </h4>
       </div>
     </div>
@@ -181,11 +181,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Journey Mapping the Customer Experience: A USA.gov Case Study" href="https://www.WHATEVER/2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/08/hp-featured-348-x-226-USAgov-Personas-and-Journey-Maps.jpg" alt="Journey Mapping the Customer Experience: A USA.gov Case Study" >}}</a>
+          <a title="Permanent Link to Journey Mapping the Customer Experience: A USA.gov Case Study" href="{{< relref "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/08/hp-featured-348-x-226-USAgov-Personas-and-Journey-Maps.jpg" alt="Journey Mapping the Customer Experience: A USA.gov Case Study" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/">Journey Mapping the Customer Experience: A USA.gov Case Study</a>
+          <a href="{{< relref "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}">Journey Mapping the Customer Experience: A USA.gov Case Study</a>
         </h4>
       </div>
     </div>
@@ -197,11 +197,11 @@ Join the CX-COP listserv and community to stay on the cutting edge of government
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to UX vs. CX: What’s the Dif? Part 2" href="https://www.WHATEVER/2015/11/20/ux-vs-cx-whats-the-dif-part-2/" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/12/hp-featured-348-x-226-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="UX vs. CX: What’s the Dif? Part 2" >}}</a>
+          <a title="Permanent Link to UX vs. CX: What’s the Dif? Part 2" href="{{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}}" rel="bookmark">{{< legacy-img src="//www.WHATEVER/files/2015/12/hp-featured-348-x-226-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="UX vs. CX: What’s the Dif? Part 2" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER/2015/11/20/ux-vs-cx-whats-the-dif-part-2/">UX vs. CX: What’s the Dif? Part 2</a>
+          <a href="{{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}}">UX vs. CX: What’s the Dif? Part 2</a>
         </h4>
       </div>
     </div>

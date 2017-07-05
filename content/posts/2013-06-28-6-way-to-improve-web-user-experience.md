@@ -30,7 +30,7 @@ Government agencies can use many different types of superb survey tools to colle
 
 **4. Know thy metrics**
   
-Chances are, you’ve got some metrics lying around that could use some more exploring. If you’re rebooting a site, you’ve got all the old traffic reports. Maybe you’ve got some old surveys or customer emails in a folder somewhere (see above). Or you want to explore what search terms people are using in Google. Whatever it is, take a look and try to find some patterns of user behavior inside <a title="With Measurable Usability Goals – We All Score" href="https://www.WHATEVER/2013/10/28/with-measurable-usability-goals-we-all-score-2/" target="_blank">your key metrics</a>. Are there features people have been asking about for years? Pages that were popular / unpopular? Exit points where people got frustrated and left? Be like Batman – it’s time to be a detective.
+Chances are, you’ve got some metrics lying around that could use some more exploring. If you’re rebooting a site, you’ve got all the old traffic reports. Maybe you’ve got some old surveys or customer emails in a folder somewhere (see above). Or you want to explore what search terms people are using in Google. Whatever it is, take a look and try to find some patterns of user behavior inside <a title="With Measurable Usability Goals – We All Score" href="{{< relref "2013-10-28-with-measurable-usability-goals-we-all-score.md" >}}" target="_blank">your key metrics</a>. Are there features people have been asking about for years? Pages that were popular / unpopular? Exit points where people got frustrated and left? Be like Batman – it’s time to be a detective.
 
 **5. User Interviews**
   

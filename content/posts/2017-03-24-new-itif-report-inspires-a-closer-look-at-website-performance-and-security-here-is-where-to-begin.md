@@ -90,7 +90,7 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
 
 **Resources & Tools**
 
-  * [Join our MobileGov Community]({{< link href="cagegories/mobile" >}})
+  * [Join our MobileGov Community]({{< link href="categories/mobile" >}})
   * [Mobile Development and Testing with Chrome Developer Tools]({{< relref "2016-11-21-mobile-development-and-testing-with-chrome-devtools.md" >}})
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [Four Steps to Achieve Good SEO]({{< relref "2013-05-31-four-steps-to-achieve-good-seo.md" >}})
@@ -134,11 +134,11 @@ With the January release of the [Access Board’s final rule](https://www.access
 **Resources & Tools**
 
   * [Join our User Experience (UX) Community]({{< relref "federal-user-experience-community-of-practice.md" >}})
-  * [Accessibility Resource List](https://www.WHATEVER/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/)
+  * [Accessibility Resource List]({{< relref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
   * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag.php) (WCAG)
   * [Agency Implementation Guides](https://section508.gov/agency-shared-guidance)
   * [CIO Council’s Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
-  * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act](https://www.WHATEVER/2016/08/15/celebrating-the-18th-anniversary-of-section-508-rehabilitation-act/)
+  * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< relref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
   * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes)
 
 

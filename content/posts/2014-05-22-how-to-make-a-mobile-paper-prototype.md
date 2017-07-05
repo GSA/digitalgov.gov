@@ -43,4 +43,4 @@ They worked in teams of two—a facilitator to ask questions and help the volunt
 
 The pros of paper prototyping are numerous: a good way to measure your basic design, it’s free and easy to put together. The cons are that the prototype can be a bit “clunky” and tough to manipulate. Ultimately, paper prototyping isn&#8217;t always the answer but it&#8217;s often a really good, cheap, and productive first effort.
 
-_Editor’s Note: If you’re interested in Mobile Prototypes, register for our [free prototyping workshop]({{< relref "mobile-prototyping-design-workshop-sketching-your-way-to-better-ux.md" >}}) June 3._
+_Editor’s Note: If you’re interested in Mobile Prototypes, register for our [free prototyping workshop]({{< tmp "events/mobile-prototyping-design-workshop-sketching-your-way-to-better-ux.md" >}}) June 3._

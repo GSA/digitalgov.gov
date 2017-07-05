@@ -29,7 +29,7 @@ I want to make clear that coding and technology are of course extremely importan
 
 I remember the analog FAFSA process, and the improvements made to that alone deserve a commemorative monument. But aside from the digitized form, a [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) and a focus on the user’s needs also help reduce questions and improve the financial aid process.
 
-And all the efforts to share code and leverage that efficiency via [Github]({{< relref "github-for-beginners.md" >}}), for example, are a great step forward for the federal government, but even a significant focus on content relates to APIs and syndication. Again it’s heavy on code, but without efficient, helpful content, no one is going to want to share or consume it.
+And all the efforts to share code and leverage that efficiency via [Github]({{< tmp "events/github-for-beginners.md" >}}), for example, are a great step forward for the federal government, but even a significant focus on content relates to APIs and syndication. Again it’s heavy on code, but without efficient, helpful content, no one is going to want to share or consume it.
 
 ## Content is More Important
 

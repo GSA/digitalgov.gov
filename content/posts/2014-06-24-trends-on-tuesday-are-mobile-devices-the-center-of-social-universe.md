@@ -38,4 +38,4 @@ For government the potential is endless as we move towards the [Internet of Thin
 
 Maybe instead of mobile being the center of the social universe, it&#8217;s the user becoming the center of the DigitalGov universe.
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< relref "recent-monthly-themes.md" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

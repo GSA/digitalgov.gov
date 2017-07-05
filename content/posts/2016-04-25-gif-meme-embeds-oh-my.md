@@ -31,7 +31,7 @@ This is a totally different monster. Livestreaming is dependent on so many facto
 
 Last year, for the first time ever the [Digital Gov Citizens Summit was live streamed]({{< relref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}), including interviews before and after, for online viewers across the country. The US Navy has been [livestreaming its graduation ceremonies](http://syndacast.com/video-marketing-statistics-trends-2015) for a while now, with thousands of excited parents and family members ready to see their son or daughter take those memorable steps.
 
-During the livestream of your video, traffic will be flooding into your site, so consider [inserting calls-to-action for your agency services](http://www.socialmediaexaminer.com/how-to-improve-your-social-media-calls-to-action/), while not going overboard. [More best practices for live streaming](https://www.WHATEVER/2015/04/14/trends-on-tuesday-10-tips-for-mobile-live-streaming/) is available on Digital Gov.
+During the livestream of your video, traffic will be flooding into your site, so consider [inserting calls-to-action for your agency services](http://www.socialmediaexaminer.com/how-to-improve-your-social-media-calls-to-action/), while not going overboard. [More best practices for live streaming]({{< relref "2015-04-14-trends-on-tuesday-10-tips-for-mobile-live-streaming.md" >}}) is available on Digital Gov.
 
 ## Graphics
 

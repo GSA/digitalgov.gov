@@ -45,7 +45,7 @@ At every stage of their development, they took the new design and opened it up f
 </p>
 
 <p dir="ltr">
-  “We listened to users, and they wanted a more dynamic, up-to-date design and stronger search,” she said. So the team tried to make the site more responsive and engaging, and “we gave it a<a href="https://www.WHATEVER/2014/02/24/tumblr-a-flexible-social-media-platform/"> Tumblr-like</a> feel,” Holm said.
+  “We listened to users, and they wanted a more dynamic, up-to-date design and stronger search,” she said. So the team tried to make the site more responsive and engaging, and “we gave it a<a href="{{< relref "2014-02-24-tumblr-a-flexible-social-media-platform.md" >}}"> Tumblr-like</a> feel,” Holm said.
 </p>
 
 <p dir="ltr">

@@ -43,5 +43,5 @@ Five winners earned cash prizes and bragging rights for their creative technical
 </p>
 
 <p style="color: #323232">
-  <em>Interested in learning more about Challenge and Prize Competitions? Check out our <a title="Get Started with Challenge and Prize Competitions" href="https://www.WHATEVER/2014/03/31/get-started-with-challenge-and-prize-competitions/">Get Started Guide</a>.</em>
+  <em>Interested in learning more about Challenge and Prize Competitions? Check out our <a title="Get Started with Challenge and Prize Competitions" href="{{< relref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}}">Get Started Guide</a>.</em>
 </p>

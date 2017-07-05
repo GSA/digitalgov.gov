@@ -219,7 +219,7 @@ This section provides tips on running an ideation challenge, resources, examples
   </p>
   
   <p>
-    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="https://www.WHATEVER/2014/03/11/crowdsource-ideas-with-new-competition-platform/">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
+    <a href="http://challenge.sites.usa.gov/">GSA Ideation Platform</a><br /> This is a no-cost, online tool for federal agencies to run ideation crowdsourcing competitions. The Challenge.gov team built this ideation tool on the <a href="https://sites.usa.gov/">sites.usa.gov platform</a> and launched it in February 2014. Watch the on-demand webinar to learn <a href="{{< relref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}">how to</a> use <a href="http://challenge.sites.usa.gov/">Challenge.sites.usa.gov</a>. Contact <a href="mailto:challenge@gsa.gov">challenge@gsa.gov</a> for more information.
   </p>
   
   <p>

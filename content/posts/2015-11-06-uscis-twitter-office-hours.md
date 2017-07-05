@@ -25,7 +25,7 @@ On September 1, U.S. Citizenship and Immigration Services (USCIS) hosted our fir
 
 We aimed to leverage Twitter to answer questions on our agency’s programs and policies and to counter rumors and incorrect information that exist in the public sphere.
 
-We were inspired to launch this event after hearing about the [popular Office Hours hosted by the Free Application for Federal Student Aid (FAFSA) team at the Department of Education](https://www.WHATEVER/2015/01/05/great-customer-service-in-140-characters-askfafsa-twitter-chats/). Our call centers receive thousands of phone calls per day and some people wait for a representative to ask questions that could be answered through our website. Twitter allows us to quickly share answers to common questions with lots of people at once.
+We were inspired to launch this event after hearing about the [popular Office Hours hosted by the Free Application for Federal Student Aid (FAFSA) team at the Department of Education]({{< relref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}). Our call centers receive thousands of phone calls per day and some people wait for a representative to ask questions that could be answered through our website. Twitter allows us to quickly share answers to common questions with lots of people at once.
 
 While preparing, we spoke with members of FAFSA Office Hours team about how their events are structured. We also had conversations with colleagues who use Twitter to engage with the public at the Federal Emergency Management Agency (FEMA) and the Environmental Protection Agency (EPA).
 

@@ -79,7 +79,7 @@ Some specific priorities in our CX improvement queue:
   * Engage partner agency customers in journey mapping exercises that cross our programs
   * Share our data; make better linkages in results that impact our programs (e.g., search results impact on user experience, content usage on Web and in contact center)
   * Improve reporting of key results throughout our organization and to senior leadership
-  * Improve customer understanding by using [personas](https://www.WHATEVER/2015/01/09/personas-101/) and journey maps as a standard process that we incorporate into the beginning of any new project or product
+  * Improve customer understanding by using [personas]({{< relref "2015-01-09-personas-101.md" >}}) and journey maps as a standard process that we incorporate into the beginning of any new project or product
   * Establish a Customer Advisory Council that includes our agency customers; engage them in our USA.gov transformation efforts and problem solving
 
 Journey mapping isn’t a one-and-done project. We are continuing to analyze our results and prioritize areas for improvement, and we’ll continue to map future state journeys to help define desired experiences, keeping the customer at the center of our efforts.
