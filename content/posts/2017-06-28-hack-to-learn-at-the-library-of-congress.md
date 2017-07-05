@@ -17,7 +17,7 @@ When hosting workshops, such as [Software Carpentry](https://blogs.loc.gov/thesi
 
 Hack-to-Learn took place on May 16-17 in partnership with George Mason and George Washington University Libraries. Over the two days, 61 attendees used low or no-cost computational tools to explore four library collection as data sets. You can see the [full schedule](http://www.digitalpreservation.gov/meetings/hack-to-learn/hack-to-learn-site.html?loclr=blogsig) here.
 
-{{< legacy-img src="{{< link "files/2017/06/600-x-450-Hack-to-Learn-LOC-May-2017-day-2-GWU-Library-group.png" >}}" alt="Day two of the workshop took place at George Washington University Libraries. Here, George Oberle III, History Librarian at George Mason University, gives a Carto tutorial. Photo by Justin Littman, event organizer." >}}
+{{< legacy-img src="CDN/files/2017/06/600-x-450-Hack-to-Learn-LOC-May-2017-day-2-GWU-Library-group.png" alt="Day two of the workshop took place at George Washington University Libraries. Here, George Oberle III, History Librarian at George Mason University, gives a Carto tutorial. Photo by Justin Littman, event organizer." >}}
 
 ## The Data Sets
 
@@ -27,11 +27,11 @@ In the spring, the Library of Congress released [25 million of its MARC records 
 
 The Eleanor Roosevelt Papers Project at George Washington University shared its [“My Day” collection](https://erpapers.columbian.gwu.edu/my-day?loclr=blogsig){.external} – Roosevelt’s daily syndicated newspaper column and the closest thing we have to her diary. George Washington University Libraries contributed their Tumblr End of Term Archive- text and metadata from 72 federal Tumblr blogs harvested as part of the End of Term Archive project.
 
-{{< legacy-img src="{{< link "files/2017/06/600-x-385-Hack-to-Learn-LOC-May-2017-ER\_mallet\_topics.png" >}}" alt="Topic modelling in MALLET with the Eleanor Roosevelt “My Day” collection. MALLET generates a list of topics from a corpus and keywords composing those topics. An attendee suggested it would be a useful method for generating research topics for students (and we agree!)." >}}
+{{< legacy-img src="CDN/files/2017/06/600-x-385-Hack-to-Learn-LOC-May-2017-ER\_mallet\_topics.png" alt="Topic modelling in MALLET with the Eleanor Roosevelt “My Day” collection. MALLET generates a list of topics from a corpus and keywords composing those topics. An attendee suggested it would be a useful method for generating research topics for students (and we agree!)." >}}
 
 As excitement for hack-to-learn grew, the Smithsonian joined the fun by providing their [Phyllis Diller Gag file](https://transcription.si.edu/phyllis-diller-cards?loclr=blogsig){.external}. Donated to the Smithsonian American History Museum, the gag file is a physical card catalog containing 52,000 typewritten joke cards the comedian organized by subject. The Smithsonian Transcription Center put these joke cards online, and they were transcribed by the public in just a few weeks. Our event was the first time these transcriptions were used.
 
-{{< legacy-img src="{{< link "files/2017/06/600-x-598-Hack-to-Learn-LOC-May-2017-Phyllis-Diller-Gag-Gephi-network-data-visualization-copy.png" >}}" alt="Gephi network analysis visualization of the Phyllis Diller Gag file. The circles (or nodes) represent joke authors and their relationship to each other based on their joke subjects." >}}
+{{< legacy-img src="CDN/files/2017/06/600-x-598-Hack-to-Learn-LOC-May-2017-Phyllis-Diller-Gag-Gephi-network-data-visualization-copy.png" alt="Gephi network analysis visualization of the Phyllis Diller Gag file. The circles (or nodes) represent joke authors and their relationship to each other based on their joke subjects." >}}
 
 To encourage immediate access to the data and tools, we spent a significant amount of time readying these four data sets so ready-to-load versions were available. For the MARC records to be amenable for the mapping tool Carto, for example, Wendy Mann, Head of George Mason University Data Services, had to reduce the size of the set, then convert the 1,000 row files to csv using MarcEdit, map the MARC fields as column headings, create load files for MARC fields in each file, and then mass edit column names in OpenRefine so that each field name began with a character as opposed to a number (a Carto requirement).
 
@@ -41,7 +41,7 @@ We also wanted to be transparent about this work so attendees could re-create th
 
 Participants were largely librarians, faculty or students from our three partner organizations. 12 seats were opened to the public and quickly filled by librarians, faculty or students from universities or cultural heritage institutions. Based on our registration survey, the majority of participants trended towards little or no experience. Almost half reported experience with OpenRefine, while 44.8% reported having never used any of the tools before. 49.3% wanted to learn about “all” methodologies (data cleaning, text mining, network analysis, etc.), and 46.3% reported interest in specifically text mining.
 
-{{< legacy-img src="{{< link "files/2017/06/600-x-280-Hack-to-Learn-LOC-May-2017-pie-chart.png" >}}" alt="31.3% of hack-to-learn registrants were curious about computational research and wanted and introduction, and 28.4% were familiar with some tools but not all. 14.9% thought it sounded fun!" >}}
+{{< legacy-img src="CDN/files/2017/06/600-x-280-Hack-to-Learn-LOC-May-2017-pie-chart.png" alt="31.3% of hack-to-learn registrants were curious about computational research and wanted and introduction, and 28.4% were familiar with some tools but not all. 14.9% thought it sounded fun!" >}}
 
 Twenty-one attendees responded to our post-event survey. Participants confirmed that collections as data work felt less “intimidating” and the tools more “approachable.” Respondents reported a recognition of untapped potential in their data sets and requested more events of this kind.
 
@@ -49,7 +49,7 @@ Twenty-one attendees responded to our post-event survey. Participants confirmed 
 
 Many appreciated the event’s diversity- the diversity of data sets and tools, the mixture of subject matter and technical experts, and the mix between instructional and problem-solving time.
 
-> “The tools and datasets were all well-selected and gave a good overview of how they can be used. It was the right mix of easy to difficult. Easy enough to give us confidence and challenging enough to push our skills.” {{< legacy-img src="{{< link "files/2017/06/600-x-400-Hack-to-Learn-LOC-May-2017-Phyllis-Diller-team-day-2.jpg" >}}" alt="The Phyllis Diller team works with OpenRefine at Hack-to-Learn, May 17, 2017." caption="" >}}
+> “The tools and datasets were all well-selected and gave a good overview of how they can be used. It was the right mix of easy to difficult. Easy enough to give us confidence and challenging enough to push our skills.” {{< legacy-img src="CDN/files/2017/06/600-x-400-Hack-to-Learn-LOC-May-2017-Phyllis-Diller-team-day-2.jpg" alt="The Phyllis Diller team works with OpenRefine at Hack-to-Learn, May 17, 2017." caption="" >}}
 
 When asked what could be improved, many felt that identifying what task to do or question to ask of the data set was difficult, and attendees often underestimated the data preparation step. We received suggestions such as adding guided exercises with the tools before independent work and more time for digging deeper into a particular methodology or research question.
 

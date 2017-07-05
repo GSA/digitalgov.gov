@@ -18,7 +18,7 @@ tag:
 
 Merriam-Webster officially defines a meme as “an idea, behavior, style, or usage that spreads from person to person within a culture.” But these days, most of us think of memes as those viral posts online that convey a message using a photo with text. They range from funny to serious to offensive, and everything in between. Sometimes they include a call to action, and other times they focus on creating an emotion. While you might think memes are so 21st century, I’d make the argument that World War I propaganda posters were the original memes.
 
-{{< legacy-img src="{{< link "files/2017/07/600-x-800_WWI-Back-our-Girls-Over-There.jpg" >}}" alt="A World War I poster shows an illustration of a woman working at a switchboard with the the text, Back our girls over there below her. The YMCA logo is on the right, and the text, United War Work Campaign, is along the bottom." >}}
+{{< legacy-img src="CDN/files/2017/07/600-x-800_WWI-Back-our-Girls-Over-There.jpg" alt="A World War I poster shows an illustration of a woman working at a switchboard with the the text, Back our girls over there below her. The YMCA logo is on the right, and the text, United War Work Campaign, is along the bottom." >}}
 
 Maybe this argument sounds crazy to you, or maybe it makes perfect sense. Either way, it gives us a starting place for a conversation. It allows me to take a historic element from World War I and make it relevant today.
 
@@ -61,7 +61,7 @@ To get the general American public interested in historic topics, we need to thi
 
 These are universal topics when it comes to how we communicate. Whether we are talking about WWI posters or today’s memes, these ideas and discussion points can be applied to any form of communication.
 
-{{< legacy-img src="{{< link "files/2017/07/600-x-800-WWI-Beat-Back-the-Hun-poster.jpg" >}}" alt="A World War I poster reads, Beat back the Hun with Liberty Bonds." >}}
+{{< legacy-img src="CDN/files/2017/07/600-x-800-WWI-Beat-Back-the-Hun-poster.jpg" alt="A World War I poster reads, Beat back the Hun with Liberty Bonds." >}}
 
 We also looked at how posters served as a “cutting-edge” communication tool of the early 19th century. This might sound funny to us now, but with no television or internet, and only limited radio (radio existed at the time of WWI, but it was not utilized as a widely available public communication tool), the introduction of large scale, full-color posters not being used as advertisements was novel. I like this Facebook example because we take real, primary source documents from World War I, and apply concepts that could also be used to examine Facebook, Instagram, or Snapchat posts from today.
 

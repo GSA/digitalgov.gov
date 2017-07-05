@@ -25,7 +25,7 @@ Many people don&#8217;t get plain language (also known as plain communication or
 
 Plain language has three basic elements—they need to find it easily, understand it the first time they hear or read it, and be able to use what they&#8217;ve learned to meet their needs.
 
-In content presentation, the audience is often faced with a &#8220;big wall of words&#8221; or content with several large paragraphs, no headers, and nothing to break up the overabundance of text. As writers and editors for content, we don&#8217;t always have permission to edit copy. However, this shouldn&#8217;t stop one from creating a visually aesthetic and easy-to-understand medium. {{< legacy-img src="{{< link "files/2015/12/600-x-400-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" >}}" alt="A close up of the dictionary definition of the word, simplicity." caption="" >}}
+In content presentation, the audience is often faced with a &#8220;big wall of words&#8221; or content with several large paragraphs, no headers, and nothing to break up the overabundance of text. As writers and editors for content, we don&#8217;t always have permission to edit copy. However, this shouldn&#8217;t stop one from creating a visually aesthetic and easy-to-understand medium. {{< legacy-img src="CDN/files/2015/12/600-x-400-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="A close up of the dictionary definition of the word, simplicity." caption="" >}}
 
 ## How do I start?
 

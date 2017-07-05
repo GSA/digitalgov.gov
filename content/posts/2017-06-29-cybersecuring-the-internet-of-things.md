@@ -1,6 +1,7 @@
 ---
 date: 2017-06-29 2:00:47 -0400
 title: '&#8216;Cybersecuring&#8217; the Internet of Things'
+slug: 'cybersecuring-the-internet-of-things'
 summary: I recently had the chance to talk with the legendary Vint Cerf, one of the founding fathers of the internet. We had a wide-ranging discussion about the past, present and future of the internet, network security and what it would take to successfully, safely and reliably merge the digital and physical worlds, a concept known
 authors:
   - donna-dodson
@@ -29,7 +30,7 @@ As its name suggests, the internet of things will connect all kinds of things, b
 
 But with all the exciting new functionality and features that IoT will grant, it will also bring a host of new cybersecurity risks and challenges. Some of these risks could be seen as relatively innocuous. For instance, hackers could virtually raid your internet-connected refrigerator and instruct it to order too much milk as a prank. Other risks are far more serious, such as hackers being able to take control of your self-driving vehicle or medical device.
 
-The point is, the more devices that are connected to the internet, the more potential weak spots there are for hackers to exploit. {{< legacy-img src="{{< link "files/2017/06/600-x-400-NIST-IoT-network\_Credit\_chesky-fotolia.com_.jpg" >}}" alt="An illustration of various connected items." caption="" >}}
+The point is, the more devices that are connected to the internet, the more potential weak spots there are for hackers to exploit. {{< legacy-img src="CDN/files/2017/06/600-x-400-NIST-IoT-network\_Credit\_chesky-fotolia.com_.jpg" alt="An illustration of various connected items." caption="" >}}
 
 Because of this, it’s really important that the data IoT systems generate and disseminate be protected against unauthorized access, just as you would protect any sensitive system. Except in limited cases, even authorized users shouldn’t be able to change this data. And, while some data should be public so that people can slice it and dice it in different ways for research purposes—for instance, data on traffic patterns or pollution—some data, such as medical and genetic information, needs to be kept confidential, so we’ll need layers of permissions. As we become more dependent on these connected devices, ensuring their availability can also be critical. Vital networks that control the power grid or the access to health records should never go down—even for a second. And if they do, we need to be able to get them back up and running quickly.
 

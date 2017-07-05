@@ -49,6 +49,6 @@ Beyond all odds, we believe we are showing this is actually possible at the VA, 
 
 _Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
 
-{{< legacy-img src="{{< link "files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" >}}" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
+{{< legacy-img src="CDN/files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
 
 This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a).
