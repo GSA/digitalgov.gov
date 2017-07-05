@@ -21,12 +21,12 @@ tag:
   - OMB
   - SSA
   - The United States Social Security Administration
-  - U.S. Access Board
-  - U.S. Department of Education
-  - U.S. Department of Labor
-  - U.S. Department of Veterans Affairs
-  - U.S. Food and Drug Administration
-  - U.S. National Park Service
+  - US Access Board
+  - US Department of Education
+  - US Department of Labor
+  - US Department of Veterans Affairs
+  - US Food and Drug Administration
+  - US National Park Service
   - United States Department of Health and Human Services
   - United States Department of Homeland Security
   - United States Department of Transportation

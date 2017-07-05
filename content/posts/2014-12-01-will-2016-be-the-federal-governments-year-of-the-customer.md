@@ -10,7 +10,7 @@ tag:
   - Customer Experience
   - Ex-Im Bank
   - Export-Import Bank of the United States
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
 ---
 

@@ -12,7 +12,7 @@ tag:
   - NASA
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Postal Service
   - USDA
   - USPS

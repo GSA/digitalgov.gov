@@ -13,7 +13,7 @@ tag:
   - GSA
   - innovation
   - project management
-  - U.S. General Services Administration
+  - US General Services Administration
 ---
 
 One of the biggest challenges in implementing a new technology or process is change. Change creates a multitude of feelings; for some it is apprehension and uncertainty, while for others it is excitement and acceptance.

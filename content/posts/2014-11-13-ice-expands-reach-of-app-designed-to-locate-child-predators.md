@@ -11,7 +11,7 @@ tag:
   - mobile apps
   - multilingual
   - Thursday Mobile Products
-  - U.S. Immigration and Customs Enforcement
+  - US Immigration and Customs Enforcement
 ---
 
 Catching child predators? There&#8217;s an app for that, and it&#8217;s expanding its reach to Android smartphones.

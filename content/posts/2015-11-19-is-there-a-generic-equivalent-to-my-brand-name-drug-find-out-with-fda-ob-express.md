@@ -15,7 +15,7 @@ tag:
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
 ---
 
 Have you ever taken your prescription to the pharmacy, the one that you fill regularly, and the pharmacist hands you pills that have a different name and look quite different from what you regularly get? As a chemist by training, I try to curb my initial anxiety by checking out the composition. However, I have always looked for reassurance from the pharmacist that he/she has dispensed an equivalent generic drug at the direction of my doctor.

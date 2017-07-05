@@ -14,7 +14,7 @@ tag:
   - accessibility
   - SBA
   - section 508
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - usability
   - USAgov
   - user experience

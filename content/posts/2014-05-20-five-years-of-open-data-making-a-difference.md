@@ -13,7 +13,7 @@ tag:
   - DOT
   - GitHub
   - open data
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Transportation
   - USDA
 ---

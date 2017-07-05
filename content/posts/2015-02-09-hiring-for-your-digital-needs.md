@@ -10,7 +10,7 @@ categories:
 tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
 ---
 

@@ -23,7 +23,7 @@ tag:
   - National Library of Medicine
   - SSA
   - The United States Social Security Administration
-  - U.S. Department of Justice
+  - US Department of Justice
   - United States Census Bureau
   - United States Department of Housing and Urban Development
 ---

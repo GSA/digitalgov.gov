@@ -11,7 +11,7 @@ categories:
 tag:
   - open data
   - top tasks
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - usability
   - USAID
   - user experience

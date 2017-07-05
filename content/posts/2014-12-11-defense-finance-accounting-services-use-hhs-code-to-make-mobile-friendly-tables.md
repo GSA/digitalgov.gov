@@ -18,7 +18,7 @@ tag:
   - Mobile UX Guideline 1
   - responsive web design
   - Thursday Mobile Products
-  - U.S. Department of Labor
+  - US Department of Labor
   - United States Department of Health and Human Services
 ---
 

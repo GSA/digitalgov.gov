@@ -19,7 +19,7 @@ tag:
   - open and structured content models
   - open data
   - SEC
-  - U.S. Securities and Exchange Commission
+  - US Securities and Exchange Commission
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}} 

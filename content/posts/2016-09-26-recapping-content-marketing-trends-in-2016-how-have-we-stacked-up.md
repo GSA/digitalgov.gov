@@ -22,9 +22,9 @@ tag:
   - National Archives and Records Administration
   - social media
   - The Content Corner
-  - U.S. Department of the Interior
-  - U.S. Department of the Treasury
-  - U.S. Health Resources and Services Administration
+  - US Department of the Interior
+  - US Department of the Treasury
+  - US Health Resources and Services Administration
   - United States Department of Health and Human Services
   - USAJOBS
   - White House

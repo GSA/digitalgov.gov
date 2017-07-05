@@ -12,7 +12,7 @@ tag:
   - DOJ
   - Terms of Service
   - TOS
-  - U.S. Department of Justice
+  - US Department of Justice
   - usability
 ---
 

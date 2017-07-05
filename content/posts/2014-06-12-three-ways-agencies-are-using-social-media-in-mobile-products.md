@@ -21,8 +21,8 @@ tag:
   - NOAA
   - SocialGov Community
   - Trends on Tuesday
-  - U.S. Department of Agriculture
-  - U.S. Forest Service
+  - US Department of Agriculture
+  - US Forest Service
   - USDA
 ---
 

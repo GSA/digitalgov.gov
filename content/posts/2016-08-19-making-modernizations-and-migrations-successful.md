@@ -15,7 +15,7 @@ tag:
   - Modernization and Migration Management Framework
   - Office of Management and Budget
   - OMB
-  - U.S. General Services Administration
+  - US General Services Administration
   - Unified Shared Services Management
   - USSM
   - White House

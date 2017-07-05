@@ -8,7 +8,7 @@ tag:
   - Animal and Plant Health Inspection Service
   - mobile apps
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USA.gov Federal Mobile Apps Directory
   - USDA
 ---

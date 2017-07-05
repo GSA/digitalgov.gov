@@ -10,8 +10,8 @@ tag:
   - data.gov
   - DOL
   - open data
-  - U.S. Department of Agriculture
-  - U.S. Department of Labor
+  - US Department of Agriculture
+  - US Department of Labor
   - USDA
 ---
 

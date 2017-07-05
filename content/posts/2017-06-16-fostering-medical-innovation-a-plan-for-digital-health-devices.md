@@ -14,7 +14,7 @@ tag:
   - HHS
   - innovation
   - mHealth
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - United States Department of Health and Human Services
 ---
 

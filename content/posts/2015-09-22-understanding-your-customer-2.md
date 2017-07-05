@@ -12,7 +12,7 @@ tag:
   - DHS
   - HHS
   - HUD
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Health and Human Services
   - United States Department of Homeland Security
   - United States Department of Housing and Urban Development

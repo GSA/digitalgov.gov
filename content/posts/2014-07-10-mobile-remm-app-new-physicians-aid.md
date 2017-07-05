@@ -19,8 +19,8 @@ tag:
   - NRC
   - Nuclear Regulatory Commission
   - Thursday Mobile Products
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
   - United States Department of Health and Human Services
   - USA.gov Federal Mobile Apps Directory
 ---

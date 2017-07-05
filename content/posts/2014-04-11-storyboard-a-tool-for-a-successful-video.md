@@ -10,7 +10,7 @@ categories:
 tag:
   - apps challenges
   - EPA
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
 ---
 
 <span style="line-height: 1.5em;">The script is king when it comes to creating a video. Once you have the words, it’s the pictures that will tell the story.</span>

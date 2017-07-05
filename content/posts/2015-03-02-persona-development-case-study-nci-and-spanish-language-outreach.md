@@ -13,7 +13,7 @@ tag:
   - National Cancer Institute
   - NCI
   - Personas
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
   - United States Census Bureau
   - usability starter kit
   - user experience

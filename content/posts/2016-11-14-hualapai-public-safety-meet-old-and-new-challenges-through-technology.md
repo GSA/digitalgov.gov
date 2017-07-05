@@ -22,7 +22,7 @@ tag:
   - public safety
   - Tribal
   - Tribal Government
-  - U.S. National Park Service
+  - US National Park Service
   - user research
   - video
   - wireless

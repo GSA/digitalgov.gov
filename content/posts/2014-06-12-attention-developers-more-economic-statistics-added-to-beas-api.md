@@ -9,7 +9,7 @@ categories:
   - Data
 tag:
   - BEA
-  - U.S. Bureau of Economic Analysis
+  - US Bureau of Economic Analysis
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-69-Bureau-of-Economic-Analysis-BEA-logo.jpg" alt="250 x 69 Bureau of Economic Analysis BEA logo" >}}Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year.

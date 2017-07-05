@@ -8,8 +8,8 @@ categories:
   - Content
   - Managing Digital
 tag:
-  - U.S. Department of Agriculture
-  - U.S. Department of Education
+  - US Department of Agriculture
+  - US Department of Education
   - United States Department of Energy
   - White House
 ---

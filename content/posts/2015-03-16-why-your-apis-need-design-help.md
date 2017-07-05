@@ -17,7 +17,7 @@ tag:
   - FDA
   - GitHub
   - json
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - usability
   - user centered design
   - user experience

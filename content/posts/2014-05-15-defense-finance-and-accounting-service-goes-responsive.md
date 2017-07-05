@@ -17,8 +17,8 @@ tag:
   - Mobile UX Guideline 5
   - responsive web design
   - Thursday Mobile Products
-  - U.S. Department of Veterans Affairs
-  - U.S. Environmental Protection Agency
+  - US Department of Veterans Affairs
+  - US Environmental Protection Agency
   - United States Department of Defense
   - United States Department of Energy
   - United States Department of Health and Human Services

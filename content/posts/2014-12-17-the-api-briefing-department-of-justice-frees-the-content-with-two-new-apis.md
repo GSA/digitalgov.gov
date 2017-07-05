@@ -9,7 +9,7 @@ categories:
 tag:
   - Content Management System
   - DOJ
-  - U.S. Department of Justice
+  - US Department of Justice
   - Wednesday API Briefing
 ---
 

@@ -13,7 +13,7 @@ tag:
   - GobiernoUSAgov
   - multilingual
   - section 508
-  - U.S. Access Board
+  - US Access Board
   - usa.gov
 ---
 

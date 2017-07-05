@@ -14,8 +14,8 @@ tag:
   - data
   - data visualization
   - DOL
-  - U.S. Bureau of Labor Statistics
-  - U.S. Department of Labor
+  - US Bureau of Labor Statistics
+  - US Department of Labor
 ---
 
 Last spring I wrote about how we’ve been using [more and better charts and maps]({{< relref "2015-06-05-visualizing-bls-data-to-improve-understanding.md" >}}) to help you understand our statistics. Today I’m excited to tell you about a new set of graphical tools to make our news releases more illuminating at the moment of their posting.

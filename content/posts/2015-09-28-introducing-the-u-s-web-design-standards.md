@@ -11,7 +11,7 @@ categories:
   - Design
 tag:
   - 18F
-  - U.S. Digital Service
+  - US Digital Service
   - USDS
   - user experience
 ---

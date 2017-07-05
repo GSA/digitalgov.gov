@@ -14,7 +14,7 @@ tag:
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products
-  - U.S. National Park Service
+  - US National Park Service
 ---
 
 Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park falls into this category.

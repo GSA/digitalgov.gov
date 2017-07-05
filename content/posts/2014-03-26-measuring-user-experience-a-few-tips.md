@@ -9,7 +9,7 @@ categories:
   - user-testing-and-research
   - UX
 tag:
-  - A/B testing
+  - a-b-testing
   - AoI
   - Recaps
   - United States Department of Health and Human Services

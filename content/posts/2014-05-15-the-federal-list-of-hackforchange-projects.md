@@ -27,7 +27,7 @@ tag:
   - NSF
   - Peace Corps
   - SBA
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - United States Census Bureau
   - United States Department of Health and Human Services
   - United States Department of Housing and Urban Development

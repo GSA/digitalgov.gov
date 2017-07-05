@@ -17,7 +17,7 @@ tag:
   - Education
   - HUD
   - open source
-  - U.S. Department of Education
+  - US Department of Education
   - United States Department of Housing and Urban Development
 ---
 

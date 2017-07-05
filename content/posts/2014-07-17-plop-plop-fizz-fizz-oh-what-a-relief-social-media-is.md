@@ -10,7 +10,7 @@ categories:
 tag:
   - GAO
   - open source
-  - U.S. Government Accountability Office
+  - US Government Accountability Office
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-194-Pill-in-a-glass-ultramarine5-iStock-Thinkstock-153739583.jpg" alt="A pill fizzes in a glass" caption="" >}} 

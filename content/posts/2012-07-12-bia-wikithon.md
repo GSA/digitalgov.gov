@@ -13,7 +13,7 @@ tag:
   - Mobile Gov Experience
   - Tribal
   - Tribal Government
-  - U.S. Department of the Interior
+  - US Department of the Interior
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA_Wikithon_Picture_Lady_DC.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__

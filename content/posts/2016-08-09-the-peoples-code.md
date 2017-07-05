@@ -17,7 +17,7 @@ tag:
   - OMB
   - open
   - open data
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
   - White House
 ---

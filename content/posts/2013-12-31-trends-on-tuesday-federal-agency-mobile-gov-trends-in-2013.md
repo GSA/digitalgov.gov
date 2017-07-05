@@ -22,9 +22,9 @@ tag:
   - NOAA
   - responsive web design
   - Trends on Tuesday
-  - U.S. Coast Guard
-  - U.S. Department of State
-  - U.S. National Park Service
+  - US Coast Guard
+  - US Department of State
+  - US National Park Service
   - United States Department of Energy
   - United States Department of Housing and Urban Development
   - user experience

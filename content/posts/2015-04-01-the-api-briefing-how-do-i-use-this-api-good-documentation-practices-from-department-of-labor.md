@@ -8,7 +8,7 @@ categories:
   - API
 tag:
   - API
-  - U.S. Department of Labor
+  - US Department of Labor
   - Wednesday API Briefing
 ---
 

@@ -23,7 +23,7 @@ tag:
   - open and structured content models
   - structured content
   - The Content Corner
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - United States Department of Health and Human Services
 ---
 

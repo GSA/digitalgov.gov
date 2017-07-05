@@ -15,7 +15,7 @@ tag:
   - Office of Information Policy
   - OIP
   - training
-  - U.S. Department of Justice
+  - US Department of Justice
 ---
 
 > _This post was originally published on the [U.S. Department of Justice Blog](https://www.justice.gov/blogs)._

@@ -12,7 +12,7 @@ tag:
   - mobile-friendly
   - native app
   - Trends on Tuesday
-  - U.S. National Park Service
+  - US National Park Service
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" >}}

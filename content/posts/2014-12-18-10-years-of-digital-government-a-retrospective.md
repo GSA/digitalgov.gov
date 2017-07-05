@@ -24,7 +24,7 @@ tag:
   - Office of Management and Budget
   - OMB
   - SBA
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - United States Department of Health and Human Services
   - United States Geological Survey
   - USGS

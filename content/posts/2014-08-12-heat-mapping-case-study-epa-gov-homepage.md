@@ -13,7 +13,7 @@ categories:
 tag:
   - DigitalGov User Experience Program
   - EPA
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - usability
 ---
 

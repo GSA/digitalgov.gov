@@ -11,7 +11,7 @@ tag:
   - code
   - Open Opportunities program
   - open source
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
 ---
 

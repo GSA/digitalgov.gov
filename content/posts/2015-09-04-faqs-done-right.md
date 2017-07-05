@@ -11,7 +11,7 @@ tag:
   - Plain language
   - Transportation Security Administration
   - TSA
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
   - user experience
 ---

@@ -15,7 +15,7 @@ tag:
   - social media
   - SocialGov
   - The Content Corner
-  - U.S. Digital Service
+  - US Digital Service
   - United States Department of Energy
   - USDS
   - user experience

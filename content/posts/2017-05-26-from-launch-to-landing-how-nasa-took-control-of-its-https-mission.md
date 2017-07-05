@@ -17,7 +17,7 @@ tag:
   - Office of Management and Budget
   - OMB
   - security
-  - U.S. General Services Administration
+  - US General Services Administration
   - United States Department of Homeland Security
 ---
 

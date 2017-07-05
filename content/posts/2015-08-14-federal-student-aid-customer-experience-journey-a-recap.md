@@ -12,7 +12,7 @@ tag:
   - customer service
   - Federal Student Aid
   - Recaps
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-262-FSA-header.jpg" alt="U.S. Department of Education's Federal Student Aid logo and a quote that reads, Minds can achieve anything. We make sure they get to college. At Federal Student Aid, we make it easier to get money for higher education." >}}

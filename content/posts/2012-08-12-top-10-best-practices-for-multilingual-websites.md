@@ -15,7 +15,7 @@ tag:
   - LEP
   - multilingual
   - SSA
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - USAgov
 ---
 

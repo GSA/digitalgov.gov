@@ -10,7 +10,7 @@ tag:
   - API
   - EPA
   - OPM
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - United States Geological Survey
   - United States Office of Personnel Management
   - USGS

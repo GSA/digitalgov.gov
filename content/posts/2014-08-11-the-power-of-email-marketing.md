@@ -9,7 +9,7 @@ categories:
   - Metrics
   - Social Media
 tag:
-  - A/B testing
+  - a-b-testing
   - HHS
   - United States Department of Health and Human Services
 ---

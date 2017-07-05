@@ -11,8 +11,8 @@ tag:
   - ICE
   - native app
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
-  - U.S. Immigration and Customs Enforcement
+  - US Department of Agriculture
+  - US Immigration and Customs Enforcement
   - USA.gov Federal Mobile Apps Directory
   - USDA
 ---

@@ -9,8 +9,8 @@ categories:
 tag:
   - CBP
   - EPA
-  - U.S. Customs and Border Protection
-  - U.S. Environmental Protection Agency
+  - US Customs and Border Protection
+  - US Environmental Protection Agency
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}

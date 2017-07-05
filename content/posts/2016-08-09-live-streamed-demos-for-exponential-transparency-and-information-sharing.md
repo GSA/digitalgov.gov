@@ -18,7 +18,7 @@ tag:
   - Digital Audio/Video Community
   - DigitalGov University
   - EPA
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - video
 ---
 

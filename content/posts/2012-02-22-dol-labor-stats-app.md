@@ -10,7 +10,7 @@ tag:
   - DOL
   - mobile apps
   - Mobile Gov Experience
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._

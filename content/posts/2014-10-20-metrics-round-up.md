@@ -15,9 +15,9 @@ tag:
   - NPS
   - open data
   - social media metrics
-  - U.S. Environmental Protection Agency
-  - U.S. Government Accountability Office
-  - U.S. National Park Service
+  - US Environmental Protection Agency
+  - US Government Accountability Office
+  - US National Park Service
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-410-Tablet-PC-with-business-documents-Violka08-iStock-Thinkstock-463116981.jpg" alt="Tablet PC with business documents" caption="" >}} 

@@ -9,8 +9,8 @@ categories:
 tag:
   - DigitalGov Summit
   - DOJ
-  - U.S. Department of Agriculture
-  - U.S. Department of Justice
+  - US Department of Agriculture
+  - US Department of Justice
   - United States Department of Energy
   - USDA
 ---

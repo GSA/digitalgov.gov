@@ -33,11 +33,11 @@ tag:
   - SSA
   - structured content
   - The United States Social Security Administration
-  - U.S. Department of Agriculture
-  - U.S. Department of Education
-  - U.S. Department of Labor
-  - U.S. Food and Drug Administration
-  - U.S. Securities and Exchange Commission
+  - US Department of Agriculture
+  - US Department of Education
+  - US Department of Labor
+  - US Food and Drug Administration
+  - US Securities and Exchange Commission
   - United States Census Bureau
   - USDA
 ---

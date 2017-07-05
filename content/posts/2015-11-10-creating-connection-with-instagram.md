@@ -13,7 +13,7 @@ tag:
   - NIH
   - Transportation Security Administration
   - TSA
-  - U.S. Department of the Interior
+  - US Department of the Interior
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-425-Vintage-old-camera-on-wooden-table-beerlogoff-iStock-Thinkstock-484377307.jpg" alt="Vintage camera in an orange case on wooden table" caption="" >}} 

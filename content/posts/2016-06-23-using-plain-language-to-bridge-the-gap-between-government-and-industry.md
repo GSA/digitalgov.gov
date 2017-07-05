@@ -16,7 +16,7 @@ tag:
   - GSA
   - IT Schedule 70
   - Plain language
-  - U.S. General Services Administration
+  - US General Services Administration
   - user experience
 ---
 

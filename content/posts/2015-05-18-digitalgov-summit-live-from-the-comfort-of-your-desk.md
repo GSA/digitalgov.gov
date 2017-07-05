@@ -16,8 +16,8 @@ tag:
   - Internal Revenue Service
   - IRS
   - open and structured content models
-  - U.S. Citizenship and Immigration Service
-  - U.S. Department of Agriculture
+  - US Citizenship and Immigration Service
+  - US Department of Agriculture
   - United States Department of Health and Human Services
   - USCIS
   - USDA

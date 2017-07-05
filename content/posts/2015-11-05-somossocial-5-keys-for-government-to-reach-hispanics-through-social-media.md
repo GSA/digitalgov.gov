@@ -22,7 +22,7 @@ tag:
   - SBA
   - social media
   - Twitter
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - usa.gov
   - USAgov
 ---

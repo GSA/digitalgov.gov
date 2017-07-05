@@ -20,8 +20,8 @@ tag:
   - GitHub
   - Recaps
   - SBA
-  - U.S. Department of Labor
-  - U.S. Small Business Administration
+  - US Department of Labor
+  - US Small Business Administration
   - White House Office of Science and Technology Policy
 ---
 

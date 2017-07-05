@@ -12,7 +12,7 @@ tag:
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
 ---
 

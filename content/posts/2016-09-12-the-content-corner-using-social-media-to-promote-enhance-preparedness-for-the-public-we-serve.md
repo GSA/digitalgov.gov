@@ -23,7 +23,7 @@ tag:
   - NWS
   - social media
   - The Content Corner
-  - U.S. Digital Registry
+  - US Digital Registry
   - USA.gov Federal Mobile Apps Directory
 ---
 

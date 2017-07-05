@@ -15,7 +15,7 @@ tag:
   - code
   - Draft Web Design Standards
   - open source
-  - U.S. Digital Service
+  - US Digital Service
   - user experience
   - UX
 ---

@@ -14,7 +14,7 @@ tag:
   - mobile apps
   - native app
   - Thursday Mobile Products
-  - U.S. Immigration and Customs Enforcement
+  - US Immigration and Customs Enforcement
   - USA.gov Federal Mobile Apps Directory
 ---
 

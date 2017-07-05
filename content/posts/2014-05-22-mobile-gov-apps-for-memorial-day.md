@@ -9,7 +9,7 @@ tag:
   - Arlington National Cemetery
   - mobile apps
   - Thursday Mobile Products
-  - U.S. National Park Service
+  - US National Park Service
 ---
 
 Memorial Day is Monday and we wanted to let you know about some mobile products available for the holiday. As you&#8217;re visiting Arlington National Cemetery, Pointe du Hoc or the National Mall this Memorial Day to pay your respects to our fallen military service members, there are three mobile apps that will provide you with in-depth information about your visit.

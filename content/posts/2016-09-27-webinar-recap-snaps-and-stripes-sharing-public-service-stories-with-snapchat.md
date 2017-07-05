@@ -30,7 +30,7 @@ tag:
   - section 508
   - Smithsonian Institution
   - social media
-  - U.S. General Services Administration
+  - US General Services Administration
   - USAgov
   - user experience
   - UX

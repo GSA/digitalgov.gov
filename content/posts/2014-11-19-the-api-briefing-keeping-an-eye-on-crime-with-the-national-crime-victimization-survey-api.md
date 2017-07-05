@@ -8,7 +8,7 @@ categories:
   - API
 tag:
   - Bureau of Justice Statistics
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

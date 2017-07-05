@@ -32,17 +32,17 @@ tag:
   - SBA
   - SSA
   - The United States Social Security Administration
-  - U.S. Agency for International Development
-  - U.S. Department of Agriculture
-  - U.S. Department of Education
-  - U.S. Department of Justice
-  - U.S. Department of Labor
-  - U.S. Department of State
-  - U.S. Department of the Interior
-  - U.S. Department of the Treasury
-  - U.S. Department of Veterans Affairs
-  - U.S. Environmental Protection Agency
-  - U.S. Small Business Administration
+  - US Agency for International Development
+  - US Department of Agriculture
+  - US Department of Education
+  - US Department of Justice
+  - US Department of Labor
+  - US Department of State
+  - US Department of the Interior
+  - US Department of the Treasury
+  - US Department of Veterans Affairs
+  - US Environmental Protection Agency
+  - US Small Business Administration
   - United States Department of Defense
   - United States Department of Energy
   - United States Department of Health and Human Services

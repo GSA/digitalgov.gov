@@ -18,7 +18,7 @@ tag:
   - open data
   - open source
   - The Data Briefing
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - United States Department of Homeland Security
   - United States Patent and Trademark Office
   - USPTO

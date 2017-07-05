@@ -12,8 +12,8 @@ tag:
   - Facebook
   - National Resources Conservation Service
   - Twitter
-  - U.S. Department of Agriculture
-  - U.S. Department of the Interior
+  - US Department of Agriculture
+  - US Department of the Interior
   - USDA
   - YouTube
 ---

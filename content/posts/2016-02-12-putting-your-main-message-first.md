@@ -10,7 +10,7 @@ categories:
 tag:
   - Plain language
   - Plain Language Community of Practice
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
 ---
 

@@ -13,7 +13,7 @@ tag:
   - content strategy
   - DHS
   - social media
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - United States Department of Homeland Security
   - USCIS
 ---

@@ -10,7 +10,7 @@ categories:
 tag:
   - API
   - Federal Reserve Board
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

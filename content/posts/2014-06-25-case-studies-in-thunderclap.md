@@ -12,8 +12,8 @@ tag:
   - HHS
   - Recaps
   - SocialGov Community
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
   - United States Department of Health and Human Services
 ---
 

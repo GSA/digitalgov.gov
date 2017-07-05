@@ -8,8 +8,8 @@ categories:
   - Governance
 tag:
   - GSA
-  - U.S. Department of Education
-  - U.S. Department of Veterans Affairs
+  - US Department of Education
+  - US Department of Veterans Affairs
   - USDA
 ---
 

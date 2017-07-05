@@ -14,7 +14,7 @@ tag:
   - 18F
   - Customer Experience
   - Digital Services Playbook
-  - U.S. Digital Service
+  - US Digital Service
   - USDS
 ---
 

@@ -16,7 +16,7 @@ tag:
   - mobile apps
   - NPS
   - social media
-  - U.S. National Park Service
+  - US National Park Service
   - user experience
   - Virtual/Augmented Reality Community
 ---

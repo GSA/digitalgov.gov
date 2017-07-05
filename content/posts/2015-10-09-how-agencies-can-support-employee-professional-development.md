@@ -12,8 +12,8 @@ tag:
   - Open Opportunities program
   - Transportation Security Administration
   - TSA
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
+  - US Department of Agriculture
+  - US Environmental Protection Agency
   - United States Department of Transportation
   - USDA
 ---

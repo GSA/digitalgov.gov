@@ -31,11 +31,11 @@ tag:
   - open government
   - OSTP
   - SBA
-  - U.S. Agency for International Development
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
-  - U.S. General Services Administration
-  - U.S. Small Business Administration
+  - US Agency for International Development
+  - US Department of Agriculture
+  - US Environmental Protection Agency
+  - US General Services Administration
+  - US Small Business Administration
   - USAID
   - USDA
   - White House

@@ -11,7 +11,7 @@ tag:
   - agile
   - Agile/Lean Community of Practice
   - GSA
-  - U.S. General Services Administration
+  - US General Services Administration
   - USAgov
 ---
 

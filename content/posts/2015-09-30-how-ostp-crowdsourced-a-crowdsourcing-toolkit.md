@@ -22,7 +22,7 @@ tag:
   - section 508
   - Sites
   - sitesusagov
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
   - White House Office of Science and Technology Policy
 ---

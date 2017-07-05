@@ -14,7 +14,7 @@ tag:
   - Mobile UX Guideline 5
   - open source
   - Peace Corps
-  - U.S. Digital Service
+  - US Digital Service
   - USDS
 ---
 

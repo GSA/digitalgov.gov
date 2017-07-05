@@ -8,7 +8,7 @@ categories:
   - UX
 tag:
   - DOS
-  - U.S. Department of State
+  - US Department of State
   - user experience
   - UX
 ---

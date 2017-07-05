@@ -13,7 +13,7 @@ tag:
   - innovation
   - Technology Transformation Service
   - TTS
-  - U.S. General Services Administration
+  - US General Services Administration
   - USDS
 ---
 

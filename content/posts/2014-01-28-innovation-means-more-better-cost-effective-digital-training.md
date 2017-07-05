@@ -15,8 +15,8 @@ tag:
   - FAFSA
   - NASA
   - SocialGov
-  - U.S. Department of Education
-  - U.S. Department of State
+  - US Department of Education
+  - US Department of State
   - United States Army
   - United States Department of Defense
 ---

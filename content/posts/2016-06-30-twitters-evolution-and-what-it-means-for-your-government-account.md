@@ -10,8 +10,8 @@ categories:
   - Social Media
 tag:
   - social media
-  - U.S. Citizenship and Immigration Service
-  - U.S. Immigration and Customs Enforcement
+  - US Citizenship and Immigration Service
+  - US Immigration and Customs Enforcement
   - USCIS
 ---
 

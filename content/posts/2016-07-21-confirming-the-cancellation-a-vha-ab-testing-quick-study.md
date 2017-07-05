@@ -8,10 +8,10 @@ categories:
   - user-testing-and-research
   - UX
 tag:
-  - A/B testing
+  - a-b-testing
   - quick study
   - research
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - usability case study
   - usability testing
   - user centered design

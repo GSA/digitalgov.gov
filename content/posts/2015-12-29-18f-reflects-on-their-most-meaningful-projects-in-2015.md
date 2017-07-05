@@ -25,11 +25,11 @@ tag:
   - OMB
   - open data
   - OSTP
-  - U.S. Citizenship and Immigration Service
-  - U.S. Department of Education
-  - U.S. Department of the Interior
-  - U.S. Department of the Treasury
-  - U.S. Digital Service
+  - US Citizenship and Immigration Service
+  - US Department of Education
+  - US Department of the Interior
+  - US Department of the Treasury
+  - US Digital Service
   - United States Air Force
   - USCIS
   - USDS

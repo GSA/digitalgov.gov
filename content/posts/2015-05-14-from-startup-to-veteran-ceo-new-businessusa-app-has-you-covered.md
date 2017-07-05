@@ -11,7 +11,7 @@ tag:
   - mobile apps
   - SBA
   - Thursday Mobile Products
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - USA.gov Federal Mobile Apps Directory
 ---
 

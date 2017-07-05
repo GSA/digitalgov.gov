@@ -18,7 +18,7 @@ tag:
   - innovation
   - multilingual
   - social media
-  - U.S. Digital Registry
+  - US Digital Registry
   - virtual reality
   - Virtual/Augmented Reality Community
 ---

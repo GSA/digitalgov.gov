@@ -10,7 +10,7 @@ categories:
   - Mobile
 tag:
   - API
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

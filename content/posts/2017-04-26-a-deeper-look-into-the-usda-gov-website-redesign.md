@@ -15,7 +15,7 @@ tag:
   - architecture
   - content
   - mobile-friendly
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - US Web Design Standards
   - USDA
 ---

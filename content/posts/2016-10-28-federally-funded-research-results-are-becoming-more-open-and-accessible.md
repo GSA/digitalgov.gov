@@ -28,10 +28,10 @@ tag:
   - open government
   - OSTP
   - research
-  - U.S. Department of Agriculture
-  - U.S. Department of Education
-  - U.S. Department of Veterans Affairs
-  - U.S. Environmental Protection Agency
+  - US Department of Agriculture
+  - US Department of Education
+  - US Department of Veterans Affairs
+  - US Environmental Protection Agency
   - United States Department of Defense
   - United States Department of Energy
   - United States Department of Transportation

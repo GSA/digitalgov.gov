@@ -10,7 +10,7 @@ tag:
   - SocialGov Community
   - State
   - TOS
-  - U.S. Department of State
+  - US Department of State
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}

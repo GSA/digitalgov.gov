@@ -16,7 +16,7 @@ tag:
   - mobile apps
   - National Oceanic and Atmospheric Administration
   - NOAA
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - United States Census Bureau
 ---
 

@@ -13,7 +13,7 @@ tag:
   - mobile gov
   - Recaps
   - responsive web design
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 <p dir="ltr" style="text-align: center">

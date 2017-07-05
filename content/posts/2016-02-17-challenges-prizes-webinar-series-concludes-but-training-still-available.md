@@ -13,7 +13,7 @@ tag:
   - HUD
   - NASA
   - Recaps
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - United States Department of Energy
   - United States Department of Health and Human Services
   - United States Department of Housing and Urban Development

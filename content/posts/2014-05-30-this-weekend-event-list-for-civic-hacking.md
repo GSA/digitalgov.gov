@@ -32,9 +32,9 @@ tag:
   - NREL
   - NSF
   - Smithsonian Institution
-  - U.S. Department of Education
-  - U.S. Department of Labor
-  - U.S. Environmental Protection Agency
+  - US Department of Education
+  - US Department of Labor
+  - US Environmental Protection Agency
   - United States Census Bureau
   - United States Department of Health and Human Services
   - United States Department of Housing and Urban Development

@@ -11,7 +11,7 @@ tag:
   - Customer Experience
   - FAFSA
   - FSA
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" >}}

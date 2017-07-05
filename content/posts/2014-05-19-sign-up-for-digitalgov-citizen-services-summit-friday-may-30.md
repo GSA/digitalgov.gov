@@ -26,10 +26,10 @@ tag:
   - Federal Communications Commission
   - GAO
   - SBA
-  - U.S. Department of Labor
-  - U.S. Environmental Protection Agency
-  - U.S. Government Accountability Office
-  - U.S. Small Business Administration
+  - US Department of Labor
+  - US Environmental Protection Agency
+  - US Government Accountability Office
+  - US Small Business Administration
 ---
 
 We won’t build the government of the 21st century by [drawing within the lines]({{< relref "2014-05-07-because-its-hard.md" >}}).

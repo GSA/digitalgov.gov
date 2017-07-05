@@ -10,7 +10,7 @@ categories:
 tag:
   - API
   - OPM
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Office of Personnel Management
   - USDA
   - Wednesday API Briefing

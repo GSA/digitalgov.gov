@@ -58,7 +58,7 @@ tag:
   - Technology Transformation Service
   - training
   - TTS
-  - U.S. General Services Administration
+  - US General Services Administration
   - virtual reality
   - Virtual/Augmented Reality Community
   - webinar

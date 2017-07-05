@@ -9,7 +9,7 @@ categories:
 tag:
   - API
   - Internet of things
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

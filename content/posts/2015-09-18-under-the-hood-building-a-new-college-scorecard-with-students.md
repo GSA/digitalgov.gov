@@ -14,8 +14,8 @@ tag:
   - data
   - open data
   - prototype
-  - U.S. Department of Education
-  - U.S. Digital Service
+  - US Department of Education
+  - US Digital Service
   - user experience
 ---
 

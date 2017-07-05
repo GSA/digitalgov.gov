@@ -10,8 +10,8 @@ categories:
   - UX
 tag:
   - BLS
-  - U.S. Bureau of Labor Statistics
-  - U.S. Department of Labor
+  - US Bureau of Labor Statistics
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-kids-usability-testing.jpg" alt="Young kids at computers" >}}The Bureau of Labor Statistics (BLS) recently created a new Web page made especially for students, so who better to give it a test run than children attending “[Take Your Daughters and Sons to Work Day](http://www.daughtersandsonstowork.org/wmspage7d10.html?parm1=936)”?

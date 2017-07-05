@@ -24,10 +24,10 @@ tag:
   - SocialGov Community
   - Terms of Service
   - TOS
-  - U.S. Department of the Interior
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
-  - U.S. Government Accountability Office
+  - US Department of the Interior
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
+  - US Government Accountability Office
   - United States Department of Health and Human Services
 ---
 

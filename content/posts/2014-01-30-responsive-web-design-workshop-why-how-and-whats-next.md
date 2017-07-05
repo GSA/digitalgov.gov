@@ -13,7 +13,7 @@ tag:
   - NCI
   - NIH
   - responsive web design
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 <p dir="ltr">

@@ -12,8 +12,8 @@ tag:
   - Open Opportunities program
   - SSA
   - The United States Social Security Administration
-  - U.S. Department of Agriculture
-  - U.S. Food and Drug Administration
+  - US Department of Agriculture
+  - US Food and Drug Administration
   - USDA
 ---
 

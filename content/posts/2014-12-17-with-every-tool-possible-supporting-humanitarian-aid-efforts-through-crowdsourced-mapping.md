@@ -13,7 +13,7 @@ tag:
   - Humanitarian Information Unit
   - open data
   - Peace Corps
-  - U.S. Department of State
+  - US Department of State
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}

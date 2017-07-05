@@ -20,7 +20,7 @@ tag:
   - mobile
   - open and structured content models
   - responsive web design
-  - U.S. Department of Labor
+  - US Department of Labor
   - user experience
 ---
 

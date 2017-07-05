@@ -10,10 +10,10 @@ tag:
   - BLS
   - Census
   - SEC
-  - U.S. Bureau of Labor Statistics
-  - U.S. Department of Agriculture
-  - U.S. Department of the Treasury
-  - U.S. Securities and Exchange Commission
+  - US Bureau of Labor Statistics
+  - US Department of Agriculture
+  - US Department of the Treasury
+  - US Securities and Exchange Commission
   - United States Census Bureau
   - USDA
   - Wednesday API Briefing

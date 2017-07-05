@@ -13,7 +13,7 @@ tag:
   - Mobile UX Guideline 5
   - NPS
   - Trends on Tuesday
-  - U.S. National Park Service
+  - US National Park Service
   - United States Department of Energy
   - United States Postal Service
   - USPS

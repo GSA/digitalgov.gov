@@ -14,9 +14,9 @@ tag:
   - OSHA
   - SAMHSA
   - Thursday Mobile Products
-  - U.S. Coast Guard
-  - U.S. Department of Veterans Affairs
-  - U.S. Small Business Administration
+  - US Coast Guard
+  - US Department of Veterans Affairs
+  - US Small Business Administration
   - USA.gov Federal Mobile Apps Directory
 ---
 

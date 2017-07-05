@@ -21,7 +21,7 @@ tag:
   - NARA
   - NASA
   - National Archives and Records Administration
-  - U.S. Department of State
+  - US Department of State
   - United States Department of Health and Human Services
   - United States Department of Homeland Security
   - United States Department of Housing and Urban Development

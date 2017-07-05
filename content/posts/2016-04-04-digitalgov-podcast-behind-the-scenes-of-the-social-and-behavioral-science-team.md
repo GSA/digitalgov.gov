@@ -10,7 +10,7 @@ categories:
 tag:
   - GSA
   - Social and Behavioral Sciences Team
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - user centered design
   - user experience

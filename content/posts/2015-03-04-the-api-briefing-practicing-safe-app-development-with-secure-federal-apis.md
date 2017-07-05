@@ -10,7 +10,7 @@ tag:
   - API
   - API keys
   - security
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

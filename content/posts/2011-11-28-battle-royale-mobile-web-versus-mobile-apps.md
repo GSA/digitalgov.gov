@@ -12,7 +12,7 @@ tag:
   - mobile apps
   - mobile gov
   - TSA
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2011/11/250-x-167-Stuart-Barr\_Fighting-Topis\_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo from flickr of two Topis (antelopes) fighting, head-butting each other" caption="" >}} 

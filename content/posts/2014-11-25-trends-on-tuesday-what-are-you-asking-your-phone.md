@@ -11,7 +11,7 @@ tag:
   - Mobile User Experience Guidelines
   - Mobile UX Guideline 5
   - Trends on Tuesday
-  - U.S. Department of the Interior
+  - US Department of the Interior
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-450-Man-looking-at-cell-phone-Ron-Chapple-Stock-Ron-Chapple-Studios-Thinkstock-126472230.jpg" alt="Man looking at cell phone" caption="" >}} 

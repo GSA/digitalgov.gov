@@ -12,7 +12,7 @@ tag:
   - mobile apps
   - mobile gov community of practice
   - NIH
-  - U.S. Department of Labor
+  - US Department of Labor
   - user experience
   - UX
 ---

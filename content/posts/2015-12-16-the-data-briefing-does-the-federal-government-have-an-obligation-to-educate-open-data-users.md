@@ -14,7 +14,7 @@ tag:
   - HHS
   - open data
   - The Data Briefing
-  - U.S. Department of Labor
+  - US Department of Labor
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office
   - USPTO

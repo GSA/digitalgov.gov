@@ -20,7 +20,7 @@ tag:
   - open and structured content models
   - Recaps
   - SEC
-  - U.S. Securities and Exchange Commission
+  - US Securities and Exchange Commission
   - United States Department of Health and Human Services
 ---
 

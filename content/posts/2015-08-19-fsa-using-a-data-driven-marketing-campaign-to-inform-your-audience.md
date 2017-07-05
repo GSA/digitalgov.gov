@@ -9,7 +9,7 @@ categories:
 tag:
   - FAFSA
   - Federal Student Aid
-  - U.S. Department of Education
+  - US Department of Education
   - YouTube
 ---
 

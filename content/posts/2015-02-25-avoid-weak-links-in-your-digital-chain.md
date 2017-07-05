@@ -16,9 +16,9 @@ tag:
   - GSA
   - Plain language
   - search engine optimization
-  - U.S. Department of Labor
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
+  - US Department of Labor
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
   - usability
   - usability testing
   - user experience

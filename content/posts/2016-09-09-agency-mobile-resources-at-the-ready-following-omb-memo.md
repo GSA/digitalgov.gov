@@ -19,7 +19,7 @@ tag:
   - mobile gov
   - Office of Management and Budget
   - OMB
-  - U.S. General Services Administration
+  - US General Services Administration
   - wireless
 ---
 

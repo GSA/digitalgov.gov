@@ -13,7 +13,7 @@ tag:
   - data
   - GitHub
   - National Weather Service
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-135-labor-data-sets.jpg" alt="Data set icons from the US Department of Labor's Developer Portal; a maroon plus sign, a green bank icon, a blue bar chart and a purple question mark" >}}

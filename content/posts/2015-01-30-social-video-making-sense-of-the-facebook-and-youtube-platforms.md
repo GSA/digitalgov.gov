@@ -12,7 +12,7 @@ tag:
   - Broadcasting Board of Governors
   - DOI
   - Facebook
-  - U.S. Department of the Interior
+  - US Department of the Interior
   - YouTube
 ---
 

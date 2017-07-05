@@ -13,8 +13,8 @@ tag:
   - DOJ
   - NASA
   - section 508
-  - U.S. Department of Justice
-  - U.S. Department of Veterans Affairs
+  - US Department of Justice
+  - US Department of Veterans Affairs
   - VA
   - YouTube
 ---

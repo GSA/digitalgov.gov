@@ -9,7 +9,7 @@ tag:
   - mobile gov
   - responsive web design
   - Thursday Mobile Products
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 Money for college? It&#8217;s never too early &#8212; or too late, for that matter &#8212; to start schooling oneself in the possibilities of federal financial aid.

@@ -16,7 +16,7 @@ tag:
   - FSA
   - GSA
   - Personas
-  - U.S. Department of the Treasury
+  - US Department of the Treasury
   - usa.gov
 ---
 

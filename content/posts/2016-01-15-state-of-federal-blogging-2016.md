@@ -10,7 +10,7 @@ tag:
   - blog
   - FWS
   - NASA
-  - U.S. Department of the Interior
+  - US Department of the Interior
   - US Fish and Wildlife Service
   - White House
 ---

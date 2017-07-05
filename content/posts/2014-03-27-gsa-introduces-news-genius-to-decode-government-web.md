@@ -12,7 +12,7 @@ tag:
   - Internet of things
   - mobile gov
   - SocialGov
-  - U.S. Small Business Administration
+  - US Small Business Administration
 ---
 
 <p dir="ltr" style="text-align: center;">

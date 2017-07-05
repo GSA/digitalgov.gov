@@ -12,7 +12,7 @@ tag:
   - Mobile App Development Program
   - mobile apps
   - Trends on Tuesday
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." caption="" >}} 

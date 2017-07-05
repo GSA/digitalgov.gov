@@ -13,7 +13,7 @@ tag:
   - GSA
   - open data
   - Terms of Service
-  - U.S. Department of State
+  - US Department of State
   - United States Department of Energy
   - user experience
 ---

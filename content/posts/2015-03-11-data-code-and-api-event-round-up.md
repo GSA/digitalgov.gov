@@ -25,7 +25,7 @@ tag:
   - open data
   - Recaps
   - responsive web design
-  - U.S. Department of State
+  - US Department of State
   - White House
 ---
 

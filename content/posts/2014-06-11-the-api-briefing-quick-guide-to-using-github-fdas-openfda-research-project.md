@@ -13,7 +13,7 @@ tag:
   - GitHub
   - open source
   - OPM
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - United States Office of Personnel Management
   - Wednesday API Briefing
 ---

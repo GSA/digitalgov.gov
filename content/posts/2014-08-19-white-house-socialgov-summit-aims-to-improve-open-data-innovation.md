@@ -13,8 +13,8 @@ tag:
   - open data
   - Recaps
   - SocialGov Community
-  - U.S. Department of Labor
-  - U.S. Department of State
+  - US Department of Labor
+  - US Department of State
   - World Bank
 ---
 

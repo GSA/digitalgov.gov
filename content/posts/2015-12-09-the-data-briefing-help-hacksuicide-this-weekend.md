@@ -14,7 +14,7 @@ tag:
   - mobile apps
   - open data
   - The Data Briefing
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - United States Patent and Trademark Office
   - USPTO
 ---

@@ -10,7 +10,7 @@ tag:
   - data
   - EPA
   - open data
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-412-Blue-world-in-the-hand-Usa-RomoloTavani-iStock-Thinkstock-168721833.jpg" alt="A pair of hands hold a blue globe showing the Western Hemisphere of the Americas, over a background of sparkling water." caption="" >}} 

@@ -16,9 +16,9 @@ tag:
   - National Institute of Justice
   - NPS
   - OSTP
-  - U.S. Department of Education
-  - U.S. Environmental Protection Agency
-  - U.S. National Park Service
+  - US Department of Education
+  - US Environmental Protection Agency
+  - US National Park Service
   - United States Geological Survey
   - USGS
   - White House

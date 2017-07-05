@@ -16,7 +16,7 @@ tag:
   - NASA
   - SBA
   - sitesusagov
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - United States Department of Energy
   - United States Department of Health and Human Services
 ---

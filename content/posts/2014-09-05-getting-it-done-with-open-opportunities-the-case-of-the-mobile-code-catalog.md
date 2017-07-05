@@ -15,8 +15,8 @@ tag:
   - NPS
   - Open Opportunities program
   - open source
-  - U.S. Department of Labor
-  - U.S. National Park Service
+  - US Department of Labor
+  - US National Park Service
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" caption="" >}} 

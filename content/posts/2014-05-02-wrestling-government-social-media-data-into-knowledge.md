@@ -10,7 +10,7 @@ tag:
   - DOL
   - social media
   - SocialGov Community
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-Alison-Lemon.jpg" alt="Alison Lemon" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-600-Alison-Lemon.jpg)This week the [**SocialGov Community**]({{< relref "social-media.md" >}}) took the step of recruiting a **Digital Engagement Knowledge Manager**, and I am excited to join the team through [the innovative new Open Opportunities Program](http://gsablogs.gsa.gov/dsic/2014/04/08/knowledge-manager-for-federal-wide-digital-engagement/). At this point, though, you may be asking—is there really so much information out there that it needs to be managed?

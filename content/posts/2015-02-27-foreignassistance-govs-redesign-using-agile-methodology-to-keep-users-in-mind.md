@@ -11,7 +11,7 @@ tag:
   - agile
   - Office of the U.S. Foreign Assistance Resources
   - Personas
-  - U.S. Department of State
+  - US Department of State
   - user experience
 ---
 

@@ -27,7 +27,7 @@ tag:
   - sms
   - social media
   - Thursday Mobile Products
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
   - White House
 ---

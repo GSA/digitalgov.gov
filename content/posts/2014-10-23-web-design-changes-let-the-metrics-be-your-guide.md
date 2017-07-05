@@ -19,8 +19,8 @@ tag:
   - National Institutes of Health
   - NIH
   - responsive web design
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
+  - US Department of Agriculture
+  - US Environmental Protection Agency
   - USDA
 ---
 

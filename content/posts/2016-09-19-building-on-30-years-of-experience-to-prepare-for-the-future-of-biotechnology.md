@@ -16,9 +16,9 @@ tag:
   - FDA
   - Federal Register
   - OSTP
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
+  - US Department of Agriculture
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
   - USDA
   - White House
   - White House Office of Science and Technology Policy

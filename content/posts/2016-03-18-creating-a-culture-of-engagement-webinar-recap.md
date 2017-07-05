@@ -14,8 +14,8 @@ tag:
   - HUD
   - OPM
   - Recaps
-  - U.S. Bureau of Engraving and Printing
-  - U.S. Department of Labor
+  - US Bureau of Engraving and Printing
+  - US Department of Labor
   - United States Department of Housing and Urban Development
   - United States Office of Personnel Management
 ---

@@ -12,7 +12,7 @@ tag:
   - NPS
   - social media
   - Twitter
-  - U.S. National Park Service
+  - US National Park Service
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}

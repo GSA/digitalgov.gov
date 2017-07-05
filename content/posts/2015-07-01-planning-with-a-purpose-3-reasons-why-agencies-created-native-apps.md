@@ -20,7 +20,7 @@ tag:
   - National Oceanic and Atmospheric Administration
   - native apps
   - NOAA
-  - U.S. Immigration and Customs Enforcement
+  - US Immigration and Customs Enforcement
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

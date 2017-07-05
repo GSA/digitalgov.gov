@@ -12,7 +12,7 @@ tag:
   - Census
   - Centers for Disease Control and Prevention
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Census Bureau
   - USAgov
   - USDA

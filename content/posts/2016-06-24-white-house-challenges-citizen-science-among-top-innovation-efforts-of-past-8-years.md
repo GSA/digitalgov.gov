@@ -17,7 +17,7 @@ tag:
   - crowdsourcing
   - GSA
   - innovation
-  - U.S. General Services Administration
+  - US General Services Administration
   - White House
 ---
 

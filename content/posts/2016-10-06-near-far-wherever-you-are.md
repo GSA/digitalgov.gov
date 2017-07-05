@@ -23,8 +23,8 @@ tag:
   - Office of Governmentwide Policy
   - OGP
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
-  - U.S. General Services Administration
+  - US Department of Agriculture
+  - US General Services Administration
 ---
 
 The U.S. General Services Administration (GSA) made history today by releasing the first ever iBook version of the [Federal Acquisition Regulation](http://www.gsa.gov/portal/content/101126) (FAR). And while a tome about the complex rules governing the federal government’s purchasing process may not sound like a bestseller, the FAR is essential reading not just for federal contracting officers and federal contractors, but owners of small (and large) businesses, too.

@@ -14,9 +14,9 @@ tag:
   - NASA
   - NPS
   - The Data Briefing
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
-  - U.S. National Park Service
+  - US Department of Agriculture
+  - US Environmental Protection Agency
+  - US National Park Service
   - USDA
 ---
 

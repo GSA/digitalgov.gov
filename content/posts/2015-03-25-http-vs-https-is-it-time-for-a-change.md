@@ -12,7 +12,7 @@ tag:
   - HTTPS
   - privacy
   - security
-  - U.S. Department of State
+  - US Department of State
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}} 

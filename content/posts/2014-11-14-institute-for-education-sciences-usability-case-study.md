@@ -11,7 +11,7 @@ tag:
   - IES
   - Institute for Education Sciences
   - Plain language
-  - U.S. Department of Education
+  - US Department of Education
   - usability case study
   - user experience
   - UX

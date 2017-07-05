@@ -18,7 +18,7 @@ tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
   - open data
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - United States Census Bureau
 ---
 

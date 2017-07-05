@@ -10,7 +10,7 @@ categories:
 tag:
   - BLS
   - prototype
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
   - usability testing
   - user experience
 ---

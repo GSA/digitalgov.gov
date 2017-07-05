@@ -13,7 +13,7 @@ tag:
   - 'Occupational Safety &amp; Health Administration'
   - open data
   - OSHA
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/400-x-317-pulsifer-Safety-and-Transparency-Through-Data-Quarry-API-Labor-DOL.jpg" alt="The Department of Labor's Quarry API seen on the screens of various devices" >}}

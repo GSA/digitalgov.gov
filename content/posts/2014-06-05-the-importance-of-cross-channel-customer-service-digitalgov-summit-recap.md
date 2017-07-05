@@ -20,7 +20,7 @@ tag:
   - HHS
   - NCI
   - Recaps
-  - U.S. Department of Education
+  - US Department of Education
   - United States Department of Health and Human Services
 ---
 

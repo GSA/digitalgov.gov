@@ -10,8 +10,8 @@ categories:
 tag:
   - challenges and prize competitions
   - EPA
-  - U.S. Agency for International Development
-  - U.S. Environmental Protection Agency
+  - US Agency for International Development
+  - US Environmental Protection Agency
   - USAID
 ---
 

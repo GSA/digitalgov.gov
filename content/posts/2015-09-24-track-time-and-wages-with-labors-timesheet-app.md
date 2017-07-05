@@ -13,7 +13,7 @@ tag:
   - SSA
   - The United States Social Security Administration
   - Thursday Mobile Products
-  - U.S. Department of Labor
+  - US Department of Labor
   - USA.gov Federal Mobile Apps Directory
 ---
 

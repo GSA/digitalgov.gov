@@ -20,8 +20,8 @@ tag:
   - The Data Briefing
   - Transportation Security Administration
   - TSA
-  - U.S. Department of Education
-  - U.S. Department of Labor
+  - US Department of Education
+  - US Department of Labor
   - United States Department of Energy
   - United States Patent and Trademark Office
   - USA.gov Federal Mobile Apps Directory

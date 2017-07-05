@@ -12,8 +12,8 @@ tag:
   - GobiernoUSAgov
   - multilingual
   - State
-  - U.S. Citizenship and Immigration Service
-  - U.S. Department of State
+  - US Citizenship and Immigration Service
+  - US Department of State
   - USCIS
 ---
 

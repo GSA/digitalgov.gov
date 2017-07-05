@@ -9,7 +9,7 @@ categories:
 tag:
   - HHS
   - Personas
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Health and Human Services
   - USDA
   - UX

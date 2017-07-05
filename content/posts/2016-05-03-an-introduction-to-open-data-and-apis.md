@@ -15,7 +15,7 @@ tag:
   - data.gov
   - open data
   - Recaps
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
 ---
 

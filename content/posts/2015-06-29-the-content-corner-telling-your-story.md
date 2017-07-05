@@ -9,7 +9,7 @@ categories:
 tag:
   - Administrative Office of the United States Courts
   - The Content Corner
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" alt="The word Story in wooded type" caption="" >}} 

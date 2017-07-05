@@ -8,7 +8,7 @@ categories:
   - Challenges
 tag:
   - Recaps
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - USAID
 ---
 

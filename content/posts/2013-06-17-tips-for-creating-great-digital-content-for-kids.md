@@ -14,7 +14,7 @@ tag:
   - HHS
   - innovation
   - NASA
-  - U.S. Forest Service
+  - US Forest Service
   - United States Department of Energy
   - user experience
 ---

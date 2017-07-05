@@ -8,7 +8,7 @@ tag:
   - DHS
   - ICE
   - Thursday Mobile Products
-  - U.S. Immigration and Customs Enforcement
+  - US Immigration and Customs Enforcement
   - United States Department of Homeland Security
   - USA.gov Federal Mobile Apps Directory
 ---

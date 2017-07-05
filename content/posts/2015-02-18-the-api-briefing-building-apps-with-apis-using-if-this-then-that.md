@@ -9,7 +9,7 @@ categories:
 tag:
   - API
   - Terms of Service
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

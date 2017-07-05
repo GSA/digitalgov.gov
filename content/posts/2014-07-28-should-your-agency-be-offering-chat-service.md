@@ -15,7 +15,7 @@ tag:
   - Government Contact Center Council
   - government contact centers
   - HHS
-  - U.S. Department of Education
+  - US Department of Education
   - United States Department of Health and Human Services
   - USAgov
 ---

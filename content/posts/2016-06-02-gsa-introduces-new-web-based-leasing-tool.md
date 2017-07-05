@@ -11,7 +11,7 @@ categories:
   - UX
 tag:
   - GSA
-  - U.S. General Services Administration
+  - US General Services Administration
   - web-based
 ---
 

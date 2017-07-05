@@ -27,12 +27,12 @@ tag:
   - NARA
   - NASA
   - National Archives and Records Administration
-  - U.S. Department of Education
-  - U.S. Department of Justice
-  - U.S. Department of the Interior
-  - U.S. Department of Veterans Affairs
-  - U.S. Environmental Protection Agency
-  - U.S. Small Business Administration
+  - US Department of Education
+  - US Department of Justice
+  - US Department of the Interior
+  - US Department of Veterans Affairs
+  - US Environmental Protection Agency
+  - US Small Business Administration
   - United States Department of Energy
 ---
 

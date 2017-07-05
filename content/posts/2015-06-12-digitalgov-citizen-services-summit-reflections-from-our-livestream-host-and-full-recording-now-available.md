@@ -17,7 +17,7 @@ tag:
   - GSA
   - OSTP
   - privacy
-  - U.S. Department of State
+  - US Department of State
   - United States Department of Health and Human Services
   - White House Office of Science and Technology Policy
 ---

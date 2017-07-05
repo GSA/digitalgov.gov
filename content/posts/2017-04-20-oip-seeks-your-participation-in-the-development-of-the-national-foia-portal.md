@@ -13,8 +13,8 @@ tag:
   - FOIA
   - GSA
   - OIP
-  - U.S. Department of Justice
-  - U.S. General Services Administration
+  - US Department of Justice
+  - US General Services Administration
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

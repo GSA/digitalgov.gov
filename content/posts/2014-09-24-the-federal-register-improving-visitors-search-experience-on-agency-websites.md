@@ -18,7 +18,7 @@ tag:
   - OSHA
   - SEC
   - Twitter
-  - U.S. Securities and Exchange Commission
+  - US Securities and Exchange Commission
   - YouTube
 ---
 

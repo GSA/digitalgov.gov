@@ -15,7 +15,7 @@ tag:
   - mobile apps
   - Mobile Code Catalog
   - OPM
-  - U.S. Department of Labor
+  - US Department of Labor
   - United States Census Bureau
   - United States Geological Survey
   - United States Office of Personnel Management

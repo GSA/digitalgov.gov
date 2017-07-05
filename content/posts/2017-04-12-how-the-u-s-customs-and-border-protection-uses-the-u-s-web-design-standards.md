@@ -14,7 +14,7 @@ tag:
   - DHS
   - mobile
   - responsive web design
-  - U.S. Customs and Border Protection
+  - US Customs and Border Protection
   - United States Department of Homeland Security
   - US Web Design Standards
   - user experience

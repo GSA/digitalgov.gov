@@ -14,7 +14,7 @@ tag:
   - National Institutes of Health
   - NIH
   - Thursday Mobile Products
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - United States Department of Health and Human Services
   - USA.gov Federal Mobile Apps Directory
   - VA

@@ -10,7 +10,7 @@ categories:
   - UX
 tag:
   - accessibility
-  - U.S. Digital Service
+  - US Digital Service
   - USDS
   - user experience
   - UX

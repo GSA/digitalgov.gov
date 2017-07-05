@@ -13,7 +13,7 @@ tag:
   - ONRR
   - Tribal
   - Tribal Government
-  - U.S. Department of the Interior
+  - US Department of the Interior
   - usability case study
   - usability testing
   - user experience

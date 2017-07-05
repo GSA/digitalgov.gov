@@ -8,7 +8,7 @@ categories:
   - API
 tag:
   - Peace Corps
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

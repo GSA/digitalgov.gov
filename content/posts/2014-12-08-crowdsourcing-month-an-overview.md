@@ -32,9 +32,9 @@ tag:
   - National Archives and Records Administration
   - national science foundation
   - NSF
-  - U.S. Agency for International Development
-  - U.S. Department of State
-  - U.S. Environmental Protection Agency
+  - US Agency for International Development
+  - US Department of State
+  - US Environmental Protection Agency
   - United States Department of Defense
   - United States Department of Energy
   - United States Department of Health and Human Services

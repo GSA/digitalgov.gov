@@ -24,8 +24,8 @@ tag:
   - NPS
   - NSF
   - OSTP
-  - U.S. Environmental Protection Agency
-  - U.S. National Park Service
+  - US Environmental Protection Agency
+  - US National Park Service
   - White House Office of Science and Technology Policy
 ---
 

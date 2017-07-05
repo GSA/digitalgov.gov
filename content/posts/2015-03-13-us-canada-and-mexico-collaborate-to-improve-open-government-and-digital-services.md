@@ -17,7 +17,7 @@ tag:
   - metadata
   - open data
   - open source
-  - U.S. Digital Service
+  - US Digital Service
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Globe-and-Computer-Keyboard-Feng-iStock-Thinkstock-110828839.jpg" alt="Globe and computer keyboard" caption="" >}} 

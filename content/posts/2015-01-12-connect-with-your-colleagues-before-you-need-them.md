@@ -8,7 +8,7 @@ categories:
   - Content
   - Managing Digital
 tag:
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
 ---
 

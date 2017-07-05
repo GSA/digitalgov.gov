@@ -15,7 +15,7 @@ tag:
   - Export-Import Bank of the United States
   - government contact centers
   - Peace Corps
-  - U.S. Digital Service
+  - US Digital Service
   - USDS
   - user centered design
   - user experience

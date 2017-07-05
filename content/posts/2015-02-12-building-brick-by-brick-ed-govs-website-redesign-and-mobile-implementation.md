@@ -14,7 +14,7 @@ tag:
   - Mobile UX Guideline 1
   - responsive web design
   - Thursday Mobile Products
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.

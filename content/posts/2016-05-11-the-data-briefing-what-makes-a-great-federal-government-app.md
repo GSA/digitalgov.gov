@@ -21,8 +21,8 @@ tag:
   - native apps
   - State
   - The Data Briefing
-  - U.S. Department of Agriculture
-  - U.S. Department of State
+  - US Department of Agriculture
+  - US Department of State
   - United States Census Bureau
   - United States Patent and Trademark Office
   - USAgov

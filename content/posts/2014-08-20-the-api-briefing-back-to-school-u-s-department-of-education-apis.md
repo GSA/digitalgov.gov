@@ -10,7 +10,7 @@ tag:
   - API
   - json
   - OPM
-  - U.S. Department of Education
+  - US Department of Education
   - United States Office of Personnel Management
   - Wednesday API Briefing
 ---

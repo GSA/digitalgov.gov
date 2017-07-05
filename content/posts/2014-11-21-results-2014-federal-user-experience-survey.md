@@ -15,7 +15,7 @@ tag:
   - AoI
   - BLS
   - federal user experience community
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
   - usability
   - user experience
   - UX

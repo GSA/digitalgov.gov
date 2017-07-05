@@ -7,7 +7,7 @@ authors:
 categories:
   - API
 tag:
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - Wednesday API Briefing
 ---

@@ -17,7 +17,7 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - OPM
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Office of Personnel Management
   - USDA
 ---

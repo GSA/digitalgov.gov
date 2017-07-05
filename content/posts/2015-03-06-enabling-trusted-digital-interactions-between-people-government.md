@@ -15,9 +15,9 @@ tag:
   - NIST
   - privacy
   - security
-  - U.S. Department of Agriculture
-  - U.S. Department of State
-  - U.S. Department of Veterans Affairs
+  - US Department of Agriculture
+  - US Department of State
+  - US Department of Veterans Affairs
   - USDA
   - VA
 ---

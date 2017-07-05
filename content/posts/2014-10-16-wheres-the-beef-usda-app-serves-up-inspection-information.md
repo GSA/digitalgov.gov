@@ -10,8 +10,8 @@ tag:
   - ICE
   - mobile apps
   - Thursday Mobile Products
-  - U.S. Department of Agriculture
-  - U.S. Immigration and Customs Enforcement
+  - US Department of Agriculture
+  - US Immigration and Customs Enforcement
   - USDA
 ---
 

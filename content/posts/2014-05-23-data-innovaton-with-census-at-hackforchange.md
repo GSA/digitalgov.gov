@@ -19,8 +19,8 @@ tag:
   - national science foundation
   - NSF
   - SBA
-  - U.S. Environmental Protection Agency
-  - U.S. Small Business Administration
+  - US Environmental Protection Agency
+  - US Small Business Administration
   - United States Census Bureau
   - USPTO
   - White House

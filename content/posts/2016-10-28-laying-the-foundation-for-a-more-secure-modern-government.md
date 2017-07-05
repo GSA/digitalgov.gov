@@ -25,7 +25,7 @@ tag:
   - OMB
   - privacy
   - security
-  - U.S. General Services Administration
+  - US General Services Administration
   - United States Department of Homeland Security
   - White House
 ---

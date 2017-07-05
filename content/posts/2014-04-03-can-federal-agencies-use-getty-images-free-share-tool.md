@@ -14,7 +14,7 @@ tag:
   - LOC
   - National Archives and Records Administration
   - Twitter
-  - U.S. Department of State
+  - US Department of State
   - United States Department of Defense
 ---
 

@@ -9,7 +9,7 @@ categories:
   - Monthly Theme
 tag:
   - responsive web design
-  - U.S. Department of Education
+  - US Department of Education
   - Web Content Managers Forum
 ---
 

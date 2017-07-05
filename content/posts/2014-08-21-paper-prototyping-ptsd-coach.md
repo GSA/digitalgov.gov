@@ -13,7 +13,7 @@ tag:
   - prototype
   - Recaps
   - Thursday Mobile Products
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
 ---
 

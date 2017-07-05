@@ -11,8 +11,8 @@ tag:
   - AoI
   - BLS
   - DOL
-  - U.S. Bureau of Labor Statistics
-  - U.S. Department of Labor
+  - US Bureau of Labor Statistics
+  - US Department of Labor
   - usability testing
   - user experience
 ---

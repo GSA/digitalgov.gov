@@ -13,9 +13,9 @@ tag:
   - Federal Emergency Management Agency
   - FEMA
   - Twitter
-  - U.S. Citizenship and Immigration Service
-  - U.S. Department of Education
-  - U.S. Environmental Protection Agency
+  - US Citizenship and Immigration Service
+  - US Department of Education
+  - US Environmental Protection Agency
   - USCIS
 ---
 

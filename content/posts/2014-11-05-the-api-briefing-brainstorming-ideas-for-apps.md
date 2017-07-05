@@ -11,7 +11,7 @@ categories:
 tag:
   - data.gov
   - DOT
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Transportation
   - USDA
   - Wednesday API Briefing

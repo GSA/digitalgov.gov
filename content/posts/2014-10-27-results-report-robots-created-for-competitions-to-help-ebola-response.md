@@ -11,7 +11,7 @@ tag:
   - challenges and prize competitions
   - Challenges and Prizes Community of Practice
   - NASA
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - USAID
 ---
 

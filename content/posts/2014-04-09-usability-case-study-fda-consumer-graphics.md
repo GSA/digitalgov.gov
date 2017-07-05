@@ -11,7 +11,7 @@ categories:
 tag:
   - FDA
   - infographic
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - usability
   - usability case study
   - user experience

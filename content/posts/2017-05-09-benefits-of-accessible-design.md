@@ -12,7 +12,7 @@ tag:
   - accessibility
   - GSA
   - section 508
-  - U.S. General Services Administration
+  - US General Services Administration
 ---
 
 <p dir="ltr">

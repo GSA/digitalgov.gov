@@ -8,7 +8,7 @@ tag:
   - mobile-first
   - responsive web design
   - Thursday Mobile Products
-  - U.S. Department of the Treasury
+  - US Department of the Treasury
   - USA.gov Federal Mobile Apps Directory
 ---
 

@@ -15,7 +15,7 @@ tag:
   - Customer Experience
   - CX
   - multilingual
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
   - user centered design
   - user experience

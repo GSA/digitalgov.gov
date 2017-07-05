@@ -16,7 +16,7 @@ tag:
   - NOAA
   - 'Occupational Safety &amp; Health Administration'
   - OSHA
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - usa.gov
   - VA
 ---

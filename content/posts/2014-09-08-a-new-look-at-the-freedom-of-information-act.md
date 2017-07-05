@@ -19,8 +19,8 @@ tag:
   - OMB
   - open government
   - OSTP
-  - U.S. Department of Justice
-  - U.S. Environmental Protection Agency
+  - US Department of Justice
+  - US Environmental Protection Agency
   - White House Office of Science and Technology Policy
 ---
 

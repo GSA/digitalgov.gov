@@ -14,7 +14,7 @@ tag:
   - open source
   - SocialGov
   - Terms of Service
-  - U.S. Digital Registry
+  - US Digital Registry
 ---
 
 <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>

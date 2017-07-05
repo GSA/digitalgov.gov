@@ -16,7 +16,7 @@ tag:
   - Mobile UX Guideline 1
   - MobileGov
   - responsive web design
-  - U.S. Department of State
+  - US Department of State
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}

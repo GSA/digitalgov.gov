@@ -22,8 +22,8 @@ tag:
   - innovation
   - NASA
   - open data
-  - U.S. Environmental Protection Agency
-  - U.S. Government Accountability Office
+  - US Environmental Protection Agency
+  - US Government Accountability Office
   - United States Department of Transportation
 ---
 

@@ -16,7 +16,7 @@ tag:
   - National Institute of Standards and Technology
   - NIST
   - prizes and competitions
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - United States Department of Energy
   - United States Department of Housing and Urban Development
   - USAID

@@ -11,7 +11,7 @@ tag:
   - Content Management System
   - drupal
   - structured content
-  - U.S. Department of Education
+  - US Department of Education
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}

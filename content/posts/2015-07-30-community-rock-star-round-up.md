@@ -24,8 +24,8 @@ tag:
   - SocialGov Community
   - SSA
   - Trends on Tuesday
-  - U.S. Department of State
-  - U.S. Food and Drug Administration
+  - US Department of State
+  - US Food and Drug Administration
   - United States Census Bureau
   - USDA
   - UX

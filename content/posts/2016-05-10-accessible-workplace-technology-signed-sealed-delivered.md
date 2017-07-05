@@ -10,7 +10,7 @@ categories:
 tag:
   - accessibility
   - DOL
-  - U.S. Department of Labor
+  - US Department of Labor
   - user centered design
   - user experience
   - UX

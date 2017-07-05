@@ -16,7 +16,7 @@ tag:
   - mobile-friendly
   - MobileGov
   - social media
-  - U.S. Digital Registry
+  - US Digital Registry
   - USA.gov Federal Mobile Apps Directory
 ---
 

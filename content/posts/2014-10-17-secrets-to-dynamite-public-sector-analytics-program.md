@@ -13,7 +13,7 @@ tag:
   - data
   - EPA
   - Recaps
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}

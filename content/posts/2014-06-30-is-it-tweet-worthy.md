@@ -15,7 +15,7 @@ tag:
   - Plain language
   - SocialGov Community
   - Twitter
-  - U.S. Government Accountability Office
+  - US Government Accountability Office
   - Web Content Managers Forum
 ---
 

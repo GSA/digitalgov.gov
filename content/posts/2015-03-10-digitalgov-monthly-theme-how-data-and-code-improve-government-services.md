@@ -20,7 +20,7 @@ tag:
   - NCI
   - open data
   - SEC
-  - U.S. Securities and Exchange Commission
+  - US Securities and Exchange Commission
   - United States Department of Health and Human Services
 ---
 

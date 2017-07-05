@@ -10,7 +10,7 @@ categories:
 tag:
   - Digital Analytics Program
   - NPS
-  - U.S. Department of the Interior
+  - US Department of the Interior
 ---
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-328-National-Park-Service-NPS-logo-e1392216060583.jpg" alt="National Park Service logo of an arrowhead with mountain, tree and buffalo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NPS-logo.jpg)The National Park Service website, [NPS.gov](http://www.nps.gov/), is home to sites for the parks, programs, and subject-related content about the places and ideas that we preserve and protect for the American people. With roughly a thousand content authors dispersed across the country, NPS.gov receives nearly 50 million page views per month during the peak summer season, when visitors are planning their vacations.

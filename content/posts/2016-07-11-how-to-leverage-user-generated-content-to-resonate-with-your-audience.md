@@ -32,10 +32,10 @@ tag:
   - social media
   - SocialGov
   - The Content Corner
-  - U.S. Department of Agriculture
-  - U.S. Department of Justice
-  - U.S. Forest Service
-  - U.S. National Park Service
+  - US Department of Agriculture
+  - US Department of Justice
+  - US Forest Service
+  - US National Park Service
   - UGC
   - USDA
   - user generated content

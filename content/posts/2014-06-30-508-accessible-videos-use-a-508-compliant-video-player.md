@@ -11,7 +11,7 @@ categories:
   - Video
 tag:
   - section 508
-  - U.S. Access Board
+  - US Access Board
   - YouTube
 ---
 

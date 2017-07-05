@@ -20,7 +20,7 @@ tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
   - Trends on Tuesday
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
 ---
 

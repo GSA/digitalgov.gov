@@ -12,7 +12,7 @@ tag:
   - EPA
   - Internet of things
   - Trends on Tuesday
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}

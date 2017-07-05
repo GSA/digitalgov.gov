@@ -28,9 +28,9 @@ tag:
   - Office of the Director of National Intelligence
   - Peace Corps
   - SocialGov Community
-  - U.S. Department of Education
-  - U.S. Department of the Interior
-  - U.S. Food and Drug Administration
+  - US Department of Education
+  - US Department of the Interior
+  - US Food and Drug Administration
   - United States Department of Health and Human Services
 ---
 

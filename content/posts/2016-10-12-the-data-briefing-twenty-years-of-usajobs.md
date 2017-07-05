@@ -20,7 +20,7 @@ tag:
   - GSA
   - lean
   - The Data Briefing
-  - U.S. General Services Administration
+  - US General Services Administration
   - user centered design
 ---
 

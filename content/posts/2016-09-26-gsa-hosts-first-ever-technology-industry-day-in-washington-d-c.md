@@ -30,8 +30,8 @@ tag:
   - summit
   - Technology Industry Day
   - TTS
-  - U.S. Department of the Treasury
-  - U.S. General Services Administration
+  - US Department of the Treasury
+  - US General Services Administration
   - United States Department of Health and Human Services
 ---
 

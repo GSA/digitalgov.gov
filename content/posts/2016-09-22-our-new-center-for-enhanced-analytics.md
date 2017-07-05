@@ -15,7 +15,7 @@ tag:
   - metrics
   - Transportation Security Administration
   - TSA
-  - U.S. Government Accountability Office
+  - US Government Accountability Office
   - United States Department of Transportation
 ---
 

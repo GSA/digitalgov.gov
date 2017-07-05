@@ -21,8 +21,8 @@ tag:
   - Mobile UX Guideline 3
   - NPS
   - Smithsonian Institution
-  - U.S. Department of Education
-  - U.S. National Park Service
+  - US Department of Education
+  - US National Park Service
   - United States Department of Health and Human Services
   - user experience
 ---

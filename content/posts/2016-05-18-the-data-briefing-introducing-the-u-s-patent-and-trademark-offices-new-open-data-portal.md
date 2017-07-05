@@ -17,7 +17,7 @@ tag:
   - Department of Commerce
   - open data
   - The Data Briefing
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
   - United States Census Bureau
   - United States Patent and Trademark Office
   - USPTO

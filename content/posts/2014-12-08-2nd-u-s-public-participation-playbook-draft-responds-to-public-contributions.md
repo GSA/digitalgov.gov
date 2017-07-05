@@ -45,15 +45,15 @@ tag:
   - Peace Corps
   - SBA
   - Smithsonian Institution
-  - U.S. Coast Guard
-  - U.S. Department of Education
-  - U.S. Department of Labor
-  - U.S. Department of State
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
-  - U.S. Global Change Research Program
-  - U.S. National Park Service
-  - U.S. Small Business Administration
+  - US Coast Guard
+  - US Department of Education
+  - US Department of Labor
+  - US Department of State
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
+  - US Global Change Research Program
+  - US National Park Service
+  - US Small Business Administration
   - United States Army
   - United States Census Bureau
   - United States Department of Homeland Security

@@ -18,7 +18,7 @@ tag:
   - NIST
   - open data
   - Thursday Mobile Products
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - United States Census Bureau
 ---
 

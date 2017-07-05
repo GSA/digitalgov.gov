@@ -18,7 +18,7 @@ tag:
   - GPO
   - HUD
   - NASA
-  - U.S. Department of Labor
+  - US Department of Labor
   - United States Department of Defense
   - United States Department of Housing and Urban Development
   - VA

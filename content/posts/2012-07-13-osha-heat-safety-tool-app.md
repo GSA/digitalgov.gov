@@ -8,7 +8,7 @@ tag:
   - DOL
   - mobile apps
   - Mobile Gov Experience
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._

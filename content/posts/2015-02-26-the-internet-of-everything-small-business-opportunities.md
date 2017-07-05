@@ -14,7 +14,7 @@ tag:
   - SBA
   - security
   - Small Business Innovation Research
-  - U.S. Small Business Administration
+  - US Small Business Administration
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}} 

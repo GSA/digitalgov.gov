@@ -11,7 +11,7 @@ tag:
   - HUD
   - NASA
   - OSTP
-  - U.S. Agency for International Development
+  - US Agency for International Development
   - United States Department of Housing and Urban Development
   - USAID
   - White House Office of Science and Technology Policy

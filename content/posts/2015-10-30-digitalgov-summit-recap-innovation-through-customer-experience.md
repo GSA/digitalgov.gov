@@ -18,7 +18,7 @@ tag:
   - Internal Revenue Service
   - IRS
   - Recaps
-  - U.S. Citizenship and Immigration Service
+  - US Citizenship and Immigration Service
   - USCIS
 ---
 

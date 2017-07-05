@@ -24,11 +24,11 @@ tag:
   - NCI
   - NIH
   - Recaps
-  - U.S. Department of Labor
-  - U.S. Environmental Protection Agency
-  - U.S. Food and Drug Administration
-  - U.S. Government Accountability Office
-  - U.S. Trade and Development Agency
+  - US Department of Labor
+  - US Environmental Protection Agency
+  - US Food and Drug Administration
+  - US Government Accountability Office
+  - US Trade and Development Agency
   - United States Census Bureau
   - United States Department of Health and Human Services
 ---

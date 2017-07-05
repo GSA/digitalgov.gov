@@ -11,7 +11,7 @@ tag:
   - EPA
   - mobile apps
   - Thursday Mobile Products
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - USA.gov Federal Mobile Apps Directory
 ---
 

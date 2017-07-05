@@ -10,7 +10,7 @@ tag:
   - Federal Student Aid
   - FSA
   - Twitter
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
 ---
 

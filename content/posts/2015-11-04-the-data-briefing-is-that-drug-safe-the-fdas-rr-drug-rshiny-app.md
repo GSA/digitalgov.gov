@@ -9,7 +9,7 @@ categories:
 tag:
   - FDA
   - The Data Briefing
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - United States Patent and Trademark Office
   - USPTO
 ---

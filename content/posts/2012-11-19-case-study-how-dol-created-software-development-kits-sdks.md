@@ -9,7 +9,7 @@ categories:
   - Code
 tag:
   - DOL
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 ## What It Is

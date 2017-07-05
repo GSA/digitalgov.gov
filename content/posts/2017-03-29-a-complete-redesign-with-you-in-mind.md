@@ -15,7 +15,7 @@ tag:
   - Draft Web Design Standards
   - mobile
   - mobile-friendly
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - US Web Design Standards
   - USDA
   - user experience

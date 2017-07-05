@@ -8,10 +8,10 @@ categories:
   - user-testing-and-research
   - UX
 tag:
-  - A/B testing
+  - a-b-testing
   - content strategy
   - social media
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - user centered design
   - user experience
   - VA

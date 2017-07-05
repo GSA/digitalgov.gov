@@ -19,7 +19,7 @@ tag:
   - NIH
   - Thursday Mobile Products
   - TSA
-  - U.S. Department of Labor
+  - US Department of Labor
   - United States Department of Health and Human Services
   - United States Department of Homeland Security
   - USDA

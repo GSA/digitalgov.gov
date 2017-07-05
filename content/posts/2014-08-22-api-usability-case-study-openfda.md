@@ -13,7 +13,7 @@ tag:
   - API
   - DigitalGov User Experience Program
   - FDA
-  - U.S. Food and Drug Administration
+  - US Food and Drug Administration
   - usability testing
 ---
 

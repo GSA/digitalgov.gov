@@ -17,7 +17,7 @@ tag:
   - open government
   - SSA
   - The United States Social Security Administration
-  - U.S. Department of Education
+  - US Department of Education
   - United States Department of Energy
   - United States Department of Health and Human Services
 ---

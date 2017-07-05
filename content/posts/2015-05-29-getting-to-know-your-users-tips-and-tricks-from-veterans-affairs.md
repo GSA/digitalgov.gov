@@ -14,7 +14,7 @@ tag:
   - customer satisfaction
   - customer service
   - Personas
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - user centered design
   - user experience
   - VA

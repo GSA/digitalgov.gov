@@ -11,7 +11,7 @@ tag:
   - National Archives and Records Administration
   - NPS
   - Thursday Mobile Products
-  - U.S. National Park Service
+  - US National Park Service
   - USA.gov Federal Mobile Apps Directory
 ---
 

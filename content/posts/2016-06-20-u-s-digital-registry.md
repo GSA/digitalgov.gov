@@ -12,7 +12,7 @@ categories:
 tag:
   - NARA
   - National Archives and Records Administration
-  - U.S. Digital Registry
+  - US Digital Registry
 ---
 
 The National Archives is pleased to participate in the <a href="{{< relref "u-s-digital-registry.md" >}}" target="_blank">U.S. Digital Registry</a>, the authoritative resource for official third-party websites, social media platforms and mobile apps managed by the U.S. federal government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-United-States-National-Archives-OGphoto-iStock-Thinkstock-112783117.jpg" alt="Facade of the National Archives of the United States" caption="" >}} 

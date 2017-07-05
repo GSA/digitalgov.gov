@@ -17,7 +17,7 @@ tag:
   - mobile
   - open data
   - The Data Briefing
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - VA
   - VA Center for Innovation
   - VACI

@@ -8,7 +8,7 @@ categories:
   - API
 tag:
   - HUD
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Housing and Urban Development
   - USDA
   - Wednesday API Briefing

@@ -14,7 +14,7 @@ tag:
   - National Archives and Records Administration
   - SocialGov
   - SocialGov Community
-  - U.S. Coast Guard
+  - US Coast Guard
 ---
 
 <p style="text-align: center">

@@ -10,7 +10,7 @@ tag:
   - Census
   - National Day of Civic Hacking
   - SBA
-  - U.S. Small Business Administration
+  - US Small Business Administration
   - United States Census Bureau
 ---
 

@@ -28,8 +28,8 @@ tag:
   - National Oceanic and Atmospheric Administration
   - NOAA
   - prizes and competitions
-  - U.S. Department of Agriculture
-  - U.S. Environmental Protection Agency
+  - US Department of Agriculture
+  - US Environmental Protection Agency
   - United States Department of Energy
   - United States Department of Health and Human Services
   - United States Geological Survey

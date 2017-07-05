@@ -10,7 +10,7 @@ categories:
   - Monthly Theme
 tag:
   - The Data Briefing
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - USDA
   - user experience
   - UX

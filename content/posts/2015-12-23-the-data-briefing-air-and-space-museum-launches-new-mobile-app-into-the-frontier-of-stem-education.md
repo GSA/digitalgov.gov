@@ -13,9 +13,9 @@ tag:
   - NPS
   - Smithsonian Institution
   - The Data Briefing
-  - U.S. Department of Education
-  - U.S. Department of the Interior
-  - U.S. National Park Service
+  - US Department of Education
+  - US Department of the Interior
+  - US National Park Service
   - United States Patent and Trademark Office
   - USPTO
 ---

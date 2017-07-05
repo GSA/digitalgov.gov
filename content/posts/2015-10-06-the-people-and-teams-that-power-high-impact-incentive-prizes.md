@@ -13,8 +13,8 @@ tag:
   - FDA
   - National Institutes of Health
   - NIH
-  - U.S. Agency for International Development
-  - U.S. Food and Drug Administration
+  - US Agency for International Development
+  - US Food and Drug Administration
   - USAID
 ---
 

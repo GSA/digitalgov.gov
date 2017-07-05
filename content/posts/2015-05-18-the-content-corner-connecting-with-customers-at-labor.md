@@ -15,7 +15,7 @@ tag:
   - Plain language
   - social media
   - The Content Corner
-  - U.S. Department of Labor
+  - US Department of Labor
 ---
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 

@@ -9,7 +9,7 @@ categories:
   - Mobile
 tag:
   - DOE
-  - U.S. Department of Agriculture
+  - US Department of Agriculture
   - United States Department of Energy
   - USDA
   - Wednesday API Briefing

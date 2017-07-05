@@ -7,7 +7,7 @@ authors:
 categories:
   - Metrics
 tag:
-  - A/B testing
+  - a-b-testing
   - Peace Corps
 ---
 

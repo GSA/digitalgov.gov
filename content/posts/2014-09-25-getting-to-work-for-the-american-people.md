@@ -15,10 +15,10 @@ tag:
   - Federal Election Commission
   - open government
   - Peace Corps
-  - U.S. Citizenship and Immigration Service
-  - U.S. Department of Justice
-  - U.S. Department of the Interior
-  - U.S. Department of the Treasury
+  - US Citizenship and Immigration Service
+  - US Department of Justice
+  - US Department of the Interior
+  - US Department of the Treasury
   - USCIS
 ---
 

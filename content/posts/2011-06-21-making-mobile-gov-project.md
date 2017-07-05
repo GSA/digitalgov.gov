@@ -11,8 +11,8 @@ categories:
 tag:
   - GSA
   - mobile
-  - U.S. Department of Education
-  - U.S. Department of Labor
+  - US Department of Education
+  - US Department of Labor
 ---
 
 _Making Mobile Gov was a three phase multi-media project created by the [MobileGov Community of Practice]({{< link href="categories/mobile" >}} "Mobile") to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals:_

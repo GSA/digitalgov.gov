@@ -16,8 +16,8 @@ tag:
   - NOAA
   - open and structured content models
   - Thursday Mobile Products
-  - U.S. Customs and Border Protection
-  - U.S. Department of Labor
+  - US Customs and Border Protection
+  - US Department of Labor
   - USDA
 ---
 

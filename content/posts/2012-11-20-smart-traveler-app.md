@@ -10,7 +10,7 @@ tag:
   - mobile apps
   - Mobile Gov Experience
   - Thursday Mobile Products
-  - U.S. Department of State
+  - US Department of State
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart\_Traveler\_App.jpg" alt="Smart\_Traveler\_App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Smart_Traveler_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **<a href="http://www.state.gov/" rel="nofollow">Department of State</a>**._

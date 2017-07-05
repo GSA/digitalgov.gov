@@ -10,7 +10,7 @@ tag:
   - DHS
   - FirstNet
   - The Content Corner
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - United States Department of Homeland Security
   - VA
 ---

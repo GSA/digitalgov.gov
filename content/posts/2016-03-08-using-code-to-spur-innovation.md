@@ -18,8 +18,8 @@ tag:
   - MCC
   - NASA
   - open data
-  - U.S. Department of Education
-  - U.S. Department of Labor
+  - US Department of Education
+  - US Department of Labor
   - United States Department of Health and Human Services
   - United States Patent and Trademark Office
   - USPTO

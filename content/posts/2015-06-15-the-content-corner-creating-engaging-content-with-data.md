@@ -15,7 +15,7 @@ tag:
   - data
   - open data
   - The Content Corner
-  - U.S. Bureau of Labor Statistics
+  - US Bureau of Labor Statistics
   - United States Census Bureau
 ---
 

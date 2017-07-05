@@ -18,7 +18,7 @@ tag:
   - open government
   - structured content
   - The Content Corner
-  - U.S. Environmental Protection Agency
+  - US Environmental Protection Agency
   - United States Department of Health and Human Services
 ---
 

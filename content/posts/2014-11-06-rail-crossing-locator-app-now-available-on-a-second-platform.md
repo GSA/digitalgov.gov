@@ -11,7 +11,7 @@ tag:
   - Federal Railroad Administration
   - ICE
   - Thursday Mobile Products
-  - U.S. Immigration and Customs Enforcement
+  - US Immigration and Customs Enforcement
   - United States Department of Transportation
   - USA.gov Federal Mobile Apps Directory
 ---
