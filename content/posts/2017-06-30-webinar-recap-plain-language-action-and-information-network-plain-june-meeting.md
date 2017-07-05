@@ -17,7 +17,7 @@ tag:
   - Recaps
 ---
 
-> _This month&#8217;s [Plain Language of Community Practice](https://www.WHATEVER/communities/plain-language-community-of-practice/) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University](https://www.WHATEVER/digitalgov-university/) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._
+> _This month&#8217;s [Plain Language of Community Practice]({{< relref "plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._
 
 Many people don&#8217;t get plain language (also known as plain communication or plain writing) right the very first time, but through practice, can gain clarity and improve their plain language skills. For newbies who may not feel 100 percent sure about diving into this concept, the guidelines below are helpful, but optional; you can visit [PlainLanguage.gov](http://www.plainlanguage.gov/) to find other ways to apply plain language to your specific content.
 
@@ -25,7 +25,7 @@ Many people don&#8217;t get plain language (also known as plain communication or
 
 Plain language has three basic elements—they need to find it easily, understand it the first time they hear or read it, and be able to use what they&#8217;ve learned to meet their needs.
 
-In content presentation, the audience is often faced with a &#8220;big wall of words&#8221; or content with several large paragraphs, no headers, and nothing to break up the overabundance of text. As writers and editors for content, we don&#8217;t always have permission to edit copy. However, this shouldn&#8217;t stop one from creating a visually aesthetic and easy-to-understand medium. {{< legacy-img src="https://www.WHATEVER/files/2015/12/600-x-400-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="A close up of the dictionary definition of the word, simplicity." caption="" >}}
+In content presentation, the audience is often faced with a &#8220;big wall of words&#8221; or content with several large paragraphs, no headers, and nothing to break up the overabundance of text. As writers and editors for content, we don&#8217;t always have permission to edit copy. However, this shouldn&#8217;t stop one from creating a visually aesthetic and easy-to-understand medium. {{< legacy-img src="{{< link "files/2015/12/600-x-400-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" >}}" alt="A close up of the dictionary definition of the word, simplicity." caption="" >}}
 
 ## How do I start?
 
@@ -89,7 +89,7 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         PlainLanguage.gov on social media (<a href="https://www.facebook.com/plainlanguagegov-174397429237337/">Facebook</a>, <a href="https://twitter.com/govplainlang">Twitter</a>)
       </li>
       <li>
-        the <a href="https://www.WHATEVER/communities/plain-language-community-of-practice/">Plain Language Community of Practice</a>
+        the <a href="{{< relref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>
       </li>
       <li>
         <a href="http://www.clarity-international.net/">Clarity</a>, an international association of professionals promoting plain legal language
@@ -142,9 +142,9 @@ The [Question and Answer portion](https://www.youtube.com/watch?v=TGYhWjSmDvs&t=
         </p>
 
         <p>
-          <em>Read other DigitalGov posts about <a href="https://www.WHATEVER/tag/plain-language-2/">Plain Language</a>. Learn more about <a href="https://www.WHATEVER/digitalgov-university/">DigitalGov University</a> and how you can work with the team to set up an online or in-person event or training session. </em>
+          <em>Read other DigitalGov posts about <a href="{{< link "tag/plain-language-2" >}}">Plain Language</a>. Learn more about <a href="{{< relref "digitalgov-university.md" >}}">DigitalGov University</a> and how you can work with the team to set up an online or in-person event or training session. </em>
         </p>
 
         <p>
-          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="https://www.WHATEVER/communities/">Communities</a>, such as the <a href="https://www.WHATEVER/communities/plain-language-community-of-practice/">Plain Language Community of Practice</a>, the <a href="https://www.WHATEVER/communities/web-managers-forum/">Web Content Managers Forum</a>, the <a href="https://www.WHATEVER/communities/government-multilingual-websites-community/">Multilingual Digital Group</a>, or the <a href="https://www.WHATEVER/communities/web-managers-forum/">Web Content Managers Forum</a>.</em>
+          <em>If you have a <strong>.gov</strong> or <strong>.mil</strong> email address, consider joining one of our <a href="{{< relref "communities.md" >}}">Communities</a>, such as the <a href="{{< relref "plain-language-community-of-practice.md" >}}">Plain Language Community of Practice</a>, the <a href="{{< relref "web-managers-forum.md" >}}">Web Content Managers Forum</a>, the <a href="{{< relref "government-multilingual-websites-community.md" >}}">Multilingual Digital Group</a>, or the <a href="{{< relref "web-managers-forum.md" >}}">Web Content Managers Forum</a>.</em>
         </p>

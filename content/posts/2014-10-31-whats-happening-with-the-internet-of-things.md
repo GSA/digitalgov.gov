@@ -22,15 +22,15 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}} 
 
-No [Mobile Gov Month on DigitalGov](https://www.WHATEVER/2014/10/20/welcome-to-mobilegov-month-on-digitalgov/ "Welcome to Mobile Gov Month on DigitalGov") would be complete without an update on the Internet of Things.
+No [Mobile Gov Month on DigitalGov]({{< relref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}} "Welcome to Mobile Gov Month on DigitalGov") would be complete without an update on the Internet of Things.
 
-Regardless if you’re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted—as will your social media, user experience and data strategies. When [we last visited the topic in April](https://www.WHATEVER/2014/04/08/tell-us-your-internet-of-things-challenges/ "Tell Us Your Internet of Things Challenges"), discussion in the federal government was minimal.
+Regardless if you’re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted—as will your social media, user experience and data strategies. When [we last visited the topic in April]({{< relref "2014-04-08-tell-us-your-internet-of-things-challenges.md" >}} "Tell Us Your Internet of Things Challenges"), discussion in the federal government was minimal.
 
 That’s no longer the case.
 
 Just this month there were multiple panels about it at the [Tech-In-State: Mobile Diplomacy](http://blogs.state.gov/stories/2014/10/16/mobile-diplomacy-state?utm_source=Dipnote) event and the Federal Trade Commision (FTC) was very active at the [2nd Annual Internet of Things Global Summit](http://eu-ems.com/summary.asp?event_id=221&page_id=1904) where FTC Chairwoman Edith Ramirez gave a keynote about challenges around IOT. Ramirez spoke about challenges around [security, consumer privacy and advanced data](http://www.stephensonstrategies.com/live-blogging-from-iot-global-summit/) analytics, which are hot areas in the IOT.
 
-Yesterday, Jordan Higgins of the Defense Intelligence Agency and Federal SocialGov Community published a great article on the current state of Internet of Things and [highlighted issues around security and privacy and offered some ways users can protect their data](https://www.WHATEVER/2014/10/30/cyber-house-of-horrors/ "Beware the Cyber Security House of Horrors!").
+Yesterday, Jordan Higgins of the Defense Intelligence Agency and Federal SocialGov Community published a great article on the current state of Internet of Things and [highlighted issues around security and privacy and offered some ways users can protect their data]({{< relref "2014-10-30-cyber-house-of-horrors.md" >}} "Beware the Cyber Security House of Horrors!").
 
 Panelists at the events I mentioned above noted as we move forward we’re going to need to think in broader terms about user experience, specifically around the [user story](http://en.wikipedia.org/wiki/User_story). A good user experience will be one that seamlessly organizes numerous connected devices and sensors.
 

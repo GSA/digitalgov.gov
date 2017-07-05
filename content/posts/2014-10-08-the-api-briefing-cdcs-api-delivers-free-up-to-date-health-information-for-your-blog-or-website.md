@@ -29,7 +29,7 @@ As an example, a user wants to include the CDC’s microsite “[What’s New | 
 
 Preserving the health and general welfare is a Constitutionally-mandated function of the federal government. Open data, APIs, and content syndication are very effective ways of disseminating vital health information, especially when dealing with emerging health emergencies.
 
-_*API &#8211; Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government](https://www.WHATEVER/2013/04/30/apis-in-government/ "APIs in Government") for more information._
+_*API &#8211; Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}} "APIs in Government") for more information._
 
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
 

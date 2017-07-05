@@ -20,13 +20,13 @@ tag:
 
 This month, FedHealth IT announced that the U.S. Department of Veterans Affairs Innovators Network Program was selected as a 2017 recipient of the <a href="http://www.fedhealthit.com/2017/05/7618-2/" target="_blank" rel="noopener noreferrer">FedHealthIT Innovation Award</a>.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600-x-730-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-accepting-award.jpg" alt="VA Innovators Network accepts the FedHealthIT Award (June 2017)" >}}
+{{< legacy-img src="{{< link "files/2017/06/600-x-730-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-accepting-award.jpg" >}}" alt="VA Innovators Network accepts the FedHealthIT Award (June 2017)" >}}
 
 FedHealth IT recognized 25 Federal Health programs that have demonstrated exceptional performance as a result of their willingness to take risks and deliver real and measurable results. Nominated and selected by peers, all recipient programs have shown an extraordinary commitment to driving innovative ideas in effort to enhance federal programming for Department of Veterans Affairs, Military Health, Health and Human Services, and Centers for Medicare & Medicaid Services
 
 Instituted in 2015, the VA Innovators Network grew out of VA Center for Innovation and was shaped by and built in response to VA employees’ desire for a more networked organization that supports team innovation. The VA Innovators Network provides a mechanism for employees to see and solve problems at the facility level. Through investing in and developing VA employees, the network influences how VA offers better care and services to Veterans and their families. The key drivers within the Network are the Innovation Specialists, providing mentorship and guiding employees through innovation processes.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/438-x-328-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-innovation-boot-camp-copy.png" alt="Andrea Ippolito, VA Innovators Network Lead, kicks off an innovation “boot camp”. The event helps VA implement innovative programs to care for Veterans." >}}
+{{< legacy-img src="{{< link "files/2017/06/438-x-328-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-innovation-boot-camp-copy.png" >}}" alt="Andrea Ippolito, VA Innovators Network Lead, kicks off an innovation “boot camp”. The event helps VA implement innovative programs to care for Veterans." >}}
 
 To fulfill its mission, VA Innovators Network rests on three primary goals:
 
@@ -36,7 +36,7 @@ To fulfill its mission, VA Innovators Network rests on three primary goals:
 
 In only its second year of existence, the VA Innovators Network already includes 22 VA Medical Centers across the country with plans to expand further in the coming year. To date, frontline VA employees have designed, tested, or launched more than 35 Veteran-centric innovations.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/558-x-332-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-2016-team-copy.png" alt="2016 VA Innovators Network Team" >}}
+{{< legacy-img src="{{< link "files/2017/06/558-x-332-VA-Innovators-Network-Program-FedHealthIT-Innovation-Award-2016-team-copy.png" >}}" alt="2016 VA Innovators Network Team" >}}
 
 The VA Innovators Network’s accomplishments were recognized on June 6th, 2017 at the 3rd Annual FedHealth IT Innovation Awards at the Woolly Mammoth Theatre in Washington, D.C. More than 250 federal health leaders from the government and industry convened to recognize the VA Innovators Network, along with the teams behind the 25 extraordinary Federal Health programs.
 

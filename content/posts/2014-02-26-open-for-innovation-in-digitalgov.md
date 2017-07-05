@@ -24,7 +24,7 @@ tag:
   How do we tap into this agency expertise? Learn from others’ hits and misses? Identify roadmaps, sample documents, tools? Speed up the adoption of digital tools to provide the experience that citizens expect?
 </p>
 
-[DigitalGov](https://www.WHATEVER) is designed to help. This platform is a government-wide, collaborative platform&#8211;bringing together thousands of government innovators to share solutions to challenges.
+[DigitalGov]({{< link "index.html" >}}) is designed to help. This platform is a government-wide, collaborative platform&#8211;bringing together thousands of government innovators to share solutions to challenges.
 
 Here’s where you come in.
 

@@ -24,7 +24,7 @@ _
 
 ## Why We Did It
 
-Testing showed that more and more people were trying to access the website via mobile device but not all mobile devices were receiving the m.aids.gov site fully. Since a lot of the content made the implementation of [responsive design](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design") fairly easy, it made sense to combine the websites on a plethora of levels, the two main reasons routing from an easier to manage site (one site vs. two sites), coupled with the need for a more efficient, better designed, mobile site. We had previous experience with responsive design with the <a href="http://facing.aids.gov/" rel="nofollow">Facing AIDS</a> project.
+Testing showed that more and more people were trying to access the website via mobile device but not all mobile devices were receiving the m.aids.gov site fully. Since a lot of the content made the implementation of [responsive design]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design") fairly easy, it made sense to combine the websites on a plethora of levels, the two main reasons routing from an easier to manage site (one site vs. two sites), coupled with the need for a more efficient, better designed, mobile site. We had previous experience with responsive design with the <a href="http://facing.aids.gov/" rel="nofollow">Facing AIDS</a> project.
 
 A simple reason for the switch to responsive design can be seen in the increased mobile traffic to AIDS.gov:
 

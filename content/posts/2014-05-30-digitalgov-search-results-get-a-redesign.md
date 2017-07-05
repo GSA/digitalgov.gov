@@ -15,7 +15,7 @@ tag:
 
 The last time [DigitalGov Search]({{< relref "search.md" >}} "DigitalGov Search") did a major redesign of their results page was in January 2012. It was long overdue for a facelift.
 
-So, our team redesigned our search results page. We&#8217;ve kept an eye on best practices in the search industry and what media websites (like NPR.org and NYTimes.com) are up to, But, we&#8217;re not simply following the leaders. We&#8217;ve also [analyzed our search data](https://www.WHATEVER/2014/05/07/analyzing-search-data-in-real-time-to-drive-decisions/ "Analyzing Search Data in Real-Time to Drive Decisions") to make data-driven decisions that, ultimately, aim to make searchers&#8217; experience better on agencies&#8217; sites.
+So, our team redesigned our search results page. We&#8217;ve kept an eye on best practices in the search industry and what media websites (like NPR.org and NYTimes.com) are up to, But, we&#8217;re not simply following the leaders. We&#8217;ve also [analyzed our search data]({{< relref "2014-05-07-analyzing-search-data-in-real-time-to-drive-decisions.md" >}} "Analyzing Search Data in Real-Time to Drive Decisions") to make data-driven decisions that, ultimately, aim to make searchers&#8217; experience better on agencies&#8217; sites.
 
 Read our blog post to [learn more about the redesign](http://search.WHATEVER/blog/serp-redesign.html).
 

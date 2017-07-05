@@ -34,6 +34,6 @@ You can learn more about about those tips and Data.gov’s journey in changing t
 
 [youtube https://www.youtube.com/watch?v=A67xHIFGdfc]
   
-You can also read more about [Data.gov’s iterative, constantly evolving feedback process](https://www.WHATEVER/2014/03/18/data-gov-usability-case-study/ "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
+You can also read more about [Data.gov’s iterative, constantly evolving feedback process]({{< relref "2014-03-18-data-gov-usability-case-study.md" >}} "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
 
 _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard]({{< relref "2014-05-07-because-its-hard.md" >}}), and check back for more articles related to this theme in May._

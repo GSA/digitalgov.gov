@@ -25,7 +25,7 @@ You were very interested in hearing about practices from others in the community
 
 When it came to trends, you were most interested in the
 
-  * increasing diversity of device sizes, [popularly known as phablets](https://www.WHATEVER/2014/11/04/trends-on-tuesday-phablets-to-top-tablets-in-2015/ "Trends on Tuesday: Phablets to Top Tablets in 2015?"),
+  * increasing diversity of device sizes, [popularly known as phablets]({{< relref "2014-11-04-trends-on-tuesday-phablets-to-top-tablets-in-2015.md" >}} "Trends on Tuesday: Phablets to Top Tablets in 2015?"),
   * [meeting mobile power users]({{< relref "2014-09-30-trends-on-tuesday-meet-the-mobile-power-users.md" >}}), and
   * discussing [whether or not QR codes are still relevant]({{< relref "2014-10-06-trends-on-tuesday-are-qr-codes-still-relevant.md" >}}) (no joke!).
 

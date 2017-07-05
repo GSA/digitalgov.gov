@@ -14,7 +14,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 
 
-The Federal Trade Commission (FTC) had such [great success with their first robocall challenge competition](https://www.WHATEVER/2013/10/25/thousands-of-calls-blocked-thanks-to-contest-winner/ "Thousands of Calls Blocked, Thanks to Contest Winner") that the agency decided to take a different angle this year—targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August.
+The Federal Trade Commission (FTC) had such [great success with their first robocall challenge competition]({{< relref "2013-10-25-thousands-of-calls-blocked-thanks-to-contest-winner.md" >}} "Thousands of Calls Blocked, Thanks to Contest Winner") that the agency decided to take a different angle this year—targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August.
 
 Five winners earned cash prizes and bragging rights for their creative technical solutions around building and hacking &#8220;honeypots&#8221; that spoofed illegal robocall experiences. Some details from the program managers:
 

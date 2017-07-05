@@ -21,7 +21,7 @@ As we say at [NOAA](http://www.noaa.gov), &#8220;It only takes one.&#8221;
 
 That &#8220;one&#8221; could be a hurricane or wildfire or any disaster or extreme event. If after a disaster you find yourself with only a mobile device in hand as your most convenient or sole Internet access point, a redesigned FEMA website might come as a small bit of relief.
 
-**[DisasterAssistance.gov](http://www.disasterassistance.gov/)** has recently been refashioned in [responsive design](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools") that provides mobile and non-mobile users of all devices, computer types and screen sizes a similar Web experience and easy access to what disaster survivors need, when they need it. At DisasterAssistance.gov you can:
+**[DisasterAssistance.gov](http://www.disasterassistance.gov/)** has recently been refashioned in [responsive design]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools") that provides mobile and non-mobile users of all devices, computer types and screen sizes a similar Web experience and easy access to what disaster survivors need, when they need it. At DisasterAssistance.gov you can:
 
   * **Access** FEMA&#8217;s Disaster Survivor Application Checklist;
 

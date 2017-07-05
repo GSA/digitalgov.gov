@@ -35,7 +35,7 @@ The program&#8211;developed with and by 25 agencies across government&#8211;will
 
 The program is chock full of useful resources and tools. For starters there is
 
-  * The [Mobile Code Sharing Catalog](https://www.WHATEVER/2013/05/13/federal-mobile-code-sharing-catalog-is-here/ "Federal Mobile Code Sharing Catalog Is Here") provides agency mobile developers with whole [frameworks for a mobile web site](http://gsa.github.io/Mobile-Code-Catalog/web_html.html), modular code to solve common problems, and open-sourced apps to modify or use as a template. AND, agencies and other developers can [submit code for reuse](https://github.com/GSA/Mobile-Code-Catalog/pulls).
+  * The [Mobile Code Sharing Catalog]({{< relref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}} "Federal Mobile Code Sharing Catalog Is Here") provides agency mobile developers with whole [frameworks for a mobile web site](http://gsa.github.io/Mobile-Code-Catalog/web_html.html), modular code to solve common problems, and open-sourced apps to modify or use as a template. AND, agencies and other developers can [submit code for reuse](https://github.com/GSA/Mobile-Code-Catalog/pulls).
 
   *  [RFP-EZ](https://rfpez.gsa.gov/government) helps link agencies and small businesses for tech projects below $150,000&#8211;definitely a sweet spot for many mobile products. The idea is to help agencies reach the talent in startups more quickly and at reasonable cost. We worked with the RFP-EZ team at SBA to include mobile statement of work templates. Now when agencies create a new project in RFP-EZ, they can jumpstart their efforts by choosing the “Mobile Application Development” project type.
 

@@ -23,7 +23,7 @@ The Pew Research Center just released a <a href="http://www.pewinternet.org/2015
 
   1. **Two-thirds of Americans use the Internet or an app to connect with the government.**
   
-    According to Pew, 37% use the Internet to connect with the federal government, 34% connect with their state government, and 32% connect with their local government. It would be interesting to see a further breakout of [users who use an app or mobile devices](https://www.WHATEVER/2015/04/07/trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information/ "Trends on Tuesday: 40% of Smartphone Users Look up Government Information") versus a desktop or laptop computer and Internet browser.
+    According to Pew, 37% use the Internet to connect with the federal government, 34% connect with their state government, and 32% connect with their local government. It would be interesting to see a further breakout of [users who use an app or mobile devices]({{< relref "2015-04-07-trends-on-tuesday-40-of-americans-use-smartphones-to-find-government-information.md" >}} "Trends on Tuesday: 40% of Smartphone Users Look up Government Information") versus a desktop or laptop computer and Internet browser.
   2. **The most popular reason for connecting with the government is to find information about government recreational activities.**
   
     Twenty-seven percent of users searched for information about recreation while close behind with 18% is users who renewed their driver&#8217;s licenses or auto registrations. The third most popular reason (13%) is to learn more about and/or apply for government benefits.

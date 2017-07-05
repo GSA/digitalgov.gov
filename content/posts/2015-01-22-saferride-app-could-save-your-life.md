@@ -32,7 +32,7 @@ The app helps keep drunk drivers off the road by allowing users to call a taxi o
   * Call a pre-programmed contact.
   * Call up a map of your current location.
 
-The app’s simple interface belies the amount of design and development time that went in to making it extremely useful. For instance, [the app pulls in data from Yelp](https://www.WHATEVER/2015/01/26/new-nhtsa-app-uses-yelp-api/ "New NHTSA App Uses Yelp API")—a social network that connects people with local business—to get local taxi information.
+The app’s simple interface belies the amount of design and development time that went in to making it extremely useful. For instance, [the app pulls in data from Yelp]({{< relref "2015-01-26-new-nhtsa-app-uses-yelp-api.md" >}} "New NHTSA App Uses Yelp API")—a social network that connects people with local business—to get local taxi information.
 
 There’s never any excuse to drive after drinking, and now it’s never been easier to help end drunk driving. Use NHTSA’s SaferRide app to get home safely.
 

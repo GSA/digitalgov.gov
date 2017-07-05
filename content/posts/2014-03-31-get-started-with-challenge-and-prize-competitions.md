@@ -14,7 +14,7 @@ tag:
   - innovation
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/250-x-220-stack-of-books-resources.jpg" alt="A stack of hardcover books" >}}Interested in running a [challenge and prize competition](https://www.WHATEVER/2013/11/01/federal-government-challenges-and-contests/ "Link to definition of challenge and prize competition"), but don&#8217;t know where to start? Well, here are all the resources [GSA&#8217;s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729 "link to OCSIT page on GSA.gov") has to offer:
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/250-x-220-stack-of-books-resources.jpg" alt="A stack of hardcover books" >}}Interested in running a [challenge and prize competition]({{< relref "2013-11-01-federal-government-challenges-and-contests.md" >}} "Link to definition of challenge and prize competition"), but don&#8217;t know where to start? Well, here are all the resources [GSA&#8217;s Office of Citizen Services and Innovative Technologies](http://www.gsa.gov/portal/category/25729 "link to OCSIT page on GSA.gov") has to offer:
 
 <p dir="ltr">
   1) <a title="link to Challenge.gov" href="https://challenge.gov/">Challenge.gov</a>. Put your agency&#8217;s challenges on this government-wide listing and learn about more than 300 public prizes run over the past four years. You can filter by agency and challenge type, such as software, ideas, designs. Built and hosted by GSA, you can also use it to run crowdsourcing competitions end to end.  This is available for federal agencies at no cost. <strong>On-demand webinar:</strong> <a href="{{< relref "2014-03-11-crowdsource-ideas-with-new-competition-platform.md" >}}" target="_blank">Crowdsource Ideas with Competition Platform</a>
@@ -24,10 +24,10 @@ tag:
   2) <a title="link to Challenges page on DigitalGov.gov" href="({{< link "categories/challenges" >}}">DigitalGov.gov</a>. Step-by-step toolkits on how to run many types of challenges:
 </p>
 
-  * [Software/apps](https://www.WHATEVER/2013/11/06/software-and-apps-challenges/ "Software/apps challenge toolkit")
-  * [Creative: video/photo/poster](https://www.WHATEVER/2013/10/31/creative-challenge-contests/ "link to toolkit on how to run a video poster or photo contest")
-  * [Technical demonstration and market stimulation](https://www.WHATEVER/2013/10/31/technology-demonstration-and-market-stimulation-challenges/ "link to toolkit on how to run grand scientific and technical challenges")
-  *  [Ideation](https://www.WHATEVER/2013/11/14/ideation-challenges/ "link to toolkit on how to run challenges that collect ideas")
+  * [Software/apps]({{< relref "2013-11-06-software-and-apps-challenges.md" >}} "Software/apps challenge toolkit")
+  * [Creative: video/photo/poster]({{< relref "2013-10-31-creative-challenge-contests.md" >}} "link to toolkit on how to run a video poster or photo contest")
+  * [Technical demonstration and market stimulation]({{< relref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}} "link to toolkit on how to run grand scientific and technical challenges")
+  *  [Ideation]({{< relref "2013-11-14-ideation-challenges.md" >}} "link to toolkit on how to run challenges that collect ideas")
 
 This includes details on the policies and <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-11.pdf" target="_blank">legal authorities</a>, like the [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf "America COMPETES Act Summary Memo"), under which agencies run their competitions.
 

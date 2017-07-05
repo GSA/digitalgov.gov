@@ -98,7 +98,7 @@ _-Karen Trebon, Assistant Director, Digital Government Division_
 
 ## 9:00 Update
 
-It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app](https://www.WHATEVER/2015/02/19/irs2go-app-provides-multi-symptom-relief-for-tax-anxiety/ "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
+It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to check on the go with the [IRS2Go app]({{< relref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}} "IRS2Go App Provides Multi-Symptom Relief for Tax Anxiety"). IRS2Go lets taxpayers check on the status of their tax refund and obtain helpful tax information. If you’re e-filing, you can check your refund status within about 24 hours after the IRS confirms receipt of your tax return.
 
 ### The Stats:
 
@@ -190,7 +190,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience](https://www.WHATEVER/2014/07/01/using-analytics-to-create-change-usa-gov-usability-case-study/ "Using Analytics to Create Change: USA.gov Usability Case Study").
+  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience]({{< relref "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}} "Using Analytics to Create Change: USA.gov Usability Case Study").
 
 _-Alycia Piazza, DigitalGov Platform Manager_
 

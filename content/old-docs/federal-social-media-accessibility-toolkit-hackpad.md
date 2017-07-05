@@ -10,7 +10,7 @@ authors:
 
 ## Improving the Accessibility of Social Media for Public Service
 
-The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice](http://www.WHATEVER/communities/social-media/) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
+The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< relref "social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
 
@@ -42,37 +42,37 @@ Below are tips on how to increase the accessibility of social media. These tips 
 
 In addition, there are many ways users access and participate in social media. Though this toolkit is not meant to address the needs of social media users, we encourage users to be part of the conversation in order to provide guidance to those who are trying to effectively reach them.
 
-## General Social Media Accessibility Tips__ 
+## General Social Media Accessibility Tips__
 
 Below is a set of recommended, baseline strategies to improve the accessibility of government social media.
 
 ### 5 Things Every Social Media Content Manager Needs to Know
 
   1. **Make your contact information available on your social media account page**.
-  
+
     List a primary phone number and email address where a user can reach your agency with questions, or provide a link to your agency website that lists the appropriate contact information.
   2. **Make your social media content available through more than one channel**.
-  
+
     Provide easy points of entry for more information. Some of the most common ways are to post threads on your website, provide options to sign up for daily email digests of social media posts or to add a social media widget to your agency website.
   3. **Provide links or contact information to official social media support and accessibility teams.
-  
+
 ** Often, social media tools have their own accessibility tips and support help desks. Educate yourself about them and provide links to your constituents.
   4. **Keep it simple.
-  
+
 ** Good design and good content more often than not leads to accessible content. When possible, write in plain language, use camel case when appropriate (i.e., capitalize the first letters of compound words as in [#SocialGov](https://hackpad.com/ep/search/?q=%23SocialGov&via=xWKKBxzGubh)), and limit your use of hashtags, abbreviations and acronyms. The use of camel case is not only a common practice, but a helpful one as it makes multi-word hashtags easier to read, including for those using a screen reader.
   5. **Learn the accessibility requirements and periodically test your content for accessibility.
-  
+
 ** Read the [Section 508 Standards](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards) and the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) and other key resources that discuss them. Then test your social media content with a screen reader or other type of assistive technology.
 
 ### Guidelines for Writing in Plain Language
 
-  1. Writing in plain language is a way to ensure that people can understand and use the information provided by a social media post. All federal agencies must write using plain language in accordance with [The Plain Writing Act of 2010](http://www.plainlanguage.gov/plLaw/law/index.cfm), which means all that publicly distributed content should be written in a “clear, concise, well-organized” manner. Key best practices for writing in plain language include: 
+  1. Writing in plain language is a way to ensure that people can understand and use the information provided by a social media post. All federal agencies must write using plain language in accordance with [The Plain Writing Act of 2010](http://www.plainlanguage.gov/plLaw/law/index.cfm), which means all that publicly distributed content should be written in a “clear, concise, well-organized” manner. Key best practices for writing in plain language include:
       1. Choose words that are common and easy to understand.
       2. Avoid run-on sentences. Use clear, short sentences and paragraphs.
       3. Write in the active voice instead of the passive voice.
-  
+
         Passive Voice: Applications for the job were submitted by 100 people.
-  
+
         Active Voice: 100 people submitted applications for the job.
   2. Use this [Document Checklist for Plain Language on the Web](http://www.plainlanguage.gov/howto/quickreference/weblist.cfm) from [PlainLanguage.gov](http://www.plainlanguage.gov/index.cfm) when writing social media posts.
   3. Follow this [5-step checklist provided by the Center for Plain Language](http://centerforplainlanguage.org/5-steps-to-plain-language/) to ensure that your social media posts communicate your message effectively.
@@ -96,7 +96,7 @@ Facebook has an Accessibility Team that is dedicated to issues specific to acces
   2. If possible, avoid using unfamiliar acronyms that would sound strange if read by a screen reader or that could be confusing to some readers. If space allows, try to spell out the acronyms instead, or use a different way to convey the information.
   3. Consider providing an indication that a link in a tweet is a photo, video or audio file (e.g. [PIC], [VIDEO], [AUDIO]). This allows people using screen readers to know what to expect before opening any link. Use uppercase formats for further clarity to sighted users.
   4. If your tweet links to photo, video or audio content, make your tweet act as a descriptive caption so it provides context for the item, and then link back to a website page that hosts a tagged photo, captioned video or audio with full caption. Or, send a follow-up tweet with a description.
-  5. Ensure that you link to accessible content, i.e., a tagged photo, captioned video or audio with written transcript. 
+  5. Ensure that you link to accessible content, i.e., a tagged photo, captioned video or audio with written transcript.
       * A tagged photo simply has alternative text associated with it that describes the image. For more details on alternative text, please visit [http://webaim.org/articles/gonewild/](http://webaim.org/articles/gonewild/#alttext)[#alttext](https://hackpad.com/ep/search/?q=%23alttext&via=xWKKBxzGubh).
   6. Enable the setting on Twitter to use the “image description” feature, which will allow you to to add a descriptive caption to any photo that you directly include in a tweet. For step-by-step instructions on enabling the image description feature on the web and on iOS and Android mobile apps, please visit <https://support.twitter.com/articles/20174660>.
   7. If you are linking to content that your agency has not created and/or you do not know whether that content is accessible or not, make sure your audience is aware of these limitations. Simply provide a note briefly explaining the limitation, such as that: the photo is untagged; the video will auto start; the video does not include captioning; or the audio file is not accompanied by a written transcript. Also provide contact information should the individual require some kind of alternative method to access the content.
@@ -120,13 +120,13 @@ Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-st
   2. Be careful only to include high-quality audio. People who are hard of hearing may have difficulty with the soundtrack of videos that contain music or other effects, or which have not been produced to high audio quality.
   3. Ensure all videos have closed captions and audio description (or a link to a version that has audio descriptions). In addition, a full transcript (of captions and audio description) is useful for people who have both hearing and visual impairments including those who are deaf-blind. YouTube has a feature that will automatically caption videos. To increase accuracy of the YouTube automatic captions, videos should have very clear-spoken words and little background noise. However, since YouTube automatic captioning can be very inaccurate, prepare your own accurate transcript and upload it whenever possible. For step-by-step instructions, please visit: <http://ncdae.org/resources/cheatsheets/youtube.php>.
   4. Descriptive language needs to be used in video captioning to denote audio and visual elements to users who may have visual or hearing disabilities. Make sure to use easy-to-understand language in your descriptions.
-  5. To ensure accurate captioning, create a transcript of the video. To create a transcript use one of the following tools: 
-      * On a Mac (El Capitan): System Preferences > Dictation & Speech > Dictation (On). Then open up any typing program (TextEdit, Word, Notes, Stickies, etc.) and: 
+  5. To ensure accurate captioning, create a transcript of the video. To create a transcript use one of the following tools:
+      * On a Mac (El Capitan): System Preferences > Dictation & Speech > Dictation (On). Then open up any typing program (TextEdit, Word, Notes, Stickies, etc.) and:
           * Play the video, pause, speak what you hear, and repeat.
           * Or, if the speaking parts of the video are very clear, play it loud enough for the Dictation to pick up the voice.
       * Dragon Naturally Speaking (for desktop or the smartphone app).
       * Note that there are certain companies that can perform this task for a modest fee.
-  6. To create captions for video from scratch, or to edit your existing YouTube captions, there are a number of free tools that can help: 
+  6. To create captions for video from scratch, or to edit your existing YouTube captions, there are a number of free tools that can help:
       * [Overstream](http://www.overstream.net/): a popular Web-based captioning tool, with a [related YouTube tutorial](http://www.youtube.com/watch?v=gRmsZ25W3SE).
       * [MAGpie](http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/magpie): a free Windows application from the National Center for Accessible Media.
       * [Subtitle-Horse](http://www.subtitle-horse.com/): a free Web-based application that allows you to upload an FLV file, add captions and export in different file formats.
@@ -169,7 +169,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-st
 
 ## Additional Resources
 
-### Resources recommended by the Community of Practice:** ** 
+### Resources recommended by the Community of Practice:** **
 
   * [Sociability: Social Media for People with a Disability](http://www.mediaaccess.org.au/online-media/social-media) (Australia)
 
@@ -179,7 +179,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-st
 
   * [Accessibility articles on Usability.gov](http://www.usability.gov/tags/accessibility/)
 
-  * [Accessibility section on DigitalGov.gov](http://www.WHATEVER/category/ux/accessibility/)
+  * [Accessibility section on DigitalGov.gov]({{< link "categories/accessibility" >}})
 
   * [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/)
 
@@ -201,7 +201,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-st
 
   * [DigitalGov YouTube Channel](https://www.youtube.com/user/HowTogov)
 
-  * [DigitalGov University On-Demand Training](http://www.WHATEVER/digitalgov-university/)
+  * [DigitalGov University On-Demand Training]({{< relref "digitalgov-university.md" >}})
 
 ### Other Web resources
 

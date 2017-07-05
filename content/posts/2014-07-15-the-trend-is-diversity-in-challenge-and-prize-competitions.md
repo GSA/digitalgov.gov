@@ -31,7 +31,7 @@ The diversity trend continues, with the many platforms and websites federal agen
 
 If you need any information about challenge platforms, [let us know](https://challenge.gov/p/contact "Challenge.gov contact us page"). There are many options, including contractors on [GSA&#8217;s Schedule for Challenge and Competition Services (541 4G)](http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES "GSA Challenge Schedule") and the [sites.usa.gov WordPress tool](http://challenge.sites.usa.gov/ "WordPress tool to run a challenge"). The Challenge.gov team will also review your planning documents, or talk with you during our weekly office hours. Join our [community]({{< relref "challenges-prizes-community.md" >}} "Challenges and Prizes Community page on DigitalGov.gov") to get reminders, and meet other people who can give you feedback on your challenge competition.
 
-So don&#8217;t delay! Be part of the movement and try [crowdsourcing](https://www.WHATEVER/2014/03/31/get-started-with-challenge-and-prize-competitions/ "Getting started with Challenge and Prize Competitions").
+So don&#8217;t delay! Be part of the movement and try [crowdsourcing]({{< relref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}} "Getting started with Challenge and Prize Competitions").
 
 _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
 

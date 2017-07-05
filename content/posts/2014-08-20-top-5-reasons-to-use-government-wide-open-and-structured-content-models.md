@@ -18,7 +18,7 @@ tag:
   - structured content
 ---
 
-Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our [What Structured Content Models Can Do For You Webinars](https://www.WHATEVER/2014/06/09/what-structured-content-can-do-for-you-webinar-recap/ "What Structured Content Can Do For You: Webinar Recap") in May and June.
+Content models provide an opportunity for agencies to structure, organize, distribute, and better publish information in multiple forms and on multiple platforms. Federal agencies discussed why content models are important for future-facing content in our [What Structured Content Models Can Do For You Webinars]({{< relref "2014-06-09-what-structured-content-can-do-for-you-webinar-recap.md" >}} "What Structured Content Can Do For You: Webinar Recap") in May and June.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -26,7 +26,7 @@ The point—with good content models, a single piece of Web content becomes an a
 
 Holly Irving, from the National Institutes of Health, leads a government-wide working group which has been researching industry metadata standards to find common elements for all agencies to use. In May, the group, sponsored by the [Digital Services Innovation Center]({{< relref "about.md" >}} "About"), released government-wide content models.
 
-Irving recently gave us five reasons why agencies should start using the government shared [Article and Event models](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!"), released in May, and stop reinventing the content wheel:
+Irving recently gave us five reasons why agencies should start using the government shared [Article and Event models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), released in May, and stop reinventing the content wheel:
 
   1. **Commonality = Interoperability:** When agencies all use the same models, their Web content can be freely exchanged within and outside the federal government, providing more efficient use of communications resources and a high quality, uniform message for constituents. When created using a common structure, your content is more easily found, gathered, organized and distributed, regardless of platform, format or device.
   2. **Flexibility:** Content is no longer a single unit written for a single purpose. With content models, it becomes a logical aggregation of smaller pieces or “chunks” each defined as a metadata element. The working group models include metadata elements that give APIs and search engines a description of your content, the title, topic keywords and the source organization, for example.

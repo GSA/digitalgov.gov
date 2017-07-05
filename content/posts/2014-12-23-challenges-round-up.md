@@ -23,7 +23,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
-We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview").
+We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview").
 
 On Wednesday, December 10, the [Challenge and Prize Community of Practice]({{< relref "challenges-prizes-community.md" >}} "Challenges & Prizes Community") hosted its quarterly in-person meeting to highlight the roles and responsibilities that [Challenge.gov](https://www.challenge.gov/), the Office of Science and Technology Policy (OSTP) at the White House, NASA’s Center of Excellence for Collaborative Innovation (CoECI) and federal agencies play in hosting and executing challenge and prize competitions. There were two panels of experienced managers that gave attendees insight into the institutionalization of prizes at their agencies and what makes-up a successful challenge. Finally, attendees were also able to garner exactly what they need to provide for the America COMPETES annual Congressional reporting.
 
@@ -33,7 +33,7 @@ This event brought together more than 70 practitioners in-person and online, and
 
 ## The New Challenge.gov
 
-[Challenge.gov added new features recently](https://www.WHATEVER/2014/10/02/introducing-the-new-challenge-gov/ "Introducing the New Challenge.gov") and has pulled the full federal list and competition management tools onto the new platform. It now enables agencies to create and manage their competitions on a robust back-end platform. You can [learn more about the Challenge.gov platform](http://youtu.be/Yw58jVvppAw?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and [how to use Challenge.gov](https://www.youtube.com/watch?v=qXYar-2de44&index=1&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) in these two webinars.
+[Challenge.gov added new features recently]({{< relref "2014-10-02-introducing-the-new-challenge-gov.md" >}} "Introducing the New Challenge.gov") and has pulled the full federal list and competition management tools onto the new platform. It now enables agencies to create and manage their competitions on a robust back-end platform. You can [learn more about the Challenge.gov platform](http://youtu.be/Yw58jVvppAw?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) and [how to use Challenge.gov](https://www.youtube.com/watch?v=qXYar-2de44&index=1&list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC) in these two webinars.
 
 ## Open-Sourced Ideation Platform
 

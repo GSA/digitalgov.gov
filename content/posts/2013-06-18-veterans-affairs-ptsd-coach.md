@@ -20,7 +20,7 @@ We created this app in order to reach out to more people in order to improve tre
 
 ## What We Did
 
-During the creation of PTSD Coach, we met with several different experts as well as veterans to find out what they needed and what they would be looking for in this type of tool. We ended up using the veterans as our key resource and continuously got their feedback to provide a better [user experience](https://www.WHATEVER/2014/01/20/mobile-gov-user-experience-resources-and-design-tools/ "Mobile Gov User Experience Resources and Design Tools").
+During the creation of PTSD Coach, we met with several different experts as well as veterans to find out what they needed and what they would be looking for in this type of tool. We ended up using the veterans as our key resource and continuously got their feedback to provide a better [user experience]({{< relref "2014-01-20-mobile-gov-user-experience-resources-and-design-tools.md" >}} "Mobile Gov User Experience Resources and Design Tools").
 
 ## How It Worked
 
@@ -41,4 +41,4 @@ Our takeaways from the PTSD Coach app center around app design and user experien
 
 ## Contact
 
-Julia Hoffman, Psy.D. | <a href="mailto:julia.hoffman@va.gov" rel="nofollow">email</a> (See Dr. Hoffman talk about creating PTSD Coach in a [mobile user experience webinar)](https://www.WHATEVER/2013/02/11/youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar/ "You'll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar")
+Julia Hoffman, Psy.D. | <a href="mailto:julia.hoffman@va.gov" rel="nofollow">email</a> (See Dr. Hoffman talk about creating PTSD Coach in a [mobile user experience webinar)]({{< relref "2013-02-11-youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar.md" >}} "You'll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar")

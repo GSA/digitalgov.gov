@@ -22,7 +22,7 @@ tag:
 
 When it comes to implementing a social media strategy, determining how to measure success can be challenging. Yes, knowing how many followers and likes you have is beneficial. However, to really get valuable results from the trove of social media data monitor, social media managers first need to understand what they are measuring and why.
 
-When you know your goals, you can determine what channels you will use to get there. Then, you can measure if you are reaching your goals or not. In simple terms, you need goals and [Key Performance Indicators (KPI)](https://www.WHATEVER/2014/08/22/actionable-web-analytics-a-three-step-process/ "Actionable Web Analytics: A Three-Step Process").
+When you know your goals, you can determine what channels you will use to get there. Then, you can measure if you are reaching your goals or not. In simple terms, you need goals and [Key Performance Indicators (KPI)]({{< relref "2014-08-22-actionable-web-analytics-a-three-step-process.md" >}} "Actionable Web Analytics: A Three-Step Process").
 
 For this article, I spoke with Tim Fullerton, Director of Digital Strategy at the Department of Interior (DOI) in Washington, D.C. I also included my experiences as the social media manager at the Natural Resources Conservation Service (NRCS) in Bozeman, Mont. Fullerton and I have separate and very distinct goals. At DOI, he is using social media to speak to and with a national audience. At NRCS in Montana, my goal is to connect with a far smaller audience, farmers and ranchers throughout the state. The strategies vary, but the practice of allowing metrics to drive social media change is identical.
 

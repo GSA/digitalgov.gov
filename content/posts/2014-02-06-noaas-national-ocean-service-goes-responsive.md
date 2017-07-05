@@ -53,4 +53,4 @@ NOS&#8217;s new design uses a responsive approach that is both elegant and actio
 
 \___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\____
 
-_Got questions about responsive design? Start with this helpful [**article**](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools"). And don&#8217;t forget: you can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+_Got questions about responsive design? Start with this helpful [**article**]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). And don&#8217;t forget: you can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._

@@ -12,7 +12,7 @@ tag:
 
 **As the nation’s primary platform for sharing and improving government software, Code.gov can help the government save millions of taxpayer dollars.**
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600-x-218-Codegov-sharing.png" alt="Screen capture from Code.gov homepage" >}}
+{{< legacy-img src="{{< link "files/2017/06/600-x-218-Codegov-sharing.png" >}}" alt="Screen capture from Code.gov homepage" >}}
 
 It’s no secret that the federal government spends billions of dollars a year on software transactions. So, in an effort to cut excessive spending, the government released the <a href="https://sourcecode.cio.gov/" target="_blank" rel="nofollow noopener noreferrer">Federal Source Code Policy</a> last year to reduce duplicative software acquisitions. The policy requires that new software developed for or by the federal government be made available for sharing and reuse across all federal agencies. As you might imagine, implementing a code sharing requirement of this scale has the potential to save millions of taxpayer dollars by cutting down on wasteful acquisitions.
 
@@ -46,7 +46,7 @@ We’re working hard to expand the discoverability of repos on Code.gov. To that
 
 > “Who’s stepping up to improve the government’s code?”
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600-x-400-Codegov-GitHub-screenshot.png" alt="Screencapture of recent activity on the Code.gov GitHub repo." >}}
+{{< legacy-img src="{{< link "files/2017/06/600-x-400-Codegov-GitHub-screenshot.png" >}}" alt="Screencapture of recent activity on the Code.gov GitHub repo." >}}
 
 Expanding access to federal source code has the potential to leverage the brilliant brainpower of technologists around the country in improving our federal software infrastructure. But we all know that not all code is created equal. We want to highlight code that is current, cared for, and contributed to. What kinds of metrics would you like to see (_e.g._, forks, contributors, watchers, commits)? How can we make it easier for you to give back to the country through code? <a href="https://github.com/presidential-innovation-fellows/code-gov-web/issues/122" target="_blank" rel="nofollow noopener noreferrer">Share your ideas here</a>.
 

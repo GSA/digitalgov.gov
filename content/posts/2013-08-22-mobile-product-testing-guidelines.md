@@ -97,7 +97,7 @@ In June 2012, the testing group at NIH provided guidance on different types of m
       * Test on different OS versions (latest and legacy OS).
       * Test on different carriers.
       * Test on different browsers (if a web app).
-      * Check our article on [Compatibility Testing](https://www.WHATEVER/2013/11/21/mobile-product-compatibility-and-functional-testing-101/ "Mobile Product Compatibility and Functional Testing 101")
+      * Check our article on [Compatibility Testing]({{< relref "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
   * [Security](https://digitalgov.sites.usa.gov/2013/08/05/mobile-product-security-and-privacy-testing-resources/ "Mobile Product Security and Privacy Testing Resources")
       * Is private data kept private?
           * Stored personal data is password protected and/or encrypted.

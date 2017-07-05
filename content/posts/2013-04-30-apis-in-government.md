@@ -50,7 +50,7 @@ APIs:
   * **Speed product development** through improved prototyping and ease of access for internal teams and sister agencies by allowing granular and open access to content.
   * **Build markets** by improving access to government resources like health, economic, energy, education, environmental resources for entrepreneurs to build upon.
 
-Learn more about the [benefits of APIs](https://www.WHATEVER/2013/03/12/benefits-of-apis/ "Benefits of APIs").
+Learn more about the [benefits of APIs]({{< relref "2013-03-12-benefits-of-apis.md" >}} "Benefits of APIs").
 
 ## API Basics
 
@@ -64,7 +64,7 @@ API formats are usually either XML ([Extensible Markup Language](http://en.wikip
 
 New APIs are routinely described as RESTful JSON because they follow the REST architectural style and use JSON as its data representation format.
 
-Learn more about [API technical choices](https://www.WHATEVER/2013/03/12/api-basics#common-technical-choices "API Basics").
+Learn more about [API technical choices]({{< relref "2013-03-12-api-basics.md#common-technical-choices" >}} "API Basics").
 
 ### API Types
 
@@ -84,11 +84,11 @@ APIs are mostly either read-only or read-write. A general way to differentiate t
 
 APIs need to provide value to your agency and to developers. The best way to make that happen is to tie an API program to your agency mission.
 
-  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#audit "How to Get Started with APIs").****
-  2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#assemble-components "How to Get Started with APIs").
-  3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis#implement "How to Get Started with APIs").
-  4. **Track Progress**: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more [tracking the progress](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
-  5. **Repeat**: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more about [repeating the process](https://www.WHATEVER/2013/03/12/how-to-get-started-with-apis/ "How to Get Started with APIs").
+  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs]({{< relref "2013-03-12-how-to-get-started-with-apis.md#audit" >}} "How to Get Started with APIs").****
+  2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components]({{< relref "2013-03-12-how-to-get-started-with-apis.md#assemble-components" >}} "How to Get Started with APIs").
+  3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API]({{< relref "2013-03-12-how-to-get-started-with-apis.md#implement" >}} "How to Get Started with APIs").
+  4. **Track Progress**: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more [tracking the progress]({{< relref "2013-03-12-how-to-get-started-with-apis.md" >}} "How to Get Started with APIs").
+  5. **Repeat**: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more about [repeating the process]({{< relref "2013-03-12-how-to-get-started-with-apis.md" >}} "How to Get Started with APIs").
 
 ## Resources and Tools for Building APIs
 

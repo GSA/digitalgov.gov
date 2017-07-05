@@ -28,6 +28,6 @@ Making app development as easy as visually combining APIs like Lego blocks will 
 
 _(**Note**: the mention of IFTTT, Stamplay, and Lego does not imply an endorsement of these products or the companies. The mentioned products and companies are used for illustrative purposes.)_
 
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs](https://www.WHATEVER/2013/04/30/apis-in-government/ "APIs in Government") are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:bill.brantley@wdc.usda.gov" target="_blank">email</a>._
+_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how [government APIs]({{< relref "2013-04-30-apis-in-government.md" >}} "APIs in Government") are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:bill.brantley@wdc.usda.gov" target="_blank">email</a>._
 
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

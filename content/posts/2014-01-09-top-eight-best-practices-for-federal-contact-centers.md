@@ -23,7 +23,7 @@ tag:
 
 ## 1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers
 
-  * Understand and follow all [Privacy, Security, Disability, and Service Contract Act](https://www.WHATEVER/2013/10/28/federal-contact-center-regulations-and-directives/ "Federal Contact Center Regulations & Directives") requirements.
+  * Understand and follow all [Privacy, Security, Disability, and Service Contract Act]({{< relref "2013-10-28-federal-contact-center-regulations-and-directives.md" >}} "Federal Contact Center Regulations & Directives") requirements.
 
 ## 2. Use Performance Metrics to Influence Business Rules and Drive Improvements
 

@@ -17,7 +17,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-Now that Thunderclap has been [approved for government use](https://www.WHATEVER/2013/08/05/thunderclap-now-available-for-government-wide-adoption/ "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
+Now that Thunderclap has been [approved for government use]({{< relref "2013-08-05-thunderclap-now-available-for-government-wide-adoption.md" >}} "Thunderclap Now Available for Government-Wide Adoption") for nearly a year, we checked in with two agencies that have successfully used the crowd-speaking tool to rally their supporters and amplify their messages. In case you missed it, you can replay the webinar.
 
 [youtube=http://www.youtube.com/watch?v=QuACkq02GVw&w=600]
 

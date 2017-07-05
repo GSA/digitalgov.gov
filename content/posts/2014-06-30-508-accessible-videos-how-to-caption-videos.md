@@ -79,6 +79,6 @@ Instead, use high-contrast color combinations, such as black letters on a solid 
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg" alt="600-x-337-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/665-x-373-Resource-Accessible-Videos-How-to-Caption-Videos-Proper-Size-and-Readable-caption.jpg)
 
-This image has captions that are at least 9 point, and the text color is readable on the background behind it, so reading them is much easier. For more information about captions in a specific player, see [Use a 508-Compliant and Accessible Video Player](https://www.WHATEVER/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/ "508 Accessible Videos – Use a 508-Compliant Video Player").
+This image has captions that are at least 9 point, and the text color is readable on the background behind it, so reading them is much easier. For more information about captions in a specific player, see [Use a 508-Compliant and Accessible Video Player]({{< relref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}} "508 Accessible Videos – Use a 508-Compliant Video Player").
 
 There are dozens of captioning tools out there, do a [search](https://www.google.com/#q=video+captioning+resources&safe=active "Google search") to find some of them.

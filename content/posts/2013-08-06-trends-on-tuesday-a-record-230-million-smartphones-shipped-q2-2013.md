@@ -29,4 +29,4 @@ tag:
 
 **Total Growth Year-over-Year %  &#8211;  41.60%    46.70%**
 
-This data shows that mobile adoption continues to rise rapidly worldwide.  Agencies should keep this in mind and take a [mobile first approach.](https://www.WHATEVER/2013/09/30/mobile-first/ "Mobile First")
+This data shows that mobile adoption continues to rise rapidly worldwide.  Agencies should keep this in mind and take a [mobile first approach.]({{< relref "2013-09-30-mobile-first.md" >}} "Mobile First")

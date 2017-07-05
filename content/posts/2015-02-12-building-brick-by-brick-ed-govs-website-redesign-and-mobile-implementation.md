@@ -19,7 +19,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.
 
-In line with the [piecemeal responsive Web design implementation](https://www.WHATEVER/2015/01/13/trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal/?utm_source=rss&utm_medium=rss&utm_campaign=trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal) trend we recently highlighted, the [new Ed.gov website redesign]({{< relref "2015-01-23-new-ed-gov-homepage-and-more.md" >}}) happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.
+In line with the [piecemeal responsive Web design implementation]({{< relref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) trend we recently highlighted, the [new Ed.gov website redesign]({{< relref "2015-01-23-new-ed-gov-homepage-and-more.md" >}}) happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.
 
 “We use three different CMSs,” said Jill James, Web director at the Department of Education. “We timed the phases of our redesigns with technical upgrades that we needed to do anyway.”
 

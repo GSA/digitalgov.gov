@@ -27,7 +27,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-orange-Business-team-Network-isolated-on-white-Mostafa-Fawzy-Hemera-Thinkstock-101365600.jpg" alt="Business team Network isolated on white" caption="" >}} 
 
-In one sense, almost any type of user research is crowdsourced—you’re talking to people and using that information to improve your system. But in a true sense, [crowdsourcing is more than just collecting information](https://www.WHATEVER/2014/12/08/crowdsourcing-month-an-overview/ "Crowdsourcing Month: An Overview"), it’s collaborating on it. We want to have real conversations, not one-time emailed suggestions without followups. So here’s a few tidbits on crowdsourcing User Experience (UX) for your site, mobile app, API or whatever else you&#8217;ve got cooking:
+In one sense, almost any type of user research is crowdsourced—you’re talking to people and using that information to improve your system. But in a true sense, [crowdsourcing is more than just collecting information]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"), it’s collaborating on it. We want to have real conversations, not one-time emailed suggestions without followups. So here’s a few tidbits on crowdsourcing User Experience (UX) for your site, mobile app, API or whatever else you&#8217;ve got cooking:
 
 ## Crowdsource your bug testing
 

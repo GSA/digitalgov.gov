@@ -35,7 +35,7 @@ Mobile-friendly sites on NPS.gov:
 
   * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}Provide a better user experience on web-enabled devices of all shapes and sizes. Right now, almost 40% of NPS.gov visitors use tablets or mobile devices to access the site. The responsive design will better serve those visitors.
   * Ensure that audiences whose only Internet access is through mobile devices have good usability on NPS.gov.
-  * Appear higher in Web searches on those [search engines that factor mobile friendliness](https://www.WHATEVER/2015/04/15/mobilegeddon-government-edition/ "Mobilegeddon: Government Edition") when displaying results.
+  * Appear higher in Web searches on those [search engines that factor mobile friendliness]({{< relref "2015-04-15-mobilegeddon-government-edition.md" >}} "Mobilegeddon: Government Edition") when displaying results.
   * Use the same Web design code as all sites using the NPS content management system, rather than having different code for desktops/laptops and for mobile devices.
   * Improve speed and performance for visitors.
   * Are ready for whatever devices come in the future!

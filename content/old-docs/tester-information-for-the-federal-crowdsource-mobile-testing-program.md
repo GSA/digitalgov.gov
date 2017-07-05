@@ -21,7 +21,7 @@ You can find information on the current test cycle and previous test cycle docum
 
 Prior to a test cycle, volunteer testers should review the following information:
 
-  * [Mobile Product Compatibility and Functional Testing 101](https://www.WHATEVER/2013/11/21/mobile-product-compatibility-and-functional-testing-101/ "Mobile Product Compatibility and Functional Testing 101")
+  * [Mobile Product Compatibility and Functional Testing 101]({{< relref "2013-11-21-mobile-product-compatibility-and-functional-testing-101.md" >}} "Mobile Product Compatibility and Functional Testing 101")
 
 ### Previous Test Cycle Documentation
 
@@ -30,8 +30,8 @@ Prior to a test cycle, volunteer testers should review the following information
 
 ### Previous Issues of The Mobile Tester
 
-  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes](https://www.WHATEVER/2014/02/28/mobile-tester-usability-short-reads-learning-from-others-mistakes/ "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
-  * [Test Cases: Write Them Once, Test Many Times](https://www.WHATEVER/2013/12/16/the-test-case-write-it-once-test-many-times/ "The Test Case: Write It Once, Test Many Times"), Dec 2013
-  * [Which Devices Should I Test With](https://www.WHATEVER/2013/10/29/which-devices-should-i-test-with/ "Which Devices Should I Test With?")? Oct 2013
+  * [Mobile Tester: Usability Short Reads: Learning from others’ mistakes]({{< relref "2014-02-28-mobile-tester-usability-short-reads-learning-from-others-mistakes.md" >}} "Mobile Tester: Usability Short Reads: Learning from others’ mistakes"), Feb 2014
+  * [Test Cases: Write Them Once, Test Many Times]({{< relref "2013-12-16-the-test-case-write-it-once-test-many-times.md" >}} "The Test Case: Write It Once, Test Many Times"), Dec 2013
+  * [Which Devices Should I Test With]({{< relref "2013-10-29-which-devices-should-i-test-with.md" >}} "Which Devices Should I Test With?")? Oct 2013
 
  

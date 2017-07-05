@@ -21,7 +21,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}
 
-Responsive Web design is widely-known as a go-to solution for [designing a website to fit on any device’s screen size](https://www.WHATEVER/2013/06/11/responsive-design/ "Responsive Design Overview, Resources and Tools"). As we found in our [February workshop]({{< relref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal agencies are implementing it for various reasons.
+Responsive Web design is widely-known as a go-to solution for [designing a website to fit on any device’s screen size]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). As we found in our [February workshop]({{< relref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal agencies are implementing it for various reasons.
 
 There are various ways to implement responsive design. Some agencies have implemented it via [structured data and content modeling]({{< relref "2014-05-27-video-blog-part-3-sarah-crane-usa-gov.md" >}}) and others have [completely redesigned their website]({{< relref "2014-05-15-defense-finance-and-accounting-service-goes-responsive.md" >}}). Agencies who are not yet at that point are looking for ways they can begin.
 

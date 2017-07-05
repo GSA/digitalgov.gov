@@ -107,11 +107,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to FAQs Done Right" href="https://www.WHATEVER//2015/09/04/faqs-done-right/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
+          <a title="Permanent Link to FAQs Done Right" href="{{< relref "2015-09-04-faqs-done-right.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
         </div>
         
         <h4 class="post-title">
-          <a href="https://www.WHATEVER//2015/09/04/faqs-done-right/">FAQs Done Right</a>
+          <a href="{{< relref "2015-09-04-faqs-done-right.md" >}}">FAQs Done Right</a>
         </h4>
       </div>
     </div>

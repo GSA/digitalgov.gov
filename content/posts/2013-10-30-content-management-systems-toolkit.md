@@ -16,7 +16,7 @@ tag:
   - sitesusagov
 ---
 
-Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model](https://www.WHATEVER/2014/05/05/government-open-and-structured-content-models-are-here/ "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
+Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
 
 The key steps in getting ready to move to a CMS include:
 
@@ -62,7 +62,7 @@ Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated,
 
 ### Determine Content Structure
 
-Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy](https://www.WHATEVER/2013/07/29/how-to-create-open-structured-content/ "How to Create Open, Structured Content").
+Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy]({{< relref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content").
 
 {{< legacy-img src="CDN/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -148,7 +148,7 @@ Talk with other [government agencies who already use a particular CMS]({{< relre
 
 ### Document Your CMS Requirements
 
-Business needs should be the [primary driver](https://www.WHATEVER/2013/12/12/9-reasons-your-agency-should-have-a-cms/ "9 Reasons Your Agency Should Have A CMS") in your choice of a content management system for your agency. Start with your content strategy, then focus on the CMS features and functionality that support that strategy. Consider the following:
+Business needs should be the [primary driver]({{< relref "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS") in your choice of a content management system for your agency. Start with your content strategy, then focus on the CMS features and functionality that support that strategy. Consider the following:
 
 ### Ease of Use
 
@@ -383,6 +383,6 @@ If you’ve done your research and followed your plan, you should have a smooth 
 
 ### Case Studies
 
-  * [Why NCI Moved to a Structured Content Model](https://www.WHATEVER/2013/07/25/why-nci-moved-to-a-structured-content-model/ "Why NCI Moved to a Structured Content Model")
-  * [How NASA Chose a New Content Management System](https://www.WHATEVER/2012/11/21/how-nasa-chose-a-new-content-management-system/ "How NASA Chose a New Content Management System")
-  * [How the Department of Education Automated Publication of Press Releases](https://www.WHATEVER/2012/11/21/how-the-department-of-education-automated-publication-of-press-releases/ "How the Department of Education Automated Publication of Press Releases")
+  * [Why NCI Moved to a Structured Content Model]({{< relref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}} "Why NCI Moved to a Structured Content Model")
+  * [How NASA Chose a New Content Management System]({{< relref "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
+  * [How the Department of Education Automated Publication of Press Releases]({{< relref "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")

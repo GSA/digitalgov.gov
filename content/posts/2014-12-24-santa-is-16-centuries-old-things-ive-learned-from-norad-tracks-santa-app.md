@@ -15,7 +15,7 @@ tag:
   - United States Department of Defense
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-NORAD-Santa-Tracker-Android-app-home-screen.jpg" alt="NORAD Santa Tracker app home screen on an Android smartphone" >}}NORAD&#8217;s Santa Tracker is available for [download again!](https://www.WHATEVER/2013/12/19/the-2013-norad-tracks-santa-app/ "The 2013 NORAD Tracks Santa App")
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-444-NORAD-Santa-Tracker-Android-app-home-screen.jpg" alt="NORAD Santa Tracker app home screen on an Android smartphone" >}}NORAD&#8217;s Santa Tracker is available for [download again!]({{< relref "2013-12-19-the-2013-norad-tracks-santa-app.md" >}} "The 2013 NORAD Tracks Santa App")
 
 Here are five things I learned from the magical **NORAD Tracks Santa** app to keep my nieces, nephews and neighborhood children entertained this holiday season, even if I don’t remember how many of them I should buy presents for:
 

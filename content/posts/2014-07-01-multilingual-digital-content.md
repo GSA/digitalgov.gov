@@ -51,10 +51,10 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
   * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} 
     [GSA/ANLE Agreement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-ANLE-Agreement.pdf)—GSA entered into an agreement with the North American Academy of the Spanish Language (ANLE) in 2009 to improve and standardize the use of the Spanish language in government communications. The agreement was renewed in 2012 and again in March of 2014.</li> 
     
-      * [Top 10 Best Practices for Multilingual Websites](https://www.WHATEVER/2012/08/12/top-10-best-practices-for-multilingual-websites/ "Top 10 Best Practices for Multilingual Websites")
+      * [Top 10 Best Practices for Multilingual Websites]({{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")
       * [Official Directory of Federal Agency Names in Spanish](http://www.usa.gov/gobiernousa/directorios/federal/index.shtml)
       * [Spanish Language Style Guide and Glossaries for U.S. Government Websites]({{< relref "spanish-language-style-guide-and-glossaries.md" >}} "Spanish Language Style Guide and Glossaries")—Browse the Guide and learn about Spanish language use of capitalization, abbreviations, punctuation, diacritics and much more. Consult glossaries on health, technology, government terminology and more!
-      * [Lost in Translation](https://www.WHATEVER/2012/10/01/automated-translation-good-solution-or-not/ "Automated Translation—Good Solution or Not?")</ul> 
+      * [Lost in Translation]({{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}} "Automated Translation—Good Solution or Not?")</ul> 
     
     ## Resources
     
