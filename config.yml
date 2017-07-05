@@ -173,12 +173,12 @@ menu:
     - Name            : "Video"
       Parent          : "content"
       Identifier      : "video"
-      URL             : "/categories/content/video/"
+      URL             : "/categories/video/"
       Weight          : 20
     - Name            : "Writing"
       Parent          : "content"
       Identifier      : "writing"
-      URL             : "/categories/content/writing/"
+      URL             : "/categories/writing/"
       Weight          : 21
 
     - Name            : "managing digital"
