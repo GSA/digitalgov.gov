@@ -1,0 +1,37 @@
+/**
+ * Metaphor Tabs
+ * Date: 6/25/2014
+ *
+ * @author Metaphor Creations
+ * @version 1.0.1
+ *
+ **/
+
+.mtphr-tabs,
+.mtphr-tabs * {
+	box-sizing: border-box;
+}
+.mtphr-tabs {
+	width: 100%;
+	border-spacing: 0;
+}
+.mtphr-tabs td {
+	vertical-align: top;
+	padding: 0;
+}
+.mtphr-tabs-links td {
+	text-align: center;
+}
+.mtphr-tabs-links a {
+	display: block;
+}
+.mtphr-tabs-content-container-inner {
+	position: relative;
+}
+.mtphr-tabs-content {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}

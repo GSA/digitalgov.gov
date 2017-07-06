@@ -1,0 +1,232 @@
+title                   : "digital.gov"
+baseURL                 : "/"
+languageCode            : "en-us"
+theme                   : "digital.gov"
+themesDir               : "./themes"
+
+MetaDataFormat          : "yaml"
+DefaultContentLanguage  : "en"
+SectionPagesMenu        : "main"
+Paginate                : 100
+googleAnalytics         : ""
+enableRobotsTXT         : false
+
+ignoreFiles:
+  - "^_template"
+
+sitemap:
+  changefreq            : "monthly"
+  priority              : 0.5
+  filename              : "sitemap.xml"
+
+params:
+  description           : "digital.gov"
+  faceboook             : ""
+  twitter               : ""
+  instagram             : ""
+  youtube               : ""
+  background_color_class: "bg-black"
+  featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
+  cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
+  defaulturl            : "https://digital.gov"
+
+permalinks:
+  posts                 : ":year/:month/:day/:slug/"
+
+taxonomies:
+  tag                   : "tag"
+  category              : "categories"
+  author                : "authors"
+
+menu:
+  primary:
+    - Name            : "home"
+      Identifier      : "home"
+      URL             : "/*/"
+      Weight          : 1
+
+    - Name            : "events"
+      Identifier      : "events"
+      URL             : "/events/"
+      Weight          : 2
+    - Name            : "Digitalgov University"
+      Parent          : "events"
+      Identifier      : "dg-university"
+      URL             : "/digitalgov-university/"
+      Weight          : 20
+    - Name            : "Video Library"
+      Parent          : "events"
+      Identifier      : "video-library"
+      URL             : "http://www.youtube.com/user/howtogov"
+      Weight          : 21
+
+    - Name            : "communities"
+      Identifier      : "communities"
+      URL             : "/communities/"
+      Weight          : 3
+
+    - Name            : "services"
+      Identifier      : "services"
+      URL             : "/services/"
+      Weight          : 4
+    - Name            : "Challenges & Prizes"
+      Parent          : "services"
+      Identifier      : "challenge-gov"
+      URL             : "services/challenge-gov/"
+      Weight          : 41
+    - Name            : "Content Management Systems"
+      Parent          : "services"
+      Identifier      : "sites-usa-gov"
+      URL             : "/services/sites-usa-gov/"
+      Weight          : 42
+    - Name            : "Crowdsource Mobile Testing"
+      Parent          : "services"
+      Identifier      : "mobile-application-testing-program"
+      URL             : "/services/mobile-application-testing-program/"
+      Weight          : 43
+    - Name            : "data.gov"
+      Parent          : "services"
+      Identifier      : "data-gov"
+      URL             : "/services/data-gov/"
+      Weight          : 44
+    - Name            : "Digital Analytics Program (Metrics)"
+      Parent          : "services"
+      Identifier      : "dap"
+      URL             : "/services/dap/"
+      Weight          : 45
+    - Name            : "Electronic Capital Planning and Investment Control"
+      Parent          : "services"
+      Identifier      : "electronic-capital-planning-and-investment-control-ecpic"
+      URL             : "/services/electronic-capital-planning-and-investment-control-ecpic/"
+      Weight          : 46
+    - Name            : "Search"
+      Parent          : "services"
+      Identifier      : "search"
+      URL             : "/services/search/"
+      Weight          : 47
+    - Name            : "U.S. Digital Registry"
+      Parent          : "services"
+      Identifier      : "u-s-digital-registry"
+      URL             : "/services/u-s-digital-registry/"
+      Weight          : 48
+    - Name            : "URL Shortener"
+      Parent          : "services"
+      Identifier      : "usa-gov-short-urls"
+      URL             : "/services/usa-gov-short-urls/"
+      Weight          : 49
+
+    - Name            : "resources"
+      Identifier      : "resources"
+      URL             : "/resources/"
+      Weight          : 5
+
+    - Name            : "About"
+      Identifier      : "about"
+      URL             : "/about/"
+      Weight          : 6
+    - Name            : "Contact Us"
+      Parent          : "about"
+      Identifier      : "contact-us"
+      URL             : "/contact-us/"
+      Weight          : 61
+
+    - Name            : "Join Digitalgov"
+      Identifier      : "join"
+      URL             : "/join-digitalgov/"
+      Weight          : 7
+    - Name            : "Open Opportunites"
+      Parent          : "join"
+      Identifier      : "open-opportunities"
+      URL             : "/join-digitalgov/open-opportunities-in-digitalgov/"
+      Weight          : 71
+
+  secondary:
+    - Name            : "Challenges"
+      Identifier      : "challenges"
+      URL             : "/categories/challenges/"
+      Weight          : 1
+    - Name            : "Crowdsourcing & Citizen Science"
+      Parent          : "challenges"
+      Identifier      : "crowdsourcing-and-citizen-science"
+      URL             : "/categories/crowdsourcing-and-citizen-science/"
+      Weight          : 11
+
+    - Name            : "code"
+      Identifier      : "code"
+      URL             : "/categories/code/"
+      Weight          : 2
+    - Name            : "API"
+      Parent          : "code"
+      Identifier      : "api"
+      URL             : "/categories/api/"
+      Weight          : 20
+    - Name            : "Data"
+      Parent          : "code"
+      Identifier      : "data"
+      URL             : "/categories/data/"
+      Weight          : 21
+
+    - Name            : "content"
+      Identifier      : "content"
+      URL             : "/categories/content/"
+      Weight          : 3
+    - Name            : "Video"
+      Parent          : "content"
+      Identifier      : "video"
+      URL             : "/categories/video/"
+      Weight          : 20
+    - Name            : "Writing"
+      Parent          : "content"
+      Identifier      : "writing"
+      URL             : "/categories/writing/"
+      Weight          : 21
+
+    - Name            : "managing digital"
+      Identifier      : "managing-digital"
+      URL             : "/categories/managing-digital/"
+      Weight          : 4
+    - Name            : "Governance"
+      Parent          : "managing-digital"
+      Identifier      : "governance"
+      URL             : "/categories/governance/"
+      Weight          : 41
+    - Name            : "Strategy & Policy"
+      Parent          : "managing-digital"
+      Identifier      : "governance"
+      URL             : "/categories/strategy-and-policy/"
+      Weight          : 42
+
+    - Name            : "metrics"
+      Identifier      : "resources"
+      URL             : "/categories/metrics/"
+      Weight          : 5
+
+    - Name            : "mobile"
+      Identifier      : "mobile"
+      URL             : "/categories/mobile/"
+      Weight          : 6
+
+    - Name            : "social media"
+      Identifier      : "social-media"
+      URL             : "/categories/social-media/"
+      Weight          : 7
+
+    - Name            : "ux"
+      Identifier      : "ux"
+      URL             : "/categories/ux/"
+      Weight          : 7
+    - Name            : "Accessibility"
+      Parent          : "ux"
+      Identifier      : "accesibility"
+      URL             : "/categories/accesibility/"
+      Weight          : 71
+    - Name            : "Design"
+      Parent          : "ux"
+      Identifier      : "design"
+      URL             : "/categories/design/"
+      Weight          : 71
+    - Name            : "User Testing & Research"
+      Parent          : "ux"
+      Identifier      : "user-testing-and-research"
+      URL             : "/categories/user-testing-and-research/"
+      Weight          : 71

@@ -1,0 +1,295 @@
+
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "tribe_events-template-default single single-tribe_events tribe-js tribe-filter-live c-sw unboxed centercatnav bodybg1 events-single tribe-events-style-full tribe-events-style-theme tribe-theme-wp-enlightened tribe-events-page-template tribe-is-responsive tribe-mobile" }}
+  {{ if .Params.venue.is_inperson }}
+    {{ if .Params.venue.is_remote }}
+      {{ $.Scratch.Set "headtitle" (printf "In-Person & Online: %s : Digital.gov" .Title) }}
+    {{ else }}
+      {{ $.Scratch.Set "headtitle" (printf "In-Person: %s : Digital.gov" .Title) }}
+    {{ end }}
+  {{ else }}
+    {{ $.Scratch.Set "headtitle" (printf "Online: %s : Digital.gov" .Title) }}
+  {{ end }}
+{{ end }}
+
+{{ define "content" }}
+
+  {{ if .Params.venue.is_inperson }}
+    {{ if .Params.venue.is_remote }}
+      {{ $.Scratch.Set "eventtitle" (printf "In-Person & Online: %s" .Title) }}
+    {{ else }}
+      {{ $.Scratch.Set "eventtitle" (printf "In-Person: %s" .Title) }}
+    {{ end }}
+  {{ else }}
+    {{ $.Scratch.Set "eventtitle" (printf "Online: %s" .Title) }}
+  {{ end }}
+
+  <div id="wrap">
+  	<div id="tribe-events-pg-template">
+      {{/* removed data attribs */}}
+      {{/*
+  		<div id="tribe-events" class="tribe-no-js" data-live_ajax="1" data-datepicker_format="2" data-category="" data-featured="">
+      */}}
+      <div id="tribe-events" class="tribe-no-js">
+  			<div class="tribe-events-before-html"></div>
+
+        {{/* This spinner doesn't work in the hugo site */}}
+        {{/*
+  		    <span class="tribe-events-ajax-loading"><img class="tribe-events-spinner-medium" src="https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="Loading Events" />
+  			</span>
+        */}}
+  			<div id="tribe-events-content" class="tribe-events-single">
+  				<p class="tribe-events-back">
+  					<a href="{{ "events/" | absURL }}"> &laquo; All Events </a>
+  				</p>
+
+  				<!-- Notices -->
+
+  				<h1 class="tribe-events-single-event-title">{{ $.Scratch.Get "eventtitle" }}</h1>
+  				<div class="tribe-events-schedule tribe-clearfix">
+            <h2><span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span></h2>
+  				</div><!-- .tribe-events-scnedule -->
+
+  				<div id="tribe-events-header" data-title="In-Person &amp; Online: June Challenge and Prize Community of Practice Meeting &#8211; DigitalGov">
+  					<h3 class="tribe-events-visuallyhidden">Event Navigation</h3>
+  					<ul class="tribe-events-sub-nav">
+              {{/* get previous event */}}
+              {{/* TODO: Add online/inperson prefix to titles */}}
+              {{ if .PrevInSection }}
+                <li class="tribe-events-nav-previous"><a href="{{ .PrevInSection.Permalink }}"><span>&laquo;</span> {{ .PrevInSection.Title }}</a></li>
+              {{ end }}
+
+              {{/* get next event */}}
+              {{ if .NextInSection }}
+                <li class="tribe-events-nav-next"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} <span>&raquo;</span></a></li>
+              {{ end }}
+  					</ul><!-- .tribe-events-sub-nav -->
+  				</div><!-- #tribe-events-header -->
+
+          {{/* TODO: Make class generation more dynamic */}}
+  				<div class="tribe_events type-tribe_events status-publish has-post-thumbnail hentry">
+  					<!-- Event featured image, but exclude link -->
+
+            {{/* TODO: image cropping with object-fit
+                  https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
+            {{/* TODO: image size and scaling? responsiveness? */}}
+  					<div class="tribe-events-event-image">
+              <img
+                width="210"
+                height="210"
+                src="{{ .Params.featured_image.link }}"
+                class="attachment-full size-full wp-post-image"
+                alt="{{ .Params.featured_image.text }}">
+            </div>
+
+  					<div class="tribe-events-content tribe-events-single-event-description">
+  						<p><em>Note: All DigitalGov University events take place in Eastern Time.</em></p>
+  						<p><a href="{{ .Params.registration_link }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_link }}', 'REGISTER NOW');"
+  							  class="button" style="color: #000000">REGISTER NOW</a></p>
+              {{ if .Params.location.is_inperson }}
+                {{ if .Params.location.is_remote }}
+      						<p><strong>This event is in-person + remote.</strong></p>
+                {{ else }}
+                  <p><strong>This event is in-person.</strong></p>
+                {{ end }}
+              {{ else }}
+                <p><strong>This event is remote.</strong></p>
+              {{ end }}
+  						<p><strong>Location</strong><br />
+                {{ if .Params.location.venue }}
+                  {{ .Params.location.venue }}<br />
+                {{ end }}
+                {{ if .Params.location.street }}
+                  {{ .Params.location.street }}<br />
+                {{ end }}
+                {{ if .Params.location.street }}
+                  {{ .Params.location.city }}, {{ .Params.location.state }}<br />
+                {{ end }}
+                {{ if .Params.location.room }}
+                  {{ .Params.location.room }}<br />
+                {{ end }}
+
+                {{/* TODO: map embed link */}}
+  							<a href="https://www.google.com/maps/place/1800+F+St+NW,+Washington,+DC+20006/@38.897145,-77.0446517,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7bad139c21d:0xd0348594120eaa8!8m2!3d38.897145!4d-77.042463" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.google.com/maps/place/1800+F+St+NW,+Washington,+DC+20006/@38.897145,-77.0446517,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7bad139c21d:0xd0348594120eaa8!8m2!3d38.897145!4d-77.042463', 'Map');">Map</a></p>
+
+              {{ .Content }}
+
+  					</div><!-- .tribe-events-content -->
+
+            {{/* TODO: What needs to go into this gcal button? */}}
+  					<div class="tribe-events-cal-links">
+              <a class="tribe-events-gcal tribe-events-button" href="http://www.google.com/calendar/event?action=TEMPLATE&#038;text=In-Person+%26amp%3B+Online%3A+June+Challenge+and+Prize+Community+of+Practice+Meeting&#038;dates=20170620T090000/20170620T120000&#038;details=Note%3A+All+DigitalGov+University+events+take+place+in+Eastern+Time.+%0AREGISTER+NOW+%0AThis+event+is+in-person+%2B+remote.+%0ALocation%0AGSA+Building%0A1800+F+Street%0AWashington%2C+D.C.%0ARoom%C2%A01459%0AMap+%0AAbout+the+Event+%0AJoin+us+for+our+June+meeting%2C+where+we%26%238217%3Bll+focus+on+the+dynamics+and+benefits+of+public-private+partnerships.+%0AHear+from+federal+challenge+managers+on+the+rational+behind+their+collaboration+with+other+agencies%2C+industry%2C+academia+and+nonprofits.+Learn+how+these+external+partnerships+have+worked+under+various+legal+authorities%2C+and+equip+yourself+with+strategies+to+share+with+your+own+agency+prize+team.+%0AWho+Should+Attend+%0AMembers+of+the+Federal+Challenges+%26amp%3B+Prizes+Community+of+Practice%2C+program+managers%2C+contracting+and+procurement+staff%2C+communications+teams%2C+legal+staff%2C+and+other+federal+employees+who+manage+or+work+on+crowdsourcing%2C+challenge%2C+and+incentivized+prize+competitions%2C+and+other+open+innovation+practices.+We+also+welcome+our+colleagues+from+the+Citizen+Scien+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fwww.digitalgov.gov%2Fevent%2Fjune-challenge-and-prize-community-of-practice-meeting%2F%29&#038;location=1800+F+St+NW%2C+Washington%2C+DC%2C+20405%2C+United+States&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York"
+  						  title="Add to Google Calendar">+ Google Calendar</a>
+
+                {{/* TODO: What needs to go into this ical button? */}}
+                <a class="tribe-events-ical tribe-events-button" href="https://www.digitalgov.gov/event/june-challenge-and-prize-community-of-practice-meeting/?ical=1" title="Download .ics file">+ iCal Export</a>
+              </div><!-- .tribe-events-cal-links -->
+
+  					<div class="tribe-events-single-section tribe-events-event-meta primary tribe-clearfix">
+  						<div class="tribe-events-meta-group tribe-events-meta-group-details">
+  							<h3 class="tribe-events-single-section-title"> Details </h3>
+  							<dl>
+  								<dt> Date: </dt>
+  								<dd>
+  									<abbr class="tribe-events-abbr tribe-events-start-date published dtstart" title="{{ dateFormat "2006-01-02" .Params.date }}"> {{ dateFormat "January 2" .Params.date }} </abbr>
+  								</dd>
+
+  								<dt> Time: </dt>
+  								<dd>
+  									<div class="tribe-events-abbr tribe-events-start-time published dtstart" title="{{ dateFormat "2006-01-02" .Params.date }}">
+  										{{ dateFormat "3:04 PM" .Params.date }} - {{ dateFormat "3:04 PM" .Params.end_date }} </div>
+  								</dd>
+
+                  {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+                  {{ else }}
+                    <dt>Event Categories:</dt>
+                    <dd class="tribe-events-event-categories">
+                      {{ $_cats := .Params.categories }}
+                      {{ $length := $_cats | len }}
+                      {{ range $i, $e := $_cats }}
+                        {{ $slug := $e | urlize }}
+                        {{ $title := index $.Site.Data.categories $slug }}
+                        {{ $link := printf "categories/%s/" $slug }}
+                        {{ if lt (add $i 1) $length }}
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>,
+                        {{ else }}
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>
+                        {{ end }}
+                      {{ end }}
+                    </dd>
+                  {{ end }}
+
+
+                  {{ if (not (isset .Params "tag")) | or (eq .Params.tag "") }}
+                  {{ else }}
+                    <dt>Event Tags:</dt>
+                    <dd class="tribe-event-tags">
+                      {{ $_taxonomy := .Params.tag }}
+                      {{ $length := $_taxonomy | len }}
+                      {{ range $i, $e := $_taxonomy }}
+                        {{ $slug := $e | urlize }}
+                        {{ $title := index $.Site.Data.tag $slug }}
+                        {{ $link := printf "tag/%s/" $slug }}
+                        {{ if lt (add $i 1) $length }}
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>,
+                        {{ else }}
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>
+                        {{ end }}
+                      {{ end }}
+                    </dd>
+                  {{ end }}
+
+  							</dl>
+  						</div><!-- .tribe-events-event-meta -->
+
+  						<div class="tribe-events-meta-group tribe-events-meta-group-organizer">
+  							<h3 class="tribe-events-single-section-title">Organizer</h3>
+  							<dl>
+                  {{/* TODO: why is this here? */}}
+  								<dt style="display:none;"></dt>
+  								<dd class="tribe-organizer">
+  									{{ .Params.organizer }} </dd>
+  							</dl>
+  						</div><!-- .tribe-events-meta-group -->
+  					</div><!-- .tribe-events-single-section -->
+
+  					<div class="tribe-events-single-section tribe-events-event-meta secondary tribe-clearfix">
+  						<div class="tribe-events-meta-group tribe-events-meta-group-venue">
+
+              {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
+              {{ if .Params.relationships.venue_id }}
+                {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
+                  {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
+                {{ else }}
+                  {{ $.Scratch.Set "venue" .Params.venue }}
+                {{ end }}
+              {{ else }}
+                {{ $.Scratch.Set "venue" .Params.venue }}
+              {{ end }}
+              {{ $venue := $.Scratch.Get "venue" }}
+  							<h3 class="tribe-events-single-section-title"> Venue </h3>
+  							<dl>
+  								<dd class="tribe-venue">{{ $venue.venue_name }} </dd>
+
+                  {{/* TODO: This is pretty sloppy code */}}
+  								<dd class="tribe-venue-location">
+  									<address class="tribe-events-address">
+            					<span class="tribe-address">
+                        <span class="tribe-street-address">{{ $venue.street }}</span>
+                    		<br>
+                    		<span class="tribe-locality">{{ $venue.city }}</span><span class="tribe-delimiter">,</span>
+                        {{/* TODO: String lookup for full state name */}}
+                      	<abbr class="tribe-region tribe-events-abbr" title="{{/* full-state-name */}}">{{ $venue.state }}</abbr>
+                      	<span class="tribe-postal-code">{{ $venue.zip }}</span>
+                      	<span class="tribe-country-name">{{ $venue.country }}</span>
+                      </span>
+                      {{ $map := printf "%s+%s+%s+%s+%s" $venue.street $venue.city $venue.state $venue.zip $venue.country}}
+                      {{ $map := replace $map " " "+" }}
+
+                      {{/* Done this strange way to prevent unusual escaping in the url */}}
+                      {{ $map := printf "<a class=\"tribe-events-gmap\" href=\"https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=%s\" title=\"Click to view a Google Map\" target=\"_blank\">+ Google Map</a>" $map }}
+											{{ $map | safeHTML }}
+                    </address>
+  								</dd><!-- .tribe-venue-location -->
+  								<dt> Website: </dt>
+  								<dd class="url"> <a href="{{ $venue.link }}" target="_self">{{ $venue.link }}</a> </dd>
+  							</dl>
+  						</div><!-- .tribe-events-meta-group -->
+
+              {{/* TODO: if this being generated by javascript? re-build */}}
+  						<div class="tribe-events-venue-map">
+  							<div id="tribe-events-gmap-0" style="height: 350px; width: 100%">
+                  {{ $venue.google_map | safeHTML }}
+                </div><!-- #tribe-events-gmap-0 -->
+  						</div><!-- .tribe-events-venue-map -->
+  					</div><!-- .tribe-events-single-section -->
+  				</div><!-- .tribe_events -->
+
+  				<!-- Event footer -->
+  				<div id="tribe-events-footer">
+  					<!-- Navigation -->
+  					<h3 class="tribe-events-visuallyhidden">Event Navigation</h3>
+  					<ul class="tribe-events-sub-nav">
+              {{/* get previous event */}}
+              {{/* TODO: Add online/inperson prefix to titles */}}
+              {{ if .PrevInSection }}
+                <li class="tribe-events-nav-previous"><a href="{{ .PrevInSection.Permalink }}"><span>&laquo;</span> {{ .PrevInSection.Title }}</a></li>
+              {{ end }}
+
+              {{/* get next event */}}
+              {{ if .NextInSection }}
+                <li class="tribe-events-nav-next"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} <span>&raquo;</span></a></li>
+              {{ end }}
+  					</ul>
+  					<!-- .tribe-events-sub-nav -->
+  				</div>
+  				<!-- #tribe-events-footer -->
+
+  			</div>
+  			<!-- #tribe-events-content -->
+  			<div class="tribe-events-after-html"></div>
+  		</div>
+  		<!-- #tribe-events -->
+      {{/* REMOVED because no longer applicable*/}}
+      {{/*
+  		<p class="tribe-events-promo">Calendar powered by <a class="vcard url org fn" href="https://theeventscalendar.com/product/wordpress-events-calendar/?utm_medium=plugin-tec&utm_source=banner&utm_campaign=in-app">The Events Calendar</a></p>
+  		<!--
+  This calendar is powered by %1$s.
+  http://m.tri.be/18wn
+  -->
+  */}}
+  	</div>
+  	<!-- #tribe-events-pg-template -->
+  </div>
+  <!-- End .page-border div -->
+
+  </div>
+  <!-- End #page div -->
+
+
+  </div>
+  <!-- End #wrap div -->
+{{ end }}
+
+{{ define "sidebar" }}
+{{ end }}

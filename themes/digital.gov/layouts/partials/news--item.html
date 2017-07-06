@@ -1,0 +1,21 @@
+
+<li class="clearfix">
+  <div class="cat-container clearfix">
+    <div class="featpage-image">
+      {{/* get the post url */}}
+      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">
+        {{/* get the post featured image */}}
+        <img class="catslide-thumbnail" src="{{/* .Params.featuredIimage.link */}}//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/06/featured-301-x-212-Artificial-Intelligence-with-molecular-and-circuit-design-Chinnawat-Ngamsom-iStock-Thinkstock-680054348.jpg" alt="{{/* .Params.featuredImage.text */}}" title="{{ .Title | markdownify }}" />
+      </a>
+      {{/* get the post url */}}
+      <a class="more-link" href="{{ .Permalink }}" rel="nofollow">Read More</a>
+    </div><!-- div.featpage-image-->
+
+    <div class="catslide-content">
+      <h3 class="post-title"><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
+      <p class="catslide-excerpt">
+        {{ .Summary | truncate 140 }}
+      </p>
+    </div><!-- div.catslide-content-->
+  </div><!-- div.cat-container-->
+</li><!-- .clearfix -->

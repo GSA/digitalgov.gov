@@ -1,0 +1,30 @@
+sources:
+  - name          : "RSS Feed"
+    username      : nil
+    link          : "https://www.digitalgov.gov/feed/"
+    shortcode     : "rss"
+    action        : "Subscribe via RSS Feed"
+
+  - name          : "Facebook"
+    username      : nil
+    link          : "http://www.facebook.com/digitalgov"
+    shortcode     : "facebook"
+    action        : "Follow us on Facebook"
+
+  - name          : "Twitter"
+    username      : "digital_gov"
+    link          : "http://www.twitter.com/digital_gov"
+    shortcode     : "twitter"
+    action        : "Follow us on Twitter"
+
+  - name          : "YouTube"
+    username      : "howtogov"
+    link          : "http://www.youtube.com/user/howtogov"
+    shortcode     : "youtube"
+    action        : "Connect on YouTube"
+
+  - name          : "Google Plus"
+    username      : nil
+    link          : "https://plus.google.com/109077476228639396954?rel=author"
+    shortcode     : "gplus"
+    action        : "Connect on Google+"
