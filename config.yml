@@ -13,6 +13,7 @@ enableRobotsTXT         : false
 
 ignoreFiles:
   - "^_template"
+  - "content/_tmp/*"
 
 sitemap:
   changefreq            : "monthly"
