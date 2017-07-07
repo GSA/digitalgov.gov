@@ -28,4 +28,4 @@ It addresses privacy protections when Americans interact with their government. 
 
 * * *
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

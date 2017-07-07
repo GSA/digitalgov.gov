@@ -48,4 +48,4 @@ One final point about cutting through the noise is to make sure you are very cle
 
 What did I miss? I’m sure many of you out there are using additional creative techniques to help your critical content stand out and help further your agency’s mission and help your users. Please share in the comments section.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

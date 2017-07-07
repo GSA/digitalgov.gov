@@ -49,6 +49,6 @@ At first blush, one could offer an argument that their Tumblr page seems like th
 
 Each agency has a different mission—and audience—and different ways they need to serve the citizen, but in the end, all their efforts should lead back to one central location: the core channel. From a practical standpoint that makes it easier to maintain your content and perform audits (not to mention any archival requirements). It also helps provide a clear focus for all your promotional efforts instead of creating a tangled Web of various social media sites or blogs. Make sure that regardless of how many channels you have, they all lead back to your core.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Want to read more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

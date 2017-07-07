@@ -52,7 +52,7 @@ It took around five months to negotiate the three TOS agreements for Lantern Liv
 
 ## Community Collaboration
 
-The [Mobile Community of Practice](({{< link "categories/mobile" >}}) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
+The [Mobile Community of Practice]({{< link "categories/mobile" >}}) offers a collaborative space for federal employees engaged in mobile app development. Soll found the community to be an excellent resource.
 
 “We got a lot of support from other agencies, in terms of coming up to speed on these agreements,” Soll said. “We spoke to attorneys at three or four agencies who have either worked in this realm or negotiated these agreements. I cannot stress enough: reach out and really use this community as a resource.”
 

@@ -85,7 +85,7 @@ On the other end of the tech spectrum, mobile users make up an ever-growing perc
 
 Compliance with 508 standards may be one place where the government is ahead of the private sector! Make sure you’re in compliance by:
 
-  * Knowing your [508 compliance basics](({{< link "categories/accessibility" >}})
+  * Knowing your [508 compliance basics]({{< link "categories/accessibility" >}})
   * Going beyond the alt tag: closed captioning of videos should be a standard practice
   * Providing alternate options for viewing visual content
   * Considering color contracts in design. Try using color wheels or contrast checker tools

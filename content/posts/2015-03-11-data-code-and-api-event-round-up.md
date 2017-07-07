@@ -29,9 +29,9 @@ tag:
   - White House
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}](({{< link "events" >}})
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< link "events" >}})
 
-[DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community](({{< link "categories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
+[DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted some great events over the last year in partnership with [Data.gov](http://www.data.gov), the [MobileGov Community]({{< link "categories/mobile" >}} "Mobile") and [18F](http://18f.gsa.gov) to bring you information on opening data and building APIs. This month we’ve rounded up the events over the past year so that you can see what’s been offered. Use the comments below to offer up suggestions on what else you’d like to see on the schedule.
 
 ## Opening Data and Data.gov
 
@@ -39,7 +39,7 @@ tag:
 
 To get the basics on using Data.gov, you can take a look at our resources [How to Get Your Data on Data.gov]({{< relref "how-to-get-your-open-data-on-data-gov.md" >}} "How to Get Your Open Data on Data.gov") or [view the “How to Get Your Data on Data.gov webinar](http://www.youtube.com/watch?v=hbxA5-GDvvU&feature=youtube_gdata) we offered in November with Hyon Kim, Phil Ashlock and Rebecca Williams of the Data.gov team.
 
-You can also take a look at our [Inventory.Data.gov Guide]({{< relref "inventory-data-gov-guide.md" >}} "Inventory.data.gov Guide") and watch the [recorded webinar on Using Inventory.Data.gov to assist in the creation of JSON files](http://www.youtube.com/watch?v=ciLYjDsF4lo&feature=youtube_gdata). [JSON files](({{< link "tag/json" >}}) are required for successful Open Data Policy compliance and the harvesting of data to Data.gov.
+You can also take a look at our [Inventory.Data.gov Guide]({{< relref "inventory-data-gov-guide.md" >}} "Inventory.data.gov Guide") and watch the [recorded webinar on Using Inventory.Data.gov to assist in the creation of JSON files](http://www.youtube.com/watch?v=ciLYjDsF4lo&feature=youtube_gdata). [JSON files]({{< link "tag/json" >}}) are required for successful Open Data Policy compliance and the harvesting of data to Data.gov.
 
 Finally, we hosted Phil Ashlock and Rebecca Williams of the Data.gov team to give a brief update about the Project Open Data metadata schema that is required under the [Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) (PDF, 5.83 MB, 12 pages, May 2013) and that powers Data.gov. They go through step-by-step how the [Project Open Data Metadata Schema is being updated, in this recorded webinar](http://www.youtube.com/watch?v=tuxS1iDwc_c&feature=youtube_gdata), for greater clarity and data discoverability. It is based on agency feedback, and you can learn about tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
 
@@ -57,7 +57,7 @@ DGU has also supported the [Structured and Open Content Models working group](ht
 
 ## APIs {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
-We also hosted some great in-person workshops around [APIs](({{< link "tag/api" >}}). In July we hosted [Working with APIs for Non-Coders]({{< relref "2014-07-14-working-with-apis-for-non-coders-recap.md" >}} "Working with APIs for Non-Coders Recap"). This event, hosted by Eric Mill, a key developer on GSA’s 18F team, was especially targeted to non-developers and explored the basics of APIs, using [the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge!
+We also hosted some great in-person workshops around [APIs]({{< link "tag/api" >}}). In July we hosted [Working with APIs for Non-Coders]({{< relref "2014-07-14-working-with-apis-for-non-coders-recap.md" >}} "Working with APIs for Non-Coders Recap"). This event, hosted by Eric Mill, a key developer on GSA’s 18F team, was especially targeted to non-developers and explored the basics of APIs, using [the Congress API](http://sunlightlabs.github.io/congress/), offered by the Sunlight Foundation, as an example. The purpose of the event was to showcase that anybody of any skill level can understand and use APIs without any coding knowledge!
 
 You can also take a look at the [API video recording series](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM).
 

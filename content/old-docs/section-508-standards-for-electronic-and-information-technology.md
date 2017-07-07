@@ -19,6 +19,6 @@ The Section 508 Guidelines include this subpart on Electronic and Information Te
 
 * * *
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})
 
 ##

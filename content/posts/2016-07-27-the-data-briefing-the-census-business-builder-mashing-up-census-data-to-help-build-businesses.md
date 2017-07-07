@@ -36,6 +36,6 @@ _(ESRI and ArcGIS are used for illustrative purposes and does not imply endorsem
 
 _*API – Application Programming Interface—how software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}}) for more information._
 
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

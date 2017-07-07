@@ -25,4 +25,4 @@ This bulletin provides Federal agencies with the National Archives and Records A
 
  
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

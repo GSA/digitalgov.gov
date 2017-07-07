@@ -30,4 +30,4 @@ The range of penetration for the top 15 apps varies widely, from Facebook’s hi
 
 Just to reiterate that: the 15th **most popular** application in the United States only has a 24.5% penetration.
 
-Government agencies should consider this when debating a responsive Web vs app strategy, and  [follow DigitalGov for more mobile trends and information](({{< link "categories/mobile" >}})—as well as join the new [MobileGov Community of Practice Listserv](({{< link "categories/mobile" >}}), which had a very lively debate this past week over native app vs. responsive Web strategy.
+Government agencies should consider this when debating a responsive Web vs app strategy, and  [follow DigitalGov for more mobile trends and information]({{< link "categories/mobile" >}})—as well as join the new [MobileGov Community of Practice Listserv]({{< link "categories/mobile" >}}), which had a very lively debate this past week over native app vs. responsive Web strategy.

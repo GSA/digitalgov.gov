@@ -57,8 +57,8 @@ tag:
 
 ## 6. Engage Your Customers to Create a Two-Way Dialogue
 
-  * Provide blogs, communities, and outreach via other [social media](({{< link "categories/socialmedia" >}}) venues.
-  * Incorporate [videos](({{< link "categories/video" >}}) and webcasting.
+  * Provide blogs, communities, and outreach via other [social media]({{< link "categories/socialmedia" >}}) venues.
+  * Incorporate [videos]({{< link "categories/video" >}}) and webcasting.
 
 ## 7. Collect Customer Feedback
 

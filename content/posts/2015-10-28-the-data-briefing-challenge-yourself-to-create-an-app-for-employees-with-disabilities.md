@@ -43,6 +43,6 @@ Employees with disabilities want to work, and there are many examples of people 
 
 _(The article, “45 Powerful Mobile Apps for those with Disabilities,” is used only for illustrative purposes and does not imply an endorsement of the content or organization that published the content by the federal government or any of the federal government agencies.)_
 
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office (USPTO)’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

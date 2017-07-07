@@ -25,4 +25,4 @@ The use of social media may create Federal records that must be captured and man
 
 * * *
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

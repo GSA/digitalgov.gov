@@ -20,7 +20,7 @@ Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s 
 
 10.  We’ve published an impressive 480 articles and counting (this post is like #485), and we are learning more and more about you. You [still]({{< relref "2014-09-12-digitalgov-gov-six-months-later.md" >}}) love posts on [metrics]({{< relref "2014-03-04-creating-awesome-web-analytics-reports-and-presentations.md" >}} "Creating Awesome Web Analytics Reports and Presentations") and on [customer service]({{< relref "2013-12-02-whats-your-strategy-operational-excellence-product-leadership-or-customer-intimacy.md" >}} "What’s Your Strategy? Operational Excellence, Product Leadership or Customer Intimacy?"), but “[Government Open and Structured Content Models are Here]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!")”? We didn’t know you were that deliciously nerdy!
 
-9.  We swapped over to DigitalGov Search from the native WordPress search for better searching of tags and authors, but also because we plan to use feeds from our tags to revamp the [currently messy, non-scalable Resources page](({{< relref "resources.md" >}} "Resources"). Don’t believe us, just watch!
+9.  We swapped over to DigitalGov Search from the native WordPress search for better searching of tags and authors, but also because we plan to use feeds from our tags to revamp the [currently messy, non-scalable Resources page]({{< relref "resources.md" >}} "Resources"). Don’t believe us, just watch!
 
 8.  Articles on DigitalGov.gov have informed the research agenda for Deloitte, Gartner and Forrester. It’s where all the smart people go to learn about trends and practices, don’t you know?
 

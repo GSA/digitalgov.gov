@@ -31,4 +31,4 @@ Their research found native apps with integrated push notifications are retainin
 
 One of the challenges of app engagement for government agencies is their content is often very utility driven. While [apps are often especially good for complex utility tasks as well as entertainment]({{< relref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}), users of government apps will probably be more brief and low-engagement audiences. For instance, use cases would be reporting a trash pickup or filing a public complaint or looking up a government office.
 
-To learn more about best practices and trends in this area, check out additional  [mobile articles on DigitalGov](({{< link "tag/mobile-2" >}}).
+To learn more about best practices and trends in this area, check out additional  [mobile articles on DigitalGov]({{< link "tag/mobile-2" >}}).
