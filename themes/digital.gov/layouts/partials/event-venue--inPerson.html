@@ -1,0 +1,9 @@
+{{ if .Params.venue.is_inperson }}
+  {{ if .Params.venue.is_remote }}
+    {{ $.Scratch.Set "prefix" "In-Person & Online: " }}
+  {{ else }}
+    {{ $.Scratch.Set "prefix" "In-Person: " }}
+  {{ end }}
+{{ else }}
+  {{ $.Scratch.Set "prefix" "Online: " }}
+{{ end }}
