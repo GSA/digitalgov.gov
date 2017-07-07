@@ -1,0 +1,13 @@
+display_name: FedRAMP
+first_name: Federal Risk and
+last_name: Authorization Management Program
+uid: fedramp
+email: info@FedRAMP.gov
+bio: |
+  The Federal Risk and Authorization Management Program, or [FedRAMP][1], is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. This approach uses a “do once, use many times” framework that saves an estimated 30-40% of government costs, as well as both time and staff required to conduct redundant agency security assessments. FedRAMP is the result of close collaboration with cybersecurity and cloud experts from the General Services Administration (GSA), National Institute of Standards and Technology (NIST), Department of Homeland Security (DHS), Department of Defense (DOD), National Security Agency (NSA), Office of Management and Budget (OMB), the Federal Chief Information Officer (CIO) Council and its working groups, as well as private industry.
+  
+  [1]: https://www.fedramp.gov/
+location: ""
+quote: ""
+github: ""
+twitter: ""

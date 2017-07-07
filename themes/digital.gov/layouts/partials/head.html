@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
+
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
+
+  <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
+  <meta name="description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+
+  {{/* TODO: should have a common set and pull form tags */}}
+  <meta name="keywords" content="Digital, Government, 21st Century Government, Open Government Initiative, U.S. Digital Registry, Mobile, Social Media, Challenges, Code, APIs, Data, Open Source, Open Data, Innovation, Content, Metrics, UX, Usability, Accessibility, CX, Crowdsourcing, Citizen Science, Digital Analytics Program, DAP, Open Gov, OpenGov, Analytics, Metrics, Governance, Strategy, Policy, Community of Practice, Communities, testing, research, case study, case studies, digitalgov, digital gov, OCSIT, GSA, Office of Citizen Services and Innovative Technologies, Digital Government Division, U.S. General Services Administration, Federal Terms of Service, Federal Digital Services, Toolkit, Playbook, Initiatives"
+  />
+
+  {{/* TODO: these may not need to be here */}}
+  <meta name="google-site-verification" content="g9_ce7PMGt-o-6Z5w9JaayjvGenyVBflWNo_nMBoggI" />
+  <meta name="msvalidate.01" content="1634354CAA14D9CE8F1084F995A6D202" />
+  <meta name="p:domain_verify" content="54ddbdf823cfb7dbf0078287e8952906" />
+
+  {{/* TODO: current url or alternate url if duplicated content */}}
+  <link rel="canonical" href="https://www.digitalgov.gov/" />
+
+  {{/* TODO: values need to be page specific */}}
+  {{/* TODO: DigitalGov => Digital.gov */}}
+  <meta property="og:title" content="DigitalGov - Building the 21st Century Digital Government" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.digitalgov.gov/" />
+  <meta property="og:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
+  <meta property="og:image:width" content="600" />
+  <meta property="og:site_name" content="DigitalGov" />
+
+
+  {{/* TODO: values need to be page specific */}}
+  <meta property="fb:admins" content="100000569454928" />
+  <meta property="og:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@alyciap1" />
+  <meta name="twitter:domain" content="digitalgov.gov" />
+  <meta name="twitter:title" content="DigitalGov - Building the 21st Century Digital Government" />
+  <meta name="twitter:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta name="twitter:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
+  <meta itemprop="image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
+
+
+  {{/* TODO: what does this do? */}}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "DigitalGov - U.S. General Services Administration,  Office of Citizen Services and Innovative Technologies",
+      "url": "https://www.digitalgov.gov",
+      "sameAs": ["https://www.facebook.com/digitalgov", "https://twitter.com/digital_gov", "https://plus.google.com/+DigitalgovGov1/", "https://www.youtube.com/user/howtogov", "https://www.linkedin.com/groups/5016512"]
+    }
+  </script>
+  <!-- /all in one seo pack -->
+
+  {{/* TODO: dns prefetch can go away */}}
+  <link rel='dns-prefetch' href='//s.w.org' />
+
+  {{/* TODO: we need to build a feed to appear here */}}
+  <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Feed" href="https://www.digitalgov.gov/feed/" />
+
+  {{/* TODO: this is going away */}}
+  <!-- <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Comments Feed" href="https://www.digitalgov.gov/comments/feed/" /> -->
+
+  {{/* TODO: should we keep this? */}}
+  <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
+
+  {{/* TODO: All these styles need to be audited / minified / etc */}}
+  <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/sitesusagov.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/mtphr-tabs.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/mtphr-tabs.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/mtphr-styles.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/mtphr-style.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/enlightened-styles.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/style-font.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/style-responsive.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/wpp.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/shortcodes.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/custom.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/style-front-end.css" | absURL }}' type='text/css' media='all' />
+
+  {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
+
+  <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+
+  <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+
+  {{/* TODO: Unused event stylesheets */}}
+  <!-- <link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.4.1.1' type='text/css' media='all' />
+  <link rel='stylesheet' id='tribe-events-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.4.1.1' type='text/css' media='all' />
+  <link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)'
+  /> -->
+  <!-- <link rel='stylesheet' id='tribe-events-calendar-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)' -->
+
+  {{/* TODO: What is this??? */}}
+  <!-- This site uses the Google Analytics by MonsterInsights plugin version 5.5.4 - https://www.monsterinsights.com/ -->
+  <!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) -->
+  <!-- / Google Analytics by MonsterInsights -->
+
+  {{/* TODO: Do we need all these jquery? */}}
+  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+
+  {{/* TODO: Audit javascript */}}
+  <script type='text/javascript' src='{{ "js/sitesusagov.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/froogaloop.min.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
+
+  {{/* TODO: Delete these WP-specific items */}}
+  <link rel='https://api.w.org/' href='https://www.digitalgov.gov/wp-json/' />
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.digitalgov.gov/wp-includes/wlwmanifest.xml" />
+
+  {{/* TODO: We'll want a way to capture this shortlink, perhaps through and API */}}
+  <link rel='shortlink' href='https://www.digitalgov.gov/' />
+
+  {{/* TODO: Media embedders: comment out for now */}}
+  {{/*
+  <link rel="alternate" type="application/json+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F" />
+  <link rel="alternate" type="text/xml+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F&#038;format=xml" />
+  */}}
+
+  {{/* TODO: DAP */}}
+  <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA"></script>
+
+  {{/* TODO: Should we get this local? */}}
+  <link rel="shortcut icon" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/favicon.ico" type="image/x-icon" />
+
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <!-- Custom Styles from Theme Setting Page -->
+  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
+
+</head>

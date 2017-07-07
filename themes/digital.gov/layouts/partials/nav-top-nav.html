@@ -1,0 +1,79 @@
+<div id="topnav">
+  <div class="limit clearfix">
+    <!-- SEARCH FORM -->
+
+    {{/* TODO: Determine how to connect search to our Federalist branch */}}
+    <form accept-charset="UTF-8" action="https://find.digitalgov.gov/search" id="search_form" method="get">
+      <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+
+      <input id="affiliate" name="affiliate" type="hidden" value="digitalgov" />
+      <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" />
+      <input name="commit" type="submit" value="Search" />
+    </form>
+
+    <!-- Primary Nav loop using hugo menus-->
+    {{ $currentNode := . }}
+    {{ $menuClasses := "menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item" }}
+    {{ $submenuClasses := "menu-item menu-item-type-post_type menu-item-object-page"}}
+    <ul class="nav">
+      {{ range .Site.Menus.primary }}
+          <li><a class="$menuClasses{{if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current-menu-item current_page_item{{end}}" href="{{.URL}}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+              <ul class="sub-menu">
+                {{ range .Children }}
+                  <li class="$submenuClasses"><a href="{{.URL}}"> {{ .Name }} </a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+        </li>
+      {{ end }}
+    </ul><!-- .nav -->
+
+    <!-- PRIMARY NAVIGATION (original hardcoded)
+
+    <ul class="nav">
+      <li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-472 current_page_item menu-item-492"><a href="https://www.digitalgov.gov/">Home</a></li>
+      <li id="menu-item-98862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-98862"><a href="https://www.digitalgov.gov/events/">Events</a>
+        <ul class="sub-menu">
+          <li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://www.digitalgov.gov/digitalgov-university/">DigitalGov University</a></li>
+          <li id="menu-item-116512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116512"><a href="https://www.digitalgov.gov/digitalgov-university/video-library/">Video Library</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://www.digitalgov.gov/communities/">Communities</a></li>
+      <li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-212"><a href="https://www.digitalgov.gov/services/">Services</a>
+        <ul class="sub-menu">
+          <li id="menu-item-2142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="https://www.digitalgov.gov/services/challenge-gov/">Challenges &amp; Prizes</a></li>
+          <li id="menu-item-2122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2122"><a href="https://www.digitalgov.gov/services/sites-usa-gov/">Content Management Systems</a></li>
+          <li id="menu-item-136112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136112"><a href="https://www.digitalgov.gov/services/mobile-application-testing-program/">CrowdSource Mobile Testing</a></li>
+          <li id="menu-item-333252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333252"><a href="https://www.digitalgov.gov/services/data-gov/">Data.gov</a></li>
+          <li id="menu-item-1912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1912"><a href="https://www.digitalgov.gov/services/dap/">Digital Analytics Program (metrics)</a></li>
+          <li id="menu-item-333192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333192"><a title="Electronic Capital Planning and Investment Control eCPIC" href="https://www.digitalgov.gov/services/electronic-capital-planning-and-investment-control-ecpic/">Electronic Capital Planning and Investment Control</a></li>
+          <li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2132"><a href="https://www.digitalgov.gov/services/search/">Search</a></li>
+          <li id="menu-item-341821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341821"><a href="https://www.digitalgov.gov/services/u-s-digital-registry/">U.S. Digital Registry</a></li>
+          <li id="menu-item-105732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105732"><a href="https://www.digitalgov.gov/services/usa-gov-short-urls/">URL shortener</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://www.digitalgov.gov/resources/">Resources</a></li>
+      <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-642"><a href="https://www.digitalgov.gov/about/">About</a>
+        <ul class="sub-menu">
+          <li id="menu-item-122712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122712"><a href="https://www.digitalgov.gov/contact-us/">Contact Us</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-2012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2012"><a href="https://www.digitalgov.gov/join-digitalgov/">Join DigitalGov</a>
+        <ul class="sub-menu">
+          <li id="menu-item-231522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231522"><a href="https://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/">Open Opportunities</a></li>
+        </ul>
+      </li>
+    </ul>
+    -->
+
+    <!-- SOCIAL MEDIA ICONS -->
+    <div class="sub-icons">
+      <ul class="clearfix">
+        {{ range .Site.Data.social.sources }}
+          <li><a class="subicon {{ .shortcode }}" title="{{ .action }}" href="{{ .link }}">{{ .name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>

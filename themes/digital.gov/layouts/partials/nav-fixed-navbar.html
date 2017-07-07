@@ -1,0 +1,63 @@
+<!-- Fixed Nav loop using hugo menus-->
+{{ $currentNode := . }}
+{{ $menuClasses := "menu-item menu-item-type-taxonomy menu-item-object-category" }}
+{{ $submenuClasses := $menuClasses }}
+<div id="fixednav">
+  <div class="limit clearfix">
+    <ul class="fixednav">
+      {{ range .Site.Menus.secondary }}
+          <li><a class="$menuClasses{{ if .HasChildren }} menu-item-has-children{{ end }} {{if or ($currentNode.IsMenuCurrent "secondary" .) ($currentNode.HasMenuCurrent "secondary" .) }} current-menu-item current_page_item{{end}}" href="{{.URL}}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+              <ul class="sub-menu">
+                {{ range .Children }}
+                  <li class="$submenuClasses"><a href="{{.URL}}"> {{ .Name }} </a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </div><!-- .limit.clearfix -->
+</div><!-- #fixednav -->
+
+<!-- FIXED NAVBAR
+<div id="fixednav">
+  <div class="limit clearfix">
+   -->
+    <!-- FIXED NAVIGATION MENU
+    <ul class="fixednav">
+      <li id="menu-item-392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-392"><a href="https://www.digitalgov.gov/category/challenges/">Challenges</a>
+        <ul class="sub-menu">
+          <li id="menu-item-345351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-345351"><a href="https://www.digitalgov.gov/category/challenges/crowdsourcing-citizen-science/">Crowdsourcing &amp; Citizen Science</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-402"><a href="https://www.digitalgov.gov/category/code/">Code</a>
+        <ul class="sub-menu">
+          <li id="menu-item-120322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120322"><a href="https://www.digitalgov.gov/category/code/api/">API</a></li>
+          <li id="menu-item-120332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120332"><a href="https://www.digitalgov.gov/category/code/data1/">Data</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-412"><a href="https://www.digitalgov.gov/category/content/">Content</a>
+        <ul class="sub-menu">
+          <li id="menu-item-120342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120342"><a href="https://www.digitalgov.gov/category/content/video/">Video</a></li>
+          <li id="menu-item-120352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120352"><a href="https://www.digitalgov.gov/category/content/writing/">Writing</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-422"><a href="https://www.digitalgov.gov/category/managing-digital/">Managing Digital</a>
+        <ul class="sub-menu">
+          <li id="menu-item-120362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120362"><a href="https://www.digitalgov.gov/category/managing-digital/governance/">Governance</a></li>
+          <li id="menu-item-120372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120372"><a href="https://www.digitalgov.gov/category/managing-digital/strategy-policy/">Strategy &amp; Policy</a></li>
+        </ul>
+      </li>
+      <li id="menu-item-432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-432"><a href="https://www.digitalgov.gov/category/metrics/">Metrics</a></li>
+      <li id="menu-item-442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-442"><a href="https://www.digitalgov.gov/category/mobile/">Mobile</a></li>
+      <li id="menu-item-452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452"><a href="https://www.digitalgov.gov/category/socialmedia/">Social Media</a></li>
+      <li id="menu-item-462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-462"><a href="https://www.digitalgov.gov/category/ux/">UX</a>
+        <ul class="sub-menu">
+          <li id="menu-item-120382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120382"><a href="https://www.digitalgov.gov/category/ux/accessibility/">Accessibility</a></li>
+          <li id="menu-item-120392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120392"><a href="https://www.digitalgov.gov/category/ux/design/">Design</a></li>
+          <li id="menu-item-120402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120402"><a href="https://www.digitalgov.gov/category/ux/user-testing-research/">User Testing &amp; Research</a></li>
+        </ul>
+      </li>
+    </ul>
+     -->

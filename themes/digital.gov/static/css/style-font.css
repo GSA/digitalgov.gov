@@ -1,0 +1,275 @@
+/* -- Mods for Custom Google Fonts -- */
+
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic|Roboto+Slab:100,300,400,700|Roboto+Condensed:300,300italic,400,400italic,700,700italic);
+
+
+body {
+	font-family:'source sans pro',arial, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	color:#555;
+	font-weight:400;
+	}
+
+h1,h2,h3,h4,h5,h6,h7,
+#sitetitle .title {
+	font-family:'roboto slab','source sans pro',arial, sans-serif;
+	font-weight:700;
+	}
+
+ul#filter li,
+.single .navigation,
+.meta,
+.catslide-meta,
+p.sitemap-meta,
+.flextabs-custom-controls a,
+#commentform label,
+.single .navigation,
+p.comments-number,
+.auth-archive-link,
+.tags,
+.comment-author,
+a#cancel-comment-reply-link,
+.auth-website a,
+.all-auth-website,
+.reply a,
+a.more-link,
+.wp-pagenavi,
+#catnav,
+ul.fixednav  {
+	font-family:'roboto condensed','source sans pro',arial, sans-serif;
+	}
+
+h1 {
+	font-size:30px;
+	letter-spacing:0;
+	line-height:1.3em;
+	}
+
+h2 {
+	font-size: 26px;
+	letter-spacing:0;
+	line-height:1.3em;
+	}
+
+h3 {
+	font-size: 22px;
+	letter-spacing:0;
+	line-height: 1.5em;
+	}
+
+h4 {
+	font-size: 20px;
+	letter-spacing:0;
+	line-height: 1.5em;
+	}
+
+h5 {
+	font-size: 18px;
+	letter-spacing:0;
+	line-height: 1.5em;
+	font-weight:300;
+	}
+
+h6,h7 {
+	font-size: 18px;
+	letter-spacing:0;
+	line-height: 1.5em;
+	font-weight:300;
+	}
+
+h2.feature-title,
+h3.widgettitle,
+h3.widget-title,
+h2.feat-title,
+.sitemap h2,
+h3#comments-title,
+h3#reply-title,
+.single .auth-bio h2,
+.layout-controls h2,
+.allauthors h2,
+.mysubscribebox h3,
+.auth-bio h1 {
+	font-size:16px;
+	line-height:1.5em;
+	letter-spacing:0;
+	margin-bottom:20px;
+	}
+
+
+.featured.wide .myflexslider h2.post-title,
+.featured.narrow .myflexslider h2.post-title {
+	font-weight:300;
+	font-size:24px;
+	letter-spacing:0;
+	}
+
+.featured.narrow .myflexslider h2.post-title {
+	font-size:20px;
+	}
+
+.cats-by-2 h2.feat-title,
+.cat-posts-stacked h2.feat-title,
+.post-by-2 h2.post-title {
+	font-size:18px;
+	line-height:1.3em;
+	}
+
+.cat-posts-widget h3.post-title,
+.cats-by-2 h3.post-title,
+.featured.cat h3.post-title {
+	font-size:14px;
+	line-height:1.5em;
+	}
+
+.threecol .entry h2.post-title a,
+.twocol .entry h2.post-title a,
+.threecol .entry h2.post-title,
+.twocol .entry h2.post-title {
+	font-size:14px;
+	letter-spacing:0;
+	}
+
+.tabs,
+.wp-pagenavi,
+.flextabs-custom-controls,
+.cats-by-2 .entry,
+#content table,
+table#wp-calendar caption,
+.sitemap
+.archive-tabs a,
+.index-3-4-archives select,
+.sitemap-wide,
+.sitemap-narrow,
+#portfolio,
+#contentright,
+#sidebar-narrow,
+#comments,
+.mysubscribebox,
+.tags,
+#footer-widgets,
+#sitetitle .description,
+.single .auth-bio,
+#alt-home-bottom,
+.widget {
+	font-size:14px;
+	line-height:1.5em;
+	}
+
+#footer {
+	font-size:11px;
+	font-weight:600;
+	text-transform:uppercase;
+	}
+
+#topnav {
+	font-size:11px;
+	font-weight:600;
+	text-transform:uppercase;
+	}
+
+#catnav,
+ul.fixednav {
+	font-size:13px;
+	text-transform:uppercase;
+	}
+
+#catnav ul ul,
+ul.fixednav ul {
+	text-transform:none;
+	}
+
+ul#filter li  {
+	font-size:13px;
+	text-transform:uppercase;
+	}
+
+.sitemap-post p.post-title {
+	font-size:16px;
+	margin:0;
+	padding:0;
+	}
+
+.single .navigation {
+	background:url(images/dotted.png) 0 0 repeat-x;
+	padding:5px 0 0;
+	margin:40px 0 0;
+	letter-spacing:0.02em;
+	}
+
+.single .navigation a {
+	color:#666;
+	}
+
+.single .navigation a:hover {
+	color:#000;
+	}
+
+#commentform label,
+.single .navigation,
+p.comments-number,
+.auth-archive-link,
+.tags,
+.comment-author,
+a#cancel-comment-reply-link,
+.auth-website a,
+.all-auth-website,
+.reply a {
+	font-size:12px;
+	text-transform:uppercase;
+	}
+
+.meta,
+.catslide-meta,
+p.sitemap-meta {
+	font-size:11px;
+	text-transform:uppercase;
+	height:1.5em;
+	line-height:1.5em;
+	overflow:hidden;
+	}
+
+.meta a,
+.catslide-meta a,
+p.sitemap-meta a {
+	border-bottom:1px dotted #ddd;
+	}
+
+.meta a:hover,
+.catslide-meta a:hover,
+p.sitemap-meta a:hover {
+	border-bottom:1px dotted #333;
+	}
+
+.email-form input[type="text"],
+.email-form input[type="email"],
+#searchform input[type="text"],
+.email-form input[type="submit"],
+.email-form input[type="button"],
+#searchform input[type="submit"],
+#searchform input[type="button"],
+.reply a {}
+
+.widget.subscribebox p.priv-statement {
+	font-size:11px;
+	text-transform:uppercase;
+	letter-spacing:0.02em;
+	color:#aaa
+	}
+
+h3#comments-title {
+	margin-bottom:30px;
+	}
+
+.flextabs-custom-controls {
+	font-size:11px;
+	text-transform:uppercase;
+	font-weight:bold
+	}
+
+a.more-link,
+.threecol .readmore.cols a,
+.twocol .readmore.cols a {
+	font-size:12px;
+	text-transform:uppercase;
+	}

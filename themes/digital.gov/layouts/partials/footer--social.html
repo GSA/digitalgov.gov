@@ -1,0 +1,14 @@
+<div id="socialicons-widget-3" class="widget widget-1 widget-first socialicons">
+  <div class="widget-wrap">
+    <h3 class="widgettitle"><span>Connect</span></h3>
+    <div class="textwidget">
+      <div class="sub-icons">
+        <ul class="clearfix">
+          {{ range .Site.Data.social.sources }}
+            <li><a class="subicon {{ .shortcode }}" title="{{ .action }}" href="{{ .link }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
