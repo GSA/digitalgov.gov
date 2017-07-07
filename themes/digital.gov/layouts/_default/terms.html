@@ -16,12 +16,6 @@
           {{ $link := printf "authors/%s/" $uid }}
           <li><a href="{{ $link | absURL }}" {{ if $author.uid }}style="color: black;"{{ end }}>{{ $author.display_name | default $uid }} <strong>({{ $tax.Count }})</strong></li>
       {{ end }}
-      {{/* OUTPUT ALL NAMES FROM POSTS
-      {{ range $author := .Data.Terms.Alphabetical }}
-        {{ $link := printf "authors/%s/" ($author.Name | urlize) }}
-        <li><a href="{{ $link | absURL }}">{{ $author.Name }} <strong>({{ $author.Count }})</strong></li>
-      {{ end }}
-      */}}
     {{ else }}
       {{/* This will work when the tags are urlized! I think! */}}
       {{ range $tag, $title := index $data $.Data.Plural }}
