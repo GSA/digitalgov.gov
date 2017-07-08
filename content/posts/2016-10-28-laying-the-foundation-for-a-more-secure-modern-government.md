@@ -53,9 +53,7 @@ Moving the Federal Government to modern infrastructure, such as cloud-based solu
 
 The public will have 30-days to submit input and help us create the foundation for a more modern government. So join us and provide your thoughts on the proposed guidance [HERE](http://policy.cio.gov/it-modernization).
 
- 
-
-_Tony Scott is the U.S. Chief Information Officer._
+ _Tony Scott is the U.S. Chief Information Officer._
 
 **Also see:**
 
@@ -64,6 +62,4 @@ _Tony Scott is the U.S. Chief Information Officer._
   * [FACT SHEET: Administration Cybersecurity Efforts 2015](https://www.whitehouse.gov/the-press-office/2015/07/09/fact-sheet-administration-cybersecurity-efforts-2015)
   * [FACT SHEET: Enhancing and Strengthening the Federal Government’s Cybersecurity](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2016/assets/fact_sheets/enhancing-strengthening-federal-government-cybersecurity.pdf)
   * [FACT SHEET: White House Summit on Cybersecurity and Consumer Protection](https://www.whitehouse.gov/the-press-office/2015/02/13/fact-sheet-white-house-summit-cybersecurity-and-consumer-protection)
-  * [FACT SHEET: FY 2016 Budget – Cybersecurity](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2016/assets/fact_sheets/cybersecurity.pdf)
-
-_This post was originally published on the [OMB blog](https://www.whitehouse.gov/omb/blog)._
+  * [FACT SHEET: FY 2016 Budget – Cybersecurity](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2016/assets/fact_sheets/cybersecurity.pdf)_This post was originally published on the [OMB blog](https://www.whitehouse.gov/omb/blog)._

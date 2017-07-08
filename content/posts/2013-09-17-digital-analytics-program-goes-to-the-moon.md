@@ -54,6 +54,4 @@ All told, this added up to our third-biggest traffic day since we started using 
 
 ****And, it turned out the LADEE launch wasn’t done impacting our traffic. The week after launch, a [photo](http://solarsystem.nasa.gov/multimedia/display.cfm?Category=Spacecraft&IM_ID=17966) went viral on the Internet showing an airborne frog “photobombing” the launch. At mid-day on September 12, “frog” is our number two search term, trailing only perennial champion “mars.” The frog photo and a related photo showing a bat clinging to the space shuttle during a 2009 launch are our top two pages on nasa.gov (excluding the home page).
 
-We never know when traffic will make this sort of unexpected leap, but we have the DAP data to show us when it does.
-
-_Originally published on the Digital Services Innovation Center blog._
+We never know when traffic will make this sort of unexpected leap, but we have the DAP data to show us when it does._Originally published on the Digital Services Innovation Center blog._

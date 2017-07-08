@@ -88,8 +88,6 @@ Please stay tuned! Follow 18F on our [blog](http://18fblog.tumblr.com/), [Twitte
 **Follow us here:**
 
   * [Twitter @18F](https://twitter.com/18f)
-  * [GitHub/18F](https://github.com/18f)
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
+  * [GitHub/18F](https://github.com/18f)_This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
 
  

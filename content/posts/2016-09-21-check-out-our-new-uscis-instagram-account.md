@@ -45,8 +45,4 @@ Be sure to follow [@USCIS](https://www.instagram.com/uscis) and <span lang="es" 
       A post shared by USCIS (@uscis_es) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-09-16T14:08:36+00:00">Sep 16, 2016 at 7:08am PDT</time>
     </p>
   </div>
-</blockquote>
-
-
-
-_This article was also posted by USCIS on their blogs—[Beacon](http://blog.uscis.gov/) and <span lang="es" title="Spanish"><a href="http://blog-es.uscis.gov/">Compás</a></span>_.
+</blockquote>_This article was also posted by USCIS on their blogs—[Beacon](http://blog.uscis.gov/) and <span lang="es" title="Spanish"><a href="http://blog-es.uscis.gov/">Compás</a></span>_.

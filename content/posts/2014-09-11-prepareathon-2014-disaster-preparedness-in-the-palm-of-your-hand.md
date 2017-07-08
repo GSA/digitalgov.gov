@@ -43,6 +43,4 @@ What better way to show your patriotism this Patriot Day than to commit to be pr
 
 <p style="padding-left: 60px;">
   And don&#8217;t forget to follow <a href="https://twitter.com/NWS/lists/noaa-nws-offices/members">your local NOAA National Weather Service Forecast Office</a>, community emergency management authorities and local media outlets on on your mobile device, too.
-</p>
-
-_So:_ _Be smart. Take part. Prepare today. And don&#8217;t forget: You can download more helpful government mobile apps from the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml)._
+</p>_So:_ _Be smart. Take part. Prepare today. And don&#8217;t forget: You can download more helpful government mobile apps from the [USA.gov Apps Gallery](http://www.usa.gov/mobileapps.shtml)._

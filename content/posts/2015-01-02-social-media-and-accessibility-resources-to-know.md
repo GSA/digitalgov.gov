@@ -38,5 +38,4 @@ Today I am highlighting a few of the Federal resources related to enhancing soci
 **Event**: The Federal Communications Commission Accessibility and Innovation Initiative hosted a [public event, “Accessing Social Media](http://www.fcc.gov/events/accessing-social-media),” on July 17, 2014. In this cross-sector event, presenters highlighted resources, authoring tools, apps, and best practices. Slides are available on the [FCC’s event page](http://www.fcc.gov/events/accessing-social-media).
 
 _What resources have you found helpful in making your HIV-related content accessible for people with disabilities?_
-
 _This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/) by Deb LeBel, a partnership specialist for AIDS.gov._

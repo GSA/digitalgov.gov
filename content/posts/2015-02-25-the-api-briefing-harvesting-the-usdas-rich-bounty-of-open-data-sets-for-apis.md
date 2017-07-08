@@ -24,10 +24,6 @@ There are eight APIs on the <a href="http://www.usda.gov/wps/portal/usda/usdahom
 
 There is a good amount of research on smart cities (<a href="http://cities.media.mit.edu/" target="_blank">MIT </a>and <a href="http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/" target="_blank">IBM</a> for example). Research that demonstrates how to use APIs, apps, and the [Internet of Things]({{< relref "2014-10-31-whats-happening-with-the-internet-of-things.md" >}} "What’s Happening with the Internet of Things?") help cities become more energy efficient, environmentally sustainable, and innovative. Rural America is just as vital to America’s future, and there are numerous research data sets that can also help revitalize America’s rural areas. These data sets need to be developed into APIs to encourage apps for rural America.
 
-* * *
-
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
-
+* * *_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>._
-
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._

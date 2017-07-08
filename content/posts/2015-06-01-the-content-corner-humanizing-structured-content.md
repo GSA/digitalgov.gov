@@ -55,6 +55,4 @@ We need to speak in plain language and be able to clearly show the ROI both shor
 
 **The old adage of &#8220;do it right the first time&#8221; has rarely been more true than with structured content.** And without both the content creators and managers fully embracing the necessity and benefits of structured content, then models, a CMS, and metadata can only do so much.
 
-Have you had success communicating with various stakeholders about structured content? Please share in the comments below.
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Have you had success communicating with various stakeholders about structured content? Please share in the comments below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

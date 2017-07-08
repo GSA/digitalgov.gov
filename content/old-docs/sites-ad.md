@@ -26,6 +26,4 @@ authors:
 
 By providing your contact information, <span style="text-decoration: underline">you are not</span> obligating your agency to use the service. It&#8217;s just how we are starting the conversation with you.
 
-* This service is only available to federal agencies for use with public websites. Due to Department of Defense security requirements, Sites can not currently host .mil websites. Sites does not offer an intranet platform.
-
-_[**Sites**](https://sites.usa.gov/) is a product of the [Digital Government Division]({{< relref "about.md" >}}) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._
+* This service is only available to federal agencies for use with public websites. Due to Department of Defense security requirements, Sites can not currently host .mil websites. Sites does not offer an intranet platform._[**Sites**](https://sites.usa.gov/) is a product of the [Digital Government Division]({{< relref "about.md" >}}) of the Office of Citizen Services and Innovative Technologies in the [U.S. General Services Administration](http://www.gsa.gov/)._

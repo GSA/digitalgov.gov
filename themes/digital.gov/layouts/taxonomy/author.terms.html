@@ -1,0 +1,18 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
+{{ end }}
+
+
+{{ define "content" }}
+  {{ $data := $.Site.Data }}
+  <h1>{{ .Title }}</h1>
+
+  <ul>
+    {{ range $tax := $.Data.Terms.Alphabetical }}
+      {{ $uid := $tax.Name | urlize }}
+      {{ $author := index $data.people.authors $uid }}
+        {{ $link := printf "authors/%s/" $uid }}
+        <li><a href="{{ $link | absURL }}" {{ if $author.uid }}style="color: black;"{{ end }}>{{ $author.display_name | default $uid }} <strong>({{ $tax.Count }})</strong></li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -40,8 +40,5 @@ We’re constantly improving Emma’s knowledge base and answers through your qu
 
 Emma in English currently can answer 90 percent of commonly asked questions. Even though the Spanish-language Emma is new, she can already answer 86 percent of questions, including those that use idiomatic terms and mixtures of Spanish and English.
 
-We are dedicated to serving you and excited to work with you as we continue to improve Emma on <span title="Spanish" lang="es"><a href="https://www.uscis.gov/es">USCIS.gov/es</a></span>.
-
-_For more information on [USCIS](http://www.uscis.gov) and its programs, please visit <span title="Spanish" lang="es"><a href="https://www.uscis.gov/es">USCIS.gov/es</a></span> or follow us on <span title="Spanish" lang="es"><a href="https://twitter.com/USCIS_ES">Twitter</a></span>, [YouTube](http://www.youtube.com/user/uscis), <span title="Spanish" lang="es"><a href="https://www.facebook.com/uscis.es/">Facebook</a></span>, and the USCIS blog, <span title="Spanish" lang="es"><a href="http://blog-es.uscis.gov/">Compás</a></span>._
-
+We are dedicated to serving you and excited to work with you as we continue to improve Emma on <span title="Spanish" lang="es"><a href="https://www.uscis.gov/es">USCIS.gov/es</a></span>._For more information on [USCIS](http://www.uscis.gov) and its programs, please visit <span title="Spanish" lang="es"><a href="https://www.uscis.gov/es">USCIS.gov/es</a></span> or follow us on <span title="Spanish" lang="es"><a href="https://twitter.com/USCIS_ES">Twitter</a></span>, [YouTube](http://www.youtube.com/user/uscis), <span title="Spanish" lang="es"><a href="https://www.facebook.com/uscis.es/">Facebook</a></span>, and the USCIS blog, <span title="Spanish" lang="es"><a href="http://blog-es.uscis.gov/">Compás</a></span>._
 _This article was also posted by USCIS on their blogs—[Beacon](http://blog.uscis.gov/) and <span title="Spanish" lang="es"><a href="http://blog-es.uscis.gov/">Compás</a>.</em></p>

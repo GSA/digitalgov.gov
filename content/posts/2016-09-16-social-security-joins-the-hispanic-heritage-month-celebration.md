@@ -38,6 +38,4 @@ You don’t have to wait to find out what your retirement benefits may be. We pr
 
 Whether it’s through our website, visiting one of our offices, or calling our toll free number, we at Social Security maintain our commitment of providing first-class service to the nation’s growing Latino community.
 
-To learn more, visit <span lang="es" title="Spanish"><a href="http://www.segurosocial.gov/" target="_blank">www.segurosocial.gov</a></span>.
-
-_This post was originally published on the [SSA blog](http://blog.socialsecurity.gov/)._
+To learn more, visit <span lang="es" title="Spanish"><a href="http://www.segurosocial.gov/" target="_blank">www.segurosocial.gov</a></span>._This post was originally published on the [SSA blog](http://blog.socialsecurity.gov/)._

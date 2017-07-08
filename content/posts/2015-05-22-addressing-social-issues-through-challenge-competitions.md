@@ -42,6 +42,4 @@ This year’s finalist teams represented the University of Kansas, the Universit
 
 The runner-up team, which received a $10,000 prize, was the team from UCLA. The team designed a gut rehab of the existing Bayou Towers structure with an emphasis on energy efficiency coupled with strong healthcare partnerships. The jurors felt the team demonstrated a deep understanding of the senior population and its needs. The team also emphasized reuse of materials and designed a new modular innovative façade.
 
-Planning is already underway for the next year of the Innovation in Affordable Housing Student Design and Planning Competition, which will launch in the fall of 2015.
-
-_Claire Yerke Desjardins is a Program Analyst in the Office of Policy Development and Research at the U.S. Department of Housing and Urban Development._
+Planning is already underway for the next year of the Innovation in Affordable Housing Student Design and Planning Competition, which will launch in the fall of 2015._Claire Yerke Desjardins is a Program Analyst in the Office of Policy Development and Research at the U.S. Department of Housing and Urban Development._

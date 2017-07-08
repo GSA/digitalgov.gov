@@ -28,6 +28,4 @@ If you have an idea for an app that would help you and the public access certain
 
 Thanks for taking the time to tell us what you think!
 
-_Mike Pulsifer is a lead IT specialist at the U.S. Department of Labor._ 
-
-_This post was originally published on the [Department of Labor&#8217;s blog](https://blog.dol.gov/2015/04/10/what-labor-department-data-do-you-want/)_.
+_Mike Pulsifer is a lead IT specialist at the U.S. Department of Labor._ _This post was originally published on the [Department of Labor&#8217;s blog](https://blog.dol.gov/2015/04/10/what-labor-department-data-do-you-want/)_.

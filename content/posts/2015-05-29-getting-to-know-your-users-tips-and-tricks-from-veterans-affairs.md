@@ -106,6 +106,4 @@ Jan Chipchase&#8217;s [Research Methods](http://janchipchase.com/themes/research
 
 Erica Hall&#8217;s [Just Enough Research](http://abookapart.com/products/just-enough-research)
 
-Steve Portigal&#8217;s [Interviewing Users](http://rosenfeldmedia.com/books/interviewing-users/)
-
-_Sarah Brooks is a service designer in the Veterans Experience team at VA and Presidential Innovation Fellow. Mollie Ruskin is a service designer at USDS. She served as a Presidential Innovation Fellow at VA in 2013-2014._
+Steve Portigal&#8217;s [Interviewing Users](http://rosenfeldmedia.com/books/interviewing-users/)_Sarah Brooks is a service designer in the Veterans Experience team at VA and Presidential Innovation Fellow. Mollie Ruskin is a service designer at USDS. She served as a Presidential Innovation Fellow at VA in 2013-2014._

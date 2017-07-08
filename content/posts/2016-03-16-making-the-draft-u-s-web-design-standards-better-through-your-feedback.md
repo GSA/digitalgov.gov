@@ -40,5 +40,4 @@ In the coming days, we’ll be answering some frequently asked questions about t
 As always, if you have additional questions or are thinking about similar topics, open [an issue on GitHub](https://github.com/18F/web-design-standards/issues) or email us directly at <uswebdesignstandards@gsa.gov>. You can also contribute code and content to the project [on GitHub](https://github.com/18F/web-design-standards).
 
 _This week, we released [an update](https://github.com/18F/web-design-standards/releases/tag/v0.9.0) to the Draft Standards website and upgraded the Draft Standards themselves. This version introduces several backwards-incompatibility changes that will affect usage of the Draft Standards. You can read [the release notes](https://github.com/18F/web-design-standards/releases/tag/v0.9.0). Also, we now have a standardized way to keep up to date with our standards through [the npm package](https://www.npmjs.com/package/uswds) for the Draft Standards._
-
 _This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Carolyn Dew and Melody Kramer, 18F staff members._

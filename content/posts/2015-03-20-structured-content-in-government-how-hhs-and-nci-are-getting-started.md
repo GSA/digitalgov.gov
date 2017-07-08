@@ -63,7 +63,6 @@ Dadjou and Cheryan will discuss their projects at the upcoming DigitalGov Univer
 If you want to learn more about structured content, you can also join the cross-agency [Open and Structured Content Models Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/), coordinated by GSA. The group created models for two common content types—[articles](http://gsa.github.io/Open-And-Structured-Content-Models/models/article-model.html) and [events](http://gsa.github.io/Open-And-Structured-Content-Models/models/event-model.html)—to help government agencies publish consistently across different platforms and has offered webinars and workshops on content modeling.
 
 _Hannah Gladfelter Rubin is an Information Research Specialist with the Congressional Research Service at the Library of Congress. The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress.
-  
-_ 
+  _ 
   
 _Lynn Cheryan is a contractor from Sapient Government Services working closely with Lakshmi Grama, Acting Associate Director, Office of Dissemination and Digital Communications, Office of Communications and Public Liaison at NCI._

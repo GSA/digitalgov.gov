@@ -63,6 +63,4 @@ Agile practices are centered around optimizing for change, because the world cha
   * Frequent communication → shared understanding → building the right thing
   * Staying positive → focus stays on delivery → consistent velocity
 
-Agile techniques can help your team deal with change, but only up to a point. Stable teams, stable code, and delivering the right thing with consistent velocity is the goal. Teams should do what they can to minimize team changes, while also working to minimize the negative impact of change, because team happiness and productivity go hand in hand.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Michael Torres, 18F team member._
+Agile techniques can help your team deal with change, but only up to a point. Stable teams, stable code, and delivering the right thing with consistent velocity is the goal. Teams should do what they can to minimize team changes, while also working to minimize the negative impact of change, because team happiness and productivity go hand in hand._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Michael Torres, 18F team member._

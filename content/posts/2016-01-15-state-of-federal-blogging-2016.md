@@ -121,9 +121,7 @@ Blogs remain a great way to increase storytelling and answer questions for peopl
 
 **Does your agency use a blog or multiple blogs?** What resources and lessons did you find most helpful this year? We&#8217;d love to know in the comments.
 
- 
-
-_**Danielle Brigida** is the National Social Media Manager for U.S. Fish and Wildlife Service. She&#8217;s a wildlife geek who loves being outside and playing online with purpose._
+ _**Danielle Brigida** is the National Social Media Manager for U.S. Fish and Wildlife Service. She&#8217;s a wildlife geek who loves being outside and playing online with purpose._
 
  
 

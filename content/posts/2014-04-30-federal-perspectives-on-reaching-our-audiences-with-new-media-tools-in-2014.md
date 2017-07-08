@@ -40,6 +40,4 @@ Jacob Parcell (Manager, Mobile Programs, General Services Administration) spoke 
 
 These speakers reminded the Council that we need to continue to follow communication trends to reach our audiences. Whether government or in the community, we have a responsibility to respond to our audiences’ communication preferences.
 
-What other trends in communication and technology we should watch?
-
-_This post was originally published on the [AIDS.gov blog](http://blog.aids.gov/) by Miguel Gomez, the Director of AIDS.gov, and Senior Communications Advisor, Office of HIV/AIDS and Infectious Disease Policy at the U.S. Department of Health and Human Services (HHS)._
+What other trends in communication and technology we should watch?_This post was originally published on the [AIDS.gov blog](http://blog.aids.gov/) by Miguel Gomez, the Director of AIDS.gov, and Senior Communications Advisor, Office of HIV/AIDS and Infectious Disease Policy at the U.S. Department of Health and Human Services (HHS)._

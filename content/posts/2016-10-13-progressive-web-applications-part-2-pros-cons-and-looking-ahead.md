@@ -130,6 +130,4 @@ There was a lot of interest in this approach from the community, but as you can 
 
 [Wait! The Web Isn’t Dead After All. Google Made Sure of It](https://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/)
 
-[What’s Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/)
-
-_Are you developing or already using Progressive Web Apps? Let us know in the comments below!_
+[What’s Your Mobile Development Strategy?](http://sdtimes.com/whats-your-mobile-deveolpment-strategy/)_Are you developing or already using Progressive Web Apps? Let us know in the comments below!_

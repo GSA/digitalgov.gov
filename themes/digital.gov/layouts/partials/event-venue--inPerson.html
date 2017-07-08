@@ -7,3 +7,5 @@
 {{ else }}
   {{ $.Scratch.Set "prefix" "Online: " }}
 {{ end }}
+
+{{ $.Scratch.Set "displaytitle" (printf "%s %s" ($.Scratch.Get "prefix") .Title) }}

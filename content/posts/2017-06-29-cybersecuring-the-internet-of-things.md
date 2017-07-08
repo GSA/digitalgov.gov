@@ -42,10 +42,5 @@ For example, one of the things we’re doing is investigating cryptographic algo
 
 Also, in collaboration with the health care community and medical device manufacturers, NIST’s [National Cybersecurity Center of Excellence](https://nccoe.nist.gov/) (NCCoE) recently developed guidance and a demonstration on securing [wireless infusion pumps](http://nist-takingmeasure.blogs.govdelivery.com/securing-wireless-infusion-pumps/), which deliver fluids, medication or nutrients intravenously into a patient’s bloodstream. Being connected to a computer network enables these devices to collect data about patients that can be shared and monitored by several medical practitioners at the same time. Being on the network also makes it easier to update them with new dosing instructions or operating software. The work of NIST computer scientists has demonstrated how standards-based, commercially available cybersecurity technologies can be used to better protect infusion pumps and the networks they are connected to.
 
-Such efforts are paving the way toward more secure IoT devices in the future. Ultimately, only by adopting a common set of standards and best practices will the manufacturers of IoT systems, along with service providers and system developers, to be able to bring a high level of security for IoT devices and protect the data they generate, making us all safer in the process.
-
-
-
-_Donna Dodson is the Chief Cybersecurity Advisor for the NIST Information Technology Laboratory and Director of the National Cybersecurity Center of Excellence (NCCoE)._
-
+Such efforts are paving the way toward more secure IoT devices in the future. Ultimately, only by adopting a common set of standards and best practices will the manufacturers of IoT systems, along with service providers and system developers, to be able to bring a high level of security for IoT devices and protect the data they generate, making us all safer in the process._Donna Dodson is the Chief Cybersecurity Advisor for the NIST Information Technology Laboratory and Director of the National Cybersecurity Center of Excellence (NCCoE)._
 _This post was originally published on [Taking Measure](http://nist-takingmeasure.blogs.govdelivery.com), the official blog of the [National Institute of Standards and Technology](https://www.nist.gov) (NIST)._

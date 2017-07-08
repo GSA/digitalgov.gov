@@ -130,6 +130,4 @@ This prototype, built over a two-day sprint, is still an internal proof of conce
 
 18F and GSA are committed to being proactive federal partners and providing operational excellence wherever we can. By working hand-in-hand with the WHD team, we’ve been able to show them what’s possible, and have given them the basic knowledge to ask the right questions to help them develop solutions in a cost-effective, user-centered way.
 
-If your agency has a project you’d like us to look at, please [contact 18F Consulting via email](mailto:inquiries18F@gsa.gov).
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by Jesse Taggert, an 18f team member._
+If your agency has a project you’d like us to look at, please [contact 18F Consulting via email](mailto:inquiries18F@gsa.gov)._This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by Jesse Taggert, an 18f team member._

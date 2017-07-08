@@ -123,6 +123,4 @@ tag:
   * [http://www.ininet.org/accessible-technology-in-computing&#8211;examining-awareness-use-an.html?page=3](http://ininet.org/accessible-technology-in-computing--examining-awareness-use-an.html?page=3){.ext.extlink}
   * <https://www.census.gov/content/dam/Census/library/publications/2012/demo/p70-131.pdf>
   * [https://www.disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/](https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/){.ext.extlink}
-  * [https://www.section508.gov/](https://section508.gov/)
-
-_This post was originally published on GSA&#8217;s [Section 508 blog](https://section508.gov/content/benefits-accessible-design)._
+  * [https://www.section508.gov/](https://section508.gov/)_This post was originally published on GSA&#8217;s [Section 508 blog](https://section508.gov/content/benefits-accessible-design)._

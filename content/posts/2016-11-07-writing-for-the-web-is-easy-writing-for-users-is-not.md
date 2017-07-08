@@ -50,6 +50,4 @@ Inevitably — just when we think our content is in good shape — someone at so
 
 Finally, it’s ok to develop a site incrementally. Websites should continue to evolve long after a launch, reflecting the change and evolution of an agency. For example, we&#8217;re extremely proud of the work our team has done on [betaFEC](https://beta.fec.gov/), which launched last fall and has consistently released new and revised content ever since.
 
-Continue to test what exists and make it better. Stay humble, listen to users with empathy, and learn from mistakes. Users will be thankful.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+Continue to test what exists and make it better. Stay humble, listen to users with empathy, and learn from mistakes. Users will be thankful._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

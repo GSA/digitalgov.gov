@@ -44,8 +44,5 @@ In future years, we are hoping to improve our capabilities so that we can analyz
 
 You can look forward to seeing the results of all of our work on <a href="http://www.gao.gov/?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">our website</a>.
 
- 
-
-_Questions on the content of this post? Contact Vijay D’Souza via [email](mailto:Dsouzav@gao.gov)._
-
+ _Questions on the content of this post? Contact Vijay D’Souza via [email](mailto:Dsouzav@gao.gov)._
 _This post was originally published on the U.S. Government Accountability Office (GAO) blog, [WatchBlog](https://blog.gao.gov/)._
