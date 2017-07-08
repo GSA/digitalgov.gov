@@ -37,6 +37,4 @@ And if you want to see how these projects are doing, the General Services Admini
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-322-AnalyticsUSAgov-315pm-Mar-10th-2016.jpg" alt="The Analytics dot U.S.A. dot gov dashboard shows various visitor data at 3:15 pm on March 10, 2016." >}}
 
-We believe the policies released for public comment today will fuel innovation, lower costs, and better serve the public. So give us your thoughts—share your input by clicking [here](https://sourcecode.cio.gov/).
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Tony Scott, the U.S. Chief Information Officer._
+We believe the policies released for public comment today will fuel innovation, lower costs, and better serve the public. So give us your thoughts—share your input by clicking [here](https://sourcecode.cio.gov/)._This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Tony Scott, the U.S. Chief Information Officer._

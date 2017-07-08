@@ -48,6 +48,4 @@ By making source code available for sharing and re-use across Federal agencies, 
 
 As agencies across the Federal Government take steps to improve access to their source code, the amount of available Federal open source software will grow. In the coming months, we will launch a new website – [Code.gov](https://www.code.gov/) – so that our nation can continue to unlock the tremendous potential of the Federal Government’s software.
 
-This is, after all, the People’s code. Explore it. Learn from it. Improve it. Use it to propel America’s next breakthrough in innovation.
-
-_This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._
+This is, after all, the People’s code. Explore it. Learn from it. Improve it. Use it to propel America’s next breakthrough in innovation._This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._

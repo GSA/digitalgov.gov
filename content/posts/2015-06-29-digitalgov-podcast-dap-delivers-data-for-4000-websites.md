@@ -24,6 +24,4 @@ For our second DigitalGov podcast, we spoke with Marina Fox, Manager of DAP, and
 
  
 
-To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3 "Listen to An Inside look at the Digital Analytics Program") (13 MB). You can also [download and read the transcript](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Podcast-Transcript-Inside-look-at-the-Digital-Analytics-Program-DAP.docx) (5 pages, 21 kb MS Word).
-
-_Author&#8217;s note: At the time of podcast recording, DAP was implemented on 3,800 websites. DAP is now on more than 4,000 websites._
+To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Inside-look-at-DAP-Digital-Analytics-Program.mp3 "Listen to An Inside look at the Digital Analytics Program") (13 MB). You can also [download and read the transcript](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Podcast-Transcript-Inside-look-at-the-Digital-Analytics-Program-DAP.docx) (5 pages, 21 kb MS Word)._Author&#8217;s note: At the time of podcast recording, DAP was implemented on 3,800 websites. DAP is now on more than 4,000 websites._

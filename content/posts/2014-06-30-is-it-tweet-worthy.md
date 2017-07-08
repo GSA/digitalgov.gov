@@ -46,5 +46,4 @@ Also, if you use short quotes in your content they can be Tweeted by your audien
 Do you have a tip for writing content that’s “tweet-worthy”? If so, please share in the comments.
 
 _<span style="color: #222222;"><strong>Rachel Flagg</strong> leads the government Web community and manages customer experience programs for the Office of Citizen Services and Innovative Technologies (OCSIT) at the U.S. General Services Administration (GSA).</span>_
-
 _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

@@ -39,8 +39,5 @@ Data informed every step we took. In order to determine which areas to focus on 
 
 <strong class="markup--strong markup--p-strong">Next Steps</strong>
 
-With the results of the content analysis and audit in combination with the report of findings and recommendations, we’re revamping our content on various USA.gov pages.
-
-_Andrea M. Castelluccio, Ph.D., is a bilingual member of the USAGov content team._
-
+With the results of the content analysis and audit in combination with the report of findings and recommendations, we’re revamping our content on various USA.gov pages._Andrea M. Castelluccio, Ph.D., is a bilingual member of the USAGov content team._
 _This was originally published on the [USAGov blog](https://blog.usa.gov/){.markup--anchor.markup--p-anchor}._

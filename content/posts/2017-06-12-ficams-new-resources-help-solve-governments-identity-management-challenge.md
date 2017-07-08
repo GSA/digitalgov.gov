@@ -55,5 +55,4 @@ Has your team recently solved one of your agency’s own ICAM issues, or do you 
 If you’re looking for help on a particular issue, or just have a question, add a new issue to any of the issues lists. You may also [email us to request support](mailto:icam@gsa.gov).
 
 _GSA’s Federal Identity, Credential, and Access Management (FICAM) Team helps federal agencies implement Identity, Credential and Access Management (ICAM) by sharing best practices and guidance through the new FICAM Tech Hub__._
-
 _This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/gsablog/2017/06/07/ficams-new-resources-help-solve-governments-identity-management-challenge/)._

@@ -25,6 +25,4 @@ Income Scams tells the story of Fatima, a consumer who is looking for a way to e
 
 Read _[Fatima Says No to an Income Scam](http://www.consumidor.ftc.gov/articulos/spdf-0197-estafa-de-ingresos.pdf)_ to learn what happens next, what to do if you get a random phone call offering a way to make money, and how to complain to the FTC about it.
 
-Share Fatima’s story with your friends, family, coworkers, or neighbors. Order free copies in Spanish at _[ftc.gov/bulkorder](https://bulkorder.ftc.gov/)_.
-
-_This post was originally published on the [FTC Consumer Information blog](http://www.consumer.ftc.gov/blog/) by Alvaro Puig, Consumer Education Specialist._
+Share Fatima’s story with your friends, family, coworkers, or neighbors. Order free copies in Spanish at _[ftc.gov/bulkorder](https://bulkorder.ftc.gov/)_._This post was originally published on the [FTC Consumer Information blog](http://www.consumer.ftc.gov/blog/) by Alvaro Puig, Consumer Education Specialist._

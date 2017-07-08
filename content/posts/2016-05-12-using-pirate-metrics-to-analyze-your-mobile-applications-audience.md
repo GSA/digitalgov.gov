@@ -73,6 +73,4 @@ Helpful Training Links Cooper mentioned in his slides:
   * [Pragmatic Marketing Webinars](http://pragmaticmarketing.com/resources/webinars)
   * [General Assembly Marketing](https://generalassemb.ly/blog/category/digital-marketing-2/)
   * [Udemy Marketing Courses](https://www.udemy.com/courses/marketing/all-courses/?price=price-free&lang=en)
-  * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures)
-
-_Learn more about [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_
+  * Google [Analytics](https://www.youtube.com/user/googleanalytics) and [Ventures](https://www.youtube.com/user/GoogleVentures)_Learn more about [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and [register for an upcoming event](https://www.youtube.com/user/GoogleVentures) today!_

@@ -50,7 +50,5 @@ Will there be social media platforms that can encourage useful disagreement, con
 Looking to the future, we welcome ideas, thoughts, and possible answers for these questions in the comment fields below.
 
 _The authors are on Twitter: David Bray ([@FCC_CIO](https://twitter.com/fcc_cio)) and Corina DuBois ([@CorinaDuBois](https://twitter.com/CorinaDuBois))._
-
 _Authors&#8217; Note: These views are of personal nature and do not necessarily reflect those of previous or current affiliations of the authors. Any examples cited here are for the purposes of highlighting the different social media platforms with no endorsement implied._
-
 _This post was [originally published on LinkedIn Pulse](https://www.linkedin.com/pulse/improving-how-social-media-informs-leadership-public-corina-dubois). The post was written in a personal capacity by the authors, Corina DuBois, Chief of New Media for the U.S. Department of State&#8217;s Bureau of Consular Affairs, and David A. Bray, Chief Information Officer for the Federal Communications Commission, and does not reflect the views or endorsement of any government entities._

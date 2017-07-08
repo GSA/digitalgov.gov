@@ -27,6 +27,4 @@ The National Archives currently has 114 social media accounts listed in the U.S.
 
 Services such as these have the potential to help us more meaningfully analyze and make informed decisions about our online presence, and help us gain insight into how to improve our communications, while delivering the best service possible to our customers.
 
-Learn more about the U.S. Digital Registry from the <a href="https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.bdcj1kt2e" target="_blank">General Services Administration</a>.
-
-_This post was originally published on the [blog of the Archivist of the United States](https://aotus.blogs.archives.gov/) (AOTUS)._
+Learn more about the U.S. Digital Registry from the <a href="https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.bdcj1kt2e" target="_blank">General Services Administration</a>._This post was originally published on the [blog of the Archivist of the United States](https://aotus.blogs.archives.gov/) (AOTUS)._

@@ -39,6 +39,4 @@ For the first iteration of this experiment, we’ve made a decision to limit eli
 
 It’s true; this might be a terrible idea. But at 18F, we&#8217;re committed to experimentation, and we want to see what happens. Our hypothesis is that vendors can ship great code under the micro-purchase threshold, and we see opportunity to use procurement authority in new and productive ways. We&#8217;ll try it and see what happens. If it works, that would be fantastic. If it doesn’t, it&#8217;ll be an inexpensive experiment and we will have learned some new things.
 
-This only has a chance of working if great vendors participate. So, vendors, please watch out for the micro-purchase issue and get ready to ship.
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by V. David Zvenyach, 18f team member._
+This only has a chance of working if great vendors participate. So, vendors, please watch out for the micro-purchase issue and get ready to ship._This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by V. David Zvenyach, 18f team member._

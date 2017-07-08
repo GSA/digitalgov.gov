@@ -56,6 +56,4 @@ We’re incredibly thankful to everyone who has participated in our online discu
 
 <a href="https://github.com/presidential-innovation-fellows/code-gov-web/issues" target="_blank" rel="nofollow noopener noreferrer">Join the discussion on our open source repository now.</a>
 
-&#8211; The Code.gov Team
-
-_This post was originally published on [Medium by Code.gov](https://medium.com/@CodeDotGov/the-journey-to-sharing-americas-code-10a162d26418)._
+&#8211; The Code.gov Team_This post was originally published on [Medium by Code.gov](https://medium.com/@CodeDotGov/the-journey-to-sharing-americas-code-10a162d26418)._

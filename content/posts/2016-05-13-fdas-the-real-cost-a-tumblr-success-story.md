@@ -39,6 +39,4 @@ Armed with these discoveries, our approach was influenced by developing content 
 
 The Real Cost’s Tumblr engagement rate went up twentyfold.  Monthly page views skyrocketed by nearly 100,000 views and the number of engagements nearly doubled. Monthly average engagements with the page went from more than 47, 000 before to more than 90,000 after.
 
-All in all, it’s a strategy we’ll keep mining to stay relevant and topical with teens.
-
-_Stacey Palosky is the Campaigns Digital Director for FDA’s Center for Tobacco Products._
+All in all, it’s a strategy we’ll keep mining to stay relevant and topical with teens._Stacey Palosky is the Campaigns Digital Director for FDA’s Center for Tobacco Products._

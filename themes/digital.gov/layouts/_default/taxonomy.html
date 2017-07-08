@@ -12,15 +12,17 @@
       {{ $term := index $taxdata $slug }}
       <h1 class="archive-title">{{ $term }}</h1>
 
-      {{ range (.Paginator 10).Pages }}
+      {{ range .Pages }}
         {{ partial "summary-withImage.html" . }}
       {{ end }}
 
+      {{/*
       {{ if gt .Paginator.TotalPages 1}}
         <div class="navigation clearfix">
     			{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL | absURL }}">« Previous Page</a>{{ end }}{{ if and .Paginator.HasPrev .Paginator.HasNext }} — {{ end }}{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL | absURL }}">Next Page »</a>{{ end }}
         </div>
       {{ end }}
+      */}}
 
     </div><!-- #content -->
   </div><!-- #contentleft -->

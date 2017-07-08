@@ -56,6 +56,4 @@ To assist in CBP redesign efforts, we’ve created a “Step It Up” program th
 
 <hr width="75%" />
 
-We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/staging/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/staging/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

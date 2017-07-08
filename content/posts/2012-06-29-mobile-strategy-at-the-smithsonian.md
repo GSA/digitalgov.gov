@@ -13,8 +13,7 @@ tag:
 ---
 
 _[<img class="size-full wp-image-93762 alignright" alt="si-mobile-shot1" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/si-mobile-shot1.jpg" width="201" height="302" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/si-mobile-shot1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the Smithsonian._ _
-  
-_ 
+  _ 
 
 The Smithsonian&#8217;s Mobile Strategy is designed to be integral to the overall organizational strategy of the institution. This Mobile Gov Experience is a synopsis of a [webinar](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/06/mobile-strategy-at-the-smithsonian-slides.pdf) (_PDF, 3.3 MB, 18 pages_) by Smithsonian’s mobile director, which gives a more in depth description of their process.
 

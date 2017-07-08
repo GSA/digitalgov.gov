@@ -3,7 +3,7 @@
 <li class="tribe-events-list-widget-events type-tribe_events tribe-clearfix">
   <!-- Event Title -->
   <h4 class="tribe-event-title">
-    <a href="{{ .Permalink }}" rel="bookmark">{{ .Scratch.Get "prefix" }}{{ .Title }}</a>
+    <a href="{{ .Permalink }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" }}</a>
   </h4>
 
   <!-- Event Time -->

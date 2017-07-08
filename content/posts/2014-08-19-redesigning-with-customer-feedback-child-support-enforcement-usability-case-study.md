@@ -68,6 +68,4 @@ The new share button allows readers to share content right from the page. For th
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-442-OCSE\_6a.jpg" alt="600-x-442-OCSE\_6a" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/739-x-545-OCSE_6a.jpg)
 
-With the help of our core users and our parent agency, we now have the best of both worlds: A great new visual design that quickly delivers what our users need.
-
-_**Crystal Peeler** is the Federal Communications Lead in the Office of Child Support Enforcement (OCSE)._
+With the help of our core users and our parent agency, we now have the best of both worlds: A great new visual design that quickly delivers what our users need._**Crystal Peeler** is the Federal Communications Lead in the Office of Child Support Enforcement (OCSE)._

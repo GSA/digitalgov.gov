@@ -29,18 +29,14 @@ Crowdfunding is accessible to anyone. Depending on the selected CFP (there are o
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-180-How-does-crowdfunding-work-arrow-graphic.jpg" alt="How does crowdfunding work? arrow graphic showing 5 phases: 1) develop a strategic plan, 2) select a crowdfunding platform, 3) train participants, 4) launch the project publicly, and 5) measure success." >}}
 
-**Best Practices in Crowdfunding**
-
-_Phase I (Strategic Plan)_
+**Best Practices in Crowdfunding**_Phase I (Strategic Plan)_
 
   * PURPOSE- Decide if crowdfunding is appropriate for your agency.
   * AUDIENCE- Consider your audience. Your audience will help shape how you plan the crowdfunding campaign. At the Department of State, our audience included exchange program alumni from around the world; your audience may include science researchers, doctors, inventors, etc.
   * THEME- Create a theme that fits the purpose of the campaign and your target audience.
   * PROMOTIONAL STRATEGY- Integrate social media and press products into your communications strategy with both your target audiences and donors. Traditional and social media can be extremely beneficial in pushing the message and engaging participants and potential donors. Press releases and blog posts announcing the initiative and individual projects are effective in reaching target communities.
   * TIMELINE- Create an internal calendar for your agency to communicate with both partners (CFP and participants) in a strategic plan.
-  * ROLES & RESPONSIBILITIES- Identify a point of contact with each operational task associated with managing the crowdfunding project. For example, you will need someone to accept and manage the projects, and also someone to develop the narratives for the promotional materials and select graphics to visually create the stories.
-
-_Phase II (Select your Crowdfunding Platform)_
+  * ROLES & RESPONSIBILITIES- Identify a point of contact with each operational task associated with managing the crowdfunding project. For example, you will need someone to accept and manage the projects, and also someone to develop the narratives for the promotional materials and select graphics to visually create the stories._Phase II (Select your Crowdfunding Platform)_
 
   * Determine whether your agency will pay for the CFP service or forge a [public-private partnership](http://eca.state.gov/about-bureau/partnering-eca). The U.S. Department of State partnered with CFP RocketHub® as the engine to drive the crowdfunding because they incorporate a significant educational and training component into their interactions with users. This education allowed for former participants of exchange programs from across the globe to maximize the power of fundraising through a CFP. As part of their partnership with the U.S. State Department, RocketHub® offered their services for free.
   * Address the option of a co-brand with your CFP. RocketHub® offered co-branding with the U.S. Department of State which helped the alumni audience from State Department-sponsored exchange programs recognize the webpage. They created separate virtual spaces using branding techniques such as graphics and the agency seal.
@@ -49,9 +45,7 @@ _Phase II (Select your Crowdfunding Platform)_
   * Consider currency fees and exchange rates if the target audience is overseas.
   * Determine the processing fees that the CFP charges from net profit.
   * Communicate the fundraising structure to your target audience. Some CFPs have an “all or nothing” fundraising structure. For our program, we allowed the users to keep all of their profits, with the exception of processing fees.
-  * Review the pros and cons of the different crowdfunding platforms to select the one that best fits your target audience. At State Department, our target audience came from all around the world and a vendor with large global reach and international connections was a boon.
-
-_Phase III (Training)_
+  * Review the pros and cons of the different crowdfunding platforms to select the one that best fits your target audience. At State Department, our target audience came from all around the world and a vendor with large global reach and international connections was a boon._Phase III (Training)_
 
   * Train potential participants via webinar if they are in different geographic locations.
   * Communicate to participants that they should clearly state which rewards donors will receive for their contributions.
@@ -60,20 +54,14 @@ _Phase III (Training)_
   * Advise participants to incorporate social media platforms in their outreach campaigns.
   * Use word-of-mouth and grassroots communications to help participants engage with potential donors.
   * Establish clear and reasonable funding goals for participants.
-  * Equip participants with best practice guides.
-
-_Phase IV (Execute)_
+  * Equip participants with best practice guides._Phase IV (Execute)_
 
   * Support participants’ efforts by highlighting their work on your organization’s own platforms and newsletters.
   * Segment your market when reaching out to donors, and identify key stakeholders for each cause or initiative to encourage donations.
-  * Stay engaged with participants and keep them abreast of developments in the crowdfunding arena during the campaign.
-
-_Phase V (Measuring Success)_
+  * Stay engaged with participants and keep them abreast of developments in the crowdfunding arena during the campaign._Phase V (Measuring Success)_
 
   * Measure the success of your campaign by tracking social media and amounts of money raised. Many CFPs have privacy policies, so they may not be able to share personal data such as the rate of donations or profiles of donors. Should there be any restrictions, incorporating internal benchmarks will help when measuring the success of the campaign.
 
 **Summary**
 
-Crowdfunding is a great way for government agencies to help promising entrepreneurs to fundraise to address societal challenges. Through public engagement, crowdfunding can empower people to support their own innovative projects.
-
-_**For more information on crowdfunding and AEIF 2.0 at the U.S. Department of State, contact the ECA Press Office via [email](mailto:ECA-Press@state.gov).**_
+Crowdfunding is a great way for government agencies to help promising entrepreneurs to fundraise to address societal challenges. Through public engagement, crowdfunding can empower people to support their own innovative projects._**For more information on crowdfunding and AEIF 2.0 at the U.S. Department of State, contact the ECA Press Office via [email](mailto:ECA-Press@state.gov).**_

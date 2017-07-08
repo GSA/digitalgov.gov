@@ -71,6 +71,4 @@ How can a federal organization ensure it maintains reasonable investigation capa
   * Import and export of data, including screen based reports
 <li class="last-child">
   Submission of user-generated content, especially file uploads
-</li>
-
-_This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/category/newsroom/)._
+</li>_This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/category/newsroom/)._

@@ -91,5 +91,4 @@ To be in the know of what the M team is cranking out in collaboration with many 
  
 
 [_Victoria Wales_]({{< tmp "authors/victoria-wales.md" >}}) _is a Digital Innovation Specialist for USAGov at GSA._
-
 _This was originally published on the [USAGov blog](https://blog.usa.gov/)._

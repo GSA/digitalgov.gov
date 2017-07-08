@@ -86,16 +86,9 @@ We also need continued engagement from key stakeholders, including public and pr
 
 The Administration looks forward to <a href="https://www.regulations.gov/docket?D=FDA-2015-N-3403" target="_blank">receiving feedback</a> on the proposed Update to the Coordinated Framework.
 
- 
-
-_Robbie Barbero is Assistant Director for Biological Innovation at the White House Office of Science and Technology Policy._
-
+ _Robbie Barbero is Assistant Director for Biological Innovation at the White House Office of Science and Technology Policy._
 _Ted Boling, Associate Director for the National Environmental Policy Act at the White House Council on Environmental Quality._
-
 _Julia Doherty is the Senior Director, Agricultural and SPS Affairs in the Office of the U.S. Trade Representative._
-
 _Melissa Goldstein is Assistant Director for Bioethics and Privacy at the White House Office of Science and Technology Policy._
-
 _James Kim is a toxicologist in the Office of Information and Regulatory Affairs at the Office of Management and Budget._
-
 _This post was originally published on the [Office of Science and Technology Policy Blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._

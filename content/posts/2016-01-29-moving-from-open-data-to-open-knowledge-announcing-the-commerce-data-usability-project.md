@@ -50,6 +50,4 @@ You can help make CDUP better by:
   * Clicking [here](https://github.com/CommerceDataService/DataUsability_Website/issues) to provide feedback on the CDUP website.
   * [Telling us](mailto:datausability@doc.gov?subject=%5BCDUP%5D:%20How%20I%20am%20using%20CDUP%20tutorials) how you are using these tutorials and what improvements we could make.
 
-Thank you for your contributions!
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog/2016/01/29/moving-open-data-open-knowledge-announcing-commerce-data-usability-project) by Jeffrey Chen, Chief Data Scientist at the Department of Commerce; Tyrone Grandison, Deputy Chief Data Officer at the Department of Commerce; Kristen Honey, Policy Advisor at the White House Office of Science and Technology Policy._
+Thank you for your contributions!_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog/2016/01/29/moving-open-data-open-knowledge-announcing-commerce-data-usability-project) by Jeffrey Chen, Chief Data Scientist at the Department of Commerce; Tyrone Grandison, Deputy Chief Data Officer at the Department of Commerce; Kristen Honey, Policy Advisor at the White House Office of Science and Technology Policy._

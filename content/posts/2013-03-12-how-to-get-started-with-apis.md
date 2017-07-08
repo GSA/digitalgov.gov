@@ -140,9 +140,7 @@ Then, when any resulting concerns are worked out, even weeks or months later, th
   <li>
     <strong>Track Progress</strong>
   </li>
-</ol>
-
-_​_Monitor the API analytics as well as reviewing how developers are using the API to [track the progress of the API](http://blog.programmableweb.com/2010/09/15/metrics-for-content-apis-an-npr-case-study/). Since the goal is to support developer efforts to further spread your agency’s information and services, quickly address concerns and problems. Developers are your customers. Don&#8217;t let them give up in frustration.
+</ol>_​_Monitor the API analytics as well as reviewing how developers are using the API to [track the progress of the API](http://blog.programmableweb.com/2010/09/15/metrics-for-content-apis-an-npr-case-study/). Since the goal is to support developer efforts to further spread your agency’s information and services, quickly address concerns and problems. Developers are your customers. Don&#8217;t let them give up in frustration.
 
 ## Repeat
 

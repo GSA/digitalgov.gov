@@ -34,7 +34,5 @@ The Investment Review Process helps the Office of Management and Budget (OMB) en
 To see the M3 Framework and learn more of the details, visit [www.ussm.gov](https://www.ussm.gov/).
 
 _Denise Turner Roth is the Administrator of the U.S. General Services Administration.
-  
-_ _David Mader is the Controller at the Office of Management and Budget._
-
+  _ _David Mader is the Controller at the Office of Management and Budget._
 _This post was originally published on the [OMB blog](https://www.whitehouse.gov/omb/blog)._

@@ -52,6 +52,4 @@ Early live video streaming pioneers, [Ustream](http://www.ustream.tv/platform/br
     Data rates for streaming mobile video can be expensive if you do it for extended periods of time—about 400 MB per hour—and with most cellular plans only allowing 1-2 GB a month, you can easily burn through your limits.
  10. **Experiment, re-watch your replays and share best practices.**
   
-    This is a completely new medium so there is a lot of opportunity to experiment and learn from different types of video.
-
-_Have you experimented with any live streaming apps recently at your agency? What did you learn? Post your examples in the comments below!_
+    This is a completely new medium so there is a lot of opportunity to experiment and learn from different types of video._Have you experimented with any live streaming apps recently at your agency? What did you learn? Post your examples in the comments below!_

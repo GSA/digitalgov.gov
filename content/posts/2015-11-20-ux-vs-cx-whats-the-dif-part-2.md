@@ -59,6 +59,4 @@ CX and UX are everywhere in government now. However you define them, agencies ar
   * Read through the [Usability Starter Kit]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
   * A CX Toolkit is also in development; look for it in December 2015.
 
-How has your agency embraced CX and UX? Tell us in the comments.
-
-_Thanks to members of the [UX]({{< relref "federal-user-experience-community-of-practice.md" >}}) and [CX]({{< relref "customer-experience-community.md" >}}) communities for their contributions to this article._
+How has your agency embraced CX and UX? Tell us in the comments._Thanks to members of the [UX]({{< relref "federal-user-experience-community-of-practice.md" >}}) and [CX]({{< relref "customer-experience-community.md" >}}) communities for their contributions to this article._

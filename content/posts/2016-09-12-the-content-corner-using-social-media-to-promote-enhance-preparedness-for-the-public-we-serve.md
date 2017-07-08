@@ -1,7 +1,7 @@
 ---
 date: 2016-09-12 10:00:18 -0400
 title: 'The Content Corner: Using Social Media to Promote, Enhance Preparedness for the Public We Serve'
-summary: 'September is National Preparedness Month. FEMA&#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America&rsquo;s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-340-EQanimation\_8\_Plan\_091114\_medium.jpg"'
+summary: 'September is National Preparedness Month. FEMA&#8217;s Ready.gov is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in America&rsquo;s PrepareAthon! and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30. '
 authors:
   - kyle-s-richardson
 categories:
@@ -41,7 +41,7 @@ When a natural disaster such as a tornado, wildfire, or hurricane hits, the Nati
   <p lang="en" dir="ltr">
     Amazing how social media (especially Twitter) is often where reports of disasters are first seen. <a href="https://twitter.com/hashtag/LESM?src=hash">#LESM</a> <a href="https://twitter.com/hashtag/SMEM?src=hash">#SMEM</a> <a href="https://t.co/z5C7i14YzI">https://t.co/z5C7i14YzI</a>
   </p>
-  
+
   <p>
     &mdash; John Nebl, IPEM (@SchaumburgNebl) <a href="https://twitter.com/SchaumburgNebl/status/773627409509777408">September 7, 2016</a>
   </p>
@@ -55,7 +55,7 @@ As the #ReyFire wildfires continue to affect parts of Southern California, the C
   <p lang="en" dir="ltr">
     21 drops today on <a href="https://twitter.com/hashtag/ReyFire?src=hash">#ReyFire</a> for <a href="https://twitter.com/hashtag/MAFFS?src=hash">#MAFFS</a> supporting <a href="https://twitter.com/CAL_FIRE">@CAL_FIRE</a>.<a href="https://twitter.com/hashtag/OneTeamOneFight?src=hash">#OneTeamOneFight</a> <a href="https://t.co/O2nqYnIICi">pic.twitter.com/O2nqYnIICi</a>
   </p>
-  
+
   <p>
     &mdash; 146thAirliftWing (@146AirliftWing) <a href="https://twitter.com/146AirliftWing/status/768290839390851078">August 24, 2016</a>
   </p>
@@ -66,7 +66,7 @@ As the #ReyFire wildfires continue to affect parts of Southern California, the C
 Sonny Saghera, who&#8217;s a firefighter and Public Information Officer for Heartland Fire and Rescue, uses social media increasingly to get messages out. Sonny talks about his agency’s use of live video like Periscope to share exactly what&#8217;s going on with the public.
 
 [youtube=http://www.youtube.com/watch?v=Q1zgLgA6dPI&w=600]
-  
+
 As data use continues to skyrocket for the general public and first responders alike, [FirstNet](http://www.firstnet.gov/), a relatively new federal agency, is tasked with the mission of ensuring the building, operation, and maintenance of a nationwide public safety broadband network. When so much is at stake, public safety shouldn&#8217;t have to compete with the general public for bandwidth.
 
 Chrissie Coon, FirstNet Public Safety Liaison and former Public Information Officer at North Las Vegas Police Department, shares her perspective on the continued reliance on social media by public safety agencies. “It is vital to an effective response to have a presence on social media as more and more people are turning to social media during crisis to get firsthand, credible information from public safety agencies,” said Chrissie. “Official Twitter, Facebook, and YouTube accounts have become vital channels for first responders to communicate with the community during emergency response for everything from evacuation information to incident status updates.”
@@ -81,11 +81,8 @@ Throughout September, more than 3,000 organizations—national, regional, and lo
 
 Public safety agencies continue to work to better connect with the public they serve. For example, [check out this viral story](http://abc3340.com/news/local/mississippi-firefighter-plays-happy-feet-song-to-comfort-young-crash-victim) of a Mississippi firefighter who plays the movie “Happy Feet” on his phone to try and calm a terrified child who was in a violent car crash.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg" alt="2016 graphic for Don’t Wait, Communicate. Make Your Emergency Plan Today." >}}
-
-_“Don’t Wait, Communicate. Make Your Emergency Plan Today,” is the theme by FEMA with a continuing emphasis on preparedness for youth, older adults, and people with disabilities and others with access and functional needs._
-
-_You can help them promote #NatlPrep Month content with their 2016 Social Media Toolkit by visiting_ [_www.ready.gov/september_](http://www.ready.gov/september). _Get started now with these tools:_ 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg" alt="2016 graphic for Don’t Wait, Communicate. Make Your Emergency Plan Today." >}}_“Don’t Wait, Communicate. Make Your Emergency Plan Today,” is the theme by FEMA with a continuing emphasis on preparedness for youth, older adults, and people with disabilities and others with access and functional needs._
+_You can help them promote #NatlPrep Month content with their 2016 Social Media Toolkit by visiting_ [_www.ready.gov/september_](http://www.ready.gov/september). _Get started now with these tools:_
 
   * _Plan content for each week throughout the month of September with the 2016 themes_
   * _Social media messages that you can copy & paste from your mobile device_

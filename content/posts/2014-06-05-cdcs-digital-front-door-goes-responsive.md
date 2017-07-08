@@ -41,8 +41,6 @@ So, what DID you want from CDC, beyond a mobile-optimized homepage that performs
 
 Instead of simply creating a homepage that was just visually mobile-optimized, CDC worked to make more popular content easier to find and access. From their user research, the digital team found that many &#8220;topic-driven&#8221; mobile visitors bypassed the homepage altogether, heading straight to lower-level content pages. So, they tweaked the focus of the page to raise the profile of content visitors were most interested in accessing from the get-go.
 
-How did all that work out? Looks like the upfront research paid off: In a recent survey of user feedback, CDC says that 93 percent of respondents agreed the new homepage is easy to use and that the content is useful, 92 percent were &#8220;satisfied,&#8221; and 91 percent reported that they &#8220;enjoyed&#8221; using the page. You can&#8217;t ask for more than that&#8230;
-
-_Don&#8217;t forget: You can download cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._
+How did all that work out? Looks like the upfront research paid off: In a recent survey of user feedback, CDC says that 93 percent of respondents agreed the new homepage is easy to use and that the content is useful, 92 percent were &#8220;satisfied,&#8221; and 91 percent reported that they &#8220;enjoyed&#8221; using the page. You can&#8217;t ask for more than that&#8230;_Don&#8217;t forget: You can download cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._
 
  

@@ -56,6 +56,4 @@ You can use [this tool](http://konklone.io/json/) to convert your JSON files int
 
 There&#8217;s a lot you can do with APIs and you don&#8217;t have to be a developer or a coder to do so. [Check out this blog post](http://sunlightfoundation.com/blog/2014/04/03/i-learned-basic-json-in-the-morning-and-made-a-silly-twitter-bot-with-sunlights-api-in-the-afternoon/) where a non-developer used the Sunlight API to make a Twitter bot that automatically tweets out Happy Birthday to our Congressmen.
 
-All it takes is a little courage and determination!
-
-_Editor&#8217;s note: GSA will be hosting this session again in the future, so everyone will have a chance to take this class and others like it._
+All it takes is a little courage and determination!_Editor&#8217;s note: GSA will be hosting this session again in the future, so everyone will have a chance to take this class and others like it._

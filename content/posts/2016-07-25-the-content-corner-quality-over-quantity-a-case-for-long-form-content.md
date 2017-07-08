@@ -25,9 +25,7 @@ tag:
 
 Let&#8217;s first define the two terms:
 
-_Short – Content that is generally created quickly, and consumed just as fast; e.g., tweets, status updates, short blogs and articles (350 words or less)._ 
-
-_Long – In-depth content designed to give a large amount of detail and info; e.g., e-books, white papers, and long blog post series._
+_Short – Content that is generally created quickly, and consumed just as fast; e.g., tweets, status updates, short blogs and articles (350 words or less)._ _Long – In-depth content designed to give a large amount of detail and info; e.g., e-books, white papers, and long blog post series._
 
 These days, we could probably most agree that short-form content makes up the majority of what is released. With the [average attention span](http://www.statisticbrain.com/attention-span-statistics/) of today’s media consumers continuing to decrease, developing [bite-sized content](http://www.business2community.com/infographics/create-bite-sized-content-infographic-01440378) is key for those of us striving to create the most valuable and useful content for our audience. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}} 
 
@@ -45,9 +43,7 @@ There’s huge value to creating short-form content to grab the attention of you
   </p>
 </blockquote>
 
-Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< relref "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}}) to engage with its audience).
-
-__You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
+Speaking of short attention spans, there’s Snapchat, the social network with content that can disappear by design—although it’s features have evolved beyond that to make it &#8220;[one of the most complete and engaging communication platforms on the market](https://blog.bufferapp.com/snapchat-chat)&#8221; (learn how [USA.gov is using Snapchat]({{< relref "2016-04-01-why-we-launched-a-snapchat-account-and-how-well-measure-success.md" >}}) to engage with its audience).__You may not have heard, but they [recently launched](http://www.theverge.com/2016/6/17/11962916/snapchat-real-life-tech-magazine-publication-announced) a new digital magazine. Called [Real Life](http://reallifemag.com/), it will focus on &#8220;how our lives are mediated by devices.&#8221; I checked it out and was surprised to find that the content is quite opposite of its social media platform. Articles are lacking imagery and written in storytelling form, like your typical magazine.
 
 It has yet to be seen how successful the platform will be, but it’s certainly interesting that Snapchat has delved into long-form publishing.
 

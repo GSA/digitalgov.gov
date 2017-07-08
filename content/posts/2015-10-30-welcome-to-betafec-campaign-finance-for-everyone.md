@@ -58,6 +58,4 @@ While we’re thrilled with the beta site, our work over the past year has been 
 
 ## Why beta?
 
-Beta means we’re still actively working on the site. Information and features aren’t comprehensive or complete. We’ve launched the beta now to gather user feedback from you, the public. We celebrate your [input and contributions](https://github.com/18F/FEC). After all, this site was designed for you.
-
-_This post was originally published on the [18fblog](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/) by 18f team member, Emileigh Barnes._
+Beta means we’re still actively working on the site. Information and features aren’t comprehensive or complete. We’ve launched the beta now to gather user feedback from you, the public. We celebrate your [input and contributions](https://github.com/18F/FEC). After all, this site was designed for you._This post was originally published on the [18fblog](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/) by 18f team member, Emileigh Barnes._
