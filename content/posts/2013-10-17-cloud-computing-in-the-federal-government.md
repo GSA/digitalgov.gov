@@ -1,5 +1,5 @@
 ---
-date: 2013-10-17 1:27:51 -0400
+date: 2013-10-17 13:27:51 -0400
 title: Cloud Computing in the Federal Government
 summary: ' Cloud Computing enables convenient, on-demand access to, and rapid deployment of, shared computing resources such as networks, servers, storage, applications, and services. Plan What is the Cloud? Is Cloud Computing for you? What types of services does Cloud Computing support? Types of Cloud environments Implement Learn steps to acquire, manage, and secure your agency'
 authors:

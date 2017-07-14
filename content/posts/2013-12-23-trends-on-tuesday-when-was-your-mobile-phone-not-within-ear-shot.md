@@ -1,5 +1,5 @@
 ---
-date: 2013-12-23 1:19:53 -0400
+date: 2013-12-23 13:19:53 -0400
 title: 'Trends on Tuesday: When Was Your Mobile Phone Not Within Ear Shot?'
 summary: 'Here&#8217;s the latest news from the people are &#8220;crazy about mobile&#8221; beat. Do you remember the last time your phone was not within earshot? Well, according to this infographic from Fast Company, 25% of smartphone owners ages 18-44 surveyed said they couldn&#8217;t remember the last time their smartphone was not'
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2014-11-03 1:53:23 -0400
+date: 2014-11-03 13:53:23 -0400
 title: Keeping Peace Corps Volunteers Healthy, One Text at a Time
 summary: ' Today, refilling your medicine cabinet with bandages and over the counter medicine from your local drugstore may seem like a trivial task, but for Peace Corps volunteers working in remote villages around the world, this task can be much more challenging. As we take steps to forge a 21st century'
 authors:

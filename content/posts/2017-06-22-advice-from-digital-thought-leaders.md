@@ -1,5 +1,5 @@
 ---
-date: 2017-06-22 3:31:18 -0400
+date: 2017-06-22 15:31:18 -0400
 title: Advice From Digital Thought Leaders
 summary: 'Many know that digital tools have become indispensable for connecting with many audiences&mdash;but we also know that what&rsquo;s available in the digital realm is always changing. So how do you know what tools are best for your purpose? And how do you plan for your organization&rsquo;s digital future when the pace of change is so'
 authors:

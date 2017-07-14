@@ -1,5 +1,5 @@
 ---
-date: 2014-12-17 5:19:13 -0400
+date: 2014-12-17 17:19:13 -0400
 title: 3rd U.S. Public Participation Playbook Draft Released This Month
 summary: 'The new third draft of the U.S. Public Participation Playbook continues to incorporate changes proposed from more than 100 suggestions submitted via public comment aimed at measuring the performance and improving the development of government programs. It takes the 13 initial &#8220;plays&#8221; from rough brainstorming and collaborations to a more refined, action-focused presentation that will help contributors understand and identify opportunities'
 authors:

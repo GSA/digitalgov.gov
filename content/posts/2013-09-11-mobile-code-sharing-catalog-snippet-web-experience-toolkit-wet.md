@@ -1,5 +1,5 @@
 ---
-date: 2013-09-11 3:46:20 -0400
+date: 2013-09-11 15:46:20 -0400
 title: 'Mobile Code Sharing Catalog Snippet: Web Experience Toolkit (WET)'
 summary: Looking to jumpstart your mobile website development? Check out the Web Experience Toolkit (WET) available on the Mobile Code Sharing Catalog. The toolkit includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable. Developed as a collaborative open source project by the Government of Canada, the WET has reusable
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-27 3:32:08 -0400
+date: 2014-01-27 15:32:08 -0400
 title: How to Win Digital Like a Grammy
 summary: 'Digital Marketing Evangelist and analytics guru Avinash Kaushik recently published a fascinating article on Six Visual Solutions To Complex Digital Marketing/Analytics Challenges. The article is especially relevant to government organizations, because it talks about the importance of dynamic vs. static content. Government agencies tend'
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2015-10-21 2:51:33 -0400
+date: 2015-10-21 14:51:33 -0400
 title: Modernizing Federal Information Policy
 summary: 'Today, the White House Office of Management and Budget (OMB) is proposing for the first time in fifteen years revisions to the Federal Government&rsquo;s governing document establishing policies for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource. More specifically, Circular A-130 provides general policy for the planning, budgeting, governance,'
 authors:

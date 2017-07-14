@@ -1,5 +1,5 @@
 ---
-date: 2012-08-12 4:31:45 -0400
+date: 2012-08-12 16:31:45 -0400
 title: Top 10 Best Practices for Multilingual Websites
 summary: ' Language Online communications must address the language preferences of users. The use of machine or automatic translations is strongly discouraged even if a disclaimer is added. If government agencies decide to use software assisted translation, have the translation reviewed by a qualified language professional before posting it to the'
 authors:

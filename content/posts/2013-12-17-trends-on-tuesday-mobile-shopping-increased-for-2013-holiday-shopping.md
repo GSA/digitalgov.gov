@@ -1,5 +1,5 @@
 ---
-date: 2013-12-17 1:16:26 -0400
+date: 2013-12-17 13:16:26 -0400
 title: 'Trends on Tuesday: Mobile Shopping Increased for 2013 Holiday Shopping'
 summary: 'Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this report from IBM: Online Sales Set New Record: Thanksgiving Day online sales grew by 19.7 percent year-over-year followed by Black Friday, with sales increasing 19 percent over 2012.'
 authors:
