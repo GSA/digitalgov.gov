@@ -6,12 +6,23 @@
 {{ define "content" }}
   {{ $data := $.Site.Data }}
   <h1>{{ .Title }}</h1>
+  <p>There are {{ len $.Data.Terms }} {{ $.Data.Plural }}.</p>
 
   <ul>
-    {{ range $tag, $title := index $data $.Data.Plural }}
-      {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
-      {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
-        <li><a href="{{ $link | absURL }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
+    {{ if eq $.Data.Plural "authors" }}
+      {{/* OUTPUT NAMES THAT MATCH DATA */}}
+      {{ range $tax := $.Data.Terms.Alphabetical }}
+        {{ $uid := $tax.Name | urlize }}
+        {{ $author := index $data.people.authors $uid }}
+          {{ $link := printf "authors/%s/" $uid }}
+          <li><a href="{{ $link | absURL }}" {{ if $author.uid }}style="color: black;"{{ end }}>{{ $author.display_name | default $uid }} <strong>({{ $tax.Count }})</strong></li>
+      {{ end }}
+    {{ else }}
+      {{ range $tag, $title := index $data $.Data.Plural }}
+        {{ $link := printf "%s/%s/" $.Data.Plural $tag }}
+        {{ range $page := first 1 (where $.Data.Terms.Alphabetical ".Name" $tag ) }}
+          <li><a href="{{ $link | absURL }}">{{ $title }} <strong>({{ $page.Count }})</strong></li>
+        {{ end }}
       {{ end }}
     {{ end }}
   </ul>
