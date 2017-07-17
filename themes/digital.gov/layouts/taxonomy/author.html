@@ -1,5 +1,5 @@
 {{ define "pagevars" }}
-  {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
+  {{ $.Scratch.Set "bodyclasses" "archive author c-sw unboxed centercatnav bodybg1" }}
 {{ end }}
 
 {{ define "content" }}
@@ -9,7 +9,23 @@
       {{ $slug := .Title | urlize }}
       {{ $person := index $.Site.Data.people.authors $slug }}
 
-      <h1 class="archive-title">{{ $person.full_name | default .Title }}</h1>
+      <div class="auth-bio clearfix">
+    		<h1><span>{{ $person.full_name | default .Title }}</span></h1>
+        {{ with $person.gravatar_email }}
+          <img alt=''
+            src='https://www.gravatar.com/avatar/{{ md5 . }}?s=48&d=identicon'
+            srcset='https://www.gravatar.com/avatar/{{ md5 . }}?s=96&d=identicon 2x'
+            class='avatar avatar-48 photo' height='48' width='48' />
+        {{ end }}
+        {{ with $person.bio }}
+      		<p>{{ . }}</p>
+        {{ end }}
+        <div class="sub-icons auth-icons">
+        	<ul class="clearfix">
+        		<li><a class="subicon rss" rel="external" title="RSS Feed for {{ $person.full_name | default .Title }}" href="{{ .RSSLink }}">RSS Feed</a></li>
+        	</ul>
+        </div>
+      </div>
 
       {{ range .Pages }}
         {{ partial "summary-withImage.html" . }}
