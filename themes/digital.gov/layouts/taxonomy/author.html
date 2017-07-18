@@ -13,11 +13,21 @@
       <div class="auth-bio clearfix">
     		<h1><span>{{ $person_name }}</span></h1>
 
-        {{ with $person.gravatar }}
-          <img alt=''
-            src='https://www.gravatar.com/avatar/{{ md5 . }}?s=48&d=identicon'
-            srcset='https://www.gravatar.com/avatar/{{ md5 . }}?s=96&d=identicon 2x'
-            class='avatar avatar-48 photo' height='48' width='48' />
+        {{if $person.image }}
+          {{/* defaulting to gh until we have an image solution */}}
+          {{ with $person.github }}
+            <img alt=''
+              src='https://www.github.com/{{ . }}.png?size=48'
+              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
+              class='avatar avatar-48 photo' height='48' width='48' />
+          {{ end }}
+        {{ else }}
+          {{ with $person.github }}
+            <img alt=''
+              src='https://www.github.com/{{ . }}.png?size=48'
+              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
+              class='avatar avatar-48 photo' height='48' width='48' />
+          {{ end }}
         {{ end }}
 
         {{ with $person.bio }}
