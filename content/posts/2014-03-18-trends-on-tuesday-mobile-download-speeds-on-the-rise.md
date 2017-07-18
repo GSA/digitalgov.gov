@@ -15,8 +15,7 @@ tag:
 Mobile devices are uploading data faster and mobile users are starting to expect better performance, according to Citrix. Fifty percent of web pages are taking 37.5% less time to load on a mobile device than they did just a year ago according the [Citrix Mobile Analytics Report](http://www.citrix.com/news/announcements/feb-2014/data-reveals-mobile-ad-reach-has-doubled-.html).
 
 [<img class="wp-image-136932 aligncenter" alt="Infographic, all stats in blog text" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/mobile-download-speeds-infographic.jpg" width="600" height="729" />
-  
-](http://www.citrix.com/content/dam/citrix/en_us/documents/products-solutions/mobile-usage-trends.pdf) 
+  ](http://www.citrix.com/content/dam/citrix/en_us/documents/products-solutions/mobile-usage-trends.pdf) 
 
 This [infographic from the study](http://www.citrix.com/content/dam/citrix/en_us/documents/products-solutions/mobile-usage-trends.pdf) shows the percentage of users who abandon a mobile website based on the speed with which it loads:
 

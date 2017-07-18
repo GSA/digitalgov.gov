@@ -89,4 +89,4 @@ While no one knows what online government will look like in the next 25 years, a
 
 Curious what your agency’s first Web presence looked like? Check out the [Wayback Machine](http://archive.org/web/web.php) and NARA’s [Web Harvest](http://www.webharvest.gov/).
 
-Tomorrow the [Mobile Community of Practice](({{< link "categories/mobile" >}}) will offer its take on what effect mobile technologies will have on the next 25 years of the Web.
+Tomorrow the [Mobile Community of Practice]({{< link "categories/mobile" >}}) will offer its take on what effect mobile technologies will have on the next 25 years of the Web.

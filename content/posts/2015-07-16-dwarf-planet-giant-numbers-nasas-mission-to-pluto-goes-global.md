@@ -49,6 +49,4 @@ Of course we love these numbers, and we always knew this would be a big one. But
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-214-NASA-2-engage.jpg" alt="600-x-214-NASA-2\---engage" >}}
   
-This is just getting started. We’re looking forward to seeing what else Pluto has to offer, and watching the analytics to see how the world engages.
-
-_Jim Wilson is Senior Editor of www.nasa.gov at the National Aeronautics and Space Administration._
+This is just getting started. We’re looking forward to seeing what else Pluto has to offer, and watching the analytics to see how the world engages._Jim Wilson is Senior Editor of www.nasa.gov at the National Aeronautics and Space Administration._

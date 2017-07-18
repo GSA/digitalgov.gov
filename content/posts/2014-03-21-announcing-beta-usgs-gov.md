@@ -28,8 +28,6 @@ The new [beta.usgs.gov](http://beta.usgs.gov/?utm_source=Social_Launch&utm_mediu
 
 While the beta is a step in a new direction for the future of the USGS Web presence, we can’t do this without your continued comments. As a valued stakeholder, we encourage you to visit [beta.usgs.gov](http://beta.usgs.gov/?utm_source=Social_Launch&utm_medium=DigitalGov&utm_campaign=Beta) with both your **desktop** and **mobile** device&#8230;and provide us with comments via the **Send Feedback** button at the bottom of the pages. As you try out our new beta website, please be aware that some links will take you to the current version of the website. We’re still working on moving content into this new design.
 
-Thank you for your comments, support and thoughts.
-
-_**Scott Horvath** is the Bureau Social Media Lead, Office of Communications and Publishing at the U.S. Geological Survey (USGS)._
+Thank you for your comments, support and thoughts._**Scott Horvath** is the Bureau Social Media Lead, Office of Communications and Publishing at the U.S. Geological Survey (USGS)._
 
  

@@ -62,6 +62,6 @@ Here are some of the key highlights from the report for government agencies and 
   <strong>Mobile is exploding globally.</strong> In 2014, 73% of the world had a mobile phone of some sort (that 5.2 billion people). Of those mobile phone users, 60% have smartphones and 40% have feature phones. (Slide 5)
 </li>
 
-[Read more of the data-rich report and share it with your co-workers](http://www.kpcb.com/internet-trends), then dig into the [DigitalGov mobile archives to prepare your strategy to become more mobile-friendly](({{< link "categories/mobile" >}}).
+[Read more of the data-rich report and share it with your co-workers](http://www.kpcb.com/internet-trends), then dig into the [DigitalGov mobile archives to prepare your strategy to become more mobile-friendly]({{< link "categories/mobile" >}}).
 
  

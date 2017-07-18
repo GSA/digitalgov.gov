@@ -25,7 +25,7 @@ Responsive Web design is widely-known as a go-to solution for [designing a websi
 
 There are various ways to implement responsive design. Some agencies have implemented it via [structured data and content modeling]({{< relref "2014-05-27-video-blog-part-3-sarah-crane-usa-gov.md" >}}) and others have [completely redesigned their website]({{< relref "2014-05-15-defense-finance-and-accounting-service-goes-responsive.md" >}}). Agencies who are not yet at that point are looking for ways they can begin.
 
-In our February workshop, we learned members of the [MobileGov Community of Practice](({{< link "categories/mobile" >}}) are using built-in responsive templates in open source content management systems (CMS) in order to better manage existing content and make it user-friendly across a variety of mobile devices.
+In our February workshop, we learned members of the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) are using built-in responsive templates in open source content management systems (CMS) in order to better manage existing content and make it user-friendly across a variety of mobile devices.
 
 Sign up for our [Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design]({{< tmp "events/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}}) webinar on Wednesday July 30th, to see and hear representatives from the Department of State and the General Services Administration (GSA) demonstrate how they leveraged existing templates in Open Source CMS for content on mobile devices. Specifically, they’ll disclose tips on implementing RWD with CMS systems like Drupal and WordPress and share how they troubleshooted challenges they faced.
 

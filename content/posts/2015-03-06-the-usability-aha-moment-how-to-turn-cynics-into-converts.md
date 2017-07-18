@@ -49,6 +49,4 @@ When presenting results from your testing, avoid giving personal opinions. Alway
 
 Give a brown bag lecture on the topic of usability and user experience. Show off your skills and teach people within the organization what you’re able to do and how you can help, not hinder, their projects. Stress ways in which usability efforts can save time and money. Give examples of projects that have been improved based on findings from your studies, and/or borrow results from others in the field whose stories of success have influenced you.
 
-Introducing usability to your colleagues may not be the easiest sell, but it can be done. Just a little bit of effort on your part can go a long way towards a strong UX practice at your workplace.
-
-_Sarah Ward and Deborah Bennett are Information Technology Specialists at the National Library of Medicine._
+Introducing usability to your colleagues may not be the easiest sell, but it can be done. Just a little bit of effort on your part can go a long way towards a strong UX practice at your workplace._Sarah Ward and Deborah Bennett are Information Technology Specialists at the National Library of Medicine._

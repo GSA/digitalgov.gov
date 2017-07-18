@@ -63,6 +63,4 @@ Through the process, we learned that incremental improvement is still improvemen
 
 **Listen to your team**. A core tenet of agile is the participatory process, transparency, and accountability required in order to be able to successfully deliver in small increments. A formal process and vision from management will help remove inertia barriers, and those processes that involve employees are more likely to address their needs. “False starts” are a risk — building momentum in the right direction and sticking to it is important, so buy-in before a formal process is put in place may help to avoid conflicts requiring a lot of course correction later.
 
-Looking for more? Check out 18F’s [Agile Principles and Practices](https://pages.18f.gov/agile/) guide, and see our [other posts on agile](https://18f.gsa.gov/tags/agile/).
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+Looking for more? Check out 18F’s [Agile Principles and Practices](https://pages.18f.gov/agile/) guide, and see our [other posts on agile](https://18f.gsa.gov/tags/agile/)._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

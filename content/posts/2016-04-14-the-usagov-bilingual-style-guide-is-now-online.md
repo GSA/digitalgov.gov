@@ -40,5 +40,4 @@ Simple. A lot of the guidance applies to both languages, so if there is no speci
 We wanted to share this process with you. So, take a look and come back from time to time as we add new sections and update existing guidance. The USAGov Bilingual Style Guide is a living tool that reflects the evolving nature of languages.
 
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Laura Godfrey, the Bilingual Senior Editor of USAGov._
-
-_Additionally, you can check out DigitalGov&#8217;s [Resources](({{< relref "resources.md" >}}) to review the [Spanish Language Style Guide and Glossaries]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}) and other_ [Communities]({{< relref "communities.md" >}})_._
+_Additionally, you can check out DigitalGov&#8217;s [Resources]({{< relref "resources.md" >}}) to review the [Spanish Language Style Guide and Glossaries]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}), and join the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}) and other_ [Communities]({{< relref "communities.md" >}})_._

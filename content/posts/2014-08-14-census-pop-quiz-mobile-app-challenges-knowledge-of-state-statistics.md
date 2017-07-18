@@ -39,5 +39,4 @@ Census Bureau Director John Thompson recently recorded a video interview explain
 Stop searching and save time! You can also download other mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/).
 
 _This post was originally published on the [Commerce Blog](http://www.commerce.gov/blog/2014/08/13/census-pop-quiz-mobile-app-challenges-knowledge-state-statistics)._
-
 __

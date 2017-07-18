@@ -34,6 +34,4 @@ We read each comment and discussed them, and then we clarified and expanded thes
 
 **Purpose**: You asked us to clarify how social media supports the greater mission of the National Archives.
 
-Thank you for all of your comments…but we’re not done yet! We’ll continue to update the strategy as it is implemented, from sharing successes to lessons learned. Want to know what we’re working on next? Keep an eye out for our [digital plan](http://usnationalarchives.github.io/social-media-strategy/resources/) worksheet!
-
-_This post was originally published on [Narations, the blog of the U.S. National Archives](https://narations.blogs.archives.gov/)._
+Thank you for all of your comments…but we’re not done yet! We’ll continue to update the strategy as it is implemented, from sharing successes to lessons learned. Want to know what we’re working on next? Keep an eye out for our [digital plan](http://usnationalarchives.github.io/social-media-strategy/resources/) worksheet!_This post was originally published on [Narations, the blog of the U.S. National Archives](https://narations.blogs.archives.gov/)._

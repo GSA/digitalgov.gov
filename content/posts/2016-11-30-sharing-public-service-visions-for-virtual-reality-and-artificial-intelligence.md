@@ -36,110 +36,57 @@ And while the workshop hasn’t happened yet, participants have already contribu
 
 The list of achievable applications for both artificial intelligence and virtual/augmented reality in public service is growing, and our two new Communities will serve as the collaborative foundations for sharing information, analyzing trends, and connecting across government with the businesses ready to work with us.
 
-And the list of participating agencies for the launch workshop this week is growing, too…
-
-_Architect of the Capitol_
-  
-_Centers for Disease Control_
-  
-_Consumer Financial Protection Bureau_
-  
-_Consumer Product Safety Commission_
-  
-_Department of Agriculture_
-  
-_Department of Commerce_
-  
-_Department of Commerce FirstNet_
-  
-_Department of Education_
-  
-_Department of Energy_
-  
-_Department of Health and Human Services_
-  
-_Department of Homeland Security_
-  
-_Department of Justice_
-  
-_Department of State_
-  
-_Department of the Interior_
-  
-_Department of Treasury CDFI Fund_
-  
-_Department of Veterans Affairs_
-  
-_Environmental Protection Agency_
-  
-_Export/Import Bank_
-  
-_FDA Center for Tobacco Products_
-  
-_Federal Communication Commission_
-  
-_Internal Revenue Service_
-  
-_Millennium Challenge Corporation_
-  
-_NASA_
-  
-_National Archives and Records Administration_
-  
-_National Cancer Institute_
-  
-_National Center for Advancing Translational Sciences_
-  
-_National Gallery of Art_
-  
-_National Institute of Standards and Technology_
-  
-_National Institute of Biomedical Imaging and Bioengineering_
-  
-_National Institutes of Health_
-  
-_National Library of Medicine Disaster Information Management Research Center_
-  
-_National Mediation Board_
-  
-_NOAA Air Resource Laboratory_
-  
-_Office of Financial Research_
-  
-_Office of Personnel Management_
-  
-_Office of the Director of National Intelligence_
-  
-_Office of the National Coordinator for Health Information Technology_
-  
-_Presidential Innovation Fellows_
-  
-_Smithsonian Institution_
-  
-_Transportation Safety Administration_
-  
-_U.S. Army_
-  
-_U.S. Army Corps of Engineers_
-  
-_U.S. General Services Administration Technology Transformation Service_
-  
-_U.S. Marine Corps_
-  
-_U.S. Small Business Administration_
-  
-_United States Patent and Trademark Office_
-  
-_USAID_
-  
-_Veterans Health Administration_
-  
-_Veterans’ Employment and Training Service_
-  
-_White House Initiative on Asian Americans and Pacific Islanders_
-  
-_White House National Economic Council_
-  
-_White House Office of Management and Budget_
+And the list of participating agencies for the launch workshop this week is growing, too…_Architect of the Capitol_
+  _Centers for Disease Control_
+  _Consumer Financial Protection Bureau_
+  _Consumer Product Safety Commission_
+  _Department of Agriculture_
+  _Department of Commerce_
+  _Department of Commerce FirstNet_
+  _Department of Education_
+  _Department of Energy_
+  _Department of Health and Human Services_
+  _Department of Homeland Security_
+  _Department of Justice_
+  _Department of State_
+  _Department of the Interior_
+  _Department of Treasury CDFI Fund_
+  _Department of Veterans Affairs_
+  _Environmental Protection Agency_
+  _Export/Import Bank_
+  _FDA Center for Tobacco Products_
+  _Federal Communication Commission_
+  _Internal Revenue Service_
+  _Millennium Challenge Corporation_
+  _NASA_
+  _National Archives and Records Administration_
+  _National Cancer Institute_
+  _National Center for Advancing Translational Sciences_
+  _National Gallery of Art_
+  _National Institute of Standards and Technology_
+  _National Institute of Biomedical Imaging and Bioengineering_
+  _National Institutes of Health_
+  _National Library of Medicine Disaster Information Management Research Center_
+  _National Mediation Board_
+  _NOAA Air Resource Laboratory_
+  _Office of Financial Research_
+  _Office of Personnel Management_
+  _Office of the Director of National Intelligence_
+  _Office of the National Coordinator for Health Information Technology_
+  _Presidential Innovation Fellows_
+  _Smithsonian Institution_
+  _Transportation Safety Administration_
+  _U.S. Army_
+  _U.S. Army Corps of Engineers_
+  _U.S. General Services Administration Technology Transformation Service_
+  _U.S. Marine Corps_
+  _U.S. Small Business Administration_
+  _United States Patent and Trademark Office_
+  _USAID_
+  _Veterans Health Administration_
+  _Veterans’ Employment and Training Service_
+  _White House Initiative on Asian Americans and Pacific Islanders_
+  _White House National Economic Council_
+  _White House Office of Management and Budget_
 
 While AI and VR are just two of the [16 official inter-agency Communities]({{< relref "communities.md" >}}) we host with almost 10,000 memberships across the federal government, they both will need creative, new combinations of skill sets, training, and support — if you have something to contribute to these initiatives, I invite and encourage you to [reach out](mailto:justin.herman@gsa.gov). And if you can’t join us this time, we look forward to keeping your seat warm at the table for next time. The robots are coming.

@@ -43,7 +43,7 @@ The fact is today’s practices rapidly evolved from yesterday’s “best” pr
 
 ## The Vision
 
-We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< relref "communities.md" >}} "Communities"), [Services]({{< relref "services.md" >}} "Services") and [Resources](({{< relref "resources.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
+We wanted to build a collaborative platform to deliver timely content, showcase agency efforts and steer visitors to [Communities]({{< relref "communities.md" >}} "Communities"), [Services]({{< relref "services.md" >}} "Services") and [Resources]({{< relref "resources.md" >}} "Resources") to help agencies deliver that 21st century government. We wanted to give federal digital innovators a platform to broadcast their experiments and experiences and to accelerate the thinking—and the DOING—across government.
 
 ## The Roll-Out
 
@@ -62,9 +62,9 @@ One thing we’ve learned from looking at our data, is that you like lists and d
   * You’re coming back for more! We went from 15% returning visitors to 45% returning visitors.
   * You don’t mind a reminder (and you read our newsletters). We see a spike in traffic every day around 3:00, when we [email our newsletter](http://public.govdelivery.com/accounts/USHOWTO/subscriber/new) with the most recent articles and upcoming events.
   * You’re engaged with the content. You are coming to read an article and staying to read 2 more, for an average on site time of 6 minutes.
-  * You especially like articles about [metrics]((({{< link "categories/metrics" >}})), [user experience case studies](({{< link "tag/usability-case-study" >}}), [social media tools](({{< link "tag/terms-of-service" >}}), and [mobile trends](({{< link "tag/trends-on-tuesday" >}}).
+  * You especially like articles about [metrics](({{< link "categories/metrics" >}})), [user experience case studies]({{< link "tag/usability-case-study" >}}), [social media tools]({{< link "tag/terms-of-service" >}}), and [mobile trends]({{< link "tag/trends-on-tuesday" >}}).
   * You want to join in. Almost two-thirds of the articles on DigitalGov are written by people who don’t work for us but for 46 other agencies, bureaus and divisions of the federal government. ([Tell us if you have a story idea.]({{< relref "join-digitalgov.md" >}} "Join DigitalGov"))
-  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility](({{< link "categories/accessibility" >}}), and for [Specific Events](({{< link "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
+  * You’re landing and navigating to what you need (or maybe just coming for what’s new). Fewer than five percent of our visitors use site search (and it’s not because it’s not awesome). When you do search, you’re looking for information on [Terms of Service]({{< relref "negotiated-terms-of-service-agreements.md" >}} "Negotiated Terms of Service Agreements"), [Accessibility]({{< link "categories/accessibility" >}}), and for [Specific Events]({{< link "events" >}}). Some of you, we think, are looking for the articles you wrote. Good on you. They are something to be proud of!
 
 So far, the data is showing that we are doing what we set out to do. But, we know we have a long way to go and can do so much better.
 

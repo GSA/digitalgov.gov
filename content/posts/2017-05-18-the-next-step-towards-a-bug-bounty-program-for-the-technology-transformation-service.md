@@ -43,6 +43,4 @@ Security bug bounties provide many benefits to organizations that offer them:
   * Bring a broader base of expertise into play by opening up research to experts outside the organization
   * Complement traditional security reviews and penetration tests by making security review an ongoing, iterative process
 
-With bug bounties becoming an established industry-wide best practice, it’s important for us to establish our own. With the results we receive from the TTS Bug Bounty, we look forward to establishing a permanent program that involves most — if not all — TTS-owned websites and web applications.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/11/the-next-steps-towards-bug-bounty-program-for-technology-transformation-service/)._
+With bug bounties becoming an established industry-wide best practice, it’s important for us to establish our own. With the results we receive from the TTS Bug Bounty, we look forward to establishing a permanent program that involves most — if not all — TTS-owned websites and web applications._This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/11/the-next-steps-towards-bug-bounty-program-for-technology-transformation-service/)._

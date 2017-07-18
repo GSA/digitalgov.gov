@@ -62,6 +62,4 @@ You can add an extra audio track in two steps:
 
 A user can choose between the normal default audio track and the audio description audio track.
 
-Examples of extra audio tracks: [Art Beyond Sight](http://www.artbeyondsight.org/handbook/acs-verbalsamples.shtml), [Police Respond to People with Disabilities](http://www.ada.gov/policevideo/policebroadbandgallery.htm) and [Vocal Eye](https://soundcloud.com/vocaleye).
-
-_Note: YouTube doesn&#8217;t support extra audio tracks. Therefore, you will either need to use another video player that supports audio descriptions or post two versions of the video—one with audio descriptions (and closed captioning), and the other with just the closed captioning._
+Examples of extra audio tracks: [Art Beyond Sight](http://www.artbeyondsight.org/handbook/acs-verbalsamples.shtml), [Police Respond to People with Disabilities](http://www.ada.gov/policevideo/policebroadbandgallery.htm) and [Vocal Eye](https://soundcloud.com/vocaleye)._Note: YouTube doesn&#8217;t support extra audio tracks. Therefore, you will either need to use another video player that supports audio descriptions or post two versions of the video—one with audio descriptions (and closed captioning), and the other with just the closed captioning._

@@ -31,5 +31,4 @@ Additional Resources:
   * Press Release: [GSA Stands Up New Service To Solidify Agile, User Centered Approach for the Delivery of Technology](http://www.gsa.gov/portal/content/129918)
 
 _Editor’s Note: This blog was updated 5/3/2016 at 3 p.m._
-
 _This post was originally published on the [GSA blog](http://gsablogs.gsa.gov/gsablog/) by Administrator Denise Turner Roth of the U.S. General Services Administration (GSA)._

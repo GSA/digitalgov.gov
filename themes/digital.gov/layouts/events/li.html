@@ -1,14 +1,4 @@
-{{ if .Params.venue.is_inperson }}
-  {{ if .Params.venue.is_remote }}
-    {{ $.Scratch.Set "prefix" "In-Person & Online:" }}
-  {{ else }}
-    {{ $.Scratch.Set "prefix" "In-Person:" }}
-  {{ end }}
-{{ else }}
-  {{ $.Scratch.Set "prefix" "Online:" }}
-{{ end }}
-
-{{ $displaytitle := printf "%s %s" ($.Scratch.Get "prefix") .Title }}
+{{ partial "event-venue--inPerson.html" . }}
 
 <!-- Event  -->
 <div class="type-tribe_events tribe-clearfix">
@@ -17,7 +7,7 @@
 
   <!-- Event Title -->
   <h2 class="tribe-events-list-event-title">
-    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $displaytitle }}" rel="bookmark"> {{ $displaytitle }}</a>
+    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" }}</a>
   </h2>
 
   <!-- Event Meta -->

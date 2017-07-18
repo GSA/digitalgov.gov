@@ -26,7 +26,5 @@ Especially helpful to developers are the various [API toolkits](http://api.stlou
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-436-GEOFred-API.jpg" alt="600-x-436-GEOFred-API" >}}
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out_ [_APIs in Government_]({{< relref "2013-04-30-apis-in-government.md" >}}) _for more information._
-
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
-
 _**Dr. William A. Brantley** is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_. All opinions are his own and do not reflect the opinions of the USDA and GSA._

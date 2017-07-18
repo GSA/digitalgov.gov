@@ -59,8 +59,5 @@ As we enter the final stage of research prior to developing a report for USAGov 
   * Where do we add value?
   * What are our niches?
 
-In order to serve a dynamic nation, we must be a dynamic content provider.
-
-_Stay tuned for more details on the Kids.gov reenvisioning project._
-
+In order to serve a dynamic nation, we must be a dynamic content provider._Stay tuned for more details on the Kids.gov reenvisioning project._
 _This post was originally published on the [USA.gov blog](https://blog.usa.gov/) by Megan Fella, a detailee from the Emerging Leaders Program._

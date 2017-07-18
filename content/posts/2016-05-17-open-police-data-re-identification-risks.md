@@ -52,6 +52,4 @@ In addition, the process of mapping names to numbers is often a process that can
 
 From this brief introduction to re-identification, hopefully it is clear that de-identification is tricky business. One last point: once data is released to the public, it may be impossible to take it back. Once data is downloaded, even once, the downloader may re-distribute it to others and there may be little or no legal recourse. Thus it is critical that we think through data re-identification issues before releasing data to the public.
 
-**_The author’s views are his or her own, and do not necessarily represent the views of the Commission or any Commissioner._**
-
-_This article was [originally posted on the Tech@FTC blog](https://www.ftc.gov/news-events/blogs/techftc) by Lorrie Cranor, Chief Technologist at the Federal Trade Commission (FTC)._
+**_The author’s views are his or her own, and do not necessarily represent the views of the Commission or any Commissioner._**_This article was [originally posted on the Tech@FTC blog](https://www.ftc.gov/news-events/blogs/techftc) by Lorrie Cranor, Chief Technologist at the Federal Trade Commission (FTC)._

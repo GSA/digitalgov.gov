@@ -24,4 +24,4 @@ summary: 'SocialOomph is a cloud based application that offers tools for using T
 
  
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

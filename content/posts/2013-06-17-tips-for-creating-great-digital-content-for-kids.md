@@ -111,6 +111,4 @@ In response to the memo, the Department of Education chaired an [interagency wor
 
   * [Children&#8217;s Websites: Usability Issues in Designing for Kids](http://www.nngroup.com/articles/childrens-websites-usability-issues/)
   * [Kids.gov](http://kids.usa.gov/)
-  * [Federal Resources for Educational Excellence (FREE)](http://free.ed.gov/)
-
-_This article was written by Arlene Hernandez and Emily Canis, Kids.gov, and Jill James, Ed.gov, based on usability testing conducted by Cari Wolfson and Kristina Schall for Kids.gov (March 2011)._
+  * [Federal Resources for Educational Excellence (FREE)](http://free.ed.gov/)_This article was written by Arlene Hernandez and Emily Canis, Kids.gov, and Jill James, Ed.gov, based on usability testing conducted by Cari Wolfson and Kristina Schall for Kids.gov (March 2011)._

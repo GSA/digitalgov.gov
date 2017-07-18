@@ -39,6 +39,4 @@ Here are 10 tips to make your Facebook page ‘POP’:
   9. Consider image – creation tools like [Canva](https://www.canva.com/) and [Over](http://www.blessthisstuff.com/stuff/technology/apps/over-app-add-beautiful-text-to-photos/), that can enhance your photos and graphics with text overlays and design elements.
  10. To make sure images display optimally on your page use this &#8216;[cheat sheet](http://blog.hubspot.com/marketing/ultimate-guide-social-media-image-dimensions-infographic%23sm.00000bl8nhz9pacpzrufal1jfugrh)&#8216; to determine how to size them for Facebook (and other social media platforms).
 
-Regularly grabbing the interest of people who like your page with high-quality, purposeful images means you are more likely to stand out in their minds as credible and worth their time. Clearly, making the effort to include images with your Facebook posts can have tremendous benefits for you and your page’s followers.
-
-_This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/)._
+Regularly grabbing the interest of people who like your page with high-quality, purposeful images means you are more likely to stand out in their minds as credible and worth their time. Clearly, making the effort to include images with your Facebook posts can have tremendous benefits for you and your page’s followers._This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/)._

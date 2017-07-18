@@ -26,12 +26,7 @@ Citizen developers depend on APIs* and open data to build their business apps. B
 
 What about citizen developers inside the federal government? I was not able to find any studies or statistics about the size or that even acknowledged the existence of citizen developers in the federal government. From personal observations, I know there are some federal employees who have low-code or no-code platforms to build business applications but this practice does not seem to be encouraged by agency IT departments. Given the increasing importance of IT occupations to the federal government, maybe formally encouraging federal employee citizen developers can be a good strategy in helping close mission-critical IT skills gaps.
 
-As agencies continue to build APIs and release datasets, agencies should consider how citizen developers may use the federal government’s open data. Although app developers are an important audience, the increasing importance of citizen developers requires just as much consideration when agencies design APIs and associated training materials.
-
-_*API – Application Programming Interface are how software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
-
+As agencies continue to build APIs and release datasets, agencies should consider how citizen developers may use the federal government’s open data. Although app developers are an important audience, the increasing importance of citizen developers requires just as much consideration when agencies design APIs and associated training materials._*API – Application Programming Interface are how software programs and databases share data and functions with each other. Check out <a href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">APIs in Government</a> for more information._
 _(IFTTT, Quickbase, Microsoft Excel, Gartner, and IBM were used illustrative purposes and did not imply endorsement by the federal government or any specific federal agency.)_
-
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
-
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -57,6 +57,4 @@ FCC Chief Information Officer David Bray&#8217;s recent article, [How Can Artifi
 
 ## AI: Serving Millions Daily
 
-Artificial intelligence is used in smartphones, cars, banks, and houses on a daily basis. The integration of AI into our normal lives will continue to expand as well as becoming [a tool to assist Federal agencies to better serve their audiences]({{< relref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}). AI is everywhere, and it’s making a huge difference in our lives every day.
-
-_Note: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
+Artificial intelligence is used in smartphones, cars, banks, and houses on a daily basis. The integration of AI into our normal lives will continue to expand as well as becoming [a tool to assist Federal agencies to better serve their audiences]({{< relref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}). AI is everywhere, and it’s making a huge difference in our lives every day._Note: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._

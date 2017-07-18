@@ -1729,6 +1729,4 @@ authors:
       mantenimiento del buen estado de salud
     </p>
   </div>
-</blockquote>
-
-_Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_
+</blockquote>_Source: Adapted from [ApuntesOnline](http://www.apuntesonline.org/)_

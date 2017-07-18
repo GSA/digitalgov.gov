@@ -35,6 +35,4 @@ Some of the featured VA apps include:
 
 In addition to these featured apps, VA has many other apps designed specifically for Veterans in the Apple App and Google Play stores. The [VA App Store](http://mobile.va.gov/appstore) is an expanding VA web portal that provides direct access to nearly 20 web and mobile apps to extend clinical care beyond a traditional office visit and allow Veterans to be active participants in their care. The VA App Store also features a series of training materials and videos to help Veterans easily navigate the apps.
 
-Many more VA apps are in development that will support Veterans and their families in managing their personal health care. The additional apps will start being available in 2017, so check back often to see how we are expanding the VA Mobile program.
-
-_This post was originally published on the U.S. Department of Veterans Affairs blog, [VAntage Point](http://www.blogs.va.gov/VAntage/)._
+Many more VA apps are in development that will support Veterans and their families in managing their personal health care. The additional apps will start being available in 2017, so check back often to see how we are expanding the VA Mobile program._This post was originally published on the U.S. Department of Veterans Affairs blog, [VAntage Point](http://www.blogs.va.gov/VAntage/)._

@@ -45,6 +45,4 @@ Our goal for a more veteran-centered and innovative VA is shared. Our approach t
 
 Be sure to follow our [Innovation@VA publication](https://medium.com/vainnovation) on Medium for the latest stories about Innovation happening around VA.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-450-VACI-innovators.jpg" alt="Innovators, Innovation Specialists & The VA Innovators Network team cheesin’ at VA’s Innovation Demo Day on August 15th 2016" >}}
-
-_This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-450-VACI-innovators.jpg" alt="Innovators, Innovation Specialists & The VA Innovators Network team cheesin’ at VA’s Innovation Demo Day on August 15th 2016" >}}_This post was originally published on [Medium](https://medium.com/@VAInnovation) by the VA Center for Innovation._

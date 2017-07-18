@@ -48,9 +48,7 @@ GPS, IMEI, device numbers, and customer personal information all have privacy im
   * Protect from session hijacking
   * Permanently deletes data
   * Securely handle interruptions
-  * Properly secure data in backups
-
-_Privacy_
+  * Properly secure data in backups_Privacy_
 
   * <a href="http://www.mobileapptesting.com/important-mobile-app-privacy-recommendations/2013/02/" rel="nofollow">Important Mobile App Privacy Recommendations</a>
 
@@ -75,6 +73,4 @@ These services/companies or web sites are offered as a sample of what is current
 
 ## <a name="x-Test Plans/Checklists available on GitHub"></a>Test Plans/Checklists available on GitHub {#toc6}
 
-The [Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/index.html) has [test plans or cases or checklists](http://gsa.github.io/Mobile-Code-Catalog/testing.html) that have been uploaded to GitHub and are available as samples and/or for use.
-
-_ Coqui Aspiazu, GSA; Ben Weaver and Lisa Wilcox, USDA, contributed to this post._
+The [Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/index.html) has [test plans or cases or checklists](http://gsa.github.io/Mobile-Code-Catalog/testing.html) that have been uploaded to GitHub and are available as samples and/or for use._ Coqui Aspiazu, GSA; Ben Weaver and Lisa Wilcox, USDA, contributed to this post._

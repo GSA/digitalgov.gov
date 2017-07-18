@@ -32,6 +32,4 @@ The OGP provides guidance on creating NAPs and directs that commitments should b
 
 As you suggest possible initiatives for the next NAP to help ensure the United States pursues bold, ambitious efforts, please tell us how those suggestions would achieve these criteria.
 
-We look forward to working together as we update our roadmap for open government in the United States. Join us!
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog/2015/06/04/help-us-strengthen-open-government) by Corinna Zarek, Senior Advisor for Open Government to the U.S. Chief Technology Officer in the Office of Science and Technology Policy._
+We look forward to working together as we update our roadmap for open government in the United States. Join us!_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog/2015/06/04/help-us-strengthen-open-government) by Corinna Zarek, Senior Advisor for Open Government to the U.S. Chief Technology Officer in the Office of Science and Technology Policy._

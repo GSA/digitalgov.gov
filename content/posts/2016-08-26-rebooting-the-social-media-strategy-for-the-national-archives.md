@@ -34,5 +34,4 @@ Your feedback is needed to make this strategy the best it can be and we want to 
 Take a look at the [National Archives Social Media Strategy](http://usnationalarchives.github.io/social-media-strategy/) and leave a comment below. Or, [send us an email](mailto:socialmedia@nara.gov) and let us know what you think. Please be sure to add your comments by September 16 so we can include your feedback in our plan!
 
 _This post and strategy were written by Jeannie Chen, Mary King, and Hilary Parkinson, with contributions by Dana Allen-Greil._
-
 _This post was originally published on the [blog of the U.S. National Archives](https://narations.blogs.archives.gov/)._

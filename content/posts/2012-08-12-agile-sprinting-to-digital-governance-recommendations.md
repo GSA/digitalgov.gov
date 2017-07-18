@@ -33,6 +33,4 @@ The government innovators who partook in this experiment were the U.S Department
 
 During this sprint, the innovating agencies found themselves engaging in a rapid cycle of brainstorming,  presenting, getting and giving feedback on their outline digital governance model MVPs. Facilitators started to notice that agencies would “borrow” MVP elements they liked from other agencies in successive presentations. A [RACI chart](http://en.wikipedia.org/wiki/Responsibility_assignment_matrix) for stakeholder mapping was perhaps the most “borrowed” element.
 
-These agencies will continue to work on the digital governance sprint experiment over the next month to have their governance structures ready for the November 23rd deadline. We are interested in exploring how agencies might use this model for other areas of policy development.
-
-__
+These agencies will continue to work on the digital governance sprint experiment over the next month to have their governance structures ready for the November 23rd deadline. We are interested in exploring how agencies might use this model for other areas of policy development.__

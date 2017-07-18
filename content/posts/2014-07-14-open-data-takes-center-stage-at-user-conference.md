@@ -28,6 +28,4 @@ Check out the schedule for Census panels, including the Under Secretary’s inte
 
 Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce.
 
-*The writer and the U.S. Department of Commerce do not endorse firms or models described within this text.
-
-_This post was originally published on the [ESA blog](http://www.esa.doc.gov/blog) by Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce._
+*The writer and the U.S. Department of Commerce do not endorse firms or models described within this text._This post was originally published on the [ESA blog](http://www.esa.doc.gov/blog) by Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce._

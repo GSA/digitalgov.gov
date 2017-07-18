@@ -19,7 +19,7 @@ The program consists of:
   * A no-cost, federal-wide Web analytics tool
   * Training
       * Past recorded trainings on our <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P" target="_blank">YouTube channel</a>
-      * Future training found on our [events page](({{< link "events" >}})
+      * Future training found on our [events page]({{< link "events" >}})
   * Implementation support
       * [DAP FAQs]({{< relref "common-questions-about-dap-faq.md" >}})
       * [Implementation instructions]({{< relref "analytics-tool-instructions.md" >}})

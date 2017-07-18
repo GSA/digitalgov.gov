@@ -75,6 +75,4 @@ As you look to develop your content strategy, remember these words from Gary Vay
 
 > “Every single tweet, every comment you leave, every post, every image you make becomes part of your brand. Period. Every time you post, you need to be laddering it back to your brand’s goals. Your core story needs to be consistent and your personality needs to be constant too. Doing this sets up a larger narrative, the broad context, for your content to succeed and have a clear message.”
 
-What other types of unique content do you think agencies should be leveraging?
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+What other types of unique content do you think agencies should be leveraging?_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

@@ -55,12 +55,9 @@ World War I had a profound effect on many aspects of American society, including
 
 These are just a few examples of how World War I transformed the fabric of our nation. Reach out to your agency’s history office, and see how you can incorporate this war into your communication planning. Consider joining our WWI-focused social media group for resources, suggestions, or support for producing content. [Email me](mailto:herrmanns@abmc.gov?subject=Why World%20War%20I%20Matters%20for%20Your%20Agency) to join.
 
- 
-
-_**About the American Battle Monuments Commission** (ABMC):
+ _**About the American Battle Monuments Commission** (ABMC):
   
 ABMC is a U.S. government agency charged with commemorating the service, achievements and sacrifice of the U.S. armed forces. Established by Congress in 1923, ABMC administers, operates, and maintains 25 permanent American military cemeteries and 27 federal memorials, monuments and markers located across the globe. These cemeteries and memorials, most of which commemorate the service and sacrifice of Americans who served in World War I and World War II, are among the most beautiful and meticulously maintained shrines in the world. For more information, visit [www.abmc.gov](http://www.abmc.gov), or connect with us on [Facebook](http://www.facebook.com/abmcpage), [YouTube](http://www.youtube.com/abmcvideos), or [Instagram](http://www.instgram.com/usabmc)._
-
 _This is the first of a 3-part series from ABMC—the others are:_
 
   * Part II, [How to Tell the World War I Story: Make it Personal]({{< relref "2017-03-09-how-to-tell-the-world-war-i-story-make-it-personal.md" >}})

@@ -27,8 +27,6 @@ FederalRegister.gov uses the <a href="http://www.regulations.gov/#!home" target=
 
 In future postings, I will explore more writable APIs and how they help improve government service delivery. Read-only APIs opened up the vast stores of federal government information. Writable APIs open up federal government services, and this will bring about a better connection between citizens and their government.
 
-**Update:** An earlier version of this article credited the Office of the Federal Register with creating the writable API, but the API was created by EPA&#8217;s eRulemaking Program Management Office.
-
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
+**Update:** An earlier version of this article credited the Office of the Federal Register with creating the writable API, but the API was created by EPA&#8217;s eRulemaking Program Management Office._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
 
 **_Dr. William A. Brantley_**_, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_._

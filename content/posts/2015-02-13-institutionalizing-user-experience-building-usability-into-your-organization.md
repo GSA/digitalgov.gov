@@ -28,7 +28,7 @@ So, you have some systems or tools your customers or employees access. Maybe you
 
 ## Step 1: Get buy-in {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-167-Learn-and-share-conceptual-words-on-blackboard-AnsonLu-iStock-Thinkstock-525385549.jpg" alt="Learn and share conceptual words on blackboard" caption="" >}} 
 
-First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles](({{< link "categories/ux" >}}), attend [events and webinars](({{< link "events" >}}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
+First, get a UX champion in your organization. Lay the groundwork with managers, content authors, developers, or anyone else who has a stake in improving user experience. Read [books](http://uxmastery.com/resources/books/) and [articles]({{< link "categories/ux" >}}), attend [events and webinars]({{< link "events" >}}), and share your insight with your colleagues. Use what you have learned to show how it benefits your organization. Keep building until you are the office usability expert.
 
 As one UX-pert advised, &#8220;Don’t let the naysayers discourage you. You’re likely to run into obstacles from internal stakeholders and even established designers.&#8221; Talk it up so word gets to the right people.
 
@@ -52,6 +52,4 @@ In the right environment, people will gravitate towards UX activities because th
 
 ## Step 4: Keep current with training
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-188-Usability-training-IMG_7259.jpg" alt="Usability training session" >}}Is there a training budget? Can you devote chunks of time or do it piecemeal? Try something new and learn by doing. You can take classes through [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and read some books. Shadow someone on a UX team outside your organization.
-
-_**Beth A. Martin** is a Usability Lead at the Federal Aviation Administration._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-188-Usability-training-IMG_7259.jpg" alt="Usability training session" >}}Is there a training budget? Can you devote chunks of time or do it piecemeal? Try something new and learn by doing. You can take classes through [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and read some books. Shadow someone on a UX team outside your organization._**Beth A. Martin** is a Usability Lead at the Federal Aviation Administration._

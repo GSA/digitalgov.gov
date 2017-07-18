@@ -52,6 +52,4 @@ He recommended cultivating a user community beyond the analytics program. That c
 
 In the end, it’s important to include goals for the Web analytics program itself, and to hold yourself accountable for them in your performance review, Bronson added.
 
-“You want to make sure that you’re not becoming stagnant and getting in the routine of just pumping out the reports and the templates that you’re used to or that people are requesting,” he said. “You may be the only one … looking out for your program, so you know the power that it can provide.”
-
-_**Hannah Gladfelter Rubin** is an Information Research Specialist with the Congressional Research Service at the Library of Congress. The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress._
+“You want to make sure that you’re not becoming stagnant and getting in the routine of just pumping out the reports and the templates that you’re used to or that people are requesting,” he said. “You may be the only one … looking out for your program, so you know the power that it can provide.”_**Hannah Gladfelter Rubin** is an Information Research Specialist with the Congressional Research Service at the Library of Congress. The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress._

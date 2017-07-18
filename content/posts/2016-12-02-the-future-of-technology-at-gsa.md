@@ -239,8 +239,5 @@ We are driven by the mission of giving the government the tools to more effectiv
 
 
 
-**_The American people aren’t going anywhere and neither is the need for better technology._**
-
-_Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729)._
-
+**_The American people aren’t going anywhere and neither is the need for better technology._**_Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729)._
 _This post was originally published on GSA’s [Storify](https://storify.com/GSA) and [blog](http://www.gsa.gov/blog)._

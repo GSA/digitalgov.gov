@@ -78,6 +78,4 @@ As the President said in his [weekly address](https://www.whitehouse.gov/the-pre
 
 When consumers have more access to information, it means they can make better financial decisions for themselves and their families. This is a huge win for students, families, and the marketplace—open data like this ensures that both colleges and students are operating in a more fair, competitive, and transparent environment.
 
-A college degree is the best investment students can make in their future, and the public now has more data than ever to make one of the most important decisions students face in their lifetimes.
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Lisa Gelobter, the Chief U.S. Digital Service Officer at the U.S. Department of Education._
+A college degree is the best investment students can make in their future, and the public now has more data than ever to make one of the most important decisions students face in their lifetimes._This post was originally published on the [White House blog](https://www.whitehouse.gov/blog) by Lisa Gelobter, the Chief U.S. Digital Service Officer at the U.S. Department of Education._

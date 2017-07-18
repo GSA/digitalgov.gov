@@ -72,6 +72,4 @@ This ensures that data can _only_ be collected over HTTPS, and _breaks_ any HTTP
 
 While DAP&#8217;s solution ended up being straightforward, this approach is surprisingly novel—most common third party services today don&#8217;t even require HTTPS.
 
-But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example.
-
-_Eric Mill is an 18f team member._
+But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example._Eric Mill is an 18f team member._

@@ -78,6 +78,4 @@ Based on the strong response we’ve received thus far, we’re optimistic that 
 ### Related Resources
 
   * [Clinical Trials Information for Patients and Caregivers](https://www.cancer.gov/about-cancer/treatment/clinical-trials){.title}
-  * [TIME—Joe Biden: The Next Step in Our Cancer Moonshot](http://time.com/4494104/joe-biden-cancer-moonshot/){.title}
-
-_This post was originally published on the NCI&#8217;s [Cancer Currents Blog](https://www.cancer.gov/news-events/cancer-currents-blog)._
+  * [TIME—Joe Biden: The Next Step in Our Cancer Moonshot](http://time.com/4494104/joe-biden-cancer-moonshot/){.title}_This post was originally published on the NCI&#8217;s [Cancer Currents Blog](https://www.cancer.gov/news-events/cancer-currents-blog)._

@@ -43,6 +43,4 @@ We are over 600 strong with representation from all across government—and grow
 
 Working together, we can pull out the most valuable pieces of data and information and transform it into concrete knowledge that can be shared and used.
 
-Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!
-
-_Alison Lemon is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+Let’s continue the discussion here. What can Digital Knowledge Managers do to make your jobs easier? What are your biggest challenges? Whether you are part of a large social media team or a one-person dynamo armed with a Twitter handle, we want to hear from you!_Alison Lemon is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA&#8217;s Office of Women&#8217;s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

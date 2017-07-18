@@ -38,6 +38,4 @@ Resistance to this idea is common, from program staff to graphic designers. You�
       * Media and researchers need and want searchable documents that can be disseminated and quoted quickly, and are not going to spend the time scanning through a 20-page PDF to find the data they want.
       * Information updates constantly, PDFs are snapshots and must be reengineered and remade accessible to address changes.
 
-So—think about using PDFs as a printable option, with having the content available as an accessible HTML page as the “main” option. We do this often at [CDC](http://www.cdc.gov/mmwr/mmwr_wk.html).
-
-_Mark Urban is a Section 508 Coordinator at the Centers for Disease Control (CDC)_.
+So—think about using PDFs as a printable option, with having the content available as an accessible HTML page as the “main” option. We do this often at [CDC](http://www.cdc.gov/mmwr/mmwr_wk.html)._Mark Urban is a Section 508 Coordinator at the Centers for Disease Control (CDC)_.

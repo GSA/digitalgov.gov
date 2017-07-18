@@ -30,8 +30,7 @@ With VBA, you can test interactions before you do any actual system development.
 I recently conducted a usability test for a mobile-optimized website that Bureau of Labor Statistics (BLS) survey participants can use to record their purchases. However, a test version of the website wasn’t ready for testing. So I used PowerPoint and Excel Developer Tools to make a prototype of the site that allowed me to conduct tests that would have been less realistic and more difficult to evaluate with a paper prototype. Participants could log in to the site, navigate through the various pages, enter data, and edit previous entries, just as they would with the real site. The one major difference was that they used the computer’s physical keyboard, mouse, and display rather than a virtual keyboard and tapping on the screen of a mobile device.
 
 [
-  
-](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg) [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-240-Brandon-Kopp-Mockups.jpg" alt="Screenshots from the Bureau of Labor Statistics prototype mobile expense diary." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg)
+  ](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg) [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-240-Brandon-Kopp-Mockups.jpg" alt="Screenshots from the Bureau of Labor Statistics prototype mobile expense diary." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg)
 
 This testing provided valuable information that we used to update the website requirements and make usability fixes. In addition, I used the prototype to give project stakeholders and developers something concrete to react to. As changes were recommended, I incorporated them into the prototype, and stakeholders could react to not only the visual design but also the functionality. I think this design process improved communications among stakeholders and led to a much better final product.
 
@@ -40,5 +39,4 @@ I have since used Office Developer Tools and VBA programming to build more proto
 Finally, if you’d like to see the Prototypes themselves, you can download the [Powerpoint File](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Developer-Tool-Examples.pptm) (PPT, 141 KB, Dec. 2014).
 
 _**Brandon Kopp** is Research Psychologist at the Bureau of Labor Statistics (BLS)._
-
 _Editor’s Note: You can check out our previous articles on the importance of Prototyping, including how to make a [mobile paper prototype]({{< relref "2014-05-22-how-to-make-a-mobile-paper-prototype.md" >}}) and how to do [design sketches]({{< relref "2014-08-08-design-sketching-the-easiest-prototype-method-ever.md" >}})._

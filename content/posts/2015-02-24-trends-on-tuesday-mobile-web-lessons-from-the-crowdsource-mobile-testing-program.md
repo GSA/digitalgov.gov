@@ -31,7 +31,7 @@ During each test cycle, testers log issues specific to the application or site b
 
 ## Shrinking the Screen Is Not Enough
 
-Moving from a “desktop” presentation to [responsive design](({{< link "tag/responsive-web-design" >}}) isn’t always as simple as making the page smaller or changing the screen size.
+Moving from a “desktop” presentation to [responsive design]({{< link "tag/responsive-web-design" >}}) isn’t always as simple as making the page smaller or changing the screen size.
 
   * Smaller mobile screens often mean smaller fonts and buttons that become hard to read and press.
   * Page content must be pared down to allow users to easily find what they are looking for. This can also have a positive impact on desktop user experience. Marissa Newhall, acting director of the Office of Digital Strategy and Communications at the Department of Energy (DOE), said optimizing [Energy.gov](http://www.energy.gov)’s content for mobile helped simplify the functionality of the desktop version. Newhall spoke about Energy.gov’s responsive implementation during DigitalGov’s webinar, [Responsive Web Design Challenges]({{< relref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}}).
@@ -61,4 +61,4 @@ Mobile devices may behave differently as they switch between WiFi and cellular d
 
 Do you want to help us create more mobile lessons learned? Join in and sign up to help us [virtually test BusinessUSA.gov](https://midas.18f.us/tasks/45) at your leisure next week.
 
-You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{< relref "mobile-application-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice](({{< link "categories/mobile" >}} "Mobile").
+You can also submit your mobile Web application for a future test cycle. The [CrowdSource Mobile Testing Program page]({{< relref "mobile-application-testing-program.md" >}}) provides information on how you can use this free service to test your products and is sponsored by the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile").

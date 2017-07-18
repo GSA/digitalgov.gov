@@ -25,6 +25,4 @@ These imagery APIs for Mars and Vesta are provided compliments of <a href="http:
 
 Leveraging these APIs require the use of a Web Map and Tile Service (WTMS) client. For more information please see the <a href="http://www.opengeospatial.org/standards/wmts" target="_blank">Open GeoSpatial website</a>.  To help you get started, we&#8217;ve included demos (view source) for each product and those can be found on <a href="https://api.nasa.gov/api.html#trek" target="_blank">api.nasa.gov</a> by clicking on any of the Preview links included with the API documentation. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-467-openNASAgov-Trek-apps.jpg" alt="A composite of 2 screen captures of Trek apps." caption="" >}} 
 
-We look forward to seeing what kind of creative apps and solutions can be built with these datasets!
-
-_This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/) by Jason Duley, Open Data Program Manager._
+We look forward to seeing what kind of creative apps and solutions can be built with these datasets!_This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/) by Jason Duley, Open Data Program Manager._

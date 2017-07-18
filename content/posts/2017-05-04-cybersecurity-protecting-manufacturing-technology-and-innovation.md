@@ -54,6 +54,4 @@ NIST MEP is working to improve cybersecurity for small- and medium-sized manufac
 
 In addition to improving cybersecurity, the partnership will address specific topics under the digital manufacturing umbrella, including innovative engineering approaches and improved supply chains operations.
 
-As the Internet of Things evolves and becomes a fixture in manufacturing, cybersecurity will continue to be an issue that small manufacturers must address. As you connect more and more devices to the internet, ask yourself, “how secure is it?”
-
-_This post was originally published on NIST&#8217;s <a href="http://nistmep.blogs.govdelivery.com/cybersecurity-protecting-manufacturing-technology-and-innovation/" target="_blank" rel="noopener noreferrer">Manufacturing Innovation Blog</a>._
+As the Internet of Things evolves and becomes a fixture in manufacturing, cybersecurity will continue to be an issue that small manufacturers must address. As you connect more and more devices to the internet, ask yourself, “how secure is it?”_This post was originally published on NIST&#8217;s <a href="http://nistmep.blogs.govdelivery.com/cybersecurity-protecting-manufacturing-technology-and-innovation/" target="_blank" rel="noopener noreferrer">Manufacturing Innovation Blog</a>._

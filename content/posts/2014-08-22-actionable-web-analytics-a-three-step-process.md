@@ -71,6 +71,4 @@ Not only do you need to ensure the customer takes whatever actions are defined i
 
 The more you reinforce the need for action, the more you will enhance the perception of your Web analytics program.
 
-So, the next time you are approached by an individual, program, or office, reference this three-step process and remember how powerful your work can be!
-
-_**Sam Bronson** is the Web Analytics Program Manager at the U.S. Environmental Protection Agency (EPA)._
+So, the next time you are approached by an individual, program, or office, reference this three-step process and remember how powerful your work can be!_**Sam Bronson** is the Web Analytics Program Manager at the U.S. Environmental Protection Agency (EPA)._

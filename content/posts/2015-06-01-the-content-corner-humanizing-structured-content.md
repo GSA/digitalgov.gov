@@ -37,7 +37,7 @@ By default I approach every content provider or SME as someone who is [terribly 
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" >}}
 
-The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs](({{< link "categories/api" >}}). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
+The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs]({{< link "categories/api" >}}). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
 
 ## Content Was Made to Be Seen
 
@@ -55,6 +55,4 @@ We need to speak in plain language and be able to clearly show the ROI both shor
 
 **The old adage of &#8220;do it right the first time&#8221; has rarely been more true than with structured content.** And without both the content creators and managers fully embracing the necessity and benefits of structured content, then models, a CMS, and metadata can only do so much.
 
-Have you had success communicating with various stakeholders about structured content? Please share in the comments below.
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Have you had success communicating with various stakeholders about structured content? Please share in the comments below._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

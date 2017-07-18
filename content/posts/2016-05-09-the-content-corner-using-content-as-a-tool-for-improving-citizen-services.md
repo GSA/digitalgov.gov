@@ -47,6 +47,4 @@ After we’ve looked inward, we can consider if our digital communications are a
 
 As government communicators, continuing to experiment with different ways to connect with the public is imperative to getting our message across. With everything you do, ask: &#8220;How does this impact our audience?&#8221;
 
-Do you have a loyal assembly of subscribers to your content via email or other methods? Please share! At FirstNet, we are working to develop additional methods for receiving more feedback on our content; and not just to do it, but to do it in a way that will be mutually beneficial.
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+Do you have a loyal assembly of subscribers to your content via email or other methods? Please share! At FirstNet, we are working to develop additional methods for receiving more feedback on our content; and not just to do it, but to do it in a way that will be mutually beneficial._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

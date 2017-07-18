@@ -25,5 +25,4 @@ Realizing the importance of farmers markets, the USDA released the [Farmers Mark
 Farmers markets are as old as civilization itself and have played a major role in history. However, even this age-old innovation can benefit from the power of APIs.
 
 _Each week in &#8220;The API Briefing,&#8221; I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:William.Brantley@opm.gov)._
-
 _**Dr. William A. Brantley**, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at [BillBrantley.com](http://billbrantley.com/)._

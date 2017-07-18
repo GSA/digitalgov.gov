@@ -86,5 +86,4 @@ What these results tell us, particularly with regard to the actual time spent by
 </li>
 
 In an ideal world, we would have seen this coming. But a big part of [developing digital content]({{< relref "2016-02-01-the-content-corner-four-ways-to-help-your-content-stand-out.md" >}}) for successful platforms is balancing being prepared (think well-developed and thought-out [content calendars]({{< relref "2015-03-02-the-content-corner-catching-a-wave.md" >}}) with [crafting relevant and timely content]({{< relref "2016-08-08-the-content-corner-on-the-fly-content-strategies-round-offs-back-handsprings-and-double-twisting-layouts-not-required.md" >}}) for those on-the-fly, newsworthy moments that you just can’t predict. Like when a world-renowned gymnast walks onto his apparatus with his skin covered in large, red, angry-looking circles and everyone wants to know: _What are those?_
-
 _Yasmine Kloth is a Digital and Social Media Strategist at the National Center for Complementary and Integrative Health, National Institutes of Health (NIH)._

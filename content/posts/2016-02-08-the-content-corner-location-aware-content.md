@@ -41,4 +41,4 @@ Another item of note is the clear importance that FEMA assigns to the user’s l
 
 As we do so much these days, a user must weigh the benefits of a feature versus its privacy concerns. Technology will not prove to be the barrier to greater adoption of location-aware content, but ethical concerns may.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

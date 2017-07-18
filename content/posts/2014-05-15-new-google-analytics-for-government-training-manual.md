@@ -28,6 +28,4 @@ I hope this manual provides you with the tools you need to identify meaningful m
 
 Thank you for your interest in Google Analytics for Government. I hope that you too will be successful in implementing these strategies to make your government website as useful as possible to the digital citizen. Thanks also to the U.S. Government Accountability Office for allowing me to share the best practices that I’ve learned since starting to use Google Analytics for [gao.gov](http://www.gao.gov/).
 
-[slideshare id=35580018&doc=googleanalyticsforgovernment2ndeditionsarahkaczmarekgao-140606145536-phpapp02&type=d&w=600]
-
-_**Sarah Kaczmarek** is the Digital Communications Manager for the U.S. Government Accountability Office. You can find out more about her work in this space at [SarahKaczmarek.com](http://sarahkaczmarek.com/)._
+[slideshare id=35580018&doc=googleanalyticsforgovernment2ndeditionsarahkaczmarekgao-140606145536-phpapp02&type=d&w=600]_**Sarah Kaczmarek** is the Digital Communications Manager for the U.S. Government Accountability Office. You can find out more about her work in this space at [SarahKaczmarek.com](http://sarahkaczmarek.com/)._

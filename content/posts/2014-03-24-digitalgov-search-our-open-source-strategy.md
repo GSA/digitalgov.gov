@@ -60,8 +60,6 @@ We&#8217;re not alone. Other federal agencies have embraced the approach of codi
 
   * The Consumer Financial Protection Bureau has embraced open source, including serving their public data sets through [qu](https://github.com/cfpb/qu).
   * USA.gov recently released the code for their iPhone app.
-  * The White House was in the forefront of using open source software in the federal government with their use of Drupal. They&#8217;re continuing to lead by example by opening up the code for their [We the People petitions](https://github.com/WhiteHouse/petitions) and [iOS](https://github.com/WhiteHouse/wh-app-ios) and [Android](https://github.com/WhiteHouse/wh-app-android) mobile apps.
-
-_Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)](({{< link "events/search-technology-and-information-retrieval.md" >}})._
+  * The White House was in the forefront of using open source software in the federal government with their use of Drupal. They&#8217;re continuing to lead by example by opening up the code for their [We the People petitions](https://github.com/WhiteHouse/petitions) and [iOS](https://github.com/WhiteHouse/wh-app-ios) and [Android](https://github.com/WhiteHouse/wh-app-android) mobile apps._Editor&#8217;s Note: Interested in learning more about search from the DigitalGov Search team? Register for the [Search Is the New Big Data (in-person training)]({{< link "events/search-technology-and-information-retrieval.md" >}})._
 
  

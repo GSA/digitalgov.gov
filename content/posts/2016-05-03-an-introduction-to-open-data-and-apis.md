@@ -27,7 +27,7 @@ Treating data as a national resource and strategic asset may seem like an overwh
 
 Thankfully, using modern APIs to share open data has never been easier, even if you are not a programmer or do not have a technical background.
 
-In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov&#8217;s [Code](({{< link "categories/code" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
+In the DigitalGov University webinar, **An Introduction to Open Data and APIs**, discover just how easy and fast it is to get hands on in integrating APIs into an organization’s open data solution. 18F advocate and GSA Innovation Specialist, Eric Mill, walked users through how to use APIs with the open Web. For the uninitiated, API stands for [application program interface](https://en.wikipedia.org/wiki/Application_programming_interface), “a set of routines, protocols, and tools for building software applications.” More information on APIs can be found in DigitalGov&#8217;s [Code]({{< link "categories/code" >}}) section. According to Mr. Mill, when talking about modern APIs, we are talking about transferring information from JSON to html.
 
 ## Use Cases
 
@@ -43,6 +43,4 @@ To get started, additional plugin software is needed for the Web browser: [JSON 
 
 **The bottom line**—APIs can be powerful and easy to use tools for agencies and organization to provide new, effective ways of opening data to the public. Getting started is easy.
   
-[youtube=http://www.youtube.com/watch?v=taTdJ6oOZX4&w=600]
-
-_**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._
+[youtube=http://www.youtube.com/watch?v=taTdJ6oOZX4&w=600]_**John Paul** is an IT project manager for the United States Department of Agriculture (USDA). He has worked in information technology since 1999, and specializes in strategy, enterprise architecture and infrastructure._

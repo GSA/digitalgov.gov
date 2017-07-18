@@ -17,6 +17,4 @@ Drawing from the recent White House working group report, “_[Big Data: Seizing
 
 You can find more information about the workshop and the webcast [here](http://mspp.georgetown.edu/events/big-data-and-federal-agencies).
 
-We hope you will join us!
-
-_This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Nicole Wong, the U.S. Deputy Chief Technology Officer at the White House Office of Science & Technology Policy._
+We hope you will join us!_This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Nicole Wong, the U.S. Deputy Chief Technology Officer at the White House Office of Science & Technology Policy._

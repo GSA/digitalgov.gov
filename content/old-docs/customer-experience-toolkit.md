@@ -87,7 +87,7 @@ Designate a single person to be responsible for the customer experience agency-w
 
 ### Follow all relevant laws and policies
 
-  * [Government Customer Service Policies & Requirements](({{< relref "resources.md" >}})government-customer-service-policies-requirements-1993-to-present/)
+  * [Government Customer Service Policies & Requirements]({{< relref "resources.md" >}})government-customer-service-policies-requirements-1993-to-present/)
 
 <h2 id="Culture" style="padding-top: 50px">
   Culture
@@ -233,7 +233,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
   * Follow policies and requirements 
       * [Digital Metrics Guidance and Best Practices]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}})
-      * [Paperwork Reduction Act Fast Track Process](({{< relref "resources.md" >}})paperwork-reduction-act-44-u-s-c-3501-et-seq/)
+      * [Paperwork Reduction Act Fast Track Process]({{< relref "resources.md" >}})paperwork-reduction-act-44-u-s-c-3501-et-seq/)
   * Adopt survey best practices 
       * [Designing a Better Customer Survey](https://www.youtube.com/watch?v=9VxW7mFZUc4&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=15) &#8211; video
       * [Navigating the Alphabet Soup of Survey Methodologies](http://www.clicktools.com/wp-content/uploads/2015/04/Navigating-the-Alphabet-Soup-of-Survey-Methodologies.pdf) (PDF) &#8211; ClickTools

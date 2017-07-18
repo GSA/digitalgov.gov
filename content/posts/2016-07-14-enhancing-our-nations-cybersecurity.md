@@ -47,6 +47,4 @@ For more information, please read our [Interact post](https://interact.gsa.gov/d
 
   1. <a title="Permanent Link: Strengthening Federal Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2016/04/11/strengthening-federal-cybersecurity/" rel="bookmark">Strengthening Federal Cybersecurity</a>
   2. <a title="Permanent Link: GSA IT: The Frontline of Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2014/08/26/gsa-it-the-frontline-of-cybersecurity/" rel="bookmark">GSA IT: The Frontline of Cybersecurity</a>
-  3. <a title="Permanent Link: GSA Leads the Way in Providing Better Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2015/10/27/gsa-leads-the-way-in-providing-better-cybersecurity/" rel="bookmark">GSA Leads the Way in Providing Better Cybersecurity</a>
-
-_This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/)._
+  3. <a title="Permanent Link: GSA Leads the Way in Providing Better Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2015/10/27/gsa-leads-the-way-in-providing-better-cybersecurity/" rel="bookmark">GSA Leads the Way in Providing Better Cybersecurity</a>_This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/)._

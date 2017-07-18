@@ -31,10 +31,7 @@ The EPIC API can be employed to search for images by date and then geographical 
 
 The web development team for the <a href="http://atmospheres.gsfc.nasa.gov/" target="_blank">Laboratory for Atmospheres</a> in the Earth Sciences Division of the Goddard Space Flight Center began development of the EPIC API in 2015. The EPIC imagery is freely available for reproduction or reuse, including for commercial purposes—but please give credit to the NASA EPIC Team for the original materials.
 
-[youtube=http://www.youtube.com/watch?v=CFrP6QfbC2g&w=600]
-
-_
+[youtube=http://www.youtube.com/watch?v=CFrP6QfbC2g&w=600]_
   
 For further information on the NASA media usage guidelines, please visit <a href="http://www.nasa.gov/multimedia/guidelines/index.html" target="_blank">http://www.nasa.gov/multimedia/guidelines/index.html</a>. For more information about EPIC or DSCOVR, or for additional access to the EPIC API, visit: <a href="http://epic.gsfc.nasa.gov/about.html" target="_blank">http://epic.gsfc.nasa.gov/about.html</a>._
-
 _This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/)._

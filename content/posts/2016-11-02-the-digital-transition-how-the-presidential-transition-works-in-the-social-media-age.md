@@ -73,6 +73,4 @@ In addition to the steps that the White House and NARA are taking, we want to op
 
 <a class="button" style="color: #72ab00" href="https://www.whitehouse.gov/participate/opening-our-data-public" target="_self">SUBMIT YOUR IDEA</a>
 
-Given the unprecedented nature and scale of the digital transition, we anticipate we’ll learn a lot along the way – so these plans may evolve. You can follow along [@WHWeb](https://twitter.com/whweb) for updates on the digital transition process, data releases, and more.
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog)._
+Given the unprecedented nature and scale of the digital transition, we anticipate we’ll learn a lot along the way – so these plans may evolve. You can follow along [@WHWeb](https://twitter.com/whweb) for updates on the digital transition process, data releases, and more._This post was originally published on the [White House blog](https://www.whitehouse.gov/blog)._

@@ -50,6 +50,4 @@ One of its most useful features is an internal assessment tool, an easy-to-use 3
 
 [GetMyFuture.org](https://www.careeronestop.org/GetMyFuture/default.aspx) integrates first-person success-story videos featuring young adults who have overcome barriers to achieve education or career success. There are also more than 100 new career-specific, day-in-the-life videos. These videos show workers in real-life settings and include details for a broad range of careers, from actor to zoologist.
 
-Please visit and get your future today. You have a lot of exploring to do.
-
-_Gay Gilbert is the administrator of the Office of Unemployment Insurance in the U.S. Department of Labor&#8217;s Employment and Training Administration._
+Please visit and get your future today. You have a lot of exploring to do._Gay Gilbert is the administrator of the Office of Unemployment Insurance in the U.S. Department of Labor&#8217;s Employment and Training Administration._

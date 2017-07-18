@@ -30,6 +30,4 @@ A guided tour of CSA was given to the visiting participants and we had the oppor
 
 {{< legacy-img src="CDN/files/2017/04/600-x-400-NASA-Project-Accelerator-Toolkit-word-cloud.jpg" alt="Word cloud infographic for NASA’s Project Accelerator Toolkit." >}}
 
-NASA learned a great deal about Open Data from the CSA perspective during the trip. Special thanks to our hosts and especially Nathalie Lévesque of CSA for organizing this event!
-
-_This post was originally published on the [openNASA](https://open.nasa.gov/blog/) blog._
+NASA learned a great deal about Open Data from the CSA perspective during the trip. Special thanks to our hosts and especially Nathalie Lévesque of CSA for organizing this event!_This post was originally published on the [openNASA](https://open.nasa.gov/blog/) blog._

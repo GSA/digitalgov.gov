@@ -64,6 +64,4 @@ Another custom search metric, Zero Results Returned, allows us to identify conte
 
 Google Analytics (GA) has offered user-defined data sources ever since the first version of Classic GA was introduced. Only, now, with custom dimensions in particular, that capability is greater than ever. So, before you embrace the next niche analytics software, consider taking a pause.
 
-While the latest digital showrooms tout new technologies and modern designs, you just might get more bang-for-your-buck with a simple tune-up. What if you could double your value with a few tweaks to your engine?
-
-_The HHS Digital Analytics Team supports the Department of Health and Human Services (HHS) through the collection, analysis, and reporting of analytics in support of the Agency’s mission._
+While the latest digital showrooms tout new technologies and modern designs, you just might get more bang-for-your-buck with a simple tune-up. What if you could double your value with a few tweaks to your engine?_The HHS Digital Analytics Team supports the Department of Health and Human Services (HHS) through the collection, analysis, and reporting of analytics in support of the Agency’s mission._

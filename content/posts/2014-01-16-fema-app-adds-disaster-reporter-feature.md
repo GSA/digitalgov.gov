@@ -26,6 +26,4 @@ The Disaster Reporter feature relies on users&#8217; smartphone GPS, and the cop
 
 As you might recall, [FEMA&#8217;s app](http://apps.usa.gov/fema-mobile.shtml) also offers users disaster safety tips, an interactive emergency kit list, emergency meeting location information, and a map plotted with open shelters and FEMA Disaster Recovery Centers.
 
-So, [build your emergency  kit](http://www.ready.gov/build-a-kit), develop an [emergency plan](http://www.ready.gov/make-a-plan), and if disaster strikes in your neck of the woods,  consider sending your images through Disaster Reporter as a way to assist recovery and relief operations.
-
-_Don&#8217;t forget: You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+So, [build your emergency  kit](http://www.ready.gov/build-a-kit), develop an [emergency plan](http://www.ready.gov/make-a-plan), and if disaster strikes in your neck of the woods,  consider sending your images through Disaster Reporter as a way to assist recovery and relief operations._Don&#8217;t forget: You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._

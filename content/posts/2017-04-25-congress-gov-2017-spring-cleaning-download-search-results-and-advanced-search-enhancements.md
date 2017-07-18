@@ -69,6 +69,4 @@ The [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?locl
 >   * Search Tips and Law Library news
 >   * Display session convene times for the House
 
-Please share your Congress.gov feedback via [this survey](https://www.research.net/r/congress-gov-feedback) or in the [comments on the In Custodia Legis blog](http://blogs.loc.gov/law/2017/04/download-search-results-and-advanced-search-enhancements-congress-gov-2017-spring-cleaning/#respond). For a quick refresher on Congress.gov enhancements from last year, take a look at [this post](http://blogs.loc.gov/law/2017/01/the-congress-gov-top-16-in-2016/?loclr=bloglaw).
-
-_This post was originally published on the Law Library of Congress [In Custodia Legis](http://blogs.loc.gov/law/) blog._
+Please share your Congress.gov feedback via [this survey](https://www.research.net/r/congress-gov-feedback) or in the [comments on the In Custodia Legis blog](http://blogs.loc.gov/law/2017/04/download-search-results-and-advanced-search-enhancements-congress-gov-2017-spring-cleaning/#respond). For a quick refresher on Congress.gov enhancements from last year, take a look at [this post](http://blogs.loc.gov/law/2017/01/the-congress-gov-top-16-in-2016/?loclr=bloglaw)._This post was originally published on the Law Library of Congress [In Custodia Legis](http://blogs.loc.gov/law/) blog._

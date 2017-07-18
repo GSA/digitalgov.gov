@@ -256,8 +256,7 @@ Take a look at the process for [signing the terms and using the tool]({{< relref
 ### Is there exact wording for the Customer Satisfaction questions? Should it be exactly what’s outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
 The [Digital Metrics guidance]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
-  
-](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics) 
+  ](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics) 
 
 ### How should we report the Customer Satisfaction Metrics?
 

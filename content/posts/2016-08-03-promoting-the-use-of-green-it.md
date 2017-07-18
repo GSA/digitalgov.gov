@@ -33,6 +33,4 @@ Specifically, to accomplish the above, the Initiative will drive progress in thr
 
 Additional reforms in the Data Center Optimization Initiative include strengthened and direct CIO authority over data center-related budgeting and management decisions, increased use of the cloud and inter-agency shared services, and replacement of manual data collection with more accurate and efficient automated monitoring tools.
 
-The important work agencies are undertaking as part of the Data Center Optimization Initiative will help move the Federal Government toward an IT portfolio that is more efficient, more effective, more secure, and better able to deliver world-class services to the American people.
-
-_This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._
+The important work agencies are undertaking as part of the Data Center Optimization Initiative will help move the Federal Government toward an IT portfolio that is more efficient, more effective, more secure, and better able to deliver world-class services to the American people._This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._

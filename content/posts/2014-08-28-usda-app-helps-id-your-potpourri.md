@@ -34,10 +34,7 @@ If you need to go further into the weeds about plant threats and pests, USDA APH
   * [Terrestrial Mollusk Key:](https://itunes.apple.com/us/app/terrestrial-mollusc-key/id818984385?mt=8) Identifies slugs and snails that can impact agriculture; and
   * [Federal Noxious Weeds Key](https://itunes.apple.com/us/app/federal-noxious-weeds-key/id819013797?mt=8): Identifies non-native species of weeds that could become invasive.
 
-You can access the full menu of USDA ID apps on [ID Tools](http://idtools.org/) by selecting for &#8220;app&#8221; under the drop down menu.
-
-_Get your investigative green thumb on: Download these (and more) great government mobile apps from the [USA.gov Apps Gallery](http://apps.usa.gov/)._
-
+You can access the full menu of USDA ID apps on [ID Tools](http://idtools.org/) by selecting for &#8220;app&#8221; under the drop down menu._Get your investigative green thumb on: Download these (and more) great government mobile apps from the [USA.gov Apps Gallery](http://apps.usa.gov/)._
 __ 
 
  

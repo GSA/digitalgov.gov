@@ -30,7 +30,7 @@ What’s your mobile itch?
 
 A long time ago at a workshop not so far away&#8230;we asked the 40 federal government innovators who had released native apps this question. We wanted to know their biggest barriers, challenges, frustrations to building anytime, anywhere government.
 
-Their generosity in telling us those pain points informed 2011’s [Making Mobile Gov Project]({{< relref "2011-06-21-making-mobile-gov-project.md" >}} "Making Mobile Gov Project"), which identified 10 challenges to implementing mobile apps and responsive websites for public audiences in the federal government. The [MobileGov Community of Practice](({{< link "categories/mobile" >}} "Mobile") has worked to address these challenges ever since.
+Their generosity in telling us those pain points informed 2011’s [Making Mobile Gov Project]({{< relref "2011-06-21-making-mobile-gov-project.md" >}} "Making Mobile Gov Project"), which identified 10 challenges to implementing mobile apps and responsive websites for public audiences in the federal government. The [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") has worked to address these challenges ever since.
 
 While our work is not done, we’ve come a long way and are evolving with the technology.
 
@@ -51,4 +51,4 @@ These include:
   * Takeaways from last month’s [Open and Structured Content Modeling workshop]({{< relref "2014-10-27-open-and-structured-content-models-workshop-recap.md" >}} "Open and Structured Content Models Workshop Recap");
   * And a [update]({{< relref "2014-10-31-whats-happening-with-the-internet-of-things.md" >}} "What’s Happening with the Internet of Things?") on what’s happening with anytime, anywhere government when it comes to the [Internet of Things]({{< relref "2014-04-08-tell-us-your-internet-of-things-challenges.md" >}} "Tell Us Your Internet of Things Challenges").
 
-All of these articles will talk about current itches that need to be addressed. You can also get involved with the group that&#8217;s been providing solutions for the last three years by joining the [Mobile Gov Community of Practice](({{< link "categories/mobile" >}} "Mobile").
+All of these articles will talk about current itches that need to be addressed. You can also get involved with the group that&#8217;s been providing solutions for the last three years by joining the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile").

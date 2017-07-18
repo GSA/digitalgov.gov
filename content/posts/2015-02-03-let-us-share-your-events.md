@@ -20,7 +20,7 @@ You may have seen this icon on our calendar recently. This icon indicates a digi
   * Are they free?
   * Are they open to other federal government agencies?
 
-If you answered YES to all three questions then you have a friend event that we want on the [DigitalGov Calendar](({{< link "events" >}}.
+If you answered YES to all three questions then you have a friend event that we want on the [DigitalGov Calendar]({{< link "events" >}}.
 
 ## Just 3 steps
 

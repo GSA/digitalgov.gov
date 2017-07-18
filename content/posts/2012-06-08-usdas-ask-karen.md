@@ -13,8 +13,7 @@ tag:
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile-183x250.jpg" alt="Ask Karen" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/AskKaren_Mobile.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture._ _
-  
-_ 
+  _ 
 
 Mobile [‘Ask Karen](http://apps.usa.gov/ask-karen.shtml)’ is an extension of USDA’s Food Safety and Inspection Service’s 24/7 virtual representative Ask Karen. Ask Karen is a web knowledge base, populated with answers to questions pertaining to food safety. Ask Karen provides answers to consumers via an automated response system.
 

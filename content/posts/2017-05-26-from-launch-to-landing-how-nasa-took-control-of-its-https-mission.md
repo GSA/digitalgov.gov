@@ -25,9 +25,7 @@ _18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was inst
 
 In 2015, the White House Office of Management and Budget released [M-15-13](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf), a “Policy to Require Secure Connections across Federal Websites and Web Services”. The memorandum emphasizes the importance of protecting the privacy and security of the public’s browsing activities on the web, and sets a goal to bring all federal websites and services to a consistent standard of enforcing HTTPS and HSTS.
 
-HTTPS is important for a federal agency like NASA, whose presence on the web is a critical part of achieving our mission of sharing knowledge and information.
-
-_But NASA is big!_
+HTTPS is important for a federal agency like NASA, whose presence on the web is a critical part of achieving our mission of sharing knowledge and information._But NASA is big!_
 
 Moving to full HTTPS deployment for NASA represented a significant challenge. We host well over 3,000 public-facing websites and services across 12 geographically dispersed and managerially distinct centers. Communication across such a diverse workforce is difficult and required the concerted effort of a core team in the Office of the Chief Information Officer (OCIO), representatives from each of the centers, and systems administrators from across the agency.
 
@@ -39,9 +37,7 @@ NASA’s success hinged on a few key aspects, all rooted in clear (and frequent)
 
 At NASA, geographically dispersed centers operate largely independently and with distinct senior leadership teams. These teams are overseen by the NASA OCIO, which, in June 2016, established a core team to oversee HTTPS compliance tracking activities. The OCIO additionally issued guidance on the importance of meeting the HTTPS-Only standard with an action to each center Chief Information Officer to delegate an accountable center representative to oversee further activities. This first tier of delegation was essential to engage the right stakeholders. The center representatives subsequently tasked technical representatives from the various systems in their purview. This multi-stepped delegation of responsibility represented the agency’s commitment to improving HTTPS compliance at the highest levels, and helped establish clear communication channels all the way to the people responsible for actually making the necessary system-level configuration changes.
 
-Leadership at the agency level further demonstrated support of the HTTPS deployment efforts by issuing progressive guidance on the use of [Let’s Encrypt](https://letsencrypt.org/) and associated Automated Certificate Management Environment (ACME) clients for certificate issuance and management.
-
-_This was a big deal!_
+Leadership at the agency level further demonstrated support of the HTTPS deployment efforts by issuing progressive guidance on the use of [Let’s Encrypt](https://letsencrypt.org/) and associated Automated Certificate Management Environment (ACME) clients for certificate issuance and management._This was a big deal!_
 
 Early on, the agency core team decided to publish an agency white paper after realizing that a large number of commercial certificates would need to be provisioned (at great expense) to address various barriers to compliance. To make the imminent onslaught of Let’s Encrypt certificate requests possible, NASA had to negotiate a rate limit increase with Let’s Encrypt for the nasa.gov domain, assess the popular ACME client [Certbot](https://certbot.eff.org/), author and publish the white paper, and establish a platform for sharing recommended best practices and sample configurations with system administrators.
 
@@ -93,6 +89,4 @@ To resolve these cases, we reviewed the spirit and letter of OMB’s HTTPS polic
 
 Although NASA has made significant improvements to HTTPS and HSTS deployment to our public web services, we’re excited to get to work on applying the same technical rigor to our internal services. Additionally, NASA intends to eventually preload the *.nasa.gov domain, fitting into the larger federal government effort to [preload federal .gov domains by default](https://cio.gov/automatic-https-enforcement-new-executive-branch-gov-domains/).
 
-But most importantly, NASA looks forward to further collaboration with our federal and commercial partners. Privacy and security are complex problems, but the lessons learned through efforts like meeting the HTTPS-Only standard teach us how to make them surmountable. These challenges require coordinating smart minds at work across our government. By continuing to work together, NASA sees the potential to make important changes for the benefit of all.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/25/from-launch-to-landing-how-nasa-took-control-of-its-https-mission/)._
+But most importantly, NASA looks forward to further collaboration with our federal and commercial partners. Privacy and security are complex problems, but the lessons learned through efforts like meeting the HTTPS-Only standard teach us how to make them surmountable. These challenges require coordinating smart minds at work across our government. By continuing to work together, NASA sees the potential to make important changes for the benefit of all._This post was originally published on the [18F blog](https://18f.gsa.gov/2017/05/25/from-launch-to-landing-how-nasa-took-control-of-its-https-mission/)._

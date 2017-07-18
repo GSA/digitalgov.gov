@@ -149,6 +149,4 @@ We are looking to help you, Mr. and Ms. Civic Hacker. Let us know how we can.
 
 You can help the CitySDK team build and improve the platform by [submitting an issue to our github repo](https://github.com/uscensusbureau/citysdk/issues), by helping us prioritize the community’s needs, by [contributing to the code base](https://github.com/uscensusbureau/citysdk), and/or by building CitySDK apps for [Census’s Data Solutions Challenge](https://www.challenge.gov/challenge/city-software-development-kit-sdk-data-solutions-challenge/).
 
-For more information on CitySDK, please email [Jeffrey Meisel](mailto:jeffrey.meisel@gsa.gov) and  [Tyrone Grandison](mailto:tyrone.grandison@gsa.gov).
-
-_Tyrone Grandison is a Presidential Innovation Fellow at the General Services Administration, working with the United States Census Bureau._
+For more information on CitySDK, please email [Jeffrey Meisel](mailto:jeffrey.meisel@gsa.gov) and  [Tyrone Grandison](mailto:tyrone.grandison@gsa.gov)._Tyrone Grandison is a Presidential Innovation Fellow at the General Services Administration, working with the United States Census Bureau._

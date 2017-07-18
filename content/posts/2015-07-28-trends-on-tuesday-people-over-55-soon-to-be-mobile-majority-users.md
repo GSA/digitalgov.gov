@@ -24,4 +24,4 @@ In the U.S., tablets and smartphones are driving the majority of digital media u
 
 The exact percentage of device time is a little different than the [Millennial Media report]({{< relref "2015-07-14-trends-on-tuesday-adults-use-mobile-devices-most-of-the-time.md" >}}) we shared a couple weeks ago, but the trend is the same—young people use mobile as their first and most frequent digital platform, and people over 55 are also quickly making that shift.
 
-[Read more mobile trends](({{< link "categories/mobile" >}}) and how to [prepare your agency to be mobile-friendly]({{< relref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}) on DigitalGov.
+[Read more mobile trends]({{< link "categories/mobile" >}}) and how to [prepare your agency to be mobile-friendly]({{< relref "2015-05-04-helpful-resources-to-help-make-your-content-mobile-friendly.md" >}}) on DigitalGov.
