@@ -26,9 +26,7 @@ A particular favorite app of mine is _<a href="http://www.census.gov/mobile/econ
 
 Cornell University’s Program on Applied Demographics demonstrates how to merge the Census APIs with Google Maps to <a href="http://pad.human.cornell.edu/Unlisted/uncertaintymap_fullinfo_api_B17001.cfm" target="_blank">display Census data geographically</a>. Using the 2008-2012 Community Survey, Cornell maps information on various poverty statistics in the upper New York. The user can also filter the display by sex and age.
 
-The Census Bureau has done an exceptional job in making Census data accessible, easy to incorporate into applications, and mesh well with other APIs. In adopting the Common Core Metadata Schema, Census is leading the way in helping developers discover the federal government’s vast information resources.
-
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
+The Census Bureau has done an exceptional job in making Census data accessible, easy to incorporate into applications, and mesh well with other APIs. In adopting the Common Core Metadata Schema, Census is leading the way in helping developers discover the federal government’s vast information resources._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
 
 **_Dr. William A. Brantley_**_, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_._
 

@@ -111,8 +111,5 @@ We&#8217;re still in the process of fully documenting the tools we used. If you&
 
 Pulse is clearly a small and simple website, but we think it&#8217;s a promising foundation for celebrating (and motivating) the U.S. government&#8217;s progress on making world-class websites and online services.
 
-We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!
-
-_Eric Mill, Julia Elman, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
-
+We&#8217;re thrilled we had the opportunity to work with the Office of Government-wide Policy here at GSA to get Pulse started, and we hope others find it useful. Feel free to [leave feedback](https://github.com/18F/pulse/issues/new) on the project so far, and where to take Pulse next!_Eric Mill, Julia Elman, and Gray Brooks work at 18F. John Tindel works in the Office of Government-wide Policy._
 _This article was originally posted on the [18F blog](https://18f.gsa.gov/2015/06/02/taking-the-pulse-of-the-federal-governments-web-presence/)._

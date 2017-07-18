@@ -44,5 +44,4 @@ The report closes with three recommendations that may help agencies in balancing
 Mobile apps have transformed how citizens engage with their government. Now, mobile apps can transform how federal employees work to provide government services. There is a vast untapped potential in enterprise-focused mobile apps to revolutionize the federal government.
 
 _Each week, The Data Briefing showcases the latest federal data news and trends._
-
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com/). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

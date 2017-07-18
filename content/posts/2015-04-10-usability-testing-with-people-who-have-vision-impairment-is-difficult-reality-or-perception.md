@@ -50,8 +50,5 @@ Also, consider the following:
 
 ## Do you have any final suggestions?
 
-Overall, usability testing with people with disabilities should feel the same as usability testing with the general population. I recommend using the same tasks for all participants, regardless of disability, as the goals of the site or application should be the same for everyone. Also, I would test with a mixture of participants—some with disabilities and some without any known (or stated) disabilities—so you can show to your clients/sponsor that usability issues are usability issues, regardless of disabilities.
-
-_This is the first post in a series about usability testing with people with disabilities. Check back for a second post that will provide additional testing tips._
-
+Overall, usability testing with people with disabilities should feel the same as usability testing with the general population. I recommend using the same tasks for all participants, regardless of disability, as the goals of the site or application should be the same for everyone. Also, I would test with a mixture of participants—some with disabilities and some without any known (or stated) disabilities—so you can show to your clients/sponsor that usability issues are usability issues, regardless of disabilities._This is the first post in a series about usability testing with people with disabilities. Check back for a second post that will provide additional testing tips._
 _Stacey Sarris is a User Experience (UX) consultant and adjunct professor at Pace University, doctoral candidate at University of Baltimore&#8217;s Information and Interaction Design program, and was a UX intern at GSA._

@@ -51,5 +51,4 @@ Together, the U.S. Digital Service, 18F, the Digital Services Playbook, and Tech
 [Stay informed—sign up here to monitor the latest news from the U.S. Digital Service.](http://www.whitehouse.gov/webform/get-latest-news-us-digital-service)
 
 _This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Beth Cobert, the Deputy Director for Management at the Office of Management and Budget (OMB); Steve VanRoekel, the U.S. Chief Information Officer; and Todd Park, the U.S. Chief Technology Officer._
-
 __

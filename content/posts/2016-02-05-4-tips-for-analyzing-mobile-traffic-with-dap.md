@@ -79,6 +79,6 @@ The dimension can be a hostname, a page or a subdirectory.
 
 Remember, many times it’s helpful to compare data with previous date ranges so you can see trends.
 
-We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel](({{< link "categories/mobile" >}}) and [join the MobileGov Community of Practice](({{< link "categories/mobile" >}}) for the latest insight on mobile!
+We hope these simple tools will help you get a better understanding of your mobile visitors. [Follow DigitalGov’s mobile channel]({{< link "categories/mobile" >}}) and [join the MobileGov Community of Practice]({{< link "categories/mobile" >}}) for the latest insight on mobile!
 
 If you use any reports or have tips for analyzing mobile traffic, please let us know in the comments!

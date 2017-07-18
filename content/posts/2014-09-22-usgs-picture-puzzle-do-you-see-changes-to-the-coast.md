@@ -28,6 +28,4 @@ The images in iCoast are a unique educational tool for anyone who wants to learn
 
 <a title="sign up with icoast" href="http://coastal.er.usgs.gov/icoast/" target="_blank">Sign up</a> as a digital volunteer, classify a few photos, and help spread the word to your colleagues, students, friends, and family. Email address is required and the program asks for you to share your area of interest and expertise. For those who are tech savvy, explore [iCoast open-source project on GitHub](http://github.com/usgs/icoast).
 
-Questions about this photo analysis project should be directed to <sophialiu@usgs.gov> and <icoast@usgs.gov>.
-
-_See more ways that federal agencies are using crowdsourcing and competitions to work with the most creative, brilliant minds in our communities, go to [Challenge.gov](https://challenge.gov/ "challenge dot gov")._
+Questions about this photo analysis project should be directed to <sophialiu@usgs.gov> and <icoast@usgs.gov>._See more ways that federal agencies are using crowdsourcing and competitions to work with the most creative, brilliant minds in our communities, go to [Challenge.gov](https://challenge.gov/ "challenge dot gov")._

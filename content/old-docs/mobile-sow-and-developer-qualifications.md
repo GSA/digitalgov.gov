@@ -110,9 +110,7 @@ Building mobile websites/apps requires people with specific skill sets. Agency S
   * _Supports the identification and management of internal and external hardware/software interfaces_
   * _Architects for mobile environment and delivery of web based content to mobile devices_
 
-### <a name="Mobile Key Personnel Skill Templates--Developers (this includes coders)"></a>Developers (this includes coders)<a name="Developer"></a> {#toc13}
-
-_Skills should include_
+### <a name="Mobile Key Personnel Skill Templates--Developers (this includes coders)"></a>Developers (this includes coders)<a name="Developer"></a> {#toc13}_Skills should include_
 
   * _Mobile web develop experience(HTML5, CSS, J2EE, JAVA, JSON, Objective-C,Websphere Application Server or WAS)_
   * _Format WebSphere Application Server (v8) to deliver content and data to multiple devices and operating systems, including but not limited to: iOS, OS X, Windows, Blackberry, and Android_
@@ -122,7 +120,6 @@ _Skills should include_
   * _Integrate search, metadata, tagging, sorting features via the CMS and for mobile web_
   * _Experience in architecture, interaction and navigation design, writing for the web, usability testing, building and launching Drupal database driven websites_
   * _Experience with creating custom Drupal modules and updating existing modules_
-
 _Or need expertise in the following:_
 
   * _Core Java, J2EE_
@@ -151,7 +148,6 @@ _Or need expertise in the following:_
   * _Android SDK_
   * _REST Services_
   * _PHP_
-
 _Or Key Skills Needed_
 
   * _HTML 5/CSS 3_
@@ -178,7 +174,6 @@ _Or Key Skills Needed_
   * _The Contractor shall be called on to modify and develop HTML, CSS, JavaScript and XSLT for custom web and mobile applications_
   * _The Contractor shall be experienced in HTML 5 technologies with a focus on multimedia presentations_
   * _The Contractor shall work within a multi-disciplinary team to ensure all software is developed in accordance with ODDI guidelines for scalability, performance, reliability and security_
-
 _The Ideal candidate shall possess the following skills and knowledge areas:_
 
   * _Expertise with HTML5 and CSS3_
@@ -199,7 +194,6 @@ _The Ideal candidate shall possess the following skills and knowledge areas:_
   * _The Contractor shall be called on to design software architecture and data-models to support the development of custom applications_
   * _The Contractor shall be called on to incorporate 3rd party APIs with custom developed software for enhanced features and functionality_
   * _The Contractor shall work within a multi-disciplinary team to ensure all software is developed in accordance with ODDI guidelines for scalability, performance, reliability and security_
-
 _The ideal candidate shall possess the following skills and knowledge areas:_
 
   * _Expertise in object-oriented and test-driven PHP programming_
@@ -215,19 +209,16 @@ _The ideal candidate shall possess the following skills and knowledge areas:_
 ### <a name="Mobile Key Personnel Skill Templates--Mobile App Developer Essential Skills"></a>Mobile App Developer Essential Skills<a name="MobileAppDev"></a> {#toc16}
 
 For web, hybrid and native app development skills; a simplified list of skills needed
-  
-_iOS –_
+  _iOS –_
 
   * _Strong OO design and programming skills in Objective-C_
   * _Familiar with iOS SDK (UIKit, Cocoa Touch, Core Data, Core Location, etc)Familiar with xcode_
-
 _Android –_
 
   * _Strong OO design and programming skills in Java (J2EE/ J2ME)_
   * _Familiar with the Android SDK_
   * _Knowledge of SQLite, MySQL or similar database management system_
   * _Familiar with Eclipse_
-
 _Common &#8211;_
 
   * _Understanding of other compiled languages_
@@ -240,7 +231,6 @@ _Common &#8211;_
   * _Ads integration using a 3rd party ad server (DART)_
   * _Using version control (e.g. SVN)_
   * _Excellent debugging and optimisation skills_
-
 _Desirable skills:_
 
   * _LAMP development experience_
@@ -259,7 +249,6 @@ _Desirable skills:_
   * _The Contractor shall plan and execute cross-browser and cross-device testing_
   * _The Contractor shall create automated test suites_
   * _The Contractor shall develop testing metrics and provide reports regarding quality assurance progress and status_
-
 _The ideal candidate also posses the following skills and knowledge areas:_
 
   * _Experience with various test automation software_
@@ -301,9 +290,7 @@ _The ideal candidate also posses the following skills and knowledge areas:_
   * _Monitors quality of deliverables_
   * _Monitors customer acceptance of deliverables_
 
-### <a name="Mobile Key Personnel Skill Templates--Team Resources"></a>Team Resources<a name="TeamResources"></a> {#toc19}
-
-_The Contractor shall provide team resources that will be required to demonstrate relevant technical experience in mobile arena using different and varied technologies. Please note this is not an exhaustive list of skills but just an example._
+### <a name="Mobile Key Personnel Skill Templates--Team Resources"></a>Team Resources<a name="TeamResources"></a> {#toc19}_The Contractor shall provide team resources that will be required to demonstrate relevant technical experience in mobile arena using different and varied technologies. Please note this is not an exhaustive list of skills but just an example._
 
   * _HTML5_
   * _Human-Computer Interaction (HCI)_
@@ -328,10 +315,8 @@ _The Contractor shall provide team resources that will be required to demonstrat
 Once an agency builds a mobile product, it needs to test it. Please view these [mobile testing guidelines]({{< relref "2013-08-22-mobile-product-testing-guidelines.md" >}} "Mobile Product Testing Guidelines and Resources") for more information on mobile product testing. Here is some Sample SOW Language for mobile product testing.
   
 **Sample #1**
-  
-_**Review and Testing**_
-  
-_The Contractor shall perform the following review and testing procedures in the Contractor and agencies development/test environments, at a minimum:_
+  _**Review and Testing**_
+  _The Contractor shall perform the following review and testing procedures in the Contractor and agencies development/test environments, at a minimum:_
 
   * _Code Reviews: Examine the source code_
   * _Unit Testing: Verify functionality of a specific area of code_
@@ -343,10 +328,8 @@ _The Contractor shall perform the following review and testing procedures in the
   * _508 Compliance Testing: Code and Verify that 508 Compliant_
 
 **Sample #2**
-  
-_**Test Plan (TP)**_
-  
-_Prior to performing the review and testing procedures noted above, the Contractor shall develop a Test Plan (TP) that outlines the workflow of the review and test process. The TP must be reviewed and approved by the GTM. The TP should include the following elements, at a minimum:_
+  _**Test Plan (TP)**_
+  _Prior to performing the review and testing procedures noted above, the Contractor shall develop a Test Plan (TP) that outlines the workflow of the review and test process. The TP must be reviewed and approved by the GTM. The TP should include the following elements, at a minimum:_
 
   * _Test Approach_
   * _Testing Objectives_
@@ -357,14 +340,10 @@ _Prior to performing the review and testing procedures noted above, the Contract
   * _Test Responsibilities_
   * _Test Reporting_
   * _Test Resolutions_
-
 _**Test Report (TR)**_
-  
-_The Contractor shall develop a Test Report (TR) that outlines all reviews and tests performed and respective results. The TR must be presented to the USG prior to proceeding to the User Acceptance Testing phase. The Contractor shall ensure the software is production-ready, and operates on the intranet and Internet environments provided by the USG._
-  
-_**User Acceptance Testing (UAT)**_
-  
-_The Contractor shall support and coordinate all UAT efforts with Information security and assurance team members._
+  _The Contractor shall develop a Test Report (TR) that outlines all reviews and tests performed and respective results. The TR must be presented to the USG prior to proceeding to the User Acceptance Testing phase. The Contractor shall ensure the software is production-ready, and operates on the intranet and Internet environments provided by the USG._
+  _**User Acceptance Testing (UAT)**_
+  _The Contractor shall support and coordinate all UAT efforts with Information security and assurance team members._
 
 # <a name="Mobile Code Ownership/Open Sourcing"></a>Mobile Code Ownership/Open Sourcing<a name="Code"></a> {#toc21}
 
@@ -374,6 +353,4 @@ You should consult your contracting officer for specific language, but <a href="
   
 Consult with legal and your procurement officer for your agency&#8217;s procedures.
 
-#### <a name="Mobile Code Ownership/Open Sourcing---Sample SOW Language"></a>Sample SOW Language {#toc22}
-
-_All products, designs, drawings and outputs developed as part of the activities conducted on this contract/order will be considered the property of the Government and may serve as input on subsequent orders, or other contractual vehicle as deemed appropriate. Offerors shall not submit as proprietary data in their proposal or quotation any restrictions that will limit the Government’s ownership and right to use the data generated, products, designs, drawings, and outputs developed under this award._
+#### <a name="Mobile Code Ownership/Open Sourcing---Sample SOW Language"></a>Sample SOW Language {#toc22}_All products, designs, drawings and outputs developed as part of the activities conducted on this contract/order will be considered the property of the Government and may serve as input on subsequent orders, or other contractual vehicle as deemed appropriate. Offerors shall not submit as proprietary data in their proposal or quotation any restrictions that will limit the Government’s ownership and right to use the data generated, products, designs, drawings, and outputs developed under this award._

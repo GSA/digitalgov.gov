@@ -83,10 +83,7 @@ Challenges are about crowdsourcing innovation and creativity, often from people 
 
 Finally, when you are writing your RFP, take a step outside your usual way of doing business and ask yourself, can an innovative small business that’s not focused on government contracting understand your procurement requirements, team with a partner, and develop a proposal by your deadline?
 
-_The fine print:_ 
-
-_Schedule 541-4G is under advertising and marketing solutions, but many of the challenge companies are science and technology-based companies. We&#8217;ve heard often that agencies are using Schedule 70 and missing the experts available here. We acknowledge that this is an imperfect system and are working to get the word out, so contract officers have up-to-date information._
-
+_The fine print:_ _Schedule 541-4G is under advertising and marketing solutions, but many of the challenge companies are science and technology-based companies. We&#8217;ve heard often that agencies are using Schedule 70 and missing the experts available here. We acknowledge that this is an imperfect system and are working to get the word out, so contract officers have up-to-date information._
 _These suggestions are not intended to be a replacement for the rules that guide procurement and contracting. You must consult with your contracting officer and office of general counsel._
 
  _Many thanks to the experts who have provided their feedback, especially Peter Robinson and ChallengePost, the long-time platform provider for [Challenge.gov](https://challenge.gov/)._

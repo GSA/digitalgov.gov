@@ -45,9 +45,7 @@ In 2015, Marina Martin, the former VA Chief Technology Officer (CTO) and lead fo
 
 > &#8220;We are here to demonstrate that it’s possible for the government to repeatedly deliver simple, excellent services for Veterans using today’s technology and best practices. Or to demonstrate, for sure, that it is not.&#8221;
 
-Beyond all odds, we believe we are showing this is actually possible at the VA, and we truly believe that if this is possible at the VA, it’s possible anywhere in the government. There is still so much work to do, however. The best way we know how to do this is to keep shipping products that matter, so we’re going back to work. Want to <a href="https://www.usds.gov/join" target="_blank" rel="noopener">join us</a>?
-
-_Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
+Beyond all odds, we believe we are showing this is actually possible at the VA, and we truly believe that if this is possible at the VA, it’s possible anywhere in the government. There is still so much work to do, however. The best way we know how to do this is to keep shipping products that matter, so we’re going back to work. Want to <a href="https://www.usds.gov/join" target="_blank" rel="noopener">join us</a>?_Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
 
 {{< legacy-img src="CDN/files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
 

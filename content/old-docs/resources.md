@@ -60,7 +60,7 @@ Looking for overall digital policy guidance? See the [Checklist of Requirements 
 
 *   [Customer Experience Community of Practice (CX-COP)]({{< relref "customer-experience-community.md" >}})
 *   [Customer Experience Toolkit]({{< relref "customer-experience-toolkit.md" >}})
-*   [Government Customer Service Policies & Requirements](({{< relref "government-customer-service-policies-requirements-1993-to-present.md" >}})
+*   [Government Customer Service Policies & Requirements]({{< relref "government-customer-service-policies-requirements-1993-to-present.md" >}})
 *   [Paperwork Reduction Act Fast Track Process]({{< relref "paperwork-reduction-act-fast-track-process.md" >}})
 *   [Report of the Citizen Service Levels Interagency Committee CSLIC](CDN/files/2014/07/Report-of-the-Citizen-Service-Levels-Interagency-Committee-CSLIC-2005.doc) (MS Word, 233 kb, 36 pages, 2005)
 
@@ -96,7 +96,7 @@ Looking for overall digital policy guidance? See the [Checklist of Requirements 
 *   [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}})
 *   [Spanish Language Style Guide and Glossaries]({{< relref "spanish-language-style-guide-and-glossaries.md" >}})
 *   [Style Guides by Government Agencies]({{< relref "style-guides-by-government-agencies.md" >}})
-*   [Top 10 Best Practices for Multilingual Websites](({{< relref "top-10-best-practices-for-multilingual-websites.md" >}})
+*   [Top 10 Best Practices for Multilingual Websites]({{< relref "top-10-best-practices-for-multilingual-websites.md" >}})
 
 ## Open Data
 

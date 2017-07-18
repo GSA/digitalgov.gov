@@ -74,8 +74,5 @@ Specifically, by leveraging the Federal Government’s supply chain, we’ve:
 
 I’m personally proud of this work, and we’re not slowing down. The progress we’ve seen to date makes a very strong case for the benefits of category management, and we remain committed to institutionalizing this proven and effective practice so it continues to benefit Americans through the end of the Obama Administration and beyond.
 
-Expect to see lots of activity in the next months to ensure that these transformative efforts continue to deliver results in the years ahead.
-
-_Anne Rung is the U.S. Chief Acquisition Officer._
-
+Expect to see lots of activity in the next months to ensure that these transformative efforts continue to deliver results in the years ahead._Anne Rung is the U.S. Chief Acquisition Officer._
 _This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._

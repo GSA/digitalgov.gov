@@ -59,8 +59,4 @@ The heavy focus on customer feedback helped change the way NARA staff view their
 
 “I think everybody’s starting to understand that it’s really about who’s using it and what they’re trying to accomplish,” Araghi said.
 
-Above all, NARA has embraced a design process that puts the customer first. With a new internal communication system, staff can—and do—provide ongoing, real-time feedback that the Web team uses to identify new requirements and further refine the site. By giving staff a voice in the design process, NARA has created more usable sites with stronger buy-in.
-
-_**Hannah Gladfelter Rubin** is an Information Research Specialist with the Congressional Research Service at the Library of Congress. She is a User Experience guest author on Digitalgov via GSA&#8217;s [Open Opportunities Program](http://gsablogs.gsa.gov/dsic/how-it-works/)._ 
-
-_<span style="color: #222222">Note: The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress.</span>_
+Above all, NARA has embraced a design process that puts the customer first. With a new internal communication system, staff can—and do—provide ongoing, real-time feedback that the Web team uses to identify new requirements and further refine the site. By giving staff a voice in the design process, NARA has created more usable sites with stronger buy-in._**Hannah Gladfelter Rubin** is an Information Research Specialist with the Congressional Research Service at the Library of Congress. She is a User Experience guest author on Digitalgov via GSA&#8217;s [Open Opportunities Program](http://gsablogs.gsa.gov/dsic/how-it-works/)._ _<span style="color: #222222">Note: The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress.</span>_

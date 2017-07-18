@@ -54,6 +54,4 @@ Depending on the topic, one approach is likely to be more appropriate than the o
 
 **4. User Test your User Surveys!**
   
-Also known in the field of Survey Methodology as “cognitive interviewing,” testing your survey questions with users before it is released into the wild can help to evaluate the design. You want to check that participants are responding in expected ways and that you are able to measure what you set out to measure. Unless you are using a validated survey, cognitive interviewing should be a part of your survey design process.
-
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She interned with the [User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._
+Also known in the field of Survey Methodology as “cognitive interviewing,” testing your survey questions with users before it is released into the wild can help to evaluate the design. You want to check that participants are responding in expected ways and that you are able to measure what you set out to measure. Unless you are using a validated survey, cognitive interviewing should be a part of your survey design process._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She interned with the [User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") at GSA this summer._

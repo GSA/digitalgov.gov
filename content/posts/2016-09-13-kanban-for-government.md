@@ -77,6 +77,4 @@ The team isn’t drowning anymore. They’re back in charge of the work they do,
 
 Postscript: Two days before press time, Josh Bailes sent this 18F-wide message:
 
-> Good news. Our current median transit time for agreements is 37.5 days, meaning from kick off to signature, it takes 37.5 days for an agreement to get completed. This is a vast improvement from 60 days and due to two things: 1) the WIP limits we set. They are working. 2) The great work of Matt Spencer and [the Agreements] team.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+> Good news. Our current median transit time for agreements is 37.5 days, meaning from kick off to signature, it takes 37.5 days for an agreement to get completed. This is a vast improvement from 60 days and due to two things: 1) the WIP limits we set. They are working. 2) The great work of Matt Spencer and [the Agreements] team._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

@@ -48,9 +48,7 @@ In the _Solve the Outbreak_ app, users get to decide what to do: Should they qua
 
 {{< legacy-img src="CDN/files/2016/02/600-x-224-CDC\_Solve\_Outbreak-screens.jpg" alt="Two screen captures of the Solve the Outbreak tablet app." >}}
 
-## Building Engaging Gaming Applications
-
-_Solve the Outbreak_ and _Health IQ_ were both developed on the philosophy of making learning fun by providing players with health information in a game-like environment. Since its launch in February 2013, more than 850,000 outbreaks have been solved using the _Solve the Outbreak_ app. Based on the success of the _Solve the Outbreak_ app, CDC utilized many of the lessons learned to develop a second gaming app, _Health IQ_, which launched in September 2015. Both apps followed the 5 best practices below:
+## Building Engaging Gaming Applications_Solve the Outbreak_ and _Health IQ_ were both developed on the philosophy of making learning fun by providing players with health information in a game-like environment. Since its launch in February 2013, more than 850,000 outbreaks have been solved using the _Solve the Outbreak_ app. Based on the success of the _Solve the Outbreak_ app, CDC utilized many of the lessons learned to develop a second gaming app, _Health IQ_, which launched in September 2015. Both apps followed the 5 best practices below:
 
   1. **Crisp graphics targeted to audience needs**: Each app utilizes engaging, interesting images and graphics to attract and maintain users’ attention. The _Health IQ_ app has a slightly younger feel in the design as the primary targeted audience is middle-school students, while the _Solve the Outbreak_ app is a bit more scientific in nature as it is targeted to older students in high school and college.
   2. **Interesting animations**: Each app presents content with interesting animations that set the content apart from a traditional website or information-based application, providing a completely unique and engaging experience.
@@ -68,6 +66,4 @@ Download the apps and try them for yourself!
 
 **Solve the Outbreak**
 
-[{{< legacy-img src="CDN/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download." >}}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{{< legacy-img src="CDN/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)
-
-_**Alex Casanova** is the Innovations Team Lead, Digital Media Branch, in the Division of Public Affairs, Office of the Associate Director for Communications at the Centers for Disease Control and Prevention (CDC)._
+[{{< legacy-img src="CDN/files/2016/02/googleplay_100px.png" alt="Google Play button; click to download." >}}](https://play.google.com/store/apps/details?id=gov.cdc.sto) [{{< legacy-img src="CDN/files/2016/02/appstore_100px.jpg" alt="Apple App Store button; click to download." >}}](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8)_**Alex Casanova** is the Innovations Team Lead, Digital Media Branch, in the Division of Public Affairs, Office of the Associate Director for Communications at the Centers for Disease Control and Prevention (CDC)._

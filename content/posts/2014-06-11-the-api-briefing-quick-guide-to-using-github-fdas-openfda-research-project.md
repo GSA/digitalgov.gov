@@ -36,10 +36,7 @@ You can also check out the community of [government technologists working in Git
 
 <span style="color: #222222">Agency Developers looking to jump-start their efforts can also find source code for native and web projects in the <a title="Federal Mobile Code Sharing Catalog Is Here" href="{{< relref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}}">Mobile Code Sharing Catalog</a>, which contains code from a variety of sources: federal agencies, other governments, and third-parties in the private sector .</span>
 
-OpenFDA is an exciting project in federal government APIs because of the richness of the data and possibilities it offers for creating amazing applications. The documentation is very well-done both on the OpenFDA website and in GitHub. If you want to develop your skills in using GitHub, OpenFDA’s GitHub repository is an excellent training resource.
-
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov)._
-
+OpenFDA is an exciting project in federal government APIs because of the richness of the data and possibilities it offers for creating amazing applications. The documentation is very well-done both on the OpenFDA website and in GitHub. If you want to develop your skills in using GitHub, OpenFDA’s GitHub repository is an excellent training resource._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov)._
 _Dr. William A. Brantley, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at [BillBrantley.com](http://billbrantley.com/)._
 
 <div class="copyIcon copy0">

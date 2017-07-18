@@ -68,8 +68,5 @@ Launching in July 2016, our site has already begun to show improvements—includ
 
  
 
-<cite>*Caveat: The MCHB site links out to several sub-sites controlled by different contractors. The 91% only takes into account pages removed from our content management system.</cite>
-
-_Christy Choi, Mackenzie Cummings, and Richard Morey work in the <a href="http://www.hrsa.gov/about/organization/bureaus/oc/index.html" target="_blank">Health Resources and Services Administration Office of Communications</a>_
-
+<cite>*Caveat: The MCHB site links out to several sub-sites controlled by different contractors. The 91% only takes into account pages removed from our content management system.</cite>_Christy Choi, Mackenzie Cummings, and Richard Morey work in the <a href="http://www.hrsa.gov/about/organization/bureaus/oc/index.html" target="_blank">Health Resources and Services Administration Office of Communications</a>_
 _This post is part of an ongoing series of case-studies highlighting how the federal government is using the Digital Analytics Program (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please contact us via <a href="mailto:dap@support.WHATEVER" target="_blank">email</a>._

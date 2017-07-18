@@ -19,7 +19,7 @@ Ken Fang from Mobomo Inc. talked about the importance of a mobile first approach
 
   1. Consider your audience needs and remembering who and what you are making the app for.
   2. Think about what kind of content will be sent out.
-  3. Think platform strategy &#8212;answering whether you develop for one device or choose a different route such as an [API](({{< link "categories/api" >}}) or responsive design.
+  3. Think platform strategy &#8212;answering whether you develop for one device or choose a different route such as an [API]({{< link "categories/api" >}}) or responsive design.
 
 Janice Clark discussed the State Department&#8217;s efforts in creating the [m.state.gov](http://m.state.gov/) site.
 

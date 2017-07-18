@@ -14,9 +14,8 @@ tag:
   - NIH
 ---
 
-_[Mobile Gov Experiences](({{< link "tag/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine.__
-  
-_ 
+_[Mobile Gov Experiences]({{< link "tag/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the National Library of Medicine.__
+  _ 
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/medline\_plus\__app.jpg" alt="Medline Plus Mobile" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/medline_plus__app.jpg)The National Library of Medicine (NLM) launched MedlinePlus Mobile ([m.medlineplus.gov](http://m.medlineplus.gov)) in January 2010 to provide authoritative consumer-level health information to a growing audience of mobile Internet users. MedlinePlus Mobile is a mobile-optimized Web site that contains a subset of the content that users can find on the full MedlinePlus site (<http://medlineplus.gov>), which has been online since 1998. In November 2011, NLM started a 12 month formal evaluation of MedlinePlus Mobile.
 

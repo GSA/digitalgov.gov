@@ -27,6 +27,4 @@ While these activities help Ex-Im to see its performance from an inside-looking-
 
 At Ex-Im, on a scale of 1-5, a score of “1″ is far less effort than expected. A score of “5″ indicates the customer believes he or she had to put forth far more effort than expected. We keep a running tabulation of the average score, which is regularly reported to senior leadership.
 
-Good CX leadership takes an all-inclusive view of the organization, grounds itself in strategic goals and plans, and mixes in the art and science of customer relations. That is the basis for our CX-focused work at Ex-Im. Metrics and monitoring are a focal point of our endeavors.
-
-_**Stephanie Thum** is the Vice President of Customer Experience at the Export-Import Bank of the United States._
+Good CX leadership takes an all-inclusive view of the organization, grounds itself in strategic goals and plans, and mixes in the art and science of customer relations. That is the basis for our CX-focused work at Ex-Im. Metrics and monitoring are a focal point of our endeavors._**Stephanie Thum** is the Vice President of Customer Experience at the Export-Import Bank of the United States._

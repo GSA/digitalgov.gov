@@ -14,15 +14,7 @@
 
 {{ define "content" }}
 
-  {{ if .Params.venue.is_inperson }}
-    {{ if .Params.venue.is_remote }}
-      {{ $.Scratch.Set "eventtitle" (printf "In-Person & Online: %s" .Title) }}
-    {{ else }}
-      {{ $.Scratch.Set "eventtitle" (printf "In-Person: %s" .Title) }}
-    {{ end }}
-  {{ else }}
-    {{ $.Scratch.Set "eventtitle" (printf "Online: %s" .Title) }}
-  {{ end }}
+{{ partial "event-venue--inPerson.html" . }}
 
   <div id="wrap">
   	<div id="tribe-events-pg-template">

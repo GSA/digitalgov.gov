@@ -40,11 +40,8 @@ Following in the footsteps of their StudentAid.gov website, the digital team at 
 
 What StudentAid.ed.gov is to students, the new <a href="http://www.newbrandanalytics.com/thankyou.php" target="_blank">FinancialAidToolkit.ed.gov</a> is to guidance counselors, &#8220;college access professionals,&#8221; nonprofit mentors, community organizations, volunteers and others. The Toolkit was created to help these advisers navigate the [FAFSA](http://financialaidtoolkit.ed.gov/tk/learn/fafsa.jsp) process and assist present and prospective students with applying for and accessing information about an expansive offering of federal student aid opportunities and actions &#8212; including loan repayment. Connecting to this searchable database of training and outreach tools can now be done easily from mobile and non-mobile devices of various screen sizes and configurations.
 
-Got a student looking to you to guide them through the school financing maze? Get the ABC&#8217;s of financial aid and more at [FinancialAidToolkit.ed.gov](http://financialaidtoolkit.ed.gov/tk/).
-
-__Read more in this helpful **[article on responsive design]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools")**. And don’t forget: You can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
-  
-_ 
+Got a student looking to you to guide them through the school financing maze? Get the ABC&#8217;s of financial aid and more at [FinancialAidToolkit.ed.gov](http://financialaidtoolkit.ed.gov/tk/).__Read more in this helpful **[article on responsive design]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools")**. And don’t forget: You can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+  _ 
 
  
 

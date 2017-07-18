@@ -34,10 +34,7 @@ Commitments may include the announcement of specific, ambitious incentive prizes
   * Universities could establish courses and online material to help students and mid-career professionals learn to design effective prizes and challenges.
   * Researchers could conduct empirical research on incentive prizes and other market-shaping techniques (e.g. Advance Market Commitments, milestone payments) to increase our understanding of how and under what circumstances these approaches can best be used to accelerate progress on important problems.
   
-    Working together, we can use incentive prizes to inspire people to solve some of our toughest challenges.
-
-_Tom Kalil is Deputy Director for Technology and Innovation at the White House Office of Science and Technology Policy._
-
+    Working together, we can use incentive prizes to inspire people to solve some of our toughest challenges._Tom Kalil is Deputy Director for Technology and Innovation at the White House Office of Science and Technology Policy._
 _Jenn Gustetic is Assistant Director for Open Innovation at the White House Office of Science and Technology Policy._
 
 <span style="text-decoration: underline"><strong>Learn More:</strong></span>
@@ -49,6 +46,4 @@ _Jenn Gustetic is Assistant Director for Open Innovation at the White House Offi
   * [Initial Report from OSTP to Congress on Prizes and America COMPETES in FY2011](https://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf) (March 2012)
   * [Fact Sheet and FAQ on Prize Authority in the America COMPETES Reauthorization Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf)
   * [FAQ on PRA & Prizes and Challenges](https://www.whitehouse.gov/sites/default/files/omb/assets/inforeg/challenge-and-prizes-faqs.pdf)
-  * [Open Government Directive](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) (December 8, 2009)
-
-_This post was originally published on [The White House blog](https://www.whitehouse.gov/blog/2015/07/17/accelerating-use-prizes-address-tough-challenges-0) by_ _Tom Kalil, Deputy Director for Technology and Innovation at the White House Office of Science and Technology Policy, and_ _Jenn Gustetic, Assistant Director for Open Innovation at the White House Office of Science and Technology Policy._
+  * [Open Government Directive](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) (December 8, 2009)_This post was originally published on [The White House blog](https://www.whitehouse.gov/blog/2015/07/17/accelerating-use-prizes-address-tough-challenges-0) by_ _Tom Kalil, Deputy Director for Technology and Innovation at the White House Office of Science and Technology Policy, and_ _Jenn Gustetic, Assistant Director for Open Innovation at the White House Office of Science and Technology Policy._

@@ -27,8 +27,5 @@ The MPI Directory app, available for Android and iOS devices, provides 24/7 acce
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-444-FSIS\_InspectionApp.jpg" alt="250-x-444-FSIS\_InspectionApp" >}}After an initial download of the app’s directory upon launching the app, no Internet connection is required for further use. This is an especially useful feature when network coverage is spotty, such as in rural areas or in thick-walled underground city grocery store garages.
 
-Trust me, an app that tells you where the food you’re about to eat was produced is hard to put down. You may very well find yourself prepping for your next food run with this app in those rural areas or thick-walled underground city grocery store garages with no Internet connection.
-
-_You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._
-
+Trust me, an app that tells you where the food you’re about to eat was produced is hard to put down. You may very well find yourself prepping for your next food run with this app in those rural areas or thick-walled underground city grocery store garages with no Internet connection._You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)._
 _**Kevin Downey** is the Web Content Manager, in the Office of Public Affairs, at the U.S. Immigration and Customs Enforcement (ICE)._

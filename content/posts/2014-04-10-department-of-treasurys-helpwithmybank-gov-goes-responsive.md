@@ -28,6 +28,4 @@ It might happen that after exhausting all the Qs and As, you find you need to ta
 
 <p style="text-align: center">
   <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/1024-x-768-HelpWithMyBankGov-tablet.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-450-HelpWithMyBankGov-tablet.jpg" alt="A screencapture of Help With My Bank dot Gov on a tablet" >}}</a>
-</p>
-
-_Learn more about responsive design in this [recent blog post]({{< relref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}} "Why Go Responsive? Here’s What Feds Are Saying"). And remember: A rich selection of government mobile apps can be downloaded 24/7 by visiting the [USA.gov Apps Gallery](http://apps.usa.gov/). (And you can take that to the bank.)_
+</p>_Learn more about responsive design in this [recent blog post]({{< relref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}} "Why Go Responsive? Here’s What Feds Are Saying"). And remember: A rich selection of government mobile apps can be downloaded 24/7 by visiting the [USA.gov Apps Gallery](http://apps.usa.gov/). (And you can take that to the bank.)_

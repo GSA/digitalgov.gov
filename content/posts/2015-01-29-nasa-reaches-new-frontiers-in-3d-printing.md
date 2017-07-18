@@ -52,6 +52,4 @@ Werkhesier shared tips for agencies and federal employees that are pursuing inno
   * Take the time to **understand all of the mechanisms available for collaboration** and partnerships within the agency. There are multiple avenues such as the Small Business Innovation Research (SBIR) program and Challenges.
   * **Invest in relationships** with other stakeholders in your technical field. Identify the key conferences, forums, groups, etc., and where these stakeholders convene. Communicate your roadmap and objectives to this community.
   * **Communicate your needs** and concerns to the **procurement**, **legal**, and **programmatic** teams in your agency, and propose potential new competitive ways to gain access to the other stakeholders.
-  * Consider **working with other government entities**. Explore joint activities where resources can be shared and additional outlets may be identified.
-
-_NASA makes 3D models available for printing on their [3D Resources website](http://nasa3d.arc.nasa.gov/), and the [wrench](http://nasa3d.arc.nasa.gov/detail/wrench-mis) has been added to the collection._
+  * Consider **working with other government entities**. Explore joint activities where resources can be shared and additional outlets may be identified._NASA makes 3D models available for printing on their [3D Resources website](http://nasa3d.arc.nasa.gov/), and the [wrench](http://nasa3d.arc.nasa.gov/detail/wrench-mis) has been added to the collection._

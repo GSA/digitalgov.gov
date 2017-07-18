@@ -27,9 +27,7 @@ Agencies have two options for the DAP code implementation, all described in deta
 
 In addition, those implementing should read capabilities of the code in the <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/DAP_v3.1_CodeSummary_Aug2016-1-1.pdf" target="_blank">version 3.1 Code Summary</a> (PDF, 182 KB, 15 pages, August 2016), and the <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/DAP_v3.1_ReleaseNotes_Aug2016-1.pdf" target="_blank">version 3.1 Release Notes</a> (PDF, 70 KB, 4 pages, August 2016).
 
-With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account and should cause no material change in your independent Google Analytics account metrics.
-
-_Note: When migrating from DAP Google Analytics &#8220;Classic&#8221; to DAP Universal Analytics (UA), you must replace both the old javascript code file and the script block/tag, as specified in the Implementation Guide, to follow the new UA format._
+With either option (centrally or locally hosted), the Government-Wide Digital Analytics Program website traffic data is being filtered into its own separate Google Analytics account and should cause no material change in your independent Google Analytics account metrics._Note: When migrating from DAP Google Analytics &#8220;Classic&#8221; to DAP Universal Analytics (UA), you must replace both the old javascript code file and the script block/tag, as specified in the Implementation Guide, to follow the new UA format._
 
 If you have any questions, please email us at <a href="mailto:dap@support.WHATEVER" target="_blank">dap@support.WHATEVER</a>. We&#8217;d be happy to assist.
 

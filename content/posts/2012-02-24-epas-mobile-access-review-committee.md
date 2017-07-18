@@ -12,8 +12,7 @@ tag:
 ---
 
 _[<img class="alignright size-full wp-image-94252" alt="EPASeal" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/02/EPASeal.gif" width="140" height="136" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/02/EPASeal.gif)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Environmental Protection Agency._ _
-  
-_ 
+  _ 
 
 The <a href="http://www2.epa.gov/webguide/mobile-access-review-committee" rel="nofollow">Enivronmental Protection Agency&#8217;s Mobile Access Review Committee (MARC) </a>is a committee that evaluates external (public-facing) mobile app and mobile Web concepts prior to any development. MARC serves as point-of-contact for mobile project owners throughout the Agency and maintains mobile product requirements based on the latest technology, EPA requirements, and best practices.
 

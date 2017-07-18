@@ -25,6 +25,4 @@ We hope that Agencies can also leverage this structure when planning their own F
 
 For more details, check out our CSP and 3PAO roles and responsibilities one-pagers [here](https://www.fedramp.gov/resources/documents-2016/).
 
-If you have any questions, please feel free to reach out and [email FedRAMP](mailto:info@fedramp.gov) for more information.
-
-_This post was originally published on the [Focus on FedRAMP](https://www.fedramp.gov/focus-on-fedramp/) blog._
+If you have any questions, please feel free to reach out and [email FedRAMP](mailto:info@fedramp.gov) for more information._This post was originally published on the [Focus on FedRAMP](https://www.fedramp.gov/focus-on-fedramp/) blog._

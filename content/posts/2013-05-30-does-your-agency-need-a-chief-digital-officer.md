@@ -38,6 +38,4 @@ New initiatives like the [Digital Government Strategy](http://www.whitehouse.gov
 
 A CDO may not be the solution for all agencies, but this individual may be the person you are looking for to bring your agency’s public-facing government services in line with 21st century expectations.
 
-How does your agency plan to meet the requirements of the Digital Government Strategy and Open Data Policy?
-
-_The views and opinions presented in this post are solely those of the author and do not necessarily represent those of  GSA_
+How does your agency plan to meet the requirements of the Digital Government Strategy and Open Data Policy?_The views and opinions presented in this post are solely those of the author and do not necessarily represent those of  GSA_

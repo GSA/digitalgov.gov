@@ -33,10 +33,6 @@ During the panel, each discussed how their states, cities, and departments are u
 
 Panelists also discussed how mobile technologies used by public safety, such as body-worn video cameras, mapping, and computer-aided dispatch, can benefit responders, but can use a tremendous amount of bandwidth that results in first responders sometimes competing with consumers and businesses for network access and capacity. Panelists offered suggestions for how state and local governments can incorporate public safety needs in their Smart Cities-related planning and the benefits of doing so.
 
-Overall, the Summit was an outstanding opportunity to learn more about the benefits of Smart Cities and identify ways that FirstNet can support first responders operating in them.
+Overall, the Summit was an outstanding opportunity to learn more about the benefits of Smart Cities and identify ways that FirstNet can support first responders operating in them._FirstNet developed the following video to highlight ways FirstNet can benefit first responders in cities, towns, and communities that desire to implement “smart” public safety solutions. Thanks to Commander Reyes, Bill Schrier, Phoenix Fire Department Deputy Chief Amos Chalmers, FirstNet Chief Technology Officer Jeff Bratcher, and Associate Director of Cyber-Physical Systems at the National Institute of Science and Technology (NIST) Sokwoo Rhee for lending their expertise and participating in the video._
 
-_FirstNet developed the following video to highlight ways FirstNet can benefit first responders in cities, towns, and communities that desire to implement “smart” public safety solutions. Thanks to Commander Reyes, Bill Schrier, Phoenix Fire Department Deputy Chief Amos Chalmers, FirstNet Chief Technology Officer Jeff Bratcher, and Associate Director of Cyber-Physical Systems at the National Institute of Science and Technology (NIST) Sokwoo Rhee for lending their expertise and participating in the video._
-
-[youtube=http://www.youtube.com/watch?v=vXv_GfDm3C4&w=600]
-
-_This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._
+[youtube=http://www.youtube.com/watch?v=vXv_GfDm3C4&w=600]_This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._

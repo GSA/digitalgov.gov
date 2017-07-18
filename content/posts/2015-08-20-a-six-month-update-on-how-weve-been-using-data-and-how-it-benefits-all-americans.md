@@ -67,14 +67,12 @@ If you’re interested in learning more about the sessions on Precision Medicine
 Our data team is also continuing efforts to utilize and unleash data to improve lives. Thanks to the [President’s Executive Order](https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) requiring that agencies make data open and machine readable, by default the power of data is being unleashed for all Americans. Data.gov hosts more than 130,000 datasets from nearly 80 agencies and 37 state, county, and city data catalogs. There are more than 8 million page views annually and we’re just getting started.
 
 [soundcloud url=&#8221;https://api.soundcloud.com/tracks/219833304&#8243; params=&#8221;color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show_reposts=false&#8221; width=&#8221;100%&#8221; height=&#8221;166&#8243; iframe=&#8221;true&#8221; /]
-  
-_Presidential Innovation Fellow Ian Kalin on Innovation at the Department of Commerce_
+  _Presidential Innovation Fellow Ian Kalin on Innovation at the Department of Commerce_
 
 Take the Department of Commerce, which recently announced a big data project with Google, IBM, Microsoft, Amazon, and the Open Cloud Consortium to improve all the products that help people respond to the weather and the environment. The goal of this project is to liberate more than 50 terabytes per day of previously inaccessible information — for free — by combining government expertise with private-sector technological capabilities. Doing so will fuel new business innovation and support the [Administration’s Climate Data Initiative](https://www.whitehouse.gov/blog/2014/03/19/climate-data-initiative-launches-strong-public-and-private-sector-commitments).
 
 [soundcloud url=&#8221;https://api.soundcloud.com/tracks/219833311&#8243; params=&#8221;color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show_reposts=false&#8221; width=&#8221;100%&#8221; height=&#8221;166&#8243; iframe=&#8221;true&#8221; /]
-  
-_Presidential Innovation Fellow Mikel Maron On Crowd-Mapping For Disaster Response_
+  _Presidential Innovation Fellow Mikel Maron On Crowd-Mapping For Disaster Response_
 
 Another example of using government data to help make people’s lives better was after the Nepal earthquakes and the incredible grassroots effort by data scientists around the world to use open data to help first responders and aid workers better understand the situation around them. To get a sense of the power of all these efforts, check out the [talk I participated in at the International Open Data Conference](https://www.youtube.com/watch?v=SD7qXPSUezg) (and hey, PDFs shouldn’t be considered “open data”!).
 
@@ -91,8 +89,7 @@ Another example of the power of data to improve lives is through criminal and so
 The recommendations from the [Taskforce on 21st Century Policing](https://www.youtube.com/watch?v=A1C98MdIecs) called for the novel use of technology to tackle this social justice opportunity in the immediate term. One of the first projects, [announced by the President in Camden, New Jersey](https://www.youtube.com/watch?v=-3RqEZvAgXM), is the Police Data Initiative (PDI), which focuses on generating and implementing new data and technology innovations within key jurisdictions, civil society groups, and federal, state, and local agencies. PDI is centered on two key components: (1) using open data to build transparency and increase community trust, and (2) using data to enhance internal accountability through effective analysis. PDI has [mobilized 26 leading jurisdictions](http://publicsafetydataportal.org/participating-agencies/) across the country, bringing police leaders together with top technologists, researchers, data scientists, and design experts to use data and technology to improve community trust and enable a shift towards data-driven community policing.
 
 [soundcloud url=&#8221;https://api.soundcloud.com/tracks/219833296&#8243; params=&#8221;color=ff5500&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show_reposts=false&#8221; width=&#8221;100%&#8221; height=&#8221;166&#8243; iframe=&#8221;true&#8221; /]
-  
-_Presidential Innovation Fellows Denice Ross and Clarence Wardell on The Police Data Initiative_
+  _Presidential Innovation Fellows Denice Ross and Clarence Wardell on The Police Data Initiative_
 
 This incredible effort has been led by two [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows), Denice Ross and Clarence Wardell. To see the power of their efforts, [read Denice Ross’s story](https://medium.com/@WhiteHouse/does-open-data-build-trust-49ee4d400ba) about working directly with the police and youth in New Orleans and how New Orleans Police Superintendent Michael Harrison came to write his first line of code.
 
@@ -102,6 +99,4 @@ This incredible effort has been led by two [Presidential Innovation Fellows](htt
 
 This is just the start, and I’ve been humbled by the support from all of you on our efforts. I’ve had the chance to meet many of you, on topics ranging from why [community college](https://medium.com/@WhiteHouse/how-i-became-chief-data-scientist-93ff698a7188) is so important to [hacking on civic data](http://hackforchange.org/more-than-100-communities-celebrated-national-day-of-civic-hacking/) in South Bend, Indiana, and in the inner city of Chicago. And I hope to meet many more of you through future events.
 
-Data science is a team sport, and we need your ideas, suggestions, and feedback to make it work! You can send those my way here on Medium with a response, or (for those thoughts and suggestions that can fit within 140 characters), tweet them to me at [@DJ44](https://twitter.com/DJ44). I look forward to sharing more updates as we continue making important progress on data usage.
-
-_This post was originally published on [The White House&#8217;s Medium channel](https://medium.com/@WhiteHouse/) by Dr. DJ Patil, the U.S. Chief Data Scientist._
+Data science is a team sport, and we need your ideas, suggestions, and feedback to make it work! You can send those my way here on Medium with a response, or (for those thoughts and suggestions that can fit within 140 characters), tweet them to me at [@DJ44](https://twitter.com/DJ44). I look forward to sharing more updates as we continue making important progress on data usage._This post was originally published on [The White House&#8217;s Medium channel](https://medium.com/@WhiteHouse/) by Dr. DJ Patil, the U.S. Chief Data Scientist._

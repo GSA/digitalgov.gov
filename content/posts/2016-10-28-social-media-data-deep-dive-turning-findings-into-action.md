@@ -52,5 +52,4 @@ For Facebook, job training, career opportunities, immigration services, and lear
 For Twitter, we will continue to partner with other agencies on Twitter chats that resonate best for our audience, and while we&#8217;ve partnered many times on topics related to health, we&#8217;re looking to further engage our audience by doing more active listening on the topics that resonate with them most.
 
 _Victoria Wales is the bilingual email marketing product lead at USAGov._
-
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/)._

@@ -21,8 +21,5 @@ Consider, for example, our new REST API for the Astronomy Picture of the Day (AP
 
 Our list of API’s (available on [our developer page](https://data.nasa.gov/developer)) is growing everyday. Currently we have structured endpoints for Earth imagery, NASA patents, and gridded Earth temperature anomalies. We will continue to collect and document our APIs—the doorway to our data.
 
-Stay tuned for api.nasa.gov!
-
-_Dan Hammer is a Presidential Innovation Fellow at NASA Headquarters. He can be reached via [email](mailto:daniel.s.hammer@nasa.gov)._
-
+Stay tuned for api.nasa.gov!_Dan Hammer is a Presidential Innovation Fellow at NASA Headquarters. He can be reached via [email](mailto:daniel.s.hammer@nasa.gov)._
 _This article was originally posted on the [open.NASA blog](http://open.nasa.gov/blog/2015/04/13/nasa-apis/)._

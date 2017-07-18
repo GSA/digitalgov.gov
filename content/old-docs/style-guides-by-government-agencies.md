@@ -25,8 +25,7 @@ This page is a collection of style guides created by government agencies. Style 
 [Emerging Infectious Diseases Author Resource Center](https://wwwnc.cdc.gov/eid/page/author-resource-center)
   
 [Emerging Infectious Diseases Journal Editorial Style Guide](https://wwwnc.cdc.gov/eid/pdfs/StyleGuide.pdf) (PDF, 794 KB, 88 pgs)[
-  
-](https://www.cdc.gov/other/plainwriting.html) [Facebook Guidelines and Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/facebook-guidelines.html)[
+  ](https://www.cdc.gov/other/plainwriting.html) [Facebook Guidelines and Best Practices](https://www.cdc.gov/socialmedia/tools/guidelines/facebook-guidelines.html)[
   
 Plain Writing at CDC](https://www.cdc.gov/other/plainwriting.html)
   
@@ -61,8 +60,7 @@ Plain Writing at CDC](https://www.cdc.gov/other/plainwriting.html)
 HealthCare.gov Styleguide](https://styleguide.healthcare.gov/)[
   
 HHS.gov Style Guide
-  
-](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
+  ](https://www.hhs.gov/web/policies-and-standards/style-guide/) [Underage Drinking Prevention National Media Campaign Style Guide](https://www.samhsa.gov/sites/default/files/uad_campaign_style_guide.pdf), Substance Abuse and Mental Health Services Administration (PDF, 285 KB, 4 pgs)
   
 [HHS Web Style Guide](https://www.hhs.gov/web/policies-and-standards/web-style-guide/)
 
@@ -91,15 +89,9 @@ Here&#8217;s a collection of guides created by digital communities of practice a
 [Department of Defense&#8217;s Introduction to Plain Language](http://www.dtic.mil/whs/directives/plainlanguage/PlainLanguageCourse.pdf) (PDF, 407 KB, 44 pgs)[
   
 PLAIN&#8217;s Federal Plain Language Guidelines
-  
-](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh) [Spanish Health Care Terms in the United States
-  
-]({{< relref "spanish-health-care-terms-in-the-united-states.md" >}}) [Spanish Language Style Guide and Glossaries
-  
-]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}) [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms
-  
-]({{< relref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}}) [Spanish Language Style Guide and Glossaries: Grammar
-  
-]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md" >}}) [Spanish Language Style Guide & Glossaries: Information Technology Terms
-  
-]({{< relref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}}) [Spanish Language Style Guide & Glossaries: Internet Resources]({{< relref "spanish-language-style-guide-glossaries-internet-resources.md" >}})
+  ](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh) [Spanish Health Care Terms in the United States
+  ]({{< relref "spanish-health-care-terms-in-the-united-states.md" >}}) [Spanish Language Style Guide and Glossaries
+  ]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}) [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms
+  ]({{< relref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}}) [Spanish Language Style Guide and Glossaries: Grammar
+  ]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md" >}}) [Spanish Language Style Guide & Glossaries: Information Technology Terms
+  ]({{< relref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}}) [Spanish Language Style Guide & Glossaries: Internet Resources]({{< relref "spanish-language-style-guide-glossaries-internet-resources.md" >}})

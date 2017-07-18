@@ -25,6 +25,4 @@ NASA OCIO is the responsible office to develop, maintain, disseminate, and imple
 
 NASA will continue to work on code sharing both as part of OMB M-16-21 and internally to improve code reuse. As a next step for implementing OMB M-16-21, NASA will begin working on creating and posting a code inventory on <a href="https://code.nasa.gov/" target="_blank">code.nasa.gov</a> to meet milestone 2 which is due in Dec 2016.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-code-NASA-homepage.jpg" alt="Screen capture of the code.nasa.gov homepage." >}}
-
-_This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/)._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-code-NASA-homepage.jpg" alt="Screen capture of the code.nasa.gov homepage." >}}_This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/)._

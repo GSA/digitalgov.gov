@@ -12,8 +12,7 @@ tag:
 ---
 
 _[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg" alt="FAA Mobile Website" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/faa-mobile-usa1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Federal Aviation Administration**._ _
-  
-_ 
+  _ 
 
 The <a href="http://www.faa.gov/mobile/" rel="nofollow">FAA launched a mobile site</a> to cater to the needs of its users on the move.
 

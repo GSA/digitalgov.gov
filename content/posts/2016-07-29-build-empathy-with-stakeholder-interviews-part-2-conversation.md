@@ -103,6 +103,4 @@ _These resources provided information for this series. This list does not repres
 
 ##### Video {#video}
 
-  * [Anna Sale’s advice to interviewers](https://youtu.be/oi5ufy3RguM?t=45m28s) on YouTube
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+  * [Anna Sale’s advice to interviewers](https://youtu.be/oi5ufy3RguM?t=45m28s) on YouTube_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

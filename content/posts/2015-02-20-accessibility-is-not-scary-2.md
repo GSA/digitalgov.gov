@@ -17,7 +17,7 @@ The word accessibility breeds misconceptions.
 
 Why? Because accessibility is something that scares you.
 
-[Accessibility](({{< link "categories/accessibility" >}}) is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a [legal mandate](https://www.disability.gov/). Accessibility is a moral obligation.
+[Accessibility]({{< link "categories/accessibility" >}}) is hard. Accessibility needs people with specialized expertise. Accessibility problems often depend on the context of the website or Web application in question. Accessibility takes time. Accessibility is a [legal mandate](https://www.disability.gov/). Accessibility is a moral obligation.
 
 These statements are both true and misconceptions. The misconceptions happen when you try to solve accessibility problems with just accessibility solutions. In that world, accessibility becomes this &#8220;requirement&#8221; or &#8220;list&#8221; that you tack on or create to make it more manageable. You try to corral accessibility into some stage in your process, but it doesn&#8217;t quite fit in anywhere. Because it&#8217;s everywhere. Making those misconceptions disappear happens when you [focus on the people]({{< relref "2014-12-29-crowdsourcing-for-accessibility.md" >}}) and [processes around accessibility](http://section508.gov/). Then, it becomes something you can do.
 

@@ -79,6 +79,4 @@ As we reach this milestone in our program’s history, we wanted to update our l
 
 We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our [branding guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-Branding-Guidance_June-2017.pdf) (PDF, 887 kb) for use of the new logo as well.
 
-We thank you for your continued partnership with FedRAMP.
-
-_This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/67092-2/)._
+We thank you for your continued partnership with FedRAMP._This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/67092-2/)._

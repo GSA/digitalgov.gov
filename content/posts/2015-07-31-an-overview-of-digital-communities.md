@@ -44,6 +44,4 @@ Here is a list of some communities working in the digital arena:
   * [Open Opportunities](https://openopps.WHATEVER/)
   * [PLAIN &#8211; Plain Language Community](http://www.plainlanguage.gov/)
 
-Do you know of additional communities that are doing excellent work in the federal digital space? Tell us in the comments below.
-
-_This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Office of Citizen Services and Innovative Technology or GSA._
+Do you know of additional communities that are doing excellent work in the federal digital space? Tell us in the comments below._This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Office of Citizen Services and Innovative Technology or GSA._

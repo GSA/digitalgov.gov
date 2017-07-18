@@ -29,4 +29,4 @@ In the report, Tamara Gaffney, principal for the Adobe Digital Index said, &#822
 
 For government agencies who don’t buy search traffic, the only sustainable model is to immediately get your sites mobile-friendly and follow the mobile search improvement tips provided by DigitalGov Search [in this article]({{< relref "2015-04-15-mobilegeddon-government-edition.md" >}}).
 
-If your agency needs help or wants to learn more about the trends shaping the future of mobile, please [subscribe to the MobileGov Community of Practice](({{< link "categories/mobile" >}}) and [check out the mobile resources](({{< link "categories/mobile" >}}) and [Trends on Tuesday posts on DigitalGov](({{< link "tag/trends-on-tuesday" >}}) to read more resources on how to prepare for the process.
+If your agency needs help or wants to learn more about the trends shaping the future of mobile, please [subscribe to the MobileGov Community of Practice]({{< link "categories/mobile" >}}) and [check out the mobile resources]({{< link "categories/mobile" >}}) and [Trends on Tuesday posts on DigitalGov]({{< link "tag/trends-on-tuesday" >}}) to read more resources on how to prepare for the process.

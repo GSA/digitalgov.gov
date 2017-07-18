@@ -36,7 +36,6 @@ Prize competitions and challenges have helped both public and private agencies s
 To find additional prize and challenge success stories, click [here](https://www.challenge.gov/success-stories/). And to learn more about public-sector prizes, we encourage you to participate virtually in the October 7 and 8 events! Tune into the livestream of the **October 7 event** from **9:30AM-12:00AM ET** [here](http://spi.georgetown.edu/prizes-live), and register [here]({{< tmp "events/five-years-of-excellence-in-federal-challenge-prize-competitions.md" >}}) for information about the livestream of the **October 8 even**t from **2:00PM-5:30PM ET**. Leading up to, during, and after these events, you can also follow [@ChallengeGOV](https://twitter.com/challengegov) and tweet using the hashtag [#PublicPrizes](https://twitter.com/search?src=typd&q=%23publicprizes) to share your questions and ideas, and to recognize prize and challenge solvers that you know.
 
 _Jenn Gustetic is Assistant Director for Open Innovation at the White House Office of Science and Technology Policy._
-
 _Kelly Olson is the Director of the Challenge.gov program at the General Services Administration._
 
 This article was [originally published on the OSTP blog](https://www.whitehouse.gov/blog/2015/10/05/people-and-teams-power-high-impact-incentive-prizes).

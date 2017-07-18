@@ -26,12 +26,8 @@ Big news in the technology world as Microsoft unveiled <a href="http://www.micro
 
 Since <a href="http://www.google.com/glass/start/" target="_blank">Google Glass</a> was introduced, federal agencies have thought of many possible applications for holographic computing to improve operations in government agencies and government services to the American public. In 2010, the National Oceanic and Atmospheric Administration (NOAA) released an <a href="http://fcw.com/articles/2012/08/15/home-page-management-augmented-reality.aspx?admgarea=TC_GOV20" target="_blank">augmented reality educational kiosk to teach children about pollution</a>. Another suggestion is to use an augmented reality app to <a href="http://www.fedtechmagazine.com/article/2013/10/how-augmented-reality-can-help-federal-agencies" target="_blank">tag a suspicious person digitally</a> as he or she travels through an airport. The digital tag can be shared by Transportation Security Administration security agents as they scan the crowds of travelers.
 
-As holographic computing becomes more easily accessible, federal government APIs will be a valuable source of information to supply the augmented reality apps. The federal government can also be a leader in exploring the frontiers of holographic computing.
-
-_(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_
-
+As holographic computing becomes more easily accessible, federal government APIs will be a valuable source of information to supply the augmented reality apps. The federal government can also be a leader in exploring the frontiers of holographic computing._(**Note**: the mention of HoloLens, Google Glass, Microsoft, and Google were used for illustrative purposes and does not imply my endorsement of these products or the companies.)_
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how <a title="APIs in Government" href="{{< relref "2013-04-30-apis-in-government.md" >}}" target="_blank">government APIs</a> are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via <a href="mailto:%20bill.brantley@wdc.usda.gov" target="_blank">email</a>._
-
 _Dr. William A. Brantley is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at <a href="http://billbrantley.com/" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USDA and GSA._
 
 <div class="copyIcon copy0">
