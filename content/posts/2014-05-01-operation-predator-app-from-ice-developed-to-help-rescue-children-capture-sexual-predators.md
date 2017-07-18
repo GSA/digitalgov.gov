@@ -1,5 +1,5 @@
 ---
-date: 2014-05-01 1:31:01 -0400
+date: 2014-05-01 13:31:01 -0400
 title: '&#8216;Operation Predator’ App from ICE Developed to Help Rescue Children, Capture Sexual Predators'
 summary: 'It&#8217;s disturbing to think about, but essential for all of us to know about: The sexual abuse and exploitation of children. When it comes to rescuing those children and investigating, locating and arresting suspected child predators, &#8220;it&#8217;s a race against the clock,&#8221; says U.S. Immigration and Customs Enforcement&#8217;s (ICE) Acting Director John Sandweg. Luckily there&#8217;s'
 categories:

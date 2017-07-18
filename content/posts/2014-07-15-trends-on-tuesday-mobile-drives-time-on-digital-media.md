@@ -1,5 +1,5 @@
 ---
-date: 2014-07-15 2:28:13 -0400
+date: 2014-07-15 14:28:13 -0400
 title: 'Trends on Tuesday: Mobile Drives Time on Digital Media'
 summary: 'Major mobile milestones in May&mdash;try saying that three times! A new mobile usage report from ComScore revealed two significant shifts to mobile in May: total time spent on digital media and time spent on apps. Here are a few highlights from the report: Mobile platforms&mdash;smartphones and tablets&mdash;accounted for 60% of total time spent on digital'
 authors:

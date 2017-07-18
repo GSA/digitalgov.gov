@@ -1,5 +1,5 @@
 ---
-date: 2015-10-21 1:22:30 -0400
+date: 2015-10-21 13:22:30 -0400
 title: 'Gov Analytics Breakdown #2: Mobile Is Bigger than Ever'
 summary: 'A review of the Digital Analytics Program (DAP) data confirms what many are already saying: Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing. Three things are evident when looking at the breakdown of sessions on federal government websites across device types over the'
 authors:

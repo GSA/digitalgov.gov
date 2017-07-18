@@ -1,5 +1,5 @@
 ---
-date: 2014-06-23 1:00:53 -0400
+date: 2014-06-23 13:00:53 -0400
 title: Hacking the Bureaucracy One Task at a Time
 summary: 'Are you having trouble getting training or professional development opportunities? Federal employees can gain access to a variety of professional development opportunities and work on digital projects across the government through the Open Opportunities program. [youtube=http://www.youtube.com/watch?v=1Mha-SnOfzo&w=600] Open Opportunities are tasks and projects that help you develop and strengthen skills, work with others across agencies to'
 authors:

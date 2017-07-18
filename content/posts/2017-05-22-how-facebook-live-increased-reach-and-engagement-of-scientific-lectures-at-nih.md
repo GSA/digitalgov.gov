@@ -1,5 +1,5 @@
 ---
-date: 2017-05-22 1:00:34 -0400
+date: 2017-05-22 13:00:34 -0400
 title: How Facebook Live Increased Reach and Engagement of Scientific Lectures at NIH
 summary: Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing opioid epidemic in the United States. In response, the National Center for Complementary and Integrative Health (NCCIH) at the National Institutes of Health (NIH) has made funding research on integrative health approaches to pain
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2016-09-06 1:00:05 -0400
+date: 2016-09-06 13:00:05 -0400
 title: 'A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection'
 summary: 'This is post 3 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. &ldquo;All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.&rdquo; &#8211; David Wheeler The simplest of our four requirements was'
 authors:

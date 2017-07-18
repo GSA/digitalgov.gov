@@ -1,5 +1,5 @@
 ---
-date: 2017-04-12 2:19:47 -0400
+date: 2017-04-12 14:19:47 -0400
 title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
 summary: 'Effective May 15, 2017, GSA&rsquo;s DotGov Domain Registration Program will begin providing HSTS Preloading services for federal agencies. HSTS stands for HTTP Strict Transport Security (or HTTPS, for short). This new service helps ensure that visitor communication with .gov websites is not modified or compromised, and hostile networks cannot inject malware, tracking beacons, or otherwise monitor'
 authors:

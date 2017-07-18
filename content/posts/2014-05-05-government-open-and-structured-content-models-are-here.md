@@ -1,5 +1,5 @@
 ---
-date: 2014-05-05 2:17:39 -0400
+date: 2014-05-05 14:17:39 -0400
 title: Government Open and Structured Content Models Are Here!
 summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways. How can you make your content adaptive for efficient delivery to all of these mediums? Structured content and open content models can help you create content that'
 authors:

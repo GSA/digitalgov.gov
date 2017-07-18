@@ -1,5 +1,5 @@
 ---
-date: 2017-06-06 2:02:20 -0400
+date: 2017-06-06 14:02:20 -0400
 title: Opening Public Services to Artificial Intelligence Assistants
 summary: '&ldquo;Hey, Computer, how do I access my public services?&rdquo;  Citizens will soon be able to ask their Intelligent Personal Assistants (IPA) this question through an Emerging Citizen Technology open-sourced pilot program. The purpose of the initiative is to guide dozens of federal programs make public service information available through automated, self-service platforms for the home'
 authors:

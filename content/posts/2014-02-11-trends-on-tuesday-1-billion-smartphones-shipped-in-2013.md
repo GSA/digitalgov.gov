@@ -1,5 +1,5 @@
 ---
-date: 2014-02-11 1:54:16 -0400
+date: 2014-02-11 13:54:16 -0400
 title: 'Trends on Tuesday: 1 Billion Smartphones Shipped in 2013'
 summary: 'Smartphone adoption continues to grow exponentially. IDC recently reported smartphones accounted for 55.1% of worldwide mobile phone shipments last year. Smartphone manufacturers shipped a whopping 1.004 billion smartphones last year, up 38.4% from 2012&#8217;s shipments of 725.3 million, according to data'
 authors:

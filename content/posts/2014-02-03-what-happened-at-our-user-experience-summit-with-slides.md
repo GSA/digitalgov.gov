@@ -1,5 +1,5 @@
 ---
-date: 2014-02-03 3:42:10 -0400
+date: 2014-02-03 15:42:10 -0400
 title: What Happened at Our User Experience Summit (with slides!)
 summary: ' We were hoping for 30, but we got more than 100 user experience professionals and novices on Jan 28, 2014, for our User Experience (UX) Summit at the General Services Administration. The event was sponsored by the User Experience Community of Practice and the'
 authors:

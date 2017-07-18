@@ -1,5 +1,5 @@
 ---
-date: 2016-11-07 1:00:08 -0400
+date: 2016-11-07 13:00:08 -0400
 title: The People’s Code – Now on Code.gov
 summary: 'Summary: Today we&rsquo;re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government&rsquo;s software. Over the past few years, we&rsquo;ve taken unprecedented action to help Americans engage with their Government in new and meaningful ways. Using Vote.gov, citizens can now quickly navigate their state&rsquo;s voter registration process through'
 authors:

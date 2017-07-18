@@ -1,5 +1,5 @@
 ---
-date: 2013-06-26 2:18:22 -0400
+date: 2013-06-26 14:18:22 -0400
 title: Making Multimedia Section 508 Compliant and Accessible
 summary: 'You&#8217;ve seen videos, podcasts, and audio files on your favorite sites&mdash;whether they&#8217;re government, private sector, or entertainment sites. These are often viral media: media clips that are wildly popular, are shared through blogs or e&ndash;mail, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in'
 authors:

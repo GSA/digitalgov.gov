@@ -1,5 +1,5 @@
 ---
-date: 2014-07-01 1:00:38 -0400
+date: 2014-07-01 13:00:38 -0400
 title: 'Using Analytics to Create Change: USA.gov Usability Case Study'
 summary: 'While many people tout the death of the home page, it&rsquo;s still an important piece of the user experience on USA.gov. In 2013, 30% of all sessions on USA.gov included the home page&mdash;that&rsquo;s 8.67 million sessions. The numbers for GobiernoUSA.gov are even higher&mdash;79% of all sessions included the home page. According to Jakob Nielsen, &ldquo;A'
 authors:
