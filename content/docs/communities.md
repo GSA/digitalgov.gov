@@ -1,6 +1,6 @@
 ---
 url: communities/
-type: 1col
+layout: 1col
 date: 2013-11-17 11:12:13 -0400
 title: Communities
 summary: 'Communities unite federal teams with over 12,000 memberships across 16 active mission areas&mdash;the largest and most active inter-agency network of transformative federal government managers&mdash;as critical mission hubs that provide a platform for sharing, developing and implementing strategies. Their contributions are limitless in their impact, including the introduction of citizen voice platforms like Yelp for public services'
