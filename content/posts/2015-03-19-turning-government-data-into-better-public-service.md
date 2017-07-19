@@ -37,8 +37,5 @@ Learn more about the U.S. Digital Service at: <http://www.whitehouse.gov/usds>
   
 Learn more about 18F at: <https://18f.gsa.gov/>
   
-Learn more about the White House Office of Science and Technology Policy at: <https://www.whitehouse.gov/administration/eop/ostp>
-
-_Leah Bannon is part of 18F within GSA; Tim Lowden is a Program Analyst on the Digital Analytics Program within GSA&#8217;s Office of Citizen Services and Innovative Technologies; Ryan Panchadsaram is Deputy U.S. Chief Technology Officer; Charles Worthington is part of OMB&#8217;s U.S. Digital Service HQ._
-
+Learn more about the White House Office of Science and Technology Policy at: <https://www.whitehouse.gov/administration/eop/ostp>_Leah Bannon is part of 18F within GSA; Tim Lowden is a Program Analyst on the Digital Analytics Program within GSA&#8217;s Office of Citizen Services and Innovative Technologies; Ryan Panchadsaram is Deputy U.S. Chief Technology Officer; Charles Worthington is part of OMB&#8217;s U.S. Digital Service HQ._
 _This article was originally posted on the [White House blog](https://www.whitehouse.gov/blog/2015/03/19/turning-government-data-better-public-service)._

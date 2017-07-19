@@ -1,5 +1,5 @@
 ---
-date: 2015-10-07 4:16:43 -0400
+date: 2015-10-07 16:16:43 -0400
 title: Is Your Agency Winning Its Mobile Moments?
 summary: 'Someone has a problem they are trying to solve. They pull out their mobile device and find a solution. They move onto something else. That&#8217;s a mobile moment. Organizations are living and dying by their mobile moments, and a few government agencies are winning theirs. We&#8217;ve written before how the Transportation Security Administration is winning'
 authors:
@@ -25,4 +25,4 @@ Organizations are living and dying by their mobile moments, and a few government
 
 Do you know what your user&#8217;s mobile moments are? Are you winning them? You haven’t made the fatal mistake of trying to shovel your website into a mobile site or app, have you? Testers in the [Federal Mobile CrowdSource Program have evidence]({{< relref "2015-08-31-mobile-content-less-is-more.md" >}}) that suggests you may be shoehorning your content, which leads to poor user experience and makes your website a candidate for the [app graveyard]({{< relref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).
 
-This [month](({{< link "categories/monthly-theme" >}}) we&#8217;re focusing on mobile moments. We are talking about how agencies are [measuring performance]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), [designing]({{< relref "2015-10-13-trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2.md" >}}), journey-mapping, [using open data]({{< relref "2015-10-21-the-data-briefing-300-mobile-moments.md" >}}) and enhancing and [trying to win their mobile moments]({{< relref "2015-10-26-texting-is-another-way-to-make-mobile-moments.md" >}}).
+This [month]({{< link "categories/monthly-theme" >}}) we&#8217;re focusing on mobile moments. We are talking about how agencies are [measuring performance]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}), [designing]({{< relref "2015-10-13-trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2.md" >}}), journey-mapping, [using open data]({{< relref "2015-10-21-the-data-briefing-300-mobile-moments.md" >}}) and enhancing and [trying to win their mobile moments]({{< relref "2015-10-26-texting-is-another-way-to-make-mobile-moments.md" >}}).

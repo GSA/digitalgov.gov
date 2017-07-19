@@ -72,8 +72,5 @@ Missed the webinar? You can watch it below.
 
 [youtube=http://www.youtube.com/watch?v=2RjPMpu_03s&w=600]
 
- 
-
-_**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services and **Debra Harris** is a Public Affairs Specialist at the Defense Finance and Accounting Service._
-
-_If you&#8217;re interested in helping solve government challenges around Responsive Web Design, join the [MobileGov Community of Practice](({{< link "categories/mobile" >}} "Mobile") and participate in [October&#8217;s MobileGov Around the Horn Call]({{< tmp "events/october-mobile-gov-around-the-horn-call.md" >}} "October Mobile Gov Around the Horn Call") where we will discuss responsive Web design performance._
+ _**Ellen Arnold Losey** is the Senior Graphic Designer and Webmaster at the Institute of Museum and Library Services and **Debra Harris** is a Public Affairs Specialist at the Defense Finance and Accounting Service._
+_If you&#8217;re interested in helping solve government challenges around Responsive Web Design, join the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") and participate in [October&#8217;s MobileGov Around the Horn Call]({{< tmp "events/october-mobile-gov-around-the-horn-call.md" >}} "October Mobile Gov Around the Horn Call") where we will discuss responsive Web design performance._

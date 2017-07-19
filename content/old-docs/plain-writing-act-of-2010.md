@@ -22,4 +22,4 @@ authors:
 
  
 
-See all [DigitalGov Resources](({{< relref "resources.md" >}})
+See all [DigitalGov Resources]({{< relref "resources.md" >}})

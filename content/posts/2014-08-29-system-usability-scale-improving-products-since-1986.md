@@ -55,6 +55,4 @@ By alternating negative and positive statements, the SUS questions make people t
 
 Maybe you want to know if people think the smartphone app you created to help fill out taxes is easy to use. After testers finish trying to use the app, you can tack on a SUS survey at the end and substitute the original questionnaire wording &#8220;system” for “mobile app.” Voila! You have created a System Usability Scale survey for your specific product.
 
-Even though the SUS is turning a mature 28 years old this year, its accuracy, reliability, and utility is a good indication that this survey will be around for many years to come.
-
-_**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}}) at GSA._
+Even though the SUS is turning a mature 28 years old this year, its accuracy, reliability, and utility is a good indication that this survey will be around for many years to come._**Georgia Gallavin** is in her last semester at The New School in New York City, earning an MA in Media Studies. She recently finished her internship with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}}) at GSA._

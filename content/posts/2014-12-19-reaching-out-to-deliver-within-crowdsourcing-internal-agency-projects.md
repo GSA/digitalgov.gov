@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-430-Network-nabihariahi-iStock-Thinkstock-178782907.jpg" alt="Network of figures at laptops" caption="" >}} 
 
-Crowdsourcing has created new paths for public interaction with the government, as we&#8217;ve been highlighting on DigitalGov with this month’s [theme](({{< link "categories/monthly-theme" >}}). However, crowdsourcing can also be used to harness support for internal agency projects.
+Crowdsourcing has created new paths for public interaction with the government, as we&#8217;ve been highlighting on DigitalGov with this month’s [theme]({{< link "categories/monthly-theme" >}}). However, crowdsourcing can also be used to harness support for internal agency projects.
 
 The Department of State is using crowdsourcing to find talent within and outside of government to support agency activities. Through the Virtual Student Foreign Service and CrowdWork initiatives, State benefits from new wellsprings of skills and talent.
 

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-02 1:01:30 -0400
+date: 2014-06-02 13:01:30 -0400
 title: openFDA and Drug Adverse Events
 summary: 'openFDA launched today and with it the first publicly available dataset&mdash;Drug Adverse Reaction and Medication Error Reports&mdash;that covers more than 4 million records from 2004 to 2013. The openFDA team compiled 10 things to help developers use this dataset more effectively, including: Interactive examples created by the openFDA team to give perspective to the data. The'
 authors:

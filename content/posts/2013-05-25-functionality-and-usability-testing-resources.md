@@ -1,5 +1,5 @@
 ---
-date: 2013-05-25 4:28:41 -0400
+date: 2013-05-25 16:28:41 -0400
 title: Functionality and Usability Testing Resources
 summary: Functionality testing verifies that the functions of a product or service is working as intended. Each function is tested by providing appropriate input, verifying the output and comparing the actual results with the expected results. Usability testing measures the ease of use and intuitiveness of a product or service by asking users to perform a
 authors:
@@ -46,7 +46,7 @@ Listed below are resources available that further describe and conduct functiona
 **Relevant Communities:**
 
   * <a href="http://ixdadc.ning.com/" rel="nofollow">Interaction Design Association &#8211; DC Chapter</a> local community focused DC group within the larger Interaction Design Association
-  * [Mobile Gov Community of Practice](({{< link "categories/mobile" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
+  * [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile Gov Community Events") &#8211; cross-gov, multidisciplinary community dedicated to building a anytime, anywhere gov for the public
   * <a href="http://www.w3.org/" rel="nofollow">World Wide Web Consortium</a> &#8211; international community that develops Web standards
 
 **Testing Services**

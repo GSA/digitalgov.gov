@@ -1,5 +1,5 @@
 ---
-date: 2011-06-21 3:20:28 -0400
+date: 2011-06-21 15:20:28 -0400
 title: Making Mobile Gov Project
 summary: 'Making Mobile Gov was a three phase multi-media project created by the MobileGov Community of Practice to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals: Educate&mdash;provide resources for mobile evangelists to help inform decision makers on'
 authors:
@@ -15,17 +15,14 @@ tag:
   - US Department of Labor
 ---
 
-_Making Mobile Gov was a three phase multi-media project created by the [MobileGov Community of Practice](({{< link "categories/mobile" >}} "Mobile") to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals:_
+_Making Mobile Gov was a three phase multi-media project created by the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals:_
 
   * _Educate—provide resources for mobile evangelists to help inform decision makers on (1) the criticality of investing in mobile gov to provide public services and (2) the opportunities in leveraging cross-agency strategies._
   * _Develop Resources—create an online resource to share information, policies, technology, and other innovations for agencies to accelerate their mobile efforts._
   * _Build Mobile Gov Community—take advantage of current tools—wikis, online discussion tools, social media—to leverage knowledge, experience, and tools across agency boundaries and to respond to rapid changes in technology and adoption._
-
 _Participants included mobile innovators across the federal government and was sponsored by GSA’s Office of Citizen Services & Innovative Technologies Mobile Program.
   
-_ 
-
-_We have reprinted all materials from the project in this article _(including videos which are at the bottom)_. For current information on mobile projects in the federal government, please join the [MobileGov Community of Practice](({{< link "categories/mobile" >}} "Mobile") or contact community manager, [Jacob Parcell](mailto:jacob.parcell@gsa.gov)._
+_ _We have reprinted all materials from the project in this article _(including videos which are at the bottom)_. For current information on mobile projects in the federal government, please join the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") or contact community manager, [Jacob Parcell](mailto:jacob.parcell@gsa.gov)._
 
 This Making Mobile Gov Project is helping agencies work together to make a more open, innovative government to meet 21st century citizen expectations.
 

@@ -1,5 +1,5 @@
 ---
-date: 2015-09-15 1:15:06 -0400
+date: 2015-09-15 13:15:06 -0400
 title: Are Videos in Spanish the Way To Go?
 summary: ' The answer may surprise you. It takes time, resources and actual money. Why prepare a video for something that can be written about and released in'
 authors:

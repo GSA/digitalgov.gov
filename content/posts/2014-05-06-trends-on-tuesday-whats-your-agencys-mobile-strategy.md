@@ -19,8 +19,5 @@ Now, you may be wondering, “Does my agency fit in that category?” Two years 
 
 In addition, mobile is a changing technology and the Digital Government Strategy created the [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}}) to help agencies plan, develop, test and launch mobile products and services for the public.
 
-The public expects to have access to government information anytime, anywhere. Government agencies can only meet this growing demand if they have a mobile technology strategy in place and keep abreast of [the latest trends](({{< link "tag/trends-on-tuesday" >}}). [Join the Mobile Gov Community of Practice](({{< link "categories/mobile" >}}) to keep up with the latest and greatest government mobile.
-
-_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
-
+The public expects to have access to government information anytime, anywhere. Government agencies can only meet this growing demand if they have a mobile technology strategy in place and keep abreast of [the latest trends]({{< link "tag/trends-on-tuesday" >}}). [Join the Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) to keep up with the latest and greatest government mobile._We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
 _Photo Credit: Lihua Peng/iStock/Thinkstock_

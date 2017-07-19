@@ -1,5 +1,5 @@
 ---
-date: 2017-06-13 2:10:23 -0400
+date: 2017-06-13 14:10:23 -0400
 title: FedRAMP 5th Anniversary
 summary: 'This week we&rsquo;re excited to celebrate FedRAMP&rsquo;s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners&rsquo; evolving needs. FedRAMP'
 authors:
@@ -79,6 +79,4 @@ As we reach this milestone in our program’s history, we wanted to update our l
 
 We worked with our stakeholders to develop a simpler and more flexible logo. As of **June 6**, this is the official FedRAMP logo, including all reference to and use on fedramp.gov and other federal sources of information. We have updated our [branding guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/06/FedRAMP-Branding-Guidance_June-2017.pdf) (PDF, 887 kb) for use of the new logo as well.
 
-We thank you for your continued partnership with FedRAMP.
-
-_This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/67092-2/)._
+We thank you for your continued partnership with FedRAMP._This post was originally published on the [FedRAMP blog](https://www.fedramp.gov/67092-2/)._

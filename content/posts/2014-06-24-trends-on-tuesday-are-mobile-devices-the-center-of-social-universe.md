@@ -1,5 +1,5 @@
 ---
-date: 2014-06-24 3:28:59 -0400
+date: 2014-06-24 15:28:59 -0400
 title: 'Trends on Tuesday: Are Mobile Devices The &#8220;Center&#8221; of Social Universe?'
 summary: 'Mobile devices are moving closer to the center of the social universe, according to this Sproutsocial article. Platforms like Instagram, Pinterest and Twitter are overwhelmingly used on the go. Comscore predicts that there will be increasing monetization via social in the coming years. In the banking industry, where data shows many people have stopped going to'
 authors:
@@ -36,6 +36,4 @@ Of course this is only a drop in the bucket because SoLoMo will become standard 
 
 For government the potential is endless as we move towards the [Internet of Things]({{< relref "2014-04-08-tell-us-your-internet-of-things-challenges.md" >}} "Tell Us Your Internet of Things Challenges"). Gwynne Kostin recently described a [emergency weather alert &#8220;flash mob&#8221;]({{< relref "2014-06-10-digitalgov-irl-6-ways-to-get-it-right.md" >}} "DigitalGov IRL: 6 Ways To Get It Right") she experienced when she and other people around her had their mobile devices ringing in unison with the alert. She said this type of innovation is not just about the mobile device, the social or even better data—it&#8217;s about combining these aspects of DigitalGov in user-friendly ways.
 
-Maybe instead of mobile being the center of the social universe, it&#8217;s the user becoming the center of the DigitalGov universe.
-
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+Maybe instead of mobile being the center of the social universe, it&#8217;s the user becoming the center of the DigitalGov universe._This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

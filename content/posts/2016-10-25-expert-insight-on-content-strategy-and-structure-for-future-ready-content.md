@@ -1,5 +1,5 @@
 ---
-date: 2016-10-25 1:00:10 -0400
+date: 2016-10-25 13:00:10 -0400
 title: Expert Insight on Content Strategy and Structure for Future-Ready Content
 summary: 'We recently interviewed Sara Wachter-Boettcher, author of Content Everywhere: Strategy and Structure for Future-Ready Content. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of Design for Real Life. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and'
 authors:
@@ -28,7 +28,7 @@ Most content on the web is unstructured, meaning it’s just a page with blobs o
 
 An organization determines its content strategy by defining its capability areas and potential customers. Once defined, the organization can focus on developing a unique credibility in a specific area.
 
-An organization can’t have [content strategy](({{< link "tag/content-strategy" >}}) and [structured content](({{< link "tag/open-and-structured-content-models" >}}) until it learns to operate in a structured way.
+An organization can’t have [content strategy]({{< link "tag/content-strategy" >}}) and [structured content]({{< link "tag/open-and-structured-content-models" >}}) until it learns to operate in a structured way.
 
 ## The Broader Story
 

@@ -45,6 +45,4 @@ Rule changes occur as often as once a month, so a hard copy of the FAR is always
 
 The FAR iBook is just the first release planned by GSA. Dan Briest says they plan to issue the [Federal Management Regulation](http://www.gsa.gov/portal/category/21221) (FMR) and the [Federal Travel Regulation](http://www.gsa.gov/portal/content/104790) (FTR) as free iBooks, too.  And you can expect to see the FAR available in the Kindle and Google Play stores soon.
 
-To get your free copy of the FAR iBook, visit [iBooks](https://itunes.apple.com/us/book/federal-acquisition-regulation/id1157047050?ls=1&mt=11) today.
-
-_This post was originally published on the [GSA Blog](http://www.gsa.gov/blog)._
+To get your free copy of the FAR iBook, visit [iBooks](https://itunes.apple.com/us/book/federal-acquisition-regulation/id1157047050?ls=1&mt=11) today._This post was originally published on the [GSA Blog](http://www.gsa.gov/blog)._

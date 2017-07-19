@@ -1,5 +1,5 @@
 ---
-date: 2015-12-01 1:00:53 -0400
+date: 2015-12-01 13:00:53 -0400
 title: 'Analytics.usa.gov: New Features and More Data'
 summary: ' As of writing this post, 25,225 of the 124,878 total visitors on federal government websites participating in the Digital Analytics Program (DAP) are NOT located in the United States. And as a result of'
 authors:
@@ -55,6 +55,4 @@ You can click on the page title, “<a href="http://www.uscis.gov/n-400" target=
 
 Previously, the downloadable files generally only contained the same data that was displayed on <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>. Now, some of the files include hundreds or even thousands of rows, where applicable. We have set lower limits on the larger datasets to remove the “long tail” effect. We list pages that have least 10 visitors on the page in real-time, and domains which have received at least 1,000 visits in 30 days.
 
-Over the coming months, we will continue to expand and improve on <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>. We hope you like what we’ve done so far, but there is more to come. We’re continuously evaluating new ideas, and welcome your feedback <a href="https://github.com/18F/analytics.usa.gov/issues" target="_blank">on GitHub</a> or <a href="mailto:dap@support.WHATEVER" target="_blank">via email</a>. Tell us what you think, and what you’d like to see in the future.
-
-_The <a href="{{< relref "dap.md" >}}" target="_blank">Digital Analytics Program</a> currently tracks analytics data on over 4,000 U.S. federal government websites across 45 agencies. To learn more or to find out how your agency/website can participate in the program, please <a href="mailto:dap@support.WHATEVER" target="_blank">email us</a>. For more on 18F, visit <a href="https://18f.gsa.gov/" target="_blank">18f.gsa.gov</a>._
+Over the coming months, we will continue to expand and improve on <a href="https://analytics.usa.gov/" target="_blank">analytics.usa.gov</a>. We hope you like what we’ve done so far, but there is more to come. We’re continuously evaluating new ideas, and welcome your feedback <a href="https://github.com/18F/analytics.usa.gov/issues" target="_blank">on GitHub</a> or <a href="mailto:dap@support.WHATEVER" target="_blank">via email</a>. Tell us what you think, and what you’d like to see in the future._The <a href="{{< relref "dap.md" >}}" target="_blank">Digital Analytics Program</a> currently tracks analytics data on over 4,000 U.S. federal government websites across 45 agencies. To learn more or to find out how your agency/website can participate in the program, please <a href="mailto:dap@support.WHATEVER" target="_blank">email us</a>. For more on 18F, visit <a href="https://18f.gsa.gov/" target="_blank">18f.gsa.gov</a>._

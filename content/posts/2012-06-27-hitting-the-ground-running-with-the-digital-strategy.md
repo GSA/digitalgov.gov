@@ -20,10 +20,6 @@ Second, on June 13, I convened a set of leaders from across government – inclu
 
 We’ve also tapped the deep reserve of citizen-innovators who want to help build a better government using the power of technology. There has been a groundswell of interest in the <a href="http://www.whitehouse.gov/blog/2012/05/23/wanted-few-good-women-and-men-serve-presidential-innovation-fellows" target="_blank">Presidential Innovation Fellows program</a>, with 700 applicants for Fellows positions, and over 4,000 people in total expressing interest in following (and contributing to) their progress. These fellows will help the government take on critical challenges such as giving individuals access to their personal health records and “liberating” government data to fuel entrepreneurship. The numbers of applications are very encouraging, and US Chief Technology Officer (CTO) Todd Park and I are thrilled to see this type of enthusiasm for the program and the mission it represents.
 
-As we continue our work implementing the strategy, you can track our progress at <a href="http://www.whitehouse.gov/digitalgov" target="_blank">www.whitehouse.gov/digitalgov</a>. Stay tuned – we’re just getting started.
-
-_Steven VanRoekel is the Federal Chief Information Officer – for more information visit <a href="http://www.cio.gov/" target="_blank">www.cio.gov</a>._
-
+As we continue our work implementing the strategy, you can track our progress at <a href="http://www.whitehouse.gov/digitalgov" target="_blank">www.whitehouse.gov/digitalgov</a>. Stay tuned – we’re just getting started._Steven VanRoekel is the Federal Chief Information Officer – for more information visit <a href="http://www.cio.gov/" target="_blank">www.cio.gov</a>._
 _Reblogged from <a href="http://www.whitehouse.gov/blog/2012/06/21/hitting-ground-running-digital-strategy" target="_blank">Whitehouse.gov</a>._
-
 __

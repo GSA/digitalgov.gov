@@ -81,6 +81,4 @@ Project Hope
   
 [@agencychief](https://twitter.com/agencychief)
   
-[@microsoft](https://twitter.com/microsoft)
-
-_Jack Bienko is the Deputy for Entrepreneurship Education at the U.S. Small Business Administration._
+[@microsoft](https://twitter.com/microsoft)_Jack Bienko is the Deputy for Entrepreneurship Education at the U.S. Small Business Administration._

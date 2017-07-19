@@ -1,5 +1,5 @@
 ---
-date: 2016-01-04 1:00:44 -0400
+date: 2016-01-04 13:00:44 -0400
 title: 'A Sense of Purpose: Strong Communities Can Overcome Big Challenges'
 summary: 'Cook-offs, bike rides, parades and dance parties&mdash;these are not the traditional public hearing-style events for which government agencies are known. But these events helped to fuel the Department of Housing and Urban Development&rsquo;s (HUD) Rebuild by Design Challenge (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged'
 authors:
@@ -63,12 +63,7 @@ A community grows and takes shape somewhat naturally, but Bacon and Davis also o
 
 Finally, Bacon and Davis emphasized that the positive impact doesn’t end once a winner is announced. The community formed during a challenge can help continue the work after the competition is over.
 
-[youtube=http://www.youtube.com/watch?v=9JhOZP61_XI&w=600]
-
-_Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ 
-
-_The [Post-Prize Industry and Post-Prize Impact webinar]({{< relref "events/module-7-post-prize-industry-and-the-post-prize-impact.md" >}}) will take place on Jan. 14._
-
+[youtube=http://www.youtube.com/watch?v=9JhOZP61_XI&w=600]_Next up in their training series, Challenge.gov will cover the importance of capitalizing on the momentum of a challenge after a prize has been awarded._ _The [Post-Prize Industry and Post-Prize Impact webinar]({{< relref "events/module-7-post-prize-industry-and-the-post-prize-impact.md" >}}) will take place on Jan. 14._
 _These Challenge.gov training modules are part of a seven-part expert training series, [How to Design & Operate Prizes to Maximize Success]({{< relref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}), hosted by [DigitalGov University]({{< relref "digitalgov-university.md" >}})._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

@@ -43,8 +43,5 @@ The BLS website will feature even more data visualizations soon. Check the [BLS 
 
 We share many of our data visualizations on Twitter, so follow us [@BLS_gov](https://twitter.com/BLS_gov). You also can [sign up to receive email alerts](https://subscriptions.bls.gov/accounts/USDOLBLS/subscriber/topics) for TED, Spotlight on Statistics, and our other publications.
 
-And if you have created a great visualization of BLS data, please share it with us and the readers of this blog!
-
-_Erica L. Groshen is the Commissioner of Labor Statistics._
-
+And if you have created a great visualization of BLS data, please share it with us and the readers of this blog!_Erica L. Groshen is the Commissioner of Labor Statistics._
 _This article was [originally posted on the Bureau of Labor Statistics blog](http://blogs.bls.gov/blog/2015/05/21/visualizing-bls-data-to-improve-understanding/)._

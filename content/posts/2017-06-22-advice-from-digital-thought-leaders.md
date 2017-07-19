@@ -1,5 +1,5 @@
 ---
-date: 2017-06-22 3:31:18 -0400
+date: 2017-06-22 15:31:18 -0400
 title: Advice From Digital Thought Leaders
 summary: 'Many know that digital tools have become indispensable for connecting with many audiences&mdash;but we also know that what&rsquo;s available in the digital realm is always changing. So how do you know what tools are best for your purpose? And how do you plan for your organization&rsquo;s digital future when the pace of change is so'
 authors:
@@ -68,6 +68,4 @@ Many know that digital tools have become indispensable for connecting with many 
 
 We remain committed to advocating for and participating in the future of digital media, and we know that that many of our partners are also using innovative communication tools.
 
-**We want to hear from you. Join the discussion on <a class="external-link" href="https://www.facebook.com/HIVgov/" target="_blank" rel="noopener noreferrer">Facebook</a> and share your ideas.**
-
-_This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/advice-digital-thought-leaders)._
+**We want to hear from you. Join the discussion on <a class="external-link" href="https://www.facebook.com/HIVgov/" target="_blank" rel="noopener noreferrer">Facebook</a> and share your ideas.**_This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/advice-digital-thought-leaders)._

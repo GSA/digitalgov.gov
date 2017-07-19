@@ -24,6 +24,4 @@ One of the features of the mobile site is that it provides push notifications vi
 
 To receive these notifications, contractors must register their cell phone number [here](https://www.ebuy.gsa.gov/advantage/ebuy/start_page.do).
 
-You can view other mobile products like the [eBuy website](https://www.ebuy.gsa.gov/mobile/login) on the [USA.gov Apps Gallery](http://apps.usa.gov/).
-
-_Michael Niedzwiecki_
+You can view other mobile products like the [eBuy website](https://www.ebuy.gsa.gov/mobile/login) on the [USA.gov Apps Gallery](http://apps.usa.gov/)._Michael Niedzwiecki_

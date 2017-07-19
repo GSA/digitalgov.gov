@@ -1,5 +1,5 @@
 ---
-date: 2014-05-21 3:00:05 -0400
+date: 2014-05-21 15:00:05 -0400
 title: Ignite with Us
 summary: 'Have a DigitalGov success?&mdash;published an API? Got buy-in from leadership? Changed a part of your customer-service paradigm? Developed a cool dashboard? Got the app out the door? Heck! Have you prototyped a wearable, drivable or flyable? Have a DigitalGov opinion?&mdash;think we should be focusing more or less on something? Have an idea on how to'
 authors:

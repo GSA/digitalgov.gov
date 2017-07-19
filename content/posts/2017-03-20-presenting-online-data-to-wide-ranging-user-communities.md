@@ -37,7 +37,7 @@ Under “Which Data Tool Should I Use?,” the site presents multiple [illustrat
 
 **Providing Diversified Training**
 
-When it comes to presenting data online to the general public, one-size clearly will not fit all. Government web designers must go the extra mile to develop ways to make sure that data is presented in ways that are useful, [understandable]({{< relref "plain-language-web-writing-tips.md" >}}), and [geared toward the abilities of potential users](({{< link "categories/accessibility" >}}).
+When it comes to presenting data online to the general public, one-size clearly will not fit all. Government web designers must go the extra mile to develop ways to make sure that data is presented in ways that are useful, [understandable]({{< relref "plain-language-web-writing-tips.md" >}}), and [geared toward the abilities of potential users]({{< link "categories/accessibility" >}}).
 
 **Broad-based Online Data: One Size Does Not Fit All**
 

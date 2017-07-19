@@ -1,5 +1,5 @@
 ---
-date: 2015-07-02 1:00:51 -0400
+date: 2015-07-02 13:00:51 -0400
 title: Celebrating American History with Federal Apps
 summary: 'Summer is here, which means it is time for the biggest holiday of the summer&mdash;Fourth of July! Independence Day is a happy time of year: BBQs, picnics, pools, sunshine and fireworks. Of course, the foundation of our celebration is American history, and there are plenty of excellent federal apps focused on this area. The American'
 authors:
@@ -38,6 +38,4 @@ The [Smithsonian Institution](http://www.si.edu/) is a curator of history in man
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-NMAAHC-app-android-phone.jpg" alt="National Museum of African American History and Culture (NMAAHC) app's home screen as seen on an Android phone" >}}
 
-No matter where you celebrate the 4th, you can check out these federal apps that highlight American history from a variety of angles.
-
-_You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+No matter where you celebrate the 4th, you can check out these federal apps that highlight American history from a variety of angles._You can download these and other government apps through the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._

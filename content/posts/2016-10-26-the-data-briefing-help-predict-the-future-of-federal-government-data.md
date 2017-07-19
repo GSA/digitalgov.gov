@@ -1,5 +1,5 @@
 ---
-date: 2016-10-26 1:00:55 -0400
+date: 2016-10-26 13:00:55 -0400
 title: 'The Data Briefing: Help Predict the Future of Federal Government Data'
 summary: 'In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government&rsquo;s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber'
 authors:
@@ -59,9 +59,6 @@ I want to invite you, the reader, to also send in your predictions for the futur
 **Other** – What else is appearing on the horizon that the Federal government should prepare for? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Blue-glowing-new-futuristic-technologies-sakkmesterke-iStock-Thinkstock-537821026.jpg" alt="Blue glowing new futuristic technologies, computer generated abstract background." caption="" >}} 
 
 _(Twitter and Netflix are used for illustrative purposes only and do not imply endorsement by the U.S. Federal government or any specific government agencies.)_
-
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
-
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._
-
 _Editor&#8217;s note: This morning, we announced the launch of 2 new Communities—Artificial Intelligence for Citizen Services, and Virtual/Augmented Reality Community. [Find out more about them]({{< relref "2016-10-26-gsa-launches-new-ai-virtual-reality-and-authentication-programs.md" >}}) and how you can join._

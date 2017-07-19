@@ -37,14 +37,14 @@ Finally, we shared the survey data with the entire staff, and we instituted an a
 
 This year, we added a new core question, asking how easy it is for you to use our programs. We learned that we have some work to do in this area, particularly with more technical programs such as [FedRAMP (cloud computing)](https://www.fedramp.gov/), [Electronic Capital Planning and Investment Control (eCPIC)]({{< relref "electronic-capital-planning-and-investment-control-ecpic.md" >}}), and [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}). In response, these programs now offer more frequent training, agency consultations and/or “office hours” for customers to call in and get one-on-one assistance.
 
-In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class]({{< relref "digitalgov-university.md" >}}). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement]({{< relref "federal-compatible-terms-of-service-agreements.md" >}}). We’re streamlining our training library with [event recap articles](({{< link "tag/recap" >}}), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/user/HowTogov/playlists) to make it easier to find past events.
+In the fast-moving tech world, it’s important to be proactive, so when a listserv conversation highlights a knowledge gap, we build a [training class]({{< relref "digitalgov-university.md" >}}). When an agency wants to try a new social tool, we partner with them to implement a [federal-friendly terms of service agreement]({{< relref "federal-compatible-terms-of-service-agreements.md" >}}). We’re streamlining our training library with [event recap articles]({{< link "tag/recap" >}}), to help you quickly review the highlights if you don’t have time to watch an entire event. Finally, we’re curating [topical playlists of video content](https://www.youtube.com/user/HowTogov/playlists) to make it easier to find past events.
 
 ## What’s Working Well
 
 During the the past three years, the GCXi showed us that our agency customers, those colleagues who work at other government agencies:
 
   * Depend on the [Communities of Practice]({{< relref "communities.md" >}}) we sponsor to network, learn from their peers and keep up-to-date on requirements and best practices. Thousands of you are listening and learning via our listservs, even if you don’t speak up.
-  * Want to consume content (including [webinars and training from DigitalGov University](({{< link "events" >}})) when and where it’s most convenient for you (this is particularly important for people outside of DC).
+  * Want to consume content (including [webinars and training from DigitalGov University]({{< link "events" >}})) when and where it’s most convenient for you (this is particularly important for people outside of DC).
   * Appreciate [services]({{< relref "services.md" >}}) tailored to government—easy, free, timely and convenient.
   * Love the open sharing of data, through the new [analytics dashboard](https://analytics.usa.gov/), for example, with its ability for cross-agency benchmarking.
 

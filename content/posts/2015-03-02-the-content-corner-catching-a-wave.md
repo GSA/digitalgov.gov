@@ -1,5 +1,5 @@
 ---
-date: 2015-03-02 2:01:48 -0400
+date: 2015-03-02 14:01:48 -0400
 title: 'The Content Corner: Catching a Wave'
 summary: 'As we all continue to wrestle with the &ldquo;content beast&rdquo;, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine&rsquo;s Day and Presidents&rsquo;'
 authors:
@@ -41,8 +41,5 @@ But let’s be honest, among the hundreds of federal agencies, opportunities suc
 
 You might have good intentions when crafting content to capitalize on a trending event, but always be sure it fits within your larger strategy and speaks to your audience. Planning and vetting (including an [editorial calendar](http://contentmarketinginstitute.com/2010/08/content-marketing-editorial-calendar/)) are key tasks that will help you avoid these serious content blunders.
 
-Trending events or special days can be a great way to generate fresh content and raise awareness of your agency’s brand while building an even deeper connection with your audience. In order to be effective, these pairings must be just like the rest of your content: authentic and applicable. We must accept who we are as an agency and focus on our agency’s content strategy to ensure any events we might want to capitalize on fit that strategy. By chasing a trend without a strategy or without it being a good fit, chances are the amount of damage that can be done to your brand’s integrity will outweigh the benefits. Keep an eye out for the right wave, be prepared to ride it, and know when to get out if the tide gets too rough.
-
-_You’ve just finished reading the third article from a new column called [The Content Corner](({{< link "tag/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
-
+Trending events or special days can be a great way to generate fresh content and raise awareness of your agency’s brand while building an even deeper connection with your audience. In order to be effective, these pairings must be just like the rest of your content: authentic and applicable. We must accept who we are as an agency and focus on our agency’s content strategy to ensure any events we might want to capitalize on fit that strategy. By chasing a trend without a strategy or without it being a good fit, chances are the amount of damage that can be done to your brand’s integrity will outweigh the benefits. Keep an eye out for the right wave, be prepared to ride it, and know when to get out if the tide gets too rough._You’ve just finished reading the third article from a new column called [The Content Corner]({{< link "tag/the-content-corner" >}}). This column will focus on helping solve the main issues facing digital professionals including producing enough content and making that content engaging._
 _**Tyrus “Ty” Manuel** is an IT Specialist with the Administrative Office of the U.S. Courts and has been passionate about digital content since at least 1994._

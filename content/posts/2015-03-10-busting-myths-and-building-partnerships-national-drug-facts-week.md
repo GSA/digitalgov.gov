@@ -71,6 +71,4 @@ The website also has a “[What’s New and Cool](http://teens.drugabuse.gov/nat
 
 Other partners used social media to reach teens: the National Association of County and City Health Officials (NACCHO) partnered with Students Against Destructive Decisions (SADD) to host an hour-long Twitter chat on January 29th from the [@NACCHOalerts](https://twitter.com/NACCHOalerts) account using the hashtag [#NDFW](https://twitter.com/hashtag/ndfw).
 
-“Collaboration with social media partners and an emphasis on creating and sharing highly visual content were key to our success on social media during NDFW,” said Smith.
-
-_Each year, NDFW is powered by six people within NIDA’s Public Information and Liaison Branch, in addition to their normal duties. If you would to know more about NDFW, please contact [Sara (Crocoll) Smith](mailto:sara.crocoll@nih.gov)._
+“Collaboration with social media partners and an emphasis on creating and sharing highly visual content were key to our success on social media during NDFW,” said Smith._Each year, NDFW is powered by six people within NIDA’s Public Information and Liaison Branch, in addition to their normal duties. If you would to know more about NDFW, please contact [Sara (Crocoll) Smith](mailto:sara.crocoll@nih.gov)._

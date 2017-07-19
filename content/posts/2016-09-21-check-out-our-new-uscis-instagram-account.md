@@ -1,5 +1,5 @@
 ---
-date: 2016-09-21 1:00:08 -0400
+date: 2016-09-21 13:00:08 -0400
 title: Check Out Our New USCIS Instagram Account!
 summary: We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle @USCIS and @USCIS_ES (Spanish version) and will share photos, graphics and videos to highlight our vital
 authors:
@@ -45,8 +45,4 @@ Be sure to follow [@USCIS](https://www.instagram.com/uscis) and <span lang="es" 
       A post shared by USCIS (@uscis_es) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-09-16T14:08:36+00:00">Sep 16, 2016 at 7:08am PDT</time>
     </p>
   </div>
-</blockquote>
-
-
-
-_This article was also posted by USCIS on their blogs—[Beacon](http://blog.uscis.gov/) and <span lang="es" title="Spanish"><a href="http://blog-es.uscis.gov/">Compás</a></span>_.
+</blockquote>_This article was also posted by USCIS on their blogs—[Beacon](http://blog.uscis.gov/) and <span lang="es" title="Spanish"><a href="http://blog-es.uscis.gov/">Compás</a></span>_.

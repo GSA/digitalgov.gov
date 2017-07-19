@@ -39,6 +39,4 @@ Many Institutes and Centers at the NIH have led successful Twitter chats in coll
 
 These conversations provide important opportunities for spreading the word about our health resources. At NCCIH, we hope to continue this trend in reach that we’re seeing as we are working with our communities on the topics that mean the most to them, answering their questions, and sharing the information they want and need.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/588-x-556-NIH-NCCIH-April-29-2015-Age-Well-Twitter-Chat-link-Storify-tweet.jpg" alt="NIH NCCIH Age Well Twitter Chat link to Storify" >}}](https://twitter.com/NIH_NCCIH/status/594204933395714049)
-
-_Yasmine Kloth is a Digital and Social Media Strategist and the National Center for Complementary and Integrative Health at the National Institutes of Health._
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/588-x-556-NIH-NCCIH-April-29-2015-Age-Well-Twitter-Chat-link-Storify-tweet.jpg" alt="NIH NCCIH Age Well Twitter Chat link to Storify" >}}](https://twitter.com/NIH_NCCIH/status/594204933395714049)_Yasmine Kloth is a Digital and Social Media Strategist and the National Center for Complementary and Integrative Health at the National Institutes of Health._

@@ -1,5 +1,5 @@
 ---
-date: 2012-10-02 2:29:55 -0400
+date: 2012-10-02 14:29:55 -0400
 title: Taking Cancer.gov Mobile
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Cancer Institute. The National Cancer Institute (NCI), the nation&#8217;s leading cancer research agency and part of the National Institutes of Health has a legislative mandate to collect, organize, and disseminate the'
 authors:
@@ -13,8 +13,7 @@ tag:
 ---
 
 _[<img class="alignright size-medium wp-image-95452" alt="NCI Mobile" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_nci1-166x250.jpg" width="166" height="250" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_nci1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by <a href="http://www.cancer.gov/" rel="nofollow">National Cancer Institute</a>.__
-  
-_ 
+  _ 
 
 The National Cancer Institute (NCI), the nation&#8217;s leading cancer research agency and part of the National Institutes of Health has a legislative mandate to collect, organize, and disseminate the results of cancer research to cancer patients and their friends and family, health professionals, and to the cancer research community at large. NCI developed a mobile strategy for enterprise level communications activities based on user research and web analytics which resulted in the development of a mobile version of NCI&#8217;s enterprise website, <a href="http://m.cancer.gov" rel="nofollow">m.cancer.gov.</a>
 
@@ -22,7 +21,7 @@ The National Cancer Institute (NCI), the nation&#8217;s leading cancer research 
 
 Since 2009, there has been an onslaught of data related to the growing number of people using mobile devices to access information. <a href="http://pewinternet.org/Reports/2010/Mobile-Access-2010.aspx" rel="nofollow">Pew Internet and American Life Project</a> data from 2010 showed that 40% of adults used the Internet, email, or instant messaging on a mobile phone. More recent statistics from Pew also shows nearly half of American adults are smartphone users and 87% of smart phone users say they use their phone to access internet or email. The Pew 2010 study also shows that African-Americans and Latinos are more likely to depend on mobile phones for internet access. Our own web analytics data showed significant increases in traffic from mobile devices.
 
-These general trends are also reflected in research about how people are seeking health information. The development of mobile health (_mhealth)_ as an industry is evidence of the growing recognition of the role of mobile devices in improving health.
+These general trends are also reflected in research about how people are seeking health information. The development of mobile health (_mhealth_) as an industry is evidence of the growing recognition of the role of mobile devices in improving health.
 
 ## What We Did
 
@@ -55,7 +54,7 @@ We are also thrilled that m.cancer.gov was named among the top 10 government mob
 
 ## What&#8217;s Next
 
-Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API](/API)-based feed.
+Were working with content owners to bring more content into the structure for mobile, and we plan to turn our structured XML content in an [API]({{< link "tag/api" >}})-based feed.
 
 ## Contact
 

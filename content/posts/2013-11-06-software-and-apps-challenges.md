@@ -1,5 +1,5 @@
 ---
-date: 2013-11-06 2:13:29 -0400
+date: 2013-11-06 14:13:29 -0400
 title: Software and Apps Challenges
 summary: 'Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. One type of competition is software and apps challenges, where solvers are asked to develop specific software or other code-based technical solutions, such as websites, mobile applications, or algorithms. Here you&rsquo;ll find tips'
 authors:
@@ -53,12 +53,10 @@ A software/apps challenge is when an organization asks the public to create soft
 </h2>
 
 [Apps for Vehicles
-  
-](http://appsforvehicles.challengepost.com/) The &#8220;Apps for Vehicles&#8221; challenge, part of the Department of Energy&#8217;s &#8220;Energy Data Initiative,&#8221; was designed to improve safety and fuel efficiency through data innovation. Entrants were asked to use vehicle open data, such as engine speed, brake position, and distance covered to create novel ways to improve safety and efficiency. One of the winning entries, MyCarma, uses the gas mileage data of each individual user to create a personal fuel economy sticker, and can offer other makes/models that may save money in the future based on the user&#8217;s driving style. The DOE awarded $16,000 in prizes to multiple winners for the first phase of the competition.
+  ](http://appsforvehicles.challengepost.com/) The &#8220;Apps for Vehicles&#8221; challenge, part of the Department of Energy&#8217;s &#8220;Energy Data Initiative,&#8221; was designed to improve safety and fuel efficiency through data innovation. Entrants were asked to use vehicle open data, such as engine speed, brake position, and distance covered to create novel ways to improve safety and efficiency. One of the winning entries, MyCarma, uses the gas mileage data of each individual user to create a personal fuel economy sticker, and can offer other makes/models that may save money in the future based on the user&#8217;s driving style. The DOE awarded $16,000 in prizes to multiple winners for the first phase of the competition.
 
 [DTRA Algorithm Challenge
-  
-](https://www.innocentive.com/ar/challenge/9933138) The Defense Threat Reduction Agency issued this challenge to develop an algorithm with the goal of specific identification of organisms from a stream of DNA sequences. An incredible 2,700+ entries were submitted in hopes of winning a portion of the $1 million in prize money.
+  ](https://www.innocentive.com/ar/challenge/9933138) The Defense Threat Reduction Agency issued this challenge to develop an algorithm with the goal of specific identification of organisms from a stream of DNA sequences. An incredible 2,700+ entries were submitted in hopes of winning a portion of the $1 million in prize money.
 
 [CMS Provider Screening Challenge](http://www.topcoder.com/cms/medicaid-enrollment-portal/)
   
@@ -131,11 +129,8 @@ ChallengePost powers the Challenge.gov list of federal challenge competitions an
 InnoCentive has run more than 1,600 challenges. Government clients include NASA, the State Department, DoD, EPA, the Air Force Research Lab, and the Defense Threat Reduction Agency. Challenges can be purchased a la carte, or in bundles. InnoCentive posts the challenge, answers questions from solvers, transfers prize money to winners, and messages all who are registered on the site about each new challenge.
 
 [Kaggle
-  
-](http://www.kaggle.com/) Kaggle is the world&#8217;s largest community of data scientists. They compete with each other to solve complex problems, and the top competitors get invited to consult on interesting projects from some of the world&#8217;s biggest companies through Kaggle Connect. Kaggle has a proven track-record of solving real-world problems across a diverse array of industries including life sciences, financial services, energy, information technology, and retail.
+  ](http://www.kaggle.com/) Kaggle is the world&#8217;s largest community of data scientists. They compete with each other to solve complex problems, and the top competitors get invited to consult on interesting projects from some of the world&#8217;s biggest companies through Kaggle Connect. Kaggle has a proven track-record of solving real-world problems across a diverse array of industries including life sciences, financial services, energy, information technology, and retail.
 
 [TopCoder](http://www.topcoder.com/) (GS)
   
-A Web community of software developers and digital designers. Challenge sponsors pose a problem to be solved by the community. This platform has been used by the Department of Defense and NASA among others to host a number of challenges that require expertise in software development and Web design.
-
-_If you are a vendor who provides a software/apps challenge platform and would like to be included in this list, contact Karen Trebon via [email](mailto:karen.trebon@gsa.gov)._
+A Web community of software developers and digital designers. Challenge sponsors pose a problem to be solved by the community. This platform has been used by the Department of Defense and NASA among others to host a number of challenges that require expertise in software development and Web design._If you are a vendor who provides a software/apps challenge platform and would like to be included in this list, contact Karen Trebon via [email](mailto:karen.trebon@gsa.gov)._

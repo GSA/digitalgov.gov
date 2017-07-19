@@ -57,17 +57,13 @@ Using a tool like [Interact](https://interact.gsa.gov/) provides a great way to 
 
 **5. Things that drive up cost – Schedule slips and procurement delays.** 
 
-Industry budgets a certain amount of money each year for bid and proposal costs. As government delays the process, it extends the time industry must spend to pursue the work. It also comes with opportunity costs for not being able to bid on other work. This isn’t helpful if we want highly qualified partners who can bring us innovative solutions.
-
-_Requiring industry to provide references and agencies to fill out questionnaires on past performance_.
+Industry budgets a certain amount of money each year for bid and proposal costs. As government delays the process, it extends the time industry must spend to pursue the work. It also comes with opportunity costs for not being able to bid on other work. This isn’t helpful if we want highly qualified partners who can bring us innovative solutions._Requiring industry to provide references and agencies to fill out questionnaires on past performance_.
   
 Industry questioned the value of government requiring past performance information as part of the evaluation process in the manner it typically uses. We all agree that both experience and past performance are critical factors. For the governmentwide contracts, the value is to offer qualified companies with strong program management and technical capabilities, so experience and past performance are both critical parts of the qualification process.
 
 Systems like [Contractor Performance Assessment Reporting System (CPARS)](https://www.cpars.gov/) and [Past Performance Information Retrieval System (PPIRS)](https://www.ppirs.gov/) can be used for at least part of what the government needs in the evaluation process, but another alternative offered was reciprocity across government in sharing contract Quality Assurance Surveillance Plans.
 
-Industry estimated that the process used by the OASIS and Alliant 2 teams (a combination of FPDS-NG reports, CPARS/PPIRS reports, and past performance surveys only if a CPARS/PPIRS report was not available) saved between 40-70% in offeror bid and proposal costs.
-
-_Guessing at the cost of the requirement_.
+Industry estimated that the process used by the OASIS and Alliant 2 teams (a combination of FPDS-NG reports, CPARS/PPIRS reports, and past performance surveys only if a CPARS/PPIRS report was not available) saved between 40-70% in offeror bid and proposal costs._Guessing at the cost of the requirement_.
   
 Industry shared that a best practice is to publish the range of estimated costs the government thinks (and is willing to spend) to do the job directly in the solicitation. Part of the rationale for this is that the government isn’t writing clear requirements and isn’t sharing enough information for industry to be able to “guess” what the government is asking. Another reason this makes sense is that the amount that the government is spending is already public. Rather than falling into the “Price to Win” trap, leveling the playing field allows the government to select what is truly the best value.
 

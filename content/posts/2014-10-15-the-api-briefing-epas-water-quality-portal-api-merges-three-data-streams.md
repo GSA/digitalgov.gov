@@ -25,10 +25,7 @@ The EPA’s Water Quality Portal (WQP) is a cooperative effort between the EPA, 
 
 The WQP API can be queried by either longitude/latitude or Federal Information Processing Standards (FIPS) geographical codes for mapping applications. Consult the [User Guide](http://www.waterqualitydata.us/portal_userguide.jsp) to interpret the other reported sampling data. Output can be specified as an XML file, Excel file, text file, or [Keyhole Markup Language](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) (KML) file.
 
-The WQP is a great API because it fulfills a vital public service and demonstrates how organizations can combine data assets into a single, easily-accessible API portal. Access to clean water is an important issue which should spawn many great public service apps.
-
-_*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}}) for more information._
-
+The WQP is a great API because it fulfills a vital public service and demonstrates how organizations can combine data assets into a single, easily-accessible API portal. Access to clean water is an important issue which should spawn many great public service apps._*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< relref "2013-04-30-apis-in-government.md" >}}) for more information._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:William.Brantley@opm.gov)_._
 
 **_Dr. William A. Brantley_**_, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_._

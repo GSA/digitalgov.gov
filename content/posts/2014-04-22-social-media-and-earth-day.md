@@ -1,5 +1,5 @@
 ---
-date: 2014-04-22 2:40:10 -0400
+date: 2014-04-22 14:40:10 -0400
 title: Ten Earth Day Activities in Digital Government
 summary: 'On this Earth Day, federal social media managers are hard at work, sharing and promoting what government and citizens can do to protect the environment. We&rsquo;ve compiled a sample of the activities that also show how different agencies are using different social media tools in support of a common goal. The United States Environmental Protection'
 authors:
@@ -80,6 +80,4 @@ Other agencies getting in on the digital Earth Day activities include:
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-660-Earth-Day-VHA-Veterans-Health-Administration-from-Facebook-post.jpg" alt="600-x-660-Earth-Day-VHA-Veterans-Health-Administration-from-Facebook-post" >}}](https://www.facebook.com/VeteransHealth/photos/a.73949060773.98661.40182150773/10152475109795774/)
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/500-x-500-Earth-Day-Peace-Corps-Mapping-10-Grassroots-Ways-Peace-Corps-Volunteers-Make-Every-Day-Earth-Day-infographic-from-website.jpg" alt="500-x-500-Earth-Day-Peace-Corps\---Mapping\---10-Grassroots-Ways-Peace-Corps-Volunteers-Make-Every-Day-Earth-Day-infographic-from-website" >}}](http://www.peacecorps.gov/today/influence/earthday/)
-
-_These are just a few of the great activities happening today in digital government. We encourage you to share your favorites in the Comments section._
+[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/500-x-500-Earth-Day-Peace-Corps-Mapping-10-Grassroots-Ways-Peace-Corps-Volunteers-Make-Every-Day-Earth-Day-infographic-from-website.jpg" alt="500-x-500-Earth-Day-Peace-Corps\---Mapping\---10-Grassroots-Ways-Peace-Corps-Volunteers-Make-Every-Day-Earth-Day-infographic-from-website" >}}](http://www.peacecorps.gov/today/influence/earthday/)_These are just a few of the great activities happening today in digital government. We encourage you to share your favorites in the Comments section._

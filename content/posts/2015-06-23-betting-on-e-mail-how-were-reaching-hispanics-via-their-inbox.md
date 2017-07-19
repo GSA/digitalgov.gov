@@ -13,7 +13,7 @@ tag:
   - multilingual
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}}
 
 Driving visitors to a destination means reaching your users where they are at.
 
@@ -46,7 +46,7 @@ Below is an example of a “manual send” e-mail sent in late May about a natio
 
 We evaluate every message we send by reviewing our data. Unique open rates—both numbers and percentages—help us evaluate what content performed well. We know, for example, that we have a lot of visitors to our GobiernoUSA.gov site seeking information on immigration. We align that information with our e-mail sends, and the open rates and click-through rates prove the value of knowing what people are interested in. At the end of every month, our internal Performance Measurement Team provides us with a detailed report of how our messages performed. This is valuable information that informs our [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) moving forward.
 
-We combine the data from email behavior with data from website visits and [calls to our contact center](http://www.usa.gov/phone.shtml), [1-844-USA-GOV1](tel:+18448724681). All of these factors determine what we take our time to write and send to our email lists.
+We combine the data from email behavior with data from website visits and [calls to our contact center](http://www.usa.gov/phone.shtml), [1-844-USA-GOV1](tel:1-844-872-4681). All of these factors determine what we take our time to write and send to our email lists.
 
 ## Partnerships and Opportunities
 

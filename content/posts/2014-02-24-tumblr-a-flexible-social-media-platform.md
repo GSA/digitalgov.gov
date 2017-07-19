@@ -25,7 +25,7 @@ Looking to leverage that, Gorscak launched a [Stopbullying.gov pilot](http://sto
 
 Since 2011, when USA.gov established the [first federal Tumblr](http://blog.usa.gov/), several agencies have signed up to use the platform &#8212; each approaching the tool slightly differently to meet their own agency missions.
 
-On February 19, a group of four federal Tumblrarians &#8212; [Jessica Milcetich from USA.gov](http://blog.usa.gov/), [Darren Cole from the National Archives](http://todaysdocument.tumblr.com/), [Gorscak from HHS](http://stopbullying.tumblr.com/) and [Michelle Thomas from BLM](http://mypubliclands.tumblr.com/), joined [DigitalGov University](({{< link "events" >}}) to showcase how they each use Tumblr in a different way to support their agencies’ missions, drive engagement and reach their target audiences.
+On February 19, a group of four federal Tumblrarians &#8212; [Jessica Milcetich from USA.gov](http://blog.usa.gov/), [Darren Cole from the National Archives](http://todaysdocument.tumblr.com/), [Gorscak from HHS](http://stopbullying.tumblr.com/) and [Michelle Thomas from BLM](http://mypubliclands.tumblr.com/), joined [DigitalGov University]({{< link "events" >}}) to showcase how they each use Tumblr in a different way to support their agencies’ missions, drive engagement and reach their target audiences.
 
 Highlights from the webinar include:
 

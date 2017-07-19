@@ -1,5 +1,5 @@
 ---
-date: 2015-08-07 1:16:06 -0400
+date: 2015-08-07 13:16:06 -0400
 title: Five-Star Customer Experience in Public Service with Yelp
 summary: ' Adding customer satisfaction ratings and reviews to public services just got easier now that Yelp offers a terms of service for official government use. Yelp, a Web and mobile-based user review platform, hosts insights from &ldquo;real people'
 authors:

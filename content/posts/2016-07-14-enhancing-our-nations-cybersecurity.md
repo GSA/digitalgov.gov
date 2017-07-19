@@ -1,5 +1,5 @@
 ---
-date: 2016-07-14 2:00:04 -0400
+date: 2016-07-14 14:00:04 -0400
 title: 'Enhancing our Nation&#8217;s Cybersecurity'
 summary: 'The mission of U.S. General Services Administration (GSA)&#8217;s Integrated Technology Services (ITS) is to deliver best value technology solutions to the government and the American people, and one of the most critically important capabilities that our nation currently needs is strengthened cybersecurity. We have been working with numerous other federal agencies to ensure that the'
 authors:
@@ -47,6 +47,4 @@ For more information, please read our [Interact post](https://interact.gsa.gov/d
 
   1. <a title="Permanent Link: Strengthening Federal Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2016/04/11/strengthening-federal-cybersecurity/" rel="bookmark">Strengthening Federal Cybersecurity</a>
   2. <a title="Permanent Link: GSA IT: The Frontline of Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2014/08/26/gsa-it-the-frontline-of-cybersecurity/" rel="bookmark">GSA IT: The Frontline of Cybersecurity</a>
-  3. <a title="Permanent Link: GSA Leads the Way in Providing Better Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2015/10/27/gsa-leads-the-way-in-providing-better-cybersecurity/" rel="bookmark">GSA Leads the Way in Providing Better Cybersecurity</a>
-
-_This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/)._
+  3. <a title="Permanent Link: GSA Leads the Way in Providing Better Cybersecurity" href="https://gsablogs.gsa.gov/gsablog/2015/10/27/gsa-leads-the-way-in-providing-better-cybersecurity/" rel="bookmark">GSA Leads the Way in Providing Better Cybersecurity</a>_This post was originally published on the [GSA blog](https://gsablogs.gsa.gov/)._

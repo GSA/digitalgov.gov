@@ -35,6 +35,4 @@ Here are a few tips your agency should think about before starting a webstreamin
   
 3. Study/consider the advantages, disadvantages, and cost between providing the service yourself and the cost of contracting the service long term.
 
-You can find the list of upcoming NRC Commission public meetings [including webcast information](http://video.nrc.gov/) on its video portal and also in the [_Federal Register_](https://www.federalregister.gov/agencies/nuclear-regulatory-commission).
-
-_**Christine Kundrat** is a Program Analyst and former Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC). **Danita Stenberg** is a Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC)._
+You can find the list of upcoming NRC Commission public meetings [including webcast information](http://video.nrc.gov/) on its video portal and also in the [_Federal Register_](https://www.federalregister.gov/agencies/nuclear-regulatory-commission)._**Christine Kundrat** is a Program Analyst and former Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC). **Danita Stenberg** is a Multimedia Communications Specialist at the United States Nuclear Regulatory Commission (NRC)._

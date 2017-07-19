@@ -1,5 +1,5 @@
 ---
-date: 2014-05-14 1:30:22 -0400
+date: 2014-05-14 13:30:22 -0400
 title: Continued Progress and Plans for Open Government Data
 summary: One year ago today, President Obama signed an executive order that made open and machine-readable data the new default for government information. This historic step is helping to make government-held data more accessible to the public and to entrepreneurs while appropriately safeguarding sensitive information and rigorously protecting privacy. Freely available data from the U.S. government
 authors:
@@ -27,6 +27,4 @@ Building upon the Administration’s [Open Data progress](http://www.whitehouse.
   * **Smithsonian American Art Museum Collection**: The Smithsonian American Art Museum’s entire digitized collection will be opened to software developers to make educational apps and tools. Today, even museum curators do not have easily accessible information about their art collections. This information will soon be available to everyone.
   * **FDA Adverse Drug Event Data**: Each year, healthcare professionals and consumers submit millions of individual reports on drug safety to the Food and Drug Administration (FDA). These anonymous reports are a critical tool to support drug safety surveillance. Today, this data is only available through limited quarterly reports. But the Administration will soon be making these reports available in their entirety so that software developers can build tools to help pull potentially dangerous drugs off shelves faster than ever before.
 
-We look forward to implementing the U.S. Open Data Action Plan, and to continuing to work with our partner countries in the G7 to take the open data movement global.
-
-_This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Steve VanRoekel, the U.S. Chief Information Officer, and Todd Park, the U.S. Chief Technology Officer._
+We look forward to implementing the U.S. Open Data Action Plan, and to continuing to work with our partner countries in the G7 to take the open data movement global._This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Steve VanRoekel, the U.S. Chief Information Officer, and Todd Park, the U.S. Chief Technology Officer._

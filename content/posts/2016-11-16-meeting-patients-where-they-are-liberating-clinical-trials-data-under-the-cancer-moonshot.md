@@ -1,5 +1,5 @@
 ---
-date: 2016-11-16 1:00:23 -0400
+date: 2016-11-16 13:00:23 -0400
 title: 'Meeting Patients Where They Are: Liberating Clinical Trials Data Under the Cancer Moonshot'
 summary: Cancer clinical trials are a critically important step on the pathway for new or improved treatments to make their way to patients in clinics and hospitals in towns and cities across the country. Patients and their loved ones are relying on these rigorous studies to determine whether promising new therapies and approaches might extend how
 authors:
@@ -78,6 +78,4 @@ Based on the strong response we’ve received thus far, we’re optimistic that 
 ### Related Resources
 
   * [Clinical Trials Information for Patients and Caregivers](https://www.cancer.gov/about-cancer/treatment/clinical-trials){.title}
-  * [TIME—Joe Biden: The Next Step in Our Cancer Moonshot](http://time.com/4494104/joe-biden-cancer-moonshot/){.title}
-
-_This post was originally published on the NCI&#8217;s [Cancer Currents Blog](https://www.cancer.gov/news-events/cancer-currents-blog)._
+  * [TIME—Joe Biden: The Next Step in Our Cancer Moonshot](http://time.com/4494104/joe-biden-cancer-moonshot/){.title}_This post was originally published on the NCI&#8217;s [Cancer Currents Blog](https://www.cancer.gov/news-events/cancer-currents-blog)._

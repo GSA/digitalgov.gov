@@ -1,5 +1,5 @@
 ---
-date: 2015-10-01 1:55:10 -0400
+date: 2015-10-01 13:55:10 -0400
 title: Bringing Water Protection into the Modern Age
 summary: Information technology is everywhere. How we communicate, and how we share with one another has gone digital, saving paper, time, money, and making it easier to get information faster and more reliably. Forty-three years ago, when the Clean Water Act was enacted, things moved a little slower. But the significance and impact of this important
 authors:
@@ -29,8 +29,6 @@ Finalizing this rule is a major milestone, but there’s still more work to do. 
 
 Electronic reporting in this day and age is essential to effective environmental protection. It furthers our [Next Generation Compliance](http://www2.epa.gov/compliance/next-generation-compliance) and the [E-Enterprise for the Environment](http://www2.epa.gov/e-enterprise) strategies to take advantage of new tools, innovative approaches and to work in partnership with states to increase compliance and reduce pollution. A modernized approach to reporting means cleaner water for everyone.
 
-_EPA Editor&#8217;s Note: The views expressed here are intended to explain EPA policy. They do not change anyone&#8217;s rights or obligations._ 
-
-_This post was [originally published on the EPA Connect blog](https://blog.epa.gov/blog/2015/09/bringing-water-protection-into-the-modern-age/) by Cynthia Giles, Assistant Administrator for the Office of Enforcement and Compliance Assurance at the Environmental Protection Agency (EPA)._
+_EPA Editor&#8217;s Note: The views expressed here are intended to explain EPA policy. They do not change anyone&#8217;s rights or obligations._ _This post was [originally published on the EPA Connect blog](https://blog.epa.gov/blog/2015/09/bringing-water-protection-into-the-modern-age/) by Cynthia Giles, Assistant Administrator for the Office of Enforcement and Compliance Assurance at the Environmental Protection Agency (EPA)._
 
 Want to read more great content like this? Sign up for our <a href="https://public.govdelivery.com/accounts/USHOWTO/subscriber/new" target="_blank">daily or weekly DigitalGov newsletter</a>!

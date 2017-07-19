@@ -49,6 +49,4 @@ It is fairly common for people to use these two names interchangeably, which is 
 
 While we did lose time by not doing usability testing in our implementation phase, the real problem was found in the end.
 
-I can not stress how important it is to test your product as much as possible. There is nothing worse than spending months (or even years) producing a product that no one wants to use.
-
-_**Joël Virothaisakun** is a graduate student in the Interaction Design and Information Architecture program at the University of Baltimore. He is interning with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}}) at GSA this fall, and has published several games._
+I can not stress how important it is to test your product as much as possible. There is nothing worse than spending months (or even years) producing a product that no one wants to use._**Joël Virothaisakun** is a graduate student in the Interaction Design and Information Architecture program at the University of Baltimore. He is interning with the [DigitalGov User Experience Program]({{< relref "digitalgov-user-experience-resources.md" >}}) at GSA this fall, and has published several games._

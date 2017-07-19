@@ -29,6 +29,4 @@ Below is a visualization of our team’s development work, as displayed by track
 
 [youtube=http://www.youtube.com/watch?v=QDTJZwjR24A&w=600]
 
-We’ll be blogging more about Communicart, how we built it, and who is using it in the next few weeks. We have all the beta testers we can handle right now, but if you’re interested in getting involved in the future, drop us a line.
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by Greg Boone, an 18F team member._
+We’ll be blogging more about Communicart, how we built it, and who is using it in the next few weeks. We have all the beta testers we can handle right now, but if you’re interested in getting involved in the future, drop us a line._This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by Greg Boone, an 18F team member._

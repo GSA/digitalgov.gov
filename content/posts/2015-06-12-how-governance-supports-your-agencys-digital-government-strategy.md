@@ -66,6 +66,4 @@ As a content team lead working on SAMHSA.gov, I see every day how governance suc
 
   * The [Digital Services Governance Recommendations](https://www.whitehouse.gov/digitalgov/digital-services-governance-recommendations) (a product of the Digital Services Advisory Group, Federal Chief Information Officers Council, and Federal Web Managers Council)
   * [Digital Strategy at HHS](http://www.hhs.gov/web/governance/strategy.html)
-  * [Website Governance](http://en.wikipedia.org/wiki/Website_governance) article at Wikipedia
-
-_Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov_.
+  * [Website Governance](http://en.wikipedia.org/wiki/Website_governance) article at Wikipedia_Robert Jacoby, MIM, is a Lead Content Consultant at Aquilent. He works as a content team lead and project management support for Project Evolve on SAMHSA.gov_.

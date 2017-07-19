@@ -1,5 +1,5 @@
 ---
-date: 2015-06-12 1:30:22 -0400
+date: 2015-06-12 13:30:22 -0400
 title: 'DigitalGov Citizen Services Summit: Reflections from Our Livestream Host, and Full Recording Now Available!'
 summary: 'The second annual DigitalGov Citizen Services Summit was held at GSA headquarters in Washington, DC on May 21. This year&rsquo;s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve'
 authors:
@@ -352,6 +352,4 @@ The Summit&#8217;s hashtag, [#DigitalGov15](https://twitter.com/hashtag/DigitalG
       </blockquote>
     </td>
   </tr>
-</table>
-
-_This post was [originally published](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html) on Bernetta Reese&#8217;s personal website._
+</table>_This post was [originally published](http://www.bernettareese.com/1/post/2015/05/honored-to-host-2015-digitalgov-citizen-services-summit.html) on Bernetta Reese&#8217;s personal website._

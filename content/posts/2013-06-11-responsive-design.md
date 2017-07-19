@@ -1,5 +1,5 @@
 ---
-date: 2013-06-11 1:08:25 -0400
+date: 2013-06-11 13:08:25 -0400
 title: Responsive Design Overview, Resources and Tools
 summary: 'Responsive Web design refers to a fluidly constructed Web page layout that scales from handheld device displays to large, high-resolution computer displays using flexible typography, flexible images, fluid grids, and CSS3 media queries. For years, most Web teams designed for the desktop. Branding, navigation, work flows &#8211; the overall look & feel of online applications'
 authors:

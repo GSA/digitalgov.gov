@@ -13,7 +13,7 @@ tag:
   - The Data Briefing
 ---
 
-The [open source](({{< link "tag/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing](({{< link "tag/crowdsourcing" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform. {{< legacy-img src="CDN/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+The [open source]({{< link "tag/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< link "tag/crowdsourcing" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform. {{< legacy-img src="CDN/files/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
 _“Driving successful change in a large organization has always been one of the most difficult activities in business. . . . [Digital transformation is especially hard] because digital itself is so intangible. It’s hard to understand all of the moving parts of the vast technology stacks, ecosystems, and platforms that now surround us because it’s hard to discern them. It’s often even harder to understand the diverse needs, perspectives, and skill gaps of the people that have to change along with the technology.” — Dion Hinchcliffe,_ [_On Digital Strategy_](https://dionhinchcliffe.com/2016/11/18/using-online-community-for-digital-transformation/)
 
@@ -44,8 +44,5 @@ What is needed to use crowdsourcing in digital transformation effectively?
   </li>
 </ul>
 
-Digital transformation is necessary to realize the promise of the 21st century federal government. All federal employees are vital partners in bringing about the digital transformations of their agencies.
-
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
-
-_[Dr. William Brantley](({{< tmp "authors/bbrantley.md" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+Digital transformation is necessary to realize the promise of the 21st century federal government. All federal employees are vital partners in bringing about the digital transformations of their agencies._Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The Data Briefing)._
+_[Dr. William Brantley]({{< tmp "authors/bbrantley.md" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

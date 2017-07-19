@@ -1,5 +1,5 @@
 ---
-date: 2015-04-27 1:10:19 -0400
+date: 2015-04-27 13:10:19 -0400
 title: Are FAQs Still Relevant?
 summary: 'Users have questions. Your content and website navigation can help them find answers, or potentially cause frustration. One tool for answering questions is up for debate: are FAQ sections still relevant in 2015, or are they a relic of bygone days? Nielsen Norman Group recently published two articles arguing for the continued use and usefulness'
 authors:

@@ -46,5 +46,4 @@ It&#8217;s important on any platform to listen to your customers&#8217; feedback
 Imagine the feeling you had the last time you received a handwritten note in the mail. It means something to you, and it’s personalized. The power of a handwritten note can go a long way. I encourage you to treat your email marketing efforts the same way. Just as a handwritten note in the mail has the power to move a person, so does the next email you send. Email can drive change, and ultimately help you achieve your mission.
 
 _**Nicholas Garlow** is a Public Affairs Specialist, in the Digital Communications Division, at the U.S. Department of Health and Human Services (HHS)._
-
 _Interested in learning more about how to get results with email marketing? [Sign up for the August 13, DigitalGov University&#8217;s webinar]({{< tmp "events/the-power-of-email-marketing.md" >}} "The Power of Email Marketing")._

@@ -1,5 +1,5 @@
 ---
-date: 2014-02-06 4:23:22 -0400
+date: 2014-02-06 16:23:22 -0400
 title: Join HHS Ignite Innovation Day on Friday
 summary: 'This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab. Launched last year in &ldquo;beta&rdquo; by Secretary Sebelius, HHS Ignite supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS&rsquo;s IDEA Lab, which'
 authors:

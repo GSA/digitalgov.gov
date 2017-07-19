@@ -8,7 +8,7 @@ authors:
   - apiazza
 ---
 
-[Executive Order 13 1661](({{< relref "resources.md" >}})improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/) was issued in August of 2000 and this memorandum reaffirms its mandate. The Executive Order has two primary parts:
+[Executive Order 13 1661]({{< relref "resources.md" >}})improving-access-to-services-for-people-with-limited-english-proficiency-e-o-13166/) was issued in August of 2000 and this memorandum reaffirms its mandate. The Executive Order has two primary parts:
 
   * Each federal agency must develop and implement a system by which limited English proficient (LEP) persons can meaningfully access the agency&#8217;s services.
   * Each agency providing federal financial assistance must issue guidance to recipients of such assistance on their legal obligations to take reasonable steps to ensure meaningful access for LEP persons under the national origin nondiscrimination provisions of Title VI of the Civil Rights Act of 1964, and implementing regulations.
@@ -21,4 +21,4 @@ authors:
 
 * * *
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

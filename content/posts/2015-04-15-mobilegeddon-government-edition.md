@@ -1,5 +1,5 @@
 ---
-date: 2015-04-15 2:15:42 -0400
+date: 2015-04-15 14:15:42 -0400
 title: 'Mobilegeddon: Government Edition'
 summary: 'Much is being said and written about the coming Mobilegeddon/Mopocalypse on April 21st&mdash;the day Google&rsquo;s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not. We will do well to pay attention&mdash;almost 25% of traffic on government websites is coming from'
 authors:
@@ -60,7 +60,7 @@ Not necessarily. Good old fashioned UX research will tell you whether your users
 
 ## 7. What Is The Best Mobile Configuration For Us?
 
-Whatever configuration you decide to go with, be sure to employ [UX best practices](({{< link "categories/ux" >}})!
+Whatever configuration you decide to go with, be sure to employ [UX best practices]({{< link "categories/ux" >}})!
 
   * Responsive: a single site and design that changes configuration depending on the size of the screen.
   * Adaptive, or Dynamic serving: to use the same URLs to serve different experiences to desktop and mobile users. This could be good if leaders feel passionately about the site header.

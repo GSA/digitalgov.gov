@@ -41,6 +41,4 @@ We were wasting valuable time on a daily basis shifting through the spam, lookin
 
 The decision to turn off comments isn’t making it harder for people to engage with us. We welcome our users to share their feedback with us on Twitter, Facebook or Google+. If social media isn’t their thing, we also let our users email us directly.
 
-We’re here, ready to listen and respond on several different platforms—blog comments are just no longer one of those options.
-
-_**Jessica Milcetich** is a Social Media and Digital Strategist for USA.gov at the U.S. General Services Administration (GSA)._
+We’re here, ready to listen and respond on several different platforms—blog comments are just no longer one of those options._**Jessica Milcetich** is a Social Media and Digital Strategist for USA.gov at the U.S. General Services Administration (GSA)._

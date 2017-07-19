@@ -1,5 +1,5 @@
 ---
-date: 2014-02-27 1:13:14 -0400
+date: 2014-02-27 13:13:14 -0400
 title: DigitalGov Search is Now Responsive
 summary: 'We&#8217;ve redesigned our mobile search results page. It now uses a card-based design and is responsive. This design gives searchers a more consistent user experience and access to the results anytime, anywhere, and on any device. Take a sneak peek of the new responsive results page.'
 authors:

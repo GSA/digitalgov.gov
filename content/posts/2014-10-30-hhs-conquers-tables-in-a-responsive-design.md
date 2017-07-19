@@ -36,6 +36,4 @@ You can hear more about our approach from me and the developer in the 15 minute 
 
 [youtube=http://www.youtube.com/watch?v=1HMsJ5mUFEc&w=600]
 
- 
-
-_**Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services._
+ _**Clair Koroma** is a Public Affairs Specialist in the Digital Communications Division of the Department of Health and Human Services._

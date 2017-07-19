@@ -30,6 +30,4 @@ Here are a few reasons why you should feel good about working in the open from t
 
 **You might just help people.** And people might just help you! The Internet is a big place and a small world, and GitHub has a way of making unexpected connections. If your work is even a little bit useful to someone else, there’s a good chance they’ll find their way to your door, start poking around, and find a way to be useful right back. Even if you’re working on what you think is the most niche project that no one else would ever use: leave the door open for providence.
 
-Once you get used to beginning your work in public, it stops feeling like performance art and starts feeling like breathing. It’s a healthy routine that produces better work and personal growth, and opens the door to spontaneous contribution and engagement. When your default is open, everyone wins.
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/) by Eric Mill of [18f](https://18f.gsa.gov/)._
+Once you get used to beginning your work in public, it stops feeling like performance art and starts feeling like breathing. It’s a healthy routine that produces better work and personal growth, and opens the door to spontaneous contribution and engagement. When your default is open, everyone wins._This post was originally published on the [18f blog](https://18f.gsa.gov/) by Eric Mill of [18f](https://18f.gsa.gov/)._

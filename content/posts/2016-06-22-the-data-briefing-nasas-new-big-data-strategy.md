@@ -34,8 +34,5 @@ The second prong of NASA’s data strategy is to create a Data Analytics Lab and
 
 The third prong is the Data Stewards program. NASA already has informal data stewards who oversee the proper management of data assets. However, by formalizing the data steward role, NASA is sending a clear message to the rest of the organization about proper data management. The Data Stewards program is a great concept that other agencies should establish.
 
-NASA is a pioneering agency with a lot of firsts. This data strategy may not be as exciting as landing people on the Moon, populating Mars with robots, and [flying by Pluto]({{< relref "2015-07-16-dwarf-planet-giant-numbers-nasas-mission-to-pluto-goes-global.md" >}}). However, good data management was and still is the key to these amazing triumphs. NASA’s data strategy is a good example of how to journey through the new world of big data management.
-
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
-
+NASA is a pioneering agency with a lot of firsts. This data strategy may not be as exciting as landing people on the Moon, populating Mars with robots, and [flying by Pluto]({{< relref "2015-07-16-dwarf-planet-giant-numbers-nasas-mission-to-pluto-goes-global.md" >}}). However, good data management was and still is the key to these amazing triumphs. NASA’s data strategy is a good example of how to journey through the new world of big data management._Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends._
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

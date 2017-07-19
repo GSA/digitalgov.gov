@@ -1,5 +1,5 @@
 ---
-date: 2017-05-02 2:00:39 -0400
+date: 2017-05-02 14:00:39 -0400
 title: 'GetMyFuture.org: Essential Youth Resources, Now'
 summary: 'They say that life can be summed up as the process of a series of doors closing. By that, they mean that opportunities for taking different paths start to disappear as you move through life. It&rsquo;s a logical sentiment, but there&rsquo;s an obverse to it. When you&rsquo;re young, all those doors are open. Doors as far as you can see. It&rsquo;s all about learning how to make informed decisions about what doors to wander through.'
 authors:
@@ -50,6 +50,4 @@ One of its most useful features is an internal assessment tool, an easy-to-use 3
 
 [GetMyFuture.org](https://www.careeronestop.org/GetMyFuture/default.aspx) integrates first-person success-story videos featuring young adults who have overcome barriers to achieve education or career success. There are also more than 100 new career-specific, day-in-the-life videos. These videos show workers in real-life settings and include details for a broad range of careers, from actor to zoologist.
 
-Please visit and get your future today. You have a lot of exploring to do.
-
-_Gay Gilbert is the administrator of the Office of Unemployment Insurance in the U.S. Department of Labor&#8217;s Employment and Training Administration._
+Please visit and get your future today. You have a lot of exploring to do._Gay Gilbert is the administrator of the Office of Unemployment Insurance in the U.S. Department of Labor&#8217;s Employment and Training Administration._

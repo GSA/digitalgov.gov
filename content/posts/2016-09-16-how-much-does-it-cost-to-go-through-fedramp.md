@@ -1,5 +1,5 @@
 ---
-date: 2016-09-16 2:00:24 -0400
+date: 2016-09-16 14:00:24 -0400
 title: How Much Does It Cost to Go Through FedRAMP?
 summary: 'One of the questions we get asked the most at FedRAMP from our vendors is: &ldquo;How much will it cost me to get through FedRAMP?&rdquo; One of the reasons this is a hard question to answer is that comparing cloud providers to each other isn&rsquo;t even like trying to compare apples to oranges &ndash; those'
 authors:

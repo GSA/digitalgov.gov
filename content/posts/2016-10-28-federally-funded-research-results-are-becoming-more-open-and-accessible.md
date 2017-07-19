@@ -71,8 +71,5 @@ At their meeting in Tsukuba, Japan last May, G7 Science and Technology Ministers
 
 Together, these efforts to open up the results of Federally-funded research promise to increase the return of Federal investments in scientific research, bolster the reliability of that research, accelerate scientific discovery, stimulate innovation, promote entrepreneurship, and enhance economic growth and job creation. These are certainly accomplishments worth celebrating during Open Access Week—and ones that will have lasting effects long beyond.
 
- 
-
-_Jerry Sheehan is Assistant Director for Scientific Data & Information at the White House Office of Science and Technology Policy._
-
+ _Jerry Sheehan is Assistant Director for Scientific Data & Information at the White House Office of Science and Technology Policy._
 _This post was originally published on the [OSTP blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._

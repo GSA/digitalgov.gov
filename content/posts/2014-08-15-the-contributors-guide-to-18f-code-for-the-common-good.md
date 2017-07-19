@@ -59,8 +59,6 @@ In the case of our repositories, there are several kinds of contributions:
 
   * Report bugs, ideas, requests for features by creating “Issues” at GitHub in our project repositories. An issue that begins “Have you thought of…” could save a project months of labor.
   * Fork our code and play with it, whether you later choose to make a pull request or not.
-  * Create pull requests of changes that you think are laudatory. From typos to major design flaws, you will find a target-rich environment for improvements.
-
-_ This post was originally published on the [18f blog](https://18f.gsa.gov/) by Dr. Robert Read of [18f](https://18f.gsa.gov/)._
+  * Create pull requests of changes that you think are laudatory. From typos to major design flaws, you will find a target-rich environment for improvements._ This post was originally published on the [18f blog](https://18f.gsa.gov/) by Dr. Robert Read of [18f](https://18f.gsa.gov/)._
 
  

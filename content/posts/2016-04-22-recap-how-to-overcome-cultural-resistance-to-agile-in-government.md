@@ -32,8 +32,4 @@ The webinar also touched—at the highest level—on the difference between agil
 
 Other key takeaways included learning to be aware of the ‘myths of agile,’ such as the need to document along the way, and to understand that agile projects aren’t immune to failure.
 
-Catch-up on the entire webinar below. You can also find out which persona you might fit with and how you might benefit from the seasoned experience of others who have succeeded in persuading them to come to “the light.”
-
-
-
-_If you’re interested in joining the Agile/Lean Community of Practice, contact [Logan Powell](mailto:Logan.t.Powell@census.gov)._
+Catch-up on the entire webinar below. You can also find out which persona you might fit with and how you might benefit from the seasoned experience of others who have succeeded in persuading them to come to “the light.”_If you’re interested in joining the Agile/Lean Community of Practice, contact [Logan Powell](mailto:Logan.t.Powell@census.gov)._

@@ -1,5 +1,5 @@
 ---
-date: 2014-07-14 1:00:04 -0400
+date: 2014-07-14 13:00:04 -0400
 title: Open Data Takes Center Stage at User Conference
 summary: 'This week over 16,000 business leaders and data visionaries from around the world will convene for the 2014 Environmental Systems Research Institute (ESRI) Users Conference in San Diego. Commerce Secretary Penny Pritzker, NOAA Administrator Dr. Kathy Sullivan, and Under Secretary for Economic Affairs Dr. Mark Doms will join representatives from Census and NOAA to highlight the'
 authors:
@@ -28,6 +28,4 @@ Check out the schedule for Census panels, including the Under Secretary’s inte
 
 Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce.
 
-*The writer and the U.S. Department of Commerce do not endorse firms or models described within this text.
-
-_This post was originally published on the [ESA blog](http://www.esa.doc.gov/blog) by Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce._
+*The writer and the U.S. Department of Commerce do not endorse firms or models described within this text._This post was originally published on the [ESA blog](http://www.esa.doc.gov/blog) by Lauren Lipovic, Special Advisor to the Under Secretary for Economic Affairs at the U.S. Department of Commerce._

@@ -39,7 +39,7 @@ The team convened focus groups and conducted user testing with over 100 teachers
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Smithsonian-02\_learning\_lab.jpg" alt="Teacher at a prototyping session." >}}
 
-The extensive [user testing](({{< link "categories/user-testing-research" >}}) and feedback sessions resulted in key observations and feature requests. One of the biggest eye-openers was that high school teachers saw the Learning Lab as a tool for their students rather than themselves.
+The extensive [user testing]({{< link "categories/user-testing-research" >}}) and feedback sessions resulted in key observations and feature requests. One of the biggest eye-openers was that high school teachers saw the Learning Lab as a tool for their students rather than themselves.
 
 &#8220;The high school teachers said, &#8216;Yeah, this is great but I’d never use this to build collections. This is a tool for my students – doing their own research and creating collections is where the learning happens,'&#8221; said Darren Milligan, senior digital strategist at SCLDA.
 

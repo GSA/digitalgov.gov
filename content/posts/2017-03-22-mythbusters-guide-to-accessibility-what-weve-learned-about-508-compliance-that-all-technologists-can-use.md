@@ -32,9 +32,7 @@ Section 508 itself is quite simple. The core requirement is that everyone has co
 
 If your app provides comparable access to users with a disability as those without one, then it’s 508 compliant.
 
-## Myth #2: Accessibility requires very specific implementations.
-
-_Reality: Content is accessible when it can be used by users with a disability, period. There are many ways to achieve this. Following a particular implementation pattern is not necessary to achieve accessibility._
+## Myth #2: Accessibility requires very specific implementations._Reality: Content is accessible when it can be used by users with a disability, period. There are many ways to achieve this. Following a particular implementation pattern is not necessary to achieve accessibility._
 
 WCAG provides the industry-recognized set of standards for accessible content. It’s written as a set of technology-agnostic criteria, such as:
 
@@ -46,15 +44,11 @@ Depending on the context in which you’re building, headings and labels may be 
 
 When you’re trying to make content accessible, you may hear that you must use a particular implementation method. This is simply not true — WCAG does not require any particular implementation. Focus on the “what” not the “how.”
 
-## Myth 3: It’s possible to build something that’s 100% accessible.
-
-_Reality: No product is perfect by any metric._
+## Myth 3: It’s possible to build something that’s 100% accessible._Reality: No product is perfect by any metric._
 
 Fixing 100% of reported accessibility defects is not a reasonable goal, just like you wouldn’t expect to ship with zero known bugs or a perfect user experience for users without a disability. How much you invest in UX is a judgement call, and eventually you have to ship. 508 only requires a user experience that’s “comparable” between user with and without a disability; it doesn’t require either of those user experiences to be perfect.
 
-## Myth 4: It’s easy to treat accessibility as an afterthought.
-
-_Reality: Designing for accessibility from the beginning is way easier._
+## Myth 4: It’s easy to treat accessibility as an afterthought._Reality: Designing for accessibility from the beginning is way easier._
 
 Just like mobile has different design considerations than desktop, so does accessibility. Many designs are going to be onerous to make accessible after the fact. You can save a ton of development time and headaches by baking accessibility in upfront.
 
@@ -62,9 +56,7 @@ Visually-impaired users interact with a UI in a fundamentally different way than
 
 The <a href="https://18f.gsa.gov/2015/09/28/web-design-standards/" target="_blank" rel="nofollow noopener">U.S. Web Design Standards</a> provide guidance for accessibility out of the box. If you’re working for the government, you can start with the U.S. Web Design Standards and know that you’re building on a good, accessible foundation. Additionally, each UI component in the Standards offers guidance for how to ensure accessibility.
 
-## Myth 5: Implementing accessibility can only be done by 10x Rockstar Ninja Guru A-Player Front-End Engineers
-
-_Reality: Accessibility is straightforward for mid-level developers._
+## Myth 5: Implementing accessibility can only be done by 10x Rockstar Ninja Guru A-Player Front-End Engineers_Reality: Accessibility is straightforward for mid-level developers._
 
 If you write semantic, standards-conformant code, you’ll get a lot of accessibility support out of the box. To provide assistive technology additional clues about how your content is structured, you can use <a href="https://www.w3.org/WAI/intro/aria" target="_blank" rel="nofollow noopener">ARIA</a>.
 

@@ -1,5 +1,5 @@
 ---
-date: 2016-06-27 2:00:49 -0400
+date: 2016-06-27 14:00:49 -0400
 title: 'NASA Space Apps Challenge: 2016 Global Winners!'
 summary: 'We&#8217;re thrilled to announce the Space Apps 2016 Global Award Winners!! These projects well represent the best of the best innovative thinking this year. Congratulations to all the teams. We look forward to seeing you at an upcoming NASA launch in Florida.'
 authors:
@@ -48,8 +48,5 @@ We&#8217;re thrilled to announce the <a href="https://2016.spaceappschallenge.or
 
 **People’s Choice Award**: <a href="https://2016.spaceappschallenge.org/challenges/tech/jet-set-mars/projects/mars-hopper" target="_blank">Mars Hopper</a>, created at <a href="https://2016.spaceappschallenge.org/locations/kiev-ukraine" target="_blank">Space Apps Kiev</a> in Ukraine, is a concept plane designed to investigate the Mars poles and its surroundings, using dry ice, or CO2, from the surface of the planet as jet fuel. Mars Hopper solves the <a href="https://2016.spaceappschallenge.org/challenges/tech/jet-set-mars" target="_blank">Jet Set Mars</a> challenge to design a conceptual mobility device to allow easy and rapid exploration of difficult Martian terrain.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-365-SpaceApps2016PeoplesChoiceMarsHopperUkraine.width-800.jpg" alt="Space Apps 2016 People's Choice Winner Mars Hopper of Ukraine." >}}
-
-_This post was originally published on the [openNASA](https://open.nasa.gov/blog/) blog._
-
-_Interested in participating in the Space Apps Challenge next year? Read [Space Apps Behind the Scenes: Judging + Process](https://open.nasa.gov/blog/space-apps-behind-scenes-judging-process/). Is your agency considering hosting a challenge competition, or not yet sure which is the best route to take? Check out [Challenge, Contract, or Grant – Which tool is right for the job?]({{< relref "2014-08-14-challenge-contract-or-grant-which-tool-is-right-for-the-job.md" >}}). You can also join a [DigitalGov Community of Practice]({{< relref "communities.md" >}}) to connect with and learn from others in government, like [Challenges & Prizes]({{< relref "challenges-prizes-community.md" >}}), [Crowdsourcing and Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}), and [Mobile Gov](({{< link "categories/mobile" >}})._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-365-SpaceApps2016PeoplesChoiceMarsHopperUkraine.width-800.jpg" alt="Space Apps 2016 People's Choice Winner Mars Hopper of Ukraine." >}}_This post was originally published on the [openNASA](https://open.nasa.gov/blog/) blog._
+_Interested in participating in the Space Apps Challenge next year? Read [Space Apps Behind the Scenes: Judging + Process](https://open.nasa.gov/blog/space-apps-behind-scenes-judging-process/). Is your agency considering hosting a challenge competition, or not yet sure which is the best route to take? Check out [Challenge, Contract, or Grant – Which tool is right for the job?]({{< relref "2014-08-14-challenge-contract-or-grant-which-tool-is-right-for-the-job.md" >}}). You can also join a [DigitalGov Community of Practice]({{< relref "communities.md" >}}) to connect with and learn from others in government, like [Challenges & Prizes]({{< relref "challenges-prizes-community.md" >}}), [Crowdsourcing and Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}), and [Mobile Gov]({{< link "categories/mobile" >}})._

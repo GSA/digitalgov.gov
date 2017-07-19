@@ -53,6 +53,4 @@ Today, for example, marks the one-year anniversary of ConnectHome, an initiative
 
 That sort of change at the community level will go even further when the Federal Reserve Bank releases new guidance next week on Community Reinvestment Act (CRA) funding. &#8220;Closing the Digital Divide: A Framework for Meeting CRA Obligations,&#8221; will outline how banks can apply more of the $100 billion in CRA funding nationwide to support broadband in underserved communities.
 
-Whether they’re helping Americans get online at home or on the go, where they learn or where they work, these efforts are making a difference for our economy—allowing American families, businesses, and entrepreneurs to innovate and benefit from innovations, and helping continue to drive America’s productivity growth in the same way that our great inventors have done for years.
-
-_This post was originally published on the [White House blog](https://www.whitehouse.gov/blog)._
+Whether they’re helping Americans get online at home or on the go, where they learn or where they work, these efforts are making a difference for our economy—allowing American families, businesses, and entrepreneurs to innovate and benefit from innovations, and helping continue to drive America’s productivity growth in the same way that our great inventors have done for years._This post was originally published on the [White House blog](https://www.whitehouse.gov/blog)._

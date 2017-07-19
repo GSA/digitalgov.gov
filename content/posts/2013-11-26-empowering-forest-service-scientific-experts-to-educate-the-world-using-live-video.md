@@ -1,5 +1,5 @@
 ---
-date: 2013-11-26 2:40:37 -0400
+date: 2013-11-26 14:40:37 -0400
 title: Empowering Forest Service Scientific Experts to Educate the World Using Live Video
 summary: 'In July 2013, U.S. Forest Service fisheries biologist Pete Schneider launched a YouTube Live video event from the Mendenhall Glacier Visitor Center in Alaska.  The goal of the project was to not only deliver a reliable 2-month long, 24/7, live video stream where an international audience could witness spawning Sockeye salmon, hungry Dolly Varden, cunning'
 authors:

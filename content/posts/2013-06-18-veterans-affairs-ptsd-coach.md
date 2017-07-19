@@ -10,7 +10,7 @@ tag:
   - VA
 ---
 
-_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}Mobile Gov Experiences](({{< link "tag/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Veteran&#8217;s Affairs**._
+_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}Mobile Gov Experiences]({{< link "tag/mobile-gov-experience" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Veteran&#8217;s Affairs**._
 
 <a href="http://www.ptsd.va.gov/public/pages/ptsdcoach.asp" rel="nofollow">PTSD Coach</a> is a mobile application developed by the Department of <a href="http://va.gov/" rel="nofollow">Veteran&#8217;s Affairs</a> in order to help veterans and military service members who have symptoms of Post Traumatic Stress Disorder. This app was released in May 2011 and is available on both iOS and Android. PTSD Coach was featured in the <a title="You’ll Have Them at Swipe: Making An Awesome Mobile User Experience Webinar" href="{{< relref "2013-02-11-youll-have-them-at-swipe-making-an-awesome-mobile-user-experience-webinar.md" >}}" rel="nofollow">You&#8217;ll Have Them at Swipe: Make an Awesome Mobile User Experience webinar</a>.
 

@@ -44,6 +44,4 @@ On August 8th, we will be holding the VA Innovation Demo Day featuring over 100 
 
 Learn more about the VA Innovators Network: <a href="https://www.innovation.va.gov/innovatorsnetwork/" target="_blank" rel="noopener noreferrer">here</a> and <a href="https://medium.com/@VAInnovation/va-innovators-network-boot-camp-kicking-off-f1da59b379b5" target="_blank" rel="noopener noreferrer">here</a>.
 
-Learn more about VA Center for Innovation: <a href="https://www.innovation.va.gov/" target="_blank" rel="noopener noreferrer">here</a>.
-
-_This post was originally published on the [VA Center for Innovation (VACI) blog on Medium](https://medium.com/vainnovation/ahead-of-the-curve-in-healthcare-innovation-fb1813ab79a9)._
+Learn more about VA Center for Innovation: <a href="https://www.innovation.va.gov/" target="_blank" rel="noopener noreferrer">here</a>._This post was originally published on the [VA Center for Innovation (VACI) blog on Medium](https://medium.com/vainnovation/ahead-of-the-curve-in-healthcare-innovation-fb1813ab79a9)._

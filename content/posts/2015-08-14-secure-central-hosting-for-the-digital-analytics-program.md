@@ -1,5 +1,5 @@
 ---
-date: 2015-08-14 1:00:48 -0400
+date: 2015-08-14 13:00:48 -0400
 title: Secure Central Hosting for the Digital Analytics Program
 summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at analytics.usa.gov.'
 authors:
@@ -72,6 +72,4 @@ This ensures that data can _only_ be collected over HTTPS, and _breaks_ any HTTP
 
 While DAP&#8217;s solution ended up being straightforward, this approach is surprisingly novel—most common third party services today don&#8217;t even require HTTPS.
 
-But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example.
-
-_Eric Mill is an 18f team member._
+But on today&#8217;s Internet, they should, and the Digital Analytics Program is leading by example._Eric Mill is an 18f team member._

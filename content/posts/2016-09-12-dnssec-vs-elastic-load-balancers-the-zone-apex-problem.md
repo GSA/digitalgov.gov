@@ -1,5 +1,5 @@
 ---
-date: 2016-09-12 1:00:09 -0400
+date: 2016-09-12 13:00:09 -0400
 title: 'DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem'
 summary: 'This is the final post in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. Federal websites are required to implement DNSSEC, which relies on knowing exactly what server is responding to a request. In Amazon Web Services (AWS), the problem of unreliable servers is solved by'
 authors:

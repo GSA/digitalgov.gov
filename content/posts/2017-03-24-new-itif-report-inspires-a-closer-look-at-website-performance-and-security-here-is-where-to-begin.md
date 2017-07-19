@@ -70,11 +70,7 @@ If you are looking to improve your performance, or just get a sense for how well
   * [YSlow](http://yslow.org/)
   * [Rigor](http://rigor.com/)
   * [Pingdom](https://www.pingdom.com/)
-  * [Webpagetest](http://webpagetest.org)
-
-
-
-_Do you want more information on how to improve your page load speeds?_ [_Email us_](mailto:digitalgov@gsa.gov) _and we’ll put something together for you._
+  * [Webpagetest](http://webpagetest.org)_Do you want more information on how to improve your page load speeds?_ [_Email us_](mailto:digitalgov@gsa.gov) _and we’ll put something together for you._
 
 <hr width="60%" />
 
@@ -90,18 +86,14 @@ How does Search Engine Optimization (SEO) play into this? Here are [7 questions 
 
 **Resources & Tools**
 
-  * [Join our MobileGov Community](({{< link "categories/mobile" >}})
+  * [Join our MobileGov Community]({{< link "categories/mobile" >}})
   * [Mobile Development and Testing with Chrome Developer Tools]({{< relref "2016-11-21-mobile-development-and-testing-with-chrome-devtools.md" >}})
   * [Google Mobile Testing Tool](https://testmysite.thinkwithgoogle.com/)
   * [Four Steps to Achieve Good SEO]({{< relref "2013-05-31-four-steps-to-achieve-good-seo.md" >}})
   * [Search Engine Optimization for Government Websites]({{< relref "2014-06-13-search-engine-optimization-for-government-websites.md" >}})
   * [The Content Corner: The Balance Between SEO and the User]({{< relref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}})
   * [The Content Corner: How Google Judges Your Content]({{< relref "2016-03-07-the-content-corner-how-google-judges-your-content.md" >}})
-  * DGU video course: [Using Mobile User Experience Guidelines to Create Stellar Mobile Products](https://www.youtube.com/watch?v=SKpu3iIkeGk) (duration: 62 minutes)
-
-
-
-_Do you want more information on making your site more mobile friendly?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Mobile) _and we’ll put something together for you._
+  * DGU video course: [Using Mobile User Experience Guidelines to Create Stellar Mobile Products](https://www.youtube.com/watch?v=SKpu3iIkeGk) (duration: 62 minutes)_Do you want more information on making your site more mobile friendly?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Mobile) _and we’ll put something together for you._
 
 <hr width="60%" />
 
@@ -117,11 +109,7 @@ Making the switch to HTTPS can be a difficult change for many websites. But in r
   * [HTTPS and Other Ranking Factors: What Impacts the SEO of Government Websites?]({{< relref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}})
   * [Why Switching to HTTPS Will Make Your Analytics Better]({{< relref "2016-06-06-why-switching-to-https-will-make-your-analytics-better.md" >}})
   * [Automatic HTTPS Enforcement for New Executive Branch .Gov Domains]({{< relref "2017-01-19-automatic-https-enforcement-for-new-executive-branch-gov-domains.md" >}})
-  * DGU video course: [Migrating to HTTPS: Common Pain Points and Practical Advice](https://www.youtube.com/watch?v=X5H8JRULDOo) (duration: 68 minutes)
-
-
-
-_Do you want more information on switching to HTTPS?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Security) _and we’ll put something together for you._
+  * DGU video course: [Migrating to HTTPS: Common Pain Points and Practical Advice](https://www.youtube.com/watch?v=X5H8JRULDOo) (duration: 68 minutes)_Do you want more information on switching to HTTPS?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Security) _and we’ll put something together for you._
 
 <hr width="60%" />
 
@@ -139,14 +127,5 @@ With the January release of the [Access Board’s final rule](https://www.access
   * [Agency Implementation Guides](https://section508.gov/agency-shared-guidance)
   * [CIO Council’s Accessibility Playbook](https://section508.gov/content/it-accessibility-playbook)
   * [Celebrating the 18th Anniversary of the Section 508 Rehabilitation Act]({{< relref "2016-08-15-celebrating-the-18th-anniversary-of-section-508-rehabilitation-act.md" >}})
-  * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes)
-
-
-
-_Do you want more information on accessibility resources?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Accessibility) _and we’ll put something together for you._
-
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ 
-
-_Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}})_, authoritative sources of government information._ [_Learn more_]({{< relref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry.md" >}}) _about the Registry (there’s also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_]({{< relref "u-s-digital-registry.md" >}})_._ 
-
-_If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our_ [_Communities_]({{< relref "communities.md" >}}) _page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more._
+  * DGU video course: [How to Use Assistive Technology to Comply with Section 508](https://www.youtube.com/watch?v=4XJcswWmmAw) (duration: 65 minutes)_Do you want more information on accessibility resources?_ [_Email us_](mailto:digitalgov@gsa.gov?subject=ITIF%20Report%20and%20Accessibility) _and we’ll put something together for you._
+_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._ _Federal agencies can register their mobile products—mobile websites and native apps—on the_ [_U.S. Digital Registry_](https://usdigitalregistry.WHATEVER/) _to verify that they’re_ [_mobile-friendly_]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}})_, authoritative sources of government information._ [_Learn more_]({{< relref "2016-02-29-is-your-federal-mobile-app-or-website-in-the-u-s-digital-registry.md" >}}) _about the Registry (there’s also an_ [_instructional webinar_](https://www.youtube.com/watch?v=Gn-7m1Cl8Fk)_), and_ [_sign up here_]({{< relref "u-s-digital-registry.md" >}})_._ _If you have a .gov or .mil email address and would like to connect with other feds in these fields, check out our_ [_Communities_]({{< relref "communities.md" >}}) _page to find out how to join the Listservs for MobileGov, Government Customer Experience (CX), User Experience (UX), Web Content Managers, and more._

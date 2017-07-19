@@ -1,5 +1,5 @@
 ---
-date: 2016-11-04 1:00:11 -0400
+date: 2016-11-04 13:00:11 -0400
 title: New API Brings EPIC Earth Imagery to Developers
 summary: 'Daily imagery data taken by the Earth Polychromatic Imaging Camera is now accessible via a RESTful API available from the NASA API Portal. The Earth Polychromatic Imaging Camera (EPIC) is an instrument aboard NOAA&rsquo;s DSCOVR satellite, which orbits at Earth&rsquo;s Lagrange point, the sweet spot in space where the gravitational tug of the Earth and'
 authors:
@@ -31,10 +31,7 @@ The EPIC API can be employed to search for images by date and then geographical 
 
 The web development team for the <a href="http://atmospheres.gsfc.nasa.gov/" target="_blank">Laboratory for Atmospheres</a> in the Earth Sciences Division of the Goddard Space Flight Center began development of the EPIC API in 2015. The EPIC imagery is freely available for reproduction or reuse, including for commercial purposes—but please give credit to the NASA EPIC Team for the original materials.
 
-[youtube=http://www.youtube.com/watch?v=CFrP6QfbC2g&w=600]
-
-_
+[youtube=http://www.youtube.com/watch?v=CFrP6QfbC2g&w=600]_
   
 For further information on the NASA media usage guidelines, please visit <a href="http://www.nasa.gov/multimedia/guidelines/index.html" target="_blank">http://www.nasa.gov/multimedia/guidelines/index.html</a>. For more information about EPIC or DSCOVR, or for additional access to the EPIC API, visit: <a href="http://epic.gsfc.nasa.gov/about.html" target="_blank">http://epic.gsfc.nasa.gov/about.html</a>._
-
 _This post was originally published on the [openNASA blog](https://open.nasa.gov/blog/)._

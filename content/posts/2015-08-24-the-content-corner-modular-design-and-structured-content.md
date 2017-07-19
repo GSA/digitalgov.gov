@@ -1,5 +1,5 @@
 ---
-date: 2015-08-24 2:07:31 -0400
+date: 2015-08-24 14:07:31 -0400
 title: 'The Content Corner: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I&rsquo;m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'
 authors:
@@ -81,4 +81,4 @@ Modular design allows for quick changes with minimal disruption. The header or l
 
 Modular design, from front-end to back-end, helps reduce the messy interfaces and reacts faster to all those things that haven’t been invented yet.
 
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

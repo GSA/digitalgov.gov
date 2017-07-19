@@ -1,5 +1,5 @@
 ---
-date: 2016-08-03 1:00:55 -0400
+date: 2016-08-03 13:00:55 -0400
 title: Promoting the Use of Green IT
 summary: 'Summary: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture. Today, the Administration is taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the overall information technology (IT) security posture of the Federal'
 authors:
@@ -33,6 +33,4 @@ Specifically, to accomplish the above, the Initiative will drive progress in thr
 
 Additional reforms in the Data Center Optimization Initiative include strengthened and direct CIO authority over data center-related budgeting and management decisions, increased use of the cloud and inter-agency shared services, and replacement of manual data collection with more accurate and efficient automated monitoring tools.
 
-The important work agencies are undertaking as part of the Data Center Optimization Initiative will help move the Federal Government toward an IT portfolio that is more efficient, more effective, more secure, and better able to deliver world-class services to the American people.
-
-_This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._
+The important work agencies are undertaking as part of the Data Center Optimization Initiative will help move the Federal Government toward an IT portfolio that is more efficient, more effective, more secure, and better able to deliver world-class services to the American people._This post was originally published on the [Office of Management and Budget Blog](https://www.whitehouse.gov/omb/blog)._

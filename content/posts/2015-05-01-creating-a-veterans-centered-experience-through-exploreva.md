@@ -80,6 +80,4 @@ According to VA’s analytics, email visitors converted at a 31% rate on the “
 
 ## Looking Ahead
 
-A responsive design enhancement for ExploreVA will be rolled out in the next few weeks. Tuscher called ExploreVA a “litmus test” for where the VA may be able to go with future projects. He also recently led a redesign of the official VA blog, [VAntage Point](http://www.blogs.va.gov/VAntage/). The redesign was launched in early March, and Moloney said they’ve seen huge growth, in terms of site visitors and click throughs from social media.
-
-_The [technology profile for ExploreVA is available on BuiltWith](http://builtwith.com/explore.va.gov)._
+A responsive design enhancement for ExploreVA will be rolled out in the next few weeks. Tuscher called ExploreVA a “litmus test” for where the VA may be able to go with future projects. He also recently led a redesign of the official VA blog, [VAntage Point](http://www.blogs.va.gov/VAntage/). The redesign was launched in early March, and Moloney said they’ve seen huge growth, in terms of site visitors and click throughs from social media._The [technology profile for ExploreVA is available on BuiltWith](http://builtwith.com/explore.va.gov)._

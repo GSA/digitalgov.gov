@@ -37,7 +37,7 @@ The rise of third-party platforms in delivering modern public services required 
 
 Here’s how it works:
 
-  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< relref "social-media.md" >}}) and [MobileGov](({{< link "categories/mobile" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
+  1. Government agencies, including members of the collaborative inter-agency [SocialGov]({{< relref "social-media.md" >}}) and [MobileGov]({{< link "categories/mobile" >}}) communities, use [OMB Max](https://max.omb.gov/maxportal/home.do) to authenticate users of the U.S. Digital Registry and add their official accounts by:
   
     &#8211; Name of the account
   

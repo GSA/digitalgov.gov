@@ -1,5 +1,5 @@
 ---
-date: 2014-05-22 1:00:44 -0400
+date: 2014-05-22 13:00:44 -0400
 title: How to Make a Mobile Paper Prototype
 summary: 'What if a single piece of paper could make your mobile app work 20% better? It&rsquo;s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it&rsquo;s true. Well before we get into the design and coding phases, we can show customers'
 authors:
@@ -41,6 +41,4 @@ Her team wanted to get the opinions of people outside their working group. Over 
 
 They worked in teams of two—a facilitator to ask questions and help the volunteer with the prototype, and note taker. Other team members would often observe from a reasonable distance. Here’s how it works: The facilitator would use a [testing script]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and ask questions like “Where would you go to find X?” The test participant would touch the paper “screen” and the facilitator would “be the computer” and move it to the corresponding part of the site. Alternatively, you can lay out the pieces of your prototype on a table and [switch out pieces of paper](http://www.youtube.com/watch?v=GrV2SZuRPv0) as the user moves from screen to screen. Other methods include drafting designs on adding machine tape (nice and narrow), or attaching Post-It notes directly to their smartphone.
 
-The pros of paper prototyping are numerous: a good way to measure your basic design, it’s free and easy to put together. The cons are that the prototype can be a bit “clunky” and tough to manipulate. Ultimately, paper prototyping isn&#8217;t always the answer but it&#8217;s often a really good, cheap, and productive first effort.
-
-_Editor’s Note: If you’re interested in Mobile Prototypes, register for our [free prototyping workshop]({{< tmp "events/mobile-prototyping-design-workshop-sketching-your-way-to-better-ux.md" >}}) June 3._
+The pros of paper prototyping are numerous: a good way to measure your basic design, it’s free and easy to put together. The cons are that the prototype can be a bit “clunky” and tough to manipulate. Ultimately, paper prototyping isn&#8217;t always the answer but it&#8217;s often a really good, cheap, and productive first effort._Editor’s Note: If you’re interested in Mobile Prototypes, register for our [free prototyping workshop]({{< tmp "events/mobile-prototyping-design-workshop-sketching-your-way-to-better-ux.md" >}}) June 3._

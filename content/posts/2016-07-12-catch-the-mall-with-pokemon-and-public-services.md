@@ -1,5 +1,5 @@
 ---
-date: 2016-07-12 3:58:53 -0400
+date: 2016-07-12 15:58:53 -0400
 title: Catch the Mall! With Pokemon and Public Services
 summary: '&#8220;&#8230; I have never seen so many people of all ages walking around our civic spaces and small businesses interacting as I have this morning. Teens catching them. People catching them in line for coffee. Moms outsmarting their kids. Local youths teaching my toddler how to throw a ball. Full grown adults. Marines. Kids on'
 authors:

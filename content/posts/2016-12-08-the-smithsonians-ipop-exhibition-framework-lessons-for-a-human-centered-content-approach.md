@@ -78,10 +78,6 @@ Of course, creating broad and diverse content is nothing new. Designers of rich 
 
 {{< legacy-img src="CDN/files/2016/12/600-x-450-04\_skin\_and\_bones\_splash_screen.jpg" alt="Skin and Bones: Splash Screen, Office of Education & Outreach, Smithsonian’s National Museum of Natural History" >}}
 
- 
-
-_[Benjamin Bloom]({{< tmp "authors/ben-bloom.md" >}}) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
-
-_Learn what other federal agencies are working on in [UX](({{< link "categories/ux" >}}), [design](({{< link "categories/design" >}}), [content development and strategies](({{< link "categories/content" >}}), [augmented reality](({{< link "tag/augmented-reality" >}}), and [mobile](({{< link "categories/mobile" >}})._
-
+ _[Benjamin Bloom]({{< tmp "authors/ben-bloom.md" >}}) is a Web Developer at the [Smithsonian National Portrait Gallery](http://npg.si.edu/)._
+_Learn what other federal agencies are working on in [UX]({{< link "categories/ux" >}}), [design]({{< link "categories/design" >}}), [content development and strategies]({{< link "categories/content" >}}), [augmented reality]({{< link "tag/augmented-reality" >}}), and [mobile]({{< link "categories/mobile" >}})._
 _[Visit our Communities page]({{< relref "communities.md" >}}) to find out how to join groups like the Federal User Experience Community, MobileGov, Virtual/Augmented Reality, and Digital Audio/Video Production and Strategy._

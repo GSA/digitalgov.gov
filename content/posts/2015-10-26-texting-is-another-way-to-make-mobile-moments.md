@@ -1,5 +1,5 @@
 ---
-date: 2015-10-26 2:34:12 -0400
+date: 2015-10-26 14:34:12 -0400
 title: Texting is Another Way to Make Mobile Moments
 summary: There are several things federal agencies need to think about in the mobile space. Is my website responsive, so that consumers can view it on any device (desktop/laptop, tablet, smartphone)? Do I have mobile apps that fill citizen needs? But does texting have a place in the U.S. government, as we strive to serve citizens
 authors:
