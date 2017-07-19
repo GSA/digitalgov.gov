@@ -1,6 +1,5 @@
 ---
 url: /resources/storify-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:06:26 -0400
 title: Storify Federal Terms of Service
 summary: 'Storify helps make sense of what people post on social media. Storify is a social network service that lets the user create stories or timelines using social media such as Twitter, Facebook and Instagram. Users curate the most important voices and turn them into stories. View Stoirfy Federal Terms of Service Related Links What is a Terms'

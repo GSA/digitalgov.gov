@@ -1,6 +1,5 @@
 ---
 url: /services/
-type: old_doc
 date: 2013-11-17 11:12:45 -0400
 title: Services
 summary: 'Check out the variety of services available for agencies! Challenges & Prizes Challenge.gov. Challenge and prize competitions can drive innovation and solve mission-centric problems&mdash;whether technical, scientific, or creative. Challenge.Gov is an award-winning government sponsored free tool that can help your agency run a challenge. Get Started Content Management Sites lets federal agencies build websites using a'

@@ -1,6 +1,5 @@
 ---
 url: /resources/uservoice-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:48:20 -0400
 title: UserVoice Federal Terms of Service
 summary: 'UserVoice is a feedback forum and in-app widget to capture the ideas your users care about most. Reporting and analytics to aggregate and prioritize ideas for your roadmap. View UserVoice Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of'

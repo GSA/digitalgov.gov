@@ -1,6 +1,5 @@
 ---
 url: /services/dap/
-type: old_doc
 date: 2012-10-30 3:41:20 -0400
 title: 'DAP: Digital Analytics Program'
 summary: '  The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by GSA&#8217;s Technology Transformation Service. On November'

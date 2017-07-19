@@ -1,6 +1,5 @@
 ---
 url: /resources/content-management-systems-used-by-government-agencies/
-type: old_doc
 date: 2013-06-13 1:30:35 -0400
 title: Content Management Systems Used by Government Agencies
 summary: 'Here&#8217;s a list of Content Management Systems (CMS) used by government agencies. For more information, please contact each agency to learn about their experience with that product or system. Disclaimer: This list is intended solely as a resource for government employees who manage government websites. This is an unofficial list for informational purposes only. DigitalGov does'

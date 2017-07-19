@@ -1,6 +1,5 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-information-technology-terms/
-type: old_doc
 date: 2014-06-11 9:58:19 -0400
 title: 'Spanish Language Style Guide & Glossaries: Information Technology Terms'
 summary: 'English Spanish equivalent Attach Adjuntar, anexar Back (Browser button) Regresar Band width; Bandwidth Ancho de banda Broadband Banda ancha Browser navegador, visualizador (Spain), explorador, visor Click Hacer clic, pulsar, pinchar E-mail Correo electr&oacute;nico, which may be abbreviated as c.e. and e-mail (widely used in the US and Latin American countries) Delete Borrar, eliminar Download Descargar,'

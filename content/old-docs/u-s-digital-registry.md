@@ -1,6 +1,5 @@
 ---
 url: /services/u-s-digital-registry/
-type: old_doc
 date: 2016-01-08 11:06:56 -0400
 title: U.S. Digital Registry
 summary: ' Whether for access to emergency, financial or education public services, users need to trust they are engaging with official U.S. government digital accounts. The U.S. Digital Registry serves as the authoritative resource for agencies, citizens and'

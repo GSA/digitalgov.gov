@@ -1,6 +1,5 @@
 ---
 url: /communities/web-managers-forum/member-spotlight-karen-higa-state-of-hawaii/
-type: old_doc
 date: 2014-10-14 2:12:31 -0400
 title: Member Spotlight – Karen Higa, State of Hawaii
 summary: 'This month, we turn the spotlight on Karen Higa, who manages Hawaii.gov. Besides being arguably the most beautiful government website (what can I say? I&rsquo;m a fan of blue water, brilliant sunsets, and palm trees&#8230;), Hawaii.gov has just won the 2014 Best of the Web Digital Government Achievement Award'

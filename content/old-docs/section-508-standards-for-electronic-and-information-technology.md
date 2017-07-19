@@ -1,6 +1,5 @@
 ---
 url: /resources/section-508-standards-for-electronic-and-information-technology/
-type: old_doc
 date: 2015-09-10 3:38:34 -0400
 title: Section 508 Standards for Electronic and Information Technology
 summary: 'The Section 508 Guidelines include this subpart on Electronic and Information Technology to ensure government websites are accessible to &#8220;individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who'

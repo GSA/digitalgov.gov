@@ -1,6 +1,5 @@
 ---
 url: /resources/my-commetrics-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 9:48:09 -0400
 title: My.ComMetrics Federal Terms of Service
 summary: 'My.comMetrics provides tracking and benchmarking as well as actionable insights for blogs. My.ComMetrics Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See more DigitalGov Resources'

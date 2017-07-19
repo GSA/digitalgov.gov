@@ -1,6 +1,5 @@
 ---
 url: /resources/chatwing-federal-terms-of-service/
-type: old_doc
 date: 2015-09-14 9:12:32 -0400
 title: chatWING Federal Terms of Service
 summary: 'chatWING is a chat app that connects your Web Chat, allows you to network your chat with your friends, and connect via social meda with the controls and customization options you want.   View chatWING Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List'

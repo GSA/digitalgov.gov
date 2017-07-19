@@ -1,6 +1,5 @@
 ---
 url: /resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/
-type: old_doc
 date: 2015-04-24 4:12:26 -0400
 title: 10 Tips for Creating the Perfect Open Opportunity Task
 summary: 'Divide and conquer: Keep projects simple: if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially). In order to create the Federal Crowdsource Mobile Testing Program, the Mobile team posted a 20 percent task to help plan and create the'

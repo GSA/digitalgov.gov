@@ -1,6 +1,5 @@
 ---
 url: /resources/govloop-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 11:13:48 -0400
 title: Govloop Federal Terms of Service
 summary: 'GovLoop is an online social network for people in and around government. The community includes federal, state and local government employees in the United States, government contractors, employees of governments outside the United States and individuals interested in government service. GovLoop hosts personal profile pages, discussion groups and forums, blogs, photographs, videos, slide presentations, a wiki'

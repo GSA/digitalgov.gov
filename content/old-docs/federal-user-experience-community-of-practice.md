@@ -1,6 +1,5 @@
 ---
 url: /communities/federal-user-experience-community-of-practice/
-type: old_doc
 date: 2014-01-13 2:35:36 -0400
 title: Federal User Experience Community
 summary: Join our community of more than 1,000 federal User Experience practitioners, and learn how to make better, User-Centered products. Why Join Learn how other agencies are creating great User Experiences! Find how how to conduct valuable user research with little (or no) budget! Meet other government usability practitioners! Share your own successes and tips! How

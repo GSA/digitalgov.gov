@@ -1,6 +1,5 @@
 ---
 url: /resources/stack-exchange-federal-terms-of-service/
-type: old_doc
 date: 2015-09-25 1:47:37 -0400
 title: Stack Exchange Federal Terms of Service
 summary: 'Stack Exchange is a network of 130+ Q&A communities including Stack Overflow, the site for programmers to find, ask, and answer questions about software development. Founded in 2008, the company was built on the premise that serving the developer community at large would lead to a better, smarter Internet. View Stack Exchange Federal Terms of'

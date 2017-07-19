@@ -1,6 +1,5 @@
 ---
 url: /resources/slideshare-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 10:35:11 -0400
 title: Slideshare Federal Terms of Service
 summary: 'Slideshare, part of the LinkedIn family, makes knowledge sharing easy by providing an online platform for the uploading and sharing of PowerPoint presentations, Word documents and Adobe PDF portfolios. Slideshare Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms'

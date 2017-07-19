@@ -1,6 +1,5 @@
 ---
 url: /resources/pinterest-federal-terms-of-service/
-type: old_doc
 date: 2015-09-25 1:42:56 -0400
 title: Pinterest Federal Terms of Service
 summary: 'Pinterest is a free website where users can upload, save, sort and manage images known as pins and other media content through collections known as pinboards. Pinterest acts as a personalized media platform.   Pinterest Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of'

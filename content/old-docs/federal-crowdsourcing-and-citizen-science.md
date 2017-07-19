@@ -1,6 +1,5 @@
 ---
 url: /communities/federal-crowdsourcing-and-citizen-science/
-type: old_doc
 date: 2015-09-29 2:17:02 -0400
 title: Federal Crowdsourcing and Citizen Science
 summary: If you had 100,000 people to help you with your work, what would you do? The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. Learn More The community is open to

@@ -1,6 +1,5 @@
 ---
 url: /communities/video-production-pros-community-of-practice/
-type: old_doc
 date: 2016-07-08 1:19:06 -0400
 title: Video Production Pros Community of Practice
 summary: Who Are We? We launched in 2016 to help people connect and share great ideas. Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We will share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with

@@ -1,6 +1,5 @@
 ---
 url: /sites-ad/
-type: old_doc
 date: 2015-06-08 1:35:29 -0400
 title: Sites Ad
 summary: ' Want to learn more about Sites.USA.gov? Sites is designed to enable the rapid deployment of public facing federal government websites* for the purpose of providing public information in a secure and readily accessible environment. Provide the information below: [contact-form-7 id=&#8221;276542&#8243;'

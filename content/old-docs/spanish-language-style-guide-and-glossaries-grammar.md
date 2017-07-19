@@ -1,6 +1,5 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-and-glossaries-grammar/
-type: old_doc
 date: 2014-02-07 5:16:19 -0400
 title: 'Spanish Language Style Guide and Glossaries: Grammar'
 summary: 'Abbreviations, Acronyms and Em Dash Spanish Language Articles Spanish Language Capitalization Spanish Language Dates & Numbers Spanish Language Punctuation Spanish Language Diacritics and HTML Code   Abbreviations, Acronyms and Em Dash Abbreviations Incorrect Use: Correct Use: EE UU EE. UU. (Estados Unidos) f.f. c.c. FF. CC. (ferrocarriles) Plural form of compound words, organization names or'

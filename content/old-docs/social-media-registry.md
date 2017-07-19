@@ -1,6 +1,5 @@
 ---
 url: /services/social-media-registry/
-type: old_doc
 date: 2013-11-30 4:31:19 -0400
 title: Social Media Registry
 summary: ' For U.S. Government Register and Manage Accounts For Developers: Using and Improving the API Access the U.S. Digital Registry API or its GitHub'

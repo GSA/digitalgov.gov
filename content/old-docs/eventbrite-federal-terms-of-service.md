@@ -1,6 +1,5 @@
 ---
 url: /resources/eventbrite-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 9:31:30 -0400
 title: Eventbrite Federal Terms of Service
 summary: 'Eventbrite is a self-service event tool to help you organize better events and reach more people online. Eventbrite Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See more DigitalGov Resources'

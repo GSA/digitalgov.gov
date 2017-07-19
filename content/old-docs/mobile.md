@@ -1,6 +1,5 @@
 ---
 url: /communities/mobile/
-type: old_doc
 date: 2013-11-21 3:30:19 -0400
 title: MobileGov Community of Practice
 summary: MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow. Join Us! Hear how forward thinking agencies are tackling public facing mobile technologies together and help build government-wide solutions. Only Federal Employees are invited to join the Community of Practice.

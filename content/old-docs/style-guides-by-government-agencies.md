@@ -1,6 +1,5 @@
 ---
 url: /resources/style-guides-by-government-agencies/
-type: old_doc
 date: 2017-05-23 3:43:08 -0400
 title: Style Guides by Government Agencies
 summary: 'This page is a collection of style guides created by government agencies. Style guides are used to set the tone and guidelines for how an agency communicates with the public. You can add your agency&#8217;s guide by emailing DigitalGov or sharing in the Plain Language Community of Practice. 18F Content Guide Centers for Disease Control and Prevention (CDC)'

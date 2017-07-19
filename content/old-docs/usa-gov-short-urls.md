@@ -1,6 +1,5 @@
 ---
 url: /services/usa-gov-short-urls/
-type: old_doc
 date: 2013-12-12 12:10:47 -0400
 title: USA.gov Short URLs
 summary: Short URLs have become an essential part of social media communications. They make it easy to share long links with your audience and let you track clicks on your links. Unfortunately, short URLs can create a poor user experience. A short URL could take a user to a trustworthy site or a spam site, but

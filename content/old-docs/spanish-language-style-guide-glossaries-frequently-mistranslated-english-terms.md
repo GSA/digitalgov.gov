@@ -1,6 +1,5 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms/
-type: old_doc
 date: 2014-06-11 9:57:38 -0400
 title: 'Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms'
 summary: 'Abbreviations Key v: verb n: noun adj.: adjective exp.: expression   English Spanish Equivalent Access [v] Broadvision (Portal) Acceder a- NEVER accesar Act [n], when referring to a law &#8211; No Child Left Behind Act Ley o Proyecto de Ley; NEVER acta American [adj.] Estadounidense, less desirable, norteamericano; NEVER americano Authoritative[adj.] Confiable &ndash; According to the Real Academia Espa&ntilde;ola Autoritativo is hardly used.'

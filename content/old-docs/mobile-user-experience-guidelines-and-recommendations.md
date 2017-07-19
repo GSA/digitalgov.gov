@@ -1,6 +1,5 @@
 ---
 url: /resources/mobile-user-experience-guidelines-and-recommendations/
-type: old_doc
 date: 2013-12-11 4:13:00 -0400
 title: Mobile User Experience Guidelines and Recommendations
 summary: 'If your app doesn&#8217;t have a good user experience, it goes to the app graveyard. The need for digital products to work better is not new in the federal government. Resources like the Digital Playbook and Public Participation Playbook have had impact helping agencies become user-friendly and both of these resources note the importance of'

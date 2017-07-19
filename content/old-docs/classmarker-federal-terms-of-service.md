@@ -1,6 +1,5 @@
 ---
 url: /resources/classmarker-federal-terms-of-service/
-type: old_doc
 date: 2015-11-05 11:44:29 -0400
 title: ClassMarker Federal Terms of Service
 summary: 'ClassMarker is a professional web-based testing service used to create easy-to-use, customizable online tests for business, training & educational assessment. View ClassMarker Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements See more DigitalGov Resources'

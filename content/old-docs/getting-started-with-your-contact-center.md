@@ -1,6 +1,5 @@
 ---
 url: /resources/contact-center-guidelines/getting-started-with-your-contact-center/
-type: old_doc
 date: 2014-02-05 10:25:54 -0400
 title: Getting Started with your Contact Center
 summary: 'Planning and creating a successful government contact center is a complex endeavor. This section provides insight on the various aspects to help you get started: What is a Contact Center? Attributes of High-Performing Contact Centers Planning a Government Contact Center Customer Contact Channels and Strategies Contact Center Site Selection Criteria What is a Contact Center?'

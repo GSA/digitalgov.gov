@@ -1,6 +1,5 @@
 ---
 url: /resources/surveymonkey-federal-terms-of-service/
-type: old_doc
 date: 2015-09-25 1:50:39 -0400
 title: SurveyMonkey Federal Terms of Service
 summary: 'SurveyMonkey is a online survey development cloud-based tool that provides free, customizable surveys as well as  data analysis. View SurveyMonkey Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See more DigitalGov Resources    '

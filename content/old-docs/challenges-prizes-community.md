@@ -1,6 +1,5 @@
 ---
 url: /communities/challenges-prizes-community/
-type: old_doc
 date: 2013-12-05 11:46:00 -0400
 title: 'Challenges & Prizes Community'
 summary: ' Thinking about running a challenge and prize competition at your agency, but really want to talk to someone who has done it? Better yet, want to talk to somebody at your own agency, or someone who has run the same type of challenge you'

@@ -1,6 +1,5 @@
 ---
 url: /404-error/
-type: old_doc
 date: 2015-03-20 9:43:26 -0400
 title: '404 &#8211; Page Not Found'
 summary: '   Oops &#8211; The page you&#8217;re looking for cannot be found. What you can do: Go back to the homepage. Search for it. Look at the sitemap Check out a list of pages that have been moved. Let us know this page is missing by'

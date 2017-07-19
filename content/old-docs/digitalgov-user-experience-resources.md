@@ -1,6 +1,5 @@
 ---
 url: /resources/digitalgov-user-experience-resources/
-type: old_doc
 date: 2013-12-04 4:26:11 -0400
 title: DigitalGov User Experience Resources
 summary: 'We want to help you make better digital products. We believe that a little user research makes government a lot better. DigitalGov&#8217;s user experience resources provide tools for federal employees how to: Make products and services more user-friendly Save money via user research'

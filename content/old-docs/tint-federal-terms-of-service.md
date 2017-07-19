@@ -1,6 +1,5 @@
 ---
 url: /resources/tint-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:15:30 -0400
 title: Tint Federal Terms of Service
 summary: 'Tint helps organization drive deeper relationship with their customers through social media. Use Tint to aggregate, curate, and display any social media feeds anywhere. View Tint Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See'

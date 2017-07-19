@@ -1,6 +1,5 @@
 ---
 url: /communities/other-government-communities/
-type: old_doc
 date: 2016-02-08 10:40:40 -0400
 title: Other Government Communities
 summary: 'Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA. Digital communities of practice come in many stripes. DigitalGov communities span 10 (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. Here is a'

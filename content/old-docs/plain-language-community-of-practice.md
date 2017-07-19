@@ -1,6 +1,5 @@
 ---
 url: /communities/plain-language-community-of-practice/
-type: old_doc
 date: 2016-02-03 10:58:53 -0400
 title: Plain Language Community of Practice
 summary: 'Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public. And it&rsquo;s the law: The Plain Writing Act of 2010 (PDF, 125 KB) mandates plain language for certain audiences and tasks.'

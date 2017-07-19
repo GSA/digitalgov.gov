@@ -1,6 +1,5 @@
 ---
 url: /resources/ideascale-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 10:25:41 -0400
 title: Ideascale Federal Terms of Service
 summary: 'Ideascale allows organizations to collect the ideas of public and private communities and gives users a platform to vote. The ideas are then evaluated, routed, and implemented, making Ideascale the engine of crowd-powered innovation. View Ideascale Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service'

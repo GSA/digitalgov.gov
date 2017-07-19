@@ -1,6 +1,5 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-language-style-guide-glossaries-internet-resources/
-type: old_doc
 date: 2014-06-11 9:59:14 -0400
 title: 'Spanish Language Style Guide & Glossaries: Internet Resources'
 summary: 'Glosario T&eacute;cnico de Computaci&oacute;n, Electr&oacute;nica y Telecomunicaciones (computing, electronics and telecommunications glossary). Technical glossary of computing, electronics and telecommunications terminology, including translations and definitions (shown in italics when applicable). Additionally, the abbreviation of the country where a translation is used is listed in brackets. If a country code is not shown, it is assumed that'

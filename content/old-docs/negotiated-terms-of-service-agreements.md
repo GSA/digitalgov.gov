@@ -1,6 +1,5 @@
 ---
 url: /resources/negotiated-terms-of-service-agreements/
-type: old_doc
 date: 2014-01-13 10:50:02 -0400
 title: Negotiated Terms of Service Agreements
 summary: 'Before you decide to use one of the free digital tools below, seek the advice of your agency Terms of Service (TOS) Point of Contact (POC) to be sure your agency has already signed a federal-compatible TOS, that the product supports your broader agency mission and'

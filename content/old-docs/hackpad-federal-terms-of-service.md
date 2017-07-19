@@ -1,6 +1,5 @@
 ---
 url: /resources/hackpad-federal-terms-of-service/
-type: old_doc
 date: 2015-09-17 10:40:33 -0400
 title: Hackpad Federal Terms of Service
 summary: 'Hackpad is s a collaborative editing tool similar to Google Docs. Create and Organize. Take collaborative notes, share data and files, and use comments to share your thoughts in real-time or asynchronously. View Hackpad Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of'

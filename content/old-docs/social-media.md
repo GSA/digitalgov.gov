@@ -1,6 +1,5 @@
 ---
 url: /communities/social-media/
-type: old_doc
 date: 2013-11-21 3:32:54 -0400
 title: Social Media Community of Practice
 summary: 'The Federal SocialGov Community unites over 1,200 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs. The SocialGov Community launched in June 2012 as a performance-based inter-agency collaboration, working with missions across government, the White House, international partners,'

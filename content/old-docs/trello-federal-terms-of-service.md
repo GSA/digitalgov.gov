@@ -1,6 +1,5 @@
 ---
 url: /resources/trello-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:37:09 -0400
 title: Trello Federal Terms of Service
 summary: 'Trello is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what&#8217;s being worked on, who&#8217;s working on what, and where something is in a process. View Trello Federal Terms of Service Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List'

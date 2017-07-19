@@ -1,6 +1,5 @@
 ---
 url: /about/lost-and-found-mapping-page/
-type: old_doc
 date: 2014-09-16 4:20:55 -0400
 title: 'Lost and Found &#8211; Mapping Page'
 summary: 'Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL. About Us Policies and Guidelines for Federal Public Websites: Recommendations of ICGI Report howto.gov/about-us/documents/icgi-report-recommendations ICGI Report Attachments ICGI Recommendations for Federal Public Websites &ndash; 2004 howto.gov/about-us/documents/icgi-report-summary-and-background ICGI Summary and Background Site Policies'

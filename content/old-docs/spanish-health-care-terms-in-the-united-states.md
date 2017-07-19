@@ -1,6 +1,5 @@
 ---
 url: /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
-type: old_doc
 date: 2014-06-11 12:40:27 -0400
 title: Spanish Health Care Terms in the United States
 summary: 'English Term and Spanish Equivalent acute inpatient hospital care atenci&oacute;n hospitalaria para casos agudos admission hospitalizaci&oacute;n, ingreso hospitalario, admisi&oacute;n hospitalaria advanced directives instrucciones por adelantado; advocate defensor del paciente alcohol abuse abuso del alcohol, abuso de bebidas alcoh&oacute;licas base line valores de referencia, iniciales; bereavement pesar; duelo breast seno; pecho; mama [this word, although technically'

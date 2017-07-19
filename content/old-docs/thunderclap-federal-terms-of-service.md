@@ -1,6 +1,5 @@
 ---
 url: /resources/thunderclap-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:22:19 -0400
 title: Thunderclap Federal Terms of Service
 summary: 'Thunderclap is a &#8220;crowd speaking&#8221; platform that helps people be heard by saying something together. It allows a single message to be mass-shared, flash mob-style, so it rises above the noise of your social networks. View Thunderclap Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible'

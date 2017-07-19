@@ -1,6 +1,5 @@
 ---
 url: /join-digitalgov/open-opportunities-in-digitalgov/
-type: old_doc
 date: 2014-05-12 1:41:02 -0400
 title: Open Opportunities in DigitalGov
 summary: 'Building a 21st century workforce. One task at a time. Get Started Every agency at every level of government has a role in creating digital government. There are great opportunities to solve the problems in your agencies and to engage your high-performing staff with cutting-edge projects across agency bounds.'

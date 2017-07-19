@@ -1,6 +1,5 @@
 ---
 url: /digitalgov-university/
-type: old_doc
 date: 2013-11-17 11:11:43 -0400
 title: DigitalGov University
 summary: 'DigitalGov University (DGU) is helping agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.'

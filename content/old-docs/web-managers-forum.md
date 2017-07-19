@@ -1,6 +1,5 @@
 ---
 url: /communities/web-managers-forum/
-type: old_doc
 date: 2013-11-21 3:31:31 -0400
 title: Web Content Managers Forum
 summary: Who Are We? If you manage a U.S. government website, or write digital content for your agency, this group is for you! The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites. Discussion topics cover content strategy, accessibility,

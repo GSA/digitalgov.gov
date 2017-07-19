@@ -1,6 +1,5 @@
 ---
 url: /sample-page/
-type: old_doc
 date: 2017-05-29 1:50:02 -0400
 title: Sample Page
 summary: 'This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I&#8217;m a bike messenger'

@@ -1,6 +1,5 @@
 ---
 url: /resources/socialoomph-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:13:03 -0400
 title: SocialOomph Federal Terms of Service
 summary: 'SocialOomph is a cloud based application that offers tools for using Twitter and Facebook more productively. View SocialOomph Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See more DigitalGov Resources'

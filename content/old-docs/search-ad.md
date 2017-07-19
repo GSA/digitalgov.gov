@@ -1,6 +1,5 @@
 ---
 url: /search-ad/
-type: old_doc
 date: 2015-06-15 4:01:02 -0400
 title: Search Ad
 summary: ' Say hello to a better search. Thousands of government websites are improving their visitors&#8217; experience with DigitalGov Search. Are your visitors happy with your results? \[two\_third] Sign up now for more information [contact-form-7 id=&#8221;280592&#8243; title=&#8221;DigitalGov Search Ad Info Request&#8221;\]\[/two\_third\][one\_third\_last] It would be impossible to match the value of GSA&#8217;s DigitalGov Search service'

@@ -1,6 +1,5 @@
 ---
 url: /resources/quora-federal-terms-of-service/
-type: old_doc
 date: 2015-09-29 9:10:42 -0400
 title: Quora Federal Terms of Service
 summary: 'Quora is a question-and-answer website where questions are asked, answered, edited and organized by its community of users. Quora Federal Terms of Service   Related Links What is a Terms of Service Agreement? Information on Federal Compatible Terms of Service List of Federal Terms of Service Agreements     See more DigitalGov Resources'

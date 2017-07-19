@@ -1,6 +1,5 @@
 ---
 url: /services/search/
-type: old_doc
 date: 2013-11-30 4:20:13 -0400
 title: DigitalGov Search
 summary: 'Use DigitalGov Search (formerly USASearch) to power the search box on your federal government website&mdash;at no cost. Sign up for an account to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website. Search across all of your public-facing content. We support an unlimited number of web pages across an unlimited number domains. We also integrate your tweets,'

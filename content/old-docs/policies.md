@@ -1,6 +1,5 @@
 ---
 url: /about/policies/
-type: old_doc
 date: 2013-12-19 12:58:33 -0400
 title: Policies
 summary: 'Comment Policy Comments are available on many pages and posts on this site. We welcome your comments and expect that our conversation will follow the general rules of respectful civil discourse. We will only post comments related'
