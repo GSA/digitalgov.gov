@@ -1,0 +1,15 @@
+<div id="recent-posts-10" class="widget widget-1 widget-first widget_recent_entries">
+  <div class="widget-wrap">
+    <h3 class="widgettitle">
+      <span>Recent Posts</span>
+    </h3>
+    <ul>
+      {{ range first 10 (where .Site.Pages "Section" "posts") }}
+        <li>
+          <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}" class="wpp-post-title" target="_self">{{ .Title | markdownify }}</a>
+          <br>
+        </li>
+      {{ end }}
+    </ul>
+  </div><!-- widget-wrap -->
+</div><!-- widget.widget-1.widget-first.popular-posts -->
