@@ -10,7 +10,10 @@
       {{ range first 3 $events }}
         {{ partial "event--item.html" . }}
       {{ end }}
-      
+
     </ol>
+    <p class="tribe-events-widget-link">
+  		<a href="{{ "events" | absURL }}" rel="bookmark">View All Events</a>
+    </p>
   </div>
 </div>
