@@ -1,8 +1,21 @@
 <body class="{{ $.Scratch.Get "bodyclasses" }}">
+  {{ $cleanurl := .URL }}
+  {{ $cleanurl := replaceRE "(author|event)s/(.)" "$1/$2" $cleanurl }}
+  {{ $cleanurl := replaceRE "categories/(.)" "category/$1" $cleanurl }}
+  {{ $cleanurl := replaceRE "^(.)" "/$1" $cleanurl }}
+  {{ $cleanurl := replaceRE "//" "/" $cleanurl }}
+  {{ $siteslink := printf "https://%s" (printf "www.digitalgov.gov%s" $cleanurl) }}
+
+  <div div class="notice">
+    <div class="notice-content">
+      <p class="notice-text"><span class="notice-text--primary">This is the Federalist version of digitalgov.</span> See the Sites page <a href="{{ $siteslink }}" target="_blank">{{ $cleanurl }}</a>.</p>
+    </div>
+  </div>
 
   {{ partial "nav-fixed-navbar.html" . }}
 
   <a class="screen-reader-popup" href="#content" title="Skip to page content">Skip to page content</a>
+
 
   <div id="outer-wrap">
 

@@ -8,27 +8,11 @@ authors:
   - apiazza
 ---
 
-<table style="border: 0" align="center">
-
-<tbody>
-
-<tr>
-
-<td style="border: 0;width: 62%">
-
 Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, “getting started” guidance, policy requirements and more.
 
 Looking for overall digital policy guidance? See the [Checklist of Requirements for Federal Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}).
 
-</td>
-
-<td style="border: 1;width: 38%">[dg-search affiliate=”digitalgov” value=”1678″]</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[dg-search affiliate=”digitalgov” value=”1678″]
 
 * * *
 

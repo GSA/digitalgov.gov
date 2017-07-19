@@ -8,21 +8,60 @@
     <div id="content" class="clearfix">
       {{ $slug := .Title | urlize }}
       {{ $person := index $.Site.Data.people.authors $slug }}
+      {{ $person_name := $person.display_name | default .Title }}
 
       <div class="auth-bio clearfix">
-    		<h1><span>{{ $person.full_name | default .Title }}</span></h1>
-        {{ with $person.gravatar_email }}
-          <img alt=''
-            src='https://www.gravatar.com/avatar/{{ md5 . }}?s=48&d=identicon'
-            srcset='https://www.gravatar.com/avatar/{{ md5 . }}?s=96&d=identicon 2x'
-            class='avatar avatar-48 photo' height='48' width='48' />
+    		<h1><span>{{ $person_name }}</span></h1>
+
+        {{if $person.image }}
+          {{/* defaulting to gh until we have an image solution */}}
+          {{ with $person.github }}
+            <img alt=''
+              src='https://www.github.com/{{ . }}.png?size=48'
+              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
+              class='avatar avatar-48 photo' height='48' width='48' />
+          {{ end }}
+        {{ else }}
+          {{ with $person.github }}
+            <img alt=''
+              src='https://www.github.com/{{ . }}.png?size=48'
+              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
+              class='avatar avatar-48 photo' height='48' width='48' />
+          {{ end }}
         {{ end }}
+
         {{ with $person.bio }}
       		<p>{{ . | markdownify }}</p>
         {{ end }}
+
+        {{ with $person.website }}
+          <p class="auth-website"><a rel="external" title="Author Website" href="{{ . }}">Author's Website</a></p>
+        {{ end }}
+
         <div class="sub-icons auth-icons">
         	<ul class="clearfix">
-        		<li><a class="subicon rss" rel="external" title="RSS Feed for {{ $person.full_name | default .Title }}" href="{{ .RSSLink }}">RSS Feed</a></li>
+            <li><a class="subicon rss" rel="external" title="RSS Feed for {{ $person_name }}" href="{{ .RSSLink }}">RSS Feed</a></li>
+
+            {{ with $person.facebook }}
+          		<li><a class="subicon facebook" rel="external" title="{{ $person_name }} on Facebook" href="http://www.facebook.com/{{ $person.facebook }}/">Facebook</a></li>
+            {{ end }}
+
+            {{ with $person.twitter }}
+          		<li><a class="subicon twitter" rel="external" title="{{ $person_name }} on Twitter" href="http://www.twitter.com/{{ $person.twitter }}/">Twitter</a></li>
+            {{ end }}
+
+            {{ with $person.linkedin }}
+          		<li><a class="subicon linkedin" rel="external" title="{{ $person_name }} on LinkedIn" href="http://www.linkedin.com/in/{{ $person.linkedin }}/">LinkedIn</a></li>
+            {{ end }}
+
+            {{ with $person.youtube }}
+          		<li><a class="subicon youtube" rel="external" title="{{ $person_name }} on YouTube" href="http://www.youtube.com/user/{{ $person.youtube }}">YouTube</a></li>
+            {{ end }}
+
+            {{ with $person.github }}
+          		<li><a class="subicon github" rel="external" title="{{ $person_name }} on GitHub" href="http://www.github.com/{{ $person.github }}">GitHub</a></li>
+            {{ end }}
+
         	</ul>
         </div>
       </div>
