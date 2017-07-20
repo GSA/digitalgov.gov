@@ -10,7 +10,13 @@
       {{ $slug := .Title | urlize }}
       {{ $taxdata := index $data $taxonomy }}
       {{ $term := index $taxdata $slug }}
-      <h1 class="archive-title">{{ $term }}</h1>
+      <h1 class="archive-title">{{ $term.display_name }}</h1>
+
+      {{ with $term.summary }}
+        <div class="content">
+  				<p>{{ . | markdownify }}</p>
+  			</div>
+      {{ end }}
 
       {{ range .Pages }}
         {{ partial "summary-withImage.html" . }}

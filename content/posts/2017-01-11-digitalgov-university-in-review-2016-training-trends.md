@@ -49,7 +49,7 @@ tag:
   - National Aeronautics and Space Administration
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - open data
   - Open Opportunities program
   - OPP

@@ -16,7 +16,7 @@ tag:
   - CX
   - DGU
   - DigitalGov University
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - research
   - user centered design

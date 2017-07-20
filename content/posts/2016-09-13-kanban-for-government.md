@@ -13,7 +13,7 @@ tag:
   - kanban
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - Work In Progress
   - workflows
