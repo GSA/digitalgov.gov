@@ -1,5 +1,6 @@
 ---
 url: /communities/video-production-pros-community-of-practice/
+uid: video-production-pros
 date: 2016-07-08 1:19:06 -0400
 title: Video Production Pros Community of Practice
 summary: Who Are We? We launched in 2016 to help people connect and share great ideas. Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government. We will share leading trends, best practices, latest projects, feedback, techniques, and strategies to help our respective agencies connect with
@@ -36,7 +37,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" href="{{< relref "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}">The Content Corner: Social Media Metrics and the Challenge of Effective Measurement</a>
         </h4>
@@ -52,7 +53,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to What Mobile Devices Do People Use to Access Federal Sites?" href="{{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-3D-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-453448349.jpg" alt="What Mobile Devices Do People Use to Access Federal Sites?" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}">What Mobile Devices Do People Use to Access Federal Sites?</a>
         </h4>
@@ -76,7 +77,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to Five Ways That Video Will Continue to Evolve on Facebook" href="{{< relref "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Media-technology-internet-online-communication-and-telecommunication-network-concept-cybrain-iStock-Thinkstock-524722954.jpg" alt="Five Ways That Video Will Continue to Evolve on Facebook" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}">Five Ways That Video Will Continue to Evolve on Facebook</a>
         </h4>
@@ -92,7 +93,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to 508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< relref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-USCIS-The-Citizenship-Interview-and-Test-on-YouTube-player.jpg" alt="508 Accessible Videos – Use a 508-Compliant Video Player" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">508 Accessible Videos – Use a 508-Compliant Video Player</a>
         </h4>
@@ -108,7 +109,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to Storyboard: A Tool for a Successful Video" href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Storyboard-template-for-film-story-vectortatu-iStock-Thinkstock-540603270.jpg" alt="Storyboard: A Tool for a Successful Video" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
         </h4>
@@ -126,7 +127,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
         <div class="featpage-image">
           <a title="Permanent Link to Social Video: Making Sense of the Facebook and YouTube Platforms" href="{{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Social Video: Making Sense of the Facebook and YouTube Platforms" >}}</a>
         </div>
-        
+
         <h4 class="post-title">
           <a href="{{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}">Social Video: Making Sense of the Facebook and YouTube Platforms</a>
         </h4>
@@ -149,7 +150,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 
 [ecs-list-events order=&#8217;ASC&#8217; limit=&#8217;6&#8242; thumb=&#8217;true&#8217; excerpt=&#8217;240&#8242; eventdetails=&#8217;true&#8217; viewall=&#8217;false&#8217; cat=&#8217;audio-video&#8217; message=&#8217;There are no upcoming Audio/Video events at this time.&#8217;]
 
- 
+
 
 <hr style="border: none;height: 2em" />
 

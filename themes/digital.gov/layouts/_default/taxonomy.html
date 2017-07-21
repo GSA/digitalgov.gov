@@ -1,6 +1,10 @@
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
+  {{ with .Params.community }}
+    {{ $.Scratch.Set "relatedCommunity" . }}
+  {{  end }}
 {{ end }}
+
 
 {{ define "content" }}
   {{ $data := $.Site.Data }}

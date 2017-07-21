@@ -1,5 +1,6 @@
 ---
 url: /communities/federal-crowdsourcing-and-citizen-science/
+uid: federal-crowdsourcing-and-citizen-science
 date: 2015-09-29 2:17:02 -0400
 title: Federal Crowdsourcing and Citizen Science
 summary: If you had 100,000 people to help you with your work, what would you do? The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. Learn More The community is open to
@@ -9,7 +10,7 @@ authors:
 
 If you had 100,000 people to help you with your work, what would you do?
 
-The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. {{< legacy-img src="CDN/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." caption="" >}} 
+The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. {{< legacy-img src="CDN/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." caption="" >}}
 
 ## Learn More
 
@@ -64,25 +65,25 @@ The CCS community was founded in 2012 by Lea Shanley (co-chair Emeritus). Five p
 **CCS Co-Chairs (as of 4/13/2016):**
 
 [Jay Benforado](mailto:Benforado.Jay@epa.gov), Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
-  
+
 [Sophia B. Liu](mailto:sophialiu@usgs.gov), Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
 
 **CCS Steering Committee (as of 4/13/2016):**
 
 Bill Brantley, U.S. Patent and Trade Office (PTO)
-  
+
 Ben Butler, Forest Service (USFS)
-  
+
 Jennifer Couch, National Institutes of Health (NIH)
-  
+
 Ruthanna Gordon, contractor, Intelligence Advanced Research Projects Agency (IARPA)
-  
+
 Amy Kaminski, NASA
-  
+
 Amanda Kaufman, EPA ORISE fellow
-  
+
 Ellen McCallie, National Science Foundation (NSF)
-  
+
 Alison Parker, EPA ORISE fellow
-  
+
 Holli Riebeek, NASA
