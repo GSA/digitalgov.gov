@@ -7,14 +7,20 @@ bar-and-qaz:
 challenges:
   display_name: "Challenges"
   summary: Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success.
+  communities:
+    - challenges-and-prizes
 code:
   display_name: "Code"
 communities:
   display_name: "Communities"
+  communities:
+    - mobile
 content:
   display_name: "Content"
 crowdsourcing-and-citizen-science:
   display_name: "Crowdsourcing & Citizen Science"
+  communities:
+    - federal-crowdsourcing-and-citizen-science
 data:
   display_name: "Data"
 design:
@@ -23,11 +29,15 @@ governance:
   display_name: "Governance"
 managing-digital:
   display_name: "Managing Digital"
+  communities:
+    - web-managers-forum
 metrics:
   display_name: "Metrics"
 mobile:
   display_name: "Mobile"
   summary: Any time, any where, any device. Now that’s truly mobile.
+  communities:
+    - mobile
 monthly-theme:
   display_name: "Monthly Theme"
 our-work:
@@ -35,6 +45,8 @@ our-work:
 social-media:
   display_name: "Social Media"
   summary: Making government more efficient, more open.
+  communities:
+    - social-media
 strategy-and-policy:
   display_name: "Strategy & Policy"
 uncategorized:
@@ -44,9 +56,11 @@ user-testing-and-research:
 ux:
   display_name: "UX"
   summary: Create user-focused content and designs, and make government information accessible to people with disabilities.
+  communities:
+    - federal-user-experience
 video:
   display_name: "Video"
 whats-new:
-  display_name: "What’s  New"
+  display_name: "What’s New"
 writing:
   display_name: "Writing"

@@ -8,7 +8,7 @@ summary: MobileGov Community of Practice members, a network of federal employees
 
 MobileGov Community of Practice members, a network of federal employees, work across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.
 
-## **Join Us!**
+## Join Us!
 
 Hear how forward thinking agencies are tackling public facing mobile technologies together and help build government-wide solutions. Only Federal Employees are invited to join the Community of Practice. Email [Jacob Parcell](mailto:mobilegov-request@listserv.gsa.gov) with “Subscribe to MobileGov” in the subject line.
 

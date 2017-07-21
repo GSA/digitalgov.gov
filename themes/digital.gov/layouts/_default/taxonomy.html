@@ -1,8 +1,6 @@
 {{ define "pagevars" }}
   {{ $.Scratch.Set "bodyclasses" "archive category c-sw unboxed centercatnav bodybg1" }}
-  {{ with .Params.community }}
-    {{ $.Scratch.Set "relatedCommunity" . }}
-  {{  end }}
+  {{ $.Scratch.Set "has_sidebar" true }}
 {{ end }}
 
 
@@ -14,6 +12,9 @@
       {{ $slug := .Title | urlize }}
       {{ $taxdata := index $data $taxonomy }}
       {{ $term := index $taxdata $slug }}
+      {{ with $term.communities }}
+        {{ $.Scratch.Set "relatedCommunity" . }}
+      {{  end }}
       <h1 class="archive-title">{{ $term.display_name }}</h1>
 
       {{ with $term.summary }}
