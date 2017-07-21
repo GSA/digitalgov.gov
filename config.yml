@@ -14,7 +14,7 @@ enableRobotsTXT         : false
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
-  - "content/posts/201[0-6]"
+#  - "content/posts/201[0-6]"
 
 sitemap:
   changefreq            : "monthly"
