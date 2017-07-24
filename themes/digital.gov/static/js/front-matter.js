@@ -10,11 +10,11 @@ jQuery(document).ready(function() {
         ' -0400';
     return output;
   }
-  jQuery('input[name="m_date"]').val(curr_date());
+  $('input[name="m_date"]').val(curr_date());
 
-  jQuery( "#matter-maker input" ).keyup(function( event ) {
+  $( "#matter-maker input" ).keyup(function( event ) {
     var data = {};
-    jQuery('#matter-maker').serializeArray().map(function(x){data[x.name] = x.value;}); 
+    $('#matter-maker').serializeArray().map(function(x){data[x.name] = x.value;}); 
     print_matter(data);
   });
 
@@ -26,11 +26,14 @@ jQuery(document).ready(function() {
     "'": '&#39;',
     '/': '&#x2F;',
     '`': '&#x60;',
-    '=': '&#x3D;'
+    '=': '&#x3D;',
+    '*': '&#42;',
+    '$': '&#36;',
+    '%': '&#37;'
   };
 
   function escapeHtml (string) {
-    return String(string).replace(/[&<>"'`=\/]/g, function (s) {
+    return String(string).replace(/[&<>"'`=*$%\/]/g, function (s) {
       return entityMap[s];
     });
   }
@@ -39,8 +42,8 @@ jQuery(document).ready(function() {
     var list = d.split(',');
     $item = '';
     $item += '\n';
-    jQuery.each( list, function( key, value ) {
-      $item += '  - ' + jQuery.trim(value) + '\n';
+    $.each( list, function( key, value ) {
+      $item += '  - ' + $.trim(value) + '\n';
     });
     return $item;
   }
@@ -56,7 +59,7 @@ jQuery(document).ready(function() {
         "tag: " + list_items(data['m_tag']),
       "---"
     ].join("\n");
-    jQuery('#post-matter').text(matter);
+    $('#post-matter').text(matter);
   }
 
 });
