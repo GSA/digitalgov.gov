@@ -3,7 +3,7 @@ date: 2016-02-05 10:00:17 -0400
 title: 4 Tips for Analyzing Mobile Traffic with DAP
 summary: 'It&rsquo;s not a secret that mobile Internet viewership is booming, but according to a ComScore report released last June, 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, Gartner reported PC shipments fell 7.7% while IDC Research reported a 10.8% decline. The switch to'
 authors:
-  - immanuel-lee
+  - ilee
 categories:
   - Metrics
   - Mobile
