@@ -1,5 +1,5 @@
 ---
-date: 2014-01-31 3:23:51 -0400
+date: 2014-01-31 15:23:51 -0400
 title: Instameets Combine In-person and Digital Engagement
 summary: 'Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212; Instameets can achieve this strategic goal by using Instagram with meetups to amplify the vision of your mission. Katie Harbath,'
 authors:

@@ -110,5 +110,4 @@ At any large organization, accuracy of data is of paramount importance &#8212; f
  
 
 [_Sara Smith_](https://www.linkedin.com/in/saramariecrocoll) _([@CrocollSmith](https://twitter.com/CrocollSmith)) is the Social Media Strategist for the National Institute on Drug Abuse (NIDA) and_ [_Anne Rancourt_](https://www.linkedin.com/in/annerancourt) _([@annerancourt](https://twitter.com/AnneRancourt)) is a Communications Section Chief at the National Institute of Allergy and Infectious Diseases (NIAID); both part of the National Institutes of Health (NIH)._
-
 _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_

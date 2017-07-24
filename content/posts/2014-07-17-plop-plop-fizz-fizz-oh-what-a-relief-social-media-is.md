@@ -1,5 +1,5 @@
 ---
-date: 2014-07-17 1:00:36 -0400
+date: 2014-07-17 13:00:36 -0400
 title: Plop Plop, Fizz Fizz, Oh What a Relief Social Media Is!
 summary: 'We often think of social media as a way to expand our audience, but some public health departments are using it as a new tool for tracking outbreaks of salmonella, e. coli, and other foodborne illnesses. It&rsquo;s a familiar story: A nice meal out results in days of gastrointestinal discomfort when you realize only too'
 authors:
@@ -35,6 +35,4 @@ However, this may take some finesse. Some Chicago tweeters were “caught off gu
 
 In addition, agencies already short-staffed may find these efforts labor intensive. Chicago’s algorithm had to be tweaked since it at first flagged things like people wanting to throw-up if they heard [Kelis’ Milkshake](http://www.youtube.com/watch?v=pGL2rytTraA&feature=kp) one more time. But where there’s a will, there’s a way; the city made the code [open source](https://github.com/smartchicago/foodborne) to get some help.
 
-All this is to say that this is an intriguing use of social media—not to reach your audience, but to make your audience reach you.
-
-_**Eden Savino** is a Senior Analyst in the Health Care team at the U.S. Government Accountability Office (GAO)._
+All this is to say that this is an intriguing use of social media—not to reach your audience, but to make your audience reach you._**Eden Savino** is a Senior Analyst in the Health Care team at the U.S. Government Accountability Office (GAO)._

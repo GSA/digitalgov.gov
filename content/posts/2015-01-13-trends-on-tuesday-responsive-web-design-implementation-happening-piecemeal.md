@@ -16,9 +16,9 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}} 
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}}
 
-Approximately 18% of websites have implemented [Responsive Web Design]({{< relref "2012-07-11-aids-gov-responsive-design.md" >}} "AIDS.gov Responsive Design"), according to the audit of websites [Guy Podjarny completed](http://www.guypo.com/rwd-2014/) in November. That&#8217;s more than [7% growth since his previous audit](//www.WHATEVER/2014/09/09/trends-on-tuesday-are-only-11-of-websites-responsive/) in January 2014.
+Approximately 18% of websites have implemented [Responsive Web Design]({{< relref "2012-07-11-aids-gov-responsive-design.md" >}} "AIDS.gov Responsive Design"), according to the audit of websites [Guy Podjarny completed](http://www.guypo.com/rwd-2014/) in November. That&#8217;s more than [7% growth since his previous audit]({{< relref "2014-09-09-trends-on-tuesday-are-only-11-of-websites-responsive.md" >}}) in January 2014.
 
 That number may seem low with the popularity of Responsive Web Design and the preference of mobile websites from users, but implementing responsive Web design is not as easy at it seems.
 

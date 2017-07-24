@@ -1,5 +1,5 @@
 ---
-date: 2014-06-03 3:14:11 -0400
+date: 2014-06-03 15:14:11 -0400
 title: Harnessing the Power of Many—DigitalGov Summit Recap
 summary: 'At the DigitalGov Citizen Services Summit last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on performance analysis, customer service across channels, and public private partnerships. &ldquo;The challenges are real,&rdquo; said Parcell, who quoted President Obama&#8217;s famous salmon'
 authors:
@@ -54,8 +54,5 @@ What can we do improve the quality of inter-agency work? Grama thinks it would b
 
 Agencies can also strive to think beyond their silos, since ultimately we work for the taxpayer. If you do work for another agency, “the taxpayer benefits even if your own agency doesn&#8217;t see the direct benefit,” said Pulsifer.
 
-What has been your experience with inter-agency work?
-
-_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](FIND?s=alison+lemon.md) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
-
+What has been your experience with inter-agency work?_**Alison Lemon** is a [Knowledge Manager for the SocialGov Community](FIND?s=alison+lemon.md) and a Senior Analyst for Social Media with the **FDA’s Office of Women’s Health**._
 _Thanks to our special Summit blogger, Alison, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._

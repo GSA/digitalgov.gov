@@ -14,8 +14,7 @@ tag:
 ---
 
 _Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via [the project&#8217;s GitHub repository](https://github.com/18F/openopps-platform). The Open Opportunities program itself is only open to federal employees.
-  
-_ 
+  _ 
   
 Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government]({{< relref "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}}), the [Open Opportunities platform](https://openopps.WHATEVER/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
 

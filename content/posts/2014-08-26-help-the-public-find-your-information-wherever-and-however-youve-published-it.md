@@ -45,7 +45,7 @@ If you’re interested in publishing your site’s content as an API, below are 
 
 ## Freeing Content from Our Social Media
 
-Chances are you’re already tweeting newsworthy content on Twitter, sharing your pictures on Flickr, Instagram, or Pinterest, posting your videos on YouTube, or connecting with the public via Facebook, Google+, or LinkedIn. That’s because publishing content on [social media](({{< link "categories/socialmedia" >}}) gets your information into the hands of the public in the places they’re at.
+Chances are you’re already tweeting newsworthy content on Twitter, sharing your pictures on Flickr, Instagram, or Pinterest, posting your videos on YouTube, or connecting with the public via Facebook, Google+, or LinkedIn. That’s because publishing content on [social media]({{< link "categories/socialmedia" >}}) gets your information into the hands of the public in the places they’re at.
 
 If you’re interested in repurposing your social media content, below are a few of the most popular social media APIs to get you started:
 
@@ -65,6 +65,4 @@ By using social media APIs you can embed Twitter content in a timeline, link dir
 
 For example, on agencies’ websites that use [DigitalGov Search](http://search.WHATEVER), searchers automatically see image results from Flickr and Instagram, video results from YouTube, jobs from USAJobs, and rules and notices from the _Federal Register_. All without any effort beyond publishing the original content to social media, the Office of Personnel Management, or the Office of the Federal Register.
 
-Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable.
-
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable._This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

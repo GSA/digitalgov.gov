@@ -1,5 +1,5 @@
 ---
-date: 2014-05-15 1:15:53 -0400
+date: 2014-05-15 13:15:53 -0400
 title: Defense Finance and Accounting Service Goes Responsive
 summary: 'Let&#8217;s face it: Some of us work to live. Some live to work. And all of us look forward to pay day. If you work for the Department of Defense, the Executive Office of the President, the Environmental Protection Agency, the Department of Energy, the Department of Veterans Affairs, the Department of Health'
 categories:

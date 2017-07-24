@@ -1,5 +1,5 @@
 ---
-date: 2017-03-24 3:17:05 -0400
+date: 2017-03-24 15:17:05 -0400
 title: 'NASA&#8217;s Journey With the U.S. Web Design Standards'
 summary: 'The U.S. Web Design Standards were created by the government, for the government. They&rsquo;re currently implemented on hundreds of government sites, with an audience of more than 26 million monthly users. They&rsquo;ve also been recommended by the Office of Management and Budget (OMB) for all government agencies to ensure a consistent look and feel of'
 authors:
@@ -48,10 +48,4 @@ The [U.S. Web Design Standards](https://standards.usa.gov/) were created by the 
 
 We’re looking to learn more [from agencies that have used the Standards](https://github.com/18F/web-design-standards/blob/develop/WHO_IS_USING_USWDS.md); if you’re interested in talking to us about your experience or have any feedback, feel free to [send us an email](mailto:uswebdesignstandards@gsa.gov). You can also chat with the team in the new [public Slack channel for the Standards](https://chat.18f.gov./)!
 
-Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v=VUPbn1phbxk) to share more information about the features and [future of the Standards](https://18f.gsa.gov/2016/12/22/charting-the-future-of-the-draft-us-web-design-standards/), including the 1.0 release. Check it out to learn more or follow along at [standards.usa.gov](https://standards.usa.gov/).
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ 
-
-_If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< relref "communities.md" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ 
-
-_Check out our Events platform, [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU), and [register for an upcoming event](({{< link "events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< relref "digitalgov-university-event-and-training-request-form.md" >}})._
+Also, on January 25th, we [hosted a DGU webinar](https://www.youtube.com/watch?v=VUPbn1phbxk) to share more information about the features and [future of the Standards](https://18f.gsa.gov/2016/12/22/charting-the-future-of-the-draft-us-web-design-standards/), including the 1.0 release. Check it out to learn more or follow along at [standards.usa.gov](https://standards.usa.gov/)._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._ _If you have a **.gov** or **.mil** email address, check out the various [DigitalGov Communities]({{< relref "communities.md" >}}) that you can join, like MobileGov, the Web Content Managers Forum, and the User Experience (UX) Community of Practice._ _Check out our Events platform, [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU), and [register for an upcoming event]({{< link "events" >}}) today! If you’d like to find out how your agency can create an online or in-person DGU event, or partner with them on your own event, please [fill out this form]({{< relref "digitalgov-university-event-and-training-request-form.md" >}})._

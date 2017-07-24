@@ -28,8 +28,6 @@ With prompts that guide you through a series of short questions, the app is supe
 
 Heading to Morocco? (It&#8217;s on my list.) Well, according to the CDC, you probably don&#8217;t want to drink any water with ice in it. Or milk you don&#8217;t get straight from the carton. Tea made with boiling water is &#8220;probably OK to drink.&#8221; (And thank goodness for that because from what I understand, authentic Moroccan mint tea is to die for—but in a good way.)
 
-The bottom line? Don&#8217;t spend your next vacation or important business trip camped out on somebody&#8217;s bathroom floor. [Download this app](http://wwwnc.cdc.gov/travel/page/apps-about) right now before you even pack a bag.
-
-_Don’t worry: You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)_.
+The bottom line? Don&#8217;t spend your next vacation or important business trip camped out on somebody&#8217;s bathroom floor. [Download this app](http://wwwnc.cdc.gov/travel/page/apps-about) right now before you even pack a bag._Don’t worry: You can download this and other cool mobile government apps with just a few clicks from our [USA.gov Apps Gallery](http://apps.usa.gov/)_.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-510-CDC-Can-I-Eat-This-2-Travelers-Health-iTunes-App.jpg" alt="Screen captures of the CDC's Can I Eat This section of the Travelers' Health iTunes App" >}}

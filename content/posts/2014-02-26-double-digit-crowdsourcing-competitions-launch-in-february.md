@@ -1,5 +1,5 @@
 ---
-date: 2014-02-26 1:25:05 -0400
+date: 2014-02-26 13:25:05 -0400
 title: Double Digit Crowdsourcing Competitions Launch in February
 summary: 'This is a phenomenal month for federal challenge and prize competitions with 12 new programs launched in February. The challenge.gov platform usually averages four to six new challenges a month, so we&#8217;re excited to see the year start off with a big push to engage citizens in creative'
 authors:
@@ -99,4 +99,4 @@ The first annual Congressional Science, Technology, Engineering and Math (STEM) 
 
 Create an innovative** algorithm** that uses data from recent studies to **predict trustworthy behavior**, based on volunteers’ neural, physiological, and behavioral signals.
 
-Learn more about the [federal-wide challenge and prize program]({{< relref "challenge-gov.md" >}}) and sign-up for upcoming [training and events](({{< link "events" >}}2014-03/).
+Learn more about the [federal-wide challenge and prize program]({{< relref "challenge-gov.md" >}}) and sign-up for upcoming [training and events]({{< link "events" >}}2014-03/).

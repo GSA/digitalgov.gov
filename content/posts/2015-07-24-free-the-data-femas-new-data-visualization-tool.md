@@ -111,6 +111,4 @@ Thanks for reading and click on these links to learn more about each of the item
 
   * [Disaster Declaration Visualizations](http://beta.fema.gov/data-visualization)
   * [FEMA App](http://beta.fema.gov/mobile-app)
-  * [Red Cross Home Fire Prevention Campaign](http://www.redcross.org/prepare/location/home-family/prevent-home-fires)
-
-_This post was originally published on the [FEMA blog](http://beta.fema.gov/blog/) by Craig Fugate, FEMA Administrator._
+  * [Red Cross Home Fire Prevention Campaign](http://www.redcross.org/prepare/location/home-family/prevent-home-fires)_This post was originally published on the [FEMA blog](http://beta.fema.gov/blog/) by Craig Fugate, FEMA Administrator._

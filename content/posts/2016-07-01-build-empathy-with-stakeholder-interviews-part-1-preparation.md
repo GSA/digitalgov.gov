@@ -92,6 +92,4 @@ There’s also the option of soliciting critiques from people _outside_ of the p
 
 ## Let’s get this show on the road {#let’s-get-this-show-on-the-road}
 
-And there you have it! In this first part, I’ve explained the rationale behind stakeholder interviews, how to document the assumptions guiding a study, how to consider context, how to draft questions, and when to invite your teammates into the process. In the next part, I’ll cover how to actually run the interviews as well as some tips for synthesizing and socializing what you learn.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+And there you have it! In this first part, I’ve explained the rationale behind stakeholder interviews, how to document the assumptions guiding a study, how to consider context, how to draft questions, and when to invite your teammates into the process. In the next part, I’ll cover how to actually run the interviews as well as some tips for synthesizing and socializing what you learn._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

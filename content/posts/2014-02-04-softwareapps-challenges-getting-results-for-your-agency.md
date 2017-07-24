@@ -1,5 +1,5 @@
 ---
-date: 2014-02-04 3:10:17 -0400
+date: 2014-02-04 15:10:17 -0400
 title: 'Software/Apps Challenges: Getting Results for Your Agency'
 summary: ' Federal agencies are rapidly finding that software and/or app prize competitions have the potential to harness innovative ideas from the public. But'
 authors:
@@ -29,6 +29,6 @@ In case you missed it, you can watch the recording below:
   
 
   
-If you like what you see here, please register for our next DigitalGov University and Challenge.gov webinar, &#8220;[Running a Successful Video Challenge](({{< link "events" >}})&#8221; with special guests Jason Crusan of NASA and James DeJulio of Tongal, where we&#8217;ll tackle the unique aspects of crowdsourcing videos.
+If you like what you see here, please register for our next DigitalGov University and Challenge.gov webinar, &#8220;[Running a Successful Video Challenge]({{< link "events" >}})&#8221; with special guests Jason Crusan of NASA and James DeJulio of Tongal, where we&#8217;ll tackle the unique aspects of crowdsourcing videos.
 
 Hope to see you there!

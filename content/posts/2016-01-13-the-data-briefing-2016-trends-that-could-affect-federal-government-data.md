@@ -1,5 +1,5 @@
 ---
-date: 2016-01-13 1:00:51 -0400
+date: 2016-01-13 13:00:51 -0400
 title: 'The Data Briefing: 2016 Trends That Could Affect Federal Government Data'
 summary: 'Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions: 1) The Internet of Things&mdash;The number of devices that can connect to the Internet increases, especially in consumer electronics. Also, the number of sensors will dramatically increase providing more real-time data on weather,'
 authors:
@@ -45,12 +45,8 @@ The federal government is also a major producer of data. As I wrote about in pre
 
 It will be interesting to see how the federal government deals with the rise of blockchain technologies and DACs. Additionally, as machine learning helps to create more intelligent personal digital assistants (like the next generation of Google’s Siri and Microsoft’s Cortana), we may have situations where federal government intelligent personal digital assistants interact with citizens&#8217; intelligent personal digital assistants. How will this affect the delivery of federal government products and services in the future?
 
-It is virtually impossible to predict precise future events. However, it is possible (and probably more useful) to devise scenarios about the future. As the five trends above demonstrate, there is great potential in current data technologies to change the federal government and the American Society.
-
-_(Google’s Siri and Microsoft’s Cortana are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any federal government agencies.)_
-
+It is virtually impossible to predict precise future events. However, it is possible (and probably more useful) to devise scenarios about the future. As the five trends above demonstrate, there is great potential in current data technologies to change the federal government and the American Society._(Google’s Siri and Microsoft’s Cortana are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any federal government agencies.)_
 _Each week, The Data Briefing showcases the latest federal data news and trends._
-
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at <a href="http://billbrantley.com" target="_blank">BillBrantley.com</a>. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
 
  

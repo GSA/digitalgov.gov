@@ -1,3 +1,0 @@
----
-title: "Crowdsourcing & Citizen Science"
----

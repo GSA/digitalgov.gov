@@ -1,5 +1,5 @@
 ---
-date: 2015-04-07 1:00:23 -0400
+date: 2015-04-07 13:00:23 -0400
 title: Why Your Social Traffic Looks Low in Analytics Tools
 summary: Part of my job as an analyst on the Digital Analytics Program (DAP) team is to help agency users try to make sense of digital analytics data by using web analytics tools. I
 authors:
@@ -61,6 +61,4 @@ Links like this don’t rely on the referrer to be passed in order to record whe
 
 ## In Closing
 
-The last thing anyone wants is bad data. In this particular case, the underreporting of social media referrals could affect staffing, budget, and resources for social campaigns. Understanding the issue and taking steps to ensure more accurate social referral data in web analytics tools is a step towards better overall analysis and therefore, the improvement of our federal digital products and services.
-
-_For more information about DAP or to become a DAP participating agency, please [contact DAP via email](mailto:dap@gsa.gov)._
+The last thing anyone wants is bad data. In this particular case, the underreporting of social media referrals could affect staffing, budget, and resources for social campaigns. Understanding the issue and taking steps to ensure more accurate social referral data in web analytics tools is a step towards better overall analysis and therefore, the improvement of our federal digital products and services._For more information about DAP or to become a DAP participating agency, please [contact DAP via email](mailto:dap@gsa.gov)._

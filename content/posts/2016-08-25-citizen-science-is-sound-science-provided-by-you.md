@@ -1,5 +1,5 @@
 ---
-date: 2016-08-25 2:00:48 -0400
+date: 2016-08-25 14:00:48 -0400
 title: Citizen Science is Sound Science Provided by You
 summary: 'Have you ever seen a cool bird in your backyard and wondered if there was some way to share what you saw with others? Better yet, have you thought about sharing your observations and having them used to help study and conserve those birds? These thoughts are an indicator that you might have the makings of a'
 authors:
@@ -29,8 +29,5 @@ Your involvement matters.
 
 The Forest Service very much wants to engage communities in caring for their land and natural resources. Every year, tens of thousands of [volunteers](http://www.fs.fed.us/working-with-us/volunteers) take to the forests, grasslands, wetlands, coasts–and their own backyards–to contribute high quality data for science.
 
-When the public is involved in land and resource management through citizen science, it can foster the connection between scientific discovery and public interest. So, how will you contribute to the places you love?
-
-_This post was originally published on the [Forest Service](http://www.fs.fed.us/blogs/) blog._
-
-_To learn more, read our [Crowdsourcing and Citizen Science articles](({{< link "categories/crowdsourcing-and-citizen-science" >}}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{< relref "communities.md" >}})._
+When the public is involved in land and resource management through citizen science, it can foster the connection between scientific discovery and public interest. So, how will you contribute to the places you love?_This post was originally published on the [Forest Service](http://www.fs.fed.us/blogs/) blog._
+_To learn more, read our [Crowdsourcing and Citizen Science articles]({{< link "categories/crowdsourcing-and-citizen-science" >}}), and [join the Federal Community of Practice on Crowdsourcing and Citizen Science (CCS)]({{< relref "communities.md" >}})._

@@ -59,6 +59,4 @@ However, if, for some reason, you are still not sold on just how critical subdom
 
 The fact that Google Analytics changed their default setting to track visits across subdomains in Universal Analytics (UA) says a lot about this issue as well. However, you also have to correctly configure the UA interface to complete the implementation.
 
-If you have any questions about setting-up subdomain tracking at your agency, feel free to [reach out to our team](http://analytics@dcdteam.hhs.gov). Remember, there is no shame in explaining to your boss why your implementation needs a rework. Digital analytics is an iterative field. She will likely appreciate that you are paying such close attention to data integrity.
-
-_The HHS Digital Analytics Team_
+If you have any questions about setting-up subdomain tracking at your agency, feel free to [reach out to our team](http://analytics@dcdteam.hhs.gov). Remember, there is no shame in explaining to your boss why your implementation needs a rework. Digital analytics is an iterative field. She will likely appreciate that you are paying such close attention to data integrity._The HHS Digital Analytics Team_

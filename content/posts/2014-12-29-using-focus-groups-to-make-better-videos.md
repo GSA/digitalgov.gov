@@ -38,6 +38,4 @@ This information, along with qualitative data from the sessions was compiled int
 
 As advice to others looking to do this sort of research, I’d recommend keeping the groups on the smaller side—six seemed comfortable, and any more may present difficulties. Ask participants for their level of education beforehand. It occurred to us later that it was likely those in our groups had a college degree—which is helpful, but not necessarily reflective of our audience as a whole.
 
-Also follow up with your participants to thank them for their help, and see if maybe they’d be willing to come back for a future session, after changes have been made to your product. We look forward to hearing how their thoughts may or may not have changed after we make some modifications to the “Ask Marietta” concept.
-
-_**Colleen Bayus** is a Marketing Specialist on the USA.gov (FCIC) Marketing Team at the U.S. General Services Administration._
+Also follow up with your participants to thank them for their help, and see if maybe they’d be willing to come back for a future session, after changes have been made to your product. We look forward to hearing how their thoughts may or may not have changed after we make some modifications to the “Ask Marietta” concept._**Colleen Bayus** is a Marketing Specialist on the USA.gov (FCIC) Marketing Team at the U.S. General Services Administration._

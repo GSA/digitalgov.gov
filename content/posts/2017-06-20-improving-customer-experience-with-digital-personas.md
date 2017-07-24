@@ -44,6 +44,4 @@ These representations of our customers are based on quantitative data (e.g., met
 
 These personas will be used to improve NARA’s customers’ digital experience. The ultimate goal is that every time a project with a digital component is discussed at NARA, these personas will be used to inform decision making. By identifying the personas that we work with most often and referring to them when thinking about new and better ways to serve them, we can work to better inform and prioritize our work and better understand customer interactions across all of our digital properties.
 
-Learn more and meet the <a href="https://www.archives.gov/digitalstrategy/personas" target="_blank" rel="noopener noreferrer">complete list of digital personas</a> on archives.gov.
-
-_This post was originally published on the [blog of the Archivist of the United States](https://aotus.blogs.archives.gov/2017/06/15/improving-customer-experience-with-digital-personas/) (AOTUS)._
+Learn more and meet the <a href="https://www.archives.gov/digitalstrategy/personas" target="_blank" rel="noopener noreferrer">complete list of digital personas</a> on archives.gov._This post was originally published on the [blog of the Archivist of the United States](https://aotus.blogs.archives.gov/2017/06/15/improving-customer-experience-with-digital-personas/) (AOTUS)._

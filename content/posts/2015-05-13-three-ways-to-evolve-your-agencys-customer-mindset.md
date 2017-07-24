@@ -1,5 +1,5 @@
 ---
-date: 2015-05-13 1:00:46 -0400
+date: 2015-05-13 13:00:46 -0400
 title: Three Ways to Evolve Your Agency’s Customer Mindset
 summary: 'Customer experience (CX) improvement projects come in many forms, but evolving an agency&rsquo;s entire mindset to be customer-focused requires far more in the way of commitment, time, staff and organizational patience. As the senior CX lead for a U.S. government agency and an advisory committee member to the President&rsquo;s Cross-Agency Priority (CAP) goal on customer'
 authors:
@@ -31,6 +31,4 @@ Here are three ways to evolve toward a customer mindset, based on my experience 
   <b>Establish a rhythm and cadence to data review. </b>As discussions around data unfold over time, it becomes natural for the conversation to move beyond information on paper, to the “why” behind the data. At Ex-Im Bank, Chairman Fred Hochberg takes a keen interest not only in cycle times, but in making sure the senior team continues the cadence of data review. That regular review of data has moved the Bank ahead on process changes like automated underwriting to help mindfully speed along transactions, and new internal communication practices that arm the front line staff with information they need to better serve customers.
 </li>
 
-Evolving from a project approach to a customer mindset is a long-term commitment that requires buy-in and commitment from agency leaders and their successors. Long after leadership turns over, customers will still expect smooth experiences. Building and sustaining a customer mindset requires the right customer chief, the elevation of key data, and a commitment to data review that results in serious action planning, toward improvement.
-
-_Editor&#8217;s Note: Stephanie Thum will be part of a panel discussing customer service at the [DigitalGov Citizen Services Summit](https://summit.WHATEVER/) on May 21st. [Registration for the live-stream event](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401) is open to the public._
+Evolving from a project approach to a customer mindset is a long-term commitment that requires buy-in and commitment from agency leaders and their successors. Long after leadership turns over, customers will still expect smooth experiences. Building and sustaining a customer mindset requires the right customer chief, the elevation of key data, and a commitment to data review that results in serious action planning, toward improvement._Editor&#8217;s Note: Stephanie Thum will be part of a panel discussing customer service at the [DigitalGov Citizen Services Summit](https://summit.WHATEVER/) on May 21st. [Registration for the live-stream event](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401) is open to the public._

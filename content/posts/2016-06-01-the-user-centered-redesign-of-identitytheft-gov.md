@@ -1,5 +1,5 @@
 ---
-date: 2016-06-01 2:30:14 -0400
+date: 2016-06-01 14:30:14 -0400
 title: The User-Centered Redesign of IdentityTheft.gov
 summary: 'I first came across the redesigned IdentityTheft.gov on Reddit, of all places. Someone had posted a link to the Federal Trade Commission&rsquo;s (FTC) newly redesigned site and wrote: I hope this never happens to any of you as the entire thing can be really stressful. The identitytheft.gov website is a true breath of fresh air&#8230;You'
 authors:
@@ -105,6 +105,4 @@ After both test cycles, we were able to make quick responsive changes to content
 
 **JS and NF:** Yes, the total number of identity theft reports we receive has increased and the method of reporting has shifted more to the website, rather than phone. We also have a healthy portion of reports being submitted on mobile devices, which wasn’t possible before.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-211-identitytheftgov-users.jpg" alt="Two pie charts that show the percentage of users reporting their identity theft online has grown from 39 percent before the launch to 68 percent post launch, including 15 percent on mobile devices." >}}
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-211-identitytheftgov-users.jpg" alt="Two pie charts that show the percentage of users reporting their identity theft online has grown from 39 percent before the launch to 68 percent post launch, including 15 percent on mobile devices." >}}_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer._

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-26 2:10:30 -0400
+date: 2014-06-26 14:10:30 -0400
 title: 'Broadcasting Board of Governors Use &#8220;Relay&#8221; Tool to Cover the World Cup'
 summary: 'World Cup fever, everyone&#8217;s got it&mdash;even the Broadcasting Board of Governors&#8216; (BBG) Voice of America has reporters covering the event. For this year&rsquo;s World Cup, VOA has teamed up with the Office of Digital and Design Innovation (a digital team inside'
 authors:
@@ -35,8 +35,5 @@ _Don’t forget: You can download cool mobile government apps with just a few cl
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-461-cameroon-capture.jpg" alt="Broadcasting Board of Governors BBG Voice of America VOA Relay Tool" >}}
 
- 
-
-_**Randy Abramson** is the Director of Audio/Video Products and Strategy and **Adam Martin** is the Director of Technology and Innovation at the Broadcasting Board of Governors (BBG). They are both members of the [Mobile COP](({{< link "categories/mobile" >}})._
-
+ _**Randy Abramson** is the Director of Audio/Video Products and Strategy and **Adam Martin** is the Director of Technology and Innovation at the Broadcasting Board of Governors (BBG). They are both members of the [Mobile COP]({{< link "categories/mobile" >}})._
 _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

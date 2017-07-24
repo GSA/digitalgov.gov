@@ -36,6 +36,4 @@ Through our [Open Data and Mobility Program](https://www.uspto.gov/learning-and-
 
 As America’s Innovation Agency, we hope that our open source initiatives will spur innovation and create new ideas. We are looking to the public to come up with the next greatest idea, like we recently did through our <a class="ext extlink" href="https://medium.com/cancer-moonshot/unlocking-patent-data-to-spur-cancer-breakthroughs-26325501e9c2#.an3aeo699" target="_blank">Cancer Moonshot Challenge</a>.
 
-[Let us know how you like our Trademark app](https://www.uspto.gov/blog/director/entry/new_uspto_trademark_app_open#comments), and keep an eye on our <a class="ext extlink" href="https://github.com/USPTO" target="_blank">GitHub page</a> as we’ll be publishing more and more open source projects.
-
-_This post was originally published on the [USPTO blog](https://www.uspto.gov/blog/)._
+[Let us know how you like our Trademark app](https://www.uspto.gov/blog/director/entry/new_uspto_trademark_app_open#comments), and keep an eye on our <a class="ext extlink" href="https://github.com/USPTO" target="_blank">GitHub page</a> as we’ll be publishing more and more open source projects._This post was originally published on the [USPTO blog](https://www.uspto.gov/blog/)._

@@ -35,9 +35,7 @@ This API combines weather data with tracking data of space objects to <a href="h
 
 Using weather data transmitted by the Curiosity Rover and other data sources, <a href="http://marsweather.ingenology.com/" target="_blank">developers can create Martian weather apps</a>. This API is technically interesting as it uses the Django REST Framework to build the MAAS API.
 
-The scientific and technical agencies of the federal government have vast stores of information. Unleashing these national data treasures can create apps that can spur innovation and prosperity for the American public. NASA’s Space Apps Challenges show the way to open the data treasure houses.
-
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:%20William.Brantley@opm.gov)_._
+The scientific and technical agencies of the federal government have vast stores of information. Unleashing these national data treasures can create apps that can spur innovation and prosperity for the American public. NASA’s Space Apps Challenges show the way to open the data treasure houses._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:%20William.Brantley@opm.gov)_._
 
 **_Dr. William A. Brantley_**_, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_._
 

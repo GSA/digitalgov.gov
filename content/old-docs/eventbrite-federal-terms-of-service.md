@@ -24,7 +24,7 @@ authors:
 
  
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})
 
 <div class="sharedaddy sd-sharing-enabled">
 </div>

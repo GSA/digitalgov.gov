@@ -57,27 +57,23 @@ Some recent articles about innovation in technology and government that we&#8217
 Launched in 2010, and managed by GSA, [Challenge.gov](http://www.challenge.gov) is a key component of the White House’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/uploads/InnovationStrategy.pdf), which urges agencies to use incentivized competitions to drive innovation and advance their missions.
 
 [The Future Will Be Printed – in 3D
-  
-]({{< relref "2015-01-15-the-future-will-be-printed-in-3d.md" >}}) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
+  ]({{< relref "2015-01-15-the-future-will-be-printed-in-3d.md" >}}) The NIH 3D Print Exchange enhances learning and research through scientific 3D printable models.
 
 [NASA Reaches New Frontiers in 3D Printing]({{< relref "2015-01-29-nasa-reaches-new-frontiers-in-3d-printing.md" >}})
   
 Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative, shared tips for agencies and federal employees that are pursuing innovative projects.
 
 [An Innovation Framework That Delivers: The SunShot Catalyst Program
-  
-]({{< relref "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
+  ]({{< relref "2015-08-07-an-innovation-framework-that-delivers-the-sunshot-catalyst-program.md" >}}) The Department of Energy’s SunShot Initiative funds projects that make solar energy more affordable and accessible for Americans.
 
 [The API Briefing: NASA and USPS Explore the Holographic Computing Frontier
-  
-]({{< relref "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) The federal government has a few augmented reality apps that demonstrate the power of holographic computing.
+  ]({{< relref "2015-01-28-the-api-briefing-nasa-and-usps-explore-the-holographic-computing-frontier.md" >}}) The federal government has a few augmented reality apps that demonstrate the power of holographic computing.
 
 [Success Spotlight: Challenge Takes Students, Biomedicine to Next Level]({{< relref "2015-09-18-success-spotlight-challenge-takes-students-biomedicine-to-next-level.md" >}})
   
 In its Design by Biomedical Undergraduate Teams (DEBUT) Challenge, the National Institutes of Health (NIH) called for students to submit solutions for unmet global health and clinical needs.
 
 [DigitalGov Citizen Services Summit
-  
-]({{< relref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}) The second annual **DigitalGov Citizen Services Summit and Expo** was held on May 21, 2015, at GSA headquarters in Washington, D.C. The focus this year was OPEN (open data, open source, open content, open communication, open communities, open government) and how digital services—like mobile development, social media, APIs, data and user experience—intersect and integrate to improve citizen services and reduce costs. A select line-up of speakers from across the federal government covered such topics as: privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, public participation, and customer experience. (Link includes full recording of the event)
+  ]({{< relref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}) The second annual **DigitalGov Citizen Services Summit and Expo** was held on May 21, 2015, at GSA headquarters in Washington, D.C. The focus this year was OPEN (open data, open source, open content, open communication, open communities, open government) and how digital services—like mobile development, social media, APIs, data and user experience—intersect and integrate to improve citizen services and reduce costs. A select line-up of speakers from across the federal government covered such topics as: privacy and identity management, the Internet of Everything, analytics, human-centered design, agile methods, 3D printing, public participation, and customer experience. (Link includes full recording of the event)
 
 View additional highlights of the day at [WhiteHouse.gov/Back-To-The-Future](https://www.WhiteHouse.gov/Back-To-The-Future). If you&#8217;d like to share how your agency is helping to move government into the future, [contact us]({{< relref "join-digitalgov.md" >}}) or leave a comment below.

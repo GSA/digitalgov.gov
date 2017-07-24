@@ -1,5 +1,5 @@
 ---
-date: 2016-08-23 1:00:33 -0400
+date: 2016-08-23 13:00:33 -0400
 title: What is Citizen Science? A Recent Webinar Explores How the Federal Government Engages the Public via Crowdsourcing
 summary: 'From the National Park Service (NPS) to the Centers for Disease Control and Prevention (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-330-CitizenSciencegov-hompeage.jpg" alt="Screen capture of Citizenscience.gov, an official government website designed to accelerate the use of crowdsourcing and'
 authors:
@@ -48,8 +48,5 @@ If this sounds like something you or your agency want to be a part of, you shoul
 
 There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
 
-[youtube=http://www.youtube.com/watch?v=FfrUME9y-wI&w=600]
-
-_Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._
-
+[youtube=http://www.youtube.com/watch?v=FfrUME9y-wI&w=600]_Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._
 _Learn more about </span>_[_<span style="font-weight: 400">DigitalGov University</span>_]({{< relref "digitalgov-university.md" >}})_ <span style="font-weight: 400">(DGU) and </span>_[_<span style="font-weight: 400">register for an upcoming event</span>_]({{< link "events" >}})_ <span style="font-weight: 400">today! If you&#8217;d like to find out how to create an online or in-person DGU event, or partner with them on your own event, please </span>_[_<span style="font-weight: 400">contact the team via email</span>_](mailto:digitalgovu@gsa.gov)_<span style="font-weight: 400">.</i></p>

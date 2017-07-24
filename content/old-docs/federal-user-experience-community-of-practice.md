@@ -31,8 +31,7 @@ To join, contact the group Co-Chairs Jean Fox and Silvia Salazar via <a href="ma
   * Training for government Web managers, usability specialists, and project managers through [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and other programs
   * Volunteer opportunities
   * Useful UX resources such as the [DigitalGov User Experience Resources]({{< relref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov/), [DigitalGov]({{< link "index.html" >}}), and [DigitalGov University]({{< relref "digitalgov-university.md" >}}). [
-  
-](http://www.usability.gov/) 
+  ](http://www.usability.gov/) 
   * Case studies of why UX works!
 
 We bring together federal employees who want to make digital services—websites, mobile Apps, intranets, APIs—work better for their customers.

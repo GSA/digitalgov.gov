@@ -33,6 +33,4 @@ Snapchat provides some very basic information that we’ll be using to track our
   * **Engagement:** We’ll look at the number of people who send Snaps back to us to help determine how engaging our content is.
   * **Screenshots:** Snapchat notifies you when someone takes a screenshot of your content. We’ll use screenshots to help us determine if we’re sharing important information that our audience thinks is worth keeping. We’ll look at what kind of content is screenshotted the most to learn what’s important to our followers.
 
-To see how we’re using Snapchat make sure to follow us and snap us with your feedback!
-
-_This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Jessica Milcetich, who manages social media for USAGov._
+To see how we’re using Snapchat make sure to follow us and snap us with your feedback!_This post was originally published on the [USAgov blog](https://blog.usa.gov/) by Jessica Milcetich, who manages social media for USAGov._

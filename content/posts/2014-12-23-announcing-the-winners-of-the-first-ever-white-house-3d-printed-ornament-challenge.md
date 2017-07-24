@@ -53,6 +53,4 @@ Surrounding the White House in this ornament, are simple aspects of the holidays
 
 You can also check out the ornaments being printed in this [video](https://www.youtube.com/watch?v=SCGdrI0gT4E&feature=youtu.be).
 
-[youtube=http://www.youtube.com/watch?v=SCGdrI0gT4E&w=600]
-
-_This post was originally published on the [White House blog](http://www.whitehouse.gov/blog/) by Stephanie Santoso and Ryan Xue, from the White House Office of Science and Technology Policy (OSTP)._
+[youtube=http://www.youtube.com/watch?v=SCGdrI0gT4E&w=600]_This post was originally published on the [White House blog](http://www.whitehouse.gov/blog/) by Stephanie Santoso and Ryan Xue, from the White House Office of Science and Technology Policy (OSTP)._

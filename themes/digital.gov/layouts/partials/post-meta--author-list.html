@@ -1,0 +1,25 @@
+{{/*
+  ======================================
+  AUTHORS
+  ======================================
+*/}}
+
+{{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
+{{ else }}
+  <li class="meta-author">
+    <span class="meta-author">By
+      {{ $_authors := .Params.authors }}
+      {{ $length := $_authors | len }}
+      {{ range $i, $e := $_authors }}
+        {{ $uid := $e | urlize }}
+        {{ $data := $.Site.Data }}
+        {{ $author := index $data.people.authors $uid }}
+        {{ if lt (add $i 1) $length }}
+          <a href="{{ (printf "authors/%s/" $uid) | absURL }}" title="Posts by {{ $author.display_name | default $uid }}" class="author url fn" rel="author">{{ $author.display_name | default $uid}}</a>,
+        {{ else }}
+        <a href="{{ (printf "authors/%s/" $uid) | absURL }}" title="Posts by {{ $author.display_name | default $uid }}" class="author url fn" rel="author">{{ $author.display_name | default $uid}}</a>
+        {{ end }}
+      {{ end }}
+    </span>
+  </li>
+{{ end }}

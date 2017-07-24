@@ -52,5 +52,4 @@ NOS&#8217;s new design uses a responsive approach that is both elegant and actio
 (P.S.: You didn&#8217;t hear this from me, but we hope to see a responsive design for the main NOAA.gov homepage in the not-so-distant future, too. Stay tuned!)
 
 \___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\____
-
 _Got questions about responsive design? Start with this helpful [**article**]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). And don&#8217;t forget: you can download the latest government mobile apps 24/7 from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._

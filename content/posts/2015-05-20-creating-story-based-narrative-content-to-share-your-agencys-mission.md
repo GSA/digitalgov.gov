@@ -46,5 +46,4 @@ These are some general recommendations to get you started on creating story-base
 Follow along with us Memorial Day weekend via our [website](http://www.abmc.gov/), [Facebook](https://www.facebook.com/abmcpage), and [Instagram](https://instagram.com/usabmc) as we continue to share these personal stories.
 
 _Author’s note: I want to thank Geraldine Morenski, Billie Myers Meeks, Arthur Chotin, Nancy Meyer, and Patricia Rathje for sharing their stories with me as part of this project. All of their fathers are buried at Netherlands American Cemetery._
-
 _Sarah Herrmann is the Digital Communications Manager for the American Battle Monuments Commission._

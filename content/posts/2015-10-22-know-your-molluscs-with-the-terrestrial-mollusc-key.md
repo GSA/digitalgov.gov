@@ -1,5 +1,5 @@
 ---
-date: 2015-10-22 1:00:46 -0400
+date: 2015-10-22 13:00:46 -0400
 title: Know Your Molluscs with the Terrestrial Mollusc Key
 summary: ' I have to admit my knowledge of slugs and snails was limited to the familiar, slimy creatures in my garden that ate holes in leaves, flowers, vegetables&mdash;almost anything, really&mdash;and left silvery traces behind. The Terrestrial Mollusc Key mobile app from the Department'
 authors:
@@ -28,9 +28,7 @@ You are able to identify differences between multiple species based on the featu
 
 Federal, state and other agencies or organizations within the U.S. are winning their [mobile moments]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}) at U.S. ports of entry with this app which includes species of quarantine significance as well as invasive and contaminant mollusc species.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Terrestrial-Mollusc-Key-app-slug-with-arrows-indicating-constricted-tail.jpg" alt="Screencapture from the Terrestrial Mollusc Key app, a slug with arrows indicating constricted tail" >}}
-
-_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-338-Terrestrial-Mollusc-Key-app-slug-with-arrows-indicating-constricted-tail.jpg" alt="Screencapture from the Terrestrial Mollusc Key app, a slug with arrows indicating constricted tail" >}}_You can download this and other government apps through the [USA.gov Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}})._
 
 <div class="sharedaddy sd-sharing-enabled">
 </div>

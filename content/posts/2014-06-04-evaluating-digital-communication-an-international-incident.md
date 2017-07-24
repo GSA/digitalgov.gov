@@ -16,7 +16,7 @@ tag:
 
 Are you measuring Twitter followers and press release downloads without any clue as to what people are doing with your agency’s products and information? Or do you not even know what to measure, never mind whether that measurement would be meaningful?
 
-Fear not, fair government communicator—there is hope! On May 15, top government communication measurement experts from the U.S., U.K., and Canada presented on [Evaluating the Effectiveness of Government Digital Communications](https://www.youtube.com/watch?v=V2SjyBs0zRc&list=UU5V8jrK77-8gsa9RL_taG9A&noredirect=1) via [DigitalGov University](({{< link "events" >}}). A video recording of the event is available:
+Fear not, fair government communicator—there is hope! On May 15, top government communication measurement experts from the U.S., U.K., and Canada presented on [Evaluating the Effectiveness of Government Digital Communications](https://www.youtube.com/watch?v=V2SjyBs0zRc&list=UU5V8jrK77-8gsa9RL_taG9A&noredirect=1) via [DigitalGov University]({{< link "events" >}}). A video recording of the event is available:
 
 [youtube=http://www.youtube.com/watch?v=V2SjyBs0zRc&w=600]
 

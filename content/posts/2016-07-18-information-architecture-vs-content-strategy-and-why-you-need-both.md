@@ -39,7 +39,7 @@ Content models within a system work with the architecture and content strategy b
 
 ## So who is successfully integrating IA and CS?
 
-Federal agencies need to think hard about information architecture, [content strategy](({{< link "tag/content-strategy" >}}), and [content models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) to stay future-ready.
+Federal agencies need to think hard about information architecture, [content strategy]({{< link "tag/content-strategy" >}}), and [content models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) to stay future-ready.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-275-NPR-Digital-Media.jpg" alt="Composite image of NPR Digital Media examples." >}}
 

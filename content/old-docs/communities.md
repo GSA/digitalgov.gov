@@ -67,7 +67,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 700 memberships
   * To join, [email Annabel Berman](mailto:annabel.berman@gsa.gov)  with “Subscribe to CX Community” in subject
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6" >}}[MobileGov](({{< link "categories/mobile" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
+**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6" >}}[MobileGov]({{< link "categories/mobile" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
 
   * 1,100 memberships
   * To join, [email Jacob Parcell](mailto:Jacob.Parcell@gsa.gov?subject=Subscribe to MobileGov) with “Subscribe to MobileGov” in subject

@@ -32,4 +32,4 @@ The Digital Government Strategy incorporates a broad range of input from governm
 
 
 
-See more [DigitalGov Resources](({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< relref "resources.md" >}})

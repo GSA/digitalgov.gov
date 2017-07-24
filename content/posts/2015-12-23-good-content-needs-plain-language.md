@@ -1,5 +1,5 @@
 ---
-date: 2015-12-23 1:48:55 -0400
+date: 2015-12-23 13:48:55 -0400
 title: Good Content Needs Plain Language
 summary: 'If good content is essential to good user experience, as Tyrus Manuel proposes in his November 23, 2015, DigitalGov post, then plain language is also part of good user experience. Plain language helps the public do what they need to do&mdash;find forms, apply for benefits, look up information and more&mdash;when they use federal websites and other'
 authors:
@@ -18,7 +18,7 @@ tag:
 
 If good content is essential to good user experience, as Tyrus Manuel proposes in his November 23, 2015, [DigitalGov post]({{< relref "2015-11-23-the-content-corner-good-ux-needs-good-content.md" >}}), then plain language is also part of good user experience. Plain language helps the public do what they need to do—find forms, apply for benefits, look up information and more—when they use federal websites and other digital tools. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="The proverbial lost needle in a haystack is found." caption="" >}} 
 
-All federal agencies are supposed to implement the [Plain Writing Act](({{< relref "resources.md" >}})plain-writing-act-of-2010/), the law that requires plain language when we communicate with the public. [18F’s content guide](https://pages.18f.gov/content-guide/plain-language/) reiterates that plain language makes better websites and provides alternative words for common government jargon.
+All federal agencies are supposed to implement the [Plain Writing Act]({{< relref "resources.md" >}})plain-writing-act-of-2010/), the law that requires plain language when we communicate with the public. [18F’s content guide](https://pages.18f.gov/content-guide/plain-language/) reiterates that plain language makes better websites and provides alternative words for common government jargon.
 
 According to [report cards from the Center for Plain Language](http://centerforplainlanguage.org/report-cards/), though, most agencies are doing just ok with plain language. There’s lots of room for improvement. To help its staff and others who use health terms, the U.S. Centers for Disease Control and Prevention (CDC) published [Everyday Words for Public Health Communication](http://www.cdc.gov/healthliteracy/developmaterials/plainlanguage.html). It offers expert suggestions from CDC’s Health Literacy Council and other agency communicators on how to reduce jargon and replace problematic terms to improve comprehension. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Senior-woman-working-on-her-laptop-in-her-kitchen-table-Louis-Paul-St-Onge-iStock-Thinkstock-484766864.jpg" alt="A woman working at a laptop holds her head in her hands, appearing to confused or frustrated." caption="" >}} 
 

@@ -39,6 +39,4 @@ In addition to these great tools, we can make a huge leap as an agency in every 
   </li>
 </ol>
 
-Thinking about the past and future in addition to the present builds instant empathy and context in every decision we make. From our buildings to our contracts and to our ideas, GSA is proud of our reputation as an innovative hub in government. We all own customer experience, and when we consider the narratives of individual customer interactions we will be best positioned to transform them.
-
-_For more information about CX in government, contact [Anahita Reilly](mailto:anahita.reilly@gsa.gov), chief customer officer at GSA._
+Thinking about the past and future in addition to the present builds instant empathy and context in every decision we make. From our buildings to our contracts and to our ideas, GSA is proud of our reputation as an innovative hub in government. We all own customer experience, and when we consider the narratives of individual customer interactions we will be best positioned to transform them._For more information about CX in government, contact [Anahita Reilly](mailto:anahita.reilly@gsa.gov), chief customer officer at GSA._

@@ -1,5 +1,5 @@
 ---
-date: 2016-01-11 2:00:53 -0400
+date: 2016-01-11 14:00:53 -0400
 title: 'The Content Corner: Content Trends for 2016'
 summary: The beginning of a new year is generally a time where people on a personal and professional level look ahead and prognosticate. When it comes to almost any digital media, the one thing we can be certain of is that the pace will quicken, the offerings will expand, and something totally unexpected will jump out
 authors:
@@ -16,7 +16,7 @@ The beginning of a new year is generally a time where people on a personal and p
 
 ## Video
 
-As one might expect, video is going to continue to grow as a method to communicate with our various audiences. In fact, as of 2015, users are spending more time with <a href="https://contently.com/strategist/2015/07/06/the-explosive-growth-of-online-video-in-5-charts/" target="_blank">digital video than with social media</a>. Several factors are key in the continued growth of video in 2016 with two related directly to [social media](({{< link "categories/socialmedia" >}}). The first is the continued rise of various social media platforms (especially Facebook) as the primary home for uniquely generated content. This push towards more and more platform-specific content is something that [I have previously discussed]({{< relref "2015-10-26-the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md" >}}) and will touch on below. This will impact video through 2016 and could lead to a very disruptive year for [YouTube]({{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}) especially.
+As one might expect, video is going to continue to grow as a method to communicate with our various audiences. In fact, as of 2015, users are spending more time with <a href="https://contently.com/strategist/2015/07/06/the-explosive-growth-of-online-video-in-5-charts/" target="_blank">digital video than with social media</a>. Several factors are key in the continued growth of video in 2016 with two related directly to [social media]({{< link "categories/socialmedia" >}}). The first is the continued rise of various social media platforms (especially Facebook) as the primary home for uniquely generated content. This push towards more and more platform-specific content is something that [I have previously discussed]({{< relref "2015-10-26-the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md" >}}) and will touch on below. This will impact video through 2016 and could lead to a very disruptive year for [YouTube]({{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}) especially.
 
 Facebook is also continuing to change the impact of video with its Facebook Mentions and live video features. Despite what was a rocky start, Facebook Mentions live video feature is now being effectively leveraged by prestigious organizations such as BBC and is [no longer limited to celebrities](http://mashable.com/2015/09/10/facebook-mentions-verified-account/). The opening of this feature to any user with a verified Facebook account should lead to even more live video being created on the platform. Any agencies in the process or already striking out using Facebook Mentions and the live component? Let me know in the comments section.
 
@@ -40,8 +40,6 @@ I could (and may) write an entire post about long-form content, including its co
 
 As we forge ahead into 2016, we should again commit ourselves to focus on creating content for our users and be sure it helps solve specific problems or helps to reinforce positive impressions of our agencies. This will help us prepare for any new and unexpected trends that will certainly come along. And finally, just as with your long-form content, make sure you keep an open mind and are ready to completely re-examine everything you were doing in 2015. I wake up every day basically assuming that the way I am currently doing things is inferior and there has to be a better way.
 
-In 2016 or 2046, striving to make better content and better serve our users will never be a mistake.
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner](({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+In 2016 or 2046, striving to make better content and better serve our users will never be a mistake._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

@@ -1,5 +1,5 @@
 ---
-date: 2016-08-31 1:00:45 -0400
+date: 2016-08-31 13:00:45 -0400
 title: Sign up for the Technology Industry Day
 summary: 'The General Services Administration (GSA) is known for managing federal real estate and leveraging the government&rsquo;s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government. The Technology Transformation Service (TTS) builds, buys and shares tech to help federal agencies achieve their mission.'
 authors:

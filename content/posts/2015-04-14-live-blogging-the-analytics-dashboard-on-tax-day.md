@@ -1,5 +1,5 @@
 ---
-date: 2015-04-14 3:00:08 -0400
+date: 2015-04-14 15:00:08 -0400
 title: 'Updated: Live Blogging the Analytics Dashboard on #TaxDay'
 summary: '2 a.m. EDT, April 16 Looks like the traffic peak for #TaxDay was around 3:00 pm when 194,301 people were on government sites. We&#8217;re now less than one-quarter of that traffic, and the more regular patterns of top sites are reasserting themselves. We&rsquo;re talking about YOU, NASA astronomy picture of the day and that wonderful'
 authors:
@@ -33,7 +33,7 @@ _-gk, Digital Government, GSA_
 
 ## 1 a.m. EDT, April 16
 
-Traffic continues to decrease as the April 15th tax filing deadline fades into the rear-view mirror. People on government sites continue to be interested in tax resources. In other news, [there was a 3.2 earthquake near Pacioma, Calif, north of Los Angeles](//earthquake.usgs.gov/earthquakes/eventpage/ci37364384#general_summary), as reflected by a new page flitting up and out of the Top 20 this hour.
+Traffic continues to decrease as the April 15th tax filing deadline fades into the rear-view mirror. People on government sites continue to be interested in tax resources. In other news, [there was a 3.2 earthquake near Pacioma, Calif, north of Los Angeles](http://earthquake.usgs.gov/earthquakes/eventpage/ci37364384#general_summary), as reflected by a new page flitting up and out of the Top 20 this hour.
 
 ### The Stats:
 
@@ -44,9 +44,7 @@ Number of IRS pages that are in the Top 20 pages: **14**
 ### Fun Facts:
 
   * ”Where’s My Refund” continues to be a top page (#2 now) into the early morning hours. Hope that these aren’t the people that just filed an hour ago.
-  * The U.S. Geological Survey uses crowdsourcing to capture data on the impact of earthquakes. [Learn more about their DYFI (Did You Feel It?) research](//earthquake.usgs.gov/research/dyfi/).
-
-_-gk, Digital Government, GSA_
+  * The U.S. Geological Survey uses crowdsourcing to capture data on the impact of earthquakes. [Learn more about their DYFI (Did You Feel It?) research](http://earthquake.usgs.gov/research/dyfi/)._-gk, Digital Government, GSA_
 
 ## Midnight EDT, April 16
 
@@ -61,9 +59,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Folks in other time zones still have time to postmark their returns by midnight. Check out the U.S. Postal Service site to <a href="https://www.usps.com/taxes/" target="_blank">find Post Office locations that are open late</a> to postmark tax returns.
-  * It doesn&#8217;t look like we hit [DAP]({{< relref "dap.md" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow.
-
-_-gk, Digital Government, GSA
+  * It doesn&#8217;t look like we hit [DAP]({{< relref "dap.md" >}} "DAP: Digital Analytics Program") Program Manager Marina Fox&#8217;s prediction of 300,000 realtime views. We&#8217;ll ask for her post-game analysis tomorrow._-gk, Digital Government, GSA
 
 _
 
@@ -80,9 +76,7 @@ Number of IRS pages that are in the Top 20 pages: **16**
 ### Fun Facts:
 
   * Two IRS app pages are currently on the Top 20.
-  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast.
-
-_-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
+  * You&#8217;re not alone tax traffic lovers. We&#8217;ve got you covered until midnight on the West Coast._-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
 
 ## 10:00 Update
 
@@ -92,9 +86,7 @@ IRS websites still make up 15 of the top 20 sites on [analytics.usa.gov](https:/
 
 Number of people on government websites (as of 10:14 pm): **118,570**
 
-Number of IRS pages that are in the Top 20 pages: **15**
-
-_-Karen Trebon, Assistant Director, Digital Government Division_
+Number of IRS pages that are in the Top 20 pages: **15**_-Karen Trebon, Assistant Director, Digital Government Division_
 
 ## 9:00 Update
 
@@ -104,9 +96,7 @@ It’s 9:00 pm, do you know where your refund is? Well now it&#8217;s easy to ch
 
 Number of people on government websites (as of 8:50 pm): **122,019**
 
-Number of IRS pages that are in the Top 20 pages: **15**
-
-_-Alycia Piazza, DigitalGov Platform Manager_
+Number of IRS pages that are in the Top 20 pages: **15**_-Alycia Piazza, DigitalGov Platform Manager_
 
 ## 8:00 pm Update
 
@@ -120,9 +110,7 @@ Number of IRS pages that are in the Top 20 pages: **15**
 
 ### Fun Fact:
 
-  * Government websites received more than **18 million** visits until 8 pm today.
-
-_-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
+  * Government websites received more than **18 million** visits until 8 pm today._-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
 
 ##
 
@@ -138,9 +126,7 @@ Number of IRS pages that are in the Top 20 pages: **15**
 
 ### Fun Fact:
 
-  * Government websites had received more than **16 million** visits until 5 pm today (more on that at 8 pm).
-
-_-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
+  * Government websites had received more than **16 million** visits until 5 pm today (more on that at 8 pm)._-Coqui Aspiazu, <a title="Sites" href="https://sites.usa.gov" target="_blank">Sites</a>_
 
 ## 6:00 pm Update
 
@@ -154,9 +140,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There were **21 million visits to IRS pages** over the **past 7 days**.
-
-_-Ashley Wichman, DigitalGov Team_
+  * There were **21 million visits to IRS pages** over the **past 7 days**._-Ashley Wichman, DigitalGov Team_
 
 [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
 
@@ -174,9 +158,7 @@ Number of IRS pages that are in the Top 20 pages: **14**
 
 ### Fun Facts:
 
-  * Not everyone waits until April 15th to file: the **IRS had already received over 99 million returns on April 3rd**, according to the [IRS website](http://www.irs.gov/uac/Newsroom/2-out-of-3-Taxpayers-Have-Already-Filed-Use-Free-File-or-Direct-Pay-to-Get-a-6-Month-Tax-Filing-Extension-E-Pay-and-Payment-Agreement-Options-Available-on-IRSgov). This accounts for 2 out of 3 taxpayers.
-
-_-Ashley Wichman, DigitalGov Team_
+  * Not everyone waits until April 15th to file: the **IRS had already received over 99 million returns on April 3rd**, according to the [IRS website](http://www.irs.gov/uac/Newsroom/2-out-of-3-Taxpayers-Have-Already-Filed-Use-Free-File-or-Direct-Pay-to-Get-a-6-Month-Tax-Filing-Extension-E-Pay-and-Payment-Agreement-Options-Available-on-IRSgov). This accounts for 2 out of 3 taxpayers._-Ashley Wichman, DigitalGov Team_
 
 ## 4:00 pm Update
 
@@ -190,9 +172,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience]({{< relref "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}} "Using Analytics to Create Change: USA.gov Usability Case Study").
-
-_-Alycia Piazza, DigitalGov Platform Manager_
+  * Data and analytics aren’t only fun but they are useful! Check out how [USA.gov used analytics to create a better user experience]({{< relref "2014-07-01-using-analytics-to-create-change-usa-gov-usability-case-study.md" >}} "Using Analytics to Create Change: USA.gov Usability Case Study")._-Alycia Piazza, DigitalGov Platform Manager_
 
 ##
 
@@ -206,9 +186,7 @@ To give you a quick taste of what type of information you could get, we are repo
 
 Number of people on government websites (as of 2:58pm): **194,301**
 
-Number of IRS pages that are in the Top 20 pages: **13**
-
-_-Marina Fox, Manager, Digital Analytics Program_
+Number of IRS pages that are in the Top 20 pages: **13**_-Marina Fox, Manager, Digital Analytics Program_
 
 ## 2:00 pm Update
 
@@ -223,9 +201,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * Staring at your tax forms can make you see stars. But you can take a look at real stars via [NASA’s Astronomy Photo of the Da](http://apod.nasa.gov/apod/astropix.html)y, which is consistently in the Top 20 pages on the Dashboard. Today’s photo is &#8220;Mystic Mountain Dust Pillars.&#8221;
-  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing](({{< link "tag/wednesday-api-briefing" >}}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< relref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}}).
-
-_-Ashley Wichman, DigitalGov Team_
+  * We’re having fun with data today, but opening government data is valuable on many levels. Our [Wednesday API briefing]({{< link "tag/wednesday-api-briefing" >}}) writer, Bill Brantley, just published an article on [how government data benefits the American economy]({{< relref "2015-04-15-the-api-briefing-how-essential-is-government-data-to-the-american-economy.md" >}})._-Ashley Wichman, DigitalGov Team_
 
 ## 1:00 pm Update
 
@@ -240,9 +216,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 ### Fun Facts:
 
   * The number of people on the **“Where’s my Refund Page” has decreased slightly to 4,326 people**. Could the cause be people going to eat lunch?
-  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< relref "2014-10-20-metrics-round-up.md" >}}).
-
-_-Kendrick Daniel, Digital Gov Team_
+  * Data! It’s what the Dashboard is all about. [DigitalGov University]({{< relref "digitalgov-university.md" >}}) has hosted several trainings on [analyzing data and writing meaningful reports]({{< relref "2014-10-20-metrics-round-up.md" >}})._-Kendrick Daniel, Digital Gov Team_
 
 ## Noon Update
 
@@ -256,11 +230,9 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
 ### Fun Facts:
 
-  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product](({{< link "tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
-  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers](({{< link "categories/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
-  * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions.
-
-_-Jacob Parcell, Manager, [Mobile Programs](({{< link "categories/mobile" >}})_
+  * There are **1,935 people getting their electronic filing pin**. I wonder how many of those views are from people on the East Coast filing during their lunch break? Rumor has it that our [Thursday Mobile Product]({{< link "tag/thursday-mobile-products" >}}) blogger Kevin Downey was one of the people on that page earlier.
+  * While IRS web traffic is the name of the game today, [this month’s DigitalGov theme is Contact Centers]({{< link "categories/monthly-theme" >}}). I can imagine the IRS contact center is getting a lot of phone calls today.
+  * I asked the USA.gov Contact Center Team about contact center impact this morning, and they said that IRS information calls are a hot topic year round. On average, **IRS topics are 16% of the [1-844-USA-GOV1 (1-844-872-4681)](http://www.usa.gov/phone.shtml) total volume.** Top IRS topics include tax form requests, tax fraud verification, tax scams and tax refund questions._-Jacob Parcell, Manager, [Mobile Programs]({{< link "categories/mobile" >}})_
 
 ## 11:00 am Update
 
@@ -275,9 +247,7 @@ Number of IRS pages that are in the Top 20 pages: **12**
 ### Fun Facts:
 
   * There are currently **2,314 people** visiting IRS.gov’s “Forms and Publications” page to find the necessary forms to file their taxes. Can we say &#8220;down to the wire?&#8221;
-  * Did you know that IRS.gov is beta testing a new search box on the “Forms and Publications” page, powered by [DigitalGov Search](http://search.WHATEVER/)?
-
-_-Kendrick Daniel, DigitalGov Team_
+  * Did you know that IRS.gov is beta testing a new search box on the “Forms and Publications” page, powered by [DigitalGov Search](http://search.WHATEVER/)?_-Kendrick Daniel, DigitalGov Team_
 
 ## 10:00 am Update
 
@@ -293,9 +263,7 @@ Number of IRS pages that are in the Top 20 pages: **11**
 
   * There are currently **3,297 people** on pages related to filing for an extension of the tax deadline.
   * Although today is the last day to file taxes, the top IRS page remains the “**Where’s My Refund**” page with **4,448 active visitors** looking to find out when they’ll receive their refund.
-  * Despite IRS dominating the top traffic over the last few months, the usual top performers are weather pages from NOAA, which still has 4 pages in the Top 20 right now. Along with NOAA and IRS, the DAP program has participating sites from 38 federal agencies!
-
-_-Tim Lowden, Analyst on the Digital Analytics Program_
+  * Despite IRS dominating the top traffic over the last few months, the usual top performers are weather pages from NOAA, which still has 4 pages in the Top 20 right now. Along with NOAA and IRS, the DAP program has participating sites from 38 federal agencies!_-Tim Lowden, Analyst on the Digital Analytics Program_
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." >}}
 
@@ -311,11 +279,9 @@ Number of IRS pages that are in the Top 20 pages: **10**
 
 ### Fun Facts:
 
-  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday](({{< link "tag/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
+  * Over the past 90 days, **31.9% of visitors** have accessed government websites **via mobile devices or tablets**. Our team writes about [mobile trends every Tuesday]({{< link "tag/trends-on-tuesday" >}}), so take a peek and learn how federal agencies are becoming future-ready.
   * In fact, while we are talking about the IRS, [IRS2Go was recently updated]({{< relref "2015-02-19-irs2go-app-provides-multi-symptom-relief-for-tax-anxiety.md" >}}) and is available on Android and iOS.
-  * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?
-
-_-Ashley Wichman, DigitalGov Team_
+  * There were **581,281 visits to government websites at midnight** (Eastern time, early this morning). Were you one of the night owls?_-Ashley Wichman, DigitalGov Team_
 
 ## 8:00 am Update
 
@@ -336,9 +302,7 @@ Number of IRS pages that are in the Top 20 pages: **10**
   * **423** people are currently looking at the IRS &#8220;Direct Pay&#8221; page.
   * IRS.gov has been the most visited government domain over the past 7 and 30 days.
 
-Do you have questions for the DAP or DigitalGov team? Leave a comment below, or give us a shout-out on Twitter, [@Digital_Gov](https://twitter.com/digital_gov) using the #TaxDay hashtag.
-
-_-Ashley Wichman, DigitalGov Team
+Do you have questions for the DAP or DigitalGov team? Leave a comment below, or give us a shout-out on Twitter, [@Digital_Gov](https://twitter.com/digital_gov) using the #TaxDay hashtag._-Ashley Wichman, DigitalGov Team
 
 _
 

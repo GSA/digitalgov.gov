@@ -1,5 +1,5 @@
 ---
-date: 2016-06-13 2:00:49 -0400
+date: 2016-06-13 14:00:49 -0400
 title: 'The Great Pinterest Experiment: One Year In'
 summary: Last summer, Kids.Gov revamped its presence on Pinterest in an attempt to find new ways to connect with its followers. The Marketing Team set out to learn more about our audiences and the kind of content they like. Despite being a difficult platform to navigate, we set lofty goals for ourselves and developed a timely
 authors:

@@ -62,10 +62,7 @@ You can experience this for yourself by using the <a href="https://www.federalre
   
 8) This will pull up just the information for the Office of Workers’ Compensation Programs in the JSON format.
 
-These steps are essentially the same process that you automate when you write a program to interact with APIs. Your software finds the API, uses a request authorized by the API, and then receives a response from the API. NARA has done a great job in making the Federal Register easily accessible through their API and providing a great teaching aid for aspiring API developers.
-
-_Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov).
+These steps are essentially the same process that you automate when you write a program to interact with APIs. Your software finds the API, uses a request authorized by the API, and then receives a response from the API. NARA has done a great job in making the Federal Register easily accessible through their API and providing a great teaching aid for aspiring API developers._Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via [email](mailto:%20William.Brantley@opm.gov).
   
 _ 
-  
-_**Dr. William A. Brantley**, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at [BillBrantley.com](http://billbrantley.com/)._
+  _**Dr. William A. Brantley**, PMP, is a Program Analyst, in Forecasting and Methods at the U.S. Office of Personnel Management (OPM). You can find out more about his work in this space at [BillBrantley.com](http://billbrantley.com/)._

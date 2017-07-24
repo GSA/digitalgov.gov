@@ -1,5 +1,5 @@
 ---
-date: 2014-06-03 2:35:10 -0400
+date: 2014-06-03 14:35:10 -0400
 title: Turning Data Into Action—DigitalGov Summit Recap
 summary: At the DigitalGov Citizen Services Summit last Friday, more than 200 innovators across government and industry came together to share how digital services can improve citizen services and reduce cost. Four panels convened to share information on performance analysis, customer service across channels, public private partnerships and inter-agency work. We have a recap of the
 authors:
@@ -47,8 +47,5 @@ How do you show and track performance in 21st century digital government? Do peo
 
 **Silvia Salazar**,**** Public Health Adviser, **National Cancer Institute, Department of Health & Human Services**, talked about why visitor input is critical. They were able to identify why their blogs or social channels were not getting the traffic they were expecting. Not everyone with cancer wants to share their story with the world. This was an eye-opener and helped to manage expectations for social media usage.
 
-**Ilene France**, Digital Information Specialist, **National Institute of Allergy and Infectious Diseases, Department of Health & Human Services**, explained how the [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) allows for cross agency collaboration. Agencies that are just starting to measure visitor satisfaction can learn from agencies that have a mature DAP in place. Analytics should be used to examine trends over time. Analytics should also be used to examine user behavior via search behavior, mobile sources and social sources.
-
-_**Darlene Gamble** is a Web Analytics Specialist at the **Administrative Office of the U. S. Courts.**_
-
+**Ilene France**, Digital Information Specialist, **National Institute of Allergy and Infectious Diseases, Department of Health & Human Services**, explained how the [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) allows for cross agency collaboration. Agencies that are just starting to measure visitor satisfaction can learn from agencies that have a mature DAP in place. Analytics should be used to examine trends over time. Analytics should also be used to examine user behavior via search behavior, mobile sources and social sources._**Darlene Gamble** is a Web Analytics Specialist at the **Administrative Office of the U. S. Courts.**_
 _Thanks to our special Summit blogger, Darlene, who took up the Open Opportunities challenge. You can [find more opportunities to participate](http://gsablogs.gsa.gov/dsic/category/open-opportunities/)._

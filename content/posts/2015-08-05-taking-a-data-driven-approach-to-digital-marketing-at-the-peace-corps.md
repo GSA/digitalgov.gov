@@ -48,6 +48,4 @@ When taking a data-driven approach, it is important not to lose the forest for t
   * Run the test long enough to collect a statistically significant sample.
   * Make sure repeat visitors see the same variation.
 
-Our experiment was focused on changes to our campaign landing page, but this approach can be applied to other channels, including advertising copy, email content, etc. Remember, there are limitations to these types of experiments, but as long as you are cognizant of the [limitations](http://www.qubit.com/sites/default/files/pdf/mostwinningabtestresultsareillusory_0.pdf) and cautious, you can start making incremental steps to making your agency data-driven.
-
-_Chris Rottler leads digital analytics at the Peace Corps._
+Our experiment was focused on changes to our campaign landing page, but this approach can be applied to other channels, including advertising copy, email content, etc. Remember, there are limitations to these types of experiments, but as long as you are cognizant of the [limitations](http://www.qubit.com/sites/default/files/pdf/mostwinningabtestresultsareillusory_0.pdf) and cautious, you can start making incremental steps to making your agency data-driven._Chris Rottler leads digital analytics at the Peace Corps._

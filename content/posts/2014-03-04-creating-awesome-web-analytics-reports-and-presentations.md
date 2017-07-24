@@ -24,8 +24,7 @@ Learn the best way to share all the data from an entire year, and showcase the p
 [youtube https://www.youtube.com/watch?v=q9-aF46xqE4]
   
 [
-  
-](http://www.youtube.com/watch?v=q9-aF46xqE4) 
+  ](http://www.youtube.com/watch?v=q9-aF46xqE4) 
 
   * Presentation Slides: [Google Analytics Year in Review](http://prezi.com/wy2flvzotlos/google-analytics-year-in-review-for-gsa/?utm_campaign=share&utm_medium=copy)
   * [Infographic Template](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/google-analytics-template.pdf) (PDF, 756 KB, 2 pages)
@@ -38,8 +37,7 @@ Quarterly report writing is a perfect opportunity to look at the impact of your 
 [youtube https://www.youtube.com/watch?v=IYxi9KvYMok]
   
 [
-  
-](http://www.youtube.com/watch?v=IYxi9KvYMok) 
+  ](http://www.youtube.com/watch?v=IYxi9KvYMok) 
 
   * Presentation Slides: [Above and Beyond Metrics: Tell a Story with Reports](http://prezi.com/gn9m4ens8fua/above-beyond-metrics-tell-a-story-with-reports)
   * View the [Quarterly Analytics Report Template](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/google-analytics-sample-quarterly-report.docx) (MS Word, 880 KB)
@@ -53,8 +51,7 @@ Learn how to analyze data and make suggestions to reflect the voice of the custo
 [youtube https://www.youtube.com/watch?v=bYi9OjWUR6E]
   
 [
-  
-](http://www.youtube.com/watch?v=bYi9OjWUR6E) 
+  ](http://www.youtube.com/watch?v=bYi9OjWUR6E) 
 
   * Presentation slides: [Forum Call: Meaningful Metrics—From Gathering to Analyzing Digital Metrics](http://prezi.com/xpbsiej32l1s/metrics-progress/)
   * Transcript: [Forum Call: Meaningful Metrics—From Gathering to Analyzing Digital Metrics](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/forum-call-meaningful-metrics-transcript.docx) (MS Word, 63 KB, 11 pages, November 2012)

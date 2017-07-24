@@ -30,5 +30,4 @@ In the video below, FirstNet’s Mike Worrell talks about the communication chal
 _
   
 Mike Worrell is the FirstNet Senior Fire Services Advisor. He was previously with the Phoenix Fire Department where he served for 29 years, most recently as the technical services division chief. Worrell was also a member of the Public Safety Advisory Committee (PSAC) to FirstNet, a member of the National Urban Search and Rescue Incident Support Team, and a qualified Communications Unit Leader and Communications Technician instructor. Prior to joining the Phoenix Fire Department, he was an electronics technician in the U.S. Navy, Submarine Service._
-
 _This post was originally published on the [FirstNet blog](http://www.firstnet.gov/newsroom/blog)._

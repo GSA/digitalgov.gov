@@ -1,5 +1,5 @@
 ---
-date: 2016-07-11 1:30:29 -0400
+date: 2016-07-11 13:30:29 -0400
 title: 'The Content Corner: How to Leverage User-Generated Content to Resonate With Your Audience'
 summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let&rsquo;s look to a shining example of it,Wikipedia, as a source, &#8220;any form of content such as blogs, wikis, discussion forums, posts, chats,tweets, podcasts, digital images, video, audio files, advertisements, and other'
 authors:
@@ -70,9 +70,7 @@ There are many ideas for how to implement user-generated content into your conte
 
 To highlight community policing efforts in action, the Community Oriented Policing Services Office hosts a [Community Policing in Action](http://www.cops.usdoj.gov/photocontest) photo contest to celebrate examples of community policing and showcase the work of American law enforcement.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-172-Community-Policing-2016-Photo-Contest_WebBanner.jpg" alt="Community Policing 2016 Photo Contest banner." >}}<figure class="tmblr-full"></figure> 
-
-_National Archives_, through the _National Archives Foundation_, hosted a [#ArchivesJuly4 Transcribe-a-thon](https://www.archivesfoundation.org/event/archivesjuly4-transcribe-thon/) where participants using their computers on site, helped to unlock info to put in the records on the National Archives’ online catalog.
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-172-Community-Policing-2016-Photo-Contest_WebBanner.jpg" alt="Community Policing 2016 Photo Contest banner." >}}<figure class="tmblr-full"></figure> _National Archives_, through the _National Archives Foundation_, hosted a [#ArchivesJuly4 Transcribe-a-thon](https://www.archivesfoundation.org/event/archivesjuly4-transcribe-thon/) where participants using their computers on site, helped to unlock info to put in the records on the National Archives’ online catalog.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-300-National-Archives-and-Records-Administration-July-4th-Transcribe-a-thon.jpg" alt="National Archives and Records Administration graphic for the July 4th Transcribe-a-thon." >}}<figure class="tmblr-full"></figure> 
 
@@ -98,6 +96,4 @@ In an effort to increase “surface observations” [NOAA’s National Severe St
   The <a href="http://www.fs.fed.us/">U.S. Forest Service</a> and <a href="http://www.usda.gov/">U.S. Department of Agriculture</a> host many <a href="http://www.citizenscience.gov/catalog/">projects in the catalog</a> that collaborate with NGO’s, schools and state and local governments, that, among other things, support conservation goals/policy and research advancement, build new technologies, and gather or classify data.
 </p>
 
-There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich).
-
-_You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
+There are many more examples of effective user-generated content. How have you, or can you, implement it into your content calendar? Please share your thoughts in the comments below or reach out to me on [Twitter @SSgtKRich](https://www.twitter.com/SSgtKRich)._You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< link "tag/the-content-corner" >}}). This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

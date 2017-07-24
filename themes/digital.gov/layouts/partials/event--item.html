@@ -1,23 +1,13 @@
-{{ if .Params.venue.is_inperson }}
-  {{ if .Params.venue.is_remote }}
-    {{ $.Scratch.Set "prefix" "In-Person & Online: " }}
-  {{ else }}
-    {{ $.Scratch.Set "prefix" "In-Person: " }}
-  {{ end }}
-{{ else }}
-  {{ $.Scratch.Set "prefix" "Online: " }}
-{{ end }}
+{{ partial "event-venue--inPerson.html" . }}
 
-<li class="tribe-events-list-widget-events type-tribe_events post-386686 tribe-clearfix tribe-events-category-in-person tribe-events-venue-98072 tribe-events-organizer-2562 tribe-events-first tribe-events-last">
-
+<li class="tribe-events-list-widget-events type-tribe_events tribe-clearfix">
   <!-- Event Title -->
   <h4 class="tribe-event-title">
-    <a href="{{ .Permalink }}" rel="bookmark">{{ .Scratch.Get "prefix" }}{{ .Title }}</a>
+    <a href="{{ .Permalink }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" }}</a>
   </h4>
 
   <!-- Event Time -->
-
   <div class="tribe-event-duration">
-    <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
+    <span class="tribe-event-date-start">{{ dateFormat "January _2 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
   </div>
 </li>

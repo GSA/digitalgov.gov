@@ -1,5 +1,5 @@
 ---
-date: 2016-06-23 1:30:02 -0400
+date: 2016-06-23 13:30:02 -0400
 title: Using Plain Language to Bridge the Gap Between Government and Industry
 summary: Much of our work with government partners to deliver better digital services has resulted in full websites, applications, and embarking on large-scale transformation efforts. In addition to those types of projects, we also work on shorter, faster, smaller-scale projects designed to show our partners different points of view and different techniques to approach their most
 authors:

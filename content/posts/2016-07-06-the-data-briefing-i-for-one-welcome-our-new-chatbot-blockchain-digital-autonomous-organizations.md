@@ -41,5 +41,4 @@ Now, imagine if a government agency used DAOs to manage and provide government s
 These are still emerging technologies, and there are many issues to be worked out before fully trusting a DAO or blockchain. Even so, it is fascinating to see how these technologies can release the HR worker from the routine processing of transactions to becoming a creative problem solver that brings better value to the organization. Maybe, the lessons learned from the adoption of cognitive technologies in HR could also help better the other business units in Federal agencies.
 
 _Each week, The Data Briefing showcases the latest federal data news and trends._
-
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

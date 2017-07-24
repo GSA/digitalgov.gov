@@ -28,6 +28,4 @@ Check out the tools and [let them know about the tools](http://www.whitehouse.go
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/opt-consumerhub\_emailteaser\_5408.jpg" alt="White House Tools " >}}
 
- 
-
-_Ori Hoffer is a Public Affairs Specialist at the U.S. General Services Administration (GSA)._
+ _Ori Hoffer is a Public Affairs Specialist at the U.S. General Services Administration (GSA)._

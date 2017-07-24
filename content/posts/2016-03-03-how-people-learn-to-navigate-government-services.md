@@ -1,5 +1,5 @@
 ---
-date: 2016-03-03 2:43:04 -0400
+date: 2016-03-03 14:43:04 -0400
 title: How People Learn to Navigate Government Services
 summary: 'This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people&rsquo;s perceptions of and interactions with the government. You can find the introduction to the series on our website and a complete pdf of the research findings on'
 authors:
@@ -13,7 +13,6 @@ tag:
 ---
 
 _This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’s perceptions of and interactions with the government. You can find the [introduction to the series](https://18f.gsa.gov/2016/03/01/what-we-learned-after-interviewing-people-about-their-interactions-with-the-federal-government/) on our website and a complete pdf of the [research findings](https://labs.usa.gov/#research-report) on a [new microsite](https://labs.usa.gov/) that details the themes the research team is investigating._
-
 _In yesterday’s post, we [shared the strategies](https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/) people use when interacting with the government. Today we’ll detail how people learn to navigate government services and what barriers exist to accessing services._
 
 ## Learning how to navigate government services {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 
@@ -74,10 +73,6 @@ Those with no English skills depend on friends or family to help them navigate g
 
 Maria K. from Jacksonville described how she struggled with the complicated terminology on an unemployment application but had no problems with the application for food stamps, which used simpler language. “I didn’t feel it was that complicated of language for me to use the Spanish [version],” she said. “I’ve been in the states for 13 years now, so my English is not that bad. The questions for the food stamps were, like, a little easier and more basic type of thing than the unemployment [questions] were.”
 
-Alvaro S. shared how he helped his mother out with a question she had about Social Security. Because she only speaks Spanish and does not regularly use the internet, he looked up her question online, found the answer in Spanish, printed out the web page, and snail mailed it to her across the country.
-
-_Tomorrow, we’ll detail how people interact with the government when they use proxies._
-
+Alvaro S. shared how he helped his mother out with a question she had about Social Security. Because she only speaks Spanish and does not regularly use the internet, he looked up her question online, found the answer in Spanish, printed out the web page, and snail mailed it to her across the country._Tomorrow, we’ll detail how people interact with the government when they use proxies._
 _Additional contributors to this report include Katherine Garklavs, 18F, GSA; Kristina Sommer, Focus on UX!; Ryan Thurlwell, 18F, GSA and Cari Wolfson, Focus on UX!. To contact the Federal Front Door team, email <federalfrontdoor@gsa.gov>. You can read the complete report on [labs.usa.gov](https://labs.usa.gov/), a new site that will house all of the research conducted by this team._
-
 _This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Colin MacArthur, Carolyn Dew, John Yuda, Brad Nunnally, 18F team members and Michelle Chronister, formerly with USAgov._

@@ -55,5 +55,4 @@ The largest change will be totally invisible to most users: we’ve switched fro
 Finally, please share the site. Voting is a great privilege of citizenship. We want everyone who can to register to vote.
 
 _Yoz Grahame is a software developer at [18F](http://www.gsa.gov/portal/content/124182), part of the GSA’s new [Technology & Transformation Service](http://www.gsa.gov/portal/category/25729)._
-
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/)._

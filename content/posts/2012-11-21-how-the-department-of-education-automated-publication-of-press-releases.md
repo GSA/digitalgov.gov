@@ -1,5 +1,5 @@
 ---
-date: 2012-11-21 3:59:49 -0400
+date: 2012-11-21 15:59:49 -0400
 title: How the Department of Education Automated Publication of Press Releases
 summary: A case study on how the Department of Education used the Drupal content management system (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time. The Challenge The Department of Education was posting press releases using a system that posted them as static HTML files. The
 authors:

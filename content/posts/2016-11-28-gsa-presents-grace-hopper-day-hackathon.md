@@ -23,16 +23,10 @@ The event is open to the public and being held in the [National Archives Innovat
 
 This hackathon is beginner friendly! GSA DS staff will be onsite and available for project related assistance and guidance. We’d like to highly encourage women, non-binary, and other underrepresented groups in tech to attend. {{< legacy-img src="CDN/files/2017/03/600-x-274-Lt.-Grace-Hopper-at-her-desk-in-the-Computation-Laboratory_Glass-shelves-with-early-calculating-machines-seen-in-background-1947.jpg" alt="Grace Hopper at her desk in 1947." caption="" >}} 
 
-[Check out the hackathon’s full details and register now](http://open.gsa.gov/grace-hopper-hackathon/).
-
-_This event has passed; [read all about it here](https://open.gsa.gov/events/grace-hopper-hackathon/) (includes links to team demo videos and presentation slide decks)._ 
+[Check out the hackathon’s full details and register now](http://open.gsa.gov/grace-hopper-hackathon/)._This event has passed; [read all about it here](https://open.gsa.gov/events/grace-hopper-hackathon/) (includes links to team demo videos and presentation slide decks)._ 
 
 [_Rear Admiral Grace Hopper_](http://fivethirtyeight.com/features/the-queen-of-code/)_, also known as “Amazing Grace” and “the first lady of software,” was one of_ [_21 Americans_](https://www.whitehouse.gov/the-press-office/2016/11/16/president-obama-names-recipients-presidential-medal-freedom) _awarded the_ [_Presidential Medal of Freedom_](https://www.whitehouse.gov/blog/2016/11/22/celebrating-presidential-medal-freedom-winners-science-and-tech-garwin-hopper-and) _by President Barack Obama on November 22, 2016. The Presidential Medal of Freedom is the Nation’s highest civilian honor, presented to individuals who have made especially meritorious contributions to the security or national interests of the United States, to world peace, or to cultural or other significant public or private endeavors._ [_Watch the 2016 ceremony, and learn about other recipients_](https://www.whitehouse.gov/campaign/medal-of-freedom).
 
-{{< legacy-img src="CDN/files/2017/03/600-x-450-Grace-Hopper-teaching-COBOL.jpg" alt="Grace Hopper teaching COBOL." >}}
-
-_Learn more about the_ [_U.S. General Services Administration_](http://www.gsa.gov/) _(GSA)._
-
-_Read recent posts on_ [_data_](({{< link "categories/code" >}}data1/)_,_ [_APIs_](({{< link "categories/api" >}})_, and_ [_open source_](({{< link "tag/open-source" >}})_, and news about_ [_challenge and prize competitions_](({{< link "categories/challenges" >}}) _and_ [_crowdsourcing & citizen science_](({{< link "categories/crowdsourcing-and-citizen-science" >}}) _projects._
-
+{{< legacy-img src="CDN/files/2017/03/600-x-450-Grace-Hopper-teaching-COBOL.jpg" alt="Grace Hopper teaching COBOL." >}}_Learn more about the_ [_U.S. General Services Administration_](http://www.gsa.gov/) _(GSA)._
+_Read recent posts on_ [_data_]({{< link "categories/code" >}}data1/)_,_ [_APIs_]({{< link "categories/api" >}})_, and_ [_open source_]({{< link "tag/open-source" >}})_, and news about_ [_challenge and prize competitions_]({{< link "categories/challenges" >}}) _and_ [_crowdsourcing & citizen science_]({{< link "categories/crowdsourcing-and-citizen-science" >}}) _projects._
 _Learn how_ [_Challenge.gov_]({{< relref "challenge-gov.md" >}}) _(crowdsourced challenge and prize competitions) and_ [_CitizenScience.gov_]({{< relref "2016-04-14-gsa-unveils-new-hub-for-federal-citizen-science-crowdsourcing.md" >}}) _(crowdsourcing and citizen science projects) can help your agency meet its goals in serving the public. Does your agency need help testing their mobile products? Contact our_ [_Federal CrowdSource Mobile Testing Program_]({{< relref "mobile-application-testing-program.md" >}})_._

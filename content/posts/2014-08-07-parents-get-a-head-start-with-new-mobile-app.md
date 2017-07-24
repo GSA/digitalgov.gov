@@ -1,5 +1,5 @@
 ---
-date: 2014-08-07 1:00:46 -0400
+date: 2014-08-07 13:00:46 -0400
 title: Parents Get a Head Start With New Mobile App
 summary: 'As it&#8217;s time to return to school, the Health and Human Services Administration for Children and Families is helping parents and teachers prepare anytime, anywhere. Head Start Resources, an app available on iOS and Android, is a gateway to tools and resources for those associated'
 authors:
@@ -22,6 +22,6 @@ tag:
   * Links to their website via a search function, with resources pertaining to Performance Standards and information about the Head Start Act, and
   * Help by utilizing the &#8220;Contact Us&#8221; section, featuring a phone number, email, office hours, and an interactive form.
 
-Head Start Resources has implemented numerous tools that we [mentioned last week]({{< relref "2014-07-30-customization-is-key-to-better-mobile-user-experience.md" >}}) to fit their users&#8217; needs. Want to learn how your agency can get started with a mobile product that users rave about? Join the [MobileGov Community of Practice](({{< link "categories/mobile" >}}) today and see what other agencies are doing by checking out the [USA.gov Apps Registry](http://apps.usa.gov/register).
+Head Start Resources has implemented numerous tools that we [mentioned last week]({{< relref "2014-07-30-customization-is-key-to-better-mobile-user-experience.md" >}}) to fit their users&#8217; needs. Want to learn how your agency can get started with a mobile product that users rave about? Join the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) today and see what other agencies are doing by checking out the [USA.gov Apps Registry](http://apps.usa.gov/register).
 
  

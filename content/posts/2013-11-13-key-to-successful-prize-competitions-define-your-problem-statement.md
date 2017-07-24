@@ -1,5 +1,5 @@
 ---
-date: 2013-11-13 1:06:21 -0400
+date: 2013-11-13 13:06:21 -0400
 title: 'Key to Successful Prize Competitions: Define Your Problem Statement'
 summary: 'In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue. To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare'
 authors:

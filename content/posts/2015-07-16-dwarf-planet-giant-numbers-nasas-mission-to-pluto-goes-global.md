@@ -1,5 +1,5 @@
 ---
-date: 2015-07-16 2:49:49 -0400
+date: 2015-07-16 14:49:49 -0400
 title: 'Dwarf Planet, Giant Numbers: NASA’s Mission to Pluto Goes Global'
 summary: ' Even on a &ldquo;slow&rdquo; day, NASA is a pretty cool place to work, but the cool factor gets cranked way up when the whole world joins in the adventure. That&rsquo;s what happened this week when the New Horizons spacecraft arrived at Pluto after decade-long, three-billion-mile journey through the solar system.'
 authors:
@@ -49,6 +49,4 @@ Of course we love these numbers, and we always knew this would be a big one. But
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-214-NASA-2-engage.jpg" alt="600-x-214-NASA-2\---engage" >}}
   
-This is just getting started. We’re looking forward to seeing what else Pluto has to offer, and watching the analytics to see how the world engages.
-
-_Jim Wilson is Senior Editor of www.nasa.gov at the National Aeronautics and Space Administration._
+This is just getting started. We’re looking forward to seeing what else Pluto has to offer, and watching the analytics to see how the world engages._Jim Wilson is Senior Editor of www.nasa.gov at the National Aeronautics and Space Administration._

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-16 5:03:25 -0400
+date: 2014-01-16 17:03:25 -0400
 title: 'FEMA App adds &#8216;Disaster Reporter&#8217; feature'
 summary: 'The Federal Emergency Management Agency (FEMA) is taking the well-known slogan, &#8220;See something, say something,&#8221; to the crowd. Consider it more &#8220;See something, submit something.&#8221; Harnessing the power of citizen intelligence to understand and respond to disasters, FEMA in late 2013 launched a new feature in'
 categories:
@@ -26,6 +26,4 @@ The Disaster Reporter feature relies on users&#8217; smartphone GPS, and the cop
 
 As you might recall, [FEMA&#8217;s app](http://apps.usa.gov/fema-mobile.shtml) also offers users disaster safety tips, an interactive emergency kit list, emergency meeting location information, and a map plotted with open shelters and FEMA Disaster Recovery Centers.
 
-So, [build your emergency  kit](http://www.ready.gov/build-a-kit), develop an [emergency plan](http://www.ready.gov/make-a-plan), and if disaster strikes in your neck of the woods,  consider sending your images through Disaster Reporter as a way to assist recovery and relief operations.
-
-_Don&#8217;t forget: You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._
+So, [build your emergency  kit](http://www.ready.gov/build-a-kit), develop an [emergency plan](http://www.ready.gov/make-a-plan), and if disaster strikes in your neck of the woods,  consider sending your images through Disaster Reporter as a way to assist recovery and relief operations._Don&#8217;t forget: You can download the latest government mobile apps from the **[USA.gov Apps Gallery](http://apps.usa.gov/)**._

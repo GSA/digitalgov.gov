@@ -161,8 +161,6 @@ A couple of things: that we have a proven track record under the BPA, or other v
 
 **Lastly, why is this important for FAS and 18F?**
 
-It’s important for 18F and FAS because it gives us another way to deliver value for our partner agencies. We recognized at the outset that the demand for transformative digital services would outpace our ability to hire people into 18F, and that we’d want to work with industry, an incredible source of innovation, to help us ship. But, it’s also important because we have a lot empathy for industry, who are trying to ship quality software for agency partners, too. By working together, we can build a contract vehicle that meets our needs, but also aligns with our vendors’ expectations of how to get things done.
-
-__ 
+It’s important for 18F and FAS because it gives us another way to deliver value for our partner agencies. We recognized at the outset that the demand for transformative digital services would outpace our ability to hire people into 18F, and that we’d want to work with industry, an incredible source of innovation, to help us ship. But, it’s also important because we have a lot empathy for industry, who are trying to ship quality software for agency partners, too. By working together, we can build a contract vehicle that meets our needs, but also aligns with our vendors’ expectations of how to get things done.__ 
   
  _This post was originally published on the [18f blog](https://18f.gsa.gov/blog/) by V. David Zvenyach, Kathryn Edelman, Chris Cairns, and Melody Kramer, 18f team members._

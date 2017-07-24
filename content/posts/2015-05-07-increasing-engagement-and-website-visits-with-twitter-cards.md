@@ -1,5 +1,5 @@
 ---
-date: 2015-05-07 4:12:30 -0400
+date: 2015-05-07 16:12:30 -0400
 title: Increasing Engagement and Website Visits with Twitter Cards
 summary: 'May is #WorldTradeMonth and each year the U.S. Trade and Development Agency celebrates the month by highlighting the partnerships it has with 39 state and local organizations that promote U.S. exports in their home states through an initiative called #MakingGlobalLocal. What that means is that those 39 organizations with social media accounts, especially Twitter, will'
 authors:

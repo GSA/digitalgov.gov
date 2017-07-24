@@ -1,5 +1,5 @@
 ---
-date: 2017-06-27 3:42:32 -0400
+date: 2017-06-27 15:42:32 -0400
 title: The Journey to Sharing America’s Code
 summary: 'As the nation&rsquo;s primary platform for sharing and improving government software, Code.gov can help the government save millions of taxpayer dollars. It&rsquo;s no secret that the federal government spends billions of dollars a year on software transactions. So, in an effort to cut excessive spending, the'
 authors:
@@ -56,6 +56,4 @@ We’re incredibly thankful to everyone who has participated in our online discu
 
 <a href="https://github.com/presidential-innovation-fellows/code-gov-web/issues" target="_blank" rel="nofollow noopener noreferrer">Join the discussion on our open source repository now.</a>
 
-&#8211; The Code.gov Team
-
-_This post was originally published on [Medium by Code.gov](https://medium.com/@CodeDotGov/the-journey-to-sharing-americas-code-10a162d26418)._
+&#8211; The Code.gov Team_This post was originally published on [Medium by Code.gov](https://medium.com/@CodeDotGov/the-journey-to-sharing-americas-code-10a162d26418)._

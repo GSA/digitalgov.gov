@@ -17,7 +17,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-The [wildly popular, augmented reality game]({{< relref "2016-07-12-trends-on-tuesday-adoption-for-pokemon-go-mobile-app-goes-crazy.md" >}}) we reported on for [Trends on Tuesday](({{< link "tag/trends-on-tuesday" >}}) a few weeks ago and the focus of a piece [about government agencies using it to engage citizens]({{< relref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}}) appears to have hit a ceiling and is [slowly losing active fans in August](https://www.bloomberg.com/news/articles/2016-08-22/these-charts-show-that-pokemon-go-is-already-in-decline) according to a recent report in Bloomberg.
+The [wildly popular, augmented reality game]({{< relref "2016-07-12-trends-on-tuesday-adoption-for-pokemon-go-mobile-app-goes-crazy.md" >}}) we reported on for [Trends on Tuesday]({{< link "tag/trends-on-tuesday" >}}) a few weeks ago and the focus of a piece [about government agencies using it to engage citizens]({{< relref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}}) appears to have hit a ceiling and is [slowly losing active fans in August](https://www.bloomberg.com/news/articles/2016-08-22/these-charts-show-that-pokemon-go-is-already-in-decline) according to a recent report in Bloomberg.
 
 While the mobile game may be losing audience, from a brand perspective Nintendo’s Pokemon franchise was reinvigorated for a new generation of fans which will pay dividends in the future. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Female-hands-with-mobile-smartphone-stevanovicigor-iStock-Thinksock-500780944.jpg" alt="Female hands with mobile smartphone." caption="" >}} 
 

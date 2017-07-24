@@ -1,5 +1,5 @@
 ---
-date: 2013-12-26 1:27:00 -0400
+date: 2013-12-26 13:27:00 -0400
 title: Your Art App Now on Android
 summary: 'Earlier this year the National Gallery of Art released their &#8220;Your Art&#8221; app on iOS and now they have released an Android version. The Your Art app allows users to explore more than 130 works by artists including Leonardo da Vinci, Rembrandt van Rijn, Johannes Vermeer, and others. Along'
 authors:

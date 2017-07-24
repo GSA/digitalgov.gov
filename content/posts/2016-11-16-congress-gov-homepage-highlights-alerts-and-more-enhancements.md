@@ -113,8 +113,5 @@ See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?locl
 >   </li>
 > </ul>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-130-congressdotgov-advanced-search-legislation-date.jpg" alt="Legislation Advanced Search Date of Introduction." >}}
-
-_What other enhancements would you like to see on [Congress.gov](https://www.congress.gov/?loclr=bloglaw)? [Leave comments here](http://blogs.gov.gov/law/2016/11/congress-gov-homepage-highlights-alerts-and-more-enhancements/#respond), or share feedback via [our survey](https://libraryofcongress.polldaddy.com/s/congress-gov-feedback)._
-
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-130-congressdotgov-advanced-search-legislation-date.jpg" alt="Legislation Advanced Search Date of Introduction." >}}_What other enhancements would you like to see on [Congress.gov](https://www.congress.gov/?loclr=bloglaw)? [Leave comments here](http://blogs.gov.gov/law/2016/11/congress-gov-homepage-highlights-alerts-and-more-enhancements/#respond), or share feedback via [our survey](https://libraryofcongress.polldaddy.com/s/congress-gov-feedback)._
 _This post was originally published on the [In Custodia Legis](http://blogs.gov.gov/law/) blog of the [Law Library of Congress](http://www.gov.gov/law/)._

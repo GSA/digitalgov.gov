@@ -25,7 +25,7 @@ The report states, “Roughly two-thirds (69%) of Americans indicate that not ha
 
 In fact, in every category of Internet usage examples cited by Pew, non-broadband adopters viewed not having home broadband as a major disadvantage, including learning about or accessing government services (up 15% from 2010).
 
-This research reiterates the importance of government digital properties being optimized for mobile-only audiences who don’t have access to desktop or home Internet. Stay tuned to DigitalGov to [learn more about mobile-only audiences](({{< link "categories/mobile" >}}) and how government agencies can serve them better!
+This research reiterates the importance of government digital properties being optimized for mobile-only audiences who don’t have access to desktop or home Internet. Stay tuned to DigitalGov to [learn more about mobile-only audiences]({{< link "categories/mobile" >}}) and how government agencies can serve them better!
 
  
 

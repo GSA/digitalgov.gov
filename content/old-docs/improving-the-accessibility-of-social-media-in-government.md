@@ -170,7 +170,7 @@ Below are a set of recommended, baseline strategies to improve the accessibility
   * [Emergency 2.0 Wiki Accessibility Toolkit](http://emergency20wiki.org/wiki/index.php/Accessibility_Toolkit) (Australia)
   * [Queen University’s Accessibility Hub](http://www.queensu.ca/accessibility/how-info/social-media-accessibility) (Canada)
   * [Accessibility articles on Usability.gov](http://www.usability.gov/tags/accessibility/)
-  * [Accessibility section on DigitalGov.gov](({{< link "categories/accessibility" >}})
+  * [Accessibility section on DigitalGov.gov]({{< link "categories/accessibility" >}})
   * [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/)
   * [Section508.gov](http://section508.gov/)
   * [Department of Health and Human Services Section 508 Resources](http://www.hhs.gov/web/508/index.html)

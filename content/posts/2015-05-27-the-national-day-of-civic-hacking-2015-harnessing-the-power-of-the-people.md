@@ -52,6 +52,4 @@ Civic hacking during the event is in no way limited to these three verticals; th
 
 It has been exciting to see the growth of the prizes and challenges work across the federal sector over the past several years; nearly every agency has stepped out into the challenge space in one way or another. The National Day of Civic Hacking, however, is a unique chance for us to do that together, and in a locally-grounded, citizen-driven way—inspiring new innovations (and equally important, new collaborations) that impact people in very real ways.
 
-We hope you’ll join us! More information can be found at the [National Day of Civic Hacking website](http://hackforchange.org/about/).
-
-_Ali Llewellyn is an Innovation Strategist for NASA._
+We hope you’ll join us! More information can be found at the [National Day of Civic Hacking website](http://hackforchange.org/about/)._Ali Llewellyn is an Innovation Strategist for NASA._

@@ -1,5 +1,5 @@
 ---
-date: 2014-06-03 1:25:10 -0400
+date: 2014-06-03 13:25:10 -0400
 title: 'Trends on Tuesday: Mary Meeker&#8217;s 2014 Internet Trends'
 summary: 'Since 2001, Mary Meeker has developed a knack for highlighting what&rsquo;s currently happening on the Internet and how this information may impact technology and business in the future. Last week she released her 2014 Internet Trends and it reveals some interesting digital trends. Here are the highlights: Marketing: Social messaging is changing'
 authors:
@@ -24,4 +24,4 @@ tag:
 
 Meeker’s observations can provide insight to government agencies as they continue to develop mobile and other digital strategies. One trend that cannot be ignored is [Mobile First]({{< relref "2013-09-30-mobile-first.md" >}} "Mobile First"). As the report reveals, the rise of mobile device ownership, as well as multi-screen engagement, is causing organizations to &#8220;re-imagine&#8221; how they can effectively engage stakeholders. See the full report [here](http://www.kpcb.com/internet-trends "2014 Internet Trends Report").
 
-_Learn more about how government is implementing mobile by joining the [Mobile Gov Community of Practice](({{< link "categories/mobile" >}} "Mobile"). Interested in learning more about adaptive content and content modeling for mobile? Check out the new [Structured Content Models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!") and the [training on Event Model Creation]({{< tmp "events/what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model")._
+_Learn more about how government is implementing mobile by joining the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile"). Interested in learning more about adaptive content and content modeling for mobile? Check out the new [Structured Content Models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!") and the [training on Event Model Creation]({{< tmp "events/what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model")._

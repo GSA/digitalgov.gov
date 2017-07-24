@@ -1,5 +1,5 @@
 ---
-date: 2016-09-23 1:00:58 -0400
+date: 2016-09-23 13:00:58 -0400
 title: 'Gettin&#8217; Giphy With It: NARA Shares Online Library of Animated Gifs'
 summary: 'Hi there, DigitalGov! Have you looked in vain for quality animated GIFs from a reputable source? Have your searches left you annoyed and frustrated because you can&rsquo;t find a GIF with properly attributed and sourced content? Wondering what you can do and where to look? Come on over to the new Giphy channel from the'
 authors:
