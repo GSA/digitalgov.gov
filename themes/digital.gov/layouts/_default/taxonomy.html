@@ -12,8 +12,11 @@
       {{ $slug := .Title | urlize }}
       {{ $taxdata := index $data $taxonomy }}
       {{ $term := index $taxdata $slug }}
+      {{ if eq $taxonomy "categories" }}
+        {{ $.Scratch.Set "categories" $slug }}
+      {{ end }}
       {{ with $term.communities }}
-        {{ $.Scratch.Set "relatedCommunity" . }}
+        {{ $.Scratch.Set "relatedCommunities" . }}
       {{  end }}
       <h1 class="archive-title">{{ $term.display_name }}</h1>
 

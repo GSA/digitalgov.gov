@@ -1,4 +1,4 @@
-{{ with $.Scratch.Get "relatedCommunity" }}
+{{ with $.Scratch.Get "relatedCommunities" }}
   {{ range $community := . }}
     {{ range where (where $.Site.Pages "Section" "communities") "Params.uid" $community }}
       <div id="featured-page-17" class="widget widget-1 widget-first featuredpage">
