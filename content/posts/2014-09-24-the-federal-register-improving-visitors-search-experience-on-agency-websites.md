@@ -14,7 +14,7 @@ tag:
   - Federal Register
   - Instagram
   - NLM
-  - 'Occupational Safety &amp; Health Administration'
+  - 'Occupational Safety and Health Administration'
   - OSHA
   - SEC
   - Twitter

@@ -14,7 +14,7 @@ tag:
   - Artificial Intelligence for Citizen Services Community
   - communities
   - GSA
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - social media
   - SocialGov

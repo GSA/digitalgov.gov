@@ -1,0 +1,12 @@
+{{ block "pagevars" . }}{{ end }}
+
+{{ partial "head.html" . }}
+{{ partial "body-top.html" . }}
+
+{{ block "content" . }} The content didn't load. :( {{ end }}
+{{ if eq .Layout "1col" }}{{ else }}
+{{ block "sidebar" . }} The content didn't load. :( {{ end }}
+{{ end }}
+
+{{ partial "body-bottom.html" . }}
+{{ partial "footer.html" . }}

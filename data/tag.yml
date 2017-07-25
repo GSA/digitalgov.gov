@@ -1,560 +1,1120 @@
-18f: "18F"
-3d-printing: "3D Printing"
-508: "508"
-5g: "5G"
-a-b-testing: "A/B Testing"
-abmc: "ABMC"
-accessibility: "Accessibility"
-acquisition: "Acquisition"
-administration-on-aging: "Administration On Aging"
-administrative-office-of-the-united-states-courts: "Administrative Office Of The United States Courts"
-agile: "Agile"
-agile-lean-community-of-practice: "Agile/Lean Community Of Practice"
-ai: "AI"
-aids-gov: "AIDS.Gov"
-american-battle-monuments-commission: "American Battle Monuments Commission"
-american-red-cross: "American Red Cross"
-americans-with-disabilities-act: "Americans With Disabilities Act"
-analytics: "Analytics"
-analytics-usa-gov: "analytics.usa.gov"
-animal-and-plant-health-inspection-service: "Animal And Plant Health Inspection Service"
-anle: "Anle"
-aoi: "AOI"
-api: "API"
-api-keys: "API Keys"
-app: "App"
-apps: "Apps"
-apps-challenges: "Apps Challenges"
-architect-of-the-capitol: "Architect Of The Capitol"
-architecture: "Architecture"
-arlington-national-cemetery: "Arlington National Cemetery"
-artificial-intelligence: "Artificial Intelligence"
-artificial-intelligence-for-citizen-services-community: "Artificial Intelligence For Citizen Services Community"
-atf: "ATF"
-audio: "Audio"
-audio-video: "Audio/Video"
-augmented-reality: "Augmented Reality"
-aws: "AWS"
-bar: "Bar"
-bar-qaz: "Bar/Qaz"
-bbg: "BBG"
-bea: "BEA"
-best-practices: "Best Practices"
-bia: "BIA"
-big-data: "Big Data"
-blm: "BLM"
-blockchain: "Blockchain"
-blog: "Blog"
-bls: "BLS"
-broadband: "Broadband"
-broadcasting-board-of-governors: "Broadcasting Board Of Governors"
-browsers: "Browsers"
-bureau-of-alcohol-tobacco-firearms-and-explosives: "Bureau Of Alcohol Tobacco Firearms And Explosives"
-bureau-of-indian-affairs: "Bureau Of Indian Affairs"
-bureau-of-justice-statistics: "Bureau Of Justice Statistics"
-bureau-of-reclamation: "Bureau Of Reclamation"
-cbp: "CPB"
-cdc: "CDC"
-census: "Census"
-centers-for-disease-control-and-prevention: "Centers For Disease Control And Prevention"
-centers-for-medicare-and-medicaid-services: "Centers For Medicare And Medicaid Services"
-central-intelligence-agency: "Central Intelligence Agency"
-cfpb: "CFPB"
-challenge-gov: "Challenge.gov"
-challenges-and-prize-competitions: "Challenges And Prize Competitions"
-challenges-and-prizes-community-of-practice: "Challenges And Prizes Community Of Practice"
-chatbots: "Chatbots"
-cia: "CIA"
-cio: "CIO"
-cio-council: "CIO Council"
-citizen-science: "Citizen Science"
-citizen-science-and-crowdsourcing-community-of-practice: "Citizen Science And Crowdsourcing Community Of Practice"
-cloud: "Cloud"
-cloud-gov: "cloud.gov"
-cms: "CMS"
-cncs: "CNCS"
-code: "Code"
-commerce: "Commerce"
-communication: "Communication"
-communities: "Communities"
-connect-gov: "Connect.gov"
-consumer-action-handbook: "Consumer Action Handbook"
-consumer-financial-protection-bureau: "Consumer Financial Protection Bureau"
-consumer-product-safety-commission: "Consumer Product Safety Commission"
-content: "Content"
-content-management-system: "Content Management System"
-content-models: "Content Models"
-content-strategy: "Content Strategy"
-content-syndication: "Content Syndication"
-contingency-contracting-corps: "Contingency Contracting Corps"
-cope: "Cope"
-cops-office: "Cops Office"
-core: "Core"
-corporation-for-national-and-community-service: "Corporation For National And Community Service"
-court-services-and-offender-supervision-agency: "Court Services And Offender Supervision Agency"
-cpsc: "Cpsc"
-crowdfunding: "Crowdfunding"
-crowdsourcing: "Crowdsourcing"
-csosa: "Csosa"
-customer-experience: "Customer Experience"
-customer-experience-community-of-practice: "Customer Experience Community Of Practice"
-customer-satisfaction: "Customer Satisfaction"
-customer-service: "Customer Service"
-cx: "CX"
-cybersecurity-national-action-plan: "Cybersecurity National Action Plan"
-dap: "DAP"
-darpa: "DARPA"
-data: "Data"
-data-act: "Data Act"
-data-visualization: "Data Visualization"
-data-gov: "data.gov"
-defense-advanced-research-projects-agency: "Defense Advanced Research Projects Agency"
-defense-commissary-agency: "Defense Commissary Agency"
-defense-finance-and-accounting-services: "Defense Finance And Accounting Services"
-defense-intelligence-agency: "Defense Intelligence Agency"
-defense-logistics-agency: "Defense Logistics Agency"
-department-of-commerce: "Department Of Commerce"
-developer-hub: "Developer Hub"
-dfas: "DFAS"
-dgu: "DGU"
-dhs: "DHS"
-dia: "DIA"
-digital-accountability-and-transparency-act: "Digital Accountability And Transparency Act"
-digital-acquisition-playbook: "Digital Acquisition Playbook"
-digital-acquisitions-accelerator: "Digital Acquisitions Accelerator"
-digital-analytics-program: "Digital Analytics Program"
-digital-audio/video-community: "Digital Audio/Video Community"
-digital-records: "Digital Records"
-digital-services-playbook: "Digital Services Playbook"
-digitalgov-search: "Digitalgov Search"
-digitalgov-summit: "Digitalgov Summit"
-digitalgov-university: "Digitalgov University"
-digitalgov-user-experience-program: "Digitalgov User Experience Program"
-disease: "Disease"
-dod: "DOD"
-doe: "DOE"
-doi: "DOI"
-doj: "DOJ"
-dol: "DOL"
-dos: "DOS"
-dot: "DOT"
-draft-web-design-standards: "Draft Web Design Standards"
-drupal: "Drupal"
-ecpic: "ECPIC"
-education: "Education"
-eia: "EIA"
-email-marketing: "Email Marketing"
-epa: "EPA"
-event: "Event"
-ex-im-bank: "Ex Im Bank"
-executive-office-of-the-president: "Executive Office Of The President"
-export-import-bank-of-the-united-states: "Export Import Bank Of The United States"
-faa: "FAA"
-facebook: "Facebook"
-fact-sheet: "Fact Sheet"
-fafsa: "Fafsa"
-fai: "FAI"
-far: "FAR"
-fas: "FAS"
-fbi: "FBI"
-fcc: "FCC"
-fcn: "FCN"
-fcpccs: "FCPCCS"
-fda: "FDA"
-fec: "FEC"
-federal-acquisition-institute: "Federal Acquisition Institute"
-federal-acquisition-regulation: "Federal Acquisition Regulation"
-federal-acquisition-service: "Federal Acquisition Service"
-federal-aviation-administration: "Federal Aviation Administration"
-federal-bureau-of-investigation: "Federal Bureau Of Investigation"
-federal-communications-commission: "Federal Communications Commission"
-federal-crowdsource-mobile-testing-program: "Federal Crowdsource Mobile Testing Program"
-federal-election-commission: "Federal Election Commission"
-federal-emergency-management-agency: "Federal Emergency Management Agency"
-federal-health-it-strategic-plan: "Federal Health IT Strategic Plan"
-federal-information-technology-acquisition-reform-act: "Federal Information Technology Acquisition Reform Act"
-federal-mobile-products-registry: "Federal Mobile Products Registry"
-federal-railroad-administration: "Federal Railroad Administration"
-federal-register: "Federal Register"
-federal-reserve-board: "Federal Reserve Board"
-federal-risk-and-authorization-management-program: "Federal Risk And Authorization Management Program"
-federal-student-aid: "Federal Student Aid"
-federal-trade-commission: "Federal Trade Commission"
-federal-user-experience-community: "Federal User Experience Community"
-fedramp: "FedRAMP"
-fema: "FEMA"
-first-click-testing: "First Click Testing"
-first-responder-network-authority: "First Responder Network Authority"
-first-responders-network: "First Responders Network"
-firstnet: "Firstnet"
-fitara: "FITARA"
-foia: "FOIA"
-foo: "Foo"
-frb: "FRB"
-freedom-of-information-act: "Freedom Of Information Act"
-fs: "FS"
-fsa: "FSA"
-ftc: "FTC"
-fws: "FWS"
-gamification: "Gamification"
-gao: "GAO"
-github: "Github"
-gobiernousagov: "Gobiernousagov"
-google-analytics: "Google Analytics"
-go-usa-gov: "go.usa.gov"
-government-contact-center-council: "Government Contact Center Council"
-government-contact-centers: "Government Contact Centers"
-government-publishing-office: "Government Publishing Office"
-gpo: "GPO"
-gps: "GPS"
-green-it: "Green IT"
-gsa: "GSA"
-hackathon: "Hackathon"
-hhs: "HHS"
-hrsa: "HRSA"
-https: "Https"
-hud: "HUD"
-human-resources: "Human Resources"
-humanitarian-information-unit: "Humanitarian Information Unit"
-ice: "ICE"
-ies: "IES"
-ihs: "IHS"
-imls: "IMLS"
-indian-health-service: "Indian Health Service"
-infographic: "Infographic"
-infrastructure: "Infrastructure"
-innovation: "Innovation"
-instagram: "Instagram"
-institute-for-education-sciences: "Institute For Education Sciences"
-institute-of-museum-and-library-services: "Institute Of Museum And Library Services"
-internal-revenue-service: "Internal Revenue Service"
-international-trade-administration: "International Trade Administration"
-internet-of-things: "Internet Of Things"
-inventory-data-gov: "inventory.data.gov"
-ios: "IOS"
-iot: "IOT"
-irs: "IRS"
-it-modernization-fund: "It Modernization Fund"
-it-schedule-70: "IT Schedule 70"
-ita: "ITA"
-itif: "ITIF"
-itmf: "ITMF"
-json: "JSON"
-kanban: "Kanban"
-kids-gov: "kids.gov"
-knowledge-management: "Knowledge Management"
-law-library-of-congress: "Law Library Of Congress"
-lean: "Lean"
-lep: "LEP"
-library-of-congress: "Library Of Congress"
-linkedin: "Linkedin"
-loc: "LOC"
-m3-framework: "M3 Framework"
-making-mobile-gov: "Making Mobile Gov"
-marketing: "Marketing"
-mcc: "MCC"
-memo: "Memo"
-metadata: "Metadata"
-methodology: "Methodology"
-metrics: "Metrics"
-mobile: "Mobile"
-mobile-app-development-program: "Mobile App Development Program"
-mobile-apps: "Mobile Apps"
-mobile-code-catalog: "Mobile Code Catalog"
-mobile-first: "Mobile First"
-mobile-friendly: "Mobile Friendly"
-mobile-gov: "Mobile Gov"
-mobile-gov-community-of-practice: "Mobile Gov Community Of Practice"
-mobile-gov-experience: "Mobile Gov Experience"
-mobile-testing: "Mobile Testing"
-mobile-user-experience-guidelines: "Mobile User Experience Guidelines"
-mobile-ux-guideline-1: "Mobile UX Guideline 1"
-mobile-ux-guideline-2: "Mobile UX Guideline 2"
-mobile-ux-guideline-3: "Mobile UX Guideline 3"
-mobile-ux-guideline-4: "Mobile UX Guideline 4"
-mobile-ux-guideline-5: "Mobile UX Guideline 5"
-mobile-ux-guideline-6: "Mobile UX Guideline 6"
-mobilegov: "Mobilegov"
-modernization-and-migration-management-framework: "Modernization And Migration Management Framework"
-multilingual: "Multilingual"
-multilingual-digital-group: "Multilingual Digital Group"
-multimedia: "Multimedia"
-nara: "NARA"
-nasa: "NASA"
-nasm: "NASM"
-national-action-plan-on-open-government: "National Action Plan On Open Government"
-national-aeronautics-and-space-administration: "National Aeronautics And Space Administration"
-national-air-and-space-museum: "National Air And Space Museum"
-national-archives-and-records-administration: "National Archives And Records Administration"
-national-cancer-institute: "National Cancer Institute"
-national-center-for-complementary-and-integrative-health: "National Center For Complementary And Integrative Health"
-national-center-for-telehealth-and-technology: "National Center For Telehealth And Technology"
-national-cyber-security-awareness-month: "National Cyber Security Awareness Month"
-national-day-of-civic-hacking: "National Day Of Civic Hacking"
-national-defense-university: "National Defense University"
-national-eye-institute: "National Eye Institute"
-national-gallery-of-art: "National Gallery Of Art"
-national-guard: "National Guard"
-national-highway-traffic-safety-administration: "National Highway Traffic Safety Administration"
-national-hurricane-center: "National Hurricane Center"
-national-institute-of-allergy-and-infectious-diseases: "National Institute Of Allergy And Infectious Diseases"
-national-institute-of-heart-lung-and-blood-diseases: "National Institute Of Heart Lung And Blood Diseases"
-national-institute-of-justice: "National Institute Of Justice"
-national-institute-of-standards: "National Institute Of Standards"
-national-institute-of-standards-and-technology: "National Institute Of Standards And Technology"
-national-institute-on-drug-abuse: "National Institute On Drug Abuse"
-national-institutes-of-health: "National Institutes Of Health"
-national-library-of-medicine: "National Library Of Medicine"
-national-museum-of-african-american-history-and-culture: "National Museum Of African American History And Culture"
-national-museum-of-american-history: "National Museum Of American History"
-national-ocean-service: "National Ocean Service"
-national-oceanic-and-atmospheric-administration: "National Oceanic And Atmospheric Administration"
-national-renewable-energy-laboratory: "National Renewable Energy Laboratory"
-national-resources-conservation-service: "National Resources Conservation Service"
-national-science-foundation: "National Science Foundation"
-national-technical-information-service: "National Technical Information Service"
-national-telecommunications-and-information-administration: "National Telecommunications And Information Administration"
-national-weather-service: "National Weather Service"
-national-zoological-park: "National Zoological Park"
-native-app: "Native App"
-native-apps: "Native Apps"
-natural-language-generation: "Natural Language Generation"
-navy-army-community-credit-union: "Navy Army Community Credit Union"
-nccih: "NCCIH"
-nci: "NCI"
-ncsam: "NCSAM"
-ndu: "NDU"
-nhlbi: "NHLBI"
-nhtsa: "NHTSA"
-niaid: "NIAID"
-nida: "NIDA"
-nih: "NIH"
-nij: "NIJ"
-nist: "NIST"
-nlm: "NLM"
-nmaahc: "NMAACH"
-nmah: "NMAH"
-nmai: "NMAI"
-noaa: "NOAA"
-norad: "NORAD"
-north-american-defense-command: "North American Defense Command"
-nos: "NOS"
-nps: "NPS"
-nrc: "NRC"
-nrel: "NREL"
-nsf: "NSF"
-ntia: "NTIA"
-ntis: "NTIS"
-nuclear-regulatory-commission: "Nuclear Regulatory Commission"
-nws: "NWS"
-occupational-safety-and-health-administration: "Occupational Safety And Health Administration"
-ocsit: "OCSIT"
-odni: "ODNI"
-office-of-child-support-enforcement: "Office Of Child Support Enforcement"
-office-of-citizen-services-and-innovative-technology: "Office Of Citizen Services And Innovative Technology"
-office-of-community-oriented-policing-services: "Office Of Community Oriented Policing Services"
-office-of-government-information-services: "Office Of Government Information Services"
-office-of-governmentwide-policy: "Office Of Governmentwide Policy"
-office-of-information-policy: "Office Of Information Policy"
-office-of-inspector-general: "Office Of Inspector General"
-office-of-management-and-budget: "Office Of Management And Budget"
-office-of-minority-health: "Office Of Minority Health"
-office-of-natural-resources-revenue: "Office Of Natural Resources Revenue"
-office-of-naval-research: "Office Of Naval Research"
-office-of-products-and-programs: "Office Of Products And Programs"
-office-of-the-director-of-national-intelligence: "Office Of The Director Of National Intelligence"
-office-of-the-national-coordinator-for-health-it: "Office Of The National Coordinator For Health It"
-office-of-the-us-foreign-assistance-resources: "Office Of The U.S. Foreign Assistance Resources"
-ogis: "OGIA"
-ogp: "OGP"
-oig: "OIG"
-oip: "OIP"
-omb: "OMB"
-omh: "OMH"
-onc: "ONC"
-onrr: "ONRR"
-open: "Open"
-open-and-structured-content-models: "Open And Structured Content Models"
-open-data: "Open Data"
-open-government: "Open Government"
-open-opportunities-program: "Open Opportunities Program"
-open-source: "Open Source"
-opm: "OPM"
-opp: "OPP"
-osha: "OSHA"
-ostp: "OSTP"
-pbgc: "PBGC"
-pbs: "PBS"
-peace-corps: "Peace Corps"
-pension-benefit-guaranty-corporation: "Pension Benefit Guaranty Corporation"
-personas: "Personas"
-pif: "PIF"
-pinterest: "Pinterest"
-plain-language: "Plain Language"
-plain-language-community-of-practice: "Plain Language Community Of Practice"
-plain-writing-act-of-2010: "Plain Writing Act Of 2010"
-podcast: "Podcast"
-policy: "Policy"
-pra: "PRA"
-presidential-innovation-fellows: "Presidential Innovation Fellows"
-privacy: "Privacy"
-privacy-impact-assessment: "Privacy Impact Assessment"
-prizes-and-competitions: "Prizes And Competitions"
-project-management: "Project Management"
-prototype: "Prototype"
-public-buildings-service: "Public Buildings Service"
-public-safety: "Public Safety"
-quick-study: "Quick Study"
-recaps: "Recaps"
-records-management: "Records Management"
-regulation: "Regulation"
-research: "Research"
-resource: "Resource"
-responsive-web-design: "Responsive Web Design"
-rfp: "RFP"
-rotc: "ROTC"
-saas: "SaaS"
-samhsa: "SAMHSA"
-sba: "SBA"
-sbir: "SBIR"
-sbst: "SBST"
-sclda: "SCLDA"
-scrum: "Scrum"
-search-engine-optimization: "Search Engine Optimization"
-sec: "SEC"
-section-508: "Section 508"
-security: "Security"
-seo: "SEO"
-sites: "Sites"
-sitesusagov: "Sitesusagov"
-small-business-innovation-research: "Small Business Innovation Research"
-smithsonian-center-for-learning-and-digital-access: "Smithsonian Center For Learning And Digital Access"
-smithsonian-institution: "Smithsonian Institution"
-smithsonian-libraries: "Smithsonian Libraries"
-smithsonian-national-museum-of-the-american-indian: "Smithsonian National Museum Of The American Indian"
-sms: "SMS"
-social-and-behavioral-sciences-team: "Social And Behavioral Sciences Team"
-social-media: "Social Media"
-social-media-metrics: "Social Media Metrics"
-socialgov: "Socialgov"
-socialgov-community: "Socialgov Community"
-sprint: "Sprint"
-ssa: "SSA"
-state: "State"
-structured-content: "Structured Content"
-summit: "Summit"
-technology-industry-day: "Technology Industry Day"
-technology-transformation-service: "Technology Transformation Service"
-terms-of-service: "Terms Of Service"
-the-bureau-of-land-management: "The Bureau Of Land Management"
-the-content-corner: "The Content Corner"
-the-data-briefing: "The Data Briefing"
-the-united-states-social-security-administration: "The United States Social Security Administration"
-thursday-mobile-products: "Thursday Mobile Products"
-top-tasks: "Top Tasks"
-tos: "TOS"
-training: "Training"
-transportation-security-administration: "Transportation Security Administration"
-trends-on-tuesday: "Trends On Tuesday"
-tribal: "Tribal"
-tribal-government: "Tribal Government"
-tsa: "TSA"
-tts: "TTS"
-twitter: "Twitter"
-us-access-board: "U.S. Access Board"
-us-agency-for-international-development: "U.S. Agency For International Development"
-us-bureau-of-economic-analysis: "U.S. Bureau Of Economic Analysis"
-us-bureau-of-engraving-and-printing: "U.S. Bureau Of Engraving And Printing"
-us-bureau-of-labor-statistics: "U.S. Bureau Of Labor Statistics"
-us-citizenship-and-immigration-service: "U.S. Citizenship And Immigration Service"
-us-coast-guard: "U.S. Coast Guard"
-us-customs-and-border-protection: "U.S. Customs And Border Protection"
-us-department-of-agriculture: "U.S. Department Of Agriculture"
-us-department-of-education: "U.S. Department Of Education"
-us-department-of-justice: "U.S. Department Of Justice"
-us-department-of-labor: "U.S. Department Of Labor"
-us-department-of-state: "U.S. Department Of State"
-us-department-of-the-interior: "U.S. Department Of The Interior"
-us-department-of-the-treasury: "U.S. Department Of The Treasury"
-us-department-of-veterans-affairs: "U.S. Department Of Veterans Affairs"
-us-digital-registry: "U.S. Digital Registry"
-us-digital-service: "U.S. Digital Service"
-us-energy-information-administration: "U.S. Energy Information Administration"
-us-environmental-protection-agency: "U.S. Environmental Protection Agency"
-us-food-and-drug-administration: "U.S. Food And Drug Administration"
-us-forest-service: "U.S. Forest Service"
-us-general-services-administration: "U.S. General Services Administration"
-us-global-change-research-program: "U.S. Global Change Research Program"
-us-government-accountability-office: "U.S. Government Accountability Office"
-us-government-printing-office: "U.S. Government Printing Office"
-us-health-resources-and-services-administration: "U.S. Health Resources And Services Administration"
-us-immigration-and-customs-enforcement: "U.S. Immigration And Customs Enforcement"
-us-national-park-service: "U.S. National Park Service"
-us-securities-and-exchange-commission: "U.S. Securities And Exchange Commission"
-us-small-business-administration: "U.S. Small Business Administration"
-us-trade-and-development-agency: "U.S. Trade And Development Agency"
-ugc: "UGC"
-unified-shared-services-management: "Unified Shared Services Management"
-united-states-air-force: "United States Air Force"
-united-states-army: "United States Army"
-united-states-census-bureau: "United States Census Bureau"
-united-states-department-of-defense: "United States Department Of Defense"
-united-states-department-of-energy: "United States Department Of Energy"
-united-states-department-of-health-and-human-services: "United States Department Of Health And Human Services"
-united-states-department-of-homeland-security: "United States Department Of Homeland Security"
-united-states-department-of-housing-and-urban-development: "United States Department Of Housing And Urban Development"
-united-states-department-of-transportation: "United States Department Of Transportation"
-united-states-geological-survey: "United States Geological Survey"
-united-states-navy: "United States Navy"
-united-states-office-of-personnel-management: "United States Office Of Personnel Management"
-united-states-patent-and-trademark-office: "United States Patent And Trademark Office"
-united-states-postal-service: "United States Postal Service"
-us-fish-and-wildlife-service: "U.S. Fish And Wildlife Service"
-us-web-design-standards: "U.S. Web Design Standards"
-usa-gov: "usa.gov"
-usa-gov-federal-mobile-apps-directory: "usa.gov Federal Mobile Apps Directory"
-usability: "Usability"
-usability-case-study: "Usability Case Study"
-usability-starter-kit: "Usability Starter Kit"
-usability-testing: "Usability Testing"
-usagov: "UsaGov"
-usaid: "USAID"
-usajobs: "USAJOBS"
-uscis: "USCIS"
-usda: "USDA"
-usds: "USDS"
-user-centered-design: "User Centered Design"
-user-experience: "User Experience"
-user-experience-community-of-practice: "User Experience Community Of Practice"
-user-generated-content: "User Generated Content"
-user-research: "User Research"
-usfs: "USFS"
-usgs: "USGS"
-usps: "USPS"
-uspto: "USPTO"
-us: "USSM"
-ustda: "USTDA"
-ux: "UX"
-va: "VA"
-va-center-for-innovation: "VA Center For Innovation"
-vaci: "VACI"
-veterans-health-administration: "Veterans Health Administration"
-vha: "VHA"
-video: "Video"
-video-production-pros-community: "Video Production Pros Community"
-virtual-reality: "Virtual Reality"
-virtual/augmented-reality-community: "Virtual/Augmented Reality Community"
-voice: "Voice"
-web-based: "Web Based"
-web-content-managers-forum: "Web Content Managers Forum"
-webinar: "Webinar"
-wednesday-api-briefing: "Wednesday Api Briefing"
-white-house: "White House"
-white-house-office-of-science-and-technology-policy: "White House Office Of Science And Technology Policy"
-wireless: "Wireless"
-work-in-progress: "Work In Progress"
-workflows: "Workflows"
-world-bank: "World Bank"
-yelp: "Yelp"
-youtube: "Youtube"
-zero-ui: "Zero UI"
+18f:
+  display_name: "18F"
+3d-printing:
+  display_name: "3D Printing"
+508:
+  display_name: "508"
+5g:
+  display_name: "5G"
+a-b-testing:
+  display_name: "A/B Testing"
+abmc:
+  display_name: "ABMC"
+accessibility:
+ display_name: "Accessibility"
+acquisition:
+ display_name: "Acquisition"
+administration-on-aging:
+ display_name: "Administration On Aging"
+administrative-office-of-the-united-states-courts:
+ display_name: "Administrative Office Of The United States Courts"
+agile:
+ display_name: "Agile"
+agile-lean-community-of-practice:
+  display_name: "Agile/Lean Community Of Practice"
+ai:
+  display_name: "AI"
+aids-gov:
+  display_name: "AIDS.Gov"
+american-battle-monuments-commission:
+  display_name: "American Battle Monuments Commission"
+american-red-cross:
+  display_name: "American Red Cross"
+americans-with-disabilities-act:
+  display_name: "Americans With Disabilities Act"
+analytics:
+  display_name: "Analytics"
+analytics-usa-gov:
+  display_name: "analytics.usa.gov"
+animal-and-plant-health-inspection-service:
+  display_name: "Animal And Plant Health Inspection Service"
+anle:
+  display_name: "Anle"
+aoi:
+  display_name: "AOI"
+api:
+  display_name: "API"
+api-keys:
+  display_name: "API Keys"
+app:
+  display_name: "App"
+apps:
+  display_name: "Apps"
+apps-challenges:
+  display_name: "Apps Challenges"
+architect-of-the-capitol:
+  display_name: "Architect Of The Capitol"
+architecture:
+  display_name: "Architecture"
+arlington-national-cemetery:
+  display_name: "Arlington National Cemetery"
+artificial-intelligence:
+  display_name: "Artificial Intelligence"
+artificial-intelligence-for-citizen-services-community:
+  display_name: "Artificial Intelligence For Citizen Services Community"
+atf:
+  display_name: "ATF"
+audio:
+  display_name: "Audio"
+audio-video:
+  display_name: "Audio/Video"
+augmented-reality:
+  display_name: "Augmented Reality"
+aws:
+  display_name: "AWS"
+bar:
+  display_name: "Bar"
+bar-qaz:
+  display_name: "Bar/Qaz"
+bbg:
+  display_name: "BBG"
+bea:
+  display_name: "BEA"
+best-practices:
+  display_name: "Best Practices"
+bia:
+  display_name: "BIA"
+big-data:
+  display_name: "Big Data"
+blm:
+  display_name: "BLM"
+blockchain:
+  display_name: "Blockchain"
+blog:
+  display_name: "Blog"
+bls:
+  display_name: "BLS"
+broadband:
+  display_name: "Broadband"
+broadcasting-board-of-governors:
+  display_name: "Broadcasting Board Of Governors"
+browsers:
+  display_name: "Browsers"
+bureau-of-alcohol-tobacco-firearms-and-explosives:
+  display_name: "Bureau Of Alcohol Tobacco Firearms And Explosives"
+bureau-of-indian-affairs:
+  display_name: "Bureau Of Indian Affairs"
+bureau-of-justice-statistics:
+  display_name: "Bureau Of Justice Statistics"
+bureau-of-reclamation:
+  display_name: "Bureau Of Reclamation"
+cbp:
+  display_name: "CPB"
+cdc:
+  display_name: "CDC"
+census:
+  display_name: "Census"
+centers-for-disease-control-and-prevention:
+  display_name: "Centers For Disease Control And Prevention"
+centers-for-medicare-and-medicaid-services:
+  display_name: "Centers For Medicare And Medicaid Services"
+central-intelligence-agency:
+  display_name: "Central Intelligence Agency"
+cfpb:
+  display_name: "CFPB"
+challenge-gov:
+  display_name: "Challenge.gov"
+challenges-and-prize-competitions:
+  display_name: "Challenges And Prize Competitions"
+challenges-and-prizes-community-of-practice:
+  display_name: "Challenges And Prizes Community Of Practice"
+chatbots:
+  display_name: "Chatbots"
+cia:
+  display_name: "CIA"
+cio:
+  display_name: "CIO"
+cio-council:
+  display_name: "CIO Council"
+citizen-science:
+  display_name: "Citizen Science"
+citizen-science-and-crowdsourcing-community-of-practice:
+  display_name: "Citizen Science And Crowdsourcing Community Of Practice"
+cloud:
+  display_name: "Cloud"
+cloud-gov:
+  display_name: "cloud.gov"
+cms:
+  display_name: "CMS"
+cncs:
+  display_name: "CNCS"
+code:
+  display_name: "Code"
+commerce:
+  display_name: "Commerce"
+communication:
+  display_name: "Communication"
+communities:
+  display_name: "Communities"
+connect-gov:
+  display_name: "Connect.gov"
+consumer-action-handbook:
+  display_name: "Consumer Action Handbook"
+consumer-financial-protection-bureau:
+  display_name: "Consumer Financial Protection Bureau"
+consumer-product-safety-commission:
+  display_name: "Consumer Product Safety Commission"
+content:
+  display_name: "Content"
+content-management-system:
+  display_name: "Content Management System"
+content-models:
+  display_name: "Content Models"
+content-strategy:
+  display_name: "Content Strategy"
+content-syndication:
+  display_name: "Content Syndication"
+contingency-contracting-corps:
+  display_name: "Contingency Contracting Corps"
+cope:
+  display_name: "Cope"
+cops-office:
+  display_name: "Cops Office"
+core:
+  display_name: "Core"
+corporation-for-national-and-community-service:
+  display_name: "Corporation For National And Community Service"
+court-services-and-offender-supervision-agency:
+  display_name: "Court Services And Offender Supervision Agency"
+cpsc:
+  display_name: "Cpsc"
+crowdfunding:
+  display_name: "Crowdfunding"
+crowdsourcing:
+  display_name: "Crowdsourcing"
+csosa:
+  display_name: "Csosa"
+customer-experience:
+  display_name: "Customer Experience"
+customer-experience-community-of-practice:
+  display_name: "Customer Experience Community Of Practice"
+customer-satisfaction:
+  display_name: "Customer Satisfaction"
+customer-service:
+  display_name: "Customer Service"
+cx:
+  display_name: "CX"
+cybersecurity-national-action-plan:
+  display_name: "Cybersecurity National Action Plan"
+dap:
+  display_name: "DAP"
+darpa:
+  display_name: "DARPA"
+data:
+  display_name: "Data"
+data-act:
+  display_name: "Data Act"
+data-visualization:
+  display_name: "Data Visualization"
+data-gov:
+  display_name: "data.gov"
+defense-advanced-research-projects-agency:
+  display_name: "Defense Advanced Research Projects Agency"
+defense-commissary-agency:
+  display_name: "Defense Commissary Agency"
+defense-finance-and-accounting-services:
+  display_name: "Defense Finance And Accounting Services"
+defense-intelligence-agency:
+  display_name: "Defense Intelligence Agency"
+defense-logistics-agency:
+  display_name: "Defense Logistics Agency"
+department-of-commerce:
+  display_name: "Department Of Commerce"
+developer-hub:
+  display_name: "Developer Hub"
+dfas:
+  display_name: "DFAS"
+dgu:
+  display_name: "DGU"
+dhs:
+  display_name: "DHS"
+dia:
+  display_name: "DIA"
+digital-accountability-and-transparency-act:
+  display_name: "Digital Accountability And Transparency Act"
+digital-acquisition-playbook:
+  display_name: "Digital Acquisition Playbook"
+digital-acquisitions-accelerator:
+  display_name: "Digital Acquisitions Accelerator"
+digital-analytics-program:
+  display_name: "Digital Analytics Program"
+digital-audio/video-community:
+  display_name: "Digital Audio/Video Community"
+digital-records:
+  display_name: "Digital Records"
+digital-services-playbook:
+  display_name: "Digital Services Playbook"
+digitalgov-search:
+  display_name: "Digitalgov Search"
+digitalgov-summit:
+  display_name: "Digitalgov Summit"
+digitalgov-university:
+  display_name: "Digitalgov University"
+digitalgov-user-experience-program:
+  display_name: "Digitalgov User Experience Program"
+disease:
+  display_name: "Disease"
+dod:
+  display_name: "DOD"
+doe:
+  display_name: "DOE"
+doi:
+  display_name: "DOI"
+doj:
+  display_name: "DOJ"
+dol:
+  display_name: "DOL"
+dos:
+  display_name: "DOS"
+dot:
+  display_name: "DOT"
+draft-web-design-standards:
+  display_name: "Draft Web Design Standards"
+drupal:
+  display_name: "Drupal"
+ecpic:
+  display_name: "ECPIC"
+education:
+  display_name: "Education"
+eia:
+  display_name: "EIA"
+email-marketing:
+  display_name: "Email Marketing"
+epa:
+  display_name: "EPA"
+event:
+  display_name: "Event"
+ex-im-bank:
+  display_name: "Ex Im Bank"
+executive-office-of-the-president:
+  display_name: "Executive Office Of The President"
+export-import-bank-of-the-united-states:
+  display_name: "Export Import Bank Of The United States"
+faa:
+  display_name: "FAA"
+facebook:
+  display_name: "Facebook"
+fact-sheet:
+  display_name: "Fact Sheet"
+fafsa:
+  display_name: "Fafsa"
+fai:
+  display_name: "FAI"
+far:
+  display_name: "FAR"
+fas:
+  display_name: "FAS"
+fbi:
+  display_name: "FBI"
+fcc:
+  display_name: "FCC"
+fcn:
+  display_name: "FCN"
+fcpccs:
+  display_name: "FCPCCS"
+fda:
+  display_name: "FDA"
+fec:
+  display_name: "FEC"
+federal-acquisition-institute:
+  display_name: "Federal Acquisition Institute"
+federal-acquisition-regulation:
+  display_name: "Federal Acquisition Regulation"
+federal-acquisition-service:
+  display_name: "Federal Acquisition Service"
+federal-aviation-administration:
+  display_name: "Federal Aviation Administration"
+federal-bureau-of-investigation:
+  display_name: "Federal Bureau Of Investigation"
+federal-communications-commission:
+  display_name: "Federal Communications Commission"
+federal-crowdsource-mobile-testing-program:
+  display_name: "Federal Crowdsource Mobile Testing Program"
+federal-election-commission:
+  display_name: "Federal Election Commission"
+federal-emergency-management-agency:
+  display_name: "Federal Emergency Management Agency"
+federal-health-it-strategic-plan:
+  display_name: "Federal Health IT Strategic Plan"
+federal-information-technology-acquisition-reform-act:
+  display_name: "Federal Information Technology Acquisition Reform Act"
+federal-mobile-products-registry:
+  display_name: "Federal Mobile Products Registry"
+federal-railroad-administration:
+  display_name: "Federal Railroad Administration"
+federal-register:
+  display_name: "Federal Register"
+federal-reserve-board:
+  display_name: "Federal Reserve Board"
+federal-risk-and-authorization-management-program:
+  display_name: "Federal Risk And Authorization Management Program"
+federal-student-aid:
+  display_name: "Federal Student Aid"
+federal-trade-commission:
+  display_name: "Federal Trade Commission"
+federal-user-experience-community:
+  display_name: "Federal User Experience Community"
+fedramp:
+  display_name: "FedRAMP"
+fema:
+  display_name: "FEMA"
+first-click-testing:
+  display_name: "First Click Testing"
+first-responder-network-authority:
+  display_name: "First Responder Network Authority"
+first-responders-network:
+  display_name: "First Responders Network"
+firstnet:
+  display_name: "Firstnet"
+fitara:
+  display_name: "FITARA"
+foia:
+  display_name: "FOIA"
+foo:
+  display_name: "Foo"
+frb:
+  display_name: "FRB"
+freedom-of-information-act:
+  display_name: "Freedom Of Information Act"
+fs:
+  display_name: "FS"
+fsa:
+  display_name: "FSA"
+ftc:
+  display_name: "FTC"
+fws:
+  display_name: "FWS"
+gamification:
+  display_name: "Gamification"
+gao:
+  display_name: "GAO"
+github:
+  display_name: "Github"
+gobiernousagov:
+  display_name: "Gobiernousagov"
+google-analytics:
+  display_name: "Google Analytics"
+go-usa-gov:
+  display_name: "go.usa.gov"
+government-contact-center-council:
+  display_name: "Government Contact Center Council"
+government-contact-centers:
+  display_name: "Government Contact Centers"
+government-publishing-office:
+  display_name: "Government Publishing Office"
+gpo:
+  display_name: "GPO"
+gps:
+  display_name: "GPS"
+green-it:
+  display_name: "Green IT"
+gsa:
+  display_name: "GSA"
+hackathon:
+  display_name: "Hackathon"
+hhs:
+  display_name: "HHS"
+hrsa:
+  display_name: "HRSA"
+https:
+  display_name: "Https"
+hud:
+  display_name: "HUD"
+human-resources:
+  display_name: "Human Resources"
+humanitarian-information-unit:
+  display_name: "Humanitarian Information Unit"
+ice:
+  display_name: "ICE"
+ies:
+  display_name: "IES"
+ihs:
+  display_name: "IHS"
+imls:
+  display_name: "IMLS"
+indian-health-service:
+  display_name: "Indian Health Service"
+infographic:
+  display_name: "Infographic"
+infrastructure:
+  display_name: "Infrastructure"
+innovation:
+  display_name: "Innovation"
+instagram:
+  display_name: "Instagram"
+institute-for-education-sciences:
+  display_name: "Institute For Education Sciences"
+institute-of-museum-and-library-services:
+  display_name: "Institute Of Museum And Library Services"
+internal-revenue-service:
+  display_name: "Internal Revenue Service"
+international-trade-administration:
+  display_name: "International Trade Administration"
+internet-of-things:
+  display_name: "Internet Of Things"
+inventory-data-gov:
+  display_name: "inventory.data.gov"
+ios:
+  display_name: "IOS"
+iot:
+  display_name: "IOT"
+irs:
+  display_name: "IRS"
+it-modernization-fund:
+  display_name: "It Modernization Fund"
+it-schedule-70:
+  display_name: "IT Schedule 70"
+ita:
+  display_name: "ITA"
+itif:
+  display_name: "ITIF"
+itmf:
+  display_name: "ITMF"
+json:
+  display_name: "JSON"
+kanban:
+  display_name: "Kanban"
+kids-gov:
+  display_name: "kids.gov"
+knowledge-management:
+  display_name: "Knowledge Management"
+law-library-of-congress:
+  display_name: "Law Library Of Congress"
+lean:
+  display_name: "Lean"
+lep:
+  display_name: "LEP"
+library-of-congress:
+  display_name: "Library Of Congress"
+linkedin:
+  display_name: "Linkedin"
+loc:
+  display_name: "LOC"
+m3-framework:
+  display_name: "M3 Framework"
+making-mobile-gov:
+  display_name: "Making Mobile Gov"
+marketing:
+  display_name: "Marketing"
+mcc:
+  display_name: "MCC"
+memo:
+  display_name: "Memo"
+metadata:
+  display_name: "Metadata"
+methodology:
+  display_name: "Methodology"
+metrics:
+  display_name: "Metrics"
+mobile:
+  display_name: "Mobile"
+mobile-app-development-program:
+  display_name: "Mobile App Development Program"
+mobile-apps:
+  display_name: "Mobile Apps"
+mobile-code-catalog:
+  display_name: "Mobile Code Catalog"
+mobile-first:
+  display_name: "Mobile First"
+mobile-friendly:
+  display_name: "Mobile Friendly"
+mobile-gov:
+  display_name: "Mobile Gov"
+mobile-gov-community-of-practice:
+  display_name: "Mobile Gov Community Of Practice"
+mobile-gov-experience:
+  display_name: "Mobile Gov Experience"
+mobile-testing:
+  display_name: "Mobile Testing"
+mobile-user-experience-guidelines:
+  display_name: "Mobile User Experience Guidelines"
+mobile-ux-guideline-1:
+  display_name: "Mobile UX Guideline 1"
+mobile-ux-guideline-2:
+  display_name: "Mobile UX Guideline 2"
+mobile-ux-guideline-3:
+  display_name: "Mobile UX Guideline 3"
+mobile-ux-guideline-4:
+  display_name: "Mobile UX Guideline 4"
+mobile-ux-guideline-5:
+  display_name: "Mobile UX Guideline 5"
+mobile-ux-guideline-6:
+  display_name: "Mobile UX Guideline 6"
+mobilegov:
+  display_name: "Mobilegov"
+modernization-and-migration-management-framework:
+  display_name: "Modernization And Migration Management Framework"
+multilingual:
+  display_name: "Multilingual"
+multilingual-digital-group:
+  display_name: "Multilingual Digital Group"
+multimedia:
+  display_name: "Multimedia"
+nara:
+  display_name: "NARA"
+nasa:
+  display_name: "NASA"
+nasm:
+  display_name: "NASM"
+national-action-plan-on-open-government:
+  display_name: "National Action Plan On Open Government"
+national-aeronautics-and-space-administration:
+  display_name: "National Aeronautics And Space Administration"
+national-air-and-space-museum:
+  display_name: "National Air And Space Museum"
+national-archives-and-records-administration:
+  display_name: "National Archives And Records Administration"
+national-cancer-institute:
+  display_name: "National Cancer Institute"
+national-center-for-complementary-and-integrative-health:
+  display_name: "National Center For Complementary And Integrative Health"
+national-center-for-telehealth-and-technology:
+  display_name: "National Center For Telehealth And Technology"
+national-cyber-security-awareness-month:
+  display_name: "National Cyber Security Awareness Month"
+national-day-of-civic-hacking:
+  display_name: "National Day Of Civic Hacking"
+national-defense-university:
+  display_name: "National Defense University"
+national-eye-institute:
+  display_name: "National Eye Institute"
+national-gallery-of-art:
+  display_name: "National Gallery Of Art"
+national-guard:
+  display_name: "National Guard"
+national-highway-traffic-safety-administration:
+  display_name: "National Highway Traffic Safety Administration"
+national-hurricane-center:
+  display_name: "National Hurricane Center"
+national-institute-of-allergy-and-infectious-diseases:
+  display_name: "National Institute Of Allergy And Infectious Diseases"
+national-institute-of-heart-lung-and-blood-diseases:
+  display_name: "National Institute Of Heart Lung And Blood Diseases"
+national-institute-of-justice:
+  display_name: "National Institute Of Justice"
+national-institute-of-standards:
+  display_name: "National Institute Of Standards"
+national-institute-of-standards-and-technology:
+  display_name: "National Institute Of Standards And Technology"
+national-institute-on-drug-abuse:
+  display_name: "National Institute On Drug Abuse"
+national-institutes-of-health:
+  display_name: "National Institutes Of Health"
+national-library-of-medicine:
+  display_name: "National Library Of Medicine"
+national-museum-of-african-american-history-and-culture:
+  display_name: "National Museum Of African American History And Culture"
+national-museum-of-american-history:
+  display_name: "National Museum Of American History"
+national-ocean-service:
+  display_name: "National Ocean Service"
+national-oceanic-and-atmospheric-administration:
+  display_name: "National Oceanic And Atmospheric Administration"
+national-renewable-energy-laboratory:
+  display_name: "National Renewable Energy Laboratory"
+national-resources-conservation-service:
+  display_name: "National Resources Conservation Service"
+national-science-foundation:
+  display_name: "National Science Foundation"
+national-technical-information-service:
+  display_name: "National Technical Information Service"
+national-telecommunications-and-information-administration:
+  display_name: "National Telecommunications And Information Administration"
+national-weather-service:
+  display_name: "National Weather Service"
+national-zoological-park:
+  display_name: "National Zoological Park"
+native-app:
+  display_name: "Native App"
+native-apps:
+  display_name: "Native Apps"
+natural-language-generation:
+  display_name: "Natural Language Generation"
+navy-army-community-credit-union:
+  display_name: "Navy Army Community Credit Union"
+nccih:
+  display_name: "NCCIH"
+nci:
+  display_name: "NCI"
+ncsam:
+  display_name: "NCSAM"
+ndu:
+  display_name: "NDU"
+nhlbi:
+  display_name: "NHLBI"
+nhtsa:
+  display_name: "NHTSA"
+niaid:
+  display_name: "NIAID"
+nida:
+  display_name: "NIDA"
+nih:
+  display_name: "NIH"
+nij:
+  display_name: "NIJ"
+nist:
+  display_name: "NIST"
+nlm:
+  display_name: "NLM"
+nmaahc:
+  display_name: "NMAACH"
+nmah:
+  display_name: "NMAH"
+nmai:
+  display_name: "NMAI"
+noaa:
+  display_name: "NOAA"
+norad:
+  display_name: "NORAD"
+north-american-defense-command:
+  display_name: "North American Defense Command"
+nos:
+  display_name: "NOS"
+nps:
+  display_name: "NPS"
+nrc:
+  display_name: "NRC"
+nrel:
+  display_name: "NREL"
+nsf:
+  display_name: "NSF"
+ntia:
+  display_name: "NTIA"
+ntis:
+  display_name: "NTIS"
+nuclear-regulatory-commission:
+  display_name: "Nuclear Regulatory Commission"
+nws:
+  display_name: "NWS"
+occupational-safety-and-health-administration:
+  display_name: "Occupational Safety And Health Administration"
+ocsit:
+  display_name: "OCSIT"
+odni:
+  display_name: "ODNI"
+office-of-child-support-enforcement:
+  display_name: "Office Of Child Support Enforcement"
+office-of-citizen-services-and-innovative-technology:
+  display_name: "Office Of Citizen Services And Innovative Technology"
+office-of-community-oriented-policing-services:
+  display_name: "Office Of Community Oriented Policing Services"
+office-of-government-information-services:
+  display_name: "Office Of Government Information Services"
+office-of-governmentwide-policy:
+  display_name: "Office Of Governmentwide Policy"
+office-of-information-policy:
+  display_name: "Office Of Information Policy"
+office-of-inspector-general:
+  display_name: "Office Of Inspector General"
+office-of-management-and-budget:
+  display_name: "Office Of Management And Budget"
+office-of-minority-health:
+  display_name: "Office Of Minority Health"
+office-of-natural-resources-revenue:
+  display_name: "Office Of Natural Resources Revenue"
+office-of-naval-research:
+  display_name: "Office Of Naval Research"
+office-of-products-and-programs:
+  display_name: "Office Of Products And Programs"
+office-of-the-director-of-national-intelligence:
+  display_name: "Office Of The Director Of National Intelligence"
+office-of-the-national-coordinator-for-health-it:
+  display_name: "Office Of The National Coordinator For Health It"
+office-of-the-us-foreign-assistance-resources:
+  display_name: "Office Of The U.S. Foreign Assistance Resources"
+ogis:
+  display_name: "OGIA"
+ogp:
+  display_name: "OGP"
+oig:
+  display_name: "OIG"
+oip:
+  display_name: "OIP"
+omb:
+  display_name: "OMB"
+omh:
+  display_name: "OMH"
+onc:
+  display_name: "ONC"
+onrr:
+  display_name: "ONRR"
+open:
+  display_name: "Open"
+open-and-structured-content-models:
+  display_name: "Open And Structured Content Models"
+open-data:
+  display_name: "Open Data"
+open-government:
+  display_name: "Open Government"
+open-opportunities-program:
+  display_name: "Open Opportunities Program"
+open-source:
+  display_name: "Open Source"
+opm:
+  display_name: "OPM"
+opp:
+  display_name: "OPP"
+osha:
+  display_name: "OSHA"
+ostp:
+  display_name: "OSTP"
+pbgc:
+  display_name: "PBGC"
+pbs:
+  display_name: "PBS"
+peace-corps:
+  display_name: "Peace Corps"
+pension-benefit-guaranty-corporation:
+  display_name: "Pension Benefit Guaranty Corporation"
+personas:
+  display_name: "Personas"
+pif:
+  display_name: "PIF"
+pinterest:
+  display_name: "Pinterest"
+plain-language:
+  display_name: "Plain Language"
+plain-language-community-of-practice:
+  display_name: "Plain Language Community Of Practice"
+plain-writing-act-of-2010:
+  display_name: "Plain Writing Act Of 2010"
+podcast:
+  display_name: "Podcast"
+policy:
+  display_name: "Policy"
+pra:
+  display_name: "PRA"
+presidential-innovation-fellows:
+  display_name: "Presidential Innovation Fellows"
+privacy:
+  display_name: "Privacy"
+privacy-impact-assessment:
+  display_name: "Privacy Impact Assessment"
+prizes-and-competitions:
+  display_name: "Prizes And Competitions"
+project-management:
+  display_name: "Project Management"
+prototype:
+  display_name: "Prototype"
+public-buildings-service:
+  display_name: "Public Buildings Service"
+public-safety:
+  display_name: "Public Safety"
+quick-study:
+  display_name: "Quick Study"
+recaps:
+  display_name: "Recaps"
+records-management:
+  display_name: "Records Management"
+regulation:
+  display_name: "Regulation"
+research:
+  display_name: "Research"
+resource:
+  display_name: "Resource"
+responsive-web-design:
+  display_name: "Responsive Web Design"
+rfp:
+  display_name: "RFP"
+rotc:
+  display_name: "ROTC"
+saas:
+  display_name: "SaaS"
+samhsa:
+  display_name: "SAMHSA"
+sba:
+  display_name: "SBA"
+sbir:
+  display_name: "SBIR"
+sbst:
+  display_name: "SBST"
+sclda:
+  display_name: "SCLDA"
+scrum:
+  display_name: "Scrum"
+search-engine-optimization:
+  display_name: "Search Engine Optimization"
+sec:
+  display_name: "SEC"
+section-508:
+  display_name: "Section 508"
+security:
+  display_name: "Security"
+seo:
+  display_name: "SEO"
+sites:
+  display_name: "Sites"
+sitesusagov:
+  display_name: "Sitesusagov"
+small-business-innovation-research:
+  display_name: "Small Business Innovation Research"
+smithsonian-center-for-learning-and-digital-access:
+  display_name: "Smithsonian Center For Learning And Digital Access"
+smithsonian-institution:
+  display_name: "Smithsonian Institution"
+smithsonian-libraries:
+  display_name: "Smithsonian Libraries"
+smithsonian-national-museum-of-the-american-indian:
+  display_name: "Smithsonian National Museum Of The American Indian"
+sms:
+  display_name: "SMS"
+social-and-behavioral-sciences-team:
+  display_name: "Social And Behavioral Sciences Team"
+social-media:
+  display_name: "Social Media"
+social-media-metrics:
+  display_name: "Social Media Metrics"
+socialgov:
+  display_name: "Socialgov"
+socialgov-community:
+  display_name: "Socialgov Community"
+sprint:
+  display_name: "Sprint"
+ssa:
+  display_name: "SSA"
+state:
+  display_name: "State"
+structured-content:
+  display_name: "Structured Content"
+summit:
+  display_name: "Summit"
+technology-industry-day:
+  display_name: "Technology Industry Day"
+technology-transformation-service:
+  display_name: "Technology Transformation Service"
+terms-of-service:
+  display_name: "Terms Of Service"
+the-bureau-of-land-management:
+  display_name: "The Bureau Of Land Management"
+the-content-corner:
+  display_name: "The Content Corner"
+the-data-briefing:
+  display_name: "The Data Briefing"
+the-united-states-social-security-administration:
+  display_name: "The United States Social Security Administration"
+thursday-mobile-products:
+  display_name: "Thursday Mobile Products"
+top-tasks:
+  display_name: "Top Tasks"
+tos:
+  display_name: "TOS"
+training:
+  display_name: "Training"
+transportation-security-administration:
+  display_name: "Transportation Security Administration"
+trends-on-tuesday:
+  display_name: "Trends On Tuesday"
+tribal:
+  display_name: "Tribal"
+tribal-government:
+  display_name: "Tribal Government"
+tsa:
+  display_name: "TSA"
+tts:
+  display_name: "TTS"
+twitter:
+  display_name: "Twitter"
+us-access-board:
+  display_name: "U.S. Access Board"
+us-agency-for-international-development:
+  display_name: "U.S. Agency For International Development"
+us-bureau-of-economic-analysis:
+  display_name: "U.S. Bureau Of Economic Analysis"
+us-bureau-of-engraving-and-printing:
+  display_name: "U.S. Bureau Of Engraving And Printing"
+us-bureau-of-labor-statistics:
+  display_name: "U.S. Bureau Of Labor Statistics"
+us-citizenship-and-immigration-service:
+  display_name: "U.S. Citizenship And Immigration Service"
+us-coast-guard:
+  display_name: "U.S. Coast Guard"
+us-customs-and-border-protection:
+  display_name: "U.S. Customs And Border Protection"
+us-department-of-agriculture:
+  display_name: "U.S. Department Of Agriculture"
+us-department-of-education:
+  display_name: "U.S. Department Of Education"
+us-department-of-justice:
+  display_name: "U.S. Department Of Justice"
+us-department-of-labor:
+  display_name: "U.S. Department Of Labor"
+us-department-of-state:
+  display_name: "U.S. Department Of State"
+us-department-of-the-interior:
+  display_name: "U.S. Department Of The Interior"
+us-department-of-the-treasury:
+  display_name: "U.S. Department Of The Treasury"
+us-department-of-veterans-affairs:
+  display_name: "U.S. Department Of Veterans Affairs"
+us-digital-registry:
+  display_name: "U.S. Digital Registry"
+us-digital-service:
+  display_name: "U.S. Digital Service"
+us-energy-information-administration:
+  display_name: "U.S. Energy Information Administration"
+us-environmental-protection-agency:
+  display_name: "U.S. Environmental Protection Agency"
+us-food-and-drug-administration:
+  display_name: "U.S. Food And Drug Administration"
+us-forest-service:
+  display_name: "U.S. Forest Service"
+us-general-services-administration:
+  display_name: "U.S. General Services Administration"
+us-global-change-research-program:
+  display_name: "U.S. Global Change Research Program"
+us-government-accountability-office:
+  display_name: "U.S. Government Accountability Office"
+us-government-printing-office:
+  display_name: "U.S. Government Printing Office"
+us-health-resources-and-services-administration:
+  display_name: "U.S. Health Resources And Services Administration"
+us-immigration-and-customs-enforcement:
+  display_name: "U.S. Immigration And Customs Enforcement"
+us-national-park-service:
+  display_name: "U.S. National Park Service"
+us-securities-and-exchange-commission:
+  display_name: "U.S. Securities And Exchange Commission"
+us-small-business-administration:
+  display_name: "U.S. Small Business Administration"
+us-trade-and-development-agency:
+  display_name: "U.S. Trade And Development Agency"
+ugc:
+  display_name: "UGC"
+unified-shared-services-management:
+  display_name: "Unified Shared Services Management"
+united-states-air-force:
+  display_name: "United States Air Force"
+united-states-army:
+  display_name: "United States Army"
+united-states-census-bureau:
+  display_name: "United States Census Bureau"
+united-states-department-of-defense:
+  display_name: "United States Department Of Defense"
+united-states-department-of-energy:
+  display_name: "United States Department Of Energy"
+united-states-department-of-health-and-human-services:
+  display_name: "United States Department Of Health And Human Services"
+united-states-department-of-homeland-security:
+  display_name: "United States Department Of Homeland Security"
+united-states-department-of-housing-and-urban-development:
+  display_name: "United States Department Of Housing And Urban Development"
+united-states-department-of-transportation:
+  display_name: "United States Department Of Transportation"
+united-states-geological-survey:
+  display_name: "United States Geological Survey"
+united-states-navy:
+  display_name: "United States Navy"
+united-states-office-of-personnel-management:
+  display_name: "United States Office Of Personnel Management"
+united-states-patent-and-trademark-office:
+  display_name: "United States Patent And Trademark Office"
+united-states-postal-service:
+  display_name: "United States Postal Service"
+us-fish-and-wildlife-service:
+  display_name: "U.S. Fish And Wildlife Service"
+us-web-design-standards:
+  display_name: "U.S. Web Design Standards"
+usa-gov:
+  display_name: "usa.gov"
+usa-gov-federal-mobile-apps-directory:
+  display_name: "usa.gov Federal Mobile Apps Directory"
+usability:
+  display_name: "Usability"
+usability-case-study:
+  display_name: "Usability Case Study"
+usability-starter-kit:
+  display_name: "Usability Starter Kit"
+usability-testing:
+  display_name: "Usability Testing"
+usagov:
+  display_name: "UsaGov"
+usaid:
+  display_name: "USAID"
+usajobs:
+  display_name: "USAJOBS"
+uscis:
+  display_name: "USCIS"
+usda:
+  display_name: "USDA"
+usds:
+  display_name: "USDS"
+user-centered-design:
+  display_name: "User Centered Design"
+user-experience:
+  display_name: "User Experience"
+user-experience-community-of-practice:
+  display_name: "User Experience Community Of Practice"
+user-generated-content:
+  display_name: "User Generated Content"
+user-research:
+  display_name: "User Research"
+usfs:
+  display_name: "USFS"
+usgs:
+  display_name: "USGS"
+usps:
+  display_name: "USPS"
+uspto:
+  display_name: "USPTO"
+us:
+  display_name: "USSM"
+ustda:
+  display_name: "USTDA"
+ux:
+  display_name: "UX"
+va:
+  display_name: "VA"
+va-center-for-innovation:
+  display_name: "VA Center For Innovation"
+vaci:
+  display_name: "VACI"
+veterans-health-administration:
+  display_name: "Veterans Health Administration"
+vha:
+  display_name: "VHA"
+video:
+  display_name: "Video"
+video-production-pros-community:
+  display_name: "Video Production Pros Community"
+virtual-reality:
+  display_name: "Virtual Reality"
+virtual/augmented-reality-community:
+  display_name: "Virtual/Augmented Reality Community"
+voice:
+  display_name: "Voice"
+web-based:
+  display_name: "Web Based"
+web-content-managers-forum:
+  display_name: "Web Content Managers Forum"
+webinar:
+  display_name: "Webinar"
+wednesday-api-briefing:
+  display_name: "Wednesday Api Briefing"
+white-house:
+  display_name: "White House"
+white-house-office-of-science-and-technology-policy:
+  display_name: "White House Office Of Science And Technology Policy"
+wireless:
+  display_name: "Wireless"
+work-in-progress:
+  display_name: "Work In Progress"
+workflows:
+  display_name: "Workflows"
+world-bank:
+  display_name: "World Bank"
+yelp:
+  display_name: "Yelp"
+youtube:
+  display_name: "Youtube"
+zero-ui:
+  display_name: "Zero UI"

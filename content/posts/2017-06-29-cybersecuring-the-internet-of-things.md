@@ -8,7 +8,7 @@ authors:
 categories:
   - Data
   - Mobile
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
 tag:
   - best practices
   - infrastructure
