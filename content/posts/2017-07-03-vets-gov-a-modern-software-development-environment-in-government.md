@@ -8,7 +8,7 @@ authors:
 categories:
   - Code
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - cloud

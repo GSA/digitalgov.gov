@@ -6,7 +6,7 @@ authors:
   - samantha-hinz
 categories:
   - Content
-  - 'Strategy &amp; Policy'
+  - 'Strategy and Policy'
   - Writing
 tag:
   - content
