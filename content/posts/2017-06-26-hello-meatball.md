@@ -4,7 +4,7 @@ slug: oh-hai-its-me
 title: 'Today: This is one large, &#8220;world&#8221; & we won&#8217;t say it&#8217;s &#8216;flat&#8217;!'
 summary: 'Lorem ipsum dolor sit amet, Email to Jeremy elit. Sed congue aliquet tincidunt. Lorem ipsum dolor sit amet, Email to Jeremy'
 authors:
-  - admin
+  - jeremyzilar
 featured-image: cat-mica.jpg
 categories:
   - Uncategorized

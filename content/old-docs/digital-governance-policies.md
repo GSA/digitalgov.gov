@@ -5,7 +5,7 @@ date: 2017-05-31 6:27:04 -0400
 title: Digital Governance Policy Outline
 summary: 'Version 1.1 &mdash; Last updated: May 31, 2017 by Jeremy Zilar This document is a collaboration between federal agencies around what should types of information should be in our digital governance policies. It was originally published on DigitalGov.gov back in 2014 and has since been revived as a starting point for this collaboration. Members of'
 authors:
-  - jzilar
+  - jeremyzilar
 ---
 
 **Version 1.1** — _Last updated: May 31, 2017 by Jeremy Zilar_
