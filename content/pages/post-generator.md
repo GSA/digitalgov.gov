@@ -7,6 +7,7 @@ summary: this is a summary
 authors:
   - jeremyzilar
 ---
+
 <link rel='stylesheet' href='/css/front-matter.css' type='text/css' media='all' />
 <script src='/js/front-matter.js' type='text/javascript' charset='utf-8'></script>
 
@@ -19,4 +20,4 @@ authors:
   <label><input class="m_tag fm" type="text" name="m_tag" value="" placeholder="Tags"></label>
 </form>
 
-<textarea id="post-matter" name="post-matter"></textarea>
+<pre id="post-matter">---</pre>

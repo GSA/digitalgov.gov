@@ -1,4 +1,4 @@
-jQuery(document).ready(function() {
+jQuery(document).ready(function($) {
   function curr_date(){
     var d = new Date();
     var month = d.getMonth()+1;
