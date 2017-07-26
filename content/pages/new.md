@@ -1,5 +1,5 @@
 ---
-url: /post-generator
+url: /new
 type: docs
 layout: 1col
 date: 2017-07-08 3:46:23 -0400
