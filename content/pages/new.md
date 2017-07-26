@@ -9,9 +9,6 @@ authors:
   - jeremyzilar
 ---
 
-<link rel='stylesheet' href='/css/front-matter.css' type='text/css' media='all' />
-<script src='/js/front-matter.js' type='text/javascript' charset='utf-8'></script>
-
 <div class="matter-container">
   <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
     <label><input class="m_date fm" type="text" name="m_date" value="" placeholder="Date"></label>
