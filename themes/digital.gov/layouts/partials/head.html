@@ -109,8 +109,9 @@
   <!-- / Google Analytics by MonsterInsights -->
 
   {{/* TODO: Do we need all these jquery? */}}
-  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+  <!-- jQuery ver=1.12.4 -->
+  <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/jquery-migrate.min.js" | absURL }}'></script>
 
   {{/* TODO: Audit javascript */}}
   <script type='text/javascript' src='{{ "js/sitesusagov.js" | absURL }}'></script>
