@@ -9,8 +9,8 @@ authors:
   - jeremyzilar
 ---
 
-<link rel='stylesheet' href='/css/front-matter.css' type='text/css' media='all' />
-<script src='/js/front-matter.js' type='text/javascript' charset='utf-8'></script>
+<link rel='stylesheet' href='{{ "/css/front-matter.css" | absURL }}' type='text/css' media='all' />
+<script src='{{ "/js/front-matter.js" | absURL }}' type='text/javascript' charset='utf-8'></script>
 
 <div class="matter-container">
   <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
