@@ -1,6 +1,6 @@
 ---
 date: 2017-07-26 12:00:00 -0400
-title: The Data Briefing: Ten Years of Digital Transformation—Lessons Learned
+title: 'The Data Briefing: Ten Years of Digital Transformation—Lessons Learned'
 summary: Since 2007, a major consulting firm has conducted an annual survey on organizations’ “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned?
 authors:
   - bbrantley
@@ -36,7 +36,7 @@ Since 2007, a major consulting firm has conducted an annual survey on organizati
 
 What focusing on the human experience means is that organizations need to balance training the workforce, improving the customer experience, and incorporating the new technologies into the organization. Not addressing this balance “slows the assimilation of emerging technologies, and hinders the development of organizations that can adapt continuously and anticipate exponential change” (p. 15). Does this sound familiar when considering the digital transformation of the federal government?
 
-According to the report results, there is a growing skills gap that "puts transformation efforts at risk" (p. 18). Skill levels continue to decline in areas such as cyber security, privacy, using new technologies, user experience, and human-centered design. From my personal experience in government training and development, I often receive requests for basic spreadsheet and database skills along with elementary data analytics skills. Government employees realize the need to upskill. However, the opportunities to upskill are not always available and distributed unevenly throughout government training. Although it is innovative to talk about adopting [chatbots](https://www.digitalgov.gov/tag/chatbots/) and [blockchain](https://www.digitalgov.gov/tag/blockchain/) technologies, these adoption efforts need to consider the federal employees' skill gaps realities. 
+According to the report results, there is a growing skills gap that "puts transformation efforts at risk" (p. 18). Skill levels continue to decline in areas such as cyber security, privacy, using new technologies, user experience, and human-centered design. From my personal experience in government training and development, I often receive requests for basic spreadsheet and database skills along with elementary data analytics skills. Government employees realize the need to upskill. However, the opportunities to upskill are not always available and distributed unevenly throughout government training. Although it is innovative to talk about adopting [chatbots](https://www.digitalgov.gov/tag/chatbots/) and [blockchain](https://www.digitalgov.gov/tag/blockchain/) technologies, these adoption efforts need to consider the federal employees' skill gaps realities.
 
 IMAGE: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg
 Featured Image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/featured-301-x-212-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg
@@ -62,12 +62,12 @@ So, what are the digital technologies that organizations are investing in? Of th
 7. Drones – 5 percent current investment and 14 percent in the next three years.
 8. [Blockchain](https://www.digitalgov.gov/tag/blockchain/) – 3 percent current investment and 11 percent in the next three years. (p. 25)
 
-This report has many lessons for the adoption and use of emerging technologies in the federal government. To me, the most significant lesson comes from the end of the report: 
+This report has many lessons for the adoption and use of emerging technologies in the federal government. To me, the most significant lesson comes from the end of the report:
 
 > _[A] lack of attention to the human experience is holding companies back. In particular, the survey reveals a shortage of relevant skills, which are insufficient to keep up with investment trends and are quite scarce for many emerging technologies. And so is a holistic focus on how emerging technology changes the customer or employee experience. (p. 24)._
 
 
-Digital technologies have great potential to fundamentally transform how agencies function and deliver government services to American citizens. It just requires a balance of training the federal workforce, improving the [customer experience](https://www.digitalgov.gov/tag/customer-experience-2/) while thoughtfully and strategically adopting the emerging digital technologies. 
+Digital technologies have great potential to fundamentally transform how agencies function and deliver government services to American citizens. It just requires a balance of training the federal workforce, improving the [customer experience](https://www.digitalgov.gov/tag/customer-experience-2/) while thoughtfully and strategically adopting the emerging digital technologies.
 
 ---
 
