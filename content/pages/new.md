@@ -3,14 +3,11 @@ url: /new
 type: docs
 layout: 1col
 date: 2017-07-08 3:46:23 -0400
-title: Post Generator
+title: New Post
 summary: this is a summary
 authors:
   - jeremyzilar
 ---
-
-<link rel='stylesheet' href='/css/front-matter.css' type='text/css' media='all' />
-<script src='/js/front-matter.js' type='text/javascript' charset='utf-8'></script>
 
 <div class="matter-container">
   <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
