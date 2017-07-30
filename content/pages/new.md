@@ -18,6 +18,10 @@ authors:
     <label><input class="m_categories fm" type="text" name="m_categories" value="" placeholder="Categories"></label>
     <label><input class="m_tag fm" type="text" name="m_tag" value="" placeholder="Tags"></label>
   </form>
-  <pre id="post-matter">---</pre>
+  <div>
+    <pre id="filename">***</pre>
+    <pre id="post-matter">---</pre>
+  </div>
 </div>
 
+<a href="https://github.com/GSA/digital.gov/tree/demo/content/posts" target="_new" title="create a new post in GitHub">Create a new post in GitHub »</a>
