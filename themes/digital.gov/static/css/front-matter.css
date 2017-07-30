@@ -9,33 +9,34 @@ form#matter-maker{
   margin-top: 0;
   grid-area: row2-start / 1 / 2 / 1;
 }
-label,
-input{
+form#matter-maker label,
+form#matter-maker input{
   margin:0;
   font-size: 1em;
   display: block;
 }
-label{
+form#matter-maker label{
   margin-bottom: 18px;
 }
-label:last-child{
+form#matter-maker label:last-child{
   margin-bottom: 0;
 }
-input{
-  padding: 5px;
-  width:90%;
-  border:1px #555 solid;
+form#matter-maker input{
+  padding: 10px;
+  width:90% ;
+  border:1px #ccc solid;
 }
 
-pre{
+.matter-container div{
+  grid-area: row2-start / 2 / 2 / 2;
+}
+.matter-container pre{
   margin: 0;
   padding: 10px 15px;
   background:#f8f8f8;
-  font-size: .75em;
-  grid-area: row2-start / 2 / 2 / 2;
+  font-size: 1em;
   border:1px #555 solid;
 }
-
-.footer{
-  font-size:14px;
+.matter-container pre#filename{
+  border-bottom: none;
 }
