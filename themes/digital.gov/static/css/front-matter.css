@@ -30,6 +30,12 @@ form#matter-maker input{
 .matter-container div{
   grid-area: row2-start / 2 / 2 / 2;
 }
+.matter-container div p {
+  margin: 15px 0;
+}
+.matter-container #newfile {
+  font-weight: bold;
+}
 .matter-container pre{
   margin: 0;
   padding: 10px 15px;
