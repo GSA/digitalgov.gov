@@ -77,10 +77,15 @@ jQuery(document).ready(function($) {
         "author: " + list_items(data['m_author']),
         "categories: " + list_items(data['m_categories']),
         "tag: " + list_items(data['m_tag']),
-      "---"
+      "---",
+      ,
+      "[post content goes here]"
     ].join("\n");
     $('#post-matter').text(matter);
     $('#filename').text(filename(data['m_date'], data['m_title']));
+    var body = encodeURIComponent(matter);
+    var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/pages?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+    $('#newfile').attr('href', newfile);
   }
 
 });
