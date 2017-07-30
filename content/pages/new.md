@@ -25,6 +25,6 @@ authors:
 
     <pre id="post-matter">---</pre>
 
-    <p><a id="newfile" href="https://github.com/GSA/digital.gov/new/demo/content/posts?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create a new post in GitHub »</a></p>
+    <p><a id="newfile" href="https://github.com/GSA/digital.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create a new post in GitHub »</a></p>
   </div>
 </div>

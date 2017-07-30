@@ -84,7 +84,7 @@ jQuery(document).ready(function($) {
     $('#post-matter').text(matter);
     $('#filename').text(filename(data['m_date'], data['m_title']));
     var body = encodeURIComponent(matter);
-    var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/posts?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+    var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/posts/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
     $('#newfile').attr('href', newfile);
   }
 
