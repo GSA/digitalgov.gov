@@ -19,10 +19,11 @@ jQuery(document).ready(function($) {
 
     setTimeout(function() {
       print_matter(data);
-    }, 650);
+    }, 400);
 
   });
 
+  var entityPattern = /[&<>"'`=:*$%\/]/g;
   var entityMap = {
     '&': '&amp;',
     '<': '&lt;',
@@ -34,20 +35,23 @@ jQuery(document).ready(function($) {
     '=': '&#x3D;',
     '*': '&#42;',
     '$': '&#36;',
-    '%': '&#37;'
+    '%': '&#37;',
+    ':': '&#58;'
   };
 
   function escapeHtml (string) {
-    return String(string).replace(/[&<>"'`=*$%\/]/g, function (s) {
+    return String(string).replace(entityPattern, function (s) {
       return entityMap[s];
     });
   }
 
+  var small_words = /and |the |are |is |of |to |a /gi;
+
   function filename(d,t) {
     var date = d.match(/^[^\s]+/);
-    t = t.replace(/and |the |are |is |of |to |a /gi, '');
+    t = t.replace(small_words, '');
+    t = t.replace(entityPattern, ' ').trim();
     t = t.replace(/\s+/g,' ').trim();
-    t = t.replace(/[&<>"'`=:*$%\/]/g,'').trim();
     var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
     var filename = date[0]+'-'+slug+'.md';
     return filename;
