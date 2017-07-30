@@ -3,11 +3,12 @@ url: /new
 type: docs
 layout: 1col
 date: 2017-07-08 3:46:23 -0400
-title: New Post
+title: Create a new post
 summary: this is a summary
 authors:
   - jeremyzilar
 ---
+
 
 <div class="matter-container">
   <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
