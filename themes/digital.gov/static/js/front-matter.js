@@ -79,7 +79,7 @@ jQuery(document).ready(function($) {
         "tag: " + list_items(data['m_tag']),
       "---",
       ,
-      "[post content goes here]"
+      "***Paste content here. Delete this line***"
     ].join("\n");
     $('#post-matter').text(matter);
     $('#filename').text(filename(data['m_date'], data['m_title']));
