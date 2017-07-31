@@ -8,7 +8,7 @@ This section will focus on publishing through GitHub.com website.
 To proceed, you will need a GitHub account [http://github.com](http://github.com) and you will need to have the Digital.gov team add you as an contributor to our repo. Send us a note at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 - - -
-#### Creating a Draft for Review
+### Creating a Draft for Review
 
 **Step 1.** — Log in to [http://github.com](http://github.com)
 
@@ -20,7 +20,7 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 
 - - -
-#### Creating and Publishing a new Post
+### Creating and Publishing a new Post
 
 **Note:** You will need WRITE access to the Digital.gov repo in order to create a new post. In addition, formatting options are not available in this stage of the workflow (). If you would like formatting options, please submit a draft for review first, then copy the body of the post into Step 3.
 
