@@ -74,7 +74,7 @@ jQuery(document).ready(function($) {
         "date: " + data['m_date'],
         "title: '" + escapeHtml(data['m_title']) + "'",
         "summary: '" + escapeHtml(data['m_summary']) + "'",
-        "author: " + list_items(data['m_author']),
+        "authors: " + list_items(data['m_author']),
         "categories: " + list_items(data['m_categories']),
         "tag: " + list_items(data['m_tag']),
       "---",
