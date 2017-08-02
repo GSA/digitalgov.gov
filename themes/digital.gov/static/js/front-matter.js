@@ -23,7 +23,7 @@ jQuery(document).ready(function($) {
 
   });
 
-  var entityPattern = /[&<>"'`=:*$%\/]/g;
+  var entityPattern = /[&<>"'`=:*?$%\/]/g;
   var entityMap = {
     '&': '&amp;',
     '<': '&lt;',
@@ -36,7 +36,8 @@ jQuery(document).ready(function($) {
     '*': '&#42;',
     '$': '&#36;',
     '%': '&#37;',
-    ':': '&#58;'
+    ':': '&#58;',
+    '?': '&#63;'
   };
 
   function escapeHtml (string) {
