@@ -13,6 +13,7 @@ var gulp          = require("gulp"),
     bless         = require('gulp-bless'),
     gzip          = require('gulp-gzip'),
     size          = require('gulp-size'),
+    responsive    = require('gulp-responsive'),
     dotenv        = require('dotenv').config(),
     s3config      = {
                     accessKeyId: process.env.AWS_ACCESSKEY,
@@ -21,29 +22,9 @@ var gulp          = require("gulp"),
     s3            = require('gulp-s3-upload')(s3config),
     cp            = require('child_process');
 
-// - - - - - - - - - - - - - - - - -
-// S3 upload
-
-gulp.task("upload", function() {
-  // remove the current contents of the /content/_done dir
-  del(["static/_done/**/*"])
-  gulp.src("static/__inbox/*/**")
-    .pipe(gulp.dest("static/_done/"))
-    .pipe(s3({
-      Bucket: 'digitalgov',   //  Required
-      ACL:    'public-read'   //  Needs to be user-defined
-    }, {
-      // S3 Constructor Options, ie:
-      maxRetries: 5
-    }))
-  ;
-});
-
-
-
 
 // - - - - - - - - - - - - - - - - -
-// Hash images
+// Process and upload images
 gulp.task("images", function () {
   return watch('static/__inbox/**/*', {
     ignoreInitial: false,
@@ -51,6 +32,78 @@ gulp.task("images", function () {
   }, function () {
     del(['static/_done/**/*']);
     gulp.src("static/__inbox/**/*")
+      .pipe(gulp.dest("static/_done/"))
+      .pipe(responsive({
+        '*': [{
+          // image-xs.jpg is 200 pixels wide
+          width: 200,
+          rename: {
+            suffix: '__w200',
+            extname: '.jpg',
+          },
+        }, {
+          // image-400w.jpg is 400 pixels wide
+          width: 400,
+          rename: {
+            suffix: '__w400',
+            extname: '.jpg',
+          },
+        }, {
+          // image-600w.jpg is 800 pixels wide
+          width: 600,
+          rename: {
+            suffix: '__w600',
+            extname: '.jpg',
+          },
+        }, {
+          // image-md.jpg is 600 pixels wide
+          width: 800,
+          rename: {
+            suffix: '__w800',
+            extname: '.jpg',
+          },
+        }, {
+          // image-1200w.jpg is 1200 pixels wide
+          width: 1200,
+          rename: {
+            suffix: '__w1200',
+            extname: '.jpg',
+          },
+        }, {
+          // image-1600w.jpg is 600 pixels wide
+          width: 1600,
+          rename: {
+            suffix: '__w1600',
+            extname: '.jpg',
+          },
+        }, {
+          // image-2400w.jpg is 1200 pixels wide
+          width: 2400,
+          rename: {
+            suffix: '__w2400',
+            extname: '.jpg',
+          },
+  //        }, {
+  //          // image-max.jpg is original width
+  //          rename: {
+  //            suffix: '-max',
+  //            extname: '.jpg',
+  //          },
+        }],
+      }, {
+        // Global configuration for all images
+        quality: 80,
+        progressive: true,
+        withMetadata: false,
+        errorOnUnusedConfig: false,
+        skipOnEnlargement: true,
+        errorOnEnlargement: false,
+        silent: true,
+  //        flatten: true,
+  //        background: "#fff",
+      }))
+/*
+      // remove the files from the inbox
       .pipe(vinylPaths(del))
       // append a hash to the filename (-NNNNN)
       .pipe(hash())
@@ -62,9 +115,13 @@ gulp.task("images", function () {
         // S3 Constructor Options, ie:
         maxRetries: 5
       }))
+*/
       .pipe(gulp.dest("static/_done/"));
   });
 });
+
+
+
 
 // - - - - - - - - - - - - - - - - -
 // Watch asset folder for changes
