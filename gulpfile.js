@@ -32,6 +32,11 @@ gulp.task("images", function () {
   }, function () {
     del(['static/_done/**/*']);
     gulp.src("static/__inbox/**/*")
+      .pipe(vinylPaths(del))
+/*
+          // append a hash to the filename (-NNNNN)
+          .pipe(hash())
+*/
       .pipe(gulp.dest("static/_done/"))
       .pipe(responsive({
         '*': [{
@@ -102,11 +107,7 @@ gulp.task("images", function () {
   //        flatten: true,
   //        background: "#fff",
       }))
-/*
-      // remove the files from the inbox
-      .pipe(vinylPaths(del))
-      // append a hash to the filename (-NNNNN)
-      .pipe(hash())
+      .pipe(gulp.dest("static/_done/"))
       // output files to the /content/aws dir
       .pipe(s3({
         Bucket: 'digitalgov',   //  Required
@@ -114,9 +115,7 @@ gulp.task("images", function () {
       }, {
         // S3 Constructor Options, ie:
         maxRetries: 5
-      }))
-*/
-      .pipe(gulp.dest("static/_done/"));
+      }));
   });
 });
 
