@@ -1,4 +1,6 @@
 var gulp          = require("gulp"),
+    watch         = require('gulp-watch'),
+    vinylPaths    = require('vinyl-paths'),
     sass          = require("gulp-sass"),
     autoprefixer  = require("gulp-autoprefixer"),
     hash          = require("gulp-hash"),
@@ -23,15 +25,18 @@ var gulp          = require("gulp"),
 // S3 upload
 
 gulp.task("upload", function() {
-    gulp.src("./static/_inbox/*/**")
-        .pipe(s3({
-            Bucket: 'digitalgov', //  Required
-            ACL:    'public-read'       //  Needs to be user-defined
-        }, {
-            // S3 Constructor Options, ie:
-            maxRetries: 5
-        }))
-    ;
+  // remove the current contents of the /content/_done dir
+  del(["static/_done/**/*"])
+  gulp.src("static/__inbox/*/**")
+    .pipe(gulp.dest("static/_done/"))
+    .pipe(s3({
+      Bucket: 'digitalgov',   //  Required
+      ACL:    'public-read'   //  Needs to be user-defined
+    }, {
+      // S3 Constructor Options, ie:
+      maxRetries: 5
+    }))
+  ;
 });
 
 
@@ -40,23 +45,33 @@ gulp.task("upload", function() {
 // - - - - - - - - - - - - - - - - -
 // Hash images
 gulp.task("images", function () {
-  // remove the current contents of the /content/aws dir
-  del(["content/aws/**/*"])
-  gulp.src("content/media/**/*")
-    // append a hash to the filename (-NNNNN)
-    .pipe(hash())
-    // create a manifest of all files processed
-    .pipe(hash.manifest("./data/media.json"))
-    // output files to the /content/aws dir
-    .pipe(gulp.dest("content/aws/"))
-})
+  return watch('static/__inbox/**/*', {
+    ignoreInitial: false,
+    events: ['add', 'change']
+  }, function () {
+    del(['static/_done/**/*']);
+    gulp.src("static/__inbox/**/*")
+      .pipe(vinylPaths(del))
+      // append a hash to the filename (-NNNNN)
+      .pipe(hash())
+      // output files to the /content/aws dir
+      .pipe(s3({
+        Bucket: 'digitalgov',   //  Required
+        ACL:    'public-read'   //  Needs to be user-defined
+      }, {
+        // S3 Constructor Options, ie:
+        maxRetries: 5
+      }))
+      .pipe(gulp.dest("static/_done/"));
+  });
+});
 
 // - - - - - - - - - - - - - - - - -
 // Watch asset folder for changes
-gulp.task("watch", ["images"], function () {
-  gulp.watch("content/media/**/*", ["images"])
+gulp.task("watch", function () {
+  gulp.watch("static/__inbox/**/*", ["images"])
 })
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task("default", ["watch"])
+gulp.task("default", ["images", "watch"])
