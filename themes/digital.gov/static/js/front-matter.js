@@ -1,5 +1,6 @@
 jQuery(document).ready(function($) {
 
+
   function curr_date(){
     var d = new Date();
     var month = d.getMonth()+1;
@@ -11,13 +12,16 @@ jQuery(document).ready(function($) {
         ' -0400';
     return output;
   }
+
   $('input[name="m_date"]').val(curr_date());
 
   $( "#matter-maker input" ).keyup(function( event ) {
     var data = {};
-    $('#matter-maker').serializeArray().map(function(x){data[x.name] = x.value;});
-
+    $('#matter-maker').serializeArray().map(function(x){
+      data[x.name] = x.value;
+    });
     setTimeout(function() {
+      console.log(data);
       print_matter(data);
     }, 400);
 

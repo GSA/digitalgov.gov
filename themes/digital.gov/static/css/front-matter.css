@@ -1,3 +1,4 @@
+
 .matter-container{
   margin: 50px 0;
   display: grid;
@@ -15,6 +16,19 @@
 
 .gcol1 form{
   margin-top: 0;
+}
+
+.gcol1 form .radio{
+  padding-left: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  position: relative;
+}
+.gcol1 form .radio input{
+  margin: 4px 0 0;
+  position: absolute;
+  margin-left: -20px;
 }
 .gcol1 form label,
 .gcol1 form input{
