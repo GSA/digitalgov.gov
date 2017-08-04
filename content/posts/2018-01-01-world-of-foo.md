@@ -13,4 +13,4 @@ tag:
 
 Foo.
 
-{{< img-bw src="bill-of-rights.jpg" >}}
+{{< img-bw src="original-us-bill-of-rights.jpg" >}}
