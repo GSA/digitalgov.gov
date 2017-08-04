@@ -1,7 +1,8 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
 {{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
-{{ $imgType := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
 {{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
 {{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
 {{ $imgProxy := absURL $imgProxy }}
@@ -11,14 +12,28 @@
 
 <ul>
   <li>imgBase: {{ $imgBase }}</li>
-  <li>imgType: {{ $imgType }}</li>
+  <li>imgExt: {{ $imgExt }}</li>
   <li>imgProxy: {{ $imgProxy }}</li>
   <li>imgLocalProxy: {{ $imgLocalProxy }}</li>
   <li>Image dimensions: {{ $imgWidth }}px &times; {{ $imgHeight }}px</li>
 </ul>
+<h4>proxy:</h4>
 <img src="{{ $imgProxy }}" />
 
+<h4>cdn:</h4>
+<img src="{{ $imgBaseCDN }}.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}.webp" />
+<img src="{{ $imgBaseCDN }}__bu.jpg" />
+<img src="{{ $imgBaseCDN }}__w200.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__gray__w200.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w400.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__gray__w400.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w600.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__gray__w600.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w800.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__gray__w800.{{ $imgExt }}" />
 
+{{/*
 <div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
   {{ if isset .Params "title" }}
     <h6 class='figure-title'>{{ .Get "title" }}</h6>
@@ -35,4 +50,5 @@
     </p>
   {{ end }}
 </div>
+*/}}
 <!-- image -->

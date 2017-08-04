@@ -36,7 +36,7 @@ params:
   youtube               : ""
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
-  cdnurl                : "https://s3.amazonaws.com/digitalgov/"
+  cdnurl                : "https://s3.amazonaws.com/digitalgov"
   defaulturl            : "https://digital.gov"
 
 permalinks:
