@@ -31,6 +31,8 @@ gulp.task("img-variants", function (done) {
     .pipe(replace(/[ &$_#!?.]/g, '-'))
     .pipe(replace(/-+/g, '-'))
     .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))
+    .pipe(replace(/-\./g, '.'))
+    .pipe(replace(/^-/g, ''))
     .pipe(replace(/A/g, 'a'))
     .pipe(replace(/B/g, 'b'))
     .pipe(replace(/C/g, 'c'))
