@@ -91,6 +91,13 @@ gulp.task("img-variants", function (done) {
           suffix: '__gray__w200',
         },
       }, {
+        width: 200,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w200',
+          extname: '.webp',
+        },
+      }, {
         width: 400,
         rename: {
           suffix: '__w400',
@@ -106,6 +113,13 @@ gulp.task("img-variants", function (done) {
         grayscale: true,
         rename: {
           suffix: '__gray__w400',
+        },
+      }, {
+        width: 400,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w400',
+          extname: '.webp',
         },
       }, {
         width: 600,
@@ -125,6 +139,13 @@ gulp.task("img-variants", function (done) {
           suffix: '__gray__w600',
         },
       }, {
+        width: 600,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w600',
+          extname: '.webp',
+        },
+      }, {
         width: 800,
         rename: {
           suffix: '__w800',
@@ -140,6 +161,13 @@ gulp.task("img-variants", function (done) {
         grayscale: true,
         rename: {
           suffix: '__gray__w800',
+        },
+      }, {
+        width: 800,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w800',
+          extname: '.webp',
         },
       }, {
         width: 1200,
@@ -159,6 +187,13 @@ gulp.task("img-variants", function (done) {
           suffix: '__gray__w1200',
         },
       }, {
+        width: 1200,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w1200',
+          extname: '.webp',
+        },
+      }, {
         width: 1600,
         rename: {
           suffix: '__w1600',
@@ -174,6 +209,13 @@ gulp.task("img-variants", function (done) {
         grayscale: true,
         rename: {
           suffix: '__gray__w1600',
+        },
+      }, {
+        width: 1600,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w1600',
+          extname: '.webp',
         },
       }, {
         width: 2400,
@@ -193,11 +235,25 @@ gulp.task("img-variants", function (done) {
           suffix: '__gray__w2400',
         },
       }, {
+        width: 2400,
+        grayscale: true,
+        rename: {
+          suffix: '__gray__w2400',
+          extname: '.webp',
+        },
+      }, {
         // original -> grayscale
         grayscale: true,
         rename: {
           suffix: '__gray',
         },
+      }, {
+        // original -> grayscale webp
+        grayscale: true,
+        rename: {
+          suffix: '__gray',
+          extname: '.webp',
+      },
       }, {
         // original -> webp
         rename: {
