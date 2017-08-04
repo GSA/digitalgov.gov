@@ -12,3 +12,5 @@ tag:
 ---
 
 Foo.
+
+{{< img src="bill-of-rights.jpg" >}}
