@@ -246,7 +246,7 @@ gulp.task("proxy", ["upload-cleanup"], function (done) {
           extname: '.jpg',
         },
         grayscale: true,
-        quality: 10,
+        quality: 1,
         flatten: true,
         blur: true,
       },
