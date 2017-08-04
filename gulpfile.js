@@ -29,6 +29,7 @@ gulp.task("img-variants", function (done) {
   return gulp.src("static/__inbox/*.{png,jpg,jpeg}")
     .pipe(vinylPaths(del))
     .pipe(replace(/[ &$_#!?.]/g, '-'))
+    .pipe(replace(/-+/g, '-'))
     .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))
     .pipe(replace(/A/g, 'a'))
     .pipe(replace(/B/g, 'b'))
