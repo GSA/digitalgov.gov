@@ -2,11 +2,22 @@
 {{ $cdnurl := .Site.Params.cdnurl }}
 {{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
 {{ $imgType := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
+{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
+{{ $imgProxy := absURL $imgProxy }}
+{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
 
-<div>
-  imgBase: {{ $imgBase }}
-  imgType: {{ $imgType }}
-</div>
+
+<ul>
+  <li>imgBase: {{ $imgBase }}</li>
+  <li>imgType: {{ $imgType }}</li>
+  <li>imgProxy: {{ $imgProxy }}</li>
+  <li>imgLocalProxy: {{ $imgLocalProxy }}</li>
+  <li>Image dimensions: {{ $imgWidth }}px &times; {{ $imgHeight }}px</li>
+</ul>
+<img src="{{ $imgProxy }}" />
+
 
 <div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
   {{ if isset .Params "title" }}
