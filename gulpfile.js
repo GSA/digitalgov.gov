@@ -67,6 +67,7 @@ gulp.task("img-variants", function (done) {
         },
       }, {
         width: 200,
+        skipOnEnlargement: false,
         rename: {
           suffix: '__bu',
           extname: '.jpg',
@@ -186,6 +187,18 @@ gulp.task("img-variants", function (done) {
         grayscale: true,
         rename: {
           suffix: '__gray__w2400',
+        },
+      }, {
+        // original -> grayscale
+        grayscale: true,
+        rename: {
+          suffix: '__gray',
+        },
+      }, {
+        // original -> webp
+        rename: {
+          suffix: '',
+          extname: '.webp',
         },
       }, {
         // Empty case to produce a copy of the original
