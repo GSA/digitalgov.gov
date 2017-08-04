@@ -1,7 +1,7 @@
 ---
 layout: primary
 title: Accessibility basics
-permalink: /product-manager/accessibility-basics/
+permalink: /product/accessibility-basics/
 ---
 
 ## Learn the basics of accessibility and what your team does to make content accessible.

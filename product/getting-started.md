@@ -1,7 +1,7 @@
 ---
 layout: primary
 title: Getting started
-permalink: /product-manager/getting-started/
+permalink: /product/getting-started/
 ---
 
 ## Why you should care

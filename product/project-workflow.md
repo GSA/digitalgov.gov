@@ -1,7 +1,7 @@
 ---
 layout: primary
 title: Project workflow
-permalink: /product-manager/project-workflow/
+permalink: /product/project-workflow/
 ---
 
 ## Build accessibility into your project workflow rather than retrofitting it at the end.

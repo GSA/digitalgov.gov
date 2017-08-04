@@ -1,7 +1,7 @@
 ---
 layout: primary
 title: Diverse users
-permalink: /product-manager/diverse-users/
+permalink: /product/diverse-users/
 ---
 
 ## Consider how everyone will use the product.

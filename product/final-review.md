@@ -1,7 +1,7 @@
 ---
 layout: primary
 title: Final review
-permalink: /product-manager/final-review/
+permalink: /product/final-review/
 ---
 
 ## Request a final review from an accessibility expert.
