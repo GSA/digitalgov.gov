@@ -258,7 +258,7 @@ gulp.task("proxy", ["upload-cleanup"], function (done) {
       errorOnEnlargement: false,
       silent: true,
     }))
-    .pipe(gulp.dest("static/img/"));
+    .pipe(gulp.dest("static/img/proxy/"));
 });
 
 gulp.task("process-img", ["proxy"], function () {});
