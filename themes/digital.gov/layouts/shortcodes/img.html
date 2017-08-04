@@ -20,6 +20,68 @@
 <h4>proxy:</h4>
 <img src="{{ $imgProxy }}" />
 
+<h4>&lt;picture&gt; tag webp</h4>
+<picture>
+  <source
+    srcset="
+      {{ $imgBaseCDN }}.webp {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+        {{ if gt $imgWidth 400 }}
+          {{ if gt $imgWidth 600 }}
+            {{ if gt $imgWidth 800 }}
+              {{ if gt $imgWidth 1200 }}
+                {{ if gt $imgWidth 1600 }}
+                  {{ if gt $imgWidth 2400 }}
+                    {{ $imgBaseCDN }}_w2400.webp 2400w,
+                  {{ end }}
+                  {{ $imgBaseCDN }}_w1600.webp 1600w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1200.webp 1200w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w800.webp 800w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w600.webp 600w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w400.webp 400w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w200.webp 200w
+      {{ end }}
+      "
+    type="image/webp"
+    sizes="600px"
+    >
+  <source
+    srcset="
+    {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+      {{ if gt $imgWidth 400 }}
+        {{ if gt $imgWidth 600 }}
+          {{ if gt $imgWidth 800 }}
+            {{ if gt $imgWidth 1200 }}
+              {{ if gt $imgWidth 1600 }}
+                {{ if gt $imgWidth 2400 }}
+                  {{ $imgBaseCDN }}_w2400.{{ $imgExt }} 2400w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1600.{{ $imgExt }} 1600w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,
+      {{ end }}
+      {{ $imgBaseCDN }}_w200.{{ $imgExt }} 200w
+    {{ end }}
+      "
+    type="image/jpeg"
+    sizes="600px"
+    >
+  <img
+    src="{{ $imgBaseCDN }}__bu.{{ $imgExt }}"
+    alt="Alt Text!"
+    >
+</picture>
+
 <h4>cdn:</h4>
 <img src="{{ $imgBaseCDN }}.{{ $imgExt }}" />
 <img src="{{ $imgBaseCDN }}.webp" />
