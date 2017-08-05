@@ -14,6 +14,7 @@ var gulp          = require("gulp"),
     bless         = require('gulp-bless'),
     gzip          = require('gulp-gzip'),
     size          = require('gulp-size'),
+    changeCase    = require('change-case'),
     responsive    = require('gulp-responsive'),
     dotenv        = require('dotenv').config(),
     s3config      = {
@@ -28,38 +29,17 @@ var gulp          = require("gulp"),
 gulp.task("img-variants", function (done) {
   return gulp.src("static/__inbox/*.{png,jpg,jpeg}")
     .pipe(vinylPaths(del))
-    .pipe(replace(/[ &$_#!?.]/g, '-'))
-    .pipe(replace(/-+/g, '-'))
-    .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))
-    .pipe(replace(/\.jpeg$/g, '.jpg'))
-    .pipe(replace(/-\./g, '.'))
-    .pipe(replace(/^-/g, ''))
-    .pipe(replace(/A/g, 'a'))
-    .pipe(replace(/B/g, 'b'))
-    .pipe(replace(/C/g, 'c'))
-    .pipe(replace(/D/g, 'd'))
-    .pipe(replace(/E/g, 'e'))
-    .pipe(replace(/F/g, 'f'))
-    .pipe(replace(/G/g, 'g'))
-    .pipe(replace(/H/g, 'h'))
-    .pipe(replace(/I/g, 'i'))
-    .pipe(replace(/J/g, 'j'))
-    .pipe(replace(/K/g, 'k'))
-    .pipe(replace(/L/g, 'l'))
-    .pipe(replace(/M/g, 'm'))
-    .pipe(replace(/N/g, 'n'))
-    .pipe(replace(/O/g, 'o'))
-    .pipe(replace(/P/g, 'p'))
-    .pipe(replace(/Q/g, 'q'))
-    .pipe(replace(/R/g, 'r'))
-    .pipe(replace(/S/g, 's'))
-    .pipe(replace(/T/g, 't'))
-    .pipe(replace(/U/g, 'u'))
-    .pipe(replace(/V/g, 'v'))
-    .pipe(replace(/W/g, 'w'))
-    .pipe(replace(/X/g, 'x'))
-    .pipe(replace(/Y/g, 'y'))
-    .pipe(replace(/Z/g, 'z'))
+    .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
+    .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
+    .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // ?
+    .pipe(replace(/\.jpeg$/g, '.jpg'))            // .jpeg to .jpg
+    .pipe(replace(/-\./g, '.'))                   // ?
+    .pipe(replace(/^-/g, ''))                     // removes dashes from the start of filename
+    .pipe(rename(function(path) { // make filename lowercase
+      path.dirname = changeCase.lowerCase(path.dirname);
+      path.basename = changeCase.lowerCase(path.basename);
+      path.extname = changeCase.lowerCase(path.extname);
+    }))
     // Add the original to static/_tmp
     .pipe(gulp.dest("static/_tmp/"))
     // Create responsive variants

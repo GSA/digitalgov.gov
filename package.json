@@ -40,5 +40,8 @@
     "postcss-uncss": "^0.15.0",
     "uncss": "^0.15.0",
     "vinyl-paths": "^2.1.0"
+  },
+  "dependencies": {
+    "change-case": "^3.0.1"
   }
 }
