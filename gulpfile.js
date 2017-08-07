@@ -51,7 +51,7 @@ gulp.task("img-variants", ["file-tidy"], function (done) {
       '*': [{
         width: 200,
         rename: {
-          suffix: '__w200',
+          suffix: '_w200',
         },
       }, {
         width: 200,
@@ -65,177 +65,177 @@ gulp.task("img-variants", ["file-tidy"], function (done) {
       }, {
         width: 200,
         rename: {
-          suffix: '__w200',
+          suffix: '_w200',
           extname: '.webp',
         },
       }, {
         width: 200,
         grayscale: true,
         rename: {
-          suffix: '__gray__w200',
+          suffix: '_w200bw',
         },
       }, {
         width: 200,
         grayscale: true,
         rename: {
-          suffix: '__gray__w200',
+          suffix: '_w200bw',
           extname: '.webp',
         },
       }, {
         width: 400,
         rename: {
-          suffix: '__w400',
+          suffix: '_w400',
         },
       }, {
         width: 400,
         rename: {
-          suffix: '__w400',
+          suffix: '_w400',
           extname: '.webp',
-        },
-      }, {
-        width: 400,
-        grayscale: true,
-        rename: {
-          suffix: '__gray__w400',
         },
       }, {
         width: 400,
         grayscale: true,
         rename: {
-          suffix: '__gray__w400',
+          suffix: '_w400bw',
+        },
+      }, {
+        width: 400,
+        grayscale: true,
+        rename: {
+          suffix: '_w400bw',
           extname: '.webp',
         },
       }, {
         width: 600,
         rename: {
-          suffix: '__w600',
+          suffix: '_w600',
         },
       }, {
         width: 600,
         rename: {
-          suffix: '__w600',
+          suffix: '_w600',
           extname: '.webp',
-        },
-      }, {
-        width: 600,
-        grayscale: true,
-        rename: {
-          suffix: '__gray__w600',
         },
       }, {
         width: 600,
         grayscale: true,
         rename: {
-          suffix: '__gray__w600',
+          suffix: '_w600bw',
+        },
+      }, {
+        width: 600,
+        grayscale: true,
+        rename: {
+          suffix: '_w600bw',
           extname: '.webp',
         },
       }, {
         width: 800,
         rename: {
-          suffix: '__w800',
+          suffix: '_w800',
         },
       }, {
         width: 800,
         rename: {
-          suffix: '__w800',
+          suffix: '_w800',
           extname: '.webp',
-        },
-      }, {
-        width: 800,
-        grayscale: true,
-        rename: {
-          suffix: '__gray__w800',
         },
       }, {
         width: 800,
         grayscale: true,
         rename: {
-          suffix: '__gray__w800',
+          suffix: '_w800bw',
+        },
+      }, {
+        width: 800,
+        grayscale: true,
+        rename: {
+          suffix: '_w800bw',
           extname: '.webp',
         },
       }, {
         width: 1200,
         rename: {
-          suffix: '__w1200',
+          suffix: '_w1200',
         },
       }, {
         width: 1200,
         rename: {
-          suffix: '__w1200',
+          suffix: '_w1200',
           extname: '.webp',
-        },
-      }, {
-        width: 1200,
-        grayscale: true,
-        rename: {
-          suffix: '__gray__w1200',
         },
       }, {
         width: 1200,
         grayscale: true,
         rename: {
-          suffix: '__gray__w1200',
+          suffix: '_w1200bw',
+        },
+      }, {
+        width: 1200,
+        grayscale: true,
+        rename: {
+          suffix: '_w1200bw',
           extname: '.webp',
         },
       }, {
         width: 1600,
         rename: {
-          suffix: '__w1600',
+          suffix: '_w1600',
         },
       }, {
         width: 1600,
         rename: {
-          suffix: '__w1600',
+          suffix: '_w1600',
           extname: '.webp',
         },
       }, {
         width: 1600,
         grayscale: true,
         rename: {
-          suffix: '__gray__w1600',
+          suffix: '_w1600bw',
         },
       }, {
         width: 1600,
         grayscale: true,
         rename: {
-          suffix: '__gray__w1600',
+          suffix: '_w1600bw',
           extname: '.webp',
         },
       }, {
         width: 2400,
         rename: {
-          suffix: '__w2400',
+          suffix: '_w2400',
         },
       }, {
         width: 2400,
         rename: {
-          suffix: '__w2400',
+          suffix: '_w2400',
           extname: '.webp',
         },
       }, {
         width: 2400,
         grayscale: true,
         rename: {
-          suffix: '__gray__w2400',
+          suffix: '_w2400bw',
         },
       }, {
         width: 2400,
         grayscale: true,
         rename: {
-          suffix: '__gray__w2400',
+          suffix: '_w2400bw',
           extname: '.webp',
         },
       }, {
         // original -> grayscale
         grayscale: true,
         rename: {
-          suffix: '__gray',
+          suffix: '_bw',
         },
       }, {
         // original -> grayscale webp
         grayscale: true,
         rename: {
-          suffix: '__gray',
+          suffix: '_bw',
           extname: '.webp',
       },
       }, {
