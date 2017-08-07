@@ -273,15 +273,12 @@ gulp.task("upload", ["img-variants"], function (done) {
     .pipe(gulp.dest("static/_uploaded/"));
 });
 
-gulp.task("upload-cleanup", ["upload"], function (done) {
-  return del(['static/_uploaded/**', '!static/_uploaded']);
-});
-
-gulp.task("proxy", ["upload-cleanup"], function (done) {
+gulp.task("proxy", ["upload"], function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
-  return gulp.src("static/__inbox/*")
+  return gulp.src("static/__inbox/*.{png,jpg}")
     .pipe(vinylPaths(del))
+    .pipe(gulp.dest("static/_done/"))
     .pipe(responsive({
       '*': {
         rename: {
@@ -305,7 +302,11 @@ gulp.task("proxy", ["upload-cleanup"], function (done) {
     .pipe(gulp.dest("static/img/proxy/"));
 });
 
-gulp.task("process-img", ["proxy"], function () {});
+gulp.task("cleanup", ["proxy"], function (done) {
+  return del(['static/_uploaded/**', 'static/_processed/**', 'static/_tmp/**']);
+});
+
+gulp.task("process-img", ["cleanup"], function () {});
 
 
 // - - - - - - - - - - - - - - - - -

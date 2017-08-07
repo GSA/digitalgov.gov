@@ -16,6 +16,8 @@ ignoreFiles:
   - "content/_tmp/*"
   - "static/__inbox/*"
   - "static/_tmp/*"
+  - "static/_done/**/*"
+  - "static/_done/*"
   - "static/_processed/*"
   - "static/__inbox/"
   - "static/_tmp/"

@@ -1,5 +1,9 @@
 _site/
 public/
+static/_done/
+static/_tmp/
+static/_processed/
+static/_uploaded/
 .sass-cache/
 .jekyll-metadata
 .ruby-version
