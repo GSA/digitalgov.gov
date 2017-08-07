@@ -1,0 +1,13 @@
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{/*
+{{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
+{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
+{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
+{{ $imgProxy := absURL $imgProxy }}
+{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+*/}}
+
+  <img class="catslide-thumbnail" src="{{ .Params.featured_image.src | default "//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/06/featured-301-x-212-Artificial-Intelligence-with-molecular-and-circuit-design-Chinnawat-Ngamsom-iStock-Thinkstock-680054348.jpg" }}" alt="{{ .Params.featured_image.alt | default "foo default" }}" title="{{ .Title | markdownify }}" />
