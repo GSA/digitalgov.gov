@@ -8,7 +8,6 @@ var gulp          = require("gulp"),
     del           = require("del"),
     concat        = require('gulp-concat'),
     cleanCSS      = require('gulp-clean-css'),
-		rename        = require('gulp-rename'),
     combineMq     = require('gulp-combine-mq'),
     strip         = require('gulp-strip-css-comments'),
     bless         = require('gulp-bless'),
@@ -16,6 +15,7 @@ var gulp          = require("gulp"),
     size          = require('gulp-size'),
     changeCase    = require('change-case'),
     responsive    = require('gulp-responsive'),
+    rename        = require("gulp-rename"),
     dotenv        = require('dotenv').config(),
     s3config      = {
                     accessKeyId: process.env.AWS_ACCESSKEY,
@@ -25,9 +25,8 @@ var gulp          = require("gulp"),
     cp            = require('child_process');
 
 
-
-gulp.task("img-variants", function (done) {
-  return gulp.src("static/__inbox/*.{png,jpg,jpeg}")
+gulp.task("file-tidy", function (done) {
+  return gulp.src("static/__inbox/*.{png,jpg,jpeg}", { base: "./" })
     .pipe(vinylPaths(del))
     .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
     .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
@@ -36,12 +35,17 @@ gulp.task("img-variants", function (done) {
     .pipe(replace(/-\./g, '.'))                   // ?
     .pipe(replace(/^-/g, ''))                     // removes dashes from the start of filename
     .pipe(rename(function(path) { // make filename lowercase
-      path.dirname = changeCase.lowerCase(path.dirname);
+      path.dirname  = changeCase.lowerCase(path.dirname);
       path.basename = changeCase.lowerCase(path.basename);
       path.extname = changeCase.lowerCase(path.extname);
     }))
-    // Add the original to static/_tmp
-    .pipe(gulp.dest("static/_tmp/"))
+    // Updates the original in static/__inbox
+    .pipe(gulp.dest("."))
+});
+
+
+gulp.task("img-variants", ["file-tidy"], function (done) {
+  return gulp.src("static/__inbox/*.{png,jpg,jpeg}")
     // Create responsive variants
     .pipe(responsive({
       '*': [{
@@ -276,7 +280,7 @@ gulp.task("upload-cleanup", ["upload"], function (done) {
 gulp.task("proxy", ["upload-cleanup"], function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
-  return gulp.src("static/_tmp/**/*")
+  return gulp.src("static/__inbox/*")
     .pipe(vinylPaths(del))
     .pipe(responsive({
       '*': {
@@ -303,11 +307,13 @@ gulp.task("proxy", ["upload-cleanup"], function (done) {
 
 gulp.task("process-img", ["proxy"], function () {});
 
+
 // - - - - - - - - - - - - - - - - -
 // Watch blank becuase asset watch runs its own watch
 gulp.task("watch", function () {
   gulp.watch("static/__inbox/**/*", ["process-img"])
 })
+
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task

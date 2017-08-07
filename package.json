@@ -42,6 +42,7 @@
     "vinyl-paths": "^2.1.0"
   },
   "dependencies": {
-    "change-case": "^3.0.1"
+    "change-case": "^3.0.1",
+    "node-notifier": "^5.1.2"
   }
 }
