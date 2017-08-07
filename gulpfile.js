@@ -56,7 +56,7 @@ gulp.task("img-variants", ["file-tidy"], function (done) {
         width: 200,
         skipOnEnlargement: false,
         rename: {
-          suffix: '__bu',
+          suffix: '_bu',
           extname: '.jpg',
         },
         quality: 20,
