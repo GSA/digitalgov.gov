@@ -26,7 +26,7 @@ var gulp          = require("gulp"),
 
 
 gulp.task("file-tidy", function (done) {
-  return gulp.src("static/__inbox/*.{png,jpg,jpeg}", { base: "./" })
+  return gulp.src("content/images/_inbox/*.{png,jpg,jpeg}")
     .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
     .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
     .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // remove trailing dashes
@@ -34,17 +34,20 @@ gulp.task("file-tidy", function (done) {
     .pipe(replace(/-\./g, '.'))                   // remove leading dashes
     .pipe(replace(/^-/g, ''))                     // removes dashes from the start of filename
     .pipe(rename(function(path) { // make filename lowercase
-      path.dirname  = changeCase.lowerCase(path.dirname);
       path.basename = changeCase.lowerCase(path.basename);
       path.extname = changeCase.lowerCase(path.extname);
     }))
-    // Updates the original in static/__inbox
-    .pipe(gulp.dest("."))
+    // Updates the original in content/images/_working/
+    .pipe(gulp.dest("content/images/_working/originals/"))
+    .pipe(gulp.dest("content/images/_working/to-process/"))
 });
 
+gulp.task("clean-inbox", ["file-tidy"], function (done) {
+  return del(['content/images/_inbox/**', '!content/images/_inbox', '!content/images/_inbox/__add jpg and png files to this folder__']);
+});
 
-gulp.task("img-variants", ["file-tidy"], function (done) {
-  return gulp.src("static/__inbox/*.{png,jpg,jpeg}")
+gulp.task("img-variants", ["clean-inbox"], function (done) {
+  return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
     // Create responsive variants
     .pipe(responsive({
       '*': [{
@@ -256,12 +259,12 @@ gulp.task("img-variants", ["file-tidy"], function (done) {
       errorOnEnlargement: false,
       silent: true,
     }))
-    .pipe(gulp.dest("static/_processed/"));
+    .pipe(vinylPaths(del))
+    .pipe(gulp.dest("content/images/_working/processed/"));
 });
 
 gulp.task("upload", ["img-variants"], function (done) {
-  return gulp.src("static/_processed/**/*")
-    .pipe(vinylPaths(del))
+  return gulp.src("content/images/_working/processed/**/*")
     .pipe(s3({
       Bucket: 'digitalgov',   //  Required
       ACL:    'public-read'   //  Needs to be user-defined
@@ -269,15 +272,34 @@ gulp.task("upload", ["img-variants"], function (done) {
       // S3 Constructor Options, ie:
       maxRetries: 5
     }))
-    .pipe(gulp.dest("static/_uploaded/"));
+    .pipe(vinylPaths(del))
+    .pipe(gulp.dest("content/images/_working/uploaded/"));
 });
 
 gulp.task("proxy", ["upload"], function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
-  return gulp.src("static/__inbox/*.{png,jpg}")
-    .pipe(vinylPaths(del))
-    .pipe(gulp.dest("static/_done/"))
+  return gulp.src("content/images/_working/originals/*.{png,jpg}")
+    .pipe(responsive({
+      '*': {
+        rename: {
+          suffix: '',
+          extname: '.jpg',
+        },
+        grayscale: true,
+        quality: 1,
+        flatten: true,
+        blur: true,
+      },
+    }, {
+      // Global configuration for all images
+      progressive: true,
+      withMetadata: false,
+      errorOnUnusedConfig: false,
+      skipOnEnlargement: true,
+      errorOnEnlargement: false,
+      silent: true,
+    }))
     .pipe(responsive({
       '*': {
         rename: {
@@ -301,20 +323,24 @@ gulp.task("proxy", ["upload"], function (done) {
     .pipe(gulp.dest("static/img/proxy/"));
 });
 
-gulp.task("cleanup", ["proxy"], function (done) {
-  return del(['static/_uploaded/**', 'static/_processed/**', 'static/_tmp/**', '!static/__inbox/*.txt']);
+gulp.task("done", ["proxy"], function (done) {
+  return gulp.src("content/images/_working/originals/*")
+    .pipe(gulp.dest("content/images/uploaded/"));
+});
+
+gulp.task("cleanup", ["done"], function (done) {
+  return del(['content/images/_working/**']);
 });
 
 gulp.task("process-img", ["cleanup"], function () {});
 
 
 // - - - - - - - - - - - - - - - - -
-// Watch blank becuase asset watch runs its own watch
 gulp.task("watch", function () {
-  gulp.watch("static/__inbox/**/*", ["process-img"])
+  gulp.watch("content/images/_inbox/*.{png,jpg,jpeg}", ["process-img"])
 })
 
 
 // - - - - - - - - - - - - - - - - -
 // Set watch as default task
-gulp.task("default", ["process-img", "watch"])
+gulp.task("default", ["watch", "process-img"])
