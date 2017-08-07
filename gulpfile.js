@@ -30,9 +30,9 @@ gulp.task("file-tidy", function (done) {
     .pipe(vinylPaths(del))
     .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
     .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
-    .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // ?
+    .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // remove trailing dashes
     .pipe(replace(/\.jpeg$/g, '.jpg'))            // .jpeg to .jpg
-    .pipe(replace(/-\./g, '.'))                   // ?
+    .pipe(replace(/-\./g, '.'))                   // remove leading dashes
     .pipe(replace(/^-/g, ''))                     // removes dashes from the start of filename
     .pipe(rename(function(path) { // make filename lowercase
       path.dirname  = changeCase.lowerCase(path.dirname);
