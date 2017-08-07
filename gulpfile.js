@@ -27,7 +27,6 @@ var gulp          = require("gulp"),
 
 gulp.task("file-tidy", function (done) {
   return gulp.src("static/__inbox/*.{png,jpg,jpeg}", { base: "./" })
-    .pipe(vinylPaths(del))
     .pipe(replace(/[ &$_#!?.]/g, '-'))            // special chars to dashes
     .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
     .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // remove trailing dashes
@@ -303,7 +302,7 @@ gulp.task("proxy", ["upload"], function (done) {
 });
 
 gulp.task("cleanup", ["proxy"], function (done) {
-  return del(['static/_uploaded/**', 'static/_processed/**', 'static/_tmp/**']);
+  return del(['static/_uploaded/**', 'static/_processed/**', 'static/_tmp/**', '!static/__inbox/*.txt']);
 });
 
 gulp.task("process-img", ["cleanup"], function () {});
