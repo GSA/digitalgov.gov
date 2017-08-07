@@ -14,16 +14,8 @@ enableRobotsTXT         : false
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
-  - "content/_image-inbox/*"
-  - "content/_image-inbox/**/*"
-  - "static/__inbox/*"
-  - "static/_tmp/*"
-  - "static/_done/**/*"
-  - "static/_done/*"
-  - "static/_processed/*"
-  - "static/__inbox/"
-  - "static/_tmp/"
-  - "static/_processed/"
+  - "content/images/uploaded/*"
+  - "content/images/_working/*"
 # uncomment the following for a dev mode that excludes posts before 2017
 #  - "content/posts/201[0-6]"
 
