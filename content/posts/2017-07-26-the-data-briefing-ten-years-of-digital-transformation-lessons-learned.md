@@ -41,8 +41,7 @@ What focusing on the human experience means is that organizations need to balanc
 
 According to the report results, there is a growing skills gap that "puts transformation efforts at risk" (p. 18). Skill levels continue to decline in areas such as cyber security, privacy, using new technologies, user experience, and human-centered design. From my personal experience in government training and development, I often receive requests for basic spreadsheet and database skills along with elementary data analytics skills. Government employees realize the need to upskill. However, the opportunities to upskill are not always available and distributed unevenly throughout government training. Although it is innovative to talk about adopting [chatbots](https://www.digitalgov.gov/tag/chatbots/) and [blockchain](https://www.digitalgov.gov/tag/blockchain/) technologies, these adoption efforts need to consider the federal employees' skill gaps realities.
 
-IMAGE: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg
-Featured Image: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/featured-301-x-212-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg
+{{< img src="silhouettes-of-business-people-discussing-outdoors-rawpixel-ltd-istock-thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" attr="Rawpixel Ltd/iStock/Thinkstock" >}}
 
 The gap in employee digital skills creates significant barriers to digital transformation efforts. Consider these top five barriers (p. 19):
 
