@@ -29,6 +29,7 @@
     "gulp-gzip": "^1.4.0",
     "gulp-hash": "^4.1.1",
     "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
     "gulp-replace-name": "^1.0.1",
     "gulp-responsive": "^2.8.0",
     "gulp-s3-upload": "^1.6.6",
