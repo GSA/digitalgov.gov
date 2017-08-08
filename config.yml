@@ -14,6 +14,7 @@ enableRobotsTXT         : false
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
+  - "content/images/*"
 # uncomment the following for a dev mode that excludes posts before 2017
 #  - "content/posts/201[0-6]"
 
@@ -30,7 +31,7 @@ params:
   youtube               : ""
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
-  cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
+  cdnurl                : "https://s3.amazonaws.com/digitalgov"
   defaulturl            : "https://digital.gov"
 
 permalinks:

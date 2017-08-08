@@ -1,6 +1,9 @@
 _site/
 public/
+content/images/_working/
+content/images/uploaded/
 .sass-cache/
 .jekyll-metadata
 .ruby-version
 node_modules
+.env

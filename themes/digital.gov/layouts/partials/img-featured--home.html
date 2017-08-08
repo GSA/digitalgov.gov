@@ -1,0 +1,21 @@
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $imgsrc := default "bill-of-rights.jpg" .Params.featured_image.src }}
+{{ $imgBase := replaceRE "\\.(png|jpg)$" "" $imgsrc }}
+{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" $imgsrc }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" $imgsrc }}
+{{ $imgProxy := printf "%s/%s" "img/proxy" $imgsrc }}
+{{ $imgProxy := absURL $imgProxy }}
+{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+
+{{ $.Scratch.Set "imgSuffix" "" }}
+{{ if gt $imgWidth 400 }}
+ {{ $.Scratch.Set "imgSuffix" "_w400" }}
+{{ end }}
+
+<img
+  class="catslide-thumbnail"
+  src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+  alt="{{ .Params.featured_image.alt | default "foo default" }}"
+  title="{{ .Title | markdownify }}" />

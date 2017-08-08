@@ -1,0 +1,43 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
+{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
+{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
+{{ $imgProxy := absURL $imgProxy }}
+{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+
+<div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
+  {{ if isset .Params "title" }}
+    <h6 class='figure-title'>{{ .Get "title" }}</h6>
+  {{ end }}
+  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
+  <img
+    src="{{ if (findRE "^http" (.Get "src")) }}{{ else }}{{ $imgBaseCDN }}_bu.{{ $imgExt }}{{ end }}"
+    {{ if or (.Get "alt") (.Get "caption") }}
+    alt="{{ with .Get "alt"}}{{.}}{{ else }}{{ .Get "caption" }}{{ end }}"
+    {{ end }}
+    srcset="
+    {{ if gt $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
+      {{ if gt $imgWidth 400 }}
+        {{ if gt $imgWidth 600 }}
+          {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,
+      {{ end }}
+      {{ $imgBaseCDN }}_w200.{{ $imgExt }} 200w
+    {{ else }}
+    {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
+    {{ end }}
+      "
+    sizes="(max-width: 600px) 100vw, 600px" />
+  {{ if .Get "link"}}</a>{{ end }}
+  {{ with .Get "attr" }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+<!-- image -->

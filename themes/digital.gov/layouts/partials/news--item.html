@@ -3,9 +3,11 @@
   <div class="cat-container clearfix">
     <div class="featpage-image">
       {{/* get the post url */}}
-      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">
+      <a class="block--full" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">
         {{/* get the post featured image */}}
-        <img class="catslide-thumbnail" src="{{/* .Params.featuredIimage.link */}}//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/06/featured-301-x-212-Artificial-Intelligence-with-molecular-and-circuit-design-Chinnawat-Ngamsom-iStock-Thinkstock-680054348.jpg" alt="{{/* .Params.featuredImage.text */}}" title="{{ .Title | markdownify }}" />
+
+        {{ partial "img-featured--home.html" . }}
+
       </a>
       {{/* get the post url */}}
       <a class="more-link" href="{{ .Permalink }}" rel="nofollow">Read More</a>
