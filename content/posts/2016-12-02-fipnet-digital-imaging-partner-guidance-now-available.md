@@ -1,5 +1,5 @@
 ---
-date: 2016-12-02 2:00:55 -0400
+date: 2016-12-02 14:00:55 -0400
 title: FIPNet Digital Imaging Partner Guidance Now Available
 summary: 'Guidance for Contributing Digital Content to FDsys (govinfo) is now available on FDLP.gov.  Federal Information Preservation Network (FIPNet) digital imaging partners now have guidance documentation for creating and contributing digitally-imaged U.S. Government content to Federal Digital System (FDsys)/govinfo*. The guidance specifications are based on current best practices from the Federal Agency Digitization Guidelines Initiative and'
 authors:
@@ -31,12 +31,7 @@ The Guidance document is provided to encourage libraries and other stakeholders 
 
 If you are planning a digital imaging project, would like to contribute content to FDsys (**govinfo**), or just have questions about this guidance document, please [contact us by email](mailto:PreserveFedInfo@gpo.gov).
 
- 
-
-_***govinfo** is GPO’s beta website that will eventually replace the FDsys website. The availability of this new website has no impact on the content, metadata, preservation repository, application of digital signatures, or any other back end processing of the content. This means all content available through this site is the same content you would get through the FDsys website. Simply put, **govinfo** is the new front door to accessing the same content and it is available at [www.govinfo.gov](https://www.govinfo.gov)._
-
+ _***govinfo** is GPO’s beta website that will eventually replace the FDsys website. The availability of this new website has no impact on the content, metadata, preservation repository, application of digital signatures, or any other back end processing of the content. This means all content available through this site is the same content you would get through the FDsys website. Simply put, **govinfo** is the new front door to accessing the same content and it is available at [www.govinfo.gov](https://www.govinfo.gov)._
 _GPO plans to offer **govinfo** tutorials and webinars when the site is closer to being out of the beta stage. Until then, you can access available recorded webinars through the [FDLP Academy](http://login.icohere.com/public/topics.cfm?cseq=1172). For more information, see [Meet govinfo](https://www.govinfo.gov/features/news/meet-govinfo)._
-
 _This post was originally published on the U.S. Government Publishing Office (GPO)’s Federal Depository Library Program (FDLP) blog._
-
 _See how other agencies are managing digital products and content and utilizing best practices._

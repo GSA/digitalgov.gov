@@ -19,7 +19,7 @@ tag:
   - White House
 ---
 
-Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf), which provides agencies with [requirements, standards, and best practices for federal websites and digital services](({{< relref "resources.md" >}}). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.
+Recently, [OMB](https://www.whitehouse.gov/omb) released M 17-06, [Policies for Federal Agency Public Websites and Digital Services](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf), which provides agencies with [requirements, standards, and best practices for federal websites and digital services]({{< relref "resources.md" >}}). This new policy might have some of us reflecting on our websites and applications to make sure we are in compliance. This task might seem overwhelming, but the following methodology might just serve as a much needed guide.
 
 Recently, [we interviewed Sara Wachter-Boettcher]({{< relref "2016-10-25-expert-insight-on-content-strategy-and-structure-for-future-ready-content.md" >}}), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. She discussed the concept of using the Core Model to design and structure web content and applications. The Core Model allows an organization to design from the inside out, with the primary focus on the on the core tasks its users need to accomplish.
 
@@ -60,7 +60,7 @@ This is done by evaluating the business objectives and user tasks.  Participants
 
 ### **2) Determine Inward Paths**
 
-How are people getting to your site? Use data to support assumptions. This [metrics]((({{< link "categories/metrics" >}})) data should be pulled and evaluated prior to the workshop.
+How are people getting to your site? Use data to support assumptions. This [metrics](({{< link "categories/metrics" >}})) data should be pulled and evaluated prior to the workshop.
 
 ### **3) Determine Core Content**
 

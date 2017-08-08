@@ -34,10 +34,6 @@ Despite the progress in EVs and in data to support their deployment, more work i
 
 ## How to get involved:
 
-Due to space constraints, attendance is invitation only. You can nominate yourself or someone else, who would be an excellent contributor to the discussion or suggest or submit a data set for use by the research community. **[Email the datathon team](mailto:oecc@who.eop.gov?subject=NOMINATION%3A%20White%20House%20EV%20Datathon)**.
-
-_Austin Brown is Assistant Director for Clean Energy and Transportation for the Office of Science and Technology Policy_
-
+Due to space constraints, attendance is invitation only. You can nominate yourself or someone else, who would be an excellent contributor to the discussion or suggest or submit a data set for use by the research community. **[Email the datathon team](mailto:oecc@who.eop.gov?subject=NOMINATION%3A%20White%20House%20EV%20Datathon)**._Austin Brown is Assistant Director for Clean Energy and Transportation for the Office of Science and Technology Policy_
 _Candace Vahlsing is a Senior Policy Advisor for Energy and Climate Change_
-
 _This post was originally published on the [White House OSTP blog](https://www.whitehouse.gov/administration/eop/ostp/blog)._

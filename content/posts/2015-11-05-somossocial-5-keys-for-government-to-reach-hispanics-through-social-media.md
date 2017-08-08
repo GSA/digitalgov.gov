@@ -1,5 +1,5 @@
 ---
-date: 2015-11-05 2:09:46 -0400
+date: 2015-11-05 14:09:46 -0400
 title: '#SomosSocial: 5 Keys for Government to Reach Hispanics Through Social Media'
 summary: 'Hispanics are one of fastest growing demographics in the U.S. But like any demographic, there are important nuances to consider when connecting with this audience. Insight into your audience&rsquo;s motivations, behavior and preferences is key for anyone trying to engage with the public. We know every day that more and more Hispanics are on social'
 authors:
@@ -43,6 +43,4 @@ Here are the top 5 takeaways from the event:
   4. **The demands of our audiences are changing, but we’re poised to meet them.** With limited staff and resources, it can sometimes seem like engaging new audiences is an impossible task. But several agencies demonstrated ways to take small steps toward that goal. It can be as simple as hosting a Twitter chat or answering questions in the language they are asked. Agencies are innovating around how to use their limited resources to maximize their reach. [Check out great examples from the CDC, FEMA and the SBA in the slides from our presenters](https://drive.google.com/a/gsa.gov/file/d/0B_S79lXdhuh0VHc0Q29IY3JCRG8/view?pli=1).
   5. **There’s a need for us to work together more on this!** We plan to continue the conversation, both online using the hashtag [#SomosSocial](https://twitter.com/hashtag/SomosSocial?src=hash), and through more trainings, webinars and future discussions. If you have an idea or want to reach out, [email us](mailto:usapartnerships@gsa.gov).
 
-And don’t forget, you can [view all the presentations](https://drive.google.com/a/gsa.gov/file/d/0B_S79lXdhuh0VHc0Q29IY3JCRG8/view?pli=1) from the event or check out the [video-recording](https://www.youtube.com/watch?v=JRJW8rhPz3M&feature=youtu.be) on the [DigitalGov YouTube channel](https://www.youtube.com/user/HowTogov).
-
-_This article was originally posted on the [USAGov blog](https://blog.usa.gov/%23somossocial-5-keys-for-government-to-reach-hispanics-through-social-media) by_ _Leilani Martinez, Jessica Milcetich, Edgardo Morales and Victoria Wales, who are part of the USAGov Marketing and Outreach Team._
+And don’t forget, you can [view all the presentations](https://drive.google.com/a/gsa.gov/file/d/0B_S79lXdhuh0VHc0Q29IY3JCRG8/view?pli=1) from the event or check out the [video-recording](https://www.youtube.com/watch?v=JRJW8rhPz3M&feature=youtu.be) on the [DigitalGov YouTube channel](https://www.youtube.com/user/HowTogov)._This article was originally posted on the [USAGov blog](https://blog.usa.gov/%23somossocial-5-keys-for-government-to-reach-hispanics-through-social-media) by_ _Leilani Martinez, Jessica Milcetich, Edgardo Morales and Victoria Wales, who are part of the USAGov Marketing and Outreach Team._

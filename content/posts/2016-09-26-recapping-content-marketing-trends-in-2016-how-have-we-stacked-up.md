@@ -1,5 +1,5 @@
 ---
-date: 2016-09-26 2:00:24 -0400
+date: 2016-09-26 14:00:24 -0400
 title: 'The Content Corner: Recapping Content Marketing Trends in 2016—How Have We Stacked Up?'
 summary: 'Earlier this year, it was predicted that content marketing would become even more important due to its ability to enhance not just visibility, but also increase engagement with customers&mdash;who could, in turn, become great promoters of your content. Needless to say, much of our time these days as communicators is spent on developing, distributing, maximizing, and'
 authors:
@@ -85,5 +85,4 @@ In an effort to continue to improve the user experience, [USAJobs is leveraging 
 Additionally, with [40 percent of Americans](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) using smartphones to look up government services or information, [Apps and SMS]({{< relref "2016-07-28-widgets-mobile-apps-and-sms-essential-agency-tools-for-summer-heat-safety-and-hurricane-season.md" >}}) are also essential tools for an agency to consider when seeking to provide the public with digital content.
 
 _Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program]({{< relref "mobile-application-development-program.md" >}}). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
-
 _You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< link "tag/the-content-corner" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._

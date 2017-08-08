@@ -1,5 +1,5 @@
 ---
-date: 2013-05-16 1:04:03 -0400
+date: 2013-05-16 13:04:03 -0400
 title: API Release Kit
 summary: 'These are the elements you should include in your federal API release. Homepage Each of your public APIs needs a page to serve as a hub to provide access to all information and tools associated with it. By using the page&rsquo;s sidebar, footer, and sub pages, you can directly include or link to each of'
 authors:

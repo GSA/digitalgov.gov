@@ -1,5 +1,5 @@
 ---
-date: 2017-06-21 2:58:31 -0400
+date: 2017-06-21 14:58:31 -0400
 title: 'The Data Briefing: The Arrival of Generation Z into the Federal Government. And Generation A?'
 summary: In the last national election, the earliest born members of Generation Z voted for the first time. In 2019, the American workforce will see the influx of tens of millions of Gen Zers who, according to some researchers, will be a stark contrast to the Millennials that will make the largest part of the 2020
 authors:
@@ -36,7 +36,5 @@ Imagine the intersection of Generation Z (which is the most digitally-ready gene
 What does this mean for federal agencies as both trends (Gen Z and Gen A) merge by 2020? How will current federal managers (Baby Boomers, Generation X, and Millennials) adapt to Generation Z behaviors and attitudes? How will federal agencies use augmentation technologies and AI-driven automation in delivering government services? We are only a few short years from 2020 which promises profound changes in the U.S. federal government and for the American public. {{< legacy-img src="CDN/files/2017/06/600-x-400-Generation-Z-Timeline-olm26250-iStock-Thinkstock-498425358.jpg" alt="Generational markers on a timeline, Gen Z at the front." caption="" >}} 
 
 _(All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
-
-_Each week, [The Data Briefing](({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](william.brantley@uspto.gov?subject=The Data Briefing)._
-
-_[Dr. William Brantley](({{< tmp "authors/bbrantley.md" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](william.brantley@uspto.gov?subject=The Data Briefing)._
+_[Dr. William Brantley]({{< tmp "authors/bbrantley.md" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

@@ -63,8 +63,5 @@ The U.S. represents the largest group of reddit users, but Canadians spend the m
   * [Reddit Culture video](http://www.youtube.com/watch?v=fXGs_7Yted8&feature=youtu.be), PBS Off Book Web series
   * [Reddit statistics](http://expandedramblings.com/index.php/reddit-stats/#.U-ps9oBdU0A) July 26, 2014, Expandedramblings.com
 
- 
-
-_Editor&#8217;s Note: For help scheduling and optimizing your AMA, contact <victoria@reddit.com>._
-
+ _Editor&#8217;s Note: For help scheduling and optimizing your AMA, contact <victoria@reddit.com>._
 _**Judith Snyderman** is a multimedia analyst for government agencies._

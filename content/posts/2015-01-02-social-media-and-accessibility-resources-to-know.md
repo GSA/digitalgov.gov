@@ -33,10 +33,9 @@ Today I am highlighting a few of the Federal resources related to enhancing soci
 
 **Training**: Digital Government University offers a series of [on-demand video trainings](https://www.youtube.com/user/HowTogov) that address accessibility and social media challenges.
 
-**Blog**: The [DigitalGov Blog posts about accessibility issues](({{< link "categories/accessibility" >}}). Check out this post on [making accessible videos]({{< relref "2014-06-30-508-accessible-videos-why-and-how-to-make-them.md" >}}). Or learn about the [ADA and Section 508]({{< relref "2014-08-07-celebrate-the-americans-with-disabilities-act-and-section-508.md" >}}) of the Rehabilitation Act. (You can also check out the resources available on [Section508.gov](http://www.section508.gov/) and [ADA.gov](http://www.ada.gov/index.html)).
+**Blog**: The [DigitalGov Blog posts about accessibility issues]({{< link "categories/accessibility" >}}). Check out this post on [making accessible videos]({{< relref "2014-06-30-508-accessible-videos-why-and-how-to-make-them.md" >}}). Or learn about the [ADA and Section 508]({{< relref "2014-08-07-celebrate-the-americans-with-disabilities-act-and-section-508.md" >}}) of the Rehabilitation Act. (You can also check out the resources available on [Section508.gov](http://www.section508.gov/) and [ADA.gov](http://www.ada.gov/index.html)).
 
 **Event**: The Federal Communications Commission Accessibility and Innovation Initiative hosted a [public event, “Accessing Social Media](http://www.fcc.gov/events/accessing-social-media),” on July 17, 2014. In this cross-sector event, presenters highlighted resources, authoring tools, apps, and best practices. Slides are available on the [FCC’s event page](http://www.fcc.gov/events/accessing-social-media).
 
 _What resources have you found helpful in making your HIV-related content accessible for people with disabilities?_
-
 _This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/) by Deb LeBel, a partnership specialist for AIDS.gov._

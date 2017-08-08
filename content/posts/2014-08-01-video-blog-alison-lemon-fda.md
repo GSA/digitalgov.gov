@@ -1,5 +1,5 @@
 ---
-date: 2014-08-01 2:24:54 -0400
+date: 2014-08-01 14:24:54 -0400
 title: 'Video Blog: Alison Lemon, FDA'
 summary: 'We wanted to learn a little more about the Office of Women&#8217;s Health at FDA, where Alison Lemon, the SocialGov Community Knowledge Manager, works. So we sat down with Alison and learned about the interesting social media approach her office has taken, some of the thinking behind their strategy and what she sees as the'
 authors:

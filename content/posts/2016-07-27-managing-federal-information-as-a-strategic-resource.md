@@ -1,5 +1,5 @@
 ---
-date: 2016-07-27 3:00:01 -0400
+date: 2016-07-27 15:00:01 -0400
 title: Managing Federal Information as a Strategic Resource
 summary: 'Summary: Today, OMB is releasing an update to Circular A-130, the Federal Government&rsquo;s governing document for the management of Federal information resources. Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government&rsquo;s governing document for the management of Federal information resources: Circular A-130, Managing Information as a Strategic Resource.'
 authors:
@@ -34,15 +34,7 @@ Today’s update to Circular A-130 gathers in one resource a wide range of polic
 
 This update to Circular A-130 underpins many of the policies and technological advances the Federal Government has undergone thus far. And it reflects the extensive thoughts and [feedback](https://www.whitehouse.gov/blog/2015/10/20/modernizing-federal-information-policy) of the public and stakeholders across government and industry. Going forward, A-130 will continue to be the foundation for government’s ability to innovate, service its citizens, and further secure our nation’s valuable data and information.
 
-Find out more about the revised and updated A-130 Circular via the fact sheet below.
-
-_Tony Scott is the U.S. Chief Information Officer_.
-
-_Howard Shelanski is the Administrator of the Office of Information and Regulatory Affairs_.
-
-_Anne Rung is the U.S. Chief Acquisition Officer_.
-
-_Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}} 
+Find out more about the revised and updated A-130 Circular via the fact sheet below._Tony Scott is the U.S. Chief Information Officer_._Howard Shelanski is the Administrator of the Office of Information and Regulatory Affairs_._Anne Rung is the U.S. Chief Acquisition Officer_._Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}} 
 
 <div>
   <h2 class="rtecenter">
@@ -90,6 +82,4 @@ Among other things, Appendix II summarizes requirements for Federal agencies in 
   * Maintaining an inventory of PII and reducing PII usage to the minimum necessary for the proper performance of authorized agency functions; and,
   * Limiting the creation, collection, use, processing, storage, maintenance, dissemination, and disclosure of PII to that which is legally authorized, relevant, and reasonably deemed necessary for the proper performance of agency functions.
 
-The prior version of Appendix II (which was historically issued as Appendix I) described agency responsibilities for reporting and publication under the Privacy Act of 1974. This OMB guidance is being revised and will be issued as OMB Circular A-108, _Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act_, to be released this year.
-
-_This post was originally published on the White House&#8217;s [Office of Management and Budget (OMB) Blog](https://www.whitehouse.gov/omb/blog)._
+The prior version of Appendix II (which was historically issued as Appendix I) described agency responsibilities for reporting and publication under the Privacy Act of 1974. This OMB guidance is being revised and will be issued as OMB Circular A-108, _Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act_, to be released this year._This post was originally published on the White House&#8217;s [Office of Management and Budget (OMB) Blog](https://www.whitehouse.gov/omb/blog)._

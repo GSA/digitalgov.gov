@@ -1,6 +1,7 @@
 ---
 date: 2017-06-13 10:25:06 -0400
 title: Fractal and Federalist Join the U.S. Web Design Standards
+slug: fractal-and-federalist-join-the-u-s-web-design-standards
 summary: 'We&rsquo;ve recently added two powerful tools to the U.S. Web Design Standards development workflow that allow us to preview, test, and publish the Standards code more quickly and easily. Fractal Fractal is a powerful and flexible framework for building interactive component libraries. It&rsquo;s similar to Jekyll (which we use to publish the Standards site) in'
 authors:
   - shawn-allen
@@ -21,7 +22,7 @@ We’ve recently added two powerful tools to the [U.S. Web Design Standards](htt
 
 [Fractal](http://fractal.build/) is a powerful and flexible framework for building interactive component libraries. It’s similar to [Jekyll](https://jekyllrb.com/) (which we use to publish the Standards site) in one key respect: It operates primarily on simple file naming conventions. Organize your files in a specific way, using the content and data formats it understands, and it will generate a web site automatically.<figure>{{< legacy-img src="https://18f.gsa.gov/assets/blog/web-design-standards/fractal-federalist.png" alt="The design standards homepage rendered in Fractal" >}}<figcaption>
 
-_Check out the Standards in Fractal_</figcaption></figure> 
+_Check out the Standards in Fractal_</figcaption></figure>
 
 ### Why Fractal? {#why-fractal}
 
@@ -81,6 +82,4 @@ Having these public, predictable URLs make it easier for us to create test cases
 
 ## What’s next {#whats-next}
 
-We’re working on a reorganization of the Standards site that will incorporate Fractal’s standalone component previews and code samples so we don’t have to maintain them in two different places. We’re also exploring the possibility of enabling live editing capabilities in Fractal so that we can more quickly create and share test cases for each of our components. We’ve also got more work to do on fully porting our old component templates over to Fractal and better organizing our components, variants, page templates, and related documentation. If you have a suggestion, see something amiss, or just want to say hi, feel free to [file an issue on GitHub](https://github.com/18F/web-design-standards/issues/new), [email our mailing list](mailto:uswebdesignstandards@gsa.gov), or join our [public Slack channel](https://chat.18f.gov/).
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/2017/06/06/fractal-and-federalist-join-the-us-web-design-standards/)._
+We’re working on a reorganization of the Standards site that will incorporate Fractal’s standalone component previews and code samples so we don’t have to maintain them in two different places. We’re also exploring the possibility of enabling live editing capabilities in Fractal so that we can more quickly create and share test cases for each of our components. We’ve also got more work to do on fully porting our old component templates over to Fractal and better organizing our components, variants, page templates, and related documentation. If you have a suggestion, see something amiss, or just want to say hi, feel free to [file an issue on GitHub](https://github.com/18F/web-design-standards/issues/new), [email our mailing list](mailto:uswebdesignstandards@gsa.gov), or join our [public Slack channel](https://chat.18f.gov/)._This post was originally published on the [18F blog](https://18f.gsa.gov/2017/06/06/fractal-and-federalist-join-the-us-web-design-standards/)._

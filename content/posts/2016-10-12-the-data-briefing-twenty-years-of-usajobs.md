@@ -1,5 +1,5 @@
 ---
-date: 2016-10-12 1:00:42 -0400
+date: 2016-10-12 13:00:42 -0400
 title: 'The Data Briefing: Twenty Years of USAJOBS'
 summary: I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20th anniversary of USAJOBS. 1) What are the three big lessons learned from 20 years of building and managing USAJOBS? I think one of the greatest benefits of being an Agile program is that we are constantly learning. In
 authors:
@@ -53,5 +53,4 @@ We are interested in finding new, innovative technologies to solve problems and 
 Looking forward to seeing what the next 20 years brings for USAJOBS!
 
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._
-
 _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. You can find out more about his personal work in open data, analytics, and related topics at [BillBrantley.com](http://billbrantley.com). All opinions are his own and do not reflect the opinions of the USPTO or GSA._

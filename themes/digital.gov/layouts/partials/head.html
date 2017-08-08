@@ -1,6 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
 <head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -86,6 +85,10 @@
   <link rel='stylesheet' href='{{ "css/shortcodes.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/custom.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/style-front-end.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
+
+  <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/front-matter.css" | absURL }}' type='text/css' media='all' />
 
   {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
 
@@ -106,8 +109,9 @@
   <!-- / Google Analytics by MonsterInsights -->
 
   {{/* TODO: Do we need all these jquery? */}}
-  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-  <script type='text/javascript' src='https://www.digitalgov.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+  <!-- jQuery ver=1.12.4 -->
+  <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
+  <script type='text/javascript' src='{{ "js/jquery-migrate.min.js" | absURL }}'></script>
 
   {{/* TODO: Audit javascript */}}
   <script type='text/javascript' src='{{ "js/sitesusagov.js" | absURL }}'></script>

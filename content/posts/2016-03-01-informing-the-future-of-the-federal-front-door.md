@@ -130,6 +130,4 @@ GSA has identified several opportunities to improve the public’s interactions 
 
   * Define standard schema and APIs to allow seamless sharing of personal information from one agency to another when authorized—and to limit it to only the information that is necessary
   * Develop tools to act as middleware between agencies—so we can develop this once instead of every time two agencies need to share information
-  * Create or improve existing eligibility-checking tools
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Colin MacArthur, Carolyn Dew, John Yuda, 18F team members, and Michelle Chronister, formerly USAgov._
+  * Create or improve existing eligibility-checking tools_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Colin MacArthur, Carolyn Dew, John Yuda, 18F team members, and Michelle Chronister, formerly USAgov._

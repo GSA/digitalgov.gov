@@ -1,5 +1,5 @@
 ---
-date: 2013-07-23 3:30:39 -0400
+date: 2013-07-23 15:30:39 -0400
 title: 'Trends on Tuesday: Uprise of SMS Marketing'
 summary: 'MobileMarketingWatch recently published an article on how the SMS marketing world is changing. Due to its popularity, SMS has evolved into one of the most effective mobile marketing strategies. Improves Relevance for All: Marketers tailor campaigns to a variety of interests in order'
 authors:

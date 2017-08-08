@@ -1,5 +1,5 @@
 ---
-date: 2014-06-12 2:29:54 -0400
+date: 2014-06-12 14:29:54 -0400
 title: Three Ways Agencies Are Using Social Media in Mobile Products
 summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile phones&mdash;about 3 hours per day&mdash;has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies&rsquo; mobile apps, not just websites, and social media outlets. To take advantage of new opportunities for consumer'
 authors:
@@ -42,8 +42,5 @@ With [Save Our Citrus](https://itunes.apple.com/us/app/save-our-citrus/id5113050
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/whale-1.png" alt="250-x-448-NOAA-whale-image" >}}The [Dolphin and Whale 911 app](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/) from the National Oceanic and Atmospheric Administration (NOAA) showcases crowdsourcing by enabling users to take and share photos of marine animals (including corresponding GPS coordinates) with marine mammal stranding network organizations. Organizations are then notified of the injured animal and are able to take the corresponding measures in aiding it.
 
-What does this mean for federal agencies? The time to move forward with mobile strategies that involve users with social media has arrived, and the [Mobile Gov](({{< link "categories/mobile" >}} "Mobile") and [Social Media]({{< relref "social-media.md" >}} "Social Media") Communities of Practice are here to help!
-
-_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
-
+What does this mean for federal agencies? The time to move forward with mobile strategies that involve users with social media has arrived, and the [Mobile Gov]({{< link "categories/mobile" >}} "Mobile") and [Social Media]({{< relref "social-media.md" >}} "Social Media") Communities of Practice are here to help!_**Zeshan Khan**, a rising junior enrolled in Virginia Tech’s Pamplin College of Business, is striving towards a degree in Business Information Systems. **Katie Steffy**, a rising senior at Virginia Tech, is earning a double degree in Dairy Science and Political Science with an emphasis in Legal Studies. Both are interning with the Mobile Gov team this summer._
 _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

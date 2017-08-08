@@ -83,8 +83,6 @@ What is your strategy for selecting devices to test? Give us your comments on th
   * [8 Ways To Test A Mobile Site on Different Mobile Devices](http://www.mobilejoomla.com/mobile-joomla-blog/159-8-ways-to-test-a-mobile-site-on-different-mobile-devices.html)
   * [Testing Mobile Devices is About More than Vendors, It&#8217;s About Device Versions](http://www.cmswire.com/cms/customer-experience/testing-mobile-devices-is-about-more-than-vendors-its-about-device-versions-021705.php)
   * [The Crowd May Have Answers, but Agencies Must Define The Problem](http://www.nextgov.com/emerging-tech/2013/08/crowd-may-have-answers-agencies-must-define-problem/69017/?oref=nextgov_today_nl)
-  * [Using Crowdsourcing in Government](http://www.businessofgovernment.org/report/using-crowdsourcing-government)
-
-_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
+  * [Using Crowdsourcing in Government](http://www.businessofgovernment.org/report/using-crowdsourcing-government)_The Mobile Tester Newsletter is sent bi-monthly to the volunteer testers in our [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. To receive our next edition, [sign up to become a tester](https://docs.google.com/a/gsa.gov/spreadsheet/viewform?formkey=dGRJTFdQdjQ5VXNHUHFMbmNzUExhNnc6MQ#gid=0)._
 
  

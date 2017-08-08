@@ -1,5 +1,5 @@
 ---
-date: 2015-12-07 1:29:31 -0400
+date: 2015-12-07 13:29:31 -0400
 title: 'The EPA&#8217;s New Environmental Digital Services Marketplace'
 summary: 'Over the past year, the Environmental Protection Agency (EPA) has undertaken a broad initiative to transform the way it delivers digital services. We&rsquo;ve been working hand-in-hand with the EPA to make this transformation a success by supporting such programs as eManifest. Working with 18F'
 authors:
@@ -20,6 +20,4 @@ Modeled after 18F’s [Agile Delivery Services marketplace](https://18f.gsa.gov/
 
 The EPA is looking to distinguish this marketplace from previous efforts by evaluating vendors based on their expertise in environmental business issues and their pattern of environmentally sustainable behavior. In October, when we [announced our Digital Economy consulting practice](https://18f.gsa.gov/2015/10/07/digital-economy-practice/), we talked about the potential benefits of combining industry expertise with digital expertise to achieve policy goals, and we’re excited that the EPA is trying this with the environment.
 
-We’re excited to see how the EPA’s new Environmental Digital Services marketplace initiative unfolds, and we encourage all interested vendors to [respond to the RFI](https://www.fbo.gov/index?s=opportunity&mode=form&id=318612f638d28fae5675eef7bcc3dfc3&tab=core&_cview=0).
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Chris Cairns, an 18F team member._
+We’re excited to see how the EPA’s new Environmental Digital Services marketplace initiative unfolds, and we encourage all interested vendors to [respond to the RFI](https://www.fbo.gov/index?s=opportunity&mode=form&id=318612f638d28fae5675eef7bcc3dfc3&tab=core&_cview=0)._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Chris Cairns, an 18F team member._

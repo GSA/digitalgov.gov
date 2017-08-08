@@ -9,78 +9,16 @@
   <div class="entry">
     <div class="my-excerpt">
       <h2 class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h2>
-      <div class="meta">
-        <ul>
 
-        {{/*
-          ======================================
-          AUTHORS
-          ======================================
-        */}}
+      {{ partial "post-meta" . }}
 
-          {{ if (not (isset .Params "authors")) | or (eq .Params.authors "") }}
-          {{ else }}
-            <li class="meta-author">
-              <span class="meta-author">By
-                {{ $_authors := .Params.authors }}
-                {{ $length := $_authors | len }}
-                {{ range $i, $e := $_authors }}
-                  {{/* TODO: Fetch author metadata
-                  {{ range $_author := where $.Site.Data.people "Params.uid" $e }}
-                   foooo
-                  {{ end }}
-                  */}}
-                  {{ if lt (add $i 1) $length }}
-                    <a href="{{ (printf "authors/%s/" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>,
-                  {{ else }}
-                    <a href="{{ (printf "authors/%s/" ($e | urlize)) | absURL }}" title="Posts by {{ $e }}" class="author url fn" rel="author">{{ $e }}</a>
-                  {{ end }}
-                {{ end }}
-              </span>
-            </li>
-          {{ end }}
-
-          <li class="meta-date">
-            <a href="{{ .Permalink }}" rel="nofollow" title="{{ .Title | markdownify }}">{{ .Date.Format "January 02, 2006" }}</a>
-          </li>
-
-          {{/*
-            ======================================
-            CATEGORIES
-            ======================================
-          */}}
-
-          {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
-          {{ else }}
-            <li class="meta-cats"> {{/* meta-cats! */}}
-              {{ $_cats := .Params.categories }}
-              {{ $length := $_cats | len }}
-              {{ range $i, $e := $_cats }}
-                {{ $slug := $e | urlize }}
-                {{ $title := index $.Site.Data.categories $slug }}
-                {{ $link := printf "categories/%s/" $slug }}
-                {{ if lt (add $i 1) $length }}
-                  <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>,
-                {{ else }}
-                  <a href="{{ $link | absURL }}" rel="category tag">{{ $title }}</a>
-                {{ end }}
-              {{ end }}
-            </li>
-          {{ end }}
-
-          {{/* TODO: Remove reply count */}}
-          {{/*
-          <li class="meta-comments">
-            <a href="https://www.digitalgov.gov/2017/04/20/oip-seeks-your-participation-in-the-development-of-the-national-foia-portal/#comments" rel="bookmark" title="Comments for OIP Seeks Your Participation in the Development of the National FOIA Portal">2 Replies</a>
-          </li>
-          */}}
-        </ul>
-      </div><!-- .meta -->
       <p>{{ .Summary }}</p>
       <p class="readmore"><a class="more-link" href="{{ .Permalink }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
     </div>
 
+    {{/* What is this? Can we remove it?
     <p class="readmore cols"><a href="{{ .Permalink }}" rel="nofollow" title="{{ .Title }}">Read More &rarr;</a></p>
+    */}}
 
   </div><!-- .entry -->
   <div style="clear:both;"></div>

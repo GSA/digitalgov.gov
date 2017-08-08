@@ -1,5 +1,5 @@
 ---
-date: 2016-09-15 1:00:46 -0400
+date: 2016-09-15 13:00:46 -0400
 title: 'Analytics Success Series: USAJOBS'
 summary: 'USAJOBS&rsquo; Analytics Success: using analytics to create accurate testing strategies. Accurate testing strategies are crucial to ensure quality products. Hi-fidelity approaches ensure QA efforts are testing in a true-to-life manner, similar to real-world users. Inaccurate, lo-fidelity testing can miss situational bugs that become showstoppers in production. USAJOBS is leveraging the Digital Analytics Program (DAP) to'
 authors:
@@ -38,8 +38,5 @@ In preparation for the next release, the testing lead briefed the team on inaccu
 
 Through the implementation of DAP, the USAJOBS Program Office has improved its ability to test <a href="https://www.usajobs.gov/" target="_blank">USAJOBS.gov</a>. Testing is now more thorough and realistic, resulting in a better-tested site. The impact of this improved approach to the testing process is a reduced number of bugs identified post-release. DAP has allowed for a more thorough, rigorous testing strategy which has had a very positive impact on <a href="https://www.usajobs.gov/" target="_blank">USAJOBS.gov</a>.
 
- 
-
-_Cory Benavente is an OPM PMO Team Member and Dywane Boyd is the Testing Coordinator in the OPM Office of the Chief Information Officer._
-
+ _Cory Benavente is an OPM PMO Team Member and Dywane Boyd is the Testing Coordinator in the OPM Office of the Chief Information Officer._
 _This post is part of an ongoing series of case-studies highlighting how the federal government is using the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to improve websites for the end-user. If you have an analytics success story to share, or want to get your federal government site participating in DAP, please contact us via [email](mailto:dap@support.WHATEVER)._

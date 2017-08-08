@@ -23,7 +23,7 @@ tag:
 
 Government websites need to address the needs of diverse audiences. Although translations are a first step towards engaging non-English speaking audiences, the intended audience may be alienated if information is not presented in a culturally relevant way.
 
-The National Cancer Institute (NCI) engaged in user experience research in order to better serve the U.S. Latino population. The research eventually led to the creation of Spanish language [personas](({{< link "tag/personas" >}}) that NCI uses to design programs, products, and services that are culturally and linguistically appropriate. These personas can also be used by health organizations outside of NCI.
+The National Cancer Institute (NCI) engaged in user experience research in order to better serve the U.S. Latino population. The research eventually led to the creation of Spanish language [personas]({{< link "tag/personas" >}}) that NCI uses to design programs, products, and services that are culturally and linguistically appropriate. These personas can also be used by health organizations outside of NCI.
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-223-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="NCI Spanish Language Personas Inform the Development of Healthcare Websites pdf Javier profile" >}}
 
@@ -83,5 +83,4 @@ Each persona contains details about a typical user’s goals, motivations, backg
 Although the personas were created to represent the needs of Cancer.gov/espanol visitors, they can also be used for other health websites. The language preferences, cultural values, co-browsing behaviors, health beliefs, acculturation levels, and user needs are the same across many types of websites that provide medical or health information.
 
 _Information about this case study was provided by an [article for User Experience Magazine](http://uxpamagazine.org/spanish-language-personas/), written by Silvia Inéz Salazar, Audience Research and Informatics Laboratory Manager at NCI, and Jennifer Romano Bergstrom, Ph.D., User Experience Research Leader at Fors Marsh Group. Salazar and Bergstrom also presented this information at the [User Focus 2014 conference](http://2014.userfocus.org/), and [slides from their presentation are available](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites_by_Salazar_RomanoBergstrom_October-17-2014.pdf "Spanish Language Personas Inform the Development of Healthcare Websites PDF")._
-
-_New [UX content](({{< link "categories/ux" >}}) is always being added to DigitalGov, and our [Usability Starter Kit]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) provides a list of UX tools._
+_New [UX content]({{< link "categories/ux" >}}) is always being added to DigitalGov, and our [Usability Starter Kit]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}) provides a list of UX tools._

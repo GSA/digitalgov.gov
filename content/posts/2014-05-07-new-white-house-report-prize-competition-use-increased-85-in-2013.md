@@ -1,5 +1,5 @@
 ---
-date: 2014-05-07 1:30:07 -0400
+date: 2014-05-07 13:30:07 -0400
 title: 'New White House Report: Prize Competition Use Increased 85% in 2013'
 summary: We are thrilled to share an update from our competition colleagues at the White House Office of Science and Technology Policy. The third annual comprehensive report detailing the use of prizes and
 authors:

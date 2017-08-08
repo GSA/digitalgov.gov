@@ -22,9 +22,7 @@ tag:
 
 More than twenty people have already registered to use it, one competition is live and a couple more will launch within the month. The tool is built to be a seamless experience for users who start on challenge.gov and then find themselves in this interactive component. Challenge.gov also lists competitions that are hosted on specialized platforms and on agency sites, in addition to the &#8220;sites&#8221; platform.
 
-**This ideation crowdsourcing tool comes packed with features to help federal agencies create, launch, and manage public prize competitions, including the following nine functions:**
-
-_(Click on the hyperlink to be taken directly to that discussion point in the webinar recording, or jump to the noted time in the embedded video below)_
+**This ideation crowdsourcing tool comes packed with features to help federal agencies create, launch, and manage public prize competitions, including the following nine functions:**_(Click on the hyperlink to be taken directly to that discussion point in the webinar recording, or jump to the noted time in the embedded video below)_
 
   * **Post your challenge title, tagline, details, and rules** (2:02)
   

@@ -1,5 +1,5 @@
 ---
-date: 2016-01-21 1:21:09 -0400
+date: 2016-01-21 13:21:09 -0400
 title: Making Your Agency Apps Secure
 summary: 'It&rsquo;s Saturday night: Do you know what your mobile app is doing? Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the'
 authors:
@@ -24,7 +24,7 @@ It’s Saturday night: Do you know what your mobile app is doing?
 
 Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the settings on your device. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Mobile-security-and-antivirus-protection-concept-scanrail-iStock-Thinkstock-177305974.jpg" alt="Mobile security and antivirus protection concept" caption="" >}} 
 
-Security and privacy are part of the [six Mobile User Experience Guidelines]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}) developed by the [MobileGov Community of Practice](({{< link "categories/mobile" >}}). A recent [webinar](https://www.youtube.com/watch?v=2gs72FMs44E) dove further into guideline six: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems.
+Security and privacy are part of the [six Mobile User Experience Guidelines]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}) developed by the [MobileGov Community of Practice]({{< link "categories/mobile" >}}). A recent [webinar](https://www.youtube.com/watch?v=2gs72FMs44E) dove further into guideline six: Develop security and privacy guidelines with regard to what the app does and how it protects user data and government systems.
 
 Vincent Sritapan, program manager for the Department of Homeland Security Advanced Research Projects Agency (HSARPA), is responsible for overseeing [DHS Science and Technology&#8217;s](http://www.dhs.gov/science-and-technology/) Mobile Security research and development projects. The projects are aimed at accelerating the adoption of secure mobile technologies by government and industry.
 

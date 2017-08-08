@@ -1,5 +1,5 @@
 ---
-date: 2013-11-14 4:29:12 -0400
+date: 2013-11-14 16:29:12 -0400
 title: NOAA Release Mako Now on iOS
 summary: The NOAA Release Mako App was created for fisherman to report their releases of Shortfin Mako sharks while on the water. In order to offer the tool on
 authors:

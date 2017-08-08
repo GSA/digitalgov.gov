@@ -1,5 +1,5 @@
 ---
-date: 2014-08-22 1:00:36 -0400
+date: 2014-08-22 13:00:36 -0400
 title: 'Actionable Web Analytics: A Three-Step Process'
 summary: As Web analysts, your customers and their needs can vary greatly. One minute you are leading an analysis that will influence strategic decisions, the next you are distributing reports to folks who will never use them, but just have to have them. Sometimes, in the darkest hours, it can become more
 authors:
@@ -71,6 +71,4 @@ Not only do you need to ensure the customer takes whatever actions are defined i
 
 The more you reinforce the need for action, the more you will enhance the perception of your Web analytics program.
 
-So, the next time you are approached by an individual, program, or office, reference this three-step process and remember how powerful your work can be!
-
-_**Sam Bronson** is the Web Analytics Program Manager at the U.S. Environmental Protection Agency (EPA)._
+So, the next time you are approached by an individual, program, or office, reference this three-step process and remember how powerful your work can be!_**Sam Bronson** is the Web Analytics Program Manager at the U.S. Environmental Protection Agency (EPA)._

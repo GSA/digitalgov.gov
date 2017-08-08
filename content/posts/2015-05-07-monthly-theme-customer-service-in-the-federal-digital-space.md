@@ -1,5 +1,5 @@
 ---
-date: 2015-05-07 2:42:42 -0400
+date: 2015-05-07 14:42:42 -0400
 title: 'Monthly Theme: Customer Service in the Federal Digital Space'
 summary: '&ldquo;The customer is king.&rdquo; &ldquo;The customer is always right.&rdquo; Regardless of your feelings on these age-old customer service adages, the fact remains: we&rsquo;re all serving someone. No matter what corner of the federal digital space you occupy, you are connecting with people, and the outcome of those connections matters. To recognize the importance of these'
 authors:
@@ -22,7 +22,7 @@ To recognize the importance of these relationships, DigitalGov is focusing on cu
 
 There are numerous ways to look at the customer experience and  many digital professionals may ask themselves, how is it different from user experience? In fact, one of [our most popular articles of 2014]({{< relref "2014-12-31-countdown-to-2015-with-our-most-popular-articles-this-year.md" >}}) was [User Experience (UX) vs. Customer Experience (CX): What’s the Dif?]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}) Start with this article as you whet your CX whistle for this month, and learn more about how the two disciplines relate to each other.
 
-[This month](({{< link "categories/monthly-theme" >}}) will be packed with articles, including pieces on:
+[This month]({{< link "categories/monthly-theme" >}}) will be packed with articles, including pieces on:
 
   * [Understanding how UX and CX professionals collaborate]({{< relref "2015-05-08-customer-experience-and-user-experience-professionals-a-match-made-in-heaven.md" >}} "Customer Experience and User Experience Professionals – A Match Made in Heaven!")
   * [Improving customer interview techniques]({{< relref "2015-05-26-5-crucial-steps-for-conducting-an-effective-customer-interview.md" >}}) and [survey response rates]({{< relref "2015-05-20-top-5-ways-to-increase-email-survey-responses.md" >}})

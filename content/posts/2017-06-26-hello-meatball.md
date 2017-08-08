@@ -1,16 +1,16 @@
 ---
-date: 2017-06-26 1:01:02 -0400
+date: 2017-06-26 13:01:02 -0400
 slug: oh-hai-its-me
 title: 'Today: This is one large, &#8220;world&#8221; & we won&#8217;t say it&#8217;s &#8216;flat&#8217;!'
 summary: 'Lorem ipsum dolor sit amet, Email to Jeremy elit. Sed congue aliquet tincidunt. Lorem ipsum dolor sit amet, Email to Jeremy'
 authors:
-  - admin
+  - jeremyzilar
 featured-image: cat-mica.jpg
 categories:
   - Uncategorized
 ---
 
-Here's [a link to a tag page](({{< link "tag/multilingual" >}}).
+Here's [a link to a tag page]({{< link "tag/multilingual" >}}).
 
 {{< legacy-img src="http://localhost/wp/wp-content/uploads/2017/06/cat-mica.jpg" alt="ALT This is my Cat Mica. She is a nice cat." caption="Caption This is my Cat Mica. She is a nice cat." >}}
 

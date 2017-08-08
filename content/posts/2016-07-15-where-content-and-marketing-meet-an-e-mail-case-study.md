@@ -49,5 +49,4 @@ Most importantly, a successful message requires collaboration and open communica
 Learn more about best practices for e-mail marketing messages from our [Bilingual Style Guide](https://www.usa.gov/style-guide/writing-for-marketing#item-212417).
 
 _Victoria Wales and Darren B. Lurie are members of the USAGov Content and Marketing Teams._
-
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/)._

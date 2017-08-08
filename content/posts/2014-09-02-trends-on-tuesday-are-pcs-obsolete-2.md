@@ -1,5 +1,5 @@
 ---
-date: 2014-09-02 2:05:01 -0400
+date: 2014-09-02 14:05:01 -0400
 title: 'Trends on Tuesday: Are PCs Obsolete?'
 summary: 'We&#8217;ve seen (and experienced) a dramatic growth in mobile consumption in recent years. From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what&rsquo;s happening on existing platforms, according to'
 authors:
@@ -16,7 +16,7 @@ tag:
 
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 
 
-We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years](({{< link "tag/trends-on-tuesday" >}}). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
+We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years]({{< link "tag/trends-on-tuesday" >}}). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
 
   * Mobile app and mobile Web usage have increased by 44% and 38%, respectively
   * Mobile&#8217;s share of digital media time spent is 60%, up from 50% the previous year

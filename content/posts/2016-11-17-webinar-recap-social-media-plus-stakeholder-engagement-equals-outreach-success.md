@@ -1,5 +1,5 @@
 ---
-date: 2016-11-17 2:00:46 -0400
+date: 2016-11-17 14:00:46 -0400
 title: 'Webinar Recap: Social Media + External Affairs = Outreach Success'
 summary: 'Summary: How to leverage your resources to reach Spanish-dominant Hispanics online. A recent DigitalGov University (DGU) webinar provided an introduction to the intersection of two teams with different audiences reaching consensus on goals to maximize insight and outreach effectiveness. Social Media Outreach Goals What does social media outreach success look like? Success is when agencies'
 authors:
@@ -100,82 +100,41 @@ Social media is always evolving, but planning accordingly should always be part 
 
 ## Audience Q&A
 
-**In your experience, which social media activity have you found little success in that you were surprised by?**
+**In your experience, which social media activity have you found little success in that you were surprised by?**_Thunderclap, they&#8217;re a feel good tool, but the lift is too high to set up for its ROI._
 
-_Thunderclap, they&#8217;re a feel good tool, but the lift is too high to set up for its ROI._
+**When you&#8217;re the only one in your agency that happens to speak Spanish, and you&#8217;re asked to review content and send it up to management to approve but they might not necessarily speak Spanish. How do you handle this?**_Having your translation reviewed and then adapted to English is usually the best way to communicate it up the chain. Having an editor you can rely on that is familiar with your content is key. Sending this with time ahead of having to publish it definitely helps. Get buy-in from leadership and establish trust with management that gives them the confidence to rely on your expertise for accuracy. Also, identify one or two champions that will promote your content initially and will help build your case for translating content or social media activities. A tweet that has 10 retweets for example, shows evidence for what’s working that you can share._
 
-**When you&#8217;re the only one in your agency that happens to speak Spanish, and you&#8217;re asked to review content and send it up to management to approve but they might not necessarily speak Spanish. How do you handle this?**
+**What&#8217;s a good strategy for reaching Hispanics online?**_Depends on the audience and whom you&#8217;re serving. Video is very attractive for example; consider the channels you&#8217;ll be sharing those on. A large group of Hispanic millennials also prefer content in English, but there are many still that prefer Spanish. Should you consider Facebook first, Twitter? Learn more about the audience you want to reach._ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
 
-_Having your translation reviewed and then adapted to English is usually the best way to communicate it up the chain. Having an editor you can rely on that is familiar with your content is key. Sending this with time ahead of having to publish it definitely helps. Get buy-in from leadership and establish trust with management that gives them the confidence to rely on your expertise for accuracy. Also, identify one or two champions that will promote your content initially and will help build your case for translating content or social media activities. A tweet that has 10 retweets for example, shows evidence for what’s working that you can share._
-
-**What&#8217;s a good strategy for reaching Hispanics online?**
-
-_Depends on the audience and whom you&#8217;re serving. Video is very attractive for example; consider the channels you&#8217;ll be sharing those on. A large group of Hispanic millennials also prefer content in English, but there are many still that prefer Spanish. Should you consider Facebook first, Twitter? Learn more about the audience you want to reach._ {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
-
-**How do you measure success with Twitter chats?**
-
-_Define your goals first. Are you trying to raise awareness of your handle first and foremost? Or of your topic? Or both? Drive people to a landing page? Increase awareness of a product? Or even build relationships? Relationships are key for future social media events, so this is always a good objective to have. Find out who are influencers and what conversations are taking place around your topic. Social media is a conversation, do some social listening too._
-
+**How do you measure success with Twitter chats?**_Define your goals first. Are you trying to raise awareness of your handle first and foremost? Or of your topic? Or both? Drive people to a landing page? Increase awareness of a product? Or even build relationships? Relationships are key for future social media events, so this is always a good objective to have. Find out who are influencers and what conversations are taking place around your topic. Social media is a conversation, do some social listening too._
 _Being nimble and flexible yields high returns. Jumping on Twitter chats that are taking place makes other accounts aware that you exist, and creates momentum for your account and outreach efforts._
 
-**How do you educate an SME about social media and its value? When none of them are on social media.**
-
-_Sharing with them the possibility of reaching a large amount of people, this helps. Data always makes a good case as to why something works. Create a partnership, the subject matter relies on the social media expert, they get their messages across more channels, you engage your audience. It&#8217;s a win-win._
-
+**How do you educate an SME about social media and its value? When none of them are on social media.**_Sharing with them the possibility of reaching a large amount of people, this helps. Data always makes a good case as to why something works. Create a partnership, the subject matter relies on the social media expert, they get their messages across more channels, you engage your audience. It&#8217;s a win-win._
 _Social media also provides insight and direct input into your content. That is very valuable when you&#8217;re interested in knowing how people are responding to your messages._
 
-**Any suggestions on how to specifically target Spanish language audiences, such as Mexicans for example?**
-
-_Research what areas have higher concentrations of that population. What wording is used in that community, reach out and learn more. Learn more about the behaviors of those audiences, are they on social media? What social media platforms do they use?  Find out what influencers are effective in those areas. Find champions in those communities. There is a lot of research on the web including the Pew Research Center as well as many other resources available to agencies._
-
+**Any suggestions on how to specifically target Spanish language audiences, such as Mexicans for example?**_Research what areas have higher concentrations of that population. What wording is used in that community, reach out and learn more. Learn more about the behaviors of those audiences, are they on social media? What social media platforms do they use?  Find out what influencers are effective in those areas. Find champions in those communities. There is a lot of research on the web including the Pew Research Center as well as many other resources available to agencies._
 _There are several interagency listservs and communications managers across government that have experience with these efforts, reach out and discuss your ideas with others._
-
 _Consider positioning your experiment as a pilot. Your learn, you iterate, and then you implement accordingly._
 
- **Are there guidelines for how to set up your agency&#8217;s communications efforts?**
+ **Are there guidelines for how to set up your agency&#8217;s communications efforts?**_Every agency sets this up differently and depends on the size of your agency too and how you want to organize your efforts. There are often several stakeholders involved. Consider your bandwidth first and what you can realistically achieve. Medicare recipients years ago were not on Facebook, and now they are and sharing content; research is everything. Start where your audience is._
 
-_Every agency sets this up differently and depends on the size of your agency too and how you want to organize your efforts. There are often several stakeholders involved. Consider your bandwidth first and what you can realistically achieve. Medicare recipients years ago were not on Facebook, and now they are and sharing content; research is everything. Start where your audience is._
+**In terms of building social media presences amongst Spanish language communities, or Low English Proficiency (LEP) communities, how do increase engagement without generating negative feedback from English speaking audiences along the way?**_Our job at Healthcare.gov was to follow our mission, which meant reaching people in the United States, educating them and getting them enrolled. There will always be critics and questions as to why you’re doing outreach in different languages. There were also health literacy challenges we needed to address, so we made sure that materials were well done. Stay focused on the goal, CuidadodeSalud.gov’s goal was to educate and raise awareness._
 
-**In terms of building social media presences amongst Spanish language communities, or Low English Proficiency (LEP) communities, how do increase engagement without generating negative feedback from English speaking audiences along the way?**
+**Which social media platforms are most likely to reach Hispanics and have good ROI?**_Always consider your target audience, whom do you want to reach and why? What is your goal and objectives? Facebook tends to skew for older demographics, younger audiences are on Instagram and Snapchat. Twitter nowadays can be leveraged more to communicate with partners and media. Social media platforms evolve in step with audience behavior._
 
-_Our job at Healthcare.gov was to follow our mission, which meant reaching people in the United States, educating them and getting them enrolled. There will always be critics and questions as to why you’re doing outreach in different languages. There were also health literacy challenges we needed to address, so we made sure that materials were well done. Stay focused on the goal, CuidadodeSalud.gov’s goal was to educate and raise awareness._
+**Is it effective to have a Twitter feed on your homepage or site in general?**_USA.gov hasn&#8217;t experienced success with it in terms of driving traffic to Twitter, for example. While CuidadodeSalud.gov has not experimented with this, it&#8217;s noted that it is a good way to inform your visitors of online events and other timely information. You also have to be sure to keep tweeting regularly so the feed looks up to date._
 
-**Which social media platforms are most likely to reach Hispanics and have good ROI?**
-
-_Always consider your target audience, whom do you want to reach and why? What is your goal and objectives? Facebook tends to skew for older demographics, younger audiences are on Instagram and Snapchat. Twitter nowadays can be leveraged more to communicate with partners and media. Social media platforms evolve in step with audience behavior._
-
-**Is it effective to have a Twitter feed on your homepage or site in general?**
-
-_USA.gov hasn&#8217;t experienced success with it in terms of driving traffic to Twitter, for example. While CuidadodeSalud.gov has not experimented with this, it&#8217;s noted that it is a good way to inform your visitors of online events and other timely information. You also have to be sure to keep tweeting regularly so the feed looks up to date._
-
-**Do you tweet only during the day or after hours?**
-
-_Remember your audience. Mix it up. Consider east coast, central time, west coast, you can also use tools to schedule posts. Some tools are free. Tweet at least 3-6 times a day to establish the account._
-
+**Do you tweet only during the day or after hours?**_Remember your audience. Mix it up. Consider east coast, central time, west coast, you can also use tools to schedule posts. Some tools are free. Tweet at least 3-6 times a day to establish the account._
 _Keeping up with trends and engagement. Making sure you are responsive to direct messages, mentions are helpful. Metrics or analytics of your channels is critical to finding out when your posts are performing best._
-
 _Depending on your agency&#8217;s social media policy, always respond to questions or comments you receive from the public._ 
 
-**Which entities do you recommend working with in Puerto Rico?**
+**Which entities do you recommend working with in Puerto Rico?**_It depends on the age bracket you&#8217;re trying to reach. Connect with other government agencies that are working there, such as the CDC with Zika awareness, to find out whom they&#8217;re partnering with. On social media, follow hashtags and trends that are popular there, as well as geo-target your Facebook posts for PR._
 
-_It depends on the age bracket you&#8217;re trying to reach. Connect with other government agencies that are working there, such as the CDC with Zika awareness, to find out whom they&#8217;re partnering with. On social media, follow hashtags and trends that are popular there, as well as geo-target your Facebook posts for PR._
+**Have you developed an ROI framework? How do you determine whether something will be successful?**_At the Centers for Medicare and Medicaid&#8217;s perspective, a need to reach Spanish language audiences was identified. Look at your data such as Google Analytics and how people are getting to your website and what they&#8217;re looking for. The more outreach you do, the more people you will reach. In addition, lean on stakeholders to support the campaign and help amplify your brand and messages._
 
-**Have you developed an ROI framework? How do you determine whether something will be successful?**
+**Where do you start if you don&#8217;t have any partners? Where do you start to build those relationships?**_The National Council of la Raza has on their site many of their partners listed, find the regions and types of organizations you&#8217;d be interested in work with. You can also start with program managers in your agency that most likely already have those relationships at the national, regional or even local level. If you support other agency&#8217;s efforts and have an established relationship, ask them to introduce you to that partner._
 
-_At the Centers for Medicare and Medicaid&#8217;s perspective, a need to reach Spanish language audiences was identified. Look at your data such as Google Analytics and how people are getting to your website and what they&#8217;re looking for. The more outreach you do, the more people you will reach. In addition, lean on stakeholders to support the campaign and help amplify your brand and messages._
+**Could you share your experience with Facebook ads? How do you target them? Have you found them to be successful?**_CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and banner ads on search engines may be more effective, however. Google is using Twitter trends to pull in content from this platform. Word trails are trending and it&#8217;s because of Twitter._
 
-**Where do you start if you don&#8217;t have any partners? Where do you start to build those relationships?**
-
-_The National Council of la Raza has on their site many of their partners listed, find the regions and types of organizations you&#8217;d be interested in work with. You can also start with program managers in your agency that most likely already have those relationships at the national, regional or even local level. If you support other agency&#8217;s efforts and have an established relationship, ask them to introduce you to that partner._
-
-**Could you share your experience with Facebook ads? How do you target them? Have you found them to be successful?**
-
-_CuidadodeSalud.gov did some fan acquisition for a short time. Google ads and banner ads on search engines may be more effective, however. Google is using Twitter trends to pull in content from this platform. Word trails are trending and it&#8217;s because of Twitter._
-
- 
-
-_Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
-
-_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov](({{< link "tag/multilingual" >}})._ 
-
-_If you’re a government employee, consider joining one of our [Communities]({{< relref "communities.md" >}}), such as the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), [SocialGov]({{< relref "social-media.md" >}}), and the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}})._
+ _Victoria Wales is a member of the [USAGov](https://www.usa.gov/explore/) Outreach Team at the U.S. General Services Administration._
+_If you’re interested in learning more about how to connect with Hispanics on social media, follow [#SomosSocial](https://twitter.com/hashtag/somossocial), and check out our other [multilingual articles on DigitalGov]({{< link "tag/multilingual" >}})._ _If you’re a government employee, consider joining one of our [Communities]({{< relref "communities.md" >}}), such as the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), [SocialGov]({{< relref "social-media.md" >}}), and the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}})._

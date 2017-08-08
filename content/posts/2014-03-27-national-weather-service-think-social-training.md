@@ -1,5 +1,5 @@
 ---
-date: 2014-03-27 1:00:02 -0400
+date: 2014-03-27 13:00:02 -0400
 title: 'National Weather Service: Think Social Training'
 summary: 'For the last several years the National Weather Service has been rolling out social media accounts for all of their 122 field offices. Each office now has a Facebook page, Twitter handle and YouTube account to better communicate our life saving messages to the public. As these accounts were'
 authors:

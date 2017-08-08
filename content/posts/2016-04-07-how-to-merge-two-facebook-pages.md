@@ -109,6 +109,4 @@ Post-merge, you’ll want to remember to update your website and anywhere else l
 
 The process was more involved than we initially thought it to be. The means to archive a Facebook page changed. We believed there was still a button that would allow you to download the page data in one go, however after checking with our Facebook contact, no button exists.
 
-We are happy with the results of this endeavor. It was by no means an easy decision to close a social media account. However, we are now able to dedicate resources to a channel more in line with our goals and mission.
-
-_**[Sara Smith](https://www.linkedin.com/in/saramariecrocoll)** is the Social Media Strategist for the National Institute on Drug Abuse, part of the National Institutes of Health. **[Janet Linton](https://www.linkedin.com/in/janet-linton-b7aa6b16)** is an IT Specialist for the National Institute on Drug Abuse, part of the National Institutes of Health._
+We are happy with the results of this endeavor. It was by no means an easy decision to close a social media account. However, we are now able to dedicate resources to a channel more in line with our goals and mission._**[Sara Smith](https://www.linkedin.com/in/saramariecrocoll)** is the Social Media Strategist for the National Institute on Drug Abuse, part of the National Institutes of Health. **[Janet Linton](https://www.linkedin.com/in/janet-linton-b7aa6b16)** is an IT Specialist for the National Institute on Drug Abuse, part of the National Institutes of Health._

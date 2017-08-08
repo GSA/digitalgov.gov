@@ -36,7 +36,7 @@ Fioritto and Posius couldn&#8217;t be happier with how this process turned out. 
 
 The code is a boon for agencies who are developing mobile tables, but the HHS code is not the only code available for agencies to share. The [Mobile Code Catalog features 45 snippets](http://gsa.github.io/Mobile-Code-Catalog/) of government code for mobile Web and native apps that agencies have shared.
 
-Mike Pulsifer of the Department of Labor has been leading the code sharing effort from the [MobileGov Community of Practice](({{< link "categories/mobile" >}}) and one of the things he’s learned in MobileGov Chop Shops and other events around the effort is that small code snippets from agencies can have a big impact.
+Mike Pulsifer of the Department of Labor has been leading the code sharing effort from the [MobileGov Community of Practice]({{< link "categories/mobile" >}}) and one of the things he’s learned in MobileGov Chop Shops and other events around the effort is that small code snippets from agencies can have a big impact.
 
 HHS and DFAS just proved that.
 

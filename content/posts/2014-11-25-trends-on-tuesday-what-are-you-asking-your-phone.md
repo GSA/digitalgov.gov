@@ -32,6 +32,4 @@ The study examined the smartphone habits of 1,400 Americans, age 13 and older, r
 
 Mobile searchers, no matter their age, are looking for answers in a [mobile moment]({{< relref "2014-07-01-trends-on-tuesday-maximizing-your-mobile-moments.md" >}}) – they want answers immediately, in context. That’s why it is important for your agency’s website to provide valuable answers to the questions your audience is asking. You must also make sure the content is in an adaptive format so voice search tool such as Google Voice, Siri and Cortana can easily consume the information.
 
-For more ideas, check out the [Mobile User Experience Guidelines and Recommendations]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}).
-
-_**<span class="il" style="color: #222222">Treci</span>**<span style="color: #222222"><strong> Johnson</strong> is a Public Affairs Specialist at the Department of the Interior, and a member of the MobileGov Community of Practice. She is the current author of the Trends of Tuesday blog series.</span>_
+For more ideas, check out the [Mobile User Experience Guidelines and Recommendations]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}})._**<span class="il" style="color: #222222">Treci</span>**<span style="color: #222222"><strong> Johnson</strong> is a Public Affairs Specialist at the Department of the Interior, and a member of the MobileGov Community of Practice. She is the current author of the Trends of Tuesday blog series.</span>_

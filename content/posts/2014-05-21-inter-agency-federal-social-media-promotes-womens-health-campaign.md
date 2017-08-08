@@ -1,5 +1,5 @@
 ---
-date: 2014-05-21 1:35:21 -0400
+date: 2014-05-21 13:35:21 -0400
 title: 'Inter-Agency Federal Social Media Promotes Women&#8217;s Health Campaign'
 summary: 'Last week, we discussed National Women&rsquo;s Health Week (NWHW) as an example of a coordinated campaign that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with'
 authors:
@@ -34,6 +34,4 @@ At** the Food and Drug Administration (FDA)’s Office of Women’s Health**, we
 
 **Jessica Milcetich**, **social media and digital strategist at the General Services Administration** works to promote resources from multiple agencies through her work with USA.gov. This year, they created a [women’s health pledge](http://www.facebook.com/photo.php?fbid=10152210692958580&set=a.10151021555548580.435340.65369158579) that was shared over 150 times on social media. The pledge promoted the availability of FDA’s [Women’s Health Advice Kit](http://promotions.usa.gov/womens-health.html) and so far, more than 4,200 publications have been ordered.
 
-It is clear that social media will continue to play a growing role in coordinated campaigns. Tell us: how have digital tools enhanced your campaigns and observances?
-
-_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._
+It is clear that social media will continue to play a growing role in coordinated campaigns. Tell us: how have digital tools enhanced your campaigns and observances?_**Alison Lemon** is a Knowledge Manager for the [SocialGov Community]({{< relref "social-media.md" >}}) and a Senior Analyst for Social Media with the FDA’s Office of Women’s Health. You can follow their work [@FDAWomen](https://twitter.com/FDAWomen)._

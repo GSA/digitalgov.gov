@@ -1,5 +1,5 @@
 ---
-date: 2016-10-17 1:00:08 -0400
+date: 2016-10-17 13:00:08 -0400
 title: Your First Thoughts on the Social Media Strategy
 summary: 'This post is written by Jeannie Chen, Mary King, and Hilary Parkinson and is part of our ongoing series about our social media strategy. We welcome comments from staff, other cultural institutions, and the public, and will continue to update the strategy as a living document. When we introduced NARA&rsquo;s new social media strategy in August,'
 authors:
@@ -34,6 +34,4 @@ We read each comment and discussed them, and then we clarified and expanded thes
 
 **Purpose**: You asked us to clarify how social media supports the greater mission of the National Archives.
 
-Thank you for all of your comments…but we’re not done yet! We’ll continue to update the strategy as it is implemented, from sharing successes to lessons learned. Want to know what we’re working on next? Keep an eye out for our [digital plan](http://usnationalarchives.github.io/social-media-strategy/resources/) worksheet!
-
-_This post was originally published on [Narations, the blog of the U.S. National Archives](https://narations.blogs.archives.gov/)._
+Thank you for all of your comments…but we’re not done yet! We’ll continue to update the strategy as it is implemented, from sharing successes to lessons learned. Want to know what we’re working on next? Keep an eye out for our [digital plan](http://usnationalarchives.github.io/social-media-strategy/resources/) worksheet!_This post was originally published on [Narations, the blog of the U.S. National Archives](https://narations.blogs.archives.gov/)._

@@ -25,7 +25,7 @@ tag:
   - innovation
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - summit
   - Technology Industry Day
@@ -99,6 +99,4 @@ We have the technology to change that and we, at GSA, want to be an integral par
 
 In case you missed it, the recording of [GSA&#8217;s Technology Industry Day](https://www.youtube.com/watch?v=NRAlPdiWXN8) is now available.
 
-[youtube=http://www.youtube.com/watch?v=NRAlPdiWXN8&w=600]
-
-_This post was originally published on the [GSA blog](http://www.gsa.gov/blog)._
+[youtube=http://www.youtube.com/watch?v=NRAlPdiWXN8&w=600]_This post was originally published on the [GSA blog](http://www.gsa.gov/blog)._

@@ -3,7 +3,7 @@ date: 2016-04-05 10:00:38 -0400
 title: Additional Data Options With DAP
 summary: 'Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It&rsquo;s a simple line of of code that enables you to take advantage DAP: (Example) <script language=&#8221;javascript&#8221; id=&#8221;\_fed\_an\_ua\_tag&#8221; src=&#8221;https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&subagency=FEMA&#8221;></script> You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass'
 authors:
-  - immanuel-lee
+  - ilee
 categories:
   - Code
   - Data

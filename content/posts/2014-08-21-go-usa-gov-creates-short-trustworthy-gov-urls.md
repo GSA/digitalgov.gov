@@ -1,5 +1,5 @@
 ---
-date: 2014-08-21 1:59:05 -0400
+date: 2014-08-21 13:59:05 -0400
 title: Go.USA.gov Creates Short, Trustworthy .gov URLs
 summary: 'Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can&rsquo;t see the final destination. That&rsquo;s why Go.USA.gov was created&mdash;to show users that they would reach official government information. To maintain this trust, Go.USA.gov is only open to government employees and only shortens government'
 authors:

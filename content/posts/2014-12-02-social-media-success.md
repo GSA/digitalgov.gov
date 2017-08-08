@@ -1,5 +1,5 @@
 ---
-date: 2014-12-02 1:04:31 -0400
+date: 2014-12-02 13:04:31 -0400
 title: Interior and USDA Talk Social Media Success
 summary: ' When it comes to implementing a social media strategy, determining how to measure success can be challenging. Yes, knowing how many followers and likes you have is beneficial. However, to really get valuable results from the trove of social'
 authors:
@@ -62,6 +62,4 @@ Recently, I tweeted a YouTube video about bale grazing. The video averaged about
 
 Metrics have helped me answer most of my questions. In some instances, having the data only posed more questions which in turn required more data in order to be answered. But I am confident we will get there.
 
-Creating or maintain a successful social media strategy truly requires someone to measure and analyze what is truly happening on those platforms. Just knowing what to measure and how to measure can go a long way.
-
-_Editor&#8217;s Note: For more information on social media performance metrics, check out the [Federal Social Media Analytics Toolkit]({{< relref "federal-social-media-analytics-toolkit-hackpad.md" >}} "Federal Social Media Analytics Toolkit Hackpad"). To learn more from Tim on how Facebook Video can improve your metrics, register for [Facebook Video for Public Services]({{< tmp "events/facebook-video-for-public-services.md" >}} "Facebook Video for Public Services")._
+Creating or maintain a successful social media strategy truly requires someone to measure and analyze what is truly happening on those platforms. Just knowing what to measure and how to measure can go a long way._Editor&#8217;s Note: For more information on social media performance metrics, check out the [Federal Social Media Analytics Toolkit]({{< relref "federal-social-media-analytics-toolkit-hackpad.md" >}} "Federal Social Media Analytics Toolkit Hackpad"). To learn more from Tim on how Facebook Video can improve your metrics, register for [Facebook Video for Public Services]({{< tmp "events/facebook-video-for-public-services.md" >}} "Facebook Video for Public Services")._

@@ -59,6 +59,4 @@ Updating a website the size of DHS.gov is no small feat.
 
 However, by staying focused on the needs of our customer (you), we hope this new site serves you in a more efficient way. We look forward to more updates in the future as we continue to find new and innovative ways to improve your experience with DHS.gov.
 
-Happy browsing!
-
-_This post was originally published on the [Department of Homeland Security (DHS) blog](https://www.dhs.gov/blog) by J. Todd Breasseale, Assistant Secretary for Public Affairs._
+Happy browsing!_This post was originally published on the [Department of Homeland Security (DHS) blog](https://www.dhs.gov/blog) by J. Todd Breasseale, Assistant Secretary for Public Affairs._

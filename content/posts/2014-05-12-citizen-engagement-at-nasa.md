@@ -1,5 +1,5 @@
 ---
-date: 2014-05-12 2:37:55 -0400
+date: 2014-05-12 14:37:55 -0400
 title: Citizen Engagement at NASA
 summary: 'Recently, the White House hosted Stakeholder Engagement Workshops&mdash;an informal meet-up for citizens and federal agencies to discuss progress on Open Government. The third version of our Open Gov Plan is due June 1st. My Open Innovation teammates and I took the opportunity to attend the event. We gained valuable insights from citizen activists on what'
 authors:
@@ -27,6 +27,4 @@ The [Union of Concerned Scientists](http://www.ucsusa.org/) is most concerned wi
 
 The scorecard gives agencies two grades on agency media and social [media policy](http://www.ucsusa.org/mediapolicies): 1) the strength of official written media policies; and 2) how the agency implements the policy with federal scientists. The representative provided recommendations for NASA, including granting explicit rights of last review for all scientists, and also making publicly available the agency’s social media policy. We’ve identified NASA’s policy documents to add to the published report.
 
-Our team is thankful for the opportunity to engage with concerned citizens who want our government to be open and accountable. We agree. We intend to reflect their comments in our report. [Share your thoughts on our Open Gov 3.0 Plan](http://open.nasa.gov/blog/2014/04/23/share-your-thoughts-open-gov-3-0-plan/).
-
-_This post was originally published on the [open.NASA blog](http://open.nasa.gov/blog/2014/05/07/citizen-engagement-2/) by Beth Hochberg._
+Our team is thankful for the opportunity to engage with concerned citizens who want our government to be open and accountable. We agree. We intend to reflect their comments in our report. [Share your thoughts on our Open Gov 3.0 Plan](http://open.nasa.gov/blog/2014/04/23/share-your-thoughts-open-gov-3-0-plan/)._This post was originally published on the [open.NASA blog](http://open.nasa.gov/blog/2014/05/07/citizen-engagement-2/) by Beth Hochberg._

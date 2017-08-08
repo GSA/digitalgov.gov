@@ -1,0 +1,29 @@
+{{/*
+  ======================================
+  CATEGORIES
+  ======================================
+*/}}
+
+{{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
+{{ else }}
+  <li class="meta-cats"> {{/* meta-cats! */}}
+    {{ $_cats := .Params.categories }}
+    {{ $.Scratch.Set "relatedCommunities" (slice) }}
+    {{ $length := $_cats | len }}
+    {{ range $i, $e := $_cats }}
+      {{ $slug := $e | urlize }}
+      {{ $category := index $.Site.Data.categories $slug }}
+      {{ with $category.communities }}
+        {{ range $community := . }}
+          {{ $.Scratch.Add "relatedCommunities" $community }}
+        {{ end }}
+      {{ end }}
+      {{ $link := printf "categories/%s/" $slug }}
+      {{ if lt (add $i 1) $length }}
+        <a href="{{ $link | absURL }}" rel="category tag">{{ $category.display_name }}</a>,
+      {{ else }}
+        <a href="{{ $link | absURL }}" rel="category tag">{{ $category.display_name }}</a>
+      {{ end }}
+    {{ end }}
+  </li>
+{{ end }}

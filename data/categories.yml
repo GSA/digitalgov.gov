@@ -1,24 +1,66 @@
-accessibility: "Accessibility"
-api: "API"
-bar-and-qaz: "Bar & Qaz"
-challenges: "Challenges"
-code: "Code"
-communities: "Communities"
-content: "Content"
-crowdsourcing-and-citizen-science: "Crowdsourcing & Citizen Science"
-data: "Data"
-design: "Design"
-governance: "Governance"
-managing-digital: "Managing Digital"
-metrics: "Metrics"
-mobile: "Mobile"
-monthly-theme: "Monthly Theme"
-our-work: "Our Work"
-social-media: "Social Media"
-strategy-and-policy: "Strategy & Policy"
-uncategorized: "Uncategorized"
-user-testing-and-research: "User Testing & Research"
-ux: "UX"
-video: "Video"
-whats-new: "What’s  New"
-writing: "Writing"
+accessibility:
+  display_name: "Accessibility"
+api:
+  display_name: "API"
+bar-and-qaz:
+  display_name: "Bar & Qaz"
+challenges:
+  display_name: "Challenges"
+  summary: Types of challenges–ideation, software and apps, creative and tech–and the platforms and tools for success.
+  communities:
+    - challenges-and-prizes
+code:
+  display_name: "Code"
+communities:
+  display_name: "Communities"
+  communities:
+    - mobile
+content:
+  display_name: "Content"
+crowdsourcing-and-citizen-science:
+  display_name: "Crowdsourcing & Citizen Science"
+  communities:
+    - federal-crowdsourcing-and-citizen-science
+data:
+  display_name: "Data"
+design:
+  display_name: "Design"
+governance:
+  display_name: "Governance"
+managing-digital:
+  display_name: "Managing Digital"
+  communities:
+    - web-managers-forum
+metrics:
+  display_name: "Metrics"
+mobile:
+  display_name: "Mobile"
+  summary: Any time, any where, any device. Now that’s truly mobile.
+  communities:
+    - mobile
+monthly-theme:
+  display_name: "Monthly Theme"
+our-work:
+  display_name: "Our Work"
+social-media:
+  display_name: "Social Media"
+  summary: Making government more efficient, more open.
+  communities:
+    - social-media
+strategy-and-policy:
+  display_name: "Strategy & Policy"
+uncategorized:
+  display_name: "Uncategorized"
+user-testing-and-research:
+  display_name: "User Testing & Research"
+ux:
+  display_name: "UX"
+  summary: Create user-focused content and designs, and make government information accessible to people with disabilities.
+  communities:
+    - federal-user-experience
+video:
+  display_name: "Video"
+whats-new:
+  display_name: "What’s New"
+writing:
+  display_name: "Writing"

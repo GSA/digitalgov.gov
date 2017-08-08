@@ -1,5 +1,5 @@
 ---
-date: 2014-10-06 4:55:55 -0400
+date: 2014-10-06 16:55:55 -0400
 title: 'Trends on Tuesday: Are QR Codes Still Relevant?'
 summary: 'Recently, I was designing new outreach materials and needed a way to connect this offline collateral with my agency&rsquo;s digital content. Using a QR (or Quick Response) code immediately came to mind, followed by the question, &ldquo;Are QR codes still relevant?&rdquo; Opinions differ on their utility and I couldn&#8217;t find any objective data on how'
 authors:

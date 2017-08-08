@@ -1,0 +1,24 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
+{{ end }}
+
+{{ define "content" }}
+<div id="contentleft" class="clearfix">
+  <div id="content" class="clearfix">
+    <div class="post singlepost type-post status-publish format-standard  hentry">
+
+      <div class="entry">
+
+        <h1 class="post-title single">
+          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+        </h1>
+
+        {{ .Content }}
+
+
+
+      </div><!-- .entry -->
+    </div><!--.post -->
+  </div><!-- #content -->
+</div><!-- #contentleft -->
+{{ end }} {{/* end 'content' block */}}

@@ -58,6 +58,4 @@ Finally, let’s end with how it began. In late 2010, when CX became an entity r
 
 You can watch the recording, [view the slides from the FSA presentation](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/DigitalGov-Webinar-FSA-Customer-Experience-Journey-7-28-15.pptx), or [join the CX Community of Practice](https://docs.google.com/a/gsa.gov/forms/d/1hzJbZChUg2TRLi_MiC4nAbB-HKUOerBF2kL0qO38fPo/viewform).
 
-[youtube=http://www.youtube.com/watch?v=iPHECSa4HQo&w=600]
-
-_Zachary Lerner is the Content Manager for the Professional Services Hallway on the Acquisition Gateway at the U.S. General Services Administration._
+[youtube=http://www.youtube.com/watch?v=iPHECSa4HQo&w=600]_Zachary Lerner is the Content Manager for the Professional Services Hallway on the Acquisition Gateway at the U.S. General Services Administration._

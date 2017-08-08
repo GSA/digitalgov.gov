@@ -1,5 +1,5 @@
 ---
-date: 2017-05-01 3:00:08 -0400
+date: 2017-05-01 15:00:08 -0400
 title: Build Your Audience by Hosting a Twitter Chat
 summary: 'Twitter is more than just a platform for sharing news and updates: it can be a tool for directly communicating with your community and understanding what is important to them. One way you can connect with your Twitter audience is by hosting a Twitter Chat. They can be a good way to discuss key topics,'
 authors:
@@ -72,10 +72,6 @@ In addition to Twitter, there are a few tools that can help you and your team fo
   * [Monitter](http://www.monitter.com/) [{{< legacy-img src="https://blog.aids.gov/wp-content/themes/aidsgov2012/images/external.png" alt="Exit Disclaimer" >}}](https://aids.gov/external_disclaim.html)
   * [Twubs](http://twubs.com/) [{{< legacy-img src="https://blog.aids.gov/wp-content/themes/aidsgov2012/images/external.png" alt="Exit Disclaimer" >}}](https://aids.gov/external_disclaim.html)
 
-If you’d like to learn more about Twitter chats, don’t forget to sign up for our [Virtual Office Hours](https://www.aids.gov/using-new-media/tools/office-hours/).
-
-_All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
-
+If you’d like to learn more about Twitter chats, don’t forget to sign up for our [Virtual Office Hours](https://www.aids.gov/using-new-media/tools/office-hours/)._All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency._
 _This post was originally published on the [AIDS.gov blog](https://blog.aids.gov/)._
-
-_For more tips and resources, check out [Twitter Chat Guidance for Federal Agencies]({{< relref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}), [Meeting Customer Needs Through Social Media]({{< relref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}), [Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats]({{< relref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}), and other recent articles in our [Social Media category](({{< link "categories/socialmedia" >}})._
+_For more tips and resources, check out [Twitter Chat Guidance for Federal Agencies]({{< relref "2013-10-16-twitter-chats-for-federal-agencies.md" >}}), [Meeting Customer Needs Through Social Media]({{< relref "2015-04-24-meeting-customer-needs-through-social-media.md" >}}), [Great Customer Service in 140 Characters: #AskFAFSA Twitter Chats]({{< relref "2015-01-05-great-customer-service-in-140-characters-askfafsa-twitter-chats.md" >}}), and other recent articles in our [Social Media category]({{< link "categories/socialmedia" >}})._

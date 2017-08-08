@@ -1,5 +1,5 @@
 ---
-date: 2013-12-13 5:14:24 -0400
+date: 2013-12-13 17:14:24 -0400
 title: Challenge Contest Requirements
 summary: 'As you&#8217;re planning your challenge, you&#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the Prize Authority in the America COMPETES Reauthorization Act (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions.  Be sure'
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2016-07-26 1:00:44 -0400
+date: 2016-07-26 13:00:44 -0400
 title: 'Summer Health and Safety: A New Resource Brought to You by CDC and NIH'
 summary: 'We have previously written about microsites in the federal government. A microsite is a small collection of web pages&mdash;a subset of an organization&rsquo;s full website. Partners can embed microsites that present curated information on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are API-enabled are maintained and updated'
 authors:
@@ -20,7 +20,7 @@ tag:
   - open and structured content models
 ---
 
-****We have previously written about [microsites in the federal government]({{< relref "2016-04-21-microsites.md" >}}). A microsite is a small collection of web pages—a subset of an organization’s full website. Partners can embed microsites that present [curated information]({{< relref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are [API](({{< link "categories/api" >}})-enabled are maintained and updated by the source organization so that when updates are made, those updates are automatically made on partner sites in real time.
+****We have previously written about [microsites in the federal government]({{< relref "2016-04-21-microsites.md" >}}). A microsite is a small collection of web pages—a subset of an organization’s full website. Partners can embed microsites that present [curated information]({{< relref "2015-11-09-the-content-corner-structured-content-and-the-power-of-syndication.md" >}}) on a specific topic or campaign directly within their own websites. And perhaps best of all, microsites that are [API]({{< link "categories/api" >}})-enabled are maintained and updated by the source organization so that when updates are made, those updates are automatically made on partner sites in real time.
 
 And now, here is another great example.
 

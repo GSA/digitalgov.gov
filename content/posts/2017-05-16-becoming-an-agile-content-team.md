@@ -1,5 +1,5 @@
 ---
-date: 2017-05-16 2:00:16 -0400
+date: 2017-05-16 14:00:16 -0400
 title: Becoming an Agile Content Team
 summary: 'In March, the team of writers and editors at USAGov adopted some agile principles in an attempt to streamline our content development process. We hoped operating in a more agile manner would help us address some of the challenges we were facing as a team:'
 authors:
@@ -36,5 +36,4 @@ We don’t hold official daily stand-ups, but we regularly communicate about the
 While our process isn’t perfect, and we’re certainly still learning as we go, operating in a more agile manner has helped us focus our priorities and deliver content that will help our users accomplish their tasks.
 
 _Jessica Milcetich is the product owner of the websites USA.gov and GobiernoUSA.gov managed by GSA._
-
 _This post was originally published on the [USAgov blog](https://blog.usa.gov/becoming-an-agile-content-team)._

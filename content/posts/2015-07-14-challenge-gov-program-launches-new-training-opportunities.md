@@ -1,5 +1,5 @@
 ---
-date: 2015-07-14 1:52:31 -0400
+date: 2015-07-14 13:52:31 -0400
 title: Challenge.gov Program Launches New Training Opportunities
 summary: ' Seven new training modules aim to help Federal Challenge and Prize Community members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with &ldquo;Prize History,'
 authors:
@@ -31,6 +31,6 @@ Module 6: Building a Community
   
 Module 7: Post-Prize Industry and the Post-Prize Impact
 
-All training module webinars and the schedule can be found on the [Events Calendar](({{< link "events" >}}).
+All training module webinars and the schedule can be found on the [Events Calendar]({{< link "events" >}}).
 
 Approaching its fifth year, Challenge.gov has seen participation on a global scale. There have been over 100,000 solvers who have participated in over 400 challenges from 76 agencies and more than $120 million in prizes awarded for successful solutions. There have been more than 3.5 million site visits to the platform from every country around the globe, including participants from every state in the U.S.

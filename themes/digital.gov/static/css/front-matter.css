@@ -1,0 +1,58 @@
+.matter-container{
+  margin: 50px 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+}
+.gcol1{
+  grid-area: row2-start / 1 / 2 / 1;
+}
+.gcol2{
+  grid-area: row2-start / 2 / 2 / 2;
+  max-width: 480px;
+}
+
+.gcol1 form{
+  margin-top: 0;
+}
+.gcol1 form label,
+.gcol1 form input{
+  margin:0;
+  font-size: 1em;
+  display: block;
+}
+.gcol1 form label{
+  margin-bottom: 18px;
+}
+.gcol1 form label:last-child{
+  margin-bottom: 0;
+}
+.gcol1 form input{
+  padding: 10px;
+  width:90% ;
+  border:1px #ccc solid;
+}
+.gcol2 p {
+  margin: 15px 0;
+}
+.gcol2 #newfile {
+  font-weight: bold;
+}
+.gcol2 .mttr{
+  margin: 0;
+  padding: 10px 15px;
+  background:#f8f8f8;
+  font-size: 1em;
+  border:1px #555 solid;
+}
+.gcol2 pre{
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+.gcol2 .mttr#filename{
+  border-bottom: none;
+}

@@ -1,5 +1,5 @@
 ---
-date: 2013-05-13 6:49:40 -0400
+date: 2013-05-13 18:49:40 -0400
 title: Federal Mobile Code Sharing Catalog Is Here
 summary: 'Federal agencies have a new resource to help them make content and services available anytime, anywhere, and from any device&#8211;the federal Mobile Code Catalog sponsored by the Digital Services Innovation Center. This catalog is hosted on GitHub (more on why that matters in a moment).'
 authors:

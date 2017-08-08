@@ -40,6 +40,6 @@ From uncovering differences in criminal court case processing to exploring the s
   * [Apply for the Data Visualization Challenge](http://www.nij.gov/funding/Pages/fy14-data-visualization-challenge.aspx)
   * [Learn more about how NIJ uses Challenges in a new NIJ Journal article](http://nij.gov/journals/274/Pages/challenge-generate-innovation.aspx)
 
-_Editor&#8217;s Note: This article is part of our [December Editorial Theme around Crowdsourcing]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"). Check out the other [theme articles](({{< link "categories/monthly-theme" >}}) we&#8217;re publishing this month._ 
+_Editor&#8217;s Note: This article is part of our [December Editorial Theme around Crowdsourcing]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview"). Check out the other [theme articles]({{< link "categories/monthly-theme" >}}) we&#8217;re publishing this month._ 
 
  

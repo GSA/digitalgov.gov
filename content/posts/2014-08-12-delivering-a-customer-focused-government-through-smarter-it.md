@@ -1,5 +1,5 @@
 ---
-date: 2014-08-12 2:29:36 -0400
+date: 2014-08-12 14:29:36 -0400
 title: Delivering a Customer-Focused Government Through Smarter IT
 summary: As technology changes, government must change with it to address new challenges and take advantage of new opportunities. This Administration has made important strides in modernizing government so that it serves its constituents more effectively and efficiently, but we know there is much more to do. Last year, a group of digital and technology experts
 authors:
@@ -51,5 +51,4 @@ Together, the U.S. Digital Service, 18F, the Digital Services Playbook, and Tech
 [Stay informed—sign up here to monitor the latest news from the U.S. Digital Service.](http://www.whitehouse.gov/webform/get-latest-news-us-digital-service)
 
 _This post was originally published on [The White House Blog](http://www.whitehouse.gov/blog/) by Beth Cobert, the Deputy Director for Management at the Office of Management and Budget (OMB); Steve VanRoekel, the U.S. Chief Information Officer; and Todd Park, the U.S. Chief Technology Officer._
-
 __

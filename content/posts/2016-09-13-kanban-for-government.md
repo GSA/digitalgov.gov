@@ -1,5 +1,5 @@
 ---
-date: 2016-09-13 1:00:58 -0400
+date: 2016-09-13 13:00:58 -0400
 title: Kanban for Government
 summary: 'Some months ago, 18F started playing with kanban as a way to manage and improve our processes. (It turns out that &ldquo;DO ALL THE THINGS!&rdquo; was maybe not the best motto.) Kanban is a methodology that helps you to remove inefficiencies and reduce waste by visualizing workflow. It&rsquo;s also used to balance capacity and demand'
 authors:
@@ -13,7 +13,7 @@ tag:
   - kanban
   - OCSIT
   - Office of Citizen Services and Innovative Technology
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - Work In Progress
   - workflows
@@ -77,6 +77,4 @@ The team isn’t drowning anymore. They’re back in charge of the work they do,
 
 Postscript: Two days before press time, Josh Bailes sent this 18F-wide message:
 
-> Good news. Our current median transit time for agreements is 37.5 days, meaning from kick off to signature, it takes 37.5 days for an agreement to get completed. This is a vast improvement from 60 days and due to two things: 1) the WIP limits we set. They are working. 2) The great work of Matt Spencer and [the Agreements] team.
-
-_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._
+> Good news. Our current median transit time for agreements is 37.5 days, meaning from kick off to signature, it takes 37.5 days for an agreement to get completed. This is a vast improvement from 60 days and due to two things: 1) the WIP limits we set. They are working. 2) The great work of Matt Spencer and [the Agreements] team._This post was originally published on the [18F blog](https://18f.gsa.gov/blog/)._

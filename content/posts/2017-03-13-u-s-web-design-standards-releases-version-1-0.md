@@ -1,5 +1,5 @@
 ---
-date: 2017-03-13 2:00:36 -0400
+date: 2017-03-13 14:00:36 -0400
 title: U.S. Web Design Standards Releases Version 1.0
 summary: The U.S. Web Design Standards are a library of design guidelines and code to help government developers quickly create trustworthy, accessible, and consistent digital government services. Last month, we announced the 1.0 release of the Standards, a milestone that signals the Standards are a stable, trustworthy resource for government designers and developers. By using the
 authors:

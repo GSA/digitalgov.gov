@@ -13,6 +13,9 @@ enableRobotsTXT         : false
 
 ignoreFiles:
   - "^_template"
+  - "content/_tmp/*"
+# uncomment the following for a dev mode that excludes posts before 2017
+#  - "content/posts/201[0-6]"
 
 sitemap:
   changefreq            : "monthly"
@@ -72,7 +75,7 @@ menu:
     - Name            : "Challenges & Prizes"
       Parent          : "services"
       Identifier      : "challenge-gov"
-      URL             : "services/challenge-gov/"
+      URL             : "/services/challenge-gov/"
       Weight          : 41
     - Name            : "Content Management Systems"
       Parent          : "services"

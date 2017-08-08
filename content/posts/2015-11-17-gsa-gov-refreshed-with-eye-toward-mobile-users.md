@@ -1,5 +1,5 @@
 ---
-date: 2015-11-17 2:59:57 -0400
+date: 2015-11-17 14:59:57 -0400
 title: GSA.gov Refreshed with Eye Toward Mobile Users
 summary: 'GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users. Increasingly, website traffic is coming from mobile users. With this in mind, GSA unveiled a newly refreshed GSA.gov website on Nov. 16. &ldquo;Our ultimate goal for the refresh'
 authors:

@@ -1,5 +1,5 @@
 ---
-date: 2014-04-14 1:00:55 -0400
+date: 2014-04-14 13:00:55 -0400
 title: 'Announcing FBOpen: Government Opportunities Made Easier'
 summary: 'Today we&rsquo;re announcing our first product launch: FBOpen, a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. On the surface, FBOpen is a website: fbopen.gsa.gov is a simple, Google-style page where you can search available federal contracts and grants. We&rsquo;ve used the latest in'
 authors:
@@ -24,6 +24,4 @@ We have big plans for FBOpen. First and foremost, we’ll be adding more types o
 
 Like most 18F projects, FBOpen is a collaboration. FBOpen was inspired by the targeted marketing that [RFP-EZ](http://rfpez.sba.gov/) so successfully piloted, and it was developed hand-in-hand with the [Integrated Award Environment](http://www.gsa.gov/iae) team, the GSA CIO, and the [api.data.gov](http://api.data.gov/) team, all of whom helped make this project a model for rapid development and deployment.
 
-In future posts we’ll talk about how FBOpen works, where the data comes from, and how it fits into 18F’s vision of “procurement as a service.” Get in touch with the FBOpen team on Twitter at [@fbopen](https://twitter.com/fbopen) or, of course, at [github](https://github.com/18f/fbopen).
-
-_This post was originally published on the [18F blog](http://18fblog.tumblr.com/) by Aaron Snow and Alison Rowland._
+In future posts we’ll talk about how FBOpen works, where the data comes from, and how it fits into 18F’s vision of “procurement as a service.” Get in touch with the FBOpen team on Twitter at [@fbopen](https://twitter.com/fbopen) or, of course, at [github](https://github.com/18f/fbopen)._This post was originally published on the [18F blog](http://18fblog.tumblr.com/) by Aaron Snow and Alison Rowland._

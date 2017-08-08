@@ -1,5 +1,5 @@
 ---
-date: 2015-02-26 1:00:43 -0400
+date: 2015-02-26 13:00:43 -0400
 title: 'Keep a Strong Job Search Game with USA.gov&#8217;s Federal Mobile Apps Directory'
 summary: 'Scoping the fed scene for the best match to apply your very formidable skillset? Use your smartphone to cast a wider net on your job search with help from the USA.gov Federal Mobile Apps Directory. Federal job hunters are no longer confined to desktop websites, so check'
 authors:
@@ -25,6 +25,4 @@ While you may be familiar with the [USAJobs mobile app](https://help.usajobs.gov
 
 And don’t forget the Department of Justice Law Jobs app, currently available for [iPhones](https://itunes.apple.com/us/app/doj-law-jobs/id905071111?mt=8). Use this app to quickly find attorney jobs and legal internships within the Justice Department.
 
-Have another federal job search app? Let me know about it in the comments, and include why you love it.
-
-_You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< relref "the-federal-mobile-apps-registry.md" >}})._
+Have another federal job search app? Let me know about it in the comments, and include why you love it._You can download these and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml). Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< relref "the-federal-mobile-apps-registry.md" >}})._

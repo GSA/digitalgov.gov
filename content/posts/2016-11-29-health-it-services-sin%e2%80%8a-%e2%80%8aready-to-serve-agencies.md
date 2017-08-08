@@ -26,6 +26,4 @@ In the coming months, in cooperation with our agencies and industry partners, we
 
 I encourage agencies to visit the [IT Schedule 70 Health IT SIN](http://www.gsa.gov/portal/content/243683) web page for more information on how to use the SIN to purchase health IT services.
 
-Please follow us on Twitter [@GSA_ITC](https://twitter.com/#!/GSA_ITC) and [LinkedIn](https://www.linkedin.com/company/office-of-information-technology-category-itc-) to join our ongoing conversations about government IT.
-
-_This post was originally published on GSA’s_ [_Great Government Through Technology_](https://gsablogs.gsa.gov/technology/) _blog by_ [_Mary Davie_](https://gsablogs.gsa.gov/technology/about-mary-davie/)_, Assistant Commissioner, Office of Information Technology Category (ITC)._
+Please follow us on Twitter [@GSA_ITC](https://twitter.com/#!/GSA_ITC) and [LinkedIn](https://www.linkedin.com/company/office-of-information-technology-category-itc-) to join our ongoing conversations about government IT._This post was originally published on GSA’s_ [_Great Government Through Technology_](https://gsablogs.gsa.gov/technology/) _blog by_ [_Mary Davie_](https://gsablogs.gsa.gov/technology/about-mary-davie/)_, Assistant Commissioner, Office of Information Technology Category (ITC)._

@@ -43,5 +43,4 @@ The poster child for [content modeling is National Public Radio]({{< relref "201
 To view the article model and others visit our space on [GitHub](http://gsa.github.io/Open-And-Structured-Content-Models/index.html). Here the working group is building/tweaking models so if you have questions, suggestions, or want to participate, please do.
 
 _**Kirsten O&#8217;Nell** is a Social Media Specialist for the Defense Commissary Agency._
-
 _Want to know more about content models? Join us [for our webinar on the Event model]({{< tmp "events/what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model") this Thursday, June 12th, at 1 pm._

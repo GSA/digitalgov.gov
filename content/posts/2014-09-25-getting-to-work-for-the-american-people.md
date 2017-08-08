@@ -1,5 +1,5 @@
 ---
-date: 2014-09-25 1:40:39 -0400
+date: 2014-09-25 13:40:39 -0400
 title: Getting to Work for the American People
 summary: 'Over the last 6 months, 18F has embarked on a mission to transform the way the U.S. Government builds and buys digital services. We&rsquo;re currently working with more than half a dozen agencies to help them deliver on their missions in a design-centric, agile, open, and data-driven way. How do we say yes to a'
 authors:
@@ -88,8 +88,6 @@ Please stay tuned! Follow 18F on our [blog](http://18fblog.tumblr.com/), [Twitte
 **Follow us here:**
 
   * [Twitter @18F](https://twitter.com/18f)
-  * [GitHub/18F](https://github.com/18f)
-
-_This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
+  * [GitHub/18F](https://github.com/18f)_This post was originally published on the [18f blog](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)._
 
  

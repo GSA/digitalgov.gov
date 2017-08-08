@@ -1,5 +1,5 @@
 ---
-date: 2017-06-16 3:07:18 -0400
+date: 2017-06-16 15:07:18 -0400
 title: 'Fostering Medical Innovation: A Plan for Digital Health Devices'
 summary: It is incumbent upon FDA to ensure that we have the right policies in place to promote and encourage safe and effective innovation that can benefit consumers, and adopt regulatory approaches to enable the efficient development of these technologies. By taking an efficient, risk-based approach to our regulation, FDA can promote health through the creation
 authors:
@@ -44,6 +44,4 @@ Applying this firm-based approach, rather than the traditional product-based app
 
 Through these and other steps, FDA will help innovators navigate a new, modern regulatory process so that promising, safe and effective developments in digital health can advance more quickly and responsibly, and Americans can reap the full benefits from these innovations. These efforts are just one part of a much broader initiative that FDA is currently undertaking to advance policies that promote the development of safe and effective medical technologies that can help consumers improve their health. Our goal is to make sure that FDA has the most modern and efficient regulatory approaches when it comes to evaluating new, beneficial technologies.
 
-**_Scott Gottlieb, M.D., is Commissioner of the U.S. Food and Drug Administration_**
-
-_This post was originally published on the [FDA Voice](https://blogs.fda.gov/fdavoice/index.php/2017/06/fostering-medical-innovation-a-plan-for-digital-health-devices/) blog._
+**_Scott Gottlieb, M.D., is Commissioner of the U.S. Food and Drug Administration_**_This post was originally published on the [FDA Voice](https://blogs.fda.gov/fdavoice/index.php/2017/06/fostering-medical-innovation-a-plan-for-digital-health-devices/) blog._

@@ -1,5 +1,5 @@
 ---
-date: 2015-10-15 3:25:39 -0400
+date: 2015-10-15 15:25:39 -0400
 title: 'Gov Analytics Breakdown #1 &#8211; Browsers: Chrome Takes the Cake'
 summary: 'If you were visiting a federal government website two years ago, the best odds were that you&rsquo;d have been using Internet Explorer as your Internet browser. But today, that&rsquo;s no longer the case. Within just the last year, Chrome has taken over the top spot as the browser most used to view federal websites, according to'
 authors:
@@ -78,8 +78,5 @@ This data is not exhaustive, and represents only the sites that participated in 
 
 ***For all DAP figures cited, the date range of August 16 &#8211; September 15 was used in the three consecutive years (2013, 2014, and 2015) across all DAP-participating websites. The number of sites participating in DAP increased yearly, so the data included in the yearly analysis was represented by a different sample size of websites. This information should be used to provide a general insight to the public’s behavior trends.**
 
-** **Correction: This was incorrectly first reported as 98%, which actually referred to the percentage of mobile sessions using Safari on either an iPhone or iPad. We regret the error.**
-
-_Author’s Note: This is Part 1 of a blog in which we use data from the [Digital Analytics Program](http://WHATEVER/services/dap) (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. Part 1 focuses on Web browser usage, while Part 2 (to be published next week) will discuss the change in mobile vs. desktop visits. The DAP collects data from more than 4,000 U.S. federal government websites. See more data at [analytics.usa.gov](https://analytics.usa.gov)._
-
+** **Correction: This was incorrectly first reported as 98%, which actually referred to the percentage of mobile sessions using Safari on either an iPhone or iPad. We regret the error.**_Author’s Note: This is Part 1 of a blog in which we use data from the [Digital Analytics Program](http://WHATEVER/services/dap) (DAP) to discuss shifts in the ways the public interacts with U.S. federal government websites. Part 1 focuses on Web browser usage, while Part 2 (to be published next week) will discuss the change in mobile vs. desktop visits. The DAP collects data from more than 4,000 U.S. federal government websites. See more data at [analytics.usa.gov](https://analytics.usa.gov)._
 _To learn more about the Digital Analytics Program, request access to the data (federal employees or contractors only; subject to approval) or to learn how to participate, [email DAP](mailto:dap@support.WHATEVER)._

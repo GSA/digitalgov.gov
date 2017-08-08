@@ -1,5 +1,5 @@
 ---
-date: 2017-07-03 3:36:05 -0400
+date: 2017-07-03 15:36:05 -0400
 title: 'Vets.gov: A Modern Software Development Environment in Government'
 summary: When people think of government software, they often think of COBOL and PowerBuilder 5, with manual software deploys every three to six months on a fixed number of machines in a government-run data center. This perception is sometimes justified, but sometimes entirely wrong. Regardless, the perception makes many developers reluctant to work for the government
 authors:
@@ -8,7 +8,7 @@ authors:
 categories:
   - Code
   - Design
-  - 'User Testing &amp; Research'
+  - 'User Testing and Research'
   - UX
 tag:
   - cloud
@@ -45,10 +45,8 @@ In 2015, Marina Martin, the former VA Chief Technology Officer (CTO) and lead fo
 
 > &#8220;We are here to demonstrate that it’s possible for the government to repeatedly deliver simple, excellent services for Veterans using today’s technology and best practices. Or to demonstrate, for sure, that it is not.&#8221;
 
-Beyond all odds, we believe we are showing this is actually possible at the VA, and we truly believe that if this is possible at the VA, it’s possible anywhere in the government. There is still so much work to do, however. The best way we know how to do this is to keep shipping products that matter, so we’re going back to work. Want to <a href="https://www.usds.gov/join" target="_blank" rel="noopener">join us</a>?
-
-_Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
+Beyond all odds, we believe we are showing this is actually possible at the VA, and we truly believe that if this is possible at the VA, it’s possible anywhere in the government. There is still so much work to do, however. The best way we know how to do this is to keep shipping products that matter, so we’re going back to work. Want to <a href="https://www.usds.gov/join" target="_blank" rel="noopener">join us</a>?_Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
 
 {{< legacy-img src="CDN/files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
 
-This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a).
+_This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a)._

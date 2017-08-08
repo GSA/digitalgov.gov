@@ -47,6 +47,4 @@ DHS has a responsibility to not only secure the means of communication used by d
       3.21 MB
     </td>
   </tr>
-</table>
-
-_This post was originally published on the Department of Homeland Security&#8217;s <a href="https://www.dhs.gov/publication/csd-mobile-device-security-study" target="_blank" rel="noopener noreferrer">Publications Library</a>._
+</table>_This post was originally published on the Department of Homeland Security&#8217;s <a href="https://www.dhs.gov/publication/csd-mobile-device-security-study" target="_blank" rel="noopener noreferrer">Publications Library</a>._

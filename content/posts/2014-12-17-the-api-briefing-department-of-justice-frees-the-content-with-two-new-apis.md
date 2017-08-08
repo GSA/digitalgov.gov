@@ -21,12 +21,8 @@ With the rise of [APIs]({{< relref "2013-04-30-apis-in-government.md" >}} "APIs 
 
 The Department of Justice just released two APIs that give developers both DOJ public relations content and job openings. Developers can repurpose over 14,000 press releases, blog postings, job and speeches using the <a href="http://www.justice.gov/developer/api-documentation/api_v1" target="_blank">DOJ News API</a>. Alternatively, developers can create a legal job search app (like the <a href="https://itunes.apple.com/us/app/doj-law-jobs/id905071111?mt=8&ign-mpt=uo%3D4" target="_blank">DOJ Law Jobs app</a>) using the <a href="http://www.justice.gov/developer/api-documentation/api_v1#vacancy-announcements-index" target="_blank">DOJ Law Jobs API</a>.
 
-Freeing content allows for greater innovation in using and displaying that content. Federal APIs that provide content such as blog postings, videos, and job information can be spread further than just the federal agency’s website. Content APIs make government information much more valuable and useful to the American public thanks to creativity of app developers.
-
-_Thank you for reading the [API Briefing](({{< link "tag/wednesday-api-briefing" >}}) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
-
+Freeing content allows for greater innovation in using and displaying that content. Federal APIs that provide content such as blog postings, videos, and job information can be spread further than just the federal agency’s website. Content APIs make government information much more valuable and useful to the American public thanks to creativity of app developers._Thank you for reading the [API Briefing]({{< link "tag/wednesday-api-briefing" >}}) this year. I will be taking a short holiday break, but will be resuming my column in the New Year._
 _Each week in “The API Briefing,” I will showcase government APIs and the latest API news and trends. Visit this blog every week to learn how government APIs are transforming government and improving government services for the American people. If you have ideas for a topic or have questions about APIs, please contact me via_ [_email_](mailto:bill.brantley@wdc.usda.gov)_._
-
 _**Dr. William A. Brantley** is the HRIS Branch Chief in the USDA’s Rural Development Human Resources Office. You can find out more about his non-federal work in this space at_ [_BillBrantley.com_](http://billbrantley.com/)_. All opinions are his own and do not reflect the opinions of the USDA and GSA._
 
 <div class="copyIcon copy0">

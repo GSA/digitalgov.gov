@@ -1,5 +1,5 @@
 ---
-date: 2015-09-15 1:20:00 -0400
+date: 2015-09-15 13:20:00 -0400
 title: 'Trends on Tuesday: The Mobile Internet is Dead. Long Live the Mobile Internet.'
 summary: Benedict Evans, a leading mobile analyst with the Silicon Valley venture capital firm Andreessen Horowitz, published a provocative post last week about the death of the mobile Internet. He details the history of the mobile Web and posits that the mobile Internet is the Internet now. The desktop version of the Internet audience is smaller
 authors:
@@ -24,4 +24,4 @@ Evans explains in the post, “Mobile is not a subset of the Internet anymore, t
 
 Evans also predicts that this trend will continue to accelerate as more than 4 billion people on Earth already have a mobile phone and many have Web-enabled smartphones. In the post, Evans compares the trend of double-digit, year-over-year growth for smartphones and tablets with the similar year-over-year decline of laptops and desktops, clearly shown in this chart from 2013-2015: {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-383-UK-mobile-devices-chart-source-Ofcom.jpg" alt="Chart comparing the trend of double-digit, year-over-year growth for smartphones and tablets with the similar year-over-year decline of laptops and desktops between 2013 and 2015." caption="" >}} 
 
-On DigitalGov, we’ve been [tracking this trend]({{< relref "2015-05-05-trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users.md" >}}) and [evangelizing government agencies to get mobile-first optimized]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md" >}}). For more resources on how you can prepare your agency, [check out our series of mobile articles](({{< link "categories/mobile" >}}).
+On DigitalGov, we’ve been [tracking this trend]({{< relref "2015-05-05-trends-on-tuesday-u-s-mobile-only-internet-users-now-outnumber-desktop-only-users.md" >}}) and [evangelizing government agencies to get mobile-first optimized]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md" >}}). For more resources on how you can prepare your agency, [check out our series of mobile articles]({{< link "categories/mobile" >}}).

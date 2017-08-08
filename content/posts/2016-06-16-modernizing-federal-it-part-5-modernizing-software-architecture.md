@@ -1,5 +1,5 @@
 ---
-date: 2016-06-16 2:00:31 -0400
+date: 2016-06-16 14:00:31 -0400
 title: 'Modernizing Federal IT Part 5: Modernizing Software Architecture'
 summary: 'This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. You can find part 1 here, part 2 here, part 3 here and part 4 here. In the next three posts we will consider the problem of modernizing old legacy software. In this post we will start a'
 authors:
@@ -31,6 +31,4 @@ Now back to the issue at hand. To take full advantage of these features and econ
 
 Over the last year we have developed just such an environment at the SSA and this sets us up to start re-architecting our legacy software. We do not think that going from COBOL and assembler to JAVA or .Net or Ruby on Rails is the whole answer. Going from COBOL to JAVA trades a 40 year old programming language for a 20 year old programming language. There has to be more accomplished and that more is about architecture.
 
-So let me restate this one last time: modernizing legacy software is not about rewriting old applications in a modern language. It is not about converting an old monolithic software architecture in COBOL into a monolithic software architecture in JAVA. It is about getting to a modern distributed software architecture that can take full advantage of a cluster of servers and take full advantage of the very large cluster that is a cloud. It is about giving up the quest for a perfectly compute-efficient application to quest for a more fault-tolerant, scalable, secure inexpensive application.
-
-_This post was originally published on the [CIOC blog](https://cio.gov/cioc-blog/) by Rob Klopp, Chief Information Officer of the Social Security Administration._
+So let me restate this one last time: modernizing legacy software is not about rewriting old applications in a modern language. It is not about converting an old monolithic software architecture in COBOL into a monolithic software architecture in JAVA. It is about getting to a modern distributed software architecture that can take full advantage of a cluster of servers and take full advantage of the very large cluster that is a cloud. It is about giving up the quest for a perfectly compute-efficient application to quest for a more fault-tolerant, scalable, secure inexpensive application._This post was originally published on the [CIOC blog](https://cio.gov/cioc-blog/) by Rob Klopp, Chief Information Officer of the Social Security Administration._

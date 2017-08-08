@@ -15,6 +15,6 @@ tag:
 
 State&#8217;s mobile site provides the latest foreign policy information from the State Department. Included are recent stories from the Secretary’s travels, the daily press briefing, country fact sheets, human rights reports, and more.
 
-[Responsive design](({{< link "tag/responsive-web-design" >}}) is becoming a popular means of creating a single site that can display nicely on a range of device sizes.
+[Responsive design]({{< link "tag/responsive-web-design" >}}) is becoming a popular means of creating a single site that can display nicely on a range of device sizes.
 
 You can view other products like [m.state.gov](http://m.state.gov/) on the [USA.gov Apps Gallery](http://apps.usa.gov/).

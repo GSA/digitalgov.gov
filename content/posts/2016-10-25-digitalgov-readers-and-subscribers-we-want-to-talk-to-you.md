@@ -1,5 +1,5 @@
 ---
-date: 2016-10-25 3:00:21 -0400
+date: 2016-10-25 15:00:21 -0400
 title: 'DigitalGov Readers and Subscribers: We Want to Talk to You'
 summary: As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community. Over the course of the next few weeks, a small team from
 authors:
@@ -16,7 +16,7 @@ tag:
   - CX
   - DGU
   - DigitalGov University
-  - 'Office of Products &amp; Programs'
+  - 'Office of Products and Programs'
   - OPP
   - research
   - user centered design

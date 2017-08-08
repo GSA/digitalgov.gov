@@ -1,5 +1,5 @@
 ---
-date: 2017-04-25 2:19:20 -0400
+date: 2017-04-25 14:19:20 -0400
 title: 'Congress.gov 2017 Spring Cleaning: Download Search Results and Advanced Search Enhancements'
 summary: 'Spring is a beautiful time of year in Washington, D.C. The temperature warms up; the cherry blossoms are out; and we frequently have an update of Congress.gov to share. In 2015 we added treaties and web-friendly bill text, and in 2016 we expanded the quick search feature. Today there is another round of enhancements to the Library of Congress website for'
 authors:
@@ -69,6 +69,4 @@ The [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?locl
 >   * Search Tips and Law Library news
 >   * Display session convene times for the House
 
-Please share your Congress.gov feedback via [this survey](https://www.research.net/r/congress-gov-feedback) or in the [comments on the In Custodia Legis blog](http://blogs.loc.gov/law/2017/04/download-search-results-and-advanced-search-enhancements-congress-gov-2017-spring-cleaning/#respond). For a quick refresher on Congress.gov enhancements from last year, take a look at [this post](http://blogs.loc.gov/law/2017/01/the-congress-gov-top-16-in-2016/?loclr=bloglaw).
-
-_This post was originally published on the Law Library of Congress [In Custodia Legis](http://blogs.loc.gov/law/) blog._
+Please share your Congress.gov feedback via [this survey](https://www.research.net/r/congress-gov-feedback) or in the [comments on the In Custodia Legis blog](http://blogs.loc.gov/law/2017/04/download-search-results-and-advanced-search-enhancements-congress-gov-2017-spring-cleaning/#respond). For a quick refresher on Congress.gov enhancements from last year, take a look at [this post](http://blogs.loc.gov/law/2017/01/the-congress-gov-top-16-in-2016/?loclr=bloglaw)._This post was originally published on the Law Library of Congress [In Custodia Legis](http://blogs.loc.gov/law/) blog._

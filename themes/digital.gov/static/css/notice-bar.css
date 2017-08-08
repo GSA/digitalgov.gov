@@ -1,0 +1,26 @@
+.notice {
+    background-color: #FFDC00;
+    padding: 4px 0;
+}
+
+.notice-content {
+    margin: 0 auto;
+    max-width: 944px;
+    padding: 0 16px;
+}
+
+p.notice-text {
+    margin: 0;
+    color: #222;
+    font-size: 14px;
+}
+
+span.notice-text--primary {
+    font-weight: bold;
+}
+
+.notice-text a,
+.notice-text a:link
+.notice-text a:visited {
+  text-decoration: underline;
+}
