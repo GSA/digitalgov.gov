@@ -3,11 +3,11 @@
   <div class="cat-container clearfix">
     <div class="featpage-image">
       {{/* get the post url */}}
-      <a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">
+      <a class="block--full" href="{{ .Permalink }}" title="{{ .Title | markdownify }}">
         {{/* get the post featured image */}}
 
         {{ partial "img-featured--home.html" . }}
-        
+
       </a>
       {{/* get the post url */}}
       <a class="more-link" href="{{ .Permalink }}" rel="nofollow">Read More</a>

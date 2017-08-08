@@ -1,7 +1,7 @@
 _site/
 public/
 content/images/_working/
-content/images/done/
+content/images/uploaded/
 .sass-cache/
 .jekyll-metadata
 .ruby-version
