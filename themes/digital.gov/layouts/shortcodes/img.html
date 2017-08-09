@@ -3,9 +3,7 @@
 {{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
 {{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
 {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
-{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
-{{ $imgProxy := absURL $imgProxy }}
+{{ $imgLocalProxy := printf "%s/%s_%s.%s" "static/img/proxy" $imgBase $imgExt $imgExt }}
 {{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
 {{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
 
