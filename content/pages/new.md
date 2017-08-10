@@ -10,40 +10,42 @@ summary: this is a summary
 
 <div class="matter-container">
   <div class="btn-group">
-    <button class="btn selected" type="button" data-type="post">post</button><button class="btn" type="button" data-type="page">page</button><button class="btn" type="button" data-type="event">event</button>
+    <button class="btn selected" type="button" data-type="post">post</button><button class="btn" type="button" data-type="doc">doc</button>
   </div>
   <div class="gcol gcol1">
     <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
-      <input class="fm hidden" type="text" name="m_url" value="">
       <label class="m_date">
         Date
         <input class="fm" type="text" name="m_date" value="">
       </label>
       <label class="m_title">
         Headline
-        <input class="m_title fm" type="text" name="m_title" value="">
+        <input class="fm" type="text" name="m_title" value="">
       </label>
       <label class="m_summary">
         Summary
-        <input class="m_summary fm" type="text" name="m_summary" value="">
+        <textarea class="fm" name="m_summary"></textarea>
       </label>
-      <label class="m_author">
+      <label class="m_authors">
         Author
-        <input class="m_author fm" type="text" name="m_author" value="">
+        <input class="fm" type="text" name="m_authors" value="">
+        <span>jparcell, tymanuel, jesse-taggert — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
       </label>
       <label class="m_categories">
         Categories
-        <input class="m_categories fm" type="text" name="m_categories" value="">
+        <input class="fm" type="text" name="m_categories" value="">
+        <span>social-media, user-testing-and-research, mobile — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/categories.yml" title="See all Categories">see all categories</a></span>
       </label>
       <label class="m_tag">
         Tags
-        <input class="m_tag fm" type="text" name="m_tag" value="">
+        <input class="fm" type="text" name="m_tag" value="">
+        <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/tag.yml" title="See all Tags">see all tags</a></span>
       </label>
     </form>
   </div>
   <div class="gcol gcol2">
     <pre id="filename" class="mttr">***</pre>
     <pre id="post-matter" class="mttr">---</pre>
-    <p><a id="newfile" href="https://github.com/GSA/digital.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
+    <p><a id="newfile" href="https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
   </div>
 </div>

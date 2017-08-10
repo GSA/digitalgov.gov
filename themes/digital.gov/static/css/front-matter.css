@@ -44,6 +44,7 @@
   grid-area: row2-start / 1 / 2 / 1;
 }
 .gcol2{
+  margin-top: 25px;
   grid-area: row2-start / 2 / 2 / 2;
   max-width: 480px;
 }
@@ -63,14 +64,25 @@
 }
 .gcol1 form label{
   margin-bottom: 18px;
+  font-size: .9em;
+  color:#222;
+}
+.gcol1 form label span{
+  font-size:.9em;
+  font-style: italic;
 }
 .gcol1 form label:last-child{
   margin-bottom: 0;
 }
+.gcol1 form textarea,
 .gcol1 form input{
   padding: 10px;
-  width:90% ;
+  width:90%;
+  font-size: 1.1em;
   border:1px #ccc solid;
+}
+.gcol1 form textarea{
+  height:65px;
 }
 .gcol2 p {
   margin: 15px 0;
@@ -81,9 +93,9 @@
 .gcol2 .mttr{
   margin: 0;
   padding: 10px 15px;
-  background:#f8f8f8;
+  /*background:#f8f8f8;*/
   font-size: 1em;
-  border:1px #555 solid;
+  border:3px #555 solid;
 }
 .gcol2 pre{
   white-space: pre-wrap;       /* css-3 */
@@ -94,4 +106,7 @@
 }
 .gcol2 .mttr#filename{
   border-bottom: none;
+}
+.gcol2 #post-matter{
+  padding-bottom: 30px;
 }
