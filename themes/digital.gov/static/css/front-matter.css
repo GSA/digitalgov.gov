@@ -1,3 +1,4 @@
+
 .matter-container{
   margin: 50px 0;
   display: grid;
@@ -5,6 +6,40 @@
   grid-template-rows: auto auto;
   grid-template-columns: 1fr 1fr;
 }
+
+.btn-group{
+  margin-bottom: 30px;
+}
+.btn-group .btn{
+  padding: 8px 12px 10px 12px;
+  border-radius: 0;
+  border:1px #555 solid;
+  border-left:none;
+  border-right:none;
+  font-size: 1em;
+  font-weight: bold;
+  background: #fff;
+}
+.btn-group .btn:first-child{
+  border-left:1px #555 solid;
+}
+.btn-group .btn:last-child{
+  border-right:1px #555 solid;
+}
+.btn-group .btn:hover{
+  background: #efefef;
+  cursor: pointer;
+}
+.btn-group .selected{
+  background: #3F4FFF;
+  color:#fff;
+  outline:none;
+}
+.btn-group .selected:hover{
+  background: #3F4FFF;
+  color:#fff;
+}
+
 .gcol1{
   grid-area: row2-start / 1 / 2 / 1;
 }
@@ -15,6 +50,10 @@
 
 .gcol1 form{
   margin-top: 0;
+}
+
+.gcol1 form .hidden{
+  display: none;
 }
 .gcol1 form label,
 .gcol1 form input{
