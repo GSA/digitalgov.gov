@@ -124,7 +124,9 @@ jQuery(document).ready(function($) {
     $item = '';
     $item += '\n';
     $.each( list, function( key, value ) {
-      $item += '  - ' + $.trim(value) + '\n';
+      slug = value.replace(entityPattern, ' ').trim();
+      slug = slug.replace(/[^a-z0-9]/gi, '-').toLowerCase();
+      $item += '  - ' + $.trim(slug) + '\n';
     });
     return $item;
   }
