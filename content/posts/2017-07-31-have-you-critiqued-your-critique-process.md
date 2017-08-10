@@ -8,8 +8,8 @@ authors:
 categories: 
   - Design
   - Managing Digital
-  - Strategy & Policy
-  - User Testing & Research
+  - Strategy and Policy
+  - User Testing and Research
   - UX
 
 tag: 
