@@ -60,6 +60,8 @@ jQuery(document).ready(function($) {
 
   // inputs the current date in the date field
   $('input[name="m_date"]').val(curr_date());
+  $('input[name="m_start_date"]').val(curr_date());
+  $('input[name="m_end_date"]').val(curr_date());
 
 
   // Gets the data from the FORM and pushes it to print_matter()
@@ -142,6 +144,37 @@ jQuery(document).ready(function($) {
     });
     return $item;
   }
+
+
+  function set_1800f(set){
+    $('.event_venue input').prop("readonly", true).addClass('quiet');
+    if (set == true) {
+      $('.m_venue input').val('The General Services Administration');
+      $('.m_address input').val('1800 F St.');
+      $('.m_city input').val('Washington');
+      $('.m_state input').val('D.C.');
+      $('.m_zip input').val('20006');
+      $('.m_country input').val('USA');
+      $('.m_map input').val('https://goo.gl/maps/bFWBD6QfDLA2');
+    } else {
+      $('.m_venue input').val('');
+      $('.m_address input').val('');
+      $('.m_city input').val('');
+      $('.m_state input').val('');
+      $('.m_zip input').val('');
+      $('.m_country input').val('');
+      $('.m_map input').val('');
+    }
+  }
+
+  $('.m_1800f input').click(function(){
+    if (this.checked) {
+      set_1800f(true);
+    } else {
+      set_1800f(false);
+    }
+  });
+
 
   // Prints the front-matter in a DIV on the page
   function print_matter(data){

@@ -74,6 +74,10 @@
 .gcol1 form label:last-child{
   margin-bottom: 0;
 }
+
+.gcol1 form .quiet{
+  color: #888;
+}
 .gcol1 form textarea,
 .gcol1 form input{
   padding: 10px;
