@@ -1,0 +1,135 @@
+---
+url: /new
+type: docs
+layout: 1col
+date: 2017-07-08 3:46:23 -0400
+title: Create a new post
+summary: this is a summary
+---
+
+
+<div class="matter-container">
+  <div class="btn-group">
+    <button class="btn selected" type="button" data-type="post">post</button><button class="btn" type="button" data-type="doc">doc</button><button class="btn" type="button" data-type="event">event</button>
+  </div>
+  <div class="gcol gcol1">
+    <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
+      <label class="m_date">
+        Date
+        <input class="fm" type="text" name="m_date" value="">
+      </label>
+      <label class="m_title">
+        Headline
+        <input class="fm" type="text" name="m_title" value="">
+      </label>
+      <label class="m_summary">
+        Summary
+        <textarea class="fm" name="m_summary"></textarea>
+      </label>
+      <label class="m_authors">
+        Author
+        <input class="fm" type="text" name="m_authors" value="">
+        <span>jparcell, tymanuel, jesse-taggert — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
+      </label>
+      <label class="m_categories">
+        Categories
+        <input class="fm" type="text" name="m_categories" value="">
+        <span>social-media, user-testing-and-research, mobile — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/categories.yml" title="See all Categories">see all categories</a></span>
+      </label>
+      <label class="m_tag">
+        Tags
+        <input class="fm" type="text" name="m_tag" value="">
+        <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/tag.yml" title="See all Tags">see all tags</a></span>
+      </label>
+
+      <div class="ev event_type">
+        <h4>Event</h4>
+        <label class="m_event_organizer">
+          Organizer
+          <input class="fm" type="text" name="m_event_organizer" value="">
+        </label>
+        <label class="m_start_date">
+          Start Date/Time
+          <input class="fm" type="text" name="m_start_date" value="">
+        </label>
+        <label class="m_end_date">
+          End Date/Time
+          <input class="fm" type="text" name="m_end_date" value="">
+        </label>
+        <div class="checkbox">
+          <label class="m_event_type">
+            <input name="m_event_type" type="checkbox" value="in-person">
+            In-person
+          </label>
+        </div>
+        <div class="checkbox">
+          <label class="m_event_type">
+            <input name="m_event_type" type="checkbox" value="online">
+            Online
+          </label>
+        </div>
+      </div>
+      <div class="ev event_venue">
+        <h4>Venue</h4>
+        <div class="checkbox">
+          <label class="m_1800f">
+            <input name="m_1800f" type="checkbox" value="1800f" checked>
+            1800 F St. Washington D.C. 10001
+          </label>
+        </div>
+        <label class="m_venue">
+          Venue
+          <input class="fm" type="text" name="m_venue" value="">
+        </label>
+        <label class="m_room">
+          Room #
+          <input class="fm" type="text" name="m_room" value="">
+        </label>
+        <label class="m_address">
+          Address
+          <input class="fm" type="text" name="m_address" value="">
+        </label>
+        <label class="m_city">
+          City
+          <input class="fm" type="text" name="m_city" value="">
+        </label>
+        <label class="m_state">
+          State
+          <input class="fm" type="text" name="m_state" value="">
+        </label>
+        <label class="m_zip">
+          Zip
+          <input class="fm" type="text" name="m_zip" value="">
+        </label>
+        <label class="m_country">
+          Country
+          <input class="fm" type="text" name="m_country" value="USA">
+        </label>
+        <label class="m_map">
+          Google Maps link
+          <input class="fm" type="text" name="m_map" value="">
+        </label>
+      </div>
+      <div class="ev event_registration">
+        <h4>Registration</h4>
+        <label class="m_event_link">
+          Event link
+          <input class="fm" type="text" name="m_event_link" value="">
+        </label>
+        <label class="m_event_reg">
+          Registration Link
+          <input class="fm" type="text" name="m_event_reg" value="">
+        </label>
+        <label class="m_host">
+          Host
+          <input class="fm" type="text" name="m_host" value="">
+        </label>
+      </div>
+    </form>
+  </div>
+  <div class="gcol gcol2">
+    <pre id="filename" class="mttr">***</pre>
+    <pre id="post-matter" class="mttr">---</pre>
+    <p><a id="newfile" href="https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
+  </div>
+</div>

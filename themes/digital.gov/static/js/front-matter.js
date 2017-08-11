@@ -81,12 +81,14 @@ jQuery(document).ready(function($) {
 
   function show_fields(d){
     $('#matter-maker label').addClass('hidden');
+    $('#matter-maker .ev').addClass('hidden');
     var fields = d.split(', ');
     for (var f in fields) {
       var field = '.'+fields[f];
       $('#matter-maker '+field).removeClass('hidden');
     }
   }
+  show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
 
   // A function that replaces out the special characters in strings
   function escapeHtml (string) {
@@ -173,6 +175,7 @@ jQuery(document).ready(function($) {
 
       // EVENT
     } else if (post_type == 'event') {
+      show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_event_type, event_venue, m_1800f, m_venue, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
       var matter = [
         "---",
           "url: " + matter_url(data['m_date'], data['m_title']),
@@ -181,6 +184,20 @@ jQuery(document).ready(function($) {
           "summary: '" + escapeHtml(data['m_summary']) + "'",
           "categories: " + list_items(data['m_categories']),
           "tag: " + list_items(data['m_tag']),
+          "start_date: " + data['m_start_date'],
+          "end_date: " + data['m_end_date'],
+          "event_type: " + data['m_event_type'],
+          "venue: " + data['m_venue'],
+          "room: " + data['m_room'],
+          "address: " + data['m_address'],
+          "city: " + data['m_city'],
+          "state: " + data['m_state'],
+          "zip: " + data['m_zip'],
+          "country: " + data['m_country'],
+          "map: " + data['m_map'],
+          "event_link: " + data['m_event_link'],
+          "event_reg: " + data['m_event_reg'],
+          "host: " + data['m_host'],
         "---",
         ,
         "***Paste content here. Delete this line***"
