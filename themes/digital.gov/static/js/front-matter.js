@@ -147,16 +147,17 @@ jQuery(document).ready(function($) {
 
 
   function set_1800f(set){
-    $('.event_venue input').prop("readonly", true).addClass('quiet');
     if (set == true) {
-      $('.m_venue input').val('The General Services Administration');
-      $('.m_address input').val('1800 F St.');
-      $('.m_city input').val('Washington');
-      $('.m_state input').val('D.C.');
-      $('.m_zip input').val('20006');
-      $('.m_country input').val('USA');
-      $('.m_map input').val('https://goo.gl/maps/bFWBD6QfDLA2');
+      $('.m_venue input').val('The General Services Administration').prop("readonly", true).addClass('quiet');
+      $('.m_address input').val('1800 F St.').prop("readonly", true).addClass('quiet');
+      $('.m_city input').val('Washington').prop("readonly", true).addClass('quiet');
+      $('.m_state input').val('D.C.').prop("readonly", true).addClass('quiet');
+      $('.m_zip input').val('20006').prop("readonly", true).addClass('quiet');
+      $('.m_country input').val('USA').prop("readonly", true).addClass('quiet');
+      $('.m_map input').val('https://goo.gl/maps/bFWBD6QfDLA2').prop("readonly", true).addClass('quiet');
+      get_matter_data();
     } else {
+      $('.event_venue input').prop("readonly", false).removeClass('quiet');
       $('.m_venue input').val('');
       $('.m_address input').val('');
       $('.m_city input').val('');

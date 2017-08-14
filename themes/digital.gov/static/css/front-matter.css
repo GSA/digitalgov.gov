@@ -88,9 +88,34 @@
 .gcol1 form textarea{
   height:65px;
 }
+.gcol1 .checkbox{
+  margin:35px 0;
+  display: inline-block;
+}
+.gcol1 .checkbox input{
+  display: inline;
+  width:25px;
+}
+.gcol1 .checkbox label{
+  display: inline;
+  border:1px #555 solid;
+  padding: 10px 20px 12px 10px;
+  width: 40%;
+  font-size:1em;
+}
+.gcol1 code{
+  padding: 2px 5px;
+  display: inline;
+  border: none;
+  background: #F8F4D7;
+  font-size: 1em;
+  color:#555;
+
+}
 .gcol2 p {
   margin: 15px 0;
 }
+
 .gcol2 #newfile {
   font-weight: bold;
 }
@@ -113,4 +138,14 @@
 }
 .gcol2 #post-matter{
   padding-bottom: 30px;
+}
+
+
+.ev{
+  margin-top: 40px;
+}
+
+.ev h4{
+  margin-bottom: 10px;
+  font-size: 18px;
 }

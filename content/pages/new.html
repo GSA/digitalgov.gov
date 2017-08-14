@@ -44,19 +44,6 @@ summary: this is a summary
 
       <div class="ev event_type">
         <h4>Event</h4>
-        <label class="m_event_organizer">
-          Organizer
-          <input class="fm" type="text" name="m_event_organizer" value="">
-          <span>DigitalGov University</span>
-        </label>
-        <label class="m_start_date">
-          Start Date/Time
-          <input class="fm" type="text" name="m_start_date" value="">
-        </label>
-        <label class="m_end_date">
-          End Date/Time
-          <input class="fm" type="text" name="m_end_date" value="">
-        </label>
         <div class="checkbox">
           <label class="m_event_type">
             <input name="m_event_type" type="checkbox" value="in-person">
@@ -69,13 +56,27 @@ summary: this is a summary
             Online
           </label>
         </div>
+        <label class="m_event_organizer">
+          Who is the Organizer?
+          <input class="fm" type="text" name="m_event_organizer" value="">
+          <span>DigitalGov University, 18F</span>
+        </label>
+        <label class="m_start_date">
+          Start Date/Time
+          <input class="fm" type="text" name="m_start_date" value="">
+          <span>must be in the <code>2017-08-11 21:26:9 -0400</code> format.</span>
+        </label>
+        <label class="m_end_date">
+          End Date/Time
+          <input class="fm" type="text" name="m_end_date" value="">
+        </label>
       </div>
       <div class="ev event_venue">
         <h4>Venue</h4>
         <div class="checkbox">
           <label class="m_1800f">
             <input name="m_1800f" type="checkbox" value="1800f">
-            1800 F St. Washington D.C. 10001
+            1800 F St. Washington D.C. 20006
           </label>
         </div>
         <label class="m_venue">
