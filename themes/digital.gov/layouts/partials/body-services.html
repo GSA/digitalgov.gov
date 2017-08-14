@@ -6,9 +6,14 @@
   </div>
 </div>
 
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
+{{ $these := slice "resources" "services" "communities" }}
+{{ $findInPages := where .Site.Pages "Section" "in" $these }}
+
+{{ range $.Site.Data.featured_programs.featured }}
+  {{ $match := first 1 (where $findInPages ".Params.uid" .uid) }}
+  {{ if ge (len $match) 1 }}
+    {{ range $match }}
+      {{ partial "service--featured.html" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
