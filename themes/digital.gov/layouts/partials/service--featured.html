@@ -3,7 +3,16 @@
     <div class="post clearfix">
 
       <div class="featpage-image">
-        <a href="{{ .URL }}" rel="bookmark" title="Permanent Link to DAP: Digital Analytics Program"><img class="thumbnail" src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/hp-featured-pg-384-x-210-new-DAP-image-No-URL-for-DG-homepage.jpg" alt="DAP: Digital Analytics Program" title="DAP: Digital Analytics Program" /></a>
+        <a href="{{ .URL }}" rel="bookmark" title="Permanent Link to DAP: Digital Analytics Program">
+
+          {{/* partial "img-featured--home.html" . */}}
+          <img
+            class="thumbnail"
+            src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/hp-featured-pg-384-x-210-new-DAP-image-No-URL-for-DG-homepage.jpg"
+            alt="DAP: Digital Analytics Program"
+            title="DAP: Digital Analytics Program"
+          />
+        </a>
       </div>
 
       <h3 class="widgettitle"><span><a href="{{ .URL }}">{{ .Title | markdownify }}</a></span></h3>

@@ -1,19 +1,31 @@
 featured:
   - uid: dap
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
   - uid: mobile-application-testing-program
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
   - uid: sites-usa-gov
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
   - uid: challenges-and-prizes
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
   - uid: social-media
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
   - uid: negotiated-terms-of-service-agreements
-    featured_text:
-    featured_img:
+    summary:
+    img:
+      src: bill-of-rights.jpg
+      alt:
