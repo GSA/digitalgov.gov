@@ -144,13 +144,10 @@
 .gcol2 #post-matter{
   padding-bottom: 30px;
 }
-
-
-.ev{
+.block{
   margin-top: 40px;
 }
-
-.ev h4{
+.block h4{
   margin-bottom: 10px;
   font-size: 18px;
 }
