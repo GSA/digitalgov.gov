@@ -1,31 +1,38 @@
 featured:
-  - uid: dap
-    summary:
+# ==============================================
+  - uid     : dap
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
-  - uid: mobile-application-testing-program
-    summary:
+      src   : new-dap-image-no-url-for-dg-homepage.jpg
+      alt   :
+# ==============================================
+  - uid     : mobile-application-testing-program
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
-  - uid: sites-usa-gov
-    summary:
+      src   : mobile-devices-testing-app-tilted.jpg
+      alt   :
+# ==============================================
+  - uid     : sites-usa-gov
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
-  - uid: challenges-and-prizes
-    summary:
+      src   : usa-gov-digital-strategy.jpg
+      alt   :
+# ==============================================
+  - uid     : challenges-and-prizes
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
-  - uid: social-media
-    summary:
+      src   : challengegov-logo.jpg
+      alt   :
+# ==============================================
+  - uid     : social-media
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
-  - uid: negotiated-terms-of-service-agreements
-    summary:
+      src   : social-media-icons-ailverv-istock-thinkstock-476494475.jpg
+      alt   :
+# ==============================================
+  - uid     : negotiated-terms-of-service-agreements
+    summary :
     img:
-      src: bill-of-rights.jpg
-      alt:
+      src   : agreement-terms-of-service-tos.jpg
+      alt   :
+# ==============================================

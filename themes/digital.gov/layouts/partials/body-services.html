@@ -49,7 +49,7 @@
             <img
               class="thumbnail"
               src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-              alt="{{ $.Scratch.Get "featured-img-alt" | default "foo default" }}"
+              alt="{{ $.Scratch.Get "featured-img-alt" | default $match.Title | markdownify }}"
               title="{{ $match.Title | markdownify }}" />
           </a>
         </div>
