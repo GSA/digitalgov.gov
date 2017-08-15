@@ -9,52 +9,44 @@ summary: this is a summary
 
 
 <div class="matter-container">
-  <div class="btn-group">
+  <div class="btn-group post_types">
     <button class="btn selected" type="button" data-type="post">post</button><button class="btn" type="button" data-type="doc">doc</button><button class="btn" type="button" data-type="event">event</button>
   </div>
   <div class="gcol gcol1">
     <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
-      <label class="m_date">
-        Date
-        <input class="fm" type="text" name="m_date" value="">
-      </label>
-      <label class="m_title">
-        Headline
-        <input class="fm" type="text" name="m_title" value="">
-      </label>
-      <label class="m_summary">
-        Summary
-        <textarea class="fm" name="m_summary"></textarea>
-      </label>
-      <label class="m_authors">
-        Author
-        <input class="fm" type="text" name="m_authors" value="">
-        <span>jparcell, tymanuel, jesse-taggert — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
-      </label>
-      <label class="m_categories">
-        Categories
-        <input class="fm" type="text" name="m_categories" value="">
-        <span>social-media, user-testing-and-research, mobile — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/categories.yml" title="See all Categories">see all categories</a></span>
-      </label>
-      <label class="m_tag">
-        Tags
-        <input class="fm" type="text" name="m_tag" value="">
-        <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/tag.yml" title="See all Tags">see all tags</a></span>
-      </label>
-
-      <div class="ev event_type">
+      <div class="post_data">
+        <label class="m_date">
+          Date
+          <input class="fm" type="text" name="m_date" value="">
+        </label>
+        <label class="m_title">
+          Headline
+          <input class="fm" type="text" name="m_title" value="">
+        </label>
+        <label class="m_summary">
+          Summary
+          <textarea class="fm" name="m_summary"></textarea>
+        </label>
+        <label class="m_authors">
+          Author
+          <input class="fm" type="text" name="m_authors" value="">
+          <span>jparcell, tymanuel, jesse-taggert — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
+        </label>
+        <label class="m_categories">
+          Categories
+          <input class="fm" type="text" name="m_categories" value="">
+          <span>social-media, user-testing-and-research, mobile — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/categories.yml" title="See all Categories">see all categories</a></span>
+        </label>
+        <label class="m_tag">
+          Tags
+          <input class="fm" type="text" name="m_tag" value="">
+          <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/tag.yml" title="See all Tags">see all tags</a></span>
+        </label>        
+      </div>
+      <div class="block event_type">
         <h4>Event</h4>
-        <div class="checkbox">
-          <label class="m_event_type">
-            <input name="m_event_type" type="checkbox" value="in-person">
-            In-person
-          </label>
-        </div>
-        <div class="checkbox">
-          <label class="m_event_type">
-            <input name="m_event_type" type="checkbox" value="online">
-            Online
-          </label>
+        <div class="btn-group event_types">
+          <button class="btn selected" type="button" data-type="online">online</button><button class="btn" type="button" data-type="mixed">both</button><button class="btn" type="button" data-type="in-person">in-person</button>
         </div>
         <label class="m_event_organizer">
           Who is the Organizer?
@@ -70,8 +62,13 @@ summary: this is a summary
           End Date/Time
           <input class="fm" type="text" name="m_end_date" value="">
         </label>
+        <label class="m_youtube">
+          YouTube LIVE
+          <input class="fm" type="text" name="m_youtube" value="">
+          <span>link example needed</span>
+        </label>
       </div>
-      <div class="ev event_venue">
+      <div class="block event_venue hide">
         <h4>Venue</h4>
         <div class="checkbox">
           <label class="m_1800f">
@@ -79,13 +76,14 @@ summary: this is a summary
             1800 F St. Washington D.C. 20006
           </label>
         </div>
-        <label class="m_venue">
-          Venue
-          <input class="fm" type="text" name="m_venue" value="">
-        </label>
+
         <label class="m_room">
           Room #
           <input class="fm" type="text" name="m_room" value="">
+        </label>
+        <label class="m_venue">
+          Venue
+          <input class="fm" type="text" name="m_venue" value="">
         </label>
         <label class="m_address">
           Address
@@ -112,7 +110,7 @@ summary: this is a summary
           <input class="fm" type="text" name="m_map" value="">
         </label>
       </div>
-      <div class="ev event_registration">
+      <div class="block event_registration">
         <h4>Registration</h4>
         <label class="m_event_link">
           Event link

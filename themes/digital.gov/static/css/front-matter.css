@@ -53,6 +53,7 @@
   margin-top: 0;
 }
 
+.gcol1 form .hide,
 .gcol1 form .hidden{
   display: none;
 }
@@ -77,6 +78,7 @@
 
 .gcol1 form .quiet{
   color: #888;
+  cursor: not-allowed;
 }
 .gcol1 form textarea,
 .gcol1 form input{
@@ -104,13 +106,16 @@
   font-size:1em;
 }
 .gcol1 code{
-  padding: 2px 5px;
+  padding: 1px 2px;
   display: inline;
   border: none;
   background: #F8F4D7;
   font-size: 1em;
   color:#555;
 
+}
+.gcol2{
+  position: relative;
 }
 .gcol2 p {
   margin: 15px 0;

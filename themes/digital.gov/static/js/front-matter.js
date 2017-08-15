@@ -32,15 +32,16 @@ jQuery(document).ready(function($) {
   //- - - - - - - - - - - - - - - - - - - - 
 
   // Post type Buttons
-  $(".btn-group .btn").click(function() {
-    $(".btn-group .btn").removeClass('selected');
+  $(".post_types .btn").click(function() {
+    $(".post_types .btn").removeClass('selected');
     $(this).addClass('selected');
     get_matter_data();
+    get_event_type();
   });
   
   // Gets post type from buttons
   function get_post_type(){
-    var post_type = $( '.btn-group .selected' ).attr( 'data-type' );
+    var post_type = $( '.post_types .selected' ).attr( 'data-type' );
     return post_type;
   }
 
@@ -83,7 +84,7 @@ jQuery(document).ready(function($) {
 
   function show_fields(d){
     $('#matter-maker label').addClass('hidden');
-    $('#matter-maker .ev').addClass('hidden');
+    $('#matter-maker .block').addClass('hidden');
     var fields = d.split(', ');
     for (var f in fields) {
       var field = '.'+fields[f];
@@ -165,6 +166,7 @@ jQuery(document).ready(function($) {
       $('.m_zip input').val('');
       $('.m_country input').val('');
       $('.m_map input').val('');
+      get_matter_data();
     }
   }
 
@@ -175,6 +177,30 @@ jQuery(document).ready(function($) {
       set_1800f(false);
     }
   });
+
+
+  // Event type Buttons
+  $(".event_types .btn").click(function() {
+    $(".event_types .btn").removeClass('selected');
+    $(this).addClass('selected');
+    get_matter_data();
+  });
+
+  function get_event_type(){
+    var event_type = $( '.event_types .selected' ).attr( 'data-type' );
+    if (event_type == 'online') {
+      $('.m_youtube').removeClass('hide');
+      $('.event_venue').addClass('hide');
+    } else if (event_type == 'mixed') {
+      $('.m_youtube').removeClass('hide');
+      $('.event_venue').removeClass('hide');
+    } else {
+      $('.m_youtube').addClass('hide');
+      $('.event_venue').removeClass('hide');
+    }
+    return event_type;
+  }
+
 
 
   // Prints the front-matter in a DIV on the page
@@ -219,29 +245,58 @@ jQuery(document).ready(function($) {
 
       // EVENT
     } else if (post_type == 'event') {
-      show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_event_type, event_venue, m_1800f, m_venue, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
-      var venue_data = {'m_venue': data['m_venue'], 'm_room': data['m_room'], 'm_address': data['m_address'], 'm_city': data['m_city'], 'm_state': data['m_state'], 'm_zip': data['m_zip'], 'm_country': data['m_country'], 'm_map': data['m_map']};
-      var matter = [
-        "---",
-          "url: " + matter_url(data['m_date'], data['m_title']),
-          "date: " + data['m_date'],
-          "title: '" + escapeHtml(data['m_title']) + "'",
-          "summary: '" + escapeHtml(data['m_summary']) + "'",
-          "authors: " + list_items(data['m_authors']),
-          "categories: " + list_items(data['m_categories']),
-          "tag: " + list_items(data['m_tag']),
-          "event_organizer: " + data['m_event_organizer'],
-          "start_date: " + data['m_start_date'],
-          "end_date: " + data['m_end_date'],
-          "event_type: " + data['m_event_type'],
-          "venue: " + build_venue_data(venue_data),
-          "event_link: " + data['m_event_link'],
-          "event_reg: " + data['m_event_reg'],
-          "host: " + data['m_host'],
-        "---",
-        ,
-        "***Paste content here. Delete this line***"
-      ].join("\n");
+      var event_type = get_event_type();
+      if (event_type == 'in-person' || event_type == 'mixed') {
+        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_venue, m_1800f, m_venue, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
+        var venue_data = {'m_venue': data['m_venue'], 'm_room': data['m_room'], 'm_address': data['m_address'], 'm_city': data['m_city'], 'm_state': data['m_state'], 'm_zip': data['m_zip'], 'm_country': data['m_country'], 'm_map': data['m_map']};
+        var matter = [
+          "---",
+            "url: " + matter_url(data['m_date'], data['m_title']),
+            "date: " + data['m_date'],
+            "title: '" + escapeHtml(data['m_title']) + "'",
+            "summary: '" + escapeHtml(data['m_summary']) + "'",
+            "authors: " + list_items(data['m_authors']),
+            "categories: " + list_items(data['m_categories']),
+            "tag: " + list_items(data['m_tag']),
+            "event_organizer: " + data['m_event_organizer'],
+            "youtube: " + data['m_youtube'],
+            "start_date: " + data['m_start_date'],
+            "end_date: " + data['m_end_date'],
+            "event_type: " + event_type,
+            "venue: " + build_venue_data(venue_data),
+            "event_link: " + data['m_event_link'],
+            "event_reg: " + data['m_event_reg'],
+            "host: " + data['m_host'],
+          "---",
+          ,
+          "***Paste content here. Delete this line***"
+        ].join("\n");
+        var venue = "venue: " + build_venue_data(venue_data);
+      } else {
+        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_registration, m_event_link, m_event_reg, m_host');
+        var matter = [
+          "---",
+            "url: " + matter_url(data['m_date'], data['m_title']),
+            "date: " + data['m_date'],
+            "title: '" + escapeHtml(data['m_title']) + "'",
+            "summary: '" + escapeHtml(data['m_summary']) + "'",
+            "authors: " + list_items(data['m_authors']),
+            "categories: " + list_items(data['m_categories']),
+            "tag: " + list_items(data['m_tag']),
+            "event_organizer: " + data['m_event_organizer'],
+            "youtube: " + data['m_youtube'],
+            "start_date: " + data['m_start_date'],
+            "end_date: " + data['m_end_date'],
+            "event_type: " + event_type,
+            "event_link: " + data['m_event_link'],
+            "event_reg: " + data['m_event_reg'],
+            "host: " + data['m_host'],
+          "---",
+          ,
+          "***Paste content here. Delete this line***"
+        ].join("\n");
+      }
+      
       var body = encodeURIComponent(matter);
       var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/events/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
     }
