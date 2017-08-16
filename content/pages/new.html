@@ -14,7 +14,7 @@ summary: this is a summary
   </div>
   <div class="gcol gcol1">
     <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
-      <div class="post_data">
+      <div class="post_data post-block">
         <label class="m_date">
           Date
           <input class="fm" type="text" name="m_date" value="">
@@ -43,7 +43,7 @@ summary: this is a summary
           <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/master/data/tag.yml" title="See all Tags">see all tags</a></span>
         </label>        
       </div>
-      <div class="block event_type">
+      <div class="block type-block">
         <h4>Event</h4>
         <div class="btn-group event_types">
           <button class="btn selected" type="button" data-type="online">online</button><button class="btn" type="button" data-type="mixed">both</button><button class="btn" type="button" data-type="in-person">in-person</button>
@@ -68,7 +68,7 @@ summary: this is a summary
           <span>link example needed</span>
         </label>
       </div>
-      <div class="block event_venue hide">
+      <div class="block venue-block hide">
         <h4>Venue</h4>
         <div class="checkbox">
           <label class="m_1800f">
@@ -106,19 +106,16 @@ summary: this is a summary
           <input class="fm" type="text" name="m_country" value="USA">
         </label>
         <label class="m_map">
-          Google Maps link
+          Google Maps
           <input class="fm" type="text" name="m_map" value="">
+          <span>https://goo.gl/maps/bFWBD6QfDLA2</span>
         </label>
       </div>
-      <div class="block event_registration">
+      <div class="block registration-block">
         <h4>Registration</h4>
-        <label class="m_event_link">
-          Event link
-          <input class="fm" type="text" name="m_event_link" value="">
-        </label>
-        <label class="m_event_reg">
-          Registration Link
-          <input class="fm" type="text" name="m_event_reg" value="">
+        <label class="m_registration_url">
+          Registration URL
+          <input class="fm" type="text" name="m_registration_url" value="">
         </label>
         <label class="m_host">
           Host

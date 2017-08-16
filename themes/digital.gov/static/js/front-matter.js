@@ -158,7 +158,7 @@ jQuery(document).ready(function($) {
       $('.m_map input').val('https://goo.gl/maps/bFWBD6QfDLA2').prop("readonly", true).addClass('quiet');
       get_matter_data();
     } else {
-      $('.event_venue input').prop("readonly", false).removeClass('quiet');
+      $('.venue-block input').prop("readonly", false).removeClass('quiet');
       $('.m_venue_name input').val('');
       $('.m_address input').val('');
       $('.m_city input').val('');
@@ -190,13 +190,13 @@ jQuery(document).ready(function($) {
     var event_type = $( '.event_types .selected' ).attr( 'data-type' );
     if (event_type == 'online') {
       $('.m_youtube').removeClass('hide');
-      $('.event_venue').addClass('hide');
+      $('.venue-block').addClass('hide');
     } else if (event_type == 'mixed') {
       $('.m_youtube').removeClass('hide');
-      $('.event_venue').removeClass('hide');
+      $('.venue-block').removeClass('hide');
     } else {
       $('.m_youtube').addClass('hide');
-      $('.event_venue').removeClass('hide');
+      $('.venue-block').removeClass('hide');
     }
     return event_type;
   }
@@ -247,7 +247,7 @@ jQuery(document).ready(function($) {
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_venue, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
+        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, registration-block, m_registration_url, m_host');
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
@@ -264,15 +264,14 @@ jQuery(document).ready(function($) {
             "start_date: " + data['m_start_date'],
             "end_date: " + data['m_end_date'],
             "venue: " + build_venue_data(venue_data),
-            "event_link: " + data['m_event_link'],
-            "event_reg: " + data['m_event_reg'],
+            "registration_url: " + data['m_registration_url'],
             "host: " + data['m_host'],
           "---",
           ,
           "***Paste content here. Delete this line***"
         ].join("\n");
       } else {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_registration, m_event_link, m_event_reg, m_host');
+        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, registration-block, m_registration_url, m_host');
         var matter = [
           "---",
             "url: " + matter_url(data['m_date'], data['m_title']),
@@ -287,8 +286,7 @@ jQuery(document).ready(function($) {
             "youtube: " + data['m_youtube'],
             "start_date: " + data['m_start_date'],
             "end_date: " + data['m_end_date'],
-            "event_link: " + data['m_event_link'],
-            "event_reg: " + data['m_event_reg'],
+            "registration_url: " + data['m_registration_url'],
             "host: " + data['m_host'],
           "---",
           ,
