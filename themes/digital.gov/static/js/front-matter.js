@@ -149,7 +149,7 @@ jQuery(document).ready(function($) {
 
   function set_1800f(set){
     if (set == true) {
-      $('.m_venue input').val('The General Services Administration').prop("readonly", true).addClass('quiet');
+      $('.m_venue_name input').val('The General Services Administration').prop("readonly", true).addClass('quiet');
       $('.m_address input').val('1800 F St.').prop("readonly", true).addClass('quiet');
       $('.m_city input').val('Washington').prop("readonly", true).addClass('quiet');
       $('.m_state input').val('D.C.').prop("readonly", true).addClass('quiet');
@@ -159,7 +159,7 @@ jQuery(document).ready(function($) {
       get_matter_data();
     } else {
       $('.event_venue input').prop("readonly", false).removeClass('quiet');
-      $('.m_venue input').val('');
+      $('.m_venue_name input').val('');
       $('.m_address input').val('');
       $('.m_city input').val('');
       $('.m_state input').val('');
@@ -247,8 +247,8 @@ jQuery(document).ready(function($) {
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_venue, m_1800f, m_venue, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
-        var venue_data = {'m_venue': data['m_venue'], 'm_room': data['m_room'], 'm_address': data['m_address'], 'm_city': data['m_city'], 'm_state': data['m_state'], 'm_zip': data['m_zip'], 'm_country': data['m_country'], 'm_map': data['m_map']};
+        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_venue, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, event_registration, m_event_link, m_event_reg, m_host');
+        var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
             "url: " + matter_url(data['m_date'], data['m_title']),
@@ -258,11 +258,11 @@ jQuery(document).ready(function($) {
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "event_type: " + event_type,
             "event_organizer: " + data['m_event_organizer'],
             "youtube: " + data['m_youtube'],
             "start_date: " + data['m_start_date'],
             "end_date: " + data['m_end_date'],
-            "event_type: " + event_type,
             "venue: " + build_venue_data(venue_data),
             "event_link: " + data['m_event_link'],
             "event_reg: " + data['m_event_reg'],
@@ -271,7 +271,6 @@ jQuery(document).ready(function($) {
           ,
           "***Paste content here. Delete this line***"
         ].join("\n");
-        var venue = "venue: " + build_venue_data(venue_data);
       } else {
         show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, event_type, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, event_registration, m_event_link, m_event_reg, m_host');
         var matter = [
@@ -283,11 +282,11 @@ jQuery(document).ready(function($) {
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "event_type: " + event_type,
             "event_organizer: " + data['m_event_organizer'],
             "youtube: " + data['m_youtube'],
             "start_date: " + data['m_start_date'],
             "end_date: " + data['m_end_date'],
-            "event_type: " + event_type,
             "event_link: " + data['m_event_link'],
             "event_reg: " + data['m_event_reg'],
             "host: " + data['m_host'],
