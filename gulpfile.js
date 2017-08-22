@@ -15,7 +15,10 @@ var gulp          = require("gulp"),
     size          = require('gulp-size'),
     changeCase    = require('change-case'),
     responsive    = require('gulp-responsive'),
+    tap           = require('gulp-tap'),
+    template      = require('gulp-template'),
     rename        = require("gulp-rename"),
+    fs            = require('fs'),
     dotenv        = require('dotenv').config(),
     s3config      = {
                     accessKeyId: process.env.AWS_ACCESSKEY,
@@ -46,9 +49,30 @@ gulp.task("clean-inbox", ["file-tidy"], function (done) {
   return del(['content/images/_inbox/**', '!content/images/_inbox', '!content/images/_inbox/__add jpg and png files to this folder__']);
 });
 
+
+function get_image_slug(path){
+  var regex = /([^\/]+)(?=\.\w+$)/g;
+  return path.match(regex);
+}
+
+function get_image_data(slug){
+  var data = [
+    "date     : ",
+    "uid      : " + slug,
+    "width    : ",
+    "height   : ",
+    "format   : "
+  ].join("\n");
+  return data;
+}
+
 gulp.task("img-variants", ["clean-inbox"], function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
     // Create responsive variants
+    .pipe(tap(function (file) {
+      var slug = get_image_slug(file.path);
+      fs.writeFile('data/images/'+ slug +'.yml', get_image_data(slug));
+    }))
     .pipe(responsive({
       '*': [{
         width: 200,
@@ -272,9 +296,18 @@ gulp.task("upload", ["img-variants"], function (done) {
       // S3 Constructor Options, ie:
       maxRetries: 5
     }))
+
     .pipe(vinylPaths(del))
     .pipe(gulp.dest("content/images/_working/uploaded/"));
 });
+
+
+// gulp.task('log', ["upload"], function (cb) {
+//   gulp.src('content/images/_working/processed/**/*', { base: 'content/images/_working/processed/' })
+//     .pipe(tap(function (file) {
+//       fs.writeFile(get_data_path(file.path), 'hello there', cb);
+//     }))
+// });
 
 gulp.task("proxy", ["upload"], function (done) {
   // - - - - - - - - - - - - - - - - -
