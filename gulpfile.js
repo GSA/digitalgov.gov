@@ -16,9 +16,9 @@ var gulp          = require("gulp"),
     changeCase    = require('change-case'),
     responsive    = require('gulp-responsive'),
     tap           = require('gulp-tap'),
-    template      = require('gulp-template'),
     rename        = require("gulp-rename"),
     fs            = require('fs'),
+    sizeOf        = require('image-size'),
     dotenv        = require('dotenv').config(),
     s3config      = {
                     accessKeyId: process.env.AWS_ACCESSKEY,
@@ -67,12 +67,12 @@ function get_image_uid(path){
   return path.match(uid);
 }
 
-function get_image_data(uid){
+function get_image_data(uid, width, height){
   var data = [
     "date     : " + get_curr_date(),
     "uid      : " + uid,
-    "width    : ",
-    "height   : ",
+    "width    : " + width,
+    "height   : " + height,
     "format   : ",
     "credit   : ",
     "caption  : ",
@@ -86,8 +86,10 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
     // Create responsive variants
     .pipe(tap(function (file) {
       var uid = get_image_uid(file.path);
-      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid));
+      var dimensions = sizeOf(file.path);
+      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height));
     }))
+    // Create responsive variants
       .pipe(responsive({
       '*': [{
         width: 200,
