@@ -1,3 +1,4 @@
+
 .matter-container{
   margin: 50px 0;
   display: grid;
@@ -5,16 +6,56 @@
   grid-template-rows: auto auto;
   grid-template-columns: 1fr 1fr;
 }
+
+.btn-group{
+  margin-bottom: 30px;
+}
+.btn-group .btn{
+  padding: 8px 12px 10px 12px;
+  border-radius: 0;
+  border:1px #555 solid;
+  border-left:none;
+  border-right:none;
+  font-size: 1em;
+  font-weight: bold;
+  background: #fff;
+}
+.btn-group .btn:first-child{
+  border-left:1px #555 solid;
+}
+.btn-group .btn:last-child{
+  border-right:1px #555 solid;
+}
+.btn-group .btn:hover{
+  background: #efefef;
+  cursor: pointer;
+}
+.btn-group .selected{
+  background: #3F4FFF;
+  color:#fff;
+  outline:none;
+}
+.btn-group .selected:hover{
+  background: #3F4FFF;
+  color:#fff;
+}
+
 .gcol1{
   grid-area: row2-start / 1 / 2 / 1;
 }
 .gcol2{
+  margin-top: 25px;
   grid-area: row2-start / 2 / 2 / 2;
   max-width: 480px;
 }
 
 .gcol1 form{
   margin-top: 0;
+}
+
+.gcol1 form .hide,
+.gcol1 form .hidden{
+  display: none;
 }
 .gcol1 form label,
 .gcol1 form input{
@@ -24,27 +65,71 @@
 }
 .gcol1 form label{
   margin-bottom: 18px;
+  font-size: .9em;
+  color:#222;
+}
+.gcol1 form label span{
+  font-size:.9em;
+  font-style: italic;
 }
 .gcol1 form label:last-child{
   margin-bottom: 0;
 }
+
+.gcol1 form .quiet{
+  color: #888;
+  cursor: not-allowed;
+}
+.gcol1 form textarea,
 .gcol1 form input{
   padding: 10px;
-  width:90% ;
+  width:90%;
+  font-size: 1.1em;
   border:1px #ccc solid;
+}
+.gcol1 form textarea{
+  height:65px;
+}
+.gcol1 .checkbox{
+  margin:35px 0;
+  display: inline-block;
+}
+.gcol1 .checkbox input{
+  display: inline;
+  width:25px;
+}
+.gcol1 .checkbox label{
+  display: inline;
+  border:1px #555 solid;
+  padding: 10px 20px 12px 10px;
+  width: 40%;
+  font-size:1em;
+}
+.gcol1 code{
+  padding: 1px 2px;
+  display: inline;
+  border: none;
+  background: #F8F4D7;
+  font-size: 1em;
+  color:#555;
+
+}
+.gcol2{
+  position: relative;
 }
 .gcol2 p {
   margin: 15px 0;
 }
+
 .gcol2 #newfile {
   font-weight: bold;
 }
 .gcol2 .mttr{
   margin: 0;
   padding: 10px 15px;
-  background:#f8f8f8;
+  /*background:#f8f8f8;*/
   font-size: 1em;
-  border:1px #555 solid;
+  border:3px #555 solid;
 }
 .gcol2 pre{
   white-space: pre-wrap;       /* css-3 */
@@ -55,4 +140,14 @@
 }
 .gcol2 .mttr#filename{
   border-bottom: none;
+}
+.gcol2 #post-matter{
+  padding-bottom: 30px;
+}
+.block{
+  margin-top: 40px;
+}
+.block h4{
+  margin-bottom: 10px;
+  font-size: 18px;
 }
