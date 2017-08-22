@@ -1,10 +1,10 @@
 jQuery(document).ready(function($) {
 
   // Step 1. Add into this string the characters to look for
-  var entityPattern = /[&<>"'`)(=+:*@.?$%\/]/g; 
+  var entityPattern = /[&<>"'`)(=+:*@.?$%\/]/g;
   // Step 2. Add a new line that contains the HTML character and the entity that you want it transformed into
   // Reference: https://dev.w3.org/html5/html-author/charref
-  var entityMap = { 
+  var entityMap = {
     '&': '&amp;',
     '<': '&lt;',
     '>': '&gt;',
@@ -29,7 +29,7 @@ jQuery(document).ready(function($) {
   var small_words = /and |the |are |is |of |to |a /gi; // these are the small words we are removing from urls
 
 
-  //- - - - - - - - - - - - - - - - - - - - 
+  //- - - - - - - - - - - - - - - - - - - -
 
   // Post type Buttons
   $(".post_types .btn").click(function() {
@@ -38,7 +38,7 @@ jQuery(document).ready(function($) {
     get_matter_data();
     get_event_type();
   });
-  
+
   // Gets post type from buttons
   function get_post_type(){
     var post_type = $( '.post_types .selected' ).attr( 'data-type' );
@@ -225,7 +225,7 @@ jQuery(document).ready(function($) {
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/posts/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
 
       // DOC
     } else if (post_type == 'doc') {
@@ -241,7 +241,7 @@ jQuery(document).ready(function($) {
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/docs/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
 
       // EVENT
     } else if (post_type == 'event') {
@@ -293,11 +293,11 @@ jQuery(document).ready(function($) {
           "***Paste content here. Delete this line***"
         ].join("\n");
       }
-      
+
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digital.gov/new/demo/content/events/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
     }
-    
+
     $('#post-matter').text(matter);
     $('#filename').text(filename(data['m_date'], data['m_title']));
     $('#newfile').attr('href', newfile);
