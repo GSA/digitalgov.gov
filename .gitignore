@@ -4,3 +4,6 @@ public/
 .jekyll-metadata
 .ruby-version
 node_modules
+.env
+site/
+content/images/uploaded/
