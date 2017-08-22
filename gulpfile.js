@@ -50,18 +50,33 @@ gulp.task("clean-inbox", ["file-tidy"], function (done) {
 });
 
 
-function get_image_slug(path){
-  var regex = /([^\/]+)(?=\.\w+$)/g;
-  return path.match(regex);
+function get_curr_date(){
+  var d = new Date();
+  var month = d.getMonth()+1;
+  var day = d.getDate();
+  var output = d.getFullYear() + '-' +
+      (month<10 ? '0' : '') + month + '-' +
+      (day<10 ? '0' : '') + day + ' ' +
+      d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds() +
+      ' -0400';
+  return output;
 }
 
-function get_image_data(slug){
+function get_image_uid(path){
+  var uid = /([^\/]+)(?=\.\w+$)/g; // gets the slug/filename from the path
+  return path.match(uid);
+}
+
+function get_image_data(uid){
   var data = [
-    "date     : ",
-    "uid      : " + slug,
+    "date     : " + get_curr_date(),
+    "uid      : " + uid,
     "width    : ",
     "height   : ",
-    "format   : "
+    "format   : ",
+    "credit   : ",
+    "caption  : ",
+    "alt      : "
   ].join("\n");
   return data;
 }
@@ -70,10 +85,10 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
     // Create responsive variants
     .pipe(tap(function (file) {
-      var slug = get_image_slug(file.path);
-      fs.writeFile('data/images/'+ slug +'.yml', get_image_data(slug));
+      var uid = get_image_uid(file.path);
+      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid));
     }))
-    .pipe(responsive({
+      .pipe(responsive({
       '*': [{
         width: 200,
         rename: {
