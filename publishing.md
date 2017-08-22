@@ -10,11 +10,11 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 **Step 1.** — Log in to [http://github.com](http://github.com)
 
-**Step 2.** — Submit your post for review by creating a 'new issue' --> https://github.com/GSA/digital.gov/issues/new/?labels=draft&milestone=Editorial
+**Step 2.** — Submit your post for review by creating a 'new issue' --> https://github.com/GSA/digitalgov.gov/issues/new/?labels=draft&milestone=Editorial
 
-**Step 3.** — Enter the title and body of your post in the 'new issue' and format your post as needed _(bold, italics, links, etc...)_. Here is an example draft: https://github.com/GSA/digital.gov/issues/83
+**Step 3.** — Enter the title and body of your post in the 'new issue' and format your post as needed _(bold, italics, links, etc...)_. Here is an example draft: https://github.com/GSA/digitalgov.gov/issues/83
 
-**Step 4.** — Save/Submit. The Digital.gov will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
+**Step 4.** — Save/Submit. The Digital.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
 
 
 - - -
@@ -24,7 +24,7 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 **Step 1.** — Log in to [http://github.com](http://github.com)
 
-**Step 2.** — Submit your generate the front matter for your posts here --> https://federalist-proxy.app.cloud.gov/preview/gsa/digital.gov/demo/new/
+**Step 2.** — Submit your generate the front matter for your posts here --> https://federalist-proxy.app.cloud.gov/site/gsa/digitalgov.gov/new/
 
 When done, click the link to create a new file.
 
@@ -32,6 +32,6 @@ When done, click the link to create a new file.
 
 Paste the body of your post where it says. `***Paste content here. Delete this line***`. Don't forget to delete that line.
 
-Here is an example post: https://raw.githubusercontent.com/GSA/digital.gov/demo/content/posts/2014-12-30-trends-on-tuesday-the-hottest-digitalgov-mobile-articles-in-2014.md
+Here is an example post: https://raw.githubusercontent.com/GSA/digitalgov.gov/demo/content/posts/2014-02-18-trends-on-tuesday-distracted-walking.md
 
 **Step 4.** — The Digital.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
