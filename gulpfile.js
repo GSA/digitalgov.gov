@@ -67,13 +67,18 @@ function get_image_uid(path){
   return path.match(uid);
 }
 
-function get_image_data(uid, width, height){
+function get_image_format(path){
+  var format = path.split('.').pop(); // gets the file extension from the path
+  return format;
+}
+
+function get_image_data(uid, width, height, format){
   var data = [
     "date     : " + get_curr_date(),
     "uid      : " + uid,
     "width    : " + width,
     "height   : " + height,
-    "format   : ",
+    "format   : " + format,
     "credit   : ",
     "caption  : ",
     "alt      : "
@@ -86,8 +91,9 @@ gulp.task("img-variants", ["clean-inbox"], function (done) {
     // Create responsive variants
     .pipe(tap(function (file) {
       var uid = get_image_uid(file.path);
+      var format = get_image_format(file.path);
       var dimensions = sizeOf(file.path);
-      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height));
+      fs.writeFile('data/images/'+ uid +'.yml', get_image_data(uid, dimensions.width, dimensions.height, format));
     }))
     // Create responsive variants
       .pipe(responsive({
