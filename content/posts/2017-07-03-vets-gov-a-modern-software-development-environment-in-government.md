@@ -49,4 +49,4 @@ Beyond all odds, we believe we are showing this is actually possible at the VA, 
 
 {{< legacy-img src="CDN/files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
 
-This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a).
+_This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a)._
