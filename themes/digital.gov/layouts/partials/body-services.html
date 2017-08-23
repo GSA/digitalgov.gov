@@ -11,15 +11,15 @@
 
 {{ range $.Site.Data.featured_programs.featured }}
   {{ $match := index (where $findInPages ".Params.uid" .uid) 0 }}
-  {{ if .img.src }}
-    {{ $.Scratch.Set "featured-img-src" .img.src }}
+  {{ if .img.uid }}
+    {{ $.Scratch.Set "featured-img-uid" .img.uid }}
   {{ else }}
-    {{ $.Scratch.Set "featured-img-src" $match.Params.featured_image.src }}
+    {{ $.Scratch.Set "featured-img-uid" $match.Params.featured_image.src }}
   {{ end }}
   {{ if .img.alt }}
     {{ $.Scratch.Set "featured-img-alt" .img.alt }}
-  {{ else }}
-    {{ $.Scratch.Set "featured-img-alt" $match.Params.featured_image.alt }}
+    {{ else }}
+    {{ $.Scratch.Set "featured-img-alt" "" }}
   {{ end }}
   {{ if .summary }}
     {{ $.Scratch.Set "featured-summary" .summary }}
@@ -33,13 +33,12 @@
           <a href="{{ $match.URL }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
 
             {{ $cdnurl := $.Site.Params.cdnurl }}
-            {{ $imgsrc := default "bill-of-rights.jpg" ($.Scratch.Get "featured-img-src") }}
-            {{ $imgBase := replaceRE "\\.(png|jpg)$" "" $imgsrc }}
-            {{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" $imgsrc }}
+            {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" ($.Scratch.Get "featured-img-uid")) }}
+            {{ $imgBase := $thisimg.uid }}
+            {{ $imgExt := $thisimg.format }}
             {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-            {{ $imgLocalProxy := printf "%s/%s_%s.%s" "static/img/proxy" $imgBase $imgExt $imgExt }}
-            {{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
-            {{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+            {{ $imgWidth := $thisimg.width }}
+            {{ $imgHeight := $thisimg.height }}
 
             {{ $.Scratch.Set "imgSuffix" "" }}
             {{ if gt $imgWidth 400 }}
@@ -49,7 +48,7 @@
             <img
               class="thumbnail"
               src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-              alt="{{ $.Scratch.Get "featured-img-alt" | default $match.Title | markdownify }}"
+              alt="{{ if ne ($.Scratch.Get "featured-img-alt") "" }}{{ $.Scratch.Get "featured-img-alt" | markdownify }}{{ else }}{{ $thisimg.alt | default $match.Title | markdownify }}{{ end }}"
               title="{{ $match.Title | markdownify }}" />
           </a>
         </div>
