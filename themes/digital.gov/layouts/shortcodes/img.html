@@ -8,7 +8,6 @@
 {{ $imgHeight := $thisimg.height }}
 
 <div>
-  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
   <img
     src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
     {{ if or (.Get "alt") $thisimg.alt }}
@@ -18,6 +17,14 @@
     {{ if gt $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
       {{ if gt $imgWidth 400 }}
         {{ if gt $imgWidth 600 }}
+          {{/* high-res values for when we implement...
+          {{ if gt $imgWidth 800 }}
+            {{ if gt $imgWidth 1200 }}
+              {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
+          {{ end }}
+          */}}
           {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
         {{ end }}
         {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,

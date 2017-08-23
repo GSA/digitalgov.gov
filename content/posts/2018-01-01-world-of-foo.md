@@ -16,4 +16,4 @@ tag:
 
 Foo.
 
-{{< img "bill-of-rights" >}}
+{{< img "mt-hood-totality" >}}

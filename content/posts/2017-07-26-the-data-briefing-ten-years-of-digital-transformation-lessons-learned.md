@@ -3,8 +3,7 @@ date: 2017-07-26 12:00:00 -0400
 title: 'The Data Briefing: Ten Years of Digital Transformation—Lessons Learned'
 summary: Since 2007, a major consulting firm has conducted an annual survey on organizations’ “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned?
 featured_image:
-  src: "silhouettes-of-business-people-discussing-outdoors-rawpixel-ltd-istock-thinkstock-490926205.jpg"
-  alt: "Silhouettes of business people having discussions"
+  uid: "silhouettes-of-business-people-discussing-outdoors-rawpixel-ltd-istock-thinkstock-490926205"
 authors:
   - bbrantley
 categories:
