@@ -14,13 +14,21 @@
           All images
         </h1>
 
-        {{ range $image := $.Site.Data.images }}
+        {{ range $thisimage := $.Site.Data.images }}
+          {{ $cdnurl := .Site.Params.cdnurl }}
+          {{ $imgBase := $thisimage.uid }}
+          {{ $imgExt := $thisimage.format }}
+          {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+          {{ $imgProxy := printf "%s/%s_%s.%s" "img/proxy" $imgBase $imgExt $imgExt }}
+          {{ $imgWidth := $thisimage.width }}
+          {{ $imgHeight := $thisimage.height }}
           <div>
-            <div>uid: {{ $image.uid }}</div>
-            <div>format: {{ $image.format }}</div>
-            <div>height: {{ $image.height }}px</div>
-            <div>width: {{ $image.width }}px</div>
-            <div>added: {{ dateFormat "January 2, 2006" $image.date }}</div>            
+            <img class="img-test" src='{{ $imgProxy | absURL }}'/>
+            <div>uid: {{ $thisimage.uid }}</div>
+            <div>format: {{ $thisimage.format }}</div>
+            <div>height: {{ $thisimage.height }}px</div>
+            <div>width: {{ $thisimage.width }}px</div>
+            <div>added: {{ dateFormat "January 2, 2006" $thisimage.date }}</div>
           </div>
         {{ end }}
 
