@@ -4,7 +4,6 @@
 
 {{ define "content" }}
 
-
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
     <div class="post singlepost type-post status-publish format-standard  hentry">
@@ -12,25 +11,26 @@
       <div class="entry">
 
         <h1 class="post-title single">
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          All images
         </h1>
 
-        <div id="all-images">
-        {{ range .Site.Data.images }}
-          <div class="dg-image">
-            <img src="http://s3.amazonaws.com/digitalgov/{{ .uid }}_w400.{{ .format }}" alt="">
-            <p>{{ .uid }}</p>
-            <p>{{ .date }}</p>
-            <p>{{ .width }}</p>
-            <p>{{ .height }}</p>
-            <p>{{ .format }}</p>
+        {{ range $thisimage := $.Site.Data.images }}
+          {{ $cdnurl := .Site.Params.cdnurl }}
+          {{ $imgBase := $thisimage.uid }}
+          {{ $imgExt := $thisimage.format }}
+          {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+          {{ $imgProxy := printf "%s/%s_%s.%s" "img/proxy" $imgBase $imgExt $imgExt }}
+          {{ $imgWidth := $thisimage.width }}
+          {{ $imgHeight := $thisimage.height }}
+          <div>
+            <img class="img-test" src='{{ $imgProxy | absURL }}'/>
+            <div>uid: {{ $thisimage.uid }}</div>
+            <div>format: {{ $thisimage.format }}</div>
+            <div>height: {{ $thisimage.height }}px</div>
+            <div>width: {{ $thisimage.width }}px</div>
+            <div>added: {{ dateFormat "January 2, 2006" $thisimage.date }}</div>
           </div>
         {{ end }}
-        </div>
-
-        {{ .Content }}
-
-
 
       </div><!-- .entry -->
     </div><!--.post -->

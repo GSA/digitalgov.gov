@@ -57,7 +57,9 @@ function get_curr_date(){
   var output = d.getFullYear() + '-' +
       (month<10 ? '0' : '') + month + '-' +
       (day<10 ? '0' : '') + day + ' ' +
-      d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds() +
+      (d.getHours()<10 ? '0' : '') + d.getHours() + ":" +
+      (d.getMinutes()<10 ? '0' : '') + d.getMinutes() + ":" +
+      (d.getSeconds()<10 ? '0' : '') + d.getSeconds() +
       ' -0400';
   return output;
 }
