@@ -6,9 +6,59 @@
   </div>
 </div>
 
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
-{{ partial "service--featured.html" . }}
+{{ $these := slice "resources" "services" "communities" }}
+{{ $findInPages := where .Site.Pages "Section" "in" $these }}
+
+{{ range $.Site.Data.featured_programs.featured }}
+  {{ $match := index (where $findInPages ".Params.uid" .uid) 0 }}
+  {{ if .img.src }}
+    {{ $.Scratch.Set "featured-img-src" .img.src }}
+  {{ else }}
+    {{ $.Scratch.Set "featured-img-src" $match.Params.featured_image.src }}
+  {{ end }}
+  {{ if .img.alt }}
+    {{ $.Scratch.Set "featured-img-alt" .img.alt }}
+  {{ else }}
+    {{ $.Scratch.Set "featured-img-alt" $match.Params.featured_image.alt }}
+  {{ end }}
+  {{ if .summary }}
+    {{ $.Scratch.Set "featured-summary" .summary }}
+  {{ else }}
+    {{ $.Scratch.Set "featured-summary" $match.Summary }}
+  {{ end }}
+  <div id="featured-page-7" class="widget widget-4 featuredpage">
+    <div class="widget-wrap">
+      <div class="post clearfix">
+        <div class="featpage-image">
+          <a href="{{ $match.URL }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
+
+            {{ $cdnurl := $.Site.Params.cdnurl }}
+            {{ $imgsrc := default "bill-of-rights.jpg" ($.Scratch.Get "featured-img-src") }}
+            {{ $imgBase := replaceRE "\\.(png|jpg)$" "" $imgsrc }}
+            {{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" $imgsrc }}
+            {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+            {{ $imgLocalProxy := printf "%s/%s_%s.%s" "static/img/proxy" $imgBase $imgExt $imgExt }}
+            {{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+            {{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+
+            {{ $.Scratch.Set "imgSuffix" "" }}
+            {{ if gt $imgWidth 400 }}
+             {{ $.Scratch.Set "imgSuffix" "_w400" }}
+            {{ end }}
+
+            <img
+              class="thumbnail"
+              src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+              alt="{{ $.Scratch.Get "featured-img-alt" | default $match.Title | markdownify }}"
+              title="{{ $match.Title | markdownify }}" />
+          </a>
+        </div>
+
+        <h3 class="widgettitle"><span><a href="{{ $match.URL }}">{{ $match.Title | markdownify }}</a></span></h3>
+        <span class="featpage-excerpt">{{ $.Scratch.Get "featured-summary" | markdownify | safeHTML | truncate 200 }}</span>
+        <a href="{{ $match.URL }}" rel="nofollow">Read More</a>
+
+      </div><!-- .post -->
+    </div><!-- .widget-wrap -->
+  </div><!-- .widget.widget-4.featuredpage-->
+{{ end }}
