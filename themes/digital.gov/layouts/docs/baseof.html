@@ -1,12 +1,16 @@
-{{ block "pagevars" . }}{{ end }}
+{{- if eq .Layout "json" -}}
+  {{- block "json" . -}} The JSON CONTENT didn't load. :( {{- end -}}
+{{- else -}}
+  {{ block "pagevars" . }}{{ end }}
 
-{{ partial "head.html" . }}
-{{ partial "body-top.html" . }}
+  {{ partial "head.html" . }}
+  {{ partial "body-top.html" . }}
 
-{{ block "content" . }} The DOCS CONTENT didn't load. :( {{ end }}
-{{ if or (eq .Layout "1col") (eq .Layout "all-images") }}{{ else }}
-{{ block "sidebar" . }} The DOCS SIDEBAR didn't load. :( {{ end }}
-{{ end }}
+  {{ block "content" . }} The DOCS CONTENT didn't load. :( {{ end }}
+  {{ if or (eq .Layout "1col") (eq .Layout "all-images") }}{{ else }}
+  {{ block "sidebar" . }} The DOCS SIDEBAR didn't load. :( {{ end }}
+  {{ end }}
 
-{{ partial "body-bottom.html" . }}
-{{ partial "footer.html" . }}
+  {{ partial "body-bottom.html" . }}
+  {{ partial "footer.html" . }}
+{{- end -}}

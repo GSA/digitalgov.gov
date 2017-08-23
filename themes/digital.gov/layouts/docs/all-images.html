@@ -4,10 +4,6 @@
 
 {{ define "content" }}
 
-<<<<<<< HEAD
-
-=======
->>>>>>> image-list
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
     <div class="post singlepost type-post status-publish format-standard  hentry">
@@ -15,27 +11,6 @@
       <div class="entry">
 
         <h1 class="post-title single">
-<<<<<<< HEAD
-          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
-        </h1>
-
-        <div id="all-images">
-        {{ range .Site.Data.images }}
-          <div class="dg-image">
-            <img src="http://s3.amazonaws.com/digitalgov/{{ .uid }}_w400.{{ .format }}" alt="">
-            <p>{{ .uid }}</p>
-            <p>{{ .date }}</p>
-            <p>{{ .width }}</p>
-            <p>{{ .height }}</p>
-            <p>{{ .format }}</p>
-          </div>
-        {{ end }}
-        </div>
-
-        {{ .Content }}
-
-
-=======
           All images
         </h1>
 
@@ -56,7 +31,6 @@
             <div>added: {{ dateFormat "January 2, 2006" $thisimage.date }}</div>
           </div>
         {{ end }}
->>>>>>> image-list
 
       </div><!-- .entry -->
     </div><!--.post -->

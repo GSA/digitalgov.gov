@@ -7,4 +7,4 @@ title: All Images
 summary: this is a summary
 ---
 
-o hai images
+{{< images-all-json >}}
