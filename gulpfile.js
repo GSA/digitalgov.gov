@@ -86,6 +86,12 @@ function get_image_data(uid, width, height, format){
   return data;
 }
 
+function get_image_sq(path){
+  var dimensions = sizeOf(path); // gets the file extension from the path
+  var sq_dim = Math.min(dimensions.width, dimensions.height);
+  return sq_dim;
+}
+
 gulp.task("img-variants", ["clean-inbox"], function (done) {
   return gulp.src("content/images/_working/to-process/*.{png,jpg,jpeg}")
     // Create responsive variants

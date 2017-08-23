@@ -1,13 +1,11 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
-{{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
-{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $thisimg := index $.Site.Data.images (.Get 0) }}
+{{ $imgBase := $thisimg.uid }}
+{{ $imgExt := $thisimg.format }}
 {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
-{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
-{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
-{{ $imgProxy := absURL $imgProxy }}
-{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
-{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+{{ $imgWidth := $thisimg.width }}
+{{ $imgHeight := $thisimg.height }}
 
 <picture>
   <source
