@@ -4,7 +4,10 @@
 
 {{ define "content" }}
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> image-list
 <div id="contentleft" class="clearfix">
   <div id="content" class="clearfix">
     <div class="post singlepost type-post status-publish format-standard  hentry">
@@ -12,6 +15,7 @@
       <div class="entry">
 
         <h1 class="post-title single">
+<<<<<<< HEAD
           <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
         </h1>
 
@@ -31,6 +35,28 @@
         {{ .Content }}
 
 
+=======
+          All images
+        </h1>
+
+        {{ range $thisimage := $.Site.Data.images }}
+          {{ $cdnurl := .Site.Params.cdnurl }}
+          {{ $imgBase := $thisimage.uid }}
+          {{ $imgExt := $thisimage.format }}
+          {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+          {{ $imgProxy := printf "%s/%s_%s.%s" "img/proxy" $imgBase $imgExt $imgExt }}
+          {{ $imgWidth := $thisimage.width }}
+          {{ $imgHeight := $thisimage.height }}
+          <div>
+            <img class="img-test" src='{{ $imgProxy | absURL }}'/>
+            <div>uid: {{ $thisimage.uid }}</div>
+            <div>format: {{ $thisimage.format }}</div>
+            <div>height: {{ $thisimage.height }}px</div>
+            <div>width: {{ $thisimage.width }}px</div>
+            <div>added: {{ dateFormat "January 2, 2006" $thisimage.date }}</div>
+          </div>
+        {{ end }}
+>>>>>>> image-list
 
       </div><!-- .entry -->
     </div><!--.post -->
