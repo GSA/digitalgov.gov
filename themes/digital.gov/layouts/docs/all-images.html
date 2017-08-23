@@ -1,0 +1,39 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
+{{ end }}
+
+{{ define "content" }}
+
+
+<div id="contentleft" class="clearfix">
+  <div id="content" class="clearfix">
+    <div class="post singlepost type-post status-publish format-standard  hentry">
+
+      <div class="entry">
+
+        <h1 class="post-title single">
+          <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+        </h1>
+
+        <div id="all-images">
+        {{ range .Site.Data.images }}
+          <div class="dg-image">
+            <img src="http://s3.amazonaws.com/digitalgov/{{ .uid }}_w400.{{ .format }}" alt="">
+            <p>{{ .uid }}</p>
+            <p>{{ .date }}</p>
+            <p>{{ .width }}</p>
+            <p>{{ .height }}</p>
+            <p>{{ .format }}</p>
+          </div>
+        {{ end }}
+        </div>
+
+        {{ .Content }}
+
+
+
+      </div><!-- .entry -->
+    </div><!--.post -->
+  </div><!-- #content -->
+</div><!-- #contentleft -->
+{{ end }} {{/* end 'content' block */}}
