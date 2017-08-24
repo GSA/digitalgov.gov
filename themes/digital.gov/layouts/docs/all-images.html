@@ -14,6 +14,10 @@
           All images
         </h1>
 
+        <div id="all-images"></div>
+
+        <hr/>
+
         {{ range $thisimage := $.Site.Data.images }}
           {{ $cdnurl := .Site.Params.cdnurl }}
           {{ $imgBase := $thisimage.uid }}
