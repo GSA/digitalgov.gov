@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
           "<div class='img-data'>",
             "<p>"+filename+"</p>",
             "<p>"+img['date']+"</p>",
-            "<pre>{{% img src="+filename+" %}}</pre>",
+            "<pre>{{% img \""+img['uid']+"\" %}}</pre>",
             "<p><a href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+img['uid']+".yml' title='view on GitHub'>View on GitHub »</a></p>",
           "</div>",
         "</div>"

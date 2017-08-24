@@ -18,6 +18,11 @@
   width:500px;
 }
 
+.img-file img {
+  display: block;
+  max-width: 100%;
+}
+
 #all-images .img-card .img-data pre{
   overflow: scroll;
   background-color: #f9f9f9;

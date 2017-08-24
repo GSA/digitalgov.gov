@@ -1,0 +1,4 @@
+{{ range $.Params.js }}
+  {{ $path := (printf "js/%s" .) | absURL }}
+  <script src="{{ $path }}" type='text/javascript' charset='utf-8'></script>
+{{ end }}

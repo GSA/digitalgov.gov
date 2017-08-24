@@ -90,7 +90,6 @@
 
   <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/front-matter.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/all-images.css" | absURL }}' type='text/css' media='all' />
 
   {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
 
@@ -146,4 +145,5 @@
   <!-- Custom Styles from Theme Setting Page -->
   <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
 
+  {{ partial "head--custom-css.html" . }}
 </head>
