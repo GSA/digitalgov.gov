@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
 
 
   // The all-images JSON file
-  var all_images = '/images/index.json';
+  // var all_images = '/images/index.json';
 
 
   // Gets all the image from the JSON file and appends them to #all-images div
