@@ -27,7 +27,7 @@ jQuery(document).ready(function($) {
       var all_sizes = get_all_image_sizes(img['uid'], img['format'], img['width'], img['height']);
 
       var filename = img['uid']+"."+img['format'];                                                    // big-bend.jpg
-      var proxy_img = root + 'img/proxy/'+img['uid']+"_"+img['format']+"."+img['format'];             // big-bend_jpg.jpg
+      var proxy_img = root + '/img/proxy/'+img['uid']+"_"+img['format']+"."+img['format'];             // big-bend_jpg.jpg
       var w400 = 'https://s3.amazonaws.com/digitalgov/'+img['uid']+"_w400."+img['format'];            // big-bend_w400.jpg
 
       var img_asset = [
