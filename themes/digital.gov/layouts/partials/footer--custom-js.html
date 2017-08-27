@@ -1,8 +1,9 @@
 <script type="text/javascript">
-  var root = {{ "" | absURL }};
+  var root_url = {{ "" | absURL }};
 
   // The all-images JSON file
-  var all_images = {{ "images/index.json" | absURL }};
+  var all_images_json = {{ "images/index.json" | absURL }};
+
 </script>
 
 {{ range $.Params.js }}
