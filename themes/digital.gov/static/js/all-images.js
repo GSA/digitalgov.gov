@@ -17,29 +17,41 @@ jQuery(document).ready(function($) {
 
 
   // The all-images JSON file
-  // var all_images = '/images/index.json';
+  // var all_images_json = '/images/index.json';
 
 
   // Gets all the image from the JSON file and appends them to #all-images div
-  $.getJSON( all_images, function( data ) {
+  $.getJSON( all_images_json, function( data ) {
     $.each( data, function( key, img ) {
+      var width = img['width'];
+      var height = img['height'];
+      var date = img['date'];
+      var uid = img['uid'];
+      var format = img['format'];
+      var all_sizes = get_all_image_sizes(uid, format, width, height);
 
-      var all_sizes = get_all_image_sizes(img['uid'], img['format'], img['width'], img['height']);
+      var filename = uid+"."+format;                                               // big-bend.jpg
+      var proxy_img = root_url + '/img/proxy/'+uid+"_"+format+"."+format;          // big-bend_jpg.jpg
 
-      var filename = img['uid']+"."+img['format'];                                                    // big-bend.jpg
-      var proxy_img = root + '/img/proxy/'+img['uid']+"_"+img['format']+"."+img['format'];             // big-bend_jpg.jpg
-      var w400 = 'https://s3.amazonaws.com/digitalgov/'+img['uid']+"_w400."+img['format'];            // big-bend_w400.jpg
+      // If the image is greater than 400px
+      if (width > 400) {
+        // get the w400 image
+        var thumb = 'https://s3.amazonaws.com/digitalgov/'+uid+"_w400."+format;    // big-bend_w400.jpg
+      } else {
+        // else get the original image (which should be less than 400px)
+        var thumb = 'https://s3.amazonaws.com/digitalgov/'+uid+"."+format;         // big-bend.jpg
+      }
 
       var img_asset = [
         "<div class='img-card'>",
           "<div class='img-file'>",
-            "<img src='"+proxy_img+"'>",
+            "<img src='"+thumb+"'>",
           "</div>",
           "<div class='img-data'>",
             "<p>"+filename+"</p>",
-            "<p>"+img['date']+"</p>",
-            "<pre>{{% img \""+img['uid']+"\" %}}</pre>",
-            "<p><a href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+img['uid']+".yml' title='view on GitHub'>View on GitHub »</a></p>",
+            "<p>"+date+"</p>",
+            "<pre>{{% img \""+uid+"\" %}}</pre>", // shortcode
+            "<p><a href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+uid+".yml' title='view on GitHub'>View on GitHub »</a></p>",
           "</div>",
         "</div>"
       ].join("\n");
