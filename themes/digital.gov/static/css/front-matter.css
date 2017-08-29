@@ -1,10 +1,6 @@
 
 .matter-container{
   margin: 50px 0;
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
-  grid-template-columns: 1fr 1fr;
 }
 
 .btn-group{
@@ -19,6 +15,7 @@
   font-size: 1em;
   font-weight: bold;
   background: #fff;
+  color:#222;
 }
 .btn-group .btn:first-child{
   border-left:1px #555 solid;
@@ -39,7 +36,12 @@
   background: #3F4FFF;
   color:#fff;
 }
-
+.matter-editor{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+}
 .gcol1{
   grid-area: row2-start / 1 / 2 / 1;
 }

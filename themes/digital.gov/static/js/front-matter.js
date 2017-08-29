@@ -29,21 +29,27 @@ jQuery(document).ready(function($) {
   var small_words = /and |the |are |is |of |to |a /gi; // these are the small words we are removing from urls
 
 
+
   //- - - - - - - - - - - - - - - - - - - -
 
-  // Post type Buttons
-  $(".post_types .btn").click(function() {
-    $(".post_types .btn").removeClass('selected');
-    $(this).addClass('selected');
-    get_matter_data();
-    get_event_type();
-  });
+  // // Post type Buttons
+  // $(".post_types .btn").click(function() {
+  //   $(".post_types .btn").removeClass('selected');
+  //   $(this).addClass('selected');
+  //   get_matter_data();
+  //   get_event_type();
+  // });
 
-  // Gets post type from buttons
+  // // Gets post type from buttons
   function get_post_type(){
-    var post_type = $( '.post_types .selected' ).attr( 'data-type' );
+    // var post_type = $( '.post_types .selected' ).attr( 'data-type' );
+    var parts = location.href.split('/');
+    var lastSegment = parts.pop() || parts.pop();  // handle potential trailing slash
+    var post_type = lastSegment.replace('new-', '');
+    var d = $(".post_types .btn[data-type='"+post_type+"']").addClass('selected');
     return post_type;
   }
+  get_post_type();
 
 
   // Gets today's date + time
@@ -82,16 +88,16 @@ jQuery(document).ready(function($) {
   });
 
 
-  function show_fields(d){
-    $('#matter-maker label').addClass('hidden');
-    $('#matter-maker .block').addClass('hidden');
-    var fields = d.split(', ');
-    for (var f in fields) {
-      var field = '.'+fields[f];
-      $('#matter-maker '+field).removeClass('hidden');
-    }
-  }
-  show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
+  // function show_fields(d){
+  //   $('#matter-maker label').addClass('hidden');
+  //   $('#matter-maker .block').addClass('hidden');
+  //   var fields = d.split(', ');
+  //   for (var f in fields) {
+  //     var field = '.'+fields[f];
+  //     $('#matter-maker '+field).removeClass('hidden');
+  //   }
+  // }
+  // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
 
   // A function that replaces out the special characters in strings
   function escapeHtml (string) {
@@ -210,7 +216,7 @@ jQuery(document).ready(function($) {
     // Checks to see what the post type is and prints the front-matter for each type
     // POST
     if (post_type == 'post') {
-      show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
+      // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
       var matter = [
         "---",
           "url: " + matter_url(data['m_date'], data['m_title']),
@@ -229,7 +235,7 @@ jQuery(document).ready(function($) {
 
       // DOC
     } else if (post_type == 'doc') {
-      show_fields('m_date, m_title, m_summary');
+      // show_fields('m_date, m_title, m_summary');
       var matter = [
         "---",
           "url: " + matter_url(data['m_date'], data['m_title']),
@@ -247,7 +253,7 @@ jQuery(document).ready(function($) {
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
@@ -271,7 +277,7 @@ jQuery(document).ready(function($) {
           "***Paste content here. Delete this line***"
         ].join("\n");
       } else {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
         var matter = [
           "---",
             "url: " + matter_url(data['m_date'], data['m_title']),
