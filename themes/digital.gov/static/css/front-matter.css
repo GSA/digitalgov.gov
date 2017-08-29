@@ -1,10 +1,13 @@
 
 .matter-container{
-  margin: 50px 0;
+  margin: 10px 0;
 }
 
 .btn-group{
   margin-bottom: 30px;
+}
+.post_types{
+  text-align: center;
 }
 .btn-group .btn{
   padding: 8px 12px 10px 12px;
@@ -35,6 +38,10 @@
 .btn-group .selected:hover{
   background: #3F4FFF;
   color:#fff;
+}
+
+.matter-container h1{
+  text-align: center;
 }
 .matter-editor{
   display: grid;
