@@ -43,20 +43,31 @@
 .matter-container h1{
   text-align: center;
 }
+
+/*Grid --------------*/
 .matter-editor{
   display: grid;
   grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
+  grid-template-rows: auto;
   grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    ". ."
+    "matter-front matter-front"
+    "matter-body matter-body";
 }
 .gcol1{
-  grid-area: row2-start / 1 / 2 / 1;
+  grid-area: matter-front / 1 / 2 / 1;
 }
 .gcol2{
   margin-top: 25px;
-  grid-area: row2-start / 2 / 2 / 2;
+  grid-area: matter-front / 2 / 2 / 2;
   max-width: 480px;
 }
+.matter-body{
+  grid-area: matter-body;
+  max-width: 960px;
+}
+/* --------------*/
 
 .gcol1 form{
   margin-top: 0;
@@ -159,4 +170,15 @@
 .block h4{
   margin-bottom: 10px;
   font-size: 18px;
+}
+.matter-body{}
+.matter-body pre{
+  padding: 20px;
+  font-size: 1em;
+  border:3px #555 solid;
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
