@@ -23,7 +23,7 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 **Step 1.** — Log in to [http://github.com](http://github.com)
 
-**Step 2.** — Submit your generate the front matter for your posts here --> https://demo.digital.gov/new
+**Step 2.** — Submit your generate the front matter for your posts here --> https://demo.digitalgov.gov/new/
 
 When done, click the link to create a new file.
 
