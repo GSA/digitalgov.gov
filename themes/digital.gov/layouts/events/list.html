@@ -68,7 +68,7 @@
           <div class="tribe-events-loop">
 
             {{ $events := where .Site.Pages "Section" "events" }}
-            {{ $upcoming := where $events ".Params.date" "ge" $now }}
+            {{ $upcoming := where $events ".Params.start_date" "ge" $now }}
             {{ range ($upcoming.GroupByDate "January 2006").Reverse }}
               <!-- Month / Year Headers -->
               <span class='tribe-events-list-separator-month'><span>{{ .Key }}</span></span>
