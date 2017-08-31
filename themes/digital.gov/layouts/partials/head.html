@@ -9,11 +9,14 @@
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
 
   <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
-  <meta name="description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta name="description" content="{{ $.Params.summary | default $.Site.Params.summary | markdownify }}" />
 
-  {{/* TODO: should have a common set and pull form tags */}}
-  <meta name="keywords" content="Digital, Government, 21st Century Government, Open Government Initiative, U.S. Digital Registry, Mobile, Social Media, Challenges, Code, APIs, Data, Open Source, Open Data, Innovation, Content, Metrics, UX, Usability, Accessibility, CX, Crowdsourcing, Citizen Science, Digital Analytics Program, DAP, Open Gov, OpenGov, Analytics, Metrics, Governance, Strategy, Policy, Community of Practice, Communities, testing, research, case study, case studies, digitalgov, digital gov, OCSIT, GSA, Office of Citizen Services and Innovative Technologies, Digital Government Division, U.S. General Services Administration, Federal Terms of Service, Federal Digital Services, Toolkit, Playbook, Initiatives"
-  />
+  {{ $sitetags := $.Site.Data.tag }}
+  {{ with $.Params.tag }}
+    {{ $_taxonomy := .}}
+    {{ $length := $_taxonomy | len }}
+    <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
+  {{ end }}
 
   {{/* TODO: these may not need to be here */}}
   <meta name="google-site-verification" content="g9_ce7PMGt-o-6Z5w9JaayjvGenyVBflWNo_nMBoggI" />
