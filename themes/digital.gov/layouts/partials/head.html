@@ -31,7 +31,7 @@
 
   {{/* TODO: values need to be page specific */}}
   {{/* TODO: DigitalGov => Digital.gov */}}
-  <meta property="og:title" content="DigitalGov - Building the 21st Century Digital Government" />
+  <meta property="og:title" content="{{ $.Params.title | default $.Site.Params.title | markdownify }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.digitalgov.gov/" />
   <meta property="og:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
