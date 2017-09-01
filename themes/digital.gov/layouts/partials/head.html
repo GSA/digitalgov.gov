@@ -48,12 +48,24 @@
   <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
-  <meta name="twitter:creator" content="@alyciap1" />
-  <meta name="twitter:domain" content="digitalgov.gov" />
-  <meta name="twitter:title" content="DigitalGov - Building the 21st Century Digital Government" />
-  <meta name="twitter:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
-  <meta name="twitter:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
-  <meta itemprop="image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
+
+  {{/* Extract twitter handle from author data */}}
+  {{ with $.Params.authors }}
+    {{ range $i, $e := . }}
+      {{ $uid := $e | urlize }}
+      {{ $data := $.Site.Data }}
+      {{ $author := index $data.people.authors $uid }}
+      {{ with $author.twitter }}
+        <meta name="twitter:creator" content="{{ . }}" />
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
+  <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
+  <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
+  <meta name="twitter:image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
+  <meta itemprop="image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
 
 
   {{/* TODO: what does this do? */}}
