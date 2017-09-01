@@ -23,7 +23,7 @@ sitemap:
   filename              : "sitemap.xml"
 
 params:
-  description           : "digital.gov"
+  description           : "DigitalGov: We’re helping you build a modern government."
   faceboook             : ""
   twitter               : ""
   instagram             : ""

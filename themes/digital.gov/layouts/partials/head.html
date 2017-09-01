@@ -9,7 +9,7 @@
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
 
   <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
-  <meta name="description" content="{{ $.Params.summary | default $.Site.Params.summary | markdownify }}" />
+  <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
 
   {{ $sitetags := $.Site.Data.tag }}
   {{ with $.Params.tag }}
@@ -31,7 +31,7 @@
 
   {{/* TODO: values need to be page specific */}}
   {{/* TODO: DigitalGov => Digital.gov */}}
-  <meta property="og:title" content="{{ $.Params.title | default $.Site.Params.title | markdownify }}" />
+  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL | absURL }}" />
   {{/* Add featured_image call */}}
@@ -45,7 +45,7 @@
   {{/* TODO: values need to be page specific */}}
   {{/* What's fb:admins? */}}
   <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.summary | markdownify }}" />
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
   <meta name="twitter:creator" content="@alyciap1" />
