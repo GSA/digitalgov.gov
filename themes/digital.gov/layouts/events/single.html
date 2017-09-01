@@ -44,7 +44,7 @@
               </span><br/>
               <span class="tribe-event-time">
                 {{ with .Params.start_date }}
-                  {{ . | dateFormat "3:01 PM" }}
+                  {{ . | dateFormat "3:04 PM" }}
                 {{ end }} —
                 {{ with .Params.end_date }}
                   {{ . | dateFormat "3:04 PM ET" }}
@@ -142,7 +142,7 @@
   						<div class="tribe-events-meta-group tribe-events-meta-group-details">
   							<h3 class="tribe-events-single-section-title"> Details </h3>
   							<dl>
-  								<dt> Date: {{ .Params.start_date }} </dt>
+  								<dt> Date: </dt>
   								<dd>
   									<abbr class="tribe-events-abbr tribe-events-start-date published dtstart" title="{{ with .Params.start_date }}{{ . | dateFormat "2006-01-02" }}{{ end }}"> {{ with .Params.start_date }}{{ . | dateFormat "January 2" }}{{ end }}</abbr>
   								</dd>
