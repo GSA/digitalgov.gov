@@ -45,7 +45,7 @@
   {{/* TODO: values need to be page specific */}}
   {{/* What's fb:admins? */}}
   <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.summary | markdownify }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
   <meta name="twitter:creator" content="@alyciap1" />
