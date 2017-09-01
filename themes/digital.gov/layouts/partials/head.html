@@ -34,10 +34,11 @@
   <meta property="og:title" content="{{ $.Params.title | default $.Site.Params.title | markdownify }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL | absURL }}" />
-  {{ with $.Params.featured_image }}
-    <meta property="og:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
-  {{ end }}
-  <meta property="og:image:width" content="600" />
+  {{/* Add featured_image call */}}
+    <meta property="og:image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
+    <meta property="og:image:width" content="640" />
+    <meta property="og:image:width" content="400" />
+  {{/* End featured_image call */}}
   <meta property="og:site_name" content="DigitalGov" />
 
 
