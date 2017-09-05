@@ -46,7 +46,11 @@
     {{ if gt $featImgWidth 1200 }}
      {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
     {{ end }}
+    {{ if gt $featImgWidth 800 }}
+     {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
+    {{ end }}
     {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+    {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
 
     <meta property="og:image" content="{{ $featImgURL }}" />
     <meta property="og:image:width" content="{{ $featImgWidth }}" />
@@ -77,7 +81,7 @@
   <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
   <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
   <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="twitter:image" content="{{ $featImgURL }}" />
+  <meta name="twitter:image" content="{{ $featImgTwitterURL }}" />
   <meta itemprop="image" content="{{ $featImgURL }}" />
 
 
