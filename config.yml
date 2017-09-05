@@ -17,6 +17,7 @@ ignoreFiles:
   - "content/images/*"
 # uncomment the following for a dev mode that excludes posts before 2017
 #  - "content/posts/201[0-6]"
+#
 
 sitemap:
   changefreq            : "monthly"
