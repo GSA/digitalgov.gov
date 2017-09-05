@@ -344,7 +344,6 @@ gulp.task("proxy", ["upload"], function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
   return gulp.src("content/images/_working/originals/*.{png,jpg}")
-    .pipe(replace(/^(.+?)\.(png|jpg)$/g, '$1_$2.$2')) // add filetype to base
     .pipe(responsive({
       '*': {
         rename: {
