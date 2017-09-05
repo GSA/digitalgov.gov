@@ -4,7 +4,7 @@ title: 'The World of Foo'
 summary: 'Sometimes foo happens and sometimes it doesn’t.'
 xposted_from: https://foo.org/world-of-foo/
 featured_image:
-  src: 'bill-of-rights.jpg'
+  src: 'bill-of-rights'
   alt: 'The bill of rights'
 authors:
   - foo-qaz

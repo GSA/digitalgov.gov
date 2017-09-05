@@ -4,7 +4,8 @@
   "description": "The digital.gov website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "gulp process-img"
   },
   "repository": {
     "type": "git",
