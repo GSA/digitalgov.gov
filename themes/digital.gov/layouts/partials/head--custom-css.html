@@ -1,0 +1,4 @@
+{{ range $.Params.css }}
+  {{ $path := (printf "css/%s" .) | absURL }}
+  <link rel="stylesheet" media="all" href="{{ $path }}" type="text/css"/>
+{{ end }}

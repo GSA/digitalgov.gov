@@ -1,6 +1,7 @@
 ---
 url: /services/sites-usa-gov/
 date: 2013-11-30 3:44:56 -0400
+uid: sites-usa-gov
 title: Sites
 summary: ' Sites lets federal agencies build websites using a self-service content management platform. It&rsquo;s a hosted shared service provided by the Digital Services Innovation Center. CMS meets the Digital Strategy. Built on an open-source platform that runs millions of sites (WordPress) that meets federal requirements for security and compliance.'
 ---
