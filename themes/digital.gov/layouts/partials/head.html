@@ -34,10 +34,23 @@
   <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL | absURL }}" />
-  {{/* Add featured_image call */}}
-    <meta property="og:image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
-    <meta property="og:image:width" content="640" />
-    <meta property="og:image:width" content="400" />
+  {{/* Featured_image call */}}
+    {{ $cdnurl := .Site.Params.cdnurl }}
+    {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
+    {{ $featImgBase := $featImg.uid }}
+    {{ $featImgExt := $featImg.format }}
+    {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
+    {{ $featImgWidth := $featImg.width }}
+    {{ $featImgHeight := $featImg.height }}
+    {{ $.Scratch.Set "featImgSuffix" "" }}
+    {{ if gt $featImgWidth 1200 }}
+     {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
+    {{ end }}
+    {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+
+    <meta property="og:image" content="{{ $featImgURL }}" />
+    <meta property="og:image:width" content="{{ $featImgWidth }}" />
+    <meta property="og:image:width" content="{{ $featImgHeight }}" />
   {{/* End featured_image call */}}
   <meta property="og:site_name" content="DigitalGov" />
 
@@ -64,8 +77,8 @@
   <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
   <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
   <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="twitter:image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
-  <meta itemprop="image" content="{{ "img/digital-gov-card.jpg" | absURL }}" />
+  <meta name="twitter:image" content="{{ $featImgURL }}" />
+  <meta itemprop="image" content="{{ $featImgURL }}" />
 
 
   {{/* TODO: what does this do? */}}
