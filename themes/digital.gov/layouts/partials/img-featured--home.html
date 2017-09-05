@@ -1,0 +1,18 @@
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
+{{ $imgBase := $thisimg.uid }}
+{{ $imgExt := $thisimg.format }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgWidth := $thisimg.width }}
+{{ $imgHeight := $thisimg.height }}
+
+{{ $.Scratch.Set "imgSuffix" "" }}
+{{ if gt $imgWidth 400 }}
+ {{ $.Scratch.Set "imgSuffix" "_w400" }}
+{{ end }}
+
+<img
+  class="catslide-thumbnail"
+  src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+  alt="{{ $thisimg.alt | default "foo default" }}"
+  title="{{ .Title | markdownify }}" />

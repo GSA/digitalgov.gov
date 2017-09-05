@@ -1,14 +1,10 @@
-uid           : foo-qaz
 display_name  : Foo B. Qaz
 first_name    : Foo
 last_name     : Qaz
-email         : foo.b.qaz@government.gov
-website       : http://fooqaz.party
-bio           : Oh, foo. Just _another_ WordPress bio.
-location      : Ann Arbor, MI
-quote         : Oh bar-other!
-github        : thisisdano
-twitter       : fooqaz_twitter
-youtube       : fooqaz_youtube
-facebook      : fooqaz_facebook
-linkedin      : fooqaz_linkedin
+uid           : foo-qaz
+email         :
+bio           :
+location      :
+quote         :
+github        :
+twitter       : "@fooqaz"
