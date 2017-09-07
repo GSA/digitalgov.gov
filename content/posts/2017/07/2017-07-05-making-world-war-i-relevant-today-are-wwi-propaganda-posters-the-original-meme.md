@@ -24,33 +24,9 @@ Maybe this argument sounds crazy to you, or maybe it makes perfect sense. Either
 
 To get the general American public interested in historic topics, we need to think about creative ways we can make connections to our agency missions and the world we live in today. We, the [American Battle Monuments Commission](http://www.abmc.gov), recently hosted a Facebook Live chat where we examined WWI posters that helped shape public opinion on the war.
 
-<div>
-  <div id="fb-root">
-  </div>
+{{< fb-video "https://www.facebook.com/abmcpage/videos/1573462782672427" >}}
 
-  <p>
-  </p>
-
-  <div class="fb-video" data-href="https://www.facebook.com/abmcpage/videos/1573462782672427/" data-width="500">
-    <blockquote cite="https://www.facebook.com/abmcpage/videos/1573462782672427/" class="fb-xfbml-parse-ignore">
-      <p>
-        <a href="https://www.facebook.com/abmcpage/videos/1573462782672427/">"Selling" World War I to the American Public: How Posters Shap&#8230;</a>
-      </p>
-
-      <p>
-        Watch as we discuss WWI posters.
-      </p>
-
-      <p>
-        Posted by <a href="https://www.facebook.com/abmcpage/">American Battle Monuments Commission</a> on Wednesday, June 28, 2017
-      </p>
-    </blockquote>
-  </div>
-
-  <p>
-    During this discussion we talked about the:
-  </p>
-</div>
+  During this discussion we talked about the:
 
   * wording used
   * target audience
