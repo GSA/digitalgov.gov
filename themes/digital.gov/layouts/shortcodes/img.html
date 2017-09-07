@@ -7,7 +7,7 @@
 {{ $imgWidth := $thisimg.width }}
 {{ $imgHeight := $thisimg.height }}
 
-<div{{ if le $imgWidth 600 }} class="align-right"{{ end }}>
+<div{{ if lt $imgWidth 600 }} class="align-right"{{ end }}>
   <img
     src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
     {{ if or (.Get "alt" ) $thisimg.alt }}
