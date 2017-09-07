@@ -7,10 +7,10 @@
 {{ $imgWidth := $thisimg.width }}
 {{ $imgHeight := $thisimg.height }}
 
-<div{{ if le $imgWidth 600 }} class="align-right"{{ end }}>
+<div class="align-right">
   <img
     src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
-    {{ if or (.Get "alt" ) $thisimg.alt }}
+    {{ if or (.Get "alt") $thisimg.alt }}
     alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
     {{ end }}
     srcset='
@@ -34,7 +34,7 @@
     {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
     {{ end }}
       '
-    sizes='(max-width: 600px) 100vw, 600px'/>
+    sizes='(max-width: 600px) 30vw, 200px'/>
   {{ with $thisimg.credit }}
     <p class="wp-caption-text">
       {{ . | markdownify }}

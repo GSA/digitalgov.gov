@@ -8,3 +8,10 @@
 .featpage-image .catslide-thumbnail {
   object-fit: cover;
 }
+
+.align-right {
+  float: right;
+  clear: right;
+  margin: 0 0 10px 20px;
+  width: 33%;
+}

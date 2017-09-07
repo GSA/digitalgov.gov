@@ -1,6 +1,6 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
-{{ $thisimg := index $.Site.Data.images (.Get 0) }}
+{{ $thisimg := index $.Site.Data.images (.Get 0 | lower) }}
 {{ $imgBase := $thisimg.uid }}
 {{ $imgExt := $thisimg.format }}
 {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
