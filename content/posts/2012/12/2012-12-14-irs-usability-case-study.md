@@ -1,4 +1,5 @@
 ---
+url: 2012/12/14/irs-usability-case-study.md
 date: 2012-12-14 16:05:59 -0400
 title: 'IRS &#8211; Usability Case Study'
 summary: Acronyms and jargon are fine when you want to communicate quickly to an internal audiences or to like-minded readers. Once the scope of your audience widens, however, these elements can make your pages harder to understand. The IRS recognized that its pages about tax planning for retirement were reaching an audience beyond tax professionals, and

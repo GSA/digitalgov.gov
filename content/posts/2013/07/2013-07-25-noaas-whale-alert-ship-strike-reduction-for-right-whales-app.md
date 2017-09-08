@@ -1,4 +1,5 @@
 ---
+url: 2013/07/25/noaas-whale-alert-ship-strike-reduction-for-right-whales-app.md
 date: 2013-07-25 9:32:26 -0400
 title: 'NOAA&#8217;s Whale Alert – Ship Strike Reduction for Right Whales App'
 summary: Mariners now have an anytime, anywhere resource to aid in the

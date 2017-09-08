@@ -1,4 +1,5 @@
 ---
+url: 2013/07/19/the-next-step-is-yours.md
 date: 2013-07-19 10:18:24 -0400
 title: 'DATA.Gov: The Next Step is Yours'
 summary: Americans are rocking open data! From getting people to the emergency room faster with iTriage to helping them navigate road and rail after a disaster, people are innovating, building businesses, and creating safer communities. As developers get more sophisticated and businesses get better analytics, Data.gov needs to change to support them in new ways and

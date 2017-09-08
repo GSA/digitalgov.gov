@@ -1,4 +1,5 @@
 ---
+url: 2015/10/15/gov-analytics-breakdown-1-browsers-chrome-takes-the-cake.md
 date: 2015-10-15 15:25:39 -0400
 title: 'Gov Analytics Breakdown #1 &#8211; Browsers: Chrome Takes the Cake'
 summary: 'If you were visiting a federal government website two years ago, the best odds were that you&rsquo;d have been using Internet Explorer as your Internet browser. But today, that&rsquo;s no longer the case. Within just the last year, Chrome has taken over the top spot as the browser most used to view federal websites, according to'

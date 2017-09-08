@@ -1,4 +1,5 @@
 ---
+url: 2014/08/07/parents-get-a-head-start-with-new-mobile-app.md
 date: 2014-08-07 13:00:46 -0400
 title: Parents Get a Head Start With New Mobile App
 summary: 'As it&#8217;s time to return to school, the Health and Human Services Administration for Children and Families is helping parents and teachers prepare anytime, anywhere. Head Start Resources, an app available on iOS and Android, is a gateway to tools and resources for those associated'

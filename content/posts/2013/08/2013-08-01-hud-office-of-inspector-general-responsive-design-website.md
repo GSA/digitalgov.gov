@@ -1,4 +1,5 @@
 ---
+url: 2013/08/01/hud-office-of-inspector-general-responsive-design-website.md
 date: 2013-08-01 9:15:04 -0400
 title: HUD Office of Inspector General Responsive Design Website
 summary: ' The U.S. Department of Housing and Urban Development (HUD) has developed a responsive design website for the HUD Office of Inspector General. The website provides: news, the latest reports and publications, locations to'

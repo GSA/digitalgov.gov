@@ -1,4 +1,5 @@
 ---
+url: 2015/12/10/remote-user-experience-information-gathering-best-practices.md
 date: 2015-12-10 10:00:25 -0400
 title: Best Practices for Remote User Experience Research
 summary: Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. One of

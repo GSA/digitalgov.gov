@@ -1,4 +1,5 @@
 ---
+url: 2014/04/28/in-crowdsourcing-competitions-defining-the-problem-is-half-the-battle.md
 date: 2014-04-28 10:00:31 -0400
 title: In Crowdsourcing Competitions, Defining the Problem is Half the Battle
 summary: 'After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don&rsquo;t actually help remedy the issue. More than 20 federal innovators recently took part in'

@@ -1,4 +1,5 @@
 ---
+url: 2017/05/26/from-launch-to-landing-how-nasa-took-control-of-its-https-mission.md
 date: 2017-05-26 12:00:50 -0400
 title: 'From Launch to Landing: How NASA Took Control of Its HTTPS Mission'
 summary: '18F Editor&rsquo;s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA&rsquo;s successful HTTPS and HSTS migration, and we&rsquo;re happy to help Karim share the lessons NASA learned from that process. In 2015, the White House Office of Management and Budget released M-15-13, a &ldquo;Policy to Require Secure Connections'

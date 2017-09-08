@@ -1,4 +1,5 @@
 ---
+url: 2014/03/21/announcing-beta-usgs-gov.md
 date: 2014-03-21 9:54:22 -0400
 title: Announcing beta.usgs.gov
 summary: 'In 1994 when the U.S. Geological Survey (USGS) launched it&rsquo;s first website, the Web was a very different place. Many websites that were launched had little consideration given to, or even had an understanding of, things such user experience, content strategies, or design. Over the next 20 years our'

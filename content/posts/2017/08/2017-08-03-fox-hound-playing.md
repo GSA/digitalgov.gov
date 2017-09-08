@@ -1,4 +1,5 @@
 ---
+url: 2017/08/03/fox-hound-playing.md
 date: 2017-08-03 13:16:21 -0400
 title: 'The Fox&#58; And the Pig are playing&#63;'
 summary: 'This is the summary &amp;'

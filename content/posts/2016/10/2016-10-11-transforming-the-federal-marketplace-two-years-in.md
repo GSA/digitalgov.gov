@@ -1,4 +1,5 @@
 ---
+url: 2016/10/11/transforming-the-federal-marketplace-two-years-in.md
 date: 2016-10-11 11:00:16 -0400
 title: Transforming the Federal Marketplace, Two Years In
 summary: 'Summary: It&rsquo;s been two years since we laid out the Administration&rsquo;s plan to transform the Federal marketplace. Here&rsquo;s a look at what we&rsquo;ve accomplished, and what&rsquo;s next. Over the last two years, we&rsquo;ve focused on our mission to implement the President&rsquo;s vision for a modern government&#8211; one that leverages private-sector best practices to achieve a'

@@ -1,4 +1,5 @@
 ---
+url: 2014/08/19/redesigning-with-customer-feedback-child-support-enforcement-usability-case-study.md
 date: 2014-08-19 1:00:49 -0400
 title: 'Redesigning with Customer Feedback: Child Support Enforcement Usability Case Study'
 summary: 'The Federal Office of Child Support Enforcement at the Administration for Children and Families had a visually appealing website after an agency-wide redesign of program websites. The problem: Key stakeholders complained they could no longer easily find needed information. Their feedback prompted us to facilitate a UX-minded focus group to recommend improvements that met both users&rsquo; business needs and the redesign goals.'

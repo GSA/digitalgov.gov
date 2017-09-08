@@ -1,4 +1,5 @@
 ---
+url: 2016/01/05/digging-into-the-data-of-our-customer-survey.md
 date: 2016-01-05 9:00:06 -0400
 title: Digging Into the Data of Our Customer Survey
 summary: 'As a followup to the recent post about our annual customer satisfaction survey, we wanted to dig into the data and share some of the overall results, to give you some more insights into how we&rsquo;re using your feedback to improve our programs and services. Background: For the past three years, GSA&rsquo;s Office of Citizen'

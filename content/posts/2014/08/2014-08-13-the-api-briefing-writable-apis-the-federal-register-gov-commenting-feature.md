@@ -1,4 +1,5 @@
 ---
+url: 2014/08/13/the-api-briefing-writable-apis-the-federal-register-gov-commenting-feature.md
 date: 2014-08-13 11:46:28 -0400
 title: 'The API Briefing: Writable APIs – The Federal Register.gov Commenting Feature'
 summary: 'FederalRegister.gov just released a writable API that allows citizens to comment directly on proposed regulations. When a user is viewing a regulation on FederalRegister.gov, he or she can click on the &ldquo;Submit a Formal Comment&rdquo; button. A textbox appears, and the comment is recorded for that particular regulation.'

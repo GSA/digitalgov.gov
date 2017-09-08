@@ -1,4 +1,5 @@
 ---
+url: 2014/11/26/thanksgiving-avoid-awkward-family-dinners-with-the-federal-apps-mobile-directory.md
 date: 2014-11-26 12:00:29 -0400
 title: Avoid an Awkward Family Thanksgiving with the Federal Apps Mobile Directory
 summary: 'Are you like me? Do you consistently eat too much on Thanksgiving to avoid invasive family conversations that have a high probability of 1) turning awkward and 2) forcing you to abandon a sworn blood oath to never again reveal details of your private life to loved ones? Don&rsquo;t be like me. It&rsquo;s your holiday,'

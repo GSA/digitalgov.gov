@@ -1,4 +1,5 @@
 ---
+url: 2016/04/07/how-to-merge-two-facebook-pages.md
 date: 2016-04-07 10:00:26 -0400
 title: How to Merge Two Facebook Pages
 summary: In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our

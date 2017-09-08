@@ -1,4 +1,5 @@
 ---
+url: 2014/04/29/trends-on-tuesday-mobile-its-where-youll-find-millennials.md
 date: 2014-04-29 10:04:25 -0400
 title: 'Trends on Tuesday: Mobile, It&#8217;s Where You&#8217;ll Find Millennials'
 summary: ' It&rsquo;s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies'

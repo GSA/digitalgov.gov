@@ -1,4 +1,5 @@
 ---
+url: 2012/08/21/sms-or-short-message-service.md
 date: 2012-08-21 13:10:46 -0400
 title: SMS or Short Message Service
 summary: ' SMS or Short Message Service (Texting) is a mobile device capability where users are able to send short (generally 160 characters maximum) text messages to another user via the use of the keypad or built-in keyboard. Seventy-three percent of cell phone owners use their device to text,'

@@ -1,4 +1,5 @@
 ---
+url: 2015/12/10/sixty-years-of-tradition-tracking-santa-with-norad.md
 date: 2015-12-10 11:46:12 -0400
 title: 'Sixty Years of Tradition: Tracking Santa with NORAD'
 summary: '&#8216;Twas the night before Christmas, when all through the house, Not a creature was stirring, not even a mouse; The stockings were hung by the chimney with care, In hopes that St. Nicholas soon would be there; The children were nestled all snug in their beds;&#8230; &#8230;wondering when Santa was coming? &ldquo;Let&rsquo;s check!&rdquo; they all'

@@ -1,4 +1,5 @@
 ---
+url: 2014/07/11/lean-startup-changing-government-services-and-agencies-to-better-serve-the-citizens.md
 date: 2014-07-11 10:00:44 -0400
 title: 'Lean Startup: Changing Government Services and Agencies to Better Serve the Citizens'
 summary: It is easy to start a business today and especially an Internet-based business. Using the cloud, APIs, and hosted applications, an entrepreneur can quickly build a website/mobile app. The entrepreneur can hire freelancers to do everything from creating a logo to writing a business plan. Virtual assistant services can provide on-demand staff to meet business

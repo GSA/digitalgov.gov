@@ -1,4 +1,5 @@
 ---
+url: 2014/05/23/tips-for-creating-great-video-interviews.md
 date: 2014-05-23 10:00:40 -0400
 title: Tips for Creating Great Video Interviews
 summary: ' At Kids.gov, we noticed a lot of our search terms were for different jobs: veterinarian, teacher, police officer. We offer links to these areas, but thought it would be great if we met and interviewed government employees in the'

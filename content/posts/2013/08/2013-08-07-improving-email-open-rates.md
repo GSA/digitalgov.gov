@@ -1,4 +1,5 @@
 ---
+url: 2013/08/07/improving-email-open-rates.md
 date: 2013-08-07 7:40:08 -0400
 title: Improving Email Open Rates
 summary: Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of

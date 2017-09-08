@@ -1,4 +1,5 @@
 ---
+url: 2014/09/04/national-cancer-institute-launches-new-user-experience-lab.md
 date: 2014-09-04 10:00:47 -0400
 title: National Cancer Institute Launches New User Experience Lab
 summary: ' Why does a Cancer institute need a User Experience lab? Simply put: To learn about their customers&mdash;people living with cancer and those who care about them&mdash;and build the best possible products with them in mind. &ldquo;Cancer has a journey and we wanted to create a'

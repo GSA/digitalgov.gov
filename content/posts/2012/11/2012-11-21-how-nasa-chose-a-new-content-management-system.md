@@ -1,4 +1,5 @@
 ---
+url: 2012/11/21/how-nasa-chose-a-new-content-management-system.md
 date: 2012-11-21 13:21:29 -0400
 title: How NASA Chose a New Content Management System
 summary: 'A case study on how NASA is choosing a new enterprise content management system (CMS). The Challenge NASA.gov needs a new enterprise CMS. They&rsquo;re facing issues such as software obsolescence, inconsistent website governance, and a large amount of unstructured content stored in flat HTML files. Their current system is almost a decade old, and the'

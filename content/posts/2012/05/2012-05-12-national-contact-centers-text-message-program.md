@@ -1,4 +1,5 @@
 ---
+url: 2012/05/12/national-contact-centers-text-message-program.md
 date: 2012-05-12 14:22:22 -0400
 title: 'National Contact Center&#8217;s Text Message Program'
 summary: 'Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by GSA&#8217;s Office of Citizen Services & Innovative Technologies, Contact Center Services Division. The National Contact Center&#8217;s Text Message Program The'

@@ -1,4 +1,5 @@
 ---
+url: 2015/03/20/structured-content-in-government-how-hhs-and-nci-are-getting-started.md
 date: 2015-03-20 9:50:12 -0400
 title: 'Structured Content in Government: How HHS and NCI Are Getting Started'
 summary: 'Metadata, tagging, content modeling &hellip; they&rsquo;re not identical concepts, but they&rsquo;re driven by the same basic principle: when you structure your digital information, it can be more easily searched, reused, connected, shared, and analyzed. If you&rsquo;re new to structured content, where should you start? Ideally, your metadata strategy will be part of your overall content'

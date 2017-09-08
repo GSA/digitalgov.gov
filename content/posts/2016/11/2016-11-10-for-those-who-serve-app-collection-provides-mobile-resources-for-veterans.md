@@ -1,4 +1,5 @@
 ---
+url: 2016/11/10/for-those-who-serve-app-collection-provides-mobile-resources-for-veterans.md
 date: 2016-11-10 12:00:47 -0400
 title: “For Those Who Serve” App Collection Provides Mobile Resources for Veterans
 summary: 'In honor of Veterans Day, several VA mobile apps are featured this week in the Apple App Store. In the &ldquo;For Those Who Serve&rdquo; collection of resources, Veterans can find the latest military news, essential health and wellness information, and other valuable tools for everyday life. The highlighted VA apps are designed to help Veterans manage their'

@@ -1,4 +1,5 @@
 ---
+url: 2015/01/23/new-ed-gov-homepage-and-more.md
 date: 2015-01-23 11:10:51 -0400
 title: New Ed.gov Homepage and More
 summary: 'You may have noticed we launched our new Ed.gov homepage today. This completes the third and final phase of our visual refresh for our main website. We released the second phase of the refresh back in June. So, what&rsquo;s new? Streamlined Homepage The new homepage takes our efforts to streamline navigation on the website one'

@@ -1,4 +1,5 @@
 ---
+url: 2015/10/23/is-your-site-mobile-friendly.md
 date: 2015-10-23 11:00:12 -0400
 title: Is Your Site Mobile-Friendly?
 summary: 'What is mobile-friendly? Mobile-friendly simply means your visitors can use phones and tablets to visit your website and have a user-friendly experience. Many of us get toward the end of mobile site development and really do not know if what we created is &#8220;mobile-friendly.&rdquo; We think we have followed all of the mobile best practices'

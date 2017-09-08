@@ -1,4 +1,5 @@
 ---
+url: 2017/06/15/four-challenges-of-adopting-team-structures-and-how-leaders-can-mitigate-them.md
 date: 2017-06-15 12:00:00 -0400
 title: Four Challenges of Adopting Team Structures (And How Leaders Can Mitigate Them)
 summary: 'If you&rsquo;re considering &ldquo;going agile,&rdquo; one of the critical components of such a transformation will be adopting team structures. In your current, pre-teaming state, your developers are probably working by themselves, and may be engaging directly with stakeholders. Agile will place your developers into teams. Teaming is important, as it will enable your development staff'

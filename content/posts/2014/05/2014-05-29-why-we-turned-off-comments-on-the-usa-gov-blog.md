@@ -1,4 +1,5 @@
 ---
+url: 2014/05/29/why-we-turned-off-comments-on-the-usa-gov-blog.md
 date: 2014-05-29 10:00:54 -0400
 title: Why We Turned Off Comments on the USA.gov Blog
 summary: 'On Friday, we made a big change over on the USA.gov blog&mdash;we turned off the ability for people to comment on our posts. Now before you all start looking at me like I have five heads and wondering what Koolaid I&rsquo;m drinking, let me explain our reasoning. We&rsquo;ve had comments on blog.usa.gov since it launched'

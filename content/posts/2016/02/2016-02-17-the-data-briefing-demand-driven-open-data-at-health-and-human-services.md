@@ -1,4 +1,5 @@
 ---
+url: 2016/02/17/the-data-briefing-demand-driven-open-data-at-health-and-human-services.md
 date: 2016-02-17 10:00:13 -0400
 title: 'The Data Briefing: Demand-Driven Open Data at Health and Human Services'
 summary: 'For many agencies, what data to make open is left up to the agency&rsquo;s judgment. This has worked well as agencies do a good job in understanding the public&rsquo;s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is'

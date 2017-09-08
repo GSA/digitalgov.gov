@@ -1,4 +1,5 @@
 ---
+url: 2014/12/10/data-visualization-challenge-using-open-data-to-reduce-crime.md
 date: 2014-12-10 10:49:29 -0400
 title: 'Data Visualization Challenge: Using Open Data to Reduce Crime'
 summary: ' Criminal justice agencies collect a variety of information and use it in multiple ways. Having a clear understanding of current realities is critical to shaping policies and improving the administration of'

@@ -1,4 +1,5 @@
 ---
+url: 2014/06/06/consumer-action-handbook-usability-case-study.md
 date: 2014-06-06 10:00:32 -0400
 title: 'Consumer Action Handbook &#8211; Usability Case Study'
 summary: 'The annual Consumer Action Handbook, from GSA, is a guide to making smarter decisions with your money. In both its print and online formats, it includes a compilation of buying tips from across government agencies, updates on the latest scams, and a robust consumer contact directory. But the most popular part of the book is the'

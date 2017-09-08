@@ -1,4 +1,5 @@
 ---
+url: 2017/06/13/fractal-and-federalist-join-the-u-s-web-design-standards.md
 date: 2017-06-13 10:25:06 -0400
 title: Fractal and Federalist Join the U.S. Web Design Standards
 slug: fractal-and-federalist-join-the-u-s-web-design-standards

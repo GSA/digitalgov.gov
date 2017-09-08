@@ -1,4 +1,5 @@
 ---
+url: 2015/05/20/creating-story-based-narrative-content-to-share-your-agencys-mission.md
 date: 2015-05-20 11:10:09 -0400
 title: Creating Story-Based, Narrative Content to Share Your Agency’s Mission
 summary: As human beings, we love stories. We like regaling our friends with tales from a recent road trip. We listen intently as grandma recounts that special moment she first met grandpa. Stories are how we relate to people. Stories help us form memories. Stories carry on tradition and culture from one generation to the next.

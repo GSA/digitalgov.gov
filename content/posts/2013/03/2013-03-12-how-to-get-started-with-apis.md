@@ -1,4 +1,5 @@
 ---
+url: 2013/03/12/how-to-get-started-with-apis.md
 date: 2013-03-12 12:28:11 -0400
 title: How to Get Started with APIs
 summary: 'Audit Research existing APIs Regardless of your agency&rsquo;s level of progress in API production, your first step is to create a developer hub that links to any of your agency&rsquo;s existing APIs. This can help identify current efforts and connect you with others in your agency already working on APIs. Follow up with a deeper'

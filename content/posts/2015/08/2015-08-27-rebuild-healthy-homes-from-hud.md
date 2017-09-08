@@ -1,4 +1,5 @@
 ---
+url: 2015/08/27/rebuild-healthy-homes-from-hud.md
 date: 2015-08-27 11:10:19 -0400
 title: Rebuild Healthy Homes from HUD
 summary: We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly. The United Nations Office for
