@@ -1,5 +1,5 @@
 ---
-url: 2014/08/18/how-to-choose-a-user-experience-technique.md
+slug: how-to-choose-a-user-experience-technique
 date: 2014-08-18 10:00:17 -0400
 title: How to Choose a User Experience Technique
 summary: 'The good news: Your boss is interested in User Experience! The news: She wants you to do something about it&#8230; NOW. Well, don&rsquo;t be alarmed; you can start by figuring out two simple things: 1. Identify the Stage you&#8217;re in in the development cycle. Write it down. 2. Choose a User'

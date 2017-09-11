@@ -1,5 +1,5 @@
 ---
-url: 2014/12/31/countdown-to-2015-with-our-most-popular-articles-this-year.md
+slug: countdown-to-2015-with-our-most-popular-articles-this-year
 date: 2014-12-31 14:45:22 -0400
 title: Countdown to 2015 with Our Most Popular Articles This Year
 summary: 'As we round out 2014, we&rsquo;re reflecting on the exciting year we&rsquo;ve had at DigitalGov since we launched in February. Our mission is to share information and resources from agencies across the federal government that are working in the digital space, and highlight the services and communities that can help you meet your digital government'

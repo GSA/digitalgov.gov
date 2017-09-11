@@ -1,5 +1,5 @@
 ---
-url: 2016/03/14/the-content-corner-feeding-the-beast-with-agile-content-development.md
+slug: the-content-corner-feeding-the-beast-with-agile-content-development.md
 date: 2016-03-14 10:59:54 -0400
 title: 'The Content Corner: Feeding the Beast with Agile Content Development'
 summary: 'I feel as though I have ignored the beast in the room lately, and since I began my tenure on The Content Corner introducing that concept, I felt I needed to wrestle with it one last time before I depart. Previously, I discussed the concept of pair writing. Today I want to investigate how another software'
@@ -13,7 +13,7 @@ tag:
   - The Content Corner
 ---
 
-I feel as though I have ignored the [beast in the room]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) lately, and since I began my tenure on [The Content Corner]({{< link "tag/the-content-corner" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.WHATEVER/tasks/479).
+I feel as though I have ignored the [beast in the room]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy" >}}) lately, and since I began my tenure on [The Content Corner]({{< link "tag/the-content-corner" >}}) introducing that concept, I felt I needed to wrestle with it one last time [before I depart](https://openopps.WHATEVER/tasks/479).
 
 Previously, I discussed the concept of [pair writing]({{< relref "2015-12-14-the-content-corner-is-pair-writing-right-for-you.md" >}}). Today I want to investigate how another software development concept can be leveraged to improve the quality and quantity of the content we create: [Agile content development](http://www.fastcocreate.com/1682380/the-3-keys-to-agile-content-development). {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
 

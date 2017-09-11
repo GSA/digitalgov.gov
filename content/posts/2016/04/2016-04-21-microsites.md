@@ -1,5 +1,5 @@
 ---
-url: 2016/04/21/microsites.md
+slug: microsites.md
 date: 2016-04-21 10:00:16 -0400
 title: 'Microsites, They&#8217;re Bigger Than You Think'
 summary: 'Lately, we have been hearing a lot about microsites&mdash;CDC&rsquo;s Zika Virus microsite provides up-to-date information on the virus&mdash;but the big question is: What are they? A microsite is a single or small collections of pages that are meant to encourage user interaction while conveying information. A microsite has the power to educate consumers regarding a'
@@ -17,7 +17,7 @@ tag:
   - USAgov
 ---
 
-Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus microsite provides up-to-date information on the virus]({{< relref "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks.md" >}})—but the big question is:
+Lately, we have been hearing a lot about microsites—[CDC’s Zika Virus microsite provides up-to-date information on the virus]({{< relref "2016-02-11-microsites-keep-your-audience-updated-on-outbreaks" >}})—but the big question is:
 
 ## What are they?
 

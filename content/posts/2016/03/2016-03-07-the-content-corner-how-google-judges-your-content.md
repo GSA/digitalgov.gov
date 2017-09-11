@@ -1,5 +1,5 @@
 ---
-url: 2016/03/07/the-content-corner-how-google-judges-your-content.md
+slug: the-content-corner-how-google-judges-your-content.md
 date: 2016-03-07 11:09:58 -0400
 title: 'The Content Corner: How Google Judges Your Content'
 summary: 'Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content. I&#8217;ve discussed key search engine optimization (SEO)'
@@ -17,7 +17,7 @@ tag:
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.
 
-I&#8217;ve discussed key [search engine optimization]({{< relref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}) (SEO) tips previously and there is no shortage of [SEO content]({{< relref "2014-06-13-search-engine-optimization-for-government-websites.md" >}}) available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
+I&#8217;ve discussed key [search engine optimization]({{< relref "2015-11-30-the-content-corner-the-balance-between-seo-and-the-user.md" >}}) (SEO) tips previously and there is no shortage of [SEO content]({{< relref "2014-06-13-search-engine-optimization-for-government-websites" >}}) available, but today I am going to focus again on how quality and quantity of your content can have an impact on your search engine rankings and how that content appears on search engine results pages (SERPs).
 
 # More, More, More&#8230;
 

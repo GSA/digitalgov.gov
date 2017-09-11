@@ -1,5 +1,5 @@
 ---
-url: 2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md
+slug: a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection.md
 date: 2016-09-06 13:00:05 -0400
 title: 'A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of Indirection'
 summary: 'This is post 3 in the 5-part series The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. &ldquo;All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.&rdquo; &#8211; David Wheeler The simplest of our four requirements was'
@@ -16,7 +16,7 @@ tag:
   - infrastructure
 ---
 
-_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})_.
+_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment" >}})_.
 
 > “All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.” &#8211; [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist))
 

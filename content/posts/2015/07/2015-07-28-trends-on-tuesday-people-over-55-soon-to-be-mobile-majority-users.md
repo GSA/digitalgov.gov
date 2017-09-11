@@ -1,5 +1,5 @@
 ---
-url: 2015/07/28/trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md
+slug: trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users
 date: 2015-07-28 10:00:12 -0400
 title: 'Trends on Tuesday: People Over 55 Soon to Be Mobile-Majority Users'
 summary: 'In July, comScore released a research paper, The Global Mobile Report: How Multi-Platform Audiences & Engagement Compare in the U.S., Canada, UK and Beyond, covering a lot of areas from smartphone penetration to Android vs. Apple preferences. The most impactful trend for government agencies might be best communicated through this graphic: {{< legacy-img src="2015/07/600-x-308-USA-Canada-UK-Demographics-Share-of-Time-Spent-by-Platform.jpg" alt="USA,'

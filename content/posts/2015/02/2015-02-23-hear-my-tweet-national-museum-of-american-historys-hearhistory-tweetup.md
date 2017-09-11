@@ -1,5 +1,5 @@
 ---
-url: 2015/02/23/hear-my-tweet-national-museum-of-american-historys-hearhistory-tweetup.md
+slug: hear-my-tweet-national-museum-of-american-historys-hearhistory-tweetup
 date: 2015-02-23 10:00:52 -0400
 title: 'Hear My Tweet: National Museum of American History’s #HearHistory Tweetup'
 summary: ' DC was the Silicon Valley of the 1880&rsquo;s. And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center. The work of Bell and his contemporaries is the'

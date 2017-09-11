@@ -1,5 +1,5 @@
 ---
-url: 2015/04/01/the-api-briefing-how-do-i-use-this-api-good-documentation-practices-from-department-of-labor.md
+slug: the-api-briefing-how-do-i-use-this-api-good-documentation-practices-from-department-of-labor
 date: 2015-04-01 14:43:54 -0400
 title: 'The API Briefing: How Do I Use This API? Good Documentation Practices from Department of Labor'
 summary: When I first started coding using BASIC on the Commodore 64, I rarely documented my programs. Neither did many of my fellow programmers which led to numerous hours trying to figure out just exactly how a program worked. Documentation became more vital as programs became more feature rich and complex. In the API world, there

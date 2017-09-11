@@ -1,5 +1,5 @@
 ---
-url: 2014/04/10/department-of-treasurys-helpwithmybank-gov-goes-responsive.md
+slug: department-of-treasurys-helpwithmybank-gov-goes-responsive
 date: 2014-04-10 1:24:52 -0400
 title: 'Department of Treasury&#8217;s HelpWithMyBank.gov Goes Responsive'
 summary: 'As the rapper Notorious B.I.G. aptly noted in his hit song, &#8220;Mo Money&#8221; brings &#8220;Mo Problems.&#8221; Especially when you run up against confusing policies or questionable actions by large national banks and financial institutions. Now it&#8217;s easier than ever'

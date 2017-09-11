@@ -1,5 +1,5 @@
 ---
-url: 2017/01/19/the-life-changing-magic-of-writing-release-notes.md
+slug: the-life-changing-magic-of-writing-release-notes
 date: 2017-01-19 2:00:17 -0400
 title: The Life-Changing Magic of Writing Release Notes
 summary: 'A key part of agile development is constantly shipping new features. The team behind the Federal Election Commission&rsquo;s (FEC) beta website ships new features at least once every two weeks. Sometimes the features are big, noticeable changes, such as the new home page we recently launched. And other times they&rsquo;re small (a copy edit, an'

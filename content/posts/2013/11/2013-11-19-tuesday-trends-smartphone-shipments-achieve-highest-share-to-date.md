@@ -1,5 +1,5 @@
 ---
-url: 2013/11/19/tuesday-trends-smartphone-shipments-achieve-highest-share-to-date.md
+slug: tuesday-trends-smartphone-shipments-achieve-highest-share-to-date
 date: 2013-11-19 10:05:48 -0400
 title: 'Trends on Tuesday: Smartphone Shipments Achieve Highest Share to Date'
 summary: Last week, Gartner reported that global smartphone shipments have achieved their highest share ever recorded. Worldwide mobile phone sales totaled 455.6 million units in the third quarter of 2013, an increase of 5.7 percent from the same period last year. The real bread and butter came

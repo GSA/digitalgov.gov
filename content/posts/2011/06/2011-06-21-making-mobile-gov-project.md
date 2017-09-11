@@ -1,5 +1,5 @@
 ---
-url: 2011/06/21/making-mobile-gov-project.md
+slug: making-mobile-gov-project
 date: 2011-06-21 15:20:28 -0400
 title: Making Mobile Gov Project
 summary: 'Making Mobile Gov was a three phase multi-media project created by the MobileGov Community of Practice to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals: Educate&mdash;provide resources for mobile evangelists to help inform decision makers on'
@@ -44,7 +44,7 @@ The case for Mobile Gov is driven by:
   * innovations in mobile that can propel new government services/service delivery; and
   * improved transparency through increased access to government data and information.
 
-We live in a time when mobile technology is ubiquitous. A new survey shows that more preschoolers can use a mobile smartphone application than can tie their shoes and this is just one example of how the future will be mobile. One survey predicted that more people will access the internet via mobile than traditional desktops by 2015, however people are now predicting this will happen by 2013. {{< legacy-img src="2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}} 
+We live in a time when mobile technology is ubiquitous. A new survey shows that more preschoolers can use a mobile smartphone application than can tie their shoes and this is just one example of how the future will be mobile. One survey predicted that more people will access the internet via mobile than traditional desktops by 2015, however people are now predicting this will happen by 2013. {{< legacy-img src="2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}}
 
 Government agencies fit into this schema in that they can use mobile technologies to achieve their missions and better serve the American public. Mobile allows agencies to get information to—and potentially engage—the public efficiently and creatively while collaborating with other. Collaboration and opening up agency data stores can also provide efficiencies. For example, agencies combined data from four different data sets in the Product Recalls app. Alone, a single agency could not provide all the product, food, and vehicle recall data that people want, but by bringing the data together and making it available on mobile, useful and effective data is placed in the hands of consumers and other agencies.
 

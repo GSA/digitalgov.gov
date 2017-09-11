@@ -1,5 +1,5 @@
 ---
-url: 2017/06/30/webinar-recap-plain-language-action-and-information-network-plain-june-meeting.md
+slug: webinar-recap-plain-language-action-and-information-network-plain-june-meeting.md
 date: 2017-06-30 3:00:41 -0400
 title: 'Webinar Recap: Plain Language Action and Information Network (PLAIN) June Meeting'
 summary: 'This month&#8217;s Plain Language of Community Practice meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful DigitalGov University (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session. Many'
@@ -18,7 +18,7 @@ tag:
   - Recaps
 ---
 
-> _This month&#8217;s [Plain Language of Community Practice]({{< relref "plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< relref "digitalgov-university.md" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._
+> _This month&#8217;s [Plain Language of Community Practice]({{< relref "plain-language-community-of-practice.md" >}}) meeting featured Katherine Spivey&#8217;s presentation, Plain Language Spectrum: Every Step Counts! In this highly useful [DigitalGov University]({{< relref "digitalgov-university" >}}) (DGU) webinar, she explains how you can move forward with plain language even when you don&#8217;t have permission to edit copy, followed by a half hour Q & A session._
 
 Many people don&#8217;t get plain language (also known as plain communication or plain writing) right the very first time, but through practice, can gain clarity and improve their plain language skills. For newbies who may not feel 100 percent sure about diving into this concept, the guidelines below are helpful, but optional; you can visit [PlainLanguage.gov](http://www.plainlanguage.gov/) to find other ways to apply plain language to your specific content.
 

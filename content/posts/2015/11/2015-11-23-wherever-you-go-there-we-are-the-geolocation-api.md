@@ -1,5 +1,5 @@
 ---
-url: 2015/11/23/wherever-you-go-there-we-are-the-geolocation-api.md
+slug: wherever-you-go-there-we-are-the-geolocation-api.md
 date: 2015-11-23 13:00:37 -0400
 title: 'Wherever You Go, There We Are: the Geolocation API'
 summary: 'No matter how you go mobile, you can meet your user&rsquo;s needs. Recommendations based on location are plentiful, particularly on native apps. But don&rsquo;t fret, agencies with mobile websites: you can also get in the location customization game. Geolocation is a W3C scripting API that can be used with JavaScript in Web browsers. In the'
@@ -16,7 +16,7 @@ tag:
   - US National Park Service
 ---
 
-No matter [how you go mobile]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}), you can meet your user’s needs. Recommendations based on location are plentiful, particularly on native apps. But don’t fret, agencies with mobile websites: you can also get in the location customization game. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}} 
+No matter [how you go mobile]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments" >}}), you can meet your user’s needs. Recommendations based on location are plentiful, particularly on native apps. But don’t fret, agencies with mobile websites: you can also get in the location customization game. {{< legacy-img src="2015/11/600-x-400-Mobile-phone-gps-navigation-travel-destination-location-and-positioning-concept-cybrain-iStock-Thinkstock-493553122.jpg" alt="Mobile phone gps navigation, travel destination, location and positioning concept of a map and single marker over a smart phone" caption="" >}} 
 
 [Geolocation](http://dev.w3.org/geo/api/spec-source.html) is a W3C scripting [API]({{< relref "2013-04-30-apis-in-government.md" >}}) that can be used with JavaScript in Web browsers. In the past, geolocation could only be done in native apps through a mobile programming API. With the Geolocation API, a mobile web app can request a user’s location.
 

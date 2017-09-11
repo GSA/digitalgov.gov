@@ -1,5 +1,5 @@
 ---
-url: 2016/09/12/dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md
+slug: dnssec-vs-elastic-load-balancers-the-zone-apex-problem.md
 date: 2016-09-12 13:00:09 -0400
 title: 'DNSSEC vs. Elastic Load Balancers: the Zone Apex Problem'
 summary: 'This is the final post in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. Federal websites are required to implement DNSSEC, which relies on knowing exactly what server is responding to a request. In Amazon Web Services (AWS), the problem of unreliable servers is solved by'
@@ -17,7 +17,7 @@ tag:
   - security
 ---
 
-_This is the final post in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})._
+_This is the final post in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment" >}})._
 
 Federal websites are [required to implement DNSSEC](https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2008/m08-23.pdf), which relies on knowing exactly what server is responding to a request. In Amazon Web Services (AWS), the problem of unreliable servers is solved by [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) (ELB). An ELB containing one or more servers is presented to the world as a single hostname — say, <tt>usasearch-elb.ec2.aws.com</tt> — and requests are routed to individual servers in the ELB pool based on health and capacity. Hosts change without notice, at odds with standard DNSSEC implementations.
 

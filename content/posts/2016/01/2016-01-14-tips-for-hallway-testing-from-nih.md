@@ -1,5 +1,5 @@
 ---
-url: 2016/01/14/tips-for-hallway-testing-from-nih.md
+slug: tips-for-hallway-testing-from-nih.md
 date: 2016-01-14 11:10:14 -0400
 title: Tips for Hallway Testing from NIH
 summary: 'Over the course of the last year, the National Library of Medicine (NLM) has sought to increase its use of usability testing to improve the user experience on our Web resources. To do this, we conducted hallway usability testing at the NIH Clinical Center on NLM&#8217;s site search feature. Our goal is to update the'
@@ -15,7 +15,7 @@ tag:
   - NLM
 ---
 
-Over the course of the last year, the National Library of Medicine (NLM) has sought to [increase its use of usability testing to improve the user experience]({{< relref "2015-01-02-past-present-future-usability-testing-at-the-national-library-of-medicine.md" >}}) on our Web resources. To do this, we conducted [hallway usability testing]({{< relref "open-opportunities-task-creator-toolkit.md" >}})10-tips-for-creating-the-perfect-open-opportunity-task/) at the [NIH Clinical Center on NLM&#8217;s site search feature](https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?query=&v%3Aproject=nlm-main-website). Our goal is to update the user interface and improve user satisfaction with results. We set out to learn the specific difficulties and successes users have with our search interface through user testing.
+Over the course of the last year, the National Library of Medicine (NLM) has sought to [increase its use of usability testing to improve the user experience]({{< relref "2015-01-02-past-present-future-usability-testing-at-the-national-library-of-medicine.md" >}}) on our Web resources. To do this, we conducted [hallway usability testing]({{< relref "open-opportunities-task-creator-toolkit" >}})10-tips-for-creating-the-perfect-open-opportunity-task/) at the [NIH Clinical Center on NLM&#8217;s site search feature](https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?query=&v%3Aproject=nlm-main-website). Our goal is to update the user interface and improve user satisfaction with results. We set out to learn the specific difficulties and successes users have with our search interface through user testing.
 
 {{< legacy-img src="2016/01/600-x-290-NIH-NLM-search-results-for-Alternatives-to-Animal-Testing.jpg" alt="Screen capture of search results for Alternatives to Animal Testing." >}}
 

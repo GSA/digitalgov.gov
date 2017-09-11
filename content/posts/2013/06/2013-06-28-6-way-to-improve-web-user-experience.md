@@ -1,5 +1,5 @@
 ---
-url: 2013/06/28/6-way-to-improve-web-user-experience.md
+slug: 6-way-to-improve-web-user-experience
 date: 2013-06-28 8:47:13 -0400
 title: 6 Easy Ways to Improve User Experience on Websites
 summary: 'If you want a better user experience on your government website, there&rsquo;s a simple secret: early planning.  Good designers know that it&#8217;s much more difficult to make changes to something after it&#8217;s built than before. This is true for'

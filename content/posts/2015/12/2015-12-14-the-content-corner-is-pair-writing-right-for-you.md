@@ -1,5 +1,5 @@
 ---
-url: 2015/12/14/the-content-corner-is-pair-writing-right-for-you.md
+slug: the-content-corner-is-pair-writing-right-for-you.md
 date: 2015-12-14 10:00:35 -0400
 title: 'The Content Corner: Is Pair Writing Right for You?'
 summary: 'Fresh from last week&rsquo;s article about workflows and their importance in the content creation process, I stumbled upon a new twist in content production known as pair writing. Many of you familiar with agile methodologies or software programming in general should know the term pair programming. Pair writing hopes to take some of the same'
@@ -15,7 +15,7 @@ tag:
   - The Content Corner
 ---
 
-Fresh from [last week’s article about workflows]({{< relref "2015-12-07-the-content-corner-work-smarter-with-workflows.md" >}}) and their importance in the content creation process, I stumbled upon a new twist in content production known as [pair writing](http://www.uxbooth.com/articles/write-better-content-by-working-in-pairs/).
+Fresh from [last week’s article about workflows]({{< relref "2015-12-07-the-content-corner-work-smarter-with-workflows" >}}) and their importance in the content creation process, I stumbled upon a new twist in content production known as [pair writing](http://www.uxbooth.com/articles/write-better-content-by-working-in-pairs/).
 
 Many of you familiar with [agile methodologies]({{< relref "2015-02-27-foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md" >}}) or software programming in general should know the term [pair programming](https://en.wikipedia.org/wiki/Pair_programming). Pair writing hopes to take some of the same efficiencies found in pair programming and apply them to [content creation]({{< link "tag/the-content-corner" >}}).
 

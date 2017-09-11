@@ -1,5 +1,5 @@
 ---
-url: 2014/08/26/help-the-public-find-your-information-wherever-and-however-youve-published-it.md
+slug: help-the-public-find-your-information-wherever-and-however-youve-published-it
 date: 2014-08-26 11:00:35 -0400
 title: Help the Public Find Your Information, Wherever and However You’ve Published It
 summary: As traffic to desktop .gov websites declines, how we publish our content increasingly matters. We need to meet people where they are as they seek information on the Internet. To do so, we need to adjust to the new world of mobile applications, social media, and instant answers provided by search engines. Freeing Content from

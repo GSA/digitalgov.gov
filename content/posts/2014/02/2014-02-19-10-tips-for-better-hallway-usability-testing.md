@@ -1,5 +1,5 @@
 ---
-url: 2014/02/19/10-tips-for-better-hallway-usability-testing.md
+slug: 10-tips-for-better-hallway-usability-testing
 date: 2014-02-19 1:01:25 -0400
 title: 10 Tips for Better Hallway Usability Testing
 summary: ' Hallway testing is a usability test set-up in a high foot traffic area, utilizing bystanders to test your product. Your participants will be people who happen to be walking down the hall and are able to afford 5-10 minutes of their day.'

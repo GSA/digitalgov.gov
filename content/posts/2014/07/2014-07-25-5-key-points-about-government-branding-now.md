@@ -1,5 +1,5 @@
 ---
-url: 2014/07/25/5-key-points-about-government-branding-now.md
+slug: 5-key-points-about-government-branding-now
 date: 2014-07-25 11:47:11 -0400
 title: 5 Key Points About Government Branding Now
 summary: 'Recently, I had the pleasure of speaking (in my own capacity) before the Council for Inspectors General for Integrity and Efficiency Public Affairs Officers (CIGIE-PAO) task force about branding. The invitation came by way of a colleague I greatly respect. Bridget Serchak is currently Chief of Public Affairs for the Department of Defense Inspector General and'

@@ -1,5 +1,5 @@
 ---
-url: 2016/09/07/lets-encrypt-those-cnames-shall-we.md
+slug: lets-encrypt-those-cnames-shall-we.md
 date: 2016-09-07 11:00:56 -0400
 title: Let’s Encrypt Those CNAMES, Shall We?
 summary: 'This is post 4 in the 5-part series, The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment. This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already. In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such'
@@ -16,7 +16,7 @@ tag:
   - infrastructure
 ---
 
-_This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 
+_This is post 4 in the 5-part series, [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment" >}}). This post references the previous posts frequently, so please read those before reading this one if you haven&#8217;t done so already._ 
 
 In addition to the DNS challenges created by offering &#8220;masked&#8221; domains such as <tt>nasasearch.nasa.gov</tt>, we also had to solve the problem of how to maintain SSL certificates for the main <tt>search.usa.gov</tt> domain along with the &#8220;masked&#8221; domains of all customers that wanted HTTPS support for their own domains. As also noted in an [earlier post]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}}), this all needed to be done in a multi-app-server environment with no interruption of service. {{< legacy-img src="2016/08/600-x-400-Digital-Encryption-Lock-peterscode-iStock-Thinkstock-465159645.jpg" alt="Digital Encryption Lock" caption="" >}} 
 

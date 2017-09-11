@@ -1,5 +1,5 @@
 ---
-url: 2016/07/29/whats-all-the-fuss-around-customer-experience.md
+slug: whats-all-the-fuss-around-customer-experience
 date: 2016-07-29 10:00:56 -0400
 title: 'What&#8217;s All The Fuss Around Customer Experience?'
 summary: 'Have you been hearing the terms &#8220;Customer Experience&#8221; or &#8220;CX&#8221; a lot lately? Maybe you&rsquo;re wondering how they relate to customer service, or maybe you want to learn more about CX and how it can help your customers. Whether you directly interact with customers, support front line employees, or manage program operations, your work has'

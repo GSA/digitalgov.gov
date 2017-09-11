@@ -1,5 +1,5 @@
 ---
-url: 2014/06/17/trends-on-tuesday-mobile-location-data.md
+slug: trends-on-tuesday-mobile-location-data
 date: 2014-06-17 10:00:38 -0400
 title: 'Trends on Tuesday: Mobile Location Data Improving'
 summary: Imagine a world where your mobile device delivers ads for goods and services within 100 yards of your location. According to Thinknear, a leader in

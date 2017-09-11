@@ -1,5 +1,5 @@
 ---
-url: 2014/12/30/opening-government-through-federal-crowdsourcing.md
+slug: opening-government-through-federal-crowdsourcing
 date: 2014-12-30 10:00:45 -0400
 title: Opening Government Through Federal Crowdsourcing
 summary: Crowdsourcing is a critical corner of the digital government landscape, and our December theme articles have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives

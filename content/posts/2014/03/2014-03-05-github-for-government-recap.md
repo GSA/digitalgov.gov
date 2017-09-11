@@ -1,5 +1,5 @@
 ---
-url: 2014/03/05/github-for-government-recap.md
+slug: github-for-government-recap.md
 date: 2014-03-05 11:11:39 -0400
 title: GitHub for Government Recap
 summary: 'As the definition of &ldquo;developer&rdquo; has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It&rsquo;s a free social network that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously. Project Open Data, a cross-agency initiative developed by the White House,'
@@ -15,7 +15,7 @@ tag:
   - Recaps
 ---
 
-As the definition of “developer” has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a [free social network]({{< relref "negotiated-terms-of-service-agreements.md" >}}) that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously.
+As the definition of “developer” has grown and expanded, GitHub has become a place where anyone can do simple collaboration. It’s a [free social network]({{< relref "negotiated-terms-of-service-agreements" >}}) that tracks changes to any data, not just code, where stakeholders and developers can work on the same data simultaneously.
 
 [Project Open Data](http://project-open-data.github.io/), a cross-agency initiative developed by the White House, that looks at how to manage information as an asset in the 21st century, is powered by GitHub. Policy decisions have been made by people working in open data in government based on these discussions. They can see what’s happening on both sides: policy & code all in one place.
 

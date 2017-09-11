@@ -1,5 +1,5 @@
 ---
-url: 2016/01/12/trends-on-tuesday-10-mobile-government-and-tech-trends-for-2016.md
+slug: trends-on-tuesday-10-mobile-government-and-tech-trends-for-2016.md
 date: 2016-01-12 11:00:37 -0400
 title: 'Trends on Tuesday: 10 Mobile, Government and Tech Trends for 2016'
 summary: 'As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government: The mobile-majority tipping point in government. Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with 66% of people accessing federal websites via desktop and 34% on mobile. In 2016, the double-digit mobile'
@@ -23,7 +23,7 @@ tag:
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:
 
-  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md" >}})). {{< legacy-img src="2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" caption="" >}} 
+  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users" >}})). {{< legacy-img src="2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" caption="" >}} 
 
 <ol start="2" type="1">
   <li>

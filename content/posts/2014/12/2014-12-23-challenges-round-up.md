@@ -1,5 +1,5 @@
 ---
-url: 2014/12/23/challenges-round-up.md
+slug: challenges-round-up
 date: 2014-12-23 10:00:54 -0400
 title: 'Challenge & Prize Competition Round-Up'
 summary: Recap of the 2014 Challenge and Prize competition events hosted by DigitalGov

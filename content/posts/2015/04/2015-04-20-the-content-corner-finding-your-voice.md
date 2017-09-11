@@ -1,5 +1,5 @@
 ---
-url: 2015/04/20/the-content-corner-finding-your-voice.md
+slug: the-content-corner-finding-your-voice
 date: 2015-04-20 10:00:55 -0400
 title: 'The Content Corner: Finding Your Voice'
 summary: No, this is not another post about podcasting but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an article from Larsen Design states,

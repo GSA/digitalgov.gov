@@ -1,5 +1,5 @@
 ---
-url: 2015/10/30/welcome-to-betafec-campaign-finance-for-everyone.md
+slug: welcome-to-betafec-campaign-finance-for-everyone
 date: 2015-10-30 10:00:38 -0400
 title: 'Welcome to BetaFEC: Campaign Finance for Everyone'
 summary: ' As the 2016 presidential election heats up, here at 18F we&rsquo;ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched betaFEC, the first piece in a complete redesign of the FEC&rsquo;s online'

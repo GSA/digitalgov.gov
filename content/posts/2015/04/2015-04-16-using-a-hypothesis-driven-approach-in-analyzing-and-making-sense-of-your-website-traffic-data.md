@@ -1,5 +1,5 @@
 ---
-url: 2015/04/16/using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md
+slug: using-a-hypothesis-driven-approach-in-analyzing-and-making-sense-of-your-website-traffic-data.md
 date: 2015-04-16 14:14:11 -0400
 title: Using a Hypothesis-Driven Approach in Analyzing (and Making Sense) of Your Website Traffic Data
 summary: 'At the Digital Analytics Program (DAP), some of the most frequently asked questions we get are &ldquo;how can I get access to the DAP data?&rdquo; and &ldquo;what do I do with all this data?&rdquo; We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that'
@@ -14,7 +14,7 @@ tag:
   - Digital Analytics Program
 ---
 
-At the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP), some of the most frequently asked questions we get are “how can I get access to the DAP data?” and “what do I do with all this data?” We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that it is, indeed, [oceans of data]({{< relref "2014-04-01-digital-analytics-program-dap-oceans-of-data.md" >}}), how do we not “drown” in it, and, perhaps more importantly, how do we make sense of it?
+At the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP), some of the most frequently asked questions we get are “how can I get access to the DAP data?” and “what do I do with all this data?” We all know that data is knowledge, and knowledge is power, but once we have access to it and realize that it is, indeed, [oceans of data]({{< relref "2014-04-01-digital-analytics-program-dap-oceans-of-data" >}}), how do we not “drown” in it, and, perhaps more importantly, how do we make sense of it?
 
 ## What Questions Are You Trying to Answer?
 

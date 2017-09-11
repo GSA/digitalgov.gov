@@ -1,5 +1,5 @@
 ---
-url: 2015/06/15/the-content-corner-creating-engaging-content-with-data.md
+slug: the-content-corner-creating-engaging-content-with-data
 date: 2015-06-15 11:10:42 -0400
 title: 'The Content Corner: Creating Engaging Content with Data'
 summary: ' Over the last several years, continuing advances in computer processing power and storage have brought about the growth of what some call big data. Mobile and wearable devices now also generate large amounts of data via our'

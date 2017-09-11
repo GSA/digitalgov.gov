@@ -1,5 +1,5 @@
 ---
-url: 2015/09/01/trends-on-tuesday-mobile-messaging-and-social-app-research-released.md
+slug: trends-on-tuesday-mobile-messaging-and-social-app-research-released.md
 date: 2015-09-01 10:00:08 -0400
 title: 'Trends on Tuesday: Mobile Messaging and Social App Research Released'
 summary: On DigitalGov, we frequently talk about some of the most popular app experiences, and research almost always shows that mobile messaging and social apps are the most frequently used. Pew Research released a new report specifically about
@@ -20,7 +20,7 @@ tag:
   - Twitter
 ---
 
-On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< relref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
+On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< relref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts" >}}).
   
 [{{< legacy-img src="2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
 

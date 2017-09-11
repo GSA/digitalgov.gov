@@ -1,5 +1,5 @@
 ---
-url: 2015/02/02/agency-perspectives-on-personas-use-development-and-challenges.md
+slug: agency-perspectives-on-personas-use-development-and-challenges.md
 date: 2015-02-02 10:00:00 -0400
 title: Agency Perspectives on Personas (Use, Development and Challenges)
 summary: 'Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs. Let&#8217;s delve a bit deeper into personas and review two'
@@ -18,7 +18,7 @@ tag:
 
 Personas are tools your agency can use to learn about your end users and drive decisions. Personas are so useful because they serve as a communication tool for your team. You can keep these personas in mind to guide any work that your agency performs.
 
-Let&#8217;s delve a bit deeper into [personas]({{< relref "2015-01-09-personas-101.md" >}}) and review two examples from the federal community. Below, we have personas from the Department of Human and Health Services (HHS) and the United States Department of Agriculture (USDA).
+Let&#8217;s delve a bit deeper into [personas]({{< relref "2015-01-09-personas-101" >}}) and review two examples from the federal community. Below, we have personas from the Department of Human and Health Services (HHS) and the United States Department of Agriculture (USDA).
 
 ## United States Department of Agriculture (USDA)
 

@@ -1,5 +1,5 @@
 ---
-url: 2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services.md
+slug: using-section-508-guidance-to-improve-the-accessibility-of-government-services
 date: 2015-06-05 11:10:22 -0400
 title: Using Section 508 Guidance to Improve the Accessibility of Government Services
 summary: 'Section 508 of the Rehabilitation Act requires federal agencies to use accessible information and communication technology (ICT), whether procured, developed, or maintained. Since the U.S. Access Board issued regulations for the law in 2000, much implementation guidance has been prepared by various agencies. While the regulations are being refreshed to account for changes in ICT over'

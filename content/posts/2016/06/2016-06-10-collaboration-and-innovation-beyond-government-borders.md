@@ -1,5 +1,5 @@
 ---
-url: 2016/06/10/collaboration-and-innovation-beyond-government-borders.md
+slug: collaboration-and-innovation-beyond-government-borders
 date: 2016-06-10 10:00:09 -0400
 title: Collaboration and Innovation, Beyond Government Borders
 summary: 'How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans. {{< legacy-img src="2016/06/600-x-350-Dept-Veterans-Affairs-Innovators-Network.jpg" alt="Screen capture of the'

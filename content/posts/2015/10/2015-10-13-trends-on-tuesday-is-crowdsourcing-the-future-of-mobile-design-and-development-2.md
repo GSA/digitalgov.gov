@@ -1,5 +1,5 @@
 ---
-url: 2015/10/13/trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2.md
+slug: trends-on-tuesday-is-crowdsourcing-the-future-of-mobile-design-and-development-2
 date: 2015-10-13 14:18:42 -0400
 title: 'Trends on Tuesday: Is Crowdsourcing the Future of Mobile Design and Development?'
 summary: 'NASA recently announced the winners of a smartwatch app interface competition. A Canadian duo won the design competition, and NASA&rsquo;s plan is to build the app with 2016 funding to have it available for astronauts to use when they are aboard the International Space Station. This is the first government smartwatch app development we&rsquo;ve talked about'

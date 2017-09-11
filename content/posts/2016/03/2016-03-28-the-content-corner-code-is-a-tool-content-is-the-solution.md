@@ -1,5 +1,5 @@
 ---
-url: 2016/03/28/the-content-corner-code-is-a-tool-content-is-the-solution.md
+slug: the-content-corner-code-is-a-tool-content-is-the-solution.md
 date: 2016-03-28 10:00:50 -0400
 title: 'The Content Corner: Code is a Tool, Content is the Solution'
 summary: It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content
@@ -17,7 +17,7 @@ tag:
   - The Content Corner
 ---
 
-It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content]({{< relref "2015-08-03-the-content-corner-rise-of-the-machines.md" >}}) previously discussed. {{< legacy-img src="2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." caption="" >}} 
+It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content still can&#8217;t help the user. And there is no code that I know of that can make bad content better for the user, aside from the [algorithmically-derived content]({{< relref "2015-08-03-the-content-corner-rise-of-the-machines" >}}) previously discussed. {{< legacy-img src="2016/03/600-x-400-Web-design-infographic-elieli-iStock-Thinkstock-184707017.jpg" alt="Illustration showing a web page on a laptop, surrounded by bubbles with the names of different web development languages; HTML5, CSS, XML, etc." caption="" >}} 
 
 In instances where the user’s need is primarily a content-based solution (an answer to a question, for example) technology is of minor importance. Plain text could work. And in many instances, design with a focus on how the content is displayed is still more important than the underlying code.
 

@@ -1,5 +1,5 @@
 ---
-url: 2015/11/24/trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md
+slug: trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md
 date: 2015-11-24 10:00:40 -0400
 title: 'Trends on Tuesday: What Mobile Devices Do People Use to Access Federal Sites?'
 summary: 'Mobile users of government websites are growing in double digit percentages and will likely soon become the majority. For some recent internal project research, I dove into some of the federal government-wide analytics looking at mobile usage and found a few interesting tidbits to share: It&rsquo;s an OS battle of the As. Apple devices slightly'
@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Mobile users of government websites are [growing in double digit percentages]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
+Mobile users of government websites are [growing in double digit percentages]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever" >}}) and will likely soon become the [majority](http://marketingland.com/report-half-top-100-digital-properties-audiences-are-now-mobile-only-135353).
 
 For some recent internal project research, I dove into some of the [federal government-wide analytics](http://analytics.usa.gov) looking at mobile usage and found a few interesting tidbits to share:
 

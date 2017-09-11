@@ -1,5 +1,5 @@
 ---
-url: 2015/04/02/careeronestops-newest-online-resources-targeted-to-user-needs.md
+slug: careeronestops-newest-online-resources-targeted-to-user-needs
 date: 2015-04-02 10:17:09 -0400
 title: 'CareerOneStop’s Newest Online Resources: Targeted to User Needs'
 summary: ' When the Employment and Training Administration&rsquo;s CareerOneStop team embarked on a redesign of the site&rsquo;s online career, training, and job resources, they didn&rsquo;t dive right into the technical work. Instead, they embraced a user-centered approach that focused on the user experience (UX). Focusing on UX means taking a step back'

@@ -1,5 +1,5 @@
 ---
-url: 2015/01/30/social-video-making-sense-of-the-facebook-and-youtube-platforms.md
+slug: social-video-making-sense-of-the-facebook-and-youtube-platforms
 date: 2015-01-30 10:00:38 -0400
 title: 'Social Video: Making Sense of the Facebook and YouTube Platforms'
 summary: 'Updated: Added link to Twitter&#8217;s blog post on direct video uploads. Around the time that Tim Fullerton of the Department of Interior delivered his webcast to DigitalGov audiences about publishing video content to Facebook, we at the Broadcasting Board of Governors were comparing the differences in user behavior on the Facebook and YouTube video platforms'

@@ -1,5 +1,5 @@
 ---
-url: 2013/12/20/best-week-ever-in-socialgov-december-edition.md
+slug: best-week-ever-in-socialgov-december-edition
 date: 2013-12-20 9:42:53 -0400
 title: 'Best Week Ever in #SocialGov: December Edition'
 summary: '(This is the next installment of an ongoing series charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)   From'

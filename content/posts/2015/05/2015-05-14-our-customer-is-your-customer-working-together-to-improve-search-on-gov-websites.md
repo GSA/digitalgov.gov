@@ -1,5 +1,5 @@
 ---
-url: 2015/05/14/our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites.md
+slug: our-customer-is-your-customer-working-together-to-improve-search-on-gov-websites
 date: 2015-05-14 11:10:59 -0400
 title: 'Our Customer is Your Customer: Working Together to Improve Search on .Gov Websites'
 summary: 'We know search engines aren&rsquo;t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.'

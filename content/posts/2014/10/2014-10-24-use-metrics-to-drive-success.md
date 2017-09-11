@@ -1,5 +1,5 @@
 ---
-url: 2014/10/24/use-metrics-to-drive-success.md
+slug: use-metrics-to-drive-success.md
 date: 2014-10-24 9:01:48 -0400
 title: Use Metrics to Drive Success
 summary: 'Would federal employees work on tasks outside their agency in order to support DigitalGov? That&rsquo;s the question we wanted to answer as we created the Open Opportunities program. We had a built-in test case. When the Digital Government Strategy was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital'
@@ -12,7 +12,7 @@ tag:
   - Open Opportunities program
 ---
 
-Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< relref "open-opportunities-in-digitalgov.md" >}}).
+Would federal employees work on tasks outside their agency in order to support DigitalGov? That’s the question we wanted to answer as we created the [Open Opportunities program]({{< relref "open-opportunities-in-digitalgov" >}}).
 
 We had a built-in test case. When the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) was released in May 2013, agencies were tasked with building APIs, launching mobile products, establishing digital governance and getting better customer feedback. Our team at GSA was chartered to support agencies, and we were looking for innovators across government to contribute. We outlined our hypotheses:
 

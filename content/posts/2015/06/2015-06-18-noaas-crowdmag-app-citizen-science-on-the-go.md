@@ -1,5 +1,5 @@
 ---
-url: 2015/06/18/noaas-crowdmag-app-citizen-science-on-the-go.md
+slug: noaas-crowdmag-app-citizen-science-on-the-go.md
 date: 2015-06-18 10:00:40 -0400
 title: 'NOAA&#8217;s CrowdMag App: Citizen Science on the Go'
 summary: 'The rise in mobile device usage has created a rise in expectations: the public wants new and innovative interactions with all organizations, including government. Incorporating social media in mobile websites and native apps is one way federal agencies have increased public interaction. Six agencies have leveraged native app functionality for crowdsourcing purposes. The National Oceanic'
@@ -24,7 +24,7 @@ tag:
 
 The rise in mobile device usage has created a rise in expectations: [the public wants new and innovative interactions]({{< relref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}) with all organizations, including government. Incorporating [social media in mobile websites and native apps]({{< relref "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}}) is one way federal agencies have increased public interaction.
 
-Six agencies have leveraged native app functionality for [crowdsourcing purposes]({{< relref "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}}). The National Oceanic and Atmospheric Administration (NOAA) leads the way with three public-facing applications that transform ordinary citizens into citizen scientists: [Dolphin and Whale 911]({{< relref "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{< relref "2012-04-26-noaas-release-mako-app.md" >}}) and [CrowdMag]({{< relref "2015-01-29-be-a-citizen-scientist-with-noaas-crowdmag-app.md" >}}).
+Six agencies have leveraged native app functionality for [crowdsourcing purposes]({{< relref "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}}). The National Oceanic and Atmospheric Administration (NOAA) leads the way with three public-facing applications that transform ordinary citizens into citizen scientists: [Dolphin and Whale 911]({{< relref "2013-10-24-dolphin-and-whale-apps-from-noaa-fisheries.md" >}}), [Release Mako]({{< relref "2012-04-26-noaas-release-mako-app.md" >}}) and [CrowdMag]({{< relref "2015-01-29-be-a-citizen-scientist-with-noaas-crowdmag-app" >}}).
 
 {{< legacy-img src="2015/06/250-x-444-NOAA-CrowdMag.jpg" alt="Screenshot of the Crowd Mag app" >}}The NOAA CrowdMag App collects and sends magnetometer data to NOAA researchers. The app leverages the magnetometer in mobile devices by automatically taking readings from the user’s device and sending the data to researchers. The app was launched in both [Android](https://play.google.com/store/apps/details?id=gov.noaa.ngdc.wmm2) and [iOS](https://itunes.apple.com/app/id910578825) in 2014 by [NOAA’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/news/national-centers-environmental-information).
 

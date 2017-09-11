@@ -1,5 +1,5 @@
 ---
-url: 2014/12/19/making-prototypes-with-tools-you-already-have.md
+slug: making-prototypes-with-tools-you-already-have
 date: 2014-12-19 10:00:35 -0400
 title: Making Prototypes with Tools You Already Have
 summary: ' They say that necessity is the mother of invention. For me, the necessity resulted from long product development cycles paired with short windows for user testing and little room for iteration. The &ldquo;invention&rdquo; was the discovery of a powerful set of tools for prototyping that are available on just about'

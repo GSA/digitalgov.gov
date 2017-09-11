@@ -1,5 +1,5 @@
 ---
-url: 2015/05/28/three-of-the-greatest-books-for-customer-experience-that-arent-about-customer-experience.md
+slug: three-of-the-greatest-books-for-customer-experience-that-arent-about-customer-experience
 date: 2015-05-28 11:10:38 -0400
 title: 'Three of the Greatest Books for Customer Experience (That Aren&#8217;t about Customer Experience)'
 summary: 'Dennis Snow and Jeanne Bliss have always been the customer experience (CX) authorities in my mind. Dennis&rsquo;s Lessons from the Mouse and Jeanne&rsquo;s Chief Customer Officer were two of the first books I read that described what the practice of customer experience looked like in the halls of Fortune 500 companies like Lands End and Microsoft,'

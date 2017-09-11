@@ -1,5 +1,5 @@
 ---
-url: 2017/05/03/foia-best-practices-workshop-continues-this-summer.md
+slug: foia-best-practices-workshop-continues-this-summer
 date: 2017-05-03 11:00:41 -0400
 title: FOIA Best Practices Workshop Continues This Summer
 summary: The Office of Information Policy (OIP) is pleased to announce two new topics and dates for our Best Practices Workshop series as we continue this initiative this summer.

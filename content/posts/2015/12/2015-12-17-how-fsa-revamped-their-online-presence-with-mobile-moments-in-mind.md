@@ -1,5 +1,5 @@
 ---
-url: 2015/12/17/how-fsa-revamped-their-online-presence-with-mobile-moments-in-mind.md
+slug: how-fsa-revamped-their-online-presence-with-mobile-moments-in-mind.md
 date: 2015-12-17 10:00:43 -0400
 title: How FSA Revamped Their Online Presence with Mobile Moments in Mind
 summary: Let the mic drop! Mobile moments are created with the expectation that an app can stun the crowd. Do not let your audience down; they may never come back. Federal Student Aid (FSA), in an effort to provide better customer service, decided to build a mobile-responsive website. Kaegy Pabulos, a Borrower Experience Specialist and project
@@ -21,7 +21,7 @@ tag:
 
 Let the mic drop!
 
-[Mobile moments]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}) are created with the expectation that an app can stun the crowd. Do not let your audience down; they [may never come back]({{< relref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}). Federal Student Aid (FSA), in an effort to provide better customer service, decided to build a mobile-responsive website.
+[Mobile moments]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}) are created with the expectation that an app can stun the crowd. Do not let your audience down; they [may never come back]({{< relref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard" >}}). Federal Student Aid (FSA), in an effort to provide better customer service, decided to build a mobile-responsive website.
 
 Kaegy Pabulos, a Borrower Experience Specialist and project manager for [StudentAid.gov](https://studentaid.ed.gov/sa/), described this as a challenge because of the need to combine over 12 different websites into one access center. A recent webinar with DigitalGov University showed how FSA’s work touched on [Mobile User Experience Guidelines 4 and 5]({{< relref "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) as they continually tested their site and collected data to analyze how improvements could be made.
 

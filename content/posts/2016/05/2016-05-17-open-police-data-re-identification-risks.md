@@ -1,5 +1,5 @@
 ---
-url: 2016/05/17/open-police-data-re-identification-risks.md
+slug: open-police-data-re-identification-risks
 date: 2016-05-17 10:00:43 -0400
 title: Open Police Data Re-identification Risks
 summary: 'Last week I spoke at a White House event, &ldquo;Opportunities & Challenges: Open Police Data and Ensuring the Safety and Security of Victims of Intimate Partner Violence and Sexual Assault.&rdquo; This event brought together representatives from government agencies, police departments, and advocacy groups to discuss the potential safety and privacy impact of open police data'

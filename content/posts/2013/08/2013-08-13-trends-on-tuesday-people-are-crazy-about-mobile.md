@@ -1,5 +1,5 @@
 ---
-url: 2013/08/13/trends-on-tuesday-people-are-crazy-about-mobile.md
+slug: trends-on-tuesday-people-are-crazy-about-mobile
 date: 2013-08-13 10:02:46 -0400
 title: 'Trends on Tuesday: People Are Crazy about Mobile!'
 summary: 'The way people are using mobile is changing&mdash;we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways. With the prolific numbers of mobile users and the increased use of mobile in our lives,'

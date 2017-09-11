@@ -11,3 +11,7 @@
 # convert S3 links
 {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/(\d{4,4})
 {{< legacy-img src="$1
+
+# replace `url` with `slug` in posts
+^url: .+/([^/]+)\.md
+slug: $1

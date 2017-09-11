@@ -1,5 +1,5 @@
 ---
-url: 2016/08/02/trends-on-tuesday-latino-users-lead-mobile-use-in-u-s.md
+slug: trends-on-tuesday-latino-users-lead-mobile-use-in-u-s
 date: 2016-08-02 10:00:02 -0400
 title: 'Trends on Tuesday: Latino Users Lead Mobile Use in U.S.'
 summary: 'The Pew Research Center released a report in July that shows people of Latino descent are heavily reliant on mobile phones for their Internet access, more than other ethnicities.  The report said that since 2012, the percentage of Hispanic adults who used mobile devices to access the Internet jumped from 76% to 94% in 2015. These percentages'

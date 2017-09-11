@@ -1,5 +1,5 @@
 ---
-url: 2016/07/20/the-data-briefing-preparedgo-the-federal-emergency-management-agency-mobile-app.md
+slug: the-data-briefing-preparedgo-the-federal-emergency-management-agency-mobile-app.md
 date: 2016-07-20 10:00:54 -0400
 title: 'The Data Briefing: &#8220;PreparedGo&#8221; – The Federal Emergency Management Agency Mobile App'
 summary: While you are outside hunting Pokemon or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The Federal Emergency Management Agency (FEMA) mobile app alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA
@@ -18,7 +18,7 @@ tag:
   - user generated content
 ---
 
-While you are outside [hunting Pokemon]({{< relref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}}) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.
+While you are outside [hunting Pokemon]({{< relref "2016-07-12-catch-the-mall-with-pokemon-and-public-services" >}}) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.
 
 The FEMA mobile app is divided into four main sections: Weather Alerts, Prepare, Disaster Resources, and Submit Disaster Photos. What I especially like about the Weather Alerts section is the ability to receive alerts for up to five locations. I can receive alerts about the weather in Alexandria, VA (my workplace), College Park, MD (my home), and Louisville, KY (my rental home).
 

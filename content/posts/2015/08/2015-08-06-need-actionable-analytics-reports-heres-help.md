@@ -1,5 +1,5 @@
 ---
-url: 2015/08/06/need-actionable-analytics-reports-heres-help.md
+slug: need-actionable-analytics-reports-heres-help.md
 date: 2015-08-06 10:00:33 -0400
 title: Need Actionable Analytics Reports? Here’s Help
 summary: 'The Digital Analytics Program (DAP) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own'
@@ -15,7 +15,7 @@ tag:
   - Digital Analytics Program
 ---
 
-The [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own custom reports and segments is the way to go.
+The [Digital Analytics Program (DAP)]({{< relref "dap" >}}) provides a wealth of standard Web analytics reports within its current Web analytics tool (Google Analytics Premium). Yet, navigating through big data with a standard report can be a challenge and definitely takes a few clicks. To quickly get to the insights of your agency websites&#8217; traffic, building your own custom reports and segments is the way to go.
 
 As part of its on-going effort to educate and empower DAP users with Web analytics knowledge, the DAP team has put together the DAP Custom Reporting Catalog with many of the frequently used custom templates. These templates will help users drill down to the data of interest and provide valuable insights into specific website traffic to, ultimately, improve data-driven decision making.
 

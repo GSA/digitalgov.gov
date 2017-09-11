@@ -1,5 +1,5 @@
 ---
-url: 2016/08/19/making-modernizations-and-migrations-successful.md
+slug: making-modernizations-and-migrations-successful
 date: 2016-08-19 12:25:31 -0400
 title: Making Modernizations and Migrations Successful
 summary: 'Summary: Today, we&rsquo;re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations. The government&rsquo;s internal operations have a powerful impact on service to its citizens, and this Administration has made transformation of management practices within the Federal Government a key priority. By sharing and streamlining mission support services'

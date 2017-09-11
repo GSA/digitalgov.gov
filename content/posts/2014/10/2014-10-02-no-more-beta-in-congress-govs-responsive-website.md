@@ -1,5 +1,5 @@
 ---
-url: 2014/10/02/no-more-beta-in-congress-govs-responsive-website.md
+slug: no-more-beta-in-congress-govs-responsive-website
 date: 2014-10-02 10:30:31 -0400
 title: 'No More Beta in Congress.gov&#8217;s Responsive Website'
 summary: Congress.gov ushered in the new fiscal year by removing the beta label from its URL two years after it launched. During this period, the Library of Congress not only extensively tested how the site would display on any device, but in a series of releases and enhancements, completely transformed the ability to find legislative information

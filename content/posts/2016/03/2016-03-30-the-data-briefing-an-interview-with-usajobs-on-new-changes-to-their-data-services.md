@@ -1,5 +1,5 @@
 ---
-url: 2016/03/30/the-data-briefing-an-interview-with-usajobs-on-new-changes-to-their-data-services.md
+slug: the-data-briefing-an-interview-with-usajobs-on-new-changes-to-their-data-services
 date: 2016-03-30 10:00:36 -0400
 title: 'The Data Briefing: An Interview with USAJOBS on New Changes to Their Data Services'
 summary: The Office of Personnel Management released a new look and functionality to USAJOBS in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the changes to USAJOBS and the data it provides. 1. What are

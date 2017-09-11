@@ -1,5 +1,5 @@
 ---
-url: 2013/07/18/how-to-create-a-customer-experience-index.md
+slug: how-to-create-a-customer-experience-index
 date: 2013-07-18 7:53:02 -0400
 title: How to Create a Customer Experience Index
 summary: 'In my last post I talked about how we&rsquo;re kicking off our Customer Experience program in the Office of Citizen Services and Innovative Technologies (OCSIT) at GSA.  There are many paths to creating a customer experience program, from starting with cultural issues like employee'

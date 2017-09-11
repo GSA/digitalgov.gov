@@ -1,5 +1,5 @@
 ---
-url: 2016/07/18/information-architecture-vs-content-strategy-and-why-you-need-both.md
+slug: information-architecture-vs-content-strategy-and-why-you-need-both.md
 date: 2016-07-18 2:16:19 -0400
 title: Information Architecture vs Content Strategy—and Why YOU Need Both
 summary: 'The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)&mdash;a proposed development of the Internet in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and'
@@ -18,7 +18,7 @@ tag:
   - open and structured content models
 ---
 
-The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)—a [proposed development of the Internet]({{< relref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}) in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable.
+The idea of portable content is nothing new. Content needs to be mobile ready, responsive, and readily consumed by tools such as the Internet of Things (IoT)—a [proposed development of the Internet]({{< relref "2015-02-26-the-internet-of-everything-small-business-opportunities" >}}) in which everyday objects have network connectivity, allowing them to send and receive data. Developers need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable.
 
 Two significant factors assist in portability are information architecture (IA) and content strategy (CS).
 

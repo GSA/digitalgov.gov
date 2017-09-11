@@ -1,5 +1,5 @@
 ---
-url: 2014/06/12/three-ways-agencies-are-using-social-media-in-mobile-products.md
+slug: three-ways-agencies-are-using-social-media-in-mobile-products.md
 date: 2014-06-12 14:29:54 -0400
 title: Three Ways Agencies Are Using Social Media in Mobile Products
 summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile phones&mdash;about 3 hours per day&mdash;has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies&rsquo; mobile apps, not just websites, and social media outlets. To take advantage of new opportunities for consumer'
@@ -27,7 +27,7 @@ tag:
   - USDA
 ---
 
-As highlighted in this [Trends on Tuesday]({{< relref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
+As highlighted in this [Trends on Tuesday]({{< relref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.
 
 {{< legacy-img src="2014/06/citrus-250x448.png" alt="250-x-448-usda-citrus-image" >}}To take advantage of new opportunities for consumer interaction, federal agencies are implementing social media as part of their mobile products. We surveyed the mobile products submitted to the [Federal Apps Registry]({{< relref "the-federal-mobile-apps-registry.md" >}} "The Federal Mobile Apps Registry") to see how agencies are incorporating social media into their mobile products.
 

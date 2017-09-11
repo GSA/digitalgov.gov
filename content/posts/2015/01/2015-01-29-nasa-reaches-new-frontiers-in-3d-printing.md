@@ -1,5 +1,5 @@
 ---
-url: 2015/01/29/nasa-reaches-new-frontiers-in-3d-printing.md
+slug: nasa-reaches-new-frontiers-in-3d-printing
 date: 2015-01-29 11:10:55 -0400
 title: NASA Reaches New Frontiers in 3D Printing
 summary: '3D printing has gone out of this world. Earlier this month, DigitalGov covered the NIH 3D Print Exchange, where 3D printing is supporting scientific learning and research. Today, we&rsquo;re highlighting a project that is reaching brand new heights: NASA&rsquo;s In-space Manufacturing Initiative. Self-Sufficiency in Space NASA is currently conducting 3D printing experiments aboard the International'

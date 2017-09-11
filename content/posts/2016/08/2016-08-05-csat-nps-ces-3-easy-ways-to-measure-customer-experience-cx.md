@@ -1,5 +1,5 @@
 ---
-url: 2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx.md
+slug: csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx.md
 date: 2016-08-05 14:00:45 -0400
 title: 'CSAT, NPS, and CES: 3 Easy Ways to Measure Customer Experience (CX)'
 summary: 'Have you ever wondered how to measure a customer&rsquo;s experience? I&rsquo;ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance,'
@@ -16,7 +16,7 @@ tag:
   - metrics
 ---
 
-Have you ever wondered how to measure a [customer’s experience]({{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+Have you ever wondered how to measure a [customer’s experience]({{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
 
 Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Customer Experience Manager from the [City of Centennial, Colorado](http://www.centennialco.gov/). This introductory blog spells three customer experience metrics that Kelly shared with me, along with some examples and graphs.
 

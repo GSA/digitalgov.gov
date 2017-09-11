@@ -1,5 +1,5 @@
 ---
-url: 2016/01/14/why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience.md
+slug: why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience
 date: 2016-01-14 10:00:56 -0400
 title: Why People Contribute to Federal Tech Projects (And How You Can Provide a Good Experience)
 summary: 'Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via the project&#8217;s GitHub repository. The Open Opportunities program itself is only open to federal employees. Open, agile software development projects can improve government initiatives. As discussed in last week&rsquo;s article on agile projects in government, the Open Opportunities platform has benefited'

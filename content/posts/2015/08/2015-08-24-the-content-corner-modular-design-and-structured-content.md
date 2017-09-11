@@ -1,5 +1,5 @@
 ---
-url: 2015/08/24/the-content-corner-modular-design-and-structured-content.md
+slug: the-content-corner-modular-design-and-structured-content.md
 date: 2015-08-24 14:07:31 -0400
 title: 'The Content Corner: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I&rsquo;m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'
@@ -24,7 +24,7 @@ One of the critical aspects of our current efforts in structured data and adapti
 
 The end goal is to create once and publish everywhere (COPE) and anywhere by pulling this structured content as needed to deliver information to a user.
 
-This same concept is now becoming more and more popular throughout all phases of Web development, from data to content to design. The idea of modular Web design and the process of breaking down the elements of your design is gaining broader acceptance throughout the Web design community. This includes a review of all style and design concepts used within the site—not exactly like a [content style guide]({{< relref "2015-06-08-the-content-corner-creating-a-content-style-guide.md" >}}), but similar.
+This same concept is now becoming more and more popular throughout all phases of Web development, from data to content to design. The idea of modular Web design and the process of breaking down the elements of your design is gaining broader acceptance throughout the Web design community. This includes a review of all style and design concepts used within the site—not exactly like a [content style guide]({{< relref "2015-06-08-the-content-corner-creating-a-content-style-guide" >}}), but similar.
 
 The creation of a design style guide (or [pattern library](https://www.futurelearn.com/pattern-library)) gathers all of the CSS styles, including colors and typography. However, in many instances it captures even more, such as in [Future Learn’s example](https://about.futurelearn.com/blog/pattern-library/). After failing in their initial efforts at building a style guide for their site, Future Learn&#8217;s design team embraced the concept of [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) to better catalog all of the elements of their site.
 
