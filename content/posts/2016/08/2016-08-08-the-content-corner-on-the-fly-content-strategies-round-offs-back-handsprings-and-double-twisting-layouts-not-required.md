@@ -1,5 +1,5 @@
 ---
-url: 2016/08/08/the-content-corner-on-the-fly-content-strategies-round-offs-back-handsprings-and-double-twisting-layouts-not-required.md
+slug: the-content-corner-on-the-fly-content-strategies-round-offs-back-handsprings-and-double-twisting-layouts-not-required
 date: 2016-08-08 10:00:55 -0400
 title: 'The Content Corner: On-The-Fly Content Strategies (Round-offs, Back Handsprings, & Double Twisting Layouts Not Required)'
 summary: 'As effective marketers and communicators, we are constantly seeking new and improved ways to reach our audience or customer base. These days, our &ldquo;online lives&rdquo; intersect with every activity we are involved in, so timeliness is essential. With fresh ideas and engaging, perhaps interactive, content, we can literally make a difference in the lives of our'

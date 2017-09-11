@@ -1,5 +1,5 @@
 ---
-url: 2016/05/09/the-content-corner-using-content-as-a-tool-for-improving-citizen-services.md
+slug: the-content-corner-using-content-as-a-tool-for-improving-citizen-services.md
 date: 2016-05-09 10:06:08 -0400
 title: 'The Content Corner: Using Content as a Tool for Improving Citizen Services'
 summary: 'It is very refreshing to see the large contingent of government communicators who are always seeking to do their job better, with a well-founded desire to provide those they serve with an enhanced experience. Based on a few examples, such as the many listserv emails that are sent across agencies, DigitalGov&rsquo;s constant content stream and'

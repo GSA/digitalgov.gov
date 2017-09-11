@@ -1,5 +1,5 @@
 ---
-url: 2015/08/24/the-content-corner-modular-design-and-structured-content.md
+slug: the-content-corner-modular-design-and-structured-content.md
 date: 2015-08-24 14:07:31 -0400
 title: 'The Content Corner: Modular Design and Structured Content'
 summary: 'Several months ago I discussed the concept of a world without Web pages and the importance of structured content and thinking about content, not pages. This week, I&rsquo;m taking that discussion further by discussing the importance of modularity in Web design and how that complements our efforts to create more structured and reusable data. Break'

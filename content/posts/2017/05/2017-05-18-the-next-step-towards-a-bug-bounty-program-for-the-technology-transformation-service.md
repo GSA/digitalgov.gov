@@ -1,5 +1,5 @@
 ---
-url: 2017/05/18/the-next-step-towards-a-bug-bounty-program-for-the-technology-transformation-service.md
+slug: the-next-step-towards-a-bug-bounty-program-for-the-technology-transformation-service
 date: 2017-05-18 2:00:07 -0400
 title: The Next Step Towards a Bug Bounty Program for the Technology Transformation Service
 summary: 'On May 9, we took a big step toward creating a bug bounty program for our agency by issuing an award to HackerOne for a Software-as-a-Service bug-reporting platform. The TTS Bug Bounty will be a security initiative to pay people for identifying bugs and security holes in software operated by the General Service Administration&rsquo;s Technology'

@@ -1,5 +1,5 @@
 ---
-url: 2014/06/23/using-visual-content-to-drive-engagement.md
+slug: using-visual-content-to-drive-engagement
 date: 2014-06-23 10:00:41 -0400
 title: Using Visual Content to Drive Engagement
 summary: 'You&rsquo;ve probably noticed the trend toward more visual content being shared across social platforms&mdash;pictures, infographics and how-to videos seem to be popping up everywhere. We certainly noticed that trend across several government social media properties, so when'
@@ -44,4 +44,4 @@ I was constantly surprised by how well some of our non-visual content did—some
 No matter how much I tried to make sense of why one image or video performed better than another, sometimes I just couldn’t figure it out. Occasionally you get lucky and a post you didn’t think was that special will win the Internet. Other times a post that you think has all the potential in the world, and follows all the best practices will flop. You won’t know what works best with your audience until you try it and measure the results.
 
 What has your experience been with visuals and multimedia?_**Jessica Milcetich** is a Social Media and Digital Strategist on the USA.gov marketing team at the U.S. General Services Administration (GSA)._
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

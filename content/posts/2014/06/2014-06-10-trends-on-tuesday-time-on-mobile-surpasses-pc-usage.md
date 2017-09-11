@@ -1,5 +1,5 @@
 ---
-url: 2014/06/10/trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md
+slug: trends-on-tuesday-time-on-mobile-surpasses-pc-usage
 date: 2014-06-10 10:03:43 -0400
 title: 'Trends on Tuesday: Time on Mobile Surpasses PC Usage'
 summary: 'With the recent growth of smartphone and tablet ownership, it&rsquo;s no surprise that U.S. consumers are spending more time on mobile devices than PCs. Mobile usage will rise to nearly three hours per day in 2014, according to eMarketer. So how does mobile compare to other major media: Mobile usage will rise to 2 hours 51'

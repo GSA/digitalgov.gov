@@ -1,5 +1,5 @@
 ---
-url: 2014/08/13/photo-carousels-on-mobile-websites-use-with-caution.md
+slug: photo-carousels-on-mobile-websites-use-with-caution
 date: 2014-08-13 10:00:58 -0400
 title: 'Photo Carousels on Mobile Websites: Use With Caution!'
 summary: 'You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them. In a recent email exchange on'
@@ -39,4 +39,4 @@ Limit the number of items in your carousel. Three is ideal and no more than five
 _This post originally appeared in the Mobile Tester Newsletter which is sent bi-monthly to the volunteer testers in our [Federal CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}). Each newsletter contains a feature article, and interesting trends and statistics from the world of mobile testing. The program will be testing an app for the National Oceanic and Atmospheric Administration (NOAA) this month. Federal Employees can sign up to [test the NOAA CrowdMag App today](http://gsablogs.gsa.gov/dsic/2014/08/07/seeking-android-users-to-test-a-noaa-native-app-or-be-a-mobile-tester/)!
   _ 
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

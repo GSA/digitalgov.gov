@@ -1,5 +1,5 @@
 ---
-url: 2012/11/19/case-study-how-gsa-launched-social-media-registry.md
+slug: case-study-how-gsa-launched-social-media-registry
 date: 2012-11-19 1:14:12 -0400
 title: 'Case Study: How GSA Launched Social Media Registry'
 summary: 'In September, the General Services Administration (GSA) launched a registry of all federally-managed social media accounts. We want to explain a little of the history behind the registry and talk about a few things that make it a truly remarkable innovation from GSA. Before I start, I want to emphasize when I say &ldquo;we&rdquo; from'

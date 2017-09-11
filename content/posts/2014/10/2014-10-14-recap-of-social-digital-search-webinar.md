@@ -1,5 +1,5 @@
 ---
-url: 2014/10/14/recap-of-social-digital-search-webinar.md
+slug: recap-of-social-digital-search-webinar.md
 date: 2014-10-14 11:17:31 -0400
 title: Recap of Social Digital Search Webinar
 summary: 'Content is no longer limited to .gov sites. As mentioned in a recent blog post, Sharing is Caring, Adding Social Media Accounts to Search, DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results. On September 30, 2014, I presented with Justin Herman from the Social Media Community of Practice about: What'

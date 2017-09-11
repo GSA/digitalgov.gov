@@ -1,5 +1,5 @@
 ---
-url: 2014/12/15/crowdsourced-digital-citizen-services-summit.md
+slug: crowdsourced-digital-citizen-services-summit
 date: 2014-12-15 10:00:57 -0400
 title: Crowdsourced Digital Citizen Services Summit
 summary: 'In May 2015, we&rsquo;re hosting the second DigitalGov Citizen Services Summit. This round we are looking to you&mdash;federal innovators across government&mdash;to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better'

@@ -1,5 +1,5 @@
 ---
-url: 2016/03/28/the-content-corner-code-is-a-tool-content-is-the-solution.md
+slug: the-content-corner-code-is-a-tool-content-is-the-solution.md
 date: 2016-03-28 10:00:50 -0400
 title: 'The Content Corner: Code is a Tool, Content is the Solution'
 summary: It seems of late that the focus on coding and technology within the federal space has become out of balance with that of good, solid content. As I believe I have said before with regard to user experience, great technology with poor content is still worthless. Amazing code that delivers poorly written or designed content

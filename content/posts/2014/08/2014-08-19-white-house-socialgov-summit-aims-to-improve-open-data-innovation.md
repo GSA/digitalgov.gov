@@ -1,5 +1,5 @@
 ---
-url: 2014/08/19/white-house-socialgov-summit-aims-to-improve-open-data-innovation.md
+slug: white-house-socialgov-summit-aims-to-improve-open-data-innovation
 date: 2014-08-19 11:00:59 -0400
 title: White House SocialGov Summit Aims to Improve Open Data Innovation
 summary: ' More than 100 digital engagement and open data managers from across government met with leaders in the private sector startup community August 7 at the White House for a summit on integrating our digital services with public participation to create more'

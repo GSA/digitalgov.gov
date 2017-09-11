@@ -1,5 +1,5 @@
 ---
-url: 2014/06/24/cdcs-predict-the-flu-season-challenge-could-keep-you-well-in-the-future.md
+slug: cdcs-predict-the-flu-season-challenge-could-keep-you-well-in-the-future
 date: 2014-06-24 10:00:36 -0400
 title: CDC’s “Predict the Flu Season Challenge” Could Keep You Well in the Future
 summary: 'The results of an innovative government prize competition might help you avoid the flu next season. The Centers for Disease Control and Prevention (CDC) recently announced the winner of the &ldquo;Predict the Influenza Season Challenge&rdquo;: Dr. Jeffrey Shaman of Columbia University&rsquo;s Mailman School of Public Health and his team submitted an'
@@ -35,4 +35,4 @@ In the long term, Biggerstaff envisions something similar to a “hurricane seas
 While the results are not perfect, the challenge was a great launching point for the field, and Biggerstaff said the CDC plans on continuing to work with all the teams to make flu forecasts more reliable. In fact, he’s already looking towards next steps:
 
 “We hope to write a peer-reviewed article about this and continue to work with the teams to keep this group of researchers motivated and working on this problem.”_For more information on how this challenge can inform your challenge design, see the <a href="http://www.hhs.gov/idealab/2014/06/19/predict-the-flu-season/" target="_blank">HHS Idea Lab blog</a>. If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< relref "challenges-prizes-community.md" >}}). If you are interested in entering a challenge like this one, see the list of government challenges at <a href="https://challenge.gov/" target="_blank">Challenge.gov</a>._
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

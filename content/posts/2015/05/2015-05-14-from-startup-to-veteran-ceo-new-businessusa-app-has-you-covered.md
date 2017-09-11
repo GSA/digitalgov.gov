@@ -1,5 +1,5 @@
 ---
-url: 2015/05/14/from-startup-to-veteran-ceo-new-businessusa-app-has-you-covered.md
+slug: from-startup-to-veteran-ceo-new-businessusa-app-has-you-covered
 date: 2015-05-14 10:00:42 -0400
 title: 'From Startup to Veteran CEO: New BusinessUSA App Has You Covered'
 summary: BusinessUSA is a centralized, one-stop platform to make it easy for businesses to access services to help them grow and hire. And with the release of a brand new smartphone app for Android and iOS devices, BusinessUSA is fully functional no matter whether you visit by desktop, tablet

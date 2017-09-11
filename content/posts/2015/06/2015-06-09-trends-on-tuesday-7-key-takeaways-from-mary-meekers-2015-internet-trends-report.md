@@ -1,5 +1,5 @@
 ---
-url: 2015/06/09/trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report.md
+slug: trends-on-tuesday-7-key-takeaways-from-mary-meekers-2015-internet-trends-report
 date: 2015-06-09 10:00:25 -0400
 title: 'Trends on Tuesday: 7 Key Takeaways From Mary Meeker&#8217;s 2015 Internet Trends Report'
 summary: ' Silicon Valley analyst Mary Meeker&rsquo;s annual 2015 Internet Trends report has been released and is an exhaustive analysis of the world&rsquo;s digital evolution (often mobile first driven) and how it is affecting business, culture'

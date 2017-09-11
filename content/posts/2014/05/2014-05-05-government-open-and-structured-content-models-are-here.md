@@ -1,5 +1,5 @@
 ---
-url: 2014/05/05/government-open-and-structured-content-models-are-here.md
+slug: government-open-and-structured-content-models-are-here
 date: 2014-05-05 14:17:39 -0400
 title: Government Open and Structured Content Models Are Here!
 summary: 'Smartphones, tablets, Twitter, Facebook, Instagram, not to mention your agency&#8217;s desktop website, are all clamoring for information, but sliced and diced in different ways. How can you make your content adaptive for efficient delivery to all of these mediums? Structured content and open content models can help you create content that'
@@ -199,4 +199,4 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   </div>
 </blockquote>
 
-_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+_We&#8217;ve created an [Editorial Theme Calendar]({{< relref "join-digitalgov.md#guidelines.md" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._

@@ -1,5 +1,5 @@
 ---
-url: 2014/06/13/search-engine-optimization-for-government-websites.md
+slug: search-engine-optimization-for-government-websites.md
 date: 2014-06-13 11:00:33 -0400
 title: Search Engine Optimization for Government Websites
 summary: On June 10, 2014, the Metrics Community of Practice of the Federal Web Managers Council and DigitalGov University hosted an event to honor the memory of Joe Pagano, a former co-chair of the Web Metrics Sub-Council. This third lecture honoring Joe focused on search engine optimization (SEO). While commercial search engines do a remarkable job

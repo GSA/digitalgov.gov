@@ -1,5 +1,5 @@
 ---
-url: 2015/07/01/safety-and-transparency-through-data.md
+slug: safety-and-transparency-through-data
 date: 2015-07-01 11:10:24 -0400
 title: Safety and Transparency Through Data
 summary: ' You have the right to a safe workplace&mdash;and so do the employees at your favorite caf&eacute;, the local hospital and the construction company renovating homes in your neighborhood. But how can you tell if the businesses you patronize'

@@ -1,5 +1,5 @@
 ---
-url: 2015/10/20/5-factors-for-building-a-successful-government-wide-digital-analytics-program.md
+slug: 5-factors-for-building-a-successful-government-wide-digital-analytics-program
 date: 2015-10-20 3:15:07 -0400
 title: 5 Factors to Building a Successful Government-wide Digital Analytics Program
 summary: 'Launched just three years ago, the Digital Analytics Program (DAP) continues to drive the 2012 Digital Government Strategy&rsquo;s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP officially launched on October 15, 2012 with a release of its first version of'
@@ -82,7 +82,7 @@ Data management and governance lie at the heart of the DAP program. Frankly, at 
 
 At DAP, data is monitored closely on an hourly basis with the help of automated alerts to pick up significant changes and perform diagnostics. In addition, to ensure that the data is processed and standardized before it is available for reporting, we apply a set of data [standardization rules](https://github.com/digital-analytics-program/gov-wide-code/issues/10) against all of the collected data. As DAP continues to evolve, the role of the DAP Experts Community will continue to expand.
 
-Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< relref "common-questions-about-dap-faq.md#part-7" >}}) to protect the integrity of the data upon receiving access to it.
+Data quality doesn’t stop with DAP Experts. Every government user of DAP data also has responsibilities, abiding by a [set of rules]({{< relref "common-questions-about-dap-faq.md#part-7.md" >}}) to protect the integrity of the data upon receiving access to it.
 
 ## It’s a Journey
 

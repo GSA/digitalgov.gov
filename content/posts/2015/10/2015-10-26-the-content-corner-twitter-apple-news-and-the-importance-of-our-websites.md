@@ -1,5 +1,5 @@
 ---
-url: 2015/10/26/the-content-corner-twitter-apple-news-and-the-importance-of-our-websites.md
+slug: the-content-corner-twitter-apple-news-and-the-importance-of-our-websites
 date: 2015-10-26 11:00:19 -0400
 title: 'The Content Corner: Twitter, Apple News and the Importance of Our Websites'
 summary: 'First, McDonald&rsquo;s started serving breakfast all day. Now, Twitter announced it is dropping its 140 character limit for tweets. Black is white, up is down. Or is it really that big a deal? Is Twitter just keeping itself relevant in the battle for your content? LinkedIn and Facebook were first with their strong push for organizations to'

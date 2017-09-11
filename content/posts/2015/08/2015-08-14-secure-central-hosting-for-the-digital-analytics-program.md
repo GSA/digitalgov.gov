@@ -1,5 +1,5 @@
 ---
-url: 2015/08/14/secure-central-hosting-for-the-digital-analytics-program.md
+slug: secure-central-hosting-for-the-digital-analytics-program.md
 date: 2015-08-14 13:00:48 -0400
 title: Secure Central Hosting for the Digital Analytics Program
 summary: 'The U.S. government&#8217;s Digital Analytics Program (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at analytics.usa.gov.'

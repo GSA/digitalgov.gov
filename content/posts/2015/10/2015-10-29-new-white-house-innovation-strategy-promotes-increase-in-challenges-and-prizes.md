@@ -1,5 +1,5 @@
 ---
-url: 2015/10/29/new-white-house-innovation-strategy-promotes-increase-in-challenges-and-prizes.md
+slug: new-white-house-innovation-strategy-promotes-increase-in-challenges-and-prizes
 date: 2015-10-29 1:00:05 -0400
 title: New White House Innovation Strategy Promotes Increase in Challenges and Prizes
 summary: ' The White House released an updated Strategy for American Innovation last week, calling again on government to tap the American public&rsquo;s brain trust'

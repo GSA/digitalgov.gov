@@ -1,5 +1,5 @@
 ---
-url: 2016/04/15/how-gamification-can-break-down-bureaucracy-and-address-real-world-problems.md
+slug: how-gamification-can-break-down-bureaucracy-and-address-real-world-problems
 date: 2016-04-15 10:00:06 -0400
 title: How Gamification Can Break Down Bureaucracy and Address Real World Problems
 summary: 'The world&rsquo;s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. To address issues ranging from maritime piracy to Naval energy use to 3D printing, the Navy uses gamification via MMOWGLI, the Massive Multiplayer Online Wargame Leveraging the Internet. MMOWGLI is an online gaming platform that'

@@ -1,5 +1,5 @@
 ---
-url: 2014/08/27/member-spotlight-jill-james-dept-of-education.md
+slug: member-spotlight-jill-james-dept-of-education
 date: 2014-08-27 10:00:43 -0400
 title: 'Member Spotlight &#8211; Jill James, Dept. of Education'
 summary: 'Welcome to the first edition of a new series of articles spotlighting members of our Government Web Manager Community. This month, we introduce Jill James, who&rsquo;s the Senior Web Editor/Director for the Department of Education, in their Communications and Outreach'
@@ -58,4 +58,4 @@ If I could work anywhere, I would still work for the federal government on digit
 
  
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

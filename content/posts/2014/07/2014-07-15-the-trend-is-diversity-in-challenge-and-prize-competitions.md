@@ -1,5 +1,5 @@
 ---
-url: 2014/07/15/the-trend-is-diversity-in-challenge-and-prize-competitions.md
+slug: the-trend-is-diversity-in-challenge-and-prize-competitions
 date: 2014-07-15 10:00:13 -0400
 title: The Trend is Diversity, in Challenge and Prize Competitions
 summary: 'The U.S. government has launched more than 45 challenge and prize competitions so far in Fiscal Year 2014. What trends are we seeing? Well, the trend is&#8230;diversity. That might sound like an oxymoron, but federal agencies are really putting themselves out there, asking the crowd to help tackle a wide array of problems. Until August 3rd,'
@@ -34,6 +34,6 @@ If you need any information about challenge platforms, [let us know](https://cha
 
 So don&#8217;t delay! Be part of the movement and try [crowdsourcing]({{< relref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}} "Getting started with Challenge and Prize Competitions").
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
 
  

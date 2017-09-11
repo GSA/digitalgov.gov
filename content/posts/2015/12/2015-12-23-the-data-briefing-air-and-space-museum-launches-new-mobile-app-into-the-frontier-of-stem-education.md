@@ -1,5 +1,5 @@
 ---
-url: 2015/12/23/the-data-briefing-air-and-space-museum-launches-new-mobile-app-into-the-frontier-of-stem-education.md
+slug: the-data-briefing-air-and-space-museum-launches-new-mobile-app-into-the-frontier-of-stem-education
 date: 2015-12-23 10:00:58 -0400
 title: 'The Data Briefing: Air and Space Museum Launches New Mobile App into the Frontier of STEM Education'
 summary: 'The Smithsonian Institution&rsquo;s Air and Space Museum just released a new educational mobile app, Mobile Missions. From the website: &ldquo;Find out if you are cut out for a career in aerospace with our free mobile app, Mobile Missions. Take our quiz to discover the best aerospace career for you. Explore objects from our collection related to'

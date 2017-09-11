@@ -1,5 +1,5 @@
 ---
-url: 2014/11/04/a-picture-is-worth-a-thousand-tokens-part-ii.md
+slug: a-picture-is-worth-a-thousand-tokens-part-ii.md
 date: 2014-11-04 10:00:48 -0400
 title: 'A Picture Is Worth a Thousand Tokens: Part II'
 summary: 'In the first part of A Picture Is Worth a Thousand Tokens, I explained why we built a social media-driven image search engine, and specifically how we used Elasticsearch to build its first iteration. In this week&rsquo;s post, I&rsquo;ll take a deep dive into how we worked to improve relevancy, recall, and the searcher&rsquo;s experience'

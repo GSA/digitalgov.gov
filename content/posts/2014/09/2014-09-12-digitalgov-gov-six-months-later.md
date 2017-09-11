@@ -1,5 +1,5 @@
 ---
-url: 2014/09/12/digitalgov-gov-six-months-later.md
+slug: digitalgov-gov-six-months-later
 date: 2014-09-12 12:00:02 -0400
 title: 'Strategy Pivot Yields Results: DigitalGov.Gov Six Months Later'
 summary: "Six months ago, we launched this DigitalGov.gov platform to support federal agencies in delivering 21st century digital services and information to the public. It seems a good time to share some of the thinking that went into the development of the platform, and what we've learned so far."

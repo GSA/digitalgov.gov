@@ -1,5 +1,5 @@
 ---
-url: 2013/05/06/cracking-the-mobile-contracting-nut.md
+slug: cracking-the-mobile-contracting-nut
 date: 2013-05-06 15:05:48 -0400
 title: Cracking the Mobile Contracting Nut
 summary: 'Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making'

@@ -1,5 +1,5 @@
 ---
-url: 2016/05/10/accessible-workplace-technology-signed-sealed-delivered.md
+slug: accessible-workplace-technology-signed-sealed-delivered
 date: 2016-05-10 10:00:28 -0400
 title: 'Accessible Workplace Technology: Signed, Sealed, Delivered'
 summary: 'Last week, I had a brush with a bona fide music legend &mdash; the great Stevie Wonder. Was I starstruck? Of course. I&rsquo;ve long admired his musical accomplishments and advocacy for people with disabilities. His appearance at the Grammy Awards in February highlighted once again the need to improve accessible technology, particularly in the workplace.'

@@ -1,5 +1,5 @@
 ---
-url: 2016/11/21/mobile-development-and-testing-with-chrome-devtools.md
+slug: mobile-development-and-testing-with-chrome-devtools
 date: 2016-11-21 12:00:19 -0400
 title: Mobile Development and Testing with Chrome Developer Tools
 summary: 'Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office&rsquo;s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing. All of a sudden, a new policy came down that'

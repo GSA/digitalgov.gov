@@ -1,5 +1,5 @@
 ---
-url: 2014/09/09/trends-on-tuesday-are-only-11-of-websites-responsive.md
+slug: trends-on-tuesday-are-only-11-of-websites-responsive
 date: 2014-09-09 10:00:59 -0400
 title: 'Trends on Tuesday: Are only 11% of Websites Responsive?'
 summary: 'Roughly 1 in 9 (11%) websites have adopted responsive Web design, according to research conducted by Guy Podjarny in January. While the number has risen in the last 7 months, I know you&rsquo;re probably a little underwhelmed by that number. But if you are one of the agencies that have gone through the process of'

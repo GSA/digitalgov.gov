@@ -1,5 +1,5 @@
 ---
-url: 2015/06/03/taking-the-pulse-of-the-federal-governments-web-presence.md
+slug: taking-the-pulse-of-the-federal-governments-web-presence
 date: 2015-06-03 13:10:57 -0400
 title: 'Taking the Pulse of the Federal Government&#8217;s Web Presence'
 summary: 'The U.S. federal government is launching a new project to monitor how it&#8217;s doing at best practices on the Web. A sort of health monitor for the U.S. government&#8217;s websites, it&#8217;s called Pulse and you can find it at pulse.cio.gov. Pulse is a lightweight dashboard that uses the official .gov domain list'
@@ -71,7 +71,7 @@ The process is not fully automated, and so Pulse isn&#8217;t updated every day. 
 
 The [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) is a free, shared Web analytics service for U.S. federal agencies.
 
-To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< relref "common-questions-about-dap-faq.md#part-4" >}}) that anonymize visitor addresses and restrict data sharing.
+To participate, agencies place some JavaScript on their websites that report to a combined analytics account. DAP has [privacy controls]({{< relref "common-questions-about-dap-faq.md#part-4.md" >}}) that anonymize visitor addresses and restrict data sharing.
 
 Access to the account is shared within the federal government, and much of its data is shared publicly on [analytics.usa.gov](https://analytics.usa.gov/). DAP also regularly publishes a list of around 4,000 participating websites that have reported visitor data in the preceding 2 weeks.
 

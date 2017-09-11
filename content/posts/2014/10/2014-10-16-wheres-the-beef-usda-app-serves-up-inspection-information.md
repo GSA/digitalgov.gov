@@ -1,5 +1,5 @@
 ---
-url: 2014/10/16/wheres-the-beef-usda-app-serves-up-inspection-information.md
+slug: wheres-the-beef-usda-app-serves-up-inspection-information
 date: 2014-10-16 10:08:04 -0400
 title: 'Where&#8217;s the Beef? USDA App Serves Up Inspection Information'
 summary: 'Want to know where the food you&rsquo;re eating was produced? Here&rsquo;s a handy trick before you head out to the grocery store: Download the Meat, Poultry & Egg Product Inspection Directory (MPI Directory) app produced by the U.S. Department of Agriculture (USDA)&rsquo;s Food Safety and Inspection Service. All containers of meat, poultry and'

@@ -1,5 +1,5 @@
 ---
-url: 2013/08/15/new-release-on-next-data-gov.md
+slug: new-release-on-next-data-gov
 date: 2013-08-15 9:34:10 -0400
 title: New Release on Next.Data.gov
 summary: 'Since the launch of Next.Data.gov, your help and ideas have made it possible to make two updates to the site. We&#8217;re naming these biweekly releases after the presidents so the one that launched this week is the Adams Release. We&#8217;re pleased to announce that much'

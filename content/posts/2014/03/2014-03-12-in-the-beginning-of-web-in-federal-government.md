@@ -1,5 +1,5 @@
 ---
-url: 2014/03/12/in-the-beginning-of-web-in-federal-government.md
+slug: in-the-beginning-of-web-in-federal-government
 date: 2014-03-12 10:01:57 -0400
 title: 'In the Beginning&#8230;of Web in Federal Government'
 summary: ' With the 25th anniversary of the Web, we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since. The State Department may have been one of the first, in 1991, with a'

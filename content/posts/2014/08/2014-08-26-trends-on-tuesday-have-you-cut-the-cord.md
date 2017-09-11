@@ -1,5 +1,5 @@
 ---
-url: 2014/08/26/trends-on-tuesday-have-you-cut-the-cord.md
+slug: trends-on-tuesday-have-you-cut-the-cord
 date: 2014-08-26 10:00:05 -0400
 title: 'Trends on Tuesday: Have You Cut the Cord?'
 summary: 'First, it was party lines. Then, it was the rotary phone. Now, two-in-five (41%) U.S. households have officially said goodbye to landlines, according to a recent report by the Centers for Disease Control and Prevention (CDC)&#8217;s National Center for Health Statistics. If you have been keeping up with previous mobile trends, you won&rsquo;t be surprised'

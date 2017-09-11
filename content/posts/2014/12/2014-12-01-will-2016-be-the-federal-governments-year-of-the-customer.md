@@ -1,5 +1,5 @@
 ---
-url: 2014/12/01/will-2016-be-the-federal-governments-year-of-the-customer.md
+slug: will-2016-be-the-federal-governments-year-of-the-customer
 date: 2014-12-01 10:00:05 -0400
 title: Will 2016 Be the Federal Government’s ‘Year of the Customer?’
 summary: As 2014 draws to a close, agencies across the federal government are beginning to think about what the customer experience (CX) landscape will look like in the years ahead. There is little doubt that 2014 saw the government make great strides on this front, setting in motion a number of initiatives that will help ensure

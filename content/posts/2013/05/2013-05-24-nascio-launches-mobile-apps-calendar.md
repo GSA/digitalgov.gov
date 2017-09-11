@@ -1,5 +1,5 @@
 ---
-url: 2013/05/24/nascio-launches-mobile-apps-calendar.md
+slug: nascio-launches-mobile-apps-calendar
 date: 2013-05-24 8:14:40 -0400
 title: NASCIO Launches Mobile Apps Catalog
 summary: 'The federal government&#8217;s Mobile Code Catalog has company! This month, NASCIO released a new State Mobile Apps Catalog, a collection of over 160 state and territory native mobile apps that users can browse and download for smart phones and tablets. The apps are searchable by state/territory,'

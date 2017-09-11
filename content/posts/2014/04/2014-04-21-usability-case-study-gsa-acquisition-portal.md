@@ -1,5 +1,5 @@
 ---
-url: 2014/04/21/usability-case-study-gsa-acquisition-portal.md
+slug: usability-case-study-gsa-acquisition-portal
 date: 2014-04-21 10:00:24 -0400
 title: 'GSA Acquisition Portal &#8211; Usability Case Study'
 summary: 'Incorporating usability testing throughout the entire design process, especially before launch, allows you catch glitches and/or make design changes prior to anyone seeing it live. When more than minor adjustments need to be made to your site, it&rsquo;s much better to have completed them before the public sees it. For Christina Mullins, a Contracting Officer'

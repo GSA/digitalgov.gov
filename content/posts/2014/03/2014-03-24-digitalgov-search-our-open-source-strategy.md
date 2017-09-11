@@ -1,5 +1,5 @@
 ---
-url: 2014/03/24/digitalgov-search-our-open-source-strategy.md
+slug: digitalgov-search-our-open-source-strategy.md
 date: 2014-03-24 10:00:42 -0400
 title: 'DigitalGov Search: Our Open Source Strategy'
 summary: 'At DigitalGov Search, we keep an eye on on our what our government counterparts are up to, both in the U.S. and other countries. We recently came across Gov.UK&#8217;s philosophy on and approach to coding in the open. It caught our attention and we realized we should also articulate our open source strategy. Use and Contribute to Open'

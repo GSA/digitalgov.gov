@@ -1,5 +1,5 @@
 ---
-url: 2015/10/22/know-your-molluscs-with-the-terrestrial-mollusc-key.md
+slug: know-your-molluscs-with-the-terrestrial-mollusc-key
 date: 2015-10-22 13:00:46 -0400
 title: Know Your Molluscs with the Terrestrial Mollusc Key
 summary: ' I have to admit my knowledge of slugs and snails was limited to the familiar, slimy creatures in my garden that ate holes in leaves, flowers, vegetables&mdash;almost anything, really&mdash;and left silvery traces behind. The Terrestrial Mollusc Key mobile app from the Department'

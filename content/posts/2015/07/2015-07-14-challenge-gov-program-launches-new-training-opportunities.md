@@ -1,5 +1,5 @@
 ---
-url: 2015/07/14/challenge-gov-program-launches-new-training-opportunities.md
+slug: challenge-gov-program-launches-new-training-opportunities
 date: 2015-07-14 13:52:31 -0400
 title: Challenge.gov Program Launches New Training Opportunities
 summary: ' Seven new training modules aim to help Federal Challenge and Prize Community members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with &ldquo;Prize History,'

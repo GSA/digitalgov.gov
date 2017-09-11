@@ -1,5 +1,5 @@
 ---
-url: 2016/03/08/quizzes-the-secret-weapon-of-the-worlds-best-content-creators.md
+slug: quizzes-the-secret-weapon-of-the-worlds-best-content-creators
 date: 2016-03-08 11:00:44 -0400
 title: 'Quizzes: The Secret Weapon of the World&#8217;s Best Content Creators'
 summary: 'Online quizzes have rapidly risen to the front of the social media revolution. &ldquo;In 2014, 8 out of 10 of the most shared articles on the Web were quizzes,&rdquo; states Owen Fuller of content company Movement Ventures. Content creators leverage quizzes to successfully drive customer engagement and increase customer website conversions (to take action such'

@@ -1,5 +1,5 @@
 ---
-url: 2014/08/21/go-usa-gov-creates-short-trustworthy-gov-urls.md
+slug: go-usa-gov-creates-short-trustworthy-gov-urls
 date: 2014-08-21 13:59:05 -0400
 title: Go.USA.gov Creates Short, Trustworthy .gov URLs
 summary: 'Short URLs are useful for tracking clicks, but they can create a poor user experience because the person clicking the link can&rsquo;t see the final destination. That&rsquo;s why Go.USA.gov was created&mdash;to show users that they would reach official government information. To maintain this trust, Go.USA.gov is only open to government employees and only shortens government'
@@ -41,4 +41,4 @@ You can download the total number of clicks for all of your short URLs by loggin
 
 If you have suggestions, comments, or questions about Go.USA.gov, please e-mail [email us](mailto:go.usa.gov@gsa.gov).
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}})._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}})._

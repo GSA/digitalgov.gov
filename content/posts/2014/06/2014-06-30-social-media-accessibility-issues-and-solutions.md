@@ -1,5 +1,5 @@
 ---
-url: 2014/06/30/social-media-accessibility-issues-and-solutions.md
+slug: social-media-accessibility-issues-and-solutions
 date: 2014-06-30 10:00:10 -0400
 title: 'Social Media: Accessibility Issues and Solutions'
 summary: 'The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities&mdash;since they have the least access to it. Like many websites, social media platforms'
@@ -45,4 +45,4 @@ Imagine, if you aren’t deaf or hard-of-hearing, clicking on a video for more i
 The FCC’s Accessibility and Innovation Initiative will host a [public event, July 17, called “Accessing Social Media.&#8221;](http://www.fcc.gov/events/accessing-social-media) For more information, contact Jamal Mazrui at 202.418-0069 or by [email](mailto:jamal.mazrui@fcc.gov), or call Kelly Jones at 202.418-7078 or contact her via [email](mailto:kelly.jones@fcc.gov). You may also join in the ongoing discussions on [ePolicyWorks Online’s Dialogues page](https://www.epolicyworks.org/epw/dialogues/).
 
 _**Victoria Wales** is a Bilingual Web Content Manager with [USA.gov](http://www.usa.gov/), at the U.S. General Services Administration (GSA)._
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

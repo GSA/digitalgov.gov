@@ -1,5 +1,5 @@
 ---
-url: 2013/11/18/creating-cross-channel-experiences.md
+slug: creating-cross-channel-experiences
 date: 2013-11-18 10:40:09 -0400
 title: Creating Cross-Channel Experiences
 summary: One of the most important jobs for an organization is to think about the entire ecosystem of their brand and what the user experience is across each channel. Whether it is through accessing information on your site through various devices, calling a help line, engaging through social media, and/or having a face-to-face conversation, there may

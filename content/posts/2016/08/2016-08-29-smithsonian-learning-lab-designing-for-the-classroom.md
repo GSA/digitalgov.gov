@@ -1,5 +1,5 @@
 ---
-url: 2016/08/29/smithsonian-learning-lab-designing-for-the-classroom.md
+slug: smithsonian-learning-lab-designing-for-the-classroom
 date: 2016-08-29 10:00:53 -0400
 title: 'Smithsonian Learning Lab: Designing for the Classroom'
 summary: 'The Smithsonian&rsquo;s mission statement is wonderfully simple: &#8220;The increase and diffusion of knowledge.&#8221; The &#8220;increasing&#8221; is arguably the straightforward part &ndash; the Smithsonian has amassed a collection of over 138 million objects and specimens, and the Institution&rsquo;s curators and scientists obsessively add to the world&rsquo;s knowledge base, publishing papers, creating exhibitions, and sharing their expertise.'

@@ -1,5 +1,5 @@
 ---
-url: 2014/03/10/we-love-it-when-a-plan-comes-together.md
+slug: we-love-it-when-a-plan-comes-together
 date: 2014-03-10 10:56:08 -0400
 title: We Love it When a Plan Comes Together…
 summary: 'Federal agencies are currently hard at work developing revised Open Government Plans&mdash;blueprints that are published every two years, highlighting agency progress towards making their work more transparent, participatory, and collaborative, and outlining new open government commitments going forward. This iterative, biennial process grew out of the December 2009 Open Government'
