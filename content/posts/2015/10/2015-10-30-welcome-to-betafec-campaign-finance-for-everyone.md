@@ -13,7 +13,7 @@ tag:
   - Federal Election Commission
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}
+{{< legacy-img src="2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}
 
 As the 2016 presidential election heats up, here at 18F we’ve been working with the Federal Election Commission (FEC) to make campaign finance data more accessible to the public. Today, we launched [betaFEC](https://beta.fec.gov/), the first piece in a complete redesign of the FEC’s online presence.
 
@@ -27,7 +27,7 @@ The result is a beta site with an ambitious goal: Make campaign finance informat
 
 Campaign finance information can be challenging to understand. It’s governed by complicated statutes and the sheer volume of data can be overwhelming. But every day, thousands of visitors access FEC.gov to search for campaign finance data, research compliance information, study agency actions, file disclosure reports, and more.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-250-US-Federal-Election-Commission-FEC-white-seal-on-blue-bg.jpg" alt="U.S. Federal Election Commission (FEC) white seal on blue background" >}}The FEC releases information to the public about the money that federal candidates and committees raise and spend, a requirement under the Federal Election Campaign Act. Are you interested in seeing how much money a Senate candidate raised? Or spent? How much debt they took on? Which committees contributed to the campaign? The FEC is the original source.
+{{< legacy-img src="2015/10/250-x-250-US-Federal-Election-Commission-FEC-white-seal-on-blue-bg.jpg" alt="U.S. Federal Election Commission (FEC) white seal on blue background" >}}The FEC releases information to the public about the money that federal candidates and committees raise and spend, a requirement under the Federal Election Campaign Act. Are you interested in seeing how much money a Senate candidate raised? Or spent? How much debt they took on? Which committees contributed to the campaign? The FEC is the original source.
 
 For example, in the 2012 presidential election, 14 candidates spent more than $1.3 billion dollars combined. That same year, the 1,949 congressional candidates doled out even more: in excess of $1.8 billion. So far this cycle, presidential candidates have raised more than $273 million.
 

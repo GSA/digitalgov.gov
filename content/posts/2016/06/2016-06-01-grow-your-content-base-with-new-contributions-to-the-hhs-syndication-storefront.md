@@ -1,7 +1,7 @@
 ---
 date: 2016-06-01 10:00:39 -0400
 title: Grow Your Content Base with New Contributions to the HHS Syndication Storefront
-summary: 'We have written about syndication and its successes before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg" alt="Screen capture of the National Institute of'
+summary: 'We have written about syndication and its successes before. The content offerings of the HHS Syndication Storefront have recently grown. The National Institute of Heart Lung and Blood Diseases (NHLBI), part of the National Institutes of Health (NIH), is the latest to add content into the system. {{< legacy-img src="2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg" alt="Screen capture of the National Institute of'
 authors:
   - christen-geiler
 categories:
@@ -20,7 +20,7 @@ We have written about [syndication]({{< relref "2014-11-10-get-more-health-conte
 
 The content offerings of the [HHS Syndication Storefront](https://syndication.hhs.gov/) have recently grown. The [National Institute of Heart Lung and Blood Diseases](http://www.nhlbi.nih.gov/) (NHLBI), part of the [National Institutes of Health](https://www.nih.gov/) (NIH), is the latest to add content into the system.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg" alt="Screen capture of the National Institute of Heart Lung and Blood Diseases (NHLBI) homepage" >}}
+{{< legacy-img src="2016/05/600-x-430-Content-syndication-National-Institute-of-Heart-Lung-and-Blood-Diseases-NHLBI.jpg" alt="Screen capture of the National Institute of Heart Lung and Blood Diseases (NHLBI) homepage" >}}
 
 Now you can directly syndicate content items such as the “DASH Eating Plan,” a “Description of High Blood Pressure,” to an article outlining “Coronary Heart Disease.&#8221;
 

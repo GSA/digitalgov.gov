@@ -33,7 +33,7 @@ tag:
   <strong>FDA Consumer Graphics: Versions A and B before testing</strong>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-350-FDA-version-1-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two versions of a graphic for wart removal medicine." >}}
+{{< legacy-img src="2014/04/600-x-350-FDA-version-1-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two versions of a graphic for wart removal medicine." >}}
 
 <p dir="ltr">
   Both versions seemed to make sense, but FDA’s graphic designers wanted to make sure they communicated their message clearly. The designers called on Brian to informally test the graphics. To do this, Brian used FDA’s internal network of more than 500 employee volunteers who can provide feedback on FDA communications before they go public. In December of 2013, Brian conducted a series of 10 individual telephone interviews to obtain feedback on the graphics. Here’s what he found out:
@@ -43,7 +43,7 @@ tag:
   <strong>FDA Consumer Graphics: With customer feedback</strong>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-350-FDA-version-2-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two versions of a graphic for wart removal medicine with annotations about the design." >}}
+{{< legacy-img src="2014/04/600-x-350-FDA-version-2-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two versions of a graphic for wart removal medicine with annotations about the design." >}}
 
 <p dir="ltr">
   Brian’s testing revealed there were a lot of questions people had about the design, and different people understood it in different ways. Brian provided the feedback to the designers, who then redesigned the graphics to avoid these pitfalls.
@@ -53,6 +53,6 @@ tag:
   <strong>FDA Consumer Graphics: After Redesign</strong>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-350-FDA-version-3-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two pictures of a wart removal medicine with annotations about the improved design." >}}
+{{< legacy-img src="2014/04/600-x-350-FDA-version-3-of-Two-Wart-Removal-Warning-Flammable-graphics.jpg" alt="Two pictures of a wart removal medicine with annotations about the improved design." >}}
 
 Want to see your Federal Usability Case Study featured here? Just [email us](mailto:govux@gsa.gov "Click here to email govux@gsa.gov").

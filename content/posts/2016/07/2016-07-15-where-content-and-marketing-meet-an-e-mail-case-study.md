@@ -16,7 +16,7 @@ tag:
 
 Content marketing is everywhere and you&#8217;re hearing more about it every day—but how do you do it well?
 
-While content marketing can take many forms (articles, infographics, videos, and more), it shares a common purpose: providing useful content to attract new customers to your product or service. At USAGov, customized e-mail messages to our subscribers represent one of our most powerful content marketing tools. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459067215.jpg" alt="maxkabakov/iStock/Thinkstock" caption="" >}} 
+While content marketing can take many forms (articles, infographics, videos, and more), it shares a common purpose: providing useful content to attract new customers to your product or service. At USAGov, customized e-mail messages to our subscribers represent one of our most powerful content marketing tools. {{< legacy-img src="2016/07/600-x-450-Finance-concept-arrows-in-Email-target-on-wall-background-maxkabakov-iStock-Thinkstock-459067215.jpg" alt="maxkabakov/iStock/Thinkstock" caption="" >}} 
 
 ## What’s the Core Concept?
 
@@ -30,7 +30,7 @@ Below are some of our most popular messages. What do they have in common? Clear 
 
 [Learn About the New $20, $10, and $5 Notes](http://connect.usa.gov/learn-about-the-new-20-10-and-5-notes)
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-678-Where-Content-and-Marketing-Meet-An-E-mail-Case-Study.jpg" alt="Screen capture of the email." >}}
+{{< legacy-img src="2016/07/600-x-678-Where-Content-and-Marketing-Meet-An-E-mail-Case-Study.jpg" alt="Screen capture of the email." >}}
 
 ## Why So Much Emphasis on E-mail?
 

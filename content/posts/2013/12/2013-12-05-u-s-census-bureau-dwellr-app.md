@@ -15,7 +15,7 @@ tag:
   - United States Census Bureau
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS_DwellApp_graphic-576x1024.jpg)The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
+[{{< legacy-img src="2014/01/CENSUS\_DwellApp\_graphic-576x1024.jpg" alt="CENSUS\_DwellApp\_graphic-576x1024" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/CENSUS_DwellApp_graphic-576x1024.jpg)The pursuit of happiness for many of us might mean a fresh new start and a new place to call home.
 
 **But where?**
 

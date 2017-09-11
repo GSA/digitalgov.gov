@@ -26,7 +26,7 @@ tag:
   - United States Census Bureau
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-370-Jacob-Parcell-Panel-4-Inter-Agency-Work-toni470-flickr-20140530_114324.jpg" alt="Jacob Parcell, GSA - Panel 4: Inter-Agency Work - Alec Permison, Census; Lakshmi Grama, NCI; Denice Shaw, EPA; Mike Pulsifer, DOL" caption="" >}} 
 
 At the [DigitalGov Citizen Services Summit]({{< relref "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, Jacob Parcell, Manager, Mobile Programs at the General Services Administration led a panel on the challenges and benefits of Inter-Agency work. The other panels were on [performance analysis]({{< relref "2014-06-03-digitalgov-summit-panels-recap.md" >}}), [customer service across channels]({{< relref "2014-06-05-the-importance-of-cross-channel-customer-service-digitalgov-summit-recap.md" >}} "The Importance of Cross-Channel Customer Service—DigitalGov Summit Recap"), and [public private partnerships]({{< relref "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap").
 

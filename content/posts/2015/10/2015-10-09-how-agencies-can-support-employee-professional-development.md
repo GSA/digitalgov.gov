@@ -18,7 +18,7 @@ tag:
   - USDA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" alt="The words, Opportunities Just Ahead, are on a green billboard with the sunrise behind it." caption="" >}} 
+{{< legacy-img src="2015/10/600-x-450-Opportunities-Just-Ahead-on-Green-Billboard-Tashatuvango-iStock-Thinkstock-464846821.jpg" alt="The words, Opportunities Just Ahead, are on a green billboard with the sunrise behind it." caption="" >}} 
 
 Providing professional development for over 100,000 employees is no easy task. To build on the existing skills of their workforce, the U.S. Department of Agriculture (USDA) has piloted AgOpportunity, a program that matches USDA employees with projects that need their skills and interest.
 

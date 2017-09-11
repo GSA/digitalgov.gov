@@ -142,7 +142,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
   * There were **21 million visits to IRS pages** over the **past 7 days**._-Ashley Wichman, DigitalGov Team_
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
+[{{< legacy-img src="2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
 
 ## 5:00 pm Update
 
@@ -265,7 +265,7 @@ Number of IRS pages that are in the Top 20 pages: **11**
   * Although today is the last day to file taxes, the top IRS page remains the “**Where’s My Refund**” page with **4,448 active visitors** looking to find out when they’ll receive their refund.
   * Despite IRS dominating the top traffic over the last few months, the usual top performers are weather pages from NOAA, which still has 4 pages in the Top 20 right now. Along with NOAA and IRS, the DAP program has participating sites from 38 federal agencies!_-Tim Lowden, Analyst on the Digital Analytics Program_
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." >}}
+{{< legacy-img src="2015/04/Screenshot9AM.gif" alt="A screen capture of a bar graph, showing that there were 130,929 people visiting government websites." >}}
 
 ## 9:00 am Update
 

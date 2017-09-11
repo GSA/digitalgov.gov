@@ -14,7 +14,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
+{{< legacy-img src="2015/03/600-x-400-super-excited-dog-meme.jpg" alt="A Boxer (dog) appears to jump on a grassy area outdoors, with large black and white text added to the image that says: Super Excited About Memes" >}}
 
 A (possibly infamous) [blog post](http://www.zdnet.com/article/us-congress-publishes-press-release-made-of-copyright-violating-animated-gifs) from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose sight of during our hectic schedules.
 
@@ -30,15 +30,15 @@ Along with audience determining your message, your message can help determine ho
 
 One great example of this that has gained popularity of late is the [infographic]({{< relref "2014-03-14-customize-your-own-amazing-social-media-report-infographic.md" >}}). It&#8217;s fast and can quickly provide a ton of useful information to a user. Add animation (when you need to) and you have an even more effective communication tool.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}](http://www.quicksprout.com/2015/03/20/the-ultimate-guide-to-creating-visually-appealing-content/?display=wide) 
+[{{< legacy-img src="2015/03/600-x-325-quick-sprout.jpg" alt="A Rule of Thumb for images: 1) Don't add an image just to have an image. 2) Don't use boring or irrelevant images 3) Avoid overused stock photos 4) Keep size in mind depending on how you use visual images. Click image for full infographic." caption="" >}}](http://www.quicksprout.com/2015/03/20/the-ultimate-guide-to-creating-visually-appealing-content/?display=wide) 
 
 As opposed to a video, if you have a brief segment without audio that you need to share, then use the animated gif. 18F has several great examples of this from their [GitHub/Terminal tutorial](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/mkdir-code.gif" alt="An animated gif showing code being typed" >}}
+{{< legacy-img src="2015/03/mkdir-code.gif" alt="An animated gif showing code being typed" >}}
 
 ## 3. Don&#8217;t Lose the Joy
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-312-tumblr\_nczzmcpicN1rn3gulo1\_500.gif" alt="Animated Victorian sketch of a woman turns her into a DJ, wearing headphones and scratching on a dark shape representing a vinyl record." >}}](http://smithsonianlibraries.tumblr.com/tagged/gif)This may be the biggest thing that smacked me in the face this week. The world we work and live in is fast-paced; many of us are constantly working to feed the beast along with juggling tons of other issues. It&#8217;s easy to lose sight of the bigger picture; it happens to everyone.
+[{{< legacy-img src="2015/03/250-x-312-tumblr\_nczzmcpicN1rn3gulo1\_500.gif" alt="Animated Victorian sketch of a woman turns her into a DJ, wearing headphones and scratching on a dark shape representing a vinyl record." >}}](http://smithsonianlibraries.tumblr.com/tagged/gif)This may be the biggest thing that smacked me in the face this week. The world we work and live in is fast-paced; many of us are constantly working to feed the beast along with juggling tons of other issues. It&#8217;s easy to lose sight of the bigger picture; it happens to everyone.
 
 All the other stuff I write about is important:
 

@@ -19,7 +19,7 @@ tag:
   - US National Park Service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-447-Mobile-friendly-NPS.gov-website-on-phone.jpg" alt="Mobile-friendly NPS.gov website on phone" >}}Park websites on NPS.gov from A ([Acadia](http://www.nps.gov/acad/index.htm)) to Z ([Zion](http://www.nps.gov/zion/index.htm)) are now mobile-friendly. Visitors using phones and tablets to visit national park websites now have a user-friendly experience to enhance their virtual visits. Previously, visitors using mobile devices saw a smaller version of the website scaled to fit the size of their screen. Now, the content will adjust to fit small screens while providing the same functionality available to those visiting the site using a desktop or laptop.
+{{< legacy-img src="2015/04/250-x-447-Mobile-friendly-NPS.gov-website-on-phone.jpg" alt="Mobile-friendly NPS.gov website on phone" >}}Park websites on NPS.gov from A ([Acadia](http://www.nps.gov/acad/index.htm)) to Z ([Zion](http://www.nps.gov/zion/index.htm)) are now mobile-friendly. Visitors using phones and tablets to visit national park websites now have a user-friendly experience to enhance their virtual visits. Previously, visitors using mobile devices saw a smaller version of the website scaled to fit the size of their screen. Now, the content will adjust to fit small screens while providing the same functionality available to those visiting the site using a desktop or laptop.
 
 Other types of sites that use the NPS.gov content management system will become mobile-friendly in the coming weeks. This includes both subject and organization sites, such as the [Centennial subject site](http://www.nps.gov/subjects/centennial/index.htm) and the [Office of Communications organization site](http://www.nps.gov/orgs/1207/index.htm), and national-level pages, such as [Find a Park](http://www.nps.gov/findapark/index.htm).
 
@@ -33,7 +33,7 @@ Improving the quality of the overall user experience of NPS.gov is a major prior
 
 Mobile-friendly sites on NPS.gov:
 
-  * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}Provide a better user experience on web-enabled devices of all shapes and sizes. Right now, almost 40% of NPS.gov visitors use tablets or mobile devices to access the site. The responsive design will better serve those visitors.
+  * {{< legacy-img src="2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}Provide a better user experience on web-enabled devices of all shapes and sizes. Right now, almost 40% of NPS.gov visitors use tablets or mobile devices to access the site. The responsive design will better serve those visitors.
   * Ensure that audiences whose only Internet access is through mobile devices have good usability on NPS.gov.
   * Appear higher in Web searches on those [search engines that factor mobile friendliness]({{< relref "2015-04-15-mobilegeddon-government-edition.md" >}} "Mobilegeddon: Government Edition") when displaying results.
   * Use the same Web design code as all sites using the NPS content management system, rather than having different code for desktops/laptops and for mobile devices.

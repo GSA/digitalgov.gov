@@ -12,7 +12,7 @@ tag:
   - open government
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" >}}
+{{< legacy-img src="2015/10/600-x-400-The-Open-Government-Partnership-10-27-2015-Third-Open-Government-National-Action-Plan-For-The-United-States-Of-America.jpg" alt="The Open Government Partnership: Third Open Government National Action Plan For The United States Of America, October 27, 2015" >}}
 
 Our work at the General Services Administration encompass many of the pillars of Open Government, from giving a greater voice to citizens to through Public Participation innovations like Challenge.gov to making the DNA of all programs more accessible and usable through Open Data. We at GSA are proud to announce the agency’s commitment to the [Third Open Government National Action Plan of the United States](https://www.whitehouse.gov/sites/default/files/microsites/ostp/final_us_open_government_national_action_plan_3_0.pdf) under the Open Government Partnership (OGP), announced this week at the OGP Summit in Mexico City, Mexico.
 

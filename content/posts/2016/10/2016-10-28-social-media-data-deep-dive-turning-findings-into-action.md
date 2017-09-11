@@ -22,7 +22,7 @@ tag:
 
 GobiernoUSA, just like USA.gov, is part of a unique effort with a large mission—to guide people to the government information and services they seek. We cover a lot of topics in Spanish via our website, social media platforms, email sends, and contact center. One of the communication channels we focus a lot of attention on is social media, and we routinely measure how our efforts are going.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-442-Gobierno-SM-data.jpg" alt="Screen capture of the GobiernoUSA Facebook page." >}}
+{{< legacy-img src="2016/10/600-x-442-Gobierno-SM-data.jpg" alt="Screen capture of the GobiernoUSA Facebook page." >}}
 
 We focused first on our assumed engagement power hitter &#8211; Facebook, to learn more from its Insights analytics data. By last May, we had reached 26,138 likers and we have steadily grown since February of this year. We&#8217;ve done this by:
 

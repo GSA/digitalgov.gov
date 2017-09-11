@@ -20,7 +20,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-250-Flat-design-concept-of-responsive-design-totallyPic.com-iStock-Thinkstock-484543733.jpg" alt="Flat design concept of responsive design" caption="" >}} 
+{{< legacy-img src="2014/09/250-x-250-Flat-design-concept-of-responsive-design-totallyPic.com-iStock-Thinkstock-484543733.jpg" alt="Flat design concept of responsive design" caption="" >}} 
 
 Roughly 1 in 9 (11%) websites have adopted responsive Web design, according to <a title="research" href="http://www.guypo.com/mobile/rwd-ratio-in-top-100000-websites-refined/" target="_blank">research</a> conducted by Guy Podjarny in January. While the number has risen in the last 7 months, I know you’re probably a little underwhelmed by that number. But if you are one of the agencies that have gone through the process of developing a responsive site, you are aware of the challenges that can often get in the way of progress.
 

@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Gadgets-cellphones-with-touch-screens-over-white-Arsgera-iStpck-Thinkstock-177350893.jpg" alt="Multiple cell phones on a light background" caption="" >}} 
+{{< legacy-img src="2015/05/600-x-400-Gadgets-cellphones-with-touch-screens-over-white-Arsgera-iStpck-Thinkstock-177350893.jpg" alt="Multiple cell phones on a light background" caption="" >}} 
 
 In April, [comScore](http://www.comscore.com/) released new mobile data, and it pointed to the continuing growth of smartphones as the dominant mobile platform, especially in the United States, with almost a [77% smartphone penetration](http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-February-2015-US-Smartphone-Subscriber-Market-Share). Android and Apple continue to dominate the operating system market share with 52.8% and 41.7%, respectively.
 

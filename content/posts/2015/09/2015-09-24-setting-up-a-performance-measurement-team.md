@@ -11,7 +11,7 @@ tag:
   - analytics
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Business-Vision-Zoonar-RF-Zoonar-Thinkstock-126809628.jpg" alt="Business vision concept with male and female figures and gears." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Business-Vision-Zoonar-RF-Zoonar-Thinkstock-126809628.jpg" alt="Business vision concept with male and female figures and gears." caption="" >}} 
 
 As part of an organizational shift to functional teams at GSA’s Federal Citizen Information Center (FCIC), we created a Performance Measurement Team that consolidates data analysis for our websites, contact center channels, and marketing channels.
 
@@ -39,7 +39,7 @@ We began meeting monthly to discuss what we’d learned from the prior month’s
 
 We shared the master spreadsheet with all staff and began inviting members of other teams to attend our monthly data sharing session. The benefits of sharing and communicating have been twofold. First, those outside of the Performance Measurement Team have brought additional context to the data. Second, by sharing data, those who actually create and maintain our products have gained actionable insights.
 
-## Next Step: Create Data Visualizations {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-323-Silhouettes-of-Business-People-Working-and-Data-Concepts-Rawpixel-Ltd-iStock-Thinkstock-ThinkstockPhotos-532319147.jpg" alt="Data Concepts" caption="" >}} 
+## Next Step: Create Data Visualizations {{< legacy-img src="2015/04/600-x-323-Silhouettes-of-Business-People-Working-and-Data-Concepts-Rawpixel-Ltd-iStock-Thinkstock-ThinkstockPhotos-532319147.jpg" alt="Data Concepts" caption="" >}} 
 
 We want to be able to see how our programs are performing, and use data to tell stories that show the real-world impact of our findings. We’ve considered a few different data visualization tools and are just beginning to test one of them. Our expectation is that it will help us to more easily identify trends and anomalies and allow staff to get the data they need to make decisions.
 

@@ -15,7 +15,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/EPA-Mobile-website-250-x-415-4-14-14-Toni-Samsung-Galaxy-SII-SC20140414-102209.jpg" alt="Screenshot from a smart phone of the E P A dot gov mobile website" >}}Earth Day is next week, so today instead of featuring one mobile product like we do every Thursday, we&#8217;re highlighting how the [U.S. Environmental Protection Agency](http://www.epa.gov/) is tackling mobile to help empower citizen environmental decisions.
+{{< legacy-img src="2014/04/EPA-Mobile-website-250-x-415-4-14-14-Toni-Samsung-Galaxy-SII-SC20140414-102209.jpg" alt="Screenshot from a smart phone of the E P A dot gov mobile website" >}}Earth Day is next week, so today instead of featuring one mobile product like we do every Thursday, we&#8217;re highlighting how the [U.S. Environmental Protection Agency](http://www.epa.gov/) is tackling mobile to help empower citizen environmental decisions.
 
 Currently, you can access EPA&#8217;s [mobile website](http://m.epa.gov/apps/), a [number of EPA apps](http://m.epa.gov/apps/), and the agency has a dedicated [team working on mobile product decisions](http://www2.epa.gov/webguide/mobile-access-review-committee).  Last month, EPA reported on the status of [current mobile projects](http://www2.epa.gov/open/epa-mobile-applications-apps-empower-citizens-environmental-decisions). Here are some highlights:
 

@@ -24,7 +24,7 @@ tag:
 
 The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet, no solution to the debate. However, there are some advantages and disadvantages to both types of mobile solutions.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-530-My-TSA-mobile-website-and-app-Nov-13-2015.jpg" alt="The MyTSA mobile website and app side by side." >}}
+{{< legacy-img src="2015/11/600-x-530-My-TSA-mobile-website-and-app-Nov-13-2015.jpg" alt="The MyTSA mobile website and app side by side." >}}
 
 Let us start with mobile websites. Mobile websites are essentially the same website you would see on a desktop. Mobile websites are built using HyperText Markup Language version 5 (HTML5), Cascading Style Sheets (CSS), and Javascript (a programming language). What makes a mobile website is that it has “responsive design.” Responsive design means that the website can scale itself to appear and function better on small screens as well as large screens. Some mobile websites can also use the special features of the mobile device such as [determining the location]({{< relref "2015-11-23-wherever-you-go-there-we-are-the-geolocation-api.md" >}}) or when the mobile device is moving.
 

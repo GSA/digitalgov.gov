@@ -31,7 +31,7 @@ The launch of the beta was on June 6th, 2015—the [National Civic Day of Hackin
 
 The initiative draws inspiration from the [European CitySDK effort](http://www.citysdk.eu/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
+{{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
 
 ## CitySDK Basics
 
@@ -47,13 +47,13 @@ Once a developer has registered for and received their [API key](http://uscensus
 
 A developer can then craft [request](http://uscensusbureau.github.io/citysdk/guides/censusModule/commonRequests.html) and response statements that return GeoJSON shapefiles with the requested (statistical) data.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-372-City-SDK-Census-module.jpg" alt="600-x-372-City-SDK-Census-module" >}}
+{{< legacy-img src="2015/06/600-x-372-City-SDK-Census-module.jpg" alt="600-x-372-City-SDK-Census-module" >}}
 
 CitySDK has built-in [FIPS](http://quickfacts.census.gov/qfd/meta/long_fips.htm) code translation for latitude and longitude, addresses, and ZIP codes. Also, there is a [list of aliases](http://uscensusbureau.github.io/citysdk/guides/censusModule/aliases.html) for common variables in Census’s American Community Survey (ACS) and a [Query Builder](http://uscensusbureau.github.io/citysdk/guides/censusModule/queryBuilder.html) to help developers.
 
 [Examples](http://uscensusbureau.github.io/citysdk/guides.html) are provided that enable those new to CitySDK to cut-and-paste sample code, modify it for their own purposes, and quickly get to their minimally viable solution.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-372-City-SDK-Guides.jpg" alt="600-x-372-City-SDK-Guides" >}}
+{{< legacy-img src="2015/06/600-x-372-City-SDK-Guides.jpg" alt="600-x-372-City-SDK-Guides" >}}
 
 The long term goal of CitySDK is to organically include as many functions or data sets as the community needs. For this, any community developer can host a [CitySDK module](http://uscensusbureau.github.io/citysdk/guides/creatingModules.html) in their own github repository and make it [accessible to the broader community](http://uscensusbureau.github.io/citysdk/gallery.html).
 
@@ -63,7 +63,7 @@ These are all the features in the initial CitySDK beta.
 
 On June 6th, 2015, there were two flagship events for CitySDK’s launch: one in Chicago and one in Washington, DC.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-372-City-SDK-Beta-launch-map.jpg" alt="600-x-372-City-SDK-Beta-launch-map" >}}
+{{< legacy-img src="2015/06/600-x-372-City-SDK-Beta-launch-map.jpg" alt="600-x-372-City-SDK-Beta-launch-map" >}}
 
 ## CitySDK in Chicago
 
@@ -77,7 +77,7 @@ The two CitySDK projects from Chicago were Purshable and TechSpaces.
 
 Purshable won 1st place in the [Center for Neighborhood Technology](http://www.cnt.org/) (CNT)’s [Urban Sustainability Apps Challenge](http://www.cntideas.com/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-372-City-SDK-Purshable-weekend-launch.jpg" alt="600-x-372-City-SDK-Purshable-weekend-launch" >}}
+{{< legacy-img src="2015/06/600-x-372-City-SDK-Purshable-weekend-launch.jpg" alt="600-x-372-City-SDK-Purshable-weekend-launch" >}}
 
 ### TechSpaces
 
@@ -85,7 +85,7 @@ The [TechSpaces](http://www.techspace.com/) project seeks to understand city inn
 
 This project placed second in CNT’s [Urban Sustainability Apps Challenge](http://www.cntideas.com/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-SDK-Techspaces.jpg" alt="600-x-373-City-SDK-Techspaces" >}}
+{{< legacy-img src="2015/06/600-x-373-City-SDK-Techspaces.jpg" alt="600-x-373-City-SDK-Techspaces" >}}
 
 ## CitySDK in Washington, DC
 
@@ -109,7 +109,7 @@ The five CitySDK projects from Washington, DC, were the Gender Disparity Map, DC
 
 This project uses the demographic and occupation data from the ACS, via CitySDK, to identify states with disproportionately large numbers of one gender representing a variety of S.T.E.M. related occupations.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-SDK-Gender-disparity-map-by-population.jpg" alt="600-x-373-City-SDK-Gender-disparity-map-by-population" >}}
+{{< legacy-img src="2015/06/600-x-373-City-SDK-Gender-disparity-map-by-population.jpg" alt="600-x-373-City-SDK-Gender-disparity-map-by-population" >}}
 
 ### DC Data Smoothie
 
@@ -117,7 +117,7 @@ This project uses the demographic and occupation data from the ACS, via CitySDK,
 
 They achieved this by creating a map that leverages CitySDK to send custom (DC BID) boundaries requests for all nested block-groups and displays the ACS data for the selected area(s).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-SDK-DC-Data-Smoothie.jpg" alt="600-x-373-City-SDK-DC-Data-Smoothie" >}}
+{{< legacy-img src="2015/06/600-x-373-City-SDK-DC-Data-Smoothie.jpg" alt="600-x-373-City-SDK-DC-Data-Smoothie" >}}
 
 ### Specialty EBiz
 
@@ -125,13 +125,13 @@ They achieved this by creating a map that leverages CitySDK to send custom (DC B
 
 They used ACS data, via CitySDK, to build a novel multi-step mapping algorithm, which allows the user to combine multiple ACS variables by filtering higher level and then nested geographies that contain different criteria.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-SDK-Specialty-EBiz.jpg" alt="600-x-373-City-SDK-Specialty-EBiz" >}}
+{{< legacy-img src="2015/06/600-x-373-City-SDK-Specialty-EBiz.jpg" alt="600-x-373-City-SDK-Specialty-EBiz" >}}
 
 ### Brick and Mortar
 
 This project used open data to maximize the number of customers who come through a company’s doors. They combined meetup information with ACS demographics from CitySDK to help businesses dynamically manage their operations based on their current open data indicators in their environment. For example, adjusting opening hours based on commute times, maximizing supplies based on meetups nearby, and increasing inventory based on community demographics.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-SDK-Brick-and-Mortar.jpg" alt="600-x-373-City-SDK-Brick-and-Mortar" >}}
+{{< legacy-img src="2015/06/600-x-373-City-SDK-Brick-and-Mortar.jpg" alt="600-x-373-City-SDK-Brick-and-Mortar" >}}
 
 ### Chicken Little
 
@@ -139,7 +139,7 @@ This project used open data to maximize the number of customers who come through
 
 The USDA hopes to distribute Chicken Little’s data to support small farmers in their efforts to protect their businesses.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-373-City-Chicken-Little-map.jpg" alt="600-x-373-City-Chicken-Little-map" >}}
+{{< legacy-img src="2015/06/600-x-373-City-Chicken-Little-map.jpg" alt="600-x-373-City-Chicken-Little-map" >}}
 
 ## Next Steps
 

@@ -40,7 +40,7 @@ Regulatory agencies that use our service—such as the [Securities and Exchange 
 
 See the SEC.gov sample search results page below, which shows inline results for three recently published notices related to NASDAQ.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-600-SEC-Federal-Register.jpg" alt="Securities and Exchange Commission search results page" >}}
+{{< legacy-img src="2014/09/600-x-600-SEC-Federal-Register.jpg" alt="Securities and Exchange Commission search results page" >}}
 
 ## How It Works
 

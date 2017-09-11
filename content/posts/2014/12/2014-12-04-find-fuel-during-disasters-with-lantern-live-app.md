@@ -13,7 +13,7 @@ tag:
   - United States Department of Energy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Who to call? Where to meet? What to pack?
+{{< legacy-img src="2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Who to call? Where to meet? What to pack?
 
 How to find fuel?
 

@@ -1,7 +1,7 @@
 ---
 date: 2016-10-20 11:00:41 -0400
 title: Announcing the Digital Acquisition Accelerator Playbook
-summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-272-screen-capture-Digital-Acquisition-Accelerator-homepage.jpg" alt="Screen capture of'
+summary: 'Built on the lessons learned during the pilot phase of the Digital Acquisitions Accelerator, the accompanying playbook examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services. {{< legacy-img src="2016/10/600-x-272-screen-capture-Digital-Acquisition-Accelerator-homepage.jpg" alt="Screen capture of'
 authors:
   - duane-rollins
 categories:
@@ -23,7 +23,7 @@ tag:
 
 Built on the lessons learned during the pilot phase of the [Digital Acquisitions Accelerator](https://pages.18f.gov/digitalaccelerator/), the accompanying [playbook](https://pages.18f.gov/digital-acquisition-playbook/) examines the current acquisition landscape and provides an approach to procuring custom software solutions. Our goal is to make the government a smarter and more informed buyer of digital products and services.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-272-screen-capture-Digital-Acquisition-Accelerator-homepage.jpg" alt="Screen capture of the Digital Acquisition Accelerator homepage." >}}
+{{< legacy-img src="2016/10/600-x-272-screen-capture-Digital-Acquisition-Accelerator-homepage.jpg" alt="Screen capture of the Digital Acquisition Accelerator homepage." >}}
 
 The playbook has four main sections:
 
@@ -38,4 +38,4 @@ There’s a lot to learn about digital acquisitions and more of it’s being def
 
 In short, this is a living playbook that should be refined over time based on all of our collective experiences. Since the [playbook](https://pages.18f.gov/digital-acquisition-playbook/) is live on GitHub, you can directly suggest edits or improvements by making a [pull request or filing an issue](https://github.com/18F/digital-acquisition-playbook). Let’s work together to pool our collective knowledge of the digital acquisition landscape into this playbook to make it more useful for everyone.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-333-Screen-capture-Digital-Acquisition-Playbook-homepage.jpg" alt="Screen capture of the Digital Acquisition Playbook homepage." >}}
+{{< legacy-img src="2016/10/600-x-333-Screen-capture-Digital-Acquisition-Playbook-homepage.jpg" alt="Screen capture of the Digital Acquisition Playbook homepage." >}}

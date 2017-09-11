@@ -13,7 +13,7 @@ tag:
   - White House
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="The Challenge dot gov logo" >}}
+{{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="The Challenge dot gov logo" >}}
 
 This week the White House Office of Science and Technology Policy released its second <a title="2012 COMPETES report to congress" href="http://www.whitehouse.gov/blog/2013/12/17/continued-progress-engaging-citizen-solvers-through-prizes" target="_blank">comprehensive report detailing the use of federal challenge and prize competitions</a>.
 

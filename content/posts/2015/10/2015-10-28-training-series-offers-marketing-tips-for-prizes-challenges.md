@@ -15,7 +15,7 @@ tag:
   - US Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}
+{{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}
 
 Marketing and public education is an essential part of any successful prize competition.
 

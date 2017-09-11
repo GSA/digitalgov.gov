@@ -13,7 +13,7 @@ tag:
   - YouTube
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-337-Matt-and-Mike-Awkward-Restaurant-Moment-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Awkward Restaurant Moment" >}}
+{{< legacy-img src="2015/08/600-x-337-Matt-and-Mike-Awkward-Restaurant-Moment-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Awkward Restaurant Moment" >}}
 
 For millions of Americans, federal student loans have made it possible to get a college education. For many, moving forward after college can become an overwhelming challenge. In 2014, the Department of Education had 41 million borrowers and a loan portfolio of $1.1 trillion. The stat alone speaks to the issue of loan repayment and its magnitude in our country. To make the repayment process easier, the U.S. Department of Education’s office of Federal Student Aid (FSA) runs campaigns that are meant to inform borrowers about the repayment options available to them.
 
@@ -51,7 +51,7 @@ The Matt and Mike video series has been a great way to improve awareness about t
 
 “They’re fun!,” said Callahan. “The things Mike does are outlandish, but relatable at the same time. There probably aren’t many people who recycle the milk from their cereal or get a pet alpaca so they can make their own socks, but the concept, cutting corners to save a few dollars, is something all of us can relate to. The message we’re trying to drive with these videos is that your student loans don’t have to stop you from living your life.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-337-Matt-and-Mike-Community-Cereal-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Community Cereal" >}}
+{{< legacy-img src="2015/08/600-x-337-Matt-and-Mike-Community-Cereal-video-FSA-FAFSA-Using-a-Data-Driven-Marketing-Campaign-to-Inform-Your-Audience.jpg" alt="Video screenshot from Matt and Mike ad for Community Cereal" >}}
 
 In addition to views from the video series, the campaign garnered more than 66 million impressions, drove more than 68,000 social media engagements, increased FSA’s social media community by more than 12,000, and drove almost 700,000 visitors to their websites.
 

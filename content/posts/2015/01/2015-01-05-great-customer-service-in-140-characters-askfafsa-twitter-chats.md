@@ -14,7 +14,7 @@ tag:
   - VA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/560-x-624-AskFAFSA-Twitter-Aug-2014.jpg" alt="560 x 624 AskFAFSA Twitter Aug 2014" >}}
+{{< legacy-img src="2014/12/560-x-624-AskFAFSA-Twitter-Aug-2014.jpg" alt="560 x 624 AskFAFSA Twitter Aug 2014" >}}
 
 As agencies strive for success in digital government, they often need to open their virtual doors and meet the public in new and evolving spaces. [Federal Student Aid](https://studentaid.ed.gov/) meets its audience in the 21st century public square at monthly #AskFAFSA sessions.
 
@@ -30,7 +30,7 @@ In [November](https://storify.com/FAFSA/november-2014), SMEs from the Department
 
 The Digital Engagement Team uses Google spreadsheets to track questions, assign roles, and document responses for each chat. There are typically five or six people involved in each chat, and the spreadsheet helps keep everyone organized, said Sandra Vuong, Digital Engagement Strategist for Federal Student Aid. She said that the spreadsheet also helps the team create their Storify stories.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/496-x-452-AskFAFSA-Twitter-Dec-2014.jpg" alt="496-x-452-AskFAFSA-Twitter-Dec-2014" >}}
+{{< legacy-img src="2014/12/496-x-452-AskFAFSA-Twitter-Dec-2014.jpg" alt="496-x-452-AskFAFSA-Twitter-Dec-2014" >}}
 
 #AskFAFSA questions are accepted starting on the Monday before each chat. This allows the staff to kickstart the conversation when the live chat begins. The Digital Engagement Team also looks at Twitter for back-up questions: Questions people are asking about student loans but are not directing to the @FAFSA account. Vuong shared tips for finding back-up questions from keyword searches.
 
@@ -48,7 +48,7 @@ Including outside SME guests also helps to increase the visibility and utility o
 
 ## Investing Time
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-450-AskFAFSA-1.jpg" alt="600-x-450-AskFAFSA-1" >}}
+{{< legacy-img src="2014/12/600-x-450-AskFAFSA-1.jpg" alt="600-x-450-AskFAFSA-1" >}}
 
 One of the challenges of #AskFAFSA is the time investment, Vuong said. Because #AskFAFSA is a monthly event, it can add extra pressure to busy times of the year. Staff limitations are another constraint. The four-person Digital Engagement Team does not have a metrics specialist, so each person works on a piece of analytics. Regardless of the challenges, Vuong said, the effort is worth it.
 

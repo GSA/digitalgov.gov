@@ -20,7 +20,7 @@ tag:
   - usability case study
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 
+{{< legacy-img src="2015/05/450-x-450-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-480113703.jpg" alt="Examples of responsive web design are shown on illustrations of a tablet and smart phone" caption="" >}} 
 
 Smartphones make up 75% of the mobile market—which makes [mobile-friendliness a must]({{< relref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}}) for government agencies. With the recent update to Google’s search algorithm, or what some are calling [Mobilegeddon]({{< relref "2015-04-15-mobilegeddon-government-edition.md" >}}), the case for building a mobile-friendly site becomes even stronger.
 
@@ -58,7 +58,7 @@ Agencies discuss the challenges faced when implementing RWD, including making a 
 
 ## **Responsive Web Design Case Studies**
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
+{{< legacy-img src="2015/04/250-x-444-Search-engine-results-indicating-that-an-NPS-park-website-is-mobile-friendly.jpg" alt="Search engine results indicating that an NPS park website is mobile-friendly" >}}From building the case for RWD to working through procurement cycles, we have a number of case studies showing how agencies implemented RWD.
 
   * DFAS made a case for switching to RWD when [they saw their mobile usage rates increasing at the same time the site’s bounce rate was also increasing]({{< relref "2014-10-21-responsive-web-design-challenges-webinar-recap.md" >}}), signifying that more people were coming from mobile devices and leaving quickly when they had trouble finding the information they were looking for. DFAS then [utilized the responsive template code developed by HHS to make mobile-friendly data tables]({{< relref "2014-12-11-defense-finance-accounting-services-use-hhs-code-to-make-mobile-friendly-tables.md" >}}).
 

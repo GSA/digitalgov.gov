@@ -18,7 +18,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-316-Usability-concept-in-tag-cloud-rafal_olechowski-iStock-Thinkstock-468906877.jpg" alt="Usability concept in tag cloud" caption="" >}} 
 
 This past year DigitalGov University has hosted at least one Usability event per month and we thought we&#8217;d give you a round-up of those events. After all, November 13th was [World Usability Day]({{< relref "2014-11-13-world-usability-day-engagement.md" >}} "World Usability Day 2014 theme: Engagement").
 

@@ -18,7 +18,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}
+{{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}
 
 Why does a Cancer institute need a User Experience lab?
 
@@ -32,7 +32,7 @@ Their new lab, officially called the Audience Research and Informatics Laborator
 
 It’s their second lab—the first was built in 2002, but when they moved to the Medical Centre on the Shady Grove Campus, a new one was needed. In addition, the equipment in the old lab was outdated and many components simply did not work. For example, the audio completely malfunctioned, cutting observers off from crucial feedback.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-2-Group-Using-Interpretation-Equipment.jpg" alt="Groups using live interpretation devices for a multi-language test" >}}
+{{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-2-Group-Using-Interpretation-Equipment.jpg" alt="Groups using live interpretation devices for a multi-language test" >}}
 
 The new lab sports a large LCD screen with four desktop screen sharing, and a separate room for the facilitator to observe the ongoing studies. From there, observers also can watch without interrupting via a one-way mirror. They are able to conduct UX research in multiple languages, including Spanish, thanks to simultaneous interpretation devices. The room’s tech specs can be changed with a press of a button depending on what types of user needs they are researching that day.
 

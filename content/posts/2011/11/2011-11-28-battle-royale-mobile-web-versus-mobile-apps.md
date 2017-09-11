@@ -15,7 +15,7 @@ tag:
   - US Department of Labor
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2011/11/250-x-167-Stuart-Barr\_Fighting-Topis\_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo from flickr of two Topis (antelopes) fighting, head-butting each other" caption="" >}} 
+{{< legacy-img src="2011/11/250-x-167-Stuart-Barr\_Fighting-Topis\_Nov17th2008_Creative-Commons-BY-NC-SA-2.jpg" alt="A photo from flickr of two Topis (antelopes) fighting, head-butting each other" caption="" >}} 
 
 When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221;
 

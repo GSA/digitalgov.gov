@@ -26,7 +26,7 @@ People have worked on big tasks like developing a [mobile code sharing catalog](
 
 Now you’re probably thinking, “Why would my agency let me spend time working on projects for other agencies?” Your agency wins by learning from other agencies, developing staff talent, and helping build a more collaborative and innovative 21st century government.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" >}}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
+{{< legacy-img src="2014/06/250-x-170-open-opps-video-start.jpg" alt="250-x-170-open-opps-video-start" >}}So, with Open Opportunities we all win: you, your agency, the agency you completed the task for, and all of government.
 
 Be sure to check out [how it works]({{< relref "how-open-opportunities-works.md" >}}), sign up and learn about the work Open Opportunities innovators are doing, and the benefits that participants and their agencies gain.
 

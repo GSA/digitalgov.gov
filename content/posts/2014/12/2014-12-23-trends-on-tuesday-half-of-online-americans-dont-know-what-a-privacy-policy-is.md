@@ -20,7 +20,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-226-Online-privacy-tupungato-iStock-Thinkstock-482992487.jpg" alt="Word cloud about online privacy" caption="" >}} 
 
 Federal agencies are required by law ([see the list of applicable ones here]({{< relref "checklist-of-requirements-for-federal-digital-services.md#PImngmnt" >}})) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data.
 

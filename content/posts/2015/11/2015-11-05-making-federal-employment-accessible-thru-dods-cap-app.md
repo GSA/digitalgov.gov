@@ -23,7 +23,7 @@ tag:
 
 However, the real question is: how do we create a comfortable work environment that provides equal access and growth opportunities for all?
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-512-CAP-Mobile-App-iPhone-home-menu-and-solutions-screens.jpg" alt="The home menu and solutions screens from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}
+{{< legacy-img src="2015/11/600-x-512-CAP-Mobile-App-iPhone-home-menu-and-solutions-screens.jpg" alt="The home menu and solutions screens from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}
 
 The Department of Defense&#8217;s Computer/Electronic Accommodations Program (CAP) created a free app that is available for download at the [iTunes App Store](https://itunes.apple.com/us/app/cap-mobile-app/id543280345?) and [Google Play](https://play.google.com/store/apps/details?id=mil.cap.capapp).
 
@@ -31,7 +31,7 @@ The CAP mobile app allows people to use their mobile devices to look up informat
 
 You can use this app to learn about a variety of accommodation solutions. The solutions describe in detail smart phone accessibility features and lead you to other useful mobile apps and self-help tools. For example, there are tools that allow you to recognize and rate your level of anxiety, and the [Breathe2Relax app]({{< relref "2015-06-25-using-apps-for-mental-healthcare.md" >}}) teaches stress-reducing breathing techniques.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}The app includes many useful features such as:
+{{< legacy-img src="2015/11/250-x-444-CAP-Mobile-App-iPhonevideos-screen.jpg" alt="The videos screen from the Computer Electronic Accommodations Program (CAP) mobile iPhone app" >}}The app includes many useful features such as:
 
   * A running tally of accommodations provided to federal employees
   * News and tips on the latest assistive technologies

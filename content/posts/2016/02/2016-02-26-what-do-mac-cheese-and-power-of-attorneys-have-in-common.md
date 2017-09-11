@@ -26,7 +26,7 @@ Example: [Kraft Recall of Macaroni and Cheese Boxed Dinners](http://content.govd
   * Support a marketing campaign
   * Drive traffic to timely content on our websites
   * Promote social media chats or events
-  * Amplify information or alerts on behalf of other government agencies {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-425-Email-concept-with-mailbox-adempercem-iStock-Thinkstock-499594960.jpg" alt="Email concept with mailbox" caption="" >}} 
+  * Amplify information or alerts on behalf of other government agencies {{< legacy-img src="2016/02/600-x-425-Email-concept-with-mailbox-adempercem-iStock-Thinkstock-499594960.jpg" alt="Email concept with mailbox" caption="" >}} 
 
 With every e-mail, a lot of consideration goes into the draft, quality and purpose of why we’re sending a particular communication.
 

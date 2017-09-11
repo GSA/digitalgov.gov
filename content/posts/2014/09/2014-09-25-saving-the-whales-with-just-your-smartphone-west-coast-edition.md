@@ -12,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
+{{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
 
 Saving the whales just got easier for West Coasters with the [latest version](https://itunes.apple.com/us/app/whale-alert-reducing-ship/id911035973?ls=1&mt=8.) of the [popular Whale Alert app]({{< relref "2013-07-25-noaas-whale-alert-ship-strike-reduction-for-right-whales-app.md" >}}).
 

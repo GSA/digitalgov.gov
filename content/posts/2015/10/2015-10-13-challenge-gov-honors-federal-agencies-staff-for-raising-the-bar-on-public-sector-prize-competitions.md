@@ -22,7 +22,7 @@ tag:
   - USAID
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3953.jpg" alt="Audience" caption="" >}} 
+{{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3953.jpg" alt="Audience" caption="" >}} 
 
 The biggest advocates for the use of challenges in the public sector gathered at the General Services Administration (GSA) headquarters, October 8, to acknowledge the remarkable rise of a community that has grown steadily in number and influence over the past five years.
 
@@ -30,13 +30,13 @@ More than 300 federal employees representing agencies spanning government attend
 
 “It is clear that open innovation is here to stay,” said Kelly Olson, director of the Challenge.gov program. “Incentivized challenges and competitions are changing the way we do business and expanding across federal agencies with sponsorship and support from the senior-most levels of government.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3763.jpg" alt="600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3763" >}}
+{{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3763.jpg" alt="600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-3763" >}}
 
 Managed by GSA, Challenge.gov serves both as the official listing of challenges and competitions across government as well as a centralized platform for federal agencies to market and manage their problem-solving events.
 
 Since going online in 2010, more than 80 federal agencies have run nearly 500 challenges with over $150 million in prizes. But the success of the program derives, in large part, from the agencies and personnel who first tested its waters and later advocated for its expanded use.
 
-With the public’s participation, the U.S. government developed strategies to better predict the timing, peak and intensity of flu outbreaks; aid first responders in detecting gunfire and locating active shooters; devise solar-powered technologies to desalinate and disinfect water for use in rural areas and developing countries; assist human trafficking survivors with locating resources and shelters, and much more. (See a sample of prize competition [success stories](https://www.challenge.gov/success-stories/).) {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-0525.jpg" alt="Expo" caption="" >}} 
+With the public’s participation, the U.S. government developed strategies to better predict the timing, peak and intensity of flu outbreaks; aid first responders in detecting gunfire and locating active shooters; devise solar-powered technologies to desalinate and disinfect water for use in rural areas and developing countries; assist human trafficking survivors with locating resources and shelters, and much more. (See a sample of prize competition [success stories](https://www.challenge.gov/success-stories/).) {{< legacy-img src="2015/10/600-x-400-Oct8th2015\_GSAAwards\_PhotoByEllieVanHoutte-0525.jpg" alt="Expo" caption="" >}} 
 
 “These people, these stories and this program have enabled federal agencies to engage civic innovators and entrepreneurs to help carry out agency missions and benefit society,” Olson said.
 
@@ -70,4 +70,4 @@ In all, Challenge.gov presented nearly 50 awards recognizing individuals, agenci
 
 The awards came a day after the White House officials renewed their commitment to the 2009 Strategy for American Innovation and [announced the kickoff](https://www.whitehouse.gov/blog/2015/10/06/celebrating-five-year-anniversary-challengegov-more-20-new-prizes) of more than 20 new prize competitions across the public and private sectors.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}
+{{< legacy-img src="2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}

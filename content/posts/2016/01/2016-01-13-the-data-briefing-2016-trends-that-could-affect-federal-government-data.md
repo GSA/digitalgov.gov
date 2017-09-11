@@ -15,11 +15,11 @@ tag:
 
 Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions:
 
-**1) The Internet of Things**—The number of devices that can connect to the Internet increases, especially in consumer electronics. Also, the number of sensors will dramatically increase providing more real-time data on weather, electrical power usage, and similar data. The number of devices connected to the Internet is projected to exceed the number of human Internet visitors. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-2016-Start-Two-Thousand-Sixteen-Olivier-Le-Moal-iStock-Thinkstock-493868530.jpg" alt="A 2016 start button." caption="" >}} 
+**1) The Internet of Things**—The number of devices that can connect to the Internet increases, especially in consumer electronics. Also, the number of sensors will dramatically increase providing more real-time data on weather, electrical power usage, and similar data. The number of devices connected to the Internet is projected to exceed the number of human Internet visitors. {{< legacy-img src="2016/01/600-x-400-2016-Start-Two-Thousand-Sixteen-Olivier-Le-Moal-iStock-Thinkstock-493868530.jpg" alt="A 2016 start button." caption="" >}} 
 
 **2) Embedded Intelligence—**As computer chips become more powerful and smaller, it is easier to embed microchips into everyday devices. Think of the wearables that people have to monitor their physical fitness goals. Not only will embedded intelligence devices produce data, but the devices will also consume great quantities of data.
 
-**3) Machine Learning—**Just recently, scientists developed an <a href="http://www.sciencealert.com/scientists-have-developed-an-algorithm-that-learns-as-quickly-as-humans" target="_blank">algorithm that allowed a computer to learn as fast as a human</a>. As the ability to produce data has grown much faster than the ability to analyze the data, gaining insights from the big datasets may require humans working with intelligent algorithms. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-Retro-robot-reading-a-book-Isolated-Contains-clipping-path-Kirillm-iStock-Thinkstock-496956852.jpg" alt="Retro robot sitting on a pile of books, reading a book." caption="" >}} 
+**3) Machine Learning—**Just recently, scientists developed an <a href="http://www.sciencealert.com/scientists-have-developed-an-algorithm-that-learns-as-quickly-as-humans" target="_blank">algorithm that allowed a computer to learn as fast as a human</a>. As the ability to produce data has grown much faster than the ability to analyze the data, gaining insights from the big datasets may require humans working with intelligent algorithms. {{< legacy-img src="2016/01/600-x-400-Retro-robot-reading-a-book-Isolated-Contains-clipping-path-Kirillm-iStock-Thinkstock-496956852.jpg" alt="Retro robot sitting on a pile of books, reading a book." caption="" >}} 
 
 **4) Blockchain technologies—**Blockchain is the technology behind BitCoin. <a href="https://en.wikipedia.org/wiki/Block_chain_%28database%29" target="_blank">Essentially, a blockchain is a way to record transactions in an open and tamperproof register</a>. The advantage of blockchain is that it automates “trust” for all parties involved in a transaction. Blockchain technologies are helping to spur the rise of <a href="https://en.wikipedia.org/wiki/Decentralized_autonomous_organization" target="_blank">decentralized autonomous corporations (DACs)</a>.
 
@@ -32,13 +32,13 @@ The federal government is also a major producer of data. As I wrote about in pre
 <table style="border: 0 none white;border-spacing: 0;padding: 0;margin-bottom: 0;width: 250px;border-collapse: separate" border="0" align="right">
   <tr>
     <td style="border-style: none">
-      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/250-x-141-siri.gif" alt="Animated gif of Siri" >}}
+      {{< legacy-img src="2016/01/250-x-141-siri.gif" alt="Animated gif of Siri" >}}
     </td>
   </tr>
   
   <tr>
     <td style="border-style: none">
-      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/250-x-188-cortana.gif" alt="Animated gif of Cortana" >}}
+      {{< legacy-img src="2016/01/250-x-188-cortana.gif" alt="Animated gif of Cortana" >}}
     </td>
   </tr>
 </table>

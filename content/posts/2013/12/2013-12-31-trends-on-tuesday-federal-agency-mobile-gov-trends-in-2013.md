@@ -31,7 +31,7 @@ tag:
   - UX
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Gov-Apps.png" alt="Gov Apps" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Gov-Apps.png)Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.
+[{{< legacy-img src="2014/01/Gov-Apps.png" alt="Gov Apps" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Gov-Apps.png)Today we want to tell you about the federal agency trends we saw this year in the development of public facing mobile products.
 
 **Digital Government Strategy drove Mobile Gov Development** [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#milestone-6-2) milestone 7.2 required agencies to implement two public facing mobile products in May. The White House [highlighted these agency mobile product implementations](http://www.whitehouse.gov/digitalgov/mobile).
 

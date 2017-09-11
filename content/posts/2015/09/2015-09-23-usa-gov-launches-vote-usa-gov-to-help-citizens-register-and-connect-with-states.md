@@ -11,7 +11,7 @@ tag:
   - usa.gov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}
+{{< legacy-img src="2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}
 
 One of the most important rights of American citizens is the right to vote. It is the foundation of our democracy, and in many ways, the basis of our government. This is why the team at USA.gov is excited to announce the launch of [vote.USA.gov](https://vote.usa.gov/).
 

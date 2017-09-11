@@ -24,7 +24,7 @@ I first came across the redesigned IdentityTheft.gov on Reddit, of all places. S
 
 > I hope this never happens to any of you as the entire thing can be really stressful. The identitytheft.gov website is a true breath of fresh air&#8230;You can talk to an actual person. They also have this extremely easy wizard to click through your situation and it will auto-generate a &#8220;Recovery Plan&#8221; including dispute letters, steps to contact law enforcement, putting credit freezes, and basically protecting yourself. It also explains your rights pretty well too.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-273-18f-identitytheft-home.jpg" alt="The homepage of identitytheft.gov" >}}
+{{< legacy-img src="2016/06/600-x-273-18f-identitytheft-home.jpg" alt="The homepage of identitytheft.gov" >}}
 
 I visited the site, and completely agreed. Not only was IdentityTheft.gov well-written and easy to understand, it was also clearly designed with end users in mind: the site takes people through a series of clear, well-designed steps that ensure they’ve completed the necessary steps if they are the victims of identity theft.
 
@@ -50,7 +50,7 @@ However, to serve our primary audience well we had to focus, and not try to spea
 
 **JS and NF:** We introduced checklists in our previous iteration of identity theft guidance in 2012 — a print booklet and series of articles on [consumer.ftc.gov](http://consumer.ftc.gov/). So using checklists to help users is not new for us. But I can elaborate on why we use them.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-228-18f-identitytheftgov-checklist.jpg" alt="An example checklist from identitytheft.gov" >}}
+{{< legacy-img src="2016/06/600-x-228-18f-identitytheftgov-checklist.jpg" alt="An example checklist from identitytheft.gov" >}}
 
 The recovery process for an identity theft victim can vary a lot and include many tasks. We wanted a format for people using the site that was easy-to-follow. We wanted to shift the situation from a person feeling totally overwhelmed to feeling in control and that the steps are doable because we’ve laid them out in a step-by-step plan. People use checklists all the time. They’re familiar and give people a sense of agency. They also show progress. It feels good to check items off the list.
 
@@ -75,13 +75,13 @@ We also paid attention to potential areas of confusion when we did usability tes
 
 One feature that people have been really excited about is the ability to create letters to send to credit bureaus, businesses, and debt collectors. It takes the guesswork out of the letter writing process.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-630-identitytheftgov-letter.jpg" alt="A template letter that users can send to credit reporting agencies." >}}
+{{< legacy-img src="2016/06/600-x-630-identitytheftgov-letter.jpg" alt="A template letter that users can send to credit reporting agencies." >}}
 
 We’ve also heard from a lot of victim advocates and local law enforcement, who say that they feel confident sending people to IdentityTheft.gov, knowing that the site will help them.
 
 **MK: I really like the bar at the top, which basically tells people which phase of the project they’re in. It reminds me of something I read in the Federal Front Door [research report](https://labs.usa.gov/#research-report), which is that people want transparency into government processes. How did you think about design elements and topics like transparency?**
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-71-identitytheftgov-steps.jpg" alt="A graphic element of identitytheft.gov that shows users where they are in in a series of six labeled steps." >}}
+{{< legacy-img src="2016/06/600-x-71-identitytheftgov-steps.jpg" alt="A graphic element of identitytheft.gov that shows users where they are in in a series of six labeled steps." >}}
 
 **JS and NF:** We tried to set proper expectations at each turn for our users. For example, there’s [a page](https://www.identitytheft.gov/Information) right before you jump into the detailed questions that explains that the answers will be used to build your Identity Theft Affidavit and your personal recovery plan. These are the two main tools we provide on the site to help victims recover from identity theft. We wanted people to know why they were answering questions and what they were going to get at the end of it. In the recovery plan, we included additional information in expandable note boxes, in case users didn’t understand why we were recommending certain steps to them.
 
@@ -105,4 +105,4 @@ After both test cycles, we were able to make quick responsive changes to content
 
 **JS and NF:** Yes, the total number of identity theft reports we receive has increased and the method of reporting has shifted more to the website, rather than phone. We also have a healthy portion of reports being submitted on mobile devices, which wasn’t possible before.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-211-identitytheftgov-users.jpg" alt="Two pie charts that show the percentage of users reporting their identity theft online has grown from 39 percent before the launch to 68 percent post launch, including 15 percent on mobile devices." >}}_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer._
+{{< legacy-img src="2016/06/600-x-211-identitytheftgov-users.jpg" alt="Two pie charts that show the percentage of users reporting their identity theft online has grown from 39 percent before the launch to 68 percent post launch, including 15 percent on mobile devices." >}}_This post was originally published on the [18F blog](https://18f.gsa.gov/blog/) by Melody Kramer._

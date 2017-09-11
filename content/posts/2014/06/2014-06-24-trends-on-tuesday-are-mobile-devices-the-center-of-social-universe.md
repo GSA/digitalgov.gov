@@ -24,7 +24,7 @@ tag:
   - USDA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-600-Background-social-TCmake_photo-iStock-Thinkstock-185175604.jpg" alt="A swirling social media universe" caption="" >}} 
 
 Mobile devices are moving closer to the center of the social universe, according to this [Sproutsocial](http://sproutsocial.com/insights/trends-2014-social-mobile-synonymous-now-heres/) article.
 

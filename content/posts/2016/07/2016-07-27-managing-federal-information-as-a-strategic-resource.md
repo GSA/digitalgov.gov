@@ -22,7 +22,7 @@ tag:
 
 > **Summary**: Today, OMB is releasing an update to Circular A-130, the Federal Government’s governing document for the management of Federal information resources.
 
-Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government’s governing document for the management of Federal information resources: [_Circular A-130, Managing Information as a Strategic Resource_](https://s3.amazonaws.com/public-inspection.federalregister.gov/2016-17872.pdf). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-USA-Digital-Map-charcoa1-iStock-Thinkstock-153126897.jpg" alt="USA Digital Map" caption="" >}} 
+Today the Office of Management and Budget (OMB) is releasing an update to the Federal Government’s governing document for the management of Federal information resources: [_Circular A-130, Managing Information as a Strategic Resource_](https://s3.amazonaws.com/public-inspection.federalregister.gov/2016-17872.pdf). {{< legacy-img src="2016/07/600-x-425-USA-Digital-Map-charcoa1-iStock-Thinkstock-153126897.jpg" alt="USA Digital Map" caption="" >}} 
 
 The way we manage information technology (IT), security, data governance, and privacy has rapidly evolved since A-130 was last updated in 2000. In today’s digital world, we are creating and collecting large volumes of data to carry out the Federal Government’s various missions to serve the American people. This data is duplicated, stored, processed, analyzed, and transferred with ease. As government continues to digitize, we must ensure we manage data to not only keep it secure, but also allow us to harness this information to provide the best possible service to our citizens.
 
@@ -34,7 +34,7 @@ Today’s update to Circular A-130 gathers in one resource a wide range of polic
 
 This update to Circular A-130 underpins many of the policies and technological advances the Federal Government has undergone thus far. And it reflects the extensive thoughts and [feedback](https://www.whitehouse.gov/blog/2015/10/20/modernizing-federal-information-policy) of the public and stakeholders across government and industry. Going forward, A-130 will continue to be the foundation for government’s ability to innovate, service its citizens, and further secure our nation’s valuable data and information.
 
-Find out more about the revised and updated A-130 Circular via the fact sheet below._Tony Scott is the U.S. Chief Information Officer_._Howard Shelanski is the Administrator of the Office of Information and Regulatory Affairs_._Anne Rung is the U.S. Chief Acquisition Officer_._Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}} 
+Find out more about the revised and updated A-130 Circular via the fact sheet below._Tony Scott is the U.S. Chief Information Officer_._Howard Shelanski is the Administrator of the Office of Information and Regulatory Affairs_._Anne Rung is the U.S. Chief Acquisition Officer_._Marc Groman is the Senior Advisor for Privacy at the Office of Management and Budget_. {{< legacy-img src="2015/07/600-x-314-USA-Flag-on-Button-of-Black-Keyboard-Tashatuvango-iStock-Thinkstock-459372745.jpg" alt="American Flag on button of black keyboard" caption="" >}} 
 
 <div>
   <h2 class="rtecenter">

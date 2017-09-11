@@ -21,7 +21,7 @@ tag:
 
 The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and <strong class="markup--strong markup--p-strong">technology</strong> is the key to that.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/03/600-x-283-GSA-blog-abstract-blog-848x400.jpg" alt="Abstract technology background." >}}
+{{< legacy-img src="2017/03/600-x-283-GSA-blog-abstract-blog-848x400.jpg" alt="Abstract technology background." >}}
 
 ### TECHNOLOGY IS NOT PARTISAN
 

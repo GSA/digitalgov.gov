@@ -1,7 +1,7 @@
 ---
 date: 2015-09-04 13:00:18 -0400
 title: How the CIO Council Made Our Open Data Prioritization Tool Kit More Open
-summary: '{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on'
+summary: '{{< legacy-img src="2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on'
 authors:
   - cio-council-operations-staff
 categories:
@@ -11,7 +11,7 @@ tag:
   - open data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on their unique requirements." >}}
+{{< legacy-img src="2015/09/594-x-347-CIO-Open-Data-Prioritization-Toolkit-figure-1.jpg" alt="Shown in Figure 1, the Open Data Prioritization Toolkit is categorized into phases of understanding, evaluating, and opening datasets. It also shows alignment to support tools designed to help your agency throughout each phase. The provided tools are sample templates to guide agencies as they examine datasets and customize them based on their unique requirements." >}}
 
 A few weeks ago the Council’s Innovation Committee released the [Open Data Prioritization Toolkit](https://cio.gov/cio-council-releases-open-data-prioritization-toolkit/). The response to the toolkit has been positive, but we also heard back from the community asking why the Open Data toolkit’s summary was locked up in a non-open format—PDF.
 

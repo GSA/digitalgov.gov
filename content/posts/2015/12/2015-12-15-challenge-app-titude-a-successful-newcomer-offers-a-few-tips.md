@@ -16,7 +16,7 @@ tag:
   - NIST
 ---
 
-The [Reference Data Challenge](http://nistdata.devpost.com/), launched this summer, was a call for innovative approaches to a long-standing role of the National Institute of Standards and Technology ([NIST](http://www.nist.gov/)) to make “critically evaluated reference data available to scientists, engineers and the general public.” {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Robot-lamp-working-on-a-laptop-Grassetto-iStock-Thinkstock-451536897.jpg" alt="Robot with an idea light bulb for a head working on a laptop" caption="" >}} 
+The [Reference Data Challenge](http://nistdata.devpost.com/), launched this summer, was a call for innovative approaches to a long-standing role of the National Institute of Standards and Technology ([NIST](http://www.nist.gov/)) to make “critically evaluated reference data available to scientists, engineers and the general public.” {{< legacy-img src="2015/12/600-x-400-Robot-lamp-working-on-a-laptop-Grassetto-iStock-Thinkstock-451536897.jpg" alt="Robot with an idea light bulb for a head working on a laptop" caption="" >}} 
 
 This challenge—our first-ever app contest and second prize competition as an agency—had the dual aims of improving awareness about and usability of our data. We invited submissions of mobile apps that used at least one of six eligible NIST datasets. We made sure all of the data was available in machine readable format (JSON) on Data.gov and also directed participants to the existing NIST websites where we were already making the datasets accessible.
 
@@ -26,7 +26,7 @@ But the app challenge was a labor of (mostly) love that was part of my broader s
 
 So how’d we do? I would say it was a success! When the submission period ended, we had 25 entries. I think that’s great considering we ran a short two-month contest, and we only provided JSON files—not APIs (that’s coming soon). The entries showcased creativity and hard work. My favorite part was watching the short videos that were required as part of the entry—you can view them in the [submission gallery](http://nistdata.devpost.com/submissions). They really give a flavor of the range of our developer entrants.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-210-NIST-Reference-Data-Challenge-top-3-winners.jpg" alt="Screen capture of a section of the NIST Reference Data Challenge homepage showing the top 3 winners." >}}
+{{< legacy-img src="2015/12/600-x-210-NIST-Reference-Data-Challenge-top-3-winners.jpg" alt="Screen capture of a section of the NIST Reference Data Challenge homepage showing the top 3 winners." >}}
 
 Many entrants were students already familiar with scientific data, but others were hobbyist app developers or companies. The first-place winner started his own company, Meru Apps, and is using his $30,000 prize to continue [developing his app](https://play.google.com/store/apps/details?id=com.meruapps.merulabworks.client). The second-place entry, [LabPal](https://play.google.com/store/apps/details?id=danandzach.labpal&hl=en), was built by two college students with a love of scientific data and the third-place entry, [ChemBook](http://devpost.com/software/chembook-5p7kxd), was developed by MetroStar Systems, an IT consulting firm in Reston, Virginia.
 

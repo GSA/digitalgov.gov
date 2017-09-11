@@ -15,7 +15,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-331-Three-ABMC-app-home-screens.jpg" alt="A composite of screenshots of homescreens for three American Battle Monuments Commission (ABMC) apps: Flanders Field American Cemetery, Meuse-Argonne American Cemetery, and Sicily-Rome American Cemetery and Memorial." >}}
+{{< legacy-img src="2015/08/600-x-331-Three-ABMC-app-home-screens.jpg" alt="A composite of screenshots of homescreens for three American Battle Monuments Commission (ABMC) apps: Flanders Field American Cemetery, Meuse-Argonne American Cemetery, and Sicily-Rome American Cemetery and Memorial." >}}
 
 The </span>[<span style="font-weight: 400">American Battle Monuments Commission</span>](https://www.abmc.gov/) <span style="font-weight: 400">(ABMC) released three new mobile apps this summer to honor fallen veterans in overseas cemeteries in Belgium, France and Italy.</p> 
 
@@ -24,7 +24,7 @@ The </span>[<span style="font-weight: 400">American Battle Monuments Commission<
   
   <ul>
     <li style="font-weight: 400">
-      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-445-Sicily-Rome_ABMC-app-personal-story.jpg" alt="Screenshot of the personal story of Alwayne M. Dunlap, Second Lieutenant, U.S. Army Air Forces, from the Sicily-Rome American Battle Monuments Commission (ABMC) app." >}}Plan your visit to include driving directions, operating hours, and parking information
+      {{< legacy-img src="2015/08/250-x-445-Sicily-Rome_ABMC-app-personal-story.jpg" alt="Screenshot of the personal story of Alwayne M. Dunlap, Second Lieutenant, U.S. Army Air Forces, from the Sicily-Rome American Battle Monuments Commission (ABMC) app." >}}Plan your visit to include driving directions, operating hours, and parking information
     </li>
     <li style="font-weight: 400">
       Learn the stories of the Americans buried there, and find their burial locations

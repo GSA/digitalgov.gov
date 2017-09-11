@@ -19,7 +19,7 @@ If you were visiting a federal government website two years ago, the best odds w
 
 We wanted to take a look at overall browser usage now that DAP has a few years of data, and the changes tell an interesting story. Here’s a breakdown of the percent of total sessions of the top five browsers during the last three years*:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-Broswer-Percentage-by-Year.jpg" alt="A chart titled, Browser Percentage by Year, compares Internet Explorer, Chrome, Safari, Firefox, and Android browsers for the years 2013, 2014, and 2015." >}}
+{{< legacy-img src="2015/10/600-x-371-Broswer-Percentage-by-Year.jpg" alt="A chart titled, Browser Percentage by Year, compares Internet Explorer, Chrome, Safari, Firefox, and Android browsers for the years 2013, 2014, and 2015." >}}
 
 ## Safari
 
@@ -66,7 +66,7 @@ An interesting statistic for anyone who builds websites is the usage of Internet
 
 The data shows that the overall usage of Internet Explorer has dropped from 40% of sessions in the sample time period in 2013 to 24% in the same period in 2015, but how much of that traffic is done using IE8 or lower? Here’s a breakdown:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-371-IE-Version-Percentage-by-Year-chart.jpg" alt="A chart titled, I E Version Percentage by Year, compares Internet Explorer versions 7 through 11 for the years 2013, 2014, and 2015." >}}
+{{< legacy-img src="2015/10/600-x-371-IE-Version-Percentage-by-Year-chart.jpg" alt="A chart titled, I E Version Percentage by Year, compares Internet Explorer versions 7 through 11 for the years 2013, 2014, and 2015." >}}
 
 IE11 [was released on October 17, 2013](https://en.wikipedia.org/wiki/Internet_Explorer_11), and by 2015 it had captured the majority of sessions viewed with Internet Explorer, accounting for about 14% of the total sessions in the sample time period. IE7 and IE8 combined in 2013 accounted for over 17% of all sessions, but by 2015 had shrunk to about 3.5%.
 

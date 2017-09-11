@@ -33,7 +33,7 @@ If Medium is a “place to tell stories” it makes sense to prioritize narrativ
 
 A differentiator for Medium compared with other social sites is that “high quality content” is prioritized over the date a story is published. Medium’s editors select content to be featured on the main page and engagement is measured through “total time reading.” Interestingly, how long a story takes to read is sometimes easier to spot than the date the piece was published.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-378-HHSgov-TOS-1.jpg" alt="This post by the Secretary of Health and Human Services is a 4 minute read. Click to read." >}}](https://medium.com/@HHSGov/the-promise-of-precision-medicine-cf609de67235)
+[{{< legacy-img src="2015/07/600-x-378-HHSgov-TOS-1.jpg" alt="This post by the Secretary of Health and Human Services is a 4 minute read. Click to read." >}}](https://medium.com/@HHSGov/the-promise-of-precision-medicine-cf609de67235)
 
 **Bang for the Buck: Cross-Posting**
 
@@ -47,13 +47,13 @@ At Labor, [content that is published to Medium](https://medium.com/@USDOL) is al
 
 Erin Ruberry says the Peace Corps was inspired by the First Lady’s [use of Medium as a travel journal](https://medium.com/let-girls-learn/the-first-lady-s-travel-journal-experiencing-kyoto-s-beauty-and-history-34ae0e69ed89) peppered with bold, full-screen images. She points to the platform’s “clean” and easy to read interface. Medium’s simple (almost stark) black-and-white design pairs well with large, bold images to make your story pop. Although formatting options are limited, Medium’s modern image layouts (such as a parallax blur effect) can be hard to replicate on the older blog platforms that government agencies have adopted. Labor worked in collaboration with Medium editors to craft content for the [Aspen Ideas festival](https://medium.com/aspen-ideas/your-role-in-building-a-conscious-capitalism-movement-740c25f791b5), including how to use large images for maximum impact and make points of emphasis stand out.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-588-Medium-TOS-2.jpg" alt="“The Economic Case for Fighting Climate Change” by the Environmental Protection Agency’s Gina McCarthy takes advantage of Medium’s visual layouts to make key points. Click to read" >}}](https://medium.com/@GinaEPA/the-economic-case-for-fighting-climate-change-fa6da3ef5e1e)
+[{{< legacy-img src="2015/07/600-x-588-Medium-TOS-2.jpg" alt="“The Economic Case for Fighting Climate Change” by the Environmental Protection Agency’s Gina McCarthy takes advantage of Medium’s visual layouts to make key points. Click to read" >}}](https://medium.com/@GinaEPA/the-economic-case-for-fighting-climate-change-fa6da3ef5e1e)
 
 **Streamlined Content Authoring Tool**
 
 Medium’s authoring tools are also dead simple. Text formatting in the WYSYWIG editor is a snap and it is just as easy to format a pullquote, upload and place an image, and embed a video or even a tweet by simply pasting a link. Authors can publish individual stories or contribute to multi-author [publications](https://medium.com/help-center/publications-d23372baede0) (which have the added benefit of access to the [letters](https://medium.com/the-story/introducing-letters-f105abb6734f) feature—essentially email notifications to a publication’s followers).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-145-Medium-text-formatting.jpg" alt=" To format text on Medium, simply highlight it and choose from the limited set of options that appear." >}}
+{{< legacy-img src="2015/07/600-x-145-Medium-text-formatting.jpg" alt=" To format text on Medium, simply highlight it and choose from the limited set of options that appear." >}}
 
 ### Conversation
 
@@ -63,7 +63,7 @@ Medium’s authoring tools are also dead simple. Text formatting in the WYSYWIG 
 
 Medium’s built-in community features make it an intriguing platform for activating your organization’s content. Through [notes](https://medium.com/about/why-medium-notes-are-different-and-how-to-use-them-well-5972c72b18f2), readers can comment on specific sections of a story that resonate with them (look for the floating plus sign inside a speech bubble). Readers can also [highlight](https://medium.com/@e/highlights-have-come-to-the-medium-app-this-is-going-to-be-big-822960e8653d) a word or phrase to draw others’ attention to it. Instead of comments that live only at the bottom of a story, [responses](https://medium.com/the-story/medium-responses-fd6086781625) actually become their own stories that publish to the user’s own channel (increasing both visibility and accountability). Some of these features are subtle and many have not necessarily reached their full potential in terms of use. However, they provide interesting opportunities to foster an increased level of engagement with more complex or nuanced content.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-90-Medium-notes-context.jpg" alt="This story explains how notes work. A user added a note to the story. Meta. Click to read." >}}](https://medium.com/about/why-medium-notes-are-different-and-how-to-use-them-well-5972c72b18f2)
+[{{< legacy-img src="2015/07/600-x-90-Medium-notes-context.jpg" alt="This story explains how notes work. A user added a note to the story. Meta. Click to read." >}}](https://medium.com/about/why-medium-notes-are-different-and-how-to-use-them-well-5972c72b18f2)
 
 Medium’s features change often. Follow <https://medium.com/the-story> for updates on the platform itself.
 

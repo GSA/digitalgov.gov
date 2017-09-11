@@ -14,7 +14,7 @@ tag:
 
 International telecommunications network operator, Ericsson, released their [Mobility Report](https://www.ericsson.com/mobility-report) around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile.
 
-The surprise star of the report is not mobile phones though—although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it has in the U.S.—it’s the Internet Of Things (IoT), which is projected to surpass mobile phones by 2018 according to Ericsson. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-Smart-appliances-in-word-IoT-for-Internet-of-Things-concept.-Chesky_W-iStock-Thinkstock-498652526.jpg" alt="Smart appliances in word IoT for Internet of Things concept." caption="" >}} 
+The surprise star of the report is not mobile phones though—although it will continue to grow, especially in emerging markets where it hasn’t reached saturation like it has in the U.S.—it’s the Internet Of Things (IoT), which is projected to surpass mobile phones by 2018 according to Ericsson. {{< legacy-img src="2016/07/600-x-400-Smart-appliances-in-word-IoT-for-Internet-of-Things-concept.-Chesky_W-iStock-Thinkstock-498652526.jpg" alt="Smart appliances in word IoT for Internet of Things concept." caption="" >}} 
 
 In the next 5 years, Ericsson projects that the PC/Laptop/Tablet, mobile phone and fixed phones devices will remain relatively flat in growth, with the highest growth at 3 percent for mobile phones. Though for IoT devices, the report projects growth from 22 to 27 percent each year for the next 5 years for a collective 15.7 billion devices by 2021.
 

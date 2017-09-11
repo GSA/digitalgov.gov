@@ -12,7 +12,7 @@ tag:
   - USTDA
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Panning-for-Gold.jpg" alt="Panning for gold" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Panning-for-Gold.jpg)Are you a small or even one-deep government social media team who wonders how with limited resources you can still deliver the program citizens need? Do you have a larger team but still want to know how you can roll up your sleeves and make a change?
+[{{< legacy-img src="2013/06/Panning-for-Gold.jpg" alt="Panning for gold" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/Panning-for-Gold.jpg)Are you a small or even one-deep government social media team who wonders how with limited resources you can still deliver the program citizens need? Do you have a larger team but still want to know how you can roll up your sleeves and make a change?
 
 If either of these or anything in between is you, then take a look at the webinar on how to take your limited social media program from “rags to riches.&#8221;
 

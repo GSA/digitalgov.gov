@@ -12,7 +12,7 @@ tag:
   - USPS
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-375-USPS-mobile-app.jpg" alt="USPS mobile app screen" >}}The [U.S. Postal Service Mobile app](https://www.usps.com/mobile/info.htm) can help you find a post office, calculate shipping prices and track packages. Since we last featured this app, the USPS has added the ability to schedule pickups and order supplies.
+{{< legacy-img src="2013/05/250-375-USPS-mobile-app.jpg" alt="USPS mobile app screen" >}}The [U.S. Postal Service Mobile app](https://www.usps.com/mobile/info.htm) can help you find a post office, calculate shipping prices and track packages. Since we last featured this app, the USPS has added the ability to schedule pickups and order supplies.
 
 Last month, USPS Mobile version 3.8 was released. The new version allows users to see special hours for various USPS locations and has a &#8220;Coupons&#8221; feature that allows users to scan bar codes on mobile phones.
 

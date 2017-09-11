@@ -12,7 +12,7 @@ tag:
   - challenges and prize competitions
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
+{{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 Later this year, the Federal government will celebrate the fifth anniversary of [Challenge.gov](https://www.challenge.gov/), a one-stop shop that has prompted tens of thousands of individuals, including engaged citizens and entrepreneurs, to participate in more than 400 public-sector prize competitions with more than $72 million in prizes.
 
@@ -22,7 +22,7 @@ The May 2015 report to Congress on the Implementation of Federal Prize Authority
   * Reach beyond the “usual suspects” to increase the number of citizen solvers and entrepreneurs tackling a problem.
   * Bring out-of-discipline perspectives to bear.
   * Increase cost-effectiveness to maximize the return on taxpayer dollars.
-  * Inspire risk-taking by offering a level playing field through credible rules and robust judging mechanisms. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-451-Globe-and-Computer-Keyboard-ratchanida-thippayos-iStock-Thinkstock-148465075.jpg" alt="Globe and computer keyboard" caption="" >}} 
+  * Inspire risk-taking by offering a level playing field through credible rules and robust judging mechanisms. {{< legacy-img src="2015/03/600-x-451-Globe-and-Computer-Keyboard-ratchanida-thippayos-iStock-Thinkstock-148465075.jpg" alt="Globe and computer keyboard" caption="" >}} 
 
 To build on this momentum, the Administration will hold an event this fall to highlight the role that prizes play in solving critical national and global issues. The event will showcase public- and private-sector relevant commitments from Federal, state, and local agencies, companies, foundations, universities, and non-profits. Individuals and organizations interested in participating in this event or making commitments should send us a note at [challenges [at] ostp.gov](mailto:challenges@ostp.gov) by August 28, 2015.
 

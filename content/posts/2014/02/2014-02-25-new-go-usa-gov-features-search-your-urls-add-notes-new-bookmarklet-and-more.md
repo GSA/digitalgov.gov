@@ -12,7 +12,7 @@ tag:
   - USAgov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}You can now log in to [Go.USA.gov](https://go.usa.gov/) with your username or e-mail address, one of the  new improvements added to the government URL shortener. Previously you could only log in with your username. You can now:
+{{< legacy-img src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}You can now log in to [Go.USA.gov](https://go.usa.gov/) with your username or e-mail address, one of the  new improvements added to the government URL shortener. Previously you could only log in with your username. You can now:
 
   * Log in with your username or e-mail address
   * Search your short URLs

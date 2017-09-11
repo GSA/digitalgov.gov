@@ -26,13 +26,13 @@ tag:
 
 ## Introduction
 
-Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-425-AB-testing-A\_B-split-comparison-web-conversion-test-bakhtiar\_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="" >}} 
+Clinicians work in stressful, often chaotic environments with shifting needs and varying demands. A large part of their responsibilities require them to work within an EHR system for both viewing and adding information (such as notes) or requests (such as orders) for their patients. EHR developers refer to this action-oriented portion of their work as write-back. Write-back is crucial for patient care but also introduces multiple opportunities for inefficiencies as well as cognitive load and patient-safety issues. A specific area of concern has been effectively supporting the cancellation of a started action. {{< legacy-img src="2016/07/600-x-425-AB-testing-A\_B-split-comparison-web-conversion-test-bakhtiar\_zein-iStock-Thinkstock-469994020.jpg" alt="AB testing A/B split comparison web conversion test" caption="" >}} 
 
 ## The Issue
 
 Clinicians often start “write” functions such as ordering a laboratory test, requesting a consult, or filling in a problem and then find that they don’t need to complete that function for various reasons. In these scenarios, the clinicians select “cancel” at the bottom of the started form. To help ensure that data (and time) is not inadvertently lost, the EHR platform checks that the clinician intended to select the cancellation button with a confirmation dialog (Figure 1).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure1.jpg" alt="Figure 1: Original Wireframe mockup- Cancel/Cancel Function." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure1.jpg" alt="Figure 1: Original Wireframe mockup- Cancel/Cancel Function." >}}
 
 <p style="text-align: center">
   <i>Figure 1: Original Wireframe mockup: Cancel/Cancel Function</i>
@@ -58,9 +58,9 @@ Listserv respondents reiterated both the “Yes/No” option and the “undo act
 
 Multiple people and articles called for cancelling the function immediately, and then allowing the clinician to “undo” that cancellation, instead of the proposed concept of confirming the cancellation. The “undo” option is clearly strong as it empowers users while allowing them a way out if they’ve acted in error. However, this trust in the user’s wishes could backfire in the cases where a user, such as a clinician or a pilot, is doing something in which mistakes could be fatal. These types of users are also frequently dealing with tremendous cognitive load that can lead to feeling overwhelmed. “Overwhelmed users are likely to overlook the ’undo’ message,” (Rumi P., 2015). The accidental deletion of information could reinforce that overwhelmed feeling. In these cases, the deletion confirmation ensures the message is not overlooked and reinforces trust in the system. One discussion board poster illustrated this concept, and its potential downside, nicely:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/450-x-225-AB-Quick-Study-Figure2.jpg" alt="Figure 2 a: Undo" >}}
+{{< legacy-img src="2016/07/450-x-225-AB-Quick-Study-Figure2.jpg" alt="Figure 2 a: Undo" >}}
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/450-x-255-AB-Quick-Study-Figure2b.jpg" alt="Figure 2 b: Confirmation." >}}
+{{< legacy-img src="2016/07/450-x-255-AB-Quick-Study-Figure2b.jpg" alt="Figure 2 b: Confirmation." >}}
 
 <p style="text-align: center">
   <i>Figure 2: Undo [top] vs. Confirmation [bottom]  (Monkey, 2015).<br /> An extreme case and just what we don’t want to do at the VA!</i>
@@ -72,31 +72,31 @@ As a final outreach activity before the study sessions, HFE showed a potential m
 
 Based on the references, research, and input from the UX-COP, HFE created four additional mockup confirmation dialogs to compare to the proposed dialog in a quick usability assessment. Mid-assessment, the developers communicated that they had changed their proposed button language to “Close” and “Cancel Function.” As a result, three of the five sessions presented five options and two sessions had six options. Having a new option didn’t change the results significantly. While the button-order language will be universal for all function-cancellation confirmations, HFE created placeholder functions such as “order” and “consult request” in the mockups to provide verisimilitude to the presented scenarios.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure3.jpg" alt="Figure 3: Mockup #2 - Return to Function/Cancel Function" >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure3.jpg" alt="Figure 3: Mockup #2 - Return to Function/Cancel Function" >}}
 
 <p style="text-align: center">
   <i>Figure 3: Mockup #2 &#8211; Return to Function/Cancel Function.</i>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure4.jpg" alt="Figure 4: Mockup #3 - Back/Delete New Function." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure4.jpg" alt="Figure 4: Mockup #3 - Back/Delete New Function." >}}
 
 <p style="text-align: center">
   <i>Figure 4: Mockup #3 &#8211; Back/Delete New Function.</i>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure5.jpg" alt="Figure 5: Mockup #4 - Cancel/Discontinue Function." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure5.jpg" alt="Figure 5: Mockup #4 - Cancel/Discontinue Function." >}}
 
 <p style="text-align: center">
   <i>Figure 5: Mockup #4 &#8211; Cancel/Discontinue Function.</i>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure6.jpg" alt="Figure 6: Mockup #5 - Back/Proceed with Cancellation." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure6.jpg" alt="Figure 6: Mockup #5 - Back/Proceed with Cancellation." >}}
 
 <p style="text-align: center">
   <i>Figure 6: Mockup #5 &#8211; Back/Proceed with Cancellation.</i>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-FIgure7.jpg" alt="Figure 7: Mockup #6 - Close/Cancel Order (late developer addition)." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-FIgure7.jpg" alt="Figure 7: Mockup #6 - Close/Cancel Order (late developer addition)." >}}
 
 <p style="text-align: center">
   <i>Figure 7: Mockup #6 &#8211; Close/Cancel Order (late developer addition).</i>
@@ -118,7 +118,7 @@ Following the six tasks, participants viewed all of the screenshots again and ra
 
 First, the numbers. In all the charts below the placeholder words like “Order,” “Request,” and “Allergy” have been replaced with “Function,” to show the universal design pattern that they are intended to represent. The time on task, while remaining within the short range expected for a one-click scenario, pointed to less participant hesitation with Mockup #2, “Return to Function/Cancel Function” and Mockup #5 “Back/Proceed with Cancellation.” The other findings in the study supported this time-on-task differentiation.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-432-AB-Quick-Study-FIgure8.jpg" alt="Figure 8: Average Seconds to Select Correct Button. Notes: \*Task 4 data excludes one incorrect selection, \** Task 6 was only performed by two participants." >}}
+{{< legacy-img src="2016/07/600-x-432-AB-Quick-Study-FIgure8.jpg" alt="Figure 8: Average Seconds to Select Correct Button. Notes: \*Task 4 data excludes one incorrect selection, \** Task 6 was only performed by two participants." >}}
 
 <p style="text-align: center">
   <i>Figure 8: Average Seconds to Select Correct Button.<br /> </i><i>*Task 4 data excludes one incorrect selection, </i><i>** Task 6 was only performed by two participants</i>
@@ -126,7 +126,7 @@ First, the numbers. In all the charts below the placeholder words like “Order,
 
 After the tasks, the participants re-examined all six of the mockups and ordered them from easiest (1) to hardest (6).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-444-AB-Quick-Study-FIgure9.jpg" alt="Figure 9: Average Ranking out of 6 (one being the easiest, and 6 being the most difficult)." >}}
+{{< legacy-img src="2016/07/600-x-444-AB-Quick-Study-FIgure9.jpg" alt="Figure 9: Average Ranking out of 6 (one being the easiest, and 6 being the most difficult)." >}}
 
 <p style="text-align: center">
   <i>Figure 9: Average Ranking out of 6<br /> </i><i>(one being the easiest, and six being the most difficult)</i>
@@ -141,7 +141,7 @@ Finally we observed the participants as they attempted to click the correct butt
   * Felt unsure what the “Back” button meant (Moderate); and
   * Disliked the use of negative verbs in both button options (Moderate).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" alt="Figure 10: Mock #2 - Return to Function/Cancel Function, the winning dialog." >}}
+{{< legacy-img src="2016/07/388-x-201-AB-Quick-Study-Figure10.jpg" alt="Figure 10: Mock #2 - Return to Function/Cancel Function, the winning dialog." >}}
 
 ## Conclusion
 

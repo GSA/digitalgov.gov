@@ -13,7 +13,7 @@ tag:
   - NIH
 ---
 
-You may have heard some chatter about syndication but thought to yourself—sounds good but does it really work? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
+You may have heard some chatter about syndication but thought to yourself—sounds good but does it really work? {{< legacy-img src="2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
 
 The answer is—Absolutely!!
 
@@ -23,21 +23,21 @@ NIH News in Health is a monthly newsletter that has recently been syndicated. Si
 
 Here is [an example of the newsletter](https://newsinhealth.nih.gov/issue/Nov2014/Feature1) on the NIH website.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/555-x-450-Preventing-Type-2-Diabetes-newsletter-National-Institutes-of-Health-website.jpg" alt="Screencapture of the Preventing Type 2 Diabetes newsletter on the NIH site." >}}
+{{< legacy-img src="2016/01/555-x-450-Preventing-Type-2-Diabetes-newsletter-National-Institutes-of-Health-website.jpg" alt="Screencapture of the Preventing Type 2 Diabetes newsletter on the NIH site." >}}
 
 The same content displays on the [Topeka & Shawnee County Public Library website](http://www.tscpl.org).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-355-Preventing-Type-2-Diabetes-newsletter-Topeka-and-Shawnee-County-Public-Library-website.jpg" alt="Screencapture of the same diabetes content displayed on the Topeka & Shawnee County Public Library website." >}}
+{{< legacy-img src="2016/01/600-x-355-Preventing-Type-2-Diabetes-newsletter-Topeka-and-Shawnee-County-Public-Library-website.jpg" alt="Screencapture of the same diabetes content displayed on the Topeka & Shawnee County Public Library website." >}}
 
 ## Want more proof?
 
 Here is [another example on the NIH website](https://newsinhealth.nih.gov/issue/Nov2014/Feature1).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-495-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-National-Institutes-of-Health-website.jpg" alt="Screencapture of the Focusing on ADHD newsletter on the NIH site." >}}
+{{< legacy-img src="2016/01/600-x-495-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-National-Institutes-of-Health-website.jpg" alt="Screencapture of the Focusing on ADHD newsletter on the NIH site." >}}
 
 This issue of the newsletter is [seen here on a .org website](https://newsinhealth.nih.gov/issue/Nov2014/Feature1). The information is the same but the content is reaching the .org’s audience, expanding the reach of the newsletter.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/577-x-513-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-ADD-Resource-Center-website.jpg" alt="Screencapture of the same Attention Deficit Hyperactivity Disorder content displayed on the ADD Resource Center website." >}}
+{{< legacy-img src="2016/01/577-x-513-Focusing-on-Attention-Deficit-Hyperactivity-Disorder-ADHD-newsletter-ADD-Resource-Center-website.jpg" alt="Screencapture of the same Attention Deficit Hyperactivity Disorder content displayed on the ADD Resource Center website." >}}
 
 There are many more examples of the success NIH News in Health is having with syndication. Maybe your organization has a newsletter or Web content you would like to see syndicated to broaden your audience reach. Syndication also allows for other types of media to be disseminated including images, infographics, videos and datasets.
 

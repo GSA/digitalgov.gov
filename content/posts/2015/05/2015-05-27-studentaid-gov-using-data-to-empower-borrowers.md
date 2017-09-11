@@ -20,7 +20,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-370-Black-Mortarboard-and-dollar-Feng-Yu-iStock-Thinkstock-96226456.jpg" alt="A graduation cap and diploma is seen in the background, with a hand holding a calculator and a stack of hundred dollar bills in the foreground." caption="" >}} 
+{{< legacy-img src="2015/05/250-x-370-Black-Mortarboard-and-dollar-Feng-Yu-iStock-Thinkstock-96226456.jpg" alt="A graduation cap and diploma is seen in the background, with a hand holding a calculator and a stack of hundred dollar bills in the foreground." caption="" >}} 
 
 It’s been a while, but in [previous posts]({{< relref "2013-09-13-studentaid-govs-1st-year-what-weve-learned-and-where-were-going.md" >}} "StudentAid.gov’s 1st Year: What We’ve Learned and Where We’re Going"), I described what we’ve learned from operating [StudentAid.gov](https://studentaid.ed.gov/sa/), the U.S. Department of Education’s Office of Federal Student Aid website created to educate students and borrowers about the federal student aid programs and process and help them make informed decisions about financing college and career school.
 

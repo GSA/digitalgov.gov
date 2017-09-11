@@ -14,7 +14,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="Data Center" caption="" >}} 
 
 APIs and apps have been created for almost every aspect of human life. There are alarm clock apps, fitness apps, cooking apps, and personal finance apps, just to name a few of the thousands of apps available today. Most areas of society are well-represented in the app world except for one large portion of the American public—rural America. There need to be more apps for rural America.
 

@@ -24,7 +24,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
+{{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 People consume government information in a variety of ways: through agency websites, of course, but increasingly through social media, search engines, and mobile apps, whether developed by agencies or third parties.
 

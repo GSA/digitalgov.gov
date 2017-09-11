@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 
+{{< legacy-img src="2014/09/250-x-166-Green-desktop-computer-Hemera-Technologies-AbleStock.com-Thinkstock-87453658.jpg" alt="Green desktop computer" caption="" >}} 
 
 We&#8217;ve seen (and experienced) a [dramatic growth in mobile consumption in recent years]({{< link "tag/trends-on-tuesday" >}}). From app downloads to tablet ownership, the use of mobile devices continues to trend up. But, is this at the expense of desktop computer usage? Not really. The growth of mobile activity is incremental to what’s happening on existing platforms, according to <a title="ComScore" href="http://www.comscore.com/Insights/Blog/Is-Mobile-Bringing-About-the-Death-of-the-PC-Not-Exactly" target="_blank">comScore</a>. Let&#8217;s take a closer look at mobile vs. PC usage over the past year:
 

@@ -15,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
+{{< legacy-img src="2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
 
 Do you ever find yourself conducting unofficial smartphone research? Ever since my agency decided to develop a mobile app, I know I do. Luckily, <a title="new data from ComScore" href="http://www.comscore.com/Insights/Market-Rankings/comScore-Reports-June-2014-US-Smartphone-Subscriber-Market-Share" target="_blank">new data from ComScore</a> on the U.S. smartphone subscriber market share can help eliminate the guesswork.
 

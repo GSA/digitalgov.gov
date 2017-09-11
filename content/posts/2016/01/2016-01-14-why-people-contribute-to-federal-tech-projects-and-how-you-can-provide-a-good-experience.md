@@ -16,7 +16,7 @@ tag:
 _Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via [the project&#8217;s GitHub repository](https://github.com/18F/openopps-platform). The Open Opportunities program itself is only open to federal employees.
   _ 
   
-Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government]({{< relref "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}}), the [Open Opportunities platform](https://openopps.WHATEVER/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
+Open, agile software development projects can improve government initiatives. As discussed in last week’s article on [agile projects in government]({{< relref "2016-01-04-how-agile-development-can-benefit-federal-projects.md" >}}), the [Open Opportunities platform](https://openopps.WHATEVER/) has benefited from increased collaboration within government as well as from contributions from outside of government. {{< legacy-img src="2016/01/600-x-338-People-communication-vector-VLADGRIN-iStock-Thinkstock-531278671.jpg" alt="Group of human figures with speech bubbles above their heads." caption="" >}} 
 
 How can other agencies effectively tap into the vast knowledge and skill set of the tech-minded public? Former Open Opportunities contributors discussed how and why they got involved with the project and what is needed to make contributing easy.
 
@@ -34,7 +34,7 @@ Allen had listed out the bugs that were good for outside contributors, something
 
 Conversations about the project were initially held only on an internal Slack channel. As Kloninger and others began contributing to Open Opportunities, Allen was able to open a public Slack channel so that all who wanted to participate could get the full picture.
 
-## Beyond Deliverables {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-400-City-Speech-Bubbles-VLADGRIN-iStock-Thinkstock-488719341.jpg" alt="A cityscape with speech bubbles above it; each with icons for different technologies." caption="" >}} 
+## Beyond Deliverables {{< legacy-img src="2016/01/600-x-400-City-Speech-Bubbles-VLADGRIN-iStock-Thinkstock-488719341.jpg" alt="A cityscape with speech bubbles above it; each with icons for different technologies." caption="" >}} 
 
 During the six weeks of his involvement, Kloninger contributed several features: two data export buttons, and the initial groundwork on the ‘people’ section as well as the map of Open Opportunities participants. But to Kloninger, his contributions to the Open Opportunities ecosystem itself were most important.
 

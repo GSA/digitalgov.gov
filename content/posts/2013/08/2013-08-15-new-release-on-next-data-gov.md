@@ -13,7 +13,7 @@ tag:
   - open data
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/featured-301-x-212-Data-Gov-logo-250x176.jpg" alt="featured 301 x 212 Data Gov logo" >}}](http://blog.howto.gov/?attachment_id=78661)Since the launch of [Next.Data.gov](http://next.data.gov/), your help and ideas have made it possible to make two updates to the site. We&#8217;re naming these biweekly releases after the presidents so the one that launched this week is the Adams Release.
+[{{< legacy-img src="2014/05/featured-301-x-212-Data-Gov-logo-250x176.jpg" alt="featured 301 x 212 Data Gov logo" >}}](http://blog.howto.gov/?attachment_id=78661)Since the launch of [Next.Data.gov](http://next.data.gov/), your help and ideas have made it possible to make two updates to the site. We&#8217;re naming these biweekly releases after the presidents so the one that launched this week is the Adams Release.
 
 We&#8217;re pleased to announce that much of the work was done by the Data.gov Presidential Innovation Fellow, [Dave Caraway](http://www.whitehouse.gov/innovationfellows/round-2-fellows), whose passion is open data and how it can be used by entrepreneurs to build businesses and create jobs. Dave&#8217;s enthusiasm is infectious and his knowledge base is massive. And on top of that, he’s one nice guy. It’s a real pleasure to have him on the team.
 

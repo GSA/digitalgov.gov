@@ -15,7 +15,7 @@ tag:
   - multilingual
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="" >}} 
+{{< legacy-img src="2012/10/600-x-400-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Keyboard key conceptualizes accessible translation" caption="" >}} 
 
 Automated translation is touted as a one click solution. But is it?
 
@@ -34,7 +34,7 @@ There is no easy solution to the challenge of translating one language to anothe
   * Machine translation dynamically generates pages making them invisible to search engines. When a person is searching for information to accomplish a task in a language other than English, your agency&#8217;s website will not come up in the search results because that content does not exist.
   * You can learn more about the pitfalls of machine translation in this [Department of Labor presentation](http://www.dol.gov/oasam/programs/crc/062414Machine_TranslationWebinar.pdf).
 
-## How to Start {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/250-x-257-Medical-Interpreter-Sign-Nuno-Andre-iStock-Thinkstock-153533952.jpg" alt="Medical Interpreter Sign" caption="" >}} 
+## How to Start {{< legacy-img src="2012/10/250-x-257-Medical-Interpreter-Sign-Nuno-Andre-iStock-Thinkstock-153533952.jpg" alt="Medical Interpreter Sign" caption="" >}} 
 
 The &#8220;best practice” is to do the work the right way. If resources are limited, start small. Identify top tasks and translate that content, and then build from that. [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/), the Spanish language counterpart of [USA.gov](http://www.usa.gov/index.shtml), has very strict policies and will not link to a machine-translated version of the website. Check out these examples of sites that excel in providing multilingual options:
 

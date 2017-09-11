@@ -18,7 +18,7 @@ tag:
 
 Last week, I had a brush with a bona fide music legend — the great Stevie Wonder. Was I starstruck? Of course. I’ve long admired his musical accomplishments and advocacy for people with disabilities. [His appearance at the Grammy Awards](http://www.usatoday.com/story/life/entertainthis/2016/02/15/stevie-wonder-talks-braille-accessibility-grammys/80433576/) in February highlighted once again the need to improve accessible technology, particularly in the workplace.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Chris-Lu-Meeting-Stevie-Wonder-at-CSUN-in-San-Diego-on-March-23.jpg" alt="Meeting Stevie Wonder at CSUN in San Diego on March 23, 2016." >}}
+{{< legacy-img src="2016/05/600-x-400-Chris-Lu-Meeting-Stevie-Wonder-at-CSUN-in-San-Diego-on-March-23.jpg" alt="Meeting Stevie Wonder at CSUN in San Diego on March 23, 2016." >}}
 
 What brought me, Stevie Wonder and hundreds of other accessibility advocates together was the [International Technology and Persons with Disabilities Conference](http://www.csun.edu/cod/conference/2016/sessions/index.php/public/website_pages/view/1). Commonly known as “CSUN” in honor of its sponsor, California State University, Northridge, the event is a who’s who of people leading the charge on accessible information and communications technology (known as ICT). I was honored to serve as this year’s keynote speaker, which gave me the chance to share why the Labor Department sees the need for accessible ICT in the workplace.
 
@@ -26,13 +26,13 @@ To put it simply, our commitment to accessible technology is about basic civil r
 
 On the other hand, when technologies are accessible to everyone, they become powerful tools of productivity, enabling _all_ of us to apply for and obtain employment and perform to our full potential on the job.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-455-CSUN-photo-2-optionB-e1459457690832.jpg" alt="Screen capture of the Talent Works homepage, a free tool created by the Labor Department-funded Partnership on Employment & Accessible Technology (PEAT)." >}}
+{{< legacy-img src="2016/05/600-x-455-CSUN-photo-2-optionB-e1459457690832.jpg" alt="Screen capture of the Talent Works homepage, a free tool created by the Labor Department-funded Partnership on Employment & Accessible Technology (PEAT)." >}}
 
 During my remarks, I announced the launch of [TalentWorks,](http://www.peatworks.org/talentworks) a free tool created by the Labor Department-funded Partnership on Employment & Accessible Technology ([PEAT](http://www.peatworks.org/)) that helps employers ensure that their Web-based job applications and other recruiting technologies are accessible to job seekers with disabilities.
 
 At CSUN, I toured an exhibit hall filled with cutting edge innovations, most of which have direct applications in the workplace for people with disabilities. Some of them have the potential to increase the productivity of all workers regardless of whether they have a disability. I also met with industry leaders to discuss key issues impacting the creation and adoption of universally designed ICT, and to learn what their organizations are doing to drive change.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-CSUN-photo-3-2-e1459457768414.jpg" alt="A Sesame Enabled Ltd. representative (right) showed me the latest accessible technology at CSUN." >}}
+{{< legacy-img src="2016/05/600-x-450-CSUN-photo-3-2-e1459457768414.jpg" alt="A Sesame Enabled Ltd. representative (right) showed me the latest accessible technology at CSUN." >}}
 
 Perhaps most importantly, I led a PEAT-sponsored roundtable discussion that captured the insights and experiences of leading voices in the accessibility field − the largest technology companies, IT and Web accessibility professionals, college and university accessibility experts, and, of course, users of workplace technologies.
 

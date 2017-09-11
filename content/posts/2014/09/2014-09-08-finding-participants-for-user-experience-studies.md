@@ -17,7 +17,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 
+{{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}} 
 
 How do you find participants for your usability studies?
 

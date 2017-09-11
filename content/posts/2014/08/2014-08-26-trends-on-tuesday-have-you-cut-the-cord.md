@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-400-Scissors-cutting-phone-cord-eskaylim-iStock-Thinkstock-186002262.jpg" alt="Scissors cutting phone cord" caption="" >}} 
+{{< legacy-img src="2014/08/600-x-400-Scissors-cutting-phone-cord-eskaylim-iStock-Thinkstock-186002262.jpg" alt="Scissors cutting phone cord" caption="" >}} 
 
 First, it was party lines. Then, it was the rotary phone. Now, two-in-five (41%) U.S. households have officially said goodbye to landlines, according to a <a title="recent report" href="http://www.cdc.gov/nchs/data/nhis/earlyrelease/wireless201407.pdf" target="_blank">recent report</a> by the Centers for Disease Control and Prevention (CDC)&#8217;s National Center for Health Statistics.
 

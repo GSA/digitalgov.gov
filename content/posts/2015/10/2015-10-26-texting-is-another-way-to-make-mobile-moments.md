@@ -18,7 +18,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 
+{{< legacy-img src="2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 
 
 There are several things federal agencies need to think about in the [mobile space]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). Is my website [responsive]({{< relref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}), so that consumers can view it on any device (desktop/laptop, tablet, smartphone)? Do I have [mobile apps](https://www.usa.gov/mobile-apps) that fill citizen needs?
 
@@ -36,7 +36,7 @@ Here are at least 9 factors you need to consider, according to [GovDelivery](htt
   8. Text messages can be used to urge citizens to complete requests for government programs and benefits. For example, if you provide a phone number on the application, a text will remind you to come back and complete your student aid form online.
   9. The mobile team, the Web team, and the contact center team might not live in the same part of the organization. So it&#8217;s very important for these teams to share information about what consumers are asking. Are the questions coming in via text different than the ones coming in via phone, email, Web chat and search?
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-535-User-Initiated-1-and-2.jpg" alt="User-initiated messages from SmokeFreeTXT app." >}}
+{{< legacy-img src="2015/10/600-x-535-User-Initiated-1-and-2.jpg" alt="User-initiated messages from SmokeFreeTXT app." >}}
 
 We know the [National Cancer Institute]({{< relref "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}) is using texting to help people quit smoking. Consumers sign up, and then receive periodic messages that encourage them as they try to kick the habit. Is your agency using [texting to fulfill its mission]({{< relref "2015-10-08-national-cancer-institutes-smokefree-tools.md" >}})? If so, how?
 

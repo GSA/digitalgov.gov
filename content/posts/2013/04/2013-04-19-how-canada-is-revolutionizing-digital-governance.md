@@ -11,7 +11,7 @@ tag:
   - GitHub
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-canadian-flag-3-canada.jpg" alt="A photo of the Canadian flag" >}}The Canadian government is changing how we think of traditional Web management. They built a platform of standards-compliant (HTML5, WCAG and WAI-ARIA), accessible and secure components that its agencies (and even provincial and municipalities) can use to build and maintain their sites. They are also focused on optimizing for mobile devices and improving usability and interoperability through their platform. **Paul Jackson**, project lead and one of the lead developers for [Canada’s Web Experience Toolkit](http://wet-boew.github.io/v4.0-ci/index-en.html), or WET, shared details about the toolkit and how anyone can get involved, during a DigitalGov University webinar, April 17.
+{{< legacy-img src="2014/05/250-x-250-canadian-flag-3-canada.jpg" alt="A photo of the Canadian flag" >}}The Canadian government is changing how we think of traditional Web management. They built a platform of standards-compliant (HTML5, WCAG and WAI-ARIA), accessible and secure components that its agencies (and even provincial and municipalities) can use to build and maintain their sites. They are also focused on optimizing for mobile devices and improving usability and interoperability through their platform. **Paul Jackson**, project lead and one of the lead developers for [Canada’s Web Experience Toolkit](http://wet-boew.github.io/v4.0-ci/index-en.html), or WET, shared details about the toolkit and how anyone can get involved, during a DigitalGov University webinar, April 17.
 
 ## <span style="color: #000000">What is WET?</span>
 

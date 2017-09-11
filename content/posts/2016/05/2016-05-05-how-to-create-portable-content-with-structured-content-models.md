@@ -22,7 +22,7 @@ tag:
 
 Structuring your content for portability across media platforms gives your agency the ability to not only place your message on other properties, but gives you the assurance that your information will always be up-to-date across multiple platforms. This ability is never more important than during an emergency, whether it is a natural disaster or a health crisis such as the [Zika virus disease](http://www.cdc.gov/zika/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-CDC-Zika-Virus-website.jpg" alt="Screen capture of the Centers for Disease Control and Prevention's information microsite for Zika Virus." >}}
+{{< legacy-img src="2016/03/600-x-450-CDC-Zika-Virus-website.jpg" alt="Screen capture of the Centers for Disease Control and Prevention's information microsite for Zika Virus." >}}
 
 Three members of the [Open and Structured Content Working Group](http://gsa.github.io/Open-And-Structured-Content-Models/) discussed all things structured content during the “Creating Portable Content with Structured Content Models” webinar earlier this year.
 
@@ -30,7 +30,7 @@ Christen Geiler, Digital Information Specialist from the National Institutes of 
 
 Stacey Thalken, health communication specialist from the Centers for Disease Control (CDC) then then discussed CDC’s structured content pilot project and highlighted their work on microsites. [Microsites are small, self-contained sets of pages within a larger website]({{< relref "2016-04-21-microsites.md" >}}), used to convey information about a specific topic. Microsites are made possible by structuring your content and through the use of [content models like those created by the Open and Structured Content Models Working Group]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-300-CDC-Public-Health-Media-Library-Zika-Virus-Microsite-preview-in-red.jpg" alt="The Zika Virus Microsite preview in red." >}}
+{{< legacy-img src="2016/02/600-x-300-CDC-Public-Health-Media-Library-Zika-Virus-Microsite-preview-in-red.jpg" alt="The Zika Virus Microsite preview in red." >}}
 
 CDC has had success with microsites including the Ebola virus, their [new microsite on the Zika Virus](https://tools.cdc.gov/medialibrary/index.aspx#/microsite/id/234558), and their campaign on concussion prevention, “Heads Up.” Thalken highlighted how the team who manages the Heads Up campaign [markets their microsite to their partners](http://www.cdc.gov/headsup/resources/syndication.html) by linking to those partner sites who have embedded the code within their own sites. Once on your site, staying current is made easy and maintenance free as any time CDC updates their information on the microsite, that content is updated anywhere the microsite is embedded.
 

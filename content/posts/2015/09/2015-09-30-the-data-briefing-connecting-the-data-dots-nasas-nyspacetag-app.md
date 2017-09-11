@@ -16,13 +16,13 @@ tag:
   - USPTO
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-222-OpenNASA-logo.jpg" alt="The Open NASA logo" >}}
+{{< legacy-img src="2015/09/600-x-222-OpenNASA-logo.jpg" alt="The Open NASA logo" >}}
 
 <a href="https://open.nasa.gov/" target="_blank">OpenNASA</a> has recently completed another redesign of their site. With over 31,000 data sets, 194 code repositories and 36 APIs, OpenNASA probably has the largest collection of open data of any of the federal agencies. An especially helpful feature is a set of icons devoted to five types of visitors: the Citizen Scientist, the Developer, the Citizen Activist, the Govvie and the Curious.
 
 A great feature to engage NASA’s audience is the <a href="https://open.nasa.gov/data-stories/" target="_blank">Data Stories</a> section where people talk about the projects they created with NASA datasets. NASA’s <a href="https://data.nasa.gov/" target="_blank">Data Portal</a> has also been redesigned to help users discover datasets, APIs and visualizations more easily. Developers should check out the <a href="http://dev.socrata.com/consumers/getting-started.html" target="_blank">SODA API</a> development tutorial to learn how to access NASA APIs.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-298-NYspacetag.jpg" alt="NYSpaceTag’s solution enables users and government organizations to add and locate meaningful metadata and concepts that can better leverage data assets that may initially appear unrelated. It allows government agencies to see how their data is being used across different organizations and maximizing the impact of the collected information." >}}
+{{< legacy-img src="2015/09/600-x-298-NYspacetag.jpg" alt="NYSpaceTag’s solution enables users and government organizations to add and locate meaningful metadata and concepts that can better leverage data assets that may initially appear unrelated. It allows government agencies to see how their data is being used across different organizations and maximizing the impact of the collected information." >}}
 
 To see some great examples of apps built with NASA APIs, check out the <a href="https://open.nasa.gov/innovation-space/" target="_blank">Innovation Space</a> section. You can browse through the solutions created with NASA’s open data during NASA Challenges. I especially like the <a href="https://open.nasa.gov/innovation-space/nyspacetag/" target="_blank">NYSpaceTag</a>, which is a “tagging system that extracts natural keywords from titles and descriptions. It allows users to explore concepts, see related concepts and drill down directly into the data.” NYSpaceTag uses “fuzzy searching” to find keywords and related concepts and to display the results in an easy-to-navigate visual graph.
 

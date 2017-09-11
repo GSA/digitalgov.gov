@@ -42,7 +42,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}} 
+## Americans Use Public Data to Improve the Lives of Fellow Citizens {{< legacy-img src="2015/03/600-x-387-Digital-Globe-Yakobchuk-iStock-Thinkstock-134133143.jpg" alt="Digital Globe" caption="" >}} 
 
 Data is one of our most important national assets. It informs our policy and our national priorities. But as we have seen time and time again, the most effective way to govern is to engage with the public directly.
 
@@ -52,7 +52,7 @@ Broadening access to data has already had extraordinary benefits. Open data has 
 
 It has also opened new possibilities for the government. With open and available datasets, federal agencies can solicit the public to help solve some of the nation’s most challenging problems. And during the past year, we have seen more and more crowd-sourced solutions to some of the most pressing mission-centric challenges.
 
-These are technological tools created by the people, for the people. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
+These are technological tools created by the people, for the people. {{< legacy-img src="2015/12/600-x-414-Crowdsourcing-nevarpp-iStock-Thinkstock-467787670.jpg" alt="Various teams contribute to a solution" caption="" >}} 
 
 <h3 id="spotlight-crowdsourcing" style="padding-top: 50px;padding-left: 30px">
   Spotlight: Citizens Innovate Technology for Food Resilience in a Changing Climate
@@ -80,7 +80,7 @@ The winning project externalized perceptions of crime and violence in Guatemala,
 
 ## Here’s How You Can Get Involved!
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" >}}
+{{< legacy-img src="2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" >}}
 
 We both agree that data science is a team sport. Thank you to everyone who has shared their talents and ideas through innovation challenges and hackathons. Your help has been invaluable as we continue combining government expertise with private-sector technological capabilities.
 

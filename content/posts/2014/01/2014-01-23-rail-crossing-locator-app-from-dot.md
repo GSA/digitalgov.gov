@@ -11,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" >}}
+{{< legacy-img src="2014/11/600-x-500-FRA-DOT-Rail-Crossing-Locator-iPhone-app.jpg" alt="Department of Transportation Rail Crossing App Screenshots" >}}
 
 Mobile apps have the power to grant us access to data beyond our expectations, help us get things done easily and quickly, and have some fun, too.
 

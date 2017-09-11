@@ -12,7 +12,7 @@ tag:
   - USCIS
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Managers-eating-meal-together-KatarzynaBialasiewicz-iStock-Thinkstock.jpg" alt="Managers eating meal together" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-400-Managers-eating-meal-together-KatarzynaBialasiewicz-iStock-Thinkstock.jpg" alt="Managers eating meal together" caption="" >}} 
 
 Running a government website or social media account is complex: while trying to meet your agency’s mission goals and your customers’ needs, you also have to keep track of issues like ethics, information security, privacy, and accessibility. It’s enough to make your head spin. Luckily, no one … errr … no online communications person … is an island: we have colleagues whose expertise neatly fills each of those niches. The trick is to set things up so you see each other as partners, not competitors or antagonists.
 

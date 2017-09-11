@@ -16,7 +16,7 @@ tag:
 
  
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-206-NASA-logo.jpg" alt="250 x 206 NASA logo" >}}On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 miles above Chelyabinsk, Russia. Users flocked to NASA.gov for info, and we spiked to nearly 12 million page views that day, ~16 times the daily average. Our real-time analytics showed over 300,000 active visitors on the site at peak, about 100 times more than normal traffic. And, not surprisingly, we could see a huge chunk of this traffic was coming from Russia.
+{{< legacy-img src="2014/05/250-x-206-NASA-logo.jpg" alt="250 x 206 NASA logo" >}}On Feb. 15, 2013, a meteor weighing 10,000 metric tons exploded 14 miles above Chelyabinsk, Russia. Users flocked to NASA.gov for info, and we spiked to nearly 12 million page views that day, ~16 times the daily average. Our real-time analytics showed over 300,000 active visitors on the site at peak, about 100 times more than normal traffic. And, not surprisingly, we could see a huge chunk of this traffic was coming from Russia.
 
 Before joining DAP, we used Urchin for nasa.gov analytics. Urchin is great at handling the raw tonnage, and we do miss some of its features, but, we never had the insight into real-time events that we have now. Even data that was always there in Urchin is now much easier to access and cross-reference with other data in the Google Analytics interface.
 
@@ -28,13 +28,13 @@ On Friday, Sept. 6, 2013, we launched the Lunar Atmospheric Dust Environment Exp
 
 At peak, we saw this incredible chart — more than half of our traffic was coming from mobile, and nearly two-thirds was coming from mobile and tablets:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/520-x-380-NASA-DAP-Digital-Analytics-Program-1.jpg" alt="Digital Analytics Program DAP real-time stats showing active visitors on the website" >}}
+{{< legacy-img src="2014/05/520-x-380-NASA-DAP-Digital-Analytics-Program-1.jpg" alt="Digital Analytics Program DAP real-time stats showing active visitors on the website" >}}
 
 The leading locations were in the area where people could watch the launch – Maryland/DC/Virginia, Pennsylvania, New York, New Jersey, and North Carolina, with California also in the mix (the mission is managed by NASA’s Ames Research Center in Silicon Valley).
 
 Zooming in on one of the top locations – Alexandria, VA — we could see an astonishing 86% were using either an iPhone or Android phone:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/400-x-358-NASA-DAP-Digital-Analytics-Program-2.jpg" alt="Digital Analytics Program DAP pie chart stats showing operating system usage in Alexandria, Virginia" >}}
+{{< legacy-img src="2014/05/400-x-358-NASA-DAP-Digital-Analytics-Program-2.jpg" alt="Digital Analytics Program DAP pie chart stats showing operating system usage in Alexandria, Virginia" >}}
 
 In addition to the mobile insight, we got our usual traffic metrics:
 
@@ -48,7 +48,7 @@ In addition to the mobile insight, we got our usual traffic metrics:
 
 All told, this added up to our third-biggest traffic day since we started using DAP GA in February:
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-123-NASA-DAP-Digital-Analytics-Program-3.jpg" alt="Digital Analytics Program DAP stats showing a spike in traffic" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/1079-x-222-NASA-DAP-Digital-Analytics-Program-3.jpg)
+[{{< legacy-img src="2014/05/600-x-123-NASA-DAP-Digital-Analytics-Program-3.jpg" alt="Digital Analytics Program DAP stats showing a spike in traffic" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/1079-x-222-NASA-DAP-Digital-Analytics-Program-3.jpg)
 
 **Frog Footnote**
 

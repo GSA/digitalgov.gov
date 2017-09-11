@@ -21,7 +21,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}} 
 
 ComScore reported last week that smartphones now make up a [whopping 75% of the mobile market](http://www.mobilemarketingwatch.com/smartphones-now-three-quarters-of-the-mobile-market-49151/). That’s up from 65% just one year ago. This means three-quarters of Americans over the age of 13 now have smartphones, and they are accessing government services with them more and more.
 

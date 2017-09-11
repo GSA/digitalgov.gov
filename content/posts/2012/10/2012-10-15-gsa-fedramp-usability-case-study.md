@@ -27,7 +27,7 @@ The homepage text was filled with jargon and acronyms, and provided no clear gui
 
 A banner bearing the tagline “Ensuring Secure Cloud Computing for the Federal Government&#8221; was added to the homepage, giving new visitors an immediate idea of what FedRAMP does and why they should care.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-before_0.jpg" alt="fedramp before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-before_0.jpg)
+[{{< legacy-img src="2013/12/fedramp-before_0.jpg" alt="fedramp before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-before_0.jpg)
 
 ## Problem 2: Homepage Confusing
 
@@ -45,7 +45,7 @@ Lacking a clear understanding of why they should be interested in FedRAMP, users
 
 Actions 1 and 2 significantly reduced the amount of text on the homepage, making it more visually appealing and easier for users to navigate to where they need to go.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-after.jpg" alt="fedramp after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-after.jpg)
+[{{< legacy-img src="2013/12/fedramp-after.jpg" alt="fedramp after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fedramp-after.jpg)
 
  
 

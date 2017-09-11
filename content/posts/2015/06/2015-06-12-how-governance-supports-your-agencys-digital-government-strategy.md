@@ -13,7 +13,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="Strategy concepts on chalk board" caption="" >}} 
 
 It seems that everyone these days is talking about “governance.” But what is it, really, and how can you make good governance usable in your agency?
 
@@ -54,7 +54,7 @@ Only after we had all of the pieces of the puzzle before us were we able to deve
 
 Illustrating the enterprise-wide governance areas in this way helped make real the issues, risks, and dependencies for SAMHSA’s Project Evolve. They were, quite literally, staring us in the face.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-433-Functional-Governance-figure-Jacoby-May-29-2015.jpg" alt="This Functional Governance chart has 5 points in a circle graph showing: 1) Staff: Identify Roles and Content areas 2) Current Workflow Outside CMS: People, Roles, and Processes or policies 3) Drupal C M S: Users, Roles or permissions, and Content workflows 4) Supporting Areas: Content strategy, Usability, Communications, Training, and Change management and 5) Documentation: Web style guide, CMS user guide, User manuals, SOPs." >}}
+{{< legacy-img src="2015/06/600-x-433-Functional-Governance-figure-Jacoby-May-29-2015.jpg" alt="This Functional Governance chart has 5 points in a circle graph showing: 1) Staff: Identify Roles and Content areas 2) Current Workflow Outside CMS: People, Roles, and Processes or policies 3) Drupal C M S: Users, Roles or permissions, and Content workflows 4) Supporting Areas: Content strategy, Usability, Communications, Training, and Change management and 5) Documentation: Web style guide, CMS user guide, User manuals, SOPs." >}}
 
 ## Governance is a Process
 

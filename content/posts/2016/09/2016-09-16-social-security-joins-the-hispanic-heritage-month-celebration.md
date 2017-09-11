@@ -24,7 +24,7 @@ Social Security joins you and your family in celebrating [Hispanic Heritage Mont
 
 We know the contributions of Hispanics can be traced to before the origins of the United States with the discovery, exploration, and naming of many places in our nation, such as state names like California, Colorado, and Texas and city names like San Antonio, Santa Barbara, and Boca Raton. Hispanics have influenced every facet of life, from language to our cultural development. Hispanics play a crucial role in American life.<span id="more-1828"></span>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-420-SSA-HHM-2016-blog-post.jpg" alt="Grandparents and child blow bubbles." >}}
+{{< legacy-img src="2016/09/600-x-420-SSA-HHM-2016-blog-post.jpg" alt="Grandparents and child blow bubbles." >}}
 
 The most important things to you are your family and maintaining the feeling of individuality through your language. That’s why Social Security provides a website —<span lang="es" title="Spanish"><a href="http://www.segurosocial.gov/" target="_blank">www.segurosocial.gov</a></span> — with a variety of publications and services in Spanish that are important to you and your family.
 

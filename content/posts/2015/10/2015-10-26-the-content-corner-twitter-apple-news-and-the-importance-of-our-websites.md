@@ -18,7 +18,7 @@ First, McDonald’s started serving breakfast all day. Now, [Twitter announced i
 
 LinkedIn and Facebook were first with their strong push for organizations to stop linking to content on their platforms and actually generate original content there. And while items like [Instant Articles](http://contently.com/strategist/2015/05/13/7-things-you-need-to-know-about-facebook-instant-articles/) have made headlines but have had a limited impact so far, sites like Medium only exist (and can raise [$57 million in venture funding](https://medium.com/the-story/medium-s-new-funding-round-48437c641e06)) for the creation of original content.
 
-## It Is All about Your Content {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Internet content marketing sketch on blue background over notebook" caption="" >}} 
+## It Is All about Your Content {{< legacy-img src="2015/10/600-x-400-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Internet content marketing sketch on blue background over notebook" caption="" >}} 
 
 I recently shared some of the [pros and cons of generating content on social media platforms]({{< relref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}); however, their role in helping us reach more citizens on various levels is unmistakable. According to comScore, [60% of digital media time is now spent on a mobile device](https://www.comscore.com/Insights/Blog/Mobile-Internet-Usage-Skyrockets-in-Past-4-Years-to-Overtake-Desktop-as-Most-Used-Digital-Platform), which also lends itself to higher app usage as opposed to visiting .gov websites for example.
 
@@ -46,7 +46,7 @@ We also need to continue to examine the balance between how much content we want
 
 As Twitter (and now [Apple News](https://www.apple.com/news/)) increases the pressure on content creators to devote their energies to developing content for their platforms, we have to be mindful of the value of our own sites.
 
-## We Lose Control {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Social-media-icons-tanuha2001-iStock-Thinkstock-480681166.jpg" alt="Social media logos and icons" caption="" >}} 
+## We Lose Control {{< legacy-img src="2015/10/600-x-400-Social-media-icons-tanuha2001-iStock-Thinkstock-480681166.jpg" alt="Social media logos and icons" caption="" >}} 
 
 This ongoing phenomenon of generating more and more content for other platforms has been called “digital sharecropping” by [Nicholas Carr](http://www.roughtype.com/?p=634), meaning public and private sector organizations are creating a significant amount of value for social media platforms, but with no control. As Carr points out, this has been an ingenious formula for turning users into free labor.
 

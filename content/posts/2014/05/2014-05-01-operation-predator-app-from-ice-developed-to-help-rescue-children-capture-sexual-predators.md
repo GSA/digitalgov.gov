@@ -17,7 +17,7 @@ It&#8217;s disturbing to think about, but essential for all of us to know about:
 
 When it comes to rescuing those children and investigating, locating and arresting suspected child predators, &#8220;[it&#8217;s a race against the clock](http://www.ice.gov/news/releases/1309/130912washingtondc.htm),&#8221; says [U.S. Immigration and Customs Enforcement&#8217;s](http://www.ice.gov) (ICE) Acting Director John Sandweg. Luckily there&#8217;s a mobile tool to help beat that clock back a bit.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-400-ICE-operation-predator-image-1-and-4.jpg" alt="Two screen shots of mobile app; the splash screen with the ICE branding, and the Alerts screen with mug shots of wanted predators." >}}
+{{< legacy-img src="2014/04/600-x-400-ICE-operation-predator-image-1-and-4.jpg" alt="Two screen shots of mobile app; the splash screen with the ICE branding, and the Alerts screen with mug shots of wanted predators." >}}
 
 Touted as the first of its kind in U.S. law enforcement, **[Operation Predator app](http://www.ice.gov/predator/predator-app.htm)** is harnessing the power of the mobile crowd to gather critical information worldwide, quickly and easily. Available for iPhone users, the app will also be expanded for wider mobile application.
 

@@ -15,7 +15,7 @@ tag:
   - GSA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}} 
 
 The [Government Contact Center Council (G3C)]({{< tmp "communities/government-contact-center-council-g3c.md" >}} "Government Contact Center Council - G3C"), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.
 

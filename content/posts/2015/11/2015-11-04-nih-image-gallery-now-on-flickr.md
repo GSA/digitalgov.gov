@@ -11,7 +11,7 @@ tag:
   - NIH
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x400-NIH-Flickr-Image-Gallery-screenshot.jpg" alt="Screen shot of the new NIH Image Gallery on Flickr" >}}
+{{< legacy-img src="2015/10/600-x400-NIH-Flickr-Image-Gallery-screenshot.jpg" alt="Screen shot of the new NIH Image Gallery on Flickr" >}}
 
 Looking for health or science related images? The National Institutes of Health (NIH) recently launched the [NIH Image Gallery on Flickr](https://www.flickr.com/photos/nihgov/albums).
 
@@ -25,4 +25,4 @@ Please note, if you cannot find the image you are looking for, you may [email us
 
 You can also [find more information on the NIH Image Gallery](http://www.nih.gov/news/imagebank/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-275-NIH-Image-Gallery-screenshot.jpg" alt="Screen shot of NIH Image Gallery web page" >}}
+{{< legacy-img src="2015/10/600-x-275-NIH-Image-Gallery-screenshot.jpg" alt="Screen shot of NIH Image Gallery web page" >}}

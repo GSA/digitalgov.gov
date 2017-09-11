@@ -28,7 +28,7 @@ tag:
 
 Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-348-census-bureau-hack-for-change-National-Day-of-Civic-Hacking-2014.jpg" alt="census bureau, hack for change" >}}
+{{< legacy-img src="2014/05/600-x-348-census-bureau-hack-for-change-National-Day-of-Civic-Hacking-2014.jpg" alt="census bureau, hack for change" >}}
 
 Two years ago, the Census Bureau launched its [application programming interface (API)](http://www.census.gov/developers/), giving developers access to a variety of high value data sets, including our flagship 2010 Census and American Community Survey five-year estimates.
 

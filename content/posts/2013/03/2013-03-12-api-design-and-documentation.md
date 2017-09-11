@@ -11,7 +11,7 @@ tag:
   - API
 ---
 
-## Design {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+## Design {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 At their core, developers want APIs for very straightforward, pragmatic ends. You should always design your APIs and document them with the goal of making it easier for developers to use them. Doing so results in greater adoption and a healthier, more successful API. The least efficient way to support developers would be to work with each interested developer individually on any question or problem that they have. Such a system would be a very inefficient use of your time as well as the developer’s. Instead, an API producer should bundle the API itself with useful and comprehensive documentation and tools such that any developer who stumbles upon the Web service can begin building with the API as easily as possible.
 

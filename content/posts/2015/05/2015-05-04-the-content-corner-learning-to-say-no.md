@@ -12,13 +12,13 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Businessman-choosing-no-instead-yes-button-BernardaSv-iStock-Thinktock-516619561.jpg" alt="Businessman choosing no instead yes button" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-400-Businessman-choosing-no-instead-yes-button-BernardaSv-iStock-Thinktock-516619561.jpg" alt="Businessman choosing no instead yes button" caption="" >}} 
 
 There is a quote that goes something like, &#8220;Just because we can do a thing, it does not follow that we **must** do a thing.&#8221; I attribute it to the President of the United Federation of Planets in _Star Trek VI: The Undiscovered Country_, partially because I am a geek, and secondly, the internet provided no better options. It is an important mantra in life in general, but also very important in the world of digital media and your agency&#8217;s content strategy: sometimes you need to say no.
 
 ## So Many Channels, so Little Content
 
-In [my inaugural post]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), I discussed the idea that as content creators we must constantly &#8220;feed the beast,&#8221; and I offered up some suggestions for generating content for all your various channels. I have also discussed the importance of a [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) and how it can help determine which channels are best for a particular message and content, but strategy also needs to help you determine when to **not** use a channel at all. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
+In [my inaugural post]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), I discussed the idea that as content creators we must constantly &#8220;feed the beast,&#8221; and I offered up some suggestions for generating content for all your various channels. I have also discussed the importance of a [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) and how it can help determine which channels are best for a particular message and content, but strategy also needs to help you determine when to **not** use a channel at all. {{< legacy-img src="2015/04/600-x-450-Social-Network-Rach27-iStock-Thinkstock-457041031.jpg" alt="Social Network" caption="" >}} 
 
 As I have said before, we all can&#8217;t be NASA or State, and while we can be jealous of their rich veins of content at times, in this instance having less content can be a positive. It can help be a natural limitation when it comes to choosing whether or not to jump on Meerkat or Periscope or Medium. Another positive can come from being an agency with a much smaller and focused audience as opposed to the wide audience that some agencies serve. A smaller demographic can make it easier to limit your focus on a smaller number of channels.
 
@@ -34,7 +34,7 @@ It is also much harder to regain trust and your reputation once customers have c
 
 [Creating quality content is hard](http://www.forbes.com/sites/theyec/2014/04/07/creating-content-is-hard-here-are-three-strategies-for-making-it-easier/) and the level of effort needed to do it well and often should not be underestimated, nor should the dangers of doing it poorly be ignored.
 
-## Should It Stay or Should It Go? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-200-Vote-equality-TimArbaev-iStock-Thinkstock-142533078.jpg" alt="Vote equality" caption="" >}} 
+## Should It Stay or Should It Go? {{< legacy-img src="2015/05/600-x-200-Vote-equality-TimArbaev-iStock-Thinkstock-142533078.jpg" alt="Vote equality" caption="" >}} 
 
 As I stated earlier, our profession absolutely requires that we be open to new technologies and that we test them to determine whether they are a good fit for our agency, its mission, and its content goals. The problem generally is not the starting or testing of a new channel or platform, but the ending. We have all probably worked in organizations that are home to one or several &#8220;[zombie projects](http://www.zdnet.com/article/the-truth-about-zombie-projects/)&#8221; that for whatever reason can never be killed off. Just as with content itself, a part of the strategy has to include what we in project management call a [stage gate analysis](http://www.brighthubpm.com/project-planning/46809-an-introduction-to-stage-gate-analysis/) to determine whether a test continues or needs to be shut down.
 

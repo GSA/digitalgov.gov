@@ -17,7 +17,7 @@ tag:
   - YouTube
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" alt="Glass disc recorded in November 1884. It features a voice saying ba-ro-me-ter." >}}](https://twitter.com/amhistorymuseum/status/559765339815555073/photo/1)
+[{{< legacy-img src="2015/02/600-x-399-Smithsonian-National-Museum-of-American-History-NMAH-Glass-disc-recorded-in-November-1884.-It-features-a-voice-saying-barometer.jpg" alt="Glass disc recorded in November 1884. It features a voice saying ba-ro-me-ter." >}}](https://twitter.com/amhistorymuseum/status/559765339815555073/photo/1)
 
 DC was the Silicon Valley of the 1880’s. And Alexander Graham Bell? He was more than just a telephone man. His Volta Laboratory was the premier 19th century innovation center.
 
@@ -31,7 +31,7 @@ NMAH Tweetups allow people who regularly interact with the museum on social medi
 
 ## By the Numbers
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-594-stats-for-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="Tweet by Erin Blasco showing various stats for the #HearHistory Tweetup" >}}](https://twitter.com/erinblasco/status/559796800534876162/photo/1)
+[{{< legacy-img src="2015/02/600-x-594-stats-for-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="Tweet by Erin Blasco showing various stats for the #HearHistory Tweetup" >}}](https://twitter.com/erinblasco/status/559796800534876162/photo/1)
 
 Incorporating in-person meetups with social media can lead to significant buzz around agency events. Despite inclement weather, #HearHistory was the 2nd most trended topic in DC on January 26th (coming in behind the much-discussed #blizzardof2015). During the tweetup, over 1,000 tweets were sent.
 
@@ -43,7 +43,7 @@ NMAH also posted a recap of the event on [Storify](https://storify.com/americanh
 
 ## Planning for Success and Providing Special Access
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweet-group-photo.jpg" alt="Screen capture of a Tweet by Erin Blasco ‏@erinblasco about the Smithsonian National Museum of American History (NMAH) HearHistory Twitter event, with a photo of the group of attendees." >}}](https://twitter.com/erinblasco/status/559823432024879104/photo/1)
+[{{< legacy-img src="2015/02/Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweet-group-photo.jpg" alt="Screen capture of a Tweet by Erin Blasco ‏@erinblasco about the Smithsonian National Museum of American History (NMAH) HearHistory Twitter event, with a photo of the group of attendees." >}}](https://twitter.com/erinblasco/status/559823432024879104/photo/1)
 
 Tweetup participants got in-depth information from the curator of the exhibition, Carlene Stephens. They also heard from the physicists who created a technique for recovering sound recordings via digital imagery: Carl Haber and Earl Cornell from the Lawrence Berkeley National Laboratory, and Peter Alyea, Digital Conversion Specialist for the Library of Congress. The sound recordings were considered unplayable and mysterious until the scientists recovered them in 2011.
 
@@ -55,7 +55,7 @@ For Hear My Voice, NMAH had the unique opportunity of having three experts and t
 
 ## Engagement Doesn&#8217;t End
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-301-Flickr-Photo-Group-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="600 x 301 Flickr Photo Group Smithsonian National Museum of American History (NMAH) #HearHistory tweetup" >}}](https://www.flickr.com/groups/2802036@N21/)
+[{{< legacy-img src="2015/02/600-x-301-Flickr-Photo-Group-Smithsonian-National-Museum-of-American-History-NMAH-HearHistory-tweetup.jpg" alt="600 x 301 Flickr Photo Group Smithsonian National Museum of American History (NMAH) #HearHistory tweetup" >}}](https://www.flickr.com/groups/2802036@N21/)
 
 Blasco’s outreach went beyond the event itself. She sent a follow-up email to participants, requesting three things. Each extra request added a layer of engagement to the experience.
 

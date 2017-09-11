@@ -18,7 +18,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" caption="" >}} 
+{{< legacy-img src="2015/02/250-x-201-Software-box-DenisKot-iStock-Thinkstock-174399007.jpg" alt="Box of apps" caption="" >}} 
 
 Tackling technology tasks just got easier.
 

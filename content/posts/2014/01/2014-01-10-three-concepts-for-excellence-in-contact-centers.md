@@ -14,7 +14,7 @@ tag:
   - government contact centers
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/600-x-405-Headset-with-a-microphone-VitalyEdush-iStock-Thinkstock-178719336.jpg" alt="Headset with a microphone" caption="" >}} 
+{{< legacy-img src="2014/01/600-x-405-Headset-with-a-microphone-VitalyEdush-iStock-Thinkstock-178719336.jpg" alt="Headset with a microphone" caption="" >}} 
 
 Using contact centers to deliver digital services is an emerging area in government. Due to the growth of online services, centers receive more attention and represent an important touch point for customers.
 

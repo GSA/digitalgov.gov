@@ -18,7 +18,7 @@ tag:
 
 We recently interviewed [Sara Wachter-Boettcher](http://www.sarawb.com/), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. Sara, a frequent conference speaker, runs a content strategy consultancy, and is the co-author of _Design for Real Life_. She has extensive experience consulting with major brands, universities, agencies, nonprofits, and others to make their content more memorable, manageable, and sustainable.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Sara-Wachter-Boettcher.jpg" alt="Sara Wachter-Boettcher." >}}
+{{< legacy-img src="2016/10/600-x-450-Sara-Wachter-Boettcher.jpg" alt="Sara Wachter-Boettcher." >}}
 
 **How would you describe structured content?**
 
@@ -34,7 +34,7 @@ An organization can’t have [content strategy]({{< link "tag/content-strategy" 
 
 **What is the biggest challenge for Federal agencies in adopting the practice of content strategy?**
 
-In her opinion, one of the biggest challenges is when folks who create web content get stuck in the culture of their organization and don&#8217;t see the importance of making changes to show their content in a new way. The key being “thinking of their content in a broader story.” Frequently, we see web content creators forget to focus on their audience connection points when they should be thinking of the web as an inter-connected system. When this happens, it truly opens new opportunities and possibilities. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Magic-book-Lobke-Peers-shevvers-iStock-Thinkstock-147289491.jpg" alt="An open book with wisps of light." caption="" >}} 
+In her opinion, one of the biggest challenges is when folks who create web content get stuck in the culture of their organization and don&#8217;t see the importance of making changes to show their content in a new way. The key being “thinking of their content in a broader story.” Frequently, we see web content creators forget to focus on their audience connection points when they should be thinking of the web as an inter-connected system. When this happens, it truly opens new opportunities and possibilities. {{< legacy-img src="2016/10/600-x-450-Magic-book-Lobke-Peers-shevvers-iStock-Thinkstock-147289491.jpg" alt="An open book with wisps of light." caption="" >}} 
 
 **Does this happen outside the Government?**
 

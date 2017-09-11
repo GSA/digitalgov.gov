@@ -19,7 +19,7 @@ tag:
 
 Geological phenomena such as steaming mud craters, bubbling mud pools, hot springs and geysers are some of the exhilarating features of a geo-thermal wonderland. Old Faithful in Yellowstone National Park falls into this category.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-513-NPS-Yellowstone-Geysers-iPhone-app-screenshots.jpg" alt="Screenshots of the National Park Service Yellowstone Geysers app from an iPhone" >}}
+{{< legacy-img src="2015/12/600-x-513-NPS-Yellowstone-Geysers-iPhone-app-screenshots.jpg" alt="Screenshots of the National Park Service Yellowstone Geysers app from an iPhone" >}}
 
 If you are planning a visit to Yellowstone, you can download the National Park Service (NPS)&#8217;s NPS Yellowstone Geysers free mobile app from [iTunes](https://itunes.apple.com/us/app/nps-yellowstone-geysers/id901014175?mt=8) for iOS and [Google Play](https://play.google.com/store/apps/details?id=gov.nps.geysers&hl=en) for Android devices.
 

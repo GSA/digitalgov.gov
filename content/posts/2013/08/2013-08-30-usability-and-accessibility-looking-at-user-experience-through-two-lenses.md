@@ -14,7 +14,7 @@ tag:
 ---
 
 <p style="text-align: left">
-  Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best possible user experience.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220-250x189.jpg" alt="Accessibility-290x220" >}}</a>
+  Usability and accessibility are slightly different lenses to assess user experience. It is possible to be strong in one area and weak in the other. Using either approach alone could result in an inaccurate view of your site’s user experience. Evaluating your website with both usability and accessibility in mind gives all users the best possible user experience.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{{< legacy-img src="2013/08/Accessibility-290x220-250x189.jpg" alt="Accessibility-290x220" >}}</a>
 </p>
 
 ## What is Usability?

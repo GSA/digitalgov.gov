@@ -15,7 +15,7 @@ tag:
   - US Department of Education
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-262-FSA-header.jpg" alt="U.S. Department of Education's Federal Student Aid logo and a quote that reads, Minds can achieve anything. We make sure they get to college. At Federal Student Aid, we make it easier to get money for higher education." >}}
+{{< legacy-img src="2015/08/600-x-262-FSA-header.jpg" alt="U.S. Department of Education's Federal Student Aid logo and a quote that reads, Minds can achieve anything. We make sure they get to college. At Federal Student Aid, we make it easier to get money for higher education." >}}
 
 Customer Experience (CX) deserves a voice at an agency’s senior levels. Putting CX at the forefront of policy-making decisions will have the most positive impact for customers. Elevating CX is how the Department of Education’s Federal Student Aid (FSA) champions the 22 million applicants seeking $150 billion in education loans each year. Brenda Wensil, Chief Customer Experience Officer at FSA, shared her insights with DigitalGov University in a July 28, 2015, webinar about the establishment of the FSA CX Team.
 
@@ -29,7 +29,7 @@ The CX team is small and dedicated, with only 106 of 1,200 total FSA employees, 
   4. School Experience Group—deals directly with colleges
   5. Customer Analytics Group—uses data from across the organization to build business cases and make decisions
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-276-Office-of-the-Chief-Customer-Experience-Office-organizational-chart.jpg" alt="Office of the Chief Customer Experience Office organizational chart" >}}
+{{< legacy-img src="2015/08/600-x-276-Office-of-the-Chief-Customer-Experience-Office-organizational-chart.jpg" alt="Office of the Chief Customer Experience Office organizational chart" >}}
 
 Strategic priorities, such as the following, guide their work:
 

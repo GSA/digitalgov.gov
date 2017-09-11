@@ -22,7 +22,7 @@ tag:
 
 This week marks a special anniversary for GSA as we celebrate our Data-to-Decision (D2D) platform since its launch in the fall of 2015. D2D is GSA’s data management platform that collects, manages, and analyzes complex data to enable data-driven decision-making. Over the past year, GSA has made major strides forward in understanding how accurate and insightful data can help us be a more data-driven organization. I am proud to say that D2D now has more than 1,000 users and over 100 published dashboards across GSA!
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-GSA-D2D-homepage.jpg" alt="Screen capture of the Data-to-Decision (D2D) homepage." >}}
+{{< legacy-img src="2016/09/600-x-400-GSA-D2D-homepage.jpg" alt="Screen capture of the Data-to-Decision (D2D) homepage." >}}
 
 ## The D2D Effect
 

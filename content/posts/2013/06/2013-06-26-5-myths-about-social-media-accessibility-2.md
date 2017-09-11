@@ -18,7 +18,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <em><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg" alt="Image of an IPad with an accessibility sign on it." >}}</a></em>As a representative of the Office of Disability Employment Policy at the Department of Labor, I&#8217;ve had the privilege of visiting with numerous individuals and organizations to promote the value of social media accessibility.  My major takeaway?  There are many misconceptions.  By highlighting some of the major myths here, I hope to arm readers with information they can use to educate others and help support social media inclusion for all.
+  <em><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/Accessibility-290x220.jpg">{{< legacy-img src="2013/08/Accessibility-290x220.jpg" alt="Image of an IPad with an accessibility sign on it." >}}</a></em>As a representative of the Office of Disability Employment Policy at the Department of Labor, I&#8217;ve had the privilege of visiting with numerous individuals and organizations to promote the value of social media accessibility.  My major takeaway?  There are many misconceptions.  By highlighting some of the major myths here, I hope to arm readers with information they can use to educate others and help support social media inclusion for all.
 </p>
 
 <p dir="ltr">

@@ -18,7 +18,7 @@ tag:
   - US Department of Labor
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 
+{{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 
 
 Here at DigitalGov, [customer service is a focal theme]({{< relref "2015-05-07-monthly-theme-customer-service-in-the-federal-digital-space.md" >}}) during the month of May, and by some type of cosmic chance, I was invited to share my insights on [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}} "The Content Corner: Building a Content Strategy") and content creation at a Customer Service Community of Practice event at the Department of Labor. The event focused on topics I commonly discuss here in [The Content Corner]({{< link "tag/the-content-corner" >}}), such as efficient and interesting content and how better content translates into better customer service.
 
@@ -28,7 +28,7 @@ After being asked to speak at a customer service event, I started to really thin
 
 ## **The Struggle for More Engaging Content**
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/578-x-298-DOL-Labor-Customer-Service-Program-Office.jpg" alt="L to R: Erica Roberts-Program Manager DOL Customer Service Program Office, Ty Manuel-IT Specialist Administrative Office of the US Courts, Renee Tajudeen-Director of Policy Communication and Outreach DOL's Office of Disability Employment Policy (ODEP), Laura Miller-Special Assistant to the Secretary of Labor, Leonard Sipes-Senior Public Affairs Specialist and Social Media Manager for Court Services and Offender Supervision Agency (Federal Executive Agency). " >}}
+{{< legacy-img src="2015/05/578-x-298-DOL-Labor-Customer-Service-Program-Office.jpg" alt="L to R: Erica Roberts-Program Manager DOL Customer Service Program Office, Ty Manuel-IT Specialist Administrative Office of the US Courts, Renee Tajudeen-Director of Policy Communication and Outreach DOL's Office of Disability Employment Policy (ODEP), Laura Miller-Special Assistant to the Secretary of Labor, Leonard Sipes-Senior Public Affairs Specialist and Social Media Manager for Court Services and Offender Supervision Agency (Federal Executive Agency). " >}}
 
 The customer service event at Labor, organized by the extremely hard-working Erica Roberts, Program Manager of the Customer Service Program Office, is part of an ongoing initiative government-wide to encourage [cross-agency customer service](http://www.performance.gov/node/3400?view=public#apg) by reaching across the government to share and learn from each other. This session&#8217;s main goal was to help Labor&#8217;s various agencies create more engaging and consumable content, all in the name of providing better service to the customer.
 

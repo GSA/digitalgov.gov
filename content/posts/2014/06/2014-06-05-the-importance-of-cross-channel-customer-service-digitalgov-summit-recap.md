@@ -24,7 +24,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-370-Tonya-Beres-GSA-Panel-2-Customer-Service-Across-Channels-toni470-flickr-20140530_100526.jpg" alt="DigitalGov Citizen Services Summit and Expo -" caption="" >}} 
 
 During the [DigitalGov Citizen Services Summit]({{< relref "2014-05-30-digitalgov-citizen-services-summit-a-success.md" >}}) last Friday, customer service experts from across government came together on a panel to share what customer service means to them and their organization and specific ways they leverage it. The other panels were on [performance analysis]({{< relref "2014-06-03-digitalgov-summit-panels-recap.md" >}} "Turning Data Into Action—DigitalGov Summit Recap"), [public private partnerships]({{< relref "2014-06-05-overcoming-barriers-digitalgov-summit-recap.md" >}} "Overcoming Barriers—DigitalGov Summit Recap"), and [inter-agency work]({{< relref "2014-06-03-harnessing-the-power-of-many-digitalgov-summit-panels-recap.md" >}} "Harnessing the Power of Many—DigitalGov Summit Recap").
 

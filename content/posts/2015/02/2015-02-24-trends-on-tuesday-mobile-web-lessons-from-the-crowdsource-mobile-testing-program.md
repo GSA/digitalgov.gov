@@ -19,7 +19,7 @@ tag:
   - United States Department of Energy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-450-Silhouette-of-business-people-in-the-middle-of-circuit-board-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224848.jpg" alt="Silhouette of business people in the middle of circuit board" caption="" >}} 
 
 Practice makes perfect. But in the mobile world, it’s testing that makes products better.
 

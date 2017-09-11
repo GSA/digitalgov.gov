@@ -40,7 +40,7 @@ For these reasons, <a href="https://www.whitehouse.gov/blog/2015/07/02/improving
 
 To accomplish these tasks, EPA, FDA, and USDA spent the last 14 months performing a detailed analysis of the Federal system for regulation of biotechnology products, including by reviewing more than 900 comments that were submitted in response to a <a href="https://www.federalregister.gov/articles/2015/10/06/2015-25325/clarifying-current-roles-and-responsibilities-described-in-the-coordinated-framework-for-the" target="_blank">Request for Information</a> that was posted last fall, and interacting with members of the public at [three](http://www.fda.gov/NewsEvents/MeetingsConferencesWorkshops/ucm463783.htm) [public](https://www.epa.gov/regulation-biotechnology-under-tsca-and-fifra/modernizing-regulatory-system-biotechnology-products-0) [meetings](https://www.aphis.usda.gov/aphis/ourfocus/biotechnology/stakeholder-meetings/cf_meeting/) that were held in different regions of the country.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-520-USDA-website-Modernizing-the-Regulatory-System-for-Biotechnology-Products.jpg" alt="Modernizing the Regulatory System for Biotechnology Products homepage." >}}
+{{< legacy-img src="2016/09/600-x-520-USDA-website-Modernizing-the-Regulatory-System-for-Biotechnology-Products.jpg" alt="Modernizing the Regulatory System for Biotechnology Products homepage." >}}
 
 **Clarifying current roles and responsibilities**
 

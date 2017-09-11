@@ -13,7 +13,7 @@ tag:
   - open government
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg) 
+[{{< legacy-img src="2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg) 
 
 In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent [White House Office of Science and Technology Policy (OSTP) blog](http://www.whitehouse.gov/blog/2014/02/28/we-love-it-when-plan-comes-together-0) about the upcoming 2014 Open Government plans and [achievements from past plans]({{< relref "2014-03-10-we-love-it-when-a-plan-comes-together.md" >}}). An agency that prides itself on openness in its regulatory activities, NRC has been webstreaming public meetings since 1997, when the Office of Information Services conducted a “pilot” test of nine Commission meetings to ascertain the interest of stakeholders and the public in viewing these meetings, as they took place over the Internet.
 

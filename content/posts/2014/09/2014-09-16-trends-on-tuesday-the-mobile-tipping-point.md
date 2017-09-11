@@ -16,7 +16,7 @@ tag:
   - responsive web design
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
+{{< legacy-img src="2014/08/250-x-243-Modern-touchscreen-smartphones-scanrail-iStock-Thinkstock-497714919.jpg" alt="Modern touchscreen smartphones" caption="" >}} 
 
 The [International Data Corporation (IDC)](http://www.mobilemarketingwatch.com/idc-says-the-rest-of-2014-will-be-strong-for-smartphones-44530/) is forecasting a strong outlook for smartphone sales during the remaining months of 2014. They predict more than 1.25 billion smartphones will be shipped worldwide before the end of the year. Just 24 hours after going on sale last Friday, the new iPhone 6 and iPhone 6 Plus broke prior Apple presale records with 4 million units purchased.
 

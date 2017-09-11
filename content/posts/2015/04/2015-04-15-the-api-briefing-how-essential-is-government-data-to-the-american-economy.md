@@ -19,7 +19,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-300-American-flag-as-bar-code-Andrei-Tsalko-iStock-Thinkstock-ThinkstockPhotos-153479385.jpg" alt="American flag as bar code" caption="" >}} 
 
 I grew up when home computers were first being introduced to the general public. I bought my first computer, a Commodore 64, after spending a summer of mowing lawns and saving up my birthday and Christmas money. It was not until I entered college that I became an infopreneur. Infopreneurs are entrepreneurs who used computers and data sources to provide information products and services. My specialty was compiling information from the university’s collection of CD-ROMs that they received from various government agencies. I was also able to pull information from the pre-World-Wide-Web Internet.
 

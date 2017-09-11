@@ -17,7 +17,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-250-Apple-App-Store-and-Android-Google-Play-icons.jpg" alt="Apple App Store and Android Google Play icons" >}}Mobile apps meet real world needs. App development is not a homogenous process, however.
+{{< legacy-img src="2015/04/600-x-250-Apple-App-Store-and-Android-Google-Play-icons.jpg" alt="Apple App Store and Android Google Play icons" >}}Mobile apps meet real world needs. App development is not a homogenous process, however.
 
 Apple and Android devices are overwhelmingly dominant in device ownership and app development. So, we examined the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) for iOS and Android offerings. We noticed a predominance of iOS applications: 170 apps were available on iOS, while only 93 were available on Android.
 
@@ -43,7 +43,7 @@ An [InformIT article](http://www.informit.com/blogs/blog.aspx?uk=The-Fight-for-T
 
 Fragmentation is an issue cited in both the Quartz and InformIT articles. In January 2014, 78% of iOS users were running the latest version of the iOS operating system, compared with a little more than 50% of Android users, according to InformIT. This poses a problem for app developers, who have to choose an Android OS to design for, which may leave older Android operating systems in the lurch.
 
-## Security concerns {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-462-Smart-phone-with-closed-lock-rvlsoft-iStock-Thinkstock-187451206.jpg" alt="Smart phone with closed lock" caption="" >}} 
+## Security concerns {{< legacy-img src="2015/04/250-x-462-Smart-phone-with-closed-lock-rvlsoft-iStock-Thinkstock-187451206.jpg" alt="Smart phone with closed lock" caption="" >}} 
 
 “This is a mixed bag, depending on who you ask or your specific security concerns, but Apple was early to tie securely into things like enterprise email systems and to support things like remote wipes,” said Sullivan. “Android lagged in this area, and it hurt them among enterprise business clients, but they have been making big strides to catch up. I think there is still a perception of uncertainty around it.”
 

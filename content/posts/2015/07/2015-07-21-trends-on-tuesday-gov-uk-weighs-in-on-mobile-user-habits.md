@@ -18,7 +18,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" >}}
+{{< legacy-img src="2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" >}}
 
 England’s [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (similar to our own [U.S. Digital Services](https://www.whitehouse.gov/digital/united-states-digital-service) and [18F](https://18f.gsa.gov/)) did a study of how content on their websites is consumed on mobile and non-mobile devices and [learned several key points for a future-focused and mobile-friendly government organization](https://insidegovuk.blog.gov.uk/2015/06/26/improving-content-display-mobile/):
 

@@ -20,7 +20,7 @@ tag:
   - United States Department of Transportation
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}} 
+{{< legacy-img src="2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}} 
 
 No [Mobile Gov Month on DigitalGov]({{< relref "2014-10-20-welcome-to-mobilegov-month-on-digitalgov.md" >}} "Welcome to Mobile Gov Month on DigitalGov") would be complete without an update on the Internet of Things.
 

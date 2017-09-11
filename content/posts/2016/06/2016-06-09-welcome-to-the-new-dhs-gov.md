@@ -33,7 +33,7 @@ Today, I am happy to announce the newly optimized DHS.gov website. Over the past
   * Cleaner, easier-to-read site format and presentation
   * Faster and more accurate site navigation using our internal search function and external search engines (like Google and Bing)
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." >}}
+{{< legacy-img src="2016/06/600-x-627-new-DHS-website-16\_0523\_promo\_new\_website.jpg" alt="A collage of the new DHS website on different devices; dekstop, tablet, and mobile phone." >}}
 
 ## DHS.gov for Mobile
 

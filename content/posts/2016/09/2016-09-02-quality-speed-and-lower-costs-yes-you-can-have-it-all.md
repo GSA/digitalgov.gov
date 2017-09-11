@@ -25,7 +25,7 @@ We were also able to reduce our CDN costs to almost zero by insourcing the manag
 
 In the prior DigitalGov Search datacenters — one in Chicago and one in Virginia — we had pools of high-powered, physical Dell &#8220;pizza box&#8221; servers running a variety of services in a composition that had been tuned to observed traffic patterns:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." >}}
+{{< legacy-img src="2016/08/543-x-561-old\_datacenter\_network_diagram.jpg" alt="A diagram of the old data center network." >}}
 
 Services had been distributed opportunistically across the servers over time. We made it a primary goal of our new architecture to separate each of our services by _role_, and to build flexible pools for each role that could be scaled up or down as demand increased or decreased for each service. This sounds great on the drawing board, but to build robust, role-specific deployment recipes for multiple applications and services would be time-intensive and expensive.
 
@@ -55,7 +55,7 @@ We also migrated our database services (MySQL and Redis) to the hosted AWS equiv
 
 With all of these pieces in place we were able to build out the following architecture in AWS:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." >}}
+{{< legacy-img src="2016/08/486-x-713-aws\_network\_diagram.jpg" alt="A diagram of the new AWS network." >}}
 
 The key thing to note about this architecture is that it has four new characteristics that our old environment did not:
 

@@ -8,7 +8,7 @@ categories:
   - Social Media
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" caption="" >}} 
+{{< legacy-img src="2015/01/250-x-465-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Mobile Security and Protection Concept Smartphone with Safe Door" caption="" >}} 
 
 Federal agencies must prepare social media readiness procedures for cyber-vandalism, effectively recover control during an incident, and respond quickly to the public to maintain confidence in digital services.
 

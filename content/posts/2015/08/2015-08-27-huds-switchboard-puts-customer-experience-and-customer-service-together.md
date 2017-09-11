@@ -55,6 +55,6 @@ Below is a screenshot of what Jay and Rachel consider to be a [success for HUD S
   4. It received 235 upvotes. Above the 200 vote referral threshold.
   5. There is a response from Deputy Secretary Nani Coloretti. She recognizes the contribution, sets a timeline for implementation (2016) and emphasizes what makes for a solid contribution. See the gray text below her response. Note that it has only happened two other times.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-434-HUD-Switchboard-Screen-Cap-082415.jpg" alt="Screen capture of the HUD Switchboard" >}}
+{{< legacy-img src="2015/08/600-x-434-HUD-Switchboard-Screen-Cap-082415.jpg" alt="Screen capture of the HUD Switchboard" >}}
 
 That’s good customer service and customer experience.

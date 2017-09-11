@@ -12,7 +12,7 @@ tag:
   - United States Department of Housing and Urban Development
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Building-under-construction-with-crane-green-bluebay2014-iStock-Thinkstock-494558479.jpg" alt="Concept graphic for housing construction, planning and costs." caption="" >}} 
+{{< legacy-img src="2015/05/600-x-400-Building-under-construction-with-crane-green-bluebay2014-iStock-Thinkstock-494558479.jpg" alt="Concept graphic for housing construction, planning and costs." caption="" >}} 
 
 Innovation challenges leverage public creativity to address important problems. They can also be a tool for reaching and educating the next generation of leaders about social issues.
 
@@ -26,7 +26,7 @@ Katherine O’Regan, Assistant Secretary for Policy Development and Research, to
 
 ## Many Disciplines, One Goal
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/2015\_IAH\_Logo_Final.jpg" alt="Innovation in Affordable Housing Student Design and Planning Competition logo." >}}PD&R first launched the competition in early 2014 and challenged multidisciplinary teams of students to respond to a real world issue involving design, planning, finance, and large community elements. The [2014 competition](http://www.huduser.org/portal/challenge/past_competitions.html) centered on veteran&#8217;s housing and was so successful that PD&R renewed the competition for an additional five years.
+{{< legacy-img src="2015/05/2015\_IAH\_Logo_Final.jpg" alt="Innovation in Affordable Housing Student Design and Planning Competition logo." >}}PD&R first launched the competition in early 2014 and challenged multidisciplinary teams of students to respond to a real world issue involving design, planning, finance, and large community elements. The [2014 competition](http://www.huduser.org/portal/challenge/past_competitions.html) centered on veteran&#8217;s housing and was so successful that PD&R renewed the competition for an additional five years.
 
 This year’s focus on senior housing provided another topic that is extremely relevant in the area of affordable housing and is only growing in importance. The students may not have been exposed to the issue of senior housing without the competition, which provided an opportunity to really examine the issue and the current research around it.
 
@@ -38,7 +38,7 @@ This year’s finalist teams represented the University of Kansas, the Universit
 
 ## The Winners
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-172-hud-NYU-team.jpg" alt="The NYU Team: Constantine Caloudas, Michelle Guber, Peter Lovanella, Kathy O’Regan (HUD), Matthew Jupin and Christopher Hayner." >}}NYU took home the grand prize](http://portal.hud.gov/hudportal/HUD?src=/press/press_releases_media_advisories/2015/HUDNo_15-046) of $20,000. The team employed a sophisticated design that minimized the bulk of the building in response to the local context. The team also received very high marks for its innovative financing scheme that included using a mixed use strategy to create economic development and positive community-wide impact.
+[{{< legacy-img src="2015/05/250-x-172-hud-NYU-team.jpg" alt="The NYU Team: Constantine Caloudas, Michelle Guber, Peter Lovanella, Kathy O’Regan (HUD), Matthew Jupin and Christopher Hayner." >}}NYU took home the grand prize](http://portal.hud.gov/hudportal/HUD?src=/press/press_releases_media_advisories/2015/HUDNo_15-046) of $20,000. The team employed a sophisticated design that minimized the bulk of the building in response to the local context. The team also received very high marks for its innovative financing scheme that included using a mixed use strategy to create economic development and positive community-wide impact.
 
 The runner-up team, which received a $10,000 prize, was the team from UCLA. The team designed a gut rehab of the existing Bayou Towers structure with an emphasis on energy efficiency coupled with strong healthcare partnerships. The jurors felt the team demonstrated a deep understanding of the senior population and its needs. The team also emphasized reuse of materials and designed a new modular innovative façade.
 

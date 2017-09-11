@@ -25,7 +25,7 @@ In July 2015, [we announced a big change](https://medium.com/@Goldman44/how-we-r
 
 We committed to responding to you within a 60-day timeframe, whenever possible. We assembled a team of people dedicated to getting your policy questions and requests to the right people so you get the most informed response. (Often, that meant the heads of agencies or the foremost experts on a given issue.) We also answered a backlog of 20 petitions, resulting in 2.5 million people receiving a response from us within a single day.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-1019-We-the-People-infographic.jpg" alt="An infographic for We the People data, dated April 20, 2016." >}}
+{{< legacy-img src="2016/05/600-x-1019-We-the-People-infographic.jpg" alt="An infographic for We the People data, dated April 20, 2016." >}}
 
 But more importantly, we committed to continue listening.
 
@@ -47,7 +47,7 @@ Now there are mobile and desktop breakpoints, allowing the site to scale-to-fit 
 
 We also did an extensive round of testing to ensure the site is accessible for screen readers, meaning that visually-impaired users can have the best experience possible.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-We-the-People-mobile-animated.gif" alt="Animated gif shows mobile version of We the People." >}}
+{{< legacy-img src="2016/05/600-x-450-We-the-People-mobile-animated.gif" alt="Animated gif shows mobile version of We the People." >}}
 
  
 
@@ -67,7 +67,7 @@ When analyzing our traffic patterns, we noticed that users almost universally on
 
 **The result? Now it takes just a few, easy steps to view, sign, and then share a petition.** That means it’s also way simpler for people — no matter their age, location, or level of technical prowess — to participate in petitioning. That’s a critical step to ensure that We the People remains universally accessible.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-871-We-the-People-hp-redesign-animated.gif" alt="An animated gif showing the We the People homepages." >}}
+{{< legacy-img src="2016/05/600-x-871-We-the-People-hp-redesign-animated.gif" alt="An animated gif showing the We the People homepages." >}}
 
 **Some things, of course, stayed the same.** The threshold for response is still 100,000 signatures. When we do respond, we are still going to be candid and honest with you. And whenever possible, we’re going to find ways to engage further: to talk with you directly, to answer your questions, and to connect you to ongoing opportunities to learn about and participate in a cause that matters to you.
 

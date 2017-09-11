@@ -10,7 +10,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-440-SaferCar-Android-Apps-on-Google-Play.jpg" alt="Screen capture of the Android Safer Car app on Google Play" >}}With the [start of &#8220;astronomical summer&#8221;](http://www.ncdc.noaa.gov/news/meteorological-versus-astronomical-summer) later this week on June 21, that means two things: road trips and car buying.
+{{< legacy-img src="2014/06/250-x-440-SaferCar-Android-Apps-on-Google-Play.jpg" alt="Screen capture of the Android Safer Car app on Google Play" >}}With the [start of &#8220;astronomical summer&#8221;](http://www.ncdc.noaa.gov/news/meteorological-versus-astronomical-summer) later this week on June 21, that means two things: road trips and car buying.
 
 If you&#8217;re doing either or both, best be sure to grab the app for the [SaferCar program](http://www.safercar.gov/) from the Department of Transportation&#8217;s [National Highway Traffic Safety Administration](http://www.nhtsa.gov/About) (NHTSA).
 

@@ -12,7 +12,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Typing-lucky336-iStock-Thinkstock-459117607.jpg" alt="Hands typing on a laptop keyboard." caption="" >}} 
 
 One of the more commonly overlooked pieces of any effective content strategy is a content style guide. Many times, content contribution takes place without even being aware of the need for a style guide, while other times a content style guide is considered something only used by print editors and publishers.
 
@@ -36,7 +36,7 @@ Most importantly, a content style guide serves as a reference tool for your [con
 
 ## Build Upon the Work of Others
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-316-The-Yahoo-Style-Guide-The-Ultimate-Sourcebook-for-Writing-Editing-and-Creating-Content-for-the-Digital-World.jpg" alt="The front cover of the book titled, The Yahoo! Style Guide: The Ultimate Sourcebook for Writing, Editing, and Creating Content for the Digital World." >}}Another common misconception about content style guides are that they are hard to develop and time-consuming. I personally have never found this to be the case when developing either a print style guide or a Web style guide. One of the main reasons developing your own style guide is relatively easy is that either the AP or Chicago guides can serve as your extremely strong foundation. Yahoo also has a [popular style guide](http://www.businessinsider.com/yahoo-publishes-a-style-guide-for-the-internet-2010-4) that is Internet-focused (as expected). Your agency may have, at a minimum, decided on one of these main guides; in my experience it is typically Chicago, but either way, a lot of the hard work has already been done for you. Just be sure to specify in your guide when an in-house style overrides something in one of the core guides.
+{{< legacy-img src="2015/06/250-x-316-The-Yahoo-Style-Guide-The-Ultimate-Sourcebook-for-Writing-Editing-and-Creating-Content-for-the-Digital-World.jpg" alt="The front cover of the book titled, The Yahoo! Style Guide: The Ultimate Sourcebook for Writing, Editing, and Creating Content for the Digital World." >}}Another common misconception about content style guides are that they are hard to develop and time-consuming. I personally have never found this to be the case when developing either a print style guide or a Web style guide. One of the main reasons developing your own style guide is relatively easy is that either the AP or Chicago guides can serve as your extremely strong foundation. Yahoo also has a [popular style guide](http://www.businessinsider.com/yahoo-publishes-a-style-guide-for-the-internet-2010-4) that is Internet-focused (as expected). Your agency may have, at a minimum, decided on one of these main guides; in my experience it is typically Chicago, but either way, a lot of the hard work has already been done for you. Just be sure to specify in your guide when an in-house style overrides something in one of the core guides.
 
 From there, you just need to review the content strategy you have in place and personalize accordingly, adding guidance for a wide variety of items such as:
 
@@ -46,7 +46,7 @@ From there, you just need to review the content strategy you have in place and p
   * Image placement and caption rules
   * URL placement and usage (do you show the URL or just link?)
 
-## A Living Document {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-167-Computer-key-modify-socket-wrench-symbol-jurgenfr-iStock-Thinkstock-478284945.jpg" alt="Computer key - modify socket wrench symbol" caption="" >}} 
+## A Living Document {{< legacy-img src="2015/06/250-x-167-Computer-key-modify-socket-wrench-symbol-jurgenfr-iStock-Thinkstock-478284945.jpg" alt="Computer key - modify socket wrench symbol" caption="" >}} 
 
 Just as your website is not a print product that gets shipped in some final state, your agency&#8217;s style guide should never be considered final. As your digital products continue to change and grow, previous styles will need to be updated and completely new styles may need to be developed. What worked for your Facebook page may not work for whatever new platform your agency has adopted and is using to reach more customers.
 

@@ -11,7 +11,7 @@ tag:
   - data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-389-MobyGames-39699\_Pitfall-by-David-Crane\_Atari-2600-screenshot-swinging-over-some-alligators.jpg" alt="Video game character, Pitfall Harry, leaps over alligators in the 1982 Atari game, Pitfall!, created by David Crane, distributed by Activision, Inc." caption="" >}} 
+{{< legacy-img src="2015/08/600-x-389-MobyGames-39699\_Pitfall-by-David-Crane\_Atari-2600-screenshot-swinging-over-some-alligators.jpg" alt="Video game character, Pitfall Harry, leaps over alligators in the 1982 Atari game, Pitfall!, created by David Crane, distributed by Activision, Inc." caption="" >}} 
 
 In large agencies, lots of Web teams touch digital analytics in one way or another, and we have had the pleasure of working with teams both within and outside our agency. For us, hearing from a diverse set of perspectives has been a great learning experience.
 
@@ -23,7 +23,7 @@ A large portion of all Web traffic metrics are defined within the scope of the v
 
 Take this example: If the subdomain for your search results pages is search.example.gov, visits will break anytime a user performs a search from www.example.gov or example.gov. Envision similar scenarios for all the subdomains on your site, and you will start to understand the magnitude of this problem. Luckily, by implementing subdomain tracking, you can ensure that visits do not end until the user exits your website, regardless of how many subdomains they cross-navigate.
 
-## How, Exactly, Are Traffic Metrics Affected? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Web-analytics-data-on-computer-monitor-Bigandt_Photography-iStock-Thinkstock-473443138.jpg" alt="Web analytics data on computer monitor" caption="" >}} 
+## How, Exactly, Are Traffic Metrics Affected? {{< legacy-img src="2015/08/600-x-400-Web-analytics-data-on-computer-monitor-Bigandt_Photography-iStock-Thinkstock-473443138.jpg" alt="Web analytics data on computer monitor" caption="" >}} 
 
 When visits break across subdomains, it affects nearly all of your traffic data. In fact, all visit-level metrics become skewed in one way or another. Here are some examples from Google’s Universal Analytics (UA), which is the latest incarnation of Google Analytics and the software we happen to use at our agency:
 

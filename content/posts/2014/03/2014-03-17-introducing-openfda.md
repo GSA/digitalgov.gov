@@ -14,7 +14,7 @@ tag:
   - mobile-first
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/p\_blog\_introducing\_openFDA\_600x267.jpg" alt="Image of scientist reading printout from mainframe computer" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/p_blog_introducing_openFDA_600x267.jpg)
+[{{< legacy-img src="2014/03/p\_blog\_introducing\_openFDA\_600x267.jpg" alt="Image of scientist reading printout from mainframe computer" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/p_blog_introducing_openFDA_600x267.jpg)
 
 Welcome to the new home of [openFDA](http://open.fda.gov/)! We are incredibly excited to see so much interest in our work and hope that this site can be a valuable resource to those wishing to use public FDA data in both the public and private sector to spur innovation, further regulatory or scientific missions, educate the public, and save lives.
 

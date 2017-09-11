@@ -23,7 +23,7 @@ One important thing is to remember or establish what your core channel is. I lik
 
 ## Building a Home on Someone Else&#8217;s Land
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" >}}
+{{< legacy-img src="2015/01/600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841.jpg" alt="600-x-382-Social-media-signs-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458456841" >}}
 
 As you work to establish your home base or core channel, be careful if you set up camp on a platform where you have little control and no true ownership. Similar to concerns about [user-generated content (UGC)]({{< relref "2015-09-21-the-content-corner-harness-the-power-of-user-generated-content.md" >}}), you have to be aware of the [terms of service]({{< relref "negotiated-terms-of-service-agreements.md" >}}) on platforms such as Facebook, Twitter, YouTube and Tumblr.
 

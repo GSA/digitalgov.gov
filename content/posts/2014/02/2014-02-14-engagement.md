@@ -14,7 +14,7 @@ tag:
   - US Fish and Wildlife Service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-293-social-media-registry-federal-engagement-word-cloud.jpg" alt="Social Media federal registry engagement word cloud" >}}
+{{< legacy-img src="2015/02/600-x-293-social-media-registry-federal-engagement-word-cloud.jpg" alt="Social Media federal registry engagement word cloud" >}}
 
 It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign.
 

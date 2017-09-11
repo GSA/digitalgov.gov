@@ -11,7 +11,7 @@ tag:
   - crowdsourcing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 Challenge and prize competitions are competitive and not always squeaky clean. There is money at stake, pride, honor, and awards.
 

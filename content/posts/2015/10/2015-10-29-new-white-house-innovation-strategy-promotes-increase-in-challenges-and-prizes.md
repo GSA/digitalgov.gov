@@ -17,13 +17,13 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-408-Investing-in-the-Building-Blocks-of-Innovation-chart-A-STRATEGY-FOR-AMERICAN-INNOVATION-Oct-2015.jpg" alt="Investing in the Building Blocks of Innovation chart from A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}
+{{< legacy-img src="2015/10/600-x-408-Investing-in-the-Building-Blocks-of-Innovation-chart-A-STRATEGY-FOR-AMERICAN-INNOVATION-Oct-2015.jpg" alt="Investing in the Building Blocks of Innovation chart from A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}
 
 The White House released an updated [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) last week, calling again on government to tap the American public’s brain trust to advance agency missions and address issues of national importance.
 
 The revised strategy stresses the importance of initiatives like [Challenge.gov](https://www.challenge.gov/list/), the official website for all federal incentive prize and challenge competitions, which have seen the participation of tens of thousands of entrepreneurs and citizen problem-solvers.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/250-x-324-cover\_A-Strategy-For-American-Innovation\_National-Economic-Council-and-Office-of-Science-and-Technology-Policy_Oct-2015.jpg" alt="A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}This latest installment of the plan, which first published in 2009, underscores the need for open innovation and public participation to solve critical problems. It pushes challenges and prizes to:
+{{< legacy-img src="2015/10/250-x-324-cover\_A-Strategy-For-American-Innovation\_National-Economic-Council-and-Office-of-Science-and-Technology-Policy_Oct-2015.jpg" alt="A Strategy For American Innovation by the National Economic Council and Office of Science and Technology Policy, October 2015" >}}This latest installment of the plan, which first published in 2009, underscores the need for open innovation and public participation to solve critical problems. It pushes challenges and prizes to:
 
   * allow agencies to pay only for success;
   * reach beyond established government partners to increase the number and diversity of thinkers tackling a problem;

@@ -12,7 +12,7 @@ tag:
   - USAgov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" >}}Lots of people ask us questions.
+{{< legacy-img src="2014/10/250-x-313-large-Dear-Abby-red-image.jpg" alt="250-x-313-large-Dear-Abby-red-image" >}}Lots of people ask us questions.
 
 So it only makes sense for us to partner up to answer some of those questions.
 

@@ -25,7 +25,7 @@ At GSA, we&#8217;re all here to help our customer agencies advance their mission
 
 In the Office of Customer Experience (OCE), we partner across GSA to help map out these customer relationships, bring our business lines closer to our customers, and create and pilot new ideas through the eyes of the customer. We&#8217;ve worked across the agency to begin to create Customer Experience (CX) principles for the Public Buildings Service (PBS), develop journey maps and recommendations for each category in the Federal Acquisition Service (FAS), and help GSA’s internal offices to develop action plans to improve the employee experience based on feedback.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-GSA-Supplier-Journey.jpg" alt="Sample Journey Map Based on Supplier Interviews" >}}
+{{< legacy-img src="2016/10/600-x-450-GSA-Supplier-Journey.jpg" alt="Sample Journey Map Based on Supplier Interviews" >}}
 
 The image above shows how we mapped the journey of suppliers to [get on IT Schedule 70](http://www.gsa.gov/schedule70roadmap) as part of GSA’s [“Making It Easier” initiative](https://gsablogs.gsa.gov/gsablog/2016/04/06/gsa-making-it-easier-for-suppliers-to-do-business-with-the-government/) to help new and innovative companies do business with the government.
 

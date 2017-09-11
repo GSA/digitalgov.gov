@@ -23,7 +23,7 @@ tag:
   - workflows
 ---
 
-This past summer, 18F held an agile workshop for the National Technical Information Service (NTIS), part of the U.S. Department of Commerce. An agency with roots going back to World War II, NTIS is facing a future that requires a strategic realignment towards open data and services. This strategic alignment will also require that NTIS operate in a more nimble, proactive fashion when working with partners in the public and private sectors. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
+This past summer, 18F held an agile workshop for the National Technical Information Service (NTIS), part of the U.S. Department of Commerce. An agency with roots going back to World War II, NTIS is facing a future that requires a strategic realignment towards open data and services. This strategic alignment will also require that NTIS operate in a more nimble, proactive fashion when working with partners in the public and private sectors. {{< legacy-img src="2016/03/600-x-400-Word-Agile-on-Wood-planks-TimArbaev-iStock-Thinkstock-512220768.jpg" alt="The word “Agile” in metallic gold letters on wood planks." caption="" >}} 
 
 In order to support NTIS’ success in their new mission, it was important to us to support the adoption of business practices that future partners would expect. Our goal was to re-introduce agile techniques into existing processes through small, rapid incremental changes. We believed that even small changes could have a big impact on transparency, accountability, and communication over the long term.
 
@@ -39,11 +39,11 @@ Next, we asked participants to identify things that would make their day-to-day 
 
 As popular ideas surfaced, we formed teams to develop user stories and acceptance criteria for common ideas. Acceptance criteria were framed as being able to answer the question “how will I know when things are done?” The acceptance criteria helped us understand when and how we would know a task was complete, and evaluate the results.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-338-18F_3-steps-team.jpg" alt="The NTIS team." >}}
+{{< legacy-img src="2016/10/600-x-338-18F_3-steps-team.jpg" alt="The NTIS team." >}}
 
 Once we identified discrete tasks, we put them on separate cards on a kanban board. A [kanban board](https://18f.gsa.gov/2016/08/31/kanban-for-government/) is a simple tool whereby tasks are organized, grouped, and tracked across a segment of time, or sprints. As these tasks moved forward, we could use the dedicated cards to monitor progress:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-659-18F_3-steps-trello-card.jpg" alt="A Trello card from the NTIS team." >}}
+{{< legacy-img src="2016/10/600-x-659-18F_3-steps-trello-card.jpg" alt="A Trello card from the NTIS team." >}}
 
 ## Step three: Monitor your progress {#step-three-monitor-your-progress}
 
@@ -53,7 +53,7 @@ The results, while imperfect, were encouraging. Tasks were being completed acros
 
 Through the process, we learned that incremental improvement is still improvement, and sometimes tools can be a distraction. We were reminded that teams are often different, with varying levels of comfort for tools; kanban board on a whiteboard can be just as effective as an electronic version. Uncertainty and fear of new business processes will always be there, but they can be mitigated if they make things easier, and gradually introducing agile processes can encourage broader adoption.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-822-18F_3-steps-trello-comments.jpg" alt="Comments on the team's Trello board." >}}
+{{< legacy-img src="2016/10/600-x-822-18F_3-steps-trello-comments.jpg" alt="Comments on the team's Trello board." >}}
 
 ## What we learned {#what-we-learned}
 

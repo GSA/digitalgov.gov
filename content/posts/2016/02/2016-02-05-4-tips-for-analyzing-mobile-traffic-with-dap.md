@@ -15,7 +15,7 @@ tag:
   - mobile gov community of practice
 ---
 
-It’s not a secret that mobile Internet viewership is booming, but according to a [ComScore report released last June](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report), 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, [Gartner reported PC shipments fell 7.7%](http://www.gartner.com/newsroom/id/3146617) while [IDC Research reported a 10.8% decline](http://www.idc.com/getdoc.jsp?containerId=prUS25955515). The [switch to mobile]({{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}) will continue, and for government websites, [the trend is no different]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-425-Four-Pushpins-Photodisc-Photodisc-Thinkstock-BU010703.jpg" alt="Four Pushpins" caption="" >}} 
+It’s not a secret that mobile Internet viewership is booming, but according to a [ComScore report released last June](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-Global-Mobile-Report), 49% of the audiences for the top 100 digital properties are now mobile-only. Additionally, during the third quarter last year, [Gartner reported PC shipments fell 7.7%](http://www.gartner.com/newsroom/id/3146617) while [IDC Research reported a 10.8% decline](http://www.idc.com/getdoc.jsp?containerId=prUS25955515). The [switch to mobile]({{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}) will continue, and for government websites, [the trend is no different]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). {{< legacy-img src="2016/01/600-x-425-Four-Pushpins-Photodisc-Photodisc-Thinkstock-BU010703.jpg" alt="Four Pushpins" caption="" >}} 
 
 For this reason, it’s important to optimize your mobile experience. You can use data from the [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) to gain insight on your mobile traffic. Do you know the mobile characteristics of your users? Here are four useful tips and reports to analyze your users’ mobile experience:
 
@@ -25,11 +25,11 @@ Whether you’re looking at an Acquisition or a Behavior analytics report, you c
 
 To segment the data specifically for mobile users, click on &#8220;+ Add Segment.&#8221;
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-85-DAP-Analyzing-Mobile-Traffic-Add-Segment.jpg" alt="Add a segment." >}}
+{{< legacy-img src="2016/01/600-x-85-DAP-Analyzing-Mobile-Traffic-Add-Segment.jpg" alt="Add a segment." >}}
 
 In the search bar, type in “mobile.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-113-DAP-Analyzing-Mobile-Traffic-Add-Segment-type-Mobile.jpg" alt="The word 'mobile' is in the search box, and 2 segments with that word are displayed; Mobile and Tablet Traffic, and Mobile Traffic." >}}
+{{< legacy-img src="2016/01/600-x-113-DAP-Analyzing-Mobile-Traffic-Add-Segment-type-Mobile.jpg" alt="The word 'mobile' is in the search box, and 2 segments with that word are displayed; Mobile and Tablet Traffic, and Mobile Traffic." >}}
 
 Select the segment that you want to add and click on the blue Apply button of that window pane. After applying, you can navigate all of the standard reports focusing specifically on mobile users.
 
@@ -37,7 +37,7 @@ Select the segment that you want to add and click on the blue Apply button of th
 
 This standard report segments the audience by device category: desktop, mobile, and tablet. It shows you how the share of mobile users are changing with the number of sessions, the percent of new sessions and new users. You can access this report from the left navigation by clicking &#8220;Audience&#8221; then &#8220;Mobile&#8221; then &#8220;Overview.&#8221; You can compare data to a previous date range to see how your mobile metrics are changing.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-385-DAP-Analyzing-Mobile-Traffic-desktop-mobile-tablet.jpg" alt="Device categories: desktop, mobile, and tablet." >}}
+{{< legacy-img src="2016/01/600-x-385-DAP-Analyzing-Mobile-Traffic-desktop-mobile-tablet.jpg" alt="Device categories: desktop, mobile, and tablet." >}}
 
 What’s the bounce rate for your mobile users? If it’s high, look into possible causes for that. [Is it a good mobile moment?]({{< relref "2015-06-01-finding-the-best-mobile-moment-is-the-first-stepping-stone-to-anytime-anywhere-government.md" >}}) Is your website [mobile-friendly]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}})? The Pages/Session and the Avg. Session Duration metrics indicate how engaged your mobile users are.
 
@@ -49,7 +49,7 @@ In the [DAP Reporting Solutions Catalog]({{< relref "2015-08-06-need-actionable-
   * Search Performance
   * Page Performance
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-275-DAP-Analyzing-Mobile-Traffic-Mobile-Device_Search-and-Page-Performance.jpg" alt="Mobile Device, Search, and Page Performance tabs." >}}
+{{< legacy-img src="2016/01/600-x-275-DAP-Analyzing-Mobile-Traffic-Mobile-Device_Search-and-Page-Performance.jpg" alt="Mobile Device, Search, and Page Performance tabs." >}}
 
 Each tab has three levels of dimension drill downs. For example, in the Mobile Device Performance tab you can click on the Operating System to see Mobile Device Info. From there, you can click on Mobile Device Info to see Landing Page data.
 
@@ -67,15 +67,15 @@ The Search Performance tab contains data on keyword performance in relation to u
 
 You can add a filter for your website or page to each widget. Click on the writing utensil icon in the top right corner of the widget that you want to edit.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-219-DAP-Analyzing-Mobile-Traffic-writing-utensil-icon.jpg" alt="The writing utensil icon is circled in red." >}}
+{{< legacy-img src="2016/01/600-x-219-DAP-Analyzing-Mobile-Traffic-writing-utensil-icon.jpg" alt="The writing utensil icon is circled in red." >}}
 
 Click on “Add a filter” and then “Add a dimension.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-91-DAP-Analyzing-Mobile-Traffic-add-filter.jpg" alt="The Add Filter button is outlined in red" >}}
+{{< legacy-img src="2016/01/600-x-91-DAP-Analyzing-Mobile-Traffic-add-filter.jpg" alt="The Add Filter button is outlined in red" >}}
 
 The dimension can be a hostname, a page or a subdirectory.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-89-DAP-Analyzing-Mobile-Traffic-added-filter-dimension.jpg" alt="The nasa.gov URL is entered as the Hostname dimension." >}}
+{{< legacy-img src="2016/01/600-x-89-DAP-Analyzing-Mobile-Traffic-added-filter-dimension.jpg" alt="The nasa.gov URL is entered as the Hostname dimension." >}}
 
 Remember, many times it’s helpful to compare data with previous date ranges so you can see trends.
 

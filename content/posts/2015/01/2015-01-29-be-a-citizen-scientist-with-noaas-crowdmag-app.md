@@ -1,7 +1,7 @@
 ---
 date: 2015-01-29 10:00:11 -0400
 title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
-summary: '{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total'
+summary: '{{< legacy-img src="2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total'
 authors:
   - kdowney
 categories:
@@ -14,7 +14,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total Strength, H channel represents Horizontal Component, and Z channel represents Vertical Component. Click this image to view the live map, which is updated every hour." >}}](http://maps.ngdc.noaa.gov/viewers/crowdmag/)
+[{{< legacy-img src="2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total Strength, H channel represents Horizontal Component, and Z channel represents Vertical Component. Click this image to view the live map, which is updated every hour." >}}](http://maps.ngdc.noaa.gov/viewers/crowdmag/)
 
 Citizen scientists, stand up!
 
@@ -28,7 +28,7 @@ Earth&#8217;s magnetic field provides an all-weather referencing system. Magneti
 
 However there are gaps in the coverage—both in time and space—and scientists are always looking for alternative ways to obtain geomagnetic data.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-444-Crowd-Mag-iTunes-app-map.jpg" alt="250-x-444-Crowd-Mag-iTunes-app-map" >}}This is precisely where you, citizen scientist, come in armed with the CrowdMag app on your smartphone.
+{{< legacy-img src="2015/01/250-x-444-Crowd-Mag-iTunes-app-map.jpg" alt="250-x-444-Crowd-Mag-iTunes-app-map" >}}This is precisely where you, citizen scientist, come in armed with the CrowdMag app on your smartphone.
 
 Smartphones have what’s called a magnetometer, which tracks the strength of the earth’s magnetic field at a point in space. It does more, but that’s the unscientific explanation.
 

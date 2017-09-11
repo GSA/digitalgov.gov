@@ -26,7 +26,7 @@ To that end, I want to share a sliver of how [Peace Corps](http://www.peacecorps
 
   * We ran an A/B/n test that included eight variations, testing four messaging frames with and without iconography. The experiment was set at a 95% confidence interval, 100% of traffic from the paid media was directed to the test and it ran until a winner was selected.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-520-Peace-Corps-marketing-winning-vartiation.jpg" alt="A screenshot of a winning digital marketing campaign for the Peace Corps." >}}
+{{< legacy-img src="2015/07/600-x-520-Peace-Corps-marketing-winning-vartiation.jpg" alt="A screenshot of a winning digital marketing campaign for the Peace Corps." >}}
 
 ## The Campaign
 

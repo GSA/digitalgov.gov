@@ -11,7 +11,7 @@ tag:
   - customer satisfaction
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" caption="" >}} 
+{{< legacy-img src="2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" caption="" >}} 
 
 In our very first customer experience (CX) blog post about <a href="{{< relref "2013-07-10-kicking-off-our-customer-experience-program.md" >}}" target="_blank">GSA’s Office of Citizen Services and Innovative Technologies’ (OCSIT) Customer Experience Program</a>, we published our principles and values.
 

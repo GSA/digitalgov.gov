@@ -14,7 +14,7 @@ tag:
   - social media
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-229-FCC-logo-white-on-black.jpg" alt="The Federal Communications Commission (FCC) logo" >}}On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Initiative will host a public event called &#8220;Accessing Social Media.&#8221; The purpose is to promote collaborative, cross-sector problem-solving on how to produce and consume accessible social media, considering authoring tools, client apps, and best practices for various disability constituencies.
+{{< legacy-img src="2014/05/250-x-229-FCC-logo-white-on-black.jpg" alt="The Federal Communications Commission (FCC) logo" >}}On Thursday, July 17, the FCC&#8217;s Accessibility and Innovation Initiative will host a public event called &#8220;Accessing Social Media.&#8221; The purpose is to promote collaborative, cross-sector problem-solving on how to produce and consume accessible social media, considering authoring tools, client apps, and best practices for various disability constituencies.
 
 The event will be held in the Commission Meeting Room at FCC headquarters and will include panels of industry, consumer, and government representatives. We will also have technology demonstrations in an exhibit area on the same floor. The #AccSocMedia hashtag on Twitter is designated for the event.
 

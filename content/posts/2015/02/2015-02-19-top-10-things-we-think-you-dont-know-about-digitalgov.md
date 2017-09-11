@@ -14,7 +14,7 @@ tag:
   - GSA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 
 
 Things you don&#8217;t know about this website, DigitalGov.gov, that is. It’s our first birthday, and we’re celebrating by sharing some fun facts with you. A more sober [look at our strategy can be read on our 6-month post]({{< relref "2014-09-12-digitalgov-gov-six-months-later.md" >}}), but this is a party post! w00t!
 

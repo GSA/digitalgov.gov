@@ -29,7 +29,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-half first">
-    <strong>EXPLORERS</strong></p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/300-x-300-Personas-Smiling-mature-businessman-with-laptop-and-coffee-cup-Wavebreakmedia-Ltd-Lightwavemedia-Thinkstock-479684299.jpg" alt="A smiling, mature businessman with laptop and coffee cup." caption="" >}}
+    <strong>EXPLORERS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Smiling-mature-businessman-with-laptop-and-coffee-cup-Wavebreakmedia-Ltd-Lightwavemedia-Thinkstock-479684299.jpg" alt="A smiling, mature businessman with laptop and coffee cup." caption="" >}}
   </div>
   
   <div class="one-half">
@@ -39,7 +39,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-half first">
-    <strong>HONEY BEES</strong></p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/300-x-300-Personas-Cute-Young-Woman-Using-Laptop-Oko_SwanOmurphy-iStock-Thinkstock-494712461.jpg" alt="A young woman uses a laptop computer." caption="" >}}
+    <strong>HONEY BEES</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Cute-Young-Woman-Using-Laptop-Oko_SwanOmurphy-iStock-Thinkstock-494712461.jpg" alt="A young woman uses a laptop computer." caption="" >}}
   </div>
   
   <div class="one-half">
@@ -49,7 +49,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-half first">
-    <strong>CAREERISTS</strong></p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/300-x-300-Personas-Positive-man-on-computer-VladimirFLoyd-iStock-Thinkstock-483133993.jpg" alt="A young man looks pleased using a laptop computer." caption="" >}}
+    <strong>CAREERISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Positive-man-on-computer-VladimirFLoyd-iStock-Thinkstock-483133993.jpg" alt="A young man looks pleased using a laptop computer." caption="" >}}
   </div>
   
   <div class="one-half">
@@ -59,7 +59,7 @@ As we honed in on the user experience of Open Opportunities participants, we wer
 
 <blockquote style="padding: 0 0 0px;background: #fff;border: 0;margin-bottom: 0px;text-align: left">
   <div class="one-half first">
-    <strong>ACTIVISTS</strong></p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/300-x-300-Personas-Yes-Nenad-Aksic-iStock-Thinkstock-168513466.jpg" alt="A very happy woman using a laptop computer." caption="" >}}
+    <strong>ACTIVISTS</strong></p> {{< legacy-img src="2014/12/300-x-300-Personas-Yes-Nenad-Aksic-iStock-Thinkstock-168513466.jpg" alt="A very happy woman using a laptop computer." caption="" >}}
   </div>
   
   <div class="one-half">

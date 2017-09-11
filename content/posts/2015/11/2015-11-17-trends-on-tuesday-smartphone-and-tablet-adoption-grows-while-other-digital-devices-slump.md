@@ -10,7 +10,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) in digital device ownership</span> <span style="font-weight: 400">and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.</p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
+Pew released a [recent report tracking trends](http://www.pewinternet.org/2015/10/29/technology-device-ownership-2015/) in digital device ownership</span> <span style="font-weight: 400">and found smartphones and tablets have continued to grow in recent years, while other devices have stalled.</p> {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
 
 <p>
   The big headlines from the report are:

@@ -22,7 +22,7 @@ tag:
   - United States Census Bureau
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
 
 The National Institute of Standards and Technology (NIST) wants YOU to help them build native apps.
 

@@ -16,7 +16,7 @@ tag:
   - US Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}
+{{< legacy-img src="2014/10/600-x-445-metrics-graphic-1-Performance-Measurement.jpg" alt="600 x 445 metrics-graphic-1-Performance-Measurement" >}}
 
 Uncovering meaningful analytics from months or years of Web metrics is daunting, at best. So how do you make great Web improvements using metrics?
 
@@ -30,7 +30,7 @@ To be meaningful, metrics should be connected to goals, Bronson emphasized.
 
 With baseline metrics and concrete goals, you can identify key performance indicators (KPIs) for your site or specific projects. Don’t stop at setting KPIs, though. You should also identify expected results of actions stemming from the KPI as well as follow-up actions based on the hypothesis.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-450-metrics-graphic-2-Actionable-Analytics.jpg" alt="600 x 450 metrics-graphic-2-Actionable-Analytics" >}}
+{{< legacy-img src="2014/10/600-x-450-metrics-graphic-2-Actionable-Analytics.jpg" alt="600 x 450 metrics-graphic-2-Actionable-Analytics" >}}
 
 #### Get the Data Right
 

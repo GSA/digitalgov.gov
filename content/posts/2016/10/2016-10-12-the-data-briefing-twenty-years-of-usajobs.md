@@ -24,7 +24,7 @@ tag:
   - user centered design
 ---
 
-I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}} 
+I recently sat down with Michelle Earley, Program Manager, to discuss the new changes for the 20<sup>th</sup> anniversary of USAJOBS. {{< legacy-img src="2016/10/600-x-400-20th-Cake-robynmac-iStock-Thinkstock-179306985.jpg" alt="A red, white, and blue 20th anniversary or birthday cake." caption="" >}} 
 
 **1) What are the three big lessons learned from 20 years of building and managing USAJOBS?**
 
@@ -40,7 +40,7 @@ Last month we hosted a summit that brought our agency partners and TAS venders t
 
 In addition to keeping our focus on delivering a website that uses the research to deliver an experience that meets users’ needs and expectations, we must also factor into our schedule a technology roadmap. We always have three work streams in play: the development of the core website, the agency talent portal, and technology projects. It is critical to maintain up-to-date infrastructure so that we avoid technical obsolescence. We work to improve our approach in delivering services, including our latest projects, to migrate to a DevOps model. We are making significant progress with continuous integration, while starting to define how we will incorporate continuous delivery. We have also recently begun no-downtime production releases to better serve our customers. Soon, we will introduce the infrastructure to support A/B testing that will allow us to effectively measure changes. Our team strives to keep technology relevant and chart a course for new emerging technologies and methodologies.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-510-Screen-capture-of-the-USAJOBS-homepage.jpg" alt="600 x 510 Screen capture of the USAJOBS homepage." >}}
+{{< legacy-img src="2016/10/600-x-510-Screen-capture-of-the-USAJOBS-homepage.jpg" alt="600 x 510 Screen capture of the USAJOBS homepage." >}}
 
 **3) What management innovations (human-centered design, lean/agile, etc.) have helped USAJOBS the most?**
 

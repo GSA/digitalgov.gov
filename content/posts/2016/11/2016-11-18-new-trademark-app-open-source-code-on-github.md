@@ -30,7 +30,7 @@ Improving the way the government delivers information technology (IT) solutions 
 
 The new <a class="ext extlink" href="https://github.com/USPTO/TrademarkStatusApp" target="_blank">published source code on GitHub</a> is for a sample application enabling a user to access and track the status of a trademark. This application enables the user to receive a push notification anytime the status of a trademark application changes. The idea for this app began with feedback from the leadership in Trademarks, and we believe that it will also be a useful tool for our own employees. We’re making our code for this application open to the public, so you can also use it in your own projects, improve it so it works best for you, or create an entirely new application.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-425-Image-of-mobile-devices-with-USPTO-trademark-app.jpg" alt="Image of mobile devices with USPTO Trademark app." >}}
+{{< legacy-img src="2016/11/600-x-425-Image-of-mobile-devices-with-USPTO-trademark-app.jpg" alt="Image of mobile devices with USPTO Trademark app." >}}
 
 Through our [Open Data and Mobility Program](https://www.uspto.gov/learning-and-resources/open-data-and-mobility), we’ve already <a class="ext extlink" href="https://www.commerce.gov/news/blog/2016/03/uspto-puts-data-hands-innovators" target="_blank">made over 200 years of intellectual property information available to the public</a>, and have published application program interfaces (APIs) so you can more easily search, use, and manipulate patent and trademark information. We want to make it as easy as possible for you to use our data.
 

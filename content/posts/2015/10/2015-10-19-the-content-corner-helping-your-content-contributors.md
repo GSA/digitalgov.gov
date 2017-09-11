@@ -16,7 +16,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Woman typing on laptop." caption="" >}} 
+{{< legacy-img src="2015/10/600-x-400-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Woman typing on laptop." caption="" >}} 
 
 Recently, [I shared some suggestions and personal lessons learned]({{< relref "2015-10-05-the-content-corner-content-management-system-considerations.md" >}}) for agencies either shopping for a new CMS or preparing to revamp their content strategy and workflow.
 
@@ -58,7 +58,7 @@ Help text can act as a nudge or guide in the right direction. Our help text cove
   * Notification that the form will alter numerical input correctly, such as 45000 will become $45,000
   * Policy related information, such as what will need to be done for a job posting that will remain open longer than typical.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-290-Screencap-of-an-Audience-tooltip-on-CMS-form-for-structured-content.jpg" alt="Screencap-of an Audience Tooltip on CMS form for structured content." >}}
+{{< legacy-img src="2015/10/600-x-290-Screencap-of-an-Audience-tooltip-on-CMS-form-for-structured-content.jpg" alt="Screencap-of an Audience Tooltip on CMS form for structured content." >}}
 
 [This great article on A List Apart](http://alistapart.com/article/training-the-cms) goes into greater depth on help text, including various ways to assist the user when uploading images (an issue we didn’t deal with on the job form), guidance on editorial decisions (such as the suggestion to refrain from using “Click Here”) and lots of other great ways to use help text to make the user feel confident in the process and the job they’re doing.
 

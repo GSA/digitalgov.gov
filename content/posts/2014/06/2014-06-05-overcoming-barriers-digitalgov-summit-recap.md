@@ -25,7 +25,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}} 
+{{< legacy-img src="2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}} 
 
 As government innovators, we work to improve public services every day. In essence we are already in a public private partnership. But how can your agency capitalize on existing public private partnerships to engage citizens and enhance services?
 

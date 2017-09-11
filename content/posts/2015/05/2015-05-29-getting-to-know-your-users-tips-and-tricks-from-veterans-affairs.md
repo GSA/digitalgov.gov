@@ -20,7 +20,7 @@ tag:
   - VA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}}
+{{< legacy-img src="2015/05/600-x-400-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="Green Business Strategy" caption="" >}}
 
 Design research isn’t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We’re here to to help demystify the process of design research for those of you ready to wade into the waters.
 

@@ -24,7 +24,7 @@ tag:
 
 And now, here is another great example.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-476-CDC-NIH-Summer-Health-and-Safety-miscrosite-preview.jpg" alt="CDC and NIH Summer Health and Safety microsite preview." >}}
+{{< legacy-img src="2016/07/600-x-476-CDC-NIH-Summer-Health-and-Safety-miscrosite-preview.jpg" alt="CDC and NIH Summer Health and Safety microsite preview." >}}
 
 Recently, the Centers for Disease Control and Prevention (CDC) and National Institutes of Health (NIH) have partnered to produce a new microsite on Summer Health and Safety. Some of the topics covered include: food safety, water and sun safety, and the prevention of mosquito and tick-borne diseases.
 

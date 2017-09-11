@@ -22,7 +22,7 @@ Like many of you, we watched with great interest this week when a citizen [submi
 
 While official sources explain that the desired outcome is not possible at this time…
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" alt="FBI NY's tweet on the arrest of Pharma Bro Martin Shkreli and Wu-Tang Clan album December 17th 2015" >}}](https://twitter.com/newyorkfbi/status/677597263540191232)
+[{{< legacy-img src="2015/12/506-x-311-FBI-NY-PharmaBro-Martin-Shkreli-arrest-WuTang-Clan-tweet-Dec-17th-2015.jpg" alt="FBI NY's tweet on the arrest of Pharma Bro Martin Shkreli and Wu-Tang Clan album December 17th 2015" >}}](https://twitter.com/newyorkfbi/status/677597263540191232)
 
 &#8230;in light of this creative effort, let&#8217;s discuss how you too can use FOIA and other [Open Government programs]({{< relref "2015-10-29-empowering-the-voice-of-citizens-at-core-of-gsa-open-government.md" >}}) to build a better tomorrow.
 
@@ -42,7 +42,7 @@ Although the numbers show FOIA is well-used, often by journalists and researcher
 
 If you encounter issues with your request, [the Office of Government Information Services](https://ogis.archives.gov/) is a resource for when you need help resolving FOIA disputes with agencies.
 
-## What’s next for FOIA? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Opening-ceremony-eskaylim-iStock-Thinkstock-186002257.jpg" alt="A pair of scissors cutting through red tape, symbolizing a reduction of bureaucratic obstacles." caption="" >}} 
+## What’s next for FOIA? {{< legacy-img src="2015/12/600-x-400-Opening-ceremony-eskaylim-iStock-Thinkstock-186002257.jpg" alt="A pair of scissors cutting through red tape, symbolizing a reduction of bureaucratic obstacles." caption="" >}} 
 
 Citizens should not have to go through 36 chambers of bureaucracy in order to access data and public records.
 

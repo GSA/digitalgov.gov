@@ -11,7 +11,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite-250x122.jpg" alt="eventbrite" >}}</a>Does your agency host events, organize meet-ups, or provide training and professional development?  Then <a href="http://www.eventbrite.com/" target="_blank">Eventbrite</a> can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a <a href="{{< relref "negotiated-terms-of-service-agreements.md" >}}">federal-compatible Terms of Service</a>.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/eventbrite.jpg">{{< legacy-img src="2013/12/eventbrite-250x122.jpg" alt="eventbrite" >}}</a>Does your agency host events, organize meet-ups, or provide training and professional development?  Then <a href="http://www.eventbrite.com/" target="_blank">Eventbrite</a> can help you manage the process more easily and efficiently. Eventbrite is the latest tool with a <a href="{{< relref "negotiated-terms-of-service-agreements.md" >}}">federal-compatible Terms of Service</a>.
 </p>
 
 <p dir="ltr">

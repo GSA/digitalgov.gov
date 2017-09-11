@@ -15,7 +15,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot.png)When HHS’s Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s information with teenagers, she looked at her options on social media.
+[{{< legacy-img src="2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Tumblr-screenshot.png)When HHS’s Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s information with teenagers, she looked at her options on social media.
 
 New reports seem to come out regularly talking about how teens are fleeing “traditional” social media sites, but Gorscak knew her target audience made up the power user base of the social-blogging platform Tumblr.
 

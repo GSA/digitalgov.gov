@@ -24,7 +24,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}} 
+{{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}} 
 
 Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}}) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming [trends]({{< relref "join-digitalgov.md#guidelines" >}}) on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
 

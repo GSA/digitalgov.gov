@@ -18,7 +18,7 @@ tag:
   - social media
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Pinterest-Homepage-seewhatmitchsee-iStock-Editorial-Thinkstock-458705111.jpg" alt="Pinterest Homepage" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Pinterest-Homepage-seewhatmitchsee-iStock-Editorial-Thinkstock-458705111.jpg" alt="Pinterest Homepage" caption="" >}} 
 
 While Facebook and Twitter are the most popular social media platforms (according to some rankings), your agency can and should evaluate the benefits of platforms like Pinterest, which have seen major growth in users and activity.
 
@@ -28,7 +28,7 @@ In the last six months of 2014, [Pinterest increased its membership by 57%](http
 
 ## Kids.gov on Pinterest
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-694-CDC-Pinterest-Extreme-Heat-infographic-with-tips-to-prevent-heat-related-illness.jpg" alt="Screenshot of the Pinterest pin for the CDC's Climate Change and Extreme Heat infographic with tips to prevent heat related illness." >}}Kids.gov is the front door for government information to teachers, parents and kids alike. We launched a [Pinterest account for Kids.gov](https://www.pinterest.com/kidsgov/) in 2013, but because of limited resources, we weren’t able to be as active and engaged on the platform as we would have liked to be. We know the Kids.gov target audience (parents and teachers) is very active on Pinterest, so about a month ago, we decided to take another look at our strategy. And now, we’re engaging on this platform in a more structured and strategic way.
+{{< legacy-img src="2015/06/250-x-694-CDC-Pinterest-Extreme-Heat-infographic-with-tips-to-prevent-heat-related-illness.jpg" alt="Screenshot of the Pinterest pin for the CDC's Climate Change and Extreme Heat infographic with tips to prevent heat related illness." >}}Kids.gov is the front door for government information to teachers, parents and kids alike. We launched a [Pinterest account for Kids.gov](https://www.pinterest.com/kidsgov/) in 2013, but because of limited resources, we weren’t able to be as active and engaged on the platform as we would have liked to be. We know the Kids.gov target audience (parents and teachers) is very active on Pinterest, so about a month ago, we decided to take another look at our strategy. And now, we’re engaging on this platform in a more structured and strategic way.
 
 We’ve focused our Kids.gov Pinterest account on sharing some of the best resources from across government on education, health and activities for children. We’re focusing on sharing a mix of original content, while re-pinning great content from other agencies.
 

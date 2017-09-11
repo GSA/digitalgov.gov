@@ -22,7 +22,7 @@ Google has announced a [second</span> <span style="font-weight: 400">wave of ‘
 </p>
 
 <p>
-  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-google-mobilegeddon-2.jpg" alt="600-x-450-google-mobilegeddon-2" >}}
+  {{< legacy-img src="2015/09/600-x-450-google-mobilegeddon-2.jpg" alt="600-x-450-google-mobilegeddon-2" >}}
 </p>
 
 <p>

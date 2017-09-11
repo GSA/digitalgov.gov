@@ -16,7 +16,7 @@ tag:
   - US Department of State
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}
+{{< legacy-img src="2014/12/600-x-338-MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-steps-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}
 
 Fighting malaria in Botswana with a group of high school students in D.C. Contributing to the Ebola response from the West Bank. These scenarios may not fit the typical image of humanitarian aid efforts, but technology has transformed the possibilities for public participation in international development. Crowdsourced mapping projects have become key contributors in relief efforts and highlight the collaborative work that can be done between government, non-profit organizations, and the public.
 
@@ -28,7 +28,7 @@ MapGive is an initiative from the Department of State’s Humanitarian Informati
 
 The collaborative nature of MapGive has led to unique events: the American Consulate General in Jerusalem recently supported a youth engagement event in the West Bank that helped map [areas affected by Ebola](http://jerusalem.usconsulate.gov/pr-10182014.html). Benson Wilder, Analyst and Geographer in HIU, said that working with other government agencies will help raise public awareness about the importance of open mapping and its diverse applications, whether it is for humanitarian, health, or civil society efforts.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-337-MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}
+{{< legacy-img src="2014/12/600-x-337-MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit.jpg" alt="MapGive-example-from-OpenStreetMap-intro-video-Dept-of-State-Humanitarian-Information-Unit" >}}
 
 “Being in the Office of the Geographer, MapGive is an extension of what we&#8217;ve always done: educating our own colleagues in government about the importance of geographic data,” Wilder said. “This is one subset, and we can use this to create exposure and understanding of all types of geographic data. You can make sense of the world by thinking spatially and geographically.”
 

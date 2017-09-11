@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
+{{< legacy-img src="2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
 
 Major mobile milestones in May—try saying that three times! A new mobile usage report from [ComScore](http://www.comscore.com/Insights/Blog/Major-Mobile-Milestones-in-May-Apps-Now-Drive-Half-of-All-Time-Spent-on-Digital) revealed two significant shifts to mobile in May: total time spent on digital media and time spent on apps. Here are a few highlights from the report:
 

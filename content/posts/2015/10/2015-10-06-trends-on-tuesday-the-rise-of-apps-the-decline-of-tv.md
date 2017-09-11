@@ -21,7 +21,7 @@ An [article from Flurry Insights](http://flurrymobile.tumblr.com/post/1287739686
 
 Apps are now the top media channel in the United States: on average, people spend 198 minutes on mobile apps every day, while spending only 168 minutes watching TV.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Flurry-chart-Time-Spent-in-Mobile-Apps-and-on-TV.jpg" alt="Flurry chart Time Spent in Mobile Apps and on TV" >}}
+{{< legacy-img src="2015/09/Flurry-chart-Time-Spent-in-Mobile-Apps-and-on-TV.jpg" alt="Flurry chart Time Spent in Mobile Apps and on TV" >}}
 
 The article noted that the 198 minutes spent on apps does not include time spent on a mobile browser: with that time added, users spend 220 minutes on mobile devices every day (a little more than 3.5 hours).
 

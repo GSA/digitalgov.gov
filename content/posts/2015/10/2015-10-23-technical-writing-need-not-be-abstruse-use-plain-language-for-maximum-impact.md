@@ -12,7 +12,7 @@ tag:
   - US Energy Information Administration
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-366-English-Dictionary-Alan-Crawford-iStock-Thinkstock-166091799.jpg" alt="A large English dictionary." caption="" >}} 
+{{< legacy-img src="2015/10/600-x-366-English-Dictionary-Alan-Crawford-iStock-Thinkstock-166091799.jpg" alt="A large English dictionary." caption="" >}} 
 
 Author writes: Additionally, the method utilized a myriad of factors for the purpose of incentivizing production to hit record-high levels of magnitude in the equivalent time period.
 
@@ -30,7 +30,7 @@ As an editor of technical, statistical reports, I see authors making a number of
   4. **I know my readers—and I know they will understand these terms.** When writing Web content, unless you really know all one million or so of your potential readers, don’t assume they will be familiar with your technical terms. What may be common knowledge to you might be new to your readers. There are two simple solutions to fix this mistake, using either parentheses or pairs of [em dashes](http://grammarist.com/grammar/emdash/) to clarify technical terms: … technical term (definition or plain English meaning), or … simple term (technical term). Do not force your readers to crack open Merriam Webster’s Dictionary or their chemistry book or to search Google. Clarify your terms in context.
   5. **I won’t look like a subject expert if I write in plain language.** No one was ever offended by content that was too clear. Technical-minded readers will certainly understand and possibly even appreciate your clarity. And a lot of nontechnical readers will also be able to understand and use your information. Plain language isn’t dumbing down content. It’s making your information more accessible to more people.
 
-## Know Your Readers and Write to Them {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Marketing-segmentation-Jirsak-iStock-Thinkstock-483426432.jpg" alt="Marketing segmentation" caption="" >}} 
+## Know Your Readers and Write to Them {{< legacy-img src="2015/10/600-x-400-Marketing-segmentation-Jirsak-iStock-Thinkstock-483426432.jpg" alt="Marketing segmentation" caption="" >}} 
 
 My agency does a website customer survey every year. We ask questions about who the customers are (government, academia, business, private citizen) and how satisfied they are with the information we provide. We also ask a couple of questions that provide a great look into who in the world is accessing our information. And it is a wide world!
 

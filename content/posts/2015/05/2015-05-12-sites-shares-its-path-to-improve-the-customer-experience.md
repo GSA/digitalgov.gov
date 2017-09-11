@@ -71,7 +71,7 @@ I’m not going to suggest that we have mastered the customer experience. Quite 
   </ul>
   
   <p>
-    {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-SITES-getting-started-dashboard.jpg" alt="Partial screenshot of Sites' Getting Started dashboard, created to address customers' needs." >}}</li> 
+    {{< legacy-img src="2015/05/600-x-400-SITES-getting-started-dashboard.jpg" alt="Partial screenshot of Sites' Getting Started dashboard, created to address customers' needs." >}}</li> 
     
     <li style="margin-bottom: 15px">
       <b>Repeat. </b>Yes, like with shampoo. Just because you think that you’ve found a way to improve the customer experience, it doesn’t mean you really have accomplished it. Getting the word out is always challenging—as is changing processes and routines. Sometimes customers missed your newsletter or email, or when they received it, they didn’t need that information. Other times, the proposed solution doesn’t seem as easy as the previous one or the customer prefers their old way of doing things. These are some questions to help you with this part of the process: <ul>

@@ -10,7 +10,7 @@ tag:
   - mobile gov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-191-white-bg-Mobile-Code-Catalog-homepage-code-on-multiple-devices.jpg" alt="Code is shown on multiple devices." >}}Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps?
+{{< legacy-img src="2014/08/250-x-191-white-bg-Mobile-Code-Catalog-homepage-code-on-multiple-devices.jpg" alt="Code is shown on multiple devices." >}}Would you like help incorporating mobile-friendly maps in your mobile sites and/or web apps?
 
 Check out [Leaflet, available on the Mobile Code Sharing Catalog](http://gsa.github.io/Mobile-Code-Catalog/web_html.html#modular), a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin of CloudMade with a team of dedicated contributors. Weighing just about 31 KB of gzipped JS code, it has all the features most developers ever need for online maps. More info at [http://leafletjs.com](http://leafletjs.com/).
 

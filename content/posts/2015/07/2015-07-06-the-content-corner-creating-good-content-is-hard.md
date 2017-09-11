@@ -11,7 +11,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" alt="the words, Content Writing over a block of random placeholder text with vertical pen nibs" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" alt="the words, Content Writing over a block of random placeholder text with vertical pen nibs" caption="" >}} 
 
 Throughout my five-plus months so far on this blog, I have focused a great deal on creating content, the various methods to improve your content, and what exactly content is. One thing that I may not have emphasized enough is the quality of the actual writing itself and how no content strategy on the planet will help you if the content is not well-written and with a clear knowledge of the subject matter. The saying “[fake it until you make it](http://www.copyblogger.com/dork-copy/)” does not apply to creating successful online content.
 
@@ -27,7 +27,7 @@ My experience in both print and digital publishing has been that there is great 
 
 For most of us, our agencies are heavily staffed with subject matter experts who can serve as a rich resource of content. Their job is to share their expertise and ours is to leverage our expertise in the varied aspects of content development to deliver the most useful resource possible for our customers. At the U.S. Courts, I help support a program called [Knowledge Seminars](https://youtu.be/BaDn3MqIHVA) that highlight the variety of occupations within our branch and allows these experts to share their stories and give us a much deeper understanding of our workplace and the challenges these men and women face.
 
-# Does Not Compute {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-413-Funny-white-robot-stay-with-pen-Viktoriya-Sukhanova-istock-Thinkstock-118975167.jpg" alt="A white robot writes on paper with a pen" caption="" >}} 
+# Does Not Compute {{< legacy-img src="2015/07/250-x-413-Funny-white-robot-stay-with-pen-Viktoriya-Sukhanova-istock-Thinkstock-118975167.jpg" alt="A white robot writes on paper with a pen" caption="" >}} 
 
 Perhaps it has something to do with the massive marketing campaign for the upcoming Terminator film, but I have been seeing more and more articles regarding [automated content generation](http://futurecontent.co/automated-content-can-algorithms-write-your-content/) and [robots taking journalism jobs](http://www.theverge.com/2015/1/29/7939067/ap-journalism-automation-robots-financial-reporting). And while I see the use in having an algorithm digest data such as sports scores or financial data only to regurgitate it into a readable pattern, content of any depth or complexity needs more.
 
@@ -45,7 +45,7 @@ One way that technology can be helpful is by providing a variety of online tools
 
 But again, these are helpers and not replacements for good writing and knowledge. Your robot overlords can’t save you, creating quality content is hard and even large companies can get it wrong.
 
-# My Dog Ate My Content {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-310-Ty-Manuel-Content-Corner-winston-ate-my-content.jpg" alt="The author's pooch, Winston, chomps on a toy." caption="" >}} 
+# My Dog Ate My Content {{< legacy-img src="2015/07/250-x-310-Ty-Manuel-Content-Corner-winston-ate-my-content.jpg" alt="The author's pooch, Winston, chomps on a toy." caption="" >}} 
 
 The well-known animal food company Purina recently launched a [site for new puppy owners](https://puppyhood.com/) intended to leverage its experts and provide a valuable resource to customers. However, initial reviews have found the [content a bit wanting and the branding a bit overdone](http://contently.com/strategist/2015/06/29/puppy-love-inside-purinas-ambitious-new-content-play/). Instead of drawing on a strength and becoming a true resource, Purina (perhaps because they outsourced the campaign) failed to rise above the “cutesy” content that most puppy-related sites contain. For example:
 

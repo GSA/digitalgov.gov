@@ -18,7 +18,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
 
 Every second counts, even those precious two or three seconds it takes your website to load. When it [comes to mobile]({{< relref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}), users won’t wait.
 

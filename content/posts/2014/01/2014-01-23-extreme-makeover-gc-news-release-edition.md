@@ -12,7 +12,7 @@ tag:
 ---
 
 <div>
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2-250x126.jpg" alt="Canadian flag with a maple leaf in the center" >}}</a></p> 
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/canadian-flag-2.jpg">{{< legacy-img src="2014/02/canadian-flag-2-250x126.jpg" alt="Canadian flag with a maple leaf in the center" >}}</a></p> 
   
   <p dir="ltr">
     The Government of Canada (GC) is retiring the traditional news release format in favour of a more digital-friendly product that makes the key messages of announcements clearer, quick facts more accessible and integrates more effectively with social media channels.
@@ -23,7 +23,7 @@ tag:
   </p>
 </div>
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg" alt="Digital friendly press release from Canada " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg)For communicators, the changes mean they can use their creativity to:
+[{{< legacy-img src="2014/01/Canada.jpg" alt="Digital friendly press release from Canada " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Canada.jpg)For communicators, the changes mean they can use their creativity to:
 
   * Develop catchy headlines and sub-headlines
   * Write concise and clear opening paragraphs that contain the 5 Ws (who, what, where, when, why)

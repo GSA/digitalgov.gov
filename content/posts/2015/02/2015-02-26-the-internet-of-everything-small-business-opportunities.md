@@ -17,7 +17,7 @@ tag:
   - US Small Business Administration
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}} 
 
 In 1995, the World Wide Web, which had been fairly niche up until then, attracted mainstream attention. What followed were 20 years of business and social innovations in how we humans chose to use the web at work, school, at home, and with our friends. The web and its &#8220;Web 2.0&#8221; successor allowed us to access, provide, remix, and exchange information in ways previously limited by time and space.
 

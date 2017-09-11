@@ -18,7 +18,7 @@ Many of  our cloud service providers (CSPs), federal agencies, and third party a
 
 This week’s tips come from FedRAMP’s Accelerated event. Read the full list of questions asked during FedRAMP Accelerated [here](https://www.fedramp.gov/fedramp-webcasts/).
 
-Send potential tips and questions that you would like published as a tip [via [email](mailto:info@FedRAMP.gov)]. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-348-Cloud-Kalawin-iStock-Thinkstock-470542178.jpg" alt="Kalawin/iStock/Thinkstock" caption="" >}} 
+Send potential tips and questions that you would like published as a tip [via [email](mailto:info@FedRAMP.gov)]. {{< legacy-img src="2016/08/600-x-348-Cloud-Kalawin-iStock-Thinkstock-470542178.jpg" alt="Kalawin/iStock/Thinkstock" caption="" >}} 
 
 ## **Federal Agencies**
 

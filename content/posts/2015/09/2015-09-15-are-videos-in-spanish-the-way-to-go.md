@@ -12,7 +12,7 @@ tag:
   - USAgov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Screen capture of a scene from the four-part telenovela series ¡Nunca Más! developed by the Office of Women’s Health in the Food and Drug Administration" >}}
+{{< legacy-img src="2014/12/600-x-336-Nunca-Mas-Lourdes-y-Sonia.jpg" alt="Screen capture of a scene from the four-part telenovela series ¡Nunca Más! developed by the Office of Women’s Health in the Food and Drug Administration" >}}
 
 The answer may surprise you. It takes time, resources and actual money. Why prepare a video for something that can be written about and released in a shorter timespan at a much lower cost? This question is now the new normal. But are we asking the right question? Consider if the engagement seen on [Spanish video content]({{< relref "2014-12-05-promoting-womens-health-through-dynamic-multilingual-content.md" >}}) has a bigger payoff than its English counterpart.
 
@@ -20,7 +20,7 @@ According to a Nielsen [report](http://www.nielsen.com/us/en/insights/news/2014/
 
 This is something we’ve seen firsthand at USA.gov. Across all social media, GobiernoUSA.gov’s audience is smaller than that of its sister site USA.gov. The English channels are larger on Facebook, Twitter and YouTube. Yet, when it comes to video viewership, [GobiernoUSA.gov’s YouTube channel](https://www.youtube.com/user/GobiernoUSA) is much higher despite having less subscribers.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-cropped-GobiernoUSA-YouTube-channel-banner.jpg" alt="Gobierno U.S.A.'s YouTube banner" >}}
+{{< legacy-img src="2015/09/600-x-175-cropped-GobiernoUSA-YouTube-channel-banner.jpg" alt="Gobierno U.S.A.'s YouTube banner" >}}
 
 In fact, over the last year (August 2014 &#8211; August 2015) [USA.gov’s YouTube channel](https://www.youtube.com/user/USGovernment) has gotten over 45,000 views with an estimated 59,000 minutes watched. On the other hand, GobiernoUSA.gov’s YouTube channel received more than 221,000 views with over 375,000 minutes watched during the same period. Even though GobiernoUSA.gov published one new video and streamed one event compared to USA.gov’s five videos and two streamed events, the content in Spanish went much farther. The hungry audience for Spanish-language video material will not be ignored anymore.
 

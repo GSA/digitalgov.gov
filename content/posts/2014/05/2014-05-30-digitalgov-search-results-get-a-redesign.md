@@ -19,4 +19,4 @@ So, our team redesigned our search results page. We&#8217;ve kept an eye on best
 
 Read our blog post to [learn more about the redesign](http://search.WHATEVER/blog/serp-redesign.html).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-422-Search-Redesign-navigation.jpg" alt="Search redesign navigation" >}}
+{{< legacy-img src="2014/05/600-x-422-Search-Redesign-navigation.jpg" alt="Search redesign navigation" >}}

@@ -21,7 +21,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}
+{{< legacy-img src="2015/03/600-x-436-cos-CareerOneStop.jpg" alt="CareerOneStop homepage" >}}
 
 When the [Employment and Training Administration](http://www.doleta.gov/)’s [CareerOneStop](http://www.careeronestop.org/) team embarked on a redesign of the site’s online career, training, and job resources, they didn’t dive right into the technical work. Instead, they embraced a user-centered approach that focused on the [user experience](http://www.usability.gov/what-and-why/user-experience.html) (UX). Focusing on UX means taking a step back to learn about users’ core needs and preferences. The team asked real users several questions about the site.
 

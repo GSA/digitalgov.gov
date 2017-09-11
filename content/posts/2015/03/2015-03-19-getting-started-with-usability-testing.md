@@ -18,7 +18,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-USAID-Development-Data-Library-DDL.jpg" alt="USAID's Development Data Library (DDL) website screen capture" >}}
+{{< legacy-img src="2015/03/600-x-400-USAID-Development-Data-Library-DDL.jpg" alt="USAID's Development Data Library (DDL) website screen capture" >}}
 
 At the U.S. Agency for International Development (USAID), our [new open data policy](http://blog.usaid.gov/2014/10/announcing-usaids-open-data-policy/) will begin making more Agency-funded data broadly accessible to the public. It completely changes the way we do business, and it also means that in the coming years, the amount of data we host on our [open data website](http://www.usaid.gov/data) (known as the Development Data Library) will dramatically increase. So the question is: when we&#8217;re done overhauling our website, how will the user make sense of all that information to find exactly what they’re looking for?
 

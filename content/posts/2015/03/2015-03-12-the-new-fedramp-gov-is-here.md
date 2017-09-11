@@ -19,7 +19,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}
+{{< legacy-img src="2015/03/600-x-300-screencap-of-new-FedRAMP-website-homepage-March-12th-2015.jpg" alt="A screencapture of the top part of the new FedRAMP website homepage, March 12, 2015" >}}
 
 On Wednesday, March 11, FedRAMP unveiled a redesigned [FedRAMP.gov](https://www.fedramp.gov/). The new site focuses on user experience that fosters a better understanding of FedRAMP from basic knowledge, to in-depth program requirements and includes the launch of a training program.
 

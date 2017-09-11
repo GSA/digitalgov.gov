@@ -24,7 +24,7 @@ Well, here at the Office of Citizen Services and Innovative Technologies, we loo
 
 **Customer Experience** (CX), in contrast, encompasses all the interactions a person has with your brand. It might be measured in: overall experience, likelihood to continue use, and likelihood to recommend to others. In essence, UX is part of a broader CX, but CX contains some aspects outside of a product that UX does not.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-163-UX-VS-CX-drawing.jpg" alt="600-x-163-UX-VS-CX-drawing" >}}
+{{< legacy-img src="2014/06/600-x-163-UX-VS-CX-drawing.jpg" alt="600-x-163-UX-VS-CX-drawing" >}}
 
 Good digital UX gives a user/customer the ability to:
 

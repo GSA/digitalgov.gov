@@ -15,7 +15,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}} 
+{{< legacy-img src="2014/08/250-x-193-Shopping-cart-with-icons-on-Tablet-PC-urfinguss-iStock-Thinkstock-451689875.jpg" alt="Shopping cart filled with app icons on a mobile tablet." caption="" >}} 
 
 In a few short years, the number of mobile apps has exploded, and the time spent on apps continues to increase. However, one thing hasn&#8217;t changed: the number of apps individuals use. The average smartphone owner uses 22 to 28 apps in a month, according to [new data from Nielsen](http://www.nielsen.com/us/en/insights/news/2014/smartphones-so-many-apps--so-much-time.html "new data from Nielsen"). Here are a few highlights from the report:
 

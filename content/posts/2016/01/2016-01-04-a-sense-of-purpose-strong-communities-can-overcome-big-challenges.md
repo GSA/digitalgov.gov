@@ -19,7 +19,7 @@ tag:
 
 Cook-offs, bike rides, parades and dance parties—these are not the traditional public hearing-style events for which government agencies are known.
 
-But these events helped to fuel the Department of Housing and Urban Development’s (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
+But these events helped to fuel the Department of Housing and Urban Development’s (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. {{< legacy-img src="2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
 
 Because the challenge’s community structure was based on a common goal—to rebuild following Hurricane Sandy—participants left their egos at home, shared information and learned from one another. The desire to serve a cause greater than themselves brought thousands of people and hundreds of organizations together.
 
@@ -29,7 +29,7 @@ Currently on loan from HUD to the RAND Corporation, Davis continues to work on i
 
 ## The New Normal
 
-As Americans become increasingly mobile, the traditional concept of community has expanded from a city, town or state to include the online domain, with networks stretching the globe. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" caption="" >}} 
+As Americans become increasingly mobile, the traditional concept of community has expanded from a city, town or state to include the online domain, with networks stretching the globe. {{< legacy-img src="2015/12/600-x-431-Crowdfunding-nevarpp-iStock-Thinkstock-467787672.jpg" alt="Individual and teams contribute money to fund a solution" caption="" >}} 
 
 [Federal crowdsourcing events]({{< relref "2015-12-16-challenges-crowdsourcing-citizen-science-whats-the-dif.md" >}}), such as challenge and prize competitions, represent an inexpensive way to bring together diverse mindsets to solve problems of various scope and scale.
 

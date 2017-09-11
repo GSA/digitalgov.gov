@@ -12,7 +12,7 @@ tag:
 
 Yesterday, we shared our Snapchat account with the public. After weeks of testing the tool to iron out kinks and [determine how we’d make content accessible](https://blog.usa.gov/why-we-launched-a-snapchat-account-and-how-well-measure-success), we were excited to go public when the official government-friendly terms of service were signed.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" >}}
+{{< legacy-img src="2016/03/600-x-450-USAgov-Snapchat-logo.jpg" alt="USA.gov's Snapchat logo" >}}
 
 So now you may be asking, why is the U.S. government using Snapchat and what will it be sharing?
 
@@ -24,7 +24,7 @@ Here are our top three reasons for using Snapchat.
 
 ## How we plan to measure success
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12.jpg" alt="250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12" >}}We never launch on a new platform without first thinking through how we’ll measure whether we’re successful.
+{{< legacy-img src="2016/03/250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12.jpg" alt="250-x-444-USAgov-snapchat-Screenshot\_2016-03-29-15-40-12" >}}We never launch on a new platform without first thinking through how we’ll measure whether we’re successful.
 
 Snapchat provides some very basic information that we’ll be using to track our success:
 

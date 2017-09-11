@@ -19,7 +19,7 @@ Federal agencies have been releasing some fascinating [data visualization]({{< l
 
 > “_The F Interagency Network Databank (FIND) is an online tool that enables users to explore and analyze national level data, and then share what they discover. FIND was designed around the needs of U.S. government analysts and also benefits a broad-range of stakeholders, including the U.S. public, civil society organizations, universities, foreign aid donors, Congress and partner country governments”_
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-340-Find-State-Gov-homepage.jpg" alt="The https://find.state.gov homepage." >}}
+{{< legacy-img src="2016/08/600-x-340-Find-State-Gov-homepage.jpg" alt="The https://find.state.gov homepage." >}}
 
 Starting on the home page, I used Turkey as the example country. I was then taken to the visualize page where I could choose indicators, add other countries, and choose a graph. I clicked on “Economic Growth” and then chose “Employment.” My selection opened up more economic indicators. I chose “Employment in services, male” and “Employment in services, female.” Then, I chose the scatter chart from the “2 Indicators” option under the “Choose Graph” column. The final action is to push the “Build” button.
 

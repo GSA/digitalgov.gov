@@ -18,7 +18,7 @@ tag:
   - usability
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}} 
+{{< legacy-img src="2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}} 
 
 Much is being said and [written]({{< relref "2015-03-03-trends-on-tuesday-google-to-implement-mobile-friendly-rankings.md" >}}) about the coming [Mobilegeddon/Mopocalypse](http://searchengineland.com/infographic-mobile-seo-tips-217912) on April 21st—the day Google’s ranking algorithm will begin boosting results for mobile-friendly sites and penalizing mobile-unfriendly sites. While some agency websites are mobile-friendly, a great many are not.
 
@@ -28,7 +28,7 @@ So, 25% of website visitors would be helped by a mobile-friendly display. But in
 
 ## 1. Why Do We Need A Mobile-Friendly Website?
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-Google-search-engine-Digital-Government-21st-Century-DigitalGov-Android.jpg" alt="Screen capture of Digital Gov's mobile website at the top of search results on Google." >}}The Google algorithm update coming on April 21st will penalize sites that are not mobile friendly. If developing a responsive site that would serve all users is too high a hurdle for the near future, consider standing up a parallel site for mobile users.
+{{< legacy-img src="2015/03/250-x-444-Google-search-engine-Digital-Government-21st-Century-DigitalGov-Android.jpg" alt="Screen capture of Digital Gov's mobile website at the top of search results on Google." >}}The Google algorithm update coming on April 21st will penalize sites that are not mobile friendly. If developing a responsive site that would serve all users is too high a hurdle for the near future, consider standing up a parallel site for mobile users.
 
 Google has developed a [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/) so you can find out what they think of your site. You can also run the [W3C mobileOK Checker](http://validator.w3.org/mobile/). Everyone will benefit from running these tests—even if your site is responsive, your font may be too small, your links too close together, etc.
 

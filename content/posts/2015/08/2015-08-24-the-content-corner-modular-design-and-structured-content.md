@@ -27,7 +27,7 @@ This same concept is now becoming more and more popular throughout all phases of
 
 The creation of a design style guide (or [pattern library](https://www.futurelearn.com/pattern-library)) gathers all of the CSS styles, including colors and typography. However, in many instances it captures even more, such as in [Future Learn’s example](https://about.futurelearn.com/blog/pattern-library/). After failing in their initial efforts at building a style guide for their site, Future Learn&#8217;s design team embraced the concept of [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) to better catalog all of the elements of their site.
 
-## Better Designing Through Chemistry {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-450-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular design graphic." caption="" >}} 
+## Better Designing Through Chemistry {{< legacy-img src="2015/08/600-x-450-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular design graphic." caption="" >}} 
 
 [Brad Frost](http://bradfrost.com/) has been credited with taking various concepts for modular or molecular design and forming them into a repeatable framework that others are able to easily leverage for their own sites and designs. His inspiration was chemistry and the concept of molecular bonds. He transferred the concept of molecular structures into an understandable method of deconstructing Web design into key components:
 

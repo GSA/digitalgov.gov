@@ -53,7 +53,7 @@ In this case, the nested depth is seven (the indentation helps us count it). Whe
 
 Nested depth applies to individual statements rather than entire sections of code, but the highest depth is called the section’s “maximum nested depth.” As with the number of statements, there is no absolute upper limit. A reasonable goal is for all sections to have a maximum nested depth of five or less.
 
-### Cyclomatic complexity {#cyclomatic-complexity} {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Flow-Chart-Diagram-Concept-Infografx-iStock-Thinkstock-490245946.jpg" alt="Flow Chart Diagram Concept" caption="" >}} 
+### Cyclomatic complexity {#cyclomatic-complexity} {{< legacy-img src="2015/12/600-x-450-Flow-Chart-Diagram-Concept-Infografx-iStock-Thinkstock-490245946.jpg" alt="Flow Chart Diagram Concept" caption="" >}} 
 
 Where depth reveals the maximum number of logical decisions necessary to reach a statement of code, cyclomatic complexity tells us the _total_ number of logical decision points in an entire section of code. The fewer number of decision points in a section of code, the easier it is to understand the code and all of the ways it may execute. It’s clearer how all the statements are related to one another and it’s much easier to debug and maintain.
 

@@ -15,7 +15,7 @@ tag:
 _This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people’s perceptions of and interactions with the government. You can find the [introduction to the series](https://18f.gsa.gov/2016/03/01/what-we-learned-after-interviewing-people-about-their-interactions-with-the-federal-government/) on our website and a complete pdf of the [research findings](https://labs.usa.gov/#research-report) on a [new microsite](https://labs.usa.gov/) that details the themes the research team is investigating._
 _In yesterday’s post, we [shared the strategies](https://18f.gsa.gov/2016/03/02/strategies-people-use-when-interacting-with-the-federal-government/) people use when interacting with the government. Today we’ll detail how people learn to navigate government services and what barriers exist to accessing services._
 
-## Learning how to navigate government services {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 
+## Learning how to navigate government services {{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}} 
 
 Whether they’re passively or actively seeking information, people rely on multiple sources to learn how to navigate government services or acquire benefits. A person’s primary source of information undoubtedly shapes their attitude about those interactions.
 
@@ -33,7 +33,7 @@ Only one person interviewed reported that they learned about a new program by br
 
 ### Digital Literacy
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/508-x-247-digital-literacy.jpg" alt="An infographic showing that people with low digital literacy depend on family and friends for help, people with medium digital literacy can perform simple tasks but get more frustrated as processes become more complex, and people with high digital literacy say their main barrier is trust." >}}
+{{< legacy-img src="2016/03/508-x-247-digital-literacy.jpg" alt="An infographic showing that people with low digital literacy depend on family and friends for help, people with medium digital literacy can perform simple tasks but get more frustrated as processes become more complex, and people with high digital literacy say their main barrier is trust." >}}
 
 Digital literacy exists on a spectrum.
 
@@ -45,7 +45,7 @@ At the low end of the spectrum are people who are unable to tell that the www in
 
 ### Digital Access
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/521-x-250-digital-access.jpg" alt="An infographic showing that people with low digital access depend on public resources or a social network, whereas people with high digital access have no technical issues connecting to online services." >}}
+{{< legacy-img src="2016/03/521-x-250-digital-access.jpg" alt="An infographic showing that people with low digital access depend on public resources or a social network, whereas people with high digital access have no technical issues connecting to online services." >}}
 
 An infographic showing that people with low digital access depend on public resources or a social network, whereas people with high digital access have no technical issues connecting to online services.
 
@@ -57,7 +57,7 @@ People without access to any devices or the internet are also the least likely t
 
 ### English proficiency
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/522-x-226-English-proficiency.jpg" alt="An infographic showing that people with low English proficiency depending on family and friends for help, people with medium English proficiency can use English-based sites if the language is clear and simple, and people with high English proficiency prefer English services of websites." >}}
+{{< legacy-img src="2016/03/522-x-226-English-proficiency.jpg" alt="An infographic showing that people with low English proficiency depending on family and friends for help, people with medium English proficiency can use English-based sites if the language is clear and simple, and people with high English proficiency prefer English services of websites." >}}
 
 An infographic showing that people with low English proficiency depending on family and friends for help, people with medium English proficiency can use English-based sites if the language is clear and simple, and people with high English proficiency prefer English services of websites.
 

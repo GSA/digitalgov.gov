@@ -29,7 +29,7 @@ tag:
 
 _September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-340-EQanimation\_8\_Plan\_091114\_medium.jpg" alt="America's PrepareAthon! Plan graphic" >}}
+{{< legacy-img src="2016/09/600-x-340-EQanimation\_8\_Plan\_091114\_medium.jpg" alt="America's PrepareAthon! Plan graphic" >}}
 
 These days, you probably use social media to update your audience on what you are doing, share an interesting article or two, and catch up on the day&#8217;s news.
 
@@ -75,13 +75,13 @@ When the disaster strikes, it&#8217;s important for those involved in public saf
 
 Throughout September, more than 3,000 organizations—national, regional, and local governments, as well as private and public organizations—are supporting emergency preparedness efforts and encouraging Americans to take action. Each week they will focus messaging and products on several unique areas.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-439-Ten-ways-to-participate-NatlPrep\_22\_medium.jpg" alt="Graphic for 10 ways to participate in America’s PrepareAthon!" >}}
+{{< legacy-img src="2016/09/600-x-439-Ten-ways-to-participate-NatlPrep\_22\_medium.jpg" alt="Graphic for 10 ways to participate in America’s PrepareAthon!" >}}
 
 [This week’s theme on Ready.gov is to Honor 9/11](https://www.ready.gov/september) ([Patriot Day](https://en.wikipedia.org/wiki/Patriot_Day)) by getting involved in your community & planning with neighbors. Local agencies such as the City of Miami Government are using [private social networks such as Nextdoor](https://www.facebook.com/CityOfMiamiGov/videos/1050149401720256/), a neighborhood watch platform custom-built for each neighborhood that participates.
 
 Public safety agencies continue to work to better connect with the public they serve. For example, [check out this viral story](http://abc3340.com/news/local/mississippi-firefighter-plays-happy-feet-song-to-comfort-young-crash-victim) of a Mississippi firefighter who plays the movie “Happy Feet” on his phone to try and calm a terrified child who was in a violent car crash.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg" alt="2016 graphic for Don’t Wait, Communicate. Make Your Emergency Plan Today." >}}_“Don’t Wait, Communicate. Make Your Emergency Plan Today,” is the theme by FEMA with a continuing emphasis on preparedness for youth, older adults, and people with disabilities and others with access and functional needs._
+{{< legacy-img src="2016/09/600-x-642-FEMANPM2016\_logo\_vFinal_medium.jpg" alt="2016 graphic for Don’t Wait, Communicate. Make Your Emergency Plan Today." >}}_“Don’t Wait, Communicate. Make Your Emergency Plan Today,” is the theme by FEMA with a continuing emphasis on preparedness for youth, older adults, and people with disabilities and others with access and functional needs._
 _You can help them promote #NatlPrep Month content with their 2016 Social Media Toolkit by visiting_ [_www.ready.gov/september_](http://www.ready.gov/september). _Get started now with these tools:_
 
   * _Plan content for each week throughout the month of September with the 2016 themes_

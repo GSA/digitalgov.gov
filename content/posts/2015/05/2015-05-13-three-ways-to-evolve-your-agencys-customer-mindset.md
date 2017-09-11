@@ -13,7 +13,7 @@ tag:
   - data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Idea-bulb-concept-with-crumpled-paper-Maksim-Koval-iStock-Thinkstock-466857660.jpg" alt="Idea bulb concept with crumpled paper" caption="" >}} 
+{{< legacy-img src="2015/05/600-x-400-Idea-bulb-concept-with-crumpled-paper-Maksim-Koval-iStock-Thinkstock-466857660.jpg" alt="Idea bulb concept with crumpled paper" caption="" >}} 
 
 Customer experience (CX) improvement projects come in many forms, but evolving an agency’s entire mindset to be customer-focused requires far more in the way of commitment, time, staff and organizational patience.
 

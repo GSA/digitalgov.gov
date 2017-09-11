@@ -22,7 +22,7 @@ tag:
   - USCIS
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
 
 Meeting customer needs can be done, no matter what agency you represent.
 

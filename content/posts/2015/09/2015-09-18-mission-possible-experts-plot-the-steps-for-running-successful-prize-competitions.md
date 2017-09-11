@@ -14,7 +14,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 Long before the final prize is awarded, a successful challenge starts with a master plan.
 
@@ -26,7 +26,7 @@ Putting together a team is the first step. While teams consist of different elem
 
 Making sure you get the word out is crucial. “Sell your prize,” Bain said. “You’ll need to tell your potential competitors why they absolutely must be a part of your competition.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-338-Ben-Bain-of-XPRIZE-listens-to-colleague-during-DGU-webinar.jpg" alt="Ben Bain of XPRIZE listens to colleague during the DGU webinar" >}}
+{{< legacy-img src="2015/09/600-x-338-Ben-Bain-of-XPRIZE-listens-to-colleague-during-DGU-webinar.jpg" alt="Ben Bain of XPRIZE listens to colleague during the DGU webinar" >}}
 
 Patel added, “You should use all the tools you can to get the word out to recruit competitors, not just press releases and more traditional methods, but use a wide variety of channels including social media.”
 

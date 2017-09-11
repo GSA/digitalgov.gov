@@ -15,7 +15,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" >}}
+{{< legacy-img src="2015/03/600-x-400-kids.gov-usability-test-boy-great.jpg" alt="Children participate in kids.gov usability test" >}}
 
 I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn’t really designed for kids –most of the electronic materials I came across for the classroom were on CDs and such.
 
@@ -31,7 +31,7 @@ So, remember, WHO are you designing for? Think about the content and message you
 
 The first major project I was involved with was really enlightening (and I should have seen this coming, in retrospect): the content was more or less dictated to the users by college professors (!), which is fine if you are in grad school, but not if you are in middle school.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" >}}
+{{< legacy-img src="2015/03/600-x-400-andrea-and-girl-at-kids.gov-hallway-usability-test.jpg" alt="Teen participant at the kids.gov usability test" >}}
 
  
 
@@ -49,7 +49,7 @@ And of course –actively involve educators in the process. They will give you t
 
 As far as compensation, books,movie vouchers, and iStore gift cards may work. Just make sure it’s not “lame.” Again, ask the teachers what the kids are interested in &#8211; they will probably know better than the parents.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-kids.gov-usability-test-kids-and-adults.jpg" alt="Adults help chidlren at kids.gov usability test" >}}
+{{< legacy-img src="2015/03/600-x-400-kids.gov-usability-test-kids-and-adults.jpg" alt="Adults help chidlren at kids.gov usability test" >}}
 
 ## 4. Get pros to help
 

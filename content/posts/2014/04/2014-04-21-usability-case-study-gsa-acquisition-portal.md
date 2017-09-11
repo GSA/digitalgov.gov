@@ -39,16 +39,16 @@ From information architecture and appearance of “buttons” to the order of li
 Take a look at some of the “before and after” images below:
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" >}}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{{< legacy-img src="2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" >}}</a>
 </p>
 
 Test participants had difficulty finding the FY 2010 Procurement Management Review (PMR) Report, because they did not consider it a “best practice.” Once participants navigated to the “Best Practices” supporting sub-page, they again stated that the links there were not really “best practices.” “Reports & Publications” is a better category description.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-300-Usability-Case-Study-GSA-Acquisition-Portal-Buttons-wireframe-before-and-website-after-ANNOTATED.jpg" alt="Screenshot of changes made to buttons on the site" >}}
+{{< legacy-img src="2014/04/600-x-300-Usability-Case-Study-GSA-Acquisition-Portal-Buttons-wireframe-before-and-website-after-ANNOTATED.jpg" alt="Screenshot of changes made to buttons on the site" >}}
 
 During the test, many people scrolled right past the hot buttons, sometimes not noticing them. The design was changed  to look more like “buttons” users would think to click on.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-315-Usability-Case-Study-GSA-Acquisition-Portal-Quick-Links-Before-and-After-ANNOTATED.jpg" alt="Screenshot of changes made to the quick links section" >}}
+{{< legacy-img src="2014/04/600-x-315-Usability-Case-Study-GSA-Acquisition-Portal-Quick-Links-Before-and-After-ANNOTATED.jpg" alt="Screenshot of changes made to the quick links section" >}}
 
 Some of the feedback included expanding the Quick Links section to a wider set of activities. Several new links were identified and added. Also, test participants commented that the order of the links was confusing. The order was initially set to follow the acquisition process from solicitation to contract award, but alphabetization is more intuitive.
 

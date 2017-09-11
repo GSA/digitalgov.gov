@@ -73,7 +73,7 @@ For our first year, 18F projects focus on:
 
 ## Attracting great digital talent
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-131-18fdc-pif.jpg" alt="18F's DC team at GSA HQ" >}}
+{{< legacy-img src="2014/09/600-x-131-18fdc-pif.jpg" alt="18F's DC team at GSA HQ" >}}
 
 Since launching in March 2014, 18F has grown from a small group of [Presidential Innovation Fellows](http://wh.gov/innovationfellows) into a team of almost 60 designers, developers, product managers, researchers, writers, and specialists. This growth is entirely due to the demand by agencies to work with 18F, as was described above. And we continue to be inspired and amazed by the number of experienced technologists eager to move into public service.
 

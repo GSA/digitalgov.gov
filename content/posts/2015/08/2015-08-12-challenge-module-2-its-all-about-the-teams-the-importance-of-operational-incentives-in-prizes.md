@@ -12,7 +12,7 @@ tag:
   - Recaps
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-319-Sam-Ortega-NASA-and-Christopher-Frangione-XPRIZE-Foundation.jpg" alt="NASA’s Sam Ortega and XPRIZE Foundation’s Christopher Frangione discuss the importance of incentives for teams in challenges and competitions." >}}
+{{< legacy-img src="2015/08/600-x-319-Sam-Ortega-NASA-and-Christopher-Frangione-XPRIZE-Foundation.jpg" alt="NASA’s Sam Ortega and XPRIZE Foundation’s Christopher Frangione discuss the importance of incentives for teams in challenges and competitions." >}}
 
 A strong incentive is the lifeblood of solving any challenge. That’s the message experts offered August 4 as part of a Challenge.gov webinar series on running successful federal competitions.
 

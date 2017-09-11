@@ -33,7 +33,7 @@ We know every day that more and more Hispanics are on social media, but on which
 
 No issue is more debated than [the role “Spanglish” plays]({{< relref "2015-06-19-real-internationalization-isnt-just-geographic-its-linguistic.md" >}}) in the way organizations communicate with the Latino community in the United States. So last Wednesday, USAGov in collaboration with DigitalGov University, hosted an interactive event exploring the critical role social media plays in reaching Hispanics in this country.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics event, including the Somos Social hashtag." >}}
+{{< legacy-img src="2015/11/542-x-348-Spanglish-event-screenshot.jpg" alt="Screencap of Does Your Social Media Speak Spanglish? How to connect with multi-generational Hispanics event, including the Somos Social hashtag." >}}
 
 Here are the top 5 takeaways from the event:
 

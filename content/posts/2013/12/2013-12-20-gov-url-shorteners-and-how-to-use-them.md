@@ -11,7 +11,7 @@ tag:
   - USAgov
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GoUSA_logo.png)USA.gov offers two different types of URL shorteners – 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind.
+[{{< legacy-img src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GoUSA_logo.png)USA.gov offers two different types of URL shorteners – 1.USA.gov and Go.USA.gov. No matter which URL shortener you use, there are some usability, accessibility, and SEO issues you should keep in mind.
 
 ## 1.USA.gov
 

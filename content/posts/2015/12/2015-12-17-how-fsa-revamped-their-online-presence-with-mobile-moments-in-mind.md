@@ -26,7 +26,7 @@ Kaegy Pabulos, a Borrower Experience Specialist and project manager for [Student
 
 Testing should be done at every point in the development process and feedback should be taken from every possible outlet, Pabulos said, including social media and analytics. While testing, Pabulos recommends using actual devices rather than [mobile emulators]({{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}) because that helped FSA see exactly where the issues were when moving to different content. He also suggested using free or inexpensive [tools to help with testing]({{< relref "2015-10-23-is-your-site-mobile-friendly.md" >}}). In acknowledging that almost 1/3 of website users come in through mobile devices, Pabulos has seen the demand among FSA’s audience for consistent updates—which starts at the testing process.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-333-Federal-Student-aid-website-homepage-Dec-16-2015.jpg" alt="Federal Student Aid website homepage" >}}
+{{< legacy-img src="2015/12/600-x-333-Federal-Student-aid-website-homepage-Dec-16-2015.jpg" alt="Federal Student Aid website homepage" >}}
 
 Initially, using wireframe models, FSA thought a timeline design inspired by popular social media apps would be pleasing to their audience. Then, as time progressed, the block setup became more popular, so FSA decided on a combination setup. Pabulos recommends providing usage tips that appear after updates take place; this helps transition users to the new setup and provides an easier experience.
 

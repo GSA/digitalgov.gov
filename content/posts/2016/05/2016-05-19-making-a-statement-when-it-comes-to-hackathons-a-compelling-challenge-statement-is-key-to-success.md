@@ -11,7 +11,7 @@ tag:
   - National Day of Civic Hacking
 ---
 
-As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Composite-image-of-winners-cup-on-enter-key-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497353503.jpg" alt="Composite image of winners cup on enter key" caption="" >}} 
+As the civic hacking movement continues to grow in the United States, agencies are starting to adopt hackathons to engage citizens in the challenging work of improving government services and solving real-world challenges using open data. {{< legacy-img src="2016/05/600-x-400-Composite-image-of-winners-cup-on-enter-key-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-497353503.jpg" alt="Composite image of winners cup on enter key" caption="" >}} 
 
 Whether you are planning your own hackathon, or planning in a multi-government agency &#8220;mass collaboration&#8221; such as the [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-2016), it’s important to design citizen engagement events well.
 
@@ -19,7 +19,7 @@ Whether you are planning your own hackathon, or planning in a multi-government a
 
 Hackathons can (and very regularly do) produce amazing technology, but it really starts with a great problem statement. I’d like to offer some best practices and lessons learned based on our experience developing inspiring and compelling problem statements for the Random Hack of Kindness, the [International Space Apps Challenge](https://2016.spaceappschallenge.org/) and National Day of Civic Hacking.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" >}}
+{{< legacy-img src="2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking 2016 logo" >}}
 
 A [problem statement]({{< relref "2014-04-28-in-crowdsourcing-competitions-defining-the-problem-is-half-the-battle.md" >}}) defines a particular challenge or issue of importance both to the agency writing it and the participants attending the hackathon. The best challenge statements meet a real need, compel developers to take action, and inspire a creative solution that could not otherwise be developed. Here are a few best practices on how to write a great problem statement:
 

@@ -17,7 +17,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" >}}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/female-sockeye-steep-creek_NEW.jpg">{{< legacy-img src="2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" >}}</a>
 </p>
 
 <p dir="ltr">

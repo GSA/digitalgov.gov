@@ -31,7 +31,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-360-World-social-digital-TCmake_photo-iStock-Thinkstock-183161931.jpg" alt="A digital graphic of social media icons revolving around a globe, above a smart phone" caption="" >}} 
 
 The [#SocialGov Community]({{< relref "social-media.md" >}}) is coming up on three years of hard work and pushing the boundaries on using social tools across the federal government.
 
@@ -39,13 +39,13 @@ I’d like to start this round up by taking a look at the event we hosted last y
 
 In August, we hosted yet another [#SocialGov Summit]({{< relref "2014-08-19-white-house-socialgov-summit-aims-to-improve-open-data-innovation.md" >}}); this time, it was held at the White House and focused on Opening Data. Representatives from The Case Foundation, WeWork, General Assembly, ThinkUp and Fosterly opened the session with a discussion on the unique needs of their communities and how government managers can listen better to design public/private partnerships that encourage sustainable innovation.
 
-## “Social” Security {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-176-Online-Security-Technology-solarseven-iStock-Thinkstock-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 
+## “Social” Security {{< legacy-img src="2015/06/250-x-176-Online-Security-Technology-solarseven-iStock-Thinkstock-488690699.jpg" alt="A security dashboard with social media icons indicating that hacking has been detected in a password protected area, and showing a scan of an authorized fingerprint in another panel." caption="" >}} 
 
 One big topic of conversation this year was security and privacy using social tools. This topic was so popular that the #SocialGov community put together a working group and a [toolkit to help agencies protect themselves while using social media]({{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}).
 
 In 2013, we published an article on how [government must respond rapidly to social media hacking]({{< relref "2013-04-25-government-must-respond-rapidly-to-social-media-hacking.md" >}}) which identifies some steps you can take to make sure you are protected. In 2014, we hosted the event [How to Recover from a Social Media Crisis](https://youtu.be/K0yy3wviTvM), and we also hosted the webinar [How to Respond to Social Media Hacks](https://youtu.be/tesgduqeyjI), talking to agencies about how they prepare and respond when there is a hack.
 
-## Social Tools and Terms of Service {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service typed out on a sheet of paper in a typewriter" caption="" >}} 
+## Social Tools and Terms of Service {{< legacy-img src="2014/05/250-x-166-Terms-of-Service-alexskopje-iStock-Thinkstock-176024832.jpg" alt="Terms of Service typed out on a sheet of paper in a typewriter" caption="" >}} 
 
 GSA has been working on negotiating [federal friendly terms of service agreements]({{< relref "2014-05-13-what-is-a-terms-of-service-and-how-do-i-get-one.md" >}}) since 2009, and we have a long list of [tools that are acceptable for the federal government]({{< relref "negotiated-terms-of-service-agreements.md" >}}) to use because of these renegotiated terms. This past year we hosted some events with the newer tools that we’ve added to the list.
 
@@ -59,7 +59,7 @@ Another tool we highlighted was Facebook Video. We hosted a webinar featuring th
 
 ## Measuring Social
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-151-DAP-2.jpg" alt="Digital Analytics Program (DAP) screen capture of an analytics dashboard" >}}We also hosted events on how to measure social efforts. First, in August, we hosted Sarah Kaczmarek from the Government Accountability Office to show us [how to create social media metrics reports and infographics](https://youtu.be/YqgKTgvARfM). Then Tim Lowden, part of the Digital Analytics Program, wrote [Why Your Social Traffic Looks Low in Analytics Tools]({{< relref "2015-04-07-why-your-social-traffic-looks-low-in-analytics-tools.md" >}}) describing what you can do to get more accurate social analytics within your content analytics tool.
+{{< legacy-img src="2014/08/250-x-151-DAP-2.jpg" alt="Digital Analytics Program (DAP) screen capture of an analytics dashboard" >}}We also hosted events on how to measure social efforts. First, in August, we hosted Sarah Kaczmarek from the Government Accountability Office to show us [how to create social media metrics reports and infographics](https://youtu.be/YqgKTgvARfM). Then Tim Lowden, part of the Digital Analytics Program, wrote [Why Your Social Traffic Looks Low in Analytics Tools]({{< relref "2015-04-07-why-your-social-traffic-looks-low-in-analytics-tools.md" >}}) describing what you can do to get more accurate social analytics within your content analytics tool.
 
 If you use [DigitalGov Search](http://search.WHATEVER) (or are thinking about it) you should read the [recap of the Social Digital Search Webinar]({{< relref "2014-10-14-recap-of-social-digital-search-webinar.md" >}}) where we discuss how DigitalGov Search pulls your agency’s social media accounts into search results.
 

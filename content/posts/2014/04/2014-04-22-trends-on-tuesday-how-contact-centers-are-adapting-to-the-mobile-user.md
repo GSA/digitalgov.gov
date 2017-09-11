@@ -18,7 +18,7 @@ tag:
   - US Department of Veterans Affairs
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
+{{< legacy-img src="2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 
 
 While it does provide challenges, anytime, anywhere digital government provides numerous opportunities for contact centers to do business more effectively.
 

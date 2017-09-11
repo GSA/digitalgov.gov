@@ -16,7 +16,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-400-Light-bulb-with-drawing-graph-Jannoon028-iStock-Thinkstock-515705127.jpg" alt="Light bulb with drawing graph" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-400-Light-bulb-with-drawing-graph-Jannoon028-iStock-Thinkstock-515705127.jpg" alt="Light bulb with drawing graph" caption="" >}} 
 
 So you’ve done a couple of usability studies, and a few people are starting to “see the light.” Now you’d like to take it to the next level and help your organization embrace user-centered design (UCD) as the philosophy that drives all your digital projects.
 

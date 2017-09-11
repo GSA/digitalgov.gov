@@ -23,7 +23,7 @@ Agencies can participate in the Digital Analytics Program (DAP) by implementing 
 
 (Example)
   
- {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." caption="" >}} 
+ {{< legacy-img src="2016/04/600-x-400-switched-wide-Tablet-Screen-with-Pie-Chart-against-of-the-Report-robuart-iStock-Thinkstock-479377480.jpg" alt="A colorful illustration in the flat design style showing the relation between code and analytics." caption="" >}} 
 
 You can use this line to enhance the Web analytics solution with additional query string parameters. The query string parameters pass data that enable features within the code. They can also help configure settings in the code. It allows you to leverage more features in DAP or extract more data out of DAP. In the example above, we have the query string parameters “agency” and “subagency” that pass data into DAP for reporting purposes.
 

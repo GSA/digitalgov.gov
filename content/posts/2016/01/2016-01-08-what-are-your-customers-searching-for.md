@@ -12,7 +12,7 @@ tag:
   - USAgov
 ---
 
-What are your agency’s website visitors looking for? Can they find it easily? How do you know? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
+What are your agency’s website visitors looking for? Can they find it easily? How do you know? {{< legacy-img src="2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
 
 Search analytics provide valuable data that can positively affect an agency’s Web strategy. This topic was the focus of a recent webinar, [Show Me the Data: Leveraging Analytics in DigitalGov Search](https://www.youtube.com/watch?v=zMft4VkYZug&feature=youtu.be).
 
@@ -34,7 +34,7 @@ Visitors to USA.gov searched for over 10,000 different words or phrases in 2015.
   4. Jobs and Unemployment
   5. Health
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-1842-2015\_USA\_Top_Search-e1452270049969.jpg" alt="An infographic showing the most popular search terms on USA.gov in 2015. Click to view full size." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/612-x-1879-orig-2015_USA_Top_Search.png)_Information about USA.gov search terms was [originally published on the USAgov blog](https://blog.usa.gov/5-most-popular-search-topics-on-usa-gov-in-2015) by team members Maria Marrero, Puthorn Suwannasingh, Michelle Chronister and Leilani Martínez._
+[{{< legacy-img src="2016/01/600-x-1842-2015\_USA\_Top_Search-e1452270049969.jpg" alt="An infographic showing the most popular search terms on USA.gov in 2015. Click to view full size." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/612-x-1879-orig-2015_USA_Top_Search.png)_Information about USA.gov search terms was [originally published on the USAgov blog](https://blog.usa.gov/5-most-popular-search-topics-on-usa-gov-in-2015) by team members Maria Marrero, Puthorn Suwannasingh, Michelle Chronister and Leilani Martínez._
 _Additional [DigitalGov Search training dates, recaps and materials](http://search.WHATEVER/manual/training.html) are available in [DigitalGov Search’s help manual](http://search.WHATEVER/manual/)._
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

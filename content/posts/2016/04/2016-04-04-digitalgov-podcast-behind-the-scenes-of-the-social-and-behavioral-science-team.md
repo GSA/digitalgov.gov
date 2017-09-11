@@ -21,7 +21,7 @@ Enrolling veterans in retirement plans. Helping small farmers access credit. Sur
 
 These projects might seem widely different from one another: they span different agencies and diverse audiences. But all three projects have been addressed by a new team in government that is helping agencies build things better, based on behavioral science.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team." >}}
+{{< legacy-img src="2015/12/600-x-400-SBST-team-group-photo.jpg" alt="Group photo of the new Social and Behavioral Sciences Team." >}}
 
 The [Social and Behavioral Sciences Team](https://sbst.gov/) (SBST) uses theories, research, and methods from the social and behavioral sciences to address and solve challenges faced by the public. Team members come from a variety of backgrounds, including economics, psychology, and political science.
 

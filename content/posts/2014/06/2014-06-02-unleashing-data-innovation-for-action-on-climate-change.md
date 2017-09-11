@@ -12,7 +12,7 @@ tag:
   - open data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-155-Historical-Hurricane-Tracks-Tool.jpg" alt="Historical Hurricane Tracks Tool" >}}Last June, President Obama launched a Climate Action Plan to cut carbon pollution, prepare communities for the impacts of climate change, and lead international efforts to address this global challenge. The plan recognizes that even as we act to curb the carbon pollution that is driving climate change, we must also prepare our citizens and communities for the climate impacts that are already underway across the country.
+{{< legacy-img src="2014/05/250-x-155-Historical-Hurricane-Tracks-Tool.jpg" alt="Historical Hurricane Tracks Tool" >}}Last June, President Obama launched a Climate Action Plan to cut carbon pollution, prepare communities for the impacts of climate change, and lead international efforts to address this global challenge. The plan recognizes that even as we act to curb the carbon pollution that is driving climate change, we must also prepare our citizens and communities for the climate impacts that are already underway across the country.
 
 One of the efforts described in that Climate Action Plan is the **Climate Data Initiative**, a broad effort to leverage the federal government’s extensive, freely-available climate-relevant data resources data to spur innovation and private-sector entrepreneurship in order to advance awareness of and preparedness for the impacts of climate change.
 

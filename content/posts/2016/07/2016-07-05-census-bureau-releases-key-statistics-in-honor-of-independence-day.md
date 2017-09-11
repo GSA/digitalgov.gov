@@ -32,7 +32,7 @@ The value of fireworks imported from China in 2015, representing the bulk of all
 
 The dollar value of U.S. imports of American flags in 2015. The vast majority of this amount ($4.3 million) was for U.S. flags made in China.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-600-fourthofjulycensus.jpg" alt="U.S. Census Bureau Graphic on Places in the United States Named Liberty in Honor of Independence Day" >}}
+{{< legacy-img src="2016/07/600-x-600-fourthofjulycensus.jpg" alt="U.S. Census Bureau Graphic on Places in the United States Named Liberty in Honor of Independence Day" >}}
 
 **33**
 

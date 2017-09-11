@@ -13,7 +13,7 @@ tag:
   - US Department of State
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}
+{{< legacy-img src="2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}
 
 You have a question about a project. You ping a coworker, who texts another colleague, who emails a listserv and receives 3 responses. And the problem is: where will your supervisor find the answer next month, when someone else asks the same question?
 
@@ -25,7 +25,7 @@ Organizations and agencies are using Slack to streamline their efforts and have 
 
 “It&#8217;s a great way to keep our conversations in one place and have our documents exist in one place where many people on the team can access them without needing to dig through emails, said Kasia Galica, Digital Strategist for ICF International. “It also helps with version control. Currently, we&#8217;re using Slack for our team working with the Office of Planning Resources and Evaluation for the Administration of Children and Families.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-392-slack-browser-message-view-and-search.jpg" alt="Slack Browser – Message View and Search" >}}
+{{< legacy-img src="2015/07/600-x-392-slack-browser-message-view-and-search.jpg" alt="Slack Browser – Message View and Search" >}}
 
 The search functionality is a key selling point for some.
 

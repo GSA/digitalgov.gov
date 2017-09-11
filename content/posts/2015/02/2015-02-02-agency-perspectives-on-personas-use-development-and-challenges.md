@@ -21,9 +21,9 @@ Let&#8217;s delve a bit deeper into [personas]({{< relref "2015-01-09-personas-1
 
 ## United States Department of Agriculture (USDA)
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" >}}
+{{< legacy-img src="2015/01/600-x-350-USDA-Example-1.jpg" alt="600-x-350-USDA-Example-1" >}}
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" >}}
+{{< legacy-img src="2015/01/600-x-458-USDA-Example-2.jpg" alt="600-x-458-USDA-Example-2" >}}
 
 ### ****Q & A with Emily Marsh, Ph.D., MLS, Librarian (USDA)****
 
@@ -39,9 +39,9 @@ Let&#8217;s delve a bit deeper into [personas]({{< relref "2015-01-09-personas-1
 
 ## Department of Human and Health Services
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" >}}
+{{< legacy-img src="2015/01/600-x-445-HHS-Personas-Example-1.jpg" alt="600-x-445-HHS-Personas-Example-1" >}}
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" >}}
+{{< legacy-img src="2015/01/600-x-445-HHS-Persona-Example-2.jpg" alt="HHS example of Personas" >}}
 
 ### **Q & A with Kathryn Messner, Usability.gov Program Manager (HHS)**
 

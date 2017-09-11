@@ -10,7 +10,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-_{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NORAD-Tracks-Santa-on-the-App-Store-on-iTunes.png" alt="NORAD Tracks Santa on the App Store on iTunes" >}}_
+_{{< legacy-img src="2014/01/NORAD-Tracks-Santa-on-the-App-Store-on-iTunes.png" alt="NORAD Tracks Santa on the App Store on iTunes" >}}_
 
 Here Comes Santa Claus, Here Comes Santa Claus, Right Down iOS/Windows/Android Lane…
 

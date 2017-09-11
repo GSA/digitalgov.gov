@@ -17,7 +17,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151.jpg" alt="600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151" >}}
+{{< legacy-img src="2014/10/600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151.jpg" alt="600-x-304-Blue-water-wave-abstract-background-Avesun-iStock-Thinkstock-177860151" >}}
 
 Access to clean water is fast becoming a vital issue in the 21st century. Changing climate patterns are drying up aquifers and limiting the amount of water runoff from thawing snow packs. Drought conditions in California are effecting hydroelectric production while dry conditions in the West have increased the frequency and harmful effects of forest fire. Monitoring and mapping water conditions across the U.S. is a vital government service. Thanks to the Environmental Protection Agency (EPA)’s [Water Quality Portal API](http://developer.epa.gov/water-quality-portal-api/), developers can create apps to help the public, scientists, and local governments track access and quality of local water sources.
 
