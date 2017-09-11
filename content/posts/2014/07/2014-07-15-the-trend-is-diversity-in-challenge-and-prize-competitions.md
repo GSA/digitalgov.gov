@@ -34,6 +34,6 @@ If you need any information about challenge platforms, [let us know](https://cha
 
 So don&#8217;t delay! Be part of the movement and try [crowdsourcing]({{< relref "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}} "Getting started with Challenge and Prize Competitions").
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
 
  

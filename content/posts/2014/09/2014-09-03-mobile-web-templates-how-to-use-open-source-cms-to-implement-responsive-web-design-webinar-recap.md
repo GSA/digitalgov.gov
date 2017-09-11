@@ -23,7 +23,7 @@ tag:
   - US Department of State
 ---
 
-Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< relref "2013-09-30-mobile-first" >}}) and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.
+Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< relref "2013-09-30-mobile-first.md" >}}) and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.
 
 But do you know _how_ it happens? Would you know how to _implement_ responsive Web design in your agency? The “[Mobile Web Templates: How to Use Open Source CMS to Implement Responsive Web Design]({{< tmp "events/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}})” webinar (embedded below) gave us the tools to say yes to these questions.
 

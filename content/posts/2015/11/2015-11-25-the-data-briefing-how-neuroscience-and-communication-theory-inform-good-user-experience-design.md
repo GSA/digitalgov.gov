@@ -19,7 +19,7 @@ tag:
 
 Standing on the corner, waiting in the rain, I swear I’ll never, ever, use that app again. Why? Because the bad user experience (UX) design was preventing me from determining when the Metrobus would arrive.
 
-UX is everything from the visual design to the navigation structure of the website or mobile app. This month, <a href="{{< relref "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time" >}}" target="_blank">DigitalGov is focusing on UX design.</a> Good UX design is based on understanding how people perceive and process information on everything from websites to mobile apps. In this article, I will describe two fundamental neuroscience concepts and one communication theory that explain how to create good UX design.
+UX is everything from the visual design to the navigation structure of the website or mobile app. This month, <a href="{{< relref "2015-11-09-how-ux-effects-change-in-government-one-test-one-customer-survey-at-a-time.md" >}}" target="_blank">DigitalGov is focusing on UX design.</a> Good UX design is based on understanding how people perceive and process information on everything from websites to mobile apps. In this article, I will describe two fundamental neuroscience concepts and one communication theory that explain how to create good UX design.
 
 ## Cognitive Barriers
 

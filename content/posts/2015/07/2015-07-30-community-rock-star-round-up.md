@@ -32,7 +32,7 @@ tag:
   - UX
 ---
 
-Around this month&#8217;s [Communities Theme]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov" >}}), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.
+Around this month&#8217;s [Communities Theme]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.
 
 ## DigitalGov Summit Sounding Board
 

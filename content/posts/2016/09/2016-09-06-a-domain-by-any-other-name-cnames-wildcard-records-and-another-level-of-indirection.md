@@ -16,7 +16,7 @@ tag:
   - infrastructure
 ---
 
-_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment" >}})_.
+_This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting DigitalGov Search to a Dynamic Infrastructure Environment]({{< relref "2016-08-18-the-right-tools-for-the-job-re-hosting-digitalgov-search-to-a-dynamic-infrastructure-environment.md" >}})_.
 
 > “All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.” &#8211; [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist))
 

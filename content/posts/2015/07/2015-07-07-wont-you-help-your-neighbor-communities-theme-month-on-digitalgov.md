@@ -17,7 +17,7 @@ tag:
 
 It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required.
 
-The strength of digital government depends on robust collaboration across agencies, offices, and disciplines. The virtual federal neighborhood collaborates through numerous [communities of practice]({{< relref "communities" >}}), each of which promotes the open exchange of ideas and resources.
+The strength of digital government depends on robust collaboration across agencies, offices, and disciplines. The virtual federal neighborhood collaborates through numerous [communities of practice]({{< relref "communities.md" >}}), each of which promotes the open exchange of ideas and resources.
 
 Communities have already made a big splash in 2015, and for this month’s DigitalGov theme, we’ll highlight those efforts. How do digital communities of practice contribute to making government more open, efficient, and effective? [Theme articles]({{< link "categories/monthly-theme" >}}) will include:
 

@@ -16,7 +16,7 @@ tag:
   - The Content Corner
 ---
 
-Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy" >}}).
+Through the course of this blog, I have frequently mentioned the need to feed the content beast and have discussed tactics such as the [content pillar]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}) and various other aspects of developing a solid [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
 
 [Recent research](http://contentmarketinginstitute.com/2015/09/simple-content-marketing-model/) from the Content Marketing Institute found the average business-to-business (B2B) company uses 13 content marketing tactics or channels, such as blogs, videos, events, etc. I&#8217;m sure that most federal agencies also have as wide an array of channels as well. DigitalGov itself is a good example, where we leverage blogs, videos, podcasts, live events (both in-person and Web-based), plus several social media accounts. That is a lot of ways to share and consume information.
 

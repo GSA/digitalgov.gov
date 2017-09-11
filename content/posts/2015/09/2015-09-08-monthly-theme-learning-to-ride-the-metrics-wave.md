@@ -22,4 +22,4 @@ This month on DigitalGov, we’ll be highlighting a few ways we can stay afloat 
   * Understanding how [metrics like “Time to First Byte” are key]({{< relref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}) to a user’s impression of your website
   * Looking at how a [Performance Management team]({{< relref "2015-09-24-setting-up-a-performance-measurement-team.md" >}}) can help improve your agency’s products and services
   * Paying attention to the [communication methods certain audiences prefer]({{< relref "2015-09-15-are-videos-in-spanish-the-way-to-go.md" >}}) and how it can help you better allocate resources
-  * Knowing how [a filter can help you sort out the real]({{< relref "2015-09-09-caution-your-web-analytics-might-not-be-human" >}}) from the fake traffic
+  * Knowing how [a filter can help you sort out the real]({{< relref "2015-09-09-caution-your-web-analytics-might-not-be-human.md" >}}) from the fake traffic

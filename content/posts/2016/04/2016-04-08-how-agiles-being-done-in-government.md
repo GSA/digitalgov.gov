@@ -26,6 +26,6 @@ The concepts of agile may not be new, but there is a renewed push across governm
 
   * A look at the [cultural resistance to agile in government and how to overcome]({{< relref "2016-04-22-recap-how-to-overcome-cultural-resistance-to-agile-in-government.md" >}})
   * [How 18F copes with team changes on an agile project]({{< relref "2016-04-19-the-teams-they-are-a-changin.md" >}})
-  * [Census’s experience implementing agile transformation]({{< relref "2016-04-28-agile-transformation-at-census" >}})
+  * [Census’s experience implementing agile transformation]({{< relref "2016-04-28-agile-transformation-at-census.md" >}})
 
 _If you have a .gov or .mil email address and are interested in joining the new Agile/Lean listserv, [send an email](mailto:listserv@listserv.gsa.gov). The message should have **no subject** and the body should say, &#8220;subscribe agile-lean-cop.&#8221;_

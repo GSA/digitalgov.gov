@@ -21,7 +21,7 @@ Regardless of your feelings on these age-old customer service adages, the fact r
 
 To recognize the importance of these relationships, DigitalGov is focusing on customer service as our May monthly theme.
 
-There are numerous ways to look at the customer experience and  many digital professionals may ask themselves, how is it different from user experience? In fact, one of [our most popular articles of 2014]({{< relref "2014-12-31-countdown-to-2015-with-our-most-popular-articles-this-year.md" >}}) was [User Experience (UX) vs. Customer Experience (CX): What’s the Dif?]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif" >}}) Start with this article as you whet your CX whistle for this month, and learn more about how the two disciplines relate to each other.
+There are numerous ways to look at the customer experience and  many digital professionals may ask themselves, how is it different from user experience? In fact, one of [our most popular articles of 2014]({{< relref "2014-12-31-countdown-to-2015-with-our-most-popular-articles-this-year.md" >}}) was [User Experience (UX) vs. Customer Experience (CX): What’s the Dif?]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}) Start with this article as you whet your CX whistle for this month, and learn more about how the two disciplines relate to each other.
 
 [This month]({{< link "categories/monthly-theme" >}}) will be packed with articles, including pieces on:
 

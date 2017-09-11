@@ -15,7 +15,7 @@ tag:
   - open and structured content models
 ---
 
-Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< relref "2015-08-24-the-content-corner-modular-design-and-structured-content" >}}).
+Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< relref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
 
 ## How can you make your content adaptive to all of these mediums?
 

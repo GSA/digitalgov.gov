@@ -20,7 +20,7 @@ tag:
   - Twitter
 ---
 
-On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< relref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts" >}}).
+On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< relref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
   
 [{{< legacy-img src="2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
 

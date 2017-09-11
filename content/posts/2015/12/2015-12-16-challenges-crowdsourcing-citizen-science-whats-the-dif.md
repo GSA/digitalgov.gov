@@ -40,7 +40,7 @@ tag:
 
 There’s more than one way to harness the wisdom of the crowd.
 
-In honor of December’s [monthly theme]({{< relref "2015-12-08-challenges-crowdsourcing-a-quick-overview-and-look-ahead" >}}), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
+In honor of December’s [monthly theme]({{< relref "2015-12-08-challenges-crowdsourcing-a-quick-overview-and-look-ahead.md" >}}), we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives.
 
 ## Crowdsourcing
 

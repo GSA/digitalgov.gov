@@ -22,7 +22,7 @@ tag:
   - UX
 ---
 
-About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< relref "2014-05-12-video-blog-sarah-crane-usa-gov" >}}).
+About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< relref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
 
 {{< legacy-img src="2016/04/600-x-520-USAgov-Bilingual-Content-Style-Guide.jpg" alt="USA gov Bilingual Content Style Guide" >}}
 
