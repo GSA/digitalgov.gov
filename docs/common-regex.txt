@@ -1,0 +1,3 @@
+{{< legacy-img src="CDN/files/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
+
+{{< img src="$1"$2 >}}
