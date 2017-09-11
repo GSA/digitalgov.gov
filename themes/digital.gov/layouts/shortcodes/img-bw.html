@@ -1,0 +1,89 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $thisimg := index $.Site.Data.images (.Get 0 | lower) }}
+{{ $imgBase := $thisimg.uid }}
+{{ $imgExt := $thisimg.format }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgWidth := $thisimg.width }}
+{{ $imgHeight := $thisimg.height }}
+
+<picture>
+  <source
+    srcset="
+      {{ $imgBaseCDN }}_bw.webp {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+        {{ if gt $imgWidth 400 }}
+          {{ if gt $imgWidth 600 }}
+            {{ if gt $imgWidth 800 }}
+              {{ if gt $imgWidth 1200 }}
+                {{ if gt $imgWidth 1600 }}
+                  {{ if gt $imgWidth 2400 }}
+                    {{ $imgBaseCDN }}_w2400bw.webp 2400w,
+                  {{ end }}
+                  {{ $imgBaseCDN }}_w1600bw.webp 1600w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1200bw.webp 1200w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w800bw.webp 800w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w600bw.webp 600w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w400bw.webp 400w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w200bw.webp 200w
+      {{ end }}
+      "
+    type="image/webp"
+    sizes="600px"
+    >
+  <source
+    srcset="
+    {{ $imgBaseCDN }}_bw.{{ $imgExt }} {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+      {{ if gt $imgWidth 400 }}
+        {{ if gt $imgWidth 600 }}
+          {{ if gt $imgWidth 800 }}
+            {{ if gt $imgWidth 1200 }}
+              {{ if gt $imgWidth 1600 }}
+                {{ if gt $imgWidth 2400 }}
+                  {{ $imgBaseCDN }}_w2400bw.{{ $imgExt }} 2400w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1600bw.{{ $imgExt }} 1600w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w1200bw.{{ $imgExt }} 1200w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w800bw.{{ $imgExt }} 800w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w600bw.{{ $imgExt }} 600w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w400bw.{{ $imgExt }} 400w,
+      {{ end }}
+      {{ $imgBaseCDN }}_w200bw.{{ $imgExt }} 200w
+    {{ end }}
+      "
+    type="image/jpeg"
+    sizes="600px"
+    >
+  <img
+    src="{{ $imgBaseCDN }}__bu.{{ $imgExt }}"
+    alt="Alt Text!"
+    >
+</picture>
+
+{{/*
+<div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
+  {{ if isset .Params "title" }}
+    <h6 class='figure-title'>{{ .Get "title" }}</h6>
+  {{ end }}
+  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
+  <img src="{{ if (findRE "^http" (.Get "src")) }}{{ else }}{{ $cdnurl }}{{ .Get "src" }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ if .Get "link"}}</a>{{ end }}
+  {{ with .Get "attr"}}
+    <div class="figure-credit">{{ .Get "attr" }}</div>
+  {{ end }}
+  {{ with .Get "caption" }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+*/}}
+<!-- image -->

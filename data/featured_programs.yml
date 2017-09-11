@@ -1,0 +1,38 @@
+featured:
+# ==============================================
+  - uid     : dap
+    summary :
+    img:
+      uid   : new-dap-image-no-url-for-dg-homepage
+      alt   :
+# ==============================================
+  - uid     : mobile-application-testing-program
+    summary :
+    img:
+      uid   : mobile-devices-testing-app-tilted
+      alt   :
+# ==============================================
+  - uid     : sites-usa-gov
+    summary :
+    img:
+      uid   : usa-gov-digital-strategy
+      alt   :
+# ==============================================
+  - uid     : challenges-and-prizes
+    summary :
+    img:
+      uid   : challengegov-logo
+      alt   :
+# ==============================================
+  - uid     : social-media
+    summary :
+    img:
+      uid   : social-media-icons-ailverv-istock-thinkstock-476494475
+      alt   :
+# ==============================================
+  - uid     : negotiated-terms-of-service-agreements
+    summary :
+    img:
+      uid   : agreement-terms-of-service-tos
+      alt   :
+# ==============================================

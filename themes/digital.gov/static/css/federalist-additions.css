@@ -1,2 +1,17 @@
 .subicon.github { background-image:url(images/github.png); }
 .subicon.github:hover { background-color:#222; }
+.featpage-image .block--full {
+  width: 100%;
+  height: 100%;
+}
+
+.featpage-image .catslide-thumbnail {
+  object-fit: cover;
+}
+
+.align-right {
+  float: right;
+  clear: right;
+  margin: 0 0 10px 20px;
+  width: 33%;
+}
