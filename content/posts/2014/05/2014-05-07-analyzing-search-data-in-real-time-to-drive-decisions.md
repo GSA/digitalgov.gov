@@ -1,4 +1,5 @@
 ---
+url: 2014/05/07/analyzing-search-data-in-real-time-to-drive-decisions.md
 date: 2014-05-07 13:00:27 -0400
 title: Analyzing Search Data in Real-Time to Drive Decisions
 summary: 'DigitalGov Search recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends. The ELK stack consists of Elasticsearch, a real-time search and analytics engine; Logstash, a log management tool; and Kibana, a data visualization engine for creating dashboards. {{< legacy-img src="2014/05/600-x-333-ELK-dashboard-deck.jpg" alt="ElasticSearch'

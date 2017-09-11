@@ -1,4 +1,5 @@
 ---
+url: 2013/11/25/twitter-best-practices-for-government.md
 date: 2013-11-25 13:01:09 -0400
 title: Twitter Best Practices for Government
 summary: '{{< legacy-img src="2013/11/media.twitter.jpg" alt="Twitter.media logo showing collage of photos showing labels overlaying images: Television over two guys sitting in chairs in the plains, government overlaying a Vote button, Sports overlaying a basketball, New overlaying a map of the world, music overlaying a band playing at an outdoor concert, non-profit overlaying a portion of a sign'

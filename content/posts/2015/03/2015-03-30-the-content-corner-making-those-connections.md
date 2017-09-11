@@ -1,4 +1,5 @@
 ---
+url: 2015/03/30/the-content-corner-making-those-connections.md
 date: 2015-03-30 10:00:27 -0400
 title: 'The Content Corner: Making Those Connections'
 summary: ' A (possibly infamous) blog post from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose'

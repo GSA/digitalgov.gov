@@ -1,4 +1,5 @@
 ---
+url: 2013/05/23/make-mobile-gov-with-the-mobile-application-development-program.md
 date: 2013-05-23 9:01:11 -0400
 title: Make Mobile Gov with the Mobile Application Development Program
 summary: 'Anytime, Anywhere, Any Device. The 21st century imperative to deliver government information and services to the public anytime, anywhere and on any device makes mobile a critical tactic in the federal Digital Government Strategy. Today, GSA&rsquo;s Digital Services Innovation Center and the Federal CIO Council launch the Mobile'

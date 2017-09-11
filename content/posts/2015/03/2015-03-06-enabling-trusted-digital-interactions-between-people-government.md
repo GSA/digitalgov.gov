@@ -1,4 +1,5 @@
 ---
+url: 2015/03/06/enabling-trusted-digital-interactions-between-people-government.md
 date: 2015-03-06 10:00:01 -0400
 title: 'Enabling Trusted Digital Interactions Between People & Government'
 summary: Today, people rely heavily on insecure and inefficient means to access federal government applications to conduct business (i.e., they depend on usernames and passwords to log into federal agency services online). Users are required to create and manage several online accounts for different applications, which can become a nuisance, difficult to manage, and creates administrative

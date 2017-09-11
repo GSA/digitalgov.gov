@@ -1,4 +1,5 @@
 ---
+url: 2014/04/14/announcing-fbopen-government-opportunities-made-easier.md
 date: 2014-04-14 13:00:55 -0400
 title: 'Announcing FBOpen: Government Opportunities Made Easier'
 summary: 'Today we&rsquo;re announcing our first product launch: FBOpen, a set of open-source tools to help small businesses search for opportunities to work with the U.S. government. On the surface, FBOpen is a website: fbopen.gsa.gov is a simple, Google-style page where you can search available federal contracts and grants. We&rsquo;ve used the latest in'

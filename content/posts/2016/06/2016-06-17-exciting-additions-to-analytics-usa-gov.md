@@ -1,4 +1,5 @@
 ---
+url: 2016/06/17/exciting-additions-to-analytics-usa-gov.md
 date: 2016-06-17 12:30:45 -0400
 title: Exciting Additions to Analytics.usa.gov
 summary: 'We&rsquo;ve expanded analytics.usa.gov to include 15(!) more agency-specific dashboard pages. We now offer agency-specific analytics data pages for a total of 25 major federal agencies, and each one is accessible from the dropdown menu at the top of the site. {{< legacy-img src="2016/06/600-x-351-Screen-capture-of-All-Participating-websites-for-Exciting-Additions-to-Analytics.usa_.gov-217318-people.jpg" alt="Screen capture showing arrows pointng to all participating websites, and the number'

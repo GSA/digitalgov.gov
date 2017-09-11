@@ -1,4 +1,5 @@
 ---
+url: 2014/07/29/trends-on-tuesday-avoid-the-app-graveyard.md
 date: 2014-07-29 1:23:17 -0400
 title: 'Trends on Tuesday: Avoid the “App Graveyard”'
 summary: 'Apps that are downloaded, used a few times and then never used again, are considered part of the &ldquo;app graveyard.&rdquo; In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used'

@@ -1,4 +1,5 @@
 ---
+url: 2015/01/29/be-a-citizen-scientist-with-noaas-crowdmag-app.md
 date: 2015-01-29 10:00:11 -0400
 title: 'Be a Citizen Scientist with NOAA&#8217;s CrowdMag App'
 summary: '{{< legacy-img src="2015/01/600-x-316-Crowd-Mag-app-map-via-web.jpg" alt="A screnn shot of a map that shows data collected from phones around the world. Displayed are the Crowdsourced magnetic data within a tolerance level of prediction by World Magnetic Model. They have added some uncertainty to each data point shown to ensure the privacy of contributors. The F channel represents Total'

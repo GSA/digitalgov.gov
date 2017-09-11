@@ -1,4 +1,5 @@
 ---
+url: 2017/04/10/inspiring-data-forum-at-the-canadian-space-agency.md
 date: 2017-04-10 11:00:16 -0400
 title: Inspiring Data Forum at the Canadian Space Agency
 summary: 'Last [month], NASA Open Innovation Program Manager Dr. Beth Beck and her team traveled to the Canadian Space Agency (CSA) near Montreal, Canada to attend the Inspiring Data Forum graciously hosted by our Open Data neighbors to the North. The goal of this gathering was to bolster the working relationship between the two Space Agency&rsquo;s'

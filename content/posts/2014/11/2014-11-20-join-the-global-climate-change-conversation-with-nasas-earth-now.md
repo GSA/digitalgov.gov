@@ -1,4 +1,5 @@
 ---
+url: 2014/11/20/join-the-global-climate-change-conversation-with-nasas-earth-now.md
 date: 2014-11-20 10:00:52 -0400
 title: 'Join the Global Climate Change Conversation with NASA&#8217;s Earth Now'
 summary: ' Wanna join the global climate change conversation? Arm yourself with real-time facts about Earth&rsquo;s vital signs from NASA&rsquo;s Earth Now mobile app. Earth Now is an app that visualizes recent global climate data, including surface air temperature, carbon dioxide, carbon'

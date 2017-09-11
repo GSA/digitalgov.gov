@@ -1,4 +1,5 @@
 ---
+url: 2014/09/17/save-the-date-techstate-mobile-diplomacy-event.md
 date: 2014-09-17 13:57:19 -0400
 title: 'Save the Date: Tech@State Mobile Diplomacy Event'
 summary: 'Sign up now to join fellow MobileGov Community of Practice members for Tech@State&#8217;s Mobile Diplomacy conference on Friday, October 3, 2014! Your attendance will let you participate in a variety of panels, ignite and breakout sessions about mobile development relevant to all digital government innovators. Members of the'

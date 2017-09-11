@@ -1,4 +1,5 @@
 ---
+url: 2013/09/05/ssi-mobile-wage-reporting.md
 date: 2013-09-05 9:24:40 -0400
 title: SSI Mobile Wage Reporting
 summary: Following up on their mobile website, the Social

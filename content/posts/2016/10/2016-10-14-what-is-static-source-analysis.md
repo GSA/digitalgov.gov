@@ -1,4 +1,5 @@
 ---
+url: 2016/10/14/what-is-static-source-analysis.md
 date: 2016-10-14 11:00:40 -0400
 title: What Is Static Source Analysis?
 summary: 'In software development, we use a variety of techniques to help us understand the software we&rsquo;ve written, whether it works as expected, and whether it will be easy to maintain over time. One of the techniques we use is called static source analysis, and it can tell us a lot about the maintenance requirements of'

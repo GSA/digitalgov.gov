@@ -1,4 +1,5 @@
 ---
+url: 2016/07/11/how-to-leverage-user-generated-content-to-resonate-with-your-audience.md
 date: 2016-07-11 13:30:29 -0400
 title: 'The Content Corner: How to Leverage User-Generated Content to Resonate With Your Audience'
 summary: 'User-Generated Content (UGC) is a buzzword as of late, popularized recently due to the ever increasing demand for new content. To define the phrase, let&rsquo;s look to a shining example of it,Wikipedia, as a source, &#8220;any form of content such as blogs, wikis, discussion forums, posts, chats,tweets, podcasts, digital images, video, audio files, advertisements, and other'

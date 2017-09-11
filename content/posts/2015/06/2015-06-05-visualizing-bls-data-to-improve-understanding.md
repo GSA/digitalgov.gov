@@ -1,4 +1,5 @@
 ---
+url: 2015/06/05/visualizing-bls-data-to-improve-understanding.md
 date: 2015-06-05 10:00:28 -0400
 title: Visualizing BLS Data to Improve Understanding
 summary: 'If a picture is worth a thousand words, what&rsquo;s the value of a striking, cool chart or map of some BLS data? At the U.S. Bureau of Labor Statistics (BLS), we&rsquo;re always thinking of better ways to help our users understand the information we produce. The global economy is complex, and the statistics to explain'

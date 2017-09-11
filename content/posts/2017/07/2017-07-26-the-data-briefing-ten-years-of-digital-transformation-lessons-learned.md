@@ -1,4 +1,5 @@
 ---
+url: 2017/07/26/the-data-briefing-ten-years-of-digital-transformation-lessons-learned.md
 date: 2017-07-26 12:00:00 -0400
 title: 'The Data Briefing: Ten Years of Digital Transformation—Lessons Learned'
 summary: Since 2007, a major consulting firm has conducted an annual survey on organizations’ “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned?

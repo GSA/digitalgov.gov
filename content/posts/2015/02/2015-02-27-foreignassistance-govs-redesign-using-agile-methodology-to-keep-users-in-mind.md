@@ -1,4 +1,5 @@
 ---
+url: 2015/02/27/foreignassistance-govs-redesign-using-agile-methodology-to-keep-users-in-mind.md
 date: 2015-02-27 10:00:43 -0400
 title: 'ForeignAssistance.gov&#8217;s Redesign: Using Agile Methodology to Keep Users in Mind'
 summary: Content is one of the most important things about your site. After all, it is what keeps your users engaged and keeps them coming back to your site. Depending on the type of website your agency manages, you should always think of ways to best deliver your content to your end users. If the content

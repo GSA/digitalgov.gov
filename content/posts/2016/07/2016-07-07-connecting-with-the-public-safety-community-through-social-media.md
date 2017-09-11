@@ -1,4 +1,5 @@
 ---
+url: 2016/07/07/connecting-with-the-public-safety-community-through-social-media.md
 date: 2016-07-07 11:00:26 -0400
 title: Connecting With the Public Safety Community Through Social Media
 summary: 'Technology is bringing the world closer together &ndash; from connecting people across the country instantly by live video chats to tapping into the insights of data analytics. This is the type of power that FirstNet aims to bring to the public safety community through the nationwide public safety broadband network. FirstNet is working to ensure'

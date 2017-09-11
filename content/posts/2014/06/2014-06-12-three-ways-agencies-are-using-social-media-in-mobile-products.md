@@ -1,4 +1,5 @@
 ---
+url: 2014/06/12/three-ways-agencies-are-using-social-media-in-mobile-products.md
 date: 2014-06-12 14:29:54 -0400
 title: Three Ways Agencies Are Using Social Media in Mobile Products
 summary: 'As highlighted in this Trends on Tuesday post, time spent on mobile phones&mdash;about 3 hours per day&mdash;has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies&rsquo; mobile apps, not just websites, and social media outlets. To take advantage of new opportunities for consumer'

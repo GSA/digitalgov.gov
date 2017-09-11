@@ -1,4 +1,5 @@
 ---
+url: 2017/02/09/webinar-recap-better-faster-and-more-flexible-u-s-web-design-standards-update.md
 date: 2017-02-09 12:00:10 -0400
 title: 'Webinar Recap: Better, Faster, and More Flexible—U.S. Web Design Standards Update'
 summary: 'The Road to Launch Version 1.0 You may have noticed a new, cleaner, and more modern look to some government websites over the last year&mdash;these are the web properties that were early adopters of the Draft U.S. Web Design Standards from 18F, the digital services agency which is part of the General Services Administration (GSA).'

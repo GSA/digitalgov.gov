@@ -1,4 +1,5 @@
 ---
+url: 2013/05/02/internet-time-travel.md
 date: 2013-05-02 13:40:29 -0400
 title: Internet Time Travel
 summary: 'The first public page on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time. {{< legacy-img src="2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image'

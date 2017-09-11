@@ -1,4 +1,5 @@
 ---
+url: 2013/05/31/four-steps-to-achieve-good-seo.md
 date: 2013-05-31 11:21:54 -0400
 title: Four Steps to Achieve Good SEO
 summary: 'Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they&rsquo;re relevant to a searcher&rsquo;s query. Users generally'

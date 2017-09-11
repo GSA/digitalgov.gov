@@ -1,4 +1,5 @@
 ---
+url: 2016/03/29/google-will-rank-mobile-friendly-sites-even-higher-beginning-in-may.md
 date: 2016-03-29 11:55:41 -0400
 title: 'Trends on Tuesday: Google Will Rank ‘Mobile-Friendly’ Sites Even Higher Beginning in May'
 summary: 'Last year Google began changing their search ranking algorithm to direct mobile users to mobile-friendly sites, and they recently announced that beginning in May they will be implementing an update to focus even more exclusively on boosting mobile-friendly sites. {{< legacy-img src="2016/03/600-x-365-Screen-capture-of-the-Why-make-a-website-mobile-friendly-section-on-the-Google-Developers-site.jpg" alt="Screen capture of the why make a website mobile-friendly section on the Google'

@@ -1,4 +1,5 @@
 ---
+url: 2017/05/04/cybersecurity-protecting-manufacturing-technology-and-innovation.md
 date: 2017-05-04 15:00:45 -0400
 title: 'Cybersecurity: Protecting Manufacturing Technology and Innovation'
 summary: Recently a segment on my favorite morning news program stopped me in my tracks. The young and attractive hosts (why are they always so young and attractive?) were demonstrating new appliances including a smart refrigerator. The fridge was equipped with all kinds of high-tech features including touch screen displays, a camera inside that allows you

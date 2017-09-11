@@ -1,4 +1,5 @@
 ---
+url: 2014/11/24/jumpstart-your-government-sponsored-initiative-in-a-tight-budget-climate-try-crowdfunding.md
 date: 2014-11-24 11:05:02 -0400
 title: 'Jumpstart Your Government-Sponsored Initiative in a Tight Budget Climate: Try Crowdfunding'
 summary: 'There are many ways to apply crowdfunding in the government space. This case study highlights the U.S. Department of State&rsquo;s utilization of an online crowdfunding platform (CFP) to launch the Alumni Engagement Innovation Fund 2.0 (AEIF 2.0). Through this fundraising platform, exchange program alumni were able to work on innovative solutions to the world&rsquo;s toughest'

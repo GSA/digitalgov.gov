@@ -1,4 +1,5 @@
 ---
+url: 2014/05/21/the-api-briefing-keeping-up-with-federal-employee-training-dods-xapi.md
 date: 2014-05-21 13:00:10 -0400
 title: 'The API Briefing: Keeping up with Federal Employee Training – DOD’s xAPI'
 summary: 'Federal employee training is about to receive a much-needed boost in the President&rsquo;s 2015 Budget Request. Training is essential to the federal workforce and agencies have a number of learning management systems to deliver online training along with the traditional classroom training. The problem is that all of these training sources don&rsquo;t share information with'

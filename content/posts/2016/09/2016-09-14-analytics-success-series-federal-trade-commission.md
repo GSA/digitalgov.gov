@@ -1,4 +1,5 @@
 ---
+url: 2016/09/14/analytics-success-series-federal-trade-commission.md
 date: 2016-09-14 15:00:39 -0400
 title: 'Analytics Success Series: Federal Trade Commission'
 summary: 'FTC&rsquo;s Analytics Success: Making mission-related tasks easier for the user to find In the summer of  2015, members of the Federal Trade Commission&rsquo;s Office of Public Affairs (OPA) Web team worked with their FTC colleagues to analyze Digital Analytics Program (DAP) Google Analytics data (onsite search queries, landing pages, pageviews, etc.) for FTC.gov. We found'

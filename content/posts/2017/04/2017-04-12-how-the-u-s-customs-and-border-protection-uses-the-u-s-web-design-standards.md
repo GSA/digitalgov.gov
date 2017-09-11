@@ -1,4 +1,5 @@
 ---
+url: 2017/04/12/how-the-u-s-customs-and-border-protection-uses-the-u-s-web-design-standards.md
 date: 2017-04-12 11:00:14 -0400
 title: How the U.S. Customs and Border Protection Uses the U.S. Web Design Standards
 summary: 'As mentioned in our recent Q&A with the team at NASA, the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the U.S. Customs and Border Protection and learned how they used the Standards to'

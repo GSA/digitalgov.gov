@@ -1,4 +1,5 @@
 ---
+url: 2014/12/18/acronyms-army-isms-and-much-more-rotc-handbook-app-explains-cadet-life.md
 date: 2014-12-18 10:00:00 -0400
 title: 'Acronyms, Army-isms and Much More: ROTC Handbook App Explains Cadet Life'
 summary: 'Have a potential future cadet in the family? Deciding whether the Army Reserve Officers&#8217; Training Corps (ROTC) program is right for you? Already in the program? Study up on the Army ROTC program before you or someone you know steps foot in the classroom in a crisp uniform. Download the ROTC Handbook from the U.S.'

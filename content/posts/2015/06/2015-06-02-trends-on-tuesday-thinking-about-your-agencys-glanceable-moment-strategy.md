@@ -1,4 +1,5 @@
 ---
+url: 2015/06/02/trends-on-tuesday-thinking-about-your-agencys-glanceable-moment-strategy.md
 date: 2015-06-02 10:00:49 -0400
 title: 'Trends on Tuesday: Thinking about Your Agency&#8217;s &#8220;Glanceable&#8221; Moment Strategy'
 summary: 'Mobile device penetration is growing, with larger screens providing more real-estate for content and users completing more complex tasks over longer periods of engagement. However, the new wave of digital screens on watches and wearables is requiring organizations to consider how to build smaller, faster and simpler interfaces to prepare for &ldquo;glanceable moments.&rdquo; Ted Schadler from Forrester Research provided the following explanation:'

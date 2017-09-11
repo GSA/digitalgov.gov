@@ -1,4 +1,5 @@
 ---
+url: 2016/07/27/the-data-briefing-the-census-business-builder-mashing-up-census-data-to-help-build-businesses.md
 date: 2016-07-27 10:00:57 -0400
 title: 'The Data Briefing: The Census Business Builder—Mashing Up Census Data to Help Build Businesses'
 summary: 'The Census Bureau conducts more surveys than just the Constitutionally-mandated Decennial Census. There is also the American Community Survey, the Economic Census, the County Business Patterns series, statistics on Nonemployer businesses, and the Survey of Business Owners and Self-Employed Persons.  On their own, each survey is full of useful information for researchers, local and state governments, and entrepreneurs.'

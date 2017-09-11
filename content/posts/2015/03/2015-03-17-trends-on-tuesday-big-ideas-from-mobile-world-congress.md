@@ -1,4 +1,5 @@
 ---
+url: 2015/03/17/trends-on-tuesday-big-ideas-from-mobile-world-congress.md
 date: 2015-03-17 10:00:10 -0400
 title: 'Trends on Tuesday: Big Ideas from Mobile World Congress'
 summary: ' Mobile World Congress, the world&rsquo;s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year&rsquo;s show shattered previous records with more than 93,000 attendees across'

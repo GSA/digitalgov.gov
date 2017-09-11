@@ -1,4 +1,5 @@
 ---
+url: 2016/11/18/a-new-prize-challenge-for-virtual-and-augmented-reality-learning-tools.md
 date: 2016-11-18 12:00:22 -0400
 title: A New Prize Challenge for Virtual and Augmented Reality Learning Tools
 summary: 'Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education. &ldquo;I&rsquo;m calling for investments in educational technology that will help create. . . educational software that&rsquo;s as compelling as the best video game. I want you guys to be stuck on'

@@ -1,4 +1,5 @@
 ---
+url: 2015/07/02/content-syndication-of-nih-grants-information-now-available.md
 date: 2015-07-02 10:47:58 -0400
 title: Content Syndication of NIH Grants Information Now Available
 summary: '{{< legacy-img src="2015/06/250-x-464-Free-Web-Content-from-NIH-three-steps-diagram.jpg" alt="The 3 easy steps to get trusted, up-to-date health information from the National Institutes of Health directly onto your website are: 1) Create a free account at the HHS Syndication Storefront 2) Sign in, browse, and choose your N I H Health Topics 3) Add the code to your site; the info'

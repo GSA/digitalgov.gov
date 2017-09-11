@@ -1,4 +1,5 @@
 ---
+url: 2014/05/28/the-api-briefing-fdas-pillbox-unlocking-valuable-government-health-information-through-apis.md
 date: 2014-05-28 1:35:08 -0400
 title: 'The API Briefing: NIH&#8217;s Pillbox – Unlocking Valuable Government Health Information through APIs'
 summary: 'The Food and Drug Administration collects drug labeling information for human prescription, over-the-counter, homeopathic, and veterinary products through a special markup language called &ldquo;Structured Product Labeling&rdquo; (SPL).  The database created from the SPL submissions is a treasure trove of health information that is valuable'

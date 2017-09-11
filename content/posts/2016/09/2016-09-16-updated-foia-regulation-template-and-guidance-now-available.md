@@ -1,4 +1,5 @@
 ---
+url: 2016/09/16/updated-foia-regulation-template-and-guidance-now-available.md
 date: 2016-09-16 10:00:24 -0400
 title: Updated FOIA Regulation Template and Guidance Now Available
 summary: 'On September 7th, the Office of Information Policy (OIP) released an updated version of its Guidance for Agency Freedom of Information Act (FOIA) Regulations, along with an updated FOIA Regulation Template. These resources were first issued in March 2016. OIP has updated them to take into account changes made to the FOIA by the FOIA Improvement'
