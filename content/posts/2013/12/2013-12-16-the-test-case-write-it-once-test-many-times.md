@@ -10,7 +10,7 @@ tag:
   - mobile testing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-281-Mobile-Tester-Newsletter.jpg" alt="Mobile testing on a laptop" >}}**What if Thomas Edison Didn’t Use Test Cases?**
+{{< legacy-img src="2013/12/250-x-281-Mobile-Tester-Newsletter.jpg" alt="Mobile testing on a laptop" >}}**What if Thomas Edison Didn’t Use Test Cases?**
 
 > “I have not failed. I&#8217;ve just found 10,000 ways that won&#8217;t work.” ~Thomas A. Edison
 

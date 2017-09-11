@@ -38,7 +38,7 @@ As another example, Irving asked attendees to consider how an apartment manager 
 
 The poster child for [content modeling is National Public Radio]({{< relref "2014-05-27-video-blog-part-3-sarah-crane-usa-gov.md" >}} "Video Blog: Part 3: Sarah Crane, USA.gov"), the presenters noted. Once they input their information, it goes through an API and is distributed through multiple platforms. Once in these platforms, those meta-tags help communicate information, which is why on the radio you can see specific information rather than just ‘NPR program.’ When the iPad came out, it took NPR only two weeks to create an app due in a large part to their content modeling. The information was already organized. Structured content liberates your content. It allows you to manipulate it now and later without needing to recreate your page. It makes your content flexible and usable. Structured content enables long-term functionality.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2958-x-1407-Open-Content-Model-full-cropped.jpg)
+[{{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2958-x-1407-Open-Content-Model-full-cropped.jpg)
 
 To view the article model and others visit our space on [GitHub](http://gsa.github.io/Open-And-Structured-Content-Models/index.html). Here the working group is building/tweaking models so if you have questions, suggestions, or want to participate, please do.
 

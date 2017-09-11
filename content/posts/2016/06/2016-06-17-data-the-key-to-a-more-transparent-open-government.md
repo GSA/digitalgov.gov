@@ -13,7 +13,7 @@ tag:
   - US General Services Administration
 ---
 
-The work of the federal government is incredibly diverse, and affects almost every aspect of American life, whether it is keeping planes in the air or ensuring that our food is safe. Every public service the government provides requires many different skill sets, but the one thing that unites them all is a consistent requirement for transparency. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-450-Security-concept-blue-opened-padlock-on-digital-background-maxkabakov-iStock-Thinkstock-161719626.jpg" alt="Security concept: blue opened padlock on digital background" caption="" >}} 
+The work of the federal government is incredibly diverse, and affects almost every aspect of American life, whether it is keeping planes in the air or ensuring that our food is safe. Every public service the government provides requires many different skill sets, but the one thing that unites them all is a consistent requirement for transparency. {{< legacy-img src="2016/06/600-x-450-Security-concept-blue-opened-padlock-on-digital-background-maxkabakov-iStock-Thinkstock-161719626.jpg" alt="Security concept: blue opened padlock on digital background" caption="" >}} 
 
 Transparency enables the federal government to demonstrate to the American people how their tax dollars are being used. At the same time, the information we produce is an invaluable public resource that can transform lives and make a difference in communities across the country. That is why information is now more accessible than ever before.
 

@@ -22,7 +22,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" >}}
+{{< legacy-img src="2014/10/600-x-428-HHS-table-code.jpg" alt="table overflow code" >}}
 
 Government mobile code developed to help make tables mobile-friendly in one agency has now been used in another agency’s mobile efforts.
 

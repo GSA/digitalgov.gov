@@ -22,11 +22,11 @@ With today’s update we have added additional items that users have requested. 
 
 Occasionally, we receive requests for a function that is already available on Congress.gov. There is now a featured Search Tip to share and highlight such items. You can also subscribe to search tips from the <a href="https://www.congress.gov/rss?loclr=bloglaw" rel="nofollow">RSS and Email Alerts</a> page.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-432-congressdotgov-homepage-2-november-2016-updates.jpg" alt="New Congress.gov Homepage with Recent, Contact Your Member, and Search Tips." >}}
+{{< legacy-img src="2016/11/600-x-432-congressdotgov-homepage-2-november-2016-updates.jpg" alt="New Congress.gov Homepage with Recent, Contact Your Member, and Search Tips." >}}
 
 Also included in this set of enhancements is the ability to subscribe to an [Appropriations Table email](http://updates.gov.gov/accounts/USLOC/subscriber/new?topic_id=USLOC_152) from that same <a href="https://www.congress.gov/rss?loclr=bloglaw" rel="nofollow">RSS and Email Alerts</a> page.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-543-congressdotgov-rss-and-email-alerts-appropriations.jpg" alt="RSS and Email Alerts now with Appropriations Tables Email." >}}
+{{< legacy-img src="2016/11/600-x-543-congressdotgov-rss-and-email-alerts-appropriations.jpg" alt="RSS and Email Alerts now with Appropriations Tables Email." >}}
 
 See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?loclr=bloglaw) for the complete rundown of this release. The page also provides a nice overview of all the enhancements since the site’s [launch back in September 2012](http://blogs.gov.gov/law/2012/09/introducing-congress-gov/?loclr=bloglaw).
 
@@ -74,7 +74,7 @@ See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?locl
 >   </li>
 > </ul>
 > 
-> **_{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/250-x-210-congressdotgov-congressional-record-year-and-volume.jpg" alt="Congressional Record Year and Volume Facet." >}}Enhancements – Congressional Record:_**
+> **_{{< legacy-img src="2016/11/250-x-210-congressdotgov-congressional-record-year-and-volume.jpg" alt="Congressional Record Year and Volume Facet." >}}Enhancements – Congressional Record:_**
 > 
 > <ul type="circle">
 >   <li>
@@ -113,5 +113,5 @@ See [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?locl
 >   </li>
 > </ul>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-130-congressdotgov-advanced-search-legislation-date.jpg" alt="Legislation Advanced Search Date of Introduction." >}}_What other enhancements would you like to see on [Congress.gov](https://www.congress.gov/?loclr=bloglaw)? [Leave comments here](http://blogs.gov.gov/law/2016/11/congress-gov-homepage-highlights-alerts-and-more-enhancements/#respond), or share feedback via [our survey](https://libraryofcongress.polldaddy.com/s/congress-gov-feedback)._
+{{< legacy-img src="2016/11/600-x-130-congressdotgov-advanced-search-legislation-date.jpg" alt="Legislation Advanced Search Date of Introduction." >}}_What other enhancements would you like to see on [Congress.gov](https://www.congress.gov/?loclr=bloglaw)? [Leave comments here](http://blogs.gov.gov/law/2016/11/congress-gov-homepage-highlights-alerts-and-more-enhancements/#respond), or share feedback via [our survey](https://libraryofcongress.polldaddy.com/s/congress-gov-feedback)._
 _This post was originally published on the [In Custodia Legis](http://blogs.gov.gov/law/) blog of the [Law Library of Congress](http://www.gov.gov/law/)._

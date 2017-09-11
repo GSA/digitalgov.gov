@@ -14,7 +14,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg)
+[{{< legacy-img src="2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/healthcare.gov-3-350x152.jpg)
 
 Last week, we told you about the upcoming relaunch of Healthcare.gov and [<span style="text-decoration: underline">its use of the Jekyll website generator</span>](http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html). Jekyll allows users to build dynamic websites served by static pages. To help manage large websites using Jekyll, developers working on the new healthcare.gov published the ‘[<span style="text-decoration: underline">Prose.io</span>](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/)’  editing interface last year. Content editors will use this lightweight editor to create and manage content across the site.
 

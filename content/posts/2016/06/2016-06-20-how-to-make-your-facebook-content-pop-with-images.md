@@ -22,7 +22,7 @@ Facebook is a highly visual medium. [Studies](http://www.socialmediaexaminer.com
 
 Posts featuring an image stand out in the news feeds of people who like your page. While a great image can cut through the clutter, you don’t need to fill your feed. Think “representative” and high-quality images. Showcase a few great pictures that give a sense of an event–an AIDS walk, for example–and share the photos that bring to life an aspect of your work or your agency’s services.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/540-x-405-AIDSgov-facebook-images.jpg" alt="Photo of AIDS.gov's Facebook page photos." >}}
+{{< legacy-img src="2016/06/540-x-405-AIDSgov-facebook-images.jpg" alt="Photo of AIDS.gov's Facebook page photos." >}}
 
 > &#8220;_We&#8217;ve found that [posting photos on Facebook](https://www.facebook.com/NASTAD/?fref=ts) is the best way to engage our audience. The bottom line is that images are easier to consume than text, especially when your content is competing with a million other things that might be in a user&#8217;s feed. The key is to share high-quality photos that your audience is interested in because not all photos are created equal_.&#8221; – Meico Marquette Whitlock, Associate Director, Communications, National Association of State and Territorial AIDS Directors (NASTAD)
 

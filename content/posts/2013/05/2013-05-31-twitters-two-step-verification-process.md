@@ -12,7 +12,7 @@ tag:
   - Twitter
 ---
 
-To enhance security, Twitter now offers <a href="https://blog.twitter.com/2013/getting-started-login-verification" target="_blank">two-step verification</a>. The release of the new feature follows several high-profile account breaches – including a <a href="http://bigstory.ap.org/article/hackers-compromise-ap-twitter-account" target="_blank">false tweet sent from the Associated Press’s Twitter account</a> in April. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Blue-bird-concrete-background-simonox-iStock-Thinkstock-176775917.jpg" alt="Blue bird graphic on a blue concrete background" caption="" >}} 
+To enhance security, Twitter now offers <a href="https://blog.twitter.com/2013/getting-started-login-verification" target="_blank">two-step verification</a>. The release of the new feature follows several high-profile account breaches – including a <a href="http://bigstory.ap.org/article/hackers-compromise-ap-twitter-account" target="_blank">false tweet sent from the Associated Press’s Twitter account</a> in April. {{< legacy-img src="2016/02/600-x-400-Blue-bird-concrete-background-simonox-iStock-Thinkstock-176775917.jpg" alt="Blue bird graphic on a blue concrete background" caption="" >}} 
 
 If you chose to enable the two-step verification feature, Twitter sends a text message with a unique code to a cell phone that must be entered to continue the login process. This extra step is simple and provides another important layer of protection for your account.
 

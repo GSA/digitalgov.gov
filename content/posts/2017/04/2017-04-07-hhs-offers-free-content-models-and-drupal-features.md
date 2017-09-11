@@ -28,7 +28,7 @@ A [content model]({{< link "tag/content-models" >}}) is a representation of type
 
 [Open and structured content models]({{< link "tag/open-and-structured-content-models" >}}) can help you create content that is platform-agnostic, format-free, and device independent. We need to stop creating fixed, single-purpose content and start making it more future-ready, flexible, and reusable. In the age of smartphones, tablets, social media tools, [syndication]({{< relref "2016-02-04-does-content-syndication-work.md" >}}), and websites, [the need for modular content is growing]({{< relref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).
 
-{{< legacy-img src="CDN/files/2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
+{{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
 The goal of implementing content models is to have the ability to “create once and publish everywhere” ([COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13)). Adopting content models can allow your content to be flexible enough to go wherever it is needed. Whether it is syndicated, viewed on a mobile device, or the data is pulled in by another application, it is flexible and therefore consumable.
 
@@ -45,7 +45,7 @@ HHS currently has over 20 models—and the list continues to grow as the site ad
 
 Take a look in the above repositories and see if there are a few content models you can use or use as a starting point in your own efforts.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-375-HHS-GitHub-content-models.jpg" alt="Screencapture of the GitHub page for HHS content models and Drupal features." >}}
+{{< legacy-img src="2017/04/600-x-375-HHS-GitHub-content-models.jpg" alt="Screencapture of the GitHub page for HHS content models and Drupal features." >}}
 
 ## What is a Drupal Feature?
 

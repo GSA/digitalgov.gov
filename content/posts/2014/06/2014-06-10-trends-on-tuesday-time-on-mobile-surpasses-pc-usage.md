@@ -11,7 +11,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/featured-stopwatch-cropped-301-x-212-250x176.jpg" alt="Stopwatch vector illustration" caption="" >}} 
+{{< legacy-img src="2014/03/featured-stopwatch-cropped-301-x-212-250x176.jpg" alt="Stopwatch vector illustration" caption="" >}} 
 
 With the recent growth of smartphone and tablet ownership, it’s no surprise that U.S. consumers are spending more time on mobile devices than PCs. Mobile usage will rise to nearly three hours per day in 2014, <a title="eMarketer" href="http://mobithinking.com/blog/mobile-overtakes-pc-usa" target="_blank">according to eMarketer</a>. So how does mobile compare to other major media:
 

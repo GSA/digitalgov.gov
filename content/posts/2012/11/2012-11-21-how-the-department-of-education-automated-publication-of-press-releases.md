@@ -14,7 +14,7 @@ tag:
   - US Department of Education
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}
+{{< legacy-img src="2014/07/250-x-188-Web-design-concept-Gears-on-Html-Code-background-maxkabakov-iStock-Thinkstock-469530729.jpg" alt="Web design concept: Gears on HTML Code background" caption="" >}}
 
 A case study on how the Department of Education used the Drupal [content management system]({{< relref "2013-10-30-content-management-systems-toolkit.md" >}} "Content Management Systems Toolkit") (CMS) to publish press releases as structured content to automatically generate listing pages and reduce errors and posting time.
 
@@ -28,7 +28,7 @@ They moved to a CMS (Drupal) that could store the parts of a press release as da
 
 With Drupal, they decided which pieces of information would be useful for sorting and listing (for example, title, press release data, excerpt, keywords), and created a form in the system that would collect each piece in a separate field. They then used the system’s tools (Drupal Views) to build very simple database queries that would generate the listing pages and RSS feeds.
 
-## Results {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" caption="" >}}
+## Results {{< legacy-img src="2014/07/250-x-188-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" caption="" >}}
 
 They reduced the amount of work associated with posting press releases by about 15 minutes for each one, and removed several opportunities for error. Additionally, the new system allowed easy creation of multiple listings of press releases, such as all press releases tagged with a particular keyword. This would have been impossible with the manual system. Each listing page also has its own RSS feed, which can then be used for further syndication.
 

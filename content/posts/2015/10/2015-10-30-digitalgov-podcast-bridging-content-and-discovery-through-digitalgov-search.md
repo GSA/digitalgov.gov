@@ -11,7 +11,7 @@ tag:
   - podcast
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-450-Dawn-McCleskey-DGSearch-Podcast-Oct-29-2015.jpg" alt="Dawn McCleskey, DigitalGov Search" >}}
+{{< legacy-img src="2015/10/600-x-450-Dawn-McCleskey-DGSearch-Podcast-Oct-29-2015.jpg" alt="Dawn McCleskey, DigitalGov Search" >}}
 
 You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!).
 

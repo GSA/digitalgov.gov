@@ -11,7 +11,7 @@ tag:
   - security
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-436-cloud-computing-CIOgov-177370799.jpg" alt="600-x-436-cloud-computing-CIOgov-177370799" >}}
+{{< legacy-img src="2014/03/600-x-436-cloud-computing-CIOgov-177370799.jpg" alt="600-x-436-cloud-computing-CIOgov-177370799" >}}
 
 Cloud Computing enables convenient, on-demand access to, and rapid deployment of, shared computing resources such as networks, servers, storage, applications, and services.
 

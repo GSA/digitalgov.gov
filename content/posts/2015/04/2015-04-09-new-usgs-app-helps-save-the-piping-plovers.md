@@ -17,7 +17,7 @@ tag:
   - USGS
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-422-Piping-Plover-standing-in-the-surf-Robert-Blanchard-iStock-Thinkstock-ThinkstockPhotos-92401185.jpg" alt="Piping Plover standing in the surf" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-422-Piping-Plover-standing-in-the-surf-Robert-Blanchard-iStock-Thinkstock-ThinkstockPhotos-92401185.jpg" alt="Piping Plover standing in the surf" caption="" >}} 
 
 iPlover is a new app from the U.S. Geological Survey (USGS) for data collection about habitats on coastal beaches and the environment surrounding them.
 

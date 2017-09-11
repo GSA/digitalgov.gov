@@ -14,7 +14,7 @@ tag:
   - government contact centers
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Chairs-computers-and-headset-in-a-modern-office-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-486481879.jpg" alt="Chairs, computers, and headsets in a modern office" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-400-Chairs-computers-and-headset-in-a-modern-office-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-486481879.jpg" alt="Chairs, computers, and headsets in a modern office" caption="" >}} 
 
 The federal government has caught the [customer experience]({{< relref "2015-01-12-15-government-customer-service-trends-for-2015.md" >}}) bug. We want our customers to complete their tasks with minimal effort using a streamlined process. If they need personal help, we want it to be quick, polite, and provide the best answer. But that personal help frequently requires a team of highly skilled, dedicated people—a contact center.
 

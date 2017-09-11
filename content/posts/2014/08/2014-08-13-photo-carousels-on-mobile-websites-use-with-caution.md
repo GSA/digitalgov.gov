@@ -17,7 +17,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" >}}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
+{{< legacy-img src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" >}}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
 
 In a recent email exchange on the [Web Content Managers listserv]({{< relref "web-content-managers-listserv.md" >}} "Web Content Managers Listserv"), the consensus was carousels met the internal, official need to share information. However, most agreed carousels were a necessary evil, but in general preference, were an annoyance.
 

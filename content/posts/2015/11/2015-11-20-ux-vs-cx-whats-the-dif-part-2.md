@@ -1,7 +1,7 @@
 ---
 date: 2015-11-20 11:10:26 -0400
 title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
-summary: 'In honor of World Usability Day, which happened on November 12, we&rsquo;d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a'
+summary: 'In honor of World Usability Day, which happened on November 12, we&rsquo;d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {{< legacy-img src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a'
 authors:
   - rflagg
 categories:
@@ -22,7 +22,7 @@ In honor of [World Usability Day](http://www.worldusabilityday.org/), which happ
 
 ## The New Landscape
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a part of Customer Experience (C X)." >}}We first discussed this issue in the summer of 2014, in our [UX vs. CX article]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), but a lot has changed in this space across government in the past year or so.
+{{< legacy-img src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a part of Customer Experience (C X)." >}}We first discussed this issue in the summer of 2014, in our [UX vs. CX article]({{< relref "2014-07-07-user-experience-ux-vs-customer-experience-cx-whats-the-dif.md" >}}), but a lot has changed in this space across government in the past year or so.
 
   * The White House has taken a number of steps to improve government customer service, including: 
       * Issuing a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview) to deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government;
@@ -39,7 +39,7 @@ Like the pronunciation of “gif”—you should be skeptical of anyone who is T
 
 **CX** is generally broader—often synonymous with service design, and frequently involves more general user research activities like [journey mapping]({{< relref "2015-08-12-journey-mapping-the-customer-experience-a-usa-gov-case-study.md" >}}) and [personas]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}), but often not product-specific ones like usability tests. CX is an emerging discipline, particularly in government, with many agencies in the early stages of implementing program- or agency-wide customer experience initiatives. Several agencies now have a Chief Customer Officer, responsible for the overall experience the public has with agency programs and services.
 
-## Defining the Disciplines {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-400-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="Dictionary entry for the word, experience." caption="" >}} 
+## Defining the Disciplines {{< legacy-img src="2015/11/600-400-Dictionary-Series-Experience-bernie_photo-iStock-Thinkstock-487291716.jpg" alt="Dictionary entry for the word, experience." caption="" >}} 
 
 Every agency across the federal government has embraced UX and CX in different ways. At some agencies, user-centeredness is the currency in which people work, and everyone wants more of it. There is a growing interest in “user research.” Service design, or CX, looks at the entire experience, and narrows to UX when discussing UI elements. But even when the talk is more about research activities than spending time classifying these activities, they’re all about user-centricity, no matter which term you use.
 

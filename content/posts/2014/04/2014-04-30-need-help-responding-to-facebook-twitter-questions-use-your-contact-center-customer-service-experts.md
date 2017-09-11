@@ -18,7 +18,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 
+{{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}} 
 
 Government agencies are always looking for better ways to connect with their audiences while making more effective use of existing (or shrinking) resources. To that end, many agencies—including ours, the National Cancer Institute—have begun to use social media platforms to help serve the communications mission. As these tools have become more widely used, NCI’s Contact Center has become an essential partner in our social media efforts.
 

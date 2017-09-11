@@ -28,7 +28,7 @@ tag:
   - United States Department of Housing and Urban Development
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept" caption="" >}} 
+{{< legacy-img src="2016/02/600-x-400-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Global internet communication, online messaging and translation concept" caption="" >}} 
 
 Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience.
 
@@ -48,7 +48,7 @@ In February 2011, the Department of Justice issued a [memo to federal agencies r
 
 ## Tools to Make it Happen
 
-  * {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} 
+  * {{< legacy-img src="2012/10/250-x-248-Translating-Concept-Sticker-on-Message-Board-Tashatuvango-iStock-Thinkstock-484520783.jpg" alt="Tashatuvango/iStock/Thinkstock" caption="" >}} 
     [GSA/ANLE Agreement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/2014-ANLE-Agreement.pdf)—GSA entered into an agreement with the North American Academy of the Spanish Language (ANLE) in 2009 to improve and standardize the use of the Spanish language in government communications. The agreement was renewed in 2012 and again in March of 2014.</li> 
     
       * [Top 10 Best Practices for Multilingual Websites]({{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}} "Top 10 Best Practices for Multilingual Websites")

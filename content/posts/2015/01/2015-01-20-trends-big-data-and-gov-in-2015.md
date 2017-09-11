@@ -15,7 +15,7 @@ tag:
   - US Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}
+{{< legacy-img src="2015/01/600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870.jpg" alt="600-x-319-Data-Center-Andres-Rodriguez-Hemera-Thinkstock-93693870" >}}
 
 As we move into 2015, the amount of data available in the digital ecosystem will increase very rapidly because of the Internet of Things (IoT), social media and wearable tech. In the future, the problem lies not only with data collection, but with what one does with the data.
 
@@ -25,7 +25,7 @@ Big Data, one of the main and recurring buzzwords of the digital century, will r
 
 Mainly, data has gotten bigger and expanded in scope. As companies and organizations have found new value in data analytics, they have recognized the need to view their data streams as major assets. Data management, therefore, has been turned on its head in a way. What I mean is, instead of thinking of how to store and maintain data streams, innovative organizations are starting by developing their major business goals and hurdles first, and only then searching for what data can speak to those goals, how that data can be analyzed, and as such, what architecture and software tools would be most appropriate for their analytical needs.
 
-## What do you predict will be the areas of concern for data management in the future, as we move to IoT and wearables? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-200-monicaodo-iStock-Thinkstock-482299521.jpg" alt="An illustration of a smart phone and smart watch synching data" caption="" >}} 
+## What do you predict will be the areas of concern for data management in the future, as we move to IoT and wearables? {{< legacy-img src="2014/04/250-x-200-monicaodo-iStock-Thinkstock-482299521.jpg" alt="An illustration of a smart phone and smart watch synching data" caption="" >}} 
 
 In one sense, [IoT]({{< relref "2014-10-31-whats-happening-with-the-internet-of-things.md" >}}) is not an entirely new idea, but the natural expansion of existing ideas. Utilizing WiFi technology to collect data from people, animals, and all types of mobile and immobile objects kind of seems like it was and is inevitable.
 
@@ -45,7 +45,7 @@ At the other end of the spectrum, you will see some agencies focusing too quickl
 
 ## For the areas of concern you mentioned, how can the government play a part in addressing these challenges?
 
-### Area of concern: Applying analytics to new data streams {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-167-Composite-image-of-file-transfer-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488641549.jpg" alt="Composite image of file transfer background" caption="" >}} 
+### Area of concern: Applying analytics to new data streams {{< legacy-img src="2015/01/250-x-167-Composite-image-of-file-transfer-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488641549.jpg" alt="Composite image of file transfer background" caption="" >}} 
 
 I believe it’s up to everyone involved to focus on solving problems first and ensuring that those folks involved in these project have the proper experience and training.
 

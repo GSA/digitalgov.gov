@@ -24,7 +24,7 @@ On visiting [The Great Inka Road: Engineering an Empire](http://www.nmai.si.edu/
 
 The Great Inka Road moved goods and people, of course, but it was also a vital conduit for communication. The system stretched north and south along the Andes, from modern-day Ecuador to the middle of Chile. Pre-internet, pre-telephone, pre-tattooed bike courier, information was passed through a network of _chaskis_—young men who acted as long distance relay runners. Each chaski ran 10 to 15 miles to the next _chaskiwasi_, a house where the next runner awaited. Messages were relayed verbally (because the Inka had no written language) and small parcels were exchanged. The new chaski would then speed off to complete his leg of the trip. In this manner, communications passed rapidly between far-flung cities across the Andes mountain range. A message could be relayed over 150 miles in a single day.
 
-{{< legacy-img src="CDN/files/2017/03/600-x-400-01\_chaski\_game\_in\_gallery_v2.jpg" alt="Photo of The Chaski Relay as it appears in the gallery." >}}
+{{< legacy-img src="2017/03/600-x-400-01\_chaski\_game\_in\_gallery_v2.jpg" alt="Photo of The Chaski Relay as it appears in the gallery." >}}
 
 The interactive team at the National Museum of the American Indian saw the chaski story as an opportunity to bring additional engagement to the museum gallery. An underlying goal of the exhibition design was to balance traditional content elements, like museum artifacts, maps, and text labels, with interactive experiences. To this end, The Great Inka Road: Engineering an Empire features several digital interactives, including a dining table-sized multi-touch surface that presents a 3D rendering of the ancient city of Cusco and encourages visitors to explore and unlock deeper stories. The exhibition and its interactive elements are fully bilingual, in English and Spanish.
 
@@ -32,17 +32,17 @@ The team identified the chaski story as a candidate for interactivity and gamifi
 
 Preliminary ideation led to a slew of ideas, including a physical relay in the exhibition space involving check-ins and barcode readers, and other first-person approaches where the player took the role of a chaski. But after consulting with EduWeb, the development partner on the project, the concept quickly matured and simplified. Instead of becoming a chaski, the game would be about managing chaskis from a bird’s-eye perspective.
 
-{{< legacy-img src="CDN/files/2017/03/600-x-337-02\_chaski\_screen_shot.jpg" alt="Screenshot from the game." >}}
+{{< legacy-img src="2017/03/600-x-337-02\_chaski\_screen_shot.jpg" alt="Screenshot from the game." >}}
 
 With a more focused idea and funding from the Electronic Software Association, the team set out on prototyping and development. Dubbed _The Chaski Relay_, the game concept was very simple: the player manages a network of chaskis and is responsible for delivering messages of varying urgency between cities across the vast Inka empire. Using the touchscreen, the player traces the most efficient city-to-city route for the chaskis to follow on a map. Points are awarded for picking expedient routes – ones that are shorter and require less chaskis. Tracing an inefficient or stray route could lead to late deliveries, or worse yet, chaskis falling off cliffs or being eaten by jaguars.
 
 The simplicity of the game concept elicited healthy skepticism and a few furrowed eyebrows among the team. To test it, EduWeb built a fully functional prototype in Unity, a video game engine. The application was loaded onto a touchscreen display and rolled into a public gathering space in the museum. Preliminary testing with visiting grade-schoolers revealed that the overall game concept was on track.
 
-{{< legacy-img src="CDN/files/2017/03/600-x-440-600-x-440-03\_chaski\_testing.jpg" alt="Photo of student user testing in the galleries." >}}
+{{< legacy-img src="2017/03/600-x-440-600-x-440-03\_chaski\_testing.jpg" alt="Photo of student user testing in the galleries." >}}
 
 “We tested it with second through fourth graders and were kind of shocked that, by and large, they were into it. At which point we said, ‘we don’t really have to make this any more complicated,’” recalled Erin Weinman, applications manager at the museum. Said Daniel Davis, “It’s a game that one might not do sitting on their couch at home, but it works well within the context of the galleries and a museum visit.”
 
-{{< legacy-img src="CDN/files/2017/03/600-x-207-04\_chaski\_character_model.jpg" alt="Image of a 3-D character model used to illustrate and animate the chaski runners used in the game." >}}
+{{< legacy-img src="2017/03/600-x-207-04\_chaski\_character_model.jpg" alt="Image of a 3-D character model used to illustrate and animate the chaski runners used in the game." >}}
 
 With the general concept affirmed, the team focused on refining design and gameplay elements, conducting six rounds of testing with a fully functional prototype. Each test was done with museum visitors in the gallery. Findings from each round sparked a punch-list of iterations, made directly in Unity to amend the prototype for the next round. Refinements included simplifying and enlarging the handoff animation so that players better understood that chaskis were relay messengers, improving touchscreen interactions to make them more predictable, and fixing technical bugs.
 

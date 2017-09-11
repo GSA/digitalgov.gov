@@ -49,9 +49,9 @@ We build on the hard work of the Department of Education; previously, they met w
 
 Based on this research, we made the cheapest, fastest prototype of the College Scorecard possible, based on what we heard. We knew it needed to be mobile-first, simple, and easy to customize. That prototype ended up being a homemade, cardboard iPhone with slips of paper with wireframes of what the tool could look like. It probably cost less than a cup of coffee to produce.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-340-Scorecard-Demo.jpg" alt="Scorecard demo" >}}
+{{< legacy-img src="2015/09/600-x-340-Scorecard-Demo.jpg" alt="Scorecard demo" >}}
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" >}}
+{{< legacy-img src="2015/09/600-x-400-College-Scorecard_0.jpg" alt="College Scorecard" >}}
 
 We also went to work with the federal government’s data from over 7,000 schools, going back 18 years, putting it into an open API (Application Programming Interface) that fuels the College Scorecard website. We wanted to make the data as usable by software developers and data scientists. The API allows anyone to create tools and insights that will help prospective college students make these important decisions.
 

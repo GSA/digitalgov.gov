@@ -15,7 +15,7 @@ tag:
   - United States Department of Homeland Security
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
+{{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-4.jpg" alt="photo of post-it notes and papers for ideas" >}}After leading a complex effort to crowdsource ideas to solve a problem facing your agency, the last thing you want to hear is that the innovative solutions you received don’t actually help remedy the issue.
 
 <p dir="ltr">
   More than 20 federal innovators recently took part in a workshop offered to avoid such a scenario. The Department of Homeland Security’s Meredith Lee, who also serves as the volunteer lead for the <a href="https://max.omb.gov/community/display/Planning/Ideation+Community+of+Practice+%28Idea+Generation+Tools%29">Federal Ideation Community of Practice</a> (ICOP), led the participants through various exercises to help agencies learn to identify and define the problems they face; a key part of the process of any ideation exercise and/or challenge competition.
@@ -61,7 +61,7 @@ tag:
 </p>
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" >}}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016.jpg">{{< legacy-img src="2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" >}}</a>
 </p>
 
 ## 2. Think about user point-of-view
@@ -77,7 +77,7 @@ Lee recommended using a simple formula to create user point-of-view statements:
 ## 3. State the problem before the ask
 
 <p dir="ltr">
-  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-Ideation-ChallengeGov-training-photo-3.jpg" alt="250 x 188 Ideation ChallengeGov training photo 3" >}}When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
+  {{< legacy-img src="2014/04/250-x-188-Ideation-ChallengeGov-training-photo-3.jpg" alt="250 x 188 Ideation ChallengeGov training photo 3" >}}When you prepare to run the challenge, make sure the potential solvers know the problem itself (which you painstakingly identified previously) before asking them to do something; it’ll help both you and the potential solvers stay focused and produce more pointed solutions.
 </p>
 
 For example, instead of opening your competition description with:

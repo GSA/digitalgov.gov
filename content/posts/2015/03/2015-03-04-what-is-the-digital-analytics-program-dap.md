@@ -15,13 +15,13 @@ tag:
   - Digital Analytics Program
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}
+{{< legacy-img src="2015/03/352-x-250-DAP-Realtime-Users.jpg" alt="An example of the real-time reporting in DAP's Web analytics tool where a count of visitors reads 181,221." >}}
 
 The [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) is a cornerstone of the 2012 Digital Government Strategy’s mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale. The DAP, provided by GSA to all federal executive branch agencies, delivers digital analytics tools (like Web analytics and customer satisfaction survey tools), performance metrics guidance, metrics benchmarks, and training, all at no cost.
 
 ## Common Set of Digital Metrics Gov-Wide
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/424-x-296-DAP-mobile-visits-Top-Locations.jpg" alt="An example of a graphic displaying users' country of visit in the DAP Web analytics tool." >}}
+{{< legacy-img src="2015/02/424-x-296-DAP-mobile-visits-Top-Locations.jpg" alt="An example of a graphic displaying users' country of visit in the DAP Web analytics tool." >}}
 
 The DAP’s customized Web analytics solution provides federal employees access to a common set of web metrics like pageviews, unique users, mobile vs. desktop visits, average time on page, bounce rate, number of downloads, etc. as well as dimensions like location, browser, and operating system of visitors.
 
@@ -35,7 +35,7 @@ The Web analytics tool and any other tools to be offered in the future by the DA
 
 ## Creative
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/MobileDevicePie.png" alt="An example of a pie chart in DAP's Web analytics tool depicting the mobile devices used for visits, with the top going to iPhone." >}}
+{{< legacy-img src="2015/02/MobileDevicePie.png" alt="An example of a pie chart in DAP's Web analytics tool depicting the mobile devices used for visits, with the top going to iPhone." >}}
 
 The DAP demonstrates a leap in creativity in both its tools and methodology. Agencies are afforded top-of-the-line, constantly updated, trusted, and secure platforms and tools. But, more importantly, the idea of using centralized accounts to collect data for the entire government shows a momentous shift in the culture surrounding the digital world and metrics. Where previously, digital analytics were run on an ad-hoc basis by web teams using various different tools, the DAP is now creating a simple, powerful, and consistent glimpse into a drastically larger sample of citizens’ interactions.
 

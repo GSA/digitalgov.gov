@@ -11,7 +11,7 @@ tag:
   - Customer Experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/250-x-100-Who-is-our-customer-Zoonar-RF-Zoonar-Thinkstock-127029271.jpg" alt="Who is our customer? spelled out on old-fashioned, wooden typography blocks" caption="" >}} 
+{{< legacy-img src="2013/07/250-x-100-Who-is-our-customer-Zoonar-RF-Zoonar-Thinkstock-127029271.jpg" alt="Who is our customer? spelled out on old-fashioned, wooden typography blocks" caption="" >}} 
 
 Do you know who your customers are?  And what they expect from your organization?
 

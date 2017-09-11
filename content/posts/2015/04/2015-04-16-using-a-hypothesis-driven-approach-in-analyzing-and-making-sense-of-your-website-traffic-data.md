@@ -27,7 +27,7 @@ Let’s use this in a concrete example. On April 14, 2015, in a conversation wit
 
 To see if we’d reach that new record of real-time traffic in DAP on #TaxDay, our DigitalGov team performed [live blogging and hourly monitoring throughout the day yesterday]({{< relref "2015-04-14-live-blogging-the-analytics-dashboard-on-tax-day.md" >}} "Updated: Live Blogging the Analytics Dashboard on #TaxDay") to report on the real-time users on the .gov websites as part of the [public dashboard](https://analytics.usa.gov/). And…. the hypothesis did not hold true (and was rejected by reality). The highest number of real-time visitors gov-wide we got on #TaxDay for 2015 was just shy of 200K.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-373-tax-day-2015-2pm.jpg" alt="A screen capture of a bar graph, showing that there were 190,622 people visiting government websites." >}}
+{{< legacy-img src="2015/04/600-x-373-tax-day-2015-2pm.jpg" alt="A screen capture of a bar graph, showing that there were 190,622 people visiting government websites." >}}
 
 ## What Happens After the Hypothesis is Tested
 

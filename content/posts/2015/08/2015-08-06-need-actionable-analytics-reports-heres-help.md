@@ -30,12 +30,12 @@ This report covers data for pages through which users enter the website. It prov
 
 Depending on the goals of the Web page, you can see how effective those landing pages are and determine whether you need to adjust the elements on that page. If you are running campaigns, this report can give you an idea of which landing page might be the most helpful to your target audience.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-245-DAP-Custom-Reporting-Catalog-Aug-2015-Landing-Page-Report.jpg" alt="Landing Pages Analysis" >}}
+{{< legacy-img src="2015/07/600-x-245-DAP-Custom-Reporting-Catalog-Aug-2015-Landing-Page-Report.jpg" alt="Landing Pages Analysis" >}}
 
 ## Content Efficiency Report
 
 This report provides data in two tabs—one for the performance of specific content or pages and one for technical performance of the Web page. You can see which Web pages are receiving repeat pageviews, the percentage of pageviews which are entrances to the website, as well as the bounce rate and average time on page.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" >}}
+{{< legacy-img src="2015/07/600-x-396-DAP-Custom-Reporting-Catalog-Aug-2015-Content-Efficiency-page-performance.jpg" alt="An analytics report shows Page Performance Efficiency" >}}
 
  

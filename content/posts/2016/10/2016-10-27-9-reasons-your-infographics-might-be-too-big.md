@@ -17,7 +17,7 @@ tag:
   - social media
 ---
 
-Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="" >}} 
+Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures. {{< legacy-img src="2015/11/600-x-450-Set-of-3D-infographic-elements-for-business-aqabiz-iStock-Thinkstock-477799640.jpg" alt="Set of 3D infographic elements." caption="" >}} 
 
 While a massive infographic immediately arrests due to its overwhelming data content and creative approach, sometimes it can still fall flat by just being plain overwhelming. Some infographics communicate several data points when there’s really just one key point to be made, obscuring the real message. Remember the popular web design principle—offering your audience information sized to be a bite, snack, or meal—can also apply to infographics. Here’s how to know if a smaller infographic would better satisfy your audience’s appetite.
 
@@ -57,7 +57,7 @@ Have you ever spent months planning, designing, and clearing an infographic, onl
 
 <ol start="4">
   <li>
-    <b>{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/250-x-444-CDC-infographic-from-Pinterest.jpg" alt="250-x-444-cdc-infographic-from-pinterest" >}}Viewing large infographics on mobile devices = the worst.</b>
+    <b>{{< legacy-img src="2016/10/250-x-444-CDC-infographic-from-Pinterest.jpg" alt="250-x-444-cdc-infographic-from-pinterest" >}}Viewing large infographics on mobile devices = the worst.</b>
   </li>
 </ol>
 
@@ -79,7 +79,7 @@ Some readers might argue, “But Pinterest is the perfect platform for sharing l
   </li>
 </ol>
 
-Trying to get users to sign up for a service, download resources, change behavior, or apply for a program? You need a strong call to action in your infographic. Typically, infographics make a data-driven argument and end with a call to action or persuasive conclusion. The longer the infographic, the harder that key point can be to find, and you risk audience drop-off if it takes them too long to get there. Identify the key takeaway and make it prominent and clear in your infographic. Shorter infographics that [get right to the point](https://www.flickr.com/photos/niaid/27423001115/) keep things focused on the desired impact and outcome. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-300-NIAID-Antiretroviral-Therapy-for-HIV-Infection-inforgraphic-on-flickr.jpg" alt="Infographic: Antiretroviral therapy for HIV infection has changed dramatically in the past two decades." caption="" >}} 
+Trying to get users to sign up for a service, download resources, change behavior, or apply for a program? You need a strong call to action in your infographic. Typically, infographics make a data-driven argument and end with a call to action or persuasive conclusion. The longer the infographic, the harder that key point can be to find, and you risk audience drop-off if it takes them too long to get there. Identify the key takeaway and make it prominent and clear in your infographic. Shorter infographics that [get right to the point](https://www.flickr.com/photos/niaid/27423001115/) keep things focused on the desired impact and outcome. {{< legacy-img src="2016/10/600-x-300-NIAID-Antiretroviral-Therapy-for-HIV-Infection-inforgraphic-on-flickr.jpg" alt="Infographic: Antiretroviral therapy for HIV infection has changed dramatically in the past two decades." caption="" >}} 
 
 <ol start="7">
   <li>
@@ -105,7 +105,7 @@ Nothing is more disappointing than sinking huge investments in time and resource
 
 At any large organization, accuracy of data is of paramount importance &#8212; for good reason. However, this can often translate into several rounds of approval and revision before an infographic is ready for public consumption. If you’re wedded to creating long infographics, get comfortable, because you’re gonna be here a while. Shorter infographics including fewer data points can usually be approved in a more timely fashion. This means that infographics can be created to respond to breaking news, emerging trends, or other quick-turnaround needs. You can even think outside the data box, creating infographics that contain a [quotation](https://www.flickr.com/photos/niaid/26998500732/) or other [simple text statements](https://twitter.com/NIDAnews/status/738828941444689921) that make an impact.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-299-NIDAnews-cocaine-fact-infographic-from-Twitter.jpg" alt="A NIDA News cocaine fact infographic used on Twitter." >}}
+{{< legacy-img src="2016/10/600-x-299-NIDAnews-cocaine-fact-infographic-from-Twitter.jpg" alt="A NIDA News cocaine fact infographic used on Twitter." >}}
 
  
 

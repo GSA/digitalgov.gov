@@ -25,7 +25,7 @@ Users were confused about the difference between &#8220;My MPG&#8221; and &#8220
 
 The &#8220;My MPG&#8221; was changed to &#8220;Calculate My MPG&#8221; and &#8220;Find a Car&#8221; was changed to &#8220;Find and Compare Cars&#8221;.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy.gov-after.png" alt="fueleconomy.gov after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy.gov-after.png)
+[{{< legacy-img src="2013/12/fueleconomy.gov-after.png" alt="fueleconomy.gov after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy.gov-after.png)
 
 ## Problem 2: Hard to Find and Misleading Buttons
 
@@ -35,7 +35,7 @@ Users were confused by the &#8220;Add a Car&#8221; button or missed it.
 
 The &#8220;Add a Car&#8221; button was changed to &#8220;Compare Cars&#8221; and added to the top of the page so that users could find it.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-compare-cars-before-after-new.png" alt="fueleconomy-compare-cars-before-after - new" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-compare-cars-before-after-new.png)
+[{{< legacy-img src="2013/12/fueleconomy-compare-cars-before-after-new.png" alt="fueleconomy-compare-cars-before-after - new" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-compare-cars-before-after-new.png)
 
 ## Problem 3: Lack of Help Buttons and Explanatory Text
 
@@ -45,4 +45,4 @@ There was no &#8220;Help&#8221; buttons or explanatory text for users when they 
 
 A &#8220;Learn More&#8221; button was added to the bottom of the several pages, including the Greenhouse Gas Emissions, Annual Petroleum Use and EPA Smog Score pages.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-epa-smog-before-after-new.png" alt="fueleconomy-epa-smog-before-after - new" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-epa-smog-before-after-new.png)
+[{{< legacy-img src="2013/12/fueleconomy-epa-smog-before-after-new.png" alt="fueleconomy-epa-smog-before-after - new" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/fueleconomy-epa-smog-before-after-new.png)

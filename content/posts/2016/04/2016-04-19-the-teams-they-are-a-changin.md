@@ -24,7 +24,7 @@ It has caused disruption, added friction to our delivery schedule, and caused so
 
 To truly harness the power of agile practices, **you need a stable team**. But people leave under normal circumstances for a variety of reasons: maternity, new jobs, retirement, etc. **_While recognizing the need for stable teams_**, there are things our team does and should do to be resilient in the face of change.
 
-## The costs and challenges of team changes {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" caption="" >}} 
+## The costs and challenges of team changes {{< legacy-img src="2015/12/600-x-425-Question-Mark-on-Organizational-Chart-Business-Concept-Infografx-iStock-Thinkstock-488059434.jpg" alt="Question Mark on Organizational Chart" caption="" >}} 
 
 Any time a team member leaves or a new one comes on board, there’s a cost associated with redirecting focus to account for that change. This adds friction to projects that is not just technical:
 

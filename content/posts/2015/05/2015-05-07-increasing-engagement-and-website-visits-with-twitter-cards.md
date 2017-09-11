@@ -26,7 +26,7 @@ After including the proper embed code (which is provided by Twitter), we’re no
 Here are a couple tweets with USTDA.gov website links that have the Twitter Card embed code on them:
 
 <p align="center">
-  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-1.jpg" alt="290-x-341-USTDA-twitter-card-1" >}} {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/290-x-341-USTDA-twitter-card-2.jpg" alt="290-x-341-USTDA-twitter-card-2" >}}
+  {{< legacy-img src="2015/05/290-x-341-USTDA-twitter-card-1.jpg" alt="290-x-341-USTDA-twitter-card-1" >}} {{< legacy-img src="2015/05/290-x-341-USTDA-twitter-card-2.jpg" alt="290-x-341-USTDA-twitter-card-2" >}}
 </p>
 
 As you can see, the content of these two tweets takes up almost 140 characters on their own (a URL does take up at least 20 characters). With the added Twitter Card summaries, USTDA’s tweets now show up as completely customizable previews of the pages that are linked in both messages.
@@ -54,7 +54,7 @@ What you are seeing is an example of how we were able to include a larger-sized 
 
 Like this one:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-375-USTDA-twitter-card-3.jpg" alt="600-x-375-USTDA-twitter-card-3" >}}
+{{< legacy-img src="2015/05/600-x-375-USTDA-twitter-card-3.jpg" alt="600-x-375-USTDA-twitter-card-3" >}}
 
 So, with Twitter Cards, you do have a few customizable options to fit your needs just as long as you very carefully stick to the image resolution guidelines. With a little skill in Photoshop or InDesign (or by creating summary images with drag and drop services like Canva.com), you can easily replicate this process on your websites. Better yet, there are even modules out there for [WordPress](https://wordpress.org/plugins/wp-social-media-meta-tag/) or [Drupal,](https://www.drupal.org/project/metatag) that automates the social media meta tag process for you completely. Pretty awesome!
 

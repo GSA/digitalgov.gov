@@ -16,7 +16,7 @@ tag:
 
 If you have a website, then you most likely have <a href="http://www.copyblogger.com/cornerstone-content-101/" target="_blank">cornerstone content</a>—though you may not think of it in that way or even considered it. Just as in architecture, a cornerstone is a basic and essential part of any online presence. Cornerstone content is also important to any new visitors to your agency site, even if you are operating a fairly small or minimally viable website.
 
-Properly developed (and frequently maintained) cornerstone content pages can help users answer a lot of initial questions and quickly establish a trusted relationship with your brand/agency/site. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-426-Cornerstone-Concept-VicZA-iStock-Thinkstock-147006028.jpg" alt="Cornerstone concept of a pyramid of cubes; all are gray except one foundation corner cube that glows in gold" caption="" >}} 
+Properly developed (and frequently maintained) cornerstone content pages can help users answer a lot of initial questions and quickly establish a trusted relationship with your brand/agency/site. {{< legacy-img src="2015/12/600-x-426-Cornerstone-Concept-VicZA-iStock-Thinkstock-147006028.jpg" alt="Cornerstone concept of a pyramid of cubes; all are gray except one foundation corner cube that glows in gold" caption="" >}} 
 
 ## What is Cornerstone Content?
 

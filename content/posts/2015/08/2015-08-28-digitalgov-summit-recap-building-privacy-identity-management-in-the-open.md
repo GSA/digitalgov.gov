@@ -15,7 +15,7 @@ tag:
   - United States Department of Transportation
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="" >}} 
+{{< legacy-img src="2015/08/600-x-400-Cyber-Attack-A01-Matej-Moderc-iStock-Thinkstock-479801072.jpg" alt="Data and identity security concept of cyber attack warning messages on a computer screen." caption="" >}} 
 
 How can government protect citizens while delivering the services they demand in the modern age? This was a theme of the panel discussion on privacy and identity management at the [2015 DigitalGov Citizen Services Summit]({{< relref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}).
 
@@ -23,7 +23,7 @@ How can government protect citizens while delivering the services they demand in
 
 Government also needs to think about user experience because consumers want convenience and trust, said Jennifer Kerber, director of [Connect.gov](https://www.connect.gov/) at the General Services Administration. By doing user testing and research in the early stages, we can ensure we’ll deliver digital services in a common lexicon that customers can understand, she explained.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-286-Before-and-With-ConnectGov.jpg" alt="On the left, it shows 3 examples of how without Connect.gov, you can only use an agency-issued credential for access to that agency’s applications. On the right, it shows how Connect.gov enables you to use a single third-party credential to access multiple agencies’ applications." >}}
+{{< legacy-img src="2015/02/600-x-286-Before-and-With-ConnectGov.jpg" alt="On the left, it shows 3 examples of how without Connect.gov, you can only use an agency-issued credential for access to that agency’s applications. On the right, it shows how Connect.gov enables you to use a single third-party credential to access multiple agencies’ applications." >}}
 
 Government can &#8220;build all these beautiful digital services, but if people don’t trust them, they aren’t going to use them—and if they have to use them in order to do business with us, we would like to tamp down their fear and concern” said Dan Morgan, panel moderator and chief data officer at the Department of Transportation. “It’s very important we address these user experience things early on and make sure the people who are building these services understand what we’re trying to do and how best to address these risks,” he continued.
 

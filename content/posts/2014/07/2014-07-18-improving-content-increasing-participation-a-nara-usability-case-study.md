@@ -31,7 +31,7 @@ More than any specific new feature, the Web team is proudest of cementing user-c
 
 To upgrade NARA@work, the Web team built on their success from the well-received 2010 redesign of the public site, <a href="http://www.archives.gov/" target="_blank">Archives.gov</a>. For that project, the Archives put customers front and center, asking both NARA staff and the public for input throughout the design process.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-377-vote-for-NARA-homepage-NARA1.jpg" alt="600-x-377-vote-for-NARA-homepage-NARA1" >}}
+{{< legacy-img src="2014/07/600-x-377-vote-for-NARA-homepage-NARA1.jpg" alt="600-x-377-vote-for-NARA-homepage-NARA1" >}}
 
 Created in 1996, NARA@work had undergone two prior redesigns, the most recent in 2006. This time, the Web team wanted to significantly increase the amount of staff input by including online participation options.
 
@@ -41,7 +41,7 @@ Through online card sorts, surveys, navigation tests, questionnaires, focus grou
 
 Several areas for improvement emerged from staff input.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-670-NARA-homepage-NARA2.jpg" alt="600-x-670-NARA-homepage-NARA2" >}}
+{{< legacy-img src="2014/07/600-x-670-NARA-homepage-NARA2.jpg" alt="600-x-670-NARA-homepage-NARA2" >}}
 
 A top complaint about the old site was that content was hard to find through either search or navigation. In the redesign process, employees helped reclassify 76 topic categories into 6 topics, narrowing the navigation from 10 to 6 topics, and the employee locator and key forms were made more prominent. Since the redesign, staff no longer need to search for these pages, Araghi said.
 
@@ -53,7 +53,7 @@ In the coming months, NARA@work will get a faceted search powered by Solr. With 
 
 The redesigned site was recognized as one of NARA’s <a href="http://www.google.com/url?q=http%3A%2F%2Fblogs.archives.gov%2Finnovation%2F2013%2F12%2F30%2Ftop-10-innovative-moments-of-2013%2F&sa=D&sntz=1&usg=AFQjCNGmVkfJ_8SSVZC7DFP-ARXCOqkM6g" target="_blank">Top 10 Innovative Moments of 2013</a>. Informed by staff input, the new site highlights the employee locator and top tasks, adds customization options, and offers simpler navigation. On the back end, the site is now managed in Drupal, which offers more flexibility for both managing and displaying content. When NARA upgrades to a newer, cloud-based version of Drupal, staff will be able to customize their pages even more.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-403-Customize-NARA-homepage-NARA3.jpg" alt="600-x-403-Customize-NARA-homepage-NARA3" >}}
+{{< legacy-img src="2014/07/600-x-403-Customize-NARA-homepage-NARA3.jpg" alt="600-x-403-Customize-NARA-homepage-NARA3" >}}
 
 The heavy focus on customer feedback helped change the way NARA staff view their customers.
 

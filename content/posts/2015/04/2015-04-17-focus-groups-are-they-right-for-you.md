@@ -13,7 +13,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}
+{{< legacy-img src="2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}
 
 The short answer is: it depends on your goals. If you Google “focus group,” you will have a host of positive and negative feedback, but the truth is that it depends on what your needs are.
 

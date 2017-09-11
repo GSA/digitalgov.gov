@@ -10,7 +10,7 @@ tag:
   - Customer Experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/250-x-167-Hands-Group-poco_bw-iStock-Thinkstock-145905230.jpg" alt="Group of hands; teamwork." caption="" >}} 
+{{< legacy-img src="2013/08/250-x-167-Hands-Group-poco_bw-iStock-Thinkstock-145905230.jpg" alt="Group of hands; teamwork." caption="" >}} 
 
 What&#8217;s one of the most important factors in delivering a good customer experience?
 

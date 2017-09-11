@@ -19,7 +19,7 @@ The [Pew Research Center released a deep research dive into “U.S. Smartphone U
 
 ## More than 2/3 of Americans have smartphones; many of those are mobile first or mobile only Internet users.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01.jpg" alt="313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01" >}}
+{{< legacy-img src="2015/04/313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01.jpg" alt="313-x-558-Pew-Internet\_2015-04-01\_smartphones\_01" >}}
 
 The report detailed that 6 in 10 Americans own a smartphone (64%), and 2 in 10 Americans now access the Internet primarily through their mobile phone (25%).
 
@@ -43,7 +43,7 @@ The report also said that 17% of American smartphone owners have used their phon
 
 ## Smartphones are critical tools for spreading local news and community information.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16.jpg" alt="421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16" >}}
+{{< legacy-img src="2015/04/421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16.jpg" alt="421-x-447-Pew-Internet\_2015-04-01\_smartphones\_16" >}}
 
 The report also discussed [the types of content audiences engaged with on their mobile devices](http://www.pewinternet.org/2015/04/01/u-s-smartphone-use-in-2015/pi_2015-04-01_smartphones_16/), and a high portion used the devices for sharing and learning about community and local news events, including sharing photos and videos. Rates were especially high among survey respondents under the age of 50.
 

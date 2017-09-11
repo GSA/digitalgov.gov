@@ -34,7 +34,7 @@ tag:
 
 Did it work? Yes. In fact, it worked so well that Facebook made it the destination for their 2016 voter registration drive. Last Friday, it received over five million user visits, among the highest count ever recorded by a U.S. government website in a single day.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-544-new-2016-vote.gov-screenshot.jpg" alt="Screen capture of the new vote.gov homepage." >}}
+{{< legacy-img src="2016/09/600-x-544-new-2016-vote.gov-screenshot.jpg" alt="Screen capture of the new vote.gov homepage." >}}
 
 It was a good site, but there was room for improvement. The site was only available in English.The pages for individual states did not have URLs, so it was hard to share them with other people. We weren’t sure if the front page really needed to be that long.
 

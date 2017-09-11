@@ -11,7 +11,7 @@ tag:
   - search engine optimization
 ---
 
-Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="" >}} 
+Have you ever wished you could get inside the mind of Google? To figure out what makes its search engine tick? {{< legacy-img src="2016/05/600-x-400-Search-results-concept.-Brain-and-icons-in-flat-style-VMasterArt-iStock-Thinkstock-518857148.jpg" alt="Search results concept. Brain and icons in flat style" caption="" >}} 
 
 How great it would be if that were easy to do.
 
@@ -19,7 +19,7 @@ Well, actually it is. I realized that recently when I was doing research for one
 
 I wanted to see what information the Forest Service had on that topic, so I searched for “forest service invasive species removal.” Here’s a screen capture of the top four results:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-448-invasives-google-search-results.jpg" alt="Screen capture of Google search results" >}}
+{{< legacy-img src="2016/05/600-x-448-invasives-google-search-results.jpg" alt="Screen capture of Google search results" >}}
 
 Most of us notice right away that each title shown here contains the terms “invasive species” and “Forest Service.” That makes perfect sense—terms in the title should tell us what information that document contains, so search engines should pay attention to terms that appear in the title.
 
@@ -67,7 +67,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   </p>
   
   <p>
-    {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
+    {{< legacy-img src="2016/05/600-x-381-invasives-cgi-bin.jpg" alt="Screen capture of search results for: cgi bin invasive species." >}}
   </p>
   
   <p>
@@ -75,7 +75,7 @@ How bad could their impact on your customers’ search results be? Consider thes
   </p>
   
   <p>
-    {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: invasive species." >}}
+    {{< legacy-img src="2016/05/600-x-400-invasives.jpg" alt="Screen capture of search results for: invasive species." >}}
   </p>
   
   <p>
@@ -87,7 +87,7 @@ How bad could their impact on your customers’ search results be? Consider thes
       </p>
       
       <p>
-        {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: pubs other invasive species American forests" >}}
+        {{< legacy-img src="2016/05/600-x-525-pubs-other-invasives-forests.jpg" alt="Screen capture of search results for: pubs other invasive species American forests" >}}
       </p>
       
       <p>
@@ -95,7 +95,7 @@ How bad could their impact on your customers’ search results be? Consider thes
       </p>
       
       <p>
-        {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: invasive species American forests" >}}</li> </ol> 
+        {{< legacy-img src="2016/05/600-x-432-invasives-forests.jpg" alt="Screen capture of search results for: invasive species American forests" >}}</li> </ol> 
         
         <p>
           In both of these searches, the Nature Conservancy’s Fading Forests is the fifth result—but that is the only thing the top four pages of results have in common.

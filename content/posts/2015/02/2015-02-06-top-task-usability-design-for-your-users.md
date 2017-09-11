@@ -25,7 +25,7 @@ A website’s top tasks include 5-10 tasks (depending on the scope of the site) 
 
 For example, if we wanted to look at Digitalgov.gov, some top tasks might be:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-337-TopTasks-table.jpg" alt="Top Tasks table" >}}
+{{< legacy-img src="2015/01/600-x-337-TopTasks-table.jpg" alt="Top Tasks table" >}}
 
 As a designer it can be very difficult to put ourselves in our users&#8217; shoes, but a website’s top tasks help designers do just that. Getting a good handle on your top tasks helps you:
 
@@ -38,7 +38,7 @@ As a designer it can be very difficult to put ourselves in our users&#8217; shoe
 
 The first step to creating your website’s top tasks is to make a list of tasks that can be completed on your site. After that it is all about figuring out which of these tasks are the most important to your users. Here is a quick guide on how to create your website’s top tasks:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-456-TopTasks-Cycle.jpg" alt="600-x-456-TopTasks-Cycle" >}}
+{{< legacy-img src="2015/01/600-x-456-TopTasks-Cycle.jpg" alt="600-x-456-TopTasks-Cycle" >}}
 
 Creating your site&#8217;s top tasks is a continuing process, because, what is not important to your users now may be important to them tomorrow.
 

@@ -21,7 +21,7 @@ The General Services Administration (GSA) even has a Chief Customer Officer (s/o
 
 We work to make people informed, and hopefully happy. When people are happy, they want to make other people happy and the message spreads.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-222-The-13th-SMILE-Conference-facebook-graphic-April-25-28-2016.jpg" alt="Facebook graphic for the 13th annual SMILE Conference" >}}
+{{< legacy-img src="2016/05/600-x-222-The-13th-SMILE-Conference-facebook-graphic-April-25-28-2016.jpg" alt="Facebook graphic for the 13th annual SMILE Conference" >}}
 
 Recently, I had the pleasure of speaking along with communicators in the law enforcement community at a conference with an appropriate acronym called [SMILE (Social Media in Law Enforcement)](https://twitter.com/search?q=%23smilecon&src=tyah). One key takeaway that we all should consider emulating is reaching out to the community for feedback on ways we can better serve them. I was impressed with the ways law enforcement is using various social media tools to improve law enforcement/community relations.
 
@@ -29,7 +29,7 @@ This was also a recurring theme at the [Government Digital Communications Summit
 
 The concept of micro-learning over time was a key takeaway for me from the Summit—**learning how to provide the right amount of information at the right time**. To use a football reference: go for the “first down” sometimes instead of the “touchdown,” emphasizing the value of developing a long-lasting relationship with your stakeholders. As teams move down a 100-yard field, incrementally getting 10-yard first downs along the way, the payoff is worth the movement down the field. As attention spans continue to shrink, it’s imperative to keep your audience [engaged and interested]({{< relref "2016-04-18-the-content-corner-branches-stick-to-the-vine.md" >}}) in your content. Moving to incremented learning helps you build to the ultimate goal.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-450-Government-Digital-Communications-Summit-2016-IMG_1047-kyle-content-corner.jpg" alt="Illustration board from the 9th annual Government Digital Communications Summit" >}}
+{{< legacy-img src="2016/05/600-x-450-Government-Digital-Communications-Summit-2016-IMG_1047-kyle-content-corner.jpg" alt="Illustration board from the 9th annual Government Digital Communications Summit" >}}
 
 Similarly, we should consider asking for feedback and refining messages and tactics based on that feedback. This builds genuine relationships with our stakeholders. We also need to provide easily consumable chunks of information rather than, like many of us may relate to from school, “cramming” it all at once. Interaction can bring key messages to life, thereby making them more impactful.
 

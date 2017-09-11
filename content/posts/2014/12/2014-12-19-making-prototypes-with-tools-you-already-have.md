@@ -15,7 +15,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-300-DigitalGov-Graphic.jpg" alt="600-x-300-DigitalGov-Graphic" >}}
+{{< legacy-img src="2014/12/600-x-300-DigitalGov-Graphic.jpg" alt="600-x-300-DigitalGov-Graphic" >}}
 
 They say that necessity is the mother of invention. For me, the necessity resulted from long product development cycles paired with short windows for user testing and little room for iteration. The “invention” was the discovery of a powerful set of tools for prototyping that are available on just about every office computer. I found that you can use “Developer Tools” in Microsoft Office’s Excel, Powerpoint and Word to not only draw the basic outlines of a wireframe but also build a functioning prototype that simulates many of the features you want in your final product.
 
@@ -30,7 +30,7 @@ With VBA, you can test interactions before you do any actual system development.
 I recently conducted a usability test for a mobile-optimized website that Bureau of Labor Statistics (BLS) survey participants can use to record their purchases. However, a test version of the website wasn’t ready for testing. So I used PowerPoint and Excel Developer Tools to make a prototype of the site that allowed me to conduct tests that would have been less realistic and more difficult to evaluate with a paper prototype. Participants could log in to the site, navigate through the various pages, enter data, and edit previous entries, just as they would with the real site. The one major difference was that they used the computer’s physical keyboard, mouse, and display rather than a virtual keyboard and tapping on the screen of a mobile device.
 
 [
-  ](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg) [{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-240-Brandon-Kopp-Mockups.jpg" alt="Screenshots from the Bureau of Labor Statistics prototype mobile expense diary." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg)
+  ](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg) [{{< legacy-img src="2014/12/600-x-240-Brandon-Kopp-Mockups.jpg" alt="Screenshots from the Bureau of Labor Statistics prototype mobile expense diary." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Mockups.jpg)
 
 This testing provided valuable information that we used to update the website requirements and make usability fixes. In addition, I used the prototype to give project stakeholders and developers something concrete to react to. As changes were recommended, I incorporated them into the prototype, and stakeholders could react to not only the visual design but also the functionality. I think this design process improved communications among stakeholders and led to a much better final product.
 

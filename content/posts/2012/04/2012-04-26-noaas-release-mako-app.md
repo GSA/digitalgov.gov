@@ -12,7 +12,7 @@ tag:
   - NOAA
 ---
 
-_[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
+_[{{< legacy-img src="2013/11/Release\_Mako\_App.jpg" alt="Screen Shot of NOAA's Release Mako App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Release_Mako_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by National Oceanic and Atmospheric Administration (NOAA)._
 
 The <a href="http://apps.usa.gov/release-mako.shtml" rel="nofollow">Release Mako App</a> was created for fisherman to report their catch and releases of <a href="http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/index.htm" rel="nofollow">shortfin mako sharks</a> in real time.
 

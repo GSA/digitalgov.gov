@@ -12,7 +12,7 @@ tag:
   - podcast
 ---
 
-Podcasting is growing significantly. Per Pew, the percentage of Americans who have listened to a podcast in the past month has almost doubled since 2008, from 9% to 17% by January of 2015. The percentage listening in 2015 was up two points over 2014 levels (15%). Edison Research also reported that fully one-third (33%) of all Americans 12 years of age or older now say they have listened to at least one podcast. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-425-Earphones-American-Independence-Patriotic-hit003-iStock-Thinkstock-490668800.jpg" alt="Patriotic earphone buds with an American flag design." caption="" >}} 
+Podcasting is growing significantly. Per Pew, the percentage of Americans who have listened to a podcast in the past month has almost doubled since 2008, from 9% to 17% by January of 2015. The percentage listening in 2015 was up two points over 2014 levels (15%). Edison Research also reported that fully one-third (33%) of all Americans 12 years of age or older now say they have listened to at least one podcast. {{< legacy-img src="2016/05/600-x-425-Earphones-American-Independence-Patriotic-hit003-iStock-Thinkstock-490668800.jpg" alt="Patriotic earphone buds with an American flag design." caption="" >}} 
 
 Awareness of podcasting among Americans 12 years of age and older has more than doubled since 2006, when Nielsen measured it at 22%. Overall awareness of podcasting is [increasing at a modest pace](http://www.journalism.org/2015/04/29/podcasting-fact-sheet/), with roughly half (49%) of Americans ages 12 and up aware of podcasting by early 2015, up only slightly since 2010 (45%).
 
@@ -26,7 +26,7 @@ But the possibilities are endless. What’s really at play is a respect for lear
 
 Podcasts can be well-constructed radio or television shows or nothing more than video shot at a conference on a smartphone or a snippet of audio featuring your agency head.
 
-## Production {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-400-Podcasting-arinahabich-iStock-Thinkstock-484623991.jpg" alt="A podcasting microphone sits beside a tablet showing green audio waves." caption="" >}} 
+## Production {{< legacy-img src="2016/05/600-400-Podcasting-arinahabich-iStock-Thinkstock-484623991.jpg" alt="A podcasting microphone sits beside a tablet showing green audio waves." caption="" >}} 
 
 When I teach podcasting at conferences or seminars, I address practitioners and communicators who do not have a background in audio or video creation. I emphasize that I didn’t either when I started doing radio or television shows for the Internet or manual distribution 25 years ago. I created the first podcast series for state and federal governments. If I can do this, so can you.
 

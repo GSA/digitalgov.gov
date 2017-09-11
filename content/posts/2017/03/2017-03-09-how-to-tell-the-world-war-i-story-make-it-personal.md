@@ -19,11 +19,11 @@ We naturally gravitate towards story-telling. It’s part of our human nature th
 
 **Option A**: _During the Meuse-Argonne Offensive, considered one of the largest battles in American history, more than 1.2 million Americans took part. Of these, more than 26,000 lost their lives. This 47-day battle supported the entire Allied offensive that extended from Verdun, France, through Belgium, all the way to the English Channel. On September 26, 1918, nine American divisions began the first assault along a twenty-four mile front from the Argonne Forest to the Meuse River. The objective was to cut vital German rail communications running through Mezieres and Sedan, and to serve as one of two Allied pincers converging on the Germans in Belgium and Northern France._
 
-{{< legacy-img src="CDN/files/2017/03/600-x-487-ABMC-Capt-Timothy-Barber-stands-with-members-of-the-313th-Infantry-Regiment.jpg" alt="Captain Timothy Barber stands with members of the 313th Infantry Regiment." >}}
+{{< legacy-img src="2017/03/600-x-487-ABMC-Capt-Timothy-Barber-stands-with-members-of-the-313th-Infantry-Regiment.jpg" alt="Captain Timothy Barber stands with members of the 313th Infantry Regiment." >}}
 
 **Option B**: _Captain Timothy Barber, a regimental surgeon with the 79th Division, served on the front lines during the Meuse-Argonne Offensive of World War I. After the initial fighting, he described his experiences in a letter to his mother. “I’ve been on the firing line a week, and it was like a lifetime in hell. It was one of the worst and bloodiest battles of the war.” Within days of writing the letter, Barber died from mortal wounds. Neither his mother nor his widow could go through the grief of reburying him in his native soil of West Virginia. They chose to have him rest eternally at Meuse-Argonne American Cemetery in France._
 
-{{< legacy-img src="CDN/files/2017/03/600-x-1039-ABMC-Capt-Timothy-Barber-with-his-son-WWI.jpg" alt="Captain Timothy Barber with his son." >}}
+{{< legacy-img src="2017/03/600-x-1039-ABMC-Capt-Timothy-Barber-with-his-son-WWI.jpg" alt="Captain Timothy Barber with his son." >}}
 
 In my opinion, Option B is much more compelling. We can understand Barber’s fear, pain, and sadness. We’ve all felt those emotions. And we can understand his writing to his mother, a person who provided love, safety, and comfort to her son. We can see, by example, that even though 100 years have passed, the natural qualities of being human have not. Barber’s story makes us remember and connect with the Great War.
 

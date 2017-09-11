@@ -13,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-416-Pop-Quiz-flytosky11-iStock-Thinkstock-463589731.jpg" alt="Pop Quiz" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-416-Pop-Quiz-flytosky11-iStock-Thinkstock-463589731.jpg" alt="Pop Quiz" caption="" >}} 
 
 The Peace Corps just released a new <a href="https://github.com/PeaceCorps/Countries-Regions-REST-API" target="_blank">dataset that lists all of the countries and regions Peace Corps volunteers serve</a>. The API is <a href="http://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">RESTful</a> and uses the <a href="http://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a> format. You have [read in earlier columns]({{< link "tag/wednesday-api-briefing" >}}) about the different data formats for APIs and how to read the data presented by an API.
 

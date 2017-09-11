@@ -12,7 +12,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}
+{{< legacy-img src="2015/05/600-x-400-Asterank-API-April-27th-2070-3D-map-of-significant-asteroids-overlaid-onto-the-orbits-of-Mercury-Venus-Earth-and-Mars.jpg" alt="Asterank API displays three-dimensional map of significant asteroids overlaid onto the orbits of Mercury, Venus, Earth, and Mars, dated April 27, 2070." >}}
 
 NASA has been busy since we <a href="{{< relref "2014-08-27-the-api-briefing-mining-the-rich-data-resources-of-nasa-the-international-space-apps-challenges.md" >}}" target="_blank">last visited their collection of APIs back in August 2014</a>. NASA has just launched <a href="http://api.nasa.gov/" target="_blank">API.NASA.gov</a> where developers can learn to use existing NASA APIs or contribute their APIs to the catalog.
 

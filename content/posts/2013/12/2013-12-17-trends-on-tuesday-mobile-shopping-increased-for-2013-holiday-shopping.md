@@ -12,7 +12,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png" alt="IBM Report Screenshot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png)Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this [report from IBM](http://www-01.ibm.com/software/marketing-solutions/benchmark-reports/black-friday-2013.html):
+[{{< legacy-img src="2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png" alt="IBM Report Screenshot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Screen-Shot-2013-12-04-at-11.41.45-AM.png)Mobile shopping increased significantly this year for both Black Friday and Cyber Monday. But by how much? A lot says this [report from IBM](http://www-01.ibm.com/software/marketing-solutions/benchmark-reports/black-friday-2013.html):
 
   * **Online Sales Set New Record:** Thanksgiving Day online sales grew by 19.7 percent year-over-year followed by Black Friday, with sales increasing 19 percent over 2012. Average order value for Black Friday was $135.27, up 2.2 percent year-over-year.
   * **Top Five Cities for Online Shopping:** New York City took the top spot for online sales on Black Friday. Rounding out the top five were Atlanta, Los Angeles, Washington, D.C. and Chicago.

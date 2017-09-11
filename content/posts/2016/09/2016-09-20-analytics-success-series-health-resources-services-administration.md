@@ -31,7 +31,7 @@ That’s exactly what happened to the Health Resources and Services Administrati
 
 Those facts alone sounded alarm bells. But then we dug deeper.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau’s (MCHB) homepage." >}}
+{{< legacy-img src="2016/09/600-x-335-Analytics-Success-HRSA.jpg" alt="Health Resources and Services Administration’s (HRSA) Maternal and Child Health Bureau’s (MCHB) homepage." >}}
 
 ## Uncovering the Problem(s)
 

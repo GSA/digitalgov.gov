@@ -22,7 +22,7 @@ tag:
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:
 
-  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md" >}})). {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" caption="" >}} 
+  1. **The mobile-majority tipping point in government.** Many agencies are already past this point, but as a whole, government websites are still desktop-majority, with [66% of people accessing federal websites via desktop and 34% on mobile]({{< relref "2015-10-21-gov-analytics-breakdown-2-mobile-is-bigger-than-ever.md" >}}). In 2016, the double-digit mobile growth will continue to accelerate and surpass 50% for almost all agencies. ([Much of the Web passed this point last year or in 2014, btw]({{< relref "2015-07-28-trends-on-tuesday-people-over-55-soon-to-be-mobile-majority-users.md" >}})). {{< legacy-img src="2015/12/600-x-400-USA-flag-button-DenisKot-iStock-Thinkstock-506730521.jpg" alt="USA flag on a keyboard kep" caption="" >}} 
 
 <ol start="2" type="1">
   <li>
@@ -43,7 +43,7 @@ As we move into 2016, here are 10 trends I foresee flourishing around mobile, te
   <li>
     <b>The Internet of Things (IOT) blossoms.</b> IOT quietly delivers on the hype that wearables couldn’t; from connected-cars to WiFi cameras to home thermostats, the diversity of opportunities for IOT devices to reshape our world will continue to flourish.
   </li>
-</ol> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-White-mobile-smartphone-with-smart-home-application-alexey_boldin-iStock-Thinkstock-503489169.jpg" alt="White mobile smartphone with flat design smart home apps" caption="" >}} 
+</ol> {{< legacy-img src="2015/12/600-x-400-White-mobile-smartphone-with-smart-home-application-alexey_boldin-iStock-Thinkstock-503489169.jpg" alt="White mobile smartphone with flat design smart home apps" caption="" >}} 
 
 <ol start="8" type="1">
   <li>
@@ -55,6 +55,6 @@ As we move into 2016, here are 10 trends I foresee flourishing around mobile, te
   <li>
     <b>Government doubles down on tech talent.</b> “Good enough for government” technology starts to carry more weight as <a href="http://fedscoop.com/epa-to-grow-digital-services-with-godbout-at-helm">more agencies invest in</a> and <a href="https://fcw.com/articles/2015/04/10/digital-services-budgets.aspx">start staffing up their own digital services teams</a> to bring exceptional technologists in to lead their organizations in the digital age. Are you part of this sea change? <a href="{{< link "index.html" >}}">Follow along at DigitalGov</a>!
   </li>
-</ol> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Human-resources-and-gender-equality-Jirsak-iStock-Thinkstock-162704480.jpg" alt="Human resources and gender equality" caption="" >}} 
+</ol> {{< legacy-img src="2015/12/600-x-400-Human-resources-and-gender-equality-Jirsak-iStock-Thinkstock-162704480.jpg" alt="Human resources and gender equality" caption="" >}} 
 
 Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new)!

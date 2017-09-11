@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-260-QR-code-label-concept-mipan-iStock-Thinkstock-white-borer-cropped-156493708.jpg" alt="QR code label concept" caption="" >}} 
+{{< legacy-img src="2014/10/250-x-260-QR-code-label-concept-mipan-iStock-Thinkstock-white-borer-cropped-156493708.jpg" alt="QR code label concept" caption="" >}} 
 
 Recently, I was designing new outreach materials and needed a way to connect this offline collateral with my agency’s digital content. Using a QR (or Quick Response) code immediately came to mind, followed by the question, “Are QR codes still relevant?”
 

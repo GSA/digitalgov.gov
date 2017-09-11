@@ -19,7 +19,7 @@ tag:
   - US Department of State
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}
+{{< legacy-img src="2014/06/456-x-257-Responsive-CDC-showcase-on-multiple-devices.jpg" alt="456 x 257 Responsive CDC showcase on multiple devices" >}}
 
 Responsive Web design is widely-known as a go-to solution for [designing a website to fit on any device’s screen size]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"). As we found in our [February workshop]({{< relref "2014-03-24-why-go-responsive-heres-what-feds-are-saying.md" >}}), federal agencies are implementing it for various reasons.
 

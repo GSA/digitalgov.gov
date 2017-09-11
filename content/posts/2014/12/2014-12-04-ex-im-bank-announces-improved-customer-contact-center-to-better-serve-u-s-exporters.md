@@ -12,7 +12,7 @@ tag:
   - government contact centers
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-340-Ex-Im-Export-Import-Bank-Contact-Center-Team.jpg" alt="Export-Import Bank Contact Center Team" >}}
+{{< legacy-img src="2014/12/600-x-340-Ex-Im-Export-Import-Bank-Contact-Center-Team.jpg" alt="Export-Import Bank Contact Center Team" >}}
 
 As part of its ongoing effort to enhance customer experience for current and prospective exporters, the Export-Import Bank of the U.S. (Ex-Im Bank) is unveiling a new and improved customer contact center that includes an improved 1-800 number experience, along with a new email response system. The contact center is also poised to launch new online chat capabilities early in the new year.
 

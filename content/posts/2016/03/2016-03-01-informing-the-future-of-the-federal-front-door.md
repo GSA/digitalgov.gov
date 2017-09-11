@@ -15,7 +15,7 @@ tag:
   - Draft Web Design Standards
 ---
 
-In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." caption="" >}} 
+In our [last post](https://blog.usa.gov/learning-how-to-build-a-better-front-door-for-the-federal-government), we introduced the Federal Front Door project and briefly described a six-week discovery phase, in which we set out to better understand how the general public feels about and interacts with the federal government, so that we can design and build products that improve people’s experience across government agencies. {{< legacy-img src="2016/03/600-x-401-NARA-Archives-Of-The-United-States-Of-America-faustasyan-iStock-Editorial-Thinkstock-504911608.jpg" alt="The front of the National Archives and Records Administration federal building in Washington, DC." caption="" >}} 
 
 We think of the federal front door as the places the public first interacts with their government. There are many front doors—agency websites (like [benefits.gov](http://www.benefits.gov/)), physical places (like Social Security offices), contact centers (like 1-844-USA-GOV1)—where people start interacting with the government.
 
@@ -66,7 +66,7 @@ When people know how their information is going to be used and why it’s needed
 
 When people interact with the federal government, typically there is a lot of pressure on their shoulders. The source of this pressure could be the life event that is triggering the interaction. The pressure also comes from the idea that people only get one shot to get their paperwork right, that there are negative consequences for doing something wrong, and their request is being treated as a potentially fraudulent rather than coming from a place of real need.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-391-personal-and-government.jpg" alt="An infographic showing sources of pressure and types of emotions a person might feel after different interactions with the government." >}}
+{{< legacy-img src="2016/03/600-x-391-personal-and-government.jpg" alt="An infographic showing sources of pressure and types of emotions a person might feel after different interactions with the government." >}}
 
 ### Choice overload
 
@@ -87,7 +87,7 @@ People employ a variety of strategies before deciding to trust a government digi
 
 ### Cost-benefit tradeoff
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" alt="A two-by-two grid showing how people think when confidence is plotted against resilience. When confidence and resilience are both high, people will keep trying until a goal is achieved. When confidence is high but resilience is low, people may apply once but will give up if it doesn't go well. With resilience high and low confidence, people may try a few times but will doubt themselves. And when both resilience and confidence are low, they probably won't apply at all." >}}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
+{{< legacy-img src="2016/03/250-x-249-Cost-benefit-tradeoff-Confidence-and-Resilience-cube.jpg" alt="A two-by-two grid showing how people think when confidence is plotted against resilience. When confidence and resilience are both high, people will keep trying until a goal is achieved. When confidence is high but resilience is low, people may apply once but will give up if it doesn't go well. With resilience high and low confidence, people may try a few times but will doubt themselves. And when both resilience and confidence are low, they probably won't apply at all." >}}Before using a government service or applying for benefits, people assess the return on investment. They want to know if the time and effort spent interacting with the government will be worth the benefit. We can do more to lower the initial investment.
 
 If you are less confident you will get the service you need, you are less likely to apply for those services. Some people are easily discouraged and give up after one attempt, while others are resilient and willing to persevere. This can be based on past experiences with the government or lack of confidence in their ability to deal with government bureaucracy.
 
@@ -99,13 +99,13 @@ These factors can lead some people to interact with the government through priva
 
 Generally speaking, people understand that to interact with the federal government it will require them to provide certain key pieces of information to help identify themselves, and additional information that is required for the specific interaction. How people feel about providing that information, and how it might be used both for their current interaction and potential future ones is a bit of a mixed bag.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-158-Sharing-Information-faces-suspicious-private-engaged-open.jpg" alt="A graphic showing how people might view sharing information. Some never want their information shared, and others are on a continuum." >}}
+{{< legacy-img src="2016/03/600-x-158-Sharing-Information-faces-suspicious-private-engaged-open.jpg" alt="A graphic showing how people might view sharing information. Some never want their information shared, and others are on a continuum." >}}
 
 ### Access to personal information
 
 People see the value of sharing their information, however members of the public would like to opt-in to sharing their information across the government, manage requests for their information, see who is accessing their information, and understand that their information is secure and not being shared outside of the federal government.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-194-Access-to-personal-information-flowchart.jpg" alt="An infographic illustrating that people expect personal information like medical records, family information, and financial records to be safe from ID thieves, advertisers and third parties." >}}
+{{< legacy-img src="2016/03/600-x-194-Access-to-personal-information-flowchart.jpg" alt="An infographic illustrating that people expect personal information like medical records, family information, and financial records to be safe from ID thieves, advertisers and third parties." >}}
 
 ## What’s next?
 

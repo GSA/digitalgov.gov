@@ -14,7 +14,7 @@ tag:
 
 Four years ago, BusinessUSA launched with a mission to revolutionize the way government provides services to small businesses and exporters. Using technology to erase bureaucratic boundaries, BusinessUSA streamlined the way businesses find and get what they need from government. This “no wrong door” approach combined resources from over 800 websites and created a single point of entry for businesses looking to grow and expand.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-267-BusinessUSAgov_logo.jpg" alt="The Business USA.gov logo" >}}
+{{< legacy-img src="2016/07/600-x-267-BusinessUSAgov_logo.jpg" alt="The Business USA.gov logo" >}}
 
 At [USAGov](http://usa.gov/explore), we’ve been fans and supporters of BusinessUSA since the beginning. And although we serve different audiences, our two programs have shared the same fundamental vision &#8211; that government should use technology to make it easier for people to find the federal resources they need.
 

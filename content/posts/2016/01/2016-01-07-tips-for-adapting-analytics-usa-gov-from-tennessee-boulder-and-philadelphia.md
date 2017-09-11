@@ -27,7 +27,7 @@ I reached out to **Lauren Ancona**, the Senior Data Scientist for the City of Ph
 
 **LA:** My previous career as a marketer involved heavy work with analytics, so I’d actually been “stalking&#8221; the project during its development phase on GitHub for several months. Once it launched, I got in touch with the maintainers with some questions about the analytics configuration. They were very supportive and actually merged some of my feedback, and eventually ended up letting me come on as a project maintainer for the [analytics-reporter repo](https://github.com/18F/analytics-reporter). That, frankly, blew my mind: a federal agency is incorporating feedback from a local government using their tool on an ongoing basis. We were able to bring up a few simple tweaks that made it easier to adapt.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Philadelphia-PA-adaptation-of-AnalyticsUSAgov.jpg" alt="The Philadelphia, PA adaptation of Analytics dot USA dot gov website." >}}
+{{< legacy-img src="2016/01/600-x-350-Philadelphia-PA-adaptation-of-AnalyticsUSAgov.jpg" alt="The Philadelphia, PA adaptation of Analytics dot USA dot gov website." >}}
 
 **RP:** I heard about the analytics dashboard from a number of sources almost simultaneously. I follow a lot of 18F and Code for America folks on Twitter so I’m sure I saw it tweeted about there. I was also working with Becky Boone, our Code for America Senior Fellow at the time, on some analytics-related work. She brought it to my attention as well.
 
@@ -45,7 +45,7 @@ We spent 3 weeks pulling the project together, finding our way through D3.js, an
 
 We’d always intended to make it public as well, so after some code refinement, we pushed out the public version about a month later. Since then, we’ve added a lot more to the content manager dashboard. It now allows stats by category and includes metrics on social media, search, content manager usage and more. Again, this is to help content managers make better decisions about content based on data. Putting this directly into the administrative section of the CMS makes this information available exactly at the place they’re most likely to use it. We’ve gotten very positive feedback from our content managers. We plan on pushing most of these new features to the public dashboard as well.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Boulder-CO-adaptation-of-AnalyticsUSAgov.jpg" alt="The Boulder, CO adaptation of Analytics dot USA dot gov website." >}}
+{{< legacy-img src="2016/01/600-x-350-Boulder-CO-adaptation-of-AnalyticsUSAgov.jpg" alt="The Boulder, CO adaptation of Analytics dot USA dot gov website." >}}
 
 **CR:** The goal for Tennessee State Government is to become more “efficient and effective.&#8221; One of the ways we’re doing that is to make more data-driven decisions. Before this product launched, we were already sending out monthly reports for our analytics. By providing this on-demand dashboard, we put more power in the hands of our colleagues working in our regulatory divisions. This can help our department better understand how our users are interacting with us on a day-to-day basis. That will lead to us making better decisions.
 
@@ -67,7 +67,7 @@ And finally, keep it simple and iterate. We ended up using Charts.js instead of 
 
 The benefits of this project have more than warranted spending the time implementing it. For TDEC, providing this information has helped open up the door to better conversations around how and why we spend our efforts supporting our customers via our various digital services.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-350-Tennessee-Department-of-Environment-and-Conservation-adaptation-of-AnalyticsUSAgov.jpg" alt="The Tennessee Department of Environment and Conservation adaptation of Analytics dot USA dot gov website." >}}
+{{< legacy-img src="2016/01/600-x-350-Tennessee-Department-of-Environment-and-Conservation-adaptation-of-AnalyticsUSAgov.jpg" alt="The Tennessee Department of Environment and Conservation adaptation of Analytics dot USA dot gov website." >}}
 
 **MK: Is there anything 18F could do to improve the platform?
   

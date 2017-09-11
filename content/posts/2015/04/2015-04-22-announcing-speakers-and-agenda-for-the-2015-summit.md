@@ -11,7 +11,7 @@ tag:
   - DigitalGov Summit
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Summit-Logo-400width.gif" alt="A graphic logo of the DigitalGov Citizen Services Summit" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Summit-Logo-400width.gif)
+[{{< legacy-img src="2015/04/Summit-Logo-400width.gif" alt="A graphic logo of the DigitalGov Citizen Services Summit" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Summit-Logo-400width.gif)
   
 We are busting at the seams with excitement because the DigitalGov Citizen Services Summit is less than a month away! Today we are announcing the working agenda and confirmed speakers.
 

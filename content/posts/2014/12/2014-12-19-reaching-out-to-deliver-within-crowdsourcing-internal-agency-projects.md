@@ -16,7 +16,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-430-Network-nabihariahi-iStock-Thinkstock-178782907.jpg" alt="Network of figures at laptops" caption="" >}} 
+{{< legacy-img src="2014/12/600-x-430-Network-nabihariahi-iStock-Thinkstock-178782907.jpg" alt="Network of figures at laptops" caption="" >}} 
 
 Crowdsourcing has created new paths for public interaction with the government, as we&#8217;ve been highlighting on DigitalGov with this month’s [theme]({{< link "categories/monthly-theme" >}}). However, crowdsourcing can also be used to harness support for internal agency projects.
 
@@ -24,7 +24,7 @@ The Department of State is using crowdsourcing to find talent within and outside
 
 ## **Virtual Student Foreign Service**
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/387-x-125-Dept-of-State-Virtual-Student-Foreign-Service-VSFS-logo.jpg" alt="Department of State's Virtual Student Foreign Service logo" >}}
+{{< legacy-img src="2014/12/387-x-125-Dept-of-State-Virtual-Student-Foreign-Service-VSFS-logo.jpg" alt="Department of State's Virtual Student Foreign Service logo" >}}
 
 The [Virtual Student Foreign Service](http://www.state.gov/vsfs/) (VSFS) provides unpaid, online “eInternships” for U.S. university students that support a variety of government projects.
 

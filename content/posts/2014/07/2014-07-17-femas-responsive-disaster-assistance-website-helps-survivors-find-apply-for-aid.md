@@ -13,7 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-310-DisasterAssistancedotgov\_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov\_screenshot" >}}
+{{< legacy-img src="2014/07/600-x-310-DisasterAssistancedotgov\_screenshot.jpg" alt="600-x-310-DisasterAssistancedotgov\_screenshot" >}}
 
 Hurricane Arthur, the first named storm of the 2014 Atlantic hurricane season, made landfall in North Carolina, July 3, as a Category 2 hurricane. It was no Sandy, but Arthur nevertheless reminds us to be prepared now and always.
 

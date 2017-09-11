@@ -16,7 +16,7 @@ tag:
   - Personas
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-450-Positive-Feedback-Simile-face-icon-bayhayalet-iStock-Thinkstock-478052387.jpg" alt="Happy or positive feedback smiley face icon" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-450-Positive-Feedback-Simile-face-icon-bayhayalet-iStock-Thinkstock-478052387.jpg" alt="Happy or positive feedback smiley face icon" caption="" >}} 
 
 This month, our round up focuses on customer experience (CX). As I was rounding up the CX events and articles we’ve shared on DigitalGov over the past year, I realized that CX touches all of the work we do. From Web to mobile to contact centers and social media, we need to not only be aware of our customers’ experiences but also respond quickly and make changes that will enhance their experiences.
 

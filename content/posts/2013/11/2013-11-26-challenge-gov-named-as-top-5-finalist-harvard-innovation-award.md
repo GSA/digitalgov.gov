@@ -14,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Innovations-in-American-Government-seal.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Innovations-in-American-Government-seal.jpg" alt="Star in the middle of a circle with a red and blue ribbon wrapped around." >}}</a>Thanks to the tremendous work of challenge managers across federal government and the support of the White House Office of Science & Technology Policy, the <a title="challenge.gov" href="http://www.challenge.gov" target="_blank">Challenge.gov</a> program at GSA has been named one of the <a title="top 5 finalist" href="http://www.ash.harvard.edu/Home/News-Events/Press-Releases2/Innovations-in-American-Government-Award-Finalists-Announced" target="_blank">top 5 finalists</a> in Harvard&#8217;s Innovations in American Government Award!
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Innovations-in-American-Government-seal.jpg">{{< legacy-img src="2013/11/Innovations-in-American-Government-seal.jpg" alt="Star in the middle of a circle with a red and blue ribbon wrapped around." >}}</a>Thanks to the tremendous work of challenge managers across federal government and the support of the White House Office of Science & Technology Policy, the <a title="challenge.gov" href="http://www.challenge.gov" target="_blank">Challenge.gov</a> program at GSA has been named one of the <a title="top 5 finalist" href="http://www.ash.harvard.edu/Home/News-Events/Press-Releases2/Innovations-in-American-Government-Award-Finalists-Announced" target="_blank">top 5 finalists</a> in Harvard&#8217;s Innovations in American Government Award!
 </p>
 
 <p dir="ltr">

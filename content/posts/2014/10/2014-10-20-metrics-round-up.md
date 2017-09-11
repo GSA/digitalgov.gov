@@ -20,7 +20,7 @@ tag:
   - US National Park Service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-410-Tablet-PC-with-business-documents-Violka08-iStock-Thinkstock-463116981.jpg" alt="Tablet PC with business documents" caption="" >}} 
+{{< legacy-img src="2014/10/600-x-410-Tablet-PC-with-business-documents-Violka08-iStock-Thinkstock-463116981.jpg" alt="Tablet PC with business documents" caption="" >}} 
 
 We are all collecting a lot of performance data across our digital properties and DigitalGov University has hosted many events on the **collection**, **reporting** and **strategizing** around metrics. DigitalGov has shared many posts on these topics as well. So we thought it would be great to curate these events and posts for easy reference and sharing.
 
@@ -50,7 +50,7 @@ These great events on turning data into meaningful reports hosted by Sarah Kaczm
 
   * [How to Create an Annual Metrics Report](http://www.youtube.com/watch?v=q9-aF46xqE4&index=8&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
   * [Above and Beyond Metrics: Tell a Story with Reports](http://www.youtube.com/watch?v=IYxi9KvYMok&index=6&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P)
-  * [How to Create a Social Media Metrics Report](http://www.youtube.com/watch?v=YqgKTgvARfM&index=3&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}} 
+  * [How to Create a Social Media Metrics Report](http://www.youtube.com/watch?v=YqgKTgvARfM&index=3&list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P) {{< legacy-img src="2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}} 
 
 If you are an agency currently using Google Analytics as your data gathering tool, Sarah has also developed a [Google Analytics for Government Training Manual]({{< relref "2014-05-15-new-google-analytics-for-government-training-manual.md" >}} "New Google Analytics for Government Training Manual").
 

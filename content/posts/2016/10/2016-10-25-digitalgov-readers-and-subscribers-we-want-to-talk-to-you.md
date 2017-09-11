@@ -24,7 +24,7 @@ tag:
 
 As you know, over the last few years DigitalGov has surfaced the innovative advancements many are making across the government space while providing a platform for learning best practices and coming together as a community.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-372-dg-research-illio.jpg" alt="Two overlapping chat bubbles." >}}
+{{< legacy-img src="2016/10/600-x-372-dg-research-illio.jpg" alt="Two overlapping chat bubbles." >}}
 
 Over the course of the next few weeks, a small team from 18F and Office of Products and Programs are working on reimagining a future DigitalGov and DigitalGov University.
 

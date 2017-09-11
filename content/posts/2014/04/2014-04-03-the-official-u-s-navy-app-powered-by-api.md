@@ -11,7 +11,7 @@ tag:
   - United States Navy
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-USNavy-App\_iPad\_screen.jpg" alt="A screen of the official U.S. Navy app as seen on an iPad" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/480-x-360-USNavy-App_iPad_screen.jpg)As a &#8220;warfighting-ready force,&#8221; the [U.S. Navy](http://www.navy.mil/) can bring it wherever and whenever it&#8217;s needed around the globe.
+[{{< legacy-img src="2014/04/250-x-188-USNavy-App\_iPad\_screen.jpg" alt="A screen of the official U.S. Navy app as seen on an iPad" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/480-x-360-USNavy-App_iPad_screen.jpg)As a &#8220;warfighting-ready force,&#8221; the [U.S. Navy](http://www.navy.mil/) can bring it wherever and whenever it&#8217;s needed around the globe.
 
 Now this armed force is bringing it—the latest news, video, photos, multimedia, special events and more—to sailors and their families through a [slick new app](http://www.navy.mil/ah_online/ftrStory.asp?issue=3&id=76319) that effortlessly crosses borders and software platforms.
 
@@ -27,4 +27,4 @@ So, what&#8217;s the magic behind a &#8220;constantly updating&#8221; app that w
 
 If you&#8217;re active or former Navy, this app will seamlessly connect you to a proud, vibrant community you know well. For the rest, the engaging app might make you wish you were!
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-338-US-Navy-app\_Windows8\_tablet\_Screenshot\_227284.jpg" alt="A screen of the official U.S. Navy app as seen on a Windows 8 tablet" >}}_Get onboard with more government mobile apps by visiting the the [USA.gov Apps Gallery](http://apps.usa.gov/)._
+{{< legacy-img src="2014/04/600-x-338-US-Navy-app\_Windows8\_tablet\_Screenshot\_227284.jpg" alt="A screen of the official U.S. Navy app as seen on a Windows 8 tablet" >}}_Get onboard with more government mobile apps by visiting the the [USA.gov Apps Gallery](http://apps.usa.gov/)._

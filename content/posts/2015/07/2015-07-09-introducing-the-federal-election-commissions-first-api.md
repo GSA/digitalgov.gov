@@ -13,7 +13,7 @@ tag:
   - Federal Election Commission
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-250-openfec-banner.jpg" alt="Federal Election Commission (FEC) OpenFEC banner for exploring campaign finance data" >}}
+{{< legacy-img src="2015/07/600-x-250-openfec-banner.jpg" alt="Federal Election Commission (FEC) OpenFEC banner for exploring campaign finance data" >}}
 
 The Federal Election Commission (FEC) empowers citizens with the information they need to make informed decisions about their democracy.
 
@@ -23,7 +23,7 @@ With that API, searching for candidates and committees will be easier and more i
 
 FEC staff scanning compliance forms, 1982 FEC staff scanning compliance forms, 1982. Image from the FEC.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/250-x-225-FEC-staff-scanning-compliance-forms-1982-IT004.jpg" alt="FEC staff scanning compliance forms, 1982" >}}All of these features are supported by our [public API](http://api.open.fec.gov/developers) so those outside of government can directly benefit from this technology, by making or using their own apps. For example, we created an endpoint that accepts partial names in queries, so you can make your own type-ahead search.
+{{< legacy-img src="2015/07/250-x-225-FEC-staff-scanning-compliance-forms-1982-IT004.jpg" alt="FEC staff scanning compliance forms, 1982" >}}All of these features are supported by our [public API](http://api.open.fec.gov/developers) so those outside of government can directly benefit from this technology, by making or using their own apps. For example, we created an endpoint that accepts partial names in queries, so you can make your own type-ahead search.
 
 The API is the backbone of [OpenFEC](https://18f.gsa.gov/dashboard/project/openfec/)—the FEC&#8217;s next digital evolution. It’s also the first public release from our partnership. Be on the lookout for a new app and an eventual site redesign. As with all our projects, looking modern isn’t just an aesthetic choice, it comes from smart design and asking actual website users what they want. Take a look at our [interactive API documentation](https://api.open.fec.gov/developers). It not only has a fresh look, but it’s driven by modern technology underneath the hood.
 

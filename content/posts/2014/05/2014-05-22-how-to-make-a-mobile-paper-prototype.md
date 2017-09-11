@@ -21,7 +21,7 @@ tag:
 
 What if a single piece of paper could make your mobile app work 20% better?
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/Mobile-Paper-Prototype-phone-screenshot-May-20th-2014-759am.jpg" alt="Mobile Paper Prototype phone screenshot" >}}
+{{< legacy-img src="2014/05/Mobile-Paper-Prototype-phone-screenshot-May-20th-2014-759am.jpg" alt="Mobile Paper Prototype phone screenshot" >}}
 
 It’s hard to imagine something as unimpressive as paper influencing our 21st century smartphones, but it’s true. Well before we get into the design and coding phases, we can show customers a mockup of an idea of what our product might look like. It’s called a [prototype](http://www.usability.gov/how-to-and-tools/methods/prototyping.html) (or a wireframe)—it’s a model of a design that’s still in development. It doesn&#8217;t need to be fancy, or even made on a computer. But it can make the difference between a product that looks good and one that people will actually use.
 

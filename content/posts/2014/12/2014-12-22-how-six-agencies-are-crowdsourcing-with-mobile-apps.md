@@ -19,7 +19,7 @@ tag:
   - TSA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
+{{< legacy-img src="2014/09/586-x-389-NOAA-Whale-Alert-app.jpg" alt="NOAA Whale Alert iPhone / iPad app" >}}
 
 Mobile devices allow the public to interact with government in new and game-changing ways and users [expect those interactions]({{< relref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}). As a result, many agencies are taking advantage of native apps for crowdsourcing projects.
 
@@ -33,7 +33,7 @@ The National Oceanic and Atmospheric Administration (NOAA) gets the gold star in
   * NOAA Fisheries [Release Mako App]({{< relref "2013-11-14-noaa-release-mako-now-on-ios.md" >}}) allows fishermen to post GPS tagged photos on the [Shortfin Mako Shark Live Release Interactive Web Map](http://www.nmfs.noaa.gov/sfa/hms/shortfinmako/Map/index.htm).
   * NOAA’s National GeoPhysical Data Center released the [CrowdMag](http://www.ngdc.noaa.gov/geomag/crowdmag.shtml) App in which users can enable background recording with their phone’s digital magnetometer so NOAA can anonymously collect magnetic field data to help keep track of Earth’s ever-changing magnetic fields.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Four other agencies are leveraging mobile for crowdsourcing across a number of efforts like ranking photos and helping with disaster response.
+{{< legacy-img src="2014/12/250-x-445-DOE-Energy-LanternLive-app-DC-Gas-Stations-on-Android-.jpg" alt="Department of Energy's LanternLive app displays DC Gas Stations on an Android phone" >}}Four other agencies are leveraging mobile for crowdsourcing across a number of efforts like ranking photos and helping with disaster response.
 
   * The Department of Energy’s [Lantern Live]({{< relref "2014-12-04-find-fuel-during-disasters-with-lantern-live-app.md" >}}) crowdsources the ability to find fuel during an emergency through user-generated status reports from local gas stations.
   * The Federal Emergency Management Administration’s [FEMA App]({{< relref "2014-01-16-fema-app-adds-disaster-reporter-feature.md" >}}), has a Disaster Reporter feature that allows citizens, first responders, emergency managers, community response & recovery teams, and others to view and contribute information on a publicly accessible map as a way to assist recovery and relief operations.

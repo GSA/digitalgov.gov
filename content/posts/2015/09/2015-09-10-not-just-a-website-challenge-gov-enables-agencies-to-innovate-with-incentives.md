@@ -11,7 +11,7 @@ tag:
   - challenges and prize competitions
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-450-Number-five-cupcake-RuthBlack-iStock-Thinkstock-465078596.jpg" alt="Cupcake with sprinkles and a starred number 5 candle" caption="" >}} 
+{{< legacy-img src="2015/09/600-x-450-Number-five-cupcake-RuthBlack-iStock-Thinkstock-465078596.jpg" alt="Cupcake with sprinkles and a starred number 5 candle" caption="" >}} 
 
 Next month, [Challenge.gov](https://www.challenge.gov/) turns five. A technical platform, a listing of federal prize competitions, and consultation and support services for running impactful challenges all meld into the program, which brings the best ideas and talent together to solve mission-centric problems.
 
@@ -23,7 +23,7 @@ Upwards of 80 agencies have used this no cost platform since its debut, launchin
 
 ## Five Years of Innovation, Solutions, and Engagement
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
+{{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 Since its launch in 2010, Challenge.gov has accelerated the federal government’s mission to spur innovation, cost-effective solutions, and citizen engagement through competitions and challenges. Along with other White House initiatives, Challenge.gov has made it easier for federal agencies to launch and manage challenges.
 
@@ -43,7 +43,7 @@ Harvard University acknowledged this when it awarded Challenge.gov the [Innovati
 
 “Instead of paying first and hoping a solution is delivered, GSA&#8217;s approach minimizes risk and encourages creativity by inducing dozens and sometimes hundreds of potential solutions and leaving the government agency free to pick the best before delivering a reward,” Goldsmith wrote. “It&#8217;s an approach that opens up space for individuals and smaller businesses to shine in a sector often crowded out by big companies.”
 
-## Celebrating the past and Looking Forward {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-360-Award-Alexander-Vasilyev-iStock-Thinkstock-1042552011.jpg" alt="A n award for The Best shaped like a gold star, against a red and gold hued background." caption="" >}} 
+## Celebrating the past and Looking Forward {{< legacy-img src="2015/09/600-x-360-Award-Alexander-Vasilyev-iStock-Thinkstock-1042552011.jpg" alt="A n award for The Best shaped like a gold star, against a red and gold hued background." caption="" >}} 
 
 The October 8th event at GSA will highlight the critical role challenges and prizes have played in federal government innovation and honor those who have helped this community thrive and progress.
 

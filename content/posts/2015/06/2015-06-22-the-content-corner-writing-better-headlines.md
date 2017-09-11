@@ -12,7 +12,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-455-3D-Quotation-Marks-Gold-Sign-mariusz_prusaczyk-iStock-Thinkstock-177759854.jpg" alt="Gold quotation marks in 3-D" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-455-3D-Quotation-Marks-Gold-Sign-mariusz_prusaczyk-iStock-Thinkstock-177759854.jpg" alt="Gold quotation marks in 3-D" caption="" >}} 
 
 The clarity of a headline or title plays a critical role in whether your content is ever seen and read by your customers. As the battle for eyeballs continues to escalate, digital media providers seem to be resorting more and more to “clickbait” titles and headlines. However, as with all forms of overused marketing, consumers soon learn to tune it out and develop negative reactions to any headlines that feature these worn-out tactics. Digital media companies Outbrain and Hubspot have leveraged their significant data resources to create a research-driven [e-book on effective heading and title writing](http://cdn2.hubspot.net/hub/53/file-2505556912-pdf/Data_Driven_Strategies_For_Writing_Effective_Titles_and_Headlines.pdf), providing guidance based on user reactions to specific words and even the number of words in your headline.
 
@@ -32,13 +32,13 @@ Personally, I’ve developed fatigue for headlines that rely on numbers (7 Ways 
 
 Outbrain/HubSpot report doesn’t directly address the efficacy of specific numbers in your headlines, but it does make it clear that specifics are important.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-positive-effects-on-CTR.jpg" alt="A bar graph showing what positively affects click-through-rate (CTR): bracketed clarification: 38 percent; a photo: 37 percent; who: 22 percent" >}}
+{{< legacy-img src="2015/06/600-x-300-positive-effects-on-CTR.jpg" alt="A bar graph showing what positively affects click-through-rate (CTR): bracketed clarification: 38 percent; a photo: 37 percent; who: 22 percent" >}}
 
 One of the most important specifics is “bracketed clarification” to help your user have a clear idea what to expect when they click on the link. Posts that included clarifications like [Infographic] or [Video] were found to perform 38% better. And while not specifically in brackets, including the word “photo(s)” improved headline performance by 37%, combining the user’s desire for clarification and the popularity of [visual content]({{< relref "2015-06-05-visualizing-bls-data-to-improve-understanding.md" >}}). In a clear demonstration of the effectiveness of different words, the report showed that using the term “who” improved the click-thru rate (CTR) by 22%, but the word “why” **decreased** clicks by 37%. Who knew?
 
 As clickbait practices grow and evolve over time, the number of words with negative impacts on CTRs will change, but the more “gimmicky” the term, the more negative the response. For example: “magic” was the most harmful term, along with “tip” and “credit,” all of which have now been used to the point that they have a negative connotation in a majority of the public’s mind.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/520-x-528-Negative-effects-on-CTR.jpg" alt="A spiral graph showing what negatively affects click-through-rate (CTR)." >}}
+{{< legacy-img src="2015/06/520-x-528-Negative-effects-on-CTR.jpg" alt="A spiral graph showing what negatively affects click-through-rate (CTR)." >}}
 
 In a clear sign of content marketing overload, terms such as “how to”, “simple”, “easy” and “free” all also decrease CTR by at least 41%. So while what you are offering may indeed be a simple and easy way to show your customer how to do something, be careful using these terms. Rely less on marketing terms and be straight-forward and clear in your headline text. Just as with content in general, it all comes back to **honesty, clarity, and quality**.
 

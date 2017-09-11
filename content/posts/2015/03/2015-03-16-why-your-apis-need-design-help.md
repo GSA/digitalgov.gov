@@ -24,7 +24,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}
+{{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}
 
 Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design—getting customer feedback at every stage of a project—is catching on with APIs as well.
 

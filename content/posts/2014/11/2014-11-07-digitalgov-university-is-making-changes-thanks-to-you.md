@@ -12,7 +12,7 @@ tag:
   - Open Opportunities program
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-338-Toni-Burwell-seated-crowd-end-DigitalGov-Citizen-Services-Summit-20140530_120948.jpg" alt="Attendees of the Spring 2014 DigitalGov Citizen Services Summit at GSA" caption="" >}} 
 
 DigitalGov University took the pulse of our participants this spring and found that our audience wants more information about events, wants us to better communicate the value of programs and wants more access to our programs.
 

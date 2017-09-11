@@ -26,7 +26,7 @@ Because, as Ann Mulhay, ex-CEO of Xerox succinctly puts it:
 
 ## What is a Content Model?
 
-A content model is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes. {{< legacy-img src="CDN/files/2016/01/600-x-400-Pizza-with-various-seafood-Zheka-Boss-iStock-Thinkstock-489085498.jpg" alt="Pizza and fresh italian ingredients" caption="" >}} 
+A content model is a representation of types of content and their inter-relationships. Content modeling takes content items and breaks them down into smaller structures, called content types. These content types are defined by their attributes. {{< legacy-img src="2016/01/600-x-400-Pizza-with-various-seafood-Zheka-Boss-iStock-Thinkstock-489085498.jpg" alt="Pizza and fresh italian ingredients" caption="" >}} 
 
 To better understand content models, think of a pizza as a content model and the toppings for the pizza as the unique content types. You can make many different pizzas (or even a calzone) with the different ingredients, but they&#8217;re all pizza.
 
@@ -64,11 +64,11 @@ This approach is key to the success for federal agencies with public health miss
 
 Here is an example of a CDC Web page content on <http://www.cdc.gov/parasites/hookworm/>
 
-{{< legacy-img src="CDN/files/2016/01/600-x-662-Hookworm-content-on-CDC-website.jpg" alt="Hookworm content on the Centers for Disease Control and Prevention website." >}}
+{{< legacy-img src="2016/01/600-x-662-Hookworm-content-on-CDC-website.jpg" alt="Hookworm content on the Centers for Disease Control and Prevention website." >}}
 
 seamlessly appears here <http://www.niaid.nih.gov/topics/hookworm/Pages/Default.aspx>
 
-{{< legacy-img src="CDN/files/2016/01/600-x-570-Hookworm-content-on-NIH-website.jpg" alt="Hookworm content on the National Institute of Allergy and Infectious Diseases website." >}}
+{{< legacy-img src="2016/01/600-x-570-Hookworm-content-on-NIH-website.jpg" alt="Hookworm content on the National Institute of Allergy and Infectious Diseases website." >}}
 
 ## Seems simple enough—How do I get started?
 

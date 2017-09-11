@@ -10,7 +10,7 @@ tag:
   - innovation
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/250-x-250-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist with red pen, and 3 checked boxes." caption="" >}} 
+{{< legacy-img src="2013/12/250-x-250-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist with red pen, and 3 checked boxes." caption="" >}} 
 
 <p dir="ltr">
   As you&#8217;re planning your challenge, you&#8217;ll want to review the relevant policies, memos and legislation pertaining to challenge competitions. The most important is the <a href="https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf">Prize Authority in the America COMPETES Reauthorization Act</a> (PDF, 275 KB, 12 pages, August 2011) for it gives all executive branch agencies a baseline authority to run prize competitions.  Be sure to consult with your agency’s attorneys on this to learn how your agency has decided to implement challenge competitions conducted under COMPETES at your agency. Challenges run under COMPETES have a few requirements, which include:

@@ -19,7 +19,7 @@ tag:
   - usa.gov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-182-USAgov-Beta-Banner_Marketing01.jpg" alt="USa.gov Beta banner for new website" >}}
+{{< legacy-img src="2015/04/600-x-182-USAgov-Beta-Banner_Marketing01.jpg" alt="USa.gov Beta banner for new website" >}}
 
 Thirteen years in digital is an eon, and on the eve of its 13th birthday, we at USA.gov found ourselves reckoning with a mid-life crisis.
 

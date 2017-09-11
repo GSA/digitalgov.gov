@@ -27,7 +27,7 @@ Content strategy, on the other hand, is a slightly newer term and it is often de
 
 Now, the question is to what extent are these two things related? We believe the answer to that is that the two are very closely interconnected.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-265-architecture-and-strategy-venn-diagram.jpg" alt="An architecture and strategy venn diagram." >}}
+{{< legacy-img src="2016/07/600-x-265-architecture-and-strategy-venn-diagram.jpg" alt="An architecture and strategy venn diagram." >}}
 
 The information architecture of your site is one of the ways through which you express your [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}). The choices you make about what content to highlight is just another way to emphasize mission-centric issues and messages. In other words, information architecture is another expression of your voice.
 
@@ -41,7 +41,7 @@ Content models within a system work with the architecture and content strategy b
 
 Federal agencies need to think hard about information architecture, [content strategy]({{< link "tag/content-strategy" >}}), and [content models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}) to stay future-ready.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-275-NPR-Digital-Media.jpg" alt="Composite image of NPR Digital Media examples." >}}
+{{< legacy-img src="2016/07/600-x-275-NPR-Digital-Media.jpg" alt="Composite image of NPR Digital Media examples." >}}
 
 National Public Radio (NPR) utilizes IA and CS to facilitate their process of COPE (Create Once, Publish Everywhere) adaptable content. In the short video below, Sarah Crane of USA.gov talks about adaptive content and how it works with APIs, using NPR as an exmple; she and her team [used COPE to re-work USA.gov&#8217;s content strategy]({{< relref "2015-04-13-the-content-corner-structured-content-challenges-and-lessons-learned.md" >}}).
 

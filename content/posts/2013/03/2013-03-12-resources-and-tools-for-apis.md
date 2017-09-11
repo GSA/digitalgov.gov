@@ -22,7 +22,7 @@ tag:
   - US Department of Labor
 ---
 
-## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 [Labs.Data.gov](http://labs.data.gov/) is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to [improve any project](http://labs.data.gov/) and submit pull requests in order to share the improvements with others.
 

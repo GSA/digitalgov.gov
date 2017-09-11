@@ -17,7 +17,7 @@ tag:
   - US Department of Education
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.
+{{< legacy-img src="2015/01/250-x-374-EDgov-3-0-homepage.jpg" alt="Screenshot of the Ed.gov website's homepage" >}}Rome wasn&#8217;t built in a day. Neither are website redesigns.
 
 In line with the [piecemeal responsive Web design implementation]({{< relref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}) trend we recently highlighted, the [new Ed.gov website redesign]({{< relref "2015-01-23-new-ed-gov-homepage-and-more.md" >}}) happened in three phases. In this case, budget limitations and existing content management systems (CMSs) influenced the decision-making process.
 
@@ -31,7 +31,7 @@ They started with a WordPress upgrade for their flagship blog, [Homeroom](http:/
 
 The [third and final phase](http://www.ed.gov/blog/2015/01/new-ed-gov-homepage-and-more/) was completed at the end of January. Their homepage and online press room are based in Drupal, which was upgraded from version 6 to 7.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
+{{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
 
 All of Ed.gov’s website and blogs now have [responsive design]({{< relref "2014-09-03-mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design-webinar-recap.md" >}}) and Bootstrap styling. The combination of responsive themes and Bootstrap means that Ed.gov pages automatically adjust to the size of smartphones or tablets. Going with this style was a pivot from their initial plans.
 

@@ -13,7 +13,7 @@ tag:
   - Recaps
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-https-weerapatkiatdumrong-iStock-Thinkstock-520737069.jpg" alt="A small metal padlock rests on a keyboard to represent HTTPS; hypertext transfer protocol secure" caption="" >}} 
 
 18F [uses HTTPS for everything we make](https://18f.gsa.gov/2014/11/13/why-we-use-https-in-every-gov-website-we-make/), and the U.S. government is in the process of [transitioning to HTTPS everywhere](https://18f.gsa.gov/2015/06/08/the-us-government-is-moving-to-https-everywhere/). As part of this effort, we&#8217;ve recently partnered with [DigitalGov University]({{< relref "digitalgov-university.md" >}}) to produce a two-video series introducing the why&#8217;s and how&#8217;s of HTTPS.
 

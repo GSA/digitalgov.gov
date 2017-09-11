@@ -20,7 +20,7 @@ tag:
 
 Augmented Reality games have existed for years, but have mostly failed to catch a mainstream audience; [Pokémon Go just changed all that this weekend](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-325-Pokemon-Go-screen-caps-from-Google-Play.jpg" alt="Pokémon Go screen caps from Google Play." >}}
+{{< legacy-img src="2016/07/600-x-325-Pokemon-Go-screen-caps-from-Google-Play.jpg" alt="Pokémon Go screen caps from Google Play." >}}
 
 The game that launched early this month has exploded in popularity and is close to surpassing Twitter in daily active users, according to [Forbes’ Jason Evangelho](http://www.forbes.com/sites/jasonevangelho/2016/07/10/pokemon-go-about-to-surpass-twitter-in-daily-active-users/).
 

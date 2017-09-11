@@ -16,7 +16,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 
+{{< legacy-img src="2014/07/600-x-400-Capitol-Building-U.S.-Congress-flySnow-iStock-Thinkstock-488669037.jpg" alt="Capitol Building U.S. Congress" caption="" >}} 
 
 If you haven&#8217;t heard about [@congressedits](https://twitter.com/congressedits) yet, it&#8217;s a Twitter bot that [was recently created](http://www.nytimes.com/2014/07/15/upshot/twitter-wikipedia-and-a-closer-eye-on-congress.html) to tweet out every anonymous edit made to Wikipedia from Congressional [IP addresses](http://www.us-cert.gov/Home-Network-Security#II-H). So, anyone editing articles on Wikipedia without logging in, and doing this while on Congressional Internet access, will have those changes tweeted ([like this](https://twitter.com/congressedits/status/492295958823456769)).
 

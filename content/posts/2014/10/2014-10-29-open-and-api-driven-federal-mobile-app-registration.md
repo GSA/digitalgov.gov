@@ -20,7 +20,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-120-app-icons-banner.jpg" alt="600-x-120-app-icons-banner" >}}
+{{< legacy-img src="2014/10/600-x-120-app-icons-banner.jpg" alt="600-x-120-app-icons-banner" >}}
 
 Thanks to the power of open data and APIs, federal agencies can now register their mobile native apps and websites on the [Federal Mobile Products Registry](http://apps.usa.gov/register) and have them appear on the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) (formerly USA.gov Apps Gallery) almost immediately.
 

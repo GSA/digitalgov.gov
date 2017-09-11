@@ -19,7 +19,7 @@ In honor of Veterans Day, several VA mobile apps are featured this week in the A
 
 The highlighted VA apps are designed to help Veterans manage their physical and mental health. They are part of a larger suite of VA apps that connect Veterans to essential resources and expand care outside of the VA Medical Center.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-322-VA-App-Store-Veterans-Day.jpg" alt="Screen capture of app icons." >}}
+{{< legacy-img src="2016/11/600-x-322-VA-App-Store-Veterans-Day.jpg" alt="Screen capture of app icons." >}}
 
 Some of the featured VA apps include:
 

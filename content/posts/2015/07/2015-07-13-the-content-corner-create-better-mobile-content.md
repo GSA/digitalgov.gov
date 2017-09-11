@@ -18,7 +18,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-436-Mobile-phone-Nik_Merkulov-iStock-Thinkstock-466186589.jpg" alt="Mobile devices with question marks on the screens" caption="" >}} 
 
 All content needs to be developed with a [mobile-first]({{< relref "2013-09-30-mobile-first.md" >}}) strategy, from [headline choice]({{< relref "2015-06-22-the-content-corner-writing-better-headlines.md" >}}) to paragraph length.
 
@@ -32,7 +32,7 @@ It was more than taking the information that we normally would have added to our
 
 Here are six mobile friendly tips to consider when creating your content.
 
-# Responsive Design Is Not Enough {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
+# Responsive Design Is Not Enough {{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
 
 To paraphrase Mr. Spock, responsive design is the beginning of your mobile strategy, not the end. In many ways, responsive design as most of us think about it only ensures that your website and its content **responds** to fit on whatever device is being used. Most of the emphasis of responsive design in practice is on the **design**, not on the content.
 

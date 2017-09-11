@@ -16,7 +16,7 @@ tag:
   - SocialGov Community
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 
+{{< legacy-img src="2015/03/600-x-425-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="A diverse group of raised hands." caption="" >}} 
 
 We released the [United States Public Participation Playbook](http://www.whitehouse.gov/blog/2015/02/03/announcing-us-public-participation-playbook) this week, a new open resource agencies can use to evaluate and build better programs that give a voice to the people they serve—and the response was fantastic. Public servants and citizens around the world have shared it, and already are contributing new ideas that build from the work of the team of 70 federal leaders, more than a dozen engagement experts, and citizens themselves who worked together to launch it.
 

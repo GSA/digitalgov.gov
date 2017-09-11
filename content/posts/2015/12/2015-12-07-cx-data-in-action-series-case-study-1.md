@@ -17,7 +17,7 @@ tag:
   - US Department of Labor
 ---
 
-It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 
+It’s not new that agencies are inundated with data, but what data should you collect to improve your agency’s programs and enhance the customer experience? The Department of Labor’s Employee Benefit Security Administration’s (EBSA) has been perfecting their process to collect actionable data for the past 14 years. {{< legacy-img src="2015/11/600-x-300-Marketing-concept-target-and-Customer-Satisfaction-on-wall-background-maxkabakov-iStock-Thinkstock-453577131.jpg" alt="Marketing concept target and Customer Satisfaction on wall background" caption="" >}} 
 
 EBSA is a regulatory agency that develops and enforces private sector employee benefit plans, such as 401Ks, traditional pensions, and health care benefit plans. We invited Terri Thomas from EBSA’s Outreach, Education and Assistance (OEA) Program to share her strategy for collecting actionable data in a [DigitalGov University webinar](https://www.youtube.com/watch?v=fI6o7hxSJQw&list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW&index=3).
 
@@ -46,7 +46,7 @@ EBSA runs an ongoing customer satisfaction survey for their Benefits Advisors pr
       * Customer engagement (proprietary)
       * Performance attributes
   * Select participants at random
-  * Timing is key &#8211; schedule immediately so respondents remember the interaction {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Customer-Survey-Chad-McDermott-iStock-Thinkstock-105094436.jpg" alt="A customer survey" caption="" >}} 
+  * Timing is key &#8211; schedule immediately so respondents remember the interaction {{< legacy-img src="2015/11/600-x-400-Customer-Survey-Chad-McDermott-iStock-Thinkstock-105094436.jpg" alt="A customer survey" caption="" >}} 
 
 ### Sample Performance Attributes
 

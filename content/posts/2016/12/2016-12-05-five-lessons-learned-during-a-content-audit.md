@@ -13,7 +13,7 @@ tag:
   - USAgov
 ---
 
-As part of USAGov’s efforts to provide our audience with the reliable and quality information that they need, this summer, the Health, Education & Benefits (HE&B) topic desk completed its first content audit. {{< legacy-img src="CDN/files/2017/03/600-x-400-Brainstorming-Brainstorm-Business-People-Design-Concepts-scyther5-iStock-Thinkstock-516755868.jpg" alt="Business people brainstorming around a desk." caption="" >}} 
+As part of USAGov’s efforts to provide our audience with the reliable and quality information that they need, this summer, the Health, Education & Benefits (HE&B) topic desk completed its first content audit. {{< legacy-img src="2017/03/600-x-400-Brainstorming-Brainstorm-Business-People-Design-Concepts-scyther5-iStock-Thinkstock-516755868.jpg" alt="Business people brainstorming around a desk." caption="" >}} 
 
 **Methodology and Results**
 

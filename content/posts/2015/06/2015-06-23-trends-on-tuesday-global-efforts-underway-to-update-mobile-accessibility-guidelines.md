@@ -17,7 +17,7 @@ tag:
   - US Access Board
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Man-with-infantile-cerebral-palsy-using-a-computer-Horsche-iStock-Thinkstock-513396687.jpg" alt="Man with infantile cerebral palsy using a computer" caption="" >}} 
 
 Federal agencies do not get a free pass on accessibility for mobile—as we stated [earlier this month]({{< relref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}}), Section 508 of the Rehabilitation Act applies to ALL information and communication technology (ICT).
 

@@ -16,7 +16,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
+{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
 
 Seven million dollars is a big price tag. That is the amount Forbes predicts organizations will spend on analytics-related initiatives in 2015, according to a recent report.
 

@@ -20,7 +20,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-283-National-Customer-Service-Week.jpg" alt="National Customer Service Week 2014" >}}They say that customer experience (CX) is the new marketing. People will tell their friends about their experience with your agency, and social media makes it easy to broadcast whether the experience was easy and enjoyable, or terrible.
+{{< legacy-img src="2014/10/250-x-283-National-Customer-Service-Week.jpg" alt="National Customer Service Week 2014" >}}They say that customer experience (CX) is the new marketing. People will tell their friends about their experience with your agency, and social media makes it easy to broadcast whether the experience was easy and enjoyable, or terrible.
 
 In 1992, Congress proclaimed the first full week in October as National Customer Service Week, and as we close out Customer Service Week 2014, here’s a recap of some great customer-service-related articles published on DigitalGov.gov over the past several months. Check them out, and maybe you&#8217;ll be inspired to tackle some customer service improvements of your own!
 

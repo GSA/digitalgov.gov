@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/smartphones-600-x-400.jpg)159.8 million people in the U.S. over the age of 13 owned smartphones during the three months ending in January, up 7 percent since October, [according to ComScore](http://www.comscore.com/Insights/Press_Releases/2014/3/comScore_Reports_January_2014_US_Smartphone_Subscriber_Market_Share).
+[{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/smartphones-600-x-400.jpg)159.8 million people in the U.S. over the age of 13 owned smartphones during the three months ending in January, up 7 percent since October, [according to ComScore](http://www.comscore.com/Insights/Press_Releases/2014/3/comScore_Reports_January_2014_US_Smartphone_Subscriber_Market_Share).
 
 That is a 66.8 percent mobile market penetration, meaning two thirds of people in the country owned a smartphone at the beginning of this year. Comscore also finds Apple continues to sell the most devices, while Android is the top mobile platform. 
 

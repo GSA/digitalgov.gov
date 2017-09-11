@@ -16,7 +16,7 @@ tag:
   - Small Business Innovation Research
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}} 
+{{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}} 
 
 3D printing has gone out of this world.
 
@@ -28,7 +28,7 @@ NASA is currently conducting [3D printing experiments](http://www.nasa.gov/missi
 
 The ability to print 3D objects will have a great impact on space operations. Ideally, 3D printers will serve as production shops in space, and astronauts will no longer have to wait months for parts to arrive on cargo spacecraft shipments. Astronauts will also be able to print parts that cannot survive a trip into space, thereby increasing the amount of supplies they can access.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-NASA-ISS-tweet-for-3D-printer-wrench.jpg" alt="250 x 250 NASA ISS tweet for 3D printer wrench" >}}In December, [a ratchet wrench was ‘emailed’ to the space station](http://www.nasa.gov/mission_pages/station/research/news/3Dratchet_wrench/index.html#.VJmrIF4AB), marking the first time an object was designed on the ground and sent to space in response to real time needs. The wrench was designed and approved by NASA reviewers in less than one week and took 4 hours to print. The other 19 objects that have been printed, including the faceplate, had been designed before the printer went to the space station. The parts made in space will return to Earth in 2015 for in-depth analysis.
+{{< legacy-img src="2014/12/250-x-250-NASA-ISS-tweet-for-3D-printer-wrench.jpg" alt="250 x 250 NASA ISS tweet for 3D printer wrench" >}}In December, [a ratchet wrench was ‘emailed’ to the space station](http://www.nasa.gov/mission_pages/station/research/news/3Dratchet_wrench/index.html#.VJmrIF4AB), marking the first time an object was designed on the ground and sent to space in response to real time needs. The wrench was designed and approved by NASA reviewers in less than one week and took 4 hours to print. The other 19 objects that have been printed, including the faceplate, had been designed before the printer went to the space station. The parts made in space will return to Earth in 2015 for in-depth analysis.
 
 Niki Werkheiser, NASA Project Manager for the In-space Manufacturing Initiative, pointed to sustainability as a major goal of her team’s work. By using on-site space material to create things such as landing pads and radiation protection, astronauts become increasingly self-reliant. The team is also working on initiatives to [recycle printed parts](https://gigaom.com/2014/05/13/nasa-is-considering-recycling-plastic-for-3d-printing-on-the-international-space-station/); by turning old items into feedstock, 3D printing becomes efficient and sustainable.
 

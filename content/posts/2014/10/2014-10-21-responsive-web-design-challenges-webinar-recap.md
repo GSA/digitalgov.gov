@@ -20,7 +20,7 @@ tag:
   - United States Department of Energy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/250-x-444-responsive-design-Energy-Gov-website-Oct20th2014-Android.jpg" alt="The Energy.gov responsive website as seen on an Android phone." >}}A website redesign is never an easy task, but when responsiveness is one of your redesign&#8217;s key goals, special considerations come into play that can present unique challenges. In the September webinar on Responsive Web Design Challenges in Government, we heard from two agencies who identified coordination, leadership buy-in and content decisions when mobilizing their websites.
+{{< legacy-img src="2014/10/250-x-444-responsive-design-Energy-Gov-website-Oct20th2014-Android.jpg" alt="The Energy.gov responsive website as seen on an Android phone." >}}A website redesign is never an easy task, but when responsiveness is one of your redesign&#8217;s key goals, special considerations come into play that can present unique challenges. In the September webinar on Responsive Web Design Challenges in Government, we heard from two agencies who identified coordination, leadership buy-in and content decisions when mobilizing their websites.
 
 **Marissa Newhall**, acting director of the Office of Digital Strategy and Communications at the **Department of Energy** (DOE), shared the reasons for going responsive with the [energy.gov](http://www.energy.gov) website.
 
@@ -48,7 +48,7 @@ Energy&#8217;s main challenge was **coordination with content stakeholders**. Ke
 
 ## DFAS&#8217;s Four Challenges
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-408-responsive-design-DFAS-Mil-website-Oct20th2014-Android.jpg" alt="The DFAS.mil responsive website as seen on a laptop monitor" >}}
+{{< legacy-img src="2014/10/600-x-408-responsive-design-DFAS-Mil-website-Oct20th2014-Android.jpg" alt="The DFAS.mil responsive website as seen on a laptop monitor" >}}
 
 The second presenter was **Debra Fioritto** from the **Defense Finance and Accounting Service** ([DFAS](http://www.dfas.mil)), who identified three challenges in her Responsive Web Design implementation.
 
@@ -56,7 +56,7 @@ The second presenter was **Debra Fioritto** from the **Defense Finance and Accou
 
 Debra&#8217;s first challenge was to **make the case** for responsive design to her agency&#8217;s leadership, a short two years after previously updating their website. DFAS&#8217;s mobile usage rates were increasing while her site&#8217;s bounce rate was also increasing, signifying that more people were coming from mobile devices and leaving quickly when they had trouble finding the information they were looking for. These analytics told a clear story of how DFAS could better meet its customer service objectives, and the agency leadership saw clearly that a responsive redesign was needed. The most effective way to make this case was to tell her leadership the story using the same tools that had initially revealed the story to her: her site’s analytics.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-356-DFAS-Avg-Monthly-Visits.jpg" alt="Bar chart showing DFAS average monthly visits by quarter" >}}
+{{< legacy-img src="2014/10/600-x-356-DFAS-Avg-Monthly-Visits.jpg" alt="Bar chart showing DFAS average monthly visits by quarter" >}}
 
 ### Second Challenge: Timeline
 

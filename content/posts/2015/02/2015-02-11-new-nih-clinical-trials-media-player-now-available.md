@@ -27,7 +27,7 @@ The media player can be added to your website by simply adding the code below to
 
 This code can be acquired also by clicking the “embed” icon in the media viewer. You as the content owner control the size of the player on your site.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-560-embed-NIH-Clinical-Trials-Media-Player.jpg" alt="NIH Clinical Trials Media Player embed icon and code" >}}
+{{< legacy-img src="2015/02/600-x-560-embed-NIH-Clinical-Trials-Media-Player.jpg" alt="NIH Clinical Trials Media Player embed icon and code" >}}
 
 <div class="media-viewer">
 </div>
@@ -36,11 +36,11 @@ Some examples of this tool in use can be found at the following URLs:
 
 <http://www.nia.nih.gov/health/faq/how-can-i-learn-more-about-clinical-trials>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/300-x-489-NIH-Aging-site-with-NIH-Clinical-Trials-Media-Player1.jpg" alt="300 x 489 NIH Aging site with NIH Clinical Trials Media Player" >}}
+{{< legacy-img src="2015/02/300-x-489-NIH-Aging-site-with-NIH-Clinical-Trials-Media-Player1.jpg" alt="300 x 489 NIH Aging site with NIH Clinical Trials Media Player" >}}
 
 [http://www.atarc.org](http://www.atarc.org/)
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/300-x-489-ATARC-site-with-NIH-Clinical-Trials-Media-Player1.jpg" alt="300 x 489 ATARC site with NIH Clinical Trials Media Player" >}}
+{{< legacy-img src="2015/02/300-x-489-ATARC-site-with-NIH-Clinical-Trials-Media-Player1.jpg" alt="300 x 489 ATARC site with NIH Clinical Trials Media Player" >}}
 
 Adding the media player to your website is easy and it is free. The content meets federal guidelines and standards. Additionally the content is updated regularly without you having to do anything.
 

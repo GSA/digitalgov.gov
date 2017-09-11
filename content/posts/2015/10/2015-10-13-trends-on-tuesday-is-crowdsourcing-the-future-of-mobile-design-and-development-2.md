@@ -18,7 +18,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 
+{{< legacy-img src="2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 
 
 NASA recently announced the winners of a [smartwatch app interface competition](http://fedscoop.com/nasa-names-winner-in-smartwatch-app-design-contest). A Canadian duo won the design competition, and NASA’s plan is to build the app with 2016 funding to have it [available for astronauts to use](https://www.freelancer.com/contest/NASA-Challenge-Astronaut-Smartwatch-App-Interface-Design-261634.html) when they are aboard the International Space Station.
 

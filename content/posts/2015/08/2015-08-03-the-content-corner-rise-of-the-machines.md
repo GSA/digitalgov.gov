@@ -13,7 +13,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 
 
 In the span of two days, I received as many emails from respectable content marketing blogs worrying about the dangers of machines taking the jobs of bloggers and other content creators. The man vs. machine dynamic has existed since the dawn of the industrial age, but is it finally reaching the point where a technology called Natural Language Generation (NLG) can replace humans in one of their last refuges? Are we reaching a point where the writing of books, blogs, and even poetry will be dominated by the machine?
 
@@ -21,7 +21,7 @@ In the span of two days, I received as many emails from respectable content mark
 
 Natural Language Generators are algorithms designed to gather inputs and then produce a readable, human-like response based on the data provided. Computer-generated natural language has become fairly commonplace, especially with the advent of smartphone assistants such as Siri and Cortana. On a larger scale, NLG can be leveraged to generate blog posts, articles, or data reports. By programming certain patterns, grammar, and word usage, the output of NLGs can produce content that has been found to be [indistinguishable from a human writer](http://www.tandfonline.com/doi/pdf/10.1080/17512786.2014.883116).
 
-The NLG algorithms can be simple or extremely complex depending on the desired final product. [Philip Parker has used NLG algorithms](http://www.huffingtonpost.com/2013/02/11/philip-parker-books_n_2648820.html) to produce over a million books on very specific subjects such as luggage racks and vocal cord paralysis. To develop the initial algorithm, he estimates 2-3 man-years of programmer time, but once complete, books can be generated in as little as 4 minutes. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Robot-writing-drawing-on-the-screen-Kirillm-iStock-Thinkstock-474435570.jpg" alt="Robot writing drawing on the screen" caption="" >}} 
+The NLG algorithms can be simple or extremely complex depending on the desired final product. [Philip Parker has used NLG algorithms](http://www.huffingtonpost.com/2013/02/11/philip-parker-books_n_2648820.html) to produce over a million books on very specific subjects such as luggage racks and vocal cord paralysis. To develop the initial algorithm, he estimates 2-3 man-years of programmer time, but once complete, books can be generated in as little as 4 minutes. {{< legacy-img src="2015/07/600-x-400-Robot-writing-drawing-on-the-screen-Kirillm-iStock-Thinkstock-474435570.jpg" alt="Robot writing drawing on the screen" caption="" >}} 
 
 ## Common Uses
 

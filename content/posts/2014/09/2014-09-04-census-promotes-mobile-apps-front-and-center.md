@@ -17,7 +17,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-390-Census-overlay-Screen-Shot-2014-09-04.jpg" alt="A screen capture of Census dot gov with an overlay displaying 3 of their mobile apps." >}}
+{{< legacy-img src="2014/09/600-x-390-Census-overlay-Screen-Shot-2014-09-04.jpg" alt="A screen capture of Census dot gov with an overlay displaying 3 of their mobile apps." >}}
 
 Those cutting edge folks over at Census have raised the bar again! Not only do they have three mobile apps that use their own [APIs]({{< relref "2014-06-25-the-api-briefing-the-census-bureaus-discovery-tool-find-the-right-api-for-your-app.md" >}} "The API Briefing: The Census Bureau’s Discovery Tool – Find the Right API for Your App"), but now everyone who visits [Census.gov](http://www.census.gov/) is presented with an overlay promoting [America&#8217;s Economy](http://www.census.gov/mobile/economy/), [Census PoPQuiz](http://www.census.gov/mobile/censuspopquiz/), and [dwellr](http://www.census.gov/mobile/dwellr/). Clicking on the overlay takes you straight to their mobile products page.
 

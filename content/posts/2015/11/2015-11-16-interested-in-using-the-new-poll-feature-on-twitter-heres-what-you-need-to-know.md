@@ -12,7 +12,7 @@ tag:
   - Twitter
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" >}}
+{{< legacy-img src="2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" >}}
 
 [Twitter polls](https://blog.twitter.com/2015/introducing-twitter-polls) allow you to tweet out simple A or B style opinion polls. These polls can spark some great engagement, but you’ll want to keep a few things in mind before getting started:
 
@@ -37,14 +37,14 @@ Our first poll was a very low stakes test, via our [@ThisIsArchives](https://twi
 
 ## Public View of the Twitter Poll
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-384-This-Is-Archives-Twitter-Poll-questions.jpg" alt="This Is Archives' Twitter Poll's questions" >}}
+{{< legacy-img src="2015/11/440-x-384-This-Is-Archives-Twitter-Poll-questions.jpg" alt="This Is Archives' Twitter Poll's questions" >}}
 
 ## Author’s view of Twitter Poll
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/440-x-429-This-Is-Archives-Twitter-Poll-final-vote.jpg" alt="This Is Archives' Twitter Poll's final vote" >}}
+{{< legacy-img src="2015/11/440-x-429-This-Is-Archives-Twitter-Poll-final-vote.jpg" alt="This Is Archives' Twitter Poll's final vote" >}}
 
 After 81 votes, [the cute pig won by a snout](https://twitter.com/ThisisArchives/status/662629851640283136)!
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/308-x-600-This-Is-Archives-Twitter-Poll-winning-photo-posted-by-Todays-Document.jpg" alt="This Is Archives Twitter Poll's winning photo tweeted by Todays Document" >}}
+{{< legacy-img src="2015/11/308-x-600-This-Is-Archives-Twitter-Poll-winning-photo-posted-by-Todays-Document.jpg" alt="This Is Archives Twitter Poll's winning photo tweeted by Todays Document" >}}
 
 Want to know more about Twitter polls? [Check out the basics](https://support.twitter.com/articles/20174524?lang=en). Happy polling!

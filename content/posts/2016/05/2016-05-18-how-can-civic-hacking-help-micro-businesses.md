@@ -18,7 +18,7 @@ _National Day of Civic Hacking on June 4th, D.C. Edition_
 
 The fourth installation of the National Day of Civic Hacking aims to be another stellar event, bringing together civic-minded innovators in cities across the nation under one big tent. Just as in years past, it will be powered by the passion of citizens to improve their communities, along with open government data and mentorship from groups like Code for America and numerous federal and local agencies. Visit [www.hackforchange.org](https://www.codeforamerica.org/events/national-day-2016) for a full list of participating cities and challenges.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking logo" >}}](https://www.codeforamerica.org/events/national-day-2016)
+[{{< legacy-img src="2016/05/600-x-513-National-Day-of-Civic-Hacking-Rosie-logo.jpg" alt="National Day of Civic Hacking logo" >}}](https://www.codeforamerica.org/events/national-day-2016)
 
 If you are in the D.C. area, you won’t want to miss an exciting event that will focus on helping “micro-businesses”, or enterprises with five or fewer employees. These companies have long been the backdrop of the economy, make up the majority of U.S. businesses, and are one of the primary ways minority groups break out of poverty. Sound like a cool topic? Reserve your spot now by registering at [hackforchangedc.splashthat.com/](https://hackforchangedc.splashthat.com/).
 
@@ -42,7 +42,7 @@ Here are three reasons why micro-businesses expand opportunity, setting up this 
 
 ## How Can Civic Hacking Help?
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-400-Woman-standing-with-arms-folded-Jupiterimages-Stockbyte-Thinkstock-78375478.jpg" alt="Female small business owner standing in front of her open coffee shop" >}}
+{{< legacy-img src="2016/05/600-x-400-Woman-standing-with-arms-folded-Jupiterimages-Stockbyte-Thinkstock-78375478.jpg" alt="Female small business owner standing in front of her open coffee shop" >}}
 
 Civic hacking can help uncover product and service opportunities to fill in gaps that micro-businesses face in achieving success. There is a very strong correlation to the amount of small business counseling a company receives, and their likelihood of success after first five years. The Aspen Institute’s “Facts about Business Ownership” states that 88 percent of entrepreneurs who gained small business counseling were still in business after five years, whereas 50 percent of entrepreneurs who did not receive this training were out of business.
 
@@ -55,7 +55,7 @@ Let’s find out together on Saturday June 4, 2016. In an all day event in downt
 
 [Register for the D.C. event](https://hackforchangedc.splashthat.com/).
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/05/600-x-335-Register-for-2016-National-Day-of-Civic-Hacking.jpg" alt="Register for 2016 National Day of Civic Hacking" >}}](https://hackforchangedc.splashthat.com/)
+[{{< legacy-img src="2016/05/600-x-335-Register-for-2016-National-Day-of-Civic-Hacking.jpg" alt="Register for 2016 National Day of Civic Hacking" >}}](https://hackforchangedc.splashthat.com/)
 
 ### In Partnership with
 

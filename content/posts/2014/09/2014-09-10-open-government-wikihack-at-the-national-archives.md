@@ -14,7 +14,7 @@ tag:
   - open data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-355-Open-Government-WikiHack-2-promo.jpg" alt="Open Government #WikiHack 2014 promo" >}}
+{{< legacy-img src="2014/09/600-x-355-Open-Government-WikiHack-2-promo.jpg" alt="Open Government #WikiHack 2014 promo" >}}
 
 The National Archives and Records Administration and Wikimedia D.C., invite you to help us improve access to open government data on Wikipedia. We are excited to announce that we will be hosting the [Open Government #WikiHack](https://www.eventbrite.com/e/open-government-wikihack-tickets-12955926525), a two-day hackathon at the National Archives Building in downtown D.C., over the weekend of September 27 and 28.
 

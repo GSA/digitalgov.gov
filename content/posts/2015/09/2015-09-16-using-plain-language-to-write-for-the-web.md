@@ -12,7 +12,7 @@ tag:
   - Recaps
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}} 
 
 Plain language will make you a better writer. For federal employees, it&#8217;s also the law.
 

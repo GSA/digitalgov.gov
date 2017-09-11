@@ -19,7 +19,7 @@ For [NIDA](https://www.drugabuse.gov/), this meant merging our Drug Facts Facebo
 
 ## Reasons for Creating Two Facebook Pages
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" alt="N.I.D.A.'s original Drug Facts Facebook page." >}}
+{{< legacy-img src="2016/03/600-x-544-National-Institute-on-Drug-Abuse-NIDA_National-Institutes-of-Health-NIH-old-Drug-Facts-fb-page.jpg" alt="N.I.D.A.'s original Drug Facts Facebook page." >}}
 
 In 2010, NIDA created two Facebook pages. The NIDA Facebook page was created to reach researchers. The Drug Facts Facebook page was developed to reach those interested in our [NIDA for Teens](http://teens.drugabuse.gov/) materials and _[National Drug and Alcohol Facts Week](http://teens.drugabuse.gov/national-drug-alcohol-facts-week)<sup>SM </sup>_(NDAFW). The desired goal of the Drug Facts Facebook page was to provide a place NDAFW event organizers could discuss best practices and share ideas.
 

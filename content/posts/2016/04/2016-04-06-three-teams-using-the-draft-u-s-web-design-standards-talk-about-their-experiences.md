@@ -34,7 +34,7 @@ Each site incorporates parts of the Draft Standards in different ways. We chatte
 
 **Maria Marrero:** I first heard about the Draft Standards when this effort was just an initial idea by the U.S. Digital Service and 18F teams. As a User Experience Designer for [USA.gov](https://www.usa.gov/), another platform managed by the General Services Administration, I found it incredibly useful and something that is needed across government websites. The USAGov team then started connecting with the core team of developers and designers to get this effort kicked off.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-432-cfpb-form.jpg" alt="Screen capture of a CFPB website form." >}}
+{{< legacy-img src="2016/04/600-x-432-cfpb-form.jpg" alt="Screen capture of a CFPB website form." >}}
 
 [USA.gov](https://www.usa.gov/) has adopted the Draft Standards with some of the forms that are used by our users and agency partners to order government publications.
 
@@ -46,7 +46,7 @@ Each site incorporates parts of the Draft Standards in different ways. We chatte
 
 **MM:** So far, we have incorporated form templates on a few of our promotional pages where users can order government publications online. We are currently mapping components from the USAGov platform with the ones included into the draft release of the Standards and will continue to incorporate them in the future.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}
+{{< legacy-img src="2015/09/600-x-315-Vote-USA-gov-open-graph-850x446.jpg" alt="Screen capture of Vote dot U.S.A. dot gov." >}}
 
 **LK:** Our team was very excited about the branding and dropdown components featured in the Standards. Because of the short runway to bring [vote.usa.gov](http://vote.usa.gov/) from concept to launch, we used the Standards&#8217; brand components to remove the guesswork from the design process and expedite our launch. Without these components, I&#8217;m certain we would have launched a much less attractive and user-friendly [vote.usa.gov](http://vote.usa.gov/).
 

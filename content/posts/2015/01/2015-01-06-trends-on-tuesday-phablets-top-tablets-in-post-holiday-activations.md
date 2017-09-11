@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}} 
+{{< legacy-img src="2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}} 
 
 Phablets, the popular term for smartphones with screen sizes from 5.5 to less than 7 inches, increased in popularity this holiday season. According to Flurry, [13% of new device activations in December were phablets](http://www.flurry.com/blog/flurry-insights/apple-and-apps-dominated-christmas-2014#.VKry2WTF_oi), jumping from 4% in 2013.
 

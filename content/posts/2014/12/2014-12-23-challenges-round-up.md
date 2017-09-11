@@ -21,7 +21,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-400-Businessman-Fighting-Bplanet-iStock-Thinkstock-181596463.jpg" alt="Fighting businessmen" caption="" >}} 
 
 We’ve had an excellent year of training and community events for the federal challenge and prize community, so for the month of December DigitalGov University has taken a look at the events we’ve hosted this year and rounded them up in line with this month&#8217;s [Crowdsourcing theme]({{< relref "2014-12-08-crowdsourcing-month-an-overview.md" >}} "Crowdsourcing Month: An Overview").
 
@@ -29,7 +29,7 @@ On Wednesday, December 10, the [Challenge and Prize Community of Practice]({{< r
 
 This event brought together more than 70 practitioners in-person and online, and we’ll be sharing the clips from the livestream in the very near future. Now here’s a look at our other events.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
+{{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 ## The New Challenge.gov
 

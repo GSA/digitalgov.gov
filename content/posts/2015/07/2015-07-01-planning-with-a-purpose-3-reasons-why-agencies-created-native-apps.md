@@ -23,7 +23,7 @@ tag:
   - US Immigration and Customs Enforcement
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 
 
 Mobile. It’s here, and [it’s here to stay]({{< relref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}})!
 
@@ -52,7 +52,7 @@ Will Sullivan, former Director of Mobile for the Broadcasting Board of Governors
 
 ## Value
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/250-x-444-ICE-operation-predator-Android-app-Arrests-page.jpg" alt="Operation Predator Arrests page as seen on the Android app." >}}Once you have launched your mobile product, you need to quantify if the app or mobile website is valuable to your agency: what&#8217;s the business value?
+{{< legacy-img src="2015/05/250-x-444-ICE-operation-predator-Android-app-Arrests-page.jpg" alt="Operation Predator Arrests page as seen on the Android app." >}}Once you have launched your mobile product, you need to quantify if the app or mobile website is valuable to your agency: what&#8217;s the business value?
 
 The U.S. Immigration and Customs Enforcement (ICE) Homeland Security Investigations (HSI) special agents solicit help from the public to locate fugitive child predators with the [Operation Predator smartphone app]({{< relref "2015-05-28-ice-wields-smartphones-in-fight-against-child-exploitation.md" >}}) and social media outreach. This app fits into HSI’s work in combating child exploitation.
 

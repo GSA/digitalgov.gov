@@ -20,7 +20,7 @@ I always think of SEO like the dentist—no one really likes it, but you need to
 
 Today I want to dive a little more into often overlooked aspects of the content creation process and overall content maintenance.
 
-## Attack of the Clones {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
+## Attack of the Clones {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 
 
 It&#8217;s common for us in the rush to create content to overlook existing content that could simply be updated as opposed to creating completely new pages. This type of duplicate content (whether created on purpose or accident) has actually been found to harm your site&#8217;s overall rankings on Google&#8217;s search engine results pages (SERPs). This includes content that not only duplicates portions of content from other pages (and  exact duplicates of content from other sites) but also pages that have the same title or description (more on that below).
 
@@ -37,7 +37,7 @@ Google provides tips on using [canonical URLs](https://support.google.com/webmas
 
 One last duplication issue that you may want to investigate and can be fixed using canonical URLs is the preferred domain for your site. Duplication can occur here if your site is configured to show the same content for both www.example.gov or https://example.gov. Google also provides some guidance on [setting your preferred domain](https://support.google.com/webmasters/answer/44231), if this problem is applicable to your agency. The [required switch from http to https]({{< relref "2015-09-02-https-and-other-ranking-factors-what-impacts-the-seo-of-government-websites.md" >}}) should have little or no impact on SEO, so no worries there as long as it is handled correctly.
 
-## Make Mine Meta {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
+## Make Mine Meta {{< legacy-img src="2015/11/600-x-400-Flat-search-engine-optimization-design-concept-vector-illustration-MPFphotography-iStock-Thinkstock-481743933.jpg" alt="Flat search engine optimization design concept" caption="" >}} 
 
 We all know that metadata remains a vitally important piece in content production and promotion. However, let’s be honest with ourselves and admit that when you’re in a pinch metadata might be the one part of the content creation process that suffers. In the interest of full disclosure, I admit to leaving a description tag empty or doing a sloppy copy and paste in the heat of some significant content development (so glad to get that off my chest).
 

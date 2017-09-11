@@ -15,7 +15,7 @@ categories:
 
 Over the last 15 years of working with many different types of government agencies, at all levels of government, I have learned that all organizations share one specific challenge – sharing i
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Collaboration-250x127.jpg" alt="Picture of people collaborating around a table" >}}
+{{< legacy-img src="2013/11/Collaboration-250x127.jpg" alt="Picture of people collaborating around a table" >}}
 
 nformation. It sounds easy in concept but when organizations sit down to actually work through the intricacies of sharing information, the complexity of the issues become more apparent. What adds to this complexity is the perception that in a digital age the concept of sharing data (information) should be easy, transparent, and seamless.
 

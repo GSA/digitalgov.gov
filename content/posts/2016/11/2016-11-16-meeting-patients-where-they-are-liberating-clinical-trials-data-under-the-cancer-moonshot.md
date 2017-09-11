@@ -29,7 +29,7 @@ Cancer clinical trials are a critically important step on the pathway for new or
 
 Patients and their loved ones are relying on these rigorous studies to determine whether promising new therapies and approaches might extend how long they live or improve their quality of life.
 
-For many years, a steady number of patients with cancer, approximately 5%, have participated in cancer clinical trials. Clearly, if we’re going to make the kind of progress against cancer that is envisioned by bold initiatives like the [Cancer Moonshot](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative), being led and championed by Vice President Biden, then we have to continue developing innovative ways to improve participation in clinical trials. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-450-ct-api-article.jpg" alt="NCI Clinical Trials API graphic." caption="" >}} 
+For many years, a steady number of patients with cancer, approximately 5%, have participated in cancer clinical trials. Clearly, if we’re going to make the kind of progress against cancer that is envisioned by bold initiatives like the [Cancer Moonshot](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative), being led and championed by Vice President Biden, then we have to continue developing innovative ways to improve participation in clinical trials. {{< legacy-img src="2016/11/600-x-450-ct-api-article.jpg" alt="NCI Clinical Trials API graphic." caption="" >}} 
 
 ## Filling an Important Void
 
@@ -63,7 +63,7 @@ Today, [Vice President Biden is announcing](https://www.whitehouse.gov/the-press
 
 With the beta release, we took a substantial step: [trials.cancer.gov](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search) is now “consuming” the API. In other words, NCI is now using the API to power searches for NCI-sponsored clinical trials on its website. Additionally, several other groups are already using, or are well along the road to using, the API for their own patient communities.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-333-screen-capture-of-homepage-for-trials.cancer.gov_.jpg" alt="Screen capture of the homepage for trials.cancer.gov." >}}
+{{< legacy-img src="2016/11/600-x-333-screen-capture-of-homepage-for-trials.cancer.gov_.jpg" alt="Screen capture of the homepage for trials.cancer.gov." >}}
 
 For example, [Smart Patients](https://www.smartpatients.com/), an online community that helps patients and families affected by cancer, is using the API as part of its [trial search tool](https://www.smartpatients.com/trials). And [TrialReach](http://trialreach.com/) will soon launch a search tool to help patients with lung cancer find the right clinical trial. The TrialReach tool will allow patients and physicians to tailor a search using each patient’s pertinent clinical and molecular data, including the presence of certain genetic alterations in the patient’s tumors.
 

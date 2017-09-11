@@ -14,7 +14,7 @@ tag:
   - NASA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-404-Signing-Documents-Ingram-Publishing-Thinkstock-122486514.jpg" alt="Signing documents" caption="" >}} 
 
 If you have a hand in contracts for crowdsourcing initiatives and challenge and prize competitions, here are some helpful hints for you. We&#8217;ve gathered this list from the expert businesses that provide competition services. Haven&#8217;t heard about that? See [GSA Schedule 541-4G](http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES).
 

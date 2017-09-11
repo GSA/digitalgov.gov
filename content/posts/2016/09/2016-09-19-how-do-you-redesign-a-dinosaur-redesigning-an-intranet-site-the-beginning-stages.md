@@ -32,11 +32,11 @@ tag:
 
 Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. Indeed, it’s our job to nurture this ongoing process to create, update, test, update again. And, repeat! But, what about those sites or pages that seem to never crawl up to the ‘high-priority’ list and have been perhaps a little, ehh… neglected. For our Web team, this was our Center’s staff Intranet site.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-477-screenshot-of-NCCIH-Intranet-homepage.jpg" alt="Screen capture of the NCCIH Intranet homepage." >}}
+{{< legacy-img src="2016/09/600-x-477-screenshot-of-NCCIH-Intranet-homepage.jpg" alt="Screen capture of the NCCIH Intranet homepage." >}}
 
 Our Web team recognized that the Intranet was in need of attention. It’d been about 10 years since its initial launch and over the years, minimal design or layout changes&#8211;including navigation&#8211;had been made to the site. Of course, we kept the site’s content updated and we’d built out some new forms and apps. But, the ‘bones’ of the site had remained the same. 
 
-I’d been an enthusiastic proponent of an Intranet redesign over the years, but when finally receiving the ‘go-ahead’, I suddenly felt a bit terrified. I felt like an archaeologist, looking upon an excavation site, ancient bones either scattered about, or peeking out from deep within the ground. I was excited to finally dig, brush off, clean, and ponder handling such a delicate assembly. Scattered in the Intranet ‘dust’ were dozens and dozens of internal links, external links, Word documents and PDFs, databases, and applications. Where would I even begin?! {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="" >}} 
+I’d been an enthusiastic proponent of an Intranet redesign over the years, but when finally receiving the ‘go-ahead’, I suddenly felt a bit terrified. I felt like an archaeologist, looking upon an excavation site, ancient bones either scattered about, or peeking out from deep within the ground. I was excited to finally dig, brush off, clean, and ponder handling such a delicate assembly. Scattered in the Intranet ‘dust’ were dozens and dozens of internal links, external links, Word documents and PDFs, databases, and applications. Where would I even begin?! {{< legacy-img src="2016/09/600-x-400-Archaeologist-and-student-excavating-Mypurgatoryyears-iStock-Thinkstock-176511372.jpg" alt="Archaeologist and student excavating." caption="" >}} 
 
 ## Shh… Listen! I Hear Something… ****
 
@@ -82,7 +82,7 @@ In actuality, the redesign process started long before I received the official �
 
 <p>
   We decided to use a card sorting exercise and chose an online tool called UsabiliTEST. Participants included members of our Web team, as well as a management analyst from our Executive Office. We all went to work, creating headings, dragging ‘n dropping, and pondering resources to make sure we ‘dropped’ them in all the right buckets.
-</p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="" >}} 
+</p> {{< legacy-img src="2016/09/600-x-363-23658662-buckets-in-a-row-Hemera-Technologies-PhotoObjects.net-Thinkstock-87611438.jpg" alt="Five metal buckets in a row." caption="" >}} 
 
 <p>
   I expected to see some scattered results since we had multiple participants, all with their own thoughts and ideas about how the site should look. Instead, what I saw was common ground and understanding of how our content should be organized. This was one of the most rewarding moments in the process so far &#8211; I could see the structure of a new site coming together! We were now ready to assemble.

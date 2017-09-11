@@ -18,7 +18,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 
 
 In most instances, your hardware and software are developed independently but are expected to function properly together.
 
@@ -59,7 +59,7 @@ That said, when using some automation tools, tests can be automated and executed
 
 Additionally, there are many tools available, such as [emulators and simulators]({{< relref "2015-06-09-the-emulator-dilemma-can-mobile-device-testing-be-completed-without-mobile-devices.md" >}}), that reduce the need for physical devices for testing.
 
-## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
+## How Do You Ensure Your Mobile Application Is Compatible with All of Your Customers’ Devices? {{< legacy-img src="2015/06/600-x-405-Responsive-Web-Design-Elements-macromediam-iStock-Thinkstock-535895521.jpg" alt="Illustration: Responsive Web Design Elements are shown on various screen sizes: television, desktop computer, laptop, tablet, smart phone, smart watch, and ring" caption="" >}} 
 
 The [Federal CrowdSource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}}) is ready to assist you in determining if your application is compatible with the mobile devices your customers are using.
 

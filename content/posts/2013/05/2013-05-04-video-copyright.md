@@ -9,7 +9,7 @@ categories:
   - Video
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic.jpg)
+[{{< legacy-img src="2013/12/b7-copyright-pic-250x157.jpg" alt="A picture of the copyright symbol" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/b7-copyright-pic.jpg)
 
 <div id="content-area">
   <div id="node-5562">

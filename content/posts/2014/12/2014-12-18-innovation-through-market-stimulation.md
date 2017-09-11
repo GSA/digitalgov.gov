@@ -15,7 +15,7 @@ tag:
   - US Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/250-x-250-nutrient-sensor-challenge-logo.jpg" alt="Nutrient Sensor Challenge logo" >}}Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element.
+{{< legacy-img src="2014/12/250-x-250-nutrient-sensor-challenge-logo.jpg" alt="Nutrient Sensor Challenge logo" >}}Crowdsourcing and prize competitions can take many forms, which makes them a great open innovation tool. A large group of federal agencies and other partners has launched a competition that also involves a secondary crowdsourcing element.
 
 The [Nutrient Sensor Challenge](http://www.nutrients-challenge.org/) is a market stimulation prize competition to accelerate the development of affordable, accurate, and reliable sensors for measuring nutrient levels in water.
 

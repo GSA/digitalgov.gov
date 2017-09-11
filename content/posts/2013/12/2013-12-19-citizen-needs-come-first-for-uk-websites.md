@@ -13,7 +13,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg" alt="Photo of Mike Bracken." >}}</a>We have long believed that “governments learn best from other governments” and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when <strong>Michael Bracken</strong>, creator and director of the United Kingdom’s Government Digital Service, spoke to a cadre of Presidential Innovation Fellows and others in the GSA auditorium.
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mike-bracken.jpg">{{< legacy-img src="2013/12/mike-bracken.jpg" alt="Photo of Mike Bracken." >}}</a>We have long believed that “governments learn best from other governments” and encourage far-ranging discussions with experts from other countries, as well as state and local governments.  An example of  this came to fruition when <strong>Michael Bracken</strong>, creator and director of the United Kingdom’s Government Digital Service, spoke to a cadre of Presidential Innovation Fellows and others in the GSA auditorium.
 </p>
 
 <p dir="ltr">

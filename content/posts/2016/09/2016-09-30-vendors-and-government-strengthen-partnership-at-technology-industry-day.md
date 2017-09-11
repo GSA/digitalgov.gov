@@ -38,7 +38,7 @@ tag:
 
 On September 8th, the General Services Administration (GSA) held a Technology Industry Day to talk to industry leaders about the products and solutions developed by our agency and to hear feedback on how we can better engage industry. We’re thrilled that more than 300 members of the technology industry in person and via the live stream were able to join us for this first step towards a closer partnership and more open lines of communication about how we can work together to transform federal technology.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-338-Technology-Industry-Day-title-slide.jpg" alt="Technology Industry Day title slide." >}}
+{{< legacy-img src="2016/09/600-x-338-Technology-Industry-Day-title-slide.jpg" alt="Technology Industry Day title slide." >}}
 
 As GSA Administrator Denise Turner Roth said in her opening remarks, “Government can be ever changing, and I want us to be in partnership in making those changes.” The Technology Transformation Service (TTS) is already absorbing the first-mover risk of introducing modern tools and techniques, but we know that only with the help of industry will this transformation be able to spread across the federal government. As we all bring agile methodologies, human-centered design, and modular design to the government, the opportunity to improve federal digital services is immense.
 

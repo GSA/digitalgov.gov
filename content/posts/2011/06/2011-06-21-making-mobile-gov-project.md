@@ -21,7 +21,7 @@ _Making Mobile Gov was a three phase multi-media project created by the [MobileG
   * _Develop Resources—create an online resource to share information, policies, technology, and other innovations for agencies to accelerate their mobile efforts._
   * _Build Mobile Gov Community—take advantage of current tools—wikis, online discussion tools, social media—to leverage knowledge, experience, and tools across agency boundaries and to respond to rapid changes in technology and adoption._
 _Participants included mobile innovators across the federal government and was sponsored by GSA’s Office of Citizen Services & Innovative Technologies Mobile Program.
-  
+
 _ _We have reprinted all materials from the project in this article _(including videos which are at the bottom)_. For current information on mobile projects in the federal government, please join the [MobileGov Community of Practice]({{< link "categories/mobile" >}} "Mobile") or contact community manager, [Jacob Parcell](mailto:jacob.parcell@gsa.gov)._
 
 This Making Mobile Gov Project is helping agencies work together to make a more open, innovative government to meet 21st century citizen expectations.
@@ -43,7 +43,7 @@ The case for Mobile Gov is driven by:
   * innovations in mobile that can propel new government services/service delivery; and
   * improved transparency through increased access to government data and information.
 
-We live in a time when mobile technology is ubiquitous. A new survey shows that more preschoolers can use a mobile smartphone application than can tie their shoes and this is just one example of how the future will be mobile. One survey predicted that more people will access the internet via mobile than traditional desktops by 2015, however people are now predicting this will happen by 2013. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}} 
+We live in a time when mobile technology is ubiquitous. A new survey shows that more preschoolers can use a mobile smartphone application than can tie their shoes and this is just one example of how the future will be mobile. One survey predicted that more people will access the internet via mobile than traditional desktops by 2015, however people are now predicting this will happen by 2013. {{< legacy-img src="2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="" >}} 
 
 Government agencies fit into this schema in that they can use mobile technologies to achieve their missions and better serve the American public. Mobile allows agencies to get information to—and potentially engage—the public efficiently and creatively while collaborating with other. Collaboration and opening up agency data stores can also provide efficiencies. For example, agencies combined data from four different data sets in the Product Recalls app. Alone, a single agency could not provide all the product, food, and vehicle recall data that people want, but by bringing the data together and making it available on mobile, useful and effective data is placed in the hands of consumers and other agencies.
 
@@ -59,7 +59,7 @@ This report was developed in collaboration with the Mobile Gov Community of Prac
 
 ## Discuss
 
-### Mobile Strategy {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-245-mobile-strategy-Tablet-and-sketches-business-plan-cherezoff-iStock-Thinkstock-486764643.jpg" alt="Strategy sketches above a mobile tablet" caption="" >}} 
+### Mobile Strategy {{< legacy-img src="2014/08/250-x-245-mobile-strategy-Tablet-and-sketches-business-plan-cherezoff-iStock-Thinkstock-486764643.jpg" alt="Strategy sketches above a mobile tablet" caption="" >}}
 
 Sound mobile strategy is a necessity for agencies to create efficient, innovative, expectation meeting, transparent, citizen-facing mobile products.The agencies we talked to encountered these scenarios and concerns when they developed (or didn’t develop) mobile strategies.
 
@@ -96,7 +96,7 @@ A number of agencies favor mobile Web because of the complexity of choice when c
 Other agencies wanting to take advantage of the features of the device and to provide a richer experience for users have opted to create native apps.
 
 Some agencies that have approved apps are targeting mobile Web first. If the requirements for a particular app cannot be met by a mobile website, the agency requires that the app be developed for all platforms – iPhone, Android, Blackberry, Windows. Some agencies take a dual strategy where they create a native app on one platform and a “mobile Web” version for other platforms.
-  
+
 Staff at one agency requiring that the native apps be developed on multiple platforms was concerned that they might appear to favor one platform over another if they selected one.
 
 A few agencies have looked to platform market share when making decisions about which platforms to use. This has been a moving target, as market share has been changing rapidly. One agency said it was not going to develop for devices that its audience did not use.
@@ -105,7 +105,7 @@ The challenge with multiple platform development is that the agency has to dupli
 
 Please scroll to the end to see accompanying video.
 
-### Mobile Compliance & Legal {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/250-x-180-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 
+### Mobile Compliance & Legal {{< legacy-img src="2013/10/250-x-180-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}}
 
 Mobile projects – like everything we do – need to comply with federal laws and regulations. The agencies we spoke to encountered these scenarios and concerns when faced with compliance and legal policies.
 
@@ -151,7 +151,7 @@ Also, some simple promotion efforts are blocked because of inexperience. Securit
 
 Please scroll to the end to see accompanying video.
 
-### Privacy and Identity Management {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-376-Usa-flag-Fingerprint-Zoonar-RF-Zoonar-Thinkstock-127032369.jpg" alt="The American flag as a fingerprint" caption="" >}} 
+### Privacy and Identity Management {{< legacy-img src="2014/07/250-x-376-Usa-flag-Fingerprint-Zoonar-RF-Zoonar-Thinkstock-127032369.jpg" alt="The American flag as a fingerprint" caption="" >}}
 
 Agencies have to be vigilant with privacy and identity management on mobile products&#8211;especially with the availability of location and personal data on these devices. The agencies we spoke to encountered a number of scenarios and concerns regarding privacy and identity management.
 
@@ -186,7 +186,7 @@ Data and infrastructure standards can help agencies improve the quality and deve
 Agencies want consistent data standards. Only a few agencies have built infrastructure to ensure consistent, efficient data design and have made data available for 3rd party use for all they will develop.
 
 Agencies said there are many examples of apps that “could” be if the ownership and availability issues were resolved.
-  
+
 Some agencies are concerned about a lack of standard branding of agency apps.
 
 Some agencies have simplified data consumption for developers by submitting data to sites like Data.gov (link to data.gov) and have found it brings down the barriers because it creates a single open Application Programming Interface (API) for developers.

@@ -36,7 +36,7 @@ To deliver innovations quickly and cost-effectively, Catalyst uses a four phase 
 
 The Catalyst model has proven effective in time, cost, and magnitude. In comparison to Small Business Innovation Research (SBIR) grants, Catalyst moves twice as fast as SBIR phase 1, and for 1/10th the cost of SBIR phase 2 awards, according to Contreras. For the Solar Apps challenge, 17 products were prototyped in 90 days.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-388-SUNSHOT-InfoGraphic_v2.jpg" alt="D.O.E. SunShot program graphics" >}}
+{{< legacy-img src="2015/08/600-x-388-SUNSHOT-InfoGraphic_v2.jpg" alt="D.O.E. SunShot program graphics" >}}
 
 Currently, Catalyst is in its [second challenge cycle](http://catalyst.energy.gov/a/pages/schedule). To date, more than 200 problems have been crowdsourced, and video pitches will be accepted until August 14th.
 

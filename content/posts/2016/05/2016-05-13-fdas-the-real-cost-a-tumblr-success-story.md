@@ -14,7 +14,7 @@ tag:
 
 FDA’s “The Real Cost” campaign aims to be edgy, just like its teen audience. Last month, the campaign won the [2016 Shorty Award for the Best Overall Tumblr Presence](http://shortyawards.com/8th/the-real-cost-reaching-youth-at-risk-of-experimenting-with-cigarettes).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-333-FDA-The-Real-Cost-campaign-tumblr-homepage.jpg" alt="FDA The Real Cost campaign tumblr homepage." >}}
+{{< legacy-img src="2016/04/600-x-333-FDA-The-Real-Cost-campaign-tumblr-homepage.jpg" alt="FDA The Real Cost campaign tumblr homepage." >}}
 
 “The Real Cost” educates youth ages 12 to 17 about the harmful effects of tobacco use. The campaign works to prevent teens from picking up cigarettes or trying other tobacco products. The audience isn’t just any teens out there; it’s specifically teens who are open to trying tobacco.
 

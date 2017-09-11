@@ -20,7 +20,7 @@ Gone are the days when you have to drive miles on a hot and humid afternoon or a
 
 Categorized under business, the **USPS Mobile®** app services customers’ postal needs. You can download this app for [iOS (iPhones & iPad)](https://itunes.apple.com/us/app/usps-mobile/id339597578?mt=8) and [Androids](https://play.google.com/store/apps/details?id=com.usps&hl=en). The app is user friendly and the intuitive home screen directs customers to available services with eye-catching icons.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-518-USPS-Mobile-iPhone-app-home-menu-and-tracking-screens.jpg" alt="USPS Mobile iPhone app home menu and tracking screens" >}}
+{{< legacy-img src="2015/11/600-x-518-USPS-Mobile-iPhone-app-home-menu-and-tracking-screens.jpg" alt="USPS Mobile iPhone app home menu and tracking screens" >}}
 
 So what can this app do for you?
 
@@ -28,7 +28,7 @@ The USPS Tracking tool allows you to check the status of your shipments sent usi
 
 The app allows you to calculate domestic or international price to determine how much postage you will need when you ship a letter, card, large envelope or package with some limitations. You can choose retail or online pricing, add any extra services you need and view the total, too.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/250-x-444-USPS-Mobile-iPhone-app-notifications.jpg" alt="USPS Mobile iPhone app notifications screen" >}}You are able to locate a post office, self-service kiosk or a collection box with an easy-to-filter locator. The app uses your device’s GPS to show your closest options on a map, along with their hours of operation, last collection times and provides mapped results with driving, walking or transit directions.
+{{< legacy-img src="2015/11/250-x-444-USPS-Mobile-iPhone-app-notifications.jpg" alt="USPS Mobile iPhone app notifications screen" >}}You are able to locate a post office, self-service kiosk or a collection box with an easy-to-filter locator. The app uses your device’s GPS to show your closest options on a map, along with their hours of operation, last collection times and provides mapped results with driving, walking or transit directions.
 
 You are able to lookup the zip-code for any address and schedule a free next-day pickup from your home or office during regular mail delivery. After scheduling a next-day pickup, you will get an email confirmation when you make the request, when your package is picked up or if you modify or cancel your request. For added convenience, the app allows customers to access to their saved contact lists on their device.
 

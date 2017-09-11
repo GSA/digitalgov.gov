@@ -23,7 +23,7 @@ tag:
 
 About a year and a half ago, the Federal Citizen Information Center—today called USAGov—embarked on a very ambitious task: integrating our content operations. We blurred lines that defined silos and adopted a bilingual content approach to offer a more consistent experience, regardless of language preference or point of access to our information. See [more about our rebirth]({{< relref "2014-05-12-video-blog-sarah-crane-usa-gov.md" >}}).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-520-USAgov-Bilingual-Content-Style-Guide.jpg" alt="USA gov Bilingual Content Style Guide" >}}
+{{< legacy-img src="2016/04/600-x-520-USAgov-Bilingual-Content-Style-Guide.jpg" alt="USA gov Bilingual Content Style Guide" >}}
 
 As we were figuring out our new content model, we saw the need to reinvent our style guidelines to reflect our new organization. So we did our research. We looked at the [UK Style Guide](https://www.gov.uk/guidance/style-guide), the Canadian [City of Surrey Style Guide](http://responsiveprocess.com/surrey/guide/writing/web-guide-checklist/), and several others. We were on the right track to create one place where all guidance would reside, in both languages, and that&#8217;s how the [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents) was born.
 

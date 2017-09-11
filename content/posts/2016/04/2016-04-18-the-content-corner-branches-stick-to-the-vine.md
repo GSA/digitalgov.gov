@@ -22,7 +22,7 @@ tag:
   - UX
 ---
 
-A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into insignificance. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-400-Napa-Valley-Grape-Vine-closeup-in-Spring-bbourdages-iStock-Thinkstock-106443252.jpg" alt="Rows of vines at a Napa Valley vineyard in spring" caption="" >}} 
+A branch that does not stick to its source of nutrition will wither away and die. Just ask anyone who has received a bouquet of beautiful flowers about how long they really last. In the same way, as communicators we must stay connected to our audience, or we risk the chance of fading away into insignificance. {{< legacy-img src="2016/04/600-x-400-Napa-Valley-Grape-Vine-closeup-in-Spring-bbourdages-iStock-Thinkstock-106443252.jpg" alt="Rows of vines at a Napa Valley vineyard in spring" caption="" >}} 
 
 First-time visitors are great, but return visitors are your loyal following. In the argument of whether to target your current audience or seek to grow more, why not stick your focus on equipping your current audience with ways and incentives to share your content? By drawing them in with excellent content, design, and follow-up methods, you can turn your blog readers into action takers.
 
@@ -60,7 +60,7 @@ This is a fact that cannot be overstated, regardless of platform (blog, social m
     
     <p>
       Implementing a few of these tips should help as you seek to draw and keep your audience. What interesting things has your agency done to foster an environment that keeps your audience?
-    </p> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/04/600-x-391-Cherry-Blossom-Tree-Byron-Moore-Hemera-Thinkstock-99226800.jpg" alt="A close-up on Japanese cherry blossoms in Washington, D.C." caption="" >}} 
+    </p> {{< legacy-img src="2016/04/600-x-391-Cherry-Blossom-Tree-Byron-Moore-Hemera-Thinkstock-99226800.jpg" alt="A close-up on Japanese cherry blossoms in Washington, D.C." caption="" >}} 
     
     <p>
       <i>In a future post, I’ll discuss some strategies to keep content alive, so like the aforementioned branches and our beloved D.C.-area Cherry Blossoms, it doesn’t just wither and die.</i>

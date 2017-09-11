@@ -13,7 +13,7 @@ tag:
 
 This week we’re excited to celebrate FedRAMP’s fifth birthday! The program has come a long way over the past five years, as we have been able to grow and transform the program to continue meeting our partners’ evolving needs.
 
-{{< legacy-img src="CDN/files/2017/06/600-x-229-FedRAMP-Happy-5th-Bithday-19.jpg" alt="Banner graphic with new logo and cupcake for FedRAMP's 5th birthday." >}}
+{{< legacy-img src="2017/06/600-x-229-FedRAMP-Happy-5th-Bithday-19.jpg" alt="Banner graphic with new logo and cupcake for FedRAMP's 5th birthday." >}}
 
 FedRAMP achieved initial operational capability in 2012. We launched FedRAMP.gov that year as our primary communication and outreach channel. Since then, we have continued to iterate based on the voice of the customer and have expanded our outreach to include such activities as training, weekly tips, a user-centered marketplace and dashboard, and the Focus on FedRAMP blog.
 

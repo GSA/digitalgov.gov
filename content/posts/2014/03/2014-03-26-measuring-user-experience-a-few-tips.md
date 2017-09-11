@@ -21,7 +21,7 @@ With a calculated process, the right tools, and a staff willing to make it work,
 
 In a recent DigitalGov University webinar entitled “Measuring User Experience”, UX supporters and practitioners heard from Achaia Walton, Senior Digital Analyst at the Department of Health and Human Services, about finding what critical things to measure to make websites more user-friendly. In case you couldn’t attend the webinar in-person, here are some of the main points:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/600-x-310-MeasuringUXSliderSized-774x400.jpg" alt="The steps to measuring UX" >}}
+{{< legacy-img src="2014/03/600-x-310-MeasuringUXSliderSized-774x400.jpg" alt="The steps to measuring UX" >}}
 
 ## Define Goals
 

@@ -13,7 +13,7 @@ tag:
   - US Environmental Protection Agency
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}
+{{< legacy-img src="2014/05/600-x-400-Video-Shoot-Common-Mistakes-in-Government-Video.jpg" alt="Outdoor Video Shoot example for Common Mistakes in Government Video" >}}
 
 Videographers in the federal government come from a variety of backgrounds—commercial television news, the armed services or broadcast/film school. Many of these individuals continue to hone their craft through the years, adopting new technology, taking training courses, learning new editing software, and expanding skill sets to add graphics, animation and photography capabilities to their production toolbox.
 
@@ -29,7 +29,7 @@ If your video looks like a remake of the Blair Witch Project, then you’re guil
 
 When you put a lavalier microphone on your interview subject, take a few seconds to hide the wire. There’s nothing worse than seeing a cable running down the front of a person’s outfit. Your viewer is now caught up in the technical aspect of your video and is likely not paying attention to a word your interviewee is saying. If the person is not wearing a jacket or tie, ask them to run the cable up under their clothing or run it up along their back and tuck the cable into their neckline. Be respectful and turn around when they do this, or talk them through the process. You are invading their personal space after all.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Mic-Wire-Common-Mistakes-in-Government-Video.jpg" alt="Mic Wire eaxmple for Common Mistakes in Government Video" >}}
+{{< legacy-img src="2014/05/600-x-400-Mic-Wire-Common-Mistakes-in-Government-Video.jpg" alt="Mic Wire eaxmple for Common Mistakes in Government Video" >}}
 
 ## There&#8217;s Something On My Head
 
@@ -43,7 +43,7 @@ It doesn’t matter how many lights you have on location—unless perhaps you ha
 
 Fluorescent lighting may be efficient for office buildings, but they cast some pretty unflattering light. Most fluorescent tubes have a green cast, which highlights all the imperfections on a person’s face. If you have to interview someone in an office setting, turn off the overhead lights and use portable lights to illuminate the set, move them closer to a window so that natural sunlight falls on their face, or better yet, move them outdoors.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-Fluorescent-Lights-Common-Mistakes-in-Government-Video.jpg" alt="Fluorescent Lights example for Common Mistakes in Government Video" >}}
+{{< legacy-img src="2014/05/600-x-400-Fluorescent-Lights-Common-Mistakes-in-Government-Video.jpg" alt="Fluorescent Lights example for Common Mistakes in Government Video" >}}
 
 ## Up the Nose
 
@@ -63,7 +63,7 @@ Watch out for light streaming through trees; this can cause some weird plays of 
 
 Ever seen someone who resembles a Smurf, or may just be redder than usual? Different lights are different colors, so it’s critical to set your ‘white balance’ at every location to tell the camera sensor what type of light you’re shooting under. Yes, there’s an auto setting on your camera, but it’s not perfect, so leaving it in auto mode is one way to get a weird color cast in your footage.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-400-White-Balance-1-Common-Mistakes-in-Government-Video.jpg" alt="White Balance example for Common Mistakes in Government Video" >}}
+{{< legacy-img src="2014/05/600-x-400-White-Balance-1-Common-Mistakes-in-Government-Video.jpg" alt="White Balance example for Common Mistakes in Government Video" >}}
 
 ## Did You Hear That?
 

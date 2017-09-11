@@ -11,7 +11,7 @@ tag:
   - open data
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226.jpg" alt="600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226" >}}
+{{< legacy-img src="2014/12/600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226.jpg" alt="600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226" >}}
 
 For months, I’ve been trying to figure out how to get leads for the OMB External Use Open Data Survey responses. I’ve attended Google Analytics seminars, asked for survey responses from some of our public facing sites, added a data request form to our /data page, and begged for leads from program owners. The result was very few leads and no indication of whether or not they were people who actually were looking for our data, used our data or just had a website resource access issue. Then one day, it just dawned on me—Freedom of Information Act (FOIA) requests!
 

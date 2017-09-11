@@ -22,7 +22,7 @@ tag:
 
 Last summer, Kids.Gov [revamped](https://blog.usa.gov/how-kids-gov-pins-down-their-audiences) its presence on [Pinterest](https://www.pinterest.com/kidsgov/) in an attempt to find new ways to connect with its followers.
 
-The Marketing Team set out to learn more about our audiences and the kind of content they like. Despite being a difficult platform to navigate, we set lofty goals for ourselves and developed a timely strategy to pin every day. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-400-I-love-pin-interest-zakokor-iStock-Thinkstock-177385623.jpg" alt="A red pin, a plus sign and the word interest on a yellow heart." caption="" >}} 
+The Marketing Team set out to learn more about our audiences and the kind of content they like. Despite being a difficult platform to navigate, we set lofty goals for ourselves and developed a timely strategy to pin every day. {{< legacy-img src="2016/06/600-x-400-I-love-pin-interest-zakokor-iStock-Thinkstock-177385623.jpg" alt="A red pin, a plus sign and the word interest on a yellow heart." caption="" >}} 
 
 ## A year in…
 
@@ -66,6 +66,6 @@ Perhaps the biggest lesson came from one of our early predictions. Like with oth
 
 Our hope moving forward is to learn more about the Pinterest audience and begin to predict certain topics and when they will be popular. Pinterest is still a challenge to our marketing team, but one we gladly approach and look forward to understanding.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/06/600-x-742-Kidsgov-Pinterest-2016.jpg" alt="Screen capture of 2 boards on the Kids.gov Pinterest page." >}}
+{{< legacy-img src="2016/06/600-x-742-Kidsgov-Pinterest-2016.jpg" alt="Screen capture of 2 boards on the Kids.gov Pinterest page." >}}
 
 _This post was originally published on the [USA.gov blog](https://blog.usa.gov) by Edgardo Morales and Phat Nguyen; members of the USAGov Marketing Team._

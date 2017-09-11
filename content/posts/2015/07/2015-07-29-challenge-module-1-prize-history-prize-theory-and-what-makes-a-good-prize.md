@@ -12,7 +12,7 @@ tag:
   - USAID
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
+{{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
 Two powerhouses in the Challenge and Prize community came together at GSA for the [first in a seven-part learning series]({{< relref "2015-07-14-challenge-gov-program-launches-new-training-opportunities.md" >}}) recently. Chris Frangione, Vice President of Prize Development for the XPrize and Alexis Bonnell, Innovation Evangelist at USAID offered insights and background into what makes a great ideation competition, sharing case studies and the history of prizes during the webinar.
 
@@ -31,4 +31,4 @@ Bonnell’s insight and expertise echoed Frangione&#8217;s in terms of learning 
 
 She introduced the Global Innovation Exchange during the webinar. The website, currently in BETA, connects the community of innovators, collaborators and funders in a single, FREE location. You can get the username and password to access the site by [viewing the webinar](https://www.youtube.com/watch?v=i0_CgUfHL04&feature=youtu.be). Bonnell inspires action saying “You have the power to change the world.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-380-Alexis-Bonnell-and-Chris-Frangione-discuss-Challenge-and-Prize-competitions.jpg" alt="Alexis Bonnell and Chris Frangione discuss Challenge and Prize competitions during the GSA-sponsored webinar: Prize History, Prize Theory and What Makes a Good Prize." >}}
+{{< legacy-img src="2015/07/600-x-380-Alexis-Bonnell-and-Chris-Frangione-discuss-Challenge-and-Prize-competitions.jpg" alt="Alexis Bonnell and Chris Frangione discuss Challenge and Prize competitions during the GSA-sponsored webinar: Prize History, Prize Theory and What Makes a Good Prize." >}}

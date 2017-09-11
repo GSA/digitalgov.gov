@@ -12,7 +12,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
+{{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 
 When I first started coding using BASIC on the Commodore 64, I rarely documented my programs. Neither did many of my fellow programmers which led to numerous hours trying to figure out just exactly how a program worked. Documentation became more vital as programs became more feature rich and complex. In the API world, there are a number of documentation standards to choose from when documenting an API.
 

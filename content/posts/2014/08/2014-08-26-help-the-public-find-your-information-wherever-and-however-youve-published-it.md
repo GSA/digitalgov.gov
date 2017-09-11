@@ -20,7 +20,7 @@ tag:
   - open source
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-167-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" alt="Think Outside The Box Concept" caption="" >}} 
+{{< legacy-img src="2014/08/250-x-167-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" alt="Think Outside The Box Concept" caption="" >}} 
 
 As traffic to desktop .gov websites declines, how we publish our content increasingly matters. We need to meet people where they are as they seek information on the Internet. To do so, we need to adjust to the new world of mobile applications, social media, and instant answers provided by search engines.
 

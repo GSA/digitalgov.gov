@@ -20,7 +20,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-330-Slow-Connection-Speed-Internet-Jrcasas-iStock-Thinkstock-164483907.jpg" alt="Slow Connection Speed Internet" caption="" >}} 
 
 In the mobile world, every second matters.
 

@@ -15,7 +15,7 @@ tag:
 
 One of the questions we get asked the most at [FedRAMP](https://www.fedramp.gov/) from our vendors is: “How much will it cost me to get through FedRAMP?” One of the reasons this is a hard question to answer is that comparing cloud providers to each other isn’t even like trying to compare apples to oranges – those are both at least fruit. Comparing a global content distribution network to a government only ticketing and CRM solution and then comparing to a web-based agile project management tool is like comparing an apple to a bike to a television. The size, complexity, and scope of services of the systems varies greatly and makes a comparison incredibly hard.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-430-fedramp-their-Screen-Shot-2016-09-08-at-10.34.00-AM.jpg" alt="Money and time symbols" >}}
+{{< legacy-img src="2016/09/600-x-430-fedramp-their-Screen-Shot-2016-09-08-at-10.34.00-AM.jpg" alt="Money and time symbols" >}}
 
 But, just because a question is hard to answer doesn’t mean I shy away from trying to answer it. Recently I engaged with 4 of our cloud service providers to ask them to help us identify the overall costs for going through FedRAMP. In order to have a good place to start, I chose 4 vendors who were relatively similar. All 4 vendors owned their own infrastructure, three were IaaS solutions, one a SaaS solution. **They all also went through the JAB for their authorization through the old process prior to** [**FedRAMP Accelerated**](https://www.fedramp.gov/participate/fedramp-accelerated-process/). When talking to these providers, we knew there were lots of factors to consider in overall cost, so we tried to break it down into five main areas:
 

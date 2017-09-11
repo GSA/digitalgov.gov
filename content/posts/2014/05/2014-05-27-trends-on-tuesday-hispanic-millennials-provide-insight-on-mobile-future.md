@@ -15,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-165-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
+{{< legacy-img src="2014/05/250-x-165-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 
 
 If you’re a frequent Trends on Tuesday reader, you may recall our post titled, “<a title="Latinos Embrace the Mobile Future" href="{{< relref "2013-08-20-trends-on-tuesday-latinos-embrace-the-mobile-future.md" >}}" target="_blank">Latinos Embrace the Mobile Future</a>,” which outlined several key categories where Latinos have adopted mobile technology faster than other groups. A <a title="new report" href="http://www.mobilemarketer.com/cms/news/research/17535.html" target="_blank">new report</a> by Univision and the Interactive Advertising Bureau, took an in-depth look at the mobile habits of Hispanic millennials, revealing that these tech-savvy, young adults not only embrace the mobile future, but may shape what the mobile future will look like.
 

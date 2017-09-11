@@ -12,7 +12,7 @@ tag:
   - API
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+{{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
 
 Similar to website analytics, API analytics focus on reliably reporting the metrics which are most useful to its stakeholders. There are a many ways of collecting, reporting, and consuming API analytics but all revolve around the industry–accepted norm that some form of analytics are crucial to any API program. The most basic metrics will track the number of API registrations and the number of API requests, but as important as understanding how much an API is used is understanding how it is used.
 

@@ -48,7 +48,7 @@ The core model workshop outlined here is the first stage of [a bigger design pro
   * 1-3 participants from your team (e.g., designers, UX, content, developers, and so forth)
   * 6-14 stakeholders from relevant fields or departments in the organization
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-425-Core-Model-workshop-sheet.jpg" alt="Screen capture of the Core Model Workshop sheet." >}}
+{{< legacy-img src="2016/11/600-x-425-Core-Model-workshop-sheet.jpg" alt="Screen capture of the Core Model Workshop sheet." >}}
 
 ## The Process
 
@@ -56,7 +56,7 @@ The core model workshop outlined here is the first stage of [a bigger design pro
 
 This is done by evaluating the business objectives and user tasks.  Participants should have reviewed and identified these prior to the workshop.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-400-geiler\_Core-Model\_user-tasks-venn-diagram.jpg" alt="A Venn diagram indicates that by evaluating the business goals and user tasks, you can identify the core pages." >}}
+{{< legacy-img src="2016/11/600-x-400-geiler\_Core-Model\_user-tasks-venn-diagram.jpg" alt="A Venn diagram indicates that by evaluating the business goals and user tasks, you can identify the core pages." >}}
 
 ### **2) Determine Inward Paths**
 

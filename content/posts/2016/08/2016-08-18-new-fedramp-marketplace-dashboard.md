@@ -17,7 +17,7 @@ tag:
 
 We’re incredibly excited to announce the launch of the new [FedRAMP Marketplace dashboard](http://marketplace.fedramp.gov/)! It’s loaded with all sorts of ways for you to see how everyone is participating with FedRAMP!
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-344-FedRAMP-Marketplace-Dashboard.jpg" alt="Screen capture of the FedRAMP Marketplace Dashboard." >}}
+{{< legacy-img src="2016/08/600-x-344-FedRAMP-Marketplace-Dashboard.jpg" alt="Screen capture of the FedRAMP Marketplace Dashboard." >}}
 
 When we launched the FedRAMP Marketplace about 3 years ago, our intent was to create a place for agencies and cloud service providers (CSPs) to connect. As FedRAMP has grown, so has our marketplace. It’s become a space where all of you interact – CSPs, agencies, and third party assessment organizations (3PAOs) – and in more than just a one way interaction. The more deeply and varied you have begun to interact, the more information and functionality you’ve expressed you’d like to see. We’ve responded by continuing to grow and segment the marketplace by introducing categories such as FedRAMP Ready and In-Process for our CSPs, identifying which agencies have authorized CSPs for use, and even which 3PAO assessed authorized CSPs. As we continued to introduce these new categories within the marketplace, our website didn’t always provide a graceful way for people to interact.
 

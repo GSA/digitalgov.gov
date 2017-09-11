@@ -20,7 +20,7 @@ tag:
   - Plain language
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Composite-image-of-social-network-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488640955.jpg" alt="Composite image of social network background" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Composite-image-of-social-network-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488640955.jpg" alt="Composite image of social network background" caption="" >}} 
 
 Digital communities of practice come in many stripes. [DigitalGov communities span eight (and counting) focus areas]({{< relref "communities.md" >}}) and have thousands of members, but strong collaborations exist in all corners of government.
 

@@ -17,7 +17,7 @@ tag:
   - USDA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
 Innovators are made, not born. This summer, the Food and Drug Administration (FDA) began cultivating the next generation of federal innovators through a summer incubator boot camp, aimHI.
 

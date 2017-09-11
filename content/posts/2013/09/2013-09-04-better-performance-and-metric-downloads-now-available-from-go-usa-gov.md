@@ -13,7 +13,7 @@ tag:
   - USAgov
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg" alt="Go.USA.gov logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg)A few weeks ago, the [Go.USA.gov](https://go.usa.gov/) URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links.
+[{{< legacy-img src="2013/09/goUSAgov-image.jpg" alt="Go.USA.gov logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/goUSAgov-image.jpg)A few weeks ago, the [Go.USA.gov](https://go.usa.gov/) URL shortener introduced several new features to improve the user experience. Go.USA.gov now offers users faster speeds and downloadable metric information about their links.
 
 The service, which launched in 2009, gives government agencies the ability to provide trustworthy shortened links to their audience.
 

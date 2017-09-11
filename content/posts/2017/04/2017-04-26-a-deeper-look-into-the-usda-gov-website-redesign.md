@@ -24,7 +24,7 @@ We hope you are finding it easier to get the information you need on USDA.gov fo
 
 Our redesign makes it easier for you to get the news you care about quickly and get on with your busy life. Now, you can explore “USDA in Action,” an area designed to quickly share what’s happening across the department. And another friendly feature is being able to [sign up for email updates](https://public.govdelivery.com/accounts/USDAOC/subscriber/new) with the click of a button from any page on the site. It’s all part of our strategic efforts to improve upon digital communications across USDA, strengthen collaboration with all of our USDA agencies, and expand our digital capabilities.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-425-usdagov-site-blog-042017_0.jpg" alt="Find the information you need, faster, with the redesigned USDA.gov website." >}}
+{{< legacy-img src="2017/04/600-x-425-usdagov-site-blog-042017_0.jpg" alt="Find the information you need, faster, with the redesigned USDA.gov website." >}}
 
 Through our redesign, we were able to introduce new design elements from the [U.S. Web Design Standards](https://standards.usa.gov/) that help to make the site more intuitive. Our primary goals for the redesign included highlighting more social and engaging information and placing it right at your fingertips; making better use of real estate on our homepage; enhancing our site search to help you get to information faster; improving the site’s information architecture; and implementing responsive design across the entire site to provide a better viewing experience from any device.
 

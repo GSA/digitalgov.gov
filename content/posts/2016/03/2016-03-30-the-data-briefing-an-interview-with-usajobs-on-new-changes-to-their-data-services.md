@@ -25,7 +25,7 @@ tag:
 
 The Office of Personnel Management released a new look and functionality to [USAJOBS](https://www.usajobs.gov/) in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the [changes to USAJOBS](https://www.usajobs.gov/ResourceCenter/SpotlightDetails/?contentID=1137) and the data it provides.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-345-Screen-cap-of-the-USAJobsgov-homepage.jpg" alt="Screen capture of the desktop version of the U.S.A. Jobs website homepage" >}}
+{{< legacy-img src="2016/03/600-x-345-Screen-cap-of-the-USAJobsgov-homepage.jpg" alt="Screen capture of the desktop version of the U.S.A. Jobs website homepage" >}}
 
 ## 1. What are the priorities this year for the USAJOBS team and the site?
 
@@ -39,7 +39,7 @@ The Office of Personnel Management released a new look and functionality to [USA
 
 USAJOBS hopes to continue to act as a trusted public service career platform that creates a responsive and transparent experience for its users. USAJOBS will help applicants identify exciting opportunities to join the government that best match their unique capabilities.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-350-USAjobs-map-search-page-shows-8521-available-jobs-worldwide.jpg" alt="The Map Search page of the U.S.A. Jobs website shows a data visualization map of the globe with 8,521 available positions worldwide on March 29, 2016." >}}
+{{< legacy-img src="2016/03/600-x-350-USAjobs-map-search-page-shows-8521-available-jobs-worldwide.jpg" alt="The Map Search page of the U.S.A. Jobs website shows a data visualization map of the globe with 8,521 available positions worldwide on March 29, 2016." >}}
 
 ## 2. What kind of data is available in USAJOBS that would be of interest to app developers?
 
@@ -49,7 +49,7 @@ USAJOBS hopes to continue to act as a trusted public service career platform tha
 
 “We leverage the Innovation Lab at OPM to facilitate human-centered design research, design architecture and Web design to create new visualization tools that are being utilized in the Agency Talent Portal. They have helped us to gain a deeper understanding of the needs of our users and have supported a more holistic approach to Web design that allows USAJOBS to more accurately represent and meet those needs.”
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/250-x-824-USAJobsgov-mobile-website-on-Android-smartphone.jpg" alt="Screen capture of the mobile version of the U.S.A. Jobs website homepage on an Android smartphone." >}}
+{{< legacy-img src="2016/03/250-x-824-USAJobsgov-mobile-website-on-Android-smartphone.jpg" alt="Screen capture of the mobile version of the U.S.A. Jobs website homepage on an Android smartphone." >}}
 
 ## 4. Any plans to update the USAJOBS mobile app?
 

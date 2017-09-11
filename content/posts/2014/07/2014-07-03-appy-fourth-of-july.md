@@ -15,7 +15,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-410-July-4th-Fireworks-Washington-DC-by-Carol-M-Highsmith-2007-04460a.jpg" alt="Fireworks over Washington, D.C., July 4, 2007 by Carol M. Highsmith" caption="" >}} 
+{{< legacy-img src="2014/07/600-x-410-July-4th-Fireworks-Washington-DC-by-Carol-M-Highsmith-2007-04460a.jpg" alt="Fireworks over Washington, D.C., July 4, 2007 by Carol M. Highsmith" caption="" >}} 
 
 Washington.
 

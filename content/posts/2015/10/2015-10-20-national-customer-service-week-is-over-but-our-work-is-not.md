@@ -20,7 +20,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="" >}} 
+{{< legacy-img src="2015/10/600-x-400-Man-builds-rating-Palto-iStock-Thinkstock-527857125.jpg" alt="Man builds rating" caption="" >}} 
 
 Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience.
 

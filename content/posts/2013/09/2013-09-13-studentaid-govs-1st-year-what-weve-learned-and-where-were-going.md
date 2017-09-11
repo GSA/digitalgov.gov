@@ -14,7 +14,7 @@ tag:
   - US Department of Education
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/federal-student-aid.jpg" alt="federal student aid" >}}
+{{< legacy-img src="2014/01/federal-student-aid.jpg" alt="federal student aid" >}}
 
 _Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid. Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._
 

@@ -16,7 +16,7 @@ tag:
 
 GSA unveiled a refreshed GSA.gov website yesterday with a more crisp design layout, improved usability, and features geared more toward mobile users.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-294-GSAgov-new-web-page.jpg" alt="600-x-294-GSAgov-new-web-page" >}}
+{{< legacy-img src="2015/11/600-x-294-GSAgov-new-web-page.jpg" alt="600-x-294-GSAgov-new-web-page" >}}
 
 Increasingly, website traffic is coming from mobile users. With this in mind, GSA unveiled a newly refreshed [GSA.gov](http://www.gsa.gov/portal/category/100000) website on Nov. 16.
 

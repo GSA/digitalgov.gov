@@ -19,7 +19,7 @@ _This is post 3 in the 5-part series [The Right Tools for the Job: Re-Hosting Di
 
 > “All problems in computer science can be solved by another level of indirection, except of course for the problem of too many indirections.” &#8211; [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist))
 
-The simplest of our four requirements was to allow customers to choose whether to use the <tt>search.usa.gov</tt> domain for their search results page, or create a “masked” domain name such as <tt>search.someagency.gov</tt>. While only about 1/4 of customer agencies use them, half of our search traffic comes through masked domains. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}} 
+The simplest of our four requirements was to allow customers to choose whether to use the <tt>search.usa.gov</tt> domain for their search results page, or create a “masked” domain name such as <tt>search.someagency.gov</tt>. While only about 1/4 of customer agencies use them, half of our search traffic comes through masked domains. {{< legacy-img src="2016/08/600-x-400-Search-bar-on-virtual-screen-Gajus-iStock-Thinkstock-178761722.jpg" alt="Search bar on virtual screen." caption="" >}} 
 
 In our previous infrastructure, the customer would create a [CNAME](https://en.wikipedia.org/wiki/CNAME_record) in their own DNS zone to point <tt>search.someagency.gov</tt> to the edge servers for <tt>search.usa.gov</tt>, and we had to register the customer’s domain mask with our DNS provider. All our customers used the same CNAME: <tt>search.usa.gov.old-cdn-waf-provider.net</tt>
 

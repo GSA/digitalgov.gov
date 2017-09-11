@@ -15,7 +15,7 @@ tag:
   - US National Park Service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}
+{{< legacy-img src="2015/06/600-x-300-NPS-Liberty-still-from-promo-video.jpg" alt="Park logo over Statue of Liberty from NPS promo video" >}}
 
 Planning your next national park adventure (from the comfort of your couch) is easier than ever with a new website, [Find Your Park.com](http://findyourpark.com/).
 
@@ -31,7 +31,7 @@ NPF intentionally designed the website to be shallow: the majority of content is
 
 A tagging feature was created so that metadata from NPS.gov is pulled over to the FindYourPark.com website, including information about [centennial events](http://findyourpark.com/find#centennial_events) and [maps for finding public lands](http://findyourpark.com/find).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-300-NPS-Find-your-Park-map-474-locations-across-US-including-PR-and-Virgin-Islands.jpg" alt="NPS Find Your Park map shows 474 locations across the United States including Puerto Rico and Virgin Islands" >}}
+{{< legacy-img src="2015/06/600-x-300-NPS-Find-your-Park-map-474-locations-across-US-including-PR-and-Virgin-Islands.jpg" alt="NPS Find Your Park map shows 474 locations across the United States including Puerto Rico and Virgin Islands" >}}
 
 ## Promoting #FindYourPark on Social Media
 

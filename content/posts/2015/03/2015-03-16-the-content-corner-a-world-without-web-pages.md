@@ -17,7 +17,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-415-Global-Communication-and-Data-Concept-Symbols-Robert-Churchill-iStock-Thinkstock-493540889.jpg" alt="Global Communication and Data Concept Symbols" caption="" >}} 
 
 Imagine a world without Web pages, only intelligent, self-assembling chunks of content waiting to respond to your needs. The page is irrelevant, there may be no context beyond what is included in your content. The content has to survive on its own, perform its goals on its own. Originally when creating content, you would take into account the things that surround it on that page; they give it additional context and relevance. What if you strip all that away and all you have is a title, intro, and body? Or a title and a snippet or chunk? Or a title and an image…can your content survive on its own?
 
@@ -29,7 +29,7 @@ The origins of the post-Web page world can be found in the works of [William W. 
 
 ## A Change in Perspective
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-350-Ty-Manuel-page-and-content-models-graphic.jpg" alt="Content graphic" >}}
+{{< legacy-img src="2015/03/600-x-350-Ty-Manuel-page-and-content-models-graphic.jpg" alt="Content graphic" >}}
 
 This full separation is inherent in the concept of [adaptive design]({{< link "tag/adaptive-content" >}}) and the much-referenced [COPE](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) developed by NPR. The article on COPE was published in 2009, so just as with the initial advances of the content and presentation layer concepts, these changes take time. Sometimes a change in perspective—looking at what is being taken away (the website) as opposed to what needs to be added (structure)—can help a concept&#8217;s progress.
 

@@ -14,7 +14,7 @@ tag:
   - United States Census Bureau
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
+{{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
 
 <p style="text-align: right">
   <a class="button" style="color: #000000" href="{{< tmp "events/u-s-census-bureau-celebrates-open-data-challenge-winners-via-national-demo-day.md" >}}>VISIT EVENT PAGE</a> <a class="button" style="color: #000000" href="https://attendee.gotowebinar.com/register/6671101352261489921">REGISTER NOW</a>

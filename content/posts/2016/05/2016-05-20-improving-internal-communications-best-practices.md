@@ -18,7 +18,7 @@ tag:
   - The United States Social Security Administration
 ---
 
-Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they need, or if they are not happy in their work, customers can see that. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
+Customers are not the only group with whom we need to effectively communicate as we work to improve our quality of service. Effective communication between employees and leadership is critical to improving the customer experience. Front line employees interact with the public on a regular basis, and if employees do not have the information they need, or if they are not happy in their work, customers can see that. {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
 Here are some tips to improve internal communications. Thank you to all the CX-COP members who contributed, especially **Stephanie Thum** (EXIM Bank), **Jeremy Young** (Social Security Administration), and **Tanya McIlravy** (USDA Farm Service Agency).
 

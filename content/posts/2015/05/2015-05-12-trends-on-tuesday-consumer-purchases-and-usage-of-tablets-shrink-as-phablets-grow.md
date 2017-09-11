@@ -12,7 +12,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-348-Android-chart-tumblr\_inline\_nnkzc31AAT1tpd7xq_500.jpg" alt="Distribution of Android Device Models by Form Factor from Flurry Analytics." >}}
+{{< legacy-img src="2015/05/500-x-348-Android-chart-tumblr\_inline\_nnkzc31AAT1tpd7xq_500.jpg" alt="Distribution of Android Device Models by Form Factor from Flurry Analytics." >}}
 
 [Consumers are buying less tablets and more phablets](http://recode.net/2015/05/06/the-tablet-story-isnt-over-but-its-changing/), especially in the U.S.
 
@@ -24,7 +24,7 @@ Flurry, a mobile analytics company owned by Yahoo!, was shocked by the results. 
 
 This [phablet consumer trend exploded in Asia over the past couple years](http://www.theguardian.com/technology/2013/sep/02/phablets-asia-pacific-tablets-laptops-growth) and has slowly made it’s way over to the U.S. with the tipping point coming this past year&#8217;s release of the Apple iPhone 6 Plus. For many years, Apple resisted large phones ([Steve Jobs famously and frequently criticized big phones](http://www.engadget.com/2010/07/16/jobs-no-ones-going-to-buy-a-big-phone/)) and Android built a strong base of users who wanted the larger devices:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-420-Trends-Tuesday-phablets-chart-screen-shot-2015-04-22-at-9-02-50-am.jpg" alt="Chart showing quarterly shipments of tablets and smartphones 4 or greater in millions. Source: IDC" >}}
+{{< legacy-img src="2015/05/600-x-420-Trends-Tuesday-phablets-chart-screen-shot-2015-04-22-at-9-02-50-am.jpg" alt="Chart showing quarterly shipments of tablets and smartphones 4 or greater in millions. Source: IDC" >}}
 
 While phablet purchases have been growing, [IDC’s report says that tablet growth continues to shrink](http://flurrymobile.tumblr.com/post/117769261810/the-phablet-revolution), impacted by phablets eating their share of the market:
 

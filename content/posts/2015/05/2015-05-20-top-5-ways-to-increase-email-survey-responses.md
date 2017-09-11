@@ -13,7 +13,7 @@ tag:
   - customer service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" caption="" >}} 
+{{< legacy-img src="2015/05/600-x-400-Mail-PashaIgnatov-iStock-Thinkstock-133940537.jpg" alt="Email icons, with an open one highlighted in orange" caption="" >}} 
 
 Surveys are a great way to gain valuable insight into your customers’ true interests and needs. With the abundant number of survey tools available, it’s almost too easy to quickly put together a survey and send it out to your target audience.
 

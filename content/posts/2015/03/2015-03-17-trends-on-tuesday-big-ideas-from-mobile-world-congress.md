@@ -16,7 +16,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}
+{{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}
 
 [Mobile World Congress](http://mobileworldcongress.com/), the world’s largest mobile infrastructure, software, hardware, product and app show, took place in Barcelona, Spain, and I attended for the fifth time. This year’s show shattered previous records with more than 93,000 attendees across all the areas that mobile touches. Here are a few notable trends and topics that I came away with and what government agencies should learn from them:
 
@@ -44,7 +44,7 @@ For more about some of the specifications being proposed from industry groups, c
 
 ### The Internet of Things
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" >}}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything]({{< relref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}} "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
+{{< legacy-img src="2015/03/250-x-329-toothbrush-Internet-of-Things-IoT.jpg" alt="ORAL-B smart toothbrush" >}}Another buzzword that was flooding the trade show floor was “The Internet of Things” or “[The Internet of Everything]({{< relref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}} "The Internet of Everything & Small Business Opportunities")” with all sorts of products—from cars to home energy controls to toothbrushes—becoming WiFi, Bluetooth and NFC equipped to add functionality, sensors and Internet communication protocols that share and track information.
 
 The most impressive demo I saw was from Oral B, that was introducing a Bluetooth enabled toothbrush that tracked the sensitivity, time and location of your brushing and offered feedback, customized brushing plans and data tracking over time, as well as weather and news information on your phone while it timed your brushing time. I don’t know if everyone would feel completely comfortable with taking this approach to every aspect of their life being tracked, ranked and connected, but The Internet of Things is coming, and government agencies are going to have to prepare for regulatory, bandwidth and security challenges and opportunities—especially in the health and public utility areas.
 

@@ -12,7 +12,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-416-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-sidebar-stats-Outcome-benefits.jpg" alt="Sidebar stats, Outcome benefits, from the report titled, The craft of incentive prize design - Lessons from the public sector" caption="" >}} 
+{{< legacy-img src="2014/06/250-x-416-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-sidebar-stats-Outcome-benefits.jpg" alt="Sidebar stats, Outcome benefits, from the report titled, The craft of incentive prize design - Lessons from the public sector" caption="" >}} 
 
 Federal challenge and prize competitions are in the news again.
 
@@ -44,4 +44,4 @@ The study shares practical lessons:
 
 You are encouraged to share this resource with colleagues and others interested in federal prize competition design. Stay tuned for a plan to have the community to gather later this summer and discuss what was learned.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-900-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-Figure-4-Major-outcomes-for-incentive-prize-design-DUP819.jpg" alt="Figure 4, Major outcomes for incentive prize design, from the report titled, The craft of incentive prize design - Lessons from the public sector" >}}
+{{< legacy-img src="2014/06/600-x-900-The-craft-of-incentive-prize-design-Lessons-from-the-public-sector-Figure-4-Major-outcomes-for-incentive-prize-design-DUP819.jpg" alt="Figure 4, Major outcomes for incentive prize design, from the report titled, The craft of incentive prize design - Lessons from the public sector" >}}

@@ -16,7 +16,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
+{{< legacy-img src="2015/07/600-x-400-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Different teams of stick figures in brightly colored circles" caption="" >}} 
 
 Many of you are part of a government community. [We lead a few of them here]({{< relref "communities.md" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).
 

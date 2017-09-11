@@ -15,7 +15,7 @@ tag:
   - YouTube
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions.jpg" alt="480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions" >}}
+{{< legacy-img src="2014/07/480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions.jpg" alt="480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions" >}}
 
 When you watch a video on your computer, the window that displays your video is called a &#8220;video player.&#8221; It usually has start, pause, and other buttons. You might not be aware that you&#8217;re using a player at all—you just watch your video.
 
@@ -71,7 +71,7 @@ Examples of stand-alone software video players include [iTunes](http://www.apple
 
 ## List of 508-Compliant Video Players
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-337-Resource-Accessible-Videos-508-Compliant-Video-Player-example.jpg" alt="600-x-337-Resource-Accessible-Videos-508-Compliant-Video-Player-example" >}}
+{{< legacy-img src="2014/07/600-x-337-Resource-Accessible-Videos-508-Compliant-Video-Player-example.jpg" alt="600-x-337-Resource-Accessible-Videos-508-Compliant-Video-Player-example" >}}
 
 Caption: The [Workshop&#8217;s video player](http://www.theworkshop.co.uk/introducing-free-accessible-media-player) (above) supports captions and audio description tracks, and can be used with many assistive devices, with a few exceptions. This video player on NASA&#8217;s site supports captions and plays YouTube videos.
 

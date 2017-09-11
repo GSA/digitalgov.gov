@@ -17,13 +17,13 @@ tag:
   - United States Department of Energy
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-239-Green-futuristic-city-living-concept-kav777-iStock-Thinkstock-178804545.jpg" alt="Green futuristic city living concept" caption="" >}} 
+{{< legacy-img src="2015/02/600-x-239-Green-futuristic-city-living-concept-kav777-iStock-Thinkstock-178804545.jpg" alt="Green futuristic city living concept" caption="" >}} 
 
 Conserving energy is not a shot in the dark. Millions of people can now shine a light on their electricity usage as a result of a dynamic public-private partnership based on open data.
 
 The goal of the [Green Button Initiative](http://www.greenbuttondata.org/) is to provide electricity customers with access to their energy usage data in an easy-to-understand and computer-friendly format. Customers can click on the &#8220;Green Button&#8221; logo on participating companies’ websites and download their personal energy use information. Data is provided securely and is displayed in a standard way, regardless of energy company. Alternatively, if supported, an authorization can be provided for a third party service to automatically retrieve the customer’s data for analysis and advice.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-208-Green-Button-Initiative-logo.jpg" alt="Green Button Initiative logo" >}}The Initiative has experienced tremendous growth since its launch in January 2012. Currently, more than 60 million Americans (and 2.5 million Canadians) have access to their own Green Button data from 34 different companies. An additional 13 companies have committed to implementing Green Button.
+{{< legacy-img src="2015/02/250-x-208-Green-Button-Initiative-logo.jpg" alt="Green Button Initiative logo" >}}The Initiative has experienced tremendous growth since its launch in January 2012. Currently, more than 60 million Americans (and 2.5 million Canadians) have access to their own Green Button data from 34 different companies. An additional 13 companies have committed to implementing Green Button.
 
 The Initiative is an industry-led effort. Developers, data specialists, and energy professionals support the project through [four active communities](http://www.greenbuttondata.org/community/). The National Institute of Standards and Technology (NIST) in the Department of Commerce provides leadership and support for the technical standards of Green Button.
 
@@ -31,7 +31,7 @@ The Initiative is an industry-led effort. Developers, data specialists, and ener
 
 The benefits of Green Button are not limited to homeowners and residential users. Commercial property managers can conduct energy audits remotely and identify usage patterns among tenants. Public policy can be refined through clearer, more accurate data. Utility and energy providers can engage customers and develop efficiency programs. Energy efficiency organizations can engage their stakeholders to leverage Green Button as a concrete tool that increases efficiency.
 
-## Sparking Innovation {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-250-Education-concept-Head-With-Lightbulb-on-puzzle-background-maxkabakov-iStock-Thinkstock-465956239.jpg" alt="Head with lightbulb on puzzle background" caption="" >}} 
+## Sparking Innovation {{< legacy-img src="2015/02/250-x-250-Education-concept-Head-With-Lightbulb-on-puzzle-background-maxkabakov-iStock-Thinkstock-465956239.jpg" alt="Head with lightbulb on puzzle background" caption="" >}} 
 
 The Initiative has ignited innovation in the private sector, which benefits Green Button customers who want to take action based on their data. There are 34 vendors who have created products, services, and apps that use Green Button data.
 
@@ -39,7 +39,7 @@ Green Button innovation has also been promoted by the Department of Energy throu
 
 The second competition, Apps for Energy II, took place in 2014 and was part of a larger, four-part challenge called the [American Energy Data Challenge](http://energychallenge.energy.gov/). The four finalists for the second competition were [e-lite Power Use Planner](http://energychallenge.energy.gov/a/dtd/e-Lite-Power-Use-Planner-with-Green-Button-Usage-Data/52973-26122), [enACT](http://energychallenge.energy.gov/a/dtd/ENACT/44360-26122), [PowerHouse—How Clean is Your Shirt?](http://energychallenge.energy.gov/a/dtd/PowerHouse-How-Clean-is-Your-Shirt/53038-26122), and [WattBuddy](http://energychallenge.energy.gov/a/dtd/WattBuddy/53024-26122).
 
-## Growing the Program {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-250-Environmental-conservation-tree-hands-cienpies-iStock-Thinkstock-164495078.jpg" alt="Environmental conservation tree hands" caption="" >}} 
+## Growing the Program {{< legacy-img src="2015/02/250-x-250-Environmental-conservation-tree-hands-cienpies-iStock-Thinkstock-164495078.jpg" alt="Environmental conservation tree hands" caption="" >}} 
 
 On February 6th, an event celebrating &#8220;[The Birth of the Green Button Ecosystem](https://www.greenbiz.com/event/2015/02/06/birth-green-button-ecosystem)&#8221; will be held in San Diego, California. Green Button creators, developers, industry partners, utility companies, and stakeholders will come together to learn about current efforts and future directions of the Initiative.
 

@@ -19,7 +19,7 @@ tag:
   - top tasks
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}}
+{{< legacy-img src="2014/04/250-x-188-women-working-in-call-center-diego-cervo-iStock-Thinkstock-119850328.jpg" alt="Women working in call center" caption="" >}}
 
 ## 1. Meet all Laws, Requirements, Policies, and Directives for Federal Contact Centers
 

@@ -21,7 +21,7 @@ tag:
 
 The Congressional Research Service recently released a [report](http://www.fas.org/sgp/crs/misc/R44331.pdf) (PDF, 688 kb, 17 pages, January 2016) describing the big data ecosystem for U.S. agriculture. The purpose of the report was to understand the federal government’s role in emerging big data sources and technologies involved in U.S. agriculture. As the report author, Megan Stubbs, points out, there is not even a standard definition of big data.
 
-> “Big data may significantly affect many aspects of the agricultural industry although the full extent and nature of its eventual impacts remain uncertain. &#8230;It is still unclear how big data will progress within agriculture due to technical and policy challenges, such as privacy and security, for producers and policymakers.” {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-425-Planted-Field-Saddako-iStock-Thinkstock-480111775.jpg" alt="A planted field on a farm in Florida with the sunrise in the distance." caption="" >}} 
+> “Big data may significantly affect many aspects of the agricultural industry although the full extent and nature of its eventual impacts remain uncertain. &#8230;It is still unclear how big data will progress within agriculture due to technical and policy challenges, such as privacy and security, for producers and policymakers.” {{< legacy-img src="2016/02/600-x-425-Planted-Field-Saddako-iStock-Thinkstock-480111775.jpg" alt="A planted field on a farm in Florida with the sunrise in the distance." caption="" >}} 
 
 The report divides up the agricultural big data ecosystem into two major sources.
 

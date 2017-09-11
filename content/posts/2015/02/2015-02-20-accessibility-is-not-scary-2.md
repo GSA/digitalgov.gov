@@ -11,7 +11,7 @@ tag:
   - usability
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 
+{{< legacy-img src="2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 
 
 The word accessibility breeds misconceptions.
 
@@ -49,7 +49,7 @@ So what if the people carrying out your project just don&#8217;t know how to do 
 
 In accessibility, details matter. In any given project, at least a thousand exist. If you don&#8217;t keep constant, intelligent pressure on them, they can get lost and ruin your efforts. Color contrast serves as a good example. Ensuring proper color contrast requires minding details like brand, color palettes, contrast guidelines, regular testing and more.
 
-## Question Everything {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-375-Red-question-mark-key-Thinkstock-Images-Stockbyte-Thinkstock-86481376.jpg" alt="Red question mark key" caption="" >}} 
+## Question Everything {{< legacy-img src="2015/02/250-x-375-Red-question-mark-key-Thinkstock-Images-Stockbyte-Thinkstock-86481376.jpg" alt="Red question mark key" caption="" >}} 
 
 You might be thinking that all three of these points intersect. You&#8217;re right. People make decisions and track details, after all. What do we do about that? Ask good questions.
 

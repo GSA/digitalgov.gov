@@ -18,7 +18,7 @@ Our children spend a lot of time at school. Multiple studies have shown a direct
 
 One environmental factor that can affect the performance and health of students and staff alike is indoor air quality (IAQ). Maintaining an acceptable IAQ in schools can be a difficult task. The U.S. Environmental Protection Agency (EPA) recently launched a mobile app to assist schools and school districts with performing comprehensive indoor air quality (IAQ) facility assessments.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-387-EPA-School-IAQ-Assessment-Tool-home-and-checklist-screens-iPad.jpg" alt="EPA School IAQ Assessment Tool's home and checklist screens from an iPad" >}}
+{{< legacy-img src="2015/09/600-x-387-EPA-School-IAQ-Assessment-Tool-home-and-checklist-screens-iPad.jpg" alt="EPA School IAQ Assessment Tool's home and checklist screens from an iPad" >}}
 
 [The School IAQ Assessment](http://www.epa.gov/iaq/schools/iaq_schools_mobile_app/) mobile app is a “one-stop shop” for accessing guidance from EPA’s [Indoor Air Quality Tools for Schools Action Kit](http://www.epa.gov/iaq/schools/actionkit.html). You can download the app for Android devices from [Google Play](https://play.google.com/store/apps/details?id=gov.epa.airplusschools&hl=en) and for Apple devices from [iTunes](https://itunes.apple.com/us/app/epa-indoor-air-quality-tools/id1013018722?mt=8).
 

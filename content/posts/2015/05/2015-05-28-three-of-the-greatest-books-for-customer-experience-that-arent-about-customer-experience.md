@@ -13,7 +13,7 @@ tag:
   - customer service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-400-Plain-book-jut-out-a-bookshelf-Teka77-iStock-Thinkstock-459134863.jpg" alt="Three books jut out a bookshelf" caption="" >}} 
+{{< legacy-img src="2015/05/600-x-400-Plain-book-jut-out-a-bookshelf-Teka77-iStock-Thinkstock-459134863.jpg" alt="Three books jut out a bookshelf" caption="" >}} 
 
 Dennis Snow and Jeanne Bliss have always been the customer experience (CX) authorities in my mind. Dennis’s [Lessons from the Mouse](http://www.amazon.com/Lessons-Mouse-Applying-Secrets-Organization/dp/0615372414/ref=sr_1_1?s=books&ie=UTF8&qid=1432673244&sr=1-1) and Jeanne’s [Chief Customer Officer](http://www.amazon.com/Chief-Customer-Officer-Getting-Passionate/dp/0787980943/ref=asap_bc?ie=UTF8) were two of the first books I read that described what the practice of customer experience looked like in the halls of Fortune 500 companies like Lands End and Microsoft, as well as on Main Street at Walt Disney World. Years ago when I first flipped through the pages of those books, I realized that I was a budding CX practitioner, even though my private sector titles were more akin to business development, client relations, and service quality.
 

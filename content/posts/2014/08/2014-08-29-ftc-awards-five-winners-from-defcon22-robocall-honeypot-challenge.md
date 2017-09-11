@@ -12,7 +12,7 @@ tag:
   - FTC
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 
+{{< legacy-img src="2014/08/600-x-408-Golden-honey-bee-rvbox-iStock-Thinkstock-162847094.jpg" alt="Honey dipper and pot" caption="" >}} 
 
 The Federal Trade Commission (FTC) had such [great success with their first robocall challenge competition]({{< relref "2013-10-25-thousands-of-calls-blocked-thanks-to-contest-winner.md" >}} "Thousands of Calls Blocked, Thanks to Contest Winner") that the agency decided to take a different angle this year—targeting the skilled hackers at DEF CON 22, the annual defense conference in Las Vegas in early August.
 

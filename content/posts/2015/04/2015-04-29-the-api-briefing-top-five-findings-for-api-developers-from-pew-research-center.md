@@ -17,7 +17,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
+{{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="" >}} 
 
 The Pew Research Center just released a <a href="http://www.pewinternet.org/2015/04/21/open-government-data/" target="_blank">report on how Americans view open government data</a>. The following findings were based on a November to December 2014 survey of 3,212 adults.
 

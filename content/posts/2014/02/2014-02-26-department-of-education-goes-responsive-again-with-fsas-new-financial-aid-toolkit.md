@@ -16,7 +16,7 @@ Money for college? It&#8217;s never too early &#8212; or too late, for that matt
 
 Following in the footsteps of their StudentAid.gov website, the digital team at **Ed.gov&#8217;s <a href="http://studentaid.ed.gov" target="_blank">Federal Student Aid</a>** (FSA) closed out 2013 with [the launch](http://www.ed.gov/news/press-releases/new-financial-aid-toolkit-part-departments-efforts-improve-college-access-and-af) of **<a href="http://financialaidtoollkit.ed.gov" target="_blank">FinancialAidToolkit.ed.gov</a>**, a &#8220;sister&#8221; site featuring a flexible, easy-to-access responsive design.
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Homepage\_Federal-Student-Aid-Financial-Aid-Toolkit-536x400.png" alt="Homepage\_Federal Student Aid Financial Aid Toolkit" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Homepage_Federal-Student-Aid-Financial-Aid-Toolkit.png)
+[{{< legacy-img src="2014/02/Homepage\_Federal-Student-Aid-Financial-Aid-Toolkit-536x400.png" alt="Homepage\_Federal Student Aid Financial Aid Toolkit" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Homepage_Federal-Student-Aid-Financial-Aid-Toolkit.png)
 
  
 

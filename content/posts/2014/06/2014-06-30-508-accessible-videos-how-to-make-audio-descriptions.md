@@ -19,7 +19,7 @@ tag:
   - YouTube
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/850-x-350-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg)
+[{{< legacy-img src="2014/07/600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg" alt="600-x-245-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/850-x-350-Resource-Accessible-Videos-How-to-Make-Audio-Descriptions-Annotated.jpg)
 
 ## What are Audio Descriptions?
 

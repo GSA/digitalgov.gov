@@ -24,7 +24,7 @@ Anyone engaged in content marketing or content production probably owns a robust
 
 At USAGov we cover a lot of topics and partner with many agencies. Having an editorial calendar has helped us in a variety of ways, from staying on top of deadlines and deliverables, to giving us the space to focus on the topics that resonate best with our audiences.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-259-USAGov-Editorial-calendar-screenshot.jpg" alt="Screenshot of the USAGov editorial calendar." >}}
+{{< legacy-img src="2016/10/600-x-259-USAGov-Editorial-calendar-screenshot.jpg" alt="Screenshot of the USAGov editorial calendar." >}}
 
 ## How We Populate Our Calendar
 

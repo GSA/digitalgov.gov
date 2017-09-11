@@ -36,7 +36,7 @@ Notably, this became the highest rated SocialGov webinar based on user feedback 
 
 ## Define your objectives and bring services to where citizens are
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/560-x-280-odni.gif" alt="An animated gif for an Office of the Director of National Intelligence (ODNI) event" >}}
+{{< legacy-img src="2015/04/560-x-280-odni.gif" alt="An animated gif for an Office of the Director of National Intelligence (ODNI) event" >}}
 
 Michael Thomas of the [Office of the Director of National Intelligence](http://icontherecord.tumblr.com/) often hears when it comes to social media the saying, “well, if the intelligence community can do it&#8230;”
 
@@ -56,7 +56,7 @@ Thomas also said that there are lots of tools available to make gifs, but the re
 
 ## Repurpose user-generated content for cost-efficient programming
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/kids-handshake.gif" alt="kids handshake" >}}
+{{< legacy-img src="2015/04/kids-handshake.gif" alt="kids handshake" >}}
 
 Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of content to choose from—literally—when generating gifs for her own site or something clever for a third-party. She said:
 
@@ -67,7 +67,7 @@ Erika Brown of the [Peace Corps](http://www.peacecorps.gov/) has a world of cont
 
 ## Create eye catching and easy to follow tutorials and instructions
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/screenshot-18f-code.gif" alt="18f animated code" >}}
+{{< legacy-img src="2015/04/screenshot-18f-code.gif" alt="18f animated code" >}}
 
 Melody Kramer of [GSA’s 18F](https://18f.gsa.gov/) has been on the cutting edge of new media, but shares how she uses animated gifs in the most practical way: for tutorials and education. She demonstrated how and why she creates instructional gifs, which any organization can do.
 
@@ -80,7 +80,7 @@ In the webinar, she demonstrated how to:
 
 ## Animated gifs should meet accessibility standards
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/pokemon-player.png" alt="Pokemon in a player" >}}
+{{< legacy-img src="2015/04/pokemon-player.png" alt="Pokemon in a player" >}}
 
 Victoria Wales of [USA.gov](http://www.usa.gov/) and [GobiernoUSA.gov](http://www.usa.gov/gobiernousa/) educates federal managers on the importance and the process of enhancing the accessibility of digital services for citizens with disabilities: animated gifs are no different and present their own unique challenges.
 
@@ -93,7 +93,7 @@ In order to help meet those challenges, she suggested:
 
 ## Use U.S. government records to bring history to life
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/plane-washington-monument.gif" alt="A black and white animated gif of a gyrocopter flying past the Washington Monument." >}}
+{{< legacy-img src="2015/04/plane-washington-monument.gif" alt="A black and white animated gif of a gyrocopter flying past the Washington Monument." >}}
 
 Darren Cole of the [National Archives and Records Administration](http://todaysdocument.tumblr.com/) showcased the diverse source documents used to create compelling animated gifs that breathe new life into historical records, including images from the last time a gyrocopter flew to Capitol Hill almost 100 years ago. He recommended:
 

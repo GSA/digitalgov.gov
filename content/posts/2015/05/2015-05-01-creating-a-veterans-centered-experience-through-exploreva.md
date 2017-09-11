@@ -47,7 +47,7 @@ A/B testing was conducted throughout the entire process on a variety of elements
 
 One element of the Explore campaign is an email outreach effort that began with the design of a light window to capture subscribers interested in receiving information about VA benefits. Through the tests illustrated below, the email address collection rate increased by 48 percent.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-winner.jpg" alt="600-x-450-Explore\_AB\_test\_examples-winner" >}}
+{{< legacy-img src="2015/04/600-x-450-Explore\_AB\_test\_examples-winner.jpg" alt="600-x-450-Explore\_AB\_test\_examples-winner" >}}
 
 The Explore email list has grown to 1 million subscribers, and Moloney said it is now a powerful asset that enables VA to get information out quickly and efficiently. She also noted that engagement from the Explore email campaign far exceeds industry averages on open and click-through rates.
 
@@ -55,7 +55,7 @@ The Explore email list has grown to 1 million subscribers, and Moloney said it i
 
 In another A/B test, the Web content and layout changes below increased application starts—visitors leaving an Explore page to begin the benefits application process—by 33 percent. To date, nearly 900,000 users have begun the benefits application process through Explore.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-Explore\_AB\_test\_examples-comparison.jpg" alt="600-x-450-Explore\_AB\_test\_examples-comparison" >}}
+{{< legacy-img src="2015/04/600-x-450-Explore\_AB\_test\_examples-comparison.jpg" alt="600-x-450-Explore\_AB\_test\_examples-comparison" >}}
 
 ## Going Beyond Information to an Interactive Experience: Explore 2.5
 

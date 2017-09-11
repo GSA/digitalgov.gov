@@ -11,7 +11,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Mobile\_NEW.jpg" alt="Mobile\_NEW" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Mobile_NEW.jpg)
+[{{< legacy-img src="2013/12/Mobile\_NEW.jpg" alt="Mobile\_NEW" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Mobile_NEW.jpg)
   
 Canalys, an international IT company, predicted last week that tablets will almost out-ship all other PC form factors combined next year. They expect that tablets will account for almost 50% of the total client PC market (that includes desktops, notebooks, and tablets) in 2014.
 

@@ -15,7 +15,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/600-x-450-Winter-Park-Florida-Farmers-Market-Meagan-Perosha-CC-BY-Aug8th2012-7740419238\_edb40b4b7e\_o.jpg" alt="Shoppers and produce at a Winter Park, Florida Farmers Market" caption="" >}} 
+{{< legacy-img src="2014/05/600-x-450-Winter-Park-Florida-Farmers-Market-Meagan-Perosha-CC-BY-Aug8th2012-7740419238\_edb40b4b7e\_o.jpg" alt="Shoppers and produce at a Winter Park, Florida Farmers Market" caption="" >}} 
 
 <a href="http://americannutritionassociation.org/newsletter/usda-defines-food-deserts" target="_blank">Food deserts</a> are areas where residents have little or no access to nutritional food. Food deserts exist because of low-incomes, lack of transportation, or too few stores that stock produce and other healthy food items. Governments from the local level to federal have implemented grant programs to encourage grocery store construction in the food deserts. Community activists have also worked to <a href="http://foodtank.com/news/2013/05/five-innovative-solutions-from-food-desert-activists" target="_blank">create food co-ops and encourage farmer markets</a> to target the food deserts.
 

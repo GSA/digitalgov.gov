@@ -39,7 +39,7 @@ Difficult to use search results pages are often complicated to manage on the bac
 
 That’s why we work hard to make our results page lean and make it as easy as possible for content managers to configure their search and keep it fresh over time. We regularly add features to facilitate search setup, like localized configuration tips and access to our various help channels.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" >}}
+{{< legacy-img src="2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" >}}
 
 We&#8217;ve also started up a [monthly training series](http://search.WHATEVER/manual/training) to get new users up and running, and keep long-time users apprised of the latest developments.
 

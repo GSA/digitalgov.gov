@@ -11,7 +11,7 @@ tag:
   - Twitter
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" >}}
+{{< legacy-img src="2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" >}}
 
 In this time of tight travel budgets, not everyone can make it to every event or conference they’d like to attend. Luckily, Twitter has made it easier to share events through live tweeting.
 

@@ -14,7 +14,7 @@ tag:
   - RFP
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" >}}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.
+{{< legacy-img src="2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" >}}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.
 
 On the surface, FBOpen is a website: [fbopen.gsa.gov](https://fbopen.gsa.gov/) is a simple, Google-style page where you can search available federal contracts and grants. We’ve used the latest in search technology to make finding opportunities easier and more effective for everybody.
 

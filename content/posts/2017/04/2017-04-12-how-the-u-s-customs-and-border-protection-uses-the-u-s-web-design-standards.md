@@ -23,7 +23,7 @@ tag:
 
 As mentioned in our recent [Q&A with the team at NASA](https://18f.gsa.gov/2017/03/21/nasa-journey-with-us-web-design-standards/), the U.S. Web Design Standards team is sitting down with various agencies that are using the Standards. In this second post in our series, we met with the team at the [U.S. Customs and Border Protection](https://www.cbp.gov/) and learned how they used the Standards to train, develop, and design their various websites and applications.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-345-U.S.-Customs-and-Border-Protection_Web-Design-Standards-homepage.jpg" alt="Screencap of the U.S. Customs and Border Protection website." >}}
+{{< legacy-img src="2017/04/600-x-345-U.S.-Customs-and-Border-Protection_Web-Design-Standards-homepage.jpg" alt="Screencap of the U.S. Customs and Border Protection website." >}}
 
 **Standards team:** Why did you decide to use the U.S. Web Design Standards?
 

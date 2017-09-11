@@ -13,7 +13,7 @@ tag:
   - Export-Import Bank of the United States
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/250-x-250-Target-NemanjaZs-iStock-Thinkstock-461761907.jpg" alt="NemanjaZs/iStock/Thinkstock" caption="" >}} 
+{{< legacy-img src="2014/06/250-x-250-Target-NemanjaZs-iStock-Thinkstock-461761907.jpg" alt="NemanjaZs/iStock/Thinkstock" caption="" >}} 
 
 Customer service. Customer satisfaction. Improving the customer experience.
 

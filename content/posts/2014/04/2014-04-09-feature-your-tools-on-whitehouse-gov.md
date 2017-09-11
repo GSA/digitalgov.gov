@@ -26,6 +26,6 @@ As of now, they are featuring tools from these agencies:
 
 Check out the tools and [let them know about the tools](http://www.whitehouse.gov/tools/feedback) that should be added.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/opt-consumerhub\_emailteaser\_5408.jpg" alt="White House Tools " >}}
+{{< legacy-img src="2014/04/opt-consumerhub\_emailteaser\_5408.jpg" alt="White House Tools " >}}
 
  _Ori Hoffer is a Public Affairs Specialist at the U.S. General Services Administration (GSA)._

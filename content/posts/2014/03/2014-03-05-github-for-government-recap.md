@@ -20,7 +20,7 @@ As the definition of “developer” has grown and expanded, GitHub has become a
 
 Never tried GitHub? Noah Kunin, from the Consumer Financial Protection Bureau, walked us through the platform, including some government-specific resources.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" >}}
+{{< legacy-img src="2014/03/GitHub-recording.png" alt="Understanding the GitHub Workflow" >}}
 
 Here are some of the highlights from the recent [DigitalGov University webinar]({{< link "events" >}}):
 

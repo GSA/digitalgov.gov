@@ -11,7 +11,7 @@ tag:
   - DigitalGov Summit
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-450-Expo-Masses1.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
+{{< legacy-img src="2015/03/600-x-450-Expo-Masses1.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
 
 Here&#8217;s another other opportunity to show DigitalGov innovators what you got!
 
@@ -24,9 +24,9 @@ Here&#8217;s what we are looking for. Tables must be:
   * Hosted by a federal agency
   * Showcasing or demoing a government-wide service, community, or tool with a digital theme
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-20140530_103909.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
+{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-20140530_103909.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-Jonathan-Rubin-Usability-20140530_103927.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
+{{< legacy-img src="2015/03/600-x-338-DigitalGov-Citizen-Services-Summit-Expo-afternoon-Jonathan-Rubin-Usability-20140530_103927.jpg" alt="2014 Summit Expo tables and crowd of attendees" >}}
 
 Last year we had tables hosted by the Millenium Challenge Corporation, Department of Education&#8217;s Federal Student Aid office, GSA&#8217;s 18F, the MobileGov Community of Practice, and more.
 

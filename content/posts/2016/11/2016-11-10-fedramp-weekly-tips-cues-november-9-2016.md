@@ -26,7 +26,7 @@ Why should CSPs spend time and money developing high quality documentation when 
 
 FedRAMP requires quality documentation (i.e., documentation that is clear, concise, consistent, and complete) to provide an accurate description of the risk posture of a cloud system. This, in turn, reduces an Agency’s level of effort to reuse an Authorization Package. Quality documentation also pays for itself by minimizing costly rework and time consuming delays caused by clarifying misunderstandings and waiting for missing documentation.
 
-FedRAMP requires CSPs to spend as much time writing and editing the documentation as they do engineering the security. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/11/600-x-377-Hand-pushing-a-cloud-icon-Melpomenem-iStock-Thinkstock-183997765.jpg" alt="Hand pushing a cloud icon." caption="" >}} 
+FedRAMP requires CSPs to spend as much time writing and editing the documentation as they do engineering the security. {{< legacy-img src="2016/11/600-x-377-Hand-pushing-a-cloud-icon-Melpomenem-iStock-Thinkstock-183997765.jpg" alt="Hand pushing a cloud icon." caption="" >}} 
 
 ## Federal Agencies
 

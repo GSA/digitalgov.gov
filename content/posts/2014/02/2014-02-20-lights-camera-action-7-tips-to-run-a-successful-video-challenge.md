@@ -16,7 +16,7 @@ tag:
   - social media
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" caption="" >}} 
+{{< legacy-img src="2014/07/250-x-188-Cinema-Studio-ktsimage-iStock-Thinkstock-156334978.jpg" alt="Film reel, film slate, director's chair and megaphone" caption="" >}} 
 
 Not sure how to craft a video challenge that will result in the creative solutions your agency is looking for? Don&#8217;t worry, we&#8217;ve got you covered.
 

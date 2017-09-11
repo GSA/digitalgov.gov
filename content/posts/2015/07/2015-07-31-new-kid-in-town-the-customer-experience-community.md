@@ -14,7 +14,7 @@ tag:
   - customer service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-385-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Business Concept compass graphic with the arrow pointing towards Customer" caption="" >}} 
 
 [Cross-Agency Priority (CAP) Goals](http://www.performance.gov/node/3400/view?view=public#overview) prioritize activities that all agencies must tackle each year. An important CAP Goal for 2015 addresses customer service and compels federal agencies to improve the quality of service the public receives from the federal government. To build on the momentum of this goal, the government Customer Experience Community of Practice (CX-COP) was launched in early 2015.
 

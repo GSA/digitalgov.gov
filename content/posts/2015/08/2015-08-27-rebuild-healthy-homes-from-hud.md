@@ -15,7 +15,7 @@ tag:
   - United States Department of Housing and Urban Development
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-444-HUD-Rebuild-Healthy-Homes-app-Home-screen.jpg" alt="HUD Rebuild Healthy Homes app Home screen" >}}We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly.
+{{< legacy-img src="2015/08/250-x-444-HUD-Rebuild-Healthy-Homes-app-Home-screen.jpg" alt="HUD Rebuild Healthy Homes app Home screen" >}}We all know it is virtually impossible to prevent natural phenomena such as hurricanes, volcanic eruptions, floods, tornadoes, earthquakes, tsunamis etc., and we cannot easily avoid these inevitable geological and climatic incidences, as they are typically unpredictable and occur swiftly.
 
 The [United Nations Office for Disaster Risk Reduction (UNISDR) report](http://www.unisdr.org/files/42814_2015no04.pdf), released in March 2015, states that economic losses from disasters are now reaching an average of $250 billion to $300 billion, annually. While the U.N. report is a “wake up” call to strengthen worldwide resilience to disasters, our immediate focus should be on lessening the severity of the impact they have on our homes and everyday life.
 
@@ -23,7 +23,7 @@ When natural disasters destroy the peace, tranquility and harmony of our homes, 
 
 The app is free and available for download at [Google Play](https://play.google.com/store/apps/details?id=gov.hud.healthyhomes) for Android and at [iTunes](https://itunes.apple.com/us/app/rebuild-healthy-homes/id980660616?mt=8) for iPhone and iPad. The app is intuitive and provides information about various disaster types and the damages they may cause along with restoration tips.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-444-HUD-Rebuild-Healthy-Homes-app-Top-10-Tips-screen.jpg" alt="HUD Rebuild Healthy Homes app Top 10 Tips screen" >}}The app informs users on the essentials of healthy homes for indoor residential environments and for post-natural disaster restoration of homes. Information covers the principles and technical aspects of the safe and proper response and removal of mold, radon, asbestos, lead and other hazards and unsafe conditions. The search functionality allows you access to detailed information based on keywords.
+{{< legacy-img src="2015/08/250-x-444-HUD-Rebuild-Healthy-Homes-app-Top-10-Tips-screen.jpg" alt="HUD Rebuild Healthy Homes app Top 10 Tips screen" >}}The app informs users on the essentials of healthy homes for indoor residential environments and for post-natural disaster restoration of homes. Information covers the principles and technical aspects of the safe and proper response and removal of mold, radon, asbestos, lead and other hazards and unsafe conditions. The search functionality allows you access to detailed information based on keywords.
 
 The application and the accompanying guide provide a vast array of resources and information for consumers and “DIY”-ers. The Rebuild Healthy Homes guide and publication can be downloaded free of charge within the app.
 

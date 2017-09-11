@@ -16,7 +16,7 @@ tag:
   - usa.gov
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/600-x-450-USA-Flag-Puzzle-Alex-Slobodkin-iStock-Thinkstock-ThinkstockPhotos-121266219.jpg" alt="USA Flag Puzzle" caption="" >}} 
+{{< legacy-img src="2015/04/600-x-450-USA-Flag-Puzzle-Alex-Slobodkin-iStock-Thinkstock-ThinkstockPhotos-121266219.jpg" alt="USA Flag Puzzle" caption="" >}} 
 
 This story begins with a post about reverse mortgages, but don’t worry: we won’t go into the world of complex home loans. Rather, this is a story about how one federal agency is partnering with another to amplify its content and reach millions of people online—and why more agencies should do the same.
 

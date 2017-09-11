@@ -14,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: left;">
-  <em>{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-305-Toni-phone-unread-msgs-in-inbox.jpg" alt="A screen capture of an email account's folders that shows the number of unread emails." >}}Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications at the Department of Agriculture.</em>
+  <em>{{< legacy-img src="2014/07/250-x-305-Toni-phone-unread-msgs-in-inbox.jpg" alt="A screen capture of an email account's folders that shows the number of unread emails." >}}Guest post by Ellen Langhans, healthfinder.gov Program Manager in the Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, with contribution from Tim Hudak, Web Analytics Specialist in the Office of Communications at the Department of Agriculture.</em>
 </p>
 
 <p dir="ltr">

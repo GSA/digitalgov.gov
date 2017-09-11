@@ -23,7 +23,7 @@ When it comes to crowdsourcing competitions, government agencies are making brea
 
 The White House announced more than [20 new prize competitions](https://www.whitehouse.gov/the-press-office/2015/10/07/fact-sheet-administration-celebrates-five-year-anniversary-challengegov) in October, many of them collaborations with industry and academia. These challenges will tackle a variety of issues, from literacy to the environment.
 
-The bigger the problem, the more an agency might want to enlist some outside help. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
+The bigger the problem, the more an agency might want to enlist some outside help. {{< legacy-img src="2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
 
 ## Partnering for Global Impact
 

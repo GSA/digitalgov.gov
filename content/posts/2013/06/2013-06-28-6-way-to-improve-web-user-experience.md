@@ -12,7 +12,7 @@ tag:
   - user experience
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/250-x-172-User-Experience-Slide-with-Jakob-Neilsen-quote_A-Snappy-User-Experience-Beats-a-Glamorous-One.jpg" alt="User Experience Slide with Jakob Neilsen quote A Snappy User Experience Beats a Glamorous One" >}}If you want a better user experience on your government website, there’s a simple secret: early planning.  Good designers know that it&#8217;s much more difficult to make changes to something **after** it&#8217;s built than before. This is true for designing just about anything, whether it&#8217;s a website, car, or new kitchen.
+{{< legacy-img src="2013/06/250-x-172-User-Experience-Slide-with-Jakob-Neilsen-quote_A-Snappy-User-Experience-Beats-a-Glamorous-One.jpg" alt="User Experience Slide with Jakob Neilsen quote A Snappy User Experience Beats a Glamorous One" >}}If you want a better user experience on your government website, there’s a simple secret: early planning.  Good designers know that it&#8217;s much more difficult to make changes to something **after** it&#8217;s built than before. This is true for designing just about anything, whether it&#8217;s a website, car, or new kitchen.
 
 So if you&#8217;re in the early stages of designing &#8212; or redesigning &#8212; your website, here are some easy, “almost-no-budget-needed” steps you can take to ensure your users will be happier (or at least less frustrated):
 

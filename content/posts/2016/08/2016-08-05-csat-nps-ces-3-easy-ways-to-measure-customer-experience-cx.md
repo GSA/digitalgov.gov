@@ -15,7 +15,7 @@ tag:
   - metrics
 ---
 
-Have you ever wondered how to measure a [customer’s experience]({{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
+Have you ever wondered how to measure a [customer’s experience]({{< relref "2015-11-20-ux-vs-cx-whats-the-dif-part-2.md" >}})? I’ve thought about it, specifically about how to measure the experience with services from government agencies. This is a complex topic because government services can be vastly different from each other. These services range from: issuing fishing and hunting permits, social security benefits, unemployment insurance, job training, business licenses, food inspection, and medical and mental health services to veterans. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}} 
 
 Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Customer Experience Manager from the [City of Centennial, Colorado](http://www.centennialco.gov/). This introductory blog spells three customer experience metrics that Kelly shared with me, along with some examples and graphs.
 
@@ -23,7 +23,7 @@ Honestly, I was overwhelmed. Luckily, I got in touch with Kelly J. Ohaver, Custo
 
 Let’s start with the simplest and most well-known metric: customer satisfaction—or CSAT. It’s a measurement that looks at how well a product or service experience meets a customer’s expectation. A customer satisfaction survey can help you determine your customers&#8217; overall level of satisfaction.
 
-For example, one of the CSAT survey questions the City of Centennial uses is, &#8220;How satisfied were you with the service you received?&#8221; Survey respondents are then asked to rate their experience on a scale of 1 to 5, where 1 equals ‘Very Satisfied’ and 5 equals ‘Very Dissatisfied.’ The CSAT is expressed as a percentage; the score ranges from 1 to 100%, with 1% being the lowest level of customer satisfaction and 100% being the highest level of customer satisfaction. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-400-Survey-form-alexskopje-iStock-Thinkstock-179780149.jpg" alt="A printed customer satisfaction survey form." caption="" >}} 
+For example, one of the CSAT survey questions the City of Centennial uses is, &#8220;How satisfied were you with the service you received?&#8221; Survey respondents are then asked to rate their experience on a scale of 1 to 5, where 1 equals ‘Very Satisfied’ and 5 equals ‘Very Dissatisfied.’ The CSAT is expressed as a percentage; the score ranges from 1 to 100%, with 1% being the lowest level of customer satisfaction and 100% being the highest level of customer satisfaction. {{< legacy-img src="2016/08/600-x-400-Survey-form-alexskopje-iStock-Thinkstock-179780149.jpg" alt="A printed customer satisfaction survey form." caption="" >}} 
 
 ## Net Promoter Score (NPS)
 
@@ -39,7 +39,7 @@ Responses are categorized as follows:
 
 Here’s a chart of how to calculate NPS; subtract the percent of Detractors from the percent of Promoters to determine the Net Promoter Score (_note: if you have more Detractors than Promoters, it will result in a negative score_):
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-210-Chart-shows-that-the-percent-of-Promoters-minus-the-percent-of-Detractors-equals-the-Net-Promoter-Score.jpg" alt="Chart shows that the percent of Promoters plus the percent of Detractors equals the Net Promoter Score." >}}
+{{< legacy-img src="2016/07/600-x-210-Chart-shows-that-the-percent-of-Promoters-minus-the-percent-of-Detractors-equals-the-Net-Promoter-Score.jpg" alt="Chart shows that the percent of Promoters plus the percent of Detractors equals the Net Promoter Score." >}}
 
 ## Customer Effort Score (CES)
 
@@ -49,6 +49,6 @@ The City of Centennial uses two questions to measure and analyze CES. &#8220;To 
 
 Here’s a chart to express CES; subtract the percent of those who disagree with the statement from the percent of those who agree to determine the Customer Effort Score:
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-214-Chart-shows-that-the-percent-of-Agree-minus-the-percent-of-Disagree-equals-the-Customer-Effort-Score.jpg" alt="Chart shows that the percent of Agree minus the percent of Disagree equals the Customer Effort Score." >}}
+{{< legacy-img src="2016/07/600-x-214-Chart-shows-that-the-percent-of-Agree-minus-the-percent-of-Disagree-equals-the-Customer-Effort-Score.jpg" alt="Chart shows that the percent of Agree minus the percent of Disagree equals the Customer Effort Score." >}}
 
 My discussion with Kelly is just a foray into this topic. Clearly, there’s a lot more to learn about customer experience metrics and how government agencies use them to measure a customer’s experience. As a follow up to this blog, I’ll examine how agencies apply these metrics in real life and share my findings. Stay tuned.

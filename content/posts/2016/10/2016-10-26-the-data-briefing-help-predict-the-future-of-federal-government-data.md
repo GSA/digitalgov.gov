@@ -38,7 +38,7 @@ tag:
   - Virtual/Augmented Reality Community
 ---
 
-In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." caption="" >}} 
+In December, I plan to write two postings detailing a scenario analysis for the next ten years of the Federal government’s data technologies. Governments are on the cusp of amazing technological advances propelled by artificial intelligence, blockchain technologies, and the Internet of Things. Also, governments will face new challenges such as the recent global cyber attack that took down Twitter and Netflix. {{< legacy-img src="2016/10/600-x-450-Blue-glowing-big-data-in-space-with-particles-sakkmesterke-iStock-Thinkstock-585496874.jpg" alt="Blue glowing big data in space with particles." caption="" >}} 
 
 I want to invite you, the reader, to also send in your predictions for the future of Federal government data. Please use the email link at the end of this posting to submit your ideas and predictions about the next trends and technological advances for Federal government data applications and technologies. To help inspire you, I’ve listed some topics discussed in this column for the last couple of years:
 
@@ -56,7 +56,7 @@ I want to invite you, the reader, to also send in your predictions for the futur
 
 **3D Printing and Smart Matter** – How should the Federal government promote [3D printing]({{< relref "2015-01-29-nasa-reaches-new-frontiers-in-3d-printing.md" >}}) while limiting the risks inherent in 3D printing? Should 3D printers and 3D template files be licensed and regulated? What should the Federal government do to regulate the uses of smart matter?
 
-**Other** – What else is appearing on the horizon that the Federal government should prepare for? {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/10/600-x-450-Blue-glowing-new-futuristic-technologies-sakkmesterke-iStock-Thinkstock-537821026.jpg" alt="Blue glowing new futuristic technologies, computer generated abstract background." caption="" >}} 
+**Other** – What else is appearing on the horizon that the Federal government should prepare for? {{< legacy-img src="2016/10/600-x-450-Blue-glowing-new-futuristic-technologies-sakkmesterke-iStock-Thinkstock-537821026.jpg" alt="Blue glowing new futuristic technologies, computer generated abstract background." caption="" >}} 
 
 _(Twitter and Netflix are used for illustrative purposes only and do not imply endorsement by the U.S. Federal government or any specific government agencies.)_
 _Each week, The Data Briefing showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via [email](mailto:bill@billbrantley.com)._

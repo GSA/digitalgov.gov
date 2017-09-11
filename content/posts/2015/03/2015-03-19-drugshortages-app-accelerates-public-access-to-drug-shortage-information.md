@@ -14,7 +14,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" >}}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.
+{{< legacy-img src="2015/03/250-x-444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages.jpg" alt="250 x 444-FDA-Drug-Shortages-Apple-app-alphabetical-list-of-current-shortages" >}}The U.S. Food and Drug Administration&#8217;s new &#8220;DrugShortages&#8221; app gives the public access to important—and sometimes critical—drug shortage information easier and faster than ever before.
 
 Drugs in short supply can delay or deny needed care for patients. Shortages may also lead health care professionals to rely on alternative drug products, which may be less effective or associated with higher risks than the drug in shortage.
 

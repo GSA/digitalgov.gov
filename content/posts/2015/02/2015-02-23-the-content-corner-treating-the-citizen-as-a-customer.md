@@ -13,7 +13,7 @@ tag:
   - The Content Corner
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A rising sales concept graphic of an old-fashioned thermometer" caption="" >}} 
+{{< legacy-img src="2015/02/250-x-203-Sales-Thermometer-Rising-Past-Great-Levels-qoncept-iStock-Thinkstock-139918115.jpg" alt="A rising sales concept graphic of an old-fashioned thermometer" caption="" >}} 
 
 There is a tendency in government to discount a range of strategies closely connected to marketing. A good example, and a recent buzzword, is content marketing. Content marketing’s main goal is to drive a user to click or sign-up; to turn them into a lead or a buying customer. We’re the federal government, we aren’t selling anything, we don’t care about [conversions](http://www.nngroup.com/articles/conversion-rates/) or lead-generation. Wrong.
 

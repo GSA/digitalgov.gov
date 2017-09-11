@@ -16,7 +16,7 @@ tag:
 
 Over the course of the last year, the National Library of Medicine (NLM) has sought to [increase its use of usability testing to improve the user experience]({{< relref "2015-01-02-past-present-future-usability-testing-at-the-national-library-of-medicine.md" >}}) on our Web resources. To do this, we conducted [hallway usability testing]({{< relref "open-opportunities-task-creator-toolkit.md" >}})10-tips-for-creating-the-perfect-open-opportunity-task/) at the [NIH Clinical Center on NLM&#8217;s site search feature](https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?query=&v%3Aproject=nlm-main-website). Our goal is to update the user interface and improve user satisfaction with results. We set out to learn the specific difficulties and successes users have with our search interface through user testing.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/600-x-290-NIH-NLM-search-results-for-Alternatives-to-Animal-Testing.jpg" alt="Screen capture of search results for Alternatives to Animal Testing." >}}
+{{< legacy-img src="2016/01/600-x-290-NIH-NLM-search-results-for-Alternatives-to-Animal-Testing.jpg" alt="Screen capture of search results for Alternatives to Animal Testing." >}}
 
 To conduct the hallway testing, two staff from NLM&#8217;s Web team set up in the lobby of the NIH Clinical Center between 11:00 am and 2:00 pm. This is a busy area frequented by researchers, clinicians and patients, all of whom are within the target audience of the NLM&#8217;s website. We brought a small folding table, a laptop and three chairs and placed a box of snacks and a Nespresso machine on a nearby table. We posted signs in the lobby advertising a free latte and snack for anyone who had ten minutes to give their opinion about our website. This was our first experience with hallway testing and we found the sessions to be insightful. We learned some valuable lessons about running a successful hallway usability test including:
 
@@ -25,7 +25,7 @@ To conduct the hallway testing, two staff from NLM&#8217;s Web team set up in th
   * Create enticing posters and advertise across a large physical area. Posters can be less intimidating than approaching people when they are trying to get back to work or catch a bus.
   * Smile and look friendly, even if you are nervous. Participants will feel more comfortable approaching you.
   * Be patient. You may be sitting there for a while before participants come to you.
-  * Be prepared to deal with more than one participant at a time. Consider having a sign-up sheet with times or multiple testing stations. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Laptops on a table" caption="" >}} 
+  * Be prepared to deal with more than one participant at a time. Consider having a sign-up sheet with times or multiple testing stations. {{< legacy-img src="2015/11/600-x-400-Modern-laptop-on-technology-exhibition-zhudifeng-iStock-Thinktock-536196251.jpg" alt="Laptops on a table" caption="" >}} 
 
   * Let participants lead the way, but be prepared with canned prompts. Sometimes open-ended questions can yield the most meaningful data but you want to have support for a stumped participant.
   * Respect your participant&#8217;s time. They&#8217;re doing you a favor.

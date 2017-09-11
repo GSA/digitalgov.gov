@@ -15,7 +15,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" alt="Spread of organic search visits by mobile friendliness from April 21, 2015 to June 29, 2015. Highlights Organic traffic up to 10% lower among sites with low mobile engagement." caption="" >}} 
+{{< legacy-img src="2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" alt="Spread of organic search visits by mobile friendliness from April 21, 2015 to June 29, 2015. Highlights Organic traffic up to 10% lower among sites with low mobile engagement." caption="" >}} 
 
 Adobe released its [quarterly Adobe Digital Index report](http://www.cmo.com/articles/2015/7/10/adi-mobilegeddon.html) this month, which showed websites that aren&#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google’s organic search referrals.
 

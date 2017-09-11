@@ -1,7 +1,7 @@
 ---
 date: 2013-10-31 10:01:14 -0400
 title: 'New Outbreaks (but No Zombies) on CDC&#8217;s Solve the Outbreak'
-summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC&rsquo;s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for'
+summary: 'The Centers for Disease Control recently added three new outbreaks to their Solve the Outbreak app. CDC released the app earlier this year to teach users how CDC&rsquo;s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points. {{< legacy-img src="2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for'
 authors:
   - jparcell
 categories:
@@ -14,7 +14,7 @@ tag:
 
 The [Centers for Disease Control](http://www.cdc.gov) recently added three new outbreaks to their [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) app. CDC released [the app earlier this year]({{< relref "2013-02-21-cdcs-solve-the-outbreak-app.md" >}} "CDC’s Solve the Outbreak App") to teach users how CDC’s disease detectives save lives everyday. There are now nine outbreaks that players can solve to earn points.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for the game Sugar Plantation Blues showing a photo of a swamp." >}}
+{{< legacy-img src="2013/10/600-x-450-Solve-the-Outbreak-Sugar-Plantation-Blues.jpg" alt="Screen shot of the first clue for the game Sugar Plantation Blues showing a photo of a swamp." >}}
 
 Since it&#8217;s Halloween, I&#8217;ll note that a zombie epidemic is not one of the outbreaks. Most Digital Gov experts might expect some zombies since CDC has a habit of using the living dead as an aid for [teaching us about public health awareness.](http://wwwnc.cdc.gov/eid/article/19/5/ad-1905_article.htm) This is the agency that brought us the [Zombie Nation campaign](http://blogs.cdc.gov/publichealthmatters/category/zombies/zombie-nation/), pulled [zombie survival lessons from The Walking Dead](http://blogs.cdc.gov/publichealthmatters/2012/02/thewalkingdead/) and even published the graphic novel &#8220;[Zombie Outbreak](http://www.cdc.gov/phpr/zombies_novella.htm).&#8221;
 

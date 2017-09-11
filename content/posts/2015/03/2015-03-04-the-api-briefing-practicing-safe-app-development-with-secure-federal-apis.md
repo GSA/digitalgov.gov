@@ -15,7 +15,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}
+{{< legacy-img src="2015/03/FDAgov-API-Key.jpg" alt="FDAgov-API-Key" >}}
 
 When browsing the various APIs offered by the federal government, you may have noticed that developers need to [sign up for an API key](https://open.fda.gov/api/reference/#authentication). You may have also noticed that the documentation tells app developers to access the API using specified methods. Along with these two requirements, federal API creators have several ways to provide secure APIs for app developers and the general public. In this posting, I will describe how federal APIs are kept secure.
 
@@ -23,7 +23,7 @@ To understand API security, you must first understand what a “session” is. W
 
 Sessions are either “stateful” or “stateless.” If one of the parties to a session needs to keep track of the session information, then the session is stateful. In the drive-thru example, the clerk needs to keep the order information so that he or she can tell the kitchen what to cook and how much to charge the customer. This is why the drive-thru session is stateful. If no information is being kept between requests during a session, then the session is stateless. Buying food and drink from a vending machine is stateless.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/FDAgov-API-authentication.jpg" alt="FDAgov-API-authentication" >}}
+{{< legacy-img src="2015/03/FDAgov-API-authentication.jpg" alt="FDAgov-API-authentication" >}}
 
  
 

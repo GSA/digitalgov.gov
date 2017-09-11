@@ -13,7 +13,7 @@ tag:
   - CX
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
+{{< legacy-img src="2015/06/600-x-257-Customer-Satisfaction-\_ba\_-iStock-Thinkstock-495869489.jpg" alt="Three Customer Satisfaction buttons for sad, neutral, and happy." caption="" >}} 
 
 We recently polled the [Customer Experience Community of Practice]({{< relref "customer-experience-community.md" >}}) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.
 
@@ -36,7 +36,7 @@ Since it first launched, HealthCare.gov has had a “voice of the customer” to
   * First-click tests
   * Individual interviews
   * Focus groups
-  * Card sort tests {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols" caption="" >}} 
+  * Card sort tests {{< legacy-img src="2015/09/600-x-380-Clean-and-color-speech-balloons-with-simbols-danteddt-iStock-thinkstock-469163369.jpg" alt="Clean and color speech balloons with question, information, and chat symbols" caption="" >}} 
 
 Some tips to prioritize qualitative feedback and receive actionable data:
 

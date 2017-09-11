@@ -13,7 +13,7 @@ tag:
 
 When Alex Snyder started working at Peace Corps a few years ago, he had an opportunity to explore a new platform for housing their digital assets. As a professional photographer himself, he saw the value in focusing on visual elements and making those more accessible. He focused on making the library about photos, video and graphics, and looked for a system that improved the photo submission process while displaying the decade’s worth of images the Peace Corps accrued. After doing extensive market research and assessing their needs, he chose a platform and began [building their Media Library](http://medialibrary.peacecorps.gov/). The Media Library has unlimited storage and the ability to collect and organize their many stunning photos that all tell the Peace Corps story.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-340-Peace-Corps-media-library-homepage.jpg" alt="Screen capture of a Peace Corps Media Library website homepage." >}}
+{{< legacy-img src="2015/11/600-x-340-Peace-Corps-media-library-homepage.jpg" alt="Screen capture of a Peace Corps Media Library website homepage." >}}
 
 ## Steps to Starting a Digital Library like Peace Corps
 
@@ -21,7 +21,7 @@ When Alex Snyder started working at Peace Corps a few years ago, he had an oppor
   2. **Have a Digital Asset Management Strategy.** How will your photos be stored, labeled and legally acquired? Alex determined how to prioritize photo organization (by date, country or event) and it is required that there’s a description for each photo submitted. Certain fields on the submission form are required. These fields then translate into automatic keywords that make it easier for Alex to organize.
   3. **Do a Call for Submissions and Use What You Already Have.** Peace Corps started expanding their library with some of their classic photos from the 1960s, &#8217;70s and &#8217;80s. This served as a good foundation for the platform. It also allowed them to test the usability of the software and identify if there were any additional needs. Now that the Media Library is up and running, they do regular calls for photos from staff and volunteers through social media and email.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/11/600-x-302-Peace-Corps-media-library-countries-page.jpg" alt="Screen capture of a Peace Corps Media Library website page." >}}
+{{< legacy-img src="2015/11/600-x-302-Peace-Corps-media-library-countries-page.jpg" alt="Screen capture of a Peace Corps Media Library website page." >}}
 
 With their Media Library, Peace Corps gets new photo submissions every day. Volunteers are using the Media Library to spread the word and talk about their work. Alex reviews all of the submissions and shares them with fellow members of the communications team so that they can continue to showcase the work of Peace Corps through visual storytelling.
 

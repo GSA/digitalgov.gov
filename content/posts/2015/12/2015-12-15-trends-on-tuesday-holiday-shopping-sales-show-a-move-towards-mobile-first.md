@@ -12,7 +12,7 @@ tag:
   - Trends on Tuesday
 ---
 
-U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Smartphone-Shopping-Bags-style-photography-iStock-Thinkstock-529650829.jpg" alt="Three brightly colored mini shopping bags sit on a smart phone" caption="" >}} 
+U.S. shoppers are increasingly using their mobile devices to make purchases during the busiest shopping days: Black Friday and Thanksgiving weekend. {{< legacy-img src="2015/12/600-x-450-Smartphone-Shopping-Bags-style-photography-iStock-Thinkstock-529650829.jpg" alt="Three brightly colored mini shopping bags sit on a smart phone" caption="" >}} 
 
 [According to Custora](http://www.digitaltrends.com/android/black-friday-905-million-sales-came-smartphones-tablets-ios-led-way/), online Black Friday sales rose more than 16% compared to last year, and smartphone use rose to more than 36% (up from 30% last year), with iPhones accounting for the lion’s share of purchases: 77.6%, compared to 22.1% for Android.
 
@@ -22,7 +22,7 @@ Data show that the divide between mobile and tablet devices is often split by ag
 
   * Locating store hours and locations
   * Browsing products and price comparison shopping
-  * Reading reviews {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-412-Paper-shopping-bags-on-computer-tablet-screen-monticelllo-iStock-Thinkstock-471372762.jpg" alt="Paper shopping bags on computer tablet screen" caption="" >}} 
+  * Reading reviews {{< legacy-img src="2015/12/600-x-412-Paper-shopping-bags-on-computer-tablet-screen-monticelllo-iStock-Thinkstock-471372762.jpg" alt="Paper shopping bags on computer tablet screen" caption="" >}} 
 
 This increase in mobile shopping and purchasing is further evidence that more people are becoming comfortable with [going mobile-first for complex or sensitive data, like making purchases]({{< relref "2015-03-10-trends-on-tuesday-more-time-consuming-complex-tasks-on-mobile-platforms.md" >}}).
 

@@ -13,7 +13,7 @@ tag:
   - Twitter
 ---
 
-  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-366-Social-Network-People-Andrew-Johnson-iStock-Thinkstock-164900909.jpg" alt="Social Network People" caption="" >}} 
+  {{< legacy-img src="2015/03/600-x-366-Social-Network-People-Andrew-Johnson-iStock-Thinkstock-164900909.jpg" alt="Social Network People" caption="" >}} 
 
 Like private sector organizations, U.S. public sector organizations have experienced shifts in how they use both the Internet and social media to interact with the public. The mid-1990s onwards saw an increase in the number of websites helping individual members of the public learn more about various public sector organizations and initiatives directly from the organizational source, instead of having to go in-person to a library or view microfiche. The mid-2000s onwards saw an increase in the number of public sector organizations using one or more social media platforms to engage the public.
 

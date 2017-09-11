@@ -12,7 +12,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" caption="" >}} 
+{{< legacy-img src="2014/07/250-x-276-illustration-film-reel-phone-Mobile-video-Natalia-Silych-iStock-Thinkstock-149793943.jpg" alt="An illustration of a film reel merging with a smart phone to represent mobile video" caption="" >}} 
 
 Like many Americans during the last month, I developed FIFA fever. Checking on scores, anticipating the latest Google Doodle and watching game highlights became part of my daily iPhone routine.
 

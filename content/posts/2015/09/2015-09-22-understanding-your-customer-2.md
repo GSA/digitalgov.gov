@@ -19,7 +19,7 @@ tag:
   - USDA
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}} 
+{{< legacy-img src="2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}} 
 
 How well do you know your customers? There’s a new guide out from the [Excellence In Government (EIG) Fellows Program](http://ourpublicservice.org/issues/develop-leaders/excellence-in-government-fellows.php) to help you do just that.
 
@@ -31,7 +31,7 @@ Under the CAP goal, agencies are charged with transforming their work environmen
 
 ## Six Steps to Customer Understanding
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" >}}
+{{< legacy-img src="2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" >}}
 
 The simple Guide to [Understanding Your Customer](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Understanding-Your-Customer.pdf) developed by our team covers six key points:
 

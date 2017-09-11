@@ -19,7 +19,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.
+{{< legacy-img src="2014/05/250-x-250-NLM-National-Library-of-Medicine-Pillbox-app-icon.jpg" alt="National Library of Medicine (NLM) Pillbox app icon" >}}Tuesday, October 7 at 2pm ET, the National Library of Medicine at the National Institutes of Health will host a [Google Hangout](https://plus.google.com/events/ce9jgn3qt5p8djudq0eekreja1k) to talk about developing with the API, data, and open source code from Pillbox.
 
 I (Pillbox project manager), Mark Silverberg of Social Health Insights (builder of super cool health apps), and Maya Uppaluru of ONC (leads their Innovation Engagement program) will go under the hood of Pillbox.
 

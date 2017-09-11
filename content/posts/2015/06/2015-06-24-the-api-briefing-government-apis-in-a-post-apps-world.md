@@ -14,7 +14,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" alt="Illustration of six travel- and entertainment-related icons with lines connected to a smart phone that reads, One app to rule them all?" caption="" >}} 
+{{< legacy-img src="2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" alt="Illustration of six travel- and entertainment-related icons with lines connected to a smart phone that reads, One app to rule them all?" caption="" >}} 
 
 Take out your smartphone and count the number of apps that you have. How many of these apps do you use daily? What about the apps you use weekly? Do you have any apps that you installed but used only once? Any apps that you have never used?
 

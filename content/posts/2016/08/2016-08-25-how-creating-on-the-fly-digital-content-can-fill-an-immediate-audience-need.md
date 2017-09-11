@@ -21,7 +21,7 @@ When some U.S. athletes at this month’s Olympic Games started showing up at th
 
 In less than a day after the spots were…spotted, the story of the mysterious circles was becoming clearer: they were the result of cupping—a [traditional Chinese medicine (TCM)](https://nccih.nih.gov/health/chinesemed) practice that involves placing cups on the skin to create suction.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/600-x-385-Instagram\_NCCIH\_cupping.jpg" alt="NCCIH Instagram post on cupping." >}}
+{{< legacy-img src="2016/08/600-x-385-Instagram\_NCCIH\_cupping.jpg" alt="NCCIH Instagram post on cupping." >}}
 
 Our communications team at the [National Center for Complementary and Integrative Health](https://nccih.nih.gov/) (NCCIH), the Federal Government’s lead agency for scientific research on health care systems, practices, and products that are not generally considered part of conventional medicine (like TCM), quickly identified that there might be an opportunity for our agency to be a part of this conversation.
 
@@ -71,7 +71,7 @@ In the weeks since we posted the cupping information, we learned:
   * The content reached new audiences;
   * Our Facebook and Twitter posts were the highest performing content for that week.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/08/450-x-475-Facebook\_NCCIH\_Cupping.jpg" alt="NCCIH Facebook post on cupping; this Admin view shows that it reached over 17,000 people and shared 120 times." >}}
+{{< legacy-img src="2016/08/450-x-475-Facebook\_NCCIH\_Cupping.jpg" alt="NCCIH Facebook post on cupping; this Admin view shows that it reached over 17,000 people and shared 120 times." >}}
 
 What these results tell us, particularly with regard to the actual time spent by people on the cupping Web page, are that:
 

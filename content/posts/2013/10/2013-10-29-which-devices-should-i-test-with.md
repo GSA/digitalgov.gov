@@ -9,7 +9,7 @@ tag:
   - mobile
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}**Like a kid in a candy store&#8230;**
+{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}**Like a kid in a candy store&#8230;**
 
 Every time we go to the mall, the kids pull us to the candy store with the floor-to-ceiling tubes of colored candy. The kids quickly grab their bags and scavenge from each of the bins until their bags fill up. They usually don’t even get to the second aisle of candy.
 

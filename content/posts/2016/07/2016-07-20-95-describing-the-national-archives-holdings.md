@@ -21,11 +21,11 @@ Describing our records in the online Catalog means that the information for all 
 
 We&#8217;ve come a long way since our first online catalog was released in 2001. By 2003, only 19% of our holdings were described online for the public to view. This means that without coming to an archives facility or contacting reference staff, the public could only be aware of 19% of our records. We know how difficult this made archival research.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-National-Archives-nara-Holdings-Described-chart-2003-2016.jpg" alt="A line chart titled National Archives Holdings Described shows rise from 19 percent in 2003 to 95 percent in 2016." >}}
+{{< legacy-img src="2016/07/600-x-400-National-Archives-nara-Holdings-Described-chart-2003-2016.jpg" alt="A line chart titled National Archives Holdings Described shows rise from 19 percent in 2003 to 95 percent in 2016." >}}
 
 Describing our records also ensures that our archival holdings fit into an archival hierarchy. At the highest level of that hierarchy are Record Groups and Collections, and beneath those are Series. Beneath Series are more granular description levels – File Units and Items. When we say we have 95% of our holdings described, we mean at the Series level.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/07/600-x-400-National-Archives-NARA-records-hierarchy-flowchart.jpg" alt="A records hierarchy flowchart." >}}
+{{< legacy-img src="2016/07/600-x-400-National-Archives-NARA-records-hierarchy-flowchart.jpg" alt="A records hierarchy flowchart." >}}
 
 For example, the series <a href="https://catalog.archives.gov/id/530707" target="_blank">Photographs of American Military Activities, ca. 1918 – ca. 1981</a> consists of photographs documenting American activity, the bulk of which is military, from 1918 to 1981. You can see the robust level of description in this series identifying the hierarchy of records, dates, finding aid information, as well as scope and content notes. From this series description, you will also find a link to the <a href="https://catalog.archives.gov/search?q=*:*&f.parentNaId=530707&f.level=item&sort=naIdSort%20asc" target="_blank">items and digital objects</a> in this series that are also currently described in the catalog. By reaching 95% series description, we have improved the ability for the public to be aware of and access our records.
 

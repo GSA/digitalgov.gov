@@ -22,7 +22,7 @@ tag:
   - US Securities and Exchange Commission
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}} 
+{{< legacy-img src="2015/03/600-x-408-Technology-Concept-Business-Chart-alexaldo-iStock-Thinkstock-497231209.jpg" alt="Technology Concept Business Chart" caption="" >}} 
 
 Metadata for website content is usually managed as part of the editorial process when documents are created and published with [content management systems]({{< relref "2013-10-30-content-management-systems-toolkit.md" >}}).
 

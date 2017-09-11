@@ -16,7 +16,7 @@ tag:
   - Recaps
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" caption="" >}} 
+{{< legacy-img src="2014/08/250-x-265-Checklist-PixelEmbargo-iStock-Thinkstock-164155765.jpg" alt="Checklist" caption="" >}} 
 
 Choosing between a contract, a grant, or a public prize competition to get solutions to the problems your agency faces is a difficult task. Each is a tool that has different qualities and each might be the best choice for varying situations.
 

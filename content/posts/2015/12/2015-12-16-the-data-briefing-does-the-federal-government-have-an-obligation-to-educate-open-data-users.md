@@ -37,7 +37,7 @@ Pop quiz on statistics and data science (answers at the end of the article):
   <li>
     Interval
   </li>
-</ol> {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/600-x-450-Key-hole-background-Sergey-Nivens-iStock-Thinkstock-180206412.jpg" alt="Concept art: An old-fashioned keyhole shape that is cut out of a blackboard displaying various types of data lets light into the room" caption="" >}} 
+</ol> {{< legacy-img src="2015/12/600-x-450-Key-hole-background-Sergey-Nivens-iStock-Thinkstock-180206412.jpg" alt="Concept art: An old-fashioned keyhole shape that is cut out of a blackboard displaying various types of data lets light into the room" caption="" >}} 
 
 2) I have some ordinal data that I want to analyze for trends. Would the one-sample t-test be appropriate to analyze my data?
 
@@ -71,7 +71,7 @@ Tony Hirst, a Senior Lecturer at the Open University in the United Kingdom, <a h
 
 Once the data is in good shape, the user would need to know how to use the data. That involves understanding basic statistics so as to know the appropriate statistical techniques to apply for analysis and visualization. Alternatively, an app developer would need to know how to create a well-formed request to an API (application programming interface).
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." >}}
+{{< legacy-img src="2015/07/600-x-278-FEMA-Georgia-56-disasters-since-1953-visualization-county-map.jpg" alt="A data visualization map of Georgia shows different types of disasters that have occurred since 1953." >}}
 
 As I often tell my students, there are many good tools out there that allow one to create in-depth statistical analysis or build a sophisticated mobile app easily and with little knowledge. That is a benefit and a curse. A benefit is that the tools make it much easier to extract the value out of government datasets and a curse is that the wrong conclusions can be drawn from a badly-analyzed dataset. Alternatively, even worse, damages can result from relying upon a poorly-designed app that uses a government API.
 

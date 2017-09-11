@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a [new report about app retention](http://flurrymobile.tumblr.com/post/144245637325/appmatrix). Unless your app usage is around &#8220;gambling&#8221;—with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)—user retention and re-engagement is often a steep wall to climb. {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 
+Flurry Analytics, a mobile application analytics company owned by Yahoo!, released a [new report about app retention](http://flurrymobile.tumblr.com/post/144245637325/appmatrix). Unless your app usage is around &#8220;gambling&#8221;—with cards (game apps), with your money (finance apps), with whether or not to bring an umbrella (weather apps), or with your health (fitness apps)—user retention and re-engagement is often a steep wall to climb. {{< legacy-img src="2016/02/600-x-400-Woman-using-her-Mobile-Phone-Night-Light-Background-LDProd-iStock-Thinkstock-450947285.jpg" alt="Woman using her mobile phone, outside at night." caption="" >}} 
 
 The research shows that top trends across Android and Apple apps are similar, but Android users appear to be a little more choosey when it comes to re-using an app: after 30 days, Android app retention clusters around 10%, compared to 14% for Apple.
 

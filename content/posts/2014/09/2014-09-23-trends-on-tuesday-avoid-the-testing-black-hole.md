@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
+{{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}
 
 Remember the Golden Age of Web development? A time long ago when there were only five desktop browsers to support, a few different screen sizes and every user connected via broadband? Well, those days are over. With the advent of mobile Web implementations like [responsive Web design]({{< relref "2013-06-11-responsive-design.md" >}} "Responsive Design Overview, Resources and Tools"), there are three times the number of browsers working on many different-sized devices with varying operating systems and connection speeds. Trying to tackle all of these factors quickly becomes a testing nightmare.
 

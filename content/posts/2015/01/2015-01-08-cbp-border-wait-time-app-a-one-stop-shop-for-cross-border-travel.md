@@ -16,11 +16,11 @@ tag:
   - United States Department of Homeland Security
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-338-DHS-Customs-and-Border-Patrol-CBP-Twitter-seal.jpg" alt="DHS Customs and Border Patrol CBP seal from Twitter" >}}The new [Border Wait Time](http://bwt.cbp.gov/) app from [U.S. Customs and Border Protection](http://www.cbp.gov/) (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry closest to their location, and then map the best route to the crossing of their choice.
+{{< legacy-img src="2015/01/250-x-338-DHS-Customs-and-Border-Patrol-CBP-Twitter-seal.jpg" alt="DHS Customs and Border Patrol CBP seal from Twitter" >}}The new [Border Wait Time](http://bwt.cbp.gov/) app from [U.S. Customs and Border Protection](http://www.cbp.gov/) (CBP) is a one stop shop for cross border travelers, displaying estimated wait times and open lane statuses at U.S. land ports of entry. Travelers can also locate ports of entry closest to their location, and then map the best route to the crossing of their choice.
 
 For example, the app allows travelers in the Buffalo, New York, area to compare wait times at the Peace Bridge, Rainbow Bridge and Lewiston Queenston Bridge and will then direct them to whichever crossing they chose.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/250-x-445-nearest-ports-with-pop-up-US-Customs-and-Border-Protection-CBP-Border-Wait-Times-BWT-app.jpg" alt="250-x-445-nearest ports with pop up US Customs and Border Protection CBP Border Wait Times BWT app" >}}Wait times for pedestrian, passenger and commercial vehicle crossings are broken down by lane type (standard, SENTRI, NEXUS, FAST, Ready Lane, etc.). Check out the app&#8217;s frequently asked questions section for an explanation of the different lane types, and other helpful hints on using the app.
+{{< legacy-img src="2015/01/250-x-445-nearest-ports-with-pop-up-US-Customs-and-Border-Protection-CBP-Border-Wait-Times-BWT-app.jpg" alt="250-x-445-nearest ports with pop up US Customs and Border Protection CBP Border Wait Times BWT app" >}}Wait times for pedestrian, passenger and commercial vehicle crossings are broken down by lane type (standard, SENTRI, NEXUS, FAST, Ready Lane, etc.). Check out the app&#8217;s frequently asked questions section for an explanation of the different lane types, and other helpful hints on using the app.
 
 Travelers can also bookmark their favorite ports of entry within the app for easy reference.
 

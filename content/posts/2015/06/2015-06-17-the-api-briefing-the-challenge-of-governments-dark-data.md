@@ -13,7 +13,7 @@ tag:
   - Wednesday API Briefing
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/600-x-400-Server-room-Tomasz-Wyszolmirski-iStock-Thinkstock-178134397.jpg" alt="Server room" caption="" >}} 
+{{< legacy-img src="2015/06/600-x-400-Server-room-Tomasz-Wyszolmirski-iStock-Thinkstock-178134397.jpg" alt="Server room" caption="" >}} 
 
 By now, you are familiar with “[big data]({{< relref "2015-01-20-trends-big-data-and-gov-in-2015.md" >}})” or datasets that are so large that they cannot be analyzed by conventional analytical methods. You may have heard of “long data” which is data that has a temporal context. I work with long data when I analyze hiring patterns over time in workforce data. There is also “small data.” Small data are datasets that describe a current condition. For example, if you have a smart home appliance such as a smart thermostat or a home security system, that appliance is constantly monitoring data such as temperature or if a door is open. The appliance does not store the data (or may store the data for a short time) but only reacts if there is a change in the data. As you can see, there are many types of data.
 

@@ -10,7 +10,7 @@ tag:
   - customer service
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 
+{{< legacy-img src="2014/09/600-x-366-Customer-service-concept-in-word-tag-cloud-on-white-rafal_olechowski-iStock-Thinkstock-452236277.jpg" alt="Customer service concept in word tag cloud on white" caption="" >}} 
 
 Help us celebrate the Everyday Heroes in our agencies during Customer Service Week, October 5-9, 2015.
 

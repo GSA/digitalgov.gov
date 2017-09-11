@@ -21,7 +21,7 @@ The week before Patriot Day, our nation’s annual remembrance of the 9/11 attac
 
 > “When I was deployed to the Trade Center on 9/11, my first 12 hours were spent trying to get communications established.”—Mike Worrell
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/09/600-x-900-Phoenix-Fire-Dept-First-Responders-on-September-11th.jpg" alt="During the response to 9/11, Worrell and his fellow first responders had to wait 12-14 hours after data collection get access to key data." >}}
+{{< legacy-img src="2016/09/600-x-900-Phoenix-Fire-Dept-First-Responders-on-September-11th.jpg" alt="During the response to 9/11, Worrell and his fellow first responders had to wait 12-14 hours after data collection get access to key data." >}}
 
 In the video below, FirstNet’s Mike Worrell talks about the communication challenges he faced as a first responder on 9/11 at the World Trade Center. Cell phone systems weren’t working, video of the incident couldn’t be shared, and Worrell and his fellow first responders had to wait 12-14 hours after data collection get access to key data. In the future, Worrell says, FirstNet will provide real-time data collection and situational awareness so vital to effective first response.
 
