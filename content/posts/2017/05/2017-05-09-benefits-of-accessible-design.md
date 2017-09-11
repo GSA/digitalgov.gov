@@ -17,7 +17,7 @@ tag:
 
 <p dir="ltr">
   According to the World Bank, <a class="ext extlink" href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <strong>world&#8217;s largest minority.</strong> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
-</p> {{< legacy-img src="CDN/files/2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 
+</p> {{< legacy-img src="2015/03/600-x-213-Three-vision-icons-from-Disabled-releated-vector-icons-set-greyj-iStock-Thinkstock-503597291.jpg" alt="Three gray and white icons for visual impairment." caption="" >}} 
 
 <p dir="ltr">
   Currently many websites and digital platforms are inaccessible, which makes them difficult or impossible for people with disabilities (including visual, auditory, physical, speech, cognitive, or neurological) to use. Making websites and software accessible has numerous benefits for people with disabilities, consumers, and businesses. Among these benefits are building an expanded customer base, reducing expenses, and and inspiring innovation through inclusion.

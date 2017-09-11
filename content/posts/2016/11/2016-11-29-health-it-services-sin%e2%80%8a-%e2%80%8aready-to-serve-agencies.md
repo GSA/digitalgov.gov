@@ -20,7 +20,7 @@ As a reminder, the Health IT Services SIN simplifies the procurement process, ma
 
 Additionally, the Health IT SIN also supports the [Federal Health IT Strategic Plan](https://www.healthit.gov/sites/default/files/9-5-federalhealthitstratplanfinal_0.pdf) to expand adoption of health IT services, reduce prices, advance secure and interoperable health information solutions, and strengthen healthcare delivery systems.
 
-{{< legacy-img src="CDN/files/2017/03/600-x-874-infographic\_FEDERAL-HEALTH-IT-STRATEGIC-PLAN-2015-–-2020\_plan-vision-mission-goals.jpg" alt="This infographic displays the vision, mission, and four overarching goals of the Federal Health IT Strategic Plan." >}}
+{{< legacy-img src="2017/03/600-x-874-infographic\_FEDERAL-HEALTH-IT-STRATEGIC-PLAN-2015-–-2020\_plan-vision-mission-goals.jpg" alt="This infographic displays the vision, mission, and four overarching goals of the Federal Health IT Strategic Plan." >}}
 
 In the coming months, in cooperation with our agencies and industry partners, we will actively engage in expanding the usage of the new Health IT SIN.
 

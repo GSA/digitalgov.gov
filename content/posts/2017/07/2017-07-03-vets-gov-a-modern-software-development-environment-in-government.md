@@ -47,6 +47,6 @@ In 2015, Marina Martin, the former VA Chief Technology Officer (CTO) and lead fo
 
 Beyond all odds, we believe we are showing this is actually possible at the VA, and we truly believe that if this is possible at the VA, it’s possible anywhere in the government. There is still so much work to do, however. The best way we know how to do this is to keep shipping products that matter, so we’re going back to work. Want to <a href="https://www.usds.gov/join" target="_blank" rel="noopener">join us</a>?_Alex Yale-Loehr and Raquel Romano are software engineers working with the Digital Service at Veterans Affairs team._
 
-{{< legacy-img src="CDN/files/2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
+{{< legacy-img src="2017/07/USDS-Digital-Service-at-VA-Veterans-Affairs.png" alt="Logo for the U.S. Digital Service at Veterans Affairs (VA)." >}}
 
 _This post was originally published on the [U.S. Digital Service blog on Medium](https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a)._

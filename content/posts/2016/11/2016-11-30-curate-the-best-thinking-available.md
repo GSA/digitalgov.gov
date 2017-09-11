@@ -16,7 +16,7 @@ When I joined the [<span class="s2">code.gov</span>](https://code.gov/) project,
 
 In August of this year, the [<span class="s3">Federal Source Code Policy</span>](https://sourcecode.cio.gov/) was signed. It requires federal agencies to, among other things, inventory their custom software and make the inventory available for consumption and display by code.gov. This will allow agencies to reuse and collaborate on software. You can [<span class="s3">read more about the policy on code.gov</span>](https://code.gov/#/policy-guide/docs/overview/introduction).
 
-{{< legacy-img src="CDN/files/2017/03/600-x-500-Curate-the-best-thinking-available-By-Theresa-Summa-homepage-cfpb.jpg" alt="The code.gov homepage showing CFPB's open source resources." >}}
+{{< legacy-img src="2017/03/600-x-500-Curate-the-best-thinking-available-By-Theresa-Summa-homepage-cfpb.jpg" alt="The code.gov homepage showing CFPB's open source resources." >}}
 
 The urgency to define the schema was driven by a 120-day deadline for agencies to use the schema to prepare their enterprise code inventories. We needed to define the schema with plenty of time for agencies to digest and adopt it.
 

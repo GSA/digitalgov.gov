@@ -21,7 +21,7 @@ The Office of Information Policy (OIP) is pleased to announce its collaboration 
 
 This is the next step in a long line of OIP initiatives working towards a National FOIA Portal going back to 2010 with the launch of [FOIA.gov](https://www.foia.gov/). Most recently, the [FOIA Improvement Act of 2016](https://www.justice.gov/oip/freedom-information-act-5-usc-552) required the creation of a National FOIA Portal that is interoperable with agencies’ current systems and allows the public to submit a request for records to any agency from a single website.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-334-FOIA-homepage.jpg" alt="Screen capture of the FOIA homepage." >}}
+{{< legacy-img src="2017/04/600-x-334-FOIA-homepage.jpg" alt="Screen capture of the FOIA homepage." >}}
 
 FOIA requesters and agency personnel: your participation will be key to the success of this portal. Building off previous work and research with FOIA users, OIP and 18F will focus on user research and discovery of issues necessary to inform future development. If you’re interested in joining the effort and providing feedback throughout the process, [please email us](mailto:National.FOIAPortal@usdoj.gov?subject=FOIA Portal){.mailto} by **April 28, 2017**.
 

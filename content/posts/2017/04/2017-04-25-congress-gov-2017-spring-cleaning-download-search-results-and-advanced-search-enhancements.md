@@ -18,21 +18,21 @@ Spring is a beautiful time of year in Washington, D.C. The temperature warms up;
 
 The big new item in this release is the ability to download your search results to a CSV ([comma separated values](https://en.wikipedia.org/wiki/Comma-separated_values)) file. You can then open and manipulate the data in a spreadsheet. Soon, I will write a post to demonstrate this feature in more detail.
 
-{{< legacy-img src="CDN/files/2017/04/250-x-550-congressdotgov-homepage-highlights-right-side-62.jpg" alt="Two highlights circled in red on the Congress.gov homepage." >}}There have been a few changes on the homepage. One nice addition is highlighting Search Tips. Above that, in the News from the Law Library section, there will now be a contextual photo from the blog post.
+{{< legacy-img src="2017/04/250-x-550-congressdotgov-homepage-highlights-right-side-62.jpg" alt="Two highlights circled in red on the Congress.gov homepage." >}}There have been a few changes on the homepage. One nice addition is highlighting Search Tips. Above that, in the News from the Law Library section, there will now be a contextual photo from the blog post.
 
 Several improvements and features have been added to the [Advanced Search](https://congress.gov/advanced-search/legislation?loclr=bloglaw), [Query Builder](https://congress.gov/advanced-search?loclr=bloglaw), and [Quick Search](https://www.congress.gov/quick-search/legislation?loclr=bloglaw) forms. One nice addition to many of the Quick Search forms is a related [Browse link](https://congress.gov/browse?loclr=bloglaw) next to the About link. It gives you a fast, direct way to switch from searching to browsing.
 
 Also, when using the Quick Search “Words and Phrases” box, it now defaults to a presumed AND between the words rather than OR. This change is a direct result of [user testing](http://blogs.loc.gov/law/2017/03/testing-and-enhancing-congress-gov/?loclr=bloglaw). What does it mean? If you typed _Library of Congress_, the search previously would have been looking for _Library_ OR _of_ OR _Congress_. With the current updates, it is looking for _Library_ AND _of_ AND _Congress_. This will generate fewer items in your search results. For now, this feature is only available in Quick Search.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-425-congressdotgov-quick-search-committee-reports.jpg" alt="Additions for Browse Committee Publications, Report Types, and Search are circled in red on the Committee Reports page." >}}
+{{< legacy-img src="2017/04/600-x-425-congressdotgov-quick-search-committee-reports.jpg" alt="Additions for Browse Committee Publications, Report Types, and Search are circled in red on the Committee Reports page." >}}
 
 The Query Builder also has been enhanced. There are now selections from the drop down for “no word variants” and “case sensitive” for several items. And there are more distance options for the “is near” operator on the form.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-490-congressdotgov-query-builder-update-april-2017.jpg" alt="Four items are circled in red to show enhancements to the Query Builder Form." >}}
+{{< legacy-img src="2017/04/600-x-490-congressdotgov-query-builder-update-april-2017.jpg" alt="Four items are circled in red to show enhancements to the Query Builder Form." >}}
 
 The [RSS and Email Alerts](https://congress.gov/rss?loclr=bloglaw) page continues to grow with Nomination Alerts now listed there.
 
-{{< legacy-img src="CDN/files/2017/04/600-x-885-congressdotgov-nomination-alerts.jpg" alt="Nomination Alerts, circled in red, was added to the RSS and Email Alerts page." >}}
+{{< legacy-img src="2017/04/600-x-885-congressdotgov-nomination-alerts.jpg" alt="Nomination Alerts, circled in red, was added to the RSS and Email Alerts page." >}}
 
 The [Congress.gov Enhancements](https://www.congress.gov/about/enhancements?loclr=bloglaw) page provides a complete list of these and the enhancements from prior releases:
 

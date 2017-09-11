@@ -15,7 +15,7 @@ tag:
 
 December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms “bug” and “debugging.” The GSA’s IT Digital Service Team will celebrate Admiral Hopper’s birthday with a [beginner-friendly hackathon](http://open.gsa.gov/grace-hopper-hackathon/).
 
-{{< legacy-img src="CDN/files/2017/03/600-x-450-Grace-Hopper-teaching-COBOL.jpg" alt="Grace Hopper teaching COBOL." >}}
+{{< legacy-img src="2017/03/600-x-450-Grace-Hopper-teaching-COBOL.jpg" alt="Grace Hopper teaching COBOL." >}}
 
 The Grace Hopper Day Hackathon is the perfect hackathon for beginners. Almost all hackathons are great ways to start coding. You might think that hackathons are only for experienced developers who subsist off energy drinks and junk food while building incredible apps in just a few hours. True, there are experienced developers who create some amazing innovations after marathon coding sessions. However, beginning developers and non-technical people can also play an important role on a hackathon team.
 

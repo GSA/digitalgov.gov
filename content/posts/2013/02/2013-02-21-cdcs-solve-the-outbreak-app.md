@@ -11,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-{{< legacy-img src="CDN/files/2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" >}} The [Centers for Disease Control](http://cdc.gov) has launched a new table app [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) designed to teach users how CDC&#8217;s disease detectives save lives everyday.
+{{< legacy-img src="2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" >}} The [Centers for Disease Control](http://cdc.gov) has launched a new table app [Solve the Outbreak](https://itunes.apple.com/us/app/solve-the-outbreak/id592485067?mt=8) designed to teach users how CDC&#8217;s disease detectives save lives everyday.
 
 In this interactive, engaging app, you are a disease detective who gets to decide what to do when an outbreak occurs: Do you quarantine the village? Talk to the people who are sick? Ask for more lab results?
 

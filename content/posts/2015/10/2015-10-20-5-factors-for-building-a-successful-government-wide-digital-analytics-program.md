@@ -15,7 +15,7 @@ tag:
   - Open Opportunities program
 ---
 
-{{< legacy-img src="CDN/files/2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}}
+{{< legacy-img src="2014/10/600-x-400-Graphic-charts-bizoo_n-iStock-Thinkstock-478288259.jpg" alt="Various analytics graphic charts" caption="" >}}
 
 Launched just three years ago, the [Digital Analytics Program (DAP)]({{< relref "dap.md" >}}) continues to drive the [2012 Digital Government Strategy’s](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance) mission to improve the citizen experience by streamlining the collection and analysis of digital analytics data on a federal government-wide scale.
 
@@ -39,7 +39,7 @@ As DAP grew, we created a dedicated helpdesk to provide on-going support to user
 
 DAP also hosts regular monthly office hours by phone to provide program updates and answer any questions from our users.
 
-### Engage your customers and get their help {{< legacy-img src="CDN/files/2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}
+### Engage your customers and get their help {{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}
 
 Encourage self-help. For any program, as the number of users grows, user training becomes a critical element. With limited resources to spare, we tapped into GSA’s [Open Opportunities](https://openopps.WHATEVER/dashboard) program to bring in other agencies’ Web analytics experts to train the DAP users on how to use the tool. This not only allowed us to expand the training program from just Webinars to quarterly in-person trainings with live streaming for remote participants, but further helped with DAP agency adoption and acceptance as the DAP instructors came from other agencies.
 
@@ -69,7 +69,7 @@ Given the unprecedented scale of the program, we knew that we’d need outside e
 
 ### 4. Make Data Accessible Inside and Outside the Government
 
-{{< legacy-img src="CDN/files/2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}When DAP first came to life, users were only allowed to view their own agency’s website data. [Even that was ground-breaking as most had only seen the data for their own site and never with full access to reporting across the enterprise.] But, that was just a start.
+{{< legacy-img src="2014/05/250-x-346-Keep-Calm-and-Open-Data-American-Flag-Statue-of-Lady-Liberty.jpg" alt="Meme: Keep Calm and Open Data over an American flag" >}}When DAP first came to life, users were only allowed to view their own agency’s website data. [Even that was ground-breaking as most had only seen the data for their own site and never with full access to reporting across the enterprise.] But, that was just a start.
 
 Just shy of DAP’s second birthday, access to **all** DAP data government-wide was rolled out to every participating DAP agency user. That meant every DAP user had access not only to their specific agency’s data, but all of the participating agencies’ views, as well as the full government-wide rollup. In the [memo to agencies]({{< relref "guidance-for-dap-gov-wide-data.md" >}}), then U.S. Federal Chief Information Officer Steven VanRoekel stated, “opening the DAP government-wide data will let participating agencies see other agency’s public-facing website analytics, gain valuable knowledge about shared customers, benchmark against similar agencies, and, most importantly, engage in collaboration and exchange lessons learned.”
 

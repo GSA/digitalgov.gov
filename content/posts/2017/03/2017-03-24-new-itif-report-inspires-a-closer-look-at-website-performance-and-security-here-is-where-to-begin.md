@@ -49,7 +49,7 @@ Over the past 90 days, government websites were visited over 2.55 billion times.
 
 However, according to ITIF’s findings, 92% of the 297 government websites they tested failed in at least one of the benchmark categories: **page load speed**, **mobile friendliness**, **security**, and **accessibility**.
 
-So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="CDN/files/2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
+So based on the four benchmark areas, we’ve pulled together a number of resources and tools to help you make your agency’s website provide better access to services and information. {{< legacy-img src="2017/03/600-x-333-Advice-and-Support-Service-Concept-olm26250-iStock-Thinkstock-486135391.jpg" alt="A compass with the needle pointing to the word, solutions." caption="" >}} 
 
 ## Improving Your Site’s Performance
 

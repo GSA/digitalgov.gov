@@ -17,7 +17,7 @@ tag:
   - United States Department of Homeland Security
 ---
 
-The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The <a href="https://www.dhs.gov/science-and-technology" target="_blank" rel="noopener noreferrer">DHS Science and Technology Directorate (S&T)</a> led the study in coordination with the National Institute of Standards and Technology and its National Cybersecurity Center of Excellence. {{< legacy-img src="CDN/files/2017/05/600-x-400-Digital-Internet-security-HYWARDS-iStock-Thinkstock-614342526.jpg" alt="Digital Internet security." caption="" >}} 
+The Department of Homeland Security (DHS) has submitted a report to Congress that details current and emerging threats to the Federal government’s use of mobile devices and recommends security improvements to the mobile device ecosystem. The <a href="https://www.dhs.gov/science-and-technology" target="_blank" rel="noopener noreferrer">DHS Science and Technology Directorate (S&T)</a> led the study in coordination with the National Institute of Standards and Technology and its National Cybersecurity Center of Excellence. {{< legacy-img src="2017/05/600-x-400-Digital-Internet-security-HYWARDS-iStock-Thinkstock-614342526.jpg" alt="Digital Internet security." caption="" >}} 
 
 Mandated by the Cybersecurity Act of 2015, the “Study on Mobile Device Security” relied on significant input from mobile industry vendors, carriers, service providers and academic researchers.
 

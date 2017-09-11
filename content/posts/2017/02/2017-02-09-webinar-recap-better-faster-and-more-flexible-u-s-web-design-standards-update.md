@@ -18,7 +18,7 @@ tag:
 
 You may have noticed a new, cleaner, and more modern look to some government websites over the last year—these are the web properties that were early adopters of the [Draft U.S. Web Design Standards](https://standards.usa.gov/) from 18F, the digital services agency which is part of the General Services Administration (GSA).
 
-{{< legacy-img src="CDN/files/2017/04/600-x-420-Draft-US-Web-Design-Standards-UI-page-screencap.jpg" alt="Screencapture of the UI (user interface) page on the Draft US Web Design Standards website." >}}
+{{< legacy-img src="2017/04/600-x-420-Draft-US-Web-Design-Standards-UI-page-screencap.jpg" alt="Screencapture of the UI (user interface) page on the Draft US Web Design Standards website." >}}
 
 The Standards are located at <https://standards.usa.gov>, with helpful links to the individual [UI components](https://standards.usa.gov/components/), [design principles](https://standards.usa.gov/design-principles/), and [page templates](https://standards.usa.gov/page-templates/). You can also visit [the GitHub repository for the Design Standards](https://github.com/18F/web-design-standards)—for those not in the know, GitHub is a place where web developers can store their code and release notes in an open environment. Users can review and download the code and standards, and can also “fork” them—that is, modify for their own use.
 

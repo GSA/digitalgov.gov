@@ -16,7 +16,7 @@ tag:
   - UX
 ---
 
-{{< legacy-img src="CDN/files/2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}
+{{< legacy-img src="2014/03/Kidsgov-Usability-test-IMG\_9987a-600-x-400.jpg" alt="Kidsgov-Usability-test-IMG\_9987a-600-x-400" >}}
 
 What do kids know about Web design? As we found out, quite a lot.
 
