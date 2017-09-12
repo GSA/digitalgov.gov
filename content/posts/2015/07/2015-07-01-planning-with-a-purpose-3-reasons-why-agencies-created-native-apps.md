@@ -1,4 +1,5 @@
 ---
+slug: planning-with-a-purpose-3-reasons-why-agencies-created-native-apps
 date: 2015-07-01 10:10:18 -0400
 title: 'Planning with a Purpose: 3 Reasons Why Agencies Created Native Apps'
 summary: 'Mobile. It&rsquo;s here, and it&rsquo;s here to stay! Agencies in all areas of government meet real world needs through mobile products. Creating effective mobile products requires planning, however. Agencies who have created native apps outlined three areas they considered in the mobile development process: strategy, business requirements and measuring value. Strategy Before creating a mobile'

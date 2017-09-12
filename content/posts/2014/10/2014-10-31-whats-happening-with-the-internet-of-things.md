@@ -1,4 +1,5 @@
 ---
+slug: whats-happening-with-the-internet-of-things
 date: 2014-10-31 12:32:33 -0400
 title: 'What&#8217;s Happening with the Internet of Things?'
 summary: 'No Mobile Gov Month on DigitalGov would be complete without an update on the Internet of Things. Regardless if you&rsquo;re talking wearables, smart homes, sensors or any other connected device, your current mobile approaches will be impacted&mdash;as will your social media, user experience and data strategies. When we last visited the topic in April, discussion'

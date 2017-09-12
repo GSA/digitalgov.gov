@@ -1,4 +1,5 @@
 ---
+slug: income-scams-are-subject-of-new-ftc-fotonovela
 date: 2015-10-14 10:00:28 -0400
 title: Income Scams Are Subject of New FTC Fotonovela
 summary: ' The FTC&rsquo;s second Spanish-language fotonovela is about scams that promise you can make money selling high-end products or brand-name merchandise. If the pitch sounds familiar, that&rsquo;s because the story is based on facts from a recent [Federal Trade Commission] FTC lawsuit against a'

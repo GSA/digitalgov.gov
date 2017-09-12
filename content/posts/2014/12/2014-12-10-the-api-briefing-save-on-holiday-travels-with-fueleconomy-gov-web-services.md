@@ -1,4 +1,5 @@
 ---
+slug: the-api-briefing-save-on-holiday-travels-with-fueleconomy-gov-web-services
 date: 2014-12-10 12:54:08 -0400
 title: 'The API Briefing: Save on Holiday Travels with FuelEconomy.gov Web Services'
 summary: We are in the middle of the holidays, and that means much driving to visit friends and relatives. I was just in Kentucky this past weekend where I spent a total of eight hours driving. I am sure many of you will spend even more time driving in the next three weeks. So, where do

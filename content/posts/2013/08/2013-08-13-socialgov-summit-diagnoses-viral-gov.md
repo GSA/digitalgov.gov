@@ -1,4 +1,5 @@
 ---
+slug: socialgov-summit-diagnoses-viral-gov
 date: 2013-08-13 18:20:21 -0400
 title: SocialGov Summit Diagnoses Viral Gov
 summary: Agencies discuss how to make social media programs more sharable and engaging.

@@ -1,4 +1,5 @@
 ---
+slug: what-is-a-terms-of-service-and-how-do-i-get-one
 date: 2014-05-13 10:00:33 -0400
 title: 'What Is a &#8220;Terms of Service&#8221; and How Do I Get One?'
 summary: 'Imagine this: You just found a great online tool that can help you do your federal job 100% better. You&rsquo;re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You&rsquo;re not sure what they&rsquo;re'

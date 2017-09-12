@@ -1,4 +1,5 @@
 ---
+slug: army-mil-usability-case-study
 date: 2013-06-19 12:11:35 -0400
 title: 'Army.mil &#8211; Usability Case Study'
 summary: 'If you want to make a website more efficient and user friendly, then it&rsquo;s not enough just to have your most valuable information on the site. People are busy&mdash;they want to find what they&rsquo;re looking for, and they want it fast. You don&rsquo;t always need to redesign an entire site to make things easier to'

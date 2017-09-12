@@ -1,4 +1,5 @@
 ---
+slug: how-people-learn-to-navigate-government-services
 date: 2016-03-03 14:43:04 -0400
 title: How People Learn to Navigate Government Services
 summary: 'This is part three of a series detailing the findings of a team of researchers from 18F and the General Services Administration who studied broad trends in people&rsquo;s perceptions of and interactions with the government. You can find the introduction to the series on our website and a complete pdf of the research findings on'

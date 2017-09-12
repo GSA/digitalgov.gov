@@ -1,4 +1,5 @@
 ---
+slug: the-data-briefing-design-driven-enterprise-architecture-creating-the-new-federal-government-agency
 date: 2017-06-07 12:00:19 -0400
 title: 'The Data Briefing: Design-Driven Enterprise Architecture Creating the New Federal Government Agency'
 summary: 'It&rsquo;s been a while since I&rsquo;ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management&rsquo;s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes.'

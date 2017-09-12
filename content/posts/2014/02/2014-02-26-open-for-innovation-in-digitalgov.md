@@ -1,4 +1,5 @@
 ---
+slug: open-for-innovation-in-digitalgov
 date: 2014-02-26 8:43:24 -0400
 title: Open for Innovation in DigitalGov!
 summary: 'There&rsquo;s tons of great work and innovations happening in federal agencies, and it is happening fast. From mobile, to social, to user experience, to APIs, to data and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and'

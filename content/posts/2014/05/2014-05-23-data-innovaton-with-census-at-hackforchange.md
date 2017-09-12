@@ -1,4 +1,5 @@
 ---
+slug: data-innovaton-with-census-at-hackforchange
 date: 2014-05-23 12:00:33 -0400
 title: 'Data Innovaton with Census at #HackForChange'
 summary: Do you want to build an application, product or business that uses Census Bureau data? There are opportunities to give feedback and get involved. Two years ago, the Census Bureau launched its application programming interface (API), giving developers access to a variety of high value data

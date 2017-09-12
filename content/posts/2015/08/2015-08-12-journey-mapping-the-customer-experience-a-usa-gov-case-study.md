@@ -1,4 +1,5 @@
 ---
+slug: journey-mapping-the-customer-experience-a-usa-gov-case-study
 date: 2015-08-12 10:00:21 -0400
 title: 'Journey Mapping the Customer Experience: A USA.gov Case Study'
 summary: 'Journey maps are a visual representation of a customer&rsquo;s end to end journey with your product or service. They are a powerful tool for exploring key interactions and experiences with your organization, programs, and/or services. Journey maps describe a customer&rsquo;s entire journey, even the parts that occur before and after contact with your organization. They'

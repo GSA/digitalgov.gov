@@ -1,4 +1,5 @@
 ---
+slug: the-api-briefing-home-energy-saver
 date: 2014-10-22 10:47:54 -0400
 title: 'The API Briefing: Home Energy Saver'
 summary: ' It is fall when the weather becomes colder, and people start firing up their furnaces. While I was working on putting in more insulation and installing a programmable thermostat, I wondered if the federal government has an API to help me lower my'

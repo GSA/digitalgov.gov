@@ -1,4 +1,5 @@
 ---
+slug: becoming-an-influencer-with-your-audience-quality-vs-quantity-of-content
 date: 2017-03-06 14:30:52 -0400
 title: 'Becoming an Influencer with Your Audience: Quality vs. Quantity of Content'
 summary: 'Regardless of the platform, industry or niche, you became a social media influencer in one of two ways: adopting early or promoting great content. Early adopters are willing to gamble on a new platform, try an untested strategy or set precedent for other users. The risk is in the understanding that they could fail publicly.'

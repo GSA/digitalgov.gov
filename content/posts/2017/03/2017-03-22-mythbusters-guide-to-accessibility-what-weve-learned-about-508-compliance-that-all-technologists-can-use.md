@@ -1,4 +1,5 @@
 ---
+slug: mythbusters-guide-to-accessibility-what-weve-learned-about-508-compliance-that-all-technologists-can-use
 date: 2017-03-22 12:14:30 -0400
 title: 'Mythbuster’s Guide to Accessibility: What We&#8217;ve Learned About 508 Compliance That All Technologists Can Use'
 summary: 'As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we&rsquo;ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we&rsquo;ll debunk'

@@ -1,4 +1,5 @@
 ---
+slug: cybersecuring-the-internet-of-things
 date: 2017-06-29 2:00:47 -0400
 title: '&#8216;Cybersecuring&#8217; the Internet of Things'
 slug: 'cybersecuring-the-internet-of-things'

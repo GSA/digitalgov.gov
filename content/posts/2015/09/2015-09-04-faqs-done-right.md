@@ -1,4 +1,5 @@
 ---
+slug: faqs-done-right
 date: 2015-09-04 10:00:35 -0400
 title: FAQs Done Right
 summary: 'In the circle of Web content life, FAQ sections are an endangered species. We&rsquo;ve previously discussed the relevance of FAQs: Should FAQs go extinct, or are they a useful tool in your content ecosystem? Kathryn Catania, Chief of the Plain Language and Content Division at the U.S. Citizenship and Immigration Services, encourages agencies to take'

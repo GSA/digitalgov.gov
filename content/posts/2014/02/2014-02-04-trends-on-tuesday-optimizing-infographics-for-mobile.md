@@ -1,4 +1,5 @@
 ---
+slug: trends-on-tuesday-optimizing-infographics-for-mobile
 date: 2014-02-04 10:33:06 -0400
 title: 'Trends on Tuesday: Optimizing Infographics for Mobile'
 summary: 'Mobile first means more than just focusing on text content; it&rsquo;s also includes considering visual content as important element of the user experience. {{< legacy-img src="2014/02/how-the-mobile-web-is-disappointing-global-users-437x1024-437x300.jpg" alt="Infographic showing What mobile phone users are expecting from mobile web... - 71% of mobile websites to lead as quickly on their mobile phones as their desktops. ...What mobile phone'

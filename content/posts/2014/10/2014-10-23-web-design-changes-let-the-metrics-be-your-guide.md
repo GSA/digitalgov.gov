@@ -1,4 +1,5 @@
 ---
+slug: web-design-changes-let-the-metrics-be-your-guide
 date: 2014-10-23 12:42:56 -0400
 title: Web Design Changes? Let the Metrics be Your Guide
 summary: 'On September 6, 2013 at 11:27 p.m., EDT., viewers tuned in through the Internet to watch NASA launch its Lunar Atmosphere and Dust Environment Explorer (LADEE) spacecraft. As viewers logged onto the website, something unusual happened. For the first time, metrics indicated that NASA.gov&rsquo;s mobile users outpaced their desktop users. 93 percent of their viewers'

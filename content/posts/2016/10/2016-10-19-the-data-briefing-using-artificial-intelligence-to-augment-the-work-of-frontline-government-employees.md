@@ -1,4 +1,5 @@
 ---
+slug: the-data-briefing-using-artificial-intelligence-to-augment-the-work-of-frontline-government-employees
 date: 2016-10-19 11:00:44 -0400
 title: 'The Data Briefing: Using Artificial Intelligence to Augment the Work of Frontline Government Employees'
 summary: 'You have probably read about the recent release of the White House&rsquo;s report on using artificial intelligence (AI). As with previous technologies, AI holds much promise in the areas of education, commerce, criminal justice, the environment&mdash;almost all aspects of the American public&rsquo;s life. AI also poses a danger if it is not properly managed and'

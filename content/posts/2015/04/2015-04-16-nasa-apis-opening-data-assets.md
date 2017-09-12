@@ -1,4 +1,5 @@
 ---
+slug: nasa-apis-opening-data-assets
 date: 2015-04-16 10:00:49 -0400
 title: 'NASA APIs: Opening Data Assets'
 summary: 'Data is one of the most important assets at NASA. We have data on comets, measurements of Mars, and real-time imagery of Earth. But what good is data if you can&rsquo;t access it? Not good at all! We&rsquo;re in the process of building a site (at api.nasa.gov) to catalog NASA APIs that structure access to'

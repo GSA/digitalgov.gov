@@ -1,4 +1,5 @@
 ---
+slug: whos-using-your-agencys-data
 date: 2014-12-19 11:10:04 -0400
 title: 'Who&#8217;s Using Your Agency&#8217;s Data?'
 summary: ' For months, I&rsquo;ve been trying to figure out how to get leads for the OMB External Use Open Data Survey responses. I&rsquo;ve attended Google Analytics seminars, asked for survey responses from some of our public facing sites, added a data request form to our /data page, and begged for leads'

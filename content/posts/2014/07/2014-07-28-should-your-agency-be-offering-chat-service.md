@@ -1,4 +1,5 @@
 ---
+slug: should-your-agency-be-offering-chat-service
 date: 2014-07-28 1:58:20 -0400
 title: Should Your Agency Be Offering Chat Service?
 summary: Live Web chat is an important component of good customer service. People like having the option of talking with an agent in real-time without having to pick up the phone. While live chat is not widespread, several agencies have shown great success in serving the public through this alternative channel. At a recent Government Contact
@@ -75,4 +76,4 @@ At GSA, for USA.gov, the Chat channel consistently receives higher customer sati
       * Since volume is unknown at the start, dedicate agents to this channel.
       * Watch & track your Average Handle Time, but do not hold your agents to a certain standard. They may “rush” through an interaction to meet the standard.
 
-    _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+    _This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

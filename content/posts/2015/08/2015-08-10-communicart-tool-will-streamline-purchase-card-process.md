@@ -1,4 +1,5 @@
 ---
+slug: communicart-tool-will-streamline-purchase-card-process
 date: 2015-08-10 1:00:23 -0400
 title: Communicart Tool Will Streamline Purchase Card Process
 summary: 'We&rsquo;ve all been there. You walk into a meeting, set your things on the table, and sit down on the chair only to hit the floor instead. In a corporate office you might buy a new chair and get reimbursed, or maybe your company has a process for requesting new furniture. Regardless, that chair needs'

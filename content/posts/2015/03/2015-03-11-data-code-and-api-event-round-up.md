@@ -1,4 +1,5 @@
 ---
+slug: data-code-and-api-event-round-up
 date: 2015-03-11 10:00:04 -0400
 title: Data, Code, and API Event Round Up
 summary: ' DigitalGov University has hosted some great events over the last year in partnership with Data.gov, the MobileGov Community and 18F to bring you information on opening data and building APIs. This month we&rsquo;ve rounded up the events over the past year so that you can see what&rsquo;s'

@@ -1,4 +1,5 @@
 ---
+slug: solving-a-mobilegov-mystery-using-open-source-cms-to-implement-responsive-web-design
 date: 2014-07-18 1:24:56 -0400
 title: 'Solving a MobileGov Mystery: Using Open Source CMS to Implement Responsive Web Design'
 summary: ' Responsive Web design is widely-known as a go-to solution for designing a website to fit on any device&rsquo;s screen size. As we found in our February workshop, federal agencies are implementing it for various reasons. There are various ways to implement responsive'
@@ -31,4 +32,4 @@ Sign up for our [Mobile Web Templates: How to Use Open Source CMS to Implement R
 
 If you are on the outside of mobile Web looking in at your agency, this is a great way to learn how to get started. See more [event details and sign up here]({{< tmp "events/mobile-web-templates-how-to-use-open-source-cms-to-implement-responsive-web-design.md" >}}).
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

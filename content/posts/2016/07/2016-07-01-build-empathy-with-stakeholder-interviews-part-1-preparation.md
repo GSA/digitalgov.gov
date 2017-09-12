@@ -1,4 +1,5 @@
 ---
+slug: build-empathy-with-stakeholder-interviews-part-1-preparation
 date: 2016-07-01 10:00:26 -0400
 title: 'Build Empathy With Stakeholder Interviews, Part 1: Preparation'
 summary: 'A few weeks ago, the State Department held its first conference dedicated to user experience design, UX Exponential. The conference organizers invited me to speak, and in this two-part series, I&#8217;d like to summarize (as best as possible) the presentation I gave, &#8220;Foster The People: Building Empathy with Stakeholder Interviews.&#8221; In this post, I&#8217;ll cover'

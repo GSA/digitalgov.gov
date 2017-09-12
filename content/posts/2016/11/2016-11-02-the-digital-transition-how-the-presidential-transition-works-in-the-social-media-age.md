@@ -1,4 +1,5 @@
 ---
+slug: the-digital-transition-how-the-presidential-transition-works-in-the-social-media-age
 date: 2016-11-02 12:00:25 -0400
 title: 'The Digital Transition: How the Presidential Transition Works in the Social Media Age'
 summary: 'Summary: Take a look at how we plan to preserve and pass on the digital history of the Obama administration. President Obama is the first &ldquo;social media president&rdquo;: the first to have @POTUS on Twitter, the first to go live on Facebook from the Oval Office, the first to answer questions from citizens on YouTube,'

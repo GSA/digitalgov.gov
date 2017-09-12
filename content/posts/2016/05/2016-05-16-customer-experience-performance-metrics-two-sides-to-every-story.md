@@ -1,4 +1,5 @@
 ---
+slug: customer-experience-performance-metrics-two-sides-to-every-story
 date: 2016-05-16 10:00:06 -0400
 title: 'Customer Experience Performance Metrics: Two Sides to Every Story'
 summary: Performance metrics, targets and public reporting are not new in government; however, customer-oriented metrics have been underutilized and under-reported publicly for a long time. Today, as the principles of customer experience as a management discipline gain momentum across the federal government, there is an opportunity to use data to tell more of the story where

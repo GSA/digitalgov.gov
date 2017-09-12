@@ -1,4 +1,5 @@
 ---
+slug: making-your-agency-apps-secure
 date: 2016-01-21 13:21:09 -0400
 title: Making Your Agency Apps Secure
 summary: 'It&rsquo;s Saturday night: Do you know what your mobile app is doing? Securing your mobile device is hard (no matter what day of the week). And there are numerous threats that can be posed by the apps on your device: an app could be spying on you, stealing your money, stealing data or reconfiguring the'

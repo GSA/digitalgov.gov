@@ -1,4 +1,5 @@
 ---
+slug: apis-in-government
 date: 2013-04-30 2:12:53 -0400
 title: APIs in Government
 summary: This page is about what an Application Programming Interface or API is and what it does and how government agencies are using them to operate more efficiently.
@@ -64,7 +65,7 @@ API formats are usually either XML ([Extensible Markup Language](http://en.wikip
 
 New APIs are routinely described as RESTful JSON because they follow the REST architectural style and use JSON as its data representation format.
 
-Learn more about [API technical choices]({{< relref "2013-03-12-api-basics.md#common-technical-choices" >}} "API Basics").
+Learn more about [API technical choices]({{< relref "2013-03-12-api-basics.md#common-technical-choices.md" >}} "API Basics").
 
 ### API Types
 
@@ -84,25 +85,25 @@ APIs are mostly either read-only or read-write. A general way to differentiate t
 
 APIs need to provide value to your agency and to developers. The best way to make that happen is to tie an API program to your agency mission.
 
-  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs]({{< relref "2013-03-12-how-to-get-started-with-apis.md#audit" >}} "How to Get Started with APIs").****
-  2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components]({{< relref "2013-03-12-how-to-get-started-with-apis.md#assemble-components" >}} "How to Get Started with APIs").
-  3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API]({{< relref "2013-03-12-how-to-get-started-with-apis.md#implement" >}} "How to Get Started with APIs").
+  1. **Audit**: Investigate what API efforts may already be active at your agency. Assemble a list of the information that your team or agency produces and the services you provide. Decide what material you would like to offer via API. Read more**** on [auditing APIs]({{< relref "2013-03-12-how-to-get-started-with-apis.md#audit.md" >}} "How to Get Started with APIs").****
+  2. **Assemble Components**: Coordinate the creation of the API itself. Assemble the related documentation, components, and rollout plan. Test the API and coordinate with stakeholders. Read more**** on**** [assembling the components]({{< relref "2013-03-12-how-to-get-started-with-apis.md#assemble-components.md" >}} "How to Get Started with APIs").
+  3. **Implement**: Release the API to the intended audience, announce through marketing and community channels, and engage interested users. Read more**** on [implementing the API]({{< relref "2013-03-12-how-to-get-started-with-apis.md#implement.md" >}} "How to Get Started with APIs").
   4. **Track Progress**: Monitor usage statistics, make improvements, and continue to engage with developers using the API. Read more [tracking the progress]({{< relref "2013-03-12-how-to-get-started-with-apis.md" >}} "How to Get Started with APIs").
   5. **Repeat**: Re-evaluate lessons learned with your agency’s Web presence and consider what material next makes sense as an API. Repeat the above steps. Read more about [repeating the process]({{< relref "2013-03-12-how-to-get-started-with-apis.md" >}} "How to Get Started with APIs").
 
 ## Resources and Tools for Building APIs
 
-  * [Hosted API Tools]({{< relref "2013-03-12-resources-and-tools-for-apis.md#hosted-api-tools" >}})
-  * [API Standards Template]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-standards-template" >}})
-  * [Examples of APIs in Government]({{< relref "2013-03-12-resources-and-tools-for-apis.md#examples-apis-government" >}})
-  * [API Education Series]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-education-series" >}})
-  * [Case Studies]({{< relref "2013-03-12-resources-and-tools-for-apis.md#case-studies" >}})
-  * [How to Make APIs—An Overview]({{< relref "2013-03-12-resources-and-tools-for-apis.md#how-to-make-apis-overview" >}})
+  * [Hosted API Tools]({{< relref "2013-03-12-resources-and-tools-for-apis.md#hosted-api-tools.md" >}})
+  * [API Standards Template]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-standards-template.md" >}})
+  * [Examples of APIs in Government]({{< relref "2013-03-12-resources-and-tools-for-apis.md#examples-apis-government.md" >}})
+  * [API Education Series]({{< relref "2013-03-12-resources-and-tools-for-apis.md#api-education-series.md" >}})
+  * [Case Studies]({{< relref "2013-03-12-resources-and-tools-for-apis.md#case-studies.md" >}})
+  * [How to Make APIs—An Overview]({{< relref "2013-03-12-resources-and-tools-for-apis.md#how-to-make-apis-overview.md" >}})
   * [Producing APIs through Data.gov]({{< relref "2013-04-30-producing-apis-through-data-gov.md" >}})
   * [API Release Kit]({{< relref "2013-05-16-api-release-kit.md" >}})
   * [/Developer Kit]({{< relref "2013-05-21-developer-kit.md" >}})
-  * [U.S. Government APIs Listserv]({{< relref "2013-03-12-resources-and-tools-for-apis.md#government-api-listserv" >}})
-  * [Recommended Reading]({{< relref "2013-03-12-resources-and-tools-for-apis.md#recommended-reading" >}})
+  * [U.S. Government APIs Listserv]({{< relref "2013-03-12-resources-and-tools-for-apis.md#government-api-listserv.md" >}})
+  * [Recommended Reading]({{< relref "2013-03-12-resources-and-tools-for-apis.md#recommended-reading.md" >}})
 
 ## Common Questions About APIs
 

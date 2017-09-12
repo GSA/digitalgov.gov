@@ -1,4 +1,5 @@
 ---
+slug: visualizing-federal-data
 date: 2014-05-22 10:00:50 -0400
 title: Visualizing Federal Data
 summary: 'At the U.S. Government Accountability Office (GAO) we have a long history of using data graphics in our reports and congressional testimonies to explain our findings. From photographs, tables, and charts in the 1950s; to computer-generated data graphics in the mid-1980s; to the complex interactive graphics we&rsquo;re just starting to use this year, our graphics'

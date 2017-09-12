@@ -1,4 +1,5 @@
 ---
+slug: designing-in-the-open-training-recap
 date: 2014-05-16 15:03:07 -0400
 title: Designing in the Open Training Recap
 summary: 'During the recent redesign of Data.gov, the team developed a process that helped them respond to public feedback, track the actions and hold themselves accountable. In a DigitalGov University webinar, &#8220;Designing in the Open&mdash;Public Participation in Government Web Design,&#8221; Phil Ashlock, chief architect at Data.gov, and Jeanne Holm, Data.gov evangelist, shared how integrating feedback from'
@@ -36,4 +37,4 @@ You can learn more about about those tips and Data.gov’s journey in changing t
   
 You can also read more about [Data.gov’s iterative, constantly evolving feedback process]({{< relref "2014-03-18-data-gov-usability-case-study.md" >}} "Data.gov – Usability Case Study"). It’s ongoing and everyday, all the time, from anywhere.
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard]({{< relref "2014-05-07-because-its-hard.md" >}}), and check back for more articles related to this theme in May._
+_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on the Digital Government Strategy. Check out our recently published article [Because It&#8217;s Hard]({{< relref "2014-05-07-because-its-hard.md" >}}), and check back for more articles related to this theme in May._

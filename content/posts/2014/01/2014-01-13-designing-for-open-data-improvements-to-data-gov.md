@@ -1,4 +1,5 @@
 ---
+slug: designing-for-open-data-improvements-to-data-gov
 date: 2014-01-13 7:37:22 -0400
 title: 'Designing for Open Data: Improvements to Data.gov'
 summary: 'We&rsquo;ve written a few times about the changes that we&rsquo;ve been working on for Data.gov to make it easier for users to find, understand, and use government data. Today you&rsquo;ll notice even more changes to Data.gov &ndash; here&rsquo;s a quick rundown of some of the main changes you&rsquo;ll see, and why.{{< legacy-img src="2014/01/data.gov-7_NEW.jpg" alt="Two smartphones'

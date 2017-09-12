@@ -1,4 +1,5 @@
 ---
+slug: analytics-pitfall-avoid-this-common-implementation-mistake
 date: 2015-08-26 11:10:05 -0400
 title: 'Analytics Pitfall: Avoid this Common Implementation Mistake'
 summary: In large agencies, lots of Web teams touch digital analytics in one way or another, and we have had the pleasure of working with teams both within and outside our agency. For us, hearing from a diverse set of perspectives has been a great learning experience. However, over the course of many meetings, we have

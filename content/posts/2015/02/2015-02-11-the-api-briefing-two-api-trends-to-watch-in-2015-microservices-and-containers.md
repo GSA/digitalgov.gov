@@ -1,4 +1,5 @@
 ---
+slug: the-api-briefing-two-api-trends-to-watch-in-2015-microservices-and-containers
 date: 2015-02-11 11:10:46 -0400
 title: 'The API Briefing: Two API Trends to Watch in 2015 – Microservices and Containers'
 summary: 'DigitalGov recently spotlighted the National Highway Traffic Safety Administration&rsquo;s (NHTSA) new SaferRide app. SaferRide provides safe alternatives to keep drunken drivers off the road. SaferRide uses the Yelp API to provide information about local taxi services'

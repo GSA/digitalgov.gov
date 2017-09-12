@@ -1,4 +1,5 @@
 ---
+slug: social-media-success
 date: 2014-12-02 13:04:31 -0400
 title: Interior and USDA Talk Social Media Success
 summary: ' When it comes to implementing a social media strategy, determining how to measure success can be challenging. Yes, knowing how many followers and likes you have is beneficial. However, to really get valuable results from the trove of social'

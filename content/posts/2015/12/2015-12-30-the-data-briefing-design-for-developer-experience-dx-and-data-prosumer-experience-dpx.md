@@ -1,4 +1,5 @@
 ---
+slug: the-data-briefing-design-for-developer-experience-dx-and-data-prosumer-experience-dpx
 date: 2015-12-30 11:00:01 -0400
 title: 'The Data Briefing: Design for Developer Experience (DX) and Data Prosumer Experience (DPX)'
 summary: Recently, DigitalGov devoted an entire month to exploring how good user experience (UX) helps government design better digital products and services. UX is the art and science of understanding how people will use a website or mobile app to solve a problem or meet a need. UX is a combination of neuroscience, communication theory, information

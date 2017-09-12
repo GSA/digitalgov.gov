@@ -1,4 +1,5 @@
 ---
+slug: the-content-corner-structured-content-and-the-power-of-syndication
 date: 2015-11-09 9:52:53 -0400
 title: 'The Content Corner: Structured Content and the Power of Syndication'
 summary: 'A recent DigitalGov webinar on syndicated content and the recent achievements of the Centers for Disease Control and Prevention helped open my eyes even wider to the possibilities of open and structured content. By offering critical health information via syndication, CDC and other Department of Health and Human Services agencies are helping resource-strapped local agencies share'

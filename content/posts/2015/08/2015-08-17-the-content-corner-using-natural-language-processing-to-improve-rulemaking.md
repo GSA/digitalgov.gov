@@ -1,4 +1,5 @@
 ---
+slug: the-content-corner-using-natural-language-processing-to-improve-rulemaking
 date: 2015-08-17 13:10:53 -0400
 title: 'The Content Corner: Using Natural Language Processing to Improve Rulemaking'
 summary: For the past several weeks, I have been inflicting you with my recent dive down the rabbit hole of natural language generation and the larger discipline of natural language algorithms. Most of the focus has been on the power of natural language generation and how it can help you rapidly produce content on a wide

@@ -1,4 +1,5 @@
 ---
+slug: because-its-hard
 date: 2014-05-07 10:00:35 -0400
 title: 'Because It&#8217;s Hard'
 summary: Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The Federal Digital Strategy served up a heaping set of deliverables on a tight timeline. Agencies opened data sets,
@@ -51,5 +52,5 @@ During this <a href="http://publicservicerecognitionweek.org/" target="_blank">P
 
 Finished? Nope. Just getting started.
 
-What&#8217;s on your path? What do you need help with? Let us know in the comments._This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines" >}}) on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
+What&#8217;s on your path? What do you need help with? Let us know in the comments._This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on the Digital Government Strategy. Check out our recently published article on [Structured Content Models]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}}), and check back for more articles related to this theme in May._
 _Photo Credit: &#8220;Rusted door to JFK&#8217;s nuclear bunker.&#8221; by Gwynne Kostin CC (BY-NC-ND)_
