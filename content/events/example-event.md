@@ -10,9 +10,11 @@ authors:
 
 categories:
   - video
+  - training
 
 tag:
-  - training
+  - example
+  - test
 
 event_type: mixed
 start_date: 2017-09-10 10:30:00 -0400

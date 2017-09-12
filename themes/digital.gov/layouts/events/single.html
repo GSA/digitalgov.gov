@@ -103,10 +103,10 @@
 
   						<p><strong>Location</strong><br />
                 {{ if eq .Params.event_type "in-person" }}
+                  {{ if .Params.venue.venue_name }} foooooooo {{ end }}
                   {{ .Params.venue.venue_name }}<br />
                   {{ .Params.venue.address }}<br />
-                  {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
-                  {{ .Params.venue.zip }} {{ .Params.venue.country }}<br />
+                  {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
                   Room: {{ .Params.venue.room }}<br />
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
                 {{ end }}
@@ -131,6 +131,18 @@
 
             {{/* TODO: What needs to go into this gcal button? */}}
   					<div class="tribe-events-cal-links">
+              {{ $event_text := .Params.title }}
+              {{ $event_dates := .Params.title }}
+              {{ with .Params.start_date }}
+                {{ . | dateFormat "02 Jan 06 15:04 MST" .Date.UTC }}
+              {{ end }}/
+              {{ with .Params.end_date }}
+                {{ . | dateFormat "3:04 PM ET" }}
+              {{ end }}
+              {{ $event_details := .Params.title }}
+              {{/* $event_location := .Params.venue.address + .Params.venue.city + ", " + .Params.venue.state + .Params.venue.zip */}}
+              {{/* $event_location := (("foooooo" .Params.venue.address) .Params.venue.city) */}}
+              {{/* $event_location */}}
               <a class="tribe-events-gcal tribe-events-button" href="http://www.google.com/calendar/event?action=TEMPLATE&#038;text=In-Person+%26amp%3B+Online%3A+June+Challenge+and+Prize+Community+of+Practice+Meeting&#038;dates=20170620T090000/20170620T120000&#038;details=Note%3A+All+DigitalGov+University+events+take+place+in+Eastern+Time.+%0AREGISTER+NOW+%0AThis+event+is+in-person+%2B+remote.+%0ALocation%0AGSA+Building%0A1800+F+Street%0AWashington%2C+D.C.%0ARoom%C2%A01459%0AMap+%0AAbout+the+Event+%0AJoin+us+for+our+June+meeting%2C+where+we%26%238217%3Bll+focus+on+the+dynamics+and+benefits+of+public-private+partnerships.+%0AHear+from+federal+challenge+managers+on+the+rational+behind+their+collaboration+with+other+agencies%2C+industry%2C+academia+and+nonprofits.+Learn+how+these+external+partnerships+have+worked+under+various+legal+authorities%2C+and+equip+yourself+with+strategies+to+share+with+your+own+agency+prize+team.+%0AWho+Should+Attend+%0AMembers+of+the+Federal+Challenges+%26amp%3B+Prizes+Community+of+Practice%2C+program+managers%2C+contracting+and+procurement+staff%2C+communications+teams%2C+legal+staff%2C+and+other+federal+employees+who+manage+or+work+on+crowdsourcing%2C+challenge%2C+and+incentivized+prize+competitions%2C+and+other+open+innovation+practices.+We+also+welcome+our+colleagues+from+the+Citizen+Scien+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fwww.digitalgov.gov%2Fevent%2Fjune-challenge-and-prize-community-of-practice-meeting%2F%29&#038;location=1800+F+St+NW%2C+Washington%2C+DC%2C+20405%2C+United+States&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York"
   						  title="Add to Google Calendar">+ Google Calendar</a>
 
