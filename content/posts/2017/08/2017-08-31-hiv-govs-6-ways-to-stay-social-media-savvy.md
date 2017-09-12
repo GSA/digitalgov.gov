@@ -1,0 +1,19 @@
+---
+slug: hiv-govs-6-ways-to-stay-social-media-savvy/
+date: 2017-08-31 2:49:14 -0400
+title: 'HIV.gov&#8217;s 6 Ways to Stay Social Media Savvy'
+summary: 'This post was originally published on the HIV.gov blog. Editor&rsquo;s Note: At HIV.gov, our team calls include a weekly update on digital trends. These updates allow us to stay current and inform our work. We recently asked HIV.gov&rsquo;s former digital strategist to suggest ways our HIV partners can stay up to date with social media trends.'
+categories:
+  - Social Media
+  - 'Strategy &amp; Policy'
+tag:
+  - content strategy
+  - HIV.gov
+  - social media
+---
+
+> _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)._
+
+_**Editorâ€™s Note:**Â At HIV.gov, our team calls include a weekly update on digital trends. These updates allow us to stay current and inform our work. We recently asked HIV.govâ€™s former digital strategist to suggest ways our HIV partners can stay up to date with social media trends._
+
+Social media moves fast. It can feel like there is a new tool or feature to learn every day. While it can seem overwhelming, there areÂ <a class="external-link" href="https://blog.bufferapp.com/social-media-news" target="_blank" rel="noopener">approaches, tips, and systems</a>Â you can put in place to help manage the constant deluge of information. Social media platforms offer dynamic spaces with tremendous potential to reach people and to share content in new and exciting ways. Here are [six] ways I stay current with changes in social media trends:Â _[Continue reading on HIV.gov](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)_. {{< legacy-img src="https://www.WHATEVER/files/2017/03/600-x-450-Social-network-and-media-concept-Switch-knob-with-icons-Bet_Noire-iStock-Thinkstock-627202608.jpg" alt="Social network and media concept illustration of a switch knob with icons" caption="" >}}
