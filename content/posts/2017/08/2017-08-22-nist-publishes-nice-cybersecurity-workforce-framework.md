@@ -20,10 +20,10 @@ The [National Initiative for Cybersecurity Education](https://www.nist.gov/itl/a
 
 {{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-300-nice\_hero3\_form_five.png" alt="Cybersecurity graphic with NICE logo from the main PDF." >}}
 
-Check out [the Special Publication](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf)Â (1.7 MB PDF, 144 pages). Learn more and view a one-pager about the NICE Framework at [nist.gov/nice/framework](https://www.nist.gov/file/372041) (119 kb PDF).
+Check out [the Special Publication](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf) (1.7 MB PDF, 144 pages). Learn more and view a one-pager about the NICE Framework at [nist.gov/nice/framework](https://www.nist.gov/file/372041) (119 kb PDF).
 
 ### New Data Available on Cybersecurity Jobs Heat Map!
 
-One example of how the NICE Framework can be used to help move us as a community towards a more standardized approach and common taxonomy for describing cybersecurity careers, can be seen through the CyberSeek portal. CyberSeek, a portal that contains both a heat map and career pathway tool, has just been updated with new data to reflect the current cybersecurity workforce landscape. Check it out atÂ [cyberseek.org](http://www.cyberseek.org/)!
+One example of how the NICE Framework can be used to help move us as a community towards a more standardized approach and common taxonomy for describing cybersecurity careers, can be seen through the CyberSeek portal. CyberSeek, a portal that contains both a heat map and career pathway tool, has just been updated with new data to reflect the current cybersecurity workforce landscape. Check it out at [cyberseek.org](http://www.cyberseek.org/)!
 
 _This post was originally published on the [NIST blog](https://www.nist.gov/news-events/news/2017/08/nist-publishes-nice-cybersecurity-workforce-framework-categorizing-and)._
