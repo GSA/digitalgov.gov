@@ -1,17 +1,17 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
-{{ $thisimg := index $.Site.Data.images (.Get 0) }}
+{{ $thisimg := index $.Site.Data.images (.Get "src" | lower) }}
 {{ $imgBase := $thisimg.uid }}
 {{ $imgExt := $thisimg.format }}
 {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
 {{ $imgWidth := $thisimg.width }}
 {{ $imgHeight := $thisimg.height }}
 
-<div>
+<div{{ if lt $imgWidth 600 }} class="align-right"{{ end }}>
   <img
     src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
-    {{ if or (.Get "alt") $thisimg.alt }}
-    alt='{{ with .Get "alt"}}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
+    {{ if or (.Get "alt" ) $thisimg.alt }}
+    alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
     {{ end }}
     srcset='
     {{ if gt $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,

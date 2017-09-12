@@ -1,0 +1,44 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $thisimg := index $.Site.Data.images (.Get "src" | lower) }}
+{{ $imgBase := $thisimg.uid }}
+{{ $imgExt := $thisimg.format }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgWidth := $thisimg.width }}
+{{ $imgHeight := $thisimg.height }}
+
+<div class="align-right">
+  <img
+    src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
+    {{ if or (.Get "alt") $thisimg.alt }}
+    alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
+    {{ end }}
+    srcset='
+    {{ if gt $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
+      {{ if gt $imgWidth 400 }}
+        {{ if gt $imgWidth 600 }}
+          {{/* high-res values for when we implement...
+          {{ if gt $imgWidth 800 }}
+            {{ if gt $imgWidth 1200 }}
+              {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
+          {{ end }}
+          */}}
+          {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,
+      {{ end }}
+      {{ $imgBaseCDN }}_w200.{{ $imgExt }} 200w
+    {{ else }}
+    {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
+    {{ end }}
+      '
+    sizes='(max-width: 600px) 30vw, 200px'/>
+  {{ with $thisimg.credit }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+<!-- image -->

@@ -9,11 +9,14 @@
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
 
   <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
-  <meta name="description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
 
-  {{/* TODO: should have a common set and pull form tags */}}
-  <meta name="keywords" content="Digital, Government, 21st Century Government, Open Government Initiative, U.S. Digital Registry, Mobile, Social Media, Challenges, Code, APIs, Data, Open Source, Open Data, Innovation, Content, Metrics, UX, Usability, Accessibility, CX, Crowdsourcing, Citizen Science, Digital Analytics Program, DAP, Open Gov, OpenGov, Analytics, Metrics, Governance, Strategy, Policy, Community of Practice, Communities, testing, research, case study, case studies, digitalgov, digital gov, OCSIT, GSA, Office of Citizen Services and Innovative Technologies, Digital Government Division, U.S. General Services Administration, Federal Terms of Service, Federal Digital Services, Toolkit, Playbook, Initiatives"
-  />
+  {{ $sitetags := $.Site.Data.tag }}
+  {{ with $.Params.tag }}
+    {{ $_taxonomy := .}}
+    {{ $length := $_taxonomy | len }}
+    <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
+  {{ end }}
 
   {{/* TODO: these may not need to be here */}}
   <meta name="google-site-verification" content="g9_ce7PMGt-o-6Z5w9JaayjvGenyVBflWNo_nMBoggI" />
@@ -22,29 +25,64 @@
 
   {{/* TODO: current url or alternate url if duplicated content */}}
   <meta name="robots" content="noindex">
-  <link rel="canonical" href="https://www.digitalgov.gov/" />
+
+  {{/* Only if this is a crosspost — need to add to frontmatter */}}
+  {{ with $.Params.xposted_from }}<link rel="canonical" href="{{ . }}" />{{ end }}
 
   {{/* TODO: values need to be page specific */}}
   {{/* TODO: DigitalGov => Digital.gov */}}
-  <meta property="og:title" content="DigitalGov - Building the 21st Century Digital Government" />
+  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.digitalgov.gov/" />
-  <meta property="og:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
-  <meta property="og:image:width" content="600" />
+  <meta property="og:url" content="{{ .URL | absURL }}" />
+  {{/* Featured_image call */}}
+    {{ $cdnurl := .Site.Params.cdnurl }}
+    {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
+    {{ $featImgBase := $featImg.uid }}
+    {{ $featImgExt := $featImg.format }}
+    {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
+    {{ $featImgWidth := $featImg.width }}
+    {{ $featImgHeight := $featImg.height }}
+    {{ $.Scratch.Set "featImgSuffix" "" }}
+    {{ if gt $featImgWidth 1200 }}
+     {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
+    {{ end }}
+    {{ if gt $featImgWidth 800 }}
+     {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
+    {{ end }}
+    {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+    {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
+
+    <meta property="og:image" content="{{ $featImgURL }}" />
+    <meta property="og:image:width" content="{{ $featImgWidth }}" />
+    <meta property="og:image:width" content="{{ $featImgHeight }}" />
+  {{/* End featured_image call */}}
   <meta property="og:site_name" content="DigitalGov" />
 
 
   {{/* TODO: values need to be page specific */}}
+  {{/* What's fb:admins? */}}
   <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
-  <meta name="twitter:creator" content="@alyciap1" />
-  <meta name="twitter:domain" content="digitalgov.gov" />
-  <meta name="twitter:title" content="DigitalGov - Building the 21st Century Digital Government" />
-  <meta name="twitter:description" content="Official U.S. Federal Portal for Digital Government from General Services Administration&#039;s Office of Citizen Services and Innovative Technologies." />
-  <meta name="twitter:image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
-  <meta itemprop="image" content="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/03/600-x-400-for-AIOSEO-DG-logo-optimized.jpg" />
+
+  {{/* Extract twitter handle from author data */}}
+  {{ with $.Params.authors }}
+    {{ range $i, $e := . }}
+      {{ $uid := $e | urlize }}
+      {{ $data := $.Site.Data }}
+      {{ $author := index $data.people.authors $uid }}
+      {{ with $author.twitter }}
+        <meta name="twitter:creator" content="{{ . }}" />
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
+  <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
+  <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
+  <meta name="twitter:image" content="{{ $featImgTwitterURL }}" />
+  <meta itemprop="image" content="{{ $featImgURL }}" />
 
 
   {{/* TODO: what does this do? */}}
@@ -59,16 +97,12 @@
   </script>
   <!-- /all in one seo pack -->
 
-  {{/* TODO: dns prefetch can go away */}}
-  <link rel='dns-prefetch' href='//s.w.org' />
-
   {{/* TODO: we need to build a feed to appear here */}}
+  {{/* RSS feed of recent posts */}}
   <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Feed" href="https://www.digitalgov.gov/feed/" />
 
-  {{/* TODO: this is going away */}}
-  <!-- <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Comments Feed" href="https://www.digitalgov.gov/comments/feed/" /> -->
-
   {{/* TODO: should we keep this? */}}
+  {{/* Can Hugo build an iCal feed of Cal feed */}}
   <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
 
   {{/* TODO: All these styles need to be audited / minified / etc */}}
@@ -119,10 +153,6 @@
   <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
-
-  {{/* TODO: Delete these WP-specific items */}}
-  <link rel='https://api.w.org/' href='https://www.digitalgov.gov/wp-json/' />
-  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.digitalgov.gov/wp-includes/wlwmanifest.xml" />
 
   {{/* TODO: We'll want a way to capture this shortlink, perhaps through and API */}}
   <link rel='shortlink' href='https://www.digitalgov.gov/' />

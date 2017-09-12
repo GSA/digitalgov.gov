@@ -34,6 +34,8 @@ gulp.task("file-tidy", function (done) {
     .pipe(replace(/-+/g, '-'))                    // multiple dashes to a single dash
     .pipe(replace(/-(png|jpg|jpeg)/g, '.$1'))     // remove trailing dashes
     .pipe(replace(/\.jpeg$/g, '.jpg'))            // .jpeg to .jpg
+    .pipe(replace(/-\d{2,4}x\d{2,4}(?=\.jpg)/g, ''))      // strip trailing dimensions
+    .pipe(replace(/^\d{2,4}-*x-*\d{2,4}-*/g, ''))      // strip leading dimensions
     .pipe(replace(/-\./g, '.'))                   // remove leading dashes
     .pipe(replace(/^-/g, ''))                     // removes dashes from the start of filename
     .pipe(rename(function(path) { // make filename lowercase
@@ -344,7 +346,6 @@ gulp.task("proxy", ["upload"], function (done) {
   // - - - - - - - - - - - - - - - - -
   // Create lorez version for Hugo to parse
   return gulp.src("content/images/_working/originals/*.{png,jpg}")
-    .pipe(replace(/^(.+?)\.(png|jpg)$/g, '$1_$2.$2')) // add filetype to base
     .pipe(responsive({
       '*': {
         rename: {
