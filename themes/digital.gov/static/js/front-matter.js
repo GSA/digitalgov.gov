@@ -55,13 +55,12 @@ jQuery(document).ready(function($) {
   // Gets today's date + time
   function curr_date(){
     var d = new Date();
-    var month = d.getMonth()+1;
-    var day = d.getDate();
-    var output = d.getFullYear() + '-' +
-        (month<10 ? '0' : '') + month + '-' +
-        (day<10 ? '0' : '') + day + ' ' +
-        d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds() +
-        ' -0400';
+    var month = ("0" + (d.getMonth() + 1)).slice(-2);
+    var day = ("0" + (d.getDate())).slice(-2);
+    var hours = ("0" + (d.getHours())).slice(-2);
+    var minutes = ("0" + (d.getMinutes())).slice(-2);
+    var seconds = ("0" + (d.getSeconds())).slice(-2);
+    var output = d.getFullYear() + '-' + month + '-' + day + ' ' + hours + ":" + minutes + ":" + seconds + ' -0400';
     return output;
   }
 
