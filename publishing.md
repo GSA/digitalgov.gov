@@ -1,8 +1,8 @@
-# Digitalgov.gov / Publishing
+# DigitalGov.gov / Publishing
 
 ## A guide to publishing in a GitHub based workflow
 
-To proceed, you will need a GitHub account [http://github.com](http://github.com) and you will need to have the Digital.gov team add you as an contributor to our repo. Send us a note at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
+To proceed, you will need a GitHub account [http://github.com](http://github.com) and you will need to have the DigitalGov team add you as an contributor to our repo. Send us a note at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)
 
 - - -
 ### Creating a Draft for Review on GitHub.com
@@ -11,26 +11,32 @@ To proceed, you will need a GitHub account [http://github.com](http://github.com
 
 **Step 2.** — Submit your post for review by creating a 'new issue' --> https://github.com/GSA/digitalgov.gov/issues/new/?labels=draft&milestone=Editorial
 
-**Step 3.** — Enter the title and body of your post in the 'new issue' and format your post as needed _(bold, italics, links, etc...)_. Here is an example draft: https://github.com/GSA/digitalgov.gov/issues/83
+**Step 3.** — Enter the title and body of your post in the 'new issue' and format your post as needed _`(bold, italics, links, etc...)`_. Here is an example draft: https://github.com/GSA/digitalgov.gov/issues/83
 
-**Step 4.** — Save/Submit. The Digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
+**Step 4.** — Save/Submit. The DigitalGov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page and you'll get notified via e-mail as this post moves along the workflow.
 
 
 - - -
-### Creating and Publishing a new Post on GitHub.com
+### Producing and Publishing a new Post on GitHub.com
 
 **Note:** _You will need WRITE access to the digitalgov.gov repo in order to create a new post. In addition, formatting options are not available in this stage of the workflow. If you would like formatting options, please submit a draft for review first, then copy the body of the post into Step 3._
 
-**Step 1.** — Log in to [http://github.com](http://github.com)
+#### Step 1.
+Log in to [http://github.com](http://github.com)
 
-**Step 2.** — Submit your generate the front matter for your posts here --> https://demo.digitalgov.gov/new/
+#### Step 2.
+Enter the post data _(a.k.a front-matter)_ for your post here --> https://demo.digitalgov.gov/new/
 
-When done, click the link to create a new file.
+When done, click the link at the bottom of the form to create a new file in GitHub.
 
-**Step 3.** — You should now be on GitHub.com and you should see the front matter you've created in the generator. Where it
+#### Step 3.
+You should now be on GitHub.com and you should see the front matter you've created in the file editor.
 
 Paste the body of your post where it says. `***Paste content here. Delete this line***`. Don't forget to delete that line.
 
+**NOTE:** formatting options are not available in this stage of the workflow. If you would like formatting options, please submit a draft for review first, then copy the body of the post into Step 3._
+
 Here is an example post: https://raw.githubusercontent.com/GSA/digitalgov.gov/demo/content/posts/2014-02-18-trends-on-tuesday-distracted-walking.md
 
-**Step 4.** — The digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
+#### Step 4.
+The digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
