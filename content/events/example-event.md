@@ -13,8 +13,8 @@ categories:
   - training
 
 tag:
-  - example
-  - test
+  - a-b-testing
+  - api
 
 event_type: mixed
 start_date: 2017-10-10 10:30:00 -0400
