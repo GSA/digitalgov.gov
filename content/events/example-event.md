@@ -1,6 +1,6 @@
 ---
 # url: /events/an-example-event
-date: 2018-08-31 13:45:37 -0400
+date: 2017-10-10 10:30:00 -0400
 draft: false
 title: 'A True Example of Foo'
 summary: 'This is the summary'
@@ -17,8 +17,8 @@ tag:
   - test
 
 event_type: mixed
-start_date: 2018-09-10 10:30:00 -0400
-end_date: 2018-09-11 11:00:00 -0400
+start_date: 2017-10-10 10:30:00 -0400
+end_date: 2017-10-11 11:00:00 -0400
 event_organizer: DigitalGov University
 host: DigitalGov
 registration_url: REG_URL
