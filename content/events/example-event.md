@@ -2,7 +2,7 @@
 # url: /events/an-example-event
 date: 2018-08-31 13:45:37 -0400
 draft: false
-title: 'An Example Event'
+title: 'A True Example of Foo'
 summary: 'This is the summary'
 authors:
   - jthalls

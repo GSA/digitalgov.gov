@@ -33,12 +33,8 @@
           <span class="tribe-country-name">{{ .Params.venue.country }}</span>
         </span><!-- .tribe-address -->
 
-        {{ $map := printf "%s+%s+%s+%s+%s" .Params.venue.address .Params.venue.city .Params.venue.state .Params.venue.zip .Params.venue.country}}
-        {{ $map := replace $map " " "+" }}
+        <a class="tribe-events-gmap" href="{{ .Params.venue.map | safeHTML }}" title="Click to view a Google Map" target="_blank">+ Google Map</a>
 
-        {{/* Done this strange way to prevent unusual escaping in the url */}}
-        {{ $map := printf "<a class=\"tribe-events-gmap\" href=\"https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=%s\" title=\"Click to view a Google Map\" target=\"_blank\">+ Google Map</a>" $map }}
-        {{ $map | safeHTML }}
 
       </div><!-- .tribe-events-venue-details -->
     </div><!-- .author.location -->
