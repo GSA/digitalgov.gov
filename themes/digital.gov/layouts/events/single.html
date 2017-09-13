@@ -131,34 +131,30 @@
 
             {{/* TODO: What needs to go into this gcal button? */}}
   					<div class="tribe-events-cal-links">
-              {{ $event_text := .Params.title }}
-              {{ $event_dates := .Params.title }}
-              {{ with .Params.start_date }}
-                {{ . | dateFormat "02 Jan 06 15:04 MST" .Date.UTC }}
-              {{ end }}/
-              {{ with .Params.end_date }}
-                {{ . | dateFormat "3:04 PM ET" }}
-              {{ end }}
-              {{ $event_details := .Params.title }}
+              {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.start_date).UTC }}
+              {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
+              {{ $event_title := .Title | markdownify }}
+              {{ $event_description := .Summary | markdownify }}
+              {{ $event_location := .Params.venue.venue_name }}
               {{/* $event_location := .Params.venue.address + .Params.venue.city + ", " + .Params.venue.state + .Params.venue.zip */}}
               {{/* $event_location := (("foooooo" .Params.venue.address) .Params.venue.city) */}}
               {{/* $event_location */}}
 
-              {{/*
-
               <!-- 3. Place event data -->
               <span class="addtocalendar atc-style-blue">
                   <var class="atc_event">
-                      <var class="atc_date_start">2017-05-04 12:00:00</var>
-                      <var class="atc_date_end">2017-05-04 18:00:00</var>
-                      <var class="atc_timezone">Europe/London</var>
-                      <var class="atc_title">Star Wars Day Party</var>
-                      <var class="atc_description">May the force be with you</var>
-                      <var class="atc_location">Tatooine</var>
-                      <var class="atc_organizer">Luke Skywalker</var>
-                      <var class="atc_organizer_email">luke@starwars.com</var>
+                      <var class="atc_date_start">{{ $event_startDate }}</var>
+                      <var class="atc_date_end">{{ $event_endDate }}</var>
+                      <var class="atc_timezone">UTC</var>
+                      <var class="atc_title">{{ $event_title }}</var>
+                      <var class="atc_description">{{ $event_description }}</var>
+                      <var class="atc_location">{{ $event_location }}</var>
+                      <var class="atc_organizer">DigitalGov</var>
+                      <var class="atc_organizer_email">digitalgov@gsa.gov</var>
                   </var>
               </span>
+
+              {{/*
 
               ---------------------
 
@@ -178,12 +174,14 @@
                 http://www.google.com/calendar/event?action=TEMPLATE&#038;text={{ $event_text }}&#038;dates={{ $event_start_date }}/{{ $event_start_date }}&#038;details={{ $event_details }}&#038;location={{ $event_location }}&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York
               */}}
 
-
+              {{/*
               <a class="tribe-events-gcal tribe-events-button" href="http://www.google.com/calendar/event?action=TEMPLATE&#038;text=In-Person+%26amp%3B+Online%3A+June+Challenge+and+Prize+Community+of+Practice+Meeting&#038;dates=20170620T090000/20170620T120000&#038;details=Note%3A+All+DigitalGov+University+events+take+place+in+Eastern+Time.+%0AREGISTER+NOW+%0AThis+event+is+in-person+%2B+remote.+%0ALocation%0AGSA+Building%0A1800+F+Street%0AWashington%2C+D.C.%0ARoom%C2%A01459%0AMap+%0AAbout+the+Event+%0AJoin+us+for+our+June+meeting%2C+where+we%26%238217%3Bll+focus+on+the+dynamics+and+benefits+of+public-private+partnerships.+%0AHear+from+federal+challenge+managers+on+the+rational+behind+their+collaboration+with+other+agencies%2C+industry%2C+academia+and+nonprofits.+Learn+how+these+external+partnerships+have+worked+under+various+legal+authorities%2C+and+equip+yourself+with+strategies+to+share+with+your+own+agency+prize+team.+%0AWho+Should+Attend+%0AMembers+of+the+Federal+Challenges+%26amp%3B+Prizes+Community+of+Practice%2C+program+managers%2C+contracting+and+procurement+staff%2C+communications+teams%2C+legal+staff%2C+and+other+federal+employees+who+manage+or+work+on+crowdsourcing%2C+challenge%2C+and+incentivized+prize+competitions%2C+and+other+open+innovation+practices.+We+also+welcome+our+colleagues+from+the+Citizen+Scien+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fwww.digitalgov.gov%2Fevent%2Fjune-challenge-and-prize-community-of-practice-meeting%2F%29&#038;location=1800+F+St+NW%2C+Washington%2C+DC%2C+20405%2C+United+States&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York"
   						  title="Add to Google Calendar">+ Google Calendar</a>
+                */}}
 
-                {{/* TODO: What needs to go into this ical button? */}}
+                {{/* TODO: What needs to go into this ical button?
                 <a class="tribe-events-ical tribe-events-button" href="https://www.digitalgov.gov/event/june-challenge-and-prize-community-of-practice-meeting/?ical=1" title="Download .ics file">+ iCal Export</a>
+                */}}
               </div><!-- .tribe-events-cal-links -->
 
   					<div class="tribe-events-single-section tribe-events-event-meta primary tribe-clearfix">

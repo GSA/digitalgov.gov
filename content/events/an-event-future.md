@@ -1,47 +1,40 @@
 ---
-title                 : An event in the far future
-draft                 : false
-event_id              : an-event-future
-relationships:
-  author_id           : thisisdano
-  venue_id            : gsa-central-office
-organizer             : DigitalGov University
-date                  : 2018-08-12 16:30:00 -0400
-end_date              : 2018-08-12 18:00:00 -0400
-venue:
-  is_inperson         : true
-  is_remote           : true
-  city                : Portland
-  state               : OR
-  venue               :
-  street              : 123 SE Fake Ave.
-  zip                 :
-  country             : USA
-  room                :
-  google_map          : google maps link/code
-  link                : https://www.gsa.gov
-event_link            : http://the-event.tld
-registration_link     : http://eventbrite/info
-host                  : The League of Reliable Folk
-event_description:
-  short               : Keep this under 140 characters
-  long                : This should be one paragraph of summary text. Work to evoke the critical topics of your event, but leave extended descriptions to the body of the event. Where does this long description go? That's a very reasonable question, but I'm not sure yet.
-tag:
-  - api
-  - api
+# url: /events/an-example-event
+date: 2018-08-31 13:45:37 -0400
+draft: false
+title: 'An Example Event'
+summary: 'This is the summary'
+authors:
+  - jthalls
+  - jeremyzilar
+
 categories:
-  - design
-  - design
-is_featured           : true
-featured_image:
-    link              : https://dummyimage.com/600x400/0DE55A/fff.jpg
-    text              : Alt image text
-featured_links:
-  - text              : special link text
-    link              : http://special.link.tld
-  - text              : special link text
-    link              : http://special.link.tld
+  - video
+  - training
+
+tag:
+  - example
+  - test
+
+event_type: mixed
+start_date: 2017-09-10 10:30:00 -0400
+end_date: 2017-09-11 11:00:00 -0400
+event_organizer: DigitalGov University
+host: DigitalGov
+registration_url: REG_URL
+youtube: YOUTUBE_URL
+venue:
+  venue_name: The General Services Administration
+  room: 9000
+  address: 1800 F St.
+  city: Washington
+  state: D.C.
+  zip: 20006
+  country: USA
+  map: https://goo.gl/maps/bFWBD6QfDLA2
+
 ---
+
 
 Some content.
 No information is more critical to your work than the numbers that reveal what’s  happening, how you’re performing, and opportunities to do better.
