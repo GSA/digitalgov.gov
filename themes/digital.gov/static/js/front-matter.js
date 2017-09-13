@@ -117,6 +117,16 @@ jQuery(document).ready(function($) {
     return filename;
   }
 
+  // returns the year and month for use in the filepath on GitHub
+  // Returns: 2017/09
+  function file_yearmo(date) {
+    var dateObj = new Date(date);
+    var year = dateObj.getUTCFullYear();
+    var month = ("0" + (dateObj.getUTCMonth() + 1)).slice(-2); //months from 1-12
+    var yearmo = year + "/" + month;
+    return yearmo;
+  }
+
   // Makes the slug: for the front matter
   function matter_slug(title) {
     t = title.replace(small_words, '');
@@ -211,6 +221,7 @@ jQuery(document).ready(function($) {
     var post_type = get_post_type(); // gets the post type
 
     // Checks to see what the post type is and prints the front-matter for each type
+    // ========================================
     // POST
     if (post_type == 'post') {
       // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
@@ -228,8 +239,12 @@ jQuery(document).ready(function($) {
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      console.log(newfile);
 
+
+
+      // ========================================
       // DOC
     } else if (post_type == 'doc') {
       // show_fields('m_date, m_title, m_summary');
@@ -246,7 +261,12 @@ jQuery(document).ready(function($) {
       var body = encodeURIComponent(matter);
       var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
 
-      // EVENT
+
+
+
+
+      // ========================================
+      // In-Person or Mixed EVENT
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
@@ -273,6 +293,12 @@ jQuery(document).ready(function($) {
           ,
           "***Paste content here. Delete this line***"
         ].join("\n");
+
+
+
+
+      // ========================================
+      // Online EVENT
       } else {
         // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
         var matter = [
@@ -298,7 +324,7 @@ jQuery(document).ready(function($) {
       }
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
     }
 
     $('#post-matter').text(matter);
