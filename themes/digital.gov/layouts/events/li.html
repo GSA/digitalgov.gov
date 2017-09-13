@@ -25,7 +25,7 @@
           {{ .Params.venue.venue_name }},
         {{ end }}
         <span class="tribe-address">
-          <span class="tribe-street-address">{{ .Params.venue.street }}</span>
+          <span class="tribe-street-address">{{ .Params.venue.address }}</span>
           <br>
           <span class="tribe-locality">{{ .Params.venue.city }}</span><span class="tribe-delimiter">,</span>
           <abbr class="tribe-region tribe-events-abbr" title="District of Columbia">{{ .Params.venue.state }}</abbr>
@@ -33,7 +33,7 @@
           <span class="tribe-country-name">{{ .Params.venue.country }}</span>
         </span><!-- .tribe-address -->
 
-        {{ $map := printf "%s+%s+%s+%s+%s" .Params.venue.street .Params.venue.city .Params.venue.state .Params.venue.zip .Params.venue.country}}
+        {{ $map := printf "%s+%s+%s+%s+%s" .Params.venue.address .Params.venue.city .Params.venue.state .Params.venue.zip .Params.venue.country}}
         {{ $map := replace $map " " "+" }}
 
         {{/* Done this strange way to prevent unusual escaping in the url */}}
@@ -45,7 +45,7 @@
   </div><!-- .tribe-events-event-meta -->
 
   <!-- Event Image -->
-
+  {{/* TODO: add featured image
   {{ if .Params.featured_image.link }}
     <div class="tribe-events-event-image">
       <a href="{{ .URL }}">
@@ -57,10 +57,11 @@
       </a>
     </div>
   {{ end }}
+  */}}
 
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Params.event_description.long | markdownify }}</p>
+    <p>{{ .Summary | markdownify }}</p>
     <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
   </div><!-- .tribe-events-list-event-description -->
 </div><!-- .type-tribe_events -->
