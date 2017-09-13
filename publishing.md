@@ -40,3 +40,30 @@ Here is an example post: https://raw.githubusercontent.com/GSA/digitalgov.gov/de
 
 #### Step 4.
 The digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
+
+- - -
+### Creating a Redirect
+
+A redirect is when you need to make traffic that is going to one URL, arrive at another.
+
+The most common need for a redirect is when you change the `slug` or `date` of a page/post/event.
+
+
+**How to add a redirect**
+
+Add the following snippet to the front-matter of your new file (page) and enter in the old URLs you'll be redirecting from.
+
+```
+aliases:
+  - /2012/05/05/my-old-url/
+```
+If the URL you want to redirect is `https://digitalgov.gov/2012/05/05/my-old-url/`, then you'll want to enter `/2012/05/05/my-old-url/`.
+
+If you have multiple pages that you are redirecting to a new single page, enter them like this:
+
+```
+aliases:
+  - /2012/05/05/my-old-url/
+  - /docs/old-document-url/
+  - /events/old-event-page/
+```
