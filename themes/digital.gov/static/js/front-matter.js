@@ -66,7 +66,6 @@ jQuery(document).ready(function($) {
 
   // inputs the current date in the date field
   $('input[name="m_date"]').val(curr_date());
-  $('input[name="m_start_date"]').val(curr_date());
   $('input[name="m_end_date"]').val(curr_date());
 
 
@@ -264,8 +263,8 @@ jQuery(document).ready(function($) {
 
 
 
-      // ========================================
-      // In-Person or Mixed EVENT
+    // ========================================
+    // In-Person or Mixed EVENT
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
@@ -274,14 +273,13 @@ jQuery(document).ready(function($) {
         var matter = [
           "---",
             "slug: " + matter_slug(data['m_title']),
-            "date: " + data['m_date'],
             "title: '" + escapeHtml(data['m_title']) + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
             "event_type: " + event_type,
-            "start_date: " + data['m_start_date'],
+            "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
@@ -303,14 +301,13 @@ jQuery(document).ready(function($) {
         var matter = [
           "---",
             "slug: " + matter_slug(data['m_title']),
-            "date: " + data['m_date'],
             "title: '" + escapeHtml(data['m_title']) + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
             "event_type: " + event_type,
-            "start_date: " + data['m_start_date'],
+            "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
