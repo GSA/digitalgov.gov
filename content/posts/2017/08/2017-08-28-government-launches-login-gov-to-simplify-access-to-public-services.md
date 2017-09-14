@@ -40,7 +40,7 @@ _Joel Minton, a member of the U.S. Digital Service, is working with GSA’s Tech
 
 In early April, the U.S. Digital Service and 18F launched [login.gov](https://www.login.gov/), a single sign-on solution for government websites that will enable citizens to access public services across agencies with the same username and password.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-400-login-gov-launch.png" alt="Login.gov logo." >}}
+{{< img src="login-gov-launch" alt="Login.gov logo." >}}
 
 Login.gov is currently in action at the U.S. Department of Homeland Security’s Customs and Border Protection Agency (CBP), where Tom Mills is driving transformation of CBP customer experiences. Right now, it’s being used for the [CBP Jobs App](https://itunes.apple.com/us/app/cbp-jobs/id1210368989), which allows candidates to see the status of their progress as they’re moving through the recruitment and hiring pipeline. Logging into this system was previously so cumbersome that some candidates dropped out.
 
