@@ -18,7 +18,7 @@
         {{ partial "post-meta" . }}
 
         {{ .Content }}
-
+        <a href="/edit?edit={{ .Permalink }}">Edit post</a>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
 

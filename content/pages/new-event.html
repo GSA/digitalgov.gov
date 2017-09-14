@@ -1,27 +1,20 @@
 ---
-url: /new
+url: /new-event
 type: docs
-layout: 1col
+layout: new-file
 date: 2017-07-08 3:46:23 -0400
-title: Create a new post
+title: Create a new event
 summary: this is a summary
 js: [front-matter.js]
+css: [front-matter.css]
 ---
 
-
-<div class="matter-container">
-  <div class="btn-group post_types">
-    <button class="btn selected" type="button" data-type="post">post</button><button class="btn" type="button" data-type="doc">doc</button><button class="btn" type="button" data-type="event">event</button>
-  </div>
+<div class="matter-editor">
   <div class="gcol gcol1">
     <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
       <div class="post_data post-block">
-        <label class="m_date">
-          Date
-          <input class="fm" type="text" name="m_date" value="">
-        </label>
         <label class="m_title">
-          Headline
+          Event Title
           <input class="fm" type="text" name="m_title" value="">
         </label>
         <label class="m_summary">
@@ -31,7 +24,7 @@ js: [front-matter.js]
         <label class="m_authors">
           Author
           <input class="fm" type="text" name="m_authors" value="">
-          <span>jparcell, tymanuel, jesse-taggert — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
+          <span>jparcell, dano, jthalls — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/master/data/people/authors" title="See all Authors">see all authors</a></span>
         </label>
         <label class="m_categories">
           Categories
@@ -49,9 +42,9 @@ js: [front-matter.js]
         <div class="btn-group event_types">
           <button class="btn selected" type="button" data-type="online">online</button><button class="btn" type="button" data-type="mixed">both</button><button class="btn" type="button" data-type="in-person">in-person</button>
         </div>
-        <label class="m_start_date">
+        <label class="m_date">
           Start Date/Time
-          <input class="fm" type="text" name="m_start_date" value="">
+          <input class="fm" type="text" name="m_date" value="">
           <span>must be in the <code>2017-08-11 21:26:9 -0400</code> format.</span>
         </label>
         <label class="m_end_date">
@@ -87,7 +80,6 @@ js: [front-matter.js]
             1800 F St. Washington D.C. 20006
           </label>
         </div>
-
         <label class="m_room">
           Room #
           <input class="fm" type="text" name="m_room" value="">
