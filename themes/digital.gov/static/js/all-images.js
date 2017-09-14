@@ -50,7 +50,7 @@ jQuery(document).ready(function($) {
           "<div class='img-data'>",
             "<p>"+filename+"</p>",
             "<p>"+date+"</p>",
-            "<pre>{{% img \""+uid+"\" %}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
             "<p><a href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+uid+".yml' title='view on GitHub'>View on GitHub »</a></p>",
           "</div>",
         "</div>"

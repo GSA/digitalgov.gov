@@ -34,7 +34,7 @@ In the update posted to the [Google Play](https://play.google.com/store/apps/det
 
 The FoodKeeper app was developed by FSIS in partnership with Cornell University and the Food Marketing Institute, as a tool to help reduce food waste and improve public health by sharing storage methods that extend the shelf life of the foods and beverages in American homes. It now offers specific storage timelines for the refrigerator, freezer, and pantry, for more than 500 products, including various types of baby food, dairy products and eggs, meat, poultry, produce, seafood and more. Since it was launched in April 2015, it has been downloaded nearly 150,000 times.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-800-FoodKeeper-app-on-tablet-new-Food-Recalls-list.jpg" alt="A mobile tablet displays a Food Recall list in the USDA FoodKeeper app." >}}
+{{< img src="FoodKeeper-app-on-tablet-new-Food-Recalls-list" alt="A mobile tablet displays a Food Recall list in the USDA FoodKeeper app." >}}
 
 ## Application Features
 
