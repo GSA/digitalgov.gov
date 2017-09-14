@@ -38,12 +38,12 @@
   				<div class="tribe-events-schedule tribe-clearfix">
             <h2>
               <span class="tribe-event-date-start">
-                {{ with .Params.start_date }}
+                {{ with .Date }}
                   {{ . | dateFormat "Monday, Jan 2, 2006" }}
                 {{ end }}
               </span><br/>
               <span class="tribe-event-time">
-                {{ with .Params.start_date }}
+                {{ with .Date }}
                   {{ . | dateFormat "3:04 PM" }}
                 {{ end }} —
                 {{ with .Params.end_date }}
@@ -168,13 +168,13 @@
   							<dl>
   								<dt> Date: </dt>
   								<dd>
-  									<abbr class="tribe-events-abbr tribe-events-start-date published dtstart" title="{{ with .Params.start_date }}{{ . | dateFormat "2006-01-02" }}{{ end }}"> {{ with .Params.start_date }}{{ . | dateFormat "January 2" }}{{ end }}</abbr>
+  									<abbr class="tribe-events-abbr tribe-events-start-date published dtstart" title="{{ with .Date }}{{ . | dateFormat "2006-01-02" }}{{ end }}"> {{ with .Date }}{{ . | dateFormat "January 2" }}{{ end }}</abbr>
   								</dd>
 
   								<dt> Time: </dt>
   								<dd>
-  									<div class="tribe-events-abbr tribe-events-start-time published dtstart" title="{{ with .Params.start_date }}{{ . | dateFormat "2006-01-02" }}{{ end }}">
-                      {{ with .Params.start_date }}{{ . | dateFormat "3:04 PM" }}{{ end }} - {{ with .Params.end_date }}{{ . | dateFormat "3:04 PM" }}{{ end }}
+  									<div class="tribe-events-abbr tribe-events-start-time published dtstart" title="{{ with .Date }}{{ . | dateFormat "2006-01-02" }}{{ end }}">
+                      {{ with .Date }}{{ . | dateFormat "3:04 PM" }}{{ end }} - {{ with .Params.end_date }}{{ . | dateFormat "3:04 PM" }}{{ end }}
                     </div>
   								</dd>
 

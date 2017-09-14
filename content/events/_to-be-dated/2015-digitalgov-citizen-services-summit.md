@@ -2,7 +2,7 @@
 # url: /events/an-example-event
 slug: 2015-digitalgov-citizen-services-summit
 date: 1999-08-31 13:45:37 -0400
-end_date: 2017-09-11 11:00:00 -0400
+end_date: 1999-09-11 11:00:00 -0400
 draft: false
 title: 'An Example Event'
 summary: 'This is the summary'
