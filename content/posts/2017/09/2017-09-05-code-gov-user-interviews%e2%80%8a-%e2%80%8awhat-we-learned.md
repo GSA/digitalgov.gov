@@ -3,6 +3,9 @@ slug: code-gov-user-interviews-what-we-learned
 date: 2017-09-05 2:00:20 -0400
 title: 'Code.gov User Interviews &#8212; What We Learned'
 summary: 'This post was originally published by Code.gov on Medium. It&rsquo;s been a year since the federal government published the Federal Source Code Policy, which created the foundation for Code.gov. In honor of the policy&rsquo;s anniversary, we checked in with our users to learn more about them, their needs, and the challenges they face. Our users'
+featured_image:
+  uid: 'question-mark-rawpixel-ltd-istock-thinkstock-180823703'
+  alt: 'Folks holding question marks in front of their faces.'
 authors:
   - code-gov
 categories:
