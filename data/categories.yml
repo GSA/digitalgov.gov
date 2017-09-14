@@ -49,6 +49,8 @@ social-media:
     - social-media
 strategy-and-policy:
   display_name: "Strategy & Policy"
+training:
+  display_name: "Training"
 uncategorized:
   display_name: "Uncategorized"
 user-testing-and-research:

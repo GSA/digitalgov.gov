@@ -131,6 +131,12 @@
 
   <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
 
+  {{/* Add add to calendar sheet in events */}}
+  {{ if eq .Section "events" }}
+    <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
+  {{ end }}
+
+
   {{/* TODO: Unused event stylesheets */}}
   <!-- <link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.4.1.1' type='text/css' media='all' />
   <link rel='stylesheet' id='tribe-events-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.4.1.1' type='text/css' media='all' />

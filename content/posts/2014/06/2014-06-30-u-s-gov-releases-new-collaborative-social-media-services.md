@@ -25,7 +25,7 @@ tag:
 
 The **[Federal #SocialGov Community]({{< relref "social-media.md" >}})**, a collective of almost 700 digital engagement managers from more than 120 government agencies, marked the 2nd anniversary of our program by releasing a suite of new collaborative services to help us better work together and with partners in the private sector to share resources and build public services of the 21st century.
 
-The online event, **[U.S. Federal SocialGov: 2 years of Smashing Silos + Elevating Citizen Services]({{< relref "events/u-s-federal-socialgov-2-years-of-smashing-silos-improving-citizens-services-with-social-media.md" >}})**, focused on how collaborative, open participation in the development process will help public services better tackle performance analysis, policy development, accessibility for persons with disabilities, international partnerships and global digital engagement support.
+The online event, **[U.S. Federal SocialGov: 2 years of Smashing Silos + Elevating Citizen Services]({{< relref "u-s-federal-socialgov-2-years-of-smashing-silos-improving-citizens-services-with-social-media.md" >}})**, focused on how collaborative, open participation in the development process will help public services better tackle performance analysis, policy development, accessibility for persons with disabilities, international partnerships and global digital engagement support.
 
 [youtube=http://www.youtube.com/watch?v=5vyAlqOEsuM&w=600]
 
