@@ -30,9 +30,14 @@ outputFormats:
     baseName: "siteimages"
     isPlainText: true
     notAlternative: true
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"
+
+rssLimit: 20
 
 outputs:
-  home: ["HTML","RSS", "SiteImages"]
+  home: ["HTML","RSS","SiteImages"]
 
 params:
   description           : "DigitalGov: We’re helping you build a modern government."
