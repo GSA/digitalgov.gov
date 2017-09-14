@@ -14,5 +14,5 @@
 <img
   class="catslide-thumbnail"
   src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
-  alt="{{ $thisimg.alt | default "foo default" }}"
+  alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
   title="{{ .Title | markdownify }}" />

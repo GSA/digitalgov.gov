@@ -26,7 +26,7 @@ _This post was originally published on the [USDA blog](https://www.usda.gov/medi
 
 The [Department of Agriculture](https://www.usda.gov/) (USDA) today announced new updates to its popular FoodKeeper application that will provide users with new access to information on food safety recalls. The app has been updated so users can choose to receive automatic notifications when food safety recalls are announced by USDA’s [Food Safety and Inspection Service](https://www.fsis.usda.gov/) (FSIS) and the Department of Health and Human Service’s [Food and Drug Administration](https://www.fda.gov/) (FDA).
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-400-FoodKeeper-app-on-phone-held-in-front-of-open-refrigerator.jpg" alt="FoodKeeper app on phone held in front of open refrigerator." >}}
+{{< img src="foodkeeper-app-on-phone-held-in-front-of-open-refrigerator" alt="FoodKeeper app on phone held in front of open refrigerator." >}}
 
 ## Recalls Immediately, Daily, or Weekly
 
