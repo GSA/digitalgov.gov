@@ -74,17 +74,30 @@
   				<div class="tribe_events type-tribe_events status-publish {{ if .Params.featured_image.link }} has-post-thumbnail{{ end }} hentry">
   					<!-- Event featured image, but exclude link -->
 
-            {{ with .Params.featured_image }}
+            {{ if .Params.featured_image.uid }}
               {{/* TODO: image cropping with object-fit
                     https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
               {{/* TODO: image size and scaling? responsiveness? */}}
-    					<div class="tribe-events-event-image">
+              {{ $cdnurl := .Site.Params.cdnurl }}
+              {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
+              {{ $imgBase := $thisimg.uid }}
+              {{ $imgExt := $thisimg.format }}
+              {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+              {{ $imgWidth := $thisimg.width }}
+              {{ $imgHeight := $thisimg.height }}
+
+              {{ $.Scratch.Set "imgSuffix" "" }}
+              {{ if gt $imgWidth 400 }}
+               {{ $.Scratch.Set "imgSuffix" "_w400" }}
+              {{ end }}
+
+              <div class="tribe-events-event-image">
                 <img
-                  width="210"
-                  height="210"
-                  src="{{ (.).link }}"
                   class="attachment-full size-full wp-post-image"
-                  alt="{{ (.).text }}">
+                  src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+                  alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
+                  width="210"
+                  height="210" />
               </div>
             {{ end }}
 

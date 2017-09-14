@@ -40,6 +40,34 @@
     </div><!-- .author.location -->
   </div><!-- .tribe-events-event-meta -->
 
+
+  {{ if .Params.featured_image.uid }}
+    {{/* TODO: image cropping with object-fit
+          https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
+    {{/* TODO: image size and scaling? responsiveness? */}}
+    {{ $cdnurl := .Site.Params.cdnurl }}
+    {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
+    {{ $imgBase := $thisimg.uid }}
+    {{ $imgExt := $thisimg.format }}
+    {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+    {{ $imgWidth := $thisimg.width }}
+    {{ $imgHeight := $thisimg.height }}
+
+    {{ $.Scratch.Set "imgSuffix" "" }}
+    {{ if gt $imgWidth 200 }}
+     {{ $.Scratch.Set "imgSuffix" "_w200" }}
+    {{ end }}
+
+    <div class="tribe-events-event-image">
+      <img
+        class="attachment-medium size-medium wp-post-image"
+        src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+        alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
+        width="210"
+        height="150" />
+    </div>
+  {{ end }}
+
   <!-- Event Image -->
   {{/* TODO: add featured image
   {{ if .Params.featured_image.link }}
