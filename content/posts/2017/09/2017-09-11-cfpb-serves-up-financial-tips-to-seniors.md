@@ -24,7 +24,7 @@ The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)’s
 
 We collaborated with [Meals on Wheels America](http://www.mealsonwheelsamerica.org/) and put financial tips and information about common types of financial scams on placemats. To explore this new educational resource and format, we engaged the CFPB User Research Team to test our first two placemats. The feedback was positive, but there was room for improvement. Some of the users suggested that the placemats could be easier to read with larger fonts and brighter colors, as well as more engaging and interactive. The users mentioned they liked graphics with animals and patriotic themes, too.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-430-English-cfpb\_placemat\_fill-in-the-blank.jpg" alt="A placemat for financial scams in English." >}}
+{{< img src="english-cfpb-placemat-fill-in-the-blank" alt="A placemat for financial scams in English." >}}
 
 Guided by the results of the usability findings from the first two placemats, we developed a suite of three placemats—a word search, a word scramble, and a fill-in-the-blank puzzle with lessons in the format of simple word games. These placemats share information about common scams with tips to prevent or report them.
 
@@ -32,7 +32,7 @@ The placemats were tested at two meal sites with a diverse group of users, inclu
 
 At the conclusion of testing, we made a few more tweaks: increasing the font size even more, removing some of the copy, and clarifying the instructions. The final version of each placemat is available for everyone to [download or order in bulk for free](https://www.consumerfinance.gov/practitioner-resources/resources-for-older-adults/protecting-against-fraud/financial-education-placemats/).
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-430-Spanish-cfpb\_placemat\_mail-fraud-alert.jpg" alt="A placemat for mail fraud in Spanish." >}}
+{{< img src="spanish-cfpb-placemat-mail-fraud-alert" alt="A placemat for mail fraud in Spanish." >}}
 
 The feedback we received from our user research led us to translate two of the existing placemats into nearly 10 additional languages. An unanticipated result of our user testing was that more research is needed to find out how to more effectively engage non-English speaking older adults. That’s the benefit to doing usability testing; you may find the need exists for additional educational materials which will guide future work for our office.
 

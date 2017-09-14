@@ -14,12 +14,12 @@
     alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
     {{ end }}
     srcset='
-    {{ if gt $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
-      {{ if gt $imgWidth 400 }}
-        {{ if gt $imgWidth 600 }}
+    {{ if ge $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
+      {{ if ge $imgWidth 400 }}
+        {{ if ge $imgWidth 600 }}
           {{/* high-res values for when we implement...
-          {{ if gt $imgWidth 800 }}
-            {{ if gt $imgWidth 1200 }}
+          {{ if ge $imgWidth 800 }}
+            {{ if ge $imgWidth 1200 }}
               {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
             {{ end }}
             {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
