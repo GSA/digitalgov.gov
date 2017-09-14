@@ -9,6 +9,7 @@
 
 <div{{ if lt $imgWidth 600 }} class="align-right"{{ end }}>
   <img
+    class="{{ if (.Get "align") }}align{{ .Get "align" }}{{ else }}aligncenter{{ end }}"
     src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
     {{ if or (.Get "alt" ) $thisimg.alt }}
     alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
