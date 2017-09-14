@@ -1,6 +1,8 @@
 ---
 # url: /events/an-example-event
+slug: example-event
 date: 2017-10-10 10:30:00 -0400
+end_date: 2017-10-11 11:00:00 -0400
 draft: false
 title: 'This is the example event title'
 summary: 'This is the summary'
@@ -17,8 +19,6 @@ tag:
   - a-b-testing
   - api
 event_type: mixed
-start_date: 2017-10-10 10:30:00 -0400
-end_date: 2017-10-11 11:00:00 -0400
 event_organizer: DigitalGov University
 host: DigitalGov
 registration_url: REG_URL
