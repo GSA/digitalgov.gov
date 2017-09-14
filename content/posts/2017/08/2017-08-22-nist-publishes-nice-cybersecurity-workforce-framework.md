@@ -18,7 +18,7 @@ tag:
 
 The [National Initiative for Cybersecurity Education](https://www.nist.gov/itl/applied-cybersecurity/nice) (NICE) is pleased to announce the release of Special Publication 800-181, the NICE Cybersecurity Workforce Framework. This publication serves as a fundamental reference to support a workforce capable of meeting an organization’s cybersecurity needs. It provides organizations with a common, consistent lexicon that categorizes and describes cybersecurity work by Category, Specialty Area, and Work Role. It is a resource from which organizations or sectors can develop additional publications or tools that meet their needs to define or provide guidance on different aspects of workforce development, planning, training, and education.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-300-nice\_hero3\_form_five.png" alt="Cybersecurity graphic with NICE logo from the main PDF." >}}
+{{< img src="nice-hero3-form-five" alt="Cybersecurity graphic with NICE logo from the main PDF." >}}
 
 Check out [the Special Publication](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf) (1.7 MB PDF, 144 pages). Learn more and view a one-pager about the NICE Framework at [nist.gov/nice/framework](https://www.nist.gov/file/372041) (119 kb PDF).
 
