@@ -18,7 +18,10 @@
         {{ partial "post-meta" . }}
 
         {{ .Content }}
+
+        {{/* TODO: Hiding until we figure this out
         <a href="/edit?edit={{ .Permalink }}">Edit post</a>
+        */}}
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
 
