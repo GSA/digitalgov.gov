@@ -34,7 +34,7 @@
 
   				<!-- Notices -->
 
-  				<h1 class="tribe-events-single-event-title">{{ .Params.title }}</h1>
+  				<h1 class="tribe-events-single-event-title">{{ .Title }}</h1>
   				<div class="tribe-events-schedule tribe-clearfix">
             <h2>
               <span class="tribe-event-date-start">
@@ -53,39 +53,53 @@
             </h2>
   				</div><!-- .tribe-events-scnedule -->
 
+          {{/* TODO add paginator if necessary */}}
           {{/* This is all hidden navigation for screen readers */}}
+          {{/*
   				<div id="tribe-events-header" data-title="{{ .Params.title }}">
   					<h3 class="tribe-events-visuallyhidden">Event Navigation</h3>
   					<ul class="tribe-events-sub-nav">
-              {{/* get previous event */}}
-              {{/* TODO: Add online/inperson prefix to titles */}}
               {{ if .PrevInSection }}
                 <li class="tribe-events-nav-previous"><a href="{{ .PrevInSection.Permalink }}"><span>&laquo;</span> {{ .PrevInSection.Title }}</a></li>
               {{ end }}
 
-              {{/* get next event */}}
               {{ if .NextInSection }}
                 <li class="tribe-events-nav-next"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} <span>&raquo;</span></a></li>
               {{ end }}
   					</ul><!-- .tribe-events-sub-nav -->
   				</div><!-- #tribe-events-header -->
-
+          */}}
 
           {{/* TODO: Make class generation more dynamic */}}
-  				<div class="tribe_events type-tribe_events status-publish has-post-thumbnail hentry">
+  				<div class="tribe_events type-tribe_events status-publish {{ if .Params.featured_image.link }} has-post-thumbnail{{ end }} hentry">
   					<!-- Event featured image, but exclude link -->
 
-            {{/* TODO: image cropping with object-fit
-                  https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
-            {{/* TODO: image size and scaling? responsiveness? */}}
-  					<div class="tribe-events-event-image">
-              <img
-                width="210"
-                height="210"
-                src="{{ .Params.featured_image.link }}"
-                class="attachment-full size-full wp-post-image"
-                alt="{{ .Params.featured_image.text }}">
-            </div>
+            {{ if .Params.featured_image.uid }}
+              {{/* TODO: image cropping with object-fit
+                    https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
+              {{/* TODO: image size and scaling? responsiveness? */}}
+              {{ $cdnurl := .Site.Params.cdnurl }}
+              {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
+              {{ $imgBase := $thisimg.uid }}
+              {{ $imgExt := $thisimg.format }}
+              {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+              {{ $imgWidth := $thisimg.width }}
+              {{ $imgHeight := $thisimg.height }}
+
+              {{ $.Scratch.Set "imgSuffix" "" }}
+              {{ if gt $imgWidth 400 }}
+               {{ $.Scratch.Set "imgSuffix" "_w400" }}
+              {{ end }}
+
+              <div class="tribe-events-event-image">
+                <img
+                  class="attachment-full size-full wp-post-image"
+                  src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+                  alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
+                  width="210"
+                  height="210" />
+              </div>
+            {{ end }}
 
   					<div class="tribe-events-content tribe-events-single-event-description">
   						<p><em>Note: All DigitalGov University events take place in Eastern Time.</em></p>
@@ -124,67 +138,29 @@
                 {{ end }}
               </p>
 
-
               {{ .Content }}
 
   					</div><!-- .tribe-events-content -->
-
-            {{/* TODO: What needs to go into this gcal button? */}}
   					<div class="tribe-events-cal-links">
-              {{ $event_text := .Params.title }}
-              {{ $event_dates := .Params.title }}
-              {{ with .Params.start_date }}
-                {{ . | dateFormat "02 Jan 06 15:04 MST" .Date.UTC }}
-              {{ end }}/
-              {{ with .Params.end_date }}
-                {{ . | dateFormat "3:04 PM ET" }}
-              {{ end }}
-              {{ $event_details := .Params.title }}
-              {{/* $event_location := .Params.venue.address + .Params.venue.city + ", " + .Params.venue.state + .Params.venue.zip */}}
-              {{/* $event_location := (("foooooo" .Params.venue.address) .Params.venue.city) */}}
-              {{/* $event_location */}}
+              {{ $event_startDate := dateFormat "2006-01-02 03:04:05" (time .Params.start_date).UTC }}
+              {{ $event_endDate := dateFormat "2006-01-02 03:04:05" (time .Params.end_date).UTC }}
+              {{ $event_title := .Title | markdownify }}
+              {{ $event_description := .Summary | markdownify }}
+              {{ $event_location := .Params.venue.venue_name }}
 
-              {{/*
-
-              <!-- 3. Place event data -->
               <span class="addtocalendar atc-style-blue">
-                  <var class="atc_event">
-                      <var class="atc_date_start">2017-05-04 12:00:00</var>
-                      <var class="atc_date_end">2017-05-04 18:00:00</var>
-                      <var class="atc_timezone">Europe/London</var>
-                      <var class="atc_title">Star Wars Day Party</var>
-                      <var class="atc_description">May the force be with you</var>
-                      <var class="atc_location">Tatooine</var>
-                      <var class="atc_organizer">Luke Skywalker</var>
-                      <var class="atc_organizer_email">luke@starwars.com</var>
-                  </var>
+                <var class="atc_event">
+                  <var class="atc_date_start">{{ $event_startDate }}</var>
+                  <var class="atc_date_end">{{ $event_endDate }}</var>
+                  <var class="atc_timezone">UTC</var>
+                  <var class="atc_title">{{ $event_title }}</var>
+                  <var class="atc_description">{{ $event_description }}</var>
+                  <var class="atc_location">{{ $event_location }}</var>
+                  <var class="atc_organizer">DigitalGov</var>
+                  <var class="atc_organizer_email">digitalgov@gsa.gov</var>
+                </var>
               </span>
-
-              ---------------------
-
-              <a href="http://www.google.com/calendar/event?
-                action=TEMPLATE
-                &text=[event-title]
-                &dates=[start-custom format='Ymd\\THi00\\Z']/[end-custom format='Ymd\\THi00\\Z']
-                &details=[description]
-                &location=[location]
-                &trp=false
-                &sprop=
-                &sprop=name:"
-                target="_blank" rel="nofollow">Add to my calendar</a>
-
-                ---------------------
-
-                http://www.google.com/calendar/event?action=TEMPLATE&#038;text={{ $event_text }}&#038;dates={{ $event_start_date }}/{{ $event_start_date }}&#038;details={{ $event_details }}&#038;location={{ $event_location }}&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York
-              */}}
-
-
-              <a class="tribe-events-gcal tribe-events-button" href="http://www.google.com/calendar/event?action=TEMPLATE&#038;text=In-Person+%26amp%3B+Online%3A+June+Challenge+and+Prize+Community+of+Practice+Meeting&#038;dates=20170620T090000/20170620T120000&#038;details=Note%3A+All+DigitalGov+University+events+take+place+in+Eastern+Time.+%0AREGISTER+NOW+%0AThis+event+is+in-person+%2B+remote.+%0ALocation%0AGSA+Building%0A1800+F+Street%0AWashington%2C+D.C.%0ARoom%C2%A01459%0AMap+%0AAbout+the+Event+%0AJoin+us+for+our+June+meeting%2C+where+we%26%238217%3Bll+focus+on+the+dynamics+and+benefits+of+public-private+partnerships.+%0AHear+from+federal+challenge+managers+on+the+rational+behind+their+collaboration+with+other+agencies%2C+industry%2C+academia+and+nonprofits.+Learn+how+these+external+partnerships+have+worked+under+various+legal+authorities%2C+and+equip+yourself+with+strategies+to+share+with+your+own+agency+prize+team.+%0AWho+Should+Attend+%0AMembers+of+the+Federal+Challenges+%26amp%3B+Prizes+Community+of+Practice%2C+program+managers%2C+contracting+and+procurement+staff%2C+communications+teams%2C+legal+staff%2C+and+other+federal+employees+who+manage+or+work+on+crowdsourcing%2C+challenge%2C+and+incentivized+prize+competitions%2C+and+other+open+innovation+practices.+We+also+welcome+our+colleagues+from+the+Citizen+Scien+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fwww.digitalgov.gov%2Fevent%2Fjune-challenge-and-prize-community-of-practice-meeting%2F%29&#038;location=1800+F+St+NW%2C+Washington%2C+DC%2C+20405%2C+United+States&#038;trp=false&#038;sprop=website:https://www.digitalgov.gov&#038;ctz=America%2FNew_York"
-  						  title="Add to Google Calendar">+ Google Calendar</a>
-
-                {{/* TODO: What needs to go into this ical button? */}}
-                <a class="tribe-events-ical tribe-events-button" href="https://www.digitalgov.gov/event/june-challenge-and-prize-community-of-practice-meeting/?ical=1" title="Download .ics file">+ iCal Export</a>
-              </div><!-- .tribe-events-cal-links -->
+            </div><!-- .tribe-events-cal-links -->
 
   					<div class="tribe-events-single-section tribe-events-event-meta primary tribe-clearfix">
   						<div class="tribe-events-meta-group tribe-events-meta-group-details">
@@ -210,18 +186,18 @@
                       {{ $length := $_cats | len }}
                       {{ range $i, $e := $_cats }}
                         {{ $slug := $e | urlize }}
-                        {{ $title := index $.Site.Data.categories $slug }}
+                        {{ $cat := index $.Site.Data.categories $slug }}
                         {{ $link := printf "categories/%s/" $slug }}
                         {{ if lt (add $i 1) $length }}
-                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>,
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $cat.display_name }}</a>,
                         {{ else }}
-                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $cat.display_name }}</a>
                         {{ end }}
                       {{ end }}
                     </dd>
                   {{ end }}
 
-
+                  {{ $sitetags := $.Site.Data.tag }}
                   {{ if (not (isset .Params "tag")) | or (eq .Params.tag "") }}
                   {{ else }}
                     <dt>Event Tags:</dt>
@@ -230,17 +206,16 @@
                       {{ $length := $_taxonomy | len }}
                       {{ range $i, $e := $_taxonomy }}
                         {{ $slug := $e | urlize }}
-                        {{ $title := index $.Site.Data.tag $slug }}
+                        {{ $tag := index $sitetags $slug }}
                         {{ $link := printf "tag/%s/" $slug }}
                         {{ if lt (add $i 1) $length }}
-                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>,
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $tag.display_name }}</a>,
                         {{ else }}
-                          <a href="{{ $link | absURL }}" rel="tag">{{ $title }}</a>
+                          <a href="{{ $link | absURL }}" rel="tag">{{ $tag.display_name }}</a>
                         {{ end }}
                       {{ end }}
                     </dd>
                   {{ end }}
-
   							</dl>
   						</div><!-- .tribe-events-event-meta -->
 
@@ -250,7 +225,7 @@
                   {{/* TODO: why is this here? */}}
   								<dt style="display:none;"></dt>
   								<dd class="tribe-organizer">
-  									{{ .Params.organizer }} </dd>
+  									{{ .Params.event_organizer }} </dd>
   							</dl>
   						</div><!-- .tribe-events-meta-group -->
   					</div><!-- .tribe-events-single-section -->
@@ -291,34 +266,22 @@
   							</dl>
   						</div><!-- .tribe-events-meta-group -->
 
-              {{/* TODO: if this being generated by javascript? re-build */}}
+              {{/* TODO: should be built via API, not from a big html paste */}}
+              {{ with $venue.embed }}
   						<div class="tribe-events-venue-map">
   							<div id="tribe-events-gmap-0" style="height: 350px; width: 100%">
-                  {{ $venue.map}}
+                  {{ . | safeHTML }}
                 </div><!-- #tribe-events-gmap-0 -->
   						</div><!-- .tribe-events-venue-map -->
+              {{ end }}
   					</div><!-- .tribe-events-single-section -->
   				</div><!-- .tribe_events -->
 
-  				<!-- Event footer -->
-  				<div id="tribe-events-footer">
-  					<!-- Navigation -->
-  					<h3 class="tribe-events-visuallyhidden">Event Navigation</h3>
-  					<ul class="tribe-events-sub-nav">
-              {{/* get previous event */}}
-              {{/* TODO: Add online/inperson prefix to titles */}}
-              {{ if .PrevInSection }}
-                <li class="tribe-events-nav-previous"><a href="{{ .PrevInSection.Permalink }}"><span>&laquo;</span> {{ .PrevInSection.Title }}</a></li>
-              {{ end }}
-
-              {{/* get next event */}}
-              {{ if .NextInSection }}
-                <li class="tribe-events-nav-next"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} <span>&raquo;</span></a></li>
-              {{ end }}
-  					</ul>
-  					<!-- .tribe-events-sub-nav -->
+          {{/* TODO add paginator if necessary */}}
+  				{{/*
+          <div id="tribe-events-footer">
   				</div>
-  				<!-- #tribe-events-footer -->
+          */}}
 
   			</div>
   			<!-- #tribe-events-content -->
@@ -344,7 +307,4 @@
 
   </div>
   <!-- End #wrap div -->
-{{ end }}
-
-{{ define "sidebar" }}
 {{ end }}
