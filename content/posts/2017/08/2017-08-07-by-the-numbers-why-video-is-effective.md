@@ -19,7 +19,7 @@ tag:
 
 <p dir="ltr">
   At HIV.gov, we’re often asked if videos are effective tools for communicating HIV prevention and treatment information. Our experience, the work of our partners, and current research continue to support the use of video for informing and empowering individuals.
-</p> {{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-400-Business-video-marketing-content-online-concept-TCmake_photo-iStock-Thinkstock-639309858.jpg" alt="Concept illustrations of marketing various types of online content." caption="" >}} 
+</p> {{< legacy-img src="2017/08/600-x-400-Business-video-marketing-content-online-concept-TCmake_photo-iStock-Thinkstock-639309858.jpg" alt="Concept illustrations of marketing various types of online content." caption="" >}} 
 
 <p dir="ltr">
   Using video as part of a comprehensive communication strategy can increase the engagement and effectiveness of the health messages. Recent data report:
