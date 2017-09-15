@@ -16,12 +16,16 @@
         </h1>
 
         {{ partial "post-meta" . }}
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
 
         {{ .Content }}
 
         {{/* TODO: Hiding until we figure this out
         <a href="/edit?edit={{ .Permalink }}">Edit post</a>
         */}}
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
 
