@@ -3,6 +3,9 @@ slug: the-data-briefing-how-blockchains-future-growth-will-affect-federal-agenci
 date: 2017-09-13 09:01:00 -0400
 title: 'The Data Briefing&#58; How Blockchain’s Future Growth Will Affect Federal Agencies'
 summary: 'Blockchains are an innovative technology which promises to radically change how society conducts business&#46; It will take significant changes in organizational processes before agencies can begin to support blockchains&#46;'
+featured_image:
+  uid: 'block-chain-network-concept-on-technology-background-monsitj-istock-thinkstock-691338846'
+  alt: 'Block chain network concept on technology background.'
 authors:
   - bbrantley
 
@@ -33,8 +36,7 @@ Before we explore why blockchain growth may have slowed, let us review the promi
 
 3. Smart contracts. [As explained in the report](https://dupress.deloitte.com/dup-us-en/focus/tech-trends/2017/blockchain-trust-economy.html), “[u]sing consensus protocols, a computer network develops a sequence of actions from a smart contract’s code. This sequence of actions is a method by which parties can agree upon contract terms that will be executed automatically, with reduced risk of error or manipulation. Before blockchain, this type of smart contract was impossible because parties to an agreement of this sort would maintain separate databases. With a shared database running a blockchain protocol, the smart contracts auto-execute, and all parties validate the outcome instantaneously—and without the involvement of a third-party intermediary.”
 
-IMAGE Block chain network concept on technology background.
-monsitj/iStock/Thinkstock
+{{< img src="block-chain-network-concept-on-technology-background-monsitj-istock-thinkstock-691338846" alt="Block chain network concept on technology background." caption="monsitj/iStock/Thinkstock">}}
 
 Blockchains are an innovative technology which promises to radically change how society conducts business. Inherent in promise of blockchains are the disruptive effects on how organizations conduct business. It will take significant changes in organizational processes before agencies can begin to support blockchains. “[Pioneering CIOs are well aware that blockchain reimagines the terms and conditions of doing business and the way in which society and the economy operates](https://www.networksasia.net/article/early-blockchain-success-will-be-limited-gartner.1502766720).” Having to reinvent how organizations operate might slow the progress of blockchains according to some analysts. “[Most (blockchain proof-of-concepts) generate significant lessons around the business challenges that need to be overcome and, perhaps critically, whether existing non-blockchain technologies applied more effectively can achieve similar or better goals](https://www.networksasia.net/article/early-blockchain-success-will-be-limited-gartner.1502766720).”
 
