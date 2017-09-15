@@ -1,5 +1,5 @@
 title                   : "DigitalGov - Building the 21st Century Digital Government"
-baseURL                 : ""
+baseURL                 : "/"
 languageCode            : "en-us"
 theme                   : "digital.gov"
 themesDir               : "./themes"
