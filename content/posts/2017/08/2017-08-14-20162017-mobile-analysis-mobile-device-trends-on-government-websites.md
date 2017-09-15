@@ -23,7 +23,7 @@ Mobile usage has changed people’s expectations of how they want to engage with
 
 U.S. government websites are no exception to this trend. In December 2016, mobile devices (smartphone and tablet) accounted for 43 percent of all traffic vs. 36 percent the same time the year before. We already see the same trend through June of 2017 and it will likely accelerate in the second half of 2017.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-350-DAP-Smartphone-and-Tablet-Penetration.jpg" alt="Chart: Smartphone and Tablet Penetration." >}}
+{{< legacy-img src="2017/08/600-x-350-DAP-Smartphone-and-Tablet-Penetration.jpg" alt="Chart: Smartphone and Tablet Penetration." >}}
 
 We should caveat that our year-over-year data is not a perfect “apples to apples” comparison because various government websites continually add our DAP web analytics code throughout the year. But analytics isn’t accounting—it’s directional, so we can still look at high level datasets and market share numbers to infer mobile device trends.
 
@@ -31,11 +31,11 @@ We should caveat that our year-over-year data is not a perfect “apples to appl
 
 Now that we’ve seen the top level shift from desktop to mobile, let’s drill deeper into mobile device specific trends. What we discovered is that even though desktop users are switching to total mobile, when we dive deeper into the data we actually see tablet users declining and smartphone capturing the majority of the shift in users from desktop. This trend is already true halfway through 2017. We anticipate smartphone usage to increase more than today’s 37 percent share of total traffic in 2017.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-300-DAP-Device-Share-of-Traffic-phone-Tablet-Desktop.jpg" alt="Chart: Device Share of Traffic." >}}
+{{< legacy-img src="2017/08/600-x-300-DAP-Device-Share-of-Traffic-phone-Tablet-Desktop.jpg" alt="Chart: Device Share of Traffic." >}}
 
 To better understand the shift away from tablets and shift towards smartphones, let’s look at the device types’ share of traffic since the inception of DAP in 2013. Below we see that while smartphones and tablets accounted for equal shares of traffic in 2013, smartphone share of traffic has clearly spiked, while tablet usage has languished. Smartphone usage now accounts for 36 percent of all traffic and is forecasted to continue increasing.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/08/600-x-336-DAP-Device-Share-of-Traffic-by-Year-Phone-and-Tablet.jpg" alt="Chart: Device Share of Traffic by year." >}}
+{{< legacy-img src="2017/08/600-x-336-DAP-Device-Share-of-Traffic-by-Year-Phone-and-Tablet.jpg" alt="Chart: Device Share of Traffic by year." >}}
 
 ## How Does This Impact You?
 

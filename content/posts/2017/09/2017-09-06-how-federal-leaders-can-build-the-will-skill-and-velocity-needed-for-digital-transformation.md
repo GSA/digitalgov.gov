@@ -3,6 +3,9 @@ slug: how-federal-leaders-can-build-the-will-skill-and-velocity-needed-for-digit
 date: 2017-09-06 3:00:31 -0400
 title: How Federal Leaders Can Build the Will, Skill, and Velocity Needed for Digital Transformation
 summary: 'Learning&mdash;and practicing&mdash;five imperatives of network leadership can help agencies improve their odds for successful digital transformation.  Many organizations are undergoing digital transformation because the organizations see that it is necessary for long-term survival. However, digitally reinventing the organization is &ldquo;one of the hardest journeys to make.&rdquo;  According to industry experts, two-thirds of organizations will fail'
+featured_image:
+  uid: 'teamwork-new-product-researching-startup-crew-littlehenrabi-istock-thinkstock-538362390'
+  alt: 'A close-up of three people viewing something on a laptop.'
 authors:
   - bbrantley
 categories:
@@ -16,7 +19,7 @@ tag:
 
 _Learning—and practicing—five imperatives of network leadership can help agencies improve their odds for successful digital transformation._
 
-[Many organizations are undergoing digital transformation](http://www.gartner.com/newsroom/id/3689017) because the organizations see that it is necessary for long-term survival. However, digitally reinventing the organization is “[one of the hardest journeys to make](https://dionhinchcliffe.com/2017/07/17/digital-transformation-and-the-leadership-quandary/).”  According to industry experts, [two-thirds of organizations will fail at digital transformation](https://www.christian-frei.com/why-23-of-companies-wont-survive-the-4th-industrial-revolution/). With these dismal odds, what can agency leaders do to improve their agency’s chances in successfully digitally transforming? {{< legacy-img src="https://www.WHATEVER/files/2017/07/600-x-400-Teamwork-New-product-researching-Startup-crew-littlehenrabi-iStock-Thinkstock-538362390.jpg" alt="A close-up of three people viewing something on a laptop." caption="" >}}
+[Many organizations are undergoing digital transformation](http://www.gartner.com/newsroom/id/3689017) because the organizations see that it is necessary for long-term survival. However, digitally reinventing the organization is “[one of the hardest journeys to make](https://dionhinchcliffe.com/2017/07/17/digital-transformation-and-the-leadership-quandary/).”  According to industry experts, [two-thirds of organizations will fail at digital transformation](https://www.christian-frei.com/why-23-of-companies-wont-survive-the-4th-industrial-revolution/). With these dismal odds, what can agency leaders do to improve their agency’s chances in successfully digitally transforming? {{< legacy-img src="2017/07/600-x-400-Teamwork-New-product-researching-Startup-crew-littlehenrabi-iStock-Thinkstock-538362390.jpg" alt="A close-up of three people viewing something on a laptop." caption="" >}}
 
 The first piece of advice is for leaders to learn how to lead through their networks. Agency leaders need to learn the [five imperatives of network leadership](https://www.enterpriseirregulars.com/89399/strategic-role-digital-networks-corporate-leadership-today/):
 

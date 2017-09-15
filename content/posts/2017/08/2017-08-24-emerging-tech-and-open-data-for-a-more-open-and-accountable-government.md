@@ -22,7 +22,7 @@ Open data and emerging technologies—including artificial intelligence and dist
 
 At our upcoming collaborative workshop, _Emerging Technology and Open Data for a More Open Government_, we invite new partners to help craft potential goals to be integrated into the fourth U.S. National Action Plan for Open Government. The workshop will be hosted at the U.S. General Services Administration on September 8 by [the Emerging Citizen Technology program](https://www.gsa.gov/portal/category/101958). It will tap into U.S. private sector and federal IT modernization efforts to help ensure that the federal government leads in public service innovations designed by and for citizens.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/06/600-x-450-Justin-Emerging-Tech-Program-Echo-Dot-American-flag.jpg" alt="A hand holds an Echo Dot from Amazon in front of an American flag." >}}
+{{< legacy-img src="2017/06/600-x-450-Justin-Emerging-Tech-Program-Echo-Dot-American-flag.jpg" alt="A hand holds an Echo Dot from Amazon in front of an American flag." >}}
 
 As a founding leader of the multinational Open Government Partnership (OGP), this year the U.S. government is releasing its fourth National Action Plan (NAP 4), which will outline the goals that we have set to achieve more transparent and open services by strengthening the public voice and promoting innovation and accountability reform across the government. OGP is a collaboration of 75 participating countries endorsing the [Open Government Declaration](https://www.opengovpartnership.org/open-government-declaration) to empower citizens and advance the ideals of open and participatory government.
 

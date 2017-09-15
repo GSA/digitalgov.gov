@@ -3,6 +3,9 @@ slug: usda-foodkeeper-app-update-expands-content-offerings
 date: 2017-09-07 3:59:14 -0400
 title: USDA FoodKeeper App Update Expands Content Offerings
 summary: 'The USDA&#8217;s multilingual FoodKeeper app has been updated to include three options for receiving food recall updates and expands storage timelines to over 500 products. This post was originally published on the USDA blog. The Department of Agriculture (USDA) today announced new updates to its popular FoodKeeper application that will provide users with new access to'
+featured_image:
+  uid: 'foodkeeper-app-on-phone-held-in-front-of-open-refrigerator'
+  alt: 'USDA Foodkeeper app held in front of a refrigerator.'
 categories:
   - Content
   - Mobile
@@ -23,7 +26,7 @@ _This post was originally published on the [USDA blog](https://www.usda.gov/medi
 
 The [Department of Agriculture](https://www.usda.gov/) (USDA) today announced new updates to its popular FoodKeeper application that will provide users with new access to information on food safety recalls. The app has been updated so users can choose to receive automatic notifications when food safety recalls are announced by USDA’s [Food Safety and Inspection Service](https://www.fsis.usda.gov/) (FSIS) and the Department of Health and Human Service’s [Food and Drug Administration](https://www.fda.gov/) (FDA).
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-400-FoodKeeper-app-on-phone-held-in-front-of-open-refrigerator.jpg" alt="FoodKeeper app on phone held in front of open refrigerator." >}}
+{{< img src="foodkeeper-app-on-phone-held-in-front-of-open-refrigerator" alt="FoodKeeper app on phone held in front of open refrigerator." >}}
 
 ## Recalls Immediately, Daily, or Weekly
 
@@ -31,7 +34,7 @@ In the update posted to the [Google Play](https://play.google.com/store/apps/det
 
 The FoodKeeper app was developed by FSIS in partnership with Cornell University and the Food Marketing Institute, as a tool to help reduce food waste and improve public health by sharing storage methods that extend the shelf life of the foods and beverages in American homes. It now offers specific storage timelines for the refrigerator, freezer, and pantry, for more than 500 products, including various types of baby food, dairy products and eggs, meat, poultry, produce, seafood and more. Since it was launched in April 2015, it has been downloaded nearly 150,000 times.
 
-{{< legacy-img src="https://www.WHATEVER/files/2017/09/600-x-800-FoodKeeper-app-on-tablet-new-Food-Recalls-list.jpg" alt="A mobile tablet displays a Food Recall list in the USDA FoodKeeper app." >}}
+{{< img src="FoodKeeper-app-on-tablet-new-Food-Recalls-list" alt="A mobile tablet displays a Food Recall list in the USDA FoodKeeper app." >}}
 
 ## Application Features
 

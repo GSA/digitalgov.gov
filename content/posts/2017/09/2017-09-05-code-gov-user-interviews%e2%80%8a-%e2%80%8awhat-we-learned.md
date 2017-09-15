@@ -3,6 +3,9 @@ slug: code-gov-user-interviews-what-we-learned
 date: 2017-09-05 2:00:20 -0400
 title: 'Code.gov User Interviews &#8212; What We Learned'
 summary: 'This post was originally published by Code.gov on Medium. It&rsquo;s been a year since the federal government published the Federal Source Code Policy, which created the foundation for Code.gov. In honor of the policy&rsquo;s anniversary, we checked in with our users to learn more about them, their needs, and the challenges they face. Our users'
+featured_image:
+  uid: 'question-mark-rawpixel-ltd-istock-thinkstock-180823703'
+  alt: 'Folks holding question marks in front of their faces.'
 authors:
   - code-gov
 categories:
@@ -19,7 +22,7 @@ It’s been a year since the federal government published the Federal Source Cod
 
 <p id="4296" class="graf graf--p graf-after--p">
   We interviewed federal developers, product owners, Federally Funded Research and Development Center (FFRDC) consultants, and developers from across the open source community. We asked interviewees what they knew about the <a class="markup--anchor markup--p-anchor" href="https://medium.com/@CodeDotGov/the-journey-to-sharing-americas-code-10a162d26418" target="_blank" rel="noopener">Federal Source Code Policy</a>, Code.gov, what features they would like to see in future iterations, and how they discover news about open source software and technology in general. Common themes emerged quickly after just a couple of interviews.
-</p> {{< legacy-img src="https://www.WHATEVER/files/2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}}
+</p> {{< img src="Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}}
 
 ## Search {#cd47.graf.graf--p.graf-after--p}
 
