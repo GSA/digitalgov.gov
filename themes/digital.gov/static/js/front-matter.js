@@ -29,39 +29,43 @@ jQuery(document).ready(function($) {
   var small_words = /and |the |are |is |of |to |a /gi; // these are the small words we are removing from urls
 
 
+
   //- - - - - - - - - - - - - - - - - - - -
 
-  // Post type Buttons
-  $(".post_types .btn").click(function() {
-    $(".post_types .btn").removeClass('selected');
-    $(this).addClass('selected');
-    get_matter_data();
-    get_event_type();
-  });
+  // // Post type Buttons
+  // $(".post_types .btn").click(function() {
+  //   $(".post_types .btn").removeClass('selected');
+  //   $(this).addClass('selected');
+  //   get_matter_data();
+  //   get_event_type();
+  // });
 
-  // Gets post type from buttons
+  // // Gets post type from buttons
   function get_post_type(){
-    var post_type = $( '.post_types .selected' ).attr( 'data-type' );
+    // var post_type = $( '.post_types .selected' ).attr( 'data-type' );
+    var parts = location.href.split('/');
+    var lastSegment = parts.pop() || parts.pop();  // handle potential trailing slash
+    var post_type = lastSegment.replace('new-', '');
+    var d = $(".post_types .btn[data-type='"+post_type+"']").addClass('selected');
     return post_type;
   }
+  get_post_type();
 
 
   // Gets today's date + time
   function curr_date(){
     var d = new Date();
-    var month = d.getMonth()+1;
-    var day = d.getDate();
-    var output = d.getFullYear() + '-' +
-        (month<10 ? '0' : '') + month + '-' +
-        (day<10 ? '0' : '') + day + ' ' +
-        d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds() +
-        ' -0400';
+    var month = ("0" + (d.getMonth() + 1)).slice(-2);
+    var day = ("0" + (d.getDate())).slice(-2);
+    var hours = ("0" + (d.getHours())).slice(-2);
+    var minutes = ("0" + (d.getMinutes())).slice(-2);
+    var seconds = ("0" + (d.getSeconds())).slice(-2);
+    var output = d.getFullYear() + '-' + month + '-' + day + ' ' + hours + ":" + minutes + ":" + seconds + ' -0400';
     return output;
   }
 
   // inputs the current date in the date field
   $('input[name="m_date"]').val(curr_date());
-  $('input[name="m_start_date"]').val(curr_date());
   $('input[name="m_end_date"]').val(curr_date());
 
 
@@ -82,16 +86,16 @@ jQuery(document).ready(function($) {
   });
 
 
-  function show_fields(d){
-    $('#matter-maker label').addClass('hidden');
-    $('#matter-maker .block').addClass('hidden');
-    var fields = d.split(', ');
-    for (var f in fields) {
-      var field = '.'+fields[f];
-      $('#matter-maker '+field).removeClass('hidden');
-    }
-  }
-  show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
+  // function show_fields(d){
+  //   $('#matter-maker label').addClass('hidden');
+  //   $('#matter-maker .block').addClass('hidden');
+  //   var fields = d.split(', ');
+  //   for (var f in fields) {
+  //     var field = '.'+fields[f];
+  //     $('#matter-maker '+field).removeClass('hidden');
+  //   }
+  // }
+  // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
 
   // A function that replaces out the special characters in strings
   function escapeHtml (string) {
@@ -111,16 +115,23 @@ jQuery(document).ready(function($) {
     return filename;
   }
 
-  // Makes the URL
-  function matter_url(d,t) {
-    var date = d.match(/^[^\s]+/);
-    date = date[0].replace(/-/g, '/');
-    t = t.replace(small_words, '');
-    t = t.replace(entityPattern, ' ').trim();
-    t = t.replace(/\s+/g,' ').trim();
+  // returns the year and month for use in the filepath on GitHub
+  // Returns: 2017/09
+  function file_yearmo(date) {
+    var dateObj = new Date(date);
+    var year = dateObj.getUTCFullYear();
+    var month = ("0" + (dateObj.getUTCMonth() + 1)).slice(-2); //months from 1-12
+    var yearmo = year + "/" + month;
+    return yearmo;
+  }
+
+  // Makes the slug: for the front matter
+  function matter_slug(title) {
+    t = title.replace(small_words, '');
+    t = title.replace(entityPattern, ' ').trim();
+    t = title.replace(/\s+/g,' ').trim();
     var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
-    var f = '/'+date+'/'+slug;
-    return f;
+    return slug;
   }
 
   // Makes lists in the front matter
@@ -208,12 +219,13 @@ jQuery(document).ready(function($) {
     var post_type = get_post_type(); // gets the post type
 
     // Checks to see what the post type is and prints the front-matter for each type
+    // ========================================
     // POST
     if (post_type == 'post') {
-      show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
+      // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
       var matter = [
         "---",
-          "url: " + matter_url(data['m_date'], data['m_title']),
+          "slug: " + matter_slug(data['m_title']),
           "date: " + data['m_date'],
           "title: '" + escapeHtml(data['m_title']) + "'",
           "summary: '" + escapeHtml(data['m_summary']) + "'",
@@ -225,14 +237,18 @@ jQuery(document).ready(function($) {
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      console.log(newfile);
 
+
+
+      // ========================================
       // DOC
     } else if (post_type == 'doc') {
-      show_fields('m_date, m_title, m_summary');
+      // show_fields('m_date, m_title, m_summary');
       var matter = [
         "---",
-          "url: " + matter_url(data['m_date'], data['m_title']),
+          "slug: " + matter_slug(data['m_title']),
           "date: " + data['m_date'],
           "title: '" + escapeHtml(data['m_title']) + "'",
           "summary: '" + escapeHtml(data['m_summary']) + "'",
@@ -243,23 +259,27 @@ jQuery(document).ready(function($) {
       var body = encodeURIComponent(matter);
       var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
 
-      // EVENT
+
+
+
+
+    // ========================================
+    // In-Person or Mixed EVENT
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
-            "url: " + matter_url(data['m_date'], data['m_title']),
-            "date: " + data['m_date'],
+            "slug: " + matter_slug(data['m_title']),
             "title: '" + escapeHtml(data['m_title']) + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
             "event_type: " + event_type,
-            "start_date: " + data['m_start_date'],
+            "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
@@ -270,19 +290,24 @@ jQuery(document).ready(function($) {
           ,
           "***Paste content here. Delete this line***"
         ].join("\n");
+
+
+
+
+      // ========================================
+      // Online EVENT
       } else {
-        show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
         var matter = [
           "---",
-            "url: " + matter_url(data['m_date'], data['m_title']),
-            "date: " + data['m_date'],
+            "slug: " + matter_slug(data['m_title']),
             "title: '" + escapeHtml(data['m_title']) + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
             "event_type: " + event_type,
-            "start_date: " + data['m_start_date'],
+            "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
@@ -295,7 +320,7 @@ jQuery(document).ready(function($) {
       }
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
     }
 
     $('#post-matter').text(matter);

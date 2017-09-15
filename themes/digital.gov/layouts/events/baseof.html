@@ -1,0 +1,13 @@
+{{- if eq .Layout "json" -}}
+  {{- block "json" . -}} The JSON CONTENT didn't load. :( {{- end -}}
+{{- else -}}
+  {{ block "pagevars" . }}{{ end }}
+
+  {{ partial "head.html" . }}
+  {{ partial "body-top.html" . }}
+
+  {{ block "content" . }} The DOCS CONTENT didn't load. :( {{ end }}
+
+  {{ partial "body-bottom.html" . }}
+  {{ partial "footer.html" . }}
+{{- end -}}

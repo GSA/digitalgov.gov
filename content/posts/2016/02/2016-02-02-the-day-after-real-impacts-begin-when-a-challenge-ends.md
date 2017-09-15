@@ -24,7 +24,7 @@ Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img 
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 
-In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< relref "events/module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
+In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< relref "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
 
 “You should really think about it all the way through the process,” said Stephanie Wander, associate in prize design at XPRIZE.
 

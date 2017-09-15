@@ -1,0 +1,17 @@
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1 fwidth" }}
+{{ end }}
+
+{{ define "content" }}
+
+<div class="matter-container">
+  <div class="btn-group post_types">
+    <a href="/new-post" class="btn" data-type="post">post</a><a href="/new-doc" class="btn" data-type="doc">doc</a><a href="/new-event" class="btn" data-type="event">event</a>
+  </div>
+  <h1 class="post-title single">
+    <a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+  </h1>
+  {{ .Content }}
+</div>
+
+{{ end }} {{/* end 'content' block */}}

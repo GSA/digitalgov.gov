@@ -127,13 +127,18 @@
   <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
 
   <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
-  <link rel='stylesheet' href='{{ "css/front-matter.css" | absURL }}' type='text/css' media='all' />
 
   {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
 
   <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
 
   <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+
+  {{/* Add add to calendar sheet in events */}}
+  {{ if eq .Section "events" }}
+    <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
+  {{ end }}
+
 
   {{/* TODO: Unused event stylesheets */}}
   <!-- <link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.4.1.1' type='text/css' media='all' />

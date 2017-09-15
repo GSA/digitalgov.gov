@@ -52,6 +52,7 @@ params:
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
+  events                : "event/:slug/"
 
 taxonomies:
   tag                   : "tag"
