@@ -94,7 +94,7 @@ authors:
                 Two-factor authentication (2FA) is now required, so enable 2FA through the instructions on the </span><a href="https://login.max.gov/cas/login?service=https%3A%2F%2Fmax.gov%2Fmaxportal%2Fsa%2Flogin.action%3Bjsessionid%3D994E6FE4CC968B89D599672C9F9DDAAE"><span style="font-weight: 400">OMB MAX login</span></a><span style="font-weight: 400"> page. You can add a device by clicking on “Manage SMS 2-Factor Devices” under your profile settings. This is not necessary if you use your PIV/CAC card to log in to MAX; it is already considered 2FA. </p> 
                 
                 <p>
-                  {{< legacy-img src="CDN/files/2015/01/600-Data.gov-page-MAX-Login.png" alt="Screen shot of MAX login page" >}}
+                  {{< legacy-img src="/2015/01/600-Data.gov-page-MAX-Login.png" alt="Screen shot of MAX login page" >}}
                 </p>
                 
                 <p>
@@ -113,7 +113,7 @@ authors:
                   </p>
                   
                   <p>
-                    {{< legacy-img src="CDN/files/2015/01/600-x-376-recent-activity.jpg" alt="Screen capture of recent activity list" >}}
+                    {{< legacy-img src="/2015/01/600-x-376-recent-activity.jpg" alt="Screen capture of recent activity list" >}}
                   </p>
                   
                   <p>
@@ -125,7 +125,7 @@ authors:
                   </p>
                   
                   <p>
-                    {{< legacy-img src="CDN/files/2015/01/600-x-336-datasets.jpg" alt="Screen capture of Datasets tab" >}}
+                    {{< legacy-img src="/2015/01/600-x-336-datasets.jpg" alt="Screen capture of Datasets tab" >}}
                   </p>
                   
                   <p>
@@ -133,7 +133,7 @@ authors:
                   </p>
                   
                   <p>
-                    {{< legacy-img src="CDN/files/2015/01/600-x-347-organizations.jpg" alt="Screen capture of Organizations tab" >}}
+                    {{< legacy-img src="/2015/01/600-x-347-organizations.jpg" alt="Screen capture of Organizations tab" >}}
                   </p>
                   
                   <p>
@@ -152,7 +152,7 @@ authors:
                     Clicking on “Members” brings up all the Members of the Organization who can add and edit datasets. Clicking on the Add Members button gives you the option of adding an existing user of inventory.data.gov to your Organization. </span><span style="font-weight: 400">Before you can add Members to your organization, the new Member has to complete initial log in on inventory.data.gov using the OMB MAX, 2FA or PIV authentication.</p> 
                     
                     <p>
-                      {{< legacy-img src="CDN/files/2015/01/600-x-376-three-levels-of-access.jpg" alt="Screen capture showing access levels" >}}
+                      {{< legacy-img src="/2015/01/600-x-376-three-levels-of-access.jpg" alt="Screen capture showing access levels" >}}
                     </p>
                     
                     <p>
@@ -176,7 +176,7 @@ authors:
                     </p>
                     
                     <p>
-                      {{< legacy-img src="CDN/files/2015/01/600-x-376-Adding-a-Dataset.jpg" alt="Screen capture for Adding a Dataset" >}}
+                      {{< legacy-img src="/2015/01/600-x-376-Adding-a-Dataset.jpg" alt="Screen capture for Adding a Dataset" >}}
                     </p>
                     
                     <p>
@@ -228,7 +228,7 @@ authors:
                                     </p>
                                     
                                     <p>
-                                      {{< legacy-img src="CDN/files/2015/10/579-x-276-common-core-metadata.jpg" alt="Screen capture of Required-if-applicable common core metadata" >}}
+                                      {{< legacy-img src="/2015/10/579-x-276-common-core-metadata.jpg" alt="Screen capture of Required-if-applicable common core metadata" >}}
                                     </p>
                                     
                                     <p>
@@ -302,7 +302,7 @@ authors:
                                         </p>
                                         
                                         <p>
-                                          {{< legacy-img src="CDN/files/2015/01/600-x-130-parent-options.jpg" alt="Screen capture of parent fields" >}}
+                                          {{< legacy-img src="/2015/01/600-x-130-parent-options.jpg" alt="Screen capture of parent fields" >}}
                                         </p>
                                         
                                         <p>
@@ -316,7 +316,7 @@ authors:
                                             Once you are finished entering the metadata, hit </span><b>Next: Add Data</b><span style="font-weight: 400"> on the bottom right.</p> 
                                             
                                             <p>
-                                              {{< legacy-img src="CDN/files/2015/01/251-x-83-Next-Add-Data-button.jpg" alt="Screen capture of Next: Add Data button" >}}
+                                              {{< legacy-img src="/2015/01/251-x-83-Next-Add-Data-button.jpg" alt="Screen capture of Next: Add Data button" >}}
                                             </p>
                                             
                                             <p>
@@ -328,7 +328,7 @@ authors:
                                             </p>
                                             
                                             <p>
-                                              {{< legacy-img src="CDN/files/2015/10/600-x-512-add-a-new-resource-dataset.jpg" alt="Screen cap of Add a New Resource screen." >}}
+                                              {{< legacy-img src="/2015/10/600-x-512-add-a-new-resource-dataset.jpg" alt="Screen cap of Add a New Resource screen." >}}
                                             </p>
                                             
                                             <p>
@@ -351,7 +351,7 @@ authors:
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/01/unnamed-1.jpg" alt="unnamed-1" >}}
+                                                {{< legacy-img src="/2015/01/unnamed-1.jpg" alt="unnamed-1" >}}
                                               </p>
                                               
                                               <h3 style="padding-top: 50px">
@@ -371,7 +371,7 @@ authors:
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/01/unnamed-2.jpg" alt="unnamed-2" >}}
+                                                {{< legacy-img src="/2015/01/unnamed-2.jpg" alt="unnamed-2" >}}
                                               </p>
                                               
                                               <h3 id="export-data-json" style="padding-top: 50px">
@@ -387,7 +387,7 @@ authors:
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/01/600-x-162-exporting-data-json.jpg" alt="Screen capture of button choices" >}}
+                                                {{< legacy-img src="/2015/01/600-x-162-exporting-data-json.jpg" alt="Screen capture of button choices" >}}
                                               </p>
                                               
                                               <p>
@@ -407,7 +407,7 @@ authors:
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/10/600-x-453-GSA-153-datasets-found.jpg" alt="Screen capture of 153 datasets found for GSA" >}}
+                                                {{< legacy-img src="/2015/10/600-x-453-GSA-153-datasets-found.jpg" alt="Screen capture of 153 datasets found for GSA" >}}
                                               </p>
                                               
                                               <p>
@@ -427,11 +427,11 @@ authors:
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/01/600-x-326-error-log-location.jpg" alt="Screen capture of error log location" >}}
+                                                {{< legacy-img src="/2015/01/600-x-326-error-log-location.jpg" alt="Screen capture of error log location" >}}
                                               </p>
                                               
                                               <p>
-                                                {{< legacy-img src="CDN/files/2015/01/600-x-391-error-log.jpg" alt="Screen capture of error log" >}}
+                                                {{< legacy-img src="/2015/01/600-x-391-error-log.jpg" alt="Screen capture of error log" >}}
                                               </p>
                                               
                                               <p>
@@ -481,7 +481,7 @@ authors:
                                                   </p>
                                                   
                                                   <p>
-                                                    {{< legacy-img src="CDN/files/2015/01/600-x-376-Dataset-Hosting.jpg" alt="Screen capture of dataset hosting" >}}
+                                                    {{< legacy-img src="/2015/01/600-x-376-Dataset-Hosting.jpg" alt="Screen capture of dataset hosting" >}}
                                                   </p>
                                                   
                                                   <h3 id="dataset-hosting" style="padding-top: 50px">

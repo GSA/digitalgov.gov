@@ -7,7 +7,7 @@ authors:
   - ndavidson
 ---
 
-{{< legacy-img src="CDN/files/2014/02/checkmark-250x179.jpg" alt="checkmark" >}} If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
+{{< legacy-img src="/2014/02/checkmark-250x179.jpg" alt="checkmark" >}} If you manage a public website in the federal executive branch, it&#8217;s a [requirement]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}} "Checklist of Requirements for Federal Websites and Digital Services") to have certain content—or link to that content—from various places on your website. Here’s a table to help you comply with these requirements.
 
 <table border="1" summary="Required Links Matrix" width="100%" cellpadding="5">
   <tr>

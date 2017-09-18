@@ -10,7 +10,7 @@ authors:
 
 
 
-{{< legacy-img src="CDN/files/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." >}}
+{{< legacy-img src="/2015/04/600-dap-one-no-URL.jpg" alt="A screen capture of the Digital Analytics Program (DAP) analytics.usa.gov website dashboard, showing that 143,619 people were visiting government websites at that moment." >}}
 
 The Digital Analytics Program (DAP) offers advanced, easy Web analytics to federal agencies. The program is a hosted shared service provided by <a href="http://www.gsa.gov/portal/category/25729" target="_blank">GSA&#8217;s Technology Transformation Service</a>. On November 8, 2016, the Office of Management and Budget (OMB) released a memorandum on <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2017/m-17-06.pdf" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>, which requires federal agencies to implement the DAP javascript code on all public facing federal websites.
 
