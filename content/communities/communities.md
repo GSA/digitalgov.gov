@@ -1,5 +1,6 @@
 ---
-url: communities/
+url: /communities/
+type: docs
 layout: 1col
 date: 2013-11-17 11:12:13 -0400
 title: Communities
@@ -23,7 +24,8 @@ Their contributions are limitless in their impact, including the introduction of
 
 ## Communities Roster
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5" >}}Agile/Lean**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team efficiency and customer satisfaction while reducing project risk and cost.
+{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5" >}}
+**Agile/Lean**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team efficiency and customer satisfaction while reducing project risk and cost.
 
   * 350 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov) with no subject line and &#8220;subscribe agile-lean-cop&#8221; in the body

@@ -2,6 +2,7 @@
 url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
+type: docs
 layout: 1col
 summary: 'Whatever digital government project you&rsquo;re working on, we&rsquo;ve got the resources to help, including communities of practice, &#8220;getting started&#8221; guidance, policy requirements and more. Looking for overall digital policy guidance? See the Checklist of Requirements for Federal Digital Services. [dg-search affiliate=&#8221;digitalgov&#8221; value=&#8221;1678&#8243;] Accessibility Accessibility Resource List Celebrating the 18th Anniversary of the Section 508 Rehabilitation'
 authors:
