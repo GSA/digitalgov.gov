@@ -43,10 +43,11 @@ params:
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
-  defaulturl            : "https://digitalgov.gov"
+  defaulturl            : "https://www.digitalgov.gov"
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
+  events                : "event/:slug/"
 
 taxonomies:
   tag                   : "tag"

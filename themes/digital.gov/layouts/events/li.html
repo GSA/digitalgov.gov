@@ -16,7 +16,7 @@
 
       <!-- Schedule & Recurrence Details -->
       <div class="tribe-event-schedule-details">
-        <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Params.date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
+        <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
       </div><!-- .tribe-event-schedule-details -->
 
       <!-- Venue Display Info -->
@@ -25,7 +25,7 @@
           {{ .Params.venue.venue_name }},
         {{ end }}
         <span class="tribe-address">
-          <span class="tribe-street-address">{{ .Params.venue.street }}</span>
+          <span class="tribe-street-address">{{ .Params.venue.address }}</span>
           <br>
           <span class="tribe-locality">{{ .Params.venue.city }}</span><span class="tribe-delimiter">,</span>
           <abbr class="tribe-region tribe-events-abbr" title="District of Columbia">{{ .Params.venue.state }}</abbr>
@@ -33,19 +33,43 @@
           <span class="tribe-country-name">{{ .Params.venue.country }}</span>
         </span><!-- .tribe-address -->
 
-        {{ $map := printf "%s+%s+%s+%s+%s" .Params.venue.street .Params.venue.city .Params.venue.state .Params.venue.zip .Params.venue.country}}
-        {{ $map := replace $map " " "+" }}
+        <a class="tribe-events-gmap" href="{{ .Params.venue.map | safeHTML }}" title="Click to view a Google Map" target="_blank">+ Google Map</a>
 
-        {{/* Done this strange way to prevent unusual escaping in the url */}}
-        {{ $map := printf "<a class=\"tribe-events-gmap\" href=\"https://maps.google.com/maps?f=q&#038;source=s_q&#038;hl=en&#038;geocode=&#038;q=%s\" title=\"Click to view a Google Map\" target=\"_blank\">+ Google Map</a>" $map }}
-        {{ $map | safeHTML }}
 
       </div><!-- .tribe-events-venue-details -->
     </div><!-- .author.location -->
   </div><!-- .tribe-events-event-meta -->
 
-  <!-- Event Image -->
 
+  {{ if .Params.featured_image.uid }}
+    {{/* TODO: image cropping with object-fit
+          https://medium.com/@chrisnager/center-and-crop-images-with-a-single-line-of-css-ad140d5b4a87 */}}
+    {{/* TODO: image size and scaling? responsiveness? */}}
+    {{ $cdnurl := .Site.Params.cdnurl }}
+    {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" .Params.featured_image.uid) }}
+    {{ $imgBase := $thisimg.uid }}
+    {{ $imgExt := $thisimg.format }}
+    {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+    {{ $imgWidth := $thisimg.width }}
+    {{ $imgHeight := $thisimg.height }}
+
+    {{ $.Scratch.Set "imgSuffix" "" }}
+    {{ if gt $imgWidth 200 }}
+     {{ $.Scratch.Set "imgSuffix" "_w200" }}
+    {{ end }}
+
+    <div class="tribe-events-event-image">
+      <img
+        class="attachment-medium size-medium wp-post-image"
+        src="{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}"
+        alt="{{ with .Params.featured_image.alt }}{{ . }}{{ else }}{{ $thisimg.alt | default "Featured image" }}{{ end }}"
+        width="210"
+        height="150" />
+    </div>
+  {{ end }}
+
+  <!-- Event Image -->
+  {{/* TODO: add featured image
   {{ if .Params.featured_image.link }}
     <div class="tribe-events-event-image">
       <a href="{{ .URL }}">
@@ -57,10 +81,11 @@
       </a>
     </div>
   {{ end }}
+  */}}
 
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Params.event_description.long | markdownify }}</p>
+    <p>{{ .Summary | markdownify }}</p>
     <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
   </div><!-- .tribe-events-list-event-description -->
 </div><!-- .type-tribe_events -->

@@ -54,21 +54,24 @@
 
 				<div id="tribe-events-content" class="tribe-events-list">
 					<h2 class="tribe-events-page-title">Upcoming Events</h2>
+
+          {{/* TODO: add pagination if necessary */}}
+          {{/*
 					<div id="tribe-events-header" data-title="Upcoming Events &#8211; DigitalGov" data-startofweek="0" data-view="list" data-baseurl="{{ "events/" | absURL }}">
 						<h3 class="screen-reader-text" tabindex="0">Events List Navigation</h3>
 
-            {{/* Get pagination info here */}}
 						<ul class="tribe-events-sub-nav">
 							<li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past" aria-label="previous events link">
 								<a href="https://www.digitalgov.gov/events/list/?tribe_event_display=past&#038;tribe_paged=1" rel="prev"><span>&laquo;</span> Previous Events</a>
 							</li><!-- .tribe-events-nav-left -->
 						</ul>
 					</div><!-- #tribe-events-header -->
+          */}}
 
           <div class="tribe-events-loop">
 
             {{ $events := where .Site.Pages "Section" "events" }}
-            {{ $upcoming := where $events ".Params.date" "ge" $now }}
+            {{ $upcoming := where $events ".Date" "ge" $now }}
             {{ range ($upcoming.GroupByDate "January 2006").Reverse }}
               <!-- Month / Year Headers -->
               <span class='tribe-events-list-separator-month'><span>{{ .Key }}</span></span>
@@ -78,31 +81,13 @@
             {{ end }}
 
           </div><!-- .tribe-events-loop -->
-          <!-- List Footer -->
-					<div id="tribe-events-footer">
-						<!-- Footer Navigation -->
-						<h3 class="screen-reader-text" tabindex="0">Events List Navigation</h3>
-						<ul class="tribe-events-sub-nav">
-							<!-- Left Navigation -->
-							<li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past" aria-label="previous events link">
-								<a href="https://www.digitalgov.gov/events/list/?tribe_event_display=past&#038;tribe_paged=1" rel="prev"><span>&laquo;</span> Previous Events</a>
-							</li><!-- .tribe-events-nav-left -->
 
-              {{/* What are we doing about older/newer events */}}
-              {{/*
-							<!-- Right Navigation -->
-              <li class="tribe-events-nav-previous tribe-events-nav-left tribe-events-past" aria-label="previous events link">
-								<a href="https://www.digitalgov.gov/events/list/?tribe_event_display=past&#038;tribe_paged=1" rel="prev">Upcoming Events <span>&raquo;</span></a>
-              </li><!-- .tribe-events-nav-right -->
-              */}}
-						</ul>
-					</div>
-					<!-- #tribe-events-footer -->
-
-          {{/* TODO: make this cal export work */}}
+          {{/* TODO: add pagination if necessary */}}
           {{/*
-					<a class="tribe-events-ical tribe-events-button" title="Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps" href="https://www.digitalgov.gov/events/?ical=1">+ Export Events</a>
+					<div id="tribe-events-footer">
+					</div>
           */}}
+
 				</div><!-- #tribe-events-content -->
 				<div class="tribe-clear"></div>
 			</div><!-- #tribe-events-content-wrapper -->

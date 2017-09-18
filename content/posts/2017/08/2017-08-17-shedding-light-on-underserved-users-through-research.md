@@ -1,0 +1,48 @@
+---
+slug: shedding-light-on-underserved-users-through-research
+date: 2017-08-17 2:29:33 -0400
+title: Shedding Light on Underserved Users through Research
+summary: 'How user interviews helped spotlight the needs of a previously forgotten group.  We may not like to admit it, but, most web services or sites have users that (for whatever reason) just aren&rsquo;t well understood&mdash;and in turn, not well served. Conducting user interviews and making sure you get good participation from those groups can help'
+authors:
+  - tyrus-manuel
+categories:
+  - 'User Testing &amp; Research'
+tag:
+  - Personas
+  - user experience
+  - user research
+---
+
+_How user interviews helped spotlight the needs of a previously forgotten group._
+
+We may not like to admit it, but, most web services or sites have users that (for whatever reason) just aren’t well understood—and in turn, not well served. Conducting user interviews and making sure you get good participation from those groups can help you accomplish several things: you get a better understanding of a once mysterious user group, you show members of that group that you are trying to understand them, and you raise awareness among management that this user group is worthy of your attention. I recently completed a broad set of user interviews with each of my application’s user groups, and while I didn’t mean for these interviews to completely change the way we viewed our customers and how we supported them, they did. {{< legacy-img src="2015/12/600-x-400-Feedback-Text-on-Small-Wooden-Cube-Gajus-iStock-Thinkstock-536974445.jpg" alt="The word Feedback seen on a small wooden cube sits on a laptop keyboard" caption="" >}}
+
+## Learning More About the Underserved
+
+Sets of users generally do not become underserved by accident. Despite our best efforts and our shared mission to serve all our citizens/customers equally, there can be a variety of characteristics that, over time, slowly drops these users farther and farther from your radar. Certain sites or applications have one interface that serves all their users. However, with proper personas and a few tweaks, it is relatively easy to do a good job of addressing your user’s needs.
+
+My application has five user groups and five different interfaces. Yes, the interfaces are similar in some ways and most of our “internal” customers perform many of the same features. Our “external” users have a completely different purpose for coming to the site, are typically demographically different than all our other users, and are very transactional. By transactional I mean they only come to the site and login with a very specific purpose in mind. These types of users are not unique to my application by any means, but with most users not interacting with the site on a transactional basis, it became very easy to let this user group start to fade away. A typical excuse was “Oh, they won’t read it,” but eventually we stopped trying to reach the hard-to-reach and spent more resources and time on those we could.
+
+User interviews—and later, more detailed personas—really helped to change the mindset that my program had developed about this group. The first and most important thing the interviews did was to restore these users’ humanity. That sounds dramatic, but it made me once again think about these users as people with their own hectic schedules and stresses. Personal interaction via a user interview made me better understand their needs and why what we had been doing to reach them didn’t work. As I stated, their needs are unique from many of our other user groups, but by talking to them, my understanding of their needs became more nuanced. This deeper understanding also allowed me to have a more informed conversation with them about their needs which showed that we are listening and that we care.
+
+## Let Them Know You Care
+
+Even on a website, when a user group is not well-served and possibly even not respected, they somehow seem to know. The voice of your messages or content never seem to speak to them, or the content or communications never address any of the concerns or problems they have. It can be cyclical with the user group learning to not expect any meaningful attention and pulling away to fend for themselves, while you think they never pay attention to the content you post for them and eventually stop trying. Just as when any relationship has problems, facing each other and talking is a critical step to getting back on track.
+
+With my interviews, I openly acknowledged the issues that we have had communicating with this specific user group and made it clear that these interviews were a big step forward in improving these problems. Until this year, we had never reached out to this community for user feedback in our 11-year history as a program. There are some reasons why that I won’t get into here, but those reasons don’t really address this gap in user research. This gap in gathering user feedback from this group was shared as one of my main motivations for talking to them—or more importantly, listening to them.
+
+I wanted to understand these users better as people who share certain concerns, have struggles, and how my site is either making their lives better or worse. As good user interview practice suggests, I made sure to ask additional questions to clarify things I hadn’t heard correctly, and even shared some of the possible things I could do to address a problem they were having. I also told each one of them to contact me whenever they came across anything they may have forgotten or ran into something that just didn’t seem to work the way it should. I also got their permission to reach out to them again when changes were being tested and to get them involved in the agile feedback process as best as possible.
+
+Reminding this user group that we are listening and that we care about their concerns is important for a couple of reasons. First, it’s just good customer service and the way we should treat every single user we have. Second, my program is preparing to purchase an entirely new system to replace the current one (the other reason for these interviews) and as we begin to enter this phase of replacing the system that handles a very particular and very competitive role in the federal government, having a deep well of positive customer sentiment is paramount. For not only this set of users, but for all our users, reminding them that we care and we are listening will help them be more forgiving and engaged with us as we hit any unavoidable rough spots in the transition.
+
+## Shed Light on the Problem
+
+Finally, what these user interviews did for me was what they commonly do: provide hard evidence that change is needed in order to make a case to management. But in this case, most of that challenge was not present; management was fully aware of the need for change and improvement. I didn’t have to play back cringe-worthy user testing videos of struggling and frustrated users to make a case for system improvements; the improvements are happening. What I wanted to accomplish was to remind management that we need to treat all our system users the same, at least when it comes to providing the web application and content. We get paid—and it’s our mission—to support what I call our “internal” customers, and they will always have a different level of customer service in certain aspects, but from a web standpoint, all users are equal.
+
+By better understanding this group’s struggles, playing back audio clips of my interviews, and presenting some of the items as issues of mere equality, management also began to see these users as actual human beings again. The interviews also allowed me to develop our first robust personas for this group so they can serve as a reference point, particularly for this group. I hope I don’t have to, but if I must I will walk around waving the persona print out, pointing to the carefully selected stock photo of our user if we start ignoring or neglecting them again.
+
+What I also found is that once I reintroduced this user group to the conversation regarding our new system, the overall dialogue about them changed. Each conversation about features or workflows or interfaces now routinely include them as a critical user group. My once-ignored argument about how this external customer plays a critical role in our service to our internal customer is now being heard and acted upon.
+
+Time for some reflection: Do you have that user group that doesn’t get the equal attention it should? Are they hard to write content for? Do you struggle with what platform or channel is best suited for them? Don’t give up, don’t let them just slip off your radar. I suggest doing the opposite and reach out to start scheduling some user interviews. Talk to them about your challenges and their challenges, understand them better as humans and users in hopes that you can then better understand how to support them and communicate with them.
+
+_{{< img src="Ty-Manuel-new-pic" alt="Ty Manuel, IT Specialist, the Administrative Office of the United States Courts." align="left" >}}[Tyrus (Ty) Manuel](https://www.WHATEVER/author/tymanuel/) is an IT Specialist  the Administrative Office of the United States Courts in Washington D.C. Ty is a self-proclaimed geek who loved comic books and sci-fi before they became the cultural norm, and is very excited about the new Star Trek series, Discovery, and a new female Doctor for Doctor Who._
