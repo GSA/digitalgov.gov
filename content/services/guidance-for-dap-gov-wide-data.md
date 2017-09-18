@@ -47,4 +47,4 @@ By logging in and accessing government-wide view of the Digital Analytics Progra
   * Agencies may not communicate or share any findings derived from the DAP government-wide view that pertain to the government-wide view as a whole.
   * For questions regarding these and other scenarios on the use of the DAP government-wide view, agencies should contact the Office of Management and Budget by emailing <eGov@omb.eop.gov>.
 
-For more information, [please see the memo to Agency CIOs](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/SVR-CIO-Council-memo-August-17.pdf) sent by U.S. CIO Steve Van Roekel.
+For more information, [please see the memo to Agency CIOs](https://s3.amazonaws.com/digitalgov/legacy-img/2014/08/SVR-CIO-Council-memo-August-17.pdf) sent by U.S. CIO Steve Van Roekel.

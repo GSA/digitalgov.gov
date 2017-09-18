@@ -77,11 +77,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Accessibility Editorial Guidelines for YouTube" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-GobiernoUSA-YouTube-composite.jpg" alt="Accessibility Editorial Guidelines for YouTube" >}}</a>
+          <a title="Permanent Link to Accessibility Editorial Guidelines for YouTube" href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-GobiernoUSA-YouTube-composite.jpg" alt="Accessibility Editorial Guidelines for YouTube" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc">Accessibility Editorial Guidelines for YouTube</a> (MS Word .doc, 56 kb)
+          <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc">Accessibility Editorial Guidelines for YouTube</a> (MS Word .doc, 56 kb)
         </h4>
       </div>
     </div>

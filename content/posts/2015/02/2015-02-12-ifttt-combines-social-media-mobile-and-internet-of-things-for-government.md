@@ -14,7 +14,7 @@ tag:
   - SocialGov
 ---
 
-[{{< legacy-img src="2015/02/600-x-270-IFTTT-logo.jpg" alt="IFTTT logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-270-IFTTT-logo.jpg)
+[{{< legacy-img src="2015/02/600-x-270-IFTTT-logo.jpg" alt="IFTTT logo" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/02/600-x-270-IFTTT-logo.jpg)
 
 The newest addition to the federal government’s social media utility belt may also be one of its most powerful, as [IFTTT](https://ifttt.com) (as in “If This Then That”) combines [166 channels](https://ifttt.com/channels) like Twitter, Android and iOS Location and RSS into &#8220;recipes&#8221; that can integrate government social media, data, location-based services and the Internet of Things.
 

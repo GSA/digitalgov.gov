@@ -19,7 +19,7 @@ tag:
 ---
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Federal-Social-Media.jpg">{{< legacy-img src="2014/04/Federal-Social-Media.jpg" alt="Image of a hand holding phone in front of flag." >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/Federal-Social-Media.jpg">{{< legacy-img src="2014/04/Federal-Social-Media.jpg" alt="Image of a hand holding phone in front of flag." >}}</a>
 </p>
 
 Social Media tools, trends and algorithms come and go, but federal managers continue to see improvements in their digital engagement initiatives when they put citizens at the center of their programs.

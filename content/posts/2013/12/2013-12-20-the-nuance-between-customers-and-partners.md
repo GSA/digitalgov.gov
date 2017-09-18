@@ -11,7 +11,7 @@ tag:
   - Customer Experience
 ---
 
-[{{< legacy-img src="2013/12/CX-is-250x166.jpg" alt="Hands holding a sign that says Customer Experience is." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-is.jpg)Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers?
+[{{< legacy-img src="2013/12/CX-is-250x166.jpg" alt="Hands holding a sign that says Customer Experience is." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/CX-is.jpg)Before you can create your customer experience (CX) strategy, you have to answer the key question: Who are your customers?
 
 Consider the concept that among the groups you interact with internally, you could be their customer, they could be your customer, or you could be partners.
 

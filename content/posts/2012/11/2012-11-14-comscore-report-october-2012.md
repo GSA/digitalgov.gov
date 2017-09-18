@@ -22,4 +22,4 @@ The report supports the federal-wide [Digital Analytics Program]({{< relref "dap
 
 **NOTE: In all cases, the limitations of the methodology used in this report must be taken into consideration. Sites assessed as underperforming may be designed for a specific purpose not fully addressed by this methodology. The categorization of websites may differ from how agencies categorize their online presence. The methodology is not universally applicable to all government websites. Therefore, these results should be used as a starting point for further investigation. The analysis should be understood as comScore&#8217;s own perspective, not the opinions of GSA.  — comScore**
 
-Read the full [comScore Report](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/comscore-best-of-web-report.pdf)  (PDF, 1.2 MB, 26 pages, October 2012)
+Read the full [comScore Report](https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/comscore-best-of-web-report.pdf)  (PDF, 1.2 MB, 26 pages, October 2012)

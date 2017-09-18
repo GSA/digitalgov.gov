@@ -11,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{{< legacy-img src="2013/09/sei-app-release-image-img\_9180\_dbe61333-3455-4545-a180-12b0deb2b37b-1024x682-450x300.jpg" alt="iPad showing screen view of Science and Engineering Indicators PP" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/sei-app-release-image-img_9180_dbe61333-3455-4545-a180-12b0deb2b37b-1024x682.jpg)The [National Science Foundation&#8217;s National Science Board](http://www.nsf.gov/news/news_summ.jsp?org=NSF&cntn_id=129148) has developed [Science and Engineering Indicators for iPad](http://apps.usa.gov/http://apps.usa.gov/science-engineering-indicators.shtml). The application provides full content of the Science and Engineering Indicators (SEI) 2012 report &#8211;the latest edition available. From NSF,
+[{{< legacy-img src="2013/09/sei-app-release-image-img\_9180\_dbe61333-3455-4545-a180-12b0deb2b37b-1024x682-450x300.jpg" alt="iPad showing screen view of Science and Engineering Indicators PP" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/sei-app-release-image-img_9180_dbe61333-3455-4545-a180-12b0deb2b37b-1024x682.jpg)The [National Science Foundation&#8217;s National Science Board](http://www.nsf.gov/news/news_summ.jsp?org=NSF&cntn_id=129148) has developed [Science and Engineering Indicators for iPad](http://apps.usa.gov/http://apps.usa.gov/science-engineering-indicators.shtml). The application provides full content of the Science and Engineering Indicators (SEI) 2012 report &#8211;the latest edition available. From NSF,
 
 > The biennial SEI report is a comprehensive source of high-quality, quantitative data on the U.S. and international science and technology enterprise.
 > 

@@ -40,7 +40,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before.png">{{< legacy-img src="2013/12/regulationsgov-before.png" alt="Screenshot of Regulations.gov before ux testing" >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/regulationsgov-before.png">{{< legacy-img src="2013/12/regulationsgov-before.png" alt="Screenshot of Regulations.gov before ux testing" >}}</a>
     </p>
     
     <p>
@@ -48,7 +48,7 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-before-2.png">{{< legacy-img src="2013/12/regulationsgov-before-2.png" alt="Screenshot of Regulations.gov before ux testing-2" >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/regulationsgov-before-2.png">{{< legacy-img src="2013/12/regulationsgov-before-2.png" alt="Screenshot of Regulations.gov before ux testing-2" >}}</a>
     </p>
     
     <p>
@@ -104,11 +104,11 @@ More and more people use search as their primary means of finding what they are 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after.png">{{< legacy-img src="2013/12/regulationsgov-after.png" alt="Screenshot of Regulations.gov after ux testing" >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/regulationsgov-after.png">{{< legacy-img src="2013/12/regulationsgov-after.png" alt="Screenshot of Regulations.gov after ux testing" >}}</a>
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/regulationsgov-after-2.png">{{< legacy-img src="2013/12/regulationsgov-after-2.png" alt="Screenshot of Regulations.gov after ux testing-2" >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/regulationsgov-after-2.png">{{< legacy-img src="2013/12/regulationsgov-after-2.png" alt="Screenshot of Regulations.gov after ux testing-2" >}}</a>
     </p>
     
     <p>

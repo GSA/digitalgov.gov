@@ -31,7 +31,7 @@ tag:
 
 Amidst the chaos of an active shooter event, preparedness is key to a seamless, swift and effective response—and a new video game funded by the <a href="https://www.dhs.gov/">Department of Homeland Security</a> (DHS) <a href="https://www.dhs.gov/science-and-technology">Science and Technology</a> (S&amp;T) Directorate and the <a href="http://www.arl.army.mil/">U.S. Army Research Laboratory</a> just might do the trick.
 
-<img class="aligncenter size-full wp-image-387805" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/08/600-x-400-DHS-EDGE-FRS-01.jpg" alt="Screenshot from the game of a firefighter putting out flames in a hotel." width="600" height="400" />
+<img class="aligncenter size-full wp-image-387805" src="https://s3.amazonaws.com/digitalgov/legacy-img/2017/08/600-x-400-DHS-EDGE-FRS-01.jpg" alt="Screenshot from the game of a firefighter putting out flames in a hotel." width="600" height="400" />
 
 <a href="https://www.dhs.gov/publication/virtual-training">Enhanced Dynamic Geo-Social Environment, or EDGE</a>, is a virtual training platform, available now to all response agencies nationwide. Built on the Unreal Engine, it allows responders of all disciplines to assume discipline-based avatars and simultaneously role-play complex response scenarios. The first scenario, an incident at a local hotel, brings law enforcement, fire, emergency medical services, dispatch, and unified command together to combat an active shooter also armed with fiery Molotov cocktails.
 
@@ -45,7 +45,7 @@ All actions are determined by first responders’ own decisions in the environme
 
 “These days, it is essential that responders have every tool at their disposal to prepare for and respond to critical incidents,” Nenneman added. “Those first at the scene must make decisions in a flash, and in those initial moments every bit of training helps to save civilian and responder lives.”
 
-<img class="aligncenter size-full wp-image-387806" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/08/600-x-400-DHS-EMS_Carry.jpg" alt="Screenshot from the game of an EMS tech carrying another avatar." width="600" height="400" />
+<img class="aligncenter size-full wp-image-387806" src="https://s3.amazonaws.com/digitalgov/legacy-img/2017/08/600-x-400-DHS-EMS_Carry.jpg" alt="Screenshot from the game of an EMS tech carrying another avatar." width="600" height="400" />
 
 S&amp;T and the Army plan to release a second EDGE active shooter training scenario using a school as the backdrop later this year. Like the hotel scenario, the school shooting environment will be available for free to all first responder agencies and personnel charged with school (and student) protection.
 

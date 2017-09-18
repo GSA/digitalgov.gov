@@ -14,7 +14,7 @@ tag:
   - Terms of Service
 ---
 
-_Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission.[{{< legacy-img src="2013/09/privacy-image-250x167.png" alt="image of a computer with a padlock on the screen" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/privacy-image.png)_
+_Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission.[{{< legacy-img src="2013/09/privacy-image-250x167.png" alt="image of a computer with a padlock on the screen" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/privacy-image.png)_
 
 From my early days of using email, sites like MySpace, and later getting my first smartphone, it was a common practice for me to breeze right past or simply &#8220;accept&#8221; privacy policies on websites and apps. That was until a few years ago when I joined the Federal Trade Commission (FTC) as its first social media strategist. Right off the bat, our chief privacy officer asked me to analyze privacy policies and Terms of Service, and draft Privacy Impact Assessments (PIAs) for various third-party sites we were interested in using.
 

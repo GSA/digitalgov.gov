@@ -20,7 +20,7 @@ tag:
 IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/600-x-429-CFPB-Ideabox-screenshot.jpg">{{< legacy-img src="2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/11/600-x-429-CFPB-Ideabox-screenshot.jpg">{{< legacy-img src="2014/11/600-x-429-CFPB-Ideabox-screenshot-559x400.jpg" alt="600-x-429-CFPB-Ideabox-screenshot" >}}</a>
 </p>
 
  
