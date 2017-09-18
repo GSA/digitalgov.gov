@@ -7,7 +7,7 @@ authors:
   - tburwell
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/960-x-225-dg-colors-This-isnt-the-page-you-are-looking-for.jpg" alt="This isn't the page you are looking for." >}}
+{{< legacy-img src="/2015/03/960-x-225-dg-colors-This-isnt-the-page-you-are-looking-for.jpg" alt="This isn't the page you are looking for." >}}
 
  
 
@@ -21,4 +21,4 @@ authors:
 
  
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/960-x-225-ExpoMasses1.jpg" alt="960-x-225-ExpoMasses1" >}}
+{{< legacy-img src="/2015/03/960-x-225-ExpoMasses1.jpg" alt="960-x-225-ExpoMasses1" >}}

@@ -7,7 +7,7 @@ authors:
   - lnelson
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to the right to download your own copy of this chart for reference.
+[{{< legacy-img src="/2015/04/250-x-323-Open-Opps-Task-Creation-Process.jpg" alt="Open Opps Task Creation Process" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/Open-Opportunities-Task-Creator-Process1.pdf)Click the image to the right to download your own copy of this chart for reference.
 
   1. ## Preparation
     
@@ -29,7 +29,7 @@ authors:
   2. ## Accepting Participants
     
     <li style="margin-bottom: 15px">
-      {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" >}}<strong>Market Your Task </strong> <ul>
+      {{< legacy-img src="/2015/04/215-x-215-open-opps-email-share-button.jpg" alt="215-x-215-open-opps-email-share-button" >}}<strong>Market Your Task </strong> <ul>
         <li>
           Advertise to relevant communities of practice using our <a title="Marketing Email Template for Communities of Practice" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx" target="_blank">marketing template</a> (14 kb MS Word .docx).
         </li>
@@ -51,7 +51,7 @@ authors:
   3. ## Wrapping Up
     
     <li style="margin-bottom: 15px">
-      <strong>{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/215-x-233-open-opps-change-state.jpg" alt="Screen capture of the Change Opportunity State link" >}}Assign Task</strong><br /> When you are ready to select participants, change the opportunity state to “assigned.” (Box is on the right side of the task page when you are logged in).
+      <strong>{{< legacy-img src="/2015/04/215-x-233-open-opps-change-state.jpg" alt="Screen capture of the Change Opportunity State link" >}}Assign Task</strong><br /> When you are ready to select participants, change the opportunity state to “assigned.” (Box is on the right side of the task page when you are logged in).
     </li>
     <li style="margin-bottom: 15px">
       <strong><em>Note</em></strong>:<br /> Automatic email sent to participants, signifying their selection. You will be CC’d. <strong>Be sure you removed extra participants</strong> or they will also receive the “you’ve been assigned” email!

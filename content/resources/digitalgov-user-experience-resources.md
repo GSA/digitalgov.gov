@@ -9,7 +9,7 @@ authors:
 
 We want to help you make better digital products. We believe that a little user research makes government a lot better.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usajobs-hallway-test-high-five-250x244.jpeg" alt="Two people high fiving at a usability training" >}}
+{{< legacy-img src="/2014/01/usajobs-hallway-test-high-five-250x244.jpeg" alt="Two people high fiving at a usability training" >}}
 
 DigitalGov&#8217;s user experience resources provide tools for federal employees how to:
 

@@ -8,7 +8,7 @@ authors:
   - tmarcoullier
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}
+{{< legacy-img src="/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}
 
 Thinking about running a challenge and prize competition at your agency, but really want to talk to someone who has done it? Better yet, want to talk to somebody at your own agency, or someone who has run the same type of challenge you want to run?
 
@@ -117,7 +117,7 @@ Join the group&#8217;s listserv:
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />

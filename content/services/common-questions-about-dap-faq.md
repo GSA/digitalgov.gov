@@ -7,7 +7,7 @@ authors:
   - tlowden
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" >}}
+{{< legacy-img src="/2013/11/digitaltunnel.jpg" alt="Tunnel made from blue digital bits" >}}
 
 **This guidance is part of the [Digital Analytics Program]({{< relref "dap.md" >}} "DAP: Digital Analytics Program") (DAP): Support to Help Agencies Implement the Tool. [See more on the DAP]({{< relref "dap.md" >}} "DAP: Digital Analytics Program").**
 

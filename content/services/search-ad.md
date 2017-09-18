@@ -8,7 +8,7 @@ authors:
   - tburwell
 ---
 
-# {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/678-x-80-digitalgov\_search\_logo.jpg" alt="DigitalGov Search" >}}
+# {{< legacy-img src="/2015/06/678-x-80-digitalgov\_search\_logo.jpg" alt="DigitalGov Search" >}}
 
 <h1 style="text-align: center">
   Say hello to a better search.
