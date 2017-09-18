@@ -11,7 +11,7 @@ tag:
   - US Department of State
 ---
 
-[{{< legacy-img src="2013/03/DOS-Careers-App.png" alt="Dept of State's Careers app main screen showing the following options: learn about us; choose a track; view process, attend an event; test yourself; contact us." >}}](https:{{< legacy-img src="/2013/03/DOS-Careers-App.png)The [U.S. Department of State](http://www.state.gov/careers/) has released a mobile app that informs and educates potential foreign service officers about a diplomatic career.
+[{{< legacy-img src="2013/03/DOS-Careers-App.png" alt="Dept of State's Careers app main screen showing the following options: learn about us; choose a track; view process, attend an event; test yourself; contact us." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/03/DOS-Careers-App.png)The [U.S. Department of State](http://www.state.gov/careers/) has released a mobile app that informs and educates potential foreign service officers about a diplomatic career.
 
 The app provides access to more than 500 retired [Foreign Service Officer Test (FSOT)](http://careers.state.gov/officer/selection-process#.UVQ2hRzkuFk) questions that test your knowledge of U.S. government and culture, world history, technology, economics and many other topics.
 

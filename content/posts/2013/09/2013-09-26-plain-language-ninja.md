@@ -13,7 +13,7 @@ tag:
   - Plain language
 ---
 
-[{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" >}}](https:{{< legacy-img src="/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.
+[{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.
 
 So I scooted my chair over and looked at it. Then I looked at him and asked, “But what is it supposed to do?”
 
@@ -37,7 +37,7 @@ Then I deleted the pilot study sentences.
 
 Then I moved the last two sentences to the top.
 
-[{{< legacy-img src="2013/09/600-x-202-Plain-Language-Ninja-example.jpg" alt="Highlighted text is not essential content." >}}](https:{{< legacy-img src="/2013/09/932-x-314-Plain-Language-Ninja-example.jpg)
+[{{< legacy-img src="2013/09/600-x-202-Plain-Language-Ninja-example.jpg" alt="Highlighted text is not essential content." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/932-x-314-Plain-Language-Ninja-example.jpg)
 
 Then I connected two sentences, took out three prepositional phrases, and changed all “Divisions” to “We.”
 

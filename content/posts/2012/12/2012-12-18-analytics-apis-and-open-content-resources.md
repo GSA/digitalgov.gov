@@ -22,7 +22,7 @@ tag:
   - USDA
 ---
 
-[{{< legacy-img src="2013/11/tools-image-300x251-250x209.jpg" alt="Tools, hammer, wire cutters, wrench, screwdriver" >}}](https:{{< legacy-img src="/2013/11/tools-image-300x251.jpg)Agencies have been working away at building better digital services and here, at the [Digital Services Innovation Center]({{< relref "about.md" >}}), we&#8217;ve been building resources to help.
+[{{< legacy-img src="2013/11/tools-image-300x251-250x209.jpg" alt="Tools, hammer, wire cutters, wrench, screwdriver" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/tools-image-300x251.jpg)Agencies have been working away at building better digital services and here, at the [Digital Services Innovation Center]({{< relref "about.md" >}}), we&#8217;ve been building resources to help.
 
 We have been focusing on three areas,
 

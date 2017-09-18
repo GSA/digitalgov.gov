@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." >}}](https:{{< legacy-img src="/2013/11/Sprint-Wireless-Infographic.jpg)
+[{{< legacy-img src="2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Sprint-Wireless-Infographic.jpg)
 
 Recently, [Mobile Marketing Watch](http://www.mobilemarketingwatch.com/infographic-how-business-executives-use-their-mobile-devices-37132/) published Sprint&#8217;s interesting infographic showing how executives use their mobile devices.
 

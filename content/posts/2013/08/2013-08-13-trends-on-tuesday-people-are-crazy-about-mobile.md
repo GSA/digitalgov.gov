@@ -11,7 +11,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https:{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.
+[{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg)The way people are using mobile is changing—we are socializing in new ways; performing tasks in new ways, often multi-tasking between activities; and sharing and gathering information in new ways.
 
 With the prolific numbers of mobile users and the increased use of mobile in our lives, comes a concern. A concern expressed repeatedly centers around the notion of habit. While many appreciate the continuous access to social networks and blogs, it has been observed that gains achieved in productivity do not automatically generate free time but instead tend to complicate the work–life balance.  And as the number of mobile users increases, so do strange behaviors and trends.
 

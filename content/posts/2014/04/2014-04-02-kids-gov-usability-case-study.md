@@ -24,7 +24,7 @@ tag:
 
 ## **Kids.gov Version #1 &#8211; May 2012**
 
-[{{< legacy-img src="2014/03/Kids.gov-annotated-before-1-2.jpg" alt="Screenshot of kids.gov before their redesign" >}}](https:{{< legacy-img src="/2014/03/Kids.gov-annotated-before-1-2.jpg)
+[{{< legacy-img src="2014/03/Kids.gov-annotated-before-1-2.jpg" alt="Screenshot of kids.gov before their redesign" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Kids.gov-annotated-before-1-2.jpg)
 
 <p dir="ltr">
   Rather than spend lots of time and money redesigning the site and then crossing their fingers that people would like it, Hernandez took a middle step: Creating a clickable wireframe of what the site might look like. Also known as a prototype, this in-between step would allow her to get feedback on large changes and on menu items before a single line of code was created. But more than that, she’d be making user experience decisions based on data, and not just opinion.
@@ -40,7 +40,7 @@ tag:
 
 ## **Kids.gov Version #2 (Wireframe): January 2012**
 
-[{{< legacy-img src="2014/03/Kids.gov-annotated-before-2-1.jpg" alt="Screenshot of a kids.gov prototype before their relaunch" >}}](https:{{< legacy-img src="/2014/03/Kids.gov-annotated-before-2-1.jpg)
+[{{< legacy-img src="2014/03/Kids.gov-annotated-before-2-1.jpg" alt="Screenshot of a kids.gov prototype before their relaunch" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Kids.gov-annotated-before-2-1.jpg)
 
 <p dir="ltr">
   Finally, Hernandez had enough data to finish the design and test the final version. In March 2012 she and a contractor conducted remote usability tests on the earlier version of the new design. Then a year later, in April 2013, on <a href="{{< relref "2013-04-26-how-to-do-usability-testing-with-kids.md" >}}">“Take Your Kids To Work Day”</a> they got permission to show the design to the children of their colleagues via a <a href="{{< relref "2014-02-19-10-tips-for-better-hallway-usability-testing.md" >}}">Hallway Usability Test</a>. Each test had more than a dozen tasks and asked lots of open-ended questions.
@@ -48,7 +48,7 @@ tag:
 
 ## **Kids.gov Version 3: Launched June 2012**
 
-[{{< legacy-img src="2014/03/Kids.gov-annotated-before-3.jpg" alt="Screenshot of kids.gov after their redesign" >}}](https:{{< legacy-img src="/2014/03/Kids.gov-annotated-before-3.jpg)
+[{{< legacy-img src="2014/03/Kids.gov-annotated-before-3.jpg" alt="Screenshot of kids.gov after their redesign" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Kids.gov-annotated-before-3.jpg)
 
 <p dir="ltr">
   The results of the first round of testing on the new site were very encouraging—89% task completion rate with parents and an 82.5% success rate with kids. “They were able to find things easier on the redesigned site,” said Hernandez. Kids said they liked the bright colors and the large pictures on the new version. Traffic has also increased by 51% over the past year, to 2.69 million visits. The <a href="http://kids.usa.gov/teens-home/index.html">Teens home page</a> also saw a 171% increase.

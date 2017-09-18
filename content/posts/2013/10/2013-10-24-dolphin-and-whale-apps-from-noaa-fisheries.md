@@ -12,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{{< legacy-img src="2013/10/NOAAFisheriesApps1.png" alt="App icons for the NOAA apps: top image shows a whale tail in front of a red cross symbol, the bottom image show binoculars looking over the ocean with a whale tail in one eyepiece and a dolphin in the other eyepiece." >}}](https:{{< legacy-img src="/2013/10/NOAAFisheriesApps1.png)NOAA Fisheries to help you identify and aid stranded or injured dolphins and whales.
+[{{< legacy-img src="2013/10/NOAAFisheriesApps1.png" alt="App icons for the NOAA apps: top image shows a whale tail in front of a red cross symbol, the bottom image show binoculars looking over the ocean with a whale tail in one eyepiece and a dolphin in the other eyepiece." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/NOAAFisheriesApps1.png)NOAA Fisheries to help you identify and aid stranded or injured dolphins and whales.
 
 The **[Dolphin & Whale 911](http://sero.nmfs.noaa.gov/protected_resources/outreach_and_education/mm_apps/index.html)** app (Android and iOS) will enhance accurate and timely reporting of stranded marine mammals in the Southeastern U.S.
 

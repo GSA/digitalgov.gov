@@ -11,7 +11,7 @@ tag:
   - search engine optimization
 ---
 
-[{{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " >}}](https:{{< legacy-img src="/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png)Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
+[{{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png)Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.
 
 These four steps can help you achieve good SEO:
 

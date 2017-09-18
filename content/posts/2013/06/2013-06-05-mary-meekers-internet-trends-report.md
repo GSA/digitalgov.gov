@@ -16,7 +16,7 @@ tag:
   - Making Mobile Gov
 ---
 
-[{{< legacy-img src="2013/06/2011\_02\_21\_meeker\_3012_final.jpg" alt="Mary Meeker is an industry expert on mobile trends" >}}](https:{{< legacy-img src="/2013/06/2011_02_21_meeker_3012_final.jpg)<a href="http://techcrunch.com/2013/05/29/mary-meeker-2013-internet-trends/" target="_blank">Techcrunch. com</a> reports Mary Meeker’s much anticipated annual Internet Trends report released at the D11 Conference last week shows astounding growth regarding use of smartphones and tablets. Among the highlights;
+[{{< legacy-img src="2013/06/2011\_02\_21\_meeker\_3012_final.jpg" alt="Mary Meeker is an industry expert on mobile trends" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/06/2011_02_21_meeker_3012_final.jpg)<a href="http://techcrunch.com/2013/05/29/mary-meeker-2013-internet-trends/" target="_blank">Techcrunch. com</a> reports Mary Meeker’s much anticipated annual Internet Trends report released at the D11 Conference last week shows astounding growth regarding use of smartphones and tablets. Among the highlights;
 
   * Mobile Internet users have reached 1.5 billion, up from 1.1 billion a year ago, a 30% increase
   * The number of smartphones is up to 5 billion mobile phones worldwide

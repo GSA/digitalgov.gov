@@ -14,7 +14,7 @@ tag:
   - National Action Plan on Open Government
 ---
 
-[{{< legacy-img src="2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411-533x400.jpg" alt="Black background with colorful illustrations of different adult male and female silhouettes." caption="" >}}](https:{{< legacy-img src="/2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411.jpg) 
+[{{< legacy-img src="2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411-533x400.jpg" alt="Black background with colorful illustrations of different adult male and female silhouettes." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/600-x-450-People-Background-VLADGRIN-iStock-Thinkstock-148498411.jpg) 
 
 The new <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-v3" target="_blank">third draft of the U.S. Public Participation Playbook</a> continues to incorporate changes proposed from more than 100 suggestions submitted via public comment aimed at measuring the performance and improving the development of government programs. It takes the 13 initial &#8220;plays&#8221; from rough brainstorming and collaborations to a more refined, action-focused presentation that will help contributors understand and identify opportunities to contribute, based on feedback.
 

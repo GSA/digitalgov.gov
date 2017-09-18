@@ -15,7 +15,7 @@ tag:
   - responsive web design
 ---
 
-[{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https:{{< legacy-img src="/2014/01/smartphones.jpg)Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
+[{{< legacy-img src="2014/04/smartphones-250-x-167.jpg" alt="An illustration of a stack of smart cell phones" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/smartphones.jpg)Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.
 
 This means the site will work (to some degree) on that shiny new web-enabled gizmo sitting under your neighbor’s Christmas tree 4 years from now.
 

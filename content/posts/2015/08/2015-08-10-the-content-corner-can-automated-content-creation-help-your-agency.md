@@ -45,11 +45,11 @@ One of the provided grants was for [cTAKES](http://ctakes.apache.org/), which st
 
 cTAKES leverages Apache’s UIMA (Unstructured Information Management) applications to scan large volumes of electronic medical records to discover patterns, trends, causal relationships, and temporal events. This data can then be provided to the physician in an understandable, narrative format. As shown in the example below, cTAKES gathers an array of examination information and in the end provides plans and recommendations that are in simple sentences.
 
-[{{< legacy-img src="2015/08/600-x-362-cTAKES-example.jpg" alt="Apache cTAKES™ is a natural language processing system for extraction of information from electronic medical record clinical free-text." caption="" >}}](https:{{< legacy-img src="/2015/08/1195-x-721-cTAKES-example.jpg) 
+[{{< legacy-img src="2015/08/600-x-362-cTAKES-example.jpg" alt="Apache cTAKES™ is a natural language processing system for extraction of information from electronic medical record clinical free-text." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/1195-x-721-cTAKES-example.jpg) 
 
 Other projects such as Migraine, Piglit, OPADE, and HealthDoc are in various stages of trials to provide direct feedback to a patient using NLG to draw from various sources such as user feedback, medical records, or existing sources such as drug databases. All four projects show promise in generating personalized content for migraine sufferers or diabetes patients such as the PIGLIT example shown below.
 
-[{{< legacy-img src="2015/08/600-x-398-PIGLITex.jpg" alt="Screen capture of a definition of the drug, Bezafibrate, via the PIGLIT project." >}}](https:{{< legacy-img src="/2015/08/800-x-530-PIGLITex.jpg)
+[{{< legacy-img src="2015/08/600-x-398-PIGLITex.jpg" alt="Screen capture of a definition of the drug, Bezafibrate, via the PIGLIT project." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/800-x-530-PIGLITex.jpg)
 
 One other area where NLG seems to be making a big difference (and actually was an early adopter of the technology) is in weather forecasting. As far back as at least 2001, NWS was leveraging natural language and speech generation for accessible weather forecasts, especially in an emergency. Similar efforts have been made in generating text forecasts to quickly provide critical weather information for oil rig operators for instance. A specific effort for a UK system actually found that [NLG text was easier to understand than human-generated](http://www.sciencedirect.com/science/article/pii/S0004370205000998) due to the analysis done to develop word choice and a need for clarity and consistency.
 

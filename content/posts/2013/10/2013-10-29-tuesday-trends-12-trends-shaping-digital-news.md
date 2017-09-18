@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[<img class="alignright  wp-image-101912" alt="Graph showing that 60-61% of people get their news from browsers on tablets and smartphones respectively, vs. 23-28 from apps, and 16-11% both equally" src="https:{{< legacy-img src="/2013/10/Pew-tablet-News-report.png" width="342" height="270" />](https:{{< legacy-img src="/2013/10/Pew-tablet-News-report.png)The Pew Research Center recently released a report on &#8220;[12 Trends Shaping Digital News.](http://www.pewresearch.org/fact-tank/2013/10/16/12-trends-shaping-digital-news/)&#8221; Some of these trends show that mobile devices continue to affect how the public consumes the news. The report found:
+[<img class="alignright  wp-image-101912" alt="Graph showing that 60-61% of people get their news from browsers on tablets and smartphones respectively, vs. 23-28 from apps, and 16-11% both equally" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/Pew-tablet-News-report.png" width="342" height="270" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/Pew-tablet-News-report.png)The Pew Research Center recently released a report on &#8220;[12 Trends Shaping Digital News.](http://www.pewresearch.org/fact-tank/2013/10/16/12-trends-shaping-digital-news/)&#8221; Some of these trends show that mobile devices continue to affect how the public consumes the news. The report found:
 
   * 19% of Americans saw news on a social network &#8220;yesterday&#8221; in 2012, more than double the 9% who had done so in 2010.
   * 64% of tablet owners and 62% of smartphone owners said they got news on their devices in 2012. 73% of tablet owners read in-depth articles at least sometimes, including 19% who did so daily.

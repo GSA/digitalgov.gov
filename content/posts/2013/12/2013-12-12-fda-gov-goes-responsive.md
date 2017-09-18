@@ -11,7 +11,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[<img class="alignright  wp-image-104532" alt="FDA Responsive SIte" src="https:{{< legacy-img src="/2014/01/photo-FDAgovmobilehomepage.jpg" width="381" height="546" />](https:{{< legacy-img src="/2014/01/photo-FDAgovmobilehomepage.jpg)It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. _But wait_, you say to yourself: _Didn&#8217;t I hear on the news something about a recall? Which brand was that again?_
+[<img class="alignright  wp-image-104532" alt="FDA Responsive SIte" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/photo-FDAgovmobilehomepage.jpg" width="381" height="546" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/photo-FDAgovmobilehomepage.jpg)It’s late at night. Your child can&#8217;t sleep: She has some kind of virus. You reach for a bottle of over-the-counter infant fever reducer you bought recently. _But wait_, you say to yourself: _Didn&#8217;t I hear on the news something about a recall? Which brand was that again?_
 
 Thanks to the digital team at the **[U.S. Food & Drug Administration](http://www.fda.gov/)**, you now have access to the latest drug and food product recalls the agency oversees right at your fingertips thanks to their new [mobile-friendly FDA.gov homepage](http://blogs.fda.gov/fdavoice/index.php/2013/11/fda-takes-a-responsive-approach-to-mobile-web/).
 

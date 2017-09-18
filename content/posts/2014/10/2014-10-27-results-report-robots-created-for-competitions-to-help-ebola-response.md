@@ -36,7 +36,7 @@ An excerpt from the article:
 > 
 > Still, he has been considering ways to repurpose an existing robot project as a tool for more safely performing decontamination tasks, like spraying bleach solution on clothing exposed to infected body fluids.
 
-[{{< legacy-img src="2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." caption="" >}}](https:{{< legacy-img src="/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
+[{{< legacy-img src="2014/10/600-x-400-WPI\_ROBOT\_2014.jpg" alt="A prototype robot developed by engineers at the Worcester Polytechnic Institute." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-400-WPI_ROBOT_2014.jpg) 
 
  
 

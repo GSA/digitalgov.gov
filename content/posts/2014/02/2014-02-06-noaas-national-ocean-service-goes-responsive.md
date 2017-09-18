@@ -14,7 +14,7 @@ tag:
   - user experience
 ---
 
-[{{< legacy-img src="2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." >}}](https:{{< legacy-img src="/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)
+[{{< legacy-img src="2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg" alt="NOAA's National Ocean Service was the first line office within NOAA to launch a homepage that incorporates responsive design. Now, the office's nautical charts and tides and currents information are within easy reach to mariners and boaters of all kinds." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NOAA-s-National-Ocean-Service_full-1024x839.jpg)
 
 Let&#8217;s ponder this for a moment: Maybe you live in South Florida. Maybe the weather is warm, beautiful, sunny. Maybe you&#8217;re looking forward to a few days of boating while the rest of the country battles ice storms, snow drifts and various states of emergency. (We can dream, can&#8217;t we?)
 

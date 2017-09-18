@@ -15,7 +15,7 @@ tag:
 <div>
 </div>
 
-[<img class=" wp-image-100062 alignright" alt="Image of speakers at our accessibility conference" src="https:{{< legacy-img src="/2013/12/Accessibility-1.jpg" width="352" height="253" />](https:{{< legacy-img src="/2013/12/Accessibility-1.jpg)The recent #SocialGov Summit on accessibility of government social media raised emerging issues faced by agencies in their effort to make sure the information citizens need is communicated to them when  and how they need it. For many, the most eye opening exercise was simply to hear their tweets read back to them through an iPhone VoiceOver screen reader, experiencing firsthand how vision-impaired citizens receive their content.
+[<img class=" wp-image-100062 alignright" alt="Image of speakers at our accessibility conference" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Accessibility-1.jpg" width="352" height="253" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Accessibility-1.jpg)The recent #SocialGov Summit on accessibility of government social media raised emerging issues faced by agencies in their effort to make sure the information citizens need is communicated to them when  and how they need it. For many, the most eye opening exercise was simply to hear their tweets read back to them through an iPhone VoiceOver screen reader, experiencing firsthand how vision-impaired citizens receive their content.
 
 While we&#8217;ll share more from the summit in an extended post, here are some initial key takeaways from among the hundred participants:
 

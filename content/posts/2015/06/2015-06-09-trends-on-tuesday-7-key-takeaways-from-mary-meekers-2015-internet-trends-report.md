@@ -16,7 +16,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https:{{< legacy-img src="/2015/06/Government-Just-Beginning.jpg)
+[{{< legacy-img src="2015/06/600-x-447-Government-Just-Beginning.jpg" alt="Slide from Internet Trends 2015 - Code conference by Mary Meeker, Kleiner Perkins Caufield & Byers (KPCB)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/Government-Just-Beginning.jpg)
 
 Silicon Valley analyst [Mary Meeker’s annual 2015 Internet Trends report](http://www.kpcb.com/internet-trends) has been released and is an exhaustive analysis of the world’s digital evolution (often [mobile first]({{< relref "2013-09-30-mobile-first.md" >}}) driven) and how it is affecting business, culture and information. [Previous years&#8217; reports]({{< relref "2014-06-03-trends-on-tuesday-mary-meekers-2014-internet-trends.md" >}}) have tracked emerging tech from mobile to 3D printing, and this year is no different.
 

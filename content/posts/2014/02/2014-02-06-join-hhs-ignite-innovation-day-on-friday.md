@@ -12,7 +12,7 @@ tag:
   - innovation
 ---
 
-_[<img class="alignright  wp-image-127002" alt="Two and three quarter's rows of small circles with a headshot in them, 31 faces in all." src="https:{{< legacy-img src="/2014/02/HHS-IDEA-Lab-people.png" width="450" height="172" />](https:{{< legacy-img src="/2014/02/HHS-IDEA-Lab-people.png)This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab._
+_[<img class="alignright  wp-image-127002" alt="Two and three quarter's rows of small circles with a headshot in them, 31 faces in all." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/HHS-IDEA-Lab-people.png" width="450" height="172" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/HHS-IDEA-Lab-people.png)This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab._
 
 Launched last year in “beta” by Secretary Sebelius, <a href="http://www.hhs.gov/idealab/pathways/hhs-ignite/" target="_blank">HHS Ignite</a> supports early-stage projects that can be completed in tight time frames. Ignite is part of HHS’s <a href="http://www.hhs.gov/idealab/" target="_blank">IDEA Lab</a>, which was established to improve how the Department delivers on its mission and promote advances in organizational management.
 

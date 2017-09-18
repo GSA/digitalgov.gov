@@ -26,7 +26,7 @@ The labels in the top navigation are too vague and didn&#8217;t successfully con
 
 Labels in the top navigation were changed to make it clearer about what information it contains. For example, &#8220;E-Resources A-Z&#8221; was changed to &#8220;Databases A-Z,&#8221; &#8220;Subject Guides&#8221; was changed to &#8220;Databases by Subject,&#8221; and &#8220;E-Gov Docs&#8221; was changed to &#8220;Government Docs.
 
-[{{< legacy-img src="2013/12/commerce-departmental-library-before1.jpg" alt="commerce department before screen shot" >}}](https:{{< legacy-img src="/2013/12/commerce-departmental-library-before1.jpg)
+[{{< legacy-img src="2013/12/commerce-departmental-library-before1.jpg" alt="commerce department before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-before1.jpg)
 
 ## Problem 2: Left Column Too Long
 
@@ -46,6 +46,6 @@ The Training Schedule remained and the Library Newsletter information from the l
 
 Based on the usability data gathered from their test, the Commerce Department Library made the following changes to enhance the usability of their website.
 
-[{{< legacy-img src="2013/12/commerce-departmental-library-after1.jpg" alt="commerce department after screen shot" >}}](https:{{< legacy-img src="/2013/12/commerce-departmental-library-after1.jpg)
+[{{< legacy-img src="2013/12/commerce-departmental-library-after1.jpg" alt="commerce department after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/commerce-departmental-library-after1.jpg)
 
 ​

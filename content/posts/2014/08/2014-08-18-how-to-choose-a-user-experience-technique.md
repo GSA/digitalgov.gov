@@ -16,7 +16,7 @@ tag:
   - user experience
 ---
 
-[{{< legacy-img src="2014/08/250-x-186-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg" alt="250-x-186-How-UX-Solves-Problems-Umbrella\---image-by-Dan-Willis-uxcrank" >}}](https:{{< legacy-img src="/2014/08/620-x-461-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg)The good news: Your boss is interested in User Experience!
+[{{< legacy-img src="2014/08/250-x-186-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg" alt="250-x-186-How-UX-Solves-Problems-Umbrella\---image-by-Dan-Willis-uxcrank" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/620-x-461-How-UX-Solves-Problems-Umbrella-image-by-Dan-Willis-uxcrank.jpg)The good news: Your boss is interested in User Experience!
 
 The news: She wants you to do something about it&#8230; NOW.
 

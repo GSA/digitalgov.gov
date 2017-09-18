@@ -26,7 +26,7 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
   * Avoid conflicts of interest that can compromise clinical integrity and patient care; and
   * Minimize risk of increased health care costs.&#8221;
 
-[{{< legacy-img src="2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." caption="" >}}](https:{{< legacy-img src="/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
+[{{< legacy-img src="2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png" alt="The Open Payments for Physicians app screen." caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Physicians-Mobile-Apps-Gallery-USA.gov_.png) 
 
  
 
@@ -44,7 +44,7 @@ Enter the [**Open Payments Program**](http://www.cms.gov/Regulations-and-Guidanc
 
 Without getting too wonky, the [**Open Payments Program app for Physicians**](http://apps.usa.gov/open-payments-for-physicians.shtml)enables doctors to ensure that the data reported about them by medical industry is correct and to track payments and transactions in real time. Because the heath care industry and manufacturers are responsible for official reporting of said payments, transactions and business relationships, the **[Open Payments Program app for Industry](http://apps.usa.gov/open-payments-for-industry.shtml)** offers companies a similar real-time payments tracking feature as well as a repository for collecting up-to-date physician profile information, among other features.
 
-[{{< legacy-img src="2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png" alt=" width=" >}}](https:{{< legacy-img src="/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png) 
+[{{< legacy-img src="2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png" alt=" width=" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Payments-for-Industry-Mobile-Apps-Gallery-USA.gov_.png) 
 
  
 

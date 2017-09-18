@@ -15,7 +15,7 @@ tag:
   - USAgov
 ---
 
-[{{< legacy-img src="2014/06/250-x-250-Army-CAH-Consumer-Action-Handbook.jpg" alt="Picture of soldier and a woman talking about how they like the Consumer Action Handbook" >}}](https:{{< legacy-img src="/2014/06/403-x-403-Army-CAH-Consumer-Action-Handbook.jpg)You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
+[{{< legacy-img src="2014/06/250-x-250-Army-CAH-Consumer-Action-Handbook.jpg" alt="Picture of soldier and a woman talking about how they like the Consumer Action Handbook" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/403-x-403-Army-CAH-Consumer-Action-Handbook.jpg)You’ve probably noticed the trend toward more visual content being shared across social platforms—pictures, infographics and how-to videos seem to be popping up everywhere.
 
 We certainly noticed that trend across several government social media properties, so when USA.gov was preparing to launch our campaign introducing the [2014 Consumer Action Handbook](http://promotions.usa.gov/my-cah.html) (CAH), we wanted to create highly-visual social content to see how it would do in comparison to standard text and link social content.
 

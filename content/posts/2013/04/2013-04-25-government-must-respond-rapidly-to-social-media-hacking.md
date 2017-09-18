@@ -15,7 +15,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https:{{< legacy-img src="/2013/12/Safe-cracker.jpg">{{< legacy-img src="2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" >}}</a>
+  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/Safe-cracker.jpg">{{< legacy-img src="2013/12/Safe-cracker.jpg" alt="Image of a safe on a mobile phone" >}}</a>
 </p>
 
 <p dir="ltr">

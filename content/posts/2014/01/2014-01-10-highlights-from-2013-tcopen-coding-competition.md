@@ -11,7 +11,7 @@ tag:
   - ChallengeGov
 ---
 
-[{{< legacy-img src="2014/01/top-coder-250x190.jpg" alt="People working on computers in an informal lounge like area at the Top Coder Event." >}}](https:{{< legacy-img src="/2014/01/top-coder.jpg)
+[{{< legacy-img src="2014/01/top-coder-250x190.jpg" alt="People working on computers in an informal lounge like area at the Top Coder Event." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/top-coder.jpg)
 
 Our team and a few other agencies had the chance to attend the 2013 TopCoder Open this year and meet the best of the best developers, coders, designers, data scientists, and innovative thinkers in crowdsourcing.
 

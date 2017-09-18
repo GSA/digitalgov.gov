@@ -31,7 +31,7 @@ To address this, DAP has set up a centrally hosted URL at dap.WHATEVER containin
   <code></code>
 </div>
 
-By adding this tag and following [DAP&#8217;s guidance](https:{{< legacy-img src="/2015/02/GSA-DAP-UA-Code-Quick-Guide-15-01-30-v1-02_mvf.pdf) (PDF, 273 KB, 7 pages, February 2015) to add parameters identifying your agency, a federal website will begin reporting its Web analytics to DAP and will be guaranteed to always be using the latest, greatest, most secure DAP code.
+By adding this tag and following [DAP&#8217;s guidance](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/GSA-DAP-UA-Code-Quick-Guide-15-01-30-v1-02_mvf.pdf) (PDF, 273 KB, 7 pages, February 2015) to add parameters identifying your agency, a federal website will begin reporting its Web analytics to DAP and will be guaranteed to always be using the latest, greatest, most secure DAP code.
 
 ## Securing Visits to Federal Websites {{< legacy-img src="2015/03/600-x-360-Https-secure-KeremYucel-iStock-Thinkstock-ThinkstockPhotos-181290353.jpg" alt="The beginning of a secure https URL shown in an web browser's address bar; the s on https and padlock are red." caption="" >}} 
 

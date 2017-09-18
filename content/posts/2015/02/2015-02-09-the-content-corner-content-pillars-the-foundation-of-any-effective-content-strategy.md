@@ -27,7 +27,7 @@ For example, your organization is hosting an event where two subject matter expe
   * And photos of the live event could be posted via social media, particularly Instagram or Flickr.
   * Perhaps the audio could also be turned into a podcast, if the event was of two people conversing on a stage the audience of the podcast wouldn&#8217;t really miss out on anything.
 
-[{{< legacy-img src="2015/02/600-x-415-Ty-Manuel-content-pillar-infographic.jpg" alt="A flowchart showing how one piece of content can be leveraged into numerous other assets, and then used to populate a wide variety of your media channels." >}}](https:{{< legacy-img src="/2015/02/900-x-623-Ty-Manuel-content-pillar-infographic.jpg)
+[{{< legacy-img src="2015/02/600-x-415-Ty-Manuel-content-pillar-infographic.jpg" alt="A flowchart showing how one piece of content can be leveraged into numerous other assets, and then used to populate a wide variety of your media channels." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-623-Ty-Manuel-content-pillar-infographic.jpg)
 
 So as opposed to a live event with one video, you are now populating various other channels with a variety of content that can also easily be consumed and shared by your audience. This is the awesome power of the content pillar.
 

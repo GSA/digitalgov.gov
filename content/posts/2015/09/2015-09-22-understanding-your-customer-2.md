@@ -34,7 +34,7 @@ Under the CAP goal, agencies are charged with transforming their work environmen
 
 {{< legacy-img src="2015/07/600-x-480-USAgov-Personas-and-Journey-Maps.jpg" alt="A U.S.A. dot gov journey map" >}}
 
-The simple Guide to [Understanding Your Customer](https:{{< legacy-img src="/2015/09/Understanding-Your-Customer.pdf) developed by our team covers six key points:
+The simple Guide to [Understanding Your Customer](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Understanding-Your-Customer.pdf) developed by our team covers six key points:
 
   * Get Started
   * Define Your Customers
@@ -43,7 +43,7 @@ The simple Guide to [Understanding Your Customer](https:{{< legacy-img src="/201
   * Analyze Data for Customer Insights
   * Share and Take Action on Customer Insights
 
-We also created an [infographic](https:{{< legacy-img src="/2015/09/Understanding-Your-Customer-infographic.pdf) (PDF, 3.7 MB) to accompany the guide.
+We also created an [infographic](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/Understanding-Your-Customer-infographic.pdf) (PDF, 3.7 MB) to accompany the guide.
 
 To develop these materials, our team conducted research to determine current thinking and best practices around customer understanding. Some of our sources include:
 

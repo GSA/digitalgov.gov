@@ -14,7 +14,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https:{{< legacy-img src="/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg) It’s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies competing to gain their attention.
+[{{< legacy-img src="2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg" alt="Hands holding smartphones over a table." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Gartner-Smartphone-Shipments-Achieve-Highest-Share-to-Date-300x210.jpg) It’s no secret, if you want to reach Millennials, mobile is a great way to connect. This generation of tech-natives is adept at accessing large amounts of information held in the palms of their hands. However, their information overload also poses a challenge for agencies competing to gain their attention.
 
 The Center for Media Research presents four suggestions for [crafting a mobile strategy](http://www.mediapost.com/publications/article/220100/reaching-millennials-with-mobile.html) that will engage Millennials:
 

@@ -13,7 +13,7 @@ tag:
   - challenges and prize competitions
 ---
 
-[{{< legacy-img src="2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" >}}](https:{{< legacy-img src="/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
+[{{< legacy-img src="2013/11/apples\_and\_oranges-450x300.jpg" alt="An apple placed between oranges" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/apples_and_oranges.jpg)In a prize competition, failing to properly define your problem up front can result in lower participation and submissions that don&#8217;t actually solve your issue.
 
 To create a challenge that produces viable results, start by doing your own homework. Vaguely defined problems invite less-than-desirable solutions or scare off potential entrants. So use all the data available or even collect new data to pinpoint the crux of the issue. Don&#8217;t run  a competition for the sake of doing it.  Competitions can be powerful tools to solve real problems facing your agency &#8212; if properly designed.
 

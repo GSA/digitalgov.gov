@@ -25,7 +25,7 @@ A table or chart is like a picture, worth 1,000 words. It packs a lot of informa
 
 We regularly access charts and tables on our desktop computer to glean valuable information from a pile of data. But, how can you display a full-size, desktop sized chart on a 4&#8243; smart phone screen, and make it remain useful?
 
-[{{< legacy-img src="2014/10/570-x-665-doublesuck-301x212.jpg" alt="Two smartphones displaying a table, one with just a few cells visible, the other has an entire table but too small to read on a phone." >}}](https:{{< legacy-img src="/2014/10/570-x-665-doublesuck.jpg)
+[{{< legacy-img src="2014/10/570-x-665-doublesuck-301x212.jpg" alt="Two smartphones displaying a table, one with just a few cells visible, the other has an entire table but too small to read on a phone." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/570-x-665-doublesuck.jpg)
 
 Without properly leveraging responsive design techniques and principles, the user of a small device, like a smart phone, has two choices:
 
@@ -48,13 +48,13 @@ We freeze rows of columns all the time in Excel sheets so that we can keep track
 
 ### 2. Make each row its own table
 
-[{{< legacy-img src="2014/10/600-x-300-orig-301x212.jpg" alt="Regular table view in background with an overlay showing one row of the table as its own table." >}}](https:{{< legacy-img src="/2014/10/600-x-300-orig.jpg)On smaller screens the formatting can be changed so that all information on a single value can be displayed together instead of spread across a row in the chart.
+[{{< legacy-img src="2014/10/600-x-300-orig-301x212.jpg" alt="Regular table view in background with an overlay showing one row of the table as its own table." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-300-orig.jpg)On smaller screens the formatting can be changed so that all information on a single value can be displayed together instead of spread across a row in the chart.
 
 ### 3. Convert the table to a chart
 
 On smaller screens a chart of percentage values could be converted to a pie chart for easy interpretation.
 
-[{{< legacy-img src="2014/10/600-x-369-responsivetabletochart-301x212.jpg" alt="Table in background with a pie chart overlay" >}}](https:{{< legacy-img src="/2014/10/600-x-369-responsivetabletochart.jpg)
+[{{< legacy-img src="2014/10/600-x-369-responsivetabletochart-301x212.jpg" alt="Table in background with a pie chart overlay" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-369-responsivetabletochart.jpg)
 
 ### 4. Hide the Table
 
@@ -62,7 +62,7 @@ The table could be hidden by default on the page, but easily accessible by tappi
 
 ### 5. Hide the Least Important Columns
 
-[{{< legacy-img src="2014/10/600-x-438-stu-301x212.jpg" alt="Regular table in background with smartphone in foreground showing table with fewer columns." >}}](https:{{< legacy-img src="/2014/10/600-x-438-stu.jpg)In Excel we regularly hide rows that we do not want others to see or deem less important.
+[{{< legacy-img src="2014/10/600-x-438-stu-301x212.jpg" alt="Regular table in background with smartphone in foreground showing table with fewer columns." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/600-x-438-stu.jpg)In Excel we regularly hide rows that we do not want others to see or deem less important.
 
 ### 6. Select only the columns they want to see
 

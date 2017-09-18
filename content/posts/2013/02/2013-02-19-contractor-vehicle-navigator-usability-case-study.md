@@ -27,7 +27,7 @@ The information presented was frequently unclear and contained too much jargon. 
 
 The term names have been changed to be more clear: &#8220;Entity Type&#8221; was changed to &#8220;Organization.&#8221; &#8220;Products and Services&#8221; and &#8220;Offerings&#8221; have been changed to &#8220;Solutions Categories.&#8221; The icon for &#8220;Green IT Solutions&#8221; has been changed to a more traditional green leaf.
 
-[{{< legacy-img src="2013/12/contractor-vehicle-navigator-before1.jpg" alt="contractor vehicle navigator before screen shot" >}}](https:{{< legacy-img src="/2013/12/contractor-vehicle-navigator-before1.jpg)
+[{{< legacy-img src="2013/12/contractor-vehicle-navigator-before1.jpg" alt="contractor vehicle navigator before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/contractor-vehicle-navigator-before1.jpg)
 
 ## Problem 2: &#8216;Help&#8217; Text Too Small and Hidden
 
@@ -47,7 +47,7 @@ The &#8220;Solution Categories Selected&#8221; box was moved to the left side of
 
 The GSA Contract Vehicle Navigator team improved the usability of the website by tackling these three key identified problems. These screenshots were taken in January 2013, about one month after the initial usability test.
 
-[{{< legacy-img src="2013/12/contractor-vehicle-navigator-after1.jpg" alt="contractor vehicle navigator after screen shot" >}}](https:{{< legacy-img src="/2013/12/contractor-vehicle-navigator-after1.jpg)
+[{{< legacy-img src="2013/12/contractor-vehicle-navigator-after1.jpg" alt="contractor vehicle navigator after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/contractor-vehicle-navigator-after1.jpg)
 
  
 
