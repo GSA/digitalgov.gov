@@ -15,7 +15,7 @@ tag:
   - Census
 ---
 
-[{{< legacy-img src="2014/02/Census-Bureau-blog-logo-250x166.jpg" alt="Images of people shaped to form the United States map" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Census-Bureau-blog-logo.jpg)If you have ever visited census.gov, you know that sorting through the vast array of information about America’s people, places and economy can be daunting.
+[{{< legacy-img src="2014/02/Census-Bureau-blog-logo-250x166.jpg" alt="Images of people shaped to form the United States map" >}}](https:{{< legacy-img src="/2014/02/Census-Bureau-blog-logo.jpg)If you have ever visited census.gov, you know that sorting through the vast array of information about America’s people, places and economy can be daunting.
 
 Based on customer research and feedback we collected and analyzed over time, we heard loud and clear that both search and navigation of our site could be much better. Visitors to census.gov should not have to work so hard to find the information and statistics they are looking for to complete their research, personal projects or business needs.
 

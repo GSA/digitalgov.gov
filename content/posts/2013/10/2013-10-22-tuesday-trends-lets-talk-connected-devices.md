@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/10/connected-devices-infographic.jpg" alt="Infographic shows 99% of everything will be connected to the internet" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/connected-devices-infographic.jpg)Mobile Future recently released this infographic about the proliferation of connected devices. Among the key data points:
+[{{< legacy-img src="2013/10/connected-devices-infographic.jpg" alt="Infographic shows 99% of everything will be connected to the internet" >}}](https:{{< legacy-img src="/2013/10/connected-devices-infographic.jpg)Mobile Future recently released this infographic about the proliferation of connected devices. Among the key data points:
 
   * Today, there are 10 billion connected devices.
   * By 2020, data from connected devices will more than double all global Internet traffic in 2012.

@@ -11,7 +11,7 @@ tag:
   - responsive web design
 ---
 
-_[{{< legacy-img src="2013/12/GSA_ChildCareInfoPortal.png" alt="Home Screen of GSA Child Care Info Portal" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/GSA_ChildCareInfoPortal.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration._
+_[{{< legacy-img src="2013/12/GSA_ChildCareInfoPortal.png" alt="Home Screen of GSA Child Care Info Portal" >}}](https:{{< legacy-img src="/2013/12/GSA_ChildCareInfoPortal.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the General Services Administration._
 
 The <a href="http://apps.ocfo.gsa.gov/childcare_portal/index.shtml" rel="nofollow">Child Care Information Portal</a> is a responsively designed web site built by General Services Administration&#8217;s Office of the Chief Financial Officer, accessible on computers, smartphones and tablets.
 

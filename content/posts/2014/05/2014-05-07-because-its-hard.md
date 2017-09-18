@@ -25,7 +25,7 @@ tag:
   - user experience
 ---
 
-[{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
+[{{< legacy-img src="2014/05/250-x-333-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429\_12fe814c84\_z.jpg-250x300.jpg" alt="The photo is the door to President Kennedy’s Cold War bunker on Nantucket Island, Massachusetts." >}}](https:{{< legacy-img src="/2014/05/480-x-640-Rusted-door-to-JFKs-nuclear-bunker-by-Gwynne-Kostin-CC-BY-NC-ND-3797768429_12fe814c84_z.jpg)Two years ago, federal agencies were set on a fast track to create a 21st century digital government. The <a href="http://www.whitehouse.gov/digitalgov/about" target="_blank">Federal Digital Strategy</a> served up a heaping set of deliverables on a tight timeline.
 
 Agencies opened data sets, built mobile apps and websites, published APIs, created and updated digital governance structures, and joined with other agencies in measuring digital services performance.
 

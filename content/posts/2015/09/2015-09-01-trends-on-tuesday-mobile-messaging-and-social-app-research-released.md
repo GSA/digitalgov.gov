@@ -22,7 +22,7 @@ tag:
 
 On DigitalGov, we frequently talk about some of the most popular app experiences, and [research almost always shows that mobile messaging and social apps are the most frequently used]({{< relref "2015-08-18-trends-on-tuesday-the-rise-in-mobile-addicts.md" >}}).
   
-[{{< legacy-img src="2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
+[{{< legacy-img src="2015/08/250-x-296-Pew-Research-2015-08-19\_social-media-update\_A_01.png" alt="A bar graph showing how frequently users access Facebook, Instagram, Twitter, Pinterest, and LinkedIn" >}}](https:{{< legacy-img src="/2015/08/250-x-296-Pew-Research-2015-08-19_social-media-update_A_01.png)
 
 [Pew Research released a new report](http://www.pewinternet.org/2015/08/19/mobile-messaging-and-social-media-2015/) specifically about these wildly popular channels for mobile engagement, specifically focused on how youth use them, with some interesting results that government agencies should pay attention to for their digital strategies.
 
@@ -50,7 +50,7 @@ Besides the content on Facebook, when users in the Facebook app go to other webs
 
 Although Facebook remains dominate and Twitter and LinkedIn are popular, Instagram and Pinterest had the largest growth in recent years of all the platforms that Pew tracked since 2012—more than doubling their audiences.
   
-[{{< legacy-img src="2015/08/600-x-346-Pew-Research-Center-2015-08-19\_social-media-update\_A_03.png" alt="A graphic from Pew Research Center that shows bar graphs representing the growth of Facebook, Pinterest, Instagram, LinkedIn and Twitter, from 2012-2015" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/600-x-346-Pew-Research-Center-2015-08-19_social-media-update_A_03.png)
+[{{< legacy-img src="2015/08/600-x-346-Pew-Research-Center-2015-08-19\_social-media-update\_A_03.png" alt="A graphic from Pew Research Center that shows bar graphs representing the growth of Facebook, Pinterest, Instagram, LinkedIn and Twitter, from 2012-2015" >}}](https:{{< legacy-img src="/2015/08/600-x-346-Pew-Research-Center-2015-08-19_social-media-update_A_03.png)
 
 ## Mobile Messaging Apps Are Replacing SMS Texting for Young Adults
 

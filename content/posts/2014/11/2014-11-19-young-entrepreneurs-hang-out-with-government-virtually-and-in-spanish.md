@@ -35,7 +35,7 @@ Furthermore, acknowledging a potential appeal to English-dominant Hispanics who 
 
 ## Results and Outcomes
 
-  * [{{< legacy-img src="2014/11/250-x-420-SBA-GobiernoUSAgov-graphic.jpg" alt="Youth Entrepreneurship Education in Spanish, September 2014" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/425-x-750-SBA-GobiernoUSAgov-graphic.jpg)200 live viewers to the hangout, over 200 questions asked pre-, during, and post-chat
+  * [{{< legacy-img src="2014/11/250-x-420-SBA-GobiernoUSAgov-graphic.jpg" alt="Youth Entrepreneurship Education in Spanish, September 2014" >}}](https:{{< legacy-img src="/2014/11/425-x-750-SBA-GobiernoUSAgov-graphic.jpg)200 live viewers to the hangout, over 200 questions asked pre-, during, and post-chat
   * Over 350 registrants and 1,900 page views to the SBA’s online course
   * Media mentions on Yahoo!News, Reuters and MarketWatch
   * Traffic and engagement to GobiernoUSA&#8217;s Google+ page: 80% views on posts, 1000% engagement and 88 new followers.

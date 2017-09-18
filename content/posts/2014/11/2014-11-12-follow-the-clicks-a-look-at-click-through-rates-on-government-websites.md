@@ -27,7 +27,7 @@ Sixty percent of all searches resulted in a click on a organic Web result. Of th
 
 ### Table 1. Click-through Rates by Page
 
-[{{< legacy-img src="2014/11/600-x-56-Table-1-Click-through-Rates-by-Page.jpg" alt="Table 1. Click-through Rates by Page. 1 page is 92 point 3 percent, 2 pages is 6 point 1 percent, 3 pages is zero point 7 or seven tenths of a percent, 4 pages is zero point 3 or three tenths of a percent, and 5 or more pages is zero point 5 or 5 tenths of a percent." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/721-x-67-Table-1-Click-through-Rates-by-Page.jpg)
+[{{< legacy-img src="2014/11/600-x-56-Table-1-Click-through-Rates-by-Page.jpg" alt="Table 1. Click-through Rates by Page. 1 page is 92 point 3 percent, 2 pages is 6 point 1 percent, 3 pages is zero point 7 or seven tenths of a percent, 4 pages is zero point 3 or three tenths of a percent, and 5 or more pages is zero point 5 or 5 tenths of a percent." >}}](https:{{< legacy-img src="/2014/11/721-x-67-Table-1-Click-through-Rates-by-Page.jpg)
 
 Drilling down into page 1, nearly half of searchers that click on a result click on the first-listed search result. Nearly three-fourths click on the first, second, or third result. Below is a chart showing click-through rates by exact position.
 
@@ -35,7 +35,7 @@ Drilling down into page 1, nearly half of searchers that click on a result click
 
 ### Table 2. Click-through Rates on Page 1 by Position
 
-[{{< legacy-img src="2014/11/600-x-211-Table-2-Click-through-Rates-on-Page-1-by-Position.jpg" alt="Table 2. Click-through Rates on Page 1 by Position." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/11/721-x-254-Table-2-Click-through-Rates-on-Page-1-by-Position.jpg)
+[{{< legacy-img src="2014/11/600-x-211-Table-2-Click-through-Rates-on-Page-1-by-Position.jpg" alt="Table 2. Click-through Rates on Page 1 by Position." >}}](https:{{< legacy-img src="/2014/11/721-x-254-Table-2-Click-through-Rates-on-Page-1-by-Position.jpg)
 
 These rates are in line with [click-through rates for Google organic search results](http://marketingland.com/new-click-rate-study-google-organic-results-102149).
 

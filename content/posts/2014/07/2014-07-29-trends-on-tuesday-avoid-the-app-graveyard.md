@@ -20,7 +20,7 @@ tag:
   - user experience
 ---
 
-[{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
+[{{< legacy-img src="2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg" alt="Old Cemeteries Tombstone Closeups" caption="" >}}](https:{{< legacy-img src="/2014/07/600-x-400-Old-Cemeteries-Tombstone-Closeups-luvemakphoto-iStock-Thinkstock-492264081.jpg) 
 
 Apps that are downloaded, used a few times and then never used again, are considered part of the “app graveyard.” In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used consistently and don’t end up in the app graveyard.
 

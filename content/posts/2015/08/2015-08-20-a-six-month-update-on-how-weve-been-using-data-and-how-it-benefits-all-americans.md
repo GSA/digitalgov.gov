@@ -77,7 +77,7 @@ Take the Department of Commerce, which recently announced a big data project wit
 
 Another example of using government data to help make people’s lives better was after the Nepal earthquakes and the incredible grassroots effort by data scientists around the world to use open data to help first responders and aid workers better understand the situation around them. To get a sense of the power of all these efforts, check out the [talk I participated in at the International Open Data Conference](https://www.youtube.com/watch?v=SD7qXPSUezg) (and hey, PDFs shouldn’t be considered “open data”!).
 
-[{{< legacy-img src="2015/08/600-x-190-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg" alt="Images courtesy of American Red Cross and British Red Cross; Canadian Forces; and Kathmandu Living Labs" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/1275-x-401-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg)
+[{{< legacy-img src="2015/08/600-x-190-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg" alt="Images courtesy of American Red Cross and British Red Cross; Canadian Forces; and Kathmandu Living Labs" >}}](https:{{< legacy-img src="/2015/08/1275-x-401-WH-Medium_Images-courtesy-of-American-Red-Cross-and-British-Red-Cross-Canadian-Forces-and-Kathmandu-Living-Labs.jpg)
 
  
 
@@ -94,7 +94,7 @@ The recommendations from the [Taskforce on 21st Century Policing](https://www.yo
 
 This incredible effort has been led by two [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows), Denice Ross and Clarence Wardell. To see the power of their efforts, [read Denice Ross’s story](https://medium.com/@WhiteHouse/does-open-data-build-trust-49ee4d400ba) about working directly with the police and youth in New Orleans and how New Orleans Police Superintendent Michael Harrison came to write his first line of code.
 
-[{{< legacy-img src="2015/08/600-x-223-Cities-participating-in-the-Police-Data-Initiative-and-New-Orleans-Student-helps-Police-Superintendent-Harrison-write-his-first-line-of-code.jpg" alt="Cities participating in the Police Data Initiative (Graphic by Chris Wong) & Student helps Police Superintendent Harrison write his first line of code (Photo by Tyler Gamble of the New Orleans Police Department)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/08/1275-x-473-Cities-participating-in-the-Police-Data-Initiative-and-New-Orleans-Student-helps-Police-Superintendent-Harrison-write-his-first-line-of-code.jpg)
+[{{< legacy-img src="2015/08/600-x-223-Cities-participating-in-the-Police-Data-Initiative-and-New-Orleans-Student-helps-Police-Superintendent-Harrison-write-his-first-line-of-code.jpg" alt="Cities participating in the Police Data Initiative (Graphic by Chris Wong) & Student helps Police Superintendent Harrison write his first line of code (Photo by Tyler Gamble of the New Orleans Police Department)" >}}](https:{{< legacy-img src="/2015/08/1275-x-473-Cities-participating-in-the-Police-Data-Initiative-and-New-Orleans-Student-helps-Police-Superintendent-Harrison-write-his-first-line-of-code.jpg)
 
 ## Here’s what’s next: We want to hear from you.
 

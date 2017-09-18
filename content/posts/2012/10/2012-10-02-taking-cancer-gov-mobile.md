@@ -13,7 +13,7 @@ tag:
   - NIH
 ---
 
-_[<img class="alignright size-medium wp-image-95452" alt="NCI Mobile" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_nci1-166x250.jpg" width="166" height="250" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/ss_nci1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by <a href="http://www.cancer.gov/" rel="nofollow">National Cancer Institute</a>.__
+_[<img class="alignright size-medium wp-image-95452" alt="NCI Mobile" src="https:{{< legacy-img src="/2013/12/ss_nci1-166x250.jpg" width="166" height="250" />](https:{{< legacy-img src="/2013/12/ss_nci1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by <a href="http://www.cancer.gov/" rel="nofollow">National Cancer Institute</a>.__
   _ 
 
 The National Cancer Institute (NCI), the nation&#8217;s leading cancer research agency and part of the National Institutes of Health has a legislative mandate to collect, organize, and disseminate the results of cancer research to cancer patients and their friends and family, health professionals, and to the cancer research community at large. NCI developed a mobile strategy for enterprise level communications activities based on user research and web analytics which resulted in the development of a mobile version of NCI&#8217;s enterprise website, <a href="http://m.cancer.gov" rel="nofollow">m.cancer.gov.</a>

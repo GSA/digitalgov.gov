@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/latino-infograph-236x1024.jpg)Latinos appear to be adapting to mobile technology faster than other groups, according to [Mobile Future](http://mobilefuture.org/newsroom/infographic-latinos-embrace-the-mobile-future/). They are ahead of the average U.S. population in several key categories, such as:
+[{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https:{{< legacy-img src="/2013/08/latino-infograph-236x1024.jpg)Latinos appear to be adapting to mobile technology faster than other groups, according to [Mobile Future](http://mobilefuture.org/newsroom/infographic-latinos-embrace-the-mobile-future/). They are ahead of the average U.S. population in several key categories, such as:
 
   * 47% of Latino adults have embraced wireless exclusively versus 34% of all U.S. adults
   * 60% of Latinos own a smartphone versus 53% of white non-Latinos

@@ -17,7 +17,7 @@ tag:
   - United States Department of Housing and Urban Development
 ---
 
-[{{< legacy-img src="2013/08/HUD-Office-of-Inspector-General-450x300.jpg" alt="Department of Housing and Urban Development(HUD) has developed a responsive design website for the HUD Office of Inspector General." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/HUD-Office-of-Inspector-General.jpg)
+[{{< legacy-img src="2013/08/HUD-Office-of-Inspector-General-450x300.jpg" alt="Department of Housing and Urban Development(HUD) has developed a responsive design website for the HUD Office of Inspector General." >}}](https:{{< legacy-img src="/2013/08/HUD-Office-of-Inspector-General.jpg)
 
 The [U.S. Department of Housing and Urban Development](http://portal.hud.gov/hudportal/HUD) (HUD) has developed a responsive design website for [the HUD Office of Inspector General](http://www.hudoig.gov/).
 

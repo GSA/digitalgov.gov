@@ -17,7 +17,7 @@ tag:
   - usability
 ---
 
-[{{< legacy-img src="2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart, February 2, 2015" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/06/DigitalGov-TOS-flowchart_v6-Feb-2-2015-links.pdf)Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s answer this and more in our [Terms of Service Flowchart](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg) (click the image to the right to download your own PDF copy of this chart for reference) and our **Terms of Service FAQ**:
+[{{< legacy-img src="2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart, February 2, 2015" >}}](https:{{< legacy-img src="/2015/06/DigitalGov-TOS-flowchart_v6-Feb-2-2015-links.pdf)Imagine this: You just found a great online tool that can help you do your federal job 100% better. You’re all ready to download it and start conquering the world when someone asks, &#8220;Have you checked the Terms of Service?&#8221; You’re not sure what they’re talking about, what a Terms of Service is, or why you need one. Let’s answer this and more in our [Terms of Service Flowchart](https:{{< legacy-img src="/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg) (click the image to the right to download your own PDF copy of this chart for reference) and our **Terms of Service FAQ**:
 
 ### What are Terms of Service (TOS)?
 
@@ -38,7 +38,7 @@ All products—whether free or paid—have terms that you must accept before usi
 
 ### So what do we do about these Terms of Service?
 
-The good news is that many companies are willing to negotiate their Terms of Service with the government to create an Amended Terms of Service for federal users, also known as a federal-compatible Terms of Service agreement. Here’s a link to [a flowchart explaining how to do this](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart"). Take a look.
+The good news is that many companies are willing to negotiate their Terms of Service with the government to create an Amended Terms of Service for federal users, also known as a federal-compatible Terms of Service agreement. Here’s a link to [a flowchart explaining how to do this](https:{{< legacy-img src="/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart"). Take a look.
 
 ### OK. What should I do to get an Amended Terms of Service?
 
@@ -64,9 +64,9 @@ At best, a few weeks. However, it sometimes takes months or longer, especially i
 Yes! GSA offers:
 
   1. A [list of companies]({{< relref "negotiated-terms-of-service-agreements.md" >}}) that have already negotiated Terms of Service with a government agency, and a list of negotiated agreements. You may be able to use these as a starting point in your own negotiations.
-  2. A [Model Terms of Service Agreement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB) lists the major issues that need to be addressed. You can use it as a template, and modify as appropriate.
+  2. A [Model Terms of Service Agreement](https:{{< legacy-img src="/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB) lists the major issues that need to be addressed. You can use it as a template, and modify as appropriate.
   3. A [list of TOS contacts]({{< relref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}) at every agency who can help you. If your request is approved, your agency contact will be the one reaching out to the company, not you.
-  4. Help with negotiating Terms of Service agreements for free tools (not paid). If you are willing to take the lead in negotiations with a company, GSA can help. GSA is especially interested in helping with high-visibility tools that have wide application across the government. See our [flowchart](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart") to see where GSA gets involved.
+  4. Help with negotiating Terms of Service agreements for free tools (not paid). If you are willing to take the lead in negotiations with a company, GSA can help. GSA is especially interested in helping with high-visibility tools that have wide application across the government. See our [flowchart](https:{{< legacy-img src="/2015/02/900-x-1383-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg "A Terms of Service flowchart") to see where GSA gets involved.
 
 ### Why is GSA doing this?
 
@@ -77,7 +77,7 @@ Each agency is unique and operates under its own set of authorities, and GSA its
 ### What are some tips to a successful TOS negotiation?
 
   * Look at the company&#8217;s TOS with your lawyer to identify any issues your agency may have before reaching out to the company. Know the deal breakers that you can&#8217;t budge on.
-  * Use the [Model Terms of Service Agreement](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB, 5 pages, October 2011) as your starting point and tailor it to your needs.
+  * Use the [Model Terms of Service Agreement](https:{{< legacy-img src="/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB, 5 pages, October 2011) as your starting point and tailor it to your needs.
   * Make sure your agency approves the use of the software or service for your job (be ready to discuss privacy, security, 508 requirements, etc.).
   * Help identify a point of contact at the company for your agency to work with.
   * Once you’re done getting an amended TOS, share the good news with your community through [blog posts]({{< relref "2014-03-27-gsa-introduces-news-genius-to-decode-government-web.md" >}}) on DigitalGov.gov and [webinars]({{< relref "digitalgov-university.md" >}}) through DigitalGov University or your [Community of Practice]({{< relref "communities.md" >}}).

@@ -9,7 +9,7 @@ tag:
   - CDC
 ---
 
-[{{< legacy-img src="2012/08/531-x-344-text-4-baby.jpg" alt="531 x 344 text 4 baby" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/text4baby.png)
+[{{< legacy-img src="2012/08/531-x-344-text-4-baby.jpg" alt="531 x 344 text 4 baby" >}}](https:{{< legacy-img src="/2013/12/text4baby.png)
 
 SMS or Short Message Service (Texting) is a mobile device capability where users are able to send short (generally 160 characters maximum) text messages to another user via the use of the keypad or built-in keyboard. Seventy-three percent of cell phone owners use their device to text, according to an 8-15-2011 Pew Research Center report: <a href="http://pewinternet.org/Reports/2011/Cell-Phones.aspx" rel="nofollow">Americans and Their Cell Phones</a> Of those users, <a href="http://pewinternet.org/Reports/2011/Cell-Phone-Texting-2011.aspx" rel="nofollow">31% prefer to be contacted via text message</a>.
 

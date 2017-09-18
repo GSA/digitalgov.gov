@@ -17,7 +17,7 @@ tag:
   - US Department of the Interior
 ---
 
-_[{{< legacy-img src="2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2012/07/BIA_Wikithon_Picture_Lady_DC.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__
+_[{{< legacy-img src="2012/07/BIA\_Wikithon\_Picture\_Lady\_DC.jpg" alt="BIA's advertisement for a Wikithon showing a photo of a women inviting employees to drop in and update their profiles on BIA's internal wiki." >}}](https:{{< legacy-img src="/2012/07/BIA_Wikithon_Picture_Lady_DC.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Bureau of Indian Affairs**.__
   _ 
 
 The Bureau of Indian Affairs held three separate Wikithons in three different locations to help improve and build upon their Wiki pages.

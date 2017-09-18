@@ -50,7 +50,7 @@ Contact centers operated and managed by federal agencies have to follow certain 
     </h2>
     
     <p>
-      Review <a title="Title III of the E-Government Act - entitled the Federal Information Security Management Act - FISMA" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Title-III-of-the-E-Government-Act-entitled-the-Federal-Information-Security-Management-Act-FISMA.pdf">Title III of the E-Government Act, entitled the Federal Information Security Management Act (FISMA)</a> (PDF, 62 KB, 16 pages, December 2002) and the <a href="http://csrc.nist.gov/groups/SMA/fisma/index.html">FISMA Implementation Project</a> to ensure your contact center is in compliance with the law.
+      Review <a title="Title III of the E-Government Act - entitled the Federal Information Security Management Act - FISMA" href="https:{{< legacy-img src="/2014/07/Title-III-of-the-E-Government-Act-entitled-the-Federal-Information-Security-Management-Act-FISMA.pdf">Title III of the E-Government Act, entitled the Federal Information Security Management Act (FISMA)</a> (PDF, 62 KB, 16 pages, December 2002) and the <a href="http://csrc.nist.gov/groups/SMA/fisma/index.html">FISMA Implementation Project</a> to ensure your contact center is in compliance with the law.
     </p>
     
     <p>

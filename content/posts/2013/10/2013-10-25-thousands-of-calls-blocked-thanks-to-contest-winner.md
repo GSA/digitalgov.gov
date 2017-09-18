@@ -12,7 +12,7 @@ tag:
   - FTC
 ---
 
-Technology to block robocalls is a huge win for consumers and for challenge competitions this year. [{{< legacy-img src="2013/10/Nomorombo-21.jpg" alt="Nomorobo logo of a robot hand holding a telephone." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/Nomorombo-21.jpg)The <a href="http://robocall.challengepost.com/" target="_blank">FTC awarded a prize</a> to **Aaron Foss**, creator of <a href="http://www.nomorobo.com/" target="_blank">Nomorobo</a>, in April. The technology went to market September 30, and the tool has already **blocked more than one hundred thousand calls**.
+Technology to block robocalls is a huge win for consumers and for challenge competitions this year. [{{< legacy-img src="2013/10/Nomorombo-21.jpg" alt="Nomorobo logo of a robot hand holding a telephone." >}}](https:{{< legacy-img src="/2013/10/Nomorombo-21.jpg)The <a href="http://robocall.challengepost.com/" target="_blank">FTC awarded a prize</a> to **Aaron Foss**, creator of <a href="http://www.nomorobo.com/" target="_blank">Nomorobo</a>, in April. The technology went to market September 30, and the tool has already **blocked more than one hundred thousand calls**.
 
 The FTC did a number of things right in setting up and managing this challenge competition &#8212; among them, creating a competition focused on mission and designing the challenge to track measurable results.
 

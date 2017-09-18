@@ -20,7 +20,7 @@ tag:
   - US Department of Justice
 ---
 
-[{{< legacy-img src="2014/12/600-x-380-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg" alt="Data visualizations for Mapping Decline St. Louis and the American City website's White Flight tab showing years 2000 - 2010" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/1200-x-815-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg)
+[{{< legacy-img src="2014/12/600-x-380-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg" alt="Data visualizations for Mapping Decline St. Louis and the American City website's White Flight tab showing years 2000 - 2010" >}}](https:{{< legacy-img src="/2014/12/1200-x-815-data-visualizations-Mapping-Decline-St.-Louis-and-the-American-City-website-White-Flight-tab-showing-years-2000-2010.jpg)
 
 Criminal justice agencies collect a variety of information and use it in multiple ways. Having a clear understanding of current realities is critical to shaping policies and improving the administration of justice. Police use data to identify hot spots; judges use it when they impose sentences; victim assistance staff use it to provide better services.
 
@@ -30,7 +30,7 @@ To help harness the power and increase accessibility of existing data, the Natio
 
 The Data Visualization Challenge asks contestants to create innovative approaches that make criminal justice data presentable in ways that increase understanding, ensure broad access, and account for the statistical complexities of existing data. Solutions might include infographics, dashboards, static or interactive visualizations and incorporate data from non-criminal justice sources, such as public health data, geographic identifiers or public spending data, to provide insight into justice system outcomes or crime-related phenomena.
 
-[{{< legacy-img src="2014/12/600-x-345-data-visualizations-for-Miami-Dade-County-Florida-2008-Prison-Relase-Rates-from-Justice-Atlas-of-Sentencing-and-Corrections.jpg" alt="Data visualizations for Miami-Dade County, Florida 2008 Prison Release Rates from the Justice Atlas of Sentencing and Corrections website." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/1200-x-690-data-visualizations-for-Miami-Dade-County-Florida-2008-Prison-Relase-Rates-from-Justice-Atlas-of-Sentencing-and-Corrections.jpg)
+[{{< legacy-img src="2014/12/600-x-345-data-visualizations-for-Miami-Dade-County-Florida-2008-Prison-Relase-Rates-from-Justice-Atlas-of-Sentencing-and-Corrections.jpg" alt="Data visualizations for Miami-Dade County, Florida 2008 Prison Release Rates from the Justice Atlas of Sentencing and Corrections website." >}}](https:{{< legacy-img src="/2014/12/1200-x-690-data-visualizations-for-Miami-Dade-County-Florida-2008-Prison-Relase-Rates-from-Justice-Atlas-of-Sentencing-and-Corrections.jpg)
 
 But the Data Visualization Challenge is also about more than making criminal justice data visually engaging. By issuing the Challenge, NIJ and BJS are initiating an effort to make national-level criminal justice data more accessible to the public and contribute to government-wide initiatives on open data and transparency. The Challenge also encourages researchers and agencies to partner with one another when analyzing and visualizing complementary datasets from different agencies and areas of specialization.
 

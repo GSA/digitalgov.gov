@@ -32,11 +32,11 @@ tag:
 
 [
   
-{{< legacy-img src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Birthday-Cake_Internet_World-Wide-Web_25-years-old_Featured_301x212.jpg) With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
+{{< legacy-img src="2014/03/Birthday-Cake\_Internet\_World-Wide-Web\_25-years-old\_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}](https:{{< legacy-img src="/2014/03/Birthday-Cake_Internet_World-Wide-Web_25-years-old_Featured_301x212.jpg) With the [25th anniversary of the Web](http://www.pewinternet.org/2014/02/27/the-web-at-25-in-the-u-s/), we wanted to share stories from the beginnings of Web in the federal government and how online government has evolved in the years since.
 
 The State Department may have been one of the first, in 1991, with a bulletin board presence launched thru the Government Printing Office, according to Janice Clark, Director in the Office of Website Management, Bureau of Public Affairs. “We saw the transition from hot type to cold and onto desktop publishing, and finally in the early 90’s began to morph into Web editors.
 
-In the Department as a whole, reliance on hard copy to inform the American public of the work of the Department and U.S. foreign policy was slowly replaced by the Web, with some bureaus and offices more resistant than others.” In 1994, the precursor to [state.gov](http://www.state.gov/index.htm) was a text-only “gopher” site through the Federal Depository Library at the University of Illinois at Chicago.[{{< legacy-img src="2014/03/state-department-gopher-site-250-x-330-2.png" alt="state department gopher site 250 x 330 (2)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/state-department-gopher-site-250-x-330-2.png)
+In the Department as a whole, reliance on hard copy to inform the American public of the work of the Department and U.S. foreign policy was slowly replaced by the Web, with some bureaus and offices more resistant than others.” In 1994, the precursor to [state.gov](http://www.state.gov/index.htm) was a text-only “gopher” site through the Federal Depository Library at the University of Illinois at Chicago.[{{< legacy-img src="2014/03/state-department-gopher-site-250-x-330-2.png" alt="state department gopher site 250 x 330 (2)" >}}](https:{{< legacy-img src="/2014/03/state-department-gopher-site-250-x-330-2.png)
 
 The beginning was like the “Wild, Wild, West,” Candi Harrison, former Web Manager at the Department of Housing and Urban Development shared. Content was published without management review or ownership and everyone was reinventing the wheel, she said.
 
@@ -50,11 +50,11 @@ Early Web managers had a difficult time convincing their agencies they should be
 
 [Healthfinder.gov](http://healthfinder.gov/) morphed from simply being a health portal site, to a site that’s focused on actionable prevention and wellness information, Ellen Langhans, Program Manager, Health Communication and eHealth Division, Office of Disease Prevention and Health Promotion at the Department of Health and Human Services, said. “The Web has changed the way we communicate to our constituents. While healthfinder has always been a Web-based resource, the Healthy People initiative used to look like this.”
 
-[{{< legacy-img src="2014/03/HHS-health-binders-600-x-337.png" alt="HHS health binders" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/HHS-health-binders-600-x-337.png)
+[{{< legacy-img src="2014/03/HHS-health-binders-600-x-337.png" alt="HHS health binders" >}}](https:{{< legacy-img src="/2014/03/HHS-health-binders-600-x-337.png)
 
 “Lots of binders, big cost to produce and distribute those binders. Now the Healthy People initiative is completely Web-based,” she explained.
 
-[{{< legacy-img src="2014/03/HealthyPeople.gov-image-600-x-440.png" alt="screenshot of HealthyPeople.gov" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/HealthyPeople.gov-image-600-x-440.png)
+[{{< legacy-img src="2014/03/HealthyPeople.gov-image-600-x-440.png" alt="screenshot of HealthyPeople.gov" >}}](https:{{< legacy-img src="/2014/03/HealthyPeople.gov-image-600-x-440.png)
 
 In 2010, [archives.gov](http://www.archives.gov/) got a redesign driven by citizen input in [online card sorts, survey and search data and site comments](http://www.archives.gov/open/redesign/about.html), shared Sarah Araghi, Archives.gov Team Leader, at the National Archives & Records Administration (NARA). The online card sorts were used to help us learn how citizens would organize the site.
 

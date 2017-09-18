@@ -19,7 +19,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/08/USA.gov-responsive.jpg">{{< legacy-img src="2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" >}}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of <a href="http://www.usa.gov/" target="_blank">USA.gov</a> and <a href="http://www.usa.gov/gobiernousa/index.shtml" target="_blank">GobiernoUSA.gov</a>, consumers can now have access to the same information and services when they need them, and on any platform and device.
+  <a href="https:{{< legacy-img src="/2013/08/USA.gov-responsive.jpg">{{< legacy-img src="2013/08/USA.gov-responsive-250x213.jpg" alt="USA.gov website on a laptop, tablet and smartphone" >}}</a>There has been a shift in consumer behavior during the last few years, a move toward immediacy and convenience, and with the responsive redesign of <a href="http://www.usa.gov/" target="_blank">USA.gov</a> and <a href="http://www.usa.gov/gobiernousa/index.shtml" target="_blank">GobiernoUSA.gov</a>, consumers can now have access to the same information and services when they need them, and on any platform and device.
 </p>
 
 <p dir="ltr">

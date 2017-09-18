@@ -14,7 +14,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-[{{< legacy-img src="2013/10/usability-chart-3.jpg" alt="Mock chart showing the importance of success, accuracy, satisfaction, and speed as usability goals" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/usability-chart-3.jpg)Setting measurable usability goals will help your team to assess the performance of your site throughout development.
+[{{< legacy-img src="2013/10/usability-chart-3.jpg" alt="Mock chart showing the importance of success, accuracy, satisfaction, and speed as usability goals" >}}](https:{{< legacy-img src="/2013/10/usability-chart-3.jpg)Setting measurable usability goals will help your team to assess the performance of your site throughout development.
 
 Whether your assessment is at the beginning of the process, throughout iterative wireframe testing, after release, or all of the above, bench marking and improving on task performance can only improve the usability of your site.
 

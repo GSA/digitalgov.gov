@@ -12,7 +12,7 @@ tag:
   - US Department of Labor
 ---
 
-_[{{< legacy-img src="2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._
+_[{{< legacy-img src="2013/12/OSHAHeatSafety_App.jpg" alt="OSHA Heat Safety App" >}}](https:{{< legacy-img src="/2013/12/OSHAHeatSafety_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._ _This entry is a story shared by the Department of Labor._
 
 The <a href="http://www.dol.gov/dol/apps/heatindex.htm" rel="nofollow">Heat Safety Tool</a> provides the heat index for your work site and precautions to prevent heat illness.
 

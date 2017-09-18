@@ -13,7 +13,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/National-Day-of-Civic-Hacking-3.jpg">{{< legacy-img src="2014/01/National-Day-of-Civic-Hacking-3.jpg" alt="Black and white of a old U.S. fighter plane" >}}</a>The <a href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a> is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway?
+  <a href="https:{{< legacy-img src="/2014/01/National-Day-of-Civic-Hacking-3.jpg">{{< legacy-img src="2014/01/National-Day-of-Civic-Hacking-3.jpg" alt="Black and white of a old U.S. fighter plane" >}}</a>The <a href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a> is bringing together thousands of civic hackers on June 1st and 2nd. But what is a civic hacker, anyway?
 </p>
 
 &#8220;Civic hackers&#8221; as we think about it for the<a href="http://hackforchange.org/" target="_blank"> National Day of Civic Hacking</a> are technologists, civil servants, designers, entrepreneurs, engineers &#8211; anybody &#8211; who is willing to collaborate with others to create, build, and invent to address challenges relevant to our neighborhoods, our cities, our states and our country.

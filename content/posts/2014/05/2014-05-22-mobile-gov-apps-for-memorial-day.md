@@ -15,7 +15,7 @@ tag:
 
 Memorial Day is Monday and we wanted to let you know about some mobile products available for the holiday. As you&#8217;re visiting Arlington National Cemetery, Pointe du Hoc or the National Mall this Memorial Day to pay your respects to our fallen military service members, there are three mobile apps that will provide you with in-depth information about your visit.
 
-[{{< legacy-img src="2014/05/250-X-328-anc-explorer-mobile-app-250x212.jpg" alt="Map of Arlington National Cemetery showing Tomb of the Unknown Soldier " >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/250-X-328-anc-explorer-mobile-app.jpg)
+[{{< legacy-img src="2014/05/250-X-328-anc-explorer-mobile-app-250x212.jpg" alt="Map of Arlington National Cemetery showing Tomb of the Unknown Soldier " >}}](https:{{< legacy-img src="/2014/05/250-X-328-anc-explorer-mobile-app.jpg)
 
   * Arlington National Cemetery&#8217;s [ANC Explorer mobile app](http://www.arlingtoncemetery.mil/map/ancexplorer.aspx) allows the user to locate gravesites, events, or other points of interest; generate front and back photos of a headstone or monument; and receive directions to those locations.
   * Use the National Park Service&#8217;s [National Mall app](http://www.nps.gov/nama/photosmultimedia/app-page.htm) to locate and learn more about landmarks on the National Mall, including the World War II, Korean and Vietnam War Memorials. It provides visitors with a handheld map and customizable tour plans based on the length of your visit. Using your device’s geolocation capabilities and camera, the app uses augmented reality to identify the landmarks around you.

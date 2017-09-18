@@ -15,7 +15,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Challenges-2.jpg">{{< legacy-img src="2013/11/Challenges-2-250x250.jpg" alt="View of the Martin Luther King Junior Library" >}}</a>A public prize spurred <strong>Charles Lindbergh</strong> to<a href="http://history1900s.about.com/od/people/a/Charles-Lindbergh.htm"> fly across the Atlantic</a>, and this week social media managers across government will help a new generation of prize competitions take flight. These sessions aren&#8217;t just for social media managers who have held a challenge or are planning one &#8212; they are for any social media manager who wants to learn how strategy and performance analysis can be used to support emerging technology programs within their agencies.
+  <a href="https:{{< legacy-img src="/2013/11/Challenges-2.jpg">{{< legacy-img src="2013/11/Challenges-2-250x250.jpg" alt="View of the Martin Luther King Junior Library" >}}</a>A public prize spurred <strong>Charles Lindbergh</strong> to<a href="http://history1900s.about.com/od/people/a/Charles-Lindbergh.htm"> fly across the Atlantic</a>, and this week social media managers across government will help a new generation of prize competitions take flight. These sessions aren&#8217;t just for social media managers who have held a challenge or are planning one &#8212; they are for any social media manager who wants to learn how strategy and performance analysis can be used to support emerging technology programs within their agencies.
 </p>
 
 <p dir="ltr">

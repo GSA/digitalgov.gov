@@ -83,10 +83,10 @@ tag:
         <a href="http://challengepost.com/post/app_contest_resources">App Contest Best Practices—ChallengePost</a>
       </li>
       <li>
-        <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/world-bank-case-study-apps-challenges.mp3">Listen to a podcast on the World Bank&#8217;s Apps for Development challenge from the Apps Challenge Workshop</a><br /> (MP3, 11774 KB, 12 minutes, March 2011)
+        <a href="https:{{< legacy-img src="/2013/11/world-bank-case-study-apps-challenges.mp3">Listen to a podcast on the World Bank&#8217;s Apps for Development challenge from the Apps Challenge Workshop</a><br /> (MP3, 11774 KB, 12 minutes, March 2011)
       </li>
       <li>
-        <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/AppsforHealthyKidsLessonsLearned.docx">USDA Apps for Healthy Kids Lessons Learned</a><br /> (MS Word, 12 KB, 2 pages, February 2011)
+        <a href="https:{{< legacy-img src="/2013/11/AppsforHealthyKidsLessonsLearned.docx">USDA Apps for Healthy Kids Lessons Learned</a><br /> (MS Word, 12 KB, 2 pages, February 2011)
       </li>
     </ul>
     

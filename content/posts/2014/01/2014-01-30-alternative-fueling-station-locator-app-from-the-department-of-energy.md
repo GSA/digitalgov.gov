@@ -18,7 +18,7 @@ So: You decided to purchase a car that takes advantage of more environmentally f
 
 The new [**Alternative Fueling Station Locator app**](https://itunes.apple.com/us/app/alternative-fueling-station/id718577947) from the folks at the Department of Energy’s [National Renewable Energy Laboratory](http://www.nrel.gov/) is a must-try. The new [iPhone](https://itunes.apple.com/us/app/alternative-fueling-station/id718577947) app will find and map the 20 closest stations within 30 miles of your location that sell alternative fuels such as natural gas, biodiesel, E85 ethanol, propane and hydrogen. Got an electric car? This app finds stations offering electricity chargers, too.
 
-[{{< legacy-img src="2014/01/NREL-Alternative-Fueling-Station-Locator-App.png" alt="Two screen shots of Alternative Fueling Station Locator App , one showing a map of Southern California with push pins showing locations of fueling stations, and the second screen shot showing details (address, what type of fuel, etc)" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png)
+[{{< legacy-img src="2014/01/NREL-Alternative-Fueling-Station-Locator-App.png" alt="Two screen shots of Alternative Fueling Station Locator App , one showing a map of Southern California with push pins showing locations of fueling stations, and the second screen shot showing details (address, what type of fuel, etc)" >}}](https:{{< legacy-img src="/2014/01/NREL-Alternative-Fueling-Station-Locator-App.png)
 
 **How It Works**
 

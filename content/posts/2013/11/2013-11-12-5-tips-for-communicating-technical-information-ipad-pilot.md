@@ -16,7 +16,7 @@ tag:
 
 <span style="color: #888888;"><i>&#8220;The difference between the right word and the almost right word is the difference between lightning and the lightning bug.&#8221;</i> — Mark Twain</span>
 
-[{{< legacy-img src="2013/11/man-with-cat-in-lap-250x184.jpg" alt="Man with cat in lap working on a tablet" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/man-with-cat-in-lap.jpg) 
+[{{< legacy-img src="2013/11/man-with-cat-in-lap-250x184.jpg" alt="Man with cat in lap working on a tablet" caption="" >}}](https:{{< legacy-img src="/2013/11/man-with-cat-in-lap.jpg) 
 
 <p dir="ltr">
   It’s simple—you’re the technical expert; you know the topic inside out, so of course you can easily explain it to a captive audience. Right? Not always.
@@ -40,7 +40,7 @@ As the communications lead on the project, I learned five valuable lessons in co
       Know your audience. We don’t mean identifying stakeholders. We mean…Know Them! What makes them tick! Understand their comfort level with technology. How do they prefer to receive news and information, when is the best time to communicate with them and why are they involved with your program? At VA, we work directly with our Caregiver Support team, which is responsible for knowing our caregivers and their needs. They have helped us identify tone, style and frequency of the messages being disseminated to our caregivers and other audiences.
     </p>
 
-  3. [{{< legacy-img src="2013/11/care4-caregiver-186x250.jpg" alt="care4 caregiver" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/care4-caregiver.jpg) <p dir="ltr">
+  3. [{{< legacy-img src="2013/11/care4-caregiver-186x250.jpg" alt="care4 caregiver" caption="" >}}](https:{{< legacy-img src="/2013/11/care4-caregiver.jpg) <p dir="ltr">
       Structure your messages. Some communicators use message maps and others use message boxes.  We structured messages in buckets so we could address our internal and external stakeholders. Our buckets include Vision, Value, Need to Know, and Calls to Action. This approach allows us to work from the same template and, as new apps are developed, think through—What is most valuable to veterans and their caregivers as well as health care teams.
     </p>
 

@@ -143,7 +143,7 @@ Number of IRS pages that are in the Top 20 pages: **13**
 
   * There were **21 million visits to IRS pages** over the **past 7 days**._-Ashley Wichman, DigitalGov Team_
 
-[{{< legacy-img src="2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/500pm.gif)
+[{{< legacy-img src="2015/04/500pm.gif" alt="A screen capture of a bar graph, showing that there were 163,502 people visiting government websites." >}}](https:{{< legacy-img src="/2015/04/500pm.gif)
 
 ## 5:00 pm Update
 

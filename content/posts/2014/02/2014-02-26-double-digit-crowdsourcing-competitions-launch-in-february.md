@@ -32,7 +32,7 @@ Proposals may include innovation, enhanced infrastructure, and effective outcome
   
 ** [Data Innovation Challenge](http://www.transportation.gov/datachallenge)
 
-Do you have what it takes to create innovative tools to address our nation’s transportation challenges or revolutionize the way Americans see and understand the transportation system they use every day? Create a tool to address systemic challenges by accessing publicly-available federal and/or local DOT datasets.[{{< legacy-img src="2014/02/Energy\_Challenge\_Home.png" alt="Energy Challenge Homepage" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Energy_Challenge_Home.png)
+Do you have what it takes to create innovative tools to address our nation’s transportation challenges or revolutionize the way Americans see and understand the transportation system they use every day? Create a tool to address systemic challenges by accessing publicly-available federal and/or local DOT datasets.[{{< legacy-img src="2014/02/Energy\_Challenge\_Home.png" alt="Energy Challenge Homepage" >}}](https:{{< legacy-img src="/2014/02/Energy_Challenge_Home.png)
 
 **Department of Energy
   
@@ -44,7 +44,7 @@ Through the Challenge Home, DOE seeks to apply proven innovations for high-perfo
   
 ** [National Aquatic Resource Surveys Campus Research Challenge](http://water.epa.gov/type/watersheds/monitoring/nars-challenge.cfm)
 
-College students are invited to develop innovative ways of using EPA&#8217;s water data to better protect aquatic resources. The National [{{< legacy-img src="2014/02/NARS2014.png" alt="National Aquatic Resource Survey (NARS) Campus Research Challenge logo" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/NARS2014.png)Aquatic Resource Survey (NARS) Campus Research Challenge gives undergraduate and graduate students the opportunity to use NARS data to conduct further scientific research and analysis. This challenge is intended to encourage external, innovative research and information development in support of enhanced water management at multiple scales.
+College students are invited to develop innovative ways of using EPA&#8217;s water data to better protect aquatic resources. The National [{{< legacy-img src="2014/02/NARS2014.png" alt="National Aquatic Resource Survey (NARS) Campus Research Challenge logo" >}}](https:{{< legacy-img src="/2014/02/NARS2014.png)Aquatic Resource Survey (NARS) Campus Research Challenge gives undergraduate and graduate students the opportunity to use NARS data to conduct further scientific research and analysis. This challenge is intended to encourage external, innovative research and information development in support of enhanced water management at multiple scales.
 
 **Consumer Product Safety Commission**
   
@@ -92,7 +92,7 @@ How are you reducing carbon pollution or preparing for the impacts of climate ch
   
 [App**** Challenge for High School Students](http://housestudentapps.challengepost.com/)
 
-The first annual Congressional Science, Technology, Engineering and Math (STEM) Academic Competition. A nationwide event that allows high school students from across the country to learn by creating and exhibiting their software application, or “app,” for mobile,  tablet, or computer devices on a platform of their choice.[{{< legacy-img src="2014/02/IARPA\_logo\_for_Challenge.jpg" alt="logo of Air Force IARPA instinct challenge" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/IARPA_logo_for_Challenge.jpg)
+The first annual Congressional Science, Technology, Engineering and Math (STEM) Academic Competition. A nationwide event that allows high school students from across the country to learn by creating and exhibiting their software application, or “app,” for mobile,  tablet, or computer devices on a platform of their choice.[{{< legacy-img src="2014/02/IARPA\_logo\_for_Challenge.jpg" alt="logo of Air Force IARPA instinct challenge" >}}](https:{{< legacy-img src="/2014/02/IARPA_logo_for_Challenge.jpg)
 
 **United States Air Force**
   

@@ -25,13 +25,13 @@ We’ve written a few times about the changes that we’ve been working on for D
 ### **Refreshed design**
 
 <p style="text-align: left">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/data.gov-6.jpg">{{< legacy-img src="2014/01/data.gov-6.jpg" alt="Data.gov logo before the redesign and after. Redesigned logo is has a flag and says only DATA>GOV." >}}</a>In this refresh, we emphasized a simpler design with more white space. We also made design decisions based on whether they helped or hurt users trying to complete tasks, and will be updating the look and feel <a href="https://github.com/GSA/data.gov">regularly</a>.
+  <a href="https:{{< legacy-img src="/2014/01/data.gov-6.jpg">{{< legacy-img src="2014/01/data.gov-6.jpg" alt="Data.gov logo before the redesign and after. Redesigned logo is has a flag and says only DATA>GOV." >}}</a>In this refresh, we emphasized a simpler design with more white space. We also made design decisions based on whether they helped or hurt users trying to complete tasks, and will be updating the look and feel <a href="https://github.com/GSA/data.gov">regularly</a>.
 </p>
 
 ### **Curated by topic**
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/data.gov-4.jpg">{{< legacy-img src="2014/01/data.gov-4.jpg" alt="Screenshot of data.gov homepage before and after redesign. Updated site now has icons representing the smost important subject area." >}}</a>On the front page, we featured a rotating carousel and a list of the latest datasets as they were published by different agencies.
+  <a href="https:{{< legacy-img src="/2014/01/data.gov-4.jpg">{{< legacy-img src="2014/01/data.gov-4.jpg" alt="Screenshot of data.gov homepage before and after redesign. Updated site now has icons representing the smost important subject area." >}}</a>On the front page, we featured a rotating carousel and a list of the latest datasets as they were published by different agencies.
 </p>
 
 The updated site now has icons representing the subject areas that we’ve heard are most important to you. The new approach helps you quickly get to relevant datasets and examples.

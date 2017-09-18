@@ -14,7 +14,7 @@ tag:
   - UX
 ---
 
-[{{< legacy-img src="2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/usajobs-hallway-test-at-gsa.jpg)
+[{{< legacy-img src="2014/02/usajobs-hallway-test-at-gsa-250x186.jpg" alt="People sitting at a table conducting a usability test" >}}](https:{{< legacy-img src="/2014/02/usajobs-hallway-test-at-gsa.jpg)
 
 <p dir="ltr">
   <span style="line-height: 1.5em;">Hallway testing is a usability test set-up in a high foot traffic area, utilizing bystanders to test your product. Your participants will be people who happen to be walking down the hall and are able to afford 5-10 minutes of their day. We on the <a href="https://www.usajobs.gov/">USAJOBS</a> team have found hallway tests successful for multiple reasons, most notably the number and variety of test participants available. In the five hallway test sessions we have conducted recently, we averaged better than thirteen participants per test. USAJOBS.gov is open to the general public, therefore we need to ensure that the website is usable for a large and diverse audience. Hallway testing has provided our team the opportunity to interact with a wider range of test participants.</span>

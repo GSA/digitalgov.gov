@@ -38,7 +38,7 @@ The key for a challenge/public prize competition being a good option, he said, i
 
 For more, view Ortega’s slides or the webinar in its entirely below:
 
-[Prizes, Contracts & Grants: What Should I Do?](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/08/Prizes-Contracts-Grants.pdf "Centennial Challenges Program Space Technology Mission Directorate - Prizes, Contracts & Grants: What Should I Do?") (PDF, 7.02 MB, 12 pages)
+[Prizes, Contracts & Grants: What Should I Do?](https:{{< legacy-img src="/2014/08/Prizes-Contracts-Grants.pdf "Centennial Challenges Program Space Technology Mission Directorate - Prizes, Contracts & Grants: What Should I Do?") (PDF, 7.02 MB, 12 pages)
 
 [slideshare id=38261019&doc=prizescontractsgrants-digitalgovtbcorrectedtyposonslides1and2-140822115613-phpapp02&w=600]
 

@@ -62,7 +62,7 @@ tag:
 </p>
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/IMG-20140402-00016.jpg">{{< legacy-img src="2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" >}}</a>
+  <a href="https:{{< legacy-img src="/2014/04/IMG-20140402-00016.jpg">{{< legacy-img src="2014/04/IMG-20140402-00016-533x400.jpg" alt="Workshop participants in an activity" >}}</a>
 </p>
 
 ## 2. Think about user point-of-view

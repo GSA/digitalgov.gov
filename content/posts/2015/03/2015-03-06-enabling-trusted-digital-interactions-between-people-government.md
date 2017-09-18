@@ -29,7 +29,7 @@ Today, people rely heavily on insecure and inefficient means to access federal g
 
 However, these issues may soon be relics of a bygone era. [Connect.Gov](https://www.connect.gov/) is a service that helps reduce agency investment and enables a secure, trusted, and inter-operable method for digital interactions between people and government.
 
-[{{< legacy-img src="2015/02/600-x-286-Before-and-With-ConnectGov.jpg" alt="On the left, it shows 3 examples of how without Connect.gov, you can only use an agency-issued credential for access to that agency’s applications. On the right, it shows how Connect.gov enables you to use a single third-party credential to access multiple agencies’ applications." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/900-x-429-Before-and-With-ConnectGov.jpg)
+[{{< legacy-img src="2015/02/600-x-286-Before-and-With-ConnectGov.jpg" alt="On the left, it shows 3 examples of how without Connect.gov, you can only use an agency-issued credential for access to that agency’s applications. On the right, it shows how Connect.gov enables you to use a single third-party credential to access multiple agencies’ applications." >}}](https:{{< legacy-img src="/2015/02/900-x-429-Before-and-With-ConnectGov.jpg)
 
 Connect.Gov enables federal agencies to provide online services to consumers using government approved externally-issued digital credentials in a convenient, privacy-enhancing and secure manner. Users can choose to leverage a credential of their choice from a trusted [Credential Service Provider (CSP)](https://www.connect.gov/whos-involved/) (e.g., Verizon, ID.me) to access online government services, eliminating the need for agencies to maintain user credentials.
 

@@ -27,7 +27,7 @@ The wording used to identify pages was not clear. The use of program names and a
 
 Acronyms and program names were given brief explanations using plain language for clarity.
 
-## [{{< legacy-img src="2013/12/insite-before.jpg" alt="insite before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-before.jpg)Problem 2: Sliding Boxes Confusing to Users
+## [{{< legacy-img src="2013/12/insite-before.jpg" alt="insite before screen shot" >}}](https:{{< legacy-img src="/2013/12/insite-before.jpg)Problem 2: Sliding Boxes Confusing to Users
 
 The use of sliders in the left-hand side navigation bar confused users and their purpose was not immediately evident to most.
 
@@ -45,6 +45,6 @@ The category links identified as the most important for regular visitors of the 
 
 The below screen capture was taken one month later in October of 2012.
 
-[{{< legacy-img src="2013/12/insite-after.jpg" alt="insite after screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/insite-after.jpg)
+[{{< legacy-img src="2013/12/insite-after.jpg" alt="insite after screen shot" >}}](https:{{< legacy-img src="/2013/12/insite-after.jpg)
 
  

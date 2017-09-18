@@ -17,7 +17,7 @@ tag:
   - responsive web design
 ---
 
-_[{{< legacy-img src="2013/12/aids_ss.jpg" alt="Aids.gov" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
+_[{{< legacy-img src="2013/12/aids_ss.jpg" alt="Aids.gov" >}}](https:{{< legacy-img src="/2013/12/aids_ss.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._ _
   _ 
 
 <a href="http://aids.gov/" rel="nofollow">AIDS.gov</a> implemented an innovative model for responsive design by combining the former AIDS.gov and m.aids.gov to a fluid site accessible on computers, smartphones and tablets. <a title="Mobile Webinar Series Recap: Responsive Design" href="{{< relref "2012-07-02-mobile-webinar-series-recap-responsive-design.md" >}}" rel="nofollow">View the webinar on  AIDs.gov&#8217;s responsive design</a>.

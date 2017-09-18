@@ -12,7 +12,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CX-Hands-239x220.jpg">{{< legacy-img src="2013/12/CX-Hands-239x220.jpg" alt="four hands resting on top of one another" >}}</a>In the <em>Discipline of Market Leaders</em> by <strong>Michael Treacy</strong> and <strong>Fred Wiersema</strong>, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities of operational excellence, product leadership and customer intimacy.
+  <a href="https:{{< legacy-img src="/2013/12/CX-Hands-239x220.jpg">{{< legacy-img src="2013/12/CX-Hands-239x220.jpg" alt="four hands resting on top of one another" >}}</a>In the <em>Discipline of Market Leaders</em> by <strong>Michael Treacy</strong> and <strong>Fred Wiersema</strong>, we learned about the importance of being clear about your strategic priority.  What unique value do you bring to the marketplace and your customers?  In this book, they describe three strategic priorities of operational excellence, product leadership and customer intimacy.
 </p>
 
 <p dir="ltr">

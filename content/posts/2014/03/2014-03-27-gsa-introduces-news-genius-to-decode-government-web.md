@@ -17,7 +17,7 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center;">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">{{< legacy-img src="2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" >}}</a>
+  <a href="https:{{< legacy-img src="/2014/03/photo-4.jpg">{{< legacy-img src="2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" >}}</a>
 </p>
 
 <p dir="ltr">

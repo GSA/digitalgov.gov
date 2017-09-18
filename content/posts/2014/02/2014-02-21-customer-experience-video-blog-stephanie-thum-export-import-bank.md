@@ -12,7 +12,7 @@ tag:
   - Export-Import Bank of the United States
 ---
 
-[{{< legacy-img src="2014/02/stephani-thum-image.jpg" alt="picture of Stephanie Thum" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/stephani-thum-image.jpg)
+[{{< legacy-img src="2014/02/stephani-thum-image.jpg" alt="picture of Stephanie Thum" >}}](https:{{< legacy-img src="/2014/02/stephani-thum-image.jpg)
 
 Stephanie Thum from Ex-Im Bank kicks off our video blog with an introduction to customer experience.
 

@@ -12,7 +12,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <em><a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/blogger-bob.jpg">{{< legacy-img src="2013/07/blogger-bob-229x250.jpg" alt="Photo of a man sitting at his desk typing on a computer." >}}</a>Guest post by Curtis Robert Burns, better known as Blogger Bob, at the Transportation Security Administration (TSA). </em>
+  <em><a href="https:{{< legacy-img src="/2013/07/blogger-bob.jpg">{{< legacy-img src="2013/07/blogger-bob-229x250.jpg" alt="Photo of a man sitting at his desk typing on a computer." >}}</a>Guest post by Curtis Robert Burns, better known as Blogger Bob, at the Transportation Security Administration (TSA). </em>
 </p>
 
 <p dir="ltr">

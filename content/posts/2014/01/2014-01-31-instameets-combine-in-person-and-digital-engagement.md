@@ -13,7 +13,7 @@ tag:
   - National Zoological Park
 ---
 
-[{{< legacy-img src="2014/02/National-Zoo-Panda.jpg" alt="Hands holding the National Zoo's baby panda on a table. Photo: National Zoo." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/National-Zoo-Panda.jpg)Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212;
+[{{< legacy-img src="2014/02/National-Zoo-Panda.jpg" alt="Hands holding the National Zoo's baby panda on a table. Photo: National Zoo." >}}](https:{{< legacy-img src="/2014/02/National-Zoo-Panda.jpg)Federal agencies continue to look for better ways to combine the benefits of online engagement and in-person action &#8212;
 
 **Instameets** can achieve this strategic goal by using **Instagram** with meetups to amplify the vision of your mission.
 

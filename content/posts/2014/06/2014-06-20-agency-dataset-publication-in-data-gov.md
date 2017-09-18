@@ -18,7 +18,7 @@ Not sure how to get your datasets into [Data.gov](http://www.data.gov/)? We’ve
 
 Agencies prepare their enterprise data inventories in data.json format and post them on their websites (agency.gov/data.json), pursuant to the [Open Data Policy](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) and following the guidance and using the tools available on [Project Open Data](http://project-open-data.github.io/). Data.gov also offers a tool called inventory.data.gov that can be used to assist agencies in creating their data inventories.
 
-[{{< legacy-img src="2014/06/600-x-484-DataGov-Agency-JSON-consumption-chart.jpg" alt="600-x-484-DataGov-Agency-JSON-consumption-chart" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/1080-x-872-DataGov-Agency-JSON-consumption-chart.jpg)
+[{{< legacy-img src="2014/06/600-x-484-DataGov-Agency-JSON-consumption-chart.jpg" alt="600-x-484-DataGov-Agency-JSON-consumption-chart" >}}](https:{{< legacy-img src="/2014/06/1080-x-872-DataGov-Agency-JSON-consumption-chart.jpg)
 
  
 

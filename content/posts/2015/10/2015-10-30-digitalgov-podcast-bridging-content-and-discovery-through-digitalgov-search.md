@@ -25,13 +25,13 @@ Recently, search analyst Dawn McCleskey sat down to discuss the work of DigitalG
   * Why the government needs a homegrown search service
   * The challenges of managing a search service for 2,500 websites
   * Future directions for DigitalGov Search
-  * Why you can&#8217;t find everything online (like searching for Ben Franklin&#8217;s jet pack!)<audio class="wp-audio-shortcode" id="audio-324682-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/Podcast-Digitalgov\_Search.mp3?\_=5" />
+  * Why you can&#8217;t find everything online (like searching for Ben Franklin&#8217;s jet pack!)<audio class="wp-audio-shortcode" id="audio-324682-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https:{{< legacy-img src="/2015/10/Podcast-Digitalgov\_Search.mp3?\_=5" />
 
-<https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/Podcast-Digitalgov_Search.mp3></audio> 
+<https:{{< legacy-img src="/2015/10/Podcast-Digitalgov_Search.mp3></audio> 
 
  
 
-To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/Podcast-Digitalgov_Search.mp3). You can also [download and read the transcript](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/DG-Search-Podcast-Oct-2015-Transcript.docx) (4 pages, 9 kb MS Word).
+To listen to the podcast offline, [download the .mp3 file](https:{{< legacy-img src="/2015/10/Podcast-Digitalgov_Search.mp3). You can also [download and read the transcript](https:{{< legacy-img src="/2015/10/DG-Search-Podcast-Oct-2015-Transcript.docx) (4 pages, 9 kb MS Word).
 
 To learn more about DigitalGov Search&#8217;s multilingual efforts, check out the recent article: [Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience]({{< relref "2015-08-31-search-creating-a-good-multilingual-search-experience.md" >}}).
 

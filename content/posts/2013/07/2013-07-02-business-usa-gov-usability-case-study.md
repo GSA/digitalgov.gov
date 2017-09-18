@@ -26,7 +26,7 @@ Users were having difficulty getting to Twitter from the homepage. Also the Twit
 
 It was added twice, to the top right corner and the homepage, to ensure users see it. The icon was made clickable as well.
 
-[{{< legacy-img src="2013/07/Businessusa-before1.jpg" alt="business usa before screen shot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-before1.jpg)
+[{{< legacy-img src="2013/07/Businessusa-before1.jpg" alt="business usa before screen shot" >}}](https:{{< legacy-img src="/2013/07/Businessusa-before1.jpg)
 
 ## Problem 2: Key Menu Items on Homepage Difficult to Access
 
@@ -52,4 +52,4 @@ Users weren&#8217;t sure of the site&#8217;s purpose or what the name &#8220;Bus
 
 The tagline was added right under the logo, which helps give users an idea of the site&#8217;s purpose. By adding a line that states what Business.USA.gov allows the user to do, the user has an easier time understanding the purpose of the site.
 
-[{{< legacy-img src="2013/07/Businessusa-after1.png" alt="Businessusa-after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/Businessusa-after1.png)
+[{{< legacy-img src="2013/07/Businessusa-after1.png" alt="Businessusa-after" >}}](https:{{< legacy-img src="/2013/07/Businessusa-after1.png)
