@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
   };
 
   // The small words we are removing from the filenames and URLs
-  var small_words = /and |the |are |is |of |to |a /gi; // these are the small words we are removing from urls
+  var small_words = /and |the |are |is |of |to /gi; // these are the small words we are removing from urls
 
 
 
@@ -107,14 +107,19 @@ jQuery(document).ready(function($) {
   }
 
   // Makes the filename
-  function filename(d,t) {
+  function get_filename(d,s) {
     var date = d.match(/^[^\s]+/);
-    t = t.replace(small_words, '');
+    var filename = date[0]+'-'+s+'.md';
+    return filename;
+  }
+
+  // Makes the slug: for the front matter
+  function matter_slug(title) {
+    t = title.replace(small_words, '');
     t = t.replace(entityPattern, ' ').trim();
     t = t.replace(/\s+/g,' ').trim();
     var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
-    var filename = date[0]+'-'+slug+'.md';
-    return filename;
+    return slug;
   }
 
   // returns the year and month for use in the filepath on GitHub
@@ -127,24 +132,22 @@ jQuery(document).ready(function($) {
     return yearmo;
   }
 
-  // Makes the slug: for the front matter
-  function matter_slug(title) {
-    t = title.replace(small_words, '');
-    t = title.replace(entityPattern, ' ').trim();
-    t = title.replace(/\s+/g,' ').trim();
-    var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
-    return slug;
-  }
+
 
   // Makes lists in the front matter
   function list_items(d) {
     var list = d.split(',');
     $item = '';
     $item += '\n';
+    var total = list.length;
     $.each( list, function( key, value ) {
       slug = value.replace(entityPattern, ' ').trim();
       slug = slug.replace(/[^a-z0-9]/gi, '-').toLowerCase();
-      $item += '  - ' + $.trim(slug) + '\n';
+      if (key === total - 1) {
+        $item += '  - ' + $.trim(slug);
+      } else{
+        $item += '  - ' + $.trim(slug) + '\n';
+      }
     });
     return $item;
   }
@@ -219,6 +222,9 @@ jQuery(document).ready(function($) {
   // Prints the front-matter in a DIV on the page
   function print_matter(data){
     var post_type = get_post_type(); // gets the post type
+    var title = escapeHtml(data['m_title']);
+    var slug = matter_slug(data['m_title']);
+    var filename = get_filename(data['m_date'], slug);
 
     // Checks to see what the post type is and prints the front-matter for each type
     // ========================================
@@ -227,20 +233,22 @@ jQuery(document).ready(function($) {
       // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag');
       var matter = [
         "---",
-          "slug: " + matter_slug(data['m_title']),
+          "slug: " + slug,
           "date: " + data['m_date'],
-          "title: '" + escapeHtml(data['m_title']) + "'",
+          "title: '" + title + "'",
           "summary: '" + escapeHtml(data['m_summary']) + "'",
           "authors: " + list_items(data['m_authors']),
           "categories: " + list_items(data['m_categories']),
           "tag: " + list_items(data['m_tag']),
+          "featured_image: " + '',
+          "  uid: " + data['m_featuredimg'],
+          "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
         "---",
         ,
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
-      console.log(newfile);
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body;
 
 
 
@@ -250,16 +258,16 @@ jQuery(document).ready(function($) {
       // show_fields('m_date, m_title, m_summary');
       var matter = [
         "---",
-          "slug: " + matter_slug(data['m_title']),
+          "slug: " + slug,
           "date: " + data['m_date'],
-          "title: '" + escapeHtml(data['m_title']) + "'",
+          "title: '" + title + "'",
           "summary: '" + escapeHtml(data['m_summary']) + "'",
         "---",
         ,
         "***Paste content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename+'&value='+body;
 
 
 
@@ -274,12 +282,15 @@ jQuery(document).ready(function($) {
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
-            "slug: " + matter_slug(data['m_title']),
-            "title: '" + escapeHtml(data['m_title']) + "'",
+            "slug: " + slug,
+            "title: '" + title + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "featured_image: " + '',
+            "  uid: " + data['m_featuredimg'],
+            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
@@ -295,19 +306,21 @@ jQuery(document).ready(function($) {
 
 
 
-
       // ========================================
       // Online EVENT
       } else {
         // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
         var matter = [
           "---",
-            "slug: " + matter_slug(data['m_title']),
-            "title: '" + escapeHtml(data['m_title']) + "'",
+            "slug: " + slug,
+            "title: '" + title + "'",
             "summary: '" + escapeHtml(data['m_summary']) + "'",
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "featured_image: " + '',
+            "  uid: " + data['m_featuredimg'],
+            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
@@ -322,11 +335,11 @@ jQuery(document).ready(function($) {
       }
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename(data['m_date'], data['m_title'])+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body;
     }
 
     $('#post-matter').text(matter);
-    $('#filename').text(filename(data['m_date'], data['m_title']));
+    $('#filename').text(filename);
     $('#newfile').attr('href', newfile);
   }
 

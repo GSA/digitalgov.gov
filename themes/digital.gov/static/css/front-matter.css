@@ -40,7 +40,8 @@
   color:#fff;
 }
 
-.matter-container h1{
+.matter-container h1,
+.matter-container p{
   text-align: center;
 }
 
@@ -142,7 +143,11 @@
 }
 
 .gcol2 #newfile {
+  padding:10px 20px;
   font-weight: bold;
+  background: #3F4FFF;
+  color:#fff;
+  display: block;
 }
 .gcol2 .mttr{
   margin: 0;

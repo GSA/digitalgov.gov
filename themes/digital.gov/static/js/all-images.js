@@ -27,6 +27,10 @@ jQuery(document).ready(function($) {
       var height = img['height'];
       var date = img['date'];
       var uid = img['uid'];
+      var credit = img['credit'];
+      var caption = img['caption'];
+      var alt = img['alt'];
+      console.log('alt '+alt);
       var format = img['format'];
       var all_sizes = get_all_image_sizes(uid, format, width, height);
 
@@ -48,10 +52,15 @@ jQuery(document).ready(function($) {
             "<img src='"+thumb+"'>",
           "</div>",
           "<div class='img-data'>",
-            "<p>"+filename+"</p>",
-            "<p>"+date+"</p>",
+            "<p><strong>date:</strong> "+date+"</p>",
+            "<p><strong>file:</strong> "+filename+"</p>",
+            "<p><strong>uid:</strong> "+uid+"</p>",
+            "<p><strong>credit:</strong> "+credit+"</p>",
+            "<p><strong>caption:</strong> "+caption+"</p>",
+            "<p><strong>alt:</strong> "+alt+"</p>",
+            "<p><strong>shortcode:</strong></p>",
             "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
-            "<p><a href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+uid+".yml' title='view on GitHub'>View on GitHub »</a></p>",
+            "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
           "</div>",
         "</div>"
       ].join("\n");
