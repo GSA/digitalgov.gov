@@ -50,7 +50,8 @@ a.edit_file span{
 	font-weight: bold;
 	font-size: 16px;
 }
-a.edit_file img{
+#wrap a.edit_file img{
+	display: inline;
 	margin-right: 7px;
 	height: 21px;
 }
