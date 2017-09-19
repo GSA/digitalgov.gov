@@ -14,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/user-experience-community-baseball.jpg">{{< legacy-img src="2014/01/user-experience-community-baseball.jpg" alt="People at a baseball stadium" >}}</a>I’m the kind of guy who loves tests. Not SATs, or BMI tests, but usability tests: connecting target customers with a government website and watching how they interact with it. Our <a href="{{< tmp "resources/user-experience-program.md" >}}">DigitalGov User Experience Program</a> (formerly known as First Fridays)<a href="http://www.howto.gov/firstfridays"> </a>has taught dozens of agencies how to conduct these vital tests, and we even created a monthly group to talk about how to run these tests, and make them better.
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/user-experience-community-baseball.jpg">{{< legacy-img src="2014/01/user-experience-community-baseball.jpg" alt="People at a baseball stadium" >}}</a>I’m the kind of guy who loves tests. Not SATs, or BMI tests, but usability tests: connecting target customers with a government website and watching how they interact with it. Our <a href="{{< tmp "resources/user-experience-program.md" >}}">DigitalGov User Experience Program</a> (formerly known as First Fridays)<a href="http://www.howto.gov/firstfridays"> </a>has taught dozens of agencies how to conduct these vital tests, and we even created a monthly group to talk about how to run these tests, and make them better.
 </p>
 
 <p dir="ltr">

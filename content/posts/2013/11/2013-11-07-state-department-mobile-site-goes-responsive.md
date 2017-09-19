@@ -12,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{{< legacy-img src="2013/11/State-Mobile-Site.png" alt="Smartphone screen shot showing the home page of the Department of State's mobile site with Top Stories and Other news. It shows a photo of Secretary Kerry and the prime minister of Israel, then the first paragraph of the story below it." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/State-Mobile-Site.png)The [Department of State](http://www.state.gov/) has updated their mobile website [m.state.gov](http://m.state.gov) with responsive design.  The site auto-detects mobile devices and displays the State mobile site by default.
+[{{< legacy-img src="2013/11/State-Mobile-Site.png" alt="Smartphone screen shot showing the home page of the Department of State's mobile site with Top Stories and Other news. It shows a photo of Secretary Kerry and the prime minister of Israel, then the first paragraph of the story below it." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/State-Mobile-Site.png)The [Department of State](http://www.state.gov/) has updated their mobile website [m.state.gov](http://m.state.gov) with responsive design.  The site auto-detects mobile devices and displays the State mobile site by default.
 
 State&#8217;s mobile site provides the latest foreign policy information from the State Department. Included are recent stories from the Secretary’s travels, the daily press briefing, country fact sheets, human rights reports, and more.
 

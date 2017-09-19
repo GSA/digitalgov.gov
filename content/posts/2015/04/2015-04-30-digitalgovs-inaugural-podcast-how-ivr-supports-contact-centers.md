@@ -22,9 +22,9 @@ For the first edition, we talked to Diane ​Devera, &#8220;Voice of the IVR&#82
   * What are current trends for IVRs?
   * What does the 1-844-USA-GOV1 team have in store for the future of its IVR?
 
-<!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-268992-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Voice-of-IVR-Podcast.mp3?_=1" />
+<!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-268992-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s3.amazonaws.com/digitalgov/legacy-img/2015/04/Voice-of-IVR-Podcast.mp3?_=1" />
 
-<https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Voice-of-IVR-Podcast.mp3></audio> 
+<https://s3.amazonaws.com/digitalgov/legacy-img/2015/04/Voice-of-IVR-Podcast.mp3></audio> 
 
  
 

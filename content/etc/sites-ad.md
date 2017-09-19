@@ -7,7 +7,7 @@ authors:
   - tburwell
 ---
 
-[{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/logo.png" alt="DigitalGov logo 792 x 125" >}}](http://www.DigitalGov.gov)
+[{{< legacy-img src="/2014/01/logo.png" alt="DigitalGov logo 792 x 125" >}}](http://www.DigitalGov.gov)
 
 <h1 style="text-align: center">
   Want to learn more about Sites.USA.gov?
@@ -15,7 +15,7 @@ authors:
 
 [**Sites**](https://sites.usa.gov/) is designed to enable the rapid deployment of public facing federal government websites* for the purpose of providing public information in a secure and readily accessible environment.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/678-x-385-SITES-presentation3.jpg" alt="Sites Get Started" >}}
+{{< legacy-img src="/2015/05/678-x-385-SITES-presentation3.jpg" alt="Sites Get Started" >}}
 
 ## **Provide the information below:**
 

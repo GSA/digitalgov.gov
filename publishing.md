@@ -42,6 +42,19 @@ Here is an example post: https://raw.githubusercontent.com/GSA/digitalgov.gov/de
 The digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
 
 - - -
+### Adding a new Author
+
+All of our authors are in separate data files:
+https://github.com/GSA/digitalgov.gov/tree/demo/data/people/authors
+
+To make a new author:
+1. Copy the text/data from one of the existing author data files
+2. Create a new one in the authors folder (parent folder)
+3. Commit the fire directly to the `demo` branch
+
+`Note:` Watch out for special characters `"$&:/@` in the author files.
+
+- - -
 ### Creating a Redirect
 
 A redirect is when you need to make traffic that is going to one URL, arrive at another.

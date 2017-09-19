@@ -1,3 +1,21 @@
+jQuery(document).ready(function($) {
+
+
+// Transforms the Edit link on posts/pages/events to point to the GitHub file
+function transform_edit_file_link(){
+	// If there is an edit link on the page
+	if ( $('.entry .edit_file').length ) {
+		var data = $('.edit_file'); // get the edit link data
+		var filepath = $(data).attr('data-filepath'); // the filename in GitHub
+		var github_file_path = 'https://github.com/GSA/digitalgov.gov/blob/demo/content/'+filepath;
+		$(data).attr('href', github_file_path);
+	}
+}
+transform_edit_file_link();
+});
+
+
+
 function externalLinks() {
 	if (!document.getElementsByTagName) return;
 	var anchors = document.getElementsByTagName("a");

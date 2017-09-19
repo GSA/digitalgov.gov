@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[<img class="alignright  wp-image-102402" alt="Hand holding an iPad, other hand holding a credit card." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/online-shopping-ipad.jpg" width="461" height="259" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/online-shopping-ipad.jpg)Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please.
+[<img class="alignright  wp-image-102402" alt="Hand holding an iPad, other hand holding a credit card." src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/online-shopping-ipad.jpg" width="461" height="259" />](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/online-shopping-ipad.jpg)Cyber Monday, billed as one of the busiest online-commerce days of the year, is spilling into the rest of the holiday season as more consumers use mobile devices to shop whenever they please.
 
 Shoppers are no longer waiting to return to work on the Monday after Thanksgiving to surf and complete web deals. Consumers armed with tablets and smartphones are stretching the Cyber-Monday sales over a longer period according to [Bloomberg](http://www.bloomberg.com/news/2013-11-25/cyber-monday-every-day-as-iphone-users-shun-retail-stores.html).
 

@@ -47,7 +47,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Checklist of Requirements for Federal Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2014/01/hp-featured-pg-348-x-226-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist of Requirements for Federal Digital Services" >}}</a>
+          <a title="Permanent Link to Checklist of Requirements for Federal Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}" rel="bookmark">{{< legacy-img src="/2014/01/hp-featured-pg-348-x-226-Checklist-Robyn-Mackenzie-iStock-Thinkstock-GettyImages_105492580.jpg" alt="Checklist of Requirements for Federal Digital Services" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -63,7 +63,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to U.S. Web Design Standards" href="https://standards.usa.gov/" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/featured-hp-348-x-226-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="U.S. Web Design Standards" >}}</a>
+          <a title="Permanent Link to U.S. Web Design Standards" href="https://standards.usa.gov/" rel="bookmark">{{< legacy-img src="/2016/09/featured-hp-348-x-226-US-Web-Design-Standards-desktop-tablet-and-phone-home.jpg" alt="U.S. Web Design Standards" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -79,7 +79,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Paperwork Reduction Act Fast Track Process" href="{{< relref "paperwork-reduction-act-fast-track-process.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2014/01/hp-featured-pg-348-x-226-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Paperwork Reduction Act Fast Track Process" >}}</a>
+          <a title="Permanent Link to Paperwork Reduction Act Fast Track Process" href="{{< relref "paperwork-reduction-act-fast-track-process.md" >}}" rel="bookmark">{{< legacy-img src="/2014/01/hp-featured-pg-348-x-226-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Paperwork Reduction Act Fast Track Process" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -97,7 +97,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)" href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm" rel="bookmark">{{< legacy-img src="CDN/files/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)" >}}</a>
+          <a title="Permanent Link to Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)" href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Plain Language Guidelines by The Plain Language Action and Information Network (PLAIN)" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -113,7 +113,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2015/01/hp-featured-pg-348-x-226-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" >}}</a>
+          <a title="Permanent Link to Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="/2015/01/hp-featured-pg-348-x-226-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -129,7 +129,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Customer Experience Toolkit" href="{{< relref "customer-experience-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2015/07/hp-featured-348-x-226-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Customer Experience Toolkit" >}}</a>
+          <a title="Permanent Link to Customer Experience Toolkit" href="{{< relref "customer-experience-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="/2015/07/hp-featured-348-x-226-Business-Customer-Concept-olm26250-iStock-Thinkstock-186319706.jpg" alt="Customer Experience Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -147,7 +147,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Crowdsourcing Toolkit" href="{{< relref "2015-09-30-how-ostp-crowdsourced-a-crowdsourcing-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-348-x-226-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Crowdsourcing Toolkit" >}}</a>
+          <a title="Permanent Link to Crowdsourcing Toolkit" href="{{< relref "2015-09-30-how-ostp-crowdsourced-a-crowdsourcing-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Different-teams-cogal-iStock-Thinkstock-123211708.jpg" alt="Crowdsourcing Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -163,7 +163,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Improving the Accessibility of Social Media in Government Toolkit" href="{{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2014/06/hp-featured-pg-348-x-226-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Improving the Accessibility of Social Media in Government Toolkit" >}}</a>
+          <a title="Permanent Link to Improving the Accessibility of Social Media in Government Toolkit" href="{{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}" rel="bookmark">{{< legacy-img src="/2014/06/hp-featured-pg-348-x-226-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Improving the Accessibility of Social Media in Government Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -179,7 +179,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to DigitalGov Resources Page" href="{{< relref "resources.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-348-x-226-Book-PashaIgnatov-iStock-Thinkstock-471406633.jpg" alt="DigitalGov Resources Page" >}}</a>
+          <a title="Permanent Link to DigitalGov Resources Page" href="{{< relref "resources.md" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Book-PashaIgnatov-iStock-Thinkstock-471406633.jpg" alt="DigitalGov Resources Page" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -199,7 +199,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Modular Design or Structured Content" href="{{< relref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-348-x-226-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular Design or Structured Content" >}}</a>
+          <a title="Permanent Link to Modular Design or Structured Content" href="{{< relref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-atomic-design-by-Brad-Frost-CC-BY-4-0.jpg" alt="Modular Design or Structured Content" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -215,7 +215,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Content Management Systems Toolkit" href="{{< relref "2013-10-30-content-management-systems-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-pg-348-x-226-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="Content Management Systems Toolkit" >}}</a>
+          <a title="Permanent Link to Content Management Systems Toolkit" href="{{< relref "2013-10-30-content-management-systems-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-pg-348-x-226-Vector-cms-round-icon-nickylarson974-iStock-Thinkstock-486974655.jpg" alt="Content Management Systems Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -231,7 +231,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Helping Your Content Contributors" href="{{< relref "2015-10-19-the-content-corner-helping-your-content-contributors.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-348-x-226-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Helping Your Content Contributors" >}}</a>
+          <a title="Permanent Link to Helping Your Content Contributors" href="{{< relref "2015-10-19-the-content-corner-helping-your-content-contributors.md" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Helping Your Content Contributors" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -247,7 +247,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Check out all the articles related to content" href="({{< link "categories/content" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/09/hp-featured-348-x-226-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Check out all the articles related to content" >}}</a>
+          <a title="Permanent Link to Check out all the articles related to content" href="({{< link "categories/content" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Check out all the articles related to content" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -259,11 +259,11 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />

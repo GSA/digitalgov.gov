@@ -15,7 +15,7 @@ tag:
   - social media metrics
 ---
 
-[{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)
+[{{< legacy-img src="2015/09/600-x-313_1019-pm-274-629-PEAK-full-eclipse1.jpg" alt="A screen capture from Analytics.USA.gov shows that 274,629 people visited U.S. governnment websites at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)
 
 NASA&#8217;s reach over the last 24 hours eclipsed that of the regulars typically seen in [government digital metrics](https://analytics.USA.gov). But, all agencies can drive the conversation and accomplish a similar feat with a good [content strategy]({{< relref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).
 
@@ -53,7 +53,7 @@ Microblog tumblr users also got in on the [#SuperBloodMoon](https://www.tumblr.c
 
 **Analytics.USA.gov**
 
-[{{< legacy-img src="2015/09/250-x-683_1019-pm-Top-20-pages-274-629-PEAK-full-eclipse.jpg" alt="A screen capture from Analytics.USA.gov shows that NASA websites held 17 of the Top 20 visited pages, including the first 9 spots, at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)At 8:45 pm, about 20 minutes before the first partial eclipse began, [Analytics.USA.gov](https://analytics.USA.gov), which updates every minute, reported 157,796 people were visiting U.S. government websites. NASA had 13 of the Top 20 and held the first 7 spots. As the night progressed, so did the numbers.
+[{{< legacy-img src="2015/09/250-x-683_1019-pm-Top-20-pages-274-629-PEAK-full-eclipse.jpg" alt="A screen capture from Analytics.USA.gov shows that NASA websites held 17 of the Top 20 visited pages, including the first 9 spots, at 10:19 pm on September 27, 2015 during the Super Blood Moon lunar eclipse." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/09/1080-x-1285_1019-pm-274-629-PEAK-full-eclipse.jpg)At 8:45 pm, about 20 minutes before the first partial eclipse began, [Analytics.USA.gov](https://analytics.USA.gov), which updates every minute, reported 157,796 people were visiting U.S. government websites. NASA had 13 of the Top 20 and held the first 7 spots. As the night progressed, so did the numbers.
 
 **9:07 pm: start of first partial eclipse**
   

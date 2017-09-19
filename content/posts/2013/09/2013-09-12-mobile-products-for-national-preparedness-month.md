@@ -12,7 +12,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[<img class="alignright  wp-image-120532" alt="Ready.gov Logo with Dad, Mom, Daughter and cat family of 'superheros'" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px-450x300.jpg" width="360" height="240" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px.jpg)September is [National Preparedness Month](http://www.ready.gov/) and there are a number of government mobile products to help you prepare for emergencies.
+[<img class="alignright  wp-image-120532" alt="Ready.gov Logo with Dad, Mom, Daughter and cat family of 'superheros'" src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px-450x300.jpg" width="360" height="240" />](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/National_Preparedness_Month_2013_YouCanBeTheHero_600px.jpg)September is [National Preparedness Month](http://www.ready.gov/) and there are a number of government mobile products to help you prepare for emergencies.
 
 [FEMA](www.fema.gov)&#8216;s [mobile app](http://www.fema.gov/smartphone-app) contains preparedness information for different types of disasters, an interactive checklist for emergency kits, a section to plan emergency meeting locations, information on how to stay safe and recover after a disaster, a map with FEMA Disaster Recovery Center locations (one-stop centers where disaster survivors can access key relief services) and Shelters, general ways the public can get involved before and after a disaster, and the FEMA blog.
 

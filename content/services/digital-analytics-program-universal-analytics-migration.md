@@ -29,7 +29,7 @@ To ensure uniformity and consistency in reporting across agencies and government
 
 This transfer will NOT affect your local GA data as it’s just transferring everything behind the scenes at Google to the new “processing technology” to prepare your local GA account for migrating to DAP UA. The transfer only takes a few clicks from your Admin console in your local GA account (see the image below), and takes 24-48 hours to complete.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/10/290-x-122-UA-upgrade.jpg" alt="Universal Analytics upgrade" >}}
+{{< legacy-img src="/2014/10/290-x-122-UA-upgrade.jpg" alt="Universal Analytics upgrade" >}}
 
 You can view more information about [transferring your local GA account/property to UA](https://developers.google.com/analytics/devguides/collection/upgrade/guide#overview).
 

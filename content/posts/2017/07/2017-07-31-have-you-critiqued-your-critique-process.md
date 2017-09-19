@@ -3,17 +3,17 @@ slug: have-you-critiqued-your-critique-process
 date: 2017-07-31 12:00:00 -0400
 title: 'Have You Critiqued Your Critique Process?'
 summary: 'DEMO Whenever I hear someone complain about the process of a design critique, I’m always a bit surprised. Blame it on the fact'
-authors: 
+authors:
   - Meghan Lazier
 
-categories: 
+categories:
   - Design
   - Managing Digital
   - Strategy and Policy
   - User Testing and Research
   - UX
 
-tag: 
+tag:
   - Best Practices
   - User Experience
   - UX
@@ -24,9 +24,7 @@ Whenever I hear someone complain about the process of a design critique, I’m a
 
 But translating the rules and reasons for critique from a classroom to the workplace can take a bit of practice. I’ll outline some basic guidelines for starting a process of critique on your government design team, and suggest additional tips to make a critique session more useful to your final outcomes.
 
-IMAGE - https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2017/07/600-x-400-Teamwork-New-product-researching-Startup-crew-littlehenrabi-iStock-Thinkstock-538362390.jpg 
-alt: A close-up of three people viewing something on a laptop.
-caption: littlehenrabi/iStock/Thinkstock
+{{< legacy-img src="2017/07/600-x-400-Teamwork-New-product-researching-Startup-crew-littlehenrabi-iStock-Thinkstock-538362390.jpg" alt="A close-up of three people viewing something on a laptop." caption="littlehenrabi/iStock/Thinkstock" >}}
 
 ## Know Your Role
 

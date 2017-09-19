@@ -23,7 +23,7 @@ At [DigitalGov Search]({{< relref "search.md" >}}), we keep an eye on on our wha
 
 ## Use and Contribute to Open Source Projects
 
-[{{< legacy-img src="2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Open-Source-250-x-167-software-code-476999627.png) 
+[{{< legacy-img src="2014/03/Open-Source-250-x-167-software-code-476999627.png" alt="Image of HTML code and scripts" caption="" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/Open-Source-250-x-167-software-code-476999627.png) 
 
 Since 2010, we&#8217;ve embraced and leveraged open source software to build our site search service for federal, state, and local government websites. This use of open source has allowed us to experience enormous growth over the past few years. In March 2013 alone, over 24 million searchers received results from our service—a four-fold increase since March 2010.
 

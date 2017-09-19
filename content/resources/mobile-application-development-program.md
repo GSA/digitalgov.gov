@@ -13,7 +13,7 @@ authors:
   </p>
 </blockquote>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" >}}
+{{< legacy-img src="/2015/02/600-x-418-Mobile-app-description1.jpg" alt="Mobile Application Development Program: Plan, Develop, Test, Launch" >}}
 
   * **Plan**—Build a mobile strategy, see what other agencies have done, use new acquisitions tools to find top mobile developers.
   * **Develop—**Create great mobile apps and sites using mobile user experience guidelines. Jump start development by leveraging pre-existing code.

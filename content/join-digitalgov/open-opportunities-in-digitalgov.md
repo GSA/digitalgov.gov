@@ -13,7 +13,7 @@ authors:
   <a class="button" title="OpenOppsinDigitalGov" href="https://openopps.WHATEVER/">Get Started</a>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/07/image-of-interlocking-hands.jpg" alt="Photo of Interlocking hands" >}}Every agency at every level of government has a role in creating digital government. There are great opportunities to solve the problems in your agencies and to engage your high-performing staff with cutting-edge projects across agency bounds.
+{{< legacy-img src="/2013/07/image-of-interlocking-hands.jpg" alt="Photo of Interlocking hands" >}}Every agency at every level of government has a role in creating digital government. There are great opportunities to solve the problems in your agencies and to engage your high-performing staff with cutting-edge projects across agency bounds.
 
 <p style="text-align: left">
   Through our Open Opportunities in DigitalGov network, we&#8217;re building a cooperative enterprise that draws on resources from across government to leverage the expertise of forward-leaning agencies. We’re looking at innovative staffing arrangements, multi-agency teams, and ways to tap specialized expertise and skills for quick turnaround tasks.

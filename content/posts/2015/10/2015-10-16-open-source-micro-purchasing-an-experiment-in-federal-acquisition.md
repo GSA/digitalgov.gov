@@ -26,7 +26,7 @@ There are several reasons we’re trying this experiment. But perhaps the most i
 
 An animation of how the CALC tool works A demonstration of our CALC tool, which we will use for this micro-purchase experiment.
 
-[{{< legacy-img src="2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/calc_demo.gif)
+[{{< legacy-img src="2015/10/600-x-361-Screen-capture-of-CALC-demo-gif.jpg" alt="Screen capture of the CALC demo animated gif. Click image to view full 2 megabyte gif." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/10/calc_demo.gif)
 
 ## How will it work?
 

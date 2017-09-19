@@ -10,7 +10,7 @@ authors:
 It’s always best to test a product BEFORE you release it. So the best time to evaluate the usability of a product is as early as possible, including when you are creating wireframes and prototypes.
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg">{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/usability-test-support.jpg" alt="Picture of two people talking at a computer" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/usability-test-support.jpg">{{< legacy-img src="/2014/01/usability-test-support.jpg" alt="Picture of two people talking at a computer" >}}</a>
 </p>
 
 But even if you’ve gone past that point (or even if your site is live) you can still find points of user frustration and fix them through a usability test or evaluation.

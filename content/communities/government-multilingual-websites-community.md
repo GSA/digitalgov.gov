@@ -29,7 +29,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
+          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -45,7 +45,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Agencias y Departamentos del Gobierno Federal" href="https://gobierno.usa.gov/agencias-federales/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Agencias-y-Departamentos-del-Gobierno-Federal-on-GobiernoUSAgov.jpg" alt="Agencias y Departamentos del Gobierno Federal" >}}</a>
+          <a title="Permanent Link to Agencias y Departamentos del Gobierno Federal" href="https://gobierno.usa.gov/agencias-federales/" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Agencias-y-Departamentos-del-Gobierno-Federal-on-GobiernoUSAgov.jpg" alt="Agencias y Departamentos del Gobierno Federal" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -61,7 +61,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Spanish Language Style Guide and Glossaries" href="{{< relref "spanish-language-style-guide-and-glossaries.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Blackboard-in-Spanish-Class-Fuse-Thinkstock-78819902.jpg" alt="Spanish Language Style Guide and Glossaries" >}}</a>
+          <a title="Permanent Link to Spanish Language Style Guide and Glossaries" href="{{< relref "spanish-language-style-guide-and-glossaries.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Blackboard-in-Spanish-Class-Fuse-Thinkstock-78819902.jpg" alt="Spanish Language Style Guide and Glossaries" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -77,11 +77,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Accessibility Editorial Guidelines for YouTube" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-GobiernoUSA-YouTube-composite.jpg" alt="Accessibility Editorial Guidelines for YouTube" >}}</a>
+          <a title="Permanent Link to Accessibility Editorial Guidelines for YouTube" href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-GobiernoUSA-YouTube-composite.jpg" alt="Accessibility Editorial Guidelines for YouTube" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc">Accessibility Editorial Guidelines for YouTube</a> (MS Word .doc, 56 kb)
+          <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc">Accessibility Editorial Guidelines for YouTube</a> (MS Word .doc, 56 kb)
         </h4>
       </div>
     </div>
@@ -93,7 +93,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Lost in Translation" href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
+          <a title="Permanent Link to Lost in Translation" href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -117,7 +117,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multilingual Digital Content" href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
+          <a title="Permanent Link to Multilingual Digital Content" href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -133,7 +133,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
+          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -149,7 +149,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
+          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -165,7 +165,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
+          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -181,7 +181,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
+          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -197,7 +197,7 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Read more Multilingual articles" href="({{< link "tag/multilingual" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/hp-featured-348-x-226-Foreign-languages-learn-and-translate-education-concept-cybrain-iStock-Thinkstock-491619082.jpg" alt="Read more Multilingual articles" >}}</a>
+          <a title="Permanent Link to Read more Multilingual articles" href="({{< link "tag/multilingual" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Foreign-languages-learn-and-translate-education-concept-cybrain-iStock-Thinkstock-491619082.jpg" alt="Read more Multilingual articles" >}}</a>
         </div>
 
         <h4 class="post-title">
