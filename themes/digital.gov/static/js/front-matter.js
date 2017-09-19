@@ -1,5 +1,7 @@
 jQuery(document).ready(function($) {
 
+
+
   // Step 1. Add into this string the characters to look for
   var entityPattern = /[&<>"'`)(=+:*@.?$%\/]/g;
   // Step 2. Add a new line that contains the HTML character and the entity that you want it transformed into

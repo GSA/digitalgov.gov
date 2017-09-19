@@ -34,11 +34,3 @@ The Digital Government Division is a cooperative enterprise that draws on resour
   * [Subscribe to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
 
 * * *
-
-## Posts About Us
-
-[display-posts category=&#8221;our-work&#8221; include\_excerpt=&#8221;true&#8221; image\_size=&#8221;thumbnail&#8221; posts\_per\_page=&#8221;5&#8243; wrapper=&#8221;ul&#8221;]
-
-
-
-[>>Site Policies]({{< relref "policies.md" >}} "Policies")
