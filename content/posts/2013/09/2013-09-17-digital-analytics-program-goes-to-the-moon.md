@@ -49,7 +49,7 @@ In addition to the mobile insight, we got our usual traffic metrics:
 
 All told, this added up to our third-biggest traffic day since we started using DAP GA in February:
 
-[{{< legacy-img src="2014/05/600-x-123-NASA-DAP-Digital-Analytics-Program-3.jpg" alt="Digital Analytics Program DAP stats showing a spike in traffic" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/05/1079-x-222-NASA-DAP-Digital-Analytics-Program-3.jpg)
+[{{< legacy-img src="2014/05/600-x-123-NASA-DAP-Digital-Analytics-Program-3.jpg" alt="Digital Analytics Program DAP stats showing a spike in traffic" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/05/1079-x-222-NASA-DAP-Digital-Analytics-Program-3.jpg)
 
 **Frog Footnote**
 

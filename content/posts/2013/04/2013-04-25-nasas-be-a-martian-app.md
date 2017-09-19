@@ -14,7 +14,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{{< legacy-img src="2013/04/NASA\_BeAMartian\_App1.jpg" alt="NASA's Be a Martian App Screenshot" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/04/NASA_BeAMartian_App1.jpg)Solar System fans, space shuttles are not the only way you can visit a planet!
+[{{< legacy-img src="2013/04/NASA\_BeAMartian\_App1.jpg" alt="NASA's Be a Martian App Screenshot" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/04/NASA_BeAMartian_App1.jpg)Solar System fans, space shuttles are not the only way you can visit a planet!
 
 In July 2012, the [Jet Propulsion Laboratory at NASA](http://www.jpl.nasa.gov/) developed a mobile app called “[NASA Be A Martian](http://www.jpl.nasa.gov/apps/index.php?cid=home_apps_beamartian#beamartian)”, which allows you to become a Martian citizen on planet Mars. A Martian citizen can explore images, videos and animations on an iOS, Android or Windows mobile device. The images, videos and animations deliver an epic view of the rocky terrestrial planet, known as the Red Planet. The photography and videography on the “NASA Be A Martian” mobile app, makes the user feel like he or she has experienced a mission to Mars.
 

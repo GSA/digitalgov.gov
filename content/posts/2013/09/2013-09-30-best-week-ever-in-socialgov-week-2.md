@@ -43,7 +43,7 @@ The SocialGov Community of Practice thanks Social Media Club DC for inviting us 
 
 ### **Pentagon IG social media program marks two-year anniversary**
 
-[{{< legacy-img src="2013/09/DoD-IG.jpg" alt="image of Defense Inspector General team." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/DoD-IG.jpg)Congratulations to the the **Department of Defense&#8217;s Inspector General (IG) social media team**, that turns two years-old this month and quickly rose to lead an engaged community.
+[{{< legacy-img src="2013/09/DoD-IG.jpg" alt="image of Defense Inspector General team." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/DoD-IG.jpg)Congratulations to the the **Department of Defense&#8217;s Inspector General (IG) social media team**, that turns two years-old this month and quickly rose to lead an engaged community.
   
 Their social media efforts have greatly expanded over the past two years since it issued its first tweet on September 16, 2011. To illustrate, on Friday, September 20, the **Tampa Tribune** led its story, “[Centcom asked to revise plan for how U.S., Iraqi military will interact](http://tbo.com/list/military-news/centcom-asked-to-revise-plan-for-how-us-iraqi-military-will-interact-20130920/)” with a reference to a DoD IG tweet on their report of the same topic.  It’s notable that a single, succinct tweet on policy can inspire an entire news story.
   
@@ -53,13 +53,13 @@ They are now more than 100 members strong after one year, four meetings and the 
 
 ### **Army hosts Twitter chat in support of Suicide Prevention Month**
 
-[{{< legacy-img src="2013/09/Army-1.jpg" alt="Image of Army chaplains holding Twitter chat." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Army-1.jpg)The **[Army&#8217;s Online and Social Media Division](http://www.army.mil/media/socialmedia/)** hosted a Twitter chat Sept. 26 in conjunction with representatives from the **Office of the Chief of Chaplains** and the **[U.S. Army Suicide Prevention Program](http://1.usa.gov/190vFC6)** in support of **Suicide Prevention Month**.
+[{{< legacy-img src="2013/09/Army-1.jpg" alt="Image of Army chaplains holding Twitter chat." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/Army-1.jpg)The **[Army&#8217;s Online and Social Media Division](http://www.army.mil/media/socialmedia/)** hosted a Twitter chat Sept. 26 in conjunction with representatives from the **Office of the Chief of Chaplains** and the **[U.S. Army Suicide Prevention Program](http://1.usa.gov/190vFC6)** in support of **Suicide Prevention Month**.
 
 This sparked a dialogue with Twitter users about the **Army Chaplain Corps&#8217;** work to cultivate spiritual resilience and [**Army G1**&#8216;](http://www.armyg1.army.mil/)s work to reduce the stigma associated with getting help. During this hour-long engagement, representatives answered nearly every user&#8217;s question, ranging from suicide prevention resources to suicide risk factors to training and policy. Be sure to check out [a list of the Q&As](http://storify.com/USArmy/armychat-about-armysuicideprevention) from the chat to see how they made it happen.
 
 ### **Ciao Italia! A delegation from Italy visits to discuss digital government**
 
-[{{< legacy-img src="2013/09/Italians-1.jpg" alt="Image of meeting with Italian digital delegation." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/Italians-1.jpg)Rome wasn&#8217;t built in a day, and neither is a great idea. The team at **[ItaliaCamp](http://www.italiacamp.it/)** visited GSA last week to discuss how their international ideation program is helping innovators breathe life into their best ideas and make them a reality for all to benefit from.
+[{{< legacy-img src="2013/09/Italians-1.jpg" alt="Image of meeting with Italian digital delegation." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/Italians-1.jpg)Rome wasn&#8217;t built in a day, and neither is a great idea. The team at **[ItaliaCamp](http://www.italiacamp.it/)** visited GSA last week to discuss how their international ideation program is helping innovators breathe life into their best ideas and make them a reality for all to benefit from.
 
 [ItaliaCamp](http://www.italiacamp.it/) is an unconference that promotes and supports social innovation and the development of new ideas as answers to real needs. Its purpose is to fill the gap between ideas and their implementation.
 

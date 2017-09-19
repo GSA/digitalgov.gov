@@ -25,7 +25,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Good Content Needs Plain Language" href="{{< relref "2015-12-23-good-content-needs-plain-language.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/hp-featured-348-x-226-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="Good Content Needs Plain Language" >}}</a>
+          <a title="Permanent Link to Good Content Needs Plain Language" href="{{< relref "2015-12-23-good-content-needs-plain-language.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="Good Content Needs Plain Language" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -41,7 +41,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Federal Plain Language Guidelines" href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/hp-featured-348-x-226-Plain-Language-website-Federal-Plain-Language-Guidelines.jpg" alt="Federal Plain Language Guidelines" >}}</a>
+          <a title="Permanent Link to Federal Plain Language Guidelines" href="http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Plain-Language-website-Federal-Plain-Language-Guidelines.jpg" alt="Federal Plain Language Guidelines" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -57,7 +57,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Get Out of the Jargon Trap: Plain Language Training Can Help" href="{{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/hp-featured-348-x-226-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="Get Out of the Jargon Trap: Plain Language Training Can Help" >}}</a>
+          <a title="Permanent Link to Get Out of the Jargon Trap: Plain Language Training Can Help" href="{{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="Get Out of the Jargon Trap: Plain Language Training Can Help" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -75,7 +75,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to How to Tell Your Agency's Story—Plainly" href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/hp-featured-348-x-226-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="How to Tell Your Agency's Story—Plainly" >}}</a>
+          <a title="Permanent Link to How to Tell Your Agency's Story—Plainly" href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="How to Tell Your Agency's Story—Plainly" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -91,7 +91,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Using Plain Language to Write for the Web" href="{{< relref "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Using Plain Language to Write for the Web" >}}</a>
+          <a title="Permanent Link to Using Plain Language to Write for the Web" href="{{< relref "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Using Plain Language to Write for the Web" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -107,7 +107,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to FAQs Done Right" href="{{< relref "2015-09-04-faqs-done-right.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
+          <a title="Permanent Link to FAQs Done Right" href="{{< relref "2015-09-04-faqs-done-right.md" >}}" rel="bookmark">{{< legacy-img src="/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
         </div>
 
         <h4 class="post-title">

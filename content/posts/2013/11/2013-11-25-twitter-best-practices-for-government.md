@@ -12,21 +12,21 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: left;">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/media.twitter.jpg">{{< legacy-img src="2013/11/media.twitter.jpg" alt="Twitter.media logo showing collage of photos showing labels overlaying images: Television over two guys sitting in chairs in the plains, government overlaying a Vote button, Sports overlaying a basketball, New overlaying a map of the world, music overlaying a band playing at an outdoor concert, non-profit overlaying a portion of a sign that shows a portion of a donate now sign, faith overlaying an image of 6 candles burning, and basics overlaying an image of school supplies." >}}</a>Last week, Twitter introduced <a href="https://media.twitter.com/">media.twitter.com</a> featuring best practices and success stories to help government  leverage the power of Twitter. Many best practices were covered  including:
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/media.twitter.jpg">{{< legacy-img src="2013/11/media.twitter.jpg" alt="Twitter.media logo showing collage of photos showing labels overlaying images: Television over two guys sitting in chairs in the plains, government overlaying a Vote button, Sports overlaying a basketball, New overlaying a map of the world, music overlaying a band playing at an outdoor concert, non-profit overlaying a portion of a sign that shows a portion of a donate now sign, faith overlaying an image of 6 candles burning, and basics overlaying an image of school supplies." >}}</a>Last week, Twitter introduced <a href="https://media.twitter.com/">media.twitter.com</a> featuring best practices and success stories to help government  leverage the power of Twitter. Many best practices were covered  including:
 </p>
 
   * How to break the news with [Twitter Alerts](https://media.twitter.com/best-practice/twitter-alerts)
   
     * * *
     
-    [{{< legacy-img src="2013/11/twitter-alert.jpg" alt="FEMA Tweet about looking for shelter in the aftermath of Hurricane Sandy" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/twitter-alert.jpg) </li> 
+    [{{< legacy-img src="2013/11/twitter-alert.jpg" alt="FEMA Tweet about looking for shelter in the aftermath of Hurricane Sandy" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/twitter-alert.jpg) </li> 
     
-      * How to get the most from <a href="https://media.twitter.com/best-practice/twitter-town-hall" target="_blank">Twitter Town Halls</a>, and[{{< legacy-img src="2013/11/Twitter-town-hall.jpg" alt="Tweet announcing Pres. Obama is answering questions via a twitter town hall." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Twitter-town-hall.jpg)
+      * How to get the most from <a href="https://media.twitter.com/best-practice/twitter-town-hall" target="_blank">Twitter Town Halls</a>, and[{{< legacy-img src="2013/11/Twitter-town-hall.jpg" alt="Tweet announcing Pres. Obama is answering questions via a twitter town hall." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/Twitter-town-hall.jpg)
       * <p dir="ltr">
           <a href="https://media.twitter.com/best-practice/why-live-tweeting-is-important-for-government" target="_blank">Why live tweeting is important</a>
         </p>
         
-        [{{< legacy-img src="2013/11/Live-tweeting.jpg" alt="Tweet showing Boston Police looking for video from the Boston Marathon finish line." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/Live-tweeting.jpg)</li> </ul> 
+        [{{< legacy-img src="2013/11/Live-tweeting.jpg" alt="Tweet showing Boston Police looking for video from the Boston Marathon finish line." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/Live-tweeting.jpg)</li> </ul> 
         
         Twitter says:
         
@@ -50,8 +50,8 @@ tag:
         
         Success stories are also available from Members of Congress:
         
-        [{{< legacy-img src="2013/11/senate-twitter-alert.jpg" alt="Tweet from Senate At Arms talking about road closures after an incident." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/senate-twitter-alert.jpg)
+        [{{< legacy-img src="2013/11/senate-twitter-alert.jpg" alt="Tweet from Senate At Arms talking about road closures after an incident." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/senate-twitter-alert.jpg)
         
         and from state and local officials.
         
-        [{{< legacy-img src="2013/11/NYC-Parks.jpg" alt="Tweet with photo announcing a winner in a contest." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/NYC-Parks.jpg)
+        [{{< legacy-img src="2013/11/NYC-Parks.jpg" alt="Tweet with photo announcing a winner in a contest." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/NYC-Parks.jpg)

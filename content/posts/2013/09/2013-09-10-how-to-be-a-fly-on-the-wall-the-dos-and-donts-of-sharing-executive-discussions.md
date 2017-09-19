@@ -19,7 +19,7 @@ One way to offer that clear accountability and communication is by keeping peopl
 
 **Setting Expectations about Coverage.**
 
-**Do** all you can to ensure that everyone, including the executives themselves, is aware that the discussion will be documented for employees. **Don’t** assume that one memo or a mention at the weekly senior staff meeting will make its way through the agency.[{{< legacy-img src="2013/09/hands-typing-250x183.jpg" alt="Hands on a keyboard typing" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/hands-typing.jpg)
+**Do** all you can to ensure that everyone, including the executives themselves, is aware that the discussion will be documented for employees. **Don’t** assume that one memo or a mention at the weekly senior staff meeting will make its way through the agency.[{{< legacy-img src="2013/09/hands-typing-250x183.jpg" alt="Hands on a keyboard typing" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/hands-typing.jpg)
 
 **Do** set explicit expectations about what and how will be covered in the meeting, including the sort of information that will be shared and the media used to share it. Execs need to trust you, and employees will define trust of execs through your coverage. **Don’t** make employees think they are going to get sensitive info before it’s ready to be shared, and don’t surprise your leaders with a video camera when they think you’re keeping written comments.
 
@@ -40,7 +40,7 @@ One way to offer that clear accountability and communication is by keeping peopl
 </p>
 
 <p dir="ltr" style="text-align: left">
-  <strong>Do</strong> make quotes, paraphrases, and attributions crystal clear. <strong>Don’t</strong> leave out important contextual information that leaves employees wondering what on Earth these overpaid clowns are thinking.<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/fed-community-post.jpg">{{< legacy-img src="2013/09/fed-community-post-250x188.jpg" alt="whiteboard image of community drawing" >}}</a>
+  <strong>Do</strong> make quotes, paraphrases, and attributions crystal clear. <strong>Don’t</strong> leave out important contextual information that leaves employees wondering what on Earth these overpaid clowns are thinking.<a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/fed-community-post.jpg">{{< legacy-img src="2013/09/fed-community-post-250x188.jpg" alt="whiteboard image of community drawing" >}}</a>
 </p>
 
 <p dir="ltr">

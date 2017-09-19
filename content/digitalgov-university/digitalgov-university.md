@@ -19,7 +19,7 @@ We provide a range of free online and in-person trainings and events for people 
 
 ## Use of DigitalGov University Materials
 
-{{< legacy-img src="CDN/files/2013/11/SocialGov-1024x762-250x186.jpg" alt="Gathering of people at an inperson training event" >}} Unless a copyright is indicated, material presented by DigitalGov University is free of copyright and may be copied and distributed without permission. Citation of DigitalGov University as source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
+{{< legacy-img src="/2013/11/SocialGov-1024x762-250x186.jpg" alt="Gathering of people at an inperson training event" >}}Unless a copyright is indicated, material presented by DigitalGov University is free of copyright and may be copied and distributed without permission. Citation of DigitalGov University as source is appreciated. However, some material used in DGU training is the property of private individuals, companies, or independent contractors and therefore may be protected by copyright.
 
 If a copyright is indicated on a photo, graphic, or other material, you must get permission from the original source to use or to copy this material.
 

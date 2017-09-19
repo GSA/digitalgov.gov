@@ -153,4 +153,4 @@ Help your readers complete their tasks with these Plain Language writing tips:
   </tr>
 </table>
 
-[Download Checklist](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/11/checklist-for-Plain-Language-Web-writing.docx){.button}
+[Download Checklist](https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/checklist-for-Plain-Language-Web-writing.docx){.button}

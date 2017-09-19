@@ -18,7 +18,7 @@ tag:
 
 Reddit differs from other social media platforms like Twitter and Facebook because the goal on those platforms is to amass a following for ongoing engagement, while reddit engagements tend to be one-to-one exchanges. At an Aug. 7 brown-bag presentation at GSA, Victoria Taylor, director of communications at reddit, said the point of posting to reddit is not to have content go viral; it is to build credibility. “You want your username to earn recognition and trust.” Successful examples include [U.S. Senator Jerry Moran](http://www.reddit.com/user/JerryMoran), who gained credibility in 2013 by asking for community input before a Banking Committee hearing, and a recent AMA held by [Bill Nye and NASA employees](http://www.reddit.com/r/IAmA/comments/2arlx5/i_am_bill_nye_the_science_guy_and_ceo_of_the/).
 
-[{{< legacy-img src="2014/09/600-x-297-get-to-know-reddit-2.jpg" alt="600 x 297 get to know reddit 2" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/832-x-477-get-to-know-reddit-2.jpg)
+[{{< legacy-img src="2014/09/600-x-297-get-to-know-reddit-2.jpg" alt="600 x 297 get to know reddit 2" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/09/832-x-477-get-to-know-reddit-2.jpg)
 
 On reddit, the community sets the rules and runs the show. Taylor explained that, “People curate what they want to see and spin off communities.” Anyone can create a subreddit forum on any topic and each subreddit has guidelines. Taylor recommended newcomers study user-created rules, called [reddiquette](http://www.reddit.com/wiki/reddiquette). Here is more of Taylor’s advice:
 
@@ -33,7 +33,7 @@ On reddit, the community sets the rules and runs the show. Taylor explained that
 
 The AMA format is a freeform, live question and answer session on the Internet. Taylor, who can assist agencies to set up and moderate an AMA says, “AMA is like playing roulette; not just the risks [of taking] open questions but it may not pull the interest you want.” Still, hosting an AMA may be worth putting yourself on the hot seat, because she said AMAs, “are a great way to get information out quickly,” and can attract high profile press. AMAs can scale up quickly. At the high end, [thisisbillgates](http://www.reddit.com/user/thisisbillgates)’ AMA drew nearly 20 thousand comments and five thousand up-votes.
 
-[{{< legacy-img src="2014/09/600-x-175-get-to-know-reddit-3.jpg" alt="A screen capture of Bill Gates' Ask Me Anything (or A M A) on Reddit." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/1028-x-299-get-to-know-reddit-3.jpg)
+[{{< legacy-img src="2014/09/600-x-175-get-to-know-reddit-3.jpg" alt="A screen capture of Bill Gates' Ask Me Anything (or A M A) on Reddit." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/09/1028-x-299-get-to-know-reddit-3.jpg)
 
 ## More AMA tips
 
