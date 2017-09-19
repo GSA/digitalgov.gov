@@ -139,10 +139,16 @@ jQuery(document).ready(function($) {
     var list = d.split(',');
     $item = '';
     $item += '\n';
+    var total = list.length;
+    console.log(total);
     $.each( list, function( key, value ) {
       slug = value.replace(entityPattern, ' ').trim();
       slug = slug.replace(/[^a-z0-9]/gi, '-').toLowerCase();
-      $item += '  - ' + $.trim(slug) + '\n';
+      if (key === total - 1) {
+        $item += '  - ' + $.trim(slug);
+      } else{
+        $item += '  - ' + $.trim(slug) + '\n';
+      }
     });
     return $item;
   }
@@ -235,6 +241,9 @@ jQuery(document).ready(function($) {
           "authors: " + list_items(data['m_authors']),
           "categories: " + list_items(data['m_categories']),
           "tag: " + list_items(data['m_tag']),
+          "featured_image: " + '',
+          "  uid: " + data['m_featuredimg'],
+          "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
         "---",
         ,
         "***Paste content here. Delete this line***"
@@ -281,6 +290,9 @@ jQuery(document).ready(function($) {
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "featured_image: " + '',
+            "  uid: " + data['m_featuredimg'],
+            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
@@ -308,6 +320,9 @@ jQuery(document).ready(function($) {
             "authors: " + list_items(data['m_authors']),
             "categories: " + list_items(data['m_categories']),
             "tag: " + list_items(data['m_tag']),
+            "featured_image: " + '',
+            "  uid: " + data['m_featuredimg'],
+            "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + data['m_date'],
             "end_date: " + data['m_end_date'],
