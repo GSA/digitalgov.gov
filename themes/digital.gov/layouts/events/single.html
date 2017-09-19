@@ -27,7 +27,7 @@
   		    <span class="tribe-events-ajax-loading"><img class="tribe-events-spinner-medium" src="https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="Loading Events" />
   			</span>
         */}}
-  			<div id="tribe-events-content" class="tribe-events-single">
+  			<div id="tribe-events-content" class="tribe-events-single entry">
   				<p class="tribe-events-back">
   					<a href="{{ "events/" | absURL }}"> &laquo; All Events </a>
   				</p>
@@ -282,6 +282,9 @@
           <div id="tribe-events-footer">
   				</div>
           */}}
+
+          <!-- Edit file on GitHub -->
+          <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
 
   			</div>
   			<!-- #tribe-events-content -->
