@@ -115,9 +115,7 @@ jQuery(document).ready(function($) {
 
   // Makes the slug: for the front matter
   function matter_slug(title) {
-
     t = title.replace(small_words, '');
-    console.log(t);
     t = t.replace(entityPattern, ' ').trim();
     t = t.replace(/\s+/g,' ').trim();
     var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
@@ -142,7 +140,6 @@ jQuery(document).ready(function($) {
     $item = '';
     $item += '\n';
     var total = list.length;
-    console.log(total);
     $.each( list, function( key, value ) {
       slug = value.replace(entityPattern, ' ').trim();
       slug = slug.replace(/[^a-z0-9]/gi, '-').toLowerCase();
@@ -252,7 +249,6 @@ jQuery(document).ready(function($) {
       ].join("\n");
       var body = encodeURIComponent(matter);
       var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body;
-      console.log(newfile);
 
 
 
