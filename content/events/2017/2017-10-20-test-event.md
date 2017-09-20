@@ -7,12 +7,12 @@ authors:
 categories: 
   - social-media
 tag: 
-  - open-source
+  - user-experience
   - customer-experience
 featured_image: 
   uid: agreement-terms-of-service-tos
   alt: 'open-source'
-event_type: mixed
+event_type: online
 date: 2017-10-20 14:38:10 -0400
 end_date: 2017-10-20 14:38:10 -0400
 event_organizer: DigitalGov University
