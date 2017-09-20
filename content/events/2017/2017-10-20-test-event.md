@@ -12,7 +12,7 @@ tag:
 featured_image: 
   uid: agreement-terms-of-service-tos
   alt: 'open-source'
-event_type: online
+event_type: in-person
 date: 2017-10-20 14:38:10 -0400
 end_date: 2017-10-20 14:38:10 -0400
 event_organizer: DigitalGov University
