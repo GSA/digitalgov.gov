@@ -1,0 +1,24 @@
+---
+slug: online-test-event
+title: 'Online&#58; Test event'
+summary: 'This online event will cover how to create an event&#46;'
+authors: 
+  - jthalls
+categories: 
+  - managing-digital
+tag: 
+  - customer-experience
+  - training
+featured_image: 
+  uid: {{< img src="agreement-terms-of-service-tos" >}}
+  alt: 'terms-of-service'
+event_type: online
+date: 2017-09-29 14:00:00
+end_date: 2017-09-29 15:00
+event_organizer: DigitalGov University
+host: Customer Experience Community of Practice
+registration_url: https://www.eventbrite.com/e/template-event-page-registration-36726318407
+youtube: https://www.youtube.com/edit?o=U&video_id=Mu-MXrkv0sw
+---
+
+***Paste content here. Delete this line***
