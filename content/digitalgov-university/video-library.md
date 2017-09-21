@@ -9,4 +9,4 @@ authors:
 
 Enjoy our most recently recorded events below or take a look at [our YouTube channel](https://www.youtube.com/c/DigitalGov) to view all of our recorded events.
 
- [View All Videos](https://www.youtube.com/c/DigitalGov){.button}
+ {{< button href="https://www.youtube.com/c/DigitalGov" text="View All Videos" >}}

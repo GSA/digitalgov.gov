@@ -11,7 +11,7 @@ authors:
 
 ## For U.S. Government
 
-[Register and Manage Accounts](https://socialmobileregistry.WHATEVER/admin){.button}
+{{< button href="https://socialmobileregistry.WHATEVER/admin" text="Register and Manage Accounts" >}}
 
 ## For Developers: Using and Improving the API
 
