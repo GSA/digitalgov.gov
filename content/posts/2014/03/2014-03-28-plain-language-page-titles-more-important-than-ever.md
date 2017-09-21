@@ -50,5 +50,5 @@ In addition to the suggestions offered in our [previous article on Achieving Goo
         : the most important element of a quality Web page</a></p> 
         
         <p>
-          <em>If you’re interested in learning more about search, register for our <a href="({{< link "events/search-technology-and-information-retrieval.md" >}}">Search Is the New Big Data (in-person training)</a> on April 10.</em>
+          <em>If you’re interested in learning more about search, register for our <a href="{{< link "events/search-technology-and-information-retrieval.md" >}}">Search Is the New Big Data (in-person training)</a> on April 10.</em>
         </p>

@@ -15,6 +15,6 @@ The [U.S. Digital Registry](https://usdigitalregistry.WHATEVER/) serves as the a
 
 ## How to Access the U.S. Digital Registry
 
-[Register and Manage Accounts](https://usdigitalregistry.WHATEVER/admin){.button}
+{{< button href="https://usdigitalregistry.WHATEVER/admin" text="Register and Manage Accounts" >}}
 
 Accessing the U.S. Digital Registry requires an OMB Max ID, which is available to federal government employees and contractors with a valid .gov, .mil, or .fed.us email address. [Register for an OMB Max ID](https://max.omb.gov/maxportal/registrationForm.action) if you need one.

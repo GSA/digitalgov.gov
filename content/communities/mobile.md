@@ -187,11 +187,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Thursday Mobile Products posts" href="({{< link "tag/thursday-mobile-products" >}}" rel="bookmark">{{< legacy-img src="/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
+          <a title="Permanent Link to More Thursday Mobile Products posts" href="{{< link "tag/thursday-mobile-products" >}}" rel="bookmark">{{< legacy-img src="/2015/07/hp-featured-348-x-226-MobileGovAppsIconGraphic.jpg" alt="More Thursday Mobile Products posts" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="({{< link "tag/thursday-mobile-products" >}}">More Thursday Mobile Products posts &#8230;</a>
+          <a href="{{< link "tag/thursday-mobile-products" >}}">More Thursday Mobile Products posts &#8230;</a>
         </h4>
       </div>
     </div>
@@ -203,11 +203,11 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to More Trends on Tuesday posts" href="({{< link "tag/trends-on-tuesday" >}}" rel="bookmark">{{< legacy-img src="/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
+          <a title="Permanent Link to More Trends on Tuesday posts" href="{{< link "tag/trends-on-tuesday" >}}" rel="bookmark">{{< legacy-img src="/2015/07/hp-featured-348-x-226-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="More Trends on Tuesday posts" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="({{< link "tag/trends-on-tuesday" >}}">More Trends on Tuesday posts &#8230;</a>
+          <a href="{{< link "tag/trends-on-tuesday" >}}">More Trends on Tuesday posts &#8230;</a>
         </h4>
       </div>
     </div>
@@ -223,7 +223,7 @@ Hear how forward thinking agencies are tackling public facing mobile technologie
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About the Community**

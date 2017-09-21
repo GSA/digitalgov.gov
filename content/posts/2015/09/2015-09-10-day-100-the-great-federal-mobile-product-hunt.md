@@ -56,7 +56,7 @@ A long time ago in a federal agency building far, far away on F Street… the </
 
           <ol start="3">
             <li>
-              If not listed, or if there is an update—<a href="mailto:digitalgov@gsa.gov">email DigitalGov</a> with the subject line “#</span><span style="font-weight: 400">l</span><span style="font-weight: 400">ost</span><span style="font-weight: 400">a</span><span style="font-weight: 400">pps” with the name of the mobile app or website and contact person. We will add the app/website to the registry, and we may profile it in our</span><a href="({{< link "tag/thursday-mobile-products" >}}"> <span style="font-weight: 400">Thursday Mobile Products</span></a><span style="font-weight: 400"> series here on DigitalGov.</li> </ol>
+              If not listed, or if there is an update—<a href="mailto:digitalgov@gsa.gov">email DigitalGov</a> with the subject line “#</span><span style="font-weight: 400">l</span><span style="font-weight: 400">ost</span><span style="font-weight: 400">a</span><span style="font-weight: 400">pps” with the name of the mobile app or website and contact person. We will add the app/website to the registry, and we may profile it in our</span><a href="{{< link "tag/thursday-mobile-products" >}}"> <span style="font-weight: 400">Thursday Mobile Products</span></a><span style="font-weight: 400"> series here on DigitalGov.</li> </ol>
 
               <p>
                 In the meantime, we’d greatly appreciate any feedback on the Mobile Apps Directory—<a href="mailto:digitalgov@gsa.gov">email DigitalGov</a> and share your thoughts!

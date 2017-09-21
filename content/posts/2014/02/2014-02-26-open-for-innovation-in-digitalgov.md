@@ -18,7 +18,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  From <a href="({{< link "categories/mobile" >}}">mobile</a>, to <a href="({{< link "categories/socialmedia" >}}">social</a>, to <a href="({{< link "categories/ux" >}}">user experience</a>, to <a href="({{< link "categories/api" >}}">APIs</a>, to <a href="({{< link "categories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
+  From <a href="{{< link "categories/mobile" >}}">mobile</a>, to <a href="{{< link "categories/socialmedia" >}}">social</a>, to <a href="{{< link "categories/ux" >}}">user experience</a>, to <a href="{{< link "categories/api" >}}">APIs</a>, to <a href="{{< link "categories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
 </p>
 
 <p dir="ltr">
