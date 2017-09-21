@@ -14,7 +14,9 @@ We provide a range of free online and in-person trainings and events for people 
 <hr style="border: none" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">Upcoming Events</a> <a class="button" href="({{< link "tag/recap" >}}">Recap Articles</a> <a class="button" href="https://www.youtube.com/c/digitalgov">Video Archive</a>
+  <a class="button" href="{{< link "events" >}}">Upcoming Events</a>
+  <a class="button" href="{{< link "tag/recap" >}}">Recap Articles</a>
+  <a class="button" href="https://www.youtube.com/c/digitalgov">Video Archive</a>
 </p>
 
 ## Use of DigitalGov University Materials

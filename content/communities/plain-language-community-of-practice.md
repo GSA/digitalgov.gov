@@ -129,7 +129,7 @@ Meetings are held the second Wednesday of the month (except for August), from 2-
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About this Group**

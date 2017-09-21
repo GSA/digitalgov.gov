@@ -76,5 +76,5 @@ Through [Ignite](http://www.hhs.gov/idealab/what-we-do/hhs-ignite/), an internal
 </p>
 
 <p>
-  <em>You’ve just finished reading the latest article from our Monday column, <a href="({{< link "tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
+  <em>You’ve just finished reading the latest article from our Monday column, <a href="{{< link "tag/the-content-corner" >}}">The Content Corner</a>. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging.</em>
 </p>

@@ -247,11 +247,11 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Check out all the articles related to content" href="({{< link "categories/content" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Check out all the articles related to content" >}}</a>
+          <a title="Permanent Link to Check out all the articles related to content" href="{{< link "categories/content" >}}" rel="bookmark">{{< legacy-img src="/2016/09/hp-featured-348-x-226-Internet-content-marketing-sketch-on-blue-background-over-notebook-zakokor-iStock-Thinkstock-482311208.jpg" alt="Check out all the articles related to content" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="({{< link "categories/content" >}}">Read more Content articles</a>
+          <a href="{{< link "categories/content" >}}">Read more Content articles</a>
         </h4>
       </div>
     </div>
@@ -275,5 +275,5 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="http://www.youtube.com/user/howtogov">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="http://www.youtube.com/user/howtogov">View past events</a>
 </p>
