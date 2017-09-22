@@ -10,7 +10,7 @@ categories:
   - UX
 tag:
   - innovation
-  - U.S. Department of Veterans Affairs
+  - US Department of Veterans Affairs
   - user centered design
   - VA
   - VA Center for Innovation

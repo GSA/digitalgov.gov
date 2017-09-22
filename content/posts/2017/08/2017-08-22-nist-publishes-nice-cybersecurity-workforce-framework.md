@@ -7,6 +7,8 @@ categories:
   - Data
   - Managing Digital
   - Strategy and Policy
+authors:
+ - nist
 tag:
   - data
   - National Institute of Standards and Technology

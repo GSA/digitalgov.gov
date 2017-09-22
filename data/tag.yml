@@ -424,6 +424,8 @@ hackathon:
   display_name: "Hackathon"
 hhs:
   display_name: "HHS"
+hiv-gov:
+  display_name: "HIV.gov"
 hrsa:
   display_name: "HRSA"
 https:
