@@ -1,5 +1,6 @@
 ---
 slug: fox-hound
+draft: true
 date: 2017-08-03 13:16:21 -0400
 title: 'The Fox and the Hound are Playing'
 summary: 'This is the summary &amp;'

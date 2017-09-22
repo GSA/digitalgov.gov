@@ -34,6 +34,9 @@ outputFormats:
 outputs:
   home: ["HTML","RSS", "SiteImages"]
 
+blackfriday:
+  fractions: false
+
 params:
   description           : "DigitalGov: We’re helping you build a modern government."
   faceboook             : ""
