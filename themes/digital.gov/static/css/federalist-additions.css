@@ -27,3 +27,9 @@
   display: block;
   color: springgreen;
 }
+
+.home .featpage-image, .page-id-244882 .featpage-image {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}

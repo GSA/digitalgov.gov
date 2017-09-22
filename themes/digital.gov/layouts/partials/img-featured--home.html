@@ -7,7 +7,7 @@
 {{ $imgHeight := $thisimg.height }}
 
 {{ $.Scratch.Set "imgSuffix" "" }}
-{{ if gt $imgWidth 400 }}
+{{ if ge $imgWidth 400 }}
  {{ $.Scratch.Set "imgSuffix" "_w400" }}
 {{ end }}
 

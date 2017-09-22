@@ -13,14 +13,25 @@
       <div class="auth-bio clearfix">
     		<h1><span>{{ $person_name }}</span></h1>
 
-        {{if $person.image }}
-          {{/* defaulting to gh until we have an image solution */}}
-          {{ with $person.github }}
-            <img alt=''
-              src='https://www.github.com/{{ . }}.png?size=48'
-              srcset='https://www.github.com/{{ . }}.png?size=96 2x'
-              class='avatar avatar-48 photo' height='48' width='48' />
+        {{if $person.featured_image.uid }}
+          {{ $cdnurl := .Site.Params.cdnurl }}
+          {{ $thisuid := $person.featured_image.uid }}
+          {{ $thisuid := replaceRE "\\.[jpegpn]{3,4}$" "" $thisuid }}
+          {{ $thisimg := index $.Site.Data.images $thisuid  }}
+          {{ $imgBase := $thisimg.uid }}
+          {{ $imgExt := $thisimg.format }}
+          {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+          {{ $imgWidth := $thisimg.width }}
+          {{ $imgHeight := $thisimg.height }}
+          {{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid }}
+          {{ $.Scratch.Set "imgSuffix" "" }}
+          {{ if ge $imgWidth 200 }}
+           {{ $.Scratch.Set "imgSuffix" "_w200" }}
           {{ end }}
+
+          <img alt='author photo'
+            src='{{ $imgBaseCDN }}{{ $.Scratch.Get "imgSuffix" }}.{{ $imgExt }}'
+            class='avatar avatar-48 photo' height='48' width='48' />
         {{ else }}
           {{ with $person.github }}
             <img alt=''
@@ -31,7 +42,7 @@
         {{ end }}
 
         {{ with $person.bio }}
-      		<p>{{ . | markdownify }}</p>
+      		<div>{{ . | markdownify }}</div>
         {{ end }}
 
         {{ with $person.website }}
