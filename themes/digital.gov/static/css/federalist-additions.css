@@ -42,3 +42,7 @@
 .addthis_inline_share_toolbox {
   padding-bottom: 8px;
 }
+
+#content div + p {
+  padding-top: 20px;
+}

@@ -992,6 +992,8 @@ us-small-business-administration:
   display_name: "U.S. Small Business Administration"
 us-trade-and-development-agency:
   display_name: "U.S. Trade And Development Agency"
+uswds:
+  display_name: "U.S. Web Design Standards"
 ugc:
   display_name: "UGC"
 unified-shared-services-management:
