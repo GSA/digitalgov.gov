@@ -9,7 +9,7 @@ featured_image:
 categories:
   - Code
   - Design
-  - 'User Testing &amp; Research'
+  - User Testing and Research
 tag:
   - 3D printing
   - DoD

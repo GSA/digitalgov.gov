@@ -8,7 +8,7 @@ featured_image:
   alt: 'Social network and media concept illustration of a switch knob with icons.'
 categories:
   - Social Media
-  - 'Strategy &amp; Policy'
+  - Strategy and Policy
 tag:
   - content strategy
   - HIV.gov

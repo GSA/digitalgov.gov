@@ -856,6 +856,8 @@ sites:
   display_name: "Sites"
 sitesusagov:
   display_name: "Sitesusagov"
+skills:
+  display_name: "Skills"
 small-business-innovation-research:
   display_name: "Small Business Innovation Research"
 smithsonian-center-for-learning-and-digital-access:
