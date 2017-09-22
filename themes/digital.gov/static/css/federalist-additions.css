@@ -33,3 +33,8 @@
   -moz-box-shadow: none;
   box-shadow: none;
 }
+
+.meta, .catslide-meta, p.sitemap-meta {
+  height: auto;
+  overflow: visible;
+}
