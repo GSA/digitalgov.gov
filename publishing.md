@@ -82,8 +82,9 @@ aliases:
 ```
 
 
+- - -
+### All the Front Matter Data You'll ever need 
 
-**All the Front Matter Data You'll ever need**
 ```
 ---
 slug: headline-example
