@@ -18,11 +18,11 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/GSA-RWD-20140206-Why.jpg">{{< legacy-img src="2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/GSA-RWD-20140206-Why.jpg">{{< legacy-img src="2014/03/600-x-296-Responsive-Web-Design-GSA-RWD-20140206-Why.jpg" alt="Responsive Design graphic from Responsive Web Design Workshop that displays the reasons or why's agencies should implement responsive design" >}}</a>
 </p>
 
 <p dir="ltr">
-  Responsive Web design <a title="Responsive Web Design" href="({{< link "tag/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="({{< link "categories/mobile" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
+  Responsive Web design <a title="Responsive Web Design" href="{{< link "tag/responsive-web-design" >}}">implementations in the federal government</a> have members of the <a title="Mobile" href="{{< link "categories/mobile" >}}">Mobile Gov Community of Practice</a> asking what is responsive Web design and how do we do it?
 </p>
 
 <p dir="ltr">

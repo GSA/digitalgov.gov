@@ -19,7 +19,7 @@ tag:
   - United States Department of Defense
 ---
 
-[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/Getty-article-image.jpg)Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
+[{{< legacy-img src="2014/04/Getty-article-image.jpg" alt="multiple small images on a computer screen" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/Getty-article-image.jpg)Earlier this month, stock photo giant Getty Images launched an embedded photo viewer, that permits sharing millions of its’ copyrighted images for free. The news generated headlines and questions about whether it’s okay for government content producers to use the tool.
 
 From Getty’s perspective, the answer is yes. The company’s main restriction is that the images be used for editorial, non-commercial purposes and government content meets this criteria.
 

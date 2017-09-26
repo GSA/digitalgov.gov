@@ -43,7 +43,7 @@ If you want to make a website more efficient and user friendly, then it’s not 
     </p>
     
     <p>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-before.png">{{< legacy-img src="2013/12/army.mil-before.png" alt="Screenshot of Army.mil before user testing." >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/army.mil-before.png">{{< legacy-img src="2013/12/army.mil-before.png" alt="Screenshot of Army.mil before user testing." >}}</a>
     </p>
     
     <div>
@@ -69,7 +69,7 @@ If you want to make a website more efficient and user friendly, then it’s not 
     </div>
     
     <div>
-      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/army.mil-after.png">{{< legacy-img src="2013/12/army.mil-after.png" alt="Screenshot of Army.mil after user testing." >}}</a>
+      <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/army.mil-after.png">{{< legacy-img src="2013/12/army.mil-after.png" alt="Screenshot of Army.mil after user testing." >}}</a>
     </div>
   </div>
 </div>

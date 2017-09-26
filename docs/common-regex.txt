@@ -1,11 +1,11 @@
 # convert legacy-img to standard img
 
-{{< legacy-img src="CDN/files/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
+{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
 
 {{< img src="$1"$2 >}}
 
 # convert CDN links
-{{< legacy-img src="CDN/files/(\d{4,4})
+{{< legacy-img src="/(\d{4,4})
 {{< legacy-img src="$1
 
 # convert S3 links

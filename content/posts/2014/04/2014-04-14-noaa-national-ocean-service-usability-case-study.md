@@ -51,7 +51,7 @@ tag:
 
 ### NOAA Home page &#8211; Before
 
-[{{< legacy-img src="2014/03/NOAA-nos-homepage-before.jpg" alt="NOAA screenshot of the homepage before" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-homepage-before.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-homepage-before.jpg" alt="NOAA screenshot of the homepage before" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-homepage-before.jpg)
 
 ### NOAA Home page &#8211; After
 
@@ -64,7 +64,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-homepage-after.jpg">{{< legacy-img src="2014/03/NOAA-nos-homepage-after.jpg" alt="NOAA screenshot of the homepage after" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-homepage-after.jpg">{{< legacy-img src="2014/03/NOAA-nos-homepage-after.jpg" alt="NOAA screenshot of the homepage after" >}}</a>
 </p>
 
 ## 
@@ -83,7 +83,7 @@ GSA’s search platform, [DigitalGov Search]({{< relref "search.md" >}}), is gre
 
 ### NOAA Current Search Page &#8211; (No Before Image Available)
 
-[{{< legacy-img src="2014/03/NOAA-nos-search.jpg" alt="NOAA screenshot of the search page after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-search.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-search.jpg" alt="NOAA screenshot of the search page after" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-search.jpg)
 
  
 
@@ -99,7 +99,7 @@ GSA’s search platform, [DigitalGov Search]({{< relref "search.md" >}}), is gre
 
 #### NOAA Page Footer &#8211; Before
 
-[{{< legacy-img src="2014/03/NOAA-nos-footer-before.jpg" alt="NOAA screenshot of the footer before" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-footer-before.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-footer-before.jpg" alt="NOAA screenshot of the footer before" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-footer-before.jpg)
 
 #### 
 
@@ -109,7 +109,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
 #### NOAA Page Footer &#8211; After
 
-[{{< legacy-img src="2014/03/NOAA-nos-footer-after.jpg" alt="NOAA screenshot of the footer after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-footer-after.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-footer-after.jpg" alt="NOAA screenshot of the footer after" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-footer-after.jpg)
 
 ## 4. NOAA Story Page
 
@@ -121,7 +121,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
 #### NOAA Story Page &#8211; Before
 
-[{{< legacy-img src="2014/03/NOAA-nos-story-before.jpg" alt="NOAA screenshot of the story page before" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-story-before.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-story-before.jpg" alt="NOAA screenshot of the story page before" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-story-before.jpg)
 
 <p dir="ltr">
   For our new design, we emphasize webfont usage, good imagery, increased line heights, and a tiered approach to the content. This last point, a tiered approach to content, is worth stressing. Given that most people only spend a few seconds on a typical page, we looked for ways to get our message across in &#8216;chunks.&#8217; We have a headline with the main story idea, a sub-header that explains the significance of the story, a strong image to convey the story, a caption header to grab the visitor&#8217;s eye, and a caption that conveys the main point of the story.
@@ -135,7 +135,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
 #### NOAA Story page &#8211; After
 
-[{{< legacy-img src="2014/03/NOAA-nos-story-after.jpg" alt="NOAA screenshot of the story page after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-story-after.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-story-after.jpg" alt="NOAA screenshot of the story page after" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-story-after.jpg)
 
  
 
@@ -149,7 +149,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
  
 
-[{{< legacy-img src="2014/03/NOAA-nos-longform-before.jpg" alt="NOAA screenshot of the longform story page before" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-longform-before.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-longform-before.jpg" alt="NOAA screenshot of the longform story page before" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-longform-before.jpg)
 
 <p dir="ltr">
   The photo on this page is also minified, or compressed to minimize file size without losing image quality. This is a practice we&#8217;ve adopted for all of our large images to help our pages load faster, which is a particular concern on mobile. We use a low cost tool called <a href="http://www.jpegmini.com">JPEGMini </a>to accomplish this, but there are many other available tools that do the same thing.
@@ -163,7 +163,7 @@ We still have all policy-required links in our footer, but it’s now a more int
 
 #### NOAA Longform Story Page &#8211;  After
 
-[{{< legacy-img src="2014/03/NOAA-nos-longform-after.jpg" alt="NOAA screenshot of the long form page after" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/NOAA-nos-longform-after.jpg)
+[{{< legacy-img src="2014/03/NOAA-nos-longform-after.jpg" alt="NOAA screenshot of the long form page after" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/NOAA-nos-longform-after.jpg)
 
 <p dir="ltr">
   <span style="line-height: 1.5em;">  </span>

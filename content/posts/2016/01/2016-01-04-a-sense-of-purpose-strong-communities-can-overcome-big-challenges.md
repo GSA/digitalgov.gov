@@ -20,7 +20,7 @@ tag:
 
 Cook-offs, bike rides, parades and dance parties—these are not the traditional public hearing-style events for which government agencies are known.
 
-But these events helped to fuel the Department of Housing and Urban Development’s (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. {{< legacy-img src="2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
+But these events helped to fuel the Department of Housing and Urban Development’s (HUD) [Rebuild by Design Challenge](https://s3.amazonaws.com/digitalgov/legacy-img/2016/01/FINAL-Rebuild-by-Design-09302015.pdf) (PDF, 484 KB, 1 page, January 2016), boosting the collective morale among a complex, multidisciplinary network of engaged stakeholders. {{< legacy-img src="2015/12/600-x-400-Reach-out-Zoonar-RF-Zoonar-Thinkstock-127004816.jpg" alt="Hands reaching together for a handshake" caption="" >}} 
 
 Because the challenge’s community structure was based on a common goal—to rebuild following Hurricane Sandy—participants left their egos at home, shared information and learned from one another. The desire to serve a cause greater than themselves brought thousands of people and hundreds of organizations together.
 

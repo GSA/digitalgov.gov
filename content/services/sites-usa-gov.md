@@ -6,7 +6,7 @@ title: Sites
 summary: ' Sites lets federal agencies build websites using a self-service content management platform. It&rsquo;s a hosted shared service provided by the Digital Services Innovation Center. CMS meets the Digital Strategy. Built on an open-source platform that runs millions of sites (WordPress) that meets federal requirements for security and compliance.'
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/05/600-x-392-Sites.jpg" alt="Sites dot U-S-A dot gov" >}}
+{{< legacy-img src="/2015/05/600-x-392-Sites.jpg" alt="Sites dot U-S-A dot gov" >}}
 
 Sites lets federal agencies build websites using a self-service content management platform. It’s a hosted shared service provided by the Digital Services Innovation Center.
 

@@ -12,7 +12,7 @@ categories:
 ---
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/10/commerce.gov-2-1024x408.jpg">{{< legacy-img src="2013/10/commerce.gov-2-1024x408.jpg" alt="commerce.gov-2-1024x408" >}}</a>After having the same look and feel on our website since 2010, Commerce.gov is embarking on a <a href="http://1.usa.gov/1aHAYv3" target="_blank">fresh redesign</a> to put the user in the driver seat. Drawing on anonymized user input, we have made some significant changes and are excited to announce the launch of our new site &#8211; <a href="http://1.usa.gov/1aHAYv3" target="_blank">Beta.Commerce.gov</a>.
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/10/commerce.gov-2-1024x408.jpg">{{< legacy-img src="2013/10/commerce.gov-2-1024x408.jpg" alt="commerce.gov-2-1024x408" >}}</a>After having the same look and feel on our website since 2010, Commerce.gov is embarking on a <a href="http://1.usa.gov/1aHAYv3" target="_blank">fresh redesign</a> to put the user in the driver seat. Drawing on anonymized user input, we have made some significant changes and are excited to announce the launch of our new site &#8211; <a href="http://1.usa.gov/1aHAYv3" target="_blank">Beta.Commerce.gov</a>.
 </p>
 
 First, you’ll notice that we’ve made search front and center. Our search feature was visited by one in seven users, and we’ve made it even easier to find and use. We are using the USA Search Drupal module, which allows faceted search across not just Commerce.gov, but all Commerce websites. If you know the information you need is somewhere in the Commerce family, but not sure where, our search tool should be able to find it for you.

@@ -13,7 +13,7 @@ tag:
   - SocialGov
 ---
 
-[<img class="alignright  wp-image-126922" alt="Screenshot of Hootsuite showing two Twitter streams" src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Hootsuite-screenshot.jpg" width="409" height="238" />](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/Hootsuite-screenshot.jpg)Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
+[<img class="alignright  wp-image-126922" alt="Screenshot of Hootsuite showing two Twitter streams" src="https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/Hootsuite-screenshot.jpg" width="409" height="238" />](https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/Hootsuite-screenshot.jpg)Federal workers need to know more in social media than just how to send a tweet. Among other things, you also need to manage multiple accounts across platforms and languages; measure and report performance; and archive posts and comments for the public record.
 
 We dispelled the notion that technology limits agencies from tackling these challenges by highlighting how agencies can achieve all these in one dashboard — and in the process hope it opened eyes to all the possibilities available to government.
 

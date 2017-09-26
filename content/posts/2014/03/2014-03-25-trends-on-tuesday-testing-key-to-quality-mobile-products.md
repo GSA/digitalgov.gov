@@ -15,7 +15,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app.jpeg"><img class="alignright size-medium wp-image-109762" alt="Many smartphones and tablets on a table displaying the same app." src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/mobile-devices-testing-app-250x201.jpeg" width="250" height="201" /></a>Building quality mobile products is the greatest challenge for succeeding in the mobile space according to an <a href="http://blog.smartbear.com/mobile/the-state-of-mobile-development-and-testing/">infographic by SmartBear</a>.
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/mobile-devices-testing-app.jpeg"><img class="alignright size-medium wp-image-109762" alt="Many smartphones and tablets on a table displaying the same app." src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/mobile-devices-testing-app-250x201.jpeg" width="250" height="201" /></a>Building quality mobile products is the greatest challenge for succeeding in the mobile space according to an <a href="http://blog.smartbear.com/mobile/the-state-of-mobile-development-and-testing/">infographic by SmartBear</a>.
 </p>
 
 <p dir="ltr">

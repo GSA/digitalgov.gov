@@ -6,7 +6,7 @@ summary: 'How user interviews helped spotlight the needs of a previously forgott
 authors:
   - tyrus-manuel
 categories:
-  - 'User Testing &amp; Research'
+  - User Testing and Research
 tag:
   - Personas
   - user experience

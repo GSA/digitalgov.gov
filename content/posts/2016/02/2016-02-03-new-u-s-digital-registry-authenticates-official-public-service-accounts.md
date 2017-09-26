@@ -18,7 +18,7 @@ tag:
   - US Digital Registry
 ---
 
-<a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>
+<a href="https://s3.amazonaws.com/digitalgov/legacy-img/2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" rel="attachment wp-att-343205">{{< legacy-img src="2016/02/600-x-400-Social-media-verification-check-mark-on-a-smartphone.jpg" alt="600-x-400-Social-media-verification-check-mark-on-a-smartphone" >}}</a>
 
 Whether for voter registration, health services or questions about taxes, trusting what and who you engage with online is critical. We’d like to introduce to you a new API-generating repository for official third-party sites, social media platforms and mobile apps in the United States federal government that can help you do that and remove bureaucratic and technological barriers between users and digital public services.
 

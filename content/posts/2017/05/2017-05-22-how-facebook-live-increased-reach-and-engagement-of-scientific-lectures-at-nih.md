@@ -85,27 +85,9 @@ A Facebook Live series on one central topic—in our case on integrative health 
 
 Each event, on the heels of the one before it, was an opportunity for promotion—an opportunity to provide audiences with a fresh angle to a standing topic—giving the traditional stand-at-a-podium lecture a new and multifaceted life.
 
-<div id="fb-root">
-</div>
+{{< fb-video "https://www.facebook.com/nih.nccih/videos/1405263649496849/" >}}
 
-
-
-<div class="fb-video" data-href="https://www.facebook.com/nih.nccih/videos/1405263649496849/" data-width="500">
-  <blockquote cite="https://www.facebook.com/nih.nccih/videos/1405263649496849/" class="fb-xfbml-parse-ignore">
-    <p>
-      <a href="https://www.facebook.com/nih.nccih/videos/1405263649496849/">Facebook Live Q&A: Mind and Body Approaches and Military Perso&#8230;</a>
-    </p>
-    
-    <p>
-      Tuesday, April 25 at 1 p.m. ET: Facebook Live Q&A on mind and body approaches and military personnel and their families. Dr. Eric Schoomaker and Dr. Trip Buckenmaier, both experts from the Uniformed Services University of the Health Sciences, will take your questions on mind and body approaches (such as meditation, yoga, and relaxation techniques) for pain, post-traumatic stress disorder, anxiety, and insomnia in the military population. Join us! (For more information: https://nccih.nih.gov/MilitaryHealthEvents2017) #NCCIHMilitaryHealth
-    </p>
-    
-    <p>
-      Posted by <a href="https://www.facebook.com/nih.nccih/">National Center for Complementary and Integrative Health</a> on Tuesday, April 25, 2017
-    </p>
-  </blockquote>
-</div><section> 
-
+<section>
 <p id="fn1">
   <a href="#r1">[1]</a> It’s unclear why the overall reach of this third Facebook Live Q&A was lower, despite higher engagement metrics. Because Facebook regularly changes their algorithm, it’s possible a change could have taken place that affected those reach numbers.<a title="Jump back to footnote 1 in the text." href="#ref1">↩</a>
 </p></section>

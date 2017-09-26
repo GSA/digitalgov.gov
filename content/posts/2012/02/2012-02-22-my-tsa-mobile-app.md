@@ -11,7 +11,7 @@ tag:
   - TSA
 ---
 
-_[{{< legacy-img src="2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/MyTSAmobile-app.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This__ entry is a story shared by the Transportation Security Administration._
+_[{{< legacy-img src="2013/12/MyTSAmobile-app.jpg" alt="My TSA mobile app home screen" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/MyTSAmobile-app.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This__ entry is a story shared by the Transportation Security Administration._
 
 The [MY TSA mobile app and website](http://apps.usa.gov/tsa-app/) developed by the Transportation Security Administration (TSA) is designed to help passengers better prepare for security so they can get through TSA airport security checkpoints more efficiently. The app has multiple functions to help travelers and uses information from TSA, the Federal Aviation Administration (FAA), NOAA and users.
 

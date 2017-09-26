@@ -16,7 +16,7 @@ tag:
   - SEO
 ---
 
-[{{< legacy-img src="2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg" alt="An image of a magnifying glass over a computer screen" caption="" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg) 
+[{{< legacy-img src="2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg" alt="An image of a magnifying glass over a computer screen" caption="" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/09/600-x-418-search-magnifying-glass-sibgat-526855245.jpg) 
 
 Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS]({{< relref "2015-07-21-an-introduction-to-https-by-18f-and-digitalgov-university.md" >}}) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.WHATEVER/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.
 

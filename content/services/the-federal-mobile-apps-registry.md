@@ -11,7 +11,7 @@ authors:
   <a class="button" title="Register your mobile product here!" href="https://socialmobileregistry.WHATEVER/">Register your mobile product here!</a>
 </p>
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="screen shot of iPhone screen featuring government apps from USPS, TSA, FCC, Smithsonian and more." >}}Promote your public facing mobile websites and apps by registering them in the Mobile Products Registry. Registration gets your app listed on USAgov’s Federal Mobile Apps Directory and included in a government mobile products API.
+{{< legacy-img src="/2014/01/250-x-375-Some-of-the-Gov-apps-in-The-Federal-Mobile-Products-Registry.jpg" alt="screen shot of iPhone screen featuring government apps from USPS, TSA, FCC, Smithsonian and more." >}}Promote your public facing mobile websites and apps by registering them in the Mobile Products Registry. Registration gets your app listed on USAgov’s Federal Mobile Apps Directory and included in a government mobile products API.
 
 **How It Works**
 

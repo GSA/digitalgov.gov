@@ -14,11 +14,11 @@ tag:
 ---
 
 <p id="docs-internal-guid-2be0b883-1e35-bf9a-aa33-087a71ace423" dir="ltr">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/InnovationChalkboard1.jpg">{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="Innovation written on a chalkboard" >}}</a>There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/InnovationChalkboard1.jpg">{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="Innovation written on a chalkboard" >}}</a>There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
 </p>
 
 <p dir="ltr">
-  From <a href="({{< link "categories/mobile" >}}">mobile</a>, to <a href="({{< link "categories/socialmedia" >}}">social</a>, to <a href="({{< link "categories/ux" >}}">user experience</a>, to <a href="({{< link "categories/api" >}}">APIs</a>, to <a href="({{< link "categories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
+  From <a href="{{< link "categories/mobile" >}}">mobile</a>, to <a href="{{< link "categories/socialmedia" >}}">social</a>, to <a href="{{< link "categories/ux" >}}">user experience</a>, to <a href="{{< link "categories/api" >}}">APIs</a>, to <a href="{{< link "categories/code" >}}data1/">data</a> and codesharing, agencies are embracing the 21st century citizen expectations and working to deliver anytime, anywhere, any device services and information to the public.
 </p>
 
 <p dir="ltr">

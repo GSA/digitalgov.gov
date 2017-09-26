@@ -6,6 +6,9 @@ summary: 'Joel Minton, a member of the U.S. Digital Service, is working with GSA
 featured_image:
   uid: 'login-gov-launch'
   alt: 'The Login.gov logo.'
+authors:
+  - joel-minton
+  - tom-mills
 categories:
   - Managing Digital
 tag:
@@ -23,11 +26,11 @@ tag:
   - Technology Transformation Service
   - The United States Social Security Administration
   - TTS
-  - U.S. Citizenship and Immigration Service
-  - U.S. Customs and Border Protection
-  - U.S. Department of Labor
-  - U.S. Department of State
-  - U.S. Digital Service
+  - US Citizenship and Immigration Service
+  - US Customs and Border Protection
+  - US Department of Labor
+  - US Department of State
+  - US Digital Service
   - usa.gov
   - USAgov
   - USCIS

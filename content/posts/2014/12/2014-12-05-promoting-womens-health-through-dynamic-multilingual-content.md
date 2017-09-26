@@ -34,4 +34,4 @@ Lemon said that although English and Spanish are their priority languages, the O
 
 ## Ready to create dynamic multilingual content at your own agency?
 
-Be sure to review the [multilingual digital content]({{< relref "2014-07-01-multilingual-digital-content.md" >}}) resources that have been developed by the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), as well as the [Sample Video Editorial and Accessiblity Guidelines](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012).
+Be sure to review the [multilingual digital content]({{< relref "2014-07-01-multilingual-digital-content.md" >}}) resources that have been developed by the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}), as well as the [Sample Video Editorial and Accessiblity Guidelines](https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/Accessibility-Editorial-Guidelines-for-YouTube.doc) (MS Word, 56 kb, 2 pages, August 2012).

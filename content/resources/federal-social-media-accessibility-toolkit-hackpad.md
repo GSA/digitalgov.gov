@@ -11,7 +11,7 @@ authors:
 
 The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< relref "social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
+{{< legacy-img src="/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
 
 In this shared document, collaborators are encouraged to identify best practices in improving the accessibility of social media for public services, or create a new and better way (though copy and pasting the content in, or linking directly to pre-existing content).
 

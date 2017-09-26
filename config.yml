@@ -16,7 +16,7 @@ ignoreFiles:
   - "content/_tmp/*"
   - "content/images/*"
 # uncomment the following for a dev mode that excludes posts before 2017
-  - "content/posts/201[0-6]"
+#  - "content/posts/201[0-5]"
 
 
 sitemap:
@@ -33,6 +33,9 @@ outputFormats:
 
 outputs:
   home: ["HTML","RSS", "SiteImages"]
+
+blackfriday:
+  fractions: false
 
 params:
   description           : "DigitalGov: We’re helping you build a modern government."

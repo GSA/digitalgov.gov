@@ -8,14 +8,15 @@
 {{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
 {{ $imgWidth := $thisimg.width }}
 {{ $imgHeight := $thisimg.height }}
+{{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid }}
 
-<div{{ if (.Get "align") }} class="align-{{ .Get "align" }}"{{ else}}{{ if lt $imgWidth 600 }} class="align-right"{{ end }}{{ end }}>
+<div class="image{{ if (.Get "align") }} align-{{ .Get "align" }}{{ else}}{{ if lt $imgWidth 600 }} align-right{{ end }}{{ end }}">
   <img
     class="{{ if (.Get "align") }}{{ else }}aligncenter{{ end }}"
-    src='{{ $imgBaseCDN }}_bu.{{ $imgExt }}'
+    src='{{ if ne $prefix $thisuid }}{{ $thisuid }}{{ else }}{{ $imgBaseCDN }}_bu.{{ $imgExt }}{{ end }}'
     {{ if or (.Get "alt" ) $thisimg.alt }}
     alt='{{ with .Get "alt" }}{{ . }}{{ else }}{{ $thisimg.alt }}{{ end }}'
-    {{ end }}
+    {{ end }}{{ if eq $prefix $thisuid }}
     srcset='
     {{ if ge $imgWidth 200 }}{{ $imgBaseCDN }}_bu.{{ $imgExt }} 48w,
       {{ if ge $imgWidth 400 }}
@@ -37,7 +38,7 @@
     {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w
     {{ end }}
       '
-    sizes='(max-width: 600px) 100vw, 600px'/>
+    sizes='(max-width: 600px) 100vw, 600px'{{ end }}/>
   {{ if or $thisimg.caption (.Get "caption") }}
     <p class="wp-caption-text">
       {{ .Get "caption" | default $thisimg.caption | markdownify }}

@@ -65,7 +65,7 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-[{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
+[{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
 
 The new <a href="https://mymadison.io/docs/us-public-participation-playbook-draft-2" target="_blank">second draft of the U.S. Public Participation Playbook</a> incorporates changes that were proposed from nearly 100 suggestions submitted after the first week of public comment, with more improvements to come. We still need your contributions for this groundbreaking new collaborative resource to measurably improve our participatory public services across government, and would like to take this opportunity to share what we have learned so far.
 
@@ -100,9 +100,9 @@ Effective comments are “actionable,” meaning easy to place in context and ev
 
 More than just effective comments, we&#8217;re working to improve our standard for effective responses.
 
-For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="({{< link "categories/mobile" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
+For example, private-sector mobile expert Sean McDonald of FrontlineSMS contributed nine suggestions addressing mobile development in public participation. In response, Jacob Parcell, <a href="{{< link "categories/mobile" >}}" target="_blank">MobileGov Community</a> lead, responded to his comment on Madison, then incorporated the feedback into the most current draft. Eventually, we will want all collaborations in the resource that transparent as we improve the process, as illustrated:
 
-[{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/Madison-Example-600px.jpg)
+[{{< legacy-img src="2014/12/Madison-Example-600px.jpg" alt="Madison Example 600px" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/12/Madison-Example-600px.jpg)
 
 We&#8217;re kicking the tires on how we can better report direct correlations between each comment and the actions they result in, and look forward to improving this capability.
 

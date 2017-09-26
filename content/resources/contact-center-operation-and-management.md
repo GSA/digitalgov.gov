@@ -53,7 +53,7 @@ Many things can impact the service quality, economics, and sustainability of you
     </p>
     
     <p>
-      After this assessment, you can identify potential cost reduction areas, select and prioritize target activities, and implement actions to achieve the reductions. Check out these <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/contact-center-lean-and-mean-cost-reduction-strategies.pdf">Contact Center Lean and Mean Cost Reduction Strategies</a> (PDF, 43 KB, 6 pages, October 2009).
+      After this assessment, you can identify potential cost reduction areas, select and prioritize target activities, and implement actions to achieve the reductions. Check out these <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/contact-center-lean-and-mean-cost-reduction-strategies.pdf">Contact Center Lean and Mean Cost Reduction Strategies</a> (PDF, 43 KB, 6 pages, October 2009).
     </p>
     
     <h3>
@@ -191,7 +191,7 @@ Many things can impact the service quality, economics, and sustainability of you
         </p>
         
         <p>
-          As a result of an investigation conducted by the General Services Administration, Office of Inspector General, and the Internal Revenue Service, Criminal Investigation Division, the Department of Justice charged two individuals in Wisconsin for participating in such a <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/contact-center-pay-phone-fraud-scheme.pdf">pay phone compensation fraud scheme</a> (PDF, 65 KB, 2 pages, April 2011).
+          As a result of an investigation conducted by the General Services Administration, Office of Inspector General, and the Internal Revenue Service, Criminal Investigation Division, the Department of Justice charged two individuals in Wisconsin for participating in such a <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/contact-center-pay-phone-fraud-scheme.pdf">pay phone compensation fraud scheme</a> (PDF, 65 KB, 2 pages, April 2011).
         </p>
         
         <h3>

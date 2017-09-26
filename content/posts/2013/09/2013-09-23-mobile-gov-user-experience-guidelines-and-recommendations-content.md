@@ -13,7 +13,7 @@ tag:
   - user experience
 ---
 
-[{{< legacy-img src="2014/08/250-x-185-MobileGov-Wikithon-2013-06-17.jpg" alt="MobileGov Wikithon, June 17, 2013" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/09/MobileGovWikithon2013-06-17.png)Content refers to the various types of material in different formats, such as text, images and video, that provide information to the user (it also fits into a mobile product&#8217;s information architecture).
+[{{< legacy-img src="2014/08/250-x-185-MobileGov-Wikithon-2013-06-17.jpg" alt="MobileGov Wikithon, June 17, 2013" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/MobileGovWikithon2013-06-17.png)Content refers to the various types of material in different formats, such as text, images and video, that provide information to the user (it also fits into a mobile product&#8217;s information architecture).
 
 From the 42 Mobile Gov User Experience guidelines and recommendations released last week, you deemed 7 &#8216;critical’ around the content element. Specifically, it is critical that mobile gov products;
 
