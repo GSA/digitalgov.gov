@@ -5,36 +5,30 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
 
-
-  <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-
   {{ $sitetags := $.Site.Data.tag }}
   {{ with $.Params.tag }}
     {{ $_taxonomy := .}}
     {{ $length := $_taxonomy | len }}
-    <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
+  <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
   {{ end }}
 
-  {{/* TODO: these may not need to be here */}}
-  <meta name="google-site-verification" content="g9_ce7PMGt-o-6Z5w9JaayjvGenyVBflWNo_nMBoggI" />
-  <meta name="msvalidate.01" content="1634354CAA14D9CE8F1084F995A6D202" />
-  <meta name="p:domain_verify" content="54ddbdf823cfb7dbf0078287e8952906" />
+  <!-- **************************** -->
 
-  {{/* TODO: current url or alternate url if duplicated content */}}
-  <meta name="robots" content="noindex">
-
-  {{/* Only if this is a crosspost — need to add to frontmatter */}}
-  {{ with $.Params.xposted_from }}<link rel="canonical" href="{{ . }}" />{{ end }}
-
-  {{/* TODO: values need to be page specific */}}
-  {{/* TODO: DigitalGov => Digital.gov */}}
-  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .URL | absURL }}" />
+  {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
+  <meta property="fb:admins" content="100000569454928" />
+  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
+  {{ if .IsPage }}
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+  {{ else }}
+  <meta property="og:type" content="website">
+  {{ end }}
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
   {{/* Featured_image call */}}
     {{ $cdnurl := .Site.Params.cdnurl }}
     {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
@@ -57,33 +51,37 @@
     <meta property="og:image:width" content="{{ $featImgWidth }}" />
     <meta property="og:image:width" content="{{ $featImgHeight }}" />
   {{/* End featured_image call */}}
-  <meta property="og:site_name" content="DigitalGov" />
 
-
-  {{/* TODO: values need to be page specific */}}
-  {{/* What's fb:admins? */}}
-  <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@Digital_Gov" />
-
-  {{/* Extract twitter handle from author data */}}
-  {{ with $.Params.authors }}
-    {{ range $i, $e := . }}
-      {{ $uid := $e | urlize }}
-      {{ $data := $.Site.Data }}
-      {{ $author := index $data.people.authors $uid }}
-      {{ with $author.twitter }}
-        <meta name="twitter:creator" content="{{ . }}" />
-      {{ end }}
-    {{ end }}
+  {{ range .Params.tags }}
+  <meta property="og:tags" content="{{ . }}">
   {{ end }}
 
-  <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
-  <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
-  <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="twitter:image" content="{{ $featImgTwitterURL }}" />
+  {{ $sitetags := $.Site.Data.tag }}
+  {{ with $.Params.tag }}
+    {{ $_taxonomy := .}}
+    {{ $length := $_taxonomy | len }}
+  <meta property="og:tags" content="{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}">
+  {{ end }}
+  {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
+  {{ "<!-- Start of Twitter -->" | safeHTML }}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Digital_Gov" />
+  <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
+  <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
+  <meta property="og:image" content="{{ $featImgURL }}" />
+  <meta property="twitter:image" content="{{ $featImgTwitterURL }}">
   <meta itemprop="image" content="{{ $featImgURL }}" />
+  {{ "<!-- End of Twitter -->" | safeHTML }}
+
+  <!-- **************************** -->
+
+
+  {{/* Only if this is a crosspost — need to add to frontmatter */}}
+  {{ with $.Params.xposted_from }}
+  {{ "<!-- Cross posted -->" | safeHTML }}
+  <link rel="canonical" href="{{ . }}" />
+  {{ end }}
+
 
 
   {{/* TODO: what does this do? */}}
