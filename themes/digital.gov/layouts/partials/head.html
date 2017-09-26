@@ -5,30 +5,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+  {{ "<!-- Page Title -->" | safeHTML }}
   <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
 
+  {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
   {{ $sitetags := $.Site.Data.tag }}
   {{ with $.Params.tag }}
     {{ $_taxonomy := .}}
     {{ $length := $_taxonomy | len }}
+
+  {{ "<!-- Meta Keywords -->" | safeHTML }}
   <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
   {{ end }}
 
-  <!-- **************************** -->
-
-  {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
-  <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
-  {{ if .IsPage }}
-  <meta property="og:type" content="article">
-  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
-  {{ else }}
-  <meta property="og:type" content="website">
-  {{ end }}
-  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <!-- Logic for featured image -->
   {{/* Featured_image call */}}
     {{ $cdnurl := .Site.Params.cdnurl }}
     {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
@@ -46,29 +37,39 @@
     {{ end }}
     {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
     {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
-
-    <meta property="og:image" content="{{ $featImgURL }}" />
-    <meta property="og:image:width" content="{{ $featImgWidth }}" />
-    <meta property="og:image:width" content="{{ $featImgHeight }}" />
   {{/* End featured_image call */}}
 
-  {{ range .Params.tags }}
-  <meta property="og:tags" content="{{ . }}">
+  <!-- Logic for Page Types -->
+  {{/* Get Page Type */}}
+  {{ if .IsPage }}
+    {{ $.Scratch.Set "pagetype" "article" }}
+  {{ else }}
+    {{ $.Scratch.Set "pagetype" "website" }}
   {{ end }}
 
-  {{ $sitetags := $.Site.Data.tag }}
-  {{ with $.Params.tag }}
-    {{ $_taxonomy := .}}
-    {{ $length := $_taxonomy | len }}
-  <meta property="og:tags" content="{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}">
-  {{ end }}
+  {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
+  <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
+  <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ $featImgURL }}" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-1.png" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-2.png" />
+  <meta property="og:image:width" content="{{ $featImgWidth }}" />
+  <meta property="og:site_name" content="DigitalGov">
+  <meta property="fb:admins" content="100000569454928" />
+  <meta property="article:publisher" content="https://www.facebook.com/digitalgov" />
+  <meta property="article:author" content="willsullivan" />
+  <meta property="article:published_time" content="2017-09-25T09:00:15Z" />
+  <meta property="article:modified_time" content="2017-09-25T09:00:15Z" />
   {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
-  {{ "<!-- Start of Twitter -->" | safeHTML }}
+
+  {{ "<!-- Start of Twitter Card -->" | safeHTML }}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
   <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
   <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
-  <meta property="og:image" content="{{ $featImgURL }}" />
   <meta property="twitter:image" content="{{ $featImgTwitterURL }}">
   <meta itemprop="image" content="{{ $featImgURL }}" />
   {{ "<!-- End of Twitter -->" | safeHTML }}
