@@ -43,6 +43,6 @@
   padding-bottom: 8px;
 }
 
-#content div + p {
+.image + p {
   padding-top: 20px;
 }

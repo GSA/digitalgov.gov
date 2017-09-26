@@ -10,7 +10,7 @@
 {{ $imgHeight := $thisimg.height }}
 {{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisuid }}
 
-<div{{ if (.Get "align") }} class="align-{{ .Get "align" }}"{{ else}}{{ if lt $imgWidth 600 }} class="align-right"{{ end }}{{ end }}>
+<div class="image{{ if (.Get "align") }} align-{{ .Get "align" }}{{ else}}{{ if lt $imgWidth 600 }} align-right{{ end }}{{ end }}">
   <img
     class="{{ if (.Get "align") }}{{ else }}aligncenter{{ end }}"
     src='{{ if ne $prefix $thisuid }}{{ $thisuid }}{{ else }}{{ $imgBaseCDN }}_bu.{{ $imgExt }}{{ end }}'

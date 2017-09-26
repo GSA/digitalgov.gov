@@ -82,28 +82,28 @@ aliases:
 ```
 
 
+- - -
+### All the Front Matter Data You'll ever need 
 
-**All the Front Matter Data You'll ever need**
 ```
 ---
 slug: headline-example
 date: 2017-09-22 16:24:59 -0400
 title: 'Headline Example'
 summary: 'Summary goes here'
-authors: 
+xposted_from: https://some.url
+authors:
   - jeremyzilar
-categories: 
+categories:
   - breakfast
-tag: 
+tag:
   - eggs
   - coffee
   - toast
-featured_image: 
+featured_image:
   uid: breakfast-time
   alt: 'This is my digital breakfast'
 ---
 
 ***Paste content here. Delete this line***
 ```
-
-
