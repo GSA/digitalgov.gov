@@ -15,7 +15,7 @@ authors:
 <tr>
 <td style="border: 0;width: 62%">
 <p>Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, “getting started” guidance, policy requirements and more.</p>
-<p><strong>NEW</strong>: Check out the list of <a href="{{< tmp "omb-memos-circulars-executive-orders-and-other-policies.md" >}}">OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies</a></p>
+<p><strong>NEW</strong>: Check out the list of <a href="{{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}}">OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies</a></p>
 <p>Looking for overall digital policy guidance? See the <a href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Digital Services</a>.</p>
 </td>
 <td style="border: 1;width: 38%">
