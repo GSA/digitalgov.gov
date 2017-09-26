@@ -74,18 +74,14 @@
   <meta itemprop="image" content="{{ $featImgURL }}" />
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
-  <!-- **************************** -->
-
-
   {{/* Only if this is a crosspost — need to add to frontmatter */}}
   {{ with $.Params.xposted_from }}
   {{ "<!-- Cross posted -->" | safeHTML }}
   <link rel="canonical" href="{{ . }}" />
   {{ end }}
 
-
-
   {{/* TODO: what does this do? */}}
+  {{ "<!-- Schema.org -->" | safeHTML }}
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
@@ -95,10 +91,9 @@
       "sameAs": ["https://www.facebook.com/digitalgov", "https://twitter.com/digital_gov", "https://plus.google.com/+DigitalgovGov1/", "https://www.youtube.com/user/howtogov", "https://www.linkedin.com/groups/5016512"]
     }
   </script>
-  <!-- /all in one seo pack -->
 
-  {{/* TODO: we need to build a feed to appear here */}}
   {{/* RSS feed of recent posts */}}
+  {{ "<!-- RSS Feed-->" | safeHTML }}
   <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Feed" href="https://www.digitalgov.gov/feed/" />
 
   {{/* TODO: should we keep this? */}}
@@ -106,6 +101,7 @@
   <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
 
   {{/* TODO: All these styles need to be audited / minified / etc */}}
+  {{ "<!-- CSS -->" | safeHTML }}
   <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/sitesusagov.css" | absURL }}' type='text/css' media='all' />
@@ -120,66 +116,38 @@
   <link rel='stylesheet' href='{{ "css/shortcodes.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/custom.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/style-front-end.css" | absURL }}' type='text/css' media='all' />
-
   <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
-
-  {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
-
   <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-
   <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
+  <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
 
   {{/* Add add to calendar sheet in events */}}
   {{ if eq .Section "events" }}
-    <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
+  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
+  <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
   {{ end }}
 
-
-  {{/* TODO: Unused event stylesheets */}}
-  <!-- <link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.4.1.1' type='text/css' media='all' />
-  <link rel='stylesheet' id='tribe-events-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.4.1.1' type='text/css' media='all' />
-  <link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)'
-  /> -->
-  <!-- <link rel='stylesheet' id='tribe-events-calendar-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)' -->
-
-  {{/* TODO: What is this??? */}}
-  <!-- This site uses the Google Analytics by MonsterInsights plugin version 5.5.4 - https://www.monsterinsights.com/ -->
-  <!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) -->
-  <!-- / Google Analytics by MonsterInsights -->
-
   {{/* TODO: Do we need all these jquery? */}}
-  <!-- jQuery ver=1.12.4 -->
+  {{ "<!-- jQuery | ver=1.12.4 -->" | safeHTML }}
   <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/jquery-migrate.min.js" | absURL }}'></script>
 
   {{/* TODO: Audit javascript */}}
+  {{ "<!-- JS -->" | safeHTML }}
   <script type='text/javascript' src='{{ "js/sitesusagov.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/froogaloop.min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
-  <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
 
-  {{/* TODO: We'll want a way to capture this shortlink, perhaps through and API
-  <link rel='shortlink' href='https://www.digitalgov.gov/' />
-  */}}
-
-  {{/* TODO: Media embedders: comment out for now */}}
-  {{/*
-  <link rel="alternate" type="application/json+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F" />
-  <link rel="alternate" type="text/xml+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F&#038;format=xml" />
-  */}}
-
-  {{/* TODO: DAP */}}
+  {{ "<!-- Digital Analytics Program / DAP -->" | safeHTML }}
   <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA"></script>
 
   {{/* TODO: Should we get this local? */}}
+  {{ "<!-- Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="https://s3.amazonaws.com/digitalgov/favicon.ico" type="image/x-icon" />
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-
-  <!-- Custom Styles from Theme Setting Page -->
-  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
-  <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
 
   {{ partial "head--custom-css.html" . }}
 </head>
