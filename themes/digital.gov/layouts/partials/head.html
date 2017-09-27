@@ -80,18 +80,6 @@
   <link rel="canonical" href="{{ . }}" />
   {{ end }}
 
-  {{/* TODO: what does this do? */}}
-  {{ "<!-- Schema.org -->" | safeHTML }}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "name": "DigitalGov - U.S. General Services Administration,  Office of Citizen Services and Innovative Technologies",
-      "url": "https://www.digitalgov.gov",
-      "sameAs": ["https://www.facebook.com/digitalgov", "https://twitter.com/digital_gov", "https://plus.google.com/+DigitalgovGov1/", "https://www.youtube.com/user/howtogov", "https://www.linkedin.com/groups/5016512"]
-    }
-  </script>
-
   {{ "<!-- RSS Feed-->" | safeHTML }}
   <link href="{{ "feed.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
