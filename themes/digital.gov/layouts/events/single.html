@@ -117,7 +117,6 @@
 
   						<p><strong>Location</strong><br />
                 {{ if eq .Params.event_type "in-person" }}
-                  {{ if .Params.venue.venue_name }} foooooooo {{ end }}
                   {{ .Params.venue.venue_name }}<br />
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
@@ -125,16 +124,16 @@
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
                 {{ end }}
                 {{ if eq .Params.event_type "mixed" }}
-                  {{ .Params.venue.venue_name }}<br />
+                  {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
-                  {{ .Params.venue.zip }} {{ .Params.venue.country }}<br />
-                  Room: {{ .Params.venue.room }}<br />
+                  {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
+                  {{ with .Params.venue.room }}Room: {{ . }}<br />{{ end }}
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a><br />
-                  YouTube: {{ .Params.youtube }}
+                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
                 {{ end }}
                 {{ if eq .Params.event_type "online" }}
-                  YouTube: {{ .Params.youtube }}
+                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
                 {{ end }}
               </p>
 
