@@ -146,7 +146,7 @@ jQuery(document).ready(function($) {
     var desc = [
       '**' + title + '** %0A',
       summary + '%0A',
-      "---",
+      "---%0A",
       'slug: `' + slug + '`%0A',
       'filename: `' + filename + '`%0A',
       "---"
