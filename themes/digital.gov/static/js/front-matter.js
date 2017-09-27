@@ -122,8 +122,17 @@ jQuery(document).ready(function($) {
     t = t.replace(/[^a-zA-Z0-9\s]/g,"");    // removes anything that is not a number or letter (i think)
     t = t.toLowerCase();                    // makes the title all lowercase
     t = t.replace(/\s\s+/g, ' ');           // replaces multiple spaces with single spaces
+    t = t.replace(/[ \t]+$/g, '');          // removes trailing spaces from title
     var slug = t.replace(/\s/g,'-');        // converts single spaces into dashes
     return slug;
+  }
+
+  // Makes the title for the front matter
+  function matter_title(t) {
+    t = t.replace(/\s\s+/g, ' ');           // replaces multiple spaces with single spaces
+    t = t.replace(/[ \t]+$/g, '');          // removes trailing spaces from title
+    var title = escapeHtml(t);
+    return title;
   }
 
   // returns the year and month for use in the filepath on GitHub
@@ -226,7 +235,7 @@ jQuery(document).ready(function($) {
   // Prints the front-matter in a DIV on the page
   function print_matter(data){
     var post_type = get_post_type(); // gets the post type
-    var title = escapeHtml(data['m_title']);
+    var title = matter_title(data['m_title']);
     var slug = matter_slug(data['m_title']);
     var filename = get_filename(data['m_date'], slug);
 
