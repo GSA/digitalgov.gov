@@ -24,6 +24,7 @@ jQuery(document).ready(function($) {
     ')': '&#41;',
     '+': '&#43;',
     '@': '&#64;',
+    '-': '&#8208;',
     '–': '&#8211;',
     '—': '&#8212;',
     '?': '&#63;'
@@ -117,10 +118,11 @@ jQuery(document).ready(function($) {
 
   // Makes the slug: for the front matter
   function matter_slug(title) {
-    t = title.replace(small_words, '');
-    t = t.replace(entityPattern, ' ').trim();
-    t = t.replace(/\s+/g,' ').trim();
-    var slug = t.replace(/[^a-z0-9]/gi, '-').toLowerCase();
+    t = title.replace(small_words, '');     // removes the small_words
+    t = t.replace(/[^a-zA-Z0-9\s]/g,"");    // removes anything that is not a number or letter (i think)
+    t = t.toLowerCase();                    // makes the title all lowercase
+    t = t.replace(/\s\s+/g, ' ');           // replaces multiple spaces with single spaces
+    var slug = t.replace(/\s/g,'-');        // converts single spaces into dashes
     return slug;
   }
 
