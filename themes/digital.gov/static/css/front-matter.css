@@ -110,6 +110,7 @@
 }
 .gcol1 form textarea{
   height:65px;
+  margin-bottom: 0;
 }
 .gcol1 .checkbox{
   margin:35px 0;
