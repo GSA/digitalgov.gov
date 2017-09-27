@@ -93,12 +93,10 @@
   </script>
 
   {{/* RSS feed of recent posts */}}
+  {{ if .RSSLink }}
   {{ "<!-- RSS Feed-->" | safeHTML }}
-  <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Feed" href="https://www.digitalgov.gov/feed/" />
-
-  {{/* TODO: should we keep this? */}}
-  {{/* Can Hugo build an iCal feed of Cal feed */}}
-  <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
 
   {{/* TODO: All these styles need to be audited / minified / etc */}}
   {{ "<!-- CSS -->" | safeHTML }}
