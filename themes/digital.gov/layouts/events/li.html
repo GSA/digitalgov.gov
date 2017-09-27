@@ -91,7 +91,7 @@
 
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Summary | markdownify }}</p>
+    <p>{{ .Params.summary | markdownify }}</p>
     <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
   </div><!-- .tribe-events-list-event-description -->
 </div><!-- .type-tribe_events -->
