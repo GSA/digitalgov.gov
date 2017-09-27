@@ -1,4 +1,32 @@
-<!DOCTYPE html>
+<!-- Logic for featured image -->
+{{/* Featured_image call */}}
+  {{ $cdnurl := .Site.Params.cdnurl }}
+  {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
+  {{ $featImgBase := $featImg.uid }}
+  {{ $featImgExt := $featImg.format }}
+  {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
+  {{ $featImgWidth := $featImg.width }}
+  {{ $featImgHeight := $featImg.height }}
+  {{ $.Scratch.Set "featImgSuffix" "" }}
+  {{ if gt $featImgWidth 1200 }}
+   {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
+  {{ end }}
+  {{ if gt $featImgWidth 800 }}
+   {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
+  {{ end }}
+  {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+  {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
+{{/* End featured_image call */}}
+
+<!-- Logic for Page Types -->
+{{/* Get Page Type */}}
+{{ if .IsPage }}
+  {{ $.Scratch.Set "pagetype" "article" }}
+{{ else }}
+  {{ $.Scratch.Set "pagetype" "website" }}
+{{ end }}
+
+
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
 <head profile="http://gmpg.org/xfn/11">
@@ -17,34 +45,6 @@
 
   {{ "<!-- Meta Keywords -->" | safeHTML }}
   <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
-  {{ end }}
-
-  <!-- Logic for featured image -->
-  {{/* Featured_image call */}}
-    {{ $cdnurl := .Site.Params.cdnurl }}
-    {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
-    {{ $featImgBase := $featImg.uid }}
-    {{ $featImgExt := $featImg.format }}
-    {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
-    {{ $featImgWidth := $featImg.width }}
-    {{ $featImgHeight := $featImg.height }}
-    {{ $.Scratch.Set "featImgSuffix" "" }}
-    {{ if gt $featImgWidth 1200 }}
-     {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
-    {{ end }}
-    {{ if gt $featImgWidth 800 }}
-     {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
-    {{ end }}
-    {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
-    {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
-  {{/* End featured_image call */}}
-
-  <!-- Logic for Page Types -->
-  {{/* Get Page Type */}}
-  {{ if .IsPage }}
-    {{ $.Scratch.Set "pagetype" "article" }}
-  {{ else }}
-    {{ $.Scratch.Set "pagetype" "website" }}
   {{ end }}
 
   {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
