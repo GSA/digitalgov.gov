@@ -144,13 +144,11 @@ jQuery(document).ready(function($) {
   // Makes commit description
   function matter_commit_desc(post_type, title, summary, slug, filename) {
     var desc = [
-      'New ' + post_type + '%0A',
       '**' + title + '** %0A',
       summary + '%0A',
-      '%0A',
+      "---",
       'slug: `' + slug + '`%0A',
       'filename: `' + filename + '`%0A',
-      '%0A',
       "---"
     ].join("\n");
     return desc;
