@@ -92,11 +92,12 @@
     }
   </script>
 
-  {{/* RSS feed of recent posts */}}
-  {{ if .RSSLink }}
   {{ "<!-- RSS Feed-->" | safeHTML }}
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-  {{ end }}
+  <link href="{{ "feed.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+  {{ "<!-- Sitemap-->" | safeHTML }}
+  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+
 
   {{/* TODO: All these styles need to be audited / minified / etc */}}
   {{ "<!-- CSS -->" | safeHTML }}
