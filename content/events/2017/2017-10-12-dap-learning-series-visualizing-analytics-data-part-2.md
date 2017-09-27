@@ -24,7 +24,7 @@ venue:
   address: 1800 F St.
   city: Washington
   state: D.C.
-  zip: 20006
+  zip: 20405
   country: USA
   map: https://goo.gl/maps/bFWBD6QfDLA2
   embed: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.1955944174774!2d-77.0446942846496!3d38.896642279570806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7bad3b6c63b%3A0x6242d69a4da9e19e!2sGSA!5e0!3m2!1sen!2sus!4v1497972848692" width="555" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
