@@ -7,7 +7,7 @@
 
   <!-- Event Title -->
   <h2 class="tribe-events-list-event-title">
-    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" }}</a>
+    <a class="tribe-event-url" href="{{ .URL }}" title="{{ $.Scratch.Get "displaytitle" }}" rel="bookmark">{{ $.Scratch.Get "displaytitle" | markdownify }}</a>
   </h2>
 
   <!-- Event Meta -->
@@ -19,21 +19,27 @@
         <span class="tribe-event-date-start">{{ dateFormat "January 02 @ 3:04 PM" .Date }}</span> - <span class="tribe-event-time">{{ dateFormat "3:04 PM" .Params.end_date }}</span>
       </div><!-- .tribe-event-schedule-details -->
 
-      <!-- Venue Display Info -->
-      <div class="tribe-events-venue-details">
-        {{ if .Params.venue.venue_name }}
-          {{ .Params.venue.venue_name }},
-        {{ end }}
-        <span class="tribe-address">
-          <span class="tribe-street-address">{{ .Params.venue.address }}</span>
-          <br>
-          <span class="tribe-locality">{{ .Params.venue.city }}</span><span class="tribe-delimiter">,</span>
-          <abbr class="tribe-region tribe-events-abbr" title="District of Columbia">{{ .Params.venue.state }}</abbr>
-          <span class="tribe-postal-code">{{ .Params.venue.zip }}</span>
-          <span class="tribe-country-name">{{ .Params.venue.country }}</span>
-        </span><!-- .tribe-address -->
+      {{ if eq .Params.event_type "online" }}
+        {{/* don't display any location information */}}
+      {{ else }}
+        <!-- Venue Display Info -->
+        <div class="tribe-events-venue-details">
+          {{ if .Params.venue.venue_name }}
+            {{ .Params.venue.venue_name }},
+          {{ end }}
+          <span class="tribe-address">
+            {{ with .Params.venue.address }}<span class="tribe-street-address">{{ . }}</span>
+            <br>{{ end }}
+            {{ with .Params.venue.city }}<span class="tribe-locality">{{ . }}</span><span class="tribe-delimiter">,</span>{{ end }}
+            {{ with .Params.venue.state }}<abbr class="tribe-region tribe-events-abbr">{{ . }}</abbr>{{ end }}
+            {{ with .Params.venue.zip }}<span class="tribe-postal-code">{{ . }}</span>{{ end }}
+            {{ with .Params.venue.country }}<span class="tribe-country-name">{{ . }}</span>{{ end }}
+          </span><!-- .tribe-address -->
 
-        <a class="tribe-events-gmap" href="{{ .Params.venue.map | safeHTML }}" title="Click to view a Google Map" target="_blank">+ Google Map</a>
+          {{ with .Params.venue.map }}
+          <a class="tribe-events-gmap" href="{{ . | safeHTML }}" title="Click to view a Google Map" target="_blank">+ Google Map</a>
+          {{ end }}
+        {{ end }}
 
 
       </div><!-- .tribe-events-venue-details -->
@@ -85,7 +91,7 @@
 
   <!-- Event Content -->
   <div class="tribe-events-list-event-description tribe-events-content">
-    <p>{{ .Summary | markdownify }}</p>
+    <p>{{ .Params.summary | markdownify }}</p>
     <a href="{{ .URL }}" class="tribe-events-read-more" rel="bookmark">Find out more &raquo;</a>
   </div><!-- .tribe-events-list-event-description -->
 </div><!-- .type-tribe_events -->
