@@ -135,6 +135,33 @@ jQuery(document).ready(function($) {
     return title;
   }
 
+  // Makes commit message
+  function matter_commit_msg(post_type, title) {
+    var msg = 'Add new ' + post_type + ': ' + title;
+    return msg;
+  }
+
+  // Makes commit description
+  function matter_commit_desc(post_type, title, summary, slug, filename) {
+    var desc = [
+      'New ' + post_type + '%0A',
+      '**' + title + '** %0A',
+      summary + '%0A',
+      '%0A',
+      'slug: `' + slug + '`%0A',
+      'filename: `' + filename + '`%0A',
+      '%0A',
+      "---"
+    ].join("\n");
+    return desc;
+  }
+
+  // Makes branch name
+  function matter_branch_name(post_type, slug) {
+    var branch_name = 'new-' + post_type + '-' + slug;
+    return branch_name;
+  }
+
   // returns the year and month for use in the filepath on GitHub
   // Returns: 2017/09
   function file_yearmo(date) {
@@ -235,9 +262,14 @@ jQuery(document).ready(function($) {
   // Prints the front-matter in a DIV on the page
   function print_matter(data){
     var post_type = get_post_type(); // gets the post type
-    var title = matter_title(data['m_title']);
+    var date = data['m_date'];
+    var title = "'" + matter_title(data['m_title']) + "'";
+    var summary = "'" + escapeHtml(data['m_summary']) + "'";
     var slug = matter_slug(data['m_title']);
     var filename = get_filename(data['m_date'], slug);
+    var commit_msg = matter_commit_msg(post_type, matter_title(data['m_title']));
+    var commit_desc = matter_commit_desc(post_type, matter_title(data['m_title']), escapeHtml(data['m_summary']), slug, filename);
+    var branch = matter_branch_name(post_type, slug);
 
     // Checks to see what the post type is and prints the front-matter for each type
     // ========================================
@@ -247,9 +279,9 @@ jQuery(document).ready(function($) {
       var matter = [
         "---",
           "slug: " + slug,
-          "date: " + data['m_date'],
-          "title: '" + title + "'",
-          "summary: '" + escapeHtml(data['m_summary']) + "'",
+          "date: " + date,
+          "title: " + title,
+          "summary: " + summary,
           "authors: " + list_items(data['m_authors']),
           "categories: " + list_items(data['m_categories']),
           "tag: " + list_items(data['m_tag']),
@@ -258,10 +290,10 @@ jQuery(document).ready(function($) {
           "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
         "---",
         ,
-        "***Paste content here. Delete this line***"
+        "***Paste body content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/posts/'+file_yearmo(data['m_date'])+'/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
 
 
 
@@ -272,15 +304,15 @@ jQuery(document).ready(function($) {
       var matter = [
         "---",
           "slug: " + slug,
-          "date: " + data['m_date'],
-          "title: '" + title + "'",
-          "summary: '" + escapeHtml(data['m_summary']) + "'",
+          "date: " + date,
+          "title: " + title,
+          "summary: " + summary,
         "---",
         ,
-        "***Paste content here. Delete this line***"
+        "***Paste body content here. Delete this line***"
       ].join("\n");
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/docs/draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
 
 
 
@@ -296,13 +328,13 @@ jQuery(document).ready(function($) {
         var matter = [
           "---",
             "slug: " + slug,
-            "title: '" + title + "'",
-            "summary: '" + escapeHtml(data['m_summary']) + "'",
+            "title: " + title,
+            "summary: " + summary,
             "featured_image: " + '',
             "  uid: " + data['m_featuredimg'],
             "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
-            "date: " + data['m_date'],
+            "date: " + date,
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
@@ -311,7 +343,7 @@ jQuery(document).ready(function($) {
             "venue: " + build_venue_data(venue_data),
           "---",
           ,
-          "***Paste content here. Delete this line***"
+          "***Paste body content here. Delete this line***"
         ].join("\n");
 
 
@@ -323,13 +355,13 @@ jQuery(document).ready(function($) {
         var matter = [
           "---",
             "slug: " + slug,
-            "title: '" + title + "'",
-            "summary: '" + escapeHtml(data['m_summary']) + "'",
+            "title: " + title,
+            "summary: " + summary,
             "featured_image: " + '',
             "  uid: " + data['m_featuredimg'],
             "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
-            "date: " + data['m_date'],
+            "date: " + date,
             "end_date: " + data['m_end_date'],
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
@@ -337,12 +369,12 @@ jQuery(document).ready(function($) {
             "youtube: " + data['m_youtube'],
           "---",
           ,
-          "***Paste content here. Delete this line***"
+          "***Paste body content here. Delete this line***"
         ].join("\n");
       }
 
       var body = encodeURIComponent(matter);
-      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body;
+      var newfile = 'https://github.com/GSA/digitalgov.gov/new/demo/content/events/'+file_yearmo(data['m_date'])+'draft?filename='+filename+'&value='+body+'&message='+commit_msg+'&description='+commit_desc+'&target_branch='+branch;
     }
 
     $('#post-matter').text(matter);
