@@ -74,20 +74,12 @@
   <meta itemprop="image" content="{{ $featImgURL }}" />
   {{ "<!-- End of Twitter -->" | safeHTML }}
 
-  {{/* Only if this is a crosspost — need to add to frontmatter */}}
-  {{ with $.Params.xposted_from }}
-  {{ "<!-- Cross posted -->" | safeHTML }}
-  <link rel="canonical" href="{{ . }}" />
-  {{ end }}
-
   {{ "<!-- RSS Feed-->" | safeHTML }}
   <link href="{{ "feed.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
   {{ "<!-- Sitemap-->" | safeHTML }}
   <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
 
-
-  {{/* TODO: All these styles need to be audited / minified / etc */}}
   {{ "<!-- CSS -->" | safeHTML }}
   <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
