@@ -11,7 +11,7 @@ tag:
 featured_image:
   uid: tile-7
   alt: 'a decorative image'
-event_type: mixed
+event_type: online-only
 date: 2017-10-12 14:00:00 -0400
 end_date: 2017-10-12 15:00:00 -0400
 event_organizer: DigitalGov University
