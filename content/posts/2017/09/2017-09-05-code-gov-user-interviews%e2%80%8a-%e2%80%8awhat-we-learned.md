@@ -10,7 +10,7 @@ authors:
   - code-gov
 categories:
   - Code
-  - 'User Testing &amp; Research'
+  - User Testing and Research
 tag:
   - code
   - user research

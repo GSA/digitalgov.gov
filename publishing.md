@@ -80,3 +80,30 @@ aliases:
   - /docs/old-document-url/
   - /events/old-event-page/
 ```
+
+
+- - -
+### All the Front Matter Data You'll ever need 
+
+```
+---
+slug: headline-example
+date: 2017-09-22 16:24:59 -0400
+title: 'Headline Example'
+summary: 'Summary goes here'
+xposted_from: https://some.url
+authors:
+  - jeremyzilar
+categories:
+  - breakfast
+tag:
+  - eggs
+  - coffee
+  - toast
+featured_image:
+  uid: breakfast-time
+  alt: 'This is my digital breakfast'
+---
+
+***Paste content here. Delete this line***
+```

@@ -17,8 +17,8 @@ tag:
   - GitHub
   - infrastructure
   - open source
-  - U.S. Department of Veterans Affairs
-  - U.S. Digital Service
+  - US Department of Veterans Affairs
+  - US Digital Service
   - USDS
   - user centered design
   - user experience

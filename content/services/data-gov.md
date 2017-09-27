@@ -8,7 +8,7 @@ authors:
   - tburwell
 ---
 
-[www.data.gov](http://www.data.gov/){.button}
+{{< button href="http://www.data.gov/" text="www.data.gov" >}}
 
 ## Benefits & Features
 

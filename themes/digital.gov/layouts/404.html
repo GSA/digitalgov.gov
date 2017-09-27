@@ -1,1 +1,42 @@
-It's yr boi, 404!
+{{ define "pagevars" }}
+  {{ $.Scratch.Set "bodyclasses" "post-template-default single single-post postid-387118 single-format-standard tribe-js c-sw unboxed centercatnav bodybg1" }}
+  {{ $.Scratch.Set "headtitle" "Nothing found at that address" }}
+{{ end }}
+{{ define "content" }}
+<div id="contentleft" class="clearfix">
+  <div id="content" class="clearfix">
+    <div class="post entry sitemap clearfix">
+        <h1>404 Error ... Page Not Found</h1>
+        <div class="content">
+          <p>I'm sorry, but the page you're seeking does not exist. Please verify that you've entered the correct URL in your browser's address bar.</p>
+        </div>
+
+        <div class="sitemap-wide">
+
+          <h2><span>Recent Posts</span></h2>
+
+          {{ range first 10 (where .Site.Pages "Section" "posts") }}
+            <div class="sitemap-post clearfix">
+              <p class="post-title"><a href="{{ .Permalink }}" rel="bookmark" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></p>
+              {{ partial "post-meta.html" . }}
+            </div>
+          {{ end }}
+
+        </div>
+
+        <div class="sitemap-narrow">
+          <h2><span>Site Feed</span></h2>
+          <ul class="archives">
+            <li><a href="{{ "feed/" | absURL }}">Main RSS Feed</a></li>
+          </ul>
+        </div>
+    </div>
+    <!--.post -->
+  </div>
+  <!-- #content -->
+</div>
+<!-- #contentleft -->
+{{ end }}
+{{ define "sidebar" }}
+  {{ partial "sidebar-common.html" . }}
+{{ end }}

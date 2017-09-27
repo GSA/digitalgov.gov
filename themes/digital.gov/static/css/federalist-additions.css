@@ -27,3 +27,22 @@
   display: block;
   color: springgreen;
 }
+
+.home .featpage-image, .page-id-244882 .featpage-image {
+  -webkit-box-shadow: 0 1px 10px #aaa;
+  -moz-box-shadow: 0 1px 10px #aaa;
+  box-shadow: 0 1px 10px #aaa;
+}
+
+.meta, .catslide-meta, p.sitemap-meta {
+  height: auto;
+  overflow: visible;
+}
+
+.addthis_inline_share_toolbox {
+  padding-bottom: 8px;
+}
+
+.image + p {
+  padding-top: 20px;
+}

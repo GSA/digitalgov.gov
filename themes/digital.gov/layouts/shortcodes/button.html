@@ -1,0 +1,15 @@
+{{ $thisHref := .Get "href" }}
+{{ $thisHref := replaceRE "^/" "" $thisHref }}
+{{ $.Scratch.Set "thisHref" $thisHref }}
+{{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref }}
+{{ $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref }}
+
+{{ if ne $prefix $thisHref }}
+{{ else if eq $suffix ".md" }}
+  {{ $.Scratch.Set "thisHref" (relref $.Page $thisHref) }}
+{{ else }}
+    {{ $.Scratch.Set "thisHref" ($thisHref | absURL) }}
+{{ end }}
+{{ $thisHref := $.Scratch.Get "thisHref" }}
+
+<a class="button" href="{{ $thisHref }}">{{ .Get "text" }}</a>

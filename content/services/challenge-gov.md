@@ -8,7 +8,7 @@ authors:
   - ktrebon
 ---
 
-[Post a challenge on Challenge.gov](https://www.challenge.gov/post-challenges/){.button}
+{{< button href="https://www.challenge.gov/post-challenges/" text="Post a challenge on Challenge.gov" >}}
 
 ## **A Primer on Challenges & Prizes**
 
