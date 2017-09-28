@@ -77,35 +77,12 @@
   {{ "<!-- RSS Feed-->" | safeHTML }}
   <link href="{{ "feed.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
-<<<<<<< HEAD
-  {{/* TODO: what does this do? */}}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "name": "DigitalGov - U.S. General Services Administration,  Office of Citizen Services and Innovative Technologies",
-      "url": "https://www.digitalgov.gov",
-      "sameAs": ["https://www.facebook.com/digitalgov", "https://twitter.com/digital_gov", "https://plus.google.com/+DigitalgovGov1/", "https://www.youtube.com/user/howtogov", "https://www.linkedin.com/groups/5016512"]
-    }
-  </script>
-  <!-- /all in one seo pack -->
-
-  {{/* TODO: we need to build a feed to appear here */}}
-  {{/* RSS feed of recent posts */}}
-  <link rel="alternate" type="application/rss+xml" title="DigitalGov &raquo; Feed" href="https://www.digitalgov.gov/feed/" />
-
+  {{ "<!-- Sitemap-->" | safeHTML }}
+  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
-
-  {{/* TODO: should we keep this? */}}
-  {{/* Can Hugo build an iCal feed of Cal feed */}}
-  <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
-=======
-  {{ "<!-- Sitemap-->" | safeHTML }}
-  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
->>>>>>> demo
-
+  
   {{ "<!-- CSS -->" | safeHTML }}
   <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
