@@ -18,7 +18,7 @@ tag:
   - USA.gov Federal Mobile Apps Directory
 ---
 
-[{{< legacy-img src="2014/09/250-x-306-FEMA\_PREPARE-POSTERS\_general\_small\_v4\_RELEASE\_508.jpg" alt="FEMA ad for National Preparedness Month; National PrepareAthon! Day, September 30, 2014." >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/09/600-x-735-FEMA_PREPARE-POSTERS_general_small_v4_RELEASE_508.jpg)If there was one thing we learned on September 11, 2001, it&#8217;s that you can never be too prepared for a disaster of any magnitude.
+[{{< legacy-img src="2014/09/250-x-306-FEMA\_PREPARE-POSTERS\_general\_small\_v4\_RELEASE\_508.jpg" alt="FEMA ad for National Preparedness Month; National PrepareAthon! Day, September 30, 2014." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/09/600-x-735-FEMA_PREPARE-POSTERS_general_small_v4_RELEASE_508.jpg)If there was one thing we learned on September 11, 2001, it&#8217;s that you can never be too prepared for a disaster of any magnitude.
 
 September is aptly named** National Preparedness Month** and the government&#8217;s #[PrepareAthon campaign](http://www.community.fema.gov/connect.ti/AmericasPrepareathon)—led by the [Federal Emergency Management Administration](http://www.fema.gov) (FEMA)—is under way, culminating in **National PrepareAthon! Day, September 30**.
 

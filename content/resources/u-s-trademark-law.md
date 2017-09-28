@@ -17,7 +17,7 @@ United States trademark law is mainly governed by the Lanham Act. &#8220;Common 
   * [Digital Millennium Copyright Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=105_cong_public_laws&docid=f:publ304.105.pdf) (PDF, 277 KB, 60 pages, January 1999)
   * [U.S. Patent Law, U.S. Code 35, Chapter 26](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+35USC261)
   * [Copyright.gov](http://www.copyright.gov/)
-  * [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/United-States-government-works-and-copyright.doc) (MS Word, 16 KB, 2 pages, June 2011)
+  * [United States Government Works and Copyright Act of 1976](https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/United-States-government-works-and-copyright.doc) (MS Word, 16 KB, 2 pages, June 2011)
 
 * * *
 

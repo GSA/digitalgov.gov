@@ -27,14 +27,14 @@
   		    <span class="tribe-events-ajax-loading"><img class="tribe-events-spinner-medium" src="https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="Loading Events" />
   			</span>
         */}}
-  			<div id="tribe-events-content" class="tribe-events-single">
+  			<div id="tribe-events-content" class="tribe-events-single entry">
   				<p class="tribe-events-back">
   					<a href="{{ "events/" | absURL }}"> &laquo; All Events </a>
   				</p>
 
   				<!-- Notices -->
 
-  				<h1 class="tribe-events-single-event-title">{{ .Title }}</h1>
+  				<h1 class="tribe-events-single-event-title">{{ .Title | markdownify }}</h1>
   				<div class="tribe-events-schedule tribe-clearfix">
             <h2>
               <span class="tribe-event-date-start">
@@ -115,9 +115,11 @@
                 <p><strong>This event is online</strong></p>
               {{ end }}
 
+              {{ if eq .Params.event_type "online-only" }}
+                {{/*- Skip this section -*/}}
+              {{ else }}
   						<p><strong>Location</strong><br />
                 {{ if eq .Params.event_type "in-person" }}
-                  {{ if .Params.venue.venue_name }} foooooooo {{ end }}
                   {{ .Params.venue.venue_name }}<br />
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
@@ -125,18 +127,19 @@
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
                 {{ end }}
                 {{ if eq .Params.event_type "mixed" }}
-                  {{ .Params.venue.venue_name }}<br />
+                  {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
-                  {{ .Params.venue.zip }} {{ .Params.venue.country }}<br />
-                  Room: {{ .Params.venue.room }}<br />
+                  {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
+                  {{ with .Params.venue.room }}Room: {{ . }}<br />{{ end }}
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a><br />
-                  YouTube: {{ .Params.youtube }}
+                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
                 {{ end }}
                 {{ if eq .Params.event_type "online" }}
-                  YouTube: {{ .Params.youtube }}
+                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
                 {{ end }}
               </p>
+              {{ end }}
 
               {{ .Content }}
 
@@ -178,6 +181,8 @@
                     </div>
   								</dd>
 
+                  {{/*- don't show event cats and tags -*/}}
+                  {{/*-
                   {{ if (not (isset .Params "categories")) | or (eq .Params.categories "") }}
                   {{ else }}
                     <dt>Event Categories:</dt>
@@ -216,6 +221,7 @@
                       {{ end }}
                     </dd>
                   {{ end }}
+                  -*/}}
   							</dl>
   						</div><!-- .tribe-events-event-meta -->
 
@@ -230,51 +236,55 @@
   						</div><!-- .tribe-events-meta-group -->
   					</div><!-- .tribe-events-single-section -->
 
-  					<div class="tribe-events-single-section tribe-events-event-meta secondary tribe-clearfix">
-  						<div class="tribe-events-meta-group tribe-events-meta-group-venue">
+            {{ if eq .Params.event_type "online-only" }}
+              {{/*- Skip this section -*/}}
+            {{ else }}
+    					<div class="tribe-events-single-section tribe-events-event-meta secondary tribe-clearfix">
+    						<div class="tribe-events-meta-group tribe-events-meta-group-venue">
 
-              {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
-              {{ if .Params.relationships.venue_id }}
-                {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
-                  {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
+                {{/* TODO: Change this to reference the venue_id of the record, not the filename. dunno why I can't make this work. */}}
+                {{ if .Params.relationships.venue_id }}
+                  {{ if index $.Site.Data.venues .Params.relationships.venue_id }}
+                    {{ $.Scratch.Set "venue" (index $.Site.Data.venues  .Params.relationships.venue_id) }}
+                  {{ else }}
+                    {{ $.Scratch.Set "venue" .Params.venue }}
+                  {{ end }}
                 {{ else }}
                   {{ $.Scratch.Set "venue" .Params.venue }}
                 {{ end }}
-              {{ else }}
-                {{ $.Scratch.Set "venue" .Params.venue }}
-              {{ end }}
-              {{ $venue := $.Scratch.Get "venue" }}
-  							<h3 class="tribe-events-single-section-title"> Venue </h3>
-  							<dl>
-  								<dd class="tribe-venue">{{ $venue.venue_name }} </dd>
+                {{ $venue := $.Scratch.Get "venue" }}
+    							<h3 class="tribe-events-single-section-title"> Venue </h3>
+    							<dl>
+    								<dd class="tribe-venue">{{ $venue.venue_name }} </dd>
 
-                  {{/* TODO: This is pretty sloppy code */}}
-  								<dd class="tribe-venue-location">
-  									<address class="tribe-events-address">
-            					<span class="tribe-address">
-                        <span class="tribe-street-address">{{ $venue.address }}</span>
-                    		<br>
-                    		<span class="tribe-locality">{{ $venue.city }}</span><span class="tribe-delimiter">,</span>
-                        {{/* TODO: String lookup for full state name */}}
-                      	<abbr class="tribe-region tribe-events-abbr" title="{{/* full-state-name */}}">{{ $venue.state }}</abbr>
-                      	<span class="tribe-postal-code">{{ $venue.zip }}</span>
-                      	<span class="tribe-country-name">{{ $venue.country }}</span>
-                      </span>
-                      <a href="{{ $venue.map }}">{{ $venue.map}}</a>
-                    </address>
-  								</dd><!-- .tribe-venue-location -->
-  							</dl>
-  						</div><!-- .tribe-events-meta-group -->
+                    {{/* TODO: This is pretty sloppy code */}}
+    								<dd class="tribe-venue-location">
+    									<address class="tribe-events-address">
+              					<span class="tribe-address">
+                          <span class="tribe-street-address">{{ $venue.address }}</span>
+                      		<br>
+                      		<span class="tribe-locality">{{ $venue.city }}</span><span class="tribe-delimiter">,</span>
+                          {{/* TODO: String lookup for full state name */}}
+                        	<abbr class="tribe-region tribe-events-abbr" title="{{/* full-state-name */}}">{{ $venue.state }}</abbr>
+                        	<span class="tribe-postal-code">{{ $venue.zip }}</span>
+                        	<span class="tribe-country-name">{{ $venue.country }}</span>
+                        </span>
+                        <a href="{{ $venue.map }}">{{ $venue.map}}</a>
+                      </address>
+    								</dd><!-- .tribe-venue-location -->
+    							</dl>
+    						</div><!-- .tribe-events-meta-group -->
 
-              {{/* TODO: should be built via API, not from a big html paste */}}
-              {{ with $venue.embed }}
-  						<div class="tribe-events-venue-map">
-  							<div id="tribe-events-gmap-0" style="height: 350px; width: 100%">
-                  {{ . | safeHTML }}
-                </div><!-- #tribe-events-gmap-0 -->
-  						</div><!-- .tribe-events-venue-map -->
-              {{ end }}
-  					</div><!-- .tribe-events-single-section -->
+                {{/* TODO: should be built via API, not from a big html paste */}}
+                {{ with $venue.embed }}
+    						<div class="tribe-events-venue-map">
+    							<div id="tribe-events-gmap-0" style="height: 350px; width: 100%">
+                    {{ . | safeHTML }}
+                  </div><!-- #tribe-events-gmap-0 -->
+    						</div><!-- .tribe-events-venue-map -->
+                {{ end }}
+    					</div><!-- .tribe-events-single-section -->
+            {{ end }}
   				</div><!-- .tribe_events -->
 
           {{/* TODO add paginator if necessary */}}
@@ -282,6 +292,9 @@
           <div id="tribe-events-footer">
   				</div>
           */}}
+
+          <!-- Edit file on GitHub -->
+          <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
 
   			</div>
   			<!-- #tribe-events-content -->

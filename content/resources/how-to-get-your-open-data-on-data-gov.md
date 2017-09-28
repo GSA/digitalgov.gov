@@ -42,7 +42,7 @@ From 2009-2013, agency updates to the Data.gov catalog were not automated. Feder
   </p>
   
   <p>
-    <a href="CDN/files/2014/12/harvest-diagram-departmentwide-gis-separate.png">{{< legacy-img src="CDN/files/2014/12/harvest-diagram-departmentwide-gis-separate.png" alt="federated harvest architecture diagram" >}}</a>
+    <a href="CDN/files/2014/12/harvest-diagram-departmentwide-gis-separate.png">{{< legacy-img src="/2014/12/harvest-diagram-departmentwide-gis-separate.png" alt="federated harvest architecture diagram" >}}</a>
   </p>
   
   <h2 id="step-1" style="padding-top: 50px">

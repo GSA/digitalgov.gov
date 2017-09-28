@@ -35,7 +35,7 @@ At every stage of their development, they took the new design and opened it up f
 
 ## Data.gov Version #1:  May 2013
 
-[{{< legacy-img src="2014/03/Data.gov-before-annotated-2.jpg" alt="Data.gov before screenshot 2012" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Data.gov-before-annotated-2.jpg)
+[{{< legacy-img src="2014/03/Data.gov-before-annotated-2.jpg" alt="Data.gov before screenshot 2012" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/Data.gov-before-annotated-2.jpg)
 
 <p dir="ltr">
   The initial design, above, is a fairly straightforward informational website. To move it to the next level, they used a combination of face-to-face usability testing and remote tests.
@@ -55,7 +55,7 @@ At every stage of their development, they took the new design and opened it up f
 
 ## Data.gov Version #2: July 2013
 
-[{{< legacy-img src="2014/03/Data.gov-before-annotated-2-2.jpg" alt="data.gov screenshot 2013" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Data.gov-before-annotated-2-2.jpg)
+[{{< legacy-img src="2014/03/Data.gov-before-annotated-2-2.jpg" alt="data.gov screenshot 2013" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/Data.gov-before-annotated-2-2.jpg)
 
 <p dir="ltr">
   There was only one problem.
@@ -87,7 +87,7 @@ At every stage of their development, they took the new design and opened it up f
 
 ## Version #3: January 2014
 
-[{{< legacy-img src="2014/03/Data.gov-before-annotated-3-1.jpg" alt="data.gov after screenshot 2014" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/Data.gov-before-annotated-3-1.jpg)
+[{{< legacy-img src="2014/03/Data.gov-before-annotated-3-1.jpg" alt="data.gov after screenshot 2014" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/Data.gov-before-annotated-3-1.jpg)
 
 <p dir="ltr">
   Now, they made the communities front and center and called them “topics.” The icons draw people’s attention to them as the sole graphics on the page. It gives equal time to both the search-based navigation on top, Google-style, and then the icons below.

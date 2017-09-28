@@ -14,7 +14,7 @@ tag:
   - UX
 ---
 
-[{{< legacy-img src="2014/02/UX-constraints-250x163.jpg" alt="tiles of various colors" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/UX-constraints.jpg)If you could only communicate through a business-card sized screen, what would you say and how would you say it? In which ways could people respond to your message? These are some of the questions constraints lead us to ask, and the reason why constraints are so great at spurring innovative thinking.
+[{{< legacy-img src="2014/02/UX-constraints-250x163.jpg" alt="tiles of various colors" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/UX-constraints.jpg)If you could only communicate through a business-card sized screen, what would you say and how would you say it? In which ways could people respond to your message? These are some of the questions constraints lead us to ask, and the reason why constraints are so great at spurring innovative thinking.
 
 It’s pretty common to start a project in “the sky is the limit” mode as we starting thinking of all the things we can do to create amazing user experiences. By removing all of the boundaries and limitations, we reason, we will come up with incredible designs. But, the reality is that more often than not, this leaves us spinning our wheels rather than having those eureka moments we’re seeking.
 

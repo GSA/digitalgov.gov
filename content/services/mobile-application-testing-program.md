@@ -8,7 +8,7 @@ authors:
   - jparcell
 ---
 
-{{< legacy-img src="CDN/files/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." >}}Does your mobile site function properly on all devices your users have?
+{{< legacy-img src="/2013/12/250-x-202-mobile-devices-testing-app.jpg" alt="Many smartphones and tablets on a table displaying the same app." >}}Does your mobile site function properly on all devices your users have?
 
 Are you able to test your mobile site on all devices that access it?
 

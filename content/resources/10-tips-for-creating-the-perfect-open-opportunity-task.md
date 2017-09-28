@@ -18,7 +18,7 @@ authors:
 <li style="margin-bottom: 15px">
   <b>Be specific: </b>Define exactly what needs to be done and what deliverables you expect. Include links or documents that the participant will need. <ul>
     <li>
-      The DigitalGov team <a href="https://openopps.WHATEVER/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="({{< link "tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
+      The DigitalGov team <a href="https://openopps.WHATEVER/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="{{< link "tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
     </li>
   </ul>
 </li>
@@ -65,7 +65,7 @@ authors:
 </li>
 
 <li style="margin-bottom: 15px">
-  <b>Market your Open Opp</b>. Are there communities of practice (CoP’s) that might be interested in your task? Use our <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx">Open Opps Marketing Email Template for CoPs</a> (14 kb MS Word .docx) to craft a message. <ul>
+  <b>Market your Open Opp</b>. Are there communities of practice (CoP’s) that might be interested in your task? Use our <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2015/04/Open-Opps-Marketing-Email-Template-for-CoPs.docx">Open Opps Marketing Email Template for CoPs</a> (14 kb MS Word .docx) to craft a message. <ul>
     <li>
       Want to target an individual (or six?) Each task has a “share” button that produces a pre-populated email template.
     </li>

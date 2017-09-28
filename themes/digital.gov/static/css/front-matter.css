@@ -40,7 +40,8 @@
   color:#fff;
 }
 
-.matter-container h1{
+.matter-container h1,
+.matter-container p{
   text-align: center;
 }
 
@@ -109,6 +110,7 @@
 }
 .gcol1 form textarea{
   height:65px;
+  margin-bottom: 0;
 }
 .gcol1 .checkbox{
   margin:35px 0;
@@ -142,7 +144,11 @@
 }
 
 .gcol2 #newfile {
+  padding:10px 20px;
   font-weight: bold;
+  background: #3F4FFF;
+  color:#fff;
+  display: block;
 }
 .gcol2 .mttr{
   margin: 0;

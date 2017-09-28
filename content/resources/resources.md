@@ -2,17 +2,48 @@
 url: /resources/
 date: 2013-11-17 11:13:13 -0400
 title: Resources
+type: docs
 layout: 1col
 summary: 'Whatever digital government project you&rsquo;re working on, we&rsquo;ve got the resources to help, including communities of practice, &#8220;getting started&#8221; guidance, policy requirements and more. Looking for overall digital policy guidance? See the Checklist of Requirements for Federal Digital Services. [dg-search affiliate=&#8221;digitalgov&#8221; value=&#8221;1678&#8243;] Accessibility Accessibility Resource List Celebrating the 18th Anniversary of the Section 508 Rehabilitation'
 authors:
   - apiazza
 ---
 
-Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, “getting started” guidance, policy requirements and more.
 
-Looking for overall digital policy guidance? See the [Checklist of Requirements for Federal Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}).
+<table style="border: 0" align="center">
+<tbody>
+<tr>
+<td style="border: 0;width: 62%">
+<p>Whatever digital government project you’re working on, we’ve got the resources to help, including communities of practice, “getting started” guidance, policy requirements and more.</p>
+<p><strong>NEW</strong>: Check out the list of <a href="{{< link "omb-memos-circulars-executive-orders-and-other-policies.md" >}}">OMB Memos,&nbsp;Circulars, Executive Orders and Other Policies</a></p>
+<p>Looking for overall digital policy guidance? See the <a href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Digital Services</a>.</p>
+</td>
+<td style="border: 1;width: 38%">
+  <form accept-charset="UTF-8" action="https://search.usa.gov/search/docs" id="search-form" method="get">
+    <div style="margin:0;padding:0;display:inline">
+      <input name="utf8" type="hidden" value="✓">
+    </div>
+<input id="affiliate" name="affiliate" type="hidden" value="digitalgov">
+<input type="hidden" name="dc" value="1678">
+<label for="query">Enter Search Term(s):</label>
+<input autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="query" name="query" type="text" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+<input name="commit" type="submit" value="Search">
+</form>
+<script type="text/javascript">
+		//<![CDATA[
+	      var usasearch_config = { siteHandle:"digitalgov" };
 
-[dg-search affiliate=”digitalgov” value=”1678″]
+	      var script = document.createElement("script");
+	      script.type = "text/javascript";
+	      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+	      document.getElementsByTagName("head")[0].appendChild(script);
+
+		//]]&gt;
+</script>
+</td>
+</tr>
+</tbody>
+</table>
 
 * * *
 

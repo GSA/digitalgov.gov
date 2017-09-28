@@ -39,6 +39,9 @@ rssLimit: 20
 outputs:
   home: ["HTML","RSS","SiteImages"]
 
+blackfriday:
+  fractions: false
+
 params:
   description           : "DigitalGov: We’re helping you build a modern government."
   faceboook             : ""
@@ -48,7 +51,7 @@ params:
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
-  defaulturl            : "https://digitalgov.gov"
+  defaulturl            : "https://www.digitalgov.gov"
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

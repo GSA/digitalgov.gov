@@ -15,7 +15,7 @@ tag:
 
 In case you missed it, U.S. Open Data [recently launched a tool](https://usopendata.org/2015/02/18/lmgtdfy/) called: <a href="http://lmgtdfy.usopendata.org/" target="_blank">Let Me Get That Data For You (LMGTDY)</a>. The name is a play on the very funny <a href="http://lmgtfy.com/" target="_blank">Let Me Google That For You</a> website.
 
-[{{< legacy-img src="2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM.png)
+[{{< legacy-img src="2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM-669x400.png" alt="screenshotofNRELdataserarch" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/03/Screen-Shot-2015-03-23-at-6.04.24-PM.png)
 
 ## How LMGTDFY works
 

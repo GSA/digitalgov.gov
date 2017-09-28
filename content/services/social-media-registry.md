@@ -7,11 +7,11 @@ authors:
   - jherman
 ---
 
-{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." >}}
+{{< legacy-img src="/2014/06/600-x-280-Facebook-Federal-Government-Verification-CIA-Federal-Social-Media-Registry.jpg" alt="Screen capture of search results for Central Intelligence Agency on Facebook; Facebook's blue and white Verified check mark identifies the real CIA's federal account above multiple imposter accounts." >}}
 
 ## For U.S. Government
 
-[Register and Manage Accounts](https://socialmobileregistry.WHATEVER/admin){.button}
+{{< button href="https://socialmobileregistry.WHATEVER/admin" text="Register and Manage Accounts" >}}
 
 ## For Developers: Using and Improving the API
 

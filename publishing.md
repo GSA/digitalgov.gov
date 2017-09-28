@@ -42,6 +42,19 @@ Here is an example post: https://raw.githubusercontent.com/GSA/digitalgov.gov/de
 The digitalgov.gov team will be notified of the new submission. Feel free to edit your submission at any point. Any comments on your submission will be left on this this page.
 
 - - -
+### Adding a new Author
+
+All of our authors are in separate data files:
+https://github.com/GSA/digitalgov.gov/tree/demo/data/people/authors
+
+To make a new author:
+1. Copy the text/data from one of the existing author data files
+2. Create a new one in the authors folder (parent folder)
+3. Commit the fire directly to the `demo` branch
+
+`Note:` Watch out for special characters `"$&:/@` in the author files.
+
+- - -
 ### Creating a Redirect
 
 A redirect is when you need to make traffic that is going to one URL, arrive at another.
@@ -66,4 +79,31 @@ aliases:
   - /2012/05/05/my-old-url/
   - /docs/old-document-url/
   - /events/old-event-page/
+```
+
+
+- - -
+### All the Front Matter Data You'll ever need 
+
+```
+---
+slug: headline-example
+date: 2017-09-22 16:24:59 -0400
+title: 'Headline Example'
+summary: 'Summary goes here'
+xposted_from: https://some.url
+authors:
+  - jeremyzilar
+categories:
+  - breakfast
+tag:
+  - eggs
+  - coffee
+  - toast
+featured_image:
+  uid: breakfast-time
+  alt: 'This is my digital breakfast'
+---
+
+***Paste content here. Delete this line***
 ```

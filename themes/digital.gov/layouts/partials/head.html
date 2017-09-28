@@ -1,90 +1,83 @@
-<!DOCTYPE html>
+<!-- Logic for featured image -->
+{{/* Featured_image call */}}
+  {{ $cdnurl := .Site.Params.cdnurl }}
+  {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
+  {{ $featImgBase := $featImg.uid }}
+  {{ $featImgExt := $featImg.format }}
+  {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
+  {{ $featImgWidth := $featImg.width }}
+  {{ $featImgHeight := $featImg.height }}
+  {{ $.Scratch.Set "featImgSuffix" "" }}
+  {{ if gt $featImgWidth 1200 }}
+   {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
+  {{ end }}
+  {{ if gt $featImgWidth 800 }}
+   {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
+  {{ end }}
+  {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
+  {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
+{{/* End featured_image call */}}
+
+<!-- Logic for Page Types -->
+{{/* Get Page Type */}}
+{{ if .IsPage }}
+  {{ $.Scratch.Set "pagetype" "article" }}
+{{ else }}
+  {{ $.Scratch.Set "pagetype" "website" }}
+{{ end }}
+
+
 <html lang="en-US" itemscope itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
 
 <head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+  {{ "<!-- Page Title -->" | safeHTML }}
+  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title | markdownify) }}</title>
 
-  <title>{{ $.Scratch.Get "headtitle" | default (printf "%s / %s" .Title .Site.Title) }}</title>
-
-  <!-- All in One SEO Pack 2.3.11.3 by Michael Torbert of Semper Fi Web Design[435,453] -->
+  {{ "<!-- Meta Description -->" | safeHTML }}
   <meta name="description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-
   {{ $sitetags := $.Site.Data.tag }}
   {{ with $.Params.tag }}
     {{ $_taxonomy := .}}
     {{ $length := $_taxonomy | len }}
-    <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
+
+  {{ "<!-- Meta Keywords -->" | safeHTML }}
+  <meta name="keywords" content='{{ range $i, $e := $_taxonomy }}{{ $slug := $e | urlize }}{{ $tag := index $sitetags $slug }}{{ if lt (add $i 1) $length }}{{ $tag.display_name }},{{ else }}{{ $tag.display_name }}{{ end }}{{ end }}'>
   {{ end }}
 
-  {{/* TODO: these may not need to be here */}}
-  <meta name="google-site-verification" content="g9_ce7PMGt-o-6Z5w9JaayjvGenyVBflWNo_nMBoggI" />
-  <meta name="msvalidate.01" content="1634354CAA14D9CE8F1084F995A6D202" />
-  <meta name="p:domain_verify" content="54ddbdf823cfb7dbf0078287e8952906" />
-
-  {{/* TODO: current url or alternate url if duplicated content */}}
-  <meta name="robots" content="noindex">
-
-  {{/* Only if this is a crosspost — need to add to frontmatter */}}
-  {{ with $.Params.xposted_from }}<link rel="canonical" href="{{ . }}" />{{ end }}
-
-  {{/* TODO: values need to be page specific */}}
-  {{/* TODO: DigitalGov => Digital.gov */}}
+  {{ "<!-- Start of Facebook Open Graph -->" | safeHTML }}
   <meta property="og:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .URL | absURL }}" />
-  {{/* Featured_image call */}}
-    {{ $cdnurl := .Site.Params.cdnurl }}
-    {{ $featImg := index $.Site.Data.images (default "digital-gov-card" .Params.featured_image.uid) }}
-    {{ $featImgBase := $featImg.uid }}
-    {{ $featImgExt := $featImg.format }}
-    {{ $featImgBaseCDN := printf "%s/%s" $cdnurl $featImgBase }}
-    {{ $featImgWidth := $featImg.width }}
-    {{ $featImgHeight := $featImg.height }}
-    {{ $.Scratch.Set "featImgSuffix" "" }}
-    {{ if gt $featImgWidth 1200 }}
-     {{ $.Scratch.Set "featImgSuffix" "_w1200" }}
-    {{ end }}
-    {{ if gt $featImgWidth 800 }}
-     {{ $.Scratch.Set "featImgTwitterSuffix" "_w800" }}
-    {{ end }}
-    {{ $featImgURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgSuffix") $featImgExt }}
-    {{ $featImgTwitterURL := printf "%s%s.%s" $featImgBaseCDN ($.Scratch.Get "featImgTwitterSuffix") $featImgExt }}
-
-    <meta property="og:image" content="{{ $featImgURL }}" />
-    <meta property="og:image:width" content="{{ $featImgWidth }}" />
-    <meta property="og:image:width" content="{{ $featImgHeight }}" />
-  {{/* End featured_image call */}}
-  <meta property="og:site_name" content="DigitalGov" />
-
-
-  {{/* TODO: values need to be page specific */}}
-  {{/* What's fb:admins? */}}
+  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
+  <meta property="og:type" content="{{ $.Scratch.Get "pagetype" }}">
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ $featImgURL }}" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-1.png" />
+  <meta property="og:image" content="https://s3.amazonaws.com/digitalgov/tile-2.png" />
+  <meta property="og:image:width" content="{{ $featImgWidth }}" />
+  <meta property="og:site_name" content="DigitalGov">
   <meta property="fb:admins" content="100000569454928" />
-  <meta property="og:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
+  <meta property="article:publisher" content="https://www.facebook.com/digitalgov" />
+  <meta property="article:author" content="willsullivan" />
+  <meta property="article:published_time" content="2017-09-25T09:00:15Z" />
+  <meta property="article:modified_time" content="2017-09-25T09:00:15Z" />
+  {{ "<!-- End of Facebook Open Graph -->" | safeHTML }}
+
+  {{ "<!-- Start of Twitter Card -->" | safeHTML }}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Digital_Gov" />
-
-  {{/* Extract twitter handle from author data */}}
-  {{ with $.Params.authors }}
-    {{ range $i, $e := . }}
-      {{ $uid := $e | urlize }}
-      {{ $data := $.Site.Data }}
-      {{ $author := index $data.people.authors $uid }}
-      {{ with $author.twitter }}
-        <meta name="twitter:creator" content="{{ . }}" />
-      {{ end }}
-    {{ end }}
-  {{ end }}
-
-  <meta name="twitter:domain" content="{{ $.Site.Params.defaulturl }}" />
-  <meta name="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}" />
-  <meta name="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}" />
-  <meta name="twitter:image" content="{{ $featImgTwitterURL }}" />
+  <meta name="twitter:creator" content="@Digital_Gov" />
+  <meta property="twitter:description" content="{{ $.Params.summary | default $.Site.Params.description | markdownify }}">
+  <meta property="twitter:title" content="{{ $.Params.title | default $.Site.Title | markdownify }}">
+  <meta property="twitter:image" content="{{ $featImgTwitterURL }}">
   <meta itemprop="image" content="{{ $featImgURL }}" />
+  {{ "<!-- End of Twitter -->" | safeHTML }}
 
+  {{ "<!-- RSS Feed-->" | safeHTML }}
+  <link href="{{ "feed.xml" | absURL }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
+<<<<<<< HEAD
   {{/* TODO: what does this do? */}}
   <script type="application/ld+json">
     {
@@ -108,8 +101,12 @@
   {{/* TODO: should we keep this? */}}
   {{/* Can Hugo build an iCal feed of Cal feed */}}
   <!-- <link rel="alternate" type="text/calendar" title="DigitalGov &raquo; iCal Feed" href="https://www.digitalgov.gov/events/?ical=1" /> -->
+=======
+  {{ "<!-- Sitemap-->" | safeHTML }}
+  <link rel="sitemap" type="application/xml" title="DigitalGov Sitemap" href="{{ "sitemap.xml" | absURL }}" />
+>>>>>>> demo
 
-  {{/* TODO: All these styles need to be audited / minified / etc */}}
+  {{ "<!-- CSS -->" | safeHTML }}
   <link rel='stylesheet' href='{{ "css/widget.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/dashicons.min.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/sitesusagov.css" | absURL }}' type='text/css' media='all' />
@@ -124,65 +121,44 @@
   <link rel='stylesheet' href='{{ "css/shortcodes.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/custom.css" | absURL }}' type='text/css' media='all' />
   <link rel='stylesheet' href='{{ "css/style-front-end.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+  <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
+  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
   <link rel='stylesheet' href='{{ "css/federalist-additions.css" | absURL }}' type='text/css' media='all' />
 
-  <link rel='stylesheet' href='{{ "css/notice-bar.css" | absURL }}' type='text/css' media='all' />
-
-  {{/* TODO: These stylesheets needs to load, how do they interact with those just below? */}}
-
-  <link rel='stylesheet' href='{{ "css/tribe-events-full.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-
-  <link rel='stylesheet' href='{{ "css/tribe-events-theme.min.css?ver=4.4.1.1" | absURL }}' type='text/css' media='all' />
-
-  {{/* Add add to calendar sheet in events */}}
   {{ if eq .Section "events" }}
-    <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
+  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
+  <link href="https://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
   {{ end }}
 
-
-  {{/* TODO: Unused event stylesheets */}}
-  <!-- <link rel='stylesheet' id='tribe-events-full-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.4.1.1' type='text/css' media='all' />
-  <link rel='stylesheet' id='tribe-events-calendar-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.4.1.1' type='text/css' media='all' />
-  <link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)'
-  /> -->
-  <!-- <link rel='stylesheet' id='tribe-events-calendar-mobile-style-css' href='https://www.digitalgov.gov/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.4.1.1' type='text/css' media='only screen and (max-width: 768px)' -->
-
-  {{/* TODO: What is this??? */}}
-  <!-- This site uses the Google Analytics by MonsterInsights plugin version 5.5.4 - https://www.monsterinsights.com/ -->
-  <!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) -->
-  <!-- / Google Analytics by MonsterInsights -->
-
-  {{/* TODO: Do we need all these jquery? */}}
-  <!-- jQuery ver=1.12.4 -->
+  {{ "<!-- jQuery | ver=1.12.4 -->" | safeHTML }}
   <script type='text/javascript' src='{{ "js/jquery.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/jquery-migrate.min.js" | absURL }}'></script>
 
-  {{/* TODO: Audit javascript */}}
+  {{ "<!-- JS -->" | safeHTML }}
   <script type='text/javascript' src='{{ "js/sitesusagov.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/froogaloop.min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flexslider-min.js" | absURL }}'></script>
   <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
-  <script type='text/javascript' src='{{ "js/flex-script-main.js" | absURL }}'></script>
 
-  {{/* TODO: We'll want a way to capture this shortlink, perhaps through and API */}}
-  <link rel='shortlink' href='https://www.digitalgov.gov/' />
-
-  {{/* TODO: Media embedders: comment out for now */}}
-  {{/*
-  <link rel="alternate" type="application/json+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F" />
-  <link rel="alternate" type="text/xml+oembed" href="https://www.digitalgov.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.digitalgov.gov%2F&#038;format=xml" />
-  */}}
-
-  {{/* TODO: DAP */}}
+  {{ "<!-- DAP — Digital Analytics Program | Learn more: https://digitalgov.gov/dap/ -->" | safeHTML }}
   <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?ver=true&agency=GSA"></script>
 
-  {{/* TODO: Should we get this local? */}}
-  <link rel="shortcut icon" href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/02/favicon.ico" type="image/x-icon" />
+  {{ "<!-- Google Analytics — Global Site Tag (gtag.js) | because our site has been around a lot longer than DAP -->" | safeHTML }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47271808-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', 'UA-47271808-1');
+  </script>
+
+  {{ "<!-- Favicon -->" | safeHTML }}
+  <link rel="shortcut icon" href="https://s3.amazonaws.com/digitalgov/favicon.ico" type="image/x-icon" />
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-
-  <!-- Custom Styles from Theme Setting Page -->
-  <link rel="stylesheet" media="all" href="{{ "css/override.css" | absURL }}" type="text/css" />
 
   {{ partial "head--custom-css.html" . }}
 </head>

@@ -13,7 +13,7 @@ tag:
   - structured content
 ---
 
-_[{{< legacy-img src="2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" >}}](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._
+_[{{< legacy-img src="2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._
 
 The <a href="http://www.cdc.gov/" rel="nofollow">Centers for Disease Control and Prevention (CDC)</a> uses <a href="http://tools.cdc.gov/syndication/default.aspx" rel="nofollow">content syndication</a> to share important health information with a variety of federal public health agencies, state and local public health departments, non-profit organizations, academic institutions, and commercial organizations.
 

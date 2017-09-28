@@ -1,5 +1,6 @@
 ---
-url: communities/
+url: /communities/
+type: docs
 layout: 1col
 date: 2013-11-17 11:12:13 -0400
 title: Communities
@@ -23,7 +24,8 @@ Their contributions are limitless in their impact, including the introduction of
 
 ## Communities Roster
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5" >}}Agile/Lean**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team efficiency and customer satisfaction while reducing project risk and cost.
+{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-5" >}}
+**Agile/Lean**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team efficiency and customer satisfaction while reducing project risk and cost.
 
   * 350 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov) with no subject line and &#8220;subscribe agile-lean-cop&#8221; in the body
@@ -37,7 +39,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 150 memberships
   * To join, [email David Kaufmann](mailto:david.kaufmann@gsa.gov?subject=Join BusinessUSA Community) with “Join BusinessUSA Community” in the subject
 
-[**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4" >}}Challenges & Prizes**]({{< relref "challenges-prizes-community.md" >}}): Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
+[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4" >}}Challenges & Prizes**]({{< relref "challenges-prizes-community.md" >}}): Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
 
   * 700 memberships
   * To join, [email Challenges](mailto:challenges@gsa.gov?subject=Join Challenges Community) with “Join Challenges Community” in the subject
@@ -52,7 +54,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 700 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov). The message should have no subject and the body should say, “subscribe FCPCCS”
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-7.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-7" >}}Video Production Pros ** (formerly “Digital Audio/Video Production and Strategy”): Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DP’s, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.
+**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-7.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-7" >}}Video Production Pros ** (formerly “Digital Audio/Video Production and Strategy”): Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DP’s, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.
 
   * 300+ memberships
   * To join, [email Bryce Spivey](mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros) with “Join Video Production Pros” in subject
@@ -67,7 +69,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 700 memberships
   * To join, [email Annabel Berman](mailto:annabel.berman@gsa.gov)  with “Subscribe to CX Community” in subject
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6" >}}[MobileGov]({{< link "categories/mobile" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
+**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-6" >}}[MobileGov]({{< link "categories/mobile" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
 
   * 1,100 memberships
   * To join, [email Jacob Parcell](mailto:Jacob.Parcell@gsa.gov?subject=Subscribe to MobileGov) with “Subscribe to MobileGov” in subject
@@ -84,7 +86,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 900 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov) with no subject line, and &#8220;subscribe open-data&#8221; in the body
 
-[**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1" >}}Plain Language Action and Information Network**]({{< relref "plain-language-community-of-practice.md" >}}): Supporting the use of clear communication in government writing.
+[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1" >}}Plain Language Action and Information Network**]({{< relref "plain-language-community-of-practice.md" >}}): Supporting the use of clear communication in government writing.
 
   * 500 memberships
   * To join, [email Katherine Spivey](mailto:katherine.spivey@gsa.gov?subject=Join Plain Language Community) with “Join Plain Language Community” in subject
@@ -99,7 +101,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 1,000 memberships
   * To join, contact the group Co-Chairs Jean Fox and Silvia Salazar via <a href="mailto:ux-cop-request@listserv.gsa.gov?subject=Join UX Community" target="_blank" rel="noopener noreferrer">email</a>, with “Join UX Community” in the subject line
 
-**{{< legacy-img src="CDN/files/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-9.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-9" >}}Virtual/Augmented Reality**: Researching and developing Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.
+**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-9.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-9" >}}Virtual/Augmented Reality**: Researching and developing Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.
 
   * To join, [email the VR Listserv](mailto:VR-subscribe-request@listserv.gsa.gov)
 

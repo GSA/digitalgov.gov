@@ -17,11 +17,11 @@ tag:
 ---
 
 <p dir="ltr" style="text-align: center;">
-  <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/03/photo-4.jpg">{{< legacy-img src="2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/photo-4.jpg">{{< legacy-img src="2014/03/600-x-320-GSA-Mentor-Protege-Program-subpart-519-70-on-cell-phone.jpg" alt="Photo of a mobile phone displaying the Rap Genius app" >}}</a>
 </p>
 
 <p dir="ltr">
-  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="({{< link "events/socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
+  The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at <a href="{{< link "socialgov-summit-entrepreneurship-and-small-business.md" >}}">the Federal #SocialGov Summit on Entrepreneurship and Small Business</a>.
 </p>
 
 <p dir="ltr">
@@ -73,7 +73,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  The SocialGov Summits are an ongoing education and training series through <a href="({{< link "events" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="{{< relref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
+  The SocialGov Summits are an ongoing education and training series through <a href="{{< link "events" >}}">DigitalGov University</a> open free to government employees in order to help build the government of the 21st Century. We have <a href="{{< relref "2014-01-28-innovation-means-more-better-cost-effective-digital-training.md" >}}">quadrupled the amount of these digital trainings</a> available in 2014, with the same resources, by using social media and data as a mechanism to improve the internal function of government itself.
 </p>
 
 <p dir="ltr">
