@@ -21,13 +21,13 @@ The program consists of:
       * Past recorded trainings on our <a href="https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFwlyvLFUtmDpYFKezhot8P" target="_blank">YouTube channel</a>
       * Future training found on our [events page]({{< link "events" >}})
   * Implementation support
-      * [DAP FAQs]({{< relref "common-questions-about-dap-faq.md" >}})
-      * [Implementation instructions]({{< relref "analytics-tool-instructions.md" >}})
+      * [DAP FAQs]({{< link "common-questions-about-dap-faq.md" >}})
+      * [Implementation instructions]({{< link "analytics-tool-instructions.md" >}})
       * Most recent code available in the <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">DAP Github repo</a>
   * [On-going help-desk](mailto:dap@support.WHATEVER) and data reporting support
   * A public window into some DAP data at [analytics.usa.gov](https://analytics.usa.gov)
       * Want to fork our dashboard? See our [Github repo](https://github.com/18F/analytics.usa.gov)
-  * [Digital Metrics guidance and best practices]({{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices")
+  * [Digital Metrics guidance and best practices]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices")
 
 ## Benefits and Features
 
@@ -47,7 +47,7 @@ The program consists of:
 
 ### Data insights across agencies
 
-  * Using a common analytics tool across federal agencies will deliver [an unprecedented, government-wide view]({{< relref "guidance-for-dap-gov-wide-data.md" >}} "Guidance for DAP Gov-Wide Data") of how well agencies serve their customers through the Web.
+  * Using a common analytics tool across federal agencies will deliver [an unprecedented, government-wide view]({{< link "guidance-for-dap-gov-wide-data.md" >}} "Guidance for DAP Gov-Wide Data") of how well agencies serve their customers through the Web.
   * Participation from 45 agencies offers data from a variety of types of websites within government. See agency participation at <a href="https://pulse.cio.gov/" target="_blank">pulse.cio.gov</a>.
   * Making analytic data more accessible will create new possibilities for agencies to collaborate to improve services.
 
@@ -64,7 +64,7 @@ Any federal agency can sign up to use the common Web analytics tool. Here&#8217;
 
 If your agency participates in the program, you can request access to the data by [emailing us](mailto:dap@support.WHATEVER). We&#8217;ll send you instructions and a short registration form, and notify your agency POC. After you complete the form, we&#8217;ll grant you access and get you started!
 
-You can [view the most common questions about the program]({{< relref "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ") and [learn more about incorporating the Digital Analytics Tool into your current metrics program]({{< relref "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}} "Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program").
+You can [view the most common questions about the program]({{< link "common-questions-about-dap-faq.md" >}} "Common Questions about DAP - FAQ") and [learn more about incorporating the Digital Analytics Tool into your current metrics program]({{< link "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}} "Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program").
 
 ### Contact Us
 

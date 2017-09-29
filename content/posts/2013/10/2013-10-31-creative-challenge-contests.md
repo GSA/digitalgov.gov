@@ -40,7 +40,7 @@ tag:
     </div>
     
     <div>
-      A creative video challenge should not be confused with another type of challenge that allows solvers to submit a video of their technical or scientific concepts (please see <a title="Software and Apps Challenges" href="{{< relref "2013-11-06-software-and-apps-challenges.md" >}}">Software and Apps Challenges</a>).
+      A creative video challenge should not be confused with another type of challenge that allows solvers to submit a video of their technical or scientific concepts (please see <a title="Software and Apps Challenges" href="{{< link "2013-11-06-software-and-apps-challenges.md" >}}">Software and Apps Challenges</a>).
     </div>
     
     <div>

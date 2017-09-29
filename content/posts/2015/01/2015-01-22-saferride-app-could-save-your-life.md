@@ -33,8 +33,8 @@ The app helps keep drunk drivers off the road by allowing users to call a taxi o
   * Call a pre-programmed contact.
   * Call up a map of your current location.
 
-The app’s simple interface belies the amount of design and development time that went in to making it extremely useful. For instance, [the app pulls in data from Yelp]({{< relref "2015-01-26-new-nhtsa-app-uses-yelp-api.md" >}} "New NHTSA App Uses Yelp API")—a social network that connects people with local business—to get local taxi information.
+The app’s simple interface belies the amount of design and development time that went in to making it extremely useful. For instance, [the app pulls in data from Yelp]({{< link "2015-01-26-new-nhtsa-app-uses-yelp-api.md" >}} "New NHTSA App Uses Yelp API")—a social network that connects people with local business—to get local taxi information.
 
 There’s never any excuse to drive after drinking, and now it’s never been easier to help end drunk driving. Use NHTSA’s SaferRide app to get home safely.
 
-The app is available [on Google Play](https://play.google.com/store/apps/details?id=com.nhtsa.SaferRide) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/us/app/saferride/id950774008?mt=8) for iOS devices._Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< relref "the-federal-mobile-apps-registry.md" >}})__._
+The app is available [on Google Play](https://play.google.com/store/apps/details?id=com.nhtsa.SaferRide) for Android devices, and Apple’s [iTunes store](https://itunes.apple.com/us/app/saferride/id950774008?mt=8) for iOS devices._Y__ou can download this and other cool mobile government apps with just a few clicks from our [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)__. Federal agencies can get their apps in the directory by [using the Federal Mobile Products Registry]({{< link "the-federal-mobile-apps-registry.md" >}})__._

@@ -627,7 +627,7 @@ authors:
                                                               </ol>
                                                               
                                                               <p>
-                                                                Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting </span><a href="{{< relref "how-to-get-your-open-data-on-data-gov.md" >}}"><span style="font-weight: 400">documentation</span></a><span style="font-weight: 400">, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.</p> 
+                                                                Inventory.data.gov in its current form is not designed to handle geospatial metadata. As discussed in our harvesting </span><a href="{{< link "how-to-get-your-open-data-on-data-gov.md" >}}"><span style="font-weight: 400">documentation</span></a><span style="font-weight: 400">, Data.gov continues to harvest geospatial datasets directly from geospatial harvest sources. Agencies should have the remainder of their agencies in a “non-geospatial” data.json that the Data.gov catalog can harvest.</p> 
                                                                 
                                                                 <ol start="13">
                                                                   <li>

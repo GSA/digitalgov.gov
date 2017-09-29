@@ -32,7 +32,7 @@ Mobile user experience [encompasses the user’s perceptions and feelings before
 
 However, [mobile development is an ever-changing target](http://www.infoworld.com/article/2610221/application-development/12-predictions-for-the-future-of-programming.html) and agencies need quick mobile development “do&#8217;s and don&#8217;ts” so we challenged MobileGov community members at events over the last six months to tell us the most important things agencies need to do when mobilizing their information, products and services. {{< legacy-img src="2015/07/600-x-400-Reference-Book-DenzilMann-iStock-Thinkstock-477170032.jpg" alt="Reference Book" caption="" >}} 
 
-We’ve turned the 42 into [six guidelines]({{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}) and we’ve collected resources, tools and agency examples agency program managers and mobile developers can use to develop them.
+We’ve turned the 42 into [six guidelines]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}) and we’ve collected resources, tools and agency examples agency program managers and mobile developers can use to develop them.
 
 **Guideline 1**: Make sure your content is structured and chunked appropriately for multiple devices
 

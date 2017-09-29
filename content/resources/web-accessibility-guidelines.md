@@ -26,8 +26,8 @@ authors:
 
   * Read more [Accessibility related articles]({{< link "categories/accessibility" >}}) on DigitalGov
   * [Section 508 Standards for Electronic and Information Technology](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
-  * [Using Section 508 to Improve the Accessibility of Government Services]({{< relref "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
+  * [Using Section 508 to Improve the Accessibility of Government Services]({{< link "2015-06-05-using-section-508-guidance-to-improve-the-accessibility-of-government-services.md" >}})
 
 * * *
 
-See more [DigitalGov Resources]({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< link "resources.md" >}})

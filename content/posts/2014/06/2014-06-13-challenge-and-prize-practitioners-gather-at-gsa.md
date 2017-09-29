@@ -25,14 +25,14 @@ tag:
 
 Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
-On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< relref "challenges-prizes-community.md" >}}) together for its [quarterly meeting]({{< relref "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
+On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}}) together for its [quarterly meeting]({{< link "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
 
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.
 
 {{< legacy-img src="2014/06/600-x-450-Challenges-and-Prizes-Community-of-Practice-quarterly-meeting-May-28-2014-photo-11.jpg" alt="Challenges and Prizes Community of Practice quarterly meeting on May 28, 2014" >}}
 
-Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions]({{< relref "2014-05-07-new-white-house-report-prize-competition-use-increased-85-in-2013.md" >}}) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
+Cristin Dorgelo, Assistant Director for Grand Challenges at the [White House Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp), shared the results of a [recent report on challenge and prize competitions]({{< link "2014-05-07-new-white-house-report-prize-competition-use-increased-85-in-2013.md" >}}) conducted under [America COMPETES Act](https://cio.gov/wp-content/uploads/downloads/2012/09/Prize_Authority_in_the_America_COMPETES_Reauthorization_Act.pdf) Authority.
 
 Trends include:
 

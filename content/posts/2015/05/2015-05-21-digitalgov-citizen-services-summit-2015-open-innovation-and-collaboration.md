@@ -15,7 +15,7 @@ tag:
 
 [metaslider id=274602]
 
-Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.WHATEVER/).
+Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).
 
 The theme of this year&#8217;s Summit was &#8220;<span class="il">open.</span>&#8221; The agenda was packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective or even cheaper.  A diverse array of topics were addressed, including privacy and identity management, 3D printing, and agile methodology.
 
@@ -59,7 +59,7 @@ She also said that young people have found ways to serve their country through t
 
 
 
-Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< relref "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
+Dr. David Bray, Chief Information Officer for the Federal Communications Commission and Eisenhower Fellow, discussed the [Internet of Everything]({{< link "2015-02-26-the-internet-of-everything-small-business-opportunities.md" >}}).
 
 <blockquote class="twitter-tweet" data-width="500">
   <p lang="en" dir="ltr">

@@ -3,17 +3,17 @@ slug: data-briefing-will-artificial-intelligence-tools-replace-or-augment-federa
 date: 2017-09-20 11:00:44 -0400
 title: 'The Data Briefing&#58; Will Artificial Intelligence Tools Replace or Augment Federal Employees&#63;'
 summary: 'A Washington, D&#46;C&#46; think tank recently released reports advocating using artificial intelligence &#40;AI&#41; tools to reorganize the federal government&#46;'
-authors: 
+authors:
   - bbrantley
-categories: 
+categories:
   - data
   - managing-digital
-tag: 
+tag:
   - ai
   - artificial-intelligence
   - human-resources
-featured_image: 
-  uid: 
+featured_image:
+  uid:
   alt: 'Automation of business workflows and processes with businessman&#46;'
 ---
 
@@ -44,6 +44,5 @@ If you are a federal worker and want to know if your job is in danger of being r
 
  HR
 
-_Each week, [The Data Briefing](https://www.digitalgov.gov/tag/the-data-briefing/) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please contact me via email._
-
-_[Dr. William Brantley](https://www.digitalgov.gov/author/bbrantley/) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
+_Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+_[Dr. William Brantley]({{< link "author/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

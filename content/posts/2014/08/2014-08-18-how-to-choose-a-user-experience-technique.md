@@ -44,7 +44,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#personas">Personas</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#personas">Personas</a>
       </td>
       
       <td style="text-align: left">
@@ -58,7 +58,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#field">Field Visits / Ethnographic research</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#field">Field Visits / Ethnographic research</a>
       </td>
       
       <td style="text-align: left">
@@ -72,7 +72,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#focus">Focus Groups</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#focus">Focus Groups</a>
       </td>
       
       <td style="text-align: left">
@@ -86,7 +86,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#usability">Usability Testing</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#usability">Usability Testing</a>
       </td>
       
       <td style="text-align: left">
@@ -100,7 +100,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#surveys">Surveys</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#surveys">Surveys</a>
       </td>
       
       <td style="text-align: left">
@@ -114,7 +114,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#diary">Diary Studies</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#diary">Diary Studies</a>
       </td>
       
       <td style="text-align: left">
@@ -128,7 +128,7 @@ Well, don’t be alarmed; you can start by figuring out two simple things:
     
     <tr>
       <td style="text-align: left">
-        <a href="{{< relref "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#usage">Usage Data and Customer Feedback</a>
+        <a href="{{< link "2014-08-18-how-to-choose-a-user-experience-technique.md" >}}#usage">Usage Data and Customer Feedback</a>
       </td>
       
       <td style="text-align: left">
@@ -218,6 +218,6 @@ Good luck!
 
 <div dir="ltr" style="color: #222222">
   <p>
-    <em><strong>Pooja Sawant</strong> is in her second year at University of Maryland, College Park, earning an MS in Information Management. She is interning with the <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a> at GSA this summer.</em>
+    <em><strong>Pooja Sawant</strong> is in her second year at University of Maryland, College Park, earning an MS in Information Management. She is interning with the <a title="DigitalGov User Experience Program" href="{{< link "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a> at GSA this summer.</em>
   </p>
 </div>

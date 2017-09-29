@@ -13,7 +13,7 @@ tag:
   - HTTPS
 ---
 
-The U.S. government&#8217;s [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).
+The U.S. government&#8217;s [Digital Analytics Program]({{< link "dap.md" >}}) (DAP) collects Web traffic and analytics data from across the federal government. That data flows into a very large central account, and some of that data is automatically made public in real time at [analytics.usa.gov](https://analytics.usa.gov/).
 
 {{< legacy-img src="2015/08/600-x-330-Analytics-USA-gov-08-14-2015.jpg" alt="A screencapture of the anaylytics.usa.gov dashboard on August 14, 2015" >}}
 
@@ -61,12 +61,12 @@ This generally isn&#8217;t a viable solution for websites, because users type ba
 
 The simplest solution is to refuse http:// connections entirely by closing port 80 and not allowing browsers to connect at all, but this was not a viable option for DAP&#8217;s hosting provider. However, returning an error code instead of a redirect for plain HTTP connections would not be in compliance with federal HTTPS policy.
 
-We solved the issue by **combining** a redirect with an error code. Any HTTP requests to a file on http://dap.WHATEVER will redirect the user to https://dap.WHATEVER/403, which then returns a 403 error code.
+We solved the issue by **combining** a redirect with an error code. Any HTTP requests to a file on http://dap.WHATEVER will redirect the user to https://dap.digitalgov.gov/403, which then returns a 403 error code.
 
 <div>
-  <code>$ curl --head http://dap.WHATEVER/Universal-Federated-Analytics-Min.js&lt;br />
+  <code>$ curl --head http://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js&lt;br />
 HTTP/1.1 301 Moved Permanently&lt;br />
-Location: https://dap.WHATEVER/403</code>
+Location: https://dap.digitalgov.gov/403</code>
 </div>
 
 This ensures that data can _only_ be collected over HTTPS, and _breaks_ any HTTP or protocol-relative URLs participating agencies might accidentally use when integrating their websites into the Digital Analytics Program.

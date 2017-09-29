@@ -24,7 +24,7 @@ tag:
   - USPTO
 ---
 
-My first column when I came back from last year’s summer sabbatical was on the <a href="{{< relref "2015-09-23-the-data-briefing-surrounded-by-fields-of-federal-data-u-s-patent-and-trademark-offices-patentsview.md" >}}" target="_blank">U.S. Patent and Trademark Office’s (USPTO) PatentsView project</a>. PatentsView became one of the Department of Commerce’s most viewed apps in 2015. Building on this success, USPTO released a <a href="https://developer.uspto.gov/" target="_blank">beta version of its open data portal</a>.
+My first column when I came back from last year’s summer sabbatical was on the <a href="{{< link "2015-09-23-the-data-briefing-surrounded-by-fields-of-federal-data-u-s-patent-and-trademark-offices-patentsview.md" >}}" target="_blank">U.S. Patent and Trademark Office’s (USPTO) PatentsView project</a>. PatentsView became one of the Department of Commerce’s most viewed apps in 2015. Building on this success, USPTO released a <a href="https://developer.uspto.gov/" target="_blank">beta version of its open data portal</a>.
 
 {{< legacy-img src="2016/05/600-x-328-USPTO-Open-Data-Portal-beta-site.jpg" alt="Screen capture of the homepage of the beta version of U.S. Patent and Trademark Office's open data portal." >}}
 

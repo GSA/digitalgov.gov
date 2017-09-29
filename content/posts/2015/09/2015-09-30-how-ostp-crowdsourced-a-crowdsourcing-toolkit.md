@@ -32,7 +32,7 @@ tag:
 
 To promote crowdsourcing, one effective tool is, well, crowdsourcing.
 
-Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
+Today, the White House [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP) and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}}) (CCS) unveiled the [Citizen Science and Crowdsourcing Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The toolkit contains information, resources, and best practices federal agencies can use to harness the power of public participation.
 
 Specifically, the toolkit provides:
 
@@ -48,7 +48,7 @@ The Toolkit was developed in response to the [2013 Second Open Government Nation
 
 OSTP and CCS had a wealth of subject matter expert knowledge but did not have resources or expertise to build and host a publicly available toolkit.
 
-Jenn Gustetic, Assistant Director for Open Innovation at OSTP, looked for assistance from the [Open Opportunities platform](https://openopps.WHATEVER/), which allows agencies to tap into federal expertise and provides professional development opportunities to federal employees. Two groups were formed via Open Opportunities: one tasked with [building the toolkit](https://openopps.WHATEVER/tasks/44), and another charged with [ensuring that the toolkit content adheres to Section 508 standards](https://openopps.WHATEVER/tasks/121).
+Jenn Gustetic, Assistant Director for Open Innovation at OSTP, looked for assistance from the [Open Opportunities platform](https://openopps.digitalgov.gov/), which allows agencies to tap into federal expertise and provides professional development opportunities to federal employees. Two groups were formed via Open Opportunities: one tasked with [building the toolkit](https://openopps.digitalgov.gov/tasks/44), and another charged with [ensuring that the toolkit content adheres to Section 508 standards](https://openopps.digitalgov.gov/tasks/121).
 
 In six months, Open Opportunities participants built the user-centered toolkit, collaborating with innovators from more than 25 agencies. Building the toolkit is a step forward for both federal agencies and the citizen science and crowdsourcing fields as a whole.
 
@@ -60,6 +60,6 @@ Participants also expanded their skill sets as a result of the collaboration. Sa
 
 ## Behind the Scenes
 
-The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< relref "dap.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.WHATEVER/) powers the toolkit’s search box.
+The toolkit was built on [Sites](https://sites.usa.gov/), a free shared service that provides federal agencies with an open-source CMS and secure cloud hosting. Analytics code from the [Digital Analytics Program]({{< link "dap.md" >}}) was implemented on the toolkit website, and [DigitalGov Search](http://search.digitalgov.gov/) powers the toolkit’s search box.
 
 Gustetic noted that the project was done with no funding, making the availability of tools and shared services essential in the success of the toolkit.

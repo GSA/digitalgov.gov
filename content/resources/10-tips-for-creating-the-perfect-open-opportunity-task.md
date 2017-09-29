@@ -18,7 +18,7 @@ authors:
 <li style="margin-bottom: 15px">
   <b>Be specific: </b>Define exactly what needs to be done and what deliverables you expect. Include links or documents that the participant will need. <ul>
     <li>
-      The DigitalGov team <a href="https://openopps.WHATEVER/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="{{< link "tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
+      The DigitalGov team <a href="https://openopps.digitalgov.gov/tasks/25">needed a writer</a> who could contribute to a weekly blog series. The task included <a href="{{< link "tag/trends-on-tuesday" >}}">a link to the blog series</a> so that potential participants could get familiar with existing articles.
     </li>
   </ul>
 </li>
@@ -26,7 +26,7 @@ authors:
 <li style="margin-bottom: 15px">
   <b>Give the big picture: </b>Include information on how participants’ work will/may be used. This helps participants understand their work is part of a greater effort. <ul>
     <li>
-      The National Institute of Standards and Technology (NIST) <a href="https://openopps.WHATEVER/tasks/24">needed facts sheets updated</a>. For their task, they explained that the fact sheets would be posted on their website and would  “help the world understand the importance of the National Network for Manufacturing Innovation at NIST.”
+      The National Institute of Standards and Technology (NIST) <a href="https://openopps.digitalgov.gov/tasks/24">needed facts sheets updated</a>. For their task, they explained that the fact sheets would be posted on their website and would  “help the world understand the importance of the National Network for Manufacturing Innovation at NIST.”
     </li>
   </ul>
 </li>
@@ -59,7 +59,7 @@ authors:
 <li style="margin-bottom: 15px">
   <b>Every Open Opp is a learning opportunity. </b>Many tasks do not require participants to be experts in a given field. If you are looking for somebody who is willing to learn a new skill, clearly state that. <ul>
     <li>
-      The DigitalGov usability team requested help with <a href="https://openopps.WHATEVER/tasks/18">writing usability case studies</a>. They clearly stated that using WordPress was part of the task, but they would accept a participant who was willing to learn WordPress basics.
+      The DigitalGov usability team requested help with <a href="https://openopps.digitalgov.gov/tasks/18">writing usability case studies</a>. They clearly stated that using WordPress was part of the task, but they would accept a participant who was willing to learn WordPress basics.
     </li>
   </ul>
 </li>

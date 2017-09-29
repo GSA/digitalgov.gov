@@ -23,7 +23,7 @@ tag:
   - US Department of Labor
 ---
 
-## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}
 
 [Labs.Data.gov](http://labs.data.gov/) is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to [improve any project](http://labs.data.gov/) and submit pull requests in order to share the improvements with others.
 
@@ -55,14 +55,14 @@ With the open source release of the [White House&#8217;s API Standards template]
   * [Centers for Disease Control & Prevention](https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/cdc-content-services-api.docx "CDC case study") (MS Word, 20.93 KB, 2 pages, November 2012)
   * [Department of Labor—Software Development Kits (SDKs)](https://digitalgov.sites.usa.gov/2012/11/19/case-study-how-dol-created-software-development-kits-sdks/ "Case Study: How DOL Created Software Development Kits - SDKs")
   * [Federal Register](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf)**** (PDF, 218 KB, 3 pages, November 2012)
-  * [General Services Administration—Social Media Registry]({{< relref "2012-11-19-case-study-how-gsa-launched-social-media-registry.md" >}} "Case Study: How GSA Launched Social Media Registry")
-  * [HealthFinder.gov]({{< relref "2012-07-16-healthfinder-gov-api.md" >}} "Healthfinder.gov API")
+  * [General Services Administration—Social Media Registry]({{< link "2012-11-19-case-study-how-gsa-launched-social-media-registry.md" >}} "Case Study: How GSA Launched Social Media Registry")
+  * [HealthFinder.gov]({{< link "2012-07-16-healthfinder-gov-api.md" >}} "Healthfinder.gov API")
   * [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) (PDF, 4.6 MB, 56 pages, September 2012)
   * [National Renewable Energy Laboratory](http://developer.nrel.gov/api-case-study/)
 
 ## <a name="how-to-make-apis-overview"></a>How to Make APIs—An Overview
 
-There are several different ways to generate APIs that range in complexity and functionality. This [primer]({{< relref "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview") provides a general overview of the different methods.
+There are several different ways to generate APIs that range in complexity and functionality. This [primer]({{< link "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview") provides a general overview of the different methods.
 
 ## <a name="api-release-kit"></a>API Release Kit
 
@@ -70,7 +70,7 @@ Best practices around API production have agreed on a number of common elements 
 
 ## <a name="developer-kit"></a>/Developer Kit
 
-Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit](http://WHATEVER/2013/05/21/developer-kit/ "/Developer Kit") provides an outline of these components.
+Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< link "2013-05-21-developer-kit.md" >}}) provides an outline of these components.
 
 ## <a name="producing-apis-through-data.gov"></a>Producing APIs through Data.gov
 

@@ -22,10 +22,10 @@ Challenges can offer incentive prizes that are either monetary or non-monetary. 
 
 Details on **types of challenges**:
 
-  * [Ideation Challenges]({{< relref "2013-11-14-ideation-challenges.md" >}})
-  * [Software and Apps Challenges]({{< relref "2013-11-06-software-and-apps-challenges.md" >}})
-  * [Creative Challenge Contests]({{< relref "2013-10-31-creative-challenge-contests.md" >}})
-  * [Technology Demonstration and Market Stimulation Prizes]({{< relref "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}})
+  * [Ideation Challenges]({{< link "2013-11-14-ideation-challenges.md" >}})
+  * [Software and Apps Challenges]({{< link "2013-11-06-software-and-apps-challenges.md" >}})
+  * [Creative Challenge Contests]({{< link "2013-10-31-creative-challenge-contests.md" >}})
+  * [Technology Demonstration and Market Stimulation Prizes]({{< link "2013-10-31-technology-demonstration-and-market-stimulation-challenges.md" >}})
 
 ​Challenge platforms are the online tools that provide a forum for the seeker to post the problem, or call-to-action, and invite a community of solvers to suggest, collaborate on, and judge solutions.
 

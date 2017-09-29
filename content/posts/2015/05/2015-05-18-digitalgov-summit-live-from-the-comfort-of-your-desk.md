@@ -25,7 +25,7 @@ tag:
   - White House
 ---
 
-The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://summit.WHATEVER) with this mission and your needs in mind. The theme is open and [the agenda](https://summit.WHATEVER/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.
+The DigitalGov platform helps federal agencies meet 21st century digital expectations, and we’ve planned our second [DigitalGov Summit](https://summit.WHATEVER) with this mission and your needs in mind. The theme is open and [the agenda](https://summit.digitalgov.gov/agenda/) is packed with presentations about how “opening” data, content, contracts and talent makes digital citizen services better, more effective and even cheaper.
 
 ## Attending Virtually
 
@@ -33,15 +33,15 @@ The DigitalGov platform helps federal agencies meet 21st century digital expecta
 
 Live stream participants will also hear exclusive content:
 
-  * Bernetta Reese, Web and Project Manager for the U.S. Department of Agriculture, will conduct live “red carpet” interviews with [Expo exhibitors](https://summit.WHATEVER/expo/) and [Summit speakers](https://summit.WHATEVER/speakers).
+  * Bernetta Reese, Web and Project Manager for the U.S. Department of Agriculture, will conduct live “red carpet” interviews with [Expo exhibitors](https://summit.digitalgov.gov/expo/) and [Summit speakers](https://summit.digitalgov.gov/speakers).
   * Exclusive interviews will be held on: 
-      * [Open and Structured Content Modeling]({{< relref "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}} "Structured Content in Government: How HHS and NCI Are Getting Started") at the Department of Health and Human Services with Sally Dadjou, Public Affairs Specialist for HHS.
+      * [Open and Structured Content Modeling]({{< link "2015-03-20-structured-content-in-government-how-hhs-and-nci-are-getting-started.md" >}} "Structured Content in Government: How HHS and NCI Are Getting Started") at the Department of Health and Human Services with Sally Dadjou, Public Affairs Specialist for HHS.
       * [The Public Participation Playbook](https://participation.usa.gov/) with Justin Herman, Federal-wide Social Media Program Lead at GSA.
 
 Look for the {{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/612/2015/05/65-x-65-on-the-air-tower-only-Radio-broadcasting-design-elements-Looper_cro-iStock-Thinkstock-482334395.jpg" alt="" >}} on the schedule for live-stream exclusives.
 
 ## Agenda Update
 
-We are also very pleased and excited to announce some updates to the [Summit agenda](https://summit.WHATEVER/agenda/).
+We are also very pleased and excited to announce some updates to the [Summit agenda](https://summit.digitalgov.gov/agenda/).
 
 Megan Smith, U.S. Chief Technology Officer to the White House, will open the conference, and a panel discussing Innovations Through Open Customer Experience Practices will close the Summit, with panelists from the Internal Revenue Service, Export-Import Bank and U.S. Citizen and Immigration Services.

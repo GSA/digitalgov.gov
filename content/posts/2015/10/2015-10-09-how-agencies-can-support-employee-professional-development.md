@@ -29,7 +29,7 @@ A four member team consisting of employees from the Department of Agriculture, E
 
 ## Finding an Employee Engagement Platform
 
-AgOpportunity tasks are posted on [Open Opportunities](https://openopps.WHATEVER/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
+AgOpportunity tasks are posted on [Open Opportunities](https://openopps.digitalgov.gov/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
 Nadine Pembleton, EIG Fellow and Director of Building Management Services for TSA, said that utilizing Open Opportunities as a platform was critical in the implementation of AgOpportunity.
 
@@ -41,7 +41,7 @@ The Fellows met with the 17 USDA agency heads and chief information officers to 
 
 Ted Kaouk, EIG Fellow and Special Assistant to the Chief Information Officer at USDA, said that the agency was a perfect place to launch the pilot.
 
-“USDA is a complex agency with a very diverse mission: everything from ensuring hungry kids have lunches to fighting wildfires to food safety inspection to providing loans in rural America for hospitals and housing,” Kaouk said. “We really wanted to look at something that could support all the employees at USDA. With the USDA CIO Council’s backing, we had people we could target (4,000 IT employees). We developed four projects focused on [cybersecurity](https://openopps.WHATEVER/tasks/93), [open data](https://openopps.WHATEVER/tasks/88), [strategic sourcing](https://openopps.WHATEVER/tasks/90), and [competency model development](https://openopps.WHATEVER/tasks/91), which align with the USDA CIO Council’s FY15 priorities.”
+“USDA is a complex agency with a very diverse mission: everything from ensuring hungry kids have lunches to fighting wildfires to food safety inspection to providing loans in rural America for hospitals and housing,” Kaouk said. “We really wanted to look at something that could support all the employees at USDA. With the USDA CIO Council’s backing, we had people we could target (4,000 IT employees). We developed four projects focused on [cybersecurity](https://openopps.digitalgov.gov/tasks/93), [open data](https://openopps.digitalgov.gov/tasks/88), [strategic sourcing](https://openopps.digitalgov.gov/tasks/90), and [competency model development](https://openopps.digitalgov.gov/tasks/91), which align with the USDA CIO Council’s FY15 priorities.”
 
 ## Implementing the Pilot
 

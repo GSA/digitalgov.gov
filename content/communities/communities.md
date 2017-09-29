@@ -11,7 +11,7 @@ authors:
 
 Communities unite federal teams with over 12,000 memberships across 16 active mission areas—the largest and most active inter-agency network of transformative federal government managers—as critical mission hubs that provide a platform for sharing, developing and implementing strategies.
 
-Their contributions are limitless in their impact, including the introduction of citizen voice platforms like [Yelp for public services]({{< relref "2015-08-07-five-star-customer-experience-in-public-service-with-yelp.md" >}}) and [Artificial Intelligence for customer service]({{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the support of more than [700 prizes and competitions](https://www.challenge.gov/list/), inter-Community platforms like [the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.uf6fsnw2g), development of the [U.S. Public Participation Playbook](https://participation.usa.gov/) and other resources for [Cyber-Security]({{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}) and [Accessibility for persons with Disabilities]({{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}), and [mobile products]({{< relref "mobile-application-testing-program.md" >}}) that put services in the hands of citizens.
+Their contributions are limitless in their impact, including the introduction of citizen voice platforms like [Yelp for public services]({{< link "2015-08-07-five-star-customer-experience-in-public-service-with-yelp.md" >}}) and [Artificial Intelligence for customer service]({{< tmp "events/automatic-for-the-people-ai-machine-learning-and-chatbots-for-digital-customer-service-in-government.md" >}}), the support of more than [700 prizes and competitions](https://www.challenge.gov/list/), inter-Community platforms like [the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.uf6fsnw2g), development of the [U.S. Public Participation Playbook](https://participation.usa.gov/) and other resources for [Cyber-Security]({{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}) and [Accessibility for persons with Disabilities]({{< link "improving-the-accessibility-of-social-media-in-government.md" >}}), and [mobile products]({{< link "mobile-application-testing-program.md" >}}) that put services in the hands of citizens.
 
 ## Communities Objectives
 
@@ -39,17 +39,17 @@ Their contributions are limitless in their impact, including the introduction of
   * 150 memberships
   * To join, [email David Kaufmann](mailto:david.kaufmann@gsa.gov?subject=Join BusinessUSA Community) with “Join BusinessUSA Community” in the subject
 
-[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4" >}}Challenges & Prizes**]({{< relref "challenges-prizes-community.md" >}}): Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
+[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-4" >}}Challenges & Prizes**]({{< link "challenges-prizes-community.md" >}}): Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
 
   * 700 memberships
   * To join, [email Challenges](mailto:challenges@gsa.gov?subject=Join Challenges Community) with “Join Challenges Community” in the subject
 
-[**Community Solutions**]({{< relref "community-solutions.md" >}}): A community for federal staff who provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.
+[**Community Solutions**]({{< link "community-solutions.md" >}}): A community for federal staff who provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.
 
   * 950+ memberships
   * To join, [fill out the **Join Our Listserv** form](https://communitysolutions.sites.usa.gov/join-our-listserv/).
 
-**[Crowdsourcing and Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
+**[Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
 
   * 700 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov). The message should have no subject and the body should say, “subscribe FCPCCS”
@@ -64,7 +64,7 @@ Their contributions are limitless in their impact, including the introduction of
   * 275 memberships
   * To join, [email Tim Cossairt](mailto:tim.cossairt@dhs.gov?subject=Join G3C) with “Join G3C” in subject
 
-[**Government Customer Experience**]({{< relref "customer-experience-community.md" >}}): Improving the public&#8217;s experience when they interact with government.
+[**Government Customer Experience**]({{< link "customer-experience-community.md" >}}): Improving the public&#8217;s experience when they interact with government.
 
   * 700 memberships
   * To join, [email Annabel Berman](mailto:annabel.berman@gsa.gov)  with “Subscribe to CX Community” in subject
@@ -74,10 +74,10 @@ Their contributions are limitless in their impact, including the introduction of
   * 1,100 memberships
   * To join, [email Jacob Parcell](mailto:Jacob.Parcell@gsa.gov?subject=Subscribe to MobileGov) with “Subscribe to MobileGov” in subject
 
-[**Multilingual Digital Group**]({{< relref "government-multilingual-websites-community.md" >}}): Expanding and improving digital content on different platforms in languages other than English.
+[**Multilingual Digital Group**]({{< link "government-multilingual-websites-community.md" >}}): Expanding and improving digital content on different platforms in languages other than English.
 
   * 150 memberships
-  * To join, visit the [Multilingual Digital Group]({{< relref "government-multilingual-websites-community.md" >}}) page and click on Join the Listserv.
+  * To join, visit the [Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}}) page and click on Join the Listserv.
 
     If you have any trouble, please contact [Laura Godfrey](mailto:laura.godfrey@gsa.gov?subject=Join Multilingual Community)
 
@@ -86,17 +86,17 @@ Their contributions are limitless in their impact, including the introduction of
   * 900 memberships
   * To join, [email the Listserv](mailto:listserv@listserv.gsa.gov) with no subject line, and &#8220;subscribe open-data&#8221; in the body
 
-[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1" >}}Plain Language Action and Information Network**]({{< relref "plain-language-community-of-practice.md" >}}): Supporting the use of clear communication in government writing.
+[**{{< legacy-img src="/2016/07/320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1.jpg" alt="320-x-212-Federal-SocialGov-Community-Citizen-Services-Social-Media-1" >}}Plain Language Action and Information Network**]({{< link "plain-language-community-of-practice.md" >}}): Supporting the use of clear communication in government writing.
 
   * 500 memberships
   * To join, [email Katherine Spivey](mailto:katherine.spivey@gsa.gov?subject=Join Plain Language Community) with “Join Plain Language Community” in subject
 
-**[SocialGov]({{< relref "social-media.md" >}})**: Working with missions across government, the White House, international partners, public private partnerships, and citizens to promote the effective and responsible use of digital engagement, participation and collaboration programs for citizens.
+**[SocialGov]({{< link "social-media.md" >}})**: Working with missions across government, the White House, international partners, public private partnerships, and citizens to promote the effective and responsible use of digital engagement, participation and collaboration programs for citizens.
 
   * 1,200 memberships
   * To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join #SocialGov) with “Join #SocialGov” in subject
 
-[**User Experience**]({{< relref "federal-user-experience-community-of-practice.md" >}}): Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.
+[**User Experience**]({{< link "federal-user-experience-community-of-practice.md" >}}): Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.
 
   * 1,000 memberships
   * To join, contact the group Co-Chairs Jean Fox and Silvia Salazar via <a href="mailto:ux-cop-request@listserv.gsa.gov?subject=Join UX Community" target="_blank" rel="noopener noreferrer">email</a>, with “Join UX Community” in the subject line
@@ -105,7 +105,7 @@ Their contributions are limitless in their impact, including the introduction of
 
   * To join, [email the VR Listserv](mailto:VR-subscribe-request@listserv.gsa.gov)
 
-[**Web Content Managers**]({{< relref "web-managers-forum.md" >}}): Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
+[**Web Content Managers**]({{< link "web-managers-forum.md" >}}): Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
 
   * 2,000 memberships
   * To join, [email Alycia Piazza](mailto:alycia.piazza@gsa.gov?subject=Join Web Content Managers) with “Join Web Content Managers” in subject  and **confirm in the email that you are a government employee**.

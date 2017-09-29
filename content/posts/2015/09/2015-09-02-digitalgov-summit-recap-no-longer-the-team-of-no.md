@@ -20,7 +20,7 @@ tag:
 
 No one likes to be told no. This is especially true at work, when you’re moving toward something that you feel is in the best interest of your customers. But so often in government, our forward progress gets slowed down by others in our organization who we think “just don’t get it”—namely those in content, legal, procurement and security.
 
-A group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together, during a panel discussion at the second annual [DigitalGov Citizen Services Summit](https://summit.WHATEVER/), held in May.
+A group of self-proclaimed naysayers came together to dispel myths and share advice to help everyone work together, during a panel discussion at the second annual [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/), held in May.
 
 These groups, stereotypically, are often viewed as in conflict with each other, with each feeling as though the others are working against them. “How did we get to (what feels like) opposing teams?” Janet Stevens, Chief Information Officer in the Food Safety and Inspection Service at the U.S. Department of Agriculture, and moderator, asked the panel.
 

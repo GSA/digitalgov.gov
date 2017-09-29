@@ -7,13 +7,13 @@ authors:
   - bsteele
 ---
 
-Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools. [These federal-compatible TOS agreements]({{< relref "negotiated-terms-of-service-agreements.md" >}}) modify or remove problematic clauses in standard TOS agreements, and allow federal employees to legally use these tools.
+Federal-compatible Terms of Service (TOS) agreements are special agreements negotiated between the federal government and vendors who offer free social media, mobile, business and other digital tools. [These federal-compatible TOS agreements]({{< link "negotiated-terms-of-service-agreements.md" >}}) modify or remove problematic clauses in standard TOS agreements, and allow federal employees to legally use these tools.
 
 ## Why It&#8217;s Important
 
 Digital media is key to helping federal agencies engage with their customers and accomplish their mission. However, the standard Terms of Service (or Terms of Use) for most free digital products and services are incompatible with federal law, regulation, or practice.
 
-To meet this need, a coalition of federal agencies, led by GSA, works with a broad range of providers of no-cost social and digital media products to develop amended, federally compatible TOS agreements. GSA leads this effort to reduce the need for dozens of agencies to negotiate TOS agreements and to streamline negotiations with vendors through a single [Point-of-Contact (POC)]({{< relref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}).
+To meet this need, a coalition of federal agencies, led by GSA, works with a broad range of providers of no-cost social and digital media products to develop amended, federally compatible TOS agreements. GSA leads this effort to reduce the need for dozens of agencies to negotiate TOS agreements and to streamline negotiations with vendors through a single [Point-of-Contact (POC)]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}}).
 
 While these TOS amendments resolve the major legal issues of the sign-up process, agencies must still comply with laws and regulations on security, privacy, accessibility, records retention, ethical use, and other specific agency policies and requirements when using the tools.
 
@@ -21,7 +21,7 @@ While these TOS amendments resolve the major legal issues of the sign-up process
 
 Agencies who develop native applications for specific devices need to sign Terms of Service Agreements with the mobile product companies. These Terms of Service have two parts: a developer agreement and a distribution agreement. The developer agreement allows the agency to access that platform’s software and tools to develop applications. Once the application is completed, the distribution agreement allows agencies to offer their completed application to customers for free.
 
-Federal friendly Terms of Service for distribution agreements have been negotiated with Amazon Appstore and BlackBerry App World. Please contact your agency [TOS POC]({{< relref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") or <socialmediaapps@gsa.gov> with questions about Apple and Google Play.
+Federal friendly Terms of Service for distribution agreements have been negotiated with Amazon Appstore and BlackBerry App World. Please contact your agency [TOS POC]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}} "Agency Points of Contact for Federal Compatible Terms of Service Agreements") or <socialmediaapps@gsa.gov> with questions about Apple and Google Play.
 
 ## How to Implement
 
@@ -88,8 +88,8 @@ Social media providers interested in engaging in Terms of Service discussions wi
 
 ## Resources
 
-  * Find your agency&#8217;s [Social Media Terms of Service Point of Contact]({{< relref "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
-  * View the list of negotiated [Terms of Service agreements]({{< relref "negotiated-terms-of-service-agreements.md" >}})
+  * Find your agency&#8217;s [Social Media Terms of Service Point of Contact]({{< link "agency-points-of-contact-for-federal-compatible-terms-of-service-agreements.md" >}})
+  * View the list of negotiated [Terms of Service agreements]({{< link "negotiated-terms-of-service-agreements.md" >}})
   * Use the [model TOS template](CDN/files/2014/01/model-amendment-to-tos-for-g.doc) (MS Word, 55 KB, 5 pages, October 2011)
   * Read about [NASCIO&#8217;s revised Terms of Service for Facebook](http://www.nascio.org/newsroom/pressrelease.cfm?id=93) for state and local governments
   * April 2013 guidance [OMB Memorandum M-13-10](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2013/m-13-10.pdf) (PDF, 1.2 MB, 17 pages, April 2013) on Antideficiency Act Implications of Certain Online Terms of Service Agreements

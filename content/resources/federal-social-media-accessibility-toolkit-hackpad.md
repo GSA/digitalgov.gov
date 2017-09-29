@@ -9,7 +9,7 @@ authors:
 
 ## Improving the Accessibility of Social Media for Public Service
 
-The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< relref "social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
+The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< link "social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.
 
 {{< legacy-img src="/2014/06/600-x-455-Accessibility-road-highway-sign-on-tablet.jpg" alt="An accessibility road sign displayed on an iPad." >}}
 
@@ -104,7 +104,7 @@ Facebook has an Accessibility Team that is dedicated to issues specific to acces
 
 ### Tips for Making Snapchat More Accessible
 
-Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible.md" >}}) for improving Snapchat accessibility.
+Here’s the [step-by-step guide USA.gov uses]({{< link "2016-03-29-usagovs-step-by-step-guide-to-making-snapchat-stories-as-accessible-as-possible.md" >}}) for improving Snapchat accessibility.
 
   1. Plan your Snapchat story with accessibility in mind. Use the platform to tell a succinct story. We recommend storyboarding it before you start, just like you would if you were creating a video. See if the story makes sense from beginning to end and if it clearly communicates the information you’re trying to get across
   2. Once you’ve created your story, download it in its full form from the Snapchat app. To do that, swipe to the right from the main photo screen. You’ll see your story at the top. Tap the three dots next to “My Story” and click the download arrow. This will save a video file to your phone enabling you to save the Snap story for your records management purposes.
@@ -200,7 +200,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< relref "2016-03-29-usagovs-st
 
   * [DigitalGov YouTube Channel](https://www.youtube.com/user/HowTogov)
 
-  * [DigitalGov University On-Demand Training]({{< relref "digitalgov-university.md" >}})
+  * [DigitalGov University On-Demand Training]({{< link "digitalgov-university.md" >}})
 
 ### Other Web resources
 

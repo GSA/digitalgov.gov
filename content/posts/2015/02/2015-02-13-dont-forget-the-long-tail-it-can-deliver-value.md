@@ -15,7 +15,7 @@ tag:
   - top tasks
 ---
 
-Top tasks matter. Visitors come to your website with specific goals in mind. Using a [top-task methodology]({{< relref "2014-07-02-using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study.md" >}} "Using Top Tasks to be Top-Notch: Federal Reserve Board Usability Case Study") can be particularly useful when redesigning your homepage. But, top tasks aren’t the whole story.
+Top tasks matter. Visitors come to your website with specific goals in mind. Using a [top-task methodology]({{< link "2014-07-02-using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study.md" >}} "Using Top Tasks to be Top-Notch: Federal Reserve Board Usability Case Study") can be particularly useful when redesigning your homepage. But, top tasks aren’t the whole story.
 
 Our government websites also have a large range of tiny tasks that, when managed carefully, have the potential to deliver value.
 
@@ -33,7 +33,7 @@ Amazon and other businesses have realized great success by focusing on the long 
 
 While a tongue twister, it drives home how a search box (with good, relevant content behind it) can meet the demands of the long tail.
 
-At [DigitalGov Search](http://search.WHATEVER/), we power the search box on 1,500 government websites and, like Amazon, we’ve found that we got more searches on terms today that didn&#8217;t get searched yesterday than we got searches today on all the terms that got searched yesterday—by quite a bit!
+At [DigitalGov Search](http://search.digitalgov.gov/), we power the search box on 1,500 government websites and, like Amazon, we’ve found that we got more searches on terms today that didn&#8217;t get searched yesterday than we got searches today on all the terms that got searched yesterday—by quite a bit!
 
 Number of searches on terms today that didn&#8217;t get any searches yesterday: 50,713.
 

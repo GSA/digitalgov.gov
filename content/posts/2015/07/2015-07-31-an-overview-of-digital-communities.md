@@ -23,9 +23,9 @@ tag:
 
 {{< legacy-img src="2015/07/600-x-400-Composite-image-of-social-network-background-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-488640955.jpg" alt="Composite image of social network background" caption="" >}} 
 
-Digital communities of practice come in many stripes. [DigitalGov communities span eight (and counting) focus areas]({{< relref "communities.md" >}}) and have thousands of members, but strong collaborations exist in all corners of government.
+Digital communities of practice come in many stripes. [DigitalGov communities span eight (and counting) focus areas]({{< link "communities.md" >}}) and have thousands of members, but strong collaborations exist in all corners of government.
 
-In honor of [this month’s communities theme]({{< relref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
+In honor of [this month’s communities theme]({{< link "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), we are offering a list of communities that foster connections and strengthen the digital capabilities of federal agencies.
 
 Here is a list of some communities working in the digital arena:
 
@@ -42,7 +42,7 @@ Here is a list of some communities working in the digital arena:
   * [Ideation Community of Practice](https://twitter.com/ideationcop)
   * [Mobile Health (m Health) Training Institutes](http://obssr.od.nih.gov/training_and_education/mHealth/index.aspx "Mobile Health (mHealth) Training Institutes")
   * Open Data listserv: Anyone with a .gov email can email listserv@listserv.gsa.gov with “subscribe open-data” in the body of the message.
-  * [Open Opportunities](https://openopps.WHATEVER/)
+  * [Open Opportunities](https://openopps.digitalgov.gov/)
   * [PLAIN &#8211; Plain Language Community](http://www.plainlanguage.gov/)
 
 Do you know of additional communities that are doing excellent work in the federal digital space? Tell us in the comments below._This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Office of Citizen Services and Innovative Technology or GSA._

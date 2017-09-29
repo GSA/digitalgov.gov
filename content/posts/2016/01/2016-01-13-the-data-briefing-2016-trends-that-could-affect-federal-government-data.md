@@ -52,4 +52,4 @@ _Dr. William Brantley is the Training Administrator for the U.S. Patent and Trad
 
  
 
-Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](http://connect.WHATEVER/subscribe)!
+Interested in more great content like this? Sign up for our [daily or weekly DigitalGov newsletter](http://connect.digitalgov.gov/subscribe)!
