@@ -27,7 +27,7 @@ tag:
 
 Meeting customer needs can be done, no matter what agency you represent.
 
-A [panel discussion](https://www.youtube.com/watch?v=2dH_hvUNEVM) at the [2015 DigitalGov Citizen Services Summit](https://summit.WHATEVER/) delved into customer experience (CX) work at three agencies with diverse missions.
+A [panel discussion](https://www.youtube.com/watch?v=2dH_hvUNEVM) at the [2015 DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/) delved into customer experience (CX) work at three agencies with diverse missions.
 
 Andrew Hughey, Product Development Director at the Internal Revenue Service (IRS), moderated the panel that featured Stephanie Thum, Vice President of Customer Experience at the Export-Import Bank of the United States (Ex-Im Bank), and David Simeon, myUSCIS product manager for U.S. Citizenship and Immigration Services (USCIS).
 

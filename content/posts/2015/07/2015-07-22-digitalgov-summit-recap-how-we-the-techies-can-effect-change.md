@@ -18,7 +18,7 @@ tag:
 
 Who do you need to bring to the table to make a better world?
 
-In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the [2015 DigitalGov Citizen Services Summit](https://summit.WHATEVER/). She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government.
+In May, Megan Smith, Chief Technology Officer of the United States, delivered the keynote address at the [2015 DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/). She encouraged attendees to find ways of unlocking potential through collaborations from both within and outside of government.
 
 “We have extraordinary teammates across government,” Smith said. “It’s one of the coolest things. I just came here in September from Silicon Valley. It was amazing to see what people have accomplished.”
 

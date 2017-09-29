@@ -36,7 +36,7 @@ Around this month&#8217;s [Communities Theme]({{< relref "2015-07-07-wont-you-he
 
 ## DigitalGov Summit Sounding Board
 
-For the [2015 DigitalGov Summit](https://summit.WHATEVER) we pulled together [innovators from across the federal government](https://summit.WHATEVER/summit-sounding-board/) to guide the programming, promote the CrowdHall (and Summit overall) and help identify speakers. The summit was a huge success, with more than 1,000 registrants, thanks to this group. Don&#8217;t forget to **save the date for the 2016 summit on May 11th!**
+For the [2015 DigitalGov Summit](https://summit.WHATEVER) we pulled together [innovators from across the federal government](https://summit.digitalgov.gov/summit-sounding-board/) to guide the programming, promote the CrowdHall (and Summit overall) and help identify speakers. The summit was a huge success, with more than 1,000 registrants, thanks to this group. Don&#8217;t forget to **save the date for the 2016 summit on May 11th!**
 
 ## MobileGov
 
@@ -62,7 +62,7 @@ Some leaders from the [User Experience]({{< relref "federal-user-experience-comm
 
 **Lin Wang**, of the U.S. Census Bureau, is the head of Census’ UX program, a federal leader in survey methodology and a great friend to the UX community. She has been sponsoring tours of their UX lab, discussing their team structure and leading workshops for the larger community.
 
-**Stephanie Wade,** from OPM, is the [powerhouse lead](https://summit.WHATEVER/speakers/#Wade) of their Innovation Lab, undertaking one of the most extensive user-centered research projects in the federal government to fix [USAJOBS](https://www.usajobs.gov/).
+**Stephanie Wade,** from OPM, is the [powerhouse lead](https://summit.digitalgov.gov/speakers/#Wade) of their Innovation Lab, undertaking one of the most extensive user-centered research projects in the federal government to fix [USAJOBS](https://www.usajobs.gov/).
 
 **Silvia Salazar,** of the National Institutes of Health at the National Cancer Institute, leads the National Cancer Institute&#8217;s UX lab, offering tours and webinars to teach the greater community. She is a leader in Spanish-language UX and currently working on an incredible research project to catalog the effects of nuclear tests on U.S. citizens (now in their 80s and 90s!).
 
