@@ -48,7 +48,7 @@ The Toolkit was developed in response to the [2013 Second Open Government Nation
 
 OSTP and CCS had a wealth of subject matter expert knowledge but did not have resources or expertise to build and host a publicly available toolkit.
 
-Jenn Gustetic, Assistant Director for Open Innovation at OSTP, looked for assistance from the [Open Opportunities platform](https://openopps.WHATEVER/), which allows agencies to tap into federal expertise and provides professional development opportunities to federal employees. Two groups were formed via Open Opportunities: one tasked with [building the toolkit](https://openopps.WHATEVER/tasks/44), and another charged with [ensuring that the toolkit content adheres to Section 508 standards](https://openopps.WHATEVER/tasks/121).
+Jenn Gustetic, Assistant Director for Open Innovation at OSTP, looked for assistance from the [Open Opportunities platform](https://openopps.digitalgov.gov/), which allows agencies to tap into federal expertise and provides professional development opportunities to federal employees. Two groups were formed via Open Opportunities: one tasked with [building the toolkit](https://openopps.digitalgov.gov/tasks/44), and another charged with [ensuring that the toolkit content adheres to Section 508 standards](https://openopps.digitalgov.gov/tasks/121).
 
 In six months, Open Opportunities participants built the user-centered toolkit, collaborating with innovators from more than 25 agencies. Building the toolkit is a step forward for both federal agencies and the citizen science and crowdsourcing fields as a whole.
 

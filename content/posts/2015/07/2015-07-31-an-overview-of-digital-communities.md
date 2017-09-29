@@ -42,7 +42,7 @@ Here is a list of some communities working in the digital arena:
   * [Ideation Community of Practice](https://twitter.com/ideationcop)
   * [Mobile Health (m Health) Training Institutes](http://obssr.od.nih.gov/training_and_education/mHealth/index.aspx "Mobile Health (mHealth) Training Institutes")
   * Open Data listserv: Anyone with a .gov email can email listserv@listserv.gsa.gov with “subscribe open-data” in the body of the message.
-  * [Open Opportunities](https://openopps.WHATEVER/)
+  * [Open Opportunities](https://openopps.digitalgov.gov/)
   * [PLAIN &#8211; Plain Language Community](http://www.plainlanguage.gov/)
 
 Do you know of additional communities that are doing excellent work in the federal digital space? Tell us in the comments below._This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Office of Citizen Services and Innovative Technology or GSA._

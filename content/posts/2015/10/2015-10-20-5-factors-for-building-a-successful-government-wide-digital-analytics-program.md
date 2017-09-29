@@ -42,7 +42,7 @@ DAP also hosts regular monthly office hours by phone to provide program updates 
 
 ### Engage your customers and get their help {{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}
 
-Encourage self-help. For any program, as the number of users grows, user training becomes a critical element. With limited resources to spare, we tapped into GSA’s [Open Opportunities](https://openopps.WHATEVER/dashboard) program to bring in other agencies’ Web analytics experts to train the DAP users on how to use the tool. This not only allowed us to expand the training program from just Webinars to quarterly in-person trainings with live streaming for remote participants, but further helped with DAP agency adoption and acceptance as the DAP instructors came from other agencies.
+Encourage self-help. For any program, as the number of users grows, user training becomes a critical element. With limited resources to spare, we tapped into GSA’s [Open Opportunities](https://openopps.digitalgov.gov/dashboard) program to bring in other agencies’ Web analytics experts to train the DAP users on how to use the tool. This not only allowed us to expand the training program from just Webinars to quarterly in-person trainings with live streaming for remote participants, but further helped with DAP agency adoption and acceptance as the DAP instructors came from other agencies.
 
 ### **Give your customers a voice**
 

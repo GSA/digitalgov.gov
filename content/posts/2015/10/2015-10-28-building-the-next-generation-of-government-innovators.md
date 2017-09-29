@@ -24,7 +24,7 @@ Innovators are made, not born. This summer, the Food and Drug Administration (FD
 
 AimHI is a pilot program to get high school students excited about careers in health information technology, medical devices and public service. Instead of traditional internships, which can be cost-prohibitive and focused on menial tasks, aimHI provides a free opportunity where students learn by doing and by creating their own experiences.
 
-Jessica Hernandez, Team Leader for Innovation and Technology Solutions at FDA and the creator of aimHI, used the [Open Opportunities platform](https://openopps.WHATEVER/) to recruit federal leaders interested in [introducing lean start-up](https://openopps.WHATEVER/tasks/74) concepts to aimHI participants and showing them how they can use their creativity in government.
+Jessica Hernandez, Team Leader for Innovation and Technology Solutions at FDA and the creator of aimHI, used the [Open Opportunities platform](https://openopps.digitalgov.gov/) to recruit federal leaders interested in [introducing lean start-up](https://openopps.digitalgov.gov/tasks/74) concepts to aimHI participants and showing them how they can use their creativity in government.
 
 ## From Boot Camp to Shark Tank
 

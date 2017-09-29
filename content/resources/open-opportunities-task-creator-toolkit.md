@@ -16,7 +16,7 @@ authors:
           <a title="Click to read: 10 Tips for Creating the Perfect Open Opportunity Task" href="{{< relref "open-opportunities-task-creator-toolkit.md" >}}10-tips-for-creating-the-perfect-open-opportunity-task/">10 Tips for Creating the Perfect Task</a>
         </li>
       2. **Add Tasks to Open Opps** 
-          * Go to the Open Opps website: [openopps.WHATEVER/tasks](https://openopps.WHATEVER/tasks "Open Opps website")
+          * Go to the Open Opps website: [openopps.digitalgov.gov/tasks](https://openopps.digitalgov.gov/tasks "Open Opps website")
         <li style="margin-bottom: 15px">
           Click “+ Opportunity” in the upper right hand corner of the screen.
         </li>

@@ -86,7 +86,7 @@ Now, let’s take a look at the most popular events (by attendance) and most wat
   1. FedRAMP Results of the High Baseline Pilot
 
     The FedRAMP team captured large audiences from the vendor community with updates and tips on the using the program. [Learn more about FedRAMP](https://www.fedramp.gov/).
-  2. [Open Opportunities and the Acquisition Community](https://www.youtube.com/watch?v=Qcs-Ce0Hzys) This webinar provided an overview of the upcoming [Open Opportunities](https://openopps.WHATEVER/) pilot for the Acquisition Community
+  2. [Open Opportunities and the Acquisition Community](https://www.youtube.com/watch?v=Qcs-Ce0Hzys) This webinar provided an overview of the upcoming [Open Opportunities](https://openopps.digitalgov.gov/) pilot for the Acquisition Community
   3. [JAB P-ATO Prioritization Criteria and Process](https://www.youtube.com/watch?v=A0X8edhEOxY)
 
     Another FedRAMP webinar focusing on using the Joint Authorization Board (JAB) to obtain a provisional authorization (P-ATO) for Cloud Service Providers (CSPs).

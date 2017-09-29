@@ -10,7 +10,7 @@ authors:
 > _Building a 21st century workforce._ _One task at a time._
 
 <p style="text-align: center">
-  <a class="button" title="OpenOppsinDigitalGov" href="https://openopps.WHATEVER/">Get Started</a>
+  <a class="button" title="OpenOppsinDigitalGov" href="https://openopps.digitalgov.gov/">Get Started</a>
 </p>
 
 {{< legacy-img src="/2013/07/image-of-interlocking-hands.jpg" alt="Photo of Interlocking hands" >}}Every agency at every level of government has a role in creating digital government. There are great opportunities to solve the problems in your agencies and to engage your high-performing staff with cutting-edge projects across agency bounds.

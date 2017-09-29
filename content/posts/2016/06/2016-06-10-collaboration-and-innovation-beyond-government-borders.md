@@ -30,7 +30,7 @@ However, the desire to connect innovators extends beyond the VA’s doors.
 
 {{< legacy-img src="2016/06/600-x-99-DG-Open-Opps-Opportunities-logo.jpg" alt="Logo for Digital Gov's Open Opportunities program." >}}
 
-As the Network team looked to expand their innovation initiatives, they found the [Open Opportunities](https://openopps.WHATEVER/) platform. Open Opportunities helps agencies tap into expertise in all corners of the federal government while also providing professional development opportunities. Agencies post tasks and projects that are picked up by federal employees.
+As the Network team looked to expand their innovation initiatives, they found the [Open Opportunities](https://openopps.digitalgov.gov/) platform. Open Opportunities helps agencies tap into expertise in all corners of the federal government while also providing professional development opportunities. Agencies post tasks and projects that are picked up by federal employees.
 
 Although Open Opportunities is limited to the federal government, the [platform’s code is open source]({{< relref "2016-01-14-why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience.md" >}}). Ippolito recognized the potential of the platform and wanted to use it to help expand the VA’s reach to the public.
 
