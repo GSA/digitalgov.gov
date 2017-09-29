@@ -27,7 +27,7 @@ jQuery(document).ready(function($) {
       var height = img['height'];
       var date = img['date'];
       var uid = img['uid'];
-      var credit = img['credit'];
+      var attribution = img['credit'];
       var caption = img['caption'];
       var alt = img['alt'];
       console.log('alt '+alt);
@@ -55,11 +55,11 @@ jQuery(document).ready(function($) {
             "<p><strong>date:</strong> "+date+"</p>",
             "<p><strong>file:</strong> "+filename+"</p>",
             "<p><strong>uid:</strong> "+uid+"</p>",
-            "<p><strong>credit:</strong> "+credit+"</p>",
+            "<p><strong>attribution:</strong> "+attribution+"</p>",
             "<p><strong>caption:</strong> "+caption+"</p>",
             "<p><strong>alt:</strong> "+alt+"</p>",
             "<p><strong>shortcode:</strong></p>",
-            "<pre>{{< img src=\""+uid+"\" >}}</pre>", // shortcode
+            "<pre>{{< img src=\""+uid+"\" capton=\"\" alt=\"\" >}}</pre>", // shortcode
             "<p><a target='_new' href='https://github.com/GSA/digitalgov.gov/tree/demo/data/images/"+uid+".yml' title='view on GitHub'>Edit on GitHub »</a></p>",
           "</div>",
         "</div>"

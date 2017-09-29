@@ -29,12 +29,9 @@ outputFormats:
     notAlternative: true
   RSS:
     mediatype: "application/rss"
-    baseName: "feed"
-
-rssLimit: 20
 
 outputs:
-  home: ["HTML","RSS", "SiteImages"]
+  home: ["HTML","RSS","SiteImages"]
 
 blackfriday:
   fractions: false
