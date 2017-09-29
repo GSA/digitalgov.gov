@@ -75,7 +75,7 @@
             {{ range ($upcoming.GroupByDate "January 2006").Reverse }}
               <!-- Month / Year Headers -->
               <span class='tribe-events-list-separator-month'><span>{{ .Key }}</span></span>
-                {{ range .Pages }}
+                {{ range .Pages.Reverse }}
                   {{ .Render "li"}}
                 {{ end }}
             {{ end }}
