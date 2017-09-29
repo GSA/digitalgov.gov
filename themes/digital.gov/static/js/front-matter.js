@@ -57,20 +57,34 @@ jQuery(document).ready(function($) {
   get_post_type();
 
 
-  // Gets today's date + time
+  // Gets today's date
   function curr_date(){
     var d = new Date();
     var month = ("0" + (d.getMonth() + 1)).slice(-2);
     var day = ("0" + (d.getDate())).slice(-2);
+    var output = d.getFullYear() + '-' + month + '-' + day;
+    return output;
+  }
+
+  // Gets today's time
+  function curr_time(){
+    var d = new Date();
     var hours = ("0" + (d.getHours())).slice(-2);
     var minutes = ("0" + (d.getMinutes())).slice(-2);
-    var seconds = ("0" + (d.getSeconds())).slice(-2);
-    var output = d.getFullYear() + '-' + month + '-' + day + ' ' + hours + ":" + minutes + ":" + seconds + ' -0400';
+    var seconds = '00';
+    var output = hours + ":" + minutes;
     return output;
+  }
+
+  // Combines date + time into a string that's ready for the front matter
+  function matter_datetime(date, time){
+    var dt = date + ' ' + time + ':00 -0400';
+    return dt;
   }
 
   // inputs the current date in the date field
   $('input[name="m_date"]').val(curr_date());
+  $('input[name="m_time"]').val(curr_time());
   $('input[name="m_end_date"]').val(curr_date());
 
 
@@ -260,7 +274,7 @@ jQuery(document).ready(function($) {
   // Prints the front-matter in a DIV on the page
   function print_matter(data){
     var post_type = get_post_type(); // gets the post type
-    var date = data['m_date'];
+    var date = matter_datetime(data['m_date'], data['m_time']);
     var title = "'" + matter_title(data['m_title']) + "'";
     var summary = "'" + escapeHtml(data['m_summary']) + "'";
     var slug = matter_slug(data['m_title']);
