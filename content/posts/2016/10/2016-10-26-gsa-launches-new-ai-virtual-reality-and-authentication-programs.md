@@ -50,7 +50,7 @@ The Federal Virtual/Augmented Reality Community will serve as a collaborative hu
 
 Federal agencies across government use platforms and mobile apps to manage their citizen services, whether sharing open source code on GitHub, open data through Socrata, customer reviews on Yelp, videos on YouTube, or profiles on Facebook and Twitter. These conversations in turn will help develop new personalized services through Artificial Intelligence and Internet of Things.
 
-Now, for the first time, anyone can browse and export data by agency, language, platform, or tag on 10,000 (and growing) official U.S. federal government accounts and mobile apps in one dashboard through [the new U.S. Digital Registry portal](https://usdigitalregistry.WHATEVER/).
+Now, for the first time, anyone can browse and export data by agency, language, platform, or tag on 10,000 (and growing) official U.S. federal government accounts and mobile apps in one dashboard through [the new U.S. Digital Registry portal](https://usdigitalregistry.digitalgov.gov/).
 
 The successful [creation of the U.S. Digital Registry](https://medium.com/@GeneralServicesAdministration/new-u-s-digital-registry-authenticates-official-public-service-accounts-1f8120d67976#.49khit1g0) and it’s use by hundreds of individual federal managers for thousands of accounts relied on the collaborative power of our Digital Communities, which allowed for easy access for individual members no matter where they serve.
 
