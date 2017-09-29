@@ -14,23 +14,9 @@
   })(document.body);
 </script>
 
-
-<!-- Start of Async HubSpot Analytics Code for WordPress v1.1.0 -->
-<script type="text/javascript">
-  var _hsq = _hsq || [];
-  _hsq.push(["setContentType", "standard-page"]);
-  (function(d, s, i, r) {
-    if (d.getElementById(i)) {
-      return;
-    }
-    var n = d.createElement(s),
-      e = document.getElementsByTagName(s)[0];
-    n.id = i;
-    n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/1962994.js';
-    e.parentNode.insertBefore(n, e);
-  })(document, "script", "hs-analytics", 300000);
-</script>
-<!-- End of Async HubSpot Analytics Code -->
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1962994.js"></script>
+<!-- End of HubSpot Embed Code -->
 
 <!-- jQuery for User-Controlled Layout Switch -->
 <script type="text/javascript">
@@ -205,4 +191,7 @@
 
 <script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
 
-<script src='{{ "js/front-matter.js" | absURL }}' type='text/javascript' charset='utf-8'></script>
+{{ if eq .Section "posts" }}
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-533093ab734d6d4c"></script>
+{{ end }}

@@ -1,0 +1,13 @@
+<script type="text/javascript">
+  var root_url = {{ "" | absURL }};
+
+  // The all-images JSON file
+  var all_images_json = {{ "images/index.json" | absURL }};
+
+</script>
+
+{{ range $.Params.js }}
+  {{ $path := (printf "js/%s" .) | absURL }}
+  <!-- CUSTOM JS -->
+  <script src="{{ $path }}" type='text/javascript' charset='utf-8'></script>
+{{ end }}

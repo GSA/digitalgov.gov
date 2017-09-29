@@ -1,14 +1,13 @@
 
 .matter-container{
-  margin: 50px 0;
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
-  grid-template-columns: 1fr 1fr;
+  margin: 10px 0;
 }
 
 .btn-group{
   margin-bottom: 30px;
+}
+.post_types{
+  text-align: center;
 }
 .btn-group .btn{
   padding: 8px 12px 10px 12px;
@@ -19,6 +18,7 @@
   font-size: 1em;
   font-weight: bold;
   background: #fff;
+  color:#222;
 }
 .btn-group .btn:first-child{
   border-left:1px #555 solid;
@@ -40,19 +40,41 @@
   color:#fff;
 }
 
+.matter-container h1,
+.matter-container p{
+  text-align: center;
+}
+
+/*Grid --------------*/
+.matter-editor{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    ". ."
+    "matter-front matter-front"
+    "matter-body matter-body";
+}
 .gcol1{
-  grid-area: row2-start / 1 / 2 / 1;
+  grid-area: matter-front / 1 / 2 / 1;
 }
 .gcol2{
   margin-top: 25px;
-  grid-area: row2-start / 2 / 2 / 2;
+  grid-area: matter-front / 2 / 2 / 2;
   max-width: 480px;
 }
+.matter-body{
+  grid-area: matter-body;
+  max-width: 960px;
+}
+/* --------------*/
 
 .gcol1 form{
   margin-top: 0;
 }
 
+.gcol1 form .hide,
 .gcol1 form .hidden{
   display: none;
 }
@@ -74,6 +96,11 @@
 .gcol1 form label:last-child{
   margin-bottom: 0;
 }
+
+.gcol1 form .quiet{
+  color: #888;
+  cursor: not-allowed;
+}
 .gcol1 form textarea,
 .gcol1 form input{
   padding: 10px;
@@ -83,12 +110,45 @@
 }
 .gcol1 form textarea{
   height:65px;
+  margin-bottom: 0;
+}
+.gcol1 .checkbox{
+  margin:35px 0;
+  display: inline-block;
+}
+.gcol1 .checkbox input{
+  display: inline;
+  width:25px;
+}
+.gcol1 .checkbox label{
+  display: inline;
+  border:1px #555 solid;
+  padding: 10px 20px 12px 10px;
+  width: 40%;
+  font-size:1em;
+}
+.gcol1 code{
+  padding: 1px 2px;
+  display: inline;
+  border: none;
+  background: #F8F4D7;
+  font-size: 1em;
+  color:#555;
+
+}
+.gcol2{
+  position: relative;
 }
 .gcol2 p {
   margin: 15px 0;
 }
+
 .gcol2 #newfile {
+  padding:10px 20px;
   font-weight: bold;
+  background: #3F4FFF;
+  color:#fff;
+  display: block;
 }
 .gcol2 .mttr{
   margin: 0;
@@ -109,4 +169,35 @@
 }
 .gcol2 #post-matter{
   padding-bottom: 30px;
+}
+.block{
+  margin-top: 40px;
+}
+.block h4{
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.matter-body{}
+.matter-body pre{
+  padding: 20px;
+  font-size: 1em;
+  border:3px #555 solid;
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+#ui-datepicker-div{
+  background: #fff;
+  border:3px #555 solid;
+}
+.ui-datepicker-header{
+  padding: 5px 10px;
+}
+.ui-datepicker-next{
+  float: right;
+}
+.ui-datepicker-calendar{
+  margin-bottom: 0;
 }

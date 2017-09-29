@@ -1,0 +1,44 @@
+---
+url: /new-doc
+type: docs
+layout: new-file
+date: 2017-07-08 3:46:23 -0400
+title: Create a new doc
+summary: this is a summary
+js: [front-matter.js]
+css: [front-matter.css]
+---
+
+<div class="matter-editor">
+  <div class="gcol gcol1">
+    <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
+      <div class="post_data post-block">
+        <label class="m_date">
+          Date
+          <input class="fm" type="text" name="m_date" value="">
+          <span>year-mo-day, e.g 2017-09-29</span>
+        </label>
+        <label class="m_time">
+          Time
+          <input class="fm" type="text" name="m_time" value="">
+          <span>24-hour time, e.g. 15:32</span>
+        </label>
+        <label class="m_title">
+          Headline
+          <input class="fm" type="text" name="m_title" value="">
+        </label>
+        <label class="m_summary">
+          Summary
+          <textarea class="fm" name="m_summary"></textarea>
+          <span>a 1-2 sentence description (~140 chars)</span>
+        </label>
+      </div>
+    </form>
+  </div>
+  <div class="gcol gcol2">
+    <pre id="filename" class="mttr">***</pre>
+    <pre id="post-matter" class="mttr">---</pre>
+    <p><a id="newfile" href="https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
+    <p><a href="https://github.com/GSA/digitalgov.gov/blob/demo/publishing.md">A guide to publishing in GitHub</a></p>
+  </div>
+</div>

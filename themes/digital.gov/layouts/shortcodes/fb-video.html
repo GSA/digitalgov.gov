@@ -1,0 +1,9 @@
+{{ $fbprepend := "https://www.facebook.com/plugins/video.php?href=" }}
+{{ $fbappend := "&width=500&show_text=false&height=281&appId" }}
+{{ $url := (.Get 0) }}
+{{ $url := replaceRE "([^/])$" "$1/" $url }}
+{{ $url := replace $url "/" "%2F" }}
+{{ $url := replace $url ":" "%3A" }}
+{{ $url := printf "%s%s%s" $fbprepend $url $fbappend }}
+
+<iframe src="{{- $url | safeHTML -}}" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

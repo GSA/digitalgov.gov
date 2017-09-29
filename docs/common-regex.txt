@@ -1,0 +1,17 @@
+# convert legacy-img to standard img
+
+{{< legacy-img src="/\d+/\d+/\d{2,4}[-x]+\d{2,4}[_-]*(.+?)\.[pngje]+"( alt=".+?")* >}}
+
+{{< img src="$1"$2 >}}
+
+# convert CDN links
+{{< legacy-img src="/(\d{4,4})
+{{< legacy-img src="$1
+
+# convert S3 links
+{{< legacy-img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/(\d{4,4})
+{{< legacy-img src="$1
+
+# replace `url` with `slug` in posts
+^url: .+/([^/]+)\.md
+slug: $1

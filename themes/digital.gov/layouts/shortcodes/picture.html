@@ -1,0 +1,116 @@
+<!-- image -->
+{{ $cdnurl := .Site.Params.cdnurl }}
+{{ $imgBase := replaceRE "\\.(png|jpg)$" "" (.Get "src") }}
+{{ $imgExt := replaceRE "^.+\\.(png|jpg)$" "$1" (.Get "src") }}
+{{ $imgBaseCDN := printf "%s/%s" $cdnurl $imgBase }}
+{{ $imgLocalProxy := printf "%s/%s" "static/img/proxy" (.Get "src") }}
+{{ $imgProxy := printf "%s/%s" "img/proxy" (.Get "src") }}
+{{ $imgProxy := absURL $imgProxy }}
+{{ $imgWidth := (imageConfig $imgLocalProxy).Width }}
+{{ $imgHeight := (imageConfig $imgLocalProxy).Height }}
+
+
+<ul>
+  <li>imgBase: {{ $imgBase }}</li>
+  <li>imgExt: {{ $imgExt }}</li>
+  <li>imgProxy: {{ $imgProxy }}</li>
+  <li>imgLocalProxy: {{ $imgLocalProxy }}</li>
+  <li>Image dimensions: {{ $imgWidth }}px &times; {{ $imgHeight }}px</li>
+</ul>
+<h4>proxy:</h4>
+<img src="{{ $imgProxy }}" />
+
+<h4>&lt;picture&gt; tag webp</h4>
+<picture>
+  <source
+    srcset="
+      {{ $imgBaseCDN }}.webp {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+        {{ if gt $imgWidth 400 }}
+          {{ if gt $imgWidth 600 }}
+            {{ if gt $imgWidth 800 }}
+              {{ if gt $imgWidth 1200 }}
+                {{ if gt $imgWidth 1600 }}
+                  {{ if gt $imgWidth 2400 }}
+                    {{ $imgBaseCDN }}_w2400.webp 2400w,
+                  {{ end }}
+                  {{ $imgBaseCDN }}_w1600.webp 1600w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1200.webp 1200w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w800.webp 800w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w600.webp 600w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w400.webp 400w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w200.webp 200w
+      {{ end }}
+      "
+    type="image/webp"
+    sizes="600px"
+    >
+  <source
+    srcset="
+    {{ $imgBaseCDN }}.{{ $imgExt }} {{ $imgWidth }}w{{ if gt $imgWidth 200 }},
+      {{ if gt $imgWidth 400 }}
+        {{ if gt $imgWidth 600 }}
+          {{ if gt $imgWidth 800 }}
+            {{ if gt $imgWidth 1200 }}
+              {{ if gt $imgWidth 1600 }}
+                {{ if gt $imgWidth 2400 }}
+                  {{ $imgBaseCDN }}_w2400.{{ $imgExt }} 2400w,
+                {{ end }}
+                {{ $imgBaseCDN }}_w1600.{{ $imgExt }} 1600w,
+              {{ end }}
+              {{ $imgBaseCDN }}_w1200.{{ $imgExt }} 1200w,
+            {{ end }}
+            {{ $imgBaseCDN }}_w800.{{ $imgExt }} 800w,
+          {{ end }}
+          {{ $imgBaseCDN }}_w600.{{ $imgExt }} 600w,
+        {{ end }}
+        {{ $imgBaseCDN }}_w400.{{ $imgExt }} 400w,
+      {{ end }}
+      {{ $imgBaseCDN }}_w200.{{ $imgExt }} 200w
+    {{ end }}
+      "
+    type="image/jpeg"
+    sizes="600px"
+    >
+  <img
+    src="{{ $imgBaseCDN }}_bu.{{ $imgExt }}"
+    alt="Alt Text!"
+    >
+</picture>
+
+<h4>cdn:</h4>
+<img src="{{ $imgBaseCDN }}.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}.webp" />
+<img src="{{ $imgBaseCDN }}_bu.jpg" />
+<img src="{{ $imgBaseCDN }}_w200.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}_w200bw.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w400.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}_w400bw.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w600.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}_w600bw.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}__w800.{{ $imgExt }}" />
+<img src="{{ $imgBaseCDN }}_w800bw.{{ $imgExt }}" />
+
+{{/*
+<div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
+  {{ if isset .Params "title" }}
+    <h6 class='figure-title'>{{ .Get "title" }}</h6>
+  {{ end }}
+  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
+  <img src="{{ if (findRE "^http" (.Get "src")) }}{{ else }}{{ $cdnurl }}{{ .Get "src" }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ if .Get "link"}}</a>{{ end }}
+  {{ with .Get "attr"}}
+    <div class="figure-credit">{{ .Get "attr" }}</div>
+  {{ end }}
+  {{ with .Get "caption" }}
+    <p class="wp-caption-text">
+      {{ . | markdownify }}
+    </p>
+  {{ end }}
+</div>
+*/}}
+<!-- image -->

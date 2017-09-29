@@ -1,0 +1,42 @@
+#all-images{}
+#all-images .img-card{
+  padding: 40px 0; 
+  border-top: 2px #222 solid;
+}
+#all-images .img-card::after{
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+}
+#all-images .img-card .img-file{
+  float: left;
+  width:400px;
+}
+#all-images .img-card .img-data{
+  padding: 0 0 0 20px;
+  float: left;
+  width:500px;
+}
+
+#all-images .img-card .img-data p{
+  margin-bottom: 4px;
+}
+
+.img-file img {
+  display: block;
+  max-width: 100%;
+}
+
+#all-images .img-card .img-data pre{
+  margin-top: 0;
+  overflow: scroll;
+  padding:10px;
+  border-radius: 2px;
+  background-color: #f7f7f7;
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}

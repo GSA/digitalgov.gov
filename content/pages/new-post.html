@@ -1,0 +1,73 @@
+---
+url: /new-post
+type: docs
+layout: new-file
+date: 2017-07-08 3:46:23 -0400
+title: Create a new post
+summary: this is a summary
+js: [front-matter.js]
+css: [front-matter.css]
+
+aliases:
+  - /new/
+
+---
+
+<div class="matter-editor">
+  <div class="gcol gcol1">
+    <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
+      <div class="post_data post-block">
+        <label class="m_date">
+          Date
+          <input class="fm" type="text" name="m_date" value="">
+          <span>year-mo-day, e.g 2017-09-29</span>
+        </label>
+        <label class="m_time">
+          Time
+          <input class="fm" type="text" name="m_time" value="">
+          <span>24-hour time, e.g. 15:32</span>
+        </label>
+        <label class="m_title">
+          Headline
+          <input class="fm" type="text" name="m_title" value="">
+        </label>
+        <label class="m_summary">
+          Summary
+          <textarea class="fm" name="m_summary"></textarea>
+        </label>
+        <label class="m_authors">
+          Author
+          <input class="fm" type="text" name="m_authors" value="">
+          <span>jparcell, dano, jthalls  — <a target="_new" href="https://github.com/GSA/digitalgov.gov/tree/demo/data/people/authors" title="See all Authors">see all authors</a></span>
+        </label>
+        <label class="m_categories">
+          Categories
+          <input class="fm" type="text" name="m_categories" value="">
+          <span>social-media, user-testing-and-research, mobile — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/demo/data/categories.yml" title="See all Categories">see all categories</a></span>
+        </label>
+        <label class="m_tag">
+          Tags
+          <input class="fm" type="text" name="m_tag" value="">
+          <span>open-source, customer-experience, security — <a target="_new" href="https://github.com/GSA/digitalgov.gov/blob/demo/data/tag.yml" title="See all Tags">see all tags</a></span>
+        </label>
+        <label class="m_tag">
+          Featured Image
+          <input class="fm" type="text" name="m_featuredimg" value="">
+          <span>Paste the image UID into this field <code>e.g. big-bend</code> <a target="_new" href="/images/" title="See all Images">See all images »</a></span>
+        </label>
+        <label class="m_tag">
+          Featured Image Alt Text
+          <input class="fm" type="text" name="m_featuredimg_alt" value="">
+          <span>Descriptive text for the image</span>
+        </label>
+      </div>
+    </form>
+  </div>
+  <div class="gcol gcol2">
+    <pre id="filename" class="mttr">***</pre>
+    <pre id="post-matter" class="mttr">---</pre>
+    <p><a id="newfile" href="https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
+    <p><a href="https://github.com/GSA/digitalgov.gov/blob/demo/publishing.md">A guide to publishing in GitHub</a></p>
+  </div>
+</div>
+Hello.

@@ -10,14 +10,14 @@ authors:
 
 If you had 100,000 people to help you with your work, what would you do?
 
-The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. {{< legacy-img src="CDN/files/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." caption="" >}}
+The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. {{< legacy-img src="/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." caption="" >}}
 
 ## Learn More
 
 The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
 <div style="text-align: center">
-  <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+  <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 For more information or for meeting location and call-in details, please contact:
@@ -44,7 +44,7 @@ The CCS community is committed to sharing skills, resources, and experience to s
 
   * In collaboration with the White House Office of Science and Technology Policy (OSTP), we launched a new website – the [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/). The Toolkit will help federal practitioners find resources to pitch, develop, implement, and improve citizen science and crowdsourcing projects. This [archived webinar](https://www.youtube.com/watch?v=e0CdGMvNqW0 "Watch the C C S Toolkit Public Webinar") provides an overview of the toolkit’s intended audience, purpose, content, and functionalities.
 
-[{{< legacy-img src="CDN/files/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" >}}](https://crowdsourcing-toolkit.sites.usa.gov/)
+[{{< legacy-img src="/2015/09/600-x-147-howto-icons-left-text.jpg" alt="Icons from FCPCCS toolkit" >}}](https://crowdsourcing-toolkit.sites.usa.gov/)
 
 The _Open Government National Action Plan_ committed the Federal government to “develop an _Open Innovation Toolkit_ for Federal agencies that will include best practices, training, policies, and guidance on authorities related to open innovation, including approaches such as incentive prizes, crowdsourcing, and citizen science.” The Crowdsourcing and Citizen Science Toolkit is the first component to be completed. Dozens of federal employees have contributed to the development of this toolkit over the last year and it is finally ready for public launch.
 

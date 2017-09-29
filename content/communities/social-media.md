@@ -16,15 +16,15 @@ We identify opportunities and challenges to improve government use of social dat
 
   * Best practices: We curate [best practices]({{< link "categories/socialmedia" >}} "Social Media") for innovative, effective, and responsible use and governance of social media across the government.
   * Training: We research, organize, and host live and on-demand [social media training for all agencies]({{< link "events" >}} in federal, state, and local government.
-  * Shared tools: We actively test and evaluate emerging social tools and strategies for government and negotiate [federal-compatible terms of service]({{< relref "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") for federal agencies.
-  * Working Groups and Resource Development: We organize productive working groups that produce shared resources for all agencies to use, like the <a href="https://www.whitehouse.gov/blog/2015/02/03/announcing-us-public-participation-playbook" target="_blank">U.S. Public Participation Playbook</a> and the <a href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">Cyber-Vandalism Toolkit</a>.
+  * Shared tools: We actively test and evaluate emerging social tools and strategies for government and negotiate [federal-compatible terms of service]({{< link "federal-compatible-terms-of-service-agreements.md" >}} "Federal-Compatible Terms of Service Agreements") for federal agencies.
+  * Working Groups and Resource Development: We organize productive working groups that produce shared resources for all agencies to use, like the <a href="https://www.whitehouse.gov/blog/2015/02/03/announcing-us-public-participation-playbook" target="_blank">U.S. Public Participation Playbook</a> and the <a href="{{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" target="_blank">Cyber-Vandalism Toolkit</a>.
 
 ## How to Join
 
 To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23SocialGov) with “Join #SocialGov” in the subject.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:justin.herman@gsa.gov?subject=Join #SocialGov">Join via Email</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:justin.herman@gsa.gov?subject=Join #SocialGov">Join via Email</a> or <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -36,11 +36,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to U.S. Public Participation Playbook Open for Coders and Designers on GitHub" href="{{< relref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/featured-301-x-212-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="U.S. Public Participation Playbook Open for Coders and Designers on GitHub" >}}</a>
+          <a title="Permanent Link to U.S. Public Participation Playbook Open for Coders and Designers on GitHub" href="{{< link "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}" rel="bookmark">{{< legacy-img src="/2015/03/featured-301-x-212-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="U.S. Public Participation Playbook Open for Coders and Designers on GitHub" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}">U.S. Public Participation Playbook Open for Coders and Designers on GitHub</a>
+          <a href="{{< link "2015-02-05-u-s-public-participation-playbook-open-for-coders-and-designers-on-github.md" >}}">U.S. Public Participation Playbook Open for Coders and Designers on GitHub</a>
         </h4>
       </div>
     </div>
@@ -52,11 +52,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Social Media and Accessibility: Resources to Know" href="{{< relref "2015-01-02-social-media-and-accessibility-resources-to-know.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/featured-301-x-212-Social-media-network-background-with-icons-vector-VLADGRIN-iStock-Thinkstock-470847401.jpg" alt="Social Media and Accessibility: Resources to Know" >}}</a>
+          <a title="Permanent Link to Social Media and Accessibility: Resources to Know" href="{{< link "2015-01-02-social-media-and-accessibility-resources-to-know.md" >}}" rel="bookmark">{{< legacy-img src="/2014/12/featured-301-x-212-Social-media-network-background-with-icons-vector-VLADGRIN-iStock-Thinkstock-470847401.jpg" alt="Social Media and Accessibility: Resources to Know" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-01-02-social-media-and-accessibility-resources-to-know.md" >}}">Social Media and Accessibility: Resources to Know</a>
+          <a href="{{< link "2015-01-02-social-media-and-accessibility-resources-to-know.md" >}}">Social Media and Accessibility: Resources to Know</a>
         </h4>
       </div>
     </div>
@@ -68,11 +68,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Getting to Yes: Working with Vendors to Secure Terms of Service and Federal-Friendly Pricing" href="{{< relref "2015-02-06-getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/02/featured-301-x-212-Successful-handshake-Zurijeta-iStock-Thinkstock-176413004.jpg" alt="Getting to Yes: Working with Vendors to Secure Terms of Service and Federal-Friendly Pricing" >}}</a>
+          <a title="Permanent Link to Getting to Yes: Working with Vendors to Secure Terms of Service and Federal-Friendly Pricing" href="{{< link "2015-02-06-getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" >}}" rel="bookmark">{{< legacy-img src="/2015/02/featured-301-x-212-Successful-handshake-Zurijeta-iStock-Thinkstock-176413004.jpg" alt="Getting to Yes: Working with Vendors to Secure Terms of Service and Federal-Friendly Pricing" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-02-06-getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" >}}">Getting to Yes: Working with Vendors to Secure TOS, Fed-Friendly Pricing</a>
+          <a href="{{< link "2015-02-06-getting-to-yes-working-with-vendors-to-secure-terms-of-service-and-federal-friendly-pricing.md" >}}">Getting to Yes: Working with Vendors to Secure TOS, Fed-Friendly Pricing</a>
         </h4>
       </div>
     </div>
@@ -84,11 +84,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Government Social Media Isn't Lagging, It's Different: And That's Good" href="{{< relref "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/04/featured-301-x-212-Federal-Social-Media.jpg" alt="Government Social Media Isn't Lagging, It's Different: And That's Good" >}}</a>
+          <a title="Permanent Link to Government Social Media Isn't Lagging, It's Different: And That's Good" href="{{< link "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}}" rel="bookmark">{{< legacy-img src="/2014/04/featured-301-x-212-Federal-Social-Media.jpg" alt="Government Social Media Isn't Lagging, It's Different: And That's Good" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}}">Gov&#8217;t Social Media Isn&#8217;t Lagging, It&#8217;s Different: And That&#8217;s Good</a>
+          <a href="{{< link "2014-04-22-government-social-media-isnt-lagging-its-different-and-thats-good.md" >}}">Gov&#8217;t Social Media Isn&#8217;t Lagging, It&#8217;s Different: And That&#8217;s Good</a>
         </h4>
       </div>
     </div>
@@ -100,11 +100,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Big in SocialGov in 2014: Services, Access and Participation" href="{{< relref "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/featured-301-x-212-AskFAFSA-CDC-NASA-ISS-Natl-Archives.jpg" alt="Big in SocialGov in 2014: Services, Access and Participation" >}}</a>
+          <a title="Permanent Link to Big in SocialGov in 2014: Services, Access and Participation" href="{{< link "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" >}}" rel="bookmark">{{< legacy-img src="/2014/12/featured-301-x-212-AskFAFSA-CDC-NASA-ISS-Natl-Archives.jpg" alt="Big in SocialGov in 2014: Services, Access and Participation" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" >}}">Big in SocialGov in 2014: Services, Access & Participation</a>
+          <a href="{{< link "2014-12-31-big-in-socialgov-in-2014-services-access-and-participation.md" >}}">Big in SocialGov in 2014: Services, Access & Participation</a>
         </h4>
       </div>
     </div>
@@ -116,11 +116,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Feds Shed Light on Dark Social" href="{{< relref "2012-10-19-feds-shed-light-on-dark-social.md" >}}  rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/12/featured-301-x-212-Social-Network-Concept-Tom-De-Spiegelaere-iStock-Thinkstock-138108046.jpg" alt="Feds Shed Light on Dark Social" >}}</a>
+          <a title="Permanent Link to Feds Shed Light on Dark Social" href="{{< link "2012-10-19-feds-shed-light-on-dark-social.md" >}}  rel="bookmark">{{< legacy-img src="/2014/12/featured-301-x-212-Social-Network-Concept-Tom-De-Spiegelaere-iStock-Thinkstock-138108046.jpg" alt="Feds Shed Light on Dark Social" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2012-10-19-feds-shed-light-on-dark-social.md" >}}">Feds Shed Light on Dark Social</a>
+          <a href="{{< link "2012-10-19-feds-shed-light-on-dark-social.md" >}}">Feds Shed Light on Dark Social</a>
         </h4>
       </div>
     </div>
@@ -136,11 +136,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Federal-Compatible Terms of Service Agreements" href="{{< relref "federal-compatible-terms-of-service-agreements.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/01/hp-featured-pg-348-x-226-Terms-of-Service-alexskopje-iStock-Thinkstock-467258951.jpg" alt="Federal-Compatible Terms of Service Agreements" >}}</a>
+          <a title="Permanent Link to Federal-Compatible Terms of Service Agreements" href="{{< link "federal-compatible-terms-of-service-agreements.md" >}}" rel="bookmark">{{< legacy-img src="/2014/01/hp-featured-pg-348-x-226-Terms-of-Service-alexskopje-iStock-Thinkstock-467258951.jpg" alt="Federal-Compatible Terms of Service Agreements" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "federal-compatible-terms-of-service-agreements.md" >}}">Federal-Compatible Terms of Service Agreements</a>
+          <a href="{{< link "federal-compatible-terms-of-service-agreements.md" >}}">Federal-Compatible Terms of Service Agreements</a>
         </h4>
       </div>
     </div>
@@ -152,11 +152,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Social Media Registry" href="{{< relref "social-media-registry.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/03/hp-featured-pg-348-x-226-Thumb-Up-Sign-Anatoliy-Babiy-iStock-Thinkstock-153911435.jpg" alt="Social Media Registry" >}}</a>
+          <a title="Permanent Link to Social Media Registry" href="{{< link "social-media-registry.md" >}}" rel="bookmark">{{< legacy-img src="/2015/03/hp-featured-pg-348-x-226-Thumb-Up-Sign-Anatoliy-Babiy-iStock-Thinkstock-153911435.jpg" alt="Social Media Registry" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "social-media-registry.md" >}}">Social Media Registry</a>
+          <a href="{{< link "social-media-registry.md" >}}">Social Media Registry</a>
         </h4>
       </div>
     </div>
@@ -168,11 +168,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Federal Social Media Analytics Toolkit" href="{{< relref "federal-social-media-analytics-toolkit-hackpad.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/hp-featured-pg-348-x-226-Social-Network-Rach27-iStock-Thinkstock-ThinkstockPhotos-457041031.jpg" alt="Federal Social Media Analytics Toolkit" >}}</a>
+          <a title="Permanent Link to Federal Social Media Analytics Toolkit" href="{{< link "federal-social-media-analytics-toolkit-hackpad.md" >}}" rel="bookmark">{{< legacy-img src="/2014/06/hp-featured-pg-348-x-226-Social-Network-Rach27-iStock-Thinkstock-ThinkstockPhotos-457041031.jpg" alt="Federal Social Media Analytics Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "federal-social-media-analytics-toolkit-hackpad.md" >}}">Federal Social Media Analytics Toolkit</a>
+          <a href="{{< link "federal-social-media-analytics-toolkit-hackpad.md" >}}">Federal Social Media Analytics Toolkit</a>
         </h4>
       </div>
     </div>
@@ -186,11 +186,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Federal Social Media Accessibility Toolkit Hackpad" href="{{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2014/06/hp-featured-pg-348-x-226-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Federal Social Media Accessibility Toolkit Hackpad" >}}</a>
+          <a title="Permanent Link to Federal Social Media Accessibility Toolkit Hackpad" href="{{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}}" rel="bookmark">{{< legacy-img src="/2014/06/hp-featured-pg-348-x-226-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Federal Social Media Accessibility Toolkit Hackpad" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "federal-social-media-accessibility-toolkit-hackpad.md" >}}">Federal Social Media Accessibility Toolkit</a>
+          <a href="{{< link "federal-social-media-accessibility-toolkit-hackpad.md" >}}">Federal Social Media Accessibility Toolkit</a>
         </h4>
       </div>
     </div>
@@ -202,11 +202,11 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/01/hp-featured-pg-348-x-226-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" >}}</a>
+          <a title="Permanent Link to Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" href="{{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}" rel="bookmark">{{< legacy-img src="/2015/01/hp-featured-pg-348-x-226-Mobile-Security-and-Protection-Concept-Smartphone-with-Safe-Door-rasslava-iStock-Thinkstock-499582771.jpg" alt="Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a>
+          <a href="{{< link "readiness-recovery-response-social-media-cyber-vandalism-toolkit.md" >}}">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a>
         </h4>
       </div>
     </div>
@@ -218,7 +218,7 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to U.S. Public Participation Playbook" href="https://participation.usa.gov/" rel="bookmark">{{< legacy-img src="//s3.amazonaws.com/sitesusa/wp-content/uploads/sites/212/2015/04/hp-featured-pg-no-text-348-x-226-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="U.S. Public Participation Playbook" >}}</a>
+          <a title="Permanent Link to U.S. Public Participation Playbook" href="https://participation.usa.gov/" rel="bookmark">{{< legacy-img src="/2015/04/hp-featured-pg-no-text-348-x-226-US-Public-Participation-Playbook-Group-of-World-People-s-Hands-Robert-Churchill-iStock-Thinkstock-480665457.jpg" alt="U.S. Public Participation Playbook" >}}</a>
         </div>
 
         <h4 class="post-title">
@@ -238,5 +238,5 @@ To join, [email Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23So
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< link "video-library.md" >}}">View past events</a>
 </p>

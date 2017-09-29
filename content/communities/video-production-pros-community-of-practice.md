@@ -23,7 +23,7 @@ We launched in 2016 to help people connect and share great ideas. Video Producti
 If you are a U.S. government employee with a **.gov** or **.mil** email address, click the “Email us to Join” button below to subscribe to our listserv. If you have any questions, please email <a href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros" target="_blank">Bryce Spivey</a>.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:Kevin.Spivey@cfpb.gov?subject=Join Video Production Pros">Email us to Join</a> or <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -35,11 +35,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" href="{{< relref "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" >}}</a>
+          <a title="Permanent Link to The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" href="{{< link "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-Icons-for-marketing-management-analytics-robuart-iStock-Thinkstock-489809491.jpg" alt="The Content Corner: Social Media Metrics and the Challenge of Effective Measurement" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}">The Content Corner: Social Media Metrics and the Challenge of Effective Measurement</a>
+          <a href="{{< link "2016-03-21-the-content-corner-social-media-metrics-and-the-challenge-of-effective-measurement.md" >}}">The Content Corner: Social Media Metrics and the Challenge of Effective Measurement</a>
         </h4>
       </div>
     </div>
@@ -51,11 +51,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to What Mobile Devices Do People Use to Access Federal Sites?" href="{{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-3D-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-453448349.jpg" alt="What Mobile Devices Do People Use to Access Federal Sites?" >}}</a>
+          <a title="Permanent Link to What Mobile Devices Do People Use to Access Federal Sites?" href="{{< link "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-3D-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-453448349.jpg" alt="What Mobile Devices Do People Use to Access Federal Sites?" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}">What Mobile Devices Do People Use to Access Federal Sites?</a>
+          <a href="{{< link "2015-11-24-trends-on-tuesday-what-mobile-devices-do-people-use-to-access-federal-sites.md" >}}">What Mobile Devices Do People Use to Access Federal Sites?</a>
         </h4>
       </div>
     </div>
@@ -63,7 +63,7 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 </div>
 
 <div class="one-fifth">
-  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -75,11 +75,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Five Ways That Video Will Continue to Evolve on Facebook" href="{{< relref "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Media-technology-internet-online-communication-and-telecommunication-network-concept-cybrain-iStock-Thinkstock-524722954.jpg" alt="Five Ways That Video Will Continue to Evolve on Facebook" >}}</a>
+          <a title="Permanent Link to Five Ways That Video Will Continue to Evolve on Facebook" href="{{< link "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-Media-technology-internet-online-communication-and-telecommunication-network-concept-cybrain-iStock-Thinkstock-524722954.jpg" alt="Five Ways That Video Will Continue to Evolve on Facebook" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}">Five Ways That Video Will Continue to Evolve on Facebook</a>
+          <a href="{{< link "2016-06-08-five-ways-that-video-will-continue-to-evolve-on-facebook.md" >}}">Five Ways That Video Will Continue to Evolve on Facebook</a>
         </h4>
       </div>
     </div>
@@ -91,11 +91,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to 508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< relref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-USCIS-The-Citizenship-Interview-and-Test-on-YouTube-player.jpg" alt="508 Accessible Videos – Use a 508-Compliant Video Player" >}}</a>
+          <a title="Permanent Link to 508 Accessible Videos – Use a 508-Compliant Video Player" href="{{< link "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-USCIS-The-Citizenship-Interview-and-Test-on-YouTube-player.jpg" alt="508 Accessible Videos – Use a 508-Compliant Video Player" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">508 Accessible Videos – Use a 508-Compliant Video Player</a>
+          <a href="{{< link "2014-06-30-508-accessible-videos-use-a-508-compliant-video-player.md" >}}">508 Accessible Videos – Use a 508-Compliant Video Player</a>
         </h4>
       </div>
     </div>
@@ -107,11 +107,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Storyboard: A Tool for a Successful Video" href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Storyboard-template-for-film-story-vectortatu-iStock-Thinkstock-540603270.jpg" alt="Storyboard: A Tool for a Successful Video" >}}</a>
+          <a title="Permanent Link to Storyboard: A Tool for a Successful Video" href="{{< link "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-Storyboard-template-for-film-story-vectortatu-iStock-Thinkstock-540603270.jpg" alt="Storyboard: A Tool for a Successful Video" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
+          <a href="{{< link "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
         </h4>
       </div>
     </div>
@@ -125,11 +125,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Social Video: Making Sense of the Facebook and YouTube Platforms" href="{{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}" rel="bookmark">{{< legacy-img src="CDN/files/2016/07/featured-hp-348-x-226-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Social Video: Making Sense of the Facebook and YouTube Platforms" >}}</a>
+          <a title="Permanent Link to Social Video: Making Sense of the Facebook and YouTube Platforms" href="{{< link "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}" rel="bookmark">{{< legacy-img src="/2016/07/featured-hp-348-x-226-Rubicks-Cube-with-social-media-logos-Anatoliy-Babiy-iStock-Editorial-Thinkstock-458288593.jpg" alt="Social Video: Making Sense of the Facebook and YouTube Platforms" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}">Social Video: Making Sense of the Facebook and YouTube Platforms</a>
+          <a href="{{< link "2015-01-30-social-video-making-sense-of-the-facebook-and-youtube-platforms.md" >}}">Social Video: Making Sense of the Facebook and YouTube Platforms</a>
         </h4>
       </div>
     </div>
@@ -137,11 +137,11 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <div class="one-third">
-  {{< legacy-img src="CDN/files/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
+  {{< legacy-img src="/2014/05/1-x-1-spacer.gif" alt="image placeholder" >}}
 </div>
 
 <hr style="color: white;border-style: none" />
@@ -155,5 +155,5 @@ If you are a U.S. government employee with a **.gov** or **.mil** email address,
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="({{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< link "video-library.md" >}}">View past events</a>
 </p>

@@ -1,0 +1,5 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range $image := $.Site.Data.images -}}
+{{- $.Scratch.Add "index" (dict "uid" $image.uid "date" $image.date "height" $image.height "width" $image.width "format" $image.format "alt" ($image.alt | default "" | plainify) "caption" ($image.caption | default "" | plainify) "credit" ($image.credit | default "" | plainify)) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

@@ -16,11 +16,18 @@
         </h1>
 
         {{ partial "post-meta" . }}
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
 
         {{ .Content }}
 
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
         {{ partial "post-meta--related-posts" . }}
         {{ partial "post-meta--tag-list" . }}
+
+        <!-- Edit file on GitHub -->
+        <a target="_blank" class="edit_file" href="https://github.com/GSA/digitalgov.gov" data-filepath="{{.File.Path}}" title="Edit in GitHub"><img src="{{ "img/GitHub-Mark-32px.png" | absURL }}" alt="GitHub Logo"><span>Edit</span></a>
 
       </div><!-- .entry -->
 
@@ -36,13 +43,13 @@
 
     <div class="navigation clearfix">
       <div class="alignleft single">
-        {{ if .Prev }}
-          « <a href="{{ .Prev.URL | absURL }}" rel="prev">{{ .Prev.Title | markdownify }}</a>
+        {{ if .PrevInSection }}
+          « <a href="{{ .PrevInSection.URL | absURL }}" rel="prev">{{ .PrevInSection.Title | markdownify }}</a>
         {{ end }}
       </div>
       <div class="alignright single">
-        {{ if .Next }}
-          <a href="{{ .Next.URL | absURL }}" rel="next">{{ .Next.Title | markdownify }}</a> »
+        {{ if .NextInSection }}
+          <a href="{{ .NextInSection.URL | absURL }}" rel="next">{{ .NextInSection.Title | markdownify }}</a> »
         {{ end }}
       </div>
     </div><!-- .navigation -->

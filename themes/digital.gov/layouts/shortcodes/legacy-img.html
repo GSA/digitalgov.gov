@@ -1,16 +1,13 @@
 <!-- image -->
 {{ $cdnurl := .Site.Params.cdnurl }}
+{{ $legacyPath := "_legacy-img" }}
+{{ $imgPath := (.Get "src") }}
+{{ $imgPath := replaceRE "^/" "" $imgPath }}
+{{ $imgCDN := printf "%s/%s/%s" $cdnurl $legacyPath $imgPath }}
+{{ $prefix := replaceRE "^(http[s]://).+$" "$1" $imgPath }}
 
-<div {{ if or (.Get "align") (.Get "caption")}}class="{{ with .Get "caption" }}wp-caption{{ end }} {{ with .Get "align" }}align{{.}}{{ end }}"{{ end }}>
-  {{ if isset .Params "title" }}
-    <h6 class='figure-title'>{{ .Get "title" }}</h6>
-  {{ end }}
-  {{ with .Get "link"}}<a href="{{ . | absURL }}">{{ end }}
-  <img src="{{ if (findRE "^http" (.Get "src")) }}{{ else }}{{ $cdnurl }}{{ end }}{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
-  {{ if .Get "link"}}</a>{{ end }}
-  {{ with .Get "attr"}}
-    <div class="figure-credit">{{ .Get "attr" }}</div>
-  {{ end }}
+<div class="image{{ if or (.Get "align") (.Get "caption")}}{{ with .Get "caption" }} wp-caption{{ end }}{{ with .Get "align" }} align{{.}}{{ end }}{{ end }}">
+  <img src="{{ if ne $prefix $imgPath }}{{ $imgPath }}{{ else }}{{ $imgCDN }}{{ end }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
   {{ with .Get "caption" }}
     <p class="wp-caption-text">
       {{ . | markdownify }}

@@ -1,4 +1,4 @@
-title                   : "digital.gov"
+title                   : "DigitalGov - Building the 21st Century Digital Government"
 baseURL                 : "/"
 languageCode            : "en-us"
 theme                   : "digital.gov"
@@ -14,27 +14,42 @@ enableRobotsTXT         : false
 ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
-# uncomment the following for a dev mode that excludes posts before 2017
-#  - "content/posts/201[0-6]"
+  - "content/images/*"
 
 sitemap:
   changefreq            : "monthly"
   priority              : 0.5
   filename              : "sitemap.xml"
 
+outputFormats:
+  SiteImages:
+    mediaType: "application/json"
+    baseName: "siteimages"
+    isPlainText: true
+    notAlternative: true
+  RSS:
+    mediatype: "application/rss"
+
+outputs:
+  home: ["HTML","RSS","SiteImages"]
+
+blackfriday:
+  fractions: false
+
 params:
-  description           : "digital.gov"
+  description           : "DigitalGov: We’re helping you build a modern government."
   faceboook             : ""
   twitter               : ""
   instagram             : ""
   youtube               : ""
   background_color_class: "bg-black"
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
-  cdnurl                : "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/"
-  defaulturl            : "https://digital.gov"
+  cdnurl                : "https://s3.amazonaws.com/digitalgov"
+  defaulturl            : "https://www.digitalgov.gov"
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
+  events                : "event/:slug/"
 
 taxonomies:
   tag                   : "tag"
