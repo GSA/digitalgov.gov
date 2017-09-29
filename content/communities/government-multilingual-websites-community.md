@@ -17,8 +17,8 @@ Join us if you are a government employee working  for a federal, state or local 
 Fill out the short Google form below to subscribe to our listserv. If you have any questions, please contact group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
 <div style="text-align: center">
-  <a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
-</div>_**The Multilingual Digital Group also maintains the multilingual [resources]({{< relref "resources.md#multilingual" >}}) and [articles]({{< link "tag/multilingual" >}}) for DigitalGov.**_
+  <a class="button" href="https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ">Join the Listserv</a> or <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+</div>_**The Multilingual Digital Group also maintains the multilingual [resources]({{< link "resources.md#multilingual" >}}) and [articles]({{< link "tag/multilingual" >}}) for DigitalGov.**_
 
 
 
@@ -29,11 +29,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
+          <a title="Permanent Link to Top 10 Best Practices for Multilingual Websites" href="{{< link "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Top-10-Letterpress-Enterline-Design-Services-LLC-iStock-Thinkstock-510874531.jpg" alt="Top 10 Best Practices for Multilingual Websites" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}">Top 10 Best Practices for Multilingual Websites</a>
+          <a href="{{< link "2012-08-12-top-10-best-practices-for-multilingual-websites.md" >}}">Top 10 Best Practices for Multilingual Websites</a>
         </h4>
       </div>
     </div>
@@ -61,11 +61,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Spanish Language Style Guide and Glossaries" href="{{< relref "spanish-language-style-guide-and-glossaries.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Blackboard-in-Spanish-Class-Fuse-Thinkstock-78819902.jpg" alt="Spanish Language Style Guide and Glossaries" >}}</a>
+          <a title="Permanent Link to Spanish Language Style Guide and Glossaries" href="{{< link "spanish-language-style-guide-and-glossaries.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Blackboard-in-Spanish-Class-Fuse-Thinkstock-78819902.jpg" alt="Spanish Language Style Guide and Glossaries" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "spanish-language-style-guide-and-glossaries.md" >}}">Spanish Language Style Guide and Glossaries</a>
+          <a href="{{< link "spanish-language-style-guide-and-glossaries.md" >}}">Spanish Language Style Guide and Glossaries</a>
         </h4>
       </div>
     </div>
@@ -93,11 +93,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Lost in Translation" href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
+          <a title="Permanent Link to Lost in Translation" href="{{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-keyboard-Translating-Concept-Tashatuvango-iStock-Thinkstock-178134476.jpg" alt="Lost in Translation" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2012-10-01-automated-translation-good-solution-or-not.md" >}}">Lost in Translation</a>
+          <a href="{{< link "2012-10-01-automated-translation-good-solution-or-not.md" >}}">Lost in Translation</a>
         </h4>
       </div>
     </div>
@@ -117,11 +117,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multilingual Digital Content" href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
+          <a title="Permanent Link to Multilingual Digital Content" href="{{< link "2014-07-01-multilingual-digital-content.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-Global-internet-communication-online-messaging-and-translation-concept-cybrain-iStock-Thinkstock-501821118.jpg" alt="Multilingual Digital Content" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-07-01-multilingual-digital-content.md" >}}">Multilingual Digital Content</a>
+          <a href="{{< link "2014-07-01-multilingual-digital-content.md" >}}">Multilingual Digital Content</a>
         </h4>
       </div>
     </div>
@@ -133,11 +133,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
+          <a title="Permanent Link to Multiple Languages, Single Platforms: the World Digital Library" href="{{< link "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Hello-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825389.jpg" alt="Multiple Languages, Single Platforms: the World Digital Library" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}">Multiple Languages, Single Platforms: the World Digital Library</a>
+          <a href="{{< link "2015-04-09-multiple-languages-single-platforms-the-world-digital-library.md" >}}">Multiple Languages, Single Platforms: the World Digital Library</a>
         </h4>
       </div>
     </div>
@@ -149,11 +149,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
+          <a title="Permanent Link to Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" href="{{< link "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}">Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future</a>
+          <a href="{{< link "2014-05-27-trends-on-tuesday-hispanic-millennials-provide-insight-on-mobile-future.md" >}}">Trends on Tuesday: Hispanic Millennials Provide Insight on Mobile Future</a>
         </h4>
       </div>
     </div>
@@ -165,11 +165,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
+          <a title="Permanent Link to Persona Development Case Study: NCI and Spanish Language Outreach" href="{{< link "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}" rel="bookmark">{{< legacy-img src="/2016/02/hp-featured-348-x-226-NCI-Spanish-Language-Personas-Inform-the-Development-of-Healthcare-Websites-pdf-Javier-1.jpg" alt="Persona Development Case Study: NCI and Spanish Language Outreach" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}">Persona Development Case Study: NCI and Spanish Language Outreach</a>
+          <a href="{{< link "2015-03-02-persona-development-case-study-nci-and-spanish-language-outreach.md" >}}">Persona Development Case Study: NCI and Spanish Language Outreach</a>
         </h4>
       </div>
     </div>
@@ -181,11 +181,11 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
+          <a title="Permanent Link to Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" href="{{< link "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}" rel="bookmark">{{< legacy-img src="/2015/12/hp-featured-348-x-226-World-cup-soccer-ball-3dbrained-iStock-Thinkstock-95407752.jpg" alt="Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}">Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer</a>
+          <a href="{{< link "2014-07-11-why-marketing-to-u-s-hispanics-is-like-the-offside-rule-in-soccer.md" >}}">Why Marketing to U.S. Hispanics Is like the Offside Rule in Soccer</a>
         </h4>
       </div>
     </div>
@@ -219,14 +219,14 @@ Fill out the short Google form below to subscribe to our listserv. If you have a
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< link "video-library.md" >}}">View past events</a>
 </p>
 
 ## About this Group
 
 We work to support Executive Order 13166, “[Improving Access to Services for People with Limited English Proficiency](http://www.justice.gov/crt/about/cor/Pubs/eolep.pdf)” (PDF, 255 KB, 6 pages, August 2000). Our primary purpose is to meet the growing demand for government information and services in other languages and to share ideas, challenges and best practices for managing multilingual content and websites.
 
-We [collect research]({{< relref "2014-07-01-multilingual-digital-content.md" >}}), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
+We [collect research]({{< link "2014-07-01-multilingual-digital-content.md" >}}), and develop and curate tools and best practices. We also meet several times a year and maintain an active listserv.
 
 We work on three main areas:
 

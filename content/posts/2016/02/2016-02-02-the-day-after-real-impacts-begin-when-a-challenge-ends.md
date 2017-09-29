@@ -24,7 +24,7 @@ Obviously, the impact of the Orteig Prize continues to this day. {{< legacy-img 
 
 It provides a perfect example for the seventh and last installment in an expert training series on how to design and operate prize competitions to maximize success.
 
-In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< relref "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
+In a Jan. 14 webinar on [Post-Prize Industry & Post-Prize Impact]({{< link "module-7-post-prize-industry-and-the-post-prize-impact.md" >}}), experts explored ways to ensure a competition continues to make an impact long after a prize has been awarded.
 
 “You should really think about it all the way through the process,” said Stephanie Wander, associate in prize design at XPRIZE.
 
@@ -38,7 +38,7 @@ It all depends. For instance, are you looking to create a post-prize industry or
 
 Case in point: USAID’s [Fighting Ebola Grand Challenge](http://www.ebolagrandchallenge.net/).
 
-In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< relref "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
+In addition to providing front-line healthcare workers with a [safer, easier-to-use suit]({{< link "2015-12-11-all-in-partnering-across-sectors-can-boost-competition-results.md" >}}), the challenge also produced innovations in sensors and information technology.
 
 XPRIZE Director of Prize Operations Salima Ranmal joined Wander and Bonnell for a wide ranging discussion that also touched on a variety of budget considerations.
 
@@ -58,4 +58,4 @@ Below is a rundown of some of what the experts had to say. You can also [watch a
 
 **Identify and measure your impacts**: Are you looking to influence public perception or demonstrate a technological breakthrough, create a market or engage a community? Once you know, you’ll want to find ways to measure the impacts—percent of market growth, number of people affected, amount of money raised by teams, etc.
 
-_**The Expert Training Series**: **How to Design & Operate Prizes to Maximize Success** is a seven-part educational forum on incentivized prize competitions for the federal challenge and prize community. A collaboration between [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University]({{< relref "digitalgov-university.md" >}}), the webinar series covered various aspects of both prize design and prize operations and featured speakers and best practices from federal agencies._
+_**The Expert Training Series**: **How to Design & Operate Prizes to Maximize Success** is a seven-part educational forum on incentivized prize competitions for the federal challenge and prize community. A collaboration between [Challenge.gov](https://www.challenge.gov/list/) and [DigitalGov University]({{< link "digitalgov-university.md" >}}), the webinar series covered various aspects of both prize design and prize operations and featured speakers and best practices from federal agencies._

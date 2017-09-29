@@ -21,7 +21,7 @@ tag:
 
 {{< legacy-img src="2015/10/600-x-450-Modern-conversation-social-network-community-logo-icon-maximillion_studio-iStock-Thinkstock-485896583.jpg" alt="Modern conversation social network community logo icon" caption="" >}} 
 
-There are several things federal agencies need to think about in the [mobile space]({{< relref "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). Is my website [responsive]({{< relref "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}), so that consumers can view it on any device (desktop/laptop, tablet, smartphone)? Do I have [mobile apps](https://www.usa.gov/mobile-apps) that fill citizen needs?
+There are several things federal agencies need to think about in the [mobile space]({{< link "2015-10-07-is-your-agency-winning-its-mobile-moments.md" >}}). Is my website [responsive]({{< link "2015-01-13-trends-on-tuesday-responsive-web-design-implementation-happening-piecemeal.md" >}}), so that consumers can view it on any device (desktop/laptop, tablet, smartphone)? Do I have [mobile apps](https://www.usa.gov/mobile-apps) that fill citizen needs?
 
 But does texting have a place in the U.S. government, as we strive to serve citizens where THEY are?
 
@@ -39,6 +39,6 @@ Here are at least 9 factors you need to consider, according to [GovDelivery](htt
 
 {{< legacy-img src="2015/10/600-x-535-User-Initiated-1-and-2.jpg" alt="User-initiated messages from SmokeFreeTXT app." >}}
 
-We know the [National Cancer Institute]({{< relref "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}) is using texting to help people quit smoking. Consumers sign up, and then receive periodic messages that encourage them as they try to kick the habit. Is your agency using [texting to fulfill its mission]({{< relref "2015-10-08-national-cancer-institutes-smokefree-tools.md" >}})? If so, how?
+We know the [National Cancer Institute]({{< link "2015-04-16-nci-reaching-the-public-via-sms-to-change-behaviors.md" >}}) is using texting to help people quit smoking. Consumers sign up, and then receive periodic messages that encourage them as they try to kick the habit. Is your agency using [texting to fulfill its mission]({{< link "2015-10-08-national-cancer-institutes-smokefree-tools.md" >}})? If so, how?
 
  

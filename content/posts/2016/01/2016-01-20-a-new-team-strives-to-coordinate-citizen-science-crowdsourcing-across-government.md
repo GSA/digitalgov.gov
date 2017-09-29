@@ -48,7 +48,7 @@ The toolkit, however, requires agency practitioners to offer their learnings, ex
 
 ## Enter the Agency Coordinator {{< legacy-img src="2015/07/600-x-400-Silhouettes-of-Business-People-Discussing-Outdoors-Rawpixel-Ltd-iStock-Thinkstock-490926205.jpg" alt="Silhouettes of business people having discussions" caption="" >}} 
 
-Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< relref "federal-crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
+Coordinators at each federal agency, managed by GSA,have begun working with OSTP and the [Federal Community of Practice for Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}}), to help track and organize the growing number of crowdsourcing projects.
 
 Appointed by their agencies, these coordinators will help with a variety of activities, including:
 
@@ -77,4 +77,4 @@ Ultimately, these combined efforts aim to knock down any remaining barriers to m
 
 NOTE: All of the efforts described in this article have benefitted from key contributions from the Federal Community of Practice for Crowdsourcing and Citizen Science, a grassroots group founded in 2012. About 200 members from more than 40 federal agencies and departments share lessons learned, best practices and training.
 
-The group meets monthly and operates a listserv. To subscribe, [visit the community on DigitalGov]({{< relref "challenges-prizes-community.md" >}}) or e-mail [Ruthanna Gordon](mailto:Ruthanna.emrysgordon@iarpa.gov) with any questions.
+The group meets monthly and operates a listserv. To subscribe, [visit the community on DigitalGov]({{< link "challenges-prizes-community.md" >}}) or e-mail [Ruthanna Gordon](mailto:Ruthanna.emrysgordon@iarpa.gov) with any questions.

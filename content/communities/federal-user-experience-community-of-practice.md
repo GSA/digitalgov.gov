@@ -22,15 +22,15 @@ Join our community of more than 1,000 federal User Experience practitioners, and
 To join, contact the group Co-Chairs Jean Fox and Silvia Salazar via <a href="mailto:ux-cop-request@listserv.gsa.gov?subject=Join UX Community" target="_blank">email</a>, with “Join UX Community” in the subject line.
 
 <div style="text-align: center">
-  <a class="button" href="mailto:ux-cop-request@listserv.gsa.gov?subject=Join UX Community">Join via Email</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+  <a class="button" href="mailto:ux-cop-request@listserv.gsa.gov?subject=Join UX Community">Join via Email</a> or <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## We Offer
 
   * User Experience (UX) networking events
-  * Training for government Web managers, usability specialists, and project managers through [DigitalGov University]({{< relref "digitalgov-university.md" >}}) and other programs
+  * Training for government Web managers, usability specialists, and project managers through [DigitalGov University]({{< link "digitalgov-university.md" >}}) and other programs
   * Volunteer opportunities
-  * Useful UX resources such as the [DigitalGov User Experience Resources]({{< relref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov/), [DigitalGov]({{< link "index.html" >}}), and [DigitalGov University]({{< relref "digitalgov-university.md" >}}). [
+  * Useful UX resources such as the [DigitalGov User Experience Resources]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov/), [DigitalGov]({{< link "index.html" >}}), and [DigitalGov University]({{< link "digitalgov-university.md" >}}). [
   ](http://www.usability.gov/)
   * Case studies of why UX works!
 
@@ -49,5 +49,5 @@ Our members include more than 900 federal, state, and local U.S. government empl
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< link "video-library.md" >}}">View past events</a>
 </p>

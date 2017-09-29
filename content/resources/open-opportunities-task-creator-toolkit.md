@@ -13,7 +13,7 @@ authors:
     
       1. **Brainstorm and Review:** 
         <li style="margin-bottom: 15px">
-          <a title="Click to read: 10 Tips for Creating the Perfect Open Opportunity Task" href="{{< relref "open-opportunities-task-creator-toolkit.md" >}}10-tips-for-creating-the-perfect-open-opportunity-task/">10 Tips for Creating the Perfect Task</a>
+          <a title="Click to read: 10 Tips for Creating the Perfect Open Opportunity Task" href="{{< link "open-opportunities-task-creator-toolkit.md" >}}10-tips-for-creating-the-perfect-open-opportunity-task/">10 Tips for Creating the Perfect Task</a>
         </li>
       2. **Add Tasks to Open Opps** 
           * Go to the Open Opps website: [openopps.digitalgov.gov/tasks](https://openopps.digitalgov.gov/tasks "Open Opps website")

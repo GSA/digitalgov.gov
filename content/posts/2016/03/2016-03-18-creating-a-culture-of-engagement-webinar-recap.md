@@ -139,4 +139,4 @@ You can [view the presentation slides](https://s3.amazonaws.com/digitalgov/legac
 
  
 
-For more content like this, [join the Customer Experience Community (CX-COP)]({{< relref "customer-experience-community.md" >}}).
+For more content like this, [join the Customer Experience Community (CX-COP)]({{< link "customer-experience-community.md" >}}).

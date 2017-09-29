@@ -14,7 +14,7 @@ tag:
   - Web Content Managers Forum
 ---
 
-{{< legacy-img src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community]({{< relref "web-managers-forum.md" >}} "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
+{{< legacy-img src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}Welcome to the first edition of a new series of articles spotlighting members of our [Government Web Manager Community]({{< link "web-managers-forum.md" >}} "Web Content Managers Forum"). This month, we introduce Jill James, who’s the Senior Web Editor/Director for the **Department of Education**, in their Communications and Outreach Office. We asked Jill a few questions about her work at Dept. of Ed, as well as her life outside of work, and we’re happy for the chance to get to know her better!
 
 ## What’s the best job you&#8217;ve ever had (and why)?
 
@@ -28,7 +28,7 @@ We’re reinventing how we publish grant opportunities and programs, to help us 
 
 We’re rolling out a phased visual refresh/redesign of our flagship [ED.gov](http://www.ed.gov/ "Dept. of Education") website. The most significant changes came with the second phase, released in late June. We changed the look and feel of the website, streamlined navigation elements, and introduced a mobile-friendly responsive design for much of the site.
 
-We also launched a new site search experience, using [DigitalGov Search]({{< relref "search.md" >}} "DigitalGov Search"). With the new site search, our customers can search across all of ED’s websites at once. The search experience is close to an external search engine experience, which our customers find familiar and intuitive. We appreciate how much we can custom tailor the DigitalGov Search features for ED’s needs, and the detailed, relevant search metrics we can access. All of this helps us improve the search experience, which is so key to how our customers navigate ED.gov.
+We also launched a new site search experience, using [DigitalGov Search]({{< link "search.md" >}} "DigitalGov Search"). With the new site search, our customers can search across all of ED’s websites at once. The search experience is close to an external search engine experience, which our customers find familiar and intuitive. We appreciate how much we can custom tailor the DigitalGov Search features for ED’s needs, and the detailed, relevant search metrics we can access. All of this helps us improve the search experience, which is so key to how our customers navigate ED.gov.
 
 The third and final phase of the redesign will roll out later this year. It coincides with an upgrade from Drupal 6 to Drupal 7 and includes a redesigned ED.gov homepage and mobile-responsive design for the press room and other content we serve up with Drupal.
 
@@ -58,4 +58,4 @@ If I could work anywhere, I would still work for the federal government on digit
 
  
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

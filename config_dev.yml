@@ -15,6 +15,9 @@ ignoreFiles:
   - "^_template"
   - "content/_tmp/*"
   - "content/images/*"
+# uncomment the following for a dev mode that excludes posts before 2017
+  - "content/posts/201[0-6]"
+
 
 sitemap:
   changefreq            : "monthly"
@@ -49,6 +52,7 @@ params:
   featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
   defaulturl            : "https://www.digitalgov.gov"
+  devmode               : true
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

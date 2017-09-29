@@ -17,7 +17,7 @@ tag:
   - mobile
 ---
 
-The [Digital Analytics Program]({{< relref "dap.md" >}}) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
+The [Digital Analytics Program]({{< link "dap.md" >}}) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued Memorandum M-17-06, “Policies for Federal Agency Public Websites and Digital Services,” which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.
 
 The [DAP Learning Series: Measuring Your Mobile Users](https://www.youtube.com/watch?v=DgSfm1wZvvE) webinar, co-sponsored by the [MobileGov Community of Practice]({{< link "categories/mobile" >}}), focused on measuring mobile users with DAP’s analytics tools, which are essentially a pre-configured version of Google Analytics. {{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="" >}}
 
@@ -29,7 +29,7 @@ But how do you build better websites for mobile users? The first step is to unde
 
 ## DAP Mobile Analytics Capabilities
 
-DAP can help website teams understand friction points and UX/navigation issues on mobile sites; [mobile site speed]({{< relref "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}); and [mobile traffic]({{< relref "2016-02-05-4-tips-for-analyzing-mobile-traffic-with-dap.md" >}}) sources, such as organic or paid search. The analytics capabilities offered include all of the out-of-the box Google Analytics reports, such as traffic sources, URLs, and Referring Domains; as well as mobile specific reports including device type and category. For now, DAP mobile analytics do not track standalone mobile apps, but may do so in the future.
+DAP can help website teams understand friction points and UX/navigation issues on mobile sites; [mobile site speed]({{< link "2015-09-16-speed-matters-optimizing-your-website-for-maximum-performance.md" >}}); and [mobile traffic]({{< link "2016-02-05-4-tips-for-analyzing-mobile-traffic-with-dap.md" >}}) sources, such as organic or paid search. The analytics capabilities offered include all of the out-of-the box Google Analytics reports, such as traffic sources, URLs, and Referring Domains; as well as mobile specific reports including device type and category. For now, DAP mobile analytics do not track standalone mobile apps, but may do so in the future.
 
 ## Questions to Guide Your Mobile Reporting
 
@@ -54,5 +54,5 @@ Federal website administrators can [email the DAP Support team](mailto:dap@suppo
 
 
 
-_For additional information regarding federal websites and digital products, visit our [Resources]({{< relref "resources.md" >}}) section, and review the [Checklist of Requirements for Federal Websites and Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}})._
-_Read some of our recent blog posts on what other agencies are doing in [mobile]({{< link "categories/mobile" >}}) and [metrics](({{< link "categories/metrics" >}})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< relref "communities.md" >}})._
+_For additional information regarding federal websites and digital products, visit our [Resources]({{< link "resources.md" >}}) section, and review the [Checklist of Requirements for Federal Websites and Digital Services]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})._
+_Read some of our recent blog posts on what other agencies are doing in [mobile]({{< link "categories/mobile" >}}) and [metrics](({{< link "categories/metrics" >}})), and if you have a .gov or .mil email account, consider joining some of our various [Communities of Practice]({{< link "communities.md" >}})._

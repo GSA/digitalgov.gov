@@ -17,7 +17,7 @@ tag:
 
 {{< legacy-img src="2015/03/600-x-434-Calendar-with-magnifying-glass-Violka08-iStock-Thinkstock-GettyImages_184629674.jpg" alt="Calendar with magnifying glass" caption="" >}} 
 
-As we all continue to wrestle with the “[content beast]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}})”, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s Day and Presidents’ Day holidays (I decided to skip “[Do a Grouch a Favor Day](http://www.cute-calendar.com/event/do-a-grouch-a-favor-day/11254-world.html)”).
+As we all continue to wrestle with the “[content beast]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}})”, one effective method for generating ideas for content and fleshing out an editorial calendar is to look for trending events or even upcoming holidays. In the spirit of full disclosure, the idea behind this particular post was inspired by the back-to-back Valentine’s Day and Presidents’ Day holidays (I decided to skip “[Do a Grouch a Favor Day](http://www.cute-calendar.com/event/do-a-grouch-a-favor-day/11254-world.html)”).
 
 But its not as simple as picking a holiday or event and then just running with it. Done well, it will not only help you populate your editorial calendar but also drive traffic and raise awareness about your agency. Done sloppily, it can alienate visitors and even damage your agency’s reputation. As content creators for our organizations there is certainly such a thing as bad publicity.
 

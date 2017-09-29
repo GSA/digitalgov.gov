@@ -23,9 +23,9 @@ authors:
   Resources:
 </h2>
 
-  * Find out [how Open Opportunities works]({{< relref "how-open-opportunities-works.md" >}})
-  * Take a look at the [Task Creator Toolkit]({{< relref "open-opportunities-task-creator-toolkit.md" >}} "Open Opportunities Task Creator Toolkit")
-  * Review our [Terms of Use]({{< relref "open-opportunities-terms-of-use.md" >}})
+  * Find out [how Open Opportunities works]({{< link "how-open-opportunities-works.md" >}})
+  * Take a look at the [Task Creator Toolkit]({{< link "open-opportunities-task-creator-toolkit.md" >}} "Open Opportunities Task Creator Toolkit")
+  * Review our [Terms of Use]({{< link "open-opportunities-terms-of-use.md" >}})
 
 <table border="0">
   <tr>

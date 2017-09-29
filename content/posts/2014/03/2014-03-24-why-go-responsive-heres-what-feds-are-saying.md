@@ -26,7 +26,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s Next?" href="{{< relref "2014-01-30-responsive-web-design-workshop-why-how-and-whats-next.md" >}}">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
+  In February, the Mobile Gov Community of Practice <a title="Responsive Web Design Workshop: Why, How and What’s Next?" href="{{< link "2014-01-30-responsive-web-design-workshop-why-how-and-whats-next.md" >}}">hosted a workshop</a> with more than 40 feds from 19 agencies to answer these questions.
 </p>
 
 <p dir="ltr">
@@ -34,7 +34,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="{{< relref "2013-06-11-responsive-design.md" >}}">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s what we were told:
+  Responsive Web design is a solution <a title="Responsive Design Overview, Resources and Tools" href="{{< link "2013-06-11-responsive-design.md" >}}">for designing a website to fit any device&#8217;s screen size</a>. Before the how, agencies need to know the why—what are the reasons agencies should implement this mobile technology instead of, say, a native app? Here’s what we were told:
 </p>
 
   * <p dir="ltr">

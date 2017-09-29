@@ -69,7 +69,7 @@ If your agency is just getting started with API generation, it may be worth begi
   </li>
 </ol>
 
-As with any addition to an agency’s Web presence, it is important to work with your agency’s network operations team, IT security team, and general counsel per your normal workflows. For some, this may be the first time that they have been involved in an API rollout, and they may rely on you to familiarize them with some of the underlying [philosophy and methods of APIs in government]({{< relref "2013-04-30-apis-in-government.md" >}} "APIs in Government").
+As with any addition to an agency’s Web presence, it is important to work with your agency’s network operations team, IT security team, and general counsel per your normal workflows. For some, this may be the first time that they have been involved in an API rollout, and they may rely on you to familiarize them with some of the underlying [philosophy and methods of APIs in government]({{< link "2013-04-30-apis-in-government.md" >}} "APIs in Government").
 
 <ol start="5">
   <li>
@@ -77,7 +77,7 @@ As with any addition to an agency’s Web presence, it is important to work with
   </li>
 </ol>
 
-Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit]({{< relref "2013-05-16-api-release-kit.md" >}} "API Release Kit") for a comprehensive review of these components and open-source options for maintaining them.
+Just turning on an API isn’t enough. It’s necessary to create a landing page for the documentation and related resources and to ensure that prospective users can find this material. Consult the [API release kit]({{< link "2013-05-16-api-release-kit.md" >}} "API Release Kit") for a comprehensive review of these components and open-source options for maintaining them.
 
 <ol start="6">
   <li>
@@ -85,7 +85,7 @@ Just turning on an API isn’t enough. It’s necessary to create a landing page
   </li>
 </ol>
 
-There are [several ways to create an API]({{< relref "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview"). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
+There are [several ways to create an API]({{< link "2013-03-12-how-to-make-apis-an-overview.md" >}} "How to Make APIs—An Overview"). Your team may have the expertise, but if not, you should be able to collaborate with your IT department and any system owner on high-level requirements and leave the API creation to your agency’s developers. If these opportunities do not exist, some methods of API creation entail useful tools that can be operated without deep technical skills.
 
 <ol start="7">
   <li>

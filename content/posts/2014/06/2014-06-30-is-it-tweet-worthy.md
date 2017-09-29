@@ -24,7 +24,7 @@ The Web now contains over 1.51 **billion** pages of content, according to [World
 
 People won’t waste time (even a few seconds) on an article that doesn’t matter to them in some way—not when there are so many other interesting things to read on the Web.
 
-But what makes something “tweet-worthy?” What can you do to capture your audience’s attention and entice them to share broadly in their networks? We caught up with a few from our Digital Gov [Web Managers]({{< relref "web-managers-forum.md" >}}) and [SocialGov]({{< relref "social-media.md" >}}) communities for some advice.
+But what makes something “tweet-worthy?” What can you do to capture your audience’s attention and entice them to share broadly in their networks? We caught up with a few from our Digital Gov [Web Managers]({{< link "web-managers-forum.md" >}}) and [SocialGov]({{< link "social-media.md" >}}) communities for some advice.
 
 ## Lists Make Great Twitter Content
 
@@ -47,4 +47,4 @@ Also, if you use short quotes in your content they can be Tweeted by your audien
 Do you have a tip for writing content that’s “tweet-worthy”? If so, please share in the comments.
 
 _<span style="color: #222222;"><strong>Rachel Flagg</strong> leads the government Web community and manages customer experience programs for the Office of Citizen Services and Innovative Technologies (OCSIT) at the U.S. General Services Administration (GSA).</span>_
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md#guidelines.md" >}}) on Social Media. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

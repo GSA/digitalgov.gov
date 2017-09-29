@@ -5,8 +5,22 @@
 {{ $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref }}
 
 {{ if ne $prefix $thisHref }}
+  {{/* Process the link as is */}}
 {{ else if eq $suffix ".md" }}
-  {{ $.Scratch.Set "thisHref" (relref $.Page $thisHref) }}
+  {{ if .Site.Params.devmode }}
+    {{ $year := replaceRE "^([0-9]{4,4}).+$" "$1" $thisHref }}
+    {{ if ne 4 (len $year) }}
+      {{ $.Scratch.Set "thisHref" (relref $.Page $thisHref) }}
+    {{ else }}
+      {{ if ge (int $year) 2017 }}
+        {{ $.Scratch.Set "thisHref" (relref $.Page $thisHref) }}
+      {{ else }}
+        {{ $.Scratch.Set "thisHref" "#0" }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ $.Scratch.Set "thisHref" (relref $.Page $thisHref) }}
+  {{ end }}
 {{ else }}
     {{ $.Scratch.Set "thisHref" ($thisHref | absURL) }}
 {{ end }}

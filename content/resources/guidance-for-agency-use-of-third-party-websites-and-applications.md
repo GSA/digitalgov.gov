@@ -16,9 +16,9 @@ This Memorandum requires Federal agencies to take specific steps to protect indi
 ## Related Links
 
   * [President’s Memorandum on Transparency and Open Government](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2009/m09-12.pdf)
-  * [Open Government Directive]({{< relref "open-government-directive.md" >}})
-  *  [OMB’s Guidance for Online Use of Web Measurement and Customization Technologies]({{< relref "resources.md" >}})m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/)
-  * [Social Media, Web Based Technologies, and the Paperwork Reduction Act]({{< relref "social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md" >}})
+  * [Open Government Directive]({{< link "open-government-directive.md" >}})
+  *  [OMB’s Guidance for Online Use of Web Measurement and Customization Technologies]({{< link "resources.md" >}})m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/)
+  * [Social Media, Web Based Technologies, and the Paperwork Reduction Act]({{< link "social-media-web-based-interactive-technologies-and-the-paperwork-reduction-act.md" >}})
 
  
 
@@ -26,6 +26,6 @@ This Memorandum requires Federal agencies to take specific steps to protect indi
 
  
 
-See more [DigitalGov Resources]({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< link "resources.md" >}})
 
  

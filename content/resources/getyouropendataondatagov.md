@@ -7,4 +7,4 @@ authors:
   - tburwell
 ---
 
-[sites-redirect url=&#8221;{{< relref "how-to-get-your-open-data-on-data-gov.md" >}}&#8221; timeout=&#8221;0&#8243;]
+[sites-redirect url=&#8221;{{< link "how-to-get-your-open-data-on-data-gov.md" >}}&#8221; timeout=&#8221;0&#8243;]

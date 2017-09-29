@@ -20,9 +20,9 @@ Journey maps are a visual representation of a customer’s end to end journey wi
 
 Journey maps describe a customer’s entire journey, even the parts that occur before and after contact with your organization. They typically contain elements such as the customer’s attitudes, emotions, and needs.
 
-We recently [updated USA.gov’s personas]({{< relref "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}) and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
+We recently [updated USA.gov’s personas]({{< link "2015-04-06-using-personas-to-better-understand-customers-usa-gov-case-study.md" >}}) and used them as the backbone for our journey maps. We updated our personas to help inform our Web design, content, and contact center services.
 
-We have a lot of data that we regularly analyze, and it tells us a lot about our customers’ journeys within a channel, but we knew we needed to better understand our customers’ journeys across channels. This is a best practice to better understand what a customer experiences, where there are disconnects in information, and where improvements can be made to your website, contact center [interactive voice response]({{< relref "2015-04-30-digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers.md" >}}) recordings, or service delivery on any channel.
+We have a lot of data that we regularly analyze, and it tells us a lot about our customers’ journeys within a channel, but we knew we needed to better understand our customers’ journeys across channels. This is a best practice to better understand what a customer experiences, where there are disconnects in information, and where improvements can be made to your website, contact center [interactive voice response]({{< link "2015-04-30-digitalgovs-inaugural-podcast-how-ivr-supports-contact-centers.md" >}}) recordings, or service delivery on any channel.
 
 ## Preparation is Key
 
@@ -41,7 +41,7 @@ To create Linda’s behavior line, we looked at:
   * USA.gov customer satisfaction survey data
   * Searches on Google that led customers to USA.gov
   * [Contact center]({{< link "tag/government-contact-centers" >}}) content usage
-  * Web analytics for other government websites available through the [Digital Analytics Program]({{< relref "dap.md" >}})
+  * Web analytics for other government websites available through the [Digital Analytics Program]({{< link "dap.md" >}})
   * General search trends on Google
 
 Once the behavior line was created, we printed each step on one piece of paper. We taped the steps to the wall, with accompanying images, and the facilitators walked the participants through a series of exercises to explore the journey, which includes:
@@ -80,7 +80,7 @@ Some specific priorities in our CX improvement queue:
   * Engage partner agency customers in journey mapping exercises that cross our programs
   * Share our data; make better linkages in results that impact our programs (e.g., search results impact on user experience, content usage on Web and in contact center)
   * Improve reporting of key results throughout our organization and to senior leadership
-  * Improve customer understanding by using [personas]({{< relref "2015-01-09-personas-101.md" >}}) and journey maps as a standard process that we incorporate into the beginning of any new project or product
+  * Improve customer understanding by using [personas]({{< link "2015-01-09-personas-101.md" >}}) and journey maps as a standard process that we incorporate into the beginning of any new project or product
   * Establish a Customer Advisory Council that includes our agency customers; engage them in our USA.gov transformation efforts and problem solving
 
 Journey mapping isn’t a one-and-done project. We are continuing to analyze our results and prioritize areas for improvement, and we’ll continue to map future state journeys to help define desired experiences, keeping the customer at the center of our efforts.
