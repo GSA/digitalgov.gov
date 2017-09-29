@@ -84,7 +84,7 @@ jQuery(document).ready(function($) {
 
   // jQuery UI Date picker
   $(function() {
-    $( ".m_date .fm" ).datepicker({
+    $( ".m_date .fm, .m_end_date .fm" ).datepicker({
       dateFormat: "yy-mm-dd",
       onSelect: function (dateText, inst) {
         get_matter_data();
@@ -96,7 +96,7 @@ jQuery(document).ready(function($) {
   $('input[name="m_date"]').val(curr_date());
   $('input[name="m_time"]').val(curr_time());
   $('input[name="m_end_date"]').val(curr_date());
-
+  $('input[name="m_end_time"]').val(curr_time());
 
   // Gets the data from the FORM and pushes it to print_matter()
   function get_matter_data(){
@@ -285,6 +285,7 @@ jQuery(document).ready(function($) {
   function print_matter(data){
     var post_type = get_post_type(); // gets the post type
     var date = matter_datetime(data['m_date'], data['m_time']);
+    var end_date = matter_datetime(data['m_end_date'], data['m_end_time']);
     var title = "'" + matter_title(data['m_title']) + "'";
     var summary = "'" + escapeHtml(data['m_summary']) + "'";
     var slug = matter_slug(data['m_title']);
@@ -357,7 +358,7 @@ jQuery(document).ready(function($) {
             "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + date,
-            "end_date: " + data['m_end_date'],
+            "end_date: " + end_date,
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
             "registration_url: " + data['m_registration_url'],
@@ -384,7 +385,7 @@ jQuery(document).ready(function($) {
             "  alt: '" + escapeHtml(data['m_featuredimg_alt']) + "'",
             "event_type: " + event_type,
             "date: " + date,
-            "end_date: " + data['m_end_date'],
+            "end_date: " + end_date,
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
             "registration_url: " + data['m_registration_url'],
