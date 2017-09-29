@@ -188,3 +188,16 @@
   white-space: -o-pre-wrap;    /* Opera 7 */
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+#ui-datepicker-div{
+  background: #fff;
+  border:3px #555 solid;
+}
+.ui-datepicker-header{
+  padding: 5px 10px;
+}
+.ui-datepicker-next{
+  float: right;
+}
+.ui-datepicker-calendar{
+  margin-bottom: 0;
+}
