@@ -105,7 +105,7 @@ Your network operations staff should be able to provide automated tools for load
   </li>
 </ol>
 
-Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit]({{< link "developer-kit.md" >}}) for a comprehensive review of the developer hub components and open-source options for maintaining them.
+Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit]({{< link "2013-05-21-developer-kit.md" >}}) for a comprehensive review of the developer hub components and open-source options for maintaining them.
 
 <ol start="9">
   <li>

@@ -70,7 +70,7 @@ Best practices around API production have agreed on a number of common elements 
 
 ## <a name="developer-kit"></a>/Developer Kit
 
-Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< link "developer-kit.md" >}}) provides an outline of these components.
+Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< link "2013-05-21-developer-kit.md" >}}) provides an outline of these components.
 
 ## <a name="producing-apis-through-data.gov"></a>Producing APIs through Data.gov
 
