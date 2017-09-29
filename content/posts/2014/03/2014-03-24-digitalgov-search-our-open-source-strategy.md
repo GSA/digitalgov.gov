@@ -37,7 +37,7 @@ We recently began to unravel our monolithic codebase so that we can share indivi
 
 We recently released the code for our [Jobs](https://github.com/GSA/jobs_api) and [Recalls](https://github.com/GSA/recalls_api) API servers. They&#8217;re our first foray into coding in the open. The source code for these API servers is in [our GitHub repo](https://github.com/GSA) and is available for anyone to see and contribute to.
 
-The data products for this code are also open and available for anyone to consume on our [Developer hub](http://search.WHATEVER/developer/index.html).
+The data products for this code are also open and available for anyone to consume on our [Developer hub](http://search.digitalgov.gov/developer/index.html).
 
 These two servers and their underlying data now operate outside of our core search codebase.
 

@@ -545,7 +545,7 @@ These high-level policies cover basic requirements for all digital products and 
                                                                                                                     <td style="text-align: left;vertical-align: top;width: 50%;border: none">
                                                                                                                       <ul>
                                                                                                                         <li>
-                                                                                                                          <a href="http://search.WHATEVER/">DigitalGov Search</a>
+                                                                                                                          <a href="http://search.digitalgov.gov/">DigitalGov Search</a>
                                                                                                                         </li>
                                                                                                                       </ul>
                                                                                                                     </td></tr> 

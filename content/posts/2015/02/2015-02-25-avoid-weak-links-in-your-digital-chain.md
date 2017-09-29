@@ -39,7 +39,7 @@ Here’s a real life example: If the link above led to an article about 3D print
 
 Links affect the search engine optimization (SEO) of your website, and [SEO is important for government websites]({{< relref "2013-05-02-why-government-websites-need-seo.md" >}}). Search engines place weight on keywords that are part of links, and linking to credible pages is good for SEO.
 
-[Search engines use links](http://moz.com/blog/10-illustrations-on-search-engines-valuation-of-links) to analyze the popularity of websites and pages based on the number and popularity of pages linking to them. They also use links for metrics like trust, spam, and authority, according to Ammie Farraj Feijoo, Manager of [DigitalGov Search](http://search.WHATEVER/). Trustworthy sites tend to link to other trusted sites, while spammy sites receive very few links from trusted sources. Grow your [link profile](http://moz.com/beginners-guide-to-seo/growing-popularity-and-links) to improve your SEO and increase traffic to your website from search engines.
+[Search engines use links](http://moz.com/blog/10-illustrations-on-search-engines-valuation-of-links) to analyze the popularity of websites and pages based on the number and popularity of pages linking to them. They also use links for metrics like trust, spam, and authority, according to Ammie Farraj Feijoo, Manager of [DigitalGov Search](http://search.digitalgov.gov/). Trustworthy sites tend to link to other trusted sites, while spammy sites receive very few links from trusted sources. Grow your [link profile](http://moz.com/beginners-guide-to-seo/growing-popularity-and-links) to improve your SEO and increase traffic to your website from search engines.
 
 ## Linking for Good Readability
 

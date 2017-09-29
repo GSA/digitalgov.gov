@@ -35,7 +35,7 @@ We wanted this system to be decoupled from our main codebase so it could evolve 
 
 ## Technology Stack
 
-[Elasticsearch](http://www.elasticsearch.org/) is the foundation for both our [Jobs API](http://search.WHATEVER/developer/jobs.html) and our entire in-house analytics system, so it was an easy choice to use as the information retrieval backbone of our image search engine. To manage requests and serve up a versioned API, we&#8217;re using a pared-down Rails API called [Grape](http://intridea.github.io/grape/). To parallelize fetching and indexing Flickr and Instagram photos, we&#8217;re using [Sidekiq](http://sidekiq.org/).
+[Elasticsearch](http://www.elasticsearch.org/) is the foundation for both our [Jobs API](http://search.digitalgov.gov/developer/jobs.html) and our entire in-house analytics system, so it was an easy choice to use as the information retrieval backbone of our image search engine. To manage requests and serve up a versioned API, we&#8217;re using a pared-down Rails API called [Grape](http://intridea.github.io/grape/). To parallelize fetching and indexing Flickr and Instagram photos, we&#8217;re using [Sidekiq](http://sidekiq.org/).
 
 ## The Data
 
@@ -79,7 +79,7 @@ For the tags, we use a custom &#8220;tag_analyzer&#8221; to do the same lowercas
 
 To represent popularity, we initially didn&#8217;t know how to compare Instagram comments, Instagram likes, and Flickr views, so we started with something simple knowing that we could tune it once we knew more about our relevancy model. For Flickr, we just set the popularity as the number of views. For Instagram, we used the sum of the comments and the likes. We’re considering weighting them all differently, as it takes more effort to write a comment than to &#8220;like&#8221; something, and simply viewing a photo takes the least effort of all.
 
-With all that in place, we looked up the Flickr profiles and Instagram usernames for a handful of [our agency customers](http://search.WHATEVER/customers.html) like the [Department of the Interior](http://www.doi.gov/index.cfm), [U.S. Army](http://www.army.mil/), and [USA.gov](http://www.usa.gov/) and started fetching and indexing their photos. This all happens pretty quickly with enough Sidekiq threads chugging away, even if you are just trying this out on your laptop.
+With all that in place, we looked up the Flickr profiles and Instagram usernames for a handful of [our agency customers](http://search.digitalgov.gov/customers.html) like the [Department of the Interior](http://www.doi.gov/index.cfm), [U.S. Army](http://www.army.mil/), and [USA.gov](http://www.usa.gov/) and started fetching and indexing their photos. This all happens pretty quickly with enough Sidekiq threads chugging away, even if you are just trying this out on your laptop.
 
 ## Initial Search Query
 
@@ -131,4 +131,4 @@ This clearly isn’t what we wanted so we focused on improving our relevance alg
 
 ## About Us
 
-[DigitalGov Search](http://search.WHATEVER/) provides fast, relevant search results to 1,500 government websites. We use a combination of commercial and our own indexes built on top of open government data to give millions of visitors a good search experience each day.
+[DigitalGov Search](http://search.digitalgov.gov/) provides fast, relevant search results to 1,500 government websites. We use a combination of commercial and our own indexes built on top of open government data to give millions of visitors a good search experience each day.

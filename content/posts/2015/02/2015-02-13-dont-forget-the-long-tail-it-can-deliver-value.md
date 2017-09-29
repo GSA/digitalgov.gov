@@ -33,7 +33,7 @@ Amazon and other businesses have realized great success by focusing on the long 
 
 While a tongue twister, it drives home how a search box (with good, relevant content behind it) can meet the demands of the long tail.
 
-At [DigitalGov Search](http://search.WHATEVER/), we power the search box on 1,500 government websites and, like Amazon, we’ve found that we got more searches on terms today that didn&#8217;t get searched yesterday than we got searches today on all the terms that got searched yesterday—by quite a bit!
+At [DigitalGov Search](http://search.digitalgov.gov/), we power the search box on 1,500 government websites and, like Amazon, we’ve found that we got more searches on terms today that didn&#8217;t get searched yesterday than we got searches today on all the terms that got searched yesterday—by quite a bit!
 
 Number of searches on terms today that didn&#8217;t get any searches yesterday: 50,713.
 

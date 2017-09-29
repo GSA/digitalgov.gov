@@ -28,7 +28,7 @@ Finding something you didn’t know you were looking for is the best form of dis
 
 [{{< legacy-img src="2014/08/250-x-273-Interior-DigitalGov-Search-photo-search-results.jpg" alt="A screen capture of the Department of the Interior's image search results" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/08/600-x-655-Interior-DigitalGov-Search-photo-search-results.jpg)We have recently added [Instagram](http://instagram.com/) to our collection of social media accounts that can populate search results. Instagram pictures can now be seen either by searchers who do not have Instagram accounts, or by those who do not follow your site. Everyone can access the pictures.
 
-Image searches on sites that use DigitalGov Search to power their search box show both [Flickr](https://www.flickr.com/) and Instagram accounts (if you have [duplicate content](http://search.WHATEVER/manual/instagram.html), there’s no need to show both). Once integrated into search results, images from your social media accounts have greater visibility and searchers can [discover a picture](http://search.doi.gov/search/images?affiliate=doi.gov&query=yellowstone) with a single query.
+Image searches on sites that use DigitalGov Search to power their search box show both [Flickr](https://www.flickr.com/) and Instagram accounts (if you have [duplicate content](http://search.digitalgov.gov/manual/instagram.html), there’s no need to show both). Once integrated into search results, images from your social media accounts have greater visibility and searchers can [discover a picture](http://search.doi.gov/search/images?affiliate=doi.gov&query=yellowstone) with a single query.
 
 ## Bring It All Together
 

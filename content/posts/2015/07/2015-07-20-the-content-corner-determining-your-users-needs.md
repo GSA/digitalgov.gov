@@ -34,7 +34,7 @@ One final lesson learned about usage data: make sure the [code on the page is pr
 
 ### Search Terms
 
-You can consider [search](http://search.WHATEVER/) terms a subset of your usage statistics, but I called them out here because they sometimes are overlooked. These are great to find out why people are coming to your site in the first place, what they are looking for and many times what they can’t find.
+You can consider [search](http://search.digitalgov.gov/) terms a subset of your usage statistics, but I called them out here because they sometimes are overlooked. These are great to find out why people are coming to your site in the first place, what they are looking for and many times what they can’t find.
 
 I’ve learned that many people handle finding information online in different ways. You generally have two types:
 

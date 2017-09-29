@@ -18,6 +18,6 @@ The last time [DigitalGov Search]({{< relref "search.md" >}} "DigitalGov Search"
 
 So, our team redesigned our search results page. We&#8217;ve kept an eye on best practices in the search industry and what media websites (like NPR.org and NYTimes.com) are up to, But, we&#8217;re not simply following the leaders. We&#8217;ve also [analyzed our search data]({{< relref "2014-05-07-analyzing-search-data-in-real-time-to-drive-decisions.md" >}} "Analyzing Search Data in Real-Time to Drive Decisions") to make data-driven decisions that, ultimately, aim to make searchers&#8217; experience better on agencies&#8217; sites.
 
-Read our blog post to [learn more about the redesign](http://search.WHATEVER/blog/serp-redesign.html).
+Read our blog post to [learn more about the redesign](http://search.digitalgov.gov/blog/serp-redesign.html).
 
 {{< legacy-img src="2014/05/600-x-422-Search-Redesign-navigation.jpg" alt="Search redesign navigation" >}}

@@ -16,7 +16,7 @@ tag:
 
 You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!).
 
-For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. [DigitalGov Search](http://search.WHATEVER/) helps agencies deliver information to government searchers on every level—federal, state, local, and tribal.
+For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. [DigitalGov Search](http://search.digitalgov.gov/) helps agencies deliver information to government searchers on every level—federal, state, local, and tribal.
 
 Recently, search analyst Dawn McCleskey sat down to discuss the work of DigitalGov Search, including:
 

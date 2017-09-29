@@ -18,7 +18,7 @@ tag:
 
 We know search engines aren’t Magic 8 Balls, but that&#8217;s still how we expect them to behave. We want them to answer our complex and burning questions based on just a few words. And we&#8217;ve felt that frustration when the top search results don&#8217;t serve our needs, and the results page itself makes us work.
 
-At [DigitalGov Search](http://search.WHATEVER/), we think a lot about how to make the public&#8217;s search experience on government websites better. And as a service of GSA, improvements that we make are amplified across government to the thousands of websites that use our search. Your content, our search service, your care and attention: together, we are working to deliver great customer service.
+At [DigitalGov Search](http://search.digitalgov.gov/), we think a lot about how to make the public&#8217;s search experience on government websites better. And as a service of GSA, improvements that we make are amplified across government to the thousands of websites that use our search. Your content, our search service, your care and attention: together, we are working to deliver great customer service.
 
 ## Tick Tock, Tick Tock, Tick Tock
 
@@ -34,7 +34,7 @@ There are plenty of search products that are hard to use. The search box is too 
 
 Our own data shows a [similar focus on the top results]({{< relref "2014-11-12-follow-the-clicks-a-look-at-click-through-rates-on-government-websites.md" >}}).
 
-So, we focus on bringing the most relevant results to the top, where users are likely to see them. And, if the main search results aren&#8217;t delivering the right content, our [Best Bets](http://search.WHATEVER/manual/best-bets-text.html) allow our agency customers to boost particular results to the very top and make sure they get found.
+So, we focus on bringing the most relevant results to the top, where users are likely to see them. And, if the main search results aren&#8217;t delivering the right content, our [Best Bets](http://search.digitalgov.gov/manual/best-bets-text.html) allow our agency customers to boost particular results to the very top and make sure they get found.
 
 Difficult to use search results pages are often complicated to manage on the back end, and systems that are hard to manage on the back end make it hard to deliver a good user experience. It’s a classic chicken-and-egg situation.
 
@@ -42,7 +42,7 @@ That’s why we work hard to make our results page lean and make it as easy as p
 
 {{< legacy-img src="2015/05/500-x-396-DG-Search-CX.jpg" alt="A Screenshot of DigitalGov Search contact information" >}}
 
-We&#8217;ve also started up a [monthly training series](http://search.WHATEVER/manual/training) to get new users up and running, and keep long-time users apprised of the latest developments.
+We&#8217;ve also started up a [monthly training series](http://search.digitalgov.gov/manual/training) to get new users up and running, and keep long-time users apprised of the latest developments.
 
 ## Plus, We Offer Real Humans!
 

@@ -24,7 +24,7 @@ Content is no longer limited to .gov sites. As mentioned in a recent blog post, 
 
 On September 30, 2014, I presented with Justin Herman from the [Social Media Community of Practice]({{< relref "social-media.md" >}} "Social Media") about:
 
-  * What [DigitalGov Search](http://search.WHATEVER/) is
+  * What [DigitalGov Search](http://search.digitalgov.gov/) is
   * How it integrates social image and video search
   * How search analytics can help social media managers better understand their customers’ needs
 
@@ -38,7 +38,7 @@ If you weren&#8217;t able to join us, you can [download the slides](http://www.s
 
 When DigitalGov Search first started in 2000, it was for a single goverment site, [USA.gov,](http://www.usa.gov/) back when it was known as FirstGov.gov. From that seed, DigitalGov Search has grown tremendously over the past 14 years and now powers the search box on 1,500 government websites.
 
-Anyone with a .gov or .mil email address can [sign-up for a free account](http://search.WHATEVER/). With an account you have access to the Admin Center where you can customize your search results page and see real-time analytics. Activating DigitalGov Search only requires a few lines of code. We’ll provide results from all your public-facing Web pages on any domains.
+Anyone with a .gov or .mil email address can [sign-up for a free account](http://search.digitalgov.gov/). With an account you have access to the Admin Center where you can customize your search results page and see real-time analytics. Activating DigitalGov Search only requires a few lines of code. We’ll provide results from all your public-facing Web pages on any domains.
 
 ## Integrating Social Image and Video Search
 
