@@ -56,4 +56,4 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
 
 ## What’s Next? {{< legacy-img src="2015/01/600-x-390-January-2015-Calendar-klenger-iStock-Thinksotck-506977507.jpg" alt="2015 desk calendar" caption="" >}}
 
-We are planning more [great events](http://WHATEVER/events) for 2015 and we hope you can join us. Leave a comment below on what **you’d** like to see in the upcoming year.
+We are planning more [great events]({{< link "events" >}}) for 2015 and we hope you can join us. Leave a comment below on what **you’d** like to see in the upcoming year.

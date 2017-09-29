@@ -23,7 +23,7 @@ tag:
   - US Department of Labor
 ---
 
-## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+## <a name="hosted-api-tools"></a>Hosted API Tools {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}
 
 [Labs.Data.gov](http://labs.data.gov/) is a repository of shared services to prototype and provide developer resources to government agencies. Each tool uses Web services and lightweight, open source code to provide powerful functionality. Agencies are encouraged to [improve any project](http://labs.data.gov/) and submit pull requests in order to share the improvements with others.
 
@@ -70,7 +70,7 @@ Best practices around API production have agreed on a number of common elements 
 
 ## <a name="developer-kit"></a>/Developer Kit
 
-Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit](http://WHATEVER/2013/05/21/developer-kit/ "/Developer Kit") provides an outline of these components.
+Government agencies are increasingly being called upon to provide a central hub by which developers can discover what APIs the agency offers and to find more information on each. The critical elements of these hubs are an agency-wide catalog of APIs, Terms of Service, and means of public engagement. However, by including further common elements, you can provide a more robust and successful developer user experience. The [/developer kit]({{< link "developer-kit.md" >}}) provides an outline of these components.
 
 ## <a name="producing-apis-through-data.gov"></a>Producing APIs through Data.gov
 

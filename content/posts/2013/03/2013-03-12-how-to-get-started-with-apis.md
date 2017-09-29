@@ -14,7 +14,7 @@ tag:
 
 ## Audit
 
-  1. **Research existing APIs** {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}} 
+  1. **Research existing APIs** {{< legacy-img src="2014/08/250-x-86-API-letter-blocks-23575697-Hemera-Technologies-PhotoObjects.net-Thinkstock-87667306.jpg" alt="Children's building blocks letters spelling A P I." caption="" >}}
 
 Regardless of your agency’s level of progress in API production, your first step is to create a developer hub that links to any of your agency’s existing APIs. This can help identify current efforts and connect you with others in your agency already working on APIs.
 
@@ -105,7 +105,7 @@ Your network operations staff should be able to provide automated tools for load
   </li>
 </ol>
 
-Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit](http://WHATEVER/2013/05/21/developer-kit/ "/Developer Kit") for a comprehensive review of the developer hub components and open-source options for maintaining them.
+Each API should have a landing page. The landing pages should be linked to a main developer hub. Even if your agency is generating its first API, it is not too early to release it as part of a developer hub. If your agency already has launched several APIs but doesn’t yet have a consolidated hub, it’s definitely worth assembling one at this stage and growing it from this point on. Consult the [/Developer kit]({{< link "developer-kit.md" >}}) for a comprehensive review of the developer hub components and open-source options for maintaining them.
 
 <ol start="9">
   <li>
@@ -125,7 +125,7 @@ It’s important to ensure that the agency has some commitment for this API. The
 
 When launching the API publicly, consider a soft launch. Soft launching lets you gather data on a product&#8217;s usage and acceptance before making it generally available. If there are concerns about any of the technical or practical issues involved, the agency can slowly introduce it to prospective users and monitor usage.
 
-Then, when any resulting concerns are worked out, even weeks or months later, the agency can provide a formal announcement to ensure that the wider community eventually learns of it. Register the API at [www.programmableweb.com](http://www.programmableweb.com/). __ 
+Then, when any resulting concerns are worked out, even weeks or months later, the agency can provide a formal announcement to ensure that the wider community eventually learns of it. Register the API at [www.programmableweb.com](http://www.programmableweb.com/). __
 
 <ol start="11">
   <li>

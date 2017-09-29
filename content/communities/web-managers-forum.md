@@ -83,7 +83,7 @@ Click the “Join via Email” button below to subscribe to our listserv with yo
         </div>
 
         <h4 class="post-title">
-          <a href="www.WHATEVER/resources/paperwork-reduction-act-fast-track-process/">Paperwork Reduction Act Fast Track Process</a>
+          <a href="{{< link "paperwork-reduction-act-fast-track-process.md" >}}">Paperwork Reduction Act Fast Track Process</a>
         </h4>
       </div>
     </div>

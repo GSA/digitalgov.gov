@@ -36,7 +36,7 @@ Before gravitating to total visits and pageviews trends, website analysts should
 Think about these questions before starting your website performance analysis:
 
   * What are the objectives of your website? Do you want visitors to stay on the website and read pages and pages of content, or, do you expect them to move to another website after the entry page or the search results page?
-  * What are the top success scenarios for your website with respect to visitor behavior? 
+  * What are the top success scenarios for your website with respect to visitor behavior?
       * For instance, if you are a website such, as [GSA Advantage.gov](https://www.gsaadvantage.gov/advantage/main/start_page.do) (GSA’s transactional e-commerce government website offering products and services for purchase), you may want visitors to land on the website, perform an on-site search for a product, browse the product pages, add a particular product to the shopping cart and complete a purchase.
       * If you’re [NASA.gov](http://www.nasa.gov/), one of success scenarios may be a visitor landing on the site, searching for a particular topic or reading an article, and watching a video.
       * If you are Data.gov, a success scenario could be a visitor coming to the site, performing an on-site search for a particular topic, and downloading a data file on that topic.
@@ -50,4 +50,4 @@ So, for a website like DigitalGov.gov, looking only at total visits and pageview
 
 In today’s world, there is data everywhere, and everyone is wearing an analyst’s hat. Data in the hands of folks doing Web performance analysis without clear website goals at hand, without a clear analysis scope and without an understanding of each metric can be disastrous. Looking for that golden metric, or simply comparing total visits, pageviews, and other common metrics across .gov websites makes no sense without a strategic context.
 
-The[ DAP Web analytics platform](www.WHATEVER/services/dap/) allows government agencies to go from high-level (executive dashboards and overall trends) to in-depth, multi-dimensional analysis of agency website performance through segmentation, channel and attribution analysis, popular content analysis, event analysis (outbound links and downloads), and many others. So, bring together your .gov website goals and the robust DAP analytics data to make your performance analysis truly meaningful, insightful, and actionable.
+The[ DAP Web analytics platform]({{< link "dap.md" >}}) allows government agencies to go from high-level (executive dashboards and overall trends) to in-depth, multi-dimensional analysis of agency website performance through segmentation, channel and attribution analysis, popular content analysis, event analysis (outbound links and downloads), and many others. So, bring together your .gov website goals and the robust DAP analytics data to make your performance analysis truly meaningful, insightful, and actionable.
