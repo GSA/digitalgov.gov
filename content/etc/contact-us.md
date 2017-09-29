@@ -17,4 +17,4 @@ While we migrate DigitalGov.gov to a new host, the website will remain up and yo
   * Questions about the [Federal Crowdsource Mobile Testing Program]({{< relref "mobile-application-testing-program.md" >}})
   * Other
 
-Be sure to [follow DigitalGov on Medium](https://medium.com/@DigitalGov) to see new posts during the migration, and [sign up](http://connect.WHATEVER/subscribe) for our daily or weekly email alerts.
+Be sure to [follow DigitalGov on Medium](https://medium.com/@DigitalGov) to see new posts during the migration, and [sign up](http://connect.digitalgov.gov/subscribe) for our daily or weekly email alerts.

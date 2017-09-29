@@ -29,7 +29,7 @@ The Digital Government Division is a cooperative enterprise that draws on resour
 ## Keep in touch
 
   * Follow us on [Facebook](https://www.facebook.com/DigitalGov) and [Twitter @Digital_Gov](http://twitter.com/Digital_Gov). We use the hashtags #DigitalGov, #SocialGov, and #MobileGov.
-  * [Sign up for e-mail alerts](http://connect.WHATEVER/subscribe).
+  * [Sign up for e-mail alerts](http://connect.digitalgov.gov/subscribe).
   * [Send us an email]({{< relref "contact-us.md" >}} "Contact Us").
   * [Subscribe to our podcasts on the iTunes store](https://itunes.apple.com/us/podcast/digitalgov-podcast/) and catch up on our recent episodes.
 

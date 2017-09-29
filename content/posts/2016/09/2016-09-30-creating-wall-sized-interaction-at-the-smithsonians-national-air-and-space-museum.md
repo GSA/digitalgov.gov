@@ -62,4 +62,4 @@ Observations and informal conversations with visitors show the wall is accomplis
 
  _(All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.)_
 _Is your agency using innovative technologies to enhance user experience? Let us know in the comments below or [send us an email]({{< relref "contact-us.md" >}})._
-_Interested in more great content like this? [Sign up](http://connect.WHATEVER/subscribe) for our daily or weekly DigitalGov newsletter!_
+_Interested in more great content like this? [Sign up](http://connect.digitalgov.gov/subscribe) for our daily or weekly DigitalGov newsletter!_
