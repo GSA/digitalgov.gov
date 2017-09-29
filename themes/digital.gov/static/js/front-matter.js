@@ -82,6 +82,16 @@ jQuery(document).ready(function($) {
     return dt;
   }
 
+  // jQuery UI Date picker
+  $(function() {
+    $( ".m_date .fm" ).datepicker({
+      dateFormat: "yy-mm-dd",
+      onSelect: function (dateText, inst) {
+        get_matter_data();
+      }
+    });
+  });
+
   // inputs the current date in the date field
   $('input[name="m_date"]').val(curr_date());
   $('input[name="m_time"]').val(curr_time());
