@@ -43,7 +43,7 @@ The [Electronic Capital Planning and Investment Control (eCPIC)]({{< relref "ele
 
 ## Mobile
 
-[U.S. Digital Registry]({{< relref "u-s-digital-registry.md" >}} "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.WHATEVER/#swagger-api-docs). **Free!**
+[U.S. Digital Registry]({{< relref "u-s-digital-registry.md" >}} "The Federal Mobile Apps Registry"). Promote your public facing mobile websites and apps by registering them in the U.S. Digital Registry. Once registered your app will be featured on the [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and included in a [government mobile product API](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs). **Free!**
 
 {{< button href="u-s-digital-registry.md" text="Get Started" >}}
 

@@ -11,11 +11,11 @@ authors:
 
 ## For U.S. Government
 
-{{< button href="https://socialmobileregistry.WHATEVER/admin" text="Register and Manage Accounts" >}}
+{{< button href="https://socialmobileregistry.digitalgov.gov/admin" text="Register and Manage Accounts" >}}
 
 ## For Developers: Using and Improving the API
 
-Access the [U.S. Digital Registry API](https://socialmobileregistry.WHATEVER/) or its [GitHub repo](https://github.com/ctacdev/social-media-registry) to test, evaluate, improve and use it.
+Access the [U.S. Digital Registry API](https://socialmobileregistry.digitalgov.gov/) or its [GitHub repo](https://github.com/ctacdev/social-media-registry) to test, evaluate, improve and use it.
 
 ## What is the U.S. Digital Registry?
 
