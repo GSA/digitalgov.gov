@@ -22,7 +22,7 @@ Executive Order 13642 and OMB Memorandum M-13-13 require all executive departmen
 
 [{{< legacy-img src="2014/12/600-x-600-Project-Open-Data-Metadata-Schema-v1.jpg" alt="600-x-600-Project-Open-Data-Metadata-Schema-v1" caption="" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/12/833-x-841-Project-Open-Data-Metadata-Schema-v1.1-Updates.jpg) 
 
-Data.gov&#8217;s October 15th [“Project Open Data Metadata Updates” webinar]({{< relref "project-open-data-metadata-v-1-1-updates.md" >}}) reviews metadata schema v1.0 as required under the Open Data Policy, provides a comprehensive step-by-step overview of the updates to the metadata schema, and provides a roundup of tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
+Data.gov&#8217;s October 15th [“Project Open Data Metadata Updates” webinar]({{< link "project-open-data-metadata-v-1-1-updates.md" >}}) reviews metadata schema v1.0 as required under the Open Data Policy, provides a comprehensive step-by-step overview of the updates to the metadata schema, and provides a roundup of tools and resources to assist data stewards, IT personnel, and all agency staff in their v 1.1 metadata updates.
 
   * Watch the webinar [video](http://www.youtube.com/watch?v=-kpEywSZPw8&feature=youtu.be&list=PLd9b-GuOJ3nFA8rIjFKllLSAJl61IBYKM) and [“Project Open Data Metadata Updates v 1.1” presentation slides](https://gsa.github.io/datagov-presentations/metadata-v1.1/).
 

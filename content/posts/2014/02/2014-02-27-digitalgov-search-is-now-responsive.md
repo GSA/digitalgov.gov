@@ -18,8 +18,8 @@ tag:
 
 Take a sneak peek of the new responsive results page. Go to [USA.gov](http://www.usa.gov/) (or your website) from any mobile phone or tablet and do a search. See the [sample results page for a search on passports](http://search.usa.gov/search?affiliate=usagov&query=passports&m=true) on USA.gov.
 
-You can also [optimize your mobile search results page by adding or updating your mobile logo](http://search.WHATEVER/sites/manual/display-images.html). The optimal size is 100&#215;50 pixels (100 pixels wide and 50 pixels high).
+You can also [optimize your mobile search results page by adding or updating your mobile logo](http://search.digitalgov.gov/sites/manual/display-images.html). The optimal size is 100&#215;50 pixels (100 pixels wide and 50 pixels high).
 
-Not using DigitalGov Search yet? Check out the [service]({{< relref "search.md" >}}) and [sign-up for an account](https://search.usa.gov/login).
+Not using DigitalGov Search yet? Check out the [service]({{< link "search.md" >}}) and [sign-up for an account](https://search.usa.gov/login).
 
  

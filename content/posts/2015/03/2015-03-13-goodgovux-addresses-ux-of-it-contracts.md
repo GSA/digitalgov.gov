@@ -32,7 +32,7 @@ Civic designer Dana Chisnell ([@danachis](https://twitter.com/danachis)) from th
 
 “Everybody is a designer,” she noted. “Everyone who works in government will be the next generation of civic designers driving the next enlightenment.”
 
-The [U.S. Digital Services Playbook](https://playbook.cio.gov/) was cited as a great place for people to [get started with UX]({{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
+The [U.S. Digital Services Playbook](https://playbook.cio.gov/) was cited as a great place for people to [get started with UX]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}).
 
 {{< legacy-img src="2015/03/600-x-450-goodgovux-2.jpg" alt="Robert Read from 18F, Sara Mastro from Mediabarn and John Whalen from Brilliant Experience talk about User Experience" >}}
 

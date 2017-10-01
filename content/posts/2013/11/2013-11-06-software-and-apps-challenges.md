@@ -41,11 +41,11 @@ A software/apps challenge is when an organization asks the public to create soft
 
 [Panel Discussion: Collaborative Innovation, Algorithm and Big Data Challenges](http://casefoundation.org/videos/collaborative-innovation-algorithm-big-data-challenges-panel-discussion)
 
-[Best practices: Marketing an apps challenge]({{< relref "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
+[Best practices: Marketing an apps challenge]({{< link "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
 
-[Best practices: Post-competition]({{< relref "2012-07-09-how-to-improve-an-apps-challenge.md" >}})
+[Best practices: Post-competition]({{< link "2012-07-09-how-to-improve-an-apps-challenge.md" >}})
 
-[Lessons learned, sample rules, and press clips]({{< relref "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
+[Lessons learned, sample rules, and press clips]({{< link "2012-07-09-how-to-implement-an-apps-challenge.md" >}})
 
 [ChallengePost: App Contest Best Practices](http://post.challengepost.com/app_contest_resources)
 

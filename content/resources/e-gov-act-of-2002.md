@@ -13,7 +13,7 @@ authors:
 
 ## Related Links
 
-  * [Checklist of Requirements for Federal Websites and Digital Services]({{< relref "checklist-of-requirements-for-federal-digital-services.md" >}})
+  * [Checklist of Requirements for Federal Websites and Digital Services]({{< link "checklist-of-requirements-for-federal-digital-services.md" >}})
 
 * * *
 
@@ -21,4 +21,4 @@ authors:
 
  
 
-See more [DigitalGov Resources]({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< link "resources.md" >}})

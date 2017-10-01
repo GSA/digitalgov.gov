@@ -15,13 +15,13 @@ Opportunities range from editing a press release or testing a feature on a websi
 
 ## How to Get Started
 
-**Step 1. Create an account on the [Open Opportunities platform](https://openopps.WHATEVER/)**
+**Step 1. Create an account on the [Open Opportunities platform](https://openopps.digitalgov.gov/)**
 
   * Fill out your profile, including photo, skills & interests.
 
 **Step 2. Pick your perfect opportunity**
 
-  * Check out the [open opportunities](https://openopps.WHATEVER/tasks).
+  * Check out the [open opportunities](https://openopps.digitalgov.gov/tasks).
   * Read the description of the opportunity to learn what skills are needed and the deadline.
   * Leave questions about the opportunity as a comment at the bottom of each post so others can benefit from the discussion.
   * Clear your participation with your supervisor before participating.

@@ -16,9 +16,9 @@ tag:
 
 Agile methods help agencies deliver projects and products more efficiently and effectively. The benefits aren’t limited to deliverables: Going agile can break down the silos that exist between and within agencies. And collaboration doesn’t need to end at the federal level—agile projects done in the open provide a way for the public to contribute to government initiatives. {{< legacy-img src="2016/01/600-x-400-Scrum-collage-concepts-MacXever-iStock-Thinkstock-471756405.jpg" alt="A word cloud of Agile Scrum concepts" caption="" >}} 
 
-Transitioning to agile development has benefited [Open Opportunities](https://openopps.WHATEVER/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
+Transitioning to agile development has benefited [Open Opportunities](https://openopps.digitalgov.gov/), a platform that helps agencies tap into federal expertise and provides professional development opportunities to federal employees.
 
-The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< relref "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
+The platform first launched in May 2013 using a WordPress-based system. In August 2014, 18F was hired to work on the project, and 18F team members began customizing a crowdsourcing platform developed by the Department of State using open, [agile methods]({{< link "2015-01-16-how-to-run-an-agile-project-in-government.md" >}}).
 
 Not only has going open and agile helped stimulate innovation on the platform, it has expedited feature development, reduced development costs and provided a path for the public to get involved.
 

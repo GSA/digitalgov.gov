@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 ---
 
-This page is a collection of style guides created by government agencies. Style guides are used to set the tone and guidelines for how an agency communicates with the public. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< relref "contact-us.md" >}}) or sharing in the [Plain Language Community of Practice]({{< relref "plain-language-community-of-practice.md" >}}).
+This page is a collection of style guides created by government agencies. Style guides are used to set the tone and guidelines for how an agency communicates with the public. You can add your agency&#8217;s guide by [emailing DigitalGov]({{< link "contact-us.md" >}}) or sharing in the [Plain Language Community of Practice]({{< link "plain-language-community-of-practice.md" >}}).
 
 #### 18F
 
@@ -89,8 +89,8 @@ Here&#8217;s a collection of guides created by digital communities of practice a
   
 PLAIN&#8217;s Federal Plain Language Guidelines
   ](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=838730&CFTOKEN=f64d36ad05e03d58-ED6E6827-0361-55F8-E6207170C554B1DF&jsessionid=A3A593B93EAEE361431FC8D8B4799DF0.chh) [Spanish Health Care Terms in the United States
-  ]({{< relref "spanish-health-care-terms-in-the-united-states.md" >}}) [Spanish Language Style Guide and Glossaries
-  ]({{< relref "spanish-language-style-guide-and-glossaries.md" >}}) [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms
-  ]({{< relref "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}}) [Spanish Language Style Guide and Glossaries: Grammar
-  ]({{< relref "spanish-language-style-guide-and-glossaries-grammar.md" >}}) [Spanish Language Style Guide & Glossaries: Information Technology Terms
-  ]({{< relref "spanish-language-style-guide-glossaries-information-technology-terms.md" >}}) [Spanish Language Style Guide & Glossaries: Internet Resources]({{< relref "spanish-language-style-guide-glossaries-internet-resources.md" >}})
+  ]({{< link "spanish-health-care-terms-in-the-united-states.md" >}}) [Spanish Language Style Guide and Glossaries
+  ]({{< link "spanish-language-style-guide-and-glossaries.md" >}}) [Spanish Language Style Guide & Glossaries: Frequently Mistranslated English Terms
+  ]({{< link "spanish-language-style-guide-glossaries-frequently-mistranslated-english-terms.md" >}}) [Spanish Language Style Guide and Glossaries: Grammar
+  ]({{< link "spanish-language-style-guide-and-glossaries-grammar.md" >}}) [Spanish Language Style Guide & Glossaries: Information Technology Terms
+  ]({{< link "spanish-language-style-guide-glossaries-information-technology-terms.md" >}}) [Spanish Language Style Guide & Glossaries: Internet Resources]({{< link "spanish-language-style-guide-glossaries-internet-resources.md" >}})

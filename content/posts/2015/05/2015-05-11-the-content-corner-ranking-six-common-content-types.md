@@ -14,7 +14,7 @@ tag:
   - US Government Printing Office
 ---
 
-In last week&#8217;s column, I went back to a frequent theme of mine and discussed another method for helping to [feed the content beast]({{< relref "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), which was [learning when to say no]({{< relref "2015-05-04-the-content-corner-learning-to-say-no.md" >}}) to a new and potentially resource devouring digital channel or platform. However, we also need to take a look at six of the most common content types that you may be creating and examine the ROI for each. Ascend2 recently published the results of their annual [Content Marketing Survey](http://ascend2.com/home/wp-content/uploads/Content-Marketing-Trends-Summary-Report-150310.pdf) providing some useful insights into the effectiveness of specific content types measured against the difficulty it takes to create them.
+In last week&#8217;s column, I went back to a frequent theme of mine and discussed another method for helping to [feed the content beast]({{< link "2015-02-09-the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy.md" >}}), which was [learning when to say no]({{< link "2015-05-04-the-content-corner-learning-to-say-no.md" >}}) to a new and potentially resource devouring digital channel or platform. However, we also need to take a look at six of the most common content types that you may be creating and examine the ROI for each. Ascend2 recently published the results of their annual [Content Marketing Survey](http://ascend2.com/home/wp-content/uploads/Content-Marketing-Trends-Summary-Report-150310.pdf) providing some useful insights into the effectiveness of specific content types measured against the difficulty it takes to create them.
 
 ## Articles
 
@@ -40,7 +40,7 @@ From personal experience, I certainly agree that developing webinars can be time
 
 ## Podcasts
 
-I recently discussed [the slow and steady growth of podcasts]({{< relref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) and as stated above they have proven to remain a solid content option for many brands and organizations. But just as with webinars, the effectiveness vs. effort should be critically examined. Podcasts commonly take the format of an interview show which entails a significant amount of effort required to:
+I recently discussed [the slow and steady growth of podcasts]({{< link "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) and as stated above they have proven to remain a solid content option for many brands and organizations. But just as with webinars, the effectiveness vs. effort should be critically examined. Podcasts commonly take the format of an interview show which entails a significant amount of effort required to:
 
   * acquire interesting participants,
   * research and develop interview questions,

@@ -17,19 +17,19 @@ tag:
   - sitesusagov
 ---
 
-Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< relref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
+Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
 
 The key steps in getting ready to move to a CMS include:
 
-  * [Prepare Your Content]({{< relref "#prepare.md" >}})
-  * [Choose a CMS]({{< relref "#choose.md" >}})
-  * [Migrate Your Content to a CMS]({{< relref "#migrate.md" >}})
+  * [Prepare Your Content]({{< link "#prepare.md" >}})
+  * [Choose a CMS]({{< link "#choose.md" >}})
+  * [Migrate Your Content to a CMS]({{< link "#migrate.md" >}})
 
 ## Prepare Your Content {#prepare}
 
 ### Develop a Content Strategy
 
-A [content strategy]({{< relref "?s=content+strategy.md" >}}) defines such things as topics, themes and purpose, and can also play a part in website governance, customer experience, metadata and search engine optimization (SEO). The value of developing a content strategy is that it forces you to examine what you’re trying to accomplish with your digital content, where you need it delivered, and desired outcomes.
+A [content strategy]({{< link "?s=content+strategy.md" >}}) defines such things as topics, themes and purpose, and can also play a part in website governance, customer experience, metadata and search engine optimization (SEO). The value of developing a content strategy is that it forces you to examine what you’re trying to accomplish with your digital content, where you need it delivered, and desired outcomes.
 
 When developing your content strategy, ask:
 
@@ -63,7 +63,7 @@ Before implementing a CMS, you should get rid of “ROT” (Redundant, Outdated,
 
 ### Determine Content Structure
 
-Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy]({{< relref "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content").
+Structured content refers to content that is posted as &#8220;pieces of information&#8221; (vs. &#8220;pages&#8221;) and [tagged with keywords and metadata](http://en.wikipedia.org/wiki/Metadata_tag) so it can be aggregated, organized, shared, and reused. Structured content is not dependent on any particular device; content is divorced from presentation, meaning the information is accessible anytime, anywhere, on any device. Create open structured content by identifying such things as content types and taxonomies. Read more about [creating open content and National Public Radio (NPR)&#8217;s Create Once, Publish Everywhere strategy]({{< link "2013-07-29-how-to-create-open-structured-content.md" >}} "How to Create Open, Structured Content").
 
 {{< legacy-img src="2014/05/600-x-285-Open-Content-Model-full-cropped.jpg" alt="Open Content Model mural" >}}
 
@@ -145,11 +145,11 @@ You will need developer support for ongoing general system maintenance.
 
 Open-source systems can incur potentially significant development costs to maintain over time and take full advantage of customizable features.
 
-Talk with other [government agencies who already use a particular CMS]({{< relref "content-management-systems-used-by-government-agencies.md" >}} "Content Management Systems Used by Government Agencies"), and who have sites comparable in size and scope to your own, to get an idea of how much developer support you might require.
+Talk with other [government agencies who already use a particular CMS]({{< link "content-management-systems-used-by-government-agencies.md" >}} "Content Management Systems Used by Government Agencies"), and who have sites comparable in size and scope to your own, to get an idea of how much developer support you might require.
 
 ### Document Your CMS Requirements
 
-Business needs should be the [primary driver]({{< relref "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS") in your choice of a content management system for your agency. Start with your content strategy, then focus on the CMS features and functionality that support that strategy. Consider the following:
+Business needs should be the [primary driver]({{< link "2013-12-12-9-reasons-your-agency-should-have-a-cms.md" >}} "9 Reasons Your Agency Should Have A CMS") in your choice of a content management system for your agency. Start with your content strategy, then focus on the CMS features and functionality that support that strategy. Consider the following:
 
 ### Ease of Use
 
@@ -378,12 +378,12 @@ Before you shut down the old site, run the old and new sites in parallel to test
 If you’ve done your research and followed your plan, you should have a smooth migration. Once it’s all done, and the site is live in the new CMS:
 
   * Evaluate what worked well, and where you ran into problems. Document as lessons learned for future migration projects, and share with your colleagues.
-  * Consider writing a case study, and [send to us]({{< relref "contact-us.md" >}} "Contact Us") so we can post on DigitalGov, so others can benefit from your experiences.
+  * Consider writing a case study, and [send to us]({{< link "contact-us.md" >}} "Contact Us") so we can post on DigitalGov, so others can benefit from your experiences.
   * Perform a “before and after comparison” to document improved efficiencies and help you measure success. Identify how the new CMS improves your ability to manage information assets, speed up content publication, or other improvements.
   * Communicate results to your management team and stakeholders, so they understand that all the hard work was worth it.
 
 ### Case Studies
 
-  * [Why NCI Moved to a Structured Content Model]({{< relref "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}} "Why NCI Moved to a Structured Content Model")
-  * [How NASA Chose a New Content Management System]({{< relref "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
-  * [How the Department of Education Automated Publication of Press Releases]({{< relref "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")
+  * [Why NCI Moved to a Structured Content Model]({{< link "2013-07-25-why-nci-moved-to-a-structured-content-model.md" >}} "Why NCI Moved to a Structured Content Model")
+  * [How NASA Chose a New Content Management System]({{< link "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
+  * [How the Department of Education Automated Publication of Press Releases]({{< link "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")

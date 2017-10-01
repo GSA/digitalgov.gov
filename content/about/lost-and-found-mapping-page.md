@@ -44,7 +44,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Site Policies" href="{{< relref "policies.md" >}}">Site Policies</a>
+      <a title="Site Policies" href="{{< link "policies.md" >}}">Site Policies</a>
     </td>
   </tr>
 
@@ -62,7 +62,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
+      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
     </td>
   </tr>
 
@@ -90,7 +90,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Federal Government Challenges and Contests" href="{{< relref "2013-11-01-federal-government-challenges-and-contests.md" >}}">Federal Government Challenges and Contests</a>
+      <a title="Federal Government Challenges and Contests" href="{{< link "2013-11-01-federal-government-challenges-and-contests.md" >}}">Federal Government Challenges and Contests</a>
     </td>
   </tr>
 
@@ -100,7 +100,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Ideation Challenges" href="{{< relref "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
+      <a title="Ideation Challenges" href="{{< link "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
     </td>
   </tr>
 
@@ -118,7 +118,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Content Management Systems Toolkit" href="{{< relref "2013-10-30-content-management-systems-toolkit.md" >}}">Content Management Systems Toolkit</a>
+      <a title="Content Management Systems Toolkit" href="{{< link "2013-10-30-content-management-systems-toolkit.md" >}}">Content Management Systems Toolkit</a>
     </td>
   </tr>
 
@@ -128,7 +128,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Content Management Systems Used by Government Agencies" href="{{< relref "content-management-systems-used-by-government-agencies.md" >}}>Content Management Systems Used by Government Agencies</a>
+      <a title="Content Management Systems Used by Government Agencies" href="{{< link "content-management-systems-used-by-government-agencies.md" >}}>Content Management Systems Used by Government Agencies</a>
     </td>
   </tr>
 
@@ -138,7 +138,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Content Management Systems Toolkit" href="{{< relref "2013-10-30-content-management-systems-toolkit.md" >}}">Content Management Systems Toolkit</a>
+      <a title="Content Management Systems Toolkit" href="{{< link "2013-10-30-content-management-systems-toolkit.md" >}}">Content Management Systems Toolkit</a>
     </td>
   </tr>
 
@@ -156,7 +156,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Communities" href="{{< relref "communities.md" >}}">Communities</a>
+      <a title="Communities" href="{{< link "communities.md" >}}">Communities</a>
     </td>
   </tr>
 
@@ -174,7 +174,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Contact Center Guidelines" href="{{< relref "contact-center-guidelines.md" >}}">Contact Center Guidelines</a>
+      <a title="Contact Center Guidelines" href="{{< link "contact-center-guidelines.md" >}}">Contact Center Guidelines</a>
     </td>
   </tr>
 
@@ -184,7 +184,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Contact Center Operation and Management" href="{{< relref "contact-center-operation-and-management.md" >}}">Contact Center Operation and Management</a>
+      <a title="Contact Center Operation and Management" href="{{< link "contact-center-operation-and-management.md" >}}">Contact Center Operation and Management</a>
     </td>
   </tr>
 
@@ -194,7 +194,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Contact Center Technologies" href="{{< relref "contact-center-technologies.md" >}}">Contact Center Technologies</a>
+      <a title="Contact Center Technologies" href="{{< link "contact-center-technologies.md" >}}">Contact Center Technologies</a>
     </td>
   </tr>
 
@@ -215,7 +215,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="What Is a “Customer Centric” Culture?" href="{{< relref "2013-09-27-what-is-a-customer-centric-culture.md" >}}">What Is a “Customer Centric” Culture?</a>
+      <a title="What Is a “Customer Centric” Culture?" href="{{< link "2013-09-27-what-is-a-customer-centric-culture.md" >}}">What Is a “Customer Centric” Culture?</a>
     </td>
   </tr>
 
@@ -233,7 +233,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< relref "dap-digital-metrics-guidance-and-best-practices.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
+      <a title="DAP: Digital Metrics Guidance and Best Practices" href="{{< link "dap-digital-metrics-guidance-and-best-practices.md" >}}">DAP: Digital Metrics Guidance and Best Practices</a>
     </td>
   </tr>
 
@@ -243,7 +243,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DAP: Digital Analytics Program" href="{{< relref "dap.md" >}}">DAP: Digital Analytics Program</a>
+      <a title="DAP: Digital Analytics Program" href="{{< link "dap.md" >}}">DAP: Digital Analytics Program</a>
     </td>
   </tr>
 
@@ -253,7 +253,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Common Questions about DAP (FAQ)" href="{{< relref "common-questions-about-dap-faq.md" >}}">Common Questions about DAP (FAQ)</a>
+      <a title="Common Questions about DAP (FAQ)" href="{{< link "common-questions-about-dap-faq.md" >}}">Common Questions about DAP (FAQ)</a>
     </td>
   </tr>
 
@@ -263,7 +263,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Government-Wide Analytics Tool for Federal Agencies" href="{{< relref "analytics-tool-instructions.md" >}}">Government-Wide Analytics Tool for Federal Agencies</a>
+      <a title="Government-Wide Analytics Tool for Federal Agencies" href="{{< link "analytics-tool-instructions.md" >}}">Government-Wide Analytics Tool for Federal Agencies</a>
     </td>
   </tr>
 
@@ -273,7 +273,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< relref "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
+      <a title="Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program" href="{{< link "incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program.md" >}}">Incorporating the Digital Analytics Program Tool Into Your Agency’s Metric Program</a>
     </td>
   </tr>
 
@@ -304,7 +304,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Video Library" href="{{< relref "video-library.md" >}}">Video Library</a>
+      <a title="Video Library" href="{{< link "video-library.md" >}}">Video Library</a>
     </td>
   </tr>
 
@@ -332,7 +332,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="APIs in Government" href="{{< relref "2013-04-30-apis-in-government.md" >}}">APIs in Government</a>
+      <a title="APIs in Government" href="{{< link "2013-04-30-apis-in-government.md" >}}">APIs in Government</a>
     </td>
   </tr>
 
@@ -350,7 +350,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Spanish Language Style Guide and Glossaries" href="{{< relref "spanish-language-style-guide-and-glossaries.md" >}}>Spanish Language Style Guide and Glossaries</a>
+      <a title="Spanish Language Style Guide and Glossaries" href="{{< link "spanish-language-style-guide-and-glossaries.md" >}}>Spanish Language Style Guide and Glossaries</a>
     </td>
   </tr>
 
@@ -360,7 +360,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Making Multimedia Section 508 Compliant and Accessible" href="{{< relref "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}">Making Multimedia Section 508 Compliant and Accessible</a>
+      <a title="Making Multimedia Section 508 Compliant and Accessible" href="{{< link "2013-06-26-making-multimedia-section-508-compliant-and-accessible.md" >}}">Making Multimedia Section 508 Compliant and Accessible</a>
     </td>
   </tr>
 
@@ -378,7 +378,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Tell Your Agency’s Story—Plainly" href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a> – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a> (doc)
+      <a title="How to Tell Your Agency’s Story—Plainly" href="{{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}">How to Tell Your Agency’s Story—Plainly (Round of tips & DGU training)</a> – Usability<br /> <a title="Plain Language Web Writing Tips" href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/checklist-for-Plain-Language-Web-writing.docx">Plain Language Web Writing Tips</a> (doc)
     </td>
   </tr>
 
@@ -388,7 +388,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="How to Create Open, Structured Content" href="{{< relref "2013-07-29-how-to-create-open-structured-content.md" >}}">How to Create Open, Structured Content</a>
+      <a title="How to Create Open, Structured Content" href="{{< link "2013-07-29-how-to-create-open-structured-content.md" >}}">How to Create Open, Structured Content</a>
     </td>
   </tr>
 
@@ -406,7 +406,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Sample Position Descriptions for Digital Government Jobs" href="{{< relref "sample-position-descriptions-for-digital-government-jobs.md" >}}">Sample Position Descriptions for Digital Government Jobs</a>
+      <a title="Sample Position Descriptions for Digital Government Jobs" href="{{< link "sample-position-descriptions-for-digital-government-jobs.md" >}}">Sample Position Descriptions for Digital Government Jobs</a>
     </td>
   </tr>
 
@@ -424,7 +424,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
+      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
     </td>
   </tr>
 
@@ -434,7 +434,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
+      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
     </td>
   </tr>
 
@@ -444,7 +444,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< relref "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
+      <a title="Checklist of Requirements for Federal Websites and Digital Services" href="{{< link "checklist-of-requirements-for-federal-digital-services.md" >}}">Checklist of Requirements for Federal Websites and Digital Services</a>
     </td>
   </tr>
 
@@ -462,7 +462,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Negotiated Terms of Service Agreements" href="{{< relref "negotiated-terms-of-service-agreements.md" >}}">Negotiated Terms of Service Agreements</a>
+      <a title="Negotiated Terms of Service Agreements" href="{{< link "negotiated-terms-of-service-agreements.md" >}}">Negotiated Terms of Service Agreements</a>
     </td>
   </tr>
 
@@ -472,7 +472,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Storyboarding is Key to Successful Storytelling" href="{{< relref "2014-04-25-storyboarding-is-key-to-successful-storytelling.md" >}}">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="{{< relref "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
+      <a title="Storyboarding is Key to Successful Storytelling" href="{{< link "2014-04-25-storyboarding-is-key-to-successful-storytelling.md" >}}">Storyboarding is Key to Successful Storytelling</a><br /> <a title="Storyboard: A Tool for a Successful Video" href="{{< link "2014-04-11-storyboard-a-tool-for-a-successful-video.md" >}}">Storyboard: A Tool for a Successful Video</a>
     </td>
   </tr>
 
@@ -482,7 +482,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Video copyright: How to avoid getting sued" href="{{< relref "2013-05-04-video-copyright.md" >}}">Video copyright: How to avoid getting sued</a>
+      <a title="Video copyright: How to avoid getting sued" href="{{< link "2013-05-04-video-copyright.md" >}}">Video copyright: How to avoid getting sued</a>
     </td>
   </tr>
 
@@ -492,7 +492,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Improving the Accessibility of Social Media in Government" href="{{< relref "improving-the-accessibility-of-social-media-in-government.md" >}}">Improving the Accessibility of Social Media in Government</a>
+      <a title="Improving the Accessibility of Social Media in Government" href="{{< link "improving-the-accessibility-of-social-media-in-government.md" >}}">Improving the Accessibility of Social Media in Government</a>
     </td>
   </tr>
 
@@ -510,7 +510,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< link "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
 
@@ -520,7 +520,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program" href="{{< relref "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
+      <a title="DigitalGov User Experience Program" href="{{< link "digitalgov-user-experience-resources.md" >}}">DigitalGov User Experience Program</a>
     </td>
   </tr>
 
@@ -530,7 +530,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Government Usability Case Studies" href="{{< relref "government-usability-case-studies.md" >}}">Government Usability Case Studies</a>
+      <a title="Government Usability Case Studies" href="{{< link "government-usability-case-studies.md" >}}">Government Usability Case Studies</a>
     </td>
   </tr>
 
@@ -540,7 +540,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="DigitalGov User Experience Program: Usability Starter Kit" href="{{< relref "digitalgov-user-experience-program-usability-starter-kit.md" >}}">DigitalGov User Experience Program: Usability Starter Kit</a>
+      <a title="DigitalGov User Experience Program: Usability Starter Kit" href="{{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}">DigitalGov User Experience Program: Usability Starter Kit</a>
     </td>
   </tr>
 
@@ -550,7 +550,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Paperwork Reduction Act Fast Track Process" href="{{< relref "paperwork-reduction-act-fast-track-process.md" >}}">Paperwork Reduction Act Fast Track Process</a>
+      <a title="Paperwork Reduction Act Fast Track Process" href="{{< link "paperwork-reduction-act-fast-track-process.md" >}}">Paperwork Reduction Act Fast Track Process</a>
     </td>
   </tr>
 
@@ -560,7 +560,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Heatmapping Tools Show What’s “Hot” on Your Pages" href="{{< relref "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}">Heatmapping Tools Show What’s “Hot” on Your Pages</a>
+      <a title="Heatmapping Tools Show What’s “Hot” on Your Pages" href="{{< link "2014-04-04-heatmapping-tools-show-whats-hot-on-your-pages.md" >}}">Heatmapping Tools Show What’s “Hot” on Your Pages</a>
     </td>
   </tr>
 
@@ -578,7 +578,7 @@ Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Tak
     </td>
 
     <td style="width: 50%;text-align: left;vertical-align: top">
-      <a title="Four Steps to Achieve Good SEO" href="{{< relref "2013-05-31-four-steps-to-achieve-good-seo.md" >}}">Four Steps to Achieve Good SEO</a>
+      <a title="Four Steps to Achieve Good SEO" href="{{< link "2013-05-31-four-steps-to-achieve-good-seo.md" >}}">Four Steps to Achieve Good SEO</a>
     </td>
   </tr>
 </table>

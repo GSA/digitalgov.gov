@@ -22,7 +22,7 @@ tag:
   - White House
 ---
 
-****[Gray Brooks]({{< tmp "authors/gray-brooks.md" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< relref "digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< relref "2012-07-26-introduction-to-apis.md" >}}).
+****[Gray Brooks]({{< link "author/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)]({{< link "digitalgov-university.md" >}}) presentation, [Introduction to APIs]({{< link "2012-07-26-introduction-to-apis.md" >}}).
 
 He described APIs as &#8220;Application Programming Interfaces, or APIs, are web services that allow people to more easily consume content and data in multiple ways—via mobile devices, mobile apps, innovative mash-ups, and much more.&#8221; Simply put, &#8220;APIs are a better way to get government information and services into the hands of the people who need them.&#8221; {{< legacy-img src="2014/11/600-x-393-Robot-with-tools-and-application-programming-interface-sign-Technology-concept-Kirillm-iStock-Thinkstock-450547591.jpg" alt="Robot with tools and application programming interface sign. Technology concept." caption="" >}} 
 

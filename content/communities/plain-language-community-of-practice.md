@@ -15,7 +15,7 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
 ## **Join**
 
 <div style="text-align: center">
-  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a> or <a class="button" href="{{< relref "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
+  <a class="button" href="https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN">Join the Listserv</a> or <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
 </div>
 
 ## Getting Started
@@ -25,11 +25,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Good Content Needs Plain Language" href="{{< relref "2015-12-23-good-content-needs-plain-language.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="Good Content Needs Plain Language" >}}</a>
+          <a title="Permanent Link to Good Content Needs Plain Language" href="{{< link "2015-12-23-good-content-needs-plain-language.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Needle-in-a-Haystack-artisteer-iStock-Thinkstock-484048326.jpg" alt="Good Content Needs Plain Language" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-12-23-good-content-needs-plain-language.md" >}}">Good Content Needs Plain Language</a>
+          <a href="{{< link "2015-12-23-good-content-needs-plain-language.md" >}}">Good Content Needs Plain Language</a>
         </h4>
       </div>
     </div>
@@ -57,11 +57,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Get Out of the Jargon Trap: Plain Language Training Can Help" href="{{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="Get Out of the Jargon Trap: Plain Language Training Can Help" >}}</a>
+          <a title="Permanent Link to Get Out of the Jargon Trap: Plain Language Training Can Help" href="{{< link "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-E-learning-concept-Schooldesk-and-chalkboard-on-the-laptop-keyboard-Bet_Noire-iStock-Thinkstock-480287872.jpg" alt="Get Out of the Jargon Trap: Plain Language Training Can Help" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}">Get Out of the Jargon Trap: Plain Language Training Can Help</a>
+          <a href="{{< link "2014-08-15-get-out-of-the-jargon-trap-plain-language-training-can-help.md" >}}">Get Out of the Jargon Trap: Plain Language Training Can Help</a>
         </h4>
       </div>
     </div>
@@ -75,11 +75,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to How to Tell Your Agency's Story—Plainly" href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="How to Tell Your Agency's Story—Plainly" >}}</a>
+          <a title="Permanent Link to How to Tell Your Agency's Story—Plainly" href="{{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Simplicity-Devonyu-iStock-Thinkstock-186063498.jpg" alt="How to Tell Your Agency's Story—Plainly" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}">How to Tell Your Agency&#8217;s Story—Plainly</a>
+          <a href="{{< link "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}">How to Tell Your Agency&#8217;s Story—Plainly</a>
         </h4>
       </div>
     </div>
@@ -91,11 +91,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to Using Plain Language to Write for the Web" href="{{< relref "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Using Plain Language to Write for the Web" >}}</a>
+          <a title="Permanent Link to Using Plain Language to Write for the Web" href="{{< link "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}" rel="bookmark">{{< legacy-img src="/2016/01/hp-featured-348-x-226-Plain-Language-website-homepage-cropped.jpg" alt="Using Plain Language to Write for the Web" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}">Using Plain Language to Write for the Web</a>
+          <a href="{{< link "2015-09-16-using-plain-language-to-write-for-the-web.md" >}}">Using Plain Language to Write for the Web</a>
         </h4>
       </div>
     </div>
@@ -107,11 +107,11 @@ And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pk
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a title="Permanent Link to FAQs Done Right" href="{{< relref "2015-09-04-faqs-done-right.md" >}}" rel="bookmark">{{< legacy-img src="/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
+          <a title="Permanent Link to FAQs Done Right" href="{{< link "2015-09-04-faqs-done-right.md" >}}" rel="bookmark">{{< legacy-img src="/2015/10/hp-featured-348-x-226-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="FAQs Done Right" >}}</a>
         </div>
 
         <h4 class="post-title">
-          <a href="{{< relref "2015-09-04-faqs-done-right.md" >}}">FAQs Done Right</a>
+          <a href="{{< link "2015-09-04-faqs-done-right.md" >}}">FAQs Done Right</a>
         </h4>
       </div>
     </div>
@@ -129,7 +129,7 @@ Meetings are held the second Wednesday of the month (except for August), from 2-
 <hr style="border: none;height: 2em" />
 
 <p style="text-align: center">
-  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< relref "video-library.md" >}}">View past events</a>
+  <a class="button" href="{{< link "events" >}}">View all upcoming events</a> <a class="button" href="{{< link "video-library.md" >}}">View past events</a>
 </p>
 
 ## **About this Group**

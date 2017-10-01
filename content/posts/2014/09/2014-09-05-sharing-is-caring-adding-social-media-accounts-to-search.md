@@ -20,7 +20,7 @@ tag:
   - YouTube
 ---
 
-{{< legacy-img src="2014/05/featured-301-x-212-DigitalGov-Search-homepage-250x176.jpg" alt="featured 301 x 212 DigitalGov Search homepage" >}}Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site’s visitors. Keeping that in mind, [DigitalGov Search]({{< relref "search.md" >}} "DigitalGov Search") has worked to [bring all your content, wherever it is, to your search results]({{< relref "2014-08-26-help-the-public-find-your-information-wherever-and-however-youve-published-it.md" >}} "Help the Public Find Your Information, Wherever and However You’ve Published It").
+{{< legacy-img src="2014/05/featured-301-x-212-DigitalGov-Search-homepage-250x176.jpg" alt="featured 301 x 212 DigitalGov Search homepage" >}}Content is no longer limited to your .gov website. Social media accounts also contain a treasure trove of information relevant to your site’s visitors. Keeping that in mind, [DigitalGov Search]({{< link "search.md" >}} "DigitalGov Search") has worked to [bring all your content, wherever it is, to your search results]({{< link "2014-08-26-help-the-public-find-your-information-wherever-and-however-youve-published-it.md" >}} "Help the Public Find Your Information, Wherever and However You’ve Published It").
 
 Finding something you didn’t know you were looking for is the best form of discovery, so make sure there are ample opportunities to find your content in all its forms. Searchers expect to see more than a list of links on your site. They expect to see instant answers to their questions.
 
@@ -28,7 +28,7 @@ Finding something you didn’t know you were looking for is the best form of dis
 
 [{{< legacy-img src="2014/08/250-x-273-Interior-DigitalGov-Search-photo-search-results.jpg" alt="A screen capture of the Department of the Interior's image search results" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/08/600-x-655-Interior-DigitalGov-Search-photo-search-results.jpg)We have recently added [Instagram](http://instagram.com/) to our collection of social media accounts that can populate search results. Instagram pictures can now be seen either by searchers who do not have Instagram accounts, or by those who do not follow your site. Everyone can access the pictures.
 
-Image searches on sites that use DigitalGov Search to power their search box show both [Flickr](https://www.flickr.com/) and Instagram accounts (if you have [duplicate content](http://search.WHATEVER/manual/instagram.html), there’s no need to show both). Once integrated into search results, images from your social media accounts have greater visibility and searchers can [discover a picture](http://search.doi.gov/search/images?affiliate=doi.gov&query=yellowstone) with a single query.
+Image searches on sites that use DigitalGov Search to power their search box show both [Flickr](https://www.flickr.com/) and Instagram accounts (if you have [duplicate content](http://search.digitalgov.gov/manual/instagram.html), there’s no need to show both). Once integrated into search results, images from your social media accounts have greater visibility and searchers can [discover a picture](http://search.doi.gov/search/images?affiliate=doi.gov&query=yellowstone) with a single query.
 
 ## Bring It All Together
 

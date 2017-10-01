@@ -40,4 +40,4 @@ In September 2009, the President released his Strategy for American Innovation, 
 
 * * *
 
-See more [DigitalGov Resources]({{< relref "resources.md" >}})
+See more [DigitalGov Resources]({{< link "resources.md" >}})

@@ -46,5 +46,5 @@ For more, view Ortega’s slides or the webinar in its entirely below:
 
 [youtube=http://www.youtube.com/watch?v=66EX-qTBgUk&w=600]
 
-_If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< relref "challenges-prizes-community.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
-_This article is part of this month&#8217;s [Editorial Theme]({{< relref "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_If you would like more information on challenges and prize competitions, become part of the_ [_Federal Challenge and Prize Community listserv_]({{< link "challenges-prizes-community.md" >}})_. If you are interested in entering a challenge, see the list of government challenges at_ [_Challenge.gov_](http://challenge.gov/)_._
+_This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

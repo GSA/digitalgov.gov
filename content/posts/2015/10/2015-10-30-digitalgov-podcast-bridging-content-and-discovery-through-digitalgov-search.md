@@ -16,7 +16,7 @@ tag:
 
 You can find cute kitten photos online, but you can&#8217;t find Ben Franklin&#8217;s jetpack (well, you can search for it, but you won&#8217;t find it!).
 
-For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. [DigitalGov Search](http://search.WHATEVER/) helps agencies deliver information to government searchers on every level—federal, state, local, and tribal.
+For government agencies, connecting users to information is a critical part of meeting the public&#8217;s needs and delivering excellent customer service. [DigitalGov Search](http://search.digitalgov.gov/) helps agencies deliver information to government searchers on every level—federal, state, local, and tribal.
 
 Recently, search analyst Dawn McCleskey sat down to discuss the work of DigitalGov Search, including:
 
@@ -33,6 +33,6 @@ Recently, search analyst Dawn McCleskey sat down to discuss the work of DigitalG
 
 To listen to the podcast offline, [download the .mp3 file](https://s3.amazonaws.com/digitalgov/legacy-img/2015/10/Podcast-Digitalgov_Search.mp3). You can also [download and read the transcript](https://s3.amazonaws.com/digitalgov/legacy-img/2015/10/DG-Search-Podcast-Oct-2015-Transcript.docx) (4 pages, 9 kb MS Word).
 
-To learn more about DigitalGov Search&#8217;s multilingual efforts, check out the recent article: [Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience]({{< relref "2015-08-31-search-creating-a-good-multilingual-search-experience.md" >}}).
+To learn more about DigitalGov Search&#8217;s multilingual efforts, check out the recent article: [Search, Buscar, Поиск, جستجو, Cari: Creating a Good, Multilingual Search Experience]({{< link "2015-08-31-search-creating-a-good-multilingual-search-experience.md" >}}).
 
 Just getting started with search? Register for November&#8217;s [DigitalGov Search Basics webinar]({{< tmp "events/digitalgov-search-basics.md" >}}).

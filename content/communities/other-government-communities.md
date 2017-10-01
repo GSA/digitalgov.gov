@@ -9,7 +9,7 @@ authors:
 
 _Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA._
 
-Digital communities of practice come in many stripes. </span>[<span style="font-weight: 400">DigitalGov communities span 10 (and counting) focus areas</span>]({{< relref "communities.md" >}}) <span style="font-weight: 400">and have thousands of members, but strong collaborations exist in all corners of government.</p>
+Digital communities of practice come in many stripes. </span>[<span style="font-weight: 400">DigitalGov communities span 10 (and counting) focus areas</span>]({{< link "communities.md" >}}) <span style="font-weight: 400">and have thousands of members, but strong collaborations exist in all corners of government.</p>
 
 <p>
   Here is a list of some communities working in the digital arena:
@@ -59,7 +59,7 @@ Digital communities of practice come in many stripes. </span>[<span style="font-
               <a href="https://groups.google.com/forum/?nomobile=true#!forum/us-open-government">Open Government</a>
             </li>
             <li style="font-weight: 400">
-              <a href="https://openopps.WHATEVER/">Open Opportunities</a>
+              <a href="https://openopps.digitalgov.gov/">Open Opportunities</a>
             </li>
             <li style="font-weight: 400">
               Security Today: This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Email <a href="mailto:listserv@listserv.gsa.gov">listserv@listserv.gsa.gov</a> with no subject and “subscribe Security-Today” in the body.

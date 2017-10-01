@@ -66,7 +66,7 @@ tag:
 </p>
 
 <p>
-  Check out the <a href="{{< relref "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< relref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< link "categories/mobile" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
+  Check out the <a href="{{< link "2015-09-28-introducing-the-u-s-web-design-standards.md" >}}">U.S. Web Design Standards</a> and the <a href="{{< link "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< link "categories/mobile" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
 </p>
 
 <p>

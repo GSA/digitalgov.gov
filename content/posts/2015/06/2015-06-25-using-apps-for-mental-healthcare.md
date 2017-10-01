@@ -43,5 +43,5 @@ The preferences and realities of healthcare providers are also considered in the
 
 “We have to cater to both patients and providers: if I create something that isn’t going to fit in the provider’s workflow, they aren’t going to use it,” Cooper said.
 
-_T2’s apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< relref "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}).
+_T2’s apps can be found on the [Mobile Apps Directory on USA.gov](http://www.usa.gov/mobileapps.shtml). Do you have a federal app that is not listed on the Directory? Take part in the [Great Federal Mobile Product Hunt]({{< link "2015-05-21-start-sleuthing-with-the-great-federal-mobile-product-hunt.md" >}}).
   _

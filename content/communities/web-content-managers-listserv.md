@@ -7,7 +7,7 @@ authors:
   - andreanocesigritz
 ---
 
-The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about the [Web Content Managers Forum]({{< relref "web-managers-forum.md" >}} "Web Content Managers Forum").
+The Web Content Managers listserv is open to content managers from any level of U.S. government: federal, state, local, and tribal. Since the purpose of this group is to exchange ideas amongst U.S. government Web practitioners, we do not admit contractors or other private individuals. Learn more about the [Web Content Managers Forum]({{< link "web-managers-forum.md" >}} "Web Content Managers Forum").
 
 ## How to Join the Listserv
 

@@ -36,7 +36,7 @@ Our recommended implementation is to call the DAP code from a central location h
 
 Instead of setting the “src” attribute to a local directory, set the value to the centrally hosted URL as follows:
 
-src=&#8221;**https://dap.WHATEVER/Universal-Federated-Analytics-Min.js?agency=DHS**&#8220;
+src=&#8221;**https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS**&#8220;
 
 Remember, the script block won’t work properly unless _src_ is specified with https://. The central host URL has been configured to only be called securely over SSL.
 
@@ -50,7 +50,7 @@ This differs from a completely independent GA account in that the only GA code n
 
 While DAP is a great Web analytics solution on its own, you can still take advantage of running your own GA account in parallel by adding the PUA parameter to the source file location:
 
-https://dap.WHATEVER/Universal-Federated-Analytics-Min.js?agency=DHS&subagency=FEMA&**pua=UA-000000-0**
+https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&subagency=FEMA&**pua=UA-000000-0**
 
 where UA-000000-0 would be replaced with your own UA ID.
 
@@ -58,11 +58,11 @@ Now, you can create and track your own Goals and configure other administrative 
 
 ## Download Extensions
 
-The DAP code will allow you to track a number of download extensions by default. You may have unconventional extensions that may not be included in our list. If you look at the [DAP code](https://dap.WHATEVER/Universal-Federated-Analytics-Min.js) and search for “EXTS”, the first instance of “EXTS” is followed by the list of extensions that are tracked in DAP by default.
+The DAP code will allow you to track a number of download extensions by default. You may have unconventional extensions that may not be included in our list. If you look at the [DAP code](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js) and search for “EXTS”, the first instance of “EXTS” is followed by the list of extensions that are tracked in DAP by default.
 
 If you don’t find your extension in that list, you can add your own with “exts” parameter:
 
-[https://dap.WHATEVER/Universal-Federated-Analytics-Min.js?agency=DHS&**exts=f90**](https://dap.WHATEVER/Universal-Federated-Analytics-Min.js?agency=DHS&exts=mp3)
+[https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&**exts=f90**](https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&exts=mp3)
 
 DAP will now help you track downloads with “f90” extensions.
 
@@ -72,7 +72,7 @@ You might interested in the demographics of your website users. Remember, DAP do
 
 Add a “dclink” parameter and set the value to true:
 
-https://dap.WHATEVER/Universal-Federated-Analytics-Min.js?agency=DHS&**dclink=true**
+https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS&**dclink=true**
 
 You can find the demographic data in the Audience section of GA and discover the characteristics of your users.
 

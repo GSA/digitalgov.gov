@@ -77,7 +77,7 @@ tag:
 
 ## 2. NOAA Search page
 
-GSA’s search platform, [DigitalGov Search]({{< relref "search.md" >}}), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
+GSA’s search platform, [DigitalGov Search]({{< link "search.md" >}}), is great and keeps getting better. We rely heavily on it and try to take advantage of all it offers. In addition to our global search button on our banner, we also offer search boxes relevant to specific pages (e.g., visitors may search just within podcasts when on a podcast page). We think this is making a big difference in helping visitors find what they need.
 
  
 
@@ -174,5 +174,5 @@ We still have all policy-required links in our footer, but it’s now a more int
 </p>
 
 <p dir="ltr">
-  <em>See more Before and After case studies on our <a href="{{< relref "government-usability-case-studies.md" >}}">Usability Case Study</a> page.</em>
+  <em>See more Before and After case studies on our <a href="{{< link "government-usability-case-studies.md" >}}">Usability Case Study</a> page.</em>
 </p>
