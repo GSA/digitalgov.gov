@@ -2,7 +2,7 @@
 slug: inter-agency-federal-social-media-promotes-womens-health-campaign
 date: 2014-05-21 13:35:21 -0400
 title: 'Inter-Agency Federal Social Media Promotes Women&#8217;s Health Campaign'
-summary: 'Last week, we discussed National Women&rsquo;s Health Week (NWHW) as an example of a coordinated campaign that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with'
+summary: 'Last week, we discussed National Women’s Health Week (NWHW) as an example of a coordinated campaign that used digital tools. Social media has made building campaigns easier by enabling us to quickly reach out to groups with similar missions as well as to engage with'
 authors:
   - alison-lemon
 categories:

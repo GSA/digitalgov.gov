@@ -2,7 +2,7 @@
 slug: how-to-tell-the-world-war-i-story-make-it-personal
 date: 2017-03-09 2:00:08 -0400
 title: 'How to Tell the World War I Story: Make it Personal'
-summary: 'We naturally gravitate towards story-telling. It&rsquo;s part of our human nature that began thousands of years ago, well before the written word. We want to pass down our history and cultures, and we do this by telling stories because they resonate with us. Stories tap into our emotions. They make us feel. They move us'
+summary: 'We naturally gravitate towards story-telling. It’s part of our human nature that began thousands of years ago, well before the written word. We want to pass down our history and cultures, and we do this by telling stories because they resonate with us. Stories tap into our emotions. They make us feel. They move us'
 authors:
   - sarah-herrmann
 categories:

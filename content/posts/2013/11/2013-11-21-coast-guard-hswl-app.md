@@ -2,7 +2,7 @@
 slug: coast-guard-hswl-app
 date: 2013-11-21 10:02:20 -0400
 title: Coast Guard HSWL App
-summary: 'Are you active or retired Coast Guard &mdash; or related to someone who is? If so, you&rsquo;ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from USCG&rsquo;s Office of Work-Life Programs.'
+summary: 'Are you active or retired Coast Guard &mdash; or related to someone who is? If so, you’ll want to spread the word about the United States Coast Guard&#8217;s Health, Safety and Work Life (HSWL) app from USCG’s Office of Work-Life Programs.'
 authors:
   - genevieve-contey
 categories:

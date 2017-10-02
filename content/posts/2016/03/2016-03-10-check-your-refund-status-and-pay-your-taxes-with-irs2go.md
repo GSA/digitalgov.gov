@@ -2,7 +2,7 @@
 slug: check-your-refund-status-and-pay-your-taxes-with-irs2go
 date: 2016-03-10 11:27:57 -0400
 title: Check Your Refund Status AND Pay Your Taxes With IRS2Go
-summary: 'This tax season, it&rsquo;s not just taxpayers expecting a refund who can take advantage of IRS2Go, the IRS&rsquo; mobile app, but now taxpayers who owe money are able to make payments through the app. IRS2Go offered for Amazon, Android and'
+summary: 'This tax season, it’s not just taxpayers expecting a refund who can take advantage of IRS2Go, the IRS’ mobile app, but now taxpayers who owe money are able to make payments through the app. IRS2Go offered for Amazon, Android and'
 authors:
   - jparcell
 categories:

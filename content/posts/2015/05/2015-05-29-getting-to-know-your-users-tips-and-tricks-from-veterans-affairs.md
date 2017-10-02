@@ -2,7 +2,7 @@
 slug: getting-to-know-your-users-tips-and-tricks-from-veterans-affairs
 date: 2015-05-29 10:00:22 -0400
 title: 'Getting to Know Your Users: Tips and Tricks from Veterans Affairs'
-summary: 'Design research isn&rsquo;t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We&rsquo;re here to to help demystify the process of design research for those of you ready to wade into the waters. We&rsquo;ve both done our fair share of design researching at the Department of Veterans'
+summary: 'Design research isn’t rocket science. But for many of us in the federal government, it can seem daunting and unfamiliar. We’re here to to help demystify the process of design research for those of you ready to wade into the waters. We’ve both done our fair share of design researching at the Department of Veterans'
 authors:
   - sarah-brooks
   - mollie-ruskin

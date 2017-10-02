@@ -2,7 +2,7 @@
 slug: are-chatbots-the-next-mhealth-frontier
 date: 2016-11-17 10:00:48 -0400
 title: Are Chatbots the Next mHealth Frontier?
-summary: 'In April, Facebook made it possible for organizations to use chatbots to send and receive messages from users of Facebook Messenger. That&rsquo;s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it&rsquo;s a messaging platform that people use to send short messages to each other through'
+summary: 'In April, Facebook made it possible for organizations to use chatbots to send and receive messages from users of Facebook Messenger. That’s a big deal. Facebook Messenger is now used by 900 million people every month. As the name implies, it’s a messaging platform that people use to send short messages to each other through'
 authors:
   - lindy-dreyer
   - torey-vanek

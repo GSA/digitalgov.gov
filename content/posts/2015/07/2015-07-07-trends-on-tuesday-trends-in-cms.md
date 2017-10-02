@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-trends-in-cms
 date: 2015-07-07 11:57:30 -0400
 title: 'Trends on Tuesday: Trends in CMS'
-summary: 'A Content Management System (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or deciding whether you need one at all) is one that many agencies have faced. It&rsquo;s not an easy choice because there are many solutions available to content managers. As government agencies, the majority of content we deliver is'
+summary: 'A Content Management System (CMS) allows people to easily publish, maintain and update information online. Choosing a CMS (or deciding whether you need one at all) is one that many agencies have faced. It’s not an easy choice because there are many solutions available to content managers. As government agencies, the majority of content we deliver is'
 authors:
   - kdaniel
 categories:

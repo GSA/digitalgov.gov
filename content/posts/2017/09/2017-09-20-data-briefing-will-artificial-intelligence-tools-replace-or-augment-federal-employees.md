@@ -2,7 +2,7 @@
 slug: data-briefing-will-artificial-intelligence-tools-replace-or-augment-federal-employees
 date: 2017-09-20 11:00:44 -0400
 title: 'The Data Briefing&#58; Will Artificial Intelligence Tools Replace or Augment Federal Employees&#63;'
-summary: 'A Washington, D&#46;C&#46; think tank recently released reports advocating using artificial intelligence &#40;AI&#41; tools to reorganize the federal government&#46;'
+summary: 'A Washington, D.C. think tank recently released reports advocating using artificial intelligence (AI) tools to reorganize the federal government.'
 authors:
   - bbrantley
 categories:
@@ -14,7 +14,7 @@ tag:
   - human-resources
 featured_image:
   uid:
-  alt: 'Automation of business workflows and processes with businessman&#46;'
+  alt: 'Automation of business workflows and processes with businessman.'
 ---
 
 A Washington, D.C. think tank recently released [reports](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx) advocating using artificial intelligence (AI) tools to reorganize the federal government. There has been a larger debate about the effects of automation on the [private sector and the American economy](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF), but this appears to be one of the few reports focusing on the federal government. According to the think tank, the U.S. government “[could yield $23.9 billion in reduced personnel costs and a reduction in the size of the federal workforce by 288,000](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx).” The authors of this report argue that the real value of AI is in replacing federal workers.
@@ -42,7 +42,7 @@ An interesting trend in government that argues for the augmentation of federal w
 
 If you are a federal worker and want to know if your job is in danger of being replaced by AI tools, consider the five factors. How much of your job depends on your expertise, the ability to manage people and the unpredictability of your work tells you where you fall on the AI augmentation/replacement continuum. The chances are that you could benefit from AI augmentation to help you better navigate the VUCA environment of your federal work.
 
- HR
+ ---
 
 _Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
 _[Dr. William Brantley]({{< link "author/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._

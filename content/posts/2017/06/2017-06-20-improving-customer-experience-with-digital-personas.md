@@ -2,7 +2,7 @@
 slug: improving-customer-experience-with-digital-personas
 date: 2017-06-20 10:55:09 -0400
 title: Improving Customer Experience with Digital Personas
-summary: 'Keeping the customer&rsquo;s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust&mdash;and data informed&mdash;understanding of the individuals that engage digitally with the National Archives (NARA). User personas are fictional, but realistic representations of key audience'
+summary: 'Keeping the customer’s needs front and center is important when developing new digital tools. We recently developed a set of user personas as part of our work to establish a more robust&mdash;and data informed&mdash;understanding of the individuals that engage digitally with the National Archives (NARA). User personas are fictional, but realistic representations of key audience'
 authors:
   - archivist-of-the-united-states
 categories:

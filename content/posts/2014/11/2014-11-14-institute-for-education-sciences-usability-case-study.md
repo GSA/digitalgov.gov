@@ -2,7 +2,7 @@
 slug: institute-for-education-sciences-usability-case-study
 date: 2014-11-14 10:00:32 -0400
 title: 'Institute of Education Sciences &#8211; Usability Case Study'
-summary: 'After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the Institute of Education Sciences (IES). Their complaints prompted a Plain Language makeover for the Institute&rsquo;s funding materials. As the research arm of the U.S. Education Department, IES&rsquo;s mission is to provide rigorous and relevant evidence'
+summary: 'After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the Institute of Education Sciences (IES). Their complaints prompted a Plain Language makeover for the Institute’s funding materials. As the research arm of the U.S. Education Department, IES’s mission is to provide rigorous and relevant evidence'
 authors:
   - katina-stapleton
 categories:
