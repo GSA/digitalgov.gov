@@ -11,7 +11,7 @@ end_date: 2017-10-11 15:00:00 -0400
 event_organizer: DigitalGov University
 host: PLAIN
 registration_url: https://www.eventbrite.com/e/an-around-the-world-recap-plain-monthly-meeting-registration-38539458558
-youtube: 
+youtube: https://www.youtube.com/watch?v=3FKyVeipMss
 ---
 
 In this month's meeting, the Plain Language Action and Information Network (PLAIN) co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain
