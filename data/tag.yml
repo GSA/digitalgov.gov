@@ -11,15 +11,15 @@ a-b-testing:
 abmc:
   display_name: "ABMC"
 accessibility:
- display_name: "Accessibility"
+  display_name: "Accessibility"
 acquisition:
- display_name: "Acquisition"
+  display_name: "Acquisition"
 administration-on-aging:
- display_name: "Administration On Aging"
+  display_name: "Administration On Aging"
 administrative-office-of-the-united-states-courts:
- display_name: "Administrative Office Of The United States Courts"
+  display_name: "Administrative Office Of The United States Courts"
 agile:
- display_name: "Agile"
+  display_name: "Agile"
 agile-lean-community-of-practice:
   display_name: "Agile/Lean Community Of Practice"
 ai:
