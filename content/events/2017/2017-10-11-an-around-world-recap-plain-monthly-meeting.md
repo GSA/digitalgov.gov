@@ -16,10 +16,6 @@ youtube: https://www.youtube.com/watch?v=3FKyVeipMss
 
 In this month's meeting, the [Plain Language Action and Information Network (PLAIN)](https://www.digitalgov.gov/communities/plain-language-community-of-practice/) co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria.
 
-<<<<<<< HEAD
 The second Wednesday of every month, PLAIN hosts a monthly meeting from 2-3 p.m. Hosted by DigitalGov, the meetings are recorded and posted to [DigitalGov's YouTube channel](https://www.youtube.com/digitalgov).
-=======
-The second Wednesday of every month, PLAIN hosts a monthly meeting from 2-3 p.m. The meetings are recorded and posted to Digital Gov's YouTube channel.
->>>>>>> 9efe679df53a5790fc0321200ee8ad5276f79437
 
 In addition to addressing timely topics, like science communications and health literacy, typical discussions include: plain language training; hands-on editing exercises; how to write for web and social media; and content strategy.
