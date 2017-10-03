@@ -2,7 +2,7 @@
 slug: an-around-world-recap-plain-monthly-meeting
 title: 'An Around the World Recap PLAIN Monthly Meeting'
 summary: 'In this online event, PLAIN co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria'
-featured_image: 
+featured_image:
   uid: tile-3
   alt: 'decorative image'
 event_type: online
@@ -18,5 +18,5 @@ In this month's meeting, the Plain Language Action and Information Network (PLAI
 Language Association International conference in Graz, Austria.
 
 The second Wednesday of every month, PLAIN hosts a monthly meeting from 2-3 p.m. Hosted by Digital Gov, the metings are recorded and posted to Digital Gov's YouTube channel.
- 
+
 In addition to addressing timely topics, like science communications and health literacy, typical discussions include: plain language training; hands-on editing exercises; how to write for web and social media; and content strategy.
