@@ -1,0 +1,7 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- with .Site.Taxonomies.tag -}}
+  {{- range $t, $value := . -}}
+    {{- $.Scratch.Add "index" (dict "slug" $t "display_name" "hello" ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

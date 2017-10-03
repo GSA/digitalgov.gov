@@ -29,6 +29,8 @@ outputFormats:
     notAlternative: true
   RSS:
     mediatype: "application/rss"
+  JSON:
+    mediatype: "application/json"
 
 outputs:
   home: ["HTML","RSS","SiteImages"]
