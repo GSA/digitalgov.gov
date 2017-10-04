@@ -1,8 +1,8 @@
 ---
 slug: slack-ama-connect-standards-team-with-public
-date: 2017-09-18 15:47:04 -0400
+date: 2017-09-25 15:47:04 -0400
 title: 'Slack AMA Connect Standards Team with Public'
-summary: 'The Standards team hosted their first AMA &#40;Ask Me Anything&#41; with the public in August&#46; Here&#39;s a breakdown of the big topics discussed during the chat&#46;'
+summary: 'The Standards team hosted their first AMA (Ask Me Anything) with the public in August. Here’s a breakdown of the big topics discussed during the chat.'
 authors:
   - john-donmoyer
   - marco-segreto

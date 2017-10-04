@@ -2,7 +2,7 @@
 slug: training-trends-in-2014.md
 date: 2015-01-23 10:00:50 -0400
 title: Training Trends in 2014
-summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations of the 21st century citizen customer better. Whew. That&rsquo;s a mouthful.'
+summary: 'In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations of the 21st century citizen customer better. Whew. That’s a mouthful.'
 authors:
   - apiazza
 categories:

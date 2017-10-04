@@ -2,7 +2,7 @@
 slug: analytics-usa-gov-now-with-agency-specific-dashboards
 date: 2016-02-18 11:10:51 -0400
 title: 'Analytics.usa.gov: Now with Agency-Specific Dashboards'
-summary: 'We&rsquo;ve added agency-specific dashboards to analytics.usa.gov! Starting today, you&rsquo;ll see a dropdown from the main analytics.usa.gov page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10'
+summary: 'We’ve added agency-specific dashboards to analytics.usa.gov! Starting today, you’ll see a dropdown from the main analytics.usa.gov page that allows you to view the same dashboard, but filtered for websites that are administered by one of 10'
 authors:
   - tlowden
   - gray-brooks

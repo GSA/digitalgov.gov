@@ -2,7 +2,7 @@
 slug: the-api-briefing-how-apis-provide-localized-information-noaas-weather-service-data-and-fccs-broadband-services-map
 date: 2014-07-09 10:30:10 -0400
 title: 'The API Briefing: How APIs Provide Localized Information &#8211; NOAA’s Weather Service Data and FCC’s Broadband Services Map'
-summary: 'The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau&rsquo;s surveys to the FDA&rsquo;s local agricultural conditions. Thanks to GPS, app developers can locate a user&rsquo;s immediate geographical location and tailor information based'
+summary: 'The two featured APIs this week are excellent demonstrations of personalizing federal government data by where a user lives. Federal agencies collect a considerable amount of community data, from the Census Bureau’s surveys to the FDA’s local agricultural conditions. Thanks to GPS, app developers can locate a user’s immediate geographical location and tailor information based'
 authors:
   - bbrantley
 categories:

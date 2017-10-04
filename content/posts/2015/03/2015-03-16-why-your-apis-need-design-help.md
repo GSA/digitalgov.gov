@@ -2,7 +2,7 @@
 slug: why-your-apis-need-design-help
 date: 2015-03-16 10:00:28 -0400
 title: Why Your APIs Need Design Help
-summary: ' Anything built should be built right. It doesn&#8217;t matter if it&rsquo;s built of wood, carbon nanotubes or code. So it&rsquo;s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with'
+summary: ' Anything built should be built right. It doesn&#8217;t matter if it’s built of wood, carbon nanotubes or code. So it’s encouraging that the practice of User-Centered Design&mdash;getting customer feedback at every stage of a project&mdash;is catching on with'
 authors:
   - jonathan-rubin
 categories:

@@ -2,7 +2,7 @@
 slug: community-rock-star-round-up.md
 date: 2015-07-30 10:00:21 -0400
 title: Community Rock Star Round Up
-summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thought we&rsquo;d round up your community rock stars. These are people in your communities who&rsquo;ve gone above and beyond, who&rsquo;ve contributed content, organized events, participated in developing toolkits and more. Let&rsquo;s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
+summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
 authors:
   - apiazza
 categories:

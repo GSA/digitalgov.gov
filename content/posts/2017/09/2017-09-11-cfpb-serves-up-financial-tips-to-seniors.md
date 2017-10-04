@@ -4,7 +4,7 @@ date: 2017-09-11 10:00:44 -0400
 title: CFPB Serves up Financial Tips to Seniors
 authors:
   - erin-scheithe
-summary: 'The Consumer Financial Protection Bureau and Meals on Wheels America have created multilingual educational resources about financial scams that target the elderly which can be easily distributed to seniors in the communities they serve, and downloaded or ordered in bulk for free by the general public. The Consumer Financial Protection Bureau&rsquo;s (CFPB) Consumer Education &'
+summary: 'The Consumer Financial Protection Bureau and Meals on Wheels America have created multilingual educational resources about financial scams that target the elderly which can be easily distributed to seniors in the communities they serve, and downloaded or ordered in bulk for free by the general public. The Consumer Financial Protection Bureau’s (CFPB) Consumer Education &'
 featured_image:
   uid: 'english-cfpb-placemat-fill-in-the-blank'
   alt: 'A placemat for financial scams in English.'

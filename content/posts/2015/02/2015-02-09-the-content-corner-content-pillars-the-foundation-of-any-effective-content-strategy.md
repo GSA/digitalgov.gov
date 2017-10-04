@@ -2,7 +2,7 @@
 slug: the-content-corner-content-pillars-the-foundation-of-any-effective-content-strategy
 date: 2015-02-09 1:33:53 -0400
 title: 'The Content Corner: Content Pillars: The Foundation of Any Effective Content Strategy'
-summary: 'If you and your organization don&rsquo;t already have a content strategy, then you are most likely working too hard to create content that is less effective in communicating your desired message and less relevant to your end-user. The lack of a content strategy can leave you at the mercy of the content &ldquo;beast&rdquo; where you'
+summary: 'If you and your organization don’t already have a content strategy, then you are most likely working too hard to create content that is less effective in communicating your desired message and less relevant to your end-user. The lack of a content strategy can leave you at the mercy of the content &ldquo;beast&rdquo; where you'
 authors:
   - tyrus-manuel
 categories:

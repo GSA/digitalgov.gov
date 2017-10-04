@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
   };
 
   // The small words we are removing from the filenames and URLs
-  var small_words = /and |the |are |is |of |to /gi; // these are the small words we are removing from urls
+  var small_words = /\band |\bthe |\bare |\bis |\bof |\bto /gi; // these are the small words we are removing from urls
 
 
 

@@ -2,7 +2,7 @@
 slug: trends-on-tuesday-the-impact-of-mobilegeddon-on-non-mobile-friendly-sites
 date: 2015-08-11 10:00:11 -0400
 title: 'Trends on Tuesday: The Impact of ‘Mobilegeddon’ on Non Mobile-Friendly Sites'
-summary: 'Adobe released its quarterly Adobe Digital Index report this month, which showed websites that aren&#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google&rsquo;s organic search referrals. This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren&rsquo;t optimized for mobile&mdash;also called &#8220;Mobilegeddon.&#8221; Microsoft&rsquo;s Bing search engine also'
+summary: 'Adobe released its quarterly Adobe Digital Index report this month, which showed websites that aren&#8217;t mobile optimized are seeing more than double-digit drops in traffic from Google’s organic search referrals. This is after the leading search engine announced it would start penalizing websites, after April 21st, that weren’t optimized for mobile&mdash;also called &#8220;Mobilegeddon.&#8221; Microsoft’s Bing search engine also'
 authors:
   - wsullivan
 categories:

@@ -2,7 +2,7 @@
 slug: digital-analytics-program-among-finalists-for-igniting-innovation-award
 date: 2015-02-24 11:10:32 -0400
 title: Digital Analytics Program Among Finalists for Igniting Innovation Award
-summary: 'The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice. Recently, Data.gov and DigitalGov&rsquo;s Digital Analytics Program (DAP) were recognized by the American Council for Technology and Industry Advisory Council (ACT-IAC), among 30 other finalists for the Igniting Innovation Award. ACT-IAC&rsquo;s'
+summary: 'The federal government has IT challenges, and innovative federal projects are tackling those challenges head-on. As projects gain momentum, outside organizations have taken notice. Recently, Data.gov and DigitalGov’s Digital Analytics Program (DAP) were recognized by the American Council for Technology and Industry Advisory Council (ACT-IAC), among 30 other finalists for the Igniting Innovation Award. ACT-IAC’s'
 authors:
   - ktrebon
 categories:

@@ -10,6 +10,7 @@ SectionPagesMenu        : "main"
 Paginate                : 100
 googleAnalytics         : ""
 enableRobotsTXT         : false
+enableEmoji             : true
 
 ignoreFiles:
   - "^_template"

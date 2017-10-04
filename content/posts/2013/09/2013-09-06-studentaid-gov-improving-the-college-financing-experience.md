@@ -2,7 +2,7 @@
 slug: studentaid-gov-improving-the-college-financing-experience
 date: 2013-09-06 15:42:06 -0400
 title: 'StudentAid.gov: Improving the College Financing Experience'
-summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).  Established in late 2010, FSA&rsquo;s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.  The launch of StudentAid.gov in July 2012,'
+summary: 'Guest post by Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA).  Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid.  The launch of StudentAid.gov in July 2012,'
 authors:
   - brenda-wensil
 categories:

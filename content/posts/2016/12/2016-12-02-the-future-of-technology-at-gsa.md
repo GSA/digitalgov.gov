@@ -2,7 +2,7 @@
 slug: the-future-of-technology-at-gsa
 date: 2016-12-02 12:00:54 -0400
 title: The Future of Technology at GSA
-summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that. TECHNOLOGY IS NOT PARTISAN &ldquo;If it&rsquo;s important, it&rsquo;s important for all administrations,&rdquo; said GSA Technology Transformation'
+summary: 'Our work can transform government The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and technology is the key to that. TECHNOLOGY IS NOT PARTISAN &ldquo;If it’s important, it’s important for all administrations,&rdquo; said GSA Technology Transformation'
 authors:
   - gsa-blog-team
 categories:

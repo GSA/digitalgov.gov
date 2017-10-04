@@ -2,7 +2,7 @@
 slug: recap-how-to-overcome-cultural-resistance-to-agile-in-government
 date: 2016-04-22 10:00:11 -0400
 title: 'Recap: How to Overcome Cultural Resistance to Agile in Government'
-summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses are twice as powerful, psychologically, as gains,&rsquo; federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it'
+summary: 'Armed with the knowledge that &lsquo;most studies suggest that losses are twice as powerful, psychologically, as gains,’ federal change agents can better prepare for possible cultural resistance as they begin to implement agile practices at their agencies. There are a variety of resistant-to-change personas (change is painful for most of us, but we dislike it'
 authors:
   - andreanocesigritz
 categories:

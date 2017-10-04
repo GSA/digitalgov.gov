@@ -2,7 +2,7 @@
 slug: secrets-to-dynamite-public-sector-analytics-program
 date: 2014-10-17 10:00:37 -0400
 title: Secrets to a Dynamite Public Sector Analytics Program
-summary: ' Uncovering meaningful analytics from months or years of Web metrics is daunting, at best. So how do you make great Web improvements using metrics? Whether you&rsquo;re just getting started in Web analytics or you want to take your program to the next level, you should focus on'
+summary: ' Uncovering meaningful analytics from months or years of Web metrics is daunting, at best. So how do you make great Web improvements using metrics? Whether you’re just getting started in Web analytics or you want to take your program to the next level, you should focus on'
 authors:
   - hannah-gladfelter-rubin
 categories:
