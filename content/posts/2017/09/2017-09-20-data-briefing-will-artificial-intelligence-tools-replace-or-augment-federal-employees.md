@@ -13,8 +13,8 @@ tag:
   - artificial-intelligence
   - human-resources
 featured_image:
-  uid:
-  alt: 'Automation of business workflows and processes with businessman.'
+  uid: automation-of-business-workflows-and-processes-with-businessman-nicoelnino-istock-thinkstock-612012708
+  alt:
 ---
 
 A Washington, D.C. think tank recently released [reports](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx) advocating using artificial intelligence (AI) tools to reorganize the federal government. There has been a larger debate about the effects of automation on the [private sector and the American economy](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF), but this appears to be one of the few reports focusing on the federal government. According to the think tank, the U.S. government “[could yield $23.9 billion in reduced personnel costs and a reduction in the size of the federal workforce by 288,000](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx).” The authors of this report argue that the real value of AI is in replacing federal workers.
@@ -31,8 +31,7 @@ So, what type of federal jobs could be replaced by AI? [It depends on five facto
 4. “Benefits of automation beyond labor-cost substitution.”
 5. “Regulatory and social-acceptance considerations.”
 
-IMAGE
-NicoElNino/iStock/Thinkstock
+{{< img src="automation-of-business-workflows-and-processes-with-businessman-nicoelnino-istock-thinkstock-612012708" >}}
 
 Based on these factors, the most susceptible types of jobs to be replaced by AI involve predictable physical work, data processing, and data collection. Jobs not currently ripe for AI automation (but may be soon) are unpredictable physical work or stakeholder interactions. The least susceptible job types are the ones where federal employees are applying expertise and/or managing others.
 
@@ -45,4 +44,5 @@ If you are a federal worker and want to know if your job is in danger of being r
  ---
 
 _Each week, [The Data Briefing]({{< link "tag/the-data-briefing" >}}) showcases the latest federal data news and trends. Visit this blog every week to learn how data is transforming government and improving government services for the American people. If you have ideas for a topic or have questions about government data, please [contact me via email](mailto:William.Brantley@uspto.gov?subject=The%20Data%20Briefing)._
+
 _[Dr. William Brantley]({{< link "author/bbrantley" >}})) is the Training Administrator for the U.S. Patent and Trademark Office’s Global Intellectual Property Academy. All opinions are his own and do not reflect the opinions of the USPTO or GSA._
