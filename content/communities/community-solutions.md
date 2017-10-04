@@ -8,11 +8,17 @@ summary: 'A community of federal staff who provide services to local communities
 
 A community of federal staff who provide services to local communities in a holistic and collaborative way by developing innovative and cross-cutting partnerships.
 
+## Join
+
+To join, [fill out the "Join Our Listserv" form](https://communitysolutions.sites.usa.gov/join-our-listserv/) on the [Community Solutions website](https://communitysolutions.sites.usa.gov).
+
 ## Who Are We?
 
 We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.
 
 The Community Solutions Community of Practice is made up of over 950 federal employees from across the country and 36 agencies and sub-agencies who are dedicated to improving service delivery to the American public.
+
+https://communitysolutions.sites.usa.gov
 
 ## What We Do
 
@@ -23,7 +29,3 @@ Our approach acknowledges that local residents and leaders know what their commu
 ## Innovation Exchanges
 
 One of the most valuable benefits of becoming a member of our Community of Practice is access to the Innovation Exchanges, (a) biweekly sessions that highlight (highlights) innovative tools, research, and partnerships that have been proven to be successful and highly impactful. The topics of these sessions vary widely but they all provide participants with a set of strategies and tools that can be applied broadly. Moreover, each session has a Q&A portion that allows our members to engage with the expert hosts.
-
-## How to Join
-
-To join, [fill out the **Join Our Listserv** form](https://communitysolutions.sites.usa.gov/join-our-listserv/) on the [Community Solutions website](https://communitysolutions.sites.usa.gov).
