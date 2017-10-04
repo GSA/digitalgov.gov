@@ -2,31 +2,30 @@
 url: /communities/federal-crowdsourcing-and-citizen-science/
 uid: federal-crowdsourcing-and-citizen-science
 date: 2015-09-29 2:17:02 -0400
-title: Federal Crowdsourcing and Citizen Science
-summary: If you had 100,000 people to help you with your work, what would you do? The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. Learn More The community is open to
-authors:
-  - tburwell
+title: 'Federal Crowdsourcing and Citizen Science'
+summary: 'The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'
 ---
 
 If you had 100,000 people to help you with your work, what would you do?
 
-The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives. {{< legacy-img src="/2015/09/400-x-266-fazd-center-demonstration-dhs.jpg" alt="The Enhanced Passive Surveillance System: Crowdsourcing for Early Detection of Animal Disease Outbreaks. Dr. Lindsey Holmstrom, an epidemiologist with the FAZD Center, demonstrates how data is entered directly from the field using an AgConnect app on an iPad." caption="" >}}
+The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
 
-## Learn More
+### Join
+The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address is welcome to join.
+
+Send an e-mail to [listserv@listserv.gsa.gov](listserv@listserv.gsa.gov) with no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
+
+
+### Learn More
 
 The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address can join our listserv by <a href="mailto:listserv@listserv.gsa.gov" target="_blank">emailing the listserv</a>. The message should have no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
-<div style="text-align: center">
-  <a class="button" href="{{< link "manage-your-listserv-subscription.md" >}}">Manage Your Subscriptions</a>
-</div>
 
 For more information or for meeting location and call-in details, please contact:
+- [Jay Benforado](mailto:Benforado.Jay@epa.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science), Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
+- [Sophia B. Liu](mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science), Innovation Specialist, Science and Decisions Center, U.S. Geological Survey (USGS)
 
-[Jay Benforado](mailto:Benforado.Jay@epa.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science), Deputy Chief Innovation Officer, Office of Research and Development, Environmental Protection Agency (EPA)
-
-[Sophia B. Liu](mailto:sophialiu@usgs.gov?subject=Federal Community of Practice on Crowdsourcing and Citizen Science), Innovation Specialist, Science and Decisions Center, U.S. Geological Survey  (USGS)
-
-Our community meets on the last Thursday of every month from 2:30 &#8211; 4:30 pm, hosted by member agencies.
+Our community meets on the last Thursday of every month from 2:30 — 4:30 PM ET, hosted by member agencies.
 
 ## What We Do
 
@@ -34,11 +33,11 @@ As affiliates of federal agencies, we seek to expand and improve the U.S. govern
 
 We focus on crowdsourcing and citizen science, and their synergies with other participatory approaches (for example: DIY development of low-cost sensors for citizen science). We use the following definitions as guidelines for the scope of the group—always a work in progress—while acknowledging that these activities overlap significantly.
 
-  * Open innovation is a paradigm that suggests that organizations can and should solicit contributions from external volunteers. This broad category encompasses CCS as well as a growing list of other methods.
-  * Citizen science mobilizes the public to participate in the scientific process to address real-world problems, in ways that include identifying research questions, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems.
-  * Crowdsourcing is a process of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community.
-  * Crowdmapping, a subset of crowdsourcing, is a process where individuals or organizations submit an open call for geographic information or information with an associated geographic location from volunteers to produce collaborative maps.
-  * Do-it-yourself (DIY) / making shares methods of creating, modifying, or repairing things without the aid of professional experts. Tools created by Makers—for example, low-cost sensors and scientific instruments—can make direct participation in STEM activities more accessible to the public.
+- Open innovation is a paradigm that suggests that organizations can and should solicit contributions from external volunteers. This broad category encompasses CCS as well as a growing list of other methods.
+- Citizen science mobilizes the public to participate in the scientific process to address real-world problems, in ways that include identifying research questions, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems.
+- Crowdsourcing is a process of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community.
+- Crowdmapping, a subset of crowdsourcing, is a process where individuals or organizations submit an open call for geographic information or information with an associated geographic location from volunteers to produce collaborative maps.
+- Do-it-yourself (DIY) / making shares methods of creating, modifying, or repairing things without the aid of professional experts. Tools created by Makers—for example, low-cost sensors and scientific instruments—can make direct participation in STEM activities more accessible to the public.
 
 The CCS community is committed to sharing skills, resources, and experience to support the expansion and improvement of public participation projects across the federal government. Our accomplishments and past events include:
 
