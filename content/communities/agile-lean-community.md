@@ -10,20 +10,20 @@ The Agile/Lean Community of Practice was started to bring together federal emplo
 
 The Agile/Lean Community of Practice is ran by Logan Powell and Dr. Bill Brantley.
 
-## Join
+### Join
 To join, send an e-mail to **[listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov)** with no subject line and "subscribe agile-lean-cop" in the body.
 
-## Who We Are
+### Who We Are
 
 We are a diverse community of project managers, developers, agency leaders, and other public servants who want to improve organizational processes while becoming more personally effective in their work.
 
-## What we do
+### What we do
 The Agile/Lean Community of Practice has three goals:
 1. To share best practices and case studies of successful agile/lean projects in the federal agencies.
 2. To provide learning opportunities through unconferences, webinars, and other training to help increase the adoption of agile/lean methodologies in government.
 3. To serve as a voice for the Agile/Lean federal government community.
 
-## Key Resources
+### Key Resources
 - Agile Project Management Tutorial: What is agile project management? https://www.youtube.com/watch?v=MJR-EgHTA4E
 - Introduction to Lean Thinking https://www.youtube.com/watch?v=a255lkYgIpI
 - Overcoming Cultural Resistance to Agile in Government https://www.youtube.com/watch?v=yFY7QrJtWww
