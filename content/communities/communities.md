@@ -15,9 +15,9 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 
 [See our Community Guidelines.]
 
-## Our Communities
+### Our Communities
 
-**[Agile/Lean]({{< link "agile-lean-community-of-practice.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.
+**[Agile/Lean]({{< link "agile-lean-community.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.
 [Learn more.]
 
 **[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.
