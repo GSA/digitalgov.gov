@@ -29,7 +29,6 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **BusinessUSA**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
 [Learn more.]
 
-
 **[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.
 [Learn more.]
 
@@ -60,7 +59,7 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[SocialGov]({{< link "social-media.md" >}})**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.
 [Learn more.]
 
-[**User Experience**]({{< link "federal-user-experience-community-of-practice.md" >}}): User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.
+**[User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.
 [Learn more.]
 
 **[Video Production Pros]** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.
