@@ -10,12 +10,12 @@ Our goal is to promote the use of plain language for all government communicatio
 
 And it’s the law: The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 125 KB) mandates plain language for certain audiences and tasks.
 
-## Join
+### Join
 
 To Join our listserv, [please fill out this form](https://listserv.gsa.gov/cgi-bin/wa.exe?SUBED1=PL-COP-MAIN).
 
 
-## Who we are
+### Who we are
 
 The Plain Language Action and Information Network (PLAIN) Community of Practice (PL-COP) is an inter-agency group of plain language practitioners from many different federal government agencies and specialties who support the use of clear communication in government writing.
 
