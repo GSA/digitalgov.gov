@@ -3,8 +3,6 @@ url: /communities/manage-your-listserv-subscription/
 date: 2016-04-22 12:52:52 -0400
 title: Manage Your Listserv Subscription
 summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information. The handy tips that follow will help you manage your GSA listserv subscription. Confirm that your community&rsquo;s list is hosted by GSA by checking that the email address ends in'
-authors:
-  - apiazza
 ---
 
 GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.
@@ -24,7 +22,7 @@ When sending a message to the entire listserv, consider that your message is goi
 ## How to Send a Message
 
 Any listserv member can send a message to the group by using this email address:
-  
+
 **_[Name of YOUR listserv]_@listserv.gsa.gov**, (e.g., _CONTENT-MANAGERS-L_@listserv.gsa.gov).
 
 Some lists distribute your message immediately, while others are configured to ask you to verify your message before it’s distributed to the list. This is to reduce viruses and spam on the listserv.
@@ -56,57 +54,57 @@ When using these commands, always:
     <td style="width: 50%">
       <strong>Action</strong>
     </td>
-    
+
     <td>
       <strong>Command Line</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Remove yourself from the list
     </td>
-    
+
     <td>
       signoff <em>TESTLIST</em>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Receive a daily digest of plain text posts; recommended for users with plain text email systems
     </td>
-    
+
     <td>
       set <em>TESTLIST</em> digest
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Receive digest in MIME format; recommended for <strong>Lotus Notes</strong> users
     </td>
-    
+
     <td>
       set <em>TESTLIST</em> digest mime nohtml
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Receive digest in HTML format; recommended for <strong>MS Outlook</strong> users
     </td>
-    
+
     <td>
       set <em>TESTLIST</em> digest html
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Receive messages one-by-one as they are posted; recommended for all users
     </td>
-    
+
     <td>
       set <em>TESTLIST</em> nodigest
     </td>
