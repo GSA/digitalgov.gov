@@ -13,7 +13,7 @@ The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) wor
 ### Join
 The community is open to all federal practitioners working on, funding, or just interested in learning more about crowdsourcing and citizen science. Anyone with a .gov or .mil email address is welcome to join.
 
-Send an e-mail to [listserv@listserv.gsa.gov](listserv@listserv.gsa.gov) with no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
+Send an e-mail to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=&amp;body=subscribe%20FCPCCS) with no subject and the body should say “**subscribe FCPCCS**.” Be sure to remove your signature from the body of the e-mail, so that the message remains blank.
 
 
 ### Learn More
@@ -27,7 +27,7 @@ For more information or for meeting location and call-in details, please contact
 
 Our community meets on the last Thursday of every month from 2:30 — 4:30 PM ET, hosted by member agencies.
 
-## What We Do
+### What We Do
 
 As affiliates of federal agencies, we seek to expand and improve the U.S. government’s use of crowdsourcing, citizen science, and similar public participation techniques for the purpose of enhancing agency mission, scientific, and societal outcomes.
 
@@ -57,7 +57,7 @@ The _Open Government National Action Plan_ committed the Federal government to �
 
 The General Services Administration (GSA) partnered with the Wilson Center to launch [citizenscience.gov](https://www.citizenscience.gov/), a new central hub for citizen science and crowdsourcing initiatives in the public sector. The new site provides information, resources, and tools for government personnel and others actively engaged in or looking to participate in citizen science and crowdsourcing projects. In addition to information about CCS community activities, citizenscience.gov features a searchable catalog of federally supported citizen science projects and access to the toolkit to assist with designing and maintaining projects.The catalog was developed in response to a September 2015 [memorandum](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf) from OSTP.
 
-## Leadership and History
+### Leadership and History
 
 The CCS community was founded in 2012 by Lea Shanley (co-chair Emeritus). Five people came to the first meeting; the group has since expanded to almost 300 members. Current leadership includes
 
@@ -69,20 +69,12 @@ The CCS community was founded in 2012 by Lea Shanley (co-chair Emeritus). Five p
 
 **CCS Steering Committee (as of 4/13/2016):**
 
-Bill Brantley, U.S. Patent and Trade Office (PTO)
-
-Ben Butler, Forest Service (USFS)
-
-Jennifer Couch, National Institutes of Health (NIH)
-
-Ruthanna Gordon, contractor, Intelligence Advanced Research Projects Agency (IARPA)
-
-Amy Kaminski, NASA
-
-Amanda Kaufman, EPA ORISE fellow
-
-Ellen McCallie, National Science Foundation (NSF)
-
-Alison Parker, EPA ORISE fellow
-
-Holli Riebeek, NASA
+- Bill Brantley, U.S. Patent and Trade Office (PTO)
+- Ben Butler, Forest Service (USFS)
+- Jennifer Couch, National Institutes of Health (NIH)
+- Ruthanna Gordon, contractor, Intelligence Advanced Research Projects Agency (IARPA)
+- Amy Kaminski, NASA
+- Amanda Kaufman, EPA ORISE fellow
+- Ellen McCallie, National Science Foundation (NSF)
+- Alison Parker, EPA ORISE fellow
+- Holli Riebeek, NASA
