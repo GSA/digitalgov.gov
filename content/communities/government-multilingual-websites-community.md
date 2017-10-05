@@ -10,9 +10,9 @@ We are a group of federal, state and local government content managers, formerly
 
 ### Join
 
-[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv. Or send an e-mail to group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
+[Fill out this form](https://docs.google.com/spreadsheet/viewform?formkey=dHI0aTEwWXh2NURMR0gzR3ozVlJ2T2c6MQ) to subscribe to our listserv or send an e-mail to group Chair, [Laura Godfrey](mailto:laura.godfrey@gsa.gov).
 
-Join us if you are a government employee working  for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
+Join us if you are a government employee working for a federal, state or local U.S. government agency or a contractor with a government email address working on government digital content.
 
 ### Who we are
 
