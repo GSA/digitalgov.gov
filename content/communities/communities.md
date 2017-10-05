@@ -1,39 +1,36 @@
 ---
 url: /communities/
-type: docs
-layout: 1col
+uid: communities
 date: 2013-11-17 11:12:13 -0400
-title: Communities
+title: 'Communities of Practice'
 summary: 'Communities unite federal teams with over 12,000 memberships across 16 active mission areas&mdash;the largest and most active inter-agency network of transformative federal government managers&mdash;as critical mission hubs that provide a platform for sharing, developing and implementing strategies. Their contributions are limitless in their impact, including the introduction of citizen voice platforms like Yelp for public services'
 
 ---
 
-Come together, learn from others in government.
+### Come together, learn from others in government.
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
-There are more than 10,000 people participating from x agencies/bureaus all across government in 16 areas.
-
-Our members share resources, work on solutions together and serve as a catalyst for  change in government.
+There are more than 10,000 people participating from x agencies/bureaus all across government in 16 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
 [See our Community Guidelines.]
 
-## Communities Roster
+## Our Communities
 
-**Agile/Lean**: Increasing awareness of the Lean Startup philosophy and agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.
+**[Agile/Lean]({{< link "agile-lean-community-of-practice.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.
 [Learn more.]
 
-**Artificial Intelligence for Citizen Services**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.
+**[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.
 [Learn more.]
 
-**Blockchain**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.
+**[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.
 [Learn more.]
 
 **BusinessUSA**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
 [Learn more.]
 
 
-**[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
+**[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.
 [Learn more.]
 
 **[Community Solutions]({{< link "community-solutions.md" >}})**: A community of government to provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.
@@ -42,16 +39,16 @@ Our members share resources, work on solutions together and serve as a catalyst 
 **[Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
 [Learn more.]
 
-**[G3C]({{< tmp "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.
+**[G3C]({{< link "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.
 [Learn more.]
 
 **[Government Customer Experience]({{< link "customer-experience-community.md" >}})**: Improving the public’s experience when they interact with government.
 [Learn more.]
 
-**[MobileGov]({{< link "categories/mobile" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
+**[MobileGov]({{< link "mobile.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
 [Learn more.]
 
-[**Multilingual Digital Group**]({{< link "government-multilingual-websites-community.md" >}}): Expanding and improving access to digital content on different platforms in languages other than English.
+**[Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.
 [Learn more.]
 
 **Open Data:** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.
@@ -72,7 +69,7 @@ Our members share resources, work on solutions together and serve as a catalyst 
 **[Virtual/Augmented Reality]**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.
 [Learn more.]
 
-**[Web Content Managers]**({{< link "web-managers-forum.md" >}}): Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
+**[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
 [Learn more.]
 
 ## Community Guidelines
