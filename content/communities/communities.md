@@ -3,7 +3,7 @@ url: /communities/
 uid: communities
 date: 2013-11-17 11:12:13 -0400
 title: 'Communities of Practice'
-summary: 'Communities unite federal teams with over 12,000 memberships across 16 active mission areas&mdash;the largest and most active inter-agency network of transformative federal government managers&mdash;as critical mission hubs that provide a platform for sharing, developing and implementing strategies. Their contributions are limitless in their impact, including the introduction of citizen voice platforms like Yelp for public services'
+summary: 'Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.'
 
 ---
 
@@ -26,7 +26,7 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**BusinessUSA**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
+**[BusinessUSA]({{< link "business-usa.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
 [Learn more.]
 
 **[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.
@@ -52,6 +52,8 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 
 **[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.
 [Learn more.]({{< link "open-data.md" >}})
+
+**[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies. [Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
 
 **[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
