@@ -15,8 +15,8 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 
 ### Our Communities
 
-**[Agile/Lean]({{< link "agile-lean-community.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "agile-lean-community.md" >}})
+**[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
 
 **[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
@@ -24,29 +24,29 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**[BusinessUSA]({{< link "business-usa.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.<br/>
+**[Business USA]({{< link "business-usa.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "business-usa.md" >}})
 
-**[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes-community.md" >}})
+**[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
 **[Community Solutions]({{< link "community-solutions.md" >}})**: A community of government to provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "community-solutions.md" >}})
 
-**[Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})
+**[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "crowdsourcing-and-citizen-science.md" >}})
 
-**[G3C]({{< link "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "communities/government-contact-center-council-g3c.md" >}})
+**[G3C]({{< link "government-contact-center-council.md" >}})**: Improving government contact centers.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "government-contact-center-council.md" >}})
 
 **[Government Customer Experience]({{< link "customer-experience-community.md" >}})**: Improving the public’s experience when they interact with government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "customer-experience-community.md" >}})
 
-**[MobileGov]({{< link "mobile.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "mobile.md" >}})
+**[MobileGov]({{< link "mobilegov.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "mobilegov.md" >}})
 
-**[Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "government-multilingual-websites-community.md" >}})
+**[Multilingual Digital Group]({{< link "multilingual.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "multilingual.md" >}})
 
 **[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "open-data.md" >}})
@@ -59,11 +59,11 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[SocialGov]({{< link "social-media.md" >}})**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
 
-**[User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "federal-user-experience-community-of-practice.md" >}})
+**[User Experience]({{< link "user-experience.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
 
-**[Video Production Pros]({{< link "video-production-pros-community-of-practice.md" >}})** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "video-production-pros-community-of-practice.md" >}})
+**[Video Production Pros]({{< link "video.md" >}})** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
 **[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)

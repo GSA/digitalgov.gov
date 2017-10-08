@@ -58,7 +58,7 @@ We wanted to recognize the [Open and Structure Content Working Group](http://gsa
 
 ## User & Customer Experience (UX) & (CX)
 
-Some leaders from the [User Experience]({{< link "federal-user-experience-community-of-practice.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
+Some leaders from the [User Experience]({{< link "user-experience.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
 
 **Lin Wang**, of the U.S. Census Bureau, is the head of Census’ UX program, a federal leader in survey methodology and a great friend to the UX community. She has been sponsoring tours of their UX lab, discussing their team structure and leading workshops for the larger community.
 
