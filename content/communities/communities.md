@@ -73,18 +73,10 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
 [Learn&nbsp;more&nbsp;»]({{< link "web-managers-forum.md" >}})
 
+---
 
 ### Community Guidelines
 
-While the makeup of every individual Community may be unique—whether featuring collaborative channels, listservs, workshops, training and/or blog posts—they all share a commitment to data-driven problem solving, learning, and the development of shared solutions.
+And our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
 
-In order to maintain an official Community, facilitators must provide the following:
-
-  * Mission statement
-  * Intended outcomes achievable within six months and one year
-  * Performance measurements to gauge the impact, growth or other factors
-  * Strategy to share insights from the Community to other groups and the public
-
-Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act.
-
-For more information on Communities, or to propose a new inter-agency network, please [email Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
+For more information on Communities, or to propose a new inter-agency group, please [email Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
