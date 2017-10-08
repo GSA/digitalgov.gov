@@ -6,7 +6,7 @@ title: 'Social Media Community of Practice'
 summary: 'The Federal SocialGov Community unites over 1,200 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.'
 ---
 
-## Join
+### Join
 
 To join, [send an e-mail to Justin Herman](mailto:justin.herman@gsa.gov?subject=Join%20%23SocialGov) with “Join #SocialGov” in the subject.
 
