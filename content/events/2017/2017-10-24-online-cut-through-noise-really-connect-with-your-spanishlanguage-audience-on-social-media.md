@@ -1,7 +1,7 @@
 ---
-slug: cut-through-noise-really-connect-with-your-spanishlanguage-audience-on-social-media
-title: 'Cut through the noise and really connect with your Spanish-language audience on social media'
-summary: 'This event provide concrete tips and examples of how to reach more Spanish speakers needing and looking for government information through social media&#46; '
+slug: connect-with-your-spanishlanguage-audience-on-social-media
+title: 'Connect with your Spanish-language audience on Social Media'
+summary: 'This event provide concrete tips and examples of how to reach more Spanish speakers needing and looking for government information through social media&#46;'
 event_type: online
 date: 2017-10-24 14:00:00 -0400
 end_date: 2017-10-24 15:00:00 -0400
