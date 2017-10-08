@@ -13,70 +13,68 @@ Our communities are where people in government come together to learn, share and
 
 There are more than 10,000 people participating from x agencies/bureaus all across government in 16 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
-[See our Community Guidelines.]
-
 ### Our Communities
 
-**[Agile/Lean]({{< link "agile-lean-community.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.
+**[Agile/Lean]({{< link "agile-lean-community.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean-community.md" >}})
 
-**[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.
+**[Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)**: Analyzing, testing and developing shared resources for Artificial Intelligence capabilities to improve performance and accessibility of citizen services.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
 
-**[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.
+**[Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)**: Analyzing, testing, and developing shared resources for distributed ledger technology and its implementation within government to improve transparency, efficiency and trust in data.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
 
-**[BusinessUSA]({{< link "business-usa.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.
-[Learn more.]
+**[BusinessUSA]({{< link "business-usa.md" >}})**: Building communities of problem-solvers through open competitions that empower citizens and drive innovation in support of agency missions and the greater good.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "business-usa.md" >}})
 
-**[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.
+**[Challenges & Prizes]({{< link "challenges-prizes-community.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes-community.md" >}})
 
-**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of government to provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.
+**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of government to provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "community-solutions.md" >}})
 
-**[Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.
+**[Crowdsourcing and Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})
 
-**[G3C]({{< link "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.
+**[G3C]({{< link "communities/government-contact-center-council-g3c.md" >}})**: Improving government contact centers.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "communities/government-contact-center-council-g3c.md" >}})
 
-**[Government Customer Experience]({{< link "customer-experience-community.md" >}})**: Improving the public’s experience when they interact with government.
+**[Government Customer Experience]({{< link "customer-experience-community.md" >}})**: Improving the public’s experience when they interact with government.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "customer-experience-community.md" >}})
 
-**[MobileGov]({{< link "mobile.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.
+**[MobileGov]({{< link "mobile.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "mobile.md" >}})
 
-**[Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.
+**[Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "government-multilingual-websites-community.md" >}})
 
-**[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.
-[Learn more.]({{< link "open-data.md" >}})
+**[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.<br/>
+[Learn&nbsp;more&nbsp;»]({{< link "open-data.md" >}})
 
-**[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies. [Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
+**[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies. <br/>[Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
 
-**[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.
+**[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
 
-**[SocialGov]({{< link "social-media.md" >}})**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.
+**[SocialGov]({{< link "social-media.md" >}})**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
 
-**[User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.
+**[User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "federal-user-experience-community-of-practice.md" >}})
 
-**[Video Production Pros]({{< link "video-production-pros-community-of-practice.md" >}})** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.
+**[Video Production Pros]({{< link "video-production-pros-community-of-practice.md" >}})** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video-production-pros-community-of-practice.md" >}})
 
-**[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.
-[Learn more.](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)
+**[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
+[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)
 
-**[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.
+**[Web Content Managers]({{< link "web-managers-forum.md" >}})**: Sharing ideas, challenges, lessons learned, and best practices in managing the content of government websites.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "web-managers-forum.md" >}})
 
 ---
 
 ### Community Guidelines
 
-And our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil email addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
+Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil e-mail addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
 
-For more information on Communities, or to propose a new inter-agency group, please [email Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
+For more information on Communities, or to propose a new inter-agency group, please send an [e-mail Jacqueline Snee](mailto:jacqueline.snee@gsa.gov?subject=Communities).
