@@ -4,8 +4,6 @@ uid: federal-user-experience
 date: 2014-01-13 2:35:36 -0400
 title: Federal User Experience Community
 summary: "Our members include more than 900 federal, state, and local U.S. government employees and contractors with a valid .gov or .mil email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies."
-authors:
-  - andreanocesigritz
 ---
 
 Join our community of more than 1,000 federal User Experience practitioners, and learn how to make better, User-Centered products.
