@@ -1,9 +1,11 @@
 ---
-url: /communities/plain-language-community-of-practice/
+url: /communities/plain-language/
 uid: plain-language
 date: 2016-02-03 10:58:53 -0400
-title: Plain Language Community of Practice
-summary: 'Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.'
+title: 'Plain Language Community of Practice'
+summary: 'Our goal is to promote the use of plain language for all government communications.'
+aliases:
+  - /communities/plain-language-community-of-practice/
 ---
 
 Our goal is to promote the use of plain language for all government communications. We believe that using plain language will save federal agencies time and money and provide better customer service to the public.

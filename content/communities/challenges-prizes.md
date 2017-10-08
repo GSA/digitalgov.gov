@@ -1,9 +1,11 @@
 ---
-url: /communities/challenges-prizes-community/
-uid: challenges-and-prizes
+url: /communities/challenges-prizes/
+uid: challenges-prizes
 date: 2013-12-05 11:46:00 -0400
 title: 'Challenges & Prizes Community'
 summary: "We encourage public participation in crowdsourcing competitions to find innovative government solutions."
+aliases:
+  - /challenges-prizes-community/
 ---
 
 {{< legacy-img src="/2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}

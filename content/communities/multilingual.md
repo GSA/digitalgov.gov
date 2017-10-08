@@ -1,9 +1,11 @@
 ---
-url: /communities/government-multilingual-websites-community/
-uid: government-multilingual-websites
+url: /communities/multilingual/
+uid: multilingual
 date: 2014-02-21 4:58:10 -0400
-title: Multilingual Digital Group
+title: Multilingual Community
 summary: 'We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
+aliases:
+  - /government-multilingual-websites-community/
 ---
 
 We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.

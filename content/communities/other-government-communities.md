@@ -2,7 +2,7 @@
 url: /communities/other-government-communities/
 date: 2016-02-08 10:40:40 -0400
 title: Other Government Communities
-summary: 'Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA. Digital communities of practice come in many stripes. DigitalGov communities span 10 (and counting) focus areas and have thousands of members, but strong collaborations exist in all corners of government. Here is a'
+summary: 'Digital communities of practice from around the government'
 ---
 
 _Note: This list is provided as a resource and inclusion is not an endorsement by DigitalGov, the Technology Transformation Service or GSA._
@@ -62,7 +62,7 @@ Digital communities of practice come in many stripes. </span>[<span style="font-
             <li style="font-weight: 400">
               Security Today: This list is for discussing modern developments and best practices in security and privacy, with a (not exclusive) focus on technology and the internet. Email <a href="mailto:listserv@listserv.gsa.gov">listserv@listserv.gsa.gov</a> with no subject and “subscribe Security-Today” in the body.
             </li></ul>
-            
+
 <p>
   Do you know of additional communities that are doing excellent work in the federal digital space? <a href="mailto:digitalgov@gsa.gov">Email us</a>.
 </p>

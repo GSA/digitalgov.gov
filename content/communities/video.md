@@ -1,8 +1,8 @@
 ---
-url: /communities/video-production-pros-community-of-practice/
-uid: video-production-pros
+url: /communities/video-production/
+uid: video-production
 date: 2016-07-08 1:19:06 -0400
-title: 'Video Production Pros Community of Practice'
+title: 'Video Production Pros Community'
 summary: 'Video Production Pros brings together passionate storytellers, artists, social gurus, strategists, and video production experts from across the U.S. government.'
 ---
 

@@ -1,9 +1,12 @@
 ---
-url: /communities/web-managers-forum/
-uid: web-managers-forum
+url: /communities/web-content-managers/
+uid: web-content-managers
 date: 2013-11-21 3:31:31 -0400
 title: 'Web Content Managers Forum'
 summary: 'The Web Content Managers Forum is a community of government employees who share ideas, challenges, lessons learned, and best practices in managing the content of government websites.'
+aliases:
+  - /communities/web-managers-forum/
+  - /communities/web-managers-forum/web-content-managers-listserv/
 ---
 
 ### Who we are

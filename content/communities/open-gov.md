@@ -1,12 +1,12 @@
 ---
-url: /communities/open-government-opengov-community-of-practice/
-uid: open-government-opengov-community-of-practice
+url: /communities/open-government/
+uid: open-government
 date: 2017-08-24 3:30:00 -0400
 title: 'Open Government (OpenGov) Community of Practice'
 summary: 'The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.'
+aliases:
+  - /communities/open-government-opengov-community-of-practice/
 ---
-
-**Community Managers:** Kristen Honey, OMB; Alycia Yozzi, GSA; Jon Kraden, GSA
 
 ### Join
 We host two listservs. One is open to the public/civil society for the purposes of collaboration and discussion as well as coordination the quarterly government & civil society gatherings. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
@@ -14,6 +14,7 @@ We host two listservs. One is open to the public/civil society for the purposes 
 - Public: (please subscribe if you are interested in collaboration with federal and civil society OpenGov partners) Join here: https://groups.google.com/forum/#!forum/us-open-government
 - Government only: For those working on NAP commitments or involved in OpenGov initiatives for your agency. Join by [e-mailing the OpenGov listserv](mailto:opengov-subscribe-request@listserv.gsa.gov).
 
+**Community Managers:** Kristen Honey, OMB; Alycia Yozzi, GSA; Jon Kraden, GSA
 
 ### Overview
 

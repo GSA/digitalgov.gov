@@ -4,6 +4,8 @@ uid: business-usa
 date: 2017-05-17 4:51:55 -0400
 title: Business USA Community
 summary: 'Growing America’s business and exports.'
+aliases:
+  - /business-usa/
 ---
 
 Growing America’s business and exports.

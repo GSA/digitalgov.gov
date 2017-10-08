@@ -1,9 +1,11 @@
 ---
-url: /communities/agile-lean-community-of-practice/
-uid: agile-lean-community-of-practice
+url: /communities/agile-lean/
+uid: agile-lean
 date: 2017-09-04 15:45:00 -0400
-title: 'Agile/Lean Community of Practice'
+title: 'Agile/Lean Community'
 summary: 'The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean.'
+aliases:
+  - /agile-lean-community-of-practice/
 ---
 
 The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean. We believe that agile/lean concepts can help the federal government become more efficient and effective while delivering better public services to the American citizen.
