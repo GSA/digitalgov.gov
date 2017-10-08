@@ -1,8 +1,8 @@
 ---
 url: /services/dap/common-questions-about-dap-faq/
 date: 2013-12-02 7:37:00 -0400
-title: Common Questions about DAP (FAQ)
-summary: ' This guidance is part of the Digital Analytics Program (DAP): Support to Help Agencies Implement the Tool. See more on the DAP. Below are the questions we hear most often about the Digital Analytics Program (DAP). User Agreement Implementation Customization and Access Google Universal Analytics Data Access, Retention and Privacy'
+title: 'Common Questions about DAP (FAQ)'
+summary: 'This guidance is part of the Digital Analytics Program (DAP): Support to Help Agencies Implement the Tool. See more on the DAP. Below are the questions we hear most often about the Digital Analytics Program (DAP). User Agreement Implementation Customization and Access Google Universal Analytics Data Access, Retention and Privacy'
 authors:
   - tlowden
 ---
@@ -135,11 +135,11 @@ Compared to the classic GA (ga.js), UA gives GA users more control over tracking
 
 If your agency is still using a ga.js DAP code, an upgrade to Universal Analytics is essential for data integrity. More information on implementing the most recent code can be found on our [Implementation Instructions]({{< link "analytics-tool-instructions.md" >}}) page and our <a href="https://github.com/digital-analytics-program/gov-wide-code" target="_blank">Github repo</a>.
 
-### 
+###
 
-### 
+###
 
-### 
+###
 
 <h2 id="part-4" style="padding-top: 50px">
   <a name="data-access-retention-privacy"></a>Data Access, Retention and Privacy
@@ -190,7 +190,7 @@ For agencies to view the Google Analytics Dashboard, you will need a Google acco
 We recommend adding the following language:
 
 > This website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
-> 
+>
 >   * [Google’s main privacy policy](http://www.google.com/intl/en/policies/privacy)
 >   * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
 >   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
@@ -255,7 +255,7 @@ Take a look at the process for [signing the terms and using the tool]({{< link "
 ### Is there exact wording for the Customer Satisfaction questions? Should it be exactly what’s outlined in the DAP Metrics Guidance under the Customer Satisfaction Metrics Section?
 
 The [Digital Metrics guidance]({{< link "dap-digital-metrics-guidance-and-best-practices.md" >}} "DAP: Digital Metrics Guidance and Best Practices") provides suggested wording for gathering the four core customer satisfaction measures. This wording is based on research and is a common way that these measures are collected. You do not need to use this exact wording. The requirement is to collect and report on four measures and to ensure they’re collected in a structured, machine processable way. [
-  ](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics) 
+  ](http://www.howto.gov/web-content/digital-metrics#customer-satisfaction-metrics)
 
 ### How should we report the Customer Satisfaction Metrics?
 

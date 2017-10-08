@@ -267,13 +267,13 @@ jQuery(document).ready(function($) {
   function get_event_type(){
     var event_type = $( '.event_types .selected' ).attr( 'data-type' );
     if (event_type == 'online') {
-      $('.m_youtube').removeClass('hide');
+      $('.m_youtube_id').removeClass('hide');
       $('.venue-block').addClass('hide');
     } else if (event_type == 'mixed') {
-      $('.m_youtube').removeClass('hide');
+      $('.m_youtube_id').removeClass('hide');
       $('.venue-block').removeClass('hide');
     } else {
-      $('.m_youtube').addClass('hide');
+      $('.m_youtube_id').addClass('hide');
       $('.venue-block').removeClass('hide');
     }
     return event_type;
@@ -346,7 +346,7 @@ jQuery(document).ready(function($) {
     } else if (post_type == 'event') {
       var event_type = get_event_type();
       if (event_type == 'in-person' || event_type == 'mixed') {
-        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube_id, m_event_type, venue-block, m_1800f, m_venue_name, m_room, m_address, m_city, m_state, m_zip, m_country, m_map, m_registration_url, m_host');
         var venue_data = {'venue_name': data['m_venue_name'], 'room': data['m_room'], 'address': data['m_address'], 'city': data['m_city'], 'state': data['m_state'], 'zip': data['m_zip'], 'country': data['m_country'], 'map': data['m_map']}
         var matter = [
           "---",
@@ -362,7 +362,7 @@ jQuery(document).ready(function($) {
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
             "registration_url: " + data['m_registration_url'],
-            "youtube: " + data['m_youtube'],
+            "youtube_id: " + data['m_youtube_id'],
             "venue: " + build_venue_data(venue_data),
           "---",
           ,
@@ -374,7 +374,7 @@ jQuery(document).ready(function($) {
       // ========================================
       // Online EVENT
       } else {
-        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube, m_event_type, m_registration_url, m_host');
+        // show_fields('m_date, m_title, m_summary, m_authors, m_categories, m_tag, type-block, m_event_organizer, m_start_date, m_end_date, m_youtube_id, m_event_type, m_registration_url, m_host');
         var matter = [
           "---",
             "slug: " + slug,
@@ -389,7 +389,7 @@ jQuery(document).ready(function($) {
             "event_organizer: " + data['m_event_organizer'],
             "host: " + data['m_host'],
             "registration_url: " + data['m_registration_url'],
-            "youtube: " + data['m_youtube'],
+            "youtube_id: " + data['m_youtube_id'],
           "---",
           ,
           "***Paste body content here. Delete this line***"

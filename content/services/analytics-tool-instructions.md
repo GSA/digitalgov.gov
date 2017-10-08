@@ -1,10 +1,8 @@
 ---
 url: /services/dap/analytics-tool-instructions/
 date: 2014-05-13 8:42:03 -0400
-title: Government-Wide Analytics Tool for Federal Agencies
+title: 'Government-Wide Analytics Tool for Federal Agencies'
 summary: 'Milestone 8.2 of the Digital Government Strategy calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites. To help your agency meet this requirement, GSA&rsquo;s Digital Services Innovation Center procured a Google Analytics (GA) Premium custom solution that does the following: Provides a federal-wide view of .gov websites Is easy'
-authors:
-  - tlowden
 ---
 
 Milestone 8.2 of the [Digital Government Strategy](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html) calls for agencies to implement performance and customer satisfaction measuring tools on all .gov websites. To help your agency meet this requirement, GSA’s Digital Services Innovation Center procured a Google Analytics (GA) Premium custom solution that does the following:
@@ -18,7 +16,7 @@ Milestone 8.2 of the [Digital Government Strategy](http://www.whitehouse.gov/sit
 Agencies have two options for the DAP code implementation, all described in detail in the <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf" target="_blank">DAP Implementation Guide</a> (PDF, 195 KB, 10 pages, August 2016) and outlined below.
 
   1. **Centrally hosted (recommended):**  the implementation involves calling the DAP code file via a central host location that the Digital Analytics Program hosts at: <a href="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js" target="_blank">https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js</a>.
-  
+
     The DAP team continuously updates this file with new versions and/or bug fixes periodically, and those changes w take effect immediately on sites implemented with the file via the above location. We’ve taken every measure possible to make this option easy and secure. Please see [our GitHub repo](https://github.com/digital-analytics-program/gov-wide-code) for more explanation and <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf" target="_blank">the implementation guide</a> for specific steps.
   2. **Locally hosted:** The other (original) option is to continue to host the DAP code file locally, as many agencies have done in the past. If you determine this is the right option for your agency website, please choose one of the below file versions (posted on Github) to host the DAP code locally and review <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/05/DAP_v3.1_QuickGuide_Aug2016-1.pdf" target="_blank">the implementation guide</a> for specific steps.
 

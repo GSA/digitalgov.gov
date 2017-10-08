@@ -19,7 +19,6 @@ ignoreFiles:
 # uncomment the following for a dev mode that excludes posts before 2017
   - "content/posts/201[0-6]"
 
-
 sitemap:
   changefreq            : "monthly"
   priority              : 0.5
@@ -44,16 +43,9 @@ blackfriday:
   fractions: false
 
 params:
-  description           : "DigitalGov: We’re helping you build a modern government."
-  faceboook             : ""
-  twitter               : ""
-  instagram             : ""
-  youtube               : ""
-  background_color_class: "bg-black"
-  featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
-  cdnurl                : "https://s3.amazonaws.com/digitalgov"
-  defaulturl            : "https://www.digitalgov.gov"
-  devmode               : true
+  description: "DigitalGov: We’re helping you build a modern government."
+  cdnurl: "https://s3.amazonaws.com/digitalgov"
+  devmode: true
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"
@@ -256,3 +248,6 @@ menu:
       Identifier      : "user-testing-and-research"
       URL             : "/categories/user-testing-and-research/"
       Weight          : 71
+
+foobar:
+  qaz           : "Bingo!"
