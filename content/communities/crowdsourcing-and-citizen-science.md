@@ -2,7 +2,7 @@
 url: /communities/crowdsourcing-and-citizen-science/
 uid: crowdsourcing-and-citizen-science
 date: 2015-09-29 2:17:02 -0400
-title: 'Crowdsourcing and Citizen Science'
+title: 'Crowdsourcing and Citizen Science Community of Practice'
 summary: 'The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'
 aliases:
   - /federal-crowdsourcing-and-citizen-science/

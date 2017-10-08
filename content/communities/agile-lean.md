@@ -2,7 +2,7 @@
 url: /communities/agile-lean/
 uid: agile-lean
 date: 2017-09-04 15:45:00 -0400
-title: 'Agile/Lean Community'
+title: 'Agile/Lean Community of Practice'
 summary: 'The Agile/Lean Community of Practice was started to bring together federal employees who are currently working with agile/lean methodologies or would like to learn more about Agile/Lean.'
 aliases:
   - /agile-lean-community-of-practice/

@@ -2,7 +2,7 @@
 url: /communities/community-solutions/
 uid: community-solutions
 date: 2017-05-17 4:51:55 -0400
-title: Community Solutions Community
+title: 'Community Solutions Community of Practice'
 summary: 'A community of federal staff who provide services to local communities in a holistic and collaborative way by developing innovative and cross-cutting partnerships.'
 aliases:
   - /community-solutions/

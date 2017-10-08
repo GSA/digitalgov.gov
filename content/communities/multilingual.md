@@ -2,7 +2,7 @@
 url: /communities/multilingual/
 uid: multilingual
 date: 2014-02-21 4:58:10 -0400
-title: Multilingual Community
+title: Multilingual Community of Practice
 summary: 'We are a group of federal, state and local government content managers, formerly known as the Federal Multilingual Websites Committee, who are working to expand and improve digital content in languages other than English.'
 aliases:
   - /government-multilingual-websites-community/

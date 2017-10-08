@@ -2,7 +2,7 @@
 url: /communities/open-government/
 uid: open-government
 date: 2017-08-24 3:30:00 -0400
-title: 'Open Government (OpenGov) Community of Practice'
+title: 'OpenGov Community of Practice'
 summary: 'The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.'
 aliases:
   - /communities/open-government-opengov-community-of-practice/

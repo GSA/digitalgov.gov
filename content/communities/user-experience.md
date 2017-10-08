@@ -2,7 +2,7 @@
 url: /communities/user-experience/
 uid: user-experience
 date: 2014-01-13 2:35:36 -0400
-title: 'User Experience Community'
+title: 'User Experience Community of Practice'
 summary: "Our members include more than 900 federal, state, and local U.S. government employees and contractors with a valid .gov or .mil email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies."
 aliases:
   - /federal-user-experience-community-of-practice/
