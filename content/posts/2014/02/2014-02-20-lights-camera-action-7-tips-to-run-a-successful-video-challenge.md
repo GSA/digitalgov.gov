@@ -35,4 +35,4 @@ We&#8217;ve recapped their advice and key takeaways here:
 
 Well, there are your lucky seven tips on how to run a successful video challenge. You can view a full recording of the webinar below. You should also check out video challenge [examples on Challenge.gov](https://challenge.gov/listings?utf8=%E2%9C%93&q=&sort=recent&type=Multimedia&agency=&commit=Search "link to multimedia challenges on Challenge.gov"), as well as our complete [guide to multimedia challenges on DigitalGov.gov.]({{< link "2013-10-31-creative-challenge-contests.md" >}} "Creative challenges guide on DigitalGov.gov") 
 
-And you can [join our Challenges & Prizes community]({{< link "challenges-prizes-community.md" >}}), if you&#8217;re interested in collaborating further with other challenges colleagues across government.
+And you can [join our Challenges & Prizes community]({{< link "challenges-prizes.md" >}}), if you&#8217;re interested in collaborating further with other challenges colleagues across government.

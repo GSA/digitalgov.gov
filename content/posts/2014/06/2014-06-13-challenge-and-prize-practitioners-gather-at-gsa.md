@@ -25,7 +25,7 @@ tag:
 
 Got [innovation]({{< link "categories/challenges" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!
 
-On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}}) together for its [quarterly meeting]({{< link "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
+On Wednesday May 28, the [Challenge.gov](https://challenge.gov/) team gathered the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}) together for its [quarterly meeting]({{< link "2013-america-competes-report-challenges-and-prizes-in-person-event.md" >}}). The group covered two topics:
 
   1. Highlights from challenge competitions run in 2013.
   2. Concepts and tips for working with solvers to build teams.

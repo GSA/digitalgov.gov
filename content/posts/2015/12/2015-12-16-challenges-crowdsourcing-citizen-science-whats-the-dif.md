@@ -119,4 +119,4 @@ Consider which format would be best for your program; look through the options a
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< link "federal-crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}}).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< link "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}).
