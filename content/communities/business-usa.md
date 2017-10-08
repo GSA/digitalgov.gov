@@ -8,6 +8,6 @@ summary: 'Growing America’s business and exports.'
 
 Growing America’s business and exports.
 
-## Join
+### Join
 
 To join, send and e-mail to [David Kaufmann](mailto:david.kaufmann@gsa.gov?subject=Join%20BusinessUSA%20Community) with “Join BusinessUSA Community” in the subject.

@@ -8,6 +8,6 @@ summary: 'The G3C is an inter-agency group of contact center directors and manag
 
 The G3C is an inter-agency group of contact center directors and managers with over 200 members across 55 federal, state and local government agencies.
 
-## Join
+### Join
 
 Send an [email to Tim Cossairt](mailto:tim.cossairt@tsa.dhs.gov) with your name and agency.
