@@ -1,8 +1,8 @@
 ---
 url: /communities/manage-your-listserv-subscription/
 date: 2016-04-22 12:52:52 -0400
-title: Manage Your Listserv Subscription
-summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information. The handy tips that follow will help you manage your GSA listserv subscription. Confirm that your community&rsquo;s list is hosted by GSA by checking that the email address ends in'
+title: 'Manage Your Listserv Subscription'
+summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.'
 ---
 
 GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.
