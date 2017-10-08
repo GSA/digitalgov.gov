@@ -14,7 +14,7 @@ tag:
 
 {{< legacy-img src="2014/04/600-x-165-ChallengeGov-logo.jpg" alt="Full logo for Challenge.gov with the tagline: Government Challenges, Your Solutions." >}}
 
-Seven new training modules aim to help [Federal Challenge and Prize Community]({{< link "challenges-prizes-community.md" >}}) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
+Seven new training modules aim to help [Federal Challenge and Prize Community]({{< link "challenges-prizes.md" >}}) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.
 
 The new training modules come in response to an ever-increasing demand across government to use challenge and prize competitions to drive innovation and solve mission-centric problems. We invite members of the vendor and government community with expertise to share successes and lessons learned as panel members on future expert series. [Contact](https://www.challenge.gov/contact/) the Challenge.gov team for more information.
 

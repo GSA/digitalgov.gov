@@ -20,7 +20,7 @@ tag:
 
 {{< legacy-img src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="250 x 244 GSA Mobile Site Slider" >}}You might recognize them by the user controls, if provided, that allow you to move from one newsy item to the next. They go by various names, including: carousel, slider, slideshow, banner, and gallery. Many government homepages have them.
 
-In a recent email exchange on the [Web Content Managers listserv]({{< link "web-content-managers-listserv.md" >}} "Web Content Managers Listserv"), the consensus was carousels met the internal, official need to share information. However, most agreed carousels were a necessary evil, but in general preference, were an annoyance.
+In a recent email exchange on the [Web Content Managers listserv]({{< link "web-managers-forum.md" >}} "Web Content Managers Listserv"), the consensus was carousels met the internal, official need to share information. However, most agreed carousels were a necessary evil, but in general preference, were an annoyance.
 
 If your agency chooses to use them—and there are good reasons not to use carousels—know that there are drawbacks, including potentially poor results in responsive Web design, as was noted in the [Federal CrowdSource Mobile Testing Program&#8217;s CIO.gov test](https://github.com/GSA/Crowdsource-Testing-CIO.gov). Our testers found the carousel was problematic for smaller devices and suggested turning the auto-scrolling off. Check out other [tips on using carousels](http://blog.clicktale.com/2014/06/16/are-web-carousels-out-7-tips-for-mobile-desktop-optimization/) and check with your agency&#8217;s Accessibility experts for their expertise on carousels.
 

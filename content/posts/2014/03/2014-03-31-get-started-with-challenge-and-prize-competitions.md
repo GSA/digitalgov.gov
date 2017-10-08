@@ -49,7 +49,7 @@ This includes details on the policies and <a href="http://www.whitehouse.gov/sit
 </p>
 
 <p dir="ltr">
-  6) The <a href="{{< link "challenges-prizes-community.md" >}}">Community of Practice</a> email address: <a href="mailto:challenges@listserv.gsa.gov">challenges@listserv.gsa.gov</a>. This is a government only listserv, if you have questions you want to ask all the other agencies in the group. You&#8217;ll also receive email alerts about training, events, networking opportunities, and new reports and resources.
+  6) The <a href="{{< link "challenges-prizes.md" >}}">Community of Practice</a> email address: <a href="mailto:challenges@listserv.gsa.gov">challenges@listserv.gsa.gov</a>. This is a government only listserv, if you have questions you want to ask all the other agencies in the group. You&#8217;ll also receive email alerts about training, events, networking opportunities, and new reports and resources.
 </p>
 
 And the last resource is&#8230; the Challenge.gov team! Email us at <challenge@gsa.gov> if you would like to set up a consultation. We help with overall competition strategies, issues and needs, problem definition, metrics and measurements, access to guidance and policies, introductions among peers in the community of practice and more.

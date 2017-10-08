@@ -56,7 +56,7 @@ authors:
 
 ## Challenges and Prizes
 
-*   [Challenges and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}})
+*   [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}})
 *   [Crowdsourcing with Challenge.gov]({{< link "challenge-gov.md" >}})
 *   [Get Started with Challenge and Prize Competitions]({{< link "2014-03-31-get-started-with-challenge-and-prize-competitions.md" >}})
 
@@ -68,7 +68,7 @@ authors:
 
 ## Crowdsourcing and Citizen Science
 
-*   [Federal Crowdsourcing and Citizen Science Community]({{< link "federal-crowdsourcing-and-citizen-science.md" >}})
+*   [Federal Crowdsourcing and Citizen Science Community]({{< link "crowdsourcing-and-citizen-science.md" >}})
 *   [Crowdsourcing Toolkit for Federal Agencies]({{< link "crowdsourcing-toolkit-for-federal-agencies.md" >}})
 
 ## Customer Experience
@@ -99,7 +99,7 @@ authors:
 
 ## Mobile
 
-*   [Mobile Gov Community of Practice]({{< link "mobile.md" >}})
+*   [Mobile Gov Community of Practice]({{< link "mobilegov.md" >}})
 *   [Mobile User Experience Guidelines and Recommendations]({{< link "mobile-user-experience-guidelines-and-recommendations.md" >}})
 *   [Mobile Application Development Program]({{< link "mobile-application-development-program.md" >}})
     *   [Mobile Code Sharing Catalog]({{< link "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
@@ -108,7 +108,7 @@ authors:
 
 ## Multilingual
 
-*   [Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}})
+*   [Multilingual Digital Group]({{< link "multilingual.md" >}})
 *   [Spanish Language Style Guide and Glossaries]({{< link "spanish-language-style-guide-and-glossaries.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
 *   [Top 10 Best Practices for Multilingual Websites]({{< link "top-10-best-practices-for-multilingual-websites.md" >}})
@@ -160,7 +160,7 @@ authors:
 
 ## User Experience
 
-*   [User Experience Community]({{< link "federal-user-experience-community-of-practice.md" >}})
+*   [User Experience Community]({{< link "user-experience.md" >}})
 *   [DigitalGov User Experience Resources]({{< link "digitalgov-user-experience-resources.md" >}})
     *   [Government Usability Case Studies]({{< link "digitalgov-user-experience-program-results-and-case-studies.md" >}})
 
