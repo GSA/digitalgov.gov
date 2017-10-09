@@ -839,8 +839,9 @@ h6.kicker{
 .col1 .entry{
   margin: 0 auto;
 	width:700px;
-  font-size: 20px;
+  font-size: 19px;
   line-height: 27px;
+  color: #222;
 }
 .col1 .entry .kicker{
   margin-bottom: 10px;
@@ -848,18 +849,21 @@ h6.kicker{
 }
 .col1 .entry h1{
   font-size: 36px;
+  color: #222;
 }
 .col1 .entry h3{
   margin: 55px 0 0 0;
   padding: 10px 0;
   font-size: 32px;
   line-height: 40px;
+  color: #222;
 }
 .col1 .entry h4{
   margin: 30px 0 0 0;
   padding: 10px 0;
   font-size: 24px;
   line-height: 30px;
+  color: #222;
 }
 .col1 .entry hr{
   border-top:#222 2px solid;
