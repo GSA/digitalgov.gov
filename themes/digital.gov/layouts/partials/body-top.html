@@ -22,8 +22,11 @@
     {{ partial "nav-top-nav.html" . }}
     {{ partial "header.html" . }}
 
-    <div id="wrap">
-      {{ if ($.Scratch.Get "has_sidebar") }}
+
+    {{ if ($.Scratch.Get "has_sidebar") }}
+      <div id="wrap">
         <div id="page" class="clearfix">
           <div class="page-border clearfix">
-      {{ end }}
+    {{ else }}
+      <div id="wrap" class="col1" >
+    {{ end }}
