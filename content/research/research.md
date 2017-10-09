@@ -13,10 +13,9 @@ Each of our research sprints will start with a statement of what we’re setting
 
 :mag:
 
-<div class="inlinepromo">
-<h6>001 — Research Report</h6>
-<h5><a href="#" title="">The People in Government Responsible for Public Services and the Challenges That Get in Their Way</a></h5>
-<ul class="refer">
-  <li><a href="#" title="">View the full report »</a></li>
-</ul>
+<div class="promo">
+  <h5><a href="/research-001/" title="Research: The People in Government Responsible for Public Services and the Challenges That Get in Their Way">001 | The People in Government Responsible for Public Services and the Challenges That Get in Their Way</a></h5>
+  <ul class="refer">
+    <li><a href="/research-001/" title="Research: The People in Government Responsible for Public Services and the Challenges That Get in Their Way">Read the full report »</a></li>
+  </ul>
 </div>
