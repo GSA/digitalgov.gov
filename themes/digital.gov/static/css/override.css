@@ -798,33 +798,91 @@ h6.kicker{
 }
 
 /*Inline Promo*/
-.inlinepromo{
+.promo{
   margin: 5px 0 20px 0;
   padding-top: 8px;
   border-top: #222 3px solid;
 }
-.inlinepromo h6{
+.promo h6{
   margin: 1px 0;
   font-size:14px;
   text-transform: uppercase;
 }
-.inlinepromo h5{
+.promo h5{
   margin: 3px 0;
   font-size:18px;
   line-height: 24px;
   font-weight: bold;
   width: 85%;
 }
-.inlinepromo h5 a,
-.inlinepromo h6 a{
+.promo h5 a,
+.promo h6 a{
   color: #222;
 }
-.inlinepromo .refer{
+.promo .refer{
   margin: 0;
   padding-left: 20px;
   font-style: italic;
 }
-.inlinepromo .refer li{
+.promo .refer li{
   list-style-type:disc;
   font-size:15px;
+}
+
+.promo-inline{
+  margin-left: 15px;
+  width: 340px;
+  float: right;
+}
+
+/* 1Col Layout Styles*/
+.col1 .entry{
+  margin: 0 auto;
+	width:720px;
+  font-size: 18px;
+}
+.col1 .entry .kicker{
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 1180px) {
+
+}
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 960px) {
+
+}
+@media only screen and (max-width: 800px) {
+  #wrap.col1{
+    width:auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .col1 .entry{
+    margin: 0;
+  	width:auto;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .promo-inline{
+    margin-left: 15px;
+    width: 280px;
+    float: right;
+  }
+  .col1 .entry h1{
+    font-size: 24px;
+  }
+  .col1 .entry{
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .promo-inline{
+	  margin-left: 0;
+	  width: 100%;
+	  float: none;
+	}
 }
