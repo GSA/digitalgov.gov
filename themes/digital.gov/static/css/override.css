@@ -838,14 +838,47 @@ h6.kicker{
 /* 1Col Layout Styles*/
 .col1 .entry{
   margin: 0 auto;
-	width:720px;
-  font-size: 18px;
+	width:700px;
+  font-size: 20px;
+  line-height: 27px;
 }
 .col1 .entry .kicker{
   margin-bottom: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
-
+.col1 .entry h1{
+  font-size: 36px;
+}
+.col1 .entry h3{
+  margin: 55px 0 0 0;
+  padding: 10px 0;
+  font-size: 32px;
+  line-height: 40px;
+}
+.col1 .entry h4{
+  margin: 30px 0 0 0;
+  padding: 10px 0;
+  font-size: 24px;
+  line-height: 30px;
+}
+.col1 .entry hr{
+  border-top:#222 2px solid;
+  border-bottom:none;
+  width:33%;
+}
+.col1 .entry ul,
+.col1 .entry ol{
+  margin:0;
+  padding: 0;
+}
+.col1 .entry li{
+  margin-left:24px;
+  margin-right:24px;
+  margin-bottom:18px;
+}
+.col1 .entry ul li{
+  list-style-type: disc;
+}
 @media only screen and (max-width: 1180px) {
 
 }
@@ -876,7 +909,8 @@ h6.kicker{
     font-size: 24px;
   }
   .col1 .entry{
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 24px;
   }
 }
 @media only screen and (max-width: 480px) {
