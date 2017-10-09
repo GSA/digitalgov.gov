@@ -11,6 +11,16 @@
 
       <div class="entry">
 
+        <!-- Kicker -->
+        {{- if (isset .Params "kicker") -}}
+          {{- if (isset .Params "kicker_path") -}}
+            <h6 class="kicker"><a href="{{ .Params.kicker_path }}" title="{{ .Params.kicker }}">{{ .Params.kicker }}</a></h6>
+          {{- else -}}
+            <h6 class="kicker">{{ .Params.kicker }}</h6>
+          {{- end -}}
+        {{- end -}}
+
+        <!-- Headline / Title -->
         <h1 class="post-title single">{{ .Title | markdownify }}</h1>
 
         {{ partial "post-meta" . }}

@@ -788,6 +788,15 @@ p.tribe-events-widget-link {
   background-color: #0c555d;
 }
 
+
+
+
+h6.kicker{
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
 /*Inline Promo*/
 .inlinepromo{
   margin: 5px 0 20px 0;
