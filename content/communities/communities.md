@@ -11,7 +11,7 @@ summary: 'Our communities are where people in government come together to learn,
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
-There are more than 10,000 people participating from x agencies/bureaus all across government in 16 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
+There are more than 10,000 people participating across government in 19 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
 ### Our Communities
 
