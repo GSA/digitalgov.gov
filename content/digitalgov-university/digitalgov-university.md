@@ -3,8 +3,8 @@ url: /digitalgov-university/
 date: 2013-11-17 11:11:43 -0400
 title: DigitalGov University
 summary: 'DigitalGov University (DGU) is helping agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.'
-authors:
-  - apiazza
+aliases:
+  - /digitalgov-university/digitalgov-university-event-and-training-request-form/
 ---
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
