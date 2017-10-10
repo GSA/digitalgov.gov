@@ -1,5 +1,5 @@
 ---
-slug: an-around-world-recap-plain-monthly-meeting
+slug: online-an-around-the-world-recap-plain-monthly-meeting
 title: 'An Around the World Recap PLAIN Monthly Meeting'
 summary: 'In this online event, PLAIN co-chairs will provide a recap of international plain language initiatives discussed at the 2017 Plain Language Association International conference in Graz, Austria.'
 event_type: online
