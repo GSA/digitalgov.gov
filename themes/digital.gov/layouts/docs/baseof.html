@@ -1,6 +1,7 @@
+{{- partial "set-env.html" . -}}
 {{- if eq .Params.feed "xml" -}}
   {{- partial "all-posts-feed.html" . -}}
-{{- else if eq .Params.feed "json" -}} 
+{{- else if eq .Params.feed "json" -}}
   {{- block "data" . -}} The DATA didn't load. :( {{- end -}}
 {{- else -}}
   {{ block "pagevars" . }}{{ end }}

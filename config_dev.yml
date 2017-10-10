@@ -9,7 +9,7 @@ DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
 Paginate                : 100
 googleAnalytics         : ""
-enableRobotsTXT         : false
+enableRobotsTXT         : true
 enableEmoji             : true
 
 ignoreFiles:
