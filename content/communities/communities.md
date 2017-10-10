@@ -57,7 +57,7 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
 
 **[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
-[Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
+[Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
 
 **[User Experience]({{< link "user-experience.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
