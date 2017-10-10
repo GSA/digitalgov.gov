@@ -2,9 +2,7 @@
 url: /services/search/
 date: 2013-11-30 4:20:13 -0400
 title: DigitalGov Search
-summary: 'Use DigitalGov Search (formerly USASearch) to power the search box on your federal government website&mdash;at no cost. Sign up for an account to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website. Search across all of your public-facing content. We support an unlimited number of web pages across an unlimited number domains. We also integrate your tweets,'
-authors:
-  - andreanocesigritz
+summary: 'Use DigitalGov Search (formerly USASearch) to power the search box on your federal government website&mdash;at no cost.'
 ---
 
 Use DigitalGov Search (formerly USASearch) to power the search box on your federal government website—at no cost. <a href="https://search.usa.gov/signup" target="_blank">Sign up for an account</a> to get started. Our hosted search service helps you improve visitors&#8217; search experience on your website.

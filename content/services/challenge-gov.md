@@ -4,8 +4,6 @@ date: 2012-07-09 3:46:23 -0400
 uid: challenge-gov
 title: Crowdsourcing with Challenge.gov
 summary: 'Post a challenge on Challenge.gov A Primer on Challenges & Prizes Challenges and prize competitions are proven methods to drive innovation in the public sector and beyond. But they aren&rsquo;t new. The 1927 Orteig Prize led to Charles Lindbergh&rsquo;s famous transatlantic flight and advances in aerospace. In the centuries before, prizes were offered in Europe'
-authors:
-  - ktrebon
 ---
 
 {{< button href="https://www.challenge.gov/post-challenges/" text="Post a challenge on Challenge.gov" >}}
@@ -56,7 +54,7 @@ GSA employs a special contracting vehicle, [Professional Services Schedule 541 4
 
 ## A Community of Helping Hands
 
-The federal government has a growing and active [community of practice]({{< link "challenges-prizes-community.md" >}}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
+The federal government has a growing and active [community of practice]({{< link "challenges-prizes.md" >}}) for challenges and prizes. This government-only group consists of more than 725 federal challenge practitioners who use a listserv to ask questions and share information. [Email the Challenges Listserv](mailto:challenges@listserv.gsa.gov "challenges at listserv dot g s a dot gov") to join and receive email alerts about training, events, networking opportunities, and new reports and resources.
 
 In addition, GSA manages a [mentorship program](https://www.challenge.gov/mentors/) for the federal challenge and prize community. This group of 20 experts is available to offer support and advice to agencies on competition planning, strategy and execution.
 
