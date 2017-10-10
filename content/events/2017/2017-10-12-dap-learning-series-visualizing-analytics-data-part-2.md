@@ -1,5 +1,5 @@
 ---
-slug: dap-learning-series-visualizing-analytics-data-part-2
+slug: online-dap-learning-series-visualizing-analytics-data-part-2
 title: 'DAP Learning Series – Visualizing Analytics Data Part 2'
 summary: 'In this online event, we&#39;ll discuss how to use tools that are designed to import data and visualize it without report exports&#46;'
 event_type: online
