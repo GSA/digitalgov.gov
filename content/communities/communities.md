@@ -56,7 +56,7 @@ There are more than 10,000 people participating from x agencies/bureaus all acro
 **[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
 
-**[SocialGov]({{< link "social-media.md" >}})**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
+**[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "social-media.md" >}})
 
 **[User Experience]({{< link "user-experience.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
