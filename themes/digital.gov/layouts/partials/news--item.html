@@ -16,7 +16,7 @@
     <div class="catslide-content">
       <h3 class="post-title"><a href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a></h3>
       <p class="catslide-excerpt">
-        {{ .Summary | truncate 140 }}
+        {{ .Params.summary | truncate 140 | default .Summary | safeHTML | markdownify  }}
       </p>
     </div><!-- div.catslide-content-->
   </div><!-- div.cat-container-->

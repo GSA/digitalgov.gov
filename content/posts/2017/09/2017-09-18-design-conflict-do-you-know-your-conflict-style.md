@@ -2,7 +2,7 @@
 slug: design-conflict-do-you-know-your-conflict-style
 date: 2017-09-18 09:00:34 -0400
 title: 'Design and Conflict&#58; Do You Know Your Conflict Style&#63;'
-summary: 'Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates&#46; Here’s an idea to proactively address conflict and build empathy through understanding on your team&#46;'
+summary: 'Building empathy towards users is always a part of the UX process, but it’s not always common practice to build empathy towards our teammates. Here’s an idea to proactively address conflict and build empathy through understanding on your team.'
 authors: 
   - meghan-lazier
 categories: 
@@ -16,7 +16,7 @@ tag:
   - ux
 featured_image: 
   uid: old-boxing-gloves-nailed-to-the-textured-wall-viktor-gladkov-istock-thinkstock-506102725
-  alt: 'Old boxing gloves nailed to a textured wall&#46;'
+  alt: 'Old boxing gloves nailed to a textured wall.'
 ---
 
 Ask most government employees their Myers-Briggs Type Indicator® and they can rattle off their results. But if you ask a government employee about their conflict style, it’s much less likely they can talk about their tendencies and predilections around tension. 

@@ -9,7 +9,8 @@ DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
 Paginate                : 100
 googleAnalytics         : ""
-enableRobotsTXT         : false
+enableRobotsTXT         : true
+enableEmoji             : true
 
 ignoreFiles:
   - "^_template"
@@ -29,6 +30,8 @@ outputFormats:
     notAlternative: true
   RSS:
     mediatype: "application/rss"
+  JSON:
+    mediatype: "application/json"
 
 outputs:
   home: ["HTML","RSS","SiteImages"]
@@ -38,14 +41,8 @@ blackfriday:
 
 params:
   description           : "DigitalGov: We’re helping you build a modern government."
-  faceboook             : ""
-  twitter               : ""
-  instagram             : ""
-  youtube               : ""
-  background_color_class: "bg-black"
-  featured_image        : "/images/gohugo-default-sample-hero-image.jpg"
   cdnurl                : "https://s3.amazonaws.com/digitalgov"
-  defaulturl            : "https://www.digitalgov.gov"
+  devmode               : false
 
 permalinks:
   posts                 : ":year/:month/:day/:slug/"

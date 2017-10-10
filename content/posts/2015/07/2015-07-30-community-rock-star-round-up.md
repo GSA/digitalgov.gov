@@ -2,7 +2,7 @@
 slug: community-rock-star-round-up.md
 date: 2015-07-30 10:00:21 -0400
 title: Community Rock Star Round Up
-summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thought we&rsquo;d round up your community rock stars. These are people in your communities who&rsquo;ve gone above and beyond, who&rsquo;ve contributed content, organized events, participated in developing toolkits and more. Let&rsquo;s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
+summary: 'Around this month&#8217;s Communities Theme, the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board. DigitalGov Summit Sounding Board For the 2015 DigitalGov Summit we pulled'
 authors:
   - apiazza
 categories:
@@ -58,7 +58,7 @@ We wanted to recognize the [Open and Structure Content Working Group](http://gsa
 
 ## User & Customer Experience (UX) & (CX)
 
-Some leaders from the [User Experience]({{< link "federal-user-experience-community-of-practice.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
+Some leaders from the [User Experience]({{< link "user-experience.md" >}}) and Customer Experience groups include folks who are champions of knowledge sharing and making sure the user/customer is at the forefront of thinking during decision making at their agencies.
 
 **Lin Wang**, of the U.S. Census Bureau, is the head of Census’ UX program, a federal leader in survey methodology and a great friend to the UX community. She has been sponsoring tours of their UX lab, discussing their team structure and leading workshops for the larger community.
 

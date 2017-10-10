@@ -2,7 +2,7 @@
 slug: working-in-public-from-day-1
 date: 2014-08-04 10:00:38 -0400
 title: Working In Public From Day 1
-summary: 'In the wide world of software, maybe you&rsquo;ve heard someone say this, or maybe you&rsquo;ve said it yourself: &#8220;I&rsquo;ll open source it after I clean up the code; it&rsquo;s a mess right now.&#8221; Or: &#8220;I think there are some passwords in there; I&rsquo;ll get around to cleaning it out at some point.&#8221; Or simply: &#8220;No'
+summary: 'In the wide world of software, maybe you’ve heard someone say this, or maybe you’ve said it yourself: &#8220;I’ll open source it after I clean up the code; it’s a mess right now.&#8221; Or: &#8220;I think there are some passwords in there; I’ll get around to cleaning it out at some point.&#8221; Or simply: &#8220;No'
 authors:
   - eric-mill
 categories:

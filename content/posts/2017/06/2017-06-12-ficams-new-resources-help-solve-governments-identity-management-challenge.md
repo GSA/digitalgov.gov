@@ -2,7 +2,7 @@
 slug: ficams-new-resources-help-solve-governments-identity-management-challenge
 date: 2017-06-12 10:11:06 -0400
 title: FICAM’s New Resources Help Solve Government’s Identity Management Challenge
-summary: 'In today&rsquo;s digital world, it&rsquo;s imperative that government agencies safeguard citizens&rsquo; physical and electronic security. In the world of Federal IT, adopting and advancing cybersecurity can&rsquo;t be accomplished in one day, or by one agency. Federal agencies must work together to tackle complex problems and stay ahead of evolving network threats. The Federal Identity, Credential,'
+summary: 'In today’s digital world, it’s imperative that government agencies safeguard citizens’ physical and electronic security. In the world of Federal IT, adopting and advancing cybersecurity can’t be accomplished in one day, or by one agency. Federal agencies must work together to tackle complex problems and stay ahead of evolving network threats. The Federal Identity, Credential,'
 authors:
   - jim-sheire
 categories:

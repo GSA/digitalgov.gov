@@ -2,7 +2,7 @@
 slug: the-api-briefing-quick-guide-to-using-github-fdas-openfda-research-project
 date: 2014-06-11 10:00:12 -0400
 title: 'The API Briefing: Quick Guide to Using GitHub &#8211; FDA’s OpenFDA Research Project'
-summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA&rsquo;s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the'
+summary: 'The Food and Drug Administration (FDA) just released the OpenFDA Research Project. At the heart of the project is the OpenFDA API, which allows developers to perform searches on FDA’s drug information database. Coming soon is the ability to search FDA information on medical devices and information about food. Visit the'
 authors:
   - bbrantley
 categories:

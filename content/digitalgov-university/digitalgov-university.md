@@ -3,11 +3,11 @@ url: /digitalgov-university/
 date: 2013-11-17 11:11:43 -0400
 title: DigitalGov University
 summary: 'DigitalGov University (DGU) is helping agencies meet the public&rsquo;s 21st century digital expectations by providing a platform for federal agencies to share innovations, offer case-studies, host summits and workshops and connect with each other.'
-authors:
-  - apiazza
+aliases:
+  - /digitalgov-university/digitalgov-university-event-and-training-request-form/
 ---
 
-We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://www.youtube.com/c/digitalgov). Trainings are open to anyone working in the government or for a government agency.
+We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/digitalgov). Trainings are open to anyone working in the government or for a government agency.
 
 [Fill out our form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdiVKVO9g9PVKdifYwJ76O8zUxg7YTycNodDxN4FnbHiG9Drw/viewform) to request an online or in-person training or event. If you have any questions, please [send us an email](mailto:DigitalGovU@gsa.gov).
 
@@ -15,8 +15,7 @@ We provide a range of free online and in-person trainings and events for people 
 
 <p style="text-align: center">
   {{< button href="events" text="Upcoming Events" >}}
-  {{< button href="tag/recap" text="Recap Articles" >}}
-  {{< button href="https://www.youtube.com/c/digitalgov" text="Video Archive" >}}
+  {{< button href="https://youtube.com/digitalgov" text="Video Archive" >}}
 </p>
 
 ## Use of DigitalGov University Materials

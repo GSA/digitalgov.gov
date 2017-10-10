@@ -2,7 +2,7 @@
 slug: spanish-language-mobile-apps-from-gobierno-usa-gov
 date: 2015-01-15 11:10:45 -0400
 title: Spanish Language Mobile Apps from Gobierno.USA.gov
-summary: ' In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences. Regular DigitalGov readers know that we&#8217;ve touched on Hispanic mobile trends before, including the high rates of mobile usage among Hispanic millennials. Today, we&rsquo;re highlighting five Spanish language'
+summary: ' In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences. Regular DigitalGov readers know that we&#8217;ve touched on Hispanic mobile trends before, including the high rates of mobile usage among Hispanic millennials. Today, we’re highlighting five Spanish language'
 authors:
   - awichman
 categories:
@@ -43,4 +43,4 @@ Today, we’re highlighting five Spanish language apps from the Spanish Version 
 
 ## Ready to go multilingual?
 
-DigitalGov offers resources for [developing multilingual content]({{< link "2014-07-01-multilingual-digital-content.md" >}}) that were created by the [Multilingual Digital Group]({{< link "government-multilingual-websites-community.md" >}}). The [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) supports mobile development in all corners of government. If you have a Spanish app, be sure to register it on the [Federal Mobile Products Registry](http://apps.usa.gov/register). You can learn how by viewing our video for the webinar [How to Get Your Federal Mobile App Promoted on USA.gov and DigitalGov.gov](https://www.youtube.com/watch?v=m2KO5Dww5yo).
+DigitalGov offers resources for [developing multilingual content]({{< link "2014-07-01-multilingual-digital-content.md" >}}) that were created by the [Multilingual Digital Group]({{< link "multilingual.md" >}}). The [Mobile Gov Community of Practice]({{< link "categories/mobile" >}}) supports mobile development in all corners of government. If you have a Spanish app, be sure to register it on the [Federal Mobile Products Registry](http://apps.usa.gov/register). You can learn how by viewing our video for the webinar [How to Get Your Federal Mobile App Promoted on USA.gov and DigitalGov.gov](https://www.youtube.com/watch?v=m2KO5Dww5yo).

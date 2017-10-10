@@ -107,38 +107,44 @@
               <p><a href="{{ .Params.registration_url }}" onclick="__gaTracker('send', 'event', 'outbound-article', '{{ .Params.registration_url }}', 'REGISTER NOW');"
   							  class="button" style="color: #000000">REGISTER NOW</a></p>
 
-              {{ if eq .Params.event_type "in-person" }}
-                <p><strong>This event is in-person</strong></p>
-              {{ else if eq .Params.event_type "mixed" }}
-                <p><strong>This event is in-person + online</strong></p>
-              {{ else }}
-                <p><strong>This event is online</strong></p>
-              {{ end }}
-
-              {{ if eq .Params.event_type "online-only" }}
-                {{/*- Skip this section -*/}}
-              {{ else }}
-  						<p><strong>Location</strong><br />
-                {{ if eq .Params.event_type "in-person" }}
-                  {{ .Params.venue.venue_name }}<br />
-                  {{ .Params.venue.address }}<br />
-                  {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
-                  Room: {{ .Params.venue.room }}<br />
-                  Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
+              <!-- If event_type == "online" -->
+              {{ if eq .Params.event_type "online" }}
+                {{ if (isset .Params "youtube_id") }}
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+                  <p>
+                    <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a> |
+                    <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a>
+                  </p><hr/>
                 {{ end }}
-                {{ if eq .Params.event_type "mixed" }}
-                  {{ with .Params.venue.venue_name }}{{ . }}<br />{{ end }}
+
+              <!-- else if "mixed" -->
+              {{ else if eq .Params.event_type "mixed" }}
+                {{ if (isset .Params "youtube_id") }}
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+                  <p>
+                    <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube</strong></a> |
+                    <a href="https://www.youtube.com/live_chat?v={{ .Params.youtube_id }}&is_popout=1" title="View Live Chat on YouTube"><strong>Live Chat</strong></a>
+                  </p><hr/>
+                {{ end }}
+                <p><strong>Location</strong><br />
+                  {{ with .Params.venue.venue_name }}{{ . }}000000<br />{{ end }}
                   {{ .Params.venue.address }}<br />
                   {{ .Params.venue.city }}, {{ .Params.venue.state }}<br />
                   {{ with .Params.venue.zip }}{{ . }} {{ end }}{{ .Params.venue.country }}<br />
                   {{ with .Params.venue.room }}Room: {{ . }}<br />{{ end }}
                   Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a><br />
-                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
-                {{ end }}
-                {{ if eq .Params.event_type "online" }}
-                  YouTube: <a href="{{ .Params.youtube | safeHTML }}" title="YouTube">{{ .Params.youtube }}</a>
-                {{ end }}
-              </p>
+                  <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" title="Watch on YouTube"><strong>Watch on YouTube »</strong></a>
+                </p><hr/>
+
+              <!-- else if "in-person" -->
+              {{ else }}
+    						<p><strong>Location</strong><br />
+                  {{ .Params.venue.venue_name }}121212121<br />
+                  {{ .Params.venue.address }}<br />
+                  {{ .Params.venue.city }}, {{ .Params.venue.state }} {{ .Params.venue.zip }}<br />
+                  Room: {{ .Params.venue.room }}<br />
+                  Map: <a href="{{ .Params.venue.map }}" title="Google Map">{{ .Params.venue.map }}</a>
+                </p><hr/>
               {{ end }}
 
               {{ .Content }}
@@ -236,7 +242,7 @@
   						</div><!-- .tribe-events-meta-group -->
   					</div><!-- .tribe-events-single-section -->
 
-            {{ if eq .Params.event_type "online-only" }}
+            {{ if eq .Params.event_type "online" }}
               {{/*- Skip this section -*/}}
             {{ else }}
     					<div class="tribe-events-single-section tribe-events-event-meta secondary tribe-clearfix">

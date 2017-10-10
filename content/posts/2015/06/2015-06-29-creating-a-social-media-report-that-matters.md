@@ -2,7 +2,7 @@
 slug: creating-a-social-media-report-that-matters
 date: 2015-06-29 1:00:19 -0400
 title: Creating a Social Media Report That Matters
-summary: 'As with any communications effort, the social media bottom line comes down to impact. Can you prove that the time, money and effort put into social media helped achieve your agency&rsquo;s goals? In a world obsessed with big data, it&rsquo;s tempting to track every detail simply because you can. With more data comes more confusion'
+summary: 'As with any communications effort, the social media bottom line comes down to impact. Can you prove that the time, money and effort put into social media helped achieve your agency’s goals? In a world obsessed with big data, it’s tempting to track every detail simply because you can. With more data comes more confusion'
 authors:
   - katie-gresham
 categories:

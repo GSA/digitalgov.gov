@@ -2,7 +2,7 @@
 slug: understanding-your-customer-2
 date: 2015-09-22 10:00:26 -0400
 title: Understanding Your Customer
-summary: 'How well do you know your customers? There&rsquo;s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
+summary: 'How well do you know your customers? There’s a new guide out from the Excellence In Government (EIG) Fellows Program to help you do just that. Led by the Partnership for Public Service, EIG is a federal government initiative to train future leaders. This year, three hundred federal employees took the EIG journey to learn'
 authors:
   - andrea-d-williamson
 categories:

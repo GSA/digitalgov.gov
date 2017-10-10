@@ -2,7 +2,7 @@
 slug: challenges-crowdsourcing-citizen-science-whats-the-dif.md
 date: 2015-12-16 11:10:18 -0400
 title: 'Challenges, Crowdsourcing, Citizen Science: What&#8217;s the Dif?'
-summary: 'There&rsquo;s more than one way to harness the wisdom of the crowd. In honor of December&rsquo;s monthly theme, we&rsquo;re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two&rsquo;s company, three&rsquo;s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
+summary: 'There’s more than one way to harness the wisdom of the crowd. In honor of December’s monthly theme, we’re diving into and defining the various ways that federal agencies use public contributions to meet real needs and fulfill important objectives. Crowdsourcing Two’s company, three’s a crowd&mdash;and getting input from many is crowdsourcing. A White House'
 authors:
   - awichman
 categories:
@@ -119,4 +119,4 @@ Consider which format would be best for your program; look through the options a
 
 There are also training videos and webinars on-demand that include all of the topics listed above on DigitalGov University’s [Challenges YouTube Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC).
 
-Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< link "federal-crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}}).
+Interested in getting more involved in crowdsourcing, citizen science and/or challenge and prize competitions? Join the two communities working in these areas: the [Federal Crowdsourcing and Citizen Science Community of Practice]({{< link "crowdsourcing-and-citizen-science.md" >}}) and the [Challenges and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}).

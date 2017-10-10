@@ -2,7 +2,7 @@
 slug: federal-cybersecurity-challenges
 date: 2016-10-25 10:00:09 -0400
 title: Federal Cybersecurity Challenges
-summary: 'These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we&rsquo;ve been focusing on keeping federal agency information systems secure for a long time. For October&rsquo;s Cybersecurity Awareness Month, the WatchBlog takes a look at federal cybersecurity challenges.  What is the threat?'
+summary: 'These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we’ve been focusing on keeping federal agency information systems secure for a long time. For October’s Cybersecurity Awareness Month, the WatchBlog takes a look at federal cybersecurity challenges.  What is the threat?'
 authors:
   - gao-watchblog
 categories:

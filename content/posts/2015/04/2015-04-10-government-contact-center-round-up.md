@@ -2,7 +2,7 @@
 slug: government-contact-center-round-up
 date: 2015-04-10 10:00:08 -0400
 title: Government Contact Center Round Up
-summary: 'The Government Contact Center Council (G3C), led by GSA&rsquo;s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government. This year they hosted events and posted articles that will help you get a contact center up and running, make up-to-date changes to meet 21st century'
+summary: 'The Government Contact Center Council (G3C), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government. This year they hosted events and posted articles that will help you get a contact center up and running, make up-to-date changes to meet 21st century'
 authors:
   - apiazza
 categories:
@@ -18,7 +18,7 @@ tag:
 
 {{< legacy-img src="2015/04/600-x-330-Call-center-Androsov-Konstantin-iStock-Thinkstock-ThinkstockPhotos-93536394.jpg" alt="Call center" caption="" >}} 
 
-The [Government Contact Center Council (G3C)]({{< tmp "communities/government-contact-center-council-g3c.md" >}} "Government Contact Center Council - G3C"), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.
+The [Government Contact Center Council (G3C)]({{< tmp "communities/government-contact-center-council.md" >}} "Government Contact Center Council - G3C"), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.
 
 This year they hosted events and posted articles that will help you get a contact center up and running, make up-to-date changes to meet 21st century expectations, and incorporate new features like adaptive content, chat, and handling social media inquiries.
 

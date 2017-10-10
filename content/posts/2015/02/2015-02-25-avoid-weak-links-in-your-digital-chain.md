@@ -2,7 +2,7 @@
 slug: avoid-weak-links-in-your-digital-chain
 date: 2015-02-25 11:10:25 -0400
 title: Avoid Weak ‘Links’ in Your Digital Chain
-summary: 'Users don&rsquo;t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here&rsquo;s a'
+summary: 'Users don’t like surprises. Unexpected or unwanted content undermines the credibility of your agency and frustrates users who come to your website looking for specific information. Using links appropriately in your website content is one way to build trust with users, according to an article by Kara Pernice of the Nielsen Norman Group. Here’s a'
 authors:
   - awichman
 categories:
@@ -49,7 +49,7 @@ One element people look for is distinct text: when links are differentiated thro
 
 ## Linking For Good User Experience
 
-[{{< legacy-img src="2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice]({{< link "federal-user-experience-community-of-practice.md" >}}) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
+[{{< legacy-img src="2015/02/250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links.jpg" alt="250-x-290-EPA-exit-in-red-circle-Avoid-Weak-Links" >}}](http://www2.epa.gov/international-cooperation/epa-collaboration-china)Opinions about linking practices are changing. Recently, a listserv discussion in the [User Experience Community of Practice]({{< link "user-experience.md" >}}) touched on whether links should lead users to a new tab or a new window. Community members also debated whether an icon needs to accompany a link that goes to an external website. For example, external links on [EPA.gov](http://www.epa.gov/) have a small “exit” box next to the link.
 
 John Felleman, Industry Specialist for the Common Acquisition Platform Program Management Office in the General Services Administration, shared with the listserv how links open on [GSA&#8217;s Acquisition Gateway](https://hallways.cap.gsa.gov/homepage/welcome.html). His office uses different link opening practices, depending on context.
 

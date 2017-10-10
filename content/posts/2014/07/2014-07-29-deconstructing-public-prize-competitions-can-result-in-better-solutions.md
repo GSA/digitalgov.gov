@@ -2,7 +2,7 @@
 slug: deconstructing-public-prize-competitions-can-result-in-better-solutions
 date: 2014-07-29 10:07:10 -0400
 title: '&#8220;Deconstructing&#8221; Public Prize Competitions Can Result in Better Solutions'
-summary: 'When faced with a big, daunting problem to solve, it&rsquo;s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges&rsquo;) was that the government can often receive better solutions'
+summary: 'When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it &ldquo;one step at a time.&rdquo; The message from a recent DigitalGov University webinar on public prize competitions (AKA &lsquo;challenges’) was that the government can often receive better solutions'
 authors:
   - tlowden
 categories:
@@ -42,4 +42,4 @@ See the slides for more information:
 
 [slideshare id=37430265&doc=gsawebinar-al-140728123154-phpapp01]
 
-The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort._If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes-community.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at <a href="http://challenge.gov" target="_blank">Challenge.gov</a>._
+The HFPP Challenge tandem of Zeiler and LaMora made clear that the process of deconstructing a challenge requires more thought and a reliable collaboration structure; but for the right kind of challenge, they said, it can be well worth the effort._If you would like more information on challenges and prize competitions, become part of the <a href="{{< link "challenges-prizes.md" >}}" target="_blank">Federal Challenge and Prize Community listserv</a>. If you are interested in entering a challenge like the HFPP Challenge, see the list of government challenges at <a href="http://challenge.gov" target="_blank">Challenge.gov</a>._

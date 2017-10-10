@@ -1,14 +1,17 @@
-uid           :
-display_name  :
-first_name    :
-last_name     : 
-email         :
-website       :
-bio           :
-location      :
-quote         :
-github        :
-twitter       :
-youtube       :
-facebook      :
-linkedin      :
+uid             :
+display_name    :
+first_name      :
+last_name       :
+email           :
+website         :
+bio             :
+location        :
+quote           :
+github          :
+twitter         :
+youtube         :
+facebook        :
+linkedin        :
+featured_image  :
+  uid           :
+  alt           :

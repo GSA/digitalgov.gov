@@ -2,7 +2,7 @@
 slug: ux-vs-cx-whats-the-dif-part-2
 date: 2015-11-20 11:10:26 -0400
 title: 'UX vs. CX: What&#8217;s the Dif? Part 2'
-summary: 'In honor of World Usability Day, which happened on November 12, we&rsquo;d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {{< legacy-img src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a'
+summary: 'In honor of World Usability Day, which happened on November 12, we’d like to demystify two extremely important and oft-confusing acronyms&mdash;CX and UX. Customer Experience (CX) and User Experience (UX), while related, focus on different aspects of service delivery. The New Landscape {{< legacy-img src="2015/11/250-x-250-UX-VS-CX-drawing.jpg" alt="Venn diagram shows that User Experience (U X) is a'
 authors:
   - rflagg
 categories:
@@ -52,7 +52,7 @@ CX and UX are everywhere in government now. However you define them, agencies ar
 
   * Join a community 
       * [Customer Experience]({{< link "customer-experience-community.md" >}})
-      * [User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})
+      * [User Experience]({{< link "user-experience.md" >}})
   * Take some training 
       * [Upcoming events from DigitalGov University]({{< link "events" >}})
       * [CX Video Training Library](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nH7xSSjL1XBXPfVqw68BNbW)
@@ -60,4 +60,4 @@ CX and UX are everywhere in government now. However you define them, agencies ar
   * Read through the [Usability Starter Kit]({{< link "digitalgov-user-experience-program-usability-starter-kit.md" >}}) and contribute a case study or resource
   * A CX Toolkit is also in development; look for it in December 2015.
 
-How has your agency embraced CX and UX? Tell us in the comments._Thanks to members of the [UX]({{< link "federal-user-experience-community-of-practice.md" >}}) and [CX]({{< link "customer-experience-community.md" >}}) communities for their contributions to this article._
+How has your agency embraced CX and UX? Tell us in the comments._Thanks to members of the [UX]({{< link "user-experience.md" >}}) and [CX]({{< link "customer-experience-community.md" >}}) communities for their contributions to this article._

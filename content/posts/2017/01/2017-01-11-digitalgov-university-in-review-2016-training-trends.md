@@ -73,7 +73,7 @@ DGU strives to provide training throughout the year that is useful and relevant 
 
 #### **Analytics and new communications technologies, anyone?** {#4299.graf.graf--h4.graf-after--p}
 
-Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< link "dap.md" >}}) and trainings on how to use the [DigitalGov Search]({{< link "search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< link "communities.md" >}}) like the [MobileGov Community of Practice]({{< link "categories/mobile" >}}), [Challenge and Prizes Community of Practice]({{< link "challenges-prizes-community.md" >}}), and the [Government Customer Experience Community of Practice]({{< link "customer-experience-community.md" >}}) where best practices, case studies, and innovations were shared.
+Some of our most popular training topics throughout the year focused on using programs such as analytics trainings offered through the [Digital Analytics Program]({{< link "dap.md" >}}) and trainings on how to use the [DigitalGov Search]({{< link "search.md" >}}) program. Other popular events were from the various [DigitalGov Communities]({{< link "communities.md" >}}) like the [MobileGov Community of Practice]({{< link "categories/mobile" >}}), [Challenge and Prizes Community of Practice]({{< link "challenges-prizes.md" >}}), and the [Government Customer Experience Community of Practice]({{< link "customer-experience-community.md" >}}) where best practices, case studies, and innovations were shared.
 
 We heard that you are interested in the latest tools and trends and how federal agencies are using those products, which is why “[Snaps and Stripes: Sharing Public Service Stories with SnapChat](https://www.youtube.com/watch?v=G82jBHxE4Tk)” was a popular webinar this year. Also, you wanted to know how tools like social listening to address and better understand your audience and their needs so many of you attended the “[Listening Before We Speak: Understanding Our Audience in Times of Disaster](https://www.youtube.com/watch?v=YWhRLCxTYxk)” webinar.
 
@@ -113,4 +113,4 @@ Lastly, we took a look at our webinar recordings and evaluated which were most v
 
 We are planning more great events for 2017 and we hope you can join us.
 
-_Federal employees:_ [_email us_](mailto:DigitalGovU@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< link "digitalgov-university-event-and-training-request-form.md" >}}) to contact the team about creating an online or in-person DGU event._
+_Federal employees:_ [_email us_](mailto:DigitalGovU@gsa.gov) _and let us know what you’d like to see in the upcoming year — or [fill out this form]({{< link "digitalgov-university.md" >}}) to contact the team about creating an online or in-person DGU event._

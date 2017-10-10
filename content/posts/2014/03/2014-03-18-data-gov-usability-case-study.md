@@ -2,7 +2,7 @@
 slug: data-gov-usability-case-study
 date: 2014-03-18 8:42:54 -0400
 title: 'Data.gov &#8211; Usability Case Study'
-summary: 'We all know listening to your customers is important. Not just reading their comments, but talking to them, actually getting in a room with them, and having them test your product. But if basing a whole-scale redesign around one series of user conversations makes you nervous &#8211; it should. That&rsquo;s because sometimes when we listen,'
+summary: 'We all know listening to your customers is important. Not just reading their comments, but talking to them, actually getting in a room with them, and having them test your product. But if basing a whole-scale redesign around one series of user conversations makes you nervous &#8211; it should. That’s because sometimes when we listen,'
 authors:
   - jonathan-rubin
 categories:
@@ -106,7 +106,7 @@ At every stage of their development, they took the new design and opened it up f
 </p>
 
 <p dir="ltr">
-  <em>Interested in interacting with other user experience enthusiasts across government? Join the <a href="{{< link "federal-user-experience-community-of-practice.md" >}}">User Experience Community</a>.</em>
+  <em>Interested in interacting with other user experience enthusiasts across government? Join the <a href="{{< link "user-experience.md" >}}">User Experience Community</a>.</em>
 </p>
 
  

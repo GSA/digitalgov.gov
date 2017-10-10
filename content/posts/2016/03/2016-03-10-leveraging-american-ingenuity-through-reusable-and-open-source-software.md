@@ -2,7 +2,7 @@
 slug: leveraging-american-ingenuity-through-reusable-and-open-source-software
 date: 2016-03-10 1:29:38 -0400
 title: Leveraging American Ingenuity through Reusable and Open Source Software
-summary: 'Summary: Today, we&rsquo;re releasing for public comment a draft policy to support improved access to custom software code developed for the Federal Government. America has long been a nation of innovators. American scientists, engineers and entrepreneurs invented the microchip, created the Internet, invented the smartphone, started the revolution in biotechnology, and sent astronauts to the'
+summary: 'Summary: Today, we’re releasing for public comment a draft policy to support improved access to custom software code developed for the Federal Government. America has long been a nation of innovators. American scientists, engineers and entrepreneurs invented the microchip, created the Internet, invented the smartphone, started the revolution in biotechnology, and sent astronauts to the'
 authors:
   - tony-scott
 categories:

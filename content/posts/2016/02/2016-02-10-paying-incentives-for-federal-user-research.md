@@ -2,7 +2,7 @@
 slug: paying-incentives-for-federal-user-research
 date: 2016-02-10 10:00:28 -0400
 title: Paying Incentives for Federal User Research
-summary: 'Paying incentives to test participants is standard practice in research and usability testing. While some people may be willing to participate for free, many aren&rsquo;t. Incentive payments help ensure people will take the time to travel to your office and give you 30, 60 or even 90 minutes of their time. However, government researchers and'
+summary: 'Paying incentives to test participants is standard practice in research and usability testing. While some people may be willing to participate for free, many aren’t. Incentive payments help ensure people will take the time to travel to your office and give you 30, 60 or even 90 minutes of their time. However, government researchers and'
 authors:
   - andreanocesigritz
 categories:
@@ -33,4 +33,4 @@ Some agencies hire vendors to recruit and pay the participants, while others do 
   * Finding participants: This can be difficult, but local universities can help. They may even be able to offer classrooms as testing locations.
   * Testing locations: If you test in a public place, such as a library or university, and are only asking people for a few minutes of their time, you may not need to pay incentives.
 
-_Thanks to members of the [UX]({{< link "federal-user-experience-community-of-practice.md" >}}) community for their contributions to this article._
+_Thanks to members of the [UX]({{< link "user-experience.md" >}}) community for their contributions to this article._

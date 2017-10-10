@@ -2,7 +2,7 @@
 slug: the-challenge-of-partnerships-the-good-bad-and-ugly-of-prize-collaborations
 date: 2016-04-29 1:13:06 -0400
 title: 'The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Collaborations'
-summary: 'Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin. To partner or not to partner: That is the question. &ldquo;If you are going to do one, don&rsquo;t do it because it seems like a good idea,&rdquo;'
+summary: 'Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin. To partner or not to partner: That is the question. &ldquo;If you are going to do one, don’t do it because it seems like a good idea,&rdquo;'
 authors:
   - eric-beidel
 categories:

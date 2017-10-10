@@ -2,7 +2,7 @@
 slug: cfpbs-ideabox-an-open-source-internal-ideation-platform
 date: 2014-11-03 10:00:00 -0400
 title: 'CFPB&#8217;s IdeaBox: an Open-Source Internal Ideation Platform'
-summary: 'IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.   Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau&rsquo;s initiative to generate, incubate, and'
+summary: 'IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.   Do you want to build an innovation program at your organization? Learn how you can leverage resources from IdeaBox, the Consumer Financial Protection Bureau’s initiative to generate, incubate, and'
 authors:
   - monte-desai
 categories:
@@ -40,4 +40,4 @@ Do you want to build an innovation program at your organization? Learn how you c
   * Use and customize IdeaBox’s open source code
 
 CFPB built IdeaBox in-house and <a href="http://cfpb.github.io/" target="_blank">shared its source code on GitHub</a> for anyone to use. It can be fully customized and integrated into your organization’s intranet. <a href="https://www.youtube.com/watch?v=KRQ24645LOE&list=UU5V8jrK77-8gsa9RL_taG9A" target="_blank">Check out the webinar</a>, download the <a href="http://www.slideshare.net/DigitalGov/idea-box-digitalgov-webinar-vff2" target="_blank">presentation slides</a>, or contact <a href="mailto:%20monte.desai@cfpb.gov" target="_blank">Monte Desai</a> for more information on IdeaBox._**Monte Desai** leads the internal innovation team at the <a href="http://www.consumerfinance.gov/" target="_blank">Consumer Financial Protection Bureau (CFPB)</a>._
-_If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< link "challenges-prizes-community.md" >}}). If you are interested in entering a challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov/list/)._
+_If you would like more information on challenges and prize competitions, become part of the [Federal Challenge and Prize Community listserv]({{< link "challenges-prizes.md" >}}). If you are interested in entering a challenge, see the list of government challenges at [Challenge.gov](https://www.challenge.gov/list/)._

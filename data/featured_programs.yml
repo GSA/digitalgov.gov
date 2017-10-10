@@ -18,7 +18,7 @@ featured:
       uid   : usa-gov-digital-strategy
       alt   :
 # ==============================================
-  - uid     : challenges-and-prizes
+  - uid     : challenges-prizes
     summary :
     img:
       uid   : challengegov-logo

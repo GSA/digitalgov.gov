@@ -2,7 +2,7 @@
 slug: hiv-govs-6-ways-to-stay-social-media-savvy
 date: 2017-08-31 2:49:14 -0400
 title: 'HIV.gov&#8217;s 6 Ways to Stay Social Media Savvy'
-summary: 'This post was originally published on the HIV.gov blog. Editor&rsquo;s Note: At HIV.gov, our team calls include a weekly update on digital trends. These updates allow us to stay current and inform our work. We recently asked HIV.gov&rsquo;s former digital strategist to suggest ways our HIV partners can stay up to date with social media trends.'
+summary: 'This post was originally published on the HIV.gov blog. Editor’s Note: At HIV.gov, our team calls include a weekly update on digital trends. These updates allow us to stay current and inform our work. We recently asked HIV.gov’s former digital strategist to suggest ways our HIV partners can stay up to date with social media trends.'
 authors:
   - michelle-samplin-salgado
 featured_image:

@@ -2,7 +2,7 @@
 slug: tips-from-nrc-on-webstreaming-public-meetings
 date: 2014-04-07 10:00:46 -0400
 title: Tips from NRC on Webstreaming Public Meetings
-summary: 'In support of open government, the U.S. Nuclear Regulatory Commission&rsquo;s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent White House Office of Science and Technology Policy (OSTP) blog about the upcoming 2014 Open Government plans and achievements'
+summary: 'In support of open government, the U.S. Nuclear Regulatory Commission’s (NRC) expansion of webstreamed meetings has allowed more participants around the country to hear about existing and proposed nuclear sites. It was lauded in a recent White House Office of Science and Technology Policy (OSTP) blog about the upcoming 2014 Open Government plans and achievements'
 authors:
   - christine-kundrat
   - danita-stenberg

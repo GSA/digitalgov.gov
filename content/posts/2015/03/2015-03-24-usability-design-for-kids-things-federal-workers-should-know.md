@@ -2,7 +2,7 @@
 slug: usability-design-for-kids-things-federal-workers-should-know
 date: 2015-03-24 10:00:50 -0400
 title: 'Usability Design for Kids: Things Federal Workers Should Know'
-summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn&rsquo;t really designed for kids &ndash;most of the electronic materials I'
+summary: ' I used to teach 8th grade science in inner city Denver in the 1990s. After that, I supported special education students and their teachers in North Carolina. Around that time (mid-late 1990s), the Internet wasn’t really designed for kids &ndash;most of the electronic materials I'
 authors:
   - justin-dopke
 categories:

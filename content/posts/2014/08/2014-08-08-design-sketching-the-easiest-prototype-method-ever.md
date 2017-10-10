@@ -2,7 +2,7 @@
 slug: design-sketching-the-easiest-prototype-method-ever
 date: 2014-08-08 10:00:19 -0400
 title: 'Design Sketching: The Easiest Prototype Method Ever'
-summary: 'When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don&rsquo;t fall under its spell. It&rsquo;s often when you remove the technological layers between you and your thoughts that the best ideas sprout. You&rsquo;ve heard of great ideas that started'
+summary: 'When it comes to Web and software design, the pen(cil) is often mightier than the Design Suite. What I mean is: Tech is cool, but don’t fall under its spell. It’s often when you remove the technological layers between you and your thoughts that the best ideas sprout. You’ve heard of great ideas that started'
 authors:
   - jonathan-rubin
 categories:
@@ -38,7 +38,7 @@ This is a sample design I made for an idea for federal mobile app. It took exact
 
 All of a sudden, you’ve gone from a piece of paper to an experience you can lead someone through. Now, by creating multiple sheets for your customer to move through, you can conduct a quick but valuable usability test. Your customer (and you) start to understand the product better. They can see the layers and understand where they “are” in the whole thing. That’s very powerful. Once you know where you are, you know where you can do. Options start to come to mind. And people can form opinions about this new experience that they are having.
 
-The [Federal User Experience Program]({{< link "federal-user-experience-community-of-practice.md" >}} "Federal User Experience Community") and the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
+The [Federal User Experience Program]({{< link "user-experience.md" >}} "Federal User Experience Community") and the [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile") recently held a Mobile Prototyping workshop where we taught people to list as many ideas as they could for a mobile app, and then start sketching some design ideas with markers. They started off rough, and quickly progressed into a series of images they gave to users to try. Very quickly, the design strengths and weaknesses revealed themselves.
 
 {{< legacy-img src="2014/07/600-x-290-prototyp-3.jpg" alt="prototype 3" >}}
 

@@ -2,7 +2,7 @@
 slug: lessons-learned-evaluating-video-content
 date: 2016-12-01 12:00:23 -0400
 title: 'Lessons Learned: Evaluating Video Content'
-summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization&rsquo;s'
+summary: 'If you were to perform research on the value proposition of training videos, you would notice that opinions are split on their efficacy. Despite all the tools that are out there that can help you evaluate video quality, views, and drop-off, there are some things that should be considered in the analysis of your organization’s'
 authors:
   - tim-jakubowski
 categories:
@@ -46,5 +46,5 @@ Depending on the content, there is potential that the video could become outdate
 
 Overall, evaluation of training videos really depends on your project and the limitations you have, but I cannot stress the importance of understanding of why it was created in the first place and what problem the video is trying to solve. The solution may not be in the video, but could lie elsewhere.
 
-_This article is the result of a thread on our User Experience Community listserv. See how other agencies are working with [content]({{< link "categories/content" >}}) and [video]({{< link "categories/video" >}}), and find out how to join our [Communities]({{< link "communities.md" >}}), like [Digital Audio/Video Production and Strategy]({{< tmp "communities/digital-audio-video-community-of-practice.md" >}}) and [User Experience]({{< link "federal-user-experience-community-of-practice.md" >}})._
+_This article is the result of a thread on our User Experience Community listserv. See how other agencies are working with [content]({{< link "categories/content" >}}) and [video]({{< link "categories/video" >}}), and find out how to join our [Communities]({{< link "communities.md" >}}), like [Digital Audio/Video Production and Strategy]({{< tmp "communities/digital-audio-video-community-of-practice.md" >}}) and [User Experience]({{< link "user-experience.md" >}})._
 _If you’re interested in writing for [DigitalGov]({{< link "index.html" >}}), learn about the [Open Opportunities program]({{< link "open-opportunities-in-digitalgov.md" >}}) and check out our assignments (for feds with .gov or .mil email accounts only). If your agency’s team has tech-related lessons learned, case studies, digital or mobile product news, strategy success stories, etc. to share, please [review our guidelines]({{< link "join-digitalgov.md" >}}) and [contact DigitalGov]({{< link "contact-us.md" >}}) to submit an article idea._

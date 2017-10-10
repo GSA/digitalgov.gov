@@ -2,7 +2,7 @@
 slug: studentaid-gov-using-data-to-empower-borrowers
 date: 2015-05-27 13:10:12 -0400
 title: 'StudentAid.gov: Using Data to Empower Borrowers'
-summary: 'It&rsquo;s been a while, but in previous posts, I described what we&rsquo;ve learned from operating StudentAid.gov, the U.S. Department of Education&rsquo;s Office of Federal Student Aid website created to educate students and borrowers about the federal student aid programs and process and help them make informed decisions about financing college and career school. We first'
+summary: 'It’s been a while, but in previous posts, I described what we’ve learned from operating StudentAid.gov, the U.S. Department of Education’s Office of Federal Student Aid website created to educate students and borrowers about the federal student aid programs and process and help them make informed decisions about financing college and career school. We first'
 authors:
   - brenda-wensil
 categories:

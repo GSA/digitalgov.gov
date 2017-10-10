@@ -10,7 +10,11 @@
     </script>
   {{ end }}
 
-  {{ partial "notice-bar.html" . }}
+  {{ if eq ($.Scratch.Get "env") "site" }}
+  {{ else }}
+    {{ partial "notice-bar.html" . }}
+  {{ end }}
+
 
   {{ partial "nav-fixed-navbar.html" . }}
 

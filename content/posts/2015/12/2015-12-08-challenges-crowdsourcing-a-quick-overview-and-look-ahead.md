@@ -2,7 +2,7 @@
 slug: challenges-crowdsourcing-a-quick-overview-and-look-ahead
 date: 2015-12-08 11:43:44 -0400
 title: 'Challenges & Crowdsourcing: A Quick Overview and Look Ahead'
-summary: 'This month we&rsquo;re highlighting articles about challenge competitions and crowdsourcing across the federal government. Federal agencies can gain a wealth of ideas, services, solutions and products by asking a large, diverse crowd to contribute their talents and skills. Simply put, crowdsourcing means engaging the crowd. Often referred to as a form of open collaboration or'
+summary: 'This month we’re highlighting articles about challenge competitions and crowdsourcing across the federal government. Federal agencies can gain a wealth of ideas, services, solutions and products by asking a large, diverse crowd to contribute their talents and skills. Simply put, crowdsourcing means engaging the crowd. Often referred to as a form of open collaboration or'
 authors:
   - eric-beidel
 categories:
@@ -48,7 +48,7 @@ It’s small wonder, then, that so many agencies are turning to citizen science 
   * [The Environmental Protection Agency’s effort](https://ccsinventory.wilsoncenter.org/#projectId/228) to measure and address the impacts of transit and air pollution on children’s health
   * [The National Park Service’s pilot program](http://www.nps.gov/rlc/continentaldivide/international-partnerships.htm) that allows students to study species present in both the Rocky Mountains and a park in Costa Rica.
 
-The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science]({{< link "federal-crowdsourcing-and-citizen-science.md" >}}) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
+The White House Office of Science and Technology Policy (OSTP) also led an effort to [create a toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) for those wishing to carry out their own citizen science and crowdsourcing projects. The [Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}}) community of practice worked to establish the toolkit and now is ramping-up coordination efforts in this area, including development of a central online database for federal citizen science initiatives.
 
 The partnership between GSA and OSTP also will help establish coordinators at each agency who can help manage contributions to this database.
 

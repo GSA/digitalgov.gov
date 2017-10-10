@@ -2,7 +2,7 @@
 slug: oip-seeks-your-participation-in-the-development-of-the-national-foia-portal
 date: 2017-04-20 2:05:13 -0400
 title: OIP Seeks Your Participation in the Development of the National FOIA Portal
-summary: 'The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA&rsquo;s 18F team on the development of a National FOIA Portal. This is the next step in a long line of OIP initiatives working towards a National FOIA Portal going back to 2010 with the launch of FOIA.gov. Most recently, the FOIA'
+summary: 'The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s 18F team on the development of a National FOIA Portal. This is the next step in a long line of OIP initiatives working towards a National FOIA Portal going back to 2010 with the launch of FOIA.gov. Most recently, the FOIA'
 authors:
   - office-of-information-policy-doj
 categories:
