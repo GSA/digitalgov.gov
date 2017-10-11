@@ -3,7 +3,7 @@
     <div class="post clearfix">
 
       <div class="featpage-image">
-        <a href="{{ .URL }}" rel="bookmark" title="Permanent Link to DAP: Digital Analytics Program">
+        <a href="{{ .URL | absURL }}" rel="bookmark" title="Permanent Link to DAP: Digital Analytics Program">
 
           {{/* partial "img-featured--home.html" . */}}
           <img
@@ -15,9 +15,9 @@
         </a>
       </div>
 
-      <h3 class="widgettitle"><span><a href="{{ .URL }}">{{ .Title | markdownify }}</a></span></h3>
+      <h3 class="widgettitle"><span><a href="{{ .URL | absURL }}">{{ .Title | markdownify }}</a></span></h3>
       <span class="featpage-excerpt">{{ .Params.summary | markdownify | safeHTML | truncate 200 }}</span>
-      <a href="{{ .URL }}" rel="nofollow">Read More</a>
+      <a href="{{ .URL | absURL }}" rel="nofollow">Read More</a>
 
     </div><!-- .post -->
   </div><!-- .widget-wrap -->

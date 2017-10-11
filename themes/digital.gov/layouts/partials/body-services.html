@@ -30,7 +30,7 @@
     <div class="widget-wrap">
       <div class="post clearfix">
         <div class="featpage-image">
-          <a href="{{ $match.URL }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
+          <a href="{{ $match.URL | absURL }}" rel="bookmark" title="{{ $match.Title | markdownify }}">
 
             {{ $cdnurl := $.Site.Params.cdnurl }}
             {{ $thisimg := index $.Site.Data.images (default "bill-of-rights" ($.Scratch.Get "featured-img-uid")) }}
@@ -55,7 +55,7 @@
 
         <h3 class="widgettitle"><span><a href="{{ $match.URL }}">{{ $match.Title | markdownify }}</a></span></h3>
         <span class="featpage-excerpt">{{ $.Scratch.Get "featured-summary" | markdownify | safeHTML | truncate 200 }}</span>
-        <a href="{{ $match.URL }}" rel="nofollow">Read More</a>
+        <a href="{{ $match.URL | absURL }}" rel="nofollow">Read More</a>
 
       </div><!-- .post -->
     </div><!-- .widget-wrap -->
