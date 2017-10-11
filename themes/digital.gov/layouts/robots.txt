@@ -1,7 +1,7 @@
 {{- partial "set-env.html" . -}}
 User-agent: *
+Env: {{ $.Scratch.Get "env" }}
 {{ if eq ($.Scratch.Get "env") "site" }}
-{{ $.Scratch.Get "env" }}
 {{- else -}}
 Disallow: /
 {{ end }}
