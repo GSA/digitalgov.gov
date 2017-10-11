@@ -18,7 +18,7 @@ The Forum is open to U.S. government employees. We’ve been working together si
 Forum members regularly collaborate with other specialized [DigitalGov Communities]({{< link "communities.md" >}})—consider joining if any of these interest you:
 
   * [Challenges and Prizes Community]({{< link "challenges-prizes.md" >}})
-  * [Customer Experience Community]({{< tmp "communities/customer-experience-community.md" >}})
+  * [Customer Experience Community]({{< link "communities/customer-experience-community" >}})
   * [Government Contact Center Council]({{< link "government-contact-center-council.md" >}})
   * [MobileGov Community of Practice]({{< link "mobilegov.md" >}})
   * [Multilingual Digital Group]({{< link "multilingual.md" >}})

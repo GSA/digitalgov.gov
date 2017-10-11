@@ -21,15 +21,15 @@ Improving the federal government’s ability to deliver digital information anyt
 
 The key steps in getting ready to move to a CMS include:
 
-  * [Prepare Your Content]({{< link "#prepare.md" >}})
-  * [Choose a CMS]({{< link "#choose.md" >}})
-  * [Migrate Your Content to a CMS]({{< link "#migrate.md" >}})
+  * [Prepare Your Content]({{< link "#prepare" >}})
+  * [Choose a CMS]({{< link "#choose" >}})
+  * [Migrate Your Content to a CMS]({{< link "#migrate" >}})
 
 ## Prepare Your Content {#prepare}
 
 ### Develop a Content Strategy
 
-A [content strategy]({{< link "?s=content+strategy.md" >}}) defines such things as topics, themes and purpose, and can also play a part in website governance, customer experience, metadata and search engine optimization (SEO). The value of developing a content strategy is that it forces you to examine what you’re trying to accomplish with your digital content, where you need it delivered, and desired outcomes.
+A content strategy defines such things as topics, themes and purpose, and can also play a part in website governance, customer experience, metadata and search engine optimization (SEO). The value of developing a content strategy is that it forces you to examine what you’re trying to accomplish with your digital content, where you need it delivered, and desired outcomes.
 
 When developing your content strategy, ask:
 
@@ -45,7 +45,7 @@ When developing your content strategy, ask:
 
 Complete a [content inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html) to identify and document everything on your site. At a minimum, include all your Web pages. You may also want to include all linked files and attachments such as PDFs, video files, documents, pictures, etc. The best way to track your inventory is with a spreadsheet, where you can list all your content. It will help you see all your content at a glance, and illustrate how the different sections of your site fit together. It can also help you map your current content to your new CMS.
 
-To get you started, we’ve developed a sample content inventory spreadsheet**<span style="color: #000000"> <a href="{{< tmp "files/2014/07/sample-content-inventory.xlsx" >}}">sample content inventory spreadsheet</a></span>** which you can use to document your content inventory. The spreadsheet has two tabs: one for active content, and one to track content that you’ve archived or unpublished. The spreadsheet is organized so that you can group related pages together, following your site’s information architecture (IA). There are fields for the page name, URL, date, review schedule, content lead, and more. Tools you may find useful to develop your content inventory include:
+To get you started, we’ve developed a sample content inventory spreadsheet**<span style="color: #000000"> <a href="{{< legacy-file "2014/07/sample-content-inventory.xlsx" >}}">sample content inventory spreadsheet</a></span>** which you can use to document your content inventory. The spreadsheet has two tabs: one for active content, and one to track content that you’ve archived or unpublished. The spreadsheet is organized so that you can group related pages together, following your site’s information architecture (IA). There are fields for the page name, URL, date, review schedule, content lead, and more. Tools you may find useful to develop your content inventory include:
 
   * [Xenu&#8217;s Link Sleuth](http://home.snafu.de/tilman/xenulink.html)—this link check program grabs page URLs and page titles, two key pieces of information to start your inventory
   * [Similar Page Checker](http://www.webconfs.com/similar-page-checker.php)—this tool compares two URLs for duplicate content
@@ -69,7 +69,7 @@ Structured content refers to content that is posted as &#8220;pieces of informat
 
 Once you determine the data structure for your content, you can configure your CMS so it’s easy to create and tag content accordingly. As an example, as part of EPA’s migration to a new CMS, they identified their content structure and can now tag each piece of content with metadata as it’s created in the new CMS.
 
-See how [EPA uses Dublin Core metadata to structure content]({{< tmp "files/2014/07/metadata-in-drupal-epa.pdf" >}}) (PDF, 109 KB, 16 pages, November 2012).
+See how [EPA uses Dublin Core metadata to structure content]({{< legacy-file "2014/07/metadata-in-drupal-epa.pdf" >}}) (PDF, 109 KB, 16 pages, November 2012).
 
 ### Tag Your Content with Metadata
 
@@ -181,10 +181,10 @@ Business needs should be the [primary driver]({{< link "2013-12-12-9-reasons-you
 
 Use these tools to document how well different products match your requirements. This will help you to identify the one that will work best for you.
 
-  * [CMS Solution Evaluation Tool]({{< tmp "files/2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (MS Excel, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
+  * [CMS Solution Evaluation Tool]({{< legacy-file "2014/07/sample-cms-solution-evaluation-tool.xlsx" >}})  (MS Excel, 36 KB, 1 sheet, November 2012)—a sample spreadsheet used to compare, rate, and rank different CMS tools side-by-side, based on features and functionality
   * [CMSmatrix.org](http://www.cmsmatrix.org/)—this online tool lets you compare features of many different CMS products side-by-side
 
-Use this [sample Web CMS Requirements doc]({{< tmp "files/2014/07/cms-requirements-for-sow.docx" >}}) (MS Word, 90 KB, 27 pages, December 2012) as a model to document everything that your CMS should do.
+Use this [sample Web CMS Requirements doc]({{< legacy-file "2014/07/cms-requirements-for-sow.docx" >}}) (MS Word, 90 KB, 27 pages, December 2012) as a model to document everything that your CMS should do.
 
 ### Is One CMS Enough?
 
@@ -216,7 +216,7 @@ Many federal agencies already use open-source content management systems, and if
 
 As you work through your requirements list, a few systems will begin to stand out as possible candidates. Once you’ve narrowed down the top 3-6 CMS, it’s time to take a test-drive. Involve both content and tech teams in the process. Identify user types and common tasks. Have content contributors give the tool a test-drive, and try completing basic content management tasks, to see how easy it is to use the system.
 
-Use this [Use this sample CMS User Roles and Needs]({{< tmp "files/2014/07/cms-user-roles-and-needs.docx" >}}) (MS Word, 13 KB, 1 page, December 2012) to document different types of CMS users and the common tasks each will need to perform.
+Use this [Use this sample CMS User Roles and Needs]({{< legacy-file "2014/07/cms-user-roles-and-needs.docx" >}}) (MS Word, 13 KB, 1 page, December 2012) to document different types of CMS users and the common tasks each will need to perform.
 
 ### Learn from the Community
 
@@ -241,8 +241,8 @@ A content migration is more than just an IT project; it should be managed as any
 
 Here are some examples of both a very basic project outline, and a detailed project plan:
 
-  * [Sample Task List for Website Redesign]({{< tmp "files/2014/07/task-list-for-website-redesign.docx" >}}) (MS Word, 13 KB, 2 pages, December 2012) shows a high-level project outline
-  * [Sample Website Redesign Schedule]({{< tmp "files/2014/07/website-redesign-final-schedule.pdf" >}}) (PDF, 249 KB, 10 pages, December 2012) shows a detailed website migration project plan
+  * [Sample Task List for Website Redesign]({{< legacy-file "2014/07/task-list-for-website-redesign.docx" >}}) (MS Word, 13 KB, 2 pages, December 2012) shows a high-level project outline
+  * [Sample Website Redesign Schedule]({{< legacy-file "2014/07/website-redesign-final-schedule.pdf" >}}) (PDF, 249 KB, 10 pages, December 2012) shows a detailed website migration project plan
 
 ### Identify Resource Requirements
 
@@ -265,8 +265,8 @@ Many agencies contract for developer support with a migration, because it’s a 
 A Statement of Work/Objectives (SOW/SOO) will help you retain the services of a 3rd-party contractor to assist with installing and configuring your new CMS, and migrating your content. Work with your Contracting Office to execute an SOO/SOW.
 
   * [Sample Technology Statements of Work (SOWs) from GSA](http://www.gsa.gov/portal/content/133795)
-  * [Sample Statement of Objectives—Website CMS migration, development and support]({{< tmp "files/2014/07/sample-statement-of-objectives-website-migration.docx" >}}) (MS Word, 53 KB, 14 pages, November 2012)—GSA
-  * [Sample Statement of Objectives—Website CMS consolidation]({{< tmp "files/2014/07/sample-statement-of-objectives-website-consolidation.docx" >}}) (MS Word, 53 KB, 12 pages, November 2012)—GSA
+  * [Sample Statement of Objectives—Website CMS migration, development and support]({{< legacy-file "2014/07/sample-statement-of-objectives-website-migration.docx" >}}) (MS Word, 53 KB, 14 pages, November 2012)—GSA
+  * [Sample Statement of Objectives—Website CMS consolidation]({{< legacy-file "2014/07/sample-statement-of-objectives-website-consolidation.docx" >}}) (MS Word, 53 KB, 12 pages, November 2012)—GSA
 
 Once they’re on board, make sure the contractors are in the loop on all the prep work you’ve done up to this point.
 
@@ -281,14 +281,14 @@ Document who’s responsible for every piece of the migration project, so nothin
 
   * Identify your project manager, and empower that person to make decisions and assign work.
   * Clarify who will lead each piece of the project, such as managing the content inventory, or coordinating development work.
-  * A [Project Charter]({{< tmp "files/2014/07/sample-website-project-charter.docx" >}}) can ensure you have project buy-in from stakeholders across your organization.
+  * A [Project Charter]({{< legacy-file "2014/07/sample-website-project-charter.docx" >}}) can ensure you have project buy-in from stakeholders across your organization.
 
 ### Communicate with Stakeholders
 
 A successful migration depends on support from management and buy-in from stakeholders.
 
   * Provide regular updates throughout the migration process, highlight successes and flag potential problems, to keep everything on track.
-  * See a [sample marketing flyer from EPA]({{< tmp "files/2014/07/one-epa-web.pdf" >}}) (PDF, 543 KB, 2 pages, November 2012) about their migration to Drupal. It outlines what they’re doing, why they’re doing it, and how it will work.
+  * See a [sample marketing flyer from EPA]({{< legacy-file "2014/07/one-epa-web.pdf" >}}) (PDF, 543 KB, 2 pages, November 2012) about their migration to Drupal. It outlines what they’re doing, why they’re doing it, and how it will work.
 
 ### Pick the Right Time to Migrate
 
@@ -363,7 +363,7 @@ Some agencies have launched an early version their new site in “beta,” runni
 
 Once you have tested your migration process and everything works well, it&#8217;s time to move your content into the new CMS. You&#8217;ll need to validate that each piece of content was correctly migrated. Use the checklist below to verify each page as you move it.
 
-[Content Migration Validation Checklist]({{< tmp "files/2014/07/content-migration-validation-checklist.xlsx" >}}) (MS Excel, 41 KB, 1 sheet, December 2012)
+[Content Migration Validation Checklist]({{< legacy-file "2014/07/content-migration-validation-checklist.xlsx" >}}) (MS Excel, 41 KB, 1 sheet, December 2012)
 
 ### Create Redirects as Needed
 

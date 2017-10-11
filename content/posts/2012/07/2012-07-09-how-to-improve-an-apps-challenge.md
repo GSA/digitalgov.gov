@@ -41,7 +41,7 @@ tag:
     </p>
 
     <p>
-      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< tmp "2013-11-06-resources-to-help-run-an-apps-or-mobile-apps-challenge.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
+      Check out our <a title="Resources to Help Run an Apps or Mobile Apps Challenge" href="{{< link "2013-11-06-software-and-apps-challenges.md" >}}">resources</a>—including examples, lessons learned, and more—to help you run your apps or mobile apps challenge.
     </p>
 
     <p>
