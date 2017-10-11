@@ -54,7 +54,7 @@ Since that webinar we&#8217;ve learned that mobile implementation is not a clear
 
 **Mobile Platforms**
 
-In the U.S., there are four mobile platforms for developing mobile apps&#8211;Blackberry, iOS/Apple, GooglePlay/Android, Windows Phone. Our [Mobile Platform Development Webinar Series]({{< tmp "2012-05-07-the-mobile-platform-development-webinar-series-continues.md" >}} "The Mobile Platform Development Webinar Series Continues!") featured step by step walk throughs for development on these platforms.
+In the U.S., there are four mobile platforms for developing mobile apps&#8211;Blackberry, iOS/Apple, GooglePlay/Android, Windows Phone.
 
 **The Future**
 
