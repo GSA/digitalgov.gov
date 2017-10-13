@@ -1,5 +1,5 @@
 ---
-url: /feed/index.xml
+url: /feed/
 type: docs
 layout: data
 feed: xml
