@@ -1,9 +1,51 @@
 // USWDS SASS variable overrides go here, before we import USWDS itself.
 //
 
-$font-path: '../vendor/uswds/fonts';
-$image-path: '../vendor/uswds/img';
+$font-path: '../fonts';
+$image-path: '../img';
 
-@import 'uswds';
+// Copy imports from USWDS module to control imports
+
+/*! uswds @version */
+
+// Vendor -------------- //
+@import 'lib/bourbon';
+@import 'lib/neat';
+@import 'lib/normalize';
+
+// Core -------------- //
+@import 'core/variables';
+@import 'core/fonts';
+@import 'core/grid';
+@import 'core/utilities';
+@import 'core/base';
+
+// Elements -------------- //
+// Styles basic HTML elements
+@import 'elements/buttons';
+@import 'elements/embed';
+@import 'elements/figure';
+@import 'elements/inputs';
+@import 'elements/labels';
+@import 'elements/list';
+@import 'elements/table';
+@import 'elements/typography';
+
+// Components -------------- //
+@import 'components/accordions';
+@import 'components/alerts';
+@import 'components/banner';
+@import 'components/footer';
+@import 'components/forms';
+@import 'components/graphic-list';
+@import 'components/header';
+@import 'components/hero';
+@import 'components/layout';
+@import 'components/media-block';
+@import 'components/navigation';
+@import 'components/search';
+@import 'components/section';
+@import 'components/sidenav';
+@import 'components/skipnav';
 
 // New custom CSS rules can go here.
