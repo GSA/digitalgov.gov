@@ -3,16 +3,16 @@ slug: a-conversation-with-itif-about-state-federal-government-websites
 date: 2017-09-20 11:00:00 -0400
 title: 'A Conversation With ITIF About the State of Federal Government Websites'
 summary: 'Since it’s been nearly six months since their report was released, we wanted to check in with ITIF and see what they’ve learned, what they’ve heard from agencies and what their future plans are to build on this research&#46;'
-authors: 
+authors:
   - andreanocesigritz
-categories: 
+categories:
   - accessibility
   - design
   - metrics
   - mobile
   - user-testing-and-research
   - ux
-tag: 
+tag:
   - accessibility
   - communities
   - content
@@ -34,14 +34,14 @@ tag:
   - user-experience
   - user-research
   - ux
-featured_image: 
+featured_image:
   uid: itif-presentation-title-slide
   alt: 'Screen capture of the event in the YouTube player&#46;'
 ---
 
 At the beginning of 2017, the ITIF (Information Technology and Innovation Foundation) released [a report](https://www.digitalgov.gov/2017/03/24/new-itif-report-inspires-a-closer-look-at-website-performance-and-security-here-is-where-to-begin/) that benchmarked 300 federal websites in four areas: page-load speed, mobile friendliness, security and accessibility. Some sites fared better than others, but the report highlighted that our federal sites have a ways to go (DigitalGov included) in these areas.
 
-https://www.youtube.com/watch?v=Mu-MXrkv0sw 
+{{< youtube "Mu-MXrkv0sw" >}} 
 
 Looking at these four metrics is important as they directly impact our customers’ first perceptions of the quality of our government’s digital services.
 
