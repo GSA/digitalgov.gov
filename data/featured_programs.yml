@@ -6,28 +6,16 @@ featured:
       uid   : new-dap-image-no-url-for-dg-homepage
       alt   :
 # ==============================================
-  - uid     : mobile-application-testing-program
-    summary :
-    img:
-      uid   : mobile-devices-testing-app-tilted
-      alt   :
-# ==============================================
-  - uid     : sites-usa-gov
-    summary :
-    img:
-      uid   : usa-gov-digital-strategy
-      alt   :
-# ==============================================
   - uid     : challenges-prizes
     summary :
     img:
       uid   : challengegov-logo
       alt   :
 # ==============================================
-  - uid     : social-media
+  - uid     : mobile-application-testing-program
     summary :
     img:
-      uid   : social-media-icons-ailverv-istock-thinkstock-476494475
+      uid   : mobile-devices-testing-app-tilted
       alt   :
 # ==============================================
   - uid     : negotiated-terms-of-service-agreements

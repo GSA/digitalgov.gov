@@ -6,6 +6,7 @@ title: 'Manage Your Listserv Subscription'
 summary: 'GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.'
 aliases:
   - /manage-your-listserv-subscription/
+  - /communities/manage-your-listserv-subscription/
 ---
 
 GSA supports many communities of practice by hosting listservs which provide our DigitalGov community with an easy way to collaborate, ask questions, and share information.

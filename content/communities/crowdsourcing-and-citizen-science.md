@@ -6,6 +6,7 @@ title: 'Crowdsourcing and Citizen Science Community of Practice'
 summary: 'The Federal Community of Practice on Crowdsourcing and Citizen Science (CCS) works across the government to share lessons learned and develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives.'
 aliases:
   - /federal-crowdsourcing-and-citizen-science/
+  - /communities/federal-crowdsourcing-and-citizen-science/
 ---
 
 If you had 100,000 people to help you with your work, what would you do?
