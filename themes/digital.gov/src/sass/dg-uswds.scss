@@ -1,0 +1,9 @@
+// USWDS SASS variable overrides go here, before we import USWDS itself.
+//
+
+$font-path: '../vendor/uswds/fonts';
+$image-path: '../vendor/uswds/img';
+
+@import 'uswds';
+
+// New custom CSS rules can go here.
