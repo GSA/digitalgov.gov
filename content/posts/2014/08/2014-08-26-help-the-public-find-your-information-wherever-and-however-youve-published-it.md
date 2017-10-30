@@ -21,7 +21,7 @@ tag:
   - open source
 ---
 
-{{< legacy-img src="2014/08/250-x-167-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" alt="Think Outside The Box Concept" caption="" >}} 
+{{< legacy-img src="2014/08/250-x-167-Think-Outside-The-Box-Concept-IvelinRadkov-iStock-Thinkstock-176221152.jpg" alt="Think Outside The Box Concept" caption="" >}}
 
 As traffic to desktop .gov websites declines, how we publish our content increasingly matters. We need to meet people where they are as they seek information on the Internet. To do so, we need to adjust to the new world of mobile applications, social media, and instant answers provided by search engines.
 
@@ -66,4 +66,4 @@ By using social media APIs you can embed Twitter content in a timeline, link dir
 
 For example, on agencies’ websites that use [DigitalGov Search](http://search.WHATEVER), searchers automatically see image results from Flickr and Instagram, video results from YouTube, jobs from USAJobs, and rules and notices from the _Federal Register_. All without any effort beyond publishing the original content to social media, the Office of Personnel Management, or the Office of the Federal Register.
 
-Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable._This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+Let’s free our content, repurpose it, and be our own customers. It’ll help us make our valuable government information even more findable, sharable, and usable._This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

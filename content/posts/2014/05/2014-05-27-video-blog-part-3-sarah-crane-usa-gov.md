@@ -21,4 +21,4 @@ In our final video interview with Sarah Crane of USA.gov, she talks about adapti
   
 _Interested in learning more about adaptive content and content modeling? Check out the new [Structured Content Models]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!") and the [training on Event Model Creation]({{< tmp "events/what-structured-content-can-do-for-you-event-model.md" >}} "What Structured Content Can Do For You: Event Model")._
 
- _We&#8217;ve created an [Editorial Theme Calendar]({{< link "join-digitalgov.md#guidelines.md" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+ _We&#8217;ve created an [Editorial Theme Calendar]({{< link "join-digitalgov.md" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
