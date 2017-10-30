@@ -89,11 +89,6 @@ menu:
       Identifier      : "challenge-gov"
       URL             : "/services/challenge-gov/"
       Weight          : 41
-    - Name            : "Content Management Systems"
-      Parent          : "services"
-      Identifier      : "sites-usa-gov"
-      URL             : "/services/sites-usa-gov/"
-      Weight          : 42
     - Name            : "Crowdsource Mobile Testing"
       Parent          : "services"
       Identifier      : "mobile-application-testing-program"

@@ -17,12 +17,6 @@ Check out the variety of services available for agencies!
 
 {{< button href="challenge-gov.md" text="Get Started" >}}
 
-## Content Management
-
-[Sites]({{< link "sites-usa-gov.md" >}} "Sites.USA.gov") lets federal agencies build websites using a self-service content management platform. It’s a hosted shared service provided by the Digital Services Innovation Center built on open source software. You can customize the look and feel, upload multi-media, manage your own users. And, your content looks good on phones, tablets and desktops.
-
-{{< button href="sites-usa-gov.md" text="Get Started" >}}
-
 ## eCPIC
 
 The [Electronic Capital Planning and Investment Control (eCPIC)]({{< link "electronic-capital-planning-and-investment-control-ecpic.md" >}} "eCPIC") application, developed to address agency needs for a more organized and transparent approach to IT Capital Planning, is a web-based, government-owned technology solution that Federal Agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes, and also to meet their external reporting requirements to the Office of Management and Budget (OMB).

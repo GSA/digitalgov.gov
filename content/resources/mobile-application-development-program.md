@@ -65,7 +65,7 @@ authors:
 
       <ul>
         <li>
-          Create mobile-enabled websites with responsive design and full multimedia capabilities with <a title="Sites.USA.gov" href="{{< link "sites-usa-gov.md" >}}">Sites.USA.gov</a>.
+          Create mobile-enabled websites with responsive design and full multimedia capabilities with <a title="Sites.USA.gov" href="https://Sites.USA.gov">Sites.USA.gov</a>.
         </li>
         <li>
           Reuse mobile code (frameworks, modular code and whole apps) and leverage testing scripts collected from multiple private and public sector sources on our <a href="http://gsa.github.io/Mobile-Code-Catalog/">Mobile Code Sharing Catalog</a>.
