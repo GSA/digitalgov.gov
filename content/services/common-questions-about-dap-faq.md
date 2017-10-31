@@ -79,9 +79,9 @@ The current deployment is designed to insulate itself from and be unobtrusive to
 
 Testing has been conducted to ensure that the government-wide code script does not conflict with other script-based code. However, it’s impossible to test every possible scenario when the possibilities are unknown, especially with custom code already deployed on agency websites. To ensure that the government-wide code snippet does not conflict with the other existing script-based code, each implementation will be handled uniquely, driven by the agency Web infrastructure, existing code, etc.
 
-### Can the Digital Analytics Code track restricted, public facing websites and webpages (i.e. webpages that require a login)?
+### Can the Digital Analytics Code track websites and webpages using HTTPS?
 
-Yes, DAP code can track restricted/https websites and webpages as long as the website can send out the .gif request to GA. The current DAP GA code serves the script and accepts the .gif request under https by default.
+Yes, DAP code can track HTTPS websites and webpages. The current DAP GA code serves the script and accepts the .gif request under HTTPS by default.
 
 ### For agencies who have a “legacy” metrics program (e.g. Urchin), is there a way to pull in some of that historical data (log files) into our new profile so that we can continue to compare current performance with historical data? Or do we need to just save that data somewhere else?
 
