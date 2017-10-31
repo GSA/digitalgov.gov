@@ -6,7 +6,7 @@ featured_image:
   uid: tile-8
   alt: 'decorative tile'
 event_type: mixed
-date: 2017-12-12 9:00am:00 -0400
+date: 2017-12-12 9:00:00 -0400
 end_date: 2017-12-12 12:00:00 -0400
 event_organizer: DigitalGov University
 host: 
