@@ -3,10 +3,11 @@
 {{ $.Scratch.Set "thisHref" $thisHref }}
 {{ $prefix := replaceRE "^(http[s]://).+$" "$1" $thisHref }}
 {{ $suffix := replaceRE "^.+(.{3,3})$" "$1" $thisHref }}
+{{ $anchorlink := replaceRE "^.+\\.md(#).+$" "$1" $thisHref }}
 
 {{ if ne $prefix $thisHref }}
   {{/* Process the link as is */}}
-{{ else if eq $suffix ".md" }}
+{{ else if or (eq $suffix ".md") (eq $anchorlink "#") }}
   {{ if .Site.Params.devmode }}
     {{ $year := replaceRE "^([0-9]{4,4}).+$" "$1" $thisHref }}
     {{ if ne 4 (len $year) }}
