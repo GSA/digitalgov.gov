@@ -29,9 +29,7 @@ What&#8217;s in it for you?
   * Connect with other digital government innovators.
   * Earn badges!
 
-<h2 id="guidelines" style="padding-top: 50px">
-  Article guidelines
-</h2>
+##  Article guidelines
 
 What types of articles are we looking for? We want posts on what government is doing in digital, general digital news, trends and issues on implementing digital for the public. It&#8217;s important to have a government angle. Your experiences—successes and less than successes—and your opinions on how to implement DigitalGov are valuable. This can accelerate time to change, leapfrogging experiences and creating efficiencies through sharing.
 

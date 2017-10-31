@@ -25,9 +25,9 @@ tag:
   - White House Office of Science and Technology Policy
 ---
 
-{{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}} 
+{{< legacy-img src="2014/12/600-x-400-Futuristic-technology-interface-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-482251177.jpg" alt="Futuristic technology interface showing a network of figures (people)." caption="" >}}
 
-Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles]({{< link "2014-12-08-crowdsourcing-month-an-overview.md" >}}) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming [trends]({{< link "join-digitalgov.md" >}}) on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
+Crowdsourcing is a critical corner of the digital government landscape, and our [December theme articles]({{< link "2014-12-08-crowdsourcing-month-an-overview.md" >}}) have covered the topic from a variety of angles. Before we head into January, where we will discuss upcoming trends on the digital horizon, we sat down to learn more about the evolution and future direction of federal crowdsourcing initiatives as a whole.
 
 We spoke with **Jenn Gustetic**, Assistant Director for Open Innovation in the [Office of Science and Technology Policy](http://www.whitehouse.gov/administration/eop/ostp) (OSTP). The scope of her position covers challenges and prizes as well as citizen science and crowdsourcing. Gustetic said that the promise of these interactive tools lies in their ability to unlock potential from new corners of the public. No longer do people need to work through organizations in order to get their voice heard.
 

@@ -58,4 +58,4 @@ If I could work anywhere, I would still work for the federal government on digit
 
  
 
-_This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md" >}}) on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+_This article is part of this month&#8217;s editorial theme on our DigitalGov Services. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

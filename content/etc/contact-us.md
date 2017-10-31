@@ -12,7 +12,7 @@ While we migrate DigitalGov.gov to a new host, the website will remain up and yo
   * [DigitalGov University]({{< link "digitalgov-university.md" >}}) (DGU) Events
   * Questions about [Communities]({{< link "communities.md" >}})
   * Questions about a [Service]({{< link "services.md" >}})
-  * How to contribute a webinar or article idea ([article guidelines]({{< link "join-digitalgov.md" >}}))
+  * How to contribute a webinar or article idea ([article guidelines]({{< link "join-digitalgov.md#guidelines" >}}))
   * Questions or Comments about DigitalGov.gov
   * Questions about the [Federal Crowdsource Mobile Testing Program]({{< link "mobile-application-testing-program.md" >}})
   * Other
