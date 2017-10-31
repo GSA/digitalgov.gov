@@ -18,8 +18,7 @@ $image-path: '../img';
 @import 'lib/neat';
 @import 'dg-normalize';
 
-/*
-box-siz// Core -------------- //
+// Core -------------- //
 @import 'core/variables';
 @import 'core/fonts';
 @import 'core/grid';
@@ -29,6 +28,7 @@ box-siz// Core -------------- //
 // Elements -------------- //
 // Styles basic HTML elements
 @import 'elements/buttons';
+/*
 @import 'elements/embed';
 @import 'elements/figure';
 @import 'elements/inputs';
@@ -38,9 +38,13 @@ box-siz// Core -------------- //
 @import 'elements/typography';
 
 // Components -------------- //
+*/
 @import 'components/accordions';
+/*
 @import 'components/alerts';
+*/
 @import 'components/banner';
+/*
 @import 'components/footer';
 @import 'components/forms';
 @import 'components/graphic-list';
