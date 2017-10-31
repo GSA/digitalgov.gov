@@ -34,6 +34,6 @@ Members of the Challenges and Prizes COP gather about four times a year to share
 ### Key Resources
 - Official listing of federal challenge: http://www.challenge.gov
 - Toolkit and resources on running challenges: http://www.challenge.gov/toolkit
-- Playlist of challenges and prizes webinars: http://www.youtube.com/user/howtogov/
+- Playlist of challenges and prizes webinars: http://www.youtube.com/digitalgov/
 - Facebook: http://www.facebook.com/challengegov
 - Twitter: http://www.twitter.com/challengegov

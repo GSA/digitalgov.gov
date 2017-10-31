@@ -19,7 +19,7 @@ sources:
 
   - name          : "YouTube"
     username      : "howtogov"
-    link          : "http://www.youtube.com/user/howtogov"
+    link          : "http://www.youtube.com/digitalgov"
     shortcode     : "youtube"
     action        : "Connect on YouTube"
 

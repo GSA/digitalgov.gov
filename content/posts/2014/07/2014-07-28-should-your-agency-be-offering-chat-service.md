@@ -76,4 +76,4 @@ At GSA, for USA.gov, the Chat channel consistently receives higher customer sati
       * Since volume is unknown at the start, dedicate agents to this channel.
       * Watch & track your Average Handle Time, but do not hold your agents to a certain standard. They may “rush” through an interaction to meet the standard.
 
-    _This article is part of this month&#8217;s [Editorial Theme]({{< link "join-digitalgov.md#guidelines.md" >}}) on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._
+    _This article is part of this month&#8217;s editorial theme on our DigitalGov Communities. Check out more articles [related to this theme]({{< tmp "deadlink" >}} "Recent Monthly Themes")._

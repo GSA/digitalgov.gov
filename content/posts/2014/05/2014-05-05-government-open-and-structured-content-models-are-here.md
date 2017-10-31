@@ -199,4 +199,4 @@ Join in the [open content modeling project](https://github.com/GSA/Open-And-Stru
   </div>
 </blockquote>
 
-_We&#8217;ve created an [Editorial Theme Calendar]({{< link "join-digitalgov.md#guidelines.md" >}}) to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._
+_We&#8217;ve created an editorial theme calendar to coordinate content each month around one focus. This month&#8217;s focus is the Digital Government Strategy. Check back for more articles related to this theme in May._

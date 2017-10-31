@@ -176,5 +176,4 @@ authors:
     *   [ICGI Report Attachments](CDN/files/2014/07/Report-Attachments-ICGI-Policies-and-Guidelines-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 184 kb, 7 pages, June 2004)
     *   [ICGI Summary and Background](CDN/files/2014/07/Summary-and-Background-ICGI-Recommendations-for-Federal-Public-Websites-2004-HowToGov.pdf) (PDF, 176 kb, 6 pages, June 2004)
 *   [Office of Management and Budget Policies for Federal Public Websites](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-04.pdf) (PDF, 48 kb, 5 pages, December 2004)
-*   [Sites.USA.gov WordPress Content Management Platform]({{< link "sites-usa-gov.md" >}})
 *   [Style Guides by Government Agencies]({{< link "style-guides-by-government-agencies.md" >}})
