@@ -198,7 +198,7 @@ Here’s the [step-by-step guide USA.gov uses]({{< link "2016-03-29-usagovs-step
 
   * [Role-Based Accessibility in Government: Everyone&#8217;s Responsibility](https://www.youtube.com/watch?v=2wRl-JM3I-Mhttp://www.howto.gov/training/classes/role-based-accessibility) (November 2012)
 
-  * [DigitalGov YouTube Channel](https://www.youtube.com/user/HowTogov)
+  * [DigitalGov YouTube Channel](https://www.youtube.com/digitalgov)
 
   * [DigitalGov University On-Demand Training]({{< link "digitalgov-university.md" >}})
 

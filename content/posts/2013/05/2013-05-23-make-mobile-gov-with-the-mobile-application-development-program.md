@@ -40,7 +40,7 @@ The program is chock full of useful resources and tools. For starters there is
 
   *  [RFP-EZ](https://rfpez.gsa.gov/government) helps link agencies and small businesses for tech projects below $150,000&#8211;definitely a sweet spot for many mobile products. The idea is to help agencies reach the talent in startups more quickly and at reasonable cost. We worked with the RFP-EZ team at SBA to include mobile statement of work templates. Now when agencies create a new project in RFP-EZ, they can jumpstart their efforts by choosing the “Mobile Application Development” project type.
 
-  * Agencies can easily create mobile ready websites using [Sites.USA.gov]({{< link "sites-usa-gov.md" >}} "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
+  * Agencies can easily create mobile ready websites using [Sites.USA.gov](https://Sites.USA.gov "Sites.USA.gov"). This GSA-hosted content management tool supports open content, is secure, compliant and uses only responsive themes that work well on any-sized screen.
 
 The [Federal Apps Registry]({{< link "the-federal-mobile-apps-registry.md" >}} "The Federal Mobile Apps Registry") helps verify that apps and mobile sites are actually government mobile products&#8211;and provides an API so agencies can easily create galleries around their mission areas.
 
