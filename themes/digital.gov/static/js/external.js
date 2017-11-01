@@ -7,7 +7,7 @@ function transform_edit_file_link(){
 	if ( $('.entry .edit_file').length ) {
 		var data = $('.edit_file'); // get the edit link data
 		var filepath = $(data).attr('data-filepath'); // the filename in GitHub
-		var github_file_path = 'https://github.com/GSA/digitalgov.gov/blob/demo/content/'+filepath;
+		var github_file_path = 'https://github.com/GSA/digitalgov.gov/blob/master/content/'+filepath;
 		$(data).attr('href', github_file_path);
 	}
 }
