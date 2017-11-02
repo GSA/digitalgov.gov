@@ -3,10 +3,7 @@
 $border-box-sizing: false;
 $scope-normalize: true;
 
-////
-
-$font-path: '../fonts';
-$image-path: '../img';
+@import 'dg-variables';
 
 // Copy imports from USWDS module to control imports
 
@@ -27,7 +24,7 @@ $image-path: '../img';
 
 // Elements -------------- //
 // Styles basic HTML elements
-@import 'elements/buttons';
+@import 'dg-buttons';
 /*
 @import 'elements/embed';
 @import 'elements/figure';
@@ -60,3 +57,5 @@ $image-path: '../img';
 */
 
 // New custom CSS rules can go here.
+
+@import 'dg-uswds-overrides';
