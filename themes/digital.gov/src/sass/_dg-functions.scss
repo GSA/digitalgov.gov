@@ -1,0 +1,5 @@
+@function remify($pixels){
+  $unitlessRem: $base-rem / 1px;
+  $pxToRem: #{($pixels / $unitlessRem)}rem;
+  @return $pxToRem;
+}

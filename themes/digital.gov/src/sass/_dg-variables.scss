@@ -1,8 +1,10 @@
+$base-rem: 16px; // a new value distinct from USWDS static var;
+
 
 // Typography
 // Removing the !default from $em-base so we are not inheriting that
 // value from Bourbon.
-$em-base:                16px;
+//$em-base:              10px;
 $base-font-size-px:      17px;
 $small-font-size-px:     14px;
 $lead-font-size-px:      20px;
@@ -15,16 +17,16 @@ $h5-font-size-px:        15px;
 $h6-font-size-px:        13px;
 
 
-$base-font-size:      rem($base-font-size-px);
-$small-font-size:     rem($small-font-size-px);
-$lead-font-size:      rem($lead-font-size-px);
-$title-font-size:     rem($title-font-size-px);
-$h1-font-size:        rem($h1-font-size-px);
-$h2-font-size:        rem($h2-font-size-px);
-$h3-font-size:        rem($h3-font-size-px);
-$h4-font-size:        rem($h4-font-size-px);
-$h5-font-size:        rem($h5-font-size-px);
-$h6-font-size:        rem($h6-font-size-px);
+$base-font-size:      remify($base-font-size-px);
+$small-font-size:     remify($small-font-size-px);
+$lead-font-size:      remify($lead-font-size-px);
+$title-font-size:     remify($title-font-size-px);
+$h1-font-size:        remify($h1-font-size-px);
+$h2-font-size:        remify($h2-font-size-px);
+$h3-font-size:        remify($h3-font-size-px);
+$h4-font-size:        remify($h4-font-size-px);
+$h5-font-size:        remify($h5-font-size-px);
+$h6-font-size:        remify($h6-font-size-px);
 // $base-line-height:    1.5 !default;
 // $heading-line-height: 1.3 !default;
 // $lead-line-height:    1.7 !default;
@@ -138,13 +140,13 @@ $site-margins-px:            30px;
 $site-margins-mobile-px:     15px;
 $input-max-width-px:         460px;
 
-$text-max-width:          rem($text-max-width-px);
-$lead-max-width:          rem($lead-max-width-px);
+$text-max-width:          remify($text-max-width-px);
+$lead-max-width:          remify($lead-max-width-px);
 // $site-max-width:          1040px !default;
-$site-margins:            rem($site-margins-px);
-$site-margins-mobile:     rem($site-margins-mobile-px);
+$site-margins:            remify($site-margins-px);
+$site-margins-mobile:     remify($site-margins-mobile-px);
 // $article-max-width:       600px !default;
-$input-max-width:         rem($input-max-width-px);
+$input-max-width:         remify($input-max-width-px);
 // $label-border-radius:     2px !default;
 // $checkbox-border-radius:  2px !default;
 // $border-radius:           3px !default;
