@@ -2,5 +2,48 @@
 .usa-button-primary,
 .usa-button:visited,
 .usa-button-primary:visited {
-  padding: rem(10px) rem(20px);
+  padding: size(10px) size(20px);
+}
+
+.usa-banner-header {
+  font-size: size-sans(12px);
+  @include padding(0 null 2px null);
+  img {
+    display: inline-block;
+    float: none;
+    margin-top: 0;
+    vertical-align: middle;
+    width: size(24px);
+
+    @include media($small-screen) {
+      width: size(20px);
+    }
+  }
+  p {
+    line-height: 1;
+    overflow: visible;
+    @include media($small-screen) {
+      margin: 0;
+    }
+  }
+}
+
+.usa-banner-button {
+  font-size: size-sans(12px);
+}
+
+.usa-accordion-button[aria-expanded=false],
+.usa-accordion-button[aria-expanded=true] {
+  background-size: size(15px);
+  &:after {
+    height: size(10px);
+    width: size(10px);
+  }
+}
+
+.usa-banner-button[aria-expanded=true]{
+  &:after {
+    right: size(15px);
+    top: size(21.5px);
+  }
 }

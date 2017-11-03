@@ -1,5 +1,7 @@
 $base-rem: 16px; // a new value distinct from USWDS static var;
+$sans-normalize-multiplier: 1.0; // multiplier for trebuchet; taking Source Sans as 1.0
 
+@import 'dg-functions';
 
 // Typography
 // Removing the !default from $em-base so we are not inheriting that
@@ -17,16 +19,16 @@ $h5-font-size-px:        15px;
 $h6-font-size-px:        13px;
 
 
-$base-font-size:      remify($base-font-size-px);
-$small-font-size:     remify($small-font-size-px);
-$lead-font-size:      remify($lead-font-size-px);
-$title-font-size:     remify($title-font-size-px);
-$h1-font-size:        remify($h1-font-size-px);
-$h2-font-size:        remify($h2-font-size-px);
-$h3-font-size:        remify($h3-font-size-px);
-$h4-font-size:        remify($h4-font-size-px);
-$h5-font-size:        remify($h5-font-size-px);
-$h6-font-size:        remify($h6-font-size-px);
+$base-font-size:      size($base-font-size-px);
+$small-font-size:     size($small-font-size-px);
+$lead-font-size:      size($lead-font-size-px);
+$title-font-size:     size($title-font-size-px);
+$h1-font-size:        size($h1-font-size-px);
+$h2-font-size:        size($h2-font-size-px);
+$h3-font-size:        size($h3-font-size-px);
+$h4-font-size:        size($h4-font-size-px);
+$h5-font-size:        size($h5-font-size-px);
+$h6-font-size:        size($h6-font-size-px);
 // $base-line-height:    1.5 !default;
 // $heading-line-height: 1.3 !default;
 // $lead-line-height:    1.7 !default;
@@ -140,13 +142,13 @@ $site-margins-px:            30px;
 $site-margins-mobile-px:     15px;
 $input-max-width-px:         460px;
 
-$text-max-width:          remify($text-max-width-px);
-$lead-max-width:          remify($lead-max-width-px);
+$text-max-width:          size($text-max-width-px);
+$lead-max-width:          size($lead-max-width-px);
 // $site-max-width:          1040px !default;
-$site-margins:            remify($site-margins-px);
-$site-margins-mobile:     remify($site-margins-mobile-px);
+$site-margins:            size($site-margins-px);
+$site-margins-mobile:     size($site-margins-mobile-px);
 // $article-max-width:       600px !default;
-$input-max-width:         remify($input-max-width-px);
+$input-max-width:         size($input-max-width-px);
 // $label-border-radius:     2px !default;
 // $checkbox-border-radius:  2px !default;
 // $border-radius:           3px !default;
