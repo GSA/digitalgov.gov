@@ -11,7 +11,7 @@ end_date: 2017-11-15 14:00:00 -0400
 event_organizer: DigitalGov University
 host: FedRAMP
 registration_url: https://www.eventbrite.com/e/online-fedramp-tailored-overview-of-the-finalized-new-baseline-registration-39406911132
-youtube_id: https://www.youtube.com/watch?v=MC6GfzTnaNY
+youtube_id: MC6GfzTnaNY
 ---
 
 An introduction to the newly released security baseline, FedRAMP Tailored, which is designed for Cloud Service Providers (CSPs) with Low-Impact Software- as-a-Service (LI-SaaS) Systems. The webinar will address what FedRAMP Tailored is, how it was developed, how the finalized version differs from draft versions released for public comment, and other useful information geared toward CSPs, agencies, and 3PAOs. Discussion also address how to begin a FedRAMP Tailored authorization.
