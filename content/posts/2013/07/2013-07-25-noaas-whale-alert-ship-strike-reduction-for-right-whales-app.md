@@ -13,7 +13,7 @@ tag:
   - Thursday Mobile Products
 ---
 
-[{{< legacy-img src="2013/07/whalealert.jpg" alt="The National Oceanic and Atmospheric Administration (NOAA), in collaboration with other groups in both the private and public sector, has developed an app for the iPhone and iPad which helps to reduce collisions between ships and the endangered right whales. " >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/07/whalealert.jpg)Mariners now have an anytime, anywhere resource to aid in the reduction of ship and right whale collisions.
+[{{< legacy-img src="2013/07/whalealert.jpg" alt="The National Oceanic and Atmospheric Administration (NOAA), in collaboration with other groups in both the private and public sector, has developed an app for the iPhone and iPad which helps to reduce collisions between ships and the endangered right whales. " >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/whalealert.jpg)Mariners now have an anytime, anywhere resource to aid in the reduction of ship and right whale collisions.
 
 [The National Oceanic and Atmospheric Administration (NOAA)](http://www.noaa.gov/), in collaboration with other groups in both the private and public sector, has developed an [app for the iPhone and iPad](https://itunes.apple.com/us/app/whale-alert-ship-strike-reduction/id511707112?mt=8) which helps to reduce collisions between ships and the [endangered right whales](http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/rightwhale_northatlantic.htm). By providing existing NOAA data and information in one easy to access location displayed on NOAA nautical charts, in addition real time GPS position tracking, vessel operators are more easily able to avoid collision with whales.
 

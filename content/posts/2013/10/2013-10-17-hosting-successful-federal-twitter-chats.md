@@ -12,7 +12,7 @@ tag:
   - Twitter
 ---
 
-[{{< legacy-img src="2013/12/USDA.jpg" alt="Image of federal employees conducting a Twitter chat." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/USDA.jpg)One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat.
+[{{< legacy-img src="2013/12/USDA.jpg" alt="Image of federal employees conducting a Twitter chat." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/USDA.jpg)One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat.
 
 [New guidance](https://digitalgov.sites.usa.gov/2013/10/16/twitter-chats-for-federal-agencies/ "Twitter Chat Guidance for Federal Agencies") on preparing a live chat is now available, and we need your agencies to contribute your own policies and experiences to make it complete. So let’s start by identifying the key ingredients to most effectively engage with citizens and make your Twitter Town Hall a success.
 

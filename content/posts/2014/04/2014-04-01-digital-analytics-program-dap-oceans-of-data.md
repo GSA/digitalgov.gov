@@ -22,7 +22,7 @@ tag:
 </p>
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/600-x-336-GA-DAP-Nov-2012-Mar-2014-Total-Monthly-Hits.jpg">{{< legacy-img src="2014/04/600-x-336-GA-DAP-Nov-2012-Mar-2014-Total-Monthly-Hits.jpg" alt="image showing total monthly hits in Google Analytics since November 2012" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/600-x-336-GA-DAP-Nov-2012-Mar-2014-Total-Monthly-Hits.jpg">{{< legacy-img src="2014/04/600-x-336-GA-DAP-Nov-2012-Mar-2014-Total-Monthly-Hits.jpg" alt="image showing total monthly hits in Google Analytics since November 2012" >}}</a>
 </p>
 
 <p style="text-align: left">

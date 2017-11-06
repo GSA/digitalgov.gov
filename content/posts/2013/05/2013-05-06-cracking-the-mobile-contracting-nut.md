@@ -12,7 +12,7 @@ tag:
   - mobile
 ---
 
-[{{< legacy-img src="2013/05/Magic8Ball-325x300.jpg" alt="Magic 8 Ball" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/05/Magic8Ball.jpg)Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making anytime, anywhere mobile gov.
+[{{< legacy-img src="2013/05/Magic8Ball-325x300.jpg" alt="Magic 8 Ball" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/Magic8Ball.jpg)Mobile is a fast moving technology leaving many agencies feeling behind the contracting eight-ball.  Between finding those rockstar mobile developers, figuring out what to ask for in a statement of work (SOW), the time it takes getting a contract to get those expert resources, agencies are challenged in making anytime, anywhere mobile gov.
 
 We have some relief.
 

@@ -19,7 +19,7 @@ tag:
 
 The mobile health (mHealth) market is [projected to become a $50 billion industry](http://www.prweb.com/releases/mHealth-Market/GrandViewResearch/prweb11627393.htm) by 2020, and the Department of Health and Human Services (HHS) has been actively contributing to the rise of the mHealth applications. The agency uses public prize competitions like the recent &#8220;[Game On: HIV/STD Prevention Mobile Application Video Game Challenge](http://gameon.challengepost.com/)&#8221; to crowdsource a variety of health apps for the public in addition to creating mHealth apps in-house.
 
-[{{< legacy-img src="2014/03/12658805483\_f5b0c3ab9b\_b-250x142.jpg" alt="An iphone with a mobile app" caption="" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/12658805483_f5b0c3ab9b_b.jpg) 
+[{{< legacy-img src="2014/03/12658805483\_f5b0c3ab9b\_b-250x142.jpg" alt="An iphone with a mobile app" caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/12658805483_f5b0c3ab9b_b.jpg) 
 
 “Mobile health” is a broad term encompassing healthcare and medical technologies accessible by mobile devices such as smartphones or tablets. The recent report by GrandView Research cites the proliferation of smartphones, easy accessibility, and the low cost of mHealth technologies to the consumer as main drivers behind the projected industry boom.
 

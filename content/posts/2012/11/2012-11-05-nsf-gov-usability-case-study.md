@@ -24,13 +24,13 @@ The National Science Foundation&#8217;s [NSF.gov](http://nsf.gov/) site conducte
 
   * Users assumed that pages with studies from 2006 or before hadn&#8217;t been updated in years and weren&#8217;t relevant
 
-[{{< legacy-img src="2013/12/NSF-before-2012_1.jpg" alt="nsf before screen shot" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/NSF-before-2012_1.jpg)
+[{{< legacy-img src="2013/12/NSF-before-2012_1.jpg" alt="nsf before screen shot" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/NSF-before-2012_1.jpg)
 
 **After**
 
   * New &#8220;Most Current&#8221; label let users know that, even if a report was many years old, it could still be the most current data available
 
-[{{< legacy-img src="2013/12/NSF-after-2012-1.jpg" alt="NSF-after-2012 (1)" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/NSF-after-2012-1.jpg)
+[{{< legacy-img src="2013/12/NSF-after-2012-1.jpg" alt="NSF-after-2012 (1)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/NSF-after-2012-1.jpg)
 
  
 

@@ -23,7 +23,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/featured-web-future-166678934-301-x-212.jpg">{{< legacy-img src="2014/03/featured-web-future-166678934-301-x-212.jpg" alt="featured web future 166678934 301 x 212" >}}</a>In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/featured-web-future-166678934-301-x-212.jpg">{{< legacy-img src="2014/03/featured-web-future-166678934-301-x-212.jpg" alt="featured web future 166678934 301 x 212" >}}</a>In 25 years, imagine a world where anytime, anywhere, any device is just taken for granted.
 </p>
 
 That’s the theme from the responses we got from our [Mobile Gov Community of Practice]({{< link "categories/mobile" >}} "Mobile") members when we asked them to predict the effect mobile would have on the Web over the next 25 years.

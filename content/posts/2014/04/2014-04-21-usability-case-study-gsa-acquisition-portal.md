@@ -40,7 +40,7 @@ From information architecture and appearance of “buttons” to the order of li
 Take a look at some of the “before and after” images below:
 
 <p style="text-align: center">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{{< legacy-img src="2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2.png">{{< legacy-img src="2014/04/leftNav-B-and-A-Screenshot-ANNOTATED2-735x400.png" alt="A screenshot of changes made to the left navigation categories" >}}</a>
 </p>
 
 Test participants had difficulty finding the FY 2010 Procurement Management Review (PMR) Report, because they did not consider it a “best practice.” Once participants navigated to the “Best Practices” supporting sub-page, they again stated that the links there were not really “best practices.” “Reports & Publications” is a better category description.

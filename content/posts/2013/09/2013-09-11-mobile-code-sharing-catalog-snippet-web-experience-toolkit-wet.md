@@ -14,7 +14,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/10/codesharing.png"><img class="alignright size-full wp-image-101822" alt="The same computer code shown on a smartphone screen, a tablet screen and a desktop screen" src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/10/codesharing.png" width="460" height="351" /></a>Looking to jumpstart your mobile website development? Check out the <a href="http://gsa.github.io/Mobile-Code-Catalog/web_html.html#modular">Web Experience Toolkit (WET) available on the Mobile Code Sharing Catalog</a>. The toolkit includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png"><img class="alignright size-full wp-image-101822" alt="The same computer code shown on a smartphone screen, a tablet screen and a desktop screen" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/codesharing.png" width="460" height="351" /></a>Looking to jumpstart your mobile website development? Check out the <a href="http://gsa.github.io/Mobile-Code-Catalog/web_html.html#modular">Web Experience Toolkit (WET) available on the Mobile Code Sharing Catalog</a>. The toolkit includes reusable components for building and maintaining innovative Web sites that are accessible, usable, and interoperable.
 </p>
 
 <p dir="ltr">

@@ -21,12 +21,12 @@ tag:
 
 Here is an example of a quality post that is favored by the algorithm update : Jason Kelly from the U.S. Navy shares a Tumblr link to a post discussing why launching an Instagram account supports his team’s strategic goals.
 
-[<img class="aligncenter size-medium wp-image-101012" alt="jason Kelly newscontent" src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/jason-Kelly-newscontent-242x250.jpg" width="242" height="250" />](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/jason-Kelly-newscontent.jpg)
+[<img class="aligncenter size-medium wp-image-101012" alt="jason Kelly newscontent" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/jason-Kelly-newscontent-242x250.jpg" width="242" height="250" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/jason-Kelly-newscontent.jpg)
 
 What will be punished ? You’ve seen them every time you log in — posts that contain links to an image or info-graphic that does not come from within the link shared. The image used to draw in users and elicit engagement is itself a dead end of content (as well as inaccessible to some). This example, edited with black boxes to obscure the originator, represents a commonly seen Facebook content format which will be featured less now in News Feeds.
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/Girl-making-heart-with-hands.jpg"><img class="aligncenter size-medium wp-image-101052" alt="Girl making heart with hands" src="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/Girl-making-heart-with-hands-176x250.jpg" width="176" height="250" /></a>
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Girl-making-heart-with-hands.jpg"><img class="aligncenter size-medium wp-image-101052" alt="Girl making heart with hands" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Girl-making-heart-with-hands-176x250.jpg" width="176" height="250" /></a>
 </p>
 
 <p dir="ltr">

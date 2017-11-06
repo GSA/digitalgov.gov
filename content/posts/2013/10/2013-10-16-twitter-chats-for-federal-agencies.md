@@ -14,7 +14,7 @@ tag:
   - Twitter
 ---
 
-[{{< legacy-img src="2013/12/AskFafsa-181x250.jpg" alt="Promotional Image of Federal Student Aid Twitter chat" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/AskFafsa.jpg)A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar.
+[{{< legacy-img src="2013/12/AskFafsa-181x250.jpg" alt="Promotional Image of Federal Student Aid Twitter chat" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/AskFafsa.jpg)A Twitter town hall, or Twitter chat, is an event where agencies invite public engagement for a scheduled time period during which users can ask questions or find out more information about a topic via Twitter, much like a webinar.
 
 The questions are tagged with a pre-designated hashtag, and the agency responds to questions using the hashtag, follows-up via a blog post, or uses another digital means of meaningfully responding to the engagements.
 

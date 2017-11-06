@@ -28,7 +28,7 @@ The tabs on the top of the map were greatly simplified, using plain language to 
 
 ## Problem 2: Navigation and Branding Inconsistent
 
-[{{< legacy-img src="2013/12/weather.gov-before\_0-237x250.jpg" alt="weather.gov-before\_0" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/weather.gov-before_0.jpg)In the example, we can see that a link to NOAA’s main site is provided in the prominent upper left position, while the link for the Weather.gov site is relegated to the far right. A user looking to navigate back to the Weather.gov homepage would more likely click on the link on the left and end up stranded on the NOAA main homepage.
+[{{< legacy-img src="2013/12/weather.gov-before\_0-237x250.jpg" alt="weather.gov-before\_0" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/weather.gov-before_0.jpg)In the example, we can see that a link to NOAA’s main site is provided in the prominent upper left position, while the link for the Weather.gov site is relegated to the far right. A user looking to navigate back to the Weather.gov homepage would more likely click on the link on the left and end up stranded on the NOAA main homepage.
 
 ## Solution 2: Relocate Logos
 
@@ -40,6 +40,6 @@ There was simply too much text on the page. The casual user was confronted with 
 
 ## Solution 3: Move Less Important Information Down
 
-[{{< legacy-img src="2013/12/weather.gov-after-156x250.jpg" alt="weather.gov-after" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/weather.gov-after.jpg)The text on the original page was reorganized and moved to the bottom, and graphics were added for particularly timely and relevant information. The amount of information for both technical users and the general public remains the same, but the user experience is greatly improved.
+[{{< legacy-img src="2013/12/weather.gov-after-156x250.jpg" alt="weather.gov-after" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/weather.gov-after.jpg)The text on the original page was reorganized and moved to the bottom, and graphics were added for particularly timely and relevant information. The amount of information for both technical users and the general public remains the same, but the user experience is greatly improved.
 
 As a result of First Fridays testing, the Weather.gov team created a much more streamlined site, while still providing sufficient information to both casual users and weather professionals. The screen capture below is from August 28, 2012. Addressing the usability of your agency’s website is about more than just identifying aesthetic changes. It’s about making sure that every visitor to your website gets the information they need in a quick and clear manner.
