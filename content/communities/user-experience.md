@@ -8,27 +8,32 @@ aliases:
   - /federal-user-experience-community-of-practice/
 ---
 
-Join our community of more than 1,000 federal User Experience practitioners, and learn how to make better, User-Centered products.
+Join other federal user experience practitioners and learn how to make better user-centered products.
 
 ### Join
-Send an e-mail to the group Co-Chairs Jean Fox and Silvia Salazar at [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20U%20Community). Please include "Join UX Community" in the subject line.
+Send an e-mail from your official government email to [ux-cop-request@listserv.gsa.gov](mailto:ux-cop-request@listserv.gsa.gov?subject=Join%20U%20Community), with “Join UX Community” in the subject line.
 
-  * Learn how other agencies are creating great User Experiences!
-  * Find how how to conduct valuable user research with little (or no) budget!
+## Community Managers: Jean Fox (BLS) and Silvia Salazar (NIH)
+
+### Overview 
+
+Members of the User Experience Community of Practice can:
+  * Ask questions and learn how other agencies are creating great user experiences!
+  * Find out how to conduct valuable user research with little (or no) budget!
   * Meet other government usability practitioners!
   * Share your own successes and tips!
 
-### Who We Are
+### Who we are
 
-Our members include more than 900 federal, state, and local U.S. government employees and contractors with a valid **.gov** or **.mil** email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.
+Our members include more than 1,100 federal, state, and local U.S. government employees and contractors with a valid **.gov** or **.mil** email address. We welcome program managers, subject matter experts, designers, developers, writers and others interested in creating efficient, effective and useful technologies.
 
-### We Offer
+### What we do
 
+  * Create case studies of why UX works!
+  * Training for government Web managers, usability specialists, project managers, etc…
   * User Experience (UX) networking events
-  * Training for government Web managers, usability specialists, and project managers through [DigitalGov University]({{< link "digitalgov-university.md" >}}) and other programs
-  * Volunteer opportunities
-  * Useful UX resources such as the [DigitalGov User Experience Resources]({{< link "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program"), the Usability.gov&#8217;s [Guidelines](http://guidelines.usability.gov/), [DigitalGov]({{< link "index.html" >}}), and [DigitalGov University]({{< link "digitalgov-university.md" >}}). [
-  ](http://www.usability.gov/)
-  * Case studies of why UX works!
+  * Connect people to useful UX resources 
 
-We bring together federal employees who want to make digital services—websites, mobile Apps, intranets, APIs—work better for their customers.
+### Key Resources
+
+  * https://www.usability.gov/
