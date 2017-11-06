@@ -11,7 +11,7 @@ categories:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/Leah-Bannon.jpg">{{< legacy-img src="2013/12/Leah-Bannon-246x250.jpg" alt="Photo of the author Leah Bannon" >}}</a>Every year, one of our office’s biggest projects is to prepare the <a href="http://ise.gov/annual-report/">Information Sharing Environment Annual Report to the Congress</a>. This report examines the progress of Congress’s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Leah-Bannon.jpg">{{< legacy-img src="2013/12/Leah-Bannon-246x250.jpg" alt="Photo of the author Leah Bannon" >}}</a>Every year, one of our office’s biggest projects is to prepare the <a href="http://ise.gov/annual-report/">Information Sharing Environment Annual Report to the Congress</a>. This report examines the progress of Congress’s mandate in the Intelligence Reform and Terrorism Prevention Act of 2004 to develop a better environment of terrorism-related information sharing.
 </p>
 
 <p dir="ltr">

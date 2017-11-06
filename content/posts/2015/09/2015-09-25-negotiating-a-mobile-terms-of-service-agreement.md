@@ -33,7 +33,7 @@ Start early. Communicate often.
 
 This is Soll’s first piece of advice.
 
-Typically, there are numerous clauses of TOS agreements that need to be edited to fit federal regulations. A [TOS template](https://s3.amazonaws.com/digitalgov/legacy-img/2014/01/model-amendment-to-tos-for-g.doc) (.doc) is available on DigitalGov, but there is usually some back-and-forth discussions between agencies and companies.
+Typically, there are numerous clauses of TOS agreements that need to be edited to fit federal regulations. A [TOS template](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/model-amendment-to-tos-for-g.doc) (.doc) is available on DigitalGov, but there is usually some back-and-forth discussions between agencies and companies.
 
 “This really does require quite a bit of coordination,” said Soll. “The first challenge for me was to put enough emails out there to customer service representatives and push my way through until I finally got someone who could deal with a U.S. government inquiry and actually address the changes that we needed to make.”
 

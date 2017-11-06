@@ -17,7 +17,7 @@ tag:
   - United States Department of Energy
 ---
 
-[{{< legacy-img src="2014/03/innovate\_tint\_med-1.jpg" alt="image of the word innovation in a dictionary" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/innovate_tint_med-1.jpg)
+[{{< legacy-img src="2014/03/innovate\_tint\_med-1.jpg" alt="image of the word innovation in a dictionary" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/innovate_tint_med-1.jpg)
 
 Shortly after taking office in 2009, President Obama launched the [Open Government Initiative](http://www.whitehouse.gov/open), an effort to increase transparency, participation, and collaboration in the federal government. The initiative introduced a number of websites and strategies to offer raw government data, including research grant information on data.gov. For energy gurus, [data.gov/energy](http://www.data.gov/energy) offers downloads of energy-related data such as energy use and consumption in the U.S.
 

@@ -18,7 +18,7 @@ tag:
 </p>
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/female-sockeye-steep-creek_NEW.jpg">{{< legacy-img src="2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" >}}</a>
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/female-sockeye-steep-creek_NEW.jpg">{{< legacy-img src="2013/11/female-sockeye-steep-creek_NEW.jpg" alt="Female Sockeye" >}}</a>
 </p>
 
 <p dir="ltr">

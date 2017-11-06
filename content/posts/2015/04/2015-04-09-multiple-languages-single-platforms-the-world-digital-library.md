@@ -50,7 +50,7 @@ Content is selected for the website by partner institutions, in accordance with 
 
 ## WDL’s Social Media Strategy
 
-[{{< legacy-img src="2015/04/250-x-322-WDL-World-Digital-Library-tweet.jpg" alt="World Digital Library tweet" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2015/04/644-x-830-WDL-World-Digital-Library-tweet.jpg)With limited resources, the WDL team decided that they could effectively manage only one Twitter account. After a brief pilot, they went live with English-only tweets and began to translate those tweets into one or more of the other six WDL languages. They then started tweeting in all seven languages as appropriate, always trying to choose specific content linked to a particular event in a specific language or country.
+[{{< legacy-img src="2015/04/250-x-322-WDL-World-Digital-Library-tweet.jpg" alt="World Digital Library tweet" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/644-x-830-WDL-World-Digital-Library-tweet.jpg)With limited resources, the WDL team decided that they could effectively manage only one Twitter account. After a brief pilot, they went live with English-only tweets and began to translate those tweets into one or more of the other six WDL languages. They then started tweeting in all seven languages as appropriate, always trying to choose specific content linked to a particular event in a specific language or country.
 
 As they do with the website, WDL reviews and adapts their [content strategy]({{< link "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}) based on analytics.
 

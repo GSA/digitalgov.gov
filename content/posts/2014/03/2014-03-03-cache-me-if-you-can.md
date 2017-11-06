@@ -15,7 +15,7 @@ tag:
   - GitHub
 ---
 
-## Slowness Hurts Web Pages[{{< legacy-img src="2014/03/speed-dial.png" alt="speed dial" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/speed-dial.png)
+## Slowness Hurts Web Pages[{{< legacy-img src="2014/03/speed-dial.png" alt="speed dial" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/speed-dial.png)
 
 Have you ever been frustrated when visiting a Web page that doesn&#8217;t load quickly? Have you ever left a slow Web page before it finished loading? You&#8217;re not alone.
 

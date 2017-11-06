@@ -14,7 +14,7 @@ tag:
 ---
 
 
-<img class="size-full wp-image-150792" alt="Books in tablet computer and smartphone" src="https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/250-x-185-Books-in-tablet-computer-and-smartphone-Oleksiy-Mark-iStock-Thinkstock-148442321.jpg" width="250" height="185" /> 
+<img class="size-full wp-image-150792" alt="Books in tablet computer and smartphone" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/250-x-185-Books-in-tablet-computer-and-smartphone-Oleksiy-Mark-iStock-Thinkstock-148442321.jpg" width="250" height="185" /> 
 
 What’s black and white and read all over? An e-reader. While it may be premature to revise classic riddles, [a recent study](http://www.pewinternet.org/2014/01/16/e-reading-rises-as-device-ownership-jumps/) by the Pew Research Center indicates that e-books are gaining popularity among American readers. Nearly three in ten adults (28%) reported reading an e-book in the past year, up from 23% at the end of 2012.
 

@@ -15,7 +15,7 @@ tag:
 ---
 
 
-<img class="size-full wp-image-145932 " alt="An illustration of a smart phone and smart watch synching data" src="https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/250-x-200-monicaodo-iStock-Thinkstock-482299521.jpg" width="250" height="200" /> 
+<img class="size-full wp-image-145932 " alt="An illustration of a smart phone and smart watch synching data" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/250-x-200-monicaodo-iStock-Thinkstock-482299521.jpg" width="250" height="200" /> 
 
 The Internet of Things, a concept approaching reality, is best described as objects (think appliance, trees, etc.) in the world equipped with identifying devices or machine-readable identifiers that make them connected to the Web. This [handy infographic](http://www.mobilemarketingwatch.com/infographic-a-brief-history-of-the-internet-of-things-40469/) charts the history and development of the idea and perhaps this [washing machine could be a roadmap](http://www.wired.com/2014/04/this-brilliant-internet-connected-washer-is-a-roadmap-for-the-internet-of-things/?mbid=social_twitter) to the future.
 

@@ -17,7 +17,7 @@ tag:
   - government contact centers
 ---
 
-[{{< legacy-img src="2014/02/womens-health-contact-center-image.jpg" alt="image of contact center agents speaking on headsets" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/02/womens-health-contact-center-image.jpg)All of us want to improve the content and information we provide to the public, but we’re intimidated by where to start:
+[{{< legacy-img src="2014/02/womens-health-contact-center-image.jpg" alt="image of contact center agents speaking on headsets" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/womens-health-contact-center-image.jpg)All of us want to improve the content and information we provide to the public, but we’re intimidated by where to start:
 
   * Does our website provide clear content?
   * Is the best information hidden on pages a few layers down?

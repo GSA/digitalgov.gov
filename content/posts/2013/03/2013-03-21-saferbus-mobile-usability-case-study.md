@@ -24,7 +24,7 @@ The DigitalGov User Experience Program helped test SaferBus, the U.S. Department
 
 Let visitors know right away what the purpose of your site is, and what they can do there. The first thing users saw when they arrived here was a search box. What were they supposed to search for, and what is an MC or DOT number?
 
-[{{< legacy-img src="2013/12/saferbus-before-after-1.jpg" alt="Screenshot of Transportation's iPhone application SaferBus before user testing." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/saferbus-before-after-1.jpg)
+[{{< legacy-img src="2013/12/saferbus-before-after-1.jpg" alt="Screenshot of Transportation's iPhone application SaferBus before user testing." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/saferbus-before-after-1.jpg)
 
 ## Solution 1: Give Home Page a Tagline or Description
 
@@ -34,7 +34,7 @@ By adding a description of what SaferBus allows the user to do, the search box a
 
 When the results for Megabus came up in a search, the users were confused by the grayed out icons and didn’t know that the blue arrows indicated an expandable list. Also, MEGABUS.COM didn&#8217;t appear to be clickable, so the results are not particularly helpful or actionable because people were confused on how to proceed.
 
-[{{< legacy-img src="2013/12/saferbus-before-after-2.jpg" alt="Screenshot of Transportation's iPhone application SaferBus after user testing." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/saferbus-before-after-2.jpg)
+[{{< legacy-img src="2013/12/saferbus-before-after-2.jpg" alt="Screenshot of Transportation's iPhone application SaferBus after user testing." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/saferbus-before-after-2.jpg)
 
 ## Solution 2: Use Universally Accepted Navigation Items
 

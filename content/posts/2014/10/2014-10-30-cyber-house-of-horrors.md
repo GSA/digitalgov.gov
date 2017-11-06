@@ -14,7 +14,7 @@ tag:
   - security
 ---
 
-[{{< legacy-img src="2014/10/600-x-414-Clown-Photo-Credit-Kris-Gonzalez-Terror-on-Thomas-Court-Halloween-clown-on-mobile-phone.jpg" alt="Halloween clown mask seen on a smart phone." caption="" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/10/600-x-414-Clown-Photo-Credit-Kris-Gonzalez-Terror-on-Thomas-Court-Halloween-clown-on-mobile-phone.jpg) 
+[{{< legacy-img src="2014/10/600-x-414-Clown-Photo-Credit-Kris-Gonzalez-Terror-on-Thomas-Court-Halloween-clown-on-mobile-phone.jpg" alt="Halloween clown mask seen on a smart phone." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/600-x-414-Clown-Photo-Credit-Kris-Gonzalez-Terror-on-Thomas-Court-Halloween-clown-on-mobile-phone.jpg) 
 
 Ghosts. Ghouls. Zombies. Multi-stakeholder content audits. This Halloween there is no shortage of terrors lurking to keep federal Web managers up all night, and our work is largely done in one of the scariest domains of all: cyberspace. Every moment of every day, a vast system of computers and networks are actively working to support virtually every aspect of modern life, and along with it creating opportunities for Internet trolls, goblins, and other nefarious villains to target and exploit all manner of personal and professional information.
 
@@ -26,7 +26,7 @@ October is also [National Cybersecurity Awareness Month](http://www.staysafeonli
   * These attacks have compromised systems across [government and the private sector](http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
   * The graphic below is visualization from cybersecurity firm Norse that maintains a network of 8 million computers simulating potential attractive targets of information like commerce and corporate databases. These attacks largely come from automated bots.
 
-[{{< legacy-img src="2014/10/576-x-360-NORSE-Real-time-data-visualization-of-cyber-attacks.jpg" alt="A screen capture of NORSE real-time data visualization of cyber attacks." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/10/576-x-360-NORSE-Real-time-data-visualization-of-cyber-attacks.jpg)
+[{{< legacy-img src="2014/10/576-x-360-NORSE-Real-time-data-visualization-of-cyber-attacks.jpg" alt="A screen capture of NORSE real-time data visualization of cyber attacks." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/10/576-x-360-NORSE-Real-time-data-visualization-of-cyber-attacks.jpg)
   
 Real-time data visualization of cyber attacks (this is only showing 1% of what they track!) (Source: [NORSE](http://map.ipviking.com/))
 

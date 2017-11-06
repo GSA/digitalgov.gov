@@ -20,7 +20,7 @@ tag:
   - USAgov
 ---
 
-[{{< legacy-img src="2012/08/top_10.png" alt="Top 10" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2012/08/top_10.png)
+[{{< legacy-img src="2012/08/top_10.png" alt="Top 10" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2012/08/top_10.png)
 
   1. **Language**
   

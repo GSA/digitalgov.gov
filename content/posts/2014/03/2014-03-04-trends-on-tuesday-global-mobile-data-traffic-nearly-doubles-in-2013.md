@@ -13,7 +13,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[<img class="alignright size-full wp-image-131422" alt="1's and 0's on a blue screen." src="https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/bits-bytes-1-0-data.png" width="230" height="347" />](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/bits-bytes-1-0-data.png)Global mobile data traffic almost doubled in 2013 according to [Cisco’s recent Traffic Forecast Update](http://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white_paper_c11-520862.html). There are a number of other mobile data traffic trends in the report, but here are five trends we wanted to highlight today:
+[<img class="alignright size-full wp-image-131422" alt="1's and 0's on a blue screen." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/bits-bytes-1-0-data.png" width="230" height="347" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/bits-bytes-1-0-data.png)Global mobile data traffic almost doubled in 2013 according to [Cisco’s recent Traffic Forecast Update](http://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white_paper_c11-520862.html). There are a number of other mobile data traffic trends in the report, but here are five trends we wanted to highlight today:
 
 >   * Global mobile data traffic grew 81 percent in 2013. Global mobile data traffic reached 1.5 [exabytes](http://en.wikipedia.org/wiki/Exabyte) per month at the end of 2013, up from 820 petabytes per month at the end of 2012.
 >   * Last year’s mobile data traffic was _**nearly 18 times the size of the entire global Internet in 2000**_. One exabyte of traffic traversed the global Internet in 2000, and in 2013 mobile networks carried nearly 18 exabytes of traffic.

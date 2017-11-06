@@ -14,7 +14,7 @@ tag:
 
 A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets). Over two thirds of respondents said they use their devices while watching TV multiple times a week.
 
-[{{< legacy-img src="2013/07/NeilsenSecondScreenChart.png" alt="A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets)" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/07/NeilsenSecondScreenChart.png)
+[{{< legacy-img src="2013/07/NeilsenSecondScreenChart.png" alt="A study conducted by Nielson for Q1 2013 reports that almost half of all mobile users use their mobile devices as second screens while watching TV on a daily basis (46% for smartphones, 43% for tablets)" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/NeilsenSecondScreenChart.png)
 
 The study then asked these users what they were using their devices for. A majority of people responded that they use their devices for looking up general information, surfing the web, or using social media. However, what is more interesting is that a substantial amount of respondents said that they use their devices _as a supplement to the TV program_. Supplemental activities include looking up information on the actors or the program, reading or contributing to conversations about the program on social media, and even buying products that are being advertised. In this way, people are using their phones not merely as distractions, but as tools to enhance their TV viewing experience.
 

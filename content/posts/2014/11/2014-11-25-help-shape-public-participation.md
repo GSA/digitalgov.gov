@@ -14,7 +14,7 @@ tag:
 ---
 
 [
-  ](https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg) [{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
+  ](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg) [{{< legacy-img src="2014/07/600-x-314-White-House-SocialGov-Open.jpg" alt="A mobile phone held in front of the White House displays a green neon Open sign." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/600-x-314-White-House-SocialGov-Open.jpg)
 
 Public participation—where citizens help shape and implement government programs—is a foundation of open, transparent, and engaging government services. From emergency management and regulatory development to science and education, better and more meaningful engagement with those who use public services can measurably improve government for everyone.
 

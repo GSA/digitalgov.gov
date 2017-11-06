@@ -28,7 +28,7 @@ The navigation on the homepage provided very little information.
 
 The buttons on the navigation bar were clarified.
 
-[{{< legacy-img src="2013/12/sam.gov-before.jpg" alt="Screenshot of the SAM.gov site before user testing." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/sam.gov-before.jpg)
+[{{< legacy-img src="2013/12/sam.gov-before.jpg" alt="Screenshot of the SAM.gov site before user testing." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/sam.gov-before.jpg)
 
 ## Problem 2: Account Creation and Registration Confusing
 
@@ -50,4 +50,4 @@ In just a few short weeks, the SAM.gov Web team was able to make a few seemingly
 
 None of these changes are dramatic, but it took an outside perspective to see that they were needed. By taking a day to observe how real visitors encounter their site, the SAM.gov team was able to identify changes both simple and complex that needed to be made. And by taking on the simple changes quickly, they were able to make a drastic difference in the usability of their site.
 
-[{{< legacy-img src="2013/12/sam.gov-after.jpg" alt="Screenshot of the SAM.gov site after user testing." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/sam.gov-after.jpg)
+[{{< legacy-img src="2013/12/sam.gov-after.jpg" alt="Screenshot of the SAM.gov site after user testing." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/sam.gov-after.jpg)
