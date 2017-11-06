@@ -18,11 +18,7 @@ form#commentform input[type="submit"]:hover,form#commentform input[type="button"
 #footer {background:#003333;color:#ccdfcc;}
 #footer a, #footer a:link, #footer a:visited {color:#ffa49f;}
 #footer a:hover, #footer a:active {color:#ff5049;}
-  * html body { margin-top: 32px !important; }
-  @media screen and ( max-width: 782px ) {
-    html { margin-top: 46px !important; }
-    * html body { margin-top: 46px !important; }
-  }
+* html body { margin-top: 32px !important; }
 
       .screenreaders {
   position: absolute;
