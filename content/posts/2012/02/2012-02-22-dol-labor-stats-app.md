@@ -14,7 +14,7 @@ tag:
   - US Department of Labor
 ---
 
-_[{{< legacy-img src="2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._
+_[{{< legacy-img src="2013/12/ss_dolstats1-166x250.jpg" alt="Department of Labor Stats App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_dolstats1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info._
 
 The <a href="http://www.dol.gov/dol/apps/laborstats.htm" rel="nofollow">Labor Stats Application</a> presents the most up-to-date numbers and news releases for top employment statistics published by Department of Labor’s Employment and Training Administration (ETA) and Bureau of Labor Statistics (BLS).
 

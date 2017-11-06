@@ -10,7 +10,7 @@ tag:
   - Trends on Tuesday
 ---
 
-[{{< legacy-img src="2014/03/tablet-screen-digitalgov-mobile.jpg" alt="Hand holding tablet screen showing Digitalgov.gov's mobile channel posts." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/tablet-screen-digitalgov-mobile.jpg)Tablet ownership continues to rise, 44% of Americans now owning one, according to [Consumer Electronics Association (CEA) December 2013  estimates](http://www.ce.org/News/News-Releases/Press-Releases/2013-Press-Releases/Tablet-Ownership-Rate-Reaches-New-High-of-44-Perce.aspx).
+[{{< legacy-img src="2014/03/tablet-screen-digitalgov-mobile.jpg" alt="Hand holding tablet screen showing Digitalgov.gov's mobile channel posts." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/tablet-screen-digitalgov-mobile.jpg)Tablet ownership continues to rise, 44% of Americans now owning one, according to [Consumer Electronics Association (CEA) December 2013  estimates](http://www.ce.org/News/News-Releases/Press-Releases/2013-Press-Releases/Tablet-Ownership-Rate-Reaches-New-High-of-44-Perce.aspx).
   
 Other interesting findings include:
 

@@ -15,7 +15,7 @@ tag:
 ---
 
 <p dir="ltr">
-  <a href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/09/person-holding-hand-up-in-front-of-camera.jpg">{{< legacy-img src="2013/09/person-holding-hand-up-in-front-of-camera.jpg" alt="person holding hand up in front of camera" >}}</a>As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.
+  <a href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/person-holding-hand-up-in-front-of-camera.jpg">{{< legacy-img src="2013/09/person-holding-hand-up-in-front-of-camera.jpg" alt="person holding hand up in front of camera" >}}</a>As non-lawyers peering into the legal world, be advised this post is not official legal advice from the Office of General Counsel. These are our impressions and what we took away from the Legal Learning Series session Social Media &#8211; Privacy, Records and Litigation.
 </p>
 
 <p dir="ltr">

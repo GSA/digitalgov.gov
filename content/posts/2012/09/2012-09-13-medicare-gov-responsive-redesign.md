@@ -14,7 +14,7 @@ tag:
   - responsive web design
 ---
 
-_[{{< legacy-img src="2013/12/Medicare-tablet-vertical-187x250.jpg" alt="Medicare-tablet-vertical" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/Medicare-tablet-vertical.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the **Centers for Medicare and Medicaid Services**._
+_[{{< legacy-img src="2013/12/Medicare-tablet-vertical-187x250.jpg" alt="Medicare-tablet-vertical" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Medicare-tablet-vertical.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the **Centers for Medicare and Medicaid Services**._
 
 <a href="http://www.medicare.gov" rel="nofollow">Medicare.gov</a> is the consumer website for Medicare beneficiaries, caregivers, and advocates. The site includes information about Medicare plans, coverage, and care quality managed by the Centers for Medicare & Medicaid Services within Department of Health and Human Services. Initially, the site was going to be improved to implement a web content management system that would allow for easier maintenance of content on the site.
 

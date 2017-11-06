@@ -25,7 +25,7 @@ It&#8217;s similar to buying a car. There’s not one answer to how much it cost
 
 As the manager of the [USA.gov Contact Center](http://www.usa.gov/phone.shtml) and the Co-Chair of the [Government Contact Center Council]({{< link "communities/government-contact-center-council" >}}) (G3C), I get this question about once a month. We&#8217;ve developed a set of questions that will help an agency determine the type of contact center support they need.
 
-If you’re starting a contact center, or thinking of changing your model, first, determine the answers to these questions. (Note: this list is [available for download](https://s3.amazonaws.com/digitalgov/legacy-img/2015/04/ContactCenterCost-FactorsToConsider.docx) [22.5 kb, Ms Word, .docx])
+If you’re starting a contact center, or thinking of changing your model, first, determine the answers to these questions. (Note: this list is [available for download](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/ContactCenterCost-FactorsToConsider.docx) [22.5 kb, Ms Word, .docx])
 
 <li style="margin-bottom: 15px">
   <strong>Do you want contractor support or will you be using government full time employees? If contracting out, what level?</strong> <ul>

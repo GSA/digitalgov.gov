@@ -153,4 +153,4 @@ Help your readers complete their tasks with these Plain Language writing tips:
   </tr>
 </table>
 
-{{< button href="https://s3.amazonaws.com/digitalgov/legacy-img/2013/11/checklist-for-Plain-Language-Web-writing.docx" text="Download Checklist" >}}
+{{< button href="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/checklist-for-Plain-Language-Web-writing.docx" text="Download Checklist" >}}

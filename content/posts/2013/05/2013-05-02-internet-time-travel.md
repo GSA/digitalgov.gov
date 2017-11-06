@@ -15,7 +15,7 @@ tag:
 
 The <a title="first web page ever" href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">first public page</a> on the world wide web went live twenty years ago on April 30, 1993. Take a look because this is the page that explains all things www at the time.
 
-[{{< legacy-img src="2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to enlarge." >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/05/first-WWW-page-3.jpg)
+[{{< legacy-img src="2013/05/first-WWW-page-3.jpg" alt="Screen shot of the very first world wide webpage. A sparse page with text and links. Click image to enlarge." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/first-WWW-page-3.jpg)
 
 <a title="read write web link to CERN first web story" href="http://readwrite.com/2013/04/30/first-ever-world-wide-web-site-brought-back-to-original-url" target="_blank">ReadWriteWeb</a> put it in perspective:
 

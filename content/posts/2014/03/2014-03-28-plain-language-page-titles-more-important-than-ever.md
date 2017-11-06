@@ -13,7 +13,7 @@ tag:
   - search engine optimization
 ---
 
-[{{< legacy-img src="2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg)Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
+[{{< legacy-img src="2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg" alt="screen grab of DigitalGov Search in Google results page" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/03/DigitalGov-Search-screen-shot-600-x-485.jpg)Government Web pages are found mainly through search engines. Google recently [redesigned its search results page](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web) and there are quite a few small, but impactful, changes in this latest redesign. Specifically, it affects how page titles are displayed.
 
 Many experts now recommend even shorter page titles. Below are a couple of articles (plus tools) to see how the change may affect your page titles:
 

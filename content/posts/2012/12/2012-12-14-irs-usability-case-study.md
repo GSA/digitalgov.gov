@@ -29,7 +29,7 @@ There was too much information on the page. Users were presented with a massive 
 
 The amount of links on the page were greatly reduced, and brief plain language explanations were added for each featured link in the main body of the page.
 
-[{{< legacy-img src="2013/12/IRS-before-new.jpg" alt="IRS before - new" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/IRS-before-new.jpg)
+[{{< legacy-img src="2013/12/IRS-before-new.jpg" alt="IRS before - new" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/IRS-before-new.jpg)
 
 ## 
 
@@ -53,6 +53,6 @@ An emphasis was placed on using plain language wherever possible on the site. Th
 
 The IRS team took the ideas from the First Fridays test and was able to implement them as part of their broader [IRS website redesign](http://www.irs.gov/Retirement-Plans).
 
-[{{< legacy-img src="2013/12/IRS-after-new.png" alt="IRS after - new" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/IRS-after-new.png)
+[{{< legacy-img src="2013/12/IRS-after-new.png" alt="IRS after - new" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/IRS-after-new.png)
 
  

@@ -24,7 +24,7 @@ On April 10, 2014, Loren Siebert, our [DigitalGov Search]({{< link "search.md" >
   * Popular open source search technologies, and
   * &#8220;Search magic&#8221; like stemming, synonyms, fuzziness, and stopwords.
 
-Download the [slide deck](https://s3.amazonaws.com/digitalgov/legacy-img/2014/04/2014-04-11-search-big-data.pdf) and visit the resources below to learn more.
+Download the [slide deck](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/04/2014-04-11-search-big-data.pdf) and visit the resources below to learn more.
 
   * Download or learn about [Elasticsearch](http://www.elasticsearch.org/), [Solr](http://lucene.apache.org/solr/), and [Lucene](http://lucene.apache.org/).
   * Download the [Snowball](http://snowball.tartarus.org/) stemmer, or learn about other stemmers.

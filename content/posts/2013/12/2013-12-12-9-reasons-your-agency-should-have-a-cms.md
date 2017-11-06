@@ -14,7 +14,7 @@ tag:
   - Content Management System
 ---
 
-**[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**
+**[{{< legacy-img src="2013/12/nine-250x250.png" alt="Highway 9 sign" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/nine.png)Why Invest in a Content Management System?**
 
 Does it take too long to update and post digital content? Do you lack consistent branding across your website(s)? Is outdated, redundant content leading to a poor customer experience? Does your agency website show up too far down in search results? Are you re-creating the same content for different platforms such as Web or mobile?
 

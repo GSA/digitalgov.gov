@@ -13,7 +13,7 @@ tag:
   - United States Department of Housing and Urban Development
 ---
 
-[{{< legacy-img src="2013/10/HUD-Mobile-Apps.png" alt="Screen shot showing HUD's mobile app home screens" >}}](https://s3.amazonaws.com/digitalgov/legacy-img/2013/10/HUD-Mobile-Apps.png)
+[{{< legacy-img src="2013/10/HUD-Mobile-Apps.png" alt="Screen shot showing HUD's mobile app home screens" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/10/HUD-Mobile-Apps.png)
 
 The [Department of Housing and Urban Development](http://www.hud.gov) has two apps that can help citizens learn about their housing rights, locate housing counselors and file housing discrimination complaints.
 
