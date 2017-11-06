@@ -27,7 +27,7 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[Challenges & Prizes]({{< link "challenges-prizes.md" >}})**: We encourage public participation in crowdsourcing competitions to find innovative government solutions.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "challenges-prizes.md" >}})
 
-**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of government to provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
+**[Community Solutions]({{< link "community-solutions.md" >}})**: A community of federal staff that provide services to local communities in a holistic and collaborative way by developing innovative and crosscutting partnerships. We are experts who help federal, state, local, and regional leaders enhance their relationships with their local communities and create targeted solutions that drive meaningful outcomes.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "community-solutions.md" >}})
 
 **[Crowdsourcing and Citizen Science]({{< link "crowdsourcing-and-citizen-science.md" >}})**: Designing, implementing, and evaluating crowdsourcing and citizen science initiatives.<br/>
@@ -42,13 +42,13 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[MobileGov]({{< link "mobilegov.md" >}})**: Creating anytime, anywhere government resources and solutions with collaborations including the Federal Crowdsource Mobile Testing Program, the Structured and Open Content Models Working Group.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "mobilegov.md" >}})
 
-**[Multilingual Digital Group]({{< link "multilingual.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.<br/>
+**[Multilingual Community]({{< link "multilingual.md" >}})**: Expanding and improving access to digital content on different platforms in languages other than English.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "multilingual.md" >}})
 
-**[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues. Bi-weekly implementation support meetings are held every Tuesday at GSA for Federal employees and contractors.<br/>
+**[Open Data]({{< link "open-data.md" >}}):** Uniting open data leads at federal agencies, data stewards, and all others in government interested in open data, enterprise data inventory, civic tech, and data-driven government issues.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "open-data.md" >}})
 
-**[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies. <br/>[Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
+**[OpenGov]({{< link "open-gov.md" >}}):** A place where we talk about transparency, open-participation, and collaboration across agencies.<br/>[Learn&nbsp;more&nbsp;»]({{< link "open-gov.md" >}})
 
 **[Plain Language Action and Information Network]({{< link "plain-language-community-of-practice.md" >}})**: Supporting the use of clear communication in government writing and helping federal agencies comply with the Plain Writing Act of 2010.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "plain-language-community-of-practice.md" >}})
@@ -56,10 +56,10 @@ There are more than 10,000 people participating across government in 19 areas. O
 **[SocialGov](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)**: Analyzing, testing and developing shared resources for digital engagement, participation and collaboration programs for citizens.<br/>
 [Learn&nbsp;more&nbsp;»](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov)
 
-**[User Experience]({{< link "user-experience.md" >}})**: User Experience: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
+**[User Experience]({{< link "user-experience.md" >}})**: Developing successful government products and services through the practice of user-centered design, casting a broad tent in the user experience, customer experience, service design, innovation, behavioral design and other fields.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "user-experience.md" >}})
 
-**[Video Production Pros]({{< link "video.md" >}})** Creating the best video content possible by staying on the top of our game. We love what we do. We’re a group of storytellers, artists, directors, DPs, producers, gaffers, editors, animators, motion graphics artists, editors, technologists, visionaries, strategists and editorial teams and more.<br/>
+**[Video Production Pros]({{< link "video.md" >}})** Sharing leading trends, best practices, latest projects, feedback, techniques, and strategies that help our respective agencies connect with people through the power of video.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "video.md" >}})
 
 **[Virtual/Augmented Reality](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality)**: Analyzing, testing and developing shared resources for Virtual and Augmented Reality programs to improve the citizen experience of public services and resources.<br/>
