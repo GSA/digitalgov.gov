@@ -8,6 +8,8 @@ aliases:
   - /communities/open-government-opengov-community-of-practice/
 ---
 
+The Interagency Open Government Community of Practice is where we talk about transparency, open-participation, and collaboration across agencies.
+
 ### Join
 We host two listservs. One is open to the public/civil society for the purposes of collaboration and discussion as well as coordination the quarterly government & civil society gatherings. The other is a government-only listserv and is primarily to disseminate government specific information on timelines and deadlines for the NAP and offer support as agencies work to achieve their commitments.
 
