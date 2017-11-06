@@ -82,6 +82,10 @@
     height: size(10px);
     width: size(10px);
   }
+  @include media($small-screen) {
+    top: 1px;
+    padding-left: 4px;
+  }
 }
 
 .usa-media_block {
