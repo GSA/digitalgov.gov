@@ -1,6 +1,6 @@
 ---
 slug: fedramp-tailored-overview-finalized-new-baseline
-title: 'FedRAMP Tailored&#58; Overview of the Finalized New Baseline'
+title: 'FedRAMP Tailored: Overview of the Finalized New Baseline'
 summary: 'This online event will cover the overview of the FedRAMP Tailored Baseline for Cloud Service Providers &#40;CSPs&#41; with Low-Impact Software- as-a-Service &#40;LI-SaaS&#41; Systems&#46;'
 featured_image:
   uid: tile-4

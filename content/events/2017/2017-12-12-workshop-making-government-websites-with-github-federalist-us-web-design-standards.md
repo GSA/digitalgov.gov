@@ -1,6 +1,6 @@
 ---
 slug: workshop-making-government-websites-with-github-federalist-us-web-design-standards
-title: 'Workshop&#58; Making Government Websites with GitHub, Federalist, &amp; U&#46;S&#46; Web Design Standards'
+title: 'Workshop: Making Government Websites with GitHub, Federalist, & U.S. Web Design Standards'
 summary: 'Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U&#46;S&#46; Web Design Standards&#46;'
 featured_image:
   uid: tile-4
