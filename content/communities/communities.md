@@ -2,18 +2,19 @@
 url: /communities/
 uid: communities
 date: 2013-11-17 11:12:13 -0400
+type: docs
 title: 'Communities of Practice'
 summary: 'Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.'
 
 ---
 
-### Come together, learn from others in government.
+#### Come together, learn from others in government.
 
 Our communities are where people in government come together to learn, share and collaborate to build solutions to common problems and challenges.
 
 There are more than 10,000 people participating across government in 19 areas. Our members share resources, work on solutions together and serve as a catalyst for  change in government.
 
-### Our Communities
+#### Our Communities
 
 **[Agile/Lean]({{< link "agile-lean.md" >}})**: Increasing awareness of the Lean Startup philosophy and Agile methodologies, which have proven—in the private and public sector—to increase team performance and customer satisfaction while reducing project risk and cost.<br/>
 [Learn&nbsp;more&nbsp;»]({{< link "agile-lean.md" >}})
@@ -70,7 +71,7 @@ There are more than 10,000 people participating across government in 19 areas. O
 
 ---
 
-### Community Guidelines
+#### Community Guidelines
 
 Our lawyers wanted to remind you — _Members of a Community must use official .gov or .mil e-mail addresses, and understand that they are acting in their official capacities represented through their U.S. government agencies. No commercial communications or endorsements are permitted. All listserv communications are subject to release under the Freedom of Information Act._
 

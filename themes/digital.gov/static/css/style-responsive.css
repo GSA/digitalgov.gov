@@ -22,7 +22,6 @@
 		-webkit-box-shadow: none;
 		box-shadow: none;
 	}
-
 }
 
 @media only screen and (max-width: 1024px) {
@@ -42,8 +41,6 @@
 		margin-left:-2%;
 		margin-right:-2%;
 	}
-
-
 }
 
 @media only screen and (max-width: 960px) {
@@ -61,7 +58,6 @@
 	.slide-shadow {
 		background:transparent;
 	}
-
 }
 
 @media only screen and (max-width: 800px) {
@@ -98,7 +94,7 @@
 	}
 
 	.centercatnav #sitetitle,
-	.header2 #sitetitle, 
+	.header2 #sitetitle,
 	#sitetitle {
 		max-width:100%;
 		width:100%;
@@ -127,10 +123,10 @@
 		margin:0 auto;
 	}
 
-	#topnav ul.nav, 
+	#topnav ul.nav,
 	#catnav ul.catnav,
-	#fixednav ul.fixednav { 
-		display: none; 
+	#fixednav ul.fixednav {
+		display: none;
 	}
 
 	#topnav .sub-icons {
@@ -252,7 +248,7 @@
 		padding: 0;
 		margin:0 auto 15px;
 	}
-	
+
 	.banner728.left {
 		margin: 0 auto 10px;
 		float:none;
@@ -353,14 +349,13 @@
 	#footnav ul a,
 	#footnav ul a:link,
 	#footnav ul a:visited  {
-		padding:0;  
+		padding:0;
 		margin:0 10px 0 0;
 	}
 
 	#contentleft {
 		padding-bottom:30px;
 	}
-
 }
 
 @media only screen and (max-width:640px) {
@@ -440,7 +435,6 @@
 	}
 
 	#fixednav { display:none !important; }
-
 }
 
 @media only screen and (max-width:560px) {
@@ -482,7 +476,7 @@
 
 	.comment-body img.avatar {
 		margin:0 0 10px;
-		position:static;	
+		position:static;
 	}
 
 	.featured.wide .myflexslider h2.post-title a,
@@ -502,14 +496,11 @@
 
 	ul#portfolio li.post,
 	.fwidth ul#portfolio li.post {
-		margin: 0 auto 1px; 
+		margin: 0 auto 1px;
 		width:100%;
 		float:none;
 		display:block;
 	}
-
-
-
 }
 
 @media only screen and (max-width:480px) {
