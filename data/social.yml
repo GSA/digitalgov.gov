@@ -22,9 +22,3 @@ sources:
     link          : "http://www.youtube.com/digitalgov"
     shortcode     : "youtube"
     action        : "Connect on YouTube"
-
-  - name          : "Google Plus"
-    username      : nil
-    link          : "https://plus.google.com/109077476228639396954?rel=author"
-    shortcode     : "gplus"
-    action        : "Connect on Google+"

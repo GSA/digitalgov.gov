@@ -1,0 +1,434 @@
+@if $scope-normalize == false {
+  html {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+  }
+
+  body {
+    margin: 0;
+  }
+
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  hgroup,
+  main,
+  menu,
+  nav,
+  section,
+  summary {
+    display: block;
+  }
+
+  audio,
+  canvas,
+  progress,
+  video {
+    display: inline-block; /* 1 */
+    vertical-align: baseline; /* 2 */
+  }
+
+  audio:not([controls]) {
+    display: none;
+    height: 0;
+  }
+
+  [hidden],
+  template {
+    display: none;
+  }
+
+  a {
+    background-color: transparent;
+  }
+
+  a:active,
+  a:hover {
+    outline: 0;
+  }
+
+  abbr[title] {
+    border-bottom: 1px dotted;
+  }
+
+  b,
+  strong {
+    font-weight: bold;
+  }
+
+  dfn {
+    font-style: italic;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+
+  mark {
+    background: #ff0;
+    color: #000;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub,
+  sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+  sup {
+    top: -0.5em;
+  }
+
+  sub {
+    bottom: -0.25em;
+  }
+
+  img {
+    border: 0;
+  }
+
+  svg:not(:root) {
+    overflow: hidden;
+  }
+
+  figure {
+    margin: 1em 40px;
+  }
+
+  hr {
+    box-sizing: content-box;
+    height: 0;
+  }
+
+  pre {
+    overflow: auto;
+  }
+
+  code,
+  kbd,
+  pre,
+  samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+  }
+
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    color: inherit; /* 1 */
+    font: inherit; /* 2 */
+    margin: 0; /* 3 */
+  }
+
+  button {
+    overflow: visible;
+  }
+
+  button,
+  select {
+    text-transform: none;
+  }
+
+  button,
+  html input[type="button"], /* 1 */
+  input[type="reset"],
+  input[type="submit"] {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+  }
+
+  button[disabled],
+  html input[disabled] {
+    cursor: default;
+  }
+
+  button::-moz-focus-inner,
+  input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+  }
+
+  input {
+    line-height: normal;
+  }
+
+  input[type="checkbox"],
+  input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+  }
+
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    box-sizing: content-box; /* 2 */
+  }
+
+  input[type="search"]::-webkit-search-cancel-button,
+  input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+  }
+
+  legend {
+    border: 0; /* 1 */
+    padding: 0; /* 2 */
+  }
+
+  textarea {
+    overflow: auto;
+  }
+
+  optgroup {
+    font-weight: bold;
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  td,
+  th {
+    padding: 0;
+  }
+} @else {
+  .normalize html, html.normalize {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+  }
+  .normalize body, body.normalize {
+    margin: 0;
+  }
+
+  .normalize article, article.normalize,
+  .normalize aside, aside.normalize,
+  .normalize details, details.normalize,
+  .normalize figcaption, figcaption.normalize,
+  .normalize figure, figure.normalize,
+  .normalize footer, footer.normalize,
+  .normalize header, header.normalize,
+  .normalize hgroup, hgroup.normalize,
+  .normalize main, main.normalize,
+  .normalize menu, menu.normalize,
+  .normalize nav, nav.normalize,
+  .normalize section, section.normalize,
+  .normalize summary, summary.normalize {
+    display: block;
+  }
+
+  .normalize audio, audio.normalize,
+  .normalize canvas, canvas.normalize,
+  .normalize progress, progress.normalize,
+  .normalize video, video.normalize {
+    display: inline-block; /* 1 */
+    vertical-align: baseline; /* 2 */
+  }
+
+  .normalize audio:not([controls]), audio:not([controls]).normalize {
+    display: none;
+    height: 0;
+  }
+
+  .normalize [hidden], [hidden].normalize,
+  .normalize template, template.normalize {
+    display: none;
+  }
+
+  .normalize a, a.normalize {
+    background-color: transparent;
+  }
+
+  .normalize a:active, a:active.normalize,
+  .normalize a:hover, a:hover.normalize {
+    outline: 0;
+  }
+
+  .normalize abbr[title], abbr[title].normalize {
+    border-bottom: 1px dotted;
+  }
+
+  .normalize b, b.normalize,
+  .normalize strong, strong.normalize {
+    font-weight: bold;
+  }
+
+  .normalize dfn, dfn.normalize {
+    font-style: italic;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+
+  .normalize mark, mark.normalize {
+    background: #ff0;
+    color: #000;
+  }
+
+  .normalize small, small.normalize {
+    font-size: 80%;
+  }
+
+  .normalize sub, sub.normalize,
+  .normalize sup, sup.normalize {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+  .normalize sup, sup.normalize {
+    top: -0.5em;
+  }
+
+  .normalize sub, sub.normalize {
+    bottom: -0.25em;
+  }
+
+  .normalize img, img.normalize {
+    border: 0;
+  }
+
+  .normalize svg:not(:root), svg:not(:root).normalize {
+    overflow: hidden;
+  }
+
+  .normalize figure, figure.normalize {
+    margin: 1em 40px;
+  }
+
+  .normalize hr, hr.normalize {
+    box-sizing: content-box;
+    height: 0;
+  }
+
+  .normalize pre, pre.normalize {
+    overflow: auto;
+  }
+
+  .normalize code, code.normalize,
+  .normalize kbd, kbd.normalize,
+  .normalize pre, pre.normalize,
+  .normalize samp, samp.normalize {
+    font-family: monospace, monospace;
+    font-size: 1em;
+  }
+
+  .normalize button, button.normalize,
+  .normalize input, input.normalize,
+  .normalize optgroup, optgroup.normalize,
+  .normalize select, select.normalize,
+  .normalize textarea, textarea.normalize {
+    color: inherit; /* 1 */
+    font: inherit; /* 2 */
+    margin: 0; /* 3 */
+  }
+
+  .normalize button, button.normalize {
+    overflow: visible;
+  }
+
+  .normalize button, button.normalize,
+  .normalize select, select.normalize {
+    text-transform: none;
+  }
+
+  .normalize button, button.normalize,
+  html input[type="button"], /* 1 */
+  .normalize input[type="reset"], input[type="reset"].normalize,
+  .normalize input[type="submit"], input[type="submit"].normalize {
+    -webkit-appearance: button; /* 2 */
+    cursor: pointer; /* 3 */
+  }
+
+  .normalize button[disabled], button[disabled].normalize,
+  html input[disabled] {
+    cursor: default;
+  }
+
+  .normalize button::-moz-focus-inner, button::-moz-focus-inner.normalize,
+  .normalize input::-moz-focus-inner, input::-moz-focus-inner.normalize {
+    border: 0;
+    padding: 0;
+  }
+
+  .normalize input, input.normalize {
+    line-height: normal;
+  }
+
+  .normalize input[type="checkbox"], input[type="checkbox"].normalize,
+  .normalize input[type="radio"], input[type="radio"].normalize {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+  }
+
+  .normalize input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-inner-spin-button.normalize,
+  .normalize input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-outer-spin-button.normalize {
+    height: auto;
+  }
+
+  .normalize input[type="search"], input[type="search"].normalize {
+    -webkit-appearance: textfield; /* 1 */
+    box-sizing: content-box; /* 2 */
+  }
+
+  .normalize input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-cancel-button.normalize,
+  .normalize input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-decoration.normalize {
+    -webkit-appearance: none;
+  }
+
+  .normalize fieldset, fieldset.normalize {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+  }
+
+  .normalize legend, legend.normalize {
+    border: 0; /* 1 */
+    padding: 0; /* 2 */
+  }
+
+  .normalize textarea, textarea.normalize {
+    overflow: auto;
+  }
+
+  .normalize optgroup, optgroup.normalize {
+    font-weight: bold;
+  }
+
+  .normalize table, table.normalize {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  .normalize td, td.normalize,
+  .normalize th, th.normalize {
+    padding: 0;
+  }
+}

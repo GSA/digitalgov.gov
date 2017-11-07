@@ -1,0 +1,99 @@
+.usa-button,
+.usa-button-primary,
+.usa-button:visited,
+.usa-button-primary:visited {
+  padding: size(10px) size(20px);
+}
+
+.usa-banner {
+  position: relative;
+}
+
+.usa-banner-inner {
+  @include media($medium-screen) {
+    padding: 0 calc(2% + 8px);
+    width: 96%;
+  }
+  @include media($large-screen) {
+    margin: 0 auto;
+    padding: 0 size(8px);
+    width: 960px;
+  }
+}
+
+.usa-banner-content {
+  @include media($medium-screen) {
+    padding-left: calc(2% + 8px);
+    padding-right: calc(2% + 8px);
+    width: 96%;
+  }
+  @include media($large-screen) {
+    padding-left: size(8px);
+    padding-right: size(8px);
+    width: 960px;
+  }
+}
+
+.usa-banner-header {
+  font-size: size(10px);
+  @include media($small-screen) {
+    font-size: size(12px);
+    @include padding(0 0 3px 0);
+  }
+  img {
+    display: block;
+    float: left;
+    margin-right: size(10px);
+    margin-top: 0;
+    vertical-align: middle;
+    width: size(24px);
+
+    @include media($small-screen) {
+      display: inline-block;
+      float: none;
+      margin-right: size(10px);
+      width: size(20px);
+    }
+  }
+  p {
+    @include position(1px null null -2px);
+    display: block;
+    line-height: 1.15;
+    position: relative;
+    @include media($small-screen) {
+      @include position(auto null null auto);
+      display: inline;
+      line-height: 1;
+      overflow: visible;
+      margin: 0;
+    }
+  }
+  &-expanded {
+    img {
+      margin-right: size(10px);
+    }
+  }
+}
+
+.usa-accordion-button[aria-expanded=false],
+.usa-accordion-button[aria-expanded=true] {
+  background-size: size(15px);
+  &:after {
+    height: size(10px);
+    width: size(10px);
+  }
+  @include media($small-screen) {
+    top: 1px;
+    padding-left: 4px;
+  }
+}
+
+.usa-media_block {
+  &-img {
+    float: left;
+    margin-right: 1rem;
+  }
+  &-body {
+    overflow: hidden;
+  }
+}
