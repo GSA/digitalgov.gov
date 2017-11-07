@@ -1,6 +1,6 @@
 ---
 slug: workshop-making-government-websites-with-github-federalist-us-web-design-standards
-title: 'Workshop: Making Government Websites with GitHub, Federalist, & U.S. Web Design Standards'
+title: 'Workshop: Making Government Websites with GitHub, Federalist & U.S. Web Design Standards'
 summary: 'Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U&#46;S&#46; Web Design Standards&#46;'
 event_type: in-person
 date: 2017-12-12 09:00:00 -0400
@@ -37,9 +37,10 @@ The second part of the workshop is your chance to get hands-on experience with t
 
 
 When you register for the event, we’d like to know:
-- Are you interested in a GitHub-for-beginners training? What specific questions about GitHub would you want the training to cover?
-- Do you have a website you think Federalist might be a good candidate for hosting?
-- If so, tell us about the website
-- Are you interested in learning how to design, code, and build Federalist websites?
-- Are you interested in more details on managing a Federalist site in your agency? (non technical discussion)
-- Any other areas/questions you’d like us to cover at this event?
+
+* Are you interested in a GitHub-for-beginners training? What specific questions about GitHub would you want the training to cover?
+* Do you have a website you think Federalist might be a good candidate for hosting?
+* If so, tell us about the website
+* Are you interested in learning how to design, code, and build Federalist websites?
+* Are you interested in more details on managing a Federalist site in your agency? (non technical discussion)
+* Any other areas/questions you’d like us to cover at this event?
