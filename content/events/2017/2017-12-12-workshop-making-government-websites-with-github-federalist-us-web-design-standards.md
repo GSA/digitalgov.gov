@@ -2,9 +2,6 @@
 slug: workshop-making-government-websites-with-github-federalist-us-web-design-standards
 title: 'Workshop: Making Government Websites with GitHub, Federalist, & U.S. Web Design Standards'
 summary: 'Come learn how to create a simple, compliant government website, using Federalist, GitHub and the U&#46;S&#46; Web Design Standards&#46;'
-featured_image:
-  uid: tile-4
-  alt: 'decorative tile'
 event_type: in-person
 date: 2017-12-12 09:00:00 -0400
 end_date: 2017-12-12 12:00:00 -0400
@@ -30,13 +27,13 @@ This workshop will provide you and your team with an overview of using TTS’s n
 
 The second part of the workshop is your chance to get hands-on experience with these tools. We are designing three breakout sessions aimed at helping those on your team publish on Federalist by the end of the day.
 
-**Schedule**
-- 9-9:15am — Arrivals
-- 9:15-10am — Federalist overview
-- 10-10:45am — Breakout working groups
-- 10:45am — Take temperature of the room
-- 10:45 — 11am - Break
-- 11 - 12:00pm — Further learning and discussion
+### Schedule
+* 9 - 9:15am — Arrivals
+* 9:15 - 10am — Federalist overview
+* 10 - 10:45am — Breakout working groups
+* 10:45am — Take temperature of the room
+* 10:45 — 11am - Break
+* 11 - 12:00pm — Further learning and discussion
 
 
 When you register for the event, we’d like to know:

@@ -1,10 +1,7 @@
 ---
 slug: fedramp-tailored-overview-finalized-new-baseline
 title: 'FedRAMP Tailored: Overview of the Finalized New Baseline'
-summary: 'This online event will cover the overview of the FedRAMP Tailored Baseline for Cloud Service Providers &#40;CSPs&#41; with Low-Impact Software- as-a-Service &#40;LI-SaaS&#41; Systems&#46;'
-featured_image:
-  uid: tile-4
-  alt: 'decorative tile'
+summary: 'This online event will cover the overview of the FedRAMP Tailored Baseline for Cloud Service Providers (CSPs) with Low-Impact Software-as-a-Service (LI-SaaS) Systems.'
 event_type: online
 date: 2017-11-15 13:00:00 -0400
 end_date: 2017-11-15 14:00:00 -0400
