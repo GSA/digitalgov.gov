@@ -17,7 +17,7 @@ tag:
   - United States Department of Health and Human Services
 ---
 
-We are pleased to announce the beginnings of a new Syndication.Net/Sharepoint module for the Department of Health and Human Services (HHS) Syndication Storefront. The collaborative effort between HHS and National Institutes of Health&#8217;s (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) teams will eventually enable .NET content management system users to publish content directly in the [HHS digital media syndication storefront](https://digitalmedia.hhs.gov). {{< legacy-img src="2015/12/600-x-413-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" caption="" >}} 
+We are pleased to announce the beginnings of a new Syndication.Net/Sharepoint module for the Department of Health and Human Services (HHS) Syndication Storefront. The collaborative effort between HHS and National Institutes of Health&#8217;s (NIH), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) teams will eventually enable .NET content management system users to publish content directly in the [HHS digital media syndication storefront](https://digitalmedia.hhs.gov). {{< legacy-img src="2015/12/600-x-413-Electronic-documents-sharing-Pei-ling-Hoo-Hemera-thinkstock-99708065.jpg" alt="Electronic documents sharing" caption="" >}}
 
 ## How did they do it, and what’s next?
 
@@ -30,5 +30,3 @@ Interested in learning more about content syndication? Please check out the foll
 [Content Syndication of NIH Grants Information Now Available]({{< link "2015-07-02-content-syndication-of-nih-grants-information-now-available.md" >}})
 
 [Government Open and Structured Content Models Are Here!]({{< link "2014-05-05-government-open-and-structured-content-models-are-here.md" >}})
-
- 
